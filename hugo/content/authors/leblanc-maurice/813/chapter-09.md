@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - \"Santé Palace\""
 weight: 10
-aliases:
-  - "/authors/leblanc-maurice/813/chapter-09.html"
+url: "/authors/leblanc-maurice/813/chapter-09.html"
 ---
 
 There was one wild burst of laughter over the whole face of the world.

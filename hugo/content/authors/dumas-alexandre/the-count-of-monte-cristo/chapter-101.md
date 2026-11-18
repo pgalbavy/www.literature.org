@@ -1,8 +1,7 @@
 ---
 title: "Chapter 101 - Locusta"
 weight: 101
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-101.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-101.html"
 ---
 
 Valentine was alone; two other clocks, slower than that of Saint-Philippe du Roule, struck the hour of midnight from different directions, and excepting the rumbling of a few carriages all was silent. Then Valentine's attention was engrossed by the clock in her room, which marked the seconds. She began counting them, remarking that they were much slower than the beatings of her heart; and still she doubted, - the inoffensive Valentine could not imagine that any one should desire her death. Why should they? To what end? What had she done to excite the malice of an enemy? There was no fear of her falling asleep. One terrible idea pressed upon her mind, - that some one existed in the world who had attempted to assassinate her, and who was about to endeavor to do so again. Supposing this person, wearied at the inefficacy of the poison, should, as Monte Cristo intimated, have recourse to steel! - What if the count should have no time to run to her rescue! - What if her last moments were approaching, and she should never again see Morrel! When this terrible chain of ideas presented itself, Valentine was nearly persuaded to ring the bell, and call for help. But through the door she fancied she saw the luminous eye of the count - that eye which lived in her memory, and the recollection overwhelmed her with so much shame that she asked herself whether any amount of gratitude could ever repay his adventurous and devoted friendship.

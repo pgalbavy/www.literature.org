@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Moon-Face"
 weight: 1
-aliases:
-  - "/authors/london-jack/moon-face/chapter-01.html"
+url: "/authors/london-jack/moon-face/chapter-01.html"
 ---
 
 John Claverhouse was a moon-faced man. You know the kind, cheek-bones wide apart, chin and forehead melting into the cheeks to complete the perfect round, and the nose, broad and pudgy, equidistant from the circumference, flattened against the very centre of the face like a dough-ball upon the ceiling. Perhaps that is why I hated him, for truly he had become an offense to my eyes, and I believed the earth to be cumbered with his presence. Perhaps my mother may have been superstitious of the moon and looked upon it over the wrong shoulder at the wrong time.

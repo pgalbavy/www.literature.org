@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Ruse That Failed"
 weight: 6
-aliases:
-  - "/authors/mckishnie-archie-p/a-son-of-courage/chapter-06.html"
+url: "/authors/mckishnie-archie-p/a-son-of-courage/chapter-06.html"
 ---
 
 Out behind the wood-shed Maurice Keeler, by the dim light of a smoky lantern, was splitting kindling for the morning's fire when something clammy and twisting dropped across the back of his neck.

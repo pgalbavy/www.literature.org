@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - \u0026quot;'Tis Clo Wildairs, Man--All The County Knows The Vixen\u0026quot;"
 weight: 8
-aliases:
-  - "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-07.html"
+url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-07.html"
 ---
 
 A month later he went to Warwickshire at my Lord Dunstanwolde's invitation. In that part of the county which borders upon Gloucestershire was his Lordship's seat, which was known as Dunstan's Wolde. 'Twas an ancient and beautiful estate, and his Lordship spent his quiet and secluded life upon it, much beloved by his tenantry, and respected by his neighbours. Since his young wife's death his manner of living had become more secluded year after year; his library, his memories, and the administration of his estates filled his days with quiet occupation.

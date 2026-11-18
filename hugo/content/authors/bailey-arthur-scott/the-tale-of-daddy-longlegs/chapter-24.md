@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - A Bridegroom"
 weight: 24
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-24.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-24.html"
 ---
 
 DADDY LONGLEGS was taken entirely by surprise. It was rather early in the morning. And he had not expected callers--at least not so many as suddenly appeared at the stone wall where he was usually to be found.

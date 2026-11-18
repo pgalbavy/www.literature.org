@@ -1,8 +1,7 @@
 ---
 title: "Chapter 65 - Philosophy Of The Heart And Mind"
 weight: 65
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-65.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-65.html"
 ---
 
 For a man who had seen so many much more dangerous ones, the position of D'Artagnan with respect to M. Colbert was only comic. D'Artagnan, therefore, did not deny himself the satisfaction of laughing at the expense of monsieur l'intendant, from the Rue des Petits-Champs to the Rue des Lombards. It was a great while since D'Artagnan had laughed so long together. He was still laughing when Planchet appeared, laughing likewise, at the door of his house; for Planchet, since the return of his patron, since the entrance of the English guineas, passed the greater part of his life in doing what D'Artagnan had only done from Rue-Neuve des Petits-Champs to the Rue des Lombards.

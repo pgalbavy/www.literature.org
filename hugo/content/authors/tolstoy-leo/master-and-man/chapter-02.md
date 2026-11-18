@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/tolstoy-leo/master-and-man/chapter-02.html"
+url: "/authors/tolstoy-leo/master-and-man/chapter-02.html"
 ---
 
 The good stallion took the sledge along at a brisk pace over the smooth-frozen road through the village, the runners squeaking slightly as they went.

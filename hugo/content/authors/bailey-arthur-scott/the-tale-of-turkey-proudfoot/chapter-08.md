@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Hard To Please"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-08.html"
 ---
 
 It was very hard to please Turkey Proudfoot. To be sure, he always pleased himself. But nothing anyone else did seemed to suit him. And there was one thing that always made him peevish. That was the gobbling of the younger turkey cocks.

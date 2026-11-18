@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 3"
 weight: 3
-aliases:
-  - "/authors/conrad-joseph/the-shadow-line/part-01-chapter-03.html"
+url: "/authors/conrad-joseph/the-shadow-line/part-01-chapter-03.html"
 ---
 
 The first thing I saw down there was the upper part of a man’s body projecting backward, as it were, from one of the doors at the foot of the stairs. His eyes looked at me very wide and still. In one hand he held a dinner plate, in the other a cloth.

@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 4"
 weight: 4
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-01-chapter-04.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-01-chapter-04.html"
 ---
 
 Just then another visitor entered the drawing room: Prince Andrew Bolkonski, the little princess' husband. He was a very handsome young man, of medium height, with firm, clearcut features. Everything about him, from his weary, bored expression to his quiet, measured step, offered a most striking contrast to his quiet, little wife. It was evident that he not only knew everyone in the drawing room, but had found them to be so tiresome that it wearied him to look at or listen to them. And among all these faces that he found so tedious, none seemed to bore him so much as that of his pretty wife. He turned away from her with a grimace that distorted his handsome face, kissed Anna Pavlovna's hand, and screwing up his eyes scanned the whole company.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-29.html"
+url: "/authors/eliot-george/middlemarch/chapter-29.html"
 ---
 
 "I found that no genius in another could please me. My unfortunate paradoxes had entirely dried up that source of comfort." - GOLDSMITH.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Saving The Day"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-18.html"
 ---
 
 Benny Badger kept his bright idea to himself. But his neighbors knew that he must have thought of something, because he seemed so good-natured all at once.

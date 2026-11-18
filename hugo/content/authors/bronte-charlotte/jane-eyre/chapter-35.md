@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 36
-aliases:
-  - "/authors/bronte-charlotte/jane-eyre/chapter-35.html"
+url: "/authors/bronte-charlotte/jane-eyre/chapter-35.html"
 ---
 
 He did not leave for Cambridge the next day, as he had said he would. He deferred his departure a whole week, and during that time he made me feel what severe punishment a good yet stern, a conscientious yet implacable man can inflict on one who has offended him. Without one overt act of hostility, one upbraiding word, he contrived to impress me momently with the conviction that I was put beyond the pale of his favour.

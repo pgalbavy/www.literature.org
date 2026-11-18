@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Eavesdropper"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/a-young-hero/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/a-young-hero/chapter-13.html"
 ---
 
 Fred Sheldon had learned one most important fact. Beyond all doubt the letters "N. H. H." stood for the name Nathaniel Higgens Heyland, who for some months past had been attached as an employee to Colonel Bandman's menagerie and circus.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-18.html"
+url: "/authors/london-jack/martin-eden/chapter-18.html"
 ---
 
 Monday morning, Joe groaned over the first truck load of clothes to the washer.

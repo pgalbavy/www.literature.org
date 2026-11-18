@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Old Gentleman"
 weight: 3
-aliases:
-  - "/authors/nesbit-edith/the-railway-children/chapter-03.html"
+url: "/authors/nesbit-edith/the-railway-children/chapter-03.html"
 ---
 
 After the adventure of Peter's Coal-mine, it seemed well to the children to keep away from the station - but they did not, they could not, keep away from the railway. They had lived all their lives in a street where cabs and omnibuses rumbled by at all hours, and the carts of butchers and bakers and candlestick makers (I never saw a candlestick-maker's cart; did you?) might occur at any moment. Here in the deep silence of the sleeping country the only things that went by were the trains. They seemed to be all that was left to link the children to the old life that had once been theirs. Straight down the hill in front of Three Chimneys the daily passage of their six feet began to mark a path across the crisp, short turf. They began to know the hours when certain trains passed, and they gave names to them. The 9.15 up was called the Green Dragon. The 10.7 down was the Worm of Wantley. The midnight town express, whose shrieking rush they sometimes woke from their dreams to hear, was the Fearsome Fly-by-night. Peter got up once, in chill starshine, and, peeping at it through his curtains, named it on the spot.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/nesbit-edith/the-enchanted-castle/chapter-06.html"
+url: "/authors/nesbit-edith/the-enchanted-castle/chapter-06.html"
 ---
 
 *JOHNSON* was the hero of the hour. It was he who had tracked the burglars, laid his plans, and recovered the lost silver. He had not thrown the stone—public opinion decided that Mabel and her aunt must have been mistaken in supposing that there was a stone at all. But he did not deny the warning letter. It was Gerald who went out after breakfast to buy the newspaper, and who read aloud to the others the two columns of fiction which were the *Liddlesby Observer's* report of the facts. As he read every mouth opened wider and wider, and when he ceased with "this gifted fellow-townsman with detective instincts which outrival those of Messrs. Lecoq and Holmes, and whose promotion is now assured," there was quite a blank silence.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - My Journey To The Winter-Veld"
 weight: 5
-aliases:
-  - "/authors/buchan-john/prester-john/chapter-04.html"
+url: "/authors/buchan-john/prester-john/chapter-04.html"
 ---
 
 A reply came from Colles, addressed not to me but to Japp. It seemed that the old fellow had once suggested the establishment of a branch store at a place out in the plains called Umvelos', and the firm was now prepared to take up the scheme. Japp was in high good humour, and showed me the letter. Not a word was said of what I had written about, only the bare details about starting the branch. I was to get a couple of masons, load up two wagons with bricks and timber, and go down to Umvelos' and see the store built. The stocking of it and the appointment of a storekeeper would be matter for further correspondence. Japp was delighted, for, besides getting rid of me for several weeks, it showed that his advice was respected by his superiors. He went about bragging that the firm could not get on without him, and was inclined to be more insolent to me than usual in his new self-esteem. He also got royally drunk over the head of it.

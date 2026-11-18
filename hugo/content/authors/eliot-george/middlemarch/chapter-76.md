@@ -1,8 +1,7 @@
 ---
 title: "Chapter 76"
 weight: 76
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-76.html"
+url: "/authors/eliot-george/middlemarch/chapter-76.html"
 ---
 
 "To mercy, pity, peace, and love All pray in their distress, And to these virtues of delight, Return their thankfulness. . . . . . . For Mercy has a human heart, Pity a human face; And Love, the human form divine; And Peace, the human dress. - WILLIAM BLAKE: Songs of Innocence.

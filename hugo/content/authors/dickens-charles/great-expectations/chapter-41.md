@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41"
 weight: 41
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-41.html"
+url: "/authors/dickens-charles/great-expectations/chapter-41.html"
 ---
 
 IN vain should I attempt to describe the astonishment and disquiet of Herbert, when he and I and Provis sat down before the fire, and I recounted the whole of the secret. Enough, that I saw my own feelings reflected in Herbert's face, and, not least among them, my repugnance towards the man who had done so much for me.

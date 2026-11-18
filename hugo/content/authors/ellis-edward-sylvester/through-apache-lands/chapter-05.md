@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - An Alarming Message"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-05.html"
 ---
 
 As the scout rode his mustang up to the tree whereon the buffalo skin was fastened, he read the following words:

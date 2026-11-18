@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 1 - The Slave Trade"
 weight: 19
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-01.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-01.html"
 ---
 
 The slave trade! Nobody is ignorant of the significance of this word, which should never have found a place in human language. This abominable traffic, for a long time practised to the profit of the European nations which possessed colonies beyond the sea, has been already forbidden for many years. Meanwhile it is always going on a large scale, and principally in Central Africa. Even in this nineteenth century the signature of a few States, calling themselves Christians, are still missing from the Act for the Abolition of Slavery.

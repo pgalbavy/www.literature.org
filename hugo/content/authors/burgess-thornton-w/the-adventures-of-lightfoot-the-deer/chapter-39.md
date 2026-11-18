@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39 - Lightfoot Discovers Love"
 weight: 39
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-39.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-39.html"
 ---
 
 Wonderfully handsome was Lightfoot the Deer as he stood in the little opening by the pond of Paddy the Beaver, his head thrown back proudly, as he received the congratulations of his neighbors of the Green Forest who had seen him win the great fight with the big stranger who had come down from the Great Mountain. To beautiful Miss Daintyfoot, peeping out from the thicket where she had hidden to watch the great fight, Lightfoot was the most wonderful person in all the Great World. She adored him, which means that she loved him just as much as it was possible for her to love.

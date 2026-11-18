@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 7 - The Underground Railway"
 weight: 18
-aliases:
-  - "/authors/buchan-john/mr-standfast/part-02-chapter-07.html"
+url: "/authors/buchan-john/mr-standfast/part-02-chapter-07.html"
 ---
 
 This is the story which I heard later from Mary....

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Paying A Call On A Friend"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-17.html"
 ---
 
 Mr. Crow had dared Tommy Fox to go down to pay a call on his friend dog Spot, at Farmer Green's place. And Tommy was trotting along across the fields. He was quite near Farmer Green's house when he heard a dog bark not far away.

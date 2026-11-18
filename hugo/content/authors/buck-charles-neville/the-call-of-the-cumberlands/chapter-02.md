@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-02.html"
+url: "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-02.html"
 ---
 
 Although from the man in the gulch came a low groan mingled with his breathing, it was not such a sound as comes from fully conscious lips, but rather that of a brain dulled into coma. His lids drooped over his eyes, hiding the pupils; and his cheeks were pallid, with outstanding veins above the temples.

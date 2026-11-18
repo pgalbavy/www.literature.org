@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-22.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-22.html"
 ---
 
 He awoke the next morning with a glow in his heart which should not be new to youth, but was new to him. He remembered feeling something rather like it years before when he had been a little boy and had wakened on the morning of his birthday and found his mother kissing him and his bed strewn with gifts.

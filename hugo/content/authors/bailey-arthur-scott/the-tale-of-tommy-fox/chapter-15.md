@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Johnnie Green Feels Sad"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-15.html"
 ---
 
 Yes--there was trouble when Farmer Green discovered that Tommy Fox had been stealing his hens. He fastened the end of Tommy's chain to the stake once more. And then he went out to the barn, where his boy Johnnie was watering the horses.

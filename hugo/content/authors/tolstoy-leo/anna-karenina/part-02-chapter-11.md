@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 11"
 weight: 45
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-11.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-11.html"
 ---
 
 That which for Vronsky had been almost a whole year the one absorbing desire of his life, replacing all his old desires; that which for Anna had been an impossible, terrible, and even for that reason more entrancing dream of bliss, that desire had been fulfilled. Hestood before her, pale, his lower jaw quivering, and besought her to be calm, not knowing how or why.

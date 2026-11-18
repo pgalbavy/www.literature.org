@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 6 - After The Match"
 weight: 6
-aliases:
-  - "/authors/hughes-thomas/tom-browns-schooldays/part-01-chapter-06.html"
+url: "/authors/hughes-thomas/tom-browns-schooldays/part-01-chapter-06.html"
 ---
 
 "Some food we had."  

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - How D'artagnan Drew, As A Fairy Would Have Done, A Country-Seat From A Deal Box"
 weight: 36
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-36.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-36.html"
 ---
 
 The king's words regarding the wounded pride of Monk had not inspired D'Artagnan with a small portion of apprehension. The lieutenant had had, all his life, the great art of choosing his enemies; and when he had found them implacable and invincible, it was when he had not been able, under any pretense, to make them otherwise. But points of view change greatly in the course of a life. It is a magic lantern, of which the eye of man every year changes the aspects. It results that from the last day of a year on which we saw white, to the first day of the year on which we shall see black, there is but the interval of a single night.

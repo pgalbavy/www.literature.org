@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-01.html"
 ---
 
 On the sultry third of July, 1778, Fred Godfrey, a sturdy youth of eighteen years, was riding at a breakneck speed down the Wyoming Valley, in the direction of the settlement, from which he saw columns of smoke rolling upward, and whence, during the few pauses of his steed, he heard the rattling discharge of firearms and the shouts of combatants.

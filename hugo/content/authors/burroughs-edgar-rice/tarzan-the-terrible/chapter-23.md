@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Taken Alive"
 weight: 23
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-23.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-23.html"
 ---
 
 As night fell a warrior from the palace of Ja-lur slipped into the temple grounds. He made his way to where the lesser priests were quartered. His presence aroused no suspicion as it was not unusual for warriors to have business within the temple. He came at last to a chamber where several priests were congregated after the evening meal. The rites and ceremonies of the sacrifice had been concluded and there was nothing more of a religious nature to make call upon their time until the rites at sunrise.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The End Of The Trial"
 weight: 20
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-20.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-20.html"
 ---
 
 THE calling of the new witness provoked a burst of laughter among the audience due partly, no doubt, to the strange name by which he had been summoned; partly, also, to the instinctive desire of all crowded assemblies, when their interest is painfully excited, to seize on any relief in the shape of the first subject of merriment which may present itself. A severe rebuke from the Bench restored order among the audience. The Lord Justice Clerk declared that he would "clear the Court" if the interruption to the proceedings were renewed.

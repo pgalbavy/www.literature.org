@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Chase"
 weight: 14
-aliases:
-  - "/authors/haggard-h-rider/the-ivory-child/chapter-14.html"
+url: "/authors/haggard-h-rider/the-ivory-child/chapter-14.html"
 ---
 
 I suppose that I swooned for a minute or two. At any rate I remember a long and very curious dream, such a dream as is evolved by a patient under laughing gas, that is very clear and vivid at the time but immediately afterwards slips from the mind’s grasp as water does from the clenched hand. It was something to the effect that all those hundreds of skeleton elephants rose and marshalled themselves before me, making obeisance to me by bending their bony knees, because, as I quite understood, I was the only human being that had ever escaped from Jana. Moreover, on the foremost elephant’s skull Hans was perched like a mahout, giving words of command, to their serried ranks and explaining to them that it would be very convenient if they would carry their tusks, for which they had no further use, and pile them in a certain place--I forget where--that must be near a good road to facilitate their subsequent transport to a land where they would be made into billiard balls and the backs of ladies’ hair-brushes. Next, through the figments of that retreating dream, I heard the undoubted voice of Hans himself, which of course I knew to be absurd as Hans was lost and doubtless dead, saying:

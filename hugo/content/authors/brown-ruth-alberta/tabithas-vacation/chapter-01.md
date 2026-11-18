@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The McKittricks' Misfortune"
 weight: 1
-aliases:
-  - "/authors/brown-ruth-alberta/tabithas-vacation/chapter-01.html"
+url: "/authors/brown-ruth-alberta/tabithas-vacation/chapter-01.html"
 ---
 
 "'Ho, ho, vacation days are here,  

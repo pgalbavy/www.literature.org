@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - \"Four Women Crucified\""
 weight: 6
-aliases:
-  - "/authors/leblanc-maurice/the-secret-of-sarek/chapter-05.html"
+url: "/authors/leblanc-maurice/the-secret-of-sarek/chapter-05.html"
 ---
 
 Véronique was left alone on Coffin Island. Until the sun sank among the clouds that seemed, on the horizon, to rest upon the sea, she did not move, but sat huddled against the window, with her head buried in her two arms resting on the sill.

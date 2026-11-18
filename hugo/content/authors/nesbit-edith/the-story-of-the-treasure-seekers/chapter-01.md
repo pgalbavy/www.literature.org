@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Council Of Ways And Means"
 weight: 1
-aliases:
-  - "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-01.html"
+url: "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-01.html"
 ---
 
 This is the story of the different ways we looked for treasure, and I think when you have read it you will see that we were not lazy about the looking.

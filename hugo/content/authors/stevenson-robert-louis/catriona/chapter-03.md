@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - I Go To Pilrig"
 weight: 4
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-03.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-03.html"
 ---
 
 The next morning, I was no sooner awake in my new lodging than I was up and into my new clothes; and no sooner the breakfast swallowed, than I was forth on my adventurers. Alan, I could hope, was fended for; James was like to be a more difficult affair, and I could not but think that enterprise might cost me dear, even as everybody said to whom I had opened my opinion. It seemed I was come to the top of the mountain only to cast myself down; that I had clambered up, through so many and hard trials, to be rich, to be recognised, to wear city clothes and a sword to my side, all to commit mere suicide at the last end of it, and the worst kind of suicide, besides, which is to get hanged at the King’s charges.

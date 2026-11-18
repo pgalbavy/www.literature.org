@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Taming The Colt"
 weight: 17
-aliases:
-  - "/authors/alcott-louisa-may/little-men/chapter-16.html"
+url: "/authors/alcott-louisa-may/little-men/chapter-16.html"
 ---
 
 "What in the world is that boy doing?" said Mrs. Jo to herself, as she watched Dan running round the half-mile triangle as if for a wager. He was all alone, and seemed possessed by some strange desire to run himself into a fever, or break his neck; for, after several rounds, he tried leaping walls, and turning somersaults up the avenue, and finally dropped down on the grass before the door as if exhausted.

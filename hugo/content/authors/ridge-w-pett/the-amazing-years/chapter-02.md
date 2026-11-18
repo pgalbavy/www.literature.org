@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/ridge-w-pett/the-amazing-years/chapter-02.html"
+url: "/authors/ridge-w-pett/the-amazing-years/chapter-02.html"
 ---
 
 Guard Richards called at The Croft on the Monday afternoon, and brought a newspaper which he said contained little that was fresh and nothing that could be reckoned as jolly; before entering into any conversation with him, I took it to Master John.

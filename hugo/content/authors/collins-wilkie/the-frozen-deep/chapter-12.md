@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/collins-wilkie/the-frozen-deep/chapter-12.html"
+url: "/authors/collins-wilkie/the-frozen-deep/chapter-12.html"
 ---
 
 Alone! alone on the Frozen Deep!

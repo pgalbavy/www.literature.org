@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Down The Seine"
 weight: 20
-aliases:
-  - "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-20.html"
+url: "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-20.html"
 ---
 
 My daughter Alida and my daughter Dulcima had gone to drive with the United States Ambassador and his daughter that morning, leaving me at the Hôtel with instructions as to my behaviour in their absence, and injunctions not to let myself be run over by any cab, omnibus, automobile, or bicycle whatever.

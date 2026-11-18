@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Truth Will Out"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-13.html"
 ---
 
 Later in the day the Muley Cow had a chat with a song sparrow--a musical person who had a nest cunningly hidden in the center of a bush near the pasture fence.

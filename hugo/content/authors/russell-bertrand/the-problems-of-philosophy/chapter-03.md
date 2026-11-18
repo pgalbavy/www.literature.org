@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Nature Of Matter"
 weight: 4
-aliases:
-  - "/authors/russell-bertrand/the-problems-of-philosophy/chapter-03.html"
+url: "/authors/russell-bertrand/the-problems-of-philosophy/chapter-03.html"
 ---
 
 In the preceding chapter we agreed, though without being able to find demonstrative reasons, that it is rational to believe that our sense-data—for example, those which we regard as associated with my table—are really signs of the existence of something independent of us and our perceptions. That is to say, over and above the sensations of colour, hardness, noise, and so on, which make up the appearance of the table to me, I assume that there is something else, of which these things are appearances. The colour ceases to exist if I shut my eyes, the sensation of hardness ceases to exist if I remove my arm from contact with the table, the sound ceases to exist if I cease to rap the table with my knuckles. But I do not believe that when all these things cease the table ceases. On the contrary, I believe that it is because the table exists continuously that all these sense-data will reappear when I open my eyes, replace my arm, and begin again to rap with my knuckles. The question we have to consider in this chapter is: What is the nature of this real table, which persists independently of my perception of it?

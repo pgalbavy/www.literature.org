@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - The Hidden Dread"
 weight: 35
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-35.html"
+url: "/authors/eliot-george/adam-bede/chapter-35.html"
 ---
 
 IT was a busy time for Adam - the time between the beginning of November and the beginning of February, and he could see little of Hetty, except on Sundays. But a happy time, nevertheless, for it was taking him nearer and nearer to March, when they were to be married, and all the little preparations for their new housekeeping marked the progress towards the longed-for day. Two new rooms had been "run up" to the old house, for his mother and Seth were to live with them after all. Lisbeth had cried so piteously at the thought of leaving Adam that he had gone to Hetty and asked her if, for the love of him, she would put up with his mother's ways and consent to live with her. To his great delight, Hetty said, "Yes; I'd as soon she lived with us as not." Hetty's mind was oppressed at that moment with a worse difficulty than poor Lisbeth's ways; she could not care about them. So Adam was consoled for the disappointment he had felt when Seth had come back from his visit to Snowfield and said "it was no use - Dinah's heart wasna turned towards marrying." For when he told his mother that Hetty was willing they should all live together and there was no more need of them to think of parting, she said, in a more contented tone than he had heard her speak in since it had been settled that he was to be married, "Eh, my lad, I'll be as still as th' ould tabby, an' ne'er want to do aught but th' offal work, as she wonna like t' do. An' then we needna part the platters an' things, as ha' stood on the shelf together sin' afore thee wast born."

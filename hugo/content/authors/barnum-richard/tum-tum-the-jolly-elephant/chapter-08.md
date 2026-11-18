@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Tum Tum And The Fire"
 weight: 8
-aliases:
-  - "/authors/barnum-richard/tum-tum-the-jolly-elephant/chapter-08.html"
+url: "/authors/barnum-richard/tum-tum-the-jolly-elephant/chapter-08.html"
 ---
 
 Through the woods, near the circus town, went the men looking for lost Mappo. They wanted to get back the monkey because he was such a good one to do tricks, and because the children, many of whom came to the circus, liked to see him ride on the back of a dog, or pony, and jump through paper-covered hoops.

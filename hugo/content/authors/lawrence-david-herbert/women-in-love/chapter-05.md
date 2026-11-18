@@ -1,8 +1,7 @@
 ---
 title: "chapter 05"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-05.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-05.html"
 ---
 
 One day at this time Birkin was called to London. He was not very fixed in his abode. He had rooms in Nottingham, because his work lay chiefly in that town. But often he was in London, or in Oxford. He moved about a great deal, his life seemed uncertain, without any definite rhythm, any organic meaning.

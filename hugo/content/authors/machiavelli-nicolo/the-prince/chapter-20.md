@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Are Fortresses, And Many Other Things To Which Princes Often Resort, Advantageous Or Hurtful?"
 weight: 21
-aliases:
-  - "/authors/machiavelli-nicolo/the-prince/chapter-20.html"
+url: "/authors/machiavelli-nicolo/the-prince/chapter-20.html"
 ---
 
 1\. Some princes, so as to hold securely the state, have disarmed their subjects; others have kept their subject towns distracted by factions; others have fostered enmities against themselves; others have laid themselves out to gain over those whom they distrusted in the beginning of their governments; some have built fortresses; some have overthrown and destroyed them. And although one cannot give a final judgment on all of these things unless one possesses the particulars of those states in which a decision has to be made, nevertheless I will speak as comprehensively as the matter of itself will admit.

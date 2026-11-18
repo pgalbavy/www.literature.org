@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Prairie Dog Village"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-17.html"
 ---
 
 Having once found his way to the prairie dog village, Benny Badger often visited it.

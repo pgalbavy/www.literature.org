@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Preparing For The Loggin’"
 weight: 16
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-16.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-16.html"
 ---
 
 Next morning at break of day Paisley and Boy, laden with rat-traps, struck out toward the creek. Big McTavish accompanied them as far as the stable and gave them a parting send-off.

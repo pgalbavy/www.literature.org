@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - What Happened To Wolf Ear"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/wolf-ear-the-indian/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/wolf-ear-the-indian/chapter-12.html"
 ---
 
 Good fortune attended the daring attempt of Brinton Kingsland. By a providential occurrence, most of the hostiles were on the side of the supply camp, in the direction of the ridge from whose crest the signal smoke was ascending, when the youth, dexterously guiding his pony through the waggons that surrounded him, quickly cleared himself of all obstacles.

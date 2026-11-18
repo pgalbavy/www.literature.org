@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-25.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-25.html"
 ---
 
 THE news was all over town in two minutes, and you could see the people tearing down on the run from every which way, some of them putting on their coats as they come. Pretty soon we was in the middle of a crowd, and the noise of the tramping was like a soldier march. The windows and dooryards was full; and every minute somebody would say, over a fence:

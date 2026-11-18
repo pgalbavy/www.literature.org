@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - A Newspaper Report"
 weight: 24
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-23.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-23.html"
 ---
 
 IT had become their habit in the Longuet flat to play dominoes in the evening. M. Adolphe was a good player, and always he used the Norman provincial names. When he played the double six, he would call the "double negro"; the five was "the dog that bites," and so on. Marceline was always amused by these terms, and was always ready to play.

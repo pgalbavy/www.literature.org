@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Natural And Supernatural"
 weight: 10
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-09.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-09.html"
 ---
 
 I POINTED to the writing in the sketch book, and looked at my mother. I was not mistaken. She _had_ seen it, as I had seen it. But she refused to acknowledge that anything had happened to alarm her--plainly as I could detect it in her face.

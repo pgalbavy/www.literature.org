@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-13.html"
+url: "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-13.html"
 ---
 
 Yes, there were plenty of kind people in the world, and one of the best proofs of it was that, in that busy, wonderful place through which all the world seemed passing, and where, on every side, were a thousand things to attract attention, and so fill eyes and mind that forgetfulness and carelessness of small things might not have been quite unnatural, these two small things, utterly insignificant and unknown to the crowds they threaded, met many a passing friend of the moment, and found themselves made happier by many a kindly and helpful word or look. Officials were good-natured to them, guides were good-humored, motherly women and fatherly men protected them in awkward crowds. They always saw that those who noticed them glanced about for their chaperons, and again and again they were asked who was taking care of them; but Robin’s straightforward, civil little answer, “We’re taking care of ourselves,” never failed to waken as much friendly interest as surprise.

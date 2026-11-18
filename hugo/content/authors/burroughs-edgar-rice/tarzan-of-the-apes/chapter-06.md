@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Jungle Battles"
 weight: 6
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-06.html"
+url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-06.html"
 ---
 
 The wanderings of the tribe brought them often near the closed and silent cabin by the little land-locked harbor. To Tarzan this was always a source of never-ending mystery and pleasure.

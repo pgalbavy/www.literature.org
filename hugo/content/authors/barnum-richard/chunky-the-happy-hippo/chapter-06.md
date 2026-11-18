@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Chunky Takes A Trip"
 weight: 6
-aliases:
-  - "/authors/barnum-richard/chunky-the-happy-hippo/chapter-06.html"
+url: "/authors/barnum-richard/chunky-the-happy-hippo/chapter-06.html"
 ---
 
 Poor Chunky did not know what to do. He could hardly move around on the bottom of the hole, because it was so small. It had not been made to catch him, but he did not know that. The black hunters who had dug the pit hoped to catch in it a small deer. Chunky was really a little too big for the pit-trap, but it was too late to think of that now. He was in it.

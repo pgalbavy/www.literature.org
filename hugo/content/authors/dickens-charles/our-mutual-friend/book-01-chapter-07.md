@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 7 - Mr Wegg Looks After Himself"
 weight: 7
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-01-chapter-07.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-01-chapter-07.html"
 ---
 
 Silas Wegg, being on his road to the Roman Empire, approaches it by way of Clerkenwell. The time is early in the evening; the weather moist and raw. Mr Wegg finds leisure to make a little circuit, by reason that he folds his screen early, now that he combines another source of income with it, and also that he feels it due to himself to be anxiously expected at the Bower. ‘Boffin will get all the eagerer for waiting a bit,’ says Silas, screwing up, as he stumps along, first his right eye, and then his left. Which is something superfluous in him, for Nature has already screwed both pretty tight.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 78 - We Hear From Yanina"
 weight: 78
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-78.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-78.html"
 ---
 
 If Valentine could have seen the trembling step and agitated countenance of Franz when he quitted the chamber of M. Noirtier, even she would have been constrained to pity him. Villefort had only just given utterance to a few incoherent sentences, and then retired to his study, where he received about two hours afterwards the following letter: -

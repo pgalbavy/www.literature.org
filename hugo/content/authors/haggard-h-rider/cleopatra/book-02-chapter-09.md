@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 9"
 weight: 17
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-02-chapter-09.html"
+url: "/authors/haggard-h-rider/cleopatra/book-02-chapter-09.html"
 ---
 
 OF THE IMPRISONMENT OF HARMACHIS; OF THE SCORN OF CHARMION; OF THE SETTING FREE OF HARMACHIS; AND OF THE COMING OF QUINTUS DELLIUS

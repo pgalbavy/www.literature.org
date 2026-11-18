@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Art Of Swimming"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-08.html"
 ---
 
 Every boy and girl should learn to swim. Instances are likely to arise, where a knowledge of the art will not only enable you to save your own life, but that of some dear friend.

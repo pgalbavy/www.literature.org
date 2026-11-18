@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Thrashing Time"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-19.html"
 ---
 
 The pair of bays were feeling grumpy. Thrashing time had come. And they knew that they would have to spend long hours in the tread mill out in the field, where the oats were stacked. They grumbled a good deal, as they stood in their stalls.

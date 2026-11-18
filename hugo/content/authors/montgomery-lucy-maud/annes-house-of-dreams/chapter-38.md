@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - Red Roses"
 weight: 38
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-38.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-38.html"
 ---
 
 The garden of the little house was a haunt beloved of bees and reddened by late roses that August. The little house folk lived much in it, and were given to taking picnic suppers in the grassy corner beyond the brook and sitting about in it through the twilights when great night moths sailed athwart the velvet gloom. One evening Owen Ford found Leslie alone in it. Anne and Gilbert were away, and Susan, who was expected back that night, had not yet returned.

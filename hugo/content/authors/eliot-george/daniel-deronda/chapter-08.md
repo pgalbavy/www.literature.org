@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-08.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-08.html"
 ---
 
 What name doth Joy most borrow When life is fair? "To-morrow." What name doth best fit Sorrow In young despair? "To-morrow."

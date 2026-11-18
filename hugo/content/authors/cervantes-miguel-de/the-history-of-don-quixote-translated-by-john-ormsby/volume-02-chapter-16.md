@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 16 - Of What Befell Don Quixote With A Discreet Gentleman Of La Mancha"
 weight: 72
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-16.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-16.html"
 ---
 
 Don Quixote pursued his journey in the high spirits, satisfaction, and self-complacency already described, fancying himself the most valorous knight-errant of the age in the world because of his late victory. All the adventures that could befall him from that time forth he regarded as already done and brought to a happy issue; he made light of enchantments and enchanters; he thought no more of the countless drubbings that had been administered to him in the course of his knight-errantry, nor of the volley of stones that had levelled half his teeth, nor of the ingratitude of the galley slaves, nor of the audacity of the Yanguesans and the shower of stakes that fell upon him; in short, he said to himself that could he discover any means, mode, or way of disenchanting his lady Dulcinea, he would not envy the highest fortune that the most fortunate knight-errant of yore ever reached or could reach.

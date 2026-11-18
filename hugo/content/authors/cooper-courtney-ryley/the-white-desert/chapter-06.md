@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/cooper-courtney-ryley/the-white-desert/chapter-06.html"
+url: "/authors/cooper-courtney-ryley/the-white-desert/chapter-06.html"
 ---
 
 It was thus that Ba'tiste found him, still dreaming. The big voice of the Canadian boomed, and he reached forward to nudge Barry on his injured shoulder.

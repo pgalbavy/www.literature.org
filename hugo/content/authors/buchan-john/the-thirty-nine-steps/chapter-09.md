@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Thirty-Nine Steps"
 weight: 10
-aliases:
-  - "/authors/buchan-john/the-thirty-nine-steps/chapter-09.html"
+url: "/authors/buchan-john/the-thirty-nine-steps/chapter-09.html"
 ---
 
 "Nonsense!" said the official from the Admiralty.

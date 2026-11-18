@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Unparalleled Invasion"
 weight: 3
-aliases:
-  - "/authors/london-jack/the-strength-of-the-strong/chapter-03.html"
+url: "/authors/london-jack/the-strength-of-the-strong/chapter-03.html"
 ---
 
 It was in the year 1976 that the trouble between the world and China reached its culmination. It was because of this that the celebration of the Second Centennial of American Liberty was deferred. Many other plans of the nations of the earth were twisted and tangled and postponed for the same reason. The world awoke rather abruptly to its danger; but for over seventy years, unperceived, affairs had been shaping toward this very end.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 6"
 weight: 7
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-01-chapter-06.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-01-chapter-06.html"
 ---
 
 Of the inhabitants of Lilliput; their learning, laws, and customs; the manner of educating their children. The author’s way of living in that country. His vindication of a great lady.

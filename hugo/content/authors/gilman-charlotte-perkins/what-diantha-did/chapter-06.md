@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Cynosure"
 weight: 6
-aliases:
-  - "/authors/gilman-charlotte-perkins/what-diantha-did/chapter-06.html"
+url: "/authors/gilman-charlotte-perkins/what-diantha-did/chapter-06.html"
 ---
 
 It's a singular thing that the commonest place Is the hardest to properly fill; That the labor imposed on a full half the race

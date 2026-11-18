@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - How The Yellow Cog Crossed The Bar Of Gironde"
 weight: 17
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-17.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-17.html"
 ---
 
 FOR two days the yellow cog ran swiftly before a northeasterly wind, and on the dawn of the third the high land of Ushant lay like a mist upon the shimmering sky-line. There came a plump of rain towards mid-day and the breeze died down, but it freshened again before nightfall, and Goodwin Hawtayne veered his sheet and held head for the south. Next morning they had passed Belle Isle, and ran through the midst of a fleet of transports returning from Guienne. Sir Nigel Loring and Sir Oliver Buttesthorn at once hung their shields over the side, and displayed their pennons as was the custom, noting with the keenest interest the answering symbols which told the names of the cavaliers who had been constrained by ill health or wounds to leave the prince at so critical a time.

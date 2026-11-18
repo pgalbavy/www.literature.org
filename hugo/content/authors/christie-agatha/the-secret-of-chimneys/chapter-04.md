@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Introducing A Very Charming Lady"
 weight: 4
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-04.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-04.html"
 ---
 
 George Lomax returned straightway to Whitehall. As he entered the sumptuous apartment in which he transacted affairs of State, there was a scuffling sound.

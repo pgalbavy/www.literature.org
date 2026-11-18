@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - The Long Vacation Letter-Bag"
 weight: 31
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-29.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-29.html"
 ---
 
 "June 24, 184-.

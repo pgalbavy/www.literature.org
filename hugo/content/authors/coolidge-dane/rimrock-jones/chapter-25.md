@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - An Accounting"
 weight: 25
-aliases:
-  - "/authors/coolidge-dane/rimrock-jones/chapter-25.html"
+url: "/authors/coolidge-dane/rimrock-jones/chapter-25.html"
 ---
 
 All the next day, and the next, Mary watched the door and on the morning of the third Rimrock came. From motives of prudence the badly shaken Jepson had suggested that she see him first and she had consented with an understanding smile. He slipped in quietly, glancing furtively around, and then looked at her coldly in the eye.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/woolf-virginia/jacobs-room/chapter-03.html"
+url: "/authors/woolf-virginia/jacobs-room/chapter-03.html"
 ---
 
 "This is not a smoking-carriage," Mrs. Norman protested, nervously but very feebly, as the door swung open and a powerfully built young man jumped in. He seemed not to hear her. The train did not stop before it reached Cambridge, and here she was shut up alone, in a railway carriage, with a young man.

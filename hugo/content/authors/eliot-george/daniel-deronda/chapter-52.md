@@ -1,8 +1,7 @@
 ---
 title: "Chapter 52"
 weight: 52
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-52.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-52.html"
 ---
 
 "La même fermeté qui sert à résister à l'amour sert aussi à le rendre violent et durable; et les personnes faibles qui sont toujours agitées des passions n'en sont presque jamais véritablement remplies." - LA ROCHEFOUCAULD.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Fearful News"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-08.html"
 ---
 
 There came a day at last when Farmer Green gave Mrs. Pig and her family a great treat. He let them out of their pen and turned them loose in a little yard out of doors. Such gruntings and squealings hadn't been heard on the farm for a long time. It was just like a picnic. And everybody had the finest of times. Still, Grunty Pig wasn't content to stay in the yard with the rest of the family. It wasn't long before he found a hole in the fence big enough to wriggle through. And off he went. And he was actually glad, for once, that he was the littlest of the family. There wasn't another of Mrs. Pig's children that could squeeze through the opening.

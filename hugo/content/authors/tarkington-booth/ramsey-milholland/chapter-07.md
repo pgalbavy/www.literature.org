@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/tarkington-booth/ramsey-milholland/chapter-07.html"
+url: "/authors/tarkington-booth/ramsey-milholland/chapter-07.html"
 ---
 
 The next morning Ramsey came into his father's room while Mr. Milholland was shaving, an hour before church time, and it became apparent that the son had someting on his mind, though for a while he said nothing.

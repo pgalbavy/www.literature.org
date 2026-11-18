@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Trail Northward"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-03.html"
 ---
 
 The small lake which was the destination of Deerfoot seemed to be only two or three miles distant, but he knew it was all of twenty miles away. Being on foot, he took the most direct course. The route of the horses was of necessity so tortuous and difficult that it must have been fully a half greater than the direct one. The task was so easy for the Shawanoe that he did not lope or run, but kept up his swinging gait, which caused him not the least fatigue. Now and then he was forced to make a circuit around a mass of rocks, or a densely wooded section, but these diversions were of little account. They might have been twice as extensive and still he would not have minded them.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Of Systemes Subject, Politicall, And Private"
 weight: 24
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-22.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-22.html"
 ---
 
 The Divers Sorts Of Systemes Of People Having spoken of the Generation, Forme, and Power of a Common-wealth, I am in order to speak next of the parts thereof. And first of Systemes, which resemble the similar parts, or Muscles of a Body naturall. By SYSTEMES; I understand any numbers of men joyned in one Interest, or one Businesse. Of which, some are Regular, and some Irregular. Regular are those, where one Man, or Assembly of men, is constituted Representative of the whole number. All other are Irregular.

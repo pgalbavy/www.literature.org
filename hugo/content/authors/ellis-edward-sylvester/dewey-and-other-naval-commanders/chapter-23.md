@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-23.html"
 ---
 
 A New Era for the United States Navy —Opening of the Great Civil War—John Lorimer Worden —Battle Between the *Monitor* and *Merrimac* —Death of Worden.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Virginia Repents"
 weight: 25
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-25.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-25.html"
 ---
 
 "I came for my stock," said Virginia coolly as she met his questioning eye and Wiley turned and rummaged in a drawer. The stock was hers and since she came and asked for it--he laid it on the desk and went ahead with his work. Virginia took the envelope and examined it carefully, but she did not go away. She glanced at him curiously, writing away so grimly, and there was a scar across his head. Could it be--yes, there her rock had struck him. The mark was still fresh, but he had given her the stock; and now he was privileged to hate her. That wound on his head would soon be overgrown and covered, but she had left a deeper scar on his heart. She had hurt his man's pride; and now he had hurt hers, and humbled her to ask for her stock. He looked up suddenly, feeling her eyes upon him, and Virginia drew back and blushed.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-06.html"
+url: "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-06.html"
 ---
 
 Pete took note of Maggie.

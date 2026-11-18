@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 1 - The Return To The Mill"
 weight: 54
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-07-chapter-01.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-07-chapter-01.html"
 ---
 
 Between four and five o'clock on the afternoon of the fifth day from that on which Stephen and Maggie had left St. Ogg's, Tom Tulliver was standing on the gravel walk outside the old house at Dorlcote Mill. He was master there now; he had half fulfilled his father's dying wish, and by years of steady self-government and energetic work he had brought himself near to the attainment of more than the old respectability which had been the proud inheritance of the Dodsons and Tullivers.

@@ -1,8 +1,7 @@
 ---
 title: "Book 12 - Chapter 16"
 weight: 279
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-12-chapter-16.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-12-chapter-16.html"
 ---
 
 Not only did Prince Andrew know he would die, but he felt that he was dying and was already half dead. He was conscious of an aloofness from everything earthly and a strange and joyous lightness of existence. Without haste or agitation he awaited what was coming. That inexorable, eternal, distant, and unknown the presence of which he had felt continually all his life- was now near to him and, by the strange lightness he experienced, almost comprehensible and palpable...

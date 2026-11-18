@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Hepburn's Play"
 weight: 11
-aliases:
-  - "/authors/titus-harold/the-last-straw/chapter-11.html"
+url: "/authors/titus-harold/the-last-straw/chapter-11.html"
 ---
 
 It was the next morning. Beck, standing beside Jane's desk, had told her of the foreman's departure and its motive.

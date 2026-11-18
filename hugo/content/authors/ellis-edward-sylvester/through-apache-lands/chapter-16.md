@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Among The Mountains"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-16.html"
 ---
 
 Young Chadmund heard the unmistakable warning of a rattlesnake that was somewhere near him, and on the very point of striking. Precisely where it was, it was impossible to determine with any certainty; but there was no time to consider the matter. It seemed to him in that brief second he devoted to thought that the venomous reptile lay a little to the left, and he scrambled out of his place with all the celerity at his command.

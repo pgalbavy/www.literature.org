@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The New World"
 weight: 8
-aliases:
-  - "/authors/wells-herbert-george/soul-of-a-bishop/chapter-08.html"
+url: "/authors/wells-herbert-george/soul-of-a-bishop/chapter-08.html"
 ---
 
 (1)

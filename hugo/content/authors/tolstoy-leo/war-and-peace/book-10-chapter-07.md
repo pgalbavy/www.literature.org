@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 7"
 weight: 197
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-07.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-07.html"
 ---
 
 While this was taking place in Petersburg the French had already passed Smolensk and were drawing nearer and nearer to Moscow. Napoleon's historian Thiers, like other of his historians, trying to justify his hero says that he was drawn to the walls of Moscow against his will. He is as right as other historians who look for the explanation of historic events in the will of one man; he is as right as the Russian historians who maintain that Napoleon was drawn to Moscow by the skill of the Russian commanders. Here besides the law of retrospection, which regards all the past as a preparation for events that subsequently occur, the law of reciprocity comes in, confusing the whole matter. A good chessplayer having lost a game is sincerely convinced that his loss resulted from a mistake he made and looks for that mistake in the opening, but forgets that at each stage of the game there were similar mistakes and that none of his moves were perfect. He only notices the mistake to which he pays attention, because his opponent took advantage of it. How much more complex than this is the game of war, which occurs under certain limits of time, and where it is not one will that manipulates lifeless objects, but everything results from innumerable conflicts of various wills!

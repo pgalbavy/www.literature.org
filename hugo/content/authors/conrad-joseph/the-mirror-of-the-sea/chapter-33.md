@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 33
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-33.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-33.html"
 ---
 
 A *SHIP* in dock, surrounded by quays and the walls of warehouses, has the appearance of a prisoner meditating upon freedom in the sadness of a free spirit put under restraint. Chain cables and stout ropes keep her bound to stone posts at the edge of a paved shore, and a berthing-master, with brass buttons on his coat, walks about like a weather-beaten and ruddy gaoler, casting jealous, watchful glances upon the moorings that fetter a ship lying passive and still and safe, as if lost in deep regrets of her days of liberty and danger on the sea.

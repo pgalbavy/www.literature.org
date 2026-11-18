@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 24
-aliases:
-  - "/authors/shelley-mary/frankenstein/chapter-23.html"
+url: "/authors/shelley-mary/frankenstein/chapter-23.html"
 ---
 
 It was eight o'clock when we landed; we walked for a short time on the shore enjoying the transitory light, and then retired to the inn and contemplated the lovely scene of waters, woods, and mountains, obscured in darkness, yet still displaying their black outlines.

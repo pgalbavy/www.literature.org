@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-18.html"
+url: "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-18.html"
 ---
 
 During the night a siege-gun had been brought up by hand, and now, from its place where the road cut through the entrenchments, it opened with the morning greeting of a hoarse bark, as the crew serving it began feeling over the landscape for the field-piece which had boomed so insistently last night.

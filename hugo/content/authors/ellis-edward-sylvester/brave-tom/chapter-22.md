@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/brave-tom/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/brave-tom/chapter-22.html"
 ---
 
 It was a surprise to every employee of Mr. Warmore. To Tom Gordon it was also a keen disappointment. He had never doubted that the plum would fall to him. He did not dream that the dudish young man would ever demean himself by manual labor; but Mr. Warmore departed from his usual reticence, to the extent of taking Tom aside and explaining matters.

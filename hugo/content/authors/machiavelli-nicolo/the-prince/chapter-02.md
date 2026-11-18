@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Concerning Hereditary Principalities"
 weight: 3
-aliases:
-  - "/authors/machiavelli-nicolo/the-prince/chapter-02.html"
+url: "/authors/machiavelli-nicolo/the-prince/chapter-02.html"
 ---
 
 I will leave out all discussion on republics, inasmuch as in another place I have written of them at length, and will address myself only to principalities. In doing so I will keep to the order indicated above, and discuss how such principalities are to be ruled and preserved.

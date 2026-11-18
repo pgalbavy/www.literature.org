@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 10 - Scouts Out"
 weight: 43
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-03-chapter-10.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-03-chapter-10.html"
 ---
 
 ‘And so, Miss Wren,’ said Mr Eugene Wrayburn, ‘I cannot persuade you to dress me a doll?’

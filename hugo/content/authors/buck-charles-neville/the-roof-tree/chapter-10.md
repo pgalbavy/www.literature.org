@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-10.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-10.html"
 ---
 
 Through the rest of that night Old Jase lay on a pallet spread before the fire, rising at intervals out of a deathlike slumber to slip his single suspender strap over his bent shoulder, turn up the lantern, and inspect his patient's condition.

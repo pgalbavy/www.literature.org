@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Truth With A Vengeance"
 weight: 19
-aliases:
-  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-19.html"
+url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-19.html"
 ---
 
 In those three weeks whose meetings with Vernon had been so lacking in charm there had been other meetings for Betty, and in these charm had not been to seek. But it was the charm of restful, pleasant companionship illuminated by a growing certainty that Mr. Temple admired her very much, that he liked her very much, that he did not think her untidy and countrified and ill-dressed, and all the things she had felt herself to be that night when Lady St. Craye and her furs had rustled up the staircase at Thirion's. And she had dined with Mr. Temple and lunched with Mr. Temple, and there had been an afternoon at St. Cloud, and a day at Versailles. Miss Voscoe and some of the other students had been in the party, but not of it as far as Betty was concerned. She had talked to Temple all the time.

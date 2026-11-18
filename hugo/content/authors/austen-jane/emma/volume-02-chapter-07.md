@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 7"
 weight: 25
-aliases:
-  - "/authors/austen-jane/emma/volume-02-chapter-07.html"
+url: "/authors/austen-jane/emma/volume-02-chapter-07.html"
 ---
 
 Emma's very good opinion of Frank Churchill was a little shaken the following day, by hearing that he was gone off to London, merely to have his hair cut. A sudden freak seemed to have seized him at breakfast, and he had sent for a chaise and set off, intending to return to dinner, but with no more important view that appeared than having his hair cut. There was certainly no harm in his travelling sixteen miles twice over on such an errand; but there was an air of foppery and nonsense in it which she could not approve. It did not accord with the rationality of plan, the moderation in expense, or even the unselfish warmth of heart, which she had believed herself to discern in him yesterday. Vanity, extravagance, love of change, restlessness of temper, which must be doing something, good or bad; heedlessness as to the pleasure of his father and Mrs. Weston, indifferent as to how his conduct might appear in general; he became liable to all these charges. His father only called him a coxcomb, and thought it a very good story; but that Mrs. Weston did not like it, was clear enough, by her passing it over as quickly as possible, and making no other comment than that “all young people would have their little whims.”

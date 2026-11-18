@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Disappointment"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-07.html"
 ---
 
 You will understand that the pursuit of Deerfoot the Shawanoe was not confined to the two Pawnees, whom he thwarted in the manner described. Their superior activity simply brought them to the front and hastened the collision.

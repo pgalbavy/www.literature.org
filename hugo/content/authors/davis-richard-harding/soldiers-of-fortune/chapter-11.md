@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/davis-richard-harding/soldiers-of-fortune/chapter-11.html"
+url: "/authors/davis-richard-harding/soldiers-of-fortune/chapter-11.html"
 ---
 
 There was no chance for Clay to speak to Hope again, though he felt the cruelty of having to leave her with everything between them in this interrupted state. But their friends stood about her, interested and excited over this expedition of smuggled arms, unconscious of the great miracle that had come into his life and of his need to speak to and to touch the woman who had wrought it. Clay felt how much more binding than the laws of life are the little social conventions that must be observed at times, even though the heart is leaping with joy or racked with sorrow. He stood within a few feet of the woman he loved, wanting to cry out at her and to tell her all the wonderful things which he had learned were true for the first time that night, but he was forced instead to keep his eyes away from her face and to laugh and answer questions, and at the last to go away content with having held her hand for an instant, and to have heard her say "good-luck."

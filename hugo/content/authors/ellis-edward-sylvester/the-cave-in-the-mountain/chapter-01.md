@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Strange Guide"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-01.html"
 ---
 
 "Well, if he doesn't beat any one I ever heard of!"

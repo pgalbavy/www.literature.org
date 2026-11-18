@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-31.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-31.html"
 ---
 
 Boone Wellver walked into the office of the police chief one spring morning when the trees along the streets were youthfully green. Somewhere outside a band, parading with transparencies, was summoning all horse-lovers and devotees of chance to the track and paddocks of Churchill Downs.

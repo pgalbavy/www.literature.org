@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Fire In The Night"
 weight: 11
-aliases:
-  - "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-11.html"
+url: "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-11.html"
 ---
 
 "Aunt Maria, will you let me make some molasses taffy? Monday is Carrie's birthday and I haven't anything else to send her. She always gives me something on my birthday. I will be real careful and clean up everything when I am through."

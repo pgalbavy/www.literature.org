@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 8"
 weight: 92
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-05-chapter-08.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-05-chapter-08.html"
 ---
 
 The war was flaming up and nearing the Russian frontier. Everywhere one heard curses on Bonaparte, "the enemy of mankind." Militiamen and recruits were being enrolled in the villages, and from the seat of war came contradictory news, false as usual and therefore variously interpreted. The life of old Prince Bolkonski, Prince Andrew, and Princess Mary had greatly changed since 1805.

@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/shelley-mary/frankenstein/preface.html"
+url: "/authors/shelley-mary/frankenstein/preface.html"
 ---
 
 THE event on which this fiction is founded has been supposed, by Dr. Darwin, and some of the physiological writers of Germany, as not of impossible occurrence. I shall not be supposed as according the remotest degree of serious faith to such an imagination; yet, in assuming it as the basis of a work of fancy, I have not considered myself as merely weaving a series of supernatural terrors. The event on which the interest of the story depends is exempt from the disadvantages of a mere tale of spectres or enchantment. It was recommended by the novelty of the situations which it developes; and, however impossible as a physical fact, affords a point of view to the imagination for the delineating of human passions more comprehensive and commanding than any which the ordinary relations of existing events can yield.

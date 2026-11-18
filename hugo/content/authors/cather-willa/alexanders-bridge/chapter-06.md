@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/cather-willa/alexanders-bridge/chapter-06.html"
+url: "/authors/cather-willa/alexanders-bridge/chapter-06.html"
 ---
 
 The last two days of the voyage Bartley found almost intolerable. The stop at Queenstown, the tedious passage up the Mersey, were things that he noted dimly through his growing impatience. He had planned to stop in Liverpool; but, instead, he took the boat train for London.

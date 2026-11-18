@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Plan Goes Wrong"
 weight: 6
-aliases:
-  - "/authors/scott-arthur/the-tale-of-chirpy-cricket/chapter-06.html"
+url: "/authors/scott-arthur/the-tale-of-chirpy-cricket/chapter-06.html"
 ---
 
 Chirpy Cricket never fiddled faster than he did that night. Somehow he had a notion that the faster he fiddled the more quickly the night would pass. For Freddie Firefly had promised to loan Chirpy his light, because Chirpy needed it when he saw Miss Christabel Cricket to her home beyond the barnyard fence. Chirpy was going to see her safely to her door when the night's concert was ended. And he could hardly wait until the time came when he would flash that wonderful light in the eyes of all his friends.

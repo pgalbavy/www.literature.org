@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-12.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-12.html"
 ---
 
 Except for the low yet hysterical moaning of the woman in the chair and the distant whistle of a Hudson River boat, there was complete silence in the small room, while the man stood dumfounded and speechless.

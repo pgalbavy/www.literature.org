@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Mountain Top"
 weight: 11
-aliases:
-  - "/authors/haggard-h-rider/benita-an-african-romance/chapter-10.html"
+url: "/authors/haggard-h-rider/benita-an-african-romance/chapter-10.html"
 ---
 
 If our adventurers, or any of them, hoped that they were going to be led to the secret places of the fortress that day, they were destined to disappointment. Indeed, the remainder of it was employed arduously enough in unpacking rifles, and a supply of ammunition; also in giving to a few of the leading Makalanga preliminary lessons in the method of their use, a matter as to which their ideas were of the vaguest. The rest of the tribe, having brought their women and children into the outer enclosure of the ancient stronghold, and with them their sheep and goats and the few cattle which remained to them, were employed in building up the entrance permanently with stones, a zigzag secret path upon the river side, that could be stopped in a few minutes, being now their only method of ingress and egress through the thickness of the walls. A certain number of men were also sent out as spies to discover, if possible, the whereabouts of the Matabele impi.

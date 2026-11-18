@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/crane-stephen/the-red-badge-of-courage/chapter-16.html"
+url: "/authors/crane-stephen/the-red-badge-of-courage/chapter-16.html"
 ---
 
 A SPUTTERING of musketry was always to be heard. Later, the cannon had entered the dis- pute. In the fog-filled air their voices made a thudding sound. The reverberations were con- tinued. This part of the world led a strange, battleful existence.

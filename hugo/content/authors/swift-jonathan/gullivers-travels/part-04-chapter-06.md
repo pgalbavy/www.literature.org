@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 6"
 weight: 34
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-04-chapter-06.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-04-chapter-06.html"
 ---
 
 A continuation of the state of England under Queen Anne. The character of a first minister of state in European courts.

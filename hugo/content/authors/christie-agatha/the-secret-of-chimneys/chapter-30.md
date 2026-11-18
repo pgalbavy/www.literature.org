@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - Anthony Signs On For A New Job"
 weight: 30
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-30.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-30.html"
 ---
 
 "If you will go on, gentlemen, I will follow you in a minute," said Anthony.

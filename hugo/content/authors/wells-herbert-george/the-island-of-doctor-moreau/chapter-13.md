@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Parley"
 weight: 14
-aliases:
-  - "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-13.html"
+url: "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-13.html"
 ---
 
 I TURNED again and went on down towards the sea. I found the hot stream broadened out to a shallow, weedy sand, in which an abundance of crabs and long-bodied, many-legged creatures started from my footfall. I walked to the very edge of the salt water, and then I felt I was safe. I turned and stared, arms akimbo, at the thick green behind me, into which the steamy ravine cut like a smoking gash. But, as I say, I was too full of excitement and (a true saying, though those who have never known danger may doubt it) too desperate to die.

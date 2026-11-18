@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/buck-charles-neville/the-key-to-yesterday/chapter-06.html"
+url: "/authors/buck-charles-neville/the-key-to-yesterday/chapter-06.html"
 ---
 
 For more than a week after the ride to the cliff, Duska withdrew herself from the orbit in which Saxon revolved, and the man, feeling that she wished to dismiss him, in part at least, used the "air line" much less frequently than in the days that had been. Once, when Steele had left the cabin early to dine at the "big house," Saxon protested that he must stay and write letters. He slipped away, however, in the summer starlight, and took one of the canoes from the boat-house on the river. He drove the light craft as noiselessly and gloomily as a funeral barge along the shadow of the bank, the victim of utter misery, and his blackness of mood was intensified when he saw a second canoe pass in mid-channel, and recognized Steele's tenor in the drifting strains of a sentimental song. There was no moon, and the river was only a black mirror for the stars. The tree-grown banks were blacker fringes of shadow, but he could make out a slender figure wielding the stern paddle with an easy grace which he knew was Duska's. His sentiment was in no wise jealousy, but it was in every wise heart-hunger.

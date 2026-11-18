@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Further Adventures Of Tommy"
 weight: 17
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/chapter-16.html"
+url: "/authors/christie-agatha/the-secret-adversary/chapter-16.html"
 ---
 
 *FROM* a darkness punctuated with throbbing stabs of fire, Tommy dragged his senses slowly back to life. When he at last opened his eyes, he was conscious of nothing but an excruciating pain through his temples. He was vaguely aware of unfamiliar surroundings. Where was he? What had happened? He blinked feebly. This was not his bedroom at the *Ritz*. And what the devil was the matter with his head?

@@ -1,8 +1,7 @@
 ---
 title: "Book 9 - Chapter 7"
 weight: 174
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-09-chapter-07.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-09-chapter-07.html"
 ---
 
 After all that Napoleon had said to him- those bursts of anger and the last dryly spoken words: "I will detain you no longer, General; you shall receive my letter," Balashev felt convinced that Napoleon would not wish to see him, and would even avoid another meeting with him- an insulted envoy- especially as he had witnessed his unseemly anger. But, to his surprise, Balashev received, through Duroc, an invitation to dine with the Emperor that day.

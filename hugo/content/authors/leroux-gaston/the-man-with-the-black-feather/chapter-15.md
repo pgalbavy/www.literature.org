@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Operation Ends"
 weight: 16
-aliases:
-  - "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-15.html"
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-15.html"
 ---
 
 Firm in his intention of bringing his subject to his death by slow degrees, M. Eliphas de la Nox took Theophrastus slowly through the imprisonment, trial, and condemnation of Cartouche. But I omit that part of the narrative of M. Lecamus, since the historians have described that imprisonment and trial at length. I take it up at the point at which Cartouche was on his way to the Torture-chamber that they might force from him the names of his accomplices.

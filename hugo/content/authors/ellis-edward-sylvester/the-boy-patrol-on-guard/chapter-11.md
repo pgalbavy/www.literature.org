@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Lesson In Trailing"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-11.html"
 ---
 
 "Halt!" The Boy Scouts were tramping forward, chatting and laughing and paying less attention than at first to the varieties of trees which constantly appeared before them. It was true, as Uncle Elk had seen, that they were a wee bit tired of imbibing knowledge, and disposed to think of the home of the old man which they knew could not be far off. At the sound of his crisp command, the party halted and looked expectantly at him. On his part, he calmly surveyed the array of bright faces as if the sight gave him rare pleasure, as it undoubtedly did. Pausing for a moment, he said, addressing the whole body:

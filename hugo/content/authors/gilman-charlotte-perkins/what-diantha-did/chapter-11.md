@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Power Of The Screw"
 weight: 11
-aliases:
-  - "/authors/gilman-charlotte-perkins/what-diantha-did/chapter-11.html"
+url: "/authors/gilman-charlotte-perkins/what-diantha-did/chapter-11.html"
 ---
 
 Diantha worked.

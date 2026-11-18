@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - In Great Danger"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-10.html"
 ---
 
 A little child is like a butterfly, thinking only of the pleasures of the moment. Nellie Ribsam came down close to the edge of the creek and threw some crumbs out upon the surface. In the clear water she could see the shadowy figures of the minnows, as they glided upward and snapped at the morsels.

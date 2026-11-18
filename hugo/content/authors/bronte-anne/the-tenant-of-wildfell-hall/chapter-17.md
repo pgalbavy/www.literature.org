@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-17.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-17.html"
 ---
 
 The next day I accompanied my uncle and aunt to a dinner-party at Mr. Wilmot's. He had two ladies staying with him: his niece Annabella, a fine dashing girl, or rather young woman, - of some five-and-twenty, too great a flirt to be married, according to her own assertion, but greatly admired by the gentlemen, who universally pronounced her a splendid woman; and her gentle cousin, Milicent Hargrave, who had taken a violent fancy to me, mistaking me for something vastly better than I was. And I, in return, was very fond of her. I should entirely exclude poor Milicent in my general animadversions against the ladies of my acquaintance. But it was not on her account, or her cousin's, that I have mentioned the party: it was for the sake of another of Mr. Wilmot's guests, to wit Mr. Huntingdon. I have good reason to remember his presence there, for this was the last time I saw him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Frightening Mrs. Bobolink"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-14.html"
 ---
 
 Not knowing who gave the strange cry near their home, Bobby Bobolink and his wife held their breaths and waited. They never dreamed that it was their good friend, Mr. Catbird, hidden in a bush near-by, who was trying to imitate one of Bobby's songs.

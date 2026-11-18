@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Mr. Frog Is Pleased"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-09.html"
 ---
 
 "Kiddie Katydid doesn't sing!" Freddie Firefly told Mr. Frog hurriedly.

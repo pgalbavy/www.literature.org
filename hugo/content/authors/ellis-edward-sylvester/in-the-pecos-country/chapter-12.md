@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Young Captive"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-12.html"
 ---
 
 The experience of Fred Munson as a prisoner among the Apaches was one which he was not likely to forget to his dying day. From the back of the steed where he was held a captive he gained an indistinct view of the short, savage struggle between Lone Wolf and Sut Simpson, and more than once he concluded that it was all over with the daring hunter, who had ventured out with the purpose of befriending him. But when the chieftain returned to his warriors alone and without any scalp strung to his girdle, he knew that the fellow had pulled through all right.

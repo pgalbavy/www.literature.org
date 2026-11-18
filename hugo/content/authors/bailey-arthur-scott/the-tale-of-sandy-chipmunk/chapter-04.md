@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Building A House"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-04.html"
 ---
 
 There came a day when Sandy Chipmunk decided that he was old enough and big enough to make a house of his own. He was not the sort of person to think and think about a thing and put off the doing of it from one day to another. So the moment the idea of a house popped into his head Sandy Chipmunk began hunting for a good place to dig.

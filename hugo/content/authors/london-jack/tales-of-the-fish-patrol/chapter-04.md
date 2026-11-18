@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Siege Of The \u0026quot;Lancashire Queen\u0026quot;"
 weight: 4
-aliases:
-  - "/authors/london-jack/tales-of-the-fish-patrol/chapter-04.html"
+url: "/authors/london-jack/tales-of-the-fish-patrol/chapter-04.html"
 ---
 
 Possibly our most exasperating experience on the fish patrol was when Charley Le Grant and I laid a two weeks' siege to a big four- masted English ship. Before we had finished with the affair, it became a pretty mathematical problem, and it was by the merest chance that we came into possession of the instrument that brought it to a successful termination.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Buster Finds A Sister"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-04.html"
 ---
 
 Buster Bumblebee's announcement that he was a queen's son--and a gentleman--seemed to amuse the trumpeter hugely. She held her sides and laughed uproariously.

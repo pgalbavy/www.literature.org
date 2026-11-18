@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 18"
 weight: 18
-aliases:
-  - "/authors/austen-jane/emma/volume-01-chapter-18.html"
+url: "/authors/austen-jane/emma/volume-01-chapter-18.html"
 ---
 
 Mr. Frank Churchill did not come. When the time proposed drew near, Mrs. Weston's fears were justified in the arrival of a letter of excuse. For the present, he could not be spared, to his “very great mortification and regret; but still he looked forward with the hope of coming to Randalls at no distant period.”

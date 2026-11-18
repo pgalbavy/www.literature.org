@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 8"
 weight: 58
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-06-chapter-08.html"
+url: "/authors/cather-willa/song-of-the-lark/part-06-chapter-08.html"
 ---
 
 THE “Ring of the Niebelungs” was to be given at the Metropolitan on four successive Friday afternoons. After the first of these performances, Fred Ottenburg went home with Landry for tea. Landry was one of the few public entertainers who own real estate in New York. He lived in a little three-story brick house on Jane Street, in Greenwich Village, which had been left to him by the same aunt who paid for his musical education.

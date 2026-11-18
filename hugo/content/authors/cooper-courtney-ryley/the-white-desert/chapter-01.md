@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/cooper-courtney-ryley/the-white-desert/chapter-01.html"
+url: "/authors/cooper-courtney-ryley/the-white-desert/chapter-01.html"
 ---
 
 It was early afternoon. Near by, the smaller hills shimmered in the radiant warmth of late spring, the brownness of their foliage and boulders merging gradually upward to the green of the spruces and pines of the higher mountains, which in turn gave way before the somber blacks and whites of the main range, where yet the snow lingered from the clutch of winter, where the streams ran brown with the down-flow of the continental divide, where every cluster of mountain foliage sheltered a mound of white, in jealous conflict with the sun. The mountains are tenacious of their vicious traits; they cling to the snow and cold and ice long after the seasons have denoted a time of warmth and summer's splendor; the columbine often blooms beside a ten-foot drift.

@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 1 - The Enemy Of His Kind"
 weight: 15
-aliases:
-  - "/authors/london-jack/white-fang/part-04-chapter-01.html"
+url: "/authors/london-jack/white-fang/part-04-chapter-01.html"
 ---
 
 Had there been in White Fang's nature any possibility, no matter how remote, of his ever coming to fraternise with his kind, such possibility was irretrievably destroyed when he was made leader of the sled-team. For now the dogs hated him - hated him for the extra meat bestowed upon him by Mit-sah; hated him for all the real and fancied favours he received; hated him for that he fled always at the head of the team, his waving brush of a tail and his perpetually retreating hind-quarters for ever maddening their eyes.

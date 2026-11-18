@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Blue Skies And A Cloud"
 weight: 29
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-29.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-29.html"
 ---
 
 Had Colonel Hallibut known that the Bushwhackers had awaited the melting of the snows quite as impatiently as he himself had, it might have surprised him. And had he known that the Bushwhackers were just as eager to have an explanation from him as he was to have an explanation from the Bushwhackers, he certainly would have been somewhat puzzled.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/tolstoy-leo/master-and-man/chapter-03.html"
+url: "/authors/tolstoy-leo/master-and-man/chapter-03.html"
 ---
 
 At the entrance to the street the wind still raged and the road was thickly covered with snow, but well within the village it was calm, warm, and cheerful. At one house a dog was barking, at another a woman, covering her head with her coat, came running from somewhere and entered the door of a hut, stopping on the threshold to have a look at the passing sledge. In the middle of the village girls could be heard singing.

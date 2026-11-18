@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - A Little Surprise"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-12.html"
 ---
 
 Simon Screecher lived in the apple orchard, in a hollow tree, where he could sleep during the day safe from attack by mobs of small birds, who had the best of reasons for disliking him.

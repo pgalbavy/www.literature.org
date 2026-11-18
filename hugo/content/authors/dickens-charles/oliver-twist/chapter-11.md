@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Treats Of Mr. Fang The Police Magistrate; And Furnishes A Slight Specimen Of His Mode Of Administering Justice"
 weight: 11
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-11.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-11.html"
 ---
 
 The offence had been committed within the district, and indeed in the immediate neighborhood of, a very notorious metropolitan police office. The crowd had only the satisfaction of accompanying Oliver through two or three streets, and down a place called Mutton Hill, when he was led beneath a low archway, and up a dirty court, into this dispensary of summary justice, by the back way. It was a small paved yard into which they turned; and here they encountered a stout man with a bunch of whiskers on his face, and a bunch of keys in his hand.

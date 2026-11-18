@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Fun And Grumbles"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-13.html"
 ---
 
 It stopped snowing at last and the weather turned clear and crisp. The sun came out. And so did Johnnie Green, riding on Twinkleheels. He did not get far from the barn, however. Where the snow wasn't piled in drifts high above Twinkleheels' head it reached up on his fat sides. He floundered about the farmyard for a time. And, falling once, he dumped Johnnie Green neatly into a drift, head first.

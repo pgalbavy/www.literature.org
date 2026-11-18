@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-20.html"
+url: "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-20.html"
 ---
 
 All that first day after the union of the two parties, our friends marched steadily toward the wicker castle of Ugu the Shoemaker. When night came, they camped in a little grove and passed a pleasant evening together, although some of them were worried because Button-Bright was still lost.

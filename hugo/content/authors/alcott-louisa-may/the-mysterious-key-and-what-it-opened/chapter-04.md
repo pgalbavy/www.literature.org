@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Vanished"
 weight: 4
-aliases:
-  - "/authors/alcott-louisa-may/the-mysterious-key-and-what-it-opened/chapter-04.html"
+url: "/authors/alcott-louisa-may/the-mysterious-key-and-what-it-opened/chapter-04.html"
 ---
 
 He's a handsome lad, and one any woman might be proud to call her son," said Hester to Bedford, the stately butler, as they lingered at the hall door one autumn morning to watch their young lady's departure on her daily ride.

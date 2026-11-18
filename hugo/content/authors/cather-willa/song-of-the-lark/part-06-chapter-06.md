@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 6"
 weight: 56
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-06-chapter-06.html"
+url: "/authors/cather-willa/song-of-the-lark/part-06-chapter-06.html"
 ---
 
 IT was late on the morning after the night she sang ELSA, when Thea Kronborg stirred uneasily in her bed. The room was darkened by two sets of window shades, and the day outside was thick and cloudy. She turned and tried to recapture unconsciousness, knowing that she would not be able to do so. She dreaded waking stale and disappointed after a great effort. The first thing that came was always the sense of the futility of such endeavor, and of the absurdity of trying too hard. Up to a certain point, say eighty degrees, artistic endeavor could be fat and comfortable, methodical and prudent. But if you went further than that, if you drew yourself up toward ninety degrees, you parted with your defenses and left yourself exposed to mischance. The legend was that in those upper reaches you might be divine; but you were much likelier to be ridiculous. Your public wanted just about eighty degrees; if you gave it more it blew its nose and put a crimp in you. In the morning, especially, it seemed to her very probable that whatever struggled above the good average was not quite sound. Certainly very little of that superfluous ardor, which cost so dear, ever got across the footlights. These misgivings waited to pounce upon her when she wakened. They hovered about her bed like vultures.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - I Have Spoken"
 weight: 24
-aliases:
-  - "/authors/haggard-h-rider/allan-quatermain/chapter-23.html"
+url: "/authors/haggard-h-rider/allan-quatermain/chapter-23.html"
 ---
 
 It was a week after Nyleptha’s visit, when I had begun to get about a little in the middle of the day, that a message came to me from Sir Henry to say that Sorais would be brought before them in the Queen’s first antechamber at midday, and requesting my attendance if possible. Accordingly, greatly drawn by curiosity to see this unhappy woman once more, I made shift, with the help of that kind little fellow Alphonse, who is a perfect treasure to me, and that of another waiting-man, to reach the antechamber. I got there, indeed, before anybody else, except a few of the great Court officials who had been bidden to be present, but I had scarcely seated myself before Sorais was brought in by a party of guards, looking as beautiful and defiant as ever, but with a worn expression on her proud face. She was, as usual, dressed in her royal ‘kaf’, emblazoned with the emblem of the Sun, and in her right hand she still held the toy spear of silver. A pang of admiration and pity went through me as I looked at her, and struggling to my feet I bowed deeply, at the same time expressing my sorrow that I was not able, owing to my condition, to remain standing before her.

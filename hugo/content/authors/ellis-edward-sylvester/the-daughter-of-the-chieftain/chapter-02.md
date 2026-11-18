@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Danger In The Air"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/the-daughter-of-the-chieftain/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/the-daughter-of-the-chieftain/chapter-02.html"
 ---
 
 Little Linna, daughter of Omas, the Delaware warrior, was of the same age as Alice Ripley. The weather was warm although she wore tiny moccasins to protect her feet, she scorned the superfluous stockings and undergarments that formed a part of the other's apparel.

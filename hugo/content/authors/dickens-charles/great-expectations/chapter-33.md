@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 33
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-33.html"
+url: "/authors/dickens-charles/great-expectations/chapter-33.html"
 ---
 
 IN her furred travelling-dress, Estella seemed more d elicately beauti- ful than she had ever seemed yet, even in my eyes. Her manner was more winning than she had cared to let it be to me before, and I thought I saw Miss Havisham's influence in the change.

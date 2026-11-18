@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Peace Collects Damages"
 weight: 15
-aliases:
-  - "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-15.html"
+url: "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-15.html"
 ---
 
 The hot summer was drawing to a close. Two weeks more and September would be ushered in, bringing with it the State Fair, always an event in the lives of the busy farmers of the State, and particularly of those around Martindale and Pendennis, as the fairgrounds were located midway between the two big cities.

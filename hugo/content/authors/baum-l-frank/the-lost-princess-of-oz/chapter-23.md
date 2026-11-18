@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 24
-aliases:
-  - "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-23.html"
+url: "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-23.html"
 ---
 
 The delay caused by Scraps had prevented anyone from running to the shelves to secure the magic instruments so badly needed. Even Cayke neglected to get her diamond-studded dishpan because she was watching the Patchwork Girl. And now the magician had opened his trap door and appeared in his golden cage again, frowning angrily because his prisoners had been able to turn their upside-down prison right side up. "Which of you has dared defy my magic?" he shouted in a terrible voice.

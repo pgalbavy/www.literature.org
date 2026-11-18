@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-17.html"
+url: "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-17.html"
 ---
 
 Meriem returned slowly toward the tree in which she had left her skirt, her shoes and her stockings. She was singing blithely; but her song came to a sudden stop when she came within sight of the tree, for there, disporting themselves with glee and pulling and hauling upon her belongings, were a number of baboons. When they saw her they showed no signs of terror. Instead they bared their fangs and growled at her. What was there to fear in a single she-Tarmangani? Nothing, absolutely nothing.

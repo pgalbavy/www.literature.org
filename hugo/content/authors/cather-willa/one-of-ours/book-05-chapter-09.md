@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 9"
 weight: 62
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-05-chapter-09.html"
+url: "/authors/cather-willa/one-of-ours/book-05-chapter-09.html"
 ---
 
 The following night, Claude was sent back to Division Head-quarters at Q-- with information the Colonel did not care to commit to paper. He set off at ten o'clock, with Sergeant Hicks for escort. There had been two days of rain, and the communication trenches were almost knee-deep in water. About half a mile back of the front line, the two men crawled out of the ditch and went on above ground. There was very little shelling along the front that night. When a flare went up, they dropped and lay on their faces, trying, at the same time, to get a squint at what was ahead of them.

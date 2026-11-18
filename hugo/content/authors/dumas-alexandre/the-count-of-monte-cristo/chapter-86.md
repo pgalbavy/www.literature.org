@@ -1,8 +1,7 @@
 ---
 title: "Chapter 86 - The Trial"
 weight: 86
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-86.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-86.html"
 ---
 
 At eight o'clock in the morning Albert had arrived at Beauchamp's door. The valet de chambre had received orders to usher him in at once. Beauchamp was in his bath. "Here I am," said Albert.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Plant Men"
 weight: 2
-aliases:
-  - "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-01.html"
+url: "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-01.html"
 ---
 
 As I stood upon the bluff before my cottage on that clear cold night in the early part of March, 1886, the noble Hudson flowing like the grey and silent spectre of a dead river below me, I felt again the strange, compelling influence of the mighty god of war, my beloved Mars, which for ten long and lonesome years I had implored with outstretched arms to carry me back to my lost love.

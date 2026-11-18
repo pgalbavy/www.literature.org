@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Those Were The Real Conquests"
 weight: 14
-aliases:
-  - "/authors/doyle-arthur-conan/the-lost-world/chapter-14.html"
+url: "/authors/doyle-arthur-conan/the-lost-world/chapter-14.html"
 ---
 
 We had imagined that our pursuers, the ape-men, knew nothing of our brush-wood hiding-place, but we were soon to find out our mistake. There was no sound in the woods--not a leaf moved upon the trees, and all was peace around us--but we should have been warned by our first experience how cunningly and how patiently these creatures can watch and wait until their chance comes. Whatever fate may be mine through life, I am very sure that I shall never be nearer death than I was that morning. But I will tell you the thing in its due order.

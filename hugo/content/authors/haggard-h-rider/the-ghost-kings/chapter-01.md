@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Girl"
 weight: 2
-aliases:
-  - "/authors/haggard-h-rider/the-ghost-kings/chapter-01.html"
+url: "/authors/haggard-h-rider/the-ghost-kings/chapter-01.html"
 ---
 
 The afternoon was intensely, terribly hot. Looked at from the high ground where they were encamped above the river, the sea, a mile or two to her right--for this was the coast of Pondo-land--to little Rachel Dove staring at it with sad eyes, seemed an illimitable sheet of stagnant oil. Yet there was no sun, for a grey haze hung like a veil beneath the arch of the sky, so dense and thick that its rays were cut off from the earth which lay below silent and stifled. Tom, the Kaffir driver, had told her that a storm was coming, a father of storms, which would end the great drought. Therefore he had gone to a kloof in the mountains where the oxen were in charge of the other two native boys--since on this upland there was no pasturage to drive them back to the waggon. For, as he explained to her, in such tempests cattle are apt to take fright and rush away for miles, and without cattle their plight would be even worse than it was at present.

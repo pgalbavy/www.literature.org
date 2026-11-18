@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/grahame-kenneth/the-headswoman/chapter-01.html"
+url: "/authors/grahame-kenneth/the-headswoman/chapter-01.html"
 ---
 
 It was a bland, sunny morning of a mediæval May,--an old-style May of the most typical quality; and the Council of the little town of St. Radegonde were assembled, as was their wont at that hour, in the picturesque upper chamber of the Hôtel de Ville, for the dispatch of the usual municipal business. Though the date was early sixteenth century, the members of this particular town-council possessed considerable resemblance to those of similar assemblies in the seventeenth, eighteenth, and even the nineteenth centuries, in a general absence of any characteristic at all--unless a pervading hopeless insignificance can be considered as such. All the character in the room, indeed, seemed to be concentrated in the girl who stood before the table, erect, yet at her ease, facing the members in general and Mr. Mayor in particular; a delicate-handed, handsome girl of some eighteen summers, whose tall, supple figure was well set off by the quiet, though tasteful mourning in which she was clad.

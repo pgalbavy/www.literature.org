@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Koyala's Warning"
 weight: 9
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-08.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-08.html"
 ---
 
 For a moment no one spoke. Koyala, poised lightly on her feet, her slender, shapely young figure held rigidly and her chin uptilted, gazed steadily at Van Slyck. Her black eyes blazed a scornful defiance. Before her contempt even the proud Amsterdammer's arrogance succumbed. He reddened shamefacedly under his tan.

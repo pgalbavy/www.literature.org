@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Messengers"
 weight: 8
-aliases:
-  - "/authors/haggard-h-rider/benita-an-african-romance/chapter-07.html"
+url: "/authors/haggard-h-rider/benita-an-african-romance/chapter-07.html"
 ---
 
 The door opened, and through it came Jacob Meyer, followed by three natives. Benita did not see or hear them; her soul was far away. There at the head of the room, clad all in white, for she wore no mourning save in her heart, illuminated by the rays of the lamp that hung above her, she stood still and upright, for she had risen; on the face and in her wide, dark eyes a look that was very strange to see. Jacob Meyer perceived it and stopped; the three natives perceived it also and stopped. There they stood, all four of them, at the end of the long sitting-room, staring at the white Benita and at her haunted eyes.

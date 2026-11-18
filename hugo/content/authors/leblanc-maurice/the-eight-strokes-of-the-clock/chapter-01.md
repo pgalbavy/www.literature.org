@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - On The Top Of The Tower"
 weight: 2
-aliases:
-  - "/authors/leblanc-maurice/the-eight-strokes-of-the-clock/chapter-01.html"
+url: "/authors/leblanc-maurice/the-eight-strokes-of-the-clock/chapter-01.html"
 ---
 
 Hortense Daniel pushed her window ajar and whispered:

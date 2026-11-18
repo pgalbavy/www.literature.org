@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - A Lesson"
 weight: 18
-aliases:
-  - "/authors/coolidge-dane/wunpost/chapter-18.html"
+url: "/authors/coolidge-dane/wunpost/chapter-18.html"
 ---
 
 The heat-wave, which had made even the desert-dwellers pant, came to an end with the Jail Canyon waterspout; the nights became bearable, the rocks cooled off and the sun ceased to strike through men's clothes. But there was one, still clinging to her faded bib-overalls, who took no joy in the blessed release. Wilhelmina was worried, for the sightseers from Blackwater had disappeared as soon as Wunpost rode away; and now, two days later, his dog had come back, meeching and whining and licking its feet. Good Luck had left Wunpost and returned to the ranch, where he was sure of food and a friend; but now that he was fed he begged and whimpered uneasily and watched every move that she made. And every time that she started towards the trail where Wunpost had ridden away he barked and ran eagerly ahead. Billy stood it until noon, then she caught up Tellurium and rode off after the dog.

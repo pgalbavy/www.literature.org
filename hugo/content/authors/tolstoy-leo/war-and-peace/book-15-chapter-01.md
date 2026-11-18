@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 1"
 weight: 318
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-01.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-01.html"
 ---
 
 BOOK FIFTEEN: 1812 - 13

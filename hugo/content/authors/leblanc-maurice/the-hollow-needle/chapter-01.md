@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Shot"
 weight: 1
-aliases:
-  - "/authors/leblanc-maurice/the-hollow-needle/chapter-01.html"
+url: "/authors/leblanc-maurice/the-hollow-needle/chapter-01.html"
 ---
 
 Raymonde listened. The noise was repeated twice over, clearly enough to be distinguished from the medley of vague sounds that formed the great silence of the night and yet too faintly to enable her to tell whether it was near or far, within the walls of the big country-house, or outside, among the murky recesses of the park.

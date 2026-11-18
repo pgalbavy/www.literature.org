@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Clandestine Adventure"
 weight: 15
-aliases:
-  - "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-15.html"
+url: "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-15.html"
 ---
 
 It seems a strange, almost savage thing that the few months before a woman's marriage are always filled so full of the doing of thousands and tens of thousands of small things that she has no time to think of the hugeness of the responsibilities she is assuming. Perhaps if she were given time to realize them she would never assume them. Once or twice in the long two, nearly three months that I had given myself to get ready to marry Nickols, I paused and found myself thinking of the weighty things of life, but I soon was able to shake off the thought of the future. The time I felt it press most heavily was one morning that Jessie Litton and I sat quietly sewing on some sort of fluff she and Harriet had planned for my adornment, and very suddenly Jessie laid down her ruffle and looked at me as she said:

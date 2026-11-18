@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Red One"
 weight: 1
-aliases:
-  - "/authors/london-jack/the-red-one/chapter-01.html"
+url: "/authors/london-jack/the-red-one/chapter-01.html"
 ---
 
 THERE it was! The abrupt liberation of sound! As he timed it with his watch, Bassett likened it to the trump of an archangel. Walls of cities, he meditated, might well fall down before so vast and compelling a summons. For the thousandth time vainly he tried to analyse the tone-quality of that enormous peal that dominated the land far into the strong-holds of the surrounding tribes. The mountain gorge which was its source rang to the rising tide of it until it brimmed over and flooded earth and sky and air. With the wantonness of a sick man's fancy, he likened it to the mighty cry of some Titan of the Elder World vexed with misery or wrath. Higher and higher it arose, challenging and demanding in such profounds of volume that it seemed intended for ears beyond the narrow confines of the solar system. There was in it, too, the clamour of protest in that there were no ears to hear and comprehend its utterance.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Maroz And Ceballos"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-scout/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-08.html"
 ---
 
 The faint signal had only the breadth of the stream to cross and was heard by the two men.

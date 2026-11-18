@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - XX Settembre"
 weight: 14
-aliases:
-  - "/authors/lawrence-david-herbert/aarons-rod/chapter-14.html"
+url: "/authors/lawrence-david-herbert/aarons-rod/chapter-14.html"
 ---
 
 Aaron was awakened in the morning by the soft entrance of the butler with the tray: it was just seven o'clock. Lady Franks' household was punctual as the sun itself.

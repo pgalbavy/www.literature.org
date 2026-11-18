@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 49 - Which Treats Of The Shrewd Conversation Which Sancho Panza Held With His Master Don Quixote"
 weight: 52
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-49.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-49.html"
 ---
 
 "Aha, I have caught you," said Sancho; "this is what in my heart and soul I was longing to know. Come now, señor, can you deny what is commonly said around us, when a person is out of humour, ‘I don’t know what ails so-and-so, that he neither eats, nor drinks, nor sleeps, nor gives a proper answer to any question; one would think he was enchanted’? From which it is to be gathered that those who do not eat, or drink, or sleep, or do any of the natural acts I am speaking of—that such persons are enchanted; but not those that have the desire your worship has, and drink when drink is given them, and eat when there is anything to eat, and answer every question that is asked them."

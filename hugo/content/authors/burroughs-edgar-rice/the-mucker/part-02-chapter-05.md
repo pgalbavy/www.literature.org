@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 5 - One Turn Deserves Another"
 weight: 23
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-05.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-05.html"
 ---
 
 WHEN the two tramps approached the farmhouse at which Billy had purchased food a few hours before the farmer's wife called the dog that was asleep in the summer kitchen and took a shotgun down from its hook beside the door.

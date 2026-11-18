@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-13.html"
+url: "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-13.html"
 ---
 
 The conspiracy fathered by Lute Brown and Jase Mallows had its inception in a small coterie whose ambitions had been stirred to avarice by the bait of sharing among them a sum of over four thousand dollars. Ramifications of detail had necessitated the use of a larger force; a force so large, indeed, that anything like an equal distribution of booty would have intolerably eaten into the profits of the principals. Therefore the rank and file of employes were merely mercenaries, working for a flat wage.

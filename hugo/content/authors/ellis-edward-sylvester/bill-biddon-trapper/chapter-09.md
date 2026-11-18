@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Buffalo Hunt And Its Consequences"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/bill-biddon-trapper/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/bill-biddon-trapper/chapter-09.html"
 ---
 
 During my captivity among the Indians, as stated in the last chapter, there was considerable suffering on account of the scarcity of food. The country to the north of Nebraska is the paradise of all species of game in the summer months, but during the winter the large animals proceed to the southward, and the deep snows prevent the capture of the smaller ones, except by means of traps. Spring, therefore, was looked forward to with eager expectation, as the harbinger of enjoyment and the season of the chase.

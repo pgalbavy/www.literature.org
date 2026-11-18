@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/lawrence-david-herbert/the-virgin-and-the-gypsy/chapter-05.html"
+url: "/authors/lawrence-david-herbert/the-virgin-and-the-gypsy/chapter-05.html"
 ---
 
 It was nearly tea-time. The snowdrops were out by the short drive going to the gate from the side of the house, and the gardener was pottering at the round, damp flower-beds, on the wet grass that sloped to the stream. Past the gate went the whitish muddy road, crossing the stone bridge almost immediately, and winding in a curve up to the steep, clustering, stony, smoking northern village, that perched over the grim stone mills which Yvette could see ahead down the narrow valley, their tall chimney long and erect.

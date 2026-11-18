@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 22
-aliases:
-  - "/authors/shelley-mary/frankenstein/chapter-21.html"
+url: "/authors/shelley-mary/frankenstein/chapter-21.html"
 ---
 
 I was soon introduced into the presence of the magistrate, an old benevolent man, with calm and mild manners. He looked upon me, however, with some degree of severity: and then, turning towards my conductors, he asked who appeared as witnesses on this occasion.

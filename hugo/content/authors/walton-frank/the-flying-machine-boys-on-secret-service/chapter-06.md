@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Loss Of The Louise"
 weight: 6
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-06.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-06.html"
 ---
 
 “I’d like to see you find a place where you can land,” Carl shouted in his chum’s ear. “There’s nothing here but ridges and canyons, and rocks and rivers at the bottom!”

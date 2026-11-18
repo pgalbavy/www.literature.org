@@ -1,8 +1,7 @@
 ---
 title: "blah 07"
 weight: 999
-aliases:
-  - "/authors/davis-richard-harding/the-kings-jackal/blah-07.html"
+url: "/authors/davis-richard-harding/the-kings-jackal/blah-07.html"
 ---
 
 The first two weeks of September spent in torrid New York were a strange period of time to have projected itself into the calm life of Miss Patricia Adair of Adairville, Kentucky. Suddenly she found herself a cog screwed tight into a rapid-fire piece of machinery that was running at top speed night and day, by name, "The Purple Slipper."

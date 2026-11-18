@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-07.html"
+url: "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-07.html"
 ---
 
 When Connie went up to her bedroom she did what she had not done for a long time: took off all her clothes, and looked at herself naked in the huge mirror. She did not know what she was looking for, or at, very definitely, yet she moved the lamp till it shone full on her.

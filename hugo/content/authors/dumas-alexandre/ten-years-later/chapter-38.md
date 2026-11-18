@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - In Which It Is Seen That The French Grocer Had Already Been Established In The Seventeenth Century"
 weight: 38
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-38.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-38.html"
 ---
 
 His accounts once settled, and his recommendations made, D'Artagnan thought of nothing but returning to Paris as soon as possible. Athos, on his part, was anxious to reach home and to rest a little. However whole the character and the man may remain after the fatigues of a voyage, the traveler perceives with pleasure, at the close of the day - even though the day has been a fine one - that night is approaching, and will bring a little sleep with it. So, from Boulogne to Paris, jogging on, side by side, the two friends, in some degree absorbed each in his individual thoughts, conversed of nothing sufficiently interesting for us to repeat to our readers. Each of them given up to his personal reflections, and constructing his future after his own fashion, was, above all, anxious to abridge the distance by speed. Athos and D'Artagnan arrived at the gates of Paris on the evening of the fourth day after leaving Boulogne.

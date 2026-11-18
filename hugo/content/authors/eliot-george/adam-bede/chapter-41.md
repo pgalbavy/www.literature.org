@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41 - The Eve Of The Trial"
 weight: 41
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-41.html"
+url: "/authors/eliot-george/adam-bede/chapter-41.html"
 ---
 
 AN upper room in a dull Stoniton street, with two beds in it - one laid on the floor. It is ten o'clock on Thursday night, and the dark wall opposite the window shuts out the moonlight that might have struggled with the light of the one dip candle by which Bartle Massey is pretending to read, while he is really looking over his spectacles at Adam Bede, seated near the dark window.

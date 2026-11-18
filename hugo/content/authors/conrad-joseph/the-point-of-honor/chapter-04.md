@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/conrad-joseph/the-point-of-honor/chapter-04.html"
+url: "/authors/conrad-joseph/the-point-of-honor/chapter-04.html"
 ---
 
 No man succeeds in everything he undertakes. In that sense we are all failures. The great point is not to fail in ordering and sustaining the effort of our life. In this matter vanity is what leads us astray. It is our vanity which hurries us into situations from which we must come out damaged. Whereas pride is our safeguard by the reserve it imposes on the choice of our endeavour, as much as by the virtue of its sustaining power.

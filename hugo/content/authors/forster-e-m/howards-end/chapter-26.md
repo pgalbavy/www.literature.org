@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-26.html"
+url: "/authors/forster-e-m/howards-end/chapter-26.html"
 ---
 
 Next morning a fine mist covered the peninsula. The weather promised well, and the outline of the castle mound grew clearer each moment that Margaret watched it. Presently she saw the keep, and the sun painted the rubble gold, and charged the white sky with blue. The shadow of the house gathered itself together, and fell over the garden. A cat looked up at her window and mewed. Lastly the river appeared, still holding the mists between its banks and its overhanging alders, and only visible as far as a hill, which cut off its upper reaches.

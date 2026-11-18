@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Hobo Stuff"
 weight: 4
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/chapter-03.html"
+url: "/authors/coolidge-dane/silver-and-gold/chapter-03.html"
 ---
 
 "Young man," began Bunker Hill after a long and painful silence in which Big Boy completely ignored him, "I want to ask your pardon. And anything I can do----"

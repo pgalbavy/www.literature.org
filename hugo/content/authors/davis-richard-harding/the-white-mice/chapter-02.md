@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/davis-richard-harding/the-white-mice/chapter-02.html"
+url: "/authors/davis-richard-harding/the-white-mice/chapter-02.html"
 ---
 
 The next day Roddy and Peter sailed for Willemstad, the chief port and the capital of the tiny island colony of Holland. In twelve hours they had made their land-fall and were entering the harbor mouth. The sun was just rising, and as its rays touched the cliff from which, twelve hours later, Señora Rojas and her daughters would look toward Porto Cabello, they felt a thrill of possible adventure.

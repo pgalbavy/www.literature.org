@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/conrad-joseph/gaspar-ruiz/chapter-08.html"
+url: "/authors/conrad-joseph/gaspar-ruiz/chapter-08.html"
 ---
 
 "*SENORES,"* related the General to his guests, "though my thoughts were of love then, and therefore enchanting, the sight of that house always affected me disagreeably, especially in the moonlight, when its close shutters and its air of lonely neglect appeared sinister. Still I went on using the bridle-path by the ravine, because it was a short cut. The mad Royalist howled and laughed at me every evening to his complete satisfaction; but after a time, as if wearied with my indifference, he ceased to appear in the porch. How they persuaded him to leave off I do not know. However, with Gaspar Ruiz in the house there would have been no difficulty in restraining him by force. It was part of their policy in there to avoid anything which could provoke me. At least, so I suppose.

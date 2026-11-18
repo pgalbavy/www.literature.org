@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Two Young Hearts"
 weight: 3
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-02.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-02.html"
 ---
 
 "HE is growing too fast," said the doctor to my mother; "and he is getting a great deal too clever for a boy at his age. Remove him from school, ma'am, for six months; let him run about in the open air at home; and if you find him with a book in his hand, take it away directly. There is my prescription."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Martha"
 weight: 14
-aliases:
-  - "/authors/london-jack/adventure/chapter-14.html"
+url: "/authors/london-jack/adventure/chapter-14.html"
 ---
 
 They were deep in a game of billiards the next morning, after the eleven o'clock breakfast, when Viaburi entered and announced, -

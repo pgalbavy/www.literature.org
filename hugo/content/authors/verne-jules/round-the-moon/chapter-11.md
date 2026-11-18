@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/verne-jules/round-the-moon/chapter-11.html"
+url: "/authors/verne-jules/round-the-moon/chapter-11.html"
 ---
 
 "Have you ever seen the moon?" asked a professor, ironically, of one of his pupils.

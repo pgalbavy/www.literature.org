@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-30.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-30.html"
 ---
 
 The visits of Lady Mallowe and Captain Palliser had had their features. Neither of the pair had come to one of the most imposing “places” in Lancashire to live a life of hermit-like seclusion and dullness. They had arrived with the intention of availing themselves of all such opportunities for entertainment as could be guided in their direction by the deftness of experience. As a result, there had been hospitalities at Temple Barholm such as it had not beheld during the last generation at least. T. Tembarom had looked on, an interested spectator, as these festivities had been adroitly arranged and managed for him. He had not, however, in the least resented acting as a sort of figurehead in the position of sponsor and host.

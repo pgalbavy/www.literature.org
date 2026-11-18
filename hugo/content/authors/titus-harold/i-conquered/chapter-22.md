@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Tables Turn; And Turn Again"
 weight: 22
-aliases:
-  - "/authors/titus-harold/i-conquered/chapter-22.html"
+url: "/authors/titus-harold/i-conquered/chapter-22.html"
 ---
 
 A young chap from the East who was in Clear River County because of his lungs named her Delilah when she was only a little girl--Delilah Gomez. She cooked now for the Double Six Ranch, the buildings of which clustered within a stone's throw of the Ranger post office. And that night as she sat looking from her window she thought, as she did much of the time, about the smiling Julio with his guitar--the handsome fellow who lived with Señor Rhues and did no work, but wore such fine chaps and kerchiefs!

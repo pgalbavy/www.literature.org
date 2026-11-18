@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 3"
 weight: 3
-aliases:
-  - "/authors/london-jack/burning-daylight/part-01-chapter-03.html"
+url: "/authors/london-jack/burning-daylight/part-01-chapter-03.html"
 ---
 
 It was Daylight's night. He was the centre and the head of the revel, unquenchably joyous, a contagion of fun. He multiplied himself, and in so doing multiplied the excitement. No prank he suggested was too wild for his followers, and all followed save those that developed into singing imbeciles and fell warbling by the wayside. Yet never did trouble intrude. It was known on the Yukon that when Burning Daylight made a night of it, wrath and evil were forbidden. On his nights men dared not quarrel. In the younger days such things had happened, and then men had known what real wrath was, and been man-handled as only Burning Daylight could man-handle. On his nights men must laugh and be happy or go home. Daylight was inexhaustible. In between dances he paid over to Kearns the twenty thousand in dust and transferred to him his Moosehide claim. Likewise he arranged the taking over of Billy Rawlins' mail contract, and made his preparations for the start. He despatched a messenger to rout out Kama, his dog-driver--a Tananaw Indian, far-wandered from his tribal home in the service of the invading whites. Kama entered the Tivoli, tall, lean, muscular, and fur-clad, the pick of his barbaric race and barbaric still, unshaken and unabashed by the revellers that rioted about him while Daylight gave his orders. "Um," said Kama, tabling his instructions on his fingers. "Get um letters from Rawlins. Load um on sled. Grub for Selkirk--you think um plenty dog-grub stop Selkirk?"

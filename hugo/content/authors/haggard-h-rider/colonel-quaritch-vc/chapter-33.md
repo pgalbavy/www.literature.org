@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - The Squire Speaks His Mind"
 weight: 33
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-33.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-33.html"
 ---
 
 For a minute or more her father fidgeted about, moving his papers backwards and forwards but saying nothing.

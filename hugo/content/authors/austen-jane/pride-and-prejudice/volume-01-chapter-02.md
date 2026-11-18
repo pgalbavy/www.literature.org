@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 2"
 weight: 2
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-02.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-02.html"
 ---
 
 Mr. Bennet was among the earliest of those who waited on Mr. Bingley. He had always intended to visit him, though to the last always assuring his wife that he should not go; and till the evening after the visit was paid, she had no knowledge of it. It was then disclosed in the following manner. Observing his second daughter employed in trimming a hat, he suddenly addressed her with,

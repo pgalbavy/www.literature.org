@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - An Alarming Interruption"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-02.html"
 ---
 
 "If you think it best that I shall stay at home, I will do so," said the young man, striving hard to repress the disappointment the words caused him.

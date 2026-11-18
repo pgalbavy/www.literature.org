@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41 - Containing Fresh Discoveries, And Showing That Suprises, Like Misfortunes, Seldom Come Alone"
 weight: 41
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-41.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-41.html"
 ---
 
 Her situation was, indeed, one of no common trial and difficulty. While she felt the most eager and burning desire to penetrate the mystery in which Oliver's history was enveloped, she could not but hold sacred the confidence which the miserable woman with whom she had just conversed, had reposed in her, as a young and guileless girl. Her words and manner had touched Rose Maylie's heart; and, mingled with her love for her young charge, and scarcely less intense in its truth and fervour, was her fond wish to win the outcast back to repentance and hope.

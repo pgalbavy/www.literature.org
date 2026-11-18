@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 5"
 weight: 24
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-02-chapter-05.html"
+url: "/authors/cather-willa/one-of-ours/book-02-chapter-05.html"
 ---
 
 Claude's first trip to Frankfort was to get his hair cut. After leaving the barber-shop he presented himself, glistening with bayrum, at Jason Royce's office. Mr. Royce, in the act of closing his safe, turned and took the young man by the hand.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 96 - Baisemeaux De Montlezun"
 weight: 96
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-96.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-96.html"
 ---
 
 After the austere lesson administered to De Wardes, Athos and D'Artagnan together descended the staircase which led to the courtyard of the Palais-Royal. "You perceive," said Athos to D'Artagnan, "that Raoul cannot, sooner or later, avoid a duel with De Wardes, for De Wardes is as brave as he is vicious and wicked."

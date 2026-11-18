@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 17"
 weight: 30
-aliases:
-  - "/authors/london-jack/burning-daylight/part-02-chapter-17.html"
+url: "/authors/london-jack/burning-daylight/part-02-chapter-17.html"
 ---
 
 Daylight had been wholly truthful when he told Dede that he had no real friends. On speaking terms with thousands, on fellowship and drinking terms with hundreds, he was a lonely man. He failed to find the one man, or group of several men, with whom he could be really intimate. Cities did not make for comradeship as did the Alaskan trail. Besides, the types of men were different. Scornful and contemptuous of business men on the one hand, on the other his relations with the San Francisco bosses had been more an alliance of expediency than anything else. He had felt more of kinship for the franker brutality of the bosses and their captains, but they had failed to claim any deep respect. They were too prone to crookedness. Bonds were better than men's word in this modern world, and one had to look carefully to the bonds.

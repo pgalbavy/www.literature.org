@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Mr. Chippy's Son"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-15.html"
 ---
 
 Rusty Wren was hurrying out of his house to find some supper for his family, when he almost bumped into a young chap who was gazing at the sign, "Boy Wanted," which still hung outside Rusty's door.

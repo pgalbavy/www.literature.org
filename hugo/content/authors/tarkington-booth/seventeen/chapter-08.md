@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Jane"
 weight: 8
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-08.html"
+url: "/authors/tarkington-booth/seventeen/chapter-08.html"
 ---
 
 William's period of peculiar sensitiveness dated from that evening, and Jane, in particular, caused him a great deal of anxiety. In fact, he began to feel that Jane was a mortification which his parents might have spared him, with no loss to themselves or to the world. Not having shown that consideration for anybody, they might at least have been less spinelessly indulgent of her. William's bitter conviction was that he had never seen a child so starved of discipline or so lost to etiquette as Jane.

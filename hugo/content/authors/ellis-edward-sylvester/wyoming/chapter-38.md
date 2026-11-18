@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38"
 weight: 38
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-38.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-38.html"
 ---
 
 For a time Jake Golcher paid no attention to the whites, but watched the Senecas, while they plied the roaring fire, as though it gave him a good deal of satisfaction.

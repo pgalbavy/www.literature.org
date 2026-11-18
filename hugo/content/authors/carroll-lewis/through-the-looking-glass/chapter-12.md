@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Which Dreamed it?"
 weight: 12
-aliases:
-  - "/authors/carroll-lewis/through-the-looking-glass/chapter-12.html"
+url: "/authors/carroll-lewis/through-the-looking-glass/chapter-12.html"
 ---
 
 'Your majesty shouldn't purr so loud,' Alice said, rubbing her eyes, and addressing the kitten, respectfully, yet with some severity. 'You woke me out of oh! such a nice dream! And you've been along with me, Kitty -- all through the Looking-Glass world. Did you know it, dear?'

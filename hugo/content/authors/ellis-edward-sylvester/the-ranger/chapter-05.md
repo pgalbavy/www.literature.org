@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Meeting On The River"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/the-ranger/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/the-ranger/chapter-05.html"
 ---
 
 For some minutes after Zeb's disappearance, Leslie remained without moving, scarcely breathing for fear there might still be some Indians overhead; but as minute after minute wore by, and no sound above warned him that his enemies were in the vicinity, he managed to creep from his hiding-place and seat himself upon a rock near by.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Oliver, Being Offered Another Place, Makes His First Entry Into Public Life"
 weight: 4
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-04.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-04.html"
 ---
 
 In great families, when an advantageous place cannot be obtained, either in possession, reversion, remainder, or expectancy, for the young man who is growing up, it is a very general custom to send him to sea. The board, in imitation of so wise and salutary an example, took counsel together on the expediency of shipping off Oliver Twist, in some small trading vessel bound to a good unhealthy port. This suggested itself as the very best thing that could possibly be done with him: the probability being, that the skipper would flog him to death, in a playful mood, some day after dinner, or would knock his brains out with an iron bar; both pastimes being, as is pretty generally known, very favourite and common recreations among gentleman of that class. The more the case presented itself to the board, in this point of view, the more manifold the advantages of the step appeared; so, they came to the conclusion that the only way of providing for Oliver effectually, was to send him to sea without delay.

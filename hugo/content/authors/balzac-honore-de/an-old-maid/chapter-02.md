@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Susannah And The Elders"
 weight: 2
-aliases:
-  - "/authors/balzac-honore-de/an-old-maid/chapter-02.html"
+url: "/authors/balzac-honore-de/an-old-maid/chapter-02.html"
 ---
 
 On a Wednesday morning, early, toward the middle of spring, in the year 16,--such was his mode of reckoning,--at the moment when the chevalier was putting on his old green-flowered damask dressing-gown, he heard, despite the cotton in his ears, the light step of a young girl who was running up the stairway. Presently three taps were discreetly struck upon the door; then, without waiting for any response, a handsome girl slipped like an eel into the room occupied by the old bachelor.

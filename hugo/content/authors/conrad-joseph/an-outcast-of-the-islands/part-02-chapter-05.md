@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 5"
 weight: 13
-aliases:
-  - "/authors/conrad-joseph/an-outcast-of-the-islands/part-02-chapter-05.html"
+url: "/authors/conrad-joseph/an-outcast-of-the-islands/part-02-chapter-05.html"
 ---
 
 Directly on stepping outside Omar’s hut Abdulla caught sight of Willems. He expected, of course, to see a white man, but not that white man, whom he knew so well. Everybody who traded in the islands, and who had any dealings with Hudig, knew Willems. For the last two years of his stay in Macassar the confidential clerk had been managing all the local trade of the house under a very slight supervision only on the part of the master. So everybody knew Willems, Abdulla amongst others—but he was ignorant of Willems’ disgrace. As a matter of fact the thing had been kept very quiet—so quiet that a good many people in Macassar were expecting Willems’ return there, supposing him to be absent on some confidential mission. Abdulla, in his surprise, hesitated on the threshold. He had prepared himself to see some seaman—some old officer of Lingard’s; a common man—perhaps difficult to deal with, but still no match for him. Instead, he saw himself confronted by an individual whose reputation for sagacity in business was well known to him. How did he get here, and why? Abdulla, recovering from his surprise, advanced in a dignified manner towards the fire, keeping his eyes fixed steadily on Willems. When within two paces from Willems he stopped and lifted his right hand in grave salutation. Willems nodded slightly and spoke after a while.

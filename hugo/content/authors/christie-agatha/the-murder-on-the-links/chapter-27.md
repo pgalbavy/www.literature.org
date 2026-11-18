@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Jack Renauld’s Story"
 weight: 27
-aliases:
-  - "/authors/christie-agatha/the-murder-on-the-links/chapter-27.html"
+url: "/authors/christie-agatha/the-murder-on-the-links/chapter-27.html"
 ---
 
 "Congratulations, M. Jack," said Poirot, wringing the lad warmly by the hand.

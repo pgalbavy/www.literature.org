@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 8"
 weight: 40
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-06-chapter-08.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-06-chapter-08.html"
 ---
 
 When he went into Sonia's room, it was already getting dark. All day Sonia had been waiting for him in terrible anxiety. Dounia had been waiting with her. She had come to her that morning, remembering Svidrigaïlov's words that Sonia knew. We will not describe the conversation and tears of the two girls, and how friendly they became. Dounia gained one comfort at least from that interview, that her brother would not be alone. He had gone to her, Sonia, first with his confession; he had gone to her for human fellowship when he needed it; she would go with him wherever fate might send him. Dounia did not ask, but she knew it was so. She looked at Sonia almost with reverence and at first almost embarrassed her by it. Sonia was almost on the point of tears. She felt herself, on the contrary, hardly worthy to look at Dounia. Dounia's gracious image when she had bowed to her so attentively and respectfully at their first meeting in Raskolnikov's room had remained in her mind as one of the fairest visions of her life.

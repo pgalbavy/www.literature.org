@@ -1,8 +1,7 @@
 ---
 title: "Chapter 82 - The Portrait Of Madame"
 weight: 82
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-82.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-82.html"
 ---
 
 The discussion was becoming full of bitterness. De Guiche perfectly understood the whole matter for there was in Bragelonne's face a look instinctively hostile, while in that of De Wardes there was something like a determination to offend. Without inquiring into the different feelings which actuated his two friends, De Guiche resolved to ward off the blow which he felt was on the point of being dealt by one of them, and perhaps by both. "Gentlemen," he said, "we must take our leave of each other, I must pay a visit to Monsieur. You, De Wardes, will accompany me to the Louvre, and you Raoul, will remain here master of the house; and as all that is done here is under your advice, you will bestow the last glance upon my preparations for departure."

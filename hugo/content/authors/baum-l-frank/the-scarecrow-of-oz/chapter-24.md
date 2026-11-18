@@ -1,8 +1,7 @@
 ---
 title: "chapter 24"
 weight: 999
-aliases:
-  - "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-24.html"
+url: "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-24.html"
 ---
 
 At about four o'clock of that same day the Red Wagon drew up at the entrance to Glinda's palace and Dorothy and Betsy jumped out. Ozma's Red Wagon was almost a chariot, being inlaid with rubies and pearls, and it was drawn by Ozma's favorite steed, the wooden Sawhorse.

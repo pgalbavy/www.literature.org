@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Mike’s Good Luck"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-23.html"
 ---
 
 *AFTER* supper, which hardly corresponded with the price he was paying, Tom went out to look at the town. Five years had elapsed since the first discovery of gold, and society was yet in an unsettled condition. Houses of all descriptions, some very primitive, were scattered about. It was easy to see, even at that time, that some time a well-built city would take the place of this irregular settlement.

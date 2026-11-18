@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Mr. Woodchuck Moves"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-19.html"
 ---
 
 Mr. Woodchuck was annoyed. And he had good reason to be. The weather was fine and he had planned to spend the whole day sunning himself on a big rock not far from his own dooryard. But he had scarcely found a comfortable seat for himself, after finishing his breakfast, when he caught sight of Farmer Green and his hired man coming across the fields. They were headed straight for the pasture. And Mr. Woodchuck began to complain so loudly about his rest being disturbed, and how mean it was of Farmer Green to come poking about other people's dooryards, that Mrs. Woodchuck came to her door to see what had happened.

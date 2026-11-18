@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-14.html"
+url: "/authors/haggard-h-rider/dawn/chapter-14.html"
 ---
 
 The jubilation of George at the turn events had taken may perhaps be more easily imagined than described. There is generally one weak point about all artful schemes to keep other people out of their rights; they break down over some unforeseen detail, or through the neglect of some trivial and obvious precaution. But this was one of the glorious instances to the contrary that prove the rule. Nothing had broken down, everything had prospered as a holy cause always should, and does --in theory. The stars in their courses had fought for Sisera, everything had succeeded beyond expectation, nothing had failed. In the gratitude of his heart, George would willingly have given a thousand pounds towards the establishment of a training-school for anonymous letter-writers, or the erection of a statue to Hilda Caresfoot, whose outraged pride and womanly jealousy had done him such yeoman service.

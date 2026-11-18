@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43"
 weight: 44
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-43.html"
+url: "/authors/haggard-h-rider/dawn/chapter-43.html"
 ---
 
 A week or so after the departure of Lord Minster, Mildred suggested that they should, on the following day, vary their amusements by going up to the Convent, a building perched on the hills some thousand feet above the town of Funchal, in palanquins, or rather hammocks swung upon long poles. Arthur, who had never yet travelled in these luxurious conveyances, jumped at the idea, and even Miss Terry, when she discovered that she was to be carried, made no objection. The party was completed by the addition of a newly-married couple of whom Mrs. Carr had known something at home, and who had come to Madeira to spend the honeymoon. Lady Florence also had been asked, but, rather to Arthur's disappointment, she could not come.

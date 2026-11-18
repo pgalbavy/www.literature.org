@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - War!"
 weight: 15
-aliases:
-  - "/authors/titus-harold/the-last-straw/chapter-15.html"
+url: "/authors/titus-harold/the-last-straw/chapter-15.html"
 ---
 
 So, for Jane and Tom, at least, Hepburn came into the open.

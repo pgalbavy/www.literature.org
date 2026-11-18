@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/tarkington-booth/beasleys-christmas-party/chapter-05.html"
+url: "/authors/tarkington-booth/beasleys-christmas-party/chapter-05.html"
 ---
 
 Miss Apperthwaite was at home the following Saturday. I found her in the library with Les Miserables on her knee when I came down from my room a little before lunch-time; and she looked up and gave me a smile that made me feel sorry for any one she had ceased to smile upon.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 32
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-32.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-32.html"
 ---
 
 "You are very smart, Ernestine," he said, looking her admiringly.

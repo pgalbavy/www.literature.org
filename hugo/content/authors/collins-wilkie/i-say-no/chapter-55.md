@@ -1,8 +1,7 @@
 ---
 title: "Chapter 55 - Mirabel Sees His Way"
 weight: 55
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-55.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-55.html"
 ---
 
 Reaching the hotel at which he was accustomed to stay when he was in London, Mirabel locked the door of his room. He looked at the houses on the opposite side of the street. His mind was in such a state of morbid distrust that he lowered the blind over the window. In solitude and obscurity, the miserable wretch sat down in a corner, and covered his face with his hands, and tried to realize what had happened to him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/darwin-charles/the-descent-of-man/chapter-12.html"
+url: "/authors/darwin-charles/the-descent-of-man/chapter-12.html"
 ---
 
 WE have now arrived at the great sub-kingdom of the Vertebrata, and will commence with the lowest class, that of fishes. The males of plagiostomous fishes (sharks, rays) and of chimaeroid fishes are provided with claspers which serve to retain the female, like the various structures possessed by many of the lower animals. Besides the claspers, the males of many rays have clusters of strong sharp spines on their heads, and several rows along "the upper outer surface of their pectoral fins." These are present in the males of some species, which have other parts of their bodies smooth. They are only temporarily developed during the breeding-season; and Dr. Gunther suspects that they are brought into action as prehensile organs by the doubling inwards and downwards of the two sides of the body. It is a remarkable fact that the females and not the males of some species, as of Raia clavata, have their backs studded with large hook-formed spines.*

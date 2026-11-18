@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Birth Of Paul, And Another Battle"
 weight: 2
-aliases:
-  - "/authors/lawrence-david-herbert/sons-and-lovers/chapter-02.html"
+url: "/authors/lawrence-david-herbert/sons-and-lovers/chapter-02.html"
 ---
 
 AFTER such a scene as the last, Walter Morel was for some days abashed and ashamed, but he soon regained his old bullying indifference. Yet there was a slight shrinking, a diminishing in his assurance. Physically even, he shrank, and his fine full presence waned. He never grew in the least stout, so that, as he sank from his erect, assertive bearing, his physique seemed to contract along with his pride and moral strength.

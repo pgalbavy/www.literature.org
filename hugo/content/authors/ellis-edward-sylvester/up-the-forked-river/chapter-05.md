@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-05.html"
 ---
 
 Major Jack Starland decided to make his ambassadorial trip to the Atlamalcan Republic by water instead of land, and to take as his companion, Captain Guzman, though there would have seemed to be slight choice between the two routes.

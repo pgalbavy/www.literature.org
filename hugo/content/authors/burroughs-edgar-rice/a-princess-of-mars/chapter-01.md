@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - On the Arizona Falls"
 weight: 1
-aliases:
-  - "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-01.html"
+url: "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-01.html"
 ---
 
 I am a very old man; how old I do not know. Possibly I am a hundred, possibly more; but I cannot tell because I have never aged as other men, nor do I remember any childhood. So far as I can recollect I have always been a man, a man of about thirty. I appear today as I did forty years and more ago, and yet I feel that I cannot go on living forever; that some day I shall die the real death from which there is no resurrection. I do not know why I should fear death, I who have died twice and am still alive; but yet I have the same horror of it as you who have never died, and it is because of this terror of death, I believe, that I am so convinced of my mortality.

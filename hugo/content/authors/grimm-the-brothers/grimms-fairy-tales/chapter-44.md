@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44 - The Raven"
 weight: 44
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-44.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-44.html"
 ---
 
 There was once a queen who had a little daughter, still too young to run alone. One day the child was very troublesome, and the mother could not quiet it, do what she would. She grew impatient, and seeing the ravens flying round the castle, she opened the window, and said: ‘I wish you were a raven and would fly away, then I should have a little peace.’ Scarcely were the words out of her mouth, when the child in her arms was turned into a raven, and flew away from her through the open window. The bird took its flight to a dark wood and remained there for a long time, and meanwhile the parents could hear nothing of their child.

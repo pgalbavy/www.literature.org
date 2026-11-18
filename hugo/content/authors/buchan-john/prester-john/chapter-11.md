@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Cave Of The Rooirand"
 weight: 12
-aliases:
-  - "/authors/buchan-john/prester-john/chapter-11.html"
+url: "/authors/buchan-john/prester-john/chapter-11.html"
 ---
 
 I was roused by a sudden movement. The whole assembly stood up, and each man clapped his right hand to his brow and then raised it high. A low murmur of 'Inkulu' rose above the din of the water. Laputa strode down the hall, with Henriques limping behind him. They certainly did not suspect my presence in the cave, nor did Laputa show any ruffling of his calm. Only Henriques looked weary and cross. I guessed he had had to ride my pony.

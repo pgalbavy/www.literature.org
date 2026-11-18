@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - A Piteous Story Is Told, And The Old Cellars Walled In"
 weight: 20
-aliases:
-  - "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-19.html"
+url: "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-19.html"
 ---
 
 It is, indeed, strangely easy in the great world for a man to lose his importance, and from having been the target for all eyes and the subject of all conversation, to step from his place, or find it so taken by some rival that it would seem, judging from the general obliviousness to him, that he had never existed. But few years before no fashionable gathering would have been felt complete had it not been graced by the presence of the young and fascinating Lovelace, Sir John Oxon. Women favoured him, and men made themselves his boon companions; his wit was repeated; the fashion of his hair and the cut of his waistcoat copied. He was at first rich and gay enough to be courted and made a favourite; but when his fortune was squandered, and his marriage with the heiress came to naught, those qualities which were vicious and base in him were more easy to be seen. Besides, there came new male beauties and new dandies with greater resources and more of prudence, and these, beginning to set fashion, win ladies' hearts, and make conquests, so drew the attention of the public mind that he was less noticeable, being only one of many, instead of ruling singly as it had seemed that by some strange chance he did at first. There were indeed so many stories told of his light ways, that their novelty being worn off and new ones still repeated, such persons as concerned themselves with matters of reputation either through conscience or policy, began to speak of him with less of warmth or leniency.

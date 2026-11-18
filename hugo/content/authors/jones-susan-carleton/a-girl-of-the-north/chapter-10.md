@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-10.html"
+url: "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-10.html"
 ---
 
 THE wedding was over. Mrs. Phillips had become Mrs. Herbert. The accounts were in all the papers, the guests were mentioned, and the bride’s attire was described. She wore mauve, a bonnet, and what was not mentioned, a nervous air. The known dangers of matrimony are worse in anticipation, and more true, than the maiden bride’s assurance of eternal bliss.

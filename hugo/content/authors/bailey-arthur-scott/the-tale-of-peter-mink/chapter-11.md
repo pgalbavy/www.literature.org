@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Circus Parade"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-11.html"
 ---
 
 If it hadn't been for the circus posters on Farmer Green's barn, the idea of having a circus parade would never have occurred to Jimmy Rabbit.

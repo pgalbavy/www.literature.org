@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - M. Lecamus Expresses His Views"
 weight: 7
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-06.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-06.html"
 ---
 
 *AFTER* a while Marceline was able to persuade Théophraste to confide in M. Adolphe Lecamus. She declared that Adolphe’s great experience, his certain knowledge of the science of metaphysics, ought to be a great help to a man who had buried treasures two hundred years before and wished to find them again. "And," she added, "it is he who will be able to reveal your identity."

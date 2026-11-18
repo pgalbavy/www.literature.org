@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Tommy Grows Too Careless"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-11.html"
 ---
 
 By the time summer was nearly over, Tommy Fox was much bigger than he had been in the spring. So many things had happened, and he had learned so much, that he began to be quite bold. And he had grown so saucy that his mother often had to scold him. Tommy had fallen into the bad habit of going about calling all the forest-people names; and in that way he had gained for himself the ill-will of all the creatures who lived near the foot of Blue Mountain. It interfered with his hunting, because whenever he started out to get something to eat, as soon as they saw him the forest-people told one another that he was coming. Old Mr. Crow especially was the worst of all. He was forever calling "Stop, thief!" after Tommy Fox; and then he would haw-haw in a manner that was frightfully annoying. In fact, he made matters so unpleasant that after a time Tommy began to roam far down the valley, along Swift River, where he tried to catch fish. The fish, at least, couldn't call him names, and there was some satisfaction in that fact, even if he hadn't much luck as a fisherman.

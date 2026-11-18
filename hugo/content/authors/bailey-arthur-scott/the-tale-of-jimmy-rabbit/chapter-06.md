@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Narrow Escape"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-06.html"
 ---
 
 Frisky Squirrel had a hard time pushing the wheelbarrow home with Jimmy Rabbit on top of the load of vegetables. He puffed and groaned. And he had to stop every little while to catch his breath.

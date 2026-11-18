@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 3"
 weight: 320
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-03.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-03.html"
 ---
 
 Princess Mary postponed her departure. Sonya and the count tried to replace Natasha but could not. They saw that she alone was able to restrain her mother from unreasoning despair. For three weeks Natasha remained constantly at her mother's side, sleeping on a lounge chair in her room, making her eat and drink, and talking to her incessantly because the mere sound of her tender, caressing tones soothed her mother.

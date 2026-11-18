@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Slight Mistake"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-13.html"
 ---
 
 An automobile chugging along at the rate of thirty miles an hour whirled around a bend in the road from the eastward and approached the youths, who halted and looked wonderingly at it. The youthful chauffeur bent over the steering wheel, and beside him sat a bearded, grim-looking man in middle life, with a big brass badge on his breast. The two were the only occupants of the car, the broad rear seat being unoccupied.

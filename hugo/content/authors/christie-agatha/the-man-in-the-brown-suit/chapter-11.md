@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-11.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-11.html"
 ---
 
 There were no further excitements that night. I had breakfast in bed and got up late the next morning. Mrs. Blair hailed me as I came on deck.

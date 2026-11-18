@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Kidnaping Of Montfaucon"
 weight: 15
-aliases:
-  - "/authors/leblanc-maurice/the-secret-tomb/chapter-15.html"
+url: "/authors/leblanc-maurice/the-secret-tomb/chapter-15.html"
 ---
 
 For a minute or two extreme confusion reigned in the room. Errington and Webster struggled furiously with the old lock. Almost past use, it worked badly from the inside. Exasperated and maddened at having let the enemy escape, they got in one another's way and their efforts only ended in their jamming it.

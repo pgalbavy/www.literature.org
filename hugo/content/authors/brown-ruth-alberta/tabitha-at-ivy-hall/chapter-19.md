@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - A Strike!"
 weight: 19
-aliases:
-  - "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-19.html"
+url: "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-19.html"
 ---
 
 The weeks vanished all too quickly to suit the black-eyed maid from the desert, and she often found herself wondering where the time went to, for before she realized it, winter had slipped away and spring was nearly gone. Now May was half over, and in another month school would be closed for the summer. Carrie was to spend her vacation on the Oregon farm with her grandmother, and Tabitha must return to the desert alone. She sat swinging idly under the pepper trees, her Latin grammar on her knees, but with eyes staring off across the smooth lawn and beautiful shrubbery, thinking mournfully of the long, hot weeks on the burning desert before September would come again.

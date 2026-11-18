@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Death Shot"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-23.html"
 ---
 
 It took Ned about a minute to reach his merciful conclusion and to lower the hammer of his gun. This done, he looked out to see how the Indian was getting along. To his amazement nothing was seen of him. He had vanished as suddenly as if the ground had opened and swallowed him up. Wondering what it all could mean, the boy rose to his feet, and peered out, parting the bushes still more and advancing a little from his concealment. The ground was quite level, covered here and there with boulders and a scrubby undergrowth, but there was nothing to be seen of the warrior. During the second or two occupied in lowering the hammer of his rifle, the Apache had disappeared, flashing out, so to speak, into nothingness.

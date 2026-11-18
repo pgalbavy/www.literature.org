@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Wrong Turn"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-19.html"
 ---
 
 For a few moments Dickie Deer Mouse's cousins looked terribly disappointed. He had told them that his new house had only one chamber. And each of the three big families had expected to have at least one bedroom.

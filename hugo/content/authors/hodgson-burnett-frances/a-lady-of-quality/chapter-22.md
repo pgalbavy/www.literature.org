@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Mother Anne"
 weight: 23
-aliases:
-  - "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-22.html"
+url: "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-22.html"
 ---
 
 There was no punishment. The tender little creature grew as a blossom grows from bud to fairest bloom. His mother flowered as he, and spent her days in noble cherishing of him and tender care. Such motherhood and wifehood as were hers were as fair statues raised to Nature's self.

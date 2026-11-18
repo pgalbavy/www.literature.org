@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 6"
 weight: 26
-aliases:
-  - "/authors/cather-willa/my-antonia/book-02-chapter-06.html"
+url: "/authors/cather-willa/my-antonia/book-02-chapter-06.html"
 ---
 
 WINTER COMES DOWN SAVAGELY over a little town on the prairie. The wind that sweeps in from the open country strips away all the leafy screens that hide one yard from another in summer, and the houses seem to draw closer together. The roofs, that looked so far away across the green tree-tops, now stare you in the face, and they are so much uglier than when their angles were softened by vines and shrubs.

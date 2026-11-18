@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Maid And The Flower"
 weight: 19
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-19.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-19.html"
 ---
 
 But poor Rosa, in her secluded chamber, could not have known of whom or of what Cornelius was dreaming.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Silverware Returned"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/a-young-hero/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/a-young-hero/chapter-23.html"
 ---
 
 The sabbath morning dawned cool, breezy and delightful, and the maiden twin sisters, Misses Annie and Lizzie Perkinpine, made their preparations for driving to the village church, just as they had been in the habit of doing for many years.

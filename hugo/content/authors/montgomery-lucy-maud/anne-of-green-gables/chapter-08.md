@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Anne's Bringing-up Is Begun"
 weight: 8
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-08.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-08.html"
 ---
 
 For reasons best known to herself, Marilla did not tell Anne that she was to stay at Green Gables until the next afternoon. During the forenoon she kept the child busy with various tasks and watched over her with a keen eye while she did them. By noon she had concluded that Anne was smart and obedient, willing to work and quick to learn; her most serious shortcoming seemed to be a tendency to fall into daydreams in the middle of a task and forget all about it until such time as she was sharply recalled to earth by a reprimand or a catastrophe.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Land Of The Murhapas"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-16.html"
 ---
 
 It looked as if Fred Ashman had gained a double victory over the giant Ziffak, and his second triumph was infinitely greater than his first.

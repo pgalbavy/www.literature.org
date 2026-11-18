@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Corsican Ogre"
 weight: 11
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-11.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-11.html"
 ---
 
 At the sight of this agitation Louis XVIII. pushed from him violently the table at which he was sitting.

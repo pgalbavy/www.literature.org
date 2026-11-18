@@ -1,8 +1,7 @@
 ---
 title: "Book 8 - Chapter 6"
 weight: 151
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-08-chapter-06.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-08-chapter-06.html"
 ---
 
 At the end of January old Count Rostov went to Moscow with Natasha and Sonya. The countess was still unwell and unable to travel but it was impossible to wait for her recovery. Prince Andrew was expected in Moscow any day, the trousseau had to be ordered and the estate near Moscow had to be sold, besides which the opportunity of presenting his future daughter-in-law to old Prince Bolkonski while he was in Moscow could not be missed. The Rostovs' Moscow house had not been heated that winter and, as they had come only for a short time and the countess was not with them, the count decided to stay with Marya Dmitrievna Akhrosimova, who had long been pressing her hospitality on them.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/conrad-joseph/end-of-the-tether/chapter-10.html"
+url: "/authors/conrad-joseph/end-of-the-tether/chapter-10.html"
 ---
 
 The knowledge was too disturbing, really. There was "something wrong" with a vengeance, and the moral certitude of it was at first simply frightful to contemplate. Sterne had been looking aft in a mood so idle, that for once he was thinking no harm of anyone. His captain on the bridge presented himself naturally to his sight. How insignificant, how casual was the thought that had started the train of discovery—like an accidental spark that suffices to ignite the charge of a tremendous mine!

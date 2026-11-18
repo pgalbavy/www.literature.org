@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 16 - A Magician"
 weight: 34
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-16.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-16.html"
 ---
 
 When Mrs. Weldon, on the 17th of the month, did not see Cousin Benedict reappear at the accustomed hour, she was seized with the greatest uneasiness. She could not imagine what had become of her big baby. That he had succeeded in escaping from the factory, the enclosure of which was absolutely impassable, was not admissible. Besides, Mrs. Weldon knew her cousin. Had one proposed to this original to flee, abandoning his tin box and his collection of African insects, he would have refused without the shadow of hesitation. Now, the box was there in the hut, intact, containing all that the savant had been able to collect since his arrival on the continent. To suppose that he was voluntarily separated from his entomological treasures, was inadmissible.

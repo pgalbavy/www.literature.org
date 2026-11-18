@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - On His Way"
 weight: 24
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-23.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-23.html"
 ---
 
 The sun hung well above the river mists and threw long, cherry-red beams across the choppy channel where clotted jets of steam and smoke from tug and steamer drifted with the fog; and still the captain of the *Volhynia* and young Neeland sat together in low-voiced conference in the captain's cabin; and a sailor, armed with cutlass and pistol, stood outside the locked and bolted door.

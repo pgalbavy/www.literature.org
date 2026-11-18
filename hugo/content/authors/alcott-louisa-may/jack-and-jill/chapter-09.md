@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Debating Club"
 weight: 10
-aliases:
-  - "/authors/alcott-louisa-may/jack-and-jill/chapter-09.html"
+url: "/authors/alcott-louisa-may/jack-and-jill/chapter-09.html"
 ---
 
 "Look here, old man, we ought to have a meeting. Holidays are over, and we must brace up and attend to business," said Frank to Gus, as they strolled out of the schoolyard one afternoon in January, apparently absorbed in conversation, but in reality waiting for a blue cloud and a scarlet feather to appear on the steps.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Horton Lodge"
 weight: 7
-aliases:
-  - "/authors/bronte-anne/agnes-grey/chapter-07.html"
+url: "/authors/bronte-anne/agnes-grey/chapter-07.html"
 ---
 
 THE 31st of January was a wild, tempestuous day: there was a strong north wind, with a continual storm of snow drifting on the ground and whirling through the air. My friends would have had me delay my departure, but fearful of prejudicing my employers against me by such want of punctuality at the commencement of my undertaking, I persisted in keeping the appointment.

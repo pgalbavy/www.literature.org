@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Of The Pernicious Effects Which Arise From The Unnatural Distinctions Established In Society"
 weight: 10
-aliases:
-  - "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/chapter-09.html"
+url: "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/chapter-09.html"
 ---
 
 From the respect paid to property flow, as from a poisoned fountain, most of the evils and vices which render this world such a dreary scene to the contemplative mind. For it is in the most polished society that noisome reptiles and venomous serpents lurk under the rank herbage; and there is voluptuousness pampered by the still sultry air, which relaxes every good disposition before it ripens into virtue.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Johnny Chuck Becomes Dissatisfied"
 weight: 5
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-05.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-05.html"
 ---
 
 Johnny Chuck was unhappy. Here it was the glad springtime, when everybody is supposed to be the very happiest, and Johnny Chuck was unhappy. Why was he unhappy? Well, he hardly knew himself. He had slept comfortably all the long winter. He had awakened very, very hungry, but now he had plenty to eat. All about him the birds were singing or busily at work building new homes. And still Johnny Chuck felt unhappy. It was dreadful to feel this way and not have any good reason for it.

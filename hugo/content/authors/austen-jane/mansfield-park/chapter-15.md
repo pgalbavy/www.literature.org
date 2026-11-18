@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-15.html"
+url: "/authors/austen-jane/mansfield-park/chapter-15.html"
 ---
 
 Miss Crawford accepted the part very readily; and soon after Miss Bertram's return from the Parsonage, Mr. Rushworth arrived, and another character was consequently cast. He had the offer of Count Cassel and Anhalt, and at first did not know which to chuse, and wanted Miss Bertram to direct him; but upon being made to understand the different style of the characters, and which was which, and recollecting that he had once seen the play in London, and had thought Anhalt a very stupid fellow, he soon decided for the Count. Miss Bertram approved the decision, for the less he had to learn the better; and though she could not sympathise in his wish that the Count and Agatha might be to act together, nor wait very patiently while he was slowly turning over the leaves with the hope of still discovering such a scene, she very kindly took his part in hand, and curtailed every speech that admitted being shortened; besides pointing out the necessity of his being very much dressed, and chusing his colours. Mr. Rushworth liked the idea of his finery very well, though affecting to despise it; and was too much engaged with what his own appearance would be to think of the others, or draw any of those conclusions, or feel any of that displeasure which Maria had been half prepared for.

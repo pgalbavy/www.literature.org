@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 66 - Which Treats Of What He Who Reads Will See, Or What He Who Has It Read To Him Will Hear"
 weight: 122
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-66.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-66.html"
 ---
 
 As he left Barcelona, Don Quixote turned gaze upon the spot where he had fallen. "Here Troy was," said he; "here my ill-luck, not my cowardice, robbed me of all the glory I had won; here Fortune made me the victim of her caprices; here the lustre of my achievements was dimmed; here, in a word, fell my happiness never to rise again."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Light In The Dark"
 weight: 5
-aliases:
-  - "/authors/scott-arthur/the-tale-of-chirpy-cricket/chapter-05.html"
+url: "/authors/scott-arthur/the-tale-of-chirpy-cricket/chapter-05.html"
 ---
 
 Chirpy Cricket preferred the dark to the day. He was quite different from Jennie Junebug and Mehitable Moth, who dearly loved a light at night, and would dash joyously into any they saw.

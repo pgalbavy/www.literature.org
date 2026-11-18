@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Of The Liberty Of Subjects"
 weight: 23
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-21.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-21.html"
 ---
 
 Liberty What Liberty, or FREEDOME, signifieth (properly) the absence of Opposition; (by Opposition, I mean externall Impediments of motion;) and may be applyed no lesse to Irrational, and Inanimate creatures, than to Rationall. For whatsoever is so tyed, or environed, as it cannot move, but within a certain space, which space is determined by the opposition of some externall body, we say it hath not Liberty to go further. And so of all living creatures, whilest they are imprisoned, or restrained, with walls, or chayns; and of the water whilest it is kept in by banks, or vessels, that otherwise would spread it selfe into a larger space, we use to say, they are not at Liberty, to move in such manner, as without those externall impediments they would. But when the impediment of motion, is in the constitution of the thing it selfe, we use not to say, it wants the Liberty; but the Power to move; as when a stone lyeth still, or a man is fastned to his bed by sicknesse.

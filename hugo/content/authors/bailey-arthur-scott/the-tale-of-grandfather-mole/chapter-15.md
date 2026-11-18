@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Two And A Toadstool"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-15.html"
 ---
 
 GRANDFATHER MOLE had promised Mr. Meadow Mouse that he would loan him his toadstool sunshade--or umbrella--the very next time it rained. But when he agreed to that, Grandfather hadn't the slightest idea there was a shower coming. Mr. Meadow Mouse, however, had watched the dark clouds gathering in the sky. But he had said nothing of what he saw. And when the rain-drops began to patter on top of Grandfather Mole's sunshade Mr. Meadow Mouse cried in a brisk voice: "I'll thank you, sir, for the loan of your umbrella!"

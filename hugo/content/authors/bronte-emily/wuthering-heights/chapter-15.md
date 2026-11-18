@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-15.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-15.html"
 ---
 
 ANOTHER week over - and I am so many days nearer health, and spring! I have now heard all my neighbour's history, at different sittings, as the housekeeper could spare time from more important occupations. I'll continue it in her own words, only a little condensed. She is, on the whole, a very fair narrator, and I don't think I could improve her style.

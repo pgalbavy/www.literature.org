@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Genesis And Clematis"
 weight: 4
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-04.html"
+url: "/authors/tarkington-booth/seventeen/chapter-04.html"
 ---
 
 Genesis and his dog were waiting just outside the kitchen door, and of all the world these two creatures were probably the last in whose company William Sylvanus Baxter desired to make a public appearance. Genesis was an out-of-doors man and seldom made much of a toilet; his overalls in particular betraying at important points a lack of the anxiety he should have felt, since only Genesis himself, instead of a supplementary fabric, was directly underneath them. And the aged, grayish, sleeveless and neckless garment which sheltered him from waist to collar-bone could not have been mistaken for a jersey, even though what there was of it was dimly of a jerseyesque character. Upon the feet of Genesis were things which careful study would have revealed to be patent-leather dancing-pumps, long dead and several times buried; and upon his head, pressing down his markedly criminal ears, was a once-derby hat of a brown not far from Genesis's own color, though decidedly without his gloss. A large ring of strange metals with the stone missing, adorned a finger of his right hand, and from a corner of his mouth projected an unlighted and spreading cigar stub which had the appearance of belonging to its present owner merely by right of salvage.

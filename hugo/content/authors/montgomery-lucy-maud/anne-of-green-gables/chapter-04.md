@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Morning at Green Gables"
 weight: 4
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-04.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-04.html"
 ---
 
 It was broad daylight when Anne awoke and sat up in bed, staring confusedly at the window through which a flood of cheery sunshine was pouring and outside of which something white and feathery waved across glimpses of blue sky.

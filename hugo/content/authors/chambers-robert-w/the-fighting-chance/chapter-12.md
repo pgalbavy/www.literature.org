@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Asking Price"
 weight: 12
-aliases:
-  - "/authors/chambers-robert-w/the-fighting-chance/chapter-12.html"
+url: "/authors/chambers-robert-w/the-fighting-chance/chapter-12.html"
 ---
 
 Siward, at his desk, over which the May sunshine streamed, his crutches laid against his chair, sat poring over the piles of papers left there by Beverly Plank some days before with a curt recommendation that he master their contents.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Startling Discoveries"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-24.html"
 ---
 
 "You say you have something to speak about," added the boy, looking into the enchanting face, as it reflected the light from the windows near at hand; "I have only to suggest that it took you a good time to find it out."

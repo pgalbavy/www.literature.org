@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 20"
 weight: 20
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-02-chapter-20.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-02-chapter-20.html"
 ---
 
 Although Miss Quested had not made herself popular with the English, she brought out all that was fine in their character. For a few hours an exalted emotion gushed forth, which the women felt even more keenly than the men, if not for so long. “What can we do for our sister?” was the only thought of Mesdames Callendar and Lesley, as they drove through the pelting heat to enquire. Mrs. Turton was the only visitor admitted to the sick-room. She came out ennobled by an unselfish sorrow. “She is my own darling girl,” were the words she spoke, and then, remembering that she had called her “not pukka” and resented her engagement to young Heaslop, she began to cry. No one had ever seen the Collector’s wife cry. Capable of tears—yes, but always reserving them for some adequate occasion, and now it had come. Ah, why had they not all been kinder to the stranger, more patient, given her not only hospitality but their hearts? The tender core of the heart that is so seldom used—they employed it for a little, under the stimulus of remorse. If all is over (as Major Callendar implied), well, all is over, and nothing can be done, but they retained some responsibility in her grievous wrong that they couldn’t define. If she wasn’t one of them, they ought to have made her one, and they could never do that now, she had passed beyond their invitation. “Why don’t one think more of other people?” sighed pleasure-loving Miss Derek. These regrets only lasted in their pure form for a few hours. Before sunset, other considerations adulterated them, and the sense of guilt (so strangely connected with our first sight of any suffering) had begun to wear away.

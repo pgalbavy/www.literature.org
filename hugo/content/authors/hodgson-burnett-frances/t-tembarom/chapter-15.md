@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-15.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-15.html"
 ---
 
 To employ the figure of Burrill, Tembarom was indeed “as pleased as Punch.” He was one of the large number of men who, apart from all sentimental relations, are made particularly happy by the kindly society of women; who expand with quite unconscious rejoicing when a woman begins to take care of them in one way or another. The unconsciousness is a touching part of the condition. The feminine nearness supplies a primeval human need. The most complete of men, as well as the weaklings, feel it. It is a survival of days when warm arms held and protected, warm hands served, and affectionate voices soothed. An accomplished male servant may perform every domestic service perfectly, but the fact that he cannot be a woman leaves a sense of lack. An accustomed feminine warmth in the surrounding daily atmosphere has caused many a man to marry his housekeeper or even his cook, as circumstances prompted.

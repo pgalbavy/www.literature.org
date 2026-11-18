@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - The Dedication"
 weight: 26
-aliases:
-  - "/authors/barrie-james-matthew/the-little-white-bird/chapter-26.html"
+url: "/authors/barrie-james-matthew/the-little-white-bird/chapter-26.html"
 ---
 
 It was only yesterday afternoon, dear reader, exactly three weeks after the birth of Barbara, that I finished the book, and even then it was not quite finished, for there remained the dedication, at which I set to elatedly. I think I have never enjoyed myself more; indeed, it is my opinion that I wrote the book as an excuse for writing the dedication.

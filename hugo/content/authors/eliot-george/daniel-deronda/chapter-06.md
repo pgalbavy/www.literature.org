@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-06.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-06.html"
 ---
 
 "Croyez-vous m'avoir humiliée pour m'avoir appris que la terre tourne autour du soleil? Je vous jure que je ne m'en estime pas moins." - FONTENELLE: Pluralité des Mondes.

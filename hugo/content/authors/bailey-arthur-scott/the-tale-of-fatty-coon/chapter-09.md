@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Johnnie Green Loses His Pet"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-09.html"
 ---
 
 Now, Farmer Green and his hired man had not chopped long before they stopped to breathe. They had not chopped long--but oh! what great, yawning holes they had made in the big chestnut! From the limb where he clung Fatty Coon looked down. The tree no longer shook. And Fatty felt better at once. You see, he thought that the men would go away, just as Johnnie had gone away the night before. But they had no such idea at all.

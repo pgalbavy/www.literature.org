@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Abbe D'herblay"
 weight: 9
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-09.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-09.html"
 ---
 
 At the extremity of the village Planchet turned to the left in obedience to the orders of Aramis, and stopped underneath the window which had light in it. Aramis alighted and clapped his hands three times. Immediately the window was opened and a ladder of rope was let down from it.

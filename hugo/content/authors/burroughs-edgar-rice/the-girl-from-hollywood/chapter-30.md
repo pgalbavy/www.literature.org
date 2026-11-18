@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-30.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-30.html"
 ---
 
 Guy Evans swept over the broad, smooth highway at a rate that would have won him ten days in the jail at Santa Ana had his course led him through that village. The impression that Custer’s words had implanted in his mind was that Grace was ill, for Pennington had not gone into the details of his unhappy interview with the girl, choosing to leave to her brother a realization of her changed condition, which would have been incredible to him even from the lips of so trusted a friend as Custer.

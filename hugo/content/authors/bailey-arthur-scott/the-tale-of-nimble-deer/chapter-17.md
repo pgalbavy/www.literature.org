@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - What Brownie Wanted"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-17.html"
 ---
 
 Nimble Deer had stopped at Brownie Beaver's pond to get a drink. Just as he raised his head from the water he spied Brownie a little way off, on the bank, gnawing at a box alder tree.

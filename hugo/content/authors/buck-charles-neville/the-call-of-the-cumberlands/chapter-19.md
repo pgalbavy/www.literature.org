@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-19.html"
+url: "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-19.html"
 ---
 
 Indian summer came again to Misery, flaunting woodland banners of crimson and scarlet and orange, but to Sally the season brought only heart-achy remembrances of last autumn, when Samson had softened his stoicism as the haze had softened the horizon. He had sent her a few brief letters--not written, but plainly printed. He selected short words--as much like the primer as possible, for no other messages could she read. There were times in plenty when he wished to pour out to her torrents of feeling, and it was such feeling as would have carried comfort to her lonely little heart. He wished to tell frankly of what a good friend he had made, and how this friendship made him more able to realize that other feeling--his love for Sally. There was in his mind no suspicion--as yet--that these two girls might ever stand in conflict as to right-of-way. But the letters he wished to write were not the sort he cared to have read to the girl by the evangelist-doctor or the district-school teacher, and alone she could have made nothing of them. However, "I love you" are easy words--and those he always included.

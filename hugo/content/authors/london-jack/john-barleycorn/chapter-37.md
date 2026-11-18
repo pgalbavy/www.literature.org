@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37"
 weight: 37
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-37.html"
+url: "/authors/london-jack/john-barleycorn/chapter-37.html"
 ---
 
 "Come," says the White Logic, "and forget these Asian dreamers of old time. Fill your glass and let us look at the parchments of the dreamers of yesterday who dreamed their dreams on your own warm hills."

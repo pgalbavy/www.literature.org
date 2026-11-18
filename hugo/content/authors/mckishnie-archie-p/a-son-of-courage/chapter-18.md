@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Mettle Of The Breed"
 weight: 18
-aliases:
-  - "/authors/mckishnie-archie-p/a-son-of-courage/chapter-18.html"
+url: "/authors/mckishnie-archie-p/a-son-of-courage/chapter-18.html"
 ---
 
 Immediately thirty boys and girls leaped to their feet and windows went up with a bang.

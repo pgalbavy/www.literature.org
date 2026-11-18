@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-17.html"
+url: "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-17.html"
 ---
 
 Upon a wet evening, several months after the last chapter, two interminable rows of cars, pulled by slipping horses, jangled along a prominent side-street. A dozen cabs, with coat-enshrouded drivers, clattered to and fro. Electric lights, whirring softly, shed a blurred radiance. A flower dealer, his feet tapping impatiently, his nose and his wares glistening with rain-drops, stood behind an array of roses and chrysanthemums. Two or three theatres emptied a crowd upon the storm-swept pavements. Men pulled their hats over their eyebrows and raised their collars to their ears. Women shrugged impatient shoulders in their warm cloaks and stopped to arrange their skirts for a walk through the storm. People having been comparatively silent for two hours burst into a roar of conversation, their hearts still kindling from the glowings of the stage.

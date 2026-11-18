@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-12.html"
+url: "/authors/london-jack/martin-eden/chapter-12.html"
 ---
 
 Early one evening, struggling with a sonnet that twisted all awry the beauty and thought that trailed in glow and vapor through his brain, Martin was called to the telephone.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Cuffy Climbs Blue Mountain"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-10.html"
 ---
 
 Cuffy Bear had never been very far up Blue Mountain beyond the place where his father's house nestled among the evergreens. You know, the summer before he had been a very small little bear indeed, and the higher one goes up Blue Mountain the harder the climbing becomes. But now Cuffy was growing very fast; and he was able to scramble up places he could never have even crept a year ago. Each day now Cuffy climbed a little nearer the top of Blue Mountain. And at last the day came when he reached the very top. It was so high that the trees did not grow there. He found nothing but rocks everywhere, with just a little earth to fill the cracks.

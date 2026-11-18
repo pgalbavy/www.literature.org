@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-16.html"
+url: "/authors/london-jack/john-barleycorn/chapter-16.html"
 ---
 
 There was nothing to drink on the Sophie Sutherland, and we had fifty-one days of glorious sailing, taking the southern passage in the north-east trades to Bonin Islands. This isolated group, belonging to Japan, had been selected as the rendezvous of the Canadian and American sealing fleets. Here they filled their water-barrels and made repairs before starting on the hundred days' harrying of the seal-herd along the northern coasts of Japan to Behring Sea.

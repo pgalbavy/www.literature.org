@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/cooper-courtney-ryley/the-white-desert/chapter-12.html"
+url: "/authors/cooper-courtney-ryley/the-white-desert/chapter-12.html"
 ---
 
 Dully Houston turned back to the sheriff and to the goggle-eyed Ba'tiste, trying to fathom it all. Weakly he motioned toward Thayer, and his words, when they came, were hollow and expressionless:

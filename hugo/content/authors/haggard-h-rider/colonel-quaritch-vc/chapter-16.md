@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The House With The Red Pillars"
 weight: 16
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-16.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-16.html"
 ---
 
 Two days after his receipt of the second letter from the "Tiger," Mr. Quest announced to his wife that he was going to London on business connected with the bank, and expected to be away for a couple of nights.

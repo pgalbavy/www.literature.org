@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/chambers-robert-w/the-common-law/chapter-04.html"
+url: "/authors/chambers-robert-w/the-common-law/chapter-04.html"
 ---
 
 In that month of June, for the first time in his deliberately active career, Neville experienced a disinclination to paint. And when he realised that it was disinclination, it appalled him. Something—he didn't understand what—had suddenly left him satiated—and with all the uneasiness and discontent of satiation he forced matters until he could force no further.

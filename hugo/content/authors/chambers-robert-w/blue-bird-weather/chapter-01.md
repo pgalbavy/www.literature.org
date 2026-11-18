@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/chambers-robert-w/blue-bird-weather/chapter-01.html"
+url: "/authors/chambers-robert-w/blue-bird-weather/chapter-01.html"
 ---
 
 It was now almost too dark to distinguish objects; duskier and vaguer became the flat world of marshes, set here and there with cypress and bounded only by far horizons; and at last land and water disappeared behind the gathered curtains of the night. There was no sound from the waste except the wind among the withered reeds and the furrowing splash of wheel and hoof over the submerged causeway.

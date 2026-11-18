@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Rumpelstiltskin"
 weight: 21
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-21.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-21.html"
 ---
 
 By the side of a wood, in a country a long way off, ran a fine stream of water; and upon the stream there stood a mill. The miller’s house was close by, and the miller, you must know, had a very beautiful daughter. She was, moreover, very shrewd and clever; and the miller was so proud of her, that he one day told the king of the land, who used to come and hunt in the wood, that his daughter could spin gold out of straw. Now this king was very fond of money; and when he heard the miller’s boast his greediness was raised, and he sent for the girl to be brought before him. Then he led her to a chamber in his palace where there was a great heap of straw, and gave her a spinning-wheel, and said, ‘All this must be spun into gold before morning, as you love your life.’ It was in vain that the poor maiden said that it was only a silly boast of her father, for that she could do no such thing as spin straw into gold: the chamber door was locked, and she was left alone.

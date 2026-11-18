@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Sparrows On The Housetops"
 weight: 19
-aliases:
-  - "/authors/buchan-john/greenmantle/chapter-18.html"
+url: "/authors/buchan-john/greenmantle/chapter-18.html"
 ---
 
 "I’ve often regretted," said Blenkiron, "that miracles have left off happening."

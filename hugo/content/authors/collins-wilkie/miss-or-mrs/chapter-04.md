@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Muswell Hill"
 weight: 4
-aliases:
-  - "/authors/collins-wilkie/miss-or-mrs/chapter-04.html"
+url: "/authors/collins-wilkie/miss-or-mrs/chapter-04.html"
 ---
 
 The next day Turlington drove to the suburbs, on the chance of finding the Graybrookes at home again. Sir Joseph disliked London, and could not prevail on himself to live any nearer to the metropolis than Muswell Hill. When Natalie wanted a change, and languished for balls, theaters, flower-shows, and the like, she had a room especially reserved for her in the house of Sir Joseph's married sister, Mrs. Sancroft, living in that central deep of the fashionable whirlpool known among mortals as Berkeley Square.

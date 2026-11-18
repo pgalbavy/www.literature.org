@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Army Of Paris"
 weight: 25
-aliases:
-  - "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-25.html"
+url: "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-25.html"
 ---
 
 I was smoking peacefully in the conservatory of the hotel, when a bellboy brought me the card of Captain le Vicômte de Cluny.

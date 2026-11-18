@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 17"
 weight: 17
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-17.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-17.html"
 ---
 
 Next day at eleven o'clock in the morning Vronsky drove to the station of the Petersburg railway to meet his mother, and the first person he came across on the great flight of steps was Oblonsky, who was expecting his sister by the same train.

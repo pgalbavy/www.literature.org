@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Christie's Gala"
 weight: 12
-aliases:
-  - "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-12.html"
+url: "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-12.html"
 ---
 
 ON the fourth of September, Christie woke up, saying to herself: "It is my birthday, but no one knows it, so I shall get no presents. Ah, well, I'm too old for that now, I suppose;" but she sighed as she said it, for well she knew one never is too old to be remembered and beloved.

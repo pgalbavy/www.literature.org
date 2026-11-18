@@ -1,8 +1,7 @@
 ---
 title: "Chapter 46 - Intelligence"
 weight: 47
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-46.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-46.html"
 ---
 
 I must have been married, if I may trust to my imperfect memory for dates, about a year or so, when one evening, as I was returning from a solitary walk, thinking of the book I was then writing--for my success had steadily increased with my steady application, and I was engaged at that time upon my first work of fiction--I came past Mrs. Steerforth’s house. I had often passed it before, during my residence in that neighbourhood, though never when I could choose another road. Howbeit, it did sometimes happen that it was not easy to find another, without making a long circuit; and so I had passed that way, upon the whole, pretty often.

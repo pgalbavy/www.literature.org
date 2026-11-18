@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 12"
 weight: 61
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-03-chapter-12.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-03-chapter-12.html"
 ---
 
 Shortly after nine o'clock that evening, Weyrother drove with his plans to Kutuzov's quarters where the council of war was to be held. All the commanders of columns were summoned to the commander in chief's and with the exception of Prince Bagration, who declined to come, were all there at the appointed time.

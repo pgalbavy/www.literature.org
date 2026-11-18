@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Four Missionaries See Light In Their Mission"
 weight: 13
-aliases:
-  - "/authors/buchan-john/greenmantle/chapter-12.html"
+url: "/authors/buchan-john/greenmantle/chapter-12.html"
 ---
 
 A spasm of incredulity, a vast relief, and that sharp joy which comes of reaction chased each other across my mind. I had come suddenly out of very black waters into an unbelievable calm. I dropped into the nearest chair and tried to grapple with something far beyond words.

@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/hodgson-burnett-frances/a-little-princess/preface.html"
+url: "/authors/hodgson-burnett-frances/a-little-princess/preface.html"
 ---
 
 THE WHOLE OF THE STORY

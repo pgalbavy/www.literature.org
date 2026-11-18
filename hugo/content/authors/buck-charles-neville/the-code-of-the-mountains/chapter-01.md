@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-01.html"
+url: "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-01.html"
 ---
 
 This morning the boy from the forks of Troublesome Creek had back his name once more. It was not a distinguished name, nor one to be flaunted in pride of race or achievement. On the contrary, it was a synonym for violent law-breaking and in the homely parlance of the Cumberland ridges, where certain infractions are condoned, it stood for "pizen meanness." Generations of Spooners before him had taken up the surname and carried it like runners in a relay race--often into evil ways. Many had laid down their lives and name with abruptness and violence.

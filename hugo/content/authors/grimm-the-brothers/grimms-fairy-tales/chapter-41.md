@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41 - Lily And The Lion"
 weight: 41
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-41.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-41.html"
 ---
 
 A merchant, who had three daughters, was once setting out upon a journey; but before he went he asked each daughter what gift he should bring back for her. The eldest wished for pearls; the second for jewels; but the third, who was called Lily, said, ‘Dear father, bring me a rose.’ Now it was no easy task to find a rose, for it was the middle of winter; yet as she was his prettiest daughter, and was very fond of flowers, her father said he would try what he could do. So he kissed all three, and bid them goodbye.

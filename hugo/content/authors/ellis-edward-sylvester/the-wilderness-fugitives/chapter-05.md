@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Light Ahead"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-05.html"
 ---
 
 On the eve of starting for their destination they were confronted by a practical difficulty, necessary to surmount before the journey could be made. Their enemies had coolly appropriated the boat in which they had intended to cross the river, and, another must be found for the use of the fugitives. Ordinarily, this would have been a small matter, but, coming as it did, it presented a difficulty not easily surmounted. Where was the canoe to be secured? Lena-Wingo was the one to whom the others looked to solve the problem, and he undertook it without delay.

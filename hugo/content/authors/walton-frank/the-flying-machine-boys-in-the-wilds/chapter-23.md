@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Two Runaway Aviators!"
 weight: 23
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-23.html"
+url: "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-23.html"
 ---
 
 Half an hour after the departure of the Louise, Sam awoke with a start and moved over to where the millionaire aviator was sleeping.

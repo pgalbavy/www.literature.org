@@ -1,8 +1,7 @@
 ---
 title: "Chapter 98 - The Bell And Bottle Tavern"
 weight: 98
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-98.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-98.html"
 ---
 
 And now let us leave Mademoiselle Danglars and her friend pursuing their way to Brussels, and return to poor Andrea Cavalcanti, so inopportunely interrupted in his rise to fortune. Notwithstanding his youth, Master Andrea was a very skilful and intelligent boy. We have seen that on the first rumor which reached the salon he had gradually approached the door, and crossing two or three rooms at last disappeared. But we have forgotten to mention one circumstance, which nevertheless ought not to be omitted; in one of the rooms he crossed, the trousseau of the bride-elect was on exhibition. There were caskets of diamonds, cashmere shawls, Valenciennes lace, English veilings, and in fact all the tempting things, the bare mention of which makes the hearts of young girls bound with joy, and which is called the "corbeille."* Now, in passing through this room, Andrea proved himself not only to be clever and intelligent, but also provident, for he helped himself to the most valuable of the ornaments before him.

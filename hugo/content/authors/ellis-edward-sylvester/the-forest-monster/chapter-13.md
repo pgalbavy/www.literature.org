@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Between Two Clouds"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/the-forest-monster/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/the-forest-monster/chapter-13.html"
 ---
 
 "Now," said Fred Hammond, after they had safely reëntered their own cavern home, "you have made your fortune, and I suppose are ready to start homeward to-morrow."

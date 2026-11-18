@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 3"
 weight: 127
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-03.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-03.html"
 ---
 
 A crowd of people, principally women, was thronging round the church lighted up for the wedding. Those who had not succeeded in getting into the main entrance were crowding about the windows, pushing, wrangling, and peeping through the gratings.

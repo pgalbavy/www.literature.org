@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/tarkington-booth/the-flirt/chapter-04.html"
+url: "/authors/tarkington-booth/the-flirt/chapter-04.html"
 ---
 
 Laura, at this writing, looked piquantly unfamiliar to her brother: her eyes were moist and bright; her cheeks were flushed and as she bent low, intently close to the book, a loosened wavy strand of her dark hair almost touched the page. Hedrick had never before seen her wearing an expression so "becoming" as the eager and tremulous warmth of this; though sometimes, at the piano, she would play in a reverie which wrought such glamour about her that even a brother was obliged to consider her rather handsome. She looked more than handsome now, so strangely lovely, in fact, that his eyes watered painfully with the protracted struggle to read a little of the writing in her book before she discovered him.

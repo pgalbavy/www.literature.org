@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Book Of Love"
 weight: 4
-aliases:
-  - "/authors/daviess-maria-thompson/over-paradise-ridge/chapter-04.html"
+url: "/authors/daviess-maria-thompson/over-paradise-ridge/chapter-04.html"
 ---
 
 Most men are only a fraction of the greatness that the world adds them up to be, but Farrington is a whole man and then a fraction over. I enjoy talking to him just as much as I do to Sam or anybody else who is doing interesting things in a perfectly simple way. When we talked about Peter and the play he reminded me in lots of ways of old Dr. Chubb when he gets on the subject of spavined horses or sick cows; of course I don't mean any disrespect to Peter in that comparison. I told Mr. Farrington the same thing, and he didn't laugh at all; his eyes shone out from under his bushy white eyebrows like two wise old stars, and he said he saw exactly what I meant, and that he hoped to meet Dr. Chubb some day. And I continued to feel enthusiasm for him even after half an hour's talk on the subject of his treatment of Peter, which Peter had led me to believe was atrocious.

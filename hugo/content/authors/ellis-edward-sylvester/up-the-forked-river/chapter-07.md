@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-07.html"
 ---
 
 Through the hot pulsing of the tropical midnight, with its myriad throbbings of animal life, came the sound of husky coughing, steadily growing more distinct, until the two men seated on the outside of the native hut, on a fallen tree, smoking and listening, identified it as the voice of the Atlamalcan tugboat, named for its owner, *General Yozarro*. In the vivid moonlight, a dim mass assumed form up the river, the sparks tumbling from its small smokestack helping to locate the craft, which constituted the navy of the little Tabascan republic. The puffing grew louder, the throbbing of the screw, and the rush of the foamy water from the bow struck the ear more clearly, and the outlines of the craft were marked as it rushed past, near the middle of the river, with the starred, triangular flag of Atlamalco wiggling from the staff which upreared itself like a needle from the stern.

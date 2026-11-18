@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - A Note And Its Answer"
 weight: 21
-aliases:
-  - "/authors/williams-frank/the-wilderness-trail/chapter-21.html"
+url: "/authors/williams-frank/the-wilderness-trail/chapter-21.html"
 ---
 
 Ten minutes later, a man approached Seguis.

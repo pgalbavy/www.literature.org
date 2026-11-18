@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Call Of The Dark"
 weight: 18
-aliases:
-  - "/authors/baily-waldron/when-the-cock-crows/chapter-18.html"
+url: "/authors/baily-waldron/when-the-cock-crows/chapter-18.html"
 ---
 
 A few handfuls of sea water dashed into Roy's face by Ichabod, together with a rough massage by Van Dusen, soon brought the young man around again.

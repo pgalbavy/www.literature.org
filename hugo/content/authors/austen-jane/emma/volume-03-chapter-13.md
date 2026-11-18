@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 13"
 weight: 49
-aliases:
-  - "/authors/austen-jane/emma/volume-03-chapter-13.html"
+url: "/authors/austen-jane/emma/volume-03-chapter-13.html"
 ---
 
 The weather continued much the same all the following morning; and the same loneliness, and the same melancholy, seemed to reign at Hartfield--but in the afternoon it cleared; the wind changed into a softer quarter; the clouds were carried off; the sun appeared; it was summer again. With all the eagerness which such a transition gives, Emma resolved to be out of doors as soon as possible. Never had the exquisite sight, smell, sensation of nature, tranquil, warm, and brilliant after a storm, been more attractive to her. She longed for the serenity they might gradually introduce; and on Mr. Perry's coming in soon after dinner, with a disengaged hour to give her father, she lost no time in hurrying into the shrubbery.--There, with spirits freshened, and thoughts a little relieved, she had taken a few turns, when she saw Mr. Knightley passing through the garden door, and coming towards her.--It was the first intimation of his being returned from London. She had been thinking of him the moment before, as unquestionably sixteen miles distant.--There was time only for the quickest arrangement of mind. She must be collected and calm. In half a minute they were together. The “How d'ye do's” were quiet and constrained on each side. She asked after their mutual friends; they were all well.--When had he left them?--Only that morning. He must have had a wet ride.--Yes.--He meant to walk with her, she found. “He had just looked into the dining-room, and as he was not wanted there, preferred being out of doors.”--She thought he neither looked nor spoke cheerfully; and the first possible cause for it, suggested by her fears, was, that he had perhaps been communicating his plans to his brother, and was pained by the manner in which they had been received.

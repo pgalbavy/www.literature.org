@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 21"
 weight: 250
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-21.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-21.html"
 ---
 
 The Russian troops were passing through Moscow from two o'clock at night till two in the afternoon and bore away with them the wounded and the last of the inhabitants who were leaving.

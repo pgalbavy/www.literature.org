@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-03.html"
+url: "/authors/dickens-charles/great-expectations/chapter-03.html"
 ---
 
 IT was a rimy morning, and very damp. I had seen the damp lying on the outside of my little window, as if some goblin had been crying there all night, and using the window for a pocket-handker- chief. Now, I saw the damp lying on the bare hedges and spare grass, like a coarser sort of spiders' webs; hanging itself from twig to twig and blade to blade. On every rail and gate, wet lay clammy; and the marsh-mist was so thick, that the wooden finger on the post directing people to our village -- a direction which they never accepted, for they never came there -- was invisible to me until I was quite close under it. Then, as I looked up at it, while it dripped, it seemed to my oppressed conscience like a phantom devoting me to the Hulks.

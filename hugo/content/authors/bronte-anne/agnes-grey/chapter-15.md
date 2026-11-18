@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Walk"
 weight: 15
-aliases:
-  - "/authors/bronte-anne/agnes-grey/chapter-15.html"
+url: "/authors/bronte-anne/agnes-grey/chapter-15.html"
 ---
 
 'OH, dear! I wish Hatfield had not been so precipitate!' said Rosalie next day at four P.M., as, with a portentous yawn, she laid down her worsted-work and looked listlessly towards the window. 'There's no inducement to go out now; and nothing to look forward to. The days will be so long and dull when there are no parties to enliven them; and there are none this week, or next either, that I know of.'

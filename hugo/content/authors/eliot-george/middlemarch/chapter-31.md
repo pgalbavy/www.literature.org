@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-31.html"
+url: "/authors/eliot-george/middlemarch/chapter-31.html"
 ---
 
 How will you know the pitch of that great bell Too large for you to stir? Let but a flute Play 'neath the fine-mixed metal listen close Till the right note flows forth, a silvery rill. Then shall the huge bell tremble - then the mass With myriad waves concurrent shall respond In low soft unison.

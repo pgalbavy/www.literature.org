@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Passing Princess And The Mistaken Countess"
 weight: 11
-aliases:
-  - "/authors/buck-charles-neville/the-lighted-match/chapter-11.html"
+url: "/authors/buck-charles-neville/the-lighted-match/chapter-11.html"
 ---
 
 With the sapphire bay of Puntal at his back, his knees clasped between interlacing fingers, Benton sat on the stone sea-wall and affected to whistle up a lightness of heart. Near at hand sprawled a picturesque city, its houses tinted in pea-greens, pinks and soft blues, or as white and decorative as though fashioned in icing on a cake.

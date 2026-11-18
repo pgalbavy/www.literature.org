@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Marco Goes To The Opera"
 weight: 20
-aliases:
-  - "/authors/hodgson-burnett-frances/the-lost-prince/chapter-20.html"
+url: "/authors/hodgson-burnett-frances/the-lost-prince/chapter-20.html"
 ---
 
 Their next journey was to Munich, but the night before they left Paris an unexpected thing happened.

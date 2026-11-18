@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Frisky Squirrel Has A Fall"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-02.html"
 ---
 
 One day Frisky Squirrel came upon Jasper Jay's nest when Jasper and his wife were both away from home. And Frisky simply couldn't resist tearing a few twigs out of it. He had not done much damage, however, before Mrs. Jay returned. When she saw what was happening she screamed loudly for her husband. And soon Jasper came flying up as fast as he could come. He made a noise exactly like a red-tailed hawk; but he did not frighten Frisky at all, for Frisky knew all of Jasper's tricks. Jasper Jay was always trying to scare people by calling like bigger birds--such as red-shouldered hawks, and red-tailed hawks, and sparrow hawks.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/greene-homer/picketts-gap/chapter-04.html"
+url: "/authors/greene-homer/picketts-gap/chapter-04.html"
 ---
 
 “Who are you?” demanded the man with the lantern, “and what are you doing here at this time o’ night?”

@@ -1,8 +1,7 @@
 ---
 title: "Book 14 - Chapter 13"
 weight: 311
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-14-chapter-13.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-14-chapter-13.html"
 ---
 
 At midday on the twenty-second of October Pierre was going uphill along the muddy, slippery road, looking at his feet and at the roughness of the way. Occasionally he glanced at the familiar crowd around him and then again at his feet. The former and the latter were alike familiar and his own. The blue-gray bandy legged dog ran merrily along the side of the road, sometimes in proof of its agility and self-satisfaction lifting one hind leg and hopping along on three, and then again going on all four and rushing to bark at the crows that sat on the carrion. The dog was merrier and sleeker than it had been in Moscow. All around lay the flesh of different animals- from men to horses- in various stages of decomposition; and as the wolves were kept off by the passing men the dog could eat all it wanted.

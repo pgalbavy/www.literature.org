@@ -1,8 +1,7 @@
 ---
 title: "Book 7 - Chapter 6"
 weight: 138
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-07-chapter-06.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-07-chapter-06.html"
 ---
 
 The old count went home, and Natasha and Petya promised to return very soon, but as it was still early the hunt went farther. At midday they put the hounds into a ravine thickly overgrown with young trees. Nicholas standing in a fallow field could see all his whips.

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 1"
 weight: 6
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-02-chapter-01.html"
+url: "/authors/cather-willa/o-pioneers/part-02-chapter-01.html"
 ---
 
 IT is sixteen years since John Bergson died. His wife now lies beside him, and the white shaft that marks their graves gleams across the wheat-fields. Could he rise from beneath it, he would not know the country under which he has been asleep. The shaggy coat of the prairie, which they lifted to make him a bed, has vanished forever. From the Norwegian graveyard one looks out over a vast checker-board, marked off in squares of wheat and corn; light and dark, dark and light. Telephone wires hum along the white roads, which always run at right angles. From the graveyard gate one can count a dozen gayly painted farmhouses; the gilded weather-vanes on the big red barns wink at each other across the green and brown and yellow fields. The light steel windmills tremble throughout their frames and tug at their moorings, as they vibrate in the wind that often blows from one week's end to another across that high, active, resolute stretch of country.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/austen-jane/northanger-abbey/chapter-05.html"
+url: "/authors/austen-jane/northanger-abbey/chapter-05.html"
 ---
 
 Catherine was not so much engaged at the theatre that evening, in returning the nods and smiles of Miss Thorpe, though they certainly claimed much of her leisure, as to forget to look with an inquiring eye for Mr. Tilney in every box which her eye could reach; but she looked in vain. Mr. Tilney was no fonder of the play than the pump-room. She hoped to be more fortunate the next day; and when her wishes for fine weather were answered by seeing a beautiful morning, she hardly felt a doubt of it; for a fine Sunday in Bath empties every house of its inhabitants, and all the world appears on such an occasion to walk about and tell their acquaintance what a charming day it is.

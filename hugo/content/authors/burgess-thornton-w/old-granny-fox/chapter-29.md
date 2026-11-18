@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - The New Home In The Old Pasture"
 weight: 29
-aliases:
-  - "/authors/burgess-thornton-w/old-granny-fox/chapter-29.html"
+url: "/authors/burgess-thornton-w/old-granny-fox/chapter-29.html"
 ---
 
 Who keeps a watch upon his toes  

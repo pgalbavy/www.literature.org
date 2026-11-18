@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/london-jack/jerry-of-the-islands/chapter-01.html"
+url: "/authors/london-jack/jerry-of-the-islands/chapter-01.html"
 ---
 
 Not until Mister Haggin abruptly picked him up under one arm and stepped into the sternsheets of the waiting whaleboat, did Jerry dream that anything untoward was to happen to him. Mister Haggin was Jerry's beloved master, and had been his beloved master for the six months of Jerry's life. Jerry did not know Mister Haggin as "master," for "master" had no place in Jerry's vocabulary, Jerry being a smooth-coated, golden-sorrel Irish terrier.

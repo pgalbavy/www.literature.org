@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-06.html"
 ---
 
 One of the Most Memorable Sea Fights Ever Known —The Wonderful Exploit of Captain Paul Jones.

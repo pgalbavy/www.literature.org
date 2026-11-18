@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/tarkington-booth/monsieur-beaucaire/chapter-05.html"
+url: "/authors/tarkington-booth/monsieur-beaucaire/chapter-05.html"
 ---
 
 Beau Nash stood at the door of the rooms, smiling blandly upon a dainty throng in the pink of its finery and gay furbelows. The great exquisite bent his body constantly in a series of consummately adjusted bows: before a great dowager, seeming to sweep the floor in august deference; somewhat stately to the young bucks; greeting the wits with gracious friendliness and a twinkle of raillery; inclining with fatherly gallantry before the beauties; the degree of his inclination measured the altitude of the recipient as accurately as a nicely calculated sand-glass measures the hours.

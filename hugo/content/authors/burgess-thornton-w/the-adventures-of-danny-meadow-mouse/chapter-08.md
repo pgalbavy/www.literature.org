@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Brother North Wind Proves A Friend"
 weight: 8
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-08.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-08.html"
 ---
 
 *DANNY MEADOW MOUSE* had seen nothing of old Granny Fox or Reddy Fox for several days. Every morning the first thing he did, even before he had breakfast, was to climb up to one of his little round doorways and peep out over the beautiful white meadows, to see if there was any danger near. But every time he did this, Danny used a different doorway. "For," said Danny to himself, "if any one should happen, just happen, to see me this morning, they might be waiting just outside my doorway to catch me to-morrow morning." You see there is a great deal of wisdom in the little head that Danny Meadow Mouse carries on his shoulders.

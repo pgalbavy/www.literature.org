@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Heather On Fire"
 weight: 10
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-09.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-09.html"
 ---
 
 When I left Prestongrange that afternoon I was for the first time angry. The Advocate had made a mock of me. He had pretended my testimony was to be received and myself respected; and in that very hour, not only was Simon practising against my life by the hands of the Highland soldier, but (as appeared from his own language) Prestongrange himself had some design in operation. I counted my enemies; Prestongrange with all the King’s authority behind him; and the Duke with the power of the West Highlands; and the Lovat interest by their side to help them with so great a force in the north, and the whole clan of old Jacobite spies and traffickers. And when I remembered James More, and the red head of Neil the son of Duncan, I thought there was perhaps a fourth in the confederacy, and what remained of Rob Roy’s old desperate sept of caterans would be banded against me with the others. One thing was requisite—some strong friend or wise adviser. The country must be full of such, both able and eager to support me, or Lovat and the Duke and Prestongrange had not been nosing for expedients; and it made me rage to think that I might brush against my champions in the street and be no wiser.

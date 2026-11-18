@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Jumping Contest"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-19.html"
 ---
 
 Having had Mr. Crow's permission, the Muley Cow went on stretching her legs as much as she pleased. She jumped the pasture fence; and she jumped it back again. And when she seemed about to stop Billy Woodchuck whispered to her, "You may as well keep a-stretching them. Keep a-jumping! And when the time for the real contest with Nimble Deer comes your legs will be stretched so long that you'll beat Nimble without the slightest trouble."

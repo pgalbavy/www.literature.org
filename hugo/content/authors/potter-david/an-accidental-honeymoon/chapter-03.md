@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/potter-david/an-accidental-honeymoon/chapter-03.html"
+url: "/authors/potter-david/an-accidental-honeymoon/chapter-03.html"
 ---
 
 Before luncheon the next day, Fessenden had begun to acquire some acquaintance with the members of the Sandywood house-party--a particular acquaintance with the celebrated Miss Yarnell. It did not take him long to perceive that Miss Yarnell and he had been provided for each other's amusement. Harry Cleborne's fatuous devotion to May Belle Cresap--Fessenden rather disliked the two-part Christian name--and the good-natured cliquishness of the four married people, threw upon him the duty of entertaining the unattached bachelor girl. He took up the burden with extraordinary cheerfulness.

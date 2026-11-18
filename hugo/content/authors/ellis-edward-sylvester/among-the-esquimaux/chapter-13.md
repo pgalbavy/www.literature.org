@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Fog"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-13.html"
 ---
 
 It will be recalled that when Jack and Rob awoke, during the preceding night, they noticed a marked change in the temperature, and the sailor prophesied an unwelcome change in the weather. Following the direction pointed by him, his friends saw what he meant. The rise had caused one of those fogs that have been fatal so often to ships off the banks of Newfoundland, and which frequently wrap the southern coast of Greenland in a mist as impenetrable as that which overshadows at times the British metropolis.

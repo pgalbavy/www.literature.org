@@ -1,8 +1,7 @@
 ---
 title: "Chapter 58 - Epicureans"
 weight: 58
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-58.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-58.html"
 ---
 
 As Fouquet was giving, or appearing to give, all his attention to the brilliant illuminations, the languishing music of the violins and hautboys, the sparkling sheaves of the artificial fires, which, inflaming the heavens with glowing reflections, marked behind the trees the dark profile of the donjon of Vincennes; as, we say, the superintendent was smiling on the ladies and the poets the fete was every whit as gay as usual; and Vatel, whose restless, even jealous look, earnestly consulted the aspect of Fouquet, did not appear dissatisfied with the welcome given to the ordering of the evening's entertainment. The fireworks over, the company dispersed about the gardens and beneath the marble porticoes with the delightful liberty which reveals in the master of the house so much forgetfulness of greatness, so much courteous hospitality, so much magnificent carelessness. The poets wandered about, arm in arm, through the groves; some reclined upon beds of moss, to the great damage of velvet clothes and curled heads, into which little dried leaves and blades of grass insinuated themselves. The ladies, in small numbers, listened to the songs of the singers and the verses of the poets; others listened to the prose, spoken with much art, by men who were neither actors nor poets, but to whom youth and solitude gave an unaccustomed eloquence, which appeared to them better than everything else in the world. "Why," said La Fontaine, "does not our master Epicurus descend into the garden? Epicurus never abandoned his pupils, the master is wrong."

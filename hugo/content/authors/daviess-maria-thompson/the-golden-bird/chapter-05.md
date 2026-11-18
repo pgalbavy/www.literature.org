@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/daviess-maria-thompson/the-golden-bird/chapter-05.html"
+url: "/authors/daviess-maria-thompson/the-golden-bird/chapter-05.html"
 ---
 
 "Of course, Ann, you do realize just what you are doing?" asked Matthew of me, as we walked on the moss-green flagstones back to the barn, and his voice was so sweet and gentle with solicitude that I felt I must answer him seriously and take him into my confidence. Affection is a note that one must always make payment on.

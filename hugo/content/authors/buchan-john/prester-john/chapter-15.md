@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Morning In The Berg"
 weight: 16
-aliases:
-  - "/authors/buchan-john/prester-john/chapter-15.html"
+url: "/authors/buchan-john/prester-john/chapter-15.html"
 ---
 
 I was perhaps half a mile the nearer to the glen, and was likely to get there first. And after that? I could see the track winding by the waterside and then crossing a hill-shoulder which diverted the stream. It was a road a man could scarcely ride, and a tired man would have a hard job to climb. I do not think that I had any hope. My exhilaration had died as suddenly as it had been born. I saw myself caught and carried off to Laputa, who must now be close on the rendezvous at Inanda's Kraal. I had no weapon to make a fight for it. My foemen were many and untired. It must be only a matter of minutes till I was in their hands.

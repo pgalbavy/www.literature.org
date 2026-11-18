@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Chunky Is Bitten"
 weight: 3
-aliases:
-  - "/authors/barnum-richard/chunky-the-happy-hippo/chapter-03.html"
+url: "/authors/barnum-richard/chunky-the-happy-hippo/chapter-03.html"
 ---
 
 “Hold on there! Wait a minute! Don’t be afraid! Wait for me, little hippo chap!” cried the big animal to Chunky.

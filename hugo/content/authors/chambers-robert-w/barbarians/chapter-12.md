@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Fifty-Fifty"
 weight: 12
-aliases:
-  - "/authors/chambers-robert-w/barbarians/chapter-12.html"
+url: "/authors/chambers-robert-w/barbarians/chapter-12.html"
 ---
 
 Vail began:

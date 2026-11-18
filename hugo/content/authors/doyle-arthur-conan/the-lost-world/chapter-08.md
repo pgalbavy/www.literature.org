@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Outlying Pickets Of The New World"
 weight: 8
-aliases:
-  - "/authors/doyle-arthur-conan/the-lost-world/chapter-08.html"
+url: "/authors/doyle-arthur-conan/the-lost-world/chapter-08.html"
 ---
 
 Our friends at home may well rejoice with us, for we are at our goal, and up to a point, at least, we have shown that the statement of Professor Challenger can be verified. We have not, it is true, ascended the plateau, but it lies before us, and even Professor Summerlee is in a more chastened mood. Not that he will for an instant admit that his rival could be right, but he is less persistent in his incessant objections, and has sunk for the most part into an observant silence. I must hark back, however, and continue my narrative from where I dropped it. We are sending home one of our local Indians who is injured, and I am committing this letter to his charge, with considerable doubts in my mind as to whether it will ever come to hand.

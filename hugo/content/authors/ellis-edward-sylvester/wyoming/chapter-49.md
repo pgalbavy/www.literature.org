@@ -1,8 +1,7 @@
 ---
 title: "Chapter 49"
 weight: 49
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-49.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-49.html"
 ---
 
 By this time the short July night was drawing to a close, and there were signs of the coming dawn in the east. All through the solemn darkness the massacre had continued, and scenes were enacted on both sides of the Susquehanna which the pen has never placed on paper, and which to-day come down to us only in the shuddering legends of those who looked upon and survived to tell of them.

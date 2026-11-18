@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Map Of Blood"
 weight: 15
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-15.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-15.html"
 ---
 
 AFTER Esteban and Owaza had buried the gold they returned to the spot where they had left their five boys, and proceeding with them to the river made camp for the night. Here they discussed their plans, deciding to abandon the balance of the party to reach the coast as best they might, while they returned to another section of the coast where they could recruit sufficient porters to carry out the gold.

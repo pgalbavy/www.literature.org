@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 2"
 weight: 33
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-03-chapter-02.html"
+url: "/authors/cather-willa/one-of-ours/book-03-chapter-02.html"
 ---
 
 After Leonard left him, Claude cleared away the remains of his supper and watered the gourd vine before he went to milk. It was not really a gourd vine at all, but a summer-squash, of the crook-necked, warty, orange-coloured variety, and it was now full of ripe squashes, hanging by strong stems among the rough green leaves and prickly tendrils. Claude had watched its rapid growth and the opening of its splotchy yellow blossoms, feeling grateful to a thing that did so lustily what it was put there to do. He had the same feeling for his little Jersey cow, which came home every night with full udders and gave down her milk willingly, keeping her tail out of his face, as only a well disposed cow will do.

@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 31"
 weight: 260
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-31.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-31.html"
 ---
 
 The valet, returning to the cottage, informed the count that Moscow was burning. The count donned his dressing gown and went out to look. Sonya and Madame Schoss, who had not yet undressed, went out with him. Only Natasha and the countess remained in the room. Petya was no longer with the family, he had gone on with his regiment which was making for Troitsa.

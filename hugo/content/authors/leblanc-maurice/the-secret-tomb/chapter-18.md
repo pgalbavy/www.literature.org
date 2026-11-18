@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - In Robore Fortuna"
 weight: 18
-aliases:
-  - "/authors/leblanc-maurice/the-secret-tomb/chapter-18.html"
+url: "/authors/leblanc-maurice/the-secret-tomb/chapter-18.html"
 ---
 
 When Dorothy had shut the door on the three men, she turned to find Raoul flushed and frowning; and he said:

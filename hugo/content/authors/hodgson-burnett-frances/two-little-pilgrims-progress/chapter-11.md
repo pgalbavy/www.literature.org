@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-11.html"
+url: "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-11.html"
 ---
 
 They passed beneath the snow-white stateliness of the great arch, still hand in hand, and silent. They walked softly, almost as if they felt themselves treading upon holy ground. To their youth and unworn souls it was like holy ground, they had so dreamed of it, they had so longed for it, it had been so mingled in their minds with the story of a city not of this world.

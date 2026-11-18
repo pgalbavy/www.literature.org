@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Jane Meets Dr. Merchison"
 weight: 11
-aliases:
-  - "/authors/haggard-h-rider/doctor-therne/chapter-10.html"
+url: "/authors/haggard-h-rider/doctor-therne/chapter-10.html"
 ---
 
 Nobody disputed my inheritance, for, so far as I could learn, Mrs. Strong had no relatives. Nor indeed could it have been disputed, for I had never so much as hypnotised the deceased. When it was known how rich I had become I grew even more popular in Dunchester than I had been before, also my importance increased at headquarters to such an extent that on a change of Government I became, as I have said, Under-Secretary to the Home Office. Although I was a useful man hitherto I had always been refused any sort of office, because of the extreme views which I professed--on platforms in the constituencies--or so those in authority alleged. Now, however, these views were put down to amiable eccentricity; moreover, I was careful not to obtrude them. Responsibility sobers, and as we age and succeed we become more moderate, for most of us have a method in our madness.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - The Smallpox Hut"
 weight: 30
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-29.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-29.html"
 ---
 
 WHEN we arrived at that hut at mid-afternoon, we saw no signs of life about it. The field near by had been denuded of its crop some time before, and had a skinned look, so exhaustively had it been harvested and gleaned. Fences, sheds, everything had a ruined look, and were eloquent of poverty. No animal was around anywhere, no living thing in sight. The stillness was awful, it was like the stillness of death. The cabin was a one-story one, whose thatch was black with age, and ragged from lack of repair.

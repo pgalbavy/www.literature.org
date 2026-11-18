@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - \"Mum.\""
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-11.html"
 ---
 
 Captain Knox did not set off in pursuit of the British vessel from which Blair had so unexpectedly escaped. Our young sailor soon learned that the "Molly" was on the look-out for richer prey, in the shape of an East Indiaman, whose costly cargo was expected to prove a gold mine for captain and crew.

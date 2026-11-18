@@ -1,8 +1,7 @@
 ---
 title: "Adventure 10 - The Adventure Of The Noble Bachelor"
 weight: 10
-aliases:
-  - "/authors/doyle-arthur-conan/the-adventures-of-sherlock-holmes/adventure-10.html"
+url: "/authors/doyle-arthur-conan/the-adventures-of-sherlock-holmes/adventure-10.html"
 ---
 
 The Lord St. Simon marriage, and its curious termination, have long ceased to be a subject of interest in those exalted circles in which the unfortunate bridegroom moves. Fresh scandals have eclipsed it, and their more piquant details have drawn the gossips away from this four-year-old drama. As I have reason to believe, however, that the full facts have never been revealed to the general public, and as my friend Sherlock Holmes had a considerable share in clearing the matter up, I feel that no memoir of him would be complete without some little sketch of this remarkable episode.

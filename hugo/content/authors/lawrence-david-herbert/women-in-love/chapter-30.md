@@ -1,8 +1,7 @@
 ---
 title: "chapter 30"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-30.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-30.html"
 ---
 
 When Ursula and Birkin were gone, Gudrun felt herself free in her contest with Gerald. As they grew more used to each other, he seemed to press upon her more and more. At first she could manage him, so that her own will was always left free. But very soon, he began to ignore her female tactics, he dropped his respect for her whims and her privacies, he began to exert his own will blindly, without submitting to hers.

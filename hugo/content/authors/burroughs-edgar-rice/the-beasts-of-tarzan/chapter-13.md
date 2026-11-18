@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Escape"
 weight: 13
-aliases:
-  - "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-13.html"
+url: "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-13.html"
 ---
 
 For a moment Rokoff stood sneering down upon Jane Clayton, then his eyes fell to the little bundle in her lap. Jane had drawn one corner of the blanket over the child's face, so that to one who did not know the truth it seemed but to be sleeping.

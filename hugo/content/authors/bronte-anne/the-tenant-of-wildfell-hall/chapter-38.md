@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38"
 weight: 39
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-38.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-38.html"
 ---
 
 December 20th, 1826. - The fifth anniversary of my wedding-day, and, I trust, the last I shall spend under this roof. My resolution is formed, my plan concocted, and already partly put in execution. My conscience does not blame me, but while the purpose ripens let me beguile a few of these long winter evenings in stating the case for my own satisfaction: a dreary amusement enough, but having the air of a useful occupation, and being pursued as a task, it will suit me better than a lighter one.

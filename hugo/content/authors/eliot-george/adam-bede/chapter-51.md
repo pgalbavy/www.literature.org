@@ -1,8 +1,7 @@
 ---
 title: "Chapter 51 - Sunday Morning"
 weight: 51
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-51.html"
+url: "/authors/eliot-george/adam-bede/chapter-51.html"
 ---
 
 LISBETH'S touch of rheumatism could not be made to appear serious enough to detain Dinah another night from the Hall Farm, now she had made up her mind to leave her aunt so soon, and at evening the friends must part. "For a long while," Dinah had said, for she had told Lisbeth of her resolve.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-18.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-18.html"
 ---
 
 Just before the breaking out of the Civil War, Delisleville had been provided with a sensation in a piece of singularly unexpected good fortune which befell one of its most prominent citizens. It was indeed good fortune, wearing somewhat the proportions of a fairy tale, and that such things could happen in Delisleville and to a citizen who possessed its entire approval was considered vaguely to the credit of the town.

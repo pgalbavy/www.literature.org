@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Frederick And Catherine"
 weight: 25
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-25.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-25.html"
 ---
 
 There was once a man called Frederick: he had a wife whose name was Catherine, and they had not long been married. One day Frederick said. ‘Kate! I am going to work in the fields; when I come back I shall be hungry so let me have something nice cooked, and a good draught of ale.’ ‘Very well,’ said she, ‘it shall all be ready.’ When dinner-time drew nigh, Catherine took a nice steak, which was all the meat she had, and put it on the fire to fry. The steak soon began to look brown, and to crackle in the pan; and Catherine stood by with a fork and turned it: then she said to herself, ‘The steak is almost ready, I may as well go to the cellar for the ale.’ So she left the pan on the fire and took a large jug and went into the cellar and tapped the ale cask. The beer ran into the jug and Catherine stood looking on. At last it popped into her head, ‘The dog is not shut up--he may be running away with the steak; that’s well thought of.’ So up she ran from the cellar; and sure enough the rascally cur had got the steak in his mouth, and was making off with it.

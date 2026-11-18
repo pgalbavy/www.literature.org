@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-30.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-30.html"
 ---
 
 Beatrice was careful not to let the blow of Siegmund's death fall with full impact upon her. As it were, she dodged it. She was afraid to meet the accusation of the dead Siegmund, with the sacred jury of memories. When the event summoned her to stand before the bench of her own soul's understanding, she fled, leaving the verdict upon herself eternally suspended.

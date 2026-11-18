@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Dead Alive"
 weight: 11
-aliases:
-  - "/authors/collins-wilkie/the-new-magdalen/chapter-11.html"
+url: "/authors/collins-wilkie/the-new-magdalen/chapter-11.html"
 ---
 
 JUST inside the door there appeared the figure of a small woman dressed in plain and poor black garments. She silently lifted her black net veil and disclosed a dull, pale, worn, weary face. The forehead was low and broad; the eyes were unusually far apart; the lower features were remarkably small and delicate. In health (as the consul at Mannheim had remarked) this woman must have possessed, if not absolute beauty, at least rare attractions peculiarly her own. As it was now, suffering--sullen, silent, self-contained suffering--had marred its beauty. Attention and even curiosity it might still rouse. Admiration or interest it could excite no longer.

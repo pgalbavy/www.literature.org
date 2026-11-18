@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Escape"
 weight: 8
-aliases:
-  - "/authors/verne-jules/the-blockade-runners/chapter-08.html"
+url: "/authors/verne-jules/the-blockade-runners/chapter-08.html"
 ---
 
 Miss Jenny, sitting at the poop of the Dolphin, was anxiously waiting the Captain's return; when the latter went up to her she could not utter a word, but her eyes questioned James Playfair more eagerly than her lips could have done. The latter, with Crockston's help, informed the young girl of the facts relating to her father's imprisonment. He said that he had carefully broached the subject of the prisoners of war to Beauregard, but, as the General did not seem disposed at all in their favour, he had thought it better to say no more about it, but think the matter over again.

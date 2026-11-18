@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Terrorists"
 weight: 26
-aliases:
-  - "/authors/london-jack/the-iron-heel/chapter-25.html"
+url: "/authors/london-jack/the-iron-heel/chapter-25.html"
 ---
 
 It was not until Ernest and I were back in New York, and after weeks had elapsed, that we were able to comprehend thoroughly the full sweep of the disaster that had befallen the Cause. The situation was bitter and bloody. In many places, scattered over the country, slave revolts and massacres had occurred. The roll of the martyrs increased mightily. Countless executions took place everywhere. The mountains and waste regions were filled with outlaws and refugees who were being hunted down mercilessly. Our own refuges were packed with comrades who had prices on their heads. Through information furnished by its spies, scores of our refuges were raided by the soldiers of the Iron Heel.

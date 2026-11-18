@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - White Muslin"
 weight: 9
-aliases:
-  - "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-09.html"
+url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-09.html"
 ---
 
 As the good little spinster was arraying herself on this particular evening, having laid upon the bed the greater portion of her modest splendor, she went to her wardrobe, and took therefrom the scored bandbox containing her best cap. All the ladies of Slowbridge wore caps; and all being respectfully plagiarized from Lady Theobald, without any reference to age, size, complexion, or demeanor, the result was sometimes a little trying. Lady Theobald's head-dresses were of a severe and bristling order. The lace of which they were composed was induced by some ingenious device to form itself into aggressive quillings, the bows seemed lined with buckram, the strings neither floated nor fluttered.

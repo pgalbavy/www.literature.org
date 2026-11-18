@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Picnic"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-04.html"
 ---
 
 It was a fine spring day--so pleasant that the children from the little red schoolhouse over the hill came to the woods where Frisky Squirrel lived. They came for the first picnic of the season, and such a noise as they made had never been heard in those woods before.

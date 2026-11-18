@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-06.html"
+url: "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-06.html"
 ---
 
 The days dragged heavily for Plutina, after the departure of her lover. She endured the period of tense waiting as best she might, since endure she must, but this passive loneliness, without a word from the man of her heart, was well-nigh intolerable. She did not weep--after that single passionate outburst while yet her lips were warm from his kiss. She was not of the weak fiber to find assuagement in many tears, nor had she nerves that needed the chemical soothing of flooded eyes. She had, indeed, strength sufficient for the trial. She bore her sorrow bravely enough, but it pierced her through and through. She knew her lover, and she knew herself. Because of that knowledge she was spared the shameful suffering of a woman who fears, with deadly fear, lest her lover be untrue. Plutina had never a doubt as to the faith of the absent one. A natural jealousy sometimes leaped in her bosom, at thought of him exposed to the wiles of women whom she suspected of all wantonness. But she had no cowardly thought that the fairest and most cunning of them could oust her from the shrine of Zeke's heart. Her great grief lay in the failure of any word from the traveler. The days became weeks; almost a month had gone since he held her in his arms, and still no message came. This was, in truth, strange enough to justify alarm. It was with difficulty that she drove back a temptation to imagine evil happenings. She went oftener the six miles to the Cherry Lane post-office.

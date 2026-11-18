@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - To Save Dusar"
 weight: 12
-aliases:
-  - "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/chapter-12.html"
+url: "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/chapter-12.html"
 ---
 
 Thuvia of Ptarth, battling for more than life against the lust of Jav, cast a quick glance over her shoulder toward the forest from which had rumbled the fierce growl. Jav looked, too.

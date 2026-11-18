@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 10"
 weight: 94
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-05-chapter-10.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-05-chapter-10.html"
 ---
 
 Soon after his admission to the Masonic Brotherhood, Pierre went to the Kiev province, where he had the greatest number of serfs, taking with him full directions which he had written down for his own guidance as to what he should do on his estates.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Blood-Stained Altars"
 weight: 9
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-09.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-09.html"
 ---
 
 The entrance through which he caught his first glimpse of the interior was rather beautifully carved in geometric designs, and within the walls were similarly treated, though as he proceeded from one apartment to another he found also the figures of animals, birds, and men taking their places among the more formal figures of the mural decorator's art. Stone vessels were much in evidence as well as ornaments of gold and the skins of many animals, but nowhere did he see an indication of any woven fabric, indicating that in that respect at least the Ho-don were still low in the scale of evolution, and yet the proportions and symmetry of the corridors and apartments bespoke a degree of civilization.

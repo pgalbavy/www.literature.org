@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - Contains Some Introductory Particulars Relative To A Young Gentleman Who Now Arrives Upon The Scene; And A New Adventure Which Happened To Oliver"
 weight: 34
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-34.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-34.html"
 ---
 
 It was almost too much happiness to bear. Oliver felt stunned and stupefied by the unexpected intelligence; he could not weep, or speak, or rest. He had scarcely the power of understanding anything that had passed, until, after a long ramble in the quiet evening air, a burst of tears came to his relief, and he seemed to awaken, all at once, to a full sense of the joyful change that had occurred, and the almost insupportable load of anguish which had been taken from his breast.

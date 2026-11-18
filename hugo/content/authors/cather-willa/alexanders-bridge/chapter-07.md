@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/cather-willa/alexanders-bridge/chapter-07.html"
+url: "/authors/cather-willa/alexanders-bridge/chapter-07.html"
 ---
 
 During the fortnight that Alexander was in London he drove himself hard. He got through a great deal of personal business and saw a great many men who were doing interesting things in his own profession. He disliked to think of his visits to London as holidays, and when he was there he worked even harder than he did at home.

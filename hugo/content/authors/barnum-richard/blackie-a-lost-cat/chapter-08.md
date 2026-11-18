@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Blackie Is Chased"
 weight: 8
-aliases:
-  - "/authors/barnum-richard/blackie-a-lost-cat/chapter-08.html"
+url: "/authors/barnum-richard/blackie-a-lost-cat/chapter-08.html"
 ---
 
 Blackie was lapping up the water from the little puddle, when all at once, from behind her, she heard a boy’s voice shouting in eager tones:

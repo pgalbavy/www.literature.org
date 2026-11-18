@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Visitors To Paddy's Pond"
 weight: 16
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-16.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-16.html"
 ---
 
 That hunter was a man of patience. Also he was a man who understood the little people of the Green Forest and the Green Meadows. He knew that if he would not be seen he must not move. So he didn't move. He kept as motionless as if he were a part of the very log on which he was sitting.

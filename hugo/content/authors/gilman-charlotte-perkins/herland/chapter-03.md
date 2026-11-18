@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - A Peculiar Imprisonment"
 weight: 3
-aliases:
-  - "/authors/gilman-charlotte-perkins/herland/chapter-03.html"
+url: "/authors/gilman-charlotte-perkins/herland/chapter-03.html"
 ---
 
 From a slumber as deep as death, as refreshing as that of a healthy child, I slowly awakened.

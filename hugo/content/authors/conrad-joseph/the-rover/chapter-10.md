@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/conrad-joseph/the-rover/chapter-10.html"
+url: "/authors/conrad-joseph/the-rover/chapter-10.html"
 ---
 
 It was only after reaching the level ground in front of the farmhouse that Peyrol took time to pause and resume his contact with the exterior world.

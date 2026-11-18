@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 18"
 weight: 71
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-05-chapter-18.html"
+url: "/authors/cather-willa/one-of-ours/book-05-chapter-18.html"
 ---
 
 The sun is sinking low, a transport is steaming slowly up the narrows with the tide. The decks are covered with brown men. They cluster over the superstructure like bees in swarming time. Their attitudes are relaxed and lounging. Some look thoughtful, some well contented, some are melancholy, and many are indifferent, as they watch the shore approaching. They are not the same men who went away.

@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 7"
 weight: 41
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-06-chapter-07.html"
+url: "/authors/conrad-joseph/the-rescue/part-06-chapter-07.html"
 ---
 
 With the sublime indifference of a man who has had a glimpse through the open doors of Paradise and is no longer careful of mere life, Lingard had followed Belarab's anxious messengers. The stockade was waking up in a subdued resonance of voices. Men were getting up from the ground, fires were being rekindled. Draped figures flitted in the mist amongst the buildings; and through the mat wall of a bamboo house Lingard heard the feeble wailing of a child. A day of mere life was beginning; but in the Chief's great Council room several wax candles and a couple of cheap European lamps kept the dawn at bay, while the morning mist which could not be kept out made a faint reddish halo round every flame.

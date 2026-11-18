@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/woolf-virginia/night-and-day/chapter-26.html"
+url: "/authors/woolf-virginia/night-and-day/chapter-26.html"
 ---
 
 Although the old coaches, with their gay panels and the guard’s horn, and the humors of the box and the vicissitudes of the road, have long moldered into dust so far as they were matter, and are preserved in the printed pages of our novelists so far as they partook of the spirit, a journey to London by express train can still be a very pleasant and romantic adventure. Cassandra Otway, at the age of twenty-two, could imagine few things more pleasant. Satiated with months of green fields as she was, the first row of artisans’ villas on the outskirts of London seemed to have something serious about it, which positively increased the importance of every person in the railway carriage, and even, to her impressionable mind, quickened the speed of the train and gave a note of stern authority to the shriek of the engine-whistle. They were bound for London; they must have precedence of all traffic not similarly destined. A different demeanor was necessary directly one stepped out upon Liverpool Street platform, and became one of those preoccupied and hasty citizens for whose needs innumerable taxi-cabs, motor-omnibuses, and underground railways were in waiting. She did her best to look dignified and preoccupied too, but as the cab carried her away, with a determination which alarmed her a little, she became more and more forgetful of her station as a citizen of London, and turned her head from one window to another, picking up eagerly a building on this side or a street scene on that to feed her intense curiosity. And yet, while the drive lasted no one was real, nothing was ordinary; the crowds, the Government buildings, the tide of men and women washing the base of the great glass windows, were all generalized, and affected her as if she saw them on the stage.

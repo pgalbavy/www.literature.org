@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - “Owd Sammy” In Trouble"
 weight: 16
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-16.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-16.html"
 ---
 
 “Craddock is in serious trouble,” said Mr. Barholm to his wife and daughter.

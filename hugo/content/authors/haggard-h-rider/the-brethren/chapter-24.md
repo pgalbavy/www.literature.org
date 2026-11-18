@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Dregs Of The Cup"
 weight: 25
-aliases:
-  - "/authors/haggard-h-rider/the-brethren/chapter-24.html"
+url: "/authors/haggard-h-rider/the-brethren/chapter-24.html"
 ---
 
 Saladin looked at them, but gave them no greeting. Then he spoke:

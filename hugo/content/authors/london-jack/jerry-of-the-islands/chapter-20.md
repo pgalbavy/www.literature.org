@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/london-jack/jerry-of-the-islands/chapter-20.html"
+url: "/authors/london-jack/jerry-of-the-islands/chapter-20.html"
 ---
 
 A week Jerry spent in the bush, deterred always from penetrating to the mountains by the bushmen who ever guarded the runways. And it would have gone hard with him in the matter of food, had he not, on the second day, encountered a lone small pig, evidently lost from its litter. It was his first hunting adventure for a living, and it prevented him from travelling farther, for, true to his instinct, he remained by his kill until it was nearly devoured.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39"
 weight: 39
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-39.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-39.html"
 ---
 
 Saxe Leinitzer returned to the morning-room, and taking the key from his pocket unlocked the door. Inside Lucille was pale with fury.

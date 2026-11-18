@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Stapletons of Merripit House"
 weight: 7
-aliases:
-  - "/authors/doyle-arthur-conan/the-hound-of-the-baskervilles/chapter-07.html"
+url: "/authors/doyle-arthur-conan/the-hound-of-the-baskervilles/chapter-07.html"
 ---
 
 The fresh beauty of the following morning did something to efface from our minds the grim and gray impression which had been left upon both of us by our first experience of Baskerville Hall. As Sir Henry and I sat at breakfast the sunlight flooded in through the high mullioned windows, throwing watery patches of colour from the coats of arms which covered them. The dark panelling glowed like bronze in the golden rays, and it was hard to realize that this was indeed the chamber which had struck such a gloom into our souls upon the evening before.

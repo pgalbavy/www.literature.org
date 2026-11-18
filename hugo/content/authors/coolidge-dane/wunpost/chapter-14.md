@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Poisoned Bait"
 weight: 14
-aliases:
-  - "/authors/coolidge-dane/wunpost/chapter-14.html"
+url: "/authors/coolidge-dane/wunpost/chapter-14.html"
 ---
 
 The fight for the Sockdolager Mine was on and Wunpost led off up the canyon with a swagger. His fast walking mule stepped off at a brisk pace and the pack-mule, well loaded with provisions and grain, followed along up Judson Eells' road. First it led through the Gorge, now clinging to one wall and now crossing perforce to the other, and as Wunpost saw the work of the powder-men above him he laughed and slapped his leg. Great masses of rock had been shot down from the sides, filling up the pot-holes which the cloudburst had dug; and then, along the sides, a grade had been constructed which gave clearance for loaded trucks. Past the Gorge, the work showed the signs of greater haste, as if Eells had driven his men to the limit; but to get through at all he had had to move much dirt, and that of course had run into money. Wunpost ambled along luxuriously, chuckling at each heavy job of blasting and at the spot where Cole Campbell's road turned in; and then he swung off up Woodpecker Canyon to where the Stinging Lizard Mine had been located.

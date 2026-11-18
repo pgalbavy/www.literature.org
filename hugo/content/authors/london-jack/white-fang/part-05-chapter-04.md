@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 4 - The Call Of Kind"
 weight: 24
-aliases:
-  - "/authors/london-jack/white-fang/part-05-chapter-04.html"
+url: "/authors/london-jack/white-fang/part-05-chapter-04.html"
 ---
 
 The months came and went. There was plenty of food and no work in the Southland, and White Fang lived fat and prosperous and happy. Not alone was he in the geographical Southland, for he was in the Southland of life. Human kindness was like a sun shining upon him, and he flourished like a flower planted in good soil.

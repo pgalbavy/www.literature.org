@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 1 - Butaritari"
 weight: 22
-aliases:
-  - "/authors/stevenson-robert-louis/in-the-south-seas/part-03-chapter-01.html"
+url: "/authors/stevenson-robert-louis/in-the-south-seas/part-03-chapter-01.html"
 ---
 
 At Honolulu we had said farewell to the Casco and to Captain Otis, and our next adventure was made in changed conditions. Passage was taken for myself, my wife, Mr. Osbourne, and my China boy, Ah Fu, on a pigmy trading schooner, the Equator, Captain Dennis Reid; and on a certain bright June day in 1889, adorned in the Hawaiian fashion with the garlands of departure, we drew out of port and bore with a fair wind for Micronesia.

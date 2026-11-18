@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 23
-aliases:
-  - "/authors/austen-jane/northanger-abbey/chapter-22.html"
+url: "/authors/austen-jane/northanger-abbey/chapter-22.html"
 ---
 
 The housemaid’s folding back her window-shutters at eight o’clock the next day was the sound which first roused Catherine; and she opened her eyes, wondering that they could ever have been closed, on objects of cheerfulness; her fire was already burning, and a bright morning had succeeded the tempest of the night. Instantaneously, with the consciousness of existence, returned her recollection of the manuscript; and springing from the bed in the very moment of the maid’s going away, she eagerly collected every scattered sheet which had burst from the roll on its falling to the ground, and flew back to enjoy the luxury of their perusal on her pillow. She now plainly saw that she must not expect a manuscript of equal length with the generality of what she had shuddered over in books, for the roll, seeming to consist entirely of small disjointed sheets, was altogether but of trifling size, and much less than she had supposed it to be at first.

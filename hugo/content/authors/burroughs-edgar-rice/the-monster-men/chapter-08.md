@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Soul of Number 13"
 weight: 8
-aliases:
-  - "/authors/burroughs-edgar-rice/the-monster-men/chapter-08.html"
+url: "/authors/burroughs-edgar-rice/the-monster-men/chapter-08.html"
 ---
 
 Scarcely had the Ithaca cleared the reef which lies almost across the mouth of the little harbor where she had been moored for so many months than the tempest broke upon her in all its terrific fury. Bududreen was no mean sailor, but he was short handed, nor is it reasonable to suppose that even with a full crew he could have weathered the terrific gale which beat down upon the hapless vessel. Buffeted by great waves, and stripped of every shred of canvas by the force of the mighty wind that howled about her, the Ithaca drifted a hopeless wreck soon after the storm struck her.

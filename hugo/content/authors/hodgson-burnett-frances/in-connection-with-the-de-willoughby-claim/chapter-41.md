@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41"
 weight: 41
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-41.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-41.html"
 ---
 
 The unobtrusive funeral cortége had turned the corner of Bank Street and disappeared from view almost an hour ago. In the front room of the house in which had lived the man just carried to his grave, the gentle old woman who had been his mother sat and looked with pathetic patience at Miss Amory Starkweather as the rough winds of the New England early spring rushed up the empty thoroughfare and whirled through the yet unleafed trees. Miss Amory had remained after the other people had gone away, and she was listening to the wind, too.

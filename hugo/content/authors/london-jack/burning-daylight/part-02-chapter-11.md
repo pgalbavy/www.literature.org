@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 11"
 weight: 24
-aliases:
-  - "/authors/london-jack/burning-daylight/part-02-chapter-11.html"
+url: "/authors/london-jack/burning-daylight/part-02-chapter-11.html"
 ---
 
 Throughout the week Daylight found himself almost as much interested in Bob as in Dede; and, not being in the thick of any big deals, he was probably more interested in both of them than in the business game. Bob's trick of whirling was of especial moment to him. How to overcome it,--that was the thing. Suppose he did meet with Dede out in the hills; and suppose, by some lucky stroke of fate, he should manage to be riding alongside of her; then that whirl of Bob's would be most disconcerting and embarrassing. He was not particularly anxious for her to see him thrown forward on Bob's neck. On the other hand, suddenly to leave her and go dashing down the back-track, plying quirt and spurs, wouldn't do, either.

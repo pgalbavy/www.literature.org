@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 34
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-34.html"
+url: "/authors/london-jack/john-barleycorn/chapter-34.html"
 ---
 
 Back on the ranch, in the Valley of the Moon, I resumed my steady drinking. My programme was no drink in the morning; first drink- time came with the completion of my thousand words. Then, between that and the midday meal, were drinks numerous enough to develop a pleasant jingle. Again, in the hour preceding the evening meal, I developed another pleasant jingle. Nobody ever saw me drunk, for the simple reason that I never was drunk. But I did get a jingle twice each day; and the amount of alcohol I consumed every day, if loosed in the system of one unaccustomed to drink, would have put such a one on his back and out.

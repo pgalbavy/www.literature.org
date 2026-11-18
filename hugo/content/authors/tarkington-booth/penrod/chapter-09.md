@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Soaring"
 weight: 9
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-09.html"
+url: "/authors/tarkington-booth/penrod/chapter-09.html"
 ---
 
 Half the members of the class passed out to a recitation-room, the empurpled Victorine among them, and Miss Spence started the remaining half through the ordeal of trial by mathematics. Several boys and girls were sent to the blackboard, and Penrod, spared for the moment, followed their operations a little while with his eyes, but not with his mind; then, sinking deeper in his seat, limply abandoned the effort. His eyes remained open, but saw nothing; the routine of the arithmetic lesson reached his ears in familiar, meaningless sounds, but he heard nothing; and yet, this time, he was profoundly occupied. He had drifted away from the painful land of facts, and floated now in a new sea of fancy which he had just discovered.

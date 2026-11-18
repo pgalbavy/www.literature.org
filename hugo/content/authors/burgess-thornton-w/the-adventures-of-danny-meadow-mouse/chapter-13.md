@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Peter Rabbit Visits The Peach Orchard"
 weight: 13
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-13.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-13.html"
 ---
 
 "*DON’T* go, Peter Rabbit! Don’t go!" begged Danny Meadow Mouse.

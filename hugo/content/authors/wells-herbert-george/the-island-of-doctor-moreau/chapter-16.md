@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - How The Beast Folk Taste Blood"
 weight: 17
-aliases:
-  - "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-16.html"
+url: "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-16.html"
 ---
 
 MY inexperience as a writer betrays me, and I wander from the thread of my story.

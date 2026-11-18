@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Silas Is Convinced"
 weight: 27
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-27.html"
+url: "/authors/haggard-h-rider/jess/chapter-27.html"
 ---
 
 At first Bessie was utterly prostrated by the blow that had fallen on her, but as time went on she revived a little, for hers was an elastic and a sanguine nature. Troubles sink into the souls of some like water into a sponge, and weight them down almost to the grave. From others they run off as the water does if poured upon marble, merely wetting the surface.

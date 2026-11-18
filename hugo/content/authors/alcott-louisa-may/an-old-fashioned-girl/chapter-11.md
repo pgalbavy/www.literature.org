@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Needles And Tongues"
 weight: 12
-aliases:
-  - "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-11.html"
+url: "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-11.html"
 ---
 
 DEAR POLLY, The Sewing Circle meets at our house this P. M. This is in your line, so do come and help me through. I shall depend on you.

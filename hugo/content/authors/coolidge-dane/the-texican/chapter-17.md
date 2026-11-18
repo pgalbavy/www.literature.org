@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Power Of The Press"
 weight: 18
-aliases:
-  - "/authors/coolidge-dane/the-texican/chapter-17.html"
+url: "/authors/coolidge-dane/the-texican/chapter-17.html"
 ---
 
 The power of a venal and subsidized press in moulding public opinion is a thing that can hardly be overstated, even by the Voice of Reason. When Pecos Dalhart told the willowy young man from the Blade to take a running jump at himself he expressed as in no other way his absolute contempt for society. Young Mr. Baker of the Geronimo Blade had the cigarette habit, he drank whiskey, and his private life would not bear too close inspection—he was hardly the man that one would choose as a censor of public character—and yet he held the job. When Pecos had broken up Boone Morgan's Kangaroo Court and spoiled the clever little court-house skit that Mr. Baker had framed up in his mind, that unprincipled young man had alluded to him, briefly and contemptuously, as a bad hombre from the Verde country, a desperate fellow, etc., and had ended by saying that Sheriff Morgan, who was convinced that he had a dangerous criminal on his hands, was looking up his record in Texas. That was a lovely introduction for a man who was held for the grand jury—it reached the eye of nearly every qualified juror in the county and was equivalent to about seven years in Yuma. If Mr. Baker had been human this last admonition about the running jump would have raised it to fourteen years, but they were short of copy that day and Baker was only a reporter, so he sharpened up his pencil and wrote a little jolly, just to keep Boone Morgan in good humor.

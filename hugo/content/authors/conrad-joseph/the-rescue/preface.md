@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 2
-aliases:
-  - "/authors/conrad-joseph/the-rescue/preface.html"
+url: "/authors/conrad-joseph/the-rescue/preface.html"
 ---
 
 The shallow sea that foams and murmurs on the shores of the thousand islands, big and little, which make up the Malay Archipelago has been for centuries the scene of adventurous undertakings. The vices and the virtues of four nations have been displayed in the conquest of that region that even to this day has not been robbed of all the mystery and romance of its past--and the race of men who had fought against the Portuguese, the Spaniards, the Dutch and the English, has not been changed by the unavoidable defeat. They have kept to this day their love of liberty, their fanatical devotion to their chiefs, their blind fidelity in friendship and hate--all their lawful and unlawful instincts. Their country of land and water--for the sea was as much their country as the earth of their islands--has fallen a prey to the western race--the reward of superior strength if not of superior virtue. To-morrow the advancing civilization will obliterate the marks of a long struggle in the accomplishment of its inevitable victory.

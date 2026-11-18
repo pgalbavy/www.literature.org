@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-10.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-10.html"
 ---
 
 When Esteban Miranda regained consciousness, the fire before his rude shelter was but a heap of cold ashes and dawn had almost come. He felt weak and dizzy and his head ached. He put his hand to it and found his thick hair matted with coagulated blood. He found something else as well--a great wound in his scalp, that made him shudder and turn sick, so that he fainted. When again he opened his eyes it was quite daylight. He looked about him questioningly. Where was he? He called aloud in Spanish--called to a woman with a musical name. Not Flora Hawkes, but a soft, Spanish name that Flora never had heard.

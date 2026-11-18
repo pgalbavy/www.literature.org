@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/potter-david/an-accidental-honeymoon/chapter-01.html"
+url: "/authors/potter-david/an-accidental-honeymoon/chapter-01.html"
 ---
 
 Fessenden put the girl gently down on the flat rock at the edge of the stream.

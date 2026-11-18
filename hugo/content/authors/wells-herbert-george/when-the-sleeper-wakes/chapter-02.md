@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Trance"
 weight: 2
-aliases:
-  - "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-02.html"
+url: "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-02.html"
 ---
 
 The state of cataleptic rigour into which this man had fallen, lasted for an unprecedented length of time, and then he passed slowly to the flaccid state, to a lax attitude suggestive of profound repose. Then it was his eyes could be closed.

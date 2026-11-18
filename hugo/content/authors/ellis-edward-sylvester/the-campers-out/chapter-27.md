@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - A Race For Life"
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-27.html"
 ---
 
 Those who have been so unfortunate as to be placed in the path of an overwhelming flood, which after slowly gathering for weeks and months finally bursts all barriers, need not be told that the awful roar caused by the resistless sweep can never be mistaken for anything else.

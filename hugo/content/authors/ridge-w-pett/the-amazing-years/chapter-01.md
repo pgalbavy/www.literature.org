@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/ridge-w-pett/the-amazing-years/chapter-01.html"
+url: "/authors/ridge-w-pett/the-amazing-years/chapter-01.html"
 ---
 
 Mrs. Hillier said something just before lunch that touched me more than she could have guessed. The family was to leave on the Saturday, and the elder of the two young ladies--Miss Muriel--had grumbled throughout the week because of the delay insisted upon by the master. The departure had originally been fixed for the twenty-fifth; Mr. Hillier, who seldom spoke at home, but when he did talk expected to be obeyed, announced that the party would not cross the Channel until the first. That would be two days before the Bank Holiday, and Miss Muriel foresaw discomforts arising from over-crowded compartments, carriages reserved for the incredible Polytechnic folk and the impossible Lunn trippers. Mrs. Hillier, as I managed with some difficulty to turn the key of a trunk, put her hand on my shoulder.

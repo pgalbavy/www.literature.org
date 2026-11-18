@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - On The Wall"
 weight: 23
-aliases:
-  - "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-23.html"
+url: "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-23.html"
 ---
 
 Smith retired to his room to bathe, clothed himself in snowy linen and fresh tennis flannels, and descended again, book under his arm, to saunter forth through heavy tangles of cinnamon-tinted Flemish roses and great sweet-scented peonies, musing on love and fate.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Signal"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-scout/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-07.html"
 ---
 
 Lieutenant Decker and his friends held their position for some time after the departure of Cemuri on his return to Fort Reno. Although they had left the stream, which had served them as a partial guide for a number of hours, they were not far from it, and the young officer was inclined to think it was the part of wisdom to stay in its vicinity.

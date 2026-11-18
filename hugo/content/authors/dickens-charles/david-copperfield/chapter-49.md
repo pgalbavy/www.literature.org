@@ -1,8 +1,7 @@
 ---
 title: "Chapter 49 - I Am Involved In Mystery"
 weight: 50
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-49.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-49.html"
 ---
 
 I received one morning by the post, the following letter, dated Canterbury, and addressed to me at Doctor’s Commons; which I read with some surprise:

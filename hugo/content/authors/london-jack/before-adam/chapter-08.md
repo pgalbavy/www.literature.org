@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/london-jack/before-adam/chapter-08.html"
+url: "/authors/london-jack/before-adam/chapter-08.html"
 ---
 
 Well do I remember that first winter after I left home. I have long dreams of sitting shivering in the cold. Lop-Ear and I sit close together, with our arms and legs about each other, blue-faced and with chattering teeth. It got particularly crisp along toward morning. In those chill early hours we slept little, huddling together in numb misery and waiting for the sunrise in order to get warm.

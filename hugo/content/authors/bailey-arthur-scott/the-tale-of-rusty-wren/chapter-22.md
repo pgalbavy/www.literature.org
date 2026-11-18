@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Forgotten Guest"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-22.html"
 ---
 
 The shadows were lengthening--for the sun was far over in the west--when Rusty Wren reached Mr. Frog's tailor's shop overlooking Black Creek. Rusty pushed open the door and stepped inside, expecting to find Mr. Frog sitting cross-legged upon his table and sewing busily, according to the tailor's custom, until sunset, which marked the close of Mr. Frog's working day.

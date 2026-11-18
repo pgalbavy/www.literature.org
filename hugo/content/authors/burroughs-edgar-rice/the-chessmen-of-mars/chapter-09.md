@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-09.html"
+url: "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-09.html"
 ---
 
 PRESENTLY Ghek pushed aside a door that opened from the stairway, and before them Tara saw the moonlight flooding the walled court where the headless rykors lay beside their feeding-troughs. She saw the perfect bodies, muscled as the best of her father's fighting men, and the females whose figures would have been the envy of many of Helium's most beautiful women. Ah, if she could but endow these with the power to act! Then indeed might the safety of the panthan be assured; but they were only poor lumps of clay, nor had she the power to quicken them to life. Ever must they lie thus until dominated by the cold, heartless brain of the kaldane. The girl sighed in pity even as she shuddered in disgust as she picked her way over and among the sprawled creatures toward the flier.

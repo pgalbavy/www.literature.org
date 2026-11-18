@@ -1,8 +1,7 @@
 ---
 title: "Chapter 47 - The Council Of The Musketeers"
 weight: 48
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-47.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-47.html"
 ---
 
 As Athos had foreseen, the bastion was only occupied by a dozen corpses, French and Rochellais.

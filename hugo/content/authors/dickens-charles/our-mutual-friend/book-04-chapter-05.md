@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 5 - Concerning The Mendicant’s Bride"
 weight: 55
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-04-chapter-05.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-04-chapter-05.html"
 ---
 
 The impressive gloom with which Mrs Wilfer received her husband on his return from the wedding, knocked so hard at the door of the cherubic conscience, and likewise so impaired the firmness of the cherubic legs, that the culprit’s tottering condition of mind and body might have roused suspicion in less occupied persons that the grimly heroic lady, Miss Lavinia, and that esteemed friend of the family, Mr George Sampson. But, the attention of all three being fully possessed by the main fact of the marriage, they had happily none to bestow on the guilty conspirator; to which fortunate circumstance he owed the escape for which he was in nowise indebted to himself.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Heart Of His Beloved"
 weight: 24
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/chapter-23.html"
+url: "/authors/coolidge-dane/silver-and-gold/chapter-23.html"
 ---
 
 There was a celebration that day which warmed Denver's heart and sent Slogger Meacham cursing out of the camp, but as soon as it was over and he had his prize money in his hand Denver remembered his unguarded claim. Bunker Hill was there, of course, but the spiteful Professor had heralded his pledge afar; and a man who has promised his wife not to fight is ill-fitted to herd a mine. No, the Silver Treasure lay open for Dave or Murray to jump, if they felt like contesting his claim; and, weak as he was, Denver took no rest until he was back where he could fight for his own. He rode in late and slept like the dead, but in the morning he was up and down at the store as soon as Old Bunk came out.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/baum-l-frank/glinda-of-oz/chapter-20.html"
+url: "/authors/baum-l-frank/glinda-of-oz/chapter-20.html"
 ---
 
 Glinda the Good, having decided to try her sorcery upon the abandoned submarine, so that it would obey her commands, asked all of her party, including the Skeezers, to withdraw from the shore of the take to the line of palm trees. She kept with her only the little Wizard of Oz, who was her pupil and knew how to assist her in her magic rites. When they two were alone beside the stranded boat, Glinda said to the Wizard:

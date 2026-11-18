@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 2 - Our Progress From Camden Town To Crest Hill"
 weight: 9
-aliases:
-  - "/authors/wells-herbert-george/tono-bungay/book-03-chapter-02.html"
+url: "/authors/wells-herbert-george/tono-bungay/book-03-chapter-02.html"
 ---
 
 I

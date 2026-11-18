@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Cowmen And Rustlers"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-06.html"
 ---
 
 Jennie Whitney saw something else, which almost made her heart stop beating.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 19
-aliases:
-  - "/authors/austen-jane/northanger-abbey/chapter-18.html"
+url: "/authors/austen-jane/northanger-abbey/chapter-18.html"
 ---
 
 With a mind thus full of happiness, Catherine was hardly aware that two or three days had passed away, without her seeing Isabella for more than a few minutes together. She began first to be sensible of this, and to sigh for her conversation, as she walked along the pump-room one morning, by Mrs. Allen’s side, without anything to say or to hear; and scarcely had she felt a five minutes’ longing of friendship, before the object of it appeared, and inviting her to a secret conference, led the way to a seat. "This is my favourite place," said she as they sat down on a bench between the doors, which commanded a tolerable view of everybody entering at either; "it is so out of the way."

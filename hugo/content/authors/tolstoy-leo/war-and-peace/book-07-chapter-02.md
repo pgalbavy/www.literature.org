@@ -1,8 +1,7 @@
 ---
 title: "Book 7 - Chapter 2"
 weight: 134
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-07-chapter-02.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-07-chapter-02.html"
 ---
 
 After reaching home Nicholas was at first serious and even dull. He was worried by the impending necessity of interfering in the stupid business matters for which his mother had called him home. To throw off this burden as quickly as possible, on the third day after his arrival he went, angry and scowling and without answering questions as to where he was going, to Mitenka's lodge and demanded an account of everything. But what an account of everything might be Nicholas knew even less than the frightened and bewildered Mitenka. The conversation and the examination of the accounts with Mitenka did not last long. The village elder, a peasant delegate, and the village clerk, who were waiting in the passage, heard with fear and delight first the young count's voice roaring and snapping and rising louder and louder, and then words of abuse, dreadful words, ejaculated one after the other.

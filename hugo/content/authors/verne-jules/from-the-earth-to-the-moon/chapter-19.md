@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/verne-jules/from-the-earth-to-the-moon/chapter-19.html"
+url: "/authors/verne-jules/from-the-earth-to-the-moon/chapter-19.html"
 ---
 
 On the following day Barbicane, fearing that indiscreet questions might be put to Michel Ardan, was desirous of reducing the number of the audience to a few of the initiated, his own colleagues for instance. He might as well have tried to check the Falls of Niagara! he was compelled, therefore, to give up the idea, and let his new friend run the chances of a public conference. The place chosen for this monster meeting was a vast plain situated in the rear of the town. In a few hours, thanks to the help of the shipping in port, an immense roofing of canvas was stretched over the parched prairie, and protected it from the burning rays of the sun. There three hundred thousand people braved for many hours the stifling heat while awaiting the arrival of the Frenchman. Of this crowd of spectators a first set could both see and hear; a second set saw badly and heard nothing at all; and as for the third, it could neither see nor hear anything at all. At three o'clock Michel Ardan made his appearance, accompanied by the principal members of the Gun Club. He was supported on his right by President Barbicane, and on his left by J. T. Maston, more radiant than the midday sun, and nearly as ruddy. Ardan mounted a platform, from the top of which his view extended over a sea of black hats.

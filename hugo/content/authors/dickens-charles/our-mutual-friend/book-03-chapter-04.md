@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 4 - A Happy Return Of The Day"
 weight: 37
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-03-chapter-04.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-03-chapter-04.html"
 ---
 
 Mr and Mrs Wilfer had seen a full quarter of a hundred more anniversaries of their wedding day than Mr and Mrs Lammle had seen of theirs, but they still celebrated the occasion in the bosom of their family. Not that these celebrations ever resulted in anything particularly agreeable, or that the family was ever disappointed by that circumstance on account of having looked forward to the return of the auspicious day with sanguine anticipations of enjoyment. It was kept morally, rather as a Fast than a Feast, enabling Mrs Wilfer to hold a sombre darkling state, which exhibited that impressive woman in her choicest colours.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-28.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-28.html"
 ---
 
 To Tom himself it seemed that it was the old, easy-going mountain life which had receded. The days when he had sat upon the stone porch and watched the sun rise from behind one mountain and set behind another seemed to belong to a life lived centuries ago. But that he knew little of occult beliefs and mysteries, he would have said to himself that all these things must have happened in a long past incarnation.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42"
 weight: 42
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-42.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-42.html"
 ---
 
 It was not *Tremolino’s* fault that the syndicate depended so much on the wit and wisdom and the information of Doña Rita. She had taken a little furnished house on the Prado for the good of the cause—*Por el Rey*! She was always taking little houses for somebody’s good, for the sick or the sorry, for broken-down artists, cleaned-out gamblers, temporarily unlucky speculators—*vieux amis*—old friends, as she used to explain apologetically, with a shrug of her fine shoulders.

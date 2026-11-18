@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Expelled"
 weight: 12
-aliases:
-  - "/authors/gilman-charlotte-perkins/herland/chapter-12.html"
+url: "/authors/gilman-charlotte-perkins/herland/chapter-12.html"
 ---
 
 We had all meant to go home again. Indeed we had NOT meant--not by any means--to stay as long as we had. But when it came to being turned out, dismissed, sent away for bad conduct, we none of us really liked it.

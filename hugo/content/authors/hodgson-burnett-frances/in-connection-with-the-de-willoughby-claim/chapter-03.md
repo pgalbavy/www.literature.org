@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-03.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-03.html"
 ---
 
 Scarcely a month before the events described in the opening chapter took place, the stranger and a young woman, who was his companion, had appeared in the community. There was little that seemed mysterious about them at the outset. A long, uninhabited cabin, a score or so of yards from the mountain road, had been roughly patched up and taken possession of by them. There was nothing unusual in the circumstance except that they had appeared suddenly and entirely unheralded; but this in itself would have awakened no special comment. The mystery developed itself from their after reserve and seclusion. They guarded themselves from all advances by keeping out of sight when anyone approached their cabin. The young woman was rarely, if ever, seen. The man never called at the post-office for mail, and upon the few occasions on which a stray human being crossed his path, his manner was such as by no means encouraged the curious. Mr. Stamps was the only individual who had seen the woman face to face. There was an unmoved pertinacity in the character of Mr. Stamps which stood him in good stead upon all occasions. He was not easily abashed or rebuffed, the more especially when he held in view some practical object. Possibly he held some such object in view when he rode up to the tumbled down gateway and asked for the draught of water no woman of the region could refuse without some reasonable excuse.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Lynch Law"
 weight: 31
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-31.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-31.html"
 ---
 
 During this brief conversation between Harvey Hamilton and Detective Pendar, the prisoner stood slightly to one side with his bare head bent and his face looking like that of some baffled imp of darkness. Not only had he lost his pistol and stiletto, but his hands were useless to him. The weapons seemed not to have been on his person at the moment of the explosion, for his captor had seen nothing of them. Pendar looked at the woman.

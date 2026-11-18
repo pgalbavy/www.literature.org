@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 17"
 weight: 17
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-17.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-17.html"
 ---
 
 If Hamilton Burton had been one of the most picturesque figures in finance before, he was now a flaming meteor of public interest. He had come out of the dark and raided the directorate of a giant corporation, gathering into his strong hands reins that the world believed to be held beyond the possibility of filching. Moreover, this corporation was the keystone and crowning pride in the firmly cemented arch of Consolidated's power.

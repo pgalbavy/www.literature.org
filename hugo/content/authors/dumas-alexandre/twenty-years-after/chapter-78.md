@@ -1,8 +1,7 @@
 ---
 title: "Chapter 78 - The Battle Of Charenton"
 weight: 78
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-78.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-78.html"
 ---
 
 As Athos and Aramis proceeded, and passed different companies on the road, they became aware that they were arriving near the field of battle.

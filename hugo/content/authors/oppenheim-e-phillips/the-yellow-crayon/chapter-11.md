@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-11.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-11.html"
 ---
 
 So this was the man! Mr. Sabin did not neglect his luncheon, nor was he ever for a moment unmindful of the grey-headed princess who chatted away by his side with all the vivacity of her race and sex. But he watched Mr. Brott.

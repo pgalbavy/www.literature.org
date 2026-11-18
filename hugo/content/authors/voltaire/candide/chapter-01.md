@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - How Candide Was Brought Up in a Magnificent Castle and How He Was Driven Thence"
 weight: 1
-aliases:
-  - "/authors/voltaire/candide/chapter-01.html"
+url: "/authors/voltaire/candide/chapter-01.html"
 ---
 
 In the country of Westphalia, in the castle of the most noble Baron of Thunder-ten-tronckh, lived a youth whom Nature had endowed with a most sweet disposition. His face was the true index of his mind. He had a solid judgment joined to the most unaffected simplicity; and hence, I presume, he had his name of Candide. The old servants of the house suspected him to have been the son of the Baron's sister, by a very good sort of a gentleman of the neighborhood, whom that young lady refused to marry, because he could produce no more than threescore and eleven quarterings in his arms; the rest of the genealogical tree belonging to the family having been lost through the injuries of time.

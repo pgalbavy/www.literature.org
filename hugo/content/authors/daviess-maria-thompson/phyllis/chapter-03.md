@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/daviess-maria-thompson/phyllis/chapter-03.html"
+url: "/authors/daviess-maria-thompson/phyllis/chapter-03.html"
 ---
 
 Miss Priscilla Talbot might by some people be called an old maid, as she must be either a little before or after fifty years old; but if I had to invent just one word to describe her darling self it would be "precious."

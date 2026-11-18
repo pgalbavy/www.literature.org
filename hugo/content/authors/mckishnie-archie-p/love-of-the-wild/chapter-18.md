@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Old Betsy"
 weight: 18
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-18.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-18.html"
 ---
 
 Daft Davie lived with an aged grandmother in a small hut close to the edge of the bay. She was a very old woman. Her features were rugged and piercing; and she hated everything in the world, except, indeed, it were Davie, and on him she lavished very little love. It was thought among the Bushwhackers that she sometimes beat the daft child. Nobody knew for certain. The old woman gave little attention to his going or his coming. The death of her daughter and only child had crippled her reason. There was a path worn between the hut and the knoll beneath the walnut. Old Betsy’s life was linked to a tragedy just as her home was linked to an old, old grave by the path that was kept trodden both winter and summer.

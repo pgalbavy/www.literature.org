@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/chambers-robert-w/the-crimson-tide/chapter-01.html"
+url: "/authors/chambers-robert-w/the-crimson-tide/chapter-01.html"
 ---
 
 On the 7th of November, 1917, the Premier of the Russian Revolutionary Government was a hunted fugitive, his ministers in prison, his troops scattered or dead. Three weeks later, the irresponsible Reds had begun their shameful career of treachery, counselled by a pallid, black-eyed man with a muzzle like a mouse—one L. D. Bronstein, called Trotzky; and by two others—one a bald, smooth-shaven, rotund little man with an expression that made men hesitate, and features not trusted by animals and children.

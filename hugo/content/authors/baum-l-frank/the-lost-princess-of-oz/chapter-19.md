@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 20
-aliases:
-  - "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-19.html"
+url: "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-19.html"
 ---
 
 A curious thing about Ugu the Shoemaker was that he didn't suspect in the least that he was wicked. He wanted to be powerful and great, and he hoped to make himself master of all the Land of Oz that he might compel everyone in that fairy country to obey him, His ambition blinded him to the rights of others, and he imagined anyone else would act just as he did if anyone else happened to be as clever as himself.

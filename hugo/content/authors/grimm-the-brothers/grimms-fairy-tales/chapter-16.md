@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Hansel And Gretel"
 weight: 16
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-16.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-16.html"
 ---
 
 Hard by a great forest dwelt a poor wood-cutter with his wife and his two children. The boy was called Hansel and the girl Gretel. He had little to bite and to break, and once when great dearth fell on the land, he could no longer procure even daily bread. Now when he thought over this by night in his bed, and tossed about in his anxiety, he groaned and said to his wife: ‘What is to become of us? How are we to feed our poor children, when we no longer have anything even for ourselves?’ ‘I’ll tell you what, husband,’ answered the woman, ‘early tomorrow morning we will take the children out into the forest to where it is the thickest; there we will light a fire for them, and give each of them one more piece of bread, and then we will go to our work and leave them alone. They will not find the way home again, and we shall be rid of them.’ ‘No, wife,’ said the man, ‘I will not do that; how can I bear to leave my children alone in the forest?--the wild animals would soon come and tear them to pieces.’ ‘O, you fool!’ said she, ‘then we must all four die of hunger, you may as well plane the planks for our coffins,’ and she left him no peace until he consented. ‘But I feel very sorry for the poor children, all the same,’ said the man.

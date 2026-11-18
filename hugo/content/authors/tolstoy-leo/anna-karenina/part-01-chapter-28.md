@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 28"
 weight: 28
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-28.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-28.html"
 ---
 
 After the ball, early next morning, Anna Arkadyevna sent her husband a telegram that she was leaving Moscow the same day.

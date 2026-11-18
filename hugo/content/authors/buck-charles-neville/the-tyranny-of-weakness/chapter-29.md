@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-29.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-29.html"
 ---
 
 When they had talked for ten minutes Stuart abruptly exclaimed, "Dearest, it was not far from this spot that you once told me you loved me in every way you knew how to love: that you wanted to be, to me, all that a woman could be to a man. Have you forgotten? I told you that my love was always yours ... have you forgotten that?"

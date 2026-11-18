@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/coolidge-dane/the-desert-trail/chapter-13.html"
+url: "/authors/coolidge-dane/the-desert-trail/chapter-13.html"
 ---
 
 For sixty days and more, while the weather had been turning from cold to warm and they had been laboring feebly to clear way the great slide of loose rock that covered up the ledge, the Eagle Tail mine had remained a mystery.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-16.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-16.html"
 ---
 
 Feeling him abstract, withdrawn from her, Helena experienced the dread of losing him. She was in his arms, but his spirit ignored her. That was insufferable to her pride. Yet she dared not disturb him - she was afraid. Bitterly she repented her of the giving way to her revulsion a little space before. Why had she not smothered it and pretended? Why had she, a woman, betrayed herself so flagrantly? Now perhaps she had lost him for good. She was consumed with uneasiness.

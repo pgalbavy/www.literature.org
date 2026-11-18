@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-17.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-17.html"
 ---
 
 Strange to say, in spite of the general foreboding, nothing of especial moment happened on the Ghost. We ran on to the north and west till we raised the coast of Japan and picked up with the great seal herd. Coming from no man knew where in the illimitable Pacific, it was travelling north on its annual migration to the rookeries of Bering Sea. And north we travelled with it, ravaging and destroying, flinging the naked carcasses to the shark and salting down the skins so that they might later adorn the fair shoulders of the women of the cities.

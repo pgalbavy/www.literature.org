@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - High Explosive"
 weight: 17
-aliases:
-  - "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-17.html"
+url: "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-17.html"
 ---
 
 There was nothing to tell of any handclasp when I woke in the morning. Paulette lay in her blankets with her back to me, as if she had lain so all night; Dunn was making up the fire; Collins was absent, till he appeared out of his tunnel where he had put Dudley's high explosive the night before and nodded to me. None of us spoke: we all had that chilly sort of stiffness you get after sleeping with your clothes on. As we ate our breakfast I took one glance at Paulette and looked away again. She was absolutely white, almost stunned looking, and her eyes would not meet mine. I had an intuition she had waked in the night after I slept and discovered what she had been doing; but if she were ashamed there was no need. God knows I would not have reminded her of the thing. I knew the dark hollows and the tear marks under her eyes were for Dudley, not for me. But I had to take care of her now, and Collins glanced at me as I thought it.

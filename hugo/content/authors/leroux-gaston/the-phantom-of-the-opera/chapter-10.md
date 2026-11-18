@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Forget The Name Of The Man's Voice"
 weight: 11
-aliases:
-  - "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-10.html"
+url: "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-10.html"
 ---
 
 The day after Christine had vanished before his eyes in a sort of dazzlement that still made him doubt the evidence of his senses, M. le Vicomte de Chagny called to inquire at Mamma Valerius'. He came upon a charming picture. Christine herself was seated by the bedside of the old lady, who was sitting up against the pillows, knitting. The pink and white had returned to the young girl's cheeks. The dark rings round her eyes had disappeared. Raoul no longer recognized the tragic face of the day before. If the veil of melancholy over those adorable features had not still appeared to the young man as the last trace of the weird drama in whose toils that mysterious child was struggling, he could have believed that Christine was not its heroine at all.

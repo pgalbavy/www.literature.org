@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Change Of Front"
 weight: 11
-aliases:
-  - "/authors/ostrander-isabel/the-fifth-ace/chapter-11.html"
+url: "/authors/ostrander-isabel/the-fifth-ace/chapter-11.html"
 ---
 
 The following morning, Willa and Dan Morrissey went motor shopping. The latter was still slightly bewildered by his sudden change of fortune, but it was plain to be seen that he regarded his new employer with worshipful admiration and respect, and she in turn was satisfied, from his discussion of technical details with the several automobile salesmen, that he was sufficiently expert for her purposes. His loyalty remained to be proven, but she had learned to read faces swiftly and surely, and she had formed an instinctive belief that he was worthy of trust.

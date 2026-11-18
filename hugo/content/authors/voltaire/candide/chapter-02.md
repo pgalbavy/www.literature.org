@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - What Befell Candide among the Bulgarians"
 weight: 2
-aliases:
-  - "/authors/voltaire/candide/chapter-02.html"
+url: "/authors/voltaire/candide/chapter-02.html"
 ---
 
 Candide, thus driven out of this terrestrial paradise, rambled a long time without knowing where he went; sometimes he raised his eyes, all bedewed with tears, towards heaven, and sometimes he cast a melancholy look towards the magnificent castle, where dwelt the fairest of young baronesses. He laid himself down to sleep in a furrow, heartbroken, and supperless. The snow fell in great flakes, and, in the morning when he awoke, he was almost frozen to death; however, he made shift to crawl to the next town, which was called Wald-berghoff-trarbkdikdorff, without a penny in his pocket, and half dead with hunger and fatigue. He took up his stand at the door of an inn. He had not been long there before two men dressed in blue fixed their eyes steadfastly upon him.

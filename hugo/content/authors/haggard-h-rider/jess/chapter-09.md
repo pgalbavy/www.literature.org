@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Jantje’s Story"
 weight: 9
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-09.html"
+url: "/authors/haggard-h-rider/jess/chapter-09.html"
 ---
 
 Shortly after the old Boer had gone, John went into the yard of the hotel to see to the inspanning of the Cape cart, where his attention was at once arrested by the sight of a row in active progress--at least, from the crowd of Kafirs and idlers and the angry sounds and curses which proceeded from them, he judged that it was a row. Nor was he wrong in his conclusion. In the corner of the yard, close by the stable-door, surrounded by the aforesaid crowd, stood Frank Muller; a heavy sjambock in his raised hand, as though in the act to strike. Before him, a very picture of drunken fury, his lips drawn up like a snarling dog’s, so that the two lines of white teeth gleamed like polished ivory in the sunlight, his small eyes all shot with blood and his face working convulsively, was the Hottentot Jantje. Nor was this all. Across his face was a blue wheal where the whip had fallen, and in his hand a heavy white-handled knife which he always carried.

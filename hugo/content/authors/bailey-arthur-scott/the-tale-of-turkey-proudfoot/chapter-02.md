@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Silly Six"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-02.html"
 ---
 
 Farmer Green owned six geese. Though there was an even number of them, they were odd creatures. They had little to do with the other farmyard folk, but kept much to themselves. If one of them started up the road on some errand, the other five always followed her. If one of them suddenly took it into her head to enjoy a swim her five companions were sure to want one too, and waddled with her to the duck pond.

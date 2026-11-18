@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-28.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-28.html"
 ---
 
 Surgeon-Major Thomson looked up almost eagerly as Ambrose entered his room the next morning. The young man's manner was dejected and there were black lines under his eyes. He answered his chief's unspoken question by a little shake of the head.

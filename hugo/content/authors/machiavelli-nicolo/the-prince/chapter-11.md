@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Concerning Ecclesiastical Principalities"
 weight: 12
-aliases:
-  - "/authors/machiavelli-nicolo/the-prince/chapter-11.html"
+url: "/authors/machiavelli-nicolo/the-prince/chapter-11.html"
 ---
 
 It only remains now to speak of ecclesiastical principalities, touching which all difficulties are prior to getting possession, because they are acquired either by capacity or good fortune, and they can be held without either; for they are sustained by the ancient ordinances of religion, which are so all-powerful, and of such a character that the principalities may be held no matter how their princes behave and live. These princes alone have states and do not defend them; and they have subjects and do not rule them; and the states, although unguarded, are not taken from them, and the subjects, although not ruled, do not care, and they have neither the desire nor the ability to alienate themselves. Such principalities only are secure and happy. But being upheld by powers, to which the human mind cannot reach, I shall speak no more of them, because, being exalted and maintained by God, it would be the act of a presumptuous and rash man to discuss them.

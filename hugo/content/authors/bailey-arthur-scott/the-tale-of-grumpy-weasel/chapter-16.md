@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Guarding The Corncrib"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-16.html"
 ---
 
 Grumpy Weasel never seemed to have anything but bad luck whenever he went near the farmyard. Perhaps that was the reason why he kept going back there, for he was nothing if not determined. Anyhow, he had found the hunting poor along his stone wall in the woods. And there was so much "game," as he called it, about the farm buildings that he thought it was silly to leave it for such scamps as Peter Mink and Tommy Fox and Fatty Coon.

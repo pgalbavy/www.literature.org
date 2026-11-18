@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Camp-Fire"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-16.html"
 ---
 
 As our three friends on that bright summer morning stood on the slope of the mountains and gazed down into the beautiful Salinas Valley before them, Elwood Brandon suddenly pointed a little to the north and said:

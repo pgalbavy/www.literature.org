@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/davis-richard-harding/the-kings-jackal/chapter-03.html"
+url: "/authors/davis-richard-harding/the-kings-jackal/chapter-03.html"
 ---
 
 The presence in Tangier of the King of Messina and his suite, and the arrival there of the French noblemen who had volunteered for the expedition, could not escape the observation of the resident Consuls-General and of the foreign colony, and dinners, riding and hunting parties, pig-sticking, and excursions on horseback into the outlying country were planned for their honor and daily entertainment. Had the conspirators held aloof from these, the residents might have asked, since it was not to enjoy themselves, what was the purpose of their stay in Tangier; and so, to allay suspicion as to their real object, different members of the expedition had been assigned from time to time to represent the visitors at these festivities. On the morning following the return of the yacht from Messina, an invitation to ride to a farmhouse some miles out of Tangier and to breakfast there had been sent to the visitors, and the King had directed the Prince Kalonay, and half of the delegation from Paris, to accept it in his name.

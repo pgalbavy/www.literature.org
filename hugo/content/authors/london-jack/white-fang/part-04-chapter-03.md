@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 3 - The Reign Of Hate"
 weight: 17
-aliases:
-  - "/authors/london-jack/white-fang/part-04-chapter-03.html"
+url: "/authors/london-jack/white-fang/part-04-chapter-03.html"
 ---
 
 Under the tutelage of the mad god, White Fang became a fiend. He was kept chained in a pen at the rear of the fort, and here Beauty Smith teased and irritated and drove him wild with petty torments. The man early discovered White Fang's susceptibility to laughter, and made it a point after painfully tricking him, to laugh at him. This laughter was uproarious and scornful, and at the same time the god pointed his finger derisively at White Fang. At such times reason fled from White Fang, and in his transports of rage he was even more mad than Beauty Smith.

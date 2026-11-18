@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/verne-jules/from-the-earth-to-the-moon/chapter-23.html"
+url: "/authors/verne-jules/from-the-earth-to-the-moon/chapter-23.html"
 ---
 
 On the completion of the Columbiad the public interest centered in the projectile itself, the vehicle which was destined to carry the three hardy adventurers into space.

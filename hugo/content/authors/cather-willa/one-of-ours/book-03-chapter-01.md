@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 1"
 weight: 32
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-03-chapter-01.html"
+url: "/authors/cather-willa/one-of-ours/book-03-chapter-01.html"
 ---
 
 Claude was to continue farming with his father, and after he returned from his wedding journey, he fell at once to work. The harvest was almost as abundant as that of the summer before, and he was busy in the fields six days a week.

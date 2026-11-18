@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Barriers Swept Away"
 weight: 21
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-21.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-21.html"
 ---
 
 "Anne," said Leslie, breaking abruptly a short silence, "you don't know how GOOD it is to be sitting here with you again--working-- and talking--and being silent together."

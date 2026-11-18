@@ -1,8 +1,7 @@
 ---
 title: "Part 3"
 weight: 3
-aliases:
-  - "/authors/coleridge-samuel-taylor/the-rime-of-the-ancient-mariner/part-03.html"
+url: "/authors/coleridge-samuel-taylor/the-rime-of-the-ancient-mariner/part-03.html"
 ---
 
 There passed a weary time. Each throat Was parched, and glazed each eye. A weary time! a weary time! How glazed each weary eye, When looking westward, I beheld A something in the sky.

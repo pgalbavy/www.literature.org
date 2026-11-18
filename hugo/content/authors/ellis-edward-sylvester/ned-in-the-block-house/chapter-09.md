@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Within The Block-House"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-09.html"
 ---
 
 Having hurled his tomahawk with such venomous force at the vanishing fugitive, the baffled Wyandot, for the first time, seemed to think of his own safety.

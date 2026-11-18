@@ -1,8 +1,7 @@
 ---
 title: "Introduction"
 weight: 2
-aliases:
-  - "/authors/hobbes-thomas/leviathan/introduction.html"
+url: "/authors/hobbes-thomas/leviathan/introduction.html"
 ---
 
 Nature (the art whereby God hath made and governes the world) is by the art of man, as in many other things, so in this also imitated, that it can make an Artificial Animal. For seeing life is but a motion of Limbs, the begining whereof is in some principall part within; why may we not say, that all Automata (Engines that move themselves by springs and wheeles as doth a watch) have an artificiall life? For what is the Heart, but a Spring; and the Nerves, but so many Strings; and the Joynts, but so many Wheeles, giving motion to the whole Body, such as was intended by the Artificer? Art goes yet further, imitating that Rationall and most excellent worke of Nature, Man. For by Art is created that great LEVIATHAN called a COMMON-WEALTH, or STATE, (in latine CIVITAS) which is but an Artificiall Man; though of greater stature and strength than the Naturall, for whose protection and defence it was intended; and in which, the Soveraignty is an Artificiall Soul, as giving life and motion to the whole body; The Magistrates, and other Officers of Judicature and Execution, artificiall Joynts; Reward and Punishment (by which fastned to the seat of the Soveraignty, every joynt and member is moved to performe his duty) are the Nerves, that do the same in the Body Naturall; The Wealth and Riches of all the particular members, are the Strength; Salus Populi (the Peoples Safety) its Businesse; Counsellors, by whom all things needfull for it to know, are suggested unto it, are the Memory; Equity and Lawes, an artificiall Reason and Will; Concord, Health; Sedition, Sicknesse; and Civill War, Death. Lastly, the Pacts and Covenants, by which the parts of this Body Politique were at first made, set together, and united, resemble that Fiat, or the Let Us Make Man, pronounced by God in the Creation.

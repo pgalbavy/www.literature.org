@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - Our Last Evening Together"
 weight: 33
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-32.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-32.html"
 ---
 
 IT was the evening before the day on which the Story Girl and Uncle Blair were to leave us, and we were keeping our last tryst together in the orchard where we had spent so many happy hours. We had made a pilgrimage to all the old haunts--the hill field, the spruce wood, the dairy, Grandfather King's willow, the Pulpit Stone, Pat's grave, and Uncle Stephen's Walk; and now we foregathered in the sere grasses about the old well and feasted on the little jam turnovers Felicity had made that day specially for the occasion.

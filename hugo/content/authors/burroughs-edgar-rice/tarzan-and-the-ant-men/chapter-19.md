@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-19.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-19.html"
 ---
 
 As the days passed and Tarzan did not return to his home his son became more and more apprehensive. Runners were sent to nearby villages, but each returned with the same report. No one had seen the Big Bwana. Korak dispatched messages, then, to the nearest telegraph inquiring from all the principal points in Africa, where the ape-man might have made a landing, if aught had been seen or heard of him; but always again were the answers in the negative.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Temple"
 weight: 5
-aliases:
-  - "/authors/nesbit-edith/the-phoenix-and-the-carpet/chapter-05.html"
+url: "/authors/nesbit-edith/the-phoenix-and-the-carpet/chapter-05.html"
 ---
 
 'I wish we could find the Phoenix,' said Jane. 'It's much better company than the carpet.'

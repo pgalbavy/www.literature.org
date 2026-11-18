@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 21"
 weight: 145
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-21.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-21.html"
 ---
 
 From the moment when Alexey Alexandrovitch understood from MU his interviews with Betsy and with Stepan Arkadyevitch that all that was expected of him was to leave his wife in peace, without burdening her with his presence, and that his wife herself desired this, he felt so distraught that he could come to no decision of himself; he did not know himself what he wanted now, and putting himself in the hands of those who were so pleased to interest themselves in his affairs, he met everything with unqualified assent. It was only when Anna had left his house, and the English governess sent to ask him whether she should dine with him or separately, that for the first time he clearly comprehended his position, and was appalled by it. Most difficult of all in this position was the fact that he could not in any way connect and reconcile his past with what was now. It was not the past when he had lived happily with his wife that troubled him. The transition from that past to a knowledge of his wife's unfaithfulness he had lived through miserably already; that state was painful, but he could understand it. If his wife had then, on declaring to him her unfaithfulness, left him, he would have been wounded, unhappy, but he would not have been in the hopeless position--incomprehensible to himself--in which he felt himself now. He could not now reconcile his immediate past, his tenderness, his love for his sick wife, and for the other man's child with what was now the case, that is with the fact that, as it were, in return for all this he now found himself alone, put to shame, a laughing-stock, needed by no one, and despised by every one.

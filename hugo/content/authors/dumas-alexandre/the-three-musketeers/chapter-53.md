@@ -1,8 +1,7 @@
 ---
 title: "Chapter 53 - Captivity:  The Second Day"
 weight: 54
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-53.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-53.html"
 ---
 
 Milady dreamed that she at length had D'Artagnan in her power, that she was present at his execution; and it was the sight of his odious blood, flowing beneath the ax of the headsman, which spread that charming smile upon her lips.

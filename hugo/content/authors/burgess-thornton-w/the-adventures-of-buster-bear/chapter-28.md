@@ -1,8 +1,7 @@
 ---
 title: "chapter 28"
 weight: 999
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-28.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-28.html"
 ---
 
 Buster Bear is a great hand to talk to himself when he thinks no one is around to overhear. It's a habit. However, it isn't a bad habit unless it is carried too far. Any habit becomes bad, if it is carried too far. Suppose you had a secret, a real secret, something that nobody else knew and that you didn't want anybody else to know. And suppose you had the habit of talking to yourself. You might, without thinking, you know, tell that secret out loud to yourself, and some one might, just might happen to overhear! Then there wouldn't be any secret. That is the way that a habit which isn't bad in itself can become bad when it is carried too far.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-11.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-11.html"
 ---
 
 The beginning of an acquaintance whether with persons or things is to get a definite outline for our ignorance.

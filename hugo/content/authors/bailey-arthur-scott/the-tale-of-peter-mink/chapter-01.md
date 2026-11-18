@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - How Peter Was Different"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-01.html"
 ---
 
 There were two ways in which Peter Mink was different from any other person in Pleasant Valley, or on Blue Mountain, either. In the first place, he had no home; and in the second, he had a very long neck.

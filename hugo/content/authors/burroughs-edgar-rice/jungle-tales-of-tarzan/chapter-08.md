@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Lion"
 weight: 8
-aliases:
-  - "/authors/burroughs-edgar-rice/jungle-tales-of-tarzan/chapter-08.html"
+url: "/authors/burroughs-edgar-rice/jungle-tales-of-tarzan/chapter-08.html"
 ---
 
 NUMA, THE LION, crouched behind a thorn bush close beside the drinking pool where the river eddied just below the bend. There was a ford there and on either bank a well-worn trail, broadened far out at the river's brim, where, for countless centuries, the wild things of the jungle and of the plains beyond had come down to drink, the carnivora with bold and fearless majesty, the herbivora timorous, hesitating, fearful.

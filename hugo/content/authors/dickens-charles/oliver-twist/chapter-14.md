@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Comprising Further Particulars Of Oliver'S Stay At Mr. Brownlow'S, With The Remarkable Prediction Which One Mr. Grimwig Uttered Concerning Him, When He Went Out On An Errand"
 weight: 14
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-14.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-14.html"
 ---
 
 Oliver soon recovering from the fainting-fit into which Mr. Brownlow's abrupt exclamation had thrown him, the subject of the picture was carefully avoided, both by the old gentleman and Mrs. Bedwin, in the conversation that ensued: which indeed bore no reference to Oliver's history or prospects, but was confined to such topics as might amuse without exciting him. He was still too weak to get up to breakfast; but, when he came down into the housekeeper's room next day, his first act was to cast an eager glance at the wall, in the hope of again looking on the face of the beautiful lady. His expectations were disappointed, however, for the picture had been removed.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - In Which The Author, Very Unwillingly, Is Forced To Write A Little History"
 weight: 23
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-23.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-23.html"
 ---
 
 While kings and men were thus occupied with England, which governed itself quite alone, and which, it must be said in its praise, had never been so badly governed, a man upon whom God had fixed his eye, and placed his finger, a man predestined to write his name in brilliant letters upon the page of history, was pursuing in the face of the world a work full of mystery and audacity. He went on, and no one knew whither he meant to go, although not only England, but France, and Europe, watched him marching with a firm step and head held high. All that was known of this man we are about to tell.

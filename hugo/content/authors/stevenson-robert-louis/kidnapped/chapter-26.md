@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - End Of The Flight: We Pass The Forth"
 weight: 27
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-26.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-26.html"
 ---
 
 The month, as I have said, was not yet out, but it was already far through August, and beautiful warm weather, with every sign of an early and great harvest, when I was pronounced able for my journey. Our money was now run to so low an ebb that we must think first of all on speed; for if we came not soon to Mr. Rankeillor’s, or if when we came there he should fail to help me, we must surely starve. In Alan’s view, besides, the hunt must have now greatly slackened; and the line of the Forth and even Stirling Bridge, which is the main pass over that river, would be watched with little interest.

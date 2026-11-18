@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/austen-jane/northanger-abbey/chapter-20.html"
+url: "/authors/austen-jane/northanger-abbey/chapter-20.html"
 ---
 
 Mr. and Mrs. Allen were sorry to lose their young friend, whose good humour and cheerfulness had made her a valuable companion, and in the promotion of whose enjoyment their own had been gently increased. Her happiness in going with Miss Tilney, however, prevented their wishing it otherwise; and, as they were to remain only one more week in Bath themselves, her quitting them now would not long be felt. Mr. Allen attended her to Milsom Street, where she was to breakfast, and saw her seated with the kindest welcome among her new friends; but so great was her agitation in finding herself as one of the family, and so fearful was she of not doing exactly what was right, and of not being able to preserve their good opinion, that, in the embarrassment of the first five minutes, she could almost have wished to return with him to Pulteney Street.

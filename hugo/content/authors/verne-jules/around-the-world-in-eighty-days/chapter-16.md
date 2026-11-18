@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-16.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-16.html"
 ---
 
 In which Fix does not seem to understand in the least what is said to him

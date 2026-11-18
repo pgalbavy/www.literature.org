@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 1"
 weight: 158
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-01.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-01.html"
 ---
 
 Darya Alexandrovna spent the summer with her children at Pokrovskoe, at her sister Kitty Levin's. The house on her own estate was quite in ruins, and Levin and his wife had persuaded her to spend the summer with them. Stepan Arkadyevitch greatly approved of the arrangement. He said he was very sorry his official duties prevented him from spending the summer in the country with his family, which would have been the greatest happiness for him; and remaining in Moscow, he came down to the country from time to time for a day or two. Besides the Oblonskys, with all their children and their governess, the old princess too came to stay that summer with the Levins, as she considered it her duty to watch over her inexperienced daughter in her INTERESTING CONDITION. Moreover, Varenka, Kitty's friend abroad, kept her promise to come to Kitty when she was married, and stayed with her friend. All of these were friends or relations of Levin's wife. And though he liked them all, he rather regretted his own Levin world and ways, which was smothered by this influx of the "Shtcherbatsky element," as he called it to himself. Of his own relations there stayed with him only Sergey Ivanovitch, but he too was a man of the Koznishev and not the Levin stamp, so that the Levin spirit was utterly obliterated.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Test Of One’s Nerves"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-05.html"
 ---
 
 *NICK RIBSAM* and Herbert Watrous could hardly believe their own senses, and for a second or two looked at each other and at the cowboys, to make sure they had heard aright.

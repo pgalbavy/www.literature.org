@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 32
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-32.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-32.html"
 ---
 
 Mr. Sabin, although he had registered at the hotel under his accustomed pseudonym, had taken no pains to conceal his identity, and was well known to the people in authority about the place. He was received with all the respect due to his rank.

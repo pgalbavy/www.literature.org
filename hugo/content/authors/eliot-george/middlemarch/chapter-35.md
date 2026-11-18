@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 35
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-35.html"
+url: "/authors/eliot-george/middlemarch/chapter-35.html"
 ---
 
 "Non, je ne comprends pas de plus charmant plaisir Que de voir d'heritiers une troupe affligee Le maintien interdit, et la mine allongee, Lire un long testament ou pales, etonnes On leur laisse un bonsoir avec un pied de nez. Pour voir au naturel leur tristesse profonde Je reviendrais, je crois, expres de l'autre monde." - REGNARD: Le Legataire Universel.

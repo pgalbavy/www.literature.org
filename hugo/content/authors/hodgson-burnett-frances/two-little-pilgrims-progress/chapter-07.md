@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-07.html"
+url: "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-07.html"
 ---
 
 And the cold days of hard work kept going by, and the City Beautiful grew, and, huddled close together in the straw, the children planned and dreamed, and read and re-read the “Pilgrim’s Progress,” following Christian step by step. And Aunt Matilda became busier every day, it seemed, and did not remember that they were alive except when she saw them. And nobody guessed and nobody knew.

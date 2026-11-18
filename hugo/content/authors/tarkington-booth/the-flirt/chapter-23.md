@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/tarkington-booth/the-flirt/chapter-23.html"
+url: "/authors/tarkington-booth/the-flirt/chapter-23.html"
 ---
 
 It is probable that he got the truth out of her, perhaps all of it. That will remain a matter of doubt; Cora's evidence, if she gave it, not being wholly trustworthy in cases touching herself. But she felt no need of mentioning to any one that she had seen her former lover that day. He had gone before the return of Enfield, Mr. Trumble's assistant, who was a little later than usual, it happened; and the extreme nervousness and preoccupation exhibited by Cora in telling Enfield of his employer's new plans were attributed by the cashier to the natural agitation of a lady about to wed in a somewhat unusual (though sensible) manner.

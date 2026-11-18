@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - We Visit Peg Bowen"
 weight: 9
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-08.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-08.html"
 ---
 
 We left Cousin Mattie's early, for it still looked like a storm, though no more so than it had in the morning. We intended to go home by a different path--one leading through cleared land overgrown with scrub maple, which had the advantage of being farther away from Peg Bowen's house. We hoped to be home before it began to storm, but we had hardly reached the hill above the village when a fine, driving snow began to fall. It would have been wiser to have turned back even then; but we had already come a mile and we thought we would have ample time to reach home before it became really bad. We were sadly mistaken; by the time we had gone another half-mile we were in the thick of a bewildering, blinding snowstorm. But it was by now just as far back to Cousin Mattie's as it was to Uncle Alec's, so we struggled on, growing more frightened at every step. We could hardly face the stinging snow, and we could not see ten feet ahead of us. It had turned bitterly cold and the tempest howled all around us in white desolation under the fast-darkening night. The narrow path we were trying to follow soon became entirely obliterated and we stumbled blindly on, holding to each other, and trying to peer through the furious whirl that filled the air. Our plight had come upon us so suddenly that we could not realize it. Presently Peter, who was leading the van because he was supposed to know the path best, stopped.

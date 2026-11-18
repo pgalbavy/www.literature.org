@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/collins-wilkie/the-haunted-hotel/chapter-16.html"
+url: "/authors/collins-wilkie/the-haunted-hotel/chapter-16.html"
 ---
 
 It was only the twentieth of September, when Agnes and the children reached Paris. Mrs. Norbury and her brother Francis had then already started on their journey to Italy--at least three weeks before the date at which the new hotel was to open for the reception of travellers.

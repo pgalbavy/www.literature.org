@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Turning Turtle"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-08.html"
 ---
 
 So Timothy Turtle struggled up the steep face of the bluff. And as he neared the top Mr. Crow began to hop up and down upon the old pine stump. He was almost bursting with silent laughter. But he succeeded in keeping quiet. And now and then he made threatening motions toward Jasper Jay and his friends, who stuck their heads from behind limbs of trees and hummocks and bushes, lest they miss any of the fun.

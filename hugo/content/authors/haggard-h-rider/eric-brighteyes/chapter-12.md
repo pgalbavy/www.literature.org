@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - How Eric Was Outlawed And Sailed A-Viking"
 weight: 13
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-12.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-12.html"
 ---
 
 Now the marriage-feast went on, and Swanhild, draped in white and girt about with gold, sat by Atli’s side upon the high seat. He was fain of her and drew her to him, but she looked at him with cold calm eyes in which hate lurked. The feast was done, and all the company rode to the sea strand, where the Earl’s ship lay at anchor. They came there, and Swanhild kissed Asmund, and talked a while with Groa, her mother, and bade farewell to all men. But she bade no farewell to Eric and to Gudruda.

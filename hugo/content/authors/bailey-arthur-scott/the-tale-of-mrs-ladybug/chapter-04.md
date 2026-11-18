@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Rusty Wren Helps"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-04.html"
 ---
 
 RUSTY WREN'S wife was getting very impatient. She was at home with her fast-growing family of youngsters, at home in the cherry tree near Farmer Green's chamber window.

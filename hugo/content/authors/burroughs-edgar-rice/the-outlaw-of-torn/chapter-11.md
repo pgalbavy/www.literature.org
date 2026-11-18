@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-11.html"
+url: "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-11.html"
 ---
 
 Several days after Norman of Torn's visit to the castle of Leicester, a young knight appeared before the Earl's gates demanding admittance to have speech with Simon de Montfort. The Earl received him, and as the young man entered his presence, Simon de Montfort, sprang to his feet in astonishment.

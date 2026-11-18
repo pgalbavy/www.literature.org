@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 12"
 weight: 12
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-12.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-12.html"
 ---
 
 An hour later Mrs. Haswell sat before the cheval glass of her dressing-table. Her dark hair, loosened now from its coils, cascaded abundantly over her white shoulders. She was thinking, and the charmingly chiseled lips and brow here in the privacy of her own room wore a rather calculating and somewhat satisfied smile. No note of contrition or self-accusation marred their serenity. A knock on the door interrupted her reverie and with a smothered exclamation of annoyance she glanced at the clock and rose.

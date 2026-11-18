@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-04.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-04.html"
 ---
 
 R. Sabin, who was never, for its own sake, fond of solitude, had ordered dinner for two at eight-thirty in the general dining-room. At a few minutes previous to that hour Mr. Skinner presented himself.

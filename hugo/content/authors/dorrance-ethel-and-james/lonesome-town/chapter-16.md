@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - An Accepted Ally"
 weight: 16
-aliases:
-  - "/authors/dorrance-ethel-and-james/lonesome-town/chapter-16.html"
+url: "/authors/dorrance-ethel-and-james/lonesome-town/chapter-16.html"
 ---
 
 “Mr. Pape has been painting your picture with a brush dipped in colors of the Yellowstone,“ observed Curtis Lauderdale as he sipped the fragrant amber brew which his daughter had poured and passed.

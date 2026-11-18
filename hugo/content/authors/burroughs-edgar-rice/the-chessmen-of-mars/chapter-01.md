@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-01.html"
+url: "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-01.html"
 ---
 
 TARA of Helium rose from the pile of silks and soft furs upon which she had been reclining, stretched her lithe body languidly, and crossed toward the center of the room, where, above a large table, a bronze disc depended from the low ceiling. Her carriage was that of health and physical perfection--the effortless harmony of faultless coordination. A scarf of silken gossamer crossing over one shoulder was wrapped about her body; her black hair was piled high upon her head. With a wooden stick she tapped upon the bronze disc, lightly, and presently the summons was answered by a slave girl, who entered, smiling, to be greeted similarly by her mistress.

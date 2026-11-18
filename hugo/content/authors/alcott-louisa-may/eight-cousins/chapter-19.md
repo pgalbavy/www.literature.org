@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Brother Bones"
 weight: 20
-aliases:
-  - "/authors/alcott-louisa-may/eight-cousins/chapter-19.html"
+url: "/authors/alcott-louisa-may/eight-cousins/chapter-19.html"
 ---
 
 Rose accepted her uncle's offer, as Aunt Myra discovered two or three days later. Coming in for an early call, and hearing voices in the study, she opened the door, gave a cry and shut it quickly, looking a good deal startled. The Doctor appeared in a moment, and begged to know what the matter was.

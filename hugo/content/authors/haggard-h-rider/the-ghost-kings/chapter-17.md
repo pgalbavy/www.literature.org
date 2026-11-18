@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Rachel Loses Her Spirit"
 weight: 18
-aliases:
-  - "/authors/haggard-h-rider/the-ghost-kings/chapter-17.html"
+url: "/authors/haggard-h-rider/the-ghost-kings/chapter-17.html"
 ---
 
 A little while later Mami entered, and said that she had been sent by Ibubesi to serve the Inkosazana as a messenger, should she need one. Rachel, seated on the bench, motioned to her to go into the hut and bide there, and she obeyed.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Taking Of Noie"
 weight: 10
-aliases:
-  - "/authors/haggard-h-rider/the-ghost-kings/chapter-09.html"
+url: "/authors/haggard-h-rider/the-ghost-kings/chapter-09.html"
 ---
 
 Presently Mrs. Dove, who seemed to have quite recovered from, her curious seizure, went to bed.

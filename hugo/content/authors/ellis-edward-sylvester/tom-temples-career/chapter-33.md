@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Morton’s Secret"
 weight: 33
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-33.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-33.html"
 ---
 
 *THEY* walked for about a mile, threading the intricacies of the forest. Tom did not particularly mind the walk. In fact, though the idea of being a captive in the hands of robbers was not particularly agreeable, there was a spice of adventure and romance about it which he liked. Gates, too, was a man who took things philosophically, and did not allow himself to be disturbed overmuch by any contretemps like the present. But the other two, namely, Morton and our Teutonic friend, took it more to heart. Morton had a great deal to lose, and he was in terror lest the papers and certificates of stock should be found upon his person. For them he had staked reputation and liberty. For them he was an exile and a fugitive, and he felt that if they were lost he should have little left to live for.

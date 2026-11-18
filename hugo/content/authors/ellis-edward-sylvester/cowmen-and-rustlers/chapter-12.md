@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Back Trail"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-12.html"
 ---
 
 Mont Sterry had wisdom enough to turn to the fullest account the remarkable advantage gained through the sagacity of his mare.

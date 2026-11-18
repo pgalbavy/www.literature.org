@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Beasts at Bay"
 weight: 3
-aliases:
-  - "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-03.html"
+url: "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-03.html"
 ---
 
 Slowly Tarzan unfolded the note the sailor had thrust into his hand, and read it. At first it made little impression on his sorrow-numbed senses, but finally the full purport of the hideous plot of revenge unfolded itself before his imagination.

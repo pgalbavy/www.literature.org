@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - A Dissolution Of Partnership"
 weight: 39
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-38.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-38.html"
 ---
 
 I did not allow my resolution, with respect to the Parliamentary Debates, to cool. It was one of the irons I began to heat immediately, and one of the irons I kept hot, and hammered at, with a perseverance I may honestly admire. I bought an approved scheme of the noble art and mystery of stenography (which cost me ten and sixpence); and plunged into a sea of perplexity that brought me, in a few weeks, to the confines of distraction. The changes that were rung upon dots, which in such a position meant such a thing, and in such another position something else, entirely different; the wonderful vagaries that were played by circles; the unaccountable consequences that resulted from marks like flies’ legs; the tremendous effects of a curve in a wrong place; not only troubled my waking hours, but reappeared before me in my sleep. When I had groped my way, blindly, through these difficulties, and had mastered the alphabet, which was an Egyptian Temple in itself, there then appeared a procession of new horrors, called arbitrary characters; the most despotic characters I have ever known; who insisted, for instance, that a thing like the beginning of a cobweb, meant expectation, and that a pen-and-ink sky-rocket, stood for disadvantageous. When I had fixed these wretches in my mind, I found that they had driven everything else out of it; then, beginning again, I forgot them; while I was picking them up, I dropped the other fragments of the system; in short, it was almost heart-breaking.

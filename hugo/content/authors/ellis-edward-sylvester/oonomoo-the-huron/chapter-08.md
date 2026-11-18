@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Exploit Of Hans Vanderbum"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/oonomoo-the-huron/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/oonomoo-the-huron/chapter-08.html"
 ---
 
 God forgive me,  

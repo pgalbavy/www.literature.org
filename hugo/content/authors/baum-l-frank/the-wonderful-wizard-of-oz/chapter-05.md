@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Rescue of the Tin Woodman "
 weight: 6
-aliases:
-  - "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-05.html"
+url: "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-05.html"
 ---
 
 When Dorothy awoke the sun was shining through the trees and Toto had long been out chasing birds around him and squirrels. She sat up and looked around her. Scarecrow, still standing patiently in his corner, waiting for her.

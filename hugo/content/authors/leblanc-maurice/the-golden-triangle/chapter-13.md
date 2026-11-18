@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Nails In The Coffin"
 weight: 13
-aliases:
-  - "/authors/leblanc-maurice/the-golden-triangle/chapter-13.html"
+url: "/authors/leblanc-maurice/the-golden-triangle/chapter-13.html"
 ---
 
 "If not . . ."

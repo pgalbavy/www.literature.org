@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 5 - Our Advertisement Brings A Visitor"
 weight: 5
-aliases:
-  - "/authors/doyle-arthur-conan/a-study-in-scarlet/part-01-chapter-05.html"
+url: "/authors/doyle-arthur-conan/a-study-in-scarlet/part-01-chapter-05.html"
 ---
 
 OUR morning's exertions had been too much for my weak health, and I was tired out in the afternoon. After Holmes' departure for the concert, I lay down upon the sofa and endeavoured to get a couple of hours' sleep. It was a useless attempt. My mind had been too much excited by all that had occurred, and the strangest fancies and surmises crowded into it. Every time that I closed my eyes I saw before me the distorted baboon-like countenance of the murdered man. So sinister was the impression which that face had produced upon me that I found it difficult to feel anything but gratitude for him who had removed its owner from the world. If ever human features bespoke vice of the most malignant type, they were certainly those of Enoch J. Drebber, of Cleveland. Still I recognized that justice must be done, and that the depravity of the victim was no condonment {11} in the eyes of the law.

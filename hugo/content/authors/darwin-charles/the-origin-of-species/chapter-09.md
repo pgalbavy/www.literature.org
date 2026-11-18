@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - On the Imperfection of the Geological Record"
 weight: 11
-aliases:
-  - "/authors/darwin-charles/the-origin-of-species/chapter-09.html"
+url: "/authors/darwin-charles/the-origin-of-species/chapter-09.html"
 ---
 
 arrow_rightOn the absence of intermediate varieties at the present day arrow_rightOn the nature of extinct intermediate varieties; on their number arrow_rightOn the vast lapse of time, as inferred from the rate of deposition and of denudation arrow_rightOn the poorness of our palaeontological collections arrow_rightOn the intermittence of geological formations arrow_rightOn the absence of intermediate varieties in any one formation arrow_rightOn their sudden appearance in the lowest known fossiliferous strata ---

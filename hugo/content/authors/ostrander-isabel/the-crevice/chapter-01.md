@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Pennington Lawton And The Grim Reaper"
 weight: 1
-aliases:
-  - "/authors/ostrander-isabel/the-crevice/chapter-01.html"
+url: "/authors/ostrander-isabel/the-crevice/chapter-01.html"
 ---
 
 Had New Illington been part of an empire instead of one of the most important cities in the greatest republic in the world, the cry "The King is dead! Long live the King!" might well have resounded through its streets on that bleak November morning when Pennington Lawton was found dead, seated quietly in his arm-chair by the hearth in the library, where so many vast deals of national import had been first conceived, and the details arranged which had carried them on and on to brilliant consummation.

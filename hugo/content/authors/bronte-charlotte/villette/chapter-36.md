@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - The Apple Of Discord"
 weight: 36
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-36.html"
+url: "/authors/bronte-charlotte/villette/chapter-36.html"
 ---
 
 Besides Fifine Beck's mother, another power had a word to say to M. Paul and me, before that covenant of friendship could be ratified. We were under the surveillance of a sleepless eye: Rome watched jealously her son through that mystic lattice at which I had knelt once, and to which M. Emanuel drew nigh month by month - the sliding panel of the confessional.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Of The Ends Or Resolutions Of Discourse"
 weight: 9
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-07.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-07.html"
 ---
 
 Of all Discourse, governed by desire of Knowledge, there is at last an End, either by attaining, or by giving over. And in the chain of Discourse, wheresoever it be interrupted, there is an End for that time.

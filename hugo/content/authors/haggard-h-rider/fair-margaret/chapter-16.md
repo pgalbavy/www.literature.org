@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Betty Shows Her Teeth"
 weight: 16
-aliases:
-  - "/authors/haggard-h-rider/fair-margaret/chapter-16.html"
+url: "/authors/haggard-h-rider/fair-margaret/chapter-16.html"
 ---
 
 "Señora," said Inez, "you think that you have something against me."

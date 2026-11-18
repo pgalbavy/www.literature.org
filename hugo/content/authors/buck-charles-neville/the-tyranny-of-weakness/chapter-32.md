@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 32
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-32.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-32.html"
 ---
 
 The living-room held a glow of mellow light, but as Eben returned with the three brimming glasses, Conscience touched a button which darkened the wall sconces and left only the large lamp on the table, where she had placed her tray.

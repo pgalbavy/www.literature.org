@@ -1,8 +1,7 @@
 ---
 title: "Chapter 45"
 weight: 45
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-45.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-45.html"
 ---
 
 The shock terrified the whole camp.

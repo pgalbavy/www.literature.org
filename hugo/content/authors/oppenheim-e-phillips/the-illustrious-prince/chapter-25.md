@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Hobson's Choice"
 weight: 25
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-25.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-25.html"
 ---
 
 There were some days when the absence of patients seemed to Dr. Spencer Whiles a thing almost insupportable. Too late he began to realize that he had set up in the wrong neighborhood. In years to come, he reflected gloomily, when the great building estate which was to have been developed more than a year ago was really opened up, there might be an opportunity where he was, a very excellent opportunity, too, for a young doctor of ability. Just now, however, the outlook was almost hopeless. He found himself even looking eagerly forward every day for another visit from Mr. Inspector Jacks. Another trip to town would mean a peep into the world of luxury, whose doors were so closely barred against him, and, what was more important still, it would mean a fee which would keep the wolf from the door for another week. It had come to that with Dr. Whiles. His little stock of savings was exhausted. Unless something turned up within the course of the next few weeks, he knew very well that there was nothing left for him to do but to slip away quietly into the embrace of the more shady parts of the great city, to find a situation somewhere, somehow, beyond the ken of the disappointed creditors whom he would leave behind.

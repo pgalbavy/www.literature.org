@@ -1,8 +1,7 @@
 ---
 title: "Chapter 54 - Captivity:  The Third Day"
 weight: 55
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-54.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-54.html"
 ---
 
 Felton had fallen; but there was still another step to be taken. He must be retained, or rather he must be left quite alone; and Milady but obscurely perceived the means which could lead to this result.

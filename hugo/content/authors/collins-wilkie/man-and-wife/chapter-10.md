@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Bishopriggs"
 weight: 12
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-10.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-10.html"
 ---
 
 THE knock at the door was repeated--a louder knock than before.

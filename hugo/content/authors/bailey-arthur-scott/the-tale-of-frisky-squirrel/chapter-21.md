@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - That Disagreeable Freddie Weasel"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-21.html"
 ---
 
 Almost everybody liked Frisky Squirrel, he was such a happy little fellow. But there were a few of the forest-people with whom Frisky never was able to make friends. They were the disagreeable, selfish kind, who never liked anyone except themselves.

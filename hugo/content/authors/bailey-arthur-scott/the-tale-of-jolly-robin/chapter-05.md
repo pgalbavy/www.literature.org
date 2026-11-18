@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Laughing For Mr. Crow"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-05.html"
 ---
 
 Sure enough! old Mr. Crow was in the cornfield. And though he was feeling somewhat peevish that morning, because a coon had disturbed his rest the night before, he listened to what Jolly Robin had to say.

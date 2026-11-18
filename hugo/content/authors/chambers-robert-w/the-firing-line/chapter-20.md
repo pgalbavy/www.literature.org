@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - A New Enemy"
 weight: 20
-aliases:
-  - "/authors/chambers-robert-w/the-firing-line/chapter-20.html"
+url: "/authors/chambers-robert-w/the-firing-line/chapter-20.html"
 ---
 
 One evening in April, returning with a few brace of trout, they found the mail-bag awaiting them on the hall table; and Portlaw distributed the contents, proclaiming, as usual, his expectation of a letter from Malcourt.

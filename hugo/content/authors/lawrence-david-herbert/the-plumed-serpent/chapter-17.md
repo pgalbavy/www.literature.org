@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Fourth Hymn And The Bishop"
 weight: 17
-aliases:
-  - "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-17.html"
+url: "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-17.html"
 ---
 
 The President of the Republic, as a new broom, had been sweeping perhaps a little too clean for the common liking, so there was a 'rebellion.' It was not a very large one. But it meant, of course, banditry, robbery, and cowed villages.

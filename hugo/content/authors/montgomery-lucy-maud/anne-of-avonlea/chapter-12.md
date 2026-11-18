@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - A Jonah Day"
 weight: 12
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-12.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-12.html"
 ---
 
 It really began the night before with a restless, wakeful vigil of grumbling toothache. When Anne arose in the dull, bitter winter morning she felt that life was flat, stale, and unprofitable.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-04.html"
+url: "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-04.html"
 ---
 
 The babe, Tommie, died. He went away in a white, insignificant coffin, his small waxen hand clutching a flower that the girl, Maggie, had stolen from an Italian.

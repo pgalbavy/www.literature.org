@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Renunciation"
 weight: 14
-aliases:
-  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-14.html"
+url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-14.html"
 ---
 
 Vernon tore down the stairs three and four at a time, and caught Betty as she was stepping into a hired carriage.

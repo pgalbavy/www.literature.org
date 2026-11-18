@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 7 - Philip Re-Enters"
 weight: 46
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-06-chapter-07.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-06-chapter-07.html"
 ---
 
 The next morning was very wet, - the sort of morning on which male neighbors who have no imperative occupation at home are likely to pay their fair friends an illimitable visit. The rain, which has been endurable enough for the walk or ride one way, is sure to become so heavy, and at the same time so certain to clear up by and by, that nothing but an open quarrel can abbreviate the visit; latent detestation will not do at all. And if people happen to be lovers, what can be so delightful, in England, as a rainy morning? English sunshine is dubious; bonnets are never quite secure; and if you sit down on the grass, it may lead to catarrhs. But the rain is to be depended on. You gallop through it in a mackintosh, and presently find yourself in the seat you like best, - a little above or a little below the one on which your goddess sits (it is the same thing to the metaphysical mind, and that is the reason why women are at once worshipped and looked down upon), with a satisfactory confidence that there will be no lady-callers.

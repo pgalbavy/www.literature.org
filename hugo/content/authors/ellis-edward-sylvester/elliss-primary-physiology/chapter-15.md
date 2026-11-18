@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Nerves, Brain, Spinal Cord, Etc"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-15.html"
 ---
 
 The muscles which move the bones are themselves moved by the nerves. The nerves are soft and pulpy in youth, but harden as you advance in years. They are composed of a gray substance, called the nerve-cell, and a white substance, known as the nerve-fibre.

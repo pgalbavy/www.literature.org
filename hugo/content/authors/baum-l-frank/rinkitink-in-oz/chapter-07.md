@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/baum-l-frank/rinkitink-in-oz/chapter-07.html"
+url: "/authors/baum-l-frank/rinkitink-in-oz/chapter-07.html"
 ---
 
 The Island of Regos was ten miles wide and forty miles long and it was ruled by a big and powerful King named Gos. Near to the shores were green and fertile fields, but farther back from the sea were rugged hills and mountains, so rocky that nothing would grow there. But in these mountains were mines of gold and silver, which the slaves of the King were forced to work, being confined in dark underground passages for that purpose. In the course of time huge caverns had been hollowed out by the slaves, in which they lived and slept, never seeing the light of day. Cruel overseers with whips stood over these poor people, who had been captured in many countries by the raiding parties of King Cos, and the overseers were quite willing to lash the slaves with their whips if they faltered a moment in their work.

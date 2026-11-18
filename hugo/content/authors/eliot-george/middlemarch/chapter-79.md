@@ -1,8 +1,7 @@
 ---
 title: "Chapter 79"
 weight: 79
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-79.html"
+url: "/authors/eliot-george/middlemarch/chapter-79.html"
 ---
 
 "Now, I saw in my dream, that just as they had ended their talk, they drew nigh to a very miry slough, that was in the midst of the plain; and they, being heedless, did both fall suddenly into the bog. The name of the slough was Despond." - BUNYAN.

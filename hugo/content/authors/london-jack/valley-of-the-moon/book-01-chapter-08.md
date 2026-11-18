@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 8"
 weight: 8
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-01-chapter-08.html"
+url: "/authors/london-jack/valley-of-the-moon/book-01-chapter-08.html"
 ---
 
 The music stopped at the end of the waltz, leaving Billy and Saxon at the big entrance doorway of the ballroom. Her hand rested lightly on his arm, and they were promenading on to find seats, when Charley Long, evidently just arrived, thrust his way in front of them.

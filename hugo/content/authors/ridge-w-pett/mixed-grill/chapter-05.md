@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Loose Cash"
 weight: 5
-aliases:
-  - "/authors/ridge-w-pett/mixed-grill/chapter-05.html"
+url: "/authors/ridge-w-pett/mixed-grill/chapter-05.html"
 ---
 
 A PRINCE OF WALES was born, and Mr. Rollinson re-christened a row of houses which he had acquired. The original builder had gone incautiously on a certain evening in the early part of ’41 to inspect his property—an act nobody else thought of performing—and stumbled into one of the numerous holes that lined the approach. His widow found herself unable to carry on the building operations, and Mr. Rollinson, who, owing to popular prejudice, had just given up a career on the turf and some profitable transactions near the prize ring, offered her two hundred pounds ready cash for the lot.

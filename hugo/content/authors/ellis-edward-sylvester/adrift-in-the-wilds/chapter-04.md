@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A Passenger"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-04.html"
 ---
 
 By this time our friends were a quarter of a mile in the rear of the burning steamer. The furious pulsations of the engines had stopped, and from stern to stern the great ship was one mass of soothing flame. The light threw a glare upon the clouds above, and made it so bright where our friends were floating in the water that they could have read the pages of a printed book. The illumination must have been seen for many and many a mile in every direction upon the Pacific.

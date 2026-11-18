@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 2 - Treats Of A Christian Virtue"
 weight: 22
-aliases:
-  - "/authors/stevenson-robert-louis/prince-otto/book-03-chapter-02.html"
+url: "/authors/stevenson-robert-louis/prince-otto/book-03-chapter-02.html"
 ---
 
 When Otto mounted to his rolling prison he found another occupant in a corner of the front seat; but as this person hung his head and the brightness of the carriage lamps shone outward, the Prince could only see it was a man. The Colonel followed his prisoner and clapped-to the door; and at that the four horses broke immediately into a swinging trot.

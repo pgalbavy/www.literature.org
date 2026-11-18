@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-24.html"
+url: "/authors/dickens-charles/great-expectations/chapter-24.html"
 ---
 
 AFTER two or three days, when I had established myself in my room and had gone backwards and forwards to London several times, and had ordered all I wanted of my tradesmen, Mr Pocket and I had a long talk together. He knew more of my intended career than I knew myself, for he referred to his having been told by Mr Jaggers that I was not designed for any profession, and that I should be well enough educated for my destiny if I could 'hold my own' with the average of young men in prosperous circumstances. I acquiesced, of course, knowing nothing to the contrary.

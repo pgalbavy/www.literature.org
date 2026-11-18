@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Arsène I Emperor Of Mauretania"
 weight: 18
-aliases:
-  - "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-18.html"
+url: "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-18.html"
 ---
 
 Don Luis ceased. A smile of amusement played round his lips. The recollection of those four minutes seemed to divert him immensely.

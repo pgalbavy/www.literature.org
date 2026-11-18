@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Touching It"
 weight: 22
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-20.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-20.html"
 ---
 
 As soon as the general stupefaction was allayed, the general incredulity asserted itself as a matter of course.

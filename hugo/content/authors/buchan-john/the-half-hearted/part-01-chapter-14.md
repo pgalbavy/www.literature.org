@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 14 - A Gentleman In Straits"
 weight: 14
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-01-chapter-14.html"
+url: "/authors/buchan-john/the-half-hearted/part-01-chapter-14.html"
 ---
 
 The fall of the leaf found Etterick very full of people, and new dwellers in Glenavelin. The invitations were of old standing, but Lewis found their fulfilment a pleasant trick of Fortune's. To keep a bustling household in good spirits leaves small room for brooding, and he was famous for his hospitality. The partridges were plentiful that year, and a rainless autumn had come on the heels of a fine summer. So life went pleasantly with all, and the master of the place cloaked a very sick heart under a ready good-humour.

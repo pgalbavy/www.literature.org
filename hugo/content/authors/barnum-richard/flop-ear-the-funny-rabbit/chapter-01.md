@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Flop Ear Hears A Noise"
 weight: 1
-aliases:
-  - "/authors/barnum-richard/flop-ear-the-funny-rabbit/chapter-01.html"
+url: "/authors/barnum-richard/flop-ear-the-funny-rabbit/chapter-01.html"
 ---
 
 Once upon a time, not so very many years ago, a family of rabbits lived in the woods near the top of a mountain. There were six in the family, counting Flop Ear, the funny rabbit, and I speak of him first because this story is going to be mostly about him and his adventures, or what happened to Flop Ear.

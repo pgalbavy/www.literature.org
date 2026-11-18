@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Noise On The Roof"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-11.html"
 ---
 
 As soon as she heard that Jasper Jay intended to visit her cherry tree, to enjoy the ripe fruit, Rusty Wren's wife began to worry. And she made herself so unhappy that Rusty couldn't help wishing that Jolly Robin had kept his news to himself.

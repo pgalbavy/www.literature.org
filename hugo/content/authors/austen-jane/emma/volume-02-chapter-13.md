@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 13"
 weight: 31
-aliases:
-  - "/authors/austen-jane/emma/volume-02-chapter-13.html"
+url: "/authors/austen-jane/emma/volume-02-chapter-13.html"
 ---
 
 Emma continued to entertain no doubt of her being in love. Her ideas only varied as to the how much. At first, she thought it was a good deal; and afterwards, but little. She had great pleasure in hearing Frank Churchill talked of; and, for his sake, greater pleasure than ever in seeing Mr. and Mrs. Weston; she was very often thinking of him, and quite impatient for a letter, that she might know how he was, how were his spirits, how was his aunt, and what was the chance of his coming to Randalls again this spring. But, on the other hand, she could not admit herself to be unhappy, nor, after the first morning, to be less disposed for employment than usual; she was still busy and cheerful; and, pleasing as he was, she could yet imagine him to have faults; and farther, though thinking of him so much, and, as she sat drawing or working, forming a thousand amusing schemes for the progress and close of their attachment, fancying interesting dialogues, and inventing elegant letters; the conclusion of every imaginary declaration on his side was that she refused him. Their affection was always to subside into friendship. Every thing tender and charming was to mark their parting; but still they were to part. When she became sensible of this, it struck her that she could not be very much in love; for in spite of her previous and fixed determination never to quit her father, never to marry, a strong attachment certainly must produce more of a struggle than she could foresee in her own feelings.

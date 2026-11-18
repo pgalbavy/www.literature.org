@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Mrs. Ladybug's Plan"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-06.html"
 ---
 
 DADDY LONGLEGS' neighbors took an even greater interest in him, after his contest with Mr. Crow. And much to Daddy's distress they tried harder than before to pry into his private affairs.

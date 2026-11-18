@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 42 - Of The Counsels Which Don Quixote Gave Sancho Panza Before He Set Out To Govern The Island, Together With Other Well-Considered Matters"
 weight: 98
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-42.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-42.html"
 ---
 
 The duke and duchess were so well pleased with the successful and droll result of the adventure of the Distressed One, that they resolved to carry on the joke, seeing what a fit subject they had to deal with for making it all pass for reality. So having laid their plans and given instructions to their servants and vassals how to behave to Sancho in his government of the promised island, the next day, that following Clavileño’s flight, the duke told Sancho to prepare and get ready to go and be governor, for his islanders were already looking out for him as for the showers of May.

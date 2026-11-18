@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Doubtful Enterprise"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-02.html"
 ---
 
 One of the commendable habits of the early settlers and old-fashioned folks was that of retiring and rising early. They were ardent believers in the saying of Poor Richard that "early to bed, and early to rise, makes a man healthy, wealthy, and wise."

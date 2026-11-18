@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 36"
 weight: 353
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-36.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-36.html"
 ---
 
 Natasha and Pierre, left alone, also began to talk as only a husband and wife can talk, that is, with extraordinary clearness and rapidity, understanding and expressing each other's thoughts in ways contrary to all rules of logic, without premises, deductions, or conclusions, and in a quite peculiar way. Natasha was so used to this kind of talk with her husband that for her it was the surest sign of something being wrong between them if Pierre followed a line of logical reasoning. When he began proving anything, or talking argumentatively and calmly and she, led on by his example, began to do the same, she knew that they were on the verge of a quarrel.

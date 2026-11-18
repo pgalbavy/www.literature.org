@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Polly Arrives"
 weight: 2
-aliases:
-  - "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-01.html"
+url: "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-01.html"
 ---
 
 “IT'S time to go to the station, Tom.”

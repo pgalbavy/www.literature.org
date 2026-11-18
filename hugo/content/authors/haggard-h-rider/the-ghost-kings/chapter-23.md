@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Dream In The North"
 weight: 24
-aliases:
-  - "/authors/haggard-h-rider/the-ghost-kings/chapter-23.html"
+url: "/authors/haggard-h-rider/the-ghost-kings/chapter-23.html"
 ---
 
 Richard Darrien remembered drinking a bowl of milk in the hut in which he was imprisoned at Mafooti, and instantly feeling a cold chill run to his heart and brain, after which he remembered no more for many a day. At length, however, by slow degrees, and with sundry slips back into unconsciousness, life and some share of his reason and memory returned to him. He awoke to find himself lying in a hut roughly fashioned of branches, and attended by a Kaffir woman of middle age.

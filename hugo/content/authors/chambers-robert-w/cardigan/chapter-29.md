@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 30
-aliases:
-  - "/authors/chambers-robert-w/cardigan/chapter-29.html"
+url: "/authors/chambers-robert-w/cardigan/chapter-29.html"
 ---
 
 We entered Albany on the 22d of April; the town had heard the news from Lexington ere we sighted the Albany hills, the express having passed us as we crossed the New York line, tearing along the river-bank at a breakneck gallop.

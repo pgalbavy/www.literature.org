@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Knights of the Table Round"
 weight: 4
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-03.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-03.html"
 ---
 
 MAINLY the Round Table talk was monologues -- narrative accounts of the adventures in which these prisoners were captured and their friends and backers killed and stripped of their steeds and armor. As a general thing -- as far as I could make out -- these murderous adventures were not forays undertaken to avenge injuries, nor to settle old disputes or sudden fallings out; no, as a rule they were simply duels between strangers -- duels between people who had never even been introduced to each other, and between whom existed no cause of offense whatever. Many a time I had seen a couple of boys, strangers, meet by chance, and say simultaneously, "I can lick you," and go at it on the spot; but I had always imagined until now that that sort of thing belonged to children only, and was a sign and mark of childhood; but here were these big boobies sticking to it and taking pride in it clear up into full age and beyond. Yet there was something very engaging about these great simple-hearted creatures, something attractive and lovable. There did not seem to be brains enough in the entire nursery, so to speak, to bait a fish-hook with; but you didn't seem to mind that, after a little, because you soon saw that brains were not needed in a society like that, and indeed would have marred it, hindered it, spoiled its symmetry -- perhaps rendered its existence impossible.

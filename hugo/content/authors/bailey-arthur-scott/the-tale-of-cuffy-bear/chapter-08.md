@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Cuffy Learns To Swim"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-08.html"
 ---
 
 Yes! Cuffy Bear was floating down the river on a cake of ice! How he wished he had been a good little bear and stayed at home, instead of running away to the river all alone! He was huddled up in a little black heap in the center of the cake, and crying as if his heart would break. For Cuffy thought he would never see his mother and father and Silkie again. If only he knew how to swim, like his father! But he didn't; and there he was, being swept away down the valley, right toward Farmer Green's house. It certainly was enough to make anybody weep.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - On The Road"
 weight: 22
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-22.html"
+url: "/authors/haggard-h-rider/jess/chapter-22.html"
 ---
 
 John and Jess had finished their meal, and were about to leave the table, when suddenly the door opened, and who should appear at it but Frank Muller himself! Mistake was impossible; there he stood, stroking his long golden beard, as big, as handsome, and, to Jess’s mind, as evil-looking as ever. The cold eyes fell upon John with a glance of recognition, and something like a smile began to play around the corners of the finely cut cruel mouth. Suddenly, however, his gaze lit upon the two Boers, one of whom was picking his teeth with a steel fork and the other lighting his pipe within a few inches of Jess’s head, and instantly his face grew stern and angry.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 22
-aliases:
-  - "/authors/baum-l-frank/ozma-of-oz/chapter-21.html"
+url: "/authors/baum-l-frank/ozma-of-oz/chapter-21.html"
 ---
 
 Dorothy passed several very happy weeks in the Land of Oz as the guest of the royal Ozma, who delighted to please and interest the little Kansas girl. Many new acquaintances were formed and many old ones renewed, and wherever she went Dorothy found herself among friends.

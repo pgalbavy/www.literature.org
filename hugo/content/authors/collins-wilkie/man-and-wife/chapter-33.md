@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Seeds Of The Future (Third Sowing)"
 weight: 35
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-33.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-33.html"
 ---
 
 AFTER a new and attentive reading of Anne's letter to Geoffrey, and of Geoffrey's letter to Anne, Bishopriggs laid down comfortably under a tree, and set himself the task of seeing his position plainly as it was at that moment.

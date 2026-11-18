@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The New Source Of Energy"
 weight: 3
-aliases:
-  - "/authors/wells-herbert-george/the-world-set-free/chapter-01.html"
+url: "/authors/wells-herbert-george/the-world-set-free/chapter-01.html"
 ---
 
 Section I

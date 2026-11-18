@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Camp Fire"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-25.html"
 ---
 
 But Nick Ribsam was full of grit, and, though every step he took caused him pain, he persevered with that grim resolution that was a part of his nature from his very birth.

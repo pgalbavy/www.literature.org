@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-01.html"
+url: "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-01.html"
 ---
 
 The long boat of the Marjorie W. was floating down the broad Ugambi with ebb tide and current. Her crew were lazily enjoying this respite from the arduous labor of rowing up stream. Three miles below them lay the Marjorie W. herself, quite ready to sail so soon as they should have clambered aboard and swung the long boat to its davits. Presently the attention of every man was drawn from his dreaming or his gossiping to the northern bank of the river. There, screaming at them in a cracked falsetto and with skinny arms outstretched, stood a strange apparition of a man.

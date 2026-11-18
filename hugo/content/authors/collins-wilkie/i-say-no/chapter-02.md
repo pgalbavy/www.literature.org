@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Biography In The Bedroom"
 weight: 2
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-02.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-02.html"
 ---
 
 The candle was instantly extinguished. In discreet silence the girls stole back to their beds, and listened.

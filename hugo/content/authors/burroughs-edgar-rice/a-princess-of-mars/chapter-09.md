@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - I Learn the Language"
 weight: 9
-aliases:
-  - "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-09.html"
+url: "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-09.html"
 ---
 
 As I came back to myself I glanced at Sola, who had witnessed this encounter and I was surprised to note a strange expression upon her usually expressionless countenance. What her thoughts were I did not know, for as yet I had learned but little of the Martian tongue; enough only to suffice for my daily needs.

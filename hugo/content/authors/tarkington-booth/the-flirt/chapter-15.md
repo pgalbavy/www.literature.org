@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/tarkington-booth/the-flirt/chapter-15.html"
+url: "/authors/tarkington-booth/the-flirt/chapter-15.html"
 ---
 
 Laura had spent some thoughtful hours upon her black lace dress with results that astonished her family: it became a ball-gown—and a splendidly effective one. She arranged her dark hair in a more elaborate fashion than ever before, in a close coronal of faintly lustrous braids; she had no jewellery and obviously needed none. Her last action but one before she left her room was to dispose of the slender chain and key she always wore round her neck; then her final glance at the mirror—which fairly revealed a lovely woman—ended in a deprecatory little "face" she made at herself. It meant: "Yes, old lady, you fancy yourself very passable in here all by yourself, don't you? Just wait: you'll be standing beside Cora in a moment!"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Jungle Island Again"
 weight: 20
-aliases:
-  - "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-20.html"
+url: "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-20.html"
 ---
 
 The first consideration of the party was to locate fresh water and make camp, for all knew that their term of existence upon Jungle Island might be drawn out to months, or even years.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Dark"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/the-frontier-angel/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/the-frontier-angel/chapter-13.html"
 ---
 
 *THE* excitement in relation to the Frontier Angel and the lost Marian, was greatly increased by two circumstances, that occurred on the day following the return of Peterson. It had been determined, as the reader has already learned, by Dingle, that he should start to the Shawnee towns in search of tidings of Marian. In this dangerous undertaking it was agreed that Peterson should join him. The latter, having undergone considerable toil and fatigue, was compelled to remain over night by the commander, in order to be prepared for what was before him.

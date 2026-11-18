@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/preface.html"
+url: "/authors/hodgson-burnett-frances/robin/preface.html"
 ---
 
 THE YEARS BEFORE

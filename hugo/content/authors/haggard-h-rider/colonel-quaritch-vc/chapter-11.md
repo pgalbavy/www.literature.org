@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Ida's Bargain"
 weight: 11
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-11.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-11.html"
 ---
 
 When Ida saw the Colonel coming, she put on her sweetest smile and took his outstretched hand.

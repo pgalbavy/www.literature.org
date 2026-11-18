@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-25.html"
+url: "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-25.html"
 ---
 
 The Sheik glowered at the prisoner which his two men brought back to him from the North. He had sent the party after Abdul Kamak, and he was wroth that instead of his erstwhile lieutenant they had sent back a wounded and useless Englishman. Why had they not dispatched him where they had found him? He was some penniless beggar of a trader who had wandered from his own district and became lost. He was worthless. The Sheik scowled terribly upon him.

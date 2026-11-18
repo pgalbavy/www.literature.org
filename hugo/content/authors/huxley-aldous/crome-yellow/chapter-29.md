@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/huxley-aldous/crome-yellow/chapter-29.html"
+url: "/authors/huxley-aldous/crome-yellow/chapter-29.html"
 ---
 
 It was after ten o’clock. The dancers had already dispersed and the last lights were being put out. To-morrow the tents would be struck, the dismantled merry-go-round would be packed into waggons and carted away. An expanse of worn grass, a shabby brown patch in the wide green of the park, would be all that remained. Crome Fair was over.

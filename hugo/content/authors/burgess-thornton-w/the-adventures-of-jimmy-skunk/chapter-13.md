@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Jimmy Skunk Explains"
 weight: 13
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-13.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-13.html"
 ---
 
 You'll find this true where'er you go That those prepared few troubles know.

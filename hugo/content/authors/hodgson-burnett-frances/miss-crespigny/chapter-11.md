@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Confession"
 weight: 11
-aliases:
-  - "/authors/hodgson-burnett-frances/miss-crespigny/chapter-11.html"
+url: "/authors/hodgson-burnett-frances/miss-crespigny/chapter-11.html"
 ---
 
 Georgie turned to her, taking sudden courage.

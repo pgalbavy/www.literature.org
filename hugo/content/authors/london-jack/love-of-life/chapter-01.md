@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Love Of Life"
 weight: 1
-aliases:
-  - "/authors/london-jack/love-of-life/chapter-01.html"
+url: "/authors/london-jack/love-of-life/chapter-01.html"
 ---
 
 "This out of all will remain - They have lived and have tossed: So much of the game will be gain, Though the gold of the dice has been lost."

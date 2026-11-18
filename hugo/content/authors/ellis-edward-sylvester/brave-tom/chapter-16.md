@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/brave-tom/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/brave-tom/chapter-16.html"
 ---
 
 But for the dark fear which impended over him, James Travers would have looked upon his sail up the Hudson on that spring morning as one of the most delightful experiences of his life.

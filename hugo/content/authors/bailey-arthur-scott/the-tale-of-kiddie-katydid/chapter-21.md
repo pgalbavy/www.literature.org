@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Leaper The Locust Is Worried"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-21.html"
 ---
 
 Kiddie Katydid looked on happily while Leaper the Locust struggled to free himself from the clutches of the messenger. But Leaper was no match for the stranger. In the end he had to accept the message as his own.

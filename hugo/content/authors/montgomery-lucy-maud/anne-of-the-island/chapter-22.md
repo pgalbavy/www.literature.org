@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Spring And Anne Return To Green Gables"
 weight: 22
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-22.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-22.html"
 ---
 
 The firelight shadows were dancing over the kitchen walls at Green Gables, for the spring evening was chilly; through the open east window drifted in the subtly sweet voices of the night. Marilla was sitting by the fire -- at least, in body. In spirit she was roaming olden ways, with feet grown young. Of late Marilla had thus spent many an hour, when she thought she should have been knitting for the twins.

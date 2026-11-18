@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Nero Learns Some Tricks"
 weight: 7
-aliases:
-  - "/authors/barnum-richard/nero-the-circus-lion/chapter-07.html"
+url: "/authors/barnum-richard/nero-the-circus-lion/chapter-07.html"
 ---
 
 Nero thought the circus a very queer place indeed. It was as queer to him as the wild jungle would be to you if you saw it for the first time. But strange as it was, the circus, where he now found himself, seemed much nicer to Nero than being cooped up in the dark ship or in the freight car.

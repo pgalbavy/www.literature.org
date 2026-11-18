@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - A Confession Of Faith"
 weight: 4
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-03.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-03.html"
 ---
 
 “Are you ready?” he said, recovering himself from the pleasing shock of this serge-draped vision of the mist.

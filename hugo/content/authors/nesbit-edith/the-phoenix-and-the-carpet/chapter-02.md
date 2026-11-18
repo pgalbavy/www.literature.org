@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Topless Tower"
 weight: 2
-aliases:
-  - "/authors/nesbit-edith/the-phoenix-and-the-carpet/chapter-02.html"
+url: "/authors/nesbit-edith/the-phoenix-and-the-carpet/chapter-02.html"
 ---
 
 The children had seen the Phoenix-egg hatched in the flames in their own nursery grate, and had heard from it how the carpet on their own nursery floor was really the wishing carpet, which would take them anywhere they chose. The carpet had transported them to bed just at the right moment, and the Phoenix had gone to roost on the cornice supporting the window-curtains of the boys' room.

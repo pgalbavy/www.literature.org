@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Poisoned Arrow"
 weight: 18
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-17.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-17.html"
 ---
 
 "And so," Peter Gross concluded, "I pledged my life that we'd put things to rights in Bulungan."

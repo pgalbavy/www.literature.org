@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Out Late At Night"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/bill-biddon-trapper/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/bill-biddon-trapper/chapter-01.html"
 ---
 
 "How is it, Nat? Any light yet?"

@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 13"
 weight: 33
-aliases:
-  - "/authors/cather-willa/my-antonia/book-02-chapter-13.html"
+url: "/authors/cather-willa/my-antonia/book-02-chapter-13.html"
 ---
 
 I NOTICED ONE AFTERNOON that grandmother had been crying. Her feet seemed to drag as she moved about the house, and I got up from the table where I was studying and went to her, asking if she didn’t feel well, and if I couldn’t help her with her work.

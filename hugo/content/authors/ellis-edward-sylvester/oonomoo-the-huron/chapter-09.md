@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A New Danger"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/oonomoo-the-huron/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/oonomoo-the-huron/chapter-09.html"
 ---
 
 Tis too late  

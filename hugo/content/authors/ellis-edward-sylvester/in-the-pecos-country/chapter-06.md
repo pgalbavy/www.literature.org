@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Apache Attack"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-06.html"
 ---
 
 "The Apaches are coming! The Apaches are coming!" shouted Sut Simpson, as his mustang thundered up to the edge of the valley, while his clear, powerful voice rang out like a bugle.

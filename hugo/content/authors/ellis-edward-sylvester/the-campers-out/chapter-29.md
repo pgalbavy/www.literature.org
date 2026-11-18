@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - A Sad Discovery"
 weight: 29
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-29.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-29.html"
 ---
 
 The horror-stricken Terry thought no more about his wife, whom he was in the act of lifting through the trap-door, but let go her hand, allowing her to drop with a crash that shook the whole building.

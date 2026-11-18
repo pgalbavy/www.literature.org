@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Lupin Wires"
 weight: 13
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin/chapter-13.html"
+url: "/authors/leblanc-maurice/arsene-lupin/chapter-13.html"
 ---
 
 The Duke stared at the pendant, his eyes full of wonder and pity.

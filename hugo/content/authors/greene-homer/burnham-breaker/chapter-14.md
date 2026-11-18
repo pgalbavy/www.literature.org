@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Angel With The Sword"
 weight: 14
-aliases:
-  - "/authors/greene-homer/burnham-breaker/chapter-14.html"
+url: "/authors/greene-homer/burnham-breaker/chapter-14.html"
 ---
 
 Ralph had entered the office just as Rhyming Joe reached the point of his disclosure. He had heard him declare, in emphatic tones: "I say the boy Ralph is not Robert Burnham's son."

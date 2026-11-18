@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Fairy-Sylvie"
 weight: 15
-aliases:
-  - "/authors/carroll-lewis/sylvie-and-bruno/chapter-14.html"
+url: "/authors/carroll-lewis/sylvie-and-bruno/chapter-14.html"
 ---
 
 For a full month the business, for which I had returned to London, detained me there: and even then it was only the urgent advice of my physician that induced me to leave it unfinished and pay another visit to Elveston.

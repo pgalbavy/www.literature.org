@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-20.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-20.html"
 ---
 
 When he came into the New House, a few minutes later, he found his father sitting alone by the library fire. Bibbs went in and stood before him. "I'm cured, father," he said. "When do I go back to the shop? I'm ready."

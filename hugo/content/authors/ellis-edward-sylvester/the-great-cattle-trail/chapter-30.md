@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - At Bay"
 weight: 30
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-30.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-30.html"
 ---
 
 Captain Shirril and his nephew placed their ponies beside each other, with a space of only a few feet intervening. Then, standing on the ground, they rested their Winchesters across the saddles, facing in opposite directions, and were ready for the assault of the red men, who were circling back and forth and gradually drawing nearer to them.

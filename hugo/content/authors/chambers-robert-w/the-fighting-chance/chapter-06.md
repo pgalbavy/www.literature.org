@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Modus Vivendi"
 weight: 6
-aliases:
-  - "/authors/chambers-robert-w/the-fighting-chance/chapter-06.html"
+url: "/authors/chambers-robert-w/the-fighting-chance/chapter-06.html"
 ---
 
 After the first few days of his arrival at Shotover time had threatened to hang heavily on Mortimer's mottled hands. After the second day afield he recognised that his shooting career was practically over; he had become too bulky during the last year to endure the physical exertion; his habits, too, had at length made traitors of his eyes; a half hour's snipe-shooting in the sun, and the veins in his neck swelled ominously. Panting, eyes inflamed, fat arms wobbly, he had scored miss after miss, and laboured onward, sullenly persistent to the end. But it was the end. That cup day finished him; he recognised that he was done for. And, following the Law of Pleasure, which finishes us before we are finished with it, he did not experience any particular sense of deprivation in the prospect. Only the wholesome dread caging. But Mortimer, not yet done with self-indulgence in more convenient forms, cast about him within his new limits for occupation between those hours consecrated to the rites of the table and the card-room.

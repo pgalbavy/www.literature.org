@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/baum-l-frank/rinkitink-in-oz/chapter-04.html"
+url: "/authors/baum-l-frank/rinkitink-in-oz/chapter-04.html"
 ---
 
 All through that terrible night Prince Inga remained hidden in his tree. In the morning he watched the great fleet of boats depart for their own country, carrying his parents and his countrymen with them, as well as everything of value the Island of Pingaree had contained.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 56 - Of the Less Erroneous Pictures of Whales and the True Pictures of Whaling Scenes"
 weight: 56
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-056.html"
+url: "/authors/melville-herman/moby-dick/chapter-056.html"
 ---
 
 In connexion with the monstrous pictures of whales, I am strongly tempted here to enter upon those still more monstrous stories of them which are to be found in certain books, both ancient and modern, especially in Pliny, Purchas, Hackluyt, Harris, Cuvier, &c. But I pass that matter by.

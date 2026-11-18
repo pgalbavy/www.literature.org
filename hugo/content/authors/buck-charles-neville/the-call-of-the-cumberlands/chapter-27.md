@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-27.html"
+url: "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-27.html"
 ---
 
 The Honorable Asa Smithers was not the regular Judge of the Circuit which numbered Hixon among its county-seats. The elected incumbent was ill, and Smithers had been named as his pro-tem. successor. Callomb climbed to the second story of the frame bank building, and pounded loudly on a door, which bore the boldly typed shingle:

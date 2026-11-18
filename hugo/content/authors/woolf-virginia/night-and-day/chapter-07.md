@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/woolf-virginia/night-and-day/chapter-07.html"
+url: "/authors/woolf-virginia/night-and-day/chapter-07.html"
 ---
 
 "And little Augustus Pelham said to me, ‘It’s the younger generation knocking at the door,’ and I said to him, ‘Oh, but the younger generation comes in without knocking, Mr. Pelham.’ Such a feeble little joke, wasn’t it, but down it went into his notebook all the same."

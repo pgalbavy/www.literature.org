@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - Fighting A Grizzly"
 weight: 30
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-30.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-30.html"
 ---
 
 The grizzly could not fail to detect the ruse of the boy, and he countered by moving around to the other side of the fire, so that he regained his former advantage. The nocturnal visitor had evidently set his mind upon making his supper upon the little chap, whose plump, robust appearance must have been a very tempting bait to him. The latter was reluctant to repeat his maneuver, as, by doing so, he would be forced to pass so near his foe that a big paw might reach out and grasp him while on the way.

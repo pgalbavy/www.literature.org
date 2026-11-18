@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 72 - Of How Don Quixote And Sancho Reached Their Village"
 weight: 128
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-72.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-72.html"
 ---
 
 All that day Don Quixote and Sancho remained in the village and inn waiting for night, the one to finish off his task of scourging in the open country, the other to see it accomplished, for therein lay the accomplishment of his wishes. Meanwhile there arrived at the hostelry a traveller on horseback with three or four servants, one of whom said to him who appeared to be the master, "Here, Señor Don Álvaro Tarfe, your worship may take your siesta to-day; the quarters seem clean and cool."

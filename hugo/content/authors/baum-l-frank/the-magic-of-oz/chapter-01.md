@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/baum-l-frank/the-magic-of-oz/chapter-01.html"
+url: "/authors/baum-l-frank/the-magic-of-oz/chapter-01.html"
 ---
 
 On the east edge of the Land of Oz, in the Munchkin Country, is a big, tall hill called Mount Munch. One one side, the bottom of this hill just touches the Deadly Sandy Desert that separates the Fairyland of Oz from all the rest of the world, but on the other side, the hill touches the beautiful, fertile Country of the Munchkins.

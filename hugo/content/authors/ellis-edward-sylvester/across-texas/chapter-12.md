@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - What Does It Mean?"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-12.html"
 ---
 
 *BEFORE* parting with the Texans, Nick Ribsam handed his field glass to Strubell, with the remark that he and Lattin would be likely to find it of use, and it could be well spared, since Herbert had one of his own. The coffee was prepared before the breaking up took place, for the cooking utensils were to go with the boys, and the men did not expect to have much leisure for preparing the delicious refreshment.

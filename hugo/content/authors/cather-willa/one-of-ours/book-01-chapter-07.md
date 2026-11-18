@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 7"
 weight: 7
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-01-chapter-07.html"
+url: "/authors/cather-willa/one-of-ours/book-01-chapter-07.html"
 ---
 
 It was beginning to grow dark when Claude reached the farm. While Ralph stopped to put away the car, he walked on alone to the house. He never came back without emotion,--try as he would to pass lightly over these departures and returns which were all in the day's work. When he came up the hill like this, toward the tall house with its lighted windows, something always clutched at his heart. He both loved and hated to come home. He was always disappointed, and yet he always felt the rightness of returning to his own place. Even when it broke his spirit and humbled his pride, he felt it was right that he should be thus humbled. He didn't question that the lowest state of mind was the truest, and that the less a man thought of himself, the more likely he was to be correct in his estimate.

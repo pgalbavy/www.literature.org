@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - \"To Be Treated As A Spy\""
 weight: 3
-aliases:
-  - "/authors/davis-richard-harding/with-the-allies/chapter-02.html"
+url: "/authors/davis-richard-harding/with-the-allies/chapter-02.html"
 ---
 
 This story is a personal experience, but is told in spite of that fact and because it illustrates a side of war that is unfamiliar. It is unfamiliar for the reason that it is seamy and uninviting. With bayonet charges, bugle-calls, and aviators it has nothing in common.

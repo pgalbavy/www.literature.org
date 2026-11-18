@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - The House Of Commons"
 weight: 28
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-27.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-27.html"
 ---
 
 Next day was Sunday. Beatrice did not go to church. For one thing, she feared to see Owen Davies there. But she took her Sunday school class as usual, and long did the children remember how kind and patient she was with them that day, and how beautifully she told them the story of the Jewish girl of long ago, who went forth to die for the sake of her father’s oath.

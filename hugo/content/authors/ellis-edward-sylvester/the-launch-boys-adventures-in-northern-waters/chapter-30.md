@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - A Through Ticket To Home"
 weight: 30
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-30.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-30.html"
 ---
 
 There it was in plain sight, rising like a giant nosegay of emerald from the crystalline water. It was barely two acres in extent, and, like nearly all islands great and small in southern Maine, the firs, pines and spruce grew to the very edge of the water. It reminded one of the patches of green earth in Europe where the frugal owners do not allow a square inch to go to waste.

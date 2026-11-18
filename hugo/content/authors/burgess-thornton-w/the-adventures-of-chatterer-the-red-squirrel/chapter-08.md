@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Chatterer Grows Careless"
 weight: 8
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-08.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-08.html"
 ---
 
 When you grow careless even though  

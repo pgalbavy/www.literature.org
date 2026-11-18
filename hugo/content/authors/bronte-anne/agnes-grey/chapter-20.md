@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Farewell"
 weight: 20
-aliases:
-  - "/authors/bronte-anne/agnes-grey/chapter-20.html"
+url: "/authors/bronte-anne/agnes-grey/chapter-20.html"
 ---
 
 A HOUSE in A-, the fashionable watering-place, was hired for our seminary; and a promise of two or three pupils was obtained to commence with. I returned to Horton Lodge about the middle of July, leaving my mother to conclude the bargain for the house, to obtain more pupils, to sell off the furniture of our old abode, and to fit out the new one.

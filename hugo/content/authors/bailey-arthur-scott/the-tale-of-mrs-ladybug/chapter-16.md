@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Playing Dead"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-16.html"
 ---
 
 FARMER GREEN'S apple trees looked green and flourishing. Thanks to Mrs. Ladybug--and some of her relations--there was scarcely an insect left on the leaves. And since there was no more work to be done in the orchard just then, and nothing for her to eat, Mrs. Ladybug settled among the raspberry bushes near the duck pond. She said that they needed her attention.

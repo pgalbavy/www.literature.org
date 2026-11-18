@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Something To Be Done"
 weight: 1
-aliases:
-  - "/authors/london-jack/adventure/chapter-01.html"
+url: "/authors/london-jack/adventure/chapter-01.html"
 ---
 
 He was a very sick white man. He rode pick-a-back on a woolly- headed, black-skinned savage, the lobes of whose ears had been pierced and stretched until one had torn out, while the other carried a circular block of carved wood three inches in diameter. The torn ear had been pierced again, but this time not so ambitiously, for the hole accommodated no more than a short clay pipe. The man-horse was greasy and dirty, and naked save for an exceedingly narrow and dirty loin-cloth; but the white man clung to him closely and desperately. At times, from weakness, his head drooped and rested on the woolly pate. At other times he lifted his head and stared with swimming eyes at the cocoanut palms that reeled and swung in the shimmering heat. He was clad in a thin undershirt and a strip of cotton cloth, that wrapped about his waist and descended to his knees. On his head was a battered Stetson, known to the trade as a Baden-Powell. About his middle was strapped a belt, which carried a large-calibred automatic pistol and several spare clips, loaded and ready for quick work.

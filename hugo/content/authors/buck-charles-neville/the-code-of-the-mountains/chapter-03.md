@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-03.html"
+url: "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-03.html"
 ---
 
 The late convict had wasted his strength. His violent paroxysm of anger had exhausted him more than his laborious tramp. It had sent his temperature up and brought a sickening weakness to his muscles. He wavered as he plodded and once or twice even stumbled to his knees, until at last, with only three-quarters of a mile left, he turned aside to the bank of the roadside and sat down with the sweat of weakness dripping from his face.

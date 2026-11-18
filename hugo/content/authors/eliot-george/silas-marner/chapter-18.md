@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/eliot-george/silas-marner/chapter-18.html"
+url: "/authors/eliot-george/silas-marner/chapter-18.html"
 ---
 
 Some one opened the door at the other end of the room, and Nancy felt that it was her husband. She turned from the window with gladness in her eyes, for the wife's chief dread was stilled.

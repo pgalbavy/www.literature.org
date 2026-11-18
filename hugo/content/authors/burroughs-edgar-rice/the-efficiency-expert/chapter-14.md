@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - In Again--Out Again"
 weight: 14
-aliases:
-  - "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-14.html"
+url: "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-14.html"
 ---
 
 Jimmy Torrance was out of a job a week this time, and once more he was indebted to the Lizard for a position, the latter knowing a politician who was heavily interested in a dairy company, with the result that Jimmy presently found himself driving a milk-wagon. Jimmy's route was on the north side, which he regretted, as it was in the district where a number of the friends of his former life resided. His delivery schedule, however, and the fact that his point of contact with the homes of his customers was at the back door relieved him of any considerable apprehension of being discovered by an acquaintance.

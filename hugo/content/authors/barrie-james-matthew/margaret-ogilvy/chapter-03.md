@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - What I Should Be"
 weight: 3
-aliases:
-  - "/authors/barrie-james-matthew/margaret-ogilvy/chapter-03.html"
+url: "/authors/barrie-james-matthew/margaret-ogilvy/chapter-03.html"
 ---
 
 My mother was a great reader, and with ten minutes to spare before the starch was ready would begin the 'Decline and Fall' - and finish it, too, that winter. Foreign words in the text annoyed her and made her bemoan her want of a classical education - she had only attended a Dame's school during some easy months - but she never passed the foreign words by until their meaning was explained to her, and when next she and they met it was as acquaintances, which I think was clever of her. One of her delights was to learn from me scraps of Horace, and then bring them into her conversation with 'colleged men.' I have come upon her in lonely places, such as the stair-head or the east room, muttering these quotations aloud to herself, and I well remember how she would say to the visitors, 'Ay, ay, it's very true, Doctor, but as you know, "Eheu fugaces, Postume, Postume, labuntur anni,"' or 'Sal, Mr. So-and-so, my lassie is thriving well, but would it no' be more to the point to say, "O matra pulchra filia pulchrior"?' which astounded them very much if she managed to reach the end without being flung, but usually she had a fit of laughing in the middle, and so they found her out.

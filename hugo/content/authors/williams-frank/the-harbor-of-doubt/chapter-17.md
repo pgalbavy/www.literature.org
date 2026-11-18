@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Trawlers"
 weight: 17
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-17.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-17.html"
 ---
 
 Schofield stood as one stupefied, staring blankly at the fateful words.

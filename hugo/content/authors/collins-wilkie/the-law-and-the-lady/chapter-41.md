@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41 - Mr. Playmore In A New Character"
 weight: 41
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-41.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-41.html"
 ---
 
 BY that night's post--although I was far from being fit to make the exertion--I wrote to Mr. Playmore, to tell him what had taken place, and to beg for his earliest assistance and advice.

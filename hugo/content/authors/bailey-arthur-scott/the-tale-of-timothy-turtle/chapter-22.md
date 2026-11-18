@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Unwelcome Guest"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-22.html"
 ---
 
 Ferdinand Frog did not like Timothy Turtle. But he always said he thought Mr. Turtle could be trusted.

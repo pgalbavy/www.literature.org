@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Contrasts"
 weight: 13
-aliases:
-  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-13.html"
+url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-13.html"
 ---
 
 Vernon's idea of a studio was a place to work in, a place where there should be room for all the tools of one's trade, and besides, a great space to walk up and down in those moods that seize on all artists when their work will not come as they want it.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Pretty As A Picture"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-01.html"
 ---
 
 There was something about Ferdinand Frog that made everybody smile. It may have been his amazingly wide mouth and his queer, bulging eyes, or perhaps it was his sprightly manner--for one never could tell when Mr. Frog would leap into the air, or turn a somersault backward. Indeed, some of his neighbors claimed that he himself didn't know what he was going to do next--he was so jumpy.

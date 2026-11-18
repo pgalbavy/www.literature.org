@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-03.html"
+url: "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-03.html"
 ---
 
 The two-storied house of Aaron McGivins stood on a hill-side overlooking a stretch of cleared acreage. It was a dwelling place of unusual pretentiousness for that land of "Do-without," where inexorable meagerness is the rule of life. Just now in a room whose hearth was wide, upon a four-poster bed, lay the master of the place gazing upwards at the rafters with eyes harassed, yet uncomplaining.

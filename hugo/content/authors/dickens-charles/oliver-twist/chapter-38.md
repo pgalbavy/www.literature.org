@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - Containing An Account Of What Passed Between Mr. And Mrs. Bumble, And Mr. Monks, At Their Nocturnal Interview"
 weight: 38
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-38.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-38.html"
 ---
 
 It was a dull, close, overcast summer evening. The clouds, which had been threatening all day, spread out in a dense and sluggish mass of vapour, already yielded large drops of rain, and seemed to presage a violent thunder-storm, when Mr. and Mrs. Bumble, turning out of the main street of the town, directed their course towards a scattered little colony of ruinous houses, distant from it some mile and a-half, or thereabouts, and erected on a low unwholesome swamp, bordering upon the river.

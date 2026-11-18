@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Brother And Sister--The Signal"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/the-story-of-red-feather/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/the-story-of-red-feather/chapter-01.html"
 ---
 
 It is within my memory that Melville Clarendon, a lad of sixteen years, was riding through Southern Minnesota, in company with his sister Dorothy, a sweet little miss not quite half his own age.

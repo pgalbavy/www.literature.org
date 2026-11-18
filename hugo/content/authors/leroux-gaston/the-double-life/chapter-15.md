@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Adolphe Consulted"
 weight: 16
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-15.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-15.html"
 ---
 
 *THEOPHRASTE,* the next day, seemed to have forgotten all the incidents of the night before, or at least to attach very little importance to them.

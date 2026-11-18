@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Coming Shadow"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-25.html"
 ---
 
 Docak, the Esquimau, had no wish to affect any mystery as to the cause of his misgiving. He had not mentioned it of his own accord, because he was debating in his mind which of two courses to adopt: to remain longer in the cavern or to set out at once for his home on the coast. It may be said that except for the appearance of the wolves he would have insisted that the start should be made without delay, and pushed with the utmost vigor until their destination was reached.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - \"Only Two Boys\""
 weight: 12
-aliases:
-  - "/authors/hodgson-burnett-frances/the-lost-prince/chapter-12.html"
+url: "/authors/hodgson-burnett-frances/the-lost-prince/chapter-12.html"
 ---
 
 The words did elate him, and his blood was stirred by them every time they returned to his mind. He remembered them through the days and nights that followed. He sometimes, indeed, awakened from his deep sleep on the hard and narrow sofa in Marco's room, and found that he was saying them half aloud to himself. The hardness of the sofa did not prevent his resting as he had never rested before in his life. By contrast with the past he had known, this poor existence was comfort which verged on luxury. He got into the battered tin bath every morning, he sat at the clean table, and could look at Loristan and speak to him and hear his voice. His chief trouble was that he could hardly keep his eyes off him, and he was a little afraid he might be annoyed. But he could not bear to lose a look or a movement.

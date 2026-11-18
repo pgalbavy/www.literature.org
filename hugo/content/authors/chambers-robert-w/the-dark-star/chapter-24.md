@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Road To Paris"
 weight: 25
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-24.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-24.html"
 ---
 
 Over the drenched sea wall gulls whirled and eddied above the spouting spray; the grey breakwater was smothered under exploding combers; *quai*, docks, white-washed lighthouse, swept with spindrift, appeared and disappeared through the stormy obscurity as the tender from the Channel packet fought its way shoreward with Neeland's luggage lashed in the cabin, and Neeland himself sticking to the deck like a fly to a frantic mustang, enchanted with the whole business.

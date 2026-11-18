@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Ostrog"
 weight: 12
-aliases:
-  - "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-12.html"
+url: "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-12.html"
 ---
 
 Graham could now take a clearer view of his position. For a long time yet he wandered, but after the talk of the old man his discovery of this Ostrog was clear in his mind as the final inevitable decision. One thing was evident, those who were at the headquarters of the revolt had succeeded very admirably in suppressing the fact of his disappearance. But every moment he expected to hear the report of his death or of his recapture by the Council.

@@ -1,8 +1,7 @@
 ---
 title: "Part 8 - Chapter 6"
 weight: 226
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-08-chapter-06.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-08-chapter-06.html"
 ---
 
 Sergey Ivanovitch had not telegraphed to his brother to send to meet him, as he did not know when he should be able to leave Moscow. Levin was not at home when Katavasov and Sergey Ivanovitch in a fly hired at the station drove up to the steps of the Pokrovskoe house, as black as riggers from the dust of the road. Kitty, sitting on the balcony with her father and sister, recognized her brother-in-law, and ran down to meet him.

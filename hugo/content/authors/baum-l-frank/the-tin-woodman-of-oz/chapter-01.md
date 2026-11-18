@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-01.html"
+url: "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-01.html"
 ---
 
 The Tin Woodman sat on his glittering tin throne in the handsome tin hall of his splendid tin castle in the Winkie Country of the Land of Oz. Beside him, in a chair of woven straw, sat his best friend, the Scarecrow of Oz. At times they spoke to one another of curious things they had seen and strange adventures they had known since first they two had met and become comrades. But at times they were silent, for these things had been talked over many times between them, and they found themselves contented in merely being together, speaking now and then a brief sentence to prove they were wide awake and attentive. But then, these two quaint persons never slept. Why should they sleep, when they never tired?

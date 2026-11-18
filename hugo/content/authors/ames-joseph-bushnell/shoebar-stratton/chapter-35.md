@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - The Dead Heart"
 weight: 35
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-35.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-35.html"
 ---
 
 Vaguely, as of a sound coming from far distances, the crack of a revolver-shot penetrated to the girl's numbed brain. It did not surprise her. Indeed, it roused only a feeling of the mildest curiosity in one whose nerves had been strained almost to the breaking-point. When Lynch, with a hoarse cry, toppled back against her, she merely stepped quickly to one side, and an instant later she was on her knees beside Stratton.

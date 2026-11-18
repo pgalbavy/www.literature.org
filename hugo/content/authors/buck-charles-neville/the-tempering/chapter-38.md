@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38"
 weight: 38
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-38.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-38.html"
 ---
 
 Left alone in Wellver's bedroom, Joe Gregory had been thrown back on the companionship of his own thoughts, and they told him that a tide and a wind were mounting which, unless they could he swiftly stemmed, would leave a trail of wreckage along the heights and valleys of Marlin, like drift in the wake of a spring flood-tide; but this would be human wreckage.

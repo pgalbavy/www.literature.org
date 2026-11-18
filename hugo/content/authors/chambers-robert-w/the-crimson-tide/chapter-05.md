@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/chambers-robert-w/the-crimson-tide/chapter-05.html"
+url: "/authors/chambers-robert-w/the-crimson-tide/chapter-05.html"
 ---
 
 In touch with his unexciting business again, after many months of glorious absence, and seated once more at his abhorred yellow-oak desk, young Shotwell discovered it was anything except agreeable for him to gather up the ravelled thrums of civilian life after the thrilling taste of service over seas.

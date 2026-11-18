@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 16"
 weight: 65
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-03-chapter-16.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-03-chapter-16.html"
 ---
 
 Kutuzov accompanied by his adjutants rode at a walking pace behind the carabineers.

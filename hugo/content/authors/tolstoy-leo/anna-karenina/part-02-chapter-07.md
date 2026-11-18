@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 7"
 weight: 41
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-07.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-07.html"
 ---
 
 Steps were heard at the door, and Princess Betsy, knowing it was Madame Karenina, glanced at Vronsky. He was looking towards the door, and his face wore a strange new expression. Joyfully, intently, and at the same time timidly, he gazed at the approaching figure, and slowly he rose to his feet. Anna walked into the drawing room. Holding herself extremely erect, as always, looking straight before her, and moving with her swift, resolute, and light step, that distinguished her from all other society women, she crossed theshort space to her hostess, shook hands with her, smiled, and withthe same smile looked around at Vronsky. Vronsky bowed low and pushed a chair up for her.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-03.html"
+url: "/authors/london-jack/martin-eden/chapter-03.html"
 ---
 
 As Martin Eden went down the steps, his hand dropped into his coat pocket. It came out with a brown rice paper and a pinch of Mexican tobacco, which were deftly rolled together into a cigarette. He drew the first whiff of smoke deep into his lungs and expelled it in a long and lingering exhalation. "By God!" he said aloud, in a voice of awe and wonder. "By God!" he repeated. And yet again he murmured, "By God!" Then his hand went to his collar, which he ripped out of the shirt and stuffed into his pocket. A cold drizzle was falling, but he bared his head to it and unbuttoned his vest, swinging along in splendid unconcern. He was only dimly aware that it was raining. He was in an ecstasy, dreaming dreams and reconstructing the scenes just past.

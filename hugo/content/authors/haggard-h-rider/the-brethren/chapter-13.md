@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Embassy"
 weight: 14
-aliases:
-  - "/authors/haggard-h-rider/the-brethren/chapter-13.html"
+url: "/authors/haggard-h-rider/the-brethren/chapter-13.html"
 ---
 
 The brethren and Rosamund looked at each other, for having so much to say it seemed that they could not speak at all. Then with a low cry Rosamund said:

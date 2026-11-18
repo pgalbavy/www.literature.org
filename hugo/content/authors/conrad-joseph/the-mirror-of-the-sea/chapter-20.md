@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-20.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-20.html"
 ---
 
 IT is difficult for a seaman to believe that his stranded ship does not feel as unhappy at the unnatural predicament of having no water under her keel as he is himself at feeling her stranded.

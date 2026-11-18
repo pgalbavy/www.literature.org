@@ -1,8 +1,7 @@
 ---
 title: "Chapter 65 - Trial"
 weight: 66
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-65.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-65.html"
 ---
 
 It was a stormy and dark night; vast clouds covered the heavens, concealing the stars; the moon would not rise till midnight.

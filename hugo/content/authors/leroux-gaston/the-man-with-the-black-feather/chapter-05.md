@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Theophrastus Shows The Black Feather"
 weight: 6
-aliases:
-  - "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-05.html"
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-05.html"
 ---
 
 From that day the conversations of Theophrastus, Marceline, and Adolphe were of fascinating interest to them. They pored and pored over the document; they discussed over and over again the "Cock," the "Gall," "Chopinettes," and the "Betrayal of April 1st" of the mysterious document. They soon left Azure Waves Villa and returned to Paris to ransack the libraries.

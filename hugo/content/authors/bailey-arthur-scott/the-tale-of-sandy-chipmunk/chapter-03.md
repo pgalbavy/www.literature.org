@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Broken Egg"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-03.html"
 ---
 
 Nuts and grains were what Sandy Chipmunk ate more than anything else. But sometimes when he could not find enough of those, or when he wanted a change of food, he would eat almost any sort of berry, and apples and pears as well. Tomatoes, too, he liked once in a while. And he was very fond of sunflower seeds. He would not refuse a fat insect, either, if it flew his way. But these were not the only dainties that Sandy thought good. There was something else--something to be found in trees--for which Sandy sometimes hunted. And before he came home, after finding what he was looking for, he always wiped his mouth with great care.

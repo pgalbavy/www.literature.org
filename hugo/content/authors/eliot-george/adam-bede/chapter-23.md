@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Dinner-Time"
 weight: 23
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-23.html"
+url: "/authors/eliot-george/adam-bede/chapter-23.html"
 ---
 
 WHEN Adam heard that he was to dine upstairs with the large tenants, he felt rather uncomfortable at the idea of being exalted in this way above his mother and Seth, who were to dine in the cloisters below. But Mr. Mills, the butler, assured him that Captain Donnithorne had given particular orders about it, and would be very angry if Adam was not there.

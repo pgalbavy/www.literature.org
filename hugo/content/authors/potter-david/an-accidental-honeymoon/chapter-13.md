@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/potter-david/an-accidental-honeymoon/chapter-13.html"
+url: "/authors/potter-david/an-accidental-honeymoon/chapter-13.html"
 ---
 
 Toward midnight, the girl lying wakeful in the after cabin heard a tap at the door.

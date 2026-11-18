@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Young Man Goes West"
 weight: 2
-aliases:
-  - "/authors/titus-harold/i-conquered/chapter-02.html"
+url: "/authors/titus-harold/i-conquered/chapter-02.html"
 ---
 
 From the upper four hundreds on Riverside Drive to Broadway where the lower thirties slash through is a long walk. Danny Lenox walked it this June day. As he left the house his stride was long and nervously eager, but before he covered many blocks his gait moderated and the going took hours.

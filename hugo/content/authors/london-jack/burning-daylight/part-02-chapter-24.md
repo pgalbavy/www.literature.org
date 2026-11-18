@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 24"
 weight: 37
-aliases:
-  - "/authors/london-jack/burning-daylight/part-02-chapter-24.html"
+url: "/authors/london-jack/burning-daylight/part-02-chapter-24.html"
 ---
 
 Many persons, themselves city-bred and city-reared, have fled to the soil and succeeded in winning great happiness. In such cases they have succeeded only by going through a process of savage disillusionment. But with Dede and Daylight it was different. They had both been born on the soil, and they knew its naked simplicities and rawer ways. They were like two persons, after far wandering, who had merely come home again. There was less of the unexpected in their dealings with nature, while theirs was all the delight of reminiscence. What might appear sordid and squalid to the fastidiously reared, was to them eminently wholesome and natural. The commerce of nature was to them no unknown and untried trade. They made fewer mistakes. They already knew, and it was a joy to remember what they had forgotten.

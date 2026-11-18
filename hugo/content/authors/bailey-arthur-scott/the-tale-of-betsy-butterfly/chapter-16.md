@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Nothing But A Fraud"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-16.html"
 ---
 
 AT last Joseph Bumble's displeasure passed all control. He began to buzz as loud as he could, hoping to drown Buster Bumblebee's buzzing, so that Buster could no longer talk to Betsy Butterfly.

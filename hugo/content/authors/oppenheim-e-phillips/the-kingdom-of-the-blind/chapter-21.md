@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-21.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-21.html"
 ---
 
 At about half-past ten that evening, Granet suddenly threw down his cue in the middle of a game of billiards, and stood, for a moment, in a listening attitude.

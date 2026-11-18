@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Governess"
 weight: 4
-aliases:
-  - "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-04.html"
+url: "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-04.html"
 ---
 
 MR. PHILIP FLETCHER.

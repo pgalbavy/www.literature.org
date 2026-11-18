@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-07.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-07.html"
 ---
 
 Mrs. Vertrees "sat up" for her daughter, Mr. Vertrees having retired after a restless evening, not much soothed by the society of his Landseers. Mary had taken a key, insisting that he should not come for her and seeming confident that she would not lack for escort; nor did the sequel prove her confidence unwarranted. But Mrs. Vertrees had a long vigil of it.

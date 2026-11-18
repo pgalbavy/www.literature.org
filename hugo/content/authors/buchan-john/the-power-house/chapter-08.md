@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Power-House"
 weight: 9
-aliases:
-  - "/authors/buchan-john/the-power-house/chapter-08.html"
+url: "/authors/buchan-john/the-power-house/chapter-08.html"
 ---
 
 I left Belgrave Square about a quarter to eight and retraced my steps along the route which for me that afternoon had been so full of tremors. I was still being watched—a little observation told me that—but I would not be interfered with, provided my way lay in a certain direction. So completely without nervousness was I that at the top of Constitution Hill I struck into the Green Park and kept to the grass till I emerged into Piccadilly, opposite Devonshire House. A light wind had risen and the evening had grown pleasantly cool. I met several men I knew going out to dinner on foot and stopped to exchange greetings. From my clothes they thought I had just returned from a day in the country.

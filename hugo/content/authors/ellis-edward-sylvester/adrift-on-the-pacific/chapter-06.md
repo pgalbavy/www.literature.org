@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - \"Port Your Helm!\""
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-06.html"
 ---
 
 When a thorough search of the steamer *Polynesia* made known the truth that little Inez Hawthorne was nowhere upon it, the sorrowful conclusion was that she had fallen overboard in some manner and been drowned.

@@ -1,8 +1,7 @@
 ---
 title: "chapter 26"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-26.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-26.html"
 ---
 
 There was a jumble market every Monday afternoon in the old market-place in town. Ursula and Birkin strayed down there one afternoon. They had been talking of furniture, and they wanted to see if there was any fragment they would like to buy, amid the heaps of rubbish collected on the cobble-stones.

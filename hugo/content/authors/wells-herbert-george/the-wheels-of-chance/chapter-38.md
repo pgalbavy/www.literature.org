@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - At The Rufus Stone "
 weight: 38
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-38.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-38.html"
 ---
 
 He folded his arms as Dangle and Phipps returned towards him. Phipps was abashed by his inability to cope with the tandem, which he was now wheeling, but Dangle was inclined to be quarrelsome. "Miss Milton?" he said briefly.

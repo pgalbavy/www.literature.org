@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/tarkington-booth/harlequin-and-columbine/chapter-01.html"
+url: "/authors/tarkington-booth/harlequin-and-columbine/chapter-01.html"
 ---
 
 For a lucky glimpse of the great Talbot Potter, the girls who caught it may thank that conjunction of Olympian events which brings within the boundaries of one November week the Horse Show and the roaring climax of the football months and the more dulcet, yet vast, beginning of the opera season. Some throbbing of attendant multitudes coming to the ears of Talbot Potter, he obeyed an inward call to walk to rehearsal by way of Fifth Avenue, and turning out of Forty-fourth Street to become part of the people-sea of the southward current, felt the eyes of the northward beating upon his face like the pulsing successions of an exhilarating surf. His Fifth Avenue knew its Talbot Potter.

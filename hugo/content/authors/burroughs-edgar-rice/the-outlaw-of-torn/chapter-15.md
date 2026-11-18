@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-15.html"
+url: "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-15.html"
 ---
 
 When word of the death of Joan de Tany reached Torn, no man could tell from outward appearance the depth of the suffering which the sad intelligence wrought on the master of Torn.

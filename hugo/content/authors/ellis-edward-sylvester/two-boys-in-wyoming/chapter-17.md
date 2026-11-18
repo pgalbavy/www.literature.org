@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Into And Out Of The Canyon"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-17.html"
 ---
 
 Jack Dudley's enforced idleness had become intolerable. He could stay no longer in the place from which Hank Hazletine had departed a half-hour before. It was a waste of time to speculate over the intentions of the veteran, and the youth made no attempt to do so. He had set out to see whether he could act even an insignificant part in the recovery of his loved comrade.

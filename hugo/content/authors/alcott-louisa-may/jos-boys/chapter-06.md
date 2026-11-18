@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Last Words"
 weight: 6
-aliases:
-  - "/authors/alcott-louisa-may/jos-boys/chapter-06.html"
+url: "/authors/alcott-louisa-may/jos-boys/chapter-06.html"
 ---
 
 The next day was Sunday, and a goodly troop of young and old set forth to church. - some driving, some walking, all enjoying the lovely weather and the happy quietude which comes to refresh us when the work and worry of the week are over. Daisy had a headache; and Aunt Jo remained at home to keep her company, knowing very well that the worst ache was in the tender heart struggling dutifully against the love that grew stronger as the parting drew nearer.

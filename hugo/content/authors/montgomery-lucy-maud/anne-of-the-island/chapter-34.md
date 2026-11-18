@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - John Douglas Speaks At Last"
 weight: 34
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-34.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-34.html"
 ---
 
 Anne was not without a feeble hope that something might come of it after all. But nothing did. John Douglas came and took Janet driving, and walked home from prayer-meeting with her, as he had been doing for twenty years, and as he seemed likely to do for twenty years more. The summer waned. Anne taught her school and wrote letters and studied a little. Her walks to and from school were pleasant. She always went by way of the swamp; it was a lovely place -- a boggy soil, green with the greenest of mossy hillocks; a silvery brook meandered through it and spruces stood erectly, their boughs a-trail with gray-green mosses, their roots overgrown with all sorts of woodland lovelinesses.

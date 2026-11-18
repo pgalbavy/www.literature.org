@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-21.html"
+url: "/authors/london-jack/john-barleycorn/chapter-21.html"
 ---
 
 But behold! As soon as I went out on the adventure-path I met John Barleycorn again. I moved through a world of strangers, and the act of drinking together made one acquainted with men and opened the way to adventures. It might be in a saloon with jingled townsmen, or with a genial railroad man well lighted up and armed with pocket flasks, or with a bunch of alki stiffs in a hang-out. Yes; and it might be in a prohibition state, such as Iowa was in 1894, when I wandered up the main street of Des Moines and was variously invited by strangers into various blind pigs--I remember drinking in barber-shops, plumbing establishments, and furniture stores.

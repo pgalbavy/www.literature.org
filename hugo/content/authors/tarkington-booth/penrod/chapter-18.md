@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Music"
 weight: 18
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-18.html"
+url: "/authors/tarkington-booth/penrod/chapter-18.html"
 ---
 
 Boyhood is the longest time in life for a boy. The last term of the school-year is made of decades, not of weeks, and living through them is like waiting for the millennium. But they do pass, somehow, and at last there came a day when Penrod was one of a group that capered out from the gravelled yard of "Ward School, Nomber Seventh," carolling a leave-taking of the institution, of their instructress, and not even forgetting Mr. Capps, the janitor.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Richard Comes"
 weight: 14
-aliases:
-  - "/authors/haggard-h-rider/the-ghost-kings/chapter-13.html"
+url: "/authors/haggard-h-rider/the-ghost-kings/chapter-13.html"
 ---
 
 As the sun set Rachel rose and walked to her hut. She was utterly dazed, she could not understand. Was this but a fiction of an overwrought and disordered mind, or had she seen a vision of things passing, or that had passed, far away? If it were a dream, then this was but another drop in her cup of bitterness. If a true vision--oh! then what did it mean to her? It meant that Richard Darrien lived, Richard, of whom her heart had been full for years. It meant that his heart was full of her also, for had she not seemed to hear him say that he had travelled from the Cape with the Boers to look for her, and was he not journeying alone through a hostile land to pursue his search? Who would do such a thing for the sake of a girl unless--unless? It meant that he would protect her, would rescue her from her terrible plight, would take her from among these savages to her home again--oh! and perhaps much more that she did not dare to picture to herself.

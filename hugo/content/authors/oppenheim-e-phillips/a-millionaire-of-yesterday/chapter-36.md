@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 36
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-36.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-36.html"
 ---
 
 The old man and the girl were equally terrified, both without cause. Da Souza forgot for a moment to be angry at his daughter's disobedience; and was quick to see that her presence there was all to his advantage. Monty, as white as death, was stricken dumb to see Trent. He sank back gasping into a chair. Trent came up to him with outstretched hands and with a look of keen pity in his hard face.

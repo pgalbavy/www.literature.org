@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Expert"
 weight: 12
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-12.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-12.html"
 ---
 
 Like the way of an eagle in the air or the way of a man with a maid, the ways of a mining promoter must be shrouded in mystery and doubt. For when he wants to buy, no man will sell; and when he wants to sell, no man will buy; and when he will neither buy nor sell he is generally suspected of both. Wiley Holman had two fights and a charge of buckshot to prove that he wanted the Paymaster, and the fact that he had refused a half interest for nothing to prove that he did not want it. Also he had sold his tax-title to the property for the sum of one hundred dollars. What then did it signify when he bought Virginia's despised stock for four hundred dollars, cash down? The man who could answer that could explain the way of a man with a maid.

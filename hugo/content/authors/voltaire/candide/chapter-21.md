@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Candide and Martin, While Thus Reasoning with Each Other, Draw Near to the Coast of France"
 weight: 21
-aliases:
-  - "/authors/voltaire/candide/chapter-21.html"
+url: "/authors/voltaire/candide/chapter-21.html"
 ---
 
 At length they descried the coast of France, when Candide said to Martin, "Pray Monsieur Martin, were you ever in France?"

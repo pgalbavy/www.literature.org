@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Beck's Departure"
 weight: 23
-aliases:
-  - "/authors/titus-harold/the-last-straw/chapter-23.html"
+url: "/authors/titus-harold/the-last-straw/chapter-23.html"
 ---
 
 Night had come upon the round-up camp, fires near the cook wagon were dying. On the rise to the southward the night-hawk sat with an eye on the saddle stock which grazed over a wide area and in their tee-pees the men were sleeping, preparatory to the first day's riding.

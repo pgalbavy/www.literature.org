@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 1 - The Riddle For The Statesman"
 weight: 9
-aliases:
-  - "/authors/wells-herbert-george/the-new-machiavelli/book-03-chapter-01.html"
+url: "/authors/wells-herbert-george/the-new-machiavelli/book-03-chapter-01.html"
 ---
 
 1

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Mr. Crow's Plan"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-11.html"
 ---
 
 Yes! Old Mr. Crow had made up his mind about something. After Jasper Jay and Frisky Squirrel and Fatty Coon had come and crouched under his umbrella, and Christopher Crane had perched himself on top of it, and Mr. Crow had fallen off the fence, the old gentleman decided that he would take no more chances. The next time it rained he knew exactly what he was going to do.

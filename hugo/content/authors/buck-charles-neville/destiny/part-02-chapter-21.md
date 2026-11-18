@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 21"
 weight: 21
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-21.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-21.html"
 ---
 
 One gray and penetrating afternoon laid its depressing fingers on Paul Burton's heart with a heavier touch than usual. Even Hamilton was wearing a frowning and unsympathetic brow these days, and when the musician saw Mary, despite the inflexible courage of her eyes, there was something in them that hurt him to the quick. He knew and shared his mother's grief, but could not bear the trace of unshed tears in her voice. So, seeking asylum from the anxious ghosts that stalked between the walls of his house, he made his way down-town and rang the bell on Marcia Terroll's door. There are women men go to in triumph and women they go to when hurt. Often they are not the same women. It was a raw, bleak afternoon of disheartening drizzle and a reek of fog which veiled the tops of the taller buildings. As he waited for an answer to his ring, he could hear the fog-horn voice groaning over river and bay as though some huge monster were troubled in its sleep.

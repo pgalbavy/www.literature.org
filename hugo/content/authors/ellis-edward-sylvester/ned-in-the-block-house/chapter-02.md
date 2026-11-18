@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Boy Pioneer--Deerfoot, The Shawanoe"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-02.html"
 ---
 
 Before proceeding further it is proper to give the information the reader needs in order to understand the incidents that follow.

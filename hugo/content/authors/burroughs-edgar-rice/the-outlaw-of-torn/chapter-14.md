@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-14.html"
+url: "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-14.html"
 ---
 
 Some hours later, fifty men followed Norman of Torn on foot through the ravine below the castle where John de Fulm, Earl of Buckingham, had his headquarters; while nearly a thousand more lurked in the woods before the grim pile.

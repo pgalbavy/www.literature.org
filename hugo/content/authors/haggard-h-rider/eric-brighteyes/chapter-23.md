@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - How Eric Was A Guest At The Wedding-Feast Of Gudruda The Faireric Looked, But Said Nothing"
 weight: 24
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-23.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-23.html"
 ---
 
 “Who art thou?” whined the carline, gazing up at him with tear-blinded eyes. But Eric’s face was in the shadow, and she only saw the glint of his golden hair and the flash of the golden helm. For Eric could not speak yet a while.

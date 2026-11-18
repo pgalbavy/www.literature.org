@@ -1,8 +1,7 @@
 ---
 title: "Leaf 4 - Scattered Jam"
 weight: 4
-aliases:
-  - "/authors/daviess-maria-thompson/the-melting-of-molly/leaf-04.html"
+url: "/authors/daviess-maria-thompson/the-melting-of-molly/leaf-04.html"
 ---
 
 Sleep is one of the most delightful and undervalued amusements known to the human race. I have never had enough yet and every second of time that I'm not busy with something interesting I curl up on the bed and go dream hunting--only I sleep too hard to do much catching. But this torture book found that out on me and stopped it the very first thing on page three. The command is to sleep as little as possible to keep the nerves in a good condition,--"eight hours at the most and seven would be better." What earthly good would a seven-hour nap do me? I want ten hours to sleep and twelve if I get a good tired start. To see me stagger out of my perfectly nice bed at six o'clock every morning now would wring the sternest heart with compassion and admiration at my faithfulness--to whom?

@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 63 - Of The Mishap That Befell Sancho Panza Through The Visit To The Galleys, And The Strange Adventure Of The Fair Morisco"
 weight: 119
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-63.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-63.html"
 ---
 
 Profound were Don Quixote’s reflections on the reply of the enchanted head, not one of them, however, hitting on the secret of the trick, but all concentrated on the promise, which he regarded as a certainty, of Dulcinea’s disenchantment. This he turned over in his mind again and again with great satisfaction, fully persuaded that he would shortly see its fulfillment; and as for Sancho, though, as has been said, he hated being a governor, still he had a longing to be giving orders and finding himself obeyed once more; this is the misfortune that being in authority, even in jest, brings with it.

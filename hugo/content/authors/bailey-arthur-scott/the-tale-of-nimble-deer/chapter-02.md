@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Learning Things"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-02.html"
 ---
 
 Nimble's mother hadn't liked Mr. Grouse's remark about Foxes. Somehow she couldn't put Foxes out of her mind. And not once did she mean to let Nimble wander out of her sight.

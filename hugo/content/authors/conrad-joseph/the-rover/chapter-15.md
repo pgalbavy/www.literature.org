@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/conrad-joseph/the-rover/chapter-15.html"
+url: "/authors/conrad-joseph/the-rover/chapter-15.html"
 ---
 
 Catherine, going downstairs, found Peyrol still at the well. He seemed to be looking into it with extreme interest.

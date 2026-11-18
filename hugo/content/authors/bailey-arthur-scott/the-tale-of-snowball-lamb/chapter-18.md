@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Swing"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-18.html"
 ---
 
 As Snowball grew older he began to enjoy a fine, new sport. At least this sport was new to him. All the old rams had enjoyed it for years. But it was not until Snowball's horns began to grow that he became interested in having fun in this way.

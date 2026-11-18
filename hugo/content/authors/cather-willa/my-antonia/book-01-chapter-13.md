@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 13"
 weight: 14
-aliases:
-  - "/authors/cather-willa/my-antonia/book-01-chapter-13.html"
+url: "/authors/cather-willa/my-antonia/book-01-chapter-13.html"
 ---
 
 THE WEEK FOLLOWING Christmas brought in a thaw, and by New Year’s Day all the world about us was a broth of grey slush, and the guttered slope between the windmill and the barn was running black water. The soft black earth stood out in patches along the roadsides. I resumed all my chores, carried in the cobs and wood and water, and spent the afternoons at the barn, watching Jake shell corn with a hand-sheller.

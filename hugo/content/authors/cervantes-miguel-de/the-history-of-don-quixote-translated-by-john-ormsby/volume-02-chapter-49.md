@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 49 - Of What Happened Sancho In Making The Round Of His Island"
 weight: 105
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-49.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-49.html"
 ---
 
 We left the great governor angered and irritated by that portrait-painting rogue of a farmer who, instructed the majordomo, as the majordomo was by the duke, tried to practise upon him; he however, fool, boor, and clown as he was, held his own against them all, saying to those round him and to Doctor Pedro Recio, who as soon as the private business of the duke’s letter was disposed of had returned to the room, "Now I see plainly enough that judges and governors ought to be and must be made of brass not to feel the importunities of the applicants that at all times and all seasons insist on being heard, and having their business despatched, and their own affairs and no others attended to, come what may; and if the poor judge does not hear them and settle the matter—either because he cannot or because that is not the time set apart for hearing them—forthwith they abuse him, and run him down, and gnaw at his bones, and even pick holes in his pedigree. You silly, stupid applicant, don’t be in a hurry; wait for the proper time and season for doing business; don’t come at dinner-hour, or at bed-time; for judges are only flesh and blood, and must give to Nature what she naturally demands of them; all except myself, for in my case I give her nothing to eat, thanks to Señor Doctor Pedro Recio Tirteafuera here, who would have me die of hunger, and declares that death to be life; and the same sort of life may God give him and all his kind—I mean the bad doctors; for the good ones deserve palms and laurels."

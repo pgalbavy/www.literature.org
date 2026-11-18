@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 41 - Of The Arrival Of Clavileño And The End Of This Protracted Adventure"
 weight: 97
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-41.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-41.html"
 ---
 
 And now night came, and with it the appointed time for the arrival of the famous horse Clavileño, the non-appearance of which was already beginning to make Don Quixote uneasy, for it struck him that, as Malambruno was so long about sending it, either he himself was not the knight for whom the adventure was reserved, or else Malambruno did not dare to meet him in single combat. But lo! suddenly there came into the garden four wild-men all clad in green ivy bearing on their shoulders a great wooden horse. They placed it on its feet on the ground, and one of the wild-men said, "Let the knight who has heart for it mount this machine."

@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 11"
 weight: 28
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-03-chapter-11.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-03-chapter-11.html"
 ---
 
 The author leaves Luggnagg, and sails to Japan. From thence he returns in a Dutch ship to Amsterdam, and from Amsterdam to England.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Reason Why The Voyage Was Undertaken"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-07.html"
 ---
 
 At this point it is necessary that the reader should be made acquainted with what has been only hinted up to this point. We mean the reason why it was that the little schooner *Coral*, under the charge of Captain Bergen and Abram Storms, the mate, was on the Pacific Ocean, voyaging toward the South Seas.

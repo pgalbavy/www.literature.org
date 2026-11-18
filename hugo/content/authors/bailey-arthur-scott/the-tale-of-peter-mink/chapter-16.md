@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Duck Pond"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-16.html"
 ---
 
 Sometimes Peter Mink grew tired of not knowing where he was going to sleep. And now and then, when he happened to be in some neighborhood that he liked, he would try to find a place where he might stay until he felt like roaming on again.

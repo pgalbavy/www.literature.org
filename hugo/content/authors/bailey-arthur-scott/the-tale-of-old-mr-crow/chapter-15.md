@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Mr. Crow's New Coat"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-15.html"
 ---
 
 When Mr. Crow decided, one fall, that he would stay in Pleasant Valley during the winter, instead of going South, he remembered at once that he would need a thick overcoat.

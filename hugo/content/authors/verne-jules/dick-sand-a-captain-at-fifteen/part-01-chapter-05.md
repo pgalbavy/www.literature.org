@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 5 - S. V."
 weight: 5
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-05.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-05.html"
 ---
 
 Meanwhile, the "Pilgrim" had continued her course, making for the east as much as possible. This lamentable continuance of calms did not cease to trouble Captain Hull - not that he was uneasy about two or three weeks' delay in a passage from New Zealand to Valparaiso, but because of the extra fatigue which this delay might bring to his lady passenger.

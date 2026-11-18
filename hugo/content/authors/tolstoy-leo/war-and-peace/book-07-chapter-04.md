@@ -1,8 +1,7 @@
 ---
 title: "Book 7 - Chapter 4"
 weight: 136
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-07-chapter-04.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-07-chapter-04.html"
 ---
 
 The old count, who had always kept up an enormous hunting establishment but had now handed it all completely over to his son's care, being in very good spirits on this fifteenth of September, prepared to go out with the others.

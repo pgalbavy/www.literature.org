@@ -1,8 +1,7 @@
 ---
 title: "Book 8 - Chapter 1"
 weight: 146
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-08-chapter-01.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-08-chapter-01.html"
 ---
 
 BOOK EIGHT: 1811 - 12

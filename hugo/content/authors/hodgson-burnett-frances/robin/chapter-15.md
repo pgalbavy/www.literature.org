@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-15.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-15.html"
 ---
 
 The swiftness of the process by which the glowing little Miss Lawless, at whom people had found themselves involuntarily looking so often, changed from a rose of a girl into something strangely like a small waxen image which walked, called forth frequent startled comment. She was glanced at even oftener than ever.

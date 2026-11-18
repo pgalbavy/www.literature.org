@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 13"
 weight: 13
-aliases:
-  - "/authors/austen-jane/emma/volume-01-chapter-13.html"
+url: "/authors/austen-jane/emma/volume-01-chapter-13.html"
 ---
 
 There could hardly be a happier creature in the world than Mrs. John Knightley, in this short visit to Hartfield, going about every morning among her old acquaintance with her five children, and talking over what she had done every evening with her father and sister. She had nothing to wish otherwise, but that the days did not pass so swiftly. It was a delightful visit;--perfect, in being much too short.

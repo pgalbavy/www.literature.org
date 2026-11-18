@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - A Golden Wedding Gift"
 weight: 26
-aliases:
-  - "/authors/mckishnie-archie-p/a-son-of-courage/chapter-26.html"
+url: "/authors/mckishnie-archie-p/a-son-of-courage/chapter-26.html"
 ---
 
 Bad news travels fast but good news wings its way quite as speedily. Life teaches the human heart to accept the one bravely and to laugh happily with the other, for after all life is just a ringing note that sounds through and above the eternal weaving of God's shuttle--at times clear, reaching to the highest stars; at other times a minor wail of pain. But the weaving goes on, drab threads mingling with the brighter ones; and so the heart learns to withstand, and better still to hope. It may be, when the shuttle runs slower and the fabric is all but woven, if the weaver is brave and strong he is able to decipher the riddle of it all. "If you would experience happiness, find it in the happiness of others."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Little Author Lady"
 weight: 13
-aliases:
-  - "/authors/brown-ruth-alberta/heart-of-gold/chapter-13.html"
+url: "/authors/brown-ruth-alberta/heart-of-gold/chapter-13.html"
 ---
 
 "Well, Peace, my dear little Peace, I am afraid the time has come for me to leave you."

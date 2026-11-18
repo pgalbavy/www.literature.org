@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Mr. Isaac Perkins"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-08.html"
 ---
 
 Grinning in his imperturbable fashion, the Mohawk turned part way round, and made a signal, evidently for some one invisible to all. Be that as it may, it was instantly responded to by the coming forward of a man in the ordinary dress of a farmer settler of the valley. He had an honest countenance, and was about forty years old. As he came into full view, so that the firelight fell full upon his face, he was recognized as an old acquaintance, named Perkins, who lived but a short distance from where the camp fire was burning.

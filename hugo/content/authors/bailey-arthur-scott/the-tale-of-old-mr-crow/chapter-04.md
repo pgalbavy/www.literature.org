@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Caught Napping"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-04.html"
 ---
 
 It was several days before Mr. Crow stopped sulking. He was very angry with Farmer Green for placing the giant in the cornfield. And he told his friends that he had about made up his mind he would move to some other neighborhood.

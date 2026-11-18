@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Obtaining Supplies"
 weight: 2
-aliases:
-  - "/authors/alcott-louisa-may/hospital-sketches/chapter-01.html"
+url: "/authors/alcott-louisa-may/hospital-sketches/chapter-01.html"
 ---
 
 "I want something to do."

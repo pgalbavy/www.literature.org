@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 30 - Of Don Quixote’s Adventure With A Fair Huntress"
 weight: 86
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-30.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-30.html"
 ---
 
 They reached their beasts in low spirits and bad humour enough, knight and squire, Sancho particularly, for with him what touched the stock of money touched his heart, and when any was taken from him he felt as if he was robbed of the apples of his eyes. In fine, without exchanging a word, they mounted and quitted the famous river, Don Quixote absorbed in thoughts of his love, Sancho in thinking of his advancement, which just then, it seemed to him, he was very far from securing; for, fool as he was, he saw clearly enough that his master’s acts were all or most of them utterly senseless; and he began to cast about for an opportunity of retiring from his service and going home some day, without entering into any explanations or taking any farewell of him. Fortune, however, ordered matters after a fashion very much the opposite of what he contemplated.

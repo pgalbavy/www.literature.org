@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - An Historic Secret"
 weight: 6
-aliases:
-  - "/authors/leblanc-maurice/the-hollow-needle/chapter-06.html"
+url: "/authors/leblanc-maurice/the-hollow-needle/chapter-06.html"
 ---
 
 Beautrelet's resolve was soon taken: he would act alone. To inform the police was too dangerous. Apart from the fact that he could only offer presumptions, he dreaded the slowness of the police, their inevitable indiscretions, the whole preliminary inquiry, during which Lupin, who was sure to be warned, would have time to effect a retreat in good order.

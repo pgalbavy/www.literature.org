@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Wherein Sir Jeoffry'S Boon Companions Drink A Toast"
 weight: 4
-aliases:
-  - "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-03.html"
+url: "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-03.html"
 ---
 
 Her beauty of face, her fine body, her strength of limb, and great growth for her age, would have pleased him if she had possessed no other attraction, but the daring of her fury and her stable-boy breeding so amused him and suited his roystering tastes that he took to her as the finest plaything in the world.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 121 - Midnight - The Forecastle Bulwarks"
 weight: 121
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-121.html"
+url: "/authors/melville-herman/moby-dick/chapter-121.html"
 ---
 
 Stubb and Flask mounted on them, and passing additional lashings over the anchors there hanging.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/hodgson-burnett-frances/little-lord-fauntleroy/chapter-06.html"
+url: "/authors/hodgson-burnett-frances/little-lord-fauntleroy/chapter-06.html"
 ---
 
 When Lord Fauntleroy wakened in the morning,--he had not wakened at all when he had been carried to bed the night before,--the first sounds he was conscious of were the crackling of a wood fire and the murmur of voices.

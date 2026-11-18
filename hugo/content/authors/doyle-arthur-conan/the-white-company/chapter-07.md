@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - How The Three Comrades Journeyed Through The Woodlands"
 weight: 7
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-07.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-07.html"
 ---
 
 AT early dawn the country inn was all alive, for it was rare indeed that an hour of daylight would be wasted at a time when lighting was so scarce and dear. Indeed, early as it was when Dame Eliza began to stir, it seemed that others could be earlier still, for the door was ajar, and the learned student of Cambridge had taken himself off, with a mind which was too intent upon the high things of antiquity to stoop to consider the four- pence which he owed for bed and board. It was the shrill out-cry of the landlady when she found her loss, and the clucking of the hens, which had streamed in through the open door, that first broke in upon the slumbers of the tired wayfarers.

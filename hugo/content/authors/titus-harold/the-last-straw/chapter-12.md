@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - A Neighborly Call"
 weight: 12
-aliases:
-  - "/authors/titus-harold/the-last-straw/chapter-12.html"
+url: "/authors/titus-harold/the-last-straw/chapter-12.html"
 ---
 
 The mountains which had been brown and saffron when Jane Hunter came to take possession of her ranch grew tinted with green as grasses sprouted under the coaxing sun. Piñons were edged with lighter tints, contrasting sharply with the deep color of older growth. Service bushes turned cream color with bloom and sage put out new growth; calves, high-tailed and venturesome, frolicked between frequent meals from swollen udders, birds nested and shy mountain flowers completed their scant cycle.

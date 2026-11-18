@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/huxley-aldous/crome-yellow/chapter-28.html"
+url: "/authors/huxley-aldous/crome-yellow/chapter-28.html"
 ---
 
 Towards sunset the fair itself became quiescent. It was the hour for the dancing to begin. At one side of the village of tents a space had been roped off. Acetylene lamps, hung round it on posts, cast a piercing white light. In one corner sat the band, and, obedient to its scraping and blowing, two or three hundred dancers trampled across the dry ground, wearing away the grass with their booted feet. Round this patch of all but daylight, alive with motion and noise, the night seemed preternaturally dark. Bars of light reached out into it, and every now and then a lonely figure or a couple of lovers, interlaced, would cross the bright shaft, flashing for a moment into visible existence, to disappear again as quickly and surprisingly as they had come.

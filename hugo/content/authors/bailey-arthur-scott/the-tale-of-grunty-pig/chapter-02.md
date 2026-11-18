@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A New Way To Eat"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-02.html"
 ---
 
 One thing, especially, distressed Mrs. Pig. Her children would put their fore feet right into the trough when they ate their meals out of it. Nothing she said to them made the slightest difference. Even when she told them that they were little pigs they didn't seem to care.

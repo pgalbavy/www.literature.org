@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-17.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-17.html"
 ---
 
 He was alone with the Duchess. The doors were closed, and the world shut out by her own order. She leaned against the high back of her chair, watching him intently as she listened. He walked slowly up and down the room with long paces. He had been doing it for some time and he had told her from beginning to end the singular story of what had happened when he found Robin lying face downward on the moss in Mersham Wood.

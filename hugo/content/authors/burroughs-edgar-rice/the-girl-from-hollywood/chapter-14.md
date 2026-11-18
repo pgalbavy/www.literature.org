@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-14.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-14.html"
 ---
 
 The day of the funeral had come and gone. It had been a very hard one for Shannon. She had determined that on this day, at least, she would not touch the little hypodermic syringe. She owed that much respect to the memory of her mother. And she had fought--God, how she had fought!--with screaming nerves that would not be quiet, with trembling muscles, and with a brain that held but a single thought--morphine, morphine, morphine!

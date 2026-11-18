@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Making Ready For Winter"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-14.html"
 ---
 
 After his escape from Solomon Owl and Simon Screecher, Dickie Deer Mouse never felt quite so care-free as he always had before, when wandering through the woods at night. And he never stayed inside his house after dark without wondering whether Solomon or Simon could by any chance discover his snug home in the last year's bird's nest. It was not a pleasant thought. And the oftener it popped into Dickie's head the less he liked it.

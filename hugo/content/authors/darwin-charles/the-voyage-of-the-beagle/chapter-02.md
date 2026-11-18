@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Rio de Janeiro"
 weight: 3
-aliases:
-  - "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-02.html"
+url: "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-02.html"
 ---
 
 arrow_rightRio de Janeiro arrow_rightExcursion north of Cape Frio arrow_rightGreat Evaporation arrow_rightSlavery arrow_rightBotofogo Bay arrow_rightTerrestrial Planariae arrow_rightClouds on the Corcovado arrow_rightHeavy Rain arrow_rightMusical Frogs arrow_rightPhosphorescent Insects arrow_rightElater, springing powers of arrow_rightBlue Haze arrow_rightNoise made by a Butterfly arrow_rightEntomology arrow_rightAnts arrow_rightWasp killing a Spider arrow_rightParasitical Spider arrow_rightArtifices of an Epeira arrow_rightGregarious Spider arrow_rightSpider with an unsymmetrical Web. ---

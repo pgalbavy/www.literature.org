@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - The End Of The Freshman's Year"
 weight: 30
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-28.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-28.html"
 ---
 
 On the morning after Commemoration, Oxford was in a bustle of departure. The play had been played, the long vacation had begun, and visitors and members seemed equally anxious to be off. At the gates of the colleges, groups of men in travelling-dresses waited for the coaches, omnibuses, dog-carts and all manner of vehicles, which were to carry them to the Great Western railway station at Steventon, or elsewhere, to all points of the compass. Porters passed in and out with portmanteaus, gun-cases, and baggage of all kinds, which they piled outside the gates, or carried off to "The Mitre" or "The Angel," under the vigorous and not too courteous orders of the owners. College servants flitted round the groups to take instructions, and, it so might be, to extract the balances of extortionate bills out of their departing masters. Dog-fanciers were there also, holding terriers; and scouts from the cricketing grounds, with bats and pads under their arms; and hostlers, and men from the boats, all on the same errand of getting the last shilling out of their patrons—a fawning, obsequious crowd for the most part, with here and there a sturdy Briton who felt that he was only there for his due.

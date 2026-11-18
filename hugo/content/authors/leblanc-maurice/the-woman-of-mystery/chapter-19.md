@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Hohenzollern"
 weight: 19
-aliases:
-  - "/authors/leblanc-maurice/the-woman-of-mystery/chapter-19.html"
+url: "/authors/leblanc-maurice/the-woman-of-mystery/chapter-19.html"
 ---
 
 The cellar, though smaller, looked like one of those large vaulted basement halls which prevail in the Champagne district. Walls spotlessly clean, a smooth floor with brick paths running across it, a warm atmosphere, a curtained-off recess between two wine vats, chairs, benches and rugs all went to form not only a comfortable abode, out of the way of the shells, but also a safe refuge for any one who stood in fear of indiscreet visits.

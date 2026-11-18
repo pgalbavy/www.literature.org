@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-17.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-17.html"
 ---
 
 That "mystery about pianos" which troubled Bibbs had been a mystery to Mr. Vertrees, and it was being explained to him at about the time Bibbs scribbled the reference to it in his notes. Mary had gone up-stairs upon Bibbs's departure at ten o'clock, and Mr. and Mrs. Vertrees sat until after midnight in the library, talking. And in all that time they found not one cheerful topic, but became more depressed with everything and with every phase of everything that they discussed—no extraordinary state of affairs in a family which has always "held up its head," only to arrive in the end at a point where all it can do is to look on helplessly at the processes of its own financial dissolution. For that was the point which this despairing couple had reached—they could do nothing except look on and talk about it. They were only vaporing, and they knew it.

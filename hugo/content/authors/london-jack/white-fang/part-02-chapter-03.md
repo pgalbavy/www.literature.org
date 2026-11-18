@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 3 - The Grey Cub"
 weight: 6
-aliases:
-  - "/authors/london-jack/white-fang/part-02-chapter-03.html"
+url: "/authors/london-jack/white-fang/part-02-chapter-03.html"
 ---
 
 He was different from his brothers and sisters. Their hair already betrayed the reddish hue inherited from their mother, the she-wolf; while he alone, in this particular, took after his father. He was the one little grey cub of the litter. He had bred true to the straight wolf-stock - in fact, he had bred true to old One Eye himself, physically, with but a single exception, and that was he had two eyes to his father's one.

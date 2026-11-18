@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Grunty Means Mischief"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-15.html"
 ---
 
 Jolly Robin and his wife told all their friends that Grunty Pig was going to teach them a lesson. The birds had many a laugh over the matter. Not till old Mr. Crow visited the orchard one day did the Robin family cease chuckling over what they called "the joke of the season."

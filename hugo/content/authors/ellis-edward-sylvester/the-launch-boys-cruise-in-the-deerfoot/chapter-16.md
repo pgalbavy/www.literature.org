@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - On Barter Island"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-16.html"
 ---
 
 "All you have to do is to get off at Sawyer Island, our next landing, and walk back to this inlet."

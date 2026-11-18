@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 47"
 weight: 364
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-47.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-47.html"
 ---
 
 History examines the manifestations of man's free will in connection with the external world in time and in dependence on cause, that is, it defines this freedom by the laws of reason, and so history is a science only in so far as this free will is defined by those laws.

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 30"
 weight: 30
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-02-chapter-30.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-02-chapter-30.html"
 ---
 
 Another local consequence of the trial was a Hindu-Moslem entente. Loud protestations of amity were exchanged by prominent citizens, and there went with them a genuine desire for a good understanding. Aziz, when he was at the hospital one day, received a visit from rather a sympathetic figure: Mr. Das. The magistrate sought two favours from him: a remedy for shingles and a poem for his brother-in-law’s new monthly magazine. He accorded both.

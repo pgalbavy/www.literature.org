@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Less Bread!  More Taxes!"
 weight: 2
-aliases:
-  - "/authors/carroll-lewis/sylvie-and-bruno/chapter-01.html"
+url: "/authors/carroll-lewis/sylvie-and-bruno/chapter-01.html"
 ---
 
 --and then all the people cheered again, and one man, who was more excited than the rest, flung his hat high into the air, and shouted (as well as I could make out) "Who roar for the Sub-Warden?" Everybody roared, but whether it was for the Sub-Warden, or not, did not clearly appear: some were shouting "Bread!" and some "Taxes!", but no one seemed to know what it was they really wanted.

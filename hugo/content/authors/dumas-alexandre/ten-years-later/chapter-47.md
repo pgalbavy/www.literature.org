@@ -1,8 +1,7 @@
 ---
 title: "Chapter 47 - How Anne Of Austria Gave One Piece Of Advice To Louis Xiv., And How M. Fouquet Gave Him Another"
 weight: 47
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-47.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-47.html"
 ---
 
 The news of the extreme illness of the cardinal had already spread, and attracted at least as much attention among the people of the Louvre as the news of the marriage of Monsieur, the king's brother, which had already been announced as an official fact. Scarcely had Louis XIV. returned home, with his thoughts fully occupied with the various things he had seen and heard in the course of the evening, when an usher announced that the same crowd of courtiers who, in the morning, had thronged his lever, presented themselves again at his coucher, a remarkable piece of respect which, during the reign of the cardinal, the court, not very discreet in its preferences, had accorded to the minister, without caring about displeasing the king.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Conclusion"
 weight: 12
-aliases:
-  - "/authors/hughes-thomas/memoir-of-a-brother/chapter-11.html"
+url: "/authors/hughes-thomas/memoir-of-a-brother/chapter-11.html"
 ---
 
 On looking through the preceding pages, I have been struck with one special shortcoming. I am painfully conscious how poor and shallow the picture here attempted will be, in any case, to those who knew my brother best. Nevertheless, those for whom it was undertaken will, I trust, be able to get from it some clearer idea of the outer life of their father and uncle, but of that which underlies the outer life they will learn almost nothing. And yet how utterly inadequate must be any knowledge of a human being which does not get beneath this surface! How difficult to do so to any good purpose! For that "inner," or "eternal," or "religious" life (call it which you will, they all mean the same thing) is so entirely a matter between each human soul and God, is at best so feebly and imperfectly expressed by the outer life. But, difficult as it may be, the attempt must be made; for I find that I cannot finish my task with a good conscience without making it.

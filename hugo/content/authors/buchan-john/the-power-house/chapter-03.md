@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Tells Of A Midsummer Night"
 weight: 4
-aliases:
-  - "/authors/buchan-john/the-power-house/chapter-03.html"
+url: "/authors/buchan-john/the-power-house/chapter-03.html"
 ---
 
 Hitherto I had been the looker-on; now I was to become a person of the drama. That telegram was the beginning of my active part in this curious affair. They say that everybody turns up in time at the corner of Piccadilly Circus if you wait long enough. I was to find myself like a citizen of Bagdad in the days of the great Caliph, and yet never stir from my routine of flat, chambers, club, and flat.

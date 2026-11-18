@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - A Strange Animal"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-12.html"
 ---
 
 When Fred Linden reached the creek where he had met with his stirring adventure the day before, he could not help smiling. It had shrunk to its usual volume, and was winding along as lazily as usual, the only sign of the violent freshet being the *débris* left along the bank and the slightly roiled appearance of the current.

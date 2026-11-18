@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - To The Death"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-12.html"
 ---
 
 It was at this juncture that Jared Long, peering out from the shadow of the wood, observed a larger log than any he had yet noticed, sweeping by within a short distance of shore.

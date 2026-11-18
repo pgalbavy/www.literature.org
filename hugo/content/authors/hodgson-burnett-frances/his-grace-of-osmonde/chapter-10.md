@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - My Lord Marquess Rides To Camylott"
 weight: 11
-aliases:
-  - "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-10.html"
+url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-10.html"
 ---
 
 When he went home my lord sate late over his books before he went to his chamber, yet he read but little, finding his mood disturbed by thoughts which passed through it in his despite. His blood had grown hot at the coffee-house, and though 'twas by no means the first time it had heated when he heard the heartless and coarse talk of woman which it was the habit of most men of the day to indulge in, he realised that it had never so boiled as when he listened to the brutal and significant swagger of Sir John Oxon. His youth and beauty and cruel, confident air had made it seem devilish in its suggestion of what his past almost boyish years might have held of pitiless pleasures and pitiless indifference to the consequences, which, while they were added triumphs to him, were ruin and despair to their victims.

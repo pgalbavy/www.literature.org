@@ -1,8 +1,7 @@
 ---
 title: "Book 9 - Chapter 23"
 weight: 190
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-09-chapter-23.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-09-chapter-23.html"
 ---
 
 At that moment Count Rostopchin with his protruding chin and alert eyes, wearing the uniform of a general with sash over his shoulder, entered the room, stepping briskly to the front of the crowd of gentry.

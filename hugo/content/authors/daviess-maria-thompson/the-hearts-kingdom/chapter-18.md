@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Light--Into Darkness"
 weight: 18
-aliases:
-  - "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-18.html"
+url: "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-18.html"
 ---
 
 "Yes, Martha," came the answer after an instant's pause, and Nickols Powers stepped from my side to that of Martha Ensley and took her wrung hands in his. For another long moment we all stood tense at the acknowledgment that the tragedy had forced to the surface. I stood beside father like a woman of ice, yet on fire with a contemptuous humiliation. The eyes of all my world were for an instant turned on me, then they were all called back to the tragedy that was tottering over us.

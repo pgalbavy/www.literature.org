@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40"
 weight: 40
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-40.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-40.html"
 ---
 
 A little earlier than usual next morning Trent was at his office in the City, prepared for the worst, and in less than half an hour he found himself face to face with one of those crises known to most great financiers at some time or other during their lives. His credit was not actually assailed, but it was suspended. The general public did not understand the situation, even those who were in a measure behind the scenes found it hard to believe that the attack upon the Bekwando Gold and Land shares was purely a personal one. For it was Da Souza who had fired the train, who had flung his large holding of shares upon the market, and, finding them promptly taken up, had gone about with many pious exclamations of thankfulness and sinister remarks. Many smaller holders followed suit, and yet never for a moment did the market waver. Gradually it leaked out that Scarlett Trent was the buyer, and public interest leaped up at once. Would Trent be able to face settling-day without putting his vast holdings upon the market? If so the bulls were going to have the worst knock they had had for years - and yet - and yet - the murmur went round from friend to friend - " Sell your Bekwandos."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - A Fight And A Retreat"
 weight: 29
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-29.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-29.html"
 ---
 
 That which Otto had called a cave proved really no cave at all. Up the winding ascent the fugitives sped, until opposite a lip or shelf, which projected from the rocks on their left. It extended forward three or four feet, rudely sloping away like the forepiece of a cap, but the concavity below was less than half that depth. Jack expected to find a retreat ten or fifteen feet deep. As it was, there was barely room to screen themselves from the flying bullets, and had the rain been driven from the opposite direction when Otto first sought refuge there it would have given no protection at all.

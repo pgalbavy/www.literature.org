@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 1"
 weight: 37
-aliases:
-  - "/authors/austen-jane/emma/volume-03-chapter-01.html"
+url: "/authors/austen-jane/emma/volume-03-chapter-01.html"
 ---
 
 A very little quiet reflection was enough to satisfy Emma as to the nature of her agitation on hearing this news of Frank Churchill. She was soon convinced that it was not for herself she was feeling at all apprehensive or embarrassed; it was for him. Her own attachment had really subsided into a mere nothing; it was not worth thinking of;--but if he, who had undoubtedly been always so much the most in love of the two, were to be returning with the same warmth of sentiment which he had taken away, it would be very distressing. If a separation of two months should not have cooled him, there were dangers and evils before her:--caution for him and for herself would be necessary. She did not mean to have her own affections entangled again, and it would be incumbent on her to avoid any encouragement of his.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Reverend Miles Mirabel"
 weight: 20
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-20.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-20.html"
 ---
 
 "I am making a little excursion from the Engadine, my dearest of all dear friends. Two charming fellow-travelers take care of me; and we may perhaps get as far as the Lake of Como.

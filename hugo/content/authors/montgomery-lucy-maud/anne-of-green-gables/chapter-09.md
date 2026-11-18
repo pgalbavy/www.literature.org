@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Mrs. Rachel Lynde Is Properly Horrified"
 weight: 9
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-09.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-09.html"
 ---
 
 Anne had been a fortnight at Green Gables before Mrs. Lynde arrived to inspect her. Mrs. Rachel, to do her justice, was not to blame for this. A severe and unseason -able attack of grippe had confined that good lady to her house ever since the occasion of her last visit to Green Gables. Mrs. Rachel was not often sick and had a well- defined contempt for people who were; but grippe, she asserted, was like no other illness on earth and could only be interpreted as one of the special visitations of Providence. As soon as her doctor allowed her to put her foot out-of-doors she hurried up to Green Gables, bursting with curiosity to see Matthew and Marilla's orphan, concerning whom all sorts of stories and suppositions had gone abroad in Avonlea.

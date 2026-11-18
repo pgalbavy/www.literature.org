@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-16.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-16.html"
 ---
 
 But when she asked him what it meant, on their homeward way, he was silent. They had come a few paces from the church without speaking, walking slowly.

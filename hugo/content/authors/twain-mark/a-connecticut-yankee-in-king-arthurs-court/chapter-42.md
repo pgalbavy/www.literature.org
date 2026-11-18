@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42 - War!"
 weight: 43
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-42.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-42.html"
 ---
 
 I FOUND Clarence alone in his quarters, drowned in melancholy; and in place of the electric light, he had reinstituted the ancient rag-lamp, and sat there in a grisly twilight with all curtains drawn tight. He sprang up and rushed for me eagerly, saying:

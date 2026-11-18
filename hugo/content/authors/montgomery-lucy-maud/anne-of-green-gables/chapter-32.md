@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - The Pass List Is Out"
 weight: 32
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-32.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-32.html"
 ---
 
 With the end of June came the close of the term and the close of Miss Stacy's rule in Avonlea school. Anne and Diana walked home that evening feeling very sober indeed. Red eyes and damp handkerchiefs bore convincing testimony to the fact that Miss Stacy's farewell words must have been quite as touching as Mr. Phillips's had been under similar circumstances three years before. Diana looked back at the schoolhouse from the foot of the spruce hill and sighed deeply.

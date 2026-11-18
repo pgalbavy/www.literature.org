@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Once In A Lifetime"
 weight: 9
-aliases:
-  - "/authors/baily-waldron/when-the-cock-crows/chapter-09.html"
+url: "/authors/baily-waldron/when-the-cock-crows/chapter-09.html"
 ---
 
 To the average humane person the loss of a pet, whether through thievery or death itself, brings a very real sorrow for a time. How much worse it must be for one who lives alone, a recluse on an island of sand in the sea, to suffer the loss of his only living companion, something to come at his beck and call, something that seems indeed to reciprocate its master's affection!

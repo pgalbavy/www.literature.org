@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - That Carpetbag"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-09.html"
 ---
 
 MR. P. BUG'S statement amazed Mrs. Ladybug. He said he had never been in Colorado. More than that, he declared he didn't even know where the place was.

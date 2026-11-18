@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Speed The Parting Guest"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-20.html"
 ---
 
 George Burton and his dog Zip had won golden opinions from the Boy Scouts, who urged their visitor to spend several days with them, but he declined, saying he would set out on his return to Mouse Island directly after dinner, which was eaten at one o’clock. Truth to tell his tastes differed from those of his new friends. He cared little or nothing for bird lore, or the study of trees, or roughing it in the woods. But he was an athlete, who could outrun any one of the Boy Scouts and last longer on a tramp. He was putting himself through a course of training, with a view of making the football team when he should enter Princeton University, for which he had already matriculated. His sole companion on his long runs or the hours devoted to hardening his muscles was Zip, between whom and himself, as had been shown, there was a strong affection.

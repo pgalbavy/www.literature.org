@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - “We Began To Marry Them, My Good Fellow!”"
 weight: 25
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-25.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-25.html"
 ---
 
 Lord Dunholm and his eldest son, Lord Westholt, sauntered together smoking their after-dinner cigars on the broad-turfed terrace overlooking park and gardens which seemed to sweep without boundary line into the purplish land beyond. The grey mass of the castle stood clear-cut against the blue of a sky whose twilight was still almost daylight, though in the purity of its evening stillness a star already hung, here and there, and a young moon swung low. The great spaces about them held a silence whose exquisite entirety was marked at intervals by the distant bark of a shepherd dog driving his master's sheep to the fold, their soft, intermittent plaints--the mother ewes' mellow answering to the tender, fretful lambs--floated on the air, a lovely part of the ending day's repose. Where two who are friends stroll together at such hours, the great beauty makes for silence or for thoughtful talk. These two men--father and son--were friends and intimates, and had been so from Westholt's first memory of the time when his childish individuality began to detach itself from the background of misty and indistinct things. They had liked each other, and their liking and intimacy had increased with the onward moving and change of years. After sixty sane and decently spent active years of life, Lord Dunholm, in either country tweed or evening dress, was a well-built and handsome man; at thirty-three his son was still like him.

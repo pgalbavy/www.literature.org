@@ -1,8 +1,7 @@
 ---
 title: "Book 6 - Chapter 18"
 weight: 124
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-06-chapter-18.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-06-chapter-18.html"
 ---
 
 Next day Prince Andrew thought of the ball, but his mind did not dwell on it long. "Yes, it was a very brilliant ball," and then... "Yes, that little Rostova is very charming. There's something fresh, original, un-Petersburg-like about her that distinguishes her." That was all he thought about yesterday's ball, and after his morning tea he set to work.

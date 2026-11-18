@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Mermaids' Lagoon"
 weight: 8
-aliases:
-  - "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-08.html"
+url: "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-08.html"
 ---
 
 If you shut your eyes and are a lucky one, you may see at times a shapeless pool of lovely pale colours suspended in the darkness; then if you squeeze your eyes tighter, the pool begins to take shape, and the colours become so vivid that with another squeeze they must go on fire. But just before they go on fire you see the lagoon. This is the nearest you ever get to it on the mainland, just one heavenly moment; if there could be two moments you might see the surf and hear the mermaids singing.

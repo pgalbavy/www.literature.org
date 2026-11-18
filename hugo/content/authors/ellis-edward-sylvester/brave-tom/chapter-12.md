@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/brave-tom/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/brave-tom/chapter-12.html"
 ---
 
 For two weeks Tom Gordon prosecuted his vocation as a newsboy in the city of New York, by which time he had gained enough experience to earn his daily bread, but nothing beyond that. Such being the case, he felt that he was not making a success of his calling, as there was no reserve fund upon which to draw for clothing or other necessities.

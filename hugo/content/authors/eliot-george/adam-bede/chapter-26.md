@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - The Dance"
 weight: 26
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-26.html"
+url: "/authors/eliot-george/adam-bede/chapter-26.html"
 ---
 
 ARTHUR had chosen the entrance-hall for the ballroom: very wisely, for no other room could have heen so airy, or would have had the advantage of the wide doors opening into the garden, as well as a ready entrance into the other rooms. To be sure, a stone floor was not the pleasantest to dance on, but then, most of the dancers had known what it was to enjoy a Christmas dance on kitchen quarries. It was one of those entrance-halls which make the surrounding rooms look like closets - with stucco angels, trumpets, and flower-wreaths on the lofty ceiling, and great medallions of miscellaneous heroes on the walls, alternating with statues in niches. Just the sort of place to be ornamented well with green boughs, and Mr. Craig had been proud to show his taste and his hothouse plants on the occasion. The broad steps of the stone staircase were covered with cushions to serve as seats for the children, who were to stay till half-past nine with the servant- maids to see the dancing, and as this dance was confined to the chief tenants, there was abundant room for every one. The lights were charmingly disposed in coloured-paper lamps, high up among green boughs, and the farmers' wives and daughters, as they peeped in, believed no scene could be more splendid; they knew now quite well in what sort of rooms the king and queen lived, and their thoughts glanced with some pity towards cousins and acquaintances who had not this fine opportunity of knowing how things went on in the great world. The lamps were already lit, though the sun had not long set, and there was that calm light out of doors in which we seem to see all objects more distinctly than in the broad day.

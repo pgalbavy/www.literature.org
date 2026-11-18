@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-30.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-30.html"
 ---
 
 WHEN they got aboard the king went for me, and shook me by the collar, and says:

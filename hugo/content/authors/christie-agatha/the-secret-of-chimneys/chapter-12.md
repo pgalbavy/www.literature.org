@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Anthony Tells His Story"
 weight: 12
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-12.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-12.html"
 ---
 
 "Mr. Anthony Cade," announced Tredwell.

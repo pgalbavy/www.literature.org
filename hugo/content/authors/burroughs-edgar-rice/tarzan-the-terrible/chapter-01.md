@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Pithecanthropus"
 weight: 1
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-01.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-01.html"
 ---
 
 Silent as the shadows through which he moved, the great beast slunk through the midnight jungle, his yellow-green eyes round and staring, his sinewy tail undulating behind him, his head lowered and flattened, and every muscle vibrant to the thrill of the hunt. The jungle moon dappled an occasional clearing which the great cat was always careful to avoid. Though he moved through thick verdure across a carpet of innumerable twigs, broken branches, and leaves, his passing gave forth no sound that might have been apprehended by dull human ears.

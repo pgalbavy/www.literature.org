@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Last Crossing"
 weight: 23
-aliases:
-  - "/authors/coolidge-dane/hidden-water/chapter-23.html"
+url: "/authors/coolidge-dane/hidden-water/chapter-23.html"
 ---
 
 The rush and thunder of cow ponies as they hammered over the trail and plunged down through the rocks and trees had hardly lost its echoes in the cliffs when, with a flash of color and a dainty pattering of hoofs, Chapuli came flying over the top of Lookout Point and dashed up the river after them. The cowmen had left their horses in the deep ravine at the end of the malpai bluffs and were already crouched behind the rampart of the rim rocks as close as Indian fighters, each by some loophole in the blackened malpai, with a rifle in his hand. As Hardy crept in from behind, Jeff Creede motioned him to a place at his side greeting him at the same time with a broad grin.

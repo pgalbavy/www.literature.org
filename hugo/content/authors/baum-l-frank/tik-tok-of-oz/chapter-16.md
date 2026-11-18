@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 17
-aliases:
-  - "/authors/baum-l-frank/tik-tok-of-oz/chapter-16.html"
+url: "/authors/baum-l-frank/tik-tok-of-oz/chapter-16.html"
 ---
 
 Shaggy Man had said nothing during the conversation between Queen Ann and Quox, for the simple reason that he did not consider the matter worth an argument. Safe within his pocket reposed the Love Magnet, which had never failed to win every heart. The nomes, he knew, were not like the heartless Roses and therefore could be won to his side as soon as he exhibited the magic talisman.

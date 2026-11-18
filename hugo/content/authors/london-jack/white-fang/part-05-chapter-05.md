@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 5 - The Sleeping Wolf"
 weight: 25
-aliases:
-  - "/authors/london-jack/white-fang/part-05-chapter-05.html"
+url: "/authors/london-jack/white-fang/part-05-chapter-05.html"
 ---
 
 It was about this time that the newspapers were full of the daring escape of a convict from San Quentin prison. He was a ferocious man. He had been ill-made in the making. He had not been born right, and he had not been helped any by the moulding he had received at the hands of society. The hands of society are harsh, and this man was a striking sample of its handiwork. He was a beast - a human beast, it is true, but nevertheless so terrible a beast that he can best be characterised as carnivorous.

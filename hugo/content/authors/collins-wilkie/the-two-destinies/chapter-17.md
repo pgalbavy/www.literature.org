@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Shetland Hospitality"
 weight: 18
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-17.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-17.html"
 ---
 
 "GUIDE! Where are we?"

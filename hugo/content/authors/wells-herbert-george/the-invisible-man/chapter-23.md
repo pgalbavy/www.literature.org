@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - In Drury Lane"
 weight: 23
-aliases:
-  - "/authors/wells-herbert-george/the-invisible-man/chapter-23.html"
+url: "/authors/wells-herbert-george/the-invisible-man/chapter-23.html"
 ---
 
 "But you begin to realise now," said the Invisible Man, "the full disadvantage of my condition. I had no shelter, no covering. To get clothing was to forego all my advantage, to make of myself a strange and terrible thing. I was fasting; for to eat, to fill myself with unassimilated matter, would be to become grotesquely visible again."

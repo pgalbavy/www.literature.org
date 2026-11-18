@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Plot"
 weight: 17
-aliases:
-  - "/authors/haggard-h-rider/fair-margaret/chapter-17.html"
+url: "/authors/haggard-h-rider/fair-margaret/chapter-17.html"
 ---
 
 On the morning following these conversations, just after Margaret and Betty had breakfasted, Inez appeared, and, as before, locked the door behind her.

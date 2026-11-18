@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Tarzan-Jad-Guru"
 weight: 4
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-04.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-04.html"
 ---
 
 As Tarzan and Om-at clambered back to the vestibule of Pan-at-lee's cave and took their stand beside Ta-den in readiness for whatever eventuality might follow the death of Es-sat, the sun that topped the eastern hills touched also the figure of a sleeper upon a distant, thorn-covered steppe awakening him to another day of tireless tracking along a faint and rapidly disappearing spoor.

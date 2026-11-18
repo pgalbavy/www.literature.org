@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Sin Of Umbelazi"
 weight: 12
-aliases:
-  - "/authors/haggard-h-rider/child-of-storm/chapter-11.html"
+url: "/authors/haggard-h-rider/child-of-storm/chapter-11.html"
 ---
 
 About eighteen months had gone by, and once again, in the autumn of the year 1856, I found myself at old Umbezi’s kraal, where there seemed to be an extraordinary market for any kind of gas-pipe that could be called a gun. Well, as a trader who could not afford to neglect profitable markets, which are hard things to find, there I was.

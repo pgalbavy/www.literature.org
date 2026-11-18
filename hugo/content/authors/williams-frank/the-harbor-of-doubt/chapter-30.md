@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - Elsa's Triumph"
 weight: 30
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-30.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-30.html"
 ---
 
 Code Schofield's appearance at his schooner the next morning to help the crew unload was the signal for a veritable native-son demonstration. Not only had the story of Code's sudden liberation and Nat's as sudden imprisonment spread like wild-fire clear to Southern Head Light, twenty miles away, but the tale was hailed with joy.

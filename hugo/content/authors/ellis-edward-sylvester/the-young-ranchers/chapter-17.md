@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Through The Wood"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-17.html"
 ---
 
 Even in that trying moment, Starr could not help reflecting upon the peculiar turn matters had taken. He failed to understand the action of the solitary Sioux on the other side, who had contented himself with the simple theft of the pack-pony, when he might have done tenfold more injury to the fugitives.

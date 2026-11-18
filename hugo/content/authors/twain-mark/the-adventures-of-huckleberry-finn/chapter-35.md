@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 35
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-35.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-35.html"
 ---
 
 IT would be most an hour yet till breakfast, so we left and struck down into the woods; because Tom said we got to have SOME light to see how to dig by, and a lantern makes too much, and might get us into trouble; what we must have was a lot of them rotten chunks that's called fox-fire, and just makes a soft kind of a glow when you lay them in a dark place. We fetched an armful and hid it in the weeds, and set down to rest, and Tom says, kind of dissatisfied:

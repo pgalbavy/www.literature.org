@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Tramping Southward"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-11.html"
 ---
 
 An ejaculation of thankfulness escaped Fred Linden when he found himself floating in the comparatively still water below the rapids, and he knew that although he was pretty well bruised, none of his bones was broken. He let go of the limb of the tree that had served him so well, and flirting the water from his eyes, struck out with his old time vigor for the shore, toward which he had started in the canoe.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/chambers-robert-w/between-friends/chapter-01.html"
+url: "/authors/chambers-robert-w/between-friends/chapter-01.html"
 ---
 
 Like a man who reenters a closed and darkened house and lies down; lying there, remains conscious of sunlight outside, of bird-calls, and the breeze in the trees, so had Drene entered into the obscurity of himself.

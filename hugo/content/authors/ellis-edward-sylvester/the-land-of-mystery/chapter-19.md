@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Journey's End"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-19.html"
 ---
 
 The explorers, bearing the canoe with the luggage upon their shoulders, ascended at a steady gait the western bank of the Xingu. The cleared space which they had noticed on both sides of the river, caused by the furious overflow, continued, so that the progress was comparatively easy.

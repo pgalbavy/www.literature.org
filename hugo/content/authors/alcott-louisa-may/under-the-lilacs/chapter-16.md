@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Detective Thornton"
 weight: 16
-aliases:
-  - "/authors/alcott-louisa-may/under-the-lilacs/chapter-16.html"
+url: "/authors/alcott-louisa-may/under-the-lilacs/chapter-16.html"
 ---
 
 A few days later, Miss Celia was able to go about with her arm in a sling, pale still, and rather stiff, but so much better than any one expected, that all agreed Mr. Paine was right in pronouncing Dr. Mills "a master hand with broken bones." Two devoted little maids waited on her, two eager pages stood ready to run her errands, and friendly neighbors sent in delicacies enough to keep these four young persons busily employed in disposing of them.

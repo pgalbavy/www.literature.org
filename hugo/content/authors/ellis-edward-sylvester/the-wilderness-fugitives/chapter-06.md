@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Fragments Of The Feast"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-06.html"
 ---
 
 The instant the light was detected, the attention of all the fugitives became centered upon it, for it was plain they were journeying in a direct line toward it, and unless a speedy turn to the right or left was made, the camp fire, as it appeared to be, would soon be reached. Viewed as they neared it, it seemed to be simply a fire, and nothing more, there being so many intervening trees and undergrowth, that nothing except the light itself was noticeable. But, as a rule, wherever there was a camp fire there were those who kindled it, and it struck Rosa that the Mohawk was reckless in advancing upon it; but she held her peace, certain he would commit no blunder.

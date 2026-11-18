@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Storm"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-08.html"
 ---
 
 The place in which Blair and his companion found themselves was a small strongly built closet, used as a "lock-up" for refractory sailors. A single bull's-eye admitted a mere glimmer of light for a while, but that soon died away in utter darkness as the night came rapidly on. It was well for the boys that they knew something of ocean's rough rocking. A land-lubber would have had all the miseries of sea-sickness added to the horrors of that dreary dungeon.

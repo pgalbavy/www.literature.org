@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Mr. Dexter At Home"
 weight: 27
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-27.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-27.html"
 ---
 
 I FOUND all the idle boys in the neighborhood collected around the pony-chaise, expressing, in the occult language of slang, their high enjoyment and appreciation at the appearance of "Ariel" in her man's jacket and hat. The pony was fidgety--_he_ felt the influence of the popular uproar. His driver sat, whip in hand, magnificently impenetrable to the gibes and jests that were flying around her. I said "Good-morning" on getting into the chaise. Ariel only said "Gee up!" and started the pony.

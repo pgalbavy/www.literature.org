@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 10"
 weight: 44
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-03-chapter-10.html"
+url: "/authors/london-jack/valley-of-the-moon/book-03-chapter-10.html"
 ---
 
 "There be hills and valleys, and rich land, and streams of clear water, good wagon roads and a railroad not too far away, plenty of sunshine, and cold enough at night to need blankets, and not only pines but plenty of other kinds of trees, with open spaces to pasture Billy's horses and cattle, and deer and rabbits for him to shoot, and lots and lots of redwood trees, and . . . and . . . well, and no fog," Saxon concluded the description of the farm she and Billy sought.

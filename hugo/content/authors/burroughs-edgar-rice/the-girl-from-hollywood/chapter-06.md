@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-06.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-06.html"
 ---
 
 It was May. The rainy season was definitely over. A few April showers had concluded it. The Ganado hills showed their most brilliant greens. The March pigs were almost ready to wean. White-faced calves and black colts and gray colts surveyed this beautiful world through soft, dark eyes, and were filled with the joy of living as they ran beside their gentle mothers. A stallion neighed from the stable corral, and from the ridge behind Jackknife Cañon the Emperor of Ganado answered him.

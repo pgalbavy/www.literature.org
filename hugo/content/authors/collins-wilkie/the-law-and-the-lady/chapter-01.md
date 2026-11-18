@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Bride's Mistake"
 weight: 1
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-01.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-01.html"
 ---
 
 "FOR after this manner in the old time the holy women also who trusted in God adorned themselves, being in subjection unto their own husbands; even as Sarah obeyed Abraham, calling him lord; whose daughters ye are as long as ye do well, and are not afraid with any amazement."

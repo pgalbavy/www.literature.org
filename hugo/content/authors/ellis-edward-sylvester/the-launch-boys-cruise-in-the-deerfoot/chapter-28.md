@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - The Cry Across The Waters"
 weight: 28
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-28.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-28.html"
 ---
 
 The words of George struck Alvin and Chester like "the knell of doom." They looked in each other's faces, white and silent for a brief spell; then Alvin whispered:

@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 6"
 weight: 196
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-06.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-06.html"
 ---
 
 Among the innumerable categories applicable to the phenomena of human life one may discriminate between those in which substance prevails and those in which form prevails. To the latter- as distinguished from village, country, provincial, or even Moscow life- we may allot Petersburg life, and especially the life of its salons. That life of the salons is unchanging. Since the year 1805 we had made peace and had again quarreled with Bonaparte and had made constitutions and unmade them again, but the salons of Anna Pavlovna Helene remained just as they had been- the one seven and the other five years before. At Anna Pavlovna's they talked with perplexity of Bonaparte's successes just as before and saw in them and in the subservience shown to him by the European sovereigns a malicious conspiracy, the sole object of which was to cause unpleasantness and anxiety to the court circle of which Anna Pavlovna was the representative. And in Helene's salon, which Rumyantsev himself honored with his visits, regarding Helene as a remarkably intelligent woman, they talked with the same ecstasy in 1812 as in 1808 of the "great nation" and the "great man," and regretted our rupture with France, a rupture which, according to them, ought to be promptly terminated by peace.

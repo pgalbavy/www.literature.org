@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - Jardin Russe"
 weight: 31
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-30.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-30.html"
 ---
 
 At midnight the two young men had not yet parted. For, as Sengoun explained, the hour for parting was already past, and it was too late to consider it now. And Neeland thought so, too, what with the laughter and the music, and the soft night breezes to counsel folly, and the city's haunting brilliancy stretching away in bewitching perspectives still unexplored.

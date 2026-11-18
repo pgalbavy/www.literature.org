@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-28.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-28.html"
 ---
 
 In which Passepartout does not succeed in making anybody listen to reason

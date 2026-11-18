@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Somebody Comes"
 weight: 23
-aliases:
-  - "/authors/alcott-louisa-may/under-the-lilacs/chapter-23.html"
+url: "/authors/alcott-louisa-may/under-the-lilacs/chapter-23.html"
 ---
 
 Bab and Betty had been playing in the avenue all the afternoon several weeks later, but as the shadows began to lengthen both agreed to sit upon the gate and rest while waiting for Ben, who had gone nutting with a party of boys. When they played house Bab was always the father, and went hunting or fishing with great energy and success, bringing home all sorts of game, from elephants and crocodiles to humming-birds and minnows. Betty was the mother, and a most notable little housewife, always mixing up imaginary delicacies with sand and dirt in old pans and broken china, which she baked in an oven of her own construction.

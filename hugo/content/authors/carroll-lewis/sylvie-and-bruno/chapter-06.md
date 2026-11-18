@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Magic Locket"
 weight: 7
-aliases:
-  - "/authors/carroll-lewis/sylvie-and-bruno/chapter-06.html"
+url: "/authors/carroll-lewis/sylvie-and-bruno/chapter-06.html"
 ---
 
 "Where are we, father?" Sylvie whispered, with her arms twined closely around the old man's neck, and with her rosy cheek lovingly pressed to his.

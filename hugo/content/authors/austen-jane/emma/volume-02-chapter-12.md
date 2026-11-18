@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 12"
 weight: 30
-aliases:
-  - "/authors/austen-jane/emma/volume-02-chapter-12.html"
+url: "/authors/austen-jane/emma/volume-02-chapter-12.html"
 ---
 
 One thing only was wanting to make the prospect of the ball completely satisfactory to Emma--its being fixed for a day within the granted term of Frank Churchill's stay in Surry; for, in spite of Mr. Weston's confidence, she could not think it so very impossible that the Churchills might not allow their nephew to remain a day beyond his fortnight. But this was not judged feasible. The preparations must take their time, nothing could be properly ready till the third week were entered on, and for a few days they must be planning, proceeding and hoping in uncertainty--at the risk--in her opinion, the great risk, of its being all in vain.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/ridge-w-pett/e-r-b/chapter-07.html"
+url: "/authors/ridge-w-pett/e-r-b/chapter-07.html"
 ---
 
 ERB admitted, at an elocution lesson in Camberwell, that the settlement of the Willow Walk affair had given him a good jerk forward. There was always now a quarter of an hour between the close of his time and the appearance of the next pupil—a quarter of an hour generally occupied by a soliloquy from Erb, prefaced by the cue from Rosalind. “Well now, tell me what you’ve been doing this week.” She had some of the important security that comes to an engaged young woman, and Erb, who looked forward to this weekly exchange of confidences, forced himself to ask politely after Mr. Lawrence Railton, of the “Sin’s Reward” Company, and when Rosalind answered (as she usually did) with a sigh that Mr. Railton had not written for some time, Erb made excuses for him on various grounds, such as that he was probably over-occupied with the work of his profession, that a man in Mr. Railton’s place had to be here, there and everywhere, that it being sometimes the gentleman’s affectionate habit to scribble a hurried postcard to his fiancée on the Sunday journeys, likely enough there would be a letter next Monday. On this Rosalind would brighten very much, and sing cheerful words of praise of Mr. Railton, who occupied, it seemed, a unique and delicate position, in that he was much too good for the provinces and not quite good enough for town; nevertheless, “Sin’s Reward” had booked a week for the Surrey, and the young woman’s bright eyes danced at the thought of seeing him again. Mr. Railton’s real name was Botts, which was held to be unattractive as a name on the bills; his father was a silver chaser in Clerkenwell, and it was generally understood that Mr. Railton had had to cut off his parents with a shilling on the grounds that they insisted on calling him Sammy.

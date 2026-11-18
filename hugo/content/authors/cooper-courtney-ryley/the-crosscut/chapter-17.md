@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/cooper-courtney-ryley/the-crosscut/chapter-17.html"
+url: "/authors/cooper-courtney-ryley/the-crosscut/chapter-17.html"
 ---
 
 Had it been any one else, Fairchild would have shouted for happiness and joined the parade. As it was, he stood far at one side, a silent, grim figure, watching the miners and townspeople passing before him, leaping about in their happiness, calling to him the news that he did not want to hear:

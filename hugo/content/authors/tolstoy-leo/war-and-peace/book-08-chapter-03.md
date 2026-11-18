@@ -1,8 +1,7 @@
 ---
 title: "Book 8 - Chapter 3"
 weight: 148
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-08-chapter-03.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-08-chapter-03.html"
 ---
 
 In 1811 there was living in Moscow a French doctor- Metivier- who had rapidly become the fashion. He was enormously tall, handsome, amiable as Frenchmen are, and was, as all Moscow said, an extraordinarily clever doctor. He was received in the best houses not merely as a doctor, but as an equal.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Losing His Bearings"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-08.html"
 ---
 
 IT often happened, when Grandfather Mole came up from his home under Farmer Green's garden, that he turned straight around and went back again. Sometimes, to be sure, he ran about a bit in a bewildered way, before he disappeared. For he never felt at home in the world above; and he was always uneasy until he felt the darkness closing in around him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Saviours Of The Train"
 weight: 6
-aliases:
-  - "/authors/nesbit-edith/the-railway-children/chapter-06.html"
+url: "/authors/nesbit-edith/the-railway-children/chapter-06.html"
 ---
 
 The Russian gentleman was better the next day, and the day after that better still, and on the third day he was well enough to come into the garden. A basket chair was put for him and he sat there, dressed in clothes of Father's which were too big for him. But when Mother had hemmed up the ends of the sleeves and the trousers, the clothes did well enough. His was a kind face now that it was no longer tired and frightened, and he smiled at the children whenever he saw them. They wished very much that he could speak English. Mother wrote several letters to people she thought might know whereabouts in England a Russian gentleman's wife and family might possibly be; not to the people she used to know before she came to live at Three Chimneys - she never wrote to any of them - but strange people - Members of Parliament and Editors of papers, and Secretaries of Societies.

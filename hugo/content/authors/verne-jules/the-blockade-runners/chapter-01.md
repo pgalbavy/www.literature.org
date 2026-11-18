@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Dolphin"
 weight: 1
-aliases:
-  - "/authors/verne-jules/the-blockade-runners/chapter-01.html"
+url: "/authors/verne-jules/the-blockade-runners/chapter-01.html"
 ---
 
 The Clyde was the first river whose waters were lashed into foam by a steam-boat. It was in 1812 when the steamer called the Comet ran between Glasgow and Greenock, at the speed of six miles an hour. Since that time more than a million of steamers or packet-boats have plied this Scotch river, and the inhabitants of Glasgow must be as familiar as any people with the wonders of steam navigation.

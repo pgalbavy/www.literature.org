@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-26.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-26.html"
 ---
 
 He brings white asses laden with the freight Of Tyrian vessels, purple, gold and balm, To bribe my will: I'll bid them chase him forth, Nor let him breathe the taint of his surmise On my secure resolve. Ay, 'tis secure: And therefore let him come to spread his freight. For firmness hath its appetite and craves The stronger lure, more strongly to resist; Would know the touch of gold to fling it off; Scent wine to feel its lip the soberer; Behold soft byssus, ivory, and plumes To say, "They're fair, but I will none of them," And flout Enticement in the very face.

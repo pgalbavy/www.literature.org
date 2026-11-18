@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 1"
 weight: 14
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-03-chapter-01.html"
+url: "/authors/conrad-joseph/the-rescue/part-03-chapter-01.html"
 ---
 
 "Some people," said Lingard, "go about the world with their eyes shut. You are right. The sea is free to all of us. Some work on it, and some play the fool on it—and I don't care. Only you may take it from me that I will let no man's play interfere with my work. You want me to understand you are a very great man—"

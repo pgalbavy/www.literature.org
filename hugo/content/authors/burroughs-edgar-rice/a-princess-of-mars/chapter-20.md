@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - In the Atmosphere Factory"
 weight: 20
-aliases:
-  - "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-20.html"
+url: "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-20.html"
 ---
 
 For two days I waited there for Kantos Kan, but as he did not come I started off on foot in a northwesterly direction toward a point where he had told me lay the nearest waterway. My only food consisted of vegetable milk from the plants which gave so bounteously of this priceless fluid.

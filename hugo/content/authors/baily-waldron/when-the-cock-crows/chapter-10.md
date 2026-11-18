@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Eyes From The Deep"
 weight: 10
-aliases:
-  - "/authors/baily-waldron/when-the-cock-crows/chapter-10.html"
+url: "/authors/baily-waldron/when-the-cock-crows/chapter-10.html"
 ---
 
 The staid little city of Beaufort had been stirred to its remotest corners with the exciting news brought back from Ichabod's Island by the physician. Doctor Hudson had told the story to little groups here and there as he called upon his patients. Needless to say that a shipwreck, even though it be only that of a medium-sized pleasure craft, was enough to set everyone all agog with excitement. And here, too, there was the added mystery, concerning the young and beautiful woman together with her strange companion, who had been rescued from death only to vanish so inexplicably.

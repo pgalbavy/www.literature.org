@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Down The Ladder"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-19.html"
 ---
 
 The colored servant Dinah never knew how near she came to being shot by her own master. Had she delayed speaking for a second, he would have discharged two more chambers of his revolver, and the distance was so slight, and her head was in such position, that there could have been no miss.

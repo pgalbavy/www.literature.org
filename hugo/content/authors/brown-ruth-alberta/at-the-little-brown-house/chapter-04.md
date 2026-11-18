@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Little Flower Girls"
 weight: 4
-aliases:
-  - "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-04.html"
+url: "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-04.html"
 ---
 
 In the hot room, high up under the eaves of the little brown house, Peace sobbed out her anguish of soul, and then faced the problem of shoes with a dauntless spirit.

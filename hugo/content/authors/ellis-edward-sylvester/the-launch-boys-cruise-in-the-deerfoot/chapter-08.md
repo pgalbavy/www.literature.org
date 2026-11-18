@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Passing Glimpse"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-08.html"
 ---
 
 Mike Murphy, even in the flurry of the moment, could not forget his innate courtesy. He handed back the old hat to the puzzled clerk and bowed.

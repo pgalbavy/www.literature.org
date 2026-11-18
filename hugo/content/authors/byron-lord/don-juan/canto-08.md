@@ -1,8 +1,7 @@
 ---
 title: "Canto 8"
 weight: 9
-aliases:
-  - "/authors/byron-lord/don-juan/canto-08.html"
+url: "/authors/byron-lord/don-juan/canto-08.html"
 ---
 
 O blood and thunder! and oh blood and wounds!  

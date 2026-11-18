@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - How Eric Told His Love To Gudruda In The Snow On Coldback"
 weight: 3
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-02.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-02.html"
 ---
 
 Now, it must be told that, five years before the day of the death of Gudruda the Gentle, Saevuna, the wife of Thorgrimur Iron-Toe, gave birth to a son, at Coldback in the Marsh, on Ran River, and when his father came to look upon the child he called out aloud:

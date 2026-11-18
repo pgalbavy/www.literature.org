@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-18.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-18.html"
 ---
 
 The beautiful but somewhat austere front of St. David's Hall seemed, in a sense, transformed, as Hamel and his companion climbed the worn grey steps which led on to the broad sweep of terrace. Evidently visitors had recently arrived. A dark, rather good-looking woman, with pleasant round face and a ceaseless flow of conversation, was chattering away to Mr. Fentolin. By her side stood another woman who was a stranger to Hamel - thin, still elegant, with tired, worn face, and the shadow of something in her eyes which reminded him at once of Esther. She wore a large picture hat and carried a little Pomeranian dog under her arm. In the background, an insignificant-looking man with grey side-whiskers and spectacles was beaming upon everybody. Mr. Fentolin waved his hand and beckoned to Hamel and Esther as they somewhat hesitatingly approached.

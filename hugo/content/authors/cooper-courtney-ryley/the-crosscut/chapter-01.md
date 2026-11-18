@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/cooper-courtney-ryley/the-crosscut/chapter-01.html"
+url: "/authors/cooper-courtney-ryley/the-crosscut/chapter-01.html"
 ---
 
 It was over. The rambling house, with its rickety, old-fashioned furniture--and its memories--was now deserted, except for Robert Fairchild, and he was deserted within it, wandering from room to room, staring at familiar objects with the unfamiliar gaze of one whose vision suddenly has been warned by the visitation of death and the sense of loneliness that it brings.

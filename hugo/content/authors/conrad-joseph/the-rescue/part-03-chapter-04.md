@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 4"
 weight: 17
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-03-chapter-04.html"
+url: "/authors/conrad-joseph/the-rescue/part-03-chapter-04.html"
 ---
 
 D'Alcacer, standing back, surveyed them all with a profound and alert attention. Lingard seemed unable to tear himself away from the yacht, and remained, checked, as it were in the act of going, like a man who has stopped to think out the last thing to say; and that stillness of a body, forgotten by the labouring mind, reminded Carter of that moment in the cabin, when alone he had seen this man thus wrestling with his thought, motionless and locked in the grip of his conscience.

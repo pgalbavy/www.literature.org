@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Tooth Puller"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-10.html"
 ---
 
 Jimmy Rabbit was always changing his mind about what he was going to be when he grew up. First he thought he would be a gardener, so he would always have plenty of vegetables to eat. Next he decided he would be a preacher, because, so far as he could see, they never did anything except talk--and he was sure that couldn't be very hard work. And one day he told his mother that he expected to become a tramp, so he wouldn't have to wash his face. But she soon put that idea out of his head. So Jimmy had to think of something else.

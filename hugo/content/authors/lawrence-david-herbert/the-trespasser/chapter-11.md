@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-11.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-11.html"
 ---
 
 They decided to find their way through the lanes to Alum Bay, and then, keeping the cross in sight, to return over the downs, with the moon-path broad on the water before them. For the moon was rising late. Twilight, however, rose more rapidly than they had anticipated. The lane twisted among meadows and wild lands and copses - a wilful little lane, quite incomprehensible. So they lost their distant landmark, the white cross.

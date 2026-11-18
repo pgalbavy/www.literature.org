@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Mr. Frog Insists"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-05.html"
 ---
 
 MASTER MEADOW MOUSE had come to Black Creek to enjoy his first swim in its dark, sluggish water. But when he arrived on the bank he changed his mind about swimming there that day. For whom should he see but Ferdinand Frog, sitting on a rock at the edge of the creek.

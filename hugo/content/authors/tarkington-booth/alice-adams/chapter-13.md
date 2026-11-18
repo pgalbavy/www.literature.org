@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/tarkington-booth/alice-adams/chapter-13.html"
+url: "/authors/tarkington-booth/alice-adams/chapter-13.html"
 ---
 
 He had not undressed, and he sat beside the table, smoking his pipe and reading his newspaper. Upon his forehead the lines in that old pattern, the historical map of his troubles, had grown a little vaguer lately; relaxed by the complacency of a man who not only finds his health restored, but sees the days before him promising once more a familiar routine that he has always liked to follow.

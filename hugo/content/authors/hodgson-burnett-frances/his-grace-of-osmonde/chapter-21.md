@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Upon The Moor"
 weight: 22
-aliases:
-  - "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-21.html"
+url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-21.html"
 ---
 
 Throughout the festivities which followed each other, day by day, my Lady Dunstanwolde was queen of every revel. 'Twas she who led the adventurous party who visited the gipsy encampment in the glen by moonlight, and so won the heart of the old gipsy queen that she took her to her tent and instructed her in the mysteries of spells and potions. She walked among them as though she had been bred and born one of their tribe, and came forth from one tent carrying in her arms a brown infant, and showed it to the company, laughing like a girl and making pretty sounds at the child when it stared at her with great black eyes like her own, and shook at it all her rings, which she stripped from her fingers, holding them in the closed palm of her hand to make a rattle of. She stirred the stew hanging to cook over the camp-fire, and begged a plate of it for each of the company, and ate her own with such gay appetite as recalled to Osmonde the day he had watched her on the moor; and the gipsy women stood by showing their white teeth in their pleasure, and the gipsy men hung about with black shining eyes fixed on her in stealthy admiration. She stood by the fire in the light of the flame, having fantastically wound a scarlet scarf about her head, and 'twas as though she might have been a gipsy queen herself.

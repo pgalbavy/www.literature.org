@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Northwards"
 weight: 4
-aliases:
-  - "/authors/haggard-h-rider/allans-wife/chapter-03.html"
+url: "/authors/haggard-h-rider/allans-wife/chapter-03.html"
 ---
 
 I make no apology to myself, or to anybody who may happen to read this narrative in future, for having set out the manner of my meeting with Indaba-zimbi: first, because it was curious, and secondly, because he takes some hand in the subsequent events. If that old man was a humbug, he was a very clever one. What amount of truth there was in his pretensions to supernatural powers it is not for me to determine, though I may have my own opinion on the subject. But there was no mistake as to the extraordinary influence he exercised over his fellow-natives. Also he quite got round my poor father. At first the old gentleman declined to have him at the station, for he had a great horror of these Kaffir wizards or witch-finders. But Indaba-zimbi persuaded him that he was anxious to investigate the truths of Christianity, and challenged him to a discussion. The argument lasted two years--to the time of my father’s death, indeed. At the conclusion of each stage Indaba-zimbi would remark, in the words of the Roman Governor, “Almost, praying white man, thou persuadest me to become a Christian,” but he never quite became one--indeed, I do not think he ever meant to. It was to him that my father addressed his “Letters to a Native Doubter.” This work, which, unfortunately, remains in manuscript, is full of wise saws and learned instances. It ought to be published together with a précis of the doubter’s answers, which were verbal.

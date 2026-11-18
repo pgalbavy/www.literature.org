@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - A Mishap"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-03.html"
 ---
 
 EXCEPT for the work that his father made him do now and then, there was only one thing that bothered Johnnie Green in making his collection of butterflies. The weather was not so good as it might have been. He soon found that there was no use hunting for butterflies except in the sunshine. So when a three days' rain came, Johnnie began to wish he had started a different sort of collection.

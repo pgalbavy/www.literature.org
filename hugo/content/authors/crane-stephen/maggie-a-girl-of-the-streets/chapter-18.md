@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-18.html"
+url: "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-18.html"
 ---
 
 In a partitioned-off section of a saloon sat a man with a half dozen women, gleefully laughing, hovering about him. The man had arrived at that stage of drunkenness where affection is felt for the universe.

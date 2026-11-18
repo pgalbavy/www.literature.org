@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Johnnie Green Is Stung"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-06.html"
 ---
 
 There had been so much rain early in the summer that even by the middle of August Farmer Green had not been able to finish his haying. His son Johnnie was sorry, too--because he had to work in the hot hayfield almost every day, when he would far rather have gone swimming in the mill-pond, under the shade of the great willow.

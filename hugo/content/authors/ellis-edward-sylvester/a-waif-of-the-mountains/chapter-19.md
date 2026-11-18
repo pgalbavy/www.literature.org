@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - A Collision"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-19.html"
 ---
 
 At this moment, the cheery voice of Adams called:

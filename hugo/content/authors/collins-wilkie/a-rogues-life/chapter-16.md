@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 17
-aliases:
-  - "/authors/collins-wilkie/a-rogues-life/chapter-16.html"
+url: "/authors/collins-wilkie/a-rogues-life/chapter-16.html"
 ---
 
 ON our way back I received from the runner some explanation of his apparently unaccountable proceedings in reference to myself.

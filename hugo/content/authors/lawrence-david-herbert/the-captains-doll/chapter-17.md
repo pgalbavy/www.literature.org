@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/lawrence-david-herbert/the-captains-doll/chapter-17.html"
+url: "/authors/lawrence-david-herbert/the-captains-doll/chapter-17.html"
 ---
 
 In the hotel was a buzz of tourists. Alexander and Hannele sat in the restaurant drinking hot coffee and milk, and watching the maidens in cotton frocks and aprons and bare arms, and the fair youths with maidenly necks and huge voracious boots, and the many Jews of the wrong sort and the wrong shape. These Jews were all being very Austrian, in Tyrol costume that didn't sit on them, assuming the whole gesture and intonation of aristocratic Austria, so that you might think they WERE Austrian aristocrats, if you weren't properly listening, or if you didn't look twice. Certainly they were lords of the Alps, or at least lords of the Alpine hotels this summer, let prejudice be what it might. Jews of the wrong sort. And yet even they imparted a wholesome breath of sanity, disillusion, unsentimentality to the excited 'Bergheil' atmosphere. Their dark-eyed, sardonic presence seemed to say to the maidenly- necked mountain youths: 'Don't sprout wings of the spirit too much, my dears.'

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - King Victor"
 weight: 28
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-28.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-28.html"
 ---
 
 "I suspected her from the first," explained Anthony. "There was a light in her room on the night of the murder. Afterwards, I wavered. I made inquiries about her in Brittany, and came back satisfied that she was what she represented herself to be. I was a fool. Because the Comtesse de Breteuil had employed a Mademoiselle Brun and spoke highly of her, it never occurred to me that the real Mademoiselle Brun might have been kidnapped on her way to her new post, and that it might be a substitute taking her place. Instead I shifted my suspicions to Mr. Fish. It was not until he had followed me to Dover, and we had had a mutual explanation that I began to see clearly. Once I knew that he was a Pinkerton’s man, trailing King Victor, my suspicions swung back again to their original object.

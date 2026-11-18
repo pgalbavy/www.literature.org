@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Unknown"
 weight: 2
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-02.html"
+url: "/authors/tarkington-booth/seventeen/chapter-02.html"
 ---
 
 He was roused by the bluff greeting of an acquaintance not dissimilar to himself in age, manner, and apparel.

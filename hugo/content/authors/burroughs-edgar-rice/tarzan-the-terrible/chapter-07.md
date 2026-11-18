@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Jungle Craft"
 weight: 7
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-07.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-07.html"
 ---
 
 Presently he looked up and at Pan-at-lee. "Can you cross the gorge through the trees very rapidly?" he questioned.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - A Breakfast Invitation"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-22.html"
 ---
 
 For a moment or two Benny Badger looked at the deer mouse without saying a word. He told himself that here was a country person who couldn't ever have travelled much, or he would have known better than to make such a remark. . . . Spoil the whole neighborhood indeed! . . . Benny's lip twisted up in something like a sneer.

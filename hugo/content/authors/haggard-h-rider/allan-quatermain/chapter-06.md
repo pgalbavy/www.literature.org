@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Night Wears On"
 weight: 7
-aliases:
-  - "/authors/haggard-h-rider/allan-quatermain/chapter-06.html"
+url: "/authors/haggard-h-rider/allan-quatermain/chapter-06.html"
 ---
 
 As may be imagined, at the very first sign of a Masai the entire population of the Mission Station had sought refuge inside the stout stone wall, and were now to be seen--men, women, and countless children--huddled up together in little groups, and all talking at once in awed tones of the awfulness of Masai manners and customs, and of the fate that they had to expect if those bloodthirsty savages succeeded in getting over the stone wall.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Jack Halloway"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-07.html"
 ---
 
 *THE* loss of Deerfoot’s horse was received more seriously by the friends of the young Shawanoe than by himself. There were several ways of meeting the difficulty. George Shelton proposed that the load carried by Zigzag should be divided among the others and the animal used by the dismounted one. The latter shook his head, and Victor suggested that he and his brother take turns with him in riding their horses. Before that proposition was made Mul-tal-la came forward with a similar one affecting only him and his comrade.

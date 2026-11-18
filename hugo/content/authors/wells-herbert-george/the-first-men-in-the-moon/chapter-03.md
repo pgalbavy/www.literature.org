@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Building Of The Sphere"
 weight: 3
-aliases:
-  - "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-03.html"
+url: "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-03.html"
 ---
 
 I REMEMBER the occasion very distinctly when Cavor told me of his idea of the sphere. He had had intimations of it before, but at the time it seemed to come to him in a rush. We were returning to the bungalow for tea, and on the way he fell humming. Suddenly he shouted, "That's it! That finishes it! A sort of roller blind!"

@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 5"
 weight: 49
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-04-chapter-05.html"
+url: "/authors/cather-willa/one-of-ours/book-04-chapter-05.html"
 ---
 
 That night the Virginian, who berthed under Victor Morse, had an alarming attack of nose-bleed, and by morning he was so weak that he had to be carried to the hospital. The Doctor said they might as well face the facts; a scourge of influenza had broken out on board, of a peculiarly bloody and malignant type.* Everybody was a little frightened. Some of the officers shut themselves up in the smoking-room, and drank whiskey and soda and played poker all day, as if they could keep contagion out.

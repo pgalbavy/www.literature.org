@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42 - Third Year"
 weight: 44
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-42.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-42.html"
 ---
 
 East returned to his regiment in a few days, and at the end of the month the gallant 101st embarked for India. Tom wrote several letters to the lieutenant, inclosing notes to Harry, with gleanings of news from Englebourn, where his escape on the night of the riot had been a nine-days' wonder; and, now that he was fairly "'listed," and out of the way, public opinion was beginning to turn in his favor. In due course a letter arrived from the lieutenant, dated Cape Town, giving a prosperous account of the voyage so far. East did not say much about "your convict," as he still insisted on calling Harry; but the little he did say was very satisfactory, and Tom sent off this part of the letter to Katie, to whom he had confided the whole story, entreating her to make the best use of it in the interest of the young soldier. And, after this out-of-the-way beginning, he settled down into the usual routine of his Oxford life.

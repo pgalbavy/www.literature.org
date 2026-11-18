@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Last Ride Together - A Sketch Containing Three Points Of View"
 weight: 5
-aliases:
-  - "/authors/davis-richard-harding/the-lion-and-the-unicorn-and-other-stories/chapter-05.html"
+url: "/authors/davis-richard-harding/the-lion-and-the-unicorn-and-other-stories/chapter-05.html"
 ---
 
 What the Poet Laureate wrote.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 2"
 weight: 2
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-01-chapter-02.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-01-chapter-02.html"
 ---
 
 Abandoning his bicycle, which fell before a servant could catch it, the young man sprang up on to the verandah. He was all animation. “Hamidullah, Hamidullah! am I late?” he cried.

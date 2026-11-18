@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 25
-aliases:
-  - "/authors/baum-l-frank/rinkitink-in-oz/chapter-24.html"
+url: "/authors/baum-l-frank/rinkitink-in-oz/chapter-24.html"
 ---
 
 One morning, just as the royal party was finishing breakfast, a servant came running to say that a great fleet of boats was approaching the island from the south. King Kitticut sprang up at once, in great alarm, for he had much cause to fear strange boats. The others quickly followed him to the shore to see what invasion might be coming upon them.

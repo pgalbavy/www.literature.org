@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 9 - Two Was Found, And She Glanced At Its Opening Sentences"
 weight: 16
-aliases:
-  - "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-09.html"
+url: "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-09.html"
 ---
 
 She thought she had gone mad.

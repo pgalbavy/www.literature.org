@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 14"
 weight: 204
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-14.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-14.html"
 ---
 
 Well, is she pretty? Ah, friend- my pink one is delicious; her name is Dunyasha...."

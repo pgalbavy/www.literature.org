@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Eastward Bound"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-01.html"
 ---
 
 Deerfoot the Shawanoe, Mul-tal-la the Blackfoot, and the twin brothers, George and Victor Shelton, had completed their long journey from the Ohio River to the Pacific slope, and, standing on an elevation near the Columbia, spent hours in looking out upon the face of the mightiest ocean of the globe. They feasted their vision on the magnificent scene, with the miles of wilderness, mountain, vale, river and Indian villages spread between their feet and the ocean.

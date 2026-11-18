@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - An Exhortation To Liberate Italy From The Barbarians"
 weight: 27
-aliases:
-  - "/authors/machiavelli-nicolo/the-prince/chapter-26.html"
+url: "/authors/machiavelli-nicolo/the-prince/chapter-26.html"
 ---
 
 Having carefully considered the subject of the above discourses, and wondering within myself whether the present times were propitious to a new prince, and whether there were elements that would give an opportunity to a wise and virtuous one to introduce a new order of things which would do honour to him and good to the people of this country, it appears to me that so many things concur to favour a new prince that I never knew a time more fit than the present.

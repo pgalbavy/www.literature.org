@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Circus Parade"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-21.html"
 ---
 
 The crash and blare of the circus band came nearer and nearer. Johnnie Green craned his neck out of the carryall, as it stood at the side of Main Street, and tried to get a glimpse of the parade.

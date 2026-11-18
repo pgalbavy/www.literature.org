@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - The Birthday Party"
 weight: 30
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-30.html"
+url: "/authors/tarkington-booth/penrod/chapter-30.html"
 ---
 
 A dancing floor had been laid upon a platform in the yard, when Mrs. Schofield and her son arrived at their own abode; and a white and scarlet striped canopy was in process of erection overhead, to shelter the dancers from the sun. Workmen were busy everywhere under the direction of Margaret, and the smitten heart of Penrod began to beat rapidly. All this was for him; he was Twelve!

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Skirmish"
 weight: 1
-aliases:
-  - "/authors/chambers-robert-w/the-firing-line/chapter-01.html"
+url: "/authors/chambers-robert-w/the-firing-line/chapter-01.html"
 ---
 
 As the wind veered and grew cooler a ribbon of haze appeared above the Gulf-stream.

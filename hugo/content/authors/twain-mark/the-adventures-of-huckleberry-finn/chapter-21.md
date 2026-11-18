@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-21.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-21.html"
 ---
 
 IT was after sun-up now, but we went right on and didn't tie up. The king and the duke turned out by and by looking pretty rusty; but after they'd jumped overboard and took a swim it chippered them up a good deal. After breakfast the king he took a seat on the corner of the raft, and pulled off his boots and rolled up his britches, and let his legs dangle in the water, so as to be comfortable, and lit his pipe, and went to getting his Romeo and Juliet by heart. When he had got it pretty good him and the duke begun to practice it together. The duke had to learn him over and over again how to say every speech; and he made him sigh, and put his hand on his heart, and after a while he said he done it pretty well; "only," he says, "you mustn't bellow out ROMEO! that way, like a bull -- you must say it soft and sick and languishy, so -- R-o-o-meo! that is the idea; for Juliet's a dear sweet mere child of a girl, you know, and she doesn't bray like a jackass."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Wherein His Grace Of Osmonde'S Courier Arrives From France"
 weight: 18
-aliases:
-  - "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-17.html"
+url: "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-17.html"
 ---
 
 The stronghold of her security lay in the fact that her household so stood in awe of her, and that this room, which was one of the richest and most beautiful, though not the largest, in the mansion, all her servitors had learned to regard as a sort of sacred place in which none dared to set foot unless invited or commanded to enter. Within its four walls she read and wrote in the morning hours, no servant entering unless summoned by her; and the apartment seeming, as it were, a citadel, none approached without previous parley. In the afternoon the doors were thrown open, and she entertained there such visitors as came with less formality than statelier assemblages demanded. When she went out of it this morning to go to her chamber that her habit might be changed and her toilette made, she glanced about her with a steady countenance.

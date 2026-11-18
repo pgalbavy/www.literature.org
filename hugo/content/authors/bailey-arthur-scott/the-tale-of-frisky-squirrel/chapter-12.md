@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Frisky Visits The Gristmill"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-12.html"
 ---
 
 Frisky Squirrel was very fond of wheat-kernels. Somehow or other he heard that there was a place on Swift River called the gristmill, where there was almost all the wheat in the world--at least that is what Frisky heard. So he started out, one day, to find the gristmill. He thought he could have a very pleasant time there.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Horse Dealer's Daughter"
 weight: 8
-aliases:
-  - "/authors/lawrence-david-herbert/england-my-england/chapter-08.html"
+url: "/authors/lawrence-david-herbert/england-my-england/chapter-08.html"
 ---
 
 'Well, Mabel, and what are you going to do with yourself?' asked Joe, with foolish flippancy. He felt quite safe himself. Without listening for an answer, he turned aside, worked a grain of tobacco to the tip of his tongue, and spat it out. He did not care about anything, since he felt safe himself.

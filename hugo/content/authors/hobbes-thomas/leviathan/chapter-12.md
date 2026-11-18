@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Of Religion"
 weight: 14
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-12.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-12.html"
 ---
 
 Religion, In Man Onely Seeing there are no signes, nor fruit of Religion, but in Man onely; there is no cause to doubt, but that the seed of Religion, is also onely in Man; and consisteth in some peculiar quality, or at least in some eminent degree thereof, not to be found in other Living creatures.

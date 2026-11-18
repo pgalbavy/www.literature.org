@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/brave-tom/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/brave-tom/chapter-03.html"
 ---
 
 The shot, however, was a poor one.

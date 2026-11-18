@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Crops"
 weight: 19
-aliases:
-  - "/authors/alcott-louisa-may/little-men/chapter-18.html"
+url: "/authors/alcott-louisa-may/little-men/chapter-18.html"
 ---
 
 The gardens did well that summer, and in September the little crops were gathered in with much rejoicing. Jack and Ned joined their farms and raised potatoes, those being a good salable article. They got twelve bushels, counting little ones and all, and sold them to Mr. Bhaer at a fair price, for potatoes went fast in that house. Emil and Franz devoted themselves to corn, and had a jolly little husking in the barn, after which they took their corn to the mill, and came proudly home with meal enough to supply the family with hasty-pudding and Johnny-cake for a lone time. They would not take money for their crop; because, as Franz said, "We never can pay Uncle for all he has done for us if we raised corn for the rest of our days."

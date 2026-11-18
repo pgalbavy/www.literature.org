@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-31.html"
+url: "/authors/dickens-charles/great-expectations/chapter-31.html"
 ---
 
 ON our arrival in Denmark, we found the king and queen of that country elevated in two arm-chairs on a kitchen-table, holding a Court. The whole of the Danish nobility were in attendance; consisting of a noble boy in the wash-leather boots of a gigantic ancestor, a venerable Peer with a dirty face who seemed to have risen from the people late in life, and the Danish chivalry with a comb in its hair and a pair of white silk legs, and presenting on the whole a feminine appearance. My gifted townsman stood gloomily apart, with folded arms, and I could have wished that his curls and forehead had been more probable.

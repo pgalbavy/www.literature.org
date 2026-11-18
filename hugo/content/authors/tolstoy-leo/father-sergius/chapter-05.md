@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/tolstoy-leo/father-sergius/chapter-05.html"
+url: "/authors/tolstoy-leo/father-sergius/chapter-05.html"
 ---
 
 For some weeks Father Sergius had been living with one persistent thought: whether he was right in accepting the position in which he had not so much placed himself as been placed by the Archimandrite and the Abbot. That position had begun after the recovery of the fourteen-year-old boy. From that time, with each month, week, and day that passed, Sergius felt his own inner life wasting away and being replaced by external life. It was as if he had been turned inside out.

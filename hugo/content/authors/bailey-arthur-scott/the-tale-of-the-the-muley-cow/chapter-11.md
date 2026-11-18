@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Unruly Muley"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-11.html"
 ---
 
 After leaving the Muley Cow, who was wearing her new poke down by the lane, Aunt Polly Woodchuck and Billy Woodchuck's mother met old Mr. Crow again.

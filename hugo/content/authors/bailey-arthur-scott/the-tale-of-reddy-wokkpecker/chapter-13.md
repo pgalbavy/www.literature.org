@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Carpenter"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-13.html"
 ---
 
 One day Reddy Woodpecker was tap, tap, tapping on a tall poplar that grew beside the brook. He had discovered a tiny opening in the bark and he wanted to see what was at the further end of it.

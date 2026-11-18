@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/stoker-bram/lair-of-the-white-worm/chapter-28.html"
+url: "/authors/stoker-bram/lair-of-the-white-worm/chapter-28.html"
 ---
 
 When Lady Arabella had crept away in her usual noiseless fashion, the two others remained for a while in their places on the turret roof: Caswall because he had nothing to say, Mimi because she had much to say and wished to put her thoughts in order. For quite a while--which seemed interminable--silence reigned between them. At last Mimi made a beginning--she had made up her mind how to act.

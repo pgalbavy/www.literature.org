@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 17
-aliases:
-  - "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-16.html"
+url: "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-16.html"
 ---
 
 Dorothy Gale was sitting in one of her rooms in the royal palace, while curled up at her feet was a little black dog with a shaggy coat and very bright eyes. She wore a plain white frock, without any jewels or other ornaments except an emerald- green hair-ribbon, for Dorothy was a simple little girl and had not been in the least spoiled by the magnificence surrounding her. Once the child had lived on the Kansas prairies, but she seemed marked for adventure for she had made seven trips to the Land of Oz before she came to live there for good. Her very best friend was the beautiful Ozma of Oz, who loved Dorothy so well that she kept her in her own palace, so as to be near her. The girl's Uncle Henry and Aunt Em--the only relatives she had in the world--had also been brought here by Ozma and given a pleasant home. Dorothy knew almost everybody in Oz, and it was she who had discovered the Scarecrow, the Tin Woodman and the Cowardly Lion, as well as Tik-tok the Clockwork Man. Her life was very pleasant now, and although she had been made a Princess of Oz by her friend Ozma she did not care much to be a Princess and remained as sweet as when she had been plain Dorothy Gale of Kansas.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-01.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-01.html"
 ---
 
 I scarcely know where to begin, though I sometimes facetiously place the cause of it all to Charley Furuseth's credit. He kept a summer cottage in Mill Valley, under the shadow of Mount Tamalpais, and never occupied it except when he loafed through the winter mouths and read Nietzsche and Schopenhauer to rest his brain. When summer came on, he elected to sweat out a hot and dusty existence in the city and to toil incessantly. Had it not been my custom to run up to see him every Saturday afternoon and to stop over till Monday morning, this particular January Monday morning would not have found me afloat on San Francisco Bay.

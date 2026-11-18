@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-22.html"
+url: "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-22.html"
 ---
 
 I, who wanted an incident, have had one to perfection. I am thankful enough not to have been one of the victims. I have emerged from the fray safe and sound. All my numbers are intact, barring two or three insignificant scratches. Only No. 4 has been traversed by a bullet clean through—his hat.

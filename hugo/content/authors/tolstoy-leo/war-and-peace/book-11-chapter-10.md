@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 10"
 weight: 239
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-10.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-10.html"
 ---
 
 On the thirteenth of August Pierre reached Moscow. Close to the gates of the city he was met by Count Rostopchin's adjutant.

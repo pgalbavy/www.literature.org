@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Through The Mountains. Continued"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-12.html"
 ---
 
 When Mickey found himself under the shelter of the trees, something like his old confidence returned.

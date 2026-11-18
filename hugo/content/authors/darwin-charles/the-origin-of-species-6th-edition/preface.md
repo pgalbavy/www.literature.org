@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/darwin-charles/the-origin-of-species-6th-edition/preface.html"
+url: "/authors/darwin-charles/the-origin-of-species-6th-edition/preface.html"
 ---
 
 The Origin of Species by means of Natural Selection or, The Preservation of Favoured Races in the Struggle for Life By Charles Darwin, M.A., F.R.S., Author of "The Descent of Man," etc., etc. Sixth London Edition, with all Additions and Corrections. The 6th Edition is often considered the definititive edition. Also see Project Gutenberg Etext #1228 for an earlier edition. "But with regard to the material world, we can at least go so far as this-- we can perceive that events are brought about not by insulated interpositions of Divine power, exerted in each particular case, but by the establishment of general laws." --Whewell: "Bridgewater Treatise". "The only distinct meaning of the word 'natural' is STATED, FIXED or SETTLED; since what is natural as much requires and presupposes an intelligent agent to render it so, i.e., to effect it continually or at stated times, as what is supernatural or miraculous does to effect it for once." Butler: "Analogy of Revealed Religion" "To conclude, therefore, let no man out of a weak conceit of sobriety, or an ill-applied moderation, think or maintain, that a man can search too far or be too well studied in the book of God's word, or in the book of God's works; divinity or philosophy; but rather let men endeavour an endless progress or proficience in both." Bacon: "Advancement of Learning"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - She Would A Planter Be"
 weight: 5
-aliases:
-  - "/authors/london-jack/adventure/chapter-05.html"
+url: "/authors/london-jack/adventure/chapter-05.html"
 ---
 
 Sheldon mended rapidly. The fever had burned out, and there was nothing for him to do but gather strength. Joan had taken the cook in hand, and for the first time, as Sheldon remarked, the chop at Berande was white man's chop. With her own hands Joan prepared the sick man's food, and between that and the cheer she brought him, he was able, after two days, to totter feebly out upon the veranda. The situation struck him as strange, and stranger still was the fact that it did not seem strange to the girl at all. She had settled down and taken charge of the household as a matter of course, as if he were her father, or brother, or as if she were a man like himself.

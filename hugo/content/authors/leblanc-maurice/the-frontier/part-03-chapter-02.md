@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 2 - They Who Go To Their Death"
 weight: 18
-aliases:
-  - "/authors/leblanc-maurice/the-frontier/part-03-chapter-02.html"
+url: "/authors/leblanc-maurice/the-frontier/part-03-chapter-02.html"
 ---
 
 Philippe went downstairs as soon as he was dressed. He found all the servants gathered in the hall, discussing the news. Victor confirmed it: he had come straight from Noirmont.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/chambers-robert-w/the-crimson-tide/chapter-04.html"
+url: "/authors/chambers-robert-w/the-crimson-tide/chapter-04.html"
 ---
 
 There remained, now, nothing to keep Palla in Shadow Hill.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Rat"
 weight: 4
-aliases:
-  - "/authors/hodgson-burnett-frances/the-lost-prince/chapter-04.html"
+url: "/authors/hodgson-burnett-frances/the-lost-prince/chapter-04.html"
 ---
 
 Marco would have wondered very much if he had heard the words, but, as he did not hear them, he turned toward home wondering at something else. A man who was in intimate attendance on a king must be a person of importance. He no doubt knew many things not only of his own ruler's country, but of the countries of other kings. But so few had really known anything of poor little Samavia until the newspapers had begun to tell them of the horrors of its war--and who but a Samavian could speak its language? It would be an interesting thing to tell his father--that a man who knew the King had spoken to him in Samavian, and had sent that curious message.

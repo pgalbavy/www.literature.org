@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Siege Of The Round-House"
 weight: 11
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-10.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-10.html"
 ---
 
 But now our time of truce was come to an end. Those on deck had waited for my coming till they grew impatient; and scarce had Alan spoken, when the captain showed face in the open door.

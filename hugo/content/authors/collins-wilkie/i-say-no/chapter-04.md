@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Miss Ladd's Drawing-Master"
 weight: 4
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-04.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-04.html"
 ---
 
 Francine was awakened the next morning by one of the housemaids, bringing up her breakfast on a tray. Astonished at this concession to laziness, i n an institution devoted to the practice of all virtues, she looked round. The bedroom was deserted.

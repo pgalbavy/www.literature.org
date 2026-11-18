@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Sharp Eyes Is Captured"
 weight: 6
-aliases:
-  - "/authors/barnum-richard/sharp-eyes-the-silver-fox/chapter-06.html"
+url: "/authors/barnum-richard/sharp-eyes-the-silver-fox/chapter-06.html"
 ---
 
 Don, the kind dog, as soon as he had seen the hunter coming toward the place in the woods where the trap that had caught the fox was set, ran back toward Sharp Eyes.

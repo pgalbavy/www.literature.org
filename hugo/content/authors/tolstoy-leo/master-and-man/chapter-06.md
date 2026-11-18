@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/tolstoy-leo/master-and-man/chapter-06.html"
+url: "/authors/tolstoy-leo/master-and-man/chapter-06.html"
 ---
 
 Although Vasili Andreevich felt quite warm in his two fur coats, especially after struggling in the snow-drift, a cold shiver ran down his back on realizing that he must really spend the night where they were. To calm himself he sat down in the sledge and got out his cigarettes and matches.

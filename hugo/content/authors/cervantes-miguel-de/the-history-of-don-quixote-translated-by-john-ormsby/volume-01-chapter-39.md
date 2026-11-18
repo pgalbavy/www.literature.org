@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 39 - Wherein The Captive Relates His Life And Adventures"
 weight: 42
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-39.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-39.html"
 ---
 
 My family had its origin in a village in the mountains of Leon, and nature had been kinder and more generous to it than fortune; though in the general poverty of those communities my father passed for being even a rich man; and he would have been so in reality had he been as clever in preserving his property as he was in spending it. This tendency of his to be liberal and profuse he had acquired from having been a soldier in his youth, for the soldier’s life is a school in which the niggard becomes free-handed and the free-handed prodigal; and if any soldiers are to be found who are misers, they are monsters of rare occurrence. My father went beyond liberality and bordered on prodigality, a disposition by no means advantageous to a married man who has children to succeed to his name and position. My father had three, all sons, and all of sufficient age to make choice of a profession. Finding, then, that he was unable to resist his propensity, he resolved to divest himself of the instrument and cause of his prodigality and lavishness, to divest himself of wealth, without which Alexander himself would have seemed parsimonious; and so calling us all three aside one day into a room, he addressed us in words somewhat to the following effect:

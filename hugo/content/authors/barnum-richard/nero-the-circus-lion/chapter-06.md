@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Nero In A Circus"
 weight: 6
-aliases:
-  - "/authors/barnum-richard/nero-the-circus-lion/chapter-06.html"
+url: "/authors/barnum-richard/nero-the-circus-lion/chapter-06.html"
 ---
 
 Nero did not know what had happened to him, except that he had fallen down into a big hole dug in the earth. He did not know what the black African man said about being in a "trap," for though Nero could understand lion talk, he did not yet know much about the talk of men. Later on he was to learn a little about that. Just now he was frightened and hurt, for when he fell down the hole he had struck his paw that had the bullet in it, and, though the sore was healed, it still pained a bit at times.

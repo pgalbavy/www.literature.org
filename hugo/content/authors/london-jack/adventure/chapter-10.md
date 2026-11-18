@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Message From Boucher"
 weight: 10
-aliases:
-  - "/authors/london-jack/adventure/chapter-10.html"
+url: "/authors/london-jack/adventure/chapter-10.html"
 ---
 
 The next day Sheldon was left all alone. Joan had gone exploring Pari-Sulay, and was not to be expected back until the late afternoon. Sheldon was vaguely oppressed by his loneliness, and several heavy squalls during the afternoon brought him frequently on to the veranda, telescope in hand, to scan the sea anxiously for the whale-boat. Betweenwhiles he scowled over the plantation account-books, made rough estimates, added and balanced, and scowled the harder. The loss of the Jessie had hit Berande severely. Not alone was his capital depleted by the amount of her value, but her earnings were no longer to be reckoned on, and it was her earnings that largely paid the running expenses of the plantation.

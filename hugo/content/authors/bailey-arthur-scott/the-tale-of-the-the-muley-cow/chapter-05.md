@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Friendly Scarecrow"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-05.html"
 ---
 
 Old Mr. Crow and all his cronies made fun of the scarecrow in the cornfield. They said that he was a great joke. "He doesn't know anything," they used to chuckle. "His head has nothing but straw inside it."

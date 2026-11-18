@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-31.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-31.html"
 ---
 
 The American leaned on the bottom of the slide, with his face scarcely two feet from the other, and with the revolver at his hip within instant reach.

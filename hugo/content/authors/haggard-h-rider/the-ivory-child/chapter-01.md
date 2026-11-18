@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Allan Gives A Shooting Lesson"
 weight: 1
-aliases:
-  - "/authors/haggard-h-rider/the-ivory-child/chapter-01.html"
+url: "/authors/haggard-h-rider/the-ivory-child/chapter-01.html"
 ---
 
 Now I, Allan Quatermain, come to the story of what was, perhaps, one of the strangest of all the adventures which have befallen me in the course of a life that so far can scarcely be called tame or humdrum.

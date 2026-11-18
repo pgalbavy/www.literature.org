@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Ambition Is Born"
 weight: 6
-aliases:
-  - "/authors/titus-harold/i-conquered/chapter-06.html"
+url: "/authors/titus-harold/i-conquered/chapter-06.html"
 ---
 
 And then began Danny's apprenticeship. Jed, the wise, did not delay activity. He commenced with the boy as soon as breakfast had been eaten and the dishes washed.

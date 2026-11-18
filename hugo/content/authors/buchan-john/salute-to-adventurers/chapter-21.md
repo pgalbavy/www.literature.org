@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - A Hawk Screams In The Evening"
 weight: 22
-aliases:
-  - "/authors/buchan-john/salute-to-adventurers/chapter-21.html"
+url: "/authors/buchan-john/salute-to-adventurers/chapter-21.html"
 ---
 
 Those two days in the stockade were like a rift of sun in a stormy day, and the next morn the clouds descended. The face of nature seemed to be a mirror of our fortunes, for when I woke the freshness had gone out of the air, and in the overcast sky there was a forewarning of storm. But the little party in the camp remained cheerful enough. Donaldson and Bertrand went off to their trapping; Elspeth was braiding her hair, the handsomest nymph that ever trod these woodlands, and trying in vain to discover from the discreet Ringan where he came from, and what was his calling. The two Borderers knew well who he was; Grey, I think, had a suspicion; but it never entered the girl's head that this debonair gentleman bore the best known name in all the Americas. She fancied he was some exiled Jacobite, and was ready to hear a pitiful romance. This at another time she would have readily got; but Ringan for the nonce was in a sober mood, and though he would talk of Breadalbane, was chary of touching on more recent episodes. All she learned was that he was a great traveller, and had tried most callings that merit a gentleman's interest.

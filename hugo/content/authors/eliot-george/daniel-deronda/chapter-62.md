@@ -1,8 +1,7 @@
 ---
 title: "Chapter 62"
 weight: 62
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-62.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-62.html"
 ---
 
 "Das Gluck ist eine leichte Dirne, Und weilt nicht gern am selben Ort; Sie streicht das Haar dir von der Stirn Und kusst dich rasch und flattert fort

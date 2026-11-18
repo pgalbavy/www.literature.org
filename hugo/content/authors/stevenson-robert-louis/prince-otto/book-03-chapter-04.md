@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 4 - Babes In The Wood"
 weight: 24
-aliases:
-  - "/authors/stevenson-robert-louis/prince-otto/book-03-chapter-04.html"
+url: "/authors/stevenson-robert-louis/prince-otto/book-03-chapter-04.html"
 ---
 
 While the feet of the Prince continued to run swiftly, his heart, which had at first by far outstripped his running, soon began to linger and hang back. Not that he ceased to pity the misfortune or to yearn for the sight of Seraphina; but the memory of her obdurate coldness awoke within him, and woke in turn his own habitual diffidence of self. Had Sir John been given time to tell him all, had he even known that she was speeding to the Felsenburg, he would have gone to her with ardour. As it was, he began to see himself once more intruding, profiting, perhaps, by her misfortune, and now that she was fallen, proffering unloved caresses to the wife who had spurned him in prosperity. The sore spots upon his vanity began to burn; once more, his anger assumed the carriage of a hostile generosity; he would utterly forgive indeed; he would help, save, and comfort his unloving wife; but all with distant self-denial, imposing silence on his heart, respecting Seraphina’s disaffection as he would the innocence of a child. So, when at length he turned a corner and beheld the Princess, it was his first thought to reassure her of the purity of his respect, and he at once ceased running and stood still. She, upon her part, began to run to him with a little cry; then, seeing him pause, she paused also, smitten with remorse; and at length, with the most guilty timidity, walked nearly up to where he stood.

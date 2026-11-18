@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-31.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-31.html"
 ---
 
 It goes to my heart to tell of the end of that day, how the fugitives vanished into Immensity; how there were no more trains how Botley stared unsympathetically with a palpable disposition to derision, denying conveyances how the landlord of the Heron was suspicious, how the next day was Sunday, and the hot summer's day had crumpled the collar of Phipps and stained the skirts of Mrs. Milton, and dimmed the radiant emotions of the whole party. Dangle, with sticking-plaster and a black eye, felt the absurdity of the pose of the Wounded Knight, and abandoned it after the faintest efforts. Recriminations never, perhaps, held the foreground of the talk, but they played like summer lightning on the edge of the conversation. And deep in the hearts of all was a galling sense of the ridiculous. Jessie, they thought, was most to blame. Apparently, too, the worst, which would have made the whole business tragic, was not happening. Here was a young woman --young woman do I say? a mere girl!--had chosen to leave a comfortable home in Surbiton, and all the delights of a refined and intellectual circle, and had rushed off, trailing us after her, posing hard, mutually jealous, and now tired and weather-worn, to flick us off at last, mere mud from her wheel, into this detestable village beer-house on a Saturday night! And she had done it, not for Love and Passion, which are serious excuses one may recognise even if one must reprobate, but just for a Freak, just for a fantastic Idea ; for nothing, in fact, but the outraging of Common Sense. Yet withal, such was our restraint, that we talked of her still as one much misguided, as one who burthened us with anxiety, as a lamb astray, and Mrs. Milton having eaten, continued to show the finest feelings on the matter.

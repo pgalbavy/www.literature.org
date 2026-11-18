@@ -1,8 +1,7 @@
 ---
 title: "Chapter 45 - Mr. Dick Fulfils My Aunt’s Predictions"
 weight: 46
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-45.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-45.html"
 ---
 
 It was some time now, since I had left the Doctor. Living in his neighbourhood, I saw him frequently; and we all went to his house on two or three occasions to dinner or tea. The Old Soldier was in permanent quarters under the Doctor’s roof. She was exactly the same as ever, and the same immortal butterflies hovered over her cap.

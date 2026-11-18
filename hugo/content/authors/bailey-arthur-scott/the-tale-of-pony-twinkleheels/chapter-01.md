@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Big Little Pony"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-01.html"
 ---
 
 When Johnnie Green sent him along the road at a trot, Twinkleheels' tiny feet moved so fast that you could scarcely have told one from another. Being a pony, and only half as big as a horse, he had to move his legs twice as quickly as a horse did in order to travel at a horse's speed. Twinkleheels' friends knew that he didn't care to be beaten by any horse, no matter how long-legged.

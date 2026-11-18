@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - A Strange Visitor"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-16.html"
 ---
 
 But the mutineers took good care not to show themselves just then; and the captain, deeming such a course prudent, tugged at the anchor until it was lifted, when he managed to shove the craft off, and reaching the middle of the lagoon, the anchor was dropped.

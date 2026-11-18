@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Englebourne Village"
 weight: 20
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-18.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-18.html"
 ---
 
 Dame Winburn was not long after her son, and they sat down together to breakfast in their best Sunday clothes—she, in a plain large white cap which covered all but a line of grey hair, a black stuff gown reaching to neck and wrists, and small silk neckkerchief put on like a shawl; a thin, almost gaunt old woman, whom the years had not used tenderly, and who showed marks of their usage—but a resolute, high-couraged soul, who had met hard times in the face, and could meet them again if need were. She spoke in broad Berkshire, and was otherwise a homely body, but self-possessed and without a shade of real vulgarity in her composition.

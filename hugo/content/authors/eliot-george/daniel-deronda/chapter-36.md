@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 36
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-36.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-36.html"
 ---
 
 "Rien ne pese tant qu'un secret Le porter loin est difficile aux dames: Et je sçais mesme sur ce fait Bon nombre d'hommes qui sont femmes." - LA FONTAINE.

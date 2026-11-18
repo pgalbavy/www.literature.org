@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Under Side"
 weight: 21
-aliases:
-  - "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-21.html"
+url: "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-21.html"
 ---
 
 From the Business Quarter they presently passed by the running ways into a remote quarter of the city, where the bulk of the manufactures was done. On their way the platforms crossed the Thames twice, and passed in a broad viaduct across one of the great roads that entered the city from the North. In both cases his impression was swift and in both very vivid. The river was a broad wrinkled glitter of black sea water, overarched by buildings, and vanishing either way into a blackness starred with receding lights. A string of black barges passed seaward, manned by blue-clad men. The road was a long and very broad and high tunnel, along which big-wheeled machines drove noiselessly and swiftly. Here, too, the distinctive blue of the Labour Company was in abundance. The smoothness of the double tracks, the largeness and the lightness of the big pneumatic wheels in proportion to the vehicular body, struck Graham most vividly. One lank and very high carriage with longitudinal metallic rods hung with the dripping carcasses of many hundred sheep arrested his attention unduly. Abruptly the edge of the archway cut and blotted out the picture.

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 4 - The Dinner At Galetti's"
 weight: 23
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-02-chapter-04.html"
+url: "/authors/buchan-john/the-half-hearted/part-02-chapter-04.html"
 ---
 
 "I have heard of you so much," Mr. Marker said, "and it was a lucky chance which brought me to Bardur to meet you." They had taken their cigars out to the verandah, and were drinking the strong Persian coffee, with a prospect before them of twinkling town lights, and a mountain line of rock and snow. Their host had put on evening clothes and wore a braided dinner-jacket which gave the faintest touch of the foreigner to his appearance. At dinner he had talked well of a score of things. He had answered George's questions on sport with the readiness of an expert; he had told a dozen good stories, and in an easy, pleasant way he had gossiped of books and places, people and politics. His knowledge struck both men as uncanny. Persons of minute significance in Parliament were not unknown to him, and he was ready with a theory or an explanation on the most recondite matters. But coffee and cigars found him a different man. He ceased to be the enthusiast, the omnivorous and versatile inquirer, and relapsed into the ordinary good fellow, who is no cleverer than his neighbours.

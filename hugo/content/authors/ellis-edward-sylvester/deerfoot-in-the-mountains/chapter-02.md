@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Lost, Strayed Or Stolen"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-02.html"
 ---
 
 You have already learned something of the Nez Perces, who in our times have produced one of the greatest Indian leaders of the past century. He was Chief Joseph, who gave the United States regulars such a brilliant campaign as to excite their admiration. Perhaps you saw the aged chief on his visit to the East a short time since. He was chivalrous, high-minded and a loyal friend of the whites, and showed this when he handed his rifle to Colonel Miles and said: "From where the sun stands in yonder heavens, I fight the white man no more."

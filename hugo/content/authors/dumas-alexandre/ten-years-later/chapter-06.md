@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Unknown"
 weight: 6
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-06.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-06.html"
 ---
 
 Thus founded and recommended by its sign, the hostelry of Master Cropole held its way steadily on towards a solid prosperity.

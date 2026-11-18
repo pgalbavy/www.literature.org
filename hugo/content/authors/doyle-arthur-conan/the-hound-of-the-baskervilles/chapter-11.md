@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Man on the Tor"
 weight: 11
-aliases:
-  - "/authors/doyle-arthur-conan/the-hound-of-the-baskervilles/chapter-11.html"
+url: "/authors/doyle-arthur-conan/the-hound-of-the-baskervilles/chapter-11.html"
 ---
 
 The extract from my private diary which forms the last chapter has brought my narrative up to the eighteenth of October, a time when these strange events began to move swiftly towards their terrible conclusion. The incidents of the next few days are indelibly graven upon my recollection, and I can tell them without reference to the notes made at the time. I start them from the day which succeeded that upon which I had established two facts of great importance, the one that Mrs. Laura Lyons of Coombe Tracey had written to Sir Charles Baskerville and made an appointment with him at the very place and hour that he met his death, the other that the lurking man upon the moor was to be found among the stone huts upon the hillside. With these two facts in my possession I felt that either my intelligence or my courage must be deficient if I could not throw some further light upon these dark places.

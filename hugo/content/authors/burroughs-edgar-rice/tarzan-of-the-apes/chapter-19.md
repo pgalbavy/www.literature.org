@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Call of the Primitive"
 weight: 19
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-19.html"
+url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-19.html"
 ---
 
 From the time Tarzan left the tribe of great anthropoids in which he had been raised, it was torn by continual strife and discord. Terkoz proved a cruel and capricious king, so that, one by one, many of the older and weaker apes, upon whom he was particularly prone to vent his brutish nature, took their families and sought the quiet and safety of the far interior.

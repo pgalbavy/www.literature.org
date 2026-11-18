@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-09.html"
+url: "/authors/london-jack/john-barleycorn/chapter-09.html"
 ---
 
 Gradual as was my development as a heavy drinker among the oyster pirates, the real heavy drinking came suddenly, and was the result, not of desire for alcohol, but of an intellectual conviction.

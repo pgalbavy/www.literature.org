@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 7 - The Conclusion"
 weight: 14
-aliases:
-  - "/authors/doyle-arthur-conan/a-study-in-scarlet/part-02-chapter-07.html"
+url: "/authors/doyle-arthur-conan/a-study-in-scarlet/part-02-chapter-07.html"
 ---
 
 WE had all been warned to appear before the magistrates upon the Thursday; but when the Thursday came there was no occasion for our testimony. A higher Judge had taken the matter in hand, and Jefferson Hope had been summoned before a tribunal where strict justice would be meted out to him. On the very night after his capture the aneurism burst, and he was found in the morning stretched upon the floor of the cell, with a placid smile upon his face, as though he had been able in his dying moments to look back upon a useful life, and on work well done.

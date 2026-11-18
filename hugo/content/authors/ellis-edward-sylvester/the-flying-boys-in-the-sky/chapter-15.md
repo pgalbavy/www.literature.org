@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Uncle Tommy"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-15.html"
 ---
 
 Like a sensible young man, Harvey Hamilton had made a study of his itinerary before leaving home. Allowing himself a margin of several days, he expected to rejoin his friends at the end of a fortnight. If all went well he would do so earlier, while there was always the possibility that he might be absent still longer.

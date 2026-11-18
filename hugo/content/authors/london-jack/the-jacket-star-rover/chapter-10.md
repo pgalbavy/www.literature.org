@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/london-jack/the-jacket-star-rover/chapter-10.html"
+url: "/authors/london-jack/the-jacket-star-rover/chapter-10.html"
 ---
 
 And above all things, next morning Warden Atherton came into my cell on murder intent. With him were Captain Jamie, Doctor Jackson, Pie- Face Jones, and Al Hutchins. Al Hutchins was serving a forty-years' sentence, and was in hopes of being pardoned out. For four years he had been head trusty of San Quentin. That this was a position of great power you will realize when I tell you that the graft alone of the head trusty was estimated at three thousand dollars a year. Wherefore Al Hutchins, in possession of ten or twelve thousand dollars and of the promise of a pardon, could be depended upon to do the Warden's bidding blind.

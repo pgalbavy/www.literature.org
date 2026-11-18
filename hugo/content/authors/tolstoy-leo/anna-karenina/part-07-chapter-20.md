@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 20"
 weight: 209
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-20.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-20.html"
 ---
 
 Stepan Arkadyevitch, as usual, did not waste his time in Petersburg. In Petersburg, besides business, his sister's divorce, and his coveted appointment, he wanted, as he always did, to freshen himself up, as he said, after the mustiness of Moscow.

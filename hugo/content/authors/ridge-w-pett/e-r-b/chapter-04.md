@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/ridge-w-pett/e-r-b/chapter-04.html"
+url: "/authors/ridge-w-pett/e-r-b/chapter-04.html"
 ---
 
 THE third round of deliveries was finished, and, arrived at his last evening, Erb, coat and collar off, washed away the traces of work in the stable pail with the aid of some aggressive soft soap that seemed to have its own way in everything. He had brought with him that morning a parcel of private clothes, and just before going out with the six o’clock turn, he had changed, and had handed in the corduroy uniform. A relief to feel that he no longer wore the brass buttons of servitude; of late they had seemed to reproach him. He had driven round the Surrey side with the air of a sporting gentleman taking out his own horse and trap; the private clothes helped him to say his good-byes with dignity to all, and especially to his old enemy, the van foreman.

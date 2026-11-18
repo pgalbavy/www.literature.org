@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-18.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-18.html"
 ---
 
 It was morning before Tarzan could bring himself to a realization of the possibility of failure of his quest, and even then he would only admit that success was but delayed. He would eat and sleep, and then set forth again. The jungle was wide; but wide too were the experience and cunning of Tarzan. Taglat might travel far; but Tarzan would find him in the end, though he had to search every tree in the mighty forest.

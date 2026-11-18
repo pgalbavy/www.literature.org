@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 26"
 weight: 343
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-26.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-26.html"
 ---
 
 At the beginning of winter Princess Mary came to Moscow. From reports current in town she learned how the Rostovs were situated, and how "the son has sacrificed himself for his mother," as people were saying.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Groping In The Dark"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-22.html"
 ---
 
 Five distinct parties were engaged in searching for the missing child, Ruth Spellman. Hoke Butler and his companions had left the bungalow on foot, because there was not room in the two canoes for them. Knowing nothing of the cause of the doctor’s appeal for help, they made no hunt until, when the greater part of the distance was passed, they met Mike Murphy and his friends. These had advanced at a slower pace, for they were hunting for that which they dreaded to find, and they meant to neglect nothing.

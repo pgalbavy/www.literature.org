@@ -1,8 +1,7 @@
 ---
 title: "Chapter 94 - Maximilian's Avowal"
 weight: 94
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-94.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-94.html"
 ---
 
 At the same moment M. de Villefort's voice was heard calling from his study, "What is the matter?" Morrel looked at Noirtier who had recovered his self-command, and with a glance indicated the closet where once before under somewhat similar circumstances, he had taken refuge. He had only time to get his hat and throw himself breathless into the closet when the procureur's footstep was heard in the passage. Villefort sprang into the room, ran to Valentine, and took her in his arms. "A physician, a physician, - M. d'Avrigny!" cried Villefort; "or rather I will go for him myself." He flew from the apartment, and Morrel at the same moment darted out at the other door. He had been struck to the heart by a frightful recollection - the conversation he had heard between the doctor and Villefort the night of Madame de Saint-Meran's death, recurred to him; these symptoms, to a less alarming extent, were the same which had preceded the death of Barrois. At the same time Monte Cristo's voice seemed to resound in his ear with the words he had heard only two hours before, "Whatever you want, Morrel, come to me; I have great power." More rapidly than thought, he darted down the Rue Matignon, and thence to the Avenue des Champs Elysees.

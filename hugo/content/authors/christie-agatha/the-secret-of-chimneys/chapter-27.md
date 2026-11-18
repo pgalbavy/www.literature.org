@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - The 13th Of October (Contd.)"
 weight: 27
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-27.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-27.html"
 ---
 
 The clock in the Council Chamber struck nine.

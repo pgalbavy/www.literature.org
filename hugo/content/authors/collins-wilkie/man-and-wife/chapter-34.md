@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - The Night Before"
 weight: 36
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-34.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-34.html"
 ---
 
 THE time was the night before the marriage. The place was Sir Patrick's house in Kent.

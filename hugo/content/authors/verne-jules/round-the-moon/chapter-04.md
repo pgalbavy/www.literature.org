@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/verne-jules/round-the-moon/chapter-04.html"
+url: "/authors/verne-jules/round-the-moon/chapter-04.html"
 ---
 
 The night passed without incident. The word "night," however, is scarcely applicable.

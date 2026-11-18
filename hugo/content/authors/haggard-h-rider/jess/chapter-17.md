@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Twelfth Of February"
 weight: 17
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-17.html"
+url: "/authors/haggard-h-rider/jess/chapter-17.html"
 ---
 
 John soon settled down into the routine of camp life in Pretoria, which, after one became accustomed to it, was not so disagreeable as might have been expected, and possessed, at any rate, the merit of novelty. Although he was an officer of the army, having several horses to ride and his services not being otherwise required, John preferred, on the whole, to enrol himself in the corps of mounted volunteers, known as the Pretoria Carbineers. This, in the humble capacity of a sergeant, he obtained leave to do from the officer commanding the troops. He was an active man, and his duties in connection with the corps kept him fully employed during most of the day, and sometimes, when there was outpost duty to be done, during a good part of the night too. For the rest, whenever he returned to the cart--by which he had stipulated he should be allowed to sleep in order to protect Jess in case of any danger--he always found her ready to greet him, and every little preparation made for his comfort that was possible under the circumstances. Indeed, as time went on, they thought it more convenient to set up their own little mess instead of sharing that of their friends. So every day they used to sit down to breakfast and dine together at a little table contrived out of a packing-case, and placed under an extemporised tent, for all the world like a young couple picnicking on their honeymoon. Of course, the situation was very irksome in a way, but it is not to be denied that it had a charm of its own.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/hodgson-burnett-frances/the-white-people/chapter-07.html"
+url: "/authors/hodgson-burnett-frances/the-white-people/chapter-07.html"
 ---
 
 “The feeling you call The Fear has never come to me,” I said to her. “And if it had I think it would have melted away because of a dream I once had. I don’t really believe it was a dream, but I call it one. I think I really went somewhere and came back. I often wonder why I came back. It was only a short dream, so simple that there is scarcely anything to tell, and perhaps it will not convey anything to you. But it has been part of my life--that time when I was Out on the Hillside. That is what I call The Dream to myself, ‘Out on the Hillside,’ as if it were a kind of unearthly poem. But it wasn’t. It was more real than anything I have ever felt. It was real--real! I wish that I could tell it so that you would know how real it was.”

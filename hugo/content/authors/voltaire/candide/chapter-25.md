@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Candide and Martin Pay a Visit to Seignor Pococurante, a Noble Venetian"
 weight: 25
-aliases:
-  - "/authors/voltaire/candide/chapter-25.html"
+url: "/authors/voltaire/candide/chapter-25.html"
 ---
 
 Candide and his friend Martin went in a gondola on the Brenta, and arrived at the palace of the noble Pococurante. The gardens were laid out in elegant taste, and adorned with fine marble statues; his palace was built after the most approved rules of architecture. The master of the house, who was a man of affairs, and very rich, received our two travelers with great politeness, but without much ceremony, which somewhat disconcerted Candide, but was not at all displeasing to Martin.

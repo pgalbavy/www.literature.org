@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Defeat Of Miriam"
 weight: 9
-aliases:
-  - "/authors/lawrence-david-herbert/sons-and-lovers/chapter-09.html"
+url: "/authors/lawrence-david-herbert/sons-and-lovers/chapter-09.html"
 ---
 
 PAUL was dissatisfied with himself and with everything. The deepest of his love belonged to his mother. When he felt he had hurt her, or wounded his love for her, he could not bear it. Now it was spring, and there was battle between him and Miriam. This year he had a good deal against her. She was vaguely aware of it. The old feeling that she was to be a sacrifice to this love, which she had had when she prayed, was mingled in all her emotions. She did not at the bottom believe she ever would have him. She did not believe in herself primarily: doubted whether she could ever be what he would demand of her. Certainly she never saw herself living happily through a lifetime with him. She saw tragedy, sorrow, and sacrifice ahead. And in sacrifice she was proud, in renunciation she was strong, for she did not trust herself to support everyday life. She was prepared for the big things and the deep things, like tragedy. It was the sufficiency of the small day-life she could not trust.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-10.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-10.html"
 ---
 
 As the weeks passed, the routine of ranch life weighed more and more heavily on Custer Pennington. The dull monotony of it took the zest from the things that he had formerly regarded as the pleasures of existence. The buoyant Apache no longer had power to thrill. The long rides were but obnoxious duties to be performed. The hills had lost their beauty.

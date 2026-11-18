@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 17
-aliases:
-  - "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-16.html"
+url: "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-16.html"
 ---
 
 Jim the Cab-horse found himself in possession of a large room with a green marble floor and carved marble wainscoting, which was so stately in its appearance that it would have awed anyone else. Jim accepted it as a mere detail, and at his command the attendants gave his coat a good rubbing, combed his mane and tail, and washed his hoofs and fetlocks. Then they told him dinner would be served directly and he replied that they could not serve it too quickly to suit his convenience. First they brought him a steaming bowl of soup, which the horse eyed in dismay.

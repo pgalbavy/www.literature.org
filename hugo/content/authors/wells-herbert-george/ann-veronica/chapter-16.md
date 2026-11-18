@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - In The Mountains"
 weight: 16
-aliases:
-  - "/authors/wells-herbert-george/ann-veronica/chapter-16.html"
+url: "/authors/wells-herbert-george/ann-veronica/chapter-16.html"
 ---
 
 Next day Ann Veronica and Capes felt like newborn things. It seemed to them they could never have been really alive before, but only dimly anticipating existence. They sat face to face beneath an experienced-looking rucksack and a brand new portmanteau and a leather handbag, in the afternoon-boat train that goes from Charing Cross to Folkestone for Boulogne. They tried to read illustrated papers in an unconcerned manner and with forced attention, lest they should catch the leaping exultation in each other's eyes. And they admired Kent sedulously from the windows.

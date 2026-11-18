@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Lady In Distress"
 weight: 2
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-02.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-02.html"
 ---
 
 "So that’s that," said Anthony, finishing off his glass and replacing it on the table. "What boat were you going on?"

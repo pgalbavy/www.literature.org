@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Hunting For The Equipments"
 weight: 30
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-29.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-29.html"
 ---
 
 The most preoccupied of the four friends was certainly D'Artagnan, although he, in his quality of Guardsman, would be much more easily equipped than Messieurs the Musketeers, who were all of high rank; but our Gascon cadet was, as may have been observed, of a provident and almost avaricious character, and with that (explain the contradiction) so vain as almost to rival Porthos. To this preoccupation of his vanity, D'Artagnan at this moment joined an uneasiness much less selfish. Notwithstanding all his inquiries respecting Mme. Bonacieux, he could obtain no intelligence of her. M. de Treville had spoken of her to the queen. The queen was ignorant where the mercer's young wife was, but had promised to have her sought for; but this promise was very vague and did not at all reassure D'Artagnan.

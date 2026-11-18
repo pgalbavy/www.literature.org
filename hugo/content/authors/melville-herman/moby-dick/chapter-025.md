@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Postscript"
 weight: 25
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-025.html"
+url: "/authors/melville-herman/moby-dick/chapter-025.html"
 ---
 
 In behalf of the dignity of whaling, I would fain advance naught but substantiated facts. But after embattling his facts, an advocate who should wholly suppress a not unreasonable surmise, which might tell eloquently upon his cause--such an advocate, would he not be blame-worthy?

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Jeddak of Lothar"
 weight: 6
-aliases:
-  - "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/chapter-06.html"
+url: "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/chapter-06.html"
 ---
 
 The girl looked her incredulity.

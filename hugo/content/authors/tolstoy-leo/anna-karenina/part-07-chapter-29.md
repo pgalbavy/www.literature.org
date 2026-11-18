@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 29"
 weight: 218
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-29.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-29.html"
 ---
 
 Anna got into the carriage again in aneven worse frame of mind than Xt when she set out from home. To her previous tortures was added now that sense of mortification and of being an outcast which she had felt so distinctly on meeting Kitty.

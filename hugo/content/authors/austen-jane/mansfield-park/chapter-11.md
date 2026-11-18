@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-11.html"
+url: "/authors/austen-jane/mansfield-park/chapter-11.html"
 ---
 
 The day at Sotherton, with all its imperfections, afforded the Miss Bertrams much more agreeable feelings than were derived from the letters from Antigua, which soon afterwards reached Mansfield. It was much pleasanter to think of Henry Crawford than of their father; and to think of their father in England again within a certain period, which these letters obliged them to do, was a most unwelcome exercise.

@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 10"
 weight: 25
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-02-chapter-10.html"
+url: "/authors/london-jack/valley-of-the-moon/book-02-chapter-10.html"
 ---
 
 Billy could never get over the shock, during that period, of Saxon's appearance. Morning after morning, and evening after evening when he came home from work, he would enter the room where she lay and fight a royal battle to hide his feelings and make a show of cheerfulness and geniality. She looked so small lying there so small and shrunken and weary, and yet so child-like in her smallness. Tenderly, as he sat beside her, he would take up her pale hand and stroke the slim, transparent arm, marveling at the smallness and delicacy of the bones.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Still Among Shoals"
 weight: 15
-aliases:
-  - "/authors/doyle-arthur-conan/beyond-the-city/chapter-15.html"
+url: "/authors/doyle-arthur-conan/beyond-the-city/chapter-15.html"
 ---
 
 Next day brought the Admiral a cheque for L5,000 from Mr. McAdam, and a stamped agreement by which he made over his pension papers to the speculative investor. It was not until he had signed and sent it off that the full significance of all that he had done broke upon him. He had sacrificed everything. His pension was gone. He had nothing save only what he could earn. But the stout old heart never quailed. He waited eagerly for a letter from the Saint Lawrence Shipping Company, and in the meanwhile he gave his landlord a quarter's notice. Hundred pound a year houses would in future be a luxury which he could not aspire to. A small lodging in some inexpensive part of London must be the substitute for his breezy Norwood villa. So be it, then! Better that a thousand fold than that his name should be associated with failure and disgrace.

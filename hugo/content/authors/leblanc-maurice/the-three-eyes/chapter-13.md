@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Veil Is Lifted"
 weight: 13
-aliases:
-  - "/authors/leblanc-maurice/the-three-eyes/chapter-13.html"
+url: "/authors/leblanc-maurice/the-three-eyes/chapter-13.html"
 ---
 
 I will not linger over the two films of this second performance and the evident connection between them. At the present moment we are too near the close of this extraordinary story to waste time over minute, tedious, unimportant details. We must remember that, on the following morning, a newspaper printed the first part, and, a few hours later, the second part of the famous Prévotelle report, in which the problem was attacked in so masterly a fashion and solved with so profoundly impressive a display of method and logic. I shall never forget it. I shall never forget that, during that night, while I sat in my bedroom reflecting upon the manner in which Massignac had been spirited away, during that night when the long-expected thunderstorm burst over the Paris district, Benjamin Prévotelle was writing the opening pages of his report. And I shall never forget that I was on the point of hearing of all this from Benjamin Prévotelle himself!

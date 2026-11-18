@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-11.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-11.html"
 ---
 
 It was two weeks after this that Arbuthnot, sauntering down the avenue in a leisurely manner, on his way from his office, and having a fancy to stroll through Lafayette Park, which was looking its best in its spring bravery and bloom, on entering the iron gate-way found his attention attracted by the large figure of Colonel Tredennis, who was approaching him from the opposite direction, walking slowly and appearing deeply abstracted. It cannot be said that Mr. Arbuthnot felt any special delight in the prospective encounter. He had not felt that he had advanced greatly in Colonel Tredennis' good opinion, and had, it must be confessed, resigned himself to that unfortunate condition of affairs without making any particular effort to remedy it,--his private impression being that the result would scarcely be likely to pay for the exertion, taking into consideration the fact that he was constitutionally averse to exertion.

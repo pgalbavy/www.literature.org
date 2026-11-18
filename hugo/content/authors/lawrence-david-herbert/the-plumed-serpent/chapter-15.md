@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Written Hymns Of Quetzalcoatl"
 weight: 15
-aliases:
-  - "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-15.html"
+url: "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-15.html"
 ---
 
 The electric light in Sayula was as inconstant as everything else. It would come on at half-past six in the evening, and it MIGHT bravely burn till ten at night, when the village went dark with a click. But usually it did no such thing. Often it refused to sputter into being till seven, or half-past, or even eight o'clock. But its worst trick was that of popping out just in the middle of supper, or just when you were writing a letter. All of a sudden, the black Mexican night came down on you with a thud. And then everybody running blindly for matches and candles, with a calling of frightened voices. Why were they always frightened? Then the electric light, like a wounded thing, would try to revive, and a red glow would burn in the bulbs, sinister. All held their breath - was it coming or not? Sometimes it expired for good, sometimes it got its breath back and shone, rather dully, but better than nothing.

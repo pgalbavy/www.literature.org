@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41 - A Boy Lost"
 weight: 41
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-41.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-41.html"
 ---
 
 When Elwood Brandon separated from Howard Lawrence on the afternoon of their ramble in the woods, it was with the firm intention of making all haste around the range of hills, and there to unite with him in their hunt for Tim.

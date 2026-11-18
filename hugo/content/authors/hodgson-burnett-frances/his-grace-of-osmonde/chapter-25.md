@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - To-Morrow"
 weight: 26
-aliases:
-  - "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-25.html"
+url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-25.html"
 ---
 
 A dozen gentlemen at least, rumour said, would have rejoiced to end for her, by marriage, this lovely lady's widowhood; but there were but two she would be like to choose between, and they were different men indeed. One of them, both her heart and her ambition might have caused her to make choice of, for he combined such qualities and fortunes as might well satisfy either.

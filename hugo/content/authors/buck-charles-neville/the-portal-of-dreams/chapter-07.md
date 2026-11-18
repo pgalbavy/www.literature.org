@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - In Strange Circumstances"
 weight: 7
-aliases:
-  - "/authors/buck-charles-neville/the-portal-of-dreams/chapter-07.html"
+url: "/authors/buck-charles-neville/the-portal-of-dreams/chapter-07.html"
 ---
 
 Pongee pajamas and a revolver belt constitute a light equipment even for the tropics, but that was the least pressing of my concerns.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - A Night Of Storm"
 weight: 23
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-22.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-22.html"
 ---
 
 That afternoon the whole Vicarage party walked up to the farm to inspect another litter of young pigs. It struck Geoffrey, remembering former editions, that the reproductive powers of Mr. Granger’s old sow were something little short of marvellous, and he dreamily worked out a calculation of how long it would take her and her progeny to produce a pig to every square yard of the area of plucky little Wales. It seemed that the thing could be done in six years, which was absurd, so he gave up calculating.

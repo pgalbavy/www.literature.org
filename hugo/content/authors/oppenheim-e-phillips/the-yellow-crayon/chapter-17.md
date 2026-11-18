@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-17.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-17.html"
 ---
 
 This little difference of opinion," the Prince remarked, looking thoughtfully through the emerald green of his liqueur," interests me. Our friend Dolinski here thinks that he will not come because he will be afraid. De Brouillac, on the contrary, says that he will not come because he is too sagacious. Felix here, who knows him best, says that he will not come because he prefers ever to play the game from outside the circle, a looker-on to all appearance, yet sometimes wielding an unseen force. It is a strong position that."

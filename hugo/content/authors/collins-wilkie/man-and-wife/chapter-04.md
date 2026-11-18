@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Two"
 weight: 6
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-04.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-04.html"
 ---
 
 He advanced a few steps, and stopped. Absorbed in herself, Anne failed to hear him. She never moved.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 73 - Stubb and Flask Kill a Right Whale; and Then Have a Talk Over Him"
 weight: 73
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-073.html"
+url: "/authors/melville-herman/moby-dick/chapter-073.html"
 ---
 
 It must be borne in mind that all this time we have a Sperm Whale's prodigious head hanging to the Pequod's side. But we must let it continue hanging there a while till we can get a chance to attend to it. For the present other matters press, and the best we can do now for the head, is to pray heaven the tackles may hold.

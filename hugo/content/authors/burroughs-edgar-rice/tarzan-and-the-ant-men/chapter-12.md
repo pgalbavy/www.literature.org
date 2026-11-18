@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-12.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-12.html"
 ---
 
 The Son of The First Woman strode proudly through the forest. He carried a spear, jauntily, and there was a bow and arrows slung to his back. Behind him came ten other males of his species, similarly armed, and each walked as though he owned the earth he trod. Toward them along the trail, though still beyond their sight, or hearing, or smell, came a woman of their kind. She, too, walked with fearless step. Presently her eyes narrowed and she paused, up-pricking her great, flat ears to listen; sniffing the air. Men! She increased her gait to a trot, bearing down upon them. There was more than one--there were several. If she came upon them suddenly they would be startled, filled with confusion, and no doubt she could seize one of them before they took to flight. If not--the feathered pebbles at her girdle would seek one out.

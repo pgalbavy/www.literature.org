@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Warning"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-01.html"
 ---
 
 In the valley of the Rio Pecos, years ago, an attempt at founding a settlement was made by a number of hardy and daring New Englanders, whose leader was a sort of Don Quixote, who traveled hundreds of miles, passing by the richest land, the most balmy climate, where all were protected by the strong arm of law, for the sake of locating where the soil was only moderate, the climate no better, and where, it may be said, the great American government was as powerless to protect its citizens as was a child itself. The Rio Pecos, running through New Mexico and Texas, drains a territory which at that time was one of the most dangerous in the whole Indian country; and why these score or more of families should have hit upon this spot of all others, was a problem which could never be clearly solved.

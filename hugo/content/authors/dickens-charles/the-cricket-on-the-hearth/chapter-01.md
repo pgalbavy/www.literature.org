@@ -1,8 +1,7 @@
 ---
 title: "Chirp the First"
 weight: 1
-aliases:
-  - "/authors/dickens-charles/the-cricket-on-the-hearth/chapter-01.html"
+url: "/authors/dickens-charles/the-cricket-on-the-hearth/chapter-01.html"
 ---
 
 The kettle began it! Don't tell me what Mrs. Peerybingle said. I know better. Mrs. Peery- bingle may leave it on record to the end of time that she couldn't say which of them began it; but, I say the kettle did. I ought to know, I hope! The kettle began it, full five minutes by the little waxy- faced Dutch clock in the corner, before the Cricket uttered a chirp.

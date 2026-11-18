@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Plan"
 weight: 7
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-05.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-05.html"
 ---
 
 SHE took his hand, and began with all the art of persuasion that she possessed.

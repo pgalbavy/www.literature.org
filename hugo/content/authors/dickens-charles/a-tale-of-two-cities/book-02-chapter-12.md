@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 12 - The Fellow of Delicacy"
 weight: 18
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-12.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-12.html"
 ---
 
 MR. STRYVER having made up his mind to that magnanimous bestowal of good fortune on the Doctor's daughter, resolved to make her happiness known to her before he left town for the Long Vacation. After some mental debating of the point, he came to the conclusion that it would be as well to get all the preliminaries done with, and they could then arrange at their leisure whether he should give her his hand a week or two before Michaelmas Term, or in the little Christmas vacation between it and Hilary.

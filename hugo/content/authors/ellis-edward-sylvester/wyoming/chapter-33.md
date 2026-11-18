@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 33
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-33.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-33.html"
 ---
 
 There was not a particle of lameness in the movements of Gravity Gimp as he went through this programme, but his actions were like those of an athlete.

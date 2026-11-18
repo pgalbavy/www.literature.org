@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/shelley-mary/frankenstein/chapter-07.html"
+url: "/authors/shelley-mary/frankenstein/chapter-07.html"
 ---
 
 On my return, I found the following letter from my father:--

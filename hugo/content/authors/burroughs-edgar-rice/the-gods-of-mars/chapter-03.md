@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Chamber of Mystery"
 weight: 4
-aliases:
-  - "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-03.html"
+url: "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-03.html"
 ---
 
 For moments after that awful laugh had ceased reverberating through the rocky room, Tars Tarkas and I stood in tense and expectant silence. But no further sound broke the stillness, nor within the range of our vision did aught move.

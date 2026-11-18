@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/wells-herbert-george/the-time-machine/chapter-06.html"
+url: "/authors/wells-herbert-george/the-time-machine/chapter-06.html"
 ---
 
 'It may seem odd to you, but it was two days before I could follow up the new-found clue in what was manifestly the proper way. I felt a peculiar shrinking from those pallid bodies. They were just the half-bleached colour of the worms and things one sees preserved in spirit in a zoological museum. And they were filthily cold to the touch. Probably my shrinking was largely due to the sympathetic influence of the Eloi, whose disgust of the Morlocks I now began to appreciate.

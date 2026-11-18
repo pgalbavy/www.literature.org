@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Life-Book Of Captain Jim"
 weight: 24
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-24.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-24.html"
 ---
 
 "I have a little brown cocoon of an idea that may possibly expand into a magnificent moth of fulfilment," Anne told Gilbert when she reached home. He had returned earlier than she had expected, and was enjoying Susan's cherry pie. Susan herself hovered in the background, like a rather grim but beneficent guardian spirit, and found as much pleasure in watching Gilbert eat pie as he did in eating it.

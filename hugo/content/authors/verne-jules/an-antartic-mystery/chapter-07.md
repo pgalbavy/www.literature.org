@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Tristan D’Acunha"
 weight: 7
-aliases:
-  - "/authors/verne-jules/an-antartic-mystery/chapter-07.html"
+url: "/authors/verne-jules/an-antartic-mystery/chapter-07.html"
 ---
 
 Four days later, the Halbrane neared that curious island of Tristan d'Acunha, which may be described as the big boiler of the African seas. By that time I had come to realize that the "hallucination" of Captain Len Guy was a truth, and that he and the captain of the Jane (also a reality) were connected with each other by this ocean waif from the authentic expedition of Arthur Pym. My last doubts were buried in the depths of the ocean with the body of Patterson.

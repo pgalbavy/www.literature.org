@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Through The Mist"
 weight: 7
-aliases:
-  - "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-07.html"
+url: "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-07.html"
 ---
 
 THE year that followed was the saddest Christie had ever known, for she suffered a sort of poverty which is more difficult to bear than actual want, since money cannot lighten it, and the rarest charity alone can minister to it. Her heart was empty and she could not fill it; her soul was hungry and she could not feed it; life was cold and dark and she could not warm and brighten it, for she knew not where to go.

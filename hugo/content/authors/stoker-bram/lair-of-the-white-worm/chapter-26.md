@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/stoker-bram/lair-of-the-white-worm/chapter-26.html"
+url: "/authors/stoker-bram/lair-of-the-white-worm/chapter-26.html"
 ---
 
 Mimi was greatly distressed when she saw her cousin lying prone. She had a few times in her life seen Lilla on the verge of fainting, but never senseless; and now she was frightened. She threw herself on her knees beside Lilla, and tried, by rubbing her hands and other measures commonly known, to restore her. But all her efforts were unavailing. Lilla still lay white and senseless. In fact, each moment she looked worse; her breast, that had been heaving with the stress, became still, and the pallor of her face grew like marble.

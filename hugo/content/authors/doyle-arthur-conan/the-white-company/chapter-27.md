@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - How Rodger Club-Foot Was Passed Into Paradise"
 weight: 27
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-27.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-27.html"
 ---
 
 IT was evening before the three comrades came into Aiguillon, There they found Sir Nigel Loring and Ford safely lodged at the sign of the "Baton Rouge," where they supped on good fare and slept between lavender-scented sheets. It chanced, however, that a knight of Poitou, Sir Gaston d'Estelle, was staying there on his way back from Lithuania, where he had served a term with the Teutonic knights under the land-master of the presbytery of Marienberg. He and Sir Nigel sat late in high converse as to bushments, outfalls, and the intaking of cities, with many tales of warlike men and valiant deeds. Then their talk turned to minstrelsy, and the stranger knight drew forth a cittern, upon which he played the minne-lieder of the north, singing the while in a high cracked voice of Hildebrand and Brunhild and Siegfried, and all the strength and beauty of the land of Almain. To this Sir Nigel answered with the romances of Sir Eglamour, and of Sir Isumbras, and so through the long winter night they sat by the crackling wood-fire answering each other's songs until the crowing cocks joined in their concert. Yet, with scarce an hour of rest, Sir Nigel was as blithe and bright as ever as they set forth after breakfast upon their way.

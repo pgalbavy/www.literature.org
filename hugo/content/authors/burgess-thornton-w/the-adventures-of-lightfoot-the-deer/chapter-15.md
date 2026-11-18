@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Three Watchers"
 weight: 15
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-15.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-15.html"
 ---
 
 When Paddy the Beaver slapped the water with his broad tail, making a noise like a pistol shot, Lightfoot understood that this was meant as a warning of danger. He was on his feet instantly, with eyes, ears, and nose seeking the cause of Paddy's warning. After a moment or two he stole softly up to the top of a little ridge some distance back from Paddy's pond, but from the top of which he could see the whole of the pond. There he hid among some close-growing young hemlock-trees. It wasn't long before he saw a hunter with a terrible gun come down to the shore of the pond.

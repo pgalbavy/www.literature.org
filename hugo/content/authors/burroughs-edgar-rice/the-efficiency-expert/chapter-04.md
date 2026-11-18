@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Jimmy Hunts A Job"
 weight: 4
-aliases:
-  - "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-04.html"
+url: "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-04.html"
 ---
 
 Once again Jimmy walked out onto Madison Street, and, turning to his right, dropped into a continuous vaudeville show in an attempt to coax his spirits back to somewhere near their normal high-water mark. Upon the next day he again haunted the newspaper office without reward, and again upon the third day with similar results. To say that Jimmy was dumfounded would be but a futile description of his mental state. It was simply beyond him to conceive that in one of the largest cities in the world, the center of a thriving district of fifty million souls, there was no business man with sufficient acumen to realize how badly he needed James Torrance, Jr., to conduct his business for him successfully.

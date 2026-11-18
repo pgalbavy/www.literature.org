@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 14
-aliases:
-  - "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-13.html"
+url: "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-13.html"
 ---
 
 Our friends had a good start and were able to maintain it, for with their eight wings they could go just as fast as could the Gargoyles. All the way to the great rock the wooden people followed them, and when Jim finally alighted at the mouth of the cavern the pursuers were still some distance away.

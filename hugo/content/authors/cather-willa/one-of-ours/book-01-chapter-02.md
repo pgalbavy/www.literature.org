@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 2"
 weight: 2
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-01-chapter-02.html"
+url: "/authors/cather-willa/one-of-ours/book-01-chapter-02.html"
 ---
 
 Claude and his mules rattled into Frankfort just as the calliope went screaming down Main street at the head of the circus parade. Getting rid of his disagreeable freight and his uncongenial companions as soon as possible, he elbowed his way along the crowded sidewalk, looking for some of the neighbour boys. Mr. Wheeler was standing on the Farmer's Bank corner, towering a head above the throng, chaffing with a little hunchback who was setting up a shell-game. To avoid his father, Claude turned and went in to his brother's store. The two big show windows were full of country children, their mothers standing behind them to watch the parade. Bayliss was seated in the little glass cage where he did his writing and bookkeeping. He nodded at Claude from his desk.

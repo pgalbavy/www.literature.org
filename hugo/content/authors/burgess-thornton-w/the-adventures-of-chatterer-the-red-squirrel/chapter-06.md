@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Peter Rabbit Listens To The Wrong Voice"
 weight: 6
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-06.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-06.html"
 ---
 
 Peter Rabbit didn't play fair. No, Sir, Peter didn't play fair. People who have too much curiosity about other people's affairs seldom do play fair. He didn't mean to be unfair. Oh, my, no! Peter didn't mean to be unfair. When he left Chatterer the Red Squirrel sitting on the old stone wall on the edge of Farmer Brown's Old Orchard, he intended to go straight home to the dear Old Briar-patch. He was a little disappointed, was Peter, that Chatterer hadn't told him just where his new house was. Not that it really mattered; he just wanted to know, that was all. With every jump away from the old stone wall, that desire to know just where Chatterer's new house was seemed to grow. Peter stopped and looked back. He couldn't see Chatterer now, because the bushes hid him. And if he couldn't see Chatterer, why of course Chatterer couldn't see him.

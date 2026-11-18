@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - \"Now For The Ranch\""
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-05.html"
 ---
 
 One of the singular features connected with the experience of our young friends during the first night they spent in Wyoming was that all the danger which threatened them came from one Indian and from one *lupus*. After Jack Dudley had expelled the prowling buck, the intruder took good care to remain away. Neither he nor any of his companions troubled the campers further. The presumption, therefore, was that this solitary specimen was a "dog Indian," or vagrant, wandering over the country on his own account. Such fellows, as already explained, claim no kinship with any tribe, but are, like the tramps of civilized society, agents for themselves alone.

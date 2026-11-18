@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Heathen"
 weight: 5
-aliases:
-  - "/authors/london-jack/south-sea-tales/chapter-05.html"
+url: "/authors/london-jack/south-sea-tales/chapter-05.html"
 ---
 
 I met him first in a hurricane; and though we had gone through the hurricane on the same schooner, it was not until the schooner had gone to pieces under us that I first laid eyes on him. Without doubt I had seen him with the rest of the kanaka crew on board, but I had not consciously been aware of his existence, for the Petite Jeanne was rather overcrowded. In addition to her eight or ten kanaka seamen, her white captain, mate, and supercargo, and her six cabin passengers, she sailed from Rangiroa with something like eighty-five deck passengers-- Paumotans and Tahitians, men, women, and children each with a trade box, to say nothing of sleeping mats, blankets, and clothes bundles.

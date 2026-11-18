@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/preface.html"
+url: "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/preface.html"
 ---
 
 A Faithful Record of Their Amazing Adventures in an Underground World; and How with the Aid of Their Friends Zeb Hugson, Eureka the Kitten, and Jim the Cab-Horse, They Finally Reached the Wonderful Land of Oz

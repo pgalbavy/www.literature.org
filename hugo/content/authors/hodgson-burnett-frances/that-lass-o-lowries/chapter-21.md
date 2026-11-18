@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Derrick'S Question"
 weight: 21
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-21.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-21.html"
 ---
 
 Derrick had had a great deal to think about of late. Affairs at the mines had been troublesome, as usual, and he had been often irritated by the stupidity of the men who were in authority over him. He began to feel, moreover, that an almost impalpable barrier had sprung up between himself and his nearest friend. When he came to face the matter, he was obliged to acknowledge to himself that there were things he had kept from Grace, though it had been without any positive intention of concealment And, perhaps, being the sensitive fellow he had called him, Grace had felt that there was something behind his occasional abstraction and silence, and had shrunk within himself, feeling a trifle hurt at Derrick's want of frankness and confidence.

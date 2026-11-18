@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Johnny Chuck's Pride"
 weight: 19
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-19.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-19.html"
 ---
 
 Ever since Farmer Brown's boy and Reddy Fox had found his new house in the far corner of the old orchard, Johnny Chuck had been worried. It was not that he was afraid for himself. Oh, my, no! Johnny Chuck felt perfectly able to take care of himself. But there was Polly Chuck! He was terribly afraid that something might happen to Polly Chuck. You see she was not big and strong like him, and then Polly Chuck was apt to be careless. So for a while Johnny Chuck worried a great deal.

@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 7"
 weight: 7
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-01-chapter-07.html"
+url: "/authors/london-jack/valley-of-the-moon/book-01-chapter-07.html"
 ---
 
 Tun work in the ironing-room slipped off, but the three days until Wednesday night were very long. She hummed over the fancy starch that flew under the iron at an astounding rate.

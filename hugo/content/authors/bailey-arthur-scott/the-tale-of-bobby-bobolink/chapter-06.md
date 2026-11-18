@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Mrs. Bobolink Consents"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-06.html"
 ---
 
 IT had never occurred to Mr. Meadowlark that Bobby Bobolink's wife might object to her husband's joining the Singing Society. But Bobby seemed doubtful.

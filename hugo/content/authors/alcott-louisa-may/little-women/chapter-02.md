@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Merry Christmas"
 weight: 2
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-02.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-02.html"
 ---
 
 Jo was the first to wake in the gray dawn of Christmas morning. No stockings hung at the fireplace, and for a moment she felt as much disappointed as she did long ago, when her little sock fell down because it was crammed so full of goodies. Then she remembered her mother's promise and, slipping her hand under her pillow, drew out a little crimson-covered book. She knew it very well, for it was that beautiful old story of the best life ever lived, and Jo felt that it was a true guidebook for any pilgrim going on a long journey. She woke Meg with a "Merry Christmas," and bade her see what was under her pillow. A green- covered book appeared, with the same picture inside, and a few words written by their mother, which made their one present very precious in their eyes. Presently Beth and Amy woke to rummage and find their little books also, one dove-colored, the other blue, and all sat looking at and talking about them, while the east grew rosy with the coming day.

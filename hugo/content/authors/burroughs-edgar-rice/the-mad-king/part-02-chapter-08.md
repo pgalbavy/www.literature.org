@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 8 - An Adventurous Day"
 weight: 20
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-08.html"
+url: "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-08.html"
 ---
 
 For an instant the two stood looking at one another. The girl's eyes were wide with incredulity, with hope, with fear. She was the first to break the silence.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-09.html"
+url: "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-09.html"
 ---
 
 A group of urchins were intent upon the side door of a saloon. Expectancy gleamed from their eyes. They were twisting their fingers in excitement.

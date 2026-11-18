@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-29.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-29.html"
 ---
 
 THE evening after the funeral, my young lady and I were seated in the library; now musing mournfully - one of us despairingly - on our loss, now venturing conjectures as to the gloomy future.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - An Ace In The Hole"
 weight: 10
-aliases:
-  - "/authors/ostrander-isabel/the-fifth-ace/chapter-10.html"
+url: "/authors/ostrander-isabel/the-fifth-ace/chapter-10.html"
 ---
 
 November was well advanced, and the first snow of the season was falling when Starr Wiley reappeared in New York. His coming was unheralded, but Harrington Chase was on hand when the train crawled into the station at midnight and the two partners repaired to the room of the returned wanderer, where they held an absorbing conference until the small hours.

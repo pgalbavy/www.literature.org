@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Muscles"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-11.html"
 ---
 
 You are provided by nature with about four hundred muscles. Every one has its special use. They are fastened to the bones, which can only be moved by them. The principal muscles are shown in the figure on page 45.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-15.html"
+url: "/authors/haggard-h-rider/dawn/chapter-15.html"
 ---
 
 It is perhaps time that the reader should know a little of the ancient house and loyalty where many of the personages of whose history these pages treat, lived and moved and had their being.

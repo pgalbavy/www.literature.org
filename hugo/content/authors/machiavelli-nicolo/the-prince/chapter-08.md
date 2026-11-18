@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Concerning Those Who Have Obtained A Principality By Wickedness"
 weight: 9
-aliases:
-  - "/authors/machiavelli-nicolo/the-prince/chapter-08.html"
+url: "/authors/machiavelli-nicolo/the-prince/chapter-08.html"
 ---
 
 Although a prince may rise from a private station in two ways, neither of which can be entirely attributed to fortune or genius, yet it is manifest to me that I must not be silent on them, although one could be more copiously treated when I discuss republics. These methods are when, either by some wicked or nefarious ways, one ascends to the principality, or when by the favour of his fellow-citizens a private person becomes the prince of his country. And speaking of the first method, it will be illustrated by two examples—one ancient, the other modern—and without entering further into the subject, I consider these two examples will suffice those who may be compelled to follow them.

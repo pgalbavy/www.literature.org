@@ -1,8 +1,7 @@
 ---
 title: "part blah 08"
 weight: 999
-aliases:
-  - "/authors/davis-richard-harding/the-kings-jackal/part-blah-08.html"
+url: "/authors/davis-richard-harding/the-kings-jackal/part-blah-08.html"
 ---
 
 At twelve-thirty Mr. Rooney was still in the theater with his property-man and his electrician, but just before one he left through the stage-door.

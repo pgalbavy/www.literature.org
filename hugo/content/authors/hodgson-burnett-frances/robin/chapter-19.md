@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 20
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-19.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-19.html"
 ---
 
 Robin had spent the night at the cottage and Mrs. Bennett had been very good to her. They had sat by the fire together for a long time and had talked of the dead boys on the battlefield, while Robin's head had rested against the old fairy woman's knee and the shrivelled hand had stroked and patted her tremulously. It had been nearing dawn when the girl went to bed and at the last Mrs. Bennett had held on to her dress and asked her a pleading question.

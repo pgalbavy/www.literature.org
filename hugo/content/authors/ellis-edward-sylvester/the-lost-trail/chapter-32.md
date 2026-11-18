@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - Turning The Tables"
 weight: 32
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-32.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-32.html"
 ---
 
 Although Jack Carleton and Otto Relstaub understood nothing of the conversation (excepting the few words of mangled English) between Wish-o-wa-tum, the Osage chieftain, and the Shawanoe who entered his lodge, little was lost upon Deerfoot.

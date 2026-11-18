@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - Of The Word Of God, And Of Prophets"
 weight: 38
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-36.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-36.html"
 ---
 
 Word What When there is mention of the Word of God, or of Man, it doth not signifie a part of Speech, such as Grammarians call a Nown, or a Verb, or any simple voice, without a contexture with other words to make it significative; but a perfect Speech or Discourse, whereby the speaker Affirmeth, Denieth, Commandeth, Promiseth, Threateneth, Wisheth, or Interrogateth. In which sense it is not Vocabulum, that signifies a Word; but Sermo, (in Greek Logos) that is some Speech, Discourse, or Saying.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/conrad-joseph/end-of-the-tether/chapter-02.html"
+url: "/authors/conrad-joseph/end-of-the-tether/chapter-02.html"
 ---
 
 His age sat lightly enough on him; and of his ruin he was not ashamed. He had not been alone to believe in the stability of the Banking Corporation. Men whose judgment in matters of finance was as expert as his seamanship had commended the prudence of his investments, and had themselves lost much money in the great failure. The only difference between him and them was that he had lost his all. And yet not his all. There had remained to him from his lost fortune a very pretty little bark, Fair Maid, which he had bought to occupy his leisure of a retired sailor—"to play with," as he expressed it himself.

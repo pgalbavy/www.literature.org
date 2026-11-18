@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 16"
 weight: 52
-aliases:
-  - "/authors/austen-jane/emma/volume-03-chapter-16.html"
+url: "/authors/austen-jane/emma/volume-03-chapter-16.html"
 ---
 
 It was a very great relief to Emma to find Harriet as desirous as herself to avoid a meeting. Their intercourse was painful enough by letter. How much worse, had they been obliged to meet!

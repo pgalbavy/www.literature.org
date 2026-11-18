@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-19.html"
+url: "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-19.html"
 ---
 
 When the first acrid warning of scorched timbers came to his nostrils, Jerry O'Keefe had recognized the desperation of his plight and he laid out his simple plans in accordance. He meant to stay where he was till the last endurable moment, hoping against hope for the coming of the rescuers. When it was no longer possible to remain, he would go out of the door and sell his life at a price--but he knew he would have to sell it, and perhaps cheaply, for they would do their killing from cover.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-17.html"
 ---
 
 The cheek of the American blanched, and she looked earnestly at her friend, as if she did not take in the full meaning of her words. She spoke in a whisper:

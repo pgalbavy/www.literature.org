@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Together?"
 weight: 10
-aliases:
-  - "/authors/daviess-maria-thompson/the-tinderbox/chapter-10.html"
+url: "/authors/daviess-maria-thompson/the-tinderbox/chapter-10.html"
 ---
 
 When business and love crowd each other on a man's desk he calmly puts love in a pigeon-hole to wait for a convenient time and attends strictly to business, while a woman takes up and coddles the tender passion and stands business over in the corner with its face to the wall to keep it from intruding.

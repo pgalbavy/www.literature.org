@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - At Jerusalem"
 weight: 23
-aliases:
-  - "/authors/haggard-h-rider/the-brethren/chapter-22.html"
+url: "/authors/haggard-h-rider/the-brethren/chapter-22.html"
 ---
 
 Godwin knew that he lay sick, but save that Masouda seemed to tend him in his sickness he knew no more, for all the past had gone from him. There she was always, clad in a white robe, and looking at him with eyes full of ineffable calm and love, and he noted that round her neck ran a thin, red line, and wondered how it came there.

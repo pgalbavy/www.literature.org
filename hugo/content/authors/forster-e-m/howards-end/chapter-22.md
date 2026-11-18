@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-22.html"
+url: "/authors/forster-e-m/howards-end/chapter-22.html"
 ---
 
 Margaret greeted her lord with peculiar tenderness on the morrow. Mature as he was, she might yet be able to help him to the building of the rainbow bridge that should connect the prose in us with the passion. Without it we are meaningless fragments, half monks, half beasts, unconnected arches that have never joined into a man. With it love is born, and alights on the highest curve, glowing against the grey, sober against the fire. Happy the man who sees from either aspect the glory of these outspread wings. The roads of his soul lie clear, and he and his friends shall find easy-going.

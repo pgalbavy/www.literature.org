@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/austen-jane/persuasion/chapter-21.html"
+url: "/authors/austen-jane/persuasion/chapter-21.html"
 ---
 
 Anne recollected with pleasure the next morning her promise of going to Mrs Smith, meaning that it should engage her from home at the time when Mr Elliot would be most likely to call; for to avoid Mr Elliot was almost a first object.

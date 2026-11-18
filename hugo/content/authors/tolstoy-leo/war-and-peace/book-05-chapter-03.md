@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 3"
 weight: 87
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-05-chapter-03.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-05-chapter-03.html"
 ---
 
 On reaching Petersburg Pierre did not let anyone know of his arrival, he went nowhere and spent whole days in reading Thomas a Kempis, whose book had been sent him by someone unknown. One thing he continually realized as he read that book: the joy, hitherto unknown to him, of believing in the possibility of attaining perfection, and in the possibility of active brotherly love among men, which Joseph Alexeevich had revealed to him. A week after his arrival, the young Polish count, Willarski, whom Pierre had known slightly in Petersburg society, came into his room one evening in the official and ceremonious manner in which Dolokhov's second had called on him, and, having closed the door behind him and satisfied himself that there was nobody else in the room, addressed Pierre.

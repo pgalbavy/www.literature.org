@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 24
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-23.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-23.html"
 ---
 
 Miss Timson's letter wuz writ to me on the 6th day of his sickness, and Josiah and me set sail for Loontown on the follerin' day after we got it.

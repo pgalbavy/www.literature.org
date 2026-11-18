@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - 'Twas The Face Of Sir John Oxon The Moon Shone Upon"
 weight: 8
-aliases:
-  - "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-07.html"
+url: "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-07.html"
 ---
 
 From that time henceforward into the young woman's dull life there came a little change. It did not seem a little change to her, but a great one, though to others it would have seemed slight indeed. She was an affectionate, house-wifely creature, who would have made the best of wives and mothers if it had been so ordained by Fortune, and something of her natural instincts found outlet in the furtive service she paid her sister, who became the empress of her soul. She darned and patched the tattered hangings with a wonderful neatness, and the hours she spent at work in the chamber were to her almost as sacred as hours spent at religious duty, or as those nuns and novices give to embroidering altarcloths. There was a brightness in the room that seemed in no other in the house, and the lingering essences in the air of it were as incense to her. In secrecy she even busied herself with keeping things in better order than Rebecca, Mistress Clorinda's woman, had ever had time to do before. She also contrived to get into her own hands some duties that were Rebecca's own. She could mend lace cleverly and arrange riband-knots with taste, and even change the fashion of a gown. The hardworked tirewoman was but too glad to be relieved, and kept her secret well, being praised many times for the set or fashion of a thing into which she had not so much as set a needle. Being a shrewd baggage, she was wise enough always to relate to Anne the story of her mistress's pleasure, having the wit to read in her delight that she would be encouraged to fresh effort.

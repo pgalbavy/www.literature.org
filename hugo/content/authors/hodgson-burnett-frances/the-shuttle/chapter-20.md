@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Things Occur In Stornham Village"
 weight: 20
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-20.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-20.html"
 ---
 
 It would not have been possible for Miss Vanderpoel to remain long in social seclusion in London, and, before many days had passed, Stornham village was enlivened by the knowledge that her ladyship and her sister had returned to the Court. It was also evident that their visit to London had not been made to no purpose. The stagnation of the waters of village life threatened to become a whirlpool. A respectable person, who was to be her ladyship's maid, had come with them, and her ladyship had not been served by a personal attendant for years. Her ladyship had also appeared at the dinner-table in new garments, and with her hair done as other ladies wore theirs. She looked like a different woman, and actually had a bit of colour, and was beginning to lose her frightened way. Now it dawned upon even the dullest and least active mind that something had begun to stir.

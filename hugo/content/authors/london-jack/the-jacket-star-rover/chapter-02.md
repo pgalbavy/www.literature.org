@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/london-jack/the-jacket-star-rover/chapter-02.html"
+url: "/authors/london-jack/the-jacket-star-rover/chapter-02.html"
 ---
 
 I am Darrell Standing. They are going to take me out and hang me pretty soon. In the meantime I say my say, and write in these pages of the other times and places.

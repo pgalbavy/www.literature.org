@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Conclusion"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/oonomoo-the-huron/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/oonomoo-the-huron/chapter-10.html"
 ---
 
 I leave the Huron shore  

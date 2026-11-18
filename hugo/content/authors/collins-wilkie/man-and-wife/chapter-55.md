@@ -1,8 +1,7 @@
 ---
 title: "Chapter 55 - The Signs Of The End"
 weight: 57
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-55.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-55.html"
 ---
 
 THE servant, appearing the next morning in Anne's room with the breakfast tray, closed the door with an air of mystery, and announced that strange things were going on in the house.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Politics And Warfare"
 weight: 12
-aliases:
-  - "/authors/gilman-charlotte-perkins/our-androcentric-culture/chapter-12.html"
+url: "/authors/gilman-charlotte-perkins/our-androcentric-culture/chapter-12.html"
 ---
 
 I go to my old dictionary, and find; "Politics, I. The science of government; that part of ethics which has to do with the regulation and government of a nation or state, the preservation of its safety, peace and prosperity; the defence of its existence and rights against foreign control or conquest; the augmentation of its strength and resources, and the protection of its citizens in their rights; with the preservation and improvement of their morals. 2. The management of political parties; the advancement of candidates to office; in a bad sense, artful or dishonest management to secure the success of political measures or party schemes, political trickery."

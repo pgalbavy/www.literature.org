@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 18"
 weight: 18
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-18.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-18.html"
 ---
 
 Vronsky followed the guard to the carriage, and at the door of the compartment he stopped short to make room for a lady who was getting out.

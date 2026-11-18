@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Reversing Positions"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-12.html"
 ---
 
 Pausing on the edge of the natural clearing which had been the scene of the terrific race between himself and Blazing Arrow, Wharton looked back, and in the gathering darkness saw a flickering figure on the farther side, where the trail re-entered the wood, and he knew it was that of the champion runner of his tribe, whom he had not only defeated in the contest of fleetness, but in the singular battle of wits which followed.

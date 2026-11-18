@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-12.html"
+url: "/authors/eliot-george/middlemarch/chapter-12.html"
 ---
 
 "He had more tow on his distaffe Than Gerveis knew." - CHAUCER.

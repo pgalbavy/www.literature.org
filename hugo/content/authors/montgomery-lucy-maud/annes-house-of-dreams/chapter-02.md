@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The House Of Dreams"
 weight: 2
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-02.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-02.html"
 ---
 
 There was more excitement in the air of Green Gables than there had ever been before in all its history. Even Marilla was so excited that she couldn't help showing it--which was little short of being phenomenal.

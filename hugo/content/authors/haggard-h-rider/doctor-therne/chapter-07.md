@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Crossing The Rubicon"
 weight: 8
-aliases:
-  - "/authors/haggard-h-rider/doctor-therne/chapter-07.html"
+url: "/authors/haggard-h-rider/doctor-therne/chapter-07.html"
 ---
 
 My appearance as an expert before the Royal Commission gave me considerable importance in the eyes of a large section of the inhabitants of Dunchester. It was not the wealthiest or most influential section indeed, although in it were numbered some rich and powerful men. Once again I found myself with a wide and rapidly increasing practice, and an income that was sufficient for my needs. Mankind suffers from many ailments besides that of smallpox, indeed in Dunchester this question of the value of vaccination was at that time purely academical, as except for an occasional case there had been no outbreak of smallpox for years. Now, as I have said, I was a master of my trade, and soon proved myself competent to deal skilfully with such illnesses, surgical or medical, as I was called upon to treat. Thus my practice grew, especially among the small tradespeople and artisans, who did not belong to clubs, but preferred to pay for a doctor in whom they had confidence.

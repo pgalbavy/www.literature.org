@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 17"
 weight: 66
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-03-chapter-17.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-03-chapter-17.html"
 ---
 
 On our right flank commanded by Bagration, at nine o'clock the battle had not yet begun. Not wishing to agree to Dolgorukov's demand to commence the action, and wishing to avert responsibility from himself, Prince Bagration proposed to Dolgorukov to send to inquire of the commander in chief. Bagration knew that as the distance between the two flanks was more than six miles, even if the messenger were not killed (which he very likely would be), and found the commander in chief (which would be very difficult), he would not be able to get back before evening.

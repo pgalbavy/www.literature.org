@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - John Caldwell, London"
 weight: 11
-aliases:
-  - "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-11.html"
+url: "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-11.html"
 ---
 
 As Numa EL ADREA launched himself with widespread paws and bared fangs he looked to find this puny man as easy prey as the score who had gone down beneath him in the past. To him man was a clumsy, slow-moving, defenseless creature--he had little respect for him.

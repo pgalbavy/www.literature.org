@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - On Board The Galley"
 weight: 11
-aliases:
-  - "/authors/haggard-h-rider/the-brethren/chapter-10.html"
+url: "/authors/haggard-h-rider/the-brethren/chapter-10.html"
 ---
 
 Rosamund was led from the Hall of Steeple across the meadow down to the quay at Steeple Creek, where a great boat waited--that of which the brethren had found the impress in the mud. In this the band embarked, placing their dead and wounded, with one or two to tend them, in the fishing skiff that had belonged to her father. This skiff having been made fast to the stern of the boat, they pushed off, and in utter silence rowed down the creek till they reached the tidal stream of the Blackwater, where they turned their bow seawards. Through the thick night and the falling snow slowly they felt their way along, sometimes rowing, sometimes drifting, while the false palmer Nicholas steered them. The journey proved dangerous, for they could scarcely see the shore, although they kept as close to it as they dared.

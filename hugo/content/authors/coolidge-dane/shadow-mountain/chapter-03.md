@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Shadow"
 weight: 3
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-03.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-03.html"
 ---
 
 The old, settled quiet returned to sleepy Keno--the quiet of the desert and of empty, noiseless houses stretching in long, sunburned rows down the canyon. The black lava patch, laid across the gray rhyolite flank of Shadow Mountain like the shade of an angry cloud, still frowned down upon the town like a portent of storms to come. But the sky was hot and gleaming and no storms came; nor did Wiley Holman return, though the Widow waited for him patiently. After all his boldness, his unbelievable effrontery in trying to steal her Paymaster stock, he had gone on laughing to seek other adventures and left her with the mine on her hands. But he would come back, she knew it; and with her gun loaded with buckshot she watched from the shelter of the gallery.

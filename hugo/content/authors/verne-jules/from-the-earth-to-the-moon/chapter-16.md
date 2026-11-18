@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/verne-jules/from-the-earth-to-the-moon/chapter-16.html"
+url: "/authors/verne-jules/from-the-earth-to-the-moon/chapter-16.html"
 ---
 
 Had the casting succeeded? They were reduced to mere conjecture. There was indeed every reason to expect success, since the mould has absorbed the entire mass of the molten metal; still some considerable time must elapse before they could arrive at any certainty upon the matter.

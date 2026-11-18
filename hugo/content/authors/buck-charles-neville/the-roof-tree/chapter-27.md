@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-27.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-27.html"
 ---
 
 Parish Thornton had used all his persuasion to prevent Dorothy's going with him to Virginia. He had argued that the solace of feeling her presence in the courtroom would hardly compensate for the unnerving effect of knowing that the batteries of the prosecution were raining direct fire on her as well as on himself.

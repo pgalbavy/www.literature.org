@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 28
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-27.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-27.html"
 ---
 
 And now I am goin' to relate the very singulerist thing that ever happened in Jonesville, or the world - although it is eppisodin' to tell on it now, and also a-gettin' ahead of my story, and hitchin', as you may say, my cart in front of my horse. But it has got to be told and I don't know but I may as well tell it now as any time.

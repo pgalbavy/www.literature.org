@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Dream Turned Upside Down"
 weight: 15
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-15.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-15.html"
 ---
 
 "Just one more week and we go back to Redmond," said Anne. She was happy at the thought of returning to work, classes and Redmond friends. Pleasing visions were also being woven around Patty's Place. There was a warm pleasant sense of home in the thought of it, even though she had never lived there.

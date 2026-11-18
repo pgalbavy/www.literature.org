@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 7"
 weight: 41
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-03-chapter-07.html"
+url: "/authors/london-jack/valley-of-the-moon/book-03-chapter-07.html"
 ---
 
 They left Carme1 River and Carmel Valley behind, and with a rising sun went south across the hills between the mountains and the sea. The road was badly washed and gullied and showed little sign of travel.

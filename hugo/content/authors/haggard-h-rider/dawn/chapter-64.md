@@ -1,8 +1,7 @@
 ---
 title: "Chapter 64"
 weight: 65
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-64.html"
+url: "/authors/haggard-h-rider/dawn/chapter-64.html"
 ---
 
 When Mildred received Lady Bellamy's telegram, she was so sure that it would prove the forerunner of Arthur's arrival at Madeira that she had at once set about making arrangements for his amusement.

@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 3"
 weight: 35
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-06-chapter-03.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-06-chapter-03.html"
 ---
 
 He hurried to Svidrigaïlov's. What he had to hope from that man he did not know. But that man had some hidden power over him. Having once recognised this, he could not rest, and now the time had come.

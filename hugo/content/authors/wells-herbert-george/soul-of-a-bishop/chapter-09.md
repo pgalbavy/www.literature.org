@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Third Vision"
 weight: 9
-aliases:
-  - "/authors/wells-herbert-george/soul-of-a-bishop/chapter-09.html"
+url: "/authors/wells-herbert-george/soul-of-a-bishop/chapter-09.html"
 ---
 
 (1)

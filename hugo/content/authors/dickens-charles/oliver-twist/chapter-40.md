@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40 - A Strange Interview, Which Is A Sequel To The Last Chamber"
 weight: 40
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-40.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-40.html"
 ---
 
 The girl's life had been squandered in the streets, and among the most noisome of the stews and dens of London, but there was something of the woman's original nature left in her still; and when she heard a light step approaching the door opposite to that by which she had entered, and thought of the wide contrast which the small room would in another moment contain, she felt burdened with the sense of her own deep shame, and shrunk as though she could scarcely bear the presence of her with whom she had sought this interview.

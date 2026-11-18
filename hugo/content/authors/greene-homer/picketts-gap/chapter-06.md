@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/greene-homer/picketts-gap/chapter-06.html"
+url: "/authors/greene-homer/picketts-gap/chapter-06.html"
 ---
 
 When Abner Pickett took down his gun from its hooks that Saturday night, and examined it, he had already determined what he should do if any attempt were made to grade the bed for a railroad through his graveyard; and his determination was in no way changed as he thought over the situation in his calmer moments on Sunday.

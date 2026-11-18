@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Mappo And The Baby"
 weight: 12
-aliases:
-  - "/authors/barnum-richard/mappo-the-merry-monkey/chapter-12.html"
+url: "/authors/barnum-richard/mappo-the-merry-monkey/chapter-12.html"
 ---
 
 "Come back here! Come back! My monkey! He is running away!" cried the hand-organ man, as he raced after Mappo. Mappo looked behind, and saw his unkind master coming, so the little monkey ran faster than ever.

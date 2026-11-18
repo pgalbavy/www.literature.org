@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Adventure Of The Literary Innkeeper"
 weight: 4
-aliases:
-  - "/authors/buchan-john/the-thirty-nine-steps/chapter-03.html"
+url: "/authors/buchan-john/the-thirty-nine-steps/chapter-03.html"
 ---
 
 I had a solemn time travelling north that day. It was fine May weather, with the hawthorn flowering on every hedge, and I asked myself why, when I was still a free man, I had stayed on in London and not got the good of this heavenly country. I didn’t dare face the restaurant car, but I got a luncheon-basket at Leeds and shared it with the fat woman. Also I got the morning’s papers, with news about starters for the Derby and the beginning of the cricket season, and some paragraphs about how Balkan affairs were settling down and a British squadron was going to Kiel.

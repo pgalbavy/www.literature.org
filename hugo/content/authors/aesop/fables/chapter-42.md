@@ -1,8 +1,7 @@
 ---
 title: "The Lioness"
 weight: 44
-aliases:
-  - "/authors/aesop/fables/chapter-42.html"
+url: "/authors/aesop/fables/chapter-42.html"
 ---
 
 A CONTROVERSY prevailed among the beasts of the field as to which of the animals deserved the most credit for producing the greatest number of whelps at a birth. They rushed clamorously into the presence of the Lioness and demanded of her the settlement of the dispute. "And you," they said, "how many sons have you at a birth?' The Lioness laughed at them, and said: "Why! I have only one; but that one is altogether a thoroughbred Lion." The value is in the worth, not in the number.

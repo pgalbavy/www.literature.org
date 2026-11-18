@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Nightmare"
 weight: 25
-aliases:
-  - "/authors/london-jack/the-iron-heel/chapter-24.html"
+url: "/authors/london-jack/the-iron-heel/chapter-24.html"
 ---
 
 I had not closed my eyes the night before on the Twentieth Century, and what of that and of my exhaustion I slept soundly. When I first awoke, it was night. Garthwaite had not returned. I had lost my watch and had no idea of the time. As I lay with my eyes closed, I heard the same dull sound of distant explosions. The inferno was still raging. I crept through the store to the front. The reflection from the sky of vast conflagrations made the street almost as light as day. One could have read the finest print with ease. From several blocks away came the crackle of small hand- bombs and the churning of machine-guns, and from a long way off came a long series of heavy explosions. I crept back to my horse blankets and slept again.

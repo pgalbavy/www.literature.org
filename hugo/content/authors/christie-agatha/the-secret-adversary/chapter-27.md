@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - A Supper Party At The Savoy"
 weight: 28
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/chapter-27.html"
+url: "/authors/christie-agatha/the-secret-adversary/chapter-27.html"
 ---
 
 *THE* supper party given by Mr. Julius Hersheimmer to a few friends on the evening of the 30th will long be remembered in catering circles. It took place in a private room, and Mr. Hersheimmer’s orders were brief and forcible. He gave carte blanche—and when a millionaire gives carte blanche he usually gets it!

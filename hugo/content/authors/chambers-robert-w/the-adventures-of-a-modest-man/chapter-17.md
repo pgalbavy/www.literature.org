@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Showing How It Is Possible For Any Man To Make Of Himself A Chump"
 weight: 17
-aliases:
-  - "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-17.html"
+url: "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-17.html"
 ---
 
 After a while I repeated: "They *did* marry, didn't they?"

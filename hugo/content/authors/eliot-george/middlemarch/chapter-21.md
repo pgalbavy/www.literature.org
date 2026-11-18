@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-21.html"
+url: "/authors/eliot-george/middlemarch/chapter-21.html"
 ---
 
 "Hire facounde eke full womanly and plain, No contrefeted termes had she To semen wise." - CHAUCER.

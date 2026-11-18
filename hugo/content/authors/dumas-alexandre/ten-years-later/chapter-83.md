@@ -1,8 +1,7 @@
 ---
 title: "Chapter 83 - Havre"
 weight: 83
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-83.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-83.html"
 ---
 
 This brilliant and animated company, the members of which were inspired by various feelings, arrived at Havre four days after their departure from Paris. It was about five o'clock in the afternoon, and no intelligence had yet been received of Madame. They were soon engaged in quest of apartments; but the greatest confusion immediately ensued among the masters, and violent quarrels among their attendants. In the midst of this disorder, the Comte de Guiche fancied he recognized Manicamp. It was, indeed, Manicamp himself; but as Malicorne had taken possession of his very best costume, he had not been able to get any other than a suit of violet velvet trimmed with silver. Guiche recognized him as much by his dress as by his features, for he had very frequently seen Manicamp in his violet suit, which was his last resource. Manicamp presented himself to the count under an arch of torches, which set in a blaze, rather than illuminated, the gate by which Havre is entered, and which is situated close to the tower of Francis I. The count, remarking the woe-begone expression of Manicamp's face, could not resist laughing. "Well, my poor Manicamp," he exclaimed, "how violet you look; are you in mourning?"

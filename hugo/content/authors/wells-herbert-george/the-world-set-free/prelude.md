@@ -1,8 +1,7 @@
 ---
 title: "Prelude - The Sun Snarers"
 weight: 2
-aliases:
-  - "/authors/wells-herbert-george/the-world-set-free/prelude.html"
+url: "/authors/wells-herbert-george/the-world-set-free/prelude.html"
 ---
 
 Section I

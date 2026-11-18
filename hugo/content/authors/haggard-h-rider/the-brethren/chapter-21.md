@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - What Befell Godwin"
 weight: 22
-aliases:
-  - "/authors/haggard-h-rider/the-brethren/chapter-21.html"
+url: "/authors/haggard-h-rider/the-brethren/chapter-21.html"
 ---
 
 At the village of Bittir, some seven miles from Jerusalem, the embassy dismounted to rest, then again they pressed forward down the valley in the hope of reaching the Zion Gate before the mid-day heat was upon them. At the end of this valley swelled the shoulder of a hill whence the eye could command its length, and on the crest of that shoulder appeared suddenly a man and a woman, seated on beautiful horses. The company halted, fearing lest these might herald some attack and that the woman was a man disguised to deceive them. While they waited thus irresolute, the pair upon the hill turned their horses' heads, and notwithstanding its steepness, began to gallop towards them very swiftly. Wulf looked at them curiously and said to Godwin:

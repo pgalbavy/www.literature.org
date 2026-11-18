@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-18.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-18.html"
 ---
 
 There was for the moment a dead silence. The soft patter of cards no longer fell upon the table. The eyes of every one were turned upon the newcomers. And he, leaning upon his stick, looked only for one person, and having found her, took no heed of any one else.

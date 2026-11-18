@@ -1,8 +1,7 @@
 ---
 title: "Book 8 - Chapter 2"
 weight: 147
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-08-chapter-02.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-08-chapter-02.html"
 ---
 
 At the beginning of winter Prince Nicholas Bolkonski and his daughter moved to Moscow. At that time enthusiasm for the Emperor Alexander's regime had weakened and a patriotic and anti-French tendency prevailed there, and this, together with his past and his intellect and his originality, at once made Prince Nicholas Bolkonski an object of particular respect to the Moscovites and the center of the Moscow opposition to the government.

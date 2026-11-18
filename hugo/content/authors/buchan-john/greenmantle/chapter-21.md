@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Little Hill"
 weight: 22
-aliases:
-  - "/authors/buchan-john/greenmantle/chapter-21.html"
+url: "/authors/buchan-john/greenmantle/chapter-21.html"
 ---
 
 It was a wise man who said that the biggest kind of courage was to be able to sit still. I used to feel that when we were getting shelled in the reserve trenches outside Vermelles. I felt it before we went over the parapets at Loos, but I never felt it so much as on the last two days in that cellar. I had simply to set my teeth and take a pull on myself. Peter had gone on a crazy errand which I scarcely believed could come off. There were no signs of Sandy; somewhere within a hundred yards he was fighting his own battles, and I was tormented by the thought that he might get jumpy again and wreck everything. A strange Companion brought us food, a man who spoke only Turkish and could tell us nothing; Hussin, I judged, was busy about the horses. If I could only have done something to help on matters I could have scotched my anxiety, but there was nothing to be done, nothing but wait and brood. I tell you I began to sympathize with the general behind the lines in a battle, the fellow who makes the plan which others execute. Leading a charge can be nothing like so nerve-shaking a business as sitting in an easy-chair and waiting on the news of it.

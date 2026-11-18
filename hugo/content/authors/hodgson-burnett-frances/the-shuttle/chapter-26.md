@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - “What It Must Be To You--Just You!”"
 weight: 26
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-26.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-26.html"
 ---
 
 G. Selden, awakening to consciousness two days later, lay and stared at the chintz covering of the top of his four-post bed through a few minutes of vacant amazement. It was a four-post bed he was lying on, wasn't it? And his leg was bandaged and felt unmovable. The last thing he remembered was going down an incline in a tree-bordered avenue. There was nothing more. He had been all right then. Was this a four-post bed or was it not? Yes, it was. And was it part of the furnishings of a swell bedroom--the kind of bedroom he had never been in before? Tip top, in fact? He stared and tried to recall things--but could not, and in his bewilderment exclaimed aloud.

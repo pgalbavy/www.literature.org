@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Grif!"
 weight: 18
-aliases:
-  - "/authors/hodgson-burnett-frances/vagabondia/chapter-18.html"
+url: "/authors/hodgson-burnett-frances/vagabondia/chapter-18.html"
 ---
 
 THERE was a hush upon the guests at the pretty little inn. Most of them were not sojourners of a day, who came and went, as they did at the larger and busier hotels,--they were comfortable people who enjoyed themselves in their own quiet way and so had settled down for the time being. Accordingly they had leisure to become interested in each other; and there were few of them who did not feel a friendly interest in the pretty, pale English girl, who, report said, was fading silently out of life in her bright room up-stairs. When Aimée arrived, the most sympathetic shook their heads dubiously.

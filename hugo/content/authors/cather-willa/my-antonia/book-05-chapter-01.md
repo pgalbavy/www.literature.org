@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 1"
 weight: 44
-aliases:
-  - "/authors/cather-willa/my-antonia/book-05-chapter-01.html"
+url: "/authors/cather-willa/my-antonia/book-05-chapter-01.html"
 ---
 
 I TOLD ANTONIA I would come back, but life intervened, and it was twenty years before I kept my promise. I heard of her from time to time; that she married, very soon after I last saw her, a young Bohemian, a cousin of Anton Jelinek; that they were poor, and had a large family. Once when I was abroad I went into Bohemia, and from Prague I sent Antonia some photographs of her native village. Months afterward came a letter from her, telling me the names and ages of her many children, but little else; signed, ‘Your old friend, Antonia Cuzak.’ When I met Tiny Soderball in Salt Lake, she told me that Antonia had not ‘done very well’; that her husband was not a man of much force, and she had had a hard life. Perhaps it was cowardice that kept me away so long. My business took me West several times every year, and it was always in the back of my mind that I would stop in Nebraska some day and go to see Antonia. But I kept putting it off until the next trip. I did not want to find her aged and broken; I really dreaded it. In the course of twenty crowded years one parts with many illusions. I did not wish to lose the early ones. Some memories are realities, and are better than anything that can ever happen to one again.

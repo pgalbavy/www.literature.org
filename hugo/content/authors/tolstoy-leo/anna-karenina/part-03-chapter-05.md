@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 5"
 weight: 74
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-03-chapter-05.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-03-chapter-05.html"
 ---
 
 After lunch Levin was not in the same place in the string of mowers as before, but stood between the old man who had accosted him jocosely, and now invited him to be his neighbor, and a young peasant, who had only been married in the autumn, and who was mowing this summer for the first time.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Through The Bush"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-21.html"
 ---
 
 Oscar Gleeson the cowboy, who appeared at such a timely juncture for Avon Burnet, when he was hard pressed by his Comanche pursuer, took the young man on his mustang behind him, as the reader will recall, and set out for the camp, several miles distant.

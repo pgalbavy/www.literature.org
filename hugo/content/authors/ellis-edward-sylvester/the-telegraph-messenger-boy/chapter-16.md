@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Third Telegram"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-16.html"
 ---
 
 When the father of Rutherford Richmond's friend, at whose house the young Bostonian was visiting, learned the facts, he was indignant beyond description. He declared that Ben Mayberry had served the young scapegraces right, except he ought to have punished both more severely, which was rather severe, as was shown by the blackened eyes and bruised faces.

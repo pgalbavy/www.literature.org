@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Her Story"
 weight: 7
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-06.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-06.html"
 ---
 
 WHAT I have now to tell you of Mary is derived from information obtained at a date in my life later by many years than any date of which I have written yet. Be pleased to remember this.

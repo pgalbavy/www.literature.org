@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 4 - Andrew Amos"
 weight: 4
-aliases:
-  - "/authors/buchan-john/mr-standfast/part-01-chapter-04.html"
+url: "/authors/buchan-john/mr-standfast/part-01-chapter-04.html"
 ---
 
 I took the train three days later from King’s Cross to Edinburgh. I went to the Pentland Hotel in Princes Street and left there a suit-case containing some clean linen and a change of clothes. I had been thinking the thing out, and had come to the conclusion that I must have a base somewhere and a fresh outfit. Then in well-worn tweeds and with no more luggage than a small trench kit-bag, I descended upon the city of Glasgow.

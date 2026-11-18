@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Cold Feet"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-19.html"
 ---
 
 YES! Jasper Jay looked sulky when Jimmy Rabbit told him to stand in the puddle of water, close beside the cedar tree.

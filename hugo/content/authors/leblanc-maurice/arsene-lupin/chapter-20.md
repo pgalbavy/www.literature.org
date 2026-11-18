@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Lupin Comes Home"
 weight: 20
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin/chapter-20.html"
+url: "/authors/leblanc-maurice/arsene-lupin/chapter-20.html"
 ---
 
 The cold light of the early September morning illumined but dimly the charming smoking-room of the Duke of Charmerace in his house at 34 B, University Street, though it stole in through two large windows. The smoking-room was on the first floor; and the Duke's bedroom opened into it. It was furnished in the most luxurious fashion, but with a taste which nowadays infrequently accompanies luxury. The chairs were of the most comfortable, but their lines were excellent; the couch against the wall, between the two windows, was the last word in the matter of comfort. The colour scheme, of a light greyish-blue, was almost too bright for a man's room; it would have better suited a boudoir. It suggested that the owner of the room enjoyed an uncommon lightness and cheerfulness of temperament. On the walls, with wide gaps between them so that they did not clash, hung three or four excellent pictures. Two ballet-girls by Degas, a group of shepherdesses and shepherds, in pink and blue and white beribboned silk, by Fragonard, a portrait of a woman by Bastien-Lepage, a charming Corot, and two Conder fans showed that the taste of their fortunate owner was at any rate eclectic. At the end of the room was, of all curious things, the opening into the well of a lift. The doors of it were open, though the lift itself was on some other floor. To the left of the opening stood a book-case, its shelves loaded with books of a kind rather suited to a cultivated, thoughtful man than to an idle dandy.

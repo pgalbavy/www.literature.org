@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Roll Call"
 weight: 22
-aliases:
-  - "/authors/chambers-robert-w/the-firing-line/chapter-22.html"
+url: "/authors/chambers-robert-w/the-firing-line/chapter-22.html"
 ---
 
 As in similar cases of the same disease Hamil's progress toward recovery was scarcely appreciable for a fortnight or so, then, danger of reinfection practically over, convalescence began with the new moon of May.

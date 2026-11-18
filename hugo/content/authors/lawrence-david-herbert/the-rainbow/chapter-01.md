@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - How Tom Brangwen Married A Polish Lady"
 weight: 1
-aliases:
-  - "/authors/lawrence-david-herbert/the-rainbow/chapter-01.html"
+url: "/authors/lawrence-david-herbert/the-rainbow/chapter-01.html"
 ---
 
 The Brangwens had lived for generations on the Marsh Farm, in the meadows where the Erewash twisted sluggishly through alder trees, separating Derbyshire from Nottinghamshire. Two miles away, a church-tower stood on a hill, the houses of the little country town climbing assiduously up to it. Whenever one of the Brangwens in the fields lifted his head from his work, he saw the church-tower at Ilkeston in the empty sky. So that as he turned again to the horizontal land, he was aware of something standing above him and beyond him in the distance.

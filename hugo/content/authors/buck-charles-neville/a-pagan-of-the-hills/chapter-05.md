@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-05.html"
+url: "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-05.html"
 ---
 
 As Alexander passed him, Brent did not miss the suppressed fury in her eyes or the disdainful tilt of her chin. Her bearing was that of a barbaric princess, and a princess of meteorically vivid beauty. There had been a deliberate purpose in the clear carrying tones with which she had repulsed Jase Mallows. He had been the first man to make advances, because he was the boldest, but for all her guise of unconsciousness she had seen the passion smoulder in the eyes about her and later others might become emboldened unless they were discouraged by a clear precedent. Heretofore her father's stern repute had safeguarded her. Now she was dependent upon herself alone.

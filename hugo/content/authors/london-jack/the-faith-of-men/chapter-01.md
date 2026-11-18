@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Relic Of The Pliocene"
 weight: 1
-aliases:
-  - "/authors/london-jack/the-faith-of-men/chapter-01.html"
+url: "/authors/london-jack/the-faith-of-men/chapter-01.html"
 ---
 
 I wash my hands of him at the start. I cannot father his tales, nor will I be responsible for them. I make these preliminary reservations, observe, as a guard upon my own integrity. I possess a certain definite position in a small way, also a wife; and for the good name of the community that honours my existence with its approval, and for the sake of her posterity and mine, I cannot take the chances I once did, nor foster probabilities with the careless improvidence of youth. So, I repeat, I wash my hands of him, this Nimrod, this mighty hunter, this homely, blue-eyed, freckle-faced Thomas Stevens.

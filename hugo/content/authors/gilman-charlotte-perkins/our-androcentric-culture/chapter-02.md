@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Man-Made Family"
 weight: 2
-aliases:
-  - "/authors/gilman-charlotte-perkins/our-androcentric-culture/chapter-02.html"
+url: "/authors/gilman-charlotte-perkins/our-androcentric-culture/chapter-02.html"
 ---
 
 The family is older than humanity, and therefore cannot be called a human institution. A post office, now, is wholly human; no other creature has a post office, but there are families in plenty among birds and beasts; all kinds permanent and transient; monogamous, polygamous and polyandrous.

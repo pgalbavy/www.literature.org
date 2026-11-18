@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Harold Plays The Raven"
 weight: 6
-aliases:
-  - "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-06.html"
+url: "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-06.html"
 ---
 
 Mason Compton, president and general manager, sat in his private office in the works of the International Machine Company, chewing upon an unlighted cigar and occasionally running his fingers through his iron-gray hair as he compared and recompared two statements which lay upon the desk before him.

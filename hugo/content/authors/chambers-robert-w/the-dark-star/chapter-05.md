@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Ex Machina"
 weight: 6
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-05.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-05.html"
 ---
 
 After she had become accustomed to the smell of rancid oil and dyestuffs and the interminable racket of machinery she did not find her work at the knitting mill disagreeable. It was like any work, she imagined, an uninteresting task which had to be done.

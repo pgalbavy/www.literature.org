@@ -1,8 +1,7 @@
 ---
 title: "Chapter 50 - Miss Ladd Advises"
 weight: 50
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-50.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-50.html"
 ---
 
 Mrs. Ellmother sat by the dying embers of the kitchen fire; thinking over the events of the day in perplexity and distress.

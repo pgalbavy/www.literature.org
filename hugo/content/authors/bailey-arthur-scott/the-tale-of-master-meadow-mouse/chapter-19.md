@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Owl Friends"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-19.html"
 ---
 
 "THERE'S no sense in wasting our time here," said Solomon Owl to his small cousin, Simon Screecher. "It's a fine night. The Mice will all be out sooner or later. Let's go over and sit in that old oak on the edge of the meadow!"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40"
 weight: 40
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-40.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-40.html"
 ---
 
 Miss Jessup was very eloquent in the paragraph which she devoted to the announcement of the departure of Colonel Tredennis, "the well-known hero of the plains, whose fine, bronzed face and soldierly figure have become so familiar to us during the past three seasons." She could scarcely express the regret felt by the many friends he had made, on losing him, and, indeed, there ran throughout the flowers of speech a suggestion of kindly, admiring sympathy and womanly good-feeling which quite went to the colonel's heart, and made him wonder at his own good fortune when he read the paragraph in question. He was far away from Washington when the paper reached him. He had become tired of life at the Capital, it was said, and had been glad to exchange with a man who found its gayeties better suited to him.

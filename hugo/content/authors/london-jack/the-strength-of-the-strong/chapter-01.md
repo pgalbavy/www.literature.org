@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Strength Of The Strong"
 weight: 1
-aliases:
-  - "/authors/london-jack/the-strength-of-the-strong/chapter-01.html"
+url: "/authors/london-jack/the-strength-of-the-strong/chapter-01.html"
 ---
 
 "Parables don't lie, but liars will parable." - Lip-King.

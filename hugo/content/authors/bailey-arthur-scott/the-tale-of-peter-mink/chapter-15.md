@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Peter's New Coat"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-15.html"
 ---
 
 Perhaps you never heard how Mr. Mink lost his tail in the woods, and how Jimmy Rabbit found it and wore it until Mr. Mink came along and took the tail away from him.

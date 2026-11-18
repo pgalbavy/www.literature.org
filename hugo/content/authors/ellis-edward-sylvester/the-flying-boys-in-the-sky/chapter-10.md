@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Flying Boys Continue Their Journey"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-10.html"
 ---
 
 The morning dawned clear, mild and bright. Harvey and Bohunkus were astir at an early hour and filled the tank with gasoline and replenished the supply of oil. An examination of the aeroplane was made and every wire, brace, lever and appurtenance found, so far as could be judged, in perfect condition. The two went back to the house where an excellent meal was awaiting them. Harvey slipped so liberal a fee into the hands of the woman that she was delighted and showed it to her husband, who grinned appreciatively. It may be said that he earned the extra pay through a valuable suggestion to the aviator,—one that was effective and so simple that it was strange it had not been thought of before.

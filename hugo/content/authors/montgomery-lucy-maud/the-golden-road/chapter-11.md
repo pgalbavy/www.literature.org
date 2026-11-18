@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Witch's Wishbone"
 weight: 12
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-11.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-11.html"
 ---
 
 When a fortnight had elapsed we gave up all hope.

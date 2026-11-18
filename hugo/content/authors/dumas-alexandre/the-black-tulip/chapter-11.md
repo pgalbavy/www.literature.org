@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Cornelius Van Baerle's Will"
 weight: 11
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-11.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-11.html"
 ---
 
 Rosa had not been mistaken; the judges came on the following day to the Buytenhof, and proceeded with the trial of Cornelius van Baerle. The examination, however, did not last long, it having appeared on evidence that Cornelius had kept at his house that fatal correspondence of the brothers De Witt with France.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Rusty Key"
 weight: 3
-aliases:
-  - "/authors/leblanc-maurice/the-golden-triangle/chapter-03.html"
+url: "/authors/leblanc-maurice/the-golden-triangle/chapter-03.html"
 ---
 
 When Patrice Belval was eight years old he was sent from Paris, where he had lived till then, to a French boarding-school in London. Here he remained for ten years. At first he used to hear from his father weekly. Then, one day, the head-master told him that he was an orphan, that provision had been made for the cost of his education and that, on his majority, he would receive through an English solicitor his paternal inheritance, amounting to some eight thousand pounds.

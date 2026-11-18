@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Military Manoeuvres"
 weight: 18
-aliases:
-  - "/authors/davis-richard-harding/adventures-and-letters/chapter-18.html"
+url: "/authors/davis-richard-harding/adventures-and-letters/chapter-18.html"
 ---
 
 In August, 1909, Richard and his wife left Mount Kisco for a visit to Mr. and Mrs. Clark at Marion. While there my brother attended and later on wrote an article on the war manoeuvres held at Middleboro, Massachusetts.

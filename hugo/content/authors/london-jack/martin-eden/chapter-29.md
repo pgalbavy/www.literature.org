@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-29.html"
+url: "/authors/london-jack/martin-eden/chapter-29.html"
 ---
 
 It was a hard summer for Martin. Manuscript readers and editors were away on vacation, and publications that ordinarily returned a decision in three weeks now retained his manuscript for three months or more. The consolation he drew from it was that a saving in postage was effected by the deadlock. Only the robber- publications seemed to remain actively in business, and to them Martin disposed of all his early efforts, such as "Pearl-diving," "The Sea as a Career," "Turtle-catching," and "The Northeast Trades." For these manuscripts he never received a penny. It is true, after six months' correspondence, he effected a compromise, whereby he received a safety razor for "Turtle-catching," and that THE ACROPOLIS, having agreed to give him five dollars cash and five yearly subscriptions: for "The Northeast Trades," fulfilled the second part of the agreement.

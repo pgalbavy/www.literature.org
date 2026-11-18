@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/buck-charles-neville/the-key-to-yesterday/chapter-19.html"
+url: "/authors/buck-charles-neville/the-key-to-yesterday/chapter-19.html"
 ---
 
 Late that afternoon, in Mrs. Horton's drawing-room at the Hôtel Palais d'Orsay, Steele stood at the window, his gaze almost sullen in the moodiness of his own ineffectual sympathy. The day had grown as cheerless as himself. Outside, across the Quai d'Orsay, a cold rain pelted desolately into the gray water of the Seine, and drew a wet veil across the opposite bank. Through the reeking mist, the remote gray branches in the Gardens of the Tuileries stood out starkly naked. Even the vague masses of the Louvre seemed as forbidding as the shadowy bulk of some buttressed prison. The "taxis" slurred by through wet streets, and those persons who were abroad went with streaming umbrellas and hurried steps. The raw chill of Continental hotels permeated the place. He knew that in the center of the room Duska sat, her elbows resting on the table top; her eyes, distressfully wide, fixed on the wet panes of the other window. He knew that, if he spoke to her, her lips would shape themselves into a pathetic smile, and her answer would be steady. He knew that she had given herself no luxury of outburst, but that she had remained there, in much the same attitude, all afternoon; sometimes, crushing her small handkerchief into a tight wad of lace and linen; sometimes, opening it out and smoothing it with infinite care into a tiny square upon the table. He knew that her feet, with their small shoes and high-arched, silk-stockinged insteps, twitched nervously from time to time; that the gallant shoulders drooped forward. These details were pictured in his mind, and he kept his eyes stolidly pointed toward the outer gloom so that he might not be forced to see it all again in actuality.

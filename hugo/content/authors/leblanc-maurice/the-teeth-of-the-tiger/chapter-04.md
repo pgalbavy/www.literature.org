@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Clouded Turquoise"
 weight: 4
-aliases:
-  - "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-04.html"
+url: "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-04.html"
 ---
 
 It was about nine o'clock in the morning when the Prefect of Police entered the study in which the incomprehensible tragedy of that double murder had been enacted.

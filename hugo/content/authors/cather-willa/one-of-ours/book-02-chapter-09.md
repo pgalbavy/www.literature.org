@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 9"
 weight: 28
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-02-chapter-09.html"
+url: "/authors/cather-willa/one-of-ours/book-02-chapter-09.html"
 ---
 
 Enid and Mrs. Royce had gone away to the Michigan sanatorium where they spent part of every summer, and would not be back until October. Claude and his mother gave all their attention to the war despatches. Day after day, through the first two weeks of August, the bewildering news trickled from the little towns out into the farming country.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Woman On Horseback"
 weight: 14
-aliases:
-  - "/authors/titus-harold/bruce-of-the-circle-a/chapter-14.html"
+url: "/authors/titus-harold/bruce-of-the-circle-a/chapter-14.html"
 ---
 
 Lytton had gone for a ride in the hills, leaving Bayard alone at the ranch, busying himself with accomplishing many odds and ends of tasks which had been neglected in the weeks that his attention had been divided between his cattle and the troubles of Ann. Ned was back to his usual strength, now; also, his mending mental attitude had made him a better companion, a less trying patient. He rode daily, he helped somewhat with the ranch work, his sleeps were long and untroubled. The first time a horse had carried him from sight Bayard had scarcely expected to see him back again; he had firmly believed that Lytton would ride directly to Yavapai and fill himself with whiskey. When he came riding into the ranch, tired, glad to be home once more, Bruce knew that the man was not wholly unappreciative, that his earlier remonstrances at remaining at the Circle A had not always been genuine.

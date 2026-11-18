@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/chambers-robert-w/the-business-of-life/chapter-03.html"
+url: "/authors/chambers-robert-w/the-business-of-life/chapter-03.html"
 ---
 
 At eleven o'clock the next morning Miss Nevers had not arrived at Silverwood.

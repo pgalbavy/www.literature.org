@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Of Crimes, Excuses, And Extenuations"
 weight: 29
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-27.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-27.html"
 ---
 
 Sinne What A Sinne, is not onely a Transgression of a Law, but also any Contempt of the Legislator. For such Contempt, is a breach of all his Lawes at once. And therefore may consist, not onely in the Commission of a Fact, or in the Speaking of Words by the Lawes forbidden, or in the Omission of what the Law commandeth, but also in the Intention, or purpose to transgresse. For the purpose to breake the Law, is some degree of Contempt of him, to whom it belongeth to see it executed. To be delighted in the Imagination onely, of being possessed of another mans goods, servants, or wife, without any intention to take them from him by force, or fraud, is no breach of the Law, that sayth, "Thou shalt not covet:" nor is the pleasure a man my have in imagining, or dreaming of the death of him, from whose life he expecteth nothing but dammage, and displeasure, a Sinne; but the resolving to put some Act in execution, that tendeth thereto. For to be pleased in the fiction of that, which would please a man if it were reall, is a Passion so adhaerent to the Nature both of a man, and every other living creature, as to make it a Sinne, were to make Sinne of being a man. The consideration of this, has made me think them too severe, both to themselves, and others, that maintain, that the First motions of the mind, (though checked with the fear of God) be Sinnes. But I confesse it is safer to erre on that hand, than on the other.

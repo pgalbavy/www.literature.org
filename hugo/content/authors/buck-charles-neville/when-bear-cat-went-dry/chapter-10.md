@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-10.html"
+url: "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-10.html"
 ---
 
 On the river bank at the outskirts of Marlin Town that afternoon so primitive was the aspect of life that it seemed appropriate to say in Scriptural form: "A great multitude was gathered together." The haze of Indian summer lay veil-like and sweetly brooding along the ridged and purple horizon. The mountainsides flared with torch-like fires of autumnal splendor--and the quaint old town with its shingled roofs and its ox-teams in the streets, lay sleepily quiet in the mid-distance.

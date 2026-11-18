@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42 - The Anjou Wine"
 weight: 43
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-42.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-42.html"
 ---
 
 After the most disheartening news of the king's health, a report of his convalescence began to prevail in the camp; and as he was very anxious to be in person at the siege, it was said that as soon as he could mount a horse he would set forward.

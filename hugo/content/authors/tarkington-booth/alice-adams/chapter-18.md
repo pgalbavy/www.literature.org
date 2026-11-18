@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/tarkington-booth/alice-adams/chapter-18.html"
+url: "/authors/tarkington-booth/alice-adams/chapter-18.html"
 ---
 
 That was a thought almost continuously in his mind, even when he was hardest at work; and, as the days went on and he could not free himself, he became querulous about it. "I guess I'm the biggest dang fool alive," he told his wife as they sat together one evening. "I got plenty else to bother me, without worrying my head off about what HE thinks. I can't help what he thinks; it's too late for that. So why should I keep pestering myself about it?"

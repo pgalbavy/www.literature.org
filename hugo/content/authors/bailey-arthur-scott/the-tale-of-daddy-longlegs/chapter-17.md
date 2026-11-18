@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Daddy Is Attacked"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-17.html"
 ---
 
 WHEN Daddy Longlegs went to call on Rusty Wren he did not know that a whole army had planned to capture him. But it was true, nevertheless, that a plot had been hatched against him. Now, right beneath the big old cherry tree where Rusty had his home there lived a colony of ants. And it was Rusty's habit--and his wife's, as well--to enjoy an occasional meal (or a light luncheon) by capturing and eating such ants as were not spry enough to keep out of harm's way.

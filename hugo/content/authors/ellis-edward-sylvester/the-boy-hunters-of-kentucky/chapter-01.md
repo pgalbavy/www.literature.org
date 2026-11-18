@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Young Pioneer"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-01.html"
 ---
 
 There was no happier boy in all Kentucky than Jack Gedney on the morning that completed the first twelve years of his life, for on that day his father presented him with a fine rifle.

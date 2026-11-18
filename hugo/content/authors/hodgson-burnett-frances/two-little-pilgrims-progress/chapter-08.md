@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-08.html"
+url: "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-08.html"
 ---
 
 It was four miles to the dépôt, but they were good walkers. Robin hung the satchel on a stick over his shoulder; they kept in the middle of the road and walked smartly. There were not many trees, but there were a few, occasionally, and it was pleasanter to walk where the way before them was quite clear. And somehow they found themselves still talking in whispers, though there was certainly no one to overhear them.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Letter Signed \"Bella\""
 weight: 4
-aliases:
-  - "/authors/christie-agatha/the-murder-on-the-links/chapter-04.html"
+url: "/authors/christie-agatha/the-murder-on-the-links/chapter-04.html"
 ---
 
 Françoise had left the room. The magistrate was drumming thoughtfully on the table.

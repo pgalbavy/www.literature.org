@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 17
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-16.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-16.html"
 ---
 
 Wall, lots of folks had assembled to the school-house when we got there, about 3 o'clock P.M. - afternoon. Believers, and world's people, all a-settin' round on seats and stumps, for the school-house wuz small and warm, and it wuz pleasanter out-doors.

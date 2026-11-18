@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Huitzilopochtli's Night"
 weight: 23
-aliases:
-  - "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-23.html"
+url: "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-23.html"
 ---
 
 They had the Huitzilopochtli ceremony at night, in the wide yard in front of the church. The guard of Huitzilopochtli, in serapes of black, red, and yellow stripes, striped like tigers or wasps, stood holding torches of blazing ocote. A tall bonfire was built, but unkindled, in the centre of the yard.

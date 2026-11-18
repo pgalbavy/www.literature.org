@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - \u0026quot;Parting Is Sweet Sorrow.\u0026quot;"
 weight: 7
-aliases:
-  - "/authors/hodgson-burnett-frances/theo/chapter-07.html"
+url: "/authors/hodgson-burnett-frances/theo/chapter-07.html"
 ---
 
 He did not go away. He could not yet. He stayed in Paris, day after day, even week after week, lingering through a man's very human weakness. He could no longer resist the knowledge of the fact that he had lost the best part of the battle; he had lost it in being compelled to acknowledge the presence of danger by flight; he had lost it completely after this by being forced to admit to himself that there was not much more to lose, that in spite of his determination, Theodora North had filled his whole life and nature as Priscilla Gower had never filled it, and could never fill it, were she his wife for a thousand years. He had made a mistake, and discovered having made it too late--that was all; but he blamed himself for having made it; blamed himself for being blind; blamed himself more than all for having discovered his blindness and his blunder. Thinking thus, he resolved to go away. Yes, he would go away! He would marry Priscilla at once, and have it over. He would put an impassable barrier between himself and Theo.

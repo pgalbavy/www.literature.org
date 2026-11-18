@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Hardy's History"
 weight: 10
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-08.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-08.html"
 ---
 
 "My father is an old commander in the Royal Navy. He was a second cousin of Nelson's Hardy, and that, believe, was what led him into the navy, for he had no interest whatever of his own. It was a visit which Nelson's Hardy, then a young lieutenant, paid to his relative, my grandfather, which decided my father, he has told me: but he always had a strong bent to the sea, though he was a boy of very studious habits.

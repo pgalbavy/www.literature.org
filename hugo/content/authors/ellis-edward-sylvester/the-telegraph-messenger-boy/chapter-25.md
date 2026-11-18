@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - In The Nick Of Time"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-25.html"
 ---
 
 Ben would have liked to accompany the officers, but that would have been unprofessional on their part, and he did not make the request. He waited until they had been gone several minutes, when he slipped out and passed down the street, determined to see what was to be seen.

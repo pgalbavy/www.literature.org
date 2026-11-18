@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Midnight Flight"
 weight: 5
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-05.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-05.html"
 ---
 
 “Then you know more about the case than the detectives at Washington!” smiled Mr. Havens. “When do you think he left his room?”

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - How Many Kinds Of Soldiery There Are, And Concerning Mercenaries"
 weight: 13
-aliases:
-  - "/authors/machiavelli-nicolo/the-prince/chapter-12.html"
+url: "/authors/machiavelli-nicolo/the-prince/chapter-12.html"
 ---
 
 Having discoursed particularly on the characteristics of such principalities as in the beginning I proposed to discuss, and having considered in some degree the causes of there being good or bad, and having shown the methods by which many have sought to acquire them and to hold them, it now remains for me to discuss generally the means of offence and defence which belong to each of them.

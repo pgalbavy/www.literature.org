@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-10.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-10.html"
 ---
 
 The travelers had taken no provisions with them because they knew that they would be welcomed wherever they might go in the Land of Oz, and that the people would feed and lodge them with genuine hospitality. So about noon they stopped at a farm-house and were given a delicious luncheon of bread and milk, fruits and wheat cakes with maple syrup. After resting a while and strolling through the orchards with their host--a round, jolly farmer--they got into the wagon and again started the Sawhorse along the pretty, winding road.

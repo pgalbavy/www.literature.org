@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Dropped"
 weight: 28
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-26.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-26.html"
 ---
 
 SIR PATRICK made a bad breakfast. Blanche's absence fretted him, and Anne Silvester's letter puzzled him.

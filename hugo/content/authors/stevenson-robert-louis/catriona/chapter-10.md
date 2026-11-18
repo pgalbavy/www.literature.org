@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Red-Headed Man"
 weight: 11
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-10.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-10.html"
 ---
 
 It was about half-past three when I came forth on the Lang Dykes. Dean was where I wanted to go. Since Catriona dwelled there, and her kinsfolk the Glengyle Macgregors appeared almost certainly to be employed against me, it was just one of the few places I should have kept away from; and being a very young man, and beginning to be very much in love, I turned my face in that direction without pause. As a slave to my conscience and common sense, however, I took a measure of precaution. Coming over the crown of a bit of a rise in the road, I clapped down suddenly among the barley and lay waiting. After a while, a man went by that looked to be a Highlandman, but I had never seen him till that hour. Presently after came Neil of the red head. The next to go past was a miller’s cart, and after that nothing but manifest country people. Here was enough to have turned the most foolhardy from his purpose, but my inclination ran too strong the other way. I argued it out that if Neil was on that road, it was the right road to find him in, leading direct to his chief’s daughter; as for the other Highlandman, if I was to be startled off by every Highlandman I saw, I would scarce reach anywhere. And having quite satisfied myself with this disingenuous debate, I made the better speed of it, and came a little after four to Mrs. Drumond-Ogilvy’s.

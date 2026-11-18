@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/cooper-courtney-ryley/the-crosscut/chapter-12.html"
+url: "/authors/cooper-courtney-ryley/the-crosscut/chapter-12.html"
 ---
 
 After this, there was little conversation until Harry and Fairchild had reached the boarding house. Then, with Mother Howard for an adviser, the three gathered in the old parlor, and Fairchild related the events of the night before, adding what had happened at the post-office, when Anita had passed him without speaking. Mother Howard, her arms folded as usual, bobbed her gray head.

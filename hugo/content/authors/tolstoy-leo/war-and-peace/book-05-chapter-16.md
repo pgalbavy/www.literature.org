@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 16"
 weight: 100
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-05-chapter-16.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-05-chapter-16.html"
 ---
 
 In April the troops were enlivened by news of the Emperor's arrival, but Rostov had no chance of being present at the review he held at Bartenstein, as the Pavlograds were at the outposts far beyond that place.

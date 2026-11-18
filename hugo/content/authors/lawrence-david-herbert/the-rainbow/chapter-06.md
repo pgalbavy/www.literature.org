@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Anna Victrix"
 weight: 6
-aliases:
-  - "/authors/lawrence-david-herbert/the-rainbow/chapter-06.html"
+url: "/authors/lawrence-david-herbert/the-rainbow/chapter-06.html"
 ---
 
 Will Brangwen had some weeks of holiday after his marriage, so the two took their honeymoon in full hands, alone in their cottage together.

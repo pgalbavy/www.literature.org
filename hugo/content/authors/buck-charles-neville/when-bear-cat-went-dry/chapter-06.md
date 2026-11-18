@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-06.html"
+url: "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-06.html"
 ---
 
 In former days an Appalachian tavern was a "quarter-house"; a hostelry where one paid a quarter for one's bed and a quarter, each, for meals. Now the term has fallen into such disuse as to be no longer generic, but locally it survived with a meaning both specific and malodorous. The press of Kentucky and Virginia had used it often, coupled with lurid stories of blood-lettings and orgies; linking with it always the name of its proprietor, Kinnard Towers.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Court Of Kaloon"
 weight: 10
-aliases:
-  - "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-09.html"
+url: "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-09.html"
 ---
 
 Horrified, sick at heart, we continued our journey. No wonder that the Khania hated such a mad despot. And this woman was in love with Leo, and this lunatic Khan, her husband, was a victim to jealousy, which he avenged after the very unpleasant fashion that we had witnessed. Truly an agreeable prospect for all of us! Yet, I could not help reflecting, as an object lesson that horrid scene had its advantages.

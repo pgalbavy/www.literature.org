@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - “It Isn’t Strychnine, Is It?”"
 weight: 5
-aliases:
-  - "/authors/christie-agatha/the-mysterious-affair-at-styles/chapter-05.html"
+url: "/authors/christie-agatha/the-mysterious-affair-at-styles/chapter-05.html"
 ---
 
 “Where did you find this?” I asked Poirot, in lively curiosity.

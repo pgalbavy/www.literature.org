@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/woolf-virginia/night-and-day/chapter-23.html"
+url: "/authors/woolf-virginia/night-and-day/chapter-23.html"
 ---
 
 When Ralph Denham entered the room and saw Katharine seated with her back to him, he was conscious of a change in the grade of the atmosphere such as a traveler meets with sometimes upon the roads, particularly after sunset, when, without warning, he runs from clammy chill to a hoard of unspent warmth in which the sweetness of hay and beanfield is cherished, as if the sun still shone although the moon is up. He hesitated; he shuddered; he walked elaborately to the window and laid aside his coat. He balanced his stick most carefully against the folds of the curtain. Thus occupied with his own sensations and preparations, he had little time to observe what either of the other two was feeling. Such symptoms of agitation as he might perceive (and they had left their tokens in brightness of eye and pallor of cheeks) seemed to him well befitting the actors in so great a drama as that of Katharine Hilbery’s daily life. Beauty and passion were the breath of her being, he thought.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/baum-l-frank/tik-tok-of-oz/chapter-09.html"
+url: "/authors/baum-l-frank/tik-tok-of-oz/chapter-09.html"
 ---
 
 The way taken by the adventurers led up hill and down dale and wound here and there in a fashion that seemed aimless. But always it drew nearer to a range of low mountains and Files said more than once that he was certain the entrance to Ruggedo's cavern would be found among these rugged hills.

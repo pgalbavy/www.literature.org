@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 22
-aliases:
-  - "/authors/baum-l-frank/the-road-to-oz/chapter-21.html"
+url: "/authors/baum-l-frank/the-road-to-oz/chapter-21.html"
 ---
 
 Next morning Dorothy's breakfast was served in her own pretty sitting room, and she sent to invite Polly and the shaggy man to join her and Button-Bright at the meal. They came gladly, and Toto also had breakfast with them, so that the little party that had traveled together to Oz was once more reunited.

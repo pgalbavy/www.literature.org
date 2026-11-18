@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Big, White Egg"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-10.html"
 ---
 
 When Henrietta Hen's callers crowded about her nest in the haymow they expected to see something wonderful. But when they craned their necks and peered into the little hollowed-out snuggery in the hay they couldn't help being disappointed. And when they didn't burst forth with cries of surprise and praise Henrietta Hen looked quite unhappy.

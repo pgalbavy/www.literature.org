@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 4"
 weight: 4
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-01-chapter-04.html"
+url: "/authors/cather-willa/song-of-the-lark/part-01-chapter-04.html"
 ---
 
 “And it was Summer, beautiful Summer!” Those were the closing words of Thea's favorite fairy tale, and she thought of them as she ran out into the world one Saturday morning in May, her music book under her arm. She was going to the Kohlers' to take her lesson, but she was in no hurry.

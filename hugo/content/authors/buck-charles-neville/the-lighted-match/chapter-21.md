@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Naples Assumes New Beauty"
 weight: 21
-aliases:
-  - "/authors/buck-charles-neville/the-lighted-match/chapter-21.html"
+url: "/authors/buck-charles-neville/the-lighted-match/chapter-21.html"
 ---
 
 The following day was Tuesday. It found Benton nearer cheerfulness than he had been since the Isis had in February pointed her bow eastward for the run across the Atlantic, under sealed orders.

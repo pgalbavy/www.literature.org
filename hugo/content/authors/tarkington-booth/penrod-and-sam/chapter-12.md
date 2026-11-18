@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Gipsy"
 weight: 12
-aliases:
-  - "/authors/tarkington-booth/penrod-and-sam/chapter-12.html"
+url: "/authors/tarkington-booth/penrod-and-sam/chapter-12.html"
 ---
 
 On a fair Saturday afternoon in November Penrod's little old dog Duke returned to the ways of his youth and had trouble with a strange cat on the back porch. This indiscretion, so uncharacteristic, was due to the agitation of a surprised moment, for Duke's experience had inclined him to a peaceful pessimism, and he had no ambition for hazardous undertakings of any sort. He was given to musing but not to avoidable action, and he seemed habitually to hope for something that he was pretty sure would not happen. Even in his sleep, this gave him an air of wistfulness.

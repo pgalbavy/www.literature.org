@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Twenty-Second Of February"
 weight: 13
-aliases:
-  - "/authors/alcott-louisa-may/jack-and-jill/chapter-12.html"
+url: "/authors/alcott-louisa-may/jack-and-jill/chapter-12.html"
 ---
 
 Of course, the young ladies and gentlemen had a ball on the evening of that day, but the boys and girls were full of excitement about their "Scenes from the Life of Washington and other brilliant tableaux," as the programme announced. The Bird Room was the theatre, being very large, with four doors conveniently placed. Ralph was in his element, putting up a little stage, drilling boys, arranging groups, and uniting in himself carpenter, scene-painter, manager, and gas man. Mrs. Minot permitted the house to be turned topsy-turvy, and Mrs. Pecq flew about, lending a hand everywhere. Jill was costumer, with help from Miss Delano, who did not care for balls, and kindly took charge of the girls. Jack printed tickets, programmes, and placards of the most imposing sort, and the work went gayly on till all was ready.

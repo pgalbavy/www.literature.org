@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - An Invitation"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-05.html"
 ---
 
 MR. MEADOWLARK was a great admirer of Bobby Bobolink. Much as he liked to sing himself, he often remained silent when Bobby's joyous music tinkled over the grass-tops in Farmer Green's meadow. And as Mr. Meadowlark was listening to one of Bobby's best songs one day an idea popped suddenly into his head. He liked this notion so well that he flew straight across the meadow to a thicket on the edge of the woods. And there in the undergrowth he found Buddy Brown Thrasher, who was exactly the person he was looking for.

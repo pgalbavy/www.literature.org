@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Where All Men Meet"
 weight: 19
-aliases:
-  - "/authors/coolidge-dane/rimrock-jones/chapter-19.html"
+url: "/authors/coolidge-dane/rimrock-jones/chapter-19.html"
 ---
 
 When Rimrock had caught the first train for New York he had thought it was to seek out Mary Fortune--to kneel at her feet and tell her humbly that he knew he had done her a wrong--but as the months went by and his detectives reported no progress he forgot his early resolve. The rush and excitement of that great gambling game that goes on in the Stock Exchange, the plunges on copper and the rushes for cover, all the give-and-take of the great chase; it picked him up as a great flowing stream floats a leaf and hurries it along, and Gunsight and Tecolote and the girl he had known there seemed far away, like a dream.

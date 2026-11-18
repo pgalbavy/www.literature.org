@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44 - Te Deum For The Victory Of Lens"
 weight: 44
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-44.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-44.html"
 ---
 
 The bustle which had been observed by Henrietta Maria and for which she had vainly sought to discover a reason, was occasioned by the battle of Lens, announced by the prince's messenger, the Duc de Chatillon, who had taken such a noble part in the engagement; he was, besides, charged to hang five and twenty flags, taken from the Lorraine party, as well as from the Spaniards, upon the arches of Notre Dame.

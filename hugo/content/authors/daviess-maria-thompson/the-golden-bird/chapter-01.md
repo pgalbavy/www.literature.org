@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/daviess-maria-thompson/the-golden-bird/chapter-01.html"
+url: "/authors/daviess-maria-thompson/the-golden-bird/chapter-01.html"
 ---
 
 The primary need of a woman's nature is always supposed to be love, but very suddenly I discovered that in my case it was money, a lot of it and quick. That is, I thought I needed a lot and in a very great hurry; but if I had known what I know now, I might have been contented feeding upon the bread of some kind of charity, for instance, like being married to Matthew Berry the very next day after I discovered my poverty. But at that period of my life I was a very ignorant girl, and in the most noble spirit of a desperate adventure I embarked upon the quest of the Golden Bird, which in one short year has landed me--I am now the richest woman in the world.

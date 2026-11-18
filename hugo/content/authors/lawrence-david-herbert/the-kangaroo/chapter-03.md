@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Larboard Watch Ahoy!"
 weight: 3
-aliases:
-  - "/authors/lawrence-david-herbert/the-kangaroo/chapter-03.html"
+url: "/authors/lawrence-david-herbert/the-kangaroo/chapter-03.html"
 ---
 
 "What do you think of things in general?" Callcott asked of Somers one evening, a fortnight or so after their first encounter. They were getting used to one another: and they liked one another, in a separated sort of way. When neither of them was on the warpath, they were quite happy together. They played chess together now and then, a wild and haphazard game. Somers invented quite brilliant attacks, and rushed in recklessly, occasionally wiping Jack off the board in a quarter of an hour. But he was very careless of his defence. The other man played at this. To give Callcott justice, he was more accustomed to draughts than to chess, and Somers had never played draughts, not to remember. So Jack played a draughts game, aiming at seizing odd pieces. It wasn't Somers' idea of chess, so he wouldn't take the trouble to defend himself. His men fell to this ambush, and he lost the game. Because at the end, when he had only one or two pieces to attack, Jack was very clever at cornering, having the draughts moves off by heart.

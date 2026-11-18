@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-28.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-28.html"
 ---
 
 HE *FOUND* Henry, but the search took two hours, and his clothes were sodden with the rain that drenched them as he got in and out of his car to make inquiries, or to investigate restaurants of lively all-night reputations. The red "speedster" he had bought for his son stood hub-deep in the running gutter before the last of these to be reached; and when the father brought his boy out of the place, and helped him into the Morgan limousine, Henry protested in a whimper somewhat incoherent that he wanted to drive his own car home;—he didn’t like to leave it out all night in the rain he said.

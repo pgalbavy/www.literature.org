@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 8 - The Port Of Entry"
 weight: 8
-aliases:
-  - "/authors/stevenson-robert-louis/in-the-south-seas/part-01-chapter-08.html"
+url: "/authors/stevenson-robert-louis/in-the-south-seas/part-01-chapter-08.html"
 ---
 
 The port—the mart, the civil and religious capital of these rude islands—is called Tai-o-hae, and lies strung along the beach of a precipitous green bay in Nuka-hiva. It was midwinter when we came thither, and the weather was sultry, boisterous, and inconstant. Now the wind blew squally from the land down gaps of splintered precipice; now, between the sentinel islets of the entry, it came in gusts from seaward. Heavy and dark clouds impended on the summits; the rain roared and ceased; the scuppers of the mountain gushed; and the next day we would see the sides of the amphitheatre bearded with white falls. Along the beach the town shows a thin file of houses, mostly white, and all ensconced in the foliage of an avenue of green puraos; a pier gives access from the sea across the belt of breakers; to the eastward there stands, on a projecting bushy hill, the old fort which is now the calaboose, or prison; eastward still, alone in a garden, the Residency flies the colours of France. Just off Calaboose Hill, the tiny Government schooner rides almost permanently at anchor, marks eight bells in the morning (there or thereabout) with the unfurling of her flag, and salutes the setting sun with the report of a musket.

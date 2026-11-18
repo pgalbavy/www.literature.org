@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - \"Good-Bye!\""
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-20.html"
 ---
 
 Deerfoot directed his course toward the elevation where he and his friends stood when they first caught sight of the smoke of the camp-fire. It was an easy matter to determine, whether the Osages had discovered the horse while in that section. If they had not done so, the probabilities were against their finding him at all.

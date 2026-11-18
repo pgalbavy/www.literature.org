@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/conrad-joseph/gaspar-ruiz/chapter-01.html"
+url: "/authors/conrad-joseph/gaspar-ruiz/chapter-01.html"
 ---
 
 A Revolutionary war raises many strange characters out of the obscurity which is the common lot of humble lives in an undisturbed state of society.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/baum-l-frank/glinda-of-oz/chapter-06.html"
+url: "/authors/baum-l-frank/glinda-of-oz/chapter-06.html"
 ---
 
 When they saw that the intruders on their mountain were only two little girls, the Flatheads grunted with satisfaction and drew back, permitting them to see what the mountain top looked like. It was shaped like a saucer, so that the houses and other buildings -- all made of rocks -- could not be seen over the edge by anyone standing in the plain below.

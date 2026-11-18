@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Lost Home And A Found Friend"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/seth-jones/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/seth-jones/chapter-04.html"
 ---
 
 It was on the morning of the day which we have just seen close. As will be remembered the air was clear and the day one of the most beautiful and pleasant of the year. The air was perfectly still, and had that peculiar, bracing sharpness, which is only felt when it is in a perfect state of rest. It was such a morning as would make every healthy person feel that to merely *live* was pleasure.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - How Candide Found His Old Master Pangloss Again and What Happened to Him"
 weight: 4
-aliases:
-  - "/authors/voltaire/candide/chapter-04.html"
+url: "/authors/voltaire/candide/chapter-04.html"
 ---
 
 The next day, as Candide was walking out, he met a beggar all covered with scabs, his eyes sunk in his head, the end of his nose eaten off, his mouth drawn on one side, his teeth as black as a cloak, snuffling and coughing most violently, and every time he attempted to spit out dropped a tooth.

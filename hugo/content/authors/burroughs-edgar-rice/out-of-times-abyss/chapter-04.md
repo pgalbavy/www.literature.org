@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/burroughs-edgar-rice/out-of-times-abyss/chapter-04.html"
+url: "/authors/burroughs-edgar-rice/out-of-times-abyss/chapter-04.html"
 ---
 
 The farther the group progressed, the more barbaric and the more sumptuous became the decorations. Hides of leopard and tiger predominated, apparently because of their more beautiful markings, and decorative skulls became more and more numerous. Many of the latter were mounted in precious metals and set with colored stones and priceless gems, while thick upon the hides that covered the walls were golden ornaments similar to those worn by the girl and those which had filled the chests he had examined in the storeroom of Fosh-bal-soj, leading the Englishman to the conviction that all such were spoils of war or theft, since each piece seemed made for personal adornment, while in so far as he had seen, no Wieroo wore ornaments of any sort.

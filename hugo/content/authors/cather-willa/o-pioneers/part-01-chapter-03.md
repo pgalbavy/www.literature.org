@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 3"
 weight: 3
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-01-chapter-03.html"
+url: "/authors/cather-willa/o-pioneers/part-01-chapter-03.html"
 ---
 
 One Sunday afternoon in July, six months after John Bergson's death, Carl was sitting in the doorway of the Linstrum kitchen, dreaming over an illustrated paper, when he heard the rattle of a wagon along the hill road. Looking up he recognized the Bergsons' team, with two seats in the wagon, which meant they were off for a pleasure excursion. Oscar and Lou, on the front seat, wore their cloth hats and coats, never worn except on Sundays, and Emil, on the second seat with Alexandra, sat proudly in his new trousers, made from a pair of his father's, and a pink-striped shirt, with a wide ruffled collar. Oscar stopped the horses and waved to Carl, who caught up his hat and ran through the melon patch to join them.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - An Incident On Shipboard"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-13.html"
 ---
 
 Among the passengers on one of the most magnificent of ocean steamers that crossed the Atlantic during the summer of which I have made mention, was a famous prima donna coming to the United States to fulfil a contract which would net her many thousand dollars. This notable artist who possessed a most winning personality as well as great beauty was easily the most popular passenger aboard the steamer on that memorable trip across the ocean.

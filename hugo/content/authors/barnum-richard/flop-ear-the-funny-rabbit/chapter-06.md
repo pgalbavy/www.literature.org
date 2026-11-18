@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Flop Ear Learns Tricks"
 weight: 6
-aliases:
-  - "/authors/barnum-richard/flop-ear-the-funny-rabbit/chapter-06.html"
+url: "/authors/barnum-richard/flop-ear-the-funny-rabbit/chapter-06.html"
 ---
 
 Flop Ear, at first, was so frightened at finding himself in the boy’s arms, that he did not know what to do. He trembled and tried to get away, but the boy said:

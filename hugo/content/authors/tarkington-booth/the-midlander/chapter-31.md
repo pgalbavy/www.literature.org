@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-31.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-31.html"
 ---
 
 *THE* war halted the wrecking of National Avenue, but not for long. Until the soldiers came home and the country could begin to get back into its great stride again, groups of the old, thick-walled, big-roomed houses were permitted to survive; and although it was a survival doomed, and the dignity of the dignified old things had begun to appear somewhat ridiculous, since they were smeared with the smoke-fog and begirt with automobile warehouses and salesbuildings and noisy garages and repair shops, and every other kind of shop and office, yet here and there was the semblance—or, at least, the reminder—of a fine, ample, and mannerly old street that had once been the glory of its town.

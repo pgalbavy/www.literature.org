@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 2"
 weight: 7
-aliases:
-  - "/authors/conrad-joseph/romance/part-02-chapter-02.html"
+url: "/authors/conrad-joseph/romance/part-02-chapter-02.html"
 ---
 
 "Rio Medio?" Señor Ramon said to me nearly two years afterwards. "The *caballero* is pleased to give me credit for a very great knowledge. What should I know of that town? There are doubtless good men there and very wicked, as in other towns. Who knows? Your worship must ask the boats' crews that the admiral has sent to burn the town. They will be back very soon now."

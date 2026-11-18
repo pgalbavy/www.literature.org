@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Squinty And The Squirrel"
 weight: 10
-aliases:
-  - "/authors/barnum-richard/squinty-the-comical-pig/chapter-10.html"
+url: "/authors/barnum-richard/squinty-the-comical-pig/chapter-10.html"
 ---
 
 Up, up, and up some more went Squinty, the comical pig. At first the fast motion in the balloon made him a little dizzy, just as it might make you feel queer the first time you went on a merry-go-'round.

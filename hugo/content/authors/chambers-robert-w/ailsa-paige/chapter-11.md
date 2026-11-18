@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/chambers-robert-w/ailsa-paige/chapter-11.html"
+url: "/authors/chambers-robert-w/ailsa-paige/chapter-11.html"
 ---
 
 In a city where thousands and thousands of women were now organising relief work for the troops already in the field, Ailsa Paige had been among the earliest to respond to the call for a meeting at the Church of the Puritans. Here she had left her name for enrolment with Mrs. Gerard Stuyvesant.

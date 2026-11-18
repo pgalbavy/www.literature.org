@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Finding The Airplane"
 weight: 11
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-11.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-11.html"
 ---
 
 Tarzan of the Apes, returning from a successful hunt, with the body of Bara, the deer, across one sleek, brown shoul- der, paused in the branches of a great tree at the edge of a clearing and gazed ruefully at two figures walking from the river to the boma-encircled hut a short distance away.

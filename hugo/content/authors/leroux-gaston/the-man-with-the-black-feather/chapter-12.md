@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The House Of Strange Words"
 weight: 13
-aliases:
-  - "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-12.html"
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-12.html"
 ---
 
 Among all the papers I found in the sandalwood box, by Theophrastus himself, by M. Lecamus, or by Commissary Mifroid, those which relate to the death of Cartouche are beyond doubt the most curious and the most interesting. They are indeed of great historical interest since they contradict history. Moreover they contradict it with such force and with such irrefutable reasoning that one asks how men of such weight as Barbier, who was in the best position of all not to be duped, since he lived at the time, could have been the victims of a very poor comedy, and how succeeding generations have failed to suspect the truth.

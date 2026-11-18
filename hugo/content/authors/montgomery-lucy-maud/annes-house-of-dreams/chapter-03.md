@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Land Of Dreams Among"
 weight: 3
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-03.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-03.html"
 ---
 
 "Have you made up your mind who you're going to have to the wedding, Anne?" asked Mrs. Rachel Lynde, as she hemstitched table napkins industriously. "It's time your invitations were sent, even if they are to be only informal ones."

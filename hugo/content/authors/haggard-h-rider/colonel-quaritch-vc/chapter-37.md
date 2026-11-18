@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - Sister Agnes"
 weight: 37
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-37.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-37.html"
 ---
 
 Ten days had passed. The tragedy had echoed through all the land. Numberless articles and paragraphs had been written in numberless papers, and numberless theories had been built upon them. But the echoes were already beginning to die away. Both actors in the dim event were dead, and there was no pending trial to keep the public interest alive.

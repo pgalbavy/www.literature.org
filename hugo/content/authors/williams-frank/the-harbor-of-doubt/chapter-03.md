@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Test"
 weight: 3
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-03.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-03.html"
 ---
 
 The man behind him climbed to the ridge-pole and Code began the descent, necessarily slow and careful because the ladders were loaded with men passing buckets. When he reached the ground he started for home on the run.

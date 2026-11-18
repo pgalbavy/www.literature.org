@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/collins-wilkie/the-haunted-hotel/chapter-05.html"
+url: "/authors/collins-wilkie/the-haunted-hotel/chapter-05.html"
 ---
 
 After only one week of travelling in Scotland, my lord and my lady returned unexpectedly to London. Introduced to the mountains and lakes of the Highlands, her ladyship positively declined to improve her acquaintance with them. When she was asked for her reason, she answered with a Roman brevity, 'I have seen Switzerland.'

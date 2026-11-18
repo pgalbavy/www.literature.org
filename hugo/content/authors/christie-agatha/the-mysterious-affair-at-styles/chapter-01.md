@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - I Go To Styles"
 weight: 1
-aliases:
-  - "/authors/christie-agatha/the-mysterious-affair-at-styles/chapter-01.html"
+url: "/authors/christie-agatha/the-mysterious-affair-at-styles/chapter-01.html"
 ---
 
 The intense interest aroused in the public by what was known at the time as “The Styles Case” has now somewhat subsided. Nevertheless, in view of the world-wide notoriety which attended it, I have been asked, both by my friend Poirot and the family themselves, to write an account of the whole story. This, we trust, will effectually silence the sensational rumours which still persist.

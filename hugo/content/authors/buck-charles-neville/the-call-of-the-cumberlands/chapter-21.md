@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-21.html"
+url: "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-21.html"
 ---
 
 But, when he went out for his initiation, in the raw blackness before daybreak, and lay in the blind, with only his guide for a companion, he felt far away from artificial luxuries. The first pale streamers of dawn soon streaked the east, and the wind charged cuttingly like drawn sabers of galloping cavalry. The wooden decoys had been anchored with the live ducks swimming among them, and the world began to awake. He drew a long breath of contentment, and waited. Then came the trailing of gray and blue and green mists, and, following the finger of the silent boatman, he made out in the northern sky a slender wedge of black dots, against the spreading rosiness of the horizon. Soon after, he heard the clear clangor of throats high in the sky, answered by the nearer honking of the live decoys, and he felt a throbbing of his pulses as he huddled low against the damp bottom of the blind and waited.

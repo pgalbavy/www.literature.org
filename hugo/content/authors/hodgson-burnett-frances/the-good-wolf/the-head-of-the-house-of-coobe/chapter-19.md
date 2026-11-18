@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-19.html"
+url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-19.html"
 ---
 
 Mademoiselle Valle and Dowson together realized that after this the growing up process was more rapid. It always seems incredibly rapid to lookers on, after thirteen. But these two watchers felt that, in Robin's case, it seemed unusually so. Robin had always been interested in her studies and clever at them, but, suddenly, she developed a new concentration and it was of an order which her governess felt denoted the secret holding of some object in view. She devoted herself to her lessons with a quality of determination which was new. She had previously been absorbed, but not determined. She made amazing strides and seemed to aspire to a thoroughness and perfection girls did not commonly aim at--especially at the frequently rather preoccupied hour of blossoming. Mademoiselle encountered in her an eagerness that she--who knew girls--would have felt it optimistic to expect in most cases. She wanted to work over hours; she would have read too much if she had not been watched and gently coerced.

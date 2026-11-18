@@ -1,8 +1,7 @@
 ---
 title: "Chapter 107 - The Carpenter"
 weight: 107
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-107.html"
+url: "/authors/melville-herman/moby-dick/chapter-107.html"
 ---
 
 Seat thyself sultanically among the moons of Saturn, and take high abstracted man alone; and he seems a wonder, a grandeur, and a woe. But from the same point, take mankind in mass, and for the most part, they seem a mob of unnecessary duplicates, both contemporary and hereditary. But most humble though he was, and far from furnishing an example of the high, humane abstraction; the Pequod's carpenter was no duplicate; hence, he now comes in person on this stage.

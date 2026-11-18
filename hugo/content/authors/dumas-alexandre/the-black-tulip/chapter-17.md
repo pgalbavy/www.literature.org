@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The First Bulb"
 weight: 17
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-17.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-17.html"
 ---
 
 On the following evening, as we have said, Rosa returned with the Bible of Cornelius de Witt.

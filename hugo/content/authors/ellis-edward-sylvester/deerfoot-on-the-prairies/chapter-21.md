@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Pressing Northward"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-21.html"
 ---
 
 *YOU* know, of course, that the Blackfoot was describing the grizzly bear, though he did not call it by that name, any more than he referred to the Rocky Mountains as such. George and Victor were inclined to think that Mul-tal-la was exaggerating, for it was hard to believe that so formidable a creature existed. They had learned in Ohio and Kentucky that no brute traversed the solitudes that could not be slain by a single bullet if rightly directed, and several bullets, even when not aimed at the most vulnerable point, were generally sufficient to do the business.

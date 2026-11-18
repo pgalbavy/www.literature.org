@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - At Last"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-21.html"
 ---
 
 Mate Storms, so far as could be seen, looked like an immense crab at work on the bottom of the pearl bank and along the rough rocks. He was so far below the surface that he was insensible to the long, heavy swells, which at intervals broke upon the beach with a thunderous boom, and so long as the breathing apparatus kept right he could pursue his labor without difficulty.

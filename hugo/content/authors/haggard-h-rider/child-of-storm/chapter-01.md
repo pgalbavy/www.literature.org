@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Allan Quatermain Hears Of Mameena"
 weight: 2
-aliases:
-  - "/authors/haggard-h-rider/child-of-storm/chapter-01.html"
+url: "/authors/haggard-h-rider/child-of-storm/chapter-01.html"
 ---
 
 We white people think that we know everything. For instance, we think that we understand human nature. And so we do, as human nature appears to us, with all its trappings and accessories seen dimly through the glass of our conventions, leaving out those aspects of it which we have forgotten or do not think it polite to mention. But I, Allan Quatermain, reflecting upon these matters in my ignorant and uneducated fashion, have always held that no one really understands human nature who has not studied it in the rough. Well, that is the aspect of it with which I have been best acquainted.

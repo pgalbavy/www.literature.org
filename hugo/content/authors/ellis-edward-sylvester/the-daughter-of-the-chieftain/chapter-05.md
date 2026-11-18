@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - In The Woods"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/the-daughter-of-the-chieftain/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/the-daughter-of-the-chieftain/chapter-05.html"
 ---
 
 You have not forgotten what I told you about the mountain range, which shuts in Wyoming Valley on the east. It is a thousand feet in height, abounding with ravines, clefts, rocks, boulders and the most rugged kind of places.

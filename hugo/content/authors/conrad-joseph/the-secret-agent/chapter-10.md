@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/conrad-joseph/the-secret-agent/chapter-10.html"
+url: "/authors/conrad-joseph/the-secret-agent/chapter-10.html"
 ---
 
 The Assistant Commissioner, driven rapidly in a hansom from the neighbourhood of Soho in the direction of Westminster, got out at the very centre of the Empire on which the sun never sets. Some stalwart constables, who did not seem particularly impressed by the duty of watching the august spot, saluted him. Penetrating through a portal by no means lofty into the precincts of the House which is *the* House, *par excellence* in the minds of many millions of men, he was met at last by the volatile and revolutionary Toodles.

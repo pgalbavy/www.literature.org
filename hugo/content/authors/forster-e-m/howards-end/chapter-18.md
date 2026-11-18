@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-18.html"
+url: "/authors/forster-e-m/howards-end/chapter-18.html"
 ---
 
 As they were seated at Aunt Juley’s breakfast-table at The Bays, parrying her excessive hospitality and enjoying the view of the bay, a letter came for Margaret and threw her into perturbation. It was from Mr. Wilcox. It announced an “important change” in his plans. Owing to Evie’s marriage, he had decided to give up his house in Ducie Street, and was willing to let it on a yearly tenancy. It was a businesslike letter, and stated frankly what he would do for them and what he would not do. Also the rent. If they approved, Margaret was to come up AT ONCE--the words were underlined, as is necessary when dealing with women--and to go over the house with him. If they disapproved, a wire would oblige, as he should put it into the hands of an agent.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-15.html"
+url: "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-15.html"
 ---
 
 Approaching the gateway of the Emerald City the travelers found it guarded by two girls of the Army of Revolt, who opposed their entrance by drawing the knitting-needles from their hair and threatening to prod the first that came near.

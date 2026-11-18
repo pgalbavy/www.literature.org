@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Last Battle"
 weight: 13
-aliases:
-  - "/authors/leblanc-maurice/the-crystal-stopper/chapter-13.html"
+url: "/authors/leblanc-maurice/the-crystal-stopper/chapter-13.html"
 ---
 
 When Prasville returned to his office he saw M. Nicole sitting on a bench in the waiting-room, with his bent back, his ailing air, his gingham umbrella, his rusty hat and his single glove:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - A Brave Struggle"
 weight: 37
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-37.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-37.html"
 ---
 
 It was a trying ordeal for little Nellie Ribsam; but she met it with the courage and coolness of her brother. She could not swim a stroke, and, under heaven, everything depended on him. If she should lose her self-control, as would be the case with nine tenths of the girls of her age placed in a similar situation she was likely to drown both herself and her brother.

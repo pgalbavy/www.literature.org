@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - Good-Bye"
 weight: 31
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-30.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-30.html"
 ---
 
 So far as I was concerned myself, I had come to port; but I had still Alan, to whom I was so much beholden, on my hands; and I felt besides a heavy charge in the matter of the murder and James of the Glens. On both these heads I unbosomed to Rankeillor the next morning, walking to and fro about six of the clock before the house of Shaws, and with nothing in view but the fields and woods that had been my ancestors’ and were now mine. Even as I spoke on these grave subjects, my eye would take a glad bit of a run over the prospect, and my heart jump with pride.

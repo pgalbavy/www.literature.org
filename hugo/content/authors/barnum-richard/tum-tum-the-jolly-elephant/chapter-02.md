@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Tum Tum Is Caught"
 weight: 2
-aliases:
-  - "/authors/barnum-richard/tum-tum-the-jolly-elephant/chapter-02.html"
+url: "/authors/barnum-richard/tum-tum-the-jolly-elephant/chapter-02.html"
 ---
 
 Tum Tum, and the other elephants who were in swimming, made no more noise than a fly walking up the window. They all kept quiet and listened.

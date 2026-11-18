@@ -1,8 +1,7 @@
 ---
 title: "Chapter 64"
 weight: 64
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-64.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-64.html"
 ---
 
 "Questa montagna e tale, Che sempre al cominciar di sotto a grave. E quanto uom piu va su e men fa male." - DANTE: Il Purgatorio.

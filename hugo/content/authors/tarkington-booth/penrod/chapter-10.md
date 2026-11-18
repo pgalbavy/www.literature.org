@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Uncle John"
 weight: 10
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-10.html"
+url: "/authors/tarkington-booth/penrod/chapter-10.html"
 ---
 
 Miss Spence gasped. So did the pupils.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - How Swanhild Walked The Seas"
 weight: 17
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-16.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-16.html"
 ---
 
 Within two days afterwards, the Gudruda being bound for sea, Eric went up to bid farewell to the King. But Edmund was so angry with him because of his going that he would not see him. Thereon Eric took horse and rode down sadly from the Palace to the river-bank where the Gudruda lay. But when he was about to give the word to get out the oars, the King himself rode up, and with him men bearing costly gifts. Eric went ashore to speak with him.

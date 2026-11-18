@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 5"
 weight: 5
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-05.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-05.html"
 ---
 
 Within a short walk of Longbourn lived a family with whom the Bennets were particularly intimate. Sir William Lucas had been formerly in trade in Meryton, where he had made a tolerable fortune and risen to the honour of knighthood by an address to the King, during his mayoralty. The distinction had perhaps been felt too strongly. It had given him a disgust to his business and to his residence in a small market town; and quitting them both, he had removed with his family to a house about a mile from Meryton, denominated from that period Lucas Lodge, where he could think with pleasure of his own importance, and unshackled by business, occupy himself solely in being civil to all the world. For though elated by his rank, it did not render him supercilious; on the contrary, he was all attention to every body. By nature inoffensive, friendly and obliging, his presentation at St. James's had made him courteous.

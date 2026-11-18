@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Tree Of Life"
 weight: 4
-aliases:
-  - "/authors/coolidge-dane/wunpost/chapter-04.html"
+url: "/authors/coolidge-dane/wunpost/chapter-04.html"
 ---
 
 As the evening came on they walked out together, Wunpost and the worshipful Wilhelmina, and from the portals of her House of Dreams they looked out over the Sink where they had met but the evening before. Less than a single day had passed since their stars had crossed, and already they were talking of life and eternal friendship and of all the great dreams that youth loves. Each had given of what they had without counting the cost or considering what others might say; and now they walked together like reunited lovers, though their friendship was not twenty-four hours old. Yet in that single eventful day what a gamut they had run of the emotions which make up the soul's life--of dangers boldly met, of mutual sacrifice and trust and the joys of vindication and success. They had staked all they had in the greatest game in life and, miracle of miracles, they had won. They had sought out each other's souls in the murk of death and doubt and each had been proven pure gold; yet even youth, for all its madness, has its moments of clairvoyance and Billy sensed that her joy could not last. It was too great, too perfect, to endure forever, and as she gazed across the desert she sighed.

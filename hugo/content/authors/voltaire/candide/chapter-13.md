@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - How Candide Was Obliged to Leave the Fair Cunegund and the Old Woman"
 weight: 13
-aliases:
-  - "/authors/voltaire/candide/chapter-13.html"
+url: "/authors/voltaire/candide/chapter-13.html"
 ---
 
 The fair Cunegund, being thus made acquainted with the history of the old woman's life and adventures, paid her all the respect and civility due to a person of her rank and merit. She very readily acceded to her proposal of engaging the passengers to relate their adventures in their turns, and was at length, as well as Candide, compelled to acknowledge that the old woman was in the right.

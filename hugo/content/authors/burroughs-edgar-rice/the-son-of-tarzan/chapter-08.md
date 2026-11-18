@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-08.html"
+url: "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-08.html"
 ---
 
 A year had passed since the two Swedes had been driven in terror from the savage country where The Sheik held sway. Little Meriem still played with Geeka, lavishing all her childish love upon the now almost hopeless ruin of what had never, even in its palmiest days, possessed even a slight degree of loveliness. But to Meriem, Geeka was all that was sweet and adorable. She carried to the deaf ears of the battered ivory head all her sorrows all her hopes and all her ambitions, for even in the face of hopelessness, in the clutches of the dread authority from which there was no escape, little Meriem yet cherished hopes and ambitions. It is true that her ambitions were rather nebulous in form, consisting chiefly of a desire to escape with Geeka to some remote and unknown spot where there were no Sheiks, no Mabunus--where El Adrea could find no entrance, and where she might play all day surrounded only by flowers and birds and the harmless little monkeys playing in the tree tops.

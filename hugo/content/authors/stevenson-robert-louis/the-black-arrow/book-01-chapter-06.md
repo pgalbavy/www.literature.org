@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 6 - To The Day's End"
 weight: 7
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-01-chapter-06.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-01-chapter-06.html"
 ---
 
 It was, indeed, high time for them to run. On every side the company of the Black Arrow was making for the hill. Some, being better runners, or having open ground to run upon, had far outstripped the others, and were already close upon the goal; some, following valleys, had spread out to right and left, and outflanked the lads on either side.

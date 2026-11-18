@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/crane-stephen/the-red-badge-of-courage/chapter-03.html"
+url: "/authors/crane-stephen/the-red-badge-of-courage/chapter-03.html"
 ---
 
 WHEN another night came the columns, changed to purple streaks, filed across two pon- toon bridges. A glaring fire wine-tinted the waters of the river. Its rays, shining upon the moving masses of troops, brought forth here and there sudden gleams of silver or gold. Upon the other shore a dark and mysterious range of hills was curved against the sky. The insect voices of the night sang solemnly.

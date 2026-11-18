@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-16.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-16.html"
 ---
 
 "Let us follow the example of all great golfers," Hamel said. "Let us for this morning, at any rate, imagine that your whole world is encompassed within these eighteen holes. We have been sent here in a moment of good humour by your tyrant uncle. The sun shines, and the wind is from the west. Why not?"

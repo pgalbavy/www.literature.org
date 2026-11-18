@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Fashion And Physiology"
 weight: 19
-aliases:
-  - "/authors/alcott-louisa-may/eight-cousins/chapter-18.html"
+url: "/authors/alcott-louisa-may/eight-cousins/chapter-18.html"
 ---
 
 "Please, sir, I guess you'd better step up right away, or it will be too late, for I heard Miss Rose say she knew you wouldn't like it, and she'd never dare to let you see her."

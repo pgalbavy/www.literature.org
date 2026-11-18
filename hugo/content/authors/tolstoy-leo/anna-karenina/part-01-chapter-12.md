@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 12"
 weight: 12
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-12.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-12.html"
 ---
 
 The young Princess Kitty Shtcherbatskaya was eighteen. It was the first winter that she had been out in the world. Her success in society had been greater than that of either of her elder sisters, and greater even than her mother had anticipated. To say nothing of the yound men who danced at the Moscow balls being almost all in love with Kitty, two serious suitors had already this first winter made their appearance: Levin, and immediately after his departure, Count Vronsky.

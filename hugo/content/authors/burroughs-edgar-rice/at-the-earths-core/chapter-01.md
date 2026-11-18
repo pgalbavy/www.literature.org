@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Toward the Eternal Fires"
 weight: 2
-aliases:
-  - "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-01.html"
+url: "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-01.html"
 ---
 
 I WAS BORN IN CONNECTICUT ABOUT THIRTY YEARS ago. My name is David Innes. My father was a wealthy mine owner. When I was nineteen he died. All his property was to be mine when I had attained my majority--provided that I had devoted the two years intervening in close application to the great business I was to inherit.

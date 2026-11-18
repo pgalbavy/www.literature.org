@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Florence's Secret"
 weight: 20
-aliases:
-  - "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-20.html"
+url: "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-20.html"
 ---
 
 It was time for the second act of the tragedy. Don Luis Perenna's death was to be followed by that of Florence. Like some monstrous butcher, the cripple passed from one to the other with no more compassion than if he were dealing with the oxen in a slaughter-house.

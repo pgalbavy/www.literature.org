@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/lawrence-david-herbert/the-ladybird/chapter-01.html"
+url: "/authors/lawrence-david-herbert/the-ladybird/chapter-01.html"
 ---
 
 How many swords had Lady Beveridge in her pierced heart! Yet there always seemed room for another. Since she had determined that her heart of pity and kindness should never die. If it had not been for this determination she herself might have died of sheer agony, in the years 1916 and 1917, when her boys were killed, and her brother, and death seemed to be mowing with wide swaths through her family. But let us forget.

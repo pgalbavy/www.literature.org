@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 7"
 weight: 57
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-06-chapter-07.html"
+url: "/authors/cather-willa/song-of-the-lark/part-06-chapter-07.html"
 ---
 
 ON Saturday night Dr. Archie went with Fred Ottenburg to hear “Tannhauser.” Thea had a rehearsal on Sunday afternoon, but as she was not on the bill again until Wednesday, she promised to dine with Archie and Ottenburg on Monday, if they could make the dinner early.

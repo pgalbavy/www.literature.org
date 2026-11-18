@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Mr. Isaacstein’s Suit-Case"
 weight: 21
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-21.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-21.html"
 ---
 
 At ten o’clock that morning, Lord Caterham and his daughter were breakfasting. Bundle was looking very thoughtful.

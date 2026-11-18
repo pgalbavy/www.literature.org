@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Working For Mr. Crow"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-09.html"
 ---
 
 Old Mr. Crow had decided that he would not fly south to spend the winter. He said he was getting almost too old for such a long journey. And he remembered, too, that he had heard the weather was going to be mild that winter.

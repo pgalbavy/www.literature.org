@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - The Conclusion Of The Matter"
 weight: 35
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-35.html"
+url: "/authors/haggard-h-rider/jess/chapter-35.html"
 ---
 
 When the rain ceased and the moon began to shine, Jess was still fleeing like a wild thing across the plain on the top of the mountain. She felt no sense of exhaustion now or even of weariness; her only idea was to get away, right away somewhere, where she could lose herself and nobody would ever see her again. Presently she reached to top of Leeuwen Kloof, and recognising the spot in a bewildered way she began to descend it. Here was a place where she might lie till she died, for no one ever came there, except now and again some wandering Kafir herd. On she sprang, from rock to rock, a wild and eerie figure, well in keeping with the solemn and titanic sadness of the place.

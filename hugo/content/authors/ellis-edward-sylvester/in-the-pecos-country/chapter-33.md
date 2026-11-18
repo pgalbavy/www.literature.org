@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - What The Footsteps Meant"
 weight: 33
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-33.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-33.html"
 ---
 
 Careful listening convinced Fred that there were two red-skins groping around in the darkness. After making himself certain on that point, he reached his hand over, and, grasping the muscular arm of Mickey O'Rooney, shook his companion quite vigorously.

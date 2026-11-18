@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Young Wyandot"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-05.html"
 ---
 
 The next morning was a perfect day for the young hunters. The sun shone brightly from the unclouded sky, and the air was crisp and keen with the breath of autumn. The experienced eye of the father told him that there was not likely to be any change very soon, and in his mild way he congratulated his son on the prospect of the pleasant hunt that was before him and his young friends.

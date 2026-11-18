@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - An Appeal For Help"
 weight: 9
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-08.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-08.html"
 ---
 
 *THE* important events of this story and its hero have occupied us to such an extent that we have not found time to present Monsieur Lecamus as he should be. The little that we know of him does not effect our sympathy. The place that he occupies in the house of Longuet, which is eminently immoral; the cynicism with which he deceives an innocent soul; the little danger that he seems to run in accomplishing the larceny— these are good reasons why we have deferred showing our contempt for him. It may be said that we have judged hastily, and have not allowed him to plead extenuating circumstances. The principal one, and the one which it would be well for us to dwell upon, is that he really liked Théophraste above everybody else. He loved him with his faults, his weaknesses, his ingenuousness, the confidence he had in him, and above all, the admiration Théophraste had for him. There was no sacrifice he would not make for Théophraste, and I daresay that if Théophraste had any pecuniary troubles, which after all are the only troubles which really count here below, Adolphe Lecamus would open his purse, and give to him freely. Adolphe loved Théophraste even above Marceline; and although I do not pretend to deal here with psychology, I find myself confronted with a case which is much less common than one would be inclined to believe. For Adolphe loved Marceline because he had made her his mistress.

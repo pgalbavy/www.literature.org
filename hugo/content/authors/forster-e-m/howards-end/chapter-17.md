@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-17.html"
+url: "/authors/forster-e-m/howards-end/chapter-17.html"
 ---
 
 The Age of Property holds bitter moments even for a proprietor. When a move is imminent, furniture becomes ridiculous, and Margaret now lay awake at nights wondering where, where on earth they and all their belongings would be deposited in September next. Chairs, tables, pictures, books, that had rumbled down to them through the generations, must rumble forward again like a slide of rubbish to which she longed to give the final push, and send toppling into the sea. But there were all their father’s books--they never read them, but they were their father’s, and must be kept. There was the marble-topped chiffonier--their mother had set store by it, they could not remember why. Round every knob and cushion in the house gathered a sentiment that was at times personal, but more often a faint piety to the dead, a prolongation of rites that might have ended at the grave.

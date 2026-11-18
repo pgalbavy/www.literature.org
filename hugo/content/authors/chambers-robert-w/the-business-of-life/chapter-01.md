@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/chambers-robert-w/the-business-of-life/chapter-01.html"
+url: "/authors/chambers-robert-w/the-business-of-life/chapter-01.html"
 ---
 
 [Illustration: "'A lady to see you, sir'"]

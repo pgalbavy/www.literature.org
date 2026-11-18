@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 8 - Wakem In A New Light"
 weight: 47
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-06-chapter-08.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-06-chapter-08.html"
 ---
 
 Before three days had passed after the conversation you have just overheard between Lucy and her father she had contrived to have a private interview with Philip during a visit of Maggie's to her aunt Glegg. For a day and a night Philip turned over in his mind with restless agitation all that Lucy had told him in that interview, till he had thoroughly resolved on a course of action. He thought he saw before him now a possibility of altering his position with respect to Maggie, and removing at least one obstacle between them. He laid his plan and calculated all his moves with the fervid deliberation of a chess-player in the days of his first ardor, and was amazed himself at his sudden genius as a tactician. His plan was as bold as it was thoroughly calculated. Having watched for a moment when his father had nothing more urgent on his hands than the newspaper, he went behind him, laid a hand on his shoulder, and said, -

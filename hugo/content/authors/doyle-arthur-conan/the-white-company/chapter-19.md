@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Chapter Xix How There Was Stir At The Abbey Of St. Andrews"
 weight: 19
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-19.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-19.html"
 ---
 
 THE prince's reception-room, although of no great size, was fitted up with all the state and luxury which the fame and power of its owner demanded. A high dais at the further end was roofed in by a broad canopy of scarlet velvet spangled with silver fleurs-de-lis, and supported at either corner by silver rods. This was approached by four steps carpeted with the same material, while all round were scattered rich cushions, oriental mats and costly rugs of fur. The choicest tapestries which the looms of Arras could furnish draped the walls, whereon the battles of Judas Maccabaeus were set forth, with the Jewish warriors in plate of proof, with crest and lance and banderole, as the naive artists of the day were wont to depict them. A few rich settles and bancals, choicely carved and decorated with glazed leather hangings of the sort termed or basane, completed the furniture of the apartment, save that at one side of the dais there stood a lofty perch, upon which a cast of three solemn Prussian gerfalcons sat, hooded and jesseled, as silent and motionless as the royal fowler who stood beside them.

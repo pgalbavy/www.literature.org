@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-10.html"
+url: "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-10.html"
 ---
 
 For three weeks after his meeting with Bertrade de Montfort and his sojourn at the castle of John de Stutevill, Norman of Torn was busy with his wild horde in reducing and sacking the castle of John de Grey, a royalist baron who had captured and hanged two of the outlaw's fighting men; and never again after his meeting with the daughter of the chief of the barons did Norman of Torn raise a hand against the rebels or their friends.

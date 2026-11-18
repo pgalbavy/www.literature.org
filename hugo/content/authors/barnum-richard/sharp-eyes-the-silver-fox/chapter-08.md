@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Sharp Eyes Goes Traveling"
 weight: 8
-aliases:
-  - "/authors/barnum-richard/sharp-eyes-the-silver-fox/chapter-08.html"
+url: "/authors/barnum-richard/sharp-eyes-the-silver-fox/chapter-08.html"
 ---
 
 For many days, weeks and months Sharp Eyes was kept shut up in a box at the cabin of the hunter who had bought him from Tom. The silver fox was not kept in the same small cage in which he had traveled through the woods. The hunter knew better than to do that, for he wanted the fox to be well and strong, so his fur would grow thicker and longer and more fluffy as Sharp Eyes grew.

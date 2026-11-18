@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - The Burning Forest"
 weight: 32
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-32.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-32.html"
 ---
 
 "It is growing darker all the time."

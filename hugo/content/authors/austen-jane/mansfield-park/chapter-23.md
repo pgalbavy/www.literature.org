@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-23.html"
+url: "/authors/austen-jane/mansfield-park/chapter-23.html"
 ---
 
 “But why should Mrs. Grant ask Fanny?” said Lady Bertram. “How came she to think of asking Fanny? Fanny never dines there, you know, in this sort of way. I cannot spare her, and I am sure she does not want to go. Fanny, you do not want to go, do you?”

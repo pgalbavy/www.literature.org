@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-04.html"
+url: "/authors/london-jack/martin-eden/chapter-04.html"
 ---
 
 Martin Eden, with blood still crawling from contact with his brother-in-law, felt his way along the unlighted back hall and entered his room, a tiny cubbyhole with space for a bed, a wash- stand, and one chair. Mr. Higginbotham was too thrifty to keep a servant when his wife could do the work. Besides, the servant's room enabled them to take in two boarders instead of one. Martin placed the Swinburne and Browning on the chair, took off his coat, and sat down on the bed. A screeching of asthmatic springs greeted the weight of his body, but he did not notice them. He started to take off his shoes, but fell to staring at the white plaster wall opposite him, broken by long streaks of dirty brown where rain had leaked through the roof. On this befouled background visions began to flow and burn. He forgot his shoes and stared long, till his lips began to move and he murmured, "Ruth."

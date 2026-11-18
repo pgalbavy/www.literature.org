@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Second-Class Passenger"
 weight: 8
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-08.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-08.html"
 ---
 
 Up to a certain point the voyage was like all other voyages. During the first two days there were passengers who did not appear on deck, but as the weather was fair for the season of the year, there were fewer absentees than is usual. Indeed, on the third day the deck chairs were all filled, people who were given to tramping during their voyages had begun to walk their customary quota of carefully-measured miles the day. There were a few pale faces dozing here and there, but the general aspect of things had begun to be sprightly. Shuffleboard players and quoit enthusiasts began to bestir themselves, the deck steward appeared regularly with light repasts of beef tea and biscuits, and the brilliant hues of red, blue, or yellow novels made frequent spots of colour upon the promenade. Persons of some initiative went to the length of making tentative observations to their next-chair neighbours. The second-cabin passengers were cheerful, and the steerage passengers, having tumbled up, formed friendly groups and began to joke with each other.

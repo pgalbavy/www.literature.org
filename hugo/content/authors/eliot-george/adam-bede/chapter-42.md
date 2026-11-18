@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42 - The Morning Of The Trial"
 weight: 42
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-42.html"
+url: "/authors/eliot-george/adam-bede/chapter-42.html"
 ---
 
 AT one o'clock the next day, Adam was alone in his dull upper room; his watch lay before him on the table, as if he were counting the long minutes. He had no knowledge of what was likely to be said by the witnesses on the trial, for he had shrunk from all the particulars connected with Hetty's arrest and accusation. This brave active man, who would have hastened towards any danger or toil to rescue Hetty from an apprehended wrong or misfortune, felt himself powerless to contemplate irremediable evil and suffering. The susceptibility which would have been an impelling force where there was any possibility of action became helpless anguish when he was obliged to be passive, or else sought an active outlet in the thought of inflicting justice on Arthur. Energetic natures, strong for all strenuous deeds, will often rush away from a hopeless sufferer, as if they were hard-hearted. It is the overmastering sense of pain that drives them. They shrink by an ungovernable instinct, as they would shrink from laceration. Adam had brought himself to think of seeing Hetty, if she would consent to see him, because he thought the meeting might possibly be a good to her - might help to melt away this terrible hardness they told him of. If she saw he bore her no ill will for what she had done to him, she might open her heart to him. But this resolution had been an immense effort - he trembled at the thought of seeing her changed face, as a timid woman trembles at the thought of the surgeon's knife, and he chose now to bear the long hours of suspense rather than encounter what seemed to him the more intolerable agony of witnessing her trial.

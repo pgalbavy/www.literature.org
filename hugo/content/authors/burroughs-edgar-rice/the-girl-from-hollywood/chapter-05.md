@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-05.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-05.html"
 ---
 
 The bungalow at 1421 Vista del Paso was of the new school of Hollywood architecture, which appears to be a hysterical effort to combine Queen Anne, Italian, Swiss chalet, Moorish, Mission, and Martian. Its plaster walls were of a yellowish rose, the outside woodwork being done in light blue, while the windows were shaded with striped awnings of olive and pink. On one side of the entrance rose a green pergola--the ambitious atrocity that marks the meeting place of landscape gardening and architecture, and that outrages them both. Culture has found a virus for the cast iron dogs, deer, and rabbits that ramped in immobility upon the lawns of yesteryear, but the green pergola is an incurable disease.

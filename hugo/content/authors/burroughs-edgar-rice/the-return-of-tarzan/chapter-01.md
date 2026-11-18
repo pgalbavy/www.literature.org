@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Affair on the Liner"
 weight: 1
-aliases:
-  - "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-01.html"
+url: "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-01.html"
 ---
 
 "Magnifique!" ejaculated the Countess de Coude, beneath her breath.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 66 - Alban's Narrative"
 weight: 66
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-66.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-66.html"
 ---
 
 "The information which I have obtained from Miss Jethro has been communicated to me, on the condition that I shall not disclose the place of her residence. 'Let me pass out of notice (she said) as completely as if I had passed out of life; I wish to be forgotten by some, and to be unknown by others.' With this one stipulation, she left me free to write the present narrative of what passed at the interview between us. I feel that the discoveries which I have made are too important to the persons interested to be trusted to memory.

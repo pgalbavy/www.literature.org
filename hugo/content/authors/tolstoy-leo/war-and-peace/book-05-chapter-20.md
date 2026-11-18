@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 20"
 weight: 104
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-05-chapter-20.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-05-chapter-20.html"
 ---
 
 Rostov had come to Tilsit the day least suitable for a petition on Denisov's behalf. He could not himself go to the general in attendance as he was in mufti and had come to Tilsit without permission to do so, and Boris, even had he wished to, could not have done so on the following day. On that day, June 27, the preliminaries of peace were signed. The Emperors exchanged decorations: Alexander received the Cross of the Legion of Honor and Napoleon the Order of St. Andrew of the First Degree, and a dinner had been arranged for the evening, given by a battalion of the French Guards to the Preobrazhensk battalion. The Emperors were to be present at that banquet.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Oonomoo And The Shawnees"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/oonomoo-the-huron/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/oonomoo-the-huron/chapter-03.html"
 ---
 
 Through forty foes his path he made, And safely reached the forest-glade. —*SCOTT*.

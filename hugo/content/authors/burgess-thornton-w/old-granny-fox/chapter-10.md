@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Reddy Fox Is Impudent"
 weight: 10
-aliases:
-  - "/authors/burgess-thornton-w/old-granny-fox/chapter-10.html"
+url: "/authors/burgess-thornton-w/old-granny-fox/chapter-10.html"
 ---
 
 A saucy tongue is dangerous to possess;  

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Claim"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-16.html"
 ---
 
 Not the least interesting feature of the stay of our friends in the gold region was their dwelling during those memorable days. The rocks came so nearly together that an irregular open space was left, which averaged a width of twenty feet with a depth slightly less. Thus three sides and the floor were composed of solid stone. When the roof, as described, was put in place, the dwelling had the appearance of a cavern fully open at the front. There the canvas composing the tent was stretched, and so arranged that the dwelling, as it may be called, was completed. It was inclosed on all sides, with the door composed of the flaps of the tent, which could be lowered at night, so that the inmates were effectually protected against the weather, though had there been any prowling wild animals or intruding white men near, they would have had little difficulty in forcing an entrance. It has been explained how all trouble from the smoke of a fire was avoided.

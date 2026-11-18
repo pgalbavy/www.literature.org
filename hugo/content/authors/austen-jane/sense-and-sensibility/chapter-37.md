@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37"
 weight: 37
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-37.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-37.html"
 ---
 
 Mrs. Palmer was so well at the end of a fortnight, that her mother felt it no longer necessary to give up the whole of her time to her; and, contenting herself with visiting her once or twice a day, returned from that period to her own home, and her own habits, in which she found the Miss Dashwoods very ready to resume their former share.

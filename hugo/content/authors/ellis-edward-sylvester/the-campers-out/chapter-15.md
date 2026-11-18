@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Forest Path"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-15.html"
 ---
 
 Dick Halliard was kept unusually late at Mr. Hunter’s store that evening, for the busy season was approaching, when the merchant was obliged to ask for extra work at the hands of his employees. Dick showed such aptitude at figures that he often gave valuable aid to the bookkeeper, one of the old-fashioned, plodding kind, who found the expanding accounts too much for him to keep well in hand.

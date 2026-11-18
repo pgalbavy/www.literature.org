@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - What They Talked About"
 weight: 11
-aliases:
-  - "/authors/grahame-kenneth/the-golden-age/chapter-10.html"
+url: "/authors/grahame-kenneth/the-golden-age/chapter-10.html"
 ---
 
 EDWARD was standing ginger-beer like a gentleman, happening, as the one that had last passed under the dentist’s hands, to be the capitalist of the flying hour. As in all well-regulated families, the usual tariff obtained in ours: half-a-crown a tooth; one shilling only if the molar were a loose one. This one, unfortunately—in spite of Edward’s interested affectation of agony—had been shakiness undisguised; but the event was good enough to run to ginger-beer. As financier, however, Edward had claimed exemption from any servile duties of procurement, and had swaggered about the garden while I fetched from the village post-office, and Harold stole a tumbler from the pantry. Our preparations complete, we were sprawling on the lawn; the staidest and most self-respecting of the rabbits had been let loose to grace the feast, and was lopping demurely about the grass, selecting the juiciest plantains; while Selina, as the eldest lady present, was toying, in her affected feminine way, with the first full tumbler, daintily fishing for bits of broken cork.

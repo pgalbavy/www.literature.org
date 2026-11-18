@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-23.html"
 ---
 
 The experience of Gravity Gimp, after reaching the outside of the cavern, was remarkable in more than one respect.

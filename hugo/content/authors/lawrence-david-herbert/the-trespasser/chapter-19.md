@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-19.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-19.html"
 ---
 
 The air was warm and sweet in the little lane, remote from the sea, which led them along their last walk. On either side the white path was a grassy margin thickly woven with pink convolvuli. Some of the reckless little flowers, so gay and evanescent, had climbed the trunks of an old yew tree, and were looking up pertly at their rough host.

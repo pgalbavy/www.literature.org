@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Good Samaritan"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-10.html"
 ---
 
 The three carefully approached the camp-fire, and soon assured themselves that there was but a single person near it, an old Indian who sat with closed eyes and nodding head, totally unmindful of their presence.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/huxley-aldous/antic-hay/chapter-08.html"
+url: "/authors/huxley-aldous/antic-hay/chapter-08.html"
 ---
 
 Critically, in the glasses of Mr. Bojanus’s fitting-room, Gumbril examined his profile, his back view. Inflated, the Patent Small-Clothes bulged, bulged decidedly, though with a certain gracious opulence that might, in a person of the other sex, have seemed only deliciously natural. In him, however, Gumbril had to admit, the opulence seemed a little misplaced and paradoxical. Still, if one has to suffer in order to be beautiful, one must also expect to be ugly in order not to suffer. Practically, the trousers were a tremendous success. He sat down heavily on the hard wooden bench of the fitting-room and was received as though on a lap of bounding resiliency; the Patent Small-Clothes, there was no doubt, would be proof even against marble. And the coat, he comforted himself, would mask with its skirts the too decided bulge. Or if it didn’t, well, there was no help for it. One must resign oneself to bulging, that was all.

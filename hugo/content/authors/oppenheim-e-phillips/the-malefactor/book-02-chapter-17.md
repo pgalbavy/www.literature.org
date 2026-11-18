@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 17 - A Dream Of Paradise"
 weight: 33
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-17.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-17.html"
 ---
 
 It seemed to Wingrave that the days which followed formed a sort of hiatus in his life--an interlude during which some other man in his place, and in his image, played the game of life to a long-forgotten tune. He moved through the hours as a man in a maze, unrecognizable to himself, half unconscious, half heedless of the fact that the garments of his carefully cultivated antagonism to the world and to his fellows had slipped very easily from his unresisting shoulders. The glory of a perfect English midsummer lay like a golden spell upon the land. The moors were purple with heather, touched here and there with the fire of the flaming gorse, the wind blew always from the west, the gardens were ablaze with slowly bursting rhododendrons. Every gleam of coloring, every breath of perfume, seemed to carry him unresistingly back to the days of his boyhood. He fished once more in the trout streams; he threw away his stick, and tramped or rode with Juliet across the moors. At night time she sang or played with the windows open, Wingrave himself out of sight under the cedar trees, whose perfume filled with aromatic sweetness the still night air. Piles of letters came every day, which he left unopened upon his study table. Telegrams followed, which he threw into the wastepaper basket. Juliet watched the accumulating heap with amazement.

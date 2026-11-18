@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Evening In The Wood"
 weight: 13
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-13.html"
+url: "/authors/eliot-george/adam-bede/chapter-13.html"
 ---
 
 IT happened that Mrs. Pomfret had had a slight quarrel with Mrs. Best, the housekeeper, on this Thursday morning - a fact which had two consequences highly convenient to Hetty. It caused Mrs. Pomfret to have tea sent up to her own room, and it inspired that exemplary lady's maid with so lively a recollection of former passages in Mrs. Best's conduct, and of dialogues in which Mrs. Best had decidedly the inferiority as an interlocutor with Mrs. Pomfret, that Hetty required no more presence of mind than was demanded for using her needle, and throwing in an occasional "yes" or "no." She would have wanted to put on her hat earlier than usual; only she had told Captain Donnithorne that she usually set out about eight o'clock, and if he SHOULD go to the Grove again expecting to see her, and she should be gone! Would he come? Her little butterfly soul fluttered incessantly between memory and dubious expectation. At last the minute-hand of the old-fashioned brazen-faced timepiece was on the last quarter to eight, and there was every reason for its being time to get ready for departure. Even Mrs. Pomfret's preoccupied mind did not prevent her from noticing what looked like a new flush of beauty in the little thing as she tied on her hat before the looking-glass.

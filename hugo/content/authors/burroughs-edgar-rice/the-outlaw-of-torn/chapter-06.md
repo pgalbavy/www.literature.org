@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-06.html"
+url: "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-06.html"
 ---
 
 From now on, the old man devoted himself to the training of the boy in the handling of his lance and battle-axe, but each day also, a period was allotted to the sword, until, by the time the youth had turned sixteen, even the old man himself was as but a novice by comparison with the marvelous skill of his pupil.

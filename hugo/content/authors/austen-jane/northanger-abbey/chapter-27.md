@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 28
-aliases:
-  - "/authors/austen-jane/northanger-abbey/chapter-27.html"
+url: "/authors/austen-jane/northanger-abbey/chapter-27.html"
 ---
 
 The next morning brought the following very unexpected letter from Isabella:

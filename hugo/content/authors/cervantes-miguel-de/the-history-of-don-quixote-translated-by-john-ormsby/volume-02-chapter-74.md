@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 74 - Of How Don Quixote Fell Sick, And Of The Will He Made, And How He Died"
 weight: 130
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-74.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-74.html"
 ---
 
 As nothing that is man’s can last for ever, but all tends ever downwards from its beginning to its end, and above all man’s life, and as Don Quixote’s enjoyed no special dispensation from heaven to stay its course, its end and close came when he least looked for it. For—whether it was of the dejection the thought of his defeat produced, or of heaven’s will that so ordered it—a fever settled upon him and kept him in his bed for six days, during which he was often visited by his friends the curate, the bachelor, and the barber, while his good squire Sancho Panza never quitted his bedside. They, persuaded that it was grief at finding himself vanquished, and the object of his heart, the liberation and disenchantment of Dulcinea, unattained, that kept him in this state, strove by all the means in their power to cheer him up; the bachelor bidding him take heart and get up to begin his pastoral life, for which he himself, he said, had already composed an eclogue that would take the shine out of all Sannazaro had ever written, and had bought with his own money two famous dogs to guard the flock, one called Barcino and the other Butron, which a herdsman of Quintanar had sold him.

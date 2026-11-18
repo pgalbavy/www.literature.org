@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-08.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-08.html"
 ---
 
 *BUT* Lena did not respond right away. Instead, she allowed a fortnight to elapse, during which her state of mind was one of indecision and her continuous emotion a sharp irritation; both of these symptoms being manifest in an interview she had with her brother George, one day, when she finally decided to consult him. "It’s so indecently unfair!" she complained. "It *is* forcing me; and his letter was a perfectly abject confession of it. He admits himself he’s compelling me to go out to that awful place and live with him."

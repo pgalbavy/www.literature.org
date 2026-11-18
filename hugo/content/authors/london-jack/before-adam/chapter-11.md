@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/london-jack/before-adam/chapter-11.html"
+url: "/authors/london-jack/before-adam/chapter-11.html"
 ---
 
 It must be remembered that the description I have just given of the Swift One is not the description that would have been given by Big-Tooth, my other self of my dreams, my prehistoric ancestor. It is by the medium of my dreams that I, the modern man, look through the eyes of Big-Tooth and see.

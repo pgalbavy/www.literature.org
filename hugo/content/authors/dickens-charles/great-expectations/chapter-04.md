@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-04.html"
+url: "/authors/dickens-charles/great-expectations/chapter-04.html"
 ---
 
 I FULLY expected to find a Constable in the kitchen, waiting to take me up. But not only was there no Constable there, but no dis- covery had yet been made of the robbery. Mrs Joe was prodigiously busy in getting the house ready for the festivities of the day, and Joe had been put upon the kitchen door-step to keep him out of the dust-pan -- an article into which his destiny always led him sooner or later, when my sister was vigorously reaping the floors of her establishment.

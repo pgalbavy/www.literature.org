@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Learning To Fly"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-01.html"
 ---
 
 One mild summer morning in 1910, Ostrom Sperbeck, a professional aviator, stood on the edge of a broad meadow belonging to the merchant, Gabriel Hamilton, closely watching the actions of Harvey Hamilton, the seventeen-year-old son of his friend, to whom the lithe, smooth-faced German was giving his first lessons in flying an aeroplane.

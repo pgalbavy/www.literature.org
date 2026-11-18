@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 7 - In Camp On The Banks Of The Coanza"
 weight: 25
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-07.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-07.html"
 ---
 
 The aspect of the country was entirely changed since the inundation. It had made a lake of the plain where the termite village stood. The cones of twenty ant-hills emerged, and formed the only projecting points on this large basin.

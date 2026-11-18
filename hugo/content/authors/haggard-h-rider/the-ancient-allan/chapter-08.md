@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Lady Amada"
 weight: 8
-aliases:
-  - "/authors/haggard-h-rider/the-ancient-allan/chapter-08.html"
+url: "/authors/haggard-h-rider/the-ancient-allan/chapter-08.html"
 ---
 
 Now day by day, hour by hour and minute by minute every detail of that journey appeared before me, but to set it all down is needless. As I, Allan Quatermain, write the record of my vision, still I seem to hear the thunder of our horses’ hoofs while we rushed forward at full gallop over the plains, over the mountain passes and by the banks of rivers. The speed at which we travelled was wonderful, for at intervals of about forty miles were post-houses and at these, whatever might be the hour of day or night, we found fresh horses from the King’s stud awaiting us. Moreover, the postmasters knew that we were coming, which astonished me until we discovered that they had been warned of our arrival by two King’s messengers who travelled ahead of us.

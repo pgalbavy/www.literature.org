@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Bahia Blanca to Buenos Ayres"
 weight: 7
-aliases:
-  - "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-06.html"
+url: "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-06.html"
 ---
 
 arrow_rightSet out for Buenos Ayres arrow_rightRio Sauce arrow_rightSierra Ventana arrow_rightThird Posta arrow_rightDriving Horses arrow_rightBolas arrow_rightPartridges and Foxes arrow_rightFeatures of the Country arrow_rightLong-legged Plover arrow_rightTeru-tero arrow_rightHail-storm arrow_rightNatural Enclosures in the Sierra Tapalguen arrow_rightFlesh of Puma arrow_rightMeat Diet arrow_rightGuardia del Monte arrow_rightEffects of Cattle on the Vegetation arrow_rightCardoon arrow_rightBuenos Ayres arrow_rightCorral where Cattle are Slaughtered ---

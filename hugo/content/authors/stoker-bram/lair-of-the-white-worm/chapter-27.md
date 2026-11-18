@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/stoker-bram/lair-of-the-white-worm/chapter-27.html"
+url: "/authors/stoker-bram/lair-of-the-white-worm/chapter-27.html"
 ---
 
 The storm which was coming was already making itself manifest, not only in the wide scope of nature, but in the hearts and natures of human beings. Electrical disturbance in the sky and the air is reproduced in animals of all kinds, and particularly in the highest type of them all--the most receptive--the most electrical. So it was with Edgar Caswall, despite his selfish nature and coldness of blood. So it was with Mimi Salton, despite her unselfish, unchanging devotion for those she loved. So it was even with Lady Arabella, who, under the instincts of a primeval serpent, carried the ever-varying wishes and customs of womanhood, which is always old--and always new.

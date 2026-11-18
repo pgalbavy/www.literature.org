@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Of My Departure"
 weight: 11
-aliases:
-  - "/authors/buchan-john/sir-quixote-of-the-moors/chapter-10.html"
+url: "/authors/buchan-john/sir-quixote-of-the-moors/chapter-10.html"
 ---
 
 I passed through the kitchen out to the stable, marking as I went that the breakfast was ready laid in the sitting room. There I saddled Saladin, grown sleek by fat living, and rolling his great eyes at me wonderingly. I tested the joinings, buckled the girth tight, and led him round to the front of the house, where I tethered him to a tree and entered the door.

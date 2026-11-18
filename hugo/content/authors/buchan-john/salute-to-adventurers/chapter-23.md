@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Horn Of Diarmaid Sounds"
 weight: 24
-aliases:
-  - "/authors/buchan-john/salute-to-adventurers/chapter-23.html"
+url: "/authors/buchan-john/salute-to-adventurers/chapter-23.html"
 ---
 
 We reached the gap, and made slantwise across the farther hill. I did not dare to go clown Clearwater Glen, and, besides, I was aiming for a point farther south than the Rappahannock. In my wanderings with Shalah I had got a pretty good idea of the lie of the mountains on their eastern side, and I had remarked a long ridge which flung itself like a cape far into the lowlands. If we could leave the hills by this, I thought we might strike the stream called the North Fork, which would bring us in time to the neighbourhood of Frew's dwelling. The ridges were our only safe path, for they were thickly overgrown with woods, and the Indian bands were less likely to choose them for a route. The danger was in the glens, where the trees were sparser and the broad stretches of meadow made better going for horses.

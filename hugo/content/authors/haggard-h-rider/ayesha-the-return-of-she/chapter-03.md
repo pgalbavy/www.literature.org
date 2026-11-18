@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Beacon Light"
 weight: 4
-aliases:
-  - "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-03.html"
+url: "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-03.html"
 ---
 
 A week later came our opportunity of making this ascent of the mountain, for now in mid-winter it ceased storming, and hard frost set in, which made it possible to walk upon the surface of the snow. Learning from the monks that at this season ovis poli and other kinds of big-horned sheep and game descended from the hills to take refuge in certain valleys, where they scraped away the snow to find food, we announced that we were going out to hunt. The excuse we gave was that we were suffering from confinement and needed exercise, having by the teaching of our religion no scruples about killing game.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Sammy Jay's Sharp Eyes"
 weight: 17
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-17.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-17.html"
 ---
 
 Everybody knows that Sammy Jay has sharp eyes. In fact, there are very few of the little forest people whose eyes are as sharp as Sammy's. That is because he uses them so much. A long time ago he found out that the more he used his eyes, the sharper they became, and so there are very few minutes when Sammy is awake that he isn't trying to see something. He is always looking. That is the reason he always knows so much about what is going on in the Green Forest and on the Green Meadows.

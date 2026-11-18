@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Round The Fire"
 weight: 21
-aliases:
-  - "/authors/alcott-louisa-may/little-men/chapter-20.html"
+url: "/authors/alcott-louisa-may/little-men/chapter-20.html"
 ---
 
 With the October frosts came the cheery fires in the great fireplaces; and Demi's dry pine-chips helped Dan's oak-knots to blaze royally, and go roaring up the chimney with a jolly sound. All were glad to gather round the hearth, as the evenings grew longer, to play games, read, or lay plans for the winter. But the favorite amusement was story-telling, and Mr. and Mrs. Bhaer were expected to have a store of lively tales always on hand. Their supply occasionally gave out, and then the boys were thrown upon their own resources, which were not always successful. Ghost-parties were the rage at one time; for the fun of the thing consisted in putting out the lights, letting the fire die down, and then sitting in the dark, and telling the most awful tales they could invent. As this resulted in scares of all sorts among the boys, Tommy's walking in his sleep on the shed roof, and a general state of nervousness in the little ones, it was forbidden, and they fell back on more harmless amusements.

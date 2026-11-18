@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/coolidge-dane/the-desert-trail/chapter-09.html"
+url: "/authors/coolidge-dane/the-desert-trail/chapter-09.html"
 ---
 
 Not the least of the causes which have brought Mexico to the brink of the abyss is the endless quarrel between church and state, which has almost destroyed the sanctity of marriage and left, besides, a pitiful heritage of deserted women and fatherless children as its toll.

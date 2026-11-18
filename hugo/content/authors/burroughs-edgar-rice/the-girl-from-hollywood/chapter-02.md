@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-02.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-02.html"
 ---
 
 The man bent his lips to hers again, and her arms stole about his neck. The calf, in the meantime, perhaps disgusted by such absurdities, had scampered off to try his brand-new legs again, with the result that he ran into a low bush, turned a somersault, and landed on his back. The mother, still doubtful of the intentions of the newcomers, to whose malevolent presence she may have attributed the accident, voiced a perturbed low; whereupon there broke from the vicinity of the live oak a deep note, not unlike the rumbling of distant thunder.

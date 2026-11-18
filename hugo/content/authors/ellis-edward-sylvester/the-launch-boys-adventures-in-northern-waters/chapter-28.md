@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Plucking A Brand From The Burning"
 weight: 28
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-28.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-28.html"
 ---
 
 "Good day, my friends!" was the greeting of the detective as he closed the door behind him, strode forward and saluted Mike, who, after his exclamation, rose from his chair and, open mouth and staring eyes, limply clasped the hand that was offered him.

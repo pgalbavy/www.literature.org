@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Homewards"
 weight: 21
-aliases:
-  - "/authors/haggard-h-rider/the-ivory-child/chapter-21.html"
+url: "/authors/haggard-h-rider/the-ivory-child/chapter-21.html"
 ---
 
 There is not much more to write of this expedition, or if that statement be not strictly true, not much more that I wish to write, though I have no doubt that Ragnall, if he had a mind that way, could make a good and valuable book concerning many matters on which, confining myself to the history of our adventure, I have scarcely touched. All the affinities between this Central African Worship of the Heavenly Child and its Guardian and that of Horus and Isis in Egypt from which it was undoubtedly descended, for instance. Also the part which the great serpent played therein, as it may be seen playing a part in every tomb upon the Nile, and indeed plays a part in our own and other religions. Further, our journey across the desert to the Red Sea was very interesting, but I am tired of describing journeys--and of making them.

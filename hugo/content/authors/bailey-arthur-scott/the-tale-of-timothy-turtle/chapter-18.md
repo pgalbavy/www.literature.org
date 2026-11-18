@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Peter Mink's Plan"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-18.html"
 ---
 
 Now Peter Mink had never learned to read. In the first place, he had never had a chance to learn. And in the second, he was such a good-for-nothing rascal that he wouldn't have gone to school anyhow.

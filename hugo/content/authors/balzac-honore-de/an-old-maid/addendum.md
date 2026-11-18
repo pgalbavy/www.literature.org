@@ -1,8 +1,7 @@
 ---
 title: "Addendum"
 weight: 8
-aliases:
-  - "/authors/balzac-honore-de/an-old-maid/addendum.html"
+url: "/authors/balzac-honore-de/an-old-maid/addendum.html"
 ---
 
 The following personages appear in other stories of the Human Comedy.

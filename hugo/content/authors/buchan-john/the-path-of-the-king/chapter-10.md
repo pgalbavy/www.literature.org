@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Marplot"
 weight: 11
-aliases:
-  - "/authors/buchan-john/the-path-of-the-king/chapter-10.html"
+url: "/authors/buchan-john/the-path-of-the-king/chapter-10.html"
 ---
 
 At a little after six o'clock on the evening of Saturday, 12th October, in the year 1678, the man known commonly as Edward Copshaw came to a halt opposite the narrow entry of the Savoy, just west of the Queen's palace of Somerset House. He was a personage of many names. In the register of the Benedictine lay-brothers he had been entered as James Singleton. Sundry Paris tradesmen had known him as Captain Edwards, and at the moment were longing to know more of him. In a certain secret and tortuous correspondence he figured as Octavius, and you may still read his sprawling script in the Record Office. His true name, which was Nicholas Lovel, was known at Weld House, at the White Horse Tavern, and the town lodgings of my lords Powis and Bellasis, but had you asked for him by that name at these quarters you would have been met by a denial of all knowledge. For it was a name which for good reasons he and his patrons desired to have forgotten.

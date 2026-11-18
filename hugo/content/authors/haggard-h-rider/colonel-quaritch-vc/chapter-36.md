@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - How The Game Ended"
 weight: 36
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-36.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-36.html"
 ---
 
 Mr. Quest entered the house by a side door, and having taken off his hat and coat went into the drawing-room. He had still half an hour to spare before starting to catch the train.

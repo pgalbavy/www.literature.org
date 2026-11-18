@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Kangaroo"
 weight: 6
-aliases:
-  - "/authors/lawrence-david-herbert/the-kangaroo/chapter-06.html"
+url: "/authors/lawrence-david-herbert/the-kangaroo/chapter-06.html"
 ---
 
 They went back to Sydney on the Thursday, for two days, to pack up and return to Coo-ee. All the time, they could hear the sea. It seemed strange that they felt the sea so far away, in Sydney. In Sydney itself, there is no sea. It might be Birmingham. Even in Mullumbimby, a queer raw little place, when Somers lifted his head and looked down Main Street and saw, a mile away, the high level of the solid sea, it was almost a shock to him. Half a mile inland, the influence of the sea has disappeared, and the land-sense is so heavy, buried, that it is hard to believe that the dull rumble in the air is the ocean. It sounds like a coal-mine or something.

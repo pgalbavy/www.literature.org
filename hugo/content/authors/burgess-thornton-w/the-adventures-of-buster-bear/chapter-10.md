@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Little Joe Otter Has Great News To Tell"
 weight: 10
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-10.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-10.html"
 ---
 
 Little Joe Otter was fairly bursting with excitement. He could hardly contain himself. He felt that he had the greatest news to tell since Peter Rabbit had first found the tracks of Buster Bear in the Green Forest. He couldn't keep it to himself a minute longer than he had to. So he hurried to the Smiling Pool, where he was sure he would find Billy Mink and Jerry Muskrat and Grandfather Frog and Spotty the Turtle, and he hoped that perhaps some of the little people who live in the Green Forest might be there too. Sure enough, Peter Rabbit was there on one side of the Smiling Pool, making faces at Reddy Fox, who was on the other side, which, of course, was not at all nice of Peter. Mr. and Mrs. Redwing were there, and Blacky the Crow was sitting in the Big Hickory-tree.

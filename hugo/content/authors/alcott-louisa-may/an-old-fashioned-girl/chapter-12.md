@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Forbidden Fruit"
 weight: 13
-aliases:
-  - "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-12.html"
+url: "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-12.html"
 ---
 
 “I'M perfectly aching for some fun,” said Polly to herself as she opened her window one morning and the sunshine and frosty air set her blood dancing and her eyes sparkling with youth, health, and overflowing spirits. “I really must break out somewhere and have a good time. It's quite impossible to keep steady any longer. Now what will I do?” Polly sprinkled crumbs to the doves, who came daily to be fed, and while she watched the gleaming necks and rosy feet, she racked her brain to devise some unusually delightful way of enjoying herself, for she really had bottled up her spirits so long, they were in a state of uncontrollable effervescence.

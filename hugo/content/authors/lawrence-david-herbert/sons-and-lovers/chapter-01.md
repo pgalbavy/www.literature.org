@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Early Married Life Of The Morels"
 weight: 1
-aliases:
-  - "/authors/lawrence-david-herbert/sons-and-lovers/chapter-01.html"
+url: "/authors/lawrence-david-herbert/sons-and-lovers/chapter-01.html"
 ---
 
 "THE BOTTOMS" succeeded to "Hell Row". Hell Row was a block of thatched, bulging cottages that stood by the brookside on Greenhill Lane. There lived the colliers who worked in the little gin-pits two fields away. The brook ran under the alder trees, scarcely soiled by these small mines, whose coal was drawn to the surface by donkeys that plodded wearily in a circle round a gin. And all over the countryside were these same pits, some of which had been worked in the time of Charles II, the few colliers and the donkeys burrowing down like ants into the earth, making queer mounds and little black places among the corn-fields and the meadows. And the cottages of these coal-miners, in blocks and pairs here and there, together with odd farms and homes of the stockingers, straying over the parish, formed the village of Bestwood.

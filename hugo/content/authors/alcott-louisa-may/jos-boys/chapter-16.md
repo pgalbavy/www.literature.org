@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - In The Tennis-Court"
 weight: 16
-aliases:
-  - "/authors/alcott-louisa-may/jos-boys/chapter-16.html"
+url: "/authors/alcott-louisa-may/jos-boys/chapter-16.html"
 ---
 
 Athletic sports were in high favour at Plumfield; and the river where the old punt used to wabble about with a cargo of small boys, or echo to the shrill screams of little girls trying to get lilies, now was alive with boats of all kinds, from the slender wherry to the trim pleasure-craft, gay with cushions, awnings, and fluttering pennons. Everyone rowed, and the girls as well as the youths had their races, and developed their muscles in the most scientific manner. The large, level meadow near the old willow was now the college playground, and here baseball battles raged with fury, varied by football, leaping, and kindred sports fitted to split the fingers, break the ribs, and strain the backs of the too ambitious participants. The gentler pastimes of the damsels were at a safe distance from this Champ de Mars; croquet mallets clicked under the elms that fringed the field, rackets rose and fell energetically in several tennis-courts, and gates of different heights were handy to practise the graceful bound by which every girl expected to save her life some day when the mad bull, which was always coming but never seemed to arrive, should be bellowing at her heels.

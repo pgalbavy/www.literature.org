@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39"
 weight: 39
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-39.html"
+url: "/authors/eliot-george/middlemarch/chapter-39.html"
 ---
 
 "If, as I have, you also doe, Vertue attired in woman see, And dare love that, and say so too, And forget the He and She; And if this love, though placed so, From prophane men you hide, Which will no faith on this bestow, Or, if they doe, deride: Then you have done a braver thing Than all the Worthies did, And a braver thence will spring, Which is, to keep that hid." - DR. DONNE.

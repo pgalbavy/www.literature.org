@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Travelling Musicians"
 weight: 4
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-04.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-04.html"
 ---
 
 An honest farmer had once an ass that had been a faithful servant to him a great many years, but was now growing old and every day more and more unfit for work. His master therefore was tired of keeping him and began to think of putting an end to him; but the ass, who saw that some mischief was in the wind, took himself slyly off, and began his journey towards the great city, ‘For there,’ thought he, ‘I may turn musician.’

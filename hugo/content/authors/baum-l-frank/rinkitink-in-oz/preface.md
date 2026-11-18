@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/baum-l-frank/rinkitink-in-oz/preface.html"
+url: "/authors/baum-l-frank/rinkitink-in-oz/preface.html"
 ---
 
 Preface Wherein is recorded the Perilous Quest of Prince Inga of Pingaree and King Rinkitink in the Magical Isles that lie beyond the Borderland of Oz By L. Frank Baum "Royal Historian of Oz"

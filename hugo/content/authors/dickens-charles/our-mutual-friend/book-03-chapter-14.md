@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 14 - Mr Wegg Prepares A Grindstone For Mr Boffin’s Nose"
 weight: 47
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-03-chapter-14.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-03-chapter-14.html"
 ---
 
 Having assisted at a few more expositions of the lives of Misers, Mr Venus became almost indispensable to the evenings at the Bower. The circumstance of having another listener to the wonders unfolded by Wegg, or, as it were, another calculator to cast up the guineas found in teapots, chimneys, racks and mangers, and other such banks of deposit, seemed greatly to heighten Mr Boffin’s enjoyment; while Silas Wegg, for his part, though of a jealous temperament which might under ordinary circumstances have resented the anatomist’s getting into favour, was so very anxious to keep his eye on that gentleman--lest, being too much left to himself, he should be tempted to play any tricks with the precious document in his keeping--that he never lost an opportunity of commending him to Mr Boffin’s notice as a third party whose company was much to be desired. Another friendly demonstration towards him Mr Wegg now regularly gratified. After each sitting was over, and the patron had departed, Mr Wegg invariably saw Mr Venus home. To be sure, he as invariably requested to be refreshed with a sight of the paper in which he was a joint proprietor; but he never failed to remark that it was the great pleasure he derived from Mr Venus’s improving society which had insensibly lured him round to Clerkenwell again, and that, finding himself once more attracted to the spot by the social powers of Mr V., he would beg leave to go through that little incidental procedure, as a matter of form. ‘For well I know, sir,’ Mr Wegg would add, ‘that a man of your delicate mind would wish to be checked off whenever the opportunity arises, and it is not for me to baulk your feelings.’

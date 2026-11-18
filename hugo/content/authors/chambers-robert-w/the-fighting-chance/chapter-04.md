@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Season Opens"
 weight: 4
-aliases:
-  - "/authors/chambers-robert-w/the-fighting-chance/chapter-04.html"
+url: "/authors/chambers-robert-w/the-fighting-chance/chapter-04.html"
 ---
 
 Breakfast at Shotover, except for the luxurious sluggards to whom trays were sent, was served in the English fashion—any other method or compromise being impossible.

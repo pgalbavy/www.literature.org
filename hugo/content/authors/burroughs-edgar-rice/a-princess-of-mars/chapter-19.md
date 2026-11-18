@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Battling in the Arena"
 weight: 19
-aliases:
-  - "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-19.html"
+url: "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-19.html"
 ---
 
 Slowly I regained my composure and finally essayed again to attempt to remove the keys from the dead body of my former jailer. But as I reached out into the darkness to locate it I found to my horror that it was gone. Then the truth flashed on me; the owners of those gleaming eyes had dragged my prize away from me to be devoured in their neighboring lair; as they had been waiting for days, for weeks, for months, through all this awful eternity of my imprisonment to drag my dead carcass to their feast.

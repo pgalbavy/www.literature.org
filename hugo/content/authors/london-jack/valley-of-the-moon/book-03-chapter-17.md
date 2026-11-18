@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 17"
 weight: 51
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-03-chapter-17.html"
+url: "/authors/london-jack/valley-of-the-moon/book-03-chapter-17.html"
 ---
 
 South they held along the coast, hunting, fishing, swimming, and horse-buying. Billy shipped his purchases on the coasting steamers. Through Del Norte and Humboldt counties they went, and through Mendocino into Sonoma --counties larger than Eastern states--threading the giant woods, whipping innumerable trout-streams, and crossing countless rich valleys. Ever Saxon sought the valley of the moon. Sometimes, when all seemed fair, the lack was a railroad, sometimes madrono and manzanita trees, and, usually, there was too much fog.

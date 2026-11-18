@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 4 - Narrative Resumed By Jim Hawkins: The Garrison In The Stockade"
 weight: 20
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-04-chapter-04.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-04-chapter-04.html"
 ---
 
 AS soon as Ben Gunn saw the colours he came to a halt, stopped me by the arm, and sat down.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Seven Long Years, Beloved, Seven Long Years"
 weight: 14
-aliases:
-  - "/authors/hodgson-burnett-frances/vagabondia/chapter-14.html"
+url: "/authors/hodgson-burnett-frances/vagabondia/chapter-14.html"
 ---
 
 AND so Grif disappeared from the haunts of Vagabondia, and was seen no more. And to Aimée was left the delicate task of explaining the cause of his absence, which, it must be said, she did in a manner at once creditable to her tact and affection for both Dolly and the unconscious cause of all her misery.

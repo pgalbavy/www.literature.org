@@ -1,8 +1,7 @@
 ---
 title: "Chapter 79 - The Road To Picardy"
 weight: 79
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-79.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-79.html"
 ---
 
 On leaving Paris, Athos and Aramis well knew that they would be encountering great danger; but we know that for men like these there could be no question of danger. Besides, they felt that the denouement of this second Odyssey was at hand and that there remained but a single effort to make.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - Mrs. Skinner's Romance"
 weight: 30
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-30.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-30.html"
 ---
 
 Anne stepped off the train at Valley Road station and looked about to see if any one had come to meet her. She was to board with a certain Miss Janet Sweet, but she saw no one who answered in the least to her preconception of that lady, as formed from Esther's letter. The only person in sight was an elderly woman, sitting in a wagon with mail bags piled around her. Two hundred would have been a charitable guess at her weight; her face was as round and red as a harvest-moon and almost as featureless. She wore a tight, black, cashmere dress, made in the fashion of ten years ago, a little dusty black straw hat trimmed with bows of yellow ribbon, and faded black lace mits.

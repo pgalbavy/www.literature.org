@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Before The Battle"
 weight: 13
-aliases:
-  - "/authors/haggard-h-rider/king-solomons-mines/chapter-12.html"
+url: "/authors/haggard-h-rider/king-solomons-mines/chapter-12.html"
 ---
 
 Luckily for us, Infadoos and the chiefs knew all the paths of the great town perfectly, so that we passed by side-ways unmolested, and notwithstanding the gloom we made fair progress.

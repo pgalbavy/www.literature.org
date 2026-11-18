@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/russell-bertrand/the-analysis-of-mind/preface.html"
+url: "/authors/russell-bertrand/the-analysis-of-mind/preface.html"
 ---
 
 This book has grown out of an attempt to harmonize two different tendencies, one in psychology, the other in physics, with both of which I find myself in sympathy, although at first sight they might seem inconsistent. On the one hand, many psychologists, especially those of the behaviourist school, tend to adopt what is essentially a materialistic position, as a matter of method if not of metaphysics. They make psychology increasingly dependent on physiology and external observation, and tend to think of matter as something much more solid and indubitable than mind. Meanwhile the physicists, especially Einstein and other exponents of the theory of relativity, have been making "matter" less and less material. Their world consists of "events," from which "matter" is derived by a logical construction. Whoever reads, for example, Professor Eddington's "Space, Time and Gravitation" (Cambridge University Press, 1920), will see that an old-fashioned materialism can receive no support from modern physics. I think that what has permanent value in the outlook of the behaviourists is the feeling that physics is the most fundamental science at present in existence. But this position cannot be called materialistic, if, as seems to be the case, physics does not assume the existence of matter.

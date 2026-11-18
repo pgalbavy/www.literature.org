@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Wednesday Madness"
 weight: 16
-aliases:
-  - "/authors/tarkington-booth/penrod-and-sam/chapter-16.html"
+url: "/authors/tarkington-booth/penrod-and-sam/chapter-16.html"
 ---
 
 How long he was "kept in" after school that afternoon is not a matter of record; but it was long. Before he finally appeared upon the street, he had composed an ample letter on a subject of general interest, namely "School Life", under the supervision of Miss Spencer. He had also received some scorching admonitions in respect to honourable behaviour regarding other people's letters; and Margaret's had been returned to him with severe instructions to bear it straight to the original owner accompanied by full confession and apology. As a measure of insurance that these things be done, Miss Spence stated definitely her intention to hold a conversation by telephone with Margaret that evening. Altogether, the day had been unusually awful, even for Wednesday, and Penrod left the school-house with the heart of an anarchist throbbing in his hot bosom. It were more accurate, indeed, to liken him to the anarchist's characteristic weapon; for as Penrod came out to the street he was, in all inward respects, a bomb, loaded and ticking.

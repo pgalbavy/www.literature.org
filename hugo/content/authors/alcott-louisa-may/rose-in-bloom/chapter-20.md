@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - What Mac Did"
 weight: 21
-aliases:
-  - "/authors/alcott-louisa-may/rose-in-bloom/chapter-20.html"
+url: "/authors/alcott-louisa-may/rose-in-bloom/chapter-20.html"
 ---
 
 Rose, meantime, was trying to find out what the sentiment was with which she regarded her cousin Mac. She could not seem to reconcile the character she had known so long with the new one lately shown her, and the idea of loving the droll, bookish, absentminded Mac of former times appeared quite impossible and absurd, but the new Mac, wide awake, full of talent, ardent and high-handed, was such a surprise to her, she felt as if her heart was being won by a stranger, and it became her to study him well before yielding to a charm which she could not deny.

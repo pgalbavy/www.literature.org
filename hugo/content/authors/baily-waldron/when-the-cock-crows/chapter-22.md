@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Parting Crow"
 weight: 22
-aliases:
-  - "/authors/baily-waldron/when-the-cock-crows/chapter-22.html"
+url: "/authors/baily-waldron/when-the-cock-crows/chapter-22.html"
 ---
 
 In this particular case, the cock crowed, not thrice, but once. Indeed, the single triumphant call was all that was necessary. It was as if the vainglorious fowl was aware that he had been a figure in a tragedy, as had been no other of his kind since the time when Saint Peter made craven denial of his Master.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Mr. Crow To The Rescue"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-06.html"
 ---
 
 As time went on, and the Green family overslept each morning, Rusty began to grow very weary of the monotonous "Cuckoo! cuckoo!" which came every half hour, all day long, through the kitchen window of the farmhouse.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 3"
 weight: 4
-aliases:
-  - "/authors/conrad-joseph/romance/part-01-chapter-03.html"
+url: "/authors/conrad-joseph/romance/part-01-chapter-03.html"
 ---
 
 The spirit of the age has changed; everything has changed so utterly that one can hardly believe in the existence of one's earlier self. But I can still remember how, at that moment, I made the acquaintance of my heart—a thing that bounded and leapt within my chest, a little sickeningly. The other details I forget.

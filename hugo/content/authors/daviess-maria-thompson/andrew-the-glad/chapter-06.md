@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Bridge Of Dreams"
 weight: 6
-aliases:
-  - "/authors/daviess-maria-thompson/andrew-the-glad/chapter-06.html"
+url: "/authors/daviess-maria-thompson/andrew-the-glad/chapter-06.html"
 ---
 
 "And then, Major, hell broke loose! Dave stood up and--" Tom Cantrell's eyes snapped and he slashed with his crop at the bright andirons that held the flamed logs.

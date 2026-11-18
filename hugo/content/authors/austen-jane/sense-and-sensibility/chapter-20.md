@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-20.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-20.html"
 ---
 
 As the Miss Dashwoods entered the drawing-room of the park the next day, at one door, Mrs. Palmer came running in at the other, looking as good humoured and merry as before. She took them all most affectionately by the hand, and expressed great delight in seeing them again.

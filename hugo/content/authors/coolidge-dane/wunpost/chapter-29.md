@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - In Trust"
 weight: 29
-aliases:
-  - "/authors/coolidge-dane/wunpost/chapter-29.html"
+url: "/authors/coolidge-dane/wunpost/chapter-29.html"
 ---
 
 There was cursing and wailing and gnashing of teeth in Blackwater's saloons that night, and some were for hanging Wunpost; but in the morning, when they woke up and found Eells and Lapham gone, they transferred their rage to them. A committee composed of the dummy directors, who had allowed Eells to do what he would, discovered from the books that the bank had been looted and that Eells was a fugitive from justice. He had diverted the bank's funds to his own private uses, leaving only his unsecured notes; and Lapham, the shrewd fox, had levied blackmail on his chief by charging huge sums for legal service. And now they were both gone and the Blackwater depositors had been left without a cent.

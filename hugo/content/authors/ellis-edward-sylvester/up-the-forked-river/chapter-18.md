@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-18.html"
 ---
 
 The two looked at each other in speechless amaze. This was a direct interference with their personal freedom, the first either had known.

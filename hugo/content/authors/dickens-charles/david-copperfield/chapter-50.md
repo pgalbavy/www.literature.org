@@ -1,8 +1,7 @@
 ---
 title: "Chapter 50 - Mr. Peggotty’s Dream Comes True"
 weight: 51
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-50.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-50.html"
 ---
 
 By this time, some months had passed since our interview on the bank of the river with Martha. I had never seen her since, but she had communicated with Mr. Peggotty on several occasions. Nothing had come of her zealous intervention; nor could I infer, from what he told me, that any clue had been obtained, for a moment, to Emily’s fate. I confess that I began to despair of her recovery, and gradually to sink deeper and deeper into the belief that she was dead.

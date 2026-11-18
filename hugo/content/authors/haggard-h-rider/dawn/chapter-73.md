@@ -1,8 +1,7 @@
 ---
 title: "Chapter 73"
 weight: 74
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-73.html"
+url: "/authors/haggard-h-rider/dawn/chapter-73.html"
 ---
 
 As the autumn came on, a great south-west gale burst over Madeira, and went sweeping away up the Bay of Biscay. It blew for three days and nights, and was one of the heaviest on record. When it first began, the English mail was due; but when it passed there were still no signs of her, and prophets of evil were not wanting who went to and fro shaking their heads, and suggesting that she had probably foundered in the Bay.

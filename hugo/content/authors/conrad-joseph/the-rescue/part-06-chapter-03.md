@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 3"
 weight: 37
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-06-chapter-03.html"
+url: "/authors/conrad-joseph/the-rescue/part-06-chapter-03.html"
 ---
 
 There was in the bows of the Emma an elevated grating over the heel of her bowsprit whence the eye could take in the whole range of her deck and see every movement of her crew. It was a spot safe from eaves-droppers, though, of course, exposed to view. The sun had just set on the supreme content of Carter when Jorgenson and Jaffir sat down side by side between the knightheads of the Emma and, public but unapproachable, impressive and secret, began to converse in low tones.

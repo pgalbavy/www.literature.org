@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 4"
 weight: 32
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-04-chapter-04.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-04-chapter-04.html"
 ---
 
 The Houyhnhnm’s notion of truth and falsehood. The author’s discourse disapproved by his master. The author gives a more particular account of himself, and the accidents of his voyage.

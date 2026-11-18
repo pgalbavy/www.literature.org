@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Crime And Punishment"
 weight: 11
-aliases:
-  - "/authors/gilman-charlotte-perkins/our-androcentric-culture/chapter-11.html"
+url: "/authors/gilman-charlotte-perkins/our-androcentric-culture/chapter-11.html"
 ---
 
 The human concept of Sin has had its uses no doubt; and our special invention of a thing called Punishment has also served a purpose.

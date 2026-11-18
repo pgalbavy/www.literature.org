@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/tarkington-booth/alice-adams/chapter-14.html"
+url: "/authors/tarkington-booth/alice-adams/chapter-14.html"
 ---
 
 There shone a jovial sun overhead on the appointed "day after to-morrow"; a day not cool yet of a temperature friendly to walkers; and the air, powdered with sunshine, had so much life in it that it seemed to sparkle. To Arthur Russell this was a day like a gay companion who pleased him well; but the gay companion at his side pleased him even better. She looked her prettiest, chattered her wittiest, smiled her wistfulest, and delighted him with all together.

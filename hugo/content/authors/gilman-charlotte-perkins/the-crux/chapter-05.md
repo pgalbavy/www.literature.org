@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Contrasts"
 weight: 6
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-crux/chapter-05.html"
+url: "/authors/gilman-charlotte-perkins/the-crux/chapter-05.html"
 ---
 
 To Vivian the new life offered a stimulus, a sense of stir and promise even beyond her expectations. She wrote dutiful letters to her mother, trying to describe the difference between this mountain town and Bainville, but found the New England viewpoint an insurmountable obstacle.

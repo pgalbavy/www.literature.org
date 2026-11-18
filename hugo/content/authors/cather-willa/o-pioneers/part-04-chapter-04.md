@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 4"
 weight: 23
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-04-chapter-04.html"
+url: "/authors/cather-willa/o-pioneers/part-04-chapter-04.html"
 ---
 
 The next morning Angelique, Amedee's wife, was in the kitchen baking pies, assisted by old Mrs. Chevalier. Between the mixing-board and the stove stood the old cradle that had been Amedee's, and in it was his black-eyed son. As Angelique, flushed and excited, with flour on her hands, stopped to smile at the baby, Emil Bergson rode up to the kitchen door on his mare and dismounted.

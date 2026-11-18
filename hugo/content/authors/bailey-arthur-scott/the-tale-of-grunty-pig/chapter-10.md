@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Queer Bear"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-10.html"
 ---
 
 Grunty Pig's little eyes fell away from his mother's when she asked him what the bear looked like--the bear that had chased him.

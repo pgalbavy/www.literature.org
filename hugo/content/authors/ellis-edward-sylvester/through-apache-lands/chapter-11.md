@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Surrounded By Danger"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-11.html"
 ---
 
 Lone Wolf no doubt meant to warn Ned against any attempt at escape; for, where the surveillance was relaxed, as it would probably be now and then in his case, he was certain to see many occasions when he would be tempted to give them the slip.

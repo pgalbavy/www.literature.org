@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Startling News"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/a-young-hero/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/a-young-hero/chapter-03.html"
 ---
 
 Fred Sheldon was the only child of a widow, who lived on a small place a mile beyond the village, and managed to eke out a living thereon, assisted by a small pension from the government, her husband having been killed during the late war.

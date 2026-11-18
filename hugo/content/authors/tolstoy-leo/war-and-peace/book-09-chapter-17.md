@@ -1,8 +1,7 @@
 ---
 title: "Book 9 - Chapter 17"
 weight: 184
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-09-chapter-17.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-09-chapter-17.html"
 ---
 
 Natasha was calmer but no happier. She not merely avoided all external forms of pleasure- balls, promenades, concerts, and theaters- but she never laughed without a sound of tears in her laughter. She could not sing. As soon as she began to laugh, or tried to sing by herself, tears choked her: tears of remorse, tears at the recollection of those pure times which could never return, tears of vexation that she should so uselessly have ruined her young life which might have been so happy. Laughter and singing in particular seemed to her like a blasphemy, in face of her sorrow. Without any need of self-restraint, no wish to coquet ever entered her head. She said and felt at that time that no man was more to her than Nastasya Ivanovna, the buffoon. Something stood sentinel within her and forbade her every joy. Besides, she had lost all the old interests of her carefree girlish life that had been so full of hope. The previous autumn, the hunting, "Uncle," and the Christmas holidays spent with Nicholas at Otradnoe were what she recalled oftenest and most painfully. What would she not have given to bring back even a single day of that time! But it was gone forever. Her presentiment at the time had not deceived her- that that state of freedom and readiness for any enjoyment would not return again. Yet it was necessary to live on.

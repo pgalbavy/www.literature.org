@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - No Joke"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-11.html"
 ---
 
 What more alarming summons can be imagined than that which rang from the darkness in front of the stage, as it was slowly winding its way through Black Bear Swamp?

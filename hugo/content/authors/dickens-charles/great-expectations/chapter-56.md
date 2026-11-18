@@ -1,8 +1,7 @@
 ---
 title: "Chapter 56"
 weight: 56
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-56.html"
+url: "/authors/dickens-charles/great-expectations/chapter-56.html"
 ---
 
 He lay in prison very ill, during the whole interval between his committal for trial, and the coming round of the Sessions. He had broken two ribs, they had wounded one of his lungs, and he breathed with great pain and difficulty, which increased daily. It was a consequence of his hurt, that he spoke so low as to be scarcely audible; therefore, he spoke very little. But, he was ever ready to listen to me, and it became the first duty of my life to say to him, and read to him, what I knew he ought to hear.

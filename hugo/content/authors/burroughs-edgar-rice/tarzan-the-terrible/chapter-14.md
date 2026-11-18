@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Temple Of The Gryf"
 weight: 14
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-14.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-14.html"
 ---
 
 When night had fallen Tarzan donned the mask and the dead tail of the priest he had slain in the vaults beneath the temple. He judged that it would not do to attempt again to pass the guard, especially so late at night as it would be likely to arouse comment and suspicion, and so he swung into the tree that overhung the garden wall and from its branches dropped to the ground beyond.

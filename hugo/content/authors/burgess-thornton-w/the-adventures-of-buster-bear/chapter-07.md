@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Little Joe Otter Takes Grandfather Frog's Advice"
 weight: 7
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-07.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-07.html"
 ---
 
 Who makes an enemy a friend, To fear and worry puts an end.

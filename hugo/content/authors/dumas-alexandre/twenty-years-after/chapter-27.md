@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - The Four Old Friends Prepare To Meet Again"
 weight: 27
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-27.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-27.html"
 ---
 
 "Well," said Porthos, seated in the courtyard of the Hotel de la Chevrette, to D'Artagnan, who, with a long and melancholy face, had returned from the Palais Royal; "did he receive you ungraciously, my dear friend?"

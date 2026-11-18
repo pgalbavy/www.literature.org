@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 9 - Wreckage"
 weight: 26
-aliases:
-  - "/authors/wells-herbert-george/the-war-of-the-worlds/book-02-chapter-09.html"
+url: "/authors/wells-herbert-george/the-war-of-the-worlds/book-02-chapter-09.html"
 ---
 
 And now comes the strangest thing in my story. Yet, perhaps, it is not altogether strange. I remember, clearly and coldly and vividly, all that I did that day until the time that I stood weeping and praising God upon the summit of Prim- rose Hill. And then I forget.

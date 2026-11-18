@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/tarkington-booth/the-beautiful-lady/chapter-01.html"
+url: "/authors/tarkington-booth/the-beautiful-lady/chapter-01.html"
 ---
 
 Nothing could have been more painful to my sensitiveness than to occupy myself, confused with blushes, at the center of the whole world as a living advertisement of the least amusing ballet in Paris.

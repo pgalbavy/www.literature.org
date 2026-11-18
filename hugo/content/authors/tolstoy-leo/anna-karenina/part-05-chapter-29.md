@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 29"
 weight: 153
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-29.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-29.html"
 ---
 
 One of Anna's objects in coming back to Russia had been to see her son. From the day she left Italy the thought of it had never ceased to agitate her. And as she got nearer to Petersburg, the delight and importance of this meeting grew ever greater in her imagination. She did not even put to herself the question how to arrange it. It seemed to her natural and simple to see her son when she should be in the same town with him. But on her arrival in Petersburg she was suddenly made distinctly aware of her present position in society, and she grasped the fact that to arrange this meeting was no easy matter.

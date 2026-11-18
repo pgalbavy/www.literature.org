@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - A Confession Of Faith"
 weight: 18
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-18.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-18.html"
 ---
 
 The Sunday following the Curate's visit to Lowrie's cottage, just before the opening of the morning service at St, Michael's, Joan Lowrie entered, and walking up the side aisle, took her place among the free seats. The church members turned to look at her as she passed their pews. On her part, she seemed to see nobody and to hear nothing of the rustlings of the genteel garments stirred by the momentary excitement caused by her appearance.

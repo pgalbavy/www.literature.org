@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Separation"
 weight: 5
-aliases:
-  - "/authors/hodgson-burnett-frances/theo/chapter-05.html"
+url: "/authors/hodgson-burnett-frances/theo/chapter-05.html"
 ---
 
 "Mr. Denis Oglethorpe has gone away. He will not come back again until July, when he is to marry Miss Gower."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/davis-richard-harding/soldiers-of-fortune/chapter-10.html"
+url: "/authors/davis-richard-harding/soldiers-of-fortune/chapter-10.html"
 ---
 
 Clay and Langham left MacWilliams and Stuart to look after their prisoner, and returned to the Palms, where they dined in state, and made no reference, while the women were present, to the events of the day.

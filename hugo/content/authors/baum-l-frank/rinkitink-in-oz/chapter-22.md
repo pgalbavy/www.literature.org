@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 23
-aliases:
-  - "/authors/baum-l-frank/rinkitink-in-oz/chapter-22.html"
+url: "/authors/baum-l-frank/rinkitink-in-oz/chapter-22.html"
 ---
 
 Ozma had seen in her Magic Picture the liberation of Inga's parents and the departure of the entire party for the Emerald City, so with her usual hospitality she ordered a splendid banquet prepared and invited all her quaint friends who were then in the Emerald City to be present that evening to meet the strangers who were to become her guests.

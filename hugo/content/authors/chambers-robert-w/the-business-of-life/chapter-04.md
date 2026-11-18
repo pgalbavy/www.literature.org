@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/chambers-robert-w/the-business-of-life/chapter-04.html"
+url: "/authors/chambers-robert-w/the-business-of-life/chapter-04.html"
 ---
 
 When the doorbell rang the maid of all work pushed the button and stood waiting at the top of the stairs. There was a pause, a moment's whispering, then light footsteps flying through the corridor, and:

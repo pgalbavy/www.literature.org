@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Ichabod's Island"
 weight: 1
-aliases:
-  - "/authors/baily-waldron/when-the-cock-crows/chapter-01.html"
+url: "/authors/baily-waldron/when-the-cock-crows/chapter-01.html"
 ---
 
 The tide was at ebb. The noisily rushing spume-spotted waters of the sea were pounding the hard-sand shore of the easterly side of a beautiful island, nestling as a jewel in its setting just within the Capes, which form the shores on either side of Beaufort Inlet, but so exposed that when the winds blow from the sea the full force of the breakers is felt at this point. As this small bit of land is low-lying, more than once when a southeaster has raged, the tiny isle has become entirely submerged.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Shasta's Hunt"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-26.html"
 ---
 
 If the Pah Utah in the extremity of his suffering had been betrayed into the extraordinary weakness of manifesting it, he now seemed anxious to make amends for the humiliating fact. It may have been that among his own people he would have restrained those utterances which declared his agony, and borne the utmost with the stoicism of his race; but knowing that civilization does not teach such outward indifference to pain, he had adopted the surest means to reach the sympathy of the white strangers; or, if we may conjecture still further, the consciousness of the instinctive feud between the American and Caucasian race told him that the plan he took was the only one that offered safety to himself. What reason had he to believe that the hunters were kind of heart? If he hid his distress, would he not be treated as a well Indian? And was there any but the one common ground upon which the two races met?

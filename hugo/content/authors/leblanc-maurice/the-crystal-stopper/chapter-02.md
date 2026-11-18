@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Eight From Nine Leaves One"
 weight: 2
-aliases:
-  - "/authors/leblanc-maurice/the-crystal-stopper/chapter-02.html"
+url: "/authors/leblanc-maurice/the-crystal-stopper/chapter-02.html"
 ---
 
 Notwithstanding my friendly relations with Lupin and the many flattering proofs of his confidence which he has given me, there is one thing which I have never been quite able to fathom, and that is the organization of his gang.

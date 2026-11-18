@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/coolidge-dane/the-desert-trail/chapter-16.html"
+url: "/authors/coolidge-dane/the-desert-trail/chapter-16.html"
 ---
 
 At their camp by the Eagle Tail mine, even though they held it still and were heirs to half its gold, the two pardners were glum and sorrowful. The treacheries which Bud had forgiven in a moment of exaltation came back to him now as he brooded; and he eyed his friend askance, as if wondering what he would do next.

@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 48 - Of What Befell Don Quixote With Doña Rodriguez, The Duchess’s Duenna, Together With Other Occurrences Worthy Of Record And Eternal Remembrance"
 weight: 104
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-48.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-48.html"
 ---
 
 Exceedingly moody and dejected was the sorely wounded Don Quixote, with his face bandaged and marked, not by the hand of God, but by the claws of a cat, mishaps incidental to knight-errantry.

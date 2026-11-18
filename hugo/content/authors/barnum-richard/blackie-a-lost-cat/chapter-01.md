@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Blackie Hears Something"
 weight: 1
-aliases:
-  - "/authors/barnum-richard/blackie-a-lost-cat/chapter-01.html"
+url: "/authors/barnum-richard/blackie-a-lost-cat/chapter-01.html"
 ---
 
 Blackie was a cat. Now that I have told you this much I think you can guess why that was her name. It was because she was as black as a coal, or a bit of tar from the barrel which stood on the street when the men were fixing the roof. Blackie did not have so much as a speck, or a single hair, of white in her glossy coat of fur, and on a dark night, if you were to look for Blackie I think you would not have found her. For she looked just like a bit of the dark itself.

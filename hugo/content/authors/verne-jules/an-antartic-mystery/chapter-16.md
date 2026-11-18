@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Tsalal Island"
 weight: 16
-aliases:
-  - "/authors/verne-jules/an-antartic-mystery/chapter-16.html"
+url: "/authors/verne-jules/an-antartic-mystery/chapter-16.html"
 ---
 
 The night passed without alarm. No boat had put off from the island, nor had a native shown himself upon the beach. The Halbrane, then, had not been observed on her arrival; this was all the better.   We had cast anchor in ten fathoms, at three miles from the coast.   When the Jane appeared in these waters, the people of Tsalal beheld a ship for the first time, and they took it for an enormous animal, regarding its masts as limbs, and its sails as garments. Now, they ought to be better informed on this subject, and if they did not attempt to visit us, to what motive were we to assign such conduct?   Captain Len Guy gave orders for the lowering of the ship's largest boat, in a voice which betrayed his impatience.   The order was executed, and the captain, addressing West, said—   "Send eight men down with Martin Holt; send Hunt to the helm. Remain yourself at the moorings, and keep a look-out landwards as well as to sea."

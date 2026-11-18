@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/collins-wilkie/my-ladys-money/chapter-21.html"
+url: "/authors/collins-wilkie/my-ladys-money/chapter-21.html"
 ---
 
 HARDYMAN went on to the cottage. He found Isabel in some agitation. And there, by her side, with his tail wagging slowly, and his eye on Hardyman in expectation of a possible kick--there was the lost Tommie!

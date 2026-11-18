@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39 - Introduces Some Respectable Characters With Whom The Reader Is Already Acquainted, And Shows How Monks And The Jew Laid Their Worthy Heads Together"
 weight: 39
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-39.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-39.html"
 ---
 
 On the evening following that upon which the three worthies mentioned in the last chapter, disposed of their little matter of business as therein narrated, Mr. William Sikes, awakening from a nap, drowsily growled forth an inquiry what time of night it was.

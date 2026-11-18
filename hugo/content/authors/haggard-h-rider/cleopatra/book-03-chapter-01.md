@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 1"
 weight: 25
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-03-chapter-01.html"
+url: "/authors/haggard-h-rider/cleopatra/book-03-chapter-01.html"
 ---
 
 OF THE ESCAPE OF HARMACHIS FROM TARSUS; OF HIS BEING CAST FORTH AS AN OFFERING TO THE GODS OF THE SEA; OF HIS SOJOURN IN THE ISLE OF CYPRUS; OF HIS RETURN TO ABOUTHIS; AND OF THE DEATH OF AMENEMHAT

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Lightfoot's Long Swim"
 weight: 22
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-22.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-22.html"
 ---
 
 The Big River was very wide. It would have been a long swim for Lightfoot had he been fresh and at his best. Strange as it may seem, Lightfoot is a splendid swimmer, despite his small, delicate feet. He enjoys swimming.

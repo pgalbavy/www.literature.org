@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-02.html"
+url: "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-02.html"
 ---
 
 Courts can not enforce laws upon which public opinion sets its embargo. The men of the mountains have lived isolated lives for a hundred years. They inhabit an island of medievalism entirely surrounded by civilization, but the civilization is no more a part of them than the water that surrounds an island is part of the island. "Leave us alone" has been the word of the hills to the gift-bearing Greeks of innovation. The right of men to settle their own quarrels after the method of the Scottish clans from whom they sprang, has been a thing which local courts have made only perfunctory efforts to deny--and which juries of the vicinage stubbornly refused to deny. Among their crude cabins one still hears phrases bequeathed by word of mouth from the England of Elizabeth and the Scotland of Mary Stuart. Immured behind their walls of sandstone, they have lived ignorantly--and fiercely.

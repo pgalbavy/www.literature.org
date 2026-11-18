@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-09.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-09.html"
 ---
 
 Two weeks later Grace Evans left for Hollywood and fame. She would permit no one to accompany her, saying that she wanted to feel that from the moment she left home she had made her own way, unassisted, toward her goal.

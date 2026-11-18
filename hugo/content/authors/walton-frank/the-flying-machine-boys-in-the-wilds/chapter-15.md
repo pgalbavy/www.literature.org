@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Question Of Marksmanship"
 weight: 15
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-15.html"
+url: "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-15.html"
 ---
 
 “Door?” repeated Carl, in reply to his chum’s exclamation. “There’s no door here!”

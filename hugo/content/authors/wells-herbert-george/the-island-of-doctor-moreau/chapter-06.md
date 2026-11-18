@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Evil-Looking Boatmen"
 weight: 7
-aliases:
-  - "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-06.html"
+url: "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-06.html"
 ---
 
 BUT the islanders, seeing that I was really adrift, took pity on me. I drifted very slowly to the eastward, approaching the island slantingly; and presently I saw, with hysterical relief, the launch come round and return towards me. She was heavily laden, and I could make out as she drew nearer Montgomery's white-haired, broad-shouldered companion sitting cramped up with the dogs and several packing-cases in the stern sheets. This individual stared fixedly at me without moving or speaking. The black-faced cripple was glaring at me as fixedly in the bows near the puma. There were three other men besides,--three strange brutish-looking fellows, at whom the staghounds were snarling savagely. Montgomery, who was steering, brought the boat by me, and rising, caught and fastened my painter to the tiller to tow me, for there was no room aboard.

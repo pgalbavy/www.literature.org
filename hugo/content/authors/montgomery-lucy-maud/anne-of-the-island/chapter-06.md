@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - In The Park"
 weight: 6
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-06.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-06.html"
 ---
 
 "What are you going to do with yourselves today, girls?" asked Philippa, popping into Anne's room one Saturday afternoon.

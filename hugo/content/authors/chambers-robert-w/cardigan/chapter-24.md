@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 25
-aliases:
-  - "/authors/chambers-robert-w/cardigan/chapter-24.html"
+url: "/authors/chambers-robert-w/cardigan/chapter-24.html"
 ---
 
 I was taken, in company with Jack Mount, on Monday morning, the 29th of October, 1774, without warrant or process, without a shadow of legal right, without the faintest justification or excuse, save that I had been seen conversing with Mount on the Mall, and had resisted the thief-taker Bishop and his filthy gang of bailiffs.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Death Sentence"
 weight: 18
-aliases:
-  - "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-17.html"
+url: "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-17.html"
 ---
 
 A few moments before the appointed time on the following morning a strong guard of Zat Arras' officers appeared at our quarters to conduct us to the great hall of the temple.

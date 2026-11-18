@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Alone And Together"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-01.html"
 ---
 
 The reader will recall that at the close of The River Fugitives the narrative left our friends in a situation, apparently, of safety; and the belief, on the part of Jo Minturn, his sister Rosa and Ned Clinton, was strong that, in their flight from the dreadful scenes of the Wyoming massacre of July, 1778, they had left all dangers behind. They were confident that, under the guidance of the matchless Mohawk, Lena-Wingo (temporarily absent in quest of food), the road to security was beset by no perils worth the mention.

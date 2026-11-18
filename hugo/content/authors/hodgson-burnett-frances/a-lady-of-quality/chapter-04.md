@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Lord Twemlow's Chaplain Visits His Patron's Kinsman, And Mistress Clorinda Shines On Her Birthday Night"
 weight: 5
-aliases:
-  - "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-04.html"
+url: "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-04.html"
 ---
 
 Uncivilised and almost savage as her girlish life was, and unregulated by any outward training as was her mind, there were none who came in contact with her who could be blind to a certain strong, clear wit, and unconquerableness of purpose, for which she was remarkable. She ever knew full well what she desired to gain or to avoid, and once having fixed her mind upon any object, she showed an adroitness and brilliancy of resource, a control of herself and others, the which there was no circumventing. She never made a blunder because she could not control the expression of her emotions; and when she gave way to a passion, 'twas because she chose to do so, having naught to lose, and in the midst of all their riotous jesting with her the boon companions of Sir Jeoffry knew this.

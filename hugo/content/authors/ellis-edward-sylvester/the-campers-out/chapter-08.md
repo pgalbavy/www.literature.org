@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Fellow-Passengers"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-08.html"
 ---
 
 The two decided to give Bob Budd a surprise. They said it would be hard for them to get away, and more than likely they would have to wait several weeks before the matter could be decided. This letter was followed at once by themselves, and they were now within a few miles of Bob’s home without his suspecting anything of the kind.

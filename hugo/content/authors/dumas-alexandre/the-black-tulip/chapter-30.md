@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - Wherein The Reader Begins To Guess The Kind Of Execution That Was Awaiting Van Baerle"
 weight: 30
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-30.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-30.html"
 ---
 
 The carriage rolled on during the whole day; it passed on the right of Dort, went through Rotterdam, and reached Delft. At five o'clock in the evening, at least twenty leagues had been travelled.

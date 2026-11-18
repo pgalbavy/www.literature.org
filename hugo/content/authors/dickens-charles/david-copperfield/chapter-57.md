@@ -1,8 +1,7 @@
 ---
 title: "Chapter 57 - The Emigrants"
 weight: 58
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-57.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-57.html"
 ---
 
 One thing more, I had to do, before yielding myself to the shock of these emotions. It was, to conceal what had occurred, from those who were going away; and to dismiss them on their voyage in happy ignorance. In this, no time was to be lost.

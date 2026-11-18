@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Tommy Fox Makes A Strange Friend"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-14.html"
 ---
 
 There was one thing, especially, that surprised Tommy Fox. And I think it surprised the dog Spot even more. Tommy and Spot became friends.

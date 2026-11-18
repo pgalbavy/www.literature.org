@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38"
 weight: 38
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-38.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-38.html"
 ---
 
 The carriage drew up at the theatre and he handed her out - a little awkwardly perhaps, but without absolute clumsiness. They found all the rest of the party already in their seats and the curtain about to go up. They took the two end stalls, Trent on the outside. One chair only, next to him, remained unoccupied.

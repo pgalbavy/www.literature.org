@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 35
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-34.html"
+url: "/authors/haggard-h-rider/dawn/chapter-34.html"
 ---
 
 A minute or two after the boat in which Arthur was being piloted to the shore, under the guidance of the manager of Miles' Hotel, had left the side of the vessel, Mrs. Carr's steam-launch shot up alongside of them, its brass-work gleaming in the sunlight like polished gold. On the deck, near the little wheel, stood Mrs. Carr herself, and by her side, her martial cloak around her, lay Miss Terry, still as any log.

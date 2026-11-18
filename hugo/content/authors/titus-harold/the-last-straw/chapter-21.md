@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Renunciation"
 weight: 21
-aliases:
-  - "/authors/titus-harold/the-last-straw/chapter-21.html"
+url: "/authors/titus-harold/the-last-straw/chapter-21.html"
 ---
 
 It looked like trouble and there was trouble.

@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 21"
 weight: 49
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-02-chapter-21.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-02-chapter-21.html"
 ---
 
 The wind had fallen and black clouds, merging with the powder smoke, hung low over the field of battle on the horizon. It was growing dark and the glow of two conflagrations was the more conspicuous. The cannonade was dying down, but the rattle of musketry behind and on the right sounded oftener and nearer. As soon as Tushin with his guns, continually driving round or coming upon wounded men, was out of range of fire and had descended into the dip, he was met by some of the staff, among them the staff officer and Zherkov, who had been twice sent to Tushin's battery but had never reached it. Interrupting one another, they all gave, and transmitted, orders as to how to proceed, reprimanding and reproaching him. Tushin gave no orders, and, silently- fearing to speak because at every word he felt ready to weep without knowing why- rode behind on his artillery nag. Though the orders were to abandon the wounded, many of them dragged themselves after troops and begged for seats on the gun carriages. The jaunty infantry officer who just before the battle had rushed out of Tushin's wattle shed was laid, with a bullet in his stomach, on "Matvevna's" carriage. At the foot of the hill, a pale hussar cadet, supporting one hand with the other, came up to Tushin and asked for a seat.

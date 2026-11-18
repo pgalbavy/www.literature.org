@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Rescue"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-07.html"
 ---
 
 Our three friends—although it seems equally proper to speak of four, as Terror was a most important member of the party—walked away from the sea-shore and began making their way back into the country. As we have hinted in another place, they found this section wild and desolate. Little else than huge rocks, bowlders and stunted trees met the eye, while there was no appearance of vegetation, nor was the slightest vestige of a human habitation visible, let them look in whatever direction they chose.

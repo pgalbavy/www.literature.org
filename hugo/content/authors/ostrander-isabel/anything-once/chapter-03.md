@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Vendor Of Everything"
 weight: 3
-aliases:
-  - "/authors/ostrander-isabel/anything-once/chapter-03.html"
+url: "/authors/ostrander-isabel/anything-once/chapter-03.html"
 ---
 
 When Lou awakened the next morning at dawn it was her turn to find herself deserted, but the fact failed to arouse any misgivings in her mind. She had found in her brief experience with menfolks that they were mostly queer, one way or another, but this one was dependable, and she felt no doubt that he would turn up when he got ready.

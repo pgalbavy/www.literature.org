@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - \"Help! Help!\""
 weight: 29
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-29.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-29.html"
 ---
 
 The belief that they were close upon the bear threw the boys into a flutter of excitement, and they walked slowly as they approached the tree, up which the hound was barking.

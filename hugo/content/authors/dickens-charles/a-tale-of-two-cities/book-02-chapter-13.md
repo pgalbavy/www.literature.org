@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 13 - The Fellow of No Delicacy"
 weight: 19
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-13.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-13.html"
 ---
 
 IF SYDNEY CARTON ever shone anywhere, he certainly never shone in the house of Doctor Manette. He had been there often, during a whole year, and had always been the same moody and morose lounger there. When he cared to talk, he talked well; but, the cloud of caring for nothing, which overshadowed him with such a fatal darkness, was very rarely pierced by the light within him.

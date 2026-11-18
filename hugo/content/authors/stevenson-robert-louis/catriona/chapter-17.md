@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Memorial"
 weight: 18
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-17.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-17.html"
 ---
 
 The last word of the blessing was scarce out of the minister’s mouth before Stewart had me by the arm. We were the first to be forth of the church, and he made such extraordinary expedition that we were safe within the four walls of a house before the street had begun to be thronged with the home-going congregation.

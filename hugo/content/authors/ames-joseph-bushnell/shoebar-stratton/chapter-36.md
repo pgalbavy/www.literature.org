@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - Two Trails Converge"
 weight: 36
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-36.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-36.html"
 ---
 
 Mrs. Archer sat alone in the ranch-house living-room, doing absolutely nothing. As a matter of fact, she had little use for those minor solaces of knitting or crocheting which soothe the waking hours of so many elderly women. More than once, indeed, she had been heard to state with mild emphasis that when she was no longer able to entertain herself with human nature, or, at the worst, with an interesting book, it would be high time to retire into a nunnery, or its modern equivalent.

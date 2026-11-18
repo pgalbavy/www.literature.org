@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 13"
 weight: 13
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-01-chapter-13.html"
+url: "/authors/london-jack/valley-of-the-moon/book-01-chapter-13.html"
 ---
 
 "Our cattle were all played out," Saxon was saying, "and winter was so near that we couldn't dare try to cross the Great American Desert, so our train stopped in Salt Lake City that winter. The Mormons hadn't got bad yet, and they were good to us."

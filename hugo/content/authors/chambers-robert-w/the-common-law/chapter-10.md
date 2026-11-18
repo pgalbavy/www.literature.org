@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/chambers-robert-w/the-common-law/chapter-10.html"
+url: "/authors/chambers-robert-w/the-common-law/chapter-10.html"
 ---
 
 It was slowly becoming evident to Neville that Valerie's was the stronger character—not through any genius for tenacity nor on account of any domineering instinct—but because, mistaken or otherwise in her ethical reasoning, she was consistent, true to her belief, and had the courage to live up to it. And this made her convictions almost unassailable.

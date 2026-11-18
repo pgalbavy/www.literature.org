@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Wild Wager"
 weight: 15
-aliases:
-  - "/authors/buchan-john/salute-to-adventurers/chapter-14.html"
+url: "/authors/buchan-john/salute-to-adventurers/chapter-14.html"
 ---
 
 That July morning in the forest gave me, if not popularity, at any rate peace. I had made good my position. Henceforth the word went out that I was to be let alone. Some of the young men, indeed, showed signs of affecting my society, including that Mr. Kent of Gracedieu who had been stripped by Ringan. The others treated me with courtesy, and I replied with my best manners. Most of them were of a different world to mine, and we could not mix, so 'twas right that our deportment should be that of two dissimilar but amiable nations bowing to each other across a frontier.

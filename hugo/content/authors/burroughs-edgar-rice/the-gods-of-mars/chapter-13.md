@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Break for Liberty"
 weight: 14
-aliases:
-  - "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-13.html"
+url: "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-13.html"
 ---
 
 Xodar listened in incredulous astonishment to my narration of the events which had transpired within the arena at the rites of Issus. He could scarce conceive, even though he had already professed his doubt as to the deity of Issus, that one could threaten her with sword in hand and not be blasted into a thousand fragments by the mere fury of her divine wrath.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - An Endless Chain Of Letters"
 weight: 7
-aliases:
-  - "/authors/brown-ruth-alberta/heart-of-gold/chapter-07.html"
+url: "/authors/brown-ruth-alberta/heart-of-gold/chapter-07.html"
 ---
 
 Peace closed the magazine with a reluctant sigh. "That," she said with decided emphasis on the pronoun, "is a good story. If all *orthers* wrote like that, 'twould make int'resting reading."

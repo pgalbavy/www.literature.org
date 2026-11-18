@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 16 - A Movement Of The Powers"
 weight: 16
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-01-chapter-16.html"
+url: "/authors/buchan-john/the-half-hearted/part-01-chapter-16.html"
 ---
 
 At Mrs. Montrayner's dinner parties a world of silent men is sandwiched between a *monde* of chattering women. The hostess has a taste for busy celebrities who eat their dinner without thought of the cookery, and regard their fair neighbours much as the diners think of the band in a restaurant. She chose her company with care, and if at her table there was not the busy clack of a fluent conversation, there was always the possibility of *bons mots* and the off-chance of a State secret. So to have dined with the Montrayners became a boast in a small social set, and to the unilluminate the Montrayner banquets seemed scarce less momentous than Cabinet meetings.

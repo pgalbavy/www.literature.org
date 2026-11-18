@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-10.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-10.html"
 ---
 
 In which Passepartout is only too glad to get off with the loss of his shoes

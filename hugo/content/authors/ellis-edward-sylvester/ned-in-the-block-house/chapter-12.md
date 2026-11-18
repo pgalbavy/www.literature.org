@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - \"Birds Of The Night\""
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-12.html"
 ---
 
 The garrison within the block-house saw the November day draw to an end, and the darkness of night closing in over river, forest and clearing, with sad forebodings of what was to come before the rising of the morrow's sun.

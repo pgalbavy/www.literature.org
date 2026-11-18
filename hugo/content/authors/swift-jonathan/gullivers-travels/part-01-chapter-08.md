@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 8"
 weight: 9
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-01-chapter-08.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-01-chapter-08.html"
 ---
 
 The author, by a lucky accident, finds means to leave Blefuscu; and, after some difficulties, returns safe to his native country.

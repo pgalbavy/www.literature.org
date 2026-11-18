@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Tinkle Is Taken Away"
 weight: 8
-aliases:
-  - "/authors/barnum-richard/tinkle-the-trick-pony/chapter-08.html"
+url: "/authors/barnum-richard/tinkle-the-trick-pony/chapter-08.html"
 ---
 
 “That’s fine!” cried George, as Tinkle, after having jumped over the stick, came trotting up to get the sugar. “Soon you’ll be as good as Dido, the dancing bear.”

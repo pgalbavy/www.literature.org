@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Schools"
 weight: 26
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-24.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-24.html"
 ---
 
 There is no more characteristic spot in Oxford than the quadrangle of the schools. Doubtless in the times when the University held and exercised the privileges of infang-thief and outfang-thief, and other such old-world rights, there must have been a place somewhere within the liberties devoted to examinations even more exciting than the great-go. But since *alma mater* has ceased to take cognizance of "treasons, insurrections, felonies, and mayhem," it is here, in that fateful and inexorable quadrangle, and the buildings which surround it, that she exercises her most potent spells over the spirits of her children. I suppose that a man being tried for his life must be more uncomfortable than an undergraduate being examined for his degree, and that to be hung—perhaps even to be pilloried—must be worse than to be plucked. But after all, the feeling in both cases must be essentially the same, only more intense in the former; and an institution which can examine a man (*in literis humanitoribus*, in humanities, so called) once a year for two or three days at a time, has nothing to complain of, though it has no longer the power of hanging him at once out of hand.

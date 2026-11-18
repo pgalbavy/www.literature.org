@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Sound In A Dream"
 weight: 15
-aliases:
-  - "/authors/hodgson-burnett-frances/the-lost-prince/chapter-15.html"
+url: "/authors/hodgson-burnett-frances/the-lost-prince/chapter-15.html"
 ---
 
 Marco slept peacefully for several hours. There was nothing to awaken him during that time. But at the end of it, his sleep was penetrated by a definite sound. He had dreamed of hearing a voice at a distance, and, as he tried in his dream to hear what it said, a brief metallic ringing sound awakened him outright. It was over by the time he was fully conscious, and at once he realized that the voice of his dream had been a real one, and was speaking still. It was the Lovely Person's voice, and she was speaking rapidly, as if she were in the greatest haste. She was speaking through the door.

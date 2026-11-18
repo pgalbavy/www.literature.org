@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/darwin-charles/the-voyage-of-the-beagle/preface.html"
+url: "/authors/darwin-charles/the-voyage-of-the-beagle/preface.html"
 ---
 
 I have stated in the preface to the first Edition of this work, and in the Zoology of the Voyage of the Beagle, that it was in consequence of a wish expressed by Captain Fitz Roy, of having some scientific person on board, accompanied by an offer from him of giving up part of his own accommodations, that I volunteered my services, which received, through the kindness of the hydrographer, Captain Beaufort, the sanction of the Lords of the Admiralty. As I feel that the opportunities which I enjoyed of studying the Natural History of the different countries we visited, have been wholly due to Captain Fitz Roy, I hope I may here be permitted to repeat my expression of gratitude to him; and to add that, during the five years we were together, I received from him the most cordial friendship and steady assistance. Both to Captain Fitz Roy and to all the Officers of the Beagle [note 1] I shall ever feel most thankful for the undeviating kindness with which I was treated during our long voyage.

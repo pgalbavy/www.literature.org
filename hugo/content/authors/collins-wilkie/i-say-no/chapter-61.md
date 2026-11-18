@@ -1,8 +1,7 @@
 ---
 title: "Chapter 61 - Inside The Room"
 weight: 61
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-61.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-61.html"
 ---
 
 A decent elderly woman was seated at the bedside. She rose, and spoke to Emily with a mingling of sorrow and confusion strikingly expressed on her face. "It isn't my fault," she said, "that Mrs. Rook receives you in this manner; I am obliged to humor her."

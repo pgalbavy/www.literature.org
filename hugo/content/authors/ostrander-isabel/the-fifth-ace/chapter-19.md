@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Vender Of Tomales"
 weight: 19
-aliases:
-  - "/authors/ostrander-isabel/the-fifth-ace/chapter-19.html"
+url: "/authors/ostrander-isabel/the-fifth-ace/chapter-19.html"
 ---
 
 After Starr Wiley's departure Mason North placed the documents in Willa's hands, explaining each in turn and she forced herself to a stern concentration on them that she might master every detail. Already she was gathering her forces, although no definite purpose outlined itself in the chaos of her thoughts. Only a blind, as yet unreasoning, repudiation of the story to which she had just listened sprang full-grown to life within her and the very strength of her conviction urged her to examine well the evidence against herself.

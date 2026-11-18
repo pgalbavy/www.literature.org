@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 15"
 weight: 38
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-15.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-15.html"
 ---
 
 On Saturday morning Elizabeth and Mr. Collins met for breakfast a few minutes before the others appeared; and he took the opportunity of paying the parting civilities which he deemed indispensably necessary.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-01.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-01.html"
 ---
 
 "Nothin' don't nuver come ter pass hyarabouts!"

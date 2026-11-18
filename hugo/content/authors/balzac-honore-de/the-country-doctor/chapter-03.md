@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Napoleon Of The People"
 weight: 3
-aliases:
-  - "/authors/balzac-honore-de/the-country-doctor/chapter-03.html"
+url: "/authors/balzac-honore-de/the-country-doctor/chapter-03.html"
 ---
 
 "Pray, come in, sir!" cried Jacquotte. "A pretty time the gentlemen have been waiting for you! It is always the way! You always manage to spoil the dinner for me whenever it ought to be particularly good. Everything is cooked to death by this time----"

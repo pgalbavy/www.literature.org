@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 3"
 weight: 40
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-04-chapter-03.html"
+url: "/authors/cather-willa/song-of-the-lark/part-04-chapter-03.html"
 ---
 
 THE faculty of observation was never highly developed in Thea Kronborg. A great deal escaped her eye as she passed through the world. But the things which were for her, she saw; she experienced them physically and remembered them as if they had once been a part of herself. The roses she used to see in the florists' shops in Chicago were merely roses. But when she thought of the moonflowers that grew over Mrs. Tellamantez's door, it was as if she had been that vine and had opened up in white flowers every night. There were memories of light on the sand hills, of masses of prickly-pear blossoms she had found in the desert in early childhood, of the late afternoon sun pouring through the grape leaves and the mint bed in Mrs. Kohler's garden, which she would never lose. These recollections were a part of her mind and personality. In Chicago she had got almost nothing that went into her subconscious self and took root there. But here, in Panther Canyon, there were again things which seemed destined for her.

@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 19 - In Which Is Related The Adventure Of The Enamoured Shepherd, Together With Other Truly Droll Incidents"
 weight: 75
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-19.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-19.html"
 ---
 
 Don Quixote had gone but a short distance beyond Don Diego’s village, when he fell in with a couple of either priests or students, and a couple of peasants, mounted on four beasts of the ass kind. One of the students carried, wrapped up in a piece of green buckram by way of a portmanteau, what seemed to be a little linen and a couple of pairs of ribbed stockings; the other carried nothing but a pair of new fencing-foils with buttons. The peasants carried divers articles that showed they were on their way from some large town where they had bought them, and were taking them home to their village; and both students and peasants were struck with the same amazement that everybody felt who saw Don Quixote for the first time, and were dying to know who this man, so different from ordinary men, could be. Don Quixote saluted them, and after ascertaining that their road was the same as his, made them an offer of his company, and begged them to slacken their pace, as their young asses travelled faster than his horse; and then, to gratify them, he told them in a few words who he was and the calling and profession he followed, which was that of a knight-errant seeking adventures in all parts of the world. He informed them that his own name was Don Quixote of La Mancha, and that he was called, by way of surname, the Knight of the Lions.

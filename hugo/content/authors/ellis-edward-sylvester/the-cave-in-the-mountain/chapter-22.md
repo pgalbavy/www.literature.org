@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Two Old Acquaintances"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-22.html"
 ---
 
 All three of the little party needed rest, and none of them opened their eyes until morning. As a simple precaution the scout smothered the fire entirely, by scraping the ashes over the embers. Not a ray of moonlight could reach them, and they were wrapped in the most impenetrable darkness.

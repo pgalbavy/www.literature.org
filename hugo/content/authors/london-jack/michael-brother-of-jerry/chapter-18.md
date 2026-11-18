@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 19
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-18.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-18.html"
 ---
 
 The grizzled ship's steward and the rough-coated Irish terrier quickly became conspicuous figures in the night life of the Barbary Coast of San Francisco. Daughtry elaborated on the counting trick by bringing Cocky along. Thus, when a waiter did not fetch the right number of glasses, Michael would remain quite still, until Cocky, at a privy signal from Steward, standing on one leg, with the free claw would clutch Michael's neck and apparently talk into Michael's ear. Whereupon Michael would look about the glasses on the table and begin his usual expostulation with the waiter.

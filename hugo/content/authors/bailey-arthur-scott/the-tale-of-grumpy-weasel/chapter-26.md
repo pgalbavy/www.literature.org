@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - How Grumpy Helped"
 weight: 26
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-26.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-26.html"
 ---
 
 Grumpy Weasel wondered how Peter Mink was going to get Mr. Snowy Owl out of Pleasant Valley. He had never dreamed that Peter could do it. But as he thought the matter over he remembered that Peter was a good deal bigger than himself.

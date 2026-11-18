@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-30.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-30.html"
 ---
 
 MY DEAR AUNT ERNIE, - At last I have a chance of sending you a letter - and, this time at any rate, you won't have to complain about my sending you no news. I'll promise you that, before I begin, and you needn't get scared either, because it's all good. I've been awfully lucky, and all because that fellow Cathcart turned out such a funk and a bounder. It's the oddest thing in the world too, that old Cis should have written me to pick up all the news I could about Scarlett Trent and send it to you. Why, he's within a few feet of me at this moment, and I've been seeing him continually ever since I came here. But there, I'll try and begin at the beginning.

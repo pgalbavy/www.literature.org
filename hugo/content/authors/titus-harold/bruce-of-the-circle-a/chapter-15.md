@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Her Lord And Master"
 weight: 15
-aliases:
-  - "/authors/titus-harold/bruce-of-the-circle-a/chapter-15.html"
+url: "/authors/titus-harold/bruce-of-the-circle-a/chapter-15.html"
 ---
 
 Ann watched him go, an apprehensive mood coming upon her. He shacked off on the pinto horse while Abe, left alone in the corral, trotted about and nickered and pawed to show his displeasure at being left behind. For a long time the girl stood there, not moving, breathing slowly; then she looked about her, turned and walked into Bruce's room, roamed around, examining the books, the pictures, the furniture, touching things with her finger tips gently, lovingly, hearing his voice again as it told her of them. For her each article in that room now held a particular interest. She stared at the photograph of the girl he had selected as a sister, at Whistler's fine, capped old lady, opened the "French Revolution" and riffled the leaves he had thumbed and soiled and torn, and laughed deep in her throat as she saw the curtains hanging irregularly from their six-penny nails ... laughed, though her eyes were damp.

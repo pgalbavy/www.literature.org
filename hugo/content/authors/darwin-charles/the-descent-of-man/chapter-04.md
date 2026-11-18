@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/darwin-charles/the-descent-of-man/chapter-04.html"
+url: "/authors/darwin-charles/the-descent-of-man/chapter-04.html"
 ---
 
 I FULLY subscribe to the judgment of those writers* who maintain that of all the differences between man and the lower animals, the moral sense or conscience is by far the most important. This sense, as Mackintosh*(2) remarks, "has a rightful supremacy over every other principle of human action"; it is summed up in that short but imperious word ought, so full of high significance. It is the most noble of all the attributes of man, leading him without a moment's hesitation to risk his life for that of a fellow-creature; or after due deliberation, impelled simply by the deep feeling of right or duty, to sacrifice it in some great cause. Immanuel Kant exclaims, "Duty! Wondrous thought, that workest neither by fond insinuation, flattery, nor by any threat, but merely by holding up thy naked law in the soul, and so extorting for thyself always reverence, if not always obedience; before whom all appetites are dumb, however secretly they rebel; whence thy original?"*(3)

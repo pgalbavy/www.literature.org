@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Damages For Libel"
 weight: 13
-aliases:
-  - "/authors/ridge-w-pett/mixed-grill/chapter-13.html"
+url: "/authors/ridge-w-pett/mixed-grill/chapter-13.html"
 ---
 
 “A RARE rush whilst it lasts,” mentioned Mrs. Crowther, assisting in the task of clearing tables. “My dear husband used to reckon up how much we should be making profit in a year if, instead of being from twelve to two, it went on from what he called early morn to dewy eve.” She sighed. “Mr. Crowther had a lot of poetry in his disposition—much more so than most eating-house keepers in Millwall.”

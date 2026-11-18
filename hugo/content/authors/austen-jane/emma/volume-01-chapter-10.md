@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 10"
 weight: 10
-aliases:
-  - "/authors/austen-jane/emma/volume-01-chapter-10.html"
+url: "/authors/austen-jane/emma/volume-01-chapter-10.html"
 ---
 
 Though now the middle of December, there had yet been no weather to prevent the young ladies from tolerably regular exercise; and on the morrow, Emma had a charitable visit to pay to a poor sick family, who lived a little way out of Highbury.

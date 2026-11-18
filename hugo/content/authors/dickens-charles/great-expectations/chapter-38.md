@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38"
 weight: 38
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-38.html"
+url: "/authors/dickens-charles/great-expectations/chapter-38.html"
 ---
 
 Is that staid old house near the Green at Richmond should ever come to be haunted when I am dead, it will be haunted, surely, by my ghost. O the many, many nights and days through which the unquiet spirit within me haunted that house when Estella lived there! Let my body be where it would, my spirit was always wandering, wandering, wandering, about that house.

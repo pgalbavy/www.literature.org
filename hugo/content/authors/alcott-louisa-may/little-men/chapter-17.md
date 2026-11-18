@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Composition Day"
 weight: 18
-aliases:
-  - "/authors/alcott-louisa-may/little-men/chapter-17.html"
+url: "/authors/alcott-louisa-may/little-men/chapter-17.html"
 ---
 
 "Hurry up, boys, it's three o'clock, and Uncle Fritz likes us to be punctual, you know," said Franz one Wednesday afternoon as a bell rang, and a stream of literary-looking young gentlemen with books and paper in their hands were seen going toward the museum.

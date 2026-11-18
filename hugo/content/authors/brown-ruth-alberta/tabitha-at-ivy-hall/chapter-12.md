@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Dr. Vane Has A Visitor"
 weight: 12
-aliases:
-  - "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-12.html"
+url: "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-12.html"
 ---
 
 By the next morning Tabitha had fully recovered from her terrible night's experience, but it was days before the old hermit awoke to consciousness to find himself lying in a white bed in the Miners' Hospital of Silver Bow with Dr. Vane bending over him and a motherly woman in white cap and apron moving about the room.

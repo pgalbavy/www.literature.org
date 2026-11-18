@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - A Startling Discovery"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-22.html"
 ---
 
 Nothing was more natural than that Alvin Landon and Chester Haynes should be concerned for the safety of the motor launch *Deerfoot*. It had been stolen from them once in simple wantonness by two young men who had nothing to do with the post office robberies. The motive for a similar theft was now much stronger. It was evident that the criminals had come to Beartown, or as near to it as they could come, by water, and their boat was somewhere in the neighborhood. They were likely to discover the *Deerfoot*, if they had not already done so, and knowing its superior speed, would either make use of or disable it so it could not be employed for pursuit.

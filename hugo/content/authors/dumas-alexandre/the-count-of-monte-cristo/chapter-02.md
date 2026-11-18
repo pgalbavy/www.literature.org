@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Father And Son"
 weight: 2
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-02.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-02.html"
 ---
 
 We will leave Danglars struggling with the demon of hatred, and endeavoring to insinuate in the ear of the shipowner some evil suspicions against his comrade, and follow Dantes, who, after having traversed La Canebiere, took the Rue de Noailles, and entering a small house, on the left of the Allees de Meillan, rapidly ascended four flights of a dark staircase, holding the baluster with one hand, while with the other he repressed the beatings of his heart, and paused before a half-open door, from which he could see the whole of a small room.

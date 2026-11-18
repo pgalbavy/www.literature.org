@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - A Strange Mistake"
 weight: 23
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-23.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-23.html"
 ---
 
 Not wishing to be late at his cousin's party, which he understood was to begin at five o'clock, Rusty Wren hurried along the bank of Black Creek, while Mr. Frog did his best to keep pace with him.

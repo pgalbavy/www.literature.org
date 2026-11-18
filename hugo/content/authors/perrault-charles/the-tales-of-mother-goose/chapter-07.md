@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Fairy"
 weight: 8
-aliases:
-  - "/authors/perrault-charles/the-tales-of-mother-goose/chapter-07.html"
+url: "/authors/perrault-charles/the-tales-of-mother-goose/chapter-07.html"
 ---
 
 Once upon a time there was a widow who had two daughters. The elder was so much like her, both in looks and character, that whoever saw the daughter saw the mother. They were both so disagreeable and so proud that there was no living with them. The younger, who was the very picture of her father for sweetness of temper and virtue, was withal one of the most beautiful girls ever seen. As people naturally love their own likeness, this mother doted on her elder daughter, and at the same time had a great aversion for the younger. She made her eat in the kitchen and work continually.

@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 17"
 weight: 18
-aliases:
-  - "/authors/cather-willa/my-antonia/book-01-chapter-17.html"
+url: "/authors/cather-willa/my-antonia/book-01-chapter-17.html"
 ---
 
 WHEN SPRING CAME, AFTER that hard winter, one could not get enough of the nimble air. Every morning I wakened with a fresh consciousness that winter was over. There were none of the signs of spring for which I used to watch in Virginia, no budding woods or blooming gardens. There was only--spring itself; the throb of it, the light restlessness, the vital essence of it everywhere: in the sky, in the swift clouds, in the pale sunshine, and in the warm, high wind--rising suddenly, sinking suddenly, impulsive and playful like a big puppy that pawed you and then lay down to be petted. If I had been tossed down blindfold on that red prairie, I should have known that it was spring.

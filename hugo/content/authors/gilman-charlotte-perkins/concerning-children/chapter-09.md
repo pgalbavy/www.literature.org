@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Respect Due To Youth"
 weight: 9
-aliases:
-  - "/authors/gilman-charlotte-perkins/concerning-children/chapter-09.html"
+url: "/authors/gilman-charlotte-perkins/concerning-children/chapter-09.html"
 ---
 
 Since we have so carefully and thoroughly beaten back the new brain-growth which should distinguish each successive generation, and fostered in every way the primitive mental habits of our forefathers, the natural consequence is a prolonged survival of very early tendencies. Outside, in the necessary contact and freedom of the world's life, crude ideas must change, and either become suited to the times or lost entirely. But in the privacy of the home, under the conditions of family life and the dominant influence of feminine conservatism, we find a group of carefully cherished rudiments which never could have survived without such isolation.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Singular Attitude Of A Safety-Pin"
 weight: 15
-aliases:
-  - "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-14.html"
+url: "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-14.html"
 ---
 
 Behind the curtain, there was an indescribable crowd. Artists, scene-shifters, dancers, supers, choristers, subscribers were all asking questions, shouting and hustling one another.

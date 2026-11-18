@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - Malevola"
 weight: 34
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-34.html"
+url: "/authors/bronte-charlotte/villette/chapter-34.html"
 ---
 
 Madame Beck called me on Thursday afternoon, and asked whether I had any occupation to hinder me from going into town and executing some little commissions for her at the shops.

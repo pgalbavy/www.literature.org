@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 27"
 weight: 61
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-27.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-27.html"
 ---
 
 Anna was up-stairs, standing before the looking-glass, and, with Annushka's assistance, pinning the last ribbon on her gown when she heard carriage wheels crunching the gravel at the entrance.

@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 29"
 weight: 98
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-03-chapter-29.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-03-chapter-29.html"
 ---
 
 The carrying out of Levin's plan presented many difficulties; but he struggled on, doing his utmost, and attained a result which, though not what he desired, was enough to enable him, without self-deception, to believe that the attempt was worth the trouble. One of the chief difficulties was that the process of cultivating the land was in full swing, that it was impossible to stop everything and begin it all again from the beginning, and the machine had to be mended while in motion.

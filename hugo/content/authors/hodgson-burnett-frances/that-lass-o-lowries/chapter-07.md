@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Anice At The Cottage"
 weight: 7
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-07.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-07.html"
 ---
 
 ANICE went to see Liz. Perhaps if the truth were told, she went to see Joan more than to visit Joan's protégée though her interest extended from the one to the other. But she did not see Joan, she only heard of her. Liz met her visitor without any manifestations of enthusiasm. She was grateful, but gratitude was not often a powerful emotion with her. But Anice began to attract her somewhat before she had been in the house ten minutes. Liz found, first, that she was not one of the enemy, and did not come to read a homily to her concerning her sins and transgressions; having her mind set at ease thus far, she found time to be interested in her. Her visitor's beauty, her prettiness of toilet, a certain delicate grace of presence, were all virtues in Liz's eyes. She was so fond of pretty things herself, she had been wont to feel such pleasure and pride in her own beauty, that such outward charms were the strongest of charms to her. She forgot to be abashed and miserable, when, after talking a few minutes, Anice came to her and bent over the child as it lay on her knee. She even had the courage to regard the material of her dress with some degree of interest.

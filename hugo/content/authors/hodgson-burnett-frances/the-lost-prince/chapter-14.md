@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Marco Does Not Answer"
 weight: 14
-aliases:
-  - "/authors/hodgson-burnett-frances/the-lost-prince/chapter-14.html"
+url: "/authors/hodgson-burnett-frances/the-lost-prince/chapter-14.html"
 ---
 
 By the time he turned the corner of the stairs, the beautiful lady had risen from her seat in the back room and walked into the dining-room at the front. A heavily-built, dark-bearded man was standing inside the door as if waiting for her.

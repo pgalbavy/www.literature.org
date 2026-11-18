@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-17.html"
+url: "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-17.html"
 ---
 
 BUT there was no hilarity in the little town that same tranquil Saturday afternoon. The Harpers, and Aunt Polly's family, were being put into mourning, with great grief and many tears. An unusual quiet possessed the village, although it was ordinarily quiet enough, in all conscience. The villagers conducted their concerns with an absent air, and talked little; but they sighed often. The Saturday holiday seemed a burden to the children. They had no heart in their sports, and gradually gave them up.

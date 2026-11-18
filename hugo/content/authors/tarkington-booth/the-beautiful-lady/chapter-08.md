@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/tarkington-booth/the-beautiful-lady/chapter-08.html"
+url: "/authors/tarkington-booth/the-beautiful-lady/chapter-08.html"
 ---
 
 Never lived any person with more possession of himself than Antonio; he bowed to each of us with the utmost amiability; and for expression—all one saw of it was a little streak of light in his eye-glass.

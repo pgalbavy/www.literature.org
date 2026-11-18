@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/tarkington-booth/the-beautiful-lady/chapter-05.html"
+url: "/authors/tarkington-booth/the-beautiful-lady/chapter-05.html"
 ---
 
 Three days later saw us on the pretty waters of Lake Leman, in the bright weather when Mont Blanc heaves his great bare shoulders of ice miles into the blue sky, with no mist-cloak about him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - \"He Has Made His Last Scout\""
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/wolf-ear-the-indian/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/wolf-ear-the-indian/chapter-09.html"
 ---
 
 The perplexing question was settled by Brinton Kingsland's pony taking his bit in his mouth and speeding towards the camp of the supply train, as if driven by a hurricane.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - Beauty For Ashes"
 weight: 36
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-36.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-36.html"
 ---
 
 "Any news from Green Gables, Anne?"

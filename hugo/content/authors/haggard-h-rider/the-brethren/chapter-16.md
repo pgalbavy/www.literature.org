@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Sultan Saladin"
 weight: 17
-aliases:
-  - "/authors/haggard-h-rider/the-brethren/chapter-16.html"
+url: "/authors/haggard-h-rider/the-brethren/chapter-16.html"
 ---
 
 In the third morning Godwin awoke to see the ray of sunrise streaming through the latticed window.

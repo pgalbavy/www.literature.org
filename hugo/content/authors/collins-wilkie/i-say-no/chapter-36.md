@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - Change Of Air"
 weight: 36
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-36.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-36.html"
 ---
 
 The inmates of Netherwoods rose early, and went to bed early. When Alban and Mrs. Ellmother arrived at the back door of the house, they found it locked.

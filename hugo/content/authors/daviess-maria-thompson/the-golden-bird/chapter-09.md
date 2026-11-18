@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/daviess-maria-thompson/the-golden-bird/chapter-09.html"
+url: "/authors/daviess-maria-thompson/the-golden-bird/chapter-09.html"
 ---
 
 When I came out with a bucket of the new wheat in my hand, I heard Bess and her car departing, with Uncle Cradd's sonorous speech mingling with the puff of the engine.

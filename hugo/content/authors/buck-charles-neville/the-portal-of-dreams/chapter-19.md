@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - A Volley From The Laurel"
 weight: 19
-aliases:
-  - "/authors/buck-charles-neville/the-portal-of-dreams/chapter-19.html"
+url: "/authors/buck-charles-neville/the-portal-of-dreams/chapter-19.html"
 ---
 
 When we reached the attorney's house the reality of feud conditions gained corroboration from a hundred small details. Like Garvin's, it stood in an area stripped of trees and undergrowth. It was a large cabin of logs and to its original two rooms rambling additions had from time to time been made. Everywhere a note of the poor and primitive stood out in uncouth nakedness. The men of the guard were all impoverished kinsmen, who lived like parasites upon the lawyer's strained and meager bounty. Several of them slept on pallets in a loft gained by a ladder, and others dwelt in near-by cabins. The room turned over to us served as guest chamber and parlor, and here alone in the house was there any hint of concession to appearances. Through the cracks of its uncarpeted floor chilly gusts of wind swept upward, and sent us hovering quail-like as close as possible to the stone hearth of the broad chimney place. A huge four-post bed in one corner was decorated with stiff pillows upon which purple paper showed through coverings of coarse lace; patches of newspaper stopped the widest wall cracks. A cheap cottage organ stood at one side and rush-bottomed chairs completed the furnishings. A small cuddy-hole housed the attorney and his wife. His mother, an ancient crone-like woman of withered, leathery face, and all her brood of grandchildren slept in two beds in the large, murky room which also accommodated dining table, cook stove and pantry accessories.

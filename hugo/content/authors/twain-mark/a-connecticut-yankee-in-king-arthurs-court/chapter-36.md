@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - An Encounter in the Dark"
 weight: 37
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-36.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-36.html"
 ---
 
 LONDON -- to a slave -- was a sufficiently interesting place. It was merely a great big village; and mainly mud and thatch. The streets were muddy, crooked, unpaved. The populace was an ever flocking and drifting swarm of rags, and splendors, of nodding plumes and shining armor. The king had a palace there; he saw the outside of it. It made him sigh; yes, and swear a little, in a poor juvenile sixth century way. We saw knights and grandees whom we knew, but they didn't know us in our rags and dirt and raw welts and bruises, and wouldn't have recognized us if we had hailed them, nor stopped to answer, either, it being unlawful to speak with slaves on a chain. Sandy passed within ten yards of me on a mule -- hunting for me, I imagined. But the thing which clean broke my heart was something which happened in front of our old barrack in a square, while we were enduring the spectacle of a man being boiled to death in oil for counterfeiting pennies. It was the sight of a newsboy -- and I couldn't get at him! Still, I had one comfort -- here was proof that Clarence was still alive and banging away. I meant to be with him before long; the thought was full of cheer.

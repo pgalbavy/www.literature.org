@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Colonel Goes Out Shooting"
 weight: 21
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-21.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-21.html"
 ---
 
 The next morning was fine and still, one of those lovely autumn days of which we get four or five in the course of a season. After breakfast Harold Quaritch strolled down his garden, stood himself against a gate to the right of Dead Man's Mount, and looked at the scene. All about him, their foliage yellowing to its fall, rose the giant oaks, which were the pride of the country side, and so quiet was the air that not a leaf upon them stirred. The only sounds that reached his ears were the tappings of the nut-hutches as they sought their food in the rough crannies of the bark, and the occasional falling of a rich ripe acorn from its lofty place on to the frosted grass beneath. The sunshine shone bright, but with a chastened heat, the squirrels scrambled up the oaks, and high in the blue air the rooks pursued their path. It was a beautiful morning, for summer is never more sweet than on its death-bed, and yet it filled him with solemn thoughts. How many autumns had those old trees seen, and how many would they still see, long after his eyes had lost their sight! And if they were old, how old was Dead Man's Mount there to his left! Old, indeed! for he had discovered it was mentioned in Doomday Book and by that name. And what was it--a boundary hill, a natural formation, or, as its name implied, a funeral barrow? He had half a mind to dig one day and find out, that is if he could get anybody to dig with him, for the people about Honham were so firmly convinced that Dead Man's Mount was haunted, a reputation which it had owned from time immemorial, that nothing would have persuaded them to touch it.

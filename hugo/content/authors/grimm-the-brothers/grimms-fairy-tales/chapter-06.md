@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Straw, The Coal, And The Bean"
 weight: 6
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-06.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-06.html"
 ---
 
 In a village dwelt a poor old woman, who had gathered together a dish of beans and wanted to cook them. So she made a fire on her hearth, and that it might burn the quicker, she lighted it with a handful of straw. When she was emptying the beans into the pan, one dropped without her observing it, and lay on the ground beside a straw, and soon afterwards a burning coal from the fire leapt down to the two. Then the straw began and said: ‘Dear friends, from whence do you come here?’ The coal replied: ‘I fortunately sprang out of the fire, and if I had not escaped by sheer force, my death would have been certain,--I should have been burnt to ashes.’ The bean said: ‘I too have escaped with a whole skin, but if the old woman had got me into the pan, I should have been made into broth without any mercy, like my comrades.’ ‘And would a better fate have fallen to my lot?’ said the straw. ‘The old woman has destroyed all my brethren in fire and smoke; she seized sixty of them at once, and took their lives. I luckily slipped through her fingers.’

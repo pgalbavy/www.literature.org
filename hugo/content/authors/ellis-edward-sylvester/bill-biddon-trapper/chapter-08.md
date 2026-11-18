@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Trapping Among The Indians"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/bill-biddon-trapper/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/bill-biddon-trapper/chapter-08.html"
 ---
 
 One of the savages cast some wood upon the fire, and as it blazed up, I saw that five of them stood around me. Resistance would be useless, as my rifle, knife, and revolver were in their hands. Their faces were devoid of paint, and they were probably a party of hunters who had fallen upon my trail. I remembered my spectral visitant a few hours before, and doubted not that he was the means of the tedious captivity which had now only commenced.

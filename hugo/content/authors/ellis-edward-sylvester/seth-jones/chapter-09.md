@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Chase"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/seth-jones/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/seth-jones/chapter-09.html"
 ---
 
 The night was even closer at hand than our friends suspected. In the forest, where the withdrawal of the sun was almost simultaneous with darkness, it came without much warning. The gloom was already settling over the water, and Haverland instantly shot the canoe from under the shrubbery out into the stream. There were rowlocks and oars for a second person, and Graham took up a couple and joined his labors with his friend, while Haldidge took the steering oar. As they passed boldly into the channel, the canoe ahead was just disappearing around a bend below.

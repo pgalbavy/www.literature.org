@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Search for the Wicked Witch "
 weight: 13
-aliases:
-  - "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-12.html"
+url: "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-12.html"
 ---
 
 The soldier with the green whiskers led them through the streets of the Emerald City until they reached the room where the Guardian of the Gates lived. This officer unlocked their spectacles to put them back in his great box, and then he politely opened the gate for our friends.

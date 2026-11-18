@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Getting Rid Of Jasper"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-20.html"
 ---
 
 "HAVE you finished your meal?" Jimmy Rabbit asked Reddy Woodpecker, as they faced each other among the beech trees.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Tug Of War"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-19.html"
 ---
 
 The extinguishment of the burning roof, for the time, was complete. Utter darkness came like the blowing out of a candle in a vault.

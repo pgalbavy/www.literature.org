@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/london-jack/before-adam/chapter-06.html"
+url: "/authors/london-jack/before-adam/chapter-06.html"
 ---
 
 While the more courageous of the youngsters played in and out of the large-mouthed caves, I early learned that such caves were unoccupied. No one slept in them at night. Only the crevice-mouthed caves were used, the narrower the mouth the better. This was from fear of the preying animals that made life a burden to us in those days and nights.

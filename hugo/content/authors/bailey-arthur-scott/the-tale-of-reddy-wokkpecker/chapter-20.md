@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Catching Flies"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-20.html"
 ---
 
 After his children were grown up Reddy Woodpecker had plenty of time to wander about and see all the sights in Pleasant Valley. He had often heard that one of the most curious sights was an odd person known as Ferdinand Frog. So one day Reddy flew down to Black Creek, where this nimble gentleman lived.

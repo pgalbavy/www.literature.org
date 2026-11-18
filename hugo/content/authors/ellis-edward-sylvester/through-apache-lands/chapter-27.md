@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - A Run For Life"
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-27.html"
 ---
 
 A few minutes' ride at a swinging, easy, gallop brought Ned to the edge of the grove where the camp fire had first arrested his attention. As he reached the margin he threw himself from the back of the mustang, fastened the bridle-rein securely to a limb, and, with his rifle slung over his shoulder, strode forward toward the center. He was not yet in sight of the fire when it suddenly occurred to him that possibly he was mistaken. He checked himself and began moving very much as he did when approaching his mustang, and it was fortunate that he did so, for the next moment he discovered that he had committed a most serious mistake indeed. Instead of seeing the well-known figures of the hunters sitting by the camp fire and quietly smoking their pipes, he caught a glimpse of half a dozen warriors very similarly engaged.

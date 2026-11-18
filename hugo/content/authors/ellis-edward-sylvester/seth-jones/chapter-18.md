@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Getting Out Of The Wilderness"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/seth-jones/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/seth-jones/chapter-18.html"
 ---
 
 Night, dark and gloomy, slowly settled over the forest. Nothing was heard save the dull soughing of the wind through the tree-tops, or the occasional howl of the wolf in the distance, or perhaps the near scream of the panther. Heavy, tumultuous clouds were wheeling through the sky, rendering the inky darkness doubly intense, and shrouding even the clearings in impenetrable gloom.

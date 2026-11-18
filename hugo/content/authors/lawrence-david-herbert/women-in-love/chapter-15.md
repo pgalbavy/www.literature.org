@@ -1,8 +1,7 @@
 ---
 title: "chapter 15"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-15.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-15.html"
 ---
 
 As the day wore on, the life-blood seemed to ebb away from Ursula, and within the emptiness a heavy despair gathered. Her passion seemed to bleed to death, and there was nothing. She sat suspended in a state of complete nullity, harder to bear than death.

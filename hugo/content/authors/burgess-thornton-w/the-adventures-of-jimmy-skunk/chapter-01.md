@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Peter Rabbit Plans A Joke"
 weight: 1
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-01.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-01.html"
 ---
 
 The Imp of Mischief, woe is me, Is always busy as a bee.

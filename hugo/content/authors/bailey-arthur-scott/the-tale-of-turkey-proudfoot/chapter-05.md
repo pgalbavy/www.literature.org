@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Safe Perch"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-05.html"
 ---
 
 As Turkey Proudfoot faced the six geese in the farmyard he began to feel that he had made a great mistake in speaking to them. Their hisses were far from agreeable. They were even threatening.

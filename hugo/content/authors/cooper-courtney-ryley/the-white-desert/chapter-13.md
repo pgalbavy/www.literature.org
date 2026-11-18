@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/cooper-courtney-ryley/the-white-desert/chapter-13.html"
+url: "/authors/cooper-courtney-ryley/the-white-desert/chapter-13.html"
 ---
 
 Ten minutes after that, Barry Houston was alone in his office. Jenkins was gone, discharged; and Houston felt a sort of relief in the knowledge that he had departed. The last of the Thayer clan, he believed, had been cleaned out of his organization--and it was like lightening a burden to realize it.

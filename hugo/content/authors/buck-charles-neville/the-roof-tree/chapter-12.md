@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-12.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-12.html"
 ---
 
 The old man struck a match and held it to his pipe and then as he turned to leave the room Maggard halted him.

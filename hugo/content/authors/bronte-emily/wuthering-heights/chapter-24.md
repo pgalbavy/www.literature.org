@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-24.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-24.html"
 ---
 
 AT the close of three weeks I was able to quit my chamber and move about the house. And on the first occasion of my sitting up in the evening I asked Catherine to read to me, because my eyes were weak. We were in the library, the master having gone to bed: she consented, rather unwillingly, I fancied; and imagining my sort of books did not suit her, I bid her please herself in the choice of what she perused. She selected one of her own favourites, and got forward steadily about an hour; then came frequent questions.

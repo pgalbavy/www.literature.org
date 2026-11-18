@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 34
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-34.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-34.html"
 ---
 
 "It's a curious job, that De Willoughby claim," was said in a committee-room of the House, one day. "It's beginning to attract attention because it has such an innocent air. The sharp ones say that may be the worst feature of it, because ingenuousness is more dangerous than anything else if a job is thoroughly rotten. The claimants are the most straightforward pair the place has ever seen--a big, humourous, well-mannered country man, and a boy of twenty-three. Rutherford, of Hamlin County, who is a monument of simplicity in himself, is heart and soul in the thing--and Farquhar feels convinced by it. Farquhar is one of the men who are not mixed up with jobs. Milner himself is beginning to give the matter a glance now and then, though he has not committed himself; and now the Reverend John Baird, the hero of the platform, is taking it up."

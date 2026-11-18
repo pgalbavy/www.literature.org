@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/potter-david/an-accidental-honeymoon/chapter-05.html"
+url: "/authors/potter-david/an-accidental-honeymoon/chapter-05.html"
 ---
 
 Fessenden was well aware that the frail catch that held the doors of the Wisp's cabin would not long hold prisoner so vigorous a young woman as Madge Yarnell. He guessed that in ten minutes she would be wending her disconsolate way toward Sandywood. But ten minutes would be enough--he gave himself no further concern about her.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Captain Bergen Makes Two Important Discoveries"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-11.html"
 ---
 
 Before the faintest streak of light appeared in the eastern horizon, Captain Bergen was awake and in the rigging, with the binocular glasses in his hand.

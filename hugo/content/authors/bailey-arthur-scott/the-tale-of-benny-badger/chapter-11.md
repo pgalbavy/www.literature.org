@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Birds' Eggs"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-11.html"
 ---
 
 Though Benny Badger never cared much for foxes, he was willing, usually, to stop and talk with one of that family--provided he wasn't too busy digging to take the time for gossip.

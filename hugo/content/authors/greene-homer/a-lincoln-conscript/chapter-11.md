@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Great Tragedy"
 weight: 11
-aliases:
-  - "/authors/greene-homer/a-lincoln-conscript/chapter-11.html"
+url: "/authors/greene-homer/a-lincoln-conscript/chapter-11.html"
 ---
 
 But Bob Bannister was not killed at Five Forks, nor did he die of his wounds. A fragment of a bursting shell had struck his head, torn loose the scalp, laid bare the skull, felled him with a crash, and left him insensible for hours. He did not know when he was carried from the field; but, later on, he realized that he was being jolted over rough roads, that somewhere there was a great pain of which he was dimly conscious, and that now and then a cup of water was placed most refreshingly to his parched lips. When he did come fully to himself it was the day after the battle, and he was in the army hospital at City Point, one of the hundreds of occupants of the long rows of cots that lined the walls. His head was swathed in bandages, a blinding pain shot back and forth across his eyes, and in his mouth was still that insatiable thirst. On the cot beside him lay his father, who had also been ordered by the field surgeon to the hospital at City Point. Those minié balls made ugly wounds, as thousands of veterans of both armies can testify, and Rhett Bannister certainly needed surgical skill and careful nursing. But the surgeon who sent him to City Point, and who knew and loved both him and his son, had a deeper thought in mind. That wound of Bob’s, under certain conditions, might suddenly lead to something very grave, and--well, it was a good idea for the boy to have his father at his side. But, for stalwart manhood and clean and vigorous youth, wounds yield readily to proper treatment, and, before many days had passed, both father and son were well on the road to recovery.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-11.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-11.html"
 ---
 
 *THE* doleful bride remained in bed all the next day, prostrate under the continuing heat;—in fact, it was not until a week had passed that she felt herself able to make the excursion projected by the hopeful bridegroom; and when they finally did set forth, in Dan’s light runabout, she began to suffer before they reached the gates of the carriage driveway.

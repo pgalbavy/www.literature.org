@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - The Cabin-Table"
 weight: 34
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-034.html"
+url: "/authors/melville-herman/moby-dick/chapter-034.html"
 ---
 
 It is noon; and Dough-Boy, the steward, thrusting his pale loaf-of-bread face from the cabin-scuttle, announces dinner to his lord and master who, sitting in the lee quarter-boat, has just been taking an observation of the sun; and is now mutely reckoning the latitude on the smooth, medallion-shaped tablet, reserved for that daily purpose on the upper part of his ivory leg. From his complete inattention to the tidings, you would think that moody Ahab had not heard his menial. But presently, catching hold of the mizen shrouds, he swings himself to the deck, and in an even, unexhilarated voice, saying, "Dinner, Mr. Starbuck," disappears into the cabin.

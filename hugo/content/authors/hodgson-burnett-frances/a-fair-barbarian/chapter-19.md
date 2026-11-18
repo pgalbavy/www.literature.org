@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - An Experiment"
 weight: 19
-aliases:
-  - "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-19.html"
+url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-19.html"
 ---
 
 Much to her own astonishment, Lucia found herself allowed new liberty. She was permitted to spend the afternoon frequently with Octavia; and on several occasions that young lady and Miss Bassett were invited to partake of tea at Oldclough in company with no other guest than Francis Barold.

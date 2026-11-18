@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Premonitions Become Realities"
 weight: 5
-aliases:
-  - "/authors/buck-charles-neville/the-portal-of-dreams/chapter-05.html"
+url: "/authors/buck-charles-neville/the-portal-of-dreams/chapter-05.html"
 ---
 
 At last, running back to the start, we tracked him down and with his discovery came disappointment. I had realized that she had been dressing a mere lay-figure in garments of idealized manhood and endowing an unknown with a panoply of the chivalric to which he could probably lay no rightful claim. Still it was disconcerting to realize that he had, in the flesh, contributed absolutely nothing to the picture. She had simply devised from the whole cloth of imagination a collaborative sum of Galahad the Pure and Richard the Lion-Hearted. She had seen him only once in later years--from the sidelines of a Yale-Harvard football game. He was playing with the crimson and she was at the impressionable age. There was the whole and meager foundation for his apotheosis. She did not state the year, but she gave the score, and by that I identified the occasion.

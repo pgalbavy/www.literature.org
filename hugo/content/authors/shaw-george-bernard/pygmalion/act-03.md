@@ -1,8 +1,7 @@
 ---
 title: "Act 3"
 weight: 4
-aliases:
-  - "/authors/shaw-george-bernard/pygmalion/act-03.html"
+url: "/authors/shaw-george-bernard/pygmalion/act-03.html"
 ---
 
 It is Mrs. Higgins's at-home day. Nobody has yet arrived. Her drawing-room, in a flat on Chelsea embankment, has three windows looking on the river; and the ceiling is not so lofty as it would be in an older house of the same pretension. The windows are open, giving access to a balcony with flowers in pots. If you stand with your face to the windows, you have the fireplace on your left and the door in the right-hand wall close to the corner nearest the windows.

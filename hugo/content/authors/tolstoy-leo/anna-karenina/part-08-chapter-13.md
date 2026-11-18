@@ -1,8 +1,7 @@
 ---
 title: "Part 8 - Chapter 13"
 weight: 233
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-08-chapter-13.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-08-chapter-13.html"
 ---
 
 And Levin remembered a scene he had latelywitnessed between Dolly and her children. The children, left to themselves, had begun cooking raspberries over the candles and squirting milk into each other's mouths with a syringe. Their mother, catching them at these pranks, began reminding them in Levin's presence of the trouble their mischief gave to the grown-up people, and that this trouble was all for their sake, and that if they smashed the cups they would have nothing to drink their tea out of, and that if they wasted the milk, they would have nothing to eat, and die of hunger.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Argonauts"
 weight: 12
-aliases:
-  - "/authors/grahame-kenneth/the-golden-age/chapter-11.html"
+url: "/authors/grahame-kenneth/the-golden-age/chapter-11.html"
 ---
 
 THE advent of strangers, of whatever sort, into our circle had always been a matter of grave dubiety and suspicion. Indeed, it was generally a signal for retreat into caves and fastnesses of the earth, into unthreaded copses or remote outlying cowsheds, whence we were only to be extricated by wily nursemaids, rendered familiar by experience with our secret runs and refuges. It was not surprising, therefore, that the heroes of classic legend, when first we made their acquaintance, failed to win our entire sympathy at once. ‘Confidence,’ says somebody, ‘is a plant of slow growth’; and these stately dark-haired demi-gods, with names hard to master and strange accoutrements, had to win a citadel already strongly garrisoned with a more familiar soldiery. Their chill foreign goddesses had no such direct appeal for us as the mocking malicious fairies and witches of the North. We missed the pleasant alliance of the animal—the fox who spread the bushiest of tails to convey us to the enchanted castle, the frog in the well, the raven who croaked advice from the tree; and—to Harold especially—it seemed entirely wrong that the hero should ever be other than the youngest brother of three. This belief, indeed, in the special fortune that ever awaited the youngest brother, as such,—the ‘Borough-English’ of Faery,—had been of baleful effect on Harold, producing a certain self-conceit and perkiness that called for physical correction. But even in our admonishment we were on his side; and as we distrustfully eyed these new arrivals, old Saturn himself seemed something of a parvenu.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Mad Treachery"
 weight: 10
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-10.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-10.html"
 ---
 
 TO the northwest of the valley of Opar the smoke rose from the cook fires of a camp in which some hundred blacks and six whites were eating their evening meal. The negroes squatted sullen and morose, mumbling together in low tones over their meager fare, the whites, scowling and apprehensive, kept their firearms close at hand. One of them, a girl, and the only member of her sex in the party, was addressing her fellows:

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 26"
 weight: 39
-aliases:
-  - "/authors/london-jack/burning-daylight/part-02-chapter-26.html"
+url: "/authors/london-jack/burning-daylight/part-02-chapter-26.html"
 ---
 
 But there came the day, one year, in early April, when Dede sat in an easy chair on the porch, sewing on certain small garments, while Daylight read aloud to her. It was in the afternoon, and a bright sun was shining down on a world of new green. Along the irrigation channels of the vegetable garden streams of water were flowing, and now and again Daylight broke off from his reading to run out and change the flow of water. Also, he was teasingly interested in the certain small garments on which Dede worked, while she was radiantly happy over them, though at times, when his tender fun was too insistent, she was rosily confused or affectionately resentful.

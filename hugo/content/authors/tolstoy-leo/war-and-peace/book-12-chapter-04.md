@@ -1,8 +1,7 @@
 ---
 title: "Book 12 - Chapter 4"
 weight: 267
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-12-chapter-04.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-12-chapter-04.html"
 ---
 
 It is natural for us who were not living in those days to imagine that when half Russia had been conquered and the inhabitants were ficeing to distant provinces, and one levy after another was being raised for the defense of the fatherland, all Russians from the greatest to the least were solely engaged in sacrificing themselves, saving their fatherland, or weeping over its downfall. The tales and descriptions of that time without exception speak only of the self-sacrifice, patriotic devotion, despair, grief, and the heroism of the Russians. But it was not really so. It appears so to us because we see only the general historic interest of that time and do not see all the personal human interests that people had. Yet in reality those personal interests of the moment so much transcend the general interests that they always prevent the public interest from being felt or even noticed. Most of the people at that time paid no attention to the general progress of events but were guided only by their private interests, and they were the very people whose activities at that period were most useful.

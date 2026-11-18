@@ -1,8 +1,7 @@
 ---
 title: "Chapter 85 - The Oubliettes Of Cardinal Mazarin"
 weight: 85
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-85.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-85.html"
 ---
 
 At first, on arriving at the door through which Mazarin had passed, D'Artagnan tried in vain to open it, but on the powerful shoulder of Porthos being applied to one of the panels, which gave way, D'Artagnan introduced the point of his sword between the bolt and the staple of the lock. The bolt gave way and the door opened.

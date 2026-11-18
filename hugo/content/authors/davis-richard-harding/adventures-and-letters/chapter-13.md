@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Spanish And English Coronations"
 weight: 13
-aliases:
-  - "/authors/davis-richard-harding/adventures-and-letters/chapter-13.html"
+url: "/authors/davis-richard-harding/adventures-and-letters/chapter-13.html"
 ---
 
 Interrupted by frequent brief visits to New York Philadelphia, and Boston, Richard and his wife remained in Marion from May, 1901, until the early spring of 1902. During this year Richard accomplished a great deal of work and lived an ideal existence. In the summer months there were golf and tennis and an army of visitors, and during the winter many of their friends came from New York to enjoy a most charming hospitality and the best of duck shooting and all kinds of winter sports.

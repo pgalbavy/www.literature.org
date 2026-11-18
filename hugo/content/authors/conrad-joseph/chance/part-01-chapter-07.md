@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 7 - On The Pavement"
 weight: 7
-aliases:
-  - "/authors/conrad-joseph/chance/part-01-chapter-07.html"
+url: "/authors/conrad-joseph/chance/part-01-chapter-07.html"
 ---
 
 Fyne was not willing to talk; but as I had been already let into the secret, the fair-minded little man recognized that I had some right to information if I insisted on it. And I did insist, after the third game. We were yet some way from the end of our journey.

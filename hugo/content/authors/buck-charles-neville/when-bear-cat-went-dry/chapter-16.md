@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-16.html"
+url: "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-16.html"
 ---
 
 Dog Tate had left his mash kettle unguarded that night, putting clan loyalty above individual interest as he hastened off to stir into action the dwellers of the Stacy cabins, and to dispatch other night-riders upon the same mission. But he sent Joe Sanders, his assistant, to convoy the wounded men along their road. They went at a labored and snail-like pace, Sanders walking on one side of the horse, supporting the swooning figure it bore, while Turner Stacy trudged at the other saddle skirt. Sometimes Bear Cat plodded on with fair erectness, setting his teeth against weariness and pain, but at other times the intermittent waves of fever rose scaldingly until, in a blind fog, he dragged shuffling feet, clinging grimly the while to pommel and stirrup-leather as his head sagged forward between his shoulders. Sometimes, too, he mumbled incomprehensible things in a voice that was weirdly unnatural. From time to time there was a halt to make sure that the life spark still flickered, though tenuously and gutteringly, in the breast of the inert thing lashed to the saddle.

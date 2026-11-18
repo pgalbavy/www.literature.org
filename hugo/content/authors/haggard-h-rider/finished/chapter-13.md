@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Cetewayo"
 weight: 14
-aliases:
-  - "/authors/haggard-h-rider/finished/chapter-13.html"
+url: "/authors/haggard-h-rider/finished/chapter-13.html"
 ---
 
 It was dark when at last we reached the Ulundi kraal, for the growing moon was obscured by clouds. Therefore I could see nothing and was only aware, by the sound of voices and the continual challenging, that we were passing through great numbers of men. At length we were admitted at the eastern gate and I was taken to a hut where I at once flung myself down to sleep, being so weary that I could not attempt to eat. Next morning as I was finishing my breakfast in the little fenced courtyard of this guest-hut, Goza appeared and said that the king commanded me to be brought to him at once, adding that I must "speak softly" to him, as he was "very angry."

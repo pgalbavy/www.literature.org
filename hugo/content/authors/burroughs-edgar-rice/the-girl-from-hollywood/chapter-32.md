@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 32
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-32.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-32.html"
 ---
 
 After Custer left her, Shannon entered the bungalow and sat for a long time before the table on which stood a framed photograph of her mother. Never before had she felt the need of loving counsel so sorely as now. In almost any other emergency she could have gone to Mrs. Pennington, but in this she dared not. She knew the pride of the Penningtons. She realized the high altar upon which they placed the purity of their women in the sacred temple of their love, and she knew that none but the pure might enter.

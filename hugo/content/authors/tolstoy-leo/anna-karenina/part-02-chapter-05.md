@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 5"
 weight: 39
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-05.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-05.html"
 ---
 
 "This is rather indiscreet, but it's so good it's an awful temptation to tell the story," said Vronsky, looking at her with his laughing eyes. "I'm not going to mention any names."

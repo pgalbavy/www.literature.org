@@ -1,8 +1,7 @@
 ---
 title: "Chapter 56 - Andrea Cavalcanti"
 weight: 56
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-56.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-56.html"
 ---
 
 The Count of Monte Cristo entered the adjoining room, which Baptistin had designated as the drawing-room, and found there a young man, of graceful demeanor and elegant appearance, who had arrived in a cab about half an hour previously. Baptistin had not found any difficulty in recognizing the person who presented himself at the door for admittance. He was certainly the tall young man with light hair, red heard, black eyes, and brilliant complexion, whom his master had so particularly described to him. When the count entered the room the young man was carelessly stretched on a sofa, tapping his boot with the gold-headed cane which he held in his hand. On perceiving the count he rose quickly. "The Count of Monte Cristo, I believe?" said he.

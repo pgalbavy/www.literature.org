@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Essen Barges"
 weight: 9
-aliases:
-  - "/authors/buchan-john/greenmantle/chapter-08.html"
+url: "/authors/buchan-john/greenmantle/chapter-08.html"
 ---
 
 I lay for four days like a log in that garret bed. The storm died down, the thaw set in, and the snow melted. The children played about the doors and told stories at night round the fire. Stumm’s myrmidons no doubt beset every road and troubled the lives of innocent wayfarers. But no one came near the cottage, and the fever worked itself out while I lay in peace.

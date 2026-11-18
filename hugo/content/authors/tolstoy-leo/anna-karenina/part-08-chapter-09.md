@@ -1,8 +1,7 @@
 ---
 title: "Part 8 - Chapter 9"
 weight: 229
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-08-chapter-09.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-08-chapter-09.html"
 ---
 
 These doubts fretted and harassed him, growing weaker or stronger

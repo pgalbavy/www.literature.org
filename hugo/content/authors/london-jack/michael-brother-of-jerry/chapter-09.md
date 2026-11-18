@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-09.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-09.html"
 ---
 
 The morning the Makambo entered Sydney harbour, Captain Duncan had another try for Michael. The port doctor's launch was coming alongside, when he nodded up to Daughtry, who was passing along the deck:

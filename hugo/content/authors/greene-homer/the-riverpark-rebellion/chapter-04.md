@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Order Of The Black Star"
 weight: 4
-aliases:
-  - "/authors/greene-homer/the-riverpark-rebellion/chapter-04.html"
+url: "/authors/greene-homer/the-riverpark-rebellion/chapter-04.html"
 ---
 
 Colonel Silsbee’s manner was deliberate, and his voice was very firm as he began to speak.

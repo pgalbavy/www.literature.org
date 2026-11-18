@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Marilla Adopts Twins"
 weight: 8
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-08.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-08.html"
 ---
 
 Mrs. Rachel Lynde was sitting at her kitchen window, knitting a quilt, just as she had been sitting one evening several years previously when Matthew Cuthbert had driven down over the hill with what Mrs. Rachel called "his imported orphan." But that had been in springtime; and this was late autumn, and all the woods were leafless and the fields sere and brown. The sun was just setting with a great deal of purple and golden pomp behind the dark woods west of Avonlea when a buggy drawn by a comfortable brown nag came down the hill. Mrs. Rachel peered at it eagerly.

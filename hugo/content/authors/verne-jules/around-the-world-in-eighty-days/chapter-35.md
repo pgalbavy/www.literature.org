@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 35
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-35.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-35.html"
 ---
 
 In which Phileas Fogg does not have to repeat his orders to Passepartout twice

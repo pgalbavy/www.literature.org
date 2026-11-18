@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Where Is Bohunkus?"
 weight: 33
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-33.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-33.html"
 ---
 
 Harvey Hamilton stayed in Chesterton till the close of the incidents just narrated. His interest was so stirred that he had no wish to leave before their conclusion. During the hours of waiting, he made several short flights in his aeroplane, and when he and Detective Pendar were called upon to give their evidence the flying machine was convenient. In addition, he gave several of the townsmen the most thrilling experiences of their lives. He invited Uncle Tommy Waters to accompany him on an aerial excursion, but a million dollars would not have tempted the old gentleman to take his feet off the firm earth.

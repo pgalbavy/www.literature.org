@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Humbugs"
 weight: 24
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-24.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-24.html"
 ---
 
 The new milking machine was all ready to use.

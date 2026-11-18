@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Playing Pilgrims"
 weight: 1
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-01.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-01.html"
 ---
 
 "Christmas won't be Christmas without any presents," grumbled Jo, lying on the rug.

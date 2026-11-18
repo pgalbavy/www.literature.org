@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - Out In The Night"
 weight: 34
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-34.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-34.html"
 ---
 
 Enough has been already told for the reader to understand the scheme which Jennie Whitney, with the help of her mother, attempted to carry out for the benefit of the besieged cattlemen.

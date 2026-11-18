@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Light come, light go"
 weight: 21
-aliases:
-  - "/authors/carroll-lewis/sylvie-and-bruno/chapter-20.html"
+url: "/authors/carroll-lewis/sylvie-and-bruno/chapter-20.html"
 ---
 
 Lady Muriel's smile of welcome could not quite conceal the look of surprise with which she regarded my new companions.

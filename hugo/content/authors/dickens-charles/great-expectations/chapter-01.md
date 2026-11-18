@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-01.html"
+url: "/authors/dickens-charles/great-expectations/chapter-01.html"
 ---
 
 My father's family name being Pirrip, and my Christian name Philip, my infant tongue could make of both names nothing longer or more explicit than Pip. So, I called myself Pip, and came to be called Pip.

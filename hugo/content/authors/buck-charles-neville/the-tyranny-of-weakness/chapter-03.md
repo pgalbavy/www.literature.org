@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-03.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-03.html"
 ---
 
 The sand bar rose like a white island beyond the mild surf of the shore, distant enough to make it a reservation for those hardier swimmers who failed to find contentment between beach and float. Outside the bar the surf boiled in spume-crowned, and went out again sullenly howling an in-sucking of sands and an insidious tug of undertow.

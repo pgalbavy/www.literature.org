@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Gone"
 weight: 31
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-31.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-31.html"
 ---
 
 Motionless in his saddle, save for an occasional restless stamp of his horse, Bud Jessup waited patiently in front of the adobe shack at Las Vegas camp. His face was serious and thoughtful, and his glance was fixed on the open door through which came the broken, indistinguishable murmur of Buck Stratton's voice. Once, thinking he heard an unusual sound, the youngster turned his head alertly and stared westward through the shadows. But a moment later his eyes flashed back to that narrow, black oblong, and he resumed his uneasy pondering as to what Buck might possibly be finding out.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/ridge-w-pett/a-son-of-the-state/chapter-11.html"
+url: "/authors/ridge-w-pett/a-son-of-the-state/chapter-11.html"
 ---
 
 INTO a long broad ward with scarlet counterpaned cots, headed against the wall on either side, and a shining floor between, Bobbie Lancaster, after being with ever so much tenderness bathed and combed in a small room, was conveyed, and there he relinquished for a few weeks his identity and became Number Twenty. The young doctor whom he saw when first brought into the hospital had whistled softly, and had murmured the words “compound fracture”; the damaged boy felt glad that the injury was of some importance and likely to attract attention. He woke the morning following his arrival on tea being brought round at five o’clock, to find that his arm, accurately bound up with two small boards, gave him less pain than be had expected. There was an acceptable scent of cleanliness in the ward, helped sternly by the universal scent of carbolic, receiving more joyful volunteer assistance from the bowl of heliotrope on the Sister’s table at the centre. Turning his head, Bobbie saw a comfortable fire blazing away not far from him; a fire that made all polished things reflect its flames; saw, too, that some of his neighbours were unable to rise, and had to be fed by the white-aproned nurses going softly to each cot. One or two of the numbers had arched protectors under the bedclothes to keep the sheets from touching their small bodies; Number Twenty-one had a head so fully bandaged that there was not much of his face to be seen but the eyes and the tip of a nose; wherefore he was called by the others “Fifth of November.” Bobbie’s other immediate neighbour, Number Nineteen, a white-faced boy, lost no time in bragging to the new-comer that he possessed hips about as bad as hips could manage to be.

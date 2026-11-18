@@ -1,8 +1,7 @@
 ---
 title: "Chapter 65"
 weight: 66
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-65.html"
+url: "/authors/haggard-h-rider/dawn/chapter-65.html"
 ---
 
 When dinner was over--Miss Terry would have none--they went and sat upon the moonlit deck. The little vessel was under all her canvas, for the breeze was light, and skimmed over the water like a gull with its wings spread. In the low light Madeira was nothing but a blot on the sky-line. The crew were forward, with the solitary exception of the man steering the vessel from his elevated position on the bridge; and sitting as they were, abaft the deck-cabin, the two were utterly alone between the great silence of the stars and of the sea. She looked into his face, and it was tender towards her--that night was made for lovers--and tears of happiness stood in her eyes. She took his hand in hers, and her head nestled upon his breast.

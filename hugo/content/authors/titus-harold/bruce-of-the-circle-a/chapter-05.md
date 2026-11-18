@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Clergy Of Yavapai"
 weight: 5
-aliases:
-  - "/authors/titus-harold/bruce-of-the-circle-a/chapter-05.html"
+url: "/authors/titus-harold/bruce-of-the-circle-a/chapter-05.html"
 ---
 
 Hours passed before Ann could sleep, and then her slumber was broken, her rest harried by weird dreams, her half-waking periods crammed with disturbing fantasies. When broad daylight came, she rose and drew down the shades of her window and after she had listened to the birds, to the sounds of the awakening town, to the passing of a train, rest came and until nearly noon she slept heavily.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Nearer Still"
 weight: 20
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-18.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-18.html"
 ---
 
 BLANCHE stepped lightly into the room, through one of the open French windows.

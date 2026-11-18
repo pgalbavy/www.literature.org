@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Barbara"
 weight: 24
-aliases:
-  - "/authors/barrie-james-matthew/the-little-white-bird/chapter-24.html"
+url: "/authors/barrie-james-matthew/the-little-white-bird/chapter-24.html"
 ---
 
 Another shock was waiting for me farther down the story.

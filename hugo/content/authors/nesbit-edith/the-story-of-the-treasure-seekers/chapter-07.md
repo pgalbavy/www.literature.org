@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Being Bandits"
 weight: 7
-aliases:
-  - "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-07.html"
+url: "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-07.html"
 ---
 
 Noel was quite tiresome for ever so long after we found the Princess. He would keep on wanting to go to the Park when the rest of us didn't, and though we went several times to please him, we never found that door open again, and all of us except him knew from the first that it would be no go.

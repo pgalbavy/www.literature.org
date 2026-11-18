@@ -1,8 +1,7 @@
 ---
 title: "Chapter 54 - The Manuscript"
 weight: 56
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-54.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-54.html"
 ---
 
 1.

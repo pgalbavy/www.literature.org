@@ -1,8 +1,7 @@
 ---
 title: "Chapter 51 - The Proposal"
 weight: 53
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-51.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-51.html"
 ---
 
 TOWARD sunset, Lady Holchester's carriage drew up before the gate of the cottage.

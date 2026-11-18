@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - What The Footprints Told"
 weight: 4
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-04.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-04.html"
 ---
 
 WHEN Jad-bal-ja, the golden lion, was two years old, he was as magnificent a specimen of his kind as the Greystokes had ever looked upon. In size he was far above the average of that attained by mature males; in conformation he was superb, his noble head and his great black mane giving him the appearance of a full-grown male, while in intelligence he far outranked his savage brothers of the forest.

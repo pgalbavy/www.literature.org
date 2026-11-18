@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Coming Of El Negrito"
 weight: 3
-aliases:
-  - "/authors/ostrander-isabel/the-fifth-ace/chapter-03.html"
+url: "/authors/ostrander-isabel/the-fifth-ace/chapter-03.html"
 ---
 
 When he entered the Blue Chip that night, Thode found play already in full blast. The tables were crowded, smoke hung in low-banked clouds below the flaring oil lamps, and the glittering bar at the far end of the room was phalanxed three deep by a jostling, good-natured throng. Soft-footed, wooden-faced Chinese mozos glided about, and the whining monotone of the croupier came from a distant corner.

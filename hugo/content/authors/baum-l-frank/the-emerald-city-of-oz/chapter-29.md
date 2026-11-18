@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 30
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-29.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-29.html"
 ---
 
 "That was better than fighting," said Ozma, when all our friends were assembled in the palace after the exciting events of the morning; and each and every one agreed with her.

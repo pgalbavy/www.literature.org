@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37"
 weight: 37
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-37.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-37.html"
 ---
 
 During this week Judge Rutherford's every hour was filled with action and excitement. He had not a friend or acquaintance in either House whom he did not seek out and labour with. He was to be seen in the lobby, in the corridors, in committee-rooms, arguing and explaining, with sheafs of papers in his hands and bundles of documents bulging out of his pockets. He walked down the avenue holding the arm of his latest capture, his trustworthy countenance heated by his interest and anxiety, his hat thrust on the back of his head. "There's got to be justice done," he would protest. "You see, justice has got to be done. There's no other way out of it. And I'd swear there ain't a man among you who doesn't own up that it is justice, now all this evidence has been brought together. The country couldn't be responsible for throwing the thing over--even till another session. Everything's in black and white and sworn to and proved--and the papers Baird has sent in clinch the whole thing. Now just look here--" And he would repeat his story and refer to his documents, until even the indifferent succumbed through exhaustion, if not conviction.

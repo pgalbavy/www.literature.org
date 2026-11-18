@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Masked Bandit"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-14.html"
 ---
 
 IT was no wonder that Master Meadow Mouse was startled. He cowered inside his nest in the top of the shock of corn. The whole shock shook. There was a terrible rustle of dry leaves as Fatty Coon tore away stalk after stalk.

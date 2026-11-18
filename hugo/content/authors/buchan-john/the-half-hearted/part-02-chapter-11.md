@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 11 - Evening In The Hills"
 weight: 30
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-02-chapter-11.html"
+url: "/authors/buchan-john/the-half-hearted/part-02-chapter-11.html"
 ---
 
 The airless heat of afternoon lay on the rocks and dry pastures. The far snow-peaks, seen for a moment through a rift in the hills, shimmered in the glassy stillness. No cheerful sound of running water filled the hollows, for all was parched and bare with the violence of intemperate suns and storms. Soon he was out of sight and hearing of the village, travelling in a network of empty watercourses, till at length he came to the long side of mountain which he knew of old as the first landmark of the way. A thin ray of hope began to break up his despair. He knew now the exact distance he had to travel, for his gift had always been an infallible instinct for the lie of a countryside. The sun was still high in the heavens; with any luck he should be at Nazri by six o'clock.

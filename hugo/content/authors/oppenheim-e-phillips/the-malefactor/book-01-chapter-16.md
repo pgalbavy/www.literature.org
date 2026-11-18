@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 16 - The Hidden Hand"
 weight: 16
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-16.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-16.html"
 ---
 
 Wingrave glanced up as they entered. He motioned Nesbitt to a chair by his side, but the young man remained standing.

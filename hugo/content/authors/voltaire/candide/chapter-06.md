@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - How the Portuguese Made a Superb Auto-De-Fe to Prevent Any Future Earthquakes, and How Candide Underwent Public Flagellation"
 weight: 6
-aliases:
-  - "/authors/voltaire/candide/chapter-06.html"
+url: "/authors/voltaire/candide/chapter-06.html"
 ---
 
 After the earthquake, which had destroyed three-fourths of the city of Lisbon, the sages of that country could think of no means more effectual to preserve the kingdom from utter ruin than to entertain the people with an auto-da-fe, it having been decided by the University of Coimbra, that the burning of a few people alive by a slow fire, and with great ceremony, is an infallible preventive of earthquakes.

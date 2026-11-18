@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Adumbrations"
 weight: 7
-aliases:
-  - "/authors/london-jack/the-iron-heel/chapter-06.html"
+url: "/authors/london-jack/the-iron-heel/chapter-06.html"
 ---
 
 It was about this time that the warnings of coming events began to fall about us thick and fast. Ernest had already questioned father's policy of having socialists and labor leaders at his house, and of openly attending socialist meetings; and father had only laughed at him for his pains. As for myself, I was learning much from this contact with the working-class leaders and thinkers. I was seeing the other side of the shield. I was delighted with the unselfishness and high idealism I encountered, though I was appalled by the vast philosophic and scientific literature of socialism that was opened up to me. I was learning fast, but I learned not fast enough to realize then the peril of our position.

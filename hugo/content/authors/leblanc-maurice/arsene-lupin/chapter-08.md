@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Duke Arrives"
 weight: 8
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin/chapter-08.html"
+url: "/authors/leblanc-maurice/arsene-lupin/chapter-08.html"
 ---
 
 The morning was gloomy, and the police-station with its bare, white-washed walls--their white expanse was only broken by notice-boards to which were pinned portraits of criminals with details of their appearance, their crime, and the reward offered for their apprehension--with its shabby furniture, and its dingy fireplace, presented a dismal and sordid appearance entirely in keeping with the September grey. The inspector sat at his desk, yawning after a night which had passed without an arrest. He was waiting to be relieved. The policeman at the door and the two policemen sitting on a bench by the wall yawned in sympathy.

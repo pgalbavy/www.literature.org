@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-02.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-02.html"
 ---
 
 WE went tiptoeing along a path amongst the trees back towards the end of the widow's garden, stooping down so as the branches wouldn't scrape our heads. When we was passing by the kitchen I fell over a root and made a noise. We scrouched down and laid still. Miss Watson's big nigger, named Jim, was setting in the kitchen door; we could see him pretty clear, because there was a light behind him. He got up and stretched his neck out about a minute, listening. Then he says:

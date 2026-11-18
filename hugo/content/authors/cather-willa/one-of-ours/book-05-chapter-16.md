@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 16"
 weight: 69
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-05-chapter-16.html"
+url: "/authors/cather-willa/one-of-ours/book-05-chapter-16.html"
 ---
 
 When the survivors of Company B are old men, and are telling over their good days, they will say to each other, "Oh, that week we spent at Beaufort!" They will close their eyes and see a little village on a low ridge, lost in the forest, overgrown with oak and chestnut and black walnut... buried in autumn colour, the streets drifted deep in autumn leaves, great branches interlacing over the roofs of the houses, wells of cool water that tastes of moss and tree roots. Up and down those streets they will see figures passing; themselves, young and brown and clean-limbed; and comrades, long dead, but still alive in that far-away village. How they will wish they could tramp again, nights on days in the mud and rain, to drag sore feet into their old billets at Beaufort! To sink into those wide feather beds and sleep the round of the clock while the old women washed and dried their clothes for them; to eat rabbit stew and pommes frites in the garden,--rabbit stew made with red wine and chestnuts. Oh, the days that are no more!

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Newfangled Newspaper"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-07.html"
 ---
 
 After Mr. Crow flew back to Pleasant Valley to gather news for him, Brownie Beaver carefully counted each day that passed. Since Mr. Crow had agreed to be his newspaper, and come each Saturday afternoon to tell him everything that had happened during the week, Brownie was in a great hurry for Saturday to arrive.

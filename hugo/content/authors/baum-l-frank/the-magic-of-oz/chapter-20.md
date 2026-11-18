@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/baum-l-frank/the-magic-of-oz/chapter-20.html"
+url: "/authors/baum-l-frank/the-magic-of-oz/chapter-20.html"
 ---
 
 "Now," said the Wizard, "we must start for home. But how are we going to carry that big gold flower-pot? Cap'n Bill can't lug it all the way, that's certain."

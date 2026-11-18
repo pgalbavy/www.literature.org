@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Experience Of Seth"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/seth-jones/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/seth-jones/chapter-07.html"
 ---
 
 "By gracious! stars and garters! &c.! &c.! This is a new way of introducing one’s self!" exclaimed Seth, as he sprawled out among the savages around the council fire.

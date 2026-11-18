@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - \"Ay, Where Were They?\""
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/wolf-ear-the-indian/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/wolf-ear-the-indian/chapter-06.html"
 ---
 
 By the unaccountable disappearance of his parents and the horses, Brinton was left in a state rather of perplexity than alarm. The time was so brief since they left him, that he could not understand how they had gone far, nor why they did not answer the guarded calls he made.

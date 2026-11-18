@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - An Abduction"
 weight: 5
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin-versus-herlock-sholmes/chapter-05.html"
+url: "/authors/leblanc-maurice/arsene-lupin-versus-herlock-sholmes/chapter-05.html"
 ---
 
 Herlock Sholmes said nothing. To protest? To accuse the two men? That would be useless. In the absence of evidence which he did not possess and had no time to seek, no one would believe him. Moreover, he was stifled with rage, but would not display his feelings before the triumphant Ganimard. So he bowed respectfully to the brothers Leroux, guardians of society, and retired.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Jealous Jasper Jay"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-16.html"
 ---
 
 The feathered folk in Pleasant Valley were all aflutter. They had heard a strange tale--the oddest tale, almost, that had ever been told in their neighborhood.

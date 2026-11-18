@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Through Flood and Flame"
 weight: 22
-aliases:
-  - "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-21.html"
+url: "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-21.html"
 ---
 
 Yersted's information convinced me that there was no time to be lost. I must reach the Temple of Issus secretly before the forces under Tars Tarkas assaulted at dawn. Once within its hated walls I was positive that I could overcome the guards of Issus and bear away my Princess, for at my back I would have a force ample for the occasion.

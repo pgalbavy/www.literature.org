@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 6 - Triumph"
 weight: 36
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-06.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-06.html"
 ---
 
 THE DREAD TRIBUNAL of five Judges, Public Prosecutor, and determined Jury, sat every day. Their lists went forth every evening, and were read out by the gaolers of the various prisons to their prisoners. The standard gaoler-joke was, "Come out and listen to the Evening Paper, you inside there!"

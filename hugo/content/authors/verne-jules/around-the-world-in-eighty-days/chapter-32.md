@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 32
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-32.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-32.html"
 ---
 
 In which Phileas Fogg engages in a direct struggle with bad fortune

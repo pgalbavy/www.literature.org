@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 27
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-26.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-26.html"
 ---
 
 Sept. 23rd. - Our guests arrived about three weeks ago. Lord and Lady Lowborough have now been married above eight months; and I will do the lady the credit to say that her husband is quite an altered man; his looks, his spirits, and his temper, are all perceptibly changed for the better since I last saw him. But there is room for improvement still. He is not always cheerful, nor always contented, and she often complains of his ill-humour, which, however, of all persons, she ought to be the last to accuse him of, as he never displays it against her, except for such conduct as would provoke a saint. He adores her still, and would go to the world's end to please her. She knows her power, and she uses it too; but well knowing that to wheedle and coax is safer than to command, she judiciously tempers her despotism with flattery and blandishments enough to make him deem himself a favoured and a happy man.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Unc' Billy Possum Tries His Old Trick"
 weight: 22
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-22.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-22.html"
 ---
 
 The first knowledge Unc' Billy Possum had that he was discovered came to him through his tail. Yes, Sir, it came to him through his tail. Farmer Brown's boy pinched it. It was rather a mean thing to do, but Farmer Brown's boy was curious. He wanted to see what Unc' Billy would do. And he didn't pinch very hard, not hard enough to really hurt. Farmer Brown's boy is too good-hearted to hurt any one if he can help it.

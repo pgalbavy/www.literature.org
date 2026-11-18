@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 1 - Young Powell And His Chance"
 weight: 1
-aliases:
-  - "/authors/conrad-joseph/chance/part-01-chapter-01.html"
+url: "/authors/conrad-joseph/chance/part-01-chapter-01.html"
 ---
 
 I believe he had seen us out of the window coming off to dine in the dinghy of a fourteen-ton yawl belonging to Marlow my host and skipper. We helped the boy we had with us to haul the boat up on the landing-stage before we went up to the riverside inn, where we found our new acquaintance eating his dinner in dignified loneliness at the head of a long table, white and inhospitable like a snow bank.

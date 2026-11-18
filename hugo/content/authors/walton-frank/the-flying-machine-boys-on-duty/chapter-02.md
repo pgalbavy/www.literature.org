@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Shot In The Night"
 weight: 2
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-02.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-02.html"
 ---
 
 There was a fairly efficient fire department at the Havens’ hangar, and by the time Jimmie was out of his bunk, rolling his chums out on the floor, two streams of water were playing upon the flames.

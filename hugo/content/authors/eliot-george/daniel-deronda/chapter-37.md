@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37"
 weight: 37
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-37.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-37.html"
 ---
 
 Aspern. Pardon, my lord - I speak for Sigismund. Fronsberg. For him? Oh, ay - for him I always hold A pardon safe in bank, sure he will draw Sooner or later on me. What his need? Mad project broken? fine mechanic wings That would not fly? durance, assault on watch, Bill for Epernay, not a crust to eat? Aspern. Oh, none of these, my lord; he has escaped From Circe's herd, and seeks to win the love Of your fair ward Cecilia: but would win First your consent. You frown. Fronsberg. Distinguish words. I said I held a pardon, not consent.

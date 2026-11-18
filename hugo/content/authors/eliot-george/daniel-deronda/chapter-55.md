@@ -1,8 +1,7 @@
 ---
 title: "Chapter 55"
 weight: 55
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-55.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-55.html"
 ---
 
 "Ritorna a tua scienza Che vuoi, quanto la cosa e più perfetta Più senta if bene, e cosi la doglienza." - DANTE.

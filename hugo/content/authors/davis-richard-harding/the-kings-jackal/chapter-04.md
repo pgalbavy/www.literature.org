@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/davis-richard-harding/the-kings-jackal/chapter-04.html"
+url: "/authors/davis-richard-harding/the-kings-jackal/chapter-04.html"
 ---
 
 Baron Barrat was suspicious by education--his experience of life and his own conduct had tended to render him so; and accordingly when, three hours after he had seen Gordon apparently commit the French officer to jail, he found them leaving a cafe in the most friendly and amicable spirit, he wasted no time in investigation, but hurried at once to warn the King.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - How Agostino Pisano Risked His Head"
 weight: 21
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-21.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-21.html"
 ---
 
 EVEN the squires' table at the Abbey of St. Andrew's at Bordeaux was on a very sumptuous scale while the prince held his court there. Here first, after the meagre fare of Beaulieu and the stinted board of the Lady Loring, Alleyne learned the lengths to which luxury and refinement might be pushed. Roasted peacocks, with the feathers all carefully replaced, so that the bird lay upon the dish even as it had strutted in life, boars' heads with the tusks gilded and the mouth lined with silver foil, jellies in the shape of the Twelve Apostles, and a great pasty which formed an exact model of the king's new castle at Windsor--these were a few of the strange dishes which faced him. An archer had brought him a change of clothes from the cog, and he had already, with the elasticity of youth, shaken off the troubles and fatigues of the morning. A page from the inner banqueting-hall had come with word that their master intended to drink wine at the lodgings of the Lord Chandos that night, and that he desired his squires to sleep at the hotel of the "Half Moon" on the Rue des Apotres. Thither then they both set out in the twilight after the long course of juggling tricks and glee-singing with which the principal meal was concluded.

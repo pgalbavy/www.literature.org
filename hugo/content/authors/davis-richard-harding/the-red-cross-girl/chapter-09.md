@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Card-Sharp"
 weight: 10
-aliases:
-  - "/authors/davis-richard-harding/the-red-cross-girl/chapter-09.html"
+url: "/authors/davis-richard-harding/the-red-cross-girl/chapter-09.html"
 ---
 
 I had looked forward to spending Christmas with some people in Suffolk, and every one in London assured me that at their house there would be the kind of a Christmas house party you hear about but see only in the illustrated Christmas numbers. They promised mistletoe, snapdragon, and Sir Roger de Coverley. On Christmas morning we would walk to church, after luncheon we would shoot, after dinner we would eat plum pudding floating in blazing brandy, dance with the servants, and listen to the waits singing “God rest you, merry gentlemen, let nothing you dismay.”

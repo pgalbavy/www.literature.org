@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Wrong Target"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-19.html"
 ---
 
 "Give me another push like that one!" Johnnie Green shouted from the swing.

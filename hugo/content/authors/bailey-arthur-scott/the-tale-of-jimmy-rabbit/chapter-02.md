@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Troublesome Mr. Mink"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-02.html"
 ---
 
 Jimmy Rabbit arrived home somewhat out of breath. But he was still happy, for he thought that he had shaken off that troublesome Mr. Mink. And he had no idea that Mr. Mink knew where he lived.

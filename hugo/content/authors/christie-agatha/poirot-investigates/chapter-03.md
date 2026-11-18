@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Adventure Of The Cheap Flat"
 weight: 3
-aliases:
-  - "/authors/christie-agatha/poirot-investigates/chapter-03.html"
+url: "/authors/christie-agatha/poirot-investigates/chapter-03.html"
 ---
 
 So far, in the cases which I have recorded, Poirot’s investigations have started from the central fact, whether murder or robbery, and have proceeded from thence by a process of logical deduction to the final triumphant unravelling. In the events I am now about to chronicle, a remarkable chain of circumstances led from the apparently trivial incidents which first attracted Poirot’s attention to the sinister happenings which completed a most unusual case.

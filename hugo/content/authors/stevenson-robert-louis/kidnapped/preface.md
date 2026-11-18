@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/preface.html"
+url: "/authors/stevenson-robert-louis/kidnapped/preface.html"
 ---
 
 PREFACE TO THE BIOGRAPHICAL EDITION

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Mothers, Natural And Unnatural"
 weight: 14
-aliases:
-  - "/authors/gilman-charlotte-perkins/concerning-children/chapter-14.html"
+url: "/authors/gilman-charlotte-perkins/concerning-children/chapter-14.html"
 ---
 
 We use the word "natural" in many senses,--sometimes with warm approval, as indicating that which is best; sometimes with disapproval, as low and discreditable.

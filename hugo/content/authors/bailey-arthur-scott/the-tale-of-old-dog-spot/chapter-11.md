@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Mrs. Green's Mistake"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-11.html"
 ---
 
 Old dog Spot never moved from the place where he was lying in front of the kitchen table. Although Miss Kitty Cat had told him angrily that he thought she was going to enjoy a luncheon on the leg of mutton that was on the kitchen table, he didn't lose his temper.

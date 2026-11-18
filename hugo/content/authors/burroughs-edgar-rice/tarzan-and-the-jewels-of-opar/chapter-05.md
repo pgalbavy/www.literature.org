@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-05.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-05.html"
 ---
 
 It was at the moment that Tarzan turned from the closed door to pursue his way to the outer world. The thing came without warning. One instant all was quiet and stability--the next, and the world rocked, the tortured sides of the narrow passageway split and crumbled, great blocks of granite, dislodged from the ceiling, tumbled into the narrow way, choking it, and the walls bent inward upon the wreckage. Beneath the blow of a fragment of the roof, Tarzan staggered back against the door to the treasure room, his weight pushed it open and his body rolled inward upon the floor.

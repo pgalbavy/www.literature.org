@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/conrad-joseph/lord-jim/chapter-06.html"
+url: "/authors/conrad-joseph/lord-jim/chapter-06.html"
 ---
 
 6

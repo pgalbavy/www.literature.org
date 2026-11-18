@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/wilde-oscar/the-picture-of-dorian-grey/preface.html"
+url: "/authors/wilde-oscar/the-picture-of-dorian-grey/preface.html"
 ---
 
 The artist is the creator of beautiful things. To reveal art and conceal the artist is art's aim. The critic is he who can translate into another manner or a new material his impression of beautiful things.

@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 4"
 weight: 19
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-02-chapter-04.html"
+url: "/authors/london-jack/valley-of-the-moon/book-02-chapter-04.html"
 ---
 
 Saxon had been clear-eyed all her days, though her field of vision had been restricted. Clear-eyed, from her childhood days with the saloonkeeper Cady and Cady's good-natured but unmoral spouse, she had observed, and, later, generalized much upon sex. She knew the post-nuptial problem of retaining a husband's love, as few wives of any class knew it, just as she knew the pre-nuptial problem of selecting a husband, as few girls of the working class knew it.

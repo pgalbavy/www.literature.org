@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - In Which Oliver Is Taken Better Care Of Than He Ever Was Before. And In Which The Narrative Reverts To The Merry Old Gentleman And His Youthful Friends."
 weight: 12
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-12.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-12.html"
 ---
 
 The coach rattled away, over nearly the same ground as that which Oliver had traversed when he first entered London in company with the Dodger; and, turning a different way when it reached the Angel at Islington, stopped at length before a neat house, in a quiet shady street near Pentonville. Here, a bed was prepared, without loss of time, in which Mr. Brownlow saw his young charge carefully and comfortably deposited; and here, he was tended with a kindness and solicitude that knew no bounds.

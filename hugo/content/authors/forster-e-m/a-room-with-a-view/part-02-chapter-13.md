@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 13 - How Miss Bartlett’s Boiler Was So Tiresome"
 weight: 13
-aliases:
-  - "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-13.html"
+url: "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-13.html"
 ---
 
 How often had Lucy rehearsed this bow, this interview! But she had always rehearsed them indoors, and with certain accessories, which surely we have a right to assume. Who could foretell that she and George would meet in the rout of a civilization, amidst an army of coats and collars and boots that lay wounded over the sunlit earth? She had imagined a young Mr. Emerson, who might be shy or morbid or indifferent or furtively impudent. She was prepared for all of these. But she had never imagined one who would be happy and greet her with the shout of the morning star.

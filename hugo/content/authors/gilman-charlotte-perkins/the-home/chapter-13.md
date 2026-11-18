@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Girl At Home"
 weight: 14
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-home/chapter-13.html"
+url: "/authors/gilman-charlotte-perkins/the-home/chapter-13.html"
 ---
 
 What is the position of the home toward us in youth? We have seen something of its effect upon the child, the wholly helpless child, who knows no other place or power. We have seen something of its effect upon the woman in her life-long confinement there. Between childhood and maturity comes youth; holding what is left of the child's pure heart and vivid hopes, and what begins to stir of man's or woman's power. The gain of a race, if there is a gain, must make itself felt in youth--more strength, more growth, more beauty, a larger conscience, a sounder judgment, a more efficient will.

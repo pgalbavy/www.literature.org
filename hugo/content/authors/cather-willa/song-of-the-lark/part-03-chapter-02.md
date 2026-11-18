@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 2"
 weight: 33
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-03-chapter-02.html"
+url: "/authors/cather-willa/song-of-the-lark/part-03-chapter-02.html"
 ---
 
 DURING that winter Thea lived in so many places that sometimes at night when she left Bowers's studio and emerged into the street she had to stop and think for a moment to remember where she was living now and what was the best way to get there.

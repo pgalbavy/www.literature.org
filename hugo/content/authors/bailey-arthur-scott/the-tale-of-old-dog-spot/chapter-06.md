@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Buried Treasure"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-06.html"
 ---
 
 Henrietta Hen, who was one of the busiest busybodies on the farm, came along and stood and watched old dog Spot while he dug and scratched and howled about the woodpile.

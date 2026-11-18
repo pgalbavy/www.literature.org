@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - A Noble Marriage"
 weight: 21
-aliases:
-  - "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-20.html"
+url: "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-20.html"
 ---
 
 When the duke came back from France, and to pay his first eager visit to his bride that was to be, her ladyship's lacqueys led him not to the Panelled Parlour, but to a room which he had not entered before, it being one she had had the fancy to have remodelled and made into a beautiful closet for herself, her great wealth rendering it possible for her to accomplish changes without the loss of time the owners of limited purses are subjected to in the carrying out of plans. This room she had made as unlike the Panelled Parlour as two rooms would be unlike one another. Its panellings were white, its furnishings were bright and delicate, its draperies flowered with rosebuds tied in clusters with love-knots of pink and blue; it had a large bow-window, through which the sunlight streamed, and it was blooming with great rose-bowls overrunning with sweetness.

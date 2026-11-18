@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Arsenate Of Soda"
 weight: 7
-aliases:
-  - "/authors/leroux-gaston/the-secret-of-the-night/chapter-07.html"
+url: "/authors/leroux-gaston/the-secret-of-the-night/chapter-07.html"
 ---
 
 The mysterious hand held a phial and poured the entire contents into the potion. Then the hand withdrew as it had come, slowly, prudently, slyly, and the key turned in the lock and the bolt slipped back into place.

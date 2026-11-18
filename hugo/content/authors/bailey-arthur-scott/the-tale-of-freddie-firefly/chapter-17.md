@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Bad Benjamin Bat"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-17.html"
 ---
 
 For a long time Benjamin Bat had had his eye on Freddie Firefly. And every time the two met, Benjamin stopped to tell Freddie how plump he was growing.

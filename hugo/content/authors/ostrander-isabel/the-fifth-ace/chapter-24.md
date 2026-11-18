@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Lost Souls' Treasure"
 weight: 24
-aliases:
-  - "/authors/ostrander-isabel/the-fifth-ace/chapter-24.html"
+url: "/authors/ostrander-isabel/the-fifth-ace/chapter-24.html"
 ---
 
 On a certain bright February morning Ben Hallock puffed up the Calle Rivera and across the plaza of Limasito as fast as his battered jitney could carry him and rushed into Baggott's hotel with an anticipatory gleam in his heavy eyes.

@@ -1,8 +1,7 @@
 ---
 title: "Book 6 - Chapter 17"
 weight: 123
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-06-chapter-17.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-06-chapter-17.html"
 ---
 
 After Prince Andrew, Boris came up to ask Natasha for dance, and then the aide-de-camp who had opened the ball, and several other young men, so that, flushed and happy, and passing on her superfluous partners to Sonya, she did not cease dancing all the evening. She noticed and saw nothing of what occupied everyone else. Not only did she fail to notice that the Emperor talked a long time with the French ambassador, and how particularly gracious he was to a certain lady, or that Prince So-and-so and So-and-so did and said this and that, and that Helene had great success and was honored was by the special attention of So-and-so, but she did not even see the Emperor, and only noticed that he had gone because the ball became livelier after his departure. For one of the merry cotillions before supper Prince Andrew was again her partner. He reminded her of their first encounter in the Otradnoe avenue, and how she had been unable to sleep that moonlight night, and told her how he had involuntarily overheard her. Natasha blushed at that recollection and tried to excuse herself, as if there had been something to be ashamed of in what Prince Andrew had overheard.

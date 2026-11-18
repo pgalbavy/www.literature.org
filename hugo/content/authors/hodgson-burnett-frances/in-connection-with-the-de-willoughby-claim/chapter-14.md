@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-14.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-14.html"
 ---
 
 She had renewed opportunity for remarking upon the generous humility the next morning when he left the house with the intention of paying his visit to Bank Street.

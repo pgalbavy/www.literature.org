@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - House Of Blocks"
 weight: 26
-aliases:
-  - "/authors/dorrance-ethel-and-james/lonesome-town/chapter-26.html"
+url: "/authors/dorrance-ethel-and-james/lonesome-town/chapter-26.html"
 ---
 
 For a moment silence tortured. Then sounded an imperative tapping against the locked door.

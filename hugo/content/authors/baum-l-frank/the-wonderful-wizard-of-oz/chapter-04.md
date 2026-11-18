@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Road Through the Forest "
 weight: 5
-aliases:
-  - "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-04.html"
+url: "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-04.html"
 ---
 
 After a few hours the road began to be rough, and the walking grew so difficult that the Scarecrow often stumbled over the yellow bricks, which were here very uneven. Sometimes, indeed, they were broken or missing altogether, leaving holes that Toto jumped across and Dorothy walked around. As for the Scarecrow, having no brains, he walked straight ahead, and so stepped into the holes and fell at full length on the hard bricks. It never hurt him, however, and Dorothy would pick him up and set him upon his feet again, while he joined her in laughing merrily at his own mishap.

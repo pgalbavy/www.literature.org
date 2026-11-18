@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Rule Of The Regent"
 weight: 9
-aliases:
-  - "/authors/tarkington-booth/the-two-vanrevels/chapter-09.html"
+url: "/authors/tarkington-booth/the-two-vanrevels/chapter-09.html"
 ---
 
 Betty never forgot her first sight of the old friend of her family. Returning with a sad heart, she was walking the colt slowly through the carriage-gates, when an extravagantly stout lady, in green muslin illustrated with huge red flowers, came out upon the porch and waved a fat arm to the girl. The visitor wore a dark-green turban and a Cashmere shawl, while the expanse of her skirts was nothing short of magnificent: some cathedral-dome seemed to have been misplaced and the lady dropped into it. Her outstretched hand terrified Betty: how was she to approach near enough to take it?

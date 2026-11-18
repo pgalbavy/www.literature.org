@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-23.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-23.html"
 ---
 
 After all," said the Prince, looking up from the wine list, "why cannot I be satisfied with you? And why cannot you be satisfied with me? It would save so much trouble."

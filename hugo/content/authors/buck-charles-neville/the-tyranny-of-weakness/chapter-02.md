@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-02.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-02.html"
 ---
 
 When Stuart presented himself at breakfast the next morning his eyes were black-ringed with sleeplessness, but his riding boots were freshly polished and his scarf tied with extra precision. It was in the mind of the youngest Farquaharson to attain so personable an appearance that the lady who had cast aside his love should be made to realize what she had lost as they passed on the highway.

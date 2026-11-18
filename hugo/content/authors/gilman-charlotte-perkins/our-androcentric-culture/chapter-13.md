@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Industry And Economics"
 weight: 13
-aliases:
-  - "/authors/gilman-charlotte-perkins/our-androcentric-culture/chapter-13.html"
+url: "/authors/gilman-charlotte-perkins/our-androcentric-culture/chapter-13.html"
 ---
 
 The forest of Truth, on the subject of industry and economics, is difficult to see on account of the trees.

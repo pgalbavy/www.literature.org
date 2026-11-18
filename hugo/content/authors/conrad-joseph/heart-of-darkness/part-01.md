@@ -1,8 +1,7 @@
 ---
 title: "Part 1"
 weight: 1
-aliases:
-  - "/authors/conrad-joseph/heart-of-darkness/part-01.html"
+url: "/authors/conrad-joseph/heart-of-darkness/part-01.html"
 ---
 
 The Nellie, a cruising yawl, swung to her anchor without a flutter of the sails, and was at rest. The flood had made, the wind was nearly calm, and being bound down the river, the only thing for it was to come to and wait for the turn of the tide.

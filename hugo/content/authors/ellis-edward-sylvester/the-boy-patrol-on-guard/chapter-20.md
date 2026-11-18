@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - What Did It Mean?"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-20.html"
 ---
 
 Meanwhile a singular experience befell Dr. Spellman and his wife. After their departure from the bungalow, they glided smoothly in the canoe toward the eastern end of Gosling Lake, keeping a little way off shore where though the water was crystalline the depth was too great to allow them to see the pebbly bottom. The woman sat forward, gazing with tranquil enjoyment upon the soothing picture before them. The husband, facing in the same direction, was in the stern of the craft, so that the balance was nicely adjusted. Swinging the paddle well forward, he took the water with a long easy stroke, finishing with an inward turn of the wrist that kept the canoe on a straight course.

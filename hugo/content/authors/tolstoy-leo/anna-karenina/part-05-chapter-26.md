@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 26"
 weight: 150
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-26.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-26.html"
 ---
 
 "Well, Kapitonitch?" said Seryozha, coming back rosy and good- humored from his walk the day before his birthday, and giving his overcoat to the tall old hall-porter, who smiled down at the little person from the height of his long figure. "Well, has the bandaged clerk been here to-day? Did papa see him!"

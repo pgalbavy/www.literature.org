@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Messengers"
 weight: 9
-aliases:
-  - "/authors/haggard-h-rider/the-ancient-allan/chapter-09.html"
+url: "/authors/haggard-h-rider/the-ancient-allan/chapter-09.html"
 ---
 
 We descended at the great gate of the palace and were led through empty halls that were no longer used now when there was no king in Egypt, to the wing of the building in which dwelt the Prince Peroa. Here we were received by a chamberlain, for the Prince of Egypt still kept some state although it was but small, and had about him men who bore the old, high-sounding titles of the “Officers of Pharaoh.”

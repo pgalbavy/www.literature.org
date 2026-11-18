@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Mr. Coulson Outmatched"
 weight: 10
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-10.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-10.html"
 ---
 
 Mr. James B. Coulson settled down to live what was, to all appearance, a very inoffensive and ordinary life. He rose a little earlier than was customary for an Englishman of business of his own standing, but he made up for this by a somewhat prolonged visit to the barber, a breakfast which bespoke an unimpaired digestion, and a cigar of more than ordinary length over his newspaper. At about eleven o'clock he went down to the city, and returned sometimes to luncheon, sometimes at varying hours, never later, however, than four or five o'clock. From that time until seven, he was generally to be found in the American bar, meeting old friends or making new ones.

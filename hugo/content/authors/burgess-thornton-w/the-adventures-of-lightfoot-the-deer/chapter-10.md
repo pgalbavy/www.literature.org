@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Lightfoot's Clever Trick"
 weight: 10
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-10.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-10.html"
 ---
 
 Lightfoot the Deer is smart. Yes, Sir, Lightfoot the Deer is smart. He has to be, especially in the hunting season, to save his life. If he were not smart he would have been killed long ago. He never makes the foolish mistake of thinking that other people are not smart. He knew that the hunter who had started out to follow him early that morning was not one to be easily discouraged or to be fooled by simple tricks. He had a very great respect for the smartness of that hunter. He knew that he couldn't afford to be careless for one little minute.

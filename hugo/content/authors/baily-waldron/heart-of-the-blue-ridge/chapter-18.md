@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-18.html"
+url: "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-18.html"
 ---
 
 Zeke was astounded when he looked around the living-room and recognized Marshal Stone, together with the members of the posse. He suddenly became aware that the change in Uncle Dick was even greater than he had supposed. There had been a radical readjustment of the old man's' attitude toward life, which disposed him not only to acceptance of Zeke with affection and confidence, but also to toleration of, and alliance with, the "revenuers," whom he had so consistently hated through a long lifetime. Zeke refrained however, from any open expression of his amazement, and at once joined the other men in devising a plan of operations to be begun at dawn.

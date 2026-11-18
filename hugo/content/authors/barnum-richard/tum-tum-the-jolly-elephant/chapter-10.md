@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Tum Tum And The Lemonade"
 weight: 10
-aliases:
-  - "/authors/barnum-richard/tum-tum-the-jolly-elephant/chapter-10.html"
+url: "/authors/barnum-richard/tum-tum-the-jolly-elephant/chapter-10.html"
 ---
 
 The little boy and girl, who had ridden on the back of Tum Tum, the jolly elephant, stretched up their hands toward the balloons that had caught in the tree. They even got up again into the little house, and, standing up, tried to reach their floating toys.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Carrie Goes Away To School"
 weight: 10
-aliases:
-  - "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-10.html"
+url: "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-10.html"
 ---
 
 Tabitha stood at the open window of Carrie's pretty room and looked out over the scorched landscape burning under the pitiless sun of late summer. But she did not see the scanty, shrivelled vegetation of the parched mountains, nor was she aware of the terrible heat of the day that seemed to have burned away the ambition of every living creature. On the floor beside the little white bed with its pink draperies sat Carrie, panting in the sultry atmosphere, and anxiously watching the figure beside the window, as she fanned herself with all the energy she could command.

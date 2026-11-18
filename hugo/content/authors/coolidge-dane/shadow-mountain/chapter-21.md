@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Dragon's Teeth"
 weight: 21
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-21.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-21.html"
 ---
 
 It is the curse of success that it raises up enemies as Jason's dragon teeth brought forth armed men. When he was skating around the country, examining mines and taking out options, Wiley could safely count every man his friend; but now that he had made his big coup on the Paymaster they were against him, from Virginia down. If he went to her politely with a thousand-dollar bill and asked her to take it as a gift she would refuse to so much as look at him. And yet, as a matter of fact, he was the same old laughing Wiley--only now he did not laugh. It was not right, but it could not be helped.

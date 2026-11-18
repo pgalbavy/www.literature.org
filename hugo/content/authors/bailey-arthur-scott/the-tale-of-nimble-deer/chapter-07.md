@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Strange Light"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-07.html"
 ---
 
 Weeks went by; and still Nimble's mother said no more about visiting Farmer Green's carrot patch. Nimble himself did not dare to mention carrots now. It was his own fault that the excursion had been postponed. And much as he still wanted a taste of carrots the whole affair was something he didn't care to talk about.

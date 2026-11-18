@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Store-Room"
 weight: 2
-aliases:
-  - "/authors/collins-wilkie/miss-or-mrs/chapter-02.html"
+url: "/authors/collins-wilkie/miss-or-mrs/chapter-02.html"
 ---
 
 Persons possessed of sluggish livers and tender hearts find two serious drawbacks to the enjoyment of a cruise at sea. It is exceedingly difficult to get enough walking exercise; and it is next to impossible (where secrecy is an object) to make love without being found out. Reverting for the moment to the latter difficulty only, life within the narrow and populous limits of a vessel may be defined as essentially life in public. From morning to night you are in your neighbor's way, or your neighbor is in your way. As a necessary result of these conditions, the rarest of existing men may be defined as the man who is capable of stealing a kiss at sea without discovery. An inbred capacity for stratagem of the finest sort; inexhaustible inventive resources; patience which can flourish under superhuman trials; presence of mind which can keep its balance victoriously under every possible stress of emergency--these are some of the qualifications which must accompany Love on a cruise, when Love embarks in the character of a contraband commodity not duly entered on the papers of the ship.

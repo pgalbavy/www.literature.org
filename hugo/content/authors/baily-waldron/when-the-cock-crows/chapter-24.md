@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - A Gentleman's Promise"
 weight: 24
-aliases:
-  - "/authors/baily-waldron/when-the-cock-crows/chapter-24.html"
+url: "/authors/baily-waldron/when-the-cock-crows/chapter-24.html"
 ---
 
 Roy and Ethel stood by the rail on the yacht's deck as the tender drew alongside. They were filled with anxiety over the results of the search upon the shore. Dismay touched them when they saw the cap that Van Dusen carried in his hand as they stepped forward. Ethel's cheek blanched, but she asked no question; only stood waiting while the detective stepped aside with Roy and gave him Garnet's note. The young man hastily read the message. For a moment, he mused as if in doubt concerning its significance; then he asked:

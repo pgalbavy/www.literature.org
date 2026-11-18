@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/cooper-courtney-ryley/the-white-desert/chapter-09.html"
+url: "/authors/cooper-courtney-ryley/the-white-desert/chapter-09.html"
 ---
 
 Houston pretended not to hear the remark. The woman in the buggy was holding forth her hands to him and he assisted her to the ground.

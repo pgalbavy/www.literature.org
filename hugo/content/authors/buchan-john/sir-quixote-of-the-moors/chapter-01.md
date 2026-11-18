@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - On The High Moors"
 weight: 2
-aliases:
-  - "/authors/buchan-john/sir-quixote-of-the-moors/chapter-01.html"
+url: "/authors/buchan-john/sir-quixote-of-the-moors/chapter-01.html"
 ---
 
 Before me stretched a black heath, over which the mist blew in gusts, and through whose midst the road crept like an adder. Great storm-marked hills flanked me on either side, and since I set out I had seen their harsh outline against a thick sky, until I longed for flat ground to rest my sight upon. The way was damp, and the soft mountain gravel sank under my horse's feet; and ever and anon my legs were splashed by the water from some pool which the rain had left. Shrill mountain birds flew around, and sent their cries through the cold air. Sometimes the fog would lift for a moment from the face of the land and show me a hilltop or the leaden glimmer of a loch, but nothing more—no green field or homestead; only a barren and accursed desert.

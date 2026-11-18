@@ -1,8 +1,7 @@
 ---
 title: "Canto 14"
 weight: 15
-aliases:
-  - "/authors/byron-lord/don-juan/canto-14.html"
+url: "/authors/byron-lord/don-juan/canto-14.html"
 ---
 
 If from great nature's or our own abyss  

@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 42 - Which Treats Of What Further Took Place In The Inn, And Of Several Other Things Worth Knowing"
 weight: 45
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-42.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-42.html"
 ---
 
 With these words the captive held his peace, and Don Fernando said to him, "In truth, captain, the manner in which you have related this remarkable adventure has been such as befitted the novelty and strangeness of the matter. The whole story is curious and uncommon, and abounds with incidents that fill the hearers with wonder and astonishment; and so great is the pleasure we have found in listening to it that we should be glad if it were to begin again, even though to-morrow were to find us still occupied with the same tale." And while he said this Cardenio and the rest of them offered to be of service to him in any way that lay in their power, and in words and language so kindly and sincere that the captain was much gratified by their good-will. In particular Don Fernando offered, if he would go back with him, to get his brother the marquis to become godfather at the baptism of Zoraida, and on his own part to provide him with the means of making his appearance in his own country with the credit and comfort he was entitled to. For all this the captive returned thanks very courteously, although he would not accept any of their generous offers.

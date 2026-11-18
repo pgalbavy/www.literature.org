@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-19.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-19.html"
 ---
 
 Even the peppery Opdyke did not venture to break heatedly in on the pause that followed those regretful words. Into the minds of the majority stole a sense, vague and indefinable it is true, that a tragic impasse was closing on a situation over which had flashed a rainbow gleam of possible solution. Ahead lay the future with its sinister shadows--darker because of the alternative they had glimpsed in its passing.

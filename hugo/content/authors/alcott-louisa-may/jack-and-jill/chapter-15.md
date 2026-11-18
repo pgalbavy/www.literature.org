@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Saint Lucy"
 weight: 16
-aliases:
-  - "/authors/alcott-louisa-may/jack-and-jill/chapter-15.html"
+url: "/authors/alcott-louisa-may/jack-and-jill/chapter-15.html"
 ---
 
 Saturday was a busy and a happy time to Jack, for in the morning Mr. Acton came to see him, having heard the story overnight, and promised to keep Bob's secret while giving Jack an acquittal as public as the reprimand had been. Then he asked for the report which Jack had bravely received the day before and put away without showing to anybody.

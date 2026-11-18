@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 20"
 weight: 210
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-20.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-20.html"
 ---
 
 On the morning of the twenty-fifth Pierre was leaving Mozhaysk. At the descent of the high steep hill, down which a winding road led out of the town past the cathedral on the right, where a service was being held and the bells were ringing, Pierre got out of his vehicle and proceeded on foot. Behind him a cavalry regiment was coming down the hill preceded by its singers. Coming up toward him was a train of carts carrying men who had been wounded in the engagement the day before. The peasant drivers, shouting and lashing their horses, kept crossing from side to side. The carts, in each of which three or four wounded soldiers were lying or sitting, jolted over the stones that had been thrown on the steep incline to make it something like a road. The wounded, bandaged with rags, with pale cheeks, compressed lips, and knitted brows, held on to the sides of the carts as they were jolted against one another. Almost all of them stared with naive, childlike curiosity at Pierre's white hat and green swallow-tail coat.

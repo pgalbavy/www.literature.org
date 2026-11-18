@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 7 - Preparations"
 weight: 7
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-07.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-07.html"
 ---
 
 It will be understood that the sight of this prodigious mammifer was necessary to produce such excitement on board the "Pilgrim."

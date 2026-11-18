@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - A Shot From The Darkness"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-26.html"
 ---
 
 It was singular that Avon Burnet's most humiliating experience overtook him on his first night in helping to watch his uncle's herd of cattle, while following the Great Cattle Trail toward Kansas.

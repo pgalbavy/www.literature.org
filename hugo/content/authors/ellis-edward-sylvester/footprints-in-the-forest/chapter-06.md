@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Double Failure"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-06.html"
 ---
 
 Deerfoot the Shawanoe darted among the trees and ran a hundred yards with great swiftness. He seemed to avoid the trunks and limbs with the ease of a bird when sailing through the tree tops.

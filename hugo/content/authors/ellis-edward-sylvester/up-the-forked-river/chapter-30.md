@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-30.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-30.html"
 ---
 
 "It was done purposely!" added the American, placing his hand on his revolver. Glancing up from where he stood, the head and shoulders of Captain Ortega were in fair sight through the lowered slide at the front of the pilot house. He made no attempt to elude the bullet that he must have expected.

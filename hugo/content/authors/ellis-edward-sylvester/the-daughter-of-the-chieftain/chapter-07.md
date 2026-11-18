@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Jabez Zitner"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/the-daughter-of-the-chieftain/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/the-daughter-of-the-chieftain/chapter-07.html"
 ---
 
 At this moment Ben Ripley was about a hundred feet in advance of the party and ascending a ridge in the woods, which were so open that he was in plain sight of the others.

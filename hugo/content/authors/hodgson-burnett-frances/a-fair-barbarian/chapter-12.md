@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - An Invitation"
 weight: 12
-aliases:
-  - "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-12.html"
+url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-12.html"
 ---
 
 In the mean time Mr. Burmistone was improving his opportunities within doors. He had listened to the music with the most serious attention; and on its conclusion he had turned to Mrs. Burnham, and made himself very agreeable indeed. At length, however, he arose, and sauntered across the room to a table at which Lucia Gaston chanced to be standing alone, having just been deserted by a young lady whose mamma had summoned her. She wore, Mr. Burmistone regretted to see, as he advanced, a troubled and anxious expression; the truth being that she had a moment before remarked the exit of Miss Belinda's niece and her companion. It happened oddly that Mr. Burmistone's first words touched upon the subject of her thought. He began quite abruptly with it.

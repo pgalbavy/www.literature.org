@@ -1,8 +1,7 @@
 ---
 title: "Book 13 - Chapter 10"
 weight: 289
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-13-chapter-10.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-13-chapter-10.html"
 ---
 
 But strange to say, all these measures, efforts, and plans- which were not at all worse than others issued in similar circumstances- did not affect the essence of the matter but, like the hands of a clock detached from the mechanism, swung about in an arbitrary and aimless way without engaging the cogwheels.

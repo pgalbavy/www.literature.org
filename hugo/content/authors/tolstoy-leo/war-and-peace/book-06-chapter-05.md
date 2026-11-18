@@ -1,8 +1,7 @@
 ---
 title: "Book 6 - Chapter 5"
 weight: 111
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-06-chapter-05.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-06-chapter-05.html"
 ---
 
 While waiting for the announcement of his appointment to the committee Prince Andrew looked up his former acquaintances, particularly those he knew to be in power and whose aid he might need. In Petersburg he now experienced the same feeling he had had on the eve of a battle, when troubled by anxious curiosity and irresistibly attracted to the ruling circles where the future, on which the fate of millions depended, was being shaped. From the irritation of the older men, the curiosity of the uninitiated. the reserve of the initiated, the hurry and preoccupation of everyone, and the innumerable committees and commissions of whose existence he learned every day, he felt that now, in 1809, here in Petersburg a vast civil conflict was in preparation, the commander in chief of which was a mysterious person he did not know, but who was supposed to be a man of genius- Speranski. And this movement of reconstruction of which Prince Andrew had a vague idea, and Speranski its chief promoter, began to interest him so keenly that the question of the army regulations quickly receded to a secondary place in his consciousness.

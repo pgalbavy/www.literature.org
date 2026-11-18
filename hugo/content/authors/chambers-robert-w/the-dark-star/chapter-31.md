@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - The Café Des Bulgars"
 weight: 32
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-31.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-31.html"
 ---
 
 Their adieux to Fifi and Nini were elaborate and complicated by bursts of laughter. The Tziganes recommended Captain Sengoun to go home and seek further adventures on his pillow; and had it not been for the gay babble of the fountain and the persistent perfume of flowers, he might have followed their advice.

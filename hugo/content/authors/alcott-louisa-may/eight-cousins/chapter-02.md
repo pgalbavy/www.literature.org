@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Clan"
 weight: 3
-aliases:
-  - "/authors/alcott-louisa-may/eight-cousins/chapter-02.html"
+url: "/authors/alcott-louisa-may/eight-cousins/chapter-02.html"
 ---
 
 Rose scrambled into the china-closet as rapidly as possible, and there refreshed herself by making faces at Debby, while she settled her plumage and screwed up her courage. Then she crept softly down the hall and peeped into the parlor. No one appeared, and all was so still she felt sure the company was upstairs. So she skipped boldly through the half-open folding-doors, to behold on the other side a sight that nearly took her breath away.

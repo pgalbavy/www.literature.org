@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-02.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-02.html"
 ---
 
 Wall, it wuz on the very next day - on a Thursday as I remember well, for I wuz a-thinkin' why didn't Lodema's letter come the next day - Fridays bein' considered onlucky - and it being a day for punishments, hangin's, and so forth.

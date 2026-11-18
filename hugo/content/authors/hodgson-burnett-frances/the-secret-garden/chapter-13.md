@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - “I Am Colin”"
 weight: 13
-aliases:
-  - "/authors/hodgson-burnett-frances/the-secret-garden/chapter-13.html"
+url: "/authors/hodgson-burnett-frances/the-secret-garden/chapter-13.html"
 ---
 
 Mary took the picture back to the house when she went to her supper and she showed it to Martha.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Modern Ideas Of Sin And Damnation"
 weight: 7
-aliases:
-  - "/authors/wells-herbert-george/god-the-invisible-king/chapter-06.html"
+url: "/authors/wells-herbert-george/god-the-invisible-king/chapter-06.html"
 ---
 
 1\. THE BIOLOGICAL EQUIVALENT OF SIN

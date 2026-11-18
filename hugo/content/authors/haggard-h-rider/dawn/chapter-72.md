@@ -1,8 +1,7 @@
 ---
 title: "Chapter 72"
 weight: 73
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-72.html"
+url: "/authors/haggard-h-rider/dawn/chapter-72.html"
 ---
 
 Nothing occurred to mar the prosperity of the voyage of the Evening Star. That beautiful little vessel declined to simplify the course of this history by going to the bottom with Mildred and Arthur, as the imaginative reader may have perhaps expected. She did not even get into a terrific storm, in order to give Arthur the opportunity of performing heroic feats, and the writer of this history the chance of displaying a profound knowledge of the names of ropes and spars. On the contrary, she glided on upon a sea so still that even Miss Terry was persuaded to arouse herself from her torpor, and come upon deck, till at last, one morning, the giant peak of Teneriffe, soaring high above its circling clouds, broke upon the view of her passengers.

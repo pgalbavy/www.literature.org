@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Training A Kentucky Rifleman"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-02.html"
 ---
 
 I really think that if Jack Gedney had not known of the present his father meant to make him he would have been too delighted to act like a sensible boy. As it was, he could hardly keep from hugging the handsome little gun when his father placed it in his hands, and told him that it was his so long as he proved that he knew how to use it, and that he had enough sense to be trusted alone in the woods.

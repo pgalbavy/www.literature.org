@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - A Welcome Visitor"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-26.html"
 ---
 
 Lonely as Fred Munson felt in that dismal cavern, he preferred the solitude to the companionship of an Apache Indian, and, fearful of discovery, he crouched down to wait until he should move away. His involuntary visitor dropped within a few feet of where he was hiding, and Fred tried to hold his breath for fear he might be detected; but the fellow quietly rose and gave expression to his sentiments.

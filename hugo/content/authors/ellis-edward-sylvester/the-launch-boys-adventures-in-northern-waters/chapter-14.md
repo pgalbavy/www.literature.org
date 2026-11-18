@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - \"The Night Shall Be Filled With Music\""
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-14.html"
 ---
 
 The prima donna who grew so fond of Mike discovered several interesting facts about him, aside from his marvellous tenor voice. He had the talent of improvisation. When they became well enough acquainted for him to feel at ease in her presence, he sang bits of melody that were his own composition. She was delighted and encouraged him to cultivate the gift. Of course he knew nothing about playing any instrument, but under her instruction he quickly picked up the art of accompanying himself on the piano. The music which he sang was of the simplest nature and the chords suggested themselves to his ear.

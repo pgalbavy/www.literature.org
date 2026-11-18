@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 11"
 weight: 60
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-03-chapter-11.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-03-chapter-11.html"
 ---
 
 The next day the Emperor stopped at Wischau, and Villier, his physician, was repeatedly summoned to see him. At headquarters and among the troops near by the news spread that the Emperor was unwell. He ate nothing and had slept badly that night, those around him reported. The cause of this indisposition was the strong impression made on his sensitive mind by the sight of the killed and wounded.

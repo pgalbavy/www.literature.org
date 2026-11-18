@@ -1,8 +1,7 @@
 ---
 title: "Chapter 55 - The Scotchman"
 weight: 55
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-55.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-55.html"
 ---
 
 And now our readers must leave the Standard to sail peaceably, not toward London, where D'Artagnan and Porthos believed they were going, but to Durham, whither Mordaunt had been ordered to repair by the letter he had received during his sojourn at Boulogne, and accompany us to the royalist camp, on this side of the Tyne, near Newcastle.

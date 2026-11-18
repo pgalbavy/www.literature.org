@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Rica Town"
 weight: 13
-aliases:
-  - "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-13.html"
+url: "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-13.html"
 ---
 
 As a matter of fact we did not leave Beza Town till twenty-four hours later than had been arranged, since it took some time for old Babemba, who was to be in charge of it, to collect and provision our escort of five hundred men.

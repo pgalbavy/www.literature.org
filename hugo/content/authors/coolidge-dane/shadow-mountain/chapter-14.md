@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Explosion"
 weight: 14
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-14.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-14.html"
 ---
 
 There are moments when his great secret rises to every man's lips and flutters to wing away; but a thought, a glance, a word said or unsaid, turns it back and he holds it more closely. Wiley Holman had a secret which might have changed Virginia's life and filled every day with joy and hope, but he shut down his lips and held it back and spoke kind words instead. There was a look in her eyes, a brooding glow of resentment when he spoke of his father and hers; and, while he spoke from the heart, she drooped her dark lashes and was silent beyond her wont. He gave her much but she gave him little--and the reason she was sorry to leave Keno was the parting with six suffering cats.

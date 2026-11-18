@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Man In The Dark"
 weight: 4
-aliases:
-  - "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-04.html"
+url: "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-04.html"
 ---
 
 It sounded crazy, for what could a girl like that do to gold that was securely packed? But women had been mixed up in ugly work about gold before, and somehow the vision of my dream girl standing by the safe stuck to me all that day. Suppose I had helped her to cover up a theft from Dudley! It was funny; but the ludicrous side of it did not strike me. What did was that I must see her alone and get rid of the poisonous distrust of her that she, or Marcia, had put into my head. But that day went by, and two more on top of it, and I had no chance to speak to Paulette Brown.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Highland Writer"
 weight: 3
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-02.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-02.html"
 ---
 
 Mr. Charles Stewart the Writer dwelt at the top of the longest stair ever mason set a hand to; fifteen flights of it, no less; and when I had come to his door, and a clerk had opened it, and told me his master was within, I had scarce breath enough to send my porter packing.

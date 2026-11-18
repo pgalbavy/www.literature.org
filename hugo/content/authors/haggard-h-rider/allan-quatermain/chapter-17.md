@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Storm Breaks"
 weight: 18
-aliases:
-  - "/authors/haggard-h-rider/allan-quatermain/chapter-17.html"
+url: "/authors/haggard-h-rider/allan-quatermain/chapter-17.html"
 ---
 
 And now it was that the trouble which at first had been but a cloud as large as a man’s hand began to loom very black and big upon our horizon, namely, Sorais’ preference for Sir Henry. I saw the storm drawing nearer and nearer; and so, poor fellow, did he. The affection of so lovely and highly-placed a woman was not a thing that could in a general way be considered a calamity by any man, but, situated as Curtis was, it was a grievous burden to bear.

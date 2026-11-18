@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/darwin-charles/the-origin-of-species/preface.html"
+url: "/authors/darwin-charles/the-origin-of-species/preface.html"
 ---
 
 Full Title: On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life. Charles Darwin, M.A.,

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Land Of Mystery"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-08.html"
 ---
 
 The peremptory tones of Fred Ashman rang out loud and clear above the roar of the rapids and caused the servants to halt at the moment the canoe was shoved into the water. They looked up with frightened expressions and awaited his approach.

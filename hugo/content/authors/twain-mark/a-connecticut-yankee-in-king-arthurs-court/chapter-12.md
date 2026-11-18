@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Slow Torture"
 weight: 13
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-12.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-12.html"
 ---
 
 STRAIGHT off, we were in the country. It was most lovely and pleasant in those sylvan solitudes in the early cool morning in the first freshness of autumn. From hilltops we saw fair green valleys lying spread out below, with streams winding through them, and island groves of trees here and there, and huge lonely oaks scattered about and casting black blots of shade; and beyond the valleys we saw the ranges of hills, blue with haze, stretching away in billowy perspective to the horizon, with at wide intervals a dim fleck of white or gray on a wave-summit, which we knew was a castle. We crossed broad natural lawns sparkling with dew, and we moved like spirits, the cushioned turf giving out no sound of footfall; we dreamed along through glades in a mist of green light that got its tint from the sun-drenched roof of leaves overhead, and by our feet the clearest and coldest of runlets went frisking and gossiping over its reefs and making a sort of whispering music, comfortable to hear; and at times we left the world behind and entered into the solemn great deeps and rich gloom of the forest, where furtive wild things whisked and scurried by and were gone before you could even get your eye on the place where the noise was; and where only the earliest birds were turning out and getting to business with a song here and a quarrel yonder and a mysterious faroff hammering and drumming for worms on a tree trunk away somewhere in the impenetrable remotenesses of the woods. And by and by out we would swing again into the glare.

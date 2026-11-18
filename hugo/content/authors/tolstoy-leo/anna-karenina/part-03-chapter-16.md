@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 16"
 weight: 85
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-03-chapter-16.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-03-chapter-16.html"
 ---
 
 All the rooms of the summer villa were full of porters, gardeners, and footmen going to and fro carrying out things. Cupboards and chests were open; twice they had sent to the shop for cord; pieces of newspaper were tossing about on the floor. Two trunks, some bags and strapped-up rugs, had been carried down into the hall. The carriage and two hired cabs were waiting at the steps. Anna, forgetting her inward agitation in the work of packing, was standing at a table in her boudoir, packing her traveling- bag, when Annushka called her attention to the rattle of some carriage driving up. Anna looked out of the window and saw Alexey Alexandrovitch's courier on the steps, ringing at the front door bell.

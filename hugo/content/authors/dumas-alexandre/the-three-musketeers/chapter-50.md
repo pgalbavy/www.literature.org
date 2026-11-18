@@ -1,8 +1,7 @@
 ---
 title: "Chapter 50 - Chat Between Brother And Sister"
 weight: 51
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-50.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-50.html"
 ---
 
 During the time which Lord de Winter took to shut the door, close a shutter, and draw a chair near to his sister-in-law's fauteuil, Milady, anxiously thoughtful, plunged her glance into the depths of possibility, and discovered all the plan, of which she could not even obtain a glance as long as she was ignorant into whose hands she had fallen. She knew her brother-in-law to be a worthy gentleman, a bold hunter, an intrepid player, enterprising with women, but by no means remarkable for his skill in intrigues. How had he discovered her arrival, and caused her to be seized? Why did he detain her?

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-04.html"
 ---
 
 The scene at this moment was terrifying.

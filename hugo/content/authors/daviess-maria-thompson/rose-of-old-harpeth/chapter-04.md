@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Moonlight And Apple-Blow"
 weight: 4
-aliases:
-  - "/authors/daviess-maria-thompson/rose-of-old-harpeth/chapter-04.html"
+url: "/authors/daviess-maria-thompson/rose-of-old-harpeth/chapter-04.html"
 ---
 
 "I hope you feel easy in your mind, child, now you've put this whole garden to bed and tucked 'em under cover, heads and all," said Uncle Tucker, as he spread the last bit of old sacking down over the end of the row of little sprouting bean vines. "When I look at the garden I'm half skeered to go in the house to bed for fear I haven't got a quilt to my joints."

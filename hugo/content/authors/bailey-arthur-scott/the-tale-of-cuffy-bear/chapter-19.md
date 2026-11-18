@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Little Bear Peter"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-19.html"
 ---
 
 One day late in the summer Cuffy Bear went blackberrying. And on his way home he stopped at the deep pool where the hornets had chased him. He stayed there for a little while to watch the speckled trout as their bright sides flashed out of the depths of the clear water. As Cuffy stood on the big boulder and looked down, he could see himself quite plainly, reflected in the still surface of the water. He waved a paw. And the little bear in the brook waved his paw too. Of course Cuffy knew that it was himself he saw. But he pretended for a time that it was some other little bear who was playing with him. And he was having lots of fun.

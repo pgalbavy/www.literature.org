@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - All In Good Time"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/a-young-hero/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/a-young-hero/chapter-20.html"
 ---
 
 Between nine and ten o'clock on the Saturday evening succeeding the incidents I have described, a wagon similar to the one wrecked the night before, drove out of Tottenville with two persons on the front seat.

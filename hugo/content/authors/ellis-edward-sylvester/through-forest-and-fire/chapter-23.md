@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Hunting A Buck"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-23.html"
 ---
 
 It will be remembered that when Nick Ribsam left his companions, early in the afternoon, it was with the resolution to find out whether the showy shot made by Herbert Watrous at the buck, had done the execution he claimed for it.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Mission Station"
 weight: 4
-aliases:
-  - "/authors/haggard-h-rider/allan-quatermain/chapter-03.html"
+url: "/authors/haggard-h-rider/allan-quatermain/chapter-03.html"
 ---
 
 We made the remains of our rope fast to the other canoe, and sat waiting for the dawn and congratulating ourselves upon our merciful escape, which really seemed to result more from the special favour of Providence than from our own care or prowess. At last it came, and I have not often been more grateful to see the light, though so far as my canoe was concerned it revealed a ghastly sight. There in the bottom of the little boat lay the unfortunate Askari, the sime, or sword, in his bosom, and the severed hand gripping the handle. I could not bear the sight, so hauling up the stone which had served as an anchor to the other canoe, we made it fast to the murdered man and dropped him overboard, and down he went to the bottom, leaving nothing but a train of bubbles behind him. Alas! when our time comes, most of us like him leave nothing but bubbles behind, to show that we have been, and the bubbles soon burst. The hand of his murderer we threw into the stream, where it slowly sank. The sword, of which the handle was ivory, inlaid with gold (evidently Arab work), I kept and used as a hunting-knife, and very useful it proved.

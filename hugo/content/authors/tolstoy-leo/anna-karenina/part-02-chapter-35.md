@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 35"
 weight: 69
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-35.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-35.html"
 ---
 
 The prince communicated his good-humor to his own family and his friends, and even to the German landlord in whose rooms the Shtcherbatskys were staying.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-25.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-25.html"
 ---
 
 It was generally conceded that nothing could be more agreeable than Mrs. Sylvestre's position and surroundings. Those of her acquaintance who had known her before her marriage, seeking her out, pronounced her more full of charm than ever; those who saw her for the first time could scarcely express with too much warmth their pleasure in her grace, gentleness, and beauty. Her house was only less admired than herself, and Mrs. Merriam, promptly gathering a coterie of old friends about her, established herself most enviably at once. It became known to the world, through the medium of the social columns of the dailies, that Mrs. Sylvestre was at home on Tuesday afternoons, and that she also received her friends each Wednesday evening. On these occasions her parlors were always well filled, and with society so agreeable that it was not long before they were counted among the most attractive social features of the week. Professor Herrick himself appeared on several Wednesdays, and it was gradually remarked that Colonel Tredennis presented himself upon the scene more frequently than their own previous knowledge of his habits would have led the observers to expect. On seeing Mrs. Sylvestre in the midst of her guests and admirers, Miss Jessup was reminded of Madame Récamier and the salons of Paris, and wrote almost an entire letter on the subject, which was printed by the "Wabash Times," under the heading of "A Recent Récamier," and described Mrs. Sylvestre's violet eyes, soft voice, and willowy figure, with nothing short of enthusiasm.

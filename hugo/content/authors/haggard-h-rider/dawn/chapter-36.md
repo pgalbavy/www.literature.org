@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 37
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-36.html"
+url: "/authors/haggard-h-rider/dawn/chapter-36.html"
 ---
 
 One day, some three weeks after Arthur had gone, Angela strolled down the tunnel walk, now, in the height of summer, almost dark with the shade of the lime-trees, and settled herself on one of the stone seats under Caresfoot's staff.

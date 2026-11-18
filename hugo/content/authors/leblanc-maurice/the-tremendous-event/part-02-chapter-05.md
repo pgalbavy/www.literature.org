@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 5 - The Chief's Reward"
 weight: 14
-aliases:
-  - "/authors/leblanc-maurice/the-tremendous-event/part-02-chapter-05.html"
+url: "/authors/leblanc-maurice/the-tremendous-event/part-02-chapter-05.html"
 ---
 
 During the next two hours they saw, in the distance, three more corpses. Frequent shots were fired, but whence they did not know. Single prowlers were becoming rare; they encountered rather groups consisting of men of all classes and nationalities, who had joined for purposes of defence. But quarrels broke out within these groups, the moment there was the least booty in dispute, or even the faintest hope of booty. No discipline was accepted save that imposed by force.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 129 - The Cabin"
 weight: 129
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-129.html"
+url: "/authors/melville-herman/moby-dick/chapter-129.html"
 ---
 
 (Ahab moving to go on deck; Pip catches him by the hand to follow.)

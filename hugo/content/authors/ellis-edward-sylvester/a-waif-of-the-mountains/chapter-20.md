@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Camp Fire"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-20.html"
 ---
 
 The trail, as has been stated, was broad and comparatively level. The slope of the mountain to the right was so moderate that it could be climbed by a horse almost as readily as by a man. Its face was covered with a growth of cedars, continuing half way to the summit, when it terminated, only bleak masses of rock, sprinkled with snow, whose volume increased with the elevation, being visible above and beyond.

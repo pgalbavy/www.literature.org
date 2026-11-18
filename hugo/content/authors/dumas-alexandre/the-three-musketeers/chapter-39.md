@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39 - A Vision"
 weight: 40
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-39.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-39.html"
 ---
 
 At four o'clock the four friends were all assembled with Athos. Their anxiety about their outfits had all disappeared, and each countenance only preserved the expression of its own secret disquiet - for behind all present happiness is concealed a fear for the future.

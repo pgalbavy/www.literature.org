@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - Wauparmur"
 weight: 35
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-35.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-35.html"
 ---
 
 Oftener than we suppose does heaven interfere directly in the affairs of men. Minutes had passed since Sanders and Storms had agreed that no earthly occurrence could avert a fight with the dusky demons, with scarcely a grain of hope for escape from them, when Inez uttered the astounding exclamation:

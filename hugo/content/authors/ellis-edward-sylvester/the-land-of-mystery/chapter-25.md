@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Ziffak's Blow"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-25.html"
 ---
 
 Ziffak, head chieftain of the Murhapas, was a shrewder and more far-seeing man than even his white friends suspected.

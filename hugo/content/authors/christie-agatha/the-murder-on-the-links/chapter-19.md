@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - I Use My Grey Cells"
 weight: 19
-aliases:
-  - "/authors/christie-agatha/the-murder-on-the-links/chapter-19.html"
+url: "/authors/christie-agatha/the-murder-on-the-links/chapter-19.html"
 ---
 
 I was dumbfounded. Up to the last, I had not been able bring myself to believe Jack Renauld guilty. I had expected a ringing proclamation of his innocence when Poirot challenged him. But now, watching him as he stood, white and limp against the wall, and hearing the damning admission fall from his lips, I doubted no longer.

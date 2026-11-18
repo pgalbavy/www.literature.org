@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 7"
 weight: 43
-aliases:
-  - "/authors/austen-jane/emma/volume-03-chapter-07.html"
+url: "/authors/austen-jane/emma/volume-03-chapter-07.html"
 ---
 
 They had a very fine day for Box Hill; and all the other outward circumstances of arrangement, accommodation, and punctuality, were in favour of a pleasant party. Mr. Weston directed the whole, officiating safely between Hartfield and the Vicarage, and every body was in good time. Emma and Harriet went together; Miss Bates and her niece, with the Eltons; the gentlemen on horseback. Mrs. Weston remained with Mr. Woodhouse. Nothing was wanting but to be happy when they got there. Seven miles were travelled in expectation of enjoyment, and every body had a burst of admiration on first arriving; but in the general amount of the day there was deficiency. There was a languor, a want of spirits, a want of union, which could not be got over. They separated too much into parties. The Eltons walked together; Mr. Knightley took charge of Miss Bates and Jane; and Emma and Harriet belonged to Frank Churchill. And Mr. Weston tried, in vain, to make them harmonise better. It seemed at first an accidental division, but it never materially varied. Mr. and Mrs. Elton, indeed, shewed no unwillingness to mix, and be as agreeable as they could; but during the two whole hours that were spent on the hill, there seemed a principle of separation, between the other parties, too strong for any fine prospects, or any cold collation, or any cheerful Mr. Weston, to remove.

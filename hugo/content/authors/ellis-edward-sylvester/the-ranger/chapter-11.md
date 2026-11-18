@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Friend"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/the-ranger/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/the-ranger/chapter-11.html"
 ---
 
 In a short time the whole body of Indians were awake and astir. The morning meal was soon prepared and hastily eaten, and they set forward. Leland found that his wound was much better, and he traveled without difficulty. The savages took a southerly direction, and appeared to be journeying toward the destination of those who held Rosalind.

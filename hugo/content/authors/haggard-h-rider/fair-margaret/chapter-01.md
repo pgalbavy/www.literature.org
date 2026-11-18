@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - How Peter Met The Spaniard"
 weight: 1
-aliases:
-  - "/authors/haggard-h-rider/fair-margaret/chapter-01.html"
+url: "/authors/haggard-h-rider/fair-margaret/chapter-01.html"
 ---
 
 It was a spring afternoon in the sixth year of the reign of King Henry VII. of England. There had been a great show in London, for that day his Grace opened the newly convened Parliament, and announced to his faithful people--who received the news with much cheering, since war is ever popular at first--his intention of invading France, and of leading the English armies in person. In Parliament itself, it is true, the general enthusiasm was somewhat dashed when allusion was made to the finding of the needful funds; but the crowds without, formed for the most part of persons who would not be called upon to pay the money, did not suffer that side of the question to trouble them. So when their gracious liege appeared, surrounded by his glittering escort of nobles and men-at-arms, they threw their caps into the air, and shouted themselves hoarse.

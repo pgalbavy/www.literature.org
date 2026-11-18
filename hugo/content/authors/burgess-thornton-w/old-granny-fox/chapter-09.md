@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Reddy Fox Hears About Granny Fox"
 weight: 9
-aliases:
-  - "/authors/burgess-thornton-w/old-granny-fox/chapter-09.html"
+url: "/authors/burgess-thornton-w/old-granny-fox/chapter-09.html"
 ---
 
 Though you may think another wrong  

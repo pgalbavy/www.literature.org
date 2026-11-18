@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - False Dawn"
 weight: 38
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-38.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-38.html"
 ---
 
 "Just imagine -- this night week I'll be in Avonlea -- delightful thought!" said Anne, bending over the box in which she was packing Mrs. Rachel Lynde's quilts. "But just imagine -- this night week I'll be gone forever from Patty's Place -- horrible thought!"

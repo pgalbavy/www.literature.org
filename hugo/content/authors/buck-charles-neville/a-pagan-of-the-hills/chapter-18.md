@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-18.html"
+url: "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-18.html"
 ---
 
 Jerry bade Alexander farewell after depositing her parcel by the threadbare seat of the battered day coach which was to carry her to Perry Center, but as he said good-by, he was, for once, acting without candor. He meant to go to Perry Center too, but being called by no business, except to follow her, he thought it wiser to make no announcement of his intention. When the engine wheezed and groaned to its start. Jerry swung himself into the baggage compartment, and after the elapse of a safe interval presented himself, grinning, in the day coach.

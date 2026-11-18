@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - The Captain’s Resolve"
 weight: 38
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-38.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-38.html"
 ---
 
 *TOM WAS* up and about early the next morning. But there was one who was earlier than he. On leaving the robbers he saw the captain pacing to and fro, apparently engrossed by his reflections. When he saw Tom he beckoned to him.

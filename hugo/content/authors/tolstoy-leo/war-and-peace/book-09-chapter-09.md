@@ -1,8 +1,7 @@
 ---
 title: "Book 9 - Chapter 9"
 weight: 176
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-09-chapter-09.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-09-chapter-09.html"
 ---
 
 Prince Andrew reached the general headquarters of the army at the end of June. The first army, with which was the Emperor, occupied the fortified camp at Drissa; the second army was retreating, trying to effect a junction with the first one from which it was said to be cut off by large French forces. Everyone was dissatisfied with the general course of affairs in the Russian army, but no one anticipated any danger of invasion of the Russian provinces, and no one thought the war would extend farther than the western, the Polish, provinces.

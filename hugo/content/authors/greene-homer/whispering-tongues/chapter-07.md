@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Welcome Home"
 weight: 7
-aliases:
-  - "/authors/greene-homer/whispering-tongues/chapter-07.html"
+url: "/authors/greene-homer/whispering-tongues/chapter-07.html"
 ---
 
 Parmenter went back from New York to his home, and spent a night writing a letter to Professor Lee, which was to reach him at Paris. When it was finished the young man read it over, and threw it from him in disgust. It sounded tame, formal, insincere. He felt that such a letter would fail of its mission.

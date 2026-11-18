@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Points Of View"
 weight: 16
-aliases:
-  - "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-16.html"
+url: "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-16.html"
 ---
 
 THE light grew stronger as we advanced. In a little time it was nearly as strong as the phosphorescence on Cavor's legs. Our tunnel was expanding into a cavern, and this new light was at the farther end of it. I perceived something that set my hopes leaping and bounding.

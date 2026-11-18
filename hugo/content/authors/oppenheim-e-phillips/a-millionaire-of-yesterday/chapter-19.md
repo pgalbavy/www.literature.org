@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-19.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-19.html"
 ---
 
 Ernestine found a letter on her plate a few mornings afterwards which rather puzzled her. It was from a firm of solicitors in Lincoln's Inn - the Eastchester family solicitors - requesting her to call that morning to see them on important business. There was not a hint as to the nature of it, merely a formal line or two and a signature. Ernestine, who had written insulting letters to all her relatives during the last few days, smiled as she laid it down. Perhaps the family had called upon Mr. Cuthbert to undertake their defence and bring her round to a reasonable view of things. The idea was amusing enough, but her first impulse was not to go. Nothing but the combination of an idle morning and a certain measure of curiosity induced her to keep the appointment.

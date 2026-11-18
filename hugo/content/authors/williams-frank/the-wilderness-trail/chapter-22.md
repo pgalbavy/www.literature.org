@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Secreted Evidence"
 weight: 22
-aliases:
-  - "/authors/williams-frank/the-wilderness-trail/chapter-22.html"
+url: "/authors/williams-frank/the-wilderness-trail/chapter-22.html"
 ---
 
 It was an hour before sunset, but so uniform had been the darkness all day that neither Donald nor his two companions realized that night was close upon them. Hour after hour they had struggled onward through the blinding, bewildering storm, shelterless and without food, straining forward to the only place where these things might be obtained--Sturgeon Lake. Now, when the blanketing night was almost fallen, they sighted the charred ruins that had once been the warehouse of the free-traders, with a sigh of relief. A shout from one of Donald's companions brought the five men who had been left out of their tents. A shriveled female form joined them, and with a clutch at his heart the prisoner recognized old Maria.

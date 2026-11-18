@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 1"
 weight: 102
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-04-chapter-01.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-04-chapter-01.html"
 ---
 
 The Karenins, husband and wife,continued living in the same house, met every day, but were complete strangers to one another. Alexey Alexandrovitch made it a rule to see his wife every day, so that the servants might have no grounds for suppositions, but avoided dining at home. Vronsky was never at Alexey Alexandrovitch's house, but Anna saw him away from home, and her husband was aware of it.

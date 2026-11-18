@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 2"
 weight: 71
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-03-chapter-02.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-03-chapter-02.html"
 ---
 
 Early in June it happened that Agafea Mihalovna, the old nurse and housekeeper, in carrying to the cellar a jar of mushrooms she had just pickled, slipped, fell, and sprained her wrist. The district doctor, a talkative young medical student, who had just finished his studies, came to see her. He examined the wrist, said it was not broken, was delighted at a chance of talking to the celebrated Sergey Ivanovitch Koznishev, and to show his advanced views of things told him all the scandal of the district, complaining of the poor state into which the district council had fallen. Sergey Ivanovitch listened attentively, asked him questions, and, roused by a new listener, he talked fluently, uttered a few keen and weighty observations, respectfully appreciated by the young doctor, and was soon in that eager frame of mind his brother knew so well, which always, with him, followed a brilliant and eager conversation. After the departure of the doctor, he wanted to go with a fishingrod to the river. Sergey Ivanovitch was fond of angling, and was, it seemed, proud of being able to care for such a stupid occupation.

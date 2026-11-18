@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Half And Half"
 weight: 24
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-24.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-24.html"
 ---
 
 All the sheep in the pasture hurried down the hillside toward the bars to look at Snowball. And soon dozens of disputes might have been heard: "He is!" "He isn't!" "He's sheared!" "He's not!" About half the flock were sure Johnnie Green had sheared Snowball; while the other half were just as sure that Snowball still wore his fleece.

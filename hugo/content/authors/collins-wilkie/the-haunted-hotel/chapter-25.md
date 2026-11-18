@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/collins-wilkie/the-haunted-hotel/chapter-25.html"
+url: "/authors/collins-wilkie/the-haunted-hotel/chapter-25.html"
 ---
 
 The day had advanced to evening. Lord Montbarry and the bridal party had gone to the Opera. Agnes alone, pleading the excuse of fatigue, remained at the hotel. Having kept up appearances by accompanying his friends to the theatre, Henry Westwick slipped away after the first act, and joined Agnes in the drawing-room.

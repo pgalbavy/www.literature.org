@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Freedom"
 weight: 8
-aliases:
-  - "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-07.html"
+url: "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-07.html"
 ---
 
 ONCE OUT OF THE DIRECT PATH OF THE ANIMAL, fear of it left me, but another emotion as quickly gripped me--hope of escape that the demoralized condition of the guards made possible for the instant.

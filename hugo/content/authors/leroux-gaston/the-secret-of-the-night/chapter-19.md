@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Tsar"
 weight: 19
-aliases:
-  - "/authors/leroux-gaston/the-secret-of-the-night/chapter-19.html"
+url: "/authors/leroux-gaston/the-secret-of-the-night/chapter-19.html"
 ---
 
 "I have escaped by remarkable luck," cried Rouletabille, as he found himself, in the middle of the night, at the corner of the Katharine and the Aptiekarski Pereoulok Canals, while the mysterious carriage which had brought him there returned rapidly toward the Grande Ecurie. "What a country! What a country!"

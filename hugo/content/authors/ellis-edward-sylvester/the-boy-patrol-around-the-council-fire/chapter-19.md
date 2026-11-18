@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Final Test"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-19.html"
 ---
 
 "Mr. George Burton may think he has a mighty smart dog," reflected Hoke Butler, as he picked his way up the small stream, "and he isn’t any slouch, but there are some things he can’t do, and one of them is to follow a fellow’s trail through the water. Funny that when Burton shut us off from the lake he forgot this brook. Since he didn’t mention it, I have the right to use it.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 59 - In Which It Is Shown That Under The Most Trying Circumstances Noble Natures Never Lose Their Courage, Nor Good Stomachs Their Appetites"
 weight: 59
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-59.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-59.html"
 ---
 
 The little troop, without looking behind them or exchanging a word, fled at a rapid gallop, fording a little stream, of which none of them knew the name, and leaving on their left a town which Athos declared to be Durham. At last they came in sight of a small wood, and spurring their horses afresh, rode in its direction.

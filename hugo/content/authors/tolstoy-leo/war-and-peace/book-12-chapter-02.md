@@ -1,8 +1,7 @@
 ---
 title: "Book 12 - Chapter 2"
 weight: 265
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-12-chapter-02.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-12-chapter-02.html"
 ---
 
 Anna Pavlovna's presentiment was in fact fulfilled. Next day during the service at the palace church in honor of the Emperor's birthday, Prince Volkonski was called out of the church and received a dispatch from Prince Kutuzov. It was Kutuzov's report, written from Tatarinova on the day of the battle. Kutuzov wrote that the Russians had not retreated a step, that the French losses were much heavier than ours, and that he was writing in haste from the field of battle before collecting full information. It followed that there must have been a victory. And at once, without leaving the church, thanks were rendered to the Creator for His help and for the victory.

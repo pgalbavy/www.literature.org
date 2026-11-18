@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-13.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-13.html"
 ---
 
 *THERE* has been a time when a ship’s chief mate, pocket-book in hand and pencil behind his ear, kept one eye aloft upon his riggers and the other down the hatchway on the stevedores, and watched the disposition of his ship’s cargo, knowing that even before she started he was already doing his best to secure for her an easy and quick passage.

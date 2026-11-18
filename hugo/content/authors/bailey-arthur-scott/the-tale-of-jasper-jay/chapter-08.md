@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Bit Of Mischief"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-08.html"
 ---
 
 JASPER JAY did not heed Mr. Crow's warning. When he learned that Mr. Red-shouldered Hawk was angry with him because he had imitated Mr. Hawk's fierce cry, "_Kee-you! kee-you!_" Jasper was more pleased with himself than ever. Scaring Farmer Green's hens with that piercing scream had been a good deal of fun. But making Mr. Hawk angry was still more.

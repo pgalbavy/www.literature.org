@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/ridge-w-pett/the-amazing-years/chapter-07.html"
+url: "/authors/ridge-w-pett/the-amazing-years/chapter-07.html"
 ---
 
 We all went slightly off our heads that evening at Gloucester Place. At first, there was a misapprehension on my side to be removed: I had forgotten that Lille was in the hands of the Germans, although the superscription of the card ought to have made this obvious; explanations made it clear to me now that Master John was a wounded prisoner, and that we should probably not see the dear lad again until the war finished. Master Edward, when he came home, was still so greatly excited that he omitted, for an hour, to tell us that he was about to be transferred to the head offices at London Bridge, where his hours would be fixed and regular, and escape effected from hot tempered and argumentative passengers. The recommending word of the superintendent's wife and his own engaging manner had to be thanked for the swift promotion. We regretted the absence of Miss Muriel; if she had been with us our party could have been reckoned complete.

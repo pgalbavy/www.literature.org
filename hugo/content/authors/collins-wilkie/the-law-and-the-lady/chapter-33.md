@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - A Specimen Of My Folly"
 weight: 33
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-33.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-33.html"
 ---
 
 THE incomprehensible submission of Scotchmen to the ecclesiastical tyranny of their Established Church has produced--not unnaturally, as I think--a very mistaken impression of the national character in the popular mind.

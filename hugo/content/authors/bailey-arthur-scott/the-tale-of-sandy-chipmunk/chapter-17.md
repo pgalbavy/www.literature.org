@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Corn-Planting Time"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-17.html"
 ---
 
 It was late in the spring. And Sandy Chipmunk couldn't help wishing it was late in the fall instead. The reason for that was this: He could find very little to eat anywhere in Pleasant Valley. It was too early for fruit or nuts. It was even too early for many insects. And it seemed to Sandy that all the insects flew much higher than they did when there were plenty of other things to eat.

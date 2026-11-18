@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 24
-aliases:
-  - "/authors/chambers-robert-w/cardigan/chapter-23.html"
+url: "/authors/chambers-robert-w/cardigan/chapter-23.html"
 ---
 
 Like a red lamp the sun swung above the smoky east, its round, inflamed lens peering through the smother beneath which Boston lay, blanketed by the thick vapours of the bay.

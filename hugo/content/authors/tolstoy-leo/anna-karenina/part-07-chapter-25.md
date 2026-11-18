@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 25"
 weight: 214
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-25.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-25.html"
 ---
 
 Feeling that the reconciliation was complete, Anna set eagerly to to work in the morning preparing for their departure. Though it was not settled whether they should go on Monday or Tuesday, as they had each given way to the other, Anna packed busily, feeling absolutely indifferent whether they went a day earlier or later. She was standing in her room over an open box, taking things out of it, when he came in to see her earlier than usually, dressed to go out.

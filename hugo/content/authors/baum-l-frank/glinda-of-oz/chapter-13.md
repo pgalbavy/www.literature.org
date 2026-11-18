@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 14
-aliases:
-  - "/authors/baum-l-frank/glinda-of-oz/chapter-13.html"
+url: "/authors/baum-l-frank/glinda-of-oz/chapter-13.html"
 ---
 
 Glinda, the Good, in her palace in the Quadling Country, had many things to occupy her mind, for not only did she look after the weaving and embroidery of her bevy of maids, and assist all those who came to her to implore her help -- beasts and birds as well as people -- but she was a close student of the arts of sorcery and spent much time in her Magical Laboratory, where she strove to find a remedy for every evil and to perfect her skill in magic.

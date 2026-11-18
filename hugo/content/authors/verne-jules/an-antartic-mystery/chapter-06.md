@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - An Ocean Waif"
 weight: 6
-aliases:
-  - "/authors/verne-jules/an-antartic-mystery/chapter-06.html"
+url: "/authors/verne-jules/an-antartic-mystery/chapter-06.html"
 ---
 
 The navigation of the Halbrane went on prosperously with the help of the sea and the wind. In fifteen days, if this state of things lasted, she might reach Tristan d'Acunha. Captain Len Guy left the working of the ship to James West, and well might he do so; there was nothing to fear with such a seaman as he.

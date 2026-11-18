@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Superior Advantages"
 weight: 15
-aliases:
-  - "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-15.html"
+url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-15.html"
 ---
 
 When Mr. Francis Barold called to pay his respects to Lady Theobald, after partaking of her hospitality, Mr. Burmistone accompanied him; and, upon almost every other occasion of his presenting himself to her ladyship, Mr. Burmistone was his companion.

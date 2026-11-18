@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 27"
 weight: 27
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-02-chapter-27.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-02-chapter-27.html"
 ---
 
 “Aziz, are you awake?”

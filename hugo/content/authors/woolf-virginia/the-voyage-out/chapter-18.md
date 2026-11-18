@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/woolf-virginia/the-voyage-out/chapter-18.html"
+url: "/authors/woolf-virginia/the-voyage-out/chapter-18.html"
 ---
 
 Everything he saw was distasteful to him. He hated the blue and white, the intensity and definiteness, the hum and heat of the south; the landscape seemed to him as hard and as romantic as a cardboard background on the stage, and the mountain but a wooden screen against a sheet painted blue. He walked fast in spite of the heat of the sun.

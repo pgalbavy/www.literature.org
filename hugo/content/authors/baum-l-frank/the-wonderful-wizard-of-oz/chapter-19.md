@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Attacked by the Fighting Trees "
 weight: 20
-aliases:
-  - "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-19.html"
+url: "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-19.html"
 ---
 
 The next morning Dorothy kissed the pretty green girl good-bye, and they all shook hands with the soldier with the green whiskers, who had walked with them as far as the gate. When the Guardian of the Gate saw them again he wondered greatly that they could leave the beautiful City to get into new trouble. But he at once unlocked their spectacles, which he put back into the green box, and gave them many good wishes to carry with them.

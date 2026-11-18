@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/conrad-joseph/end-of-the-tether/chapter-11.html"
+url: "/authors/conrad-joseph/end-of-the-tether/chapter-11.html"
 ---
 
 Sterne crossed the deck upon the track of the chief engineer. Jack, the second, retreating backwards down the engine-room ladder, and still wiping his hands, treated him to an incomprehensible grin of white teeth out of his grimy hard face; Massy was nowhere to be seen. He must have gone straight into his berth. Sterne scratched at the door softly, then, putting his lips to the rose of the ventilator, said—

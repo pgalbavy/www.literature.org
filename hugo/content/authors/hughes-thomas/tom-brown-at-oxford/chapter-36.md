@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - The River Side"
 weight: 38
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-36.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-36.html"
 ---
 
 So, from Henley, Tom went home just to see his father and mother and pick up his fishing-gear, and then started for the Grange. On his road thither, he more than once almost made up his mind to go round by Englebourn, get his first interview with Katie over, and find out how the world was really going with Harry and his sweetheart, of whom he had such meagre intelligence of late. But, for some reason or another, when it came to taking the turn to Englebourn, he passed it by, and, contenting himself for the time with a distant view of the village and the Hawk's Lynch, drove straight to the Grange.

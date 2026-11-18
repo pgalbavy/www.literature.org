@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 36
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-36.html"
+url: "/authors/eliot-george/middlemarch/chapter-36.html"
 ---
 
 "'Tis strange to see the humors of these men, These great aspiring spirits, that should be wise: . . . . . . . . For being the nature of great spirits to love To be where they may be most eminent; They, rating of themselves so farre above Us in conceit, with whom they do frequent, Imagine how we wonder and esteeme All that they do or say; which makes them strive To make our admiration more extreme, Which they suppose they cannot, 'less they give Notice of their extreme and highest thoughts. - DANIEL: Tragedy of Philotas.

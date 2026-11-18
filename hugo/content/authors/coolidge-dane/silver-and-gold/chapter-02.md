@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Big Boy"
 weight: 3
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/chapter-02.html"
+url: "/authors/coolidge-dane/silver-and-gold/chapter-02.html"
 ---
 
 He was a big, fair-haired boy, blue-eyed and clean limbed, and as he came down the trail there was a spring to his step that not even a limp could obliterate; and at every stride the great muscles in his chest played and rippled beneath his shirt. He was a fine figure of a man, tall and straight as an Apollo, and yet he was a hobo. Never before had Bunker Hill seen a better built man or one more open-faced and frank, but he came down the trail with the familiar hobo-limp and Bunker set his jaws and waited. It was such men as this, young and strong and full of blood, who had kept him poor for years. Hobo miners, the most expert of their craft, and begging their grub on the trail!

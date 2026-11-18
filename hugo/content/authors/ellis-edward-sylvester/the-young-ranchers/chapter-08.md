@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Starcus"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-08.html"
 ---
 
 Warren Starr was terrified for the moment by the peril of his companion. While running toward him he saw the grizzly rise partly on his haunches to seize Tim, who was within his grasp, but at that instant the brute toppled over, and with one or two struggles was dead.

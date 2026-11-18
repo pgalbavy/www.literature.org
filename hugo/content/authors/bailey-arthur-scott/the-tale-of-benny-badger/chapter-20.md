@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Rancher Is Angry"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-20.html"
 ---
 
 Benny Badger lay motionless, with his long hair parted along the middle of his back and flowing off his sides in such a fashion that a careless passer-by would not have noticed that it was anything more than dry grass.

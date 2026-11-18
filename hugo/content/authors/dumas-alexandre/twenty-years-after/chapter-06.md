@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - D'artagnan In His Fortieth Year"
 weight: 6
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-06.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-06.html"
 ---
 
 Years have elapsed, many events have happened, alas! since, in our romance of "The Three Musketeers," we took leave of D'Artagnan at No. 12 Rue des Fossoyeurs. D'Artagnan had not failed in his career, but circumstances had been adverse to him. So long as he was surrounded by his friends he retained his youth and the poetry of his character. He was one of those fine, ingenuous natures which assimilate themselves easily to the dispositions of others. Athos imparted to him his greatness of soul, Porthos his enthusiasm, Aramis his elegance. Had D'Artagnan continued his intimacy with these three men he would have become a superior character. Athos was the first to leave him, in order that he might retire to a little property he had inherited near Blois; Porthos, the second, to marry an attorney's wife; and lastly, Aramis, the third, to take orders and become an abbe. From that day D'Artagnan felt lonely and powerless, without courage to pursue a career in which he could only distinguish himself on condition that each of his three companions should endow him with one of the gifts each had received from Heaven.

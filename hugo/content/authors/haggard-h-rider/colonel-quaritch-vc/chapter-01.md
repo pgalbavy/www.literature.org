@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Harold Quaritch Meditates"
 weight: 1
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-01.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-01.html"
 ---
 
 There are things and there are faces which, when felt or seen for the first time, stamp themselves upon the mind like a sun image on a sensitized plate and there remain unalterably fixed. To take the instance of a face--we may never see it again, or it may become the companion of our life, but there the picture is just as we first knew it, the same smile or frown, the same look, unvarying and unvariable, reminding us in the midst of change of the indestructible nature of every experience, act, and aspect of our days. For that which has been, is, since the past knows no corruption, but lives eternally in its frozen and completed self.

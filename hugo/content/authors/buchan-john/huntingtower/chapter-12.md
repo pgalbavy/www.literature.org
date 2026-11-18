@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - How Mr. Mccunn Committed An Assault Upon An Ally"
 weight: 13
-aliases:
-  - "/authors/buchan-john/huntingtower/chapter-12.html"
+url: "/authors/buchan-john/huntingtower/chapter-12.html"
 ---
 
 Dickson always maintained that his senses did not leave him for more than a second or two, but he admitted that he did not remember very clearly the events of the next few hours. He was conscious of a bad pain above his eyes, and something wet trickling down his cheek. There was a perpetual sound of water in his ears and of men's voices. He found himself dropped roughly on the ground and forced to walk, and was aware that his legs were inclined to wobble. Somebody had a grip on each arm, so that he could not defend his face from the brambles, and that worried him, for his whole head seemed one aching bruise and he dreaded anything touching it. But all the time he did not open his mouth, for silence was the one duty that his muddled wits enforced. He felt that he was not the master of his mind, and he dreaded what he might disclose if he began to babble.

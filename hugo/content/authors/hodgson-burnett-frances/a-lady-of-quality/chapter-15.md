@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - In Which Sir John Oxon Finds Again A Trophy He Had Lost"
 weight: 16
-aliases:
-  - "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-15.html"
+url: "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-15.html"
 ---
 
 His Grace of Osmonde went back to France to complete his business, and all the world knew that when he returned to England 'twould be to make his preparations for his marriage with my Lady Dunstanwolde. It was a marriage not long to be postponed, and her ladyship herself was known already to be engaged with lacemen, linen-drapers, toyshop women, and goldsmiths. Mercers awaited upon her at her house, accompanied by their attendants, bearing burdens of brocades and silks, and splendid stuffs of all sorts. Her chariot was to be seen standing before their shops, and the interest in her purchases was so great that fashionable beauties would contrive to visit the counters at the same hours as herself, so that they might catch glimpses of what she chose. In her own great house all was repressed excitement; her women were enraptured at being allowed the mere handling and laying away of the glories of her wardrobe; the lacqueys held themselves with greater state, knowing that they were soon to be a duke's servants; her little black Nero strutted about, his turban set upon his pate with a majestic cock, and disdained to enter into battle with such pages of his own colour as wore only silver collars, he feeling assured that his own would soon be of gold.

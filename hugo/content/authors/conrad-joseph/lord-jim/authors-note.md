@@ -1,8 +1,7 @@
 ---
 title: "Author's Note"
 weight: 1
-aliases:
-  - "/authors/conrad-joseph/lord-jim/authors-note.html"
+url: "/authors/conrad-joseph/lord-jim/authors-note.html"
 ---
 
 The Project Gutenberg EBook of Lord Jim, by Joseph Conrad

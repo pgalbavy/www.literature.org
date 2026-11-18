@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Chunky Falls Overboard"
 weight: 9
-aliases:
-  - "/authors/barnum-richard/chunky-the-happy-hippo/chapter-09.html"
+url: "/authors/barnum-richard/chunky-the-happy-hippo/chapter-09.html"
 ---
 
 The storm was a very hard one, and it tossed the ship, large as she was, up and down and sidewise. Sometimes it seemed as if the steamer would go entirely down under the water, and again it seemed as if she would be tossed up to the angry clouds that blew along so fast overhead. The wind blew the rain so hard that the water drops sounded like hail stones.

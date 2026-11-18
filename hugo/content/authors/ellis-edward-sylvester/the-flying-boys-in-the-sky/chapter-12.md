@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Peaceful Overtures Fail"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-12.html"
 ---
 
 The revolution of the propeller of course started the engine, with such a terrific outburst of noise that Bill instinctively drew back a pace or two. In an instant the blades were spinning round with tremendous velocity, and the aeroplane began moving over the ground with fast increasing speed.

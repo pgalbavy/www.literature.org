@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-20.html"
+url: "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-20.html"
 ---
 
 It was still dark when the Hon. Morison Baynes set forth for the trysting place. He insisted upon having a guide, saying that he was not sure that he could find his way back to the little clearing. As a matter of fact the thought of that lonely ride through the darkness before the sun rose had been too much for his courage, and he craved company. A black, therefore, preceded him on foot. Behind and above him came Korak, whom the noise in the camp had awakened.

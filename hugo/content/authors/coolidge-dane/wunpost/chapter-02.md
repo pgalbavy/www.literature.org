@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Gateway Of Dreams"
 weight: 2
-aliases:
-  - "/authors/coolidge-dane/wunpost/chapter-02.html"
+url: "/authors/coolidge-dane/wunpost/chapter-02.html"
 ---
 
 Standing alone in the desert, with her face bared to the moonlight and her curls shaken free to the wind, Wilhelmina smiled softly as she gazed after the stranger who already had won her heart. His language had been crude when he thought she was a boy, but that only proved the perfection of her disguise; and when she had asked if it made any difference, and confessed that she was a girl, he had bridged over the gap like a flash. "Hell--no!" he had said, as men oftentimes do to express the heartiest accord; and then he had added, with the gallantry due a lady, that Wilhelmina was a right pretty name. And tomorrow, as soon as he had staked out his claim--their claim--he was coming back to the ranch!

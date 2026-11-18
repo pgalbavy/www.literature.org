@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38"
 weight: 38
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-38.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-38.html"
 ---
 
 The two women were alone in the morning-room of Lady Carey's house in Pont Street. Lucille was walking restlessly up and down twisting her handkerchief between her fingers. Lady Carey was watching her, more composed, to all outward appearance, but with closely compressed lips, and boding gleam in her eyes.

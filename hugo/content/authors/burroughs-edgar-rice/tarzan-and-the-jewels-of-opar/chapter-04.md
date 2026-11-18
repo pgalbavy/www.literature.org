@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-04.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-04.html"
 ---
 
 Then Tarzan turned his attention to the man. He had not slain Numa to save the Negro--he had merely done it in revenge upon the lion; but now that he saw the old man lying helpless and dying before him something akin to pity touched his savage heart. In his youth he would have slain the witch-doctor without the slightest compunction; but civilization had had its softening effect upon him even as it does upon the nations and races which it touches, though it had not yet gone far enough with Tarzan to render him either cowardly or effeminate. He saw an old man suffering and dying, and he stooped and felt of his wounds and stanched the flow of blood.

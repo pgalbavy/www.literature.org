@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/ridge-w-pett/e-r-b/chapter-14.html"
+url: "/authors/ridge-w-pett/e-r-b/chapter-14.html"
 ---
 
 THE weeks had hurried rapidly, more rapidly than usual, for they were pressed with business. The trial at the Central Criminal Court was over, after a hearing that struck Erb as being surprisingly brief, in view of the importance of the case; immediately on the conclusion of the evidence, and the speeches of counsel, the Recorder, from his scarlet-cushioned seat, where he had a robed Alderman and a knee-breeched Under Sheriff for company, had fined him, courteously and pleasantly, the sum of fifty pounds, or in default two months’ imprisonment. The shortness of the trial rendered an organised demonstration of little value in that the men arrived outside the Old Bailey some three hours after the case had been disposed of. Now there is nothing more galling to the Londoner than to be disappointed in his anticipations of a show, and it had required all Erb’s tact and more than his usual amiability to appease them.

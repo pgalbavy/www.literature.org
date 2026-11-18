@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 12 - A Royal Burial"
 weight: 30
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-12.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-12.html"
 ---
 
 The next day, May 29th, the city of Kazounde presented a strange aspect. The natives, terrified, kept themselves shut up in their huts. They had never seen a king, who said he was of divine essence, nor a simple minister, die of this horrible death. They had already burned some of their fellow-beings, and the oldest could not forget certain culinary preparations relating to cannibalism.

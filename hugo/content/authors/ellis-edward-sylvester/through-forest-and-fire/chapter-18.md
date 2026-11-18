@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - A Quail"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-18.html"
 ---
 
 As the hound belonged to Sam Harper and showed a disposition to go with him, he was allowed to do so, the lad moving off to the right and Nick Ribsam to the left, as was agreed upon.

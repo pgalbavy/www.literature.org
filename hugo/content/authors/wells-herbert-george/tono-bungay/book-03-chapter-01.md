@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 1 - The Hardingham Hotel, And How We Became Big People"
 weight: 8
-aliases:
-  - "/authors/wells-herbert-george/tono-bungay/book-03-chapter-01.html"
+url: "/authors/wells-herbert-george/tono-bungay/book-03-chapter-01.html"
 ---
 
 I

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/collins-wilkie/the-haunted-hotel/chapter-09.html"
+url: "/authors/collins-wilkie/the-haunted-hotel/chapter-09.html"
 ---
 
 'Now, my good creature, whatever you have to say to me, out with it at once! I don't want to hurry you needlessly; but these are business hours, and I have other people's affairs to attend to besides yours.'

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Shocking Manners"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-22.html"
 ---
 
 Jolly Robin tried his best to rouse Willie Whip-poor-will out of his daytime nap. But he had to admit to himself at last that his efforts were in vain. It was plain that Willie was too sleepy to understand what was said to him. And as for his learning a new song when he was in that condition, that was entirely out of the question.

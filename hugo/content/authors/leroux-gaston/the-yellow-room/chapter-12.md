@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Frederic Larsan’s Cane"
 weight: 12
-aliases:
-  - "/authors/leroux-gaston/the-yellow-room/chapter-12.html"
+url: "/authors/leroux-gaston/the-yellow-room/chapter-12.html"
 ---
 
 It was not till six o’clock that I left the chateau, taking with me the article hastily written by my friend in the little sitting-room which Monsieur Robert Darzac had placed at our disposal. The reporter was to sleep at the chateau, taking advantage of the to me inexplicable hospitality offered him by Monsieur Robert Darzac, to whom Monsieur Stangerson, in that sad time, left the care of all his domestic affairs. Nevertheless he insisted on accompanying me to the station at Epinay. In crossing the park, he said to me:

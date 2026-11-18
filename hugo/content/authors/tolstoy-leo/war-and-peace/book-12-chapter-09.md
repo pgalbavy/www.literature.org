@@ -1,8 +1,7 @@
 ---
 title: "Book 12 - Chapter 9"
 weight: 272
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-12-chapter-09.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-12-chapter-09.html"
 ---
 
 The officer and soldiers who had arrested Pierre treated him with hostility but yet with respect, in the guardhouse to which he was taken. In their attitude toward him could still be felt both uncertainty as to who he might be- perhaps a very important person- and hostility as a result of their recent personal conflict with him.

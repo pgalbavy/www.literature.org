@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 36
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-36.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-36.html"
 ---
 
 Fred Godfrey, as may well be supposed, was amazed at the words of Habakkuk McEwen, but he believed the fellow was simply descending to this subterfuge in the hope of saving his life.

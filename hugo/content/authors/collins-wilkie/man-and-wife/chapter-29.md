@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Anne Among The Lawyers"
 weight: 31
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-29.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-29.html"
 ---
 
 ON the day when Sir Patrick received the second of the two telegrams sent to him from Edinburgh, four respectable inhabitants of the City of Glasgow were startled by the appearance of an object of interest on the monotonous horizon of their daily lives.

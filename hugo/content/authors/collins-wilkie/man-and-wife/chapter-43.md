@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43 - The Explosion"
 weight: 45
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-43.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-43.html"
 ---
 
 ARNOLD'S mind was far from easy when he was left by himself again in the smoking-room.

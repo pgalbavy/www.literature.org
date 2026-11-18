@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 5"
 weight: 42
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-04-chapter-05.html"
+url: "/authors/cather-willa/song-of-the-lark/part-04-chapter-05.html"
 ---
 
 ONE Sunday afternoon late in July old Henry Biltmer was rheumatically descending into the head of the canyon. The Sunday before had been one of those cloudy days--fortunately rare--when the life goes out of that country and it becomes a gray ghost, an empty, shivering uncertainty. Henry had spent the day in the barn; his canyon was a reality only when it was flooded with the light of its great lamp, when the yellow rocks cast purple shadows, and the resin was fairly cooking in the corkscrew cedars. The yuccas were in blossom now. Out of each clump of sharp bayonet leaves rose a tall stalk hung with greenish-white bells with thick, fleshy petals. The niggerhead cactus was thrusting its crimson blooms up out of every crevice in the rocks.

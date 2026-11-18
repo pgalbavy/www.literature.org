@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/eliot-george/silas-marner/chapter-13.html"
+url: "/authors/eliot-george/silas-marner/chapter-13.html"
 ---
 
 It was after the early supper-time at the Red House, and the entertainment was in that stage when bashfulness itself had passed into easy jollity, when gentlemen, conscious of unusual accomplishments, could at length be prevailed on to dance a hornpipe, and when the Squire preferred talking loudly, scattering snuff, and patting his visitors' backs, to sitting longer at the whist-table - a choice exasperating to uncle Kimble, who, being always volatile in sober business hours, became intense and bitter over cards and brandy, shuffled before his adversary's deal with a glare of suspicion, and turned up a mean trump-card with an air of inexpressible disgust, as if in a world where such things could happen one might as well enter on a course of reckless profligacy. When the evening had advanced to this pitch of freedom and enjoyment, it was usual for the servants, the heavy duties of supper being well over, to get their share of amusement by coming to look on at the dancing; so that the back regions of the house were left in solitude.

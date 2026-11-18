@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Bull Whip"
 weight: 7
-aliases:
-  - "/authors/burroughs-edgar-rice/the-monster-men/chapter-07.html"
+url: "/authors/burroughs-edgar-rice/the-monster-men/chapter-07.html"
 ---
 
 As von Horn and Virginia Maxon walked slowly beneath the dense shadows of the jungle he again renewed his suit. It would please him more to have the girl accompany him voluntarily than to be compelled to take her by force, but take her he would one way or another, and that, this very night, for all the plans were made and already under way.

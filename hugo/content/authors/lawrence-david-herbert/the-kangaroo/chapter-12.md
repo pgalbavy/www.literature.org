@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Nightmare"
 weight: 12
-aliases:
-  - "/authors/lawrence-david-herbert/the-kangaroo/chapter-12.html"
+url: "/authors/lawrence-david-herbert/the-kangaroo/chapter-12.html"
 ---
 
 He had known such different deep fears. In Sicily, a sudden fear, in the night of some single murderer, some single thing hovering as it were out of the violent past, with the intent of murder. Out of the old Greek past, that had been so vivid, sometimes an unappeased spirit of murderous-hate against the usurping moderns. A sudden presence of murder in the air, because of something which the modern psyche had excluded, some old and vital thing which Christianity has cut out. An old spirit, waiting for vengeance. But in England, during the later years of the war, a true and deadly fear of the criminal LIVING spirit which arose in all the stay-at-home bullies who governed the country during those years. From 1916 to 1919 a wave of criminal lust rose and possessed England, there was a reign of terror, under a set of indecent bullies like Bottomley of John Bull and other bottom-dog members of the House of Commons. Then Somers had known what it was to live in a perpetual state of semi-fear: the fear of the criminal public and the criminal government. The torture was steadily applied, during those years after Asquith fell, to break the independent soul in any man who would not hunt with the criminal mob. A man must identify himself with the criminal mob, sink his sense of truth, of justice, and of human honour, and bay like some horrible unclean hound, bay with a loud sound, from slavering, unclean jaws.

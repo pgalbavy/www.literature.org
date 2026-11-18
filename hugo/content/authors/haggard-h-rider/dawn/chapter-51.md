@@ -1,8 +1,7 @@
 ---
 title: "Chapter 51"
 weight: 52
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-51.html"
+url: "/authors/haggard-h-rider/dawn/chapter-51.html"
 ---
 
 On one point, however, Angela's efforts failed completely; she could make no headway with her father. He shrank more than ever from her society, and at last asked her to oblige him by allowing him to follow his own path in peace. Of Arthur's death he had never spoken to her, or she to him, but she knew that he had heard of it.

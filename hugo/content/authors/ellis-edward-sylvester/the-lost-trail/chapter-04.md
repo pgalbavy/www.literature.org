@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Visitor From The Other Shore"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-04.html"
 ---
 
 Jack Carleton and Otto Relstaub saw the twinkling point of light, glowing like a star from the bank of darkness on the other side the Mississippi. It shone for a minute with an intense brightness, and then, to their amazement, began revolving in a circle of a foot or more in diameter. It sped round and round with such swiftness that it resembled a wheel of fire without the slightest break in the flaming periphery.

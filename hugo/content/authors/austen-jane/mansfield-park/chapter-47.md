@@ -1,8 +1,7 @@
 ---
 title: "Chapter 47"
 weight: 47
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-47.html"
+url: "/authors/austen-jane/mansfield-park/chapter-47.html"
 ---
 
 It had been a miserable party, each of the three believing themselves most miserable. Mrs. Norris, however, as most attached to Maria, was really the greatest sufferer. Maria was her first favourite, the dearest of all; the match had been her own contriving, as she had been wont with such pride of heart to feel and say, and this conclusion of it almost overpowered her.

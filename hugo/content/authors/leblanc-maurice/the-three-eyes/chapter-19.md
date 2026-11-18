@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Formula"
 weight: 19
-aliases:
-  - "/authors/leblanc-maurice/the-three-eyes/chapter-19.html"
+url: "/authors/leblanc-maurice/the-three-eyes/chapter-19.html"
 ---
 
 Velmot dead, Bérangère alive: the joy of it! The sudden sense of security! This time, the evil adventure was over, since the girl whom I loved had nothing more to fear. And my thoughts at once harked back to Noël Dorgeroux: the formula in which the great secret was summed up was saved. With the clues and the means of action which existed elsewhere, mankind was now in a position to continue my uncle's work.

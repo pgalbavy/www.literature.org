@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Two Meet In The Deserted Rose Garden, And The Old Earl Of Dunstanwolde Is Made A Happy Man"
 weight: 9
-aliases:
-  - "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-08.html"
+url: "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-08.html"
 ---
 
 It was not until three days later, instead of two, that Sir John Oxon rode into the courtyard with his servant behind him. He had been detained on his journey, but looked as if his impatience had not caused him to suffer, for he wore his finest air of spirit and beauty, and when he was alone with Sir Jeoffry, made his compliments to the absent ladies, and inquired of their health with his best town grace.

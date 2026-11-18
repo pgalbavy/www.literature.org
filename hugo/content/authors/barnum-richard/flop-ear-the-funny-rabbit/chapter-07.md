@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Flop Ear Gets Away"
 weight: 7
-aliases:
-  - "/authors/barnum-richard/flop-ear-the-funny-rabbit/chapter-07.html"
+url: "/authors/barnum-richard/flop-ear-the-funny-rabbit/chapter-07.html"
 ---
 
 For two or three days Jimmie made Flop Ear do, over and over again, the first two tricks――those of jumping through the barrel hoop, and standing up with a piece of carrot on his nose. The rabbit did not mind doing them, for he was getting to like the boy, because he was very kind and good.

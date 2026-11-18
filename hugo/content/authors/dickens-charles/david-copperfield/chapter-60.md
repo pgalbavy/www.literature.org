@@ -1,8 +1,7 @@
 ---
 title: "Chapter 60 - Agnes"
 weight: 61
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-60.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-60.html"
 ---
 
 My aunt and I, when we were left alone, talked far into the night. How the emigrants never wrote home, otherwise than cheerfully and hopefully; how Mr. Micawber had actually remitted divers small sums of money, on account of those ‘pecuniary liabilities’, in reference to which he had been so business-like as between man and man; how Janet, returning into my aunt’s service when she came back to Dover, had finally carried out her renunciation of mankind by entering into wedlock with a thriving tavern-keeper; and how my aunt had finally set her seal on the same great principle, by aiding and abetting the bride, and crowning the marriage-ceremony with her presence; were among our topics--already more or less familiar to me through the letters I had had. Mr. Dick, as usual, was not forgotten. My aunt informed me how he incessantly occupied himself in copying everything he could lay his hands on, and kept King Charles the First at a respectful distance by that semblance of employment; how it was one of the main joys and rewards of her life that he was free and happy, instead of pining in monotonous restraint; and how (as a novel general conclusion) nobody but she could ever fully know what he was.

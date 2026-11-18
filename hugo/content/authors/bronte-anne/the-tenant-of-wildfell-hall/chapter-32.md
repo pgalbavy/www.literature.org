@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 33
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-32.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-32.html"
 ---
 
 October 5th. - Esther Hargrave is getting a fine girl. She is not out of the school-room yet, but her mother frequently brings her over to call in the mornings when the gentlemen are out, and sometimes she spends an hour or two in company with her sister and me, and the children; and when we go to the Grove, I always contrive to see her, and talk more to her than to any one else, for I am very much attached to my little friend, and so is she to me. I wonder what she can see to like in me though, for I am no longer the happy, lively girl I used to be; but she has no other society, save that of her uncongenial mother, and her governess (as artificial and conventional a person as that prudent mother could procure to rectify the pupil's natural qualities), and, now and then, her subdued, quiet sister. I often wonder what will be her lot in life, and so does she; but her speculations on the future are full of buoyant hope; so were mine once. I shudder to think of her being awakened, like me, to a sense of their delusive vanity. It seems as if I should feel her disappointment, even more deeply than my own. I feel almost as if I were born for such a fate, but she is so joyous and fresh, so light of heart and free of spirit, and so guileless and unsuspecting too. Oh, it would be cruel to make her feel as I feel now, and know what I have known!

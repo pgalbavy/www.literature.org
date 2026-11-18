@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Toreador Becomes Ambassador"
 weight: 15
-aliases:
-  - "/authors/buck-charles-neville/the-lighted-match/chapter-15.html"
+url: "/authors/buck-charles-neville/the-lighted-match/chapter-15.html"
 ---
 
 Manuel Blanco was ubiquitous during the first days following the coronation. He listened to the fragments of talk that drifted along the streets. He frequented the band concerts in the Public Gardens and drank native vintages in the wine-shops. He elbowed his way naïvely into chattering groups with his ears primed for a careless word. Nowhere did he catch a note hinting of intrigue or danger. It seemed a sound conclusion that if the plotters had not entirely surrendered their project for switching Kings in Galavia, their conspiracies were being once more fomented on foreign soil, just as the first plan had been incubated in Cadiz.

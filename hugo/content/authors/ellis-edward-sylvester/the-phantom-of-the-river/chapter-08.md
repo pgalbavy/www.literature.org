@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - By The Way"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-08.html"
 ---
 
 Meanwhile, the families of the settlers and their escorts were not idle.

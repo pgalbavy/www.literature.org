@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-17.html"
+url: "/authors/london-jack/john-barleycorn/chapter-17.html"
 ---
 
 North we raced from the Bonin Islands to pick up the seal-herd, and north we hunted it for a hundred days into frosty, mitten weather and into and through vast fogs which hid the sun from us for a week at a time. It was wild and heavy work, without a drink or thought of drink. Then we sailed south to Yokohama, with a big catch of skins in our salt and a heavy pay-day coming.

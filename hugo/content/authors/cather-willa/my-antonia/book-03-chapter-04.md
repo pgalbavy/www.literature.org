@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 4"
 weight: 39
-aliases:
-  - "/authors/cather-willa/my-antonia/book-03-chapter-04.html"
+url: "/authors/cather-willa/my-antonia/book-03-chapter-04.html"
 ---
 
 HOW WELL I REMEMBER the stiff little parlour where I used to wait for Lena: the hard horsehair furniture, bought at some auction sale, the long mirror, the fashion-plates on the wall. If I sat down even for a moment, I was sure to find threads and bits of coloured silk clinging to my clothes after I went away. Lena’s success puzzled me. She was so easygoing; had none of the push and self-assertiveness that get people ahead in business. She had come to Lincoln, a country girl, with no introductions except to some cousins of Mrs. Thomas who lived there, and she was already making clothes for the women of ‘the young married set.’ Evidently she had great natural aptitude for her work. She knew, as she said, ‘what people looked well in.’ She never tired of poring over fashion-books. Sometimes in the evening I would find her alone in her work-room, draping folds of satin on a wire figure, with a quite blissful expression of countenance. I couldn’t help thinking that the years when Lena literally hadn’t enough clothes to cover herself might have something to do with her untiring interest in dressing the human figure. Her clients said that Lena ‘had style,’ and overlooked her habitual inaccuracies. She never, I discovered, finished anything by the time she had promised, and she frequently spent more money on materials than her customer had authorized. Once, when I arrived at six o’clock, Lena was ushering out a fidgety mother and her awkward, overgrown daughter. The woman detained Lena at the door to say apologetically:

@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 5"
 weight: 39
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-06-chapter-05.html"
+url: "/authors/conrad-joseph/the-rescue/part-06-chapter-05.html"
 ---
 
 D'Alcacer sat down on the bench again. "I wonder what she knows," he thought, "and I wonder what I have done." He wondered also how far he had been sincere and how far affected by a very natural aversion from being murdered obscurely by ferocious Moors with all the circumstances of barbarity. It was a very naked death to come upon one suddenly. It was robbed of all helpful illusions, such as the free will of a suicide, the heroism of a warrior, or the exaltation of a martyr. "Hadn't I better make some sort of fight of it?" he debated with himself. He saw himself rushing at the naked spears without any enthusiasm. Or wouldn't it be better to go forth to meet his doom (somewhere outside the stockade on that horrible beach) with calm dignity. "Pah! I shall be probably speared through the back in the beastliest possible fashion," he thought with an inward shudder. It was certainly not a shudder of fear, for Mr. d'Alcacer attached no high value to life. It was a shudder of disgust because Mr. d'Alcacer was a civilized man and though he had no illusions about civilization he could not but admit the superiority of its methods. It offered to one a certain refinement of form, a comeliness of proceedings and definite safeguards against deadly surprises. "How idle all this is," he thought, finally. His next thought was that women were very resourceful. It was true, he went on meditating with unwonted cynicism, that strictly speaking they had only one resource but, generally, it served—it served.

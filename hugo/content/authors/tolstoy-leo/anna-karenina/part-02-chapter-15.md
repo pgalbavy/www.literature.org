@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 15"
 weight: 49
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-15.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-15.html"
 ---
 
 The place fixed on for the stand-shooting was not far above a stream in a little aspen copse. On reachng the copse, Levin got out of the trap and led Oblonsky to a corner of a mossy, swampy glade, already quite free from snow. He went back himself to a double birch tree on the other side, and leaning hs gun on the fork of a dead lower branch, he took off his full overcoat, fastened his belt again, and worked his arms to see if they were free.

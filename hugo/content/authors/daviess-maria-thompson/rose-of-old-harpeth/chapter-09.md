@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Exodus"
 weight: 9
-aliases:
-  - "/authors/daviess-maria-thompson/rose-of-old-harpeth/chapter-09.html"
+url: "/authors/daviess-maria-thompson/rose-of-old-harpeth/chapter-09.html"
 ---
 
 "Well, it just amounts to the whole of Sweetbriar a-rising up and declaring of a war on Gid Newsome, and I for one want to march in the front ranks and tote a blunderbuss what I couldn't hit nothing smaller than a barn door with if I waster try," exclaimed Mrs. Rucker as she waited at the store for a package Mr. Crabtree was wrapping for her.

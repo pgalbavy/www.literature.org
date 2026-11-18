@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 22
-aliases:
-  - "/authors/baum-l-frank/tik-tok-of-oz/chapter-21.html"
+url: "/authors/baum-l-frank/tik-tok-of-oz/chapter-21.html"
 ---
 
 With fast beating hearts they all rushed forward and, beyond a group of stately metal trees, came full upon a most astonishing scene.

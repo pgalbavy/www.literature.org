@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Man In Trouble"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/the-frontier-angel/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/the-frontier-angel/chapter-08.html"
 ---
 
 *DINGLE* waited in the wood until morning, searching and signaling for Jenkins, but without success. He hoped at first that he had made his escape; but he was compelled, after carefully watching the village for a long time, to the belief that he had been captured. In fact, it was a certainty with the ranger. He understood the actions of the Shawnees well enough to be satisfied upon that point.

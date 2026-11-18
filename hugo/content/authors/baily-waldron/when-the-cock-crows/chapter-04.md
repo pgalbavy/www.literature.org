@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Under The After Awning"
 weight: 4
-aliases:
-  - "/authors/baily-waldron/when-the-cock-crows/chapter-04.html"
+url: "/authors/baily-waldron/when-the-cock-crows/chapter-04.html"
 ---
 
 Sidewalks along Fifth Avenue were packed with persons of all nationalities, representatives of every variety of industrial activity in the life of the City. There was a reviewing stand erected in front of the massive library that displayed its lines of architectural beauty in place of the sloping, age-gray walls of the old reservoir at Bryant Square. City officials and families of officers in the troops soon to pass were assembled there to witness this march of soldiers on their way to entrain for the Mexican border. They were filled with the zeal of patriots, because their comrades had been foully killed on that same border by a treacherous foe, and they were being sent to avenge that insult against the life and dignity of their nation.

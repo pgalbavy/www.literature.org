@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Tinkle Is Happy"
 weight: 12
-aliases:
-  - "/authors/barnum-richard/tinkle-the-trick-pony/chapter-12.html"
+url: "/authors/barnum-richard/tinkle-the-trick-pony/chapter-12.html"
 ---
 
 Mappo, the merry monkey, picked up a long, clean straw and put it in his mouth, almost as a man might do with a toothpick. Mappo sat chewing on the straw and looking at Tinkle.

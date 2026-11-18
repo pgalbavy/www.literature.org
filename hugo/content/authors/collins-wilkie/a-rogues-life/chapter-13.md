@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 14
-aliases:
-  - "/authors/collins-wilkie/a-rogues-life/chapter-13.html"
+url: "/authors/collins-wilkie/a-rogues-life/chapter-13.html"
 ---
 
 SECURE as I tried to feel in my change of costume, my cropped hair, and my whiskerless cheeks, I kept well away from the coach-window, when the dinner at the inn was over and the passengers were called to take their places again. Thus far--thanks to the strength of my grasp on his neck, which had left him too weak to be an outside passenger--Screw had certainly not seen me; and, if I played my cards properly, there was no reason why he should see me before we got to our destination.

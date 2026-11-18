@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Caught!"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-07.html"
 ---
 
 There was a good deal of giggling and loud whispering at the back door of the barn. It ceased instantly when Farmer Green cried "Stop that!" in a loud voice.

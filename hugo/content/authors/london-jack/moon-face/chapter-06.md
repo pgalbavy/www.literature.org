@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Shadow And The Flash"
 weight: 6
-aliases:
-  - "/authors/london-jack/moon-face/chapter-06.html"
+url: "/authors/london-jack/moon-face/chapter-06.html"
 ---
 
 WHEN I look back, I realize what a peculiar friendship it was. First, there was Lloyd Inwood, tall, slender, and finely knit, nervous and dark. And then Paul Tichlorne, tall, slender, and finely knit, nervous and blond. Each was the replica of the other in everything except color. Lloyd's eyes were black; Paul's were blue. Under stress of excitement, the blood coursed olive in the face of Lloyd, crimson in the face of Paul. But outside this matter of coloring they were as like as two peas. Both were high-strung, prone to excessive tension and endurance, and they lived at concert pitch.

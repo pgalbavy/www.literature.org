@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Julius Tells A Story"
 weight: 12
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/chapter-11.html"
+url: "/authors/christie-agatha/the-secret-adversary/chapter-11.html"
 ---
 
 *DRESSED* appropriately, Tuppence duly sallied forth for her "afternoon out." Albert was in temporary abeyance, but Tuppence went herself to the stationer’s to make quite sure that nothing had come for her. Satisfied on this point, she made her way to the *Ritz*. On inquiry she learnt that Tommy had not yet returned. It was the answer she had expected, but it was another nail in the coffin of her hopes. She resolved to appeal to Mr. Carter, telling him when and where Tommy had started on his quest, and asking him to do something to trace him. The prospect of his aid revived her mercurial spirits, and she next inquired for Julius Hersheimmer. The reply she got was to the effect that he had returned about half an hour ago, but had gone out immediately.

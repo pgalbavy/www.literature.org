@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - An Odd Thought"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-14.html"
 ---
 
 "Umph! Umph!"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/coolidge-dane/the-desert-trail/chapter-18.html"
+url: "/authors/coolidge-dane/the-desert-trail/chapter-18.html"
 ---
 
 A month of weary waiting followed that day of days in Fortuna, and still there was no word from Phil. Bernardo Bravo and his rebel raiders passed through the mountains to the east, and news came of heavy fighting in Chihuahua. Don Cipriano Aragon moved his family back to his hacienda and Gracia became only a dream.

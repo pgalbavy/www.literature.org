@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-28.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-28.html"
 ---
 
 "Il est plus aisé de connoître l'homme en général que de connoître un homme en particulier. - LA ROCHEFOUCAULD."

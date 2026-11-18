@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/eliot-george/silas-marner/chapter-21.html"
+url: "/authors/eliot-george/silas-marner/chapter-21.html"
 ---
 
 The next morning, when Silas and Eppie were seated at their breakfast, he said to her -

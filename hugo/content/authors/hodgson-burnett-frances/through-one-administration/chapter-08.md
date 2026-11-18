@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-08.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-08.html"
 ---
 
 When Tredennis rose to take his leave, the professor rose also.

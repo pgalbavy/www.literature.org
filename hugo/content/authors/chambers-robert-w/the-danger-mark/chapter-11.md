@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Fête Galante"
 weight: 11
-aliases:
-  - "/authors/chambers-robert-w/the-danger-mark/chapter-11.html"
+url: "/authors/chambers-robert-w/the-danger-mark/chapter-11.html"
 ---
 
 The forest, in every direction, was strung with lighted lanterns; tall torches burning edged the Gray Water, and every flame rippled straight upward in the still air.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Surprises"
 weight: 23
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-23.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-23.html"
 ---
 
 Fifteen minutes later a small boat, rowed smartly by six sailors in white canvas, came alongside the 'midships ladder of the Nettie B. At a word from the officer the six oars rose as one vertically into the air, and the bowman staved off the cutter so that she brought up without a scratch.

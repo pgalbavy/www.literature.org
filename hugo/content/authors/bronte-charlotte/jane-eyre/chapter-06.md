@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/bronte-charlotte/jane-eyre/chapter-06.html"
+url: "/authors/bronte-charlotte/jane-eyre/chapter-06.html"
 ---
 
 The next day commenced as before, getting up and dressing by rushlight; but this morning we were obliged to dispense with the ceremony of washing; the water in the pitchers was frozen. A change had taken place in the weather the preceding evening, and a keen north-east wind, whistling through the crevices of our bedroom windows all night long, had made us shiver in our beds, and turned the contents of the ewers to ice.

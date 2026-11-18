@@ -1,8 +1,7 @@
 ---
 title: "Epilogue"
 weight: 69
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/epilogue.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/epilogue.html"
 ---
 
 La Rochelle, deprived of the assistance of the English fleet and of the diversion promised by Buckingham, surrendered after a siege of a year. On the twenty-eighth of October, 1628, the capitulation was signed.

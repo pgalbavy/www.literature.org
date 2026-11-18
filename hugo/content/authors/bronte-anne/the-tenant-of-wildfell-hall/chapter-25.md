@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 26
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-25.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-25.html"
 ---
 
 On the eighth of April we went to London, on the eighth of May I returned, in obedience to Arthur's wish; very much against my own, because I left him behind. If he had come with me, I should have been very glad to get home again, for he led me such a round of restless dissipation while there, that, in that short space of time, I was quite tired out. He seemed bent upon displaying me to his friends and acquaintances in particular, and the public in general, on every possible occasion, and to the greatest possible advantage. It was something to feel that he considered me a worthy object of pride; but I paid dear for the gratification: for, in the first place, to please him I had to violate my cherished predilections, my almost rooted principles in favour of a plain, dark, sober style of dress - I must sparkle in costly jewels and deck myself out like a painted butterfly, just as I had, long since, determined I would never do - and this was no trifling sacrifice; in the second place, I was continually straining to satisfy his sanguine expectations and do honour to his choice by my general conduct and deportment, and fearing to disappoint him by some awkward misdemeanour, or some trait of inexperienced ignorance about the customs of society, especially when I acted the part of hostess, which I was not unfrequently called upon to do; and, in the third place, as I intimated before, I was wearied of the throng and bustle, the restless hurry and ceaseless change of a life so alien to all my previous habits. At last, he suddenly discovered that the London air did not agree with me, and I was languishing for my country home, and must immediately return to Grassdale.

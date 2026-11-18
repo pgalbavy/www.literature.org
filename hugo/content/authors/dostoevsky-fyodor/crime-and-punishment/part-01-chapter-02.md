@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 2"
 weight: 3
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-01-chapter-02.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-01-chapter-02.html"
 ---
 
 Raskolnikov was not used to crowds, and, as we said before, he avoided society of every sort, more especially of late. But now all at once he felt a desire to be with other people. Something new seemed to be taking place within him, and with it he felt a sort of thirst for company. He was so weary after a whole month of concentrated wretchedness and gloomy excitement that he longed to rest, if only for a moment, in some other world, whatever it might be; and, in spite of the filthiness of the surroundings, he was glad now to stay in the tavern.

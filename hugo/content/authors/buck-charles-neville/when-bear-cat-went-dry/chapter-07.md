@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-07.html"
+url: "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-07.html"
 ---
 
 Because Jerry Henderson viewed the life of the hills through understanding eyes, certain paradoxes resolved themselves into the expected. He was not surprised to find under Lone Stacy's rude exterior an innate politeness which was a thing not of formula but of instinct.

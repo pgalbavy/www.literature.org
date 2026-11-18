@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - Discussions And Plans"
 weight: 30
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-30.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-30.html"
 ---
 
 When they reached the camp-fire, it had burned so low that they threw on considerable more wood before sitting down to their lunch. As it flamed up and the cheerful light forced the oppressive gloom back from around them, both felt a corresponding rise in spirits.

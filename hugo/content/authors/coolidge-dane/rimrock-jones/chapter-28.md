@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - A Gift"
 weight: 28
-aliases:
-  - "/authors/coolidge-dane/rimrock-jones/chapter-28.html"
+url: "/authors/coolidge-dane/rimrock-jones/chapter-28.html"
 ---
 
 Mary Fortune was pacing up and down her room in something very like a rage. Her trunk, half-packed, stood against the wall and her pictures lay face down on the bed, and she hovered between laughter and tears. It seemed as if every evil passion in her nature had been stirred up by this desperate affray and in the fierce swirl of emotions her joy in her victory was strangely mingled with rage at Rimrock. After scheming for months to prove her superiority, and arranging every possible detail, she had been cut down in her pride and seen her triumph turned to nothing by his sudden decision to sulk. Just at the very moment when she was preparing to be gracious and give him his precious mine back he had balked like a mule and without sense or reason stormed off on his way to Old Mexico.

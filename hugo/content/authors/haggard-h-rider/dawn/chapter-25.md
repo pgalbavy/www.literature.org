@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 26
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-25.html"
+url: "/authors/haggard-h-rider/dawn/chapter-25.html"
 ---
 
 On the following day the somewhat curious religious conversation between Arthur and Angela--a conversation which, begun on Arthur's part out of curiosity, had ended on both sides very much in earnest-- the weather broke up and the grand old English climate reasserted its treacherous supremacy. From summer weather the inhabitants of the county of Marlshire suddenly found themselves plunged into a spell of cold that was by contrast almost Arctic. Storms of sleet drove against the window-panes, and there was even a very damaging night-frost, while that dreadful scourge, which nobody in his senses except Kingsley can ever have liked, the east wind, literally pervaded the whole place, and went whistling through the surrounding trees and ruins in a way calculated to make even a Laplander shiver.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Not Cured Yet"
 weight: 14
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-13.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-13.html"
 ---
 
 WE visited France, Germany, and Italy; and we were absent from England nearly two years.

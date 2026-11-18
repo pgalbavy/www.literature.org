@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Peace Discovers Some Secrets"
 weight: 16
-aliases:
-  - "/authors/brown-ruth-alberta/heart-of-gold/chapter-16.html"
+url: "/authors/brown-ruth-alberta/heart-of-gold/chapter-16.html"
 ---
 
 Peace was on crutches! And her delight knew no bounds.

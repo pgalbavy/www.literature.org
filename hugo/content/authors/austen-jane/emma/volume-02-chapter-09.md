@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 9"
 weight: 27
-aliases:
-  - "/authors/austen-jane/emma/volume-02-chapter-09.html"
+url: "/authors/austen-jane/emma/volume-02-chapter-09.html"
 ---
 
 Emma did not repent her condescension in going to the Coles. The visit afforded her many pleasant recollections the next day; and all that she might be supposed to have lost on the side of dignified seclusion, must be amply repaid in the splendour of popularity. She must have delighted the Coles--worthy people, who deserved to be made happy!--And left a name behind her that would not soon die away.

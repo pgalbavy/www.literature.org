@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/verne-jules/from-the-earth-to-the-moon/chapter-05.html"
+url: "/authors/verne-jules/from-the-earth-to-the-moon/chapter-05.html"
 ---
 
 An observer endued with an infinite range of vision, and placed in that unknown center around which the entire world revolves, might have beheld myriads of atoms filling all space during the chaotic epoch of the universe. Little by little, as ages went on, a change took place; a general law of attraction manifested itself, to which the hitherto errant atoms became obedient: these atoms combined together chemically according to their affinities, formed themselves into molecules, and composed those nebulous masses with which the depths of the heavens are strewed. These masses became immediately endued with a rotary motion around their own central point. This center, formed of indefinite molecules, began to revolve around its own axis during its gradual condensation; then, following the immutable laws of mechanics, in proportion as its bulk diminished by condensation, its rotary motion became accelerated, and these two effects continuing, the result was the formation of one principal star, the center of the nebulous mass.

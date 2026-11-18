@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Morgan Le Fay"
 weight: 17
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-16.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-16.html"
 ---
 
 IF knights errant were to be believed, not all castles were desirable places to seek hospitality in. As a matter of fact, knights errant were NOT persons to be believed -- that is, measured by modern standards of veracity; yet, measured by the standards of their own time, and scaled accordingly, you got the truth. It was very simple: you discounted a statement ninetyseven per cent.; the rest was fact. Now after making this allowance, the truth remained that if I could find out something about a castle before ringing the doorbell -- I mean hailing the warders -- it was the sensible thing to do. So I was pleased when I saw in the distance a horseman making the bottom turn of the road that wound down from this castle.

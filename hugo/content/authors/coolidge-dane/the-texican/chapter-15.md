@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Revolution In Fact"
 weight: 16
-aliases:
-  - "/authors/coolidge-dane/the-texican/chapter-15.html"
+url: "/authors/coolidge-dane/the-texican/chapter-15.html"
 ---
 
 Outside of the kangarooing of Rubes, the coming and going of prisoners, and such exceptional entertainment as that put up by Pecos Dalhart upon his initiation into the brotherhood, there were only two events a day in the Geronimo jail—breakfast and dinner. Breakfast, as with the French, was served late, and dinner at the hour of four. On account of the caterer being otherwise engaged in the early morning the café-au-lait in bed was dispensed with and déjeuner served promptly at nine. It was a hard-looking aggregation of citizens that crept out of their cells at the clanging of the interlocking gates and there was not a man among them who dared look Pecos in the eye as they slunk down the corridor to wash. Battered in body and cowed in spirit they glanced up at him deprecatingly as he stood with the strap in his hand, and there was no mercy written in the cattle-rustler's scowling visage. These were the men who would have put their heels in his face if he had gone down before their rush—they were cowards and ran in packs, like wolves. They were grafters, too; the slinking, servile slaves of jail alcaldes, yegg sheriffs, and Boone Morgan's swaggering deputies. More than that, they would mob him if he gave them half a chance. So he stood silent, watching them, man after man, and there was not one who could look him in the face.

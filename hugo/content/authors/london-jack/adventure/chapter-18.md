@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Making The Books Come True"
 weight: 18
-aliases:
-  - "/authors/london-jack/adventure/chapter-18.html"
+url: "/authors/london-jack/adventure/chapter-18.html"
 ---
 
 Several quiet weeks slipped by. Berande, after such an unusual run of visiting vessels, drifted back into her old solitude. Sheldon went on with the daily round, clearing bush, planting cocoanuts, smoking copra, building bridges, and riding about his work on the horses Joan had bought. News of her he had none. Recruiting vessels on Malaita left the Poonga-Poonga coast severely alone; and the Clansman, a Samoan recruiter, dropping anchor one sunset for billiards and gossip, reported rumours amongst the Sio natives that there had been fighting at Poonga-Poonga. As this news would have had to travel right across the big island, little dependence was to be placed on it.

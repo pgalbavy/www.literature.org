@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-08.html"
+url: "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-08.html"
 ---
 
 "Well, what next?" inquired Brent blankly.

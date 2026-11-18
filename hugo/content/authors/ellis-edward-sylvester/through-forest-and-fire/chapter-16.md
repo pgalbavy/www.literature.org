@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Dinner In The Woods"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-16.html"
 ---
 
 By this time it was close to the hour of noon, and the young hunters were hungry. They had brought no lunch with them, for that would have been an admission that they doubted their own ability to provide food for themselves in a country abounding with game.

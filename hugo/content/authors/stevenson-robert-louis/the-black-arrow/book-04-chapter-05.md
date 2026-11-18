@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 5 - Earl Risingham"
 weight: 24
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-04-chapter-05.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-04-chapter-05.html"
 ---
 
 Earl Risingham, although by far the most important person then in Shoreby, was poorly lodged in the house of a private gentleman upon the extreme outskirts of the town. Nothing but the armed men at the doors, and the mounted messengers that kept arriving and departing, announced the temporary residence of a great lord.

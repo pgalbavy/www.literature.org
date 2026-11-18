@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - An Heir Is Born"
 weight: 22
-aliases:
-  - "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-21.html"
+url: "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-21.html"
 ---
 
 In a fair tower whose windows looked out upon spreading woods, and rich lovely plains stretching to the freshness of the sea, Mistress Anne had her abode which her duchess sister had given to her for her own living in as she would. There she dwelt and prayed and looked on the new life which so beauteously unfolded itself before her day by day, as the leaves of a great tree unfold from buds and become noble branches, housing birds and their nests, shading the earth and those sheltering beneath them, braving centuries of storms.

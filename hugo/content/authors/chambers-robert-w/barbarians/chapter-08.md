@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - En Observation"
 weight: 8
-aliases:
-  - "/authors/chambers-robert-w/barbarians/chapter-08.html"
+url: "/authors/chambers-robert-w/barbarians/chapter-08.html"
 ---
 
 The incredible rumour that German airmen were in Brittany first came from Plouharnel in Morbihan; then from Bannalec, where an old Icelander had notified the Brigadier of the local Gendarmerie. But the Icelander was very drunk. A thimble of cognac did it.

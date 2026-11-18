@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 5 - What I Heard In The Apple Barrel"
 weight: 12
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-02-chapter-05.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-02-chapter-05.html"
 ---
 
 “NO, not I,” said Silver. “Flint was cap'n; I was quartermaster, along of my timber leg. The same broadside I lost my leg, old Pew lost his deadlights. It was a master surgeon, him that ampytated me--out of college and all--Latin by the bucket, and what not; but he was hanged like a dog, and sun-dried like the rest, at Corso Castle. That was Roberts' men, that was, and comed of changing names to their ships--ROYAL FORTUNE and so on. Now, what a ship was christened, so let her stay, I says. So it was with the CASSANDRA, as brought us all safe home from Malabar, after England took the viceroy of the Indies; so it was with the old WALRUS, Flint's old ship, as I've seen amuck with the red blood and fit to sink with gold.”

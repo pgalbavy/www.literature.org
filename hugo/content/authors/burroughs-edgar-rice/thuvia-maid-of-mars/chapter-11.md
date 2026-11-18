@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Green Men and White Apes"
 weight: 11
-aliases:
-  - "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/chapter-11.html"
+url: "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/chapter-11.html"
 ---
 
 A Torquasian sword smote a glancing blow across the forehead of Carthoris. He had a fleeting vision of soft arms about his neck, and warm lips close to his before he lost consciousness.

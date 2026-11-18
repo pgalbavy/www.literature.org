@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-23.html"
+url: "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-23.html"
 ---
 
 Bear Cat Stacy had gone with George Kelly to the house where his wife was awaiting him that night, and though he had remained outside while the husband went in, it was not hard to guess something of what took place. The wife of only a few months came out a little later with eyes that were still wet with tears, and with what things she was going to take away with her, wrapped in a shawl. She stood by as George Kelly nailed slats across the door. Already she had put out the fire on the hearth, and about her ankles a lean cat stropped its arched back.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Mother Grouse's Children"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-04.html"
 ---
 
 The very next day after his first lesson in hunting, when his mother had brought home the live woodchuck, Tommy Fox went off into the woods alone. He had made up his mind that he would surprise his mother by bringing home some nice tidbit for dinner--a rabbit, perhaps, or maybe a squirrel. He wasn't quite sure what it would be, because you know when hunting you have to take what you find--if you can catch it.

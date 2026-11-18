@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Night-School And The Schoolmaster"
 weight: 21
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-21.html"
+url: "/authors/eliot-george/adam-bede/chapter-21.html"
 ---
 
 Bartle Massey's was one of a few scattered houses on the edge of a common, which was divided by the road to Treddleston. Adam reached it in a quarter of an hour after leaving the Hall Farm; and when he had his hand on the door-latch, he could see, through the curtainless window, that there were eight or nine heads bending over the desks, lighted by thin dips.

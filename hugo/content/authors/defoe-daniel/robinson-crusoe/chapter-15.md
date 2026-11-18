@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Friday's Education"
 weight: 15
-aliases:
-  - "/authors/defoe-daniel/robinson-crusoe/chapter-15.html"
+url: "/authors/defoe-daniel/robinson-crusoe/chapter-15.html"
 ---
 
 AFTER I had been two or three days returned to my castle, I thought that, in order to bring Friday off from his horrid way of feeding, and from the relish of a cannibal's stomach, I ought to let him taste other flesh; so I took him out with me one morning to the woods. I went, indeed, intending to kill a kid out of my own flock; and bring it home and dress it; but as I was going I saw a she-goat lying down in the shade, and two young kids sitting by her. I catched hold of Friday. "Hold," said I, "stand still;" and made signs to him not to stir: immediately I presented my piece, shot, and killed one of the kids. The poor creature, who had at a distance, indeed, seen me kill the savage, his enemy, but did not know, nor could imagine how it was done, was sensibly surprised, trembled, and shook, and looked so amazed that I thought he would have sunk down. He did not see the kid I shot at, or perceive I had killed it, but ripped up his waistcoat to feel whether he was not wounded; and, as I found presently, thought I was resolved to kill him: for he came and kneeled down to me, and embracing my knees, said a great many things I did not understand; but I could easily see the meaning was to pray me not to kill him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/hodgson-burnett-frances/the-white-people/chapter-03.html"
+url: "/authors/hodgson-burnett-frances/the-white-people/chapter-03.html"
 ---
 
 It was when I was ten years old that Wee Elspeth ceased coming to me, and though I missed her at first, it was not with a sense of grief or final loss. She had only gone somewhere.

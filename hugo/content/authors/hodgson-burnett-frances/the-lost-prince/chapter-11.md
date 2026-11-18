@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - \"Come With Me\""
 weight: 11
-aliases:
-  - "/authors/hodgson-burnett-frances/the-lost-prince/chapter-11.html"
+url: "/authors/hodgson-burnett-frances/the-lost-prince/chapter-11.html"
 ---
 
 When they came back from the graveyard, The Rat was silent all the way. He was thinking of what had happened and of what lay before him. He was, in fact, thinking chiefly that nothing lay before him--nothing. The certainty of that gave his sharp, lined face new lines and sharpness which made it look pinched and hard.

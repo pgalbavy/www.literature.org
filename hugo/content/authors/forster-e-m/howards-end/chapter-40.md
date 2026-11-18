@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40"
 weight: 40
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-40.html"
+url: "/authors/forster-e-m/howards-end/chapter-40.html"
 ---
 
 Leonard--he would figure at length in a newspaper report, but that evening he did not count for much. The foot of the tree was in shadow, since the moon was still hidden behind the house. But above, to right, to left, down the long meadow the moonlight was streaming. Leonard seemed not a man, but a cause.

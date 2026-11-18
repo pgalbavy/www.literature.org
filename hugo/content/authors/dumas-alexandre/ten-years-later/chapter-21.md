@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - In Which D'artagnan Prepares To Travel For The Firm Of Planchet And Company"
 weight: 21
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-21.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-21.html"
 ---
 
 D'Artagnan reflected to such good purpose during the night that his plan was settled by morning. "This is it," said he, sitting up in bed, supporting his elbow on his knee, and his chin in his hand; - "this is it. I shall seek out forty steady, firm men, recruited among people a little compromised, but having habits of discipline. I shall promise them five hundred livres for a month if they return, nothing if they do not return, or half for their kindred. As to food and lodging, that concerns the English, who have cattle in their pastures, bacon in their bacon-racks, fowls in their poultry-yards, and corn in their barns. I will present myself to General Monk with my little body of troops. He will receive me. I shall win his confidence, and take advantage of it, as soon as possible."

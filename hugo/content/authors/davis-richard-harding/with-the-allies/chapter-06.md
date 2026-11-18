@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Bombardment Of Rheims"
 weight: 7
-aliases:
-  - "/authors/davis-richard-harding/with-the-allies/chapter-06.html"
+url: "/authors/davis-richard-harding/with-the-allies/chapter-06.html"
 ---
 
 In several ways the city of Rheims is celebrated. Some know her only through her cathedral, where were crowned all but six of the kings of France, and where the stained-glass windows, with those in the cathedrals of Chartres and Burgos, Spain, are the most beautiful in all the world. Children know Rheims through the wicked magpie which the archbishop excommunicated, and to their elders, if they are rich, Rheims is the place from which comes all their champagne.

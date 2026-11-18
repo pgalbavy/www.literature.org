@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Madame Beck"
 weight: 8
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-08.html"
+url: "/authors/bronte-charlotte/villette/chapter-08.html"
 ---
 
 Being delivered into the charge of the maîtresse, I was led through a long narrow passage into a foreign kitchen, very clean but very strange. It seemed to contain no means of cooking - neither fireplace nor oven; I did not understand that the great black furnace which filled one corner, was an efficient substitute for these. Surely pride was not already beginning its whispers in my heart; yet I felt a sense of relief when, instead of being left in the kitchen, as I half anticipated, I was led forward to a small inner room termed a "cabinet." A cook in a jacket, a short petticoat and sabots, brought my supper: to wit - some meat, nature unknown, served in an odd and acid, but pleasant sauce; some chopped potatoes, made savoury with, I know not what: vinegar and sugar, I think: a tartine, or slice of bread and butter, and a baked pear. Being hungry, I ate and was grateful.

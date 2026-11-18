@@ -1,8 +1,7 @@
 ---
 title: "Chapter 45 - Mischief--Making"
 weight: 45
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-45.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-45.html"
 ---
 
 On Monday, Mirabel made his appearance--and the demon of discord returned with him.

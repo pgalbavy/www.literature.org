@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The One Thousand Dozen"
 weight: 5
-aliases:
-  - "/authors/london-jack/the-faith-of-men/chapter-05.html"
+url: "/authors/london-jack/the-faith-of-men/chapter-05.html"
 ---
 
 David Rasmunsen was a hustler, and, like many a greater man, a man of the one idea. Wherefore, when the clarion call of the North rang on his ear, he conceived an adventure in eggs and bent all his energy to its achievement. He figured briefly and to the point, and the adventure became iridescent-hued, splendid. That eggs would sell at Dawson for five dollars a dozen was a safe working premise. Whence it was incontrovertible that one thousand dozen would bring, in the Golden Metropolis, five thousand dollars.

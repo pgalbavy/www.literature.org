@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Hunting The Hunters"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-26.html"
 ---
 
 Bob Budd played the part of pendulum to the bear for perhaps ten minutes or less, during which he kept up his outcries, and Tom and Jim laughed till they were in danger of falling from their perch in the tree.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/greene-homer/picketts-gap/chapter-08.html"
+url: "/authors/greene-homer/picketts-gap/chapter-08.html"
 ---
 
 The moment of silence in the court room was followed by a confused murmur of voices. People were moving about in their seats and craning their necks, anxious to see. Charlie Pickett was on his feet, his face flushed, his breast heaving with emotion, his eyes fixed on the two figures at the witness stand. When Abner Pickett lifted his face from Dannie’s neck, his eyes were filled with tears.

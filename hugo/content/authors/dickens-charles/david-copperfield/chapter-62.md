@@ -1,8 +1,7 @@
 ---
 title: "Chapter 62 - A Light Shines On My Way"
 weight: 63
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-62.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-62.html"
 ---
 
 The year came round to Christmas-time, and I had been at home above two months. I had seen Agnes frequently. However loud the general voice might be in giving me encouragement, and however fervent the emotions and endeavours to which it roused me, I heard her lightest word of praise as I heard nothing else.

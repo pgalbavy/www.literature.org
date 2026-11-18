@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/coolidge-dane/the-desert-trail/chapter-23.html"
+url: "/authors/coolidge-dane/the-desert-trail/chapter-23.html"
 ---
 
 There are two things, according to the saying, which cannot be recalled--the sped arrow and the spoken word. Whether spoken in anger or in jest our winged thoughts will not come back to us and, where there is no balm for the wound we have caused, there is nothing to do but let it heal.

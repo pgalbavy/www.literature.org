@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Yankee Storm"
 weight: 23
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-22.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-22.html"
 ---
 
 In an August orchard six children and a grown-up were sitting around the pulpit stone. The grown-up was Miss Reade, who had been up to give the girls their music lesson and had consented to stay to tea, much to the rapture of the said girls, who continued to worship her with unabated and romantic ardour. To us, over the golden grasses, came the Story Girl, carrying in her hand a single large poppy, like a blood-red chalice filled with the wine of August wizardry. She proffered it to Miss Reade and, as the latter took it into her singularly slender, beautiful hand, I saw a ring on her third finger. I noticed it, because I had heard the girls say that Miss Reade never wore rings, not liking them. It was not a new ring; it was handsome, but of an old-fashioned design and setting, with a glint of diamonds about a central sapphire. Later on, when Miss Reade had gone, I asked the Story Girl if she had noticed the ring. She nodded, but seemed disinclined to say more about it.

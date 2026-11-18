@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Jimmy Rabbit Can't Wait"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-05.html"
 ---
 
 AFTER telling Jimmy Rabbit that he would meet him on the other side of the duck-pond, Grandfather Mole waded into the water and started to swim across.

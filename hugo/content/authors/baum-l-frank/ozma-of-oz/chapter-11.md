@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/baum-l-frank/ozma-of-oz/chapter-11.html"
+url: "/authors/baum-l-frank/ozma-of-oz/chapter-11.html"
 ---
 
 By and by, when they drew near to the mountain that blocked their path and which was the furthermost edge of the Kingdom of Ev, the way grew dark and gloomy for the reason that the high peaks on either side shut out the sunshine. And it was very silent, too, as there were no birds to sing or squirrels to chatter, the trees being left far behind them and only the bare rocks remaining.

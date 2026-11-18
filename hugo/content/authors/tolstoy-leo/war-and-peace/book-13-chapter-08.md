@@ -1,8 +1,7 @@
 ---
 title: "Book 13 - Chapter 8"
 weight: 287
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-13-chapter-08.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-13-chapter-08.html"
 ---
 
 Napoleon enters Moscow after the brilliant victory de la Moskowa; there can be no doubt about the victory for the battlefield remains in the hands of the French. The Russians retreat and abandon their ancient capital. Moscow, abounding in provisions, arms, munitions, and incalculable wealth, is in Napoleon's hands. The Russian army, only half the strength of the French, does not make a single attempt to attack for a whole month. Napoleon's position is most brilliant. He can either fall on the Russian army with double its strength and destroy it; negotiate an advantageous peace, or in case of a refusal make a menacing move on Petersburg, or even, in the case of a reverse, return to Smolensk or Vilna; or remain in Moscow; in short, no special genius would seem to be required to retain the brilliant position the French held at that time. For that, only very simple and easy steps were necessary: not to allow the troops to loot, to prepare winter clothing- of which there was sufficient in Moscow for the whole army- and methodically to collect the provisions, of which (according to the French historians) there were enough in Moscow to supply the whole army for six months. Yet Napoleon, that greatest of all geniuses, who the historians declare had control of the army, took none of these steps.

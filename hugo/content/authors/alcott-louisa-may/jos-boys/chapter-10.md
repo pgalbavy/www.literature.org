@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Demi Settles"
 weight: 10
-aliases:
-  - "/authors/alcott-louisa-may/jos-boys/chapter-10.html"
+url: "/authors/alcott-louisa-may/jos-boys/chapter-10.html"
 ---
 
 'Mother, can I have a little serious conversation with you?' asked Demi one evening, as they sat together enjoying the first fire of the season, while Daisy wrote letters upstairs and Josie was studying in the little library close by.

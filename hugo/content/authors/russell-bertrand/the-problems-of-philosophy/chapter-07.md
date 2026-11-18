@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - On Our Knowledge Of General Principles"
 weight: 8
-aliases:
-  - "/authors/russell-bertrand/the-problems-of-philosophy/chapter-07.html"
+url: "/authors/russell-bertrand/the-problems-of-philosophy/chapter-07.html"
 ---
 
 We saw in the preceding chapter that the principle of induction, while necessary to the validity of all arguments based on experience, is itself not capable of being proved by experience, and yet is unhesitatingly believed by every one, at least in all its concrete applications. In these characteristics the principle of induction does not stand alone. There are a number of other principles which cannot be proved or disproved by experience, but are used in arguments which start from what is experienced.

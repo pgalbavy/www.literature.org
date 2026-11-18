@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 1 - What Happened In The Library"
 weight: 7
-aliases:
-  - "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-01.html"
+url: "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-01.html"
 ---
 
 At a quarter before six on the following morning Doctor Gotthold was already at his desk in the library; and with a small cup of black coffee at his elbow, and an eye occasionally wandering to the busts and the long array of many-coloured books, was quietly reviewing the labours of the day before. He was a man of about forty, flaxen-haired, with refined features a little worn, and bright eyes somewhat faded. Early to bed and early to rise, his life was devoted to two things: erudition and Rhine wine. An ancient friendship existed latent between him and Otto; they rarely met, but when they did it was to take up at once the thread of their suspended intimacy. Gotthold, the virgin priest of knowledge, had envied his cousin, for half a day, when he was married; he had never envied him his throne.

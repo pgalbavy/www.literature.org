@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/collins-wilkie/the-haunted-hotel/chapter-01.html"
+url: "/authors/collins-wilkie/the-haunted-hotel/chapter-01.html"
 ---
 
 In the year 1860, the reputation of Doctor Wybrow as a London physician reached its highest point. It was reported on good authority that he was in receipt of one of the largest incomes derived from the practice of medicine in modern times.

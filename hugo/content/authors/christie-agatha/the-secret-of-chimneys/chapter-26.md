@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - The 13th Of October"
 weight: 26
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-26.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-26.html"
 ---
 
 At ten o’clock on the morning of Wednesday, the 13th of October, Anthony Cade walked into Harridge’s Hotel and asked for Baron Lolopretjzyl who was occupying a suite there.

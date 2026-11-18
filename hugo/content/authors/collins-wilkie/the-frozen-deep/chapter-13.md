@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/collins-wilkie/the-frozen-deep/chapter-13.html"
+url: "/authors/collins-wilkie/the-frozen-deep/chapter-13.html"
 ---
 
 The spring has come. The air of the April night just lifts the leaves of the sleeping flowers. The moon is queen in the cloudless and starless sky. The stillness of the midnight hour is abroad, over land and over sea.

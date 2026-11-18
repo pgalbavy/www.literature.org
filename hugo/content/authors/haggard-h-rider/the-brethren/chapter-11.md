@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The City Of Al-Je-Bal"
 weight: 12
-aliases:
-  - "/authors/haggard-h-rider/the-brethren/chapter-11.html"
+url: "/authors/haggard-h-rider/the-brethren/chapter-11.html"
 ---
 
 "I pray you have done," said Godwin, "it is but a scratch from the beast's claws. I am ashamed that you should put your hair to such vile uses. Give me a little water."

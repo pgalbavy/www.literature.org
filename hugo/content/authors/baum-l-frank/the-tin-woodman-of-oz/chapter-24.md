@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 25
-aliases:
-  - "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-24.html"
+url: "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-24.html"
 ---
 
 Well, the rest of the story is quickly told, for the return Journey of our adventurers was without any important incident. The Scarecrow was so afraid of meeting the Hip-po-gy-raf, and having his straw eaten again, that he urged his comrades to select another route to the Emerald City, and they willingly consented, so that the Invisible Country was wholly avoided.

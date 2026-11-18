@@ -1,8 +1,7 @@
 ---
 title: "Chapter 60 - Plan Of Battle"
 weight: 60
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-60.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-60.html"
 ---
 
 The night was already far advanced when the Abbe Fouquet joined his brother. Gourville had accompanied him. These three men, pale with dread of future events, resembled less three powers of the day than three conspirators, united by one single thought of violence. Fouquet walked for a long time, with his eyes fixed upon the floor, striking his hands one against the other. At length, taking courage, in the midst of a deep sigh: "Abbe," said he, "you were speaking to me only to-day of certain people you maintain."

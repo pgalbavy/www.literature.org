@@ -1,8 +1,7 @@
 ---
 title: "Chapter 131 - The Pequod Meets The Delight"
 weight: 131
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-131.html"
+url: "/authors/melville-herman/moby-dick/chapter-131.html"
 ---
 
 The intense Pequod sailed on; the rolling waves and days went by; the life-buoy-coffin still lightly swung; and another ship, most miserably misnamed the Delight, was descried. As she drew nigh, all eyes were fixed upon her broad beams, called shears, which, in some whaling-ships, cross the quarter-deck at the height of eight or nine feet; serving to carry the spare, unrigged, or disabled boats.

@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 1 - The Den"
 weight: 20
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-04-chapter-01.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-04-chapter-01.html"
 ---
 
 The place where Dick had struck the line of a highroad was not far from Holywood, and within nine or ten miles of Shoreby-on-the-Till; and here, after making sure that they were pursued no longer, the two bodies separated. Lord Foxham's followers departed, carrying their wounded master towards the comfort and security of the great abbey; and Dick, as he saw them wind away and disappear in the thick curtain of the falling snow, was left alone with near upon a dozen outlaws, the last remainder of his troop of volunteers.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/collins-wilkie/the-haunted-hotel/chapter-19.html"
+url: "/authors/collins-wilkie/the-haunted-hotel/chapter-19.html"
 ---
 
 Avoiding the crowd under the colonnades, Francis walked slowly up and down the noble open space of the square, bathed in the light of the rising moon.

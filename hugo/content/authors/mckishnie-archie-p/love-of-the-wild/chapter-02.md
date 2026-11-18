@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Glow And Gloss"
 weight: 2
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-02.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-02.html"
 ---
 
 Boy opened the door and passed silently inside. Beside the wide fireplace the long gaunt figure of a man was bent almost double. He had a thick shock of sandy hair tinged with gray. His bewhiskered face was hidden behind tobacco-smoke. A time-stained fiddle lay across his knee, his sock feet rested on the hickory fender, and the ruddy glow of the log fire threw a grotesque shadow of him against the whitewashed wall. A pair of high cowhide boots, newly greased and shiny, rested on his one side, while a piece of white second-growth hickory, crudely shaped to the form of an ax-handle, lay on the other. In one corner of the room a bunch of rusty rat-traps lay, and across deer antlers on the wall hung a long rifle, a short one, and a double-barreled fowling-piece.

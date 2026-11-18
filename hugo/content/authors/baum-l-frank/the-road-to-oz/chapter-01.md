@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/baum-l-frank/the-road-to-oz/chapter-01.html"
+url: "/authors/baum-l-frank/the-road-to-oz/chapter-01.html"
 ---
 
 "Please, miss," said the shaggy man, "can you tell me the road to Butterfield?"

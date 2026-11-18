@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - On A Log"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-01.html"
 ---
 
 I made the acquaintance of Ben Mayberry under peculiar circumstances. I had charge of the Western Union's telegraph office in Damietta, where my duties were of the most exacting nature. I was kept hard at work through the winter months, and more of it crowded on me during the spring than I could manage with comfort.

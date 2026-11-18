@@ -1,8 +1,7 @@
 ---
 title: "Chapter 52 - Captivity:  The First Day"
 weight: 53
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-52.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-52.html"
 ---
 
 Let us return to Milady, whom a glance thrown upon the coast of France has made us lose sight of for an instant.

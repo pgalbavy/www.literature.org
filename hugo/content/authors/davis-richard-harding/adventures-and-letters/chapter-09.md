@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Moscow, Budapest, London"
 weight: 9
-aliases:
-  - "/authors/davis-richard-harding/adventures-and-letters/chapter-09.html"
+url: "/authors/davis-richard-harding/adventures-and-letters/chapter-09.html"
 ---
 
 The years 1896--1897 were probably the most active of Richard's very active life. In the space of twelve months he reported the Coronation at Moscow, the Millennial Celebration at Budapest, the Spanish-Cuban War, the McKinley Inauguration, the Greek-Turkish War and the Queen's Jubilee. Although this required a great deal of time spent in travelling, Richard still found opportunity to do considerable work on his novel "Captain Macklin," to which he refers in one of his letters from London.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Mr. Quest's Wife"
 weight: 8
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-08.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-08.html"
 ---
 
 Mr. Quest lived in one of those ugly but comfortably-built old red brick houses which abound in almost every country town, and which give us the clearest possible idea of the want of taste and love of material comfort that characterised the age in which they were built. This house looked out on to the market place, and had a charming old walled garden at the back, famous for its nectarines, which, together with the lawn tennis court, was, as Mrs. Quest would say, almost enough to console her for living in a town. The front door, however, was only separated by a little flight of steps from the pavement upon which the house abutted.

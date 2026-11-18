@@ -1,8 +1,7 @@
 ---
 title: "Chapter 71 - Port Wine"
 weight: 71
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-71.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-71.html"
 ---
 
 In ten minutes the masters slept; not so the servants - -hungry, and more thirsty than hungry.

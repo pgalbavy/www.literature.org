@@ -1,8 +1,7 @@
 ---
 title: "Chapter 62 - The Dart"
 weight: 62
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-062.html"
+url: "/authors/melville-herman/moby-dick/chapter-062.html"
 ---
 
 A word concerning an incident in the last chapter.

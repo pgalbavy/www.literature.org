@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - \u0026quot;You Have Made It Livelier\u0026quot;"
 weight: 22
-aliases:
-  - "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-22.html"
+url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-22.html"
 ---
 
 When she had become Mr. Burmistone's champion, indeed! She could scarcely have told when, unless, perhaps, she had fixed the date at the first time she had heard his name introduced at a high tea, with every politely opprobrious epithet affixed. She had defended him in her own mind then, and felt sure that he deserved very little that was said against him, and very likely nothing at all. And, the first time she had seen and spoken to him, she had been convinced that she had not made a mistake, and that he had been treated with cruel injustice. How kind he was, how manly, how clever, and how well he bore himself under the popular adverse criticism! She only wondered that anybody could be so blind and stupid and wilful as to assail him.

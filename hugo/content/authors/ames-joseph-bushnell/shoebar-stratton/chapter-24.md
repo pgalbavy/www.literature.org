@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Secret Of North Pasture"
 weight: 24
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-24.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-24.html"
 ---
 
 Jessup swallowed hard. "But--but--" he faltered, "there ain't never been any found around here. The nearest fields are hundreds of miles away, ain't they?"

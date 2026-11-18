@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/bronte-charlotte/jane-eyre/chapter-04.html"
+url: "/authors/bronte-charlotte/jane-eyre/chapter-04.html"
 ---
 
 From my discourse with Mr. Lloyd, and from the above reported conference between Bessie and Abbot, I gathered enough of hope to suffice as a motive for wishing to get well: a change seemed near,- -I desired and waited it in silence. It tarried, however: days and weeks passed: I had regained my normal state of health, but no new allusion was made to the subject over which I brooded. Mrs. Reed surveyed me at times with a severe eye, but seldom addressed me: since my illness, she had drawn a more marked line of separation than ever between me and her own children; appointing me a small closet to sleep in by myself, condemning me to take my meals alone, and pass all my time in the nursery, while my cousins were constantly in the drawing-room. Not a hint, however, did she drop about sending me to school: still I felt an instinctive certainty that she would not long endure me under the same roof with her; for her glance, now more than ever, when turned on me, expressed an insuperable and rooted aversion.

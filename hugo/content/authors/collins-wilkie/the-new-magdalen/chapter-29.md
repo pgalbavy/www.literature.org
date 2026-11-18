@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - The Last Trial"
 weight: 29
-aliases:
-  - "/authors/collins-wilkie/the-new-magdalen/chapter-29.html"
+url: "/authors/collins-wilkie/the-new-magdalen/chapter-29.html"
 ---
 
 THE servant left them together. Mercy spoke first.

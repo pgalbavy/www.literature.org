@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Hamil Is Silent"
 weight: 28
-aliases:
-  - "/authors/chambers-robert-w/the-firing-line/chapter-28.html"
+url: "/authors/chambers-robert-w/the-firing-line/chapter-28.html"
 ---
 
 Late in the autumn his aunt wrote Hamil from Sapphire Springs:

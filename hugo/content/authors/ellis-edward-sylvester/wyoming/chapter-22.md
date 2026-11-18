@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-22.html"
 ---
 
 With the body of the Seneca covered by the rifle of Mr. Brainerd the latter pulled the trigger, at the very moment the body was in mid-air, but the gun was undischarged.

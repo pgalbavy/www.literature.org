@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Old Park Lady"
 weight: 10
-aliases:
-  - "/authors/dorrance-ethel-and-james/lonesome-town/chapter-10.html"
+url: "/authors/dorrance-ethel-and-james/lonesome-town/chapter-10.html"
 ---
 
 Central Park, even with its horde of transitory inhabitants, looked more than ever like home to Peter Pape this late afternoon. Feeling the necessity of a private conclusion or two, he loped Polkadot into what he hoped would prove the less used path. His thoughts, like the pinto’s hoof-beats, were of a rather violent, not to say exclamatory sort.

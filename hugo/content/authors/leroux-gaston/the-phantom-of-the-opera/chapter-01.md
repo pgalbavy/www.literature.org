@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Is It The Ghost?"
 weight: 2
-aliases:
-  - "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-01.html"
+url: "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-01.html"
 ---
 
 It was the evening on which *MM.* Debienne and Poligny, the managers of the Opera, were giving a last gala performance to mark their retirement. Suddenly the dressing-room of La Sorelli, one of the principal dancers, was invaded by half-a-dozen young ladies of the ballet, who had come up from the stage after "dancing" Polyeucte. They rushed in amid great confusion, some giving vent to forced and unnatural laughter, others to cries of terror. Sorelli, who wished to be alone for a moment to "run through" the speech which she was to make to the resigning managers, looked around angrily at the mad and tumultuous crowd. It was little Jammes—the girl with the tip-tilted nose, the forget-me-not eyes, the rose-red cheeks and the lily-white neck and shoulders—who gave the explanation in a trembling voice:

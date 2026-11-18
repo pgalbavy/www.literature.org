@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Unc' Billy Gives Himself Away"
 weight: 23
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-23.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-23.html"
 ---
 
 Never had Unc' Billy Possum played that old trick of his better than he was playing it now. Farmer Brown's boy knew that Unc' Billy was only pretending to be dead, yet so well did Unc' Billy pretend that it was hard work for Farmer Brown's boy to believe what he knew was the truth—that Unc' Billy was very much alive and only waiting for a chance to slip away.

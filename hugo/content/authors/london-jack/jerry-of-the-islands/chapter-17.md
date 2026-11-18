@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/london-jack/jerry-of-the-islands/chapter-17.html"
+url: "/authors/london-jack/jerry-of-the-islands/chapter-17.html"
 ---
 
 As blind Nalasu slowly plodded away, with one hand tapping the path before him and with the other carrying Jerry head-downward suspended by his tied legs, Jerry heard a sudden increase in the wild howling of the dogs as the killing began and they realized that death was upon them.

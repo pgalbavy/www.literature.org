@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Vanity and Vexation of Spirit"
 weight: 27
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-27.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-27.html"
 ---
 
 Marilla, walking home one late April evening from an Aid meeting, realized that the winter was over and gone with the thrill of delight that spring never fails to bring to the oldest and saddest as well as to the youngest and merriest. Marilla was not given to subjective analysis of her thoughts and feelings. She probably imagined that she was thinking about the Aids and their missionary box and the new carpet for the vestry room, but under these reflections was a harmonious consciousness of red fields smoking into pale-purply mists in the declining sun, of long, sharp-pointed fir shadows falling over the meadow beyond the brook, of still, crimson-budded maples around a mirrorlike wood pool, of a wakening in the world and a stir of hidden pulses under the gray sod. The spring was abroad in the land and Marilla's sober, middle-aged step was lighter and swifter because of its deep, primal gladness.

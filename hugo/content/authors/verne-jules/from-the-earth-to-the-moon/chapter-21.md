@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/verne-jules/from-the-earth-to-the-moon/chapter-21.html"
+url: "/authors/verne-jules/from-the-earth-to-the-moon/chapter-21.html"
 ---
 
 While the contract of this duel was being discussed by the president and the captain-- this dreadful, savage duel, in which each adversary became a man-hunter-- Michel Ardan was resting from the fatigues of his triumph. Resting is hardly an appropriate expression, for American beds rival marble or granite tables for hardness.

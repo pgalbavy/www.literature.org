@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - On The Defensive"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-15.html"
 ---
 
 AT the moment of reining up their mustangs, the fugitives were about equidistant between the two fires, and it was just as dangerous to advance as to retreat. For one second the Irishman meditated a desperate charge, in the hope of breaking through the company that first appeared in his path, and, had he been alone, or accompanied by a man, he would have done so. But, slight as was his own prospect of escape, he knew there was absolutely none for the boy in such a desperate effort, and he determined that it should not be made.

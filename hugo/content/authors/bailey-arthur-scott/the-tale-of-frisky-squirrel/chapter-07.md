@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Brave Little Bird"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-07.html"
 ---
 
 It was not long before Frisky Squirrel began to see that he had got himself into something very like a fix. It had been fairly easy to dodge Mr. Hawk alone. But things were quite different now. Mr. Hawk would come hurtling down upon him from one direction; and Mrs. Hawk would swoop down upon him from another. It was all very confusing, because Frisky could not watch both of them at once.

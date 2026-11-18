@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - M. Paul Keeps His Promise"
 weight: 33
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-33.html"
+url: "/authors/bronte-charlotte/villette/chapter-33.html"
 ---
 
 On the first of May, we had all - i.e. the twenty boarders and the four teachers - notice to rise at five o'clock of the morning, to be dressed and ready by six, to put ourselves under the command of M. le Professeur Emanuel, who was to head our march forth from Villette, for it was on this day he proposed to fulfil his promise of taking us to breakfast in the country. I, indeed, as the reader may perhaps remember, had not had the honour of an invitation when this excursion was first projected - rather the contrary; but on my now making allusion to this fact, and wishing to know how it was to be, my ear received a pull, of which I did not venture to challenge the repetition by raising, further difficulties.

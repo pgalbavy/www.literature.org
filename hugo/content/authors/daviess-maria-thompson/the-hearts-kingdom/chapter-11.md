@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Bit Of Raw Life"
 weight: 11
-aliases:
-  - "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-11.html"
+url: "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-11.html"
 ---
 
 I don't know by what means of personal transportation my body was carried down the street to the public square and to the pavement in front of the courthouse, but I found myself standing there over a woman who had raised Gregory Goodloe's head on her arm and was drawing deep, hard sobs as she held a handkerchief to stanch a flow of blood that showed crimson in the flash from Nickols' electric cigar lighter.

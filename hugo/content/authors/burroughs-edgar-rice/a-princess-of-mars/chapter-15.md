@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Sola Tells Me Her Story"
 weight: 15
-aliases:
-  - "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-15.html"
+url: "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-15.html"
 ---
 
 When consciousness returned, and, as I soon learned, I was down but a moment, I sprang quickly to my feet searching for my sword, and there I found it, buried to the hilt in the green breast of Zad, who lay stone dead upon the ochre moss of the ancient sea bottom. As I regained my full senses I found his weapon piercing my left breast, but only through the flesh and muscles which cover my ribs, entering near the center of my chest and coming out below the shoulder. As I had lunged I had turned so that his sword merely passed beneath the muscles, inflicting a painful but not dangerous wound.

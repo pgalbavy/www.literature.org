@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Don Is Locked In"
 weight: 6
-aliases:
-  - "/authors/barnum-richard/don-a-runaway-dog/chapter-06.html"
+url: "/authors/barnum-richard/don-a-runaway-dog/chapter-06.html"
 ---
 
 When Don made up his mind to run away from the farm, he chose a time to do it when Bob would be away at school. For the dog well knew that if Bob were at home there would be little chance of getting away without being seen.

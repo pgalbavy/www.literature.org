@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Trappers"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-18.html"
 ---
 
 The new arrivals resembled Burt Hawkins in their dress and accoutrements. They wore coon-skin caps, hunting dress, leggings, coarse shoes, etc., and each carried a long rifle and hunting knife as his weapons. They were rugged, powerful fellows, whose long experience in the wilderness had given them a knowledge of its ways and mysteries, beyond that of ordinary men. They were hardy and active, with the faculties of hearing, seeing and smelling cultivated to a point almost incredible. They contrasted with Hawkins in one respect; both wore their faces smooth. Although far removed from civilization, they kept themselves provided with the means of shaving their cheeks. Perhaps through indifference, their beards were sometimes allowed to grow for weeks, but they made sure they were in presentable shape when they rode into the trading post of St. Louis, with their peltries, and, receiving pay therefor, joined their families in that frontier town.

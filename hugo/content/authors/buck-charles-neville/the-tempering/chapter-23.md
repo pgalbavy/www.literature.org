@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-23.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-23.html"
 ---
 
 Boone had stood for a moment in the lighted door, and in that interval the shrewd old eyes of Cyrus Spradling had told him that the boy too had known sleeplessness and that the clear-chiselled features bore unaccustomed lines of misery.

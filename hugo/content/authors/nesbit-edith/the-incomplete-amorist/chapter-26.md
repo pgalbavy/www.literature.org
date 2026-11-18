@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - The Miracle"
 weight: 26
-aliases:
-  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-26.html"
+url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-26.html"
 ---
 
 It seemed quite dark down in the forest - or rather, it seemed, after the full good light that lay upon the summit of the rocks, like the gray dream-twilight under the eyelids of one who dozes in face of a dying fire.

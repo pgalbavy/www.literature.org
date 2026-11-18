@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 13 - In Which Is Ended The Story Of The Shepherdess Marcela, With Other Incidents"
 weight: 16
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-13.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-13.html"
 ---
 
 But hardly had day begun to show itself through the balconies of the east, when five of the six goatherds came to rouse Don Quixote and tell him that if he was still of a mind to go and see the famous burial of Chrysostom they would bear him company. Don Quixote, who desired nothing better, rose and ordered Sancho to saddle and pannel at once, which he did with all despatch, and with the same they all set out forthwith. They had not gone a quarter of a league when at the meeting of two paths they saw coming towards them some six shepherds dressed in black sheepskins and with their heads crowned with garlands of cypress and bitter oleander. Each of them carried a stout holly staff in his hand, and along with them there came two men of quality on horseback in handsome travelling dress, with three servants on foot accompanying them. Courteous salutations were exchanged on meeting, and inquiring one of the other which way each party was going, they learned that all were bound for the scene of the burial, so they went on all together.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Amateur Night"
 weight: 4
-aliases:
-  - "/authors/london-jack/moon-face/chapter-04.html"
+url: "/authors/london-jack/moon-face/chapter-04.html"
 ---
 
 THE elevator boy smiled knowingly to him self. When he took her up, he had noted the sparkle in her eyes, the color in her cheeks. His little cage had quite warmed with the glow of her repressed eagerness. And now, on the down trip, it was glacier-like. The sparkle and the color were gone. She was frowning, and what little he could see of her eyes was cold and steel-gray. Oh, he knew the symptoms, he did. He was an observer, and he knew it, too, and some day, when he was big enough, he was going to be a reporter, sure. And in the meantime he studied the procession of life as it streamed up and down eighteen sky-scraper floors in his elevator car. He slid the door open for her sympathetically and watched her trip determinedly out into the street.

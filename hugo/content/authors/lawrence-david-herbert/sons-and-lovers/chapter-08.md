@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Strife In Love"
 weight: 8
-aliases:
-  - "/authors/lawrence-david-herbert/sons-and-lovers/chapter-08.html"
+url: "/authors/lawrence-david-herbert/sons-and-lovers/chapter-08.html"
 ---
 
 ARTHUR finished his apprenticeship, and got a job on the electrical plant at Minton Pit. He earned very little, but had a good chance of getting on. But he was wild and restless. He did not drink nor gamble. Yet he somehow contrived to get into endless scrapes, always through some hot-headed thoughtlessness. Either he went rabbiting in the woods, like a poacher, or he stayed in Nottingham all night instead of coming home, or he miscalculated his dive into the canal at Bestwood, and scored his chest into one mass of wounds on the raw stones and tins at the bottom.

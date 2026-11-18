@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Forward"
 weight: 27
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-25.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-25.html"
 ---
 
 BLANCHE found her lover as attentive as usual to her slightest wish, but not in his customary good spirits. He pleaded fatigue, after his long watch at the cross-roads, as an excuse for his depression. As long as there was any hope of a reconciliation with Geoffrey, he was unwilling to tell Blanche what had happened that afternoon. The hope grew fainter and fainter as the evening advanced. Arnold purposely suggested a visit to the billiard-room, and joined the game, with Blanche, to give Geoffrey an opportunity of saying the few gracious words which would have made them friends again. Geoffrey never spoke the words; he obstinately ignored Arnold's presence in the room.

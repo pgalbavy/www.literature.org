@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - \"The Light!\""
 weight: 25
-aliases:
-  - "/authors/titus-harold/i-conquered/chapter-25.html"
+url: "/authors/titus-harold/i-conquered/chapter-25.html"
 ---
 
 Jed Avery sat alone. It was night, a moonlight night in Colorado, the whole world bathed in a cold radiance that conduces to dreams and fantasies.

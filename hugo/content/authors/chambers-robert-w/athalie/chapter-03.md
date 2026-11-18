@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-03.html"
+url: "/authors/chambers-robert-w/athalie/chapter-03.html"
 ---
 
 The black dresses of the children had become very rusty by spring, but business had been bad at the Hotel Greensleeve, and Athalie, Doris, and Catharine continued to wear their shabby mourning.

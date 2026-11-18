@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Fishing For A Friend"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-07.html"
 ---
 
 "I think I dumped that Apache down there just as nicely as any one could have done it," said Fred, as he sat upon the ground. "It must have taken him by surprise when I banged into his back that way. I'd like to know whether he fell on his head or feet. He hadn't much time to get ready for the fall, and so maybe it wasn't just as he wanted it. I don't think it was, either, with Mickey or me. Such things ain't generally in this part of the world. Maybe some of the others were standing around, and this fellow went down on their heads. If he did, it must have shaken all their dinners up. That's a pretty good way to fall down there, and although I didn't get hurt much, I wouldn't want to try it again."

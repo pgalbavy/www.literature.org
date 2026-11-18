@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/nesbit-edith/the-enchanted-castle/chapter-12.html"
+url: "/authors/nesbit-edith/the-enchanted-castle/chapter-12.html"
 ---
 
 IT would be interesting, no doubt, to describe the feelings of Lord Yalding as he followed Mabel and Jimmy through his ancestral halls, but I have no means of knowing at all what he felt. Yet one must suppose that he felt something: bewilderment, perhaps, mixed with a faint wonder, and a desire to pinch himself to see if he were dreaming. Or he may have pondered the rival questions, "Am I mad?" "Are they mad?" without being at all able to decide which he ought to try to answer, let alone deciding what, in either case, the answer ought to be. You see, the children did seem to believe in the odd stories they told—and the wish *had* come true, and the ghost *had* appeared. He must have thought—but all this is vain; I don't *really* know what he thought any more than you do.

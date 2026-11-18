@@ -1,8 +1,7 @@
 ---
 title: "Chapter 64 - Of The Notable Difference D'artagnan Finds Between Monsieur The Intendant And Monsieur The Superintendent"
 weight: 64
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-64.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-64.html"
 ---
 
 M. Colbert resided in the Rue Neuve des Petits-Champs in a house which had belonged to Beautru. D'Artagnan's legs cleared the distance in a short quarter of an hour. When he arrived at the residence of the new favorite, the court was full of archers and police, who came to congratulate him, or to excuse themselves according to whether he should choose to praise or blame. The sentiment of flattery is instinctive with people of abject condition; they have the sense of it, as the wild animal has that of hearing and smell. These people, or their leader, understood that there was a pleasure to offer to M. Colbert, in rendering him an account of the fashion in which his name had been pronounced during the rash enterprise of the morning. D'Artagnan made his appearance just as the chief of the watch was giving his report. He stood close to the door, behind the archers. That officer took Colbert on one side, in spite of his resistance and the contraction of his bushy eyebrows. "In case," said he, "you really desired, monsieur, that the people should do justice on the two traitors, it would have been wise to warn us of it; for, indeed, monsieur, in spite of our regret at displeasing you, or thwarting your views, we had our orders to execute."

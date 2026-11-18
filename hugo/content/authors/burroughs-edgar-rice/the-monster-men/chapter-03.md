@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Beauty and the Beast"
 weight: 3
-aliases:
-  - "/authors/burroughs-edgar-rice/the-monster-men/chapter-03.html"
+url: "/authors/burroughs-edgar-rice/the-monster-men/chapter-03.html"
 ---
 
 One day, about two weeks later, von Horn and the professor were occupied closely with their work in the court of mystery. Developments were coming in riotous confusion. A recent startling discovery bade fare to simplify and expedite the work far beyond the fondest dreams of the scientist.

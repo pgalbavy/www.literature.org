@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - At Port Stowe"
 weight: 14
-aliases:
-  - "/authors/wells-herbert-george/the-invisible-man/chapter-14.html"
+url: "/authors/wells-herbert-george/the-invisible-man/chapter-14.html"
 ---
 
 Ten o'clock the next morning found Mr. Marvel, unshaven, dirty, and travel-stained, sitting with the books beside him and his hands deep in his pockets, looking very weary, nervous, and uncomfortable, and inflating his cheeks at frequent intervals, on the bench outside a little inn on the outskirts of Port Stowe. Beside him were the books, but now they were tied with string. The bundle had been abandoned in the pinewoods beyond Bramblehurst, in accordance with a change in the plans of the Invisible Man. Mr. Marvel sat on the bench, and although no one took the slightest notice of him, his agitation remained at fever heat. His hands would go ever and again to his various pockets with a curious nervous fumbling.

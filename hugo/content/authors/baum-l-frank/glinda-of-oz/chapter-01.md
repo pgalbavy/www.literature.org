@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/baum-l-frank/glinda-of-oz/chapter-01.html"
+url: "/authors/baum-l-frank/glinda-of-oz/chapter-01.html"
 ---
 
 Glinda, the good Sorceress of Oz, sat in the grand court of her palace, surrounded by her maids of honor -- a hundred of the most beautiful girls of the Fairyland of Oz. The palace court was built of rare marbles, exquisitely polished. Fountains tinkled musically here and there; the vast colonnade, open to the south, allowed the maidens, as they raised their heads from their embroideries, to gaze upon a vista of rose-hued fields and groves of trees bearing fruits or laden with sweet-scented flowers. At times one of the girls would start a song, the others joining in the chorus, or one would rise and dance, gracefully swaying to the music of a harp played by a companion. And then Glinda smiled, glad to see her maids mixing play with work.

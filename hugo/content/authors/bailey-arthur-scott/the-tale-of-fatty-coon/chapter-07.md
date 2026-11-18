@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Johnnie Green Is Disappointed"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-07.html"
 ---
 
 It made Fatty Coon feel sad, just to think that there was that field full of corn, and that he could never eat all of it. But Fatty made up his mind that he would do the best he could. He would visit the cornfield every night and feast on those sweet, tender kernels.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - At The Circle A"
 weight: 6
-aliases:
-  - "/authors/titus-harold/bruce-of-the-circle-a/chapter-06.html"
+url: "/authors/titus-harold/bruce-of-the-circle-a/chapter-06.html"
 ---
 
 Ned Lytton swam back to consciousness through painful half dreams. Light hurt his inflamed eyes; a horrible throbbing, originating in the center of his head, proceeded outward and seemed to threaten the solidity of his skull; his body was as though it had been mauled and banged about until no inch of flesh remained unbruised; his left forearm burned and stung fiendishly. He was in bed, undressed, he realized, and covered to the chin with clean smelling bedding. He moved his tortured head from side to side and marveled dully because it rested on a pillow.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Red Signal"
 weight: 22
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-22.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-22.html"
 ---
 
 Superintendent Battle was standing in the library at Wyvvern Abbey.

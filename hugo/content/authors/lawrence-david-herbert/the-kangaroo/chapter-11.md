@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Willie Struthers And Kangaroo"
 weight: 11
-aliases:
-  - "/authors/lawrence-david-herbert/the-kangaroo/chapter-11.html"
+url: "/authors/lawrence-david-herbert/the-kangaroo/chapter-11.html"
 ---
 
 Jaz took Somers to the famous Canberra House, in Sydney, where the Socialists and Labour people had their premises: offices, meeting-rooms, club-rooms, quite an establishment. There was a lively feeling about the place, in spite of various down-at-heel malcontents who stood about in the passage and outside on the pavement. A business-like air.

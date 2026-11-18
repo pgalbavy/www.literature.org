@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - My Heroine"
 weight: 9
-aliases:
-  - "/authors/barrie-james-matthew/margaret-ogilvy/chapter-09.html"
+url: "/authors/barrie-james-matthew/margaret-ogilvy/chapter-09.html"
 ---
 
 When it was known that I had begun another story my mother might ask what it was to be about this time.

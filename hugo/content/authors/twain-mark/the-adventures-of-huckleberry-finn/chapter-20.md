@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-20.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-20.html"
 ---
 
 THEY asked us considerable many questions; wanted to know what we covered up the raft that way for, and laid by in the daytime instead of running -- was Jim a runaway nigger? Says I:

@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 6 - The Golden Dustman Falls Into Worse Company"
 weight: 39
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-03-chapter-06.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-03-chapter-06.html"
 ---
 
 It had come to pass that Mr Silas Wegg now rarely attended the minion of fortune and the worm of the hour, at his (the worm’s and minion’s) own house, but lay under general instructions to await him within a certain margin of hours at the Bower. Mr Wegg took this arrangement in great dudgeon, because the appointed hours were evening hours, and those he considered precious to the progress of the friendly move. But it was quite in character, he bitterly remarked to Mr Venus, that the upstart who had trampled on those eminent creatures, Miss Elizabeth, Master George, Aunt Jane, and Uncle Parker, should oppress his literary man.

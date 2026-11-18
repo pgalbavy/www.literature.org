@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - How Childe Roland And Another Came To The Dark Tower"
 weight: 4
-aliases:
-  - "/authors/buchan-john/huntingtower/chapter-03.html"
+url: "/authors/buchan-john/huntingtower/chapter-03.html"
 ---
 
 Dickson woke with a vague sense of irritation. As his recollections took form they produced a very unpleasant picture of Mr. John Heritage. The poet had loosened all his placid idols, so that they shook and rattled in the niches where they had been erstwhile so secure. Mr. McCunn had a mind of a singular candour, and was prepared most honestly at all times to revise his views. But by this iconoclast he had been only irritated and in no way convinced. "*Sich* poetry!" he muttered to himself as he shivered in his bath (a daily cold tub instead of his customary hot one on Saturday night being part of the discipline of his holiday). "And yon blethers about the working-man!" he ingeminated as he shaved. He breakfasted alone, having outstripped even the fishermen, and as he ate he arrived at conclusions. He had a great respect for youth, but a line must be drawn somewhere. "The man's a child," he decided, "and not like to grow up. The way he's besotted on everything daftlike, if it's only *new*. And he's no rightly young either—speaks like an auld dominie, whiles. And he's rather impident," he concluded, with memories of "Dogson."... He was very clear that he never wanted to see him again; that was the reason of his early breakfast. Having clarified his mind by definitions, Dickson felt comforted. He paid his bill, took an affectionate farewell of the landlord, and at 7.30 precisely stepped out into the gleaming morning.

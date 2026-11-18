@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Pursued"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-14.html"
 ---
 
 Ned Chadmund's only fear was that the chief would hear the throbbing of his heart. He dared not draw his head into the tree, fearing that the action would attract the notice of the Apache; so he remained as motionless as the trunk of the tree itself, waiting for the danger to pass. Finally, the Indian was heard moving forward again, and the cramped and aching fugitive began to breathe more freely. He could detect that soft rippling through the water, such as is made by an angler who is hunting some choice place in the brook, and who examines every foot of the water which he passes. At last it was beyond hearing, and all was still again; but our young hero, impatient and anxious as he was to get forward, dared not leave his concealment while so many of his enemies were in the immediate neighborhood. He was confident that if he attempted flight and escaped running against some of these dusky wretches, they would speedily detect his trail and run him to the ground. He concluded to remain where he was until dark, when he would make another start, confident that by traveling all night, and taking advantage of all the means that came in his way, he could place a goodly distance between himself and the perilous neighborhood.

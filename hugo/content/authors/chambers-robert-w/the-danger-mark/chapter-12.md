@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Love Of The Gods"
 weight: 12
-aliases:
-  - "/authors/chambers-robert-w/the-danger-mark/chapter-12.html"
+url: "/authors/chambers-robert-w/the-danger-mark/chapter-12.html"
 ---
 
 Two days later the majority of the people had left Roya-Neh, and the remainder were preparing to make their adieux to the young chatelaine by proxy; for Geraldine had kept her room since the night of the masked fête, and nobody except Kathleen and Dr. Bailey had seen her.

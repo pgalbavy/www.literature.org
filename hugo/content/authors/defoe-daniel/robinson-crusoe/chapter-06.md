@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Ill And Conscience-Stricken"
 weight: 6
-aliases:
-  - "/authors/defoe-daniel/robinson-crusoe/chapter-06.html"
+url: "/authors/defoe-daniel/robinson-crusoe/chapter-06.html"
 ---
 
 WHEN I came down to the ship I found it strangely removed. The forecastle, which lay before buried in sand, was heaved up at least six feet, and the stern, which was broke in pieces and parted from the rest by the force of the sea, soon after I had left rummaging her, was tossed as it were up, and cast on one side; and the sand was thrown so high on that side next her stern, that whereas there was a great place of water before, so that I could not come within a quarter of a mile of the wreck without swimming I could now walk quite up to her when the tide was out. I was surprised with this at first, but soon concluded it must be done by the earthquake; and as by this violence the ship was more broke open than formerly, so many things came daily on shore, which the sea had loosened, and which the winds and water rolled by degrees to the land.

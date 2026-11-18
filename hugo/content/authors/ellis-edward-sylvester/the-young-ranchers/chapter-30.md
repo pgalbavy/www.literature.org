@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - Comrades Again"
 weight: 30
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-30.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-30.html"
 ---
 
 Actuated by his resolution to learn the real meaning of the signal fire seen on the crest of the ridge, Warren Starr pushed on in the face of the fact that every rod in the way of advance increased his own peril. Studying the contour of the country, and carefully making his calculations, he was able to tell when he drew near the scene of his stirring encounter with the war party of Sioux. Deeming it unsafe to ride farther, he drew his pony aside, and, dismounting, led him among the rocks and trees, until he was beyond sight of anyone passing over the open country. He did not forget that a plain trail was left, which would serve as an unerring guide to those hostiles who might come upon it, but that was one of the risks of the undertaking which could not be avoided.

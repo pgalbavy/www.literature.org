@@ -1,8 +1,7 @@
 ---
 title: "Chapter 106 - Dividing The Proceeds"
 weight: 106
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-106.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-106.html"
 ---
 
 The apartment on the second floor of the house in the Rue Saint-Germain-des-Pres, where Albert de Morcerf had selected a home for his mother, was let to a very mysterious person. This was a man whose face the concierge himself had never seen, for in the winter his chin was buried in one of the large red handkerchiefs worn by gentlemen's coachmen on a cold night, and in the summer he made a point of always blowing his nose just as he approached the door. Contrary to custom, this gentleman had not been watched, for as the report ran that he was a person of high rank, and one who would allow no impertinent interference, his incognito was strictly respected.

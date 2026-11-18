@@ -1,8 +1,7 @@
 ---
 title: "chapter 20"
 weight: 999
-aliases:
-  - "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-20.html"
+url: "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-20.html"
 ---
 
 Next morning the Scarecrow called upon all the courtiers and the people to assemble in the throne room of the castle, where there was room enough for all that were able to attend. They found the straw man seated upon the velvet cushions of the throne, with the King's glittering crown still upon his stuffed head. On one side of the throne, in a lower chair, sat Gloria, looking radiantly beautiful and fresh as a new-blown rose. On the other side sat Pon, the gardener's boy, still dressed in his old smock frock and looking sad and solemn; for Pon could not make himself believe that so splendid a Princess would condescend to love him when she had come to her own and was seated upon a throne. Trot and Cap'n Bill sat at the feet of the Scarecrow and were much interested in the proceedings. Button-Bright had lost himself before breakfast, but came into the throne room before the ceremonies were over. Back of the throne stood a row of the great Orks, with their leader in the center, and the entrance to the palace was guarded by more Orks, who were regarded with wonder and awe.

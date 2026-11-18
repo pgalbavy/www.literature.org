@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Shipwreck On The Tin Islands"
 weight: 13
-aliases:
-  - "/authors/nesbit-edith/the-story-of-the-amulet/chapter-13.html"
+url: "/authors/nesbit-edith/the-story-of-the-amulet/chapter-13.html"
 ---
 
 'Not always they don't,' said Cyril, 'it has to be crimson lake and Prussian blue. If you mix Vermilion and Indigo you get the most loathsome slate colour.'

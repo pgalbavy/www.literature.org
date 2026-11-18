@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-27.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-27.html"
 ---
 
 Federal officers, searching the hills found the camp above Jackknife Cañon. They collected a number of empty bottles bearing labels identical with those on the bottles in the cases carried by the burros, and those found in Custer Pennington’s room. That was all they discovered, except that the camp was located on the Pennington property.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Boy Lost!"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-14.html"
 ---
 
 Poor Mrs. Rabbit didn't know what to do. Her son Jimmy had not been home since early morning; and she was sure he was lost. She hurried through the woods, looking for him everywhere. But not a trace of him could she find. No one had seen him.

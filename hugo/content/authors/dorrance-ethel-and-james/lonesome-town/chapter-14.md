@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Credit Plan"
 weight: 14
-aliases:
-  - "/authors/dorrance-ethel-and-james/lonesome-town/chapter-14.html"
+url: "/authors/dorrance-ethel-and-james/lonesome-town/chapter-14.html"
 ---
 
 The Sheepfold in Central Park is a U-shaped structure of red brick walls and a low roof that is mostly gables. One of the wings is winter quarters for the Dorset flock. The connecting curve, the lower half of which is an archway, houses in the upper Shepherd Tom and his family. The remaining wing, although built for a different purpose, is now used as a garage for the motor cycle police. Within is parking space for all the machines in regular use in the park and some extras.

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 5 - Maggie's Second Visit"
 weight: 18
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-02-chapter-05.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-02-chapter-05.html"
 ---
 
 This last breach between the two lads was not readily mended, and for some time they spoke to each other no more than was necessary. Their natural antipathy of temperament made resentment an easy passage to hatred, and in Philip the transition seemed to have begun; there was no malignity in his disposition, but there was a susceptibility that made him peculiarly liable to a strong sense of repulsion. The ox - we may venture to assert it on the authority of a great classic - is not given to use his teeth as an instrument of attack, and Tom was an excellent bovine lad, who ran at questionable objects in a truly ingenious bovine manner; but he had blundered on Philip's tenderest point, and had caused him as much acute pain as if he had studied the means with the nicest precision and the most envenomed spite. Tom saw no reason why they should not make up this quarrel as they had done many others, by behaving as if nothing had happened; for though he had never before said to Philip that his father was a rogue, this idea had so habitually made part of his feeling as to the relation between himself and his dubious schoolfellow, who he could neither like nor dislike, that the mere utterance did not make such an epoch to him as it did to Philip. And he had a right to say so when Philip hectored over him, and called him names. But perceiving that his first advances toward amity were not met, he relapsed into his least favorable disposition toward Philip, and resolved never to appeal to him either about drawing or exercise again. They were only so far civil to each other as was necessary to prevent their state of feud from being observed by Mr. Stelling, who would have "put down" such nonsense with great vigor.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-11.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-11.html"
 ---
 
 At the edge of Marlin Town stood the bungalow of the coal company's superintendent, and in its living-room, on either side of a document-littered table, sat two men. One of them, silvered of temple and somewhat portly of stature, leaned back with the tranquillity of complete relaxation after his day's work. His face wore the urbanity of well-being and prosperity, but the man across from him leaned forward with an attitude of nervous tension.

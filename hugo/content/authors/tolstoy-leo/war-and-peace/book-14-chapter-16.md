@@ -1,8 +1,7 @@
 ---
 title: "Book 14 - Chapter 16"
 weight: 314
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-14-chapter-16.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-14-chapter-16.html"
 ---
 
 After the twenty-eighth of October when the frosts began, the flight of the French assumed a still more tragic character, with men freezing, or roasting themselves to death at the campfires, while carriages with people dressed in furs continued to drive past, carrying away the property that had been stolen by the Emperor, kings, and dukes; but the process of the flight and disintegration of the French army went on essentially as before.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-20.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-20.html"
 ---
 
 In the middle of that night Hamel sat up in bed, awakened with a sudden start by some sound, only the faintest echo of which remained in his consciousness. His nerves were tingling with a sense of excitement. He sat up in bed and listened. Suddenly it came again - a long, low moan of pain, stifled at the end as though repressed by some outside agency. He leaped from his bed, hurried on a few clothes, and stepped out on to the landing. The cry had seemed to him to come from the further end of the long corridor - in the direction, indeed, of the room where Mr. Dunster lay. He made his way there, walking on tiptoe, although his feet fell noiselessly upon the thick carpet. A single light was burning from a bracket in the wall, insufficient to illuminate the empty spaces, but enough to keep him from stumbling. The corridor towards the south end gradually widened, terminating in a splendid high window with stained glass, a broad seat, and a table. On the right, the end room was Mr. Dunster's apartment, and on the left a flight of stairs led to the floor above. Hamel stood quite still, listening. There was a light in the room, as he could see from under the door, but there was no sound of any one moving. Hamel listened intently, every sense strained. Then the sound of a stair creaking behind diverted his attention. He looked quickly around. Gerald was descending. The boy's face was white, and his eyes were filled with fear. Hamel stepped softly back from the door and met him at the foot of the stairs.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-19.html"
+url: "/authors/eliot-george/middlemarch/chapter-19.html"
 ---
 
 "L' altra vedete ch'ha fatto alla guancia Della sua palma, sospirando, letto." - Purgatorio, vii.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - On National Education"
 weight: 13
-aliases:
-  - "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/chapter-12.html"
+url: "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/chapter-12.html"
 ---
 
 The good effects resulting from attention to private education will ever be very confined, and the parent who really puts his own hand to the plow, will always, in some degree be disappointed, till education becomes a grand national concern. A man cannot retire into a desert with his child, and if he did, he could not bring himself back to childhood, and become the proper friend and play-fellow of an infant or youth. And when children are confined to the society of men and women, they very soon acquire that kind of premature manhood which stops the growth of every vigorous power of mind or body. In order to open their faculties they should be excited to think for themselves; and this can only be done by mixing a number of children together, and making them jointly pursue the same objects.

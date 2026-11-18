@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Fate"
 weight: 9
-aliases:
-  - "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-09.html"
+url: "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-09.html"
 ---
 
 Turning to the man behind him Seabury attempted to extract a little information, and the man was very affable and anxious to be of help, but all he could do was to nod and utter Teutonic gutturals through a bushy beard with a deep, buzzing sound, and Seabury sank back, beaten and dejected.

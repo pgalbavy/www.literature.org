@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Letter"
 weight: 1
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-01.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-01.html"
 ---
 
 Towards the middle of the month of May, in the year 1660, at nine o'clock in the morning, when the sun, already high in the heavens, was fast absorbing the dew from the ramparts of the castle of Blois a little cavalcade, composed of three men and two pages, re-entered the city by the bridge, without producing any other effect upon the passengers of the quay beyond a first movement of the hand to the head, as a salute, and a second movement of the tongue to express, in the purest French then spoken in France: "There is Monsieur returning from hunting." And that was all.

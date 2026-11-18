@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-27.html"
+url: "/authors/austen-jane/mansfield-park/chapter-27.html"
 ---
 
 On reaching home Fanny went immediately upstairs to deposit this unexpected acquisition, this doubtful good of a necklace, in some favourite box in the East room, which held all her smaller treasures; but on opening the door, what was her surprise to find her cousin Edmund there writing at the table! Such a sight having never occurred before, was almost as wonderful as it was welcome.

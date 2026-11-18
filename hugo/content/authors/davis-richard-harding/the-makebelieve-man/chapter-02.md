@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/davis-richard-harding/the-makebelieve-man/chapter-02.html"
+url: "/authors/davis-richard-harding/the-makebelieve-man/chapter-02.html"
 ---
 
 I felt, for me, adventures had already begun, for my meeting with the beautiful lady was the event of my life, and though Kinney and I had agreed to share our adventures, of this one I knew I could not even speak to him. I wanted to be alone, where I could delight in it, where I could go over what she had said; what I had said. I would share it with no one. It was too wonderful, too sacred. But Kinney would not be denied. He led me to our cabin and locked the door.

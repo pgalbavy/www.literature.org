@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-12.html"
 ---
 
 Jacob Jones—The *Wasp* and the *Frolic*—James Biddle —The *Hornet* and the *Penguin* —A Narrow Escape.

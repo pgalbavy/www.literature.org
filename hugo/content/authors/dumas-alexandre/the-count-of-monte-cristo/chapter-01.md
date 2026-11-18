@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Marseilles -- The Arrival"
 weight: 1
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-01.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-01.html"
 ---
 
 On the 24th of February, 1810, the look-out at Notre-Dame de la Garde signalled the three-master, the Pharaon from Smyrna, Trieste, and Naples.

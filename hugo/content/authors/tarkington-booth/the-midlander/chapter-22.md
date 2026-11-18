@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-22.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-22.html"
 ---
 
 *MARTHA* had said that Dan’s remaining away "didn’t hurt—not exactly"; and by this she meant to give Harlan the impression that she was less than hurt; but such a denial, thus qualified, means in truth more than hurt. She was a "big Western woman," but she could be sensitive, and had her resentments and her smallnesses. Perhaps she was not quite genuinely sorry to believe that the old friend who neglected to bid her welcome home had begun to look almost middle-aged and seemed to have lost something fine that he had possessed in his youth. There were characteristic possessions of his that he had not lost, however; he had even acquired more of them, as she discovered one evening a few weeks after the Sunday noon when little Henry tore her dress.

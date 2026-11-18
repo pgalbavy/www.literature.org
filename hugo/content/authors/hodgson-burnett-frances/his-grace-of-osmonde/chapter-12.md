@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - In Which Is Sold A Portrait"
 weight: 13
-aliases:
-  - "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-12.html"
+url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-12.html"
 ---
 
 There are sure more forces in this Universe than Man has so far discovered, and so, not dreaming of them, can neither protect himself against, nor aid them in their workings if he would. Who has not sometimes fancied he saw their mysterious movings and--if of daring mind--been tempted to believe that in some future, even on this earth, the science of their laws might be sought for and explained? Who has not seen the time when his own life, or that of some other, seemed to flow, as a current flows, either towards or away from some end, planned or unplanned by his own mind. At one time he may plan and struggle, and, in spite of all his efforts, the current sweeps him away from the object he strives to attain--as though he were a mere feather floating upon its stream; at another, the tide bears him onward as a boat is borne by the rapids, towards a thing he had not dreamed of, nor even vaguely wished to reach. At such hours, resistance seems useless. We seize an oar, it breaks in the flood; we snatch at an overhanging bough, it snaps or slips our grasp; we utter cries for help, those on the bank pass by not hearing, or cast to us a rope the current bears out of reach. Then we cry "Fate!" and either wring our hands, or curse, or sit and gaze straight before us, while we are swept on--either over the cataract's edge and dashed to fragments, or out to the trackless ocean, to be tossed by wind and wave till some bark sees and saves us--or we sink.

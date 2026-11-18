@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Across The Border"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-22.html"
 ---
 
 *NOW* came several days’ experience, so similar in its main features that it is not worth while to describe it in detail.

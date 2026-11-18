@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 8"
 weight: 26
-aliases:
-  - "/authors/conrad-joseph/romance/part-04-chapter-08.html"
+url: "/authors/conrad-joseph/romance/part-04-chapter-08.html"
 ---
 
 The calm had returned. The sea, changing from the warm glitter of a gem, and attuned to the grays and blacks of space, resembled a monstrous cinder under a sky of ashes.

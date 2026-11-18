@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 13"
 weight: 13
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-13.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-13.html"
 ---
 
 After dinner, and till the beginning of the evening, Kitty was feeling a sensation akin to the sensation of a young man before a battle. Her heat throbbed violently, and her thoughts would not rest on anything.

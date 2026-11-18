@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - La Terrasse"
 weight: 17
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-17.html"
+url: "/authors/bronte-charlotte/villette/chapter-17.html"
 ---
 
 These struggles with the natural character, the strong native bent of the heart, may seem futile and fruitless, but in the end they do good. They tend, however slightly, to give the actions, the conduct, that turn which Reason approves, and which Feeling, perhaps, too often opposes: they certainly make a difference in the general tenour of a life, and enable it to be better regulated, more equable, quieter on the surface; and it is on the surface only the common gaze will fall. As to what lies below, leave that with God. Man, your equal, weak as you, and not fit to be your judge, may be shut out thence: take it to your Maker - show Him the secrets of the spirit He gave - ask Him how you are to bear the pains He has appointed - kneel in His presence, and pray with faith for light in darkness, for strength in piteous weakness, for patience in extreme need. Certainly, at some hour, though perhaps not your hour, the waiting waters will stir; in some shape, though perhaps not the shape you dreamed, which your heart loved, and for which it bled, the healing herald will descend, the cripple and the blind, and the dumb, and the possessed will be led to bathe. Herald, come quickly! Thousands lie round the pool, weeping and despairing, to see it, through slow years, stagnant. Long are the "times" of Heaven: the orbits of angel messengers seem wide to mortal vision; they may enring ages: the cycle of one departure and return may clasp unnumbered generations; and dust, kindling to brief suffering life, and through pain, passing back to dust, may meanwhile perish out of memory again, and yet again. To how many maimed and mourning millions is the first and sole angel visitant, him easterns call Azrael!

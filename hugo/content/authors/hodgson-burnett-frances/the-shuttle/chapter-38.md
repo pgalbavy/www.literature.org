@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - At Shandy's"
 weight: 38
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-38.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-38.html"
 ---
 
 On a late-summer evening in New York the atmosphere surrounding a certain corner table at Shandy's cheap restaurant in Fourteenth Street was stirred by a sense of excitement.

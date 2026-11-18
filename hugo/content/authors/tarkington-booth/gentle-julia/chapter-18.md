@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/tarkington-booth/gentle-julia/chapter-18.html"
+url: "/authors/tarkington-booth/gentle-julia/chapter-18.html"
 ---
 
 They went satirically down the street, their chumminess with one another bountifully increased by their common derision of the outsider on the porch; and even at a distance they still contrived to make themselves intolerable; looking back over their shoulders, at intervals, with say-not-so expressions on their faces. Even when these faces were far enough away to be but yellowish oval planes, their say-not-so expressions were still bitingly eloquent.

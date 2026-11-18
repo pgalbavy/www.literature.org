@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Bosom Friend"
 weight: 10
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-010.html"
+url: "/authors/melville-herman/moby-dick/chapter-010.html"
 ---
 
 Returning to the Spouter-Inn from the Chapel, I found Queequeg there quite alone; he having left the Chapel before the benediction some time. He was sitting on a bench before the fire, with his feet on the stove hearth, and in one hand was holding close up to his face that little negro idol of his; peering hard into its face, and with a jack-knife gently whittling away at its nose, meanwhile humming to himself in his heathenish way.

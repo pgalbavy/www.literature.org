@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/daviess-maria-thompson/phyllis/chapter-02.html"
+url: "/authors/daviess-maria-thompson/phyllis/chapter-02.html"
 ---
 
 Changing a lifelong principle is almost as difficult as wearing new shoes that don't exactly fit you, and it makes you feel just as awkward and limp in mind as the shoes do in feet. Still I believe in adopting new ideas. I have never liked the appearance of boys, and I never supposed that when you knew one it would be a pleasant experience; but in the case of Tony Luttrell it is, and in the case of Pink Chadwell it is almost so.

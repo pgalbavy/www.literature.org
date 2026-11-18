@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Jack And Fred"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-01.html"
 ---
 
 You should have seen those youths, for it gives me pleasure to say that two manlier, more plucky and upright boys it would be hard to find anywhere in this broad land of ours. I have set out to tell you about their remarkable adventures in the grandest section of the West, and, before doing so, it is necessary for you to know something concerning the lads themselves.

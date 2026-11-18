@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Eyes in the Dark"
 weight: 15
-aliases:
-  - "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-14.html"
+url: "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-14.html"
 ---
 
 My son! I could not believe my ears. Slowly I rose and faced the handsome youth. Now that I looked at him closely I commenced to see why his face and personality had attracted me so strongly. There was much of his mother's incomparable beauty in his clear-cut features, but it was strongly masculine beauty, and his grey eyes and the expression of them were mine.

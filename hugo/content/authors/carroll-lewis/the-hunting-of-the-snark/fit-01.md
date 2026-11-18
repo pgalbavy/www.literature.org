@@ -1,8 +1,7 @@
 ---
 title: "Fit 1 - The Landing"
 weight: 2
-aliases:
-  - "/authors/carroll-lewis/the-hunting-of-the-snark/fit-01.html"
+url: "/authors/carroll-lewis/the-hunting-of-the-snark/fit-01.html"
 ---
 
 "Just the place for a Snark!" the Bellman cried,  

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Wonderful Start"
 weight: 3
-aliases:
-  - "/authors/ridge-w-pett/mixed-grill/chapter-03.html"
+url: "/authors/ridge-w-pett/mixed-grill/chapter-03.html"
 ---
 
 DAZED by sudden introduction to a distinguished company, he glanced eagerly and confusedly around in the hope of finding some one who would give him a smile of encouragement. The most distinguished of all, seated opposite to him, acknowledged his bow and gave the order that a chair should be offered, and this was accepted.

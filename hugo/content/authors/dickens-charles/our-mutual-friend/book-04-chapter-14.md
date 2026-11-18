@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 14 - Checkmate To The Friendly Move"
 weight: 64
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-04-chapter-14.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-04-chapter-14.html"
 ---
 
 Mr and Mrs John Harmon had so timed their taking possession of their rightful name and their London house, that the event befel on the very day when the last waggon-load of the last Mound was driven out at the gates of Boffin’s Bower. As it jolted away, Mr Wegg felt that the last load was correspondingly removed from his mind, and hailed the auspicious season when that black sheep, Boffin, was to be closely sheared.

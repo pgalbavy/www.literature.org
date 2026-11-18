@@ -1,8 +1,7 @@
 ---
 title: "Chapter 60"
 weight: 60
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-60.html"
+url: "/authors/eliot-george/middlemarch/chapter-60.html"
 ---
 
 Good phrases are surely, and ever were, very commendable. - Justice Shallow.

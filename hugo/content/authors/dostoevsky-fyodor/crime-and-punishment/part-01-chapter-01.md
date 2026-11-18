@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 1"
 weight: 2
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-01-chapter-01.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-01-chapter-01.html"
 ---
 
 On an exceptionally hot evening early in July a young man came out of the garret in which he lodged in S. Place and walked slowly, as though in hesitation, towards K. bridge.

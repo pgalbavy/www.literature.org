@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Fatty Coon At Home"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-01.html"
 ---
 
 Fatty Coon was so fat and round that he looked like a ball of fur, with a plumelike tail for a handle. But if you looked at him closely you would have seen a pair of very bright eyes watching you.

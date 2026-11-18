@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/daviess-maria-thompson/the-golden-bird/chapter-04.html"
+url: "/authors/daviess-maria-thompson/the-golden-bird/chapter-04.html"
 ---
 
 It is beautiful how sometimes deserving courage is rewarded if it just goes on deserving long enough. After about an hour's hand-to-saw bout with the old plank I was just chewing through the last inch of the last of the four sides of nest number two when I suddenly stopped and listened. Far away to the front of the house I heard hot oaths being uttered by the engine in a huge racing-machine with a powerful chug with which I was quite familiar. While I listened, the motor in agony gave a snort as it bounded over some kind of obstruction and in two seconds, as I stood saw in hand, with not enough time to wipe the sweat of toil from my brow, the huge blue machine swept around the corner of the house, brought up beside the family coach, which was still standing in front of the barn, and Matthew flung himself out of it and to my side.

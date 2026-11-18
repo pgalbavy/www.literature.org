@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 4"
 weight: 4
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-01-chapter-04.html"
+url: "/authors/cather-willa/o-pioneers/part-01-chapter-04.html"
 ---
 
 For the first three years after John Bergson's death, the affairs of his family prospered. Then came the hard times that brought every one on the Divide to the brink of despair; three years of drouth and failure, the last struggle of a wild soil against the encroaching plowshare. The first of these fruitless summers the Bergson boys bore courageously. The failure of the corn crop made labor cheap. Lou and Oscar hired two men and put in bigger crops than ever before. They lost everything they spent. The whole country was discouraged. Farmers who were already in debt had to give up their land. A few foreclosures demoralized the county. The settlers sat about on the wooden sidewalks in the little town and told each other that the country was never meant for men to live in; the thing to do was to get back to Iowa, to Illinois, to any place that had been proved habitable. The Bergson boys, certainly, would have been happier with their uncle Otto, in the bakery shop in Chicago. Like most of their neighbors, they were meant to follow in paths already marked out for them, not to break trails in a new country. A steady job, a few holidays, nothing to think about, and they would have been very happy. It was no fault of theirs that they had been dragged into the wilderness when they were little boys. A pioneer should have imagination, should be able to enjoy the idea of things more than the things themselves.

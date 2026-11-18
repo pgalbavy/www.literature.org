@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - An Aboriginal Plot"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-03.html"
 ---
 
 The boys tried the plan of Fred Linden; he swerved slightly to the left, while Terry Clark made a sharp angle to the right. They never thought of getting beyond hearing of each other, and, but for the plentiful undergrowth they would have kept in sight. They had taken but a few steps when Fred looked around and found that he was alone. He could hear his young friend pushing his way among the trees, and once or twice he caught snatches of a tune that he was whistling—that being a favorite pastime of the lad when by himself.

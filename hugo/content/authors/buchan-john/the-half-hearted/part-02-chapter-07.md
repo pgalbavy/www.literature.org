@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 7 - Friend To Friend"
 weight: 26
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-02-chapter-07.html"
+url: "/authors/buchan-john/the-half-hearted/part-02-chapter-07.html"
 ---
 
 He found George sitting down in the verandah after waltzing. His partner was a sister of Logan's, a dark girl whose husband was Resident somewhere in Lower Kashmir. The lady gave her hand to Lewis and he took the vacant seat on the other side.

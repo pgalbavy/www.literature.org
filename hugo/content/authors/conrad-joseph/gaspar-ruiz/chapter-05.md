@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/conrad-joseph/gaspar-ruiz/chapter-05.html"
+url: "/authors/conrad-joseph/gaspar-ruiz/chapter-05.html"
 ---
 
 *GASPAR RUIZ,* who could with ease bend apart the heavy iron bars of the prison, was led out with others to summary execution. "Every bullet has its billet," runs the proverb. All the merit of proverbs consists in the concise and picturesque expression. In the surprise of our minds is found their persuasiveness. In other words, we are struck and convinced by the shock.

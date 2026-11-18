@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/buchan-john/salute-to-adventurers/preface.html"
+url: "/authors/buchan-john/salute-to-adventurers/preface.html"
 ---
 
 TO *MAJOR-GENERAL THE HON. SIR REGINALD TALBOT, K.C.B*.

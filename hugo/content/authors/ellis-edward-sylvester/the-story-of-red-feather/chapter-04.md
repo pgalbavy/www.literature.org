@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Consultation--On The Roof"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/the-story-of-red-feather/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/the-story-of-red-feather/chapter-04.html"
 ---
 
 Melville now examined the fix of the chieftain more closely. His struggles had hurt the skin about his neck and shoulders, and there could be no doubt he was suffering considerably.

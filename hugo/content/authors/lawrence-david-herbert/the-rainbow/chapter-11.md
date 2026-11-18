@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - First Love"
 weight: 11
-aliases:
-  - "/authors/lawrence-david-herbert/the-rainbow/chapter-11.html"
+url: "/authors/lawrence-david-herbert/the-rainbow/chapter-11.html"
 ---
 
 As Ursula passed from girlhood towards womanhood, gradually the cloud of self-responsibility gathered upon her. She became aware of herself, that she was a separate entity in the midst of an unseparated obscurity, that she must go somewhere, she must become something. And she was afraid, troubled. Why, oh why must one grow up, why must one inherit this heavy, numbing responsibility of living an undiscovered life? Out of the nothingness and the undifferentiated mass, to make something of herself! But what? In the obscurity and pathlessness to take a direction! But whither? How take even one step? And yet, how stand still? This was torment indeed, to inherit the responsibility of one's own life.

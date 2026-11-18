@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Geoffrey Has A Visitor"
 weight: 20
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-19.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-19.html"
 ---
 
 And Beatrice--had she fared better during these long months? Alas, not at all. She had gone away from the Bryngelly Station on that autumn morning of farewell sick at heart, and sick at heart she had remained. Through all the long winter months sorrow and bitterness had been her portion, and now in the happiness of spring, sorrow and bitterness were with her still. She loved him, she longed for his presence, and it was denied to her. She could not console herself as can some women, nor did her deep passion wear away; on the contrary, it seemed to grow and gather with every passing week. Neither did she wish to lose it, she loved too well for that. It was better to be thus tormented by conscience and by hopelessness than to lose her cause of pain.

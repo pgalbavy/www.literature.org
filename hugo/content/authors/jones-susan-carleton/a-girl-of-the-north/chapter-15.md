@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-15.html"
+url: "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-15.html"
 ---
 
 THE winter passed quickly—spring came, a soft, slow, gentle coming. Paul Harvey was a constant visitor at Victoria Mansions.

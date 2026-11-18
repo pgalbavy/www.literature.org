@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/london-jack/the-jacket-star-rover/chapter-07.html"
+url: "/authors/london-jack/the-jacket-star-rover/chapter-07.html"
 ---
 
 So here was my predicament: I knew that within myself was a Golconda of memories of other lives, yet I was unable to do more than flit like a madman through those memories. I had my Golconda but could not mine it.

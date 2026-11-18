@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Another Sound"
 weight: 31
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-31.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-31.html"
 ---
 
 The little party were overwhelmed with dismay. The very man on whom they had relied from the beginning, the one who had conducted them thus far, and the one who, under heaven, could alone guide them to safety, had thrown up his hands and yielded the struggle. He lay on the snow limp, helpless, and despairing.

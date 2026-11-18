@@ -1,8 +1,7 @@
 ---
 title: "chapter 11"
 weight: 999
-aliases:
-  - "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-11.html"
+url: "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-11.html"
 ---
 
 When our friends approached the great doorway of the castle they found it guarded by several soldiers dressed in splendid uniforms. They were armed with swords and lances. Cap'n Bill walked straight up to them and asked:

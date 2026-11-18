@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 1"
 weight: 1
-aliases:
-  - "/authors/austen-jane/emma/volume-01-chapter-01.html"
+url: "/authors/austen-jane/emma/volume-01-chapter-01.html"
 ---
 
 Emma Woodhouse, handsome, clever, and rich, with a comfortable home and happy disposition, seemed to unite some of the best blessings of existence; and had lived nearly twenty-one years in the world with very little to distress or vex her.

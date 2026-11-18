@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - An Unexpected Meeting"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/seth-jones/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/seth-jones/chapter-08.html"
 ---
 
 Wearied and exhausted, Graham crawled forth from the water, and lay down a while to rest himself upon the soft, velvety carpet of grass. Here, overcome by the terrific strain which his system had undergone, he fell into a deep and lasting sleep. When he awoke, the day had far advanced, and the sun was already past the meridian. After fully awakening, and fervently thanking Heaven for his remarkable preservation and escape, he commenced debating with himself upon the best course for him to pursue. He was now alone in the great wilderness, and what step should he next take? Should he endeavor to hunt up his friend Haverland, or should he press on in the pursuit of the object which had led him thus far?

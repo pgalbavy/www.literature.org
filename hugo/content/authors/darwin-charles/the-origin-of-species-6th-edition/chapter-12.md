@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Geographical Distribution"
 weight: 14
-aliases:
-  - "/authors/darwin-charles/the-origin-of-species-6th-edition/chapter-12.html"
+url: "/authors/darwin-charles/the-origin-of-species-6th-edition/chapter-12.html"
 ---
 
 Present distribution cannot be accounted for by differences in physical conditions -- Importance of barriers -- Affinity of the productions of the same continent -- Centres of creation -- Means of dispersal by changes of climate and of the level of the land, and by occasional means -- Dispersal during the Glacial period -- Alternate Glacial periods in the North and South.

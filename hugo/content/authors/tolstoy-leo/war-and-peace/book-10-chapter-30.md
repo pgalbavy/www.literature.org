@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 30"
 weight: 220
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-30.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-30.html"
 ---
 
 On returning to Gorki after having seen Prince Andrew, Pierre ordered his groom to get the horses ready and to call him early in the morning, and then immediately fell asleep behind a partition in a corner Boris had given up to him.

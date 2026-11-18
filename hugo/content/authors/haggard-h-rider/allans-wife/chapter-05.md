@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The End Of The Laager"
 weight: 6
-aliases:
-  - "/authors/haggard-h-rider/allans-wife/chapter-05.html"
+url: "/authors/haggard-h-rider/allans-wife/chapter-05.html"
 ---
 
 I gasped with wonder and rage. What did that scoundrel Indaba-zimbi mean? Why had I been drawn out of the laager and seized, and why, being seized, was I not instantly killed? They called me the “White Spirit.” Could it be that they were keeping me to make me into medicine? I had heard of such things being done by Zulus and kindred tribes, and my blood ran cold at the thought. What an end! To be pounded up, made medicine of, and eaten!

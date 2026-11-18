@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/verne-jules/from-the-earth-to-the-moon/chapter-06.html"
+url: "/authors/verne-jules/from-the-earth-to-the-moon/chapter-06.html"
 ---
 
 The immediate result of Barbicane's proposition was to place upon the orders of the day all the astronomical facts relative to the Queen of the Night. Everybody set to work to study assiduously. One would have thought that the moon had just appeared for the first time, and that no one had ever before caught a glimpse of her in the heavens. The papers revived all the old anecdotes in which the "sun of the wolves" played a part; they recalled the influences which the ignorance of past ages ascribed to her; in short, all America was seized with selenomania, or had become moon-mad.

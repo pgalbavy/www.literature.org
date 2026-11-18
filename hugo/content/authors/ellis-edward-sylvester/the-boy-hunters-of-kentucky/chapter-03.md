@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Meeting On The Bridge"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-03.html"
 ---
 
 Jack Gedney walked down the slight descent, and stepping upon the fallen tree, moved to the other bank. As he came up again to the general level, he still looked around for some game, but nothing met his eye.

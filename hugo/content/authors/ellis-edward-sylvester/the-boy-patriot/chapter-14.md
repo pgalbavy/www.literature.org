@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Derry Duck"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-14.html"
 ---
 
 Derry Duck having vouchsafed his protection to the young stranger, for a time sought no further intimacy with him. He might be seen occasionally among the groups who were won to hear a song or a story from Blair, but he was apt to leave these scenes suddenly, as if for some call of duty or stirred by some quick and painful thrust of feeling.

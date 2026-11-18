@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Rescue"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/the-riflemen-of-the-miami/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/the-riflemen-of-the-miami/chapter-01.html"
 ---
 
 If it were done, when 'tis done, then 'twere well  

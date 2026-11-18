@@ -1,8 +1,7 @@
 ---
 title: "Chapter 48 - The King Of The Golden Mountain"
 weight: 48
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-48.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-48.html"
 ---
 
 There was once a merchant who had only one child, a son, that was very young, and barely able to run alone. He had two richly laden ships then making a voyage upon the seas, in which he had embarked all his wealth, in the hope of making great gains, when the news came that both were lost. Thus from being a rich man he became all at once so very poor that nothing was left to him but one small plot of land; and there he often went in an evening to take his walk, and ease his mind of a little of his trouble.

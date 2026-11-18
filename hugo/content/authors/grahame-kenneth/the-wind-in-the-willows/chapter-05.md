@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Dulce Domum"
 weight: 5
-aliases:
-  - "/authors/grahame-kenneth/the-wind-in-the-willows/chapter-05.html"
+url: "/authors/grahame-kenneth/the-wind-in-the-willows/chapter-05.html"
 ---
 
 The sheep ran huddling together against the hurdles, blowing out thin nostrils and stamping with delicate fore-feet, their heads thrown back and a light steam rising from the crowded sheep-pen into the frosty air, as the two animals hastened by in high spirits, with much chatter and laughter. They were returning across country after a long day's outing with Otter, hunting and exploring on the wide uplands, where certain streams tributary to their own River had their first small beginnings; and the shades of the short winter day were closing in on them, and they had still some distance to go. Plodding at random across the plough, they had heard the sheep and had made for them; and now, leading from the sheep-pen, they found a beaten track that made walking a lighter business, and responded, moreover, to that small inquiring something which all animals carry inside them, saying unmistakably, "Yes, quite right; this leads home!"

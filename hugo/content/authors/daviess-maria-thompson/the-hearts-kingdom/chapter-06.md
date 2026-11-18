@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Deep Digging"
 weight: 6
-aliases:
-  - "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-06.html"
+url: "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-06.html"
 ---
 
 And in another twinkling of eyes, both of mine and hers, I had taken her bundle from her, seated her in the largest rocking chair, and she had untied her bonnet strings, which denoted that she had come for a genuine visit.

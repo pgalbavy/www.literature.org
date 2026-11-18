@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39 - The Colonel Goes To Sleep"
 weight: 39
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-39.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-39.html"
 ---
 
 The state of mind is difficult to picture which could induce a peaceable christian-natured individual, who had moreover in the course of his career been mixed up with enough bloodshed to have acquired a thorough horror of it, to offer to fight a duel. Yet this state had been reached by Harold Quaritch.

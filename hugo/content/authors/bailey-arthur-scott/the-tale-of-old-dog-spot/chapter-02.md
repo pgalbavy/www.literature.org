@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Teasing The Cat"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-02.html"
 ---
 
 When Miss Kitty Cat came to the farmhouse to live she soon showed old dog Spot that she could fight like a vixen. The first time he cornered her she put some scratches on his nose that he never forgot. And after that he always took great pains to keep out of reach of Miss Kitty's claws.

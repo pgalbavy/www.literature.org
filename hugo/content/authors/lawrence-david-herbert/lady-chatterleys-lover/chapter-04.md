@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-04.html"
+url: "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-04.html"
 ---
 
 Connie always had a foreboding of the hopelessness of her affair with Mick, as people called him. Yet other men seemed to mean nothing to her. She was attached to Clifford. He wanted a good deal of her life and she gave it to him. But she wanted a good deal from the life of a man, and this Clifford did not give her; could not. There were occasional spasms of Michaelis. But, as she knew by foreboding, that would come to an end. Mick COULDN'T keep anything up. It was part of his very being that he must break off any connexion, and be loose, isolated, absolutely lone dog again. It was his major necessity, even though he always said: She turned me down!

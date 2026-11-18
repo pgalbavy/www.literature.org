@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Mary De Mancini"
 weight: 13
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-13.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-13.html"
 ---
 
 The sun had scarcely shed its first beams on the majestic trees of the park and the lofty turrets of the castle, when the young king, who had been awake more than two hours, possessed by the sleeplessness of love, opened his shutters himself, and cast an inquiring look into the courts of the sleeping palace. He saw that it was the hour agreed upon: the great court clock pointed to a quarter past four. He did not disturb his valet de chambre, who was sleeping soundly at some distance; he dressed himself, and the valet, in a great fright sprang up, thinking he had been deficient in his duty; but the king sent him back again, commanding him to preserve the most absolute silence. He then descended the little staircase, went out at a lateral door, and perceived at the end of the wall a mounted horseman holding another horse by the bridle. This horseman could not be recognized in his cloak and slouched hat. As to the horse, saddled like that of a rich citizen, it offered nothing remarkable to the most experienced eye. Louis took the bridle: the officer held the stirrup without dismounting, and asked his majesty's orders in a low voice.

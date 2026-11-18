@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Political Molecule"
 weight: 7
-aliases:
-  - "/authors/eliot-george/impressions-of-theophrastus-such/chapter-07.html"
+url: "/authors/eliot-george/impressions-of-theophrastus-such/chapter-07.html"
 ---
 
 The most arrant denier must admit that a man often furthers larger ends than he is conscious of, and that while he is transacting his particular affairs with the narrow pertinacity of a respectable ant, he subserves an economy larger than any purpose of his own. Society is happily not dependent for the growth of fellowship on the small minority already endowed with comprehensive sympathy: any molecule of the body politic working towards his own interest in an orderly way gets his understanding more or less penetrated with the fact that his interest is included in that of a large number. I have watched several political molecules being educated in this way by the nature of things into a faint feeling of fraternity. But at this moment I am thinking of Spike, an elector who voted on the side of Progress though he was not inwardly attached to it under that name. For abstractions are deities having many specific names, local habitations, and forms of activity, and so get a multitude of devout servants who care no more for them under their highest titles than the celebrated person who, putting with forcible brevity a view of human motives now much insisted on, asked what Posterity had done for him that he should care for Posterity? To many minds even among the ancients (thought by some to have been invariably poetical) the goddess of wisdom was doubtless worshipped simply as the patroness of spinning and weaving. Now spinning and weaving from a manufacturing, wholesale point of view, was the chief form under which Spike from early years had unconsciously been a devotee of Progress.

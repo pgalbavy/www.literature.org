@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 9"
 weight: 26
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-03-chapter-09.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-03-chapter-09.html"
 ---
 
 The author returns to Maldonada. Sails to the kingdom of Luggnagg. The author confined. He is sent for to court. The manner of his admittance. The king’s great lenity to his subjects.

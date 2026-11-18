@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Evil Genius"
 weight: 19
-aliases:
-  - "/authors/collins-wilkie/the-new-magdalen/chapter-19.html"
+url: "/authors/collins-wilkie/the-new-magdalen/chapter-19.html"
 ---
 
 RECOVERING from the first overpowering sensation of surprise, Mercy rapidly advanced, eager to say her first penitent words. Grace stopped her by a warning gesture of the hand. "No nearer to me," she said, with a look of contemptuous command. "Stay where you are."

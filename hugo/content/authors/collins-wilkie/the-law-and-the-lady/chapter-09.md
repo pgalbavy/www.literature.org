@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Defeat Of The Major"
 weight: 9
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-09.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-09.html"
 ---
 
 MAJOR FITZ-DAVID'S visitor proved to be a plump, round-eyed overdressed girl, with a florid complexion and straw colored hair. After first fixing on me a broad stare of astonishment, she pointedly addressed her apologies for intruding on us to the Major alone. The creature evidently believed me to be the last new object of the old gentleman's idolatry; and she took no pains to disguise her jealous resentment on discovering us together. Major Fitz-David set matters right in his own irresistible way. He kissed the hand of the overdressed girl as devotedly as he had kissed mine; he told her she was looking charmingly. Then he led her, with his happy mixture of admiration and respect, back to the door by which she had entered--a second door communicating directly with the hall.

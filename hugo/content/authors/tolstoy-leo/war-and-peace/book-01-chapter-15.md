@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 15"
 weight: 15
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-01-chapter-15.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-01-chapter-15.html"
 ---
 
 "My dear Boris," said Princess Anna Mikhaylovna to her son as Countess Rostova's carriage in which they were seated drove over the straw covered street and turned into the wide courtyard of Count Cyril Vladimirovich Bezukhov's house. "My dear Boris," said the mother, drawing her hand from beneath her old mantle and laying it timidly and tenderly on her son's arm, "be affectionate and attentive to him. Count Cyril Vladimirovich is your godfather after all, your future depends on him. Remember that, my dear, and be nice to him, as you so well know how to be."

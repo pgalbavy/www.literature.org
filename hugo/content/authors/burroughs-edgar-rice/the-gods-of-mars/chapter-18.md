@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Sola's Story"
 weight: 19
-aliases:
-  - "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-18.html"
+url: "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-18.html"
 ---
 
 Once within the palace, I drew Sola to the dining hall, and, when she had greeted her father after the formal manner of the green men, she told the story of the pilgrimage and capture of Dejah Thoris.

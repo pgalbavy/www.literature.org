@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 6"
 weight: 23
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-03-chapter-06.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-03-chapter-06.html"
 ---
 
 A further account of the academy. The author proposes some improvements, which are honourably received.

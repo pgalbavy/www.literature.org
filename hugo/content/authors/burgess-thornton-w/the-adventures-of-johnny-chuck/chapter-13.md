@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Polly And Johnny Chuck Go House Hunting"
 weight: 13
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-13.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-13.html"
 ---
 
 Johnny Chuck was happy. Yes, Sir, Johnny Chuck was happy—so happy that he felt like doing foolish things. You see Johnny Chuck loved Polly Chuck and he knew now that Polly Chuck loved him. He had known it ever since he had fought with the foolish little dog who had dared to frighten Polly Chuck.

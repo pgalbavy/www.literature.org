@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Lion And The Unicorn"
 weight: 1
-aliases:
-  - "/authors/davis-richard-harding/the-lion-and-the-unicorn-and-other-stories/chapter-01.html"
+url: "/authors/davis-richard-harding/the-lion-and-the-unicorn-and-other-stories/chapter-01.html"
 ---
 
 Prentiss had a long lease on the house, and because it stood in Jermyn Street the upper floors were, as a matter of course, turned into lodgings for single gentlemen; and because Prentiss was a Florist to the Queen, he placed a lion and unicorn over his flowershop, just in front of the middle window on the first floor. By stretching a little, each of them could see into the window just beyond him, and could hear all that was said inside; and such things as they saw and heard during the reign of Captain Carrington, who moved in at the same time they did! By day the table in the centre of the room was covered with maps, and the Captain sat with a box of pins, with different-colored flags wrapped around them, and amused himself by sticking them in the maps and measuring the spaces in between, swearing meanwhile to himself. It was a selfish amusement, but it appeared to be the Captain’s only intellectual pursuit, for at night, the maps were rolled up, and a green cloth was spread across the table, and there was much company and popping of soda-bottles, and little heaps of gold and silver were moved this way and that across the cloth. The smoke drifted out of the open windows, and the laughter of the Captain’s guests rang out loudly in the empty street, so that the policeman halted and raised his eyes reprovingly to the lighted windows, and cabmen drew up beneath them and lay in wait, dozing on their folded arms, for the Captain’s guests to depart. The Lion and the Unicorn were rather ashamed of the scandal of it, and they were glad when, one day, the Captain went away with his tin boxes and gun-cases piled high on a four-wheeler.

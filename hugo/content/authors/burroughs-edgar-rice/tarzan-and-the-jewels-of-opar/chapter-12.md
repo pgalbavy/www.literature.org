@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-12.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-12.html"
 ---
 
 Swinging back through the jungle in a wide circle the ape-man came to the river at another point, drank and took to the trees again and while he hunted, all oblivious of his past and careless of his future, there came through the dark jungles and the open, parklike places and across the wide meadows, where grazed the countless herbivora of the mysterious continent, a weird and terrible caravan in search of him. There were fifty frightful men with hairy bodies and gnarled and crooked legs. They were armed with knives and great bludgeons and at their head marched an almost naked woman, beautiful beyond compare. It was La of Opar, High Priestess of the Flaming God, and fifty of her horrid priests searching for the purloiner of the sacred sacrificial knife.

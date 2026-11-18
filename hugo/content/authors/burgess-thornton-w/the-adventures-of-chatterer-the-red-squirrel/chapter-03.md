@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Chatterer Tells Sammy Jay About Shadow The Weasel"
 weight: 3
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-03.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-03.html"
 ---
 
 Chatterer hurried through the Green Forest. He didn't know just where he was going. He had but one thought, and that was to get as far away from Shadow the Weasel as he could. It made him have cold shivers all over every time he thought of Shadow.

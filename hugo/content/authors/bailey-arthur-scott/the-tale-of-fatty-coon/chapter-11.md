@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Jasper Jay Tells Some News"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-11.html"
 ---
 
 It was quite late in the fall, and the weather had grown very cold. Mrs. Coon and her family had not left their home for several days; but on this day she thought it would be pleasant to go out in the sunshine and get a breath of fresh air and a bite to eat.

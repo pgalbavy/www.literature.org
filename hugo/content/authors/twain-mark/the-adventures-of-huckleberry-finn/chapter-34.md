@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 34
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-34.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-34.html"
 ---
 
 WE stopped talking, and got to thinking. By and by Tom says:

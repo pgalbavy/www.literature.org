@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Hiding From Henry Hawk"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-19.html"
 ---
 
 In the spring Grumpy Weasel was always glad to see the birds coming back from the South. But it must not be supposed that it was because he liked to hear them sing (for he didn't!).

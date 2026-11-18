@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-22.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-22.html"
 ---
 
 Still the boy sat silent, with his chin in his hand, as sits the self-torturing figure of Rodin's bronze "Penseur"--the attitude of thought which kills peace. Boone understood that unless Happy found a man who shared with her that idea of keeping the torch lit in the midst of darkness, her life might benefit others, but for herself it would be a distressing failure.

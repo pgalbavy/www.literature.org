@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - A Meeting Of Mystery"
 weight: 3
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-03.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-03.html"
 ---
 
 A RATHER attractive-looking, though overdressed, young woman was dining in a second-rate chop-house in London. She was noticeable, not so much for her fine figure and coarsely beautiful face as for the size and appearance of her companion, a large, well-proportioned man in the mid-twenties, with such a tremendous beard that it gave him the appearance of hiding in ambush. He stood fully three inches over six feet. His shoulders were broad, his chest deep, and his hips narrow. His physique, his carriage, everything about him, suggested indubitably the trained athlete.

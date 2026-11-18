@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/chambers-robert-w/the-business-of-life/chapter-13.html"
+url: "/authors/chambers-robert-w/the-business-of-life/chapter-13.html"
 ---
 
 They were married in the morning at St. George's in Stuyvesant Square.

@@ -1,8 +1,7 @@
 ---
 title: "Leaf 2 - A Love-Letter, Loaded"
 weight: 2
-aliases:
-  - "/authors/daviess-maria-thompson/the-melting-of-molly/leaf-02.html"
+url: "/authors/daviess-maria-thompson/the-melting-of-molly/leaf-02.html"
 ---
 
 The very worst page in this red--red devil--I'm glad I've written it at last--of a book is the fifth. It says:

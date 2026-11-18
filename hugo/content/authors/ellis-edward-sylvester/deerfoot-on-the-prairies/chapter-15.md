@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Question Of Skill And Courage"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-15.html"
 ---
 
 *THE* situation had taken on a most singular phase. The Shelton brothers were waiting on the crest of the ridge for the return of their Blackfoot friend, when in a brief time they were called upon to enter into a brief struggle with two Shoshone or Snake Indians for the possession of their own property.

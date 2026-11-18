@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/tarkington-booth/gentle-julia/chapter-22.html"
+url: "/authors/tarkington-booth/gentle-julia/chapter-22.html"
 ---
 
 There was no light in any other part of the house, they discovered, after abandoning the front door bell for an excursion to the rear. "That's disheartening to a hungry person," Julia remarked: and then remembered that she had a key to the front door in her purse. She opened the door, and lighted the hall chandelier while Noble brought in her bags from the steps where the taxicab driver had left them.

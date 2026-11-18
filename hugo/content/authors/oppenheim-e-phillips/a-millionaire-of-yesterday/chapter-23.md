@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-23.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-23.html"
 ---
 
 After six weeks' incessant throbbing the great engines were still, and the Dunottar Castle lay at anchor a mile or two from the African coast and off the town of Attra. The heat, which in motion had been hard enough to bear, was positively stifling now. The sun burned down upon the glassy sea and the white deck till the varnish on the rails cracked and blistered, and the sweat streamed like water from the faces of the labouring seamen. Below at the ship's side half a dozen surf boats were waiting, manned by Kru boys, who alone seemed perfectly comfortable, and cheerful as usual. All around were preparations for landing - boxes were being hauled up from the hold, and people were going about in reach of small parcels and deck-chairs and missing acquaintances. Trent, in white linen clothes and puggaree, was leaning over the railing, gazing towards the town, when Da Souza came up to him -

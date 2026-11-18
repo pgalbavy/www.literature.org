@@ -1,8 +1,7 @@
 ---
 title: "Chapter 70 - The Sphynx"
 weight: 70
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-070.html"
+url: "/authors/melville-herman/moby-dick/chapter-070.html"
 ---
 
 It should not have been omitted that previous to completely stripping the body of the leviathan, he was beheaded. Now, the beheading of the Sperm Whale is a scientific anatomical feat, upon which experienced whale surgeons very much pride themselves: and not without reason.

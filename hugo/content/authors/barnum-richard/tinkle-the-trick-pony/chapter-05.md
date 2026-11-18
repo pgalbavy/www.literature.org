@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Tinkle’s Friends"
 weight: 5
-aliases:
-  - "/authors/barnum-richard/tinkle-the-trick-pony/chapter-05.html"
+url: "/authors/barnum-richard/tinkle-the-trick-pony/chapter-05.html"
 ---
 
 “Well, I never expected to see you here!” exclaimed a whinnying voice as Tinkle was led into his stall. The little pony looked up in surprise and saw a big horse.

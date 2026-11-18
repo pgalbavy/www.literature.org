@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Paris In Mourning"
 weight: 3
-aliases:
-  - "/authors/davis-richard-harding/about-paris/chapter-03.html"
+url: "/authors/davis-richard-harding/about-paris/chapter-03.html"
 ---
 
 [Illustration]

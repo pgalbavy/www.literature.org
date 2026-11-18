@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Escape Of Arsène Lupin"
 weight: 3
-aliases:
-  - "/authors/leblanc-maurice/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/chapter-03.html"
+url: "/authors/leblanc-maurice/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/chapter-03.html"
 ---
 
 Arsène Lupin had just finished his repast and taken from his pocket an excellent cigar, with a gold band, which he was examining with unusual care, when the door of his cell was opened. He had barely time to throw the cigar into the drawer and move away from the table. The guard entered. It was the hour for exercise.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/tarkington-booth/the-beautiful-lady/chapter-10.html"
+url: "/authors/tarkington-booth/the-beautiful-lady/chapter-10.html"
 ---
 
 All of the beggars in Naples, I think, all of the flower-girls and boys, I am sure, and all the wandering serenaders, I will swear, were under our windows at the Vesuve, from six o'clock on the morning the "Princess Irene" sailed; and there need be no wonder when it is known that Poor Jr. had thrown handfuls of silver and five-lire notes from our balcony to strolling orchestras and singers for two nights before.

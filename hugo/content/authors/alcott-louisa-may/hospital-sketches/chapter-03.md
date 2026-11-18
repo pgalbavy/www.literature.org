@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - A Day"
 weight: 4
-aliases:
-  - "/authors/alcott-louisa-may/hospital-sketches/chapter-03.html"
+url: "/authors/alcott-louisa-may/hospital-sketches/chapter-03.html"
 ---
 
 "They've come! they've come! hurry up, ladies - you're wanted."

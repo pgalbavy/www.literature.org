@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-15.html"
+url: "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-15.html"
 ---
 
 There was a letter from Hilda on the breakfast-tray. 'Father is going to London this week, and I shall call for you on Thursday week, June 17th. You must be ready so that we can go at once. I don't want to waste time at Wragby, it's an awful place. I shall probably stay the night at Retford with the Colemans, so I should be with you for lunch, Thursday. Then we could start at teatime, and sleep perhaps in Grantham. It is no use our spending an evening with Clifford. If he hates your going, it would be no pleasure to him.'

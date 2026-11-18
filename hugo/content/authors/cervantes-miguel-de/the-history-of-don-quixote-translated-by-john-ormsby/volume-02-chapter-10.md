@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 10 - Wherein Is Related The Crafty Device Sancho Adopted To Enchant The Lady Dulcinea, And Other Incidents As Ludicrous As They Are True"
 weight: 66
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-10.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-10.html"
 ---
 
 When the author of this great history comes to relate what is set down in this chapter he says he would have preferred to pass it over in silence, fearing it would not be believed, because here Don Quixote’s madness reaches the confines of the greatest that can be conceived, and even goes a couple of bowshots beyond the greatest. But after all, though still under the same fear and apprehension, he has recorded it without adding to the story or leaving out a particle of the truth, and entirely disregarding the charges of falsehood that might be brought against him; and he was right, for the truth may run fine but will not break, and always rises above falsehood as oil above water; and so, going on with his story, he says that as soon as Don Quixote had ensconced himself in the forest, oak grove, or wood near El Toboso, he bade Sancho return to the city, and not come into his presence again without having first spoken on his behalf to his lady, and begged of her that it might be her good pleasure to permit herself to be seen by her enslaved knight, and deign to bestow her blessing upon him, so that he might thereby hope for a happy issue in all his encounters and difficult enterprises. Sancho undertook to execute the task according to the instructions, and to bring back an answer as good as the one he brought back before.

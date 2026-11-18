@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - The Queens Class Is Organized"
 weight: 30
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-30.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-30.html"
 ---
 
 Marilla laid her knitting on her lap and leaned back in her chair. Her eyes were tired, and she thought vaguely that she must see about having her glasses changed the next time she went to town, for her eyes had grown tired very often of late.

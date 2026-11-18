@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Tabitha's Christmas"
 weight: 18
-aliases:
-  - "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-18.html"
+url: "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-18.html"
 ---
 
 Christmas Day dawned bright and clear and with the first peep of dawn Tabitha was out of bed, shaking Chrystobel vigorously and calling, "Merry Christmas, lazybones! Wake up; it's day! The rising bell has rung. Didn't you hear it?"

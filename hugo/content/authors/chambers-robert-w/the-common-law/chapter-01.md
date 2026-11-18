@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/chambers-robert-w/the-common-law/chapter-01.html"
+url: "/authors/chambers-robert-w/the-common-law/chapter-01.html"
 ---
 
 There was a long, brisk, decisive ring at the door. He continued working. After an interval the bell rang again, briefly, as though the light touch on the electric button had lost its assurance.

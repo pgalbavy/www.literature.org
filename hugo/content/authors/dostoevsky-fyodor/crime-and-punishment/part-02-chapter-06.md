@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 6"
 weight: 14
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-02-chapter-06.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-02-chapter-06.html"
 ---
 
 But as soon as she went out, he got up, latched the door, undid the parcel which Razumihin had brought in that evening and had tied up again and began dressing. Strange to say, he seemed immediately to have become perfectly calm; not a trace of his recent delirium nor of the panic fear that had haunted him of late. It was the first moment of a strange sudden calm. His movements were precise and definite; a firm purpose was evident in them. "To-day, to-day," he muttered to himself. He understood that he was still weak, but his intense spiritual concentration gave him strength and self-confidence. He hoped, moreover, that he would not fall down in the street. When he had dressed in entirely new clothes, he looked at the money lying on the table, and after a moment's thought put it in his pocket. It was twenty-five roubles. He took also all the copper change from the ten roubles spent by Razumihin on the clothes. Then he softly unlatched the door, went out, slipped downstairs and glanced in at the open kitchen door. Nastasya was standing with her back to him, blowing up the landlady's samovar. She heard nothing. Who would have dreamed of his going out, indeed? A minute later he was in the street.

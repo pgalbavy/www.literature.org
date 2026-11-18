@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - The Bride-To-Be"
 weight: 30
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-30.html"
+url: "/authors/tarkington-booth/seventeen/chapter-30.html"
 ---
 
 In the smallish house which all summer long, from morning until late at night, had resounded with the voices of young people, echoing their songs, murmurous with their theories of love, or vibrating with their glee, sometimes shaking all over during their more boisterous moods—in that house, now comparatively so vacant, the proprietor stood and breathed deep breaths.

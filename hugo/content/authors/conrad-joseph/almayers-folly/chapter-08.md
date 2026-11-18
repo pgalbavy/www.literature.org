@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/conrad-joseph/almayers-folly/chapter-08.html"
+url: "/authors/conrad-joseph/almayers-folly/chapter-08.html"
 ---
 
 The news as to the identity of the body lying now in Almayer's compound spread rapidly over the settlement. During the forenoon most of the inhabitants remained in the long street discussing the mysterious return and the unexpected death of the man who had become known to them as the trader. His arrival during the north-east monsoon, his long sojourn in their midst, his sudden departure with his brig, and, above all, the mysterious appearance of the body, said to be his, amongst the logs, were subjects to wonder at and to talk over and over again with undiminished interest. Mahmat moved from house to house and from group to group, always ready to repeat his tale: how he saw the body caught by the sarong in a forked log; how Mrs. Almayer coming, one of the first, at his cries, recognised it, even before he had it hauled on shore; how Babalatchi ordered him to bring it out of the water. "By the feet I dragged him in, and there was no head," exclaimed Mahmat, "and how could the white man's wife know who it was? She was a witch, it was well known. And did you see how the white man himself ran away at the sight of the body? Like a deer he ran!" And here Mahmat imitated Almayer's long strides, to the great joy of the beholders. And for all his trouble he had nothing. The ring with the green stone Tuan Babalatchi kept. "Nothing! Nothing!" He spat down at his feet in sign of disgust, and left that group to seek further on a fresh audience.

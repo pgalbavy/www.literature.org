@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Pursued By The Apaches"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-03.html"
 ---
 
 As stealthily as a phantom did the canoe bearing the scout skim along the shore of the Gila, hugging the banks as closely as possible, so as to take advantage of the ribbon of shadow which followed the winding of the stream. The moon was creeping higher up the sky, and this advantage would soon be denied the fugitive altogether, so every minute was improved to the utmost. Now and then Tom ceased paddling, and as the boat shot forward with undiminished speed, bent his head and listened. This was continued until he had passed fully a quarter of a mile, when he rested for a longer time than usual.

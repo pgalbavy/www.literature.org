@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - First Years"
 weight: 2
-aliases:
-  - "/authors/hughes-thomas/memoir-of-a-brother/chapter-01.html"
+url: "/authors/hughes-thomas/memoir-of-a-brother/chapter-01.html"
 ---
 
 My brother was born on the 18th of September, 1821 at Uffington, in Berkshire, of which your great-grandfather was vicar. Uffington was then a very primitive village, far away from any high road, and seven miles from Wantage, the nearest town from which a coach ran to London. There were very few neighbours, the roads were almost impassable for carriages in the winter, and the living was a poor one; but your great-grandfather (who was a Canon of St. Paul’s) had exchanged a much richer living for it, because his wife had been born there, and was deeply attached to the place. Three George Watts’s had been vicars of Uffington, in direct succession from father to son, and she was the daughter of the last of them. So your grandfather, who was their only child, came to live in the village on his marriage, in an old farmhouse close to the church, to which your grandfather added some rooms, so as to make it habitable. If you should ever make a pilgrimage to the place, you will not find the house, for it has been pulled down; but the grand old church is there, and White Horse Hill, rising just behind the village, just as they were half a century ago, when we first looked at them. We could see the church from our bed-room window, and the hill from our nursery, a queer upper room amongst the rafters, at the top of the old part of the house, with a dark closet in one corner, into which the nurses used to put us when we were more unruly than usual. Here we lived till your great-grandfather’s death, thirteen years later, when your grandfather removed to his house at Donnington.

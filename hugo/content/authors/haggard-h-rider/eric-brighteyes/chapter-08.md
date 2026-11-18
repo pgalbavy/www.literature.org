@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - How Ospakar Blacktooth Found Eric Brighteyes And Skallagrim Lambstail On Horse-Head Heights"
 weight: 9
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-08.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-08.html"
 ---
 
 Now Skallagrim led Eric to his cave and fed the fire and gave him flesh to eat and ale to drink. When he had eaten his fill Eric looked at the Baresark. He had black hair streaked with grey that hung down upon his shoulders. His nose was hooked like an eagle’s beak, his beard was wild and his sunken eyes were keen as a hawk’s. He was somewhat bent and not over tall, but of a mighty make, for his shoulders must pass many a door sideways.

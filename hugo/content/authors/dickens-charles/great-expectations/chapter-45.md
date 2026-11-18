@@ -1,8 +1,7 @@
 ---
 title: "Chapter 45"
 weight: 45
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-45.html"
+url: "/authors/dickens-charles/great-expectations/chapter-45.html"
 ---
 
 TURNING from the Temple gate as soon as I had read the warning, I made the best of my way to Fleet-street, and there got a late hack- ney chariot and drove to the Hummums in Covent Garden. In those times a bed was always to be got there at any hour of the night, and the chamberlain, letting me in at his ready wicket, lighted the candle next in order on his shelf, and showed me straight into the bedroom next in order on his list. It was a sort of vault on the ground floor at the back, with a despotic monster of a four-post bedstead in it, straddling over the whole place, putting one of his arbitrary legs into the fire-place and another into the doorway, and squeezing the wretched little washing-stand in quite a Divinely Righteous manner.

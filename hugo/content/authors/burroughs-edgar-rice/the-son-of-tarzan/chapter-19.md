@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-19.html"
+url: "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-19.html"
 ---
 
 Behind them Korak emerged from the jungle and recovered his spear from Numa's side. He still was smiling. He had enjoyed the spectacle exceedingly. There was one thing that troubled him--the agility with which the she had clambered from her pony's back into the safety of the tree ABOVE her. That was more like mangani--more like his lost Meriem. He sighed. His lost Meriem! His little, dead Meriem! He wondered if this she stranger resembled his Meriem in other ways. A great longing to see her overwhelmed him. He looked after the three figures moving steadily across the plain. He wondered where might lie their destination. A desire to follow them came over him, but he only stood there watching until they had disappeared in the distance. The sight of the civilized girl and the dapper, khaki clad Englishman had aroused in Korak memories long dormant.

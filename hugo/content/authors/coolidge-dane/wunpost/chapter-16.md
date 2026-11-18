@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Divine Providence"
 weight: 16
-aliases:
-  - "/authors/coolidge-dane/wunpost/chapter-16.html"
+url: "/authors/coolidge-dane/wunpost/chapter-16.html"
 ---
 
 The thundercaps were gleaming like silver in the heat when Wunpost rode back to Jail Canyon; but he came on almost merrily, a sopping bath-towel about his neck and his shirt pulled out, like a Chinaman's. These were the last days of September when the clouds which had gathered for months at last were giving down their rain; and the air, now it was humid, seemed to open every pore and make the sweat run in rivulets. Wunpost perspired, but he was happy, and as he neared the silent house he whistled shrilly for his dog. Good Luck came out for a moment, looked down at him reproachfully, and crawled back under the house, Yes, it was hot in the canyon, for the ridge cut off the wind and the rimrock reflected yet more heat, but Wunpost was happy through it all. He had told Blackwater where it could go.

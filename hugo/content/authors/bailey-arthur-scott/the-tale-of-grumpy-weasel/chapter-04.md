@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Hunting A Hole"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-04.html"
 ---
 
 Usually Grumpy Weasel did not stray far from a certain corner of Farmer Green's wood lot. He preferred to hunt where he knew the lay of the land. And since he liked especially to hunt along old stone walls, he picked out a long stretch of old tumble-down wall that reached through the woods towards Blue Mountain.

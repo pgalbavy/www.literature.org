@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-07.html"
+url: "/authors/eliot-george/middlemarch/chapter-07.html"
 ---
 
 "Piacer e popone Vuol la sua stagione." - Italian Proverb.

@@ -1,8 +1,7 @@
 ---
 title: "Prologue"
 weight: 1
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/prologue.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/prologue.html"
 ---
 
 CRITIC ON THE HEARTH:

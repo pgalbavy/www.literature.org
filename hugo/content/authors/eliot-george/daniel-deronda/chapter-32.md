@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 32
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-32.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-32.html"
 ---
 
 In all ages it hath been a favorite text that a potent love hath the nature of an isolated fatality, whereto the mind's opinions and wonted resolves are altogether alien; as, for example, Daphnis his frenzy, wherein it had little availed him to have been convinced of Heraclitus his doctrine; or the philtre-bred passion of Tristan, who, though he had been as deep as Duns Scotus, would have had his reasoning marred by that cup too much; or Romeo in his sudden taking for Juliet, wherein any objections he might have held against Ptolemy had made little difference to his discourse under the balcony. Yet all love is not such, even though potent; nay, this passion hath as large scope as any for allying itself with every operation of the soul: so that it shall acknowledge an effect from the imagined light of unproven firmaments, and have its scale set to the grander orbits of what hath been and shall be.

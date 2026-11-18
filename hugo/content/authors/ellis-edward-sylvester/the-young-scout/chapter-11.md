@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Cavarho And Mendez"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-scout/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-11.html"
 ---
 
 The scout selected by Geronimo showed his wisdom by dismounting and setting out on foot to perform his delicate mission. Like Mendez, he did not mean to handicap himself with the presence of his horse.

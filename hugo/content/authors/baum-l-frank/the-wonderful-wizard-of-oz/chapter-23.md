@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Glinda The Good Witch Grants Dorothy's Wish "
 weight: 24
-aliases:
-  - "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-23.html"
+url: "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-23.html"
 ---
 
 Before they went to see Glinda, however, they were taken to a room of the Castle, where Dorothy washed her face and combed her hair, and the Lion shook the dust out of his mane, and the Scarecrow patted himself into his best shape, and the Woodman polished his tin and oiled his joints.

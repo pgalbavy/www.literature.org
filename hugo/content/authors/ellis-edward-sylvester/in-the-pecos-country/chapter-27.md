@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - A Subterranean Camp-Fire"
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-27.html"
 ---
 
 There is no sauce like hunger, and after Fred Munson's experience of partial starvation, and nausea from the wild berries which he had eaten, the venison was as luscious as could be. It seemed to him that he had never tasted of anything he could compare to it.

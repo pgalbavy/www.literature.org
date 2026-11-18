@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/baum-l-frank/tik-tok-of-oz/preface.html"
+url: "/authors/baum-l-frank/tik-tok-of-oz/preface.html"
 ---
 
 Preface To Louis F. Gottschalk, Whose sweet and dainty melodies breathe the true spirit of fairyland, this book is affectionately dedicated

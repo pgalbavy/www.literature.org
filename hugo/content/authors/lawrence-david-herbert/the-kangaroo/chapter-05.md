@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Coo-Ee"
 weight: 5
-aliases:
-  - "/authors/lawrence-david-herbert/the-kangaroo/chapter-05.html"
+url: "/authors/lawrence-david-herbert/the-kangaroo/chapter-05.html"
 ---
 
 They went to Mullumbimby by the two o'clock train from Sydney on the Friday afternoon, Jack having managed to get a day off for the occasion. He was a sort of partner in the motor-works place where he was employed, so it was not so difficult. And work was slack.

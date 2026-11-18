@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Besiegers And Besieged"
 weight: 28
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-28.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-28.html"
 ---
 
 Suddenly a bushy bead, with a black face, horribly distorted by passion, appeared at the window furthest from where Professor Grimcke was standing.

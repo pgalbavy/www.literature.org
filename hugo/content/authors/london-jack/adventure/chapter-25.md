@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Head-Hunters"
 weight: 25
-aliases:
-  - "/authors/london-jack/adventure/chapter-25.html"
+url: "/authors/london-jack/adventure/chapter-25.html"
 ---
 
 The morning's action had been settled the night before. Tudor was to stay behind in his banyan refuge and gather strength while the expedition proceeded. On the far chance that they might rescue even one solitary survivor of Tudor's party, Joan was fixed in her determination to push on; and neither Sheldon nor Tudor could persuade her to remain quietly at the banyan tree while Sheldon went on and searched. With Tudor, Adamu Adam and Arahu were to stop as guards, the latter Tahitian being selected to remain because of a bad foot which had been brought about by stepping on one of the thorns concealed by the bushmen. It was evidently a slow poison, and not too strong, that the bushmen used, for the wounded Poonga-Poonga man was still alive, and though his swollen shoulder was enormous, the inflammation had already begun to go down. He, too, remained with Tudor.

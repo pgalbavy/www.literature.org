@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - My Eagle"
 weight: 2
-aliases:
-  - "/authors/london-jack/the-iron-heel/chapter-01.html"
+url: "/authors/london-jack/the-iron-heel/chapter-01.html"
 ---
 
 "At first, this Earth, a stage so gloomed with woe You almost sicken at the shifting of the scenes. And yet be patient. Our Playwright may show In some fifth act what this Wild Drama means."

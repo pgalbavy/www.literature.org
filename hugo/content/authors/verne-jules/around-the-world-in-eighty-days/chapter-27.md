@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-27.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-27.html"
 ---
 
 In which Passepartout undergoes, at a speed of twenty miles an hour, a course of mormon history

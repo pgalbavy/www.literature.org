@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Spreading The News"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-08.html"
 ---
 
 When Freddie Firefly reached the swamp he found that the singing party had already broken up. But luckily, Mr. Frog the tailor was the last one to leave. He was still poised on the bank of the sluggish stream, ready to plunge into the water and swim away, when Freddie Firefly dropped down upon a cat-tail and called him by name, flashing his light frantically so that Mr. Frog would be sure to notice him.

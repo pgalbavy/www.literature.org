@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - \"Cities And Faces\""
 weight: 18
-aliases:
-  - "/authors/hodgson-burnett-frances/the-lost-prince/chapter-18.html"
+url: "/authors/hodgson-burnett-frances/the-lost-prince/chapter-18.html"
 ---
 
 The hours of Marco's unexplained absence had been terrible to Loristan and to Lazarus. They had reason for fears which it was not possible for them to express. As the night drew on, the fears took stronger form. They forgot the existence of The Rat, who sat biting his nails in the bedroom, afraid to go out lest he might lose the chance of being given some errand to do but also afraid to show himself lest he should seem in the way.

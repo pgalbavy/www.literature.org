@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - What The Fishermen Caught"
 weight: 2
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-02.html"
+url: "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-02.html"
 ---
 
 Seated with his back to the thicket, Jimmie heard a rustle and turned about expecting to see one of his chums.

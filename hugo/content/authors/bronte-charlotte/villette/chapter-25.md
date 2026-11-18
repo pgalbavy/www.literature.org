@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Little Countess"
 weight: 25
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-25.html"
+url: "/authors/bronte-charlotte/villette/chapter-25.html"
 ---
 
 Cheerful as my godmother naturally was, and entertaining as, for our sakes, she made a point of being, there was no true enjoyment that evening at La Terrasse, till, through the wild howl of the winter- night, were heard the signal sounds of arrival. How often, while women and girls sit warm at snug fire-sides, their hearts and imaginations are doomed to divorce from the comfort surrounding their persons, forced out by night to wander through dark ways, to dare stress of weather, to contend with the snow-blast, to wait at lonely gates and stiles in wildest storms, watching and listening to see and hear the father, the son, the husband coming home.

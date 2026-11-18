@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Dawn And Dusk"
 weight: 19
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-19.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-19.html"
 ---
 
 In early June, when the sand hills were a great glory of pink wild roses, and the Glen was smothered in apple blossoms, Marilla arrived at the little house, accompanied by a black horsehair trunk, patterned with brass nails, which had reposed undisturbed in the Green Gables garret for half a century. Susan Baker, who, during her few weeks' sojourn in the little house, had come to worship "young Mrs. Doctor," as she called Anne, with blind fervor, looked rather jealously askance at Marilla at first. But as Marilla did not try to interfere in kitchen matters, and showed no desire to interrupt Susan's ministrations to young Mrs. Doctor, the good handmaiden became reconciled to her presence, and told her cronies at the Glen that Miss Cuthbert was a fine old lady and knew her place.

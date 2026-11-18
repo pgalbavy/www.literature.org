@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Sherlock Holmes Gives a Demonstration"
 weight: 6
-aliases:
-  - "/authors/doyle-arthur-conan/the-sign-of-four/chapter-06.html"
+url: "/authors/doyle-arthur-conan/the-sign-of-four/chapter-06.html"
 ---
 
 "Now, Watson," said Holmes, rubbing his hands, "we have half an hour to ourselves. Let us make good use of it. My case is, as I have told you, almost complete; but we must not err on the side of overconfidence. Simple as the case seems now, there may be something deeper underlying it."

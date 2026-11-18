@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 12"
 weight: 13
-aliases:
-  - "/authors/cather-willa/my-antonia/book-01-chapter-12.html"
+url: "/authors/cather-willa/my-antonia/book-01-chapter-12.html"
 ---
 
 ON CHRISTMAS MORNING, when I got down to the kitchen, the men were just coming in from their morning chores--the horses and pigs always had their breakfast before we did. Jake and Otto shouted ‘Merry Christmas!’ to me, and winked at each other when they saw the waffle-irons on the stove. Grandfather came down, wearing a white shirt and his Sunday coat. Morning prayers were longer than usual. He read the chapters from Saint Matthew about the birth of Christ, and as we listened, it all seemed like something that had happened lately, and near at hand. In his prayer he thanked the Lord for the first Christmas, and for all that it had meant to the world ever since. He gave thanks for our food and comfort, and prayed for the poor and destitute in great cities, where the struggle for life was harder than it was here with us. Grandfather’s prayers were often very interesting. He had the gift of simple and moving expression. Because he talked so little, his words had a peculiar force; they were not worn dull from constant use. His prayers reflected what he was thinking about at the time, and it was chiefly through them that we got to know his feelings and his views about things.

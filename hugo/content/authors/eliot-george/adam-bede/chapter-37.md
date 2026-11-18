@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - The Journey In Despair"
 weight: 37
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-37.html"
+url: "/authors/eliot-george/adam-bede/chapter-37.html"
 ---
 
 HETTY was too ill through the rest of that day for any questions to be addressed to her - too ill even to think with any distinctness of the evils that were to come. She only felt that all her hope was crushed, and that instead of having found a refuge she had only reached the borders of a new wilderness where no goal lay before her. The sensations of bodily sickness, in a comfortable bed, and with the tendance of the good-natured landlady, made a sort of respite for her; such a respite as there is in the faint weariness which obliges a man to throw himself on the sand instead of toiling onward under the scorching sun.

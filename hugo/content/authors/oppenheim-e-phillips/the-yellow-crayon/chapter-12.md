@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-12.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-12.html"
 ---
 
 After all," Lady Carey sighed, throwing down a racing calendar and lighting a cigarette, "London is the only thoroughly civilized Anglo-Saxon capital in the world. Please don't look at me like that, Duchess. I know - this is your holy of holies, but the Duke smokes here - I've seen him. My cigarettes are very tiny and very harmless."

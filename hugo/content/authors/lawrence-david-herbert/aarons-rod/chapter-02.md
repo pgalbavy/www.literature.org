@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Royal Oak"
 weight: 2
-aliases:
-  - "/authors/lawrence-david-herbert/aarons-rod/chapter-02.html"
+url: "/authors/lawrence-david-herbert/aarons-rod/chapter-02.html"
 ---
 
 The war had killed the little market of the town. As he passed the market place on the brow, Aaron noticed that there were only two miserable stalls. But people crowded just the same. There was a loud sound of voices, men's voices. Men pressed round the doorways of the public-houses.

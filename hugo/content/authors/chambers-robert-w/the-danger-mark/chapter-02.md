@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - In Trust"
 weight: 2
-aliases:
-  - "/authors/chambers-robert-w/the-danger-mark/chapter-02.html"
+url: "/authors/chambers-robert-w/the-danger-mark/chapter-02.html"
 ---
 
 The enfranchisement of the Seagrave twins proceeded too slowly to satisfy their increasing desire for personal liberty and their fast-growing impatience of restraint.

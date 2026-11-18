@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Captain Hardy Entertained By St. Ambrose"
 weight: 23
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-21.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-21.html"
 ---
 
 There are moments in the life of the most self-contained and sober of us all, when we fairly bubble over, like a full bottle of champagne with the cork out; and this was one of them for our hero who however, be it remarked, was neither self-contained nor sober by nature. When they got back to his rooms, he really hardly knew what to do to give vent to his lightness of heart; and Hardy, though self-contained and sober enough in general, was on this occasion almost as bad as his friend. They rattled on, talked out the thing which came uppermost, whatever the subject might chance to be; but whether grave or gay, it always ended after a minute or two in jokes not always good, and chaff, and laughter. The poor captain was a little puzzled at first, and made one or two endeavours to turn the talk into improving channels. But very soon he saw that Jack was thoroughly happy, and that was always enough for him. So he listened to one and the other, joining cheerily in the laugh whenever he could; and when he couldn't catch the joke, looking like a benevolent old lion, and making as much belief that he had understood it all as the simplicity and truthfulness of his character would allow.

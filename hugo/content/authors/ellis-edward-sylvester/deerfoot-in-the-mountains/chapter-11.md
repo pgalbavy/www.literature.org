@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - In Winter Quarters"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-11.html"
 ---
 
 The time has come for us to turn our attention to George and Victor Shelton, who, after parting with Deerfoot, set out for the principal Blackfoot village under the guidance of their old friend Mul-tal-la, a member of that powerful organization of the Northwest.

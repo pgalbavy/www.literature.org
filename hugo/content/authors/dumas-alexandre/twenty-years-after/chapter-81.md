@@ -1,8 +1,7 @@
 ---
 title: "Chapter 81 - Cardinal Mazarin As King"
 weight: 81
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-81.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-81.html"
 ---
 
 The arrest produced no sensation, indeed was almost unknown, and scarcely interrupted the course of events. To the deputation it was formally announced that the queen would receive it.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Mainly Political And Financial"
 weight: 14
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-14.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-14.html"
 ---
 
 Except for that involuntary twitch of the eyelids, Superintendent Battle’s impassivity was unimpaired. If he had been surprised at Virginia’s recognition of Anthony, he did not show it. He and Lord Caterham stood together and watched those two go out through the garden door. Mr. Fish also watched them.

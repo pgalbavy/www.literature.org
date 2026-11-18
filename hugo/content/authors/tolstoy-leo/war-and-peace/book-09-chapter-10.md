@@ -1,8 +1,7 @@
 ---
 title: "Book 9 - Chapter 10"
 weight: 177
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-09-chapter-10.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-09-chapter-10.html"
 ---
 
 This letter had not yet been presented to the Emperor when Barclay, one day at dinner, informed Bolkonski that the sovereign wished to see him personally, to question him about Turkey, and that Prince Andrew was to present himself at Bennigsen's quarters at six that evening.

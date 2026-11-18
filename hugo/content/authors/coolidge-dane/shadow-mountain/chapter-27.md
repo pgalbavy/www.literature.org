@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - The Thunder Clap"
 weight: 27
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-27.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-27.html"
 ---
 
 The broad streets of Vegas were swarming with traffic as Wiley glided swiftly into town and he noticed that people looked at him curiously. Perhaps it was all imagination but it seemed to him they eyed him coldly. Yet what they thought or felt was nothing to him then--his business was with Samuel J. Blount. The mine was unprotected--he had not even told his foreman that he was leaving, or where he was going--and there was no time for anything but business. If there was any trouble for him, Samuel J. Blount was at the bottom of it, and he drove straight up to the bank. It was a huge, granite structure with massive onyx pillars and smiling young clerks at the grilles; but he hurried past them all and turned down a hall to a room that was marked: President--Private. This was no time for dallying or sending in cards--he opened the door and stepped in.

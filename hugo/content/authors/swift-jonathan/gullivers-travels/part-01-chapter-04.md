@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 4"
 weight: 5
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-01-chapter-04.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-01-chapter-04.html"
 ---
 
 Mildendo, the metropolis of Lilliput, described, together with the emperor’s palace. A conversation between the author and a principal secretary, concerning the affairs of that empire. The author’s offers to serve the emperor in his wars.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 33
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-33.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-33.html"
 ---
 
 The logs on the hearth leaped and crackled, spurting tongues of blue flame, and after they had roared up to their fullest they slowly subsided, until the shadows about the walls spread and encroached from their corners toward the center of the room. The polish of furniture and the bright angles of silver and bric-à-brac stood out with diminishing high-lights. Hour by hour and minute by minute the faces of two unmoving figures seated on a low and heavily cushioned couch grew less clear and merged into the growing darkness.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-15.html"
 ---
 
 "Eva, take the hand of your aunt," said Mr. Brainerd, who saw that his other daughter was desirous of saying something to him; "and let Maggie and me walk together for a few minutes."

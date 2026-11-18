@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Preparing For A Journey"
 weight: 1
-aliases:
-  - "/authors/hodgson-burnett-frances/theo/chapter-01.html"
+url: "/authors/hodgson-burnett-frances/theo/chapter-01.html"
 ---
 
 A heavy curtain of yellow fog rolled and drifted over the waste of beach, and rolled and drifted over the sea, and beneath the curtain the tide was coming in at Downport, and two pair of eyes were watching it. Both pair of eyes watched it from the same place, namely, from the shabby sitting-room of the shabby residence of David North, Esq., lawyer, and both watched it without any motive, it seemed, unless that the dull gray waves and their dull moaning were not out of accord with the watchers' feelings. One pair of eyes--a youthful, discontented black pair--watched it steadily, never turning away, as their owner stood in the deep, old-fashioned window, with both elbows resting upon the broad sill; but the other pair only glanced up now and then, almost furtively, from the piece of work Miss Pamela North, spinster, held in her slender, needle-worn fingers.

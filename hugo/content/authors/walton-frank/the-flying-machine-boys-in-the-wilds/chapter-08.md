@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Spring For Liberty"
 weight: 8
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-08.html"
+url: "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-08.html"
 ---
 
 The savages heard the clamor of the motors, too, and turned quick faces of alarm toward their white prisoners, as if they alone could explain what was coming to pass. Doran and his companion, also, turned questioning glances toward the two boys, while a slow smile of comprehension flitted over the face of the tramp.

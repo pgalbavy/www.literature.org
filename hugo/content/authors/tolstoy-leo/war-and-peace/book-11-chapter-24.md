@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 24"
 weight: 253
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-24.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-24.html"
 ---
 
 On the evening of the first of September, after his interview with Kutuzov, Count Rostopchin had returned to Moscow mortified and offended because he had not been invited to attend the council of war, and because Kutuzov had paid no attention to his offer to take part in the defense of the city; amazed also at the novel outlook revealed to him at the camp, which treated the tranquillity of the capital and its patriotic fervor as not merely secondary but quite irrelevant and unimportant matters. Distressed, offended, and surprised by all this, Rostopchin had returned to Moscow. After supper he lay down on a sofa without undressing, and was awakened soon after midnight by a courier bringing him a letter from Kutuzov. This letter requested the count to send police officers to guide the troops through the town, as the army was retreating to the Ryazan road beyond Moscow. This was not news to Rostopchin. He had known that Moscow would be abandoned not merely since his interview the previous day with Kutuzov on the Poklonny Hill but ever since the battle of Borodino, for all the generals who came to Moscow after that battle had said unanimously that it was impossible to fight another battle, and since then the government property had been removed every night, and half the inhabitants had left the city with Rostopchin's own permission. Yet all the same this information astonished and irritated the count, coming as it did in the form of a simple note with an order from Kutuzov, and received at night, breaking in on his beauty sleep.

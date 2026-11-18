@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - A Breakfast At Drysdale's"
 weight: 5
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-03.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-03.html"
 ---
 
 No man in St. Ambrose College gave such breakfasts as Drysdale. Not the great heavy spreads for thirty or forty, which came once or twice a term, when everything was supplied out of the college kitchen, and you had to ask leave of the Dean before you could have it at all. In those ponderous feasts the most hum-drum of the undergraduate kind might rival the most artistic, if he could only pay his battle-bill, or get credit with the cook. But the daily morning meal, when even gentlemen commoners were limited to two hot dishes out of the kitchen, this was Drysdale's forte. Ordinary men left the matter in the hands of scouts, and were content with the ever-recurring buttered toasts and eggs, with a dish of broiled ham, or something of the sort, with a marmalade and bitter ale to finish with; but Drysdale was not an ordinary man, as you felt in a moment when you went to breakfast with him for the first time.

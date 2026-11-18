@@ -1,8 +1,7 @@
 ---
 title: "Chapter 46"
 weight: 46
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-46.html"
+url: "/authors/dickens-charles/great-expectations/chapter-46.html"
 ---
 
 EIGHT o'clock had struck before I got into the air that was scented, not disagreeably, by the chips and shavings of the long-shore boat- builders, and mast oar and block makers. All that water-side region of the upper and lower Pool below Bridge, was unknown ground to me, and when I struck down by the river, I found that the spot I wanted was not where I had supposed it to be, and was anything but easy to find. It was called Mill Pond Bank, Chinks's Basin; and I had no other guide to Chinks's Basin than the Old Green Copper Rope-Walk.

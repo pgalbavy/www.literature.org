@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Visit Of Mutineers"
 weight: 17
-aliases:
-  - "/authors/defoe-daniel/robinson-crusoe/chapter-17.html"
+url: "/authors/defoe-daniel/robinson-crusoe/chapter-17.html"
 ---
 
 IN a little time, however, no more canoes appearing, the fear of their coming wore off; and I began to take my former thoughts of a voyage to the main into consideration; being likewise assured by Friday's father that I might depend upon good usage from their nation, on his account, if I would go. But my thoughts were a little suspended when I had a serious discourse with the Spaniard, and when I understood that there were sixteen more of his countrymen and Portuguese, who having been cast away and made their escape to that side, lived there at peace, indeed, with the savages, but were very sore put to it for necessaries, and, indeed, for life. I asked him all the particulars of their voyage, and found they were a Spanish ship, bound from the Rio de la Plata to the Havanna, being directed to leave their loading there, which was chiefly hides and silver, and to bring back what European goods they could meet with there; that they had five Portuguese seamen on board, whom they took out of another wreck; that five of their own men were drowned when first the ship was lost, and that these escaped through infinite dangers and hazards, and arrived, almost starved, on the cannibal coast, where they expected to have been devoured every moment. He told me they had some arms with them, but they were perfectly useless, for that they had neither powder nor ball, the washing of the sea having spoiled all their powder but a little, which they used at their first landing to provide themselves with some food.

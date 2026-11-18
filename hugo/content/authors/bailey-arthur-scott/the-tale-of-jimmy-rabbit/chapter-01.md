@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Jimmy Finds A New Tail"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-01.html"
 ---
 
 Jimmy Rabbit wanted a new tail. To be sure, he already had a tail--but it was so short that he felt it was little better than none at all. Frisky Squirrel and Billy Woodchuck had fine, bushy tails; and so had all the other forest-people, except the Rabbit family.

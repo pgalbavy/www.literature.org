@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/tarkington-booth/harlequin-and-columbine/chapter-07.html"
+url: "/authors/tarkington-booth/harlequin-and-columbine/chapter-07.html"
 ---
 
 For two hours, responding to the manipulation of the star and his thoroughly subjugated playwright, the character of "Roderick Hanscom" grew nobler and nobler, speech by speech and deed by deed, while the expression of the gentleman who was to impersonate it became, in precise parallel with this regeneration, sweeter and loftier and lovelier.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Bretton"
 weight: 1
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-01.html"
+url: "/authors/bronte-charlotte/villette/chapter-01.html"
 ---
 
 My godmother lived in a handsome house in the clean and ancient town of Bretton. Her husband's family had been residents there for generations, and bore, indeed, the name of their birthplace - Bretton of Bretton: whether by coincidence, or because some remote ancestor had been a personage of sufficient importance to leave his name to his neighbourhood, I know not.

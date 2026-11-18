@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Pursuit Of The Pursuers"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/the-riflemen-of-the-miami/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/the-riflemen-of-the-miami/chapter-10.html"
 ---
 
 The red-breast, perched in arbor green,  

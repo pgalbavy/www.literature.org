@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Tide Of Death"
 weight: 2
-aliases:
-  - "/authors/doyle-arthur-conan/the-poison-belt/chapter-02.html"
+url: "/authors/doyle-arthur-conan/the-poison-belt/chapter-02.html"
 ---
 
 As we crossed the hall the telephone-bell rang, and we were the involuntary auditors of Professor Challenger's end of the ensuing dialogue. I say "we," but no one within a hundred yards could have failed to hear the booming of that monstrous voice, which reverberated through the house. His answers lingered in my mind.

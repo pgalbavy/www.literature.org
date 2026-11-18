@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39"
 weight: 39
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-39.html"
+url: "/authors/london-jack/martin-eden/chapter-39.html"
 ---
 
 Over the coffee, in his little room, Martin read next morning's paper. It was a novel experience to find himself head-lined, on the first page at that; and he was surprised to learn that he was the most notorious leader of the Oakland socialists. He ran over the violent speech the cub reporter had constructed for him, and, though at first he was angered by the fabrication, in the end he tossed the paper aside with a laugh.

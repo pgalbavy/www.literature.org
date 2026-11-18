@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Ermengarde"
 weight: 4
-aliases:
-  - "/authors/hodgson-burnett-frances/a-little-princess/chapter-03.html"
+url: "/authors/hodgson-burnett-frances/a-little-princess/chapter-03.html"
 ---
 
 On that first morning, when Sara sat at Miss Minchin's side, aware that the whole school-room was devoting itself to observing her, she had noticed very soon one little girl, about her own age, who looked at her very hard with a pair of light, rather dull, blue eyes. She was a fat child who did not look as if she were in the least clever, but she had a good-naturedly pouting mouth. Her flaxen hair was braided in a tight pigtail, tied with a ribbon, and she had pulled this pigtail round her neck, and was biting the end of the ribbon, resting her elbows on the desk, as she stared wonderingly at the new pupil. When Monsieur Dufarge began to speak to Sara, she looked a little frightened; and when Sara stepped forward and, looking at him with the innocent, appealing eyes, answered him, without any warning, in French, the fat little girl gave a startled jump, and grew quite red in her awed amazement. Having wept hopeless tears for weeks in her efforts to remember that "la mère" meant "the mother," and "le père," "the father,"--when one spoke sensible English,--it was almost too much for her to suddenly find herself listening to a child her own age who seemed not only quite familiar with these words, but apparently knew any number of others, and could mix them up with verbs as if they were mere trifles.

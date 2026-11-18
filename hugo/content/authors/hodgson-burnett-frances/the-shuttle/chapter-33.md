@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - For Lady Jane"
 weight: 33
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-33.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-33.html"
 ---
 
 There is no one thing on earth of such interest as the study of the laws of temperament, which impel, support, or entrap into folly and danger the being they rule. As a child, not old enough to give a definite name to the thing she watched and pondered on, in child fashion, Bettina Vanderpoel had thought much on this subject. As she had grown older, she had never been ignorant of the workings of her own temperament, and she had looked on for years at the laws which had wrought in her father's being--the laws of strength, executive capacity, and that pleasure in great schemes, which is roused less by a desire for gain than for a strongly-felt necessity for action, resulting in success. She mentally followed other people on their way, sometimes asking herself how far the individual was to be praised or blamed for his treading of the path he seemed to choose. And now there was given her the opportunity to study the workings of the nature of Nigel Anstruthers, which was a curious thing.

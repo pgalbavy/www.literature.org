@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Lady Of The Mantilla"
 weight: 15
-aliases:
-  - "/authors/buchan-john/greenmantle/chapter-14.html"
+url: "/authors/buchan-john/greenmantle/chapter-14.html"
 ---
 
 Since that first night I had never clapped eyes on Sandy. He had gone clean out of the world, and Blenkiron and I waited anxiously for a word of news. Our own business was in good trim, for we were presently going east towards Mesopotamia, but unless we learned more about Greenmantle our journey would be a grotesque failure. And learn about Greenmantle we could not, for nobody by word or deed suggested his existence, and it was impossible of course for us to ask questions. Our only hope was Sandy, for what we wanted to know was the prophet’s whereabouts and his plans. I suggested to Blenkiron that we might do more to cultivate Frau von Einem, but he shut his jaw like a rat-trap.

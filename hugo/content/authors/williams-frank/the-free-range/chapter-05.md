@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Strategy And A Surprise"
 weight: 5
-aliases:
-  - "/authors/williams-frank/the-free-range/chapter-05.html"
+url: "/authors/williams-frank/the-free-range/chapter-05.html"
 ---
 
 "Gub pi-i-i-le!" yelled the cook at the top of his voice.

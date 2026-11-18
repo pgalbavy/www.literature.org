@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 5"
 weight: 6
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-01-chapter-05.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-01-chapter-05.html"
 ---
 
 The author, by an extraordinary stratagem, prevents an invasion. A high title of honour is conferred upon him. Ambassadors arrive from the emperor of Blefuscu, and sue for peace. The empress’s apartment on fire by an accident; the author instrumental in saving the rest of the palace.

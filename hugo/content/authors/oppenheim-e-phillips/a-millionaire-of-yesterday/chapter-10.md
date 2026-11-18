@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-10.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-10.html"
 ---
 
 Trent's appearance upon the lawn was greeted with a shout of enthusiasm. The young lady in blue executed a pas seut, and came across to him on her toes, and the girl with the yellow hair, although sulky, gave him to understand by a sidelong glance that her favour was not permanently withdrawn. They neither of the noticed the somewhat ominous air of civility with which he received their greetings, or the contempt in his eyes as he looked them silently over.

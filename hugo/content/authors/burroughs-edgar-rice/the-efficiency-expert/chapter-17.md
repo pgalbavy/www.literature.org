@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Jimmy On The Job"
 weight: 17
-aliases:
-  - "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-17.html"
+url: "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-17.html"
 ---
 
 As Jimmy left the office he discovered that those last words of Bince's had made a considerable and a rather unfavorable impression on him. He was sure that there was an underlying meaning, though just what it portended he was unable to imagine.

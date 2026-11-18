@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 23
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-22.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-22.html"
 ---
 
 October 5th. - My cup of sweets is not unmingled: it is dashed with a bitterness that I cannot hide from myself, disguise it as I will. I may try to persuade myself that the sweetness overpowers it; I may call it a pleasant aromatic flavour; but say what I will, it is still there, and I cannot but taste it. I cannot shut my eyes to Arthur's faults; and the more I love him the more they trouble me. His very heart, that I trusted so, is, I fear, less warm and generous than I thought it. At least, he gave me a specimen of his character to-day that seemed to merit a harder name than thoughtlessness. He and Lord Lowborough were accompanying Annabella and me in a long, delightful ride; he was riding by my side, as usual, and Annabella and Lord Lowborough were a little before us, the latter bending towards his companion as if in tender and confidential discourse.

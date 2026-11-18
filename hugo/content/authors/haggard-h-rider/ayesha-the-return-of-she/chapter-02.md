@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Lamasery"
 weight: 3
-aliases:
-  - "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-02.html"
+url: "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-02.html"
 ---
 
 Sixteen years had passed since that night vigil in the old Cumberland house, and, behold! we two, Leo and I, were still travelling, still searching for that mountain peak shaped like the Symbol of Life which never, never could be found.

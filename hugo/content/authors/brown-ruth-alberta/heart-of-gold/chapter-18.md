@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Seven Mcgees"
 weight: 18
-aliases:
-  - "/authors/brown-ruth-alberta/heart-of-gold/chapter-18.html"
+url: "/authors/brown-ruth-alberta/heart-of-gold/chapter-18.html"
 ---
 
 The last week at Danbury Hospital rolled by almost too quickly to suit even Peace, busy saying good-bye to the hosts of friends which that great roof sheltered; for now that the time had come for her to go, she found herself strangely loath to leave the little white room where she had spent so many months.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - More Pillar Of Salt"
 weight: 11
-aliases:
-  - "/authors/lawrence-david-herbert/aarons-rod/chapter-11.html"
+url: "/authors/lawrence-david-herbert/aarons-rod/chapter-11.html"
 ---
 
 The opera season ended, Aaron was invited by Cyril Scott to join a group of musical people in a village by the sea. He accepted, and spent a pleasant month. It pleased the young men musically-inclined and bohemian by profession to patronise the flautist, whom they declared marvellous. Bohemians with well-to-do parents, they could already afford to squander a little spasmodic and self-gratifying patronage. And Aaron did not mind being patronised. He had nothing else to do.

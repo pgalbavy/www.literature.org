@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Watching And Waiting"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-11.html"
 ---
 
 Deane had rapidly regained control of his senses during the past few minutes. The open air, the continued action of his body and the growing consciousness of the imminent peril of the company, combined to give him mastery over the insidious enemy that he had taken into his mouth to steal away his brains.

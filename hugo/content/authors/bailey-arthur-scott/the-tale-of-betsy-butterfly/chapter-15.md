@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Joseph Bumble's Complaint"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-15.html"
 ---
 
 IT happened just as Chirpy Cricket had expected. Betsy Butterfly arrived at the party with her admirer, Joseph Bumble, buzzing close behind her. Although he had not been invited, he did not feel the least bit shy about coming.

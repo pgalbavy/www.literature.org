@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/chambers-robert-w/the-common-law/chapter-03.html"
+url: "/authors/chambers-robert-w/the-common-law/chapter-03.html"
 ---
 
 One day toward the middle of June Valerie did not arrive on time at the studio. She had never before been late.

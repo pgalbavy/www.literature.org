@@ -1,8 +1,7 @@
 ---
 title: "Chapter 59"
 weight: 59
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-59.html"
+url: "/authors/dickens-charles/great-expectations/chapter-59.html"
 ---
 
 FOR eleven years, I had not seen Joe nor Biddy with my bodily eyes -- though they had both been often before my fancy in the k, I laid my hand softly on the latch of the old kitchen door. I touched it so softly that I was not heard, and looked in unseen. There, smoking his pipe in the old place by the kitchen firelight, as hale and as strong as ever though a little grey, sat Joe; and there, fenced into the corner with Joe's leg, and sitting on my own little stool looki ng at the fire, was -- I again!

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Concerning An Omelet"
 weight: 5
-aliases:
-  - "/authors/ostrander-isabel/anything-once/chapter-05.html"
+url: "/authors/ostrander-isabel/anything-once/chapter-05.html"
 ---
 
 There was a confused babel of sound in Jim's ears when he awoke Wednesday morning; hammering and clanging and the squeak of ropes, shouting and cursing, and now and then the roar or yell of some protesting animal.

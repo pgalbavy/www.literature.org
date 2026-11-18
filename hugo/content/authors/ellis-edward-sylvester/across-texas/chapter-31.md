@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - The Return"
 weight: 31
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-31.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-31.html"
 ---
 
 *HERBERT* was quite sure the Texans would not be gone long, unless they, too, became involved in a fight with the dusky raiders and shared in the probable fate of Eph Bozeman. If such proved to be the case, there would be sounds of the conflict, which would be as brief as it was desperate, and it was those for which he listened while sitting in his saddle on the slope.

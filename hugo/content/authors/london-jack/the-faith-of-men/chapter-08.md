@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Story Of Jees' Uck"
 weight: 8
-aliases:
-  - "/authors/london-jack/the-faith-of-men/chapter-08.html"
+url: "/authors/london-jack/the-faith-of-men/chapter-08.html"
 ---
 
 There have been renunciations and renunciations. But, in its essence, renunciation is ever the same. And the paradox of it is, that men and women forego the dearest thing in the world for something dearer. It was never otherwise. Thus it was when Abel brought of the firstlings of his flock and of the fat thereof. The firstlings and the fat thereof were to him the dearest things in the world; yet he gave them over that he might be on good terms with God. So it was with Abraham when he prepared to offer up his son Isaac on a stone. Isaac was very dear to him; but God, in incomprehensible ways, was yet dearer. It may be that Abraham feared the Lord. But whether that be true or not it has since been determined by a few billion people that he loved the Lord and desired to serve him.

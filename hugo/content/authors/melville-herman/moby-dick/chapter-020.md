@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - All Astir"
 weight: 20
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-020.html"
+url: "/authors/melville-herman/moby-dick/chapter-020.html"
 ---
 
 A day or two passed, and there was great activity aboard the Pequod. Not only were the old sails being mended, but new sails were coming on board, and bolts of canvas, and coils of rigging; in short, everything betokened that the ship's preparations were hurrying to a close. Captain Peleg seldom or never went ashore, but sat in his wigwam keeping a sharp look-out upon the hands: Bildad did all the purchasing and providing at the stores; and the men employed in the hold and on the rigging were working till long after night-fall.

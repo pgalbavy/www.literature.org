@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Adrift"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-04.html"
 ---
 
 Jack Cosgrove, of the "Nautilus," was not often agitated by anything in which he became involved. Few of his perilous calling had gone through more thrilling experiences than he, and in them all he had acquired a reputation for coolness that could not be surpassed.

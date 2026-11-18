@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Bes Steals The Signet"
 weight: 7
-aliases:
-  - "/authors/haggard-h-rider/the-ancient-allan/chapter-07.html"
+url: "/authors/haggard-h-rider/the-ancient-allan/chapter-07.html"
 ---
 
 “Oh! my Master,” gulped Bes, “I weep because I am tired, so take no notice. The day was long and during it twice at least there has been but the twinkling of an eyelid, but the thickness of a finger nail, but the weight of a hair between you and death.”

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Up And Doing"
 weight: 28
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-28.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-28.html"
 ---
 
 Worrell, the traitor, had been gone nearly an hour from the cavern in which the three fugitives were sleeping, when Rosa Minturn awoke, no doubt because she was not so much in need of sleep as the others, and held a lingering suspicion of the loyalty of the man who had brought them to the retreat. This distrust went to sleep with her, but it is a peculiarity of the mind that the emotions which have been with us through our waking hours frequently remain with us when we are wrapped in slumber. It is as if the innumerable train that is forever wending its way through the mysterious labyrinths of the brain repeats the procession, and those which affected us the most strongly when in command of our senses often do the same when we are unconscious. But without stopping to consider the question, suffice it to say that at the time mentioned Rosa opened her eyes in full possession of her faculties, and with the impression that the man Worrell was an enemy instead of a friend.

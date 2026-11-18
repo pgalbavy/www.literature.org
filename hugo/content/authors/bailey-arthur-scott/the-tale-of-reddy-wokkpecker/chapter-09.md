@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Mrs. Robin Worries"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-09.html"
 ---
 
 Though the Flickers welcomed Reddy Woodpecker when he came to live in Pleasant Valley there was hardly another bird family that wasn’t sorry to see him settle there. Among all the feathered folk on Farmer Green’s place the Robin family was perhaps the sorriest. They had a nest of eggs in the orchard, in a crotch of an old apple tree. And it was on just such trees that Reddy Woodpecker spent a great deal of his time, hunting for grubs.

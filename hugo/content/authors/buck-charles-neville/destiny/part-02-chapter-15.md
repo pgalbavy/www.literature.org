@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 15"
 weight: 15
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-15.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-15.html"
 ---
 
 When the two emissaries had left the library Hamilton Burton sat before his hearth and shook loose the reins of imagination. He burned driftwood in this room and as his eyes dwelt on the shooting tongues of blue flame that licked around the logs his dreams absorbed him. Yamuro, his Japanese valet, slipped in to see if his master required him--but his footfall was noiseless, and when he had tiptoed close enough to study the face, he departed without speaking. The lips in the yellow face parted in a grin that bared a spread of strong, white teeth. The eyes between high cheekbones glistened in dark slits and in his throat, too low to be heard, a little grunt voiced Yamuro's fanatical admiration. Had Hamilton Burton been an emperor in the field Yamuro would have asked no greater privilege than to interpose his body between his idolized master and all danger. Such was the power of this wholly selfish but dominant personality. Outside the Oriental chuckled to himself, "No worry.... Him got great thoughts."

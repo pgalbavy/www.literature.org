@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/verne-jules/round-the-moon/chapter-12.html"
+url: "/authors/verne-jules/round-the-moon/chapter-12.html"
 ---
 
 The course taken by the projectile, as we have before remarked, was bearing it toward the moon's northern hemisphere. The travelers were far from the central point which they would have struck, had their course not been subject to an irremediable deviation. It was past midnight; and Barbicane then estimated the distance at seven hundred and fifty miles, which was a little greater than the length of the lunar radius, and which would diminish as it advanced nearer to the North Pole. The projectile was then not at the altitude of the equator; but across the tenth parallel, and from that latitude, carefully taken on the map to the pole, Barbicane and his two companions were able to observe the moon under the most favorable conditions. Indeed, by means of glasses, the above-named distance was reduced to little more than fourteen miles. The telescope of the Rocky Mountains brought the moon much nearer; but the terrestrial atmosphere singularly lessened its power. Thus Barbicane, posted in his projectile, with the glasses to his eyes, could seize upon details which were almost imperceptible to earthly observers.

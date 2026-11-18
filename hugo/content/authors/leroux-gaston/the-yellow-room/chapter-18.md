@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Rouletabille Has Drawn A Circle Between The Two Bumps On His Forehead"
 weight: 18
-aliases:
-  - "/authors/leroux-gaston/the-yellow-room/chapter-18.html"
+url: "/authors/leroux-gaston/the-yellow-room/chapter-18.html"
 ---
 
 (*EXTRACT FROM THE NOTE-BOOK OF JOSEPH ROULETABILLE,* continued)

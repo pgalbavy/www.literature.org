@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Welcome Acquaintance"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-08.html"
 ---
 
 On the fourth day after the arrival of the hunters at their cabin, the accident of which Mr. Linden made mention befell Bowlby. It was early in the morning, when the three were making their round of visits to the traps. Since no two inspected the same ones, they were quite widely separated from each other. Bowlby was walking over a rocky stretch of land alongside the creek when a loose stone turned under his foot, giving his ankle such a wrench that when he tried to stand he found he could not bear the least weight on it. It was one of those hurts that are more painful and troublesome than a fractured limb.

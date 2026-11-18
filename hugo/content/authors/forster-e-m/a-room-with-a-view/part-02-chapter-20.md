@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 20 - The End Of The Middle Ages"
 weight: 21
-aliases:
-  - "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-20.html"
+url: "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-20.html"
 ---
 
 The Miss Alans did go to Greece, but they went by themselves. They alone of this little company will double Malea and plough the waters of the Saronic gulf. They alone will visit Athens and Delphi, and either shrine of intellectual song--that upon the Acropolis, encircled by blue seas; that under Parnassus, where the eagles build and the bronze charioteer drives undismayed towards infinity. Trembling, anxious, cumbered with much digestive bread, they did proceed to Constantinople, they did go round the world. The rest of us must be contented with a fair, but a less arduous, goal. Italiam petimus: we return to the Pension Bertolini.

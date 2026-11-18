@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - New Year's Calls"
 weight: 10
-aliases:
-  - "/authors/alcott-louisa-may/rose-in-bloom/chapter-09.html"
+url: "/authors/alcott-louisa-may/rose-in-bloom/chapter-09.html"
 ---
 
 "Now I'm going to turn over a new leaf, as I promised. I wonder what I shall find on the next page?" said Rose, coming down on New Year's morning with a serious face and a thick letter in her hand.

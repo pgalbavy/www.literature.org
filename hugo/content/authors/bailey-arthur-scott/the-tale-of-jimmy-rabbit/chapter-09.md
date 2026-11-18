@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Playing Leap-Frog"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-09.html"
 ---
 
 There was great joy in the woods. Jimmy Rabbit had promised to teach his friends a new game. Frisky Squirrel and Billy Woodchuck, Fatty Coon and Tommy Fox, were all on hand to have their share of the fun.

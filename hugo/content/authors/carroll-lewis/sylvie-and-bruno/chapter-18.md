@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Queer Street, number forty"
 weight: 19
-aliases:
-  - "/authors/carroll-lewis/sylvie-and-bruno/chapter-18.html"
+url: "/authors/carroll-lewis/sylvie-and-bruno/chapter-18.html"
 ---
 
 Lady Muriel was the speaker. And, for the moment, that was the only fact I could clearly realise. But how she came to be there and how I came to be there--and how the glass of champagne came to be there--all these were questions which I felt it better to think out in silence, and not commit myself to any statement till I understood things a little more clearly.

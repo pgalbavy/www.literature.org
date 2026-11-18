@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - Lightfoot Sees The Stranger"
 weight: 32
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-32.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-32.html"
 ---
 
 Lightfoot the Deer was unhappy. It was a strange unhappiness, an unhappiness such as he had never known before. You see, he had discovered that there was a stranger in the Green Forest, a stranger of his own kind, another Deer. He knew it by dainty footprints in the mud along the Laughing Brook and on the edge of the pond of Paddy the Beaver. He knew it by other signs which he ran across every now and then. But search as he would, he was unable to find that newcomer. He had searched everywhere but always he was just too late. The stranger had been and gone.

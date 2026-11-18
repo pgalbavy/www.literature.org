@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - A Flint Spark"
 weight: 3
-aliases:
-  - "/authors/daviess-maria-thompson/the-tinderbox/chapter-03.html"
+url: "/authors/daviess-maria-thompson/the-tinderbox/chapter-03.html"
 ---
 
 The greatest upheavals of nature are those that arrive suddenly, without notifying the world days beforehand of their intentions of splitting the crust of the Universe wide open. One is coming to Glendale by degrees, but the town hasn't found out about it yet. I'm the only one who sees it, and I'm afraid to tell.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - At Bay"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-11.html"
 ---
 
 George Starr's pony, left to himself, wandered off to the side of the other one, on which sat Mrs. Starr, with Dot. The latter reached out her chubby hand and patted the silken nose of the intelligent horse, who liked the caress. The mother was too agitated to notice this by-play, but kept watch for her husband.

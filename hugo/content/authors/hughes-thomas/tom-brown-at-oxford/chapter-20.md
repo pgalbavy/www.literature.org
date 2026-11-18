@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Reconciliation"
 weight: 22
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-20.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-20.html"
 ---
 
 Tom rose in the morning with a presentiment that all would be over now before long, and to make his presentiment come true, resolved, before night, to go himself to Hardy and give in. All he reserved to himself was the liberty to do it in the manner which would be least painful to himself. He was greatly annoyed, therefore, when Hardy did not appear at morning chapel; for he had fixed on the leaving chapel as the least unpleasant time in which to begin his confession, and was going to catch Hardy then, and follow him to his rooms. All the morning, too, in answer to his inquiries by his scout Wiggins, Hardy's scout replied that his master was out, or busy. He did not come to the boats, he did not appear in hall; so that, after hall, when Tom went back to his own rooms, as he did at once, instead of sauntering out of college, or going to a wine party, he was quite out of heart at his bad luck, and began to be afraid that he would have to sleep on his unhealed wound another night.

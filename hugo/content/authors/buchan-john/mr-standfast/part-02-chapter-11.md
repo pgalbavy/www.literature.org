@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 11 - The Summons Comes For Mr Standfast"
 weight: 22
-aliases:
-  - "/authors/buchan-john/mr-standfast/part-02-chapter-11.html"
+url: "/authors/buchan-john/mr-standfast/part-02-chapter-11.html"
 ---
 
 I slept for one and three-quarter hours that night, and when I awoke I seemed to emerge from deeps of slumber which had lasted for days. That happens sometimes after heavy fatigue and great mental strain. Even a short sleep sets up a barrier between past and present which has to be elaborately broken down before you can link on with what has happened before. As my wits groped at the job some drops of rain splashed on my face through the broken roof. That hurried me out-of-doors. It was just after dawn and the sky was piled with thick clouds, while a wet wind blew up from the southwest. The long-prayed-for break in the weather seemed to have come at last. A deluge of rain was what I wanted, something to soak the earth and turn the roads into water-courses and clog the enemy transport, something above all to blind the enemy’s eyes.... For I remembered what a preposterous bluff it all had been, and what a piteous broken handful stood between the Germans and their goal. If they knew, if they only knew, they would brush us aside like flies.

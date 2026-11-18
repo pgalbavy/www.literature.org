@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41"
 weight: 41
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-41.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-41.html"
 ---
 
 The next six months Laurence Arbuthnot spent in his quiet corner of Germany, devoting all his leisure moments to the study of certain legal terms to which he had given some attention at a previous time, when, partly as a whim, partly as the result of a spasm of prudence, he had woven himself a strand of thread to cling to in the vague future by taking a course of law. His plan now was to strengthen this thread until it might be depended upon, and he spared no determined and persistent effort which might assist him to the attainment of this object.

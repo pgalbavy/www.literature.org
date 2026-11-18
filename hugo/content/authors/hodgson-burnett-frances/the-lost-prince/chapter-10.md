@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Rat--And Samavia"
 weight: 10
-aliases:
-  - "/authors/hodgson-burnett-frances/the-lost-prince/chapter-10.html"
+url: "/authors/hodgson-burnett-frances/the-lost-prince/chapter-10.html"
 ---
 
 What The Rat thought when Loristan began to speak to him, Marco wondered. Suddenly he stood in an unknown world, and it was Loristan who made it so because its poverty and shabbiness had no power to touch him. He looked at the boy with calm and clear eyes, he asked him practical questions gently, and it was plain that he understood many things without asking questions at all. Marco thought that perhaps he had, at some time, seen drunken men die, in his life in strange places. He seemed to know the terribleness of the night through which The Rat had passed. He made him sit down, and he ordered Lazarus to bring him some hot coffee and simple food.

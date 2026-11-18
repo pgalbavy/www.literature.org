@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-27.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-27.html"
 ---
 
 "If this open weather holds much longer," said Mrs. Jennings, when they met at breakfast the following morning, "Sir John will not like leaving Barton next week; 'tis a sad thing for sportsmen to lose a day's pleasure. Poor souls! I always pity them when they do; they seem to take it so much to heart."

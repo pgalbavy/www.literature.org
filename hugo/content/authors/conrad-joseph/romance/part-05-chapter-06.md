@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 6"
 weight: 35
-aliases:
-  - "/authors/conrad-joseph/romance/part-05-chapter-06.html"
+url: "/authors/conrad-joseph/romance/part-05-chapter-06.html"
 ---
 
 I had shot my bolt and I was going to die; I could see it in the way the King's Advocate tossed his head back, fluttered his bands, looked at the jury-box, and began to play with the seals on his fob. The court had resumed its stillness. A man in some sort of livery passed a square paper to the Lord Mayor, the Lord Mayor passed it to Lord Stowell, who opened it with a jerking motion of an ancient fashion that impressed me immensely. It was as if I, there at the end of my life, were looking at a man opening a letter of the reign of Queen Anne. The shadows of his ancient, wrinkled face changed as he read, raising his eyebrows and puckering his mouth. He handed the unfolded paper to Mr. Baron Garrow, then with one wrinkled finger beckoned the Attorney-General to him. The third judge was still asleep.

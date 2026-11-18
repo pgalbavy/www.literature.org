@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 7"
 weight: 8
-aliases:
-  - "/authors/conrad-joseph/an-outcast-of-the-islands/part-01-chapter-07.html"
+url: "/authors/conrad-joseph/an-outcast-of-the-islands/part-01-chapter-07.html"
 ---
 
 There are in our lives short periods which hold no place in memory but only as the recollection of a feeling. There is no remembrance of gesture, of action, of any outward manifestation of life; those are lost in the unearthly brilliance or in the unearthly gloom of such moments. We are absorbed in the contemplation of that something, within our bodies, which rejoices or suffers while the body goes on breathing, instinctively runs away or, not less instinctively, fights—perhaps dies. But death in such a moment is the privilege of the fortunate, it is a high and rare favour, a supreme grace.

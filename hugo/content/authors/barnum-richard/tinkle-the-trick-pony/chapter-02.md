@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Tinkle Makes Trouble"
 weight: 2
-aliases:
-  - "/authors/barnum-richard/tinkle-the-trick-pony/chapter-02.html"
+url: "/authors/barnum-richard/tinkle-the-trick-pony/chapter-02.html"
 ---
 
 Dapple Gray had just finished telling the story of his being caught under the trolley car, the time he was drawing the fire engine.

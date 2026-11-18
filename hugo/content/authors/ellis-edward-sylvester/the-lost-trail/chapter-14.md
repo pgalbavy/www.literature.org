@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Maneuvres Of Deerfoot"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-14.html"
 ---
 
 Deerfoot the Shawanoe committed a serious mistake as he himself was the first to discover, when he upset the Miami warrior into the Mississippi and made off with his canoe. He had started out to help his friends, but his course was an injury to them, for it increased their danger without giving them the least assistance.

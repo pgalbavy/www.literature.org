@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-10.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-10.html"
 ---
 
 The necessary business in London having been transacted, Tembarom went north to take possession of the home of his forefathers. It had rained for two days before he left London, and it rained steadily all the way to Lancashire, and was raining steadily when he reached Temple Barholm. He had never seen such rain before. It was the quiet, unmoved persistence of it which amazed him. As he sat in the railroad carriage and watched the slanting lines of its unabating downpour, he felt that Mr. Palford must inevitably make some remark upon it. But Mr. Palford continued to read his newspapers undisturbedly, as though the condition of atmosphere surrounding him were entirely accustomed and natural. It was of course necessary and proper that he should accompany his client to his destination, but the circumstances of the case made the whole situation quite abnormal. Throughout the centuries each Temple Barholm had succeeded to his estate in a natural and conventional manner. He had either been welcomed or resented by his neighbors, his tenants, and his family, and proper and fitting ceremonies had been observed. But here was an heir whom nobody knew, whose very existence nobody had even suspected, a young man who had been an outcast in the streets of the huge American city of which lurid descriptions are given. Even in New York he could have produced no circle other than Mrs. Bowse's boarding-house and the objects of interest to the up-town page, so he brought no one with him; for Strangeways seemed to have been mysteriously disposed of after their arrival in London.

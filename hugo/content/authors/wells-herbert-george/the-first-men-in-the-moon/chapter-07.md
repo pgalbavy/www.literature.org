@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Sunrise On The Moon"
 weight: 7
-aliases:
-  - "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-07.html"
+url: "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-07.html"
 ---
 
 As we saw it first it was the wildest and most desolate of scenes. We were in an enormous amphitheatre, a vast circular plain. the floor of the giant crater. Its cliff-like walls closed us in on every side. From the westward the light of the unseen sun fell upon them, reaching to the very foot of the cliff, and showed a disordered escarpment of drab and grayish rock, lined here and there with banks and crevices of snow. This was perhaps a dozen miles away, but at first no intervening atmosphere diminished in the slightest the minutely detailed brilliancy with which these things glared at us. They stood out clear and dazzling against a background of starry blackness that seemed to our earthly eyes rather a gloriously spangled velvet curtain than the spaciousness of the sky.

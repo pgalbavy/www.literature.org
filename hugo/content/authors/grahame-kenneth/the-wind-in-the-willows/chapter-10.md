@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Further Adventures Of Toad"
 weight: 10
-aliases:
-  - "/authors/grahame-kenneth/the-wind-in-the-willows/chapter-10.html"
+url: "/authors/grahame-kenneth/the-wind-in-the-willows/chapter-10.html"
 ---
 
 The front door of the hollow tree faced eastwards, so Toad was called at an early hour; partly by the bright sunlight streaming in on him, partly by the exceeding coldness of his toes, which made him dream that he was at home in bed in his own handsome room with the Tudor window, on a cold winter's night, and his bed-clothes had got up, grumbling and protesting they couldn't stand the cold any longer, and had run downstairs to the kitchen fire to warm themselves; and he had followed, on bare feet, along miles and miles of icy stone-paved passages, arguing and beseeching them to be reasonable. He would probably have been aroused much earlier, had he not slept for some weeks on straw over stone flags, and almost forgotten the friendly feeling of thick blankets pulled well up round the chin.

@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 6"
 weight: 43
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-04-chapter-06.html"
+url: "/authors/cather-willa/song-of-the-lark/part-04-chapter-06.html"
 ---
 
 DAY was breaking over Panther Canyon. The gulf was cold and full of heavy, purplish twilight. The wood smoke which drifted from one of the cliff-houses hung in a blue scarf across the chasm, until the draft caught it and whirled it away. Thea was crouching in the doorway of her rock house, while Ottenburg looked after the crackling fire in the next cave. He was waiting for it to burn down to coals before he put the coffee on to boil.

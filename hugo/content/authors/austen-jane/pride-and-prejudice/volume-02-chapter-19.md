@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 19"
 weight: 42
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-19.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-19.html"
 ---
 
 Had Elizabeth's opinion been all drawn from her own family, she could not have formed a very pleasing picture of conjugal felicity or domestic comfort. Her father captivated by youth and beauty, and that appearance of good humour, which youth and beauty generally give, had married a woman whose weak understanding and illiberal mind, had very early in their marriage put an end to all real affection for her. Respect, esteem, and confidence, had vanished for ever; and all his views of domestic happiness were overthrown. But Mr. Bennet was not of a disposition to seek comfort for the disappointment which his own imprudence had brought on, in any of those pleasures which too often console the unfortunate for their folly or their vice. He was fond of the country and of books; and from these tastes had arisen his principal enjoyments. To his wife he was very little otherwise indebted, than as her ignorance and folly had contributed to his amusement. This is not the sort of happiness which a man would in general wish to owe to his wife; but where other powers of entertainment are wanting, the true philosopher will derive benefit from such as are given.

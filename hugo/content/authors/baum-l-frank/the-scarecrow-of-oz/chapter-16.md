@@ -1,8 +1,7 @@
 ---
 title: "chapter 16"
 weight: 999
-aliases:
-  - "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-16.html"
+url: "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-16.html"
 ---
 
 Gloria had drawn near to the group to listen to their talk, and it seemed to interest her in spite of her frigid manner. They knew, of course, that the poor Princess could not help being cold and reserved, so they tried not to blame her.

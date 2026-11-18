@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - The Wild Men Of Greenland"
 weight: 32
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-32.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-32.html"
 ---
 
 A sharp bark broke the stillness, a peculiar cry followed, and then, out from the swirl and flurry of the eddying snow, came a string of Esquimau dogs. There were six couples fastened to a rude sleigh, and at the side of the frisky animals skurried one of the wild men of Greenland on snow-shoes, and with a whip in hand having a short stock and a very long lash.

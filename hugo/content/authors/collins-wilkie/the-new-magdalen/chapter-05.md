@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The German Surgeon"
 weight: 5
-aliases:
-  - "/authors/collins-wilkie/the-new-magdalen/chapter-05.html"
+url: "/authors/collins-wilkie/the-new-magdalen/chapter-05.html"
 ---
 
 THE youngest of the three strangers--judging by features, complexion, and manner--was apparently an Englishman. He wore a military cap and military boots, but was otherwise dressed as a civilian. Next to him stood an officer in Prussian uniform, and next to the officer was the third and the oldest of the party. He also was dressed in uniform, but his appearance was far from being suggestive of the appearance of a military man. He halted on one foot, he stooped at the shoulders, and instead of a sword at his side he carried a stick in his hand. After looking sharply through a large pair of tortoise-shell spectacles, first at Mercy, then at the bed, then all round the room, he turned with a cynical composure of manner to the Prussian officer, and broke the silence in these words:

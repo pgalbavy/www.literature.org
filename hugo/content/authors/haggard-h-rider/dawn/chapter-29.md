@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 30
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-29.html"
+url: "/authors/haggard-h-rider/dawn/chapter-29.html"
 ---
 
 Philip arrived home about one o'clock on the Monday, and, after their nursery dinner, Arthur made his way to the study, and soon found himself in the dread presence--for what presence is more dread (most people would rather face a chief-justice with the gout)--of the man whose daughter he was about to ask in marriage.

@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 20 - Of The Unexampled And Unheard-Of Adventure Which Was Achieved By The Valiant Don Quixote Of La Mancha With Less Peril Than Any Ever Achieved By Any Famous Knight In The World"
 weight: 23
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-20.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-20.html"
 ---
 
 "It cannot be, señor, but that this grass is a proof that there must be hard by some spring or brook to give it moisture, so it would be well to move a little farther on, that we may find some place where we may quench this terrible thirst that plagues us, which beyond a doubt is more distressing than hunger."

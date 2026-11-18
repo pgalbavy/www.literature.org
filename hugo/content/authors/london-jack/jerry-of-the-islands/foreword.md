@@ -1,8 +1,7 @@
 ---
 title: "Foreword"
 weight: 1
-aliases:
-  - "/authors/london-jack/jerry-of-the-islands/foreword.html"
+url: "/authors/london-jack/jerry-of-the-islands/foreword.html"
 ---
 
 It is a misfortune to some fiction-writers that fiction and unveracity in the average person's mind mean one and the same thing. Several years ago I published a South Sea novel. The action was placed in the Solomon Islands. The action was praised by the critics and reviewers as a highly creditable effort of the imagination. As regards reality--they said there wasn't any. Of course, as every one knew, kinky-haired cannibals no longer obtained on the earth's surface, much less ran around with nothing on, chopping off one another's heads, and, on occasion, a white man's head as well.

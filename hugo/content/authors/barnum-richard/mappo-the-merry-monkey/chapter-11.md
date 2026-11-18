@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Mappo And The Organ-Man"
 weight: 11
-aliases:
-  - "/authors/barnum-richard/mappo-the-merry-monkey/chapter-11.html"
+url: "/authors/barnum-richard/mappo-the-merry-monkey/chapter-11.html"
 ---
 
 Some monkeys, if they had been caught by a boy, in the woods, would have bit and scratched and fought to get away. But Mappo was both a merry monkey, and a good, kind one. So, when he saw that the boy was holding him tightly, Mappo made up his mind that it would not be nice to try to get away.

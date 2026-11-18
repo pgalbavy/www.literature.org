@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-03.html"
+url: "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-03.html"
 ---
 
 The boat did not start until three o'clock in the afternoon. Those of my companions who intended to cross the Caspian hurried off to the harbor; it being necessary to engage a cabin, or to mark one's place in the steamer's saloon.

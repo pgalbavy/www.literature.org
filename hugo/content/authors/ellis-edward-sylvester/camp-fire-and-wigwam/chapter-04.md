@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Captors And Captives"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-04.html"
 ---
 
 With an exclamation of affright, Jack Carleton whirled on his heel and found the broad, grinning face of one of the warriors almost against his own. Holding the rifle back, as if expecting an attempt to recover it, the savage thrust his head forward, with a tantalizing expression overspreading his ugly features. At the same moment he muttered something very rapidly in his own tongue. Not a word was understood by Jack, but he was sure the warrior said, "Ah, ha, young man, I've caught you, and you can't help yourself."

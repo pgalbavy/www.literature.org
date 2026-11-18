@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40"
 weight: 40
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-40.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-40.html"
 ---
 
 For a single minute Mr. Brainerd was on the point of following in the footsteps of Fred, and making a break for freedom: that was at the height of the general confusion, when the majority of the Indians started in pursuit.

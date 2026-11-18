@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-13.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-13.html"
 ---
 
 La had followed her company and when she saw them clawing and biting at Tarzan, she raised her voice and cautioned them not to kill him. She saw that he was weakening and that soon the greater numbers would prevail over him, nor had she long to wait before the mighty jungle creature lay helpless and bound at her feet.

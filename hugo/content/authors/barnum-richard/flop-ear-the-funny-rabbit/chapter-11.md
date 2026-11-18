@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Flop Ear And The Monkey"
 weight: 11
-aliases:
-  - "/authors/barnum-richard/flop-ear-the-funny-rabbit/chapter-11.html"
+url: "/authors/barnum-richard/flop-ear-the-funny-rabbit/chapter-11.html"
 ---
 
 “That wood is very hard to gnaw; isn’t it?” asked the mother mouse as she, with her little children mice inside the trap, looked out at Flop Ear. “It was too hard for my teeth. I don’t see how you can bite through it.”

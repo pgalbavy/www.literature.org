@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Cuffy Bear Wakens"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-13.html"
 ---
 
 The winter after Nimble lost his spike horns was a mild one. The snowfall was light. And Nimble was able to roam up and down Pleasant Valley and about Blue Mountain as he pleased.

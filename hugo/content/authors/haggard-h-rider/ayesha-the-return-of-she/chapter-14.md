@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Court Of Death"
 weight: 15
-aliases:
-  - "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-14.html"
+url: "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-14.html"
 ---
 
 Now the curtains were open. Before us appeared a chamber hollowed from the thickness of the altar, and in its centre a throne, and on the throne a figure clad in waves of billowy white flowing from the head over the arms of the throne down to its marble steps. We could see no more in the comparative darkness of that place, save that beneath the folds of the drapery the Oracle held in its hand a loop-shaped, jewelled sceptre.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Don And The Bear"
 weight: 12
-aliases:
-  - "/authors/barnum-richard/don-a-runaway-dog/chapter-12.html"
+url: "/authors/barnum-richard/don-a-runaway-dog/chapter-12.html"
 ---
 
 Don did not know very much about parties――especially girls’ parties. On the farm there had never been any parties, except for boys, and those were mostly fishing, or nutting parties. Don never wore any ribbons to those.

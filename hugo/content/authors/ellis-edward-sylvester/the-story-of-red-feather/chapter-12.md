@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Conclusion"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/the-story-of-red-feather/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/the-story-of-red-feather/chapter-12.html"
 ---
 
 But for his solicitude for Dot Clarendon, Red Feather never would have made the error he did, when waiting on the southern bank of the Upper Crossing for the return of the pony which was to carry them across to the waiting Melville on the other side.

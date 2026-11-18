@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/collins-wilkie/a-rogues-life/chapter-06.html"
+url: "/authors/collins-wilkie/a-rogues-life/chapter-06.html"
 ---
 
 ON the next day, I was introduced to the Jew's workshop, and to the eminent gentlemen occupying it. My model Rembrandt was put before me; the simple elementary rules were explained; and my materials were all placed under my hands.

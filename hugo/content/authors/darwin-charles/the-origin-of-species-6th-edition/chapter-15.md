@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Recapitulation And Conclusion"
 weight: 17
-aliases:
-  - "/authors/darwin-charles/the-origin-of-species-6th-edition/chapter-15.html"
+url: "/authors/darwin-charles/the-origin-of-species-6th-edition/chapter-15.html"
 ---
 
 Recapitulation of the objections to the theory of Natural Selection -- Recapitulation of the general and special circumstances in its favour -- Causes of the general belief in the immutability of species -- How far the theory of Natural Selection may be extended -- Effects of its adoption on the study of Natural History -- Concluding remarks.

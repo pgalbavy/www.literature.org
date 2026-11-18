@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Joan And The Picture"
 weight: 13
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-13.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-13.html"
 ---
 
 Notwithstanding Anice's interference in his behalf, Paul did not find his labors become very much lighter. And then after all his labor, the prospect before him was not promising. Instead of appearing easier to cope with as he learned more of it and its inhabitants, Riggan seemed still more baffling. His “district” lay in the lower end of the town among ugly back streets, and alleys; among dirt and ignorance and obstinacy. He spent his days in laboring among people upon whom he sometimes fancied he had obtained no hold. It really seemed that they did not want him--these people; and occasionally a more distressing view of the case presented itself to his troubled mind,--namely, that to those who might chance to want him he had little to offer.

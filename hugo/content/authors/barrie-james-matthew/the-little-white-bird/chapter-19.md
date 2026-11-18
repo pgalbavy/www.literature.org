@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - An Interloper"
 weight: 19
-aliases:
-  - "/authors/barrie-james-matthew/the-little-white-bird/chapter-19.html"
+url: "/authors/barrie-james-matthew/the-little-white-bird/chapter-19.html"
 ---
 
 David and I had a tremendous adventure. It was this, he passed the night with me. We had often talked of it as a possible thing, and at last Mary consented to our having it.

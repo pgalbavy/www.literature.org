@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Confessions"
 weight: 17
-aliases:
-  - "/authors/bronte-anne/agnes-grey/chapter-17.html"
+url: "/authors/bronte-anne/agnes-grey/chapter-17.html"
 ---
 
 AS I am in the way of confessions I may as well acknowledge that, about this time, I paid more attention to dress than ever I had done before. This is not saying much - for hitherto I had been a little neglectful in that particular; but now, also, it was no uncommon thing to spend as much as two minutes in the contemplation of my own image in the glass; though I never could derive any consolation from such a study. I could discover no beauty in those marked features, that pale hollow cheek, and ordinary dark brown hair; there might be intellect in the forehead, there might be expression in the dark grey eyes, but what of that? - a low Grecian brow, and large black eyes devoid of sentiment would be esteemed far preferable. It is foolish to wish for beauty. Sensible people never either desire it for themselves or care about it in others. If the mind be but well cultivated, and the heart well disposed, no one ever cares for the exterior. So said the teachers of our childhood; and so say we to the children of the present day. All very judicious and proper, no doubt; but are such assertions supported by actual experience?

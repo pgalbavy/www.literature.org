@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/huxley-aldous/antic-hay/chapter-05.html"
+url: "/authors/huxley-aldous/antic-hay/chapter-05.html"
 ---
 
 One after another, they engaged themselves in the revolving doors of the restaurant, trotted round in the moving cage of glass and ejected themselves into the coolness and darkness of the street. Shearwater lifted up his large face and took two or three deep breaths. "Too much carbon dioxide and ammonia in there," he said.

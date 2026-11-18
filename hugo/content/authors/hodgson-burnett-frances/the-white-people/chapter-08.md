@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/hodgson-burnett-frances/the-white-people/chapter-08.html"
+url: "/authors/hodgson-burnett-frances/the-white-people/chapter-08.html"
 ---
 
 What I feel sure I know by this time is that all the things we think happen by chance and accident are only part of the weaving of the scheme of life. When you begin to suspect this and to watch closely you also begin to see how trifles connect themselves with one another, and seem in the end to have led to a reason and a meaning, though we may not be clever enough to see it clearly. Nothing is an accident. We make everything happen ourselves: the wrong things because we do not know or care whether we are wrong or right, the right ones because we unconsciously or consciously choose the right even in the midst of our ignorance.

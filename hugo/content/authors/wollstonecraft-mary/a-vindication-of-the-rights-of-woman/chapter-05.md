@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Animadversions On Some Of The Writers Who Have Rendered Women Objects Of Pity, Bordering On Contempt"
 weight: 6
-aliases:
-  - "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/chapter-05.html"
+url: "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/chapter-05.html"
 ---
 
 The opinions speciously supported, in some modern publications on the female character, and education, which have given the tone to most of the observations made, in a more cursory manner, on the sex, remain now to be examined.

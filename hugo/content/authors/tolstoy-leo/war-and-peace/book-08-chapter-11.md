@@ -1,8 +1,7 @@
 ---
 title: "Book 8 - Chapter 11"
 weight: 156
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-08-chapter-11.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-08-chapter-11.html"
 ---
 
 Anatole Kuragin was staying in Moscow because his father had sent him away from Petersburg, where he had been spending twenty thousand rubles a year in cash, besides running up debts for as much more, which his creditors demanded from his father.

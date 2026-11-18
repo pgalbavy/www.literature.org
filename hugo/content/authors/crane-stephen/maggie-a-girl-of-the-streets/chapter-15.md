@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-15.html"
+url: "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-15.html"
 ---
 
 A forlorn woman went along a lighted avenue. The street was filled with people desperately bound on missions. An endless crowd darted at the elevated station stairs and the horse cars were thronged with owners of bundles.

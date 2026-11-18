@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Mr. Frog's Question\"Why Don't You Get Some New Clothes?\""
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-18.html"
 ---
 
 It was Mr. Frog that asked the question; and he asked it of Brownie Beaver, who was at work on top of his house. Mr. Frog had been hiding among the lily-pads, watching Brownie. But Brownie hadn't noticed him until he stuck his head out of the water and spoke.

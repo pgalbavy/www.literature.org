@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-18.html"
+url: "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-18.html"
 ---
 
 Luke Towers, the father of Kinnard, had been one of those fierce and humorless old feudists of primal animosities and exploits as engagingly bold as the feats of moss-trooping barons. The "Stacy-Towers" war had broken into eruption in his day. No man remembered to just what origin it was traceable--but it had, from its forgotten cause, flared, guttered, smoldered and flared again until its toll of lives had reached a scattering summary enumerated in scores and its record had included some sanguinary highlights of pitched battle. The state government had sought to regulate its bloodier phases with the impressive lesson of troops and Gatling guns, but that had been very much like scourging tempestuous seas with rods.

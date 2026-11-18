@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-14.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-14.html"
 ---
 
 Mr. Fentolin, on leaving the dining-room, steered his chair with great precision through the open, wrought-iron doors of a small lift at the further end of the hall, which Doctor Sarson, who stepped in with him, promptly directed to the second floor. Here they made their way to the room in which Mr. Dunster was lying. Doctor Sarson opened the door and looked in. Almost immediately he stood at one side, out of sight of Mr. Dunster, and nodded to Mr. Fentolin.

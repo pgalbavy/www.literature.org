@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 20"
 weight: 121
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-04-chapter-20.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-04-chapter-20.html"
 ---
 
 Alexey Alexandrovitch took leave of Betsy in the drawing-room, and went to his wife. She was lying down, but hearing his steps she sat up hastily in her former attitude, and looked in a scared way at him. He saw she had been crying.

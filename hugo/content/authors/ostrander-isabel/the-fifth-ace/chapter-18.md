@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Midnight For Cinderella"
 weight: 18
-aliases:
-  - "/authors/ostrander-isabel/the-fifth-ace/chapter-18.html"
+url: "/authors/ostrander-isabel/the-fifth-ace/chapter-18.html"
 ---
 
 When the late lowering dawn seeped in at the windows, Willa raised herself wearily and crept to her desk. Her face with the tears dried upon it was ghastly in the morning light, but her eyes held a look of grim determination. Seating herself, she took up her pen and wrote without hesitation:

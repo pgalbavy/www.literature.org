@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - A Noisy Quarrel"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-22.html"
 ---
 
 One odd thing marked Bobby Bobolink's flights. He never flew in a straight course, as old Mr. Crow did, but darted this way and that, crossing and turning and wheeling, until it seemed sometimes--to onlookers--that he was sure to skid into a tree and meet with an accident. And usually Bobby Bobolink would sing with such zest while he was frisking about in the air that it was a marvel to many how he could do two things like that, at the same time, and yet put so much life into each.

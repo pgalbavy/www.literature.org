@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Our March Into The Desert"
 weight: 6
-aliases:
-  - "/authors/haggard-h-rider/king-solomons-mines/chapter-05.html"
+url: "/authors/haggard-h-rider/king-solomons-mines/chapter-05.html"
 ---
 
 We had killed nine elephants, and it took us two days to cut out the tusks, and having brought them into camp, to bury them carefully in the sand under a large tree, which made a conspicuous mark for miles round. It was a wonderfully fine lot of ivory. I never saw a better, averaging as it did between forty and fifty pounds a tusk. The tusks of the great bull that killed poor Khiva scaled one hundred and seventy pounds the pair, so nearly as we could judge.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/conrad-joseph/the-secret-agent/chapter-07.html"
+url: "/authors/conrad-joseph/the-secret-agent/chapter-07.html"
 ---
 
 The Assistant Commissioner walked along a short and narrow street like a wet, muddy trench, then crossing a very broad thoroughfare entered a public edifice, and sought speech with a young private secretary (unpaid) of a great personage.

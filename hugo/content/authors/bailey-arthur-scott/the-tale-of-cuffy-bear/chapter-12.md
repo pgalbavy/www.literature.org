@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Cuffy Bear Goes To Market"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-12.html"
 ---
 
 "Mother! When is my birthday?" Cuffy asked, a few days after his father had brought home the little pig.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 69 - The Inquiry"
 weight: 69
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-69.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-69.html"
 ---
 
 M. de Villefort kept the promise he had made to Madame Danglars, to endeavor to find out how the Count of Monte Cristo had discovered the history of the house at Auteuil. He wrote the same day for the required information to M. de Boville, who, from having been an inspector of prisons, was promoted to a high office in the police; and the latter begged for two days time to ascertain exactly who would be most likely to give him full particulars. At the end of the second day M. de Villefort received the following note: -

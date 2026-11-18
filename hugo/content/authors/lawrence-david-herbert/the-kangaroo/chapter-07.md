@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Battle Of Tongues"
 weight: 7
-aliases:
-  - "/authors/lawrence-david-herbert/the-kangaroo/chapter-07.html"
+url: "/authors/lawrence-david-herbert/the-kangaroo/chapter-07.html"
 ---
 
 As a rule the jetty on its poles straddling a little way into the sea was as deserted as if it were some relic left by an old invader. Then it had spurts of activity, when steamer after steamer came blorting and hanging miserably round, like cows to the cowshed on a winter afternoon. Then a little engine would chuff along the pier, shoving a string of tip-up trucks, and little men would saunter across the sky-line, and there would be a fine dimness of black dust round the low, red ship and the end of the jetty. Luckily it was far enough away, so that Harriet need not fear for her beautiful white washing. She washed her linen herself for the sheer joy of it, and loved nothing so much as thinking of it getting whiter and whiter, like the Spenserian maid, in the sun and sea, and visiting it on the grass every five minutes, and finding it every time really whiter, till Somers said it would reach a point of whiteness where the colours would break up, and she'd go out and find pieces of rainbow on the grass and bushes, instead of towels and shirts.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - “Is Lady Anstruthers At Home?”"
 weight: 10
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-10.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-10.html"
 ---
 
 All that she had brought with her to England, combined with what she had called “sophistication,” but which was rather her exquisite appreciation of values and effects, she took with her when she went the next day to Charing Cross Station and arranged herself at her ease in the railway carriage, while her maid bought their tickets for Stornham.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Victory and Defeat"
 weight: 23
-aliases:
-  - "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-22.html"
+url: "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-22.html"
 ---
 
 "John Carter, John Carter," she sobbed, with her dear head upon my shoulder; "even now I can scarce believe the witness of my own eyes. When the girl, Thuvia, told me that you had returned to Barsoom, I listened, but I could not understand, for it seemed that such happiness would be impossible for one who had suffered so in silent loneliness for all these long years. At last, when I realized that it was truth, and then came to know the awful place in which I was held prisoner, I learned to doubt that even you could reach me here.

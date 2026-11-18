@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 5"
 weight: 25
-aliases:
-  - "/authors/cather-willa/my-antonia/book-02-chapter-05.html"
+url: "/authors/cather-willa/my-antonia/book-02-chapter-05.html"
 ---
 
 AFTER LENA CAME To Black Hawk, I often met her downtown, where she would be matching sewing silk or buying ‘findings’ for Mrs. Thomas. If I happened to walk home with her, she told me all about the dresses she was helping to make, or about what she saw and heard when she was with Tiny Soderball at the hotel on Saturday nights.

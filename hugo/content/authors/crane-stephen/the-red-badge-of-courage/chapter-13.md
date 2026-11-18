@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/crane-stephen/the-red-badge-of-courage/chapter-13.html"
+url: "/authors/crane-stephen/the-red-badge-of-courage/chapter-13.html"
 ---
 
 THE youth went slowly toward the fire in- dicated by his departed friend. As he reeled, he bethought him of the welcome his comrades would give him. He had a conviction that he would soon feel in his sore heart the barbed missiles of ridicule. He had no strength to in- vent a tale; he would be a soft target.

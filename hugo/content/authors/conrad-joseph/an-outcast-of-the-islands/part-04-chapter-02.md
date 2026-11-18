@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 2"
 weight: 20
-aliases:
-  - "/authors/conrad-joseph/an-outcast-of-the-islands/part-04-chapter-02.html"
+url: "/authors/conrad-joseph/an-outcast-of-the-islands/part-04-chapter-02.html"
 ---
 
 Babalatchi ceased speaking. Lingard shifted his feet a little, uncrossed his arms, and shook his head slowly. The narrative of the events in Sambir, related from the point of view of the astute statesman, the sense of which had been caught here and there by his inattentive ears, had been yet like a thread to guide him out of the sombre labyrinth of his thoughts; and now he had come to the end of it, out of the tangled past into the pressing necessities of the present. With the palms of his hands on his knees, his elbows squared out, he looked down on Babalatchi who sat in a stiff attitude, inexpressive and mute as a talking doll the mechanism of which had at length run down.

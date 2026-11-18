@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 2"
 weight: 70
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-04-chapter-02.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-04-chapter-02.html"
 ---
 
 On his return to Moscow from the army, Nicholas Rostov was welcomed by his home circle as the best of sons, a hero, and their darling Nikolenka; by his relations as a charming, attractive, and polite young man; by his acquaintances as a handsome lieutenant of hussars, a good dancer, and one of the best matches in the city.

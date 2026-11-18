@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-09.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-09.html"
 ---
 
 When the senate convened that day, strange and uncouth lookers-on stood ranged about the state house corridors, and their unblinking eyes took account of their chief adversary as he entered.

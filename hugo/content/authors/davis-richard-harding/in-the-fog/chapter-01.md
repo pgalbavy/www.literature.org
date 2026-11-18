@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/davis-richard-harding/in-the-fog/chapter-01.html"
+url: "/authors/davis-richard-harding/in-the-fog/chapter-01.html"
 ---
 
 The Grill is the club most difficult of access in the world. To be placed on its rolls distinguishes the new member as greatly as though he had received a vacant Garter or had been caricatured in “Vanity Fair.”

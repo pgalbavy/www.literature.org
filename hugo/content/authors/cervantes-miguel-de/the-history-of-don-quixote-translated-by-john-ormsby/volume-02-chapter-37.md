@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 37 - Wherein Is Continued The Notable Adventure Of The Distressed Duenna"
 weight: 93
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-37.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-37.html"
 ---
 
 The duke and duchess were extremely glad to see how readily Don Quixote fell in with their scheme; but at this moment Sancho observed, "I hope this señora duenna won’t be putting any difficulties in the way of the promise of my government; for I have heard a Toledo apothecary, who talked like a goldfinch, say that where duennas were mixed up nothing good could happen. God bless me, how he hated them, that same apothecary! And so what I’m thinking is, if all duennas, of whatever sort or condition they may be, are plagues and busybodies, what must they be that are distressed, like this Countess Three-skirts or Three-tails!—for in my country skirts or tails, tails or skirts, it’s all one."

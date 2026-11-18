@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 33
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-33.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-33.html"
 ---
 
 There was a heavy town-fog that afternoon, a smoke-mist, densest in the sanctuary of the temple. The people went about in it, busy and dirty, thickening their outside and inside linings of coal-tar, asphalt, sulphurous acid, oil of vitriol, and the other familiar things the men liked to breathe and to have upon their skins and garments and upon their wives and babies and sweethearts. The growth of the city was visible in the smoke and the noise and the rush. There was more smoke than there had been this day of February a year earlier; there was more noise; and the crowds were thicker—yet quicker in spite of that. The traffic policeman had a hard time, for the people were independent—they retained some habits of the old market-town period, and would cross the street anywhere and anyhow, which not only got them killed more frequently than if they clung to the legal crossings, but kept the motormen, the chauffeurs, and the truck-drivers in a stew of profane nervousness. So the traffic policemen led harried lives; they themselves were killed, of course, with a certain periodicity, but their main trouble was that they could not make the citizens realize that it was actually and mortally perilous to go about their city. It was strange, for there were probably no citizens of any length of residence who had not personally known either some one who had been killed or injured in an accident, or some one who had accidentally killed or injured others. And yet, perhaps it was not strange, seeing the sharp preoccupation of the faces—the people had something on their minds; they could not stop to bother about dirt and danger.

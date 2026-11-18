@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-17.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-17.html"
 ---
 
 Parish Thornton and Aaron Capper stood for a few moments watching the departure of the two other horsemen, one of whom was a spy and a traitor--for Aaron himself meant to wait here until he could ride home with some knowledge of the outcome of his new ally's mad project.

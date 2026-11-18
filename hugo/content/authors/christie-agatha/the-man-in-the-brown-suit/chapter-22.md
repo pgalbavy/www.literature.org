@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 23
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-22.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-22.html"
 ---
 
 _(Extract from the diary of Sir Eustace Pedler)_

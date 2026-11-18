@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 13"
 weight: 55
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-13.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-13.html"
 ---
 
 A few days after this visit, Mr. Bingley called again, and alone. His friend had left him that morning for London, but was to return home in ten days time. He sat with them above an hour, and was in remarkably good spirits. Mrs. Bennet invited him to dine with them; but, with many expressions of concern, he confessed himself engaged elsewhere.

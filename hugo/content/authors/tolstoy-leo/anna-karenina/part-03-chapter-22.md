@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 22"
 weight: 91
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-03-chapter-22.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-03-chapter-22.html"
 ---
 
 It was six o'clock already, and so, in order to be there quickly, and at the same time not to drive with his own horses, known to every one, Vronsky got into Yashvin's hired fly, and told the driver to drive as quickly as possible. It was a roomy, old-fashioned fly, with seats for four. He sat in one corner, stretched his legs out on the front seat, and sank into meditation.

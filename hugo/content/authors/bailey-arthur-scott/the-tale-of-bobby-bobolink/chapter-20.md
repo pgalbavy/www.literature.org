@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - A Hermit's Advice"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-20.html"
 ---
 
 THERE was another, besides Timothy Turtle, who was not pleased when Bobby Bobolink moved to Cedar Swamp at haying time. But this was a very different sort of person. It was Jolly Robin's cousin, Mr. Hermit Thrush. Everybody called him "the Hermit" for short, because he was a quiet gentleman, who did not like to attract attention, but preferred to spend his time in a thicket on the edge of the swamp. He had a beautiful, sweet song, which he sang in a calm, unruffled fashion when he thought nobody was near.

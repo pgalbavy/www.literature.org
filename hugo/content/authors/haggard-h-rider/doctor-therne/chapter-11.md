@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Coming Of The Red-Headed Man"
 weight: 12
-aliases:
-  - "/authors/haggard-h-rider/doctor-therne/chapter-11.html"
+url: "/authors/haggard-h-rider/doctor-therne/chapter-11.html"
 ---
 
 Half of the three years of probation had gone by and once more we found ourselves at Dunchester in August. Under circumstances still too recent to need explanation, the Government of which I was a member had decided to appeal to the country, the General Election being fixed for the end of September, after the termination of harvest. Dunchester was considered to be a safe Radical seat, and, as a matter of parliamentary tactics, the poll for this city, together with that of eight or ten other boroughs, was fixed for the earliest possible day, in the hope that the results might encourage more doubtful places to give their support. Constituencies are very like sheep, and if the leaders jump through a certain gap in the political hedge the flock, or a large proportion of it, will generally follow. All of us like to be on the winning side.

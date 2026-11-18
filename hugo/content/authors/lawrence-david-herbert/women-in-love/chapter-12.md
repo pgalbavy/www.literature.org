@@ -1,8 +1,7 @@
 ---
 title: "chapter 12"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-12.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-12.html"
 ---
 
 He set off down the bank, and she went unwillingly with him. Yet she would not have stayed away, either.

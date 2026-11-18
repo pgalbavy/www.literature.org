@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Quartered On A Haymow"
 weight: 6
-aliases:
-  - "/authors/greene-homer/the-riverpark-rebellion/chapter-06.html"
+url: "/authors/greene-homer/the-riverpark-rebellion/chapter-06.html"
 ---
 
 The race was an exciting one. The people who crowded the platform of the station looked on with interest, supposing that both boys were running to catch the train.

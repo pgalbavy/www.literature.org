@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 32
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-32.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-32.html"
 ---
 
 WHEN I got there it was all still and Sunday-like, and hot and sunshiny; the hands was gone to the fields; and there was them kind of faint dronings of bugs and flies in the air that makes it seem so lonesome and like everybody's dead and gone; and if a breeze fans along and quivers the leaves it makes you feel mournful, because you feel like it's spirits whispering -- spirits that's been dead ever so many years -- and you always think they're talking about YOU. As a general thing it makes a body wish HE was dead, too, and done with it all.

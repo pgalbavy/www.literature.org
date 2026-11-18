@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 8"
 weight: 8
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-01-chapter-08.html"
+url: "/authors/cather-willa/one-of-ours/book-01-chapter-08.html"
 ---
 
 On the Sunday after Christmas Claude and Ernest were walking along the banks of Lovely Creek. They had been as far as Mr. Wheeler's timber claim and back. It was like an autumn afternoon, so warm that they left their overcoats on the limb of a crooked elm by the pasture fence. The fields and the bare tree-tops seemed to be swimming in light. A few brown leaves still clung to the bushy trees along the creek. In the upper pasture, more than a mile from the house, the boys found a bittersweet vine that wound about a little dogwood and covered it with scarlet berries. It was like finding a Christmas tree growing wild out of doors. They had just been talking about some of the books Claude had brought home, and his history course. He was not able to tell Ernest as much about the lectures as he had meant to, and he felt that this was more Ernest's fault than his own; Ernest was such a literal-minded fellow. When they came upon the bittersweet, they forgot their discussion and scrambled down the bank to admire the red clusters on the woody, smoke-coloured vine, and its pale gold leaves, ready to fall at a touch. The vine and the little tree it honoured, hidden away in the cleft of a ravine, had escaped the stripping winds, and the eyes of schoolchildren who sometimes took a short cut home through the pasture. At its roots, the creek trickled thinly along, black between two jagged crusts of melting ice.

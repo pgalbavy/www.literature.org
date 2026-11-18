@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Sandy Likes Milk"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-18.html"
 ---
 
 Sandy Chipmunk liked milk. He never knew it, though, until he chanced to come upon a saucerful which some one had set out on the big flat stone that served as the back doorstep of the farmhouse.

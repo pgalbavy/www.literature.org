@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-31.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-31.html"
 ---
 
 Mrs. Amory did not receive on New Year's day. The season had well set in before she arrived in Washington. One morning in January Mrs. Sylvestre, sitting alone, reading, caught sight of the little _coupé_ as it drew up before the carriage-step, and, laying aside her book, reached the parlor door in time to meet Bertha as she entered it. She took both her hands and drew her toward the fire, still holding them.

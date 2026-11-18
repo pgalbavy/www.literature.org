@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Burying The Hatchet"
 weight: 15
-aliases:
-  - "/authors/coolidge-dane/bat-wing-bowles/chapter-15.html"
+url: "/authors/coolidge-dane/bat-wing-bowles/chapter-15.html"
 ---
 
 To the hard-riding cowboy of the plains, the subtleties of emotion and romance are a closed book--just as the hand that whirls the rope is too crabbed to play the violin. Some of us in this world must do the heavy work. Some hands must be knotted, some backs bent with labor, some brows furrowed with wind and weather and the hard realities of life; but in return the laborers gain the strength of the wind-tossed oak and the patience of the ages. There are others whose lot it is to write the poetry and paint the pictures and reach out into the great unknown for a thousand haunting chords and harmonies; but they are a people apart. Their very sensitiveness makes them unequal to the stress of life; their slender hands cannot perform hard labor, and their hearts cannot endure the monotony and anguish of unremitting toil--yet they have their place in the world.

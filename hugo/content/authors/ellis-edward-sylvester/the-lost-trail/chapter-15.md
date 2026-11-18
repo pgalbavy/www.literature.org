@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - \"Tall Oaks From Little Acorns Grow\""
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-15.html"
 ---
 
 Jack Carleton walked across the slight space that separated him from the arrow, quivering in the log on the opposite side of the enclosure. He knew that it had come from the bow of the young Shawanoe, who displayed his extraordinary skill by sending it at such an elevation that it passed over the heads of his friends.

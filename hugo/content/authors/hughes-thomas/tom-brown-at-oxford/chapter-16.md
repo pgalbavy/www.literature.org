@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Storm Rages"
 weight: 18
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-16.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-16.html"
 ---
 
 Hardy was early in the chapel the next morning. It was his week for pricking in. Every man who entered—from the early men who strolled in quietly while the bell was still ringing, to the hurrying, half-dressed loiterers who crushed in as the porter was closing the doors, and disturbed the congregation in the middle of the confession—gave him a turn (as the expressive phrase is), and every turn only ended in disappointment. He put by his list at last, when the doors were fairly shut, with a sigh. He had half expected to see Tom come into morning chapel with a face from which he might have gathered hope that his friend had taken the right path. But Tom did not come at all, and Hardy felt it was a bad sign.

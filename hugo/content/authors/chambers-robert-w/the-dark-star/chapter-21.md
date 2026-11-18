@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Method And Foresight"
 weight: 22
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-21.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-21.html"
 ---
 
 Without a word—with merely a careless glance at Neeland, who remained seated under the level threat of Ali Baba's pistol, the big, handsome German removed his overcoat. Under it was another coat. He threw this off in a brisk, businesslike manner, unbuckled a brace of pistols, laid them aside, unwound from his body a long silk rope ladder which dropped to the floor at Ilse Dumont's feet.

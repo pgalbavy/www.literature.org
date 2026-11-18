@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Leo And The Leopard"
 weight: 20
-aliases:
-  - "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-19.html"
+url: "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-19.html"
 ---
 
 During the weeks that followed these momentous days often and often I wondered to myself whether a more truly wretched being had ever lived than the woman, or the spirit, whom we knew as She, Hes, and Ayesha. Whether in fact also, or in our imagination only, she had arisen from the ashes of her hideous age into the full bloom of perpetual life and beauty inconceivable.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - A Last Look At Greenwater Broad"
 weight: 33
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-32.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-32.html"
 ---
 
 MY spirits rose as I walked through the bright empty streets, and breathed the fresh morning air.

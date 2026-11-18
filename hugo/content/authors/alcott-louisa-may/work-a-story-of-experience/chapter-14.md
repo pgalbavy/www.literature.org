@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Which?"
 weight: 14
-aliases:
-  - "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-14.html"
+url: "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-14.html"
 ---
 
 DAVID.

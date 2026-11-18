@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - On The Outside"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/a-young-hero/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/a-young-hero/chapter-06.html"
 ---
 
 When Fred Sheldon had spent some minutes examining the knife he had picked up from the floor, he opened and closed the blades several times, and finally dropped it into his pocket, running his hand to the bottom to make sure there was no hole through which the precious implement might be lost.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/chambers-robert-w/the-crimson-tide/chapter-10.html"
+url: "/authors/chambers-robert-w/the-crimson-tide/chapter-10.html"
 ---
 
 There was still, for Palla, much shopping to do. The drawing room she decided to leave, for the present, caring as she did only for a few genuine and beautiful pieces to furnish the pretty little French grey room.

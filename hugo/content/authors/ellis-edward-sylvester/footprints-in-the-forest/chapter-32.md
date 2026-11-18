@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - The Prayer Of Hay-Uta Is The Prayer Of Deerfoot"
 weight: 32
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-32.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-32.html"
 ---
 
 Deerfoot knew the extent of the mishap the instant it took place. There was no means at command for repairing it, but, in the hope of arousing Hay-uta and disconcerting the aim of the Pawnee, he bounded from the tree, giving utterance to the most terrific shout of which he was capable, and dashed toward the traitor. He had flung aside his useless bow and held his tomahawk in his left hand.

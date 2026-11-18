@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Marble Kraals"
 weight: 9
-aliases:
-  - "/authors/haggard-h-rider/allans-wife/chapter-08.html"
+url: "/authors/haggard-h-rider/allans-wife/chapter-08.html"
 ---
 
 At length the last platform, or terrace, was reached, and we pulled up outside the wall surrounding the central group of marble huts--for so I must call them, for want of a better name. Our approach had been observed by a crowd of natives, whose race I have never been able to determine accurately; they belonged to the Basutu and peaceful section of the Bantu peoples rather than to the Zulu and warlike. Several of these ran up to take the horses, gazing on us with astonishment, not unmixed with awe. We dismounted--speaking for myself, not without difficulty--indeed, had it not been for Stella’s support I should have fallen.

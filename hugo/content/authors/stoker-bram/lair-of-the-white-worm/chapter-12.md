@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/stoker-bram/lair-of-the-white-worm/chapter-12.html"
+url: "/authors/stoker-bram/lair-of-the-white-worm/chapter-12.html"
 ---
 
 Left alone in the turret-room, Edgar Caswall carefully locked the door and hung a handkerchief over the keyhole. Next, he inspected the windows, and saw that they were not overlooked from any angle of the main building. Then he carefully examined the trunk, going over it with a magnifying glass. He found it intact: the steel bands were flawless; the whole trunk was compact. After sitting opposite to it for some time, and the shades of evening beginning to melt into darkness, he gave up the task and went to his bedroom, after locking the door of the turret-room behind him and taking away the key.

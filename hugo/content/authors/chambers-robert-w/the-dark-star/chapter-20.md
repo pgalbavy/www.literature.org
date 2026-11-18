@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Drop Of Irish"
 weight: 21
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-20.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-20.html"
 ---
 
 The usual signs of land greeted Neeland when he rose early next morning and went out on deck for the first time without his olive-wood box—first a few gulls, then puffins, terns, and other sea fowl in increasing numbers, weed floating, fishing smacks, trawlers tossing on the rougher coast waters.

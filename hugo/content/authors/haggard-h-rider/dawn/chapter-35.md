@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 36
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-35.html"
+url: "/authors/haggard-h-rider/dawn/chapter-35.html"
 ---
 
 Had Arthur been a little less wrapped up in thoughts of Angela, and a little more alive to the fact that, being engaged or even married to one woman, does not necessarily prevent complications arising with another, it might have occurred to him to doubt the prudence of the course of life that he was pursuing at Madeira. And, as it is, it is impossible to acquit him of showing a want of knowledge of the world amounting almost to folly, for he should have known upon general principles that, for a man in his position, a grizzly bear would have been a safer daily companion than a young and lovely widow, and the North Pole a more suitable place of residence than Madeira. But he simply did not think about the matter, and, as thin ice has a treacherous way of not cracking till it suddenly breaks, so outward appearances gave him no indication of his danger.

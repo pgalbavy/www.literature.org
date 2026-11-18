@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 14 - Strong Of Purpose"
 weight: 31
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-02-chapter-14.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-02-chapter-14.html"
 ---
 
 The sexton-task of piling earth above John Harmon all night long, was not conducive to sound sleep; but Rokesmith had some broken morning rest, and rose strengthened in his purpose. It was all over now. No ghost should trouble Mr and Mrs Boffin’s peace; invisible and voiceless, the ghost should look on for a little while longer at the state of existence out of which it had departed, and then should for ever cease to haunt the scenes in which it had no place.

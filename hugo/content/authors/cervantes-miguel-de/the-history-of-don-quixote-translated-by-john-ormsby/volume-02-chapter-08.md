@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 8 - Wherein Is Related What Befell Don Quixote On His Way To See His Lady Dulcinea Del Toboso"
 weight: 64
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-08.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-08.html"
 ---
 
 "Blessed be Allah the all-powerful!" says Hamete Benengeli on beginning this eighth chapter; "blessed be Allah!" he repeats three times; and he says he utters these thanksgivings at seeing that he has now got Don Quixote and Sancho fairly afield, and that the readers of his delightful history may reckon that the achievements and humours of Don Quixote and his squire are now about to begin; and he urges them to forget the former chivalries of the ingenious gentleman and to fix their eyes on those that are to come, which now begin on the road to El Toboso, as the others began on the plains of Montiel; nor is it much that he asks in consideration of all he promises, and so he goes on to say:

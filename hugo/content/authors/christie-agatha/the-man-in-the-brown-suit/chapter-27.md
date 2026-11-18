@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 28
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-27.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-27.html"
 ---
 
 Harry listened attentively whilst I recounted all the events that I have narrated in these pages. The thing that bewildered and astonished him most was to find that all along the diamonds had been in my possession—or rather in Suzanne’s. That was a fact he had never suspected. Of course, after hearing his story, I realized the point of Carton’s little arrangement—or rather Nadina’s, since I had no doubt that it was her brain which had conceived the plan. No surprise tactics executed against her or her husband could result in the seizure of the diamonds. The secret was locked in her own brain, and the “Colonel” was not likely to guess that they had been entrusted to the keeping of an ocean steward!

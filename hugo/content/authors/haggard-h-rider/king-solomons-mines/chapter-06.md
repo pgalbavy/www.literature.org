@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Water! Water!"
 weight: 7
-aliases:
-  - "/authors/haggard-h-rider/king-solomons-mines/chapter-06.html"
+url: "/authors/haggard-h-rider/king-solomons-mines/chapter-06.html"
 ---
 
 Two hours later, that is, about four o'clock, I woke up, for so soon as the first heavy demand of bodily fatigue had been satisfied, the torturing thirst from which I was suffering asserted itself. I could sleep no more. I had been dreaming that I was bathing in a running stream, with green banks and trees upon them, and I awoke to find myself in this arid wilderness, and to remember, as Umbopa had said, that if we did not find water this day we must perish miserably. No human creature could live long without water in that heat. I sat up and rubbed my grimy face with my dry and horny hands, as my lips and eyelids were stuck together, and it was only after some friction and with an effort that I was able to open them. It was not far from dawn, but there was none of the bright feel of dawn in the air, which was thick with a hot murkiness that I cannot describe. The others were still sleeping.

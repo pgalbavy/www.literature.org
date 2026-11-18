@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Koyala's Defiance"
 weight: 15
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-14.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-14.html"
 ---
 
 From his quarters in the residency building, the same room where his predecessor, the obstinate and perverse de Jonge, had lived his brief and inglorious career, Peter Gross looked across the rolling expanse to the jungle-crested hills of Bulungan.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - \"I Piped And Ye Danced\""
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-20.html"
 ---
 
 Gerald Buxton was boiling over with indignation when he parted company with Mike Murphy and realized how he had been tricked. He had allowed the real burglar to get away while he held up his innocent pursuer.

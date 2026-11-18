@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - On The Louisiana Shore"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-18.html"
 ---
 
 At last the little party were across the Mississippi. The Indian canoe, so injured that it was useless until repaired, was pushed back into the turbid current and went spinning down the river, sometimes bumping against the bank and then dancing further from shore, until striking broadside against a nodding "sawyer," it overturned, and thereafter resembled an ordinary log, on its way toward the Gulf.

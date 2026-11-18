@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Third Attack"
 weight: 19
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-19.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-19.html"
 ---
 
 Now that this treasure, which had so long been the object of the abbe's meditations, could insure the future happiness of him whom Faria really loved as a son, it had doubled its value in his eyes, and every day he expatiated on the amount, explaining to Dantes all the good which, with thirteen or fourteen millions of francs, a man could do in these days to his friends; and then Dantes' countenance became gloomy, for the oath of vengeance he had taken recurred to his memory, and he reflected how much ill, in these times, a man with thirteen or fourteen millions could do to his enemies.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Chatterer Decides To Live"
 weight: 14
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-14.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-14.html"
 ---
 
 At first Chatterer decided that he had rather die than live in a prison, no matter how nice that prison might be. It was a very foolish thing to do, but he made up his mind that he just wouldn't eat. He wouldn't touch that nice, yellow corn Farmer Brown's boy had put in his prison for him. He would starve himself to death. Yes, Sir, he would starve himself to death. So when he found that there was no way to get out of his prison, he curled up in the little hollow stump in his prison, where no one could see him, and made up his mind that he would stay there until he died. Life wasn't worth living if he had got to spend all the rest of his days in a prison. He wouldn't even make himself comfortable. There was that little heap of nice shavings and bits of rag for him to make a nice comfortable bed of, but he didn't touch them. No, Sir, he just tried to make himself miserable.

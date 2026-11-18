@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Friend In Need"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-14.html"
 ---
 
 If horsemen were thundering toward the spot, the fugitive was doomed.

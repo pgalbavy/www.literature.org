@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - M. Formery Opens The Inquiry"
 weight: 9
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin/chapter-09.html"
+url: "/authors/leblanc-maurice/arsene-lupin/chapter-09.html"
 ---
 
 The examining magistrate came into the room. He was a plump and pink little man, with very bright eyes. His bristly hair stood up straight all over his head, giving it the appearance of a broad, dapple-grey clothes-brush. He appeared to be of the opinion that Nature had given the world the toothbrush as a model of what a moustache should be; and his own was clipped to that pattern.

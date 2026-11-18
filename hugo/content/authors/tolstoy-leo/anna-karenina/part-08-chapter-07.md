@@ -1,8 +1,7 @@
 ---
 title: "Part 8 - Chapter 7"
 weight: 227
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-08-chapter-07.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-08-chapter-07.html"
 ---
 
 Agafea Mihalovna went out on tiptoe; the nurse let down the blind, chased a fly out from under the muslin canopy of the crib, and a humblebee struggling on the window-frame, and sat down waving a faded branch of birch over the mother and the baby.

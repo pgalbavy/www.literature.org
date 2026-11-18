@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-16.html"
 ---
 
 Oliver Hazard Perry —Prompt and Effective Work—"We Have Met the Enemy and They Are Ours" —Death of Perry.

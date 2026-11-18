@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 14"
 weight: 32
-aliases:
-  - "/authors/austen-jane/emma/volume-02-chapter-14.html"
+url: "/authors/austen-jane/emma/volume-02-chapter-14.html"
 ---
 
 Mrs. Elton was first seen at church: but though devotion might be interrupted, curiosity could not be satisfied by a bride in a pew, and it must be left for the visits in form which were then to be paid, to settle whether she were very pretty indeed, or only rather pretty, or not pretty at all.

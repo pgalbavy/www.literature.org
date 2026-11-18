@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Recruit"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-14.html"
 ---
 
 The stranger ahead of the two boys was Herbert Watrous, the city youth upon whom Nick had sat down so hard three years before.

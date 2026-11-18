@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Mischief Makers"
 weight: 4
-aliases:
-  - "/authors/brown-ruth-alberta/tabithas-vacation/chapter-04.html"
+url: "/authors/brown-ruth-alberta/tabithas-vacation/chapter-04.html"
 ---
 
 Tabitha retired late that night, weary but triumphant, congratulating herself that Billiard was conquered; but she had reckoned without her host. Two little heathen such as Williard and Theodore McKittrick are not to be converted in one day, nor are they apt to be forced into reforming. Brought up with utter disregard for other people's rights, by a mother who bore them no particular love, but who surrounded them with every luxury money could buy simply because she found it less trouble to indulge than to deny them, it is scarcely to be wondered at that they had no idea of honor or obedience.

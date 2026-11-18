@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Blanche"
 weight: 15
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-13.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-13.html"
 ---
 
 MRS. INCHBARE was the first person who acted in the emergency. She called for lights; and sternly rebuked the house-maid, who brought them, for not having closed the house door. "Ye feckless ne'er-do-weel!" cried the landlady; "the wind's blawn the candles oot."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Other Professor"
 weight: 11
-aliases:
-  - "/authors/carroll-lewis/sylvie-and-bruno/chapter-10.html"
+url: "/authors/carroll-lewis/sylvie-and-bruno/chapter-10.html"
 ---
 
 "We were looking for you!" cried Sylvie, in a tone of great relief. "We do want you so much, you ca'n't think!"

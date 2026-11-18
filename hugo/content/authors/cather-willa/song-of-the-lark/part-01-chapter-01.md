@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 1"
 weight: 1
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-01-chapter-01.html"
+url: "/authors/cather-willa/song-of-the-lark/part-01-chapter-01.html"
 ---
 
 Dr. Howard Archie had just come up from a game of pool with the Jewish clothier and two traveling men who happened to be staying overnight in Moonstone. His offices were in the Duke Block, over the drug store. Larry, the doctor's man, had lit the overhead light in the waiting-room and the double student's lamp on the desk in the study. The isinglass sides of the hard-coal burner were aglow, and the air in the study was so hot that as he came in the doctor opened the door into his little operating-room, where there was no stove. The waiting room was carpeted and stiffly furnished, something like a country parlor. The study had worn, unpainted floors, but there was a look of winter comfort about it. The doctor's flat-top desk was large and well made; the papers were in orderly piles, under glass weights. Behind the stove a wide bookcase, with double glass doors, reached from the floor to the ceiling. It was filled with medical books of every thickness and color. On the top shelf stood a long row of thirty or forty volumes, bound all alike in dark mottled board covers, with imitation leather backs.

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 10 - The Great Market Day"
 weight: 28
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-10.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-10.html"
 ---
 
 Dick Sand's action had been so rapid that no one could stop him. A few natives threw themselves upon him, and he would have been murdered had not Negoro appeared.

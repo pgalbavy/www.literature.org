@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Guilt Fixed"
 weight: 25
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-25.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-25.html"
 ---
 
 It was the following afternoon before Code Schofield ventured on deck.

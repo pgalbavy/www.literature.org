@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - A Show-Down With The Widow"
 weight: 16
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-16.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-16.html"
 ---
 
 If the benevolent Samuel Blount could have seen Wiley Holman's monthly statement from that mysterious "other bank" he would have crushed him with one blow of his ready, financial club and gone off with both bond-and-lease and option. But the pure, serene fire in those first water diamonds which graced the ring on Wiley's hand--that dazzled Samuel J. Blount as it had dazzled the Widow and many a store-keeper in Vegas. For it is hardly to be expected that a man with such a ring will have a bank account limited to three figures, any more than it is expected that a man with so little capital will be sitting in a game with millionaires. But Wiley was sitting in, holding his cards well against his chest, and already he had won ten thousand dollars. Which is one of the reasons why all mining promoters wear diamonds--and poker faces as well.

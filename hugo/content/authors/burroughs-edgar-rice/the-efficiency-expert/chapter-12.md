@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Up Or Down?"
 weight: 12
-aliases:
-  - "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-12.html"
+url: "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-12.html"
 ---
 
 After Jimmy had received his check and was about to leave, a couple of men approached him.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 11"
 weight: 11
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-11.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-11.html"
 ---
 
 Levin empited his glass, and they were silent for a while.

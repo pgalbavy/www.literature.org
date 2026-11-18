@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 13"
 weight: 81
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-04-chapter-13.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-04-chapter-13.html"
 ---
 
 For two days after that Rostov did not see Dolokhov at his own or at Dolokhov's home: on the third day he received a note from him:

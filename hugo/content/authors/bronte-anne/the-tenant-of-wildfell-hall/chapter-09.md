@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-09.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-09.html"
 ---
 
 Though my affections might now be said to be fairly weaned from Eliza Millward, I did not yet entirely relinquish my visits to the vicarage, because I wanted, as it were, to let her down easy; without raising much sorrow, or incurring much resentment, - or making myself the talk of the parish; and besides, if I had wholly kept away, the vicar, who looked upon my visits as paid chiefly, if not entirely, to himself, would have felt himself decidedly affronted by the neglect. But when I called there the day after my interview with Mrs. Graham, he happened to be from home - a circumstance by no means so agreeable to me now as it had been on former occasions. Miss Millward was there, it is true, but she, of course, would be little better than a nonentity. However, I resolved to make my visit a short one, and to talk to Eliza in a brotherly, friendly sort of way, such as our long acquaintance might warrant me in assuming, and which, I thought, could neither give offence nor serve to encourage false hopes.

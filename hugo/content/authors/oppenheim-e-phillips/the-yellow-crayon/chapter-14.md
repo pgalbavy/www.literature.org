@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-14.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-14.html"
 ---
 
 Duson entered the sitting-room, noiseless as ever, with pale, passionless face, the absolute prototype of the perfect French servant, to whom any expression of vigorous life seems to savour of presumption. He carried a small silver salver, on which reposed a card.

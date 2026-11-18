@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 6 - “Baby Bandits”"
 weight: 24
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-06.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-06.html"
 ---
 
 IT WAS twenty-four hours before Detective Sergeant Flannagan awoke to the fact that something had been put over on him, and that a Kansas farmer's wife had done the putting.

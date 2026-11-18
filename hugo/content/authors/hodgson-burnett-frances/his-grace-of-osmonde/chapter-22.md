@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - My Lady Dunstanwolde Is Widowed"
 weight: 23
-aliases:
-  - "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-22.html"
+url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-22.html"
 ---
 
 There was a lady came back to town with the Earl and Countess, on their return from Dunstan's Wolde, to which place they had gone after his lordship's illness at Camylott. This lady was one of the two elder sisters of her ladyship of Dunstanwolde, and 'twas said was her favourite and treated with great tenderness by her. She was but a thin, humble little woman--Mistress Anne Wildairs--and singularly plain and timid to be the sister and chosen companion of one so brilliant and full of fire. She was a pale creature with dull-hued heavy hair and soft dull eyes, which followed her ladyship adoringly whensoever it chanced they were in a room together.

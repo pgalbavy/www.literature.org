@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Sharp Eyes Gets Home"
 weight: 12
-aliases:
-  - "/authors/barnum-richard/sharp-eyes-the-silver-fox/chapter-12.html"
+url: "/authors/barnum-richard/sharp-eyes-the-silver-fox/chapter-12.html"
 ---
 
 “How good it is to be free!” thought Sharp Eyes, the silver fox, as he bounded out of the broken cage and ran quickly to hide under some bushes that grew near the place in the zoölogical park where Chunky, the happy hippo, lived. “How good it is to be free! Good-bye, Chunky!” he called softly to his friend, from where he was hidden under the bush. “Good-bye! I wish you were coming with me.”

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - In The Blackfoot Country"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-10.html"
 ---
 
 One keen, sunny afternoon in autumn, a certain Indian youth executed a war dance among the foothills to the east of the Rocky Mountains. The only spectator of the fantastic performance was a superb black stallion, who, so far as can be judged, found a good deal of entertainment in the sight. It was long before the days of kodaks and their snapshots, which add so much to our enjoyment of everyday incidents.

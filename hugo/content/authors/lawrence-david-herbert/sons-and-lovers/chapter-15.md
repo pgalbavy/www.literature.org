@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Derelict"
 weight: 15
-aliases:
-  - "/authors/lawrence-david-herbert/sons-and-lovers/chapter-15.html"
+url: "/authors/lawrence-david-herbert/sons-and-lovers/chapter-15.html"
 ---
 
 CLARA went with her husband to Sheffield, and Paul scarcely saw her again. Walter Morel seemed to have let all the trouble go over him, and there he was, crawling about on the mud of it, just the same. There was scarcely any bond between father and son, save that each felt he must not let the other go in any actual want. As there was no one to keep on the home, and as they could neither of them bear the emptiness of the house, Paul took lodgings in Nottingham, and Morel went to live with a friendly family in Bestwood.

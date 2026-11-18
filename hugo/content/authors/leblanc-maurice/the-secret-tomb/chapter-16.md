@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Last Quarter Of A Minute"
 weight: 16
-aliases:
-  - "/authors/leblanc-maurice/the-secret-tomb/chapter-16.html"
+url: "/authors/leblanc-maurice/the-secret-tomb/chapter-16.html"
 ---
 
 Dorothy did not turn round. She was a prisoner.

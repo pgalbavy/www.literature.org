@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/darwin-charles/the-descent-of-man/chapter-08.html"
+url: "/authors/darwin-charles/the-descent-of-man/chapter-08.html"
 ---
 
 WITH animals which have their sexes separated, the males necessarily differ from the females in their organs of reproduction; and these are the primary sexual characters. But the sexes often differ in what Hunter has called secondary sexual characters, which are not directly connected with the act of reproduction; for instance, the male possesses certain organs of sense or locomotion, of which the female is quite destitute, or has them more highly-developed, in order that he may readily find or reach her; or again the male has special organs of prehension for holding her securely. These latter organs, of infinitely diversified kinds, graduate into those which are commonly ranked as primary, and in some cases can hardly be distinguished from them; we see instances of this in the complex appendages at the apex of the abdomen in male insects. Unless indeed we confine the term "primary" to the reproductive glands, it is scarcely possible to decide which ought to be called primary and which secondary.

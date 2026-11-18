@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Home As A Workshop"
 weight: 6
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-home/chapter-05.html"
+url: "/authors/gilman-charlotte-perkins/the-home/chapter-05.html"
 ---
 
 I. The Housewife

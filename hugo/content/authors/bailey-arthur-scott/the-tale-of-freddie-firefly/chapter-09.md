@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Freddie's Promise"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-09.html"
 ---
 
 Buster Bumblebee did not find Freddie Firefly very easily. It was a sunny afternoon; and if Freddie was flashing his bright light, Buster was unable to see it. But at last he spied Freddie eating a meal of pollen in the meadow.

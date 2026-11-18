@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-11.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-11.html"
 ---
 
 It was upon the evening after this interview with Mr. Stamps that Tom broached to his young companion a plan which had lain half developed in his mind for some time.

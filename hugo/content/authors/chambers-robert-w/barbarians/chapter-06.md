@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - In Finistère"
 weight: 6
-aliases:
-  - "/authors/chambers-robert-w/barbarians/chapter-06.html"
+url: "/authors/chambers-robert-w/barbarians/chapter-06.html"
 ---
 
 It was a dirty trick that they played Stent and Brown—the three Mysterious Sisters, Fate, Chance, and Destiny. But they’re always billed for any performance, be it vaudeville or tragedy; and there’s no use hissing them off: they’ll dog you from the stage entrance if they take a fancy to you.

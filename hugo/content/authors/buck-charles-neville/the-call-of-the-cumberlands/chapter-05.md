@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-05.html"
+url: "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-05.html"
 ---
 
 While Spicer South and his cousins had been sustaining themselves or building up competences by tilling their soil, the leaders of the other faction were basing larger fortunes on the profits of merchandise and trade. So, although Spicer South could neither read nor write, his chief enemy, Micah Hollman, was to outward seeming an urbane and fairly equipped man of affairs. Judged by their heads, the clansmen were rougher and more illiterate on Misery, and in closer touch with civilization on Crippleshin. A deeper scrutiny showed this seeming to be one of the strange anomalies of the mountains.

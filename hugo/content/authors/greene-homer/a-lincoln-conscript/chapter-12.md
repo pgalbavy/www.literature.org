@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Welcome Home"
 weight: 12
-aliases:
-  - "/authors/greene-homer/a-lincoln-conscript/chapter-12.html"
+url: "/authors/greene-homer/a-lincoln-conscript/chapter-12.html"
 ---
 
 The war was over. Peace rested on the land. All men, North and South, were thankful that the shedding of human blood had ceased. June came, brighter, more beautiful, than any other June of which living men had memory. The world was filled with sunshine, with flowers, with the songs of birds, with the flashings of waters, with the gladness of nature and humanity. The last tired, tattered soldier of the South had gone back to his home to pick up the broken threads of destiny and to begin his life anew. And, slowly drifting up from camp and battle-field, the veterans of the Union army were coming by ones and twos and in little groups, some of them mere ghosts of the boys who had gone to the front when the war was on. But for every war-worn soldier thus returning there was one who would never come again. So there were tears as well as smiles, and heart-aches as well as rejoicings.

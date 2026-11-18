@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Uncle Blair Comes Home"
 weight: 27
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-26.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-26.html"
 ---
 
 It happened that the Story Girl and I both got up very early on the morning of the Awkward Man's wedding day. Uncle Alec was going to Charlottetown that day, and I, awakened at daybreak by the sounds in the kitchen beneath us, remembered that I had forgotten to ask him to bring me a certain school-book I wanted. So I hurriedly dressed and hastened down to tell him before he went. I was joined on the stairs by the Story Girl, who said she had wakened and, not feeling like going to sleep again, thought she might as well get up.

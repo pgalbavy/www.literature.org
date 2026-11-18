@@ -1,8 +1,7 @@
 ---
 title: "Canto 17"
 weight: 18
-aliases:
-  - "/authors/byron-lord/don-juan/canto-17.html"
+url: "/authors/byron-lord/don-juan/canto-17.html"
 ---
 
 The world is full of orphans: firstly, those  

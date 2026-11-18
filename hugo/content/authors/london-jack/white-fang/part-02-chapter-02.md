@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 2 - The Lair"
 weight: 5
-aliases:
-  - "/authors/london-jack/white-fang/part-02-chapter-02.html"
+url: "/authors/london-jack/white-fang/part-02-chapter-02.html"
 ---
 
 For two days the she-wolf and One Eye hung about the Indian camp. He was worried and apprehensive, yet the camp lured his mate and she was loath to depart. But when, one morning, the air was rent with the report of a rifle close at hand, and a bullet smashed against a tree trunk several inches from One Eye's head, they hesitated no more, but went off on a long, swinging lope that put quick miles between them and the danger.

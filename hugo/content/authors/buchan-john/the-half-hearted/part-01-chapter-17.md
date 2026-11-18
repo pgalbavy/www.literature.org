@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 17 - The Brink Of The Rubicon"
 weight: 17
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-01-chapter-17.html"
+url: "/authors/buchan-john/the-half-hearted/part-01-chapter-17.html"
 ---
 
 The next evening Wratislaw drove in a hired dogcart up Glenavelin from Gledsmuir just as a stormy autumn twilight was setting in over the bare fields. A wild back-end had followed on the tracks of a marvellous summer. Though it was still October the leaves lay heaped beneath the hedgerows, the bracken had yellowed to a dismal hue of decay, and the heather had turned from the purple of its flower to the grey-blue of its passing. Rain had fallen, and the long road-side pools were fired by the westering sun. Glenavelin looked crooked and fantastic in the falling shadows, and two miles farther the high lights of Etterick rose like a star in the bosom of the hills. Seen after many weeks' work in the bustle and confinement of town, the solitary, shadow-haunted world soothed and comforted.

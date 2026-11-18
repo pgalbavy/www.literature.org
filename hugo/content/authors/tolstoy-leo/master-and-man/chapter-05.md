@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/tolstoy-leo/master-and-man/chapter-05.html"
+url: "/authors/tolstoy-leo/master-and-man/chapter-05.html"
 ---
 
 Vasili Andreevich went over to his sledge, found it with difficulty in the darkness, climbed in and took the reins.

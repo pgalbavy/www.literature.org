@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - \u0026quot;Your\u0026quot; Miss Lackland"
 weight: 17
-aliases:
-  - "/authors/london-jack/adventure/chapter-17.html"
+url: "/authors/london-jack/adventure/chapter-17.html"
 ---
 
 The next morning Sheldon came in from the plantation to breakfast, to find the mission ketch, Apostle, at anchor, her crew swimming two mares and a filly ashore. Sheldon recognized the animals as belonging to the Resident Commissioner, and he immediately wondered if Joan had bought them. She was certainly living up to her threat of rattling the dry bones of the Solomons, and he was prepared for anything.

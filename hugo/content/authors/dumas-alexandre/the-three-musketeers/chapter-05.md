@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The King's Musketeers And The Cardinal's Guards"
 weight: 6
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-05.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-05.html"
 ---
 
 D'Artagnan was acquainted with nobody in Paris. He went therefore to his appointment with Athos without a second, determined to be satisfied with those his adversary should choose. Besides, his intention was formed to make the brave Musketeer all suitable apologies, but without meanness or weakness, fearing that might result from this duel which generally results from an affair of this kind, when a young and vigorous man fights with an adversary who is wounded and weakened - if conquered, he doubles the triumph of his antagonist; if a conqueror, he is accused of foul play and want of courage.

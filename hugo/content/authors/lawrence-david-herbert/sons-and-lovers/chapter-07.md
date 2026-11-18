@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Lad-And-Girl Love"
 weight: 7
-aliases:
-  - "/authors/lawrence-david-herbert/sons-and-lovers/chapter-07.html"
+url: "/authors/lawrence-david-herbert/sons-and-lovers/chapter-07.html"
 ---
 
 PAUL had been many times up to Willey Farm during the autumn. He was friends with the two youngest boys. Edgar the eldest, would not condescend at first. And Miriam also refused to be approached. She was afraid of being set at nought, as by her own brothers. The girl was romantic in her soul. Everywhere was a Walter Scott heroine being loved by men with helmets or with plumes in their caps. She herself was something of a princess turned into a swine-girl in her own imagination. And she was afraid lest this boy, who, nevertheless, looked something like a Walter Scott hero, who could paint and speak French, and knew what algebra meant, and who went by train to Nottingham every day, might consider her simply as the swine-girl, unable to perceive the princess beneath; so she held aloof.

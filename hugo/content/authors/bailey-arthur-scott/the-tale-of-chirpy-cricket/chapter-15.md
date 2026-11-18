@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Tommy Tree Cricket"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-chirpy-cricket/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-chirpy-cricket/chapter-15.html"
 ---
 
 After meeting that odd Mr. Mole Cricket, who claimed to be his cousin, Chirpy Cricket tried to find out more about him from his nearer relations. But there wasn't one that had ever seen or heard of such a person. One night Chirpy even travelled quite a distance to call on Tommy Tree Cricket, with the hope that perhaps Tommy might be able to tell him something.

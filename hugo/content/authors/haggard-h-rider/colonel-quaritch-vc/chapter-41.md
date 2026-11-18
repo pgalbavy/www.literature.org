@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41 - How The Night Went"
 weight: 41
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-41.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-41.html"
 ---
 
 George sat opposite to him, his hands on his knees, the red nightcap on his head, and a comical expression of astonishment upon his melancholy countenance.

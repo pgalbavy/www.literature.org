@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/tarkington-booth/the-guest-of-quesnay/chapter-16.html"
+url: "/authors/tarkington-booth/the-guest-of-quesnay/chapter-16.html"
 ---
 
 Miss Elliott's expression, when I turned to observe the effect of the intruder upon her, was found to be one of brilliant delight. With glowing eyes, her lips parted in a breathless ecstasy, she gazed upon the newcomer, evidently fearing to lose a syllable that fell from his lips. Moving closer to me she whispered urgently:

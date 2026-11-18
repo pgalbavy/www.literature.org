@@ -1,8 +1,7 @@
 ---
 title: "Chapter 55"
 weight: 55
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-55.html"
+url: "/authors/eliot-george/middlemarch/chapter-55.html"
 ---
 
 Hath she her faults? I would you had them too. They are the fruity must of soundest wine; Or say, they are regenerating fire Such as hath turned the dense black element Into a crystal pathway for the sun.

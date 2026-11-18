@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-09.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-09.html"
 ---
 
 The day waxed hot. A few little silver tortoises of cloud had crawled across the desert of sky, and hidden themselves. The chalk roads were white, quivering with heat. Helena and Siegmund walked eastward bareheaded under the sunshine. They felt like two insects in the niche of a hot hearth as they toiled along the deep road. A few poppies here and there among the wild rye floated scarlet in sunshine like blood-drops on green water. Helena recalled Francis Thompson's poems, which Siegmund had never read. She repeated what she knew, and laughed, thinking what an ineffectual pale shadow of a person Thompson must have been. She looked at Siegmund, walking in large easiness beside her.

@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 19"
 weight: 61
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-19.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-19.html"
 ---
 
 Happy for all her maternal feelings was the day on which Mrs. Bennet got rid of her two most deserving daughters. With what delighted pride she afterwards visited Mrs. Bingley and talked of Mrs. Darcy may be guessed. I wish I could say, for the sake of her family, that the accomplishment of her earnest desire in the establishment of so many of her children, produced so happy an effect as to make her a sensible, amiable, well-informed woman for the rest of her life; though perhaps it was lucky for her husband, who might not have relished domestic felicity in so unusual a form, that she still was occasionally nervous and invariably silly.

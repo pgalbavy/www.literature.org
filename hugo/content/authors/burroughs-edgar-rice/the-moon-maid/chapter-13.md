@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Death Within And Without!"
 weight: 14
-aliases:
-  - "/authors/burroughs-edgar-rice/the-moon-maid/chapter-13.html"
+url: "/authors/burroughs-edgar-rice/the-moon-maid/chapter-13.html"
 ---
 
 As rapidly as I could I made my way from the palace of Ko-tah, and upward, terrace by terrace, toward the palace of the Jemadar. I had never presented myself at Sagroth’s palace since Nah-ee-lah had so grievously offended me. I did not even know the customary procedure to follow to gain an audience with the Emperor, but nevertheless I came boldly to the carven gates and demanded to speak with the officer in command of the guards. When he came I told him that I desired to speak either with Sagroth or the Princess Nah-ee-lah at once, upon a matter of the most urgent importance.

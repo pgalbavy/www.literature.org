@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Emergency Man"
 weight: 7
-aliases:
-  - "/authors/dorrance-ethel-and-james/lonesome-town/chapter-07.html"
+url: "/authors/dorrance-ethel-and-james/lonesome-town/chapter-07.html"
 ---
 
 “Sixty-fourth and Central Park East. Otherwise Fifth Avenue, boss.” The driver of the pink-and-gray made the announcement through the open window behind the wheel seat as he drew up at the park-side curb. “Where away, now?”

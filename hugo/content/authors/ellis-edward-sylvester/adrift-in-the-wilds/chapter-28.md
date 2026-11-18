@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - A Pah Utah's Method Of Fishing"
 weight: 28
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-28.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-28.html"
 ---
 
 The gray light of dawn was spreading over the wood and river when Elwood Brandon again opened his eyes. He was somewhat startled to see nothing of the Pah Utah, although his canoe was still in the advance; but a second look showed that they were resting against the bank, and the Indian lay asleep in the front of his boat, his body and face covered entirely by his somber-hued blanket.

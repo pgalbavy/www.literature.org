@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/cooper-courtney-ryley/the-white-desert/chapter-14.html"
+url: "/authors/cooper-courtney-ryley/the-white-desert/chapter-14.html"
 ---
 
 It was a blow greater, far greater than one that could have been struck in mere physical contact. Houston reeled with the effect of it; he gasped, he struggled aimlessly, futilely, for words to answer it. Vaguely, dizzily, knowing nothing except a dim, hazy desire to rid himself of the loathsomeness of it, Houston started to the door, only to be pulled back in the gigantic grip of Ba'tiste Renaud. The old Canadian was glaring now, his voice was thunderous.

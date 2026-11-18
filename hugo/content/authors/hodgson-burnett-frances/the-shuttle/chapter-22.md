@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - One Of Mr. Vanderpoel's Letters"
 weight: 22
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-22.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-22.html"
 ---
 
 Mr. Germen, the secretary of the great Mr. Vanderpoel, in arranging the neat stacks of letters preparatory to his chief's entrance to his private room each morning, knowing where each should be placed, understood that such as were addressed in Miss Vanderpoel's hand would be read before anything else. This had been the case even when she had just been placed in a French school, a tall, slim little girl, with immense demanding eyes, and a thick black plait of hair swinging between her straight, rather thin, shoulders. Between other financial potentates and their little girls, Mr. Germen knew that the oddly confidential relation which existed between these two was unusual. Her schoolgirl letters, it had been understood, should be given the first place on the stacks of envelopes each incoming ocean steamer brought in its mail bags. Since the beginning of her visit to her sister, Lady Anstruthers, the exact dates of mail steamers seemed to be of increased importance. Miss Vanderpoel evidently found much to write about. Each steamer brought a full-looking envelope to be placed in a prominent position.

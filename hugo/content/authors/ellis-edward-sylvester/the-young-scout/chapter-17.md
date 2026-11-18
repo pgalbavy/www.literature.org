@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - \"Now For It\""
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-scout/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-17.html"
 ---
 
 It was at the moment Maurice Freeman’s mustang struck the crest of the slight elevation, beyond the small brook, that he descried the ominous vapor rising in the direction of his own home.

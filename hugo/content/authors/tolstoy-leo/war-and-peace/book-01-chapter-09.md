@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 9"
 weight: 9
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-01-chapter-09.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-01-chapter-09.html"
 ---
 
 It was past one o'clock when Pierre left his friend. It was a cloudless, northern, summer night. Pierre took an open cab intending to drive straight home. But the nearer he drew to the house the more he felt the impossibility of going to sleep on such a night. It was light enough to see a long way in the deserted street and it seemed more like morning or evening than night. On the way Pierre remembered that Anatole Kuragin was expecting the usual set for cards that evening, after which there was generally a drinking bout, finishing with visits of a kind Pierre was very fond of.

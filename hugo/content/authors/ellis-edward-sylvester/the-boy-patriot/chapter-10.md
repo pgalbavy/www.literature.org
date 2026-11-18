@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A New Deck"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-10.html"
 ---
 
 The British vessel had indeed suffered much damage in the fearful storm. The crashing and wrenching that had so overwhelmed poor Hal with terror, had been the destruction of mast and yard and bulwark. Yet, though sorely dismantled, the good ship was able to keep bravely on her way.

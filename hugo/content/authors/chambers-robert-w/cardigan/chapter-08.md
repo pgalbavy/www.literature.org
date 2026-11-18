@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/chambers-robert-w/cardigan/chapter-08.html"
+url: "/authors/chambers-robert-w/cardigan/chapter-08.html"
 ---
 
 When I came to the library the door stood partly open, and I could see a party of gentlemen lounging within, and somewhat boisterous over their wine and filberts; so thinking no harm to enter, I walked in and sat down on the arm of a leather chair by the window.

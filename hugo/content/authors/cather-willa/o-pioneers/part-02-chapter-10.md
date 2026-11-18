@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 10"
 weight: 15
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-02-chapter-10.html"
+url: "/authors/cather-willa/o-pioneers/part-02-chapter-10.html"
 ---
 
 While Emil and Carl were amusing themselves at the fair, Alexandra was at home, busy with her account-books, which had been neglected of late. She was almost through with her figures when she heard a cart drive up to the gate, and looking out of the window she saw her two older brothers. They had seemed to avoid her ever since Carl Linstrum's arrival, four weeks ago that day, and she hurried to the door to welcome them. She saw at once that they had come with some very definite purpose. They followed her stiffly into the sitting-room. Oscar sat down, but Lou walked over to the window and remained standing, his hands behind him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Too Late"
 weight: 21
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/chapter-20.html"
+url: "/authors/christie-agatha/the-secret-adversary/chapter-20.html"
 ---
 
 IN the street they held an informal council of war. Sir James had drawn a watch from his pocket. "The boat train to Holyhead stops at Chester at 12.14. If you start at once I think you can catch the connection."

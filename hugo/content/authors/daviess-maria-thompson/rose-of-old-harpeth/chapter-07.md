@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Satsuma Vase"
 weight: 7
-aliases:
-  - "/authors/daviess-maria-thompson/rose-of-old-harpeth/chapter-07.html"
+url: "/authors/daviess-maria-thompson/rose-of-old-harpeth/chapter-07.html"
 ---
 
 "Well, howdy to-day, Mis' Poteet!" exclaimed Mrs. Rucker as she came across her side yard and leaned over the Poteet fence right opposite the Poteet back porch. "I brought you this pan of rolls to set away for Mr. Poteet's supper. When I worked out the sponge looked like my pride over 'em riz with the dough and I just felt bound to show 'em off to somebody; I know I can always count on a few open mouths in this here nest."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Conversations And Plans"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/bill-biddon-trapper/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/bill-biddon-trapper/chapter-05.html"
 ---
 
 The disappearance of the canoe, although singular in itself, had nothing supernatural about it. The shrubbery, which overhung the water on either shore, offered a secure and impenetrable hiding-place, and a few dexterous, vigorous strokes of the paddles were all that was needed to send it beneath their shadows. That this had been done, was plainly evident. Yet why had it been done? What motive was there for concealment? And why, if apprehensive of danger, had the Indians waited till they were in its vicinity?

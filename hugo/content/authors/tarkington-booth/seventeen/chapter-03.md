@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Painful Age"
 weight: 3
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-03.html"
+url: "/authors/tarkington-booth/seventeen/chapter-03.html"
 ---
 
 "OH *WILL—EE!"*

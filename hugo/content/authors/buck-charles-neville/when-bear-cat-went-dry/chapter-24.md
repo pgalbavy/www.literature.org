@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-24.html"
+url: "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-24.html"
 ---
 
 When the door fell in, Bear Cat Stacy stepped across the splintered woodwork, unarmed save for the holstered pistol in his belt. He made a clear target for at his back was the red and yellow glare of blazing flambeaux. Yet no finger pressed its trigger because the mad uselessness of resistance proclaimed itself. Like flood-water running through a broken dyke, a black and steady stream flowed around him into the house, lining the walls with a mourning border of unidentified human figures.

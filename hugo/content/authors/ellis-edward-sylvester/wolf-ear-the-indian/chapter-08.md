@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - \"The Bucks Were Coming Up Alarmingly Fast\""
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/wolf-ear-the-indian/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/wolf-ear-the-indian/chapter-08.html"
 ---
 
 "When General Forsyth arrived," continued the scout, in his description of the battle of Wounded Knee Creek, "he ordered the male Indians to come for a talk. They come out, scowling and sullen, and gathered in a half-circle in front of Big Foot's tent. The chief was inside, ill with pneumonia.

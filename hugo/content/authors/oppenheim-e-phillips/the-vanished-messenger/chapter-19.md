@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-19.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-19.html"
 ---
 
 Mr. Fentolin remained upon the terrace long after the departure of his guests. He had found a sunny corner out of the wind, and he sat there with a telescope by his side and a budget of newspapers upon his knee. On some pretext or another he had detained all the others of the household so that they formed a little court around him. Even Hamel, who had said something about a walk, had been induced to stop by an appealing glance from Esther. Mr. Fentolin was in one of his most loquacious moods. For some reason or other, the visit of the Saxthorpes seemed to have excited him. He talked continually, with the briefest pauses. Every now and then he gazed steadily across the marshes through his telescope.

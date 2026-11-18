@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-05.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-05.html"
 ---
 
 The one-time cavalry leader caught up the challenge of the question.

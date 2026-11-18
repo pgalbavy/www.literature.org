@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Ice Goes Out Of The River"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-07.html"
 ---
 
 Farmer Green had taken his sap-buckets off the maple trees and that meant the spring was fast going. At least, that was what Mr. Bear said. And Cuffy noticed that every day there was a little less snow than there had been the day before.

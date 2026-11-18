@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Over And Under"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-12.html"
 ---
 
 When Billy Woodchuck talked about leaving the army, Major Monkey became greatly excited. He muttered something under his breath about deserters, and shooting them at sunrise. And he strutted up to Billy Woodchuck and asked him what he meant by quitting the army without permission.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 2 - The Crossing"
 weight: 3
-aliases:
-  - "/authors/leblanc-maurice/the-tremendous-event/part-01-chapter-02.html"
+url: "/authors/leblanc-maurice/the-tremendous-event/part-01-chapter-02.html"
 ---
 
 Next day, at Newhaven, Simon Dubosc learnt that, at about six o'clock on the previous evening, a fishing-smack with a crew of eight hands had foundered in sight of Seaford. The cyclone had been seen from the shore.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - When Riches Fly"
 weight: 2
-aliases:
-  - "/authors/coolidge-dane/rimrock-jones/chapter-02.html"
+url: "/authors/coolidge-dane/rimrock-jones/chapter-02.html"
 ---
 
 The Mint was Gunsight's only gambling house. It had a bar, of course, and a Mexican string band that played from eight o'clock on; besides a roulette wheel, a crap table, two faro layouts, and monte for the Mexicans. But the afternoon was dull and the faro dealer was idly shuffling a double stack of chips when Rimrock brushed in through the door. Half an hour afterwards the place was crowded and all the games were running big. Such is the force of example--especially when you win.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Qualla Battoo Incident"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-21.html"
 ---
 
 Qualla Battoo is the name of a small Malay town, which stood on the northwestern coast of Sumatra. In the month of February, 1831, the *Friendship*, a trading vessel from Salem, Mass., lay at anchor off the town, taking on board a cargo of pepper. Her captain, Mr. Endicott, and crew numbered fifteen men. There being no harbor, the vessel was about half a mile from shore. The day was oppressively hot and no one on the *Friendship* put forth more exertion than was absolutely necessary. Even the swarthy natives seemed to languish in the flaming heat and displayed less vigor in bringing out the pepper in their boats than they did when the sun beat down upon them with its usual rigor.

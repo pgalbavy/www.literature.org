@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Allan Quatermain Misses"
 weight: 19
-aliases:
-  - "/authors/haggard-h-rider/the-ivory-child/chapter-19.html"
+url: "/authors/haggard-h-rider/the-ivory-child/chapter-19.html"
 ---
 
 I had made my last round of the little corps that I facetiously named “The Sharpshooters,” though to tell the truth at shooting they were anything but sharp, and seen that each man was in his place behind a wall with a reserve man squatted at the rear of every pair of them, waiting to take his rifle if either of these should fall. Also I had made sure that all of them had twenty rounds of ammunition in their skin pouches. More I would not serve out, fearing lest in excitement or in panic they might fire away to the last cartridge uselessly, as before now even disciplined white troops have been known to do. Therefore I had arranged that certain old men of standing who could be trusted should wait in a place of comparative safety behind the line, carrying all our reserve ammunition, which amounted, allowing for what had been expended in practice, to nearly sixty rounds per rifle. This they were instructed to deliver from their wallets to the firing line in small lots when they saw that it was necessary and not before.

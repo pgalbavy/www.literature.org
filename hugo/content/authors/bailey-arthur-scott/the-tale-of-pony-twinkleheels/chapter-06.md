@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Picking Currants"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-06.html"
 ---
 
 If there was one sort of work that Johnnie Green had always disliked more than another, it was picking currants. Of course he didn't object to strolling up to a currant bush and taking a few currants for his own use, on the spot. What he hated was having to fill pail after pail full of currants for his mother to make jelly and jam.

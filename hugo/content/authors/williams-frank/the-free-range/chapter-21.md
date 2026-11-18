@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Julie Investigates"
 weight: 21
-aliases:
-  - "/authors/williams-frank/the-free-range/chapter-21.html"
+url: "/authors/williams-frank/the-free-range/chapter-21.html"
 ---
 
 The occasion when nine men with their hands tied behind them arrived at the Bar T ranch, accompanied by six others with Winchesters across their saddle bows, was an extremely happy one for Juliet Bissell. This happiness was not associated, except superficially, with the capture of the rustlers, but had to do especially with the receipt of a certain smeared and blackened journal from a certain tall and generously proportioned young man.

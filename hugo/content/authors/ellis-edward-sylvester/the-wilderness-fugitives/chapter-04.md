@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Course Of True Love"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-04.html"
 ---
 
 Rosa and Ned, without wish or intention on their part, were obtaining some very interesting information from the Tory leader; and, as the way was not clear as to a safe method of extricating themselves from the position of eavesdroppers, they could do nothing more than hold their peace and allow the entertainment to continue.

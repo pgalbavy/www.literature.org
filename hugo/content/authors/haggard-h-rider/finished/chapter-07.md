@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Stoep"
 weight: 8
-aliases:
-  - "/authors/haggard-h-rider/finished/chapter-07.html"
+url: "/authors/haggard-h-rider/finished/chapter-07.html"
 ---
 
 When I reached Miss Heda she was collecting half-opened monthly roses from the hedge, and not quite knowing what to say I made the appropriate quotation. At least it was appropriate to my thought, and, from her answer, to hers also.

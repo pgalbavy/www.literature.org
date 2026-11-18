@@ -1,8 +1,7 @@
 ---
 title: "Chapter 81 - The Room Of The Retired Baker"
 weight: 81
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-81.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-81.html"
 ---
 
 The evening of the day on which the Count of Morcerf had left Danglars' house with feelings of shame and anger at the rejection of the projected alliance, M. Andrea Cavalcanti, with curled hair, mustaches in perfect order, and white gloves which fitted admirably, had entered the courtyard of the banker's house in La Chaussee d'Antin. He had not been more than ten minutes in the drawing-room before he drew Danglars aside into the recess of a bow-window, and, after an ingenious preamble, related to him all his anxieties and cares since his noble father's departure. He acknowledged the extreme kindness which had been shown him by the banker's family, in which he had been received as a son, and where, besides, his warmest affections had found an object on which to centre in Mademoiselle Danglars. Danglars listened with the most profound attention; he had expected this declaration for the last two or three days, and when at last it came his eyes glistened as much as they had lowered on listening to Morcerf. He would not, however, yield immediately to the young man's request, but made a few conscientious objections. "Are you not rather young, M. Andrea, to think of marrying?"

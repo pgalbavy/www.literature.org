@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/tarkington-booth/ramsey-milholland/chapter-04.html"
+url: "/authors/tarkington-booth/ramsey-milholland/chapter-04.html"
 ---
 
 His discovery irritated him the more. Next thing, this ole Teacher's Pet would do she'd get to thinkin' she was pretty! If *that* happened, well, nobody *could* stand her! The long lashes made her eyes shadowy, and it was a fact that her shoulder blades ceased to insist upon notoriety; you couldn't tell where they were at all, any more. Her back seemed to be just a regular back, not made up of a lot of implements like shoulder blades and things.

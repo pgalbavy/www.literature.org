@@ -1,8 +1,7 @@
 ---
 title: "part 01 chapter 00"
 weight: 999
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-00.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-00.html"
 ---
 
 **The Project Gutenberg Etext of Anna Karenina, by Leo Tolstoy** #5 in our series by or about Leo Tolstoy

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Journeying Eastward"
 weight: 31
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-31.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-31.html"
 ---
 
 Jack Carleton reasoned in this wise:

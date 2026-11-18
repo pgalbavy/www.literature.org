@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Granny And Reddy Fox Go Hunting"
 weight: 2
-aliases:
-  - "/authors/burgess-thornton-w/old-granny-fox/chapter-02.html"
+url: "/authors/burgess-thornton-w/old-granny-fox/chapter-02.html"
 ---
 
 When you're in doubt what course is right,  

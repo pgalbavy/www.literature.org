@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Struggle For Life"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-10.html"
 ---
 
 The partly sunken log crashed into the side of the canoe with such suddenness that the craft was overturned and ruined, and the occupants struggling in the water, before either had time to utter more than a single exclamation.

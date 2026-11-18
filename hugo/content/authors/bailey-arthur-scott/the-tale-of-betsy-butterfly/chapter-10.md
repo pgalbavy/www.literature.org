@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Night Watch"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-10.html"
 ---
 
 LITTLE Mrs. Ladybug stopped everybody she met in the meadow and related how Betsy Butterfly was taking Farmer Green's butter--and his eggs, too--without asking his permission.

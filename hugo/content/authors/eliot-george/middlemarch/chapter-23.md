@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-23.html"
+url: "/authors/eliot-george/middlemarch/chapter-23.html"
 ---
 
 "Your horses of the Sun," he said, "And first-rate whip Apollo! Whate'er they be, I'll eat my head, But I will beat them hollow."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 50"
 weight: 50
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-50.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-50.html"
 ---
 
 As Lieutenant Fred Godfrey slowly raised his hand, as if it were the signal for his friends to open fire, Jake Golcher collapsed.

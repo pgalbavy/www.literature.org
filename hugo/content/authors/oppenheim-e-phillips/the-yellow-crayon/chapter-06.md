@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-06.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-06.html"
 ---
 
 Here's a lady inquiring for you, sir - just gone up to your room in the elevator," the hotel clerk remarked to Mr. Sabin as he paused on his way to the door to hand in his key. "Shall I send a boy up?"

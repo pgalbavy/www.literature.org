@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Miss Letitia"
 weight: 13
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-13.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-13.html"
 ---
 
 Emily entered the room. The door was immediately closed on her from the outer side. Mrs. Ellmother's heavy steps were heard retreating along the passage. Then the banging of the door that led into the kitchen shook the flimsily-built cottage. Then, there was silence.

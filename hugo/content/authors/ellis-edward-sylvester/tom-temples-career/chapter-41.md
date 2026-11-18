@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41 - Tom Adopts A Rich Uncle"
 weight: 41
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-41.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-41.html"
 ---
 
 *TOM WAS* very much shocked at the tragical fate of his companion. Though he had been an outlaw and a chief of a noted gang of robbers, it had been his purpose to break away from his evil life and his companions in crime, and to lead hence-forth a blameless life.

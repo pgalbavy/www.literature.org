@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Little Peasant"
 weight: 24
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-24.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-24.html"
 ---
 
 There was a certain village wherein no one lived but really rich peasants, and just one poor one, whom they called the little peasant. He had not even so much as a cow, and still less money to buy one, and yet he and his wife did so wish to have one. One day he said to her: ‘Listen, I have a good idea, there is our gossip the carpenter, he shall make us a wooden calf, and paint it brown, so that it looks like any other, and in time it will certainly get big and be a cow.’ the woman also liked the idea, and their gossip the carpenter cut and planed the calf, and painted it as it ought to be, and made it with its head hanging down as if it were eating.

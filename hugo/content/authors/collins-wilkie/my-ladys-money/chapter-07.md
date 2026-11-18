@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/collins-wilkie/my-ladys-money/chapter-07.html"
+url: "/authors/collins-wilkie/my-ladys-money/chapter-07.html"
 ---
 
 THE sight that met Moody's view wrung him to the heart.

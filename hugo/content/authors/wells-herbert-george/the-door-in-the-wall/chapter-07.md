@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Lord Of The Dynamos"
 weight: 7
-aliases:
-  - "/authors/wells-herbert-george/the-door-in-the-wall/chapter-07.html"
+url: "/authors/wells-herbert-george/the-door-in-the-wall/chapter-07.html"
 ---
 
 The chief attendant of the three dynamos that buzzed and rattled at Camberwell, and kept the electric railway going, came out of Yorkshire, and his name was James Holroyd. He was a practical electrician, but fond of whisky, a heavy red-haired brute with irregular teeth. He doubted the existence of the deity, but accepted Carnot's cycle, and he had read Shakespeare and found him weak in chemistry. His helper came out of the mysterious East, and his name was Azuma-zi. But Holroyd called him Pooh-bah. Holroyd liked a nigger because he would stand kicking--a habit with Holroyd--and did not pry into the machinery and try to learn the ways of it. Certain odd possibilities of the negro mind brought into abrupt contact with the crown of our civilisation Holroyd never fully realised, though just at the end he got some inkling of them.

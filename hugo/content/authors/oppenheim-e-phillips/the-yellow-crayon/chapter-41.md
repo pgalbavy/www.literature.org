@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41"
 weight: 41
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-41.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-41.html"
 ---
 
 At eight o'clock in the evening Lucille knocked at the door of Lady Carey's suite of rooms at the hotel. There was no answer. A chambermaid who was near came smiling up.

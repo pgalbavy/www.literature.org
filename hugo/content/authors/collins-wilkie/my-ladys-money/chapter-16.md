@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/collins-wilkie/my-ladys-money/chapter-16.html"
+url: "/authors/collins-wilkie/my-ladys-money/chapter-16.html"
 ---
 
 PAYING his court to the ex-schoolmistress on the next day, Hardyman made such excellent use of his opportunities that the visit to the stud-farm took place on the day after. His own carriage was placed at the disposal of Isabel and her aunt; and his own sister was present to confer special distinction on the reception of Miss Pink.

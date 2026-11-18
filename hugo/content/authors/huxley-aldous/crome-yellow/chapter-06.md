@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/huxley-aldous/crome-yellow/chapter-06.html"
+url: "/authors/huxley-aldous/crome-yellow/chapter-06.html"
 ---
 
 Mr. Barbecue-Smith arrived in time for tea on Saturday afternoon. He was a short and corpulent man, with a very large head and no neck. In his earlier middle age he had been distressed by this absence of neck, but was comforted by reading in Balzac’s "Louis Lambert" that all the world’s great men have been marked by the same peculiarity, and for a simple and obvious reason: Greatness is nothing more nor less than the harmonious functioning of the faculties of the head and heart; the shorter the neck, the more closely these two organs approach one another; argal...It was convincing.

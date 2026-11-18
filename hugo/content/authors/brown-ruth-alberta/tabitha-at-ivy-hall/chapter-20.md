@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - A Happy Home"
 weight: 20
-aliases:
-  - "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-20.html"
+url: "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-20.html"
 ---
 
 Unknown to Tabitha, Miss Pomeroy had telegraphed her coming, and Tom was there to meet her at the station when the cars slowed down at the forsaken-looking desert town. She looked at his white, haggard face and heavy eyes, and her heart stood still. "Oh, Tom, he isn't—"

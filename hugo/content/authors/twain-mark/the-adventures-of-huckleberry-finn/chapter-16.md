@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-16.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-16.html"
 ---
 
 WE slept most all day, and started out at night, a little ways behind a monstrous long raft that was as long going by as a procession. She had four long sweeps at each end, so we judged she carried as many as thirty men, likely. She had five big wigwams aboard, wide apart, and an open camp fire in the middle, and a tall flag-pole at each end. There was a power of style about her. It AMOUNTED to something being a raftsman on such a craft as that.

@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 1 - In The Red Deeps"
 weight: 33
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-05-chapter-01.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-05-chapter-01.html"
 ---
 
 The family sitting-room was a long room with a window at each end; one looking toward the croft and along the Ripple to the banks of the Floss, the other into the mill-yard. Maggie was sitting with her work against the latter window when she saw Mr. Wakem entering the yard, as usual, on his fine black horse; but not alone, as usual. Some one was with him, - a figure in a cloak, on a handsome pony. Maggie had hardly time to feel that it was Philip come back, before they were in front of the window, and he was raising his hat to her; while his father, catching the movement by a side-glance, looked sharply round at them both.

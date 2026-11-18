@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-06.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-06.html"
 ---
 
 Aunts and cousins and more or less able relatives were largely drawn on in these days of stress and need, and Dowie was an efficient person. The cousin whose husband had been killed in Belgium, leaving a young widow and two children scarcely younger and more helpless than herself, had no relation nearer than Dowie, and had sent forth to the good woman a frantic wail for help in her desolation. The two children were, of course, on the point of being added to by an almost immediately impending third, and the mother, being penniless and prostrated, had remembered the comfortable creature with her solid bank account of savings and her good sense and good manners and knowledge of a world larger than the one into which she had been born.

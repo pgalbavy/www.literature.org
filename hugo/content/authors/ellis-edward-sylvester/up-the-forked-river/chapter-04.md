@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-04.html"
 ---
 
 General Fernando De Bambos, President and Dictator of Zalapata, had summoned one of the most momentous councils of war in the history of the Republic. Those present were our old friend, Major Jack Starland, who was a guest of the General, and Captain Alfredo Guzman, Chief of Staff. The other leaders sulked because they were not invited to the conference, but General Bambos dared not trust them with the important matters that were oppressing his ponderous brain and had troubled him for weeks.

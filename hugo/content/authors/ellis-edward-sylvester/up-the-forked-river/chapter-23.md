@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-23.html"
 ---
 
 Something prompted Martella to turn his head and look back. Not Captain Navarro alone, but two of the soldiers had come to the head of the path and stood out in clear relief in the strong moonlight, looking after the vanishing couple. Martella grimly thought:

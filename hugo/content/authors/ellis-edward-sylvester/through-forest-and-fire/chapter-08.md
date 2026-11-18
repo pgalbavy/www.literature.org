@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Startling Footprints"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-08.html"
 ---
 
 On the very edge of the bridge over Shark Creek, the mother of Nellie Ribsam picked up the lunch basket which her daughter had taken to school that morning. It lay on its side, with the snowy napkin partly out, and within it was a piece of brown bread which the parent had spread with golden butter, and which was partly eaten.

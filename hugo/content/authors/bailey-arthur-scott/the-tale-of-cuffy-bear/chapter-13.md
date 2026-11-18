@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Haying-Time"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-13.html"
 ---
 
 After Cuffy Bear's adventure with Mrs. Eagle he did not stray far from home for several weeks. You can see, from that, that he had been badly frightened. Yes--just to look at a crow flapping through the air made Cuffy dizzy now; and nothing would have tempted him to go up the mountain again.

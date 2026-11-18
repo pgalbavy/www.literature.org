@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-08.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-08.html"
 ---
 
 The sailing and racing of yachts has developed a class of fore-and-aft sailors, men born and bred to the sea, fishing in winter and yachting in summer; men to whom the handling of that particular rig presents no mystery. It is their striving for victory that has elevated the sailing of pleasure craft to the dignity of a fine art in that special sense. As I have said, I know nothing of racing and but little of fore-and-aft rig; but the advantages of such a rig are obvious, especially for purposes of pleasure, whether in cruising or racing. It requires less effort in handling; the trimming of the sail-planes to the wind can be done with speed and accuracy; the unbroken spread of the sail-area is of infinite advantage; and the greatest possible amount of canvas can be displayed upon the least possible quantity of spars. Lightness and concentrated power are the great qualities of fore-and-aft rig.

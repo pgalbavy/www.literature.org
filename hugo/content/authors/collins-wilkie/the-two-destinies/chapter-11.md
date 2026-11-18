@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Letter Of Introduction"
 weight: 12
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-11.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-11.html"
 ---
 
 I LOOKED at the house. It was an inn, of no great size, but of respectable appearance. If I was to be of any use to her that night, the time had come to speak of other subjects than the subject of dreams.

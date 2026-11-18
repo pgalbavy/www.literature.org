@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - John To The Rescue"
 weight: 14
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-14.html"
+url: "/authors/haggard-h-rider/jess/chapter-14.html"
 ---
 
 The important domestic events described in the last chapter took place on December 7, 1880, and for the next twelve days or so everything went as happily at Mooifontein as things should go under the circumstances. Every day Silas Croft beamed with an enlarged geniality in his satisfaction at the turn that matters had taken, and every day John found cause to congratulate himself more and more on the issue of his bold venture towards matrimony. Now that he came to be on such intimate terms with his betrothed, he perceived a hundred charms and graces in her nature which before he had never suspected. Bessie was like a flower: the more she basked in the light and warmth of her love the more her character opened and unfolded, shedding perfumed sweetness around her and revealing unguessed charms. It is so with all women, and more especially with a woman of her stamp, whom Nature has made to love and be loved as maid and wife and mother. Her undoubted personal beauty shared also in this development, her fair face taking a richer hue and her eyes an added depth and meaning. She was in every respect, save one, all that a man could desire in his wife, and even the exception would have stood to her credit with many men. It was this: she was not an intellectual person, although certainly she possessed more than the ordinary share of intelligence and work-a-day common sense. Now John was a decidedly intellectual man, and, what is more, he highly appreciated that rare quality in the other sex. But, after all, when one is just engaged to a sweet and lovely woman, one does not think much about her intellect. Those reflections come afterwards.

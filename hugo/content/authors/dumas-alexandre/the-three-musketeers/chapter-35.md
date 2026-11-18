@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - A Gascon A Match For Cupid"
 weight: 36
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-35.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-35.html"
 ---
 
 The evening so impatiently waited for by Porthos and by D'Artagnan at last arrived.

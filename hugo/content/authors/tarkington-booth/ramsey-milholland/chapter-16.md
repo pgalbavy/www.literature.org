@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/tarkington-booth/ramsey-milholland/chapter-16.html"
+url: "/authors/tarkington-booth/ramsey-milholland/chapter-16.html"
 ---
 
 Ramsey was not quite athlete enough for any of the 'varsity teams; neither was he an antagonist safely encountered, whether in play or in earnest, and during the next few days he taught Fred Mitchell to be cautious. The chaffer learned that his own agility could not save him from Ramsey, and so found it wiser to contain an effervescence which sometimes threatened to burst him. Ramsey as a victim was a continuous temptation, he was so good-natured and yet so furious.

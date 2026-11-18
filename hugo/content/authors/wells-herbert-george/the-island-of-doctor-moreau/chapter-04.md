@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - At The Schooner's Rail"
 weight: 5
-aliases:
-  - "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-04.html"
+url: "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-04.html"
 ---
 
 THAT night land was sighted after sundown, and the schooner hove to. Montgomery intimated that was his destination. It was too far to see any details; it seemed to me then simply a low-lying patch of dim blue in the uncertain blue-grey sea. An almost vertical streak of smoke went up from it into the sky. The captain was not on deck when it was sighted. After he had vented his wrath on me he had staggered below, and I understand be went to sleep on the floor of his own cabin. The mate practically assumed the command. He was the gaunt, taciturn individual we had seen at the wheel. Apparently he was in an evil temper with Montgomery. He took not the slightest notice of either of us. We dined with him in a sulky silence, after a few ineffectual efforts on my part to talk. It struck me too that the men regarded my companion and his animals in a singularly unfriendly manner. I found Montgomery very reticent about his purpose with these creatures, and about his destination; and though I was sensible of a growing curiosity as to both, I did not press him.

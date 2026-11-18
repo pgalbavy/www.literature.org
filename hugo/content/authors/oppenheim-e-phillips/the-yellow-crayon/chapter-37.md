@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37"
 weight: 37
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-37.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-37.html"
 ---
 
 Mr. Sabin a few minutes afterwards ordered his carriage, and was driven to Dorset House. He asked for Lucille, but was shown at once into the library, where the Duke was awaiting him. Then Mr. Sabin knew that something had happened.

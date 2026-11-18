@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 9"
 weight: 93
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-05-chapter-09.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-05-chapter-09.html"
 ---
 
 Bilibin was now at army headquarters in a diplomatic capacity, and though he wrote in French and used French jests and French idioms, he described the whole campaign with a fearless self-censure and self-derision genuinely Russian. Bilibin wrote that the obligation of diplomatic discretion tormented him, and he was happy to have in Prince Andrew a reliable correspondent to whom he could pour out the bile he had accumulated at the sight of all that was being done in the army. The letter was old, having been written before the battle at Preussisch-Eylau.

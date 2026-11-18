@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - A Midnight Visit"
 weight: 24
-aliases:
-  - "/authors/burgess-thornton-w/old-granny-fox/chapter-24.html"
+url: "/authors/burgess-thornton-w/old-granny-fox/chapter-24.html"
 ---
 
 By those who win 't is well agreed  

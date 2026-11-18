@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 1 - The Two Women"
 weight: 9
-aliases:
-  - "/authors/leblanc-maurice/the-frontier/part-02-chapter-01.html"
+url: "/authors/leblanc-maurice/the-frontier/part-02-chapter-01.html"
 ---
 
 Suzanne Jorancé pushed the swing-gate and entered the grounds of the Old Mill.

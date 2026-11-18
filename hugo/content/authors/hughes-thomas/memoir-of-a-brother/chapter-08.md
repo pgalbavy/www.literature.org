@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Italy"
 weight: 9
-aliases:
-  - "/authors/hughes-thomas/memoir-of-a-brother/chapter-08.html"
+url: "/authors/hughes-thomas/memoir-of-a-brother/chapter-08.html"
 ---
 
 The pleasure of having my brother as an inmate was scarcely dimmed by this disappointment, and he remained with us until the autumn of 1850, a white nine months in my life. Your grandfather wrote of him a year later, when he had engaged himself to be married: "I cannot exactly fancy George a married man, seeing that to the latest period his ways in this house have been precisely the same as when he was a Rugby boy—as few wants, and as little assumption, though I have exhorted him to swagger and order a little." And, as it was at Donnington, so it had been in our diminutive town-house; indeed, I doubt whether any one of you, or any public school boy, would give so little trouble. He read hard, starting with me every morning directly after breakfast; went into no society, except that of a few old friends, and allured me away occasionally on summer afternoons, from law, and the reform of trade, to a game of cricket with the Hampstead club, of which he had become a member, or in the Harrow playing-fields, where he was always more than welcome.

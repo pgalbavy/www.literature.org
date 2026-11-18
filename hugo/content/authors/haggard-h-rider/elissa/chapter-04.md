@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Dream Of Issachar"
 weight: 5
-aliases:
-  - "/authors/haggard-h-rider/elissa/chapter-04.html"
+url: "/authors/haggard-h-rider/elissa/chapter-04.html"
 ---
 
 For a moment there was silence, which Aziel broke, saying:--

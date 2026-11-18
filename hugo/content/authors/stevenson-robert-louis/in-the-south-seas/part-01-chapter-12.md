@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 12 - The Story Of A Plantation"
 weight: 12
-aliases:
-  - "/authors/stevenson-robert-louis/in-the-south-seas/part-01-chapter-12.html"
+url: "/authors/stevenson-robert-louis/in-the-south-seas/part-01-chapter-12.html"
 ---
 
 Taahauku, on the south-westerly coast of the island of Hiva-oa—Tahuku, say the slovenly whites—may be called the port of Atuona. It is a narrow and small anchorage, set between low cliffy points, and opening above upon a woody valley: a little French fort, now disused and deserted, overhangs the valley and the inlet. Atuona itself, at the head of the next bay, is framed in a theatre of mountains, which dominate the more immediate settling of Taahauku and give the salient character of the scene. They are reckoned at no higher than four thousand feet; but Tahiti with eight thousand, and Hawaii with fifteen, can offer no such picture of abrupt, melancholy alps. In the morning, when the sun falls directly on their front, they stand like a vast wall: green to the summit, if by any chance the summit should be clear—water-courses here and there delineated on their face, as narrow as cracks. Towards afternoon, the light falls more obliquely, and the sculpture of the range comes in relief, huge gorges sinking into shadow, huge, tortuous buttresses standing edged with sun. At all hours of the day they strike the eye with some new beauty, and the mind with the same menacing gloom.

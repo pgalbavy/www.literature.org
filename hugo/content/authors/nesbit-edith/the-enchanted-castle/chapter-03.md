@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/nesbit-edith/the-enchanted-castle/chapter-03.html"
+url: "/authors/nesbit-edith/the-enchanted-castle/chapter-03.html"
 ---
 
 *THOSE* of my readers who have gone about much with an invisible companion will not need to be told how awkward the whole business is. For one thing, however much you may have been convinced that your companion *is* invisible, you will, I feel sure, have found yourself every now and then saying, "This *must* be a dream!" or "I *know* I shall wake up in half a sec!" And this was the case with Gerald, Kathleen, and Jimmy as they sat in the white marble Temple of Flora, looking out through its arches at the sunshiny park and listening to the voice of the enchanted Princess, who really was not a Princess at all, but just the housekeeper's niece, Mabel Prowse; though, as Jimmy said, "she was enchanted, right enough."

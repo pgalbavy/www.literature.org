@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/buck-charles-neville/the-key-to-yesterday/chapter-15.html"
+url: "/authors/buck-charles-neville/the-key-to-yesterday/chapter-15.html"
 ---
 
 Captain Harris had been, like Rodman, one of the men who make up the world's flotsam and jetsam. He, too, had meddled in the affairs of that unstable belt which lies just above and below the "line." South and Central American politics and methods were familiar to him. He had not attained the command of the tramp freighter Albatross without learning one decisive lesson, that of eliminating curiosity from his plan of living. He argued that his passenger was an insurrecto, and, once seized in Puerto Frio, could hardly hope to shield himself behind American citizenship. There had been many men in Puerto Frio when the captain sailed who would have paid well for passage to any port beyond the frontier, but to have taken them might have brought complications. He had been able at some risk to slip two men at most to his vessel under the curtain of night, and to clear without interference. He had chosen the man who was his friend, Dr. Cornish, and the man who was his countryman and helpless. Of course, all the premises upon which both Rodman and this sea-going man acted were false premises. Had he been left, Saxon would have been in no danger. He had none the less been shanghaied for a voyage of great length, and he had been shanghaied out of sincere kindness.

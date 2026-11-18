@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Bobby'S Names"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-11.html"
 ---
 
 EVERYBODY--almost--liked Bobby Bobolink. His neighbors in Farmer Green's meadow enjoyed his singing. And they thought him the merriest harum-scarum they had ever known. He was even cheerful to look at, too. For with every bright day that passed, Bobby Bobolink's dress took on a gayer hue. The truth was that the yellowish tips of his feathers were wearing away, leaving him a handsome suit of black, set off by a generous patch of creamy yellow on the back of his neck, with enough white on his back and shoulders to make a most jaunty costume.

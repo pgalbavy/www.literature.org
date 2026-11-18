@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 16 - Still Knitting"
 weight: 22
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-16.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-16.html"
 ---
 
 MADAME DEFARGE and monsieur her husband returned amicably to the bosom of Saint Antoine, while a speck in a blue cap toiled through the darkness, and through the dust, and down the weary miles of avenue by the wayside, slowly tending towards that point of the compass where the chateau of Monsieur the Marquis, now in his grave, listened to the whispering trees. Such ample leisure had the stone faces, now, for listening to the trees and to the fountain, that the few village scarecrows who, in their quest for herbs to eat and fragments of dead stick to burn, strayed within sight of the great stone courtyard and terrace staircase, had it borne in upon their starved fancy that the expression of the faces was altered. A rumour just lived in the village- had a faint and bare existence there, as its people had- that when the knife struck home, the faces changed, from faces of pride to faces of anger and pain; also, that when that dangling figure was hauled up forty feet above the fountain, they changed again, and bore a cruel look of being avenged, which they would henceforth bear for ever. In the stone face over the great window of the bed-chamber where the murder was done, two fine dints were pointed out in the sculptured nose, which everybody recognised, and which nobody had seen of old; and on the scarce occasions when two or three ragged peasants emerged from the crowd to take a hurried peep at Monsieur the Marquis petrified, a skinny finger would not have pointed to it for a minute, before they all started away among the moss and leaves, like the more fortunate hares who could find a living there.

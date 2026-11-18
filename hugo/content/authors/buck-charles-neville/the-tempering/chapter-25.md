@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-25.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-25.html"
 ---
 
 When he went back to Louisville, early in September, Boone found the office of Colonel Wallifarro humming with a suppressed excitement, tinctured with indignation. A municipal campaign was on, and on the day of his arrival General Prince and Colonel Wallifarro were deep in its discussion. Seeing the earnest gleam in their eyes, Boone wondered a little at the contrasting indifference in Morgan's manner whenever the political topic was broached. He fancied that the Colonel himself was disappointed, and one morning that gentleman said with a tone as nearly bordering on rebuke as Boone had ever heard him employ with his son, "Morgan, I don't understand how you can remain so unmoved by a situation which makes an imperative demand upon a man's sense of citizenship."

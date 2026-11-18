@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Siege And Bed"
 weight: 7
-aliases:
-  - "/authors/nesbit-edith/five-children-and-it/chapter-07.html"
+url: "/authors/nesbit-edith/five-children-and-it/chapter-07.html"
 ---
 
 The children were sitting in the gloomy banqueting-hall, at the end of one of the long bare wooden tables. There was now no hope. Martha had brought in the dinner, and the dinner was invisible, and unfeelable too; for, when they rubbed their hands along the table, they knew but too well that for them there was nothing there BUT table.

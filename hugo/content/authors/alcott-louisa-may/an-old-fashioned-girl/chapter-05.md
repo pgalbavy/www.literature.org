@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Scrapes"
 weight: 6
-aliases:
-  - "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-05.html"
+url: "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-05.html"
 ---
 
 AFTER being unusually good, children are apt to turn short round and refresh themselves by acting like Sancho. For a week after Tom's mishap, the young folks were quite angelic, so much so that grandma said she was afraid “something was going to happen to them.” The dear old lady need n't have felt anxious, for such excessive virtue does n't last long enough to lead to translation, except with little prigs in the goody story-books; and no sooner was Tom on his legs again, when the whole party went astray, and much tribulation was the consequence.

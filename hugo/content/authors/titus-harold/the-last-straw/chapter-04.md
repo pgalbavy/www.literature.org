@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Champion"
 weight: 4
-aliases:
-  - "/authors/titus-harold/the-last-straw/chapter-04.html"
+url: "/authors/titus-harold/the-last-straw/chapter-04.html"
 ---
 
 Beck was still busy with the horses when Jane appeared, bareheaded and clad in a riding habit. He had separated the unbroken stock from the horses that had been turned loose for the winter and was playing with these last, overcoming the shyness that months on the range had engendered.

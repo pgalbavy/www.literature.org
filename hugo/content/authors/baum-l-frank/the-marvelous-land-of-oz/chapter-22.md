@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 23
-aliases:
-  - "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-22.html"
+url: "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-22.html"
 ---
 
 The Witch was at first frightened at finding herself captured by the enemy; but soon she decided that she was exactly as safe in the Tin Woodman's button-hole as growing upon the bush. For no one knew the rose and Mombi to be one, and now that she was without the gates of the City her chances of escaping altogether from Glinda were much improved.

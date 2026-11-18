@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - What The Old Cow Did"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-19.html"
 ---
 
 When Sandy Chipmunk reached Farmer Green's barn he crept inside and looked all around. He had expected to find the barn crowded with saucers full of milk. But not a single saucer did he see. There were two long rows of cows stabled in the barn. And Sandy noticed Farmer Green and his boy and his hired man, each sitting on a low stool beside a cow. They were milking the cows. But Sandy did not know it.

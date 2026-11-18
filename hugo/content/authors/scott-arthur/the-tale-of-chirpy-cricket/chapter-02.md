@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Quick And Easy"
 weight: 2
-aliases:
-  - "/authors/scott-arthur/the-tale-of-chirpy-cricket/chapter-02.html"
+url: "/authors/scott-arthur/the-tale-of-chirpy-cricket/chapter-02.html"
 ---
 
 Of course Chirpy Cricket didn't spend all his time merely sitting quietly in his hole, in the daytime--and fiddling every night. Of course he had to eat. And each night he was in the habit of creeping out of his hole and gathering spears of grass in Farmer Green's yard, which he carried home with him.

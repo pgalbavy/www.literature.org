@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Gentle Sister South Wind Arrives"
 weight: 1
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-01.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-01.html"
 ---
 
 "Good news, good news for every one, above or down below, For Master Winsome Bluebird's come to whistle off the snow!"

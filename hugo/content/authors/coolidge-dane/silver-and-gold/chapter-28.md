@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Parole"
 weight: 29
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/chapter-28.html"
+url: "/authors/coolidge-dane/silver-and-gold/chapter-28.html"
 ---
 
 "Mornin', Denver," said Bunker Hill, "here's a letter that come for you--I forgot to send it down."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 45 - The Dust-Heap Disturbed"
 weight: 45
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-45.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-45.html"
 ---
 
 My head turned giddy. I was obliged to wait and let my overpowering agitation subside, before I could read any more.

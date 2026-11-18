@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Ranchman’s Home"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-scout/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-16.html"
 ---
 
 The days became weeks, the weeks grew into months and peace reigned in Southern Arizona, that section which time and again was harried by the fierce raids of the terrible Apaches, until many of the ranchmen abandoned their homes and sought safety at the posts and settlements.

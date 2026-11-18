@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - An Unexpected Breakfast"
 weight: 5
-aliases:
-  - "/authors/greene-homer/a-lincoln-conscript/chapter-05.html"
+url: "/authors/greene-homer/a-lincoln-conscript/chapter-05.html"
 ---
 
 As Bob descended the stairs to open the hall-door in response to the knocking, his mother stood on the upper landing, trembling with excitement and fear. When the door was finally opened, she could see, dimly outlined in the doorway, a man dressed in the uniform of a sergeant in the army of the United States.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/huxley-aldous/crome-yellow/chapter-07.html"
+url: "/authors/huxley-aldous/crome-yellow/chapter-07.html"
 ---
 
 At Crome all the beds were ancient hereditary pieces of furniture. Huge beds, like four-masted ships, with furled sails of shining coloured stuff. Beds carved and inlaid, beds painted and gilded. Beds of walnut and oak, of rare exotic woods. Beds of every date and fashion from the time of Sir Ferdinando, who built the house, to the time of his namesake in the late eighteenth century, the last of the family, but all of them grandiose, magnificent.

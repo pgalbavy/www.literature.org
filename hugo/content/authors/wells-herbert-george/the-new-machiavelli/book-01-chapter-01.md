@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 1 - Concerning A Book That Was Never Written"
 weight: 1
-aliases:
-  - "/authors/wells-herbert-george/the-new-machiavelli/book-01-chapter-01.html"
+url: "/authors/wells-herbert-george/the-new-machiavelli/book-01-chapter-01.html"
 ---
 
 1

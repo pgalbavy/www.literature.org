@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Encampment"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-13.html"
 ---
 
 Immediately after the harangue of Lone Wolf a general dismounting of the warriors followed, and the mustangs, which showed admirable training, were left to themselves. The halt had been made where there was grass and water, to which the animals now paid their attention, while their owners prepared for their morning meal.

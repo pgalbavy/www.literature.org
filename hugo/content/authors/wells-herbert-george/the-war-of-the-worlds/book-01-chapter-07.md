@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 7 - How I Reached Home"
 weight: 7
-aliases:
-  - "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-07.html"
+url: "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-07.html"
 ---
 
 For my own part, I remember nothing of my flight except the stress of blundering against trees and stumbling through the heather. All about me gathered the invisible terrors of the Martians; that pitiless sword of heat seemed whirling to and fro, flourishing overhead before it descended and smote me out of life. I came into the road between the crossroads and Horsell, and ran along this to the crossroads.

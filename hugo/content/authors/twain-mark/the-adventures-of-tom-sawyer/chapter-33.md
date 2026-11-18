@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 34
-aliases:
-  - "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-33.html"
+url: "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-33.html"
 ---
 
 WITHIN a few minutes the news had spread, and a dozen skiff-loads of men were on their way to McDougal's cave, and the ferryboat, well filled with passengers, soon followed. Tom Sawyer was in the skiff that bore Judge Thatcher.

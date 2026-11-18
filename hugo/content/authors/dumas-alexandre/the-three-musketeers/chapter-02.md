@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Antechamber Of M. De Treville"
 weight: 3
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-02.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-02.html"
 ---
 
 M. de Troisville, as his family was still called in Gascony, or M. de Treville, as he has ended by styling himself in Paris, had really commenced life as D'Artagnan now did; that is to say, without a sou in his pocket, but with a fund of audacity, shrewdness, and intelligence which makes the poorest Gascon gentleman often derive more in his hope from the paternal inheritance than the richest Perigordian or Berrichan gentleman derives in reality from his. His insolent bravery, his still more insolent success at a time when blows poured down like hail, had borne him to the top of that difficult ladder called Court Favor, which he had climbed four steps at a time.

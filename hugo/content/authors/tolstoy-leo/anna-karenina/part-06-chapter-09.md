@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 9"
 weight: 166
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-09.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-09.html"
 ---
 
 "Well, now what's our plan of campaign? Tell us all about it," said Stepan Arkadyevitch.

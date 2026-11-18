@@ -1,8 +1,7 @@
 ---
 title: "Chapter 80 - The Accusation"
 weight: 80
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-80.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-80.html"
 ---
 
 M. D'Avrigny soon restored the magistrate to consciousness, who had looked like a second corpse in that chamber of death. "Oh, death is in my house!" cried Villefort.

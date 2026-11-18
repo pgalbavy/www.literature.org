@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Mrs. Rook And The Locket"
 weight: 9
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-09.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-09.html"
 ---
 
 As mistress of a prosperous school, bearing a widely-extended reputation, Miss Ladd prided herself on the liberality of her household arrangements. At breakfast and dinner, not only the solid comforts but the elegant luxuries of the table, were set before the young ladies "Other schools may, and no doubt do, offer to pupils the affectionate care to which they have been accustomed under the parents' roof," Miss Ladd used to say. "At my school, that care extends to their meals, and provides them with a _cuisine_ which, I flatter myself, equals the most successful efforts of the cooks at home." Fathers, mothers, and friends, when they paid visits to this excellent lady, brought away with them the most gratifying recollections of her hospitality. The men, in particular, seldom failed to recognize in their hostess the rarest virtue that a single lady can possess--the virtue of putting wine on the table which may be gratefully remembered by her guests the next morning.

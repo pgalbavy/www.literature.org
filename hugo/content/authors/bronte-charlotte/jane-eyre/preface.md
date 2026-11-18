@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/bronte-charlotte/jane-eyre/preface.html"
+url: "/authors/bronte-charlotte/jane-eyre/preface.html"
 ---
 
 A preface to the first edition of "Jane Eyre" being unnecessary, I gave none: this second edition demands a few words both of acknowledgment and miscellaneous remark.

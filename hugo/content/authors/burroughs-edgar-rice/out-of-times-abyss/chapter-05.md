@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/burroughs-edgar-rice/out-of-times-abyss/chapter-05.html"
+url: "/authors/burroughs-edgar-rice/out-of-times-abyss/chapter-05.html"
 ---
 
 Days became weeks, and weeks became months, and the months followed one another in a lazy procession of hot, humid days and warm, humid nights. The fugitives saw never a Wieroo by day though often at night they heard the melancholy flapping of giant wings far above them.

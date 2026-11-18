@@ -1,8 +1,7 @@
 ---
 title: "Chapter 89 - In Which It Is Shown That It Is Sometimes More Difficult For Kings To Return To The Capitals Of Their Kingdoms, Than To Make An Exit"
 weight: 89
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-89.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-89.html"
 ---
 
 Whilst D'Artagnan and Porthos were engaged in conducting the cardinal to Saint Germain, Athos and Aramis returned to Paris.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Djack"
 weight: 16
-aliases:
-  - "/authors/chambers-robert-w/barbarians/chapter-16.html"
+url: "/authors/chambers-robert-w/barbarians/chapter-16.html"
 ---
 
 There came a day when he did not see Maryette as he left for the corral in the morning.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Canoe"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-19.html"
 ---
 
 Ned Trimble would not hear the repeated thanks of our friends, but waved them an impressive and magnificent farewell as they took their departure. They were not yet beyond sight of each other when they heard him calling to them in excited tones, and the next moment he came running after them.

@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 8"
 weight: 325
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-08.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-08.html"
 ---
 
 One would have thought that under the almost incredibly wretched conditions the Russian soldiers were in at that time- lacking warm boots and sheepskin coats, without a roof over their heads, in the snow with eighteen degrees of frost, and without even full rations (the commissariat did not always keep up with the troops)- they would have presented a very sad and depressing spectacle.

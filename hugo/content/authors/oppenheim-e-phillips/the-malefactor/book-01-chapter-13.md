@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 13 - A Cockney Conspirator"
 weight: 13
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-13.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-13.html"
 ---
 
 "The bar closes in ten minutes, sir!" the smoking room steward announced.

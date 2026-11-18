@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Proscribed"
 weight: 15
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-15.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-15.html"
 ---
 
 D'Artagnan had not reached the bottom of the staircase, when the king called his gentleman. "I have a commission to give you, monsieur," said he.

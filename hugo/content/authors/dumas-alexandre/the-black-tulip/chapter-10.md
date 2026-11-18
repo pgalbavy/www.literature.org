@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Jailer's Daughter"
 weight: 10
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-10.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-10.html"
 ---
 
 On the same evening Gryphus, as he brought the prisoner his mess, slipped on the damp flags whilst opening the door of the cell, and fell, in the attempt to steady himself, on his hand; but as it was turned the wrong way, he broke his arm just above the wrist.

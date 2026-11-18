@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Danger Mark"
 weight: 17
-aliases:
-  - "/authors/chambers-robert-w/the-danger-mark/chapter-17.html"
+url: "/authors/chambers-robert-w/the-danger-mark/chapter-17.html"
 ---
 
 Her letters to him still bore the red cross:

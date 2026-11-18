@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - How A Middle-Aged Crusader Accepted A Challenge"
 weight: 9
-aliases:
-  - "/authors/buchan-john/huntingtower/chapter-08.html"
+url: "/authors/buchan-john/huntingtower/chapter-08.html"
 ---
 
 The first cocks had just begun to crow and the clocks had not yet struck five when Dickson presented himself at Mrs. Morran's back door. That active woman had already been half an hour out of bed, and was drinking her morning cup of tea in the kitchen. She received him with cordiality, nay, with relief.

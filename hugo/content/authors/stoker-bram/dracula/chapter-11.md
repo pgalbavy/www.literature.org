@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/stoker-bram/dracula/chapter-11.html"
+url: "/authors/stoker-bram/dracula/chapter-11.html"
 ---
 
 LUCY WESTENRA'S DIARY

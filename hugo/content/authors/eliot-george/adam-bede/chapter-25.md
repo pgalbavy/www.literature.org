@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Games"
 weight: 25
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-25.html"
+url: "/authors/eliot-george/adam-bede/chapter-25.html"
 ---
 
 THE great dance was not to begin until eight o'clock, but for any lads and lasses who liked to dance on the shady grass before then, there was music always at hand - for was not the band of the Benefit Club capable of playing excellent jigs, reels, and hornpipes? And, besides this, there was a grand band hired from Rosseter, who, with their wonderful wind-instruments and puffed- out cheeks, were themselves a delightful show to the small boys and girls. To say nothing of Joshua Rann's fiddle, which, by an act of generous forethought, he had provided himself with, in case any one should be of sufficiently pure taste to prefer dancing to a solo on that instrument.

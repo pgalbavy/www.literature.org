@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-09.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-09.html"
 ---
 
 I WANTED to go and look at a place right about the middle of the island that I'd found when I was exploring; so we started and soon got to it, because the island was only three miles long and a quarter of a mile wide.

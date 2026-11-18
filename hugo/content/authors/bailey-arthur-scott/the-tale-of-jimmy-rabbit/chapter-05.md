@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The New Wheelbarrow"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-05.html"
 ---
 
 There was something that Jimmy Rabbit wanted. He had teased for it for a long time. And at last, after he had almost made up his mind that he wasn't going to get it, one day to his great joy his father brought home the very thing Jimmy had begged for. It was a wheelbarrow! Jimmy Rabbit could hardly believe his eyes.

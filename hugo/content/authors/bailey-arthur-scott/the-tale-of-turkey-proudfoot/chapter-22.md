@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Cranberry Sauce"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-22.html"
 ---
 
 "Ho, hum!" old Mr. Crow yawned. He had stopped to talk with Turkey Proudfoot in the cornfield. It was fall; and the shocks of corn stood on every hand like great fat scarecrows, with fat yellow pumpkins lying at their feet, as if the scarecrows' heads had fallen off.

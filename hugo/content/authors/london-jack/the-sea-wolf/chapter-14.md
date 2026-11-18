@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-14.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-14.html"
 ---
 
 It has dawned upon me that I have never placed a proper valuation upon womankind. For that matter, though not amative to any considerable degree so far as I have discovered, I was never outside the atmosphere of women until now. My mother and sisters were always about me, and I was always trying to escape them; for they worried me to distraction with their solicitude for my health and with their periodic inroads on my den, when my orderly confusion, upon which I prided myself, was turned into worse confusion and less order, though it looked neat enough to the eye. I never could find anything when they had departed. But now, alas, how welcome would have been the feel of their presence, the frou- frou and swish-swish of their skirts which I had so cordially detested! I am sure, if I ever get home, that I shall never be irritable with them again. They may dose me and doctor me morning, noon, and night, and dust and sweep and put my den to rights every minute of the day, and I shall only lean back and survey it all and be thankful in that I am possessed of a mother and some several sisters.

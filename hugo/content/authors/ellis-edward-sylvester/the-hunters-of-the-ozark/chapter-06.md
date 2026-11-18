@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Fred Linden Receives A Message From The Ozark Camp"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-06.html"
 ---
 
 As soon as Fred Linden discovered the deception respecting the cow-bell, he made all haste toward the point whence came the sound, in the hope of warning Terry in time to save him from treachery. You will understand how quickly events passed when told that, although he came almost directly to the spot, he did not reach it until Deerfoot the Shawanoe asked for him. This wonderful Indian, of whom I shall have considerably more to tell, heard the coming of the lad whom he had never seen, before either the eye or ear of Terry Clark could detect his approach.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Sammy Jay Is Modest"
 weight: 19
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-19.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-19.html"
 ---
 
 As soon as the angry hunter with the terrible gun had disappeared among the trees of the Green Forest, and Lightfoot was sure that he had gone for good, Lightfoot came out from his hiding-place on top of the ridge and walked down to the pond of Paddy the Beaver for a drink. He knew that it was quite safe to do so, for Sammy Jay had followed the hunter, all the time screaming, "Thief! thief! thief!" Every one within hearing could tell just where that hunter was by Sammy's voice. It kept growing fainter and fainter, and by that Lightfoot knew that the hunter was getting farther and farther away.

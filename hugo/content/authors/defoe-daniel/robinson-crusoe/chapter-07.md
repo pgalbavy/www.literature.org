@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Agricultural Experience"
 weight: 7
-aliases:
-  - "/authors/defoe-daniel/robinson-crusoe/chapter-07.html"
+url: "/authors/defoe-daniel/robinson-crusoe/chapter-07.html"
 ---
 
 I HAD now been in this unhappy island above ten months. All possibility of deliverance from this condition seemed to be entirely taken from me; and I firmly believe that no human shape had ever set foot upon that place. Having now secured my habitation, as I thought, fully to my mind, I had a great desire to make a more perfect discovery of the island, and to see what other productions I might find, which I yet knew nothing of.

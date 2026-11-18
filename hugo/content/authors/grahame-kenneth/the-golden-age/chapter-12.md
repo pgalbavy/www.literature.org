@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Roman Road"
 weight: 13
-aliases:
-  - "/authors/grahame-kenneth/the-golden-age/chapter-12.html"
+url: "/authors/grahame-kenneth/the-golden-age/chapter-12.html"
 ---
 
 ALL the roads of our neighbourhood were cheerful and friendly, having each of them pleasant qualities of their own; but this one seemed different from the others in its masterful suggestion of a serious purpose, speeding you along with a strange uplifting of the heart. The others tempted chiefly with their treasures of hedge and ditch; the rapt surprise of the first lords-and-ladies, the rustle of a field-mouse, the splash of a frog; while cool noses of brother-beasts were pushed at you through gate or gap. A loiterer you had need to be, did you choose one of them; so many were the tiny hands thrust out to detain you, from this side and that. But this one was of a sterner sort, and even in its shedding off of bank and hedgerow as it marched straight and full for the open downs, it seemed to declare its contempt for adventitious trappings to catch the shallow-pated. When the sense of injustice or disappointment was heavy on me, and things were very black within, as on this particular day, the road of character was my choice for that solitary ramble when I turned my back for an afternoon on a world that had unaccountably declared itself against me.

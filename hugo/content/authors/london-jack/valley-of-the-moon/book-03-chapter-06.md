@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 6"
 weight: 40
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-03-chapter-06.html"
+url: "/authors/london-jack/valley-of-the-moon/book-03-chapter-06.html"
 ---
 
 They had taken the direct county road across the hills from Monterey, instead of the Seventeen Mile Drive around by the coast, so that Carmel Bay came upon them without any fore-glimmerings of its beauty. Dropping down through the pungent pines, they passed woods-embowered cottages, quaint and rustic, of artists and writers, and went on across wind-blown rolling sandhills held to place by sturdy lupine and nodding with pale California poppies. Saxon screamed in sudden wonder of delight, then caught her breath and gazed at the amazing peacock-blue of a breaker, shot through with golden sunlight, overfalling in a mile-long sweep and thundering into white ruin of foam on a crescent beach of sand scarcely less white.

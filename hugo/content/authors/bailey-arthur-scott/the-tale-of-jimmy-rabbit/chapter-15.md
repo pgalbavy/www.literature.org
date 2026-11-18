@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Telling Fortunes"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-15.html"
 ---
 
 At the gypsies' camp Jimmy Rabbit had seen something that was very interesting. He had watched the gypsies telling fortunes. And he saw no reason why he should not become a fortune-teller himself. It looked easy enough. All you had to do was to hold the hand of the person whose fortune you were telling and say anything that came into your head. And you were paid for it, too! That was the best part of it all.

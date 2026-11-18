@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Youth And Mr. Parcher"
 weight: 25
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-25.html"
+url: "/authors/tarkington-booth/seventeen/chapter-25.html"
 ---
 
 As a hurried worldling, in almost perfectly fitting evening clothes, passed out of his father's gateway and hurried toward the place whence faintly came the sound of dance-music, a child's voice called sweetly from an unidentified window of the darkened house behind him:

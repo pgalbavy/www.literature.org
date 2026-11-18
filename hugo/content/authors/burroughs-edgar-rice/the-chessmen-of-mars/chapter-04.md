@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-04.html"
+url: "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-04.html"
 ---
 
 AS THURIA, swift racer of the night, shot again into the sky the scene changed. As by magic a new aspect fell athwart the face of Nature. It was as though in the instant one had been transported from one planet to another. It was the age-old miracle of the Martian nights that is always new, even to Martians--two moons resplendent in the heavens, where one had been but now; conflicting, fast-changing shadows that altered the very hills themselves; far Cluros, stately, majestic, almost stationary, shedding his steady light upon the world below; Thuria, a great and glorious orb, swinging swift across the vaulted dome of the blue-black night, so low that she seemed to graze the hills, a gorgeous spectacle that held the girl now beneath the spell of its enchantment as it always had and always would.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Lord Advocate Prestongrange"
 weight: 5
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-04.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-04.html"
 ---
 
 My kinsman kept me to a meal, "for the honour of the roof," he said; and I believe I made the better speed on my return. I had no thought but to be done with the next stage, and have myself fully committed; to a person circumstanced as I was, the appearance of closing a door on hesitation and temptation was itself extremely tempting; and I was the more disappointed, when I came to Prestongrange’s house, to be informed he was abroad. I believe it was true at the moment, and for some hours after; and then I have no doubt the Advocate came home again, and enjoyed himself in a neighbouring chamber among friends, while perhaps the very fact of my arrival was forgotten. I would have gone away a dozen times, only for this strong drawing to have done with my declaration out of hand and be able to lay me down to sleep with a free conscience. At first I read, for the little cabinet where I was left contained a variety of books. But I fear I read with little profit; and the weather falling cloudy, the dusk coming up earlier than usual, and my cabinet being lighted with but a loophole of a window, I was at last obliged to desist from this diversion (such as it was), and pass the rest of my time of waiting in a very burthensome vacuity. The sound of people talking in a near chamber, the pleasant note of a harpsichord, and once the voice of a lady singing, bore me a kind of company.

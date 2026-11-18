@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 3"
 weight: 38
-aliases:
-  - "/authors/cather-willa/my-antonia/book-03-chapter-03.html"
+url: "/authors/cather-willa/my-antonia/book-03-chapter-03.html"
 ---
 
 IN LINCOLN THE BEST part of the theatrical season came late, when the good companies stopped off there for one-night stands, after their long runs in New York and Chicago. That spring Lena went with me to see Joseph Jefferson in ‘Rip Van Winkle,’ and to a war play called ‘Shenandoah.’ She was inflexible about paying for her own seat; said she was in business now, and she wouldn’t have a schoolboy spending his money on her. I liked to watch a play with Lena; everything was wonderful to her, and everything was true. It was like going to revival meetings with someone who was always being converted. She handed her feelings over to the actors with a kind of fatalistic resignation. Accessories of costume and scene meant much more to her than to me. She sat entranced through ‘Robin Hood’ and hung upon the lips of the contralto who sang, ‘Oh, Promise Me!’

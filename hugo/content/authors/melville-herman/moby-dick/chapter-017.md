@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Ramadan"
 weight: 17
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-017.html"
+url: "/authors/melville-herman/moby-dick/chapter-017.html"
 ---
 
 As Queequeg's Ramadan, or Fasting and Humiliation, was to continue all day, I did not choose to disturb him till towards night-fall; for I cherish the greatest respect towards everybody's religious obligations, never mind how comical, and could not find it in my heart to undervalue even a congregation of ants worshipping a toad-stool; or those other creatures in certain parts of our earth, who with a degree of footmanism quite unprecedented in other planets, bow down before the torso of a deceased landed proprietor merely on account of the inordinate possessions yet owned and rented in his name.

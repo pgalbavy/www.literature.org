@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/twain-mark/the-adventures-of-tom-sawyer/preface.html"
+url: "/authors/twain-mark/the-adventures-of-tom-sawyer/preface.html"
 ---
 
 MOST of the adventures recorded in this book really occurred; one or two were experiences of my own, the rest those of boys who were schoolmates of mine. Huck Finn is drawn from life; Tom Sawyer also, but not from an individual - he is a combination of the characteristics of three boys whom I knew, and therefore belongs to the composite order of architecture.

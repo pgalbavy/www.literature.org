@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Retiring Inspector"
 weight: 6
-aliases:
-  - "/authors/ridge-w-pett/table-dhote/chapter-06.html"
+url: "/authors/ridge-w-pett/table-dhote/chapter-06.html"
 ---
 
 INSPECTOR RICHARDS mentioned to several of the staff that, whilst he had often taken part in the presentation of testimonials, he specially wished that no tribute of a valuable nature should be paid to him on his retirement, and the men, after private consideration, took him at his word. The night of his departure was the occasion, nevertheless, for many touching incidents. Inspector Richards made a point of shaking hands with all those inferior to him in position; a compliment they accepted shyly, after rubbing the palm down the side of trousers.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 48 - Ideology"
 weight: 48
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-48.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-48.html"
 ---
 
 If the Count of Monte Cristo had been for a long time familiar with the ways of Parisian society, he would have appreciated better the significance of the step which M. de Villefort had taken. Standing well at court, whether the king regnant was of the older or younger branch, whether the government was doctrinaire liberal, or conservative; looked upon by all as a man of talent, since those who have never experienced a political check are generally so regarded; hated by many, but warmly supported by others, without being really liked by anybody, M. de Villefort held a high position in the magistracy, and maintained his eminence like a Harlay or a Mole. His drawing-room, under the regenerating influence of a young wife and a daughter by his first marriage, scarcely eighteen, was still one of the well-regulated Paris salons where the worship of traditional customs and the observance of rigid etiquette were carefully maintained. A freezing politeness, a strict fidelity to government principles, a profound contempt for theories and theorists, a deep-seated hatred of ideality, - these were the elements of private and public life displayed by M. de Villefort.

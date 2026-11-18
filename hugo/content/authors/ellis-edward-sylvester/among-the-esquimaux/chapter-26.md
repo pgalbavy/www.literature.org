@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Walled In"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-26.html"
 ---
 
 By daybreak, when all the party were awake, the blizzard foretold by the native had fully arrived.

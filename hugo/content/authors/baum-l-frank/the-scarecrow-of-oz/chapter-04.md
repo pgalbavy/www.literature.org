@@ -1,8 +1,7 @@
 ---
 title: "chapter 04"
 weight: 999
-aliases:
-  - "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-04.html"
+url: "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-04.html"
 ---
 
 Cap'n Bill rubbed his eyes, lit a match and consulted his watch.

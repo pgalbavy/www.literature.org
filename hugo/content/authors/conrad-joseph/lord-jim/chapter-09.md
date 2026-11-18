@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/conrad-joseph/lord-jim/chapter-09.html"
+url: "/authors/conrad-joseph/lord-jim/chapter-09.html"
 ---
 
 9

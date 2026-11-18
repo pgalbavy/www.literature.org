@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/tarkington-booth/gentle-julia/chapter-23.html"
+url: "/authors/tarkington-booth/gentle-julia/chapter-23.html"
 ---
 
 At six minutes after four o'clock on the second afternoon following Julia's return, Noble Dill closed his own gate behind him and set forth upon the four-minute walk that would bring him to Julia's. He wore a bit of scarlet geranium in the buttonhole of his new light overcoat; he flourished a new walking-stick and new grey gloves. As for his expression, he might have been a bridegroom.

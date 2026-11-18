@@ -1,8 +1,7 @@
 ---
 title: "Chapter 55"
 weight: 56
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-55.html"
+url: "/authors/haggard-h-rider/dawn/chapter-55.html"
 ---
 
 Outside the door of the registry-office, Angela and her father had to make their way through a crowd of small boys, who had by some means or other found out that a wedding was going on inside, and stood waiting there, animated by the intention of cheering the bride and the certain hope of sixpences. But when they saw Angela, her stately form robed in black, and her sweet face betraying the anguish of her mind, the sight shocked their sense of the fitness of things, and they slipped off without a word. Indeed, a butcher's boy, with a turn for expressive language, remarked in indignation to another of his craft so soon as they had recovered their spirits.

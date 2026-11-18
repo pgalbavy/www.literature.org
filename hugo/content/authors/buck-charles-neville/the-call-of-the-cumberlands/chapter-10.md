@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-10.html"
+url: "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-10.html"
 ---
 
 Yet, when Samson that evening gave his whippoorwill call at the Widow Miller's cabin, he found a dejected and miserable girl sitting on the stile, with her chin propped in her two hands and her eyes full of somberness and foreboding.

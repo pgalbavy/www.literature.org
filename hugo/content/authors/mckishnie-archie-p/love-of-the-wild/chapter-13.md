@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - On The Creek Path"
 weight: 13
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-13.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-13.html"
 ---
 
 It was early twilight when the old Indian once again reached Bushwhackers’ Place. All day he had kept to the trail, jogging along without a mouthful to eat, simply tightening his belt when hunger gnawed at his stomach. It was a long journey from Rond Eau Point to St. Thomas, and over rough ground—a very long journey for a man of Noah’s age to attempt. But he was an Indian and his years did not weigh him down. His sinews were tough like the seasoned hickory fiber, and his spirit was young like the spirit of the great shadowed woodland. Age counted for naught where life derived its strength from its environment.

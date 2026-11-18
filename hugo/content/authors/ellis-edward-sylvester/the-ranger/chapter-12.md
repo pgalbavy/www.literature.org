@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Escape"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/the-ranger/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/the-ranger/chapter-12.html"
 ---
 
 The hunter in the course of the day had gained a full knowledge of the intentions of the Indians in regard to their captives. Leland was to suffer death at the stake at an early period, while the negro was to be reserved until some indefinite time in the future, to be tortured.

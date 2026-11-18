@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - In The Dark"
 weight: 9
-aliases:
-  - "/authors/leblanc-maurice/the-crystal-stopper/chapter-09.html"
+url: "/authors/leblanc-maurice/the-crystal-stopper/chapter-09.html"
 ---
 
 An hotel bedroom at Amiens.

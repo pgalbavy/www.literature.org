@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 22
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-21.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-21.html"
 ---
 
 In the front window of one of the row of little flat-faced brick houses on a narrow street in Manchester, Dowie sat holding Henrietta's new baby upon her lap. They were what is known as "weekly" houses, their rent being paid by the week and they were very small. There was a parlour about the size of a compartment in a workbox, there was a still smaller room behind it which was called a dining room and there was a diminutive kitchen in which all the meals were eaten unless there was "company to tea" which in these days was almost unknown. Dowie had felt it very small when she first came to it from the fine spaces and heights of the house in Eaton Square and found it seemingly full of very small children and a hysterically weeping girl awaiting the impending arrival of one who would be smaller than the rest.

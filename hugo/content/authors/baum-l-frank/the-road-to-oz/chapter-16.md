@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 17
-aliases:
-  - "/authors/baum-l-frank/the-road-to-oz/chapter-16.html"
+url: "/authors/baum-l-frank/the-road-to-oz/chapter-16.html"
 ---
 
 Dorothy let Button-Bright wind up the clock-work in the copper man this morning--his thinking machine first, then his speech, and finally his action; so he would doubtless run perfectly until they had reached the Emerald City. The copper man and the tin man were good friends, and not so much alike as you might think. For one was alive and the other moved by means of machinery; one was tall and angular and the other short and round. You could love the Tin Woodman because he had a fine nature, kindly and simple; but the machine man you could only admire without loving, since to love such a thing as he was as impossible as to love a sewing-machine or an automobile. Yet Tik-tok was popular with the people of Oz because he was so trustworthy, reliable and true; he was sure to do exactly what he was wound up to do, at all times and in all circumstances. Perhaps it is better to be a machine that does its duty than a flesh-and-blood person who will not, for a dead truth is better than a live falsehood.

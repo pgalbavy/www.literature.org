@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Castles In The Air"
 weight: 13
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-13.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-13.html"
 ---
 
 Laurie lay luxuriously swinging to and fro in his hammock one warm September afternoon, wondering what his neighbors were about, but too lazy to go and find out. He was in one of his moods, for the day had been both unprofitable and unsatisfactory, and he was wishing he could live it over again. The hot weather made him indolent, and he had shirked his studies, tried Mr. Brooke's patience to the utmost, displeased his grandfather by practicing half the afternoon, frightened the maidservants half out of their wits by mischievously hinting that one of his dogs was going mad, and, after high words with the stableman about some fancied neglect of his horse, he had flung himself into his hammock to fume over the stupidity of the world in general, till the peace of the lovely day quieted him in spite of himself. Staring up into the green gloom of the horse-chestnut trees above him, he dreamed dreams of all sorts, and was just imagining himself tossing on the ocean in a voyage round the world, when the sound of voices brought him ashore in a flash. Peeping through the meshes of the hammock, he saw the Marches coming out, as if bound on some expedition.

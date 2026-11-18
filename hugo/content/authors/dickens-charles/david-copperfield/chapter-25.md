@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Good And Bad Angels"
 weight: 26
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-25.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-25.html"
 ---
 
 I was going out at my door on the morning after that deplorable day of headache, sickness, and repentance, with an odd confusion in my mind relative to the date of my dinner-party, as if a body of Titans had taken an enormous lever and pushed the day before yesterday some months back, when I saw a ticket-porter coming upstairs, with a letter in his hand. He was taking his time about his errand, then; but when he saw me on the top of the staircase, looking at him over the banisters, he swung into a trot, and came up panting as if he had run himself into a state of exhaustion.

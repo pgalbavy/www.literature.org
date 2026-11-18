@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Half Amulet"
 weight: 2
-aliases:
-  - "/authors/nesbit-edith/the-story-of-the-amulet/chapter-02.html"
+url: "/authors/nesbit-edith/the-story-of-the-amulet/chapter-02.html"
 ---
 
 Long ago - that is to say last summer - the children, finding themselves embarrassed by some wish which the Psammead had granted them, and which the servants had not received in a proper spirit, had wished that the servants might not notice the gifts which the Psammead gave. And when they parted from the Psammead their last wish had been that they should meet it again. Therefore they HAD met it (and it was jolly lucky for the Psammead, as Robert pointed out). Now, of course, you see that the Psammead's being where it was, was the consequence of one of their wishes, and therefore was a Psammead-wish, and as such could not be noticed by the servants. And it was soon plain that in the Psammead's opinion old Nurse was still a servant, although she had now a house of her own, for she never noticed the Psammead at all. And that was as well, for she would never have consented to allow the girls to keep an animal and a bath of sand under their bed.

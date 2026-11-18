@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 5"
 weight: 234
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-05.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-05.html"
 ---
 
 At that very time, in circumstances even more important than retreating without a battle, namely the evacuation and burning of Moscow, Rostopchin, who is usually represented as being the instigator of that event, acted in an altogether different manner from Kutuzov.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Princess Consults Jonesy"
 weight: 8
-aliases:
-  - "/authors/buck-charles-neville/the-lighted-match/chapter-08.html"
+url: "/authors/buck-charles-neville/the-lighted-match/chapter-08.html"
 ---
 
 The coldness of the moonlight killed the pallor of Karyl's face, but added a note of stark accentuation to his set chin and labored self-containment. Von Ritz, despite his bedraggled masquerade was as composed and expressionless as though he had seen nothing beyond the expected. With Von Ritz nothing was beyond the expected.

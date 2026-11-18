@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - A Visit From Shore"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-18.html"
 ---
 
 In the meantime Abram Storms was acting the part of a vigilant sentinel at his station on deck.

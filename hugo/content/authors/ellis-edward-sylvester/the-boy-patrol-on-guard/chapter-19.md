@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - A Queen And Her Subjects"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-19.html"
 ---
 
 The skies cleared during the night, and the day which succeeded was perfect. Not a cloud rift obscured the sun, while the air was crystalline, free from moisture and with enough coolness to be invigorating to the last degree. It Would not be pleasant for some hours to stroll through the woods because of their wetness, but a trifle like that did not check the exuberant youngsters, who began dividing into small parties as before,—some to delve into bird lore, some to study trees and others to fish. Breakfast was prepared out doors, for the food could not help tasting better than if cooked in the bungalow.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 52"
 weight: 53
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-52.html"
+url: "/authors/haggard-h-rider/dawn/chapter-52.html"
 ---
 
 Three days after her conversation with Lady Bellamy, Angela received the following letter:--

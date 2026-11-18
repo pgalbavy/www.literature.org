@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Curse of the Baskervilles"
 weight: 2
-aliases:
-  - "/authors/doyle-arthur-conan/the-hound-of-the-baskervilles/chapter-02.html"
+url: "/authors/doyle-arthur-conan/the-hound-of-the-baskervilles/chapter-02.html"
 ---
 
 "I have in my pocket a manuscript," said Dr. James Mortimer.

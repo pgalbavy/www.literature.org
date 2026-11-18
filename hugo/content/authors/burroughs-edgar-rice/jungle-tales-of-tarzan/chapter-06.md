@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Witch-Doctor Seeks Vengeance"
 weight: 6
-aliases:
-  - "/authors/burroughs-edgar-rice/jungle-tales-of-tarzan/chapter-06.html"
+url: "/authors/burroughs-edgar-rice/jungle-tales-of-tarzan/chapter-06.html"
 ---
 
 LORD GREYSTOKE was hunting, or, to be more accurate, he was shooting pheasants at Chamston-Hedding. Lord Greystoke was immaculately and appropriately garbed--to the minutest detail he was vogue. To be sure, he was among the forward guns, not being considered a sporting shot, but what he lacked in skill he more than made up in appearance. At the end of the day he would, doubtless, have many birds to his credit, since he had two guns and a smart loader-- many more birds than he could eat in a year, even had he been hungry, which he was not, having but just arisen from the breakfast table.

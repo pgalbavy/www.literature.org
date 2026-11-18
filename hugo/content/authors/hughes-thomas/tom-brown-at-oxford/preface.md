@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/preface.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/preface.html"
 ---
 
 Author's Dedication

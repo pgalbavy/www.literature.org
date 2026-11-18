@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Light In The Darkness"
 weight: 4
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin-versus-herlock-sholmes/chapter-04.html"
+url: "/authors/leblanc-maurice/arsene-lupin-versus-herlock-sholmes/chapter-04.html"
 ---
 
 However well-tempered a man's character may be--and Herlock Sholmes is one of those men over whom ill-fortune has little or no hold--there are circumstances wherein the most courageous combatant feels the necessity of marshaling his forces before risking the chances of a battle.

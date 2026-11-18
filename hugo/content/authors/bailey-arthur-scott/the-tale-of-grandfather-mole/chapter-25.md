@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Stubborn As Ever"
 weight: 25
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-25.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-25.html"
 ---
 
 FARMER GREEN hadn't finished ploughing his first furrow before Mr. Blackbird and Grandfather Mole began breakfasting on the angleworms that the plough turned up.

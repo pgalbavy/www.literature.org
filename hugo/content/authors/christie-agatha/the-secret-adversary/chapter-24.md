@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Julius Takes A Hand"
 weight: 25
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/chapter-24.html"
+url: "/authors/christie-agatha/the-secret-adversary/chapter-24.html"
 ---
 
 IN his suite at Claridge’s, Kramenin reclined on a couch and dictated to his secretary in sibilant Russian.

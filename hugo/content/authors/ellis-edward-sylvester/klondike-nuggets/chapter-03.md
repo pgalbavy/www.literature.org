@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Up The Lynn Canal"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-03.html"
 ---
 
 Roswell and Frank were standing in front of one of the curio stores, studying the interesting exhibits, among which was a pan of Klondike gold, but they kept watch of the stranger, who slouched up to them and halted at the side of Frank.

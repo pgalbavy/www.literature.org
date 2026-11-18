@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Nero Not The Last Violinist Of His Kind"
 weight: 5
-aliases:
-  - "/authors/tarkington-booth/the-two-vanrevels/chapter-05.html"
+url: "/authors/tarkington-booth/the-two-vanrevels/chapter-05.html"
 ---
 
 Miss Carewe was at her desk, writing to Sister Cecilia, whom she most loved of all the world, when the bells startled her with their sudden clangor. The quill dropped from her hand; she started to her feet, wide-eyed, not understanding; while the whole town, drowsing peacefully a moment ago, resounded immediately with a loud confusion. She ran to the front door and looked out, her heart beating wildly.

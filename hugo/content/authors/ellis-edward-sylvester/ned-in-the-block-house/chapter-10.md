@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Flaming Messengers"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-10.html"
 ---
 
 Mrs. Preston laughed and asked the boys to pardon her for having forgotten, in the excitement of the occasion, the duty of hospitality. The morning meal had been furnished the others, and she now gave her nephew and Blossom Brown the best she could prepare.

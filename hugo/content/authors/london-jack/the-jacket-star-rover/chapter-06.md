@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/london-jack/the-jacket-star-rover/chapter-06.html"
+url: "/authors/london-jack/the-jacket-star-rover/chapter-06.html"
 ---
 
 There is more than the germ of truth in things erroneous in the child's definition of memory as the thing one forgets with. To be able to forget means sanity. Incessantly to remember, means obsession, lunacy. So the problem I faced in solitary, where incessant remembering strove for possession of me, was the problem of forgetting. When I gamed with flies, or played chess with myself, or talked with my knuckles, I partially forgot. What I desired was entirely to forget.

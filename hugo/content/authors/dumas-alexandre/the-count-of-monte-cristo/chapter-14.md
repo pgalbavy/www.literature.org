@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Two Prisoners"
 weight: 14
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-14.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-14.html"
 ---
 
 A year after Louis XVIII.'s restoration, a visit was made by the inspector-general of prisons. Dantes in his cell heard the noise of preparation, - sounds that at the depth where he lay would have been inaudible to any but the ear of a prisoner, who could hear the plash of the drop of water that every hour fell from the roof of his dungeon. He guessed something uncommon was passing among the living; but he had so long ceased to have any intercourse with the world, that he looked upon himself as dead.

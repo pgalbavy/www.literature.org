@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - The Trail Of The Bear"
 weight: 28
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-28.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-28.html"
 ---
 
 The boys did as directed, and, also stooping down, saw in the soft earth near the water the prints of the feet of a large animal, such tracks indeed as could have been made only by the bear.

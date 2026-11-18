@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Brief Reprieve"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/the-ranger/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/the-ranger/chapter-10.html"
 ---
 
 Leland succeeded in getting outside the circle of savages when, feeling himself in the open woods, he dashed away at the top of his speed. He ran with astonishing swiftness for a few moments, when, as might naturally be expected, he so exhausted himself that he was scarcely able to stand.

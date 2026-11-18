@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Snare"
 weight: 9
-aliases:
-  - "/authors/haggard-h-rider/fair-margaret/chapter-09.html"
+url: "/authors/haggard-h-rider/fair-margaret/chapter-09.html"
 ---
 
 On the following morning, when Castell returned, Margaret told him of the visit of d'Aguilar, and of all that had passed between them, told him also that he was acquainted with their secret, since he had spoken of her as half a Jew.

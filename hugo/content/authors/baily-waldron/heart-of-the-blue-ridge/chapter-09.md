@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-09.html"
+url: "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-09.html"
 ---
 
 It is a far cry from the savagery of the illicit mountain still to that consummate luxury of civilization, an ocean-going steam yacht. Yet, in actual space, the distance between these two extremes was not great. The Josephine, all in snowy white, save for the gleam of polished brass-work, and flying the pennant of the New York Yacht Club, glided forth from Norfolk Harbor in serene magnificence on the same day that The Bonita chugged fussily over the same course. The yacht was setting out on the second stage of her leisurely pleasure voyage to Bermuda. The skipper had been instructed to follow the coast southward as far as Frying Pan Shoals, for the sake of rounding Hatteras. Afterward, since the weather grew menacing, the craft continued down the coast to Cape Lookout, where anchor was dropped in the Harbor of Refuge.

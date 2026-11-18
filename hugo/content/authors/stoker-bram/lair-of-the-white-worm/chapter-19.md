@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/stoker-bram/lair-of-the-white-worm/chapter-19.html"
+url: "/authors/stoker-bram/lair-of-the-white-worm/chapter-19.html"
 ---
 
 Adam Salton went for a walk before returning to Lesser Hill; he felt that it might be well, not only to steady his nerves, shaken by the horrible scene, but to get his thoughts into some sort of order, so as to be ready to enter on the matter with Sir Nathaniel. He was a little embarrassed as to telling his uncle, for affairs had so vastly progressed beyond his original view that he felt a little doubtful as to what would be the old gentleman's attitude when he should hear of the strange events for the first time. Mr. Salton would certainly not be satisfied at being treated as an outsider with regard to such things, most of which had points of contact with the inmates of his own house. It was with an immense sense of relief that Adam heard that his uncle had telegraphed to the housekeeper that he was detained by business at Walsall, where he would remain for the night; and that he would be back in the morning in time for lunch.

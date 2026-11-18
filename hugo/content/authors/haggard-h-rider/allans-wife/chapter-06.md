@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Stella"
 weight: 7
-aliases:
-  - "/authors/haggard-h-rider/allans-wife/chapter-06.html"
+url: "/authors/haggard-h-rider/allans-wife/chapter-06.html"
 ---
 
 I was not slow to take Indaba-zimbi’s hint. About a hundred and fifty yards to the left of the laager was a little dell where I had hidden my horse, together with one belonging to the Boers, and my saddle and bridle. Thither we went, I carrying the swooning Tota in my arms. To our joy we found the horses safe, for the Zulus had not seen them. Now, of course, they were our only means of locomotion, for the oxen had been sent away, and even had they been there we could not have found time to inspan them. I laid Tota down, caught my horse, undid his knee halter, and saddled up. As I was doing so a thought struck me, and I told Indaba-zimbi to run to the laager and see if he could find my double-barrelled gun and some powder and shot, for I had only my elephant “roer” and a few charges of powder and ball with me.

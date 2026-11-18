@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-27.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-27.html"
 ---
 
 SEVEN days glided away, every one marking its course by the henceforth rapid alteration of Edgar Linton's state. The havoc that months had previously wrought was now emulated by the inroads of hours. Catherine we would fain have deluded yet; but her own quick spirit refused to delude her: it divined in secret, and brooded on the dreadful probability, gradually ripening into certainty. She had not the heart to mention her ride, when Thursday came round; I mentioned it for her, and obtained permission to order her out of doors: for the library, where her father stopped a short time daily - the brief period he could bear to sit up - and his chamber, had become her whole world. She grudged each moment that did not find her bending over his pillow, or seated by his side. Her countenance grew wan with watching and sorrow, and my master gladly dismissed her to what he flattered himself would be a happy change of scene and society; drawing comfort from the hope that she would not now be left entirely alone after his death.

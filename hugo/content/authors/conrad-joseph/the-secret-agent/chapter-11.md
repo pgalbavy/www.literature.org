@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/conrad-joseph/the-secret-agent/chapter-11.html"
+url: "/authors/conrad-joseph/the-secret-agent/chapter-11.html"
 ---
 
 After Chief Inspector Heat had left him Mr Verloc moved about the parlour.

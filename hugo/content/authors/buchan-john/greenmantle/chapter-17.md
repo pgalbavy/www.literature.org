@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Trouble By The Waters Of Babylon"
 weight: 18
-aliases:
-  - "/authors/buchan-john/greenmantle/chapter-17.html"
+url: "/authors/buchan-john/greenmantle/chapter-17.html"
 ---
 
 From that moment I date the beginning of my madness. Suddenly I forgot all cares and difficulties of the present and future and became foolishly light-hearted. We were rushing towards the great battle where men were busy at my proper trade. I realized how much I had loathed the lonely days in Germany, and still more the dawdling week in Constantinople. Now I was clear of it all, and bound for the clash of armies. It didn’t trouble me that we were on the wrong side of the battle line. I had a sort of instinct that the darker and wilder things grew the better chance for us.

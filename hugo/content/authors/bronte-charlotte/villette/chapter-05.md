@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Turning A New Leaf"
 weight: 5
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-05.html"
+url: "/authors/bronte-charlotte/villette/chapter-05.html"
 ---
 
 My mistress being dead, and I once more alone, I had to look out for a new place. About this time I might be a little - a very little - shaken in nerves. I grant I was not looking well, but, on the contrary, thin, haggard, and hollow-eyed; like a sitter-up at night, like an overwrought servant, or a placeless person in debt. In debt, however, I was not; nor quite poor; for though Miss Marchmont had not had time to benefit me, as, on that last night, she said she intended, yet, after the funeral, my wages were duly paid by her second cousin, the heir, an avaricious-looking man, with pinched nose and narrow temples, who, indeed, I heard long afterwards, turned out a thorough miser: a direct contrast to his generous kinswoman, and a foil to her memory, blessed to this day by the poor and needy. The possessor, then, of fifteen pounds; of health, though worn, not broken, and of a spirit in similar condition; I might still; in comparison with many people, be regarded as occupying an enviable position. An embarrassing one it was, however, at the same time; as I felt with some acuteness on a certain day, of which the corresponding one in the next week was to see my departure from my present abode, while with another I was not provided.

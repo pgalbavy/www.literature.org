@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Who Is Jane Finn?"
 weight: 5
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/chapter-04.html"
+url: "/authors/christie-agatha/the-secret-adversary/chapter-04.html"
 ---
 
 *THE* next day passed slowly. It was necessary to curtail expenditure. Carefully husbanded, forty pounds will last a long time. Luckily the weather was fine, and "walking is cheap," dictated Tuppence. An outlying picture house provided them with recreation for the evening.

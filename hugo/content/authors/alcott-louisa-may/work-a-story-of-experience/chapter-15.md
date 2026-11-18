@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Midsummer"
 weight: 15
-aliases:
-  - "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-15.html"
+url: "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-15.html"
 ---
 
 "NOW it is all over. I shall never have another chance like that, and must make up my mind to be a lonely and laborious spinster all my life. Youth is going fast, and I have little in myself to attract or win, though David did call me 'good and lovely.' Ah, well, I'll try to deserve his praise, and not let disappointment sour or sadden me. Better to hope and wait all my life than marry without love."

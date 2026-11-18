@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/collins-wilkie/my-ladys-money/chapter-03.html"
+url: "/authors/collins-wilkie/my-ladys-money/chapter-03.html"
 ---
 
 "MY nephew!" Lady Lydiard exclaimed in a tone which expressed astonishment, but certainly not pleasure as well. "How many years is it since you and I last met?" she asked, in her abruptly straightforward way, as Mr. Felix Sweetsir approached her writing-table.

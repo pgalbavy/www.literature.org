@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Across Death Valley"
 weight: 29
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-29.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-29.html"
 ---
 
 The way to the Ube-Hebes lay across a low flat, glistening white with crystals of alkali; and as his car trundled on Wiley came to a strip of sand, piled up in the lee of a prostrate salt bush. Other bushes appeared, and more sand about them, and then a broad, smooth wave. It mounted up from the north, gently scalloped by the wind, and on the south side it broke off like a wall. He drove along below it, glancing up as it grew higher, until at last it cut off his view. All the north was gone, and the Gateway to his hiding-place; but the south and west were there. To the south lay mud flats, powdery dry but packed hard; and the west was a wilderness of sand.

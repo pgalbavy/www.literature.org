@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Through The Night"
 weight: 19
-aliases:
-  - "/authors/titus-harold/i-conquered/chapter-19.html"
+url: "/authors/titus-harold/i-conquered/chapter-19.html"
 ---
 
 On into the night went the Captain, bearing VB. Over the gate the bridle-rein drew against his neck and the big beast swung to the right, following the road southward, on down the gulch, on toward Ranger--a fierceness in his rider's heart that was suicidal.

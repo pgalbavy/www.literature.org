@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Exercise"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-07.html"
 ---
 
 Boys and girls are not likely to believe they need any instruction as to exercise. They are so fond of play that all they ask is a chance and they will use it to the utmost.

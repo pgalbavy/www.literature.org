@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Search Up The Shore"
 weight: 23
-aliases:
-  - "/authors/baily-waldron/when-the-cock-crows/chapter-23.html"
+url: "/authors/baily-waldron/when-the-cock-crows/chapter-23.html"
 ---
 
 It was fairly good walking up the shore, so that the two searchers were able to make excellent progress here. Much of the way the waves had pounded the beach until it was hard and level as a floor. But in places the sand was strewn with quantities of sea shells, many of them broken. These troubled Van Dusen a little, even though he wore heavy-soled shoes. He wondered that the barefooted Ichabod experienced no discomfort to all appearance. As a matter of fact, the old fisherman's soles were horny, tough as any leather.

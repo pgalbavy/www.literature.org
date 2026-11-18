@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 22
-aliases:
-  - "/authors/austen-jane/northanger-abbey/chapter-21.html"
+url: "/authors/austen-jane/northanger-abbey/chapter-21.html"
 ---
 
 A moment’s glance was enough to satisfy Catherine that her apartment was very unlike the one which Henry had endeavoured to alarm her by the description of. It was by no means unreasonably large, and contained neither tapestry nor velvet. The walls were papered, the floor was carpeted; the windows were neither less perfect nor more dim than those of the drawing-room below; the furniture, though not of the latest fashion, was handsome and comfortable, and the air of the room altogether far from uncheerful. Her heart instantaneously at ease on this point, she resolved to lose no time in particular examination of anything, as she greatly dreaded disobliging the general by any delay. Her habit therefore was thrown off with all possible haste, and she was preparing to unpin the linen package, which the chaise-seat had conveyed for her immediate accommodation, when her eye suddenly fell on a large high chest, standing back in a deep recess on one side of the fireplace. The sight of it made her start; and, forgetting everything else, she stood gazing on it in motionless wonder, while these thoughts crossed her:

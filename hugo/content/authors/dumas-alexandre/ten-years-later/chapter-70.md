@@ -1,8 +1,7 @@
 ---
 title: "Chapter 70 - Wherein The Ideas Of D'artagnan, At First Strangely Clouded, Begin To Clear Up A Little"
 weight: 70
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-70.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-70.html"
 ---
 
 D'Artagnan immediately took the offensive. Now that I have told you all, dear friend, or rather now you have guessed all, tell me what you are doing here, covered with dust and mud?"

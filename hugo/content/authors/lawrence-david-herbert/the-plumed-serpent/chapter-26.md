@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Kate Is A Wife"
 weight: 26
-aliases:
-  - "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-26.html"
+url: "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-26.html"
 ---
 
 Kate was glad to get back to her own house, and to be more or less alone. She felt a great change was being worked in her, and if it worked too violently, she would die. It was the end of something, and the beginning of something, far, far inside her: in her soul and womb. The men, Ramón and Cipriano, caused the change, and Mexico. Because the time had come. - Nevertheless if what was happening happened too rapidly, or violently, she felt she would die. So, from time to time she had to withdraw from contact, to be alone.

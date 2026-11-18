@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Garden of Eden"
 weight: 15
-aliases:
-  - "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-14.html"
+url: "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-14.html"
 ---
 
 WITH NO HEAVENLY GUIDE, IT IS LITTLE WONDER that I became confused and lost in the labyrinthine maze of those mighty hills. What, in reality, I did was to pass entirely through them and come out above the valley upon the farther side. I know that I wandered for a long time, until tired and hungry I came upon a small cave in the face of the limestone formation which had taken the place of the granite farther back.

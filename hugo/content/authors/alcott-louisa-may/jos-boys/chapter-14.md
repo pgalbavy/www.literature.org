@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Plays At Plumfield"
 weight: 14
-aliases:
-  - "/authors/alcott-louisa-may/jos-boys/chapter-14.html"
+url: "/authors/alcott-louisa-may/jos-boys/chapter-14.html"
 ---
 
 As it is as impossible for the humble historian of the March family to write a story without theatricals in it as for our dear Miss Yonge to get on with less than twelve or fourteen children in her interesting tales, we will accept the fact, and at once cheer ourselves after the last afflicting events, by proceeding to the Christmas plays at Plumfield; for they influence the fate of several of our characters, and cannot well be skipped.

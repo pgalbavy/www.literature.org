@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-17.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-17.html"
 ---
 
 Showing what happened on the voyage from Singapore to Hong Kong

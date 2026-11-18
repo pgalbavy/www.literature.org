@@ -1,8 +1,7 @@
 ---
 title: "Chapter 46 - The Tower Of St. Jacques De La Boucherie"
 weight: 46
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-46.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-46.html"
 ---
 
 At a quarter to six o'clock, Monsieur de Gondy, having finished his business, returned to the archiepiscopal palace.

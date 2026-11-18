@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Threshing-Machine"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-18.html"
 ---
 
 One day, late in the summer, Frisky Squirrel saw something that caused him great excitement. Right into the center of one of Farmer Green's fields he saw Farmer Green's horses drag a queer sort of wagon. It was bigger than any other wagon he had ever seen, and had wheels upon it in all sorts of strange places, instead of just at the four corners, like all the wagons he had ever noticed before.

@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 2 - Mrs. Tulliver's Teraphim, Or Household Gods"
 weight: 22
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-03-chapter-02.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-03-chapter-02.html"
 ---
 
 When the coach set down Tom and Maggie, it was five hours since she had started from home, and she was thinking with some trembling that her father had perhaps missed her, and asked for "the little wench" in vain. She thought of no other change that might have happened.

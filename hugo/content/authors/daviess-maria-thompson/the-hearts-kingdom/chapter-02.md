@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Harpeth Jaguar"
 weight: 2
-aliases:
-  - "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-02.html"
+url: "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-02.html"
 ---
 
 "It is beautifully romantic, but I don't know what we are going to do about it," answered Letitia with genuine trouble, puckering her brow under one of her smooth waves of seal-brown hair. Letitia is one of the wonderful variety of women who patch out life, piece by piece, in a beautiful symmetrical pattern and who do not have imagination enough to admire anything about a riotous crazy quilt. She is in love with Clifton Gray, has been since she wound her brown braids about her head, and is piecing strips of him into her life-fabric by the very sanest love--courtship--marriage design.

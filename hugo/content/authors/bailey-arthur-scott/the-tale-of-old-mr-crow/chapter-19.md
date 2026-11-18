@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Shoe-Store"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-19.html"
 ---
 
 "Dear me!" old Mr. Crow exclaimed one day. "I see I shall have to get some new shoes. I've had these only about ten years and they're worn through already. The trouble is, I don't know where to buy any more." He was talking to his cousin, Jasper Jay.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/davis-richard-harding/soldiers-of-fortune/chapter-05.html"
+url: "/authors/davis-richard-harding/soldiers-of-fortune/chapter-05.html"
 ---
 
 The visit to the city was imitated on the three succeeding evenings by similar excursions. On one night they returned to the plaza, and the other two were spent in drifting down the harbor and along the coast on King's yacht. The President and Madame Alvarez were King's guests on one of these moonlight excursions, and were saluted by the proper number of guns, and their native band played on the forward deck. Clay felt that King held the centre of the stage for the time being, and obliterated himself completely. He thought of his own paddle-wheel tug-boat that he had had painted and gilded in her honor, and smiled grimly.

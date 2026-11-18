@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - On The Raft"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-16.html"
 ---
 
 A BOARD was floating along on the swollen waters of Black Creek. On it sat Master Meadow Mouse. He was very happy. He was having his first ride, of any sort.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Hound's Grandfather"
 weight: 13
-aliases:
-  - "/authors/nesbit-edith/the-railway-children/chapter-13.html"
+url: "/authors/nesbit-edith/the-railway-children/chapter-13.html"
 ---
 
 Mother did not get back to her writing all that day, for the red- jerseyed hound whom the children had brought to Three Chimneys had to be put to bed. And then the Doctor came, and hurt him most horribly. Mother was with him all through it, and that made it a little better than it would have been, but "bad was the best," as Mrs. Viney said.

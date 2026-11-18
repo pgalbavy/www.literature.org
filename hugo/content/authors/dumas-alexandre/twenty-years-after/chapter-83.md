@@ -1,8 +1,7 @@
 ---
 title: "Chapter 83 - Strength And Sagacity"
 weight: 83
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-83.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-83.html"
 ---
 
 Now let us pass the orangery to the hunting lodge. At the extremity of the courtyard, where, close to a portico formed of Ionic columns, were the dog kennels, rose an oblong building, the pavilion of the orangery, a half circle, inclosing the court of honor. It was in this pavilion, on the ground floor, that D'Artagnan and Porthos were confined, suffering interminable hours of imprisonment in a manner suitable to each different temperament.

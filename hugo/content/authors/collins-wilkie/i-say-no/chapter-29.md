@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Chapter Xxix \u0026quot;Bony.\u0026quot;"
 weight: 29
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-29.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-29.html"
 ---
 
 Mrs. Ellmother reluctantly entered the room.

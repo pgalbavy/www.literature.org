@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Picnic In The Enchanted Garden"
 weight: 8
-aliases:
-  - "/authors/brown-ruth-alberta/the-lilac-lady/chapter-08.html"
+url: "/authors/brown-ruth-alberta/the-lilac-lady/chapter-08.html"
 ---
 
 After that Peace came often to the handsome stone house, half hidden from the road by its thick hedges and giant trees. Almost daily the white cloth fluttered its summons from the lilac bushes, and Elizabeth, having heard the sad story of the young girl mistress, rejoiced that the tumble-haired, merry-hearted little romp could bring even a gleam of sunshine into that darkened life.

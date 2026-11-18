@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-16.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-16.html"
 ---
 
 *HIS* attitude had not changed, fifteen minutes later, when there came a light tapping upon that mishandled door of his; and at the sound he rose quickly, said, "Yes, mother," and tried to regain his usual cheerfulness of aspect as Mrs. Oliphant came in noiselessly. She was smiling, and he was able to construct a smile in return, telling her she looked "mighty pretty" in her rose-coloured negligee—a compliment not exaggerated. Serenity, a good faith, and a cheerful disposition bring beauty in time even where it has not been; and, where beauty has always been, as it had with Mrs. Oliphant, white hair is only that crowning prettiness so knowingly sought by the ladies of the eighteenth-century when they powdered their blonde or brunette ringlets.

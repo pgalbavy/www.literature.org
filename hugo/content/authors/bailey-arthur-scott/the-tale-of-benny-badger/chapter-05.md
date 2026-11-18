@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Speaking Of Ground Squirrels"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-05.html"
 ---
 
 Benny Badger stared none too pleasantly at Mr. Coyote. He didn't like his visitor. And he wished Mr. Coyote would go away.

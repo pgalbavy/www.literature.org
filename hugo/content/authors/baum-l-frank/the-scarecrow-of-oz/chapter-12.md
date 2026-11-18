@@ -1,8 +1,7 @@
 ---
 title: "chapter 12"
 weight: 999
-aliases:
-  - "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-12.html"
+url: "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-12.html"
 ---
 
 Now it so happened that Trot, from the window of her room, had witnessed the meeting of the lovers in the garden and had seen the King come and drag Gloria away. The little girl's heart went out in sympathy for the poor Princess, who seemed to her to be one of the sweetest and loveliest young ladies she had ever seen, so she crept along the passages and from a hidden niche saw Gloria locked in her room.

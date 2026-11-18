@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Cross-Examination"
 weight: 4
-aliases:
-  - "/authors/leblanc-maurice/the-secret-tomb/chapter-04.html"
+url: "/authors/leblanc-maurice/the-secret-tomb/chapter-04.html"
 ---
 
 "Let's bolt!" again said Saint-Quentin, who had sunk down on to a trunk and would have been incapable of making a single step.

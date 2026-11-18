@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 7"
 weight: 7
-aliases:
-  - "/authors/london-jack/burning-daylight/part-01-chapter-07.html"
+url: "/authors/london-jack/burning-daylight/part-01-chapter-07.html"
 ---
 
 This time the trail was easier. It was better packed, and they were not carrying mail against time. The day's run was shorter, and likewise the hours on trail. On his mail run Daylight had played out three Indians; but his present partners knew that they must not be played out when they arrived at the Stewart bars, so they set the slower pace. And under this milder toil, where his companions nevertheless grew weary, Daylight recuperated and rested up. At Forty Mile they laid over two days for the sake of the dogs, and at Sixty Mile Daylight's team was left with the trader. Unlike Daylight, after the terrible run from Selkirk to Circle City, they had been unable to recuperate on the back trail. So the four men pulled on from Sixty Mile with a fresh team of dogs on Daylight's sled.

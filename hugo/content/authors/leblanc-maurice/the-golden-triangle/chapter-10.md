@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Red Cord"
 weight: 10
-aliases:
-  - "/authors/leblanc-maurice/the-golden-triangle/chapter-10.html"
+url: "/authors/leblanc-maurice/the-golden-triangle/chapter-10.html"
 ---
 
 Coralie, feeling her legs give way beneath her, had flung herself on the prie-dieu and there knelt praying fervently and wildly. She could not tell on whose behalf, for the repose of what unknown soul her prayers were offered; but her whole being was afire with fever and exaltation and the very action of praying seemed able to assuage her.

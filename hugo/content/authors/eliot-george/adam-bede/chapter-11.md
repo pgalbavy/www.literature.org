@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - In The Cottage"
 weight: 11
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-11.html"
+url: "/authors/eliot-george/adam-bede/chapter-11.html"
 ---
 
 IT was but half-past four the next morning when Dinah, tired of lying awake listening to the birds and watching the growing light through the little window in the garret roof, rose and began to dress herself very quietly, lest she should disturb Lisbeth. But already some one else was astir in the house, and had gone downstairs, preceded by Gyp. The dog's pattering step was a sure sign that it was Adam who went down; but Dinah was not aware of this, and she thought it was more likely to be Seth, for he had told her how Adam had stayed up working the night before. Seth, however, had only just awakened at the sound of the opening door. The exciting influence of the previous day, heightened at last by Dinah's unexpected presence, had not been counteracted by any bodily weariness, for he had not done his ordinary amount of hard work; and so when he went to bed; it was not till he had tired himself with hours of tossing wakefulness that drowsiness came, and led on a heavier morning sleep than was usual with him.

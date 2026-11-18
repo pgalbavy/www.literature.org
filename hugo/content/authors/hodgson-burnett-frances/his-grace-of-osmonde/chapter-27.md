@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - \u0026quot;'Twas The Night Thou Hidst The Package In The Wall\u0026quot;"
 weight: 28
-aliases:
-  - "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-27.html"
+url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-27.html"
 ---
 
 "So," said the fashionable triflers, "'twas the Duke after all, and his Grace flies to France to draw his errand to a close, and when he flies back again, upon the wings of love, five villages will roast oxen whole and drink ale to the chiming of wedding-bells."

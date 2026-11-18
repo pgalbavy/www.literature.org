@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - At Sea"
 weight: 1
-aliases:
-  - "/authors/collins-wilkie/miss-or-mrs/chapter-01.html"
+url: "/authors/collins-wilkie/miss-or-mrs/chapter-01.html"
 ---
 
 Period: THE PRESENT TIME. Place: ENGLAND

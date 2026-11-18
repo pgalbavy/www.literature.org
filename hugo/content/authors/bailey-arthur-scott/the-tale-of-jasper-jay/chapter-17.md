@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Jasper Is Ashamed"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-17.html"
 ---
 
 THE leader of the Singing Society stopped Jasper Jay's song as soon as he was able to. But Jolly Robin's cousin, Valentine Veery, found it no easy matter to silence Jasper Jay. Though he called to him several times, Jasper paid no attention to him, but continued to make all the noise he could. His notes had never sounded so loud and harsh before--but you must remember that Jasper had been saving his voice all day for this very occasion.

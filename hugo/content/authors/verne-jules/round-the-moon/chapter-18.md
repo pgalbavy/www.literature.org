@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/verne-jules/round-the-moon/chapter-18.html"
+url: "/authors/verne-jules/round-the-moon/chapter-18.html"
 ---
 
 But the projectile had passed the _enceinte_ of Tycho, and Barbicane and his two companions watched with scrupulous attention the brilliant rays which the celebrated mountain shed so curiously over the horizon.

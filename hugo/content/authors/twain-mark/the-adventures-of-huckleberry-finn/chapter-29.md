@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-29.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-29.html"
 ---
 
 THEY was fetching a very nice-looking old gentleman along, and a nice-looking younger one, with his right arm in a sling. And, my souls, how the people yelled and laughed, and kept it up. But I didn't see no joke about it, and I judged it would strain the duke and the king some to see any. I reckoned they'd turn pale. But no, nary a pale did THEY turn. The duke he never let on he suspicioned what was up, but just went a goo-gooing around, happy and satisfied, like a jug that's googling out buttermilk; and as for the king, he just gazed and gazed down sorrowful on them new-comers like it give him the stomach-ache in his very heart to think there could be such frauds and rascals in the world. Oh, he done it admirable. Lots of the principal people gethered around the king, to let him see they was on his side. That old gentleman that had just come looked all puzzled to death. Pretty soon he begun to speak, and I see straight off he pronounced LIKE an Englishman -- not the king's way, though the king's WAS pretty good for an imitation. I can't give the old gent's words, nor I can't imitate him; but he turned around to the crowd, and says, about like this:

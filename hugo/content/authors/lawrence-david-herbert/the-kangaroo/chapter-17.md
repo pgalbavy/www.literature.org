@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Kangaroo Is Killed"
 weight: 17
-aliases:
-  - "/authors/lawrence-david-herbert/the-kangaroo/chapter-17.html"
+url: "/authors/lawrence-david-herbert/the-kangaroo/chapter-17.html"
 ---
 
 Dear Lovat, also Mrs. Lovat: I don't think it is very nice of you that you don't even call with a tract or a tube-rose, when you know I am so smitten. Yours, Kangaroo. P.S. - Bullets in my marsupial pouch.

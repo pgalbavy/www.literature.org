@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 23"
 weight: 212
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-23.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-23.html"
 ---
 
 In order to carry through any undertaking in family life, there must necessarily be either complete division between the husband and wife, or loving agreement. When the relations of a couple are vacillating and neither one thing nor the other, no sort of enterprise can be undertaken.

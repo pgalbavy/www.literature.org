@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A New Blackfoot Citizen"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-14.html"
 ---
 
 The words of Taggarak the war chief weighed heavily upon George and Victor Shelton, for nothing was more certain to them than that trouble for Deerfoot was near. He could not be frightened into any attempt to hide his light under a bushel, or to deny the faith that was woven into the very fibre of his being. The brothers talked the question over many times. It was never referred to between them and Mul-tal-la, for the Blackfoot could give them no help, and the final solution of the problem must be reached by Deerfoot himself.

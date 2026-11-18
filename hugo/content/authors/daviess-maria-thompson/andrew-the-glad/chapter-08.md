@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Spell And Its Weaving"
 weight: 8
-aliases:
-  - "/authors/daviess-maria-thompson/andrew-the-glad/chapter-08.html"
+url: "/authors/daviess-maria-thompson/andrew-the-glad/chapter-08.html"
 ---
 
 And after the confusion, the distress and the joy of the afternoon out in the park when she and her gift had been accepted and acclaimed, there came days full of deep and perfect peace to Caroline Darrah Brown.

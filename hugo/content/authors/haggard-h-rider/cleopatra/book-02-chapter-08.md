@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 8"
 weight: 16
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-02-chapter-08.html"
+url: "/authors/haggard-h-rider/cleopatra/book-02-chapter-08.html"
 ---
 
 OF THE AWAKING OF HARMACHIS; OF THE SIGHT OF DEATH; OF THE COMING OF CLEOPATRA; AND OF HER COMFORTABLE WORDS

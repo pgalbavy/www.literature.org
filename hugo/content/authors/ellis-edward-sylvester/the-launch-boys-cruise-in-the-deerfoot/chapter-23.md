@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Captain And Mate"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-23.html"
 ---
 
 Mike Murphy would have given the launch a speed of fifty miles an hour had it been in his power, so impatient was he to reach the thieves who had not only stolen the launch, but had insulted and defied him. He would not pause to secure the *Deerfoot*, but would leap ashore the instant he was within reach of it.

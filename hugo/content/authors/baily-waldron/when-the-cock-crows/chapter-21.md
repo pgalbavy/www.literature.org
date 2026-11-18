@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Sealed Orders"
 weight: 21
-aliases:
-  - "/authors/baily-waldron/when-the-cock-crows/chapter-21.html"
+url: "/authors/baily-waldron/when-the-cock-crows/chapter-21.html"
 ---
 
 Doctor Garnet, seeing the effect made upon the girl by the conclusion of the story, did not approach her or try to relieve her, as had been his wont. At the moment he felt himself too low, too despicable, to lay his hands on this fair girl, even as a physician. Moreover, he knew that it would not be long ere she recovered her calm. Indeed, only a few minutes elapsed before Ethel had passed through the crisis of her emotion. Her mind clear again, she stared at the man with an unconcealed repugnance, under which he cringed. She thought with dismay of the dreadful thing Doctor Garnet had done. She even wondered now with new distress as to what her friends must have thought concerning her secret departure. It seemed to her that the truth was too fantastic a thing to be credited by the world at large. It would scoff at this explanation of a young girl's sailing for days with a man, practically alone, on her own yacht. She shuddered at thought of the slanders sure to be her portion. How her father would grieve over this disgrace of his daughter! How Roy----Appalled, she thrust the terrifying thought from her mind.... And there was the murder of the caretaker! Would the public not believe her an accomplice, by consent at least, in that forcible holding of him to the engine?

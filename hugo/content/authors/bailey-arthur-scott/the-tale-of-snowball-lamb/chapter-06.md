@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Mr. Crow Explains"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-06.html"
 ---
 
 Snowball couldn't understand old Mr. Crow's rage. Mr. Crow had invited himself to the treat that Johnnie Green was going to give the flock. But the moment the old gentleman heard that the treat was going to be salt he had squalled at the top of his hoarse voice that he was going to stay as far from the pasture as he could get.

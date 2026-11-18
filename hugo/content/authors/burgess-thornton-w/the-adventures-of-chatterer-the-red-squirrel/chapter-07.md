@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - How Chatterer Had Fooled Peter Rabbit"
 weight: 7
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-07.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-07.html"
 ---
 
 Chatterer the Red Squirrel is a scamp himself and not to be trusted. Nobody in the Green Forest or on the Green Meadows trusts him. And people who cannot be trusted themselves never trust any one else. Chatterer never does. He is always suspicious. So when Peter Rabbit had said good-by and started for the dear Old Briar-patch without knowing where Chatterer's new house was, Chatterer had made up his mind right away that Peter would never be satisfied until he knew, or thought he knew, where that new house was. You see, he knew all about Peter's dreadful curiosity.

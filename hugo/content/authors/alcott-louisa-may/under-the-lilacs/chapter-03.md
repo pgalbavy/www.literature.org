@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Ben"
 weight: 3
-aliases:
-  - "/authors/alcott-louisa-may/under-the-lilacs/chapter-03.html"
+url: "/authors/alcott-louisa-may/under-the-lilacs/chapter-03.html"
 ---
 
 "Please, 'm, my name is Ben Brown, and I'm travellin'."

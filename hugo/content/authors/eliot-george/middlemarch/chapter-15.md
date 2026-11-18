@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-15.html"
+url: "/authors/eliot-george/middlemarch/chapter-15.html"
 ---
 
 "Black eyes you have left, you say, Blue eyes fail to draw you; Yet you seem more rapt to-day, Than of old we saw you. "Oh, I track the fairest fair Through new haunts of pleasure; Footprints here and echoes there Guide me to my treasure: "Lo! she turns - immortal youth Wrought to mortal stature, Fresh as starlight's aged truth - Many-named Nature!"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Council Of Three"
 weight: 10
-aliases:
-  - "/authors/collins-wilkie/the-new-magdalen/chapter-10.html"
+url: "/authors/collins-wilkie/the-new-magdalen/chapter-10.html"
 ---
 
 FOR a moment Horace stood thunderstruck, looking in blank astonishment at Lady Janet. His first words, as soon as he had recovered himself, were addressed to Julian. "Is this a joke?" he asked, sternly. "If it is, I for one don't see the humor of it."

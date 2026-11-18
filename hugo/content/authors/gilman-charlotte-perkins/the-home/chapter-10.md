@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Domestic Entertainment"
 weight: 11
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-home/chapter-10.html"
+url: "/authors/gilman-charlotte-perkins/the-home/chapter-10.html"
 ---
 
 Long is the way from the primal home, with its simple child-motif, to the large and expensive house of entertainment we call home to-day. The innocent "guest-chamber" early added to the family accommodations has spread its area and widened its demands, till we find the ultra-type of millionaire mansion devoting its whole space, practically, to the occupation of guests--for even the private rooms are keyed up to a comparison with those frankly built and furnished for strangers. The kitchen, the dining-room, the pantry, the table-furniture of all sorts, are arranged in style and amplitude to meet the needs of guests. The sitting-room becomes a "parlour," the parlour a "drawing-room" with "reception-room" addition; and then comes the still more removed "ballroom"--a remarkable apartment truly, to form part of a home. Some even go so far as to add a theatre--that most essentially public of chambers--in this culminating transformation of a home to a house of entertainment.

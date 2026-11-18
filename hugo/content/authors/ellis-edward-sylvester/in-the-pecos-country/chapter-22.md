@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Lost"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-22.html"
 ---
 
 Following the escape of their human victim, the wolves had maintained a frightful and most discordant howling, as if angered beyond expression at the style in which they had been baffled of their prey.

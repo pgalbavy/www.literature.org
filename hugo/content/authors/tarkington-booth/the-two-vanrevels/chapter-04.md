@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - \"But Spare Your Country's Flag\""
 weight: 4
-aliases:
-  - "/authors/tarkington-booth/the-two-vanrevels/chapter-04.html"
+url: "/authors/tarkington-booth/the-two-vanrevels/chapter-04.html"
 ---
 
 If it be true that love is the great incentive to the useless arts, the number of gentlemen who became poets for the sake of Miss Betty Carewe need not be considered extraordinary. Of all that was written of her dancing, Tom Vanrevel's lines, "I Danced with Her beneath the Lights" (which he certainly had not done when he wrote them) were, perhaps, next to Crailey Gray's in merit, though Tom burned his rhymes after reading them to Crailey. Other troubadours were not so modest, and the Rouen Journal found no lack of tuneful offering, that spring, generously print-ing all of it, even at the period when it became epidemic. The public had little difficulty in recognizing the work of Mr. Francis Chenoweth in an anonymous "Sonnet" (of twenty-three lines) which appeared in the issue following Miss Carewe's debut. Mr. Chenoweth wrote that while dancing the mazourka with a Lovely Being, the sweetest feelings of his soul, in a celestial stream, bore him away beyond control, in a seraphic dream; and he untruthfully stated that at the same time he saw her wipe the silent tear, omitting, however, to venture any explanation of the cause of her emotion. Old General Trumble boldly signed his poem in full. It was called "An Ode upon Miss *C—'*s Waltzing," and it began:

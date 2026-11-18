@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - I Become Neglected, And Am Provided For"
 weight: 11
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-10.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-10.html"
 ---
 
 The first act of business Miss Murdstone performed when the day of the solemnity was over, and light was freely admitted into the house, was to give Peggotty a month’s warning. Much as Peggotty would have disliked such a service, I believe she would have retained it, for my sake, in preference to the best upon earth. She told me we must part, and told me why; and we condoled with one another, in all sincerity.

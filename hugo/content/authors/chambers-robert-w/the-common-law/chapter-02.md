@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/chambers-robert-w/the-common-law/chapter-02.html"
+url: "/authors/chambers-robert-w/the-common-law/chapter-02.html"
 ---
 
 Spring came unusually early that year. By the first of the month a few willows and thorn bushes in the Park had turned green; then, in a single day, the entire Park became lovely with golden bell-flowers, and the first mowing machine clinked over the greenswards leaving a fragrance of clipped verdure in its wake.

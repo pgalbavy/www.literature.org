@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Execution"
 weight: 12
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-12.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-12.html"
 ---
 
 Cornelius had not three hundred paces to walk outside the prison to reach the foot of the scaffold. At the bottom of the staircase, the dog quietly looked at him whilst he was passing; Cornelius even fancied he saw in the eyes of the monster a certain expression as it were of compassion.

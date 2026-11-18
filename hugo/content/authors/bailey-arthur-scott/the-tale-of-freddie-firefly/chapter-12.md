@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - A Terrible Song"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-12.html"
 ---
 
 It was no wonder that Freddie Firefly grew uneasy again as he listened to the song of Peppery Polly Bumblebee, while they flew towards the clover field through the darkness. The chorus, especially, filled him with alarm. And he shuddered as the disagreeable honey-maker sang it:

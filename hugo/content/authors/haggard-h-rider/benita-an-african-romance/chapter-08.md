@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Bambatse"
 weight: 9
-aliases:
-  - "/authors/haggard-h-rider/benita-an-african-romance/chapter-08.html"
+url: "/authors/haggard-h-rider/benita-an-african-romance/chapter-08.html"
 ---
 
 Nearly four months had gone by when at length the waggon with which were Mr. Clifford, Benita, and Jacob Meyer camped one night within the country of the Molimo of Bambatse, whose name was Mambo. Or perhaps that was his title, since (according to Tamas his son) every chief in succession was called Mambo, though not all of them were Molimos, or representatives and prophets of God, or the Great Spirit whom they knew as Munwali. Thus sometimes the Molimo, or priest of Munwali, and the Mambo or chief were different persons. For instance, he said that he, Tamas, would be Mambo on his father’s death, but no visions were given to him; therefore as yet, at any rate, he was not called to be Molimo.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Birds Of A Feather"
 weight: 9
-aliases:
-  - "/authors/ostrander-isabel/the-fifth-ace/chapter-09.html"
+url: "/authors/ostrander-isabel/the-fifth-ace/chapter-09.html"
 ---
 
 "What in the world are you doing, Vernie?" Angie paused in the library door, stifling a yawn daintily as she slipped her evening cloak from her shoulders.

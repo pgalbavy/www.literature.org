@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 2 - Still Educational"
 weight: 19
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-02-chapter-02.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-02-chapter-02.html"
 ---
 
 The person of the house, doll’s dressmaker and manufacturer of ornamental pincushions and pen-wipers, sat in her quaint little low arm-chair, singing in the dark, until Lizzie came back. The person of the house had attained that dignity while yet of very tender years indeed, through being the only trustworthy person IN the house.

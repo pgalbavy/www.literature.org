@@ -1,8 +1,7 @@
 ---
 title: "Leaf 5 - Blue Absinthe"
 weight: 5
-aliases:
-  - "/authors/daviess-maria-thompson/the-melting-of-molly/leaf-05.html"
+url: "/authors/daviess-maria-thompson/the-melting-of-molly/leaf-05.html"
 ---
 
 "The juice of a lemon in two glasses of cold water, to be drunk immediately on wakening!" Page eleven! I've handed myself that lemon every morning now until I am sensitive with myself about it. If there was ever anybody "on the water wagon" it's I, and I have to sit on the front seat from dawn to dusk to get in the gallon of water I'm supposed to consume in that time. Sometime I'm going to get mixed up and try to drink my bath if I don't look out. I dreamed night before last that I was taking a bath in a glass of ice-cream soda-water and trying to hide from Doctor John behind the dab of ice-cream that seemed inadequate for food or protection. I haven't had even one glass for two months and I woke up in a cold perspiration of embarrassment and raging hunger.

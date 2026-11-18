@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-10.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-10.html"
 ---
 
 After awhile her lashes trembled and rose flickeringly upon the vague perplexity of returning consciousness. Her head ached and her muscles were cramped, because she had crumpled down as she stood, so that she regained her feet falteringly and went with difficulty over to a chair before the mirror of her dressing-table. For awhile she sat gazing dully into her own reflected eyes. Under them were dark rings. Her cheeks were pale and her whole face was stricken with the bleak hopelessness of heartbreak. Her gaze fell on a framed photograph, just before her, and she flinched. It was an enlarged snapshot of Stuart Farquaharson. But other pictures more vitally near to her recent past were passing also before her. She felt again the muscles of his forearms snap into tautness as he stood silent under her father's insults. She felt the strength of his embrace calming the panic of her own heart; the touch of the kisses that had brought her both peace and ecstasy and wakened in her latent fires. Surely if, at last, the hot temper had broken through and blinded him with its glare of passion, it had not--could not--have burned to ashes all the chivalric record of these trying months. Surely it was a thing she could forgive. The man upon whom she had leaned so long and whom she had known so well must be more real than this alien revealed in an ungenerous half hour. The pale sunset died into the ashes of twilight. Her bureau clock ticked out a full hour--and a second hour while she sat almost immovable. She argued with herself that this conflict which had so impalpably gathered and so suddenly burst in storm was a nightmare coming out of the shadows and had no substance of reality.

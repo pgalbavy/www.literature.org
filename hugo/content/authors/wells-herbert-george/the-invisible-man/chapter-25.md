@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Hunting of the Invisible Man"
 weight: 25
-aliases:
-  - "/authors/wells-herbert-george/the-invisible-man/chapter-25.html"
+url: "/authors/wells-herbert-george/the-invisible-man/chapter-25.html"
 ---
 
 For a space Kemp was too inarticulate to make Adye understand the swift things that had just happened. The two men stood on the landing, Kemp speaking swiftly, the grotesque swathings of Griffin still on his arm. But presently Adye began to grasp something of the situation.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Sitting On A Lily-Pad"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-chirpy-cricket/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-chirpy-cricket/chapter-17.html"
 ---
 
 Though Chirpy Cricket looked all around with great care, he couldn't discover who had spoken to him. A voice from somewhere had called out that his music was fine and asked him if he wouldn't play some more.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Two Rascals Caught"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-21.html"
 ---
 
 THE moment Reddy Woodpecker stepped into the cold water he wanted to say "Ouch!" But Jimmy Rabbit put a finger on his mouth--meaning that Reddy must be still as a mouse.

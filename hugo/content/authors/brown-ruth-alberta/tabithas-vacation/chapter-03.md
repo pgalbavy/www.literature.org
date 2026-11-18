@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Unwelcome Guests"
 weight: 3
-aliases:
-  - "/authors/brown-ruth-alberta/tabithas-vacation/chapter-03.html"
+url: "/authors/brown-ruth-alberta/tabithas-vacation/chapter-03.html"
 ---
 
 "Well, one whole week is gone," said Tabitha exultantly, as she bent over the heaped-up mending basket one hot afternoon, and tried to make neat darns of the gaping holes in the heels of Susie's stockings.

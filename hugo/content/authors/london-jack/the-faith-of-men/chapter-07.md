@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Batard"
 weight: 7
-aliases:
-  - "/authors/london-jack/the-faith-of-men/chapter-07.html"
+url: "/authors/london-jack/the-faith-of-men/chapter-07.html"
 ---
 
 Batard was a devil. This was recognized throughout the Northland. "Hell's Spawn" he was called by many men, but his master, Black Leclere, chose for him the shameful name "Batard." Now Black Leclere was also a devil, and the twain were well matched. There is a saying that when two devils come together, hell is to pay. This is to be expected, and this certainly was to be expected when Batard and Black Leclere came together. The first time they met, Batard was a part-grown puppy, lean and hungry, with bitter eyes; and they met with snap and snarl, and wicked looks, for Leclere's upper lip had a wolfish way of lifting and showing the white, cruel teeth. And it lifted then, and his eyes glinted viciously, as he reached for Batard and dragged him out from the squirming litter. It was certain that they divined each other, for on the instant Batard had buried his puppy fangs in Leclere's hand, and Leclere, thumb and finger, was coolly choking his young life out of him.

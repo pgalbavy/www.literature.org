@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - The Last Number Of Our Magazine"
 weight: 32
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-31.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-31.html"
 ---
 
 EDITORIAL

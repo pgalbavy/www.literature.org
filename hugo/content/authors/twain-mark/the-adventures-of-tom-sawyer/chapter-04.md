@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-04.html"
+url: "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-04.html"
 ---
 
 THE sun rose upon a tranquil world, and beamed down upon the peaceful village like a benediction. Breakfast over, Aunt Polly had family worship: it began with a prayer built from the ground up of solid courses of Scriptural quotations, welded together with a thin mortar of originality; and from the summit of this she delivered a grim chapter of the Mosaic Law, as from Sinai.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Mysterious Reason"
 weight: 4
-aliases:
-  - "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-03.html"
+url: "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-03.html"
 ---
 
 During this time, the farewell ceremony was taking place. I have already said that this magnificent function was being given on the occasion of the retirement of M. Debienne and M. Poligny, who had determined to "die game," as we say nowadays. They had been assisted in the realization of their ideal, though melancholy, program by all that counted in the social and artistic world of Paris. All these people met, after the performance, in the foyer of the ballet, where Sorelli waited for the arrival of the retiring managers with a glass of champagne in her hand and a little prepared speech at the tip of her tongue. Behind her, the members of the Corps de Ballet, young and old, discussed the events of the day in whispers or exchanged discreet signals with their friends, a noisy crowd of whom surrounded the supper-tables arranged along the slanting floor.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Carried Away"
 weight: 33
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-33.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-33.html"
 ---
 
 The same dawn unrolled before the eyes of a man and a girl, riding southward along the ragged margin of the T-T ranch. Westward stretched the wide, rolling range-land, empty at the moment of any signs of life. And somehow, for the very reason that one expected something living there, it seemed even more desolate than the rough, broken country bordering the mountains on the other side.

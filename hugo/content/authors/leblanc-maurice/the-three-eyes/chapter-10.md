@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Crowd Sees"
 weight: 10
-aliases:
-  - "/authors/leblanc-maurice/the-three-eyes/chapter-10.html"
+url: "/authors/leblanc-maurice/the-three-eyes/chapter-10.html"
 ---
 
 Théodore Massignac was installed at the box-office! Théodore Massignac, when a dispute of any kind occurred, left his desk and hastened to settle it! Théodore Massignac walked up and down, examining the tickets, showing people to their places, speaking a pleasant word here, giving a masterful order there and doing all these things with his everlasting smile and his obsequious graciousness.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Transplanted"
 weight: 5
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-crux/chapter-04.html"
+url: "/authors/gilman-charlotte-perkins/the-crux/chapter-04.html"
 ---
 
 The days between Vivian's decision and her departure were harder than she had foreseen. It took some courage to make the choice. Had she been alone, independent, quite free to change, the move would have been difficult enough; but to make her plan and hold to it in the face of a disapproving town, and the definite opposition of her parents, was a heavy undertaking.

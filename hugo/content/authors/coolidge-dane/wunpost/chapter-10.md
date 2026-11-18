@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Short Sports"
 weight: 10
-aliases:
-  - "/authors/coolidge-dane/wunpost/chapter-10.html"
+url: "/authors/coolidge-dane/wunpost/chapter-10.html"
 ---
 
 The booming mining camp of Blackwater stood under the rim of a high mesa, between it and an alkali flat, and as Wunpost rode in he looked it over critically, though with none too friendly eyes. Being laid out in a land of magnificent distances, there was plenty of room between the houses, and the broad main street seemed more suited for driving cattle than for accommodating the scant local traffic. There had been a time when all that space was needed to give swing-room to twenty-mule teams, but that time was past and the two sparse rows of houses seemed dwarfed and pitifully few. Yet there were new ones going up, and quite a sprinkling of tents; and down on the corner Wunpost saw a big building which he knew must be Judson Eells' bank.

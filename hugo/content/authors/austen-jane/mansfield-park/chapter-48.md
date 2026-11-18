@@ -1,8 +1,7 @@
 ---
 title: "Chapter 48"
 weight: 48
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-48.html"
+url: "/authors/austen-jane/mansfield-park/chapter-48.html"
 ---
 
 Let other pens dwell on guilt and misery. I quit such odious subjects as soon as I can, impatient to restore everybody, not greatly in fault themselves, to tolerable comfort, and to have done with all the rest.

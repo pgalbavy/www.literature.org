@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Stranger"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/seth-jones/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/seth-jones/chapter-01.html"
 ---
 
 The clear ring of an ax was echoing through the arches of a forest, three-quarters of a century ago; and an athletic man was swinging the instrument, burying its glittering blade deep in the heart of the mighty kings of the wood.

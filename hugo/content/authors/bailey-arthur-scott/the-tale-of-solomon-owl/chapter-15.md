@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Disputes Settled"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-15.html"
 ---
 
 Solomon Owl looked so wise that many of his neighbors fell into the habit of going to him for advice. If two of the forest folk chanced to have a dispute which they could not settle between them they frequently visited Solomon and asked him to decide which was in the right. And in the course of time Solomon became known far and wide for his ability to patch up a quarrel.

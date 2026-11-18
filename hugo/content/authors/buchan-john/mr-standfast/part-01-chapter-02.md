@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 2 - \"The Village Named Morality\""
 weight: 2
-aliases:
-  - "/authors/buchan-john/mr-standfast/part-01-chapter-02.html"
+url: "/authors/buchan-john/mr-standfast/part-01-chapter-02.html"
 ---
 
 Up on the high veld our rivers are apt to be strings of pools linked by muddy trickles—the most stagnant kind of watercourse you would look for in a day’s journey. But presently they reach the edge of the plateau and are tossed down into the flats in noble ravines, and roll thereafter in full and sounding currents to the sea. So with the story I am telling. It began in smooth reaches, as idle as a mill-pond; yet the day soon came when I was in the grip of a torrent, flung breathless from rock to rock by a destiny which I could not control. But for the present I was in a backwater, no less than the Garden City of Biggleswick, where Mr Cornelius Brand, a South African gentleman visiting England on holiday, lodged in a pair of rooms in the cottage of Mr Tancred Jimson.

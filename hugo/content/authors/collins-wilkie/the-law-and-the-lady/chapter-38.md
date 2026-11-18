@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - On The Journey Back"
 weight: 38
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-38.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-38.html"
 ---
 
 IF I had been traveling homeward in my own carriage, the remaining chapters of this narrative would never have been written. Before we had been an hour on the road I should have called to the driver, and should have told him to turn back.

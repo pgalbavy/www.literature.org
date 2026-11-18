@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 9 - The Capture"
 weight: 21
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-09.html"
+url: "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-09.html"
 ---
 
 The capture of Princess Emma von der Tann and Barney Custer was a relatively simple matter. Open fields spread in all directions about the crossroads at which their car had come to its humiliating stop. There was no cover. To have sought escape by flight, thus in the open, would have been to expose the princess to the fire of the troopers. Barney could not do this. He preferred to surrender and trust to chance to open the way to escape later.

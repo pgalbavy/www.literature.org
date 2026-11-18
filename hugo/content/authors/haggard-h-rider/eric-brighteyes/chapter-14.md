@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - How Eric Dreamed A Dream"
 weight: 15
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-14.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-14.html"
 ---
 
 Now, when the men of Ospakar, who were gathered on the poop of the Raven, saw what had come about, they shouted aloud and made ready to slay the pair. But Eric and Skallagrim clambered to the mast and got their backs against it, and swiftly made themselves fast with a rope, so that they might not fall with the rolling of the ship. Then the people of Ospakar came on to cut them down.

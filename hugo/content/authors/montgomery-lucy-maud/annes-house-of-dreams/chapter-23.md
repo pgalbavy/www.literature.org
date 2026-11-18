@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Owen Ford Comes"
 weight: 23
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-23.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-23.html"
 ---
 
 One evening Miss Cornelia telephoned down to Anne.

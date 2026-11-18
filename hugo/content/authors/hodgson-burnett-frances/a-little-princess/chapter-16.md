@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Visitor"
 weight: 17
-aliases:
-  - "/authors/hodgson-burnett-frances/a-little-princess/chapter-16.html"
+url: "/authors/hodgson-burnett-frances/a-little-princess/chapter-16.html"
 ---
 
 Imagine, if you can, what the rest of the evening was like. How they crouched by the fire which blazed and leaped and made so much of itself in the little grate. How they removed the covers of the dishes, and found rich, hot, savory soup, which was a meal in itself, and sandwiches and toast and muffins enough for both of them. The mug from the washstand was used as Becky's tea-cup, and the tea was so delicious that it was not necessary to pretend that it was anything else but tea. They were warm and full-fed and happy, and it was just like Sara that, having found her strange good fortune real, she should give herself up to the enjoyment of it to the utmost. She had lived such a life of imaginings that she was quite equal to accepting any wonderful thing that happened, and almost to cease, in a short time, to find it bewildering.

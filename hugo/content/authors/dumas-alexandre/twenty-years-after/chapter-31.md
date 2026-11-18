@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - The Monk"
 weight: 31
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-31.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-31.html"
 ---
 
 Two men lay prone upon the ground, one bathed in blood and motionless, with his face toward the earth; this one was dead. The other leaned against a tree, supported there by the two valets, and was praying fervently, with clasped hands and eyes raised to Heaven. He had received a ball in his thigh, which had broken the bone. The young men first approached the dead man.

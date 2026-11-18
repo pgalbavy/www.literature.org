@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - On The Way Home"
 weight: 4
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-04.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-04.html"
 ---
 
 LEFT by ourselves, there was a moment of silence among us. Eustace spoke first.

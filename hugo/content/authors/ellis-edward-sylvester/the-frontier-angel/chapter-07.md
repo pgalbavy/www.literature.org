@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Pursuit Of Knowledge Under Difficulties"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/the-frontier-angel/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/the-frontier-angel/chapter-07.html"
 ---
 
 *PETERSON'S* destination being the Sciota valley, he left the settlement and proceeded eastward, up the Ohio, until the mouth of the Sciota was reached, when he prosecuted his journey in a northerly direction, making it all on foot. Leaving him to continue his duty, we will follow the fortunes of the other two.

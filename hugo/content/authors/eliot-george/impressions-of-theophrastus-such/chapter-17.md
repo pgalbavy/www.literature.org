@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Shadows Of The Coming Race"
 weight: 17
-aliases:
-  - "/authors/eliot-george/impressions-of-theophrastus-such/chapter-17.html"
+url: "/authors/eliot-george/impressions-of-theophrastus-such/chapter-17.html"
 ---
 
 My friend Trost, who is no optimist as to the state of the universe hitherto, but is confident that at some future period within the duration of the solar system, ours will be the best of all possible worlds - a hope which I always honour as a sign of beneficent qualities - my friend Trost always tries to keep up my spirits under the sight of the extremely unpleasant and disfiguring work by which many of our fellow-creatures have to get their bread, with the assurance that "all this will soon be done by machinery." But he sometimes neutralises the consolation by extending it over so large an area of human labour, and insisting so impressively on the quantity of energy which will thus be set free for loftier purposes, that I am tempted to desire an occasional famine of invention in the coming ages, lest the humbler kinds of work should be entirely nullified while there are still left some men and women who are not fit for the highest.

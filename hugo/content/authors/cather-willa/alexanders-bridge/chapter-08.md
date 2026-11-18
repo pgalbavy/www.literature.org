@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/cather-willa/alexanders-bridge/chapter-08.html"
+url: "/authors/cather-willa/alexanders-bridge/chapter-08.html"
 ---
 
 The last rehearsal was over, a tedious dress rehearsal which had lasted all day and exhausted the patience of every one who had to do with it. When Hilda had dressed for the street and came out of her dressing-room, she found Hugh MacConnell waiting for her in the corridor.

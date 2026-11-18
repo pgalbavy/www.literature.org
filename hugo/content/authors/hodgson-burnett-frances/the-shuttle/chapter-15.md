@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The First Man"
 weight: 15
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-15.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-15.html"
 ---
 
 The mystery of the apparently occult methods of communication among the natives of India, between whom, it is said, news flies by means too strange and subtle to be humanly explainable, is no more difficult a problem to solve than that of the lightning rapidity with which a knowledge of the transpiring of any new local event darts through the slowest, and, as far as outward signs go, the least communicative English village slumbering drowsily among its pastures and trees.

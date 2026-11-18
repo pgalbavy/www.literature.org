@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-22.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-22.html"
 ---
 
 Granet sauntered in to breakfast a few minutes late on the following morning. A little volley of questions and exclamations reached him as he stood by the sideboard.

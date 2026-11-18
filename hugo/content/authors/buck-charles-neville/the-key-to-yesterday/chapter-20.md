@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/buck-charles-neville/the-key-to-yesterday/chapter-20.html"
+url: "/authors/buck-charles-neville/the-key-to-yesterday/chapter-20.html"
 ---
 
 When he turned back, a day later, from the turmoil of the station, from the strenuous labor of weighing trunks, locating the compartment in the train, subsidizing the guards, and, hardest of all, saying good-bye to Duska with a seeming or normal cheerfulness, Steele found himself irritably out of measure with the quick-step of Paris. Mrs. Horton and the girl were on their way to the Riviera. He was left behind to watch results; almost, it seemed to him, to sit by and observe the post-mortem on every hope in the lives of three people. Nice should still be quiet. The tidal wave of "trippers" would not for a little while sweep over its rose-covered slopes and white beaches and dazzling esplanades, and the place would afford the girl at least every soothing influence that nature could offer. That would not be much, but it would be something.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/woolf-virginia/jacobs-room/chapter-04.html"
+url: "/authors/woolf-virginia/jacobs-room/chapter-04.html"
 ---
 
 What's the use of trying to read Shakespeare, especially in one of those little thin paper editions whose pages get ruffled, or stuck together with sea-water? Although the plays of Shakespeare had frequently been praised, even quoted, and placed higher than the Greek, never since they started had Jacob managed to read one through. Yet what an opportunity!

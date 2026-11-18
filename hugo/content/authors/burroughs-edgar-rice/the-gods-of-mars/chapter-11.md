@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - When Hell Broke Loose"
 weight: 12
-aliases:
-  - "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-11.html"
+url: "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-11.html"
 ---
 
 Early the next morning Xodar and I commenced work upon our plans for escape. First I had him sketch upon the stone floor of our cell as accurate a map of the south polar regions as was possible with the crude instruments at our disposal--a buckle from my harness, and the sharp edge of the wondrous gem I had taken from Sator Throg.

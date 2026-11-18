@@ -1,8 +1,7 @@
 ---
 title: "Chapter 51 - The Beginning Of A Longer Journey"
 weight: 52
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-51.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-51.html"
 ---
 
 It was yet early in the morning of the following day, when, as I was walking in my garden with my aunt (who took little other exercise now, being so much in attendance on my dear Dora), I was told that Mr. Peggotty desired to speak with me. He came into the garden to meet me half-way, on my going towards the gate; and bared his head, as it was always his custom to do when he saw my aunt, for whom he had a high respect. I had been telling her all that had happened overnight. Without saying a word, she walked up with a cordial face, shook hands with him, and patted him on the arm. It was so expressively done, that she had no need to say a word. Mr. Peggotty understood her quite as well as if she had said a thousand.

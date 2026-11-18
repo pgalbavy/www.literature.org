@@ -1,8 +1,7 @@
 ---
 title: "part 02 chapter 00"
 weight: 999
-aliases:
-  - "/authors/hughes-thomas/tom-browns-schooldays/part-02-chapter-00.html"
+url: "/authors/hughes-thomas/tom-browns-schooldays/part-02-chapter-00.html"
 ---
 
 "I [hold] it truth, with him who sings,  

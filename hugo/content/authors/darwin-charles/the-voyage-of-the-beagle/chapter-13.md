@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Chiloe and Chonos Islands"
 weight: 14
-aliases:
-  - "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-13.html"
+url: "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-13.html"
 ---
 
 arrow_rightChiloe arrow_rightGeneral Aspect arrow_rightBoat Excursion arrow_rightNative Indians arrow_rightCastro arrow_rightTame Fox arrow_rightAscend San Pedro arrow_rightChonos Archipelago arrow_rightPeninsula of Tres Montes arrow_rightGranitic Range arrow_rightBoat-wrecked Sailors arrow_rightLow's Harbour arrow_rightWild Potato arrow_rightFormation of Peat arrow_rightMyopotamus, Otter and Mice arrow_rightCheucau and Barking-bird arrow_rightOpetiorhynchus arrow_rightSingular Character of Ornithology arrow_rightPetrels ---

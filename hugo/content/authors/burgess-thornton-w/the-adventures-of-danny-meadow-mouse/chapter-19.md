@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Peter Rabbit And Danny Meadow Mouse Live High"
 weight: 19
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-19.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-19.html"
 ---
 
 *PETER RABBIT* sat in his secretest place in the dear Old Briar-patch with one of his long hind legs all swelled up and terribly sore because of the fine wire fast around it and cutting into it. He could hear Farmer Brown’s boy going around on the edge of the dear Old Briar-patch and stopping every little while to do something. In spite of his pain, Peter was curious. Finally he called Danny Meadow Mouse.

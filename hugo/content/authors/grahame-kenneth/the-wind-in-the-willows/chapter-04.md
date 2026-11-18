@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Mr. Badger"
 weight: 4
-aliases:
-  - "/authors/grahame-kenneth/the-wind-in-the-willows/chapter-04.html"
+url: "/authors/grahame-kenneth/the-wind-in-the-willows/chapter-04.html"
 ---
 
 They waited patiently for what seemed a very long time, stamping in the snow to keep their feet warm. At last they heard the sound of slow shuffling footsteps approaching the door from the inside. It seemed, as the Mole remarked to the Rat, like some one walking in carpet slippers that were too large for him and down at heel; which was intelligent of Mole, because that was exactly what it was.

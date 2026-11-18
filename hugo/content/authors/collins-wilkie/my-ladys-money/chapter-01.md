@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/collins-wilkie/my-ladys-money/chapter-01.html"
+url: "/authors/collins-wilkie/my-ladys-money/chapter-01.html"
 ---
 
 OLD Lady Lydiard sat meditating by the fireside, with three letters lying open on her lap.

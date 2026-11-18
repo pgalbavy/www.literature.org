@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/austen-jane/northanger-abbey/chapter-11.html"
+url: "/authors/austen-jane/northanger-abbey/chapter-11.html"
 ---
 
 The morrow brought a very sober-looking morning, the sun making only a few efforts to appear, and Catherine augured from it everything most favourable to her wishes. A bright morning so early in the year, she allowed, would generally turn to rain, but a cloudy one foretold improvement as the day advanced. She applied to Mr. Allen for confirmation of her hopes, but Mr. Allen, not having his own skies and barometer about him, declined giving any absolute promise of sunshine. She applied to Mrs. Allen, and Mrs. Allen’s opinion was more positive. "She had no doubt in the world of its being a very fine day, if the clouds would only go off, and the sun keep out."

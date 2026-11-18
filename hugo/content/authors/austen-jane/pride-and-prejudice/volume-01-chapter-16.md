@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 16"
 weight: 16
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-16.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-16.html"
 ---
 
 As no objection was made to the young people's engagement with their aunt, and all Mr. Collins's scruples of leaving Mr. and Mrs. Bennet for a single evening during his visit were most steadily resisted, the coach conveyed him and his five cousins at a suitable hour to Meryton; and the girls had the pleasure of hearing, as they entered the drawing-room, that Mr. Wickham had accepted their uncle's invitation, and was then in the house.

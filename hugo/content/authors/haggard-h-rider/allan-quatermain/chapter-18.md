@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - War! Red War!"
 weight: 19
-aliases:
-  - "/authors/haggard-h-rider/allan-quatermain/chapter-18.html"
+url: "/authors/haggard-h-rider/allan-quatermain/chapter-18.html"
 ---
 
 Telling Umslopogaas to wait, I tumbled into my clothes and went off with him to Sir Henry’s room, where the Zulu repeated his story word for word. It was a sight to watch Curtis’ face as he heard it.

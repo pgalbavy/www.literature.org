@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Rescue And A Surprise"
 weight: 13
-aliases:
-  - "/authors/williams-frank/the-wilderness-trail/chapter-13.html"
+url: "/authors/williams-frank/the-wilderness-trail/chapter-13.html"
 ---
 
 There was in Donald, as in all who battle with the monstrous moods of nature, a certain calm fatalism, or acceptance of the inevitable. When he had recovered his self-possession and the full use of his faculties, he got to his feet again, and made a second inspection of the camp. As he had noted at first, the place was stripped clean. An old bit of moose-gut, which had evidently been taken from a worn snowshoe, was the only thing to be found in the shanty. The string was some six feet long, and McTavish, with the trapper's instinct of hoarding every possible item, rolled it up and put it in his pocket. Of food there was none; Maria had done her best to put him beyond the need of sustenance, but, now that he was himself once more, the yearning to eat seized his vitals, and he knew he must make all haste to satisfy it. When he was struck, his snowshoes had been on his feet, and the Indians in their haste, or because of the darkness, had not removed them, so he had this slight help in the problems he faced. Suddenly, something caught McTavish's ear as he stood listening, a sort of rushing, roaring sound like waters, yet muffled as though coming from a cañon. Having no pocket compass, he had to find directions by the moss at the foot of a tree. As he dug with a snowshoe, the end of the racket struck something hard. With an effort, he rolled this up to view, and found it to be the shoulder-blade of a bear, smooth and white, when cleaned of the snow and leaves that clung to it.

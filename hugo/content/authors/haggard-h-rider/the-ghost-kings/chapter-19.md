@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Rachel Finds Her Spirit"
 weight: 20
-aliases:
-  - "/authors/haggard-h-rider/the-ghost-kings/chapter-19.html"
+url: "/authors/haggard-h-rider/the-ghost-kings/chapter-19.html"
 ---
 
 Northward, ever northward, journeyed Rachel with the Ghost-priests; for days and weeks they journeyed, slowly, and for the most part at night, since these people dreaded the glare of the sun. Sometimes she was borne along in a litter with Noie upon the shoulders of the huge slaves, but more often she walked between the litters in the midst of a guard of soldiers, for now she was so strong that she never seemed to weary, nor even in the fever swamps where many fell ill, did any sickness touch her. Also this labour of the body seemed to soothe her wandering and tormented mind, as did the touch of Noie’s hand and the sound of Noie’s voice. At times, however, her madness got hold of her and she broke out into those bursts of wild laughter which had scared the Zulus. Then Eddo would descend from his litter and lay his long fingers on her forehead and look into her eyes in such a fashion that she went to sleep and was at peace. But if Noie spoke to her in these sleeps, she answered her questions, and even talked reasonably as she had done before the people of Mafooti laid the body of Richard at her feet, and she stood upon the roof of the hut which Ishmael strove to climb.

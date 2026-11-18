@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Covert Of Wings"
 weight: 20
-aliases:
-  - "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-20.html"
+url: "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-20.html"
 ---
 
 "Oh, the faith of youth, the faith that reaches out to give itself," sighed father as he turned to his papers.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 22
-aliases:
-  - "/authors/chambers-robert-w/ailsa-paige/chapter-21.html"
+url: "/authors/chambers-robert-w/ailsa-paige/chapter-21.html"
 ---
 
 Early in October the Union Cavalry began their favourite pastime of "chasing" Stuart. General Pleasanton with a small force and a horse battery began it, marching seventy-eight miles in twenty-four hours; but Stuart marched ninety in the same time. He had to.

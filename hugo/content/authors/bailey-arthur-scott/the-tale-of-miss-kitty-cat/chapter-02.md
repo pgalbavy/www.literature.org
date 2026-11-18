@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Dog Spot's Plans"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-02.html"
 ---
 
 SOMEHOW old dog Spot and Miss Kitty Cat never became good friends. By the time Miss Kitty Cat arrived on the farm in Pleasant Valley Spot had lived there several years.

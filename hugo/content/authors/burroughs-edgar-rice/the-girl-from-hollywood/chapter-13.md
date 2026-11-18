@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-13.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-13.html"
 ---
 
 As Shannon Burke alighted from the Southern Pacific train at Ganado, the following morning, a large, middle-aged man in riding clothes approached her.

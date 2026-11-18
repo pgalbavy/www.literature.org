@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 40 - In Which The Story Of The Captive Is Continued"
 weight: 43
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-40.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-40.html"
 ---
 
 *SONNET*

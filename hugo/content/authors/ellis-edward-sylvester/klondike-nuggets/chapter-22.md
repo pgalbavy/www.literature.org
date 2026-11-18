@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - A Lion In The Path"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-22.html"
 ---
 
 To put it mildly, the man was astonished. Not dreaming the boy was armed, he had been foolish enough to announce that he had brought him to terms by the display of a useless weapon. He stared in amazement at Roswell, and then elevated both hands. The boy laughed.

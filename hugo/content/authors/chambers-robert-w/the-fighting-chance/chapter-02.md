@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Imprudence"
 weight: 2
-aliases:
-  - "/authors/chambers-robert-w/the-fighting-chance/chapter-02.html"
+url: "/authors/chambers-robert-w/the-fighting-chance/chapter-02.html"
 ---
 
 A house of native stone built into and among weather-scarred rocks, one massive wing butting seaward, others nosing north and south among cedars and outcropping ledges—the whole silver-grey mass of masonry reddening under a westering sun, every dormer, every leaded diamond pane aflame; this was Shotover as Siward first beheld it.

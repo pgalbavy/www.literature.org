@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/baum-l-frank/rinkitink-in-oz/chapter-17.html"
+url: "/authors/baum-l-frank/rinkitink-in-oz/chapter-17.html"
 ---
 
 The Kingdom of the Nomes does not border on the Nonestic Ocean, from which it is separated by the Kingdom of Rinkitink and the Country of the Wheelers, which is a part of the Land of Ev. Rinkitink's country is separated from the country of the Nomes by a row of high and steep mountains, from which it extends to the sea. The Country of the Wheelers is a sandy waste that is open on one side to the Nonestic Ocean and on the other side has no barrier to separate it from the Nome Country, therefore it was on the coast of the Wheelers that King Cos landed -- in a spot quite deserted by any of the curious inhabitants of that country.

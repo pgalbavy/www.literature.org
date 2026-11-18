@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Friend In Need"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-24.html"
 ---
 
 While these lively scenes were taking place, Warren Starr was not idle. The report of his gun was plainly heard by the other Sioux and the captive, but the former took it for granted that it was fired by their comrade, and calmly awaited his return with the news of the death of the fugitive.

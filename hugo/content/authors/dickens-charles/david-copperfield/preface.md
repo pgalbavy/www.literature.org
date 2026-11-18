@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/dickens-charles/david-copperfield/preface.html"
+url: "/authors/dickens-charles/david-copperfield/preface.html"
 ---
 
 PREFACE TO 1850 EDITION

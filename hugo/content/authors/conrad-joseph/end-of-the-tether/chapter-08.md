@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/conrad-joseph/end-of-the-tether/chapter-08.html"
+url: "/authors/conrad-joseph/end-of-the-tether/chapter-08.html"
 ---
 
 For a while after his second’s answering hoot Massy hung over the engine-room gloomily. Captain Whalley, who, by the power of five hundred pounds, had kept his command for three years, might have been suspected of never having seen that coast before. He seemed unable to put down his glasses, as though they had been glued under his contracted eyebrows. This settled frown gave to his face an air of invincible and just severity; but his raised elbow trembled slightly, and the perspiration poured from under his hat as if a second sun had suddenly blazed up at the zenith by the side of the ardent still globe already there, in whose blinding white heat the earth whirled and shone like a mote of dust.

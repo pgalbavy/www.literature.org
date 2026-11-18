@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-27.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-27.html"
 ---
 
 Day broke, grey and chill. The boat was close-hauled on a fresh breeze and the compass indicated that we were just making the course which would bring us to Japan. Though stoutly mittened, my fingers were cold, and they pained from the grip on the steering- oar. My feet were stinging from the bite of the frost, and I hoped fervently that the sun would shine.

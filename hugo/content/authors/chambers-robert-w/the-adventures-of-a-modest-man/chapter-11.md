@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Destiny"
 weight: 11
-aliases:
-  - "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-11.html"
+url: "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-11.html"
 ---
 
 He had taken her in and was apparently climbing rapidly through the seven Heavens of rapture—having arrived as far as the third unchecked and without mishap. It is not probable that she kept pace with him: she had other things to think of.

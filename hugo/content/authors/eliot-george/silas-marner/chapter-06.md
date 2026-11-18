@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/eliot-george/silas-marner/chapter-06.html"
+url: "/authors/eliot-george/silas-marner/chapter-06.html"
 ---
 
 The conversation, which was at a high pitch of animation when Silas approached the door of the Rainbow, had, as usual, been slow and intermittent when the company first assembled. The pipes began to be puffed in a silence which had an air of severity; the more important customers, who drank spirits and sat nearest the fire, staring at each other as if a bet were depending on the first man who winked; while the beer-drinkers, chiefly men in fustian jackets and smock-frocks, kept their eyelids down and rubbed their hands across their mouths, as if their draughts of beer were a funereal duty attended with embarrassing sadness. At last Mr. Snell, the landlord, a man of a neutral disposition, accustomed to stand aloof from human differences as those of beings who were all alike in need of liquor, broke silence, by saying in a doubtful tone to his cousin the butcher -

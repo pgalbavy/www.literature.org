@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 15"
 weight: 64
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-03-chapter-15.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-03-chapter-15.html"
 ---
 
 At eight o'clock Kutuzov rode to Pratzen at the head of the fourth column, Miloradovich's, the one that was to take the place of Przebyszewski's and Langeron's columns which had already gone down into the valley. He greeted the men of the foremost regiment and gave them the order to march, thereby indicating that he intended to lead that column himself. When he had reached the village of Pratzen he halted. Prince Andrew was behind, among the immense number forming the commander in chief's suite. He was in a state of suppressed excitement and irritation, though controlledly calm as a man is at the approach of a long-awaited moment. He was firmly convinced that this was the day of his Toulon, or his bridge of Arcola. How it would come about he did not know, but he felt sure it would do so. The locality and the position of our troops were known to him as far as they could be known to anyone in our army. His own strategic plan, which obviously could not now be carried out, was forgotten. Now, entering into Weyrother's plan, Prince Andrew considered possible contingencies and formed new projects such as might call for his rapidity of perception and decision.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/greene-homer/the-guardsman/chapter-09.html"
+url: "/authors/greene-homer/the-guardsman/chapter-09.html"
 ---
 
 It did not take long for the news of Morosco’s contemplated resignation to filter through the rank and file of Company E. And every one assumed, as McCormack had done, that Brownell would go up, and that Barriscale would get a commission. There was no excitement concerning it, and little discussion. The second lieutenant was popular, and the enlisted men of the company were pleased with the contemplation of his prospective advancement. But Barriscale had not yet touched the popular heart, and, although no one criticized his qualities as a soldier or his efficiency as an orderly sergeant, at the same time no one became enthusiastic over the idea of his promotion. There was no outspoken opposition to his advancement among the men in the ranks; but one hanger-on of the company was not pleased with the outlook and did not hesitate to give expression to his thought. This was Chick Dalloway. He had never forgotten the night in the stack-room when both he and McCormack had suffered from young Barriscale’s abuse. He had not yet ceased to ridicule the elder Barriscale’s proposition to establish a fund for a prize, nor had he yet condoned the offense of which he believed the millionaire to be guilty in connection with Hal’s loss of his position at the bank. Moreover, his heart still burned with resentment whenever he thought of the indignity that had been placed upon his friend and mentor on the evening of Donatello’s ejectment from the armory.

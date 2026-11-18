@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Of Imagination"
 weight: 4
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-02.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-02.html"
 ---
 
 That when a thing lies still, unlesse somewhat els stirre it, it will lye still for ever, is a truth that no man doubts of. But that when a thing is in motion, it will eternally be in motion, unless somewhat els stay it, though the reason be the same, (namely, that nothing can change it selfe,) is not so easily assented to. For men measure, not onely other men, but all other things, by themselves: and because they find themselves subject after motion to pain, and lassitude, think every thing els growes weary of motion, and seeks repose of its own accord; little considering, whether it be not some other motion, wherein that desire of rest they find in themselves, consisteth. From hence it is, that the Schooles say, Heavy bodies fall downwards, out of an appetite to rest, and to conserve their nature in that place which is most proper for them; ascribing appetite, and Knowledge of what is good for their conservation, (which is more than man has) to things inanimate absurdly.

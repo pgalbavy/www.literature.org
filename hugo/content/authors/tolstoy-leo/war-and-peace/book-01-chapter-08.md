@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 8"
 weight: 8
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-01-chapter-08.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-01-chapter-08.html"
 ---
 
 The friends were silent. Neither cared to begin talking. Pierre continually glanced at Prince Andrew; Prince Andrew rubbed his forehead with his small hand.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-11.html"
+url: "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-11.html"
 ---
 
 Soon the entire party was gathered on the road of yellow bricks, quite beyond the reach of the beautiful but treacherous plants. The Shaggy Man, staring first at one and then at the other, seemed greatly pleased and interested.

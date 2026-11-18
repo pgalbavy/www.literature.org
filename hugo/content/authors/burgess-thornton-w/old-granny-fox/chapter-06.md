@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Old Granny Fox Is Caught Napping"
 weight: 6
-aliases:
-  - "/authors/burgess-thornton-w/old-granny-fox/chapter-06.html"
+url: "/authors/burgess-thornton-w/old-granny-fox/chapter-06.html"
 ---
 
 The wisest folks will make mistakes, but  

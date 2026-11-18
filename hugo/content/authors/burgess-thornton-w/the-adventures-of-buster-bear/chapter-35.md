@@ -1,8 +1,7 @@
 ---
 title: "chapter 35"
 weight: 999
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-35.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-35.html"
 ---
 
 A temper is a bad, bad thing  

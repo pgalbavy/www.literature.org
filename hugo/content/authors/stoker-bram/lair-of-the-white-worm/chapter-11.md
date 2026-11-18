@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/stoker-bram/lair-of-the-white-worm/chapter-11.html"
+url: "/authors/stoker-bram/lair-of-the-white-worm/chapter-11.html"
 ---
 
 After a couple of weeks had passed, the kite seemed to give Edgar Caswall a new zest for life. He was never tired of looking at its movements. He had a comfortable armchair put out on the tower, wherein he sat sometimes all day long, watching as though the kite was a new toy and he a child lately come into possession of it. He did not seem to have lost interest in Lilla, for he still paid an occasional visit at Mercy Farm.

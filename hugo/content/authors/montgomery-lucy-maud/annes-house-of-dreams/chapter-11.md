@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Story Of Leslie Moore"
 weight: 11
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-11.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-11.html"
 ---
 
 "Yes, the eighth baby arrived a fortnight ago," said Miss Cornelia, from a rocker before the fire of the little house one chilly October afternoon. "It's a girl. Fred was ranting mad--said he wanted a boy--when the truth is he didn't want it at all. If it had been a boy he'd have ranted because it wasn't a girl. They had four girls and three boys before, so I can't see that it made much difference what this one was, but of course he'd have to be cantankerous, just like a man. The baby is real pretty, dressed up in its nice little clothes. It has black eyes and the dearest, tiny hands."

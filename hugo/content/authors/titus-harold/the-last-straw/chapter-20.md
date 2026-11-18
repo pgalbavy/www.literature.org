@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - \"Work Among The Heathen\""
 weight: 20
-aliases:
-  - "/authors/titus-harold/the-last-straw/chapter-20.html"
+url: "/authors/titus-harold/the-last-straw/chapter-20.html"
 ---
 
 The chuck wagon had gone, followed by the bed wagon and the cavet, the last made up of one hundred and forty saddle horses, stringing along the road, a solid column of horse flesh. In a day the round-up would be on. Camp was to be made first far down on Coyote Creek and the country from Cathedral Tank eastward would first be ridden.

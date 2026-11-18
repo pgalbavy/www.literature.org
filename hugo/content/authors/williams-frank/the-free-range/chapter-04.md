@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Six Pistol Shots"
 weight: 4
-aliases:
-  - "/authors/williams-frank/the-free-range/chapter-04.html"
+url: "/authors/williams-frank/the-free-range/chapter-04.html"
 ---
 
 The next morning, after breakfast, which shortly followed the rising of the sun, Bissell called Bud Larkin aside just as that young man had headed for the corral to rope and saddle Pinte.

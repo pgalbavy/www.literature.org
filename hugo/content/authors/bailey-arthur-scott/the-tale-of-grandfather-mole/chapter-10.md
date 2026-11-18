@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Mrs. Robin's Wish"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-10.html"
 ---
 
 IN order to provide enough food for her children--as well as for the young Cowbird that she was bringing up--Mrs. Jolly Robin had to work hard every day. Though her husband gladly did what he could to help her, he complained sometimes about the stranger in their nest.

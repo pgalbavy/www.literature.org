@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/conrad-joseph/the-secret-agent/chapter-03.html"
+url: "/authors/conrad-joseph/the-secret-agent/chapter-03.html"
 ---
 
 " . . . All idealisation makes life poorer. To beautify it is to take away its character of complexity—it is to destroy it. Leave that to the moralists, my boy. History is made by men, but they do not make it in their heads. The ideas that are born in their consciousness play an insignificant part in the march of events. History is dominated and determined by the tool and the production—by the force of economic conditions. Capitalism has made socialism, and the laws made by the capitalism for the protection of property are responsible for anarchism. No one can tell what form the social organisation may take in the future. Then why indulge in prophetic phantasies? At best they can only interpret the mind of the prophet, and can have no objective value. Leave that pastime to the moralists, my boy."

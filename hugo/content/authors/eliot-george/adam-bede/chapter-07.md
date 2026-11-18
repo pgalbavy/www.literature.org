@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Dairy"
 weight: 7
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-07.html"
+url: "/authors/eliot-george/adam-bede/chapter-07.html"
 ---
 
 THE dairy was certainly worth looking at: it was a scene to sicken for with a sort of calenture in hot and dusty streets - such coolness, such purity, such fresh fragrance of new-pressed cheese, of firm butter, of wooden vessels perpetually bathed in pure water; such soft colouring of red earthenware and creamy surfaces, brown wood and polished tin, grey limestone and rich orange-red rust on the iron weights and hooks and hinges. But one gets only a confused notion of these details when they surround a distractingly pretty girl of seventeen, standing on little pattens and rounding her dimpled arm to lift a pound of butter out of the scale.

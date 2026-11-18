@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Threads Meet"
 weight: 25
-aliases:
-  - "/authors/williams-frank/the-free-range/chapter-25.html"
+url: "/authors/williams-frank/the-free-range/chapter-25.html"
 ---
 
 It could not have been later than ten o'clock in the morning when a puncher with sharp eyes might have seen two figures approaching the Bar T ranch house on horseback. They rode needlessly close together and swung their clasped and gauntleted hands like happy children.

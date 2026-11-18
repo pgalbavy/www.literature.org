@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - A Stroke Of Lightning"
 weight: 23
-aliases:
-  - "/authors/greene-homer/burnham-breaker/chapter-23.html"
+url: "/authors/greene-homer/burnham-breaker/chapter-23.html"
 ---
 
 It was a hot day at Burnham Breaker. The sun of midsummer beat fiercely upon the long and sloping roofs and against the coal-black sides of the giant building.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 66 - Remember!"
 weight: 66
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-66.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-66.html"
 ---
 
 The mob had already assembled when the confession terminated. The king's children next arrived - the Princess Charlotte, a beautiful, fair-haired child, with tears in her eyes, and the Duke of Gloucester, a boy eight or nine years old, whose tearless eyes and curling lip revealed a growing pride. He had wept all night long, but would not show his grief before the people.

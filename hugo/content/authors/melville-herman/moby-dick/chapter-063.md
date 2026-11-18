@@ -1,8 +1,7 @@
 ---
 title: "Chapter 63 - The Crotch"
 weight: 63
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-063.html"
+url: "/authors/melville-herman/moby-dick/chapter-063.html"
 ---
 
 Out of the trunk, the branches grow; out of them, the twigs. So, in productive subjects, grow the chapters.

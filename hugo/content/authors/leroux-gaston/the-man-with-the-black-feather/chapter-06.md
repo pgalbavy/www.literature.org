@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Portrait"
 weight: 7
-aliases:
-  - "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-06.html"
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-06.html"
 ---
 
 The three friends stared at the three watches, the six handkerchiefs, the four pocket-books, and the eighteen purses in a blank and silent consternation.

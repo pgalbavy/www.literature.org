@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - Mr. Hoopdriver, Knight Errant"
 weight: 32
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-32.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-32.html"
 ---
 
 As Mr. Dangle bad witnessed, the fugitives had been left by him by the side of the road about two miles from Botley. Before Mr. Dangle's appearance, Mr. Hoopdriver had been learning with great interest that mere roadside flowers had names,--star-flowers, wind-stars, St. John's wort, willow herb, lords and ladies, bachelor's buttons,--most curious names, some of them. "The flowers are all different in South Africa, y'know," he was explaining with a happy fluke of his imagination to account for his ignorance. Then suddenly, heralded by clattering sounds and a gride of wheels, Dangle had flared and thundered across the tranquillity of the summer evening; Dangle, swaying and gesticulating behind a corybantic black horse, had hailed Jessie by her name, had backed towards the hedge for no ostensible reason, and vanished to the accomplishment of the Fate that had been written down for him from the very beginning of things. Jessie and Hoopdriver had scarcely time to stand up and seize their machines, before this tumultuous, this swift and wonderful passing of Dangle was achieved. He went from side to side of the road,--worse even than the riding forth of Mr. Hoopdriver it was, --and vanished round the corner.

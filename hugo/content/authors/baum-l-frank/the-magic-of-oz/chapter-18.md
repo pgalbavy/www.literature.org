@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 19
-aliases:
-  - "/authors/baum-l-frank/the-magic-of-oz/chapter-18.html"
+url: "/authors/baum-l-frank/the-magic-of-oz/chapter-18.html"
 ---
 
 He first set up a small silver tripod and placed a gold basin at the top of it. Into this basin he put two powders--a pink one and a sky-blue one--and poured over them a yellow liquid from a crystal vial. Then he mumbled some magic words, and the powders began to sizzle and burn and send out a cloud of violet smoke that floated across the river and completely enveloped both Trot and Cap'n Bill, as well as the toadstools on which they sat, and even the Magic Plant in the gold flower-pot. Then, after the smoke had disappeared into air, the Wizard called out to the prisoners:

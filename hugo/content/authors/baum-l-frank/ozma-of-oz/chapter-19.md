@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 20
-aliases:
-  - "/authors/baum-l-frank/ozma-of-oz/chapter-19.html"
+url: "/authors/baum-l-frank/ozma-of-oz/chapter-19.html"
 ---
 
 If there were any shifting, rock-colored Nomes on the mountain side now, they were silent and respectful, for our adventurers were not annoyed, as before, by their impudent laughter. Really the Nomes had nothing to laugh at, since the defeat of their King.

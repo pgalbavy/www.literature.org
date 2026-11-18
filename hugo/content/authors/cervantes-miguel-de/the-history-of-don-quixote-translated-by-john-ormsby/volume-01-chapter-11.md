@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 11 - What Befell Don Quixote With Certain Goatherds"
 weight: 14
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-11.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-11.html"
 ---
 
 He was cordially welcomed by the goatherds, and Sancho, having as best he could put up Rocinante and the ass, drew towards the fragrance that came from some pieces of salted goat simmering in a pot on the fire; and though he would have liked at once to try if they were ready to be transferred from the pot to the stomach, he refrained from doing so as the goatherds removed them from the fire, and laying sheepskins on the ground, quickly spread their rude table, and with signs of hearty good-will invited them both to share what they had. Round the skins six of the men belonging to the fold seated themselves, having first with rough politeness pressed Don Quixote to take a seat upon a trough which they placed for him upside down. Don Quixote seated himself, and Sancho remained standing to serve the cup, which was made of horn. Seeing him standing, his master said to him:

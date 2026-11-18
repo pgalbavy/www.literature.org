@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 7"
 weight: 60
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-05-chapter-07.html"
+url: "/authors/cather-willa/one-of-ours/book-05-chapter-07.html"
 ---
 
 On the march at last; through a brilliant August day Colonel Scott's battalion was streaming along one of the dusty, well-worn roads east of the Somme, their railway base well behind them. The way led through rolling country; fields, hills, woods, little villages shattered but still habitable, where the people came out to watch the soldiers go by.

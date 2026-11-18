@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 34
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-33.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-33.html"
 ---
 
 For two years Michael sang his way over the United States, to fame for himself and to fortune for Jacob Henderson. There was never any time off. So great was his success, that Henderson refused flattering offers to cross the Atlantic to show in Europe. But off-time did come to Michael when Henderson fell ill of typhoid in Chicago.

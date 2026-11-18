@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 7"
 weight: 8
-aliases:
-  - "/authors/cather-willa/my-antonia/book-01-chapter-07.html"
+url: "/authors/cather-willa/my-antonia/book-01-chapter-07.html"
 ---
 
 MUCH AS I LIKED Antonia, I hated a superior tone that she sometimes took with me. She was four years older than I, to be sure, and had seen more of the world; but I was a boy and she was a girl, and I resented her protecting manner. Before the autumn was over, she began to treat me more like an equal and to defer to me in other things than reading lessons. This change came about from an adventure we had together.

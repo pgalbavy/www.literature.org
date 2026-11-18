@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 3"
 weight: 3
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-01-chapter-03.html"
+url: "/authors/buck-charles-neville/destiny/part-01-chapter-03.html"
 ---
 
 In the Burton household that fall, a leaven was working. Mary's mismatched eyes held a tranquillity of quiet self-satisfaction. She had found somewhere a second fashion magazine and often when she was alone in the little room under the eaves she snipped industriously away at the imaginary patterns of gorgeous gowns, or listened to the fervent pleadings of make-believe suitors.

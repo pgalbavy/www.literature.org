@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Echo Of A World Tragedy"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-18.html"
 ---
 
 Sunday proved the most dismal day during the outing of the Boy Scouts in the woods of Southern Maine. The rain which set in on the previous evening continued, with only an occasional let-up, until late at night. So dense a fog overhung the lake that not once was the party able to detect the opposite shore, where Doctor Spellman and his family passed the dreary hours as best they could. The Sabbath was always observed by the Boy Scouts. Had the weather been good, they would have refrained from making excursions through the forest, fishing or anything in the nature of amusement. While Scout Master Hall might be regarded by some as puritanical in a few of his ideas, he was broad minded and held a wholesome broadness of views, with a full sympathy for boyhood which explained his popularity among his younger associates.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Looks After Oliver, And Proceeds With His Adventures"
 weight: 28
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-28.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-28.html"
 ---
 
 'Wolves tear your throats!' muttered Sikes, grinding his teeth. 'I wish I was among some of you; you'd howl the hoarser for it.'

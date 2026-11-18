@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 5 - Tom Applies His Knife To The Oyster"
 weight: 25
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-03-chapter-05.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-03-chapter-05.html"
 ---
 
 The next day, at ten o'clock, Tom was on his way to St. Ogg's, to see his uncle Deane, who was to come home last night, his aunt had said; and Tom had made up his mind that his uncle Deane was the right person to ask for advice about getting some employment. He was in a great way of business; he had not the narrow notions of uncle Glegg; and he had risen in the world on a scale of advancement which accorded with Tom's ambition.

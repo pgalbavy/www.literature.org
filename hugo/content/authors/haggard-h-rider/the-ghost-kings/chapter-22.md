@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - In The Sanctuary"
 weight: 23
-aliases:
-  - "/authors/haggard-h-rider/the-ghost-kings/chapter-22.html"
+url: "/authors/haggard-h-rider/the-ghost-kings/chapter-22.html"
 ---
 
 Nya ceased her singing, and the dwarf women their beating on the drums.

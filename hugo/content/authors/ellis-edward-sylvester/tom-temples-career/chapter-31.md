@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Herr Schmidt"
 weight: 31
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-31.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-31.html"
 ---
 
 IT *WAS* twilight of the second day. They had exchanged the stage-coach for a rude wagon, which jolted uncomfortably over the rough roads. They had traveled for the greater part of two days, yet were less than eighty miles from San Francisco. It was a wearisome mode of traveling, and they were all tired. The party consisted of but four: Gates, Morton, Tom, and a stout Dutchman, who bewailed his miseries most of all.

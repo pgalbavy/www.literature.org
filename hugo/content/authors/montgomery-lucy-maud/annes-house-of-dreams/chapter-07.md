@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Schoolmaster's Bride"
 weight: 7
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-07.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-07.html"
 ---
 
 "Who was the first bride who came to this house, Captain Jim?" Anne asked, as they sat around the fireplace after supper.

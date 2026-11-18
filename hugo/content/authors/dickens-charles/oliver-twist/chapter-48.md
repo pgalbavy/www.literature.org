@@ -1,8 +1,7 @@
 ---
 title: "Chapter 48 - The Flight Of Sikes"
 weight: 48
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-48.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-48.html"
 ---
 
 Of all bad deeds that, under cover of the darkness, had been committed within wide London's bounds since night hung over it, that was the worst. Of all the horrors that rose with an ill scent upon the morning air, that was the foulest and most cruel.

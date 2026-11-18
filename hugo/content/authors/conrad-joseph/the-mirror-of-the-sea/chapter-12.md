@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-12.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-12.html"
 ---
 
 So sail did get shortened more or less in time even in that ship, and her tall spars never went overboard while I served in her. However, all the time I was with them, Captain S— and Mr. P— did not get on very well together. If P— carried on "like the very devil" because he was too deaf to know how much wind there was, Captain S— (who, as I have said, seemed constitutionally incapable of ordering one of his officers to shorten sail) resented the necessity forced upon him by Mr. P—’s desperate goings on. It was in Captain S—’s tradition rather to reprove his officers for not carrying on quite enough—in his phrase "for not taking every ounce of advantage of a fair wind." But there was also a psychological motive that made him extremely difficult to deal with on board that iron clipper. He had just come out of the marvellous *Tweed*, a ship, I have heard, heavy to look at but of phenomenal speed. In the middle sixties she had beaten by a day and a half the steam mail-boat from Hong Kong to Singapore. There was something peculiarly lucky, perhaps, in the placing of her masts—who knows? Officers of men-of-war used to come on board to take the exact dimensions of her sail-plan. Perhaps there had been a touch of genius or the finger of good fortune in the fashioning of her lines at bow and stern. It is impossible to say. She was built in the East Indies somewhere, of teak-wood throughout, except the deck. She had a great sheer, high bows, and a clumsy stern. The men who had seen her described her to me as "nothing much to look at." But in the great Indian famine of the seventies that ship, already old then, made some wonderful dashes across the Gulf of Bengal with cargoes of rice from Rangoon to Madras.

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 16"
 weight: 16
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-02-chapter-16.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-02-chapter-16.html"
 ---
 
 He waited in his cave a minute, and lit a cigarette, so that he could remark on rejoining her, “I bolted in to get out of the draught,” or something of the sort. When he returned, he found the guide, alone, with his head on one side. He had heard a noise, he said, and then Aziz heard it too: the noise of a motor-car. They were now on the outer shoulder of the Kawa Dol, and by scrambling twenty yards they got a glimpse of the plain. A car was coming towards the hills down the Chandrapore road. But they could not get a good view of it, because the precipitous bastion curved at the top, so that the base was not easily seen and the car disappeared as it came nearer. No doubt it would stop almost exactly beneath them, at the place where the pukka road degenerated into a path, and the elephant had turned to sidle into the hills.

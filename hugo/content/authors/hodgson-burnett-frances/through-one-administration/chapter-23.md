@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-23.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-23.html"
 ---
 
 "On dit that the charming Mrs. Sylvestre, so well known and so greatly admired in society circles as Miss Agnes Wentworth, has, after several years of absence, much deplored by her numberless friends, returned to make her home in Washington, having taken a house on Lafayette Square. The three years of Mrs. Sylvestre's widowhood have been spent abroad, chiefly in Italy,--the land of love and beauty,--where Tasso sang and Raphael dreamed of the Immortals."

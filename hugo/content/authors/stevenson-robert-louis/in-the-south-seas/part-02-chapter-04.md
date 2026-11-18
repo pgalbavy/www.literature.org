@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 4 - Traits And Sects In The Paumotus"
 weight: 19
-aliases:
-  - "/authors/stevenson-robert-louis/in-the-south-seas/part-02-chapter-04.html"
+url: "/authors/stevenson-robert-louis/in-the-south-seas/part-02-chapter-04.html"
 ---
 
 The most careless reader must have remarked a change of air since the Marquesas. The house, crowded with effects, the bustling housewife counting her possessions, the serious, indoctrinated island pastor, the long fight for life in the lagoon: here are traits of a new world. I read in a pamphlet (I will not give the author’s name) that the Marquesan especially resembles the Paumotuan. I should take the two races, though so near in neighbourhood, to be extremes of Polynesian diversity. The Marquesan is certainly the most beautiful of human races, and one of the tallest—the Paumotuan averaging a good inch shorter, and not even handsome; the Marquesan open-handed, inert, insensible to religion, childishly self-indulgent—the Paumotuan greedy, hardy, enterprising, a religious disputant, and with a trace of the ascetic character.

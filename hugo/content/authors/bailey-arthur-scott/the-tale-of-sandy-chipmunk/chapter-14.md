@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Lucky Accident"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-14.html"
 ---
 
 It was really no wonder that Johnnie Green's grandmother screamed, when she and Johnnie and Sandy Chipmunk were on their way to the miller's to get the wheat ground into flour.

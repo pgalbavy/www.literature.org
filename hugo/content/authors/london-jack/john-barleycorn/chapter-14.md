@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-14.html"
+url: "/authors/london-jack/john-barleycorn/chapter-14.html"
 ---
 
 Back in Oakland from my wanderings, I returned to the water-front and renewed my comradeship with Nelson, who was now on shore all the time and living more madly than before. I, too, spent my time on shore with him, only occasionally going for cruises of several days on the bay to help out on short-handed scow-schooners.

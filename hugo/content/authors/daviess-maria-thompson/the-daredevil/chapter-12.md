@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Beautiful Madam Whitworth"
 weight: 12
-aliases:
-  - "/authors/daviess-maria-thompson/the-daredevil/chapter-12.html"
+url: "/authors/daviess-maria-thompson/the-daredevil/chapter-12.html"
 ---
 
 Sue then made for me many introductions and all of those lovely grande dames gave to me affectionate welcomes. Some of them I had encountered at the dance of the Gouverneur Faulkner and all of them had smiles for me.

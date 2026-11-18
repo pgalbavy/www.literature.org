@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - An Execution"
 weight: 3
-aliases:
-  - "/authors/leblanc-maurice/the-three-eyes/chapter-03.html"
+url: "/authors/leblanc-maurice/the-three-eyes/chapter-03.html"
 ---
 
 It must be understood that, notwithstanding the explanations which I must needs offer, the development of all these events took but very little time: exactly eighteen seconds, as I had the opportunity of calculating afterwards. But, during these eighteen seconds--and this again I observed on many an occasion--the spectator received the illusion of watching a complete drama, with its preliminary expositions, its plot and its culmination. And when this obscure, illogical drama was over, you questioned what you had seen, just as you question the nightmare which wakes you from your sleep.

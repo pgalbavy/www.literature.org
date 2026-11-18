@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 17"
 weight: 17
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-01-chapter-17.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-01-chapter-17.html"
 ---
 
 After Anna Mikhaylovna had driven off with her son to visit Count Cyril Vladimirovich Bezukhov, Countess Rostova sat for a long time all alone applying her handkerchief to her eyes. At last she rang.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 24
-aliases:
-  - "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-23.html"
+url: "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-23.html"
 ---
 
 It didn't rain just then, although the clouds in the sky grew thicker and more threatening. Polychrome hoped for a thunder-storm, followed by her Rainbow, but the two tin men did not relish the idea of getting wet. They even preferred to remain in Nimmie Amee's house, although they felt they were not welcome there, rather than go out and face the coming storm. But the Scarecrow, who was a very thoughtful person, said to his friends:

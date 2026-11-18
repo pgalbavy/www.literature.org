@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-15.html"
+url: "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-15.html"
 ---
 
 A man whose outlook on life had been broader than Newt's, and whose brain did not receive constant poisoning from within, would have softened that fall and winter, because a new influence was working upon him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Thrilling Voyage"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-07.html"
 ---
 
 On the night that Ben Mayberry started across the bridge to deliver the cipher message to Mr. Burkhill in Moorestown, he had reached the center span before he felt he was in personal danger. The few lamps which twinkled at long distances from each other were barely enough for him to see where he was going, and they did little more than make the darkness visible.

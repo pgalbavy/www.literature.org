@@ -1,8 +1,7 @@
 ---
 title: "chapter 10"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-10.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-10.html"
 ---
 
 One morning the sisters were sketching by the side of Willey Water, at the remote end of the lake. Gudrun had waded out to a gravelly shoal, and was seated like a Buddhist, staring fixedly at the water-plants that rose succulent from the mud of the low shores. What she could see was mud, soft, oozy, watery mud, and from its festering chill, water-plants rose up, thick and cool and fleshy, very straight and turgid, thrusting out their leaves at right angles, and having dark lurid colours, dark green and blotches of black-purple and bronze. But she could feel their turgid fleshy structure as in a sensuous vision, she KNEW how they rose out of the mud, she KNEW how they thrust out from themselves, how they stood stiff and succulent against the air.

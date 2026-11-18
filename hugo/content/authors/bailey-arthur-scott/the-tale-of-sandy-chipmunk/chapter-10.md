@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Mr. Crow Scolds Sandy"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-10.html"
 ---
 
 When he finally reached home, after Sandy Chipmunk had been working for him all day, Mr. Crow was feeling very pleasant. You know, he thought that his winter's food must be in his house. And that alone is enough to make any one happy. But what Mr. Crow liked most about his bargain was the fact that he wouldn't have to pay Sandy for his work. He had said to Sandy: "I'll agree to give you half what you gather for me." And Sandy Chipmunk had never stopped to think that that was not any pay at all. For he might have gathered the food for himself, and had all, instead of only half of it. As it was, Sandy Chipmunk was paying himself for working for Mr. Crow. And Mr. Crow seemed to be the only one that was wise enough to know it.

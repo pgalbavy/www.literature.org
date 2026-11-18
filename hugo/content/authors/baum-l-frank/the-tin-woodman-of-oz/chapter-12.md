@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-12.html"
+url: "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-12.html"
 ---
 
 In her magnificent palace in the Emerald City, the beautiful girl Ruler of all the wonderful Land of Oz sat in her dainty boudoir with her friend Princess Dorothy beside her. Ozma was studying a roll of manuscript which she had taken from the Royal Library, while Dorothy worked at her embroidery and at times stooped to pat a shaggy little black dog that lay at her feet. The little dog's name was Toto, and he was Dorothy's faithful companion.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Man Appears"
 weight: 8
-aliases:
-  - "/authors/collins-wilkie/the-new-magdalen/chapter-08.html"
+url: "/authors/collins-wilkie/the-new-magdalen/chapter-08.html"
 ---
 
 After an interval of rest Mercy was aroused by the shutting of a glass door at the far end of the conservatory. This door, leading into the garden, was used only by the inmates of the house, or by old friends privileged to enter the reception-rooms by that way. Assuming that either Horace or Lady Janet was returning to the dining-room, Mercy raised herself a little on the' sofa and listened.

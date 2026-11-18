@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 1 - The Eastern Road"
 weight: 20
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-02-chapter-01.html"
+url: "/authors/buchan-john/the-half-hearted/part-02-chapter-01.html"
 ---
 
 If you travel abroad in certain seasons you will find that a type predominates among the travellers. From Dover to Calais, from Calais to Paris, there is an unnatural eagerness on faces, an unrest in gait, a disorder in dress which argues worry and haste. And if you inquire further, being of a speculative turn, you will find that there is something in the air. The papers, French and English, have ugly headlines and mystic leaders. Disquiet is in the atmosphere, each man has a solution or a secret, and far at the back sits some body of men who know that a crisis is near and square their backs for it. The journalist is sick with work and fancied importance; the diplomat's hair whitens with the game which he cannot understand; the statesman, if he be wise, is in fear, knowing the meaning of such movements, while, if he be foolish, he chirps optimistically in his speeches and is applauded in the press. There are grey faces at the seats of the money-changers, for war, the scourge of small cords, seems preparing for the overturning of their tables, and the castigation of their persons.

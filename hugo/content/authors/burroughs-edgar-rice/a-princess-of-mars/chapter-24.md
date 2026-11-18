@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Tars Tarkas Finds a Friend"
 weight: 24
-aliases:
-  - "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-24.html"
+url: "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-24.html"
 ---
 
 About noon I passed low over a great dead city of ancient Mars, and as I skimmed out across the plain beyond I came full upon several thousand green warriors engaged in a terrific battle. Scarcely had I seen them than a volley of shots was directed at me, and with the almost unfailing accuracy of their aim my little craft was instantly a ruined wreck, sinking erratically to the ground.

@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 1"
 weight: 1
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-01.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-01.html"
 ---
 
 It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.

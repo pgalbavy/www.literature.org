@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - The Missing One"
 weight: 30
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-30.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-30.html"
 ---
 
 Monteith Sterry was astounded by the declaration of Dick Hawkridge that some one had passed through the rear door while he was talking with Capt. Asbury.

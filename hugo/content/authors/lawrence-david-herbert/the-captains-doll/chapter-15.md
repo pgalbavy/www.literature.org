@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/lawrence-david-herbert/the-captains-doll/chapter-15.html"
+url: "/authors/lawrence-david-herbert/the-captains-doll/chapter-15.html"
 ---
 
 Ah, well, everything comes to an end, even the longest up-climb. So, after much sweat and effort and crossness, Hepburn and Hannele emerged on to the rounded bluff where the road wound out of that hideous great valley cleft into upper regions. So they emerged more on the level, out of the trees as out of something horrible, on to a naked, great bank of rock and grass.

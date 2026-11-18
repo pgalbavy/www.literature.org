@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44"
 weight: 44
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-44.html"
+url: "/authors/forster-e-m/howards-end/chapter-44.html"
 ---
 
 Tom’s father was cutting the big meadow. He passed again and again amid whirring blades and sweet odours of grass, encompassing with narrowing circles the sacred centre of the field. Tom was negotiating with Helen. “I haven’t any idea,” she replied. “Do you suppose baby may, Meg?”

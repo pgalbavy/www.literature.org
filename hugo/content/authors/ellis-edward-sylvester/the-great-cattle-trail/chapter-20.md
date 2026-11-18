@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - \"The Boys Have Arrived!\""
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-20.html"
 ---
 
 The embers on the hearth had smouldered so low that they were mere points of light that served to make the gloom deeper and more expressive. But suddenly a half-burned stick fell apart, and a little twist of flame filled almost the entire room with light.

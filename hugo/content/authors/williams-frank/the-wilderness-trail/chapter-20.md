@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Awaiting The Hangman"
 weight: 20
-aliases:
-  - "/authors/williams-frank/the-wilderness-trail/chapter-20.html"
+url: "/authors/williams-frank/the-wilderness-trail/chapter-20.html"
 ---
 
 Stretched on a rough bed of blanket-covered branches, in a low, squat log cabin, a man lay smoking his pipe, and conversing in snatches with two other men who sat by the door, also smoking pipes.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40 - Julius Makes Mischief"
 weight: 42
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-40.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-40.html"
 ---
 
 JULIUS DELAMAYN was alone, idly sauntering to and fro, with his violin in his hand, on the terrace at Swanhaven Lodge.

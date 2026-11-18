@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Prince Charming"
 weight: 6
-aliases:
-  - "/authors/alcott-louisa-may/rose-in-bloom/chapter-05.html"
+url: "/authors/alcott-louisa-may/rose-in-bloom/chapter-05.html"
 ---
 
 The old glove lay upon the floor forgotten while Rose sat musing, till a quick step sounded in the hall and a voice drew near, tunefully humming.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Lines Of Advance"
 weight: 17
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-home/chapter-16.html"
+url: "/authors/gilman-charlotte-perkins/the-home/chapter-16.html"
 ---
 
 It will be helpful and encouraging for us to examine the development of the home to this date, and its further tendencies; that we may cease to regret here, and learn to admire there; that we may use our personal powers definitely to resist the undertow of habit and prejudice, and definitely to promote all legitimate progress.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Death on the Moor"
 weight: 12
-aliases:
-  - "/authors/doyle-arthur-conan/the-hound-of-the-baskervilles/chapter-12.html"
+url: "/authors/doyle-arthur-conan/the-hound-of-the-baskervilles/chapter-12.html"
 ---
 
 For a moment or two I sat breathless, hardly able to believe my ears. Then my senses and my voice came back to me, while a crushing weight of responsibility seemed in an instant to be lifted from my soul. That cold, incisive, ironical voice could belong to but one man in all the world.

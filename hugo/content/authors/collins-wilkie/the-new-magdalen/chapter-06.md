@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Lady Janet's Companion"
 weight: 6
-aliases:
-  - "/authors/collins-wilkie/the-new-magdalen/chapter-06.html"
+url: "/authors/collins-wilkie/the-new-magdalen/chapter-06.html"
 ---
 
 IT is a glorious winter's day. The sky is clear, the frost is hard, the ice bears for skating.

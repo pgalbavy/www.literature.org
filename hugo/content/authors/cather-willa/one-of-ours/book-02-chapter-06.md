@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 6"
 weight: 25
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-02-chapter-06.html"
+url: "/authors/cather-willa/one-of-ours/book-02-chapter-06.html"
 ---
 
 After his interview with Mr. Royce, Claude drove directly to the mill house. As he came up the shady road, he saw with disappointment the flash of two white dresses instead of one, moving about in the sunny flower garden. The visitor was Gladys Farmer. This was her vacation time. She had walked out to the mill in the cool of the morning to spend the day with Enid. Now they were starting off to gather water-cresses, and had stopped in the garden to smell the heliotrope. On this scorching afternoon the purple sprays gave out a fragrance that hung over the flower-bed and brushed their cheeks like a warm breath. The girls looked up at the same moment and recognized Claude. They waved to him and hurried down to the gate to congratulate him on his recovery. He took their little tin pails and followed them around the old dam-head and up a sandy gorge, along a clear thread of water that trickled into Lovely Creek just above the mill. They came to the gravelly hill where the stream took its source from a spring hollowed out under the exposed roots of two elm trees. All about the spring, and in the sandy bed of the shallow creek, the cresses grew cool and green.

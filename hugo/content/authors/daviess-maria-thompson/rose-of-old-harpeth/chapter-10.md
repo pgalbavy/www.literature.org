@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - In The Hollow Of His Hand"
 weight: 10
-aliases:
-  - "/authors/daviess-maria-thompson/rose-of-old-harpeth/chapter-10.html"
+url: "/authors/daviess-maria-thompson/rose-of-old-harpeth/chapter-10.html"
 ---
 
 And the next morning a threatening, scowling, tossed-cloud dawn brought the day over the head of Old Harpeth down upon little Sweetbriar, which awakened with one accord to a sense of melancholy oppression. A cool, dust-laden wind blew down Providence Road, twisted the branches of the tall maples along the way, tore roughly at the festoons of blooming vines over the gables of the Briars, startled the nestled doves into a sad crooning, whipped mercilessly at the row of tall hollyhocks along the garden fence, flaunted the long spikes of jack-beans and carried their quaint fragrance to pour it over the bed of sober-colored mignonette, mixing it with the pungent zinnia odor and flinging it all over into the clover field across the briar hedge. The jovial old sun did his very best to light up the situation, but just as he would succeed in getting a ray down into the Valley a great puffy cloud would cast a gray shadow of suppression over his effort and retire him sternly for another half hour.

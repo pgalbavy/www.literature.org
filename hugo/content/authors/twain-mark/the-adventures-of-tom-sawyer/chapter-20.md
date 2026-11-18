@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-20.html"
+url: "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-20.html"
 ---
 
 THERE was something about Aunt Polly's manner, when she kissed Tom, that swept away his low spirits and made him lighthearted and happy again. He started to school and had the luck of coming upon Becky Thatcher at the head of Meadow Lane. His mood always determined his manner. Without a moment's hesitation he ran to her and said:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Don Runs Away"
 weight: 5
-aliases:
-  - "/authors/barnum-richard/don-a-runaway-dog/chapter-05.html"
+url: "/authors/barnum-richard/don-a-runaway-dog/chapter-05.html"
 ---
 
 Don, who had been barking and growling to make Squinty, the comical pig, go back to his pen, stopped suddenly, and grew very quiet when he saw the funny, hairy, four-handed animal, and also the one that seemed to have two tails. Don crouched down in the bushes to hide away, for, though he had not been afraid of the big, black bull, this queer beast was much larger, and so different.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/bronte-charlotte/the-professor/chapter-06.html"
+url: "/authors/bronte-charlotte/the-professor/chapter-06.html"
 ---
 
 I RE-ENTERED the town a hungry man; the dinner I had forgotten recurred seductively to my recollection; and it was with a quick step and sharp appetite I ascended the narrow street leading to my lodgings. It was dark when I opened the front door and walked into the house. I wondered how my fire would be; the night was cold, and I shuddered at the prospect of a grate full of sparkless cinders. To my joyful surprise, I found, on entering my sitting-room, a good fire and a clean hearth. I had hardly noticed this phenomenon, when I became aware of another subject for wonderment; the chair I usually occupied near the hearth was already filled; a person sat there with his. arms folded on his chest, and his legs stretched out on the rug. Short-sighted as I am, doubtful as was the gleam of the firelight, a moment's examination enabled me to recognize in this person my acquaintance, Mr. Hunsden. I could not of course be much pleased to see him, considering the manner in which I had parted from him the night before, and as I walked to the hearth, stirred the fire, and said coolly, "Good evening," my demeanour evinced as little cordiality as I felt; yet I wondered in my own mind what had brought him there; and I wondered, also, what motives had induced him to interfere so actively between me and Edward; it was to him, it appeared, that I owed my welcome dismissal; still I could not bring myself to ask him questions, to show any eagerness of curiosity; if he chose to explain, he might, but the explanation should be a perfectly voluntary one on his part; I thought he was entering upon it.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The First Rain"
 weight: 13
-aliases:
-  - "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-13.html"
+url: "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-13.html"
 ---
 
 Ramón and Cipriano were out by the lake. Cipriano also had changed into the white clothes and sandals, and he looked better than when in uniform.

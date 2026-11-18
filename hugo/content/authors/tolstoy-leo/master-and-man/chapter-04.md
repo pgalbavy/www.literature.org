@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/tolstoy-leo/master-and-man/chapter-04.html"
+url: "/authors/tolstoy-leo/master-and-man/chapter-04.html"
 ---
 
 The household to which Vasili Andreevich had come was one of the richest in the village. The family had five allotments, besides renting other land. They had six horses, three cows, two calves, and some twenty sheep. There were twenty-two members belonging to the homestead: four married sons, six grandchildren (one of whom, Petrushka, was married), two great-grandchildren, three orphans, and four daughters-in-law with their babies. It was one of the few homesteads that remained still undivided, but even here the dull internal work of disintegration which would inevitably lead to separation had already begun, starting as usual among the women. Two sons were living in Moscow as water-carriers, and one was in the army. At home now were the old man and his wife, their second son who managed the homestead, the eldest who had come from Moscow for the holiday, and all the women and children. Besides these members of the family there was a visitor, a neighbour who was godfather to one of the children.

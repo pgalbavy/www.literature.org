@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - The Ship O'dreams Comes To Harbor"
 weight: 34
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-34.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-34.html"
 ---
 
 One morning, when a windy golden sunrise was billowing over the gulf in waves of light, a certain weary stork flew over the bar of Four Winds Harbor on his way from the Land of Evening Stars. Under his wing was tucked a sleepy, starry-eyed, little creature. The stork was tired, and he looked wistfully about him. He knew he was somewhere near his destination, but he could not yet see it. The big, white light-house on the red sandstone cliff had its good points; but no stork possessed of any gumption would leave a new, velvet baby there. An old gray house, surrounded by willows, in a blossomy brook valley, looked more promising, but did not seem quite the thing either. The staring green abode further on was manifestly out of the question. Then the stork brightened up. He had caught sight of the very place--a little white house nestled against a big, whispering firwood, with a spiral of blue smoke winding up from its kitchen chimney--a house which just looked as if it were meant for babies. The stork gave a sigh of satisfaction, and softly alighted on the ridge-pole.

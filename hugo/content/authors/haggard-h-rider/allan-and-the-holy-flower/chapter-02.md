@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Auction Room"
 weight: 2
-aliases:
-  - "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-02.html"
+url: "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-02.html"
 ---
 
 I do not think that this conversion about the Pongo savages who were said to worship a Gorilla and a Golden Flower was renewed until we reached my house at Durban. Thither of course I took Mr. Charles Scroope, and thither also came Brother John who, as bedroom accommodation was lacking, pitched his tent in the garden.

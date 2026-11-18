@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Seven Scoundrels"
 weight: 14
-aliases:
-  - "/authors/leblanc-maurice/813/chapter-13.html"
+url: "/authors/leblanc-maurice/813/chapter-13.html"
 ---
 
 "Will you see this gentleman, ma'am?"

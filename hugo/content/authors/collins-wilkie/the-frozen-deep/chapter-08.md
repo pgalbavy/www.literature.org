@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/collins-wilkie/the-frozen-deep/chapter-08.html"
+url: "/authors/collins-wilkie/the-frozen-deep/chapter-08.html"
 ---
 
 The sailor on watch opened the outer door. There, plodding over the ghastly white snow, were the officers of the _Wanderer_ approaching the hut. There, scattered under the merciless black sky, were the crew, with the dogs and the sledges, waiting the word which was to start them on their perilous and doubtful journey.

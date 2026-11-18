@@ -1,8 +1,7 @@
 ---
 title: "Book 9 - Chapter 14"
 weight: 181
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-09-chapter-14.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-09-chapter-14.html"
 ---
 
 It was nearly three o'clock but no one was yet asleep, when the quartermaster appeared with an order to move on to the little town of Ostrovna. Still laughing and talking, the officers began hurriedly getting ready and again boiled some muddy water in the samovar. But Rostov went off to his squadron without waiting for tea. Day was breaking, the rain had ceased, and the clouds were dispersing. It felt damp and cold, especially in clothes that were still moist. As they left the tavern in the twilight of the dawn, Rostov and Ilyin both glanced under the wet and glistening leather hood of the doctor's cart, from under the apron of which his feet were sticking out, and in the middle of which his wife's nightcap was visible and her sleepy breathing audible.

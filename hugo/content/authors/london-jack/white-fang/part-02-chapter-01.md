@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 1 - The Battle Of The Fangs"
 weight: 4
-aliases:
-  - "/authors/london-jack/white-fang/part-02-chapter-01.html"
+url: "/authors/london-jack/white-fang/part-02-chapter-01.html"
 ---
 
 It was the she-wolf who had first caught the sound of men's voices and the whining of the sled-dogs; and it was the she-wolf who was first to spring away from the cornered man in his circle of dying flame. The pack had been loath to forego the kill it had hunted down, and it lingered for several minutes, making sure of the sounds, and then it, too, sprang away on the trail made by the she- wolf.

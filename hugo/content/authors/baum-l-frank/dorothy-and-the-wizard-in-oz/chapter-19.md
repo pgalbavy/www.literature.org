@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 20
-aliases:
-  - "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-19.html"
+url: "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-19.html"
 ---
 
 At three o'clock the Throne Room was crowded with citizens, men, women and children being eager to witness the great trial.

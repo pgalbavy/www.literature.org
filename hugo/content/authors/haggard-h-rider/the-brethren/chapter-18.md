@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Wulf Pays For The Drugged Wine"
 weight: 19
-aliases:
-  - "/authors/haggard-h-rider/the-brethren/chapter-18.html"
+url: "/authors/haggard-h-rider/the-brethren/chapter-18.html"
 ---
 
 Many a day had gone by since the brethren bade farewell to Rosamund at Damascus. Now, one burning July night, they sat upon their horses, the moonlight gleaming on their mail. Still as statues they sat, looking out from a rocky mountain top across that grey and arid plain which stretches from near Nazareth to the lip of the hills at whose foot lies Tiberias on the Sea of Galilee. Beneath them, camped around the fountain of Seffurieh, were spread the hosts of the Franks to which they did sentinel; thirteen hundred knights, twenty thousand foot, and hordes of Turcopoles--that is, natives of the country, armed after the fashion of the Saracens. Two miles away to the southeast glimmered the white houses of Nazareth, set in the lap of the mountains. Nazareth, the holy city, where for thirty years lived and toiled the Saviour of the world. Doubtless, thought Godwin, His feet had often trod that mountain whereon they stood, and in the watered vales below His hands had sped the plow or reaped the corn. Long, long had His voice been silent, yet to Godwin's ears it still seemed to speak in the murmur of the vast camp, and to echo from the slopes of the Galilean hills, and the words it said were: "I bring not peace, but a sword."

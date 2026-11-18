@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 2 - Juliet Asks Questions"
 weight: 18
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-02.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-02.html"
 ---
 
 "Any place," the girl exclaimed as she entered, "more unlike a solicitor's office, I never saw! Flowers outside and flowers on your desk, Mr. Pengarth! Don't you have to apologize to your clients for your surroundings? There's absolutely nothing, except the brass plate outside, to show that this isn't an old-fashioned farmhouse, stuck down in the middle of a village. Fuchsias in the window sill, too!"

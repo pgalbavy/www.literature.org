@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Library Chair"
 weight: 16
-aliases:
-  - "/authors/ostrander-isabel/the-crevice/chapter-16.html"
+url: "/authors/ostrander-isabel/the-crevice/chapter-16.html"
 ---
 
 "Paddington's on the run!" Ross, the operative, announced to Henry Blaine the next morning, jubilantly. "He left his rooms about an hour after I got back on the job, and went to Carlis' office. He only stayed a short time, and came out looking as black as a thunder-cloud--I guess the interview, whatever it was, didn't go his way. He went straight from there to Rockamore, the promoter. I pretended an errand with Rockamore, too, and so got into the outer office. The heavy glass door was closed between, and I couldn't hear anything but a muffled growling from within, but they were both angry enough, all right. Once the stenographer went in and came out again almost immediately. When the door opened to admit her, I heard Paddington fairly shout:

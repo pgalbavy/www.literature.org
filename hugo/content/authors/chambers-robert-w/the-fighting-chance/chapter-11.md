@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Call Of The Rain"
 weight: 11
-aliases:
-  - "/authors/chambers-robert-w/the-fighting-chance/chapter-11.html"
+url: "/authors/chambers-robert-w/the-fighting-chance/chapter-11.html"
 ---
 
 The park was very misty and damp and still that morning.

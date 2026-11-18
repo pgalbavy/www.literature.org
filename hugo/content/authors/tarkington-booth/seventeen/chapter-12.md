@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Progress Of The Symptoms"
 weight: 12
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-12.html"
+url: "/authors/tarkington-booth/seventeen/chapter-12.html"
 ---
 
 Mrs. *BAXTER'S* little stroke of diplomacy had gone straight to the mark, she was a woman of insight. For every reason she was well content to have her son spend his evenings at home, though it cannot be claimed that his presence enlivened the household, his condition being one of strange, trancelike irascibility. Evening after evening passed, while he sat dreaming painfully of Mr. Parcher's porch; but in the daytime, though William did not literally make hay while the sun shone, he at least gathered a harvest somewhat resembling hay in general character.

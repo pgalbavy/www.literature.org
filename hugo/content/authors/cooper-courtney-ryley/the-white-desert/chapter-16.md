@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/cooper-courtney-ryley/the-white-desert/chapter-16.html"
+url: "/authors/cooper-courtney-ryley/the-white-desert/chapter-16.html"
 ---
 
 It was a problem which Barry Houston, in spite of wakefulness, failed to solve. Next morning, eager for a repetition of the recital, in the hope of some forgotten detail, some clue which might lead him to an absolute decision, he sought the young doctor, only to find that he had left the train at dawn. A doorway of the past had been opened to Houston, only to be closed again before he could clearly discern beyond. He went on to Boston, still struggling to reconstruct it all, striving to figure what connection it might have had, but in vain. And with his departure from the train, new thoughts, new problems, arose to take the place of memories. His purposes now were of the future, not of the past.

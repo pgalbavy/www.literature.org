@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Zikali"
 weight: 12
-aliases:
-  - "/authors/haggard-h-rider/finished/chapter-11.html"
+url: "/authors/haggard-h-rider/finished/chapter-11.html"
 ---
 
 Ten days had gone by when once more I found myself drawing near to the mouth of the Black Kloof where dwelt Zikali the Wizard. Our journey in Zululand had been tedious and uneventful. It seemed to me that we met extraordinarily few people; it was as though the place had suddenly become depopulated, and I even passed great kraals where there was no one to be seen. I asked Nombe what was the meaning of this, for she and three silent men she had with her were acting as our guides. Once she answered that the people had moved because of lack of food, as the season had been one of great scarcity owing to drought, and once that they had been summoned to a gathering at the king's kraal near Ulundi. At any rate they were not there, and the few who did appear stared at us strangely.

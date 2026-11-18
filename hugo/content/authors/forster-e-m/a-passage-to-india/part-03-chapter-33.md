@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 33"
 weight: 33
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-03-chapter-33.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-03-chapter-33.html"
 ---
 
 Some hundreds of miles westward of the Marabar Hills, and two years later in time, Professor Narayan Godbole stands in the presence of God. God is not born yet—that will occur at midnight—but He has also been born centuries ago, nor can He ever be born, because He is the Lord of the Universe, who transcends human processes. He is, was not, is not, was. He and Professor Godbole stood at opposite ends of the same strip of carpet.

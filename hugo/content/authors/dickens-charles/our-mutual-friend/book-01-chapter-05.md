@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 5 - Boffin’s Bower"
 weight: 5
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-01-chapter-05.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-01-chapter-05.html"
 ---
 
 Over against a London house, a corner house not far from Cavendish Square, a man with a wooden leg had sat for some years, with his remaining foot in a basket in cold weather, picking up a living on this wise:--Every morning at eight o’clock, he stumped to the corner, carrying a chair, a clothes-horse, a pair of trestles, a board, a basket, and an umbrella, all strapped together. Separating these, the board and trestles became a counter, the basket supplied the few small lots of fruit and sweets that he offered for sale upon it and became a foot-warmer, the unfolded clothes-horse displayed a choice collection of halfpenny ballads and became a screen, and the stool planted within it became his post for the rest of the day. All weathers saw the man at the post. This is to be accepted in a double sense, for he contrived a back to his wooden stool, by placing it against the lamp-post. When the weather was wet, he put up his umbrella over his stock in trade, not over himself; when the weather was dry, he furled that faded article, tied it round with a piece of yarn, and laid it cross-wise under the trestles: where it looked like an unwholesomely-forced lettuce that had lost in colour and crispness what it had gained in size.

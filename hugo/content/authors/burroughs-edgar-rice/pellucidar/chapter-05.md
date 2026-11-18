@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Surprises"
 weight: 5
-aliases:
-  - "/authors/burroughs-edgar-rice/pellucidar/chapter-05.html"
+url: "/authors/burroughs-edgar-rice/pellucidar/chapter-05.html"
 ---
 
 But at last the allotted moment arrived--the moment for which I had been trying to prepare myself, for how long I could not even guess. A great Sagoth came and spoke some words of command to those who watched over me. I was jerked roughly to my feet and with little consideration hustled upward toward the higher levels.

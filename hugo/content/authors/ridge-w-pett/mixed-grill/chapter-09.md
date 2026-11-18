@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Foreign Affairs"
 weight: 9
-aliases:
-  - "/authors/ridge-w-pett/mixed-grill/chapter-09.html"
+url: "/authors/ridge-w-pett/mixed-grill/chapter-09.html"
 ---
 
 WE parted from Mr. Peter A. Chasemore at Bologna owing to a slight difference of opinion. Carolyn Stokes and myself had the notion that we should find Venice damp and possibly cold; Mr. Chasemore declared that to go home without seeing a gondola would give him a pain compared with which rheumatism might be considered a sensation of acute delight. There is no use denying the fact that we two women missed Mr. Chasemore a good deal. Confusion took place on the journey, for which I blamed Carolyn Stokes, and she blamed me. When with the assistance of luck we did reach the Belvedere our tempers were not improved by the fact that a young man and an elderly lady occupied, for the moment, the attention of the hotel people.

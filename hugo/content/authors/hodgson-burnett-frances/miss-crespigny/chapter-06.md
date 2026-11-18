@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Song"
 weight: 6
-aliases:
-  - "/authors/hodgson-burnett-frances/miss-crespigny/chapter-06.html"
+url: "/authors/hodgson-burnett-frances/miss-crespigny/chapter-06.html"
 ---
 
 Thus a friendship arose which, in the course of time, became a very close one. Colonel Esmond’s house was luxurious and pleasant, and everybody’s heart opened to a favorite of Georgie’s. Accordingly, Lisbeth’s niche in the family was soon found. It was rather agreeable to go among people who admired and were ready to love her, so she went pretty often. In fact, Georgie kept firm hold upon her. There appeared always some reason why it was specially necessary that Lisbeth should be with her. She had visitors, or she was alone and wanted company; she had some new music and wanted Lisbeth’s help, or she had found some old songs Lisbeth must try--Lisbeth, whose voice was so exquisite. Indeed, it was Lisbeth, Lisbeth, Lisbeth, from week to week, until more than one of Miss Esmond’s admirers wished that there had been no such person as Miss Crespigny in the world. As Anstruthers had said, Miss Georgie Esmond was quite a belle, in this the first year of her reign, and if she had been so inclined, it was generally believed that she might have achieved some very brilliant social triumphs, indeed. But I am afraid that she had the bad taste not to aspire as she might have done.

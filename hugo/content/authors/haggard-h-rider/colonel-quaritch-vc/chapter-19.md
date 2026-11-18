@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - In Pawn"
 weight: 19
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-19.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-19.html"
 ---
 
 At last she spoke, apparently with a great effort.

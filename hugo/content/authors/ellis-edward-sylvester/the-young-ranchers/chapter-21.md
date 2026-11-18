@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Away We Go!"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-21.html"
 ---
 
 One recourse was before the pursuing Sioux from the start: that was to shoot the horses of the fugitives. The wonder was that they had not aimed to do so from the first. With the couple dismounted, they would be at their mercy.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Pit of Plenty"
 weight: 11
-aliases:
-  - "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-11.html"
+url: "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-11.html"
 ---
 
 I did not languish long within the prison of Salensus Oll. During the short time that I lay there, fettered with chains of gold, I often wondered as to the fate of Thuvan Dihn, Jeddak of Ptarth.

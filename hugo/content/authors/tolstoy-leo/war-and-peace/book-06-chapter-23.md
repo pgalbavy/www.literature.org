@@ -1,8 +1,7 @@
 ---
 title: "Book 6 - Chapter 23"
 weight: 129
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-06-chapter-23.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-06-chapter-23.html"
 ---
 
 Prince Andrew needed his father's consent to his marriage, and to obtain this he started for the country next day.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Matthew Insists on Puffed Sleeves"
 weight: 25
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-25.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-25.html"
 ---
 
 Matthew was having a bad ten minutes of it. He had come into the kitchen, in the twilight of a cold, gray December evening, and had sat down in the woodbox corner to take off his heavy boots, unconscious of the fact that Anne and a bevy of her schoolmates were having a practice of "The Fairy Queen" in the sitting room. Presently they came trooping through the hall and out into the kitchen, laughing and chattering gaily. They did not see Matthew, who shrank bashfully back into the shadows beyond the woodbox with a boot in one hand and a bootjack in the other, and he watched them shyly for the aforesaid ten minutes as they put on caps and jackets and talked about the dialogue and the concert. Anne stood among them, bright eyed and animated as they; but Matthew suddenly became conscious that there was something about her different from her mates. And what worried Matthew was that the difference impressed him as being something that should not exist. Anne had a brighter face, and bigger, starrier eyes, and more delicate features than the other; even shy, unobservant Matthew had learned to take note of these things; but the difference that disturbed him did not consist in any of these respects. Then in what did it consist?

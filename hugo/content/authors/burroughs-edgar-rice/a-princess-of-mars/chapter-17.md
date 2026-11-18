@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Costly Recapture"
 weight: 17
-aliases:
-  - "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-17.html"
+url: "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-17.html"
 ---
 
 As the speaker ceased he turned to leave the apartment by the door where I was standing, but I needed to wait no longer; I had heard enough to fill my soul with dread, and stealing quietly away I returned to the courtyard by the way I had come. My plan of action was formed upon the instant, and crossing the square and the bordering avenue upon the opposite side I soon stood within the courtyard of Tal Hajus.

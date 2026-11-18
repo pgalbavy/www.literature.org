@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A White Vixen"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-17.html"
 ---
 
 The white mare that the blacksmith was shoeing looked much surprised when Twinkleheels told her he was not a colt.

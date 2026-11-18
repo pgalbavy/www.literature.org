@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - \"Silence Is Still The Order\""
 weight: 5
-aliases:
-  - "/authors/hodgson-burnett-frances/the-lost-prince/chapter-05.html"
+url: "/authors/hodgson-burnett-frances/the-lost-prince/chapter-05.html"
 ---
 
 They were even poorer than usual just now, and the supper Marco and his father sat down to was scant enough. Lazarus stood upright behind his master's chair and served him with strictest ceremony. Their poor lodgings were always kept with a soldierly cleanliness and order. When an object could be polished it was forced to shine, no grain of dust was allowed to lie undisturbed, and this perfection was not attained through the ministrations of a lodging house slavey. Lazarus made himself extremely popular by taking the work of caring for his master's rooms entirely out of the hands of the overburdened maids of all work. He had learned to do many things in his young days in barracks. He carried about with him coarse bits of table-cloths and towels, which he laundered as if they had been the finest linen. He mended, he patched, he darned, and in the hardest fight the poor must face--the fight with dirt and dinginess--he always held his own. They had nothing but dry bread and coffee this evening, but Lazarus had made the coffee and the bread was good.

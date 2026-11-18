@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Eleven Years In A Few Pages"
 weight: 24
-aliases:
-  - "/authors/verne-jules/an-antartic-mystery/chapter-24.html"
+url: "/authors/verne-jules/an-antartic-mystery/chapter-24.html"
 ---
 
 The heading of the following chapter indicates that the adventures of William Guy and his companions after destruction of the English schooner, and the details of their history subsequent to the departure of Arthur Pym and Dirk Peters, are about to be narrated with all possible brevity.

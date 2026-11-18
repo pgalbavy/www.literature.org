@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/hodgson-burnett-frances/the-white-people/chapter-02.html"
+url: "/authors/hodgson-burnett-frances/the-white-people/chapter-02.html"
 ---
 
 I only six when Wee Brown Elspeth was brought to me. Jean and Angus were as fond of each other in their silent way as they were of me, and they often went together with me when I was taken out for my walks. I was kept in the open air a great deal, and Angus would walk by the side of my small, shaggy Shetland pony and lead him over rough or steep places. Sheltie, the pony, was meant for use when we wished to fare farther than a child could walk; but I was trained to sturdy marching and climbing even from my babyhood. Because I so loved the moor, we nearly always rambled there. Often we set out early in the morning, and some simple food was carried, so that we need not return to the castle until we chose. I would ride Sheltie and walk by turns until we found a place I liked; then Jean and Angus would sit down among the heather, Sheltie would be secured, and I would wander about and play in my own way. I do not think it was in a strange way. I think I must have played as almost any lonely little girl might have played. I used to find a corner among the bushes and pretend it was my house and that I had little friends who came to play with me. I only remember one thing which was not like the ordinary playing of children. It was a habit I had of sitting quite still a long time and listening. That was what I called it--“listening.” I was listening to hear if the life on the moor made any sound I could understand. I felt as if it might, if I were very still and listened long enough.

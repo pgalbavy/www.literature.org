@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 14 - In London"
 weight: 14
-aliases:
-  - "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-14.html"
+url: "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-14.html"
 ---
 
 My younger brother was in London when the Martians fell at Woking. He was a medical student working for an imminent examination, and he heard nothing of the arrival until Saturday morning. The morning papers on Saturday contained, in addition to lengthy special articles on the planet Mars, on life in the planets, and so forth, a brief and vaguely worded telegram, all the more striking for its brevity.

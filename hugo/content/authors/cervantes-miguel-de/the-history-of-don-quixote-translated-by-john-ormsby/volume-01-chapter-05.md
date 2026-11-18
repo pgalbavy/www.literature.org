@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 5 - In Which The Narrative Of Our Knight’s Mishap Is Continued"
 weight: 8
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-05.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-05.html"
 ---
 
 Finding, then, that, in fact he could not move, he thought himself of having recourse to his usual remedy, which was to think of some passage in his books, and his craze brought to his mind that about Baldwin and the Marquis of Mantua, when Carloto left him wounded on the mountainside, a story known by heart by the children, not forgotten by the young men, and lauded and even believed by the old folk; and for all that not a whit truer than the miracles of Mahomet. This seemed to him to fit exactly the case in which he found himself, so, making a show of severe suffering, he began to roll on the ground and with feeble breath repeat the very words which the wounded knight of the wood is said to have uttered:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Planning The Search"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-18.html"
 ---
 
 Harvey Hamilton was about to speak when Detective Pendar raised a warning hand.

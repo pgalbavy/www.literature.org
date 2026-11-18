@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Roof Spaces"
 weight: 8
-aliases:
-  - "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-08.html"
+url: "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-08.html"
 ---
 
 As the fans in the circular aperture of the inner room rotated and permitted glimpses of the night, dim sounds drifted in thereby. And Graham, standing underneath, wrestling darkly with the unknown powers that imprisoned him, and which he had now deliberately challenged, was startled by the sound of a voice.

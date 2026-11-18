@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Jane’s Story"
 weight: 26
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/chapter-25.html"
+url: "/authors/christie-agatha/the-secret-adversary/chapter-25.html"
 ---
 
 *HER* arm through Jane’s, dragging her along, Tuppence reached the station. Her quick ears caught the sound of the approaching train.

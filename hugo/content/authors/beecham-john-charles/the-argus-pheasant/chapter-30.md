@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - The Governor's Promise"
 weight: 31
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-30.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-30.html"
 ---
 
 Peter Gross had just concluded an account of his administration in Bulungan to Governor-General Van Schouten at the latter's paleis in Batavia. The governor-general was frowning.

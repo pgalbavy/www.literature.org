@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-05.html"
+url: "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-05.html"
 ---
 
 ABOUT half-past ten the cracked bell of the small church began to ring, and presently the people began to gather for the morning sermon. The Sunday-school children distributed themselves about the house and occupied pews with their parents, so as to be under supervision. Aunt Polly came, and Tom and Sid and Mary sat with her - Tom being placed next the aisle, in order that he might be as far away from the open window and the seductive outside summer scenes as possible. The crowd filed up the aisles: the aged and needy postmaster, who had seen better days; the mayor and his wife - for they had a mayor there, among other unnecessaries; the justice of the peace; the widow Douglass, fair, smart, and forty, a generous, good-hearted soul and well-to-do, her hill mansion the only palace in the town, and the most hospitable and much the most lavish in the matter of festivities that St. Petersburg could boast; the bent and venerable Major and Mrs. Ward; lawyer Riverson, the new notable from a distance; next the belle of the village, followed by a troop of lawn-clad and ribbon-decked young heart-breakers; then all the young clerks in town in a body - for they had stood in the vestibule sucking their cane-heads, a circling wall of oiled and simpering admirers, till the last girl had run their gantlet; and last of all came the Model Boy, Willie Mufferson, taking as heedful care of his mother as if she were cut glass. He always brought his mother to church, and was the pride of all the matrons. The boys all hated him, he was so good. And besides, he had been "thrown up to them" so much. His white handkerchief was hanging out of his pocket behind, as usual on Sundays - accidentally. Tom had no handkerchief, and he looked upon boys who had as snobs.

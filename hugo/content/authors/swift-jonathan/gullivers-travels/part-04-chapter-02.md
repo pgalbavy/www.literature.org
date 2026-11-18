@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 2"
 weight: 30
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-04-chapter-02.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-04-chapter-02.html"
 ---
 
 The author conducted by a Houyhnhnm to his house. The house described. The author’s reception. The food of the Houyhnhnms. The author in distress for want of meat. Is at last relieved. His manner of feeding in this country.

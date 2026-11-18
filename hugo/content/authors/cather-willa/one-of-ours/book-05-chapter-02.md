@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 2"
 weight: 55
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-05-chapter-02.html"
+url: "/authors/cather-willa/one-of-ours/book-05-chapter-02.html"
 ---
 
 Claude set off to find the Grand Hotel, where he had promised to dine with Victor Morse. The porter there spoke English. He called a red-headed boy in a dirty uniform and told him to take the American to vingt-quatre. The boy also spoke English. "Plenty money in New York, I guess! In France, no money." He made their way, through musty corridors and up slippery staircases, as long as possible, shrewdly eyeing the visitor and rubbing his thumb nervously against his fingers all the while.

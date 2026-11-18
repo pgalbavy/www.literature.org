@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 8"
 weight: 27
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-04-chapter-08.html"
+url: "/authors/cather-willa/o-pioneers/part-04-chapter-08.html"
 ---
 
 When old Ivar climbed down from his loft at four o'clock the next morning, he came upon Emil's mare, jaded and lather-stained, her bridle broken, chewing the scattered tufts of hay outside the stable door. The old man was thrown into a fright at once. He put the mare in her stall, threw her a measure of oats, and then set out as fast as his bow-legs could carry him on the path to the nearest neighbor.

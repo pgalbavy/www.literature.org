@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Jasper Jay Objects"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-22.html"
 ---
 
 While Jasper Jay, in the beech tree, waited for Grunty Pig, on the ground, to speak up and make his excuses for taking beechnuts, a bur dropped from a twig and landed right in front of Grunty's nose. He fell upon it greedily. And, tearing it open, he devoured the nuts with relish.

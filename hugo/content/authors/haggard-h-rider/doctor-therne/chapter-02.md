@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Hacienda"
 weight: 3
-aliases:
-  - "/authors/haggard-h-rider/doctor-therne/chapter-02.html"
+url: "/authors/haggard-h-rider/doctor-therne/chapter-02.html"
 ---
 
 “What are those?” said Emma presently, pointing to some animals that were half hidden by a clump of wild bananas. I looked and saw that they were two of the mules which the brigands had cut loose from the diligence. There could be no mistake about this, for the harness still hung to them.

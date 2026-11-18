@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Selling Price"
 weight: 13
-aliases:
-  - "/authors/chambers-robert-w/the-fighting-chance/chapter-13.html"
+url: "/authors/chambers-robert-w/the-fighting-chance/chapter-13.html"
 ---
 
 The heat, which had been severe in June, driving the last fashionable loiterer into the country, continued fiercely throughout July. August was stifling; the chestnut leaves in the parks curled up and grew brittle; the elms were blotched; brown stretches scarred the lawns; the blazing colour of the geranium beds seemed to intensify the heat, like a bed of living coals.

@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 12 - Of The Strange Adventure Which Befell The Valiant Don Quixote With The Bold Knight Of The Mirrors"
 weight: 68
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-12.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-12.html"
 ---
 
 The night succeeding the day of the encounter with Death, Don Quixote and his squire passed under some tall shady trees, and Don Quixote at Sancho’s persuasion ate a little from the store carried by Dapple, and over their supper Sancho said to his master, "Señor, what a fool I should have looked if I had chosen for my reward the spoils of the first adventure your worship achieved, instead of the foals of the three mares. After all, ‘a sparrow in the hand is better than a vulture on the wing.’"

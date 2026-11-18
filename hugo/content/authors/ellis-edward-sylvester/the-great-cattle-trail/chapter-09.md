@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - At Fault"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-09.html"
 ---
 
 As a rule the American Indian is not partial to cigarette smoking, that being a vice that he is willing to leave to his more civilized brother; but the Comanche in front of Avon Burnet, and so near him, left no doubt of his purpose.

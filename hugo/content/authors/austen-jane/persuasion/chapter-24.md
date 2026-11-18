@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/austen-jane/persuasion/chapter-24.html"
+url: "/authors/austen-jane/persuasion/chapter-24.html"
 ---
 
 Who can be in doubt of what followed? When any two young people take it into their heads to marry, they are pretty sure by perseverance to carry their point, be they ever so poor, or ever so imprudent, or ever so little likely to be necessary to each other's ultimate comfort. This may be bad morality to conclude with, but I believe it to be truth; and if such parties succeed, how should a Captain Wentworth and an Anne Elliot, with the advantage of maturity of mind, consciousness of right, and one independent fortune between them, fail of bearing down every opposition? They might in fact, have borne down a great deal more than they met with, for there was little to distress them beyond the want of graciousness and warmth. Sir Walter made no objection, and Elizabeth did nothing worse than look cold and unconcerned. Captain Wentworth, with five-and-twenty thousand pounds, and as high in his profession as merit and activity could place him, was no longer nobody. He was now esteemed quite worthy to address the daughter of a foolish, spendthrift baronet, who had not had principle or sense enough to maintain himself in the situation in which Providence had placed him, and who could give his daughter at present but a small part of the share of ten thousand pounds which must be hers hereafter.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Family Cell"
 weight: 9
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-09.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-09.html"
 ---
 
 It was about midnight when poor Van Baerle was locked up in the prison of the Buytenhof.

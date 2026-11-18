@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - The Quarter-Deck"
 weight: 36
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-036.html"
+url: "/authors/melville-herman/moby-dick/chapter-036.html"
 ---
 
 (Enter Ahab: Then, all)

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 47"
 weight: 47
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-47.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-47.html"
 ---
 
 With the half-realized familiarity of unplaced features, one face besides that of his two distinguished companions, declared its existence to Boone Wellver out of all the faces that set the stage that night. When they had entered the room where the body lay and the soldiers had turned and clanked out, they had been as devoid of personal entities as links in a chain--except one.

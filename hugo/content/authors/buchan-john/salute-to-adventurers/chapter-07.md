@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - I Become An Unpopular Character"
 weight: 8
-aliases:
-  - "/authors/buchan-john/salute-to-adventurers/chapter-07.html"
+url: "/authors/buchan-john/salute-to-adventurers/chapter-07.html"
 ---
 
 I did not waste time in getting to work. I had already written to my uncle, telling him my plans, and presently I received his consent. I arranged that cargoes of such goods as I thought most suitable for Virginian sales should arrive at regular seasons independent of the tobacco harvest. Then I set about equipping a store. On the high land north of James Town, by the road to Middle Plantation, I bought some acres of cleared soil, and had built for me a modest dwelling. Beside it stood a large brick building, one half fitted as a tobacco shed, where the leaf could lie for months, if need be, without taking harm, and the other arranged as a merchant's store with roomy cellars and wide garrets. I relinquished the warehouse by the James Town quay, and to my joy I was able to relinquish Mr. Lambie. That timid soul had been on thorns ever since I mooted my new projects. He implored me to put them from me; he drew such pictures of the power of the English traders, you would have thought them the prince merchants of Venice; he saw all his hard-won gentility gone at a blow, and himself an outcast precluded for ever from great men's recognition. He could not bear it, and though he was loyal to my uncle's firm in his own way, he sought a change. One day he announced that he had been offered a post as steward to a big planter at Henricus, and when I warmly bade him accept it, he smiled wanly, and said he had done so a week agone. We parted very civilly, and I chose as manager my servant, John Faulkner.

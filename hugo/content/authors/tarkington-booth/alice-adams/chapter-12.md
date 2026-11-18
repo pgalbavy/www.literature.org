@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/tarkington-booth/alice-adams/chapter-12.html"
+url: "/authors/tarkington-booth/alice-adams/chapter-12.html"
 ---
 
 The fine old gentleman revealed when she opened the door was probably the last great merchant in America to wear the chin beard. White as white frost, it was trimmed short with exquisite precision, while his upper lip and the lower expanses of his cheeks were clean and rosy from fresh shaving. With this trim white chin beard, the white waistcoat, the white tie, the suit of fine gray cloth, the broad and brilliantly polished black shoes, and the wide-brimmed gray felt hat, here was a man who had found his style in the seventies of the last century, and thenceforth kept it. Files of old magazines of that period might show him, in woodcut, as, "Type of Boston Merchant"; Nast might have drawn him as an honest statesman. He was eighty, hale and sturdy, not aged; and his quick blue eyes, still unflecked, and as brisk as a boy's, saw everything.

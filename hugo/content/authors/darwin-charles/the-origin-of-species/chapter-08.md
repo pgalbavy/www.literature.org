@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Hybridism"
 weight: 10
-aliases:
-  - "/authors/darwin-charles/the-origin-of-species/chapter-08.html"
+url: "/authors/darwin-charles/the-origin-of-species/chapter-08.html"
 ---
 
 arrow_rightDistinction between the sterility of first crosses and of hybrids arrow_rightSterility various in degree, not universal, affected by close interbreeding, removed by domestication arrow_rightLaws governing the sterility of hybrids arrow_rightSterility not a special endowment, but incidental on other differences arrow_rightCauses of the sterility of first crosses and of hybrids arrow_rightParallelism between the effects of changed conditions of life and crossing arrow_rightFertility of varieties when crossed and of their mongrel offspring not universal arrow_rightHybrids and mongrels compared independently of their fertility arrow_rightSummary ---

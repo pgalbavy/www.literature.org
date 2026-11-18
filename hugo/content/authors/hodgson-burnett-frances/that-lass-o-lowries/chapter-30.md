@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - The Slip Of Paper"
 weight: 30
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-30.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-30.html"
 ---
 
 A minute after there rushed past Joan, in the darkness, two men,--stumbling and cursing as they went, out of breath, horror-stricken and running at the top of their speed.

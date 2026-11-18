@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Good Templars"
 weight: 20
-aliases:
-  - "/authors/alcott-louisa-may/jack-and-jill/chapter-19.html"
+url: "/authors/alcott-louisa-may/jack-and-jill/chapter-19.html"
 ---
 
 "Hi there! Bell's rung! Get up, lazy-bones!" called Frank from his room as the clock struck six one bright morning, and a great creaking and stamping proclaimed that he was astir.

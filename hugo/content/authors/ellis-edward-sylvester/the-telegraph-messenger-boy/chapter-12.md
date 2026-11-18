@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - A Call"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-12.html"
 ---
 
 I have spoken of Ben Mayberry's fondness for athletic sports, and the great benefit he gained from the exercise thus obtained. When business permitted, I visited the ball grounds, where his skill made him the favorite of the enthusiastic crowd which always assembled there. He played shortstop, and his activity in picking up hot grounders and his wonderful accuracy in throwing to first base were the chief attractions which brought many to the place. He was equally successful at the bat, and, when only fourteen years old, repeatedly lifted the ball over the left-field fence—a feat which was only accomplished very rarely by the heaviest batsmen of the visiting nines.

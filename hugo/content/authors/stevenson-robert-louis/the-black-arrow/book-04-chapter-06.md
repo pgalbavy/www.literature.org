@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 6 - Arblaster Again"
 weight: 25
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-04-chapter-06.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-04-chapter-06.html"
 ---
 
 When Dick and Lawless were suffered to steal, by a back way, out of the house where Lord Risingham held his garrison, the evening had already come.

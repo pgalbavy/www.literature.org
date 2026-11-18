@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - The First Day"
 weight: 36
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-35.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-35.html"
 ---
 
 Neeland had undressed, bathed his somewhat battered body, and had then thrown himself on the bed, fully intending to rise in a few moments and await breakfast.

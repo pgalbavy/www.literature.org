@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Tinkle Meets Dido"
 weight: 6
-aliases:
-  - "/authors/barnum-richard/tinkle-the-trick-pony/chapter-06.html"
+url: "/authors/barnum-richard/tinkle-the-trick-pony/chapter-06.html"
 ---
 
 Every morning, as soon as he had eaten his breakfast, George would run out to the stable to see Tinkle. He would rub the soft, velvety nose of his pet pony, or bring him a piece of bread or a lump of sugar. Sometimes Mabel, too, would come out with her brother to look at Tinkle before she went to school.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Late Mr. Brown"
 weight: 3
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-03.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-03.html"
 ---
 
 The woman's lean, long-fingered hand pointed to the candle.

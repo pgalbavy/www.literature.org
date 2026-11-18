@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Of Civill Lawes"
 weight: 28
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-26.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-26.html"
 ---
 
 Civill Law what By CIVILL LAWES, I understand the Lawes, that men are therefore bound to observe, because they are Members, not of this, or that Common-wealth in particular, but of a Common-wealth. For the knowledge of particular Lawes belongeth to them, that professe the study of the Lawes of their severall Countries; but the knowledge of Civill Law in generall, to any man. The antient Law of Rome was called their Civil Law, from the word Civitas, which signifies a Common-wealth; And those Countries, which having been under the Roman Empire, and governed by that Law, retaine still such part thereof as they think fit, call that part the Civill Law, to distinguish it from the rest of their own Civill Lawes. But that is not it I intend to speak of here; my designe being not to shew what is Law here, and there; but what is Law; as Plato, Aristotle, Cicero, and divers others have done, without taking upon them the profession of the study of the Law.

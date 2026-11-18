@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Confidence Of Emily"
 weight: 11
-aliases:
-  - "/authors/ostrander-isabel/the-crevice/chapter-11.html"
+url: "/authors/ostrander-isabel/the-crevice/chapter-11.html"
 ---
 
 All during that day and the night which followed it, the search for Ramon Hamilton continued, but without result. With the announcement of his disappearance, in the press, the police had started a spectacular investigation, but had been as unsuccessful as Henry Blaine's own operatives, who had been working unostentatiously but tirelessly since the news of the young lawyer's evanescence had come.

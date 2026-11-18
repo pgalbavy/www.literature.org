@@ -1,8 +1,7 @@
 ---
 title: "Chapter 49"
 weight: 49
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-49.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-49.html"
 ---
 
 Ever in his soul That larger justice which makes gratitude Triumphed above resentment. 'Tis the mark Of regal natures, with the wider life. And fuller capability of joy: - Not wits exultant in the strongest lens To show you goodness vanished into pulp Never worth "thank you" - they're the devil's friars, Vowed to be poor as he in love and trust, Yet must go begging of a world that keeps Some human property.

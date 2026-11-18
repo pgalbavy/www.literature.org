@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/chambers-robert-w/cardigan/chapter-03.html"
+url: "/authors/chambers-robert-w/cardigan/chapter-03.html"
 ---
 
 At late candle-light, Sir William still tarrying, I went to the north block-house, where Mr. Duncan, the lieutenant commanding the guard, received me with unusual courtesy, the reason of which I did not at the time suspect.

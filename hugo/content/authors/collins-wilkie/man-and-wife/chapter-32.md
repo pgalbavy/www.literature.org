@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - Seeds Of The Future (Second Sowing)"
 weight: 34
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-32.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-32.html"
 ---
 
 AND what did the visitors say of the Swans?

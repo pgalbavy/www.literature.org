@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-14.html"
+url: "/authors/forster-e-m/howards-end/chapter-14.html"
 ---
 
 The mystery, like so many mysteries, was explained. Next day, just as they were dressed to go out to dinner, a Mr. Bast called. He was a clerk in the employment of the Porphyrion Fire Insurance Company. Thus much from his card. He had come “about the lady yesterday.” Thus much from Annie, who had shown him into the dining-room.

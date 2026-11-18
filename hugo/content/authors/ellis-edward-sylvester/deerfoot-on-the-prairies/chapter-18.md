@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Indian Chivalry"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-18.html"
 ---
 
 *THE* Shoshones instantly stopped and one of them uttered an exclamation. It was easy for them to tell the direction from whence the unexpected sound had come, and all stood peering into the gloom, bows tightly grasped and hands ready to draw their arrows from the quivers and launch them at the instant demanded.

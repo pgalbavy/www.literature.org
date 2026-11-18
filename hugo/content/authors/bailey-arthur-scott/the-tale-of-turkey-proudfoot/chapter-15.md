@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Mrs. Wren's Advice"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-15.html"
 ---
 
 Turkey Proudfoot never knew that the peacock was no bigger than he was. The elegant creature had such a huge tail and such a loud, harsh voice that Turkey Proudfoot stood in great awe of him.

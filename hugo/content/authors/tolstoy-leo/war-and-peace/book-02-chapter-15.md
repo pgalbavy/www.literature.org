@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 15"
 weight: 43
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-02-chapter-15.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-02-chapter-15.html"
 ---
 
 Between three and four o'clock in the afternoon Prince Andrew, who had persisted in his request to Kutuzov, arrived at Grunth and reported himself to Bagration. Bonaparte's adjutant had not yet reached Murat's detachment and the battle had not yet begun. In Bagration's detachment no one knew anything of the general position of affairs. They talked of peace but did not believe in its possibility; others talked of a battle but also disbelieved in the nearness of an engagement. Bagration, knowing Bolkonski to be a favorite and trusted adjutant, received him with distinction and special marks of favor, explaining to him that there would probably be an engagement that day or the next, and giving him full liberty to remain with him during the battle or to join the rearguard and have an eye on the order of retreat, "which is also very important."

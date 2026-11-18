@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 26
-aliases:
-  - "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-25.html"
+url: "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-25.html"
 ---
 
 "It's funny," said Toto, standing before his friend the Lion and wagging his tail, "but I've found my growl at last! I am positive now that it was the cruel magician who stole it."

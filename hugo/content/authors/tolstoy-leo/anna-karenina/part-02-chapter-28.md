@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 28"
 weight: 62
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-28.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-28.html"
 ---
 
 When Alexey Alexandrovitch reached the race-course, Anna was already sitting in the pavilion beside Betsy, in that pavilion where all the highest society had gathered. She caught sight of her husband in the distance. Two men, her husband and her lover, were the two centers of her existence, and unaided by her external senses she was aware of their nearness. She was aware of her husband approaching a long way off, and she could not help following him in the surging crowd in the midst of which he was moving. She watched his progress towards the pavilion, saw him now responding condescendingly to an ingratiating bow, now exchanging friendly, nonchalant greetings with his equals, now assiduously trying to catch the eye of some great one of this world, and taking off his big round hat that squeezed the tips of his ears. All these ways of his she knew, and all were hateful to her. "Nothing but ambition, nothing but the desire to get on, that's all there is in his soul," she thought; "as for these lofty ideals, love of culture, religion, they are only so many tools for getting on."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Kiddie Keeps His Promise"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-14.html"
 ---
 
 Old Mr. Crow flew into a terrible rage when he found, the next morning, that his committee had not called on Kiddie Katydid during the night. And when Chirpy Cricket told him that the weather was too cold for anybody to stay out late, Mr. Crow said "Nonsense! What about Mr. Frog?"

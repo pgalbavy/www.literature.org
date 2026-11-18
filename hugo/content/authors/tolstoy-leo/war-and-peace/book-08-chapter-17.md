@@ -1,8 +1,7 @@
 ---
 title: "Book 8 - Chapter 17"
 weight: 162
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-08-chapter-17.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-08-chapter-17.html"
 ---
 
 Anatole went out of the room and returned a few minutes later wearing a fur coat girt with a silver belt, and a sable cap jauntily set on one side and very becoming to his handsome face. Having looked in a mirror, and standing before Dolokhov in the same pose he had assumed before it, he lifted a glass of wine.

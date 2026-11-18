@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-08.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-08.html"
 ---
 
 To the man lying in the soaked grass and moss of the sandstone ledge came flashes of realization that were without definite beginning or end, separated by gaps of insensibility. Out of his limbs all power and volition seemed to have evaporated, and his breath was an obstructed struggle as though the mountain upon which he lay were lying instead upon his breast. Through him went hot waves of pain under which he clenched his teeth until he swooned again into a merciful numbness.

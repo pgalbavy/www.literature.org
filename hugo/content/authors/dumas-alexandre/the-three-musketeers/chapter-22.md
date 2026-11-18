@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Ballet Of La Merlaison"
 weight: 23
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-22.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-22.html"
 ---
 
 On the morrow, nothing was talked of in Paris but the ball which the aldermen of the city were to give to the king and queen, and in which their Majesties were to dance the famous La Merlaison - the favorite ballet of the king.

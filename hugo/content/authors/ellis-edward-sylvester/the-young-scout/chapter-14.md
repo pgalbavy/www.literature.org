@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Waiting For Daylight"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-scout/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-14.html"
 ---
 
 Having emerged from the stream, Mendez rode down the bank, toward the ridge, where the hostiles had been first seen during the day. It will be remembered that he had now entered upon the bailiwick of Potter, the scout, who was engaged upon the same errand.

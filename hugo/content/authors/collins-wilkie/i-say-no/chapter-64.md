@@ -1,8 +1,7 @@
 ---
 title: "Chapter 64 - On The Way To London"
 weight: 64
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-64.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-64.html"
 ---
 
 The parting words had been spoken. Emily and her companion were on their way to London.

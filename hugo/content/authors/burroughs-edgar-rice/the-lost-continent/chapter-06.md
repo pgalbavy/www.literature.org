@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/burroughs-edgar-rice/the-lost-continent/chapter-06.html"
+url: "/authors/burroughs-edgar-rice/the-lost-continent/chapter-06.html"
 ---
 
 Victory was nowhere in sight. Alone, I floated upon the bosom of the Thames. In that brief instant I believe that I suffered more mental anguish than I have crowded into all the balance of my life before or since. A few hours before, I had been wishing that I might be rid of her, and now that she was gone I would have given my life to have her back again.

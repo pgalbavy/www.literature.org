@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 33"
 weight: 33
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-33.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-33.html"
 ---
 
 Mary Burton was returning from a Sixth-avenue delicatessen shop with the bottle of milk and box of crackers which constituted the marketing for tomorrow morning's breakfast. She felt very faint and unspeakably sick at heart. There was no longer even a trivial thing with which to interest the pawnbroker. She had had little sleep for many nights and her temples throbbed with pain. She had been trying to think out some way to mend their misfortunes, and each day brought her nearer the point where the grinding struggle must end in starvation.

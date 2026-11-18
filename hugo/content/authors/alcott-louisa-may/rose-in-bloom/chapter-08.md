@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Breakers Ahead"
 weight: 9
-aliases:
-  - "/authors/alcott-louisa-may/rose-in-bloom/chapter-08.html"
+url: "/authors/alcott-louisa-may/rose-in-bloom/chapter-08.html"
 ---
 
 Anxious to smooth the way for Phebe, Rose was up betimes and slipped into Aunt Plenty's room before the old lady had gotten her cap on.

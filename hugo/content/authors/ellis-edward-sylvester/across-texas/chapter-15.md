@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Caught Foul"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-15.html"
 ---
 
 *NICK RIBSAM* was partly right in his supposition about his missing friend, Herbert Watrous.

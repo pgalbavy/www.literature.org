@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/daviess-maria-thompson/bluegrass-and-broadway/chapter-04.html"
+url: "/authors/daviess-maria-thompson/bluegrass-and-broadway/chapter-04.html"
 ---
 
 "I thought of a lot of new things for my characters to say, while I was coming up from Kentucky on the train, and I want to put them in." Miss Adair further tortured Vandeford.

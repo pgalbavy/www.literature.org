@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Lost Dog Cañon"
 weight: 6
-aliases:
-  - "/authors/coolidge-dane/the-texican/chapter-05.html"
+url: "/authors/coolidge-dane/the-texican/chapter-05.html"
 ---
 
 The silence of absolute loneliness lay upon Lost Dog Cañon like a pall and to Pecos Dalhart, sprawling in the door of his cave, it seemed as if mysterious voices were murmuring to each other behind the hollow gurgling of the creek. From far down the cañon the bawling of cows, chafing against the drift fence, echoed with dreary persistence among the cliffs, and the deep subterranean rumbling which gave the place its bad name broke in upon his meditations like the stirring of some uneasy devil confined below. On the rim of the black cañon wall that rose against him a flock of buzzards sat in a tawdry row, preening their rusty feathers or hopping awkwardly about in petty, ineffectual quarrels—as shabby a set of loafers as ever basked in the sun. For a week Pecos had idled about his cave, now building pole houses to protect his provisions from the rats, now going out to the point to watch the Verde trail, until the emptiness of it had maddened him. At first he had looked for trouble—the veiled treachery of some gun-man, happening in on him accidentally, or an armed attack from Old Crit's cowboys—but now he would welcome the appearance of Crit himself. In action Pecos could trust his nerves absolutely, but he chafed at delay like a spirited horse that frets constantly at the bit. If it was to be a game of waiting Crittenden had won already. Pecos threw away his cigarette impatiently and hurried down the cañon to catch his horse.

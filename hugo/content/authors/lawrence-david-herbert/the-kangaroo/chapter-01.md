@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Torestin"
 weight: 1
-aliases:
-  - "/authors/lawrence-david-herbert/the-kangaroo/chapter-01.html"
+url: "/authors/lawrence-david-herbert/the-kangaroo/chapter-01.html"
 ---
 
 A bunch of workmen were lying on the grass of the park beside Macquarie Street, in the dinner hour. It was winter, the end of May, but the sun was warm, and they lay there in shirt-sleeves, talking. Some were eating food from paper packages. They were a mixed lot - taxi-drivers, a group of builders who were putting a new inside into one of the big houses opposite, and then two men in blue overalls, some sort of mechanics. Squatting and lying on the grassy bank beside the broad tarred road where taxis and hansom cabs passed continually, they had that air of owning the city which belongs to a good Australian.

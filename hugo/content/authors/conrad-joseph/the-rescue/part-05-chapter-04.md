@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 4"
 weight: 32
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-05-chapter-04.html"
+url: "/authors/conrad-joseph/the-rescue/part-05-chapter-04.html"
 ---
 
 Lingard stood the lantern on the table. Its light was very poor. He dropped on to the sea-chest heavily. He, too, was over-wrought. His flannel shirt was open at the neck. He had a broad belt round his waist and was without his jacket. Before him, Mrs. Travers, straight and tall in the gay silks, cottons, and muslins of her outlandish dress, with the ends of the scarf thrown over her head, hanging down in front of her, looked dimly splendid and with a black glance out of her white face. He said:

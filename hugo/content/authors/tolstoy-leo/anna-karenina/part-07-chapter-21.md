@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 21"
 weight: 210
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-21.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-21.html"
 ---
 
 After a capital dinner and a great deal of cognac drunk at Bartnyansky's, Stepan Arkadyevitch, only a little later than the appointed time, went in to Countess Lidia Ivanovna's.

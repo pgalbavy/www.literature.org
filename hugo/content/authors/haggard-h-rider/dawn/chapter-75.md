@@ -1,8 +1,7 @@
 ---
 title: "Chapter 75"
 weight: 76
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-75.html"
+url: "/authors/haggard-h-rider/dawn/chapter-75.html"
 ---
 
 When Arthur got out of the gates of the Quinta Carr, he hurried to the hotel, with the intention of reading the letters Mildred had given him, and, passing through the dining-room, seated himself upon the "stoep" which overlooked the garden in order to do so. At this time of year it was, generally speaking, a quiet place enough; but on this particular day scarcely had Arthur taken the letter from his pocket, and--having placed the ring that it contained upon his trembling finger, and repudiating the statement, marked "to be read first," on account of its business-like appearance--glanced at the two first lines of Angela's own letter, when the sound of hurrying feet and many chattering voices reminded him that he could expect no peace anywhere in the neighbourhood of the hotel. The second English mail was in, and all the crowd of passengers, who were at this time pouring out to the Cape to escape the English winter, had come, rejoicing, ashore, to eat, drink, be merry, and buy parrots and wicker chairs while the vessel coaled.

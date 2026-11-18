@@ -1,8 +1,7 @@
 ---
 title: "chapter 29"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-29.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-29.html"
 ---
 
 Ursula went on in an unreal suspense, the last weeks before going away. She was not herself, - she was not anything. She was something that is going to be - soon - soon - very soon. But as yet, she was only imminent.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Through The Forest"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-11.html"
 ---
 
 Jack Carleton occasionally gave his eyes fitful rest by holding them closed for a few moments, but the tantalizing visions did not leave him even then. His arm became so painfully cramped under his head that he was compelled to shift his position; and he seized the occasion to readjust his limbs, which were also becoming wearied because of the long time he had held them motionless. He was prudent enough, however, to give the whole movement the seeming of a natural action done in sleep. He flung himself about for a few seconds, and then rolled back almost in the same posture, apparently resuming his heavy slumber.

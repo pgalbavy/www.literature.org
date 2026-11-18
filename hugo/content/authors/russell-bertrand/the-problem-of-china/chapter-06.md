@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Modern Japan"
 weight: 7
-aliases:
-  - "/authors/russell-bertrand/the-problem-of-china/chapter-06.html"
+url: "/authors/russell-bertrand/the-problem-of-china/chapter-06.html"
 ---
 
 The modern Japanese nation is unique, not only in this age, but in the history of the world. It combines elements which most Europeans would have supposed totally incompatible, and it has realized an original plan to a degree hardly known in human affairs. The Japan which now exists is almost exactly that which was intended by the leaders of the Restoration in 1867. Many unforeseen events have happened in the world: American has risen and Russia has fallen, China has become a Republic and the Great War has shattered Europe. But throughout all these changes the leading statesmen of Japan have gone along the road traced out for them at the beginning of the Meiji era, and the nation has followed them with ever-increasing faithfulness. One single purpose has animated leaders and followers alike: the strengthening and extension of the Empire. To realize this purpose a new kind of policy has been created, combining the sources of strength in modern America with those in Rome at the time of the Punic Wars, uniting the material organization and scientific knowledge of pre-war Germany with the outlook on life of the Hebrews in the Book of Joshua.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 7 - Enter The Aunts And Uncles"
 weight: 7
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-01-chapter-07.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-01-chapter-07.html"
 ---
 
 The Dodsons were certainly a handsome family, and Mrs. Glegg was not the least handsome of the sisters. As she sat in Mrs. Tulliver's arm-chair, no impartial observer could have denied that for a woman of fifty she had a very comely face and figure, though Tom and Maggie considered their aunt Glegg as the type of ugliness. It is true she despised the advantages of costume, for though, as she often observed, no woman had better clothes, it was not her way to wear her new things out before her old ones. Other women, if they liked, might have their best thread-lace in every wash; but when Mrs. Glegg died, it would be found that she had better lace laid by in the right-hand drawer of her wardrobe in the Spotted Chamber than ever Mrs. Wooll of St. Ogg's had bought in her life, although Mrs. Wooll wore her lace before it was paid for. So of her curled fronts: Mrs. Glegg had doubtless the glossiest and crispest brown curls in her drawers, as well as curls in various degrees of fuzzy laxness; but to look out on the week-day world from under a crisp and glossy front would be to introduce a most dreamlike and unpleasant confusion between the sacred and the secular. Occasionally, indeed, Mrs. Glegg wore one of her third-best fronts on a week-day visit, but not at a sister's house; especially not at Mrs. Tulliver's, who, since her marriage, had hurt her sister's feelings greatly by wearing her own hair, though, as Mrs. Glegg observed to Mrs. Deane, a mother of a family, like Bessy, with a husband always going to law, might have been expected to know better. But Bessy was always weak!

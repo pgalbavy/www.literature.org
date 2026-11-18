@@ -1,8 +1,7 @@
 ---
 title: "chapter 16"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-16.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-16.html"
 ---
 
 He lay sick and unmoved, in pure opposition to everything. He knew how near to breaking was the vessel that held his life. He knew also how strong and durable it was. And he did not care. Better a thousand times take one's chance with death, than accept a life one did not want. But best of all to persist and persist and persist for ever, till one were satisfied in life.

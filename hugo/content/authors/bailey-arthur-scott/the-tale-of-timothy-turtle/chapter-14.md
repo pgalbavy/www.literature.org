@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Caught!"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-14.html"
 ---
 
 As soon as Johnnie Green saw Mr. Turtle he let out a loud whoop. And as soon as Mr. Turtle saw Johnnie, he scrambled up and made awkwardly for the water as fast as he could go.

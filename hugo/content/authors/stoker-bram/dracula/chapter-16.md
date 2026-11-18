@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/stoker-bram/dracula/chapter-16.html"
+url: "/authors/stoker-bram/dracula/chapter-16.html"
 ---
 
 DR SEWARD'S DIARY-cont.

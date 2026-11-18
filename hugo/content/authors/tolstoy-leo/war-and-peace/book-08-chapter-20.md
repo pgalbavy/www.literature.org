@@ -1,8 +1,7 @@
 ---
 title: "Book 8 - Chapter 20"
 weight: 165
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-08-chapter-20.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-08-chapter-20.html"
 ---
 
 Pierre did not stay for dinner, but left the room and went away at once. He drove through the town seeking Anatole Kuragin, at the thought of whom now the blood rushed to his heart and he felt a difficulty in breathing. He was not at the ice hills, nor at the gypsies', nor at Komoneno's. Pierre drove to the Club. In the Club all was going on as usual. The members who were assembling for dinner were sitting about in groups; they greeted Pierre and spoke of the town news. The footman having greeted him, knowing his habits and his acquaintances, told him there was a place left for him in the small dining room and that Prince Michael Zakharych was in the library, but Paul Timofeevich had not yet arrived. One of Pierre's acquaintances, while they were talking about the weather, asked if he had heard of Kuragin's abduction of Rostova which was talked of in the town, and was it true? Pierre laughed and said it was nonsense for he had just come from the Rostovs'. He asked everyone about Anatole. One man told him he had not come yet, and another that he was coming to dinner. Pierre felt it strange to see this calm, indifferent crowd of people unaware of what was going on in his soul. He paced through the ballroom, waited till everyone had come, and as Anatole had not turned up did not stay for dinner but drove home.

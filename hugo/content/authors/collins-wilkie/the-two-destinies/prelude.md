@@ -1,8 +1,7 @@
 ---
 title: "The Prelude - The Guest Writes and Tells the Story of the Dinner Party"
 weight: 1
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/prelude.html"
+url: "/authors/collins-wilkie/the-two-destinies/prelude.html"
 ---
 
 MANY years have passed since my wife and I left the United States to pay our first visit to England.

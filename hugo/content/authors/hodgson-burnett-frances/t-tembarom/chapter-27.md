@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-27.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-27.html"
 ---
 
 “Mr. Temple Barholm seems in better spirits,” Lady Mallowe said to Captain Palliser as they walked on the terrace in the starlight dusk after dinner.

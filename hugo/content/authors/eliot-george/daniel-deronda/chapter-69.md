@@ -1,8 +1,7 @@
 ---
 title: "Chapter 69"
 weight: 69
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-69.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-69.html"
 ---
 
 "The human nature unto which I felt That I belonged, and reverenced with love, Was not a punctual presence, but a spirit Diffused through time and space, with aid derived Of evidence from monuments, erect, Prostrate, or leaning toward their common rest In earth, the widely scattered wreck sublime Of vanished nations." - WORDSWORTH: The Prelude.

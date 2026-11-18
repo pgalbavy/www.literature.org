@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A Happy Tea"
 weight: 9
-aliases:
-  - "/authors/alcott-louisa-may/under-the-lilacs/chapter-09.html"
+url: "/authors/alcott-louisa-may/under-the-lilacs/chapter-09.html"
 ---
 
 Exactly five minutes before six the party arrived in great state, for Bab and Betty wore their best frocks and hair-ribbons, Ben had a new blue shirt and his shoes on as full-dress, and Sancho's curls were nicely brushed, his frills as white as if just done up.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Burglar's Bride"
 weight: 9
-aliases:
-  - "/authors/nesbit-edith/the-phoenix-and-the-carpet/chapter-09.html"
+url: "/authors/nesbit-edith/the-phoenix-and-the-carpet/chapter-09.html"
 ---
 
 The morning after the adventure of the Persian cats, the musk-rats, the common cow, and the uncommon burglar, all the children slept till it was ten o'clock; and then it was only Cyril who woke; but he attended to the others, so that by half past ten every one was ready to help to get breakfast. It was shivery cold, and there was but little in the house that was really worth eating.

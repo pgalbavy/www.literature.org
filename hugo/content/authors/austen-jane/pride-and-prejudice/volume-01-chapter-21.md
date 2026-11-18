@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 21"
 weight: 21
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-21.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-21.html"
 ---
 
 The discussion of Mr. Collins's offer was now nearly at an end, and Elizabeth had only to suffer from the uncomfortable feelings necessarily attending it, and occasionally from some peevish allusion of her mother. As for the gentleman himself, his feelings were chiefly expressed, not by embarrassment or dejection, or by trying to avoid her, but by stiffness of manner and resentful silence. He scarcely ever spoke to her, and the assiduous attentions which he had been so sensible of himself, were transferred for the rest of the day to Miss Lucas, whose civility in listening to him, was a seasonable relief to them all, and especially to her friend.

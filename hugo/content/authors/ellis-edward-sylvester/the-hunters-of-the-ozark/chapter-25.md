@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Signal Fire"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-25.html"
 ---
 
 Deerfoot the Shawanoe remained in the vicinity of the Winnebago camp until the warriors made their start at an early hour the following morning. He took more than one survey of the red men, who gathered about the blazing fire and talked over the remarkable events of the night. He could easily have slain every one of the scouts whom they kept moving through the wood, but he had no wish to do so.

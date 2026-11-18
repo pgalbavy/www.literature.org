@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - William Paterson"
 weight: 21
-aliases:
-  - "/authors/barrie-james-matthew/the-little-white-bird/chapter-21.html"
+url: "/authors/barrie-james-matthew/the-little-white-bird/chapter-21.html"
 ---
 
 We had been together, we three, in my rooms, David telling me about the fairy language and Porthos lolling on the sofa listening, as one may say. It is his favourite place of a dull day, and under him were some sheets of newspaper, which I spread there at such times to deceive my housekeeper, who thinks dogs should lie on the floor.

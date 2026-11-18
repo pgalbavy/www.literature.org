@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Host And Guests"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-14.html"
 ---
 
 Tom Wagstaff and Jim McGovern might well be puzzled at the sight which greeted them while picking their way through the wood.

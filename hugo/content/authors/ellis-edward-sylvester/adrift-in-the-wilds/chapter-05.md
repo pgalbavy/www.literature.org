@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Land"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-05.html"
 ---
 
 Under the united propulsion of three men and a large Newfoundland dog, the small raft moved shoreward with no insignificant speed. It was found amply sufficient to preserve them all from drowning had none known how to swim, provided they managed the matter prudently. There is so little difference in the quantity of water and the human body, that a slight effort, if properly made, will keep it afloat. The trouble with new beginners is that when they first go beyond their depth their blind struggles tend to carry them downward more than upward.

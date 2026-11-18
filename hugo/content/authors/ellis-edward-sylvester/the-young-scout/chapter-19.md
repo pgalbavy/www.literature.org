@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - An Apache Signal"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-scout/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-19.html"
 ---
 
 When Mendez, the White Mountain Apache, who was acting as guide for Lieutenant Decker and his men, pointed across the Gila, it was not at the fugitives, for they had disappeared from view several minutes before, but at a point some distance to the right of the route taken by Maroz and Ceballos.

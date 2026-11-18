@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-18.html"
+url: "/authors/eliot-george/middlemarch/chapter-18.html"
 ---
 
 "Oh, sir, the loftiest hopes on earth Draw lots with meaner hopes: heroic breasts, Breathing bad air, ran risk of pestilence; Or, lacking lime-juice when they cross the Line, May languish with the scurvy."

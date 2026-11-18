@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Flop Ear Meets Dido"
 weight: 9
-aliases:
-  - "/authors/barnum-richard/flop-ear-the-funny-rabbit/chapter-09.html"
+url: "/authors/barnum-richard/flop-ear-the-funny-rabbit/chapter-09.html"
 ---
 
 “Well, now we’re nice and comfortable, let’s talk,” said Slicko, the jumping squirrel, as she found a soft place on a bed of moss. Flop Ear picked himself out a nice place also.

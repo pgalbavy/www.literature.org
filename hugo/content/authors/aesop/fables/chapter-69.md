@@ -1,8 +1,7 @@
 ---
 title: "The Horse And His Rider"
 weight: 71
-aliases:
-  - "/authors/aesop/fables/chapter-69.html"
+url: "/authors/aesop/fables/chapter-69.html"
 ---
 
 A HORSE SOLDIER took the utmost pains with his charger. As long as the war lasted, he looked upon him as his fellow-helper in all emergencies and fed him carefully with hay and corn. But when the war was over, he only allowed him chaff to eat and made him carry heavy loads of wood, subjecting him to much slavish drudgery and ill-treatment. War was again proclaimed, however, and when the trumpet summoned him to his standard, the Soldier put on his charger its military trappings, and mounted, being clad in his heavy coat of mail. The Horse fell down straightway under the weight, no longer equal to the burden, and said to his master, "You must now go to the war on foot, for you have transformed me from a Horse into an Ass; and how can you expect that I can again turn in a moment from an Ass to a Horse?'

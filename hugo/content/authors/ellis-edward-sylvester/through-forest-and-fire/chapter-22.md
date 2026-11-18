@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The \"Vacant Chair\""
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-22.html"
 ---
 
 It is hard to imagine a more trying situation than that of Master Herbert Watrous, who, while walking along a path in the woods, saw by the faint moonlight what he believed to be the figure of an enormous black bear, sitting on its haunches, and waiting for him to move either forward or backward before springing upon him.

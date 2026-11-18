@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/london-jack/before-adam/chapter-13.html"
+url: "/authors/london-jack/before-adam/chapter-13.html"
 ---
 
 It was not until the night of our first day on the south bank of the river that we discovered the Fire People. What must have been a band of wandering hunters went into camp not far from the tree in which Lop-Ear and I had elected to roost for the night. The voices of the Fire People at first alarmed us, but later, when darkness had come, we were attracted by the fire. We crept cautiously and silently from tree to tree till we got a good view of the scene.

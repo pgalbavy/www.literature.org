@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Wood Of Life"
 weight: 7
-aliases:
-  - "/authors/buchan-john/the-path-of-the-king/chapter-06.html"
+url: "/authors/buchan-john/the-path-of-the-king/chapter-06.html"
 ---
 
 The Lady Catherine de Laval, in her own right Countess of Beaumanoir, and mistress of fiefs and manors, rights of chase and warren, mills and hospices, the like of which were not in Picardy, was happy in all things but her family. Her one son had fallen in his youth in an obscure fray in Guienne, leaving two motherless boys who, after her husband's death, were the chief business of life to the Countess Catherine. The elder, Aimery, grew to manhood after the fashion of the men of her own house, a somewhat heavy country gentleman, much set upon rustic sports, slow at learning, and averse alike from camps and cities. The ambition of the grandmother found nothing to feed upon in the young lord of Beaumanoir. He was kind, virtuous and honest, but dull as a pool on a winter's highway.

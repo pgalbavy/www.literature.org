@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Fast Runner"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-07.html"
 ---
 
 On Blue Mountain, and in Pleasant Valley as well, there lived many fast runners. And among the swiftest was Jimmy Rabbit. But he never ran very far. Whenever he was startled he would go bounding off like the wind; but pretty soon he would stop and listen to see if anyone was following him. And if it happened to be dog Spot, he always hurried to a hollow stump, or perhaps a woodchuck's hole--or a skunk's--and hid there until Spot went away.

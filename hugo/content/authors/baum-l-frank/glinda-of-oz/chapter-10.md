@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/baum-l-frank/glinda-of-oz/chapter-10.html"
+url: "/authors/baum-l-frank/glinda-of-oz/chapter-10.html"
 ---
 
 When night fell all the interior of the Great Dome, streets and houses, became lighted with brilliant incandescent lamps, which rendered it bright as day. Dorothy thought the island must look beautiful by night from the outer shore of the lake. There was revelry and feasting in the Queen's palace, and the music of the royal band could be plainly heard in Lady Aurex's house, where Ozma and Dorothy remained with their hostess and keeper. They were prisoners, but treated with much consideration.

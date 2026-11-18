@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-21.html"
+url: "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-21.html"
 ---
 
 The full-throated baying of a hound. Men, far in the valleys below Stone Mountain, looked up, and listened, wondering. But those on the mountain heard and understood: Dan Hodges was being run to earth.

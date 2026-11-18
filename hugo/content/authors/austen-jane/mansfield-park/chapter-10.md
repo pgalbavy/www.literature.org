@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-10.html"
+url: "/authors/austen-jane/mansfield-park/chapter-10.html"
 ---
 
 A quarter of an hour, twenty minutes, passed away, and Fanny was still thinking of Edmund, Miss Crawford, and herself, without interruption from any one. She began to be surprised at being left so long, and to listen with an anxious desire of hearing their steps and their voices again. She listened, and at length she heard; she heard voices and feet approaching; but she had just satisfied herself that it was not those she wanted, when Miss Bertram, Mr. Rushworth, and Mr. Crawford issued from the same path which she had trod herself, and were before her.

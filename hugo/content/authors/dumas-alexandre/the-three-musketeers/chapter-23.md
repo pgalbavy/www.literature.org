@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Rendezvous"
 weight: 24
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-23.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-23.html"
 ---
 
 D'Artagnan ran home immediately, and although it was three o'clock in the morning and he had some of the worst quarters of Paris to traverse, he met with no misadventure. Everyone knows that drunkards and lovers have a protecting deity.

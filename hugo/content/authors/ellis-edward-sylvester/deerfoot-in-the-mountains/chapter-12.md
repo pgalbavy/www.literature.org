@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Blackfoot Citizens"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-12.html"
 ---
 
 "Well," said Victor Shelton, "our tramping is through for several months to come, and we may as well settle ourselves for the winter."

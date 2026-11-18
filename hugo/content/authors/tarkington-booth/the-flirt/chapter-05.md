@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/tarkington-booth/the-flirt/chapter-05.html"
+url: "/authors/tarkington-booth/the-flirt/chapter-05.html"
 ---
 
 Half an hour later, when Lindley had gone, Cora closed the front doors in a manner which drew an immediate cry of agony from the room where her father was trying to sleep. She stood on tiptoe to turn out the gas-light in the hall; but for a time the key resisted the insufficient pressure of her finger-tips: the little orange flame, with its black-green crescent over the armature, so maliciously like the "eye" of a peacock feather, limned the exquisite planes of the upturned face; modelled them with soft and regular shadows; painted a sullen loveliness. The key turned a little, but not enough; and she whispered to herself a monosyllable not usually attributed to the vocabulary of a damsel of rank. Next moment, her expression flashed in a brilliant change, like that of a pouting child suddenly remembering that tomorrow is Christmas. The key surrendered instantly, and she ran gayly up the familiar stairs in the darkness.

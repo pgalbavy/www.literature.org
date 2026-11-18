@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Lost In The Mine"
 weight: 1
-aliases:
-  - "/authors/greene-homer/the-blind-brother/chapter-01.html"
+url: "/authors/greene-homer/the-blind-brother/chapter-01.html"
 ---
 
 The Dryden Mine, in the Susquehanna coal-fields of Pennsylvania, was worked out and abandoned long ago. To-day its headings and airways and chambers echo only to the occasional fall of loosened slate, or to the drip of water from the roof. Its pillars, robbed by retreating workmen, are crumbling and rusty, and those of its props which are still standing have become mouldy and rotten. The rats that once scampered through its galleries deserted it along with human kind, and its very name, from long disuse, has acquired an unaccustomed sound.

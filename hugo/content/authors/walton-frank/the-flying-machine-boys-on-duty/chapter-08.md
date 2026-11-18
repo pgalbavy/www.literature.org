@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Loss Of A Boy!"
 weight: 8
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-08.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-08.html"
 ---
 
 “They seem to be celebrating our arrival,” Ben said, looking down on the signal fire with a grin, “only I don’t hear any bands,” he continued, as the flames streamed up and cast a red light over the waters of the Pacific ocean.

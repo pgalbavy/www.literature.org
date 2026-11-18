@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Mother Trigedgo"
 weight: 6
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/chapter-05.html"
+url: "/authors/coolidge-dane/silver-and-gold/chapter-05.html"
 ---
 
 "Well, I'll tell you," confided Big Boy, moving closer to Old Bunk and lowering his voice mysteriously, "I know you'll think I'm crazy, but there's something to that stuff. Maybe we don't understand it, and of course there's a lot of fakes, but I got this from Mother Trigedgo. She's that Cornish seeress, that predicted the big cave in the stope of the Last Chance mine, and now I know she's good. She tells fortunes by cards and by pouring water in your hand and going into a trance. Then she looks into the water and sees a kind of vision of all that is going to happen. Well, here's what she said for me--and she wrote it down on a paper.

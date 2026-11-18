@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/conrad-joseph/the-secret-agent/chapter-08.html"
+url: "/authors/conrad-joseph/the-secret-agent/chapter-08.html"
 ---
 
 Having infused by persistent importunities some sort of heat into the chilly interest of several licensed victuallers (the acquaintances once upon a time of her late unlucky husband), Mrs Verloc’s mother had at last secured her admission to certain almshouses founded by a wealthy innkeeper for the destitute widows of the trade.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - A Fatal Failure"
 weight: 31
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-31.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-31.html"
 ---
 
 Deerfoot the Shawanoe made known only a few of the thoughts which troubled him, when he hurried Jack Carleton and Otto Relstaub forward with orders to make no tarrying (except to cover their footprints), until they should reach the distant ridge, where, as I have stated, he hoped to join them.

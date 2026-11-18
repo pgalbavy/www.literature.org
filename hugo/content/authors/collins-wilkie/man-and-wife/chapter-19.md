@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Close On It"
 weight: 21
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-19.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-19.html"
 ---
 
 THE object of the invasion of the library by the party in the garden appeared to be twofold.

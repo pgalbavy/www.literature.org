@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/alcott-louisa-may/paulines-passion-and-punishment/chapter-03.html"
+url: "/authors/alcott-louisa-may/paulines-passion-and-punishment/chapter-03.html"
 ---
 
 For several days the Cubans were almost invisible, appearing only for a daily drive, a twilight saunter on the beach, or a brief visit to the ballroom, there to enjoy the excitement of the pastime in which they both excelled. Their apartments were in the quietest wing of the hotel, and from the moment of their occupancy seemed to acquire all the charms of home. The few guests admitted felt the atmosphere of poetry and peace that pervaded the nest which Love, the worker of miracles, had built himself even under that tumultuous roof. Strollers in the halls or along the breezy verandas often paused to listen to the music of instrument or voice which came floating out from these sequestered rooms. Frequent laughter and the murmur of conversation proved that ennui was unknown, and a touch of romance inevitably enhanced the interest wakened by the beautiful young pair, always together, always happy, never weary of the dolce far niente of this summer life.

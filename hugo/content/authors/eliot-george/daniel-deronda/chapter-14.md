@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-14.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-14.html"
 ---
 
 I will not clothe myself in wreck - wear gems Sawed from cramped finger-bones of women drowned; Feel chilly vaporous hands of ireful ghosts Clutching my necklace: trick my maiden breast With orphans' heritage. Let your dead love Marry it's dead.

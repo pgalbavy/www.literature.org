@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - London, A Year Later"
 weight: 13
-aliases:
-  - "/authors/davis-richard-harding/with-the-french-in-france-and-salonika/chapter-12.html"
+url: "/authors/davis-richard-harding/with-the-french-in-france-and-salonika/chapter-12.html"
 ---
 
 February, 1916.

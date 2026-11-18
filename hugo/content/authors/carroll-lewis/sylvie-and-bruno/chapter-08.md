@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Ride on a Lion"
 weight: 9
-aliases:
-  - "/authors/carroll-lewis/sylvie-and-bruno/chapter-08.html"
+url: "/authors/carroll-lewis/sylvie-and-bruno/chapter-08.html"
 ---
 
 The next day glided away, pleasantly enough, partly in settling myself in my new quarters, and partly in strolling round the neighbourhood, under Arthur's guidance, and trying to form a general idea of Elveston and its inhabitants. When five o'clock arrived, Arthur proposed without any embarrassment this time--to take me with him up to 'the Hall,' in order that I might make acquaintance with the Earl of Ainslie, who had taken it for the season, and renew acquaintance with his daughter Lady Muriel.

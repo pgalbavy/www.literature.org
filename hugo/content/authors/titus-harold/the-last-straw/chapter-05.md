@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Courting"
 weight: 5
-aliases:
-  - "/authors/titus-harold/the-last-straw/chapter-05.html"
+url: "/authors/titus-harold/the-last-straw/chapter-05.html"
 ---
 
 Jane Hunter was in work up to her trim elbows. She had little time for anything else. Twice again Dick Hilton came to see her, riding a horse in the second visit, but his stays were not lengthy ... and not satisfactory, because the girl had little thought for anything but ranch affairs.

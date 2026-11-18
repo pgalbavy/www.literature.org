@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/lawrence-david-herbert/the-captains-doll/chapter-14.html"
+url: "/authors/lawrence-david-herbert/the-captains-doll/chapter-14.html"
 ---
 
 Hepburn and Hannele were to make a small excursion to the glacier which stood there always in sight, coldly grinning in the sky. The weather had been very hot, but this morning there were loose clouds in the sky. The captain rowed over the lake soon after dawn. Hannele stepped into the little craft, and they pulled back to the town. There was a wind ruffling the water, so that the boat leaped and chuckled. The glacier, in a recess among the folded mountains, looked cold and angry. But morning was very sweet in the sky, and blowing very sweet with a faint scent of the second hay from the low lands at the head of the lake. Beyond stood naked grey rock like a wall of mountains, pure rock, with faint, thin slashes of snow. Yesterday it had rained on the lake. The sun was going to appear from behind the Breitsteinhorn, the sky with its clouds floating in blue light and yellow radiance was lovely and cheering again. But dark clouds seemed to spout up from the Pinzgau valley. And once across the lake, all was shadow, when the water no longer gave back the sky-morning.

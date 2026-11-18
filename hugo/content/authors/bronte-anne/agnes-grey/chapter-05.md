@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Uncle"
 weight: 5
-aliases:
-  - "/authors/bronte-anne/agnes-grey/chapter-05.html"
+url: "/authors/bronte-anne/agnes-grey/chapter-05.html"
 ---
 
 BESIDES the old lady, there was another relative of the family, whose visits were a great annoyance to me - this was 'Uncle Robson,' Mrs. Bloomfield's brother; a tall, self-sufficient fellow, with dark hair and sallow complexion like his sister, a nose that seemed to disdain the earth, and little grey eyes, frequently half- closed, with a mixture of real stupidity and affected contempt of all surrounding objects. He was a thick-set, strongly-built man, but he had found some means of compressing his waist into a remarkably small compass; and that, together with the unnatural stillness of his form, showed that the lofty-minded, manly Mr. Robson, the scorner of the female sex, was not above the foppery of stays. He seldom deigned to notice me; and, when he did, it was with a certain supercilious insolence of tone and manner that convinced me he was no gentleman: though it was intended to have a contrary effect. But it was not for that I disliked his coming, so much as for the harm he did the children - encouraging all their evil propensities, and undoing in a few minutes the little good it had taken me months of labour to achieve.

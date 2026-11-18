@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Jill's Mission"
 weight: 8
-aliases:
-  - "/authors/alcott-louisa-may/jack-and-jill/chapter-07.html"
+url: "/authors/alcott-louisa-may/jack-and-jill/chapter-07.html"
 ---
 
 The good times began immediately, and very little studying was done that week in spite of the virtuous resolutions made by certain young persons on Christmas Day. But, dear me, how was it possible to settle down to lessons in the delightful Bird Room, with not only its own charms to distract one, but all the new gifts to enjoy, and a dozen calls a day to occupy one's time?

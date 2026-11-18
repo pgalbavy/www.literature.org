@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Wherein A Deadly War Begins"
 weight: 14
-aliases:
-  - "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-13.html"
+url: "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-13.html"
 ---
 
 The town and the World of Fashion greeted her on her return with open arms. Those who looked on when she bent the knee to kiss the hand of Royalty at the next drawing-room, whispered among themselves that bereavement had not dimmed her charms, which were even more radiant than they had been at her presentation on her marriage, and that the mind of no man or woman could dwell on aught as mournful as widowhood in connection with her, or, indeed, could think of anything but her brilliant beauty. 'Twas as if from this time she was launched into a new life. Being rich, of high rank, and no longer an unmarried woman, her position had a dignity and freedom which there was no creature but might have envied. As the wife of Dunstanwolde she had been the fashion, and adored by all who dared adore her; but as his widow she was surrounded and besieged. A fortune, a toast, a wit, and a beauty, she combined all the things either man or woman could desire to attach themselves to the train of; and had her air been less regal, and her wit less keen of edge, she would have been so beset by flatterers and toadies that life would have been burdensome. But this she would not have, and was swift enough to detect the man whose debts drove him to the expedient of daring to privately think of the usefulness of her fortune, or the woman who manoeuvred to gain reputation or success by means of her position and power.

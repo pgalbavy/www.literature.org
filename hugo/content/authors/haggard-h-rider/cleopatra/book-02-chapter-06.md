@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 6"
 weight: 14
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-02-chapter-06.html"
+url: "/authors/haggard-h-rider/cleopatra/book-02-chapter-06.html"
 ---
 
 OF THE WORDS AND JEALOUSY OF CHARMION; OF THE LAUGHTER OF HARMACHIS; OF THE MAKING READY FOR THE DEED OF BLOOD; AND OF THE

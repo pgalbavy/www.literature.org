@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Ragnall Castle"
 weight: 2
-aliases:
-  - "/authors/haggard-h-rider/the-ancient-allan/chapter-02.html"
+url: "/authors/haggard-h-rider/the-ancient-allan/chapter-02.html"
 ---
 
 When I had finished reading this amazing document I lit my pipe and set to work to think it over. The hypothetical inquirer might ask why I thought it amazing. There was nothing odd in a dilettante Englishman of highly cultivated mind taking to Egyptology and, being, as it chanced, one of the richest men in the kingdom, spending a fraction of his wealth in excavating temples. Nor was it strange that he should have happened to die by accident when engaged in that pursuit, which I can imagine to be very fascinating in the delightful winter climate of Egypt. He was not the first person to be buried by a fall of sand. Why, only a little while ago the same fate overtook a nursery-governess and the child in her charge who were trying to dig out a martin’s nest in a pit in this very parish. Their operations brought down a huge mass of the overhanging bank beneath which the sand-vein had been hollowed by workmen who deserted the pit when they saw that it had become unsafe. Next day I and my gardeners helped to recover their bodies, for their whereabouts was not discovered until the following morning, and a sad business it was.

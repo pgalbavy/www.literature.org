@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Confidences"
 weight: 2
-aliases:
-  - "/authors/haggard-h-rider/benita-an-african-romance/chapter-01.html"
+url: "/authors/haggard-h-rider/benita-an-african-romance/chapter-01.html"
 ---
 
 Beautiful, beautiful was that night! No air that stirred; the black smoke from the funnels of the mail steamer Zanzibar lay low over the surface of the sea like vast, floating ostrich plumes that vanished one by one in the starlight. Benita Beatrix Clifford, for that was her full name, who had been christened Benita after her mother and Beatrix after her father’s only sister, leaning idly over the bulwark rail, thought to herself that a child might have sailed that sea in a boat of bark and come safely into port.

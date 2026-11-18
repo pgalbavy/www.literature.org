@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Prairie Chicken"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-12.html"
 ---
 
 After he left Mr. Fox, Benny Badger hurried here and there and everywhere in search of a prairie chicken.

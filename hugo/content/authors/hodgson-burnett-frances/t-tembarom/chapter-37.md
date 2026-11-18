@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37"
 weight: 37
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-37.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-37.html"
 ---
 
 Old Mrs. Hutchinson's letter had supplied much detail, but when her son and grand-daughter arrived in the village of Temple Barholm they heard much more, the greater part of it not in the least to be relied upon.

@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 5 - Israel Hands"
 weight: 27
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-05-chapter-05.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-05-chapter-05.html"
 ---
 
 THE wind, serving us to a desire, now hauled into the west. We could run so much the easier from the north-east corner of the island to the mouth of the North Inlet. Only, as we had no power to anchor and dared not beach her till the tide had flowed a good deal farther, time hung on our hands. The coxswain told me how to lay the ship to; after a good many trials I succeeded, and we both sat in silence over another meal.

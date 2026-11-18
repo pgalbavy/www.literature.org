@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Neigh Of A Horse"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-21.html"
 ---
 
 The stray horse appeared to be distributing the property of the boys in a promiscuous fashion. So far as they knew, he still retained his equipments and a roll of personal effects, fastened in front of the saddle instead of behind it, as was the case with the blankets.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Moonlight Ride"
 weight: 24
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-24.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-24.html"
 ---
 
 And so the twenty minutes' law passed into an infinity. We leave the wicked Bechamel clothing himself with cursing as with a garment,--the wretched creature has already sufficiently sullied our modest but truthful pages,--we leave the eager little group in the bar of the Vicuna Hotel, we leave all Bognor as we have left all Chichester and Midhurst and Haslemere and Guildford and Ripley and Putney, and follow this dear fool of a Hoopdriver of ours and his Young Lady in Grey out upon the moonlight road. How they rode! How their hearts beat together and their breath came fast, and how every shadow was anticipation and every noise pursuit! For all that flight Mr. Hoopdriver was in the world of Romance. Had a policeman intervened because their lamps were not lit, Hoopdriver had cut him down and ridden on, after the fashion of a hero born. Had Bechamel arisen in the way with rapiers for a duel, Hoopdriver had fought as one to whom Agincourt was a reality and drapery a dream. It was Rescue, Elopement, Glory! And she by the side of him! He had seen her face in shadow, with the morning sunlight tangled in her hair, he had seen her sympathetic with that warm light in her face, he had seen her troubled and her eyes bright with tears. But what light is there lighting a face like hers, to compare with the soft glamour of the midsummer moon?

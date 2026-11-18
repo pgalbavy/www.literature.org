@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Locked In!"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-09.html"
 ---
 
 POOR Daddy Longlegs! Buried as he was under dozens of shoes--all of them many times bigger than he was--he couldn't help being alarmed when he heard Jimmy Rabbit walk out of the shoe shop and lock the door behind him.

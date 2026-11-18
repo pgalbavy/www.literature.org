@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 4 - The Governess"
 weight: 4
-aliases:
-  - "/authors/conrad-joseph/chance/part-01-chapter-04.html"
+url: "/authors/conrad-joseph/chance/part-01-chapter-04.html"
 ---
 
 And the best of it was that the danger was all over already. There was no danger any more. The supposed nephew's appearance had a purpose. He had come, full, full to trembling—with the bigness of his news. There must have been rumours already as to the shaky position of the de Barral's concerns; but only amongst those in the very inmost know. No rumour or echo of rumour had reached the profane in the West-End—let alone in the guileless marine suburb of Hove. The Fynes had no suspicion; the governess, playing with cold, distinguished exclusiveness the part of mother to the fabulously wealthy Miss de Barral, had no suspicion; the masters of music, of drawing, of dancing to Miss de Barral, had no idea; the minds of her medical man, of her dentist, of the servants in the house, of the tradesmen proud of having the name of de Barral on their books, were in a state of absolute serenity. Thus, that fellow, who had unexpectedly received a most alarming straight tip from somebody in the City arrived in Brighton, at about lunch-time, with something very much in the nature of a deadly bomb in his possession. But he knew better than to throw it on the public pavement. He ate his lunch impenetrably, sitting opposite Flora de Barral, and then, on some excuse, closeted himself with the woman whom little Fyne's charity described (with a slight hesitation of speech however) as his "Aunt."

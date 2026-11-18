@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Departures Expected And Unexpected"
 weight: 24
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-22.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-22.html"
 ---
 
 There was a silence of a few seconds after the Captain had finished his story, all the men sitting with eyes fixed on him, and not a little surprised at the results of their call. Drysdale was the first to break the silence, which he did with a "By George!" and a long respiration; but, as he did not seem prepared with any further remark, Tom took up the running.

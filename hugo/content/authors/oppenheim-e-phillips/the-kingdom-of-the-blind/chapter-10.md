@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-10.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-10.html"
 ---
 
 Surgeon-Major Thomson awoke about twelve hours later with a start. He had been sleeping so heavily that he was at first unable to remember his whereabouts. His mind moved sluggishly across the brief panorama of his hurried journey--the special train from Victoria to Folkestone; the destroyer which had brought him and a few other soldiers across the Channel, black with darkness, at a pace which made even the promenade deck impossible; the landing at Boulogne, a hive of industry notwithstanding the darkness; the clanking of waggons, the shrieking of locomotives, the jostling of crowds, the occasional flashing of an electric torch. And then the ride in the great automobile through the misty night. He rubbed his eyes and looked around him. A grey morning was breaking. The car had come to a standstill before a white gate, in front of which was stationed a British soldier, with drawn bayonet. Surgeon-Major Thomson pulled himself together and answered the challenge.

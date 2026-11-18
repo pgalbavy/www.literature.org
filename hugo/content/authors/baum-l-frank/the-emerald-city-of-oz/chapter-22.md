@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 23
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-22.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-22.html"
 ---
 
 When they came to the signpost, there, to their joy, were the tents of the Wizard pitched beside the path and the kettle bubbling merrily over the fire. The Shaggy Man and Omby Amby were gathering firewood while Uncle Henry and Aunt Em sat in their camp chairs talking with the Wizard.

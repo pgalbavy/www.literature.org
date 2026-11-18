@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Polishing Mac"
 weight: 7
-aliases:
-  - "/authors/alcott-louisa-may/rose-in-bloom/chapter-06.html"
+url: "/authors/alcott-louisa-may/rose-in-bloom/chapter-06.html"
 ---
 
 "Please could I say one word?" was the question three times repeated before a rough head bobbed out from the grotto of books in which Mac usually sat when he studied.

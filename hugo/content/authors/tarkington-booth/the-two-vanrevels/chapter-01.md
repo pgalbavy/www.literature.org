@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Cat Can Do More Than Look At A King"
 weight: 1
-aliases:
-  - "/authors/tarkington-booth/the-two-vanrevels/chapter-01.html"
+url: "/authors/tarkington-booth/the-two-vanrevels/chapter-01.html"
 ---
 
 It was long ago in the days when men sighed when they fell in love; when people danced by candle and lamp, and did dance, too, instead of solemnly gliding about; in that mellow time so long ago, when the young were romantic and summer was roses and wine, old Carewe brought his lovely daughter home from the convent to wreck the hearts of the youth of Rouen.

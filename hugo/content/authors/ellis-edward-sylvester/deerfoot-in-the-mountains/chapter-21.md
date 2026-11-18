@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Homeward Bound"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-21.html"
 ---
 
 Despite the remarkable experiences of George and Victor Shelton in the Blackfoot village, they found, as the weeks and months passed, a monotony that deepened their homesickness and caused them to yearn for the day when they could start southward and leave the bleak region forever behind. The winters in that latitude are generally severe, and the brothers got a taste of cold weather such as they had never known on the other side of the Mississippi. There must have been repeated spells when, had a Fahrenheit thermometer been in existence, it would have shown a record of thirty and forty degrees below zero.

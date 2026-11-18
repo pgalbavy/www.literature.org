@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Among The Haycocks"
 weight: 18
-aliases:
-  - "/authors/alcott-louisa-may/rose-in-bloom/chapter-17.html"
+url: "/authors/alcott-louisa-may/rose-in-bloom/chapter-17.html"
 ---
 
 Uncle Alec did not object and, finding that no one had any claim upon the child, permitted Rose to keep it for a time at least. So little Dulce, newly equipped even to a name, took her place among them and slowly began to thrive. But she did not grow pretty and never was a gay, attractive child, for she seemed to have been born in sorrow and brought up in misery. A pale, pensive little creature, always creeping into corners and looking timidly out, as if asking leave to live, and, when offered playthings, taking them with a meek surprise that was very touching.

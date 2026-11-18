@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 2 - A Skirmish In The Dark"
 weight: 15
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-03-chapter-02.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-03-chapter-02.html"
 ---
 
 Thoroughly drenched and chilled, the two adventurers returned to their position in the gorse.

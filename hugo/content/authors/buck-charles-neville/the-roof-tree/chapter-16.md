@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-16.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-16.html"
 ---
 
 Parish Thornton sat on the doorstep of the house gazing abstractedly upward where through soft meshes of greenery the sunlight filtered.

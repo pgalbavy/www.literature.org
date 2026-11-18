@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A New Game"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-08.html"
 ---
 
 Billy Woodchuck and Jimmy Rabbit often played together. Though they did not look the least bit alike, they agreed almost perfectly in one thing: they liked the same good things to eat. There was no place they would rather go than Farmer Green's garden.

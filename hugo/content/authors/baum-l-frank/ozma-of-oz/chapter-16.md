@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 17
-aliases:
-  - "/authors/baum-l-frank/ozma-of-oz/chapter-16.html"
+url: "/authors/baum-l-frank/ozma-of-oz/chapter-16.html"
 ---
 
 The yellow hen, stepping high and with an air of vast importance, walked slowly over the rich velvet carpets of the splendid palace, examining everything she met with her sharp little eyes.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Sacred Joy"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-20.html"
 ---
 
 Sweetly the Sabbath bells sounded in the ear of Blair Robertson. What a joy it was to be once more at home, once more in his native land. How delightful the thought that prayer had already gone up from many family altars, and already Christ's little ones were gathering to be taught of him and sing his praise. To dwell among the ungodly is indeed a bitter trial. The society of the unprincipled had been to Blair like a dark cloud overshadowing his pathway; and it was a new delight to him to be once more among the people of God. What a blessing it seemed to him to be a dweller in the land of light and liberty, where the free worshippers might pray and praise without let or hinderance from ungodly men.

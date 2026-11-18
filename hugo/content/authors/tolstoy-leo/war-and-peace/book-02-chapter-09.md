@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 9"
 weight: 37
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-02-chapter-09.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-02-chapter-09.html"
 ---
 
 Pursued by the French army of a hundred thousand men under the command of Bonaparte, encountering a population that was unfriendly to it, losing confidence in its allies, suffering from shortness of supplies, and compelled to act under conditions of war unlike anything that had been foreseen, the Russian army of thirty-five thousand men commanded by Kutuzov was hurriedly retreating along the Danube, stopping where overtaken by the enemy and fighting rearguard actions only as far as necessary to enable it to retreat without losing its heavy equipment. There had been actions at Lambach, Amstetten, and Melk; but despite the courage and endurance- acknowledged even by the enemy- with which the Russians fought, the only consequence of these actions was a yet more rapid retreat. Austrian troops that had escaped capture at Ulm and had joined Kutuzov at Braunau now separated from the Russian army, and Kutuzov was left with only his own weak and exhausted forces. The defense of Vienna was no longer to be thought of. Instead of an offensive, the plan of which, carefully prepared in accord with the modern science of strategics, had been handed to Kutuzov when he was in Vienna by the Austrian Hofkriegsrath, the sole and almost unattainable aim remaining for him was to effect a junction with the forces that were advancing from Russia, without losing his army as Mack had done at Ulm.

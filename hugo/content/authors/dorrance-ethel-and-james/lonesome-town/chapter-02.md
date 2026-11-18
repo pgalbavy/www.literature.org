@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Tip From The Top"
 weight: 2
-aliases:
-  - "/authors/dorrance-ethel-and-james/lonesome-town/chapter-02.html"
+url: "/authors/dorrance-ethel-and-james/lonesome-town/chapter-02.html"
 ---
 
 Peter Pape swung from the saddle and, pulling the reins over Polkadot’s head, led the law’s “strong arm” down the heights over the way he had ascended on horseback. A glance into the hectic visage beside him offered the assurance that, while not yet under arrest, he soon would be if he failed to find those circle-marked trees.

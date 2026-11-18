@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Night Attack"
 weight: 24
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-24.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-24.html"
 ---
 
 The men plunged through the timber toward the settlement. The ground was soft with snow now and the darkness was so dense that only their unerring sense of directions made progress at all possible.

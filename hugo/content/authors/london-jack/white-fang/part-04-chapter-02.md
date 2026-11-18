@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 2 - The Mad God"
 weight: 16
-aliases:
-  - "/authors/london-jack/white-fang/part-04-chapter-02.html"
+url: "/authors/london-jack/white-fang/part-04-chapter-02.html"
 ---
 
 A small number of white men lived in Fort Yukon. These men had been long in the country. They called themselves Sour-doughs, and took great pride in so classifying themselves. For other men, new in the land, they felt nothing but disdain. The men who came ashore from the steamers were newcomers. They were known as CHECHAQUOS, and they always wilted at the application of the name. They made their bread with baking-powder. This was the invidious distinction between them and the Sour-doughs, who, forsooth, made their bread from sour-dough because they had no baking-powder.

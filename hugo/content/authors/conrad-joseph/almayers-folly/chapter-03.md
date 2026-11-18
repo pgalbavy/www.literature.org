@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/conrad-joseph/almayers-folly/chapter-03.html"
+url: "/authors/conrad-joseph/almayers-folly/chapter-03.html"
 ---
 
 The deliberations conducted in London have a far-reaching importance, and so the decision issued from the fog-veiled offices of the Borneo Company darkened for Almayer the brilliant sunshine of the Tropics, and added another drop of bitterness to the cup of his disenchantments. The claim to that part of the East Coast was abandoned, leaving the Pantai river under the nominal power of Holland. In Sambir there was joy and excitement. The slaves were hurried out of sight into the forest and jungle, and the flags were run up to tall poles in the Rajah's compound in expectation of a visit from Dutch man-of-war boats.

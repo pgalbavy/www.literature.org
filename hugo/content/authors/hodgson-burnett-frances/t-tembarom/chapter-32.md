@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 32
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-32.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-32.html"
 ---
 
 It was business of serious importance which was to bring Captain Palliser's visit to a close. He explained it perfectly to Miss Alicia a day or so after Lady Mallowe and her daughter left them. He had lately been most amiable in his manner toward Miss Alicia, and had given her much valuable information about companies and stocks. He rather unexpectedly found it imperative that he should go to London and Berlin to “see people”--dealers in great financial schemes who were deeply interested in solid business speculations, such as his own, which were fundamentally different from all others in the impeccable firmness of their foundations.

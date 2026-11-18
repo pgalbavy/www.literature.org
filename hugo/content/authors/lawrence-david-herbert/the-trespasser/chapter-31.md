@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-31.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-31.html"
 ---
 
 In the same month of July, not yet a year after Siegmund's death, Helena sat on the top of the tramcar with Cecil Byrne. She was dressed in blue linen, for the day had been hot. Byrne was holding up to her a yellow-backed copy of Einsame Menschen, and she was humming the air of the Russian folk-song printed on the front page, frowning, nodding with her head, and beating time with her hand to get the rhythm of the song. She turned suddenly to him, and shook her head, laughing.

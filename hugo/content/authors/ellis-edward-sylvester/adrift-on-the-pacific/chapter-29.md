@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Farewell To The Island"
 weight: 29
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-29.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-29.html"
 ---
 
 The weather remained enchanting. The tropical heat was tempered by the ocean breeze, which stole among the palms, and across the island, and where the crew, and those who had lived there so long, lounged in the shadow, or sauntered in the sunshine, when the orb sank low in the western sky.

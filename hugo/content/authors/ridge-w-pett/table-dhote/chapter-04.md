@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Country Confederates"
 weight: 4
-aliases:
-  - "/authors/ridge-w-pett/table-dhote/chapter-04.html"
+url: "/authors/ridge-w-pett/table-dhote/chapter-04.html"
 ---
 
 “LET me get this yer all down on paper,” said George Hunt, searching his pockets. “I find if I trust to my memory everything goes clean out of my ’ead. Been like that since I was a boy.”

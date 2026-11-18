@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 3 - Ideas And Facts"
 weight: 19
-aliases:
-  - "/authors/leblanc-maurice/the-frontier/part-03-chapter-03.html"
+url: "/authors/leblanc-maurice/the-frontier/part-03-chapter-03.html"
 ---
 
 Marthe, who had kept her room since the day before, but remained attentive to all that was happening at the Old Mill, had, through her open door and window, heard and seen the hubbub, the fuss made by the servants, all the mad fluster of a house that feels itself threatened by an approaching cyclone.

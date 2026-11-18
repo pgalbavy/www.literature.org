@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Mrs. Robin’s News"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-01.html"
 ---
 
 If you had been in Farmer Green’s door-yard on a certain day in May you would have heard an unusual twittering and chirping and squawking.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Injun Noah"
 weight: 12
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-12.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-12.html"
 ---
 
 The cold dawn was stealing across the lake when Colonel Hallibut rode into his yard and, dismounting, turned the horse over to Dick. The hounds leaped and fawned upon him and he sternly commanded them to keep down. He led them through the door into the great kennel-yards and there arose a bedlam of glad yelps and growls of rage, as some favorite was petted or felt the fangs of jealousy of a stronger fellow. The master played the whip among them, laughing and shouting.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Coralie"
 weight: 1
-aliases:
-  - "/authors/leblanc-maurice/the-golden-triangle/chapter-01.html"
+url: "/authors/leblanc-maurice/the-golden-triangle/chapter-01.html"
 ---
 
 It was close upon half-past six and the evening shadows were growing denser when two soldiers reached the little space, planted with trees, opposite the Musée Galliéra, where the Rue de Chaillot and the Rue Pierre-Charron meet. One wore an infantryman's sky-blue great-coat; the other, a Senegalese, those clothes of undyed wool, with baggy breeches and a belted jacket, in which the Zouaves and the native African troops have been dressed since the war. One of them had lost his right leg, the other his left arm.

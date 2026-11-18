@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-29.html"
+url: "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-29.html"
 ---
 
 The Governor had been more influenced by watching the two as they talked than by what he had heard.

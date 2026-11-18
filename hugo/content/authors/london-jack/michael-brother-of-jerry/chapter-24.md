@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 25
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-24.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-24.html"
 ---
 
 Harris Collins was fifty-two years of age. He was slender and dapper, and in appearance and comportment was so sweet- and gentle-spirited that the impression he radiated was almost of sissyness. He might have taught a Sunday-school, presided over a girls' seminary, or been a president of a humane society.

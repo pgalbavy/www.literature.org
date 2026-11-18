@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Before The Walls Of Ascalon"
 weight: 20
-aliases:
-  - "/authors/haggard-h-rider/the-brethren/chapter-19.html"
+url: "/authors/haggard-h-rider/the-brethren/chapter-19.html"
 ---
 
 When Hassan was dead, at a sign from Saladin a captain of the Mameluks named Abdullah unfastened the jewel from the emir's turban and handed it to Wulf. It was a glorious star-shaped thing, made of great emeralds set round with diamonds, and the captain Abdullah, who like all Easterns loved such ornaments, looked at it greedily, and muttered:

@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 14"
 weight: 34
-aliases:
-  - "/authors/cather-willa/my-antonia/book-02-chapter-14.html"
+url: "/authors/cather-willa/my-antonia/book-02-chapter-14.html"
 ---
 
 THE DAY AFTER COMMENCEMENT I moved my books and desk upstairs, to an empty room where I should be undisturbed, and I fell to studying in earnest. I worked off a year’s trigonometry that summer, and began Virgil alone. Morning after morning I used to pace up and down my sunny little room, looking off at the distant river bluffs and the roll of the blond pastures between, scanning the ‘Aeneid’ aloud and committing long passages to memory. Sometimes in the evening Mrs. Harling called to me as I passed her gate, and asked me to come in and let her play for me. She was lonely for Charley, she said, and liked to have a boy about. Whenever my grandparents had misgivings, and began to wonder whether I was not too young to go off to college alone, Mrs. Harling took up my cause vigorously. Grandfather had such respect for her judgment that I knew he would not go against her.

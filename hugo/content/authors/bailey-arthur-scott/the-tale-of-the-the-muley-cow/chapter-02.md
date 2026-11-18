@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Why Johnnie Hurried"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-02.html"
 ---
 
 It was a proud day for Johnnie Green when his father told him that he might have the Muley Cow for his very own. The moment he heard the news Johnnie couldn't help interrupting his father with a shout.

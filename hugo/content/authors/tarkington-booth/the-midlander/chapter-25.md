@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-25.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-25.html"
 ---
 
 *NEITHER* Mr. Oliphant’s daughter-in-law nor his grandson was at home at the time of his death. Lena had gone abroad again, for a "three-months’ furlough," as she called it; and again in spite of Dan’s vehement protest that the boy "ought to see his own country first," she had taken Henry with her.

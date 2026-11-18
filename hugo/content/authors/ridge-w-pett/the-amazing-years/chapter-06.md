@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/ridge-w-pett/the-amazing-years/chapter-06.html"
+url: "/authors/ridge-w-pett/the-amazing-years/chapter-06.html"
 ---
 
 Miss Muriel went back in the car to her friends at Chislehurst, with the air of one who, for the sake of romance, was prepared to defy the world. She had always been spoilt by her mother (it is fair to myself to mention that the treatment was started before I entered the family) and Mrs. Hillier now took her side against the rest of us, declaring that a girl had to obey the instructions of her own heart, that love was something which could not be directed by those outside its influence, and that, moreover, it was a comfort to think there was likely to be an establishment available which would enable one to escape from the surroundings of Greenwich.

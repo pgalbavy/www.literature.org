@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Dealing With That Which Was Done In The Panelled Parlour"
 weight: 17
-aliases:
-  - "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-16.html"
+url: "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-16.html"
 ---
 
 He followed her to the Panelled Parlour, the one to which she had taken Osmonde on the day of their bliss, the one in which in the afternoon she received those who came to pay court to her over a dish of tea. In the mornings none entered it but herself or some invited guest. 'Twas not the room she would have chosen for him; but when he said to her, "'Twere best your ladyship took me to some private place," she had known there was no other so safe.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-10.html"
+url: "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-10.html"
 ---
 
 Gravely restraining their protests until the visitor should have spoken, yet heavy-hearted with premonition, the elder and younger Falkins led the way up the flagstone path to the porch. Had the head of the house of Montagu strolled casually in, his hands still red with murder, for an afternoon call at the strong-hold of the Capulets, his advent could hardly have been more unexpected or unwelcome. The Honorable McAllister Falkins and his son were mountaineers, and to the mountaineer the voluntary arrival of a guest under the roof-tree is a mandate to consideration so long as he remains there.

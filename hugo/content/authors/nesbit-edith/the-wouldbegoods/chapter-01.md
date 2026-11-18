@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Jungle"
 weight: 1
-aliases:
-  - "/authors/nesbit-edith/the-wouldbegoods/chapter-01.html"
+url: "/authors/nesbit-edith/the-wouldbegoods/chapter-01.html"
 ---
 
 Children are like jam: all very well in the proper place, but you can't stand them all over the shop - eh, what?'

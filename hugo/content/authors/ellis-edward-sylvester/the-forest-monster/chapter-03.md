@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Teddy O’doherty’s Encounters"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/the-forest-monster/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/the-forest-monster/chapter-03.html"
 ---
 
 It will be remembered that upon the appearance of the strange animal, during the preceding spring, one member of the party, (Teddy O’Doherty,) was asleep, and failed to see it.

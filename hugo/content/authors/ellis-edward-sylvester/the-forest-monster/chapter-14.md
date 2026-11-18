@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Conclusion"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/the-forest-monster/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/the-forest-monster/chapter-14.html"
 ---
 
 It was an appalling situation indeed. There were fully thirty mounted and fully-armed Indians in front of them, not one less in their rear, and on the right and left rose the perpendicular sides of the cañon to a hight of forty feet!

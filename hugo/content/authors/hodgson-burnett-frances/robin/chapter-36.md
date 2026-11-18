@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 37
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-36.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-36.html"
 ---
 
 Harrowby and the rest did not carry on their War Work in the slice of a house. It was of an order requiring a more serious atmosphere. Feather saw even the Starling less and less.

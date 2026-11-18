@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/baum-l-frank/ozma-of-oz/chapter-10.html"
+url: "/authors/baum-l-frank/ozma-of-oz/chapter-10.html"
 ---
 
 The road led for a time through a pretty farm country, and then past a picnic grove that was very inviting. But the procession continued to steadily advance until Billina cried in an abrupt and commanding manner:

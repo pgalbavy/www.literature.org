@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/greene-homer/the-guardsman/chapter-01.html"
+url: "/authors/greene-homer/the-guardsman/chapter-01.html"
 ---
 
 Hallowe’en! Religion, romance and mischief give life and color to the name. But in the mind of the American boy mischief is the predominating thought when the name is spoken. It is still a mystery why this particular night should have been chosen for indulgence in that form of juvenile pleasure which consists chiefly in removing loose property of Mr. Smith to the front yard of Mr. Jones. But that it has been so chosen no early promenader of the streets on the first morning in November will have the temerity to deny. Convincing evidence of such transfers may be seen in almost every block.

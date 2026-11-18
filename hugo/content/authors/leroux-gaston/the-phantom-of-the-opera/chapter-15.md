@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Christine! Christine!"
 weight: 16
-aliases:
-  - "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-15.html"
+url: "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-15.html"
 ---
 
 Raoul's first thought, after Christine Daae's fantastic disappearance, was to accuse Erik. He no longer doubted the almost supernatural powers of the Angel of Music, in this domain of the Opera in which he had set up his empire. And Raoul rushed on the stage, in a mad fit of love and despair.

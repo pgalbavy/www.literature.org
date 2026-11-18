@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/huxley-aldous/crome-yellow/chapter-12.html"
+url: "/authors/huxley-aldous/crome-yellow/chapter-12.html"
 ---
 
 Blight, Mildew, and Smut..." Mary was puzzled and distressed. Perhaps her ears had played her false. Perhaps what he had really said was, "Squire, Binyon, and Shanks," or "Childe, Blunden, and Earp," or even "Abercrombie, Drinkwater, and Rabindranath Tagore." Perhaps. But then her ears never did play her false. "Blight, Mildew, and Smut." The impression was distinct and ineffaceable. "Blight, Mildew..." she was forced to the conclusion, reluctantly, that Denis had indeed pronounced those improbable words. He had deliberately repelled her attempts to open a serious discussion. That was horrible. A man who would not talk seriously to a woman just because she was a woman—oh, impossible! Egeria or nothing. Perhaps Gombauld would be more satisfactory. True, his meridional heredity was a little disquieting; but at least he was a serious worker, and it was with his work that she would associate herself. And Denis? After all, what *WAS* Denis? A dilettante, an amateur...

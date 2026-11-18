@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Besieged In The Temple"
 weight: 16
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-16.html"
+url: "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-16.html"
 ---
 
 As Sam watched the shadow cast by the moonlight on the marble slab at the entrance, his prisoner turned sharply about and lifted a hand as if to shield himself from attack.

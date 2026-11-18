@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 19
-aliases:
-  - "/authors/baum-l-frank/ozma-of-oz/chapter-18.html"
+url: "/authors/baum-l-frank/ozma-of-oz/chapter-18.html"
 ---
 
 Dorothy obeyed. She ran at once behind the Nome King, who was still trying to free his eyes from the egg, and in a twinkling she had unbuckled his splendid jeweled belt and carried it away with her to her place beside the Tiger and Lion, where, because she did not know what else to do with it, she fastened it around her own slim waist.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/collins-wilkie/the-haunted-hotel/chapter-15.html"
+url: "/authors/collins-wilkie/the-haunted-hotel/chapter-15.html"
 ---
 
 (MISS AGNES LOCKWOOD TO MRS. FERRARI)

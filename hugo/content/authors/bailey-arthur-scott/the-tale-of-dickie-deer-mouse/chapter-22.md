@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Queer Mr. Pine Finch"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-22.html"
 ---
 
 Perhaps the winter was longer than usual; or perhaps Dickie Deer Mouse ate too freely of his hidden store of good things. At any rate, Dickie's hoard slowly grew smaller and smaller. And long before the day came when he bolted the last seed that remained in the hollow fence-rail he had begun to wonder where he should find more food.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-29.html"
+url: "/authors/london-jack/john-barleycorn/chapter-29.html"
 ---
 
 After my long sickness my drinking continued to be convivial. I drank when others drank and I was with them. But, imperceptibly, my need for alcohol took form and began to grow. It was not a body need. I boxed, swam, sailed, rode horses, lived in the open an arrantly healthful life, and passed life insurance examinations with flying colours. In its inception, now that I look back upon it, this need for alcohol was a mental need, a nerve need, a good- spirits need. How can I explain?

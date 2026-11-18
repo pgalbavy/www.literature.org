@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-11.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-11.html"
 ---
 
 You must suppose about three weeks passed over. Mrs. Graham and I were now established friends - or brother and sister, as we rather chose to consider ourselves. She called me Gilbert, by my express desire, and I called her Helen, for I had seen that name written in her books. I seldom attempted to see her above twice a week; and still I made our meetings appear the result of accident as often as I could - for I found it necessary to be extremely careful - and, altogether, I behaved with such exceeding propriety that she never had occasion to reprove me once. Yet I could not but perceive that she was at times unhappy and dissatisfied with herself or her position, and truly I myself was not quite contented with the latter: this assumption of brotherly nonchalance was very hard to sustain, and I often felt myself a most confounded hypocrite with it all; I saw too, or rather I felt, that, in spite of herself, 'I was not indifferent to her,' as the novel heroes modestly express it, and while I thankfully enjoyed my present good fortune, I could not fail to wish and hope for something better in future; but, of course, I kept such dreams entirely to myself.

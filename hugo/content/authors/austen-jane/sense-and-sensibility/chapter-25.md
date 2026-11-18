@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-25.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-25.html"
 ---
 
 Though Mrs. Jennings was in the habit of spending a large portion of the year at the houses of her children and friends, she was not without a settled habitation of her own. Since the death of her husband, who had traded with success in a less elegant part of the town, she had resided every winter in a house in one of the streets near Portman Square. Towards this home, she began on the approach of January to turn her thoughts, and thither she one day abruptly, and very unexpectedly by them, asked the elder Misses Dashwood to accompany her. Elinor, without observing the varying complexion of her sister, and the animated look which spoke no indifference to the plan, immediately gave a grateful but absolute denial for both, in which she believed herself to be speaking their united inclinations. The reason alleged was their determined resolution of not leaving their mother at that time of the year. Mrs. Jennings received the refusal with some surprise, and repeated her invitation immediately.

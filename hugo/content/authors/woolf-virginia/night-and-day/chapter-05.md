@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/woolf-virginia/night-and-day/chapter-05.html"
+url: "/authors/woolf-virginia/night-and-day/chapter-05.html"
 ---
 
 Denham had no conscious intention of following Katharine, but, seeing her depart, he took his hat and ran rather more quickly down the stairs than he would have done if Katharine had not been in front of him. He overtook a friend of his, by name Harry Sandys, who was going the same way, and they walked together a few paces behind Katharine and Rodney.

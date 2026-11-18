@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-23.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-23.html"
 ---
 
 And so much depends upon the craft which, made by man, is one with man, that the sea shall wear for him another aspect. I remember once seeing the commander—officially the master, by courtesy the captain—of a fine iron ship of the old wool fleet shaking his head at a very pretty brigantine. She was bound the other way. She was a taut, trim, neat little craft, extremely well kept; and on that serene evening when we passed her close she looked the embodiment of coquettish comfort on the sea. It was somewhere near the Cape—*The* Cape being, of course, the Cape of Good Hope, the Cape of Storms of its Portuguese discoverer. And whether it is that the word "storm" should not be pronounced upon the sea where the storms dwell thickly, or because men are shy of confessing their good hopes, it has become the nameless cape—the Cape *tout court*. The other great cape of the world, strangely enough, is seldom if ever called a cape. We say, "a voyage round the Horn"; "we rounded the Horn"; "we got a frightful battering off the Horn"; but rarely "Cape Horn," and, indeed, with some reason, for Cape Horn is as much an island as a cape. The third stormy cape of the world, which is the Leeuwin, receives generally its full name, as if to console its second-rate dignity. These are the capes that look upon the gales.

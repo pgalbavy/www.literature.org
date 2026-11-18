@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Shasta's Humor"
 weight: 31
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-31.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-31.html"
 ---
 
 The camp-fire was kept burning unremittingly until morning, and the wolverines as unceasingly continued their clamor, so that none of the parties secured a moment's sleep. The boys were signaled several times by Shasta to lie down, but they were too unaccustomed to such sights and sounds to permit them to do so with anything like peace; so they used their rifles upon the savage animals until prudence advised them to husband their ammunition until they had better use for it.

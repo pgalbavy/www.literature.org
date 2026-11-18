@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-23.html"
+url: "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-23.html"
 ---
 
 The policy of splitting the command into bits, and leaving one platoon to carry on the seeming of the full force, had brought both disaster and success. The main body had taken a middle course upon which the smaller details might--theoretically--fall back, and on either side squads had scouted. While the men under Falkins were being misled and trapped, another detachment had slipped fortuitously upon a scouting party of the enemy, and, being less fatigued by reason of an easier course, they were stealing through the bosque with unabated caution, and not one of that scouting party escaped alive except two who were captured. The detachment rejoined the platoon, and in view of the spirit in which the main command received these prisoners, they finally laid aside their show of sullen stubbornness and talked volubly.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 7 - Light In The Darkness"
 weight: 7
-aliases:
-  - "/authors/doyle-arthur-conan/a-study-in-scarlet/part-01-chapter-07.html"
+url: "/authors/doyle-arthur-conan/a-study-in-scarlet/part-01-chapter-07.html"
 ---
 
 THE intelligence with which Lestrade greeted us was so momentous and so unexpected, that we were all three fairly dumfoundered. Gregson sprang out of his chair and upset the remainder of his whiskey and water. I stared in silence at Sherlock Holmes, whose lips were compressed and his brows drawn down over his eyes.

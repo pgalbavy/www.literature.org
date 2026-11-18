@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Slight Miscalculation"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-02.html"
 ---
 
 The distance was so slight that a score of strokes drove the canoe to shore. Nothing in the nature of a path was to be seen, and there was so much undergrowth that when Mike glided under the vegetation, only the rear of the boat was visible to any one on the lake. He drew the craft up the bank far enough to prevent its floating away during his absence, and began picking his way through the bushes. A few rods and the wood grew more open, though not being much accustomed to that sort of traveling, he made considerable noise in his progress. He was thus engaged with his head bent and his arms thrust out in front feeling his way, when a low horizontal limb slid under his chin and as it almost lifted him off his feet brought him to a sudden stop.

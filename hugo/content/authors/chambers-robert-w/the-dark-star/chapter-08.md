@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Change Impends"
 weight: 9
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-08.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-08.html"
 ---
 
 The racing season at Saratoga drew toward its close, and Brandes had appeared there only twice in person, both times with a very young girl.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/baum-l-frank/tik-tok-of-oz/chapter-04.html"
+url: "/authors/baum-l-frank/tik-tok-of-oz/chapter-04.html"
 ---
 
 The waves dashed and the lightning flashed and the thunder rolled and the ship struck a rock. Betsy Bobbin was running across the deck and the shock sent her flying through the air until she fell with a splash into the dark blue water. The same shock caught Hank, a thin little, sad-faced mule, and tumbled him also into the sea, far from the ship's side.

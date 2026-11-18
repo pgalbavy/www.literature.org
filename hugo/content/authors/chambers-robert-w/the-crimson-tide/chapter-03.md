@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/chambers-robert-w/the-crimson-tide/chapter-03.html"
+url: "/authors/chambers-robert-w/the-crimson-tide/chapter-03.html"
 ---
 
 The dingy little Danish steamer *Elsinore* passed in at dawn, her camouflage obscured by sea-salt, her few passengers still prostrated from the long battering administered by the giant seas of the northern route.

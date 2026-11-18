@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 33
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-33.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-33.html"
 ---
 
 The greeting between the two men was cold, and the Prince almost immediately stepped between them. Nevertheless, Brott seemed to have a fancy to talk with Mr. Sabin.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Party"
 weight: 23
-aliases:
-  - "/authors/tarkington-booth/penrod-and-sam/chapter-23.html"
+url: "/authors/tarkington-booth/penrod-and-sam/chapter-23.html"
 ---
 
 *__________________________*  

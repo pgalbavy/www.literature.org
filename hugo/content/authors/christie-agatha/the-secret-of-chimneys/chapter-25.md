@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Tuesday Night At Chimneys"
 weight: 25
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-25.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-25.html"
 ---
 
 Lord Caterham, Virginia and Bundle were sitting in the library after dinner. It was Tuesday evening. Some thirty hours had elapsed since Anthony’s rather dramatic departure.

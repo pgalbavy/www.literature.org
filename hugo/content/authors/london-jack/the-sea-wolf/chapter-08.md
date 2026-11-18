@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-08.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-08.html"
 ---
 
 Sometimes I think Wolf Larsen mad, or half-mad at least, what of his strange moods and vagaries. At other times I take him for a great man, a genius who has never arrived. And, finally, I am convinced that he is the perfect type of the primitive man, born a thousand years or generations too late and an anachronism in this culminating century of civilization. He is certainly an individualist of the most pronounced type. Not only that, but he is very lonely. There is no congeniality between him and the rest of the men aboard ship. His tremendous virility and mental strength wall him apart. They are more like children to him, even the hunters, and as children he treats them, descending perforce to their level and playing with them as a man plays with puppies. Or else he probes them with the cruel hand of a vivisectionist, groping about in their mental processes and examining their souls as though to see of what soul-stuff is made.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/tarkington-booth/gentle-julia/chapter-16.html"
+url: "/authors/tarkington-booth/gentle-julia/chapter-16.html"
 ---
 
 With a proud air she crushingly departed, returning to her own home far from dissatisfied with what she had accomplished. Moreover, she began to expand with the realization of a new importance; and she was gratified with the effect upon her parents, at dinner that evening, when she informed them that she had written a poem, which was to be published in the prospective first number of *The North End Daily Oriole*.

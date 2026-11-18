@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Sir John Oxon Lays A Wager At Cribb'S Coffee House"
 weight: 10
-aliases:
-  - "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-09.html"
+url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-09.html"
 ---
 
 This is to be no story of wars and battles, of victories and historic events, such great engines being but touched upon respectfully, as their times and results formed part of the atmosphere of the life of a gentleman of rank who moved in the world affected by them, and among such personages as were most involved in the stirring incidents of their day. That which is to be told is but the story of a man's life and the love which was the greatest power in it--the thing which brought to him the fiercest struggles, the keenest torture, and the most perfect joy.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Lightfoot Does The Wise Thing"
 weight: 26
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-26.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-26.html"
 ---
 
 All the rest of that day the hunter with the terrible gun lay hidden in the bushes of the pasture where he could watch for Lightfoot the Deer to leave the place of safety he had found. It required a lot of patience on the part of the hunter, but the hunter had plenty of patience. It sometimes seems as if hunters have more patience than any other people.

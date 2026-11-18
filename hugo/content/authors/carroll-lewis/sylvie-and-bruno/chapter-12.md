@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - A Musical Gardener"
 weight: 13
-aliases:
-  - "/authors/carroll-lewis/sylvie-and-bruno/chapter-12.html"
+url: "/authors/carroll-lewis/sylvie-and-bruno/chapter-12.html"
 ---
 
 The Other Professor regarded him with some anxiety. "The smaller animal ought to go to bed at once," he said with an air of authority.

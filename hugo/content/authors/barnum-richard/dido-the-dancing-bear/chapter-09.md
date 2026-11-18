@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Dido In The Bakery"
 weight: 9
-aliases:
-  - "/authors/barnum-richard/dido-the-dancing-bear/chapter-09.html"
+url: "/authors/barnum-richard/dido-the-dancing-bear/chapter-09.html"
 ---
 
 “Don’t be afraid, little girl, we won’t let the bad dog hurt you,” said the man named George. “Whose dog is he?”

@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 7"
 weight: 15
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-02-chapter-07.html"
+url: "/authors/haggard-h-rider/cleopatra/book-02-chapter-07.html"
 ---
 
 OF THE VEILED WORDS OF CHARMION; OF THE PASSING OF HARMACHIS INTO THE PRESENCE OF CLEOPATRA; AND OF THE OVERTHROW OF HARMACHIS

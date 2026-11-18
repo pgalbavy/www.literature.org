@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/greene-homer/the-flag/chapter-04.html"
+url: "/authors/greene-homer/the-flag/chapter-04.html"
 ---
 
 When Pen told his grandfather that a snowball fight had been decided upon as the method of settling the controversy between the Hilltops and the Riverbeds, and that Miss Grey had given her permission to that effect, the old gentleman chuckled gleefully.

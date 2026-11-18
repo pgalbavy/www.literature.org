@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-09.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-09.html"
 ---
 
 The Dashwoods were now settled at Barton with tolerable comfort to themselves. The house and the garden, with all the objects surrounding them, were now become familiar, and the ordinary pursuits which had given to Norland half its charms were engaged in again with far greater enjoyment than Norland had been able to afford, since the loss of their father. Sir John Middleton, who called on them every day for the first fortnight, and who was not in the habit of seeing much occupation at home, could not conceal his amazement on finding them always employed.

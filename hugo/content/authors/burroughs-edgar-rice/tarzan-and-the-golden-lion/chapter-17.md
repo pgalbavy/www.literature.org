@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Torture Of Fire"
 weight: 17
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-17.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-17.html"
 ---
 
 FLORA HAWKES and her four confederates, pursued by Luvini and his two hundred warriors, stumbled through the darkness of the jungle night. They had no objective, for, guided entirely as they had been by the blacks, they knew not where they were and were completely lost. The sole idea dominating the mind of each was to put as much distance between themselves and the camp of the ivory raiders as possible, for no matter what the outcome of the battle there might have been, their fate would be the same should the victorious party capture them. They had stumbled on for perhaps half an hour when, during a momentary rest, they heard plainly behind them the sound of pursuit, and again they plunged on in their aimless flight of terror.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - In Collins's Care"
 weight: 16
-aliases:
-  - "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-16.html"
+url: "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-16.html"
 ---
 
 For two breaths I did not know where I was. It was still snowing, and the night was wild, such a night as we might not have again for weeks. Any one could move in it as securely as behind a curtain, for I could not see a yard before my face, and not a track could lie five minutes. But suddenly the familiarity of the place hit me, till I could have laughed out, if I had been there on any other business. Collins's long passage had wormed behind Thompson's stope, behind the La Chance stables; and it was no wonder he had found it easy enough to get supplies from Charliet. All he had to do was to cross the clearing from the jutting rock that shielded his private entrance and walk into Charliet's kitchen door. I moved toward it, and Collins grabbed at me through the smothering snow.

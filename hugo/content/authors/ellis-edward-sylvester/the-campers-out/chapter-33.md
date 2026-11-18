@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Conclusion"
 weight: 33
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-33.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-33.html"
 ---
 
 Jim McGovern now gave the particulars of his own escape through the help of Dick Halliard, and of their memorable interview on the border of the rushing flood, with the body of Tom Wagstaff lying at their feet. Bob listened with deep interest until he had finished, and then shook his head.

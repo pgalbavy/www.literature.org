@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Benny And The Owl"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-15.html"
 ---
 
 Benny Badger smiled at the owl. He thought he must be fooling.

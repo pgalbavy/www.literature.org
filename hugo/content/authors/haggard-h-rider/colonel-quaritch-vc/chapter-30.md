@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - Harold Takes The News"
 weight: 30
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-30.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-30.html"
 ---
 
 Mr. Quest and Harold bore the bleeding man--whether he was senseless or dead they knew not--into the house and laid him on the sofa. Then, having despatched a servant to seek a second doctor in case the one already gone for was out, they set to work to cut the clothes from his neck and arm, and do what they could, and that was little enough, towards staunching the bleeding. It soon, however, became evident that Cossey had only got the outside portion of the charge of No. 7 that is to say, he had been struck by about a hundred pellets of the three or four hundred which would go to the ordinary ounce and an eighth. Had he received the whole charge he must, at that distance, have been instantly killed. As it was, the point of the shoulder was riddled, and so to a somewhat smaller extent was the back of his neck and the region of the right ear. One or two outside pellets had also struck the head higher up, and the skin and muscles along the back were torn by the passage of shot.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 88 - The Insult"
 weight: 88
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-88.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-88.html"
 ---
 
 At the banker's door Beauchamp stopped Morcerf. "Listen," said he; "just now I told you it was of M. de Monte Cristo you must demand an explanation."

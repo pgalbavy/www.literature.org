@@ -1,8 +1,7 @@
 ---
 title: "Book 8 - Chapter 21"
 weight: 166
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-08-chapter-21.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-08-chapter-21.html"
 ---
 
 Pierre drove to Marya Dmitrievna's to tell her of the fulfillment of her wish that Kuragin should be banished from Moscow. The whole house was in a state of alarm and commotion. Natasha was very ill, having, as Marya Dmitrievna told him in secret, poisoned herself the night after she had been told that Anatole was married, with some arsenic she had stealthily procured. After swallowing a little she had been so frightened that she woke Sonya and told her what she had done. The necessary antidotes had been administered in time and she was now out of danger, though still so weak that it was out of the question to move her to the country, and so the countess had been sent for. Pierre saw the distracted count, and Sonya, who had a tear-stained face, but he could not see Natasha.

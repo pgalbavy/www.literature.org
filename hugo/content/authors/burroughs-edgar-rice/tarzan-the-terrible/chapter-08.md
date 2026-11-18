@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A-Lur"
 weight: 8
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-08.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-08.html"
 ---
 
 As the hissing reptile bore down upon the stranger swimming in the open water near the center of the morass on the frontier of Pal-ul-don it seemed to the man that this indeed must be the futile termination of an arduous and danger-filled journey. It seemed, too, equally futile to pit his puny knife against this frightful creature. Had he been attacked on land it is possible that he might as a last resort have used his Enfield, though he had come thus far through all these weary, danger-ridden miles without recourse to it, though again and again had his life hung in the balance in the face of the savage denizens of forest, jungle, and steppe. For whatever it may have been for which he was preserving his precious ammunition he evidently held it more sacred even than his life, for as yet he had not used a single round and now the decision was not required of him, since it would have been impossible for him to have unslung his Enfield, loaded and fired with the necessary celerity while swimming.

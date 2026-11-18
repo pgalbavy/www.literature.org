@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Our Diplomats In The War Zone"
 weight: 9
-aliases:
-  - "/authors/davis-richard-harding/with-the-allies/chapter-08.html"
+url: "/authors/davis-richard-harding/with-the-allies/chapter-08.html"
 ---
 
 When the war broke loose those persons in Europe it concerned the least were the most upset about it. They were our fellow countrymen. Even to-day, above the roar of shells, the crash of falling walls, forts, forests, cathedrals, above the scream of shrapnel, the sobs of widows and orphans, the cries of the wounded and dying, all over Europe, you still can hear the shrieks of the Americans calling for their lost suit-cases.

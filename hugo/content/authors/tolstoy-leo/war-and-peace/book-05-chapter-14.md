@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 14"
 weight: 98
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-05-chapter-14.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-05-chapter-14.html"
 ---
 
 The pilgrim woman was appeased and, being encouraged to talk, gave a long account of Father Amphilochus, who led so holy a life that his hands smelled of incense, and how on her last visit to Kiev some monks she knew let her have the keys of the catacombs, and how she, taking some dried bread with her, had spent two days in the catacombs with the saints. "I'd pray awhile to one, ponder awhile, then go on to another. I'd sleep a bit and then again go and kiss the relics, and there was such peace all around, such blessedness, that one don't want to come out, even into the light of heaven again."

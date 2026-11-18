@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Foreshadowings"
 weight: 22
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-22.html"
+url: "/authors/tarkington-booth/seventeen/chapter-22.html"
 ---
 
 Now the last rose had blown; the dandelion globes were long since on the wind; gladioli and golden-glow and salvia were here; the season moved toward asters and the goldenrod. This haloed summer still idled on its way, yet all the while sped quickly; like some languid lady in an elevator.

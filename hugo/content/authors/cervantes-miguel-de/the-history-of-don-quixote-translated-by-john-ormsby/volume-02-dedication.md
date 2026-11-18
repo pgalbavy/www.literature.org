@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Dedication"
 weight: 56
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-dedication.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-dedication.html"
 ---
 
 DEDICATION TO THE COUNT OF LEMOS:

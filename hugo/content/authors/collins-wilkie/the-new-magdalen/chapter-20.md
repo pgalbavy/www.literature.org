@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Policeman In Plain Clothes"
 weight: 20
-aliases:
-  - "/authors/collins-wilkie/the-new-magdalen/chapter-20.html"
+url: "/authors/collins-wilkie/the-new-magdalen/chapter-20.html"
 ---
 
 JULIAN looked round the room, and stopped at the door which he had just opened.

@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 9"
 weight: 77
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-04-chapter-09.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-04-chapter-09.html"
 ---
 
 The little princess lay supported by pillows, with a white cap on her head (the pains had just left her). Strands of her black hair lay round her inflamed and perspiring cheeks, her charming rosy mouth with its downy lip was open and she was smiling joyfully. Prince Andrew entered and paused facing her at the foot of the sofa on which she was lying. Her glittering eyes, filled with childlike fear and excitement, rested on him without changing their expression. "I love you all and have done no harm to anyone; why must I suffer so? Help me!" her look seemed to say. She saw her husband, but did not realize the significance of his appearance before her now. Prince Andrew went round the sofa and kissed her forehead.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/chambers-robert-w/the-crimson-tide/chapter-06.html"
+url: "/authors/chambers-robert-w/the-crimson-tide/chapter-06.html"
 ---
 
 John Estridge, out of a job—as were a million odd others now arriving from France by every transport—met James Shotwell, Junior, one wintry day as the latter was leaving the real estate offices of Sharrow & Co.

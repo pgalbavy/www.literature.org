@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 35
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-35.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-35.html"
 ---
 
 The Prince crossed the hail and entered the morning-room. Felix was there and Raoul de Brouillac. The Duchess sat at her writing-table, scribbling a note. Lady Carey, in a wonderful white serge costume, and a huge bunch of Neapolitan violets at her bosom, was lounging in an easy-chair, swinging her foot backwards and forwards. The Duke, in a very old tweed coat, but immaculate as to linen and the details of his toilet, stood a little apart, with a frown upon his forehead, and exactly that absorbed air which in the House of Lords usually indicated his intention to make a speech. The entrance of the Prince, who carefully closed the door behind him, was an event for which evidently they were all waiting.

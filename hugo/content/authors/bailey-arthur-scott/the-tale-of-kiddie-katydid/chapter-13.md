@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Kiddie Katydid Is Shy"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-13.html"
 ---
 
 "Now--" said Mr. Frog, when he had returned from the watering-trough--"now tell me, how do you like the overcoat I made for you?"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Long Vacation"
 weight: 15
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-15.html"
+url: "/authors/bronte-charlotte/villette/chapter-15.html"
 ---
 
 Following Madame Beck's fête, with its three preceding weeks of relaxation, its brief twelve hours' burst of hilarity and dissipation, and its one subsequent day of utter languor, came a period of reaction; two months of real application, of close, hard study. These two months, being the last of the "année scolaire," were indeed the only genuine working months in the year. To them was procrastinated - into them concentrated, alike by professors, mistresses, and pupils - the main burden of preparation for the examinations preceding the distribution of prizes. Candidates for rewards had then to work in good earnest; masters and teachers had to set their shoulders to the wheel, to urge on the backward, and diligently aid and train the more promising. A showy demonstration - a telling exhibition - must be got up for public view, and all means were fair to this end.

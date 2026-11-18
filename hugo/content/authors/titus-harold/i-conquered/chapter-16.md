@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Candle Burns"
 weight: 16
-aliases:
-  - "/authors/titus-harold/i-conquered/chapter-16.html"
+url: "/authors/titus-harold/i-conquered/chapter-16.html"
 ---
 
 Time went on, and the country dropped back from the singing pitch of excitement to which the killing of the horse buyer raised it. Men agreed that some one of that country had fired the shots into that blanket, but it is not a safe thing to suspect too openly. Dick Worth worked continually, but his efforts were without result. A reward of two hundred and fifty dollars for the slayer, dead or alive, disclosed nothing.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Chimneys"
 weight: 10
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-10.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-10.html"
 ---
 
 Inspector Badgworthy in his office. Time, 8.30 *A.M. A* tall portly man, Inspector Badgworthy, with a heavy regulation tread. Inclined to breathe hard in moments of professional strain. In attendance Constable Johnson, very new to the Force, with a downy unfledged look about him, like a human chicken.

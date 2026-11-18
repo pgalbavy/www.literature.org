@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Before The Faculty"
 weight: 3
-aliases:
-  - "/authors/greene-homer/whispering-tongues/chapter-03.html"
+url: "/authors/greene-homer/whispering-tongues/chapter-03.html"
 ---
 
 For an instant after Van Loan had uncovered Parmenter no one stirred. The act had been so sudden and unexpected that it startled them all. Then a half-dozen men pounced upon Van Loan, bound his wrists, and bandaged his eyes again.

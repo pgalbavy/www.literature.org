@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Solomon Owl's Idea"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-18.html"
 ---
 
 FREDDIE FIREFLY actually did send a message to Betsy Butterfly, telling her that Dusty Moth wanted to see her, and saying that unless she would agree to meet him in the meadow some night soon, Dusty was afraid he would lose his appetite entirely.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-07.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-07.html"
 ---
 
 The next day Tom went to Barnesville. He left the Cross-roads on horseback early in the morning, and reached his journey's end at noon. He found on arriving at the town that the story of his undertaking had preceded him.

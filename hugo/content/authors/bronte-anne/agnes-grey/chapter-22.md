@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Visit"
 weight: 22
-aliases:
-  - "/authors/bronte-anne/agnes-grey/chapter-22.html"
+url: "/authors/bronte-anne/agnes-grey/chapter-22.html"
 ---
 
 ASHBY PARK was certainly a very delightful residence. The mansion was stately without, commodious and elegant within; the park was spacious and beautiful, chiefly on account of its magnificent old trees, its stately herds of deer, its broad sheet of water, and the ancient woods that stretched beyond it: for there was no broken ground to give variety to the landscape, and but very little of that undulating swell which adds so greatly to the charm of park scenery. And so, this was the place Rosalie Murray had so longed to call her own, that she must have a share of it, on whatever terms it might be offered - whatever price was to be paid for the title of mistress, and whoever was to be her partner in the honour and bliss of such a possession! Well I am not disposed to censure her now.

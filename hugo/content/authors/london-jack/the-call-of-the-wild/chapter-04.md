@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/london-jack/the-call-of-the-wild/chapter-04.html"
+url: "/authors/london-jack/the-call-of-the-wild/chapter-04.html"
 ---
 
 "Eh? Wot I say? I spik true w'en I say dat Buck two devils." This was Francois's speech next morning when he discovered Spitz missing and Buck covered with wounds. He drew him to the fire and by its light pointed them out.

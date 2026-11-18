@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - By Rouletabille’s Order The General Promenades"
 weight: 5
-aliases:
-  - "/authors/leroux-gaston/the-secret-of-the-night/chapter-05.html"
+url: "/authors/leroux-gaston/the-secret-of-the-night/chapter-05.html"
 ---
 
 "Good morning, my dear little familiar spirit. The general slept splendidly the latter part of the night. He did not touch his narcotic. I am sure it is that dreadful mixture that gives him such frightful dreams. And you, my dear little friend, you have not slept an instant. I know it. I felt you going everywhere about the house like a little mouse. Ah, it seems good, so good. I slept so peacefully, hearing the subdued movement of your little steps. Thanks for the sleep you have given me, little friend."

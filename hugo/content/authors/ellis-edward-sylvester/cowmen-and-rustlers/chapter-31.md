@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Why It Was Done"
 weight: 31
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-31.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-31.html"
 ---
 
 The yellow reflection of the candle lit up a group of wondering faces that were turned upon the mother, who stood in the middle of the room. Her countenance was pale, for she had passed through a great deal during the last half-hour, to say nothing of that which preceded it.

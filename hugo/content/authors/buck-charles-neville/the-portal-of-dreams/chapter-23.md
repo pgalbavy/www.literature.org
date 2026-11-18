@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Offer Of Parole"
 weight: 23
-aliases:
-  - "/authors/buck-charles-neville/the-portal-of-dreams/chapter-23.html"
+url: "/authors/buck-charles-neville/the-portal-of-dreams/chapter-23.html"
 ---
 
 Perhaps the disappointment of my cursory reconnoiter showed itself in my expression. Curt Dawson, who stood with his arms folded and his loose length draped against the door-jamb, grinned at my dolorous face.

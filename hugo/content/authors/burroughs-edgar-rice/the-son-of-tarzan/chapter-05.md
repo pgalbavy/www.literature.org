@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-05.html"
+url: "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-05.html"
 ---
 
 Captain Armand Jacot of the Foreign Legion sat upon an outspread saddle blanket at the foot of a stunted palm tree. His broad shoulders and his close-cropped head rested in luxurious ease against the rough bole of the palm. His long legs were stretched straight before him overlapping the meager blanket, his spurs buried in the sandy soil of the little desert oasis. The captain was taking his ease after a long day of weary riding across the shifting sands of the desert.

@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 2"
 weight: 25
-aliases:
-  - "/authors/conrad-joseph/an-outcast-of-the-islands/part-05-chapter-02.html"
+url: "/authors/conrad-joseph/an-outcast-of-the-islands/part-05-chapter-02.html"
 ---
 
 For the next half-hour Almayer, who wanted to give Joanna plenty of time, stumbled amongst the lumber in distant parts of his enclosure, sneaked along the fences; or held his breath, flattened against grass walls behind various outhouses: all this to escape Ali’s inconveniently zealous search for his master. He heard him talk with the head watchman—sometimes quite close to him in the darkness—then moving off, coming back, wondering, and, as the time passed, growing uneasy.

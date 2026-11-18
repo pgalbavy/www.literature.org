@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-24.html"
 ---
 
 There were six of them, all coming out as clearly in the powerful moonlight as if the sun were in the heavens. The stout form of General Yozarro was at the front, walking at a moderate pace up the slope.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Condemned To Death"
 weight: 29
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-29.html"
+url: "/authors/haggard-h-rider/jess/chapter-29.html"
 ---
 
 Half an hour passed in silence, which was broken only by the footsteps of the sentries as they tramped, or rather loitered, up and down, or by the occasional fall of some calcined masonry from the walls of the burnt-out house. What between the smell of smoke and dust, the heat of the sun on the tin roof above, and the red-hot embers of the house in front, the little room where Bessie was shut up grew almost unbearable, and she felt as though she should faint upon the sacks. Through one of the cracks in the waggon-house wall there blew a slight draught, and by this crack Bessie placed herself, leaning her head against the wall so as to get the full benefit of the air and to command a view of the place. Presently several of the Boers came into the waggon-house and pulled some of the carts and timber out of it, leaving one buck-waggon, however, placed along the wall on the side opposite to the crack through which Bessie was looking. Then they pulled the Scotch cart over to her side, laughing about something among themselves as they did so, and arranged it with its back turned towards the waggon, supporting the shafts upon a waggon-jack. Next, out of the farther corner of the place, they extracted an old saw-bench, and set it at the top of the open space. Then Bessie understood what they were doing: they were arranging a court, and the saw-bench was the judge’s chair. So Frank Muller meant to carry out his threat!

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Mount Kisco"
 weight: 15
-aliases:
-  - "/authors/davis-richard-harding/adventures-and-letters/chapter-15.html"
+url: "/authors/davis-richard-harding/adventures-and-letters/chapter-15.html"
 ---
 
 During my brother's life there were four centres from which he set forth on his travels and to which he returned to finish the articles for which he had collected the material, or perhaps to write a novel, a few short stories, or occasionally a play, but unlike most of the followers of his craft, never to rest. Indeed during the last twenty-five years of his life I do not recall two consecutive days when Richard did not devote a number of hours to literary work. The centres of which I speak were first Philadelphia, then New York, then Marion, and lastly Mount Kisco. Happy as Richard had been at Marion, the quaint little village, especially in winter, was rather inaccessible, and he realized that to be in touch with the numerous affairs in which he was interested that his headquarters should be in or near New York. In addition to this he had for long wanted a home of his very own, and so located that he could have his family and his friends constantly about him. Some years, however, elapsed between this dream and its realization. In 1903 he took the first step by purchasing a farm situated in the Westchester Hills, five miles from Mount Kisco, New York. He began by building a lake at the foot of the hill on which the home was to stand, then a water-tower, and finally the house itself. The plans to the minutest detail had been laid out on the lawn at Marion and, as the architect himself said, there was nothing left for him to do but to design the cellar.

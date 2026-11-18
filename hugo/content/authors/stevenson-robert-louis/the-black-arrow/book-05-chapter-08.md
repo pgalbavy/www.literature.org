@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 8 - Conclusion"
 weight: 33
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-05-chapter-08.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-05-chapter-08.html"
 ---
 
 About nine in the morning, Lord Foxham was leading his ward, once more dressed as befitted her sex, and followed by Alicia Risingham, to the church of Holywood, when Richard Crookback, his brow already heavy with cares, crossed their path and paused.

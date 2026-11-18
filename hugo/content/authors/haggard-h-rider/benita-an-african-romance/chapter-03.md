@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - How Robert Came Ashore"
 weight: 4
-aliases:
-  - "/authors/haggard-h-rider/benita-an-african-romance/chapter-03.html"
+url: "/authors/haggard-h-rider/benita-an-african-romance/chapter-03.html"
 ---
 
 In place of the Zanzibar a great pit on the face of the ocean, in which the waters boiled and black objects appeared and disappeared.

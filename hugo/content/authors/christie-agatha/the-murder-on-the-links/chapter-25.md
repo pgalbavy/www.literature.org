@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - An Unexpected Dénouement"
 weight: 25
-aliases:
-  - "/authors/christie-agatha/the-murder-on-the-links/chapter-25.html"
+url: "/authors/christie-agatha/the-murder-on-the-links/chapter-25.html"
 ---
 
 We were present the following morning at the examination of Jack Renauld. Short as the time had been, I was shocked at the change that had taken place in the young prisoner. His cheeks had fallen in, there were deep black circles round his eyes, and he looked haggard and distraught, as one who had wooed sleep in vain for several nights. He betrayed no emotion at seeing us.

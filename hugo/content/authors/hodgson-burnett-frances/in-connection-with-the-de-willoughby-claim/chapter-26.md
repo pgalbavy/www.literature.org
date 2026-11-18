@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-26.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-26.html"
 ---
 
 Naturally Judge Rutherford gravitated towards the little house near Dupont Circle. The first night he mounted the stairs and found himself in the small room confronting the primitive supper he had been invited to share with big Tom and his family, his honest countenance assumed a cheerfulness long a stranger to it.

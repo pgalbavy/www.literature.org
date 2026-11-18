@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 1 - Barney Returns To Lutha"
 weight: 13
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-01.html"
+url: "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-01.html"
 ---
 
 "What's the matter, Vic?" asked Barney Custer of his sister. "You look peeved."

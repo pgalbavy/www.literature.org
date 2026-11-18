@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Thought"
 weight: 11
-aliases:
-  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-11.html"
+url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-11.html"
 ---
 
 The dark-haired woman was still ably answering the chaff of Nini and the Germans. And her face was not the face she had shewn to Betty. Betty came quietly behind her and touched her shoulder. She leapt in her chair and turned white under the rouge.

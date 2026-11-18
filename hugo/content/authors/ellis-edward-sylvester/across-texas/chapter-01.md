@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Letter And A Telegram"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-01.html"
 ---
 
 *NICK RIBSAM,* of whom I had considerable to tell you in "The Young Moose Hunters," returned to his humble home in Western Pennsylvania with his health fully restored by his stirring experience in the mountainous forests of Maine. He was naturally strong and active, and one glance at his bright eyes, his ruddy cheeks, and his alert movements told his sister Nellie and the beloved father and mother that the prescription of the physician had worked like a charm.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/collins-wilkie/the-haunted-hotel/chapter-13.html"
+url: "/authors/collins-wilkie/the-haunted-hotel/chapter-13.html"
 ---
 
 In the spring of the year 1861, Agnes was established at the country-seat of her two friends--now promoted (on the death of the first lord, without offspring) to be the new Lord and Lady Montbarry. The old nurse was not separated from her mistress. A place, suited to her time of life, had been found for her in the pleasant Irish household. She was perfectly happy in her new sphere; and she spent her first half-year's dividend from the Venice Hotel Company, with characteristic prodigality, in presents for the children.

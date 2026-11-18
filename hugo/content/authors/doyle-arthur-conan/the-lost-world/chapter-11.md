@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - For Once I Was The Hero"
 weight: 11
-aliases:
-  - "/authors/doyle-arthur-conan/the-lost-world/chapter-11.html"
+url: "/authors/doyle-arthur-conan/the-lost-world/chapter-11.html"
 ---
 
 Lord John Roxton was right when he thought that some specially toxic quality might lie in the bite of the horrible creatures which had attacked us. On the morning after our first adventure upon the plateau, both Summerlee and I were in great pain and fever, while Challenger's knee was so bruised that he could hardly limp. We kept to our camp all day, therefore, Lord John busying himself, with such help as we could give him, in raising the height and thickness of the thorny walls which were our only defense. I remember that during the whole long day I was haunted by the feeling that we were closely observed, though by whom or whence I could give no guess.

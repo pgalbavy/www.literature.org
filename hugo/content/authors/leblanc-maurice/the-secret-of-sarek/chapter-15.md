@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Hall Of The Underground Sacrifices"
 weight: 16
-aliases:
-  - "/authors/leblanc-maurice/the-secret-of-sarek/chapter-15.html"
+url: "/authors/leblanc-maurice/the-secret-of-sarek/chapter-15.html"
 ---
 
 Vorski had never known fear and he was perhaps not yielding to an actual sense of fear in taking to flight now. But he no longer knew what he was doing. His bewildered brain was filled with a whirl of contradictory and incoherent ideas in which the intuition of an irretrievable and to some extent supernatural defeat held the first place.

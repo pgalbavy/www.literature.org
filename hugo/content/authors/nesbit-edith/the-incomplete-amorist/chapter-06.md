@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Criminal"
 weight: 6
-aliases:
-  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-06.html"
+url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-06.html"
 ---
 
 If you have found yourself, at the age of eighteen, a prisoner in your own bedroom you will be able to feel with Betty. Not otherwise. Even your highly strung imagination will be impotent to present to you the ecstasy of rage, terror, resentment that fills the soul when locked door and barred windows say, quite quietly, but beyond appeal: "Here you are, and here, my good child, you stay."

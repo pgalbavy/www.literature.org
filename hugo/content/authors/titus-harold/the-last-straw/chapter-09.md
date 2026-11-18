@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Destroyer"
 weight: 9
-aliases:
-  - "/authors/titus-harold/the-last-straw/chapter-09.html"
+url: "/authors/titus-harold/the-last-straw/chapter-09.html"
 ---
 
 While the men were eating that night another rider had come to H.C. He entered slowly, tied his horse to the fence and walked down along the cottonwoods toward the house. He stood outside a time, looking through the window at Jane whose golden head was bowed in the mellow glow of the student lamp as she worked at her desk.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - A Bit Of Luckjimmy Rabbit Promptly Set Freddie Firefly's Fears At Rest"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-19.html"
 ---
 
 "I happen to know," said he, "that Betsy Butterfly has a picture of herself."

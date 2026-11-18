@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Anne Of Austria At The Age Of Forty-Six"
 weight: 4
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-04.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-04.html"
 ---
 
 When left alone with Bernouin, Mazarin was for some minutes lost in thought. He had gained much information, but not enough. Mazarin was a cheat at the card-table. This is a detail preserved to us by Brienne. He called it using his advantages. He now determined not to begin the game with D'Artagnan till he knew completely all his adversary's cards.

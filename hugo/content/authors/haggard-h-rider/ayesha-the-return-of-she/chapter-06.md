@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - In The Gate"
 weight: 7
-aliases:
-  - "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-06.html"
+url: "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-06.html"
 ---
 
 Oh! that rush through space! Folk falling thus are supposed to lose consciousness, but I can assert that this is not true. Never were my wits and perceptions more lively than while I travelled from that broken glacier to the ground, and never did a short journey seem to take a longer time. I saw the white floor, like some living thing, leaping up through empty air to meet me, then--_finis!_

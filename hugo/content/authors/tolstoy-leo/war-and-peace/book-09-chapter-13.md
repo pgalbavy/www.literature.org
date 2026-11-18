@@ -1,8 +1,7 @@
 ---
 title: "Book 9 - Chapter 13"
 weight: 180
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-09-chapter-13.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-09-chapter-13.html"
 ---
 
 In the tavern, before which stood the doctor's covered cart, there were already some five officers. Mary Hendrikhovna, a plump little blonde German, in a dressing jacket and nightcap, was sitting on a broad bench in the front corner. Her husband, the doctor, lay asleep behind her. Rostov and Ilyin, on entering the room, were welcomed with merry shouts and laughter.

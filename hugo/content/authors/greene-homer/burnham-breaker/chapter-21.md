@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - A Perilous Passage"
 weight: 21
-aliases:
-  - "/authors/greene-homer/burnham-breaker/chapter-21.html"
+url: "/authors/greene-homer/burnham-breaker/chapter-21.html"
 ---
 
 For many minutes Ralph stood, like one in a dream, holding the slip of paper tightly in his grasp. Then there came upon him, not suddenly, but very gently and sweetly, as the morning sunlight breaks into a western valley, the broad assurance that he was Robert Burnham's son. Here was the declaration of that fact over the man's own signature. That was enough; there was no need for him to question the writer's sources of knowledge. Robert Burnham had been his ideal of truth and honor; he would have believed his lightest word against the solemn asseveration of thousands.

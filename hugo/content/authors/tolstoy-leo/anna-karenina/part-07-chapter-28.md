@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 28"
 weight: 217
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-28.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-28.html"
 ---
 
 It was bright and sunny. A fine rain had been falling all the morning, and now it had not long cleared up. The iron roofs, the flags of the roads, the flints of the pavements, the wheels and leather, the brass and the tinplate of the carriages--all glistened brightly in the May sunshine. It was three o'clock, and the very liveliest time in the streets.

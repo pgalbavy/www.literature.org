@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Heresies; Or The Things That God Is Not"
 weight: 3
-aliases:
-  - "/authors/wells-herbert-george/god-the-invisible-king/chapter-02.html"
+url: "/authors/wells-herbert-george/god-the-invisible-king/chapter-02.html"
 ---
 
 1\. HERESIES ARE MISCONCEPTIONS OF GOD

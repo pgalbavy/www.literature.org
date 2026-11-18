@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/woolf-virginia/night-and-day/chapter-25.html"
+url: "/authors/woolf-virginia/night-and-day/chapter-25.html"
 ---
 
 At a quarter-past three in the afternoon of the following Saturday Ralph Denham sat on the bank of the lake in Kew Gardens, dividing the dial-plate of his watch into sections with his forefinger. The just and inexorable nature of time itself was reflected in his face. He might have been composing a hymn to the unhasting and unresting march of that divinity. He seemed to greet the lapse of minute after minute with stern acquiescence in the inevitable order. His expression was so severe, so serene, so immobile, that it seemed obvious that for him at least there was a grandeur in the departing hour which no petty irritation on his part was to mar, although the wasting time wasted also high private hopes of his own.

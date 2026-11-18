@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Beginning Of Things"
 weight: 1
-aliases:
-  - "/authors/nesbit-edith/the-railway-children/chapter-01.html"
+url: "/authors/nesbit-edith/the-railway-children/chapter-01.html"
 ---
 
 They were not railway children to begin with. I don't suppose they had ever thought about railways except as a means of getting to Maskelyne and Cook's, the Pantomime, Zoological Gardens, and Madame Tussaud's. They were just ordinary suburban children, and they lived with their Father and Mother in an ordinary red-brick-fronted villa, with coloured glass in the front door, a tiled passage that was called a hall, a bath-room with hot and cold water, electric bells, French windows, and a good deal of white paint, and 'every modern convenience', as the house-agents say.

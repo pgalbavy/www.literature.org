@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 4 - What John Rance Had To Tell"
 weight: 4
-aliases:
-  - "/authors/doyle-arthur-conan/a-study-in-scarlet/part-01-chapter-04.html"
+url: "/authors/doyle-arthur-conan/a-study-in-scarlet/part-01-chapter-04.html"
 ---
 
 IT was one o'clock when we left No. 3, Lauriston Gardens. Sherlock Holmes led me to the nearest telegraph office, whence he dispatched a long telegram. He then hailed a cab, and ordered the driver to take us to the address given us by Lestrade.

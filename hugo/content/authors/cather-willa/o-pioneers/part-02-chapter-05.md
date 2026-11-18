@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 5"
 weight: 10
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-02-chapter-05.html"
+url: "/authors/cather-willa/o-pioneers/part-02-chapter-05.html"
 ---
 
 Alexandra did not find time to go to her neighbor's the next day, nor the next. It was a busy season on the farm, with the corn-plowing going on, and even Emil was in the field with a team and cultivator. Carl went about over the farms with Alexandra in the morning, and in the afternoon and evening they found a great deal to talk about. Emil, for all his track practice, did not stand up under farmwork very well, and by night he was too tired to talk or even to practise on his cornet.

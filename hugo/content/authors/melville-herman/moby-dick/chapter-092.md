@@ -1,8 +1,7 @@
 ---
 title: "Chapter 92 - Ambergris"
 weight: 92
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-092.html"
+url: "/authors/melville-herman/moby-dick/chapter-092.html"
 ---
 
 Now this ambergris is a very curious substance, and so important as an article of commerce, that in 1791 a certain Nantucket-born Captain Coffin was examined at the bar of the English House of Commons on that subject. For at that time, and indeed until a comparatively late day, the precise origin of ambergris remained, like amber itself, a problem to the learned. Though the word ambergris is but the French compound for grey amber, yet the two substances are quite distinct. For amber, though at times found on the sea-coast, is also dug up in some far inland soils, whereas ambergris is never found except upon the sea. Besides, amber is a hard, transparent, brittle, odorless substance, used for mouth-pieces to pipes, for beads and ornaments; but ambergris is soft, waxy, and so highly fragrant and spicy, that it is largely used in perfumery, in pastiles, precious candles, hair-powders, and pomatum. The Turks use it in cooking, and also carry it to Mecca, for the same purpose that frankincense is carried to St. Peter's in Rome. Some wine merchants drop a few grains into claret, to flavor it.

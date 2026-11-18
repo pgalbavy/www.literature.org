@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - \"Help! Help!\""
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-21.html"
 ---
 
 "Take your stations," added Bob Budd, excitedly; "we’re going to have the tallest kind of fun; I’ll stay here, and you—"

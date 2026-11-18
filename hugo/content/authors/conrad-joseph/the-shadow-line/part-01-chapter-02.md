@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 2"
 weight: 2
-aliases:
-  - "/authors/conrad-joseph/the-shadow-line/part-01-chapter-02.html"
+url: "/authors/conrad-joseph/the-shadow-line/part-01-chapter-02.html"
 ---
 
 He shook hands with me: "Well, there you are, on your own, appointed officially under my responsibility."

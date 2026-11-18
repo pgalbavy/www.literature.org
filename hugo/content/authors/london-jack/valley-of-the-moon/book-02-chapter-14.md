@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 14"
 weight: 29
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-02-chapter-14.html"
+url: "/authors/london-jack/valley-of-the-moon/book-02-chapter-14.html"
 ---
 
 In the days that followed Billy's swellings went down and the bruises passed away with surprising rapidity. The quick healing of the lacerations attested the healthiness of his blood. Only remained the black eyes, unduly conspicuous on a face as blond as his. The discoloration was stubborn, persisting half a month, in which time happened divers events of importance.

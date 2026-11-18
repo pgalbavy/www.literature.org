@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-12.html"
+url: "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-12.html"
 ---
 
 How tired they were when they came out from the world of pictures into the world of thronging people! How their limbs ached and they were brought back to the realization that they were creatures with human bodies, which somehow they seemed to have forgotten!

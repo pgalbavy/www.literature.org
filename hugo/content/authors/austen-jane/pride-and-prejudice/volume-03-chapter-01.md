@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 1"
 weight: 43
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-01.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-01.html"
 ---
 
 Elizabeth, as they drove along, watched for the first appearance of Pemberley Woods with some perturbation; and when at length they turned in at the lodge, her spirits were in a high flutter.

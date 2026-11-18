@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Sweetheart Roland"
 weight: 26
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-26.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-26.html"
 ---
 
 There was once upon a time a woman who was a real witch and had two daughters, one ugly and wicked, and this one she loved because she was her own daughter, and one beautiful and good, and this one she hated, because she was her stepdaughter. The stepdaughter once had a pretty apron, which the other fancied so much that she became envious, and told her mother that she must and would have that apron. ‘Be quiet, my child,’ said the old woman, ‘and you shall have it. Your stepsister has long deserved death; tonight when she is asleep I will come and cut her head off. Only be careful that you are at the far side of the bed, and push her well to the front.’ It would have been all over with the poor girl if she had not just then been standing in a corner, and heard everything. All day long she dared not go out of doors, and when bedtime had come, the witch’s daughter got into bed first, so as to lie at the far side, but when she was asleep, the other pushed her gently to the front, and took for herself the place at the back, close by the wall. In the night, the old woman came creeping in, she held an axe in her right hand, and felt with her left to see if anyone were lying at the outside, and then she grasped the axe with both hands, and cut her own child’s head off.

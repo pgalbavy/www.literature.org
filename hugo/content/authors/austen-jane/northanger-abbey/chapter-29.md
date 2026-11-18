@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 30
-aliases:
-  - "/authors/austen-jane/northanger-abbey/chapter-29.html"
+url: "/authors/austen-jane/northanger-abbey/chapter-29.html"
 ---
 
 Catherine was too wretched to be fearful. The journey in itself had no terrors for her; and she began it without either dreading its length or feeling its solitariness. Leaning back in one corner of the carriage, in a violent burst of tears, she was conveyed some miles beyond the walls of the abbey before she raised her head; and the highest point of ground within the park was almost closed from her view before she was capable of turning her eyes towards it. Unfortunately, the road she now travelled was the same which only ten days ago she had so happily passed along in going to and from Woodston; and, for fourteen miles, every bitter feeling was rendered more severe by the review of objects on which she had first looked under impressions so different. Every mile, as it brought her nearer Woodston, added to her sufferings, and when within the distance of five, she passed the turning which led to it, and thought of Henry, so near, yet so unconscious, her grief and agitation were excessive.

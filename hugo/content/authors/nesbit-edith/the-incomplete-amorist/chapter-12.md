@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Rescue"
 weight: 12
-aliases:
-  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-12.html"
+url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-12.html"
 ---
 
 When Vernon had read Betty's letter - and holding it up to the light he was able to read the scratched-out words almost as easily as the others - he decided that he might as well know where she worked, and one day, after he had called on Lady St. Craye, he found himself walking along the Rue de Vaugirard. Lady St. Craye was charming. And she had been quite right when she had said that he would find a special charm in the companionship of one in whose heart his past love-making seemed to have planted no thorns. Yet her charm, by its very nature - its finished elegance, its conscious authority - made him think with the more interest of the unformed, immature grace of the other woman - Betty, in whose heart he had not had the chance to plant either thorns or roses.

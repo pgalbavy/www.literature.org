@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 10"
 weight: 199
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-10.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-10.html"
 ---
 
 She had risen to meet him, not concealing her pleasure at seeing him; and in the quiet ease withwhich she held out her little vigorous hand, introduced him to Vorkuev and indicated a red-haired, pretty little girl who was sitting at work, calling her her pupil, Levin recognized and liked the manners of a woman of the great world, always self-possessed and natural.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - An Elephant Hunt"
 weight: 5
-aliases:
-  - "/authors/haggard-h-rider/king-solomons-mines/chapter-04.html"
+url: "/authors/haggard-h-rider/king-solomons-mines/chapter-04.html"
 ---
 
 Now I do not propose to narrate at full length all the incidents of our long travel up to Sitanda's Kraal, near the junction of the Lukanga and Kalukwe Rivers. It was a journey of more than a thousand miles from Durban, the last three hundred or so of which we had to make on foot, owing to the frequent presence of the dreadful "tsetse" fly, whose bite is fatal to all animals except donkeys and men.

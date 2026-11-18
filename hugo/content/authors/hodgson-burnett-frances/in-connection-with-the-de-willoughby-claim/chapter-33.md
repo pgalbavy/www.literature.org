@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 33
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-33.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-33.html"
 ---
 
 It was not difficult to discover the abiding place of the De Willoughby claimants. The time had come when there were few who did not know who occupied the upper floor of Miss Burford's house near the Circle. Miss Burford herself had gradually become rather proud of her boarders, and, as the interest in the case increased, felt herself becoming a prominent person.

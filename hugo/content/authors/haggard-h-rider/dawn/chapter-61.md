@@ -1,8 +1,7 @@
 ---
 title: "Chapter 61"
 weight: 62
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-61.html"
+url: "/authors/haggard-h-rider/dawn/chapter-61.html"
 ---
 
 After throwing George Caresfoot into the bramble-bush, Arthur walked steadily back to the inn, where he arrived, quite composed in manner, at about half-past seven. Old Sam, the ostler, was in the yard, washing a trap. He went up to him, and asked when the next train started for London.

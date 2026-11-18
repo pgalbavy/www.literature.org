@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - How Went The Bridal Night"
 weight: 30
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-29.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-29.html"
 ---
 
 Now Eric and Gudruda sat silent in the high seat of the hall at Middalhof till they heard Skallagrim enter by the women’s door. Then they came down from the high seat, and stood hand in hand by the fire on the hearth. Skallagrim greeted Gudruda, looking at her askance, for Skallagrim stood in fear of women alone.

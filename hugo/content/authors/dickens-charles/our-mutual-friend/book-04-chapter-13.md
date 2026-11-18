@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 13 - Showing How The Golden Dustman Helped To Scatter Dust"
 weight: 63
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-04-chapter-13.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-04-chapter-13.html"
 ---
 
 In all the first bewilderment of her wonder, the most bewilderingly wonderful thing to Bella was the shining countenance of Mr Boffin. That his wife should be joyous, open-hearted, and genial, or that her face should express every quality that was large and trusting, and no quality that was little or mean, was accordant with Bella’s experience. But, that he, with a perfectly beneficent air and a plump rosy face, should be standing there, looking at her and John, like some jovial good spirit, was marvellous. For, how had he looked when she last saw him in that very room (it was the room in which she had given him that piece of her mind at parting), and what had become of all those crooked lines of suspicion, avarice, and distrust, that twisted his visage then?

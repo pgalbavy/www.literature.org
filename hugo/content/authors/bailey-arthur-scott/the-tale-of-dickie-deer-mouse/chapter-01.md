@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Little Gentleman"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-01.html"
 ---
 
 All the four-footed folk in the neighborhood agreed that Dickie Deer Mouse was well worth knowing. Throughout Pleasant Valley there was no one else so gentle as he.

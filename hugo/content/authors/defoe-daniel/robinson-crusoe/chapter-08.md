@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Surveys His Position"
 weight: 8
-aliases:
-  - "/authors/defoe-daniel/robinson-crusoe/chapter-08.html"
+url: "/authors/defoe-daniel/robinson-crusoe/chapter-08.html"
 ---
 
 I MENTIONED before that I had a great mind to see the whole island, and that I had travelled up the brook, and so on to where I built my bower, and where I had an opening quite to the sea, on the other side of the island. I now resolved to travel quite across to the sea-shore on that side; so, taking my gun, a hatchet, and my dog, and a larger quantity of powder and shot than usual, with two biscuit-cakes and a great bunch of raisins in my pouch for my store, I began my journey. When I had passed the vale where my bower stood, as above, I came within view of the sea to the west, and it being a very clear day, I fairly descried land - whether an island or a continent I could not tell; but it lay very high, extending from the W. to the W.S.W. at a very great distance; by my guess it could not be less than fifteen or twenty leagues off.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-18.html"
+url: "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-18.html"
 ---
 
 "Millions—there are millions in that pretended mortuary van!"

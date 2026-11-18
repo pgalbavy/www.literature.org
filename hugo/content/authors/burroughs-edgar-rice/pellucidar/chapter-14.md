@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Gore And Dreams"
 weight: 14
-aliases:
-  - "/authors/burroughs-edgar-rice/pellucidar/chapter-14.html"
+url: "/authors/burroughs-edgar-rice/pellucidar/chapter-14.html"
 ---
 
 It was a two-masted felucca with lateen sails! The craft was long and low. In it were more than fifty men, twenty or thirty of whom were at oars with which the craft was being propelled from the lee of the land. I was dumbfounded.

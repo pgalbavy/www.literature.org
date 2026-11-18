@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/darwin-charles/the-descent-of-man/chapter-11.html"
+url: "/authors/darwin-charles/the-descent-of-man/chapter-11.html"
 ---
 
 IN this great Order the most interesting points for us are the differences in colour between the sexes of the same species, and between the distinct species of the same genus. Nearly the whole of the following chapter will be devoted to this subject; but I will first make a few remarks on one or two other points. Several males may often be seen pursuing and crowding round the same female. Their courtship appears to be a prolonged affair, for I have frequently watched one or more males pirouetting round a female until I was tired, without seeing the end of the courtship. Mr. A. G. Butler also informs me that he has several times watched a male courting a female for a full quarter of an hour; but she pertinaciously refused him, and at last settled on the ground and closed her wings, so as to escape from his addresses.

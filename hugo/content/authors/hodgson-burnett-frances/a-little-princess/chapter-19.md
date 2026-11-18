@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - \u0026quot;Anne\u0026quot;"
 weight: 20
-aliases:
-  - "/authors/hodgson-burnett-frances/a-little-princess/chapter-19.html"
+url: "/authors/hodgson-burnett-frances/a-little-princess/chapter-19.html"
 ---
 
 Never had such joy reigned in the nursery of the Large Family. Never had they dreamed of such delights as resulted from an intimate acquaintance with the little-girl-who-was-not-a-beggar. The mere fact of her sufferings and adventures made her a priceless possession. Everybody wanted to be told over and over again the things which had happened to her. When one was sitting by a warm fire in a big, glowing room, it was quite delightful to hear how cold it could be in an attic. It must be admitted that the attic was rather delighted in, and that its coldness and bareness quite sank into insignificance when Melchisedec was remembered, and one heard about the sparrows and things one could see if one climbed on the table and stuck one's head and shoulders out of the skylight.

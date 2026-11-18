@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/woolf-virginia/jacobs-room/chapter-14.html"
+url: "/authors/woolf-virginia/jacobs-room/chapter-14.html"
 ---
 
 "He left everything just as it was," Bonamy marvelled. "Nothing arranged. All his letters strewn about for any one to read. What did he expect? Did he think he would come back?" he mused, standing in the middle of Jacob's room.

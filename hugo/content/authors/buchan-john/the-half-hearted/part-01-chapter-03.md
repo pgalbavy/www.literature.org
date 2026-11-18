@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 3 - Upland Waters"
 weight: 3
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-01-chapter-03.html"
+url: "/authors/buchan-john/the-half-hearted/part-01-chapter-03.html"
 ---
 
 When Alice woke next morning the cool upland air was flooding through the window, and a great dazzle of sunlight made the world glorious. She dressed and ran out to the lawn, then past the loch right to the very edge of the waste country. A high fragrance of heath and bog-myrtle was in the wind, and the mouth grew cool as after long draughts of spring water. Mists were crowding in the valleys, each bald mountain top shone like a jewel, and far aloft in the heavens were the white streamers of morn. Moorhens were plashing at the loch's edge, and one tall heron rose from his early meal. The world was astir with life: sounds of the *plonk-plonk* of rising trout and the endless twitter of woodland birds mingled with the far-away barking of dogs and the lowing of the full-uddered cows in the distant meadows. Abashed and enchanted, the girl listened. It was an elfin land where the old witch voices of hill and river were not silenced. With the wind in her hair she climbed the slope again to the garden ground, where she found a solemn-eyed collie sniffing the fragrant wind in his morning stroll.

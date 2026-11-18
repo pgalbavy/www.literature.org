@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Spots And Speckles"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-05.html"
 ---
 
 WHEN she first met Miss Kitty Cat face to face Henrietta Hen exclaimed, "What a pity!"

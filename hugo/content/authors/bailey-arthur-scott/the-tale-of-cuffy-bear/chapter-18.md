@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Cuffy Frightens His Mother"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-18.html"
 ---
 
 When Cuffy Bear reached home, after his adventure with the bees, he found that his father and mother and his sister Silkie were just sitting down to their evening meal. Cuffy didn't speak to them as he came into the room where they were. He felt too miserable to say a word, with his face aching and burning, and a terrible smarting in his eyes. So he just stumbled inside the room and tried to make himself as small as he could, so he wouldn't be noticed.

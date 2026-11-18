@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Peter Plays A Part"
 weight: 15
-aliases:
-  - "/authors/haggard-h-rider/fair-margaret/chapter-15.html"
+url: "/authors/haggard-h-rider/fair-margaret/chapter-15.html"
 ---
 
 "Stop," said Peter from the shadow of the doorway, "I fear this business, Inez, and I do not understand why it is needful. Why cannot you say what you have to say here?"

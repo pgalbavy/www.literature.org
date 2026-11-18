@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - Inspector Jacks Importunate"
 weight: 30
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-30.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-30.html"
 ---
 
 They were talking of the Prince during those few minutes before they separated to dress for dinner. The whole of the house-party, with the exception of the Prince himself, were gathered around the great open fireplace at the north end of the hall. The weather had changed during the afternoon, and a cold wind had blown in their faces on the homeward drive. Every one had found comfortable seats here, watching the huge logs burn, and there seemed to be a general indisposition to move. A couple of young men from the neighborhood had joined the house-party, and the conversation, naturally enough, was chiefly concerned with the day's sport. The young men, Somerfield especially, were inclined to regard the Prince's achievement from a somewhat critical standpoint.

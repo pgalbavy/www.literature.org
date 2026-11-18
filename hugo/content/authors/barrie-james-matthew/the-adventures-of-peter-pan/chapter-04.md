@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The  Flight"
 weight: 4
-aliases:
-  - "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-04.html"
+url: "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-04.html"
 ---
 
 "Second to the right, and straight on till morning."

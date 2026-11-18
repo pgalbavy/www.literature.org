@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Chapter Of Accidents"
 weight: 17
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-17.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-17.html"
 ---
 
 Anne woke three times in the night and made pilgrimages to her window to make sure that Uncle Abe's prediction was not coming true. Finally the morning dawned pearly and lustrous in a sky full of silver sheen and radiance, and the wonderful day had arrived.

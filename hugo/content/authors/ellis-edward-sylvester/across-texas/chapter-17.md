@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Solitary Pursuer"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-17.html"
 ---
 
 *HERBERT* held his field glass to his eyes for several minutes, while he carefully studied the group of horsemen out upon the plain. There were four of them, beside the two pack animals, all apparently well mounted, and the clear sunlight brought them into clear relief. Their ponies were walking slowly, not exactly north, but bearing a little to the west, so that the general direction was the same as that of our friends on their way to New Mexico.

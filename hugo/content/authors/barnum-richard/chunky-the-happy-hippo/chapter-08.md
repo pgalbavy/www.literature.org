@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Chunky On A Ship"
 weight: 8
-aliases:
-  - "/authors/barnum-richard/chunky-the-happy-hippo/chapter-08.html"
+url: "/authors/barnum-richard/chunky-the-happy-hippo/chapter-08.html"
 ---
 
 Standing up in the cage made of jungle vines, Chunky, the happy hippo――happy even though he had been caught and taken away from home――listened, hoping to hear the trumpeting of his friend, Tum Tum, the jolly elephant. But no such sound came. Instead, the black men shouted more loudly than before, and began dancing.

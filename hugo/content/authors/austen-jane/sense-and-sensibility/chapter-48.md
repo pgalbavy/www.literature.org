@@ -1,8 +1,7 @@
 ---
 title: "Chapter 48"
 weight: 48
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-48.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-48.html"
 ---
 
 Elinor now found the difference between the expectation of an unpleasant event, however certain the mind may be told to consider it, and certainty itself. She now found, that in spite of herself, she had always admitted a hope, while Edward remained single, that something would occur to prevent his marrying Lucy; that some resolution of his own, some mediation of friends, or some more eligible opportunity of establishment for the lady, would arise to assist the happiness of all. But he was now married; and she condemned her heart for the lurking flattery, which so much heightened the pain of the intelligence.

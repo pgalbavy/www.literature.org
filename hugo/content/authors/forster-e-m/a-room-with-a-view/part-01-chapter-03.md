@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 3 - Music, Violets, And The Letter “s”"
 weight: 3
-aliases:
-  - "/authors/forster-e-m/a-room-with-a-view/part-01-chapter-03.html"
+url: "/authors/forster-e-m/a-room-with-a-view/part-01-chapter-03.html"
 ---
 
 It so happened that Lucy, who found daily life rather chaotic, entered a more solid world when she opened the piano. She was then no longer either deferential or patronizing; no longer either a rebel or a slave. The kingdom of music is not the kingdom of this world; it will accept those whom breeding and intellect and culture have alike rejected. The commonplace person begins to play, and shoots into the empyrean without effort, whilst we look up, marvelling how he has escaped us, and thinking how we could worship him and love him, would he but translate his visions into human words, and his experiences into human actions. Perhaps he cannot; certainly he does not, or does so very seldom. Lucy had done so never.

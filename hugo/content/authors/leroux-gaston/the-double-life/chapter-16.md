@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - On Private Ground"
 weight: 17
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-16.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-16.html"
 ---
 
 *AMONG* all the paper that I found in the oaken chest, those which related to the death of Cartouche were by far the most curious, and presented the highest interest, in that they partly contradicted history. They denied with such persuasive strength, and such undeniable logic, that it is difficult to see how the great historians could have overlooked the real details, and the generations which have succeeded since the year 1721, should not have suspected the truth. History teaches us that Cartouche, after having suffered the rack in its most cruel form, during which he confessed nothing, not even a name or a fact, this Cartouche, who had only to die, and nothing to gain from his confession, nothing to soften his last moments, was brought to torment in the Place de la Grere, and it was there that he decided to speak. That they took him back to the Hotel de Ville, and that it was there that he betrayed his principal accomplices, after which he was racked and fastened to the cross, where he expired.

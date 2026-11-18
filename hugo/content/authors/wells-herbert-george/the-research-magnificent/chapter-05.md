@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Assize Of Jealousy"
 weight: 6
-aliases:
-  - "/authors/wells-herbert-george/the-research-magnificent/chapter-05.html"
+url: "/authors/wells-herbert-george/the-research-magnificent/chapter-05.html"
 ---
 
 1

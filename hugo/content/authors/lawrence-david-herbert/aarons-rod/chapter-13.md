@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Wie Es Ihnen Gefaellt"
 weight: 13
-aliases:
-  - "/authors/lawrence-david-herbert/aarons-rod/chapter-13.html"
+url: "/authors/lawrence-david-herbert/aarons-rod/chapter-13.html"
 ---
 
 The fresh morning air comes startling after a central heated house. So Aaron found it. He felt himself dashing up the steps into the garden like a bird dashing out of a trap where it has been caught: that warm and luxurious house. Heaven bless us, we who want to save civilisation. We had better make up our minds what of it we want to save. The kernel may be all well and good. But there is precious little kernel, to a lot of woolly stuffing and poisonous rind.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 14 - In A Cannibal Valley"
 weight: 14
-aliases:
-  - "/authors/stevenson-robert-louis/in-the-south-seas/part-01-chapter-14.html"
+url: "/authors/stevenson-robert-louis/in-the-south-seas/part-01-chapter-14.html"
 ---
 
 The road from Taahauku to Atuona skirted the north-westerly side of the anchorage, somewhat high up, edged, and sometimes shaded, by the splendid flowers of the flamboyant—its English name I do not know. At the turn of the hand, Atuona came in view: a long beach, a heavy and loud breach of surf, a shore-side village scattered among trees, and the guttered mountains drawing near on both sides above a narrow and rich ravine. Its infamous repute perhaps affected me; but I thought it the loveliest, and by far the most ominous and gloomy, spot on earth. Beautiful it surely was; and even more salubrious. The healthfulness of the whole group is amazing; that of Atuona almost in the nature of a miracle. In Atuona, a village planted in a shore-side marsh, the houses standing everywhere intermingled with the pools of a taro-garden, we find every condition of tropical danger and discomfort; and yet there are not even mosquitoes—not even the hateful day-fly of Nuka-hiva—and fever, and its concomitant, the island fe’efe’e, {122} are unknown.

@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 12"
 weight: 27
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-02-chapter-12.html"
+url: "/authors/london-jack/valley-of-the-moon/book-02-chapter-12.html"
 ---
 
 A gleam of light came, when Billy got a job driving a grading team for the contractors of the big bridge then building at Niles. Before he went he made certain that it was a union job. And a union job it was for two days, when the concrete workers threw down their tools. The contractors, evidently prepared for such happening, immediately filled the places of the concrete men with nonunion Italians. Whereupon the carpenters, structural ironworkers and teamsters walked out; and Billy, lacking train fare, spent the rest of the day in walking home.

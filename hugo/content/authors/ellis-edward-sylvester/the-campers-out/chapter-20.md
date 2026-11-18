@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Baying Of A Hound"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-20.html"
 ---
 
 Dick Halliard caught the gleam of the pistol in the hands of the enraged Bob Budd, but before he could bring it into play the younger lifted up his bicycle, ran it swiftly a few paces, sprang up behind, and set his legs to work with desperate energy.

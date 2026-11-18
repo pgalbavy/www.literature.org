@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-12.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-12.html"
 ---
 
 Geraldine, a few hours later, set down the telephone receiver with a little sigh of resignation. Lady Conyers glanced up inquiringly from her book.

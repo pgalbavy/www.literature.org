@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-15.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-15.html"
 ---
 
 During the hour following breakfast that morning, while Shannon was alone in her rooms, the craving returned. The thought of it turned her sick when she felt it coming. She had been occupying herself making her bed and tidying the room, as she had done each morning since her arrival; but when that was done, her thoughts reverted by habit to the desire that had so fatally mastered her.

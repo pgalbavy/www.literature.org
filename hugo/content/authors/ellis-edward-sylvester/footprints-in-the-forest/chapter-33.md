@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Conclusion"
 weight: 33
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-33.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-33.html"
 ---
 
 It was a surprising discovery for Jack Carleton and Otto Relstaub when they learned that the solitary Sauk warrior who welcomed them to his camp, had in his possession the horse belonging to the German lad, for which they had sought so long in vain.

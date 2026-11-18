@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-18.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-18.html"
 ---
 
 At seven o'clock on the last morning of that month, Sheridan, passing through the upper hall on his way to descend the stairs for breakfast, found a couple of scribbled sheets of note-paper lying on the floor. A window had been open in Bibbs's room the evening before; he had left his note-book on the sill—and the sheets were loose. The door was open, and when Bibbs came in and closed it, he did not notice that the two sheets had blown out into the hall. Sheridan recognized the handwriting and put the sheets in his coat pocket, intending to give them to George or Jackson for return to the owner, but he forgot and carried them down-town with him. At noon he found himself alone in his office, and, having a little leisure, remembered the bits of manuscript, took them out, and glanced at them. A glance was enough to reveal that they were not epistolary. Sheridan would not have read a "private letter" that came into his possession in that way, though in a "matter of business" he might have felt it his duty to take advantage of an opportunity afforded in any manner whatsoever. Having satisfied himself that Bibbs's scribblings were only a sample of the kind of writing his son preferred to the machine-shop, he decided, innocently enough, that he would be justified in reading them.

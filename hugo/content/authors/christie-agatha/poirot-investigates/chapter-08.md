@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Kidnapped Prime Minister"
 weight: 8
-aliases:
-  - "/authors/christie-agatha/poirot-investigates/chapter-08.html"
+url: "/authors/christie-agatha/poirot-investigates/chapter-08.html"
 ---
 
 Now that war and the problems of war are things of the past, I think I may safely venture to reveal to the world the part which my friend Poirot played in a moment of national crisis. The secret has been well guarded. Not a whisper of it reached the Press. But, now that the need for secrecy has gone by, I feel it is only just that England should know the debt it owes to my quaint little friend, whose marvellous brain so ably averted a great catastrophe.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Ball"
 weight: 9
-aliases:
-  - "/authors/bronte-anne/agnes-grey/chapter-09.html"
+url: "/authors/bronte-anne/agnes-grey/chapter-09.html"
 ---
 
 'NOW, Miss Grey,' exclaimed Miss Murray, immediately I entered the schoolroom, after having taken off my outdoor garments, upon returning from my four weeks' recreation, 'Now - shut the door, and sit down, and I'll tell you all about the ball.'

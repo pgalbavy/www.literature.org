@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 5"
 weight: 20
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-03-chapter-05.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-03-chapter-05.html"
 ---
 
 Raskolnikov was already entering the room. He came in looking as though he had the utmost difficulty not to burst out laughing again. Behind him Razumihin strode in gawky and awkward, shamefaced and red as a peony, with an utterly crestfallen and ferocious expression. His face and whole figure really were ridiculous at that moment and amply justified Raskolnikov's laughter. Raskolnikov, not waiting for an introduction, bowed to Porfiry Petrovitch, who stood in the middle of the room looking inquiringly at them. He held out his hand and shook hands, still apparently making desperate efforts to subdue his mirth and utter a few words to introduce himself. But he had no sooner succeeded in assuming a serious air and muttering something when he suddenly glanced again as though accidentally at Razumihin, and could no longer control himself: his stifled laughter broke out the more irresistibly the more he tried to restrain it. The extraordinary ferocity with which Razumihin received this "spontaneous" mirth gave the whole scene the appearance of most genuine fun and naturalness. Razumihin strengthened this impression as though on purpose.

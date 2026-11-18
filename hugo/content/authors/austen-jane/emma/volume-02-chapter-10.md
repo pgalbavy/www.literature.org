@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 10"
 weight: 28
-aliases:
-  - "/authors/austen-jane/emma/volume-02-chapter-10.html"
+url: "/authors/austen-jane/emma/volume-02-chapter-10.html"
 ---
 
 The appearance of the little sitting-room as they entered, was tranquillity itself; Mrs. Bates, deprived of her usual employment, slumbering on one side of the fire, Frank Churchill, at a table near her, most deedily occupied about her spectacles, and Jane Fairfax, standing with her back to them, intent on her pianoforte.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - A Strange Delay"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-24.html"
 ---
 
 Meanwhile Avon Burnet and Gleeson continued riding northward at an easy gallop, their eyes and ears on the alert for sounds of their friends or enemies.

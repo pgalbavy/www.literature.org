@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44"
 weight: 45
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-44.html"
+url: "/authors/haggard-h-rider/dawn/chapter-44.html"
 ---
 
 At breakfast on the following morning Arthur, as he had anticipated, met the Bellamys. Sir John came down first, arrayed in true English fashion, in a tourist suit of grey, and presently Lady Bellamy followed. As she entered, dressed in trailing white, and walked slowly up the long table, every eye was turned upon her, for she was one of those women who attract attention as surely and unconsciously as a magnet attracts iron. Arthur, looking with the rest, thought that he had never seen a stranger, or at the same time a more imposinglooking, woman. Time had not yet touched her beauty or impaired her vigorous constitution, and at forty she was still at the zenith of her charms. The dark hair, that threw out glinting lights of copper when the sun struck it, still curled in its clustering ringlets and showed no line of grey, while the mysterious, heavy-lidded eyes and the coral lips were as full of rich life and beauty as they had been when she and Hilda von Holtzhausen first met at Rewtham House.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The King's Closet At The Tuileries"
 weight: 10
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-10.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-10.html"
 ---
 
 We will leave Villefort on the road to Paris, travelling - thanks to trebled fees - with all speed, and passing through two or three apartments, enter at the Tuileries the little room with the arched window, so well known as having been the favorite closet of Napoleon and Louis XVIII., and now of Louis Philippe.

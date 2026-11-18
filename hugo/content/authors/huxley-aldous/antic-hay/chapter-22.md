@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/huxley-aldous/antic-hay/chapter-22.html"
+url: "/authors/huxley-aldous/antic-hay/chapter-22.html"
 ---
 
 Shearwater sat on his stationary bicycle, pedalling unceasingly like a man in a nightmare. The pedals were geared to a little wheel under the saddle and the rim of the wheel rubbed, as it revolved against a brake, carefully adjusted to make the work of the pedaller hard, but not impossibly hard. From a pipe which came up through the floor issued a little jet of water which played on the brake and kept it cool. But no jet of water played on Shearwater. It was his business to get hot. He did get hot.

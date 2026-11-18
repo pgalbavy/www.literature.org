@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Good News About Peter"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-13.html"
 ---
 
 "Yes! They say he has at last decided to go to work," Mrs. Rabbit was saying to Billy Woodchuck's mother.

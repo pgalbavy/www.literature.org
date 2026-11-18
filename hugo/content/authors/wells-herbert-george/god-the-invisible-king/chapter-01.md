@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Cosmogony Of Modern Religion"
 weight: 2
-aliases:
-  - "/authors/wells-herbert-george/god-the-invisible-king/chapter-01.html"
+url: "/authors/wells-herbert-george/god-the-invisible-king/chapter-01.html"
 ---
 
 1\. MODERN RELIGION HAS NO FOUNDER

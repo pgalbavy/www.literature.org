@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Attack In The Ravine"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-15.html"
 ---
 
 IN *THE* mean time, the situation of our friends in Wolf Ravine was becoming perilous to the last degree.

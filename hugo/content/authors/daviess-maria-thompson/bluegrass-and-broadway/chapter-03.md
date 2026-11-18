@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/daviess-maria-thompson/bluegrass-and-broadway/chapter-03.html"
+url: "/authors/daviess-maria-thompson/bluegrass-and-broadway/chapter-03.html"
 ---
 
 Now, by all rules of the game, it was the prerogative of Miss Violet Hawtry to take charge of a situation in which the star of a play meets the author; but she missed her cue, and the gutter instinct within her sat dumb and dumfounded before the lady from Adairville.

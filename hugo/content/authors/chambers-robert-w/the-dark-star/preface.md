@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/preface.html"
+url: "/authors/chambers-robert-w/the-dark-star/preface.html"
 ---
 
 Dans c'métier-là, faut  

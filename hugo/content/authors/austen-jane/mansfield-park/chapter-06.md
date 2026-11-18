@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-06.html"
+url: "/authors/austen-jane/mansfield-park/chapter-06.html"
 ---
 
 Mr. Bertram set off for--------, and Miss Crawford was prepared to find a great chasm in their society, and to miss him decidedly in the meetings which were now becoming almost daily between the families; and on their all dining together at the Park soon after his going, she retook her chosen place near the bottom of the table, fully expecting to feel a most melancholy difference in the change of masters. It would be a very flat business, she was sure. In comparison with his brother, Edmund would have nothing to say. The soup would be sent round in a most spiritless manner, wine drank without any smiles or agreeable trifling, and the venison cut up without supplying one pleasant anecdote of any former haunch, or a single entertaining story, about “my friend such a one.” She must try to find amusement in what was passing at the upper end of the table, and in observing Mr. Rushworth, who was now making his appearance at Mansfield for the first time since the Crawfords' arrival. He had been visiting a friend in the neighbouring county, and that friend having recently had his grounds laid out by an improver, Mr. Rushworth was returned with his head full of the subject, and very eager to be improving his own place in the same way; and though not saying much to the purpose, could talk of nothing else. The subject had been already handled in the drawing-room; it was revived in the dining-parlour. Miss Bertram's attention and opinion was evidently his chief aim; and though her deportment showed rather conscious superiority than any solicitude to oblige him, the mention of Sotherton Court, and the ideas attached to it, gave her a feeling of complacency, which prevented her from being very ungracious.

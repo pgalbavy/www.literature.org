@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-19.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-19.html"
 ---
 
 Rupert De Willoughby was lying upon the grass in the garden under the shade of a tree. The "office" had been stifling hot, and there had been even less to suggest any hope of possible professional business than the blankness of most days held. There never was any business, but at rare intervals someone dropped in and asked him a question or so, his answers to which, by the exercise of imagination, might be regarded as coming under the head of "advice." His clients had no money, however--nobody had any money; and his affairs were assuming a rather desperate aspect.

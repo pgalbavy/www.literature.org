@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 51 - Of The Progress Of Sancho’s Government, And Other Such Entertaining Matters"
 weight: 107
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-51.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-51.html"
 ---
 
 Day came after the night of the governor’s round; a night which the head-carver passed without sleeping, so were his thoughts of the face and air and beauty of the disguised damsel, while the majordomo spent what was left of it in writing an account to his lord and lady of all Sancho said and did, being as much amazed at his sayings as at his doings, for there was a mixture of shrewdness and simplicity in all his words and deeds. The señor governor got up, and by Doctor Pedro Recio’s directions they made him break his fast on a little conserve and four sups of cold water, which Sancho would have readily exchanged for a piece of bread and a bunch of grapes; but seeing there was no help for it, he submitted with no little sorrow of heart and discomfort of stomach; Pedro Recio having persuaded him that light and delicate diet enlivened the wits, and that was what was most essential for persons placed in command and in responsible situations, where they have to employ not only the bodily powers but those of the mind also.

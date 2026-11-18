@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Sneeze Out Of Season"
 weight: 13
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-13.html"
+url: "/authors/bronte-charlotte/villette/chapter-13.html"
 ---
 
 I had occasion to smile - nay, to laugh, at Madame again, within the space of four and twenty hours after the little scene treated of in the last chapter.

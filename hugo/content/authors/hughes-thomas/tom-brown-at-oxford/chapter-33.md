@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Brown Patronus"
 weight: 35
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-33.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-33.html"
 ---
 
 On a Saturday afternoon in August, a few weeks after the eventful ride, Tom returned to the Englebourn Rectory to stay over Sunday, and attend Betty Winburn's funeral. He was strangely attracted to Harry by the remembrance of their old boyish rivalry; by the story which he had heard from his cousin, of the unwavering perseverance with which the young peasant clung to and pursued his suit for Simon's daughter; but, more than all, by the feeling of gratitude with which he remembered the effect his visit to Betty's sick room had had on him, on the day of his ride from Barton Manor. On that day he knew that he had ridden into Englebourn in a miserable mental fog, and had ridden out of it in sunshine, which had lasted through the intervening weeks. Somehow or another he had been set straight then and there, turned into the right road and out of the wrong one, at what he very naturally believed to be the most critical moment of his life.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Way Of The Transgressor"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-05.html"
 ---
 
 Three more miserable lads could not be imagined than our young friends when the train stopped at the station in New Brunswick, and they knew that the total amount of their joint funds was less than a dollar.

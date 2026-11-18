@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Lottery Ticket No. 514"
 weight: 1
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin-versus-herlock-sholmes/chapter-01.html"
+url: "/authors/leblanc-maurice/arsene-lupin-versus-herlock-sholmes/chapter-01.html"
 ---
 
 On the eighth day of last December, Mon. Gerbois, professor of mathematics at the College of Versailles, while rummaging in an old curiosity-shop, unearthed a small mahogany writing-desk which pleased him very much on account of the multiplicity of its drawers.

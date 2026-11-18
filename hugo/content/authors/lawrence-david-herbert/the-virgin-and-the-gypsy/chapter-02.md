@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/lawrence-david-herbert/the-virgin-and-the-gypsy/chapter-02.html"
+url: "/authors/lawrence-david-herbert/the-virgin-and-the-gypsy/chapter-02.html"
 ---
 
 But it was not until the girls finally came home from school, that they felt the full weight of Granny's dear old hand on their lives. Lucille was now nearly twenty-one, and Yvette nineteen. They had been to a good girls' school, and had had a finishing year in Lausanne, and were quite the usual thing, tall young creatures with fresh, sensitive faces and bobbed hair and young-manly, deuce-take- it manners.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Unexpected"
 weight: 5
-aliases:
-  - "/authors/london-jack/love-of-life/chapter-05.html"
+url: "/authors/london-jack/love-of-life/chapter-05.html"
 ---
 
 IT is a simple matter to see the obvious, to do the expected. The tendency of the individual life is to be static rather than dynamic, and this tendency is made into a propulsion by civilization, where the obvious only is seen, and the unexpected rarely happens. When the unexpected does happen, however, and when it is of sufficiently grave import, the unfit perish. They do not see what is not obvious, are unable to do the unexpected, are incapable of adjusting their well-grooved lives to other and strange grooves. In short, when they come to the end of their own groove, they die.

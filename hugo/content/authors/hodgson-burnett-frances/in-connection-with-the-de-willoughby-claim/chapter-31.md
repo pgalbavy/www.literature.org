@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-31.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-31.html"
 ---
 
 Frequenters of the Capitol--whether loungers or politicians--had soon become familiar with the figure of one of the De Willoughby claimants. It was too large a figure not to be quickly marked and unavoidably remembered. Big Tom slowly mounting the marble steps or standing on the corridors was an object to attract attention, and inquiries being answered by the information that he was a party to one of the largest claims yet made, he not unnaturally was discussed with interest.

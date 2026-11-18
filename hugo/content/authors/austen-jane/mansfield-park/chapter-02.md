@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-02.html"
+url: "/authors/austen-jane/mansfield-park/chapter-02.html"
 ---
 
 The little girl performed her long journey in safety; and at Northampton was met by Mrs. Norris, who thus regaled in the credit of being foremost to welcome her, and in the importance of leading her in to the others, and recommending her to their kindness.

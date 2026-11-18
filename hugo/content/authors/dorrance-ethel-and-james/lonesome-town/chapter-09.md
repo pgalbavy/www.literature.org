@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Snuffed"
 weight: 9
-aliases:
-  - "/authors/dorrance-ethel-and-james/lonesome-town/chapter-09.html"
+url: "/authors/dorrance-ethel-and-james/lonesome-town/chapter-09.html"
 ---
 
 So unexpected was the girl’s attack that Pape felt at a loss how best to meet it. At his look of confusion, she continued in quick, fierce tones:

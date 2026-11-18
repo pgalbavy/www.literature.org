@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/austen-jane/persuasion/chapter-20.html"
+url: "/authors/austen-jane/persuasion/chapter-20.html"
 ---
 
 Sir Walter, his two daughters, and Mrs Clay, were the earliest of all their party at the rooms in the evening; and as Lady Dalrymple must be waited for, they took their station by one of the fires in the Octagon Room. But hardly were they so settled, when the door opened again, and Captain Wentworth walked in alone. Anne was the nearest to him, and making yet a little advance, she instantly spoke. He was preparing only to bow and pass on, but her gentle "How do you do?" brought him out of the straight line to stand near her, and make enquiries in return, in spite of the formidable father and sister in the back ground. Their being in the back ground was a support to Anne; she knew nothing of their looks, and felt equal to everything which she believed right to be done.

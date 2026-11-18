@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Squinty And The Merry Monkey"
 weight: 11
-aliases:
-  - "/authors/barnum-richard/squinty-the-comical-pig/chapter-11.html"
+url: "/authors/barnum-richard/squinty-the-comical-pig/chapter-11.html"
 ---
 
 "Where do you live, Squinty?" asked Slicko, the jumping squirrel, as she skipped from one tree branch to another, and so reached the ground near the comical little pig.

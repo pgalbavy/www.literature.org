@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 19
-aliases:
-  - "/authors/bronte-charlotte/the-professor/chapter-18.html"
+url: "/authors/bronte-charlotte/the-professor/chapter-18.html"
 ---
 
 THE young Anglo-Swiss evidently derived both pleasure and profit from the study of her mother-tongue. In teaching her I did not, of course, confine myself to the ordinary school routine; I made instruction in English a channel for instruction in literature. I prescribed to her a course of reading; she had a little selection of English classics, a few of which had been left her by her mother, and the others she had purchased with her own penny-fee. I lent her some more modern works; all these she read with avidity, giving me, in writing, a clear summary of each work when she had perused it. Composition, too, she delighted in. Such occupation seemed the very breath of her nostrils, and soon her improved productions wrung from me the avowal that those qualities in her I had termed taste and fancy ought rather to have been denominated judgment and imagination. When I intimated so much, which I did as usual in dry and stinted phrase, I looked for the radiant and exulting smile my one word of eulogy had elicited before; but Frances coloured. If she did smile, it was very softly and shyly; and instead of looking up to me with a conquering glance, her eyes rested on my hand, which, stretched over her shoulder, was writing some directions with a pencil on the margin of her book.

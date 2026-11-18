@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Dido In A Fire"
 weight: 12
-aliases:
-  - "/authors/barnum-richard/dido-the-dancing-bear/chapter-12.html"
+url: "/authors/barnum-richard/dido-the-dancing-bear/chapter-12.html"
 ---
 
 “What else did you do besides meeting Don?” asked Tum Tum, when the dancing bear had finished telling about the runaway dog.

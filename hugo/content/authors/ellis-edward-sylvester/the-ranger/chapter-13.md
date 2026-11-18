@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Captive"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/the-ranger/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/the-ranger/chapter-13.html"
 ---
 
 Leland and Leslie conversed and recounted to each other their adventures until those were exhausted, when they endeavored to keep off the chill by taking turns at the oars. Morning at length began to appear. In a short time darkness lifted from the water, and the bright rays of the morning sun pierced the foliage of the forest and rested upon the stream.

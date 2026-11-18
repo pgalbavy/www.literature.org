@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Eastward Ho"
 weight: 14
-aliases:
-  - "/authors/doyle-arthur-conan/beyond-the-city/chapter-14.html"
+url: "/authors/doyle-arthur-conan/beyond-the-city/chapter-14.html"
 ---
 
 Mr. McAdam, of the firm of McAdam and Squire, was a highly polished man who dwelt behind a highly polished table in the neatest and snuggest of offices. He was white-haired and amiable, with a deep-lined aquiline face, was addicted to low bows, and indeed, always seemed to carry himself at half-cock, as though just descending into one, or just recovering himself. He wore a high-buckled stock, took snuff, and adorned his conversation with little scraps from the classics.

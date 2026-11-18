@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - On Demand"
 weight: 23
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-23.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-23.html"
 ---
 
 If there was anything left of his mill but the frame, Wiley's ears had played him false; and yet he stood and looked after Virginia. This grinding crash, this pandemonium of destruction which had left him sick with fear, had put joy into her dancing feet. Yes, she had danced--like a child that hears good news or runs to meet its father--and he had thought her worthy of his love! He had battered his brain for weeks to devise some plan whereby he could make his peace; he had taken her blows like a dog; and she had answered with this. Whether it was Stiff Neck George or some other man, she had known both his presence and his purpose; and now she rejoiced in the catastrophe. A hundred dollars would buy him a squaw more worthy of confidence and love.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-25.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-25.html"
 ---
 
 The year before this Judge Rutherford had been sent to Congress by the Republican Party of Hamlin County. His election had been a wildly exciting and triumphant one. Such fiery eloquence as his supporters displayed had rarely, if ever, been poured forth before. It was proved by each orator that the return of the Democratic candidate would plunge the whole country into the renewal of bloodshed and war. This catastrophe having been avoided by the Judge's election, the nation--as represented by Hamlin County--had settled down with prospects of peace, prosperity, and the righting of all old grievances. The Judge bought a new and shining valise, a new and shining suit of broadcloth, and a silk hat equally shining and new, and went triumphantly to Washington, the sole drawback to his exultation being that he was obliged to leave Jenny behind him with the piano, the parlour furniture, and the children.

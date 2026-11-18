@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/woolf-virginia/the-voyage-out/chapter-06.html"
+url: "/authors/woolf-virginia/the-voyage-out/chapter-06.html"
 ---
 
 "That's the tragedy of life—as I always say!" said Mrs. Dalloway. "Beginning things and having to end them. Still, I'm not going to let *this* end, if you're willing." It was the morning, the sea was calm, and the ship once again was anchored not far from another shore.

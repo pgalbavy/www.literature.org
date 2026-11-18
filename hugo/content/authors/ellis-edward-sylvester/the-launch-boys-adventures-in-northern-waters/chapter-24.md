@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Bad For Mike Murphy"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-24.html"
 ---
 
 When Gerald Buxton's shotgun was fired by him, and the report rang out in the still night, it awoke several persons, who wondered what it meant. No one gave the matter further thought, however, until an old lady, facing the main street, looked through her bedroom window and saw the citizen chasing his boy, who toted a gun over his shoulder. At the first streakings of daylight she hurried to the Buxton home for the explanation. Within the following half hour the majority of the population of Beartown knew that an attempt had been made to rob the post office during the night. Then followed a hurrying thither, for no one could be satisfied until he had viewed the scene and talked with the postmistress herself.

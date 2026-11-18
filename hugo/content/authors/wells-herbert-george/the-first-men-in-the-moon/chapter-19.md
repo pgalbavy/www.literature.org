@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Mr. Bedford Alone"
 weight: 19
-aliases:
-  - "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-19.html"
+url: "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-19.html"
 ---
 
 IN a little while it seemed to me as though I had always been alone on the moon. I hunted for a time with a certain intentness, but the heat was still very great, and the thinness of the air felt like a hoop about one's chest. I came presently into a hollow basin bristling with tall, brown, dry fronds about its edge, and I sat down under these to rest and cool. I intended to rest for only a little while. I put down my clubs beside me, and sat resting my chin on my hands. I saw with a sort of colourless interest that the rocks of the basin, where here and there the crackling dry lichens had shrunk away to show them, were all veined and splattered with gold, that here and there bosses of rounded and wrinkled gold projected from among the litter. What did that matter now? A sort of languor had possession of my limbs and mind, I did not belive for a moment that we should ever find the sphere in that vast desiccated wilderness. I seemed to lack a motive for effort until the Selenites should come. Then I supposed I should exert myself, obeying that unreasonable imperative that urges a man before all things to preserve and defend his life, albeit he may preserve it only to die more painfully in a little while.

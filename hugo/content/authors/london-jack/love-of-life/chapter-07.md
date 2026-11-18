@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Sun-Dog Trail"
 weight: 7
-aliases:
-  - "/authors/london-jack/love-of-life/chapter-07.html"
+url: "/authors/london-jack/love-of-life/chapter-07.html"
 ---
 
 SITKA CHARLEY smoked his pipe and gazed thoughtfully at the POLICE GAZETTE illustration on the wall. For half an hour he had been steadily regarding it, and for half an hour I had been slyly watching him. Something was going on in that mind of his, and, whatever it was, I knew it was well worth knowing. He had lived life, and seen things, and performed that prodigy of prodigies, namely, the turning of his back upon his own people, and, in so far as it was possible for an Indian, becoming a white man even in his mental processes. As he phrased it himself, he had come into the warm, sat among us, by our fires, and become one of us. He had never learned to read nor write, but his vocabulary was remarkable, and more remarkable still was the completeness with which he had assumed the white man's point of view, the white man's attitude toward things.

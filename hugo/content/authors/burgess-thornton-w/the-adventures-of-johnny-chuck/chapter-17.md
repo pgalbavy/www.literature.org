@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - More Mischief"
 weight: 17
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-17.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-17.html"
 ---
 
 Mischief's like a snowball  

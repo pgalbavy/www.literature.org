@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-04.html"
+url: "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-04.html"
 ---
 
 Toward evening, the travelers found there was no longer a path to guide them, and the purple hues of the grass and trees warned them that they were now in the Country of the Gillikins, where strange peoples dwelt in places that were quite unknown to the other inhabitants of Oz. The fields were wild and uncultivated and there were no houses of any sort to be seen. But our friends kept on walking even after the sun went down, hoping to find a good place for Woot the Wanderer to sleep; but when it grew quite dark and the boy was weary with his long walk, they halted right in the middle of a field and allowed Woot to get his supper from the food he carried in his knapsack. Then the Scarecrow laid himself down, so that Woot could use his stuffed body as a pillow, and the Tin Woodman stood up beside them all night, so the dampness of the ground might not rust his joints or dull his brilliant polish. Whenever the dew settled on his body he carefully wiped it off with a cloth, and so in the morning the Emperor shone as brightly as ever in the rays of the rising sun.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Candide and Martin Sup with Six Sharpers-Who They Were"
 weight: 26
-aliases:
-  - "/authors/voltaire/candide/chapter-26.html"
+url: "/authors/voltaire/candide/chapter-26.html"
 ---
 
 One evening as Candide, with his attendant Martin, was going to sit down to supper with some foreigners who lodged in the same inn where they had taken up their quarters, a man with a face the color of soot came behind him, and taking him by the arm, said, "Hold yourself in readiness to go along with us; be sure you do not fail."

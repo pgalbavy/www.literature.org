@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/tarkington-booth/the-guest-of-quesnay/chapter-12.html"
+url: "/authors/tarkington-booth/the-guest-of-quesnay/chapter-12.html"
 ---
 
 "Mrs. Harman," I said, as she took the chair vacated by the elfin young lady, "you see I can manage it! But perhaps I control myself better when there's no camp-stool to inspire me. You remember my woodland didoes —I fear?"

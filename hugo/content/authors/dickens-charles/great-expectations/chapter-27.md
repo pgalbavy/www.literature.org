@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-27.html"
+url: "/authors/dickens-charles/great-expectations/chapter-27.html"
 ---
 
 MY DEAR MR PIP,

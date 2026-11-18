@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 4 - A Tale Of A Tapu"
 weight: 25
-aliases:
-  - "/authors/stevenson-robert-louis/in-the-south-seas/part-03-chapter-04.html"
+url: "/authors/stevenson-robert-louis/in-the-south-seas/part-03-chapter-04.html"
 ---
 
 On the morrow of our arrival (Sunday, 14th July 1889) our photographers were early stirring. Once more we traversed a silent town; many were yet abed and asleep; some sat drowsily in their open houses; there was no sound of intercourse or business. In that hour before the shadows, the quarter of the palace and canal seemed like a landing-place in the Arabian Nights or from the classic poets; here were the fit destination of some ‘faery frigot,’ here some adventurous prince might step ashore among new characters and incidents; and the island prison, where it floated on the luminous face of the lagoon, might have passed for the repository of the Grail. In such a scene, and at such an hour, the impression received was not so much of foreign travel—rather of past ages; it seemed not so much degrees of latitude that we had crossed, as centuries of time that we had re-ascended; leaving, by the same steps, home and to-day. A few children followed us, mostly nude, all silent; in the clear, weedy waters of the canal some silent damsels waded, baring their brown thighs; and to one of the maniap’s before the palace gate we were attracted by a low but stirring hum of speech.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Patriot's Work"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-04.html"
 ---
 
 Mrs. Robertson and her son were sitting at their pleasant breakfast-table together.

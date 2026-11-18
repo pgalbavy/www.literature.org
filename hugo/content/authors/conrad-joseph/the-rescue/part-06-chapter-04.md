@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 4"
 weight: 38
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-06-chapter-04.html"
+url: "/authors/conrad-joseph/the-rescue/part-06-chapter-04.html"
 ---
 
 Jorgenson, after seeing the canoe leave the ship's side, ceased to live intellectually. There was no need for more thinking, for any display of mental ingenuity. He had done with it all. All his notions were perfectly fixed and he could go over them in the same ghostly way in which he haunted the deck of the Emma. At the sight of the ring Lingard would return to Hassim and Immada, now captives, too, though Jorgenson certainly did not think them in any serious danger. What had happened really was that Tengga was now holding hostages, and those Jorgenson looked upon as Lingard's own people. They were his. He had gone in with them deep, very deep. They had a hold and a claim on King Tom just as many years ago people of that very race had had a hold and a claim on him, Jorgenson. Only Tom was a much bigger man. A very big man. Nevertheless, Jorgenson didn't see why he should escape his own fate —Jorgenson's fate—to be absorbed, captured, made their own either in failure or in success. It was an unavoidable fatality and Jorgenson felt certain that the ring would compel Lingard to face it without flinching. What he really wanted Lingard to do was to cease to take the slightest interest in those whites—who were the sort of people that left no footprints.

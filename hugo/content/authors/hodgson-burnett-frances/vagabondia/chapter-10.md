@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - In Slippery Places"
 weight: 10
-aliases:
-  - "/authors/hodgson-burnett-frances/vagabondia/chapter-10.html"
+url: "/authors/hodgson-burnett-frances/vagabondia/chapter-10.html"
 ---
 
 THE wise one sat at the window and looked out. The view commanded by Bloomsbury Place was not a specially imposing or attractive one. Four or five tall, dingy houses with solitary scrubby shrubs in their small front slips of low-spirited looking gardens, four or five dingy and tall houses without the scrubby shrubs in their small front slips of low-spirited looking gardens, rows of Venetian blinds of various shades, and one or two lamp-posts,--not much to enliven the prospect.

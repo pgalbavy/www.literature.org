@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 13"
 weight: 41
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-02-chapter-13.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-02-chapter-13.html"
 ---
 
 That same night, having taken leave of the Minister of War, Bolkonski set off to rejoin the army, not knowing where he would find it and fearing to be captured by the French on the way to Krems.

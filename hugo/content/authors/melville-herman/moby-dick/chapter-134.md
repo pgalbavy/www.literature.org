@@ -1,8 +1,7 @@
 ---
 title: "Chapter 134 - The Chase - Second Day"
 weight: 134
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-134.html"
+url: "/authors/melville-herman/moby-dick/chapter-134.html"
 ---
 
 At day-break, the three mast-heads were punctually manned afresh.

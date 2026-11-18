@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Guardian Angel"
 weight: 17
-aliases:
-  - "/authors/collins-wilkie/the-new-magdalen/chapter-17.html"
+url: "/authors/collins-wilkie/the-new-magdalen/chapter-17.html"
 ---
 
 "You were here when I fainted, were you not?" Mercy began. "You must think me a sad coward, even for a woman."

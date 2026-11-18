@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - A Change of Masters"
 weight: 4
-aliases:
-  - "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-03.html"
+url: "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-03.html"
 ---
 
 WE MUST HAVE TRAVELED SEVERAL MILES THROUGH the dark and dismal wood when we came suddenly upon a dense village built high among the branches of the trees. As we approached it my escort broke into wild shouting which was immediately answered from within, and a moment later a swarm of creatures of the same strange race as those who had captured me poured out to meet us. Again I was the center of a wildly chattering horde. I was pulled this way and that. Pinched, pounded, and thumped until I was black and blue, yet I do not think that their treatment was dictated by either cruelty or malice--I was a curiosity, a freak, a new plaything, and their childish minds required the added evidence of all their senses to back up the testimony of their eyes.

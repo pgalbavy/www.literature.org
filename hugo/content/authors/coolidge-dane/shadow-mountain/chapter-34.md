@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - A Clean-Up"
 weight: 34
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-34.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-34.html"
 ---
 
 A cool breeze drew down through Emigrant Wash and soothed the fever heat of Death Valley, and as the morning star rose up like a blazing beacon, Wiley carried Virginia to Stovepipe. They had sat for hours on the crest of a sand-hill, looking out over the sea of waves that seemed to ride on and mingle in the moonlight, and with no one to listen they had talked out their hearts and pledged the future in a kiss. Then they had gazed long and rested, looking up at the countless stars that obscured the Milky Way with their pin-points; and when the Colonel had found them Wiley was carrying her in his arms as if her weight were nothing.

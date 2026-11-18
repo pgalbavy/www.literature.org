@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - I Make Acquaintance Of My Uncle"
 weight: 4
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-03.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-03.html"
 ---
 
 Presently there came a great rattling of chains and bolts, and the door was cautiously opened and shut to again behind me as soon as I had passed.

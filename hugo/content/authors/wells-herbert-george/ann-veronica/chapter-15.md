@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Last Days At Home"
 weight: 15
-aliases:
-  - "/authors/wells-herbert-george/ann-veronica/chapter-15.html"
+url: "/authors/wells-herbert-george/ann-veronica/chapter-15.html"
 ---
 
 They decided to go to Switzerland at the session's end. "We'll clean up everything tidy," said Capes. . . .

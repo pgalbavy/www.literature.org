@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 25
-aliases:
-  - "/authors/baum-l-frank/glinda-of-oz/chapter-24.html"
+url: "/authors/baum-l-frank/glinda-of-oz/chapter-24.html"
 ---
 
 Of course all those who had joined Glinda's expedition at once crossed the bridge to the island, where they were warmly welcomed by the Skeezers. Before all the concourse of people Princess Ozma made a speech from a porch of the palace and demanded that they recognize her as their lawful Ruler and promise to obey the laws of the Land of Oz. In return she agreed to protect them from all future harm and declared they would no longer be subjected to cruelty and abuse.

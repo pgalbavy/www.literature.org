@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 25
-aliases:
-  - "/authors/bronte-charlotte/jane-eyre/chapter-24.html"
+url: "/authors/bronte-charlotte/jane-eyre/chapter-24.html"
 ---
 
 As I rose and dressed, I thought over what had happened, and wondered if it were a dream. I could not be certain of the reality till I had seen Mr. Rochester again, and heard him renew his words of love and promise.

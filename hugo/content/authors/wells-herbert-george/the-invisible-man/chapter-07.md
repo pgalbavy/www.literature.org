@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Unveiling of the Stranger"
 weight: 7
-aliases:
-  - "/authors/wells-herbert-george/the-invisible-man/chapter-07.html"
+url: "/authors/wells-herbert-george/the-invisible-man/chapter-07.html"
 ---
 
 The stranger went into the little parlour of the Coach and Horses about half-past five in the morning, and there he remained until near midday, the blinds down, the door shut, and none, after Hall's repulse, venturing near him.

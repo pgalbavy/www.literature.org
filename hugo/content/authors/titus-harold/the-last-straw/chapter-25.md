@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - A Mountain Portia"
 weight: 25
-aliases:
-  - "/authors/titus-harold/the-last-straw/chapter-25.html"
+url: "/authors/titus-harold/the-last-straw/chapter-25.html"
 ---
 
 It was a long ride from the HC to the round-up camp but the sorrel was not spared. The impulse that sent Jane Hunter through the last hours of darkness had only accumulated strength before the resistance which had held it back through those dragging days. She was on her way to her lover, to explain in a word the situation that had caused the breach between them; she had fought down the pride of which that resistance was made and now her every thought, her every want was to make Beck know that it was humiliation and injured pride rather than infidelity which had sent him away.

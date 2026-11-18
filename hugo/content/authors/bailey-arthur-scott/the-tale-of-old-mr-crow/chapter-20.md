@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Old Shoes For New"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-20.html"
 ---
 
 Old Mr. Crow was too proud to admit that the shoe Jimmy Rabbit was pulling upon his right foot was too small for him. But he would have objected, to be sure, had he known that it was the left shoe. He would have objected likewise when Jimmy crammed his left foot into the right shoe a few minutes later. But Mr. Crow only knew that his feet already ached.

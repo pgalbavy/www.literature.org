@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Pilot"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-06.html"
 ---
 
 It is strange that the moon generally has all the blame for fickleness, when the sun quite as often hides his face without sufficient warning. The Fairport Guard had hardly made the circuit of the town, before the late smiling sky was overcast by dark hurrying clouds, and the weatherwise began to predict a coming storm, which was to be "no joke on sea or land."

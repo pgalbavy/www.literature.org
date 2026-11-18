@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Drums Beat At Sunset"
 weight: 7
-aliases:
-  - "/authors/buchan-john/prester-john/chapter-06.html"
+url: "/authors/buchan-john/prester-john/chapter-06.html"
 ---
 
 Japp was drunk for the next day or two, and I had the business of the store to myself. I was glad of this, for it gave me leisure to reflect upon the various perplexities of my situation. As I have said, I was really scared, more out of a sense of impotence than from dread of actual danger. I was in a fog of uncertainty. Things were happening around me which I could only dimly guess at, and I had no power to take one step in defence. That Wardlaw should have felt the same without any hint from me was the final proof that the mystery was no figment of my nerves. I had written to Colles and got no answer. Now the letter with Japp's resignation in it had gone to Durban. Surely some notice would be taken of that. If I was given the post, Colles was bound to consider what I had said in my earlier letter and give me some directions. Meanwhile it was my business to stick to my job till I was relieved.

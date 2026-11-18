@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Mrs. Wilkins's Minister"
 weight: 9
-aliases:
-  - "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-09.html"
+url: "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-09.html"
 ---
 
 MR. POWER.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Coming Of The Charolais"
 weight: 2
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin/chapter-02.html"
+url: "/authors/leblanc-maurice/arsene-lupin/chapter-02.html"
 ---
 
 Sonia went back to her table, and once more began putting wedding-cards in their envelopes and addressing them. Germaine moved restlessly about the room, fidgeting with the bric-a-brac on the cabinets, shifting the pieces about, interrupting Sonia to ask whether she preferred this arrangement or that, throwing herself into a chair to read a magazine, getting up in a couple of minutes to straighten a picture on the wall, throwing out all the while idle questions not worth answering. Ninety-nine human beings would have been irritated to exasperation by her fidgeting; Sonia endured it with a perfect patience. Five times Germaine asked her whether she should wear her heliotrope or her pink gown at a forthcoming dinner at Madame de Relzieres'. Five times Sonia said, without the slightest variation in her tone, "I think you look better in the pink." And all the while the pile of addressed envelopes rose steadily.

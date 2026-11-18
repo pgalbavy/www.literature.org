@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 9"
 weight: 58
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-03-chapter-09.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-03-chapter-09.html"
 ---
 
 The day after the review, Boris, in his best uniform and with his comrade Berg's best wishes for success, rode to Olmutz to see Bolkonski, wishing to profit by his friendliness and obtain for himself the best post he could- preferably that of adjutant to some important personage, a position in the army which seemed to him most attractive. "It is all very well for Rostov, whose father sends him ten thousand rubles at a time, to talk about not wishing to cringe to anybody and not be anyone's lackey, but I who have nothing but my brains have to make a career and must not miss opportunities, but must avail myself of them!" he reflected.

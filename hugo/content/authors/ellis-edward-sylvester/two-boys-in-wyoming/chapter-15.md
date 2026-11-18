@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Tozer"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-15.html"
 ---
 
 Meanwhile Hank Hazletine was busy. He had formed several theories to account for the disappearance of the youth, of whom he had grown extremely fond, brief as was their acquaintance, but the data upon which he based these theories were so vague and meagre that he could do nothing until more definite knowledge was obtained.

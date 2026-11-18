@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - The Cavern Of Diamonds"
 weight: 35
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-35.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-35.html"
 ---
 
 Fred Ashman was greatly relieved when he had assisted Ariel down from the high, rocky wall, and they had picked their way to the spot where the little canoe had been left but a short time before.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Various Parties Converging On The Sea"
 weight: 11
-aliases:
-  - "/authors/buchan-john/the-thirty-nine-steps/chapter-10.html"
+url: "/authors/buchan-john/the-thirty-nine-steps/chapter-10.html"
 ---
 
 A pink and blue June morning found me at Bradgate looking from the Griffin Hotel over a smooth sea to the lightship on the Cock sands which seemed the size of a bell-buoy. A couple of miles farther south and much nearer the shore a small destroyer was anchored. Scaife, MacGillivray’s man, who had been in the Navy, knew the boat, and told me her name and her commander’s, so I sent off a wire to Sir Walter.

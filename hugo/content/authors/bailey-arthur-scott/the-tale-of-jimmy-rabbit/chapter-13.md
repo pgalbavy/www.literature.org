@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Mr. Crow's Picture"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-13.html"
 ---
 
 In the woods near the foot of Blue Mountain news travels fast. Soon everybody knew that Jimmy Rabbit had become an artist. And many of the woods-people put on their best clothes and hurried to Jimmy's house, to have their pictures painted.

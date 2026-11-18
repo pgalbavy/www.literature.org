@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - An \"Injin\" Story"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-17.html"
 ---
 
 The doctor and his little daughter stood at the landing, the mother remaining at the house, and watched the canoe as it put out from the shore and headed toward the bungalow on the other side of the lake. The fact that the boys had to sit facing the other way did not prevent them from turning their heads several times and waving a hand or paddle in response to the good-bye greeting of Sunbeam. Mike having no paddling to do indulged in the exchange much more than his companions.

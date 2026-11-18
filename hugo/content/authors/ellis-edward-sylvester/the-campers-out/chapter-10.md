@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Startling Summons"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-10.html"
 ---
 
 The stage was within a hundred yards of Black Bear Swamp when something like a tornado struck it. The horses stopped, and the vehicle was partly lifted from the ground. For an instant it seemed to be going over. The driver and the New Englander started with suppressed exclamations, while Wagstaff emitted a cry of alarm, as he and his companion attempted to leap out.

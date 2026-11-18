@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 32"
 weight: 32
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-32.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-32.html"
 ---
 
 An old year was dying and a young year was about to be born. Along the blazing stretch of Broadway from Thirtieth street to Columbus circle seethed and sounded the noisy saturnalia of New Year's Eve.

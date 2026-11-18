@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Bennet Islet"
 weight: 15
-aliases:
-  - "/authors/verne-jules/an-antartic-mystery/chapter-15.html"
+url: "/authors/verne-jules/an-antartic-mystery/chapter-15.html"
 ---
 
 The Halbrane was then within sight of Bennet Islet! The crew urgently needed rest, so the disembarkation was deferred until the following day, and I went back to my cabin.   The night passed without disturbance, and when day came not a craft of any kind was visible on the waters, not a native on the beach. There were no huts upon the coast, no smoke arose in the distance to indicate that Bennet Islet was inhabited. But William Guy had not found any trace of human beings there, and what I saw of the islet answered to the description given by Arthur Pym. It rose upon a rocky base of about a league in circumference, and was so arid that no vegetation existed on its surface.   "Mr. Jeorling," said Captain Len Guy, "do you observe a promontory in the direction of the north-east?"

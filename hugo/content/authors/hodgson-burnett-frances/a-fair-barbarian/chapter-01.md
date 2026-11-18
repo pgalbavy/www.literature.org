@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Miss Octavia Bassett"
 weight: 1
-aliases:
-  - "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-01.html"
+url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-01.html"
 ---
 
 Slowbridge had been shaken to its foundations.

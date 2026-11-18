@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-10.html"
+url: "/authors/london-jack/john-barleycorn/chapter-10.html"
 ---
 
 And so I won my manhood's spurs. My status on the water-front and with the oyster pirates became immediately excellent. I was looked upon as a good fellow, as well as no coward. And somehow, from the day I achieved that concept sitting on the stringer-piece of the Oakland City Wharf, I have never cared much for money. No one has ever considered me a miser since, while my carelessness of money is a source of anxiety and worry to some that know me.

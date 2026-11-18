@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/london-jack/the-call-of-the-wild/chapter-03.html"
+url: "/authors/london-jack/the-call-of-the-wild/chapter-03.html"
 ---
 
 The dominant primordial beast was strong in Buck, and under the fierce conditions of trail life it grew and grew. Yet it was a secret growth. His newborn cunning gave him poise and control. He was too busy adjusting himself to the new life to feel at ease, and not only did he not pick fights, but he avoided them whenever possible. A certain deliberateness characterized his attitude. He was not prone to rashness and precipitate action; and in the bitter hatred between him and Spitz he betrayed no impatience, shunned all offensive acts.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/stoker-bram/dracula/chapter-10.html"
+url: "/authors/stoker-bram/dracula/chapter-10.html"
 ---
 
 LETTER, DR. SEWARD TO HON. ARTHUR HOLMWOOD

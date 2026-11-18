@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Exit Julian"
 weight: 12
-aliases:
-  - "/authors/collins-wilkie/the-new-magdalen/chapter-12.html"
+url: "/authors/collins-wilkie/the-new-magdalen/chapter-12.html"
 ---
 
 JULIAN happened to be standing nearest to Mercy. He was the first at her side when she fell.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Mrs. Chipmunk Is Glad"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-05.html"
 ---
 
 After Sandy Chipmunk had dug his chamber underneath Farmer Green's pasture, he liked the inside of his house quite well. But the looks of the outside did not please him at all. He wanted a neat dooryard. And how could he have that, with that yawning hole through which he had pushed earth and stones, which still littered the grass a little distance away?

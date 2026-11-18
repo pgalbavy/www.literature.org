@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The State Fair Cake"
 weight: 16
-aliases:
-  - "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-16.html"
+url: "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-16.html"
 ---
 
 "What are you doing with all that torn-up paper, Peace?" asked Allee, finding her sister busy stripping old papers into tiny shreds up in the barn loft, after she had searched all over the place for her.

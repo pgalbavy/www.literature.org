@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Seamstress"
 weight: 6
-aliases:
-  - "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-06.html"
+url: "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-06.html"
 ---
 
 FOR some weeks Christie rested and refreshed herself by making her room gay and comfortable with the gifts lavished on her by the Carrols, and by sharing with others the money which Harry had smuggled into her possession after she had steadily refused to take one penny more than the sum agreed upon when she first went to them.

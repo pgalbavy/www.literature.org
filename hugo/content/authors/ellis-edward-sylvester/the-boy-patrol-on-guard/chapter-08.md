@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The \"Instructor In Woodcraft\""
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-08.html"
 ---
 
 The ball game having ended so summarily, the Patrols gathered once more on the slope in front of the clubhouse to decide what should be done during the remainder of the forenoon.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/collins-wilkie/a-rogues-life/chapter-14.html"
+url: "/authors/collins-wilkie/a-rogues-life/chapter-14.html"
 ---
 
 As soon as I was alone, I took from my pocket one of the handbills which my excitable fellow-traveler had presented to me, so as to have it ready for Mrs. Baggs the moment we stood face to face. Armed with this ominous letter of introduction, I kicked a chair down against the folding-doors, by way of giving a preliminary knock to arouse the housekeeper's attention. The plan was immediately successful. Mrs. Baggs opened the doors of communication violently. A slight smell of spirits entered the room, and was followed close by the housekeeper herself, with an indignant face and a disordered head-dress.

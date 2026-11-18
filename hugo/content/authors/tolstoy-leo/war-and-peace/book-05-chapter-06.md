@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 6"
 weight: 90
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-05-chapter-06.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-05-chapter-06.html"
 ---
 
 The duel between Pierre and Dolokhov was hushed up and, in spite of the Emperor's severity regarding duels at that time, neither the principals nor their seconds suffered for it. But the story of the duel, confirmed by Pierre's rupture with his wife, was the talk of society. Pierre who had been regarded with patronizing condescension when he was an illegitimate son, and petted and extolled when he was the best match in Russia, had sunk greatly in the esteem of society after his marriage- when the marriageable daughters and their mothers had nothing to hope from him- especially as he did not know how, and did not wish, to court society's favor. Now he alone was blamed for what had happened, he was said to be insanely jealous and subject like his father to fits of bloodthirsty rage. And when after Pierre's departure Helene returned to Petersburg, she was received by all her acquaintances not only cordially, but even with a shade of deference due to her misfortune. When conversation turned on her husband Helene assumed a dignified expression, which with characteristic tact she had acquired though she did not understand its significance. This expression suggested that she had resolved to endure her troubles uncomplainingly and that her husband was a cross laid upon her by God. Prince Vasili expressed his opinion more openly. He shrugged his shoulders when Pierre was mentioned and, pointing to his forehead, remarked:

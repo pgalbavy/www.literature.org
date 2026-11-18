@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/cooper-courtney-ryley/the-crosscut/chapter-22.html"
+url: "/authors/cooper-courtney-ryley/the-crosscut/chapter-22.html"
 ---
 
 So this explained, after a fashion, Harry's disappearance. This revealed why the search through the mountains had failed. This--

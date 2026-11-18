@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Full-Fledged Schoolma'am"
 weight: 5
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-05.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-05.html"
 ---
 
 When Anne reached the school that morning. . .for the first time in her life she had traversed the Birch Path deaf and blind to its beauties. . .all was quiet and still. The preceding teacher had trained the children to be in their places at her arrival, and when Anne entered the schoolroom she was confronted by prim rows of "shining morning faces" and bright, inquisitive eyes. She hung up her hat and faced her pupils, hoping that she did not look as frightened and foolish as she felt and that they would not perceive how she was trembling.

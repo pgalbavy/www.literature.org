@@ -1,8 +1,7 @@
 ---
 title: "Leaf 1 - The Bachelor's-Buttons"
 weight: 1
-aliases:
-  - "/authors/daviess-maria-thompson/the-melting-of-molly/leaf-01.html"
+url: "/authors/daviess-maria-thompson/the-melting-of-molly/leaf-01.html"
 ---
 
 Yes, I truly think that in all the world there is nothing so dead as a young widow's deceased husband, and God ought to give His wisest man-angel special charge concerning looking after her and the devil at the same time. They both need it! I don't know how all this is going to end and I wish my mind wasn't in a kind of tingle. However, I'll do the best I can and not hold myself at all responsible for myself, and then who will there be to blame?

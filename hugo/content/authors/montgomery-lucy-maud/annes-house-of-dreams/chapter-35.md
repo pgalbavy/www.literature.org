@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - Politics At Four Winds"
 weight: 35
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-35.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-35.html"
 ---
 
 When anne came downstairs again, the Island, as well as all Canada, was in the throes of a campaign preceding a general election. Gilbert, who was an ardent Conservative, found himself caught in the vortex, being much in demand for speech-making at the various county rallies. Miss Cornelia did not approve of his mixing up in politics and told Anne so.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - The Path To Arcady"
 weight: 29
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-28.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-28.html"
 ---
 
 October that year gathered up all the spilled sunshine of the summer and clad herself in it as in a garment. The Story Girl had asked us to try to make the last month together beautiful, and Nature seconded our efforts, giving us that most beautiful of beautiful things--a gracious and perfect moon of falling leaves. There was not in all that vanished October one day that did not come in with auroral splendour and go out attended by a fair galaxy of evening stars--not a day when there were not golden lights in the wide pastures and purple hazes in the ripened distances. Never was anything so gorgeous as the maple trees that year. Maples are trees that have primeval fire in their souls. It glows out a little in their early youth, before the leaves open, in the redness and rosy-yellowness of their blossoms, but in summer it is carefully hidden under a demure, silver-lined greenness. Then when autumn comes, the maples give up trying to be sober and flame out in all the barbaric splendour and gorgeousness of their real nature, making of the hills things out of an Arabian Nights dream in the golden prime of good Haroun Alraschid.

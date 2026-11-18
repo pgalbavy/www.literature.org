@@ -1,8 +1,7 @@
 ---
 title: "Chapter 62 - Two Varieties Of Demons"
 weight: 63
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-62.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-62.html"
 ---
 
 "Ah," cried Milady and Rochefort together, "it is you!"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - The Final Charge"
 weight: 37
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-37.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-37.html"
 ---
 
 AT *THE* earliest streaking of gray in the eastern horizon the three men and Herbert Watrous, all of whom had been sleeping fitfully by turns through the long dismal hours, silently rose to their feet and walked to where the ponies, a short distance off, had resumed their cropping of the grass. They were thirsty, like their masters, but no water was within reach, and they were doing their best to satisfy their hunger.

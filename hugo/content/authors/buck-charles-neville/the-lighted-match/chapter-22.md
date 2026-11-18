@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Sentry Box Answers The King's Query"
 weight: 22
-aliases:
-  - "/authors/buck-charles-neville/the-lighted-match/chapter-22.html"
+url: "/authors/buck-charles-neville/the-lighted-match/chapter-22.html"
 ---
 
 Several days later, Blanco arrived in Puntal shortly after the lazy noon hour.

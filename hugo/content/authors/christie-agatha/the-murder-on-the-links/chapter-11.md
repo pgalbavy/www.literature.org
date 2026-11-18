@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Jack Renauld"
 weight: 11
-aliases:
-  - "/authors/christie-agatha/the-murder-on-the-links/chapter-11.html"
+url: "/authors/christie-agatha/the-murder-on-the-links/chapter-11.html"
 ---
 
 What the next development of the conversation would have been, I cannot say, for at that moment the door was thrown violently open, and a tall young man strode into the room.

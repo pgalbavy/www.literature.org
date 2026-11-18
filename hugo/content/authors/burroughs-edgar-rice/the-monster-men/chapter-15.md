@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Too Late"
 weight: 15
-aliases:
-  - "/authors/burroughs-edgar-rice/the-monster-men/chapter-15.html"
+url: "/authors/burroughs-edgar-rice/the-monster-men/chapter-15.html"
 ---
 
 For a moment the two stood in silence; Bulan tortured by thoughts of the bitter humiliation that he must suffer when the girl should learn his identity; Virginia wondering at the sad lines that had come into the young man's face, and at his silence.

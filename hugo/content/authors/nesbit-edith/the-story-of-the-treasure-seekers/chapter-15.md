@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - \u0026quot;Lo, The Poor Indian!\u0026quot;"
 weight: 15
-aliases:
-  - "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-15.html"
+url: "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-15.html"
 ---
 
 It was all very well for Father to ask us not to make a row because the Indian Uncle was coming to talk business, but my young brother's boots are not the only things that make a noise. We took his boots away and made him wear Dora's bath slippers, which are soft and woolly, and hardly any soles to them; and of course we wanted to see the Uncle, so we looked over the banisters when he came, and we were as quiet as mice - but when Eliza had let him in she went straight down to the kitchen and made the most awful row you ever heard, it sounded like the Day of judgement, or all the saucepans and crockery in the house being kicked about the floor, but she told me afterwards it was only the tea- tray and one or two cups and saucers, that she had knocked over in her flurry. We heard the Uncle say, 'God bless my soul!' and then he went into Father's study and the door was shut - we didn't see him properly at all that time.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Their Graces Keep Their Wedding Day At Camylott"
 weight: 32
-aliases:
-  - "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-31.html"
+url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-31.html"
 ---
 
 "She came to Court at last, my Lord Duke," said his Grace of Marlborough. "She came at last--as I felt sure 'twas Fate she should."

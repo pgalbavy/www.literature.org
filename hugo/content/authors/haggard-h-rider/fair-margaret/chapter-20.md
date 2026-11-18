@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Isabella Of Spain"
 weight: 20
-aliases:
-  - "/authors/haggard-h-rider/fair-margaret/chapter-20.html"
+url: "/authors/haggard-h-rider/fair-margaret/chapter-20.html"
 ---
 
 On the afternoon following his first visit, Castell's agent, Bernaldez, arrived again at the prison of the Hermandad at Seville accompanied by a tailor, a woman, and a chest full of clothes. The governor ordered these two persons to wait while the garments were searched under his own eye, but Bernaldez he permitted to be led at once to the prisoners. As soon as he was with them he said:

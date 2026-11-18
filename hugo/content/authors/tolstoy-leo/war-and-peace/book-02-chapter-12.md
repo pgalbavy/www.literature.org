@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 12"
 weight: 40
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-02-chapter-12.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-02-chapter-12.html"
 ---
 
 At the levee Prince Andrew stood among the Austrian officers as he had been told to, and the Emperor Francis merely looked fixedly into his face and just nodded to him with to him with his long head. But after it was over, the adjutant he had seen the previous day ceremoniously informed Bolkonski that the Emperor desired to give him an audience. The Emperor Francis received him standing in the middle of the room. Before the conversation began Prince Andrew was struck by the fact that the Emperor seemed confused and blushed as if not knowing what to say.

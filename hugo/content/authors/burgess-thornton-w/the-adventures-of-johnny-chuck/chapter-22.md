@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Johnny Chuck Is Kept Busy"
 weight: 22
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-22.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-22.html"
 ---
 
 Johnny Chuck is naturally lazy. You see, Johnny has very simple tastes and usually he is contented. He does not have to go far from his own doorstep to get all he wants to eat. He does not have to hunt for his food, as so many of the little meadow and forest people do, and so he has a great deal of time to sit on his doorstep and watch the world go by and dream pleasant daydreams and grow fat. Now people who do not have to work usually become lazy. It is the easiest habit in the world to learn and the hardest to get over. And so, because he seldom has to work, Johnny Chuck quite naturally is lazy.

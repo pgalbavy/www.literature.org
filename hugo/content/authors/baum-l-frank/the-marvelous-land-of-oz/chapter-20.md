@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-20.html"
+url: "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-20.html"
 ---
 
 "Hooray!" shouted the Scarecrow, gaily. "We can now leave this miserable Jackdaws' nest whenever we please."

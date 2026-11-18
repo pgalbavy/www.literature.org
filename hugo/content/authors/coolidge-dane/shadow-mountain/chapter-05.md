@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Load Of Buckshot"
 weight: 5
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-05.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-05.html"
 ---
 
 Since he had turned back, far out on the desert, and braved the storm to inspect the Paymaster Mine, Wiley Holman had met nothing but disaster; but as he lay on the ground with one leg full of buckshot he blamed it all on the Widow. Without warning or justification, without even giving him a chance, she had sneaked up and potted him like a rabbit; and now, as men came running to witness his shame, she gloried in her badness.

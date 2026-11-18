@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - The Hotel Créty"
 weight: 27
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-27.html"
+url: "/authors/bronte-charlotte/villette/chapter-27.html"
 ---
 
 The morrow turned out a more lively and busy day than we - or than I, at least-had anticipated. It seems it was the birthday of one of the young princes of Labassecour-the eldest, I think, the Duc de Dindonneau, and a general holiday was given in his honour at the schools, and especially at the principal "Athénée," or college. The youth of that institution had also concocted, and were to present a loyal address; for which purpose they were to be assembled in the public building where the yearly examinations were conducted, and the prizes distributed. After the ceremony of presentation, an oration, or "discours," was to follow from one of the professors.

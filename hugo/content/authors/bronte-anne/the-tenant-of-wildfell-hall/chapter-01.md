@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-01.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-01.html"
 ---
 
 You must go back with me to the autumn of 1827.

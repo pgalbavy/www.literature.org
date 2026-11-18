@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Question Of Feet"
 weight: 13
-aliases:
-  - "/authors/scott-arthur/the-tale-of-chirpy-cricket/chapter-13.html"
+url: "/authors/scott-arthur/the-tale-of-chirpy-cricket/chapter-13.html"
 ---
 
 "Are you sure you're a cousin of mine?" Chirpy Cricket inquired of Mr. Mole Cricket. "Don't you think that perhaps you are mistaken? I'm almost certain you are."

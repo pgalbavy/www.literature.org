@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - L'amie Inconnue"
 weight: 3
-aliases:
-  - "/authors/carroll-lewis/sylvie-and-bruno/chapter-02.html"
+url: "/authors/carroll-lewis/sylvie-and-bruno/chapter-02.html"
 ---
 
 As we entered the breakfast-saloon, the Professor was saying "--and he had breakfast by himself, early: so he begged you wouldn't wait for him, my Lady. This way, my Lady," he added, "this way!" And then, with (as it seemed to me) most superfluous politeness, he flung open the door of my compartment, and ushered in "--a young and lovely lady!" I muttered to myself with some bitterness. "And this is, of course, the opening scene of Vol. I. She is the Heroine. And I am one of those subordinate characters that only turn up when needed for the development of her destiny, and whose final appearance is outside the church, waiting to greet the Happy Pair!"

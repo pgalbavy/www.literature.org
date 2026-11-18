@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/verne-jules/from-the-earth-to-the-moon/chapter-24.html"
+url: "/authors/verne-jules/from-the-earth-to-the-moon/chapter-24.html"
 ---
 
 On the 20th of October in the preceding year, after the close of the subscription, the president of the Gun Club had credited the Observatory of Cambridge with the necessary sums for the construction of a gigantic optical instrument. This instrument was designed for the purpose of rendering visible on the surface of the moon any object exceeding nine feet in diameter.

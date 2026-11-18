@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 4 - On The Trail"
 weight: 22
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-04.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-04.html"
 ---
 
 As They Entered The Place Billy, Who Was Ahead, Sought A Table; But As He Was About To Hang Up His Cap And Seat Himself Bridge Touched His Elbow"

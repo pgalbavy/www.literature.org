@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - In Which Romeo Becomes Dromio"
 weight: 6
-aliases:
-  - "/authors/buck-charles-neville/the-lighted-match/chapter-06.html"
+url: "/authors/buck-charles-neville/the-lighted-match/chapter-06.html"
 ---
 
 When Benton had straightened out his car for the run to the city, and the road had begun to slip away under the tires, he turned to McGuire, his chauffeur.

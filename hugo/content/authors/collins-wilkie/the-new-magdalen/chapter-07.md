@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Man Is Coming"
 weight: 7
-aliases:
-  - "/authors/collins-wilkie/the-new-magdalen/chapter-07.html"
+url: "/authors/collins-wilkie/the-new-magdalen/chapter-07.html"
 ---
 
 "You look very pale this morning, my child."

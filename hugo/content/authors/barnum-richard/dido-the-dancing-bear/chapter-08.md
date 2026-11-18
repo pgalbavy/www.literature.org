@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Dido Helps A Girl"
 weight: 8
-aliases:
-  - "/authors/barnum-richard/dido-the-dancing-bear/chapter-08.html"
+url: "/authors/barnum-richard/dido-the-dancing-bear/chapter-08.html"
 ---
 
 “See how friendly our dogs are with the dancing bear,” said Alice, the girl, to Bob, the boy.

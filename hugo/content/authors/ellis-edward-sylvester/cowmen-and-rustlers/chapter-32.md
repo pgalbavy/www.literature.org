@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - The Hostage"
 weight: 32
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-32.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-32.html"
 ---
 
 Despite the alarm caused by the sudden illness of Mrs. Whitney, it was quickly apparent that nothing serious was the matter with her.

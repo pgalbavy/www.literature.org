@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 57 - Which Treats Of How Don Quixote Took Leave Of The Duke, And Of What Followed With The Witty And Impudent Altisidora, One Of The Duchess’s Damsels"
 weight: 113
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-57.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-57.html"
 ---
 
 Don Quixote now felt it right to quit a life of such idleness as he was leading in the castle; for he fancied that he was making himself sorely missed by suffering himself to remain shut up and inactive amid the countless luxuries and enjoyments his hosts lavished upon him as a knight, and he felt too that he would have to render a strict account to heaven of that indolence and seclusion; and so one day he asked the duke and duchess to grant him permission to take his departure. They gave it, showing at the same time that they were very sorry he was leaving them.

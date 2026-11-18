@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - A New Departure in Flavorings"
 weight: 21
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-21.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-21.html"
 ---
 
 "Dear me, there is nothing but meetings and partings in this world, as Mrs. Lynde says," remarked Anne plaintively, putting her slate and books down on the kitchen table on the last day of June and wiping her red eyes with a very damp handkerchief. "Wasn't it fortunate, Marilla, that I took an extra handkerchief to school today? I had a presentiment that it would be needed."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 35
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-35.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-35.html"
 ---
 
 "There is a man who seems to have begun to haunt my pathway," Baird said to Tom; "or perhaps it is Latimer's pathway, for it is when Latimer is with me that I meet him. He is small and sharp-featured and unwholesome."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/crane-stephen/the-red-badge-of-courage/chapter-14.html"
+url: "/authors/crane-stephen/the-red-badge-of-courage/chapter-14.html"
 ---
 
 WHEN the youth awoke it seemed to him that he had been asleep for a thousand years, and he felt sure that he opened his eyes upon an unex- pected world. Gray mists were slowly shifting before the first efforts of the sun rays. An im- pending splendor could be seen in the eastern sky. An icy dew had chilled his face, and im- mediately upon arousing he curled farther down into his blanket. He stared for a while at the leaves overhead, moving in a heraldic wind of the day.

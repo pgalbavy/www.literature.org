@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Ride By Moonlight"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-10.html"
 ---
 
 IT was not exactly a pleasant ride that Daddy Longlegs had in the toe of Peter Mink's shoe. Not only was it dark pocket inside the shoe, but it was so cramped that Daddy was most uncomfortable. And what was still worse, he hadn't even the faintest idea where he was going.

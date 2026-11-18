@@ -1,8 +1,7 @@
 ---
 title: "Chapter 46 - A Scotch Marriage"
 weight: 48
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-46.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-46.html"
 ---
 
 IT was Saturday, the third of October--the day on which the assertion of Arnold's marriage to Anne Silvester was to be put to the proof.

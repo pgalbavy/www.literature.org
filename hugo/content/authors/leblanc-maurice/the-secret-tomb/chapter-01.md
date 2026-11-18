@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Château De Roborey"
 weight: 1
-aliases:
-  - "/authors/leblanc-maurice/the-secret-tomb/chapter-01.html"
+url: "/authors/leblanc-maurice/the-secret-tomb/chapter-01.html"
 ---
 
 Under a sky heavy with stars and faintly brighter for a low-hanging sickle moon, the gipsy caravan slept on the turf by the roadside, its shutters closed, its shafts stretched out like arms. In the shadow of the ditch nearby a stertorous horse was snoring.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - In The Shadow"
 weight: 24
-aliases:
-  - "/authors/titus-harold/the-last-straw/chapter-24.html"
+url: "/authors/titus-harold/the-last-straw/chapter-24.html"
 ---
 
 The outcropping which formed Cathedral Tank stood stark and saffron in the lap of the desert under the morning sun, flinging out slow waves of heat even at that early hour, as Sam McKee rode from the wash into the basin and stopped his horse.

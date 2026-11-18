@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Doctors Mayberry, Mother And Son"
 weight: 1
-aliases:
-  - "/authors/daviess-maria-thompson/the-road-to-providence/chapter-01.html"
+url: "/authors/daviess-maria-thompson/the-road-to-providence/chapter-01.html"
 ---
 
 "Now, child, be sure and don't mix 'em with a heavy hand! Lightness is expected of riz biscuits and had oughter be dealt out to 'em by the mixer from the start. Just this way--"

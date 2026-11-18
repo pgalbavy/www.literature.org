@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Echoes"
 weight: 17
-aliases:
-  - "/authors/chambers-robert-w/the-firing-line/chapter-17.html"
+url: "/authors/chambers-robert-w/the-firing-line/chapter-17.html"
 ---
 
 Some minutes later, on the northward speeding train, he left Portlaw playing solitaire in their own compartment, and, crossing the swaying corridor, entered the state-room opposite. Miss Wilming was there, reading a novel, an enormous bunch of roses, a box of bonbons, and a tiny kitten on the table before her. The kitten was so young that it was shaky on its legs, and it wore very wide eyes and a blue bow.

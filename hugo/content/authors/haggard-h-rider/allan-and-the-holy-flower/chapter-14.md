@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Kalubi’s Oath"
 weight: 14
-aliases:
-  - "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-14.html"
+url: "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-14.html"
 ---
 
 “Be silent!” I whispered, and all understood my tone if they did not catch the words. Then steadying myself with an effort, for this hideous vision, which might have been a picture from hell, made me feel faint, I glanced at Komba, who was a pace or two in front of us. Evidently he was much disturbed--the motions of his back told me this--by the sense of some terrible mistake that he had made. For a moment he stood still, then wheeled round and asked me if we had seen anything.

@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 16"
 weight: 39
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-16.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-16.html"
 ---
 
 It was the second week in May, in which the three young ladies set out together from Gracechurch-street, for the town of ---- in Hertfordshire; and, as they drew near the appointed inn where Mr. Bennet's carriage was to meet them, they quickly perceived, in token of the coachman's punctuality, both Kitty and Lydia looking out of a dining-room up stairs. These two girls had been above an hour in the place, happily employed in visiting an opposite milliner, watching the sentinel on guard, and dressing a sallad and cucumber.

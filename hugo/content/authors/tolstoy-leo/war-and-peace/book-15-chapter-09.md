@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 9"
 weight: 326
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-09.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-09.html"
 ---
 
 The fifth company was bivouacking at the very edge of the forest. A huge campfire was blazing brightly in the midst of the snow, lighting up the branches of trees heavy with hoarfrost.

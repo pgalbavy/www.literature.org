@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Flop Ear Helps Some Mice"
 weight: 10
-aliases:
-  - "/authors/barnum-richard/flop-ear-the-funny-rabbit/chapter-10.html"
+url: "/authors/barnum-richard/flop-ear-the-funny-rabbit/chapter-10.html"
 ---
 
 Flop Ear did not know what was happening to him. All he knew was that he was going up, much higher than the time he had hopped into the wood basket, and had been lifted up by the boy. And something seemed to be squeezing him, as though a snake had him.

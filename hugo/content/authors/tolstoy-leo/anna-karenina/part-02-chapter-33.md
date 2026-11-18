@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 33"
 weight: 67
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-33.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-33.html"
 ---
 
 Kitty made the acquaintance of Madame Stahl too, and this acquaintance, together with her friendship with Varenka, did not merely exercise a great influence on her, it also comforted her in her mental distress. She found this comfort through a completely new world being opened to her by means of this acquaintance, a world having nothing in common with her past, an exalted, noble world, from the height of which she could contemplate her past calmly. It was revealed to her that besides the instinctive life to which Kitty had given herself up hitherto there was a spiritual life. This life was disclosed in religion, but a religion having nothing in common with that one which Kitty had known from childhood, and which found expression in litanies and all-night services at the Widow's Home, where one might meet one's friends, and in learning by heart Slavonic texts with the priest. This was a lofty, mysterious religion connected with a whole series of noble thoughts and feelings, which one could do more than merely believe because one was told to, which one could love.

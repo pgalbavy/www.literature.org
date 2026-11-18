@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Letter From The Front"
 weight: 8
-aliases:
-  - "/authors/greene-homer/a-lincoln-conscript/chapter-08.html"
+url: "/authors/greene-homer/a-lincoln-conscript/chapter-08.html"
 ---
 
 There was consternation in the house of Bannister. The son of the house had disappeared over night. His mother was distracted, his father was anxious and angry. The morning wore on and he did not return. No one had seen him nor could any trace of him be found. Toward noon Seth Mills came over. He was able to quiet, to some extent, the apprehension concerning the boy. But he would not tell where Bob had gone.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 14 - The Best To Do"
 weight: 14
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-14.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-14.html"
 ---
 
 So then, after a voyage long delayed by calms, then favored by winds from the northwest and from the southwest - a voyage which had not lasted less than seventy-four days - the "Pilgrim" had just run aground!

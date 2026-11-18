@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-15.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-15.html"
 ---
 
 Mrs. Dashwood's visit to Lady Middleton took place the next day, and two of her daughters went with her; but Marianne excused herself from being of the party, under some trifling pretext of employment; and her mother, who concluded that a promise had been made by Willoughby the night before of calling on her while they were absent, was perfectly satisfied with her remaining at home.

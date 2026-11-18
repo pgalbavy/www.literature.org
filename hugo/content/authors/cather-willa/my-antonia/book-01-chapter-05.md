@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 5"
 weight: 6
-aliases:
-  - "/authors/cather-willa/my-antonia/book-01-chapter-05.html"
+url: "/authors/cather-willa/my-antonia/book-01-chapter-05.html"
 ---
 
 WE KNEW THAT THINGS were hard for our Bohemian neighbours, but the two girls were lighthearted and never complained. They were always ready to forget their troubles at home, and to run away with me over the prairie, scaring rabbits or starting up flocks of quail.

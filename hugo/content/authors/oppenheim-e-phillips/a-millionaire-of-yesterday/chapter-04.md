@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-04.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-04.html"
 ---
 
 Trent moved forward and greeted the newcomer awkwardly. "You're Captain Francis," he said. "We've been waiting for you."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Man or Monster?"
 weight: 14
-aliases:
-  - "/authors/burroughs-edgar-rice/the-monster-men/chapter-14.html"
+url: "/authors/burroughs-edgar-rice/the-monster-men/chapter-14.html"
 ---
 
 When Muda Saffir turned from the two Dyaks who had brought him news of the treasure he hastened to the long-house and arousing the chief of the tribe who domiciled there explained that necessity required that the rajah have at once two war prahus fully manned. Now the power of the crafty old Malay extended from one end of this great river on which the long-house lay to the other, and though not all the tribes admitted allegiance to him, yet there were few who would not furnish him with men and boats when he required them; for his piratical cruises carried him often up and down the stream, and with his savage horde it was possible for him to wreak summary and terrible vengeance upon those who opposed him.

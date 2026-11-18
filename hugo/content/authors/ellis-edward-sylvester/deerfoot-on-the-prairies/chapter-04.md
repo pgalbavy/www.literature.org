@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - An Acquaintance"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-04.html"
 ---
 
 *THE* cold, dismal, drizzling rain lasted without cessation till night closed in. The horses were allowed to graze sufficiently to satisfy their hunger, but they shrank shivering under the lee of the rocks, where they were only partly protected. Every member of the party proved his sympathy by covering an animal with his blanket, an extra one being provided for Zigzag, so that after a time all became comfortable. The fire that was kept blazing on the stony floor under a projecting ledge warmed the four so well that they were able to get on quite well without additional covering.

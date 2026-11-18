@@ -1,8 +1,7 @@
 ---
 title: "Chapter 65 - The Workmen"
 weight: 65
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-65.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-65.html"
 ---
 
 Toward midnight Charles heard a great noise beneath his window. It arose from blows of hammer and hatchet, clinking of pincers and cranching of saws.

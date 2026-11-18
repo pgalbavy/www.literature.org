@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - A Missionary Heroine"
 weight: 24
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-23.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-23.html"
 ---
 
 Accordingly, that afternoon we bearded the lion in his den. The road we took was a beautiful one, for we went "cross lots," and we enjoyed it, in spite of the fact that we did not expect the interview with Mr. Campbell to be a very pleasant one. To be sure, he had been quite civil on the occasion of our last call upon him, but the Story Girl had been with us then and had beguiled him into good-humour and generosity by the magic of her voice and personality. We had no such ally now, and Mr. Campbell was known to be virulently opposed to missions in any shape or form.

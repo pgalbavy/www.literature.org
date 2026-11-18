@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Lucky Guest"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-13.html"
 ---
 
 In the middle of the day Solomon Owl happened to awake. He was sorry that he hadn’t slept until sunset, because he was very hungry. Knowing that it was light outside his hollow tree, he didn’t want to leave home to find something to eat.

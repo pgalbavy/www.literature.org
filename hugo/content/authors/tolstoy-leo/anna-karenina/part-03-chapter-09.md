@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 9"
 weight: 78
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-03-chapter-09.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-03-chapter-09.html"
 ---
 
 On the drive home, as Darya Alexandrovna, with all her children round her, their heads still wet from their bath, and a kerchief tied over her own head, was getting near the house, the coachman said, "There's some gentleman coming: the master of Pokrovskoe, I do believe."

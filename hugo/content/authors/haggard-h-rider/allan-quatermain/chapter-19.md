@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - A Strange Wedding"
 weight: 20
-aliases:
-  - "/authors/haggard-h-rider/allan-quatermain/chapter-19.html"
+url: "/authors/haggard-h-rider/allan-quatermain/chapter-19.html"
 ---
 
 One person, however, did not succeed in getting out in time before the gates were shut, and that was the High Priest Agon, who, as we had every reason to believe, was Sorais’ great ally, and the heart and soul of her party. This cunning and ferocious old man had not forgiven us for those hippopotami, or rather that was what he said. What he meant was that he would never brook the introduction of our wider ways of thought and foreign learning and influence while there was a possibility of stamping us out. Also he knew that we possessed a different system of religion, and no doubt was in daily terror of our attempting to introduce it into Zu-Vendis. One day he asked me if we had any religion in our country, and I told him that so far as I could remember we had ninety-five different ones. You might have knocked him down with a feather, and really it is difficult not to pity a high priest of a well-established cult who is haunted by the possible approach of one or all of ninety-five new religions.

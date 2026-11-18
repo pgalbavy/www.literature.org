@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Hunting A Steed"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-25.html"
 ---
 
 Leaving Fred Munson to watch for the approach of the Indians, it becomes necessary to follow Mickey O'Rooney and Sut Simpson on their hunt for a horse with which to continue their flight from the mountains and across the prairies. It cannot be said that the scout, in starting upon this expedition, had any particular plan in view. As he remarked, Indians were around them, and, wherever Indians were found, it was safe to look for the best kind of horses. Wherever the best opportunity offered, there he intended to strike. With this view, the first position of their expedition was in the nature of a survey, by which they intended to locate the field in which to operate.

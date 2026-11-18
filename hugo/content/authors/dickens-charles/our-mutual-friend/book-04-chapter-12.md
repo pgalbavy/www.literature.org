@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 12 - The Passing Shadow"
 weight: 62
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-04-chapter-12.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-04-chapter-12.html"
 ---
 
 The winds and tides rose and fell a certain number of times, the earth moved round the sun a certain number of times, the ship upon the ocean made her voyage safely, and brought a baby-Bella home. Then who so blest and happy as Mrs John Rokesmith, saving and excepting Mr John Rokesmith!

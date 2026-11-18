@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-17.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-17.html"
 ---
 
 "This is truth the poet sings, That a sorrow's crown of sorrow is remembering happier things." - TENNYSON: Locksley Hall.

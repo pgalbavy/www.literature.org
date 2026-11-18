@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - A Greater Loss"
 weight: 32
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-31.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-31.html"
 ---
 
 It was not difficult for me, on Peggotty’s solicitation, to resolve to stay where I was, until after the remains of the poor carrier should have made their last journey to Blunderstone. She had long ago bought, out of her own savings, a little piece of ground in our old churchyard near the grave of ‘her sweet girl’, as she always called my mother; and there they were to rest.

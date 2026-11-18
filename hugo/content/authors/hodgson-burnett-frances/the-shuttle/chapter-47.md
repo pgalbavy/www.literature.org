@@ -1,8 +1,7 @@
 ---
 title: "Chapter 47 - “I Have No Word Or Look To Remember”"
 weight: 47
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-47.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-47.html"
 ---
 
 It was a dull and dreary day, as Betty had foreseen it would be. Heavy rain clouds hung and threatened, and the atmosphere was damp and chill. It was one of those days of the English autumn which speak only of the end of things, bereaving one of the power to remember next year's spring and summer, which, after all, must surely come. Sky is grey, trees are grey, dead leaves lie damp beneath the feet, sunlight and birds seem forgotten things. All that has been sad and to be regretted or feared hangs heavy in the air and sways all thought. In the passing of these hours there is no hope anywhere. Betty appeared at breakfast in short dress and close hat. She wore thick little boots, as if for walking.

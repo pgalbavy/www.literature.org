@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Adieu Australia"
 weight: 18
-aliases:
-  - "/authors/lawrence-david-herbert/the-kangaroo/chapter-18.html"
+url: "/authors/lawrence-david-herbert/the-kangaroo/chapter-18.html"
 ---
 
 Kangaroo died and had a great funeral, but Richard did not go up. He had fixed his berths on the Manganui, and would sail away in twenty days. To America - the United States, a country that did not attract him at all, but which seemed to lie next in his line of destiny.

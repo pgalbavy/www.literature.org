@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Hybridism"
 weight: 11
-aliases:
-  - "/authors/darwin-charles/the-origin-of-species-6th-edition/chapter-09.html"
+url: "/authors/darwin-charles/the-origin-of-species-6th-edition/chapter-09.html"
 ---
 
 Distinction between the sterility of first crosses and of hybrids -- Sterility various in degree, not universal, affected by close interbreeding, removed by domestication -- Laws governing the sterility of hybrids -- Sterility not a special endowment, but incidental on other differences, not accumulated by natural selection -- Causes of the sterility of first crosses and of hybrids -- Parallelism between the effects of changed conditions of life and of crossing -- Dimorphism and trimorphism -- Fertility of varieties when crossed and of their mongrel offspring not universal -- Hybrids and mongrels compared independently of their fertility -- Summary.

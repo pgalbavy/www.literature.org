@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - A Bold Stranger"
 weight: 23
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-23.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-23.html"
 ---
 
 Tommy Fox had carefully kept from Grumpy Weasel the name of the stranger who was dressed like Grumpy, in white and black. It happened that he wore feathers--this newcomer. And that was one reason why Tommy Fox had had to grin when Grumpy threatened to "make the fur fly" when he met the unknown.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-03.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-03.html"
 ---
 
 I suppose you have read so much about the magnificent Emerald City that there is little need for me to describe it here. It is the Capital City of the Land of Oz, which is justly considered the most attractive and delightful fairyland in all the world.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - An Evening At Four Winds Point"
 weight: 9
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-09.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-09.html"
 ---
 
 It was late September when Anne and Gilbert were able to pay Four Winds light their promised visit. They had often planned to go, but something always occurred to prevent them. Captain Jim had "dropped in" several times at the little house.

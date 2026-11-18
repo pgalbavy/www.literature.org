@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-03.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-03.html"
 ---
 
 WHILE leading the way upstairs, she recommended that I should hide the candle, and not make a noise; for her master had an odd notion about the chamber she would put me in, and never let anybody lodge there willingly. I asked the reason. She did not know, she answered: she had only lived there a year or two; and they had so many queer goings on, she could not begin to be curious.

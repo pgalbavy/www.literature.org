@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Like A Banyan Tree"
 weight: 12
-aliases:
-  - "/authors/gilman-charlotte-perkins/what-diantha-did/chapter-12.html"
+url: "/authors/gilman-charlotte-perkins/what-diantha-did/chapter-12.html"
 ---
 
 In the fleeting opportunities offered by the Caffeteria, and in longer moments, rather neatly planned for, with some remnants of an earlier ingenuity, Mr. Thaddler contrived to become acquainted with Mrs. Bell. Diantha never quite liked him, but he won her mother's heart by frank praise of the girl and her ventures.

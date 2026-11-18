@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Saint Denis"
 weight: 22
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-22.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-22.html"
 ---
 
 The day had begun to break when Athos arose and dressed himself. It was plain, by a paleness still greater than usual, and by those traces which loss of sleep leaves on the face, that he must have passed almost the whole of the night without sleeping. Contrary to the custom of a man so firm and decided, there was this morning in his personal appearance something tardy and irresolute.

@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 1"
 weight: 38
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-04-chapter-01.html"
+url: "/authors/cather-willa/song-of-the-lark/part-04-chapter-01.html"
 ---
 
 THE San Francisco Mountain lies in Northern Arizona, above Flagstaff, and its blue slopes and snowy summit entice the eye for a hundred miles across the desert. About its base lie the pine forests of the Navajos, where the great red-trunked trees live out their peaceful centuries in that sparkling air. The PINONS and scrub begin only where the forest ends, where the country breaks into open, stony clearings and the surface of the earth cracks into deep canyons. The great pines stand at a considerable distance from each other. Each tree grows alone, murmurs alone, thinks alone. They do not intrude upon each other. The Navajos are not much in the habit of giving or of asking help. Their language is not a communicative one, and they never attempt an interchange of personality in speech. Over their forests there is the same inexorable reserve. Each tree has its exalted power to bear.

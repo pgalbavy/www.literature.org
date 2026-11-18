@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-30.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-30.html"
 ---
 
 It was a sleepless night for every one in the house of Eben Tollman. Conscience still felt that her long fight had ended in a total defeat and that she had been saved from worse than defeat only because her victor had risen to her plea for magnanimity. Now she lay staring at the ceiling with eyes that burned in their sockets. Self-pity warred with self-accusation.

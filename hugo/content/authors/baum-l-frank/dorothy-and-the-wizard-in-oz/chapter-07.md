@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-07.html"
+url: "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-07.html"
 ---
 
 When they came to the mountain it proved to be a rugged, towering chunk of deep green glass, and looked dismal and forbidding in the extreme. Half way up the steep was a yawning cave, black as night beyond the point where the rainbow rays of the colored suns reached into it.

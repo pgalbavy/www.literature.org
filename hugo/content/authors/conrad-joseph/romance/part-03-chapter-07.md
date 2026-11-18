@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 7"
 weight: 19
-aliases:
-  - "/authors/conrad-joseph/romance/part-03-chapter-07.html"
+url: "/authors/conrad-joseph/romance/part-03-chapter-07.html"
 ---
 
 Not even in memory am I willing to live over again those three days when Father Antonio, the old major-domo, and myself would meet each other in the galleries, in the *patio*, in the empty rooms, moving in the stillness of the house with heavy hearts and desolate eyes, which seemed to demand, "What is there to do?"

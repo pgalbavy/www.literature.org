@@ -1,8 +1,7 @@
 ---
 title: "Chapter 86 - The Tail"
 weight: 86
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-086.html"
+url: "/authors/melville-herman/moby-dick/chapter-086.html"
 ---
 
 Other poets have warbled the praises of the soft eye of the antelope, and the lovely plumage of the bird that never alights; less celestial, I celebrate a tail.

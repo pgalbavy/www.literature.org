@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-27.html"
+url: "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-27.html"
 ---
 
 If ever the expression, "sinking in sight of port," could be used in its precise meaning, it evidently can in this case. And I must beg you to excuse me. But although a ship may sink by the side of the jetty, we must not conclude that she is lost. That Kinko's liberty is in danger, providing the intervention of myself and fellow passengers is of no avail, agreed. But he is alive, and that is the essential point.

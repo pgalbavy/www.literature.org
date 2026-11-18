@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The \u0026quot;Vaterland\u0026quot; Is Disabled"
 weight: 8
-aliases:
-  - "/authors/wells-herbert-george/the-war-in-the-air/chapter-07.html"
+url: "/authors/wells-herbert-george/the-war-in-the-air/chapter-07.html"
 ---
 
 1

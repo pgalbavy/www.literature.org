@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Ten Years Later"
 weight: 1
-aliases:
-  - "/authors/alcott-louisa-may/jos-boys/chapter-01.html"
+url: "/authors/alcott-louisa-may/jos-boys/chapter-01.html"
 ---
 
 'If anyone had told me what wonderful changes were to take place here in ten years, I wouldn't have believed it,' said Mrs Jo to Mrs Meg, as they sat on the piazza at Plumfield one summer day, looking about them with faces full of pride and pleasure.

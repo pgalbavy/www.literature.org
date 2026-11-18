@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Partners"
 weight: 2
-aliases:
-  - "/authors/ostrander-isabel/anything-once/chapter-02.html"
+url: "/authors/ostrander-isabel/anything-once/chapter-02.html"
 ---
 
 For a moment James Botts turned his head away lest she see the deep red flood of shame which had suffused his face. Poor little skinny, homely, orphan kid, thrown out to buck the world for herself, and stopping in her first flight from injustice to help a stranger, only to have him think her a possible criminal! He was glad that his back twinged and his head throbbed; he ought to be kicked out into the ditch and left to die there for harboring such thoughts.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 50 - The First Day Of The Royalty Of Louis Xiv"
 weight: 50
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-50.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-50.html"
 ---
 
 In the morning, the news of the death of the cardinal was spread through the castle, and thence speedily reached the city. The ministers Fouquet, Lyonne, and Letellier entered la salle des seances, to hold a council. The king sent for them immediately. "Messieurs," said he, "as long as monsieur le cardinal lived, I allowed him to govern my affairs; but now I mean to govern them myself. You will give me your advice when I ask it. You may go."

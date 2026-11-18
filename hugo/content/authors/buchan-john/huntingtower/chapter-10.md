@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Deals With An Escape And A Journey"
 weight: 11
-aliases:
-  - "/authors/buchan-john/huntingtower/chapter-10.html"
+url: "/authors/buchan-john/huntingtower/chapter-10.html"
 ---
 
 Five scouts' lanterns burned smokily in the ground room of the keep when Dickson ushered his charges through its cavernous door. The lights flickered in the gusts that swept after them and whistled through the slits of window, so that the place was full of monstrous shadows, and its accustomed odour of mould and disuse was changed to a salty freshness. Upstairs on the first floor Thomas Yownie had deposited the ladies' baggage, and was busy making beds out of derelict iron bedsteads and the wraps brought from their room. On the ground floor on a heap of litter covered by an old scout's blanket lay Heritage, with Dougal in attendance.

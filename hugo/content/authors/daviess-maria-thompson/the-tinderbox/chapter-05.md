@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Deeper Than Shoulders And Ribs"
 weight: 5
-aliases:
-  - "/authors/daviess-maria-thompson/the-tinderbox/chapter-05.html"
+url: "/authors/daviess-maria-thompson/the-tinderbox/chapter-05.html"
 ---
 
 There are many fundamental differences between men and women which strike deeper than breadth of shoulders and number of ribs on the right side.

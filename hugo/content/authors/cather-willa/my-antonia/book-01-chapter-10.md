@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 10"
 weight: 11
-aliases:
-  - "/authors/cather-willa/my-antonia/book-01-chapter-10.html"
+url: "/authors/cather-willa/my-antonia/book-01-chapter-10.html"
 ---
 
 FOR SEVERAL WEEKS after my sleigh-ride, we heard nothing from the Shimerdas. My sore throat kept me indoors, and grandmother had a cold which made the housework heavy for her. When Sunday came she was glad to have a day of rest. One night at supper Fuchs told us he had seen Mr. Shimerda out hunting.

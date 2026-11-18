@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 29
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-28.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-28.html"
 ---
 
 One friend Michael made among the many animals he encountered in the Cedarwild School, and a strange, sad friendship it was. Sara she was called, a small, green monkey from South America, who seemed to have been born hysterical and indignant, and with no appreciation of humour. Sometimes, following Collins about the arena, Michael would meet her while she waited to be tried out on some new turn. For, unable or unwilling to try, she was for ever being tried out on turns, or, with little herself to do, as a filler-in for more important performers.

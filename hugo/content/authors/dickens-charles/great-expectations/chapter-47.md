@@ -1,8 +1,7 @@
 ---
 title: "Chapter 47"
 weight: 47
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-47.html"
+url: "/authors/dickens-charles/great-expectations/chapter-47.html"
 ---
 
 SOME weeks passed without bringing any change. We waited for Wemmick, and he made no sign. If I had never known him out of Little Britain, and had never enjoyed the privilege of being on a familiar footing at the Castle, I might have doubted him; not so for a moment, knowing him as I did.

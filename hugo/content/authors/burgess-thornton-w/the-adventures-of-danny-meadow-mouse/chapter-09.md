@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Danny Meadow Mouse Is Caught At Last"
 weight: 9
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-09.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-09.html"
 ---
 
 "Tippy-toppy-tippy-toe,  

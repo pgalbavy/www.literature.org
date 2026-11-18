@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 5 - The Traitor King"
 weight: 17
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-05.html"
+url: "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-05.html"
 ---
 
 In his castle at Lustadt, Leopold of Lutha paced nervously back and forth between his great desk and the window that overlooked the royal gardens. Upon the opposite side of the desk stood an old man--a tall, straight, old man with the bearing of a soldier and the head of a lion. His keen, gray eyes were upon the king, and sorrow was written upon his face. He was Ludwig von der Tann, chancellor of the kingdom of Lutha.

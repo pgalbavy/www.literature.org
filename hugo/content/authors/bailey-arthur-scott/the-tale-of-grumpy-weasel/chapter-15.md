@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Great Mystery"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-15.html"
 ---
 
 The story soon spread all around the farmyard, how fat Mrs. Hen had been seen talking with no less a rascal than Grumpy Weasel.

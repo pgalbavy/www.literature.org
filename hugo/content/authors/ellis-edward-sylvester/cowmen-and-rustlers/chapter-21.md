@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - A Messenger In Haste"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-21.html"
 ---
 
 The daring escape of the prisoner did not tend to improve the temper of Capt. Asbury, and he indulged in a number of emphatic expressions, during which Monteith Sterry was dignified enough to hold his peace.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 45 - Of Daemonology, And Other Reliques Of The Religion Of The Gentiles"
 weight: 47
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-45.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-45.html"
 ---
 
 The Originall Of Daemonology The impression made on the organs of Sight, by lucide Bodies, either in one direct line, or in many lines, reflected from Opaque, or refracted in the passage through Diaphanous Bodies, produceth in living Creatures, in whom God hath placed such Organs, an Imagination of the Object, from whence the Impression proceedeth; which Imagination is called Sight; and seemeth not to bee a meer Imagination, but the Body it selfe without us; in the same manner, as when a man violently presseth his eye, there appears to him a light without, and before him, which no man perceiveth but himselfe; because there is indeed no such thing without him, but onely a motion in the interiour organs, pressing by resistance outward, that makes him think so. And the motion made by this pressure, continuing after the object which caused it is removed, is that we call Imagination, and Memory, and (in sleep, and sometimes in great distemper of the organs by Sicknesse, or Violence) a Dream: of which things I have already spoken briefly, in the second and third Chapters.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Eating"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-04.html"
 ---
 
 Always eat slowly and do not swallow your food until it is chewed to a pulp. The glands inside the mouth give out enough saliva to moisten the food and fit it for digestion in the stomach. Children love to soak their bread in coffee, or to sip the coffee while eating. By doing so they stop the flow of saliva and weaken a fluid which digests the food in the stomach.

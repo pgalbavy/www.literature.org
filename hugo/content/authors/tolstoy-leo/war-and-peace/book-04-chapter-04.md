@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 4"
 weight: 72
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-04-chapter-04.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-04-chapter-04.html"
 ---
 
 Pierre sat opposite Dolokhov and Nicholas Rostov. As usual, he ate and drank much, and eagerly. But those who knew him intimately noticed that some great change had come over him that day. He was silent all through dinner and looked about, blinking and scowling, or, with fixed eyes and a look of complete absent-mindedness, kept rubbing the bridge of his nose. His face was depressed and gloomy. He seemed to see and hear nothing of what was going on around him and to be absorbed by some depressing and unsolved problem.

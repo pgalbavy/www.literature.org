@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Peter Rabbit Gets A Fright"
 weight: 11
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-11.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-11.html"
 ---
 
 *PETER RABBIT* sat in his favorite place in the middle of the dear Old Briar-patch, trying to decide which way he would go on his travels that night. The night before he had had a narrow escape from old Granny Fox over in the Green Forest. There was nothing to eat around the Smiling Pool and no one to talk to there any more, and you know that Peter must either eat or ask questions in order to be perfectly happy. No, the Smiling Pool was too dull a place to interest Peter on such a beautiful moonlight night, and Peter had no mind to try his legs against those of old Granny Fox again in the Green Forest.

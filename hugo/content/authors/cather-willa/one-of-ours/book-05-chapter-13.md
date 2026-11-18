@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 13"
 weight: 66
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-05-chapter-13.html"
+url: "/authors/cather-willa/one-of-ours/book-05-chapter-13.html"
 ---
 
 The woodland path was deep in leaves. Claude and David were lying on the dry, springy heather among the flint boulders. Gerhardt, with his Stetson over his eyes, was presumably asleep. They were having fine weather for their holiday. The forest rose about this open glade like an amphitheatre, in golden terraces of horse chestnut and beech. The big nuts dropped velvety and brown, as if they had been soaked in oil, and disappeared in the dry leaves below. Little black yew trees, that had not been visible in the green of summer, stood out among the curly yellow brakes. Through the grey netting of the beech twigs, stiff holly bushes glittered.

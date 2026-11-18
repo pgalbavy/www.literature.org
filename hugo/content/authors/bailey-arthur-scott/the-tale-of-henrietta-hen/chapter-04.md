@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A Swimmer"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-04.html"
 ---
 
 Henrietta Hen ran as fast as she could down the bank and stood as near the water as she dared, cackling loudly and flapping her wings.

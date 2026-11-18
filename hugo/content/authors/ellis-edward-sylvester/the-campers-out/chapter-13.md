@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Adrift In The Swamp"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-13.html"
 ---
 
 Meanwhile Tom Wagstaff and Jim McGovern, the two youths from New York, found themselves involved in a series of singular and stirring incidents.

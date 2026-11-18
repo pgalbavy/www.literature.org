@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Encounter In The Rose Garden"
 weight: 23
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-23.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-23.html"
 ---
 
 At 2.30 a little party met together in the Council Chamber: Bundle, Virginia, Superintendent Battle, M. Lemoine and Anthony Cade.

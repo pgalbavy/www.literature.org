@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Dangerous Business"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-13.html"
 ---
 
 SANDY CHIPMUNK did not tell Daddy Longlegs how he had been tied up in the sack of wheat and had had a ride in the wagon himself. He did not like riding in wagons. And he had been so glad to escape from the sack and jump into the bushes by the roadside that he had stopped to dance on Daddy's tree before scampering back home.

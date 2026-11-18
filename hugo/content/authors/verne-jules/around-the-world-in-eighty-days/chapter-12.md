@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-12.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-12.html"
 ---
 
 In which Phileas Fogg and his companions venture across the Indian forests, and what ensued

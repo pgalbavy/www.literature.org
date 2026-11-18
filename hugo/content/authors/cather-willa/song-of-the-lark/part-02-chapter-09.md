@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 9"
 weight: 29
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-02-chapter-09.html"
+url: "/authors/cather-willa/song-of-the-lark/part-02-chapter-09.html"
 ---
 
 THEA reached Moonstone in the late afternoon, and all the Kronborgs were there to meet her except her two older brothers. Gus and Charley were young men now, and they had declared at noon that it would “look silly if the whole bunch went down to the train.” “There's no use making a fuss over Thea just because she's been to Chicago,” Charley warned his mother. “She's inclined to think pretty well of herself, anyhow, and if you go treating her like company, there'll be no living in the house with her.” Mrs. Kronborg simply leveled her eyes at Charley, and he faded away, muttering. She had, as Mr. Kronborg always said with an inclination of his head, good control over her children. Anna, too, wished to absent herself from the party, but in the end her curiosity got the better of her. So when Thea stepped down from the porter's stool, a very creditable Kronborg representation was grouped on the platform to greet her. After they had all kissed her (Gunner and Axel shyly), Mr. Kronborg hurried his flock into the hotel omnibus, in which they were to be driven ceremoniously home, with the neighbors looking out of their windows to see them go by.

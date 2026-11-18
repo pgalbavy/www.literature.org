@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-25.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-25.html"
 ---
 
 It was Lady Mallowe who perceived the moment when he became the fashion. The Duke of Stone called with the immense formality he had described, and his visit was neither brief nor dull. A little later Tembarom with his guests dined at Stone Hover, and the dinner was further removed from dullness than any one of numerous past dinners always noted for being the most agreeable the neighborhood afforded. The duke managed his guest as an impresario might have managed his tenor, though this was done with subtly concealed methods. He had indeed a novelty to offer which had been discussed with much uncertainty of point of view. He presented it to an only languidly entertained neighborhood as a trouvaille of his own choice. Here was drama, here was atmosphere, here was charm verging in its character upon the occult. You would not see it if you were not a collector of such values.

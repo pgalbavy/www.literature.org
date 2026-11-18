@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 1 - Dick Asks Questions"
 weight: 9
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-02-chapter-01.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-02-chapter-01.html"
 ---
 
 The Moat House stood not far from the rough forest road. Externally, it was a compact rectangle of red stone, flanked at each corner by a round tower, pierced for archery and battlemented at the top. Within, it enclosed a narrow court. The moat was perhaps twelve feet wide, crossed by a single drawbridge. It was supplied with water by a trench, leading to a forest pool and commanded, through its whole length, from the battlements of the two southern towers. Except that one or two tall and thick trees had been suffered to remain within half a bowshot of the walls, the house was in a good posture for defence.

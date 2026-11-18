@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - At the Mercy of the Jungle"
 weight: 14
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-14.html"
+url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-14.html"
 ---
 
 After Clayton had plunged into the jungle, the sailors --mutineers of the Arrow--fell into a discussion of their next step; but on one point all were agreed--that they should hasten to put off to the anchored Arrow, where they could at least be safe from the spears of their unseen foe. And so, while Jane Porter and Esmeralda were barricading themselves within the cabin, the cowardly crew of cutthroats were pulling rapidly for their ship in the two boats that had brought them ashore.

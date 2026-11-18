@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Portress's Cabinet"
 weight: 11
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-11.html"
+url: "/authors/bronte-charlotte/villette/chapter-11.html"
 ---
 
 It was summer and very hot. Georgette, the youngest of Madame Beck's children, took a fever. Désirée, suddenly cured of her ailments, was, together with Fifine, packed off to Bonne-Maman, in the country, by way of precaution against infection. Medical aid was now really needed, and Madame, choosing to ignore the return of Dr. Pillule, who had been at home a week, conjured his English rival to continue his visits. One or two of the pensionnaires complained of headache, and in other respects seemed slightly to participate in Georgette's ailment. "Now, at last," I thought, "Dr. Pillule must be recalled: the prudent directress will never venture to permit the attendance of so young a man on the pupils."

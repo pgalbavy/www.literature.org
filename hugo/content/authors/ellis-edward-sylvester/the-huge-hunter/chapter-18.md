@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Encampment"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-18.html"
 ---
 
 *THE STORM* proved the severest which the steam man had encountered since leaving St. Louis, and it put an effectual veto on his travels during its continuance, and for a short time afterward.

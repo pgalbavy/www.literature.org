@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Educating The New Boy"
 weight: 11
-aliases:
-  - "/authors/mckishnie-archie-p/a-son-of-courage/chapter-11.html"
+url: "/authors/mckishnie-archie-p/a-son-of-courage/chapter-11.html"
 ---
 
 As Billy rounded a curve in the road he met the cattle. Anson was driving them. "You needn't mind turnin' back, Bill," he said. "I don't mind waterin' 'em fer you."

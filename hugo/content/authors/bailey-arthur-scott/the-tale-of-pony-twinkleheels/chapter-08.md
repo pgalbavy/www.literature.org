@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Good Sleeper"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-08.html"
 ---
 
 Twinkleheels' stall was an end one. Next to him stood the old horse Ebenezer; and beyond Ebenezer were the two bays. Twinkleheels often wished that he might have someone for his nearest neighbor that was a bit livelier than Ebenezer. When the old horse stayed in the barn he spent a great deal of his time with his eyes half shut, dozing. If Twinkleheels spoke to him, Ebenezer seldom heard him the first time. And often Ebenezer even fell asleep while Twinkleheels was talking to him.

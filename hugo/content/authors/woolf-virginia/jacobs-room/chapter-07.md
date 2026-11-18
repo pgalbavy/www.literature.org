@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/woolf-virginia/jacobs-room/chapter-07.html"
+url: "/authors/woolf-virginia/jacobs-room/chapter-07.html"
 ---
 
 About this time a firm of merchants having dealings with the East put on the market little paper flowers which opened on touching water. As it was the custom also to use finger-bowls at the end of dinner, the new discovery was found of excellent service. In these sheltered lakes the little coloured flowers swam and slid; surmounted smooth slippery waves, and sometimes foundered and lay like pebbles on the glass floor. Their fortunes were watched by eyes intent and lovely. It is surely a great discovery that leads to the union of hearts and foundation of homes. The paper flowers did no less.

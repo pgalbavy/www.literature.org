@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/london-jack/before-adam/chapter-03.html"
+url: "/authors/london-jack/before-adam/chapter-03.html"
 ---
 
 The commonest dream of my early childhood was something like this: It seemed that I was very small and that I lay curled up in a sort of nest of twigs and boughs. Sometimes I was lying on my back. In this position it seemed that I spent many hours, watching the play of sunlight on the foliage and the stirring of the leaves by the wind. Often the nest itself moved back and forth when the wind was strong.

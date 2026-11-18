@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-02.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-02.html"
 ---
 
 I seemed swinging in a mighty rhythm through orbit vastness. Sparkling points of light spluttered and shot past me. They were stars, I knew, and flaring comets, that peopled my flight among the suns. As I reached the limit of my swing and prepared to rush back on the counter swing, a great gong struck and thundered. For an immeasurable period, lapped in the rippling of placid centuries, I enjoyed and pondered my tremendous flight.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - D'artagnan And The Englishman"
 weight: 31
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-30.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-30.html"
 ---
 
 D'Artagnan followed Milady without being perceived by her. He saw her get into her carriage, and heard her order the coachman to drive to St. Germain.

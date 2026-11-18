@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40"
 weight: 40
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-40.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-40.html"
 ---
 
 "Well, Miss Dashwood," said Mrs. Jennings, sagaciously smiling, as soon as the gentleman had withdrawn, "I do not ask you what the Colonel has been saying to you; for though, upon my honour, I TRIED to keep out of hearing, I could not help catching enough to understand his business. And I assure you I never was better pleased in my life, and I wish you joy of it with all my heart."

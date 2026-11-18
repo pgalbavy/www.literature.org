@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Good News On A Bad Day"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-12.html"
 ---
 
 FOR a long time Daddy Longlegs lay inside the hollow, fallen tree and looked out upon the wind-swept fields. If the stone wall hadn't been so far away he would certainly have tried to return home. But the weather was altogether too dangerous. He knew it would be risky to attempt so long a journey.

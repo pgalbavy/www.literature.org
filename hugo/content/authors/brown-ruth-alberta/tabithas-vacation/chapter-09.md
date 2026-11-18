@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Billiard Surrenders"
 weight: 9
-aliases:
-  - "/authors/brown-ruth-alberta/tabithas-vacation/chapter-09.html"
+url: "/authors/brown-ruth-alberta/tabithas-vacation/chapter-09.html"
 ---
 
 Toady kept his promise not to mention Billiard's runaway expedition to anyone else save Gloriana; but being human, he could not keep from twitting his brother occasionally, and the days which followed that memorable night were full of misery for the unhappy boy. His cousins avoided him, Tabitha ignored him, Toady tormented him, and even Gloriana seemed indifferent to his plight. In his fright at discovering himself lost on the desert at night, he had resolved to follow Toady's example and turn over a new leaf. He could not quite make up his mind to confess his sins to eagle-eyed Tabitha, but was really sincere in his desire to do better; and was as surprised as he was disappointed to find that no one paid any attention to the sudden change in his deportment.

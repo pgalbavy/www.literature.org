@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 1"
 weight: 16
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-02-chapter-01.html"
+url: "/authors/london-jack/valley-of-the-moon/book-02-chapter-01.html"
 ---
 
 The first evening after the marriage night Saxon met Billy at the door as he came up the front steps. After their embrace, and as they crossed the parlor hand in hand toward the kitchen, he filled his lungs through his nostrils with audible satisfaction.

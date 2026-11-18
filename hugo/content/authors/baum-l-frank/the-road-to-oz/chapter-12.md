@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/baum-l-frank/the-road-to-oz/chapter-12.html"
+url: "/authors/baum-l-frank/the-road-to-oz/chapter-12.html"
 ---
 
 "Oh, that's too bad!" cried Dorothy; "I wanted to thank Johnny Dooit for all his kindness to us."

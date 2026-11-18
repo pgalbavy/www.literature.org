@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/tarkington-booth/alice-adams/chapter-04.html"
+url: "/authors/tarkington-booth/alice-adams/chapter-04.html"
 ---
 
 Adams had a restless morning, and toward noon he asked Miss Perry to call his daughter; he wished to say something to her.

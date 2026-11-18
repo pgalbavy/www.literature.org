@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Anne's First Proposal"
 weight: 8
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-08.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-08.html"
 ---
 
 The old year did not slip away in a green twilight, with a pinky-yellow sunset. Instead, it went out with a wild, white bluster and blow. It was one of the nights when the storm-wind hurtles over the frozen meadows and black hollows, and moans around the eaves like a lost creature, and drives the snow sharply against the shaking panes.

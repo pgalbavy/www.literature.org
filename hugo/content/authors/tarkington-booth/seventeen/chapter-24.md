@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Clothes Make The Man"
 weight: 24
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-24.html"
+url: "/authors/tarkington-booth/seventeen/chapter-24.html"
 ---
 
 Mrs. Baxter was troubled. During the afternoon she glanced often from the open window of the room where she had gone to sew, but the peaceful neighborhood continued to be peaceful, and no sound of the harassed footsteps of William echoed from the pavement. However, she saw Genesis arrive (in his weekday costume) to do some weeding, and Jane immediately skip forth for mingled purposes of observation and conversation.

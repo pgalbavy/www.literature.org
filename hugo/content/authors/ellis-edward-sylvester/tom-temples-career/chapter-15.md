@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Lesson Of Poverty"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-15.html"
 ---
 
 *THERE* was another tea-table in Plympton where Tom’s affairs were discussed the same afternoon. As the reader will conjecture, I refer to that of Lawyer Davenport.

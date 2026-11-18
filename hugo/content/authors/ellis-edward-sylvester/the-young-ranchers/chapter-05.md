@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Leaving The Ranch"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-05.html"
 ---
 
 Now that everything was ready, Mr. Starr felt anxious about the absent Jared Plummer. He ought to have learned of the danger before this, and should have been almost, if not quite, as prompt as Tim Brophy in hastening to the house. His continued absence gave ground for fear that harm had befallen him, but his friends were powerless to give him help.

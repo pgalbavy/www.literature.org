@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Captain Jim"
 weight: 6
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-06.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-06.html"
 ---
 
 "Old Doctor Dave" and "Mrs. Doctor Dave" had come down to the little house to greet the bride and groom. Doctor Dave was a big, jolly, white-whiskered old fellow, and Mrs. Doctor was a trim rosy-cheeked, silver-haired little lady who took Anne at once to her heart, literally and figuratively.

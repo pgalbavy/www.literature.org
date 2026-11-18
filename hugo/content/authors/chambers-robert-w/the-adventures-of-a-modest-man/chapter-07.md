@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Biter, The Bitten, And The Un-Bitten"
 weight: 7
-aliases:
-  - "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-07.html"
+url: "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-07.html"
 ---
 
 "Mais tout le monde," began the chasseur of the Hôtel des Michetons—"mais, monsieur, tout le grand monde⸺"

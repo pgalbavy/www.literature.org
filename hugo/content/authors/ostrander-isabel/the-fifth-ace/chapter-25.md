@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Into Her Own"
 weight: 25
-aliases:
-  - "/authors/ostrander-isabel/the-fifth-ace/chapter-25.html"
+url: "/authors/ostrander-isabel/the-fifth-ace/chapter-25.html"
 ---
 
 Spring was well advanced and the Casa de Limas was a veritable paradise of tender virginal green and delicate mystically perfumed blossoms, when Willa, a frail shadow of herself, ventured for the first time to the veranda, on Sallie Bailey's sturdy arm.

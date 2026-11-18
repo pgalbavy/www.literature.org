@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Five In A Basket"
 weight: 24
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-24.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-24.html"
 ---
 
 "WELL, if you're not bothering me again!" Farmer Green's wife exclaimed.

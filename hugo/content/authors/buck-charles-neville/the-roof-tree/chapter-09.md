@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-09.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-09.html"
 ---
 
 Cal Maggard lay unmoving as the old man's chair creaked. Over there with his back turned toward the fire stood Bas Rowlett, his barrel-like chest swelling heavily with that excitement which he sought to conceal. To Caleb Harper, serenely unsuspicious, the churlish sullenness of the eyes that resented his intrusion, went unmarked. It was an intervention that had come between the wounded man and immediate death, and now Rowlett cursed himself for a temporizing fool who had lost his chance.

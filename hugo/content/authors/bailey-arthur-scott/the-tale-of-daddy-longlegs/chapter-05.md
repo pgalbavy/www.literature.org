@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Too Many Questions"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-05.html"
 ---
 
 "THIS is strange!" old Mr. Crow exclaimed, looking very hard at Daddy Longlegs. "You heard the first question easily enough. But now you seem deaf as a post."

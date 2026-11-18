@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Human World"
 weight: 14
-aliases:
-  - "/authors/gilman-charlotte-perkins/our-androcentric-culture/chapter-14.html"
+url: "/authors/gilman-charlotte-perkins/our-androcentric-culture/chapter-14.html"
 ---
 
 In the change from the dominance of one sex to the equal power of two, to what may we look forward? What effect upon civilization is to be expected from the equality of womanhood in the human race?

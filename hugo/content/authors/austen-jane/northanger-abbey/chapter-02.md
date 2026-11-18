@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/austen-jane/northanger-abbey/chapter-02.html"
+url: "/authors/austen-jane/northanger-abbey/chapter-02.html"
 ---
 
 In addition to what has been already said of Catherine Morland’s personal and mental endowments, when about to be launched into all the difficulties and dangers of a six weeks’ residence in Bath, it may be stated, for the reader’s more certain information, lest the following pages should otherwise fail of giving any idea of what her character is meant to be, that her heart was affectionate; her disposition cheerful and open, without conceit or affectation of any kind—her manners just removed from the awkwardness and shyness of a girl; her person pleasing, and, when in good looks, pretty—and her mind about as ignorant and uninformed as the female mind at seventeen usually is.

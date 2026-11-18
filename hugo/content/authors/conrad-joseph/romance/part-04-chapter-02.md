@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 2"
 weight: 20
-aliases:
-  - "/authors/conrad-joseph/romance/part-04-chapter-02.html"
+url: "/authors/conrad-joseph/romance/part-04-chapter-02.html"
 ---
 
 There was a slight, almost imperceptible jar, a faint grating noise, a whispering sound of sand—and the boat, without a splash, floated.

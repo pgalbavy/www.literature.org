@@ -1,8 +1,7 @@
 ---
 title: "Part 6"
 weight: 6
-aliases:
-  - "/authors/coleridge-samuel-taylor/the-rime-of-the-ancient-mariner/part-06.html"
+url: "/authors/coleridge-samuel-taylor/the-rime-of-the-ancient-mariner/part-06.html"
 ---
 
 But tell me, tell me! speak again, Thy soft response renewing-- What makes that ship drive on so fast? What is the OCEAN doing?

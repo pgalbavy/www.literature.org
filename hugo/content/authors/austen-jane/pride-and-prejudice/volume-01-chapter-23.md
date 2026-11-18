@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 23"
 weight: 23
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-23.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-23.html"
 ---
 
 Elizabeth was sitting with her mother and sisters, reflecting on what she had heard, and doubting whether she were authorised to mention it, when Sir William Lucas himself appeared, sent by his daughter to announce her engagement to the family. With many compliments to them, and much self-gratulation on the prospect of a connection between the houses, he unfolded the matter,--to an audience not merely wondering, but incredulous; for Mrs. Bennet, with more perseverance than politeness, protested he must be entirely mistaken, and Lydia, always unguarded and often uncivil, boisterously exclaimed,

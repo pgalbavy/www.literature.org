@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 4"
 weight: 5
-aliases:
-  - "/authors/conrad-joseph/romance/part-01-chapter-04.html"
+url: "/authors/conrad-joseph/romance/part-01-chapter-04.html"
 ---
 
 It was, I suppose, what I demanded of Fate—to be gently wafted into the position of a hero of romance, without rough hands at my throat. It is what we all ask, I suppose; and we get it sometimes in ten-minute snatches. I didn't know where I was going. It was enough for me to sail in and out of the patches of shadow that fell from the moon right above our heads.

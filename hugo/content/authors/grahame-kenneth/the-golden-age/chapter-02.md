@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A White-Washed Uncle"
 weight: 3
-aliases:
-  - "/authors/grahame-kenneth/the-golden-age/chapter-02.html"
+url: "/authors/grahame-kenneth/the-golden-age/chapter-02.html"
 ---
 
 IN our small lives that day was eventful when another uncle was to come down from town, and submit his character and qualifications (albeit unconsciously) to our careful criticism. Earlier uncles had been weighed in the balance, and—alas!—found grievously wanting. There was Uncle Thomas—a failure from the first. Not that his disposition was malevolent, nor were his habits such as to unfit him for decent society; but his rooted conviction seemed to be that the reason of a child’s existence was to serve as a butt for senseless adult jokes—or what, from the accompanying guffaws of laughter, appeared to be intended for jokes. Now, we were anxious that he should have a perfectly fair trial; so in the tool-house, between breakfast and lessons, we discussed and examined all his witticisms one by one, calmly, critically, dispassionately. It was no good: we could not discover any salt in them. And as only a genuine gift of humour could have saved Uncle Thomas—for he pretended to naught besides—he was reluctantly writ down a hopeless impostor.

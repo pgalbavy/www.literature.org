@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Doctor Kemp's Visitor"
 weight: 17
-aliases:
-  - "/authors/wells-herbert-george/the-invisible-man/chapter-17.html"
+url: "/authors/wells-herbert-george/the-invisible-man/chapter-17.html"
 ---
 
 Doctor Kemp had continued writing in his study until the shots aroused him. Crack, crack, crack, they came one after the other.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - The Delivery Of The Letter"
 weight: 30
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-30.html"
+url: "/authors/eliot-george/adam-bede/chapter-30.html"
 ---
 
 THE next Sunday Adam joined the Poysers on their way out of church, hoping for an invitation to go home with them. He had the letter in his pocket, and was anxious to have an opportunity of talking to Hetty alone. He could not see her face at church, for she had changed her seat, and when he came up to her to shake hands, her manner was doubtful and constrained. He expected this, for it was the first time she had met him since she had been aware that he had seen her with Arthur in the Grove.

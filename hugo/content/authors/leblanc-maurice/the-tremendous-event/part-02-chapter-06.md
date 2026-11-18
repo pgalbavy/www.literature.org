@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 6 - Hell On Earth"
 weight: 15
-aliases:
-  - "/authors/leblanc-maurice/the-tremendous-event/part-02-chapter-06.html"
+url: "/authors/leblanc-maurice/the-tremendous-event/part-02-chapter-06.html"
 ---
 
 A rascally face was Wilfred Rolleston's, but above all a drunkard's face, in which the noble features of his cousin Edward were debased by the habit of debauch. His eyes, which were small and sunk in their sockets, shone with an extraordinary glitter. A continual grin, which revealed red gums set with enormous, pointed teeth, gave his jaw the look of a gorilla's.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Contraband"
 weight: 21
-aliases:
-  - "/authors/london-jack/adventure/chapter-21.html"
+url: "/authors/london-jack/adventure/chapter-21.html"
 ---
 
 Sheldon did not mention the subject again, nor did his conduct change from what it had always been. There was nothing of the pining lover, nor of the lover at all, in his demeanour. Nor was there any awkwardness between them. They were as frank and friendly in their relations as ever. He had wondered if his belligerent love declaration might have aroused some womanly self- consciousness in Joan, but he looked in vain for any sign of it. She appeared as unchanged as he; and while he knew that he hid his real feelings, he was firm in his belief that she hid nothing. And yet the germ he had implanted must be at work; he was confident of that, though he was without confidence as to the result. There was no forecasting this strange girl's processes. She might awaken, it was true; and on the other hand, and with equal chance, he might be the wrong man for her, and his declaration of love might only more firmly set her in her views on single blessedness.

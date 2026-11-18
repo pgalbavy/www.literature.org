@@ -1,8 +1,7 @@
 ---
 title: "Chapter 66 - Execution"
 weight: 67
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-66.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-66.html"
 ---
 
 It was near midnight; the moon, lessened by its decline, and reddened by the last traces of the storm, arose behind the little town of Armentieres, which showed against its pale light the dark outline of its houses, and the skeleton of its high belfry. In front of them the Lys rolled its waters like a river of molten tin; while on the other side was a black mass of trees, profiled on a stormy sky, invaded by large coppery clouds which created a sort of twilight amid the night. On the left was an old abandoned mill, with its motionless wings, from the ruins of which an owl threw out its shrill, periodical, and monotonous cry. On the right and on the left of the road, which the dismal procession pursued, appeared a few low, stunted trees, which looked like deformed dwarfs crouching down to watch men traveling at this sinister hour.

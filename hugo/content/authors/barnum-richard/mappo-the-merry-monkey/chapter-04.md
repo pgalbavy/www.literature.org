@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Mappo In A Box"
 weight: 4
-aliases:
-  - "/authors/barnum-richard/mappo-the-merry-monkey/chapter-04.html"
+url: "/authors/barnum-richard/mappo-the-merry-monkey/chapter-04.html"
 ---
 
 Poor Mappo was not a merry monkey just then. Usually he was a jolly little fellow, laughing and chattering in his own way, and playing tricks on his brothers and sisters. Now he felt very little like doing anything of that sort.

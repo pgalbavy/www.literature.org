@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Westward Bound"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-01.html"
 ---
 
 *ONE* morning in early spring, at the beginning of the last century, a party of four persons left the frontier town of Woodvale, in southern Ohio, and started on their long journey across the continent.

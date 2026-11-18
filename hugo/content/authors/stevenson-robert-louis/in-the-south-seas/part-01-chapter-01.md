@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 1 - An Island Landfall"
 weight: 1
-aliases:
-  - "/authors/stevenson-robert-louis/in-the-south-seas/part-01-chapter-01.html"
+url: "/authors/stevenson-robert-louis/in-the-south-seas/part-01-chapter-01.html"
 ---
 
 For nearly ten years my health had been declining; and for some while before I set forth upon my voyage, I believed I was come to the afterpiece of life, and had only the nurse and undertaker to expect. It was suggested that I should try the South Seas; and I was not unwilling to visit like a ghost, and be carried like a bale, among scenes that had attracted me in youth and health. I chartered accordingly Dr. Merrit’s schooner yacht, the Casco, seventy-four tons register; sailed from San Francisco towards the end of June 1888, visited the eastern islands, and was left early the next year at Honolulu. Hence, lacking courage to return to my old life of the house and sick-room, I set forth to leeward in a trading schooner, the Equator, of a little over seventy tons, spent four months among the atolls (low coral islands) of the Gilbert group, and reached Samoa towards the close of ’89. By that time gratitude and habit were beginning to attach me to the islands; I had gained a competency of strength; I had made friends; I had learned new interests; the time of my voyages had passed like days in fairyland; and I decided to remain. I began to prepare these pages at sea, on a third cruise, in the trading steamer Janet Nicoll. If more days are granted me, they shall be passed where I have found life most pleasant and man most interesting; the axes of my black boys are already clearing the foundations of my future house; and I must learn to address readers from the uttermost parts of the sea.

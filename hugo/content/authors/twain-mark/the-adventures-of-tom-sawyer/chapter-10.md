@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-10.html"
+url: "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-10.html"
 ---
 
 THE two boys flew on and on, toward the village, speechless with horror. They glanced backward over their shoulders from time to time, apprehensively, as if they feared they might be followed. Every stump that started up in their path seemed a man and an enemy, and made them catch their breath; and as they sped by some outlying cottages that lay near the village, the barking of the aroused watch-dogs seemed to give wings to their feet.

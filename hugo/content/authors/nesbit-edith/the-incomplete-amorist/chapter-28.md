@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - \u0026quot;And So--\u0026quot;"
 weight: 28
-aliases:
-  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-28.html"
+url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-28.html"
 ---
 
 The banging of his door, the locking of it, annoyed Vernon, yet interested him but little. One's acquaintances have such queer notions of humour. He had the excuse - and by good luck the rope - to explore his celebrated roofs. Mimi was more agitated than he, so he dismissed her for the day with many compliments and a bunch of roses, and spent what was left of the light in painting in a background to the sketch of Betty - the warren as his sketch-book helped him to remember it. Perhaps he and she would go there together some day.

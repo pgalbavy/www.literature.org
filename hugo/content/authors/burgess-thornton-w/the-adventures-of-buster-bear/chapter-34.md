@@ -1,8 +1,7 @@
 ---
 title: "chapter 34"
 weight: 999
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-34.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-34.html"
 ---
 
 "Thief, thief, thief! Thief, thief, thief!" Sammy Jay was screaming at the top of his lungs, as he followed Buster Bear across the Old Pasture towards the Green Forest. Never had he screamed so loud, and never had his voice sounded so excited. The little people of the Green Forest, the Green Meadows, and the Smiling Pool are so used to hearing Sammy cry thief that usually they think very little about it. But every blessed one who heard Sammy this morning stopped whatever he was doing and pricked up his ears to listen.

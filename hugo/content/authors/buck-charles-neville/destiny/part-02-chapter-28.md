@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 28"
 weight: 28
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-28.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-28.html"
 ---
 
 There is in the western hemisphere one town whose local news is national news and international news. Its celebrities wear names which the nation mouths over with gusto, and its own name was, until comparatively recently, New Amsterdam. The country closely followed the first-column stories with which the press sought to keep abreast of the affairs of Hamilton Montagu Burton. It was interesting reading, for it dealt with a late potentate of power untold; now an invalid whose brain slept like a child taking its forenoon nap while his millions, counted in scores and hundreds, went back to their sources as the sun draws water into the clouds to spill it out again elsewhere. A giant of untold might had kindled the fires that slept at the heart of a volcano--and then had fallen asleep upon the slopes down which the lava must flow!

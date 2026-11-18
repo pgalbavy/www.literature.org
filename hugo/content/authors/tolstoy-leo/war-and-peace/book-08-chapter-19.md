@@ -1,8 +1,7 @@
 ---
 title: "Book 8 - Chapter 19"
 weight: 164
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-08-chapter-19.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-08-chapter-19.html"
 ---
 
 From the day his wife arrived in Moscow Pierre had been intending to go away somewhere, so as not to be near her. Soon after the Rostovs came to Moscow the effect Natasha had on him made him hasten to carry out his intention. He went to Tver to see Joseph Alexeevich's widow, who had long since promised to hand over to him some papers of her deceased husband's.

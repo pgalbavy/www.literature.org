@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Annette"
 weight: 18
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/chapter-17.html"
+url: "/authors/christie-agatha/the-secret-adversary/chapter-17.html"
 ---
 
 *THE* troubles of the future, however, soon faded before the troubles of the present. And of these, the most immediate and pressing was that of hunger. Tommy had a healthy and vigorous appetite. The steak and chips partaken of for lunch seemed now to belong to another decade. He regretfully recognized the fact that he would not make a success of a hunger strike.

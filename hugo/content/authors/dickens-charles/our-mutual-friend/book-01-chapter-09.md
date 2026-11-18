@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 9 - Mr And Mrs Boffin In Consultation"
 weight: 9
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-01-chapter-09.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-01-chapter-09.html"
 ---
 
 Betaking himself straight homeward, Mr Boffin, without further let or hindrance, arrived at the Bower, and gave Mrs Boffin (in a walking dress of black velvet and feathers, like a mourning coach-horse) an account of all he had said and done since breakfast.

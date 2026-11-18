@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Adrift"
 weight: 6
-aliases:
-  - "/authors/chambers-robert-w/the-danger-mark/chapter-06.html"
+url: "/authors/chambers-robert-w/the-danger-mark/chapter-06.html"
 ---
 
 During the week the guests at Roya-Neh were left very much to their own devices. Nobody was asked to do anything; there were several good enough horses at their disposal, two motor cars, a power-boat, canoes, rods, and tennis courts and golf links. The chances are they wanted sea-bathing. Inland guests usually do.

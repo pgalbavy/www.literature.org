@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 25"
 weight: 254
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-25.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-25.html"
 ---
 
 Toward nine o'clock in the morning, when the troops were already moving through Moscow, nobody came to the count any more for instructions. Those who were able to get away were going of their own accord, those who remained behind decided for themselves what they must do.

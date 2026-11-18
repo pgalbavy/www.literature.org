@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Outside The House"
 weight: 11
-aliases:
-  - "/authors/collins-wilkie/miss-or-mrs/chapter-11.html"
+url: "/authors/collins-wilkie/miss-or-mrs/chapter-11.html"
 ---
 
 The evening was chilly, but not cold for the time of year. There was no moon. The stars were out, and the wind was quiet. Upon the whole, the inhabitants of the little Somersetshire village of Baxdale agreed that it was as fine a Christmas-eve as they could remember for some years past.

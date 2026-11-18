@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 5"
 weight: 5
-aliases:
-  - "/authors/austen-jane/emma/volume-01-chapter-05.html"
+url: "/authors/austen-jane/emma/volume-01-chapter-05.html"
 ---
 
 “I do not know what your opinion may be, Mrs. Weston,” said Mr. Knightley, “of this great intimacy between Emma and Harriet Smith, but I think it a bad thing.”

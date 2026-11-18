@@ -1,8 +1,7 @@
 ---
 title: "Chapter 52"
 weight: 52
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-52.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-52.html"
 ---
 
 Among the most eager pursuers of the treacherous Tory and his Seneca allies, was Habakkuk McEwen, who had withdrawn to the rear of the settlers that held the Indians at their mercy during the interview between Jake Golcher and Fred Godfrey.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Facing Lone Wolf"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-04.html"
 ---
 
 Fred's few weeks spent in crossing the plains on his way to the valley of the Rio Pecos had taught him much of the ways of the Indians, and he knew that if any of the scamps were in his immediate neighborhood, it would be almost impossible for him to stir from his position by the tree without betraying himself. The lad half suspected that the sound was made by some wild animal that was stealing through the wood, or what was more likely, that it was no more than a falling leaf; but, whatever it was, he was determined to learn if the thing were among the possibilities.

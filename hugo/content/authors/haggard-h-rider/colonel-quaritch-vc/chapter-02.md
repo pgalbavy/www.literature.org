@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Colonel Meets The Squire"
 weight: 2
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-02.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-02.html"
 ---
 
 As Colonel Quaritch was contemplating these various views and reflecting that on the whole he had done well to come and live at Honham Cottage, he was suddenly startled by a loud voice saluting him from about twenty yards distance with such peculiar vigour that he fairly jumped.

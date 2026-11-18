@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/chambers-robert-w/cardigan/chapter-12.html"
+url: "/authors/chambers-robert-w/cardigan/chapter-12.html"
 ---
 
 How I managed to reach the fort, I never knew. I do not remember that the savages carried me; I have no recollection of walking. When the gate lanthorn was set that night, a sentry noticed me creeping in the weeds at the moat's edge. He shot at me and gave the alarm. Fortunately, he missed me.

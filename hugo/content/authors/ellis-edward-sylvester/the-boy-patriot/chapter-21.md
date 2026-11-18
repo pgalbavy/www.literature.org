@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Conclusion"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-21.html"
 ---
 
 It was in vain that Blair tried to persuade Derry Duck to see his mother, and accept her thanks for his kindness to her wounded boy. Derry declared that he would hear no thanks, the odds were all on the other side. And as for sitting down in a Christian woman's parlor, and making himself easy there, he wasn't fit for that. A forgiven sinner he believed he was, and could bow in the house of God with his fellow-men; but he was a beginner in the ways of godliness, too much tainted with his miserable past to be right company for those who had never gone so far astray. Besides, he pleaded, he had his little flower to see, in her own little nook. It would be a shame to him to set his foot on any other threshold before he had spoken to her. To her his first spare hours belonged.

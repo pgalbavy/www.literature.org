@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 28"
 weight: 152
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-28.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-28.html"
 ---
 
 On arriving in Petersburg, Vronsky and Anna stayed at one of the Lad best hotels; Vronsky apart in a lower story, Anna above with her hild, its nurse, and her maid, in a large suite of four rooms.

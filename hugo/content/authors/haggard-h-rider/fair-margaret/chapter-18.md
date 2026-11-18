@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Holy Hermandad"
 weight: 18
-aliases:
-  - "/authors/haggard-h-rider/fair-margaret/chapter-18.html"
+url: "/authors/haggard-h-rider/fair-margaret/chapter-18.html"
 ---
 
 Down the long passages, through the great, fretted halls, across the cool marble courts, flitted Inez and Margaret. It was like a dream. They went through a room where women, idling or working at tapestries, looked at them curiously. Margaret heard one of them say to another:

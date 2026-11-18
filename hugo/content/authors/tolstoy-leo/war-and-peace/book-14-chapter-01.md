@@ -1,8 +1,7 @@
 ---
 title: "Book 14 - Chapter 1"
 weight: 299
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-14-chapter-01.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-14-chapter-01.html"
 ---
 
 BOOK FOURTEEN: 1812

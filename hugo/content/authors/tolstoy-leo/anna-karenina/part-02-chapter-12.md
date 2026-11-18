@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 12"
 weight: 46
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-12.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-12.html"
 ---
 
 In the early days after his return from Moscow, whenever Levin shuddered and grew red, remembering the disgrace of his rejection, he said to himself: "This was just how I used to shudder nad blush, thinking myself utterly lost, when I was plucked in physics and did not get my remove; and how I thought myself utterly ruined after I had mismanaged that affair of my sister's that was entrusted to me. And yet, now that years have passed, I recall it and wonder that it could distress me so much.

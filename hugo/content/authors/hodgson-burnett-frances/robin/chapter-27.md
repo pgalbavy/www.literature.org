@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 28
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-27.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-27.html"
 ---
 
 And the next morning came the "waking up" for which Dowie had so long waited and prayed. But not as Dowie had expected it or in the way she hard thought "Nature."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/tarkington-booth/ramsey-milholland/chapter-20.html"
+url: "/authors/tarkington-booth/ramsey-milholland/chapter-20.html"
 ---
 
 Fred Mitchell, crossing the campus one morning, ten days later, saw Dora standing near the entrance of her dormitory, where he would pass her unless he altered his course; and as he drew nearer her and the details of her face grew into distinctness, he was indignant with himself for feeling less and less indignation toward her in proportion to the closeness of his approach. The pity that came over him was mingled with an unruly admiration, causing him to wonder what unpatriotic stuff he could be made of. She was marked, but not whipped; she still held herself straight under all the hammering and cutting which, to his knowledge, she had been getting.

@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 1"
 weight: 40
-aliases:
-  - "/authors/cather-willa/my-antonia/book-04-chapter-01.html"
+url: "/authors/cather-willa/my-antonia/book-04-chapter-01.html"
 ---
 
 TWO YEARS AFTER I left Lincoln, I completed my academic course at Harvard. Before I entered the Law School I went home for the summer vacation. On the night of my arrival, Mrs. Harling and Frances and Sally came over to greet me. Everything seemed just as it used to be. My grandparents looked very little older. Frances Harling was married now, and she and her husband managed the Harling interests in Black Hawk. When we gathered in grandmother’s parlour, I could hardly believe that I had been away at all. One subject, however, we avoided all evening.

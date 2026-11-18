@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Showing How Very Fond Of Oliver Twist, The Merry Old Jew And Miss Nancy Were"
 weight: 15
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-15.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-15.html"
 ---
 
 In the obscure parlour of a low public-house, in the filthiest part of Little Saffron Hill; a dark and gloomy den, where a flaring gas-light burnt all day in the winter-time; and where no ray of sun ever shone in the summer: there sat, brooding over a little pewter measure and a small glass, strongly impregnated with the smell of liquor, a man in a velveteen coat, drab shorts, half-boots and stockings, whom even by that dim light no experienced agent of the police would have hesitated to recognise as Mr. William Sikes. At his feet, sat a white-coated, red-eyed dog; who occupied himself, alternately, in winking at his master with both eyes at the same time; and in licking a large, fresh cut on one side of his mouth, which appeared to be the result of some recent conflict.

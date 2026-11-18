@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Miners"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-06.html"
 ---
 
 IT *WAS* late in the afternoon when the explosion occurred, and it was just beginning to grow dark when the three friends began drifting down the Yellowstone.

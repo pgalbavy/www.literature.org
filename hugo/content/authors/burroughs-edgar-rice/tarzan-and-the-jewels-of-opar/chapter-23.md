@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-23.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-23.html"
 ---
 
 To Jane Clayton, waiting in the tree where Werper had placed her, it seemed that the long night would never end, yet end it did at last, and within an hour of the coming of dawn her spirits leaped with renewed hope at sight of a solitary horseman approaching along the trail.

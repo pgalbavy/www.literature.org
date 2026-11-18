@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 13 - Mr. Tulliver Further Entangles The Skein Of Life"
 weight: 13
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-01-chapter-13.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-01-chapter-13.html"
 ---
 
 Owing to this new adjustment of Mrs. Glegg's thoughts, Mrs. Pullet found her task of mediation the next day surprisingly easy. Mrs. Glegg, indeed checked her rather sharply for thinking it would be necessary to tell her elder sister what was the right mode of behavior in family matters. Mrs. Pullet's argument, that it would look ill in the neighborhood if people should have it in their power to say that there was a quarrel in the family, was particularly offensive. If the family name never suffered except through Mrs. Glegg, Mrs. Pullet might lay her head on her pillow in perfect confidence.

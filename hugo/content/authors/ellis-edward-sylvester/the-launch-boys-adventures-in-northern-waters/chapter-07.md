@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Science Versus Strength"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-07.html"
 ---
 
 Had the large man undergone the scientific training of the smaller one, he might have overcome him, for, as has been said, he was immensely powerful and must have been a third heavier than Stockham Calvert. But he was out of condition, and, worse than all for him, had not the slightest knowledge of the "manly art." When he doubled his huge hairy fists, he charged upon the detective like a roaring bull, expecting to beat down his smaller antagonist as if he were pulp.

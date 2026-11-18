@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The God Of Ten Per Cent"
 weight: 15
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-15.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-15.html"
 ---
 
 It was the nature of the Widow to resort to violence in every crisis of her life and at each fresh memory of the effrontery of Wiley Holman she searched the empyrean for words. From the very start he had come to Keno with the intention of stealing her mine. First it was his father, who pitied her so much he was willing to buy her shares; then it was the tax sale, and he had sneaked in at night and tried to jump the Paymaster; then he had deceived her and stood in with Blount to make her sell all her stock for a song; and then, oh hateful thought, he had actually sold out to Blount for a hundred dollars, cash; only to put Blount in the hole and buy the mine back again for the price of the ore on the dump!

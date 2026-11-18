@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A Half-Breed"
 weight: 9
-aliases:
-  - "/authors/eliot-george/impressions-of-theophrastus-such/chapter-09.html"
+url: "/authors/eliot-george/impressions-of-theophrastus-such/chapter-09.html"
 ---
 
 An early deep-seated love to which we become faithless has its unfailing Nemesis, if only in that division of soul which narrows all newer joys by the intrusion of regret and the established presentiment of change. I refer not merely to the love of a person, but to the love of ideas, practical beliefs, and social habits. And faithlessness here means not a gradual conversion dependent on enlarged knowledge, but a yielding to seductive circumstance; not a conviction that the original choice was a mistake, but a subjection to incidents that flatter a growing desire. In this sort of love it is the forsaker who has the melancholy lot; for an abandoned belief may be more effectively vengeful than Dido. The child of a wandering tribe caught young and trained to polite life, if he feels an hereditary yearning can run away to the old wilds and get his nature into tune. But there is no such recovery possible to the man who remembers what he once believed without being convinced that he was in error, who feels within him unsatisfied stirrings towards old beloved habits and intimacies from which he has far receded without conscious justification or unwavering sense of superior attractiveness in the new. This involuntary renegade has his character hopelessly jangled and out of tune. He is like an organ with its stops in the lawless condition of obtruding themselves without method, so that hearers are amazed by the most unexpected transitions - the trumpet breaking in on the flute, and the oböe confounding both.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Benefit Of The Doubt"
 weight: 4
-aliases:
-  - "/authors/london-jack/the-night-born/chapter-04.html"
+url: "/authors/london-jack/the-night-born/chapter-04.html"
 ---
 
 CARTER WATSON, a current magazine under his arm, strolled slowly along, gazing about him curiously. Twenty years had elapsed since he had been on this particular street, and the changes were great and stupefying. This Western city of three hundred thousand souls had contained but thirty thousand, when, as a boy, he had been wont to ramble along its streets. In those days the street he was now on had been a quiet residence street in the respectable workingclass quarter. On this late afternoon he found that it had been submerged by a vast and vicious tenderloin. Chinese and Japanese shops and dens abounded, all confusedly intermingled with low white resorts and boozing dens. This quiet street of his youth had become the toughest quarter of the city.

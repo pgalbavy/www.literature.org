@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-11.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-11.html"
 ---
 
 Sheridan had decided to conclude his day's work early that afternoon, and at about two o'clock he left his office with a man of affairs from foreign parts, who had traveled far for a business conference with Sheridan and his colleagues. Herr Favre, in spite of his French name, was a gentleman of Bavaria. It was his first visit to our country, and Sheridan took pleasure in showing him the sights of the country's finest city. They got into an open car at the main entrance of the Sheridan Building, and were driven first, slowly and momentously, through the wholesale district and the retail district; then more rapidly they inspected the packing-houses and the stock-yards; then skirmished over the "park system" and "boulevards"; and after that whizzed through the "residence section" on their way to the factories and foundries.

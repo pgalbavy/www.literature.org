@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Bit Of Advice"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-10.html"
 ---
 
 "It's like this," Fatty Coon said, puffing a bit--on account of his climb--as he looked up at Dickie Deer Mouse. "Old Mr. Crow says that Farmer Green is going to sick old dog Spot on me if I don't keep out of the cornfield."

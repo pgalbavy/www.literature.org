@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Arrested"
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-27.html"
 ---
 
 *THE BURGLAR,* fairly trapped, gnashed his teeth with rage. To have been caught thus by a boy whom he had despised, increased his rage and humiliation. Besides he was in great peril. Burglary, and indeed all offences against property, were severely punished in this new State. It was a matter of necessity, considering the elements that had been brought together, and the freedom and lack of restraint that characterized the people. So the ruffian was fairly frightened. But he resolved to try the effect of one more appeal.

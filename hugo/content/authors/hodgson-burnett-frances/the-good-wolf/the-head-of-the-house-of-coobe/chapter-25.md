@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-25.html"
+url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-25.html"
 ---
 
 Some days before this the Duchess of Darte had driven out in the morning to make some purchases and as she had sat in her large landau she had greatly missed Miss Brent who had always gone with her when she had made necessary visits to the shops. She was not fond of shopping and Miss Brent had privately found pleasure in it which had made her a cheerful companion. To the quiet elderly woman whose life previous to her service with this great lady had been spent in struggles with poverty, the mere incident of entering shops and finding eager salesmen springing forward to meet her with bows and amiable offers of ministration, was to the end of her days an almost thrilling thing. The Duchess bought splendidly though quietly. Knowing always what she wanted, she merely required that it be produced, and after silently examining it gave orders that it should be sent to her. There was a dignity in her decision which was impressive. She never gave trouble or hesitated. The staffs of employees in the large shops knew and reveled in her while they figuratively bent the knee. Miss Brent had been a happy satisfied woman while she had lived. She had died peacefully after a brief and, as it seemed at first, unalarming illness at one of her employer's country houses to which she had been amiably sent down for a holiday. Every kindness and attention had been bestowed upon her and only a few moments before she fell into her last sleep she had been talking pleasantly of her mistress.

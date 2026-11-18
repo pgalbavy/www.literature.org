@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Tower Of Mystery"
 weight: 4
-aliases:
-  - "/authors/nesbit-edith/the-wouldbegoods/chapter-04.html"
+url: "/authors/nesbit-edith/the-wouldbegoods/chapter-04.html"
 ---
 
 It was very rough on Dora having her foot bad, but we took it in turns to stay in with her, and she was very decent about it. Daisy was most with her. I do not dislike Daisy, but I wish she had been taught how to play. Because Dora is rather like that naturally, and sometimes I have thought that Daisy makes her worse.

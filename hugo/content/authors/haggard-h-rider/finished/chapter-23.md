@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Kraal Jazi"
 weight: 24
-aliases:
-  - "/authors/haggard-h-rider/finished/chapter-23.html"
+url: "/authors/haggard-h-rider/finished/chapter-23.html"
 ---
 
 Now I shall pass over all the Zulu record of the next four years, since after all it has nothing to do with my tale and I do not pretend to be writing a history.

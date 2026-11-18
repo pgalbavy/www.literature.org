@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 10"
 weight: 10
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-10.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-10.html"
 ---
 
 Mary Burton had not long been back from Europe when sealed windows and boarded entrances began to give a sepulchral blankness to the houses of the rich. Society was leaving town, and for Mary Burton to remain when her set had gone would have been like reigning in an empty court, for already she had entered upon her dominion and her triumph was secure. New York society had at first received the over-seas report of her great charm and loveliness with such sceptical indulgence as New York accords to any excellence alien to the purlieus of her own boroughs.

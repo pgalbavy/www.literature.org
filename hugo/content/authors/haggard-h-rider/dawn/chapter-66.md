@@ -1,8 +1,7 @@
 ---
 title: "Chapter 66"
 weight: 67
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-66.html"
+url: "/authors/haggard-h-rider/dawn/chapter-66.html"
 ---
 
 Dr. Williamson was a rising young practitioner at Roxham, and what is more, a gentleman and a doctor of real ability.

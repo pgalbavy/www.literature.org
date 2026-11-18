@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Boys"
 weight: 3
-aliases:
-  - "/authors/alcott-louisa-may/little-men/chapter-02.html"
+url: "/authors/alcott-louisa-may/little-men/chapter-02.html"
 ---
 
 While Nat takes a good long sleep, I will tell my little readers something about the boys, among whom he found himself when he woke up.

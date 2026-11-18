@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-31.html"
+url: "/authors/london-jack/martin-eden/chapter-31.html"
 ---
 
 Martin had encountered his sister Gertrude by chance on Broadway - as it proved, a most propitious yet disconcerting chance. Waiting on the corner for a car, she had seen him first, and noted the eager, hungry lines of his face and the desperate, worried look of his eyes. In truth, he was desperate and worried. He had just come from a fruitless interview with the pawnbroker, from whom he had tried to wring an additional loan on his wheel. The muddy fall weather having come on, Martin had pledged his wheel some time since and retained his black suit.

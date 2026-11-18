@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 6 - A Continuation Of The Reminiscences Of John Watson, M.D"
 weight: 13
-aliases:
-  - "/authors/doyle-arthur-conan/a-study-in-scarlet/part-02-chapter-06.html"
+url: "/authors/doyle-arthur-conan/a-study-in-scarlet/part-02-chapter-06.html"
 ---
 
 OUR prisoner's furious resistance did not apparently indicate any ferocity in his disposition towards ourselves, for on finding himself powerless, he smiled in an affable manner, and expressed his hopes that he had not hurt any of us in the scuffle. "I guess you're going to take me to the police-station," he remarked to Sherlock Holmes. "My cab's at the door. If you'll loose my legs I'll walk down to it. I'm not so light to lift as I used to be."

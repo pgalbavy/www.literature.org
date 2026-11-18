@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Being Beavers; Or, The Young Explorers (Arctic Or Otherwise)"
 weight: 7
-aliases:
-  - "/authors/nesbit-edith/the-wouldbegoods/chapter-07.html"
+url: "/authors/nesbit-edith/the-wouldbegoods/chapter-07.html"
 ---
 
 You read in books about the pleasures of London, and about how people who live in the country long for the gay whirl of fashion in town because the country is so dull. I do not agree with this at all. In London, or at any rate Lewisham, nothing happens unless you make it happen; or if it happens it doesn't happen to you, and you don't know the people it does happen to. But in the country the most interesting events occur quite freely, and they seem to happen to you as much as to anyone else. Very often quite without your doing anything to help.

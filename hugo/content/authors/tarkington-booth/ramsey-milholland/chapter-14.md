@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/tarkington-booth/ramsey-milholland/chapter-14.html"
+url: "/authors/tarkington-booth/ramsey-milholland/chapter-14.html"
 ---
 
 That early spring of 1915 the two boys and their friends and Brethren talked more of the war than they had in the autumn, though the subject was not an all at absorbing one; for the trenches in Flanders and France were still of the immense, remote distance. By no stretch of imagination could these wet trenches be thought greatly to concern the "frat," the Lumen, or the university. Really important matters were the doings of the "Track Team," now training in the "Gym" and on the 'Varsity Field, and, more vital still, the prospects of the Nine. But in May there came a shock which changed things for a time.

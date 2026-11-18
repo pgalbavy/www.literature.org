@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Leslie Moore"
 weight: 10
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-10.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-10.html"
 ---
 
 "I'm going for a walk to the outside shore tonight," Anne told Gog and Magog one October evening. There was no one else to tell, for Gilbert had gone over the harbor. Anne had her little domain in the speckless order one would expect of anyone brought up by Marilla Cuthbert, and felt that she could gad shoreward with a clear conscience. Many and delightful had been her shore rambles, sometimes with Gilbert, sometimes with Captain Jim, sometimes alone with her own thoughts and new, poignantly-sweet dreams that were beginning to span life with their rainbows. She loved the gentle, misty harbor shore and the silvery, wind-haunted sand shore, but best of all she loved the rock shore, with its cliffs and caves and piles of surf-worn boulders, and its coves where the pebbles glittered under the pools; and it was to this shore she hied herself tonight.

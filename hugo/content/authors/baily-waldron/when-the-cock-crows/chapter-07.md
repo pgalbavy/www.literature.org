@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Stormbound"
 weight: 7
-aliases:
-  - "/authors/baily-waldron/when-the-cock-crows/chapter-07.html"
+url: "/authors/baily-waldron/when-the-cock-crows/chapter-07.html"
 ---
 
 Van Dusen hurried to the Marion address, where he found Ethel's maid thoroughly enjoying the vacation that had resulted for her from Doctor Garnet's action. Using his alias of Jack Scott, Van Dusen explained to the girl the situation that had developed, which was so perilous to her young mistress. When the maid had recovered from her first dismay, she told freely all that she knew, and this was sufficient easily to give Van Dusen the suspicion that the family physician might be in fact the guilty man, who was responsible for Ethel's disappearance.

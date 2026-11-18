@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 11"
 weight: 39
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-04-chapter-11.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-04-chapter-11.html"
 ---
 
 The author’s dangerous voyage. He arrives at New Holland, hoping to settle there. Is wounded with an arrow by one of the natives. Is seized and carried by force into a Portuguese ship. The great civilities of the captain. The author arrives at England.

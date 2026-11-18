@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 18"
 weight: 52
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-18.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-18.html"
 ---
 
 Although all Vronsky's inner life was absorbed in his passion, his external life unalterably and inevitably followed along the old accustomed lines of his social and regimental ties and interests. The interests of his regiment took an important place in Vronsky's life, both because he was fond of the rgiment, and because the regiment was fond of him. They were not only fond of Vronsky in his regiment, they respected him too, and were proud of him; proud that this man, with his immense wealth, his brilliant education and abilityies, and the path open before him to every kind of success, distinction, and ambition, had disregarded all that, and of all the interests of life had the interests of his regiment and his comrades nearest to his heart. Vronsky wasaware of his comrades' view of him, and in addition to his liking for the life, he felt bound to keep up that reputation.

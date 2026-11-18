@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - In The Dark Land"
 weight: 13
-aliases:
-  - "/authors/buchan-john/the-path-of-the-king/chapter-12.html"
+url: "/authors/buchan-john/the-path-of-the-king/chapter-12.html"
 ---
 
 The fire was so cunningly laid that only on one side did it cast a glow, and there the light was absorbed by a dark thicket of laurels. It was built under an overhang of limestone so that the smoke in the moonlight would be lost against the grey face of the rock. But, though the moon was only two days past the full, there was no sign of it, for the rain had come and the world was muffled in it. That morning the Kentucky vales, as seen from the ridge where the camp lay, had been like a furnace with the gold and scarlet of autumn, and the air had been heavy with sweet October smells. Then the wind had suddenly shifted, the sky had grown leaden, and in a queer dank chill the advance-guard of winter had appeared—that winter which to men with hundreds of pathless miles between them and their homes was like a venture into an uncharted continent.

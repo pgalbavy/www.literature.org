@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/london-jack/the-call-of-the-wild/chapter-02.html"
+url: "/authors/london-jack/the-call-of-the-wild/chapter-02.html"
 ---
 
 Buck's first day on the Dyea beach was like a nightmare. Every hour was filled with shock and surprise. He had been suddenly jerked from the heart of civilization and flung into the heart of things primordial. No lazy, sun-kissed life was this, with nothing to do but loaf and be bored. Here was neither peace, nor rest, nor a moment's safety. All was confusion and action, and every moment life and limb were in peril. There was imperative need to be constantly alert; for these dogs and men were not town dogs and men. They were savages, all of them, who knew no law but the law of club and fang.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Omen Of The Star"
 weight: 11
-aliases:
-  - "/authors/haggard-h-rider/the-ghost-kings/chapter-10.html"
+url: "/authors/haggard-h-rider/the-ghost-kings/chapter-10.html"
 ---
 
 As it chanced and can easily be understood, Rachel could not have made a more effective entry into Zululand, or one more calculated to confirm her supernatural reputation. When the “wild beast” she rode plunged about she had remained seated on it as though she grew there, whereas every warrior knew that he would have fallen off. When the bull charged her that bull had died, slain by the Heavens. When the Isanuzi, a witch of repute, had lifted voice and hand against her she had commanded her death, showing that she feared no rival magic. True the woman would have been killed in any case, for such was the order of the King as to all who should dare to affront the Inkosazana, yet the captains had waited to see what Rachel would do that they might judge her accordingly. If she had shown fear, if she had even neglected to avenge, they might have marvelled whether after all she were more than a beautiful white maiden filled with the wisdom of the whites.

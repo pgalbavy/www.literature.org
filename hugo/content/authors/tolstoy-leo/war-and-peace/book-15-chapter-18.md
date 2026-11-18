@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 18"
 weight: 335
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-18.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-18.html"
 ---
 
 It was a long time before Pierre could fall asleep that night. He paced up and down his room, now turning his thoughts on a difficult problem and frowning, now suddenly shrugging his shoulders and wincing, and now smiling happily.

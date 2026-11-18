@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 9"
 weight: 28
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-04-chapter-09.html"
+url: "/authors/cather-willa/o-pioneers/part-04-chapter-09.html"
 ---
 
 had been short. He was shot in the heart, and had rolled over on his back and died. His face was turned up to the sky and his brows were drawn in a frown, as if he had realized that something had befallen him. But for Marie Shabata it had not been so easy. One ball had torn through her right lung, another had shattered the carotid artery. She must have started up and gone toward the hedge, leaving a trail of blood. There she had fallen and bled. From that spot there was another trail, heavier than the first, where she must have dragged herself back to Emil's body. Once there, she seemed not to have struggled any more. She had lifted her head to her lover's breast, taken his hand in both her own, and bled quietly to death. She was lying on her right side in an easy and natural position, her cheek on Emil's shoulder. On her face there was a look of ineffable content. Her lips were parted a little; her eyes were lightly closed, as if in a day-dream or a light slumber. After she lay down there, she seemed not to have moved an eyelash. The hand she held was covered with dark stains, where she had kissed it.

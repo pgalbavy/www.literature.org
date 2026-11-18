@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - Homeward Bound"
 weight: 36
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-36.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-36.html"
 ---
 
 "Storms, do you notice that fellow?" asked Fred Sanders, as they approached the plank.

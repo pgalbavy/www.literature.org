@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-06.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-06.html"
 ---
 
 It was a brave and lustrous banquet; and a noisy one, too, because there was an orchestra among some plants at one end of the long dining-room, and after a preliminary stiffness the guests were impelled to converse—necessarily at the tops of their voices. The whole company of fifty sat at a great oblong table, improvised for the occasion by carpenters; but, not betraying itself as an improvisation, it seemed a permanent continent of damask and lace, with shores of crystal and silver running up to spreading groves of orchids and lilies and white roses—an inhabited continent, evidently, for there were three marvelous, gleaming buildings: one in the center and one at each end, white miracles wrought by some inspired craftsman in sculptural icing. They were models in miniature, and they represented the Sheridan Building, the Sheridan Apartments, and the Pump Works. Nearly all the guests recognized them without having to be told what they were, and pronounced the likenesses superb.

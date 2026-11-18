@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-17.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-17.html"
 ---
 
 "Ernestine," he said gravely, "I am going to speak to you about your father!"

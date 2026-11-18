@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Which?"
 weight: 25
-aliases:
-  - "/authors/alcott-louisa-may/eight-cousins/chapter-24.html"
+url: "/authors/alcott-louisa-may/eight-cousins/chapter-24.html"
 ---
 
 "Uncle, I have discovered what girls are made for," said Rose, the day after the reconciliation of Archie and the Prince.

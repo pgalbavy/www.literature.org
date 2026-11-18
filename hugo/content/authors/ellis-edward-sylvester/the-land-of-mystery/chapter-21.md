@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Haffgo, King Of The Murhapas"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-21.html"
 ---
 
 It was a memorable interview which the explorers held with Haffgo, king of the mighty Murhapas.

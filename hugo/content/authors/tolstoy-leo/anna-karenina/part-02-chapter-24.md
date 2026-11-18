@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 24"
 weight: 58
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-24.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-24.html"
 ---
 
 When Vronsky looked at his watch on the Karenins' balcony, he was so greatly agitated and lost in his thoughts that he saw the figures on the watch's face, but could not take in what time it was. He came out on to the highroad and walked, picking his way carefully through the mud, to his carriage. He was so completely absorbed in his feeling for Anna, that he did not even think what o'clock it was, and whether he had time to go to Bryansky's. He had left him, as often happens, only the external faculty of memory, that points out each step one has to take, one after the other. He went up to his coachman, who was dozing on the box in the shadow, already lengthening, of a thick limetree; he admired the shifting clouds of midges circling over the hot horses, and, waking the coachman, he jumped into the carriage, and told him to drive to Bryansky's. It was only after driving nearly five miles that he had sufficiently recovered himself to look at his watch, and realize that it was half-past five, and he was late.

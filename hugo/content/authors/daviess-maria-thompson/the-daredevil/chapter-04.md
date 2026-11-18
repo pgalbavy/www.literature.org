@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Impossible Uncle Robert"
 weight: 4
-aliases:
-  - "/authors/daviess-maria-thompson/the-daredevil/chapter-04.html"
+url: "/authors/daviess-maria-thompson/the-daredevil/chapter-04.html"
 ---
 
 "Robert," I made remark to myself after I had with difficulty removed the tweed coat and the tweed trousers and neatly folded them against ugly wrinkles of to-morrow, "you must become a sport and not climb down there and tell that other woman the truth of your lady's estate and ask her to comfort you with affection. You were born a daredevil and you must remember those two Indians and a bear that the Grandmamma Madam Donaldson murdered for safety for herself and her children. That Mr. G. Slade is just one bear and he's not as dangerous to you as if you wore 'skirts' anyway. And, also, if you are brave and propitiate the wicked Uncle, in just a few months you can travel to where the lovely lady with the blue flower eyes resides, of whom in the morning you must get the address of home, and can then make confession to her and know the joy of having her sisterly embraces that seem of so much sweetness to you now.

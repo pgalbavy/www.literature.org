@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 10"
 weight: 10
-aliases:
-  - "/authors/london-jack/burning-daylight/part-01-chapter-10.html"
+url: "/authors/london-jack/burning-daylight/part-01-chapter-10.html"
 ---
 
 Still men were without faith in the strike. When Daylight, with his heavy outfit of flour, arrived at the mouth of the Klondike, he found the big flat as desolate and tenantless as ever. Down close by the river, Chief Isaac and his Indians were camped beside the frames on which they were drying salmon. Several old-timers were also in camp there. Having finished their summer work on Ten Mile Creek, they had come down the Yukon, bound for Circle City. But at Sixty Mile they had learned of the strike, and stopped off to look over the ground. They had just returned to their boat when Daylight landed his flour, and their report was pessimistic.

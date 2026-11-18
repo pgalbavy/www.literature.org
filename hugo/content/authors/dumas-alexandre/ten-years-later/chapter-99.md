@@ -1,8 +1,7 @@
 ---
 title: "Chapter 99 - The Breakfast At Monsieur De Baisemeaux's"
 weight: 99
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-99.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-99.html"
 ---
 
 Aramis was generally temperate; but on this occasion, while taking every care of his constitution, he did ample justice to Baisemeaux's breakfast, which, in all respects, was most excellent. The latter, on his side, was animated with the wildest gayety; the sight of the five thousand pistoles, which he glanced at from time to time, seemed to open his heart. Every now and then he looked at Aramis with an expression of the deepest gratitude; while the latter, leaning back in his chair, took a few sips of wine from his glass, with the air of a connoisseur. "Let me never hear any ill words against the fare of the Bastile," said he, half closing his eyes; "happy are the prisoners who can get only half a bottle of such Burgundy every day."

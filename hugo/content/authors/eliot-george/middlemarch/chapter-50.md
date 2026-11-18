@@ -1,8 +1,7 @@
 ---
 title: "Chapter 50"
 weight: 50
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-50.html"
+url: "/authors/eliot-george/middlemarch/chapter-50.html"
 ---
 
 "'This Loller here wol precilen us somewhat.' 'Nay by my father's soule! that schal he nat,' Sayde the Schipman, 'here schal he not preche, We schal no gospel glosen here ne teche. We leven all in the gret God,' quod he. He wolden sowen some diffcultee." Canterbury Tales.

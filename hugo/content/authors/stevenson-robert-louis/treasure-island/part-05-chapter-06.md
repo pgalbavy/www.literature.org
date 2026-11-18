@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 6 - “Pieces Of Eight”"
 weight: 28
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-05-chapter-06.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-05-chapter-06.html"
 ---
 
 OWING to the cant of the vessel, the masts hung far out over the water, and from my perch on the cross-trees I had nothing below me but the surface of the bay. Hands, who was not so far up, was in consequence nearer to the ship and fell between me and the bulwarks. He rose once to the surface in a lather of foam and blood and then sank again for good. As the water settled, I could see him lying huddled together on the clean, bright sand in the shadow of the vessel's sides. A fish or two whipped past his body. Sometimes, by the quivering of the water, he appeared to move a little, as if he were trying to rise. But he was dead enough, for all that, being both shot and drowned, and was food for fish in the very place where he had designed my slaughter.

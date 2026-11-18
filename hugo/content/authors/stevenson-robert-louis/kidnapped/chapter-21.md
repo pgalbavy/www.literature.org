@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Flight In The Heather: The Heugh Of Corrynakiegh"
 weight: 22
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-21.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-21.html"
 ---
 
 Early as day comes in the beginning of July, it was still dark when we reached our destination, a cleft in the head of a great mountain, with a water running through the midst, and upon the one hand a shallow cave in a rock. Birches grew there in a thin, pretty wood, which a little farther on was changed into a wood of pines. The burn was full of trout; the wood of cushat-doves; on the open side of the mountain beyond, whaups would be always whistling, and cuckoos were plentiful. From the mouth of the cleft we looked down upon a part of Mamore, and on the sea-loch that divides that country from Appin; and this from so great a height as made it my continual wonder and pleasure to sit and behold them.

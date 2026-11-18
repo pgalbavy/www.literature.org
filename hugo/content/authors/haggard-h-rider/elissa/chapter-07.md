@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Black Dwarf"
 weight: 8
-aliases:
-  - "/authors/haggard-h-rider/elissa/chapter-07.html"
+url: "/authors/haggard-h-rider/elissa/chapter-07.html"
 ---
 
 Some two hours had passed since the break-up of the assembly in the great hall. Prince Aziel was seated in his chamber, when the keeper of the door announced that a woman was without who desired to speak with him. He gave orders that she should be admitted, and presently a veiled figure entered the room and bowed before him.

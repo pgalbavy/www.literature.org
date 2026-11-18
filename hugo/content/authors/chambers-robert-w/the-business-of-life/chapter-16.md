@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/chambers-robert-w/the-business-of-life/chapter-16.html"
+url: "/authors/chambers-robert-w/the-business-of-life/chapter-16.html"
 ---
 
 A surprised and very doubtful maid admitted him to Mrs. Hammerton's tiny reception room and took his card; and he fidgeted there impatiently until the maid returned to conduct him.

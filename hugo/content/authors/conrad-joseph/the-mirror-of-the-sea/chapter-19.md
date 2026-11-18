@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-19.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-19.html"
 ---
 
 The efficiency of a steamship consists not so much in her courage as in the power she carries within herself. It beats and throbs like a pulsating heart within her iron ribs, and when it stops, the steamer, whose life is not so much a contest as the disdainful ignoring of the sea, sickens and dies upon the waves. The sailing-ship, with her unthrobbing body, seemed to lead mysteriously a sort of unearthly existence, bordering upon the magic of the invisible forces, sustained by the inspiration of life-giving and death-dealing winds.

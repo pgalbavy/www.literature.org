@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 7"
 weight: 75
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-04-chapter-07.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-04-chapter-07.html"
 ---
 
 Two months had elapsed since the news of the battle of Austerlitz and the loss of Prince Andrew had reached Bald Hills, and in spite of the letters sent through the embassy and all the searches made, his body had not been found nor was he on the list of prisoners. What was worst of all for his relations was the fact that there was still a possibility of his having been picked up on the battlefield by the people of the place and that he might now be lying, recovering or dying, alone among strangers and unable to send news of himself. The gazettes from which the old prince first heard of the defeat at Austerlitz stated, as usual very briefly and vaguely, that after brilliant engagements the Russians had had to retreat and had made their withdrawal in perfect order. The old prince understood from this official report that our army had been defeated. A week after the gazette report of the battle of Austerlitz came a letter from Kutuzov informing the prince of the fate that had befallen his son.

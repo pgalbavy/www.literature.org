@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Some Passages From A Diary"
 weight: 4
-aliases:
-  - "/authors/buck-charles-neville/the-portal-of-dreams/chapter-04.html"
+url: "/authors/buck-charles-neville/the-portal-of-dreams/chapter-04.html"
 ---
 
 Mansfield was right. The pages of this diary struck the essentially human note of frank self-avowal. They were as fragrant as May orchards, their sweetness of personality made one think of brave young dreams among dewy blossoms. But I confessed to him the feeling that we were trespassers into these secrets, and after that he either laid the book by altogether or read it only when alone.

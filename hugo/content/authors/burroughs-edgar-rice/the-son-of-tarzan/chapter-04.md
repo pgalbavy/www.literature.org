@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-04.html"
+url: "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-04.html"
 ---
 
 The killing of the friendless old Russian, Michael Sabrov, by his great trained ape, was a matter for newspaper comment for a few days. Lord Greystoke read of it, and while taking special precautions not to permit his name to become connected with the affair, kept himself well posted as to the police search for the anthropoid.

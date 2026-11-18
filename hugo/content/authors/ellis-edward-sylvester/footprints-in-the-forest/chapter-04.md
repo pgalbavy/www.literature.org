@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Quarrel"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-04.html"
 ---
 
 Deerfoot was by no means free from misgivings when he limped from the woods, and, crossing the narrow space that lined the stream, advanced to the camp-fire around which the warriors were lounging.

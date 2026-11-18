@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 7"
 weight: 324
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-07.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-07.html"
 ---
 
 When the troops reached their night's halting place on the eighth of November, the last day of the Krasnoe battles, it was already growing dusk. All day it had been calm and frosty with occasional lightly falling snow and toward evening it began to clear. Through the falling snow a purple-black and starry sky showed itself and the frost grew keener.

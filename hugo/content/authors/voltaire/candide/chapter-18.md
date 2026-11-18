@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - What They Saw in the Country of El Dorado"
 weight: 18
-aliases:
-  - "/authors/voltaire/candide/chapter-18.html"
+url: "/authors/voltaire/candide/chapter-18.html"
 ---
 
 Cacambo vented all his curiosity upon his landlord by a thousand different questions; the honest man answered him thus, "I am very ignorant, sir, but I am contented with my ignorance; however, we have in this neighborhood an old man retired from court, who is the most learned and communicative person in the whole kingdom."

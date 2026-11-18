@@ -1,8 +1,7 @@
 ---
 title: "Chapter 45"
 weight: 46
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-45.html"
+url: "/authors/haggard-h-rider/dawn/chapter-45.html"
 ---
 
 A few days after the dinner at the Quinta Carr, the Bellamys' visit to Madeira drew to a close. On the evening before their departure, Arthur volunteered to take Lady Bellamy down to the parade to hear the band play. After they had walked about a while under the shade of the magnolia-trees, which were starred all over with creamy cups of bloom, and sufficiently inspected the gay throng of Portuguese inhabitants and English visitors, made gayer still by the amazingly gorgeous uniforms of the officials, Arthur spied two chairs in a comparatively quiet corner, and suggested that they should sit down.

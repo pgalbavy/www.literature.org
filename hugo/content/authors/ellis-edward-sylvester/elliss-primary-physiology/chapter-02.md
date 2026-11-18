@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Cleanliness-Bathing"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-02.html"
 ---
 
 One of the first things to remember is the need of keeping your bodies clean. Of course you wash your hands and face as soon as you rise in the morning, and if necessary through the day, but that is not enough.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-29.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-29.html"
 ---
 
 The six months that had just passed had been months of indecision and sadness for Shannon Burke. Constantly moved by a conviction that she should leave the vicinity of Ganado and the Penningtons, she was held there by a force that she had not the power to overcome.

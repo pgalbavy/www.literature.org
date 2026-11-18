@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/ridge-w-pett/love-at-paddington/chapter-06.html"
+url: "/authors/ridge-w-pett/love-at-paddington/chapter-06.html"
 ---
 
 The days that followed were racing days for Gertie. At Great Titchfield Street a special order came in, and Madame held a kind of rehearsal, that the girls might know exactly what to do if the inspector called. The inspector represented the State, which, in the opinion of Madame and Miss Rabbit and all the assistants, male and female, was an interfering busybody hampering industry, and preventing honest workers from earning useful pay for unlimited overtime. To Great Titchfield Street, by day, came private letters by express messenger for Gertie, and more than one telegram; she generally found a communication awaiting her on the return home to Praed Street. Miss Rabbit accepted the statement that these came from Gertie's cousin, referring to nothing more romantic than a visit to the country; in private conversation with senior girls in the workroom, she said, rather bitterly, that Miss Higham surely took her for a born idiot.

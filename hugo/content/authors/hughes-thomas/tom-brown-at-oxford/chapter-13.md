@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The First Bump"
 weight: 15
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-13.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-13.html"
 ---
 
 "What's the time, Smith?"

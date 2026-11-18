@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 37"
 weight: 354
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-37.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-37.html"
 ---
 
 History is the life of nations and of humanity. To seize and put into words, to describe directly the life of humanity or even of a single nation, appears impossible.

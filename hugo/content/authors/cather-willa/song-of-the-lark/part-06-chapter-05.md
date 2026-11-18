@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 5"
 weight: 55
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-06-chapter-05.html"
+url: "/authors/cather-willa/song-of-the-lark/part-06-chapter-05.html"
 ---
 
 WHEN Archie got back to his hotel at two o'clock in the morning, he found Fred Ottenburg's card under his door, with a message scribbled across the top: “When you come in, please call up room 811, this hotel.” A moment later Fred's voice reached him over the telephone.

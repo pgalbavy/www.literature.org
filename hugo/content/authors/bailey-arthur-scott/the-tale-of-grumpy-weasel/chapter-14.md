@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Grumpy Vanishes"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-14.html"
 ---
 
 Grumpy Weasel was quick to see that fat Mrs. Hen swallowed every word he said as greedily as if it had been an angleworm. "Yes! You have a fine house here," he said. "But of course you're crowded," he added gloomily, to show Mrs. Hen that he knew she had no place for him.

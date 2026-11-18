@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 9 - The Game Made"
 weight: 39
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-09.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-09.html"
 ---
 
 WHILE SYDNEY CARTON and the Sheep of the prisons were in the adjoining dark room, speaking so low that not a sound was heard, Mr. Lorry looked at Jerry in considerable doubt and mistrust. That honest tradesman's manner of receiving the look, did not inspire confidence; he changed the leg on which he rested, as often as if he had fifty of those limbs, and were trying them all; he examined his finger-nails with a very questionable closeness of attention; and whenever Mr. Lorry's eye caught his, he was taken with that peculiar kind of short cough requiring the hollow of a hand before it, which is seldom, if ever, known to be an infirmity attendant on perfect openness of character.

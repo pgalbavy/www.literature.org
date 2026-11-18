@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Pearl Of The Pacific"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-22.html"
 ---
 
 There, at the front of the oyster, and slightly to one side, was the most marvelous pearl upon which the eyes of the men had ever rested. It was the size of an ordinary hen's egg, clear and pure, and worth a sum of money which neither of the astounded men dared attempt to guess.

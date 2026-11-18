@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-30.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-30.html"
 ---
 
 No penitence and no confessional, No priest ordains it, yet they're forced to sit Amid deep ashes of their vanished years.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Bees Sting Cuffy"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-16.html"
 ---
 
 As Cuffy Bear stood there on his hind legs looking up at the nest in the old tree he saw so many bees come out and fly away that he thought that there could not be any bees left at home--at least, not more than a half-dozen. And Cuffy didn't believe that six bees would trouble him. There was one good thing in having a coat like his, he told himself: even if it was warm in summer, it was so thick that he didn't see how a bee could sting him through it.

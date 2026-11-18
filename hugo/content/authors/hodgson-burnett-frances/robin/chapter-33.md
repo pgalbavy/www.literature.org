@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 34
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-33.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-33.html"
 ---
 
 After they had dined they sat together in the long Highland twilight before her window in the Tower room where he had found her sitting when he arrived. Her work basket was near her and she took a piece of sheer lawn from it and began to embroider. And he sat and watched her draw delicate threads through the tiny leaves and flowers she was making. So he might have watched Alixe if she had been some unroyal girl given to him in one of life's kinder hours. She seemed to draw near out of the land of lost shadows as he sat in the clear twilight stillness and looked on. As he might have watched Alixe.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - The Fatal Tree"
 weight: 32
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-32.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-32.html"
 ---
 
 Lena-Wingo's plan was to learn how large a force was on their side of the river, how they were disposed, and what was the precise scheme of the Tory colonel for the capture of the girl. When this was done, he could decide in a very few minutes on the course to circumvent him. Now that his friends were all together again, and were scarcely likely to be molested for some time to come, there was no occasion so favorable as the present in which to perform this duty.

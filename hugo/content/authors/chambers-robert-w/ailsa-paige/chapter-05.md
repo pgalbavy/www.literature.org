@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/chambers-robert-w/ailsa-paige/chapter-05.html"
+url: "/authors/chambers-robert-w/ailsa-paige/chapter-05.html"
 ---
 
 "Burgess!"

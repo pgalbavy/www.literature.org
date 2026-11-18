@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 4"
 weight: 24
-aliases:
-  - "/authors/cather-willa/my-antonia/book-02-chapter-04.html"
+url: "/authors/cather-willa/my-antonia/book-02-chapter-04.html"
 ---
 
 WE WERE SINGING rhymes to tease Antonia while she was beating up one of Charley’s favourite cakes in her big mixing-bowl.

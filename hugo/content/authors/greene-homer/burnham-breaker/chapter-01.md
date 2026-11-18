@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Surprise In The Screen-Room"
 weight: 1
-aliases:
-  - "/authors/greene-homer/burnham-breaker/chapter-01.html"
+url: "/authors/greene-homer/burnham-breaker/chapter-01.html"
 ---
 
 The city of Scranton lies in the centre of the Lackawanna coal-field, in the State of Pennsylvania. Year by year the suburbs of the city creep up the sides of the surrounding hills, like the waters of a rising lake.

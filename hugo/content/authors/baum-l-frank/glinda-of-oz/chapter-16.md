@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 17
-aliases:
-  - "/authors/baum-l-frank/glinda-of-oz/chapter-16.html"
+url: "/authors/baum-l-frank/glinda-of-oz/chapter-16.html"
 ---
 
 I must now tell you what happened to Ervic and the three other Skeezers who were left floating in the iron boat after Queen Coo-ee-oh had been transformed into a Diamond Swan by the magic of the Flathead Su-dic.

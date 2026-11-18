@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A Startling Occurrence"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-09.html"
 ---
 
 As may be supposed, Jack Cosgrove was all excitement on the instant. He had not expected any such reply, and he was eager to learn the cause. As he started forward, he instinctively glanced down in quest of evidence that Fred had passed there. There was none so far as he could see, and, if there had been, it is not likely he would have been able to identify it, since all the party had been over the same spot, and some of them more than once.

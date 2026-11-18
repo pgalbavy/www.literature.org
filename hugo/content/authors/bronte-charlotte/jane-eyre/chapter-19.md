@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 20
-aliases:
-  - "/authors/bronte-charlotte/jane-eyre/chapter-19.html"
+url: "/authors/bronte-charlotte/jane-eyre/chapter-19.html"
 ---
 
 The library looked tranquil enough as I entered it, and the Sibyl-- if Sibyl she were--was seated snugly enough in an easy-chair at the chimney-corner. She had on a red cloak and a black bonnet: or rather, a broad-brimmed gipsy hat, tied down with a striped handkerchief under her chin. An extinguished candle stood on the table; she was bending over the fire, and seemed reading in a little black book, like a prayer-book, by the light of the blaze: she muttered the words to herself, as most old women do, while she read; she did not desist immediately on my entrance: it appeared she wished to finish a paragraph.

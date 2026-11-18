@@ -1,8 +1,7 @@
 ---
 title: "Prelude"
 weight: 1
-aliases:
-  - "/authors/burroughs-edgar-rice/the-chessmen-of-mars/prelude.html"
+url: "/authors/burroughs-edgar-rice/the-chessmen-of-mars/prelude.html"
 ---
 
 SHEA had just beaten me at chess, as usual, and, also as usual, I had gleaned what questionable satisfaction I might by twitting him with this indication of failing mentality by calling his attention to the nth time to that theory, propounded by certain scientists, which is based upon the assertion that phenomenal chess players are always found to be from the ranks of children under twelve, adults over seventy-two or the mentally defective--a theory that is lightly ignored upon those rare occasions that I win. Shea had gone to bed and I should have followed suit, for we are always in the saddle here before sunrise; but instead I sat there before the chess table in the library, idly blowing smoke at the dishonored head of my defeated king.

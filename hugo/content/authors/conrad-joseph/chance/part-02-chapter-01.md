@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 1 - The Ferndale"
 weight: 8
-aliases:
-  - "/authors/conrad-joseph/chance/part-02-chapter-01.html"
+url: "/authors/conrad-joseph/chance/part-02-chapter-01.html"
 ---
 
 I have said that the story of Flora de Barral was imparted to me in stages. At this stage I did not see Marlow for some time. At last, one evening rather early, very soon after dinner, he turned up in my rooms.

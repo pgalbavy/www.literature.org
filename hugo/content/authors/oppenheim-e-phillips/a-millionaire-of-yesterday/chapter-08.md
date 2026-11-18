@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-08.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-08.html"
 ---
 
 Trent, on leaving the hotel, turned for almost the first time in his life westwards. For years the narrow alleys, the thronged streets, the great buildings of the City had known him day by day, almost hour by hour. Its roar and clamour, the strife of tongues and keen measuring of wits had been the salt of his life. Steadily, sturdily, almost insolently, he had thrust his way through to the front ranks. In many respects those were singular and unusual elements which had gone to the making of his success. His had not been the victory of honied falsehoods, of suave deceit, of gentle but legalised robbery. He had been a hard worker, a daring speculator with nerves of iron, and courage which would have glorified a nobler cause. Nor had his been the methods of good fellowship, the sharing of "good turns," the camaraderie of finance. The men with whom he had had large dealings he had treated as enemies rather than friends, ever watching them covertly with close but unslackening vigilance. And now, for the present at any rate it was all over. There had come a pause in his life. His back was to the City and his face was set towards an unknown world. Half unconsciously he had undertaken a little voyage of exploration.

@@ -1,8 +1,7 @@
 ---
 title: "Prelude - On Fear And Aristocracy"
 weight: 1
-aliases:
-  - "/authors/wells-herbert-george/the-research-magnificent/prelude.html"
+url: "/authors/wells-herbert-george/the-research-magnificent/prelude.html"
 ---
 
 1

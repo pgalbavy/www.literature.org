@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/tarkington-booth/harlequin-and-columbine/chapter-09.html"
+url: "/authors/tarkington-booth/harlequin-and-columbine/chapter-09.html"
 ---
 
 "Second act, ladies and gentlemen!" cried Packer, at precisely ten o'clock the next morning.

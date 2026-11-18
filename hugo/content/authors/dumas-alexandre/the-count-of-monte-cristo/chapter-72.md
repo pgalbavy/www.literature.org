@@ -1,8 +1,7 @@
 ---
 title: "Chapter 72 - Madame De Saint-Meran"
 weight: 72
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-72.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-72.html"
 ---
 
 A gloomy scene had indeed just passed at the house of M. de Villefort. After the ladies had departed for the ball, whither all the entreaties of Madame de Villefort had failed in persuading him to accompany them, the procureur had shut himself up in his study, according to his custom. with a heap of papers calculated to alarm any one else, but which generally scarcely satisfied his inordinate desires. But this time the papers were a mere matter of form. Villefort had secluded himself, not to study, but to reflect; and with the door locked and orders given that he should not be disturbed excepting for important business, he sat down in his arm-chair and began to ponder over the events, the remembrance of which had during the last eight days filled his mind with so many gloomy thoughts and bitter recollections. Then, instead of plunging into the mass of documents piled before him, he opened the drawer of his desk. touched a spring, and drew out a parcel of cherished memoranda, amongst which he had carefully arranged, in characters only known to himself, the names of all those who, either in his political career, in money matters, at the bar, or in his mysterious love affairs, had become his enemies.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 127 - The Deck"
 weight: 127
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-127.html"
+url: "/authors/melville-herman/moby-dick/chapter-127.html"
 ---
 
 The coffin laid upon two line-tubs, between the vice-bench and the open hatchway; the Carpenter caulking its seams; the string of twisted oakum slowly unwinding from a large roll of it placed in the bosom of his frock.--Ahab comes slowly from the cabin-gangway, and hears Pip following him.

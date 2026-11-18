@@ -1,8 +1,7 @@
 ---
 title: "Chapter 50 - The Interview"
 weight: 50
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-50.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-50.html"
 ---
 
 It had been D'Artagnan's practice, ever since the riots, to sleep in the same room as Porthos, and on this eventful morning he was still there, sleeping, and dreaming that a yellow cloud had overspread the sky and was raining gold pieces into his hat, which he held out till it was overflowing with pistoles. As for Porthos, he dreamed that the panels of his carriage were not capacious enough to contain the armorial bearings he had ordered to be painted on them. They were both aroused at seven o'clock by the entrance of an unliveried servant, who brought a letter for D'Artagnan.

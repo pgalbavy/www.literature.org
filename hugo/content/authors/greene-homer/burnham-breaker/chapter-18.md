@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - A Writ Of Habeas Corpus"
 weight: 18
-aliases:
-  - "/authors/greene-homer/burnham-breaker/chapter-18.html"
+url: "/authors/greene-homer/burnham-breaker/chapter-18.html"
 ---
 
 Every one expected that the jury would come into court with a verdict at the opening of the session on Tuesday morning. There was much difference of opinion, however, as to what that verdict would be.

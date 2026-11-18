@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - News From Mannheim"
 weight: 9
-aliases:
-  - "/authors/collins-wilkie/the-new-magdalen/chapter-09.html"
+url: "/authors/collins-wilkie/the-new-magdalen/chapter-09.html"
 ---
 
 LADY JANET'S curiosity was by this time thoroughly aroused. Summoned to explain who the nameless lady mentioned in his letter could possibly be, Julian had looked at her adopted daughter. Asked next to explain what her adopted daughter had got to do with it, he had declared that he could not answer while Miss Roseberry was in the room.

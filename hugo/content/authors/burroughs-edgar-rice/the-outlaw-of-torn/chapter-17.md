@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-17.html"
+url: "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-17.html"
 ---
 
 When those of the royalists who had not deserted the King and fled precipitately toward the coast had regained the castle and the Priory, the city was turned over to looting and rapine. In this, Norman of Torn and his men did not participate, but camped a little apart from the town until daybreak the following morning, when they started east, toward Dover.

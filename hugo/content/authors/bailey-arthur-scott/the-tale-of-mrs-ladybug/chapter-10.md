@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Bit Of News"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-10.html"
 ---
 
 CHIRPY CRICKET was looking for Mrs. Ladybug. He had news for her. Now, it wasn't often that anybody could tell Mrs. Ladybug anything. Usually she was the one that told other people bits of gossip. So Chirpy Cricket was specially eager to find her and make known to her what he had learned.

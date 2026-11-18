@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/austen-jane/persuasion/chapter-08.html"
+url: "/authors/austen-jane/persuasion/chapter-08.html"
 ---
 
 From this time Captain Wentworth and Anne Elliot were repeatedly in the same circle. They were soon dining in company together at Mr Musgrove's, for the little boy's state could no longer supply his aunt with a pretence for absenting herself; and this was but the beginning of other dinings and other meetings.

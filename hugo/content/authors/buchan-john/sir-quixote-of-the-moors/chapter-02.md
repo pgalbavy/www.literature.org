@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - I Fare Badly Indoors"
 weight: 3
-aliases:
-  - "/authors/buchan-john/sir-quixote-of-the-moors/chapter-02.html"
+url: "/authors/buchan-john/sir-quixote-of-the-moors/chapter-02.html"
 ---
 
 I dropped wearily from my horse and stumbled forward to the door. 'Twas close shut, but rays of light came through the chinks at the foot, and the great light in the further window lit up the ground for some yards. I knocked loudly with my sword-hilt. Stillness seemed to reign within, save that from some distant room a faint sound of men's voices was brought. A most savory smell stole out to the raw air and revived my hunger with hopes of supper.

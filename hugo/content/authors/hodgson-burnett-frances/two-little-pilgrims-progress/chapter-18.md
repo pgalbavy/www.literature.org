@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-18.html"
+url: "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-18.html"
 ---
 
 Yes, they went home in a carriage! John Holt put them into it, and settled back into it himself, as if comfortable cushions were only what belonged to tired people. And he took them to one of the hotels whose brilliantly-lighted fronts they had trudged wearily by the night before. And they had a good supper and warm baths and delicious beds, and Meg went to sleep with actual tears of wonder and gratitude on her lashes, and they all three slept the sleep of Eden and dreamed the dreams of Paradise. And in the morning they had breakfast with John Holt, in the hotel dining-room, and a breakfast as good as the princely dinner he had given them; and after it they all went back with him to the City Beautiful, and the fairy story began again. For near the entrance where they went in they actually found Ben’s mother, in a state of wonder beyond words; for, by the use of some magic messenger, that wonderful John Holt had sent word to her that Ben was in safe hands, and that she must come and join him, and the money to make this possible had been in the letter.

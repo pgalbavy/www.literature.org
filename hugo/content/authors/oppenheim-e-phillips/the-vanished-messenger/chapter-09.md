@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-09.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-09.html"
 ---
 
 Mr. Fentolin, surrounded by his satellites, was seated in his chair before the writing-table. There were present in the room most of the people important to him in his somewhat singular life. A few feet away, in characteristic attitude, stood Meekins. Doctor Sarson, with his hands behind him, was looking out of the window. At the further end of the table stood a confidential telegraph clerk, who was just departing with a little sheaf of messages. By his side, with a notebook in her hand, stood Mr. Fentolin's private secretary - a white-haired woman, with a strangely transparent skin and light brown eyes, dressed in somber black, a woman who might have been of any age from thirty to fifty. Behind her was a middle-aged man whose position in the household no one was quite sure about - a clean-shaven man whose name was Ryan, and who might very well have been once an actor or a clergyman.. In the background stood Henderson, the perfect butler.

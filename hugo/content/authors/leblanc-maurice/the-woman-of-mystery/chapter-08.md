@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Élisabeth's Diary"
 weight: 8
-aliases:
-  - "/authors/leblanc-maurice/the-woman-of-mystery/chapter-08.html"
+url: "/authors/leblanc-maurice/the-woman-of-mystery/chapter-08.html"
 ---
 
 This double murder, following upon a series of tragic incidents all of which were closely connected, was the climax to such an accumulation of horrors and of shocking disasters that the two young men did not utter a word or stir a limb. Death, whose breath they had already felt so often on the battlefield, had never appeared to them under a more hateful or forbidding guise.

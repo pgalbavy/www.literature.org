@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-22.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-22.html"
 ---
 
 THEY swarmed up towards Sherburn's house, awhooping and raging like Injuns, and everything had to clear the way or get run over and tromped to mush, and it was awful to see. Children was heeling it ahead of the mob, screaming and trying to get out of the way; and every window along the road was full of women's heads, and there was nigger boys in every tree, and bucks and wenches looking over every fence; and as soon as the mob would get nearly to them they would break and skaddle back out of reach. Lots of the women and girls was crying and taking on, scared most to death.

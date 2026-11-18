@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Patriot Martyr"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-06.html"
 ---
 
 The next day brought a marked coolness in the temperature. In preparation for the evening’s instructive entertainment, nearly all the boys spent the time in roaming through the woods, taking notes and brushing up their knowledge of birds, which were met with only in moderate numbers.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/bronte-charlotte/the-professor/chapter-10.html"
+url: "/authors/bronte-charlotte/the-professor/chapter-10.html"
 ---
 
 NEXT day the morning hours seemed to pass very slowly at M. Pelet's; I wanted the afternoon to come that I might go again to the neighbouring pensionnat and give my first lesson within its pleasant precincts; for pleasant they appeared to me. At noon the hour of recreation arrived; at one o'clock we had lunch; this got on the time, and at last St. Gudule's deep bell, tolling slowly two, marked the moment for which I had been waiting.

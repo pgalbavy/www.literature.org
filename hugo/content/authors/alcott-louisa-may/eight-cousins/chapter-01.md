@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Two Girls"
 weight: 2
-aliases:
-  - "/authors/alcott-louisa-may/eight-cousins/chapter-01.html"
+url: "/authors/alcott-louisa-may/eight-cousins/chapter-01.html"
 ---
 
 Rose sat all alone in the big best parlor, with her little handkerchief laid ready to catch the first tear, for she was thinking of her troubles, and a shower was expected. She had retired to this room as a good place in which to be miserable; for it was dark and still, full of ancient furniture, sombre curtains, and hung all around with portraits of solemn old gentlemen in wigs, severe-nosed ladies in top-heavy caps, and staring children in little bob-tailed coats or short-waisted frocks. It was an excellent place for woe; and the fitful spring rain that pattered on the window-pane seemed to sob, "Cry away: I'm with you."

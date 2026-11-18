@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - How Asmund The Priest Was Betrothed To Unna"
 weight: 7
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-06.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-06.html"
 ---
 
 For a moment there was silence, for all that company was wonderstruck at the greatness of the deed. Then they cheered and cheered again, and to Eric it seemed that he slept, and the sound of shouting reached him but faintly, as though he heard through snow. Suddenly he woke and saw a man rush at him with axe aloft. It was Mord, Ospakar’s son, mad at his father’s overthrow. Eric sprang aside, or the blow had been his bane, and, as he sprang, smote with his fist, and it struck heavily on the head of Mord above the ear, so that the axe flew from his hand, and he fell senseless on his father in the snow.

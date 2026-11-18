@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/stoker-bram/lair-of-the-white-worm/chapter-06.html"
+url: "/authors/stoker-bram/lair-of-the-white-worm/chapter-06.html"
 ---
 
 At breakfast-time next morning Sir Nathaniel and Mr. Salton were seated when Adam came hurriedly into the room.

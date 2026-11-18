@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Beauty And The Blossoms"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-01.html"
 ---
 
 EVERY one of the field people in Pleasant Valley, and the forest folk as well, was different from his neighbors. For instance, there was Jasper Jay. He was the noisiest chap for miles around. And there was Peter Mink. Without doubt he was the rudest and most rascally fellow in the whole district. Then there was Freddie Firefly, who was the brightest youngster on the farm--at least after dark, when his light flashed across the meadow.

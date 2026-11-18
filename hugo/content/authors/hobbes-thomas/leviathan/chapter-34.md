@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - Of The Signification Of Spirit, Angel, And Inspiration In The Books Of Holy Scripture"
 weight: 36
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-34.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-34.html"
 ---
 
 Body And Spirit How Taken In The Scripture Seeing the foundation of all true Ratiocination, is the constant Signification of words; which in the Doctrine following, dependeth not (as in naturall science) on the Will of the Writer, nor (as in common conversation) on vulgar use, but on the sense they carry in the Scripture; It is necessary, before I proceed any further, to determine, out of the Bible, the meaning of such words, as by their ambiguity, may render what I am to inferre upon them, obscure, or disputable. I will begin with the words BODY, and SPIRIT, which in the language of the Schools are termed, Substances, Corporeall, and Incorporeall.

@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 17"
 weight: 45
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-02-chapter-17.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-02-chapter-17.html"
 ---
 
 Mounting his horse again Prince Andrew lingered with the battery, looking at the puff from the gun that had sent the ball. His eyes ran rapidly over the wide space, but he only saw that the hitherto motionless masses of the French now swayed and that there really was a battery to their left. The smoke above it had not yet dispersed. Two mounted Frenchmen, probably adjutants, were galloping up the hill. A small but distinctly visible enemy column was moving down the hill, probably to strengthen the front line. The smoke of the first shot had not yet dispersed before another puff appeared, followed by a report. The battle had begun! Prince Andrew turned his horse and galloped back to Grunth to find Prince Bagration. He heard the cannonade behind him growing louder and more frequent. Evidently our guns had begun to reply. From the bottom of the slope, where the parleys had taken place, came the report of musketry.

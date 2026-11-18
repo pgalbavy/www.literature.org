@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 3"
 weight: 31
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-04-chapter-03.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-04-chapter-03.html"
 ---
 
 The author studies to learn the language. The Houyhnhnm, his master, assists in teaching him. The language described. Several Houyhnhnms of quality come out of curiosity to see the author. He gives his master a short account of his voyage.

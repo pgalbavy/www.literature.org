@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Dan Lowrie'S Return"
 weight: 24
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-24.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-24.html"
 ---
 
 Not a pleasant road to travel at any time--the high road to Riggan, it was certainly at its worst to-night.

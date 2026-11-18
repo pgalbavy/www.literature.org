@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Edith Swan-Neck"
 weight: 10
-aliases:
-  - "/authors/leblanc-maurice/the-confessions-of-arsene-lupin/chapter-10.html"
+url: "/authors/leblanc-maurice/the-confessions-of-arsene-lupin/chapter-10.html"
 ---
 
 "Arsène Lupin, what's your real opinion of Inspector Ganimard?"

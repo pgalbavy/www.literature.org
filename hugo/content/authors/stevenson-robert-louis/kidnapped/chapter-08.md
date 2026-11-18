@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Round-House"
 weight: 9
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-08.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-08.html"
 ---
 
 One night, about eleven o’clock, a man of Mr. Riach’s watch (which was on deck) came below for his jacket; and instantly there began to go a whisper about the forecastle that “Shuan had done for him at last.” There was no need of a name; we all knew who was meant; but we had scarce time to get the idea rightly in our heads, far less to speak of it, when the scuttle was again flung open, and Captain Hoseason came down the ladder. He looked sharply round the bunks in the tossing light of the lantern; and then, walking straight up to me, he addressed me, to my surprise, in tones of kindness.

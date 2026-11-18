@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Masquerader"
 weight: 13
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-13.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-13.html"
 ---
 
 As Tarzan dropped to the ground beyond the temple wall there was in his mind no intention to escape from the City of A-lur until he had satisfied himself that his mate was not a prisoner there, but how, in this strange city in which every man's hand must be now against him, he was to live and prosecute his search was far from clear to him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The White Flag"
 weight: 23
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-23.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-23.html"
 ---
 
 Unhappy Mr. Crow could scarcely eat a mouthful of food after that meeting on Saturday night, when he found the stranger talking to the gathering. He was worried, because he knew that if the stranger succeeded in getting Farmer Green to promise that he would not put tar on his corn the following spring, everybody would choose the newcomer to be the leader of all the crows in Pleasant Valley. And that was an honor that old Mr. Crow had had for years.

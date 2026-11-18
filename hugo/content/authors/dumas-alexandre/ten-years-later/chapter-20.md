@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Of The Society Which Was Formed In The Rue Des Lombards, At The Sign Of The Pilon D'or, To Carry Out M. D'artagnan's Idea"
 weight: 20
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-20.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-20.html"
 ---
 
 After a moment's silence, in which D'Artagnan appeared to be collecting, not one idea, but all his ideas - "It cannot be, my dear Planchet," said he, "that you have not heard of his majesty Charles I. of England?"

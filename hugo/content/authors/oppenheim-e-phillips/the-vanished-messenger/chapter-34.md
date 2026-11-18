@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 34
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-34.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-34.html"
 ---
 
 Mr. John P. Dunster, lying flat upon his little bed, watched with dilated eyes the disappearance of the ladder. Then he laughed. It was a queer sound - broken, spasmodic, devoid of any of the ordinary elements of humor - and yet it was a laugh. Mr. Fentolin turned his head towards his prisoner and nodded thoughtfully.

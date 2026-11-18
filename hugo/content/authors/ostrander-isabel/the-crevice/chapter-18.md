@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Trap"
 weight: 18
-aliases:
-  - "/authors/ostrander-isabel/the-crevice/chapter-18.html"
+url: "/authors/ostrander-isabel/the-crevice/chapter-18.html"
 ---
 
 "You are ready, Miss Lawton? Nerves steady enough for the ordeal?" asked Blaine the following morning.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Tip"
 weight: 8
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-08.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-08.html"
 ---
 
 "Well?" inquired the Widow as her daughter came back from her ride with Wiley Holman; but Virginia was not giving out confidences. At last, and by a trick, she had surprised the truth from Wiley and he had told her to keep her stock. For weeks, for months, he had told her and everybody else that the Paymaster was not worth having; but when she had drooped her lashes and asked him for his opinion he had told her not to sell. Not hesitatingly nor doubtfully, or with any crafty intent; but honestly, as a friend, perhaps as a lover--and then he had looked away. He knew, of course, how his past actions must appear in the light of this later advice; but he had told her the truth and gone. The question was: What should she do?

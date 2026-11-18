@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/coolidge-dane/the-desert-trail/chapter-28.html"
+url: "/authors/coolidge-dane/the-desert-trail/chapter-28.html"
 ---
 
 The high pass and the insurrectos were behind them now and the rolling plains of Agua Negra were at their feet. To the northeast the smoke banners of the Gadsden smelters lay like ribbons across the sky, and the line was not far away.

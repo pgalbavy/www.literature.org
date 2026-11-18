@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Describes How The Duc De Beaufort Amused His Leisure Hours In The Donjon Of Vincennes"
 weight: 17
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-17.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-17.html"
 ---
 
 The captive who was the source of so much alarm to the cardinal and whose means of escape disturbed the repose of the whole court, was wholly unconscious of the terror he caused at the Palais Royal.

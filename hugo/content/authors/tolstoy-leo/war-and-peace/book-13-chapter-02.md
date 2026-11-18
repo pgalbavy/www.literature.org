@@ -1,8 +1,7 @@
 ---
 title: "Book 13 - Chapter 2"
 weight: 281
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-13-chapter-02.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-13-chapter-02.html"
 ---
 
 The famous flank movement merely consisted in this: after the advance of the French had ceased, the Russian army, which had been continually retreating straight back from the invaders, deviated from that direct course and, not finding itself pursued, was naturally drawn toward the district where supplies were abundant.

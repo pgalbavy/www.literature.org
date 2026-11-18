@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/tarkington-booth/the-beautiful-lady/chapter-06.html"
+url: "/authors/tarkington-booth/the-beautiful-lady/chapter-06.html"
 ---
 
 How can I tell of the lady of the pongee—now that I beheld her? Do you think that, when she came that night to the salon where we were awaiting her, I hesitated to lift my eyes to her face because of a fear that it would not be so beautiful as the misty sweet face I had dreamed would be hers? Ah, no! It was the beauty which was in her heart that had made me hers; yet I knew that she was beautiful. She was fair, that is all I can tell. I cannot tell of her eyes, her height, her mouth; I saw her through those clouds of the dust of gold—she was all glamour and light. It was to be seen that everyone fell in love with her at once; that the chef d'orchestre came and played to her; and the waiters—you should have observed them!—made silly, tender faces through the great groves of flowers with which Poor Jr. had covered the table. It was most difficult for me to address her, to call her "Miss Landry." It seemed impossible that she should have a name, or that I should speak to her except as "you."

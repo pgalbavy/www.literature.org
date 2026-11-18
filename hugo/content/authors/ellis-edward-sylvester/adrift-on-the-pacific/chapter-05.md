@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The New Passenger"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-05.html"
 ---
 
 Captain Strathmore rewarded Abe Storms liberally for the service he had rendered them, and the mate and captain of the schooner, as we have said, were rowed back to the boat by Hyde Brazzier.

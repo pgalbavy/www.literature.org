@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - New Peril"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-13.html"
 ---
 
 With the hostile Iroquois on both sides the Susquehanna, and the awkward scow near the shore, it will be seen that the situation of the fugitives, striving to reach the protection of Wilkesbarre, was not of an encouraging nature. The Mohawk was confident that he had read the meaning of the waving torch aright, and that if he expected to reach the shore immediately behind him, it must be done at once.

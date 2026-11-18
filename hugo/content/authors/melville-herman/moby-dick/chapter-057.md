@@ -1,8 +1,7 @@
 ---
 title: "Chapter 57 - Of Whales in Paint; in Teeth; in Wood; in Sheet-Iron; in Stone; in Mountains; in Stars"
 weight: 57
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-057.html"
+url: "/authors/melville-herman/moby-dick/chapter-057.html"
 ---
 
 On Tower-hill, as you go down to the London docks, you may have seen a crippled beggar (or kedger, as the sailors say) holding a painted board before him, representing the tragic scene in which he lost his leg. There are three whales and three boats; and one of the boats (presumed to contain the missing leg in all its original integrity) is being crunched by the jaws of the foremost whale. Any time these ten years, they tell me, has that man held up that picture, and exhibited that stump to an incredulous world. But the time of his justification has now come. His three whales are as good whales as were ever published in Wapping, at any rate; and his stump as unquestionable a stump as any you will find in the western clearings. But, though for ever mounted on that stump, never a stump-speech does the poor whaleman make; but, with downcast eyes, stands ruefully contemplating his own amputation.

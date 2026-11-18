@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/baum-l-frank/glinda-of-oz/chapter-03.html"
+url: "/authors/baum-l-frank/glinda-of-oz/chapter-03.html"
 ---
 
 From the top of the hill Ozma and Dorothy looked down into the valley beyond and were surprised to find it filled with a floating mist that was as dense as smoke. Nothing in the valley was visible except these rolling waves of mist, but beyond, on the other side, rose a grassy hill that appeared quite beautiful.

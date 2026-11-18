@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 7"
 weight: 164
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-07.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-07.html"
 ---
 
 Levin came back to the house only when they sent to summon him to supper. On the stairs were standing Kitty and Agafea Mihalovna, consulting about wines for supper.

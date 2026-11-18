@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 11 - Of The Strange Adventure Which The Valiant Don Quixote Had With The Car Or Cart Of \"The Cortes Of Death\""
 weight: 67
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-11.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-11.html"
 ---
 
 Dejected beyond measure did Don Quixote pursue his journey, turning over in his mind the cruel trick the enchanters had played him in changing his lady Dulcinea into the vile shape of the village lass, nor could he think of any way of restoring her to her original form; and these reflections so absorbed him, that without being aware of it he let go Rocinante’s bridle, and he, perceiving the liberty that was granted him, stopped at every step to crop the fresh grass with which the plain abounded.

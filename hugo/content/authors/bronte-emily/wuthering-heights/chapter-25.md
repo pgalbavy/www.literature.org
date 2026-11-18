@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-25.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-25.html"
 ---
 
 'THESE things happened last winter, sir,' said Mrs. Dean; 'hardly more than a year ago. Last winter, I did not think, at another twelve months' end, I should be amusing a stranger to the family with relating them! Yet, who knows how long you'll be a stranger? You're too young to rest always contented, living by yourself; and I some way fancy no one could see Catherine Linton and not love her. You smile; but why do you look so lively and interested when I talk about her? and why have you asked me to hang her picture over your fireplace? and why - ?'

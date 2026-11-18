@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - A Talk With Mr. Meadow Mouse"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-18.html"
 ---
 
 THE next time she saw Mr. Meadow Mouse Mrs. Robin gave him Grandfather Mole's message. "He says," said she, "he'd like to have a talk with you."

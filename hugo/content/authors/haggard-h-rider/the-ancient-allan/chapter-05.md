@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Wager"
 weight: 5
-aliases:
-  - "/authors/haggard-h-rider/the-ancient-allan/chapter-05.html"
+url: "/authors/haggard-h-rider/the-ancient-allan/chapter-05.html"
 ---
 
 While the scribes were at their work I bowed before the King and prayed his leave and I and the dwarf Bes might get to ours.

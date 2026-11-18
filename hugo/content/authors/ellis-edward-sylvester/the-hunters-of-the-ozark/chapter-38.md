@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - Conclusion"
 weight: 38
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-38.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-38.html"
 ---
 
 The awaking of the boys was of the most pleasant character. The sky had cleared and the sunlight penetrated between the branches from which the autumn leaves were fast falling. The crispness which is felt at that season of the year, stirred the young hearts and enlivened the spirits in spite of the serious situation in which all three found themselves.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 20
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-19.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-19.html"
 ---
 
 Twenty Second: Night. - What have I done? and what will be the end of it? I cannot calmly reflect upon it; I cannot sleep. I must have recourse to my diary again; I will commit it to paper to- night, and see what I shall think of it to-morrow.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Elizabeth Is Thankful"
 weight: 6
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-05.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-05.html"
 ---
 
 Geoffrey, lying before the fire, newly hatched from death, had caught some of the conversation between his wife and the assistant who had recovered him to life. So she was gone, that brave, beautiful atheist girl--gone to test the truth. And she had saved his life!

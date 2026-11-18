@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - Lady Doris"
 weight: 30
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-30.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-30.html"
 ---
 
 The arrival of Miss Ladd, some time before she had been expected, interrupted the two girls at a critical moment. She had hurried over her business in London, eager to pass the rest of the day with her favorite pupil. Emily's affectionate welcome was, in some degree at least, inspired by a sensation of relief. To feel herself in the embrace of the warm-hearted schoolmistress was like finding a refuge from Francine.

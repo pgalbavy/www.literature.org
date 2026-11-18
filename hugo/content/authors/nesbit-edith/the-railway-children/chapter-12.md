@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - What Bobbie Brought Home"
 weight: 12
-aliases:
-  - "/authors/nesbit-edith/the-railway-children/chapter-12.html"
+url: "/authors/nesbit-edith/the-railway-children/chapter-12.html"
 ---
 
 "Oh, look up! Speak to me! For MY sake, speak!" The children said the words over and over again to the unconscious hound in a red jersey, who sat with closed eyes and pale face against the side of the tunnel.

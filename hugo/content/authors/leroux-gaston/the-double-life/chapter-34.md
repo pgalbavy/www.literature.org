@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - M. Mifroid Performs On The Stage"
 weight: 35
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-34.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-34.html"
 ---
 
 *ONE* would never have expected to drop from one of the numberless ways in the catacombs into a city of twenty thousand inhabitants. However, upon reflection, one would wonder why men, taken out of their natural environment, would not be susceptible to the same natural changes as the animals.

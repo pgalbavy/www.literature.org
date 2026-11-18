@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-08.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-08.html"
 ---
 
 ON the morning of a fine June day my first bonny little nursling, and the last of the ancient Earnshaw stock, was born. We were busy with the hay in a far-away field, when the girl that usually brought our breakfasts came running an hour too soon across the meadow and up the lane, calling me as she ran.

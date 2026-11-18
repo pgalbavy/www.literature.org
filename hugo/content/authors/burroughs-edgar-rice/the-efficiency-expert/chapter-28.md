@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - The Verdict"
 weight: 28
-aliases:
-  - "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-28.html"
+url: "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-28.html"
 ---
 
 For a moment there was tense silence in the court-room which was broken by the defense's perfunctory "Take the witness" to the prosecuting attorney, but again cross-examination was waived.

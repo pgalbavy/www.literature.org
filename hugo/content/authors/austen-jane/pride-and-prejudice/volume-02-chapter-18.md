@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 18"
 weight: 41
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-18.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-18.html"
 ---
 
 The first week of their return was soon gone. The second began. It was the last of the regiment's stay in Meryton, and all the young ladies in the neighbourhood were drooping apace. The dejection was almost universal. The elder Miss Bennets alone were still able to eat, drink, and sleep, and pursue the usual course of their employments. Very frequently were they reproached for this insensibility by Kitty and Lydia, whose own misery was extreme, and who could not comprehend such hard-heartedness in any of the family.

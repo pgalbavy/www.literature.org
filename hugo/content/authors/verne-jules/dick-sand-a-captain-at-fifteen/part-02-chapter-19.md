@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 19 - S. V."
 weight: 37
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-19.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-19.html"
 ---
 
 With a vigorous plow of the oar, Hercules had pushed toward the left bank. Besides, the current was not more rapid in that place, and the bed of the river kept its normal declivity to the falls. As has been said, it was the sudden sinking of the ground, and the attraction was only felt three or four hundred feet above the cataract.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/ridge-w-pett/a-son-of-the-state/chapter-13.html"
+url: "/authors/ridge-w-pett/a-son-of-the-state/chapter-13.html"
 ---
 
 ROSES at Collingwood upon his return; and thorns. Thorns supplied, not by the foster-father or the foster-mother, but by the boys, who, once they had extracted full particulars of Bobbie’s adventure, made from these facts ammunition for gay badinage that, well aimed, gave them great content. In school, the game was played furtively. A slip of paper would be passed along the forms of the fourth standard class bearing the inquiry of a seeker after knowledge, “Who pinched the cornet?” this would be varied by rough sketches executed by Master Nutler of a lad running, with the words underneath, “Hold him!” When Bobbie strolled out of school at dinner time there would come an affected cry of alarm, “He’s off again!” Robert Lancaster took all of this with stolidity and in a manner differing from that which he would have exhibited a month previously. It seemed that the failure of his expedition had tamed him; certainly his stay in the hospital and at the convalescent home had given him reticence. He applied himself to his lessons. After a few weeks the other boys declined to be led any longer by Master Nutler, because there seemed little sport in rallying a man who showed no signs of annoyance, and Bobbie Lancaster presently found—excepting for an occasional reminder—that the Brenchley escapade had gone out of memory. Miss Nutler on one of the rare occasions when they met, expressed her regret at the consequences of their disagreement, hinting that, so far as she was concerned, the past could be shut out from memory.

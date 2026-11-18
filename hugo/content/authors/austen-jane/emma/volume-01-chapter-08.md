@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 8"
 weight: 8
-aliases:
-  - "/authors/austen-jane/emma/volume-01-chapter-08.html"
+url: "/authors/austen-jane/emma/volume-01-chapter-08.html"
 ---
 
 Harriet slept at Hartfield that night. For some weeks past she had been spending more than half her time there, and gradually getting to have a bed-room appropriated to herself; and Emma judged it best in every respect, safest and kindest, to keep her with them as much as possible just at present. She was obliged to go the next morning for an hour or two to Mrs. Goddard's, but it was then to be settled that she should return to Hartfield, to make a regular visit of some days.

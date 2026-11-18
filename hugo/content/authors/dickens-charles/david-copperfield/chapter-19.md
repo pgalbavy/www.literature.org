@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - I Look About Me, And Make A Discovery"
 weight: 20
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-19.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-19.html"
 ---
 
 I am doubtful whether I was at heart glad or sorry, when my school-days drew to an end, and the time came for my leaving Doctor Strong’s. I had been very happy there, I had a great attachment for the Doctor, and I was eminent and distinguished in that little world. For these reasons I was sorry to go; but for other reasons, unsubstantial enough, I was glad. Misty ideas of being a young man at my own disposal, of the importance attaching to a young man at his own disposal, of the wonderful things to be seen and done by that magnificent animal, and the wonderful effects he could not fail to make upon society, lured me away. So powerful were these visionary considerations in my boyish mind, that I seem, according to my present way of thinking, to have left school without natural regret. The separation has not made the impression on me, that other separations have. I try in vain to recall how I felt about it, and what its circumstances were; but it is not momentous in my recollection. I suppose the opening prospect confused me. I know that my juvenile experiences went for little or nothing then; and that life was more like a great fairy story, which I was just about to begin to read, than anything else.

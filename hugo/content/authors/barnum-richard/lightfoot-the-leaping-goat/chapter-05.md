@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Lightfoot In The Park"
 weight: 5
-aliases:
-  - "/authors/barnum-richard/lightfoot-the-leaping-goat/chapter-05.html"
+url: "/authors/barnum-richard/lightfoot-the-leaping-goat/chapter-05.html"
 ---
 
 Lightfoot, the leaping goat, who was cropping the sweet grass on top of the rocks from which he had once made his great jump, looked down in the yard near the shanty and saw his master Mike busy over something new.

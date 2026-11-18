@@ -1,8 +1,7 @@
 ---
 title: "Chapter 46 - The Appointment Kept"
 weight: 46
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-46.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-46.html"
 ---
 
 The church clocks chimed three quarters past eleven, as two figures emerged on London Bridge. One, which advanced with a swift and rapid step, was that of a woman who looked eagerly about her as though in quest of some expected object; the other figure was that of a man, who slunk along in the deepest shadow he could find, and, at some distance, accommodated his pace to hers: stopping when she stopped: and as she moved again, creeping stealthily on: but never allowing himself, in the ardour of his pursuit, to gain upon her footsteps. Thus, they crossed the bridge, from the Middlesex to the Surrey shore, when the woman, apparently disappointed in her anxious scrutiny of the foot-passengers, turned back. The movement was sudden; but he who watched her, was not thrown off his guard by it; for, shrinking into one of the recesses which surmount the piers of the bridge, and leaning over the parapet the better to conceal his figure, he suffered her to pass on the opposite pavement. When she was about the same distance in advance as she had been before, he slipped quietly down, and followed her again. At nearly the centre of the bridge, she stopped. The man stopped too.

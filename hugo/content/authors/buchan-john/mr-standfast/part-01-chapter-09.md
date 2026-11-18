@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 9 - I Take The Wings Of A Dove"
 weight: 9
-aliases:
-  - "/authors/buchan-john/mr-standfast/part-01-chapter-09.html"
+url: "/authors/buchan-john/mr-standfast/part-01-chapter-09.html"
 ---
 
 "Drive me somewhere to breakfast, Archie," I said, "for I’m perishing hungry."

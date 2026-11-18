@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 12 - The Sweat Of An Honest Man’s Brow"
 weight: 12
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-01-chapter-12.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-01-chapter-12.html"
 ---
 
 Mr Mortimer Lightwood and Mr Eugene Wrayburn took a coffee-house dinner together in Mr Lightwood’s office. They had newly agreed to set up a joint establishment together. They had taken a bachelor cottage near Hampton, on the brink of the Thames, with a lawn, and a boat-house; and all things fitting, and were to float with the stream through the summer and the Long Vacation.

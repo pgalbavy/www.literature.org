@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Obstacle Beats Me"
 weight: 16
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-15.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-15.html"
 ---
 
 HOW long was I left alone in the carriage at the door of Mrs. Van Brandt's lodgings? Judging by my sensations, I waited half a life-time. Judging by my watch, I waited half an hour.

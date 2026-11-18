@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Looting of Zodanga"
 weight: 25
-aliases:
-  - "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-25.html"
+url: "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-25.html"
 ---
 
 As the great gate where I stood swung open my fifty Tharks, headed by Tars Tarkas himself, rode in upon their mighty thoats. I led them to the palace walls, which I negotiated easily without assistance. Once inside, however, the gate gave me considerable trouble, but I finally was rewarded by seeing it swing upon its huge hinges, and soon my fierce escort was riding across the gardens of the jeddak of Zodanga.

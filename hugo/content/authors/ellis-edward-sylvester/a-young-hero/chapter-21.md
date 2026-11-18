@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - How It Was Done"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/a-young-hero/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/a-young-hero/chapter-21.html"
 ---
 
 As was intimated at the close of the preceding chapter, the individual who has figured thus far as Cyrus Sutton, interested in the cattle business, was in reality James Carter, the well-known detective of the metropolis.

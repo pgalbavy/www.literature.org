@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-30.html"
+url: "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-30.html"
 ---
 
 Before the mountain roads were mired with the coming of the rains, and while the air held its sparkle of autumnal zestfulness, Samson South wrote to Wilfred Horton that, if he still meant to come to the hills for his inspection of coal and timber, the time was ripe. Soon, men would appear bearing transit and chain, drawing a line which a railroad was to follow to Misery and across it to the heart of untouched forests and coal-fields. With that wave of innovation would come the speculators. Besides, Samson's fingers were itching to be out in the hills with a palette and a sheaf of brushes in the society of George Lescott.

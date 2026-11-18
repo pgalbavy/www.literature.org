@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Different Opinions"
 weight: 4
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-04.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-04.html"
 ---
 
 One evening at sunset, Jane Andrews, Gilbert Blythe, and Anne Shirley were lingering by a fence in the shadow of gently swaying spruce boughs, where a wood cut known as the Birch Path joined the main road. Jane had been up to spend the afternoon with Anne, who walked part of the way home with her; at the fence they met Gilbert, and all three were now talking about the fateful morrow; for that morrow was the first of September and the schools would open. Jane would go to Newbridge and Gilbert to White Sands.

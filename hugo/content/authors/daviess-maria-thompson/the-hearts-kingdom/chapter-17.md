@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Pageant"
 weight: 17
-aliases:
-  - "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-17.html"
+url: "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-17.html"
 ---
 
 "We were just saying, Charlotte dear, that this absurd school affair has completely overshadowed your wedding day," said Mrs. Cockrell, as she rocked back and forth in tune with her Irish point rose she was constructing. "It seems to me a wedding ought to come before a school festivity."

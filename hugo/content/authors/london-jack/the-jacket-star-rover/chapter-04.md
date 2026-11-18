@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/london-jack/the-jacket-star-rover/chapter-04.html"
+url: "/authors/london-jack/the-jacket-star-rover/chapter-04.html"
 ---
 
 In the meanwhile obtained the horror of the dungeons, after the discovery of the plot to break prison. And never, during those eternal hours of waiting, was it absent from my consciousness that I should follow these other convicts out, endure the hells of inquisition they endured, and be brought back a wreck and flung on the stone floor of my stone-walled, iron-doored dungeon.

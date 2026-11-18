@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - A Great Ball"
 weight: 32
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-32.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-32.html"
 ---
 
 A certain great ball, given yearly at Dunholm Castle, was one of the most notable social features of the county. It took place when the house was full of its most interestingly distinguished guests, and, though other balls might be given at other times, this one was marked by a degree of greater state. On several occasions the chief guests had been great personages indeed, and to be bidden to meet them implied a selection flattering in itself. One's invitation must convey by inference that one was either brilliant, beautiful, or admirable, if not important.

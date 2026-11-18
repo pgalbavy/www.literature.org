@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-15.html"
+url: "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-15.html"
 ---
 
 Many servants dressed in handsome uniforms stood ready to welcome the new arrivals, and when the Wizard got out of the buggy a pretty girl in a green gown cried out in surprise:

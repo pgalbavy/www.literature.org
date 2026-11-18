@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - The Flank Movement"
 weight: 34
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-34.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-34.html"
 ---
 
 It was singular that the youngest member of the cattlemen should make an important discovery, which not only escaped them, but, as subsequent events proved, was not noticed, or at least did not receive due attention from the Comanches themselves.

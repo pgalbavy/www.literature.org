@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Duke Stays"
 weight: 18
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin/chapter-18.html"
+url: "/authors/leblanc-maurice/arsene-lupin/chapter-18.html"
 ---
 
 The Duke shut the door and leant against it, listening anxiously, breathing quickly. There came the bang of the front door. With a deep sigh of relief he left the door, came briskly, smiling, across the room, and put the card-case back into the pocket of Guerchard's cloak. He lighted a cigarette, dropped into an easy chair, and sat waiting with an entirely careless air for the detective's return. Presently he heard quick footsteps on the bare boards of the empty room beyond the opening. Then Guerchard came down the steps and out of the fireplace.

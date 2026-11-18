@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Of The Severall Subjects Of Knowledge"
 weight: 11
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-09.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-09.html"
 ---
 
 There are of KNOWLEDGE two kinds; whereof one is Knowledge Of Fact: the other Knowledge Of The Consequence Of One Affirmation To Another. The former is nothing else, but Sense and Memory, and is Absolute Knowledge; as when we see a Fact doing, or remember it done: And this is the Knowledge required in a Witnesse. The later is called Science; and is Conditionall; as when we know, that, If The Figure Showne Be A Circle, Then Any Straight Line Through The Centre Shall Divide It Into Two Equall Parts. And this is the Knowledge required in a Philosopher; that is to say, of him that pretends to Reasoning.

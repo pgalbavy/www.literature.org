@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - The Truth At Last"
 weight: 38
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-36.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-36.html"
 ---
 
 Two days after the marriage--on Wednesday, the ninth of September a packet of letters, received at Windygates, was forwarded by Lady Lundie's steward to Ham Farm.

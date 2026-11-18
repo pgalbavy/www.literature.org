@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/crane-stephen/the-red-badge-of-courage/chapter-15.html"
+url: "/authors/crane-stephen/the-red-badge-of-courage/chapter-15.html"
 ---
 
 THE regiment was standing at order arms at the side of a lane, waiting for the command to march, when suddenly the youth remembered the little packet enwrapped in a faded yellow envelope which the loud young soldier with lugu- brious words had intrusted to him. It made him start. He uttered an exclamation and turned toward his comrade.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - A Figure In The Darkness"
 weight: 30
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-30.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-30.html"
 ---
 
 *FOR* the first time since joining the Texans in the pursuit of Bell Rickard and his captive, Herbert Watrous found himself entirely alone. He was lying on his face in the grass, at the top of the elevation, peering out in the night, and watching and listening for signs of friends and enemies.

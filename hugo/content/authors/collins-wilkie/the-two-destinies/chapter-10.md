@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Saint Anthony's Well"
 weight: 11
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-10.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-10.html"
 ---
 
 I STOOD on the rocky eminence in front of the ruins of Saint Anthony's Chapel, and looked on the magnificent view of Edinburgh and of the old Palace of Holyrood, bathed in the light of the full moon.

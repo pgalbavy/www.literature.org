@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/stoker-bram/lair-of-the-white-worm/chapter-22.html"
+url: "/authors/stoker-bram/lair-of-the-white-worm/chapter-22.html"
 ---
 
 "She has diabolical cunning," said Sir Nathaniel. "Ever since you left, she has ranged along the Brow and wherever you were accustomed to frequent. I have not heard whence the knowledge of your movements came to her, nor have I been able to learn any data whereon to found an opinion. She seems to have heard both of your marriage and your absence; but I gather, by inference, that she does not actually know where you and Mimi are, or of your return. So soon as the dusk fails, she goes out on her rounds, and before dawn covers the whole ground round the Brow, and away up into the heart of the Peak. The White Worm, in her own proper shape, certainly has great facilities for the business on which she is now engaged. She can look into windows of any ordinary kind. Happily, this house is beyond her reach, if she wishes--as she manifestly does--to remain unrecognised. But, even at this height, it is wise to show no lights, lest she might learn something of our presence or absence."

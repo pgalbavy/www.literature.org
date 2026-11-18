@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Missing"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-14.html"
 ---
 
 The minute quickly arrived when Jack Dudley could no longer doubt that a great misfortune had befallen his comrade, Fred Greenwood.

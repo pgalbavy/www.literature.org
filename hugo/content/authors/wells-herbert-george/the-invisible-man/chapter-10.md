@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Mr. Marvel's Visit to Iping"
 weight: 10
-aliases:
-  - "/authors/wells-herbert-george/the-invisible-man/chapter-10.html"
+url: "/authors/wells-herbert-george/the-invisible-man/chapter-10.html"
 ---
 
 After the first gusty panic had spent itself Iping became argumentative. Scepticism suddenly reared its head--rather nervous scepticism, not at all assured of its back, but scepticism neverthe- less. It is so much easier not to believe in an invisible man; and those who had actually seen him dissolve into air, or felt the strength of his arm, could be counted on the fingers of two hands. And of these witnesses Mr. Wadgers was presently missing, having retired impregnably behind the bolts and bars of his own house, and Jaffers was lying stunned in the parlour of the Coach and Horses. Great and strange ideas transcending experience often have less effect upon men and women than smaller, more tangible considerations. Iping was gay with bunting, and everybody was in gala dress. Whit-Monday had been looked forward to for a month or more. By the afternoon even those who believed in the Unseen were beginning to resume their little amusements in a tentative fashion, on the supposition that he had quite gone away, and with the sceptics he was already a jest. But people, sceptics and believers alike, were remarkably sociable all that day.

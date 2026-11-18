@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Adventure Of \"The Western Star\""
 weight: 1
-aliases:
-  - "/authors/christie-agatha/poirot-investigates/chapter-01.html"
+url: "/authors/christie-agatha/poirot-investigates/chapter-01.html"
 ---
 
 I was standing at the window of Poirot’s rooms looking out idly on the street below.

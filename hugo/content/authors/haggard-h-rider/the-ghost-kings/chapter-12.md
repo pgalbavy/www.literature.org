@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Rachel Sees A Vision"
 weight: 13
-aliases:
-  - "/authors/haggard-h-rider/the-ghost-kings/chapter-12.html"
+url: "/authors/haggard-h-rider/the-ghost-kings/chapter-12.html"
 ---
 
 That evening Ishmael was brought before the King. He was in evil case, for the captains, some of whom had grudges against him, when he tried to break away from them outside the gate, had beaten him with their spear shafts nearly all the way from the kraal to the Great Place, remarking that he fought and remonstrated, that the Inkosazana had forbidden them to kill him, but had said nothing as to giving him the flogging which he deserved. His clothes were torn, his hat and pipe were lost--indeed hours before Noie had thrown both of them into the fire--his eyes were black from the blow of a heavy stick and he was bruised all over.

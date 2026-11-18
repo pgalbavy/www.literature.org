@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - The Night Watch"
 weight: 39
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-37.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-37.html"
 ---
 
 "You may do as you please, but I'm going to see it out."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Great Disappointment"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-05.html"
 ---
 
 After Farmer Green came so near shooting him, Mr. Crow lost his taste for corn for a whole year. He was afraid it would never come back to him. And he worried so much that he grew quite thin and his feathers began to look rusty. His friends were somewhat alarmed about his health, many of them saying that if they were in Mr. Crow's place they would be careful.

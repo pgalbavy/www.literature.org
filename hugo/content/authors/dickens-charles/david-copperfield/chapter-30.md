@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - A Loss"
 weight: 31
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-30.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-30.html"
 ---
 
 I got down to Yarmouth in the evening, and went to the inn. I knew that Peggotty’s spare room--my room--was likely to have occupation enough in a little while, if that great Visitor, before whose presence all the living must give place, were not already in the house; so I betook myself to the inn, and dined there, and engaged my bed.

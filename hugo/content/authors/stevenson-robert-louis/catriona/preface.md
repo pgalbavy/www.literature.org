@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/preface.html"
+url: "/authors/stevenson-robert-louis/catriona/preface.html"
 ---
 
 *DEDICATION*.

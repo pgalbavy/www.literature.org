@@ -1,8 +1,7 @@
 ---
 title: "Chapter 47 - Fatal Consequences"
 weight: 47
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-47.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-47.html"
 ---
 
 It was nearly two hours before day-break; that time which in the autumn of the year, may be truly called the dead of night; when the streets are silent and deserted; when even sounds appear to slumber, and profligacy and riot have staggered home to dream; it was at this still and silent hour, that Fagin sat watching in his old lair, with face so distorted and pale, and eyes so red and blood-shot, that he looked less like a man, than like some hideous phantom, moist from the grave, and worried by an evil spirit.

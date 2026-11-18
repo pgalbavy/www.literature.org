@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Tabitha Adopts Her New Name"
 weight: 3
-aliases:
-  - "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-03.html"
+url: "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-03.html"
 ---
 
 "What's your name?"

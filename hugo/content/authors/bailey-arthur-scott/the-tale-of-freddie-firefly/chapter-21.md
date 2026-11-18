@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - All About Trains"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-21.html"
 ---
 
 "What do you mean?" Freddie Firefly asked little Mrs. Ladybug. "What accident could happen if the wind blew out my light?" And he laughed very hard, because he knew that no gale was strong enough even to dim his greenish-white gleams.

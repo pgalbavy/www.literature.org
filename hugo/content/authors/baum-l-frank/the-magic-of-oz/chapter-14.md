@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/baum-l-frank/the-magic-of-oz/chapter-14.html"
+url: "/authors/baum-l-frank/the-magic-of-oz/chapter-14.html"
 ---
 
 Now, the Goose was the transformation of old Ruggedo, who was at one time King of the Nomes, and he was even more angry at Kiki Aru than were the others who shapes had been changed. The Nome detested anything in the way of a bird, because birds lay eggs and eggs are feared by all the Nomes more than anything else in the world. A goose is a foolish bird, too, and Ruggedo was dreadfully ashamed of the shape he was forced to wear. And it would make him shudder to reflect that the Goose might lay an egg!

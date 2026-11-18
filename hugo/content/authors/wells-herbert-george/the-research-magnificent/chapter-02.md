@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Young Man About Town"
 weight: 3
-aliases:
-  - "/authors/wells-herbert-george/the-research-magnificent/chapter-02.html"
+url: "/authors/wells-herbert-george/the-research-magnificent/chapter-02.html"
 ---
 
 1

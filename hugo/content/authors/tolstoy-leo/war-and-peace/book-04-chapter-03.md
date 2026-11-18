@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 3"
 weight: 71
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-04-chapter-03.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-04-chapter-03.html"
 ---
 
 On that third of March, all the rooms in the English Club were filled with a hum of conversation, like the hum of bees swarming in springtime. The members and guests of the Club wandered hither and thither, sat, stood, met, and separated, some in uniform and some in evening dress, and a few here and there with powdered hair and in Russian kaftans. Powdered footmen, in livery with buckled shoes and smart stockings, stood at every door anxiously noting visitors' every movement in order to offer their services. Most of those present were elderly, respected men with broad, self-confident faces, fat fingers, and resolute gestures and voices. This class of guests and members sat in certain habitual places and met in certain habitual groups. A minority of those present were casual guests- chiefly young men, among whom were Denisov, Rostov, and Dolokhov- who was now again an officer in the Semenov regiment. The faces of these young people, especially those who were militarymen, bore that expression of condescending respect for their elders which seems to say to the older generation, "We are prepared to respect and honor you, but all the same remember that the future belongs to us."

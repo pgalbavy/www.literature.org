@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Master Landsell'S Son"
 weight: 22
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-22.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-22.html"
 ---
 
 “I dunnot know what to mak' on her,” Joan said to Anice, speaking of Liz. “Sometimes she is i' sich sperrits that she's fairly flighty, an' then agen, she's aw fretted an' crossed with ivvery-thing. Th' choild seems to worrit her to death.”

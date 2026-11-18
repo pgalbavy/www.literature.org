@@ -1,8 +1,7 @@
 ---
 title: "Chapter 52 - I Assist At An Explosion"
 weight: 53
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-52.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-52.html"
 ---
 
 When the time Mr. Micawber had appointed so mysteriously, was within four-and-twenty hours of being come, my aunt and I consulted how we should proceed; for my aunt was very unwilling to leave Dora. Ah! how easily I carried Dora up and down stairs, now!

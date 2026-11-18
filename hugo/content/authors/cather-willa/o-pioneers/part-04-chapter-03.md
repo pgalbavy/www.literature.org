@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 3"
 weight: 22
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-04-chapter-03.html"
+url: "/authors/cather-willa/o-pioneers/part-04-chapter-03.html"
 ---
 
 One evening, a week after Signa's wedding, Emil was kneeling before a box in the sitting-room, packing his books. From time to time he rose and wandered about the house, picking up stray volumes and bringing them listlessly back to his box. He was packing without enthusiasm. He was not very sanguine about his future. Alexandra sat sewing by the table. She had helped him pack his trunk in the afternoon. As Emil came and went by her chair with his books, he thought to himself that it had not been so hard to leave his sister since he first went away to school. He was going directly to Omaha, to read law in the office of a Swedish lawyer until October, when he would enter the law school at Ann Arbor. They had planned that Alexandra was to come to Michigan--a long journey for her--at Christmas time, and spend several weeks with him. Nevertheless, he felt that this leave-taking would be more final than his earlier ones had been; that it meant a definite break with his old home and the beginning of something new--he did not know what. His ideas about the future would not crystallize; the more he tried to think about it, the vaguer his conception of it became. But one thing was clear, he told himself; it was high time that he made good to Alexandra, and that ought to be incentive enough to begin with.

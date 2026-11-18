@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-15.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-15.html"
 ---
 
 *HIS* humour was misplaced, and both of them would have been nothing less than dismayed could they have foreseen in what manner he was destined to misplace it again, and to what damage; for not gossip, nor scandal, nor slander’s very self can leave a trail more ruinous than may a merry bit of drollery misplaced. The occasion of the catastrophe was not immediate, however; it befell a month later, when the Oliphants made a celebration to mark the arrival of the baby and the completed recovery of the baby’s mother. Mrs. Oliphant gave a "family dinner."

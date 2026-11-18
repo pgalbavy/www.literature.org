@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - In The Attic"
 weight: 9
-aliases:
-  - "/authors/hodgson-burnett-frances/a-little-princess/chapter-08.html"
+url: "/authors/hodgson-burnett-frances/a-little-princess/chapter-08.html"
 ---
 
 The first night she spent in her attic was a thing Sara never forgot. During its passing, she lived through a wild, unchildlike woe of which she never spoke to any one about her. There was no one who would have understood. It was, indeed, well for her that as she lay awake in the darkness her mind was forcibly distracted, now and then, by the strangeness of her surroundings. It was, perhaps, well for her that she was reminded by her small body of material things. If this had not been so, the anguish of her young mind might have been too great for a child to bear. But, really, while the night was passing she scarcely knew that she had a body at all or remembered any other thing than one.

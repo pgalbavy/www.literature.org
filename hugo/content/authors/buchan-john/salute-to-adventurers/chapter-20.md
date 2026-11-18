@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Stockade Among The Pines"
 weight: 21
-aliases:
-  - "/authors/buchan-john/salute-to-adventurers/chapter-20.html"
+url: "/authors/buchan-john/salute-to-adventurers/chapter-20.html"
 ---
 
 It took us a heavy day's work to get the stockade finished. There were only the two axes in the party, besides Shalah's tomahawk, and no one can know the labour of felling and trimming trees tin he has tried it. We found the horses useful for dragging trunks, and but for them should have made a poor job of it. Grey's white hands were all cut and blistered, and, though I boasted of my hardiness, mine were little better. Ringan was the surprise, for you would not think that sailing a ship was a good apprenticeship to forestry. But he was as skilful as Bertrand and as strong as Donaldson, and he had a better idea of fortification than us all put together.

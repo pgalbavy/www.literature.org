@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - The Turnip"
 weight: 36
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-36.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-36.html"
 ---
 
 There were two brothers who were both soldiers; the one was rich and the other poor. The poor man thought he would try to better himself; so, pulling off his red coat, he became a gardener, and dug his ground well, and sowed turnips.

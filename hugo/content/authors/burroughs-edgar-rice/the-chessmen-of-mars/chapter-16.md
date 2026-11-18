@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 17
-aliases:
-  - "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-16.html"
+url: "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-16.html"
 ---
 
 TURAN dashed himself against the door of his prison in a vain effort to break through the solid skeel to the side of Tara whom he knew to be in grave danger, but the heavy panels held and he succeeded only in bruising his shoulders and his arms. At last he desisted and set about searching his prison for some other means of escape. He found no other opening in the stone walls, but his search revealed a heterogeneous collection of odds and ends of arms and apparel, of harness and ornaments and insignia, and sleeping silks and furs in great quantities. There were swords and spears and several large, two-bladed battle-axes, the heads of which bore a striking resemblance to the propellor of a small flier. Seizing one of these he attacked the door once more with great fury. He expected to hear something from I-Gos at this ruthless destruction, but no sound came to him from beyond the door, which was, he thought, too thick for the human voice to penetrate; but he would have wagered much that I-Gos heard him. Bits of the hard wood splintered at each impact of the heavy axe, but it was slow work and heavy. Presently he was compelled to rest, and so it went for what seemed hours--working almost to the verge of exhaustion and then resting for a few minutes; but ever the hole grew larger though he could see nothing of the interior of the room beyond because of the hanging that I-Gos had drawn across it after he had locked Turan within.

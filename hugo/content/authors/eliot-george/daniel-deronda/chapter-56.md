@@ -1,8 +1,7 @@
 ---
 title: "Chapter 56"
 weight: 56
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-56.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-56.html"
 ---
 
 "The pang, the curse with which they died, Had never passed away: I could not draw my eyes from theirs, Nor lift them up to pray." - COLERIDGE.

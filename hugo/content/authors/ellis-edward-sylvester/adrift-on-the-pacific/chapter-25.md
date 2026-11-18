@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - An Arrival"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-25.html"
 ---
 
 When Captain Bergen was inclined to become pessimistic, the mate treated it lightly, for he feared the strong sailor would break before long from sheer homesickness.

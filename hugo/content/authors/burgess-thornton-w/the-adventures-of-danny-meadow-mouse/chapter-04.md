@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Old Granny Fox Tries For Danny Meadow Mouse"
 weight: 4
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-04.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-04.html"
 ---
 
 *DANNY MEADOW MOUSE* had not enjoyed anything so much for a long time as he did that game of hide and seek. He tickled and chuckled all the afternoon as he thought about it. Of course Reddy had been "it." He had been "it" all the time, for never once had he caught Danny Meadow Mouse. If he had—well, there wouldn’t have been any more stories about Danny Meadow Mouse, because there wouldn’t have been any Danny Meadow Mouse any more.

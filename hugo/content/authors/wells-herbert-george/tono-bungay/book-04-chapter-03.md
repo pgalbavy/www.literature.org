@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 3 - Night And The Open Sea"
 weight: 14
-aliases:
-  - "/authors/wells-herbert-george/tono-bungay/book-04-chapter-03.html"
+url: "/authors/wells-herbert-george/tono-bungay/book-04-chapter-03.html"
 ---
 
 I

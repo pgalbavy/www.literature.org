@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 30"
 weight: 99
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-03-chapter-30.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-03-chapter-30.html"
 ---
 
 At the end of September the timber had been carted for building the cattle-yard on the land that had been allotted to the association of peasants, and the butter from the cows was sold and the profits divided. In practice the system worked capitally, or, at least, so it seemed to Levin. In order to work out the whole subject theoretically and to complete his book, which, in Levin's day-dreams, was not merely to effect a revolution in political economy, but to annihilate that science entirely and to lay the foundation of a new science of the relation of the people to the soil, all that was left to do was to make a tour abroad, and to study on the spot all that had been done in the same direction, and to collect conclusive evidence that all that had been done there was not what was wanted. Levin was only waiting for the delivery of his wheat to receive the money for it and go abroad. But the rains began, preventing the harvesting of the corn and potatoes left in the fields, and putting a stop to all work, even to the delivery of the wheat.

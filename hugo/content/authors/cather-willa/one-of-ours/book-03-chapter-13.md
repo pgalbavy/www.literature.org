@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 13"
 weight: 44
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-03-chapter-13.html"
+url: "/authors/cather-willa/one-of-ours/book-03-chapter-13.html"
 ---
 
 Sunday was Claude's last day at home, and he took a long walk with Ernest and Ralph. Ernest would have preferred to lose Ralph, but when the boy was out of the harvest field he stuck to his brother like a burr. There was something about Claude's new clothes and new manner that fascinated him, and he went through one of those sudden changes of feeling that often occur in families. Although they had been better friends ever since Claude's wedding, until now Ralph had always felt a little ashamed of him. Why, he used to ask himself, wouldn't Claude "spruce up and be somebody"? Now, he was struck by the fact that he was somebody.

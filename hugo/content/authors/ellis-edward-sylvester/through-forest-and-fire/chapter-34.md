@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - Calling In Vain"
 weight: 34
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-34.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-34.html"
 ---
 
 The distress of the brother and sister became greater every minute. They walked hurriedly along the bank of the creek, their path through the gloom illuminated now and then by the flashes of fire which shot through the strangling volumes of vapor. Nick, more than likely, would have gone astray but for his familiarity with the neighborhood.

@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 2"
 weight: 30
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-02-chapter-02.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-02-chapter-02.html"
 ---
 
 "He's coming!" shouted the signaler at that moment.

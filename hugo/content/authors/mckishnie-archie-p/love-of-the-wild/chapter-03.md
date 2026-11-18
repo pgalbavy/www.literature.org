@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Babes In The Wood"
 weight: 3
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-03.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-03.html"
 ---
 
 The father arose and hung the fiddle on its nail.

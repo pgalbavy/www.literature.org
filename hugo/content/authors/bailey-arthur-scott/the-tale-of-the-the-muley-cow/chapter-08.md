@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - It Was A Bear"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-08.html"
 ---
 
 When the bear rose out of the bushes and looked at him--and said "Woof!" too--Johnnie Green did not bellow as the Muley Cow had. But he turned and ran. Once he tripped on a root and fell headlong. But he was on his feet again in a jiffy and running faster than ever. And though he had only half as many legs as the Muley Cow, he reached the pasture fence not far behind her.

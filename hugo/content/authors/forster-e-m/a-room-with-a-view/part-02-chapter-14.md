@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 14 - How Lucy Faced The External Situation Bravely"
 weight: 14
-aliases:
-  - "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-14.html"
+url: "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-14.html"
 ---
 
 Of course Miss Bartlett accepted. And, equally of course, she felt sure that she would prove a nuisance, and begged to be given an inferior spare room--something with no view, anything. Her love to Lucy. And, equally of course, George Emerson could come to tennis on the Sunday week.

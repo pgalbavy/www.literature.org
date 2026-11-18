@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - My Advice, Ma'am"
 weight: 2
-aliases:
-  - "/authors/titus-harold/the-last-straw/chapter-02.html"
+url: "/authors/titus-harold/the-last-straw/chapter-02.html"
 ---
 
 He stood on a bearskin rug before the blazing fire, hat in hand, boots polished, tall and trim with his handsome head bowed just a trifle. The blazing logs gave the only light to the place and his bronzed face was burnished by their reflection.

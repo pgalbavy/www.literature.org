@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - A Mystery"
 weight: 23
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-23.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-23.html"
 ---
 
 As Snowball drew near the pasture bars he forgot about the blow on the head that the black ram had given him. The strange sights that greeted his eyes drove all unpleasant things out of his mind.

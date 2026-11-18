@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Insomnia"
 weight: 1
-aliases:
-  - "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-01.html"
+url: "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-01.html"
 ---
 
 One afternoon, at low water, Mr. Isbister, a young artist lodging at Boscastle, walked from that place to the picturesque cove of Pentargen, desiring to examine the caves there. Halfway down the precipitous path to the Pentargen beach he came suddenly upon a man sitting in an attitude of profound distress beneath a projecting mass of rock. The hands of this man hung limply over his knees, his eyes were red and staring before him, and his face was wet with tears.

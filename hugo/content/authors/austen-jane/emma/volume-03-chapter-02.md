@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 2"
 weight: 38
-aliases:
-  - "/authors/austen-jane/emma/volume-03-chapter-02.html"
+url: "/authors/austen-jane/emma/volume-03-chapter-02.html"
 ---
 
 No misfortune occurred, again to prevent the ball. The day approached, the day arrived; and after a morning of some anxious watching, Frank Churchill, in all the certainty of his own self, reached Randalls before dinner, and every thing was safe.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/ridge-w-pett/love-at-paddington/chapter-04.html"
+url: "/authors/ridge-w-pett/love-at-paddington/chapter-04.html"
 ---
 
 Madame Hilbert and the forewoman in Great Titchfield Street consulted each other only when crises occurred; the girls knew that if Madame came to the doorway, saying, "Miss Rabbit, just half a second, please," and the forewoman was absent for half an hour, then some matter of supreme importance was being discussed. The establishment was in close touch with the military service at home and abroad, and the best stroke good fortune could make in favour of Hilbert's was to arrange a stately ceremonial in India, some alteration in the dress of officers, or anything that made uniforms necessary. The girls' workroom, even at ordinary times, presented an aspect of enormous wealth, with everywhere a display of gold--loose threads of it on the tables, collected threads being sewn on foundations, epaulettes in course of making, heavy dependent nuggets hung upon scarves. Gold floated in the air, and when the sun came through the windows it all looked as though one could play the conjurer, and perform the enchanting trick of making a dash with the hand and secure sovereigns. Many of the girls wore glasses because continued attention to the glistening colours affected the eyes; sometimes a worker became pale of features, anaemic and depressed, and had to hurry off to the sea-side, and Miss Rabbit referred to this as an act of Providence. For the most part, the girls were healthy and cheerful, and they had the encouragement of good wages. Miss Rabbit, it was reported, took home every Saturday two pounds ten shillings; the very youngest assistant made twelve shillings a week.

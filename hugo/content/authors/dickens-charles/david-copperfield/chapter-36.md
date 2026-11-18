@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - Enthusiasm"
 weight: 37
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-36.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-36.html"
 ---
 
 I began the next day with another dive into the Roman bath, and then started for Highgate. I was not dispirited now. I was not afraid of the shabby coat, and had no yearnings after gallant greys. My whole manner of thinking of our late misfortune was changed. What I had to do, was, to show my aunt that her past goodness to me had not been thrown away on an insensible, ungrateful object. What I had to do, was, to turn the painful discipline of my younger days to account, by going to work with a resolute and steady heart. What I had to do, was, to take my woodman’s axe in my hand, and clear my own way through the forest of difficulty, by cutting down the trees until I came to Dora. And I went on at a mighty rate, as if it could be done by walking.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - At The Inlet"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-03.html"
 ---
 
 "*SLOW* down," said Detective Calvert as the launch drew near the southern end of Barter Island. Captain Alvin did as requested and all eyes were fixed upon the inlet.

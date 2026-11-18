@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - In Perspective"
 weight: 17
-aliases:
-  - "/authors/wells-herbert-george/ann-veronica/chapter-17.html"
+url: "/authors/wells-herbert-george/ann-veronica/chapter-17.html"
 ---
 
 About four years and a quarter later--to be exact, it was four years and four months--Mr. and Mrs. Capes stood side by side upon an old Persian carpet that did duty as a hearthrug in the dining-room of their flat and surveyed a shining dinner-table set for four people, lit by skilfully-shaded electric lights, brightened by frequent gleams of silver, and carefully and simply adorned with sweet-pea blossom. Capes had altered scarcely at all during the interval, except for a new quality of smartness in the cut of his clothes, but Ann Veronica was nearly half an inch taller; her face was at once stronger and softer, her neck firmer and rounder, and her carriage definitely more womanly than it had been in the days of her rebellion. She was a woman now to the tips of her fingers; she had said good-bye to her girlhood in the old garden four years and a quarter ago. She was dressed in a simple evening gown of soft creamy silk, with a yoke of dark old embroidery that enhanced the gentle gravity of her style, and her black hair flowed off her open forehead to pass under the control of a simple ribbon of silver. A silver necklace enhanced the dusky beauty of her neck. Both husband and wife affected an unnatural ease of manner for the benefit of the efficient parlor-maid, who was putting the finishing touches to the sideboard arrangements.

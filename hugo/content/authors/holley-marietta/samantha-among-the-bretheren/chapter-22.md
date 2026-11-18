@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 23
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-22.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-22.html"
 ---
 
 I got home in time to get a good supper, though mebbe I ortn't to say it.

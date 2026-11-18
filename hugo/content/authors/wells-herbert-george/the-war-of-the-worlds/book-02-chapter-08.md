@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 8 - Dead London"
 weight: 25
-aliases:
-  - "/authors/wells-herbert-george/the-war-of-the-worlds/book-02-chapter-08.html"
+url: "/authors/wells-herbert-george/the-war-of-the-worlds/book-02-chapter-08.html"
 ---
 
 After I had parted from the artilleryman, I went down the hill, and by the High Street across the bridge to Fulham. The red weed was tumultuous at that time, and nearly choked the bridge roadway; but its fronds were already whitened in patches by the spreading disease that presently removed it so swiftly.

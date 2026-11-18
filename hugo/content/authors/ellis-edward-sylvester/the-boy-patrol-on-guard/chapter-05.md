@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - How \"Knot\" To Do Several Things"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-05.html"
 ---
 
 Every day sailors, explorers, mechanics and mountain-climbers risk their lives on the knots that they tie. Thousands of lives have been sacrificed to ill-made knots. The scout therefore should be prepared in an emergency, or when necessity demands, to tie the right knot in the right way.

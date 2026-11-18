@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 18"
 weight: 18
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-01-chapter-18.html"
+url: "/authors/cather-willa/one-of-ours/book-01-chapter-18.html"
 ---
 
 Claude's bedroom faced the east. The next morning, when he looked out of his windows, only the tops of the cedars in the front yard were visible. Hurriedly putting on his clothes he ran to the west window at the end of the hall; Lovely Creek, and the deep ravine in which it flowed, had disappeared as if they had never been. The rough pasture was like a smooth field, except for humps and mounds like haycocks, where the snow had drifted over a post or a bush.

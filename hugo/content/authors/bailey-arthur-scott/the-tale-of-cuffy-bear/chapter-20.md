@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Learning To Box"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-20.html"
 ---
 
 For some time Cuffy Bear and his new friend Pete, as he preferred to be called, continued to slide down the bank of the brook into the water. They became plastered with mud from head to foot. And Cuffy's best trousers had two big holes in them. But Cuffy was having a splendid time.

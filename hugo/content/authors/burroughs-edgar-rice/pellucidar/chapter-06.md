@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Pendent World"
 weight: 6
-aliases:
-  - "/authors/burroughs-edgar-rice/pellucidar/chapter-06.html"
+url: "/authors/burroughs-edgar-rice/pellucidar/chapter-06.html"
 ---
 
 The Mahars set me free as they had promised, but with strict injunctions never to approach Phutra or any other Mahar city. They also made it perfectly plain that they considered me a dangerous creature, and that having wiped the slate clean in so far as they were under obligations to me, they now considered me fair prey. Should I again fall into their hands, they intimated it would go ill with me.

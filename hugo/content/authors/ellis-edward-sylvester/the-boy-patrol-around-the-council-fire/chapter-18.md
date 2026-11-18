@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - A Match Of Wits"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-18.html"
 ---
 
 It may be said that Zip had become the hero of the Boy Scout camp on Gosling Lake. He belonged to the finest breed of bloodhounds in the world and had given an illustration of that gift of his species which approaches the miraculous. The stories told by his master of his other exploits, and of what had been done by his kind on Long Island and elsewhere, were absorbingly interesting. As young Burton remarked, his study of this canine species had given him more knowledge than could have been the case otherwise, and he naturally did most of the talking on that cool August night in front of the bungalow. The bloodhound is one of the most dignified of dogs, and resents anything in the nature of familiarity by strangers. Alvin, Chester, Mike and several others tried to make friends with Zip, but he showed them plainly that he preferred to be left to himself.

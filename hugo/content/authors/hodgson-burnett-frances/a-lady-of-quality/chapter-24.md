@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Doves Sate Upon The Window-Ledge And Lowly Cooed And Cooed"
 weight: 25
-aliases:
-  - "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-24.html"
+url: "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-24.html"
 ---
 
 When they had had ten years of happiness, Anne died. 'Twas of no violent illness, it seemed but that through these years of joy she had been gradually losing life. She had grown thinner and whiter, and her soft eyes bigger and more prayerful. 'Twas in the summer, and they were at Camylott, when one sweet day she came from the flower-garden with her hands full of roses, and sitting down by her sister in her morning-room, swooned away, scattering her blossoms on her lap and at her feet.

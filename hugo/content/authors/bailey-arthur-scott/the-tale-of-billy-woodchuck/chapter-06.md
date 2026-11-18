@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Billy Forgets To Whistle"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-06.html"
 ---
 
 When Billy Woodchuck turned around he saw that dog Spot was coming straight toward him. Billy dropped the big clover-top he was just cramming into his mouth; and he ran as fast as he could go for a little way. Then he stopped and crouched low in the thick clover. But old Spot came bounding after him.

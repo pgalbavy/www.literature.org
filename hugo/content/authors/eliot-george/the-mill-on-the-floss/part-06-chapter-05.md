@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 5 - Showing That Tom Had Opened The Oyster"
 weight: 44
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-06-chapter-05.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-06-chapter-05.html"
 ---
 
 "And now we've settled this Newcastle business, Tom," said Mr. Deane, that same afternoon, as they were seated in the private room at the Bank together, "there's another matter I want to talk to you about. Since you're likely to have rather a smoky, unpleasant time of it at Newcastle for the next few weeks, you'll want a good prospect of some sort to keep up your spirits."

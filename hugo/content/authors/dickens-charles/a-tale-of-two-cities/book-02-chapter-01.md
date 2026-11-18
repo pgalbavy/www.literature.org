@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 1 - Five Years Later"
 weight: 7
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-01.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-01.html"
 ---
 
 TELLSON'S BANK by Temple Bar was an old-fashioned place, even in the year one thousand seven hundred and eighty. It was very small, very dark, very ugly, very incommodious. It was an old-fashioned place, moreover, in the moral attribute that the partners in the House were proud of its smallness, proud of its darkness, proud of its ugliness, proud of its incommodiousness. They were even boastful of its eminence in those particulars, and were fired by an express conviction that, if it were less objectionable, it would be less respectable. This was no passive belief, but an active weapon which they flashed at more convenient places of business. Tellson's (they said) wanted no elbow-room, Tellson's wanted no light, Tellson's wanted no embellishment. Noakes and Co.'s might, or Snooks Brothers' might; but Tellson's, thank Heaven!--

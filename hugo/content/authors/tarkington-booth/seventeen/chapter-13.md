@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - At Home To His Friends"
 weight: 13
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-13.html"
+url: "/authors/tarkington-booth/seventeen/chapter-13.html"
 ---
 
 After ablutions, he found his wet hair plastic, and easily obtained the long, even sweep backward from the brow, lacking which no male person, unless bald, fulfilled his definition of a man of the world. But there ensued a period of vehemence and activity caused by a bent collar-button, which went on strike with a desperation that was downright savage. The day was warm and William was warmer; moisture bedewed him afresh. Belated victory no sooner arrived than he perceived a fatal dimpling of the new collar, and was forced to begin the operation of exchanging it for a successor. Another exchange, however, he unfortunately forgot to make: the handkerchief with which he had wiped the wall remained in his pocket.

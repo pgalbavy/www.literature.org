@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - d'aguilar Speaks"
 weight: 8
-aliases:
-  - "/authors/haggard-h-rider/fair-margaret/chapter-08.html"
+url: "/authors/haggard-h-rider/fair-margaret/chapter-08.html"
 ---
 
 "Losses?" said d'Aguilar. "Do I hear the wealthy John Castell, who holds half the trade with Spain in the hollow of his hand, talk of losses?"

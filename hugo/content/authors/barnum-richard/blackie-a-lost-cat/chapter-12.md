@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Blackie Is Happy"
 weight: 12
-aliases:
-  - "/authors/barnum-richard/blackie-a-lost-cat/chapter-12.html"
+url: "/authors/barnum-richard/blackie-a-lost-cat/chapter-12.html"
 ---
 
 “Well,” said Blackie to herself, after walking up and down the dusty porch, “I can’t get in the house, that’s sure. But I simply can’t go away from it again, even if the family has moved away. If I stay around here perhaps Arthur or Mabel will come back. They may have forgotten something, and if they do come back, and see me, they’ll take me to the new home with them. Yes, I shall stay here.

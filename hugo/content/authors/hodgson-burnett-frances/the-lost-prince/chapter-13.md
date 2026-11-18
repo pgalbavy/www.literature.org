@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Loristan Attends A Drill Of The Squad, And Marco Meets A Samavian"
 weight: 13
-aliases:
-  - "/authors/hodgson-burnett-frances/the-lost-prince/chapter-13.html"
+url: "/authors/hodgson-burnett-frances/the-lost-prince/chapter-13.html"
 ---
 
 The Squad was not forgotten. It found that Loristan himself would have regarded neglect as a breach of military duty.

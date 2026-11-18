@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Glimpse Of Something"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-15.html"
 ---
 
 The steamer was a small one running between Wiscasset and Boothbay Harbor by way of the Sheepscot. She rounded gracefully to at the wharf at Charmount, making fast with the ease of long habit, and amid the trucks, laden with freight and shoved and pulled by trotting men, nearly a dozen passengers hurried aboard, among them being Mr. Richards and his young friends.

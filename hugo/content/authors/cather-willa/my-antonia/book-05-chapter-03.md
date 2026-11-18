@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 3"
 weight: 46
-aliases:
-  - "/authors/cather-willa/my-antonia/book-05-chapter-03.html"
+url: "/authors/cather-willa/my-antonia/book-05-chapter-03.html"
 ---
 
 AFTER DINNER THE NEXT day I said good-bye and drove back to Hastings to take the train for Black Hawk. Antonia and her children gathered round my buggy before I started, and even the little ones looked up at me with friendly faces. Leo and Ambrosch ran ahead to open the lane gate. When I reached the bottom of the hill, I glanced back. The group was still there by the windmill. Antonia was waving her apron.

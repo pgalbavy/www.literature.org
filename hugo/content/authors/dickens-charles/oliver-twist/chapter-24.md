@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Treats On A Very Poor Subject.  But Is A Short One, And May Be Found Of Importance In This History"
 weight: 24
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-24.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-24.html"
 ---
 
 It was no unfit messenger of death, who had disturbed the quiet of the matron's room. Her body was bent by age; her limbs trembled with palsy; her face, distorted into a mumbling leer, resembled more the grotesque shaping of some wild pencil, than the work of Nature's hand.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Mrs. Hen Tells Tales"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-03.html"
 ---
 
 Old dog Spot came home from the pasture feeling quite pleased with himself. He had caught a fat woodchuck. And that was enough to make him happy.

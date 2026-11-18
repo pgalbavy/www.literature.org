@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Christmas At Four Winds"
 weight: 15
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-15.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-15.html"
 ---
 
 At first Anne and Gilbert talked of going home to Avonlea for Christmas; but eventually they decided to stay in Four Winds. "I want to spend the first Christmas of our life together in our own home," decreed Anne.

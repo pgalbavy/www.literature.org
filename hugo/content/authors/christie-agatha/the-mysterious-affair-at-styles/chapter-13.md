@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Poirot Explains"
 weight: 13
-aliases:
-  - "/authors/christie-agatha/the-mysterious-affair-at-styles/chapter-13.html"
+url: "/authors/christie-agatha/the-mysterious-affair-at-styles/chapter-13.html"
 ---
 
 “Poirot, you old villain,” I said, “I’ve half a mind to strangle you! What do you mean by deceiving me as you have done?”

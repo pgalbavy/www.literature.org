@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Concluding Catastrophe"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-20.html"
 ---
 
 *BALDY BICKNELL,* the trapper, was the first to discover the peril of himself and party.

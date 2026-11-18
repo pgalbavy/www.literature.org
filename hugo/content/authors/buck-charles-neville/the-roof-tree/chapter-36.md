@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 36
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-36.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-36.html"
 ---
 
 As though to mask a picture of such violence the tree's heavy canopy made that spot one of Stygian murk, and even the moon hid its face just then, so that the world went black, and the stars seemed more brilliant against their inky velvet. But the light had held until the grim preparations were finished, and then when Bas Rowlett had taken his appointed place, tethered and wearing the hempen loop, when the other end of the long line had been passed through the broken slat of the closed window shutters, where it would be held by many hands in assurance against escape, Sim Squires kept his promise.

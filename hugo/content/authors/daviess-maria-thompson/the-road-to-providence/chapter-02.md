@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Singer Lady And The Bread-Bowl"
 weight: 2
-aliases:
-  - "/authors/daviess-maria-thompson/the-road-to-providence/chapter-02.html"
+url: "/authors/daviess-maria-thompson/the-road-to-providence/chapter-02.html"
 ---
 
 "Well, I don't know as I'd like to have her messing around my kitchen and house, a stranger and a curious one at that. But you always was kinder soft, Mis' Mayberry," said Mrs. Peavey as she glanced with provoked remonstrance at Mother Mayberry, who went calmly on attending to the needs of a fresh hatching of young chickens. Mrs. Peavey lived next door to the Doctor's house and the stone wall that separated the two families was not in any way a barrier to her frequent neighborly and critical visitations. She was meager of stature and soul, and the victim of a devouring fire of curiosity which literally licked up the fagots of human events that came in her way. She was the fly that kicked perpetually in Mother Mayberry's cruse of placid ointment, but received as full a mead of that balm of friendship as any woman on the Road.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - A Sly Trick"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-16.html"
 ---
 
 This was the truth of the matter: Old Mr. Crow was jealous because he couldn’t join Reddy Woodpecker’s new club, The Redcaps. For days the old gentleman could speak of nothing else. He went grumbling and sneering up and down Pleasant Valley, stopping to talk with anybody he happened to see. It must be confessed that the neighbors found his ill humor very tiresome.

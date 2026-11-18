@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Out Of Freekirk Head"
 weight: 12
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-12.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-12.html"
 ---
 
 "OH, I wouldn't think of such a thing for a minute!"

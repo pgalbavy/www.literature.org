@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 22"
 weight: 22
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-22.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-22.html"
 ---
 
 The illness of Elizabeth Burton proved tedious and perplexing to the specialists who traced its origin beyond the purely physical to some unconfessed thing gnawing at the peace of her brain. Accordingly they did what they could and, having effected a temporary repair, fell back on the customary prescription of change and travel.

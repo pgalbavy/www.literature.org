@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-19.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-19.html"
 ---
 
 "I pity the man who can travel from Dan to Beersheba, and say, 'Tis all barren': and so it is: and so is all the world to him who will not cultivate the fruits it offers." - STERNE: Sentimental Journey.

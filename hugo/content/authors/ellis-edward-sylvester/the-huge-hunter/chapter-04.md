@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Trapper And The Artisan"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-04.html"
 ---
 
 '*HELLO, YOUNKER!* what in thunder yer tryin' to make?'

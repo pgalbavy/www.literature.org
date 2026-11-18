@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 4 - The Death of the Curate"
 weight: 21
-aliases:
-  - "/authors/wells-herbert-george/the-war-of-the-worlds/book-02-chapter-04.html"
+url: "/authors/wells-herbert-george/the-war-of-the-worlds/book-02-chapter-04.html"
 ---
 
 It was on the sixth day of our imprisonment that I peeped for the last time, and presently found myself alone. Instead of keeping close to me and trying to oust me from the slit, the curate had gone back into the scullery. I was struck by a sudden thought. I went back quickly and quietly into the scullery. In the darkness I heard the curate drink- ing. I snatched in the darkness, and my fingers caught a bottle of burgundy.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Brief Conference"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-02.html"
 ---
 
 Sut Simpson was thoroughly impatient and angry. Knowing, as well as he did, the dangerous character of Arizona, New Mexico, Northwestern Texas and Indian Territory, he could not excuse such a foolhardy proceeding as that of a small colony settling in the very heart of that section. The nearest point where they could hope for safety was Fort Severn, fifty miles distant. There was a company of soldiers under command of an experienced United States officer, and they knew well enough to keep within the protection of their stockades, except when making reconnoissances in force.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-23.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-23.html"
 ---
 
 The man who in all England was most deeply submerged in deadly boredom was, the old Duke of Stone said with wearied finality, himself. He had been a sinful young man of finished taste in 1820; he had cultivated these tastes, which were for literature and art and divers other things, in the most richly alluring foreign capitals until finding himself becoming an equally sinful and finished elderly man, he had decided to marry. After the birth of her four daughters, his wife had died and left them on his hands. Developing at that time a tendency to rheumatic gout and a daily increasing realization of the fact that the resources of a poor dukedom may be hopelessly depleted by an expensive youth passed brilliantly in Vienna, Paris, Berlin, and London, when it was endurable, he found it expedient to give up what he considered the necessities of life and to face existence in the country in England. It is not imperative that one should enter into detail. There was much, and it covered years during which his four daughters grew up and he “grew down,” as he called it. If his temper had originally been a bad one, it would doubtless have become unbearable; as he had been born an amiable person, he merely sank into the boredom which threatens extinction. His girls bored him, his neighbors bored him, Stone Hover bored him, Lancashire bored him, England had always bored him except at abnormal moments.

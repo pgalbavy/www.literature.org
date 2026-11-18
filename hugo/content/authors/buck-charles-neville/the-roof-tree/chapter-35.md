@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 35
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-35.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-35.html"
 ---
 
 Sim Squires knew that when the brief farce of the trial took place he would be called forward to testify with a few prearranged lies. In his mouth was a pebble, put there to change his voice--but in his mutinous heart was an obsession of craving to see Bas Rowlett in such a debased position as that which Parish Thornton occupied--for, of all men, he feared and hated Bas most.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - A Pair Of Red-Heads"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-20.html"
 ---
 
 In the woods there was hardly one of Solomon Owl’s neighbors that couldn’t point out the big hemlock tree where he lived. And mischievous fellows like Reddy Woodpecker sometimes annoyed Solomon a good deal by rapping loudly on his door. When he thrust his head angrily out of his house and blinked in the sunlight, his tormentors would skip away and laugh. They laughed because they knew that they had awakened Solomon Owl. And they dodged out of his reach because he was always ill-tempered when anybody disturbed his rest in the daytime.

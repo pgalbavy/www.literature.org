@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 5"
 weight: 33
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-02-chapter-05.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-02-chapter-05.html"
 ---
 
 That same evening there was an animated discussion among the squadron's officers in Denisov's quarters.

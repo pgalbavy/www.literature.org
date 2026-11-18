@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/buck-charles-neville/the-key-to-yesterday/chapter-14.html"
+url: "/authors/buck-charles-neville/the-key-to-yesterday/chapter-14.html"
 ---
 
 When Duska Filson had gone out into the woods that day to read Saxon's runaway letter, she had at once decided to follow, with regal disdain of half-way methods. To her own straight-thinking mind, unhampered with petty conventional intricacies, it was all perfectly clear. The ordinary woman would have waited, perhaps in deep distress and tearful anxiety, for some news of the man she loved, because he had gone away, and it is not customary for the woman to follow her wandering lover over a quadrant of the earth's circumference. Duska Filson was not of the type that sheds tears or remains inactive. To one man in the world, she had said, "I love you," and to her that settled everything. He had gone to the place where his life was imperiled in the effort to bring back to her a clear record. If he were fortunate, her congratulation, direct from her own heart and lips, should be the first he heard. If he were to be plunged into misery, then above all other times she should be there. Otherwise, what was the use of loving him?

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Dream"
 weight: 1
-aliases:
-  - "/authors/wells-herbert-george/soul-of-a-bishop/chapter-01.html"
+url: "/authors/wells-herbert-george/soul-of-a-bishop/chapter-01.html"
 ---
 
 (1)

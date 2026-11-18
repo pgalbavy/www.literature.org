@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Young Life Of Paul"
 weight: 4
-aliases:
-  - "/authors/lawrence-david-herbert/sons-and-lovers/chapter-04.html"
+url: "/authors/lawrence-david-herbert/sons-and-lovers/chapter-04.html"
 ---
 
 PAUL would be built like his mother, slightly and rather small. His fair hair went reddish, and then dark brown; his eyes were grey. He was a pale, quiet child, with eyes that seemed to listen, and with a full, dropping underlip.

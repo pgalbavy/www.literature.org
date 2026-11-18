@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Two Bazaars"
 weight: 4
-aliases:
-  - "/authors/nesbit-edith/the-phoenix-and-the-carpet/chapter-04.html"
+url: "/authors/nesbit-edith/the-phoenix-and-the-carpet/chapter-04.html"
 ---
 
 Mother was really a great dear. She was pretty and she was loving, and most frightfully good when you were ill, and always kind, and almost always just. That is, she was just when she understood things. But of course she did not always understand things. No one understands everything, and mothers are not angels, though a good many of them come pretty near it. The children knew that mother always WANTED to do what was best for them, even if she was not clever enough to know exactly what was the best. That was why all of them, but much more particularly Anthea, felt rather uncomfortable at keeping the great secret from her of the wishing carpet and the Phoenix. And Anthea, whose inside mind was made so that she was able to be much more uncomfortable than the others, had decided that she MUST tell her mother the truth, however little likely it was that her mother would believe it.

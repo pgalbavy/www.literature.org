@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Fierce-Eyed Man"
 weight: 7
-aliases:
-  - "/authors/leblanc-maurice/the-three-eyes/chapter-07.html"
+url: "/authors/leblanc-maurice/the-three-eyes/chapter-07.html"
 ---
 
 The staff at the Lodge consisted in its entirety of one old maid-servant, a little deaf and very short-sighted, who combined the functions, as occasion demanded, of parlour-maid, cook and gardener. Notwithstanding these manifold duties, Valentine hardly ever left her kitchen-range, which was situated in an extension built on to the house and opening directly upon the street.

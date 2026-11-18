@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Explanation Of The Strange Attitude Of A Little Violet Cat"
 weight: 11
-aliases:
-  - "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-10.html"
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-10.html"
 ---
 
 It is necessary to mount to the floor above, to the flat occupied by Signor and Signora Petito, to the room in which Theophrastus, with never a thought of the imprudence he was committing, had asked for the needful information about the handwriting of the document. What imprudence indeed could there be in showing to an expert in handwriting a document so torn, stained, and obliterated that it was impossible, at a first glance, to discover any sense or meaning at all in it?

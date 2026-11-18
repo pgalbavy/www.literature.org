@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - By The Lake"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-17.html"
 ---
 
 The place for which the two were searching was found within a furlong of where Larry Murphy, with the assistance of his companion, leaped the day before. But how different from that which they had in mind! Instead of a simple widening and shallowing of the stream, it expanded into a small lake several miles long, with a width one-third or one-half as great. The sheet of water discharged itself through the narrow, canyon-like passage, eventually finding its way into the Ohio. The placid surface gleamed in the moonlight, and was without a ripple. The shores were shaded by overhanging limbs, and the scene was as lonely, as beautiful and impressive as at creation's morn. The only sign of life was themselves.

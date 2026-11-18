@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - \u0026quot;Remember!\u0026quot;"
 weight: 16
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-16.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-16.html"
 ---
 
 A horseman was going rapidly along the road leading towards Blois, which he had left nearly half an hour before, passed the two travelers, and, though apparently in haste, raised his hat as he passed them. The king scarcely observed this young man, who was about twenty-five years of age, and who, turning round several times, made friendly signals to a man standing before the gate of a handsome white-and-red house; that is to say, built of brick and stone, with a slated roof, situated on the left hand of the road the prince was traveling.

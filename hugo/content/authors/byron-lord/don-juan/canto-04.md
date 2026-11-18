@@ -1,8 +1,7 @@
 ---
 title: "Canto 4"
 weight: 5
-aliases:
-  - "/authors/byron-lord/don-juan/canto-04.html"
+url: "/authors/byron-lord/don-juan/canto-04.html"
 ---
 
 Nothing so difficult as a beginning  

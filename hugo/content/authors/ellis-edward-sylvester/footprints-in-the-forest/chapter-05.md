@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Shawanoe Vs. Pawnee"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-05.html"
 ---
 
 Why it was Deerfoot sought a quarrel with the Pawnee can not be made fully clear. I incline to believe that his quick penetration detected signs among the warriors that they did not mean to let him withdraw, when he should seek to do so, and his plan was to use the quarrel as a shield to thwart their purpose. This may seem a strained explanation but let us see how it worked.

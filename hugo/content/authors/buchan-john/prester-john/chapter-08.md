@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - I Fall In Again With The Reverend John Laputa"
 weight: 9
-aliases:
-  - "/authors/buchan-john/prester-john/chapter-08.html"
+url: "/authors/buchan-john/prester-john/chapter-08.html"
 ---
 
 Once, as a boy, I had earnestly desired to go into the army, and had hopes of rising to be a great general. Now that I know myself better, I do not think I would have been much good at a general's work. I would have shirked the loneliness of it, the isolation of responsibility. But I think I would have done well in a subaltern command, for I had a great notion of carrying out orders, and a certain zest in the mere act of obedience. Three days before I had been as nervous as a kitten because I was alone and it was 'up to me,' as Americans say, to decide on the next step. But now that I was only one wheel in a great machine of defence my nervousness seemed to have fled. I was well aware that the mission I was bound on was full of risk; but, to my surprise, I felt no fear. Indeed, I had much the same feeling as a boy on a Saturday's holiday who has planned a big expedition. One thing only I regretted—that Tam Dyke was not with me to see the fun. The thought of that faithful soul, now beating somewhere on the seas, made me long for his comradeship. As I shaved, I remember wondering if I would ever shave again, and the thought gave me no tremors. For once in my sober life I was strung up to the gambler's pitch of adventure.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - A False Clue"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-25.html"
 ---
 
 Detective Pendar instantly whisked out of the path, among the undergrowth and under the trees, where he was invisible to one a foot away. He had heard a faint footfall and the sound was repeated more distinctly when some one leaped across the rivulet and came up the gentle declivity. The officer had gone beyond sight of this open space and the point where the stranger must pass him was shrouded in darkness.

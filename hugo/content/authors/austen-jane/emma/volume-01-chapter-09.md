@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 9"
 weight: 9
-aliases:
-  - "/authors/austen-jane/emma/volume-01-chapter-09.html"
+url: "/authors/austen-jane/emma/volume-01-chapter-09.html"
 ---
 
 Mr. Knightley might quarrel with her, but Emma could not quarrel with herself. He was so much displeased, that it was longer than usual before he came to Hartfield again; and when they did meet, his grave looks shewed that she was not forgiven. She was sorry, but could not repent. On the contrary, her plans and proceedings were more and more justified and endeared to her by the general appearances of the next few days.

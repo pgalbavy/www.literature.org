@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Groping In Darkness"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-09.html"
 ---
 
 It is proper, at this point, to introduce some history of the movements of Mickey O'Rooney, after the separation between himself and his young friend. The latter, it will be remembered, left him sleeping upon the Apache blanket, at the bottom of the cave, while he, the lad, went off in pursuit of the wolf, which came so near leading him to destruction, but which, in the end, conducted him to freedom and safety.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Man-Killer"
 weight: 20
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/chapter-19.html"
+url: "/authors/coolidge-dane/silver-and-gold/chapter-19.html"
 ---
 
 "Did he hit ye?" yelled Bunker when Denver had conquered his pitching horse and set him back on his haunches. "Hell's bells, boy, I told you to stay out of there!"

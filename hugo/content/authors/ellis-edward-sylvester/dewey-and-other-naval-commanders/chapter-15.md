@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-15.html"
 ---
 
 David Porter—A Clever Feat—Numerous Captures by the *Essex* —Her Remarkable Cruise in the Pacific —Her Final Capture.

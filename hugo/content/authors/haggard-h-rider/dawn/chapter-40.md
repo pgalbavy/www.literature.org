@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40"
 weight: 41
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-40.html"
+url: "/authors/haggard-h-rider/dawn/chapter-40.html"
 ---
 
 Two days after Sir John had been taken into confidence, Philip received a visit from Lady Bellamy that caused him a good deal of discomfort. After talking to him on general subjects for awhile, she rose to go.

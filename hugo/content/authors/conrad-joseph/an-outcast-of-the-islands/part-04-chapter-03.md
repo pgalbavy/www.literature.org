@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 3"
 weight: 21
-aliases:
-  - "/authors/conrad-joseph/an-outcast-of-the-islands/part-04-chapter-03.html"
+url: "/authors/conrad-joseph/an-outcast-of-the-islands/part-04-chapter-03.html"
 ---
 
 "Beware!"

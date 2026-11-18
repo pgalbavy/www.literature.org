@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - The Catacombs Of Saint Sebastian"
 weight: 37
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-37.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-37.html"
 ---
 
 In his whole life, perhaps, Franz had never before experienced so sudden an impression, so rapid a transition from gayety to sadness, as in this moment. It seemed as though Rome, under the magic breath of some demon of the night, had suddenly changed into a vast tomb. By a chance, which added yet more to the intensity of the darkness, the moon, which was on the wane, did not rise until eleven o'clock, and the streets which the young man traversed were plunged in the deepest obscurity. The distance was short, and at the end of ten minutes his carriage, or rather the count's, stopped before the Hotel de Londres. Dinner was waiting, but as Albert had told him that he should not return so soon, Franz sat down without him. Signor Pastrini, who had been accustomed to see them dine together, inquired into the cause of his absence, but Franz merely replied that Albert had received on the previous evening an invitation which he had accepted. The sudden extinction of the moccoletti, the darkness which had replaced the light, and the silence which had succeeded the turmoil, had left in Franz's mind a certain depression which was not free from uneasiness. He therefore dined very silently, in spite of the officious attention of his host, who presented himself two or three times to inquire if he wanted anything.

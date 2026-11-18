@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Conversation With Mrs. Van Brandt"
 weight: 28
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-27.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-27.html"
 ---
 
 THE landlady was taking the air at her own door when I reached the house. Her reply to my inquiries justified my most hopeful anticipations. The poor lodger looked already "like another woman"; and the child was at that moment posted on the stairs, watching for the return of her "new papa."

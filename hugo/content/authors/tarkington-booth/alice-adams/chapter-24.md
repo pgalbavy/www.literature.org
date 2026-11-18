@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/tarkington-booth/alice-adams/chapter-24.html"
+url: "/authors/tarkington-booth/alice-adams/chapter-24.html"
 ---
 
 About five o'clock that afternoon, the old gentleman came back to Adams's house; and when Alice opened the door, he nodded, walked into the "living-room" without speaking; then stood frowning as if he hesitated to decide some perplexing question.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Antlers"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-14.html"
 ---
 
 Although Nimble had lost his horns he managed to go through the winter without missing them as much as he had expected. And in time he had almost forgotten the pair of spikes that he had worn on his head the summer before. Then, one day, he made a great discovery. He found that new horns were sprouting to take the place of those that he had lost!

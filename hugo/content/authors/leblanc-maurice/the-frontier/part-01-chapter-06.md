@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 6 - The Plaster Statue"
 weight: 6
-aliases:
-  - "/authors/leblanc-maurice/the-frontier/part-01-chapter-06.html"
+url: "/authors/leblanc-maurice/the-frontier/part-01-chapter-06.html"
 ---
 
 There were several ways leading to Saint-Élophe. First of all, the high-road, which goes winding down a slope some two miles long; next, a few rather steep short cuts; and, lastly, further north, the forest-path, part of which skirts the ridge of the Vosges.

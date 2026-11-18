@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Swimming Teacher"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-19.html"
 ---
 
 It surprised the wild folk in Pleasant Valley when they learned that Mr. Frog had forsaken the Beaver pond for a new home on the bank of Black Creek.

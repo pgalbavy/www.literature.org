@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Plotting"
 weight: 19
-aliases:
-  - "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-19.html"
+url: "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-19.html"
 ---
 
 The following Monday Miss Edith Hudson went to work for the International Machine Company as Mr. Compton's stenographer. Nor could the most fastidious have discovered aught to criticize in the appearance or deportment of Little Eva.

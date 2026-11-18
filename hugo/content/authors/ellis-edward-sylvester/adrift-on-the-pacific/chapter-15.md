@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Friend In Need"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-15.html"
 ---
 
 There was no excuse for not hearing this warning, for it was uttered in a voice loud enough to reach over the whole extent of the atoll.

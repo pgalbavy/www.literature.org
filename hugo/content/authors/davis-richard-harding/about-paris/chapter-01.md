@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Streets Of Paris"
 weight: 1
-aliases:
-  - "/authors/davis-richard-harding/about-paris/chapter-01.html"
+url: "/authors/davis-richard-harding/about-paris/chapter-01.html"
 ---
 
 The street that I knew best in Paris was an unimportant street, and one into which important people seldom came, and then only to pass on through it to the Rue de Rivoli, which ran parallel with it, or to the Rue Castiglione, which cut it evenly in two. It was to them only the shortest distance between two points, for the sidewalks of this street were not sprinkled with damp sawdust and set out with marble-topped tables under red awnings, nor were there the mirrors and windows of jewellers and milliners along its course to make one turn and look. It was interesting only to those people who lived upon it, and to us perhaps only for that reason. If you judged it by the circumstance that we all spent our time in hanging out of the windows, and that the concierge of each house stood continually at the front door, you would suppose it to be a most interesting thoroughfare, in which things were always happening. What did happen was not interesting to the outsider, and you had to live in it some time before you could appreciate the true value of the street. With one exception. This was the great distinction of our street, and one of which we were very proud. A poet had lived in his way, and loved in his way, in one of the houses, and had died there. You could read the simple, unromantic record of this in big black letters on a tablet placed evenly between the two windows of the entresol. It gave a distinguished air to that house, and rendered it different from all of the others, as a Legion of Honor on the breast of a French soldier makes him conspicuous amongst his fellows.

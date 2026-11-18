@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Crying Of The Puma"
 weight: 9
-aliases:
-  - "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-08.html"
+url: "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-08.html"
 ---
 
 MONTGOMERY interrupted my tangle of mystification and suspicion about one o'clock, and his grotesque attendant followed him with a tray bearing bread, some herbs and other eatables, a flask of whiskey, a jug of water, and three glasses and knives. I glanced askance at this strange creature, and found him watching me with his queer, restless eyes. Montgomery said he would lunch with me, but that Moreau was too preoccupied with some work to come.

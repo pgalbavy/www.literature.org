@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - A Halt"
 weight: 33
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-33.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-33.html"
 ---
 
 It was just growing light as the two canoes shoved out in the river and resumed their journey. The rapacious wolverines, enraged at the loss of their expected prey, followed them to the very edge of the stream, where their ear-splitting clamor grew more furious than ever. At one time, indeed, it looked us though they were about to jump into the water and swim out to them; and both the boys looked inquiringly at the face of the Pah Utah. The stolid, indifferent expression that they there saw relieved them, and they withdrew all further thought regarding the troublesome animals.

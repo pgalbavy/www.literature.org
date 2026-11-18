@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - No 'Possum"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-02.html"
 ---
 
 At first old Mr. Crow could scarcely believe his eyes. He stared and stared. Certainly it was no 'possum that he saw. And yet the stranger was hanging by his tail.

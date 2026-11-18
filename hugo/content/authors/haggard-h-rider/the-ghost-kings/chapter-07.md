@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Message Of The King"
 weight: 8
-aliases:
-  - "/authors/haggard-h-rider/the-ghost-kings/chapter-07.html"
+url: "/authors/haggard-h-rider/the-ghost-kings/chapter-07.html"
 ---
 
 So it chanced that Noie became a member of the Dove household. For obvious reasons she changed her name, and thenceforward was called Nonha. Also it happened that Mr. Dove abandoned his idea of settling as a missionary in Zululand, and instead, took up his residence at this beautiful spot. He called it Ramah because it was a place of weeping, for here all the family and dependents of Seyapi had been destroyed by the spear. Mrs. Dove thought it an ill-omened name enough, but after her manner gave way to her husband in the matter.

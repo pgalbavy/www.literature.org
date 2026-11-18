@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 22
-aliases:
-  - "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-21.html"
+url: "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-21.html"
 ---
 
 "EY, ey, he is a craven and he called me 'doddering fool'!" The speaker was I-Gos and he addressed a knot of chieftains in one of the chambers of the palace of O-Tar, Jeddak of Manator: "If A-Kor was alive there were a jeddak for us!"

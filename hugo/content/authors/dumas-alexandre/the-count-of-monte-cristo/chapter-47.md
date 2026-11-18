@@ -1,8 +1,7 @@
 ---
 title: "Chapter 47 - The Dappled Grays"
 weight: 47
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-47.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-47.html"
 ---
 
 The baron, followed by the count, traversed a long series of apartments, in which the prevailing characteristics were heavy magnificence and the gaudiness of ostentatious wealth, until he reached the boudoir of Madame Danglars - a small octagonal-shaped room, hung with pink satin, covered with white Indian muslin. The chairs were of ancient workmanship and materials; over the doors were painted sketches of shepherds and shepherdesses, after the style and manner of Boucher; and at each side pretty medallions in crayons, harmonizing well with the furnishings of this charming apartment, the only one throughout the great mansion in which any distinctive taste prevailed. The truth was, it had been entirely overlooked in the plan arranged and followed out by M. Danglars and his architect, who had been selected to aid the baron in the great work of improvement solely because he was the most fashionable and celebrated decorator of the day. The decorations of the boudoir had then been left entirely to Madame Danglars and Lucien Debray. M. Danglars, however, while possessing a great admiration for the antique, as it was understood during the time of the Directory, entertained the most sovereign contempt for the simple elegance of his wife's favorite sitting-room, where, by the way, he was never permitted to intrude, unless, indeed, he excused his own appearance by ushering in some more agreeable visitor than himself; and even then he had rather the air and manner of a person who was himself introduced, than that of being the presenter of another, his reception being cordial or frigid, in proportion as the person who accompanied him chanced to please or displease the baroness.

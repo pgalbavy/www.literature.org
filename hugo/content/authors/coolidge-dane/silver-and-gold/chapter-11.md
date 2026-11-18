@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Lady Of The Sycamores"
 weight: 12
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/chapter-11.html"
+url: "/authors/coolidge-dane/silver-and-gold/chapter-11.html"
 ---
 
 A weight like that of Pelion and Ossa seemed lifted from Denver's shoulders as he hurried down from Apache Leap and, with his wallet in his hip pocket, he strode straight to Bunker's house. The eagle had chosen for him, and chosen right, and the last of his troubles was over. There was nothing to do now but buy the claim and make it into a mine--and that was the easiest thing he did. Pulling ground was his specialty--with a good man to help he could break his six feet a day--and now that the choice had been made between the treasures he was tingling to get to work.

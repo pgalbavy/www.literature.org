@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Something Seems Wrong"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-20.html"
 ---
 
 WHEN Jimmy Rabbit went to see Betsy Butterfly the next morning he found her quite willing to let him take her picture away with him.

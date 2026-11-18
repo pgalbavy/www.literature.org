@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-15.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-15.html"
 ---
 
 After Werper had arranged the dummy in his bed, and sneaked out into the darkness of the village beneath the rear wall of his tent, he had gone directly to the hut in which Jane Clayton was held captive.

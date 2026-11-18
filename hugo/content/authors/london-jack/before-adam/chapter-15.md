@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/london-jack/before-adam/chapter-15.html"
+url: "/authors/london-jack/before-adam/chapter-15.html"
 ---
 
 Lop-Ear got married. It was the second winter after our adventure-journey, and it was most unexpected. He gave me no warning. The first I knew was one twilight when I climbed the cliff to our cave. I squeezed into the entrance and there I stopped. There was no room for me. Lop-Ear and his mate were in possession, and she was none other than my sister, the daughter of my step-father, the Chatterer.

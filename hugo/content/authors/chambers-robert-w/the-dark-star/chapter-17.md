@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A White Skirt"
 weight: 18
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-17.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-17.html"
 ---
 
 It was in mid-ocean that Neeland finally came to the conclusion that nobody on board the *Volhynia* was likely to bother him or his box.

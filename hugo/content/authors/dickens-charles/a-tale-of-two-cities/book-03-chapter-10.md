@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 10 - The Substance of the Shadow"
 weight: 40
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-10.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-10.html"
 ---
 
 "I, ALEXANDRE MANETTE, Unfortunate physician, native of Beauvais, and afterwards resident in Paris, write this melancholy paper in my doleful cell in the Bastille, during the last month of the year, 1767. I write it at stolen intervals, under every difficulty. I design to secrete it in the wall of the chimney, where I have slowly and laboriously made a place of concealment for it. Some pitying hand may find it there, when I and my sorrows are dust.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Gentlemen Of The Jury"
 weight: 17
-aliases:
-  - "/authors/greene-homer/burnham-breaker/chapter-17.html"
+url: "/authors/greene-homer/burnham-breaker/chapter-17.html"
 ---
 
 Sharpman had not seen Ralph's expression and did not know what the noise was all about. He looked around at the audience uneasily, whispered to Craft for a moment, and then announced that he was done with the witness. He was really afraid to carry the examination further; there were too many pit-falls along the way.

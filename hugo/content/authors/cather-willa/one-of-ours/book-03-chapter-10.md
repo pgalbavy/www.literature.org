@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 10"
 weight: 41
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-03-chapter-10.html"
+url: "/authors/cather-willa/one-of-ours/book-03-chapter-10.html"
 ---
 
 On the first day of July Claude Wheeler found himself in the fast train from Omaha, going home for a week's leave. The uniform was still an unfamiliar sight in July, 1917. The first draft was not yet called, and the boys who had rushed off and enlisted were in training camps far away. Therefore a redheaded young man with long straight legs in puttees, and broad, energetic, responsible-looking shoulders in close-fitting khaki, made a conspicuous figure among the passengers. Little boys and young girls peered at him over the tops of seats, men stopped in the aisle to talk to him, old ladies put on their glasses and studied his clothes, his bulky canvas hold-all, and even the book he kept opening and forgetting to read.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The First Waters"
 weight: 12
-aliases:
-  - "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-12.html"
+url: "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-12.html"
 ---
 
 The men had risen and covered themselves, and put on their hats, and covered their eyes for a second, in salute before Ramón, as they departed down the stone stair. And the iron door at the bottom had clanged, the doorkeeper had returned with the key, laid it on the drum, and softly, delicately departed.

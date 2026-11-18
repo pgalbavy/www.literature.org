@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - The Package Returned"
 weight: 26
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-26.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-26.html"
 ---
 
 As Joan turned the corner of a lane leading to the high road, she found herself awkwardly trying to pass a man who confronted her--a young fellow far too elegant and well-dressed to be a Rigganite.

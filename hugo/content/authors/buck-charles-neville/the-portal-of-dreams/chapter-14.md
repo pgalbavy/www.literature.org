@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The \"Ash-Trash Lady\""
 weight: 14
-aliases:
-  - "/authors/buck-charles-neville/the-portal-of-dreams/chapter-14.html"
+url: "/authors/buck-charles-neville/the-portal-of-dreams/chapter-14.html"
 ---
 
 But when we parted at Honolulu the name was still eluding Keller's memory and I had to continue on my way uninformed.

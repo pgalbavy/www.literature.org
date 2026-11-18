@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - On The Geological Succession Of Organic Beings"
 weight: 13
-aliases:
-  - "/authors/darwin-charles/the-origin-of-species-6th-edition/chapter-11.html"
+url: "/authors/darwin-charles/the-origin-of-species-6th-edition/chapter-11.html"
 ---
 
 On the slow and successive appearance of new species -- On their different rates of change -- Species once lost do not reappear -- Groups of species follow the same general rules in their appearance and disappearance as do single species -- On extinction -- On simultaneous changes in the forms of life throughout the world -- On the affinities of extinct species to each other and to living species -- On the state of development of ancient forms -- On the succession of the same types within the same areas -- Summary of preceding and present chapters.

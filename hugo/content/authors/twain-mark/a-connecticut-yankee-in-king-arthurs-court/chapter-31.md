@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Marco"
 weight: 32
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-31.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-31.html"
 ---
 
 WE strolled along in a sufficiently indolent fashion now, and talked. We must dispose of about the amount of time it ought to take to go to the little hamlet of Abblasoure and put justice on the track of those murderers and get back home again. And meantime I had an auxiliary interest which had never paled yet, never lost its novelty for me since I had been in Arthur's kingdom: the behavior -- born of nice and exact subdivisions of caste -- of chance passers-by toward each other. Toward the shaven monk who trudged along with his cowl tilted back and the sweat washing down his fat jowls, the coal-burner was deeply reverent; to the gentleman he was abject; with the small farmer and the free mechanic he was cordial and gossipy; and when a slave passed by with a countenance respectfully lowered, this chap's nose was in the air -- he couldn't even see him. Well, there are times when one would like to hang the whole human race and finish the farce.

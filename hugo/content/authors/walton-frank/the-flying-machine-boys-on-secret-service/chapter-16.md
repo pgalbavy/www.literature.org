@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Still Another Guest"
 weight: 16
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-16.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-16.html"
 ---
 
 “You bet he wouldn’t!” declared Carl, who had come into the tent during the progress of the conversation. “He’d be more apt to carry a gun! What did he want to lug his toilet articles away for?”

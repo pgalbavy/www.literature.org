@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-17.html"
 ---
 
 There was no attempt to use caution or care in hurrying forward. Somehow or other Jake Golcher had gotten on the track of the little party, and, with a number of Seneca warriors, almost as keen of eye and scent as bloodhounds, was following them.

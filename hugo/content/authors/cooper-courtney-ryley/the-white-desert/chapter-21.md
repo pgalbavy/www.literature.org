@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/cooper-courtney-ryley/the-white-desert/chapter-21.html"
+url: "/authors/cooper-courtney-ryley/the-white-desert/chapter-21.html"
 ---
 
 Silence was their portion as they turned toward the mountains. There was little to say. Now and then as Houston, in the lead, got off the trail, Medaine jerked on the cord to draw his attention, then pointed, and Barry obeyed. Thus their pilgrimage progressed.

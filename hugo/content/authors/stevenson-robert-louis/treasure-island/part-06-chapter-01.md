@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 1 - In The Enemy's Camp"
 weight: 29
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-06-chapter-01.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-06-chapter-01.html"
 ---
 
 THE red glare of the torch, lighting up the interior of the block house, showed me the worst of my apprehensions realized. The pirates were in possession of the house and stores: there was the cask of cognac, there were the pork and bread, as before, and what tenfold increased my horror, not a sign of any prisoner. I could only judge that all had perished, and my heart smote me sorely that I had not been there to perish with them.

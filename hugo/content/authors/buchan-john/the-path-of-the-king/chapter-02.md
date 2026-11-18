@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Englishman"
 weight: 3
-aliases:
-  - "/authors/buchan-john/the-path-of-the-king/chapter-02.html"
+url: "/authors/buchan-john/the-path-of-the-king/chapter-02.html"
 ---
 
 Part 1

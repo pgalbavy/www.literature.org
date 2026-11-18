@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - How The Feast Ended"
 weight: 26
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-25.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-25.html"
 ---
 
 For a moment there was silence in the hall, for men had known no such fight as this.

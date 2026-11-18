@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 5 - The Sheet Of Note-Paper"
 weight: 5
-aliases:
-  - "/authors/leblanc-maurice/the-frontier/part-01-chapter-05.html"
+url: "/authors/leblanc-maurice/the-frontier/part-01-chapter-05.html"
 ---
 
 A hand was passed through the bars of the gate at the top of the staircase leading to the terrace and seized the clapper of the little bell fastened to one of the bars. A push ... and the gate was open.

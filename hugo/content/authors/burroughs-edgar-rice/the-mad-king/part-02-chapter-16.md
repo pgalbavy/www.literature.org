@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 16 - King Of Lutha"
 weight: 28
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-16.html"
+url: "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-16.html"
 ---
 
 Barney Custer, of Beatrice, had no desire to be king of Lutha. He lost no time in saying so. All that he wanted of Lutha was the girl he had found there, as his father before him had found the girl of his choice. Von der Tann pleaded with him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/baum-l-frank/the-magic-of-oz/chapter-04.html"
+url: "/authors/baum-l-frank/the-magic-of-oz/chapter-04.html"
 ---
 
 Kiki Aru didn't know much about Oz and didn't know much about the beasts who lived there, but the old Nome's plan seemed to him to be quite reasonable. He had a faint suspicion that Ruggedo meant to get the best of him in some way, and he resolved to keep a close watch on his fellow-conspirator. As long as he kept to himself the secret word of the transformations, Ruggedo would not dare to harm him, and he promised himself that as soon as they had conquered Oz, he would transform the old Nome into a marble statue and keep him in that form forever.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Mysterious Madame Daubreuil"
 weight: 7
-aliases:
-  - "/authors/christie-agatha/the-murder-on-the-links/chapter-07.html"
+url: "/authors/christie-agatha/the-murder-on-the-links/chapter-07.html"
 ---
 
 As we retraced our steps to the house, M. Bex excused himself for leaving us, explaining that he must immediately acquaint the examining magistrate with the fact of Giraud’s arrival. Giraud himself had been obviously delighted when Poirot declared that he had seen all he wanted. The last thing we observed, as we left the spot, was Giraud, crawling about on all fours, with a thoroughness in his search that I could not but admire. Poirot guessed my thoughts, for as soon as we were alone he remarked ironically:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/bronte-charlotte/the-professor/chapter-04.html"
+url: "/authors/bronte-charlotte/the-professor/chapter-04.html"
 ---
 
 No man likes to acknowledge that he has made a mistake in the choice of his profession, and every man, worthy of the name, will row long against wind and tide before he allows himself to cry out, "I am baffled!" and submits to be floated passively back to land. From the first week of my residence in X---- I felt my occupation irksome. The thing itself--the work of copying and translating business-letters--was a dry and tedious task enough, but had that been all, I should long have borne with the nuisance; I am not of an impatient nature, and influenced by the double desire of getting my living and justifying to myself and others the resolution I had taken to become a tradesman, I should have endured in silence the rust and cramp of my best faculties; I should not have whispered, even inwardly, that I longed for liberty; I should have pent in every sigh by which my heart might have ventured to intimate its distress under the closeness, smoke, monotony and joyless tumult of Bigben Close, and its panting desire for freer and fresher scenes; I should have set up the image of Duty, the fetish of Perseverance, in my small bedroom at Mrs. King's lodgings, and they two should have been my household gods, from which my darling, my cherished-in-secret, Imagination, the tender and the mighty, should never, either by softness or strength, have severed me. But this was not all; the antipathy which had sprung up between myself and my employer striking deeper root and spreading denser shade daily, excluded me from every glimpse of the sunshine of life; and I began to feel like a plant growing in humid darkness out of the slimy walls of a well.

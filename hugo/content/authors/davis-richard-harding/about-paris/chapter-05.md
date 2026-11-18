@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Americans In Paris"
 weight: 5
-aliases:
-  - "/authors/davis-richard-harding/about-paris/chapter-05.html"
+url: "/authors/davis-richard-harding/about-paris/chapter-05.html"
 ---
 
 Americans who go to Paris might be divided, for the purposes of this article at least, into two classes--those who use Paris for their own improvement or pleasure, and those who find her too strong for them, and who go down before her and worship her, and whom she either fashions after her own liking, or rides under foot and neglects until they lose heart and disappear forever.

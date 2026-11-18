@@ -1,8 +1,7 @@
 ---
 title: "Book 12 - Chapter 3"
 weight: 266
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-12-chapter-03.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-12-chapter-03.html"
 ---
 
 Nine days after the abandonment of Moscow, a messenger from Kutuzov reached Petersburg with the official announcement of that event. This messenger was Michaud, a Frenchman who did not know Russian, but who was quoique etranger, russe de coeur et d'ame,* as he said of himself.

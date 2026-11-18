@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - An Indian Coulee"
 weight: 19
-aliases:
-  - "/authors/williams-frank/the-free-range/chapter-19.html"
+url: "/authors/williams-frank/the-free-range/chapter-19.html"
 ---
 
 By four o'clock in the morning the fifteen hundred head of cattle had crossed the ford of the Big Horn and were bedded down on the other side. When this hazardous business had been completed, Bud Larkin ordered the sheep brought up and kept on the eastern bank among the cool grass of the bottoms.

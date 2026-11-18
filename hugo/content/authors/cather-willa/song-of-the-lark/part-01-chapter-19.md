@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 19"
 weight: 19
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-01-chapter-19.html"
+url: "/authors/cather-willa/song-of-the-lark/part-01-chapter-19.html"
 ---
 
 It is well for its peace of mind that the traveling public takes railroads so much for granted. The only men who are incurably nervous about railway travel are the railroad operatives. A railroad man never forgets that the next run may be his turn.

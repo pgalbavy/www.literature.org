@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Mr. Crow To The Rescue"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-05.html"
 ---
 
 As Buster sat on the sprig of wild honeysuckle, wondering where to look for a bit of cotton with which to stuff his ears, a bird fluttered down and perched upon the old stone wall to which the honeysuckle clung. The name of the newcomer was Jasper Jay. And Buster Bumblebee was glad to see him, because he wanted help from somebody and he didn't care who it was.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Jumped"
 weight: 11
-aliases:
-  - "/authors/coolidge-dane/hidden-water/chapter-11.html"
+url: "/authors/coolidge-dane/hidden-water/chapter-11.html"
 ---
 
 Winter, the wonted season of torrential rains, six weeks' grass, and budding flowers, when the desert is green and the sky washed clean and blue, followed close in the wake of the sheep, which went drifting past Hidden Water like an army without banners. But alas for Hidden Water and the army of sheep!--in this barren Winter the torrential rains did not fall, the grass did not sprout, and the flowers did not bloom. A bleak north wind came down from the mountains, cold and dry and crackling with electricity, and when it had blown its stint it died down in a freezing, dusty silence.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 47 - The Last Chance"
 weight: 49
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-47.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-47.html"
 ---
 
 "HIS lordship is dangerously ill, Sir. Her ladyship can receive no visitors."

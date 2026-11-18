@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Theophrastus Maintains That He Did Not Die On The Place De Grève"
 weight: 12
-aliases:
-  - "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-11.html"
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-11.html"
 ---
 
 In his account, in his Memoirs, of that terrible night, M. Longuet appears to attach very little importance to clipping the ears of Signor Petito. He seems far more deeply concerned with the psychology of Mme. Longuet. "The soul of woman," he writes, "is a very delicate thing. I gathered this from the emotion of my dear Marceline. She would not admit that I was obliged to clip the ears of Signor Petito; and her process of reasoning was incredible and indeed incomprehensible. But I forgave her on account of her excessive sensitiveness. She said then that I was not obliged to clip Signor Petito's ears. I answered that manifestly one was never obliged to clip any man's ears any more than one was obliged to kill him; and yet, ninety-nine men out of a hundred, I affirmed (and no one will contradict me) would have killed Signor Petito when they found him in their flat at night. She herself, who was after all only a woman, would have done all she could to kill Signor Petito with the revolver in her hand, had it been loaded. She did not deny it. Well then, in clipping his ears, did I not demonstrate that there was no need to kill him?

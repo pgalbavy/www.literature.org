@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/baum-l-frank/the-road-to-oz/chapter-20.html"
+url: "/authors/baum-l-frank/the-road-to-oz/chapter-20.html"
 ---
 
 The royal historians of Oz, who are fine writers and know any number of big words, have often tried to describe the rare beauty of Ozma and failed because the words were not good enough. So of course I cannot hope to tell you how great was the charm of this little Princess, or how her loveliness put to shame all the sparkling jewels and magnificent luxury that surrounded her in this her royal palace. Whatever else was beautiful or dainty or delightful of itself faded to dullness when contrasted with Ozma's bewitching face, and it has often been said by those who know that no other ruler in all the world can ever hope to equal the gracious charm of her manner.

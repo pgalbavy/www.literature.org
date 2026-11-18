@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Wax Mask"
 weight: 9
-aliases:
-  - "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-08.html"
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-08.html"
 ---
 
 At this point I let Theophrastus once more take up the narrative.

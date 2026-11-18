@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Circus"
 weight: 6
-aliases:
-  - "/authors/nesbit-edith/the-wouldbegoods/chapter-06.html"
+url: "/authors/nesbit-edith/the-wouldbegoods/chapter-06.html"
 ---
 
 The ones of us who had started the Society of the Wouldbegoods began, at about this time, to bother.

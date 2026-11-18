@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/greene-homer/the-guardsman/chapter-02.html"
+url: "/authors/greene-homer/the-guardsman/chapter-02.html"
 ---
 
 When Hal McCormack came down to breakfast on the morning following Hallowe’en, he found that the other members of the family had almost completed their morning meal. But it was apparent, from the atmosphere surrounding the table, that something had gone wrong. His mother looked worried, his young sisters looked curious, and his father, who was captain of the local company of the National Guard, had a stern and military air.

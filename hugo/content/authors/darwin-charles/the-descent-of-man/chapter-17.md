@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/darwin-charles/the-descent-of-man/chapter-17.html"
+url: "/authors/darwin-charles/the-descent-of-man/chapter-17.html"
 ---
 
 WITH mammals the male appears to win the female much more through the law of battle than through the display of his charms. The most timid animals, not provided with any special weapons for fighting, engage in desperate conflicts during the season of love. Two male hares have been seen to fight together until one was killed; male moles often fight, and sometimes with fatal results; male squirrels engage in frequent contests, "and often wound each other severely"; as do male beavers, so that "hardly a skin is without scars."* I observed the same fact with the hides of the guanacoes in Patagonia; and on one occasion several were so absorbed in fighting that they fearlessly rushed close by me. Livingstone speaks of the males of the many animals in southern Africa as almost invariably shewing the scars received in former contests.

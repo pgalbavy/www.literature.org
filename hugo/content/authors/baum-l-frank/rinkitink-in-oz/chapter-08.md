@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/baum-l-frank/rinkitink-in-oz/chapter-08.html"
+url: "/authors/baum-l-frank/rinkitink-in-oz/chapter-08.html"
 ---
 
 The fat King rode his goat through the streets of the conquered city and the boy Prince walked proudly beside him, while all the people bent their heads humbly to their new masters, whom they were prepared to serve in the same manner they had King Gos.

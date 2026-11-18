@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The New Neighbor"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-02.html"
 ---
 
 ALL the neighbors began to call him "Daddy Longlegs." And anyone might naturally think that he had lived in Pleasant Valley a great many years. But it was not so. Late in the summer Daddy Longlegs had appeared from nobody knew where.

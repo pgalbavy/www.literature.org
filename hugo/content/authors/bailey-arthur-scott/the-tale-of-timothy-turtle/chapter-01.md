@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Famous Biter"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-01.html"
 ---
 
 That black rascal, Mr. Crow, was not the oldest dweller in Pleasant Valley. There was another elderly gentleman who had spent more summers--and a great many more winters--under the shadow of Blue Mountain than he.

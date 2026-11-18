@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Writing Of The Book"
 weight: 25
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-25.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-25.html"
 ---
 
 Owen Ford came over to the little house the next morning in a state of great excitement. "Mrs. Blythe, this is a wonderful book--absolutely wonderful. If I could take it and use the material for a book I feel certain I could make the novel of the year out of it. Do you suppose Captain Jim would let me do it?"

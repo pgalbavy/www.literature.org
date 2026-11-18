@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Sammy Jay Does Some Guessing"
 weight: 7
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-07.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-07.html"
 ---
 
 Sammy Jay is a queer fellow. Although he is a scamp and dearly loves to make trouble for his neighbors, he is always ready to take their part when others make trouble for them. Many are the times he has given them warning of danger. This is one reason they are quite willing to overlook his own shortcomings. So, though in many ways he is no better than Reddy Fox, he dearly loves to upset Reddy's plans and is very apt to rejoice when Reddy gets into trouble. Of course, being right there, he saw all that happened when Reddy ran against the old barrel at the top of the hill and sent it rolling. He had been quite as much surprised as Reddy to find that there was some one inside, and he had followed Reddy to see who it was. So, of course, he had seen what happened to Reddy.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - We Visit Cousin Mattie's"
 weight: 8
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-07.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-07.html"
 ---
 
 One Saturday in March we walked over to Baywater, for a long- talked-of visit to Cousin Mattie Dilke. By the road, Baywater was six miles away, but there was a short cut across hills and fields and woods which was scantly three. We did not look forward to our visit with any particular delight, for there was nobody at Cousin Mattie's except grown-ups who had been grown up so long that it was rather hard for them to remember they had ever been children. But, as Felicity told us, it was necessary to visit Cousin Mattie at least once a year, or else she would be "huffed," so we concluded we might as well go and have it over.

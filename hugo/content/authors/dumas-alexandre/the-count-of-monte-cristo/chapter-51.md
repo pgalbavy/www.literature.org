@@ -1,8 +1,7 @@
 ---
 title: "Chapter 51 - Pyramus And Thisbe"
 weight: 51
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-51.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-51.html"
 ---
 
 About two-thirds of the way along the Faubourg Saint-Honore, and in the rear of one of the most imposing mansions in this rich neighborhood, where the various houses vie with each other for elegance of design and magnificence of construction, extended a large garden, where the wide-spreading chestnut-trees raised their heads high above the walls in a solid rampart, and with the coming of every spring scattered a shower of delicate pink and white blossoms into the large stone vases that stood upon the two square pilasters of a curiously wrought iron gate, that dated from the time of Louis XII. This noble entrance, however, in spite of its striking appearance and the graceful effect of the geraniums planted in the two vases, as they waved their variegated leaves in the wind and charmed the eye with their scarlet bloom, had fallen into utter disuse. The proprietors of the mansion had many years before thought it best to confine themselves to the possession of the house itself, with its thickly planted court-yard, opening into the Faubourg Saint-Honore, and to the garden shut in by this gate, which formerly communicated with a fine kitchen-garden of about an acre. For the demon of speculation drew a line, or in other words projected a street, at the farther side of the kitchen-garden. The street was laid out, a name was chosen and posted up on an iron plate, but before construction was begun, it occurred to the possessor of the property that a handsome sum might be obtained for the ground then devoted to fruits and vegetables, by building along the line of the proposed street, and so making it a branch of communication with the Faubourg Saint-Honore itself, one of the most important thoroughfares in the city of Paris.

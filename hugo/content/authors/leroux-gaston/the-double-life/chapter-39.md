@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39 - The Final Tragedy"
 weight: 40
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-39.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-39.html"
 ---
 
 IT was nine o’clock in the evening, the season was well advanced, and a heavy mist hung over the land. M. Longuet went up the long drive toward the "Villa Flots de Azure." His hand trembled as he cautiously pushed open the little garden gate. He crossed the garden step by step, to look around. His whole demeanor was one of evil intent. There was a light in the parlor, and the window was half open. With short steps Théophraste advanced, and stretching his head he peered in.

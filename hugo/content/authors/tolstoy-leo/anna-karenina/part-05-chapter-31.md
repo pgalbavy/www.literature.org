@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 31"
 weight: 155
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-31.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-31.html"
 ---
 
 As intensely as Anna had longed to see her son, and long as she had been thinking of it and preparing herself for it, she had not in the least expected that seeing him would affect her so deeply. On getting back to her lonely rooms in the hotel she could not for a long while understand why she was there. "Yes, it's all over, and I am again alone." she said to herself, and without taking off her hat she sat down in a low chair by the hearth. Fixing her eyes on a bronze clock standing on a table between the windows, she tried to think.

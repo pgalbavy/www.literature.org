@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/london-jack/jerry-of-the-islands/chapter-08.html"
+url: "/authors/london-jack/jerry-of-the-islands/chapter-08.html"
 ---
 
 When, in half an hour, Van Horn's sweat culminated in profusion, it marked the breaking of the malarial attack. Great physical relief was his, and the last mists of delirium ebbed from his brain. But he was left limply weak, and, after tossing off the blankets and recognizing Jerry, he fell into a refreshing natural sleep.

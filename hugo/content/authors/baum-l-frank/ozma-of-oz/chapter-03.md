@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/baum-l-frank/ozma-of-oz/chapter-03.html"
+url: "/authors/baum-l-frank/ozma-of-oz/chapter-03.html"
 ---
 
 Walking a little way back from the water's edge, toward the grove of trees, Dorothy came to a flat stretch of white sand that seemed to have queer signs marked upon its surface, just as one would write upon sand with a stick.

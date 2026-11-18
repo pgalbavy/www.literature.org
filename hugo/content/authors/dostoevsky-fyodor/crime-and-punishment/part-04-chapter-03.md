@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 3"
 weight: 24
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-04-chapter-03.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-04-chapter-03.html"
 ---
 
 The fact was that up to the last moment he had never expected such an ending; he had been overbearing to the last degree, never dreaming that two destitute and defenceless women could escape from his control. This conviction was strengthened by his vanity and conceit, a conceit to the point of fatuity. Pyotr Petrovitch, who had made his way up from insignificance, was morbidly given to self-admiration, had the highest opinion of his intelligence and capacities, and sometimes even gloated in solitude over his image in the glass. But what he loved and valued above all was the money he had amassed by his labour, and by all sorts of devices: that money made him the equal of all who had been his superiors.

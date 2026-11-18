@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Pair Of Rascals"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-10.html"
 ---
 
 Mr. Frog reached home just as the sun peeped over the hills. He slipped hastily out of the water, sprang up the bank of the creek, and in three jumps landed on the roof of his tailor's shop. There he squatted, while his queer, bulging eyes scanned the sky in every direction. He was watching for Mr. Crow, and all but bursting with the news that he had for the old gentleman.

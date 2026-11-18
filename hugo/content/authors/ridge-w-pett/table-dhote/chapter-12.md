@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Means Of Transport"
 weight: 12
-aliases:
-  - "/authors/ridge-w-pett/table-dhote/chapter-12.html"
+url: "/authors/ridge-w-pett/table-dhote/chapter-12.html"
 ---
 
 THE indignation meeting occurred without any of the printed entreaties usually found needful in order to induce the public to arouse. It seems less strange that only ladies attended, for the sex is notoriously beginning to take an interest in public questions.

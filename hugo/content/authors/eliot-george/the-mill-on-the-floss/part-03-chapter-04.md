@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 4 - A Vanishing Gleam"
 weight: 24
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-03-chapter-04.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-03-chapter-04.html"
 ---
 
 Mr. Tulliver, even between the fits of spasmodic rigidity which had recurred at intervals ever since he had been found fallen from his horse, was usually in so apathetic a condition that the exits and entrances into his room were not felt to be of great importance. He had lain so still, with his eyes closed, all this morning, that Maggie told her aunt Moss she must not expect her father to take any notice of them.

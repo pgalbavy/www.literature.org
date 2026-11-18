@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - \"It's An Ill Wind That Blows Nobody Any Good\""
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-18.html"
 ---
 
 Although Jethro Juggens was not in the slightest danger of molestation by the Shawanoes from the moment he emerged from the cabin and started across the clearing, he was not to escape all danger and a great scare.

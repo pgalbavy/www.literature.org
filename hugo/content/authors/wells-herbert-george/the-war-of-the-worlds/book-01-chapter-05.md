@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 5 - The Heat-Ray"
 weight: 5
-aliases:
-  - "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-05.html"
+url: "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-05.html"
 ---
 
 After the glimpse I had had of the Martians emerging from the cylinder in which they had come to the earth from their planet, a kind of fascination paralysed my actions. I remained standing knee-deep in the heather, staring at the mound that hid them. I was a battleground of fear and curiosity.

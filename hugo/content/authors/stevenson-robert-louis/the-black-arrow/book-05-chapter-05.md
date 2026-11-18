@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 5 - Night In The Woods: Alicia Risingham"
 weight: 30
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-05-chapter-05.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-05-chapter-05.html"
 ---
 
 It was almost certain that Sir Daniel had made for the Moat House; but, considering the heavy snow, the lateness of the hour, and the necessity under which he would lie of avoiding the few roads and striking across the wood, it was equally certain that he could not hope to reach it ere the morrow.

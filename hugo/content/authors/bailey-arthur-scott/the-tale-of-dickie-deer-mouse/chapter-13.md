@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Feathers Fly"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-13.html"
 ---
 
 "I'm glad to see you," Solomon Owl told his cousin Simon Screecher, while Dickie Deer Mouse stood stock still on the ground beneath the tree where the two cousins were sitting. "I'm glad to see you. And I hope you're enjoying good health."

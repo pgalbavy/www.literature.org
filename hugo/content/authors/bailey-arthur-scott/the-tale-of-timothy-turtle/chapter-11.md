@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - On The Beaver Dam"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-11.html"
 ---
 
 Timothy Turtle was so angry that he went about snapping at everybody and everything. And since the whole Beaver family kept carefully out of his way, he had to content himself with setting his jaws upon roots and sticks.

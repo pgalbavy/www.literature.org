@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - In The Power Of Darkness"
 weight: 22
-aliases:
-  - "/authors/greene-homer/burnham-breaker/chapter-22.html"
+url: "/authors/greene-homer/burnham-breaker/chapter-22.html"
 ---
 
 Ralph slept, hour after hour. He dreamed, and moved his hands uneasily at intervals, but still he slept. There were no noises there to disturb him, and he had been very tired.

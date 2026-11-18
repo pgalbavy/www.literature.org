@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - I Keep My Appointment"
 weight: 26
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-25.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-25.html"
 ---
 
 THE poverty-stricken aspect of the street when we entered it, the dirty and dilapidated condition of the house when we drew up at the door, would have warned most men, in my position, to prepare themselves for a distressing discovery when they were admitted to the interior of the dwelling. The first impression which the place produced on _my_ mind suggested, on the contrary, that the boy's answers to my questions had led me astray. It was simply impossible to associate Mrs. Van Brandt (as _I_ remembered her) with the spectacle of such squalid poverty as I now beheld. I rang the door-bell, feeling persuaded beforehand that my inquiries would lead to no useful result.

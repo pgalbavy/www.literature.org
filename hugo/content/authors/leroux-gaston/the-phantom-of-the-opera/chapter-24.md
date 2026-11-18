@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - \"Barrels! ... Barrels! ... Any Barrels To Sell?\""
 weight: 25
-aliases:
-  - "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-24.html"
+url: "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-24.html"
 ---
 
 *THE PERSIAN'S NARRATIVE CONTINUED*

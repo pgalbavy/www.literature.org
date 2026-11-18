@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 15 - \u0026quot;Devil Take The Hindmost\u0026quot;"
 weight: 15
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-15.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-15.html"
 ---
 
 Wingrave and Aynesworth were alone in a private room of the Waldorf Astoria Hotel. The table at which the former was seated was covered with letters and papers. A New York directory and an atlas were at his elbow.

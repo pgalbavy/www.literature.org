@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/conrad-joseph/almayers-folly/chapter-06.html"
+url: "/authors/conrad-joseph/almayers-folly/chapter-06.html"
 ---
 
 Dain was not long in crossing the river after leaving Almayer. He landed at the water-gate of the stockade enclosing the group of houses which composed the residence of the Rajah of Sambir. Evidently somebody was expected there, for the gate was open, and men with torches were ready to precede the visitor up the inclined plane of planks leading to the largest house where Lakamba actually resided, and where all the business of state was invariably transacted. The other buildings within the enclosure served only to accommodate the numerous household and the wives of the ruler.

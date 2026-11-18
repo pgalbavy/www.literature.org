@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Confession"
 weight: 9
-aliases:
-  - "/authors/chambers-robert-w/the-danger-mark/chapter-09.html"
+url: "/authors/chambers-robert-w/the-danger-mark/chapter-09.html"
 ---
 
 So many guests were arriving from Iron Hill, Cloudy Mountain, and West Gate Village that the capacity of Roya-Neh was overtaxed. Room had to be made somehow; Geraldine and Naïda Mallett doubled up; twin beds were installed for Dysart and Bunny Gray; Rosalie took in Sylvia Quest with a shrug, disdaining any emotion, even curiosity, concerning the motherless girl whose imprudences with Jack Dysart had furnished gossip sufficient to last over from the winter.

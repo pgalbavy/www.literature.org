@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - An Intruder In Camp"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-07.html"
 ---
 
 *THE* minutes pass slowly at such times, and, though Herbert’s duty lasted only two hours, they seemed double the length of that period during the day, or when his companions were awake.

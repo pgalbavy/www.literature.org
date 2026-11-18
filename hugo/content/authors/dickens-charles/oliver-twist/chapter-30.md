@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - Relates What Oliver'S New Visitors Thought Of Him"
 weight: 30
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-30.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-30.html"
 ---
 
 With many loquacious assurances that they would be agreeably surprised in the aspect of the criminal, the doctor drew the young lady's arm through one of his; and offering his disengaged hand to Mrs. Maylie, led them, with much ceremony and stateliness, upstairs.

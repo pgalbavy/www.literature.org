@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-10.html"
+url: "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-10.html"
 ---
 
 Tip was well soaked and dripping water from every angle of his body. But he managed to lean forward and shout in the ear of the Saw-Horse:

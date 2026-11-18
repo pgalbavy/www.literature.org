@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - An Old Friend--Separated"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/the-story-of-red-feather/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/the-story-of-red-feather/chapter-10.html"
 ---
 
 Suddenly Red Feather stopped. Melville did the same, wondering what the cause could be.

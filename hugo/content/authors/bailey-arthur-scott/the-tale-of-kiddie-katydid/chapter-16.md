@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - A Noisy Crowd"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-16.html"
 ---
 
 When the night of the races and other sports finally came, a great crowd began to gather about Farmer Green's place soon after dark. Although Benjamin Bat had told people that the fun wasn't going to begin until almost morning, they were all so excited that they couldn't wait for the night to pass.

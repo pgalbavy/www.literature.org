@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Prey Of The Pack"
 weight: 15
-aliases:
-  - "/authors/williams-frank/the-wilderness-trail/chapter-15.html"
+url: "/authors/williams-frank/the-wilderness-trail/chapter-15.html"
 ---
 
 All the next day, the two prepared for their departure. Donald strengthened the little sledge, and made their goods into a solid pack, convenient for him to carry when Jean should become tired and need to ride. She dismantled the shack of the pathetic little gew-gaws that had been a part of her happy housekeeping, and kissed them all before she gave them into his hands for packing.

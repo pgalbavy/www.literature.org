@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Sold Out"
 weight: 23
-aliases:
-  - "/authors/coolidge-dane/rimrock-jones/chapter-23.html"
+url: "/authors/coolidge-dane/rimrock-jones/chapter-23.html"
 ---
 
 What a fool he was and how much the tiger lady hated him Rimrock was already in a position to judge, but the inner meaning of "Kiss your money good-bye!" was still to be disclosed. As he dashed down the hall and out into the street and into the first taxi that passed it seemed but a cynical way of saying that his sole sweetheart was gold; but when he reached his room and glanced at the tape its meaning was written plain. Navajoa was quoted at six. He brushed aside his excited clerk and called up Buckbee on the 'phone.

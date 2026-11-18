@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Obsession"
 weight: 8
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-07.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-07.html"
 ---
 
 By the end of the week Brandes had done much to efface any unpleasant impression he had made on Ruhannah Carew.

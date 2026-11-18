@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Loss Of Temper"
 weight: 1
-aliases:
-  - "/authors/greene-homer/the-riverpark-rebellion/chapter-01.html"
+url: "/authors/greene-homer/the-riverpark-rebellion/chapter-01.html"
 ---
 
 “Battalion, right forward, fours right, march! Guide left!”

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37"
 weight: 37
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-37.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-37.html"
 ---
 
 The conference between Golcher and the chief, Gray Panther, was vigorous, even if brief. Orders of such a positive nature had been sent that it was probable neither dared disregard them.

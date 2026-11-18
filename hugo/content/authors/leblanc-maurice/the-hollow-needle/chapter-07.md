@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Treatise Of The Needle"
 weight: 7
-aliases:
-  - "/authors/leblanc-maurice/the-hollow-needle/chapter-07.html"
+url: "/authors/leblanc-maurice/the-hollow-needle/chapter-07.html"
 ---
 
 It is four o'clock in the morning. Isidore has not returned to the Lycee Janson. He has no intention of returning before the end of the war of extermination which he has declared against Lupin. This much he swore to himself under his breath, while his friends drove off with him, all faint and bruised, in a cab.

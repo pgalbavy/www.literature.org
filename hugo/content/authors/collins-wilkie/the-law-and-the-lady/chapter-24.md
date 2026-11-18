@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Miserrimus Dexter--First View"
 weight: 24
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-24.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-24.html"
 ---
 
 WE had dawdled over our luncheon before Mrs. Macallan arrived at Benjamin's cottage. The ensuing conversation between the old lady and myself (of which I have only presented a brief abstract) lasted until quite late in the afternoon. The sun was setting in heavy clouds when we got into the carriage, and the autumn twilight began to fall around us while we were still on the road.

@@ -1,8 +1,7 @@
 ---
 title: "Book 13 - Chapter 5"
 weight: 284
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-13-chapter-05.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-13-chapter-05.html"
 ---
 
 Next day the decrepit Kutuzov, having given orders to be called early, said his prayers, dressed, and, with an unpleasant consciousness of having to direct a battle he did not approve of, got into his caleche and drove from Letashovka (a village three and a half miles from Tarutino) to the place where the attacking columns were to meet. He sat in the caleche, dozing and waking up by turns, and listening for any sound of firing on the right as an indication that the action had begun. But all was still quiet. A damp dull autumn morning was just dawning. On approaching Tarutino Kutuzov noticed cavalrymen leading their horses to water across the road along which he was driving. Kutuzov looked at them searchingly, stopped his carriage, and inquired what regiment they belonged to. They belonged to a column that should have been far in front and in ambush long before then. "It may be a mistake," thought the old commander in chief. But a little further on he saw infantry regiments with their arms piled and the soldiers, only partly dressed, eating their rye porridge and carrying fuel. He sent for an officer. The officer reported that no order to advance had been received.

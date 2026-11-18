@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Well Earned Reward"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-scout/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-02.html"
 ---
 
 Buck Kennon smarted so much under the castigation of Mr. Willard that he had hardly stopped his outcries when he reached home. In answer to the demands of his startled father, he stated that a big man, with a cane as large as a telegraph pole, had tried to kill him and came pretty nigh succeeding.

@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 17 - Wherein Is Shown The Furthest And Highest Point Which The Unexampled Courage Of Don Quixote Reached Or Could Reach; Together With The Happily Achieved Adventure Of The Lions"
 weight: 73
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-17.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-17.html"
 ---
 
 The history tells that when Don Quixote called out to Sancho to bring him his helmet, Sancho was buying some curds the shepherds agreed to sell him, and flurried by the great haste his master was in did not know what to do with them or what to carry them in; so, not to lose them, for he had already paid for them, he thought it best to throw them into his master’s helmet, and acting on this bright idea he went to see what his master wanted with him. He, as he approached, exclaimed to him:

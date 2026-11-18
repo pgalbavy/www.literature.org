@@ -1,8 +1,7 @@
 ---
 title: "Part 2"
 weight: 2
-aliases:
-  - "/authors/conrad-joseph/heart-of-darkness/part-02.html"
+url: "/authors/conrad-joseph/heart-of-darkness/part-02.html"
 ---
 
 "One evening as I was lying flat on the deck of my steamboat, I heard voices approaching—and there were the nephew and the uncle strolling along the bank. I laid my head on my arm again, and had nearly lost myself in a doze, when somebody said in my ear, as it were: 'I am as harmless as a little child, but I don't like to be dictated to. Am I the manager—or am I not? I was ordered to send him there. It's incredible.' ... I became aware that the two were standing on the shore alongside the forepart of the steamboat, just below my head. I did not move; it did not occur to me to move: I was sleepy. 'It *is* unpleasant,' grunted the uncle. 'He has asked the Administration to be sent there,' said the other, 'with the idea of showing what he could do; and I was instructed accordingly. Look at the influence that man must have. Is it not frightful?' They both agreed it was frightful, then made several bizarre remarks: 'Make rain and fine weather—one man—the Council—by the nose'—bits of absurd sentences that got the better of my drowsiness, so that I had pretty near the whole of my wits about me when the uncle said, 'The climate may do away with this difficulty for you. Is he alone there?' 'Yes,' answered the manager; 'he sent his assistant down the river with a note to me in these terms: "Clear this poor devil out of the country, and don't bother sending more of that sort. I had rather be alone than have the kind of men you can dispose of with me." It was more than a year ago. Can you imagine such impudence!' 'Anything since then?' asked the other hoarsely. 'Ivory,' jerked the nephew; 'lots of it—prime sort—lots—most annoying, from him.' 'And with that?' questioned the heavy rumble. 'Invoice,' was the reply fired out, so to speak. Then silence. They had been talking about Kurtz.

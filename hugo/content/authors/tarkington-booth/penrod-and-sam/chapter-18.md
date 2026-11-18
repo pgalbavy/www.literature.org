@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - On Account Of The Weather"
 weight: 18
-aliases:
-  - "/authors/tarkington-booth/penrod-and-sam/chapter-18.html"
+url: "/authors/tarkington-booth/penrod-and-sam/chapter-18.html"
 ---
 
 There is no boredom (not even an invalid's) comparable to that of a boy who has nothing to do. When a man says he has nothing to do, he speaks idly; there is always more than he can do. Grown women never say they have nothing to do, and when girls or little girls say they have nothing to do, they are merely airing an affectation. But when a boy has nothing to do, he has actually nothing at all to do; his state is pathetic, and when he complains of it his voice is haunting.

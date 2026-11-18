@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Hetty's World"
 weight: 9
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-09.html"
+url: "/authors/eliot-george/adam-bede/chapter-09.html"
 ---
 
 WHILE she adjusted the broad leaves that set off the pale fragrant butter as the primrose is set off by its nest of green I am afraid Hetty was thinking a great deal more of the looks Captain Donnithorne had cast at her than of Adam and his troubles. Bright, admiring glances from a handsome young gentleman with white hands, a gold chain, occasional regimentals, and wealth and grandeur immeasurable - those were the warm rays that set poor Hetty's heart vibrating and playing its little foolish tunes over and over again. We do not hear that Memnon's statue gave forth its melody at all under the rushing of the mightiest wind, or in response to any other influence divine or human than certain short-lived sunbeams of morning; and we must learn to accommodate ourselves to the discovery that some of those cunningly fashioned instruments called human souls have only a very limited range of music, and will not vibrate in the least under a touch that fills others with tremulous rapture or quivering agony.

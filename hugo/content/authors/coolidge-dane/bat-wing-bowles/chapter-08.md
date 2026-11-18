@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Cowboy's Life"
 weight: 8
-aliases:
-  - "/authors/coolidge-dane/bat-wing-bowles/chapter-08.html"
+url: "/authors/coolidge-dane/bat-wing-bowles/chapter-08.html"
 ---
 
 As the name of the Deity, to a cowboy, means little more than a word to swear by, so the holy Sabbath is forgotten as a day of rest. Not that the hard-riding puncher would not rest if he got the chance, but the traditions of the cow business make no allowances for godliness and ease. For forty dollars and found, the round-up hand is expected to work every day in the month, and take all his Sundays in a bunch when the boss writes out his time. From daylight to dark are his hours of labor, with horse wrangling and night-guard to boot; and yet there are men of elegance and leisure who try to crush in on the job.

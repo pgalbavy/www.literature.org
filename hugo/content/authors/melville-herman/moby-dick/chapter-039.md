@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39 - First Night Watch"
 weight: 39
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-039.html"
+url: "/authors/melville-herman/moby-dick/chapter-039.html"
 ---
 
 (Stubb solus, and mending a brace.)

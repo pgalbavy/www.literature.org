@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 26
-aliases:
-  - "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-25.html"
+url: "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-25.html"
 ---
 
 THERE comes a time in every rightly-constructed boy's life when he has a raging desire to go somewhere and dig for hidden treasure. This desire suddenly came upon Tom one day. He sallied out to find Joe Harper, but failed of success. Next he sought Ben Rogers; he had gone fishing. Presently he stumbled upon Huck Finn the Red-Handed. Huck would answer. Tom took him to a private place and opened the matter to him confidentially. Huck was willing. Huck was always willing to take a hand in any enterprise that offered entertainment and required no capital, for he had a troublesome superabundance of that sort of time which is not money. "Where'll we dig?" said Huck.

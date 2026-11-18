@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Strangers"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-21.html"
 ---
 
 The signs of an approaching storm that had been noted with some apprehension the night before, passed away. The sky revealed hardly a cloud rift, and, when the sun had climbed the mountain crests, the scene was grand beyond description. But for the grim errand of the four men, holding relentlessly to the pursuit, they must have yielded to its impressive influence.

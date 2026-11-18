@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/crane-stephen/the-red-badge-of-courage/chapter-05.html"
+url: "/authors/crane-stephen/the-red-badge-of-courage/chapter-05.html"
 ---
 
 THERE were moments of waiting. The youth thought of the village street at home before the arrival of the circus parade on a day in the spring. He remembered how he had stood, a small, thrillful boy, prepared to follow the dingy lady upon the white horse, or the band in its faded chariot. He saw the yellow road, the lines of expectant people, and the sober houses. He particularly remembered an old fellow who used to sit upon a cracker box in front of the store and feign to despise such exhibitions. A thousand details of color and form surged in his mind. The old fellow upon the cracker box ap- peared in middle prominence.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Basketful Of Fun"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-15.html"
 ---
 
 Johnnie Green came home from his visit at last. The moment Spot heard the old horse Ebenezer come jogging up the road he tore out of the yard and ran, barking, to meet the travellers. He frisked about the buggy, he sprang up and touched Ebenezer's nose with his own, he tried to jump into the buggy beside Johnnie Green.

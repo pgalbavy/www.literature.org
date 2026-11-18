@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 3 - St. Bride's Cross"
 weight: 16
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-03-chapter-03.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-03-chapter-03.html"
 ---
 
 St. Bride's Cross stood a little way back from Shoreby, on the skirts of Tunstall Forest. Two roads met: one, from Holywood across the forest; one, that road from Risingham down which we saw the wrecks of a Lancastrian army fleeing in disorder. Here the two joined issue, and went on together down the hill to Shoreby; and a little back from the point of junction, the summit of a little knoll was crowned by the ancient and weather-beaten cross.

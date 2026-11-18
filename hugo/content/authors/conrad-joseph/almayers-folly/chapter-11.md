@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/conrad-joseph/almayers-folly/chapter-11.html"
+url: "/authors/conrad-joseph/almayers-folly/chapter-11.html"
 ---
 
 In the middle of a shadowless square of moonlight, shining on a smooth and level expanse of young rice-shoots, a little shelter-hut perched on high posts, the pile of brushwood near by and the glowing embers of a fire with a man stretched before it, seemed very small and as if lost in the pale green iridescence reflected from the ground. On three sides of the clearing, appearing very far away in the deceptive light, the big trees of the forest, lashed together with manifold bonds by a mass of tangled creepers, looked down at the growing young life at their feet with the sombre resignation of giants that had lost faith in their strength. And in the midst of them the merciless creepers clung to the big trunks in cable-like coils, leaped from tree to tree, hung in thorny festoons from the lower boughs, and, sending slender tendrils on high to seek out the smallest branches, carried death to their victims in an exulting riot of silent destruction.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/tolstoy-leo/master-and-man/chapter-01.html"
+url: "/authors/tolstoy-leo/master-and-man/chapter-01.html"
 ---
 
 It happened in the 'seventies in winter, on the day after St. Nicholas's Day. There was a fete in the parish and the innkeeper, Vasili Andreevich Brekhunov, a Second Guild merchant, being a church elder had to go to church, and had also to entertain his relatives and friends at home.

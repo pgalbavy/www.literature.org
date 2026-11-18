@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/wells-herbert-george/the-time-machine/chapter-11.html"
+url: "/authors/wells-herbert-george/the-time-machine/chapter-11.html"
 ---
 
 'I have already told you of the sickness and confusion that comes with time travelling. And this time I was not seated properly in the saddle, but sideways and in an unstable fashion. For an indefinite time I clung to the machine as it swayed and vibrated, quite unheeding how I went, and when I brought myself to look at the dials again I was amazed to find where I had arrived. One dial records days, and another thousands of days, another millions of days, and another thousands of millions. Now, instead of reversing the levers, I had pulled them over so as to go forward with them, and when I came to look at these indicators I found that the thousands hand was sweeping round as fast as the seconds hand of a watch--into futurity.

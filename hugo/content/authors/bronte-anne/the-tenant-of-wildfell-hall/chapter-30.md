@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 31
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-30.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-30.html"
 ---
 
 On the following morning I received a few lines from him myself, confirming Hargrave's intimations respecting his approaching return. And he did come next week, but in a condition of body and mind even worse than before. I did not, however, intend to pass over his derelictions this time without a remark; I found it would not do. But the first day he was weary with his journey, and I was glad to get him back: I would not upbraid him then; I would wait till to-morrow. Next morning he was weary still: I would wait a little longer. But at dinner, when, after breakfasting at twelve o'clock on a bottle of soda-water and a cup of strong coffee, and lunching at two on another bottle of soda-water mingled with brandy, he was finding fault with everything on the table, and declaring we must change our cook, I thought the time was come.

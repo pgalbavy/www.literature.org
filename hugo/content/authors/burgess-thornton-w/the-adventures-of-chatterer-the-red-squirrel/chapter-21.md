@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Chatterer Hears The Small Voice"
 weight: 21
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-21.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-21.html"
 ---
 
 The very first of the little meadow and forest people to see Chatterer after he had safely reached the Old Orchard, was Tommy Tit the Chickadee. It just happened that Tommy was very busy in the very apple-tree in which was the old home of Drummer the Woodpecker when Chatterer reached it. You know Chatterer had moved into it for the winter just a little while before he had been caught in the corn-crib by Farmer Brown's boy.

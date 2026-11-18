@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 3"
 weight: 3
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-01-chapter-03.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-01-chapter-03.html"
 ---
 
 The third act of Cousin Kate was well advanced by the time Mrs. Moore re-entered the club. Windows were barred, lest the servants should see their mem-sahibs acting, and the heat was consequently immense. One electric fan revolved like a wounded bird, another was out of order. Disinclined to return to the audience, she went into the billiard room, where she was greeted by “I want to see the real India,” and her appropriate life came back with a rush. This was Adela Quested, the queer, cautious girl whom Ronny had commissioned her to bring from England, and Ronny was her son, also cautious, whom Miss Quested would probably though not certainly marry, and she herself was an elderly lady.

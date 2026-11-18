@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Finds Print Of Man's Foot On The Sand"
 weight: 11
-aliases:
-  - "/authors/defoe-daniel/robinson-crusoe/chapter-11.html"
+url: "/authors/defoe-daniel/robinson-crusoe/chapter-11.html"
 ---
 
 IT would have made a Stoic smile to have seen me and my little family sit down to dinner. There was my majesty the prince and lord of the whole island; I had the lives of all my subjects at my absolute command; I could hang, draw, give liberty, and take it away, and no rebels among all my subjects. Then, to see how like a king I dined, too, all alone, attended by my servants! Poll, as if he had been my favourite, was the only person permitted to talk to me. My dog, who was now grown old and crazy, and had found no species to multiply his kind upon, sat always at my right hand; and two cats, one on one side of the table and one on the other, expecting now and then a bit from my hand, as a mark of especial favour.

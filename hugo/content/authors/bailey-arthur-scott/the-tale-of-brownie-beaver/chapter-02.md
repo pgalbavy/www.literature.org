@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - How To Fell A Tree"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-02.html"
 ---
 
 Brownie Beaver could do many things that other forest-people (except his own relations) were not able to do at all. For instance, cutting down a tree was something that nobody but one of the Beaver family would think of attempting. But as for Brownie Beaver--if he ever saw a tree that he wanted to cut down he set to work at once, without even going home to get any tools. And the reason for that was that he always had his tools with him. For strange as it may seem, he used his teeth to do all his wood-cutting.

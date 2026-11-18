@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/buck-charles-neville/the-key-to-yesterday/chapter-12.html"
+url: "/authors/buck-charles-neville/the-key-to-yesterday/chapter-12.html"
 ---
 
 Below, in the narrow confines of the cabin, Saxon paced back and forth excitedly as he talked. For five minutes, he did not pause, and the other man, sitting on the camp-stool in a corner of the place, followed him with eyes much as a lion-tamer, shut in a cage with his uncertain charge, keeps his gaze bent on the animal. As he listened, Rodman's expression ran a gamut from astonishment, through sympathy, and into final distrust. At last, Saxon ended with:

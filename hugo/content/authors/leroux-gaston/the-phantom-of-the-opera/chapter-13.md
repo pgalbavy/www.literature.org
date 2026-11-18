@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Master-Stroke Of The Trap-Door Lover"
 weight: 14
-aliases:
-  - "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-13.html"
+url: "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-13.html"
 ---
 
 Raoul and Christine ran, eager to escape from the roof and the blazing eyes that showed only in the dark; and they did not stop before they came to the eighth floor on the way down.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-17.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-17.html"
 ---
 
 IN about a minute somebody spoke out of a window without putting his head out, and says:

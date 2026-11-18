@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Reverend's Strategy"
 weight: 22
-aliases:
-  - "/authors/titus-harold/the-last-straw/chapter-22.html"
+url: "/authors/titus-harold/the-last-straw/chapter-22.html"
 ---
 
 Throughout the day the sun beat into the cañon, its heat relieved by rare breezes of brief duration. What wind did come raised swirls of dust and rustled wilted foliage, for the country had become ash dry.

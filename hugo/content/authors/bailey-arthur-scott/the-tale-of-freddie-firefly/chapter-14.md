@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Jennie Junebug"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-14.html"
 ---
 
 On the day--or rather, on the night--when he first met Jennie Junebug, Freddie Firefly was ill at ease. In fact it might be truthfully said that he was quite upset.

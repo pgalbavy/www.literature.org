@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Knowledge, Error, And Probable Opinion"
 weight: 14
-aliases:
-  - "/authors/russell-bertrand/the-problems-of-philosophy/chapter-13.html"
+url: "/authors/russell-bertrand/the-problems-of-philosophy/chapter-13.html"
 ---
 
 The question as to what we mean by truth and falsehood, which we considered in the preceding chapter, is of much less interest than the question as to how we can know what is true and what is false. This question will occupy us in the present chapter. There can be no doubt that *some* of our beliefs are erroneous; thus we are led to inquire what certainty we can ever have that such and such a belief is not erroneous. In other words, can we ever *know* anything at all, or do we merely sometimes by good luck believe what is true? Before we can attack this question, we must, however, first decide what we mean by 'knowing', and this question is not so easy as might be supposed.

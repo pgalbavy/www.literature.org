@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 17 - Drifting"
 weight: 35
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-17.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-17.html"
 ---
 
 It was Hercules, not easily recognized in his magician's attire, who was speaking thus, and it was Dick Sand whom he was addressing - Dick Sand, still feeble enough, to lean on Cousin Benedict, near whom Dingo was lying.

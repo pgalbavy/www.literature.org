@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - The Indictment Of Mrs. Beauly"
 weight: 30
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-30.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-30.html"
 ---
 
 I STARTED to my feet, and looked at Miserrimus Dexter. I was too much agitated to be able to speak to him.

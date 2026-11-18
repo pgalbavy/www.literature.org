@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-11.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-11.html"
 ---
 
 Trent was awakened next morning by the sound of carriage wheels in the drive below. He rang his bell at once. After a few moments' delay it was answered by one of his two men-servants.

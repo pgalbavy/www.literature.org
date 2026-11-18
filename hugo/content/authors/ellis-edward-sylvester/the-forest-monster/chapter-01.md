@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Mysterious Rescue"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/the-forest-monster/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/the-forest-monster/chapter-01.html"
 ---
 
 The wind was howling over the prairie, with a sharp, penetrating power, while a few feathery flashes eddying through the air, showed that although it was the season of spring, yet in this elevated region of the Far West, there was scarcely the first premonition of its breath.

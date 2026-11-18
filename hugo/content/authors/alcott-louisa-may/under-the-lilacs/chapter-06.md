@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Circulating Library"
 weight: 6
-aliases:
-  - "/authors/alcott-louisa-may/under-the-lilacs/chapter-06.html"
+url: "/authors/alcott-louisa-may/under-the-lilacs/chapter-06.html"
 ---
 
 After supper that night, Bab and Betty sat in the old porch playing with Josephus and Belinda, and discussing the events of the day; for the appearance of the strange boy and his dog had been a most exciting occurrence in their quiet lives. They had seen nothing of him since morning, as he took his meals at the Squire's, and was at work with Pat in a distant field when the children passed. Sancho had stuck closely to his master, evidently rather bewildered by the new order of things, and bound to see that no harm happened to Ben.

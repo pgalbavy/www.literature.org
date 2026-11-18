@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 4"
 weight: 49
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-05-chapter-04.html"
+url: "/authors/cather-willa/song-of-the-lark/part-05-chapter-04.html"
 ---
 
 AT nine o'clock that evening our three friends were seated in the balcony of a French restaurant, much gayer and more intimate than any that exists in New York to-day. This old restaurant was built by a lover of pleasure, who knew that to dine gayly human beings must have the reassurance of certain limitations of space and of a certain definite style; that the walls must be near enough to suggest shelter, the ceiling high enough to give the chandeliers a setting. The place was crowded with the kind of people who dine late and well, and Dr. Archie, as he watched the animated groups in the long room below the balcony, found this much the most festive scene he had ever looked out upon. He said to himself, in a jovial mood somewhat sustained by the cheer of the board, that this evening alone was worth his long journey. He followed attentively the orchestra, ensconced at the farther end of the balcony, and told Thea it made him feel “quite musical” to recognize “The Invitation to the Dance” or “The Blue Danube,” and that he could remember just what kind of day it was when he heard her practicing them at home, and lingered at the gate to listen.

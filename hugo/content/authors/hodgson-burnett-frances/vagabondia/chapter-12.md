@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - In Which There Is An Explosion"
 weight: 12
-aliases:
-  - "/authors/hodgson-burnett-frances/vagabondia/chapter-12.html"
+url: "/authors/hodgson-burnett-frances/vagabondia/chapter-12.html"
 ---
 
 “It is my impression,” said Dolly, “that something is going to happen.”

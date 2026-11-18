@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Surroundings"
 weight: 5
-aliases:
-  - "/authors/ridge-w-pett/table-dhote/chapter-05.html"
+url: "/authors/ridge-w-pett/table-dhote/chapter-05.html"
 ---
 
 “COME on in!” he cried sportively at the window of the compartment. “Plenty of room. Reserved for gentlemen. The more the merrier!”

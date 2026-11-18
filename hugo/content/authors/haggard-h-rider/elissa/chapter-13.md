@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Sacrilege Of Aziel"
 weight: 14
-aliases:
-  - "/authors/haggard-h-rider/elissa/chapter-13.html"
+url: "/authors/haggard-h-rider/elissa/chapter-13.html"
 ---
 
 How long he lay in his dungeon, lost in bitter thought and tormented by fears for Elissa, Aziel could not tell, for no light came there to mark the passage of the hours. In the tumult of his mind, one terrible thought grew clear and ever clearer; he and Elissa had been taken red-handed, and must pay the price of their sin against the religious customs of the city. For the Baaltis to be found with any man who was not her husband meant death to him and her, a doom from which there was little chance of escape.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Trying For Altitude"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-04.html"
 ---
 
 Ah, but Harvey Hamilton was sly. He began slowly creeping up until his machine was directly over the rear passenger coach, there being three beside the express car. Had he dropped a stone from his perch, it would have fallen upon the roof of the last one. The exultant expression on the myriad of faces took on a tint of anxiety. The fireman yanked open the door of the fire-box and shoveled in coal. No need of that, for 39 was already blowing off, even when running at so high speed. Jim Halpine had drawn over the long reversing lever till it stood within a few inches of perpendicular and another shift would have choked the engine.

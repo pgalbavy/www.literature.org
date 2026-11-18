@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Find"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-15.html"
 ---
 
 It was an unpleasant discovery to the boys that after parting company with the ill-favored man who was known to be a friend and comrade of the rogue Ike Hardman, and after travelling hundreds of miles to this lonely spot, they should meet the fellow again. Doubtless he was engaged on the same errand as themselves, and the presumption was that sooner or later he would be joined by Hardman.

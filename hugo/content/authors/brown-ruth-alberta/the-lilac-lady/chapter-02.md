@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Flag Room"
 weight: 2
-aliases:
-  - "/authors/brown-ruth-alberta/the-lilac-lady/chapter-02.html"
+url: "/authors/brown-ruth-alberta/the-lilac-lady/chapter-02.html"
 ---
 
 Scarcely had the dinner hour ended that evening when the hilarious trio of younger girls, followed by the more sedate, but no less eager older sisters, scurried down the long corridor toward the den where the President had already intrenched himself, waiting for the promised visit.

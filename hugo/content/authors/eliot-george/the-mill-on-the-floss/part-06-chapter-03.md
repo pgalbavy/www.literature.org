@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 3 - Confidential Moments"
 weight: 42
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-06-chapter-03.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-06-chapter-03.html"
 ---
 
 When Maggie went up to her bedroom that night, it appeared that she was not at all inclined to undress. She set down her candle on the first table that presented itself, and began to walk up and down her room, which was a large one, with a firm, regular, and rather rapid step, which showed that the exercise was the instinctive vent of strong excitement. Her eyes and cheeks had an almost feverish brilliancy; her head was thrown backward, and her hands were clasped with the palms outward, and with that tension of the arms which is apt to accompany mental absorption.

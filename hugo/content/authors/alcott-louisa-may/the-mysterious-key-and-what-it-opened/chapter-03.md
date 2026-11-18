@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Secret Service"
 weight: 3
-aliases:
-  - "/authors/alcott-louisa-may/the-mysterious-key-and-what-it-opened/chapter-03.html"
+url: "/authors/alcott-louisa-may/the-mysterious-key-and-what-it-opened/chapter-03.html"
 ---
 
 In a week Paul was a favorite with the household; even prudent Hester felt the charm of his presence, and owned that Lillian was happier for a young companion in her walks. Hitherto the child had led a solitary life, with no playmates of her own age, such being the will of my lady; therefore she welcomed Paul as a new and delightful amusement, considering him her private property and soon transferring his duties from the garden to the house. Satisfied of his merits, my lady yielded to Lillian's demands, and Paul was installed as page to the young lady. Always respectful and obedient, he never forgot his place, yet seemed unconsciously to influence all who approached him, and win the goodwill of everyone.

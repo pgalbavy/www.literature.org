@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/chambers-robert-w/cardigan/chapter-15.html"
+url: "/authors/chambers-robert-w/cardigan/chapter-15.html"
 ---
 
 I was awakened shortly after daylight by a hubbub and stirring in the street outside, and I lay in bed, listening, half asleep. About six o'clock the Weasel opened my chamber door, saying that Pittsburg was filling with refugees from the frontier, and that a battalion of militia under Cresap had just left to scout on the Monongahela.

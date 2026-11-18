@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/burroughs-edgar-rice/the-land-that-time-forgot/chapter-08.html"
+url: "/authors/burroughs-edgar-rice/the-land-that-time-forgot/chapter-08.html"
 ---
 
 It was a sad leave-taking as in silence I shook hands with each of the three remaining men. Even poor Nobs appeared dejected as we quit the compound and set out upon the well-marked spoor of the abductor. Not once did I turn my eyes backward toward Fort Dinosaur. I have not looked upon it since--nor in all likelihood shall I ever look upon it again. The trail led northwest until it reached the western end of the sandstone cliffs to the north of the fort; there it ran into a well-defined path which wound northward into a country we had not as yet explored. It was a beautiful, gently rolling country, broken by occasional outcroppings of sandstone and by patches of dense forest relieved by open, park-like stretches and broad meadows whereon grazed countless herbivorous animals--red deer, aurochs, and infinite variety of antelope and at least three distinct species of horse, the latter ranging in size from a creature about as large as Nobs to a magnificent animal fourteen to sixteen hands high. These creatures fed together in perfect amity; nor did they show any great indications of terror when Nobs and I approached. They moved out of our way and kept their eyes upon us until we had passed; then they resumed their feeding.

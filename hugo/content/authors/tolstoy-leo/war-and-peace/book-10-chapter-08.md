@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 8"
 weight: 198
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-08.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-08.html"
 ---
 
 Princess Mary was not in Moscow and out of danger as Prince Andrew supposed.

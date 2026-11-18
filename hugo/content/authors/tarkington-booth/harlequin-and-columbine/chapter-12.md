@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/tarkington-booth/harlequin-and-columbine/chapter-12.html"
+url: "/authors/tarkington-booth/harlequin-and-columbine/chapter-12.html"
 ---
 
 As the sound of the furious voice stopped short, there fell a stricken silence upon these three men.

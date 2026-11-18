@@ -1,8 +1,7 @@
 ---
 title: "Chapter 57"
 weight: 57
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-57.html"
+url: "/authors/eliot-george/middlemarch/chapter-57.html"
 ---
 
 They numbered scarce eight summers when a name Rose on their souls and stirred such motions there As thrill the buds and shape their hidden frame At penetration of the quickening air: His name who told of loyal Evan Dhu, Of quaint Bradwardine, and Vich Ian Vor, Making the little world their childhood knew Large with a land of mountain lake and scaur, And larger yet with wonder love belief Toward Walter Scott who living far away Sent them this wealth of joy and noble grief. The book and they must part, but day by day, In lines that thwart like portly spiders ran They wrote the tale, from Tully Veolan.

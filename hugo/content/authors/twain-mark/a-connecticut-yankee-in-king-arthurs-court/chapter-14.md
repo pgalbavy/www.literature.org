@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - \u0026quot;Defend Thee, Lord\u0026quot;"
 weight: 15
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-14.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-14.html"
 ---
 
 I PAID three pennies for my breakfast, and a most extravagant price it was, too, seeing that one could have breakfasted a dozen persons for that money; but I was feeling good by this time, and I had always been a kind of spendthrift anyway; and then these people had wanted to give me the food for nothing, scant as their provision was, and so it was a grateful pleasure to emphasize my appreciation and sincere thankfulness with a good big financial lift where the money would do so much more good than it would in my helmet, where, these pennies being made of iron and not stinted in weight, my half-dollar's worth was a good deal of a burden to me. I spent money rather too freely in those days, it is true; but one reason for it was that I hadn't got the proportions of things entirely adjusted, even yet, after so long a sojourn in Britain -- hadn't got along to where I was able to absolutely realize that a penny in Arthur's land and a couple of dollars in Connecticut were about one and the same thing: just twins, as you may say, in purchasing power. If my start from Camelot could have been delayed a very few days I could have paid these people in beautiful new coins from our own mint, and that would have pleased me; and them, too, not less. I had adopted the American values exclusively. In a week or two now, cents, nickels, dimes, quarters, and half-dollars, and also a trifle of gold, would be trickling in thin but steady streams all through the commercial veins of the kingdom, and I looked to see this new blood freshen up its life.

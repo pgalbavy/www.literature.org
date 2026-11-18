@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-29.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-29.html"
 ---
 
 Mrs. Sylvestre did not leave town early. The weather was reasonably cool, the house on Lafayette Square was comfortable, and Washington in spring is at its loveliest. She liked the lull after the season, and enjoyed it to its utmost, wisely refusing all invitations to fitful after-Lent gayeties. She held no more receptions, but saw her more intimate acquaintances in the evening, when they made their informal calls. With each week that passed, her home gave her greater pleasure and grew prettier.

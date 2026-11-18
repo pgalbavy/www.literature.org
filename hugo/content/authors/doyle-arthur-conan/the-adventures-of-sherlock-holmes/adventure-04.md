@@ -1,8 +1,7 @@
 ---
 title: "Adventure 4 - The Boscombe Valley Mystery"
 weight: 4
-aliases:
-  - "/authors/doyle-arthur-conan/the-adventures-of-sherlock-holmes/adventure-04.html"
+url: "/authors/doyle-arthur-conan/the-adventures-of-sherlock-holmes/adventure-04.html"
 ---
 
 We were seated at breakfast one morning, my wife and I, when the maid brought in a telegram. It was from Sherlock Holmes, and ran in this way:

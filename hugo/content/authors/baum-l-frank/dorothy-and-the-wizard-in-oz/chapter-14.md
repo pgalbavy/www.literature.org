@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-14.html"
+url: "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-14.html"
 ---
 
 For a considerable distance the way led straight upward in a gentle incline, and the wanderers made such good progress that they grew hopeful and eager, thinking they might see sunshine at any minute. But at length they came unexpectedly upon a huge rock that shut off the passage and blocked them from proceeding a single step farther.

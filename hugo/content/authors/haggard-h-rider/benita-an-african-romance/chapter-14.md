@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Flight"
 weight: 15
-aliases:
-  - "/authors/haggard-h-rider/benita-an-african-romance/chapter-14.html"
+url: "/authors/haggard-h-rider/benita-an-african-romance/chapter-14.html"
 ---
 
 The next morning, Sunday, Meyer went to work on his new plan. What it was Benita did not trouble to inquire, but she gathered that it had something to do with the measuring out of the chapel cave into squares for the more systematic investigation of each area. At twelve o’clock he emerged for his midday meal, in the course of which he remarked that it was very dreary working in that place alone, and that he would be glad when it was Monday, and they could accompany him. His words evidently disturbed Mr. Clifford not a little, and even excited some compunction in the breast of Benita.

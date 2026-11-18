@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-13.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-13.html"
 ---
 
 In which Passepartout receives a new proof that fortune favors the brave

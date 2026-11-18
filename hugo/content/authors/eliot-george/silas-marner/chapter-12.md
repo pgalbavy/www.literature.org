@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/eliot-george/silas-marner/chapter-12.html"
+url: "/authors/eliot-george/silas-marner/chapter-12.html"
 ---
 
 While Godfrey Cass was taking draughts of forgetfulness from the sweet presence of Nancy, willingly losing all sense of that hidden bond which at other moments galled and fretted him so as to mingle irritation with the very sunshine, Godfrey's wife was walking with slow uncertain steps through the snow-covered Raveloe lanes, carrying her child in her arms.

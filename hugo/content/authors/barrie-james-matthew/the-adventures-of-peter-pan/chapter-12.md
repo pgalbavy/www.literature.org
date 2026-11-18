@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Children Are Carried Off"
 weight: 12
-aliases:
-  - "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-12.html"
+url: "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-12.html"
 ---
 
 The pirate attack had been a complete surprise: a sure proof that the unscrupulous Hook had conducted it improperly, for to surprise redskins fairly is beyond the wit of the white man.

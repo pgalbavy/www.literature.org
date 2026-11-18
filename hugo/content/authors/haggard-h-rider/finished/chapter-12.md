@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Trapped"
 weight: 13
-aliases:
-  - "/authors/haggard-h-rider/finished/chapter-12.html"
+url: "/authors/haggard-h-rider/finished/chapter-12.html"
 ---
 
 Outside in the cool night air I recovered myself, sufficiently at any rate to be able to think, and saw at once that the thing was an illusion for which Zikali had prepared my mind very carefully by means of the young witch-doctoress, Nombe. He knew well enough that this remarkable woman, Mameena, had made a deep impression on me nearly a quarter of a century before, as she had done upon other men with whom she had been associated. Therefore it was probable that she would always be present to my thought, since whatever a man forgets, he remembers the women who have shown him favour, true or false, for Nature has decreed it thus.

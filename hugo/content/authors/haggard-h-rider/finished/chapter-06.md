@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Miss Heda"
 weight: 7
-aliases:
-  - "/authors/haggard-h-rider/finished/chapter-06.html"
+url: "/authors/haggard-h-rider/finished/chapter-06.html"
 ---
 
 It might be thought that after all this there would have been a painful explanation on the following morning, but nothing of the sort happened. After all the greatest art is the art of ignoring things, without which the world could scarcely go on, even among the savage races. Thus on this occasion the two chief actors in the scene of the previous night pretended that they had forgotten what took place, as I believe, to a large extent truly. The fierce flame of drink in the one and of passion in the other had burnt the web of remembrance to ashes. They knew that something unpleasant had occurred and its main outlines; the rest had vanished away; perhaps because they knew also that they were not responsible for what they said and did, and therefore that what occurred had no right to a permanent niche in their memories. It was, as it were, something outside of their normal selves. At least so I conjectured, and their conduct seemed to give colour to my guess.

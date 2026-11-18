@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Cattle War"
 weight: 12
-aliases:
-  - "/authors/coolidge-dane/the-texican/chapter-11.html"
+url: "/authors/coolidge-dane/the-texican/chapter-11.html"
 ---
 
 When Pecos Dalhart, flying from his own evil conscience, went stampeding out into the wilderness, Isaac Crittenden and John Upton gazed after him with but a single thought—who would get his cattle? With Pecos out of the way, Crittenden saw a clear field ahead of him in the Lost Dog country and he joined Morgan in a throaty laugh, but Upton viewed his mad flight with disappointment and chagrin.

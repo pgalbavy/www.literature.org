@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 8"
 weight: 9
-aliases:
-  - "/authors/cather-willa/my-antonia/book-01-chapter-08.html"
+url: "/authors/cather-willa/my-antonia/book-01-chapter-08.html"
 ---
 
 WHILE THE AUTUMN COLOUR was growing pale on the grass and cornfields, things went badly with our friends the Russians. Peter told his troubles to Mr. Shimerda: he was unable to meet a note which fell due on the first of November; had to pay an exorbitant bonus on renewing it, and to give a mortgage on his pigs and horses and even his milk cow. His creditor was Wick Cutter, the merciless Black Hawk money-lender, a man of evil name throughout the county, of whom I shall have more to say later. Peter could give no very clear account of his transactions with Cutter. He only knew that he had first borrowed two hundred dollars, then another hundred, then fifty--that each time a bonus was added to the principal, and the debt grew faster than any crop he planted. Now everything was plastered with mortgages.

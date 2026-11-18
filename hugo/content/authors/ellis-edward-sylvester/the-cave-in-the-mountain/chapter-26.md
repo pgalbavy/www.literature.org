@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Lone Wolf's Tactics"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-26.html"
 ---
 
 Mickey O'Rooney gave a yell of defiance as he vanished from view, horse and rider unharmed by the scattering shots which followed them, even after they were lost to sight. It was well and bravely done, and yet it would have failed altogether but for the wonderful cunning and shrewd courage of Simpson, who had kept close to the heels of the flying horse. It was when the crisis came—when the Apaches were closing around the fugitive, and it seemed inevitable that he should reap the natural reward of his own foolhardiness that Sut had acted. When the warriors were confident of their success, he discharged his rifle with marvelous quickness, and with a more important result than the mere tumbling over of his man.

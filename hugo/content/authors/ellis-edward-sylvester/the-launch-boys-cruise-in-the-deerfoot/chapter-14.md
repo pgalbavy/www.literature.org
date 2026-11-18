@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Friend In Need"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-14.html"
 ---
 
 The automobile with the constable and two prisoners sped down the road, aiming to stride the main highway leading northward to Augusta. It was a good run, but the machine ought to make it before night closed in, for the days were long and the course was favorable. The officer could have boarded the *Gardiner* at one of the stopping places and made the journey by water, but nothing was to be gained by so doing.

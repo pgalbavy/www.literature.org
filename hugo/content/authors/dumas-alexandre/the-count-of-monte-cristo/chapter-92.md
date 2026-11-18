@@ -1,8 +1,7 @@
 ---
 title: "Chapter 92 - The Suicide"
 weight: 92
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-92.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-92.html"
 ---
 
 Meanwhile Monte Cristo had also returned to town with Emmanuel and Maximilian. Their return was cheerful. Emmanuel did not conceal his joy at the peaceful termination of the affair, and was loud in his expressions of delight. Morrel, in a corner of the carriage, allowed his brother-in-law's gayety to expend itself in words, while he felt equal inward joy, which, however, betrayed itself only in his countenance. At the Barriere du Trone they met Bertuccio, who was waiting there, motionless as a sentinel at his post. Monte Cristo put his head out of the window, exchanged a few words with him in a low tone, and the steward disappeared. "Count," said Emmanuel, when they were at the end of the Place Royale, "put me down at my door, that my wife may not have a single moment of needless anxiety on my account or yours."

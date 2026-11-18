@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 3 - The Outposts"
 weight: 22
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-02-chapter-03.html"
+url: "/authors/buchan-john/the-half-hearted/part-02-chapter-03.html"
 ---
 
 Towards the close of a wet afternoon two tongas discharged Lewis, George, two native servants, and a collection of gun-cases in the court-yard of the one hotel in Bardur. They had made a record journey up country, stopping to present no letters of introduction, which are the thieves of time. Now, as Lewis found himself in the strait valley, with the eternal snows where the sky should be, and sniffed the dry air from the granite walls, he glowed with the pleasure of recollection.

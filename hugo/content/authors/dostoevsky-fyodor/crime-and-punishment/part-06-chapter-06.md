@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 6"
 weight: 38
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-06-chapter-06.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-06-chapter-06.html"
 ---
 
 He spent that evening till ten o'clock going from one low haunt to another. Katia too turned up and sang another gutter song, how a certain "villain and tyrant"

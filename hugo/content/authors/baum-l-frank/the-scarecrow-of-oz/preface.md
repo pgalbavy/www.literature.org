@@ -1,8 +1,7 @@
 ---
 title: "preface"
 weight: 999
-aliases:
-  - "/authors/baum-l-frank/the-scarecrow-of-oz/preface.html"
+url: "/authors/baum-l-frank/the-scarecrow-of-oz/preface.html"
 ---
 
 THE SCARECROW of OZ

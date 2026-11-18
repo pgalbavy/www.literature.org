@@ -1,8 +1,7 @@
 ---
 title: "Chapter 65 - A Conjugal Scene"
 weight: 65
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-65.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-65.html"
 ---
 
 At the Place Louis XV. the three young people separated - that is to say, Morrel went to the Boulevards, Chateau-Renaud to the Pont de la Revolution, and Debray to the Quai. Most probably Morrel and Chateau-Renaud returned to their "domestic hearths," as they say in the gallery of the Chamber in well-turned speeches, and in the theatre of the Rue Richelieu in well-written pieces; but it was not the case with Debray. When he reached the wicket of the Louvre, he turned to the left, galloped across the Carrousel, passed through the Rue Saint-Roch, and, issuing from the Rue de la Michodiere, he arrived at M. Danglars' door just at the same time that Villefort's landau, after having deposited him and his wife at the Faubourg St. Honore, stopped to leave the baroness at her own house. Debray, with the air of a man familiar with the house, entered first into the court, threw his bridle into the hands of a footman, and returned to the door to receive Madame Danglars, to whom he offered his arm, to conduct her to her apartments. The gate once closed, and Debray and the baroness alone in the court, he asked, - "What was the matter with you, Hermine? and why were you so affected at that story, or rather fable, which the count related?"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38"
 weight: 38
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-38.html"
+url: "/authors/austen-jane/mansfield-park/chapter-38.html"
 ---
 
 The novelty of travelling, and the happiness of being with William, soon produced their natural effect on Fanny's spirits, when Mansfield Park was fairly left behind; and by the time their first stage was ended, and they were to quit Sir Thomas's carriage, she was able to take leave of the old coachman, and send back proper messages, with cheerful looks.

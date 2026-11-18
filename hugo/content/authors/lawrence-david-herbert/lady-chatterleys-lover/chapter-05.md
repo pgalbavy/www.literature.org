@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-05.html"
+url: "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-05.html"
 ---
 
 On a frosty morning with a little February sun, Clifford and Connie went for a walk across the park to the wood. That is, Clifford chuffed in his motor-chair, and Connie walked beside him.

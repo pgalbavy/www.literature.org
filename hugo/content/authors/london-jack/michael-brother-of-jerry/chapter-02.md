@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-02.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-02.html"
 ---
 
 Dag Daughtry strolled along the beach, Michael at his heels or running circles of delight around him at every repetition of that strange low lip-noise, and paused just outside the circle of lantern light where dusky forms laboured with landing cargo from the whale-boats and where the Commissioner's clerk and the Makambo's super-cargo still wrangled over the bill of lading. When Michael would have gone forward, the man withstrained him with the same inarticulate, almost inaudible kiss.

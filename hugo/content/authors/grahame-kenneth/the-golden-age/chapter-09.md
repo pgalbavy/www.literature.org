@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Snowbound"
 weight: 10
-aliases:
-  - "/authors/grahame-kenneth/the-golden-age/chapter-09.html"
+url: "/authors/grahame-kenneth/the-golden-age/chapter-09.html"
 ---
 
 TWELFTH-NIGHT had come and gone, and life next morning seemed a trifle flat and purposeless. But yester-eve, and the mummers were here! They had come striding into the old kitchen, powdering the red brick floor with snow from their barbaric bedizenments; and stamping, and crossing, and declaiming, till all was whirl and riot and shout. Harold was frankly afraid: unabashed, he buried himself in the cook’s ample bosom. Edward feigned a manly superiority to illusion, and greeted these awful apparitions familiarly, as Dick and Harry and Joe. As for me, I was too big to run, too rapt to resist the magic and surprise. Whence came these outlanders, breaking in on us with song and ordered masque and a terrible clashing of wooden swords? And after these, what strange visitants might we not look for any quiet night, when the chestnuts popped in the ashes, and the old ghost stories drew the awe-stricken circle close? Old Merlin, perhaps, ‘all furred in black sheep-skins, and a russet gown, with a bow and arrows, and bearing wild geese in his hand!’ Or stately Ogier the Dane, recalled from Faëry, asking his way to the land that once had need of him! Or even, on some white night, the Snow-Queen herself, with a chime of sleigh-bells and the patter of reindeer’s feet, halting of a sudden at the door flung wide, while aloft the Northern Lights went shaking attendant spears among the quiet stars!

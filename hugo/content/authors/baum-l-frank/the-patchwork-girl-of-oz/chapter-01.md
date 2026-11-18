@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-01.html"
+url: "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-01.html"
 ---
 
 "Where's the butter, Unc Nunkie?" asked Ojo.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Search"
 weight: 10
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-10.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-10.html"
 ---
 
 THE fire burning in the grate was not a very large one; and the outer air (as I had noticed on my way to the house) had something of a wintry sharpness in it that day.

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 5"
 weight: 11
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-02-chapter-05.html"
+url: "/authors/conrad-joseph/the-rescue/part-02-chapter-05.html"
 ---
 
 "What's the matter with King Tom of late?" would ask someone when, all the cards in a heap on the table, the traders lying back in their chairs took a spell from a hard gamble.

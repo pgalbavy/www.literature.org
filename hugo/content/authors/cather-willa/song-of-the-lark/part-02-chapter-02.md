@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 2"
 weight: 22
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-02-chapter-02.html"
+url: "/authors/cather-willa/song-of-the-lark/part-02-chapter-02.html"
 ---
 
 SO Thea did not go to a boarding-house after all. When Dr. Archie left Chicago she was comfortably settled with Mrs. Lorch, and her happy reunion with her trunk somewhat consoled her for his departure.

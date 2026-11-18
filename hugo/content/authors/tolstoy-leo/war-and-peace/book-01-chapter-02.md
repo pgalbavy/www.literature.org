@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 2"
 weight: 2
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-01-chapter-02.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-01-chapter-02.html"
 ---
 
 Anna Pavlovna's drawing room was gradually filling. The highest Petersburg society was assembled there: people differing widely in age and character but alike in the social circle to which they belonged. Prince Vasili's daughter, the beautiful Helene, came to take her father to the ambassador's entertainment; she wore a ball dress and her badge as maid of honor. The youthful little Princess Bolkonskaya, known as la femme la plus seduisante de Petersbourg,* was also there. She had been married during the previous winter, and being pregnant did not go to any large gatherings, but only to small receptions. Prince Vasili's son, Hippolyte, had come with Mortemart, whom he introduced. The Abbe Morio and many others had also come.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-07.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-07.html"
 ---
 
 The two men who were supping together in the griliroom at the Cafe Milan were talking with a seriousness which seemed a little out of keeping with the rose-shaded lamps and the swaying music of the band from the distant restaurant. Their conversation had started some hours before in the club smoking-room and had continued intermittently throughout the evening. It had received a further stimulus when Richard Hamel, who had bought an Evening Standard on their way from the theatre a few minutes ago, came across a certain paragraph in it which he read aloud.

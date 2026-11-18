@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-12.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-12.html"
 ---
 
 Instead of making his way home at once Arbuthnot turned up the side of the street on which the Amorys' house stood. As he reached the house the door was opened, and a man came out and walked down the steps. He was a man with a large frame, a darkly florid complexion, and heavily handsome features. As he passed Arbuthnot he gave him a glance and a rather grudging bow, which expressed candidly exactly the amount of pleasure he derived from encountering him.

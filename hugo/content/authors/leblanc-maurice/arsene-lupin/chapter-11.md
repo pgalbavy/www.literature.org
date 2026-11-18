@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Family Arrives"
 weight: 11
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin/chapter-11.html"
+url: "/authors/leblanc-maurice/arsene-lupin/chapter-11.html"
 ---
 
 In carrying out Victoire, the inspector had left the door of the drawing-room open. After he had watched M. Formery reflect for two minutes, Guerchard faded--to use an expressive Americanism--through it. The Duke felt in the breast-pocket of his coat, murmured softly, "My cigarettes," and followed him.

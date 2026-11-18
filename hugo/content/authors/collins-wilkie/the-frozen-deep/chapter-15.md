@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/collins-wilkie/the-frozen-deep/chapter-15.html"
+url: "/authors/collins-wilkie/the-frozen-deep/chapter-15.html"
 ---
 
 At the drawing-room window of the villa there appeared a polite little man, with bright intelligent eyes, and cheerful sociable manners. Neatly dressed in professional black, he stood, self-proclaimed, a prosperous country doctor--successful and popular in a wide circle of patients and friends. As Mrs. Crayford approached him, he stepped out briskly to meet her on the lawn, with both hands extended in courteous and cordial greeting.

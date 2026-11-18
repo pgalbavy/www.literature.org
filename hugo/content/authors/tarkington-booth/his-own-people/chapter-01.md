@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Change Of Lodging"
 weight: 1
-aliases:
-  - "/authors/tarkington-booth/his-own-people/chapter-01.html"
+url: "/authors/tarkington-booth/his-own-people/chapter-01.html"
 ---
 
 The glass-domed "palm-room" of the Grand Continental Hotel Magnifique in Rome is of vasty heights and distances, filled with a mellow green light which filters down languidly through the upper foliage of tall palms, so that the two hundred people who may be refreshing or displaying themselves there at the tea-hour have something the look of under-water creatures playing upon the sea-bed. They appear, however, to be unaware of their condition; even the ladies, most like anemones of that gay assembly, do not seem to know it; and when the Hungarian band (crustacean-like in costume, and therefore well within the picture) has sheathed its flying tentacles and withdrawn by dim processes, the tea-drinkers all float out through the doors, instead of bubbling up and away through the filmy roof. In truth, some such exit as that was imagined for them by a young man who remained in the aquarium after they had all gone, late one afternoon of last winter. They had been marvelous enough, and to him could have seemed little more so had they made such a departure. He could almost have gone that way himself, so charged was he with the uplift of his belief that, in spite of the brilliant strangeness of the hour just past, he had been no fish out of water.

@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 3 - The Battle Of Shoreby"
 weight: 28
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-05-chapter-03.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-05-chapter-03.html"
 ---
 
 (CONCLUDED)

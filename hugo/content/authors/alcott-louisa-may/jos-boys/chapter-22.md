@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Positively Last Appearance"
 weight: 22
-aliases:
-  - "/authors/alcott-louisa-may/jos-boys/chapter-22.html"
+url: "/authors/alcott-louisa-may/jos-boys/chapter-22.html"
 ---
 
 'Upon my word, I feel as if I lived in a powder-magazine, and don't know which barrel will explode next, and send me flying,' said Mrs Jo to herself next day, as she trudged up to Parnassus to suggest to her sister that perhaps the most charming of the young nurses had better return to her marble gods before she unconsciously added another wound to those already won by the human hero. She told no secrets; but a hint was sufficient; for Mrs Amy guarded her daughter as a pearl of great price, and at once devised a very simple means of escape from danger. Mr Laurie was going to Washington on Dan's behalf, and was delighted to take his family with him when the idea was carelessly suggested. So the conspiracy succeeded finely; and Mrs Jo went home, feeling more like a traitor than ever. She expected an explosion; but Dan took the news so quietly, it was plain that he cherished no hope; and Mrs Amy was sure her romantic sister had been mistaken. If she had seen Dan's face when Bess went to say good-bye, her maternal eye would have discovered far more than the unconscious girl did. Mrs Jo trembled lest he should betray himself; but he had learned self-control in a stern school, and would have got through the hard moment bravely, only, when he took both hands, saying heartily:

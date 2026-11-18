@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 24
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-23.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-23.html"
 ---
 
 Feb. 18, 1822. - Early this morning Arthur mounted his hunter and set off in high glee to meet the - hounds. He will be away all day, and so I will amuse myself with my neglected diary, if I can give that name to such an irregular composition. It is exactly four months since I opened it last.

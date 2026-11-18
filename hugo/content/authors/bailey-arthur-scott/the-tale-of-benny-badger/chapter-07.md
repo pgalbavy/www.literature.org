@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Mr. Coyote Remembers"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-07.html"
 ---
 
 The next evening, just at dusk, Benny Badger left his den and set forth on his usual nightly ramble.

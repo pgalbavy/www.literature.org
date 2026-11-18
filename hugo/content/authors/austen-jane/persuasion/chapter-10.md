@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/austen-jane/persuasion/chapter-10.html"
+url: "/authors/austen-jane/persuasion/chapter-10.html"
 ---
 
 Other opportunities of making her observations could not fail to occur. Anne had soon been in company with all the four together often enough to have an opinion, though too wise to acknowledge as much at home, where she knew it would have satisfied neither husband nor wife; for while she considered Louisa to be rather the favourite, she could not but think, as far as she might dare to judge from memory and experience, that Captain Wentworth was not in love with either. They were more in love with him; yet there it was not love. It was a little fever of admiration; but it might, probably must, end in love with some. Charles Hayter seemed aware of being slighted, and yet Henrietta had sometimes the air of being divided between them. Anne longed for the power of representing to them all what they were about, and of pointing out some of the evils they were exposing themselves to. She did not attribute guile to any. It was the highest satisfaction to her to believe Captain Wentworth not in the least aware of the pain he was occasioning. There was no triumph, no pitiful triumph in his manner. He had, probably, never heard, and never thought of any claims of Charles Hayter. He was only wrong in accepting the attentions (for accepting must be the word) of two young women at once.

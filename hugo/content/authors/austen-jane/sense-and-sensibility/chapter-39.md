@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39"
 weight: 39
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-39.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-39.html"
 ---
 
 The Miss Dashwoods had now been rather more than two months in town, and Marianne's impatience to be gone increased every day. She sighed for the air, the liberty, the quiet of the country; and fancied that if any place could give her ease, Barton must do it. Elinor was hardly less anxious than herself for their removal, and only so much less bent on its being effected immediately, as that she was conscious of the difficulties of so long a journey, which Marianne could not be brought to acknowledge. She began, however, seriously to turn her thoughts towards its accomplishment, and had already mentioned their wishes to their kind hostess, who resisted them with all the eloquence of her good-will, when a plan was suggested, which, though detaining them from home yet a few weeks longer, appeared to Elinor altogether much more eligible than any other. The Palmers were to remove to Cleveland about the end of March, for the Easter holidays; and Mrs. Jennings, with both her friends, received a very warm invitation from Charlotte to go with them. This would not, in itself, have been sufficient for the delicacy of Miss Dashwood;--but it was inforced with so much real politeness by Mr. Palmer himself, as, joined to the very great amendment of his manners towards them since her sister had been known to be unhappy, induced her to accept it with pleasure.

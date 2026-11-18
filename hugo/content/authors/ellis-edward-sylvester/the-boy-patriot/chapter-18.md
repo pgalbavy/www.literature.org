@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Wages"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-18.html"
 ---
 
 The East Indiaman was too important a prize to be trusted to any other than the skilful sailor and brave officer, Derry Duck. He was at once ordered to prepare to take her into an American port, with all due formalities.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 26
-aliases:
-  - "/authors/chambers-robert-w/cardigan/chapter-25.html"
+url: "/authors/chambers-robert-w/cardigan/chapter-25.html"
 ---
 
 We were condemned to death without a hearing by a military court sitting at Fort Hill, before which we appeared in chains. The 19th of April was set for our execution; we were taken back to the south battery in a coach escorted by light horse, and from there conveyed through the falling snow to the brick prison on Queen Street.

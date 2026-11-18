@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-04.html"
+url: "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-04.html"
 ---
 
 As De Vac drew his sword from the heart of the Lady Maud, he winced, for, merciless though he was, he had shrunk from this cruel task. Too far he had gone, however, to back down now, and, had he left the Lady Maud alive, the whole of the palace guard and all the city of London would have been on his heels in ten minutes; there would have been no escape.

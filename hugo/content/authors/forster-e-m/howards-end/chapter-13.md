@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-13.html"
+url: "/authors/forster-e-m/howards-end/chapter-13.html"
 ---
 
 Over two years passed, and the Schlegel household continued to lead its life of cultured, but not ignoble, ease, still swimming gracefully on the grey tides of London. Concerts and plays swept past them, money had been spent and renewed, reputations won and lost, and the city herself, emblematic of their lives, rose and fell in a continual flux, while her shallows washed more widely against the hills of Surrey and over the fields of Hertfordshire. This famous building had arisen, that was doomed. To-day Whitehall had been transformed; it would be the turn of Regent Street to-morrow. And month by month the roads smelt more strongly of petrol, and were more difficult to cross, and human beings heard each other speak with greater difficulty, breathed less of the air, and saw less of the sky. Nature withdrew; the leaves were falling by midsummer; the sun shone through dirt with an admired obscurity.

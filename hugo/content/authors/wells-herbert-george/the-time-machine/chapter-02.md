@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/wells-herbert-george/the-time-machine/chapter-02.html"
+url: "/authors/wells-herbert-george/the-time-machine/chapter-02.html"
 ---
 
 I think that at that time none of us quite believed in the Time Machine. The fact is, the Time Traveller was one of those men who are too clever to be believed: you never felt that you saw all round him; you always suspected some subtle reserve, some ingenuity in ambush, behind his lucid frankness. Had Filby shown the model and explained the matter in the Time Traveller's words, we should have shown HIM far less scepticism. For we should have perceived his motives; a pork butcher could understand Filby. But the Time Traveller had more than a touch of whim among his elements, and we distrusted him. Things that would have made the frame of a less clever man seemed tricks in his hands. It is a mistake to do things too easily. The serious people who took him seriously never felt quite sure of his deportment; they were somehow aware that trusting their reputations for judgment with him was like furnishing a nursery with egg-shell china. So I don't think any of us said very much about time travelling in the interval between that Thursday and the next, though its odd potentialities ran, no doubt, in most of our minds: its plausibility, that is, its practical incredibleness, the curious possibilities of anachronism and of utter confusion it suggested. For my own part, I was particularly preoccupied with the trick of the model. That I remember discussing with the Medical Man, whom I met on Friday at the Linnaean. He said he had seen a similar thing at Tubingen, and laid considerable stress on the blowing out of the candle. But how the trick was done he could not explain.

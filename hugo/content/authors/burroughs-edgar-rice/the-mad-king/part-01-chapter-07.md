@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 7 - The Real Leopold"
 weight: 7
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mad-king/part-01-chapter-07.html"
+url: "/authors/burroughs-edgar-rice/the-mad-king/part-01-chapter-07.html"
 ---
 
 Two hours later a horseman pushed his way between tumbled and tangled briers along the bottom of a deep ravine.

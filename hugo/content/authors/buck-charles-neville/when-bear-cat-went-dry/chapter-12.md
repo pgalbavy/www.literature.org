@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-12.html"
+url: "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-12.html"
 ---
 
 Instead of a puzzled accountant Jerry found in the bare upper room the rosy-faced, white-haired man who had given him credentials when he first arrived in the hills, and who kept the store over on Big Ivy.

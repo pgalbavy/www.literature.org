@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/bronte-charlotte/the-professor/chapter-01.html"
+url: "/authors/bronte-charlotte/the-professor/chapter-01.html"
 ---
 
 INTRODUCTORY.

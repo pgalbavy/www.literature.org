@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Closing In"
 weight: 33
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-33.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-33.html"
 ---
 
 The party pushed on until the greater portion of the forenoon was passed, when Ned was transferred to the back of Tom's horse. The lad had noticed that the hunters were acting in a strange manner, as though they were ill at ease, and were apprehensive that peril of some kind was approaching.

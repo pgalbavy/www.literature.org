@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/woolf-virginia/the-voyage-out/chapter-10.html"
+url: "/authors/woolf-virginia/the-voyage-out/chapter-10.html"
 ---
 
 Among the promises which Mrs. Ambrose had made her niece should she stay was a room cut off from the rest of the house, large, private—a room in which she could play, read, think, defy the world, a fortress as well as a sanctuary. Rooms, she knew, became more like worlds than rooms at the age of twenty-four. Her judgment was correct, and when she shut the door Rachel entered an enchanted place, where the poets sang and things fell into their right proportions. Some days after the vision of the hotel by night she was sitting alone, sunk in an arm-chair, reading a brightly-covered red volume lettered on the back *Works* *of* *Henrik* *Ibsen*. Music was open on the piano, and books of music rose in two jagged pillars on the floor; but for the moment music was deserted.

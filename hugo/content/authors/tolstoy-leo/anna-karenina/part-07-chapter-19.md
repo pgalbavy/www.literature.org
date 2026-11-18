@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 19"
 weight: 208
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-19.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-19.html"
 ---
 
 Stepan Arkadyevitch was about to go away when Korney came in to announce:

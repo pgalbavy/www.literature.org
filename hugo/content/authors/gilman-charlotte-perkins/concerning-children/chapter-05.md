@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Teachable Ethics"
 weight: 5
-aliases:
-  - "/authors/gilman-charlotte-perkins/concerning-children/chapter-05.html"
+url: "/authors/gilman-charlotte-perkins/concerning-children/chapter-05.html"
 ---
 
 Our general knowledge of ethics is small and unreliable, and our practice in ethics even smaller and more unreliable. The good intentions of mankind are prominent; but our ideas of right behaviour are so contradictory and uncertain, our execution of such ideas as we hold so partial and irregular, that human behaviour continues to be most unsatisfactory. This condition we used to cheerfully attribute to the infirmity of human nature, taking ignominious consolation from the thought of our vicious tendencies and hopeless weakness.

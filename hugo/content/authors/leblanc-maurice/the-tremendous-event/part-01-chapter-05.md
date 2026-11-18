@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 5 - Virgin Soil"
 weight: 6
-aliases:
-  - "/authors/leblanc-maurice/the-tremendous-event/part-01-chapter-05.html"
+url: "/authors/leblanc-maurice/the-tremendous-event/part-01-chapter-05.html"
 ---
 
 It was hardly later than one o'clock in the morning. The storm was less furious and the squalls had ceased, so that Simon suddenly began to walk as quickly as the trifling obstacles over which he stumbled and the dim light of the sky would permit. For that matter, if he branched off too far in either direction, the nearer sound of the waves would serve as a warning.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Handicapped"
 weight: 1
-aliases:
-  - "/authors/gilman-charlotte-perkins/what-diantha-did/chapter-01.html"
+url: "/authors/gilman-charlotte-perkins/what-diantha-did/chapter-01.html"
 ---
 
 The Warden house was more impressive in appearance than its neighbors. It had “grounds,” instead of a yard or garden; it had wide pillared porches and “galleries,” showing southern antecedents; moreover, it had a cupola, giving date to the building, and proof of the continuing ambitions of the builders.

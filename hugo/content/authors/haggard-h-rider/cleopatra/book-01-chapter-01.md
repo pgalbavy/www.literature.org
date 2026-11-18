@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 1"
 weight: 2
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-01-chapter-01.html"
+url: "/authors/haggard-h-rider/cleopatra/book-01-chapter-01.html"
 ---
 
 OF THE BIRTH OF HARMACHIS; THE PROPHECY OF THE HATHORS; AND THE SLAYING OF THE INNOCENT CHILD

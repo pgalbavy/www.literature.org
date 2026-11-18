@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 29"
 weight: 186
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-29.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-29.html"
 ---
 
 The narrow room, in which they were smoking and taking refresh~ meets, was full of noblemen. The excitement grew more intense, and every face betrayed some uneasiness. The excitement was specially keen for the leaders of each party, who knew every detail, and had reckoned up every vote. They were the generals organizing the approaching battle. The rest, like the rank and file before an engagement, though they were getting ready for the fight, sought for other distractions in the interval. Some were lunching, standing at the bar, or sitting at the table; others were walking up and down the long robm, smoking cigarettes, and talking with friends whom they had not seen for a long while.

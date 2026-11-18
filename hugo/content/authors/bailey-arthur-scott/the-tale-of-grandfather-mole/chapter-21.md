@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Mrs. Wren Tries To Help"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-21.html"
 ---
 
 "HAVE you found him yet?" Mrs. Rusty Wren asked Grandfather Mole one day when the old gentleman had left his dark underground home to brave the dangers of the garden.

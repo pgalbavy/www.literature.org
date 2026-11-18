@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-01.html"
+url: "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-01.html"
 ---
 
 Close to the serried backbone of the Cumberland ridge through a sky of mountain clarity, the sun seemed hesitating before its descent to the horizon. The sugar-loaf cone that towered above a creek called Misery was pointed and edged with emerald tracery where the loftiest timber thrust up its crest plumes into the sun. On the hillsides it would be light for more than an hour yet, but below, where the waters tossed themselves along in a chorus of tiny cascades, the light was already thickening into a cathedral gloom. Down there the "furriner" would have seen only the rough course of the creek between moss-velveted and shaded bowlders of titanic proportions. The native would have recognized the country road in these tortuous twistings. Now there were no travelers, foreign or native, and no sounds from living throats except at intervals the clear "Bob White" of a nesting partridge, and the silver confidence of the red cardinal flitting among the pines. Occasionally, too, a stray whisper of breeze stole along the creek-bed and rustled the beeches, or stirred in the broad, fanlike leaves of the "cucumber trees." A great block of sandstone, to whose summit a man standing in his saddle could scarcely reach his fingertips, towered above the stream, with a gnarled scrub oak clinging tenaciously to its apex. Loftily on both sides climbed the mountains cloaked in laurel and timber.

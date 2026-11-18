@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/tarkington-booth/beasleys-christmas-party/chapter-04.html"
+url: "/authors/tarkington-booth/beasleys-christmas-party/chapter-04.html"
 ---
 
 Finding that I had still some leisure before me, I got a book from my room and repaired to the bench in the garden. But I did not read; I had but opened the book when my attention was arrested by sounds from the other side of the high fence—low and tremulous croonings of distinctly African derivation:

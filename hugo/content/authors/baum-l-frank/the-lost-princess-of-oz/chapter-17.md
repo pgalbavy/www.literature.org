@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-17.html"
+url: "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-17.html"
 ---
 
 While the Frogman and his party were advancing from the west, Dorothy and her party were advancing from the east, and so it happened that on the following night they all camped at a little hill that was only a few miles from the wicker castle of Ugu the Shoemaker. But the two parties did not see one another that night, for one camped on one side of the hill while the other camped on the opposite side. But the next morning, the Frogman thought he would climb the hill and see what was on top of it, and at the same time Scraps, the Patchwork Girl, also decided to climb the hill to find if the wicker castle was visible from its top. So she stuck her head over an edge just as the Frogman's head appeared over another edge, and both, being surprised, kept still while they took a good look at one another.

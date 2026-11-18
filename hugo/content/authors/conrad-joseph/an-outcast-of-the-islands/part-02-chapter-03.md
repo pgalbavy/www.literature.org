@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 3"
 weight: 11
-aliases:
-  - "/authors/conrad-joseph/an-outcast-of-the-islands/part-02-chapter-03.html"
+url: "/authors/conrad-joseph/an-outcast-of-the-islands/part-02-chapter-03.html"
 ---
 
 For upwards of forty years Abdulla had walked in the way of his Lord. Son of the rich Syed Selim bin Sali, the great Mohammedan trader of the Straits, he went forth at the age of seventeen on his first commercial expedition, as his father’s representative on board a pilgrim ship chartered by the wealthy Arab to convey a crowd of pious Malays to the Holy Shrine. That was in the days when steam was not in those seas—or, at least, not so much as now. The voyage was long, and the young man’s eyes were opened to the wonders of many lands. Allah had made it his fate to become a pilgrim very early in life. This was a great favour of Heaven, and it could not have been bestowed upon a man who prized it more, or who made himself more worthy of it by the unswerving piety of his heart and by the religious solemnity of his demeanour. Later on it became clear that the book of his destiny contained the programme of a wandering life. He visited Bombay and Calcutta, looked in at the Persian Gulf, beheld in due course the high and barren coasts of the Gulf of Suez, and this was the limit of his wanderings westward. He was then twenty-seven, and the writing on his forehead decreed that the time had come for him to return to the Straits and take from his dying father’s hands the many threads of a business that was spread over all the Archipelago: from Sumatra to New Guinea, from Batavia to Palawan.

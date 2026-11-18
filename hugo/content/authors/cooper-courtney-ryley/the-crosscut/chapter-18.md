@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/cooper-courtney-ryley/the-crosscut/chapter-18.html"
+url: "/authors/cooper-courtney-ryley/the-crosscut/chapter-18.html"
 ---
 
 After that, Fairchild heard little that Harry said as he rambled on about the plans for the future. He answered the big Cornishman's questions with monosyllables, volunteering no information. He did not even show him the advertisement--he knew that it would be as galling to Harry as it was to him. And so he sat and stared, until finally his partner said good night and left the room.

@@ -1,8 +1,7 @@
 ---
 title: "Part 8 - Chapter 16"
 weight: 236
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-08-chapter-16.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-08-chapter-16.html"
 ---
 
 Sergey Ivanovitch, being practiced in argument, did not reply, but at once turned the conversation to another aspect of the subject.

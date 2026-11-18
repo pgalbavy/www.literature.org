@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 26
-aliases:
-  - "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-25.html"
+url: "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-25.html"
 ---
 
 "Now," said Dorothy, as they stood on the mountain path, having left behind them the cave in which dwelt the Hoppers and the Horners, "I think we must find a road into the Country of the Winkies, for there is where Ojo wants to go next."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Erie Of The Light-House"
 weight: 13
-aliases:
-  - "/authors/mckishnie-archie-p/a-son-of-courage/chapter-13.html"
+url: "/authors/mckishnie-archie-p/a-son-of-courage/chapter-13.html"
 ---
 
 Through the summer night, Hinter, astride a rangy roan, rode the ten mile trail that lay between the foot of Rond Eau and the light-house. On his left the giant pines stood with sharp points clearly defined against the starlight like the bayonet-fixed guns of a sleeping army; to his right swept dwarf cedars and stunted oaks and beyond them the bay marshes, with weaving fire-flies shimmering like star-dust close above them.

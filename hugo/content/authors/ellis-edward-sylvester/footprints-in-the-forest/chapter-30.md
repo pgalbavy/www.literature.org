@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - A Surprising Discovery"
 weight: 30
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-30.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-30.html"
 ---
 
 "What do you suppose Deerfoot once asked me?" said Jack Carleton, stopping short and staring in the face of his friend, who answered with native innocence,

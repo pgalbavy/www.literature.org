@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-29.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-29.html"
 ---
 
 You spoke, my dear Lucille," the Duchess of Dorset said, "of your departure. Is not that a little premature?"

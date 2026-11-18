@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 32
-aliases:
-  - "/authors/woolf-virginia/night-and-day/chapter-32.html"
+url: "/authors/woolf-virginia/night-and-day/chapter-32.html"
 ---
 
 Nobody asked Katharine any questions next day. If cross-examined she might have said that nobody spoke to her. She worked a little, wrote a little, ordered the dinner, and sat, for longer than she knew, with her head on her hand piercing whatever lay before her, whether it was a letter or a dictionary, as if it were a film upon the deep prospects that revealed themselves to her kindling and brooding eyes. She rose once, and going to the bookcase, took out her father’s Greek dictionary and spread the sacred pages of symbols and figures before her. She smoothed the sheets with a mixture of affectionate amusement and hope. Would other eyes look on them with her one day? The thought, long intolerable, was now just bearable.

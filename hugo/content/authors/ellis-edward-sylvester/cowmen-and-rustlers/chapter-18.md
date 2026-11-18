@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - A Miscalculation"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-18.html"
 ---
 
 Larch Cadmus was well fitted to act the leader of so desperate a company of men. He was chagrined beyond measure at the manner in which the tables had been turned on him, but, like all such persons, when caught fairly, he knew how to accept the situation philosophically.

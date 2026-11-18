@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - An Unwelcome Visitor"
 weight: 30
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-30.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-30.html"
 ---
 
 Both Jack Carleton and Otto Relstaub were disturbed by the singular behavior of the squaw and chief.

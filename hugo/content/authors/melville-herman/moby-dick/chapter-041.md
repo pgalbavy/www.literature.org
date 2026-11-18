@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41 - Moby Dick"
 weight: 41
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-041.html"
+url: "/authors/melville-herman/moby-dick/chapter-041.html"
 ---
 
 I, Ishmael, was one of that crew; my shouts had gone up with the rest; my oath had been welded with theirs; and stronger I shouted, and more did I hammer and clinch my oath, because of the dread in my soul. A wild, mystical, sympathetical feeling was in me; Ahab's quenchless feud seemed mine. With greedy ears I learned the history of that murderous monster against whom I and all the others had taken our oaths of violence and revenge.

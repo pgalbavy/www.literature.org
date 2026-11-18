@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Jack Carleton Makes A Move On His Own Account"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-21.html"
 ---
 
 Jack Carleton thought himself warranted in imitating the action of Hay-uta, though he did not raise his head as high as he. The result was odd. He was able to look between the bases of the trunks and smaller bushes, so that he saw a number of moccasins, without being able to discern the bodies to which they belonged. He observed three or four pairs, and the fringes of the leggings to the knees. The Pawnees were walking, but their feet looked as if they were simply raised and put down again, without advancing or retreating. Inasmuch, however, as they soon disappeared, it was clear they were taking the right course—that is, for the best interests of our friends.

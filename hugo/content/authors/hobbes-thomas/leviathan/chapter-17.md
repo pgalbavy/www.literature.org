@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Of The Causes, Generation, And Definition Of A Common-Wealth"
 weight: 19
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-17.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-17.html"
 ---
 
 The End Of Common-wealth, Particular Security The finall Cause, End, or Designe of men, (who naturally love Liberty, and Dominion over others,) in the introduction of that restraint upon themselves, (in which wee see them live in Common-wealths,) is the foresight of their own preservation, and of a more contented life thereby; that is to say, of getting themselves out from that miserable condition of Warre, which is necessarily consequent (as hath been shewn) to the naturall Passions of men, when there is no visible Power to keep them in awe, and tye them by feare of punishment to the performance of their Covenants, and observation of these Lawes of Nature set down in the fourteenth and fifteenth Chapters.

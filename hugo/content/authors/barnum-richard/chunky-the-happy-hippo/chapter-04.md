@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Chunky In The Mud"
 weight: 4
-aliases:
-  - "/authors/barnum-richard/chunky-the-happy-hippo/chapter-04.html"
+url: "/authors/barnum-richard/chunky-the-happy-hippo/chapter-04.html"
 ---
 
 Poor Chunky was having a dreadful time. Never before had he been caught by a crocodile. It would not have been so bad, he thought in his hippo way, if it had happened on top of the water. There some of the big animals might have seen him and they would have helped him. But down under the muddy river――who could help him there?

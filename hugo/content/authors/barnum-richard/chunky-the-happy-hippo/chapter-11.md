@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Chunky’s New Trick"
 weight: 11
-aliases:
-  - "/authors/barnum-richard/chunky-the-happy-hippo/chapter-11.html"
+url: "/authors/barnum-richard/chunky-the-happy-hippo/chapter-11.html"
 ---
 
 Chunky thought the circus was a very queer place. When the cage, on wheels, in which he was kept, was drawn up for the first time on the lot where the circus tent was pitched, the happy hippo thought he had never before seen so many people. There was a big crowd trying to get in the tents to look at the animals, watch the men and women ride horses around the ring, jump from the trapezes, and see the clowns do their funny tricks. Of course Chunky knew nothing of that. All he knew was that he had been brought to the circus. He knew this much because of what the elephant had said.

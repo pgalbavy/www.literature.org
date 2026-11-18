@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Sudden Separation"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-10.html"
 ---
 
 When Mike Murphy hurried off the opposite end of the porch of the bungalow, his single purpose was to rid himself of Hoke Butler, who had set his heart upon keeping him company for the day. It was a happy thought thus to send the youth to collect an imaginary debt from Alvin Landon, and it would seem could scarcely fail of accomplishing the end in view.

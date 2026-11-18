@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-20.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-20.html"
 ---
 
 Dinner at Detchworth Grange was most amusing that evening. One of the chief reasons--in fact, it would not be too venturesome to say THE chief reason--for Captain Palliser's frequent presence in very good country houses was that he had a way of making things amusing. His relation of anecdotes, of people and things, was distinguished by a manner which subtly declined to range itself on the side of vulgar gossip. Quietly and with a fine casualness he conveyed the whole picture of the new order at Temple Barholm. He did it with wonderfully light touches, and yet the whole thing was to be seen--the little old maid in her exquisite clothes, her unmistakable stamp of timid good breeding, her protecting adoration combined with bewilderment; the long, lean, not altogether ill-looking New York bounder, with his slight slouch, his dangerously unsophisticated-looking face, and his American jocularity of slang phrase.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/conrad-joseph/end-of-the-tether/chapter-13.html"
+url: "/authors/conrad-joseph/end-of-the-tether/chapter-13.html"
 ---
 
 This was the reason why Mr. Sterne’s confidential communication, delivered hurriedly on the shore alongside the dark silent ship, had disturbed his equanimity. It was the most incomprehensible and unexpected thing that could happen; and the perturbation of his spirit was so great that, forgetting all about his letters, he ran rapidly up the bridge ladder.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/burroughs-edgar-rice/out-of-times-abyss/chapter-03.html"
+url: "/authors/burroughs-edgar-rice/out-of-times-abyss/chapter-03.html"
 ---
 
 Half-stunned, Bradley lay for a minute as he had fallen and then slowly and painfully wriggled into a less uncomfortable position. He could see nothing of his surroundings in the gloom about him until after a few minutes his eyes became accustomed to the dark interior when he rolled them from side to side in survey of his prison.

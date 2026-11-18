@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Making Button-Holes"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-18.html"
 ---
 
 Mr. Heron couldn't help being interested.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Death Trail"
 weight: 5
-aliases:
-  - "/authors/williams-frank/the-wilderness-trail/chapter-05.html"
+url: "/authors/williams-frank/the-wilderness-trail/chapter-05.html"
 ---
 
 It was, perhaps, an hour later when Donald, just beginning to drowse before his little fire, heard someone approach and unlock his door, for the second time that night. In anticipation of any desperate emergency, the captive sprang to his feet, and retreated to a corner of the room farthest from the door, watching with wary eyes for his visitor's appearance.

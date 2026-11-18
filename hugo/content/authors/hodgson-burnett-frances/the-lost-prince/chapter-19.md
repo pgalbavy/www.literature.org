@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - \"That Is One!\""
 weight: 19
-aliases:
-  - "/authors/hodgson-burnett-frances/the-lost-prince/chapter-19.html"
+url: "/authors/hodgson-burnett-frances/the-lost-prince/chapter-19.html"
 ---
 
 A week had not passed before Marco brought to The Rat in their bedroom an envelope containing a number of slips of paper on each of which was written something.

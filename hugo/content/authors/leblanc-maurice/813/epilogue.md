@@ -1,8 +1,7 @@
 ---
 title: "Epilogue - The Suicide"
 weight: 18
-aliases:
-  - "/authors/leblanc-maurice/813/epilogue.html"
+url: "/authors/leblanc-maurice/813/epilogue.html"
 ---
 
 "To horse!" said the Emperor.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-04.html"
+url: "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-04.html"
 ---
 
 The conventions of dress are sometimes pestilential. If any doubt this truth let him remember the nightmares wherein his nudity made torment. And, while remembering the anguish such lack of clothing has occasioned in dreams, let him think with pity on the suffering of Zeke whose plight was real. It was in sooth, a predicament to strain the savoir faire of the most polished courtier. Perhaps, the behavior of the mountaineer was as discreet as any permitted by the unfortunate circumstances, and could hardly have been improved on by the Admirable Crichton himself. He simply retained an immobile pose, facing the girl, with his whole soul concentrated in desire that the earth should split asunder to engulf him. The tide of his misery was at its flood, so that it grew no worse when some deck-hands thrust the forward doors open, and a policeman bounded into the cabin, drawn revolver in hand.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - Hand To Hand"
 weight: 38
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-38.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-38.html"
 ---
 
 The Apaches surrounding Hurricane Hill were more closely watched through the forenoon, for Dick more than once gave it as his opinion that they would make a rush before the day was over. To protect themselves as much as possible, the rock of which the hunter had spoken was forced into the passage-way, and an unremitting guard maintained, to prevent any sudden surprise.

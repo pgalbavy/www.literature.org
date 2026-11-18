@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 6"
 weight: 26
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-02-chapter-06.html"
+url: "/authors/cather-willa/song-of-the-lark/part-02-chapter-06.html"
 ---
 
 ONE afternoon in April, Theodore Thomas, the conductor of the Chicago Symphony Orchestra, had turned out his desk light and was about to leave his office in the Auditorium Building, when Harsanyi appeared in the doorway. The conductor welcomed him with a hearty hand-grip and threw off the overcoat he had just put on. He pushed Harsanyi into a chair and sat down at his burdened desk, pointing to the piles of papers and railway folders upon it.

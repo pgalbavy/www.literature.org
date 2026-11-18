@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - The Return"
 weight: 28
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-28.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-28.html"
 ---
 
 The interview between Missionary Finley and the Shawanoe chieftain had been prolonged; it was of the first importance. Many things that this narrative does not require should be recorded passed between them, and the hour was far advanced when the decision was reached; it was agreed that the life of the little captive, Mabel Ashbridge, should be determined by the result of the duel to the death between Simon Kenton and Wa-on-mon, known as The Panther.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Queen's Story"
 weight: 19
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-19.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-19.html"
 ---
 
 In the meantime Bertha Kircher was conducted the length of the plaza toward the largest and most pretentious of the buildings surrounding it. This edifice covered the entire width of one end of the plaza. It was several stories in height, the main entrance being approached by a wide flight of stone steps, the bottom of which was guarded by enormous stone lions, while at the top there were two pedestals flanking the entrance and of the same height, upon each of which was the stone image of a large parrot. As the girl neared these latter images she saw that the capital of each column was hewn into the semblance of a human skull upon which the parrots perched. Above the arched doorway and upon the walls of the building were the figures of other parrots, of lions, and of monkeys. Some of these were carved in bas-relief; others were delineated in mosaics, while still others appeared to have been painted upon the surface of the wall.

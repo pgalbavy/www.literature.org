@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Primitive Fort"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-24.html"
 ---
 
 "Move a little lively, boys," added the captain, spurring his horse to a faster gait; "there'll be some shooting, and they're closer than they ought to be."

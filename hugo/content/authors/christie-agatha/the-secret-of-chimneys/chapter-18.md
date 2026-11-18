@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Second Midnight Adventure"
 weight: 18
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-18.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-18.html"
 ---
 
 The first person that Anthony saw as he alighted from his train on the following afternoon was Superintendent Battle. His face broke into a smile.

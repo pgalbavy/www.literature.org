@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - In The Ravine"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-19.html"
 ---
 
 *THE* discovery that he was so near the party caused Herbert’s heart to beat faster than usual. He felt the need of prudence and caution at every step, since he could not know whether Rickard was aware of his pursuit. It might be that the fellow had discovered it and laid an ambush for him.

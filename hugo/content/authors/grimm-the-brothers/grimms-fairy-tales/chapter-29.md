@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Clever Elsie"
 weight: 29
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-29.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-29.html"
 ---
 
 There was once a man who had a daughter who was called Clever Elsie. And when she had grown up her father said: ‘We will get her married.’ ‘Yes,’ said the mother, ‘if only someone would come who would have her.’ At length a man came from a distance and wooed her, who was called Hans; but he stipulated that Clever Elsie should be really smart. ‘Oh,’ said the father, ‘she has plenty of good sense’; and the mother said: ‘Oh, she can see the wind coming up the street, and hear the flies coughing.’ ‘Well,’ said Hans, ‘if she is not really smart, I won’t have her.’ When they were sitting at dinner and had eaten, the mother said: ‘Elsie, go into the cellar and fetch some beer.’ Then Clever Elsie took the pitcher from the wall, went into the cellar, and tapped the lid briskly as she went, so that the time might not appear long. When she was below she fetched herself a chair, and set it before the barrel so that she had no need to stoop, and did not hurt her back or do herself any unexpected injury. Then she placed the can before her, and turned the tap, and while the beer was running she would not let her eyes be idle, but looked up at the wall, and after much peering here and there, saw a pick-axe exactly above her, which the masons had accidentally left there.

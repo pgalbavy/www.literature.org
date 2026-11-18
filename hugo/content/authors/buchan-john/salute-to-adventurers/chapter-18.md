@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Our Adventure Receives A Recruit"
 weight: 19
-aliases:
-  - "/authors/buchan-john/salute-to-adventurers/chapter-18.html"
+url: "/authors/buchan-john/salute-to-adventurers/chapter-18.html"
 ---
 
 At earliest light, with the dew heavy on the willows and the river line a coil of mist, Shalah woke me for the road. We breakfasted off fried bacon, some of which I saved for the journey, for the Indian was content with one meal a day. As we left the stockade I noted the row of Meebaw scalps hanging, grim and bloody, from the poles. The Borderers were up and stirring, for they looked to take the Indians in the river narrows before the morning was old.

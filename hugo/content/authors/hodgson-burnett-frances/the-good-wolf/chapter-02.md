@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/hodgson-burnett-frances/the-good-wolf/chapter-02.html"
+url: "/authors/hodgson-burnett-frances/the-good-wolf/chapter-02.html"
 ---
 
 IF you never drove over the sparkling snow in a red sled drawn by a big, furry, white dog (who is really a Good Wolf in disguise) you don't know how delightful it was to Barty and how he laughed with joy to hear the gold bells jingle, jingle, jingling on the harness. When they trotted and jingled and slid into the forest the ground was covered with a thick white carpet over which the sled went flying. The branches of the trees were piled with white softness and the tiny pines and cedars, which were only just big enough to stick their heads above the deep snow, wore crowns and garlands and icicle diamonds. And everything seemed so still so still that you could hear a whisper a mile off.

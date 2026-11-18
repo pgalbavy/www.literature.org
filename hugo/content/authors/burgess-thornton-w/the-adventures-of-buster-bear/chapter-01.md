@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Buster Bear Goes Fishing"
 weight: 1
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-01.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-01.html"
 ---
 
 Buster Bear yawned as he lay on his comfortable bed of leaves and watched the first early morning sunbeams creeping through the Green Forest to chase out the Black Shadows. Once more he yawned, and slowly got to his feet and shook himself. Then he walked over to a big pine-tree, stood up on his hind legs, reached as high up on the trunk of the tree as he could, and scratched the bark with his great claws. After that he yawned until it seemed as if his jaws would crack, and then sat down to think what he wanted for breakfast.

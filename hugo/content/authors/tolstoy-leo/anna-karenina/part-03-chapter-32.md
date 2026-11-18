@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 32"
 weight: 101
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-03-chapter-32.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-03-chapter-32.html"
 ---
 
 Levin had long before made the observation that when one is uncomfortable with people from their being excessively amenable and meek, one is apt very soon after to find things intolerable from their touchiness and irritability. He felt that this was how it would be with his brother. And his brother Nikolay's gentleness did in fact not last out for long. The very next morning he began to be irritable, and seemed doing his best to find fault with his brother, attacking him on his tenderest points.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-08.html"
+url: "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-08.html"
 ---
 
 Before the train reaches Gheok Tepe I am back in the car. Confound this dromedary! If he had not managed to get smashed so clumsily No. 11 would no longer be unknown to me. He would have opened his panel, we would have talked in a friendly way, and separated with a friendly shake of the hand. Now he will be full of anxiety, he knows his fraud is discovered, that there is some one who has reason to suspect his intentions, some one who may not hesitate to betray his secret. And then, after being taken out of his case, he will be put under guard at the next station, and it will be useless for Mademoiselle Zinca Klork to expect him in the capital of the Chinese Empire!

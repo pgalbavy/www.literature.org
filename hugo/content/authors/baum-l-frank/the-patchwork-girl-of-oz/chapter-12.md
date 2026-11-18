@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-12.html"
+url: "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-12.html"
 ---
 
 Next morning they started out bright and early to follow the road of yellow bricks toward the Emerald City. The little Munchkin boy was beginning to feel tired from the long walk, and he had a great many things to think of and consider besides the events of the journey. At the wonderful Emerald City, which he would presently reach, were so many strange and curious people that he was half afraid of meeting them and wondered if they would prove friendly and kind. Above all else, he could not drive from his mind the important errand on which he had come, and he was determined to devote every energy to finding the things that were necessary to prepare the magic recipe. He believed that until dear Unc Nunkie was restored to life he could feel no joy in anything, and often he wished that Unc could be with him, to see all the astonishing things Ojo was seeing. But alas Unc Nunkie was now a marble statue in the house of the Crooked Magician and Ojo must not falter in his efforts to save him.

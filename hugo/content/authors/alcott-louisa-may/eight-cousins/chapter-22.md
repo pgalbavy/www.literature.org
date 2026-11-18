@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Something To Do"
 weight: 23
-aliases:
-  - "/authors/alcott-louisa-may/eight-cousins/chapter-22.html"
+url: "/authors/alcott-louisa-may/eight-cousins/chapter-22.html"
 ---
 
 Whatever danger there might have been from the effects of that sudden chill, it was soon over, though, of course, Aunt Myra refused to believe it, and Dr. Alec cherished his girl with redoubled vigilance and tenderness for months afterward. Rose quite enjoyed being sick, because as soon as the pain ended the fun began, and for a week or two she led the life of a little princess secluded in the Bower, while every one served, amused, and watched over her in the most delightful manner. But the doctor was called away to see an old friend, who was dangerously ill, and then Rose felt like a young bird deprived of its mother's sheltering wing; especially on one afternoon when the aunts were taking their naps, and the house was very still within while snow fell softly without.

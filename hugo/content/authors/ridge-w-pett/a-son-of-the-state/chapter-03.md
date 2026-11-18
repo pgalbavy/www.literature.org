@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/ridge-w-pett/a-son-of-the-state/chapter-03.html"
+url: "/authors/ridge-w-pett/a-son-of-the-state/chapter-03.html"
 ---
 
 ON the Duchess and Mr. Leigh, her husband, leaving Pimlico Walk somewhat hurriedly the next morning with two barrow-loads of furniture and Bobbie Lancaster, Pimlico Walk, led by Mrs. Rastin, did not hesitate to give them verbal testimonials as to character. The husband, Mrs. Rastin suggested, had robbed her of someone else’s hard-earned savings; the Duchess was condemned severely by those to whom she had in effusive moments given her confidence. The Duchess’s husband was a quiet, resigned-looking man, with a fringe of whiskers that met underneath his chin; his behaviour conveyed the impression that he only desired to be let alone in order that he might do good in a quiet, unobtrusive way. He seemed, in regard to conversation, curt; he never used superfluous words, and before he spoke he always drew in a whistling breath looking around cautiously, as one anxious above all things not to incriminate himself. He for his part took the attacks of the neighbours quite calmly, and when the Duchess, so indignant that she dropped a glass candlestick with lustres, essayed to reply, he begged her to hold her tongue and to come on.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - I Hear An Old Song"
 weight: 11
-aliases:
-  - "/authors/buchan-john/salute-to-adventurers/chapter-10.html"
+url: "/authors/buchan-john/salute-to-adventurers/chapter-10.html"
 ---
 
 When we sailed at daybreak next morning I had the glow of satisfaction with my own doings which is a safe precursor of misfortunes. I had settled my business with the Free Companions, and need look for no more trouble on that score. But what tickled my vanity was my talk with Ringan and Lawrence at the Monacan lodge and the momentous trust they had laid on me. With a young man's vanity, I saw myself the saviour of Virginia, and hailed as such by the proud folk who now scorned me. My only merits, as I was to learn in time, are a certain grasp of simple truths that elude cleverer men, and a desperate obstinacy which is reluctant to admit defeat. But it is the fashion of youth to glory in what it lacks, and I flattered myself that I had a natural gift for finesse and subtlety, and was a born deviser of wars. Again and again I told myself how I and Lawrence's Virginians—grown under my hand to a potent army—should roll back the invaders to the hills and beyond, while the Sioux of the Carolinas guarded one flank and the streams of the Potomac the other. In those days the star of the great Marlborough had not risen; but John Churchill, the victor of Blenheim, did not esteem himself a wiser strategist than the raw lad Andrew Garvald, now sailing north in the long wash of the Atlantic seas.

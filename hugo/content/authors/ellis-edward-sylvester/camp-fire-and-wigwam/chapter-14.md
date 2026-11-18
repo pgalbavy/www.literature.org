@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - On The Mountain Crest"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-14.html"
 ---
 
 The reader has not forgotten the encounter between Jacob Relstaub and Deerfoot, the Shawanoe, when the former plunged headlong through his own door in mortal fear that the tomahawk of the youthful warrior would be sent crashing through his brain; but, much as Deerfoot despised the German, he had no thought of visiting injury upon him. Shoving back the weapon to its place in his girdle, he therefore strode off in the forest, never pausing in his walk until the sun appeared above the horizon. He was then many miles from Martinsville, his face turned toward the southwest.

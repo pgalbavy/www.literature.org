@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 25
-aliases:
-  - "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-24.html"
+url: "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-24.html"
 ---
 
 TOM was a glittering hero once more - the pet of the old, the envy of the young. His name even went into immortal print, for the village paper magnified him. There were some that believed he would be President, yet, if he escaped hanging.

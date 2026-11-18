@@ -1,8 +1,7 @@
 ---
 title: "Act 1"
 weight: 2
-aliases:
-  - "/authors/shaw-george-bernard/pygmalion/act-01.html"
+url: "/authors/shaw-george-bernard/pygmalion/act-01.html"
 ---
 
 Covent Garden at 11.15 p.m. Torrents of heavy summer rain. Cab whistles blowing frantically in all directions. Pedestrians running for shelter into the market and under the portico of St. Paul's Church, where there are already several people, among them a lady and her daughter in evening dress. They are all peering out gloomily at the rain, except one man with his back turned to the rest, who seems wholly preoccupied with a notebook in which he is writing busily.

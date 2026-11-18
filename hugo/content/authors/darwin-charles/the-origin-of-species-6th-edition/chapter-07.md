@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Miscellaneous Objections To The Theory Of Natural Selection"
 weight: 9
-aliases:
-  - "/authors/darwin-charles/the-origin-of-species-6th-edition/chapter-07.html"
+url: "/authors/darwin-charles/the-origin-of-species-6th-edition/chapter-07.html"
 ---
 
 Longevity -- Modifications not necessarily simultaneous -- Modifications apparently of no direct service -- Progressive development -- Characters of small functional importance, the most constant -- Supposed incompetence of natural selection to account for the incipient stages of useful structures -- Causes which interfere with the acquisition through natural selection of useful structures -- Gradations of structure with changed functions -- Widely different organs in members of the same class, developed from one and the same source -- Reasons for disbelieving in great and abrupt modifications.

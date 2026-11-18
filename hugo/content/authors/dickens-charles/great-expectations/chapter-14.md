@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-14.html"
+url: "/authors/dickens-charles/great-expectations/chapter-14.html"
 ---
 
 IT is a most miserable thing to feel ashamed of home. There may be black ingratitude in the thing, and the punishment may be retributive and well deserved; but, that it is a miserable thing, I can testify.

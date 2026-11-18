@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - A Desperate Scheme"
 weight: 31
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-31.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-31.html"
 ---
 
 Not another word was said. The question had been submitted to the arbitrament of chance and the New Englander had lost, and that, too without any suspicion on his part of the little trick played upon him.

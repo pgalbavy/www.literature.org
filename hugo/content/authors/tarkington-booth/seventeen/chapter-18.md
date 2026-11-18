@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Big, Fat Lummox"
 weight: 18
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-18.html"
+url: "/authors/tarkington-booth/seventeen/chapter-18.html"
 ---
 
 In the morning sunshine, Mrs. Baxter stood at the top of the steps of the front porch, addressing her son, who listened impatiently and edged himself a little nearer the gate every time he shifted his weight from one foot to the other.

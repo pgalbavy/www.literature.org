@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-26.html"
 ---
 
 The sailboat crept slowly out into the middle of the river, the breeze being so light that only a faint rippling was heard at the bow, and the craft hardly answered her helm. Major Starland had noted that the wind was not favorable, and he was compelled to tack toward the northern shore. He ran close in and was cheered by a freshening of the breeze which added perceptibly to the speed.

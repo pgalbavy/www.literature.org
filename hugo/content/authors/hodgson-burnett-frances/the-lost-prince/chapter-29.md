@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - 'Twixt Night And Morning"
 weight: 29
-aliases:
-  - "/authors/hodgson-burnett-frances/the-lost-prince/chapter-29.html"
+url: "/authors/hodgson-burnett-frances/the-lost-prince/chapter-29.html"
 ---
 
 After this, they waited. They did not know what they waited for, nor could they guess even vaguely how the waiting would end. All that Lazarus could tell them he told. He would have been willing to stand respectfully for hours relating to Marco the story of how the period of their absence had passed for his Master and himself. He told how Loristan had spoken each day of his son, how he had often been pale with anxiousness, how in the evenings he had walked to and fro in his room, deep in thought, as he looked down unseeingly at the carpet.

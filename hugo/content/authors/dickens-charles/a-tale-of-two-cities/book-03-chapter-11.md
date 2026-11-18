@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 11 - Dusk"
 weight: 41
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-11.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-11.html"
 ---
 
 THE WRETCHED WIFE of the innocent man thus doomed to die, fell under the sentence, as if she had been mortally stricken. But, she uttered no sound; and so strong was the voice within her, representing that it was she of all the world who must uphold him in his misery and not augment it, that it quickly raised her, even from that shock.

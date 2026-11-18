@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/tarkington-booth/the-guest-of-quesnay/chapter-05.html"
+url: "/authors/tarkington-booth/the-guest-of-quesnay/chapter-05.html"
 ---
 
 I had been painting in various parts of the forest, studying the early morning along the eastern fringe and moving deeper in as the day advanced. For the stillness and warmth of noon I went to the very woodland heart, and in the late afternoon moved westward to a glade—a chance arena open to the sky, the scene of my most audacious endeavours, for here I was trying to paint foliage luminous under those long shafts of sunshine which grow thinner but ruddier toward sunset. A path closely bordered by underbrush wound its way to the glade, crossed it, then wandered away into shady dingles again; and with my easel pitched in the mouth of this path, I sat at work, one late afternoon, wonderful for its still loveliness.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Flour Barrel"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-22.html"
 ---
 
 MISS KITTY CAT took her paw off Moses Mouse, after giving him a sharp nip to warn him not to try to run away.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Into Brambles"
 weight: 9
-aliases:
-  - "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-09.html"
+url: "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-09.html"
 ---
 
 The next morning I awoke with the same resolve in my heart, to be happy if wicked, and proceeded to execute it with a great vigor. And in the execution of that resolve dear old Goodloets almost had some of the moss of its century's repose scraped off of its back.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Dido Is Trained"
 weight: 3
-aliases:
-  - "/authors/barnum-richard/dido-the-dancing-bear/chapter-03.html"
+url: "/authors/barnum-richard/dido-the-dancing-bear/chapter-03.html"
 ---
 
 For a moment Dido was so frightened that he did not know what to do. His heart beat very fast, just as you can feel your kittie’s heart beat fast after a dog has chased her. The little bear cub stopped eating the honey, good as it was, and he looked carefully around him.

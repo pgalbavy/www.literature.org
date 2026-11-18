@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Price Of Silence"
 weight: 17
-aliases:
-  - "/authors/tarkington-booth/the-two-vanrevels/chapter-17.html"
+url: "/authors/tarkington-booth/the-two-vanrevels/chapter-17.html"
 ---
 
 It was the misfortune of Mr. Cummings's first literary offering to annoy one of the editor's friends. The Journal was brought to the corporal at noon, while he was considering whether he should rise from his couch or sleep another hour. Reclining among his pillows, he glanced through Cummings's description with the subdued giggle he always had for the good William's style but as his eye fell upon one paragraph he started sat upright, and proceeded to read the passage several times with anxious attention.

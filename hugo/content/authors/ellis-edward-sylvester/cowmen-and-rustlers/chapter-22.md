@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Important Tidings"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-22.html"
 ---
 
 It seemed strange that the messenger, if such he was, should know the right course to follow in order to reach the camp of Capt. Asbury, for he was riding directly toward it, and that, too, at the highest speed of which his horse was capable.

@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 4"
 weight: 27
-aliases:
-  - "/authors/conrad-joseph/an-outcast-of-the-islands/part-05-chapter-04.html"
+url: "/authors/conrad-joseph/an-outcast-of-the-islands/part-05-chapter-04.html"
 ---
 
 Willems moved languidly towards the river, then retraced his steps to the tree and let himself fall on the seat under its shade. On the other side of the immense trunk he could hear the old woman moving about, sighing loudly, muttering to herself, snapping dry sticks, blowing up the fire. After a while a whiff of smoke drifted round to where he sat. It made him feel hungry, and that feeling was like a new indignity added to an intolerable load of humiliations. He felt inclined to cry. He felt very weak. He held up his arm before his eyes and watched for a little while the trembling of the lean limb. Skin and bone, by God! How thin he was! . . . He had suffered from fever a good deal, and now he thought with tearful dismay that Lingard, although he had sent him food—and what food, great Lord: a little rice and dried fish; quite unfit for a white man—had not sent him any medicine. Did the old savage think that he was like the wild beasts that are never ill? He wanted quinine.

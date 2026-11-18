@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Strange Absence"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-14.html"
 ---
 
 *NICK RIBSAM* might well be puzzled. Just ahead and on his right was the most enchanting natural spring of water that he had ever beheld. It was circular in shape, fully two yards in diameter and ten or twelve inches deep in the middle. From several places on the bottom the water bubbled up in a way that tumbled the sand in miniature fountains, which hid the current flinging the particles upward from below.

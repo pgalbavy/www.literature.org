@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Slicko Is Caught"
 weight: 7
-aliases:
-  - "/authors/barnum-richard/slicko-the-jumping-squirrel/chapter-07.html"
+url: "/authors/barnum-richard/slicko-the-jumping-squirrel/chapter-07.html"
 ---
 
 Poor Slicko was so surprised at first, and her leg pained her so much, from whatever it was that had grasped it, that the little squirrel lay quite still for a moment. Her heart beat very fast, and she thought of the many dangers, which her father and mother had told her might happen to little squirrels.

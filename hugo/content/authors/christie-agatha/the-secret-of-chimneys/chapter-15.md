@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The French Stranger"
 weight: 15
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-15.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-15.html"
 ---
 
 Virginia and Anthony walked side by side down the path which led to the lake. For some minutes after leaving the house they were silent. It was Virginia who broke the silence at last with a little laugh.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/woolf-virginia/night-and-day/chapter-13.html"
+url: "/authors/woolf-virginia/night-and-day/chapter-13.html"
 ---
 
 The lunch hour in the office was only partly spent by Denham in the consumption of food. Whether fine or wet, he passed most of it pacing the gravel paths in Lincoln’s Inn Fields. The children got to know his figure, and the sparrows expected their daily scattering of bread-crumbs. No doubt, since he often gave a copper and almost always a handful of bread, he was not as blind to his surroundings as he thought himself.

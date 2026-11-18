@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-05.html"
+url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-05.html"
 ---
 
 The morning was a brighter one than London usually indulges in and the sun made its way into Feather's bedroom to the revealing of its coral pink glow and comfort. She had always liked her bedroom and had usually wakened in it to the sense of luxuriousness it is possible a pet cat feels when it wakens to stretch itself on a cushion with its saucer of cream awaiting it.

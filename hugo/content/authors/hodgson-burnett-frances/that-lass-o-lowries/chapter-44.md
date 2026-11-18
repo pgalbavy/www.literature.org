@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44 - Not Yet"
 weight: 44
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-44.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-44.html"
 ---
 
 Mrs. Galloway arose and advanced to meet her visitor with a slightly puzzled air.

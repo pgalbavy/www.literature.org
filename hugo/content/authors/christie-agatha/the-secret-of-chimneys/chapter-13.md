@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The American Visitor"
 weight: 13
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-13.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-13.html"
 ---
 
 Superintendent Battle replaced the sheet with the slightly crest-fallen air of a man whose best point has fallen flat. Anthony stood with his hands in his pockets lost in thought.

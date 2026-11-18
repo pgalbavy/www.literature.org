@@ -1,8 +1,7 @@
 ---
 title: "Chapter 84 - At Sea"
 weight: 84
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-84.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-84.html"
 ---
 
 The following day was somewhat calmer, although the gale still continued. The sun had, however, risen through a bank of orange clouds, tingeing with its cheerful rays the crests of the black waves. Watch was impatiently kept from the different look-outs. Towards eleven o'clock in the morning a ship, with sails full set, was signalled as in view; two others followed at the distance of about half a knot. They approached like arrows shot from the bow of a skillful archer; and yet the sea ran so high that their speed was as nothing compared to the rolling of the billows in which the vessels were plunging first in one direction and then in another. The English fleet was soon recognized by the line of the ships, and by the color of their pennants; the one which had the princess on board and carried the admiral's flag preceded the others.

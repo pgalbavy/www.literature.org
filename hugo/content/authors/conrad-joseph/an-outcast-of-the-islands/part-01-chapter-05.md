@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 5"
 weight: 6
-aliases:
-  - "/authors/conrad-joseph/an-outcast-of-the-islands/part-01-chapter-05.html"
+url: "/authors/conrad-joseph/an-outcast-of-the-islands/part-01-chapter-05.html"
 ---
 
 "It was the writing on his forehead," said Babalatchi, adding a couple of small sticks to the little fire by which he was squatting, and without looking at Lakamba who lay down supported on his elbow on the other side of the embers. "It was written when he was born that he should end his life in darkness, and now he is like a man walking in a black night—with his eyes open, yet seeing not. I knew him well when he had slaves, and many wives, and much merchandise, and trading praus, and praus for fighting. Hai—ya! He was a great fighter in the days before the breath of the Merciful put out the light in his eyes. He was a pilgrim, and had many virtues: he was brave, his hand was open, and he was a great robber. For many years he led the men that drank blood on the sea: first in prayer and first in fight! Have I not stood behind him when his face was turned to the West? Have I not watched by his side ships with high masts burning in a straight flame on the calm water? Have I not followed him on dark nights amongst sleeping men that woke up only to die? His sword was swifter than the fire from Heaven, and struck before it flashed. Hai! Tuan! Those were the days and that was a leader, and I myself was younger; and in those days there were not so many fireships with guns that deal fiery death from afar. Over the hill and over the forest —O! Tuan Lakamba! they dropped whistling fireballs into the creek where our praus took refuge, and where they dared not follow men who had arms in their hands."

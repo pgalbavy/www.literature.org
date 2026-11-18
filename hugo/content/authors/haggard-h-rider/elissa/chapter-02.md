@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Grove Of Baaltis"
 weight: 3
-aliases:
-  - "/authors/haggard-h-rider/elissa/chapter-02.html"
+url: "/authors/haggard-h-rider/elissa/chapter-02.html"
 ---
 
 At length, as the two men sat thus silently, for the place and its gloom oppressed them, a sound broke upon the quiet of the night, that beginning with a low wail such as might come from the lips of a mourner, ended in a chant or song. The voice, which seemed close at hand, was low, rich and passionate. At times it sank almost to a sob, and at times, taking a higher note, it thrilled upon the air in tones that would have been shrill were they not so sweet.

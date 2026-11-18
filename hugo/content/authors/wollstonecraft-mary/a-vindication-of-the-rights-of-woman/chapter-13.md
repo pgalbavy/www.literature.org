@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Some Instances Of The Folly Which The Ignorance Of Women Generates; With Concluding Reflections On The Moral Improvement That A Revolution In Female Manners Might Naturally Be Expected To Produce"
 weight: 14
-aliases:
-  - "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/chapter-13.html"
+url: "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/chapter-13.html"
 ---
 
 There are many follies, in some degree, peculiar to women: sins against reason, of commission, as well as of omission; but all flowing from ignorance or prejudice, I shall only point out such as appear to be injurious to their moral character. And in animadverting on them, I wish especially to prove, that the weakness of mind and body, which men have endeavoured by various motives to perpetuate, prevents their discharging the peculiar duty of their sex: for when weakness of body will not permit them to suckle their children, and weakness of mind makes them spoil their tempers--is woman in a natural state?

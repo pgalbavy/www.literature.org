@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - The Pursuers"
 weight: 33
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-33.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-33.html"
 ---
 
 Haffgo, king of the Murhapas, intended to keep his promise to Ziffak, so far as permitting the explorers to remain in his village until the morrow, at which time he intended that the men should be allowed to go in safety.

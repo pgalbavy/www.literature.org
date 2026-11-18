@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 2 - The Falling Star"
 weight: 2
-aliases:
-  - "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-02.html"
+url: "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-02.html"
 ---
 
 Then came the night of the first falling star. It was seen early in the morning, rushing over Winchester eastward, a line of flame high in the atmosphere. Hundreds must have seen it, and taken it for an ordinary falling star. Albin de- scribed it as leaving a greenish streak behind it that glowed for some seconds. Denning, our greatest authority on meteor- ites, stated that the height of its first appearance was about ninety or one hundred miles. It seemed to him that it fell to earth about one hundred miles east of him.

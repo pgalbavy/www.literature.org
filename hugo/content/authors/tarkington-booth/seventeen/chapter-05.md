@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Sorrows Within A Boiler"
 weight: 5
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-05.html"
+url: "/authors/tarkington-booth/seventeen/chapter-05.html"
 ---
 
 There was something really pageant-like about the little excursion now, and the glittering clothes-boiler, borne on high, sent flashing lights far down the street. The wash-tubs were old-fashioned, of wood; they refused to fit one within the other; so William, with his right hand, and Genesis, with his left, carried one of the tubs between them; Genesis carried the heavy wringer with his right hand, and he had fastened the other tub upon his back by means of a bit of rope which passed over his shoulder; thus the tin boiler, being a lighter burden, fell to William.

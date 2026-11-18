@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Wager Of Battle"
 weight: 8
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-08.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-08.html"
 ---
 
 “Owd Sammy Craddock” rose from his chair, and going to the mantel-piece, took down a tobacco jar of red and yellow delft, and proceeded to fill his pipe with solemn ceremony. It was a large, deep clay pipe, and held a great deal of tobacco--particularly when filled from the store of an acquaintance. “It's a good enow pipe to borrow wi',” Sammy was wont to remark. In the second place, Mr. Craddock drew forth a goodly portion of the weed, and pressed it down with ease and precision into the top of the foreign gentleman's turban which constituted the bowl. Then he lighted it with a piece of paper, remarking to his wife between long indrawn puffs, “I'm goin'--to th' Public.”

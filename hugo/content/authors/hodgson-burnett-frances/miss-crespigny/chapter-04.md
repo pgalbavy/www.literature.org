@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A Lunch Party"
 weight: 4
-aliases:
-  - "/authors/hodgson-burnett-frances/miss-crespigny/chapter-04.html"
+url: "/authors/hodgson-burnett-frances/miss-crespigny/chapter-04.html"
 ---
 
 The studio of that popular and fortunate young man, Mr. Hector Anstruthers, was really a most gorgeous and artistic affair. It was beautifully furnished and wondrously fitted up, and displayed, in all its arrangements, the fact that its owner was a young man of refined and luxurious tastes, and was lucky enough to possess the means to gratify them to their utmost. People admired this studio, and talked about it almost as much as they talked about Anstruthers himself. Indeed, it had become a sort of fashion to visit it. The most exclusive of mammas, ladies who were so secure in their social thrones, that they were privileged to dictate to fashion, instead of being dictated to by that fickle goddess--ladies who made much of Anstruthers, and petted him, often stopped their carriages at his door on fine mornings, and descended therefrom with their marriageable girls, went up to the charming room, and loitered through half an hour, or even more, talking to the young potentate, admiring his pictures, and picturesque odds and ends, and rarities, and making themselves very agreeable. He was an extravagant creature, and needed some one to control him, these ladies told him; but really it was all very pretty, and exquisitely tasteful; and, upon the whole, they could hardly blame him as much as it was their duty to do. Anstruthers received these delicate attentions with quite a grace.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-28.html"
+url: "/authors/london-jack/martin-eden/chapter-28.html"
 ---
 
 But success had lost Martin's address, and her messengers no longer came to his door. For twenty-five days, working Sundays and holidays, he toiled on "The Shame of the Sun," a long essay of some thirty thousand words. It was a deliberate attack on the mysticism of the Maeterlinck school - an attack from the citadel of positive science upon the wonder-dreamers, but an attack nevertheless that retained much of beauty and wonder of the sort compatible with ascertained fact. It was a little later that he followed up the attack with two short essays, "The Wonder-Dreamers" and "The Yardstick of the Ego." And on essays, long and short, he began to pay the travelling expenses from magazine to magazine.

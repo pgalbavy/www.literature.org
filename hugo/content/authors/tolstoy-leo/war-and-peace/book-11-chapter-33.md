@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 33"
 weight: 262
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-33.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-33.html"
 ---
 
 On the third of September Pierre awoke late. His head was aching, the clothes in which he had slept without undressing felt uncomfortable on his body, and his mind had a dim consciousness of something shameful he had done the day before. That something shameful was his yesterday's conversation with Captain Ramballe.

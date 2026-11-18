@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39 - Wickfield And Heep"
 weight: 40
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-39.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-39.html"
 ---
 
 My aunt, beginning, I imagine, to be made seriously uncomfortable by my prolonged dejection, made a pretence of being anxious that I should go to Dover, to see that all was working well at the cottage, which was let; and to conclude an agreement, with the same tenant, for a longer term of occupation. Janet was drafted into the service of Mrs. Strong, where I saw her every day. She had been undecided, on leaving Dover, whether or no to give the finishing touch to that renunciation of mankind in which she had been educated, by marrying a pilot; but she decided against that venture. Not so much for the sake of principle, I believe, as because she happened not to like him.

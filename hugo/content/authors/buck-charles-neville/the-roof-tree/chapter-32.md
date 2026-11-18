@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 32
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-32.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-32.html"
 ---
 
 Sim, standing at the barn door, had watched Parish Thornton ride away that morning with a troubled heart, as he wondered what sequel these events would bring for himself. Then he went to the house and called softly to Dorothy. She was crooning a lullaby, behind the closed door of her room, to the small mite of humanity that had come, in healthy pinkness, to the comparatively mature age of one month.

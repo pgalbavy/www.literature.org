@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-23.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-23.html"
 ---
 
 THE rainy night had ushered in a misty morning - half frost, half drizzle - and temporary brooks crossed our path - gurgling from the uplands. My feet were thoroughly wetted; I was cross and low; exactly the humour suited for making the most of these disagreeable things. We entered the farm-house by the kitchen way, to ascertain whether Mr. Heathcliff were really absent: because I put slight faith in his own affirmation.

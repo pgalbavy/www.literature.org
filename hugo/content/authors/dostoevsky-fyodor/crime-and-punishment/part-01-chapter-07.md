@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 7"
 weight: 8
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-01-chapter-07.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-01-chapter-07.html"
 ---
 
 The door was as before opened a tiny crack, and again two sharp and suspicious eyes stared at him out of the darkness. Then Raskolnikov lost his head and nearly made a great mistake.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Keeling Island: -- Coral Formations"
 weight: 21
-aliases:
-  - "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-20.html"
+url: "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-20.html"
 ---
 
 arrow_rightKeeling Island arrow_rightSingular appearance arrow_rightScanty Flora arrow_rightTransport of Seeds arrow_rightBirds and Insects arrow_rightEbbing and flowing Springs arrow_rightFields of dead Coral arrow_rightStones transported in the roots of Trees arrow_rightGreat Crab arrow_rightStinging Corals arrow_rightCoral eating Fish arrow_rightCoral Formations arrow_rightLagoon Islands, or Atolls arrow_rightDepth at which reef-building Corals can live arrow_rightVast Areas interspersed with low Coral Islands arrow_rightSubsidence of their foundations arrow_rightBarrier Reefs arrow_rightFringing Reefs arrow_rightConversion of Fringing Reefs into Barrier Reefs, and into Atolls arrow_rightEvidence of changes in Level arrow_rightBreaches in Barrier Reefs arrow_rightMaldiva Atolls, their peculiar structure arrow_rightDead and submerged Reefs arrow_rightAreas of subsidence and elevation arrow_rightDistribution of Volcanoes arrow_rightSubsidence slow, and vast in amount ---

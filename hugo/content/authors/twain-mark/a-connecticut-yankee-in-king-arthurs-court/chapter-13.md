@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Freemen"
 weight: 14
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-13.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-13.html"
 ---
 
 YES, it is strange how little a while at a time a person can be contented. Only a little while back, when I was riding and suffering, what a heaven this peace, this rest, this sweet serenity in this secluded shady nook by this purling stream would have seemed, where I could keep perfectly comfortable all the time by pouring a dipper of water into my armor now and then; yet already I was getting dissatisfied; partly because I could not light my pipe -- for, although I had long ago started a match factory, I had forgotten to bring matches with me -- and partly because we had nothing to eat. Here was another illustration of the childlike improvidence of this age and people. A man in armor always trusted to chance for his food on a journey, and would have been scandalized at the idea of hanging a basket of sandwiches on his spear. There was probably not a knight of all the Round Table combination who would not rather have died than been caught carrying such a thing as that on his flagstaff. And yet there could not be anything more sensible. It had been my intention to smuggle a couple of sandwiches into my helmet, but I was interrupted in the act, and had to make an excuse and lay them aside, and a dog got them.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - The Captain Of The Robbers"
 weight: 35
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-35.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-35.html"
 ---
 
 *TOM WAITED* patiently while the captain gave some directions to his subordinates. At length the robber made him a sign to draw near.

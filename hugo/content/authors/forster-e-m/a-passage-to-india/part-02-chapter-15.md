@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 15"
 weight: 15
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-02-chapter-15.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-02-chapter-15.html"
 ---
 
 Miss Quested and Aziz and a guide continued the slightly tedious expedition. They did not talk much, for the sun was getting high. The air felt like a warm bath into which hotter water is trickling constantly, the temperature rose and rose, the boulders said, “I am alive,” the small stones answered, “I am almost alive.” Between the chinks lay the ashes of little plants. They meant to climb to the rocking-stone on the summit, but it was too far, and they contented themselves with the big group of caves. En route for these, they encountered several isolated caves, which the guide persuaded them to visit, but really there was nothing to see; they lit a match, admired its reflection in the polish, tested the echo and came out again. Aziz was “pretty sure they should come on some interesting old carvings soon,” but only meant he wished there were some carvings. His deeper thoughts were about the breakfast. Symptoms of disorganization had appeared as he left the camp. He ran over the menu: an English breakfast, porridge and mutton chops, but some Indian dishes to cause conversation, and pan afterwards. He had never liked Miss Quested as much as Mrs. Moore, and had little to say to her, less than ever now that she would marry a British official.

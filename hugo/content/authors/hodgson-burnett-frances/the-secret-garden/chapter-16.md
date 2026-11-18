@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - “I Won’t!” Said Mary"
 weight: 16
-aliases:
-  - "/authors/hodgson-burnett-frances/the-secret-garden/chapter-16.html"
+url: "/authors/hodgson-burnett-frances/the-secret-garden/chapter-16.html"
 ---
 
 They found a great deal to do that morning and Mary was late in returning to the house and was also in such a hurry to get back to her work that she quite forgot Colin until the last moment.

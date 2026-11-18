@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Music On The Pincio"
 weight: 2
-aliases:
-  - "/authors/tarkington-booth/his-own-people/chapter-02.html"
+url: "/authors/tarkington-booth/his-own-people/chapter-02.html"
 ---
 
 The following afternoon found him still in that enviable condition as he stood listening to the music on the Pincian Hill. He had it of rumor that the Fashion of Rome usually took a turn there before it went to tea, and he had it from the lady herself that Madame de Vaurigard would be there. Presently she came, reclining in a victoria, the harness of her horses flashing with gold in the sunshine. She wore a long ermine stole; her hat was ermine; she carried a muff of the same fur, and Mellin thought it a perfect finish to the picture that a dark gentleman of an appearance most distinguished should be sitting beside her. An Italian noble, surely!

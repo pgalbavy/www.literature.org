@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 17"
 weight: 206
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-17.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-17.html"
 ---
 
 Stepan Arkadyevitch's affairs were in a very bad way. The money for two-thirds of the forest had all been spent already, and he had borrowed from the merchant in advance at ten per cent discount almost all the remaining third. The merchant would not give more, especially as Darya Alexandrovna, for the first time that winter insisting on her right to her own property, had refused to sign the receipt for the payment of the last third of the forest. All his salary went on household expenses and in-payment of petty debts that could not be put off. There was positively no money.

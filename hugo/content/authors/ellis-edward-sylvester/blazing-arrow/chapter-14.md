@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Looking On"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-14.html"
 ---
 
 Wharton Edwards was not long finding that for which he was seeking. While feeling his way among the trees, with all his senses on the alert, a point of light suddenly flashed out in the gloom. It was directly ahead, and he had but to penetrate a short distance farther, when he came in sight of the camp-fire of the Shawanoes.

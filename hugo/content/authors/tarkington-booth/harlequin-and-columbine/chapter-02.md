@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/tarkington-booth/harlequin-and-columbine/chapter-02.html"
+url: "/authors/tarkington-booth/harlequin-and-columbine/chapter-02.html"
 ---
 
 "First act, please, ladies and gentlemen!"

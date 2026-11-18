@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Brown Wolf"
 weight: 6
-aliases:
-  - "/authors/london-jack/love-of-life/chapter-06.html"
+url: "/authors/london-jack/love-of-life/chapter-06.html"
 ---
 
 SHE had delayed, because of the dew-wet grass, in order to put on her overshoes, and when she emerged from the house found her waiting husband absorbed in the wonder of a bursting almond-bud. She sent a questing glance across the tall grass and in and out among the orchard trees.

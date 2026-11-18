@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/conrad-joseph/gaspar-ruiz/chapter-06.html"
+url: "/authors/conrad-joseph/gaspar-ruiz/chapter-06.html"
 ---
 
 "I *KNEW* those people by sight," General Santierra would tell his guests at the dining-table. "I mean the people with whom Gaspar Ruiz found shelter. The father was an old Spaniard, a man of property, ruined by the revolution. His estates, his house in town, his money, everything he had in the world had been confiscated by proclamation, for he was a bitter foe of our independence. From a position of great dignity and influence on the Viceroy’s Council he became of less importance than his own negro slaves made free by our glorious revolution. He had not even the means to flee the country, as other Spaniards had managed to do. It may be that, wandering ruined and houseless, and burdened with nothing but his life, which was left to him by the clemency of the Provisional Government, he had simply walked under that broken roof of old tiles. It was a lonely spot. There did not seem to be even a dog belonging to the place. But though the roof had holes, as if a cannonball or two had dropped through it, the wooden shutters were thick and tight-closed all the time.

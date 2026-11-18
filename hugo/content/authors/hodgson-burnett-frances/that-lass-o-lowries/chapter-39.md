@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39 - A Testimonial"
 weight: 39
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-39.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-39.html"
 ---
 
 Joan went back to her lodgings at the Thwaites' and left Mrs. Barholm and Anice to fill her place.

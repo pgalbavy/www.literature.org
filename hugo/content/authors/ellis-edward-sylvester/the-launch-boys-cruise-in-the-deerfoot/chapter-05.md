@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Motor Boat"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-05.html"
 ---
 
 The first time you stepped aboard a motor boat you were impressed by the looks of the engine and the numerous appliances which when rightly handled drive the craft through the water at the rate of ten, fifteen, twenty and sometimes more miles an hour. You thought it would be hard to learn to manage the boat and know how to overcome the different kinds of trouble that are almost certain to arise. But the task, after all, is simple and with patience you can soon master it.

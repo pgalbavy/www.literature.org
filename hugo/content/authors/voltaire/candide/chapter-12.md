@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Adventures of the Old Woman Continued"
 weight: 12
-aliases:
-  - "/authors/voltaire/candide/chapter-12.html"
+url: "/authors/voltaire/candide/chapter-12.html"
 ---
 
 Astonished and delighted to hear my native language, and no less surprised at the young man's words, I told him that there were far greater misfortunes in the world than what he complained of. And to convince him of it, I gave him a short history of the horrible disasters that had befallen me; and as soon as I had finished, fell into a swoon again.

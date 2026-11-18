@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 7"
 weight: 49
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-07.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-07.html"
 ---
 
 Two days after Mr. Bennet's return, as Jane and Elizabeth were walking together in the shrubbery behind the house, they saw the housekeeper coming towards them, and, concluding that she came to call them to their mother, went forward to meet her; but, instead of the expected summons, when they approached her, she said to Miss Bennet, "I beg your pardon, madam, for interrupting you, but I was in hopes you might have got some good news from town, so I took the liberty of coming to ask."

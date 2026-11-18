@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Hermit Of The Woods"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-03.html"
 ---
 
 The reply to Mike’s hail was so prompt that he thought it was the echo of his own voice. He looked in the direction whence the answer came, and, seeing nothing to account for it, shouted:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - How To Conquer An Enemy"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-16.html"
 ---
 
 I have told you what befell Will and George Burton when they made their attempt to find out who had kindled the camp fire in the valley below the ridge on which they halted. But the experience of Jack Gedney was the strangest of all.

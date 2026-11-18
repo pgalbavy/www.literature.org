@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Short And Sweet"
 weight: 23
-aliases:
-  - "/authors/alcott-louisa-may/rose-in-bloom/chapter-22.html"
+url: "/authors/alcott-louisa-may/rose-in-bloom/chapter-22.html"
 ---
 
 In the hall she found Steve and Kitty, for he had hidden his little sweetheart behind the big couch, feeling that she had a right there, having supported his spirits during the late anxiety with great constancy and courage. They seemed so cozy, billing and cooing in the shadow of the gay vase, that Rose would have slipped silently away if they had not seen and called to her. "He's not gone I guess you'll find him in the parlor," said Steve, divining with a lover's instinct the meaning of the quick look she had cast at the hat rack as she shut the study door behind her.

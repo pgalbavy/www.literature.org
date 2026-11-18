@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 6 - Tending To Refute The Popular Prejudice Against The Present Of A Pocket-Knife"
 weight: 26
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-03-chapter-06.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-03-chapter-06.html"
 ---
 
 In that dark time of December, the sale of the household furniture lasted beyond the middle of the second day. Mr. Tulliver, who had begun, in his intervals of consciousness, to manifest an irritability which often appeared to have as a direct effect the recurrence of spasmodic rigidity and insensibility, had lain in this living death throughout the critical hours when the noise of the sale came nearest to his chamber. Mr. Turnbull had decided that it would be a less risk to let him remain where he was than to remove him to Luke's cottage, - a plan which the good Luke had proposed to Mrs. Tulliver, thinking it would be very bad if the master were "to waken up" at the noise of the sale; and the wife and children had sat imprisoned in the silent chamber, watching the large prostrate figure on the bed, and trembling lest the blank face should suddenly show some response to the sounds which fell on their own ears with such obstinate, painful repetition.

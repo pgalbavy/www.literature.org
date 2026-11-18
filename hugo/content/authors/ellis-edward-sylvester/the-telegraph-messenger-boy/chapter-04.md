@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A Message In The Night"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-04.html"
 ---
 
 At the end of a month Ben Mayberry was made a messenger boy of the office under my charge. This cannot be called a very momentous promotion, inasmuch as many of our telegraphists begin there; but it doubled Ben's wages at once, and led to his appearance in the attractive blue uniform which the boys of the Western Union wear. In his case it seemed to add two inches to his stature at once.

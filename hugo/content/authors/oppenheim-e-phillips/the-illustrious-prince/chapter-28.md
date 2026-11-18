@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Patriotism"
 weight: 28
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-28.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-28.html"
 ---
 
 The Duke's chef had served an Emperor with honor--the billiard room at Devenham Castle was the most comfortable room upon earth. The three men who sat together upon a huge divan, the three men most powerful in directing the councils of their country, felt a gentle wave of optimism stealing through their quickened blood. Nevertheless this was a serious matter which occupied their thoughts.

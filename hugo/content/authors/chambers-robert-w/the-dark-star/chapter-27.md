@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - From Four To Five"
 weight: 28
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-27.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-27.html"
 ---
 
 The Princess Mistchenka and Rue Carew had retired to their respective rooms for that hour between four and five in the afternoon, which the average woman devotes to cat-naps or to that aimless feminine fussing which must ever remain a mystery to man.

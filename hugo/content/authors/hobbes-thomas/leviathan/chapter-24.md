@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Of The Nutrition, And Procreation Of A Common-Wealth"
 weight: 26
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-24.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-24.html"
 ---
 
 The Nourishment Of A Common-wealth Consisteth In The Commodities Of Sea And Land; The NUTRITION of a Common-wealth consisteth, in the Plenty, and Distribution of Materials conducing to Life: In Concoction, or Preparation; and (when concocted) in the Conveyance of it, by convenient conduits, to the Publique use.

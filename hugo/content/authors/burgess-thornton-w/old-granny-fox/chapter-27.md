@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Prickly Porky Takes A Sun Bath"
 weight: 27
-aliases:
-  - "/authors/burgess-thornton-w/old-granny-fox/chapter-27.html"
+url: "/authors/burgess-thornton-w/old-granny-fox/chapter-27.html"
 ---
 
 Danger comes when least expected;  

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Nero Goes Hunting"
 weight: 2
-aliases:
-  - "/authors/barnum-richard/nero-the-circus-lion/chapter-02.html"
+url: "/authors/barnum-richard/nero-the-circus-lion/chapter-02.html"
 ---
 
 The first thought of Nero, the little lion cub boy, as he felt himself falling into the spring of water, was that Switchie had played a joke and pushed him in.

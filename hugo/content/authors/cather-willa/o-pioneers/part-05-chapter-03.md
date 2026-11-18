@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 3"
 weight: 31
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-05-chapter-03.html"
+url: "/authors/cather-willa/o-pioneers/part-05-chapter-03.html"
 ---
 
 The next afternoon Carl and Alexandra were walking across the fields from Mrs. Hiller's. Alexandra had left Lincoln after midnight, and Carl had met her at the Hanover station early in the morning. After they reached home, Alexandra had gone over to Mrs. Hiller's to leave a little present she had bought for her in the city. They stayed at the old lady's door but a moment, and then came out to spend the rest of the afternoon in the sunny fields.

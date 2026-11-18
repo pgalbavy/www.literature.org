@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Beechnuts"
 weight: 23
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-23.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-23.html"
 ---
 
 "I’m going to stay right here on this farm," Reddy Woodpecker declared. "I like this place."

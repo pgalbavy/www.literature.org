@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/hodgson-burnett-frances/little-lord-fauntleroy/chapter-09.html"
+url: "/authors/hodgson-burnett-frances/little-lord-fauntleroy/chapter-09.html"
 ---
 
 The fact was, his lordship the Earl of Dorincourt thought in those days, of many things of which he had never thought before, and all his thoughts were in one way or another connected with his grandson. His pride was the strongest part of his nature, and the boy gratified it at every point. Through this pride he began to find a new interest in life. He began to take pleasure in showing his heir to the world. The world had known of his disappointment in his sons; so there was an agreeable touch of triumph in exhibiting this new Lord Fauntleroy, who could disappoint no one. He wished the child to appreciate his own power and to understand the splendor of his position; he wished that others should realize it too. He made plans for his future.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Beaks And Bills"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-20.html"
 ---
 
 Turkey Proudfoot was a poor guesser. There in the woods, at night, Simon Screecher the owl had told him of something that "counted," something that was right in front of Turkey Proudfoot's eyes. And Turkey Proudfoot named everything he could think of. He mentioned the oak tree in which he sat, the darkness, the yellow moon.

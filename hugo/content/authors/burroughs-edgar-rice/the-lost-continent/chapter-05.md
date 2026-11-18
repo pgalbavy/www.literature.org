@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/burroughs-edgar-rice/the-lost-continent/chapter-05.html"
+url: "/authors/burroughs-edgar-rice/the-lost-continent/chapter-05.html"
 ---
 
 As we entered deeper into what had once been the city, the evidences of man's past occupancy became more frequent. For a mile from the arch there was only a riot of weeds and undergrowth and trees covering small mounds and little hillocks that, I was sure, were formed of the ruins of stately buildings of the dead past.

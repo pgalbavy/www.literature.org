@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Nero And The Tramp"
 weight: 12
-aliases:
-  - "/authors/barnum-richard/nero-the-circus-lion/chapter-12.html"
+url: "/authors/barnum-richard/nero-the-circus-lion/chapter-12.html"
 ---
 
 Nero, the circus lion, gave himself a big shake. His mane, or big fringe of hair around his neck, stood out like the fur on your cat's back when a dog chases her, and then Nero roared. Oh, such a loud roar as he gave! The ground shook.

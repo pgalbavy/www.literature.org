@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Fatty Grows Even Fatter"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-19.html"
 ---
 
 When Fatty Coon's burned feet were well once more, the very first night he left his mother's house he went straight to the loggers' camp. He did not wait long after dark, because he was afraid that some of his neighbors might have found that there were good things to eat about the camp. And Fatty wanted them all.

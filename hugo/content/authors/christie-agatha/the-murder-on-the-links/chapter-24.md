@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - \"Save Him!\""
 weight: 24
-aliases:
-  - "/authors/christie-agatha/the-murder-on-the-links/chapter-24.html"
+url: "/authors/christie-agatha/the-murder-on-the-links/chapter-24.html"
 ---
 
 We crossed from England by the evening boat, and the following morning saw us in Saint-Omer, whither Jack Renauld had been taken. Poirot lost no time in visiting M. Hautet. As he did not seem disposed to make any objections to my accompanying him, I bore him company.

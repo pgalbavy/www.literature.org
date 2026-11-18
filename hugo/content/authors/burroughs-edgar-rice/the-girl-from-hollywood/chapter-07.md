@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-07.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-07.html"
 ---
 
 Across the rustic bridge, and once behind the sycamores at the lower end of the cow pasture, Guy Evans let his horse out into a rapid gallop. A few minutes later he overtook a horseman who was moving at a slow walk farther up the cañon. At the sound of the pounding hoofbeats behind him, the latter turned in his saddle, reined about and stopped. The boy rode up and drew in his blowing mount beside the other.

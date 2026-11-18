@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 4 - Congratulatory"
 weight: 10
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-04.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-04.html"
 ---
 
 FROM the dimly-lighted passages of the court, the last sediment of the human stew that had been boiling there all day, was straining off, when Doctor Manette, Lucie Manette, his daughter, Mr. Lorry, the solicitor for the defence, and its counsel, Mr. Stryver, stood gathered round Mr. Charles Darnay- just released- congratulating him on his escape from death.

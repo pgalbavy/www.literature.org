@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The German Air-Fleet"
 weight: 5
-aliases:
-  - "/authors/wells-herbert-george/the-war-in-the-air/chapter-04.html"
+url: "/authors/wells-herbert-george/the-war-in-the-air/chapter-04.html"
 ---
 
 1

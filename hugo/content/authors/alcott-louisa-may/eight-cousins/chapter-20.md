@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Under The Mistletoe"
 weight: 21
-aliases:
-  - "/authors/alcott-louisa-may/eight-cousins/chapter-20.html"
+url: "/authors/alcott-louisa-may/eight-cousins/chapter-20.html"
 ---
 
 Rose made Phebe promise that she would bring her stocking into the "Bower," as she called her pretty room, on Christmas morning, because that first delicious rummage loses half its charm if two little night-caps at least do not meet over the treasures, and two happy voices Oh and Ah together.

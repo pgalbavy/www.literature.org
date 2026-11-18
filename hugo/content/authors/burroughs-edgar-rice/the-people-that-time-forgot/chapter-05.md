@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/burroughs-edgar-rice/the-people-that-time-forgot/chapter-05.html"
+url: "/authors/burroughs-edgar-rice/the-people-that-time-forgot/chapter-05.html"
 ---
 
 We were sitting before a little fire inside a safe grotto one night shortly after we had quit the cliff-dwellings of the Band-lu, when So-al raised a question which it had never occurred to me to propound to Ajor. She asked her why she had left her own people and how she had come so far south as the country of the Alus, where I had found her.

@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 34"
 weight: 351
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-34.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-34.html"
 ---
 
 Soon after this the children came in to say good night. They kissed everyone, the tutors and governesses made their bows, and they went out. Only young Nicholas and his tutor remained. Dessalles whispered to the boy to come downstairs.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - Ariel"
 weight: 36
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-36.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-36.html"
 ---
 
 I PASSED a sleepless night.

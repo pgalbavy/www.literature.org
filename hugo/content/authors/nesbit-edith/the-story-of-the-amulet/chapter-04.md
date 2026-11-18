@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Eight Thousand Years Ago"
 weight: 4
-aliases:
-  - "/authors/nesbit-edith/the-story-of-the-amulet/chapter-04.html"
+url: "/authors/nesbit-edith/the-story-of-the-amulet/chapter-04.html"
 ---
 
 Next morning Anthea got old Nurse to allow her to take up the 'poor learned gentleman's' breakfast. He did not recognize her at first, but when he did he was vaguely pleased to see her.

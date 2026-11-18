@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - In The Solitude"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-15.html"
 ---
 
 Ned designed to drift down stream for a mile or so, by which time he expected to be at such a distance that there was no further possible danger of pursuit. It would then be necessary for him to get forward as fast as he could, taking care to avoid the redskins who were in front, rather than those in the rear.

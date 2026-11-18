@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Tell-Tale Film"
 weight: 5
-aliases:
-  - "/authors/leblanc-maurice/the-eight-strokes-of-the-clock/chapter-04.html"
+url: "/authors/leblanc-maurice/the-eight-strokes-of-the-clock/chapter-04.html"
 ---
 
 "Do look at the man who's playing the butler," said Serge Rénine.

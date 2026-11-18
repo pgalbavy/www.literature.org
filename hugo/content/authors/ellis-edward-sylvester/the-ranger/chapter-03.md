@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Kent And Leslie"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/the-ranger/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/the-ranger/chapter-03.html"
 ---
 
 When Roland Leslie reached his destination some miles up the Ohio, his fears and suspicions were confirmed. There had been a massacre, a week previous, of a number of settlers, and the Indians were scouring the country for more victims.

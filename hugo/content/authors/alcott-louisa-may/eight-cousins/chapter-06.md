@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Uncle Alec's Room"
 weight: 7
-aliases:
-  - "/authors/alcott-louisa-may/eight-cousins/chapter-06.html"
+url: "/authors/alcott-louisa-may/eight-cousins/chapter-06.html"
 ---
 
 Soon after dinner, and before she had got acquainted with half her new possessions, Dr. Alec proposed a drive, to carry round the first instalment of gifts to the aunts and cousins. Rose was quite ready to go, being anxious to try a certain soft burnous from the box, which not only possessed a most engaging little hood, but had funny tassels bobbing in all directions.

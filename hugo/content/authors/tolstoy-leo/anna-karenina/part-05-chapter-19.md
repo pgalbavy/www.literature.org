@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 19"
 weight: 143
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-19.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-19.html"
 ---
 
 "Thou hast hid these things from the wise and prudent, and hast revealed them unto babes." So Levin thought about his wife as he talked to her that evening.

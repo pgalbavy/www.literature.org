@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Watching And Watched"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-16.html"
 ---
 
 Bill Tozer rose to his feet. The interview was over, and little remained to be said between the two.

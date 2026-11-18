@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Turning Back"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-09.html"
 ---
 
 It is singular how, in the most critical moments, certain thoughts will obtrude themselves. While Wharton Edwards was peering over the ravine and wondering whither Blazing Arrow had vanished, a sudden suspicion caused him to raise his rifle and examine its lock.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Introductory"
 weight: 2
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-home/chapter-01.html"
+url: "/authors/gilman-charlotte-perkins/the-home/chapter-01.html"
 ---
 
 In offering this study to a public accustomed only to the unquestioning acceptance of the home as something perfect, holy, quite above discussion, a word of explanation is needed.

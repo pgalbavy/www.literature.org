@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Prickly Porky Enjoys Himself"
 weight: 28
-aliases:
-  - "/authors/burgess-thornton-w/old-granny-fox/chapter-28.html"
+url: "/authors/burgess-thornton-w/old-granny-fox/chapter-28.html"
 ---
 
 A boasting tongue, as sure as fate,  

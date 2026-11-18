@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 3"
 weight: 47
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-04-chapter-03.html"
+url: "/authors/cather-willa/one-of-ours/book-04-chapter-03.html"
 ---
 
 All the first morning Tod Fanning showed Claude over the boat,--not that Fanning had ever been on anything bigger than a Lake Michigan steamer, but he knew a good deal about machinery, and did not hesitate to ask the deck stewards to explain anything he didn't know. The stewards, indeed all the crew, struck the boys as an unusually good-natured and obliging set of men.

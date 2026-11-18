@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Robber Fly At Last"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-09.html"
 ---
 
 Though Buster's mother, the Queen, did not hear him when he said "Oh, nonsense!" under his breath, there were others standing near him that caught the words. And they were quite indignant that anybody should scoff at the Queen like that.

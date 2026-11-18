@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-17.html"
+url: "/authors/haggard-h-rider/dawn/chapter-17.html"
 ---
 
 The winter months passed away slowly for Angela, but not by any means unhappily. Though she was quite alone and missed Mr. Fraser sadly, she found considerable consolation in his present of books, and in the thought that she was getting a good hold of her new subjects of study. And then came the wonder of the spring with its rush of budding life, and who, least of all Angela, could be sad in springtime? But nevertheless that spring marked an important change in our heroine, for it was during its sweet hours, when, having put her books aside, she would roam alone, or in company with her ravens, through the flower-starred woods around the lake, that a feeling of restlessness, amounting at times almost to dissatisfaction, took possession of her. Indeed, as the weeks crept on and she drew near the completion of her twentieth year, she realized with a sigh that she could no longer call herself a girl, and began to feel that her life was incomplete, that something was wanting in it. And this was what was wanting in Angela's life: she had, if we except her nurse, no one to love, and she had so much love to give!

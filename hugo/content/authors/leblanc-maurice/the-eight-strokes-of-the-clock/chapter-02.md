@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Water-Bottle"
 weight: 3
-aliases:
-  - "/authors/leblanc-maurice/the-eight-strokes-of-the-clock/chapter-02.html"
+url: "/authors/leblanc-maurice/the-eight-strokes-of-the-clock/chapter-02.html"
 ---
 
 Four days after she had settled down in Paris, Hortense Daniel agreed to meet Prince Rénine in the Bois. It was a glorious morning and they sat down on the terrace of the Restaurant Impérial, a little to one side.

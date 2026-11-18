@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A Bag Of Corn"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-09.html"
 ---
 
 When Frisky Squirrel and Uncle Sammy Coon arrived at Farmer Green's place, the moon was just rising. It wasn't dark, but Uncle Sammy said that they would have no trouble at all, because Farmer Green's family would be in the house, eating their evening meal.

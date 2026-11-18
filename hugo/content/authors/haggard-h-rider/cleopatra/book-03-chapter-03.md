@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 3"
 weight: 27
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-03-chapter-03.html"
+url: "/authors/haggard-h-rider/cleopatra/book-03-chapter-03.html"
 ---
 
 OF THE LIFE OF HIM WHO WAS NAMED THE LEARNED OLYMPUS, IN THE TOMB OF THE HARPERS THAT IS BY TÁPÉ; OF HIS COUNSEL TO CLEOPATRA; OF THE MESSAGE OF CHARMION; AND OF THE PASSING OF OLYMPUS DOWN TO ALEXANDRIA

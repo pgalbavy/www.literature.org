@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Ancient Druid"
 weight: 15
-aliases:
-  - "/authors/leblanc-maurice/the-secret-of-sarek/chapter-14.html"
+url: "/authors/leblanc-maurice/the-secret-of-sarek/chapter-14.html"
 ---
 
 The three accomplices, who were perfectly acquainted with all the niceties of the French language and familiar with every slang phrase, did not for a moment mistake the true sense of that unexpected exclamation. They were astounded.

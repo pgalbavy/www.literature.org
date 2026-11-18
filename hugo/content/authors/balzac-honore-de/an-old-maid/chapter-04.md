@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Mademoiselle Cormon"
 weight: 4
-aliases:
-  - "/authors/balzac-honore-de/an-old-maid/chapter-04.html"
+url: "/authors/balzac-honore-de/an-old-maid/chapter-04.html"
 ---
 
 In nearly all the second-class prefectures of France there exists one salon which is the meeting-ground of those considerable and well- considered persons of the community who are, nevertheless, NOT the cream of the best society. The master and mistress of such an establishment are counted among the leading persons of the town; they are received wherever it may please them to visit; no fete is given, no formal or diplomatic dinner takes place, to which they are not invited. But the chateau people, heads of families possessing great estates, in short, the highest personages in the department, do not go to their houses; social intercourse between them is carried on by cards from one to the other, and a dinner or soiree accepted and returned.

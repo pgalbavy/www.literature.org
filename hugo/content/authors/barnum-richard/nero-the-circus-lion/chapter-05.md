@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Nero In A Trap"
 weight: 5
-aliases:
-  - "/authors/barnum-richard/nero-the-circus-lion/chapter-05.html"
+url: "/authors/barnum-richard/nero-the-circus-lion/chapter-05.html"
 ---
 
 Tramp, tramp, tramp came the hunters through the jungle, flashing their lights and looking for the lion which one of them had shot while the hunter was hidden on the platform in a tree. But Nero, cowering away back in the dark cave, kept very still and quiet, and he heard the hunters walk right past his hiding place.

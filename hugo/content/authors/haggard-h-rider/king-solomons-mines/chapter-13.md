@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Attack"
 weight: 14
-aliases:
-  - "/authors/haggard-h-rider/king-solomons-mines/chapter-13.html"
+url: "/authors/haggard-h-rider/king-solomons-mines/chapter-13.html"
 ---
 
 Slowly, and without the slightest appearance of haste or excitement, the three columns crept on. When within about five hundred yards of us, the main or centre column halted at the root of a tongue of open plain which ran up into the hill, to give time to the other divisions to circumvent our position, which was shaped more or less in the form of a horse-shoe, with its two points facing towards the town of Loo. The object of this manoeuvre was that the threefold assault should be delivered simultaneously.

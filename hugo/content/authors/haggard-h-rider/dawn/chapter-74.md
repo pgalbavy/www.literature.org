@@ -1,8 +1,7 @@
 ---
 title: "Chapter 74"
 weight: 75
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-74.html"
+url: "/authors/haggard-h-rider/dawn/chapter-74.html"
 ---
 
 About three o'clock that afternoon Arthur returned to the Quinta, having lunched on board the Roman. He found Mildred sitting in her favourite place on the museum verandah. She was very pale, and, if he had watched her, he would have seen that she was trembling all over, but he did not observe her particularly.

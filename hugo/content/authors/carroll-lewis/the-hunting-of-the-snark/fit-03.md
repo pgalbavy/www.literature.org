@@ -1,8 +1,7 @@
 ---
 title: "Fit 3 - The Baker’s Tale"
 weight: 4
-aliases:
-  - "/authors/carroll-lewis/the-hunting-of-the-snark/fit-03.html"
+url: "/authors/carroll-lewis/the-hunting-of-the-snark/fit-03.html"
 ---
 
 They roused him with muffins—they roused him with ice—  

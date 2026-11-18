@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42 - Tom’s Return"
 weight: 42
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-42.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-42.html"
 ---
 
 *MR. ARMSTRONG* sat in his counting-room deep in thought. An arrangement had been made with his creditors by which he was allowed to go on. It was his ambition to repay them their confidence by paying all claims upon him dollar for dollar. But he found it up-hill work. His resources were contracted, and success was, to say the least, problematical. This was the reason of his present abstraction. He was anxiously considering what measures to adopt in order to facilitate the attainment of the end he had in view.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Alphonse Explains"
 weight: 9
-aliases:
-  - "/authors/haggard-h-rider/allan-quatermain/chapter-08.html"
+url: "/authors/haggard-h-rider/allan-quatermain/chapter-08.html"
 ---
 
 And so the fight was ended. On returning from the shocking scene it suddenly struck me that I had seen nothing of Alphonse since the moment, some twenty minutes before--for though this fight has taken a long while to describe, it did not take long in reality--when I had been forced to hit him in the wind with the result of nearly getting myself shot. Fearing that the poor little man had perished in the battle, I began to hunt among the dead for his body, but, not being able either to see or hear anything of it, I concluded that he must have survived, and walked down the side of the kraal where we had first taken our stand, calling him by name. Now some fifteen paces back from the kraal wall stood a very ancient tree of the banyan species. So ancient was it that all the inside had in the course of ages decayed away, leaving nothing but a shell of bark.

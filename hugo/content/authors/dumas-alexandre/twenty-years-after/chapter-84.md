@@ -1,8 +1,7 @@
 ---
 title: "Chapter 84 - Strength And Sagacity -- Continued"
 weight: 84
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-84.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-84.html"
 ---
 
 Supper was eaten in silence, but not in sadness; for from time to time one of those sweet smiles which were habitual to him in moments of good-humor illumined the face of D'Artagnan. Not a scintilla of these was lost on Porthos; and at every one he uttered an exclamation which betrayed to his friend that he had not lost sight of the idea which possessed his brain.

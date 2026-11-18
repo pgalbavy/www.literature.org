@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Change Of Government"
 weight: 1
-aliases:
-  - "/authors/ridge-w-pett/table-dhote/chapter-01.html"
+url: "/authors/ridge-w-pett/table-dhote/chapter-01.html"
 ---
 
 “BOOTS!” he roared, for the second time. His wife, opening the kitchen door, looked in, and surveyed him.

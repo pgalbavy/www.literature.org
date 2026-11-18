@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Dinah's Exploit"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-07.html"
 ---
 
 The revelation that broke upon the senses of the colored servant did not reach her through her power of vision. She still saw nothing but the all-encircling night, nor did she hear anything except the sighing of the wind through the mesquite bush, or the guarded movements of the red men below.

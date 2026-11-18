@@ -1,8 +1,7 @@
 ---
 title: "Chapter 93 - The Castaway"
 weight: 93
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-093.html"
+url: "/authors/melville-herman/moby-dick/chapter-093.html"
 ---
 
 It was but some few days after encountering the Frenchman, that a most significant event befell the most insignificant of the Pequod's crew; an event most lamentable; and which ended in providing the sometimes madly merry and predestinated craft with a living and ever accompanying prophecy of whatever shattered sequel might prove her own.

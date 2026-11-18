@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - Tanta Coetzee To The Rescue"
 weight: 34
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-34.html"
+url: "/authors/haggard-h-rider/jess/chapter-34.html"
 ---
 
 After Jess had been set free by the Boers outside Hans Coetzee’s place, John was sharply ordered to dismount and off-saddle his horse. This he did with the best grace that he could muster, and the horse was knee-haltered and let loose to feed. It was then indicated to him that he was to enter the house, and this he also did, closely attended by two of the Boers. The room into which he was conducted was the same that he had first become acquainted with, on the occasion of the buck hunt that had so nearly ended in his murder. There was the Buckenhout table, and there were the stools and couches made of stinkwood. Also, in the biggest chair at the other end of the room, a moderate-sized slop-basin full of coffee by her side, sat Tanta Coetzee, still actively employed in doing absolutely nothing. There, too, were the showily dressed maidens, there was the sardonic lover of one of them, and all the posse of young men with rifles. The sit-kammer and its characteristics were quite unchanged, and on entering it John felt inclined to rub his eyes and wonder whether the events of the last few months had been nothing but a dream.

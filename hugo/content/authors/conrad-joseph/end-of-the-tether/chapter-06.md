@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/conrad-joseph/end-of-the-tether/chapter-06.html"
+url: "/authors/conrad-joseph/end-of-the-tether/chapter-06.html"
 ---
 
 The sun had set. And when, after drilling a deep hole with his stick, he moved from that spot the night had massed its army of shadows under the trees. They filled the eastern ends of the avenues as if only waiting the signal for a general advance upon the open spaces of the world; they were gathering low between the deep stone-faced banks of the canal. The Malay prau, half-concealed under the arch of the bridge, had not altered its position a quarter of an inch. For a long time Captain Whalley stared down over the parapet, till at last the floating immobility of that beshrouded thing seemed to grow upon him into something inexplicable and alarming. The twilight abandoned the zenith; its reflected gleams left the world below, and the water of the canal seemed to turn into pitch. Captain Whalley crossed it.

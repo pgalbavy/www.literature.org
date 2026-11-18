@@ -1,8 +1,7 @@
 ---
 title: "Chapter 67"
 weight: 68
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-67.html"
+url: "/authors/haggard-h-rider/dawn/chapter-67.html"
 ---
 
 Public feeling in Marlshire was much excited about the Caresfoot tragedy, and, when it became known that Lady Bellamy had attempted to commit suicide, the excitement was trebled. It is not often that the dullest and most highly respectable part of an eminently dull and respectable county gets such a chance of cheerful and interesting conversation as these two events gave rise to. We may be sure that the godsend was duly appreciated; indeed, the whole story is up to this hour a favourite subject of conversation in those parts.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Deputy Procureur Du Roi"
 weight: 6
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-06.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-06.html"
 ---
 
 In one of the aristocratic mansions built by Puget in the Rue du Grand Cours opposite the Medusa fountain, a second marriage feast was being celebrated, almost at the same hour with the nuptial repast given by Dantes. In this case, however, although the occasion of the entertainment was similar, the company was strikingly dissimilar. Instead of a rude mixture of sailors, soldiers, and those belonging to the humblest grade of life, the present assembly was composed of the very flower of Marseilles society, - magistrates who had resigned their office during the usurper's reign; officers who had deserted from the imperial army and joined forces with Conde; and younger members of families, brought up to hate and execrate the man whom five years of exile would convert into a martyr, and fifteen of restoration elevate to the rank of a god.

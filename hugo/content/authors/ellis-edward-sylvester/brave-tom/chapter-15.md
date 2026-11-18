@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/brave-tom/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/brave-tom/chapter-15.html"
 ---
 
 Jim Travers, as he lay in his hammock, overheard every word which the two men had said, and considerable more to the same effect.

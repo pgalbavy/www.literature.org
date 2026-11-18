@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-13.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-13.html"
 ---
 
 At a little after noon on the following day Captain Granet descended from a taxicab in the courtyard of the Milan Hotel, and, passing through the swing doors, made his way to the inquiry office. A suave, black-coated young clerk hastened to the desk.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Regicide"
 weight: 10
-aliases:
-  - "/authors/buchan-john/the-path-of-the-king/chapter-09.html"
+url: "/authors/buchan-john/the-path-of-the-king/chapter-09.html"
 ---
 
 There was a sharp grue of ice in the air, as Mr. Nicholas Lovel climbed the rickety wooden stairs to his lodgings in Chancery Lane hard by Lincoln's Inn. That morning he had ridden in from his manor in the Chilterns, and still wore his heavy horseman's cloak and the long boots splashed with the mud of the Colne fords. He had been busy all day with legal matters—conveyances on which his opinion was sought, for, though it was the Christmas vacation, his fame among the City merchants kept him busy in term and out of it. Rarely, he thought, had he known London in so strange a temper. Men scarcely dared to speak above their breath of public things, and eyed him fearfully—even the attorneys who licked his boots—as if a careless word spoken in his presence might be their ruin. For it was known that this careful lawyer stood very near Cromwell, had indeed been his comrade at bed and board from Marston to Dunbar, and, though no Commons man, had more weight than any ten in Parliament. Mr. Lovel could not but be conscious of the tension among his acquaintances, and had he missed to note it there he would have found it in the streets. Pride's troopers were everywhere, riding in grim posses or off duty and sombrely puffing tobacco, vast, silent men, lean from the wars. The citizens on the causeway hurried on their errand, eager to find sanctuary from the biting air and the menace of unknown perils. Never had London seen such a Christmastide. Every man was moody and careworn, and the bell of Paul's as it tolled the hours seemed a sullen prophet of woe.

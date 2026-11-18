@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/ridge-w-pett/love-at-paddington/chapter-07.html"
+url: "/authors/ridge-w-pett/love-at-paddington/chapter-07.html"
 ---
 
 There came a pleasant luxury in waking in a large room, with a maid pulling up the blinds, and reporting that the day promised to be grand. The maid could be looked upon as a friend, in that she knew the best and the worst concerning Miss Higham's clothes, and inquiries were put to her concerning breakfast; the answer came that this meal was ready at half-past eight; you went down at any time you pleased between this and ten o'clock. Mr. Henry breakfasted early; her ladyship and Mr. Langham were always the last. A start had to be made for church at twenty past ten. The maid asked whether Miss Higham would like the bathroom now, and Miss Higham, not quite certain whether it was good form to say "Yes" or "No," replied in the affirmative. As they went along the corridor, Gertie heard Henry Douglass singing in the hall below. The most astonishing detail in this wonderful house proved to be the size of the sponge.

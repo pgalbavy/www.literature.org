@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-08.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-08.html"
 ---
 
 Richard Hame1, although he certainly had not the appearance of a person afflicted with nerves, gave a slight start. For the last half-hour, during which time the train had made no stop, he had been alone in his compartment. Yet, to his surprise, he was suddenly aware that the seat opposite to him had been noiselessly taken by a girl whose eyes, also, were fixed with curious intentness upon the broad expanse of marshland and sands across which the train was slowly making its way. Hamel had spent a great many years abroad, and his first impulse was to speak with the unexpected stranger. He forgot for a moment that he was in England, travelling in a first-class carriage, and pointed with his left hand towards the sea.

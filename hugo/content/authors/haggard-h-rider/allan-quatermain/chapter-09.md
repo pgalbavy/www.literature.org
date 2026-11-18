@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Into The Unknown"
 weight: 10
-aliases:
-  - "/authors/haggard-h-rider/allan-quatermain/chapter-09.html"
+url: "/authors/haggard-h-rider/allan-quatermain/chapter-09.html"
 ---
 
 A week had passed, and we all sat at supper one night in the Mission dining-room, feeling very much depressed in spirits, for the reason that we were going to say goodbye to our kind friends, the Mackenzies, and depart upon our way at dawn on the morrow. Nothing more had been seen or heard of the Masai, and save for a spear or two which had been overlooked and was rusting in the grass, and a few empty cartridges where we had stood outside the wall, it would have been difficult to tell that the old cattle kraal at the foot of the slope had been the scene of so desperate a struggle. Mackenzie was, thanks chiefly to his being so temperate a man, rapidly recovering from his wound, and could get about on a pair of crutches; and as for the other wounded men, one had died of gangrene, and the rest were in a fair way to recovery. Mr Mackenzie’s caravan of men had also returned from the coast, so that the station was now amply garrisoned.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Maria Takes Action"
 weight: 12
-aliases:
-  - "/authors/williams-frank/the-wilderness-trail/chapter-12.html"
+url: "/authors/williams-frank/the-wilderness-trail/chapter-12.html"
 ---
 
 "Good-evening," said Donald, courteously, in the Ojibway tongue. With all his impatience, he knew better than to be precipitate. Tom and Maria responded in kind to his salutation, and the usual amenities of those who find themselves at a camping-place together were exchanged. Of course, the newcomers would not think of occupying the cabin, since the others had reached it first, even though Donald's rank in the Hudson Bay Company entitled him to the best to be had.

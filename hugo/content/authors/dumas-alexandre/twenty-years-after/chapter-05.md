@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Gascon And The Italian"
 weight: 5
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-05.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-05.html"
 ---
 
 Meanwhile the cardinal returned to his own room; and after asking Bernouin, who stood at the door, whether anything had occurred during his absence, and being answered in the negative, he desired that he might be left alone.

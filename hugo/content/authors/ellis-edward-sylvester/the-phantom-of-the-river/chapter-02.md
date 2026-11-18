@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Cawing Of A Crow"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-02.html"
 ---
 
 Three separate times previous to this that faint cawing signal had been heard, as it seemed, from the distant tree-tops. The most sensitive ear could not say of a certainty it was not made by one of those black-coated birds calling to its mate or the flock from which it had strayed. Neither Boone nor Kenton distinguished any difference between the tone and what they had heard times without number, and yet neither held a doubt that it was emitted by a dusky spy stealing through the woods, and that it bore a momentous message to others of his kith and kin.

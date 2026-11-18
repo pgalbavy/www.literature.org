@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 17"
 weight: 141
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-17.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-17.html"
 ---
 
 The hotel of the provincial town where Nikolay Levin was lying ill was one of those provincial hotels which are constructed on the newest model of modern improvements, with the best intentions of cleanliness, comfort, and even elegance, but owing to the public that patronizes them, are with astounding rapidity transformed into filthy taverns with a pretension of modern improvement that only makes them worse than the old-fashioned, honestly filthy hotels. This hotel had already reached that stage, and the soldier in a filthy uniform smoking in the entry, supposed to stand for a hall-porter, and the cast-iron, slippery, dark, and disagreeable staircase, and the free and easy waiter in a filthy frock coat, and the common dining-room with a dusty bouquet of wax flowers adorning the table, and filth, dust, and disorder everywhere, and at the same time the sort of modern up-to-date self-complacent railway uneasiness of this hotel, aroused a most painful feeling in Levin after their fresh young life, especially because the impression of falsity made by the hotel was so out of keeping with what awaited them.

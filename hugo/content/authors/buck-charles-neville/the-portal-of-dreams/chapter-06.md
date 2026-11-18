@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The End Of The \"Wastrel\""
 weight: 6
-aliases:
-  - "/authors/buck-charles-neville/the-portal-of-dreams/chapter-06.html"
+url: "/authors/buck-charles-neville/the-portal-of-dreams/chapter-06.html"
 ---
 
 When sleep came to me it was fitful with a thousand nightmare impossibilities, I saw, in my dreams, the face of the stale sea and sky translated into a broad human visage paralyzed and smiling unendingly in that hideous grin which stamps the tortured teeth of the lockjaw victim. Then the monster of the dream broke out of its fixity and with a shriek of hurricanes aimed a terrific blow at the prow of the Wastrel. The ship shivered, trembled and collapsed. With a stifled gasp I woke. Our sickly lantern was guttering in a sooty stream of smoke. Young Mansfield stood in the center of the cabin buckling his pistol belt. From somewhere came a sound of rushing water and a medley of shouts and oaths and pistol shots. A dingy rat scuttled wildly out from between my feet and whisked away through the crack under our bolted door. While I stood there stupidly inactive, hardly as yet untangling fact and dream, Mansfield handed me my belt and revolver.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Over The Fence"
 weight: 31
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-31.html"
+url: "/authors/tarkington-booth/penrod/chapter-31.html"
 ---
 
 Penrod was out in the yard, staring at the empty marquee. The sun was on the horizon line, so far behind the back fence, and a western window of the house blazed in gold unbearable to the eye: his day was nearly over. He sighed, and took from the inside pocket of his new jacket the "sling-shot" aunt Sarah Crim had given him that morning.

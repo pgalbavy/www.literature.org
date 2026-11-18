@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - At Home In The Haystack"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-21.html"
 ---
 
 After what happened when he came to his door without remembering to take off his red nightcap, Solomon Owl hoped that Reddy Woodpecker would stop teasing him.

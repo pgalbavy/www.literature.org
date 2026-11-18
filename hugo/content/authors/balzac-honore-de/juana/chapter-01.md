@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Exposition"
 weight: 1
-aliases:
-  - "/authors/balzac-honore-de/juana/chapter-01.html"
+url: "/authors/balzac-honore-de/juana/chapter-01.html"
 ---
 
 Notwithstanding the discipline which Marechal Suchet had introduced into his army corps, he was unable to prevent a short period of trouble and disorder at the taking of Tarragona. According to certain fair-minded military men, this intoxication of victory bore a striking resemblance to pillage, though the marechal promptly suppressed it. Order being re-established, each regiment quartered in its respective lines, and the commandant of the city appointed, military administration began. The place assumed a mongrel aspect. Though all things were organized on a French system, the Spaniards were left free to follow "in petto" their national tastes.

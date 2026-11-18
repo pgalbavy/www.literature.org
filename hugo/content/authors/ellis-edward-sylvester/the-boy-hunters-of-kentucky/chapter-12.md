@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Strange Camp Fire"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-12.html"
 ---
 
 The young hunters now asked themselves whether it was worth while to try to find out who had fired the gun whose report broke in upon them with such startling suddenness.

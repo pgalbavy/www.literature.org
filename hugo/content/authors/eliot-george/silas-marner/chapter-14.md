@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/eliot-george/silas-marner/chapter-14.html"
+url: "/authors/eliot-george/silas-marner/chapter-14.html"
 ---
 
 There was a pauper's burial that week in Raveloe, and up Kench Yard at Batherley it was known that the dark-haired woman with the fair child, who had lately come to lodge there, was gone away again. That was all the express note taken that Molly had disappeared from the eyes of men. But the unwept death which, to the general lot, seemed as trivial as the summer-shed leaf, was charged with the force of destiny to certain human lives that we know of, shaping their joys and sorrows even to the end.

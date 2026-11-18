@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/ridge-w-pett/love-at-paddington/chapter-01.html"
+url: "/authors/ridge-w-pett/love-at-paddington/chapter-01.html"
 ---
 
 Children had been sent off to Sunday school, and the more conscientious reached that destination; going in, after delivering awful threats and warnings to those who preferred freedom of thought and a stroll down Edgware Road in the direction of the Park. As a consequence, in the streets off the main thoroughfare leading to Paddington Station peace and silence existed, broken only by folk who, after the principal meal of the week, talked in their sleep. Praed Street was different. Praed Street plumed itself on the fact that it was always lively, ever on the move, occasionally acquainted with royalty. Even on a Sunday afternoon, and certainly at all hours of a week-day, one could look from windows at good racing, generally done by folk impeded by hand luggage who, as they ran, glanced suspiciously at every clock, and gasped, in a despairing way, "We shall never do it!" or, optimistically, "We shall only just do it!" or, with resignation, "Well, if we lose this one we shall have to wait for the next."

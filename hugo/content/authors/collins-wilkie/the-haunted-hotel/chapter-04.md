@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/collins-wilkie/the-haunted-hotel/chapter-04.html"
+url: "/authors/collins-wilkie/the-haunted-hotel/chapter-04.html"
 ---
 
 On the day of the marriage Agnes Lockwood sat alone in the little drawing-room of her London lodgings, burning the letters which had been written to her by Montbarry in the bygone time.

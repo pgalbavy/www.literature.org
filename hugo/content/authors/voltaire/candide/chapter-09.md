@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - What Happened to Cunegund, Candide, the Grand Inquisitor, and the Jew"
 weight: 9
-aliases:
-  - "/authors/voltaire/candide/chapter-09.html"
+url: "/authors/voltaire/candide/chapter-09.html"
 ---
 
 This same Issachar was the most choleric little Hebrew that had ever been in Israel since the captivity of Babylon.

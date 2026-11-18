@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - In A Tree"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-07.html"
 ---
 
 All this passed in much less time than has been necessary to describe it. Not until Fred Munson saw that the Apaches were repulsed did he reflect upon the startling fact that there was no one among all the settlers that was placed in as perilous a position as he.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Joke On Uncle Jerry"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-13.html"
 ---
 
 Well, the third day Uncle Jerry Chuck once more climbed to the top of the big rock to take his nap in the sun. And this time Billy Woodchuck was there ahead of him.

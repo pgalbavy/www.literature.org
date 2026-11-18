@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - Of The Signification In Scripture Of Kingdome Of God, Of Holy, Sacred, And Sacrament"
 weight: 37
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-35.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-35.html"
 ---
 
 The Kingdom Of God Taken By Divines Metaphorically But In The Scriptures Properly The Kingdome of God in the Writings of Divines, and specially in Sermons, and Treatises of Devotion, is taken most commonly for Eternall Felicity, after this life, in the Highest Heaven, which they also call the Kingdome of Glory; and sometimes for (the earnest of that felicity) Sanctification, which they terme the Kingdome of Grace, but never for the Monarchy, that is to say, the Soveraign Power of God over any Subjects acquired by their own consent, which is the proper signification of Kingdome.

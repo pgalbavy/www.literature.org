@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Chatterer Leaves The Green Forest"
 weight: 4
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-04.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-04.html"
 ---
 
 Chatterer was in a peck of trouble. Yes, Sir, he was in a peck of trouble. There was no doubt about it. "Oh, dear! Oh, dear! If only I had kept my tongue still! If only I had kept my tongue still!" he kept saying over and over to himself, as he hurried through the Green Forest. You see, Chatterer was just beginning to realize what a lot of trouble an unruly tongue can get one into. Here it was cold weather, the very edge of winter, and Chatterer didn't dare stay in the Green Forest where he had always made his home. His storehouses were full of nuts and seeds and corn, enough and more than enough to keep him in comfort all winter, and now he must turn his back on them and go he didn't know where, and all because of his mean disposition and bad tongue.

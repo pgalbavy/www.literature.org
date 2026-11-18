@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Fred's Best Friend"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/a-young-hero/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/a-young-hero/chapter-14.html"
 ---
 
 Fred Sheldon sprang up from his hiding-place in the grass, almost before the drover vaulted over the fence, and ran across the meadow in the manner he did when he believed the wandering lion was at his heels.

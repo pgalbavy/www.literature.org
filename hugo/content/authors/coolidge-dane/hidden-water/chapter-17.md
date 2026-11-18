@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Chico And Grande"
 weight: 17
-aliases:
-  - "/authors/coolidge-dane/hidden-water/chapter-17.html"
+url: "/authors/coolidge-dane/hidden-water/chapter-17.html"
 ---
 
 Between the mouth of Hell's Hip Pocket and the cow camp at Carrizo Creek there lie three high ridges and three broad valleys, all running north and south from the Peaks to Bronco Mesa--the heart of the upper range; and there in compact bands the invaders held their sheep. From the lower levels they strayed out gradually over the rocky mesa; above they clambered up toward the wooded peaks; but at night the sheepmen worked back to the three ridges and camped close together for defence. After many years of struggle they had at last obtained their legal rights--their sheep were up to the ears in grama, eating out the heart of the cow country--but Jeff Creede was just over the hill, and the Mexicans were afraid. For years now the huge form of "Grande" had loomed before them whenever they entered that forbidden range, and they had always given way before him. And now he had the little man Chico with him, the son of a soldier, so it was said, and a gentleman of categoría; he always carried a pistol and his eyes were stern and hard. What would not Chico and Grande do to them, now that they were like bees robbed of their long-hoarded honey, who have nothing left but their stings?

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Off To The War"
 weight: 7
-aliases:
-  - "/authors/greene-homer/a-lincoln-conscript/chapter-07.html"
+url: "/authors/greene-homer/a-lincoln-conscript/chapter-07.html"
 ---
 
 By the time Bob reached the village the sky was gray along the eastern horizon, and a faint tinge of pink, seen through a gap in the hill-range, announced the coming of the sun. In front of the gate of Sarah Jane Stark he stopped, and looked longingly up at her house. Light shone from two of her lower windows, and a wisp of blue smoke curled lazily from the southern chimney. He thought he would like to go in and tell Miss Stark what he was about to do. He wondered what she would say if she knew. He felt, in his heart, that she would approve his course and bid him God-speed. However, there was not time to visit her. He wanted to get through the village before daybreak, so that he should not be seen of many people. So he gripped his satchel and hurried on. At the next corner he turned out of the main street, and skirted the closely built portion of the town by an outlying way. He met no one whom he knew until he came in again to the main traveled highway beyond the town. This road led directly to the railroad station at Carbon Creek. It had been his purpose to wait here for the stage that left Mount Hermon every morning for Carbon Creek, carrying passengers and mail. But he was in no mood to stand still, and, besides, the chilly October air made exercise a necessity. So he walked quickly along, feeling that the farther from Mount Hermon he could get the safer he would be. It was broad daylight now, and the stage was likely to overtake him at any moment. He began to wonder whom he would have for fellow passengers. But, even as he wondered, a horse and buggy, coming up rapidly from behind, was about to pass him, when the man who was driving turned in his seat and looked back at Bob. When he saw who it was, he reined up his horse and called out:

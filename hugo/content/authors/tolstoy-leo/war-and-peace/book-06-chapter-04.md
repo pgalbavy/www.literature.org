@@ -1,8 +1,7 @@
 ---
 title: "Book 6 - Chapter 4"
 weight: 110
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-06-chapter-04.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-06-chapter-04.html"
 ---
 
 Prince Andrew arrived in Petersburg in August, 1809. It was the time when the youthful Speranski was at the zenith of his fame and his reforms were being pushed forward with the greatest energy. That same August the Emperor was thrown from his caleche, injured his leg, and remained three weeks at Peterhof, receiving Speranski every day and no one else. At that time the two famous decrees were being prepared that so agitated society- abolishing court ranks and introducing examinations to qualify for the grades of Collegiate Assessor and State Councilor- and not merely these but a whole state constitution, intended to change the existing order of government in Russia: legal, administrative, and financial, from the Council of State down to the district tribunals. Now those vague liberal dreams with which the Emperor Alexander had ascended the throne, and which he had tried to put into effect with the aid of his associates, Czartoryski, Novosiltsev, Kochubey, and Strogonov- whom he himself in jest had called his Comite de salut public- were taking shape and being realized.

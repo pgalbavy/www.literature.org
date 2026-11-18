@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - They Meet Again"
 weight: 16
-aliases:
-  - "/authors/collins-wilkie/the-new-magdalen/chapter-16.html"
+url: "/authors/collins-wilkie/the-new-magdalen/chapter-16.html"
 ---
 
 ABSORBED in herself, Mercy failed to notice the opening door or to hear the murmur of voices in the conservatory.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - M. Lenormand Succumbs"
 weight: 7
-aliases:
-  - "/authors/leblanc-maurice/813/chapter-06.html"
+url: "/authors/leblanc-maurice/813/chapter-06.html"
 ---
 
 M. Lenormand was back in his room at the Prefecture of Police at six o'clock in the evening. He at once sent for Dieuzy:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-10.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-10.html"
 ---
 
 As the Cross-roads had regarded Tom as a piece of personal property to be proud of, so it fell into the habit of regarding his protégée. The romance of her history was considered to confer distinction upon the vicinity, and Tom's affection for her was approved of as a sentiment worthy of the largeness of the Cross-roads nature.

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 4 - The Voyage"
 weight: 11
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-02-chapter-04.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-02-chapter-04.html"
 ---
 
 ALL that night we were in a great bustle getting things stowed in their place, and boatfuls of the squire's friends, Mr. Blandly and the like, coming off to wish him a good voyage and a safe return. We never had a night at the Admiral Benbow when I had half the work; and I was dog-tired when, a little before dawn, the boatswain sounded his pipe and the crew began to man the capstan-bars. I might have been twice as weary, yet I would not have left the deck, all was so new and interesting to me--the brief commands, the shrill note of the whistle, the men bustling to their places in the glimmer of the ship's lanterns.

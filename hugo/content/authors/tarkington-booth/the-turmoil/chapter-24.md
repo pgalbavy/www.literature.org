@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-24.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-24.html"
 ---
 
 Sheridan waited until he heard the sound of the outer door closing; then he rose and pushed a tiny disk set in the wall. Jackson appeared.

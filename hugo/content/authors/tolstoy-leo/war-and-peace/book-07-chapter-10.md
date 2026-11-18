@@ -1,8 +1,7 @@
 ---
 title: "Book 7 - Chapter 10"
 weight: 142
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-07-chapter-10.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-07-chapter-10.html"
 ---
 
 Does it ever happen to you," said Natasha to her brother, when they settled down in the sitting room, "does it ever happen to you to feel as if there were nothing more to come- nothing; that everything good is past? And to feel not exactly dull, but sad?"

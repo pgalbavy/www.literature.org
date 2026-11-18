@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-03.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-03.html"
 ---
 
 Moved by these vague yet all-powerful urgings the ape-man lay awake one night in the little thorn boma that protected, in a way, his party from the depredations of the great carnivora of the jungle. A single warrior stood sleepy guard beside the fire that yellow eyes out of the darkness beyond the camp made imperative. The moans and the coughing of the big cats mingled with the myriad noises of the lesser denizens of the jungle to fan the savage flame in the breast of this savage English lord. He tossed upon his bed of grasses, sleepless, for an hour and then he rose, noiseless as a wraith, and while the Waziri's back was turned, vaulted the boma wall in the face of the flaming eyes, swung silently into a great tree and was gone.

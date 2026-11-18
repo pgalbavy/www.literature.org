@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Someone's Mistake"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-22.html"
 ---
 
 Though he alighted right on top of the pumpkin, which stood on the wide shelf in Farmer Green's carriage-house, Buster Bumblebee thought that the strange buzzing sound had grown fainter. He was sure that he had heard it more plainly when he was nearer the merry fiddler.

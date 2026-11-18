@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Down the Ugambi"
 weight: 15
-aliases:
-  - "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-15.html"
+url: "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-15.html"
 ---
 
 Halfway between the Ugambi and the village of the Waganwazam, Tarzan came upon the pack moving slowly along his old spoor. Mugambi could scarce believe that the trail of the Russian and the mate of his savage master had passed so close to that of the pack.

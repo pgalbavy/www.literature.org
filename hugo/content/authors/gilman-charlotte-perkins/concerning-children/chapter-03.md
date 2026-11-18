@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Two And Two Together"
 weight: 3
-aliases:
-  - "/authors/gilman-charlotte-perkins/concerning-children/chapter-03.html"
+url: "/authors/gilman-charlotte-perkins/concerning-children/chapter-03.html"
 ---
 
 "If not trained to obedience, what shall the child be trained to?" naturally demands the outraged parent. To inculcate that first of virtues has taken so much time and effort that we have overlooked the subsequent qualities which require our help, and feel rather at sea when this sheet anchor is taken from us.

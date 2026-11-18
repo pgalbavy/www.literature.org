@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44 - Colbert"
 weight: 44
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-44.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-44.html"
 ---
 
 Colbert was not far off. During the whole evening he had remained in one of the corridors, chatting with Bernouin and Brienne, and commenting, with the ordinary skill of people of a court, upon the news which developed like air-bubbles upon the water, on the surface of each event. It is doubtless time to trace, in a few words, one of the most interesting portraits of the age, and to trace it with as much truth, perhaps, as contemporary painters have been able to do. Colbert was a man in whom the historian and the moralist have an equal right.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Sauk And Pawnee"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-10.html"
 ---
 
 When Hay-uta, the ally of Deerfoot, parted with him so that the reconnoissance of the Pawnee camp could be made separately, he went down stream—that is, in the direction opposite to that taken by Deerfoot. He moved faster than the Shawanoe, and emerged from the river at the moment the other entered it.

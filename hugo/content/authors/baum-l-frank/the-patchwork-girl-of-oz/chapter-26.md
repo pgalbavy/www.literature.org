@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 27
-aliases:
-  - "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-26.html"
+url: "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-26.html"
 ---
 
 Next morning they pushed the raft into the water and all got aboard. The Quadling man had to hold the log craft fast while they took their places, and the flow of the river was so powerful that it nearly tore the raft from his hands. As soon as they were all seated upon the logs he let go and away it floated and the adventurers had begun their voyage toward the Winkie Country.

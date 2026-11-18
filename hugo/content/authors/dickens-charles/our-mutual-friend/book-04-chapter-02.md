@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 2 - The Golden Dustman Rises A Little"
 weight: 52
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-04-chapter-02.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-04-chapter-02.html"
 ---
 
 Mr and Mrs Lammle had come to breakfast with Mr and Mrs Boffin. They were not absolutely uninvited, but had pressed themselves with so much urgency on the golden couple, that evasion of the honour and pleasure of their company would have been difficult, if desired. They were in a charming state of mind, were Mr and Mrs Lammle, and almost as fond of Mr and Mrs Boffin as of one another.

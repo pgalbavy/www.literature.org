@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 36
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-36.html"
+url: "/authors/austen-jane/mansfield-park/chapter-36.html"
 ---
 
 Edmund now believed himself perfectly acquainted with all that Fanny could tell, or could leave to be conjectured of her sentiments, and he was satisfied. It had been, as he before presumed, too hasty a measure on Crawford's side, and time must be given to make the idea first familiar, and then agreeable to her. She must be used to the consideration of his being in love with her, and then a return of affection might not be very distant.

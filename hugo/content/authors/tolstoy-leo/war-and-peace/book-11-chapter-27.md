@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 27"
 weight: 256
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-27.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-27.html"
 ---
 
 The absorption of the French by Moscow, radiating starwise as it did, only reached the quarter where Pierre was staying by the evening of the second of September.

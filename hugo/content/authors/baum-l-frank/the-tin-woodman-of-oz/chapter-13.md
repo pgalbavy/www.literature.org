@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 14
-aliases:
-  - "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-13.html"
+url: "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-13.html"
 ---
 
 The Tin Owl gave a hoot of delight when he saw the Red Wagon draw up before Jinjur's house, and the Brown Bear grunted and growled with glee and trotted toward Ozma as fast as he could wobble. As for the Canary, it flew swiftly to Dorothy's shoulder and perched there, saying in her ear:

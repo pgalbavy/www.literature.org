@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Effect Of Minding On The Mind"
 weight: 2
-aliases:
-  - "/authors/gilman-charlotte-perkins/concerning-children/chapter-02.html"
+url: "/authors/gilman-charlotte-perkins/concerning-children/chapter-02.html"
 ---
 
 Obedience, we are told, is a virtue. This seems simple and conclusive, but on examination further questions rise.

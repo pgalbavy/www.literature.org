@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Concerning Auxiliaries, Mixed Soldiery, And One’s Own"
 weight: 14
-aliases:
-  - "/authors/machiavelli-nicolo/the-prince/chapter-13.html"
+url: "/authors/machiavelli-nicolo/the-prince/chapter-13.html"
 ---
 
 Auxiliaries, which are the other useless arm, are employed when a prince is called in with his forces to aid and defend, as was done by Pope Julius in the most recent times; for he, having, in the enterprise against Ferrara, had poor proof of his mercenaries, turned to auxiliaries, and stipulated with Ferdinand, King of Spain,[1] for his assistance with men and arms. These arms may be useful and good in themselves, but for him who calls them in they are always disadvantageous; for losing, one is undone, and winning, one is their captive.

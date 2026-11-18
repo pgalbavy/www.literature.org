@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Belle Hélène"
 weight: 15
-aliases:
-  - "/authors/leblanc-maurice/the-golden-triangle/chapter-15.html"
+url: "/authors/leblanc-maurice/the-golden-triangle/chapter-15.html"
 ---
 
 "There's no mistake about it," said Patrice. "The information conveyed to M. Masseron that the gold had been sent away; the speed with which the work was carried out, at night, mechanically, by the people belonging to the boat; their alien nationality; the direction which they took: it all agrees. The probability is that, between the cellar into which the gold was shot and the place where it finished its journey, there was some spot where it used to remain concealed . . . unless the eighteen hundred bags can have awaited their despatch, slung one behind the other, along the wire. But that doesn't matter much. The great thing is to know that the Belle Hélène, hiding somewhere in the outskirts, lay waiting for the favorable opportunity. In the old days Essarès Bey, by way of precaution, used to send her a signal with the aid of that shower of sparks which I saw. This time old Siméon, who is continuing Essarès' work, no doubt on his own account, gave the crew notice; and the bags of gold are on their way to Rouen and Le Hâvre, where some steamer will take them over and carry them . . . eastwards. After all, forty or fifty tons, hidden in the hold under a layer of coal, is nothing. What do you say? That's it, isn't it? I feel positive about it. . . . Then we have Mantes, to which he took his ticket and for which the Belle Hélène is bound. Could anything be clearer? Mantes, where he'll pick up his cargo of gold and go on board in some seafaring disguise, unknown and unseen. . . . Loot and looter disappearing together. It's as clear as daylight. Don't you agree?"

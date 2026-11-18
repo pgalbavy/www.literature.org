@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Kidnaped!"
 weight: 12
-aliases:
-  - "/authors/burroughs-edgar-rice/pellucidar/chapter-12.html"
+url: "/authors/burroughs-edgar-rice/pellucidar/chapter-12.html"
 ---
 
 I searched about the spot carefully. At last I was rewarded by the discovery of her javelin, a few yards from the bush that had concealed us from the charging thag--her javelin and the indications of a struggle revealed by the trampled vegetation and the overlapping footprints of a woman and a man. Filled with consternation and dismay, I followed these latter to where they suddenly disappeared a hundred yards from where the struggle had occurred. There I saw the huge imprints of a lidi's feet.

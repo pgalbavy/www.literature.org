@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Treachery"
 weight: 18
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-18.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-18.html"
 ---
 
 Next morning at breakfast, about four o'clock, Code told his crew the situation. He knew his men thoroughly and had been friends with most of them all his life.

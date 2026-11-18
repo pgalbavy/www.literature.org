@@ -1,8 +1,7 @@
 ---
 title: "chapter 06"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-06.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-06.html"
 ---
 
 They met again in the cafe several hours later. Gerald went through the push doors into the large, lofty room where the faces and heads of the drinkers showed dimly through the haze of smoke, reflected more dimly, and repeated ad infinitum in the great mirrors on the walls, so that one seemed to enter a vague, dim world of shadowy drinkers humming within an atmosphere of blue tobacco smoke. There was, however, the red plush of the seats to give substance within the bubble of pleasure.

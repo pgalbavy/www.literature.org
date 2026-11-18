@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - A Journey On A Gryf"
 weight: 22
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-22.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-22.html"
 ---
 
 Tarzan and Jane skirted the shore of Jad-bal-lul and crossed the river at the head of the lake. They moved in leisurely fashion with an eye to comfort and safety, for the ape-man, now that he had found his mate, was determined to court no chance that might again separate them, or delay or prevent their escape from Pal-ul-don. How they were to recross the morass was a matter of little concern to him as yet--it would be time enough to consider that matter when it became of more immediate moment. Their hours were filled with the happiness and content of reunion after long separation; they had much to talk of, for each had passed through many trials and vicissitudes and strange adventures, and no important hour might go unaccounted for since last they met.

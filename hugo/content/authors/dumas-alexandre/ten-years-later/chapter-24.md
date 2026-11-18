@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Treasure"
 weight: 24
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-24.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-24.html"
 ---
 
 The French gentleman whom Spithead had announced to Monk, and who, closely wrapped in his cloak, had passed by the fishermen who left the general's tent five minutes before he entered it, - the French gentleman went through the various posts without even casting his eyes around him, for fear of appearing indiscreet. As the order had been given, he was conducted to the tent of the general. The gentleman was left alone in the sort of ante-chamber in front of the principal body of the tent, where he awaited Monk, who only delayed till he had heard the report of his people, and observed through the opening of the canvas the countenance of the person who solicited an audience.

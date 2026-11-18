@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - How It All Ended"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-21.html"
 ---
 
 At last the clothing of Jack Dudley was dried, and he felt thoroughly comfortable in body. While he was employed in the pleasant task, Hank Hazletine went away in quest of food. It took time and hard work to find it, but his remarkable skill as a hunter enabled him to do so, and when he returned he brought enough venison to serve for the evening and morning meal. No professor of the culinary art could have prepared the meat more excellently than he over the bed of live coals. The odor was so appetizing that the youth was in misery because of his impatience, but the guide would not let him touch a mouthful until the food was done "to the queen's taste." Then they had their feast.

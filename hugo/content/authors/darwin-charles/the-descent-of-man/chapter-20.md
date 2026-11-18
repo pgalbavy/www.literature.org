@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/darwin-charles/the-descent-of-man/chapter-20.html"
+url: "/authors/darwin-charles/the-descent-of-man/chapter-20.html"
 ---
 
 WE have seen in the last chapter that with all barbarous races ornaments, dress, and external appearance are highly valued; and that the men judge of the beauty of their women by widely different standards. We must next inquire whether this preference and the consequent selection during many generations of those women, which appear to the men of each race the most attractive, has altered the character either of the females alone, or of both sexes. With mammals the general rule appears to be that characters of all kinds are inherited equally by the males and females; we might therefore expect that with mankind any characters gained by the females or by the males through sexual selection would commonly be transferred to the offspring of both sexes. If any change has thus been effected, it is almost certain that the different races would be differently modified, as each has its own standard of beauty.

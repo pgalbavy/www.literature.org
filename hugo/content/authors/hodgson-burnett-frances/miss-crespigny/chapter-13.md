@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Ghost"
 weight: 13
-aliases:
-  - "/authors/hodgson-burnett-frances/miss-crespigny/chapter-13.html"
+url: "/authors/hodgson-burnett-frances/miss-crespigny/chapter-13.html"
 ---
 
 He had thought of her very often of late, and indeed had been quite eager to make his visit to Pen’yllan, for no other reason, he told himself, than because he should see her there, and hear her sweet young voice again. And now he had come, and she had welcomed him, and they were walking over the sands, side by side. And yet--and yet--Was it possible that he felt restless and dissatisfied with his own emotions? Was it possible that the rapture he had tried to imagine, in London, was not so rapturous here, in Pen’yllan? Could it be that, after all, he was still only admiring her affectionately, in a brotherly way, as he had always done--admiring and reverencing her, gently, as the dearest, prettiest, truest girl he had ever known? Long ago, when, at the time of that old folly, he remembered a certain tremulous bliss he had experienced when he had been permitted to spend an hour with the beloved object, he remembered the absolute pangs of joy with which one glance from certain great, cruel, dark eyes had filled him; he remembered how the sound of a girlish voice had possessed the power to set every drop of blood in his veins beating. He was as calm as ever he had been in his life, as he strolled on with Georgie Esmond; he could meet her bright eyes without even the poor mockery of a tremor. He had felt nothing but calm pleasure even when he grasped her soft hand in greeting. Would it always be thus? Was it best that it should be so? Perhaps! And yet, in the depths of his heart lay a strange yearning for just one touch of the old delirium--just one pang of the old, bitter-sweet pain.

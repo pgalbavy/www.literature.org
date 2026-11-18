@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Prophecy Of Atene"
 weight: 22
-aliases:
-  - "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-21.html"
+url: "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-21.html"
 ---
 
 On the day following this strange experience of the iron that was turned to gold some great service was held in the Sanctuary, as we understood, “to consecrate the war.” We did not attend it, but that night we ate together as usual. Ayesha was moody at the meal, that is, she varied from sullenness to laughter.

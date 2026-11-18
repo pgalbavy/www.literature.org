@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/cooper-courtney-ryley/the-white-desert/chapter-07.html"
+url: "/authors/cooper-courtney-ryley/the-white-desert/chapter-07.html"
 ---
 
 "Why?"

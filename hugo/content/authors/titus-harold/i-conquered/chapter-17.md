@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Great Moments"
 weight: 17
-aliases:
-  - "/authors/titus-harold/i-conquered/chapter-17.html"
+url: "/authors/titus-harold/i-conquered/chapter-17.html"
 ---
 
 They were a long way from camp, and night impended.

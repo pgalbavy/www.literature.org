@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-14.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-14.html"
 ---
 
 When he passed the house the next day they were gone. The nursery windows were thrown open, and he fancied that the place wore a deserted look. The very streets seemed empty, and the glare of sunshine, whose heat increased with every hour, added to the air of desolateness he imagined.

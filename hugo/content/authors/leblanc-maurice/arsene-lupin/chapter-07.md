@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Theft Of The Motor-Cars"
 weight: 7
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin/chapter-07.html"
+url: "/authors/leblanc-maurice/arsene-lupin/chapter-07.html"
 ---
 
 The night was very black; the rain pattered in their faces.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 14
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-13.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-13.html"
 ---
 
 Captain Doane worked hard, pursuing the sun in its daily course through the sky, by the equation of time correcting its aberrations due to the earth's swinging around the great circle of its orbit, and charting Sumner lines innumerable, working assumed latitudes for position until his head grew dizzy.

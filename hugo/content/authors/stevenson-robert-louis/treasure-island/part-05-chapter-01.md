@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 1 - How My Sea Adventure Began"
 weight: 23
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-05-chapter-01.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-05-chapter-01.html"
 ---
 
 THERE was no return of the mutineers--not so much as another shot out of the woods. They had “got their rations for that day,” as the captain put it, and we had the place to ourselves and a quiet time to overhaul the wounded and get dinner. Squire and I cooked outside in spite of the danger, and even outside we could hardly tell what we were at, for horror of the loud groans that reached us from the doctor's patients.

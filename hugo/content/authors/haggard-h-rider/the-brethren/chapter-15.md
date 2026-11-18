@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Flight To Emesa"
 weight: 16
-aliases:
-  - "/authors/haggard-h-rider/the-brethren/chapter-15.html"
+url: "/authors/haggard-h-rider/the-brethren/chapter-15.html"
 ---
 
 Then came the weariest time of waiting the brethren had ever known, or were to know, although at first they did not feel it so long and heavy. Water trickled from the walls of this cave, and Wulf, who was parched with thirst, gathered it in his hands and drank till he was satisfied. Then he let it run upon his head to cool its aching; and Godwin bathed such of his brother's hurts and bruises as could be come at, for he did not dare to remove the hauberk, and so gave him comfort.

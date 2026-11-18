@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Bausi The King"
 weight: 9
-aliases:
-  - "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-09.html"
+url: "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-09.html"
 ---
 
 About midday we made a start for Beza Town where King Bausi lived, which we understood we ought to reach on the following evening. For some hours the regiment marched in front, or rather round us, but as we complained to Babemba of the noise and dust, with a confidence that was quite touching, he sent it on ahead. First, however, he asked us to pass our word “by our mothers,” which was the most sacred of oaths among many African peoples, that we would not attempt to escape. I confess that I hesitated before giving an answer, not being entirely enamoured of the Mazitu and of our prospects among them, especially as I had discovered through Jerry that the discomfited Imbozwi had departed from the soldiers on some business of his own. Had the matter been left to me, indeed, I should have tried to slip back into the bush over the border, and there put in a few months shooting during the dry season, while working my way southwards. This, too, was the wish of the Zulu hunters, of Hans, and I need not add of Sammy. But when I mentioned the matter to Stephen, he implored me to abandon the idea.

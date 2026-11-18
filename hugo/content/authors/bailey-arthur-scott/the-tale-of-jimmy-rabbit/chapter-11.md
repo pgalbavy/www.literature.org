@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Slight Dispute"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-11.html"
 ---
 
 You may have heard somewhere of Uncle Jerry Chuck. He was an old woodchuck who lived in Farmer Green's pasture. And he was known far and wide as the stingiest person in Pleasant Valley. He never paid for anything if he could possibly help it.

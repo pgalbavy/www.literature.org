@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Birthday Presents"
 weight: 4
-aliases:
-  - "/authors/carroll-lewis/sylvie-and-bruno/chapter-03.html"
+url: "/authors/carroll-lewis/sylvie-and-bruno/chapter-03.html"
 ---
 
 "It's my brother!" the Sub-warden exclaimed, in a warning whisper. "Speak out, and be quick about it!"

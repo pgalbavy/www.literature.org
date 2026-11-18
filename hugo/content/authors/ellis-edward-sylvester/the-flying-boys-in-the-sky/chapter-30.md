@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - The Rescue"
 weight: 30
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-30.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-30.html"
 ---
 
 Harvey Hamilton was anything but pleased over the actions of Detective Pendar in dashing off as he did without a word of explanation. He expected to accompany him, and would have followed but through fear of offending his friend. The youth could not forget that he possessed nothing in the nature of a weapon and was more likely to prove a hindrance rather than a help to the officer.

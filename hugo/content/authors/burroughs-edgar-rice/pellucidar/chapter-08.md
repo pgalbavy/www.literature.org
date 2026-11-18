@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Captive"
 weight: 8
-aliases:
-  - "/authors/burroughs-edgar-rice/pellucidar/chapter-08.html"
+url: "/authors/burroughs-edgar-rice/pellucidar/chapter-08.html"
 ---
 
 When Goork and his people saw that I had no token they commenced to taunt me.

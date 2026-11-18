@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 7 - Settling To The Collar"
 weight: 7
-aliases:
-  - "/authors/hughes-thomas/tom-browns-schooldays/part-01-chapter-07.html"
+url: "/authors/hughes-thomas/tom-browns-schooldays/part-01-chapter-07.html"
 ---
 
 "Says Giles, ''Tis mortal hard to go,  

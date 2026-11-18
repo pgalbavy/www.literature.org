@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - The Mystery Of Mademoiselle Stangerson"
 weight: 29
-aliases:
-  - "/authors/leroux-gaston/the-yellow-room/chapter-29.html"
+url: "/authors/leroux-gaston/the-yellow-room/chapter-29.html"
 ---
 
 During the days that followed I had several opportunities to question him as to his reason for his voyage to America, but I obtained no more precise answers than he had given me on the evening of the adjournment of the trial, when we were on the train for Paris. One day, however, on my still pressing him, he said:

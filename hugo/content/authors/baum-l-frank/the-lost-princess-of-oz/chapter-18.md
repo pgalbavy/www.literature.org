@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 19
-aliases:
-  - "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-18.html"
+url: "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-18.html"
 ---
 
 "Now then," said the Wizard, "let us talk this matter over and decide what to do when we get to Ugu's wicker castle. There can be no doubt that the Shoemaker is a powerful Magician, and his powers have been increased a hundredfold since he secured the Great Book of Records, the Magic Picture, all of Glinda's recipes for sorcery, and my own black bag, which was full of tools of wizardry. The man who could rob us of those things and the man with all their powers at his command is one who may prove somewhat difficult to conquer, therefore we should plan our actions well before we venture too near to his castle."

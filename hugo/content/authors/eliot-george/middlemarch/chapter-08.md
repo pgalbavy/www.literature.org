@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-08.html"
+url: "/authors/eliot-george/middlemarch/chapter-08.html"
 ---
 
 "Oh, rescue her! I am her brother now, And you her father. Every gentle maid Should have a guardian in each gentleman."

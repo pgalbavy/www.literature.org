@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 6"
 weight: 21
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-02-chapter-06.html"
+url: "/authors/london-jack/valley-of-the-moon/book-02-chapter-06.html"
 ---
 
 The trafficking between Saxon and Mercedes increased. The latter commanded a ready market for all the fine work Saxon could supply, while Saxon was eager and happy in the work. The expected babe and the cut in Billy's wages had caused her to regard the economic phase of existence more seriously than ever. Too little money was being laid away in the bank, and her conscience pricked her as she considered how much she was laying out on the pretty necessaries for the household and herself. Also, for the first time in her life she was spending another's earnings. Since a young girl she had been used to spending her own, and now, thanks to Mercedes she was doing it again, and, out of her profits, assaying more expensive and delightful adventures in lingerie.

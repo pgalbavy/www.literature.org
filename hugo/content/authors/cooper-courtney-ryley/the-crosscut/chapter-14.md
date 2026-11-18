@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/cooper-courtney-ryley/the-crosscut/chapter-14.html"
+url: "/authors/cooper-courtney-ryley/the-crosscut/chapter-14.html"
 ---
 
 Again there was a long moment of silence, while Harry stood pawing at his mustache and while Robert Fairchild sought to summon the strength to do the thing which was before him. It had been comparatively easy to make resolutions while there still was hope. It was a far different matter now. All the soddenness of the old days had come back to him, ghosts which would not be driven away; memories of a time when he was the grubbing, though willing slave of a victim of fear,--of a man whose life had been wrecked through terror of the day when intruders would break their way through the debris, and when the discovery would be made. And it had remained for Robert Fairchild, the son, to find the hidden secret, for him to come upon the thing which had caused the agony of nearly thirty years of suffering, for him to face the alternative of again placing that gruesome find into hiding, or to square his shoulders before the world and take the consequences. Murder is not an easy word to hear, whether it rests upon one's own shoulders, or upon the memory of a person beloved. And right now Robert Fairchild felt himself sagging beneath the weight of the accusation.

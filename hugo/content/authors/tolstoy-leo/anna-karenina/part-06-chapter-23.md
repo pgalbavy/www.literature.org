@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 23"
 weight: 180
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-23.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-23.html"
 ---
 
 Dolly was wanting to go to bed when Anna came in to see her, attired for the night. In the course of the day Anna had several times begun to speak of matters near her heart, and every time after a few words she had stopped: "Afterwards, by ourselves, we'll talk about everything. I've got so much I want to tell you," she said.

@@ -1,8 +1,7 @@
 ---
 title: "Book 7 - Chapter 8"
 weight: 140
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-07-chapter-08.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-07-chapter-08.html"
 ---
 
 Count Ilya Rostov had resigned the position of Marshal of the Nobility because it involved him in too much expense, but still his affairs did not improve. Natasha and Nicholas often noticed their parents conferring together anxiously and privately and heard suggestions of selling the fine ancestral Rostov house and estate near Moscow. It was not necessary to entertain so freely as when the count had been Marshal, and life at Otradnoe was quieter than in former years, but still the enormous house and its lodges were full of people and more than twenty sat down to table every day. These were all their own people who had settled down in the house almost as members of the family, or persons who were, it seemed, obliged to live in the count's house. Such were Dimmler the musician and his wife, Vogel the dancing master and his family, Belova, an old maiden lady, an inmate of the house, and many others such as Petya's tutors, the girls' former governess, and other people who simply found it preferable and more advantageous to live in the count's house than at home. They had not as many visitors as before, but the old habits of life without which the count and countess could not conceive of existence remained unchanged. There was still the hunting establishment which Nicholas had even enlarged, the same fifty horses and fifteen grooms in the stables, the same expensive presents and dinner parties to the whole district on name days; there were still the count's games of whist and boston, at which- spreading out his cards so that everybody could see them- he let himself be plundered of hundreds of rubles every day by his neighbors, who looked upon an opportunity to play a rubber with Count Rostov as a most profitable source of income.

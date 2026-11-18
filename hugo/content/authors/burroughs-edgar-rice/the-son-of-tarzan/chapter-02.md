@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-02.html"
+url: "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-02.html"
 ---
 
 Mr. Harold Moore was a bilious-countenanced, studious young man. He took himself very seriously, and life, and his work, which latter was the tutoring of the young son of a British nobleman. He felt that his charge was not making the progress that his parents had a right to expect, and he was now conscientiously explaining this fact to the boy's mother.

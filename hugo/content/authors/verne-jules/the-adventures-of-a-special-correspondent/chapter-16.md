@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-16.html"
+url: "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-16.html"
 ---
 
 Kachgaria is Oriental Turkestan which is gradually being metamorphosed into Russian Turkestan.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-12.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-12.html"
 ---
 
 >From where Hamel stood a queer object came strangely into sight. Below the terrace of St. David's Hall - from a spot, in fact, at the base of the solid wall - it seemed as though a gate had been opened, and there came towards him what he at first took to be a tricycle. As it came nearer, it presented even a weirder appearance. Mr. Fentolin, in a black cape and black skull cap, sat a little forward in his electric carriage, with his hand upon the guiding lever. His head came scarcely above the back of the little vehicle, his hands and body were motionless. He seemed to be progressing without the slightest effort, personal or mechanical, as though he rode, in deed, in some ghostly vehicle. From the same place in the wall had issued, a moment or two later, a man upon a bicycle, who was also coming towards him. Hamel was scarcely conscious of this secondary figure. His eyes were fixed upon the strange personage now rapidly approaching him. There was something which seemed scarcely human in that shrunken fragment of body, the pale face with its waving white hair, the strange expression with which he was being regarded. The little vehicle came to a standstill only a few feet away. Mr. Fentolin leaned forward. His features had lost their delicately benevolent aspect; his words were minatory.

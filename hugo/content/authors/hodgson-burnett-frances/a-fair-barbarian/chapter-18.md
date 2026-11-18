@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Contrast"
 weight: 18
-aliases:
-  - "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-18.html"
+url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-18.html"
 ---
 
 "Lady Theobald will put a stop to it," was the general remark. "It will certainly not occur again."

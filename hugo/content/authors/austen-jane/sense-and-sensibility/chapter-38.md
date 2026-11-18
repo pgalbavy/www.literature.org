@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38"
 weight: 38
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-38.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-38.html"
 ---
 
 Mrs. Jennings was very warm in her praise of Edward's conduct, but only Elinor and Marianne understood its true merit. THEY only knew how little he had had to tempt him to be disobedient, and how small was the consolation, beyond the consciousness of doing right, that could remain to him in the loss of friends and fortune. Elinor gloried in his integrity; and Marianne forgave all his offences in compassion for his punishment. But though confidence between them was, by this public discovery, restored to its proper state, it was not a subject on which either of them were fond of dwelling when alone. Elinor avoided it upon principle, as tending to fix still more upon her thoughts, by the too warm, too positive assurances of Marianne, that belief of Edward's continued affection for herself which she rather wished to do away; and Marianne's courage soon failed her, in trying to converse upon a topic which always left her more dissatisfied with herself than ever, by the comparison it necessarily produced between Elinor's conduct and her own.

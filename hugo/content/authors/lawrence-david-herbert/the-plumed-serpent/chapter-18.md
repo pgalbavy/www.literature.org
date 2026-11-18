@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Auto Da Fe"
 weight: 18
-aliases:
-  - "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-18.html"
+url: "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-18.html"
 ---
 
 Ramón saw Carlota and his boys in the city, but it was a rather fruitless meeting. The elder boy was just uncomfortable in the presence of his father, but the younger Cyprian, who was delicate and very intelligent, had a rather lofty air of displeasure with his parent.

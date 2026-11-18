@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - A Memorable Encounter"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-24.html"
 ---
 
 *THE* sound was like that of a score of bison charging through the undergrowth. The affrighted lads glanced around and saw the grizzly crashing down upon them. Possibly he had awakened to the fancy that they were enemies, and one of them had sought to do him harm. At any rate, here he was!

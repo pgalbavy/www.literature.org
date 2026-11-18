@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-13.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-13.html"
 ---
 
 Bibbs went home pondering. He did not understand why Sibyl had laughed. The laughter itself had been spontaneous and beyond suspicion, but it seemed to him that she had only affected the effort to suppress it and that she wished it to be significant. Significant of what? And why had she wished to impress upon him the fact of her overwhelming amusement? He found no answer, but she had succeeded in disturbing him, and he wished that he had not encountered her.

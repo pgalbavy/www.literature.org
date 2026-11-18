@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Winning First Prize"
 weight: 24
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-24.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-24.html"
 ---
 
 Henrietta Hen was waiting as patiently as she could for the fair to come to an end. She tried to close her ears to the boasts of her neighbors on either side of her, that they were going to win the first prize. She had heard too many unpleasant remarks about herself to have even the slightest hope of winning any prize at all--let alone the first.

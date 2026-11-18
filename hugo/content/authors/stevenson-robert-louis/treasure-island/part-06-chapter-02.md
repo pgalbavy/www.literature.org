@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 2 - The Black Spot Again"
 weight: 30
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-06-chapter-02.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-06-chapter-02.html"
 ---
 
 THE council of buccaneers had lasted some time, when one of them re-entered the house, and with a repetition of the same salute, which had in my eyes an ironical air, begged for a moment's loan of the torch. Silver briefly agreed, and this emissary retired again, leaving us together in the dark.

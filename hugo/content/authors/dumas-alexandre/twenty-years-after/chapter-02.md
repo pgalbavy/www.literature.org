@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Nightly Patrol"
 weight: 2
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-02.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-02.html"
 ---
 
 In ten minutes Mazarin and his party were traversing the street "Les Bons Enfants" behind the theatre built by Richelieu expressly for the play of "Mirame," and in which Mazarin, who was an amateur of music, but not of literature, had introduced into France the first opera that was ever acted in that country.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Double-Guarded"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-10.html"
 ---
 
 The native who had made the wonderful throw of the javelin stood a moment longer, and then as if satisfied that he could do no more, he turned about and disappeared.

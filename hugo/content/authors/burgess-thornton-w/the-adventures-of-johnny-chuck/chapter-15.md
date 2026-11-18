@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Sammy Jay Finds The New Home"
 weight: 15
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-15.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-15.html"
 ---
 
 Johnny Chuck was missed from his old home on the Green Meadows. If he had known how much he was missed, he certainly would have tried to go back for at least a call on his old neighbors. There had been great surprise when it had been discovered that Jimmy Skunk was living in Johnny's old house, and at first some of the little meadow people were inclined to look at Jimmy a wee bit distrustfully when he told how Johnny Chuck had given away his house.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Homeward Bound"
 weight: 5
-aliases:
-  - "/authors/greene-homer/a-tale-of-the-towpath/chapter-05.html"
+url: "/authors/greene-homer/a-tale-of-the-towpath/chapter-05.html"
 ---
 
 The window of the telegraph office on the canal at Ellenville faces the tow-path. Although day was breaking and the sky was cloudless, the telegraph operator was still working by the light of an oil lamp.

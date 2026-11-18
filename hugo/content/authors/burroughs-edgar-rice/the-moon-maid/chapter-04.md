@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Captured"
 weight: 5
-aliases:
-  - "/authors/burroughs-edgar-rice/the-moon-maid/chapter-04.html"
+url: "/authors/burroughs-edgar-rice/the-moon-maid/chapter-04.html"
 ---
 
 Our first view of the creatures proved beyond a question of a doubt that they were in effect human quadrupeds. The faces were very broad, much broader than any human faces that I have ever seen, but their profiles were singularly like those of the ancient North American Indians. Their bodies were covered with a garment with short legs that ended above the knees, and which was ornamented about the collar and also about the bottom of each leg with a rather fanciful geometric design. About the barrel of each was a surcingle and connected with it by a backstrap was something analogous to a breeching in Earth horse harness. Where the breeching straps crossed on either side, was a small circular ornament, and there was a strap resembling a trace leading from this forward to the collar, passing beneath a quite large, circular ornament, which appeared to be supported by the surcingle. Smaller straps, running from these two ornaments upon the left side, supported a sheath in which was carried what appeared to be a knife of some description. And upon the right side a short spear was carried in a boot, similarly suspended from the two ornaments, much as the carbine of our ancient Earth cavalry was carried. The spear, which was about six feet long, was of peculiar design, having a slender, well-shaped head, from the base of which a crescent-shaped arm curved backward from one side, while upon the side opposite the crescent was a short, sharp, point at right angles to the median line of the weapon.

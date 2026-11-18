@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Pleasant Praise"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-19.html"
 ---
 
 Not one of the prairie dogs knew what Benny Badger meant when he cried that he "had saved the day."

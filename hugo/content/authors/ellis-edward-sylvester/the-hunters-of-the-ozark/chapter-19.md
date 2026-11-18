@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Shawanoe And Winnebago"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-19.html"
 ---
 
 While Fred Linden and Terry Clark lay in that part of the cavern where the floor was of rock, the blanket of Deerfoot was spread on the earth. Consequently when the Winnebago brought down his knife with such vicious spitefulness, it went through the folds of the blanket and was buried to the hilt in the ground underneath.

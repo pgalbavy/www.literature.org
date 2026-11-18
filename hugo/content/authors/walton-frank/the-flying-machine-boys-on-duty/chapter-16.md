@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Inside Of A Jail"
 weight: 16
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-16.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-16.html"
 ---
 
 As has been said, it was morning when Havens caught sight of the pretty little city of Monterey on the Pacific coast. He had traveled steadily all night, and was very tired, so he decided to drop down near the town and rest during the day. Remembering the instructions he had given to the boys, he had no thought of seeing either the Louise or the Bertha in the air at that time.

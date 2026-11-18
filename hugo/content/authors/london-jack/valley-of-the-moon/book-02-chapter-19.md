@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 19"
 weight: 34
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-02-chapter-19.html"
+url: "/authors/london-jack/valley-of-the-moon/book-02-chapter-19.html"
 ---
 
 Between feeding and caring for Billy, doing the housework, making plans, and selling her store of pretty needlework, the days flew happily for Saxon. Billy's consent to sell her pretties had been hard to get, but at last she succeeded in coaxing it out of him.

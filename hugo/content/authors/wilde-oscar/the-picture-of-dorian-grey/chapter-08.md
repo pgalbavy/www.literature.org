@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-08.html"
+url: "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-08.html"
 ---
 
 It was long past noon when he awoke. His valet had crept several times on tiptoe into the room to see if he was stirring, and had wondered what made his young master sleep so late. Finally his bell sounded, and Victor came in softly with a cup of tea, and a pile of letters, on a small tray of old Sevres china, and drew back the olive-satin curtains, with their shimmering blue lining, that hung in front of the three tall windows.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/huxley-aldous/crome-yellow/chapter-24.html"
+url: "/authors/huxley-aldous/crome-yellow/chapter-24.html"
 ---
 
 It was noon. Denis, descending from his chamber, where he had been making an unsuccessful effort to write something about nothing in particular, found the drawing-room deserted. He was about to go out into the garden when his eye fell on a familiar but mysterious object—the large red notebook in which he had so often seen Jenny quietly and busily scribbling. She had left it lying on the window-seat. The temptation was great. He picked up the book and slipped off the elastic band that kept it discreetly closed.

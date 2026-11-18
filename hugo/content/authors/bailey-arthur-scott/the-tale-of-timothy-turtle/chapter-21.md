@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - A Queer Wish"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-21.html"
 ---
 
 Fishing was one of Timothy Turtle's favorite sports. He was a skillful fisherman, too. And though it only happened once that he caught more than one fish at a time, on that occasion he captured seven. This was the way it happened:

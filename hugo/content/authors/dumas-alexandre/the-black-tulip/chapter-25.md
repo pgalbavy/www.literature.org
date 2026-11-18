@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The President Van Systens"
 weight: 25
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-25.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-25.html"
 ---
 
 Rosa, on leaving Cornelius, had fixed on her plan, which was no other than to restore to Cornelius the stolen tulip, or never to see him again.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-28.html"
+url: "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-28.html"
 ---
 
 On the porch of Miss Pendleton's house that night, guitars were tinkling. From inside came the glow of shaded lamps softly amber--and outside along the hillsides where the whippoorwills called plaintively, slept a silver wash of moonlight.

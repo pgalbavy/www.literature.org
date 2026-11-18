@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Don Sees Tum Tum"
 weight: 4
-aliases:
-  - "/authors/barnum-richard/don-a-runaway-dog/chapter-04.html"
+url: "/authors/barnum-richard/don-a-runaway-dog/chapter-04.html"
 ---
 
 Don hardly knew what to think when Bob, his boyish master, called to him that way. The little dog had not lived long enough in the world to know much about bulls jumping fences. But he could easily tell that Bob’s sister, Sallie, was very much frightened. A dog can tell very quickly when a person is frightened, or glad, or cross.

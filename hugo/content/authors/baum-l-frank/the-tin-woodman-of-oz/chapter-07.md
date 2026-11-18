@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-07.html"
+url: "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-07.html"
 ---
 
 "Now," said the Canary, in a tone more brisk than before, "we may talk together more freely, as Mrs. Yoop cannot hear us. Perhaps we can figure out a way to escape."

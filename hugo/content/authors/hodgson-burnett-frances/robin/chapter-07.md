@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-07.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-07.html"
 ---
 
 The days of gold which linked themselves one to another with strange dawns of pearl and exquisite awakenings, each a miracle, the gemmed night whose blue darkness seemed studded with myriads of new stars, the noons whose heats or rains were all warm scents of flowers and fragrant mists, wrought themselves into a chain of earthly beauty. The hour in which the links must break and the chain end was always a faint spectre veiled by kindly mists which seemed to rise hour by hour to soften and hide it.

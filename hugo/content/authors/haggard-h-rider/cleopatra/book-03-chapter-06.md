@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 6"
 weight: 30
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-03-chapter-06.html"
+url: "/authors/haggard-h-rider/cleopatra/book-03-chapter-06.html"
 ---
 
 OF THE WORKINGS OF THE LEARNED OLYMPUS AT MEMPHIS; OF THE POISONINGS OF CLEOPATRA; OF THE SPEECH OF ANTONY TO HIS CAPTAINS; AND OF THE PASSING OF ISIS FROM THE LAND OF KHEM

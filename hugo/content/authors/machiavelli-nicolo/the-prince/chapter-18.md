@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Concerning The Way In Which Princes Should Keep Faith"
 weight: 19
-aliases:
-  - "/authors/machiavelli-nicolo/the-prince/chapter-18.html"
+url: "/authors/machiavelli-nicolo/the-prince/chapter-18.html"
 ---
 
 "The present chapter has given greater offence than any other portion of Machiavelli’s writings." Burd, "Il Principe," p. 297.

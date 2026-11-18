@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Pursuit"
 weight: 20
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-20.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-20.html"
 ---
 
 And now to tell of Mr. Hoopdriver, rising with the sun, vigilant, active, wonderful, the practicable half of the lead-framed window stuck open, ears alert, an eye flickering incessantly in the corner panes, in oblique glances at the Angel front. Mrs. Wardor wanted him to have his breakfast downstairs in her kitchen, but that would have meant abandoning the watch, and he held out strongly. The bicycle, cap-a-pie, occupied, under protest, a strategic position in the shop. He was expectant by six in the morning. By nine horrible fears oppressed him that his quest had escaped him, and he had to reconnoitre the Angel yard in order to satisfy himself. There he found the ostler (How are the mighty fallen in these decadent days!) brushing down the bicycles of the chase, and he returned relieved to Mrs. Wardor's premises. And about ten they emerged, and rode quietly up the North Street. He watched them until they turned the corner of the post office, and then out into the road and up after them in fine style! They went by the engine-house where the old stocks and the whipping posts are, and on to the Chichester road, and he followed gallantly. So this great chase began.

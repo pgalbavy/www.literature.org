@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - What Is It?"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/the-forest-monster/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/the-forest-monster/chapter-02.html"
 ---
 
 Black Tom and old Stebbins had a hard day’s ride of it, and they drew the rein in a heavily-timbered grove, just as the sun was setting, with the intention of camping there for the night.

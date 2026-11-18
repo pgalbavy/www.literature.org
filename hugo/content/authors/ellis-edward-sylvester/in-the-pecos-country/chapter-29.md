@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - A Mystery"
 weight: 29
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-29.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-29.html"
 ---
 
 O'Rooney stood with rifle grasped, while young Munson ran toward him from the centre of the cave, exclaiming in his excited tones:

@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 4 - The Treasure-Hunt--Flint's Pointer"
 weight: 32
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-06-chapter-04.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-06-chapter-04.html"
 ---
 
 “JIM,” said Silver when we were alone, “if I saved your life, you saved mine; and I'll not forget it. I seen the doctor waving you to run for it--with the tail of my eye, I did; and I seen you say no, as plain as hearing. Jim, that's one to you. This is the first glint of hope I had since the attack failed, and I owe it you. And now, Jim, we're to go in for this here treasure-hunting, with sealed orders too, and I don't like it; and you and me must stick close, back to back like, and we'll save our necks in spite o' fate and fortune.”

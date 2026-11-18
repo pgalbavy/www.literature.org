@@ -1,8 +1,7 @@
 ---
 title: "chapter 07"
 weight: 999
-aliases:
-  - "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-07.html"
+url: "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-07.html"
 ---
 
 The mountain on which they had alighted was not a barren waste, but had on its sides patches of green grass, some bushes, a few slender trees and here and there masses of tumbled rocks. The sides of the slope seemed rather steep, but with care one could climb up or down them with ease and safety. The view from where they now stood showed pleasant valleys and fertile hills lying below the heights. Trot thought she saw some houses of queer shapes scattered about the lower landscape, and there were moving dots that might be people or animals, yet were too far away for her to see them clearly.

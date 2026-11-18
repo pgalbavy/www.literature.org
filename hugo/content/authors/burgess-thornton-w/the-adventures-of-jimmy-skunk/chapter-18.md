@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - A Sad, Sad Quarrel"
 weight: 18
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-18.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-18.html"
 ---
 
 Jimmy Skunk sat on the floor of Farmer Brown's henhouse, rubbing his head and glaring up at the upper row of nests with eyes red with anger. Of course it was dark in the henhouse, for it was night, but Jimmy can see in the dark, just as so many other little people who wear fur can. What he saw was the anxious looking face of Unc' Billy Possum staring down at him.

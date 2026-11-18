@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Tom’s First Battle"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-03.html"
 ---
 
 *AFTER* supper Tom took a walk. He wanted to know something about his future home. Thus far his impressions had not been altogether agreeable.

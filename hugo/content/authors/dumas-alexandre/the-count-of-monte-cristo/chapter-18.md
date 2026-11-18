@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Treasure"
 weight: 18
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-18.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-18.html"
 ---
 
 When Dantes returned next morning to the chamber of his companion in captivity, he found Faria seated and looking composed. In the ray of light which entered by the narrow window of his cell, he held open in his left hand, of which alone, it will be recollected, he retained the use, a sheet of paper, which, from being constantly rolled into a small compass, had the form of a cylinder, and was not easily kept open. He did not speak, but showed the paper to Dantes.

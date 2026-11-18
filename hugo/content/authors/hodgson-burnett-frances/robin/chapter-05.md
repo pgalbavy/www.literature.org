@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-05.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-05.html"
 ---
 
 And still youth marched away, and England seemed to swarm with soldiers and, at times, to hear and see nothing but marching music and marching feet, though life went on in houses, shops, warehouses and offices, and new and immense activities evolved as events demanded them. Many of the new activities were preparations for the comfort and care of soldiers who were going away, and for those who would come back and would need more care than the others. Women were doing astonishing work and revealing astonishing power and determination. The sexes mingled with a businesslike informality unknown in times of peace. Lovely girls went in and out of their homes, and from one quarter of London to another without question. They walked with a brisk step and wore the steady expression of creatures with work in view. Slim young war-widows were to be seen in black dresses and veiled small hats with bits of white crape inside their brims. Sometimes their little faces were awful to behold, but sometimes they wore a strained look of exaltation.

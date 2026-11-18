@@ -1,8 +1,7 @@
 ---
 title: "Chapter 69 - The Funeral"
 weight: 69
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-069.html"
+url: "/authors/melville-herman/moby-dick/chapter-069.html"
 ---
 
 Haul in the chains! Let the carcase go astern!

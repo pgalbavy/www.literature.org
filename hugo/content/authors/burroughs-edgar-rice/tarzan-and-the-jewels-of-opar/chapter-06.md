@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-06.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-06.html"
 ---
 
 After their first terror had subsided subsequent to the shock of the earthquake, Basuli and his warriors hastened back into the passageway in search of Tarzan and two of their own number who were also missing.

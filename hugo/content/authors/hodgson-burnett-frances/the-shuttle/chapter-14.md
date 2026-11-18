@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - In The Gardens"
 weight: 14
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-14.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-14.html"
 ---
 
 She came out upon the stone terrace again rather early in the morning. She wanted to wander about in the first freshness of the day, which was always an uplifting thing to her. She wanted to see the dew on the grass and on the ragged flower borders and to hear the tender, broken fluting of birds in the trees. One cuckoo was calling to another in the park, and she stopped and listened intently. Until yesterday she had never heard a cuckoo call, and its hollow mellowness gave her delight. It meant the spring in England, and nowhere else.

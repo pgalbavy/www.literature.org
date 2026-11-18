@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 5"
 weight: 13
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-02-chapter-05.html"
+url: "/authors/haggard-h-rider/cleopatra/book-02-chapter-05.html"
 ---
 
 OF THE COMING OF CLEOPATRA TO THE CHAMBER OF HARMACHIS; OF THE THROWING FORTH OF THE KERCHIEF OF CHARMION; OF THE STARS; AND OF THE GIFT BY CLEOPATRA OF HER FRIENDSHIP TO HER SERVANT HARMACHIS

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Wings"
 weight: 4
-aliases:
-  - "/authors/nesbit-edith/five-children-and-it/chapter-04.html"
+url: "/authors/nesbit-edith/five-children-and-it/chapter-04.html"
 ---
 
 The next day was very wet - too wet to go out, and far too wet to think of disturbing a Sand-fairy so sensitive to water that he still, after thousands of years, felt the pain of once having had his left whisker wetted. It was a long day, and it was not till the afternoon that all the children suddenly decided to write letters to their mother. It was Robert who had the misfortune to upset the ink-pot - an unusually deep and full one - straight into that part of Anthea's desk where she had long pretended that an arrangement of gum and cardboard painted with Indian ink was a secret drawer. It was not exactly Robert's fault; it was only his misfortune that he chanced to be lifting the ink across the desk just at the moment when Anthea had got it open, and that that same moment should have been the one chosen by the Lamb to get under the table and break his squeaking bird. There was a sharp convenient wire inside the bird, and of course the Lamb ran the wire into Robert's leg at once; and so, without anyone's meaning to, the secret drawer was flooded with ink. At the same time a stream was poured over Anthea's half-finished letter. So that her letter was something like this:

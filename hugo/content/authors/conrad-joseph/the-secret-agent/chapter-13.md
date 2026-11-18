@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/conrad-joseph/the-secret-agent/chapter-13.html"
+url: "/authors/conrad-joseph/the-secret-agent/chapter-13.html"
 ---
 
 The enormous iron padlock on the doors of the wall cupboard was the only object in the room on which the eye could rest without becoming afflicted by the miserable unloveliness of forms and the poverty of material. Unsaleable in the ordinary course of business on account of its noble proportions, it had been ceded to the Professor for a few pence by a marine dealer in the east of London. The room was large, clean, respectable, and poor with that poverty suggesting the starvation of every human need except mere bread. There was nothing on the walls but the paper, an expanse of arsenical green, soiled with indelible smudges here and there, and with stains resembling faded maps of uninhabited continents.

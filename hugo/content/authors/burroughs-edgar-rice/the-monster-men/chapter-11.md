@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - \u0026quot;I am Coming!\u0026quot;"
 weight: 11
-aliases:
-  - "/authors/burroughs-edgar-rice/the-monster-men/chapter-11.html"
+url: "/authors/burroughs-edgar-rice/the-monster-men/chapter-11.html"
 ---
 
 The morning following the capture of Virginia Maxon by Muda Saffir, Professor Maxon, von Horn, Sing Lee and the sole surviving lascar from the crew of the Ithaca set out across the strait toward the mainland of Borneo in the small boat which the doctor had secreted in the jungle near the harbor. The party was well equipped with firearms and ammunition, and the bottom of the boat was packed full with provisions and cooking utensils. Von Horn had been careful to see that the boat was furnished with a mast and sail, and now, under a good breeze the party was making excellent time toward the mysterious land of their destination.

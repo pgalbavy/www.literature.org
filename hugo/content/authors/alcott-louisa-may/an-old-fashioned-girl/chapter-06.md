@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Grandma"
 weight: 7
-aliases:
-  - "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-06.html"
+url: "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-06.html"
 ---
 
 “WHERE'S Polly?” asked Fan one snowy afternoon, as she came into the dining-room where Tom was reposing on the sofa with his boots in the air, absorbed in one of those delightful books in which boys are cast away on desert islands, where every known fruit, vegetable and flower is in its prime all the year round; or, lost in boundless forests, where the young heroes have thrilling adventures, kill impossible beasts, and, when the author's invention gives out, suddenly find their way home, laden with tiger skins, tame buffaloes and other pleasing trophies of their prowess.

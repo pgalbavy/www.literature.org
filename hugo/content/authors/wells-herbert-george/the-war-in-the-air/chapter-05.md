@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Battle Of The North Atlantic"
 weight: 6
-aliases:
-  - "/authors/wells-herbert-george/the-war-in-the-air/chapter-05.html"
+url: "/authors/wells-herbert-george/the-war-in-the-air/chapter-05.html"
 ---
 
 1

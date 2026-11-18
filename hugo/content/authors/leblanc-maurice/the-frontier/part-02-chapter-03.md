@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 3 - Father And Son"
 weight: 11
-aliases:
-  - "/authors/leblanc-maurice/the-frontier/part-02-chapter-03.html"
+url: "/authors/leblanc-maurice/the-frontier/part-02-chapter-03.html"
 ---
 
 Bare-headed, tangle-haired, his clothes torn, no collar, blood on his shirt, on his hands, on his face, blood everywhere, a wound in his neck, another on his lip, unrecognizable, horrible to look at, but magnificent in energy, heroic and triumphant: such was the appearance presented by old Morestal.

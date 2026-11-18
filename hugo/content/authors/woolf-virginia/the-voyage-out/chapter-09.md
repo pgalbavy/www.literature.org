@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/woolf-virginia/the-voyage-out/chapter-09.html"
+url: "/authors/woolf-virginia/the-voyage-out/chapter-09.html"
 ---
 
 An hour passed, and the downstairs rooms at the hotel grew dim and were almost deserted, while the little box-like squares above them were brilliantly irradiated. Some forty or fifty people were going to bed. The thump of jugs set down on the floor above could be heard and the clink of china, for there was not as thick a partition between the rooms as one might wish, so Miss Allan, the elderly lady who had been playing bridge, determined, giving the wall a smart rap with her knuckles. It was only matchboard, she decided, run up to make many little rooms of one large one. Her grey petticoats slipped to the ground, and, stooping, she folded her clothes with neat, if not loving fingers, screwed her hair into a plait, wound her father's great gold watch, and opened the complete works of Wordsworth. She was reading the "Prelude," partly because she always read the "Prelude" abroad, and partly because she was engaged in writing a short *Primer* *of* *English* *Literature*—*Beowulf* *to* *Swinburne*—which would have a paragraph on Wordsworth. She was deep in the fifth book, stopping indeed to pencil a note, when a pair of boots dropped, one after another, on the floor above her. She looked up and speculated. Whose boots were they, she wondered. She then became aware of a swishing sound next door—a woman, clearly, putting away her dress. It was succeeded by a gentle tapping sound, such as that which accompanies hair-dressing. It was very difficult to keep her attention fixed upon the "Prelude." Was it Susan Warrington tapping? She forced herself, however, to read to the end of the book, when she placed a mark between the pages, sighed contentedly, and then turned out the light.

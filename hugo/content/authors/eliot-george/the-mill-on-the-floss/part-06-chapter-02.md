@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 2 - First Impressions"
 weight: 41
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-06-chapter-02.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-06-chapter-02.html"
 ---
 
 "He is very clever, Maggie," said Lucy. She was kneeling on a footstool at Maggie's feet, after placing that dark lady in the large crimson-velvet chair. "I feel sure you will like him. I hope you will."

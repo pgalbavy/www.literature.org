@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Buenos Ayres and St. Fe"
 weight: 8
-aliases:
-  - "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-07.html"
+url: "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-07.html"
 ---
 
 arrow_rightExcursion to St. Fe arrow_rightThistle Beds arrow_rightHabits of the Bizcacha arrow_rightLittle Owl arrow_rightSaline Streams arrow_rightLevel Plain arrow_rightMastodon arrow_rightSt. Fe arrow_rightChange in Landscape arrow_rightGeology arrow_rightTooth of extinct Horse arrow_rightRelation of the Fossil and recent Quadrupeds of North and South America arrow_rightEffects of a great Drought arrow_rightParana arrow_rightHabits of the Jaguar arrow_rightScissor-beak arrow_rightKingfisher, Parrot, and Scissor-tail arrow_rightRevolution arrow_rightBuenos Ayres State of Government ---

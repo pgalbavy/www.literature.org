@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Blackie Finds A Friend"
 weight: 5
-aliases:
-  - "/authors/barnum-richard/blackie-a-lost-cat/chapter-05.html"
+url: "/authors/barnum-richard/blackie-a-lost-cat/chapter-05.html"
 ---
 
 Blackie was now out of the vacant house, it is true, but, for a time, she did not feel much better off. She was up on a high roof, and as she went to the edge to look down she saw that it was too far for her to jump, even down into a tree.

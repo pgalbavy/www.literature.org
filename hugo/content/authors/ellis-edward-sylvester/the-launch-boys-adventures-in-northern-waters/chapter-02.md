@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Scout Of The Kennebec"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-02.html"
 ---
 
 AT nine o'clock on a bright sunshiny morning in August the usual group were gathered on the dock at Squirrel Island. Some were watching the arrival and departure of the different steamers, not forgetting the little *Nellie G.*, plying between that summer resort and Boothbay Harbor, some three miles distant, with calls at other islands as the passengers wished. Sailboats were getting ready to take parties out, some to fish, while others sought only the pleasure of the cruise itself. Small launches came up to the low-lying float for men and women to get on board, while others were rowed out in small boats to the anchored craft.

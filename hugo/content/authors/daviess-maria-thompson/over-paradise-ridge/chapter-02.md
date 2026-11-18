@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Book Of Shelter"
 weight: 2
-aliases:
-  - "/authors/daviess-maria-thompson/over-paradise-ridge/chapter-02.html"
+url: "/authors/daviess-maria-thompson/over-paradise-ridge/chapter-02.html"
 ---
 
 Peter's play is remarkable; it really is. He has collected all the great and wonderful things that life in America contains and put them together in a way that reads as if Edgar Allan Poe had helped Henry James to construct it, though they had forgotten to ask Mark Twain to dinner and had never heard of John Burroughs. I felt when I got through the first act as if I had been living for a week shut into an old Gothic cathedral aisle decorated by marble-carved inspired words, and I was both cold and hungry. The more I read of Peter's play the more congenial I felt with Farrington. I had enough education to see that it was a genuine literary achievement, but I had heart enough to know that something had to be done to rescue all his characters from the arctic region. Could I do it single-handed even for a person I cared as much for as I did for Peter? I decided that I could not, and that the only way I could prove my loyalty and affection for Peter was to abase myself before Sam Crittenden and his cruelty to me, and get his help. Only for Peter would I have done such a thing, which in the end I didn't have to do at all.

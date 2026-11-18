@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-01.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-01.html"
 ---
 
 TO All Women WHO WORK, TRYING TO BRING INTO DARK LIVES THE BRIGHTNESS AND HOPE OF A BETTER COUNTRY, THIS BOOK IS DEDICATED.

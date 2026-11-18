@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Shadowed By Death"
 weight: 6
-aliases:
-  - "/authors/leblanc-maurice/the-confessions-of-arsene-lupin/chapter-06.html"
+url: "/authors/leblanc-maurice/the-confessions-of-arsene-lupin/chapter-06.html"
 ---
 
 After he had been round the walls of the property, Arsène Lupin returned to the spot from which he started. It was perfectly clear to him that there was no breach in the walls; and the only way of entering the extensive grounds of the Château de Maupertuis was through a little low door, firmly bolted on the inside, or through the principal gate, which was overlooked by the lodge.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Danger Signal"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-17.html"
 ---
 
 Billy Woodchuck remembered, after he had fled from old dog Spot, that he ought to warn his family and his friends. So he sat up, stuck his head out of the tangle of brakes where he had hidden, and gave the danger signal, a sharp whistle.

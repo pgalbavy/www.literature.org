@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/cooper-courtney-ryley/the-white-desert/chapter-08.html"
+url: "/authors/cooper-courtney-ryley/the-white-desert/chapter-08.html"
 ---
 
 "Ah, oui!" Evidently Ba'tiste liked the expression. "Eet shall not be until--what-you-say--the last dog, eet is dead. Come! We will go into the forest. Ba'tiste will show you things you should know."

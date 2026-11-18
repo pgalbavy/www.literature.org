@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - In The Telegraph Office"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-12.html"
 ---
 
 "Maybe it slipped free and floated off," said Chester, who did not pause until he reached the water's edge.

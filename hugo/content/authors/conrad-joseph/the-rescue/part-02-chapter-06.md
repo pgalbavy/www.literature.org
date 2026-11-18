@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 6"
 weight: 12
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-02-chapter-06.html"
+url: "/authors/conrad-joseph/the-rescue/part-02-chapter-06.html"
 ---
 
 For two years, Lingard, who had thrown himself body and soul into the great enterprise, had lived in the long intoxication of slowly preparing success. No thought of failure had crossed his mind, and no price appeared too heavy to pay for such a magnificent achievement. It was nothing less than bringing Hassim triumphantly back to that country seen once at night under the low clouds and in the incessant tumult of thunder. When at the conclusion of some long talk with Hassim, who for the twentieth time perhaps had related the story of his wrongs and his struggle, he lifted his big arm and shaking his fist above his head, shouted: "We will stir them up. We will wake up the country!" he was, without knowing it in the least, making a complete confession of the idealism hidden under the simplicity of his strength. He would wake up the country! That was the fundamental and unconscious emotion on which were engrafted his need of action, the primitive sense of what was due to justice, to gratitude, to friendship, the sentimental pity for the hard lot of Immada—poor child—the proud conviction that of all the men in the world, in his world, he alone had the means and the pluck "to lift up the big end" of such an adventure.

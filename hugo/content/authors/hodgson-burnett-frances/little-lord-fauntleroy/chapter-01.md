@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/hodgson-burnett-frances/little-lord-fauntleroy/chapter-01.html"
+url: "/authors/hodgson-burnett-frances/little-lord-fauntleroy/chapter-01.html"
 ---
 
 Cedric himself knew nothing whatever about it. It had never been even mentioned to him. He knew that his papa had been an Englishman, because his mamma had told him so; but then his papa had died when he was so little a boy that he could not remember very much about him, except that he was big, and had blue eyes and a long mustache, and that it was a splendid thing to be carried around the room on his shoulder. Since his papa's death, Cedric had found out that it was best not to talk to his mamma about him. When his father was ill, Cedric had been sent away, and when he had returned, everything was over; and his mother, who had been very ill, too, was only just beginning to sit in her chair by the window. She was pale and thin, and all the dimples had gone from her pretty face, and her eyes looked large and mournful, and she was dressed in black.

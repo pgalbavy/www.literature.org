@@ -1,8 +1,7 @@
 ---
 title: "Chapter 48 - The Meeting"
 weight: 48
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-48.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-48.html"
 ---
 
 Tim O'Rooney and Howard Lawrence, awaking at the same moment, observed the alarming action of the dog. Raising their heads they looked carefully around but could detect nothing unusual. They were so securely drawn under the overhanging shrubbery and undergrowth that they were pretty certain no one else was aware of their presence; but the gaze of the dog being turned toward the river they judged that something must be nearing them from that direction.

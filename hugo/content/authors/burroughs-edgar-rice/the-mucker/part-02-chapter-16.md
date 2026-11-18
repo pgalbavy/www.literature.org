@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 16 - Eddie Makes Good"
 weight: 34
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-16.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-16.html"
 ---
 
 BILLY BYRNE and Eddie Shorter rode steadily in the direction of the hills. Upon either side and at intervals of a mile or more stretched the others of their party, occasionally visible; but for the most part not. Once in the hills the two could no longer see their friends or be seen by them.

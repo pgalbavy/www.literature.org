@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Interior Of \u0026quot;The Musketeers\u0026quot;"
 weight: 8
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-07.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-07.html"
 ---
 
 When D'Artagnan was out of the Louvre, and consulted his friends upon the use he had best make of his share of the forty pistoles, Athos advised him to order a good repast at the Pomme-de-Pin, Porthos to engage a lackey, and Aramis to provide himself with a suitable mistress.

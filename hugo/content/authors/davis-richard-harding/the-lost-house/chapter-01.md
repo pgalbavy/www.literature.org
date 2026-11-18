@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/davis-richard-harding/the-lost-house/chapter-01.html"
+url: "/authors/davis-richard-harding/the-lost-house/chapter-01.html"
 ---
 
 It was a dull day at the chancellery. His Excellency the American Ambassador was absent in Scotland, unveiling a bust to Bobby Burns, paid for by the numerous lovers of that poet in Pittsburg; the First Secretary was absent at Aldershot, observing a sham battle; the Military Attache was absent at the Crystal Palace, watching a foot-ball match; the Naval Attache was absent at the Duke of Deptford's, shooting pheasants; and at the Embassy, the Second Secretary, having lunched leisurely at the Artz, was now alone, but prepared with his life to protect American interests. Accordingly, on the condition that the story should not be traced back to him, he had just confided a State secret to his young friend, Austin Ford, the London correspondent of the New York REPUBLIC.

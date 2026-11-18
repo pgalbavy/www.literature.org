@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Mr. Coyote Sings"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-04.html"
 ---
 
 Benny Badger was not at all glad to see Mr. Coyote. And after Benny's ill luck, the smile upon Mr. Coyote's face made the disappointed digger feel almost peevish.

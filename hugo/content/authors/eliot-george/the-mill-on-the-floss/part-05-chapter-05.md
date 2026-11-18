@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 5 - The Cloven Tree"
 weight: 37
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-05-chapter-05.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-05-chapter-05.html"
 ---
 
 Secrets are rarely betrayed or discovered according to any programme our fear has sketched out. Fear is almost always haunted by terrible dramatic scenes, which recur in spite of the best-argued probabilities against them; and during a year that Maggie had had the burthen of concealment on her mind, the possibility of discovery had continually presented itself under the form of a sudden meeting with her father or Tom when she was walking with Philip in the Red Deeps. She was aware that this was not one of the most likely events; but it was the scene that most completely symbolized her inward dread. Those slight indirect suggestions which are dependent on apparently trivial coincidences and incalculable states of mind, are the favorite machinery of Fact, but are not the stuff in which Imagination is apt to work.

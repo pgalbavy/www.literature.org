@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 8 - Mr. Wratislaw's Advent"
 weight: 8
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-01-chapter-08.html"
+url: "/authors/buchan-john/the-half-hearted/part-01-chapter-08.html"
 ---
 
 As the three men went home in the dusk they talked of the day. Lewis had been in a bad humour, but the company of his friends exorcised the imp of irritation, and he felt only the mellow gloom of the evening and the sweet scents of the moor. In such weather he had a trick of walking with his head high and his nostrils wide, sniffing the air like the wild ass of the desert with which the metaphorical George had erstwhile compared him. That young man meanwhile was occupied with his own reflections. His good nature had been victimized, he had been made to fetch and carry continually, and the result was that he had scarcely spoken a word to Miss Wishart. His plans thus early foiled, nothing remained but to draw the more fortunate Arthur, so in a conspirator's aside he asked him his verdict. But Arthur refused to speak. "She is pretty and clever," he said, "and excellent company." And with this his lips were sealed, and his thoughts went off on his own concerns.

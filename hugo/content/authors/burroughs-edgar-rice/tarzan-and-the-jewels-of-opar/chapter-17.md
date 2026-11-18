@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-17.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-17.html"
 ---
 
 Lieutenant Albert Werper, terrified by contemplation of the fate which might await him at Adis Abeba, cast about for some scheme of escape, but after the black Mugambi had eluded their vigilance the Abyssinians redoubled their precautions to prevent Werper following the lead of the Negro.

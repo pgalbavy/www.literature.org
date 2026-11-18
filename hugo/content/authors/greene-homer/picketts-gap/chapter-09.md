@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/greene-homer/picketts-gap/chapter-09.html"
+url: "/authors/greene-homer/picketts-gap/chapter-09.html"
 ---
 
 Long after his father and his son had vanished from sight between the great snow ridges that lined the street, Charlie Pickett stood at the window of the jury room, looking out upon the wide, white landscape, thinking of the days gone by, of the day just passed, of the days he still hoped might come in the future.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Forward Movement"
 weight: 3
-aliases:
-  - "/authors/alcott-louisa-may/hospital-sketches/chapter-02.html"
+url: "/authors/alcott-louisa-may/hospital-sketches/chapter-02.html"
 ---
 
 As travellers like to give their own impressions of a journey, though every inch of the way may have been described a half a dozen times before, I add some of the notes made by the way, hoping that they will amuse the reader, and convince the skeptical that such a being as Nurse Periwinkle does exist, that she really did go to Washington, and that these Sketches are not romance.

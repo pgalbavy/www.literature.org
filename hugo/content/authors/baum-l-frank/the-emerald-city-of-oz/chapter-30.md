@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 31
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-30.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-30.html"
 ---
 
 The writer of these Oz stories has received a little note from Princess Dorothy of Oz which, for a time, has made him feel rather disconcerted. The note was written on a broad, white feather from a stork's wing, and it said:

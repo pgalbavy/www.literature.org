@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Doctrine According To Jonesy"
 weight: 4
-aliases:
-  - "/authors/buck-charles-neville/the-lighted-match/chapter-04.html"
+url: "/authors/buck-charles-neville/the-lighted-match/chapter-04.html"
 ---
 
 If the living-room at "Idle Times" bore the impress of Van Bristow's individuality and taste, his den was the tangible setting of his personality.

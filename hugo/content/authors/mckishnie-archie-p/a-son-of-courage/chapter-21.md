@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - A Day With The Ducks"
 weight: 21
-aliases:
-  - "/authors/mckishnie-archie-p/a-son-of-courage/chapter-21.html"
+url: "/authors/mckishnie-archie-p/a-son-of-courage/chapter-21.html"
 ---
 
 Erie Landon faced her father across the breakfast table, dimpled chin cupped in her brown hand. It was early morning; a red sun was just lifting above the Point to wipe away the white mists of the channel and the bay. The American yacht which had put into harbor the night before had cleared and was now but a white speck in the distance.

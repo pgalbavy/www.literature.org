@@ -1,8 +1,7 @@
 ---
 title: "Book 13 - Chapter 16"
 weight: 295
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-13-chapter-16.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-13-chapter-16.html"
 ---
 
 It was a warm, dark, autumn night. It had been raining for four days. Having changed horses twice and galloped twenty miles in an hour and a half over a sticky, muddy road, Bolkhovitinov reached Litashevka after one o'clock at night. Dismounting at a cottage on whose wattle fence hung a signboard, GENERAL STAFF, and throwing down his reins, he entered a dark passage.

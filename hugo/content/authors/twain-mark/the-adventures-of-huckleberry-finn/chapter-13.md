@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-13.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-13.html"
 ---
 
 WELL, I catched my breath and most fainted. Shut up on a wreck with such a gang as that! But it warn't no time to be sentimentering. We'd GOT to find that boat now -- had to have it for ourselves. So we went a-quaking and shaking down the stabboard side, and slow work it was, too -- seemed a week before we got to the stern. No sign of a boat. Jim said he didn't believe he could go any further -- so scared he hadn't hardly any strength left, he said. But I said, come on, if we get left on this wreck we are in a fix, sure. So on we prowled again. We struck for the stern of the texas, and found it, and then scrabbled along forwards on the skylight, hanging on from shutter to shutter, for the edge of the skylight was in the water. When we got pretty close to the cross-hall door there was the skiff, sure enough! I could just barely see her. I felt ever so thankful. In another second I would a been aboard of her, but just then the door opened. One of the men stuck his head out only about a couple of foot from me, and I thought I was gone; but he jerked it in again, and says:

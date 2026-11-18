@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - On Christmas Day"
 weight: 18
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-18.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-18.html"
 ---
 
 Christmas came to Keno in a whirling snowstorm that shrouded Shadow Mountain in white and, as he stepped out in the morning and looked up at the peak, Wiley Holman felt a thrill of joy. The black shadow had bothered him, now that he had come to live under it; and a hundred times a day as it caught his eye he would glance up to find the dark cloud. But now it was gone and in place of the lava cap there was a mantle of gleaming snow. He looked down at the town and, on every graceless house, there had been bestowed a crown of white; all the tin cans were buried, the burned spots were covered over, and Keno was almost beautiful. A family of children were out in the street, trying to coast in their new Christmas wagons, and Wiley smiled to himself.

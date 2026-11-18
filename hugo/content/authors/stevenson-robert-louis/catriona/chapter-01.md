@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Beggar On Horseback"
 weight: 2
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-01.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-01.html"
 ---
 
 *Part 1 - The Lord Advocate*

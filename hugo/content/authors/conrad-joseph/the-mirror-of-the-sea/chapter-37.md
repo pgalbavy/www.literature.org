@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37"
 weight: 37
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-37.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-37.html"
 ---
 
 *THE* cradle of oversea traffic and of the art of naval combats, the Mediterranean, apart from all the associations of adventure and glory, the common heritage of all mankind, makes a tender appeal to a seaman. It has sheltered the infancy of his craft. He looks upon it as a man may look at a vast nursery in an old, old mansion where innumerable generations of his own people have learned to walk. I say his own people because, in a sense, all sailors belong to one family: all are descended from that adventurous and shaggy ancestor who, bestriding a shapeless log and paddling with a crooked branch, accomplished the first coasting-trip in a sheltered bay ringing with the admiring howls of his tribe. It is a matter of regret that all those brothers in craft and feeling, whose generations have learned to walk a ship’s deck in that nursery, have been also more than once fiercely engaged in cutting each other’s throats there. But life, apparently, has such exigencies. Without human propensity to murder and other sorts of unrighteousness there would have been no historical heroism. It is a consoling reflection. And then, if one examines impartially the deeds of violence, they appear of but small consequence. From Salamis to Actium, through Lepanto and the Nile to the naval massacre of Navarino, not to mention other armed encounters of lesser interest, all the blood heroically spilt into the Mediterranean has not stained with a single trail of purple the deep azure of its classic waters.

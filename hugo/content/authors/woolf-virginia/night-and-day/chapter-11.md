@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/woolf-virginia/night-and-day/chapter-11.html"
+url: "/authors/woolf-virginia/night-and-day/chapter-11.html"
 ---
 
 "It’s life that matters, nothing but life—the process of discovering, the everlasting and perpetual process," said Katharine, as she passed under the archway, and so into the wide space of King’s Bench Walk, "not the discovery itself at all." She spoke the last words looking up at Rodney’s windows, which were a semilucent red color, in her honor, as she knew. He had asked her to tea with him. But she was in a mood when it is almost physically disagreeable to interrupt the stride of one’s thought, and she walked up and down two or three times under the trees before approaching his staircase. She liked getting hold of some book which neither her father or mother had read, and keeping it to herself, and gnawing its contents in privacy, and pondering the meaning without sharing her thoughts with any one, or having to decide whether the book was a good one or a bad one. This evening she had twisted the words of Dostoevsky to suit her mood—a fatalistic mood—to proclaim that the process of discovery was life, and that, presumably, the nature of one’s goal mattered not at all. She sat down for a moment upon one of the seats; felt herself carried along in the swirl of many things; decided, in her sudden way, that it was time to heave all this thinking overboard, and rose, leaving a fishmonger’s basket on the seat behind her. Two minutes later her rap sounded with authority upon Rodney’s door.

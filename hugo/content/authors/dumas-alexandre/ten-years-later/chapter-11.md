@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Mazarin's Policy"
 weight: 11
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-11.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-11.html"
 ---
 
 Instead of the hesitation with which he had accosted the cardinal a quarter of an hour before, there might be read in the eyes of the young king that will against which a struggle might be maintained, and which might be crushed by its own impotence, but which, at least, would preserve, like a wound in the depth of the heart, the remembrance of its defeat.

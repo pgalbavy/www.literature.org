@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Two Acquaintances And Friends"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-17.html"
 ---
 
 The question was settled. Nothing short of positive knowledge could have led Deerfoot to change his mind as to the right course to pursue.

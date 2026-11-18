@@ -1,8 +1,7 @@
 ---
 title: "chapter 00"
 weight: 999
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-00.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-00.html"
 ---
 
 This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org

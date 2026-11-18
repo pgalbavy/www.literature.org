@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Concerning Things For Which Men, And Especially Princes, Are Praised Or Blamed"
 weight: 16
-aliases:
-  - "/authors/machiavelli-nicolo/the-prince/chapter-15.html"
+url: "/authors/machiavelli-nicolo/the-prince/chapter-15.html"
 ---
 
 It remains now to see what ought to be the rules of conduct for a prince towards subject and friends. And as I know that many have written on this point, I expect I shall be considered presumptuous in mentioning it again, especially as in discussing it I shall depart from the methods of other people. But, it being my intention to write a thing which shall be useful to him who apprehends it, it appears to me more appropriate to follow up the real truth of the matter than the imagination of it; for many have pictured republics and principalities which in fact have never been known or seen, because how one lives is so far distant from how one ought to live, that he who neglects what is done for what ought to be done, sooner effects his ruin than his preservation; for a man who wishes to act entirely up to his professions of virtue soon meets with what destroys him among so much that is evil.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Plotters"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-07.html"
 ---
 
 All day long the two axes swung vigorously. Both Jeff and Tim were expert woodmen, and they felled pine after pine. Hardman pleaded that he was unaccustomed to such work; but Jeff grimly told him he could never have a better chance to learn to cut down trees, and compelled him to take his turn. The work was continued until dark, which, it will be remembered, comes much later in the far North than in our latitude.

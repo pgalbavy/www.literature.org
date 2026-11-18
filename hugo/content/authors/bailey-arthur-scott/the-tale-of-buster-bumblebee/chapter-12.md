@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Carpenter Bee"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-12.html"
 ---
 
 After Buster Bumblebee left the old house in the meadow, where Mrs. Field Mouse had once lived, he had no real home. Like that quarrelsome rascal, Peter Mink, he would crawl into any good place that he happened to find. Sometimes Buster chose a hole in a fence-rail, and sometimes a crack in the side of one of the farm-buildings. He really didn't much care where he spent the night, provided it was not too far from the flower garden or the clover field.

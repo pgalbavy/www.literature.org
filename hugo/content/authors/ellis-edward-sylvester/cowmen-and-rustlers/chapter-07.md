@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Warning"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-07.html"
 ---
 
 The full moon was shining on the second night succeeding the conflict which Budd Hankinson described between the rustlers and the cowmen of Whitney's ranch. The man that had fallen was laid away in a grave back of the house, and mother, son and daughter mourned him with a sorrow that was soothed by the consciousness that he had been a good husband and father in every sense of the word.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-09.html"
 ---
 
 Bombardment of Tripoli—Treacherous Act of a Turkish Captain —A Quick Retribution at the Hands of Captain Decatur.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/verne-jules/round-the-moon/chapter-05.html"
+url: "/authors/verne-jules/round-the-moon/chapter-05.html"
 ---
 
 This revelation came like a thunderbolt. Who could have expected such an error in calculation? Barbicane would not believe it. Nicholl revised his figures: they were exact. As to the formula which had determined them, they could not suspect its truth; it was evident that an initiatory velocity of seventeen thousand yards in the first second was necessary to enable them to reach the neutral point.

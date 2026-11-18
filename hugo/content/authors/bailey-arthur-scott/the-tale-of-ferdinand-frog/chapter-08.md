@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Missing Supper"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-08.html"
 ---
 
 Ferdinand Frog had begun to feel uneasy again. He was afraid that the singers had forgotten their promise to him. But at last they suddenly started a rousing song which made him take heart again.

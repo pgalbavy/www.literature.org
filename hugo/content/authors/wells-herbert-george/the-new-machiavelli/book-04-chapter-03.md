@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 3 - The Breaking Point"
 weight: 15
-aliases:
-  - "/authors/wells-herbert-george/the-new-machiavelli/book-04-chapter-03.html"
+url: "/authors/wells-herbert-george/the-new-machiavelli/book-04-chapter-03.html"
 ---
 
 1

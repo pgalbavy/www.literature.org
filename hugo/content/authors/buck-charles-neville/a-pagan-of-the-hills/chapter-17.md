@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-17.html"
+url: "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-17.html"
 ---
 
 The mail came irregularly to Shoulder-blade creek, but even irregular deliveries may bring bad news. Halloway received a letter, one day, containing a summons which he could not disregard. He had spoken contemptuously to Brent of money-grubbing, but his inflated wealth carried certain responsibilities which even he acknowledged.

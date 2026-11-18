@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Stuck In A Drift"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-14.html"
 ---
 
 Outside the barn, in the snow-covered farmyard, Johnnie Green mounted Twinkleheels and rode him beyond the gate, where he could watch the fun up the road.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - \u0026quot;The Lady Wants You, Sir.\u0026quot;"
 weight: 37
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-37.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-37.html"
 ---
 
 The pupils of the drawing-class put away their pencils and color-boxes in high good humor: the teacher's vigilant eye for faults had failed him for the first time in their experience. Not one of them had been reproved; they had chattered and giggled and drawn caricatures on the margin of the paper, as freely as if the master had left the room. Alban's wandering attention was indeed beyond the reach of control. His interview with Francine had doubled his sense of responsibility toward Emily--while he was further than ever from seeing how he could interfere, to any useful purpose, in his present position, and with his reasons for writing under reserve.

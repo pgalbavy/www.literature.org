@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 6 - The Shoemaker"
 weight: 6
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-01-chapter-06.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-01-chapter-06.html"
 ---
 
 "GOOD DAY!" said Monsieur Defarge, looking down at the white bead that bent low over the shoemaking.

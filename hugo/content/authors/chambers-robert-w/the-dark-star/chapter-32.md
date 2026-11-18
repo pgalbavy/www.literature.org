@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - The Cercle Extranationale"
 weight: 33
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-32.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-32.html"
 ---
 
 The suite of rooms into which they were ushered appeared to be furnished in irreproachable taste. Except for the *salon* at the further end of the suite, where play was in progress, the charming apartment might have been a private one; and the homelike simplicity of the room, where books, flowers, and even a big, grey cat confirmed the first agreeable impression, accented the lurking smile on Sengoun's lips.

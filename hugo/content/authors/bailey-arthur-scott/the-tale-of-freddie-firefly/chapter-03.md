@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Freddie Agrees To Help"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-03.html"
 ---
 
 Never in all his life had Freddie Firefly heard of a torchlight procession--nor of any other sort of procession, either. So when Chirpy Cricket first mentioned his plan it was no wonder that Freddie looked somewhat blank.

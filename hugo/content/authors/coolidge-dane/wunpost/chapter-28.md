@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Wunpost Has A Bad Dream"
 weight: 28
-aliases:
-  - "/authors/coolidge-dane/wunpost/chapter-28.html"
+url: "/authors/coolidge-dane/wunpost/chapter-28.html"
 ---
 
 It is dangerous to start rumors against even the soundest of banks, because our present-day finance is no more than a house of cards built precariously on Public Confidence. No bank can pay interest, or even do business, if it keeps all its money in the vaults; and yet in times of panic, if a run ever starts, every depositor comes clamoring for his money. Public confidence is shaken--and the house of cards falls, carrying with it the fortunes of all. The depositors lose their money, the bankers lose their money; and thousands of other people in nowise connected with it are ruined by the failure of one bank. Hence the committee of Blackwater citizens, with blood in their eye, which called on John C. Calhoun.

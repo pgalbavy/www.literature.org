@@ -1,8 +1,7 @@
 ---
 title: "Act 2"
 weight: 3
-aliases:
-  - "/authors/shaw-george-bernard/pygmalion/act-02.html"
+url: "/authors/shaw-george-bernard/pygmalion/act-02.html"
 ---
 
 Next day at 11 a.m. Higgins's laboratory in Wimpole Street. It is a room on the first floor, looking on the street, and was meant for the drawing-room. The double doors are in the middle of the back hall; and persons entering find in the corner to their right two tall file cabinets at right angles to one another against the walls. In this corner stands a flat writing-table, on which are a phonograph, a laryngoscope, a row of tiny organ pipes with a bellows, a set of lamp chimneys for singing flames with burners attached to a gas plug in the wall by an indiarubber tube, several tuning-forks of different sizes, a life-size image of half a human head, showing in section the vocal organs, and a box containing a supply of wax cylinders for the phonograph.

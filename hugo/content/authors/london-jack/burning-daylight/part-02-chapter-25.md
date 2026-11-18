@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 25"
 weight: 38
-aliases:
-  - "/authors/london-jack/burning-daylight/part-02-chapter-25.html"
+url: "/authors/london-jack/burning-daylight/part-02-chapter-25.html"
 ---
 
 Daylight had made no assertion of total abstinence though he had not taken a drink for months after the day he resolved to let his business go to smash. Soon he proved himself strong enough to dare to take a drink without taking a second. On the other hand, with his coming to live in the country, had passed all desire and need for drink. He felt no yearning for it, and even forgot that it existed. Yet he refused to be afraid of it, and in town, on occasion, when invited by the storekeeper, would reply: "All right, son. If my taking a drink will make you happy here goes. Whiskey for mine."

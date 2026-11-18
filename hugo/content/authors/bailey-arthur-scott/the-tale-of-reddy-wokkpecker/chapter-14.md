@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Mr. Crow’s Questions"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-14.html"
 ---
 
 If people snubbed Reddy Woodpecker he never cared. When the members of the Pleasant Valley Singing Society wouldn’t let him join them he only smiled and said he intended to form a club of his own.

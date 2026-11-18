@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Revelations"
 weight: 7
-aliases:
-  - "/authors/ostrander-isabel/anything-once/chapter-07.html"
+url: "/authors/ostrander-isabel/anything-once/chapter-07.html"
 ---
 
 The next morning was a trying one for them both. Jim felt dully that something was the matter, but the girl's manner baffled him, and he could not make up his mind as to whether she had glanced in the note-book or not. It did not seem like her to do so deliberately, but if she had he could only make things worse by broaching the subject, since he was not at the moment in a position to explain.

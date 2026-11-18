@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Benjamin Feels Guilty"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-19.html"
 ---
 
 Freddie Firefly and Benjamin Bat faced each other in Farmer Green's dark dooryard.

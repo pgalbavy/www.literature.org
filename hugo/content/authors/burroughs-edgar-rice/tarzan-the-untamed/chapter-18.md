@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Among The Maniacs"
 weight: 18
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-18.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-18.html"
 ---
 
 As the lions swarmed over her protectors, Bertha Kircher shrank back in the cave in a momentary paralysis of fright superinduced, perhaps, by the long days of ter- rific nerve strain which she had undergone.

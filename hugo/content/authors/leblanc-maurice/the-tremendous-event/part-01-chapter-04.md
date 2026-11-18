@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 4 - The Great Upheaval"
 weight: 5
-aliases:
-  - "/authors/leblanc-maurice/the-tremendous-event/part-01-chapter-04.html"
+url: "/authors/leblanc-maurice/the-tremendous-event/part-01-chapter-04.html"
 ---
 
 The next five days were of those whose memory oppresses a nation for countless generations. What with hurricanes, cyclones, floods, swollen rivers and tidal waves, the coasts of the Channel and in particular the parts about Fécamp, Dieppe and Le Tréport suffered the most infuriate assaults conceivable.

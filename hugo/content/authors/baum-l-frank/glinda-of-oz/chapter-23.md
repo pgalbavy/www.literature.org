@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 24
-aliases:
-  - "/authors/baum-l-frank/glinda-of-oz/chapter-23.html"
+url: "/authors/baum-l-frank/glinda-of-oz/chapter-23.html"
 ---
 
 Many interesting things were to be seen in the Room of Magic, including much that had been stolen from the Adepts when they were transformed to fishes, but they had to admit that Coo-ee-oh had a rare genius for mechanics, and had used her knowledge in inventing a lot of mechanical apparatus that ordinary witches, wizards and sorcerers could not understand.

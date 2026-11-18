@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Helping Jimmy Rabbit"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-09.html"
 ---
 
 Peter Mink was feeling even more peevish than usual. And this was the reason: Jimmy Rabbit had a new sled.

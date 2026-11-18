@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/tarkington-booth/the-beautiful-lady/chapter-04.html"
+url: "/authors/tarkington-booth/the-beautiful-lady/chapter-04.html"
 ---
 
 It is with the most extreme mortification that I record my ensuing experiences, for I felt that I could not honourably accept my salary without earning it by carrying out the parent Poor's wishes. That first morning I endeavoured to direct my pupil's steps toward the Musee de Cluny, with the purpose of inciting him to instructive study; but in the mildest, yet most immovable manner, he proposed Longchamps and the races as a substitute, to conclude with dinner at La Cascade and supper at Maxim's or the Cafe' Blanche, in case we should meet engaging company. I ventured the vainest efforts to reason with him, making for myself a very uncomfortable breakfast, though without effect upon him of any visibility. His air was uninterruptedly mild and modest; he rarely lifted his eyes, but to my most earnest argument replied only by ordering more eggs and saying in a chastened voice:

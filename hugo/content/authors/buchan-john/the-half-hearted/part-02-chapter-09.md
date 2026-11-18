@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 9 - The Hill-Fort"
 weight: 28
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-02-chapter-09.html"
+url: "/authors/buchan-john/the-half-hearted/part-02-chapter-09.html"
 ---
 
 Lewis got to his feet and blinked at the morning sun across the yard.

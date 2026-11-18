@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-22.html"
 ---
 
 There was not a doubt in the mind of Miss Starland when she read the few pencilled lines handed to her by the deserter. She was too familiar with the handwriting to be mistaken. She passed the paper to her companion.

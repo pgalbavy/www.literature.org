@@ -1,8 +1,7 @@
 ---
 title: "Chapter 49 - Misfortune Refreshes The Memory"
 weight: 49
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-49.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-49.html"
 ---
 
 Anne of Austria returned to her oratory, furious.

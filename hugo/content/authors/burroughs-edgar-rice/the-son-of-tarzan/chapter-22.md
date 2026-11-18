@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-22.html"
+url: "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-22.html"
 ---
 
 As Meriem struggled with Malbihn, her hands pinioned to her sides by his brawny grip, hope died within her. She did not utter a sound for she knew that there was none to come to her assistance, and, too, the jungle training of her earlier life had taught her the futility of appeals for succor in the savage world of her up-bringing.

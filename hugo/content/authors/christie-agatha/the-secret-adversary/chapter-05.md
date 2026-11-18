@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Mr. Julius P. Hersheimmer"
 weight: 6
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/chapter-05.html"
+url: "/authors/christie-agatha/the-secret-adversary/chapter-05.html"
 ---
 
 "*WELL,"* said Tuppence, recovering herself, "it really seems as though it were meant to be."

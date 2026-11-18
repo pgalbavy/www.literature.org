@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 18"
 weight: 18
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-18.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-18.html"
 ---
 
 Till Elizabeth entered the drawing-room at Netherfield and looked in vain for Mr. Wickham among the cluster of red coats there assembled, a doubt of his being present had never occurred to her. The certainty of meeting him had not been checked by any of those recollections that might not unreasonably have alarmed her. She had dressed with more than usual care, and prepared in the highest spirits for the conquest of all that remained unsubdued of his heart, trusting that it was not more than might be won in the course of the evening. But in an instant arose the dreadful suspicion of his being purposely omitted for Mr. Darcy's pleasure in the Bingleys' invitation to the officers; and though this was not exactly the case, the absolute fact of his absence was pronounced by his friend Mr. Denny, to whom Lydia eagerly applied, and who told them that Wickham had been obliged to go to town on business the day before, and was not yet returned; adding, with a significant smile,

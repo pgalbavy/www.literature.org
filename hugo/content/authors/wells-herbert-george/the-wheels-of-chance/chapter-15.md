@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - An Interlude"
 weight: 15
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-15.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-15.html"
 ---
 
 And now let us for a space leave Mr. Hoopdriver in the dusky Midhurst North Street, and return to the two folks beside the railway bridge between Milford and Haslemere. She was a girl of eighteen, dark, fine featured, with bright eyes, and a rich, swift colour under her warm-tinted skin. Her eyes were all the brighter for the tears that swam in them. The man was thirty three or four, fair, with a longish nose overhanging his sandy flaxen moustache, pale blue eyes, and a head that struck out above and behind. He stood with his feet wide apart, his hand on his hip, in an attitude that was equally suggestive of defiance and aggression. They had watched Hoopdriver out of sight. The unexpected interruption had stopped the flood of her tears. He tugged his abundant moustache and regarded her calmly. She stood with face averted, obstinately resolved not to speak first. "Your behaviour," he said at last, "makes you conspicuous."

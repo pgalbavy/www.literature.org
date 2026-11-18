@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Joan And The Child"
 weight: 6
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-06.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-06.html"
 ---
 
 To the young curate's great wonder, on his first visit to her after the advent of Liz and her child, Joan changed her manner towards him. She did not attempt to repel him, she even bade him welcome in a way of her own. Deep in Joan's heart was hidden a fancy that perhaps the work of this young fellow who was “good enow fur a parson,” lay with such as Liz, and those who like Liz bore a heavy burden.

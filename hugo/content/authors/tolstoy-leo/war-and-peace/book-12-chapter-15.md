@@ -1,8 +1,7 @@
 ---
 title: "Book 12 - Chapter 15"
 weight: 278
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-12-chapter-15.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-12-chapter-15.html"
 ---
 
 When Natasha opened Prince Andrew's door with a familiar movement and let Princess Mary pass into the room before her, the princess felt the sobs in her throat. Hard as she had tried to prepare herself, and now tried to remain tranquil, she knew that she would be unable to look at him without tears.

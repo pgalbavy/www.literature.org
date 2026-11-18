@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - At Dawson City"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-12.html"
 ---
 
 Naturally the route over which the little party of gold-seekers were journeying steadily improved. The Yukon, like many other great rivers of the world, comes into being a lusty, vigorous infant, the junction of the Lewis and Pelly making it a stream of considerable proportions from the moment it takes its name.

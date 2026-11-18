@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 6"
 weight: 29
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-06.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-06.html"
 ---
 
 Mr. Collins's triumph in consequence of this invitation was complete. The power of displaying the grandeur of his patroness to his wondering visitors, and of letting them see her civility towards himself and his wife, was exactly what he had wished for; and that an opportunity of doing it should be given so soon, was such an instance of Lady Catherine's condescension as he knew not how to admire enough.

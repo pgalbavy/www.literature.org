@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 4"
 weight: 41
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-04-chapter-04.html"
+url: "/authors/cather-willa/song-of-the-lark/part-04-chapter-04.html"
 ---
 
 THEA had a superstitious feeling about the potsherds, and liked better to leave them in the dwellings where she found them. If she took a few bits back to her own lodge and hid them under the blankets, she did it guiltily, as if she were being watched. She was a guest in these houses, and ought to behave as such. Nearly every afternoon she went to the chambers which contained the most interesting fragments of pottery, sat and looked at them for a while. Some of them were beautifully decorated. This care, expended upon vessels that could not hold food or water any better for the additional labor put upon them, made her heart go out to those ancient potters. They had not only expressed their desire, but they had expressed it as beautifully as they could. Food, fire, water, and something else--even here, in this crack in the world, so far back in the night of the past! Down here at the beginning that painful thing was already stirring; the seed of sorrow, and of so much delight.

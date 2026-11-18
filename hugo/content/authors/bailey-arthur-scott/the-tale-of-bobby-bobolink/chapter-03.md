@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Greetings"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-03.html"
 ---
 
 AS fast as they could fly, old Mr. Crow and Mr. Red-winged Blackbird hurried over to the meadow, where they had heard Bobby Bobolink's bubbling notes.

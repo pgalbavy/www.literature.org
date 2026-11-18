@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 23
-aliases:
-  - "/authors/bronte-charlotte/jane-eyre/chapter-22.html"
+url: "/authors/bronte-charlotte/jane-eyre/chapter-22.html"
 ---
 
 Mr. Rochester had given me but one week's leave of absence: yet a month elapsed before I quitted Gateshead. I wished to leave immediately after the funeral, but Georgiana entreated me to stay till she could get off to London, whither she was now at last invited by her uncle, Mr. Gibson, who had come down to direct his sister's interment and settle the family affairs. Georgiana said she dreaded being left alone with Eliza; from her she got neither sympathy in her dejection, support in her fears, nor aid in her preparations; so I bore with her feeble-minded wailings and selfish lamentations as well as I could, and did my best in sewing for her and packing her dresses. It is true, that while I worked, she would idle; and I thought to myself, "If you and I were destined to live always together, cousin, we would commence matters on a different footing. I should not settle tamely down into being the forbearing party; I should assign you your share of labour, and compel you to accomplish it, or else it should be left undone: I should insist, also, on your keeping some of those drawling, half-insincere complaints hushed in your own breast. It is only because our connection happens to be very transitory, and comes at a peculiarly mournful season, that I consent thus to render it so patient and compliant on my part."

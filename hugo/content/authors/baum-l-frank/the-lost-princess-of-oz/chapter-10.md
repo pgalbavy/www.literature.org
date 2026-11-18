@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-10.html"
+url: "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-10.html"
 ---
 
 For a while the travelers were constantly losing their direction, for beyond the thistle fields they again found themselves upon the turning-lands, which swung them around one way and then another. But by keeping the City of Thi constantly behind them, the adventurers finally passed the treacherous turning-lands and came upon a stony country where no grass grew at all. There were plenty of bushes, however, and although it was now almost dark, the girls discovered some delicious yellow berries growing upon the bushes, one taste of which set them all to picking as many as they could find. The berries relieved their pangs of hunger for a time, and as it now became too dark to see anything, they camped where they were.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 1"
 weight: 1
-aliases:
-  - "/authors/london-jack/burning-daylight/part-01-chapter-01.html"
+url: "/authors/london-jack/burning-daylight/part-01-chapter-01.html"
 ---
 
 It was a quiet night in the Shovel. At the bar, which ranged along one side of the large chinked-log room, leaned half a dozen men, two of whom were discussing the relative merits of spruce-tea and lime-juice as remedies for scurvy. They argued with an air of depression and with intervals of morose silence. The other men scarcely heeded them. In a row, against the opposite wall, were the gambling games. The crap-table was deserted. One lone man was playing at the faro-table. The roulette-ball was not even spinning, and the gamekeeper stood by the roaring, red-hot stove, talking with the young, dark-eyed woman, comely of face and figure, who was known from Juneau to Fort Yukon as the Virgin. Three men sat in at stud-poker, but they played with small chips and without enthusiasm, while there were no onlookers. On the floor of the dancing-room, which opened out at the rear, three couples were waltzing drearily to the strains of a violin and a piano.

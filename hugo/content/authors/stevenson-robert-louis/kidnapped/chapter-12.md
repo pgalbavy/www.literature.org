@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - I Hear Of The “Red Fox”"
 weight: 13
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-12.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-12.html"
 ---
 
 Before we had done cleaning out the round-house, a breeze sprang up from a little to the east of north. This blew off the rain and brought out the sun.

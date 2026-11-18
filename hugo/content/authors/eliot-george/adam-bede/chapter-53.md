@@ -1,8 +1,7 @@
 ---
 title: "Chapter 53 - The Harvest Supper"
 weight: 53
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-53.html"
+url: "/authors/eliot-george/adam-bede/chapter-53.html"
 ---
 
 As Adam was going homeward, on Wednesday evening, in the six o'clock sunlight, he saw in the distance the last load of barley winding its way towards the yard-gate of the Hall Farm, and heard the chant of "Harvest Home!" rising and sinking like a wave. Fainter and fainter, and more musical through the growing distance, the falling dying sound still reached him, as he neared the Willow Brook. The low westering sun shone right on the shoulders of the old Binton Hills, turning the unconscious sheep into bright spots of light; shone on the windows of the cottage too, and made them a-flame with a glory beyond that of amber or amethyst. It was enough to make Adam feel that he was in a great temple, and that the distant chant was a sacred song.

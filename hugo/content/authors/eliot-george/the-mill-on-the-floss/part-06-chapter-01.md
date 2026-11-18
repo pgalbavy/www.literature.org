@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 1 - A Duet In Paradise"
 weight: 40
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-06-chapter-01.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-06-chapter-01.html"
 ---
 
 The well-furnished drawing-room, with the open grand piano, and the pleasant outlook down a sloping garden to a boat-house by the side of the Floss, is Mr. Deane's. The neat little lady in mourning, whose light-brown ringlets are falling over the colored embroidery with which her fingers are busy, is of course Lucy Deane; and the fine young man who is leaning down from his chair to snap the scissors in the extremely abbreviated face of the "King Charles" lying on the young lady's feet is no other than Mr. Stephen Guest, whose diamond ring, attar of roses, and air of nonchalant leisure, at twelve o'clock in the day, are the graceful and odoriferous result of the largest oil-mill and the most extensive wharf in St. Ogg's. There is an apparent triviality in the action with the scissors, but your discernment perceives at once that there is a design in it which makes it eminently worthy of a large-headed, long-limbed young man; for you see that Lucy wants the scissors, and is compelled, reluctant as she may be, to shake her ringlets back, raise her soft hazel eyes, smile playfully down on the face that is so very nearly on a level with her knee, and holding out her little shell-pink palm, to say, -

@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 41"
 weight: 358
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-41.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-41.html"
 ---
 
 The life of the nations is not contained in the lives of a few men, for the connection between those men and the nations has not been found. The theory that this connection is based on the transference of the collective will of a people to certain historical personages is an hypothesis unconfirmed by the experience of history.

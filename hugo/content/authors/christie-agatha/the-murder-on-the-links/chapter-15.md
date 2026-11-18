@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Photograph"
 weight: 15
-aliases:
-  - "/authors/christie-agatha/the-murder-on-the-links/chapter-15.html"
+url: "/authors/christie-agatha/the-murder-on-the-links/chapter-15.html"
 ---
 
 The doctor’s words were so surprising that we were all momentarily taken aback. Here was a man stabbed with a dagger which we knew to have been stolen only twenty-four hours previously, and yet Dr. Durand asserted positively that he had been dead at least forty-eight hours! The whole thing was fantastic to the last extreme.

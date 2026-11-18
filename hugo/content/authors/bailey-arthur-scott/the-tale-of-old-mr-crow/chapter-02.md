@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Something Lost"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-02.html"
 ---
 
 It may seem a strange thing for old Mr. Crow to have had no other name--such as John, or James, or Josephus. But that was the way he preferred it to be. Indeed, his parents had given him another name, years before. But Mr. Crow did not like it. And after he grew up he dropped the name. To tell the truth, the reason for his coming to Pleasant Valley, in the beginning, was because no one knew him there. And though his new friends thought it odd that he should be called simply "Mr. Crow," he was satisfied.

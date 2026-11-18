@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/baum-l-frank/rinkitink-in-oz/chapter-06.html"
+url: "/authors/baum-l-frank/rinkitink-in-oz/chapter-06.html"
 ---
 
 Prince Inga was up with the sun and, accompanied by Bilbil, began walking along the shore in search of the boat which the White Pearl had promised him. Never for an instant did he doubt that he would find it and before he had walked any great distance a dark object at the water's edge caught his eye.

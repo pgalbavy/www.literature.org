@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Phantom Of The River"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-21.html"
 ---
 
 The reader has long since penetrated the cause of the panic into which Simon Kenton was thrown—a panic as wild, as unreasonable and uncontrollable as that of the single Shawanoe, some time before, when he plunged into the forest and fled as if from the pursuit of the evil one himself.

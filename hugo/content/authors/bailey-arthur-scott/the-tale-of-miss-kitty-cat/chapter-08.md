@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Nine Lives"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-08.html"
 ---
 
 FRISKY SQUIRREL was much more at home in the trees than Miss Kitty Cat was. While Frisky managed at last to cling to a limb and right himself, Miss Kitty lost her footing and fell out of the tree completely.

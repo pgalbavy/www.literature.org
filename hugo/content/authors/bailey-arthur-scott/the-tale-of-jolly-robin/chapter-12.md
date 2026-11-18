@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Jolly Feels Better"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-12.html"
 ---
 
 Jolly Robin awoke at dawn. And he knew at once that the day was going to be a fine one. Though the sun had not yet peeped above the rim of the eastern hills, Jolly Robin was sure that there would be plenty of sunshine a little later. He had many ways of his own for telling the weather; and he never made a mistake about it.

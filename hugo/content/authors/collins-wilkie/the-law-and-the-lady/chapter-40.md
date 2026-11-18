@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40 - Nemesis At Last"
 weight: 40
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-40.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-40.html"
 ---
 
 THE gardener opened the gate to us on this occasion. He had evidently received his orders in anticipation of my arrival.

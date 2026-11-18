@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Tinkle Does Some Tricks"
 weight: 7
-aliases:
-  - "/authors/barnum-richard/tinkle-the-trick-pony/chapter-07.html"
+url: "/authors/barnum-richard/tinkle-the-trick-pony/chapter-07.html"
 ---
 
 For a few seconds Tinkle stood looking at Dido, the dancing bear, not knowing what to do or say. Some ponies would have been afraid of a bear. They would have snorted, stood on their hind legs, and maybe have run away. But Tinkle had never seen a bear before, no one had ever told him about them, and he really did not know enough to be afraid. Besides, Dido seemed such a funny, good-natured and happy bear that I believe no one would have been afraid of him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The House In The Meadow"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-08.html"
 ---
 
 BOBBY BOBOLINK and his wife had talked a good deal about the home they were going to have.

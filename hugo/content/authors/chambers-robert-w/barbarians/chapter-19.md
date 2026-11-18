@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Honour"
 weight: 19
-aliases:
-  - "/authors/chambers-robert-w/barbarians/chapter-19.html"
+url: "/authors/chambers-robert-w/barbarians/chapter-19.html"
 ---
 
 For a moment the airman stood watching and listening. The whir of the receding car died away in the night.

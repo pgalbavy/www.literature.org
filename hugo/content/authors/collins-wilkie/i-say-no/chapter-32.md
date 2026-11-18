@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - In The Gray Room"
 weight: 32
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-32.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-32.html"
 ---
 
 The house inhabited by Miss Ladd and her pupils had been built, in the early part of the present century, by a wealthy merchant--proud of his money, and eager to distinguish himself as the owner of the largest country seat in the neighborhood.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Humpty Dumpty"
 weight: 6
-aliases:
-  - "/authors/carroll-lewis/through-the-looking-glass/chapter-06.html"
+url: "/authors/carroll-lewis/through-the-looking-glass/chapter-06.html"
 ---
 
 However, the egg only got larger and larger, and more and more human: when she had come within a few yards of it, she saw that it had eyes and a nose and mouth; and when she had come close to it, she saw clearly that it was HUMPTY DUMPTY himself. 'It can't be anybody else!' she said to herself. 'I'm as certain of it, as if his name were written all over his face.'

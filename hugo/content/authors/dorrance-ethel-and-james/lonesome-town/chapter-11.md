@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Due East"
 weight: 11
-aliases:
-  - "/authors/dorrance-ethel-and-james/lonesome-town/chapter-11.html"
+url: "/authors/dorrance-ethel-and-james/lonesome-town/chapter-11.html"
 ---
 
 The greatest of parks has its bright sides, many-faceted as the Kohinoor, croquet grounds for the old, benches for the parlorless tenement young, shaded arbors for the love possessed, pagodas for picknickers, May poles for the youngsters, roller-skating on the Mall, rowing on the lakes. Just as a jewel catches the light from only one direction at a time, however, this emerald of the city has also its shadows.

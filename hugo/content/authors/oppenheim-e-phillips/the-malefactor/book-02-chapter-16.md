@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 16 - For Pity's Sake"
 weight: 32
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-16.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-16.html"
 ---
 
 The library at Tredowen was a room of irregular shape, full of angles and recesses lined with bookcases. It was in one of these, standing motionless before a small marble statue of some forgotten Greek poet, that Wingrave found his visitor. She wore a plain serge traveling dress, and the pallor of her face, from which she had just lifted a voluminous veil, matched almost in color the gleaming white marble upon which she was gazing. But when she saw Wingrave, leaning upon his stick, and regarding her with stern surprise, strange lights seemed to flash in her eyes. There was no longer any resemblance between the pallor of her cheeks and the pallor of the statue.

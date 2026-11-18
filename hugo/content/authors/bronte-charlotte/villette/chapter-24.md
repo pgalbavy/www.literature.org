@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - M. De Bassompierre"
 weight: 24
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-24.html"
+url: "/authors/bronte-charlotte/villette/chapter-24.html"
 ---
 
 Those who live in retirement, whose lives have fallen amid the seclusion of schools or of other walled-in and guarded dwellings, are liable to be suddenly and for a long while dropped out of the memory of their friends, the denizens of a freer world. Unaccountably, perhaps, and close upon some space of unusually frequent intercourse - some congeries of rather exciting little circumstances, whose natural sequel would rather seem to be the quickening than the suspension of communication - there falls a stilly pause, a wordless silence, a long blank of oblivion. Unbroken always is this blank; alike entire and unexplained. The letter, the message once frequent, are cut off; the visit, formerly periodical, ceases to occur; the book, paper, or other token that indicated remembrance, comes no more.

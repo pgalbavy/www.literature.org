@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/conrad-joseph/typhoon/chapter-03.html"
+url: "/authors/conrad-joseph/typhoon/chapter-03.html"
 ---
 
 Jukes was as ready a man as any half-dozen young mates that may be caught by casting a net upon the waters; and though he had been somewhat taken aback by the startling viciousness of the first squall, he had pulled himself together on the instant, had called out the hands and had rushed them along to secure such openings about the deck as had not been already battened down earlier in the evening. Shouting in his fresh, stentorian voice, "Jump, boys, and bear a hand!" he led in the work, telling himself the while that he had "just expected this."

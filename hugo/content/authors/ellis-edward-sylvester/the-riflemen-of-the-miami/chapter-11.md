@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - At Bay"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/the-riflemen-of-the-miami/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/the-riflemen-of-the-miami/chapter-11.html"
 ---
 
 Like lightning from storm-clouds on high,  

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Mutineers"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-10.html"
 ---
 
 A few degrees south of the equator, the schooner *Coral* ran into a tempest of such fury that with all the skilful seamanship of her captain and crew, and the admirable qualities of the schooner itself, she narrowly escaped foundering.

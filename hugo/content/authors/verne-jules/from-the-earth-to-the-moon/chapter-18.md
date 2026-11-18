@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/verne-jules/from-the-earth-to-the-moon/chapter-18.html"
+url: "/authors/verne-jules/from-the-earth-to-the-moon/chapter-18.html"
 ---
 
 If this astounding news, instead of flying through the electric wires, had simply arrived by post in the ordinary sealed envelope, Barbicane would not have hesitated a moment. He would have held his tongue about it, both as a measure of prudence, and in order not to have to reconsider his plans. This telegram might be a cover for some jest, especially as it came from a Frenchman. What human being would ever have conceived the idea of such a journey? and, if such a person really existed, he must be an idiot, whom one would shut up in a lunatic ward, rather than within the walls of the projectile.

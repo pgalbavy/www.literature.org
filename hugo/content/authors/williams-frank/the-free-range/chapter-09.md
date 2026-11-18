@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Man In The Mask"
 weight: 9
-aliases:
-  - "/authors/williams-frank/the-free-range/chapter-09.html"
+url: "/authors/williams-frank/the-free-range/chapter-09.html"
 ---
 
 As Bud Larkin jogged along on Pinte, apparently one of the group of men with whom he was riding, he wondered mechanically why his captors insisted on traveling ten miles to a tree sufficiently stout to bear his weight.

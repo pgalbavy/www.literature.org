@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Leslie Returns"
 weight: 33
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-33.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-33.html"
 ---
 
 A fortnight later Leslie Moore came home alone to the old house where she had spent so many bitter years. In the June twilight she went over the fields to Anne's, and appeared with ghost-like suddenness in the scented garden.

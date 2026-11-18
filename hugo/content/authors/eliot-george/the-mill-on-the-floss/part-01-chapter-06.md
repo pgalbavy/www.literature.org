@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 6 - The Aunts And Uncles Are Coming"
 weight: 6
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-01-chapter-06.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-01-chapter-06.html"
 ---
 
 It was Easter week, and Mrs. Tulliver's cheesecakes were more exquisitely light than usual. "A puff o' wind 'ud make 'em blow about like feathers," Kezia the housemaid said, feeling proud to live under a mistress who could make such pastry; so that no season or circumstances could have been more propitious for a family party, even if it had not been advisable to consult sister Glegg and sister Pullet about Tom's going to school.

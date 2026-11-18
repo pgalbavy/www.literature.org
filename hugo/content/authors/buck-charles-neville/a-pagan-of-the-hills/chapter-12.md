@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-12.html"
+url: "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-12.html"
 ---
 
 Time had hung heavy on Jack Halloway's hands after he had heard Brent announce his departure. The chair scraped on the floor, had been his only assurance that the other had understood him and that might, within possibility, have been a coincidence. Still Brent's promptness in cutting him off on the arrival of the operator had seemed a hopeful sign indicating team-work.

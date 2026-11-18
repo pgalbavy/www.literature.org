@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/conrad-joseph/end-of-the-tether/chapter-03.html"
+url: "/authors/conrad-joseph/end-of-the-tether/chapter-03.html"
 ---
 
 Just at that time the Japanese were casting far and wide for ships of European build, and he had no difficulty in finding a purchaser, a speculator who drove a hard bargain, but paid cash down for the Fair Maid, with a view to a profitable resale. Thus it came about that Captain Whalley found himself on a certain afternoon descending the steps of one of the most important post-offices of the East with a slip of bluish paper in his hand. This was the receipt of a registered letter enclosing a draft for two hundred pounds, and addressed to Melbourne. Captain Whalley pushed the paper into his waistcoat-pocket, took his stick from under his arm, and walked down the street.

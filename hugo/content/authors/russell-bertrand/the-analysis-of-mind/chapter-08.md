@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Sensations And Images"
 weight: 9
-aliases:
-  - "/authors/russell-bertrand/the-analysis-of-mind/chapter-08.html"
+url: "/authors/russell-bertrand/the-analysis-of-mind/chapter-08.html"
 ---
 
 The dualism of mind and matter, if we have been right so far, cannot be allowed as metaphysically valid. Nevertheless, we seem to find a certain dualism, perhaps not ultimate, within the world as we observe it. The dualism is not primarily as to the stuff of the world, but as to causal laws. On this subject we may again quote William James. He points out that when, as we say, we merely "imagine" things, there are no such effects as would ensue if the things were what we call "real." He takes the case of imagining a fire.

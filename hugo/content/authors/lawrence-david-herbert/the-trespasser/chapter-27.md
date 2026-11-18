@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-27.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-27.html"
 ---
 
 He hurried down the platform, wincing at every stride, from the memory of Helena's last look of mute, heavy yearning. He gripped his fists till they trembled; his thumbs were again closed under his fingers. Like a picture on a cloth before him he still saw Helena's face, white, rounded, in feature quite mute and expressionless, just made terrible by the heavy eyes, pleading dumbly. He thought of her going on and on, still at the carriage window looking out; all through the night rushing west and west to the land of Isolde. Things began to haunt Siegmund like a delirium. He knew not where he was hurrying. Always in front of him, as on a cloth, was the face of Helena, while somewhere behind the cloth was Cornwall, a far-off lonely place where darkness came on intensely. Sometimes he saw a dim, small phantom in the darkness of Cornwall, very far off. Then the face of Helena, white, inanimate as a mask, with heavy eyes, came between again.

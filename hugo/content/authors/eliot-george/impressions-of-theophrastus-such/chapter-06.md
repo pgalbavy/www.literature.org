@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Only Temper"
 weight: 6
-aliases:
-  - "/authors/eliot-george/impressions-of-theophrastus-such/chapter-06.html"
+url: "/authors/eliot-george/impressions-of-theophrastus-such/chapter-06.html"
 ---
 
 What is temper? Its primary meaning, the proportion and mode in which qualities are mingled, is much neglected in popular speech, yet even here the word often carries a reference to an habitual state or general tendency of the organism in distinction from what are held to be specific virtues and vices. As people confess to bad memory without expecting to sink in mental reputation, so we hear a man declared to have a bad temper and yet glorified as the possessor of every high quality. When he errs or in any way commits himself, his temper is accused, not his character, and it is understood that but for a brutal bearish mood he is kindness itself. If he kicks small animals, swears violently at a servant who mistakes orders, or is grossly rude to his wife, it is remarked apologetically that these things mean nothing - they are all temper.

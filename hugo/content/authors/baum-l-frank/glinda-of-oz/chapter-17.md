@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/baum-l-frank/glinda-of-oz/chapter-17.html"
+url: "/authors/baum-l-frank/glinda-of-oz/chapter-17.html"
 ---
 
 When Glinda the Good and her followers of the Rescue Expedition came in sight of the Enchanted Mountain of the Flatheads, it was away to the left of them, for the route they had taken through the Great Forest was some distance from that followed by Ozma and Dorothy.

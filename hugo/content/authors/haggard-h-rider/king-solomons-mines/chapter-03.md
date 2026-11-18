@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Umbopa Enters Our Service"
 weight: 4
-aliases:
-  - "/authors/haggard-h-rider/king-solomons-mines/chapter-03.html"
+url: "/authors/haggard-h-rider/king-solomons-mines/chapter-03.html"
 ---
 
 It takes from four to five days, according to the speed of the vessel and the state of the weather, to run up from the Cape to Durban. Sometimes, if the landing is bad at East London, where they have not yet made that wonderful harbour they talk so much of, and sink such a mint of money in, a ship is delayed for twenty-four hours before the cargo boats can get out to take off the goods. But on this occasion we had not to wait at all, for there were no breakers on the Bar to speak of, and the tugs came out at once with the long strings of ugly flat-bottomed boats behind them, into which the packages were bundled with a crash. It did not matter what they might be, over they went slap-bang; whether they contained china or woollen goods they met with the same treatment. I saw one case holding four dozen of champagne smashed all to bits, and there was the champagne fizzing and boiling about in the bottom of the dirty cargo boat. It was a wicked waste, and evidently so the Kafirs in the boat thought, for they found a couple of unbroken bottles, and knocking off the necks drank the contents. But they had not allowed for the expansion caused by the fizz in the wine, and, feeling themselves swelling, rolled about in the bottom of the boat, calling out that the good liquor was "tagati"--that is, bewitched. I spoke to them from the vessel, and told them it was the white man's strongest medicine, and that they were as good as dead men. Those Kafirs went to the shore in a very great fright, and I do not think that they will touch champagne again.

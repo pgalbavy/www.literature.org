@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Sight Which I Shall Never Forget"
 weight: 13
-aliases:
-  - "/authors/doyle-arthur-conan/the-lost-world/chapter-13.html"
+url: "/authors/doyle-arthur-conan/the-lost-world/chapter-13.html"
 ---
 
 Just as the sun was setting upon that melancholy night I saw the lonely figure of the Indian upon the vast plain beneath me, and I watched him, our one faint hope of salvation, until he disappeared in the rising mists of evening which lay, rose-tinted from the setting sun, between the far-off river and me.

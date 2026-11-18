@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/hodgson-burnett-frances/the-good-wolf/chapter-01.html"
+url: "/authors/hodgson-burnett-frances/the-good-wolf/chapter-01.html"
 ---
 
 THERE was once a fat little, nice little, round little boy and his name was Tim. As soon as people looked at him they began to laugh and he began to laugh too. He had dimples on his knees and dimples on his hands and dimples all round his mouth. That was because Fairies liked him and used to kiss him whenever they flew past him, and they kissed him so much that they made dimples. He had a lot of curly hair which made a lovely mop. In fact he was lovesome all over and no one ever denied it. But when he played about and he never stopped playing the wind blew his curly mop into tangles, and when he stood on his head on his bed or the grass or the nursery floor, that rubbed it into tangles; and when he was asleep and cuddled down into his pillows and dreamed delightful things, that ruffled it into tangles. So after he was dressed in the morning his mamma was obliged to brush them all out and comb out all the knots and make him look soft and fluffy and lovesome for the rest of the day. Now of course this might have been very horrid for both of them. He might have wriggled and cried and she might have pulled hard and scolded. But nothing of the sort happened because they were both nice people. He was a nice people and she was a nice people. So she used to sit down on a chair by a window which looked right into a big maple tree where birds lived, and Tim used to turn his back and stand leaning his fat little warm body against her knee and then she would comb and brush, and while she did she told him the Hair Curling Stories. This was one of them and it was called:

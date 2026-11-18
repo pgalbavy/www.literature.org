@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 11 - Barbara Releases A Conspirator"
 weight: 29
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-11.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-11.html"
 ---
 
 IT was a week later, yet Grayson still was growling about the loss of “that there Brazos pony.” Grayson, the boss, and the boss's daughter were sitting upon the veranda of the ranchhouse when the foreman reverted to the subject.

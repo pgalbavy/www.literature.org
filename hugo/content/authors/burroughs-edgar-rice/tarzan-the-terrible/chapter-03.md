@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Pan-At-Lee"
 weight: 3
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-03.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-03.html"
 ---
 
 Night had fallen upon unchartered Pal-ul-don. A slender moon, low in the west, bathed the white faces of the chalk cliffs presented to her, in a mellow, unearthly glow. Black were the shadows in Kor-ul-JA, Gorge-of-lions, where dwelt the tribe of the same name under Es-sat, their chief. From an aperture near the summit of the lofty escarpment a hairy figure emerged--the head and shoulders first--and fierce eyes scanned the cliff side in every direction.

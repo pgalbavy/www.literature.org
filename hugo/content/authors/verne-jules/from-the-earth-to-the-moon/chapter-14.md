@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/verne-jules/from-the-earth-to-the-moon/chapter-14.html"
+url: "/authors/verne-jules/from-the-earth-to-the-moon/chapter-14.html"
 ---
 
 The same evening Barbicane and his companions returned to Tampa Town; and Murchison, the engineer, re-embarked on board the Tampico for New Orleans. His object was to enlist an army of workmen, and to collect together the greater part of the materials. The members of the Gun Club remained at Tampa Town, for the purpose of setting on foot the preliminary works by the aid of the people of the country.

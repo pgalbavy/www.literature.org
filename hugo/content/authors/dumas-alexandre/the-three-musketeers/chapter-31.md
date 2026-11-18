@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - English And French"
 weight: 32
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-31.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-31.html"
 ---
 
 The hour having come, they went with their four lackeys to a spot behind the Luxembourg given up to the feeding of goats. Athos threw a piece of money to the goalkeeper to withdraw. The lackeys were ordered to act as sentinels.

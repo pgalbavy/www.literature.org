@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Changing The Record"
 weight: 2
-aliases:
-  - "/authors/greene-homer/the-riverpark-rebellion/chapter-02.html"
+url: "/authors/greene-homer/the-riverpark-rebellion/chapter-02.html"
 ---
 
 The fight was fierce but short.

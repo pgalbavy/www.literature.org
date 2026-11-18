@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-07.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-07.html"
 ---
 
 After this whirlwind Mr. Hoopdriver paid his reckoning and--being now a little rested about the muscles of the knees--resumed his saddle and rode on in the direction of Ripley, along an excellent but undulating road. He was pleased to find his command over his machine already sensibly increased. He set himself little exercises as he went along and performed them with variable success. There was, for instance, steering in between a couple of stones, say a foot apart, a deed of little difficulty as far as the front wheel is concerned. But the back wheel, not being under the sway of the human eye, is apt to take a vicious jump over the obstacle, which sends a violent concussion all along the spine to the skull, and will even jerk a loosely fastened hat over the eyes, and so lead to much confusion. And again, there was taking the hand or hands off the handlebar, a thing simple in itself, but complex in its consequences. This particularly was a feat Mr. Hoopdriver desired to do, for several divergent reasons; but at present it simply led to convulsive balancings and novel and inelegant modes of dismounting.

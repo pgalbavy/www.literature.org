@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 3 - Before The Firing Squad"
 weight: 15
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-03.html"
+url: "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-03.html"
 ---
 
 They marched Barney before the staff where he urged his American nationality, pointing to his credentials and passes in support of his contention.

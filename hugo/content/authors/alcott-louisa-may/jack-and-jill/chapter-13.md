@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Jack Has A Mystery"
 weight: 14
-aliases:
-  - "/authors/alcott-louisa-may/jack-and-jill/chapter-13.html"
+url: "/authors/alcott-louisa-may/jack-and-jill/chapter-13.html"
 ---
 
 "What is the matter? Does your head ache?" asked Jill, one evening in March, observing that Jack sat with his head in his hands, an attitude which, with him, meant either pain or perplexity.

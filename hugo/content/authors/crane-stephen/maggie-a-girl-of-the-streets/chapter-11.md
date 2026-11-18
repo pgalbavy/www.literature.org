@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-11.html"
+url: "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-11.html"
 ---
 
 On a corner a glass-fronted building shed a yellow glare upon the pavements. The open mouth of a saloon called seductively to passengers to enter and annihilate sorrow or create rage.

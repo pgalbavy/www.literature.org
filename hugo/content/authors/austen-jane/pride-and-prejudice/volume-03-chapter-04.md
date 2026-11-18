@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 4"
 weight: 46
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-04.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-04.html"
 ---
 
 Elizabeth had been a good deal disappointed in not finding a letter from Jane, on their first arrival at Lambton; and this disappointment had been renewed on each of the mornings that had now been spent there; but on the third, her repining was over, and her sister justified by the receipt of two letters from her at once, on one of which was marked that it had been missent elsewhere. Elizabeth was not surprised at it, as Jane had written the direction remarkably ill.

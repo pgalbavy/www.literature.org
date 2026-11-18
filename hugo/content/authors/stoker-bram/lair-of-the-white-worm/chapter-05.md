@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/stoker-bram/lair-of-the-white-worm/chapter-05.html"
+url: "/authors/stoker-bram/lair-of-the-white-worm/chapter-05.html"
 ---
 
 Mr. Salton introduced Adam to Mr. Watford and his grand-daughters, and they all moved on together. Of course neighbours in the position of the Watfords knew all about Adam Salton, his relationship, circumstances, and prospects. So it would have been strange indeed if both girls did not dream of possibilities of the future. In agricultural England, eligible men of any class are rare. This particular man was specially eligible, for he did not belong to a class in which barriers of caste were strong. So when it began to be noticed that he walked beside Mimi Watford and seemed to desire her society, all their friends endeavoured to give the promising affair a helping hand. When the gongs sounded for the banquet, he went with her into the tent where her grandfather had seats. Mr. Salton and Sir Nathaniel noticed that the young man did not come to claim his appointed place at the dais table; but they understood and made no remark, or indeed did not seem to notice his absence.

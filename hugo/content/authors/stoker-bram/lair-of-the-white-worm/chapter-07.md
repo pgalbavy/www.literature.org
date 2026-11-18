@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/stoker-bram/lair-of-the-white-worm/chapter-07.html"
+url: "/authors/stoker-bram/lair-of-the-white-worm/chapter-07.html"
 ---
 
 Mr. Salton had an appointment for six o'clock at Liverpool. When he had driven off, Sir Nathaniel took Adam by the arm.

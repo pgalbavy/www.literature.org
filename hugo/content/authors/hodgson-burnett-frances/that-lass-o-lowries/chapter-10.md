@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - On The Knoll Road"
 weight: 10
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-10.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-10.html"
 ---
 
 The moon was shining brightly when he stepped into the open road--so brightly that he could see every object far before him unless where the trees cast their black shadows, which seemed all the blacker for the light. “What a grave little creature she is!” he was saying to himself. But he stopped suddenly; under one of the trees by the roadside some one was standing motionless; as he approached, the figure stepped boldly out into the moonlight before him. It was a woman.

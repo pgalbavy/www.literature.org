@@ -1,8 +1,7 @@
 ---
 title: "Book 9 - Chapter 4"
 weight: 171
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-09-chapter-04.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-09-chapter-04.html"
 ---
 
 At two in the morning of the fourteenth of June, the Emperor, having sent for Balashev and read him his letter to Napoleon, ordered him to take it and hand it personally to the French Emperor. When dispatching Balashev, the Emperor repeated to him the words that he would not make peace so long as a single armed enemy remained on Russian soil and told him to transmit those words to Napoleon. Alexander did not insert them in his letter to Napoleon, because with his characteristic tact he felt it would be injudicious to use them at a moment when a last attempt at reconciliation was being made, but he definitely instructed Balashev to repeat them personally to Napoleon.

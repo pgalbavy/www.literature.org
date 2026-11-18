@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-25.html"
 ---
 
 Words cannot picture the amazement and delight of the little company in the cavern, when their strange visitor, who descended so suddenly upon them, was recognized as Fred Godfrey.

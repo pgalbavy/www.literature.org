@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Disappearance Of Colleton"
 weight: 4
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-04.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-04.html"
 ---
 
 “I’m glad the fellows took the trouble of building a fire of their own instead of wanting to lounge around ours all night,” Jimmie observed, as the boys looked at the leaping flames toward the north end of the slope. “I should think they’d freeze up there!”

@@ -1,8 +1,7 @@
 ---
 title: "Book 8 - Chapter 18"
 weight: 163
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-08-chapter-18.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-08-chapter-18.html"
 ---
 
 Marya Dmitrievna, having found Sonya weeping in the corridor, made her confess everything, and intercepting the note to Natasha she read it and went into Natasha's room with it in her hand.

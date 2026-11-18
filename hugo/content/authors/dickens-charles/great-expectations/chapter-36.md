@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 36
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-36.html"
+url: "/authors/dickens-charles/great-expectations/chapter-36.html"
 ---
 
 HERBERT and I went on from bad to worse, in the way of in- creasing our debts, looking into our affairs, leaving Margins, and the like exemplary transactions; and Time went on, whether or no, as he has a way of doing; and I came of age -- in fulfilment of Herbert's prediction, that I should do so before I knew where I was.

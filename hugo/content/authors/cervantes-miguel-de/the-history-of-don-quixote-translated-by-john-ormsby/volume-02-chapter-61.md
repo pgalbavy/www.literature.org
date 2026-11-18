@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 61 - Of What Happened Don Quixote On Entering Barcelona, Together With Other Matters That Partake Of The True Rather Than Of The Ingenious"
 weight: 117
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-61.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-61.html"
 ---
 
 Don Quixote passed three days and three nights with Roque, and had he passed three hundred years he would have found enough to observe and wonder at in his mode of life. At daybreak they were in one spot, at dinner-time in another; sometimes they fled without knowing from whom, at other times they lay in wait, not knowing for what. They slept standing, breaking their slumbers to shift from place to place. There was nothing but sending out spies and scouts, posting sentinels and blowing the matches of harquebusses, though they carried but few, for almost all used flintlocks. Roque passed his nights in some place or other apart from his men, that they might not know where he was, for the many proclamations the viceroy of Barcelona had issued against his life kept him in fear and uneasiness, and he did not venture to trust anyone, afraid that even his own men would kill him or deliver him up to the authorities; of a truth, a weary miserable life! At length, by unfrequented roads, short cuts, and secret paths, Roque, Don Quixote, and Sancho, together with six squires, set out for Barcelona. They reached the strand on Saint John’s Eve during the night; and Roque, after embracing Don Quixote and Sancho (to whom he presented the ten crowns he had promised but had not until then given), left them with many expressions of good-will on both sides.

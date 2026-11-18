@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Dickie's Summer Home"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-05.html"
 ---
 
 Dickie Deer Mouse was busier than ever. When he wasn't looking for food--and eating it when he had found it--he gathered cat-tail down in Cedar Swamp.

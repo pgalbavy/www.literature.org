@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/tarkington-booth/ramsey-milholland/chapter-03.html"
+url: "/authors/tarkington-booth/ramsey-milholland/chapter-03.html"
 ---
 
 He had not forgiven her four years later when he entered high school in her company, for somehow Ramsey managed to shovel his way through examinations and stayed with the class. By this time he had a long accumulation of reasons for hating her: Dora's persistent and increasing competency was not short of flamboyant, and teachers naturally got the habit of flinging their quickest pupil in the face of their slowest and "dumbest." Nevertheless, Ramsey was unable to deny that she had become less awful lookin' than she used to be. At least, he was honest enough to make a partial retraction when his friend and classmate, Fred Mitchell, insisted that an amelioration of Dora's appearance could be actually proven.

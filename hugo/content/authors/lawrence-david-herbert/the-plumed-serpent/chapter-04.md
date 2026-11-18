@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - To Stay Or Not To Stay"
 weight: 4
-aliases:
-  - "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-04.html"
+url: "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-04.html"
 ---
 
 Owen had to return to the United States, and he asked Kate whether she wanted to stay on in Mexico.

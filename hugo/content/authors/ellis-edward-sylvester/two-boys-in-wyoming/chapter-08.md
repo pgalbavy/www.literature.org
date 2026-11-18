@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Look Before You Leap"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-08.html"
 ---
 
 Crouching behind the friendly boulder, Fred Greenwood rested the barrel of his Winchester upon it and took careful aim at the buck, which seemed scarcely to have moved from the moment he was seen by the youths. That he maintained his pose thus long was certainly remarkable, and the fact was due to a cause suspected by neither of the boys.

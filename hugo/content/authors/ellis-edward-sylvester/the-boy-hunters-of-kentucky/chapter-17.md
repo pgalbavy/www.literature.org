@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Friend At Court"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-17.html"
 ---
 
 Tim American race is noted for its stoicism. An Indian warrior undergoing a painful death will not please his enemies by showing suffering, but will die with words of defiance on his lips, and scorning the rage of his persecutors.

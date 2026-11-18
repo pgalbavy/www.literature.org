@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Slave Road"
 weight: 6
-aliases:
-  - "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-06.html"
+url: "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-06.html"
 ---
 
 The twenty bearers having arrived, in charge of five or six Arabs armed with guns, we went to inspect them, taking Hassan with us, also the hunters. They were a likely lot of men, though rather thin and scared-looking, and evidently, as I could see from their physical appearance and varying methods of dressing the hair, members of different tribes. Having delivered them, the Arabs, or rather one of them, entered into excited conversation with Hassan. As Sammy was not at hand I do not know what was said, although I gathered that they were contemplating his rescue. If so, they gave up the idea and began to run away as their companions had done. One of them, however, a bolder fellow than the rest, turned and fired at me. He missed by some yards, as I could tell from the sing of the bullet, for these Arabs are execrable shots. Still his attempt at murder irritated me so much that I determined he should not go scot-free. I was carrying the little rifle called “Intombi,” that with which, as Hans had reminded me, I shot the vultures at Dingaan’s kraal many years before. Of course, I could have killed the man, but this I did not wish to do. Or I could have shot him through the leg, but then we should have had to nurse him or leave him to die! So I selected his right arm, which was outstretched as he fled, and at about fifty paces put a bullet through it just above the elbow.

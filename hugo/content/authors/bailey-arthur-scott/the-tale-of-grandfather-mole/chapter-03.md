@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - A Breakfast Lost"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-03.html"
 ---
 
 WHEN Farmer Green's cat looked around and discovered that Grandfather Mole had disappeared from the garden a puzzled look came over her face. She couldn't think where he had gone in just a few seconds.

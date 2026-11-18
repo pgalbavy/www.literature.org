@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Seven Of Hearts"
 weight: 6
-aliases:
-  - "/authors/leblanc-maurice/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/chapter-06.html"
+url: "/authors/leblanc-maurice/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/chapter-06.html"
 ---
 
 I am frequently asked this question: "How did you make the acquaintance of Arsène Lupin?"

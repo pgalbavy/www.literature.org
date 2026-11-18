@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Round Of Life"
 weight: 11
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-11.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-11.html"
 ---
 
 Anne was back in Avonlea with the luster of the Thorburn Scholarship on her brow. People told her she hadn't changed much, in a tone which hinted they were surprised and a little disappointed she hadn't. Avonlea had not changed, either. At least, so it seemed at first. But as Anne sat in the Green Gables pew, on the first Sunday after her return, and looked over the congregation, she saw several little changes which, all coming home to her at once, made her realize that time did not quite stand still, even in Avonlea. A new minister was in the pulpit. In the pews more than one familiar face was missing forever. Old "Uncle Abe," his prophesying over and done with, Mrs. Peter Sloane, who had sighed, it was to be hoped, for the last time, Timothy Cotton, who, as Mrs. Rachel Lynde said "had actually managed to die at last after practicing at it for twenty years," and old Josiah Sloane, whom nobody knew in his coffin because he had his whiskers neatly trimmed, were all sleeping in the little graveyard behind the church. And Billy Andrews was married to Nettie Blewett! They "appeared out" that Sunday. When Billy, beaming with pride and happiness, showed his be-plumed and be-silked bride into the Harmon Andrews' pew, Anne dropped her lids to hide her dancing eyes. She recalled the stormy winter night of the Christmas holidays when Jane had proposed for Billy. He certainly had not broken his heart over his rejection. Anne wondered if Jane had also proposed to Nettie for him, or if he had mustered enough spunk to ask the fateful question himself. All the Andrews family seemed to share in his pride and pleasure, from Mrs. Harmon in the pew to Jane in the choir. Jane had resigned from the Avonlea school and intended to go West in the fall.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Plot"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-13.html"
 ---
 
 Of all the creatures that walked or swam or flew, Timothy Turtle liked boys the least of all. He said that if they ever did anything except throw stones he had never caught them at it.

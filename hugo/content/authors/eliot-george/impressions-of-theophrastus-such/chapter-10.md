@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Debasing The Moral Currency"
 weight: 10
-aliases:
-  - "/authors/eliot-george/impressions-of-theophrastus-such/chapter-10.html"
+url: "/authors/eliot-george/impressions-of-theophrastus-such/chapter-10.html"
 ---
 
 "Il ne faut pas mettre un ridicule où il n'y en a point: c'est se gâter le goût, c'est corrompre son jugement et celui des autres. Mais le ridicule qui est quelque part, il faut l'y voir, l'en tirer avec grâce et d'une manière qui plaise et qui instruise."

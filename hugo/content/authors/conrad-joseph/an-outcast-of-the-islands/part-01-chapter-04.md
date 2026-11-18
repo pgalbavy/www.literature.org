@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 4"
 weight: 5
-aliases:
-  - "/authors/conrad-joseph/an-outcast-of-the-islands/part-01-chapter-04.html"
+url: "/authors/conrad-joseph/an-outcast-of-the-islands/part-01-chapter-04.html"
 ---
 
 His meditation which resembled slow drifting into suicide was interrupted by Lingard, who, with a loud "I’ve got you at last!" dropped his hand heavily on Willems’ shoulder. This time it was the old seaman himself going out of his way to pick up the uninteresting waif—all that there was left of that sudden and sordid shipwreck. To Willems, the rough, friendly voice was a quick and fleeting relief followed by a sharper pang of anger and unavailing regret. That voice carried him back to the beginning of his promising career, the end of which was very visible now from the jetty where they both stood. He shook himself free from the friendly grasp, saying with ready bitterness—

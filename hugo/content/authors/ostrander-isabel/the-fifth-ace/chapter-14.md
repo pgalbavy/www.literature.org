@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Knight Errant Once More"
 weight: 14
-aliases:
-  - "/authors/ostrander-isabel/the-fifth-ace/chapter-14.html"
+url: "/authors/ostrander-isabel/the-fifth-ace/chapter-14.html"
 ---
 
 "We'll be late," Angie observed as she and Willa waited in the drawing-room for the rest of the family. It was the first remark she had voluntarily addressed to her cousin since she had come upon the tête-à-tête in the library. "Not that I care, of course, these dinners are always stupid, but the Erskines are so horribly particular. I've heard that the Bishop was late once and they went in without him."

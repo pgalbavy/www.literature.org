@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Farmer Brown's Boy Arrives"
 weight: 20
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-20.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-20.html"
 ---
 
 The light crept farther under the door of Farmer Brown's henhouse, and by this time the hens were all awake. Furthermore, they had discovered Jimmy Skunk down below and were making a great fuss. They were cackling so that Unc' Billy was sure Farmer Brown's boy would soon hear them and hurry out to find out what the noise was all about.

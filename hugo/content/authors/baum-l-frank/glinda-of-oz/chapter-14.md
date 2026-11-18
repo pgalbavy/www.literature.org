@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/baum-l-frank/glinda-of-oz/chapter-14.html"
+url: "/authors/baum-l-frank/glinda-of-oz/chapter-14.html"
 ---
 
 No Ruler ever had such a queer assortment of advisers as the Princess Ozma had gathered about her throne. Indeed, in no other country could such amazing people exist. But Ozma loved them for their peculiarities and could trust every one of them.

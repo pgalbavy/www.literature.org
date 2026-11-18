@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Comrades Of The Hardwoods"
 weight: 5
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-05.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-05.html"
 ---
 
 Even in this golden, hazy dawn it was with him, as he stood gazing across the creek. The crimson sun warmed his cheeks and the heavy scent of over-ripe woods-plants stole to his senses like a soothing balm. But that scar upon which his eyes rested had reached his inmost soul, and for him the old gladness of sweet, dewy mornings must hereafter be tempered with a new and strange bitterness.

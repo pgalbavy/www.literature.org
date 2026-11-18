@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 23
-aliases:
-  - "/authors/conrad-joseph/lord-jim/chapter-22.html"
+url: "/authors/conrad-joseph/lord-jim/chapter-22.html"
 ---
 
 22

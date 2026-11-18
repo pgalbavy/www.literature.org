@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Room In The Cupola"
 weight: 12
-aliases:
-  - "/authors/tarkington-booth/the-two-vanrevels/chapter-12.html"
+url: "/authors/tarkington-booth/the-two-vanrevels/chapter-12.html"
 ---
 
 Mr. Carewe returned, one warm May afternoon, by the six o'clock boat, which was sometimes a day late and sometimes a few hours early; the latter contingency arising, as in the present instance, when the owner was aboard. Nelson drove him from the wharf to the bank, where he conferred briefly, in an undertone, with Eugene Madrillon; after which Eugene sent a note containing three words to Tappingham Marsh. Marsh tore up the note, and sauntered over to the club, where he found General Trumble and Jefferson Bareaud amicably discussing a pitcher of cherry bounce.

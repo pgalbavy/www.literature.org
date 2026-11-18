@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/cooper-courtney-ryley/the-crosscut/chapter-11.html"
+url: "/authors/cooper-courtney-ryley/the-crosscut/chapter-11.html"
 ---
 
 The Rodaines were on the sidewalk when Fairchild came forth from the Richmond home, and true to his instructions from the frightened girl, he brushed past them swiftly and went on down the street, not turning at the muttered invectives which came from the crooked lips of the older man, not seeming even to notice their presence as he hurried on toward Mother Howard's boarding house. Whether Fate had played with him or against him, he did not know,--nor could he summon the brain power to think. Happenings had come too thickly in the last few hours for him to differentiate calmly; everything depended upon what course the Rodaines might care to pursue. If theirs was to be a campaign of destruction, without a care whom it might involve, Fairchild could see easily that he too might soon be juggled into occupying the cell with Harry in the county jail. Wearily he turned the corner to the main street and made his plodding way, along it, his shoulders drooping, his brain fagged from the flaring heat of anger and the strain that the events of the night had put upon it. In his creaky bed in the old boarding house, he again sought to think, but in vain. He could only lie awake and stare into the darkness about him, while through his mind ran a muddled conglomeration of foreboding, waking dreams, revamps of the happenings of the last three weeks, memories which brought him nothing save sleeplessness and the knowledge that, so far, he fought a losing fight.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39 - Mazarin's Gaming Party"
 weight: 39
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-39.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-39.html"
 ---
 
 In a large chamber of the Palais Royal, hung with a dark colored velvet, which threw into strong relief the gilded frames of a great number of magnificent pictures, on the evening of the arrival of the two Frenchmen, the whole court was assembled before the alcove of M. le Cardinal de Mazarin, who gave a card party to the king and queen.

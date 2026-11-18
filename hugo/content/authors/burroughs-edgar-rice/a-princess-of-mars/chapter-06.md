@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Fight that Won Friends"
 weight: 6
-aliases:
-  - "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-06.html"
+url: "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-06.html"
 ---
 
 The thing, which more nearly resembled our earthly men than it did the Martians I had seen, held me pinioned to the ground with one huge foot, while it jabbered and gesticulated at some answering creature behind me. This other, which was evidently its mate, soon came toward us, bearing a mighty stone cudgel with which it evidently intended to brain me.

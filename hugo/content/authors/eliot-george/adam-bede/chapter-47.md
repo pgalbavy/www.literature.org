@@ -1,8 +1,7 @@
 ---
 title: "Chapter 47 - The Last Moment"
 weight: 47
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-47.html"
+url: "/authors/eliot-george/adam-bede/chapter-47.html"
 ---
 
 IT was a sight that some people remembered better even than their own sorrows - the sight in that grey clear morning, when the fatal cart with the two young women in it was descried by the waiting watching multitude, cleaving its way towards the hideous symbol of a deliberately inflicted sudden death.

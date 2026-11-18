@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Cup And Lip"
 weight: 26
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-25.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-25.html"
 ---
 
 Through the crowded Paris terminal Neeland pushed his way, carrying the olive-wood box in his hand and keeping an eye on his porter, who preceded him carrying the remainder of his luggage and repeating:

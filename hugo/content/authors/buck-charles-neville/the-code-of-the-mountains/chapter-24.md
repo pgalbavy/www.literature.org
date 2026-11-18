@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-24.html"
+url: "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-24.html"
 ---
 
 Newt Spooner was gone a week, though he had only announced it as his purpose to escort the girl as far as a near-by village.

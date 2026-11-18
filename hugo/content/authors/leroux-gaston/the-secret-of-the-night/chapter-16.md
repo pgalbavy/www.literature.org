@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Before The Revolutionary Tribunal"
 weight: 16
-aliases:
-  - "/authors/leroux-gaston/the-secret-of-the-night/chapter-16.html"
+url: "/authors/leroux-gaston/the-secret-of-the-night/chapter-16.html"
 ---
 
 Only, Rouletabille refused to be put into the basket. He would not let them disarm him until they promised to call a carriage. The Vehicle rolled into the court, and while Pere Alexis was kept back in his shop at the point of a revolver, Rouletabille quietly got in, smoking his pipe. The man who appeared to be the chief of the band (the gentleman of the Neva) got in too and sat down beside him. The carriage windows were shuttered, preventing all communication with the outside, and only a tiny lantern lighted the interior. They started. The carriage was driven by two men in brown coats trimmed with false astrakhan. The dvornicks saluted, believing it a police affair. The concierge made the sign of the cross.

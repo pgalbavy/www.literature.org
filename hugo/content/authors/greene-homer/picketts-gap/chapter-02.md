@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/greene-homer/picketts-gap/chapter-02.html"
+url: "/authors/greene-homer/picketts-gap/chapter-02.html"
 ---
 
 “Good-by, Gran’pap!”

@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 19"
 weight: 20
-aliases:
-  - "/authors/cather-willa/my-antonia/book-01-chapter-19.html"
+url: "/authors/cather-willa/my-antonia/book-01-chapter-19.html"
 ---
 
 JULY CAME ON with that breathless, brilliant heat which makes the plains of Kansas and Nebraska the best corn country in the world. It seemed as if we could hear the corn growing in the night; under the stars one caught a faint crackling in the dewy, heavy-odoured cornfields where the feathered stalks stood so juicy and green. If all the great plain from the Missouri to the Rocky Mountains had been under glass, and the heat regulated by a thermometer, it could not have been better for the yellow tassels that were ripening and fertilizing the silk day by day. The cornfields were far apart in those times, with miles of wild grazing land between. It took a clear, meditative eye like my grandfather’s to foresee that they would enlarge and multiply until they would be, not the Shimerdas’ cornfields, or Mr. Bushy’s, but the world’s cornfields; that their yield would be one of the great economic facts, like the wheat crop of Russia, which underlie all the activities of men, in peace or war.

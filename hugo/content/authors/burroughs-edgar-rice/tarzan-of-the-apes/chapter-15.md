@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Forest God"
 weight: 15
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-15.html"
+url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-15.html"
 ---
 
 When Clayton heard the report of the firearm he fell into an agony of fear and apprehension. He knew that one of the sailors might be the author of it; but the fact that he had left the revolver with Jane, together with the overwrought condition of his nerves, made him morbidly positive that she was threatened with some great danger. Perhaps even now she was attempting to defend herself against some savage man or beast.

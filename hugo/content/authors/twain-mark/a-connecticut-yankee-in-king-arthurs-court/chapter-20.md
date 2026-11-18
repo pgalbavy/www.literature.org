@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Ogre's Castle"
 weight: 21
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-20.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-20.html"
 ---
 
 BETWEEN six and nine we made ten miles, which was plenty for a horse carrying triple -- man, woman, and armor; then we stopped for a long nooning under some trees by a limpid brook.

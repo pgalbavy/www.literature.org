@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The General Strike"
 weight: 14
-aliases:
-  - "/authors/london-jack/the-iron-heel/chapter-13.html"
+url: "/authors/london-jack/the-iron-heel/chapter-13.html"
 ---
 
 Of course Ernest was elected to Congress in the great socialist landslide that took place in the fall of 1912. One great factor that helped to swell the socialist vote was the destruction of Hearst.* This the Plutocracy found an easy task. It cost Hearst eighteen million dollars a year to run his various papers, and this sum, and more, he got back from the middle class in payment for advertising. The source of his financial strength lay wholly in the middle class. The trusts did not advertise.** To destroy Hearst, all that was necessary was to take away from him his advertising.

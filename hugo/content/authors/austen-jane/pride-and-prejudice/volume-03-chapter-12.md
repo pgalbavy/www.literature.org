@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 12"
 weight: 54
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-12.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-12.html"
 ---
 
 As soon as they were gone, Elizabeth walked out to recover her spirits; or in other words, to dwell without interruption on those subjects that must deaden them more. Mr. Darcy's behaviour astonished and vexed her.

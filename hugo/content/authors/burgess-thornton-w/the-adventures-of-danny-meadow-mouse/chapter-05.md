@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - What Happened On The Green Meadows"
 weight: 5
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-05.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-05.html"
 ---
 
 *THICK* and fast things were happening to Danny Meadow Mouse down on the snow-covered Green Meadows. Rather, they were almost happening. He hadn’t minded when Reddy Fox all alone tried to catch him. Indeed, he had made a regular game of hide and seek of it and had enjoyed it immensely. But now it was different. Granny Fox wasn’t so easily fooled as Reddy Fox. Just Granny alone would have made the game dangerous for Danny Meadow Mouse. But Reddy was with her, and so Danny had two to look out for, and he got so many frights that it seemed to him as if his heart had moved right up into his mouth and was going to stay there. Yes, Sir, that is just how it seemed.

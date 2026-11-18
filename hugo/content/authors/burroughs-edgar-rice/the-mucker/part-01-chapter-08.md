@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 8 - The Wreck Of The “halfmoon”"
 weight: 8
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-08.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-08.html"
 ---
 
 INSTANTLY Barbara Harding looked into the face of the mucker she read her danger. Why the man should hate her so she could not guess; but that he did was evidenced by the malevolent expression of his surly countenance. For a moment he stood glaring at her, and then he spoke.

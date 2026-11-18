@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 3"
 weight: 52
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-03-chapter-03.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-03-chapter-03.html"
 ---
 
 Old Prince Nicholas Bolkonski received a letter from Prince Vasili in November, 1805, announcing that he and his son would be paying him a visit. "I am starting on a journey of inspection, and of course I shall think nothing of an extra seventy miles to come and see you at the same time, my honored benefactor," wrote Prince Vasili. "My son Anatole is accompanying me on his way to the army, so I hope you will allow him personally to express the deep respect that, emulating his father, he feels for you."

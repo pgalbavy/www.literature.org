@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-16.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-16.html"
 ---
 
 Marianne would have thought herself very inexcusable had she been able to sleep at all the first night after parting from Willoughby. She would have been ashamed to look her family in the face the next morning, had she not risen from her bed in more need of repose than when she lay down in it. But the feelings which made such composure a disgrace, left her in no danger of incurring it. She was awake the whole night, and she wept the greatest part of it. She got up with a headache, was unable to talk, and unwilling to take any nourishment; giving pain every moment to her mother and sisters, and forbidding all attempt at consolation from either. Her sensibility was potent enough!

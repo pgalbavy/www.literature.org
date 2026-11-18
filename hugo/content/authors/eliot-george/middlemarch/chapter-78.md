@@ -1,8 +1,7 @@
 ---
 title: "Chapter 78"
 weight: 78
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-78.html"
+url: "/authors/eliot-george/middlemarch/chapter-78.html"
 ---
 
 "Would it were yesterday and I i' the grave, With her sweet faith above for monument"

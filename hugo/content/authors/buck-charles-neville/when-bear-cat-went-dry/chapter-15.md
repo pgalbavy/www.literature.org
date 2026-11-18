@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-15.html"
+url: "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-15.html"
 ---
 
 Kinnard Towers had spent that evening in his house at the distance of a furlong from the stockaded structure wherein the drama of his authorship was to be staged and acted. The cast, from principals to supernumeraries, having been adequately rehearsed in lines and business, his own presence on the scene would be not only unnecessary but distinctly ill advised, and like a shrinkingly modest playwright, he remained invisible. The plot was forcible in its direct simplicity. A chance disturbance would spring out of some slight pretext--and Henderson, the troublesome apostle of innovation, would fall, its accidental and single victim. When death sealed his lips the only version of the affair to reach alien ears would be that dictated by Towers himself: the narrative of a regrettable brawl in a rough saloon. Against miscarriage, the arrangements seemed airtight, and there was need that it should be so for, desirable as was the elimination of Jerry's activities, that object would not have warranted recklessly fanning into active eruption the dormant crater of Stacy animosities. However, with Lone Stacy in duress and Turner Stacy in hiding beyond the state border, the hereditary foes were left leaderless--and would hardly rise in open warfare. Moreover, Kinnard meant to insure himself against contingencies by hastening to such prominent Stacys as might be in communication with the absentees and avowing, with deep show of conviction that, of all the turbulent affairs which had ever come to focus in his tavern, nothing had so outraged him as this particular calamity. He would appear eager for active participation in hunting down and punishing the malefactors.

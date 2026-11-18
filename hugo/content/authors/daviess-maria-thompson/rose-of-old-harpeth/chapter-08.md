@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Uncle Tucker's Torch"
 weight: 8
-aliases:
-  - "/authors/daviess-maria-thompson/rose-of-old-harpeth/chapter-08.html"
+url: "/authors/daviess-maria-thompson/rose-of-old-harpeth/chapter-08.html"
 ---
 
 "And how do you do, Mr. Crabtree? Glad to see you, suh, glad to see you again! How is all Sweetbriar? Any new voters since young Tucker, or a poem or so in the Rucker family? And are you succeeding in keeping the peace with Mrs. Plunkett for young Bob?" And firing this volley of questions through the gently agitated smile-veil the Honorable Gideon Newsome stood in the door of the store, large-looming and jocular.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - An Ugly Customer"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-10.html"
 ---
 
 Rob Carrol had good cause for his panic. Full of high hope, he hurried along the ice between crags which shut him out of sight, for the time, from Jack Cosgrove, who was resting himself after his hard climb. The youth was thinking of no one and nothing else, except his friend Fred Warburton, who had vanished so mysteriously the night before.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - The Meeting Of The Talfa"
 weight: 34
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-33.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-33.html"
 ---
 
 *THEY* had been sleeping on a soft soil or decayed vegetable matter, the sight of which had drawn from M. Mifroid the remark that it was a good omen for the near future. Their travels up to the present had been without incident, except for some differences of opinion between them. The subterranean galleries, lit up by the electric lamps, were sometimes vast, sometimes straight, sometimes rounded out like the vault of a cathedral, then square and regular, and so narrow that they had to crawl on their knees to get through. They had by this time become silent, except for a remark or two upon the variety of the strata they were passing through. Here was rock, here clay, here sand, and so on.

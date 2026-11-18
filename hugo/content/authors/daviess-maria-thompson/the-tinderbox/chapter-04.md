@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Sweeter When Tamed?"
 weight: 4
-aliases:
-  - "/authors/daviess-maria-thompson/the-tinderbox/chapter-04.html"
+url: "/authors/daviess-maria-thompson/the-tinderbox/chapter-04.html"
 ---
 
 I wonder if men ever melt suddenly into little boys, and try to squirm and run back to hide their heads in their mothers' skirts. It is an open secret that starchy, modern women often long to wilt back into droopy musk roses, that climb over gates and things, but they don't let each other. When I feel myself getting soluble, I write it out to Jane and I get a bracing cold wave of a letter in reply. The one this morning was on the subject of love, or, at least, that is what Jane would have said it was on. She wrote:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Plans For Winter"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-21.html"
 ---
 
 IT was almost fall. The nights--and some of the days--were chilly. Those that had spent the whole summer out of doors began to think about where they should pass the winter. Yet everybody was amazed by the news that Mrs. Ladybug spread broadcast. She said that she expected, soon, to go into winter quarters.

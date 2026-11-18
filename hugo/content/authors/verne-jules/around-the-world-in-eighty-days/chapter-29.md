@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-29.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-29.html"
 ---
 
 In which certain incidents are narrated which are only to be met with on American railroads

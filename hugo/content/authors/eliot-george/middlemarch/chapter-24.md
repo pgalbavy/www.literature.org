@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-24.html"
+url: "/authors/eliot-george/middlemarch/chapter-24.html"
 ---
 
 "The offender's sorrow brings but small relief To him who wears the strong offence's cross." - SHAKESPEARE: Sonnets.

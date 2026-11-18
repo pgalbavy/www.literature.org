@@ -1,8 +1,7 @@
 ---
 title: "Book 13 - Chapter 3"
 weight: 282
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-13-chapter-03.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-13-chapter-03.html"
 ---
 
 The Russian army was commanded by Kutuzov and his staff, and also by the Emperor from Petersburg. Before the news of the abandonment of Moscow had been received in Petersburg, a detailed plan of the whole campaign had been drawn up and sent to Kutuzov for his guidance. Though this plan had been drawn up on the supposition that Moscow was still in our hands, it was approved by the staff and accepted as a basis for action. Kutuzov only replied that movements arranged from a distance were always difficult to execute. So fresh instructions were sent for the solution of difficulties that might be encountered, as well as fresh people who were to watch Kutuzov's actions and report upon them.

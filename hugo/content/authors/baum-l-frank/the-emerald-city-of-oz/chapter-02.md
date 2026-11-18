@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-02.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-02.html"
 ---
 
 Dorothy Gale lived on a farm in Kansas, with her Aunt Em and her Uncle Henry. It was not a big farm, nor a very good one, because sometimes the rain did not come when the crops needed it, and then everything withered and dried up. Once a cyclone had carried away Uncle Henry's house, so that he was obliged to build another; and as he was a poor man he had to mortgage his farm to get the money to pay for the new house. Then his health became bad and he was too feeble to work. The doctor ordered him to take a sea voyage and he went to Australia and took Dorothy with him. That cost a lot of money, too.

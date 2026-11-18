@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - How To Be Lucky"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-17.html"
 ---
 
 There was one thing that Peter Mink couldn't understand. No matter how hard he tried to get Jimmy Rabbit into trouble, Jimmy always managed to escape. Peter wondered what the reason might be. And one day he said to Jimmy:

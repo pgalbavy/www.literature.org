@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/tarkington-booth/the-guest-of-quesnay/chapter-19.html"
+url: "/authors/tarkington-booth/the-guest-of-quesnay/chapter-19.html"
 ---
 
 He looked old and tired and sad; it was plain that he expected attack and equally plain that he would meet it with fanatic serenity. And yet, the magnificent blunderer presented so fine an aspect of the tortured Olympian, he confronted us with so vast a dignity—the driven snow of his hair tousled upon his head and shoulders, like a storm in the higher altitudes—that he regained, in my eyes, something of his mountain grandeur before he had spoken a word in defence. But sympathy is not what one should be entertaining for an antagonist; therefore I said cavalierly:

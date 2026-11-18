@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/crane-stephen/the-red-badge-of-courage/chapter-21.html"
+url: "/authors/crane-stephen/the-red-badge-of-courage/chapter-21.html"
 ---
 
 PRESENTLY they knew that no firing threat- ened them. All ways seemed once more opened to them. The dusty blue lines of their friends were disclosed a short distance away. In the distance there were many colossal noises, but in all this part of the field there was a sudden stillness.

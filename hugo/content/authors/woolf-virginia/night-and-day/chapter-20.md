@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/woolf-virginia/night-and-day/chapter-20.html"
+url: "/authors/woolf-virginia/night-and-day/chapter-20.html"
 ---
 
 Happily for Mary Datchet she returned to the office to find that by some obscure Parliamentary maneuver the vote had once more slipped beyond the attainment of women. Mrs. Seal was in a condition bordering upon frenzy. The duplicity of Ministers, the treachery of mankind, the insult to womanhood, the setback to civilization, the ruin of her life’s work, the feelings of her father’s daughter—all these topics were discussed in turn, and the office was littered with newspaper cuttings branded with the blue, if ambiguous, marks of her displeasure. She confessed herself at fault in her estimate of human nature.

@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/baum-l-frank/the-lost-princess-of-oz/preface.html"
+url: "/authors/baum-l-frank/the-lost-princess-of-oz/preface.html"
 ---
 
 This Book is Dedicated To My Granddaughter OZMA BAUM

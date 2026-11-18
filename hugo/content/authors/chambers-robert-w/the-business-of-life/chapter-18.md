@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/chambers-robert-w/the-business-of-life/chapter-18.html"
+url: "/authors/chambers-robert-w/the-business-of-life/chapter-18.html"
 ---
 
 Desboro passed a miserable afternoon at the office. If there had been any business to take his mind off himself it might have been easier for him; but for a long time now there had been nothing stirring in Wall Street; the public kept away; business was dead.

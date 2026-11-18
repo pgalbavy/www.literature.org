@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Queer Place To Live"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-01.html"
 ---
 
 The village near one end of Pleasant Valley where Farmer Green often went to sell butter and eggs was not the only village to be seen from Blue Mountain. There was another which Farmer Green seldom visited, because it lay beyond the mountain and was a long distance from his house. Though he owned the land where it stood, those that lived there thought they had every right to stay there as long as they pleased, without being disturbed.

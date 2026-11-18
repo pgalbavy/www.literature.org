@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 7"
 weight: 7
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-07.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-07.html"
 ---
 
 Even in the days of his first, forced marches toward fortune, when besides his unshakable plunger's nerve he stood almost without an asset, Hamilton Burton's policy had been that the limelight paid, and as he had mounted from moderate success into the millionaire class, and thence into the division rated in a plurality of millions, he had always adhered to the plan of letting nothing which reflected his personality fall below the standards of superlative worth and cost.

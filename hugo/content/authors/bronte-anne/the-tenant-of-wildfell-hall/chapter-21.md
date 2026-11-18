@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 22
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-21.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-21.html"
 ---
 
 October 1st. - All is settled now. My father has given his consent, and the time is fixed for Christmas, by a sort of compromise between the respective advocates for hurry and delay. Milicent Hargrave is to be one bridesmaid and Annabella Wilmot the other - not that I am particularly fond of the latter, but she is an intimate of the family, and I have not another friend.

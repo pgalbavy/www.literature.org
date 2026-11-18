@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-19.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-19.html"
 ---
 
 Mugambi, after his successful break for liberty, had fallen upon hard times. His way had led him through a country with which he was unfamiliar, a jungle country in which he could find no water, and but little food, so that after several days of wandering he found himself so reduced in strength that he could barely drag himself along.

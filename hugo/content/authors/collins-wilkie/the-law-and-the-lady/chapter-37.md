@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - At The Bedside"
 weight: 37
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-37.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-37.html"
 ---
 
 BEFORE she had uttered a word, I saw in my mother-in-law's face that she brought bad news.

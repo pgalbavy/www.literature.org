@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 15"
 weight: 204
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-15.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-15.html"
 ---
 
 He did not know whether it was late or early. The candles had all burned out. Dolly had just been in the study and had suggested to the doctor that he should lie down. Levin sat listening to the doctor's stories of a quack mesmerizer and looking at the ashes of his cigarette. There had been a period of repose, and he had sunk into oblivion. He had completely forgotten what was going on now. He heard the doctor's chat and understood it. Suddenly there came an unearthly shriek. The shriek was so awful that Levin did not even jump up, but holding his breath, gazed in terrified inquiry at the doctor. The doctor put his head on one side, listened, and smiled approvingly. Everything was so extraordinary that nothing could strike Levin as strange. "I suppose it must be so," he thought, and still sat where he was. Whose scream was this? He jumped up, ran on tiptoe to the bedroom, edged round Lizaveta Petrovna and the princess, and took up his position at Kitty's pillow. The scream had subsided, but there was some change now. What it was he did not see and did not comprehend, and he had no wish to see or comprehend. But he saw it by the face of Lizaveta Petrovna. Lizaveta Petrovna's face was stern and pale, and still as resolute, though her jaws were twitching, and her eyes were fixed intently on Kitty Kitty's swollen and agonized face, a tress of hair clinging to her moist brow, was turned to him and sought his eyes. Her lifted hands asked for his hands. Clutching his chill hands in her moist ones, she began squeezing them to her face.

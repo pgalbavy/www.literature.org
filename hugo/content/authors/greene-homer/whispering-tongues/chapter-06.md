@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Almost A Tragedy"
 weight: 6
-aliases:
-  - "/authors/greene-homer/whispering-tongues/chapter-06.html"
+url: "/authors/greene-homer/whispering-tongues/chapter-06.html"
 ---
 
 Charley Lee had not been seen in public since the day when his intoxication had been so terribly exposed by Van Loan. Some of the students said that he was ashamed to show himself; others that his father was keeping him prisoner. But after a little while the truth came out, and all the college knew that he was ill, and could not go out.

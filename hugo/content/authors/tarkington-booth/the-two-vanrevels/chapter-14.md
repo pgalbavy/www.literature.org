@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Firm Of Gray And Vanrevel"
 weight: 14
-aliases:
-  - "/authors/tarkington-booth/the-two-vanrevels/chapter-14.html"
+url: "/authors/tarkington-booth/the-two-vanrevels/chapter-14.html"
 ---
 
 For the first time it was Crailey who sat waiting for Tom to come home. In a chair drawn to his partner's desk in the dusty office, he half-reclined, arms on the desk, his chin on his clenched fists. To redeem the gloom he had lit a single candle, which painted him dimly against the complete darkness of his own shadow, like a very old portrait whose background time has solidified into shapeless browns; the portrait of a fair-haired gentleman, the cavalier, or the Marquis, one might have said at first glance; not describing it immediately as that of a poet, for there was no mark of art upon Crailey, not even in his hair, for they all wore it rather long then. Yet there was a mark upon him, never more vivid than as he sat waiting in the loneliness of that night for Tom Vanrevel; though what the mark was and what its significance might have been puzzling to define. Perhaps, after all, Fanchon Bareaud had described it best when she told Crailey one day, with a sudden hint of apprehensive tears, that he had a "look of fate."

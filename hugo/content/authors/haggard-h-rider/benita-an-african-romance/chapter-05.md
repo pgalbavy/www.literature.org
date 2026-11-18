@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Jacob Meyer"
 weight: 6
-aliases:
-  - "/authors/haggard-h-rider/benita-an-african-romance/chapter-05.html"
+url: "/authors/haggard-h-rider/benita-an-african-romance/chapter-05.html"
 ---
 
 More than three weeks had gone by when one morning Benita, who slept upon the cartel or hide-strung bed in the waggon, having dressed herself as best she could in that confined place, thrust aside the curtain and seated herself upon the voorkisse, or driving-box. The sun was not yet up, and the air was cold with frost, for they were on the Transvaal high-veld at the end of winter. Even through her thick cloak Benita shivered and called to the driver of the waggon, who also acted as cook, and whose blanket-draped form she could see bending over a fire into which he was blowing life, to make haste with the coffee.

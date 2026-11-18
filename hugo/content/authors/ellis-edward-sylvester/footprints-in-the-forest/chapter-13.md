@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Twinkle Of A Camp-Fire"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-13.html"
 ---
 
 Slight as was the noise made by the flashing of the powder, Deerfoot not only heard it, but knew what it meant. He was so angered that he bounded back among the trees like a tiger leaping upon the hunter that has wounded him. He grasped his knife and sought the treacherous Pawnee, with a fierceness that seemed could not be denied.

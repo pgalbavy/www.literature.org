@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-08.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-08.html"
 ---
 
 Ska, perched upon the horn of dead Gorgo, became suddenly aware of a movement in a nearby thicket. He turned his head in the direction of the sound and saw Sabor the lioness emerge from the foliage and walk slowly toward him. Ska was not terrified. He would leave, but he would leave with dignity. He crouched to spring upward, and extended his great wings to aid him in taking off. But Ska, the vulture, never rose. As he essayed to do so, something pulled suddenly upon his neck and held him down. He scrambled to his feet and, violently this time, strove to fly away. Again he was dragged back. Now Ska was terrified. The hateful thing that had been dangling about his neck for so long was holding him to earth--the swinging loop of the golden chain had caught around the horn of Gorgo, the buffalo. Ska was trapped.

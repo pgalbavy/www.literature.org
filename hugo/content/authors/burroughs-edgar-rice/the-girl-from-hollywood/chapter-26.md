@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-26.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-26.html"
 ---
 
 The Apache had taken but a few steps on the trail toward the east pasture when Custer reined him in suddenly and wheeled him about.

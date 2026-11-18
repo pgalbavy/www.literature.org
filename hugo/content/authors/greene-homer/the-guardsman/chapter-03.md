@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/greene-homer/the-guardsman/chapter-03.html"
+url: "/authors/greene-homer/the-guardsman/chapter-03.html"
 ---
 
 When Ben reached home on the morning of the encounter at the armory he found his father still at breakfast. Mr. Barriscale looked up in surprise as his son entered the dining-room.

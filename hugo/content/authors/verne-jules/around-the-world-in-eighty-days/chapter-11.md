@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-11.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-11.html"
 ---
 
 In which Phileas Fogg secures a curious means of conveyance at a fabulous price

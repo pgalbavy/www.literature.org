@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Charley's Coup"
 weight: 5
-aliases:
-  - "/authors/london-jack/tales-of-the-fish-patrol/chapter-05.html"
+url: "/authors/london-jack/tales-of-the-fish-patrol/chapter-05.html"
 ---
 
 Perhaps our most laughable exploit on the fish patrol, and at the same time our most dangerous one, was when we rounded in, at a single haul, an even score of wrathful fishermen. Charley called it a "coop," having heard Neil Partington use the term; but I think he misunderstood the word, and thought it meant "coop," to catch, to trap. The fishermen, however, coup or coop, must have called it a Waterloo, for it was the severest stroke ever dealt them by the fish patrol, while they had invited it by open and impudent defiance of the law.

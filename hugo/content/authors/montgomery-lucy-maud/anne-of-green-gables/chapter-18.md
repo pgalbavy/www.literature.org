@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Anne to the Rescue"
 weight: 18
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-18.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-18.html"
 ---
 
 ALL things great are wound up with all things little. At first glance it might not seem that the decision of a certain Canadian Premier to include Prince Edward Island in a political tour could have much or anything to do with the fortunes of little Anne Shirley at Green Gables. But it had.

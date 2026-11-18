@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 9"
 weight: 110
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-04-chapter-09.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-04-chapter-09.html"
 ---
 
 It was past five, and several guests had already arrived, before the host himself got home. He went in together with Sergey Ivanovitch Koznishev and Pestsov, who had reached the street door at the same moment. These were the two leading representatives of the Moscow intellectuals, as Oblonsky had-called them. Both were men respected for their character and their intelligence. They respected each other, but were in complete and hopeless disagreement upon almost every subject, not because they belonged to opposite parties, but precisely because they were of the same party (their enemies refused to see any distinction between their views); but, in that party, each had his own special shade of opinion. And since no difference is less easily overcome than the difference of opinion about semi-abstract questions, they never agreed in any opinion, and had long, indeed, been accustomed to jeer without anger, each at the other's incorrigible aberrations.

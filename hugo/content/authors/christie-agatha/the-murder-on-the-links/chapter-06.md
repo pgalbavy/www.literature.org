@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Scene Of The Crime"
 weight: 6
-aliases:
-  - "/authors/christie-agatha/the-murder-on-the-links/chapter-06.html"
+url: "/authors/christie-agatha/the-murder-on-the-links/chapter-06.html"
 ---
 
 Between them, the doctor and M. Hautet carried the unconscious woman into the house. The commissary looked after them, shaking his head.

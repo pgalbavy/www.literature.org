@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A Pleasure Trip"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-09.html"
 ---
 
 Almost always the wild folk in Pleasant Valley knew that if they wanted to see Timothy Turtle they could find him somewhere in Black Creek. But once in a great while he liked to go on what he called "an excursion." By that he meant a pleasure trip to some spot not too far away--never outside of Pleasant Valley.

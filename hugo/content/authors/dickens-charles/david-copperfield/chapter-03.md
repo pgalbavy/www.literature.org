@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - I Have A Change"
 weight: 4
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-03.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-03.html"
 ---
 
 The carrier’s horse was the laziest horse in the world, I should hope, and shuffled along, with his head down, as if he liked to keep people waiting to whom the packages were directed. I fancied, indeed, that he sometimes chuckled audibly over this reflection, but the carrier said he was only troubled with a cough. The carrier had a way of keeping his head down, like his horse, and of drooping sleepily forward as he drove, with one of his arms on each of his knees. I say ‘drove’, but it struck me that the cart would have gone to Yarmouth quite as well without him, for the horse did all that; and as to conversation, he had no idea of it but whistling.

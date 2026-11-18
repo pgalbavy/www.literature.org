@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-04.html"
+url: "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-04.html"
 ---
 
 After the Wizard had wiped the dampness from his sword and taken it apart and put the pieces into their leathern case again, the man with the star ordered some of his people to carry the two halves of the Sorcerer to the public gardens.

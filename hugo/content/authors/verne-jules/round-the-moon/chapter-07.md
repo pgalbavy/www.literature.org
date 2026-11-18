@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/verne-jules/round-the-moon/chapter-07.html"
+url: "/authors/verne-jules/round-the-moon/chapter-07.html"
 ---
 
 Thus a phenomenon, curious but explicable, was happening under these strange conditions.

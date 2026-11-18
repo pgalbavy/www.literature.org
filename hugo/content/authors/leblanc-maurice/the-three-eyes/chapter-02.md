@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The \"Triangular Circles\""
 weight: 2
-aliases:
-  - "/authors/leblanc-maurice/the-three-eyes/chapter-02.html"
+url: "/authors/leblanc-maurice/the-three-eyes/chapter-02.html"
 ---
 
 What was known at Meudon as Noël Dorgeroux's Yard was a piece of waste-land in which the paths were lost amid the withered grass, nettles and stones, amid stacks of empty barrels, scrap-iron, rabbit-hutches and every kind of disused lumber that rusts and rots or tumbles into dust.

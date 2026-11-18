@@ -1,8 +1,7 @@
 ---
 title: "Book 6 - Chapter 11"
 weight: 117
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-06-chapter-11.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-06-chapter-11.html"
 ---
 
 The Rostovs' monetary affairs had not improved during the two years they had spent in the country.

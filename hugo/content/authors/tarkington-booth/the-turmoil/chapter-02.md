@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-02.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-02.html"
 ---
 
 The Sheridan Building was the biggest skyscraper; the Sheridan Trust Company was the biggest of its kind, and Sheridan himself had been the biggest builder and breaker and truster and buster under the smoke. He had come from a country cross-roads, at the beginning of the growth, and he had gone up and down in the booms and relapses of that period; but each time he went down he rebounded a little higher, until finally, after a year of overwork and anxiety—the latter not decreased by a chance, remote but possible, of recuperation from the former in the penitentiary—he found himself on top, with solid substance under his feet; and thereafter "played it safe." But his hunger to get was unabated, for it was in the very bones of him and grew fiercer.

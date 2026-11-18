@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Jimmie’s Awful Hunger"
 weight: 18
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-18.html"
+url: "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-18.html"
 ---
 
 “You say,” Sam asked, as Pedro crouched in the corner of the temple where the old fountain basin had been, “that the Indians will never actually attack the temple?”

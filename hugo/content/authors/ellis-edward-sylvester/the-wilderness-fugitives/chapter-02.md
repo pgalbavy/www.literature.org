@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Soft And Low"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-02.html"
 ---
 
 At the mention of suspected danger, Clinton sprang up and moved in the direction whence he supposed it came, though he heard nothing of it himself. It was so dark that he could see but a little way in the woods. After stealing a few paces, rifle in hand, he paused and listened, thinking that if any enemies were at hand, they would be sure to betray themselves by attempting to advance. But the stillness remained unbroken, and he suspected that Rosa had been mistaken. Even though he knew not where Jo and the Mohawk were just then, he was sure that they were at no great distance, and the redskin was certain to discover the approach of any foe. When five or ten minutes passed he turned about and rejoined his fair friend.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Tanofir Finds His Broken Cup"
 weight: 16
-aliases:
-  - "/authors/haggard-h-rider/the-ancient-allan/chapter-16.html"
+url: "/authors/haggard-h-rider/the-ancient-allan/chapter-16.html"
 ---
 
 March we did, but on the fifteenth day, not the fifth, since there was much to make ready. First the Council of the Ethiopians must be consulted and through them the people. In the beginning there was trouble over the matter, since many were against a distant war, and this even after Bes had urged that it was better to attack than wait to be attacked. For they answered, and justly, that here in Ethiopia distance and the desert were their shields, since the King of kings, however great his strength, would be weary and famished before he set foot within their borders.

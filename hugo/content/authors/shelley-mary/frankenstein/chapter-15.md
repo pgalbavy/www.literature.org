@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/shelley-mary/frankenstein/chapter-15.html"
+url: "/authors/shelley-mary/frankenstein/chapter-15.html"
 ---
 
 "Such was the history of my beloved cottagers. It impressed me deeply. I learned, from the views of social life which it developed, to admire their virtues, and to deprecate the vices of mankind.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Rogue's Gallery Of A Father Should Be Exhibited To A Daughter With Particular Care"
 weight: 3
-aliases:
-  - "/authors/tarkington-booth/the-two-vanrevels/chapter-03.html"
+url: "/authors/tarkington-booth/the-two-vanrevels/chapter-03.html"
 ---
 
 Those angels appointed to be guardians of the merry people of Rouen, poising one night, between earth and stars, discovered a single brilliant and resonant spot, set in the midst of the dark, quiet town like a jewelled music-box on a black cloth. Sounds of revelry and the dance from the luminous spot came up through the summer stillness to the weary guardians all night long, until, at last, when a red glow stole into the east, and the dance still continued, nay, grew faster than ever, the celestial watchers found the work too heavy for their strength, and forthwith departed, leaving the dancers to their own devices; for, as everyone knows, when a dance lasts till daylight, guardian angels flee.

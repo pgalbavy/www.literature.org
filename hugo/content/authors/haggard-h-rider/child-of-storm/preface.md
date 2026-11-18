@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/haggard-h-rider/child-of-storm/preface.html"
+url: "/authors/haggard-h-rider/child-of-storm/preface.html"
 ---
 
 Transcriber’s Note:

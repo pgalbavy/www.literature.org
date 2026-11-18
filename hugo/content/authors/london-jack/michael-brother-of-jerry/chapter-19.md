@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 20
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-19.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-19.html"
 ---
 
 "I'll see you again," Harry Del Mar told Daughtry, at the end of his fourth conversation on the matter of Michael's sale.

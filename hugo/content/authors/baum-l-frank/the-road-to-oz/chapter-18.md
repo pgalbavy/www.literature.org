@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 19
-aliases:
-  - "/authors/baum-l-frank/the-road-to-oz/chapter-18.html"
+url: "/authors/baum-l-frank/the-road-to-oz/chapter-18.html"
 ---
 
 The others now came up, and the Tin Woodman greeted the Lion and the Tiger cordially. Button-Bright yelled with fear when Dorothy first took his hand and led him toward the great beasts; but the girl insisted they were kind and good, and so the boy mustered up courage enough to pat their heads; after they had spoken to him gently and he had looked into their intelligent eyes his fear vanished entirely and he was so delighted with the animals that he wanted to keep close to them and stroke their soft fur every minute.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Queen At Home"
 weight: 7
-aliases:
-  - "/authors/coolidge-dane/bat-wing-bowles/chapter-07.html"
+url: "/authors/coolidge-dane/bat-wing-bowles/chapter-07.html"
 ---
 
 The Bat Wing ranch, with its big white house on the hill, its whirling windmill, its tank that spread out like a lake and gleamed like liquid silver, its pole corrals, its adobe houses half shaded by wind-tossed cottonwoods, was one of the most sightly in Arizona. The yellow-white sheen of the bunch grass made the distance seem fair and inviting; at sunset the saw-toothed summits of the Tortugas changed to blues and purples and mysterious, cañon-deep black; the heavy bunches of sacaton out in the horse pasture gleamed white in the evening glow. Many riders passed by that way, rigged out in the finery of their kind, and most of them took it all in--and yet, at times, the place looked kind of bare and tame.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Johnnie Green's Favorite"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-01.html"
 ---
 
 A few of the farmyard folk were a bit jealous of the Muley Cow. The little red lady that stood on one side of her, in the barn, often said that Johnnie Green was wasting too many goodies on her. It seemed as if he never entered the cow barn without bringing some tidbit for old Muley, as her neighbors called her--behind her back. If it wasn't a potato that Johnnie fished out of his pocket it might be an apple or a carrot, or maybe a piece of pumpkin, or turnip, or beet.

@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 11"
 weight: 328
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-11.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-11.html"
 ---
 
 Next day the field marshal gave a dinner and ball which the Emperor honored by his presence. Kutuzov had received the Order of St. George of the First Class and the Emperor showed him the highest honors, but everyone knew of the imperial dissatisfaction with him. The proprieties were observed and the Emperor was the first to set that example, but everybody understood that the old man was blameworthy and good-for-nothing. When Kutuzov, conforming to a custom of Catherine's day, ordered the standards that had been captured to be lowered at the Emperor's feet on his entering the ballroom, the Emperor made a wry face and muttered something in which some people caught the words, "the old comedian."

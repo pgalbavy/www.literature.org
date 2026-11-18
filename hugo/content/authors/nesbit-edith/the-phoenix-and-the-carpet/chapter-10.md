@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Hole In The Carpet"
 weight: 10
-aliases:
-  - "/authors/nesbit-edith/the-phoenix-and-the-carpet/chapter-10.html"
+url: "/authors/nesbit-edith/the-phoenix-and-the-carpet/chapter-10.html"
 ---
 
 Jane sang this simple song directly after breakfast, and the Phoenix shed crystal tears of affectionate sympathy.

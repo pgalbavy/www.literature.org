@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 10"
 weight: 27
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-03-chapter-10.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-03-chapter-10.html"
 ---
 
 The Luggnaggians commended. A particular description of the Struldbrugs, with many conversations between the author and some eminent persons upon that subject.

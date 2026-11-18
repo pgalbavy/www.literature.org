@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/huxley-aldous/crome-yellow/chapter-11.html"
+url: "/authors/huxley-aldous/crome-yellow/chapter-11.html"
 ---
 
 Mr. Barbecue-Smith was gone. The motor had whirled him away to the station; a faint smell of burning oil commemorated his recent departure. A considerable detachment had come into the courtyard to speed him on his way; and now they were walking back, round the side of the house, towards the terrace and the garden. They walked in silence; nobody had yet ventured to comment on the departed guest.

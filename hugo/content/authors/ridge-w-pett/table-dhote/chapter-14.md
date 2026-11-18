@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Young Nuisances"
 weight: 14
-aliases:
-  - "/authors/ridge-w-pett/table-dhote/chapter-14.html"
+url: "/authors/ridge-w-pett/table-dhote/chapter-14.html"
 ---
 
 THE three had done nearly everything forbidden by the company’s notices, and as the train slowed in order to stop at a junction, they expressed a fierce determination to reserve the compartment for the rest of the journey. If any one touched the handle they would fetch him (or her) such a rap across the knuckles as wouldn’t make him (or her) half scream. They were still discussing plans of defence when the train came to a crowded platform; the three rushed to the door and side windows, shouting an assurance that there was no room, that the door was locked, that the compartment had been specially reserved. A short struggle, and determined travellers made their way in.

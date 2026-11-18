@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Just In Time"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-03.html"
 ---
 
 Bending as closely to the floor of the cabin as he could, the Texan advanced until directly in front of the crackling fire, when he reached up with his Winchester, which was grasped near the muzzle. By this means he placed the stock directly beneath the two weapons resting on the deer antlers.

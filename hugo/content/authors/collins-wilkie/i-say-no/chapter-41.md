@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41 - Speechifying"
 weight: 41
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-41.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-41.html"
 ---
 
 On the Monday, a plowboy from Vale Regis arrived at Monksmoor.

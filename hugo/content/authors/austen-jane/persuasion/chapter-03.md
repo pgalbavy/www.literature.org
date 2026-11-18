@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/austen-jane/persuasion/chapter-03.html"
+url: "/authors/austen-jane/persuasion/chapter-03.html"
 ---
 
 "I must take leave to observe, Sir Walter," said Mr Shepherd one morning at Kellynch Hall, as he laid down the newspaper, "that the present juncture is much in our favour. This peace will be turning all our rich naval officers ashore. They will be all wanting a home. Could not be a better time, Sir Walter, for having a choice of tenants, very responsible tenants. Many a noble fortune has been made during the war. If a rich admiral were to come in our way, Sir Walter--"

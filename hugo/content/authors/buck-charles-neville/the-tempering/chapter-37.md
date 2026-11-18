@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37"
 weight: 37
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-37.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-37.html"
 ---
 
 The transforming touch of a razor, a studied amendment of manner and apparel, and the passing of ten years: these are things which can work an effective disguise for an Enoch Arden returned to village streets that knew him long ago. Quietly dressed in clothes that were neither good enough nor mean enough to arrest the passing eye, a middle-aged man dropped from the evening train onto the cinder platform at Marlin Town.

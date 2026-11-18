@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42 - In The Ballroom"
 weight: 42
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-42.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-42.html"
 ---
 
 Though Dunstan village was cut off, by its misfortune, from its usual intercourse with its neighbours, in some mystic manner villages even at twenty miles' distance learned all it did and suffered, feared or hoped. It did not hope greatly, the rustic habit of mind tending towards a discouraged outlook, and cherishing the drama of impending calamity. As far as Yangford and Marling inmates of cottages and farmhouses were inclined to think it probable that Dunstan would be “swep away,” and rumours of spreading death and disaster were popular. Tread, the advanced blacksmith at Stornham, having heard in his by-gone, better days of the Great Plague of London, was greatly in demand as a narrator of illuminating anecdotes at The Clock Inn.

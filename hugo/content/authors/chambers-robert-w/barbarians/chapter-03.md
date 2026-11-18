@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Cuckoo!"
 weight: 3
-aliases:
-  - "/authors/chambers-robert-w/barbarians/chapter-03.html"
+url: "/authors/chambers-robert-w/barbarians/chapter-03.html"
 ---
 
 Carfax, on duty, sat hunched up over the telephone, reporting to the fortress.

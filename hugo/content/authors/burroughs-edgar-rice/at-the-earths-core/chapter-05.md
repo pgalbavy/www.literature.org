@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Slaves"
 weight: 6
-aliases:
-  - "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-05.html"
+url: "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-05.html"
 ---
 
 AS WE DESCENDED THE BROAD STAIRCASE WHICH led to the main avenue of Phutra I caught my first sight of the dominant race of the inner world. Involuntarily I shrank back as one of the creatures approached to inspect us. A more hideous thing it would be impossible to imagine. The all-powerful Mahars of Pellucidar are great reptiles, some six or eight feet in length, with long narrow heads and great round eyes. Their beak-like mouths are lined with sharp, white fangs, and the backs of their huge, lizard bodies are serrated into bony ridges from their necks to the end of their long tails. Their feet are equipped with three webbed toes, while from the fore feet membranous wings, which are attached to their bodies just in front of the hind legs, protrude at an angle of 45 degrees toward the rear, ending in sharp points several feet above their bodies.

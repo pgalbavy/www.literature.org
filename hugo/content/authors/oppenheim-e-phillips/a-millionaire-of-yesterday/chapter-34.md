@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 34
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-34.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-34.html"
 ---
 
 "And now," she said, rising, "you really must take me to Lady Tresham! They will think that I am lost."

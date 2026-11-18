@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Local Colour"
 weight: 8
-aliases:
-  - "/authors/london-jack/adventure/chapter-08.html"
+url: "/authors/london-jack/adventure/chapter-08.html"
 ---
 
 At sunset a small ketch fanned in to anchorage, and a little later the skipper came ashore. He was a soft-spoken, gentle-voiced young fellow of twenty, but he won Joan's admiration in advance when Sheldon told her that he ran the ketch all alone with a black crew from Malaita. And Romance lured and beckoned before Joan's eyes when she learned he was Christian Young, a Norfolk Islander, but a direct descendant of John Young, one of the original Bounty mutineers. The blended Tahitian and English blood showed in his soft eyes and tawny skin; but the English hardness seemed to have disappeared. Yet the hardness was there, and it was what enabled him to run his ketch single-handed and to wring a livelihood out of the fighting Solomons.

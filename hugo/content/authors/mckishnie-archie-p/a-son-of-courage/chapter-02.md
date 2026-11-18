@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Shower Of Fish"
 weight: 2
-aliases:
-  - "/authors/mckishnie-archie-p/a-son-of-courage/chapter-02.html"
+url: "/authors/mckishnie-archie-p/a-son-of-courage/chapter-02.html"
 ---
 
 Between the fishermen of Sandtown and the farmers of the community existed no very strong bond of sympathy or friendship. The former were a dissolute, shiftless lot, quite content, with draw-seine and pound-net, to eke out a miserable existence in the easiest manner possible. They were tolerated just as the poor and shiftless of any community are tolerated; their children were allowed to attend the school the same as the children of the tax-payers.

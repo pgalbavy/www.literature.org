@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Putting Out From Shore"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-22.html"
 ---
 
 Not a moment was to be lost. Everything depended upon boarding the flatboat and pushing off at once from shore. The party was so large that the craft was sure to be crowded, but its buoyancy was sufficient to carry still more.

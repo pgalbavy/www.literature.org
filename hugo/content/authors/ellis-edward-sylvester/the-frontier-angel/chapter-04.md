@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Faint Hope"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/the-frontier-angel/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/the-frontier-angel/chapter-04.html"
 ---
 
 *THERE* is a scene that we must not dwell upon. There are some that awaken emotions which no pen can describe, no imagination conceive. When Peterson, the ranger, communicated the dreadful intelligence of the fate of Marian to her parents, the shock was terrible. The mother swooned away, and for nearly a week remained more in death than life. The father received the shock like the oak when riven by the thunderbolt—firm and unbending, but still shattered to the very heart. He groaned in spirit, but, for the sake of his wife, bore up with superhuman calmness. But it well-nigh killed him; and his wife, when she was pulled from the grasp of death, felt that she could never, never recover from it. Her heart was broken.

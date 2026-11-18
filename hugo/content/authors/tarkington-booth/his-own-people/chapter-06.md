@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Rake's Progress"
 weight: 6
-aliases:
-  - "/authors/tarkington-booth/his-own-people/chapter-06.html"
+url: "/authors/tarkington-booth/his-own-people/chapter-06.html"
 ---
 
 Many toasts were uproariously honored, the health of each member of the party in turn, then the country of each: France and England first, out of courtesy to the ladies, Italy next, since this beautiful and extraordinary meeting of distinguished people (as Mellin remarked in a short speech he felt called upon to make) took place in that wonderful land, then the United States. This last toast the gentlemen felt it necessary to honor by standing in their chairs.

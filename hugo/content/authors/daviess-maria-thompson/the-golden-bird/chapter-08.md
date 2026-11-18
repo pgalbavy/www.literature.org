@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/daviess-maria-thompson/the-golden-bird/chapter-08.html"
+url: "/authors/daviess-maria-thompson/the-golden-bird/chapter-08.html"
 ---
 
 Quickly I released myself from his arm and flew to kneel in front of the metal mother, with the electric torch aimed directly into the little window that revealed all her inmost processes. The Peckerwood Pan hovered just at my shoulder, and together we beheld what was to me the most wonderful phenomenon of nature that had ever come my way. No sunset from Pike's Peak or high note from the throat of Caruso could equal it in my estimation. Behold, the first baby Bird stepped forth into the world right before my astonished and enraptured eyes! It was in this manner.

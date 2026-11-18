@@ -1,8 +1,7 @@
 ---
 title: "Chapter 76 - The Battering-Ram"
 weight: 76
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-076.html"
+url: "/authors/melville-herman/moby-dick/chapter-076.html"
 ---
 
 Ere quitting, for the nonce, the Sperm Whale's head, I would have you, as a sensible physiologist, simply--particularly remark its front aspect, in all its compacted collectedness. I would have you investigate it now with the sole view of forming to yourself some unexaggerated, intelligent estimate of whatever battering-ram power may be lodged there. Here is a vital point; for you must either satisfactorily settle this matter with yourself, or for ever remain an infidel as to one of the most appalling, but not the less true events, perhaps anywhere to be found in all recorded history.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Rabbits' Ball"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-17.html"
 ---
 
 The Rabbits' Ball (that was a dancing party, you know) was something to which Jimmy Rabbit had looked forward for a long time.

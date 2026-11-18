@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Store At Umvelos'"
 weight: 10
-aliases:
-  - "/authors/buchan-john/prester-john/chapter-09.html"
+url: "/authors/buchan-john/prester-john/chapter-09.html"
 ---
 
 I sat down on a chair and laboured to collect my thoughts. Laputa had gone, and would return sooner or later with Henriques. If I was to remain alive till morning, both of them must be convinced that I was harmless. Laputa was probably of that opinion, but Henriques would recognize me, and I had no wish to have that yellow miscreant investigating my character. There was only one way out of it —I must be incapably drunk. There was not a drop of liquor in the store, but I found an old whisky bottle half full of methylated spirits. With this I thought I might raise an atmosphere of bad whisky, and for the rest I must trust to my meagre gifts as an actor.

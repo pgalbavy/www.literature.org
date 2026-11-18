@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/collins-wilkie/my-ladys-money/chapter-06.html"
+url: "/authors/collins-wilkie/my-ladys-money/chapter-06.html"
 ---
 
 FOR a quarter of an hour the drawing-room remained empty. At the end of that time the council in the boudoir broke up. Lady Lydiard led the way back into the drawing-room, followed by Hardyman, Isabel being left to look after the dog. Before the door closed behind him, Hardyman turned round to reiterate his last medical directions--or, in plainer words, to take a last look at Isabel.

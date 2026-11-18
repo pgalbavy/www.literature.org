@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - A Word At The Harbour-Side"
 weight: 13
-aliases:
-  - "/authors/buchan-john/salute-to-adventurers/chapter-12.html"
+url: "/authors/buchan-john/salute-to-adventurers/chapter-12.html"
 ---
 
 The next Sunday I was fool enough to go to church, for Doctor Blair was announced to preach the sermon. Now I knew very well what treatment I should get, and that it takes a stout fellow to front a conspiracy of scorn. But I had got new courage from my travels, so I put on my best suit of murrey-coloured cloth, my stockings of cherry silk, the gold buckles which had been my father's, my silk-embroidered waistcoat, freshly-ironed ruffles, and a new hat which had cost forty shillings in London town. I wore my own hair, for I never saw the sense of a wig save for a bald man, but I had it deftly tied. I would have cut a great figure had there not been my bronzed and rugged face to give the lie to my finery.

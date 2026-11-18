@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/ridge-w-pett/e-r-b/chapter-16.html"
+url: "/authors/ridge-w-pett/e-r-b/chapter-16.html"
 ---
 
 THE bustle, the hurry, the excitement were again here; the grievance that a day contained, only twenty-four hours reconstituted itself; the feeling came once more that one was a person of some importance. But Erb, spite the old environments, found himself wanting in enthusiasm. He could not deny this, although for a time he tried to do so. Face to face with a situation that a month earlier would have aroused all his most aggressive instincts, he found he was quite unable to feel any excitement in the matter. The rebuff the men had given him he could not forget; the empty space that the dispute had made could not be easily bridged. Moreover, there were other matters which seemed larger and much more important than this to occupy his consideration. Rosalind brought Louisa back to town, the vacation being over, and Camberwell desiring to go on with its lessons in voice production, and Lady Frances, hearing of this from Alice, antedated her trip to the Continent, and, in her generous way, prepared to fly off with Louisa and Jessie, the maid; Louisa, dazed by the rapidity of events, said goodbye with apparent calm to her brother and her three most recent fiancés.

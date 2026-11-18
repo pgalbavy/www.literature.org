@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/london-jack/before-adam/chapter-17.html"
+url: "/authors/london-jack/before-adam/chapter-17.html"
 ---
 
 It was in the early fall of the following year that it happened. After his failure to get the Swift One, Red-Eye had taken another wife; and, strange to relate, she was still alive. Stranger still, they had a baby several months old--Red-Eye's first child. His previous wives had never lived long enough to bear him children. The year had gone well for all of us. The weather had been exceptionally mild and food plentiful. I remember especially the turnips of that year. The nut crop was also very heavy, and the wild plums were larger and sweeter than usual.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Bergeronnette"
 weight: 1
-aliases:
-  - "/authors/leblanc-maurice/the-three-eyes/chapter-01.html"
+url: "/authors/leblanc-maurice/the-three-eyes/chapter-01.html"
 ---
 
 For me the strange story dates back to that autumn day when my uncle Dorgeroux appeared, staggering and unhinged, in the doorway of the room which I occupied in his house, Haut-Meudon Lodge.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/verne-jules/from-the-earth-to-the-moon/chapter-28.html"
+url: "/authors/verne-jules/from-the-earth-to-the-moon/chapter-28.html"
 ---
 
 That very night, the startling news so impatiently awaited, burst like a thunderbolt over the United States of the Union, and thence, darting across the ocean, ran through all the telegraphic wires of the globe. The projectile had been detected, thanks to the gigantic reflector of Long's Peak! Here is the note received by the director of the Observatory of Cambridge. It contains the scientific conclusion regarding this great experiment of the Gun Club.

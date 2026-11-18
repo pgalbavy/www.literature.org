@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 3 - The Black Spot"
 weight: 4
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-01-chapter-03.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-01-chapter-03.html"
 ---
 
 ABOUT noon I stopped at the captain's door with some cooling drinks and medicines. He was lying very much as we had left him, only a little higher, and he seemed both weak and excited.

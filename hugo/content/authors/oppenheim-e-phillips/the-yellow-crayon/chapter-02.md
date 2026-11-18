@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-02.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-02.html"
 ---
 
 This is the luggage porter, sir," Duson announced. "He is prepared to answer any questions."

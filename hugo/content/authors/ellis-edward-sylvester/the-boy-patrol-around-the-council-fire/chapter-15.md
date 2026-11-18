@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The True Story Of A Famous Sea Serpent"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-15.html"
 ---
 
 "It is over thirty years ago," said Uncle Elk that evening to the listening Boy Scouts who were gathered in the bungalow, "that the whole country was thrown into excitement by accounts of a stupendous sea serpent which was repeatedly seen off the Isle of Shoals. You know that returning mariners have brought home stories of encounters in distant seas with similar monstrous reptiles. The reputation of many of these men for truthfulness, and the fact that more than one of them insisted that their eyes had not deceived them, led a good many to believe what they told. Nor am I prepared to say that some of the accounts were not founded on fact. In the remote past the land and sea were inhabited by creatures of such vast size that our largest quadrupeds are pygmies in comparison. While the land giants became extinct ages ago, it is not unreasonable to think that the oceans which cover three-fourths of the earth’s surface still hold inhabitants of tremendous growth.

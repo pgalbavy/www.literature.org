@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Féte"
 weight: 14
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-14.html"
+url: "/authors/bronte-charlotte/villette/chapter-14.html"
 ---
 
 As soon as Georgette was well, Madame sent her away into the country. I was sorry; I loved the child, and her loss made me poorer than before. But I must not complain. I lived in a house full of robust life; I might have had companions, and I chose solitude. Each of the teachers in turn made me overtures of special intimacy; I tried them all. One I found to be an honest woman, but a narrow thinker, a coarse feeler, and an egotist. The second was a Parisienne, externally refined - at heart, corrupt - without a creed, without a principle, without an affection: having penetrated the outward crust of decorum in this character, you found a slough beneath. She had a wonderful passion for presents; and, in this point, the third teacher - a person otherwise characterless and insignificant - closely resembled her. This last-named had also one other distinctive property - that of avarice. In her reigned the love of money for its own sake. The sight of a piece of gold would bring into her eyes a green glisten, singular to witness. She once, as a mark of high favour, took me up-stairs, and, opening a secret door, showed me a hoard - a mass of coarse, large coin - about fifteen guineas, in five-franc pieces. She loved this hoard as a bird loves its eggs. These were her savings. She would come and talk to me about them with an infatuated and persevering dotage, strange to behold in a person not yet twenty-five.

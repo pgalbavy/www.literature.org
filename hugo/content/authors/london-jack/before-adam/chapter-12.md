@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/london-jack/before-adam/chapter-12.html"
+url: "/authors/london-jack/before-adam/chapter-12.html"
 ---
 
 I have no idea how long Lop-Ear and I wandered in the land north of the river. We were like mariners wrecked on a desert isle, so far as concerned the likelihood of our getting home again. We turned our backs upon the river, and for weeks and months adventured in that wilderness where there were no Folk. It is very difficult for me to reconstruct our journeying, and impossible to do it from day to day. Most of it is hazy and indistinct, though here and there I have vivid recollections of things that happened.

@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 2"
 weight: 31
-aliases:
-  - "/authors/conrad-joseph/romance/part-05-chapter-02.html"
+url: "/authors/conrad-joseph/romance/part-05-chapter-02.html"
 ---
 
 "Why have I been brought here, your worships?" I asked, with a great deal of firmness.

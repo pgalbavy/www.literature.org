@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Bunches Of Knuckles"
 weight: 6
-aliases:
-  - "/authors/london-jack/the-night-born/chapter-06.html"
+url: "/authors/london-jack/the-night-born/chapter-06.html"
 ---
 
 ARRANGEMENTS quite extensive had been made for the celebration of Christmas on the yacht Samoset. Not having been in any civilized port for months, the stock of provisions boasted few delicacies; yet Minnie Duncan had managed to devise real feasts for cabin and forecastle.

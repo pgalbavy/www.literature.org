@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Two Scouts"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/the-frontier-angel/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/the-frontier-angel/chapter-03.html"
 ---
 
 *ONE* day in spring, a border ranger was making his way through the cane-brakes of Kentucky, in what is now called Lewis county.

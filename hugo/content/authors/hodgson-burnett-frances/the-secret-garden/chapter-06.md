@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - “There Was Someone Crying — There Was!”"
 weight: 6
-aliases:
-  - "/authors/hodgson-burnett-frances/the-secret-garden/chapter-06.html"
+url: "/authors/hodgson-burnett-frances/the-secret-garden/chapter-06.html"
 ---
 
 The next day the rain poured down in torrents again, and when Mary looked out of her window the moor was almost hidden by gray mist and cloud. There could be no going out today.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-07.html"
+url: "/authors/forster-e-m/howards-end/chapter-07.html"
 ---
 
 “Oh, Margaret,” cried her aunt next morning, “such a most unfortunate thing has happened. I could not get you alone.”

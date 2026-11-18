@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 2 - The Bondage"
 weight: 10
-aliases:
-  - "/authors/london-jack/white-fang/part-03-chapter-02.html"
+url: "/authors/london-jack/white-fang/part-03-chapter-02.html"
 ---
 
 The days were thronged with experience for White Fang. During the time that Kiche was tied by the stick, he ran about over all the camp, inquiring, investigating, learning. He quickly came to know much of the ways of the man-animals, but familiarity did not breed contempt. The more he came to know them, the more they vindicated their superiority, the more they displayed their mysterious powers, the greater loomed their god-likeness.

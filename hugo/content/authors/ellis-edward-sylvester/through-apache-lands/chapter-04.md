@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Outwitted"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-04.html"
 ---
 
 "I'll match them Apaches agin the world for shrewd deviltry," exclaimed Hardynge, unable to suppress his admiration even in the moment which told him of his own increased personal danger. "By some hook or crook, the Old Boy only knows what, they've found out my game, and are after me. Ah! if I only had my mustang, Thundergust, with me!"

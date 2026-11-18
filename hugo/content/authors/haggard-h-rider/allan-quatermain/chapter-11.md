@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Frowning City"
 weight: 12
-aliases:
-  - "/authors/haggard-h-rider/allan-quatermain/chapter-11.html"
+url: "/authors/haggard-h-rider/allan-quatermain/chapter-11.html"
 ---
 
 For an hour or more I sat waiting (Umslopogaas having meanwhile gone to sleep also) till at length the east turned grey, and huge misty shapes moved over the surface of the water like ghosts of long-forgotten dawns. They were the vapours rising from their watery bed to greet the sun. Then the grey turned to primrose, and the primrose grew to red. Next, glorious bars of light sprang up across the eastern sky, and through them the radiant messengers of the dawn came speeding upon their arrowy way, scattering the ghostly vapours and awaking the mountains with a kiss, as they flew from range to range and longitude to longitude. Another moment, and the golden gates were open and the sun himself came forth as a bridegroom from his chamber, with pomp and glory and a flashing as of ten million spears, and embraced the night and covered her with brightness, and it was day.

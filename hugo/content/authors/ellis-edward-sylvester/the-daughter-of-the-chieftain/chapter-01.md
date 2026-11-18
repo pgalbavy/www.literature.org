@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Omas, Alice, And Linna"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/the-daughter-of-the-chieftain/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/the-daughter-of-the-chieftain/chapter-01.html"
 ---
 
 I don't suppose there is any use in trying to find out when the game of "Jack Stones" was first played. No one can tell. It certainly is a good many hundred years old.

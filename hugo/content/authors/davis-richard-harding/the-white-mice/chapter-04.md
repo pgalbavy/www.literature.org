@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/davis-richard-harding/the-white-mice/chapter-04.html"
+url: "/authors/davis-richard-harding/the-white-mice/chapter-04.html"
 ---
 
 After their dinner at the hotel, Roddy and Peter strolled down the quay and over the tiny drawbridge that binds Otrabanda to Willemstad. There, for some time, half-way between the two towns, they loitered against the railing of the bridge, smoking and enjoying the cool night breeze from the sea. After his long nap Roddy was wakeful. He had been told that Willemstad boasted of a café chantant, and he was for finding it. But Peter, who had been awake since the ship's steward had aroused him before sunrise, doubted that there was a café chantant, and that if it did exist it could keep him from sleep, and announced his determination to seek his bed.

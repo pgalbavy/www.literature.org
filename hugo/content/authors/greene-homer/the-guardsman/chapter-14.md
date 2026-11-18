@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/greene-homer/the-guardsman/chapter-14.html"
+url: "/authors/greene-homer/the-guardsman/chapter-14.html"
 ---
 
 The document which Captain Murray handed to McCormack to read comprised the charges and specifications that had been filed against the first lieutenant. It had apparently been drawn with much skill and care, and it read as follows:

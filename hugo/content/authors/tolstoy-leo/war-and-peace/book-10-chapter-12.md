@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 12"
 weight: 202
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-12.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-12.html"
 ---
 
 For a long time that night Princess Mary sat by the open window of her room hearing the sound of the peasants' voices that reached her from the village, but it was not of them she was thinking. She felt that she could not understand them however much she might think about them. She thought only of one thing, her sorrow, which, after the break caused by cares for the present, seemed already to belong to the past. Now she could remember it and weep or pray.

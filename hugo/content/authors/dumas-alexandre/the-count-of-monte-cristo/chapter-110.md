@@ -1,8 +1,7 @@
 ---
 title: "Chapter 110 - The Indictment"
 weight: 110
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-110.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-110.html"
 ---
 
 The judges took their places in the midst of the most profound silence; the jury took their seats; M. de Villefort, the object of unusual attention, and we had almost said of general admiration, sat in the arm-chair and cast a tranquil glance around him. Every one looked with astonishment on that grave and severe face, whose calm expression personal griefs had been unable to disturb, and the aspect of a man who was a stranger to all human emotions excited something very like terror.

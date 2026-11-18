@@ -1,8 +1,7 @@
 ---
 title: "Chapter 74"
 weight: 74
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-74.html"
+url: "/authors/eliot-george/middlemarch/chapter-74.html"
 ---
 
 "Mercifully grant that we may grow aged together." - BOOK OF TOBIT: Marriage Prayer.

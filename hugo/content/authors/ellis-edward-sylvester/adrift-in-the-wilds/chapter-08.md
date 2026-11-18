@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Indians"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-08.html"
 ---
 
 The sleep of perfect health is dreamless, and is not easily aroused by external disturbance. Tim O'Rooney, Elwood Brandon and Howard Lawrence, sweetly forgetful of the need of their being within sight and hearing of the shore, slept through the entire day without once awaking. The sun was just dipping beneath the Pacific when Howard opened his eyes with that confused, indistinct recollection which often takes possession of our faculties when first aroused from a deep slumber. He stared around and the sight of the unconscious forms of his two companions, and the mute Newfoundland dog with his nose between his paws, but blinking as if to show he "slept with one eye open," quickly recalled his situation. In considerable alarm, he sprung up, and began rousing the others. As they rubbed their eyes and rose to the sitting position, he said in excitement:

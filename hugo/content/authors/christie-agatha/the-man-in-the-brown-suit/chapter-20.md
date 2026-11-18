@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-20.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-20.html"
 ---
 
 I drove to the hotel. There was no one in the lounge that I knew. I ran upstairs and tapped on Suzanne’s door. Her voice bade me “come in.” When she saw who it was she literally fell on my neck.

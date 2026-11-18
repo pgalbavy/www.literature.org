@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Dwellers In The Wilderness"
 weight: 3
-aliases:
-  - "/authors/doyle-arthur-conan/beyond-the-city/chapter-03.html"
+url: "/authors/doyle-arthur-conan/beyond-the-city/chapter-03.html"
 ---
 
 How deeply are our destinies influenced by the most trifling causes! Had the unknown builder who erected and owned these new villas contented himself by simply building each within its own grounds, it is probable that these three small groups of people would have remained hardly conscious of each other's existence, and that there would have been no opportunity for that action and reaction which is here set forth. But there was a common link to bind them together. To single himself out from all other Norwood builders the landlord had devised and laid out a common lawn tennis ground, which stretched behind the houses with taut-stretched net, green close-cropped sward, and widespread whitewashed lines. Hither in search of that hard exercise which is as necessary as air or food to the English temperament, came young Hay Denver when released from the toil of the City; hither, too, came Dr. Walker and his two fair daughters, Clara and Ida, and hither also, champions of the lawn, came the short-skirted, muscular widow and her athletic nephew. Ere the summer was gone they knew each other in this quiet nook as they might not have done after years of a stiffer and more formal acquaintance.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-10.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-10.html"
 ---
 
 Mr. Sabin was deep in thought. He sat in an easy-chair with his back to the window, his hands crossed upon his stick, his eyes fixed upon the fire. Duson was moving noiselessly about the room, cutting the morning's supply of newspapers and setting them out upon the table. His master was in a mood which he had been taught to respect. It was Mr. Sabin Who broke the silence.

@@ -1,8 +1,7 @@
 ---
 title: "The Flea And The Ox"
 weight: 249
-aliases:
-  - "/authors/aesop/fables/chapter-247.html"
+url: "/authors/aesop/fables/chapter-247.html"
 ---
 
 A FLEA thus questioned an Ox: "What ails you, that being so huge and strong, you submit to the wrongs you receive from men and slave for them day by day, while I, being so small a creature, mercilessly feed on their flesh and drink their blood without stint?' The Ox replied: "I do not wish to be ungrateful, for I am loved and well cared for by men, and they often pat my head and shoulders." "Woe's me!" said the flea; "this very patting which you like, whenever it happens to me, brings with it my inevitable destruction."

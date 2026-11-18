@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Debt"
 weight: 9
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-07.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-07.html"
 ---
 
 ARNOLD was the first who broke the silence. "Is your father seriously ill?" he asked.

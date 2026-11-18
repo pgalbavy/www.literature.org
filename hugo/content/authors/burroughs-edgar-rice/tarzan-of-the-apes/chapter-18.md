@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Jungle Toll"
 weight: 18
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-18.html"
+url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-18.html"
 ---
 
 Early the following morning Tarzan awoke, and his first thought of the new day, as the last of yesterday, was of the wonderful writing which lay hidden in his quiver.

@@ -1,8 +1,7 @@
 ---
 title: "chapter 19"
 weight: 999
-aliases:
-  - "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-19.html"
+url: "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-19.html"
 ---
 
 Now as soon as the conquest of King Krewl had taken place, one of the Orks had been dispatched to Pon's house with the joyful news. At once Gloria and Pon and Trot and Button-Bright hastened toward the castle. They were somewhat surprised by the sight that met their eyes, for there was the Scarecrow, crowned King, and all the people kneeling humbly before him. So they likewise bowed low to the new ruler and then stood beside the throne. Cap'n Bill, as the gray grasshopper, was still perched upon Trot's shoulder, but now he hopped to the shoulder of the Scarecrow and whispered into the painted ear:

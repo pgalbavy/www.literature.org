@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Polka Dot Lady"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-01.html"
 ---
 
 LITTLE Mrs. Ladybug was a worker. Nobody could deny that. To be sure, she had to stop now and then to talk to her neighbors, because Mrs. Ladybug dearly loved a bit of gossip. At the same time there wasn't anyone in Pleasant Valley that helped Farmer Green more than she did. She tried her hardest to keep the trees in the orchard free from insects.

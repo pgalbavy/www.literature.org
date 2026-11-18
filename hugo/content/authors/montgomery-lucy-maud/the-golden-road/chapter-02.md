@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Will, A Way And A Woman"
 weight: 3
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-02.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-02.html"
 ---
 
 "One day, over a hundred years ago, Ursula Townley was waiting for Kenneth MacNair in a great beechwood, where brown nuts were falling and an October wind was making the leaves dance on the ground like pixy-people."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Business And Pie"
 weight: 11
-aliases:
-  - "/authors/daviess-maria-thompson/the-daredevil/chapter-11.html"
+url: "/authors/daviess-maria-thompson/the-daredevil/chapter-11.html"
 ---
 
 That Mr. Buzz Clendenning has in the composition of his nature a very large portion of nice foolishness which makes the heart of a lonely person most comfortable. He decided, upon that very first day of our introduction, that I was to be as a small brother to him who was much loved but also to be much joked about a quaintness which he chose to call "French greenness," and for which I was most grateful because with that excuse I could cover all mistakes that arose from my being a girl who was ignorant of the exact methods of being a man. And, also, that nice attitude towards me was of quite a contagion, for all of the young ladies and gentlemen of the city of Hayesville became the same to me and all of the time my heart was warm and rejoiced at their affection shown in banter and jokes.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - A Hurried Flight"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-12.html"
 ---
 
 *ALTHOUGH* George and Victor Shelton parted for the time from Deerfoot with regret, it cannot be said that either felt any misgiving. There could be no doubt of the Shawanoe’s ability to track them all the way to the Pacific if necessary, for the trail would be plain except when they took to the water, which was not likely to be for a long time to come. Moreover, Mul-tal-la had said that little was to be feared from the Indians of the country through which they must make their way. Had the boys been alone danger might threaten, for most of the hunters and trappers who penetrated those vast solitudes looked upon and treated the red men as their enemies, and naturally were thus looked upon and treated in their turn.

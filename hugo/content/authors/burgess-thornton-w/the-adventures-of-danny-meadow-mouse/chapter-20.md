@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Timid Danny Meadow Mouse"
 weight: 20
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-20.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-20.html"
 ---
 
 *DANNY MEADOW MOUSE* is timid. Everybody says so, and what everybody says ought to be so. But just as anybody can make a mistake sometimes, so can everybody. Still, in this case, it is quite likely that everybody is right. Danny Meadow Mouse *is* timid. Ask Peter Rabbit. Ask Sammy Jay. Ask Striped Chipmunk. They will all tell you the same thing. Sammy Jay might even tell you that Danny is afraid of his own shadow, or that he tries to run away from his own tail. Of course this isn’t true. Sammy Jay likes to say mean things. It isn’t fair to Danny Meadow Mouse to believe what Sammy Jay says.

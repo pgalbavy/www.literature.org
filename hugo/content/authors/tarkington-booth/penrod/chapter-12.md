@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Miss Rennsdale Accepts"
 weight: 12
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-12.html"
+url: "/authors/tarkington-booth/penrod/chapter-12.html"
 ---
 
 "One-two-three; one-two-three—glide!" said Professor Bartet, emphasizing his instructions by a brisk collision of his palms at "glide." "One-two-three; one-two-three—glide!"

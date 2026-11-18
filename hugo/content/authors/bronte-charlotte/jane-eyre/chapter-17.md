@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/bronte-charlotte/jane-eyre/chapter-17.html"
+url: "/authors/bronte-charlotte/jane-eyre/chapter-17.html"
 ---
 
 A week passed, and no news arrived of Mr. Rochester: ten days, and still he did not come. Mrs. Fairfax said she should not be surprised if he were to go straight from the Leas to London, and thence to the Continent, and not show his face again at Thornfield for a year to come; he had not unfrequently quitted it in a manner quite as abrupt and unexpected. When I heard this, I was beginning to feel a strange chill and failing at the heart. I was actually permitting myself to experience a sickening sense of disappointment; but rallying my wits, and recollecting my principles, I at once called my sensations to order; and it was wonderful how I got over the temporary blunder--how I cleared up the mistake of supposing Mr. Rochester's movements a matter in which I had any cause to take a vital interest. Not that I humbled myself by a slavish notion of inferiority: on the contrary, I just said -

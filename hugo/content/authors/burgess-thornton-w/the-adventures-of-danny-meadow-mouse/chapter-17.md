@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Danny Meadow Mouse Becomes Worried"
 weight: 17
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-17.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-17.html"
 ---
 
 *DANNY MEADOW MOUSE* limped around through the dear Old Briar-patch, where he had lived with Peter Rabbit ever since he had squirmed out of the claws of Hooty the Owl and dropped there, right at the feet of Peter Rabbit. Danny limped because he was still lame and sore from Hooty’s terrible claws, but he didn’t let himself think much about that, because he was so thankful to be alive at all. So he limped around in the Old Briar-patch, picking up seed which had fallen on the snow, and sometimes pulling down a few of the red berries which cling all winter to the wild rose bushes. The seeds in these were very nice indeed, and Danny always felt especially good after a meal of them.

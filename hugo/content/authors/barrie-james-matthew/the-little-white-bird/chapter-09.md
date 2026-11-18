@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A Confirmed Spinster"
 weight: 9
-aliases:
-  - "/authors/barrie-james-matthew/the-little-white-bird/chapter-09.html"
+url: "/authors/barrie-james-matthew/the-little-white-bird/chapter-09.html"
 ---
 
 I am in danger, I see, of being included among the whimsical fellows, which I so little desire that I have got me into my writing-chair to combat the charge, but, having sat for an unconscionable time with pen poised, I am come agitatedly to the fear that there may be something in it.

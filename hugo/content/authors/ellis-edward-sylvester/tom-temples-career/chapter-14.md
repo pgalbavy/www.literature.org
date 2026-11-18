@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Tom Learns What Is Up"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-14.html"
 ---
 
 *WHEN* Tom came down stairs to supper he was struck by the naked appearance of the table. The Middletons had returned to their old economical fare. Mr. Middleton looked sober, and his wife had a forbidding aspect.

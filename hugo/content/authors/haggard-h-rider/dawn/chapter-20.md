@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-20.html"
+url: "/authors/haggard-h-rider/dawn/chapter-20.html"
 ---
 
 Arthur did not do much fishing that morning; indeed, he never so much as got his line into the water--he simply sat there lost in dreams, and hoping in a vague way that Angela would come back again. But she did not come back, though it would be difficult to say what prevented her; for, had he but known it, she was for the space of a full hour sitting within a hundred yards of him, and occasionally peeping out to watch his mode of fishing with some curiosity. It was, she reflected, exceedingly unlike that practised by Jakes. She, too, was wishing that he would detect her, and come to talk to her; but, amongst other new sensations, she was now the victim of a most unaccountable shyness, and could not make up her mind to reveal her whereabouts.

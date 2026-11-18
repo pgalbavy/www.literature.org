@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Far West"
 weight: 2
-aliases:
-  - "/authors/coolidge-dane/bat-wing-bowles/chapter-02.html"
+url: "/authors/coolidge-dane/bat-wing-bowles/chapter-02.html"
 ---
 
 Three days is a short time in which to post a man on the Far West, but if you don't care what you say, and say it quick, you can give him a pretty good fill. Dixie Lee was almost sorry when the Limited rolled into Albuquerque, and Mr. Bowles was fairly tearful in his adieus.

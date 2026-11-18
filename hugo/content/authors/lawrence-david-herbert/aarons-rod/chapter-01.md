@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Blue Ball"
 weight: 1
-aliases:
-  - "/authors/lawrence-david-herbert/aarons-rod/chapter-01.html"
+url: "/authors/lawrence-david-herbert/aarons-rod/chapter-01.html"
 ---
 
 There was a large, brilliant evening star in the early twilight, and underfoot the earth was half frozen. It was Christmas Eve. Also the War was over, and there was a sense of relief that was almost a new menace. A man felt the violence of the nightmare released now into the general air. Also there had been another wrangle among the men on the pit-bank that evening.

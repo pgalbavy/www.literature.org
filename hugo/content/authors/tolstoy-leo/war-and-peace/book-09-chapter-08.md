@@ -1,8 +1,7 @@
 ---
 title: "Book 9 - Chapter 8"
 weight: 175
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-09-chapter-08.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-09-chapter-08.html"
 ---
 
 After his interview with Pierre in Moscow, Prince Andrew went to Petersburg, on business as he told his family, but really to meet Anatole Kuragin whom he felt it necessary to encounter. On reaching Petersburg he inquired for Kuragin but the latter had already left the city. Pierre had warned his brother-in-law that Prince Andrew was on his track. Anatole Kuragin promptly obtained an appointment from the Minister of War and went to join the army in Moldavia. While in Petersburg Prince Andrew met Kutuzov, his former commander who was always well disposed toward him, and Kutuzov suggested that he should accompany him to the army in Moldavia, to which the old general had been appointed commander in chief. So Prince Andrew, having received an appointment on the headquarters staff, left for Turkey.

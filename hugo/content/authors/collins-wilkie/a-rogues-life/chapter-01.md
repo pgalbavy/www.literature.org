@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/collins-wilkie/a-rogues-life/chapter-01.html"
+url: "/authors/collins-wilkie/a-rogues-life/chapter-01.html"
 ---
 
 I AM going to try if I can't write something about myself. My life has been rather a strange one. It may not seem particularly useful or respectable; but it has been, in some respects, adventurous; and that may give it claims to be read, even in the most prejudiced circles. I am an example of some of the workings of the social system of this illustrious country on the individual native, during the early part of the present century; and, if I may say so without unbecoming vanity, I should like to quote myself for the edification of my countrymen.

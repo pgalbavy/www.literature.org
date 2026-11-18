@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Secret"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-08.html"
 ---
 
 When Major Monkey awoke the following morning his pain had left him. Creeping from the haystack where he had slept, he cast longing eyes at the red apples in the tree near-by. But he remembered his trouble of the evening before. And he remembered likewise what Mr. Crow had said about "finding" something to eat at the farmhouse.

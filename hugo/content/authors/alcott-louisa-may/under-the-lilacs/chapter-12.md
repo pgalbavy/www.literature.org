@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Good Times"
 weight: 12
-aliases:
-  - "/authors/alcott-louisa-may/under-the-lilacs/chapter-12.html"
+url: "/authors/alcott-louisa-may/under-the-lilacs/chapter-12.html"
 ---
 
 Every one was very kind to Ben when his loss was known. The Squire wrote to Mr. Smithers that the boy had found friends and would stay where he was. Mrs. Moss consoled him in her motherly way, and the little girls did their very best to "be good to poor Benny." But Miss Celia was his truest comforter, and completely won his heart, not only by the friendly words she said and the pleasant things she did, but by the unspoken sympathy which showed itself just at the right minute, in a look, a touch, a smile, more helpful than any amount of condolence. She called him "my man," and Ben tried to be one, bearing his trouble so bravely that she respected him. although he was only a little boy, because it promised well for the future.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/conrad-joseph/gaspar-ruiz/chapter-10.html"
+url: "/authors/conrad-joseph/gaspar-ruiz/chapter-10.html"
 ---
 
 "*AFTER* this—as he called it—act of justice, Ruiz crossed the Rio Blanco, followed by the greater part of his band, and entrenched himself upon a hill A company of regular troops sent out foolishly against him was surrounded, and destroyed almost to a man. Other expeditions, though better organised, were equally unsuccessful.

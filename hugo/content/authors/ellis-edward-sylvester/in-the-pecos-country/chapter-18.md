@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Alone In The Ravine"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-18.html"
 ---
 
 Fred Munson felt that he had been extremely fortunate, not only in securing a good, substantial supper, but in getting a rifle. With it he could guard against danger and starvation. In that country, and especially among those mountains, was quite an abundance of game, and he had learned how to aim a gun too well to prevent his throwing any shots away.

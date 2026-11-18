@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - It Wasn't Thunder"
 weight: 19
-aliases:
-  - "/authors/scott-arthur/the-tale-of-chirpy-cricket/chapter-19.html"
+url: "/authors/scott-arthur/the-tale-of-chirpy-cricket/chapter-19.html"
 ---
 
 Quite often, during the nightly concerts in which Chirpy Cricket took part, he had noticed an odd cry, _Peent! Peent!_ which seemed to come from the woods. And sometimes there followed from the same direction a hollow, booming sound, as if somebody were amusing himself by blowing across the bung-hole of an empty barrel.

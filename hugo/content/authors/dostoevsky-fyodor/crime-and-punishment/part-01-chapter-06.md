@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 6"
 weight: 7
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-01-chapter-06.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-01-chapter-06.html"
 ---
 
 Later on Raskolnikov happened to find out why the huckster and his wife had invited Lizaveta. It was a very ordinary matter and there was nothing exceptional about it. A family who had come to the town and been reduced to poverty were selling their household goods and clothes, all women's things. As the things would have fetched little in the market, they were looking for a dealer. This was Lizaveta's business. She undertook such jobs and was frequently employed, as she was very honest and always fixed a fair price and stuck to it. She spoke as a rule little and, as we have said already, she was very submissive and timid.

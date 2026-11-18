@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Little Black Girl And Julius Caesar"
 weight: 10
-aliases:
-  - "/authors/nesbit-edith/the-story-of-the-amulet/chapter-10.html"
+url: "/authors/nesbit-edith/the-story-of-the-amulet/chapter-10.html"
 ---
 
 A great city swept away by the sea, a beautiful country devastated by an active volcano - these are not the sort of things you see every day of the week. And when you do see them, no matter how many other wonders you may have seen in your time, such sights are rather apt to take your breath away. Atlantis had certainly this effect on the breaths of Cyril, Robert, Anthea, and Jane.

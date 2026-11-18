@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-09.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-09.html"
 ---
 
 Stuart Farquaharson had tempered a dignified strength with a gracious fortitude. He had endured slanderous charges and stood with the steadiness of a reef-light when Conscience was steering a storm ridden course, but the constant pressure on the dykes of his self-command had strained them until they might break at any moment and let the flood of passion swirl through with destructive power. He was being oppressed and seeing Conscience oppressed by a spirit which he regarded as viciously illiberal--and he accused Conscience, in his own mind, of blind obedience to a distorted sense of duty. Unconsciously he was seeking to coerce her into repudiating it by a form of argument in which the graciousness of his nature gave way to a domineering insistence. Unconsciously, too, that form of attack aroused in her an unyielding quality of opposition.

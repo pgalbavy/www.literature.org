@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 29"
 weight: 29
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-29.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-29.html"
 ---
 
 Possibly some day a historian versed in the intricacies of high--and low--finance will record in detail, comprehensible and convincing to those who thirst for statistical minutiæ, the last chapters of Hamilton Burton's history. Here it will only be set baldly down that the weeks, for him, went galloping toward and over the brink of things--until he found his affairs still reckoned in many millions, but all in the millions of liabilities.

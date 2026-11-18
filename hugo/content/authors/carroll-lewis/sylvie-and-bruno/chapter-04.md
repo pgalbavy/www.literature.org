@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A Cunning Conspiracy"
 weight: 5
-aliases:
-  - "/authors/carroll-lewis/sylvie-and-bruno/chapter-04.html"
+url: "/authors/carroll-lewis/sylvie-and-bruno/chapter-04.html"
 ---
 
 The Warden entered at this moment: and close behind him came the Lord Chancellor, a little flushed and out of breath, and adjusting his wig, which appeared to have been dragged partly off his head.

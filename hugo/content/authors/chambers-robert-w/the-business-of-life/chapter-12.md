@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/chambers-robert-w/the-business-of-life/chapter-12.html"
+url: "/authors/chambers-robert-w/the-business-of-life/chapter-12.html"
 ---
 
 During her week's absence from town Jacqueline's mail had accumulated; a number of business matters had come into the office, the disposal of which now awaited her decision—requests from wealthy connoisseurs for expert opinion, offers to dispose of collections entire or in part, invitations to dealers' secret conferences, urgent demands for appraisers, questions concerning origin or authenticity, commissions to buy, sell, advertise, or send searchers throughout the markets at home or abroad for anything from a tiny shrine of Limoges enamel to a complete suit of equestrian armour to fill a gap in a series belonging to some rich man's museum.

@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 24"
 weight: 341
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-24.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-24.html"
 ---
 
 The flood of nations begins to subside into its normal channels. The waves of the great movement abate, and on the calm surface eddies are formed in which float the diplomatists, who imagine that they have caused the floods to abate.

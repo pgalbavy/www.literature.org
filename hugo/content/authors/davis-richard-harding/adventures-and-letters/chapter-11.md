@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Spanish-American War"
 weight: 11
-aliases:
-  - "/authors/davis-richard-harding/adventures-and-letters/chapter-11.html"
+url: "/authors/davis-richard-harding/adventures-and-letters/chapter-11.html"
 ---
 
 When the news reached Richard that the Spanish-American War seemed inevitable he returned at once to New York. Here he spent a few days in arranging to act as correspondent for the New York Herald, the London Times, and Scribner's Magazine, and then started for Key West.

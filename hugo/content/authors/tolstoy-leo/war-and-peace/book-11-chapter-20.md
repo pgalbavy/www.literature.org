@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 20"
 weight: 249
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-20.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-20.html"
 ---
 
 Meanwhile Moscow was empty. There were still people in it, perhaps a fiftieth part of its former inhabitants had remained, but it was empty. It was empty in the sense that a dying queenless hive is empty.

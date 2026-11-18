@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40 - Midnight, Forecastle"
 weight: 40
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-040.html"
+url: "/authors/melville-herman/moby-dick/chapter-040.html"
 ---
 
 HARPOONEERS AND SAILORS

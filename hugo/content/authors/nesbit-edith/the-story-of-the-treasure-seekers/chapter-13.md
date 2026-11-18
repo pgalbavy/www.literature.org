@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Robber And The Burglar"
 weight: 13
-aliases:
-  - "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-13.html"
+url: "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-13.html"
 ---
 
 A day or two after Noel came back from Hastings there was snow; it was jolly. And we cleared it off the path. A man to do it is sixpence at least, and you should always save when you can. A penny saved is a penny earned. And then we thought it would be nice to clear it off the top of the portico, where it lies so thick, and the edges as if they had been cut with a knife. And just as we had got out of the landing-window on to the portico, the Water Rates came up the path with his book that he tears the thing out of that says how much you have got to pay, and the little ink-bottle hung on to his buttonhole in case you should pay him. Father says the Water Rates is a sensible man, and knows it is always well to be prepared for whatever happens, however unlikely. Alice said afterwards that she rather liked the Water Rates, really, and Noel said he had a face like a good vizier, or the man who rewards the honest boy for restoring the purse, but we did not think about these things at the time, and as the Water Rates came up the steps, we shovelled down a great square slab of snow like an avalanche - and it fell right on his head. Two of us thought of it at the same moment, so it was quite a large avalanche. And when the Water Rates had shaken himself he rang the bell. It was Saturday, and Father was at home. We know now that it is very wrong and ungentlemanly to shovel snow off porticoes on to the Water Rates, or any other person, and we hope he did not catch a cold, and we are very sorry. We apologized to the Water Rates when Father told us to. We were all sent to bed for it.

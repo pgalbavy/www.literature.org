@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Shaking"
 weight: 10
-aliases:
-  - "/authors/carroll-lewis/through-the-looking-glass/chapter-10.html"
+url: "/authors/carroll-lewis/through-the-looking-glass/chapter-10.html"
 ---
 
 She took her off the table as she spoke, and shook her backwards and forwards with all her might.

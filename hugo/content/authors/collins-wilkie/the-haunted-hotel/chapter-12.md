@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/collins-wilkie/the-haunted-hotel/chapter-12.html"
+url: "/authors/collins-wilkie/the-haunted-hotel/chapter-12.html"
 ---
 
 'Do you think she is mad?' Agnes asked.

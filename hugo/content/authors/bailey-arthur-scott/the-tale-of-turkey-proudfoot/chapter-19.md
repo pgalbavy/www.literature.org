@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Night In The Woods"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-19.html"
 ---
 
 Mr. Grouse and Tommy Fox soon went about their business, leaving Turkey Proudfoot to roost in the oak tree in the woods.

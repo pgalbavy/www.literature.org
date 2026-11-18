@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - A Telegram"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-21.html"
 ---
 
 You will remember that Mike Murphy, the Irish laddie, was brimful of pluck, powerful and sturdy of build and with little in the nature of fear in his make-up. His short legs, however, were not meant for fleetness, and he never would have won fame as a sprinter. When he parted company with Alvin Landon and Chester Haynes, only one purpose controlled him—that was to regain possession of the stolen motor boat *Deerfoot* and incidentally to administer proper punishment to the thieves who had so boldly stolen the craft.

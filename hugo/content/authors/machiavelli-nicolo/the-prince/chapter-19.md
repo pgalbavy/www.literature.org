@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - That One Should Avoid Being Despised And Hated"
 weight: 20
-aliases:
-  - "/authors/machiavelli-nicolo/the-prince/chapter-19.html"
+url: "/authors/machiavelli-nicolo/the-prince/chapter-19.html"
 ---
 
 Now, concerning the characteristics of which mention is made above, I have spoken of the more important ones, the others I wish to discuss briefly under this generality, that the prince must consider, as has been in part said before, how to avoid those things which will make him hated or contemptible; and as often as he shall have succeeded he will have fulfilled his part, and he need not fear any danger in other reproaches.

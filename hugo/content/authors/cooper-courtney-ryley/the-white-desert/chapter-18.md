@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/cooper-courtney-ryley/the-white-desert/chapter-18.html"
+url: "/authors/cooper-courtney-ryley/the-white-desert/chapter-18.html"
 ---
 
 It was a grinning Barry Houston who leaped from the train at Tabernacle a week later and ran open-armed through the snow toward the waiting Ba'tiste.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Crossing the Line"
 weight: 23
-aliases:
-  - "/authors/carroll-lewis/sylvie-and-bruno/chapter-22.html"
+url: "/authors/carroll-lewis/sylvie-and-bruno/chapter-22.html"
 ---
 
 "Let us lapse back again," said Lady Muriel. "Take another cup of tea? I hope that's sound common sense?"

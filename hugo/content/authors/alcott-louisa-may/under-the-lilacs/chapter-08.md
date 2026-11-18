@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Miss Celia's Man"
 weight: 8
-aliases:
-  - "/authors/alcott-louisa-may/under-the-lilacs/chapter-08.html"
+url: "/authors/alcott-louisa-may/under-the-lilacs/chapter-08.html"
 ---
 
 Ben was not too tired, and the clearing-up began that very night. None too soon, for in a day or two things arrived, to the great delight of the children, who considered moving a most interesting play. First came the phaeton, which Ben spent all his leisure moments in admiring; wondering with secret envy what happy boy would ride in the little seat up behind, and beguiling his tasks by planning how, when he got rich, he would pass his time driving about in just such an equipage, and inviting all the boys he met to have a ride.

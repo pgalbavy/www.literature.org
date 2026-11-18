@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Biology"
 weight: 8
-aliases:
-  - "/authors/wells-herbert-george/ann-veronica/chapter-08.html"
+url: "/authors/wells-herbert-george/ann-veronica/chapter-08.html"
 ---
 
 January found Ann Veronica a student in the biological laboratory of the Central Imperial College that towers up from among the back streets in the angle between Euston Road and Great Portland Street. She was working very steadily at the Advanced Course in Comparative Anatomy, wonderfully relieved to have her mind engaged upon one methodically developing theme in the place of the discursive uncertainties of the previous two months, and doing her utmost to keep right in the back of her mind and out of sight the facts, firstly, that she had achieved this haven of satisfactory activity by incurring a debt to Ramage of forty pounds, and, secondly, that her present position was necessarily temporary and her outlook quite uncertain.

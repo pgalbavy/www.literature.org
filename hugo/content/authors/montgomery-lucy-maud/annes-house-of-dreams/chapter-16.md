@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - New Year's Eve At The Light"
 weight: 16
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-16.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-16.html"
 ---
 
 The Green Gables folk went home after Christmas, Marilla under solemn covenant to return for a month in the spring. More snow came before New Year's, and the harbor froze over, but the gulf still was free, beyond the white, imprisoned fields. The last day of the old year was one of those bright, cold, dazzling winter days, which bombard us with their brilliancy, and command our admiration but never our love. The sky was sharp and blue; the snow diamonds sparkled insistently; the stark trees were bare and shameless, with a kind of brazen beauty; the hills shot assaulting lances of crystal. Even the shadows were sharp and stiff and clear-cut, as no proper shadows should be. Everything that was handsome seemed ten times handsomer and less attractive in the glaring splendor; and everything that was ugly seemed ten times uglier, and everything was either handsome or ugly. There was no soft blending, or kind obscurity, or elusive mistiness in that searching glitter. The only things that held their own individuality were the firs--for the fir is the tree of mystery and shadow, and yields never to the encroachments of crude radiance.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - “there Is Hope”"
 weight: 18
-aliases:
-  - "/authors/haggard-h-rider/elissa/chapter-17.html"
+url: "/authors/haggard-h-rider/elissa/chapter-17.html"
 ---
 
 It was dawn. Ithobal the king stood without the gates of the tomb of Baaltis, the grey light glimmering faintly on his harness, and knocked upon the brazen bars with the handle of his sword.

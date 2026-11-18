@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Getting Under Sail"
 weight: 2
-aliases:
-  - "/authors/verne-jules/the-blockade-runners/chapter-02.html"
+url: "/authors/verne-jules/the-blockade-runners/chapter-02.html"
 ---
 
 The Dolphin was rapidly equipped, her rigging was ready, and there was nothing to do but fit her up. She carried three schooner-masts, an almost useless luxury; in fact, the Dolphin did not rely on the wind to escape the Federalists, but rather on her powerful engines.

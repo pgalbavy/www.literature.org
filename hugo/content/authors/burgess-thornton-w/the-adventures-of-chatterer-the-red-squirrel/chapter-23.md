@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Chatterer Grows Very, Very Bold"
 weight: 23
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-23.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-23.html"
 ---
 
 "I'm not afraid. I am afraid. I'm not afraid. I am afraid. I'm not afraid."

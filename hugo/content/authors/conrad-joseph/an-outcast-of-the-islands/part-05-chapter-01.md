@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 1"
 weight: 24
-aliases:
-  - "/authors/conrad-joseph/an-outcast-of-the-islands/part-05-chapter-01.html"
+url: "/authors/conrad-joseph/an-outcast-of-the-islands/part-05-chapter-01.html"
 ---
 
 Almayer propped, alone on the verandah of his house, with both his elbows on the table, and holding his head between his hands, stared before him, away over the stretch of sprouting young grass in his courtyard, and over the short jetty with its cluster of small canoes, amongst which his big whale-boat floated high, like a white mother of all that dark and aquatic brood. He stared on the river, past the schooner anchored in mid-stream, past the forests of the left bank; he stared through and past the illusion of the material world.

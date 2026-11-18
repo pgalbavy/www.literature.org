@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 32
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-32.html"
+url: "/authors/eliot-george/middlemarch/chapter-32.html"
 ---
 
 "They'll take suggestion as a cat laps milk." - SHAKESPEARE: Tempest.

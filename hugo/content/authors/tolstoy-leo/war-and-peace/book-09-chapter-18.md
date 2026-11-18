@@ -1,8 +1,7 @@
 ---
 title: "Book 9 - Chapter 18"
 weight: 185
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-09-chapter-18.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-09-chapter-18.html"
 ---
 
 At the beginning of July more and more disquieting reports about the war began to spread in Moscow; people spoke of an appeal by the Emperor to the people, and of his coming himself from the army to Moscow. And as up to the eleventh of July no manifesto or appeal had been received, exaggerated reports became current about them and about the position of Russia. It was said that the Emperor was leaving the army because it was in danger, it was said that Smolensk had surrendered, that Napoleon had an army of a million and only a miracle could save Russia.

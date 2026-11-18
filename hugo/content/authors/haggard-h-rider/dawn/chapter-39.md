@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39"
 weight: 40
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-39.html"
+url: "/authors/haggard-h-rider/dawn/chapter-39.html"
 ---
 
 Notwithstanding his brave threats made behind Angela's back, about forcing her to marry him in the teeth of any opposition that she could offer, George reached home that night very much disheartened about the whole business. How was he to bow the neck of this proud woman to his yoke, and break the strong cord of her allegiance to her absent lover. With many girls it might have been possible to find a way, but Angela was not an ordinary girl. He had tried, and Lady Bellamy had tried, and they had both failed, and as for Philip he would take no active part in the matter. What more could be done? Only one thing that he could think of, he could force Lady Bellamy to search her finer brains for a fresh expedient. Acting upon this idea, he at once despatched a note to her, requesting her to come and see him at Isleworth on the following morning.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/tarkington-booth/the-guest-of-quesnay/chapter-17.html"
+url: "/authors/tarkington-booth/the-guest-of-quesnay/chapter-17.html"
 ---
 
 Keredec was alone in his salon, extended at ease upon a long chair, an ottoman and a stool, when I burst in upon him; a portentous volume was in his lap, and a prolific pipe, smoking up from his great cloud of beard, gave the final reality to the likeness he thus presented of a range of hills ending in a volcano. But he rolled the book cavalierly to the floor, limbered up by sections to receive me, and offered me a hearty welcome.

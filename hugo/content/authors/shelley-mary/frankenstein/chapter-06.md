@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/shelley-mary/frankenstein/chapter-06.html"
+url: "/authors/shelley-mary/frankenstein/chapter-06.html"
 ---
 
 Clerval then put the following letter into my hands. It was from my own Elizabeth:--

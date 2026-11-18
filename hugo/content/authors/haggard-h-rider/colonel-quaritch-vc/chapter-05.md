@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Squire Explains The Position"
 weight: 5
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-05.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-05.html"
 ---
 
 "I don't know what is coming to this country, I really don't; and that's a fact," said the Squire to his companion, after they had walked some paces in silence. "Here is the farm, the Moat Farm. It fetched twenty-five shillings an acre when I was a young man, and eight years ago it used to fetch thirty-five. Now I have reduced it and reduced it to fifteen, just in order to keep the tenant. And what is the end of it? Janter--he's the tenant--gave notice last Michaelmas; but that stupid owl, George, said it was all nothing, and that he would continue at fifteen shillings when the time came. And now to-night he comes to me with a face as long as a yard-arm, and says that Janter won't keep it at any price, and that he does not know where he is to find another tenant, not he. It's quite heartbreaking, that's what it is. Three hundred acres of good, sound, food-producing land, and no tenant for it at fifteen shillings an acre. What am I to do?"

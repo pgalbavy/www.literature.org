@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Good Fellowship"
 weight: 4
-aliases:
-  - "/authors/tarkington-booth/his-own-people/chapter-04.html"
+url: "/authors/tarkington-booth/his-own-people/chapter-04.html"
 ---
 
 He confessed his wickedness to Madame de Vaurigard the next afternoon as they drove out the Appian Way. "A fellow must have just a bit of a fling, you know," he said; "and, really, Salone Margherita isn't so tremendously wicked."

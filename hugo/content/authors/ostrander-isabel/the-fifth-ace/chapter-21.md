@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Return Of Tia Juana"
 weight: 21
-aliases:
-  - "/authors/ostrander-isabel/the-fifth-ace/chapter-21.html"
+url: "/authors/ostrander-isabel/the-fifth-ace/chapter-21.html"
 ---
 
 "I tell you, Starr, it's all very well to play a waiting game, but we've got to start something and start it soon, or we'll be up against the worst fix we've ever struck in our lives, and that will be going some!" Harrington Chase paused in his restless pacing of the private office to regard his partner with troubled eyes. "We've got to make a big killing or we're due to go under, and you know what that'll mean."

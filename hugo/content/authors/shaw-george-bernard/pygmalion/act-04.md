@@ -1,8 +1,7 @@
 ---
 title: "Act 4"
 weight: 5
-aliases:
-  - "/authors/shaw-george-bernard/pygmalion/act-04.html"
+url: "/authors/shaw-george-bernard/pygmalion/act-04.html"
 ---
 
 The Wimpole Street laboratory. Midnight. Nobody in the room. The clock on the mantelpiece strikes twelve. The fire is not alight: it is a summer night.

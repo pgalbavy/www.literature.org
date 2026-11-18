@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Empty"
 weight: 8
-aliases:
-  - "/authors/dorrance-ethel-and-james/lonesome-town/chapter-08.html"
+url: "/authors/dorrance-ethel-and-james/lonesome-town/chapter-08.html"
 ---
 
 Pape, the while, had grown most anxious to know the exact whereabouts of the young woman in the case. He found it nervous work, this expecting her appearance every minute—this playing the detective when she, with one glance, could detect him. Would she or would she not expose him? The full imperativeness of the question was in the gaze he bent upon the matron.

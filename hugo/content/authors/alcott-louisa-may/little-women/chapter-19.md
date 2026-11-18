@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Amy's Will"
 weight: 19
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-19.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-19.html"
 ---
 
 While these things were happening at home, Amy was having hard times at Aunt March's. She felt her exile deeply, and for the first time in her life, realized how much she was beloved and petted at home. Aunt March never petted any one; she did not approve of it, but she meant to be kind, for the well-behaved little girl pleased her very much, and Aunt March had a soft place in her old heart for her nephew's children, though she didn't think it proper to confess it. She really did her best to make Amy happy, but, dear me, what mistakes she made. Some old people keep young at heart in spite of wrinkles and gray hairs, can sympathize with children's little cares and joys, make them feel at home, and can hide wise lessons under pleasant plays, giving and receiving friendship in the sweetest way. But Aunt March had not this gift, and she worried Amy very much with her rules and orders, her prim ways, and long, prosy talks. Finding the child more docile and amiable than her sister, the old lady felt it her duty to try and counteract, as far as possible, the bad effects of home freedom and indulgence. So she took Amy by the hand, and taught her as she herself had been taught sixty years ago, a process which carried dismay to Amy's soul, and made her feel like a fly in the web of a very strict spider.

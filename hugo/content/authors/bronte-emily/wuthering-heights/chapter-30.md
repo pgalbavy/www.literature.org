@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-30.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-30.html"
 ---
 
 I HAVE paid a visit to the Heights, but I have not seen her since she left: Joseph held the door in his hand when I called to ask after her, and wouldn't let me pass. He said Mrs. Linton was 'thrang,' and the master was not in. Zillah has told me something of the way they go on, otherwise I should hardly know who was dead and who living. She thinks Catherine haughty, and does not like her, I can guess by her talk. My young lady asked some aid of her when she first came; but Mr. Heathcliff told her to follow her own business, and let his daughter-in-law look after herself; and Zillah willingly acquiesced, being a narrow-minded, selfish woman. Catherine evinced a child's annoyance at this neglect; repaid it with contempt, and thus enlisted my informant among her enemies, as securely as if she had done her some great wrong. I had a long talk with Zillah about six weeks ago, a little before you came, one day when we foregathered on the moor; and this is what she told me.

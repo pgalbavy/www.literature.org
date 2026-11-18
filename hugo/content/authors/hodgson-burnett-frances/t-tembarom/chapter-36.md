@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 36
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-36.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-36.html"
 ---
 
 It was in the course of the “lessons” that he realized that he had always argued that the best way to do business was to do it face to face with people. To stay in England, and let another chap make your bargains for you in France or Germany or some other outlandish place, where frog-eating foreigners ran loose, was a fool's trick. He'd said it often enough. “Get your eye on 'em, and let them know you've got it on them, and they'd soon find out they were dealing with Lancashire, and not with foreign knaves and nincompoops.” So, when it became necessary to deal with France, Little Ann packed him up neatly, so to speak, and in the role of obedient secretarial companion took him to that country, having for weeks beforehand mentally confronted the endless complications attending the step. She knew, in the first place, what the effect of the French language would be upon his temper: that it would present itself to him as a wall deliberately built by the entire nation as a means of concealing a deep duplicity the sole object of which was the baffling, thwarting, and undoing of Englishmen, from whom it wished to wrest their honest rights. Apoplexy becoming imminent, as a result of his impotent rage during their first few days in Paris, she paid a private visit to a traveler's agency, and after careful inquiry discovered that it was not impossible to secure the attendance and service of a well-mannered young man who spoke most of the languages employed by most of the inhabitants of the globe. She even found that she might choose from a number of such persons, and she therefore selected with great care.

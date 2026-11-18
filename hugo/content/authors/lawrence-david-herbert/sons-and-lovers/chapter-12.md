@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Passion"
 weight: 12
-aliases:
-  - "/authors/lawrence-david-herbert/sons-and-lovers/chapter-12.html"
+url: "/authors/lawrence-david-herbert/sons-and-lovers/chapter-12.html"
 ---
 
 HE was gradually making it possible to earn a livelihood by his art. Liberty's had taken several of his painted designs on various stuffs, and he could sell designs for embroideries, for altar-cloths, and similar things, in one or two places. It was not very much he made at present, but he might extend it. He had also made friends with the designer for a pottery firm, and was gaining some knowledge of his new acquaintance's art. The applied arts interested him very much. At the same time he laboured slowly at his pictures. He loved to paint large figures, full of light, but not merely made up of lights and cast shadows, like the impressionists; rather definite figures that had a certain luminous quality, like some of Michael Angelo's people. And these he fitted into a landscape, in what he thought true proportion. He worked a great deal from memory, using everybody he knew. He believed firmly in his work, that it was good and valuable. In spite of fits of depression, shrinking, everything, he believed in his work.

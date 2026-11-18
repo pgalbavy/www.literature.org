@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-24.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-24.html"
 ---
 
 During which Mr. Fogg and party cross the Pacific ocean

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Virginia Explains--Nothing"
 weight: 22
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-22.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-22.html"
 ---
 
 She was covered by a cloak and there was a man's hat on her head, but Wiley knew her--it was Virginia Huff. The moon had mounted high and the chill of the morning was in the air, so he could hardly flatter himself that she had come to see him. Perhaps it was just to see the mine. But if, beneath that cloak, she carried some instrument of destruction--he stepped out and watched her covertly. She tiptoed up the trail, glancing nervously about her, starting back as a trammer dumped his ore; and then, very slowly, she crept past his house and disappeared in the direction of the mill. Instantly he whipped out of his tunnel and started after her, running swiftly up the trail; but as he neared the summit she came catapulting against him, running as swiftly the other way.

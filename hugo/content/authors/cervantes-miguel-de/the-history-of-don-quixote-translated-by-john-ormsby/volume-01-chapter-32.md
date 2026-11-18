@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 32 - Which Treats Of What Befell Don Quixote’s Party At The Inn"
 weight: 35
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-32.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-32.html"
 ---
 
 Their dainty repast being finished, they saddled at once, and without any adventure worth mentioning they reached next day the inn, the object of Sancho Panza’s fear and dread; but though he would have rather not entered it, there was no help for it. The landlady, the landlord, their daughter, and Maritornes, when they saw Don Quixote and Sancho coming, went out to welcome them with signs of hearty satisfaction, which Don Quixote received with dignity and gravity, and bade them make up a better bed for him than the last time: to which the landlady replied that if he paid better than he did the last time she would give him one fit for a prince. Don Quixote said he would, so they made up a tolerable one for him in the same garret as before; and he lay down at once, being sorely shaken and in want of sleep.

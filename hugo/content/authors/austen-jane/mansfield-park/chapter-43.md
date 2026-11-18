@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43"
 weight: 43
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-43.html"
+url: "/authors/austen-jane/mansfield-park/chapter-43.html"
 ---
 
 It was presumed that Mr. Crawford was travelling back, to London, on the morrow, for nothing more was seen of him at Mr. Price's; and two days afterwards, it was a fact ascertained to Fanny by the following letter from his sister, opened and read by her, on another account, with the most anxious curiosity:--

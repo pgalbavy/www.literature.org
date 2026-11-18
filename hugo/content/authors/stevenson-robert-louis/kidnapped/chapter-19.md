@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The House Of Fear"
 weight: 20
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-19.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-19.html"
 ---
 
 Night fell as we were walking, and the clouds, which had broken up in the afternoon, settled in and thickened, so that it fell, for the season of the year, extremely dark. The way we went was over rough mountainsides; and though Alan pushed on with an assured manner, I could by no means see how he directed himself.

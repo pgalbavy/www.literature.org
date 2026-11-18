@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - Henrietta Maria And Mazarin"
 weight: 38
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-38.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-38.html"
 ---
 
 The cardinal rose, and advanced in haste to receive the queen of England. He showed the more respect to this queen, deprived of every mark of pomp and stripped of followers, as he felt some self-reproach for his own want of heart and his avarice. But supplicants for favor know how to accommodate the expression of their features, and the daughter of Henry IV. smiled as she advanced to meet a man she hated and despised.

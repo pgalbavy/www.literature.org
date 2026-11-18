@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The \"Shapes\""
 weight: 12
-aliases:
-  - "/authors/leblanc-maurice/the-three-eyes/chapter-12.html"
+url: "/authors/leblanc-maurice/the-three-eyes/chapter-12.html"
 ---
 
 On the morning of the day following this memorable spectacle, I woke late, after a feverish night during which I twice seemed to hear the sound of a shot.

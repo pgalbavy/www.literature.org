@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Glacier"
 weight: 6
-aliases:
-  - "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-05.html"
+url: "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-05.html"
 ---
 
 Even that day came to an end at last, and after a few more lumps of yak, our tent being gone, we drew his hide over us and rested as best we could, knowing that at least we had no more avalanches to fear. That night it froze sharply, so that had it not been for the yak’s hide and the other rugs and garments, which fortunately we were wearing when the snow-slide began, it would, I think, have gone hard with us. As it was, we suffered a great deal.

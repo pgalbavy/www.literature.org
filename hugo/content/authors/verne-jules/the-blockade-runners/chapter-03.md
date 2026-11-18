@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Things Are Not What They Seem"
 weight: 3
-aliases:
-  - "/authors/verne-jules/the-blockade-runners/chapter-03.html"
+url: "/authors/verne-jules/the-blockade-runners/chapter-03.html"
 ---
 
 The Dolphin had a good crew, not fighting men, or boarding sailors, but good working men, and that was all she wanted. These brave, determined fellows were all, more or less, merchants; they sought a fortune rather than glory; they had no flag to display, no colours to defend with cannon; in fact, all the artillery on board consisted of two small swivel signal-guns.

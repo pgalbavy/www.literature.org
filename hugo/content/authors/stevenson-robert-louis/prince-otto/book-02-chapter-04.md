@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 4 - While The Prince Is In The Ante-Room"
 weight: 10
-aliases:
-  - "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-04.html"
+url: "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-04.html"
 ---
 
 Greatly comforted by the exploits of the morning, the Prince turned towards the Princess’s ante-room, bent on a more difficult enterprise. The curtains rose before him, the usher called his name, and he entered the room with an exaggeration of his usual mincing and airy dignity. There were about a score of persons waiting, principally ladies; it was one of the few societies in Grünewald where Otto knew himself to be popular; and while a maid of honour made her exit by a side door to announce his arrival to the Princess, he moved round the apartment, collecting homage and bestowing compliments with friendly grace. Had this been the sum of his duties, he had been an admirable monarch. Lady after lady was impartially honoured by his attention.

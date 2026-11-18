@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - A Vision Of The Night"
 weight: 34
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-33.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-33.html"
 ---
 
 RETURNING to the cottage parlor, I took a chair by the window and opened my pocket-book at a blank page. I had certain directions to give to my representatives, which might spare them some trouble and uncertainty in the event of my death. Disguising my last instructions under the commonplace heading of "Memoranda on my return to London," I began to write.

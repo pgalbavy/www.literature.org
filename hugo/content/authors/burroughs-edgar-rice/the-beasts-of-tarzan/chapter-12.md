@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - A Black Scoundrel"
 weight: 12
-aliases:
-  - "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-12.html"
+url: "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-12.html"
 ---
 
 When Jane Clayton regained consciousness she saw Anderssen standing over her, holding the baby in his arms. As her eyes rested upon them an expression of misery and horror overspread her countenance.

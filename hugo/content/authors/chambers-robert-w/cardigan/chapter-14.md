@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/chambers-robert-w/cardigan/chapter-14.html"
+url: "/authors/chambers-robert-w/cardigan/chapter-14.html"
 ---
 
 I had learned from our host of the "Virginia Arms" that the so-called "Governor's Hall," which stood within the limits of the fortifications, had been built by the French in 1755. Poor Braddock's brief début before Fort Duquesne in that same year interrupted the building of "Governor's Hall," which was called by the French "La Fortresse de la Reine," and which, with the exception of our stone fort at Johnstown, was the only formidable and solidly fortified edifice of stone west of the Hudson.

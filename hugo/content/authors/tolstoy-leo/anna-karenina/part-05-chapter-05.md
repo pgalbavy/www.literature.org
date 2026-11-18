@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 5"
 weight: 129
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-05.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-05.html"
 ---
 
 In the church there was all Moscow, all the friends and relations; and during the ceremony of plighting troth, in the brilliantly lighted church, there was an incessant flow of discreetly subdued talk in the circle of gaily dressed women and girls, and men in white ties, frockcoats, and uniforms. The talk was principally kept up by the men, while the women were absorbed in watching every detail of the ceremony, which always means so much to them.

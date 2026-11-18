@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The First Curse"
 weight: 12
-aliases:
-  - "/authors/haggard-h-rider/the-ivory-child/chapter-12.html"
+url: "/authors/haggard-h-rider/the-ivory-child/chapter-12.html"
 ---
 
 The next thing I remember was feeling upon my face the sunlight that poured through a window-place which was protected by immovable wooden bars. For a while I lay still, reflecting as memory returned to me upon all the events of the previous day and upon my present unhappy position. Here I was a prisoner in the hands of a horde of fierce savages who had every reason to hate me, for though this was done in self-defence, had I not killed a number of their people against whom personally I had no quarrel? It was true that their king had promised me safety, but what reliance could be put upon the word of such a man? Unless something occurred to save me, without doubt my days were numbered. In this way or in that I should be murdered, which served me right for ever entering upon such a business.

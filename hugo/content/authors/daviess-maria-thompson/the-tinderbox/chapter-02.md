@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Maiden Lance"
 weight: 2
-aliases:
-  - "/authors/daviess-maria-thompson/the-tinderbox/chapter-02.html"
+url: "/authors/daviess-maria-thompson/the-tinderbox/chapter-02.html"
 ---
 
 A woman may shut her eyes, and put a man determinedly out of her heart, and in two minutes she will wake up in an agony of fear that he isn't there. Now, as I have decided that Glendale is to be the scene of this bloodless revolution of mine--it would be awful to carry out such an undertaking anywhere but under the protection of ancestral traditions--I have operated Richard Hall out of my inmost being with the utmost cruelty, on an average of every two hours, for this week Jane and I have been in New York; and I have still got him with me.

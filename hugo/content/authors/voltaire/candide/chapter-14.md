@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Reception Candide and Cacambo Met with among the Jesuits in Paraguay"
 weight: 14
-aliases:
-  - "/authors/voltaire/candide/chapter-14.html"
+url: "/authors/voltaire/candide/chapter-14.html"
 ---
 
 Candide had brought with him from Cadiz such a footman as one often meets with on the coasts of Spain and in the colonies. He was the fourth part of a Spaniard, of a mongrel breed, and born in Tucuman. He had successively gone through the profession of a singing boy, sexton, sailor, monk, peddler, soldier, and lackey. His name was Cacambo; he had a great affection for his master, because his master was a very good man. He immediately saddled the two Andalusian horses.

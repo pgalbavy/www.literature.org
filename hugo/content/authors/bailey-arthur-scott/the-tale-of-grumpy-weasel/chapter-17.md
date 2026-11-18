@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Grumpy's Mistake"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-17.html"
 ---
 
 As soon as Grumpy Weasel left to chase the squirrels and mice that he had frightened away from the corncrib Fatty Coon hurried into the building through a hole in the floor which nobody knew but himself.

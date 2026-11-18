@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-15.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-15.html"
 ---
 
 Wall, from that night, Miss Trueman Pool attended to the meetins at the Risley school-house, stiddy and constant. And before the week wuz out Joe Charnick had walked home with her twice. And the next week he carried her to Jonesville to get the cloth for her robe, jest like his'n, white book muslin. And twice he had come to consult her on a Bible passage, and twice she had walked up to his mother's to consult with her on a passage in the Apockraphy. And once she went up to see if her wings wuz es deep and full es his'n. She wanted 'em jest the same size.

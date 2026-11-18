@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/ridge-w-pett/the-amazing-years/chapter-17.html"
+url: "/authors/ridge-w-pett/the-amazing-years/chapter-17.html"
 ---
 
 The arrival of the baby boy at Gloucester Place made an extraordinary difference in many ways. Katherine might well have protested against being deprived of some of her rights; instead she looked on good-temperedly and with an obvious pride in the interest created by her son; her own talk was mainly of the bank, and the possibility that the authorities might allow her to return so soon as she was sufficiently restored to health. It depended, she told me, on the quality of girls newly engaged there since her departure; a highly placed official named Cummings would have a voice in the matter.

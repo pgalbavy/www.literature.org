@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Woman"
 weight: 1
-aliases:
-  - "/authors/titus-harold/bruce-of-the-circle-a/chapter-01.html"
+url: "/authors/titus-harold/bruce-of-the-circle-a/chapter-01.html"
 ---
 
 Daylight and the Prescott-Phoenix train were going from Yavapai. Fifty paces from the box of a station a woman stood alone beside the track, bag in hand, watching the three red lights of the observation platform dwindle to a ruby unit far down the clicking ribbons of steel. As she watched, she felt herself becoming lost in the spaciousness, the silence of an Arizona evening.

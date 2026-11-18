@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Small Temptations"
 weight: 12
-aliases:
-  - "/authors/alcott-louisa-may/rose-in-bloom/chapter-11.html"
+url: "/authors/alcott-louisa-may/rose-in-bloom/chapter-11.html"
 ---
 
 "Oh, Rose, I've got something so exciting to tell you!" cried Kitty Van Tassel, skipping into the carriage next morning when her friend called for her to go shopping.

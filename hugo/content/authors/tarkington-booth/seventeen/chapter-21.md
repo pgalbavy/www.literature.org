@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - My Little Sweethearts"
 weight: 21
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-21.html"
+url: "/authors/tarkington-booth/seventeen/chapter-21.html"
 ---
 
 When George did stop, it was abruptly, during one of these intervals of sobriety, and he and Miss Pratt came out of the house together rather quietly, joining one of the groups of young people chatting with after-dinner languor under the trees. However, Mr. Crooper began to revive presently, in the sweet air of outdoors, and, observing some of the more flashing gentlemen lighting cigarettes, he was moved to laughter. He had not smoked since his childhood—having then been bonded through to twenty-one with a pledge of gold—and he feared that these smoking youths might feel themselves superior. Worse, Miss Pratt might be impressed, therefore he laughed in scorn, saying:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Danger Averted"
 weight: 14
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-14.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-14.html"
 ---
 
 Anne, walking home from the post office one Friday evening, was joined by Mrs. Lynde, who was as usual cumbered with all the cares of church and state.

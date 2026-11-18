@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - François And Stéphane"
 weight: 8
-aliases:
-  - "/authors/leblanc-maurice/the-secret-of-sarek/chapter-07.html"
+url: "/authors/leblanc-maurice/the-secret-of-sarek/chapter-07.html"
 ---
 
 Long the mother and son remained thus, kneeling against the wall that divided them, yet as close together as though they were able to see each other with their frenzied eyes and to mingle their tears and kisses. They spoke both at once, asking each other questions and answering them at random. They were in a transport of delight. The life of each flowed over into the other's life and became swallowed up in it. No power on earth could now dissolve their union or break the bonds of love and confidence which unite mothers and sons.

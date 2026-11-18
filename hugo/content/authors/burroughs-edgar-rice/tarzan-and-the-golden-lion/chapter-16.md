@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Diamond Hoard"
 weight: 16
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-16.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-16.html"
 ---
 
 AS the primitive smoke bombs filled the throne room of the Tower of the Emperors with their suffocating fumes, the Gomangani clustered about Tarzan begging him to save them, for they, too, had seen the massed Bolgani before every entrance and the great body of them that awaited in the gardens and upon the terrace without.

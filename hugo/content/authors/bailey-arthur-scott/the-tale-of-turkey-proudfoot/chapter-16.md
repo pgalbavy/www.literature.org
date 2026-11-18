@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Drumming On A Log"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-16.html"
 ---
 
 Turkey Proudfoot was not always content to stay in the farmyard. Although Farmer Green fed him well, he liked to range over the fields in search of extra tidbits, such as grain, seeds and insects. Sometimes he wandered even as far as the pasture. And one day he strayed into the edge of the woods beyond the pasture fence.

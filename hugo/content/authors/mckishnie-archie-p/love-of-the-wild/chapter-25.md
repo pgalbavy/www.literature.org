@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - And The Day After"
 weight: 25
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-25.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-25.html"
 ---
 
 It was nearly mid-day when Paisley sought his skiff once more and made to cross to Bushwhackers’ Place. It had turned bitterly cold within the last couple of hours and the ice upon the surface of the creek was almost too thick to break with a paddle. Out across Rond Eau black wisps of duck were rising from the water and fluttering upward like smoke puffs, melting in a broken line into the hanging snow-clouds. Declute was standing on the opposite shore. He spoke as Paisley’s boat parted the sere rushes.

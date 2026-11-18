@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Hour Draws Near"
 weight: 7
-aliases:
-  - "/authors/leblanc-maurice/the-secret-tomb/chapter-07.html"
+url: "/authors/leblanc-maurice/the-secret-tomb/chapter-07.html"
 ---
 
 In the flat country, in which stands Hillocks Manor, a deep gorge has been hollowed out by the river Maine. This gorge rings round the meadows and orchards and buildings of the Manor. Hillocks, humped with rocks and covered with fir-trees, rise in a semicircle at the back of the estate, and a backwater of the Maine, cutting the ring and isolating the hillocks, has formed a pleasant lake, which reflects the dark stones and red bricks and tiles of the ancient building.

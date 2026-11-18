@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 39"
 weight: 356
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-39.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-39.html"
 ---
 
 A locomotive is moving. Someone asks: "What moves it?" A peasant says the devil moves it. Another man says the locomotive moves because its wheels go round. A third asserts that the cause of its movement lies in the smoke which the wind carries away.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-06.html"
+url: "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-06.html"
 ---
 
 Next morning as soon as the sun was up, Glinda flew back to her castle, stopping on the way to instruct the Scarecrow and the Tin Woodman, who were at that time staying at the college of Professor H. M. Wogglebug, T.E., and taking a course of his Patent Educational Pills.

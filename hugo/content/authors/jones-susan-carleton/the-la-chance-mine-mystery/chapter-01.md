@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - I Come Home: And The Wolves Howl"
 weight: 1
-aliases:
-  - "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-01.html"
+url: "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-01.html"
 ---
 
 I am sick of the bitter wood-smoke, And sick of the wind and rain: I will leave the bush behind me, And look for my love again.

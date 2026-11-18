@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 31
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-30.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-30.html"
 ---
 
 "It was Lord Coombe who sent the book," said Robin.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Revolt"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-14.html"
 ---
 
 For a brief while after the descent of the mate of the *Coral*, incased in his new diving armor, the four men above did nothing more than merely wait for his coming up. But all the time the parties were watching each other, for Captain Bergen was convinced that the crisis was at hand. The mutineers had learned where the oyster-bed was, and therefore could be no longer restrained by that consideration. They could get on without the diving-armor, though they saw how convenient it might be to have it; but, since it was connected with the shore, it could be drawn in and recovered if they should need it.

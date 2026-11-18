@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Rest And Posture"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-12.html"
 ---
 
 "Early to bed and early to rise" should be your motto. Children need abundant sleep, and ought to retire early and rise as soon as they awake in the morning. Their bodies and brains require regular rest.

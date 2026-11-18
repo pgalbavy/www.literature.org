@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Jennie Junebug"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-13.html"
 ---
 
 JENNIE JUNEBUG was a frolicsome fat person. And she was a great joker. The joke that she loved most was this: she loved to bump into people that were flying through the air--to bump into them and knock them, spinning, upon the ground.

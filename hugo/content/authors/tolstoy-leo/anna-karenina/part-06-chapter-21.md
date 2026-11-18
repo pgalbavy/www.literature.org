@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 21"
 weight: 178
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-21.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-21.html"
 ---
 
 "No, I think the princess is tired, and horses don't interest her," Vronsky said to Anna, who wanted to go on to the stables, where Sviazhsky wished to see the new stallion. "You go on, while I escort the princess home, and we'll have a little talk," he said, "if you would like that?" he added, turning to her.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-24.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-24.html"
 ---
 
 Among the most vivid memories of my life are those of the events on the Ghost which occurred during the forty hours succeeding the discovery of my love for Maud Brewster. I, who had lived my life in quiet places, only to enter at the age of thirty-five upon a course of the most irrational adventure I could have imagined, never had more incident and excitement crammed into any forty hours of my experience. Nor can I quite close my ears to a small voice of pride which tells me I did not do so badly, all things considered.

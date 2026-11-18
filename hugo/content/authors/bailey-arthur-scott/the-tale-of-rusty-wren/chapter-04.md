@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Rusty Is Jealous"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-04.html"
 ---
 
 Before Rusty Wren came to live in Farmer Green's dooryard the family had been known to oversleep now and then. Working hard all day long as everybody did (except Johnnie Green, who played hard enough--goodness knows!), they slept very soundly at night. And two or three times every summer they were sure to rise late, just by accident.

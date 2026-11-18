@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - My Brother's Keeper"
 weight: 2
-aliases:
-  - "/authors/davis-richard-harding/the-congo-and-coasts-of-africa/chapter-02.html"
+url: "/authors/davis-richard-harding/the-congo-and-coasts-of-africa/chapter-02.html"
 ---
 
 To me, the fact of greatest interest about the Congo is that it is owned, and the twenty millions of people who inhabit it are owned by one man. The land and its people are his private property. I am not trying to say that he governs the Congo. He does govern it, but that in itself would not be of interest. His claim is that he owns it. Though backed by all the mailed fists in the German Empire, and all the Dreadnoughts of the seas, no other modern monarch would make such a claim. It does not sound like anything we have heard since the days and the ways of Pharaoh. And the most remarkable feature of it is, that the man who makes this claim is the man who was placed over the Congo as a guardian, to keep it open to the trade of the world, to suppress slavery. That, in the Congo, he has killed trade and made the products of the land his own, that of the natives he did not kill he has made slaves, is what to-day gives the Congo its chief interest. It is well to emphasize how this one man stole a march on fourteen Powers, including the United States, and stole also an empire of one million square miles.

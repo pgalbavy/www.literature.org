@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Mr. Coulson Interviewed"
 weight: 6
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-06.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-06.html"
 ---
 
 The Lusitania boat specials ran into Euston Station soon after three o'clock in the afternoon. A small company of reporters, and several other men whose profession was not disclosed from their appearance, were on the spot to interview certain of the passengers. A young fellow from the office of the Evening Comet was, perhaps, the most successful, as, from the lengthy description which had been telegraphed to him from Liverpool, he was fortunate enough to accost the only person who had been seen speaking to the murdered man upon the voyage.

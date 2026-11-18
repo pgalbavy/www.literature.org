@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - The Lone Horseman"
 weight: 28
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-28.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-28.html"
 ---
 
 The young rancher had calculated matters closely, for hardly was he in the saddle when the foremost of the running Sioux halted, raised his gun, and fired. He was nigh enough to make his shot dangerous, though providentially it did no ill.

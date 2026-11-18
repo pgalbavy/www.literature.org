@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Best Of Friends"
 weight: 23
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-23.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-23.html"
 ---
 
 In spite of his lengthened horns, Leaper the Locust hardly dared show himself while his cousins remained in the neighborhood.

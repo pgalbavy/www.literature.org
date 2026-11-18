@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Beginning Of The Wild-Goose Chase"
 weight: 2
-aliases:
-  - "/authors/buchan-john/the-power-house/chapter-01.html"
+url: "/authors/buchan-john/the-power-house/chapter-01.html"
 ---
 
 It all started one afternoon, early in May, when I came out of the House of Commons with Tommy Deloraine. I had got in by an accident at a by-election, when I was supposed to be fighting a forlorn hope, and as I was just beginning to be busy at the Bar I found my hands pretty full. It was before Tommy succeeded, in the days when he sat for the family seat in Yorkshire, and that afternoon he was in a powerful bad temper. Out of doors it was jolly spring weather, there was greenery in Parliament Square and bits of gay colour, and a light wind was blowing up from the river. Inside a dull debate was winding on, and an advertising member had been trying to get up a row with the Speaker. The contrast between the frowsy place and the cheerful world outside would have impressed even the soul of a Government Whip.

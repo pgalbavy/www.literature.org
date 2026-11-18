@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-08.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-08.html"
 ---
 
 The days that followed were troubled days and they brought to Conscience's cheeks an accentuated pallor. Under her eyes were smudges that made them seem very large and wistful. The minister was once more in his arm chair, a little more broken, a little more fiercely uncompromising of aspect, but the one normal solution of such a spent and burdensome life: the solution of death, stood off from him. Upon his daughter, whose lips were sealed against any protest by the belief that even a small excitement might kill him, he vented long and bigoted sermons of anathema. In these sermons, possibly, he was guilty of the very heresy of which his daughter had said he was so intolerant. He seemed to doubt himself, these days, that Satan wore a spiked tail and a pair of cloven hoofs. Of late he rather leaned to the belief that the Arch-tempter had returned to walk the earth in the guise of a young Virginian and that he had assumed the incognito of Stuart Farquaharson.

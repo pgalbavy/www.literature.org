@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-04.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-04.html"
 ---
 
 Having won twenty guineas at whist, and taken leave of his friends, Phileas Fogg, at twenty-five minutes past seven, left the Reform Club.

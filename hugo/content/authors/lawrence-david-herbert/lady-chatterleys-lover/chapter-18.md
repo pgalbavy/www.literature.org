@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-18.html"
+url: "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-18.html"
 ---
 
 She had to make up her mind what to do. She would leave Venice on the Saturday that he was leaving Wragby: in six days' time. This would bring her to London on the Monday following, and she would then see him. She wrote to him to the London address, asking him to send her a letter to Hartland's hotel, and to call for her on the Monday evening at seven.

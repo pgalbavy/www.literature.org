@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Another Fugitive"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-22.html"
 ---
 
 At the end of five or ten minutes Ned Clinton, with his eyes fixed upon the broad, flat rock, was sure he saw the figure of a man behind it. It was only the top of his head, thrust a little above the edge of the stone, as if the stranger were seeking a view of the one who was watching him without his purpose being detected. The slouched hat and the eyes and forehead were in plain sight for a minute or two, when they sank down again and all was as before.

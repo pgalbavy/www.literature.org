@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/huxley-aldous/antic-hay/chapter-19.html"
+url: "/authors/huxley-aldous/antic-hay/chapter-19.html"
 ---
 
 After leaving Mr. Mercaptan, Lypiatt had gone straight home. The bright day seemed to deride him. With its shining red omnibuses, its parasols, its muslin girls, its young-leaved trees, its bands at the street corners, it was too much of a garden party to be tolerable. He wanted to be alone. He took a cab back to the studio. He couldn’t afford it, of course; but what did that matter, what did that matter now?

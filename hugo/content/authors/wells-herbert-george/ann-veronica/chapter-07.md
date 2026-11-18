@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Ideals And A Reality"
 weight: 7
-aliases:
-  - "/authors/wells-herbert-george/ann-veronica/chapter-07.html"
+url: "/authors/wells-herbert-george/ann-veronica/chapter-07.html"
 ---
 
 And now for some weeks Ann Veronica was to test her market value in the world. She went about in a negligent November London that had become very dark and foggy and greasy and forbidding indeed, and tried to find that modest but independent employment she had so rashly assumed. She went about, intent-looking and self-possessed, trim and fine, concealing her emotions whatever they were, as the realities of her position opened out before her. Her little bed-sitting-room was like a lair, and she went out from it into this vast, dun world, with its smoke-gray houses, its glaring streets of shops, its dark streets of homes, its orange-lit windows, under skies of dull copper or muddy gray or black, much as an animal goes out to seek food. She would come back and write letters, carefully planned and written letters, or read some book she had fetched from Mudie's--she had invested a half-guinea with Mudie's--or sit over her fire and think.

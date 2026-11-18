@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - A Friend"
 weight: 17
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/chapter-16.html"
+url: "/authors/coolidge-dane/silver-and-gold/chapter-16.html"
 ---
 
 A new spirit, a strange gladness, had come over Drusilla and parts which had been difficult became suddenly easy when she took up her work the next day; but when she walked out in the cool of the evening the sombrero and boy's boots were gone. She wore a trailing robe, such as great ladies wear when they go to keep a tryst with knightly lovers, and she went up the trail to where Denver was working on the last of her father's claims. He was up on the high cliff, busily tamping the powder that was to blast out the side of the hill, and she waited patiently until he had fired it and come down the slope with his tools.

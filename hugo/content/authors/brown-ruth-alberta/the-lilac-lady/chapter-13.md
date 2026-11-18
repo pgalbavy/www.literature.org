@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Children's Day At Hill Street Church"
 weight: 13
-aliases:
-  - "/authors/brown-ruth-alberta/the-lilac-lady/chapter-13.html"
+url: "/authors/brown-ruth-alberta/the-lilac-lady/chapter-13.html"
 ---
 
 "What do you think's happened now?" asked Peace, seating herself gloomily upon the footstool beside the invalid, and thrusting a long grass-blade between her teeth.

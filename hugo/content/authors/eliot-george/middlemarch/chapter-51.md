@@ -1,8 +1,7 @@
 ---
 title: "Chapter 51"
 weight: 51
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-51.html"
+url: "/authors/eliot-george/middlemarch/chapter-51.html"
 ---
 
 Party is Nature too, and you shall see By force of Logic how they both agree: The Many in the One, the One in Many; All is not Some, nor Some the same as Any: Genus holds species, both are great or small; One genus highest, one not high at all; Each species has its differentia too, This is not That, and He was never You, Though this and that are AYES, and you and he Are like as one to one, or three to three.

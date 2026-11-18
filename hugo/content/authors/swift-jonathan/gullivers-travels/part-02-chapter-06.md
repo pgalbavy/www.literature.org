@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 6"
 weight: 15
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-02-chapter-06.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-02-chapter-06.html"
 ---
 
 Several contrivances of the author to please the king and queen. He shows his skill in music. The king inquires into the state of England, which the author relates to him. The king’s observations thereon.

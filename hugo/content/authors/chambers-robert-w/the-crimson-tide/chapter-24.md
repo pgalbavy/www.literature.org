@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 25
-aliases:
-  - "/authors/chambers-robert-w/the-crimson-tide/chapter-24.html"
+url: "/authors/chambers-robert-w/the-crimson-tide/chapter-24.html"
 ---
 
 Leila Vance, lunching with Elorn Sharrow at the Ritz, spoke of Estridge:

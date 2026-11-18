@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Passing Years"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-08.html"
 ---
 
 *THE* excitement in New Constantinople was caused by the arrival of Vose Adams, the mail carrier and messenger, with his budget of letters and freight for the Heavenly Bower.

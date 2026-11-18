@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Fairport"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-01.html"
 ---
 
 Were you ever on the coast of Maine? If so, you know how the rocky shores stretch out now and then clear into the ocean, and fret the salt waves till they are all in a foam. Old Ocean is not to be so set at defiance and have his rightful territory wrung from him, without taking his revenge after his own fashion. Far up into the land he sends his arms, and crooks and bends and makes his way amid the rocks, and finally falls asleep in some quiet harbor, where the tall pines stand by the shore to sing him a lullaby.

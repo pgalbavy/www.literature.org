@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 12"
 weight: 329
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-12.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-12.html"
 ---
 
 As generally happens, Pierre did not feel the full effects of the physical privation and strain he had suffered as prisoner until after they were over. After his liberation he reached Orel, and on the third day there, when preparing to go to Kiev, he fell ill and was laid up for three months. He had what the doctors termed "bilious fever." But despite the fact that the doctors treated him, bled him, and gave him medicines to drink, he recovered.

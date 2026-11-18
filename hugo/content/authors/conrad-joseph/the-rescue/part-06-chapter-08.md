@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 8"
 weight: 42
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-06-chapter-08.html"
+url: "/authors/conrad-joseph/the-rescue/part-06-chapter-08.html"
 ---
 
 And now, stoical in the cold and darkness of his regained life, Lingard had to listen to the voice of Wasub telling him Jaffir's story. The old serang's face expressed a profound dejection and there was infinite sadness in the flowing murmur of his words.

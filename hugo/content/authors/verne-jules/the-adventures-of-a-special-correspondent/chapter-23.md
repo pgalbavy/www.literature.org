@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-23.html"
+url: "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-23.html"
 ---
 
 I have not seen Kinko for two days, and the last was only to exchange a few words with him to relieve his anxiety.

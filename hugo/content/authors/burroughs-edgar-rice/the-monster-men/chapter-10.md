@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Desperate Chance"
 weight: 10
-aliases:
-  - "/authors/burroughs-edgar-rice/the-monster-men/chapter-10.html"
+url: "/authors/burroughs-edgar-rice/the-monster-men/chapter-10.html"
 ---
 
 The great chest in the bottom of Rajah Muda Saffir's prahu had awakened in other hearts as well as his, blind greed and avarice; so that as it had been the indirect cause of his disaster it now proved the incentive to another to turn the mishap to his own profit, and to the final undoing of the Malay.

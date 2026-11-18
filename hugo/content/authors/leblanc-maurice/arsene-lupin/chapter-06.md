@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Again The Charolais"
 weight: 6
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin/chapter-06.html"
+url: "/authors/leblanc-maurice/arsene-lupin/chapter-06.html"
 ---
 
 Hardly had the door closed behind the millionaire when the head of M. Charolais appeared at one of the windows opening on to the terrace. He looked round the empty hall, whistled softly, and stepped inside. Inside of ten seconds his three sons came in through the windows, and with them came Jean, the millionaire's chauffeur.

@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 48 - In Which The Canon Pursues The Subject Of The Books Of Chivalry, With Other Matters Worthy Of His Wit"
 weight: 51
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-48.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-48.html"
 ---
 
 "It is as you say, señor canon," said the curate; "and for that reason those who have hitherto written books of the sort deserve all the more censure for writing without paying any attention to good taste or the rules of art, by which they might guide themselves and become as famous in prose as the two princes of Greek and Latin poetry are in verse."

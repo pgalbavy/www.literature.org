@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Wayfarers All"
 weight: 9
-aliases:
-  - "/authors/grahame-kenneth/the-wind-in-the-willows/chapter-09.html"
+url: "/authors/grahame-kenneth/the-wind-in-the-willows/chapter-09.html"
 ---
 
 The Water Rat was restless, and he did not exactly know why. To all appearance the summer's pomp was still at fullest height, and although in the tilled acres green had given way to gold, though rowans were reddening, and the woods were dashed here and there with a tawny fierceness, yet light and warmth and colour were still present in undiminished measure, clean of any chilly premonitions of the passing year. But the constant chorus of the orchards and hedges had shrunk to a casual evensong from a few yet unwearied performers; the robin was beginning to assert himself once more; and there was a feeling in the air of change and departure. The cuckoo, of course, had long been silent; but many another feathered friend, for months a part of the familiar landscape and its small society, was missing too, and it seemed that the ranks thinned steadily day by day. Rat, ever observant of all winged movement, saw that it was taking daily a southing tendency; and even as he lay in bed at night he thought he could make out, passing in the darkness overhead, the beat and quiver of impatient pinions, obedient to the peremptory call.

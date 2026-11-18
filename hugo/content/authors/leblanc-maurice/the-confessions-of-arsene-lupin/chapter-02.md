@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Wedding-Ring"
 weight: 2
-aliases:
-  - "/authors/leblanc-maurice/the-confessions-of-arsene-lupin/chapter-02.html"
+url: "/authors/leblanc-maurice/the-confessions-of-arsene-lupin/chapter-02.html"
 ---
 
 Yvonne d'Origny kissed her son and told him to be good:

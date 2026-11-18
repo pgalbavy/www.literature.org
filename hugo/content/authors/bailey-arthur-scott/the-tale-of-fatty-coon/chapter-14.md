@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Barber-Shop Again"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-14.html"
 ---
 
 Although Fatty Coon never could get Jimmy Rabbit and his brother to play barber-shop with him again, Fatty saw no reason why he should not play the game without them. So one day he led his brother Blackie over to the old hollow sycamore. His sisters, Fluffy and Cutey, wanted to go too. But Fatty would not let them. "Girls can't be barbers," he said. And of course they could find no answer to that.

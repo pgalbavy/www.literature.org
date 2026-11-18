@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-14.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-14.html"
 ---
 
 Scarlett Trent spent the first part of the morning, to which he had been looking forward so eagerly, alone in his study with locked door to keep out all intruders. He had come face to face with the first serious check in his career, and it had been dealt him too by the one man whom, of all his associates, he disliked and despised. In the half-open drawer by his side was the barrel of a loaded revolver. He drew it out, laid it on the table before him, and regarded it with moody, fascinated eyes. If only it could be safely done, if only for one moment he could find himself face to face with Da Souza in Bekwando village, where human life was cheap and the slaying of a man an incident scarcely worth noting in the day's events! The thing was easy enough there - here it was too risky. He thrust the weapon back into the drawer with a sigh of regret, just as Da Souza himself appeared upon the scene.

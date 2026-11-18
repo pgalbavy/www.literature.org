@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/tarkington-booth/alice-adams/chapter-05.html"
+url: "/authors/tarkington-booth/alice-adams/chapter-05.html"
 ---
 
 With this, having more immediately practical questions before them, they dropped the subject, to bend their entire attention upon the dress; and when the lunch-gong sounded downstairs Alice was still sketching repairs and alterations. She continued to sketch them, not heeding the summons.

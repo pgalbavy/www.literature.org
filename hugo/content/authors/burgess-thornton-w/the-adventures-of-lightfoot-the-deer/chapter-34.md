@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - A Startling New Footprint"
 weight: 34
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-34.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-34.html"
 ---
 
 The game of hide and seek between Lightfoot the Deer and the beautiful stranger whose dainty footprints had first started Lightfoot to seeking her had been going on for several days and nights when Lightfoot found something which gave him a shock. He had stolen very softly down to the Laughing Brook, hoping to surprise the beautiful stranger drinking there. She wasn't to be seen. Lightfoot wondered if she had been there, so looked in the mud at the edge of the Laughing Brook to see if there were any fresh prints of those dainty feet. Almost at once he discovered fresh footprints. They were not the prints he was looking for. No, Sir, they were not the dainty prints he had learned to know so well. They were prints very near the size of his own big ones, and they had been made only a short time before.

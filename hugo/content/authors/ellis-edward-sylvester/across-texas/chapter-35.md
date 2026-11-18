@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - Through The Lines Again"
 weight: 35
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-35.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-35.html"
 ---
 
 *THERE* could be no doubt of the truth of the startling declaration of Bell Rickard. He had no object in deceiving the trapper, for his failure to produce Nick Ribsam deprived him of the liberal ransom agreed upon by the representative of Herbert Watrous.

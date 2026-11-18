@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/tarkington-booth/harlequin-and-columbine/chapter-04.html"
+url: "/authors/tarkington-booth/harlequin-and-columbine/chapter-04.html"
 ---
 
 The rehearsal proceeded, and under that cover old Tinker came noiselessly down the aisle and resumed his seat beside Canby, who was uttering short, broken sighs, and appeared to have been trying with fair success to give himself a shampoo.

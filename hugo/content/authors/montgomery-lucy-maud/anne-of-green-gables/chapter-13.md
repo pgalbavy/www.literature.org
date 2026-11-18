@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Delights of Anticipation"
 weight: 13
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-13.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-13.html"
 ---
 
 "It's time Anne was in to do her sewing," said Marilla, glancing at the clock and then out into the yellow August afternoon where everything drowsed in the heat. "She stayed playing with Diana more than half an hour more'n I gave her leave to; and now she's perched out there on the woodpile talking to Matthew, nineteen to the dozen, when she knows perfectly well she ought to be at her work. And of course he's listening to her like a perfect ninny. I never saw such an infatuated man. The more she talks and the odder the things she says, the more he's delighted evidently. Anne Shirley, you come right in here this minute, do you hear me!"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A Prisoner"
 weight: 4
-aliases:
-  - "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-04.html"
+url: "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-04.html"
 ---
 
 We had gone perhaps ten miles when the ground began to rise very rapidly. We were, as I was later to learn, nearing the edge of one of Mars' long-dead seas, in the bottom of which my encounter with the Martians had taken place.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Kulan Tith's Sacrifice"
 weight: 14
-aliases:
-  - "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/chapter-14.html"
+url: "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/chapter-14.html"
 ---
 
 The morning of the second day of her incarceration in the east tower of the palace of Astok, Prince of Dusar, found Thuvia of Ptarth waiting in dull apathy the coming of the assassin.

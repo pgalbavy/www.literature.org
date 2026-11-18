@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 19
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-18.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-18.html"
 ---
 
 This then was it--the New World and the human creatures who were to build it, the unborn as well as those now in their cradles or tottering in their first step on the pathway leading to the place of building. Yet he himself had no thought of there being any touch of heroic splendour in his way of looking at it. He was not capable of drama. Behind his shut doors of immovability and stiff coldness, behind his cynic habit of treating all things with detached lightness, the generations and the centuries had continued their work in spite of his modernity. His British obstinacy would not relinquish the long past he and his had seemed to own in representing it. He had loved one woman, and one only--with a love like a deep wound; he had longed for a son; he had stubbornly undertaken to protect a creature he felt life had treated unfairly. The shattering of the old world had stirred in him a powerful interest in the future of the new one whose foundations were yet to be laid. The combination of these things might lead to curious developments.

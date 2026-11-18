@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-17.html"
+url: "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-17.html"
 ---
 
 CLEAR and sweet a trumpet spoke across The Fields of Jetan. From The High Tower its cool voice floated across the city of Manator and above the babel of human discords rising from the crowded mass that filled the seats of the stadium below. It called the players for the first game, and simultaneously there fluttered to the peaks of a thousand staffs on tower and battlement and the great wall of the stadium the rich, gay pennons of the fighting chiefs of Manator. Thus was marked the opening of The Jeddak's Games, the most important of the year and second only to the Grand Decennial Games.

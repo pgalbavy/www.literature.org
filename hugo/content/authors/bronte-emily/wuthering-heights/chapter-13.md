@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-13.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-13.html"
 ---
 
 FOR two months the fugitives remained absent; in those two months, Mrs. Linton encountered and conquered the worst shock of what was denominated a brain fever. No mother could have nursed an only child more devotedly than Edgar tended her. Day and night he was watching, and patiently enduring all the annoyances that irritable nerves and a shaken reason could inflict; and, though Kenneth remarked that what he saved from the grave would only recompense his care by forming the source of constant future anxiety - in fact, that his health and strength were being sacrificed to preserve a mere ruin of humanity - he knew no limits in gratitude and joy when Catherine's life was declared out of danger; and hour after hour he would sit beside her, tracing the gradual return to bodily health, and flattering his too sanguine hopes with the illusion that her mind would settle back to its right balance also, and she would soon be entirely her former self.

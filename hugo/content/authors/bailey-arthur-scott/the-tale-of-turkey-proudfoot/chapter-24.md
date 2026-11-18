@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Brother Tom"
 weight: 24
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-24.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-24.html"
 ---
 
 It was almost dark in the cornfield on a crisp evening late in November. It was not Farmer Green's field, but that of a neighbor of his. And it was far from any house.

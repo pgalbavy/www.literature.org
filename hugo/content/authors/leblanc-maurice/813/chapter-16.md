@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Arsène Lupin's Three Murders"
 weight: 17
-aliases:
-  - "/authors/leblanc-maurice/813/chapter-16.html"
+url: "/authors/leblanc-maurice/813/chapter-16.html"
 ---
 
 A cyclone passed through Lupin's brain, a hurricane in which roars of thunder, gusts of wind, squalls of all the distraught elements were tumultuously unchained in the chaotic night.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The End Of The Treasure-Seeking"
 weight: 16
-aliases:
-  - "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-16.html"
+url: "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-16.html"
 ---
 
 Now it is coming near the end of our treasure-seeking, and the end was so wonderful that now nothing is like it used to be. It is like as if our fortunes had been in an earthquake, and after those, you know, everything comes out wrong-way up.

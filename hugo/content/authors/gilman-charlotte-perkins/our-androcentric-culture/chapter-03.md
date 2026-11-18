@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Health And Beauty"
 weight: 3
-aliases:
-  - "/authors/gilman-charlotte-perkins/our-androcentric-culture/chapter-03.html"
+url: "/authors/gilman-charlotte-perkins/our-androcentric-culture/chapter-03.html"
 ---
 
 Among the many paradoxes which we find in human life is our low average standard of health and beauty, compared with our power and knowledge. All creatures suffer from conflict with the elements; from enemies without and within--the prowling devourers of the forest, and "the terror that walketh in darkness" and attacks the body from inside, in hidden millions.

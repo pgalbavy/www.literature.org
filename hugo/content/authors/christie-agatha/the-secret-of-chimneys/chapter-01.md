@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Anthony Cade Signs On"
 weight: 1
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-01.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-01.html"
 ---
 
 "Gentleman Joe!"

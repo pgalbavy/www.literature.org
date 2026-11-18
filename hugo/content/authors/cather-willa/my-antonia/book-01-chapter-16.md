@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 16"
 weight: 17
-aliases:
-  - "/authors/cather-willa/my-antonia/book-01-chapter-16.html"
+url: "/authors/cather-willa/my-antonia/book-01-chapter-16.html"
 ---
 
 MR. SHIMERDA LAY DEAD in the barn four days, and on the fifth they buried him. All day Friday Jelinek was off with Ambrosch digging the grave, chopping out the frozen earth with old axes. On Saturday we breakfasted before daylight and got into the wagon with the coffin. Jake and Jelinek went ahead on horseback to cut the body loose from the pool of blood in which it was frozen fast to the ground.

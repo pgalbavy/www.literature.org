@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Golden Ingots"
 weight: 12
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-12.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-12.html"
 ---
 
 ESTEBAN MIRANDA had played the rôle of Tarzan of the Apes with the Waziri as his audience for less than twenty-four hours when he began to realize that, even with the lee-way that his supposedly injured brain gave him, it was going to be a very difficult thing to carry on the deception indefinitely. In the first place Usula did not seem at all pleased at the idea of merely taking the gold away from the intruders and then running from them. Nor did his fellow warriors seem any more enthusiastic over the plan than he. As a matter of fact they could not conceive that any number of bumps upon the head could render their Tarzan of the Apes a coward, and to run away from these west coast blacks and a handful of inexperienced whites seemed nothing less than cowardly.

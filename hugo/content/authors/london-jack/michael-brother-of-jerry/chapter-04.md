@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-04.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-04.html"
 ---
 
 Irish terriers, when they have gained maturity, are notable, not alone for their courage, fidelity, and capacity for love, but for their cool-headedness and power of self-control and restraint. They are less easily excited off their balance; they can recognize and obey their master's voice in the scuffle and rage of battle; and they never fly into nervous hysterics such as are common, say, with fox-terriers.

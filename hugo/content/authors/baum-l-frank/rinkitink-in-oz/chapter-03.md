@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/baum-l-frank/rinkitink-in-oz/chapter-03.html"
+url: "/authors/baum-l-frank/rinkitink-in-oz/chapter-03.html"
 ---
 
 King Rinkitink was so much pleased with the Island of Pingaree that he continued his stay day after day and week after week, eating good dinners, talking with King Kitticut and sleeping. Once in a while he would read from his scroll. "For," said he, "whenever I return home, my subjects will be anxious to know if I have learned 'How to be Good,' and I must not disappoint them."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42"
 weight: 42
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-42.html"
+url: "/authors/austen-jane/mansfield-park/chapter-42.html"
 ---
 
 The Prices were just setting off for church the next day when Mr. Crawford appeared again. He came, not to stop, but to join them; he was asked to go with them to the Garrison chapel, which was exactly what he had intended, and they all walked thither together.

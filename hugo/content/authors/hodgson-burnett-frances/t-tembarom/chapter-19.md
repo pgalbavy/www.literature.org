@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-19.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-19.html"
 ---
 
 The country was discreetly conservative in its social attitude. The gulf between it and the new owner of Temple Barholm was too wide and deep to be crossed without effort combined with immense mental agility. It was on the whole, much easier not to begin a thing at all than to begin it and find one must hastily search about for not too noticeable methods of ending it. A few unimportant, tentative calls were made, and several ladies who had remained unaware of Miss Alicia during her first benefactor's time drove over to see what she was like and perhaps by chance hear something of interest. One or two of them who saw Tembarom went away puzzled and amazed. He did not drop his h's, which they had of course expected, and he was well dressed, and not bad-looking; but it was frequently impossible to understand what he was talking about, he used such odd phrases. He seemed good natured enough, and his way with little old Miss Temple Barholm was really quite nice, queer as it was. It was queer because he was attentive to her in a manner in which young men were not usually attentive to totally insignificant, elderly dependents.

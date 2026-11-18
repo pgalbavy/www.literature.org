@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Queen Cook"
 weight: 3
-aliases:
-  - "/authors/nesbit-edith/the-phoenix-and-the-carpet/chapter-03.html"
+url: "/authors/nesbit-edith/the-phoenix-and-the-carpet/chapter-03.html"
 ---
 
 It was on a Saturday that the children made their first glorious journey on the wishing carpet. Unless you are too young to read at all, you will know that the next day must have been Sunday.

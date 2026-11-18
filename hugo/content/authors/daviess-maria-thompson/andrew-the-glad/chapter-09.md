@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Pursuing The Possum"
 weight: 9
-aliases:
-  - "/authors/daviess-maria-thompson/andrew-the-glad/chapter-09.html"
+url: "/authors/daviess-maria-thompson/andrew-the-glad/chapter-09.html"
 ---
 
 And as if in sympathy with the heart of the pursued possum, the thermometer began to fall in the afternoon and by night had established a clear, cold, windless condition of weather. The start for the Cliffs was to be made from the fork of the River Road, where cars, horses, traps and hampers were to be left with the servants, who by half past nine were already in an excited group around a blazing, dry oak fire, over which two score plump birds were ready to be roasted, attended by the autocratic Tempie. Jeff piled high with brush a huge log whose heart was being burned out for the baking of sundry potatoes, while the aroma from the barbecue pit was maddening to even a ten o'clock appetite, and no estimate could be made of what damage would be done after the midnight return from the trail of the wily tree fruit.

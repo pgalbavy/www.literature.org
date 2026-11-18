@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/tarkington-booth/the-flirt/chapter-14.html"
+url: "/authors/tarkington-booth/the-flirt/chapter-14.html"
 ---
 
 Hedrick Madison's eyes were not of marble; his heart was not flint nor his skin steel plate: he was flesh and tender; he was a vulnerable, breathing boy, with highly developed capacities for pain which were now being taxed to their utmost. Once he had loved to run, to leap, to disport himself in the sun, to drink deep of the free air; he had loved life and one or two of his fellowmen. He had borne himself buoyantly, with jaunty self-confidence, even with some intolerance toward the weaknesses of others, not infrequently displaying merriment over their mischances; but his time had found him at last; the evil day had come. Indian Summer was Indian for him, indeed: sweet death were welcome; no charity was left in him. He leaped no more, but walked broodingly and sought the dark places. And yet it could not be said that times were dull for him: the luckless picket who finds himself in an open eighty-acre field, under the eye of a sharpshooter up a tree, would not be apt to describe the experience as dull. And Cora never missed a shot; she loved the work; her pleasure in it was almost as agonizing for the target as was the accuracy of her fire.

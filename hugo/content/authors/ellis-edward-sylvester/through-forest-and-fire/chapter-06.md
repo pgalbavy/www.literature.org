@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Groping In Darkness"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-06.html"
 ---
 
 When the parents and brother of Nellie Ribsam reached the forks a few minutes later, they saw nothing of the three parties whom they expected to meet there.

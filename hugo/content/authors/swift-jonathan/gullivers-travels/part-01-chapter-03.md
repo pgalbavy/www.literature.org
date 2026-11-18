@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 3"
 weight: 4
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-01-chapter-03.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-01-chapter-03.html"
 ---
 
 The author diverts the emperor, and his nobility of both sexes, in a very uncommon manner. The diversions of the court of Lilliput described. The author has his liberty granted him upon certain conditions.

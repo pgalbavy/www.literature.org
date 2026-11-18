@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/tarkington-booth/alice-adams/chapter-09.html"
+url: "/authors/tarkington-booth/alice-adams/chapter-09.html"
 ---
 
 On a morning, a week after this collapse of festal hopes, Mrs. Adams and her daughter were concluding a three-days' disturbance, the "Spring house-cleaning"—postponed until now by Adams's long illness—and Alice, on her knees before a chest of drawers, in her mother's room, paused thoughtfully after dusting a packet of letters wrapped in worn muslin. She called to her mother, who was scrubbing the floor of the hallway just beyond the open door,

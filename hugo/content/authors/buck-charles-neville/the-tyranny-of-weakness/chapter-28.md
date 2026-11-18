@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-28.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-28.html"
 ---
 
 To Tollman's eyes familiar with content and superscription, it was all glaringly conspicuous. The initials seemed to stand out like headlines, but Farquaharson was without suspicion and he saw only one more paper in which his interest was most perfunctory. The whole issue had narrowed now, Eben realized with a tension of fear which brought out sweat beads on the pasty white of his face, to the hairbreadth narrowness of one question. Would Stuart see the initials or would they escape his notice?

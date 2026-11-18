@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Chatterer The Red Squirrel Jumps For His Life"
 weight: 17
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-18.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-18.html"
 ---
 
 It isn't very often that Chatterer the Red Squirrel knows fear. That is one reason that he is so often impudent and saucy. But once in a while a great fear takes possession of him, as when he knows that Shadow the Weasel is looking for him. You see, he knows that Shadow can go wherever he can go. There are very few of the little people of the Green Forest and the Green Meadows who do not know fear at some time or other, but it comes to Chatterer as seldom as to any one, because he is very sure of himself and his ability to hide or run away from danger.

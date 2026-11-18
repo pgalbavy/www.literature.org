@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - St. Jago -- Cape de Verd Islands"
 weight: 2
-aliases:
-  - "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-01.html"
+url: "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-01.html"
 ---
 
 arrow_rightPorto Praya arrow_rightRibeira Grande arrow_rightAtmospheric Dust with Infusoria arrow_rightHabits of a Sea-slug and Cuttle-fish arrow_rightSt. Paul's Rocks, non-volcanic arrow_rightSingular Incrustations arrow_rightInsects the first Colonists of Islands arrow_rightFernando Noronha arrow_rightBahia arrow_rightBurnished Rocks arrow_rightHabits of a Diodon arrow_rightPelagic Confervae and Infusoria arrow_rightCauses of discoloured Sea ---

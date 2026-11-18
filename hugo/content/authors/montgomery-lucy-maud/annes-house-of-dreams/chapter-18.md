@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Spring Days"
 weight: 18
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-18.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-18.html"
 ---
 
 The ice in the harbor grew black and rotten in the March suns; in April there were blue waters and a windy, white-capped gulf again; and again the Four Winds light begemmed the twilights.

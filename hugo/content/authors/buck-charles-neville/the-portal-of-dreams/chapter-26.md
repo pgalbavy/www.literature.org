@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - How It Ended--And Began"
 weight: 26
-aliases:
-  - "/authors/buck-charles-neville/the-portal-of-dreams/chapter-26.html"
+url: "/authors/buck-charles-neville/the-portal-of-dreams/chapter-26.html"
 ---
 
 The railings and uprights of the porch were strips of jet against a world swimming in blue and silver gray. The planks creaked under our feet. A confusion of saddles and farm gear hung against the log walls. The tin basin stood on its accustomed shelf. The world of magic was jumbled with the commonplace. I led her over to the corner where the eye could gather in the widest vista. She stood there before me very upright and slim and her eyes held mine as frankly as a child's might have done. I gazed at her for a moment more, then my arms went out and encircled her, and I talked very fast and very low.

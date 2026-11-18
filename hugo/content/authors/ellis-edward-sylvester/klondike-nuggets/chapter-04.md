@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Avalanche"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-04.html"
 ---
 
 It was late in the day that the little steamer arrived at Dyea, which was found to be a village with one log store, a number of movable tents, and without any wharf, the beach being so flat that at high water the tide reaches a half mile or more inland. To guard against losing any of their supplies, Tim McCabe told his friends that it would be necessary to unload them themselves.

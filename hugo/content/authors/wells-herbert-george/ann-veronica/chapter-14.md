@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Collapse Of The Penitent"
 weight: 14
-aliases:
-  - "/authors/wells-herbert-george/ann-veronica/chapter-14.html"
+url: "/authors/wells-herbert-george/ann-veronica/chapter-14.html"
 ---
 
 Spring had held back that year until the dawn of May, and then spring and summer came with a rush together. Two days after this conversation between Manning and Ann Veronica, Capes came into the laboratory at lunch-time and found her alone there standing by the open window, and not even pretending to be doing anything.

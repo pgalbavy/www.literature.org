@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 10 - Home Truths"
 weight: 10
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-01-chapter-10.html"
+url: "/authors/buchan-john/the-half-hearted/part-01-chapter-10.html"
 ---
 
 I

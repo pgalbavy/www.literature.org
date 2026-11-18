@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Dry-Fly Fisherman"
 weight: 8
-aliases:
-  - "/authors/buchan-john/the-thirty-nine-steps/chapter-07.html"
+url: "/authors/buchan-john/the-thirty-nine-steps/chapter-07.html"
 ---
 
 I sat down on a hill-top and took stock of my position. I wasn’t feeling very happy, for my natural thankfulness at my escape was clouded by my severe bodily discomfort. Those lentonite fumes had fairly poisoned me, and the baking hours on the dovecot hadn’t helped matters. I had a crushing headache, and felt as sick as a cat. Also my shoulder was in a bad way. At first I thought it was only a bruise, but it seemed to be swelling, and I had no use of my left arm.

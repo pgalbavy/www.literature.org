@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Jolly Is Left Behind"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-08.html"
 ---
 
 All of Jolly Robin's friends and relations were greatly surprised when they saw him bidding his wife and children good-by, on the day the Robin family started from Pleasant Valley for their winter home in the South.

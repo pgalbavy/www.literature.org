@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Our Growing Modesty"
 weight: 7
-aliases:
-  - "/authors/gilman-charlotte-perkins/herland/chapter-07.html"
+url: "/authors/gilman-charlotte-perkins/herland/chapter-07.html"
 ---
 
 Being at last considered sufficiently tamed and trained to be trusted with scissors, we barbered ourselves as best we could. A close-trimmed beard is certainly more comfortable than a full one. Razors, naturally, they could not supply.

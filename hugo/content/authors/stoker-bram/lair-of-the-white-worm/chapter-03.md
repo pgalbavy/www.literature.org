@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/stoker-bram/lair-of-the-white-worm/chapter-03.html"
+url: "/authors/stoker-bram/lair-of-the-white-worm/chapter-03.html"
 ---
 
 Curiosity took Adam Salton out of bed in the early morning, but when he had dressed and gone downstairs; he found that, early as he was, Sir Nathaniel was ahead of him. The old gentleman was quite prepared for a long walk, and they started at once.

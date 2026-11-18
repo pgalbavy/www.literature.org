@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Run For Life"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/seth-jones/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/seth-jones/chapter-06.html"
 ---
 
 When the sad event just chronicled took place, and Seth made a rather unceremonious entrance into view of the savages, Graham felt that he too was in peril, and his life depended upon his own exertions. To have offered resistance would have been madness, as there were full thirty Indians at hand. Flight was the only resource left, and without waiting to see the fate of Seth, our hero made a bound down the embankment, alighting at the bottom, and struck directly across the plain, toward the timber that lined the river. He had gained several hundred yards, when several prolonged yells told him that he was discovered, and was a flying fugitive. Casting his eye behind him, he saw five or six Indians already down the embankment and in full chase.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - A Retrospect"
 weight: 19
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-18.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-18.html"
 ---
 
 My school-days! The silent gliding on of my existence--the unseen, unfelt progress of my life--from childhood up to youth! Let me think, as I look back upon that flowing water, now a dry channel overgrown with leaves, whether there are any marks along its course, by which I can remember how it ran.

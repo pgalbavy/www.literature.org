@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Greeting To The Baaltis"
 weight: 10
-aliases:
-  - "/authors/haggard-h-rider/elissa/chapter-09.html"
+url: "/authors/haggard-h-rider/elissa/chapter-09.html"
 ---
 
 When Metem accepted bribes from Issachar and from Ithobal, in consideration of his finding means to make the union of Aziel and Elissa impossible, he had already thought out his scheme. It was one which, while promoting, as he considered, the true welfare of the lovers, if successful would separate them effectually and for ever.

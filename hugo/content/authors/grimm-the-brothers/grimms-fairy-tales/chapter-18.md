@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Mother Holle"
 weight: 18
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-18.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-18.html"
 ---
 
 Once upon a time there was a widow who had two daughters; one of them was beautiful and industrious, the other ugly and lazy. The mother, however, loved the ugly and lazy one best, because she was her own daughter, and so the other, who was only her stepdaughter, was made to do all the work of the house, and was quite the Cinderella of the family. Her stepmother sent her out every day to sit by the well in the high road, there to spin until she made her fingers bleed. Now it chanced one day that some blood fell on to the spindle, and as the girl stopped over the well to wash it off, the spindle suddenly sprang out of her hand and fell into the well. She ran home crying to tell of her misfortune, but her stepmother spoke harshly to her, and after giving her a violent scolding, said unkindly, ‘As you have let the spindle fall into the well you may go yourself and fetch it out.’

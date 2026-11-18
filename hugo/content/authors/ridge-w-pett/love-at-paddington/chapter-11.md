@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/ridge-w-pett/love-at-paddington/chapter-11.html"
+url: "/authors/ridge-w-pett/love-at-paddington/chapter-11.html"
 ---
 
 The final departure of Bulpert erased a troublesome detail in the girl's life, and she felt suitably thankful; another disappearance gave her a sensation of regret. She had thought seriously of the patient, elderly man whom she had now to look upon as her parent, and planned a scheme, to be prefaced by something in the nature of a brief lecture, involving pecuniary sacrifice; her game of bricks was knocked over by the hand of Fate, and Gertie Higham had to put them back into the box. Mrs. Mills told her much that had hitherto been a secret shared by Mr. Trew.

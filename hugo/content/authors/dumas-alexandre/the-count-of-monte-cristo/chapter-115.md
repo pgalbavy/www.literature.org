@@ -1,8 +1,7 @@
 ---
 title: "Chapter 115 - Luigi Vampa's Bill Of Fare"
 weight: 115
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-115.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-115.html"
 ---
 
 We awake from every sleep except the one dreaded by Danglars. He awoke. To a Parisian accustomed to silken curtains, walls hung with velvet drapery, and the soft perfume of burning wood, the white smoke of which diffuses itself in graceful curves around the room, the appearance of the whitewashed cell which greeted his eyes on awakening seemed like the continuation of some disagreeable dream. But in such a situation a single moment suffices to change the strongest doubt into certainty. "Yes, yes," he murmured, "I am in the hands of the brigands of whom Albert de Morcerf spoke." His first idea was to breathe, that he might know whether he was wounded. He borrowed this from "Don Quixote," the only book he had ever read, but which he still slightly remembered.

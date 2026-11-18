@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Unwelcome Callers"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-24.html"
 ---
 
 Within the following fifteen minutes it seemed as if a thousand wolves had arrived on the plateau, and were fighting, feasting, snarling, and rending the bodies of the musk oxen to fragments. They were far enough removed from the cavern for the inmates to hear each other readily, while discussing the curious occurrence.

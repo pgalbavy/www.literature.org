@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Danger In The Air"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-scout/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-03.html"
 ---
 
 The selection of a candidate by competitive examination for the United States Military Academy at West Point has not the slightest effect upon his admission to that institution. When he knocks at the door he stands precisely upon the same footing as if he were a country lad from the backwoods of Illinois or the plains of one of the territories. His selection simply carries with it the probability that he is the best qualified of the numerous youths living in his congressional district who are seeking the appointment.

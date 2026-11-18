@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 4"
 weight: 18
-aliases:
-  - "/authors/conrad-joseph/an-outcast-of-the-islands/part-03-chapter-04.html"
+url: "/authors/conrad-joseph/an-outcast-of-the-islands/part-03-chapter-04.html"
 ---
 
 Consciously or unconsciously, men are proud of their firmness, steadfastness of purpose, directness of aim. They go straight towards their desire, to the accomplishment of virtue—sometimes of crime—in an uplifting persuasion of their firmness. They walk the road of life, the road fenced in by their tastes, prejudices, disdains or enthusiasms, generally honest, invariably stupid, and are proud of never losing their way. If they do stop, it is to look for a moment over the hedges that make them safe, to look at the misty valleys, at the distant peaks, at cliffs and morasses, at the dark forests and the hazy plains where other human beings grope their days painfully away, stumbling over the bones of the wise, over the unburied remains of their predecessors who died alone, in gloom or in sunshine, halfway from anywhere. The man of purpose does not understand, and goes on, full of contempt. He never loses his way. He knows where he is going and what he wants. Travelling on, he achieves great length without any breadth, and battered, besmirched, and weary, he touches the goal at last; he grasps the reward of his perseverance, of his virtue, of his healthy optimism: an untruthful tombstone over a dark and soon forgotten grave.

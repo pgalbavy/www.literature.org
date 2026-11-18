@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/baum-l-frank/the-tin-woodman-of-oz/preface.html"
+url: "/authors/baum-l-frank/the-tin-woodman-of-oz/preface.html"
 ---
 
 A Faithful Story of the Astonishing Adventure Undertaken by the Tin Woodman, assisted by Woot the Wanderer, the Scarecrow of Oz, and Polychrome, the Rainbow's Daughter

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Poet And The Editor"
 weight: 5
-aliases:
-  - "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-05.html"
+url: "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-05.html"
 ---
 
 It was not bad sport - being in London entirely on our own hook. We asked the way to Fleet Street, where Father says all the newspaper offices are. They said straight on down Ludgate Hill - but it turned out to be quite another way. At least we didn't go straight on.

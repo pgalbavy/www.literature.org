@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - For Valour"
 weight: 7
-aliases:
-  - "/authors/nesbit-edith/the-railway-children/chapter-07.html"
+url: "/authors/nesbit-edith/the-railway-children/chapter-07.html"
 ---
 
 I hope you don't mind my telling you a good deal about Roberta. The fact is I am growing very fond of her. The more I observe her the more I love her. And I notice all sorts of things about her that I like.

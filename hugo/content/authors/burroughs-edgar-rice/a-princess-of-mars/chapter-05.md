@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - I Elude My Watch Dog"
 weight: 5
-aliases:
-  - "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-05.html"
+url: "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-05.html"
 ---
 
 Sola stared into the brute's wicked-looking eyes, muttered a word or two of command, pointed to me, and left the chamber. I could not but wonder what this ferocious-looking monstrosity might do when left alone in such close proximity to such a relatively tender morsel of meat; but my fears were groundless, as the beast, after surveying me intently for a moment, crossed the room to the only exit which led to the street, and lay down full length across the threshold.

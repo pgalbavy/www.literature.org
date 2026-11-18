@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The New Army"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-10.html"
 ---
 
 "Now, then--fall in!" Major Monkey shouted to the whole company of field-and forest-folk.

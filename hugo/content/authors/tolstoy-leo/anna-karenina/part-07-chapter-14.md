@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 14"
 weight: 203
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-14.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-14.html"
 ---
 
 The doctor was not yet up,and the footman said that he had been up late, and had given orders not to be waked, but would get up soon. The footman was cleaning the lamp-chimneys, and seemed very busy about them. This concentration of the footman upon his lamps, and his indifference to what was passing in Levin, at first astounded him, but immediately on considering the question he realized that no one knew or was bound to know his feelings, and that it was all the more necessary to act calmly, sensibly, and resolutely to get through this wall of indifference and attain his aim.

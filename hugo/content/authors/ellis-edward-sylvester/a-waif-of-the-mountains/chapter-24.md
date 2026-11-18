@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - An Unexpected Ally"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-24.html"
 ---
 
 The lovelight shone in the eyes of Lieutenant Russell, as he looked down at the slight figure beside him. He tenderly passed his arm around the girl and touched his lips to her forehead.

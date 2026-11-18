@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - \"Under Fire\""
 weight: 10
-aliases:
-  - "/authors/davis-richard-harding/with-the-allies/chapter-09.html"
+url: "/authors/davis-richard-harding/with-the-allies/chapter-09.html"
 ---
 
 One cold day on the Aisne, when the Germans had just withdrawn to the east bank and the Allies held the west, the French soldiers built huge bonfires and huddled around them. When the "Jack Johnsons," as they call the six-inch howitzer shells that strike with a burst of black smoke, began to fall, sooner than leave the warm fires the soldiers accepted the chance of being hit by the shells. Their officers had to order them back. I saw this and wrote of it. A friend refused to credit it. He said it was against his experience. He did not believe that, for the sake of keeping warm, men would chance being killed.

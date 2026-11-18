@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Not Unnatural Enterprise"
 weight: 1
-aliases:
-  - "/authors/gilman-charlotte-perkins/herland/chapter-01.html"
+url: "/authors/gilman-charlotte-perkins/herland/chapter-01.html"
 ---
 
 This is written from memory, unfortunately. If I could have brought with me the material I so carefully prepared, this would be a very different story. Whole books full of notes, carefully copied records, firsthand descriptions, and the pictures--that’s the worst loss. We had some bird’s-eyes of the cities and parks; a lot of lovely views of streets, of buildings, outside and in, and some of those gorgeous gardens, and, most important of all, of the women themselves.

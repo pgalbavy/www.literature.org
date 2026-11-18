@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/eliot-george/silas-marner/chapter-07.html"
+url: "/authors/eliot-george/silas-marner/chapter-07.html"
 ---
 
 Yet the next moment there seemed to be some evidence that ghosts had a more condescending disposition than Mr. Macey attributed to them; for the pale thin figure of Silas Marner was suddenly seen standing in the warm light, uttering no word, but looking round at the company with his strange unearthly eyes. The long pipes gave a simultaneous movement, like the antennae of startled insects, and every man present, not excepting even the sceptical farrier, had an impression that he saw, not Silas Marner in the flesh, but an apparition; for the door by which Silas had entered was hidden by the high-screened seats, and no one had noticed his approach. Mr. Macey, sitting a long way off the ghost, might be supposed to have felt an argumentative triumph, which would tend to neutralize his share of the general alarm. Had he not always said that when Silas Marner was in that strange trance of his, his soul went loose from his body? Here was the demonstration: nevertheless, on the whole, he would have been as well contented without it. For a few moments there was a dead silence, Marner's want of breath and agitation not allowing him to speak. The landlord, under the habitual sense that he was bound to keep his house open to all company, and confident in the protection of his unbroken neutrality, at last took on himself the task of adjuring the ghost.

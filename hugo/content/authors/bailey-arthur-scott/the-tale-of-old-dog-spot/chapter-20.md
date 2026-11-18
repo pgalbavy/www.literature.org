@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Spot Goes To Town"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-20.html"
 ---
 
 The bays had to step lively that morning, for Farmer Green's family didn't want to be late for the circus parade in the village.

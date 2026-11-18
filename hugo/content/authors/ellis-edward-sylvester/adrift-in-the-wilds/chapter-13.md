@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Another Bargain"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-13.html"
 ---
 
 Our friends were prudent enough to cook every available portion of the mountain sheep, and to preserve what remained for future contingencies. The climate was so warm that they could not hope to keep it more than a day or two; and, as it was, they took the wise course of placing as much of it within their stomachs as they could conveniently carry. The good-tempered red Newfoundland seemed to be growing corpulent on this species of living, protracted hunger alternating with an over supply of food.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 31"
 weight: 31
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-31.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-31.html"
 ---
 
 Vronsky had not even tried to sleep all that night. He sat in his armchair, looking straight before him or scanning the people who got in and out. If he had indeed on previous occasions struck and impressed people who did not know him by his air of unhesitating composure, he seemed now more haughty and self-possessed than ever. He looked at people as if they were things. A nervous young man, a clerk in a law court, sitting opposite him, hated him for that look. The young man asked him for a light, and entered into conversation with him, and even pushed against him, to make him feel that he was not a thing, but a person. But Vronsky gazed at him exactly as he did at the lamp, and the young man made a wry face, feeling that he was losing his self-possession under the oppression of this refusal to recognize him as a person.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Crotalus"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-15.html"
 ---
 
 There are several species of rattlesnakes found in California, among which are the black, spotted and striped. Some of them grow to an enormous size and are anything but pleasant strangers to encounter, especially when you come upon them suddenly and find them coiled. It is a peculiarity of these specimens of the *Crotalus* of America that they strike only from the coil, are easily killed, and generally, although *not always*, do they rattle before they dart forward their poisonous fangs.

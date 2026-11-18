@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Midnight Adventure"
 weight: 17
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-17.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-17.html"
 ---
 
 The inquest took place on the following morning. It was extraordinarily unlike the inquests as pictured in sensational fiction. It satisfied even George Lomax in its rigid suppression of all interesting details. Superintendent Battle and the Coroner, working together with the support of the Chief Constable, had reduced the proceedings to the lowest level of boredom.

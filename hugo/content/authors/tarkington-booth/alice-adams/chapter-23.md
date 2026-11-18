@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/tarkington-booth/alice-adams/chapter-23.html"
+url: "/authors/tarkington-booth/alice-adams/chapter-23.html"
 ---
 
 Her mother's wailing could still be heard from overhead, though more faintly; and old Charley Lohr was coming down the stairs alone.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/buck-charles-neville/the-key-to-yesterday/chapter-16.html"
+url: "/authors/buck-charles-neville/the-key-to-yesterday/chapter-16.html"
 ---
 
 Late one evening in the café beneath the Elysée Palace Hôtel, a tall man of something like thirty-five, though aged to the seeming of a bit more, sat over his brandy and soda and the perusal of a packet of letters. He wore traveling dress, and, though the weather had hardly the bitterness to warrant it, a fur-trimmed great-coat fell across the empty chair at his side. It was not yet late enough for the gayety that begins with midnight, and the place was consequently uncrowded. The stranger had left a taxicab at the door a few minutes before, and, without following his luggage into the office, he had gone directly to the café, to glance over his mail before being assigned to a room.

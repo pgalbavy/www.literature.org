@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Peace, The Good Samaritan"
 weight: 14
-aliases:
-  - "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-14.html"
+url: "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-14.html"
 ---
 
 Down the sloping hillside browned with the summer sun strolled Peace one afternoon late in August, gathering the purple foxgloves which waved invitingly in the breeze. It was one of those rare days of waning summer, clear, beautiful and cool, with just a hint of autumn haze in the air; and it cast its magic spell over the bare-headed, flower-laden maid, wandering dreamily through the crisp, crackling grass, with no particular destination in view, no particular thought in mind. She had set out an hour before with Cherry and Allee as her companions, but had wandered away from them without being aware of it, and was now some distance from home, still busy pulling the gorgeous stems of bloom, still unconscious of her loneness, still lost in her own realms of fancy.

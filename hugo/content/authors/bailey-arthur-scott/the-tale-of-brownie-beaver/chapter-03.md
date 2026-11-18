@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Sticks And Mud"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-03.html"
 ---
 
 Like the dam that held back the water to form the pond where Brownie Beaver lived, Brownie's house was made of sticks and mud. He cut the sticks himself, from trees that grew near the bank of the pond; and after dragging and pushing them to the water's edge he swam with them, without much trouble, to the center of the pond, where he wished to build his house. Of course, the sticks floated in the water; so Brownie found that part of his work to be quite easy.

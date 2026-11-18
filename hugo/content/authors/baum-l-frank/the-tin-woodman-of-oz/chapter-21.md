@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 22
-aliases:
-  - "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-21.html"
+url: "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-21.html"
 ---
 
 On this morning, which ought to be the last of this important journey, our friends started away as bright and cheery as could be, and Woot whistled a merry tune so that Polychrome could dance to the music.

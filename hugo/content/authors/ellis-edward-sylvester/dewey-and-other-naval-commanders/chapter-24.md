@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-24.html"
 ---
 
 Two Worthy Sons—William D. Porter —The Career of Admiral David Dixon Porter.

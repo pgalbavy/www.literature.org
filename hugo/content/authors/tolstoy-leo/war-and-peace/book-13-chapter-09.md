@@ -1,8 +1,7 @@
 ---
 title: "Book 13 - Chapter 9"
 weight: 288
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-13-chapter-09.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-13-chapter-09.html"
 ---
 
 With regard to military matters, Napoleon immediately on his entry into Moscow gave General Sabastiani strict orders to observe the movements of the Russian army, sent army corps out along the different roads, and charged Murat to find Kutuzov. Then he gave careful directions about the fortification of the Kremlin, and drew up a brilliant plan for a future campaign over the whole map of Russia.

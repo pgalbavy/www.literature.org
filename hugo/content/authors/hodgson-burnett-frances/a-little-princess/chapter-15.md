@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Magic"
 weight: 16
-aliases:
-  - "/authors/hodgson-burnett-frances/a-little-princess/chapter-15.html"
+url: "/authors/hodgson-burnett-frances/a-little-princess/chapter-15.html"
 ---
 
 When Sara had passed the house next door she had seen Ram Dass closing the shutters, and caught her glimpse of this room also.

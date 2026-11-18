@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/collins-wilkie/the-haunted-hotel/chapter-20.html"
+url: "/authors/collins-wilkie/the-haunted-hotel/chapter-20.html"
 ---
 
 'Shall I see you again?' she asked, as she held out her hand to take leave. 'It is quite understood between us, I suppose, about the play?'

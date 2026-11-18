@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/london-jack/before-adam/chapter-16.html"
+url: "/authors/london-jack/before-adam/chapter-16.html"
 ---
 
 I found her down in the old neighborhood near the blueberry swamp, where my mother lived and where Lop-Ear and I had built our first tree-shelter. It was unexpected. As I came under the tree I heard the familiar soft sound and looked up. There she was, the Swift One, sitting on a limb and swinging her legs back and forth as she looked at me.

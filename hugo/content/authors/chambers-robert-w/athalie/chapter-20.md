@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-20.html"
+url: "/authors/chambers-robert-w/athalie/chapter-20.html"
 ---
 
 A May afternoon was drawing to a close; the last appointment had been made for the morrow, and the last client for the day still lingered with Athalie where she sat with her head propped thoughtfully on one slim hand, her gaze concentrated on the depths of the crystal sphere.

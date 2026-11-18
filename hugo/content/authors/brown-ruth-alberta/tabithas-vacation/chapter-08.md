@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Billiard Runs Away"
 weight: 8
-aliases:
-  - "/authors/brown-ruth-alberta/tabithas-vacation/chapter-08.html"
+url: "/authors/brown-ruth-alberta/tabithas-vacation/chapter-08.html"
 ---
 
 Billiard, white, scared, remorseful, had crept away up the mountainside the minute he had seen Dr. Hayes bending beside the still form on the kitchen floor, and remained in his retreat, watching the house with frightened eyes, until the physician's bulky figure strode down the path toward town again. Then, flinging himself face down in the gravel, he sobbed in unrestrained relief, until, exhausted by the strain of his recent fearful experience, he fell asleep in the shadow of a ragged boulder, where late that afternoon Tabitha found him, after a vain search about house and yard.

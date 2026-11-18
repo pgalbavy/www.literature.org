@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/bronte-charlotte/jane-eyre/chapter-20.html"
+url: "/authors/bronte-charlotte/jane-eyre/chapter-20.html"
 ---
 
 I had forgotten to draw my curtain, which I usually did, and also to let down my window-blind. The consequence was, that when the moon, which was full and bright (for the night was fine), came in her course to that space in the sky opposite my casement, and looked in at me through the unveiled panes, her glorious gaze roused me. Awaking in the dead of night, I opened my eyes on her disk--silver- white and crystal clear. It was beautiful, but too solemn; I half rose, and stretched my arm to draw the curtain.

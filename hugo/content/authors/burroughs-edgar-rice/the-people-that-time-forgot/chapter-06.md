@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/burroughs-edgar-rice/the-people-that-time-forgot/chapter-06.html"
+url: "/authors/burroughs-edgar-rice/the-people-that-time-forgot/chapter-06.html"
 ---
 
 After dinner I rolled a cigaret and stretched myself at ease upon a pile of furs before the doorway, with Ajor's head pillowed in my lap and a feeling of great content pervading me. It was the first time since my plane had topped the barrier- cliffs of Caspak that I had felt any sense of peace or security. My hand wandered to the velvet cheek of the girl I had claimed as mine, and to her luxuriant hair and the golden fillet which bound it close to her shapely head. Her slender fingers groping upward sought mine and drew them to her lips, and then I gathered her in my arms and crushed her to me, smothering her mouth with a long, long kiss. It was the first time that passion had tinged my intercourse with Ajor. We were alone, and the hut was ours until morning.

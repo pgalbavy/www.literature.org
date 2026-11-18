@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Foraging For Food"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-17.html"
 ---
 
 Fred's fear was that if any of the Apaches were near at hand they would hear the beating of his heart—so intense was his excitement and anxiety. But delay seemed only to increase it, and, pressing close to the corner, he removed his cap and stealthily shoved his head forward until he could look along the other side.

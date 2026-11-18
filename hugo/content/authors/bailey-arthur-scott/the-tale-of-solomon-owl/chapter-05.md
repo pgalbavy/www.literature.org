@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Cold Weather Coat"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-05.html"
 ---
 
 Yes! As he held up his new coat and looked at it, Solomon Owl was puzzled. He turned his head toward Mr. Frog and stared at him for a moment. And then he turned his head away from the tailor and gazed upon the coat again.

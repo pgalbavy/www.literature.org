@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Home Again "
 weight: 25
-aliases:
-  - "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-24.html"
+url: "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-24.html"
 ---
 
 Aunt Em had just come out of the house to water the cabbages when she looked up and saw Dorothy running toward her.

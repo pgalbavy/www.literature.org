@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Poetry And Prose"
 weight: 29
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-29.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-29.html"
 ---
 
 For the next month Anne lived in what, for Avonlea, might be called a whirl of excitement. The preparation of her own modest outfit for Redmond was of secondary importance. Miss Lavendar was getting ready to be married and the stone house was the scene of endless consultations and plannings and discussions, with Charlotta the Fourth hovering on the outskirts of things in agitated delight and wonder. Then the dressmaker came, and there was the rapture and wretchedness of choosing fashions and being fitted. Anne and Diana spent half their time at Echo Lodge and there were nights when Anne could not sleep for wondering whether she had done right in advising Miss Lavendar to select brown rather than navy blue for her traveling dress, and to have her gray silk made princess.

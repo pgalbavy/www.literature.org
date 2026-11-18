@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A Fine Curtain-Raiser"
 weight: 9
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-09.html"
+url: "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-09.html"
 ---
 
 The sun was rising over the mountains when the flying machines and the motor-car reached the field where the boys had landed the night before. After the escape of Doran, the aeroplanes had searched the hills and gorges for the fugitive, but had found no trace of him observable from the sky.

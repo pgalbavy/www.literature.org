@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-20.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-20.html"
 ---
 
 Though her clothes were torn and her hair disheveled, Albert Werper realized that he never before had looked upon such a vision of loveliness as that which Lady Greystoke presented in the relief and joy which she felt in coming so unexpectedly upon a friend and rescuer when hope had seemed so far away.

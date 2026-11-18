@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - In Which It Is Proved That One Does Not Always Think Of Everything"
 weight: 28
-aliases:
-  - "/authors/leroux-gaston/the-yellow-room/chapter-28.html"
+url: "/authors/leroux-gaston/the-yellow-room/chapter-28.html"
 ---
 
 Great excitement prevailed when Rouletabille had finished. The court-room became agitated with the murmurings of suppressed applause. Maitre Henri Robert called for an adjournment of the trial and was supported in his motion by the public prosecutor himself. The case was adjourned. The next day Monsieur Robert Darzac was released on bail, while Daddy Jacques received the immediate benefit of a "no cause for action." Search was everywhere made for Frederic Larsan, but in vain. Monsieur Darzac finally escaped the awful calamity which, at one time, had threatened him. After a visit to Mademoiselle Stangerson, he was led to hope that she might, by careful nursing, one day recover her reason.

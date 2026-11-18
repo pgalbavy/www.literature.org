@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 17
-aliases:
-  - "/authors/london-jack/jerry-of-the-islands/chapter-16.html"
+url: "/authors/london-jack/jerry-of-the-islands/chapter-16.html"
 ---
 
 Three months more passed; the north-west monsoon, after its half- year of breath, had given way to the south-east trade; and Jerry still continued to live in the house of Agno and to have the run of the village. He had put on weight, increased in size, and, protected by the taboo, had become self-confident almost to lordliness. But he had found no master. Agno had never won a heart-throb from him. For that matter, Agno had never tried to win him. Nor, in his cold-blooded way, had he ever betrayed his hatred of Jerry.

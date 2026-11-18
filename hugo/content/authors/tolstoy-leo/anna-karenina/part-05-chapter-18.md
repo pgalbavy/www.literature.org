@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 18"
 weight: 142
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-18.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-18.html"
 ---
 
 Levin could not look calmly at his brother; he could not himself be natural and calm in his presence. When he went in to the sick man, his eyes and his attention were unconsciously dimmed, and he did not see and did not distinguish the details of his brother's position. He smelt the awful odor, saw the dirt, disorder, and miserable condition, and heard the groans, and felt that nothing could be done to help. It never entered his head to analyze the details of the sick man's situation, to consider how that body was lying under the quilt, how those emaciated legs and thighs and spine were lying huddled up, and whether they could not be made more comfortable, whether anything could not be done to make things, if not better, at least less bad. It made his blood run cold when he began to think of all these details. He was absolutely convinced that nothing could be done to prolong his brother's life or to relieve his suffering. But a sense of his regarding all aid as out of the question was felt by the sick man, and exasperated him. And this made it still more painful for Levin. To be in the sick-room was agony to him, not to be there still worse. And he was continually, on various pretexts, going out of the room, and coming in again, because he was unable to remain alone.

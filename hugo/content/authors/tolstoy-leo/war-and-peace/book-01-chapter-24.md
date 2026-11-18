@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 24"
 weight: 24
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-01-chapter-24.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-01-chapter-24.html"
 ---
 
 There was now no one in the reception room except Prince Vasili and the eldest princess, who were sitting under the portrait of Catherine the Great and talking eagerly. As soon as they saw Pierre and his companion they became silent, and Pierre thought he saw the princess hide something as she whispered:

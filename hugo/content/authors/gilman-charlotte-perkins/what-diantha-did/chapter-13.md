@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - All This"
 weight: 13
-aliases:
-  - "/authors/gilman-charlotte-perkins/what-diantha-did/chapter-13.html"
+url: "/authors/gilman-charlotte-perkins/what-diantha-did/chapter-13.html"
 ---
 
 When Madam Weatherstone shook the plentiful dust of Orchardina from her expensive shoes, and returned to adorn the more classic groves of Philadelphia, Mrs. Thaddler assumed to hold undisputed sway as a social leader.

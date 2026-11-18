@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/collins-wilkie/the-haunted-hotel/chapter-10.html"
+url: "/authors/collins-wilkie/the-haunted-hotel/chapter-10.html"
 ---
 
 In the mean time, Mrs. Ferrari held to her resolution. She went straight from Mr. Troy's office to Newbury's Hotel.

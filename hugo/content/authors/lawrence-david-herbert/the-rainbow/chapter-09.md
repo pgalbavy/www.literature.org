@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Marsh And The Flood"
 weight: 9
-aliases:
-  - "/authors/lawrence-david-herbert/the-rainbow/chapter-09.html"
+url: "/authors/lawrence-david-herbert/the-rainbow/chapter-09.html"
 ---
 
 There was always regular connection between the Yew Cottage and the Marsh, yet the two households remained separate, distinct.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Way To Babylon"
 weight: 6
-aliases:
-  - "/authors/nesbit-edith/the-story-of-the-amulet/chapter-06.html"
+url: "/authors/nesbit-edith/the-story-of-the-amulet/chapter-06.html"
 ---
 
 'How many miles to Babylon? Three score and ten! Can I get there by candle light? Yes, and back again!'

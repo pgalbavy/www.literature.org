@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Conclusion"
 weight: 28
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-28.html"
+url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-28.html"
 ---
 
 At the sight of Jane, cries of relief and delight broke from every lip, and as Tarzan's car stopped beside the other, Professor Porter caught his daughter in his arms.

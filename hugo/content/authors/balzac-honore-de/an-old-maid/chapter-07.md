@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Other Results"
 weight: 7
-aliases:
-  - "/authors/balzac-honore-de/an-old-maid/chapter-07.html"
+url: "/authors/balzac-honore-de/an-old-maid/chapter-07.html"
 ---
 
 The news of Mademoiselle Cormon's choice stabbed poor Athanase Granson to the heart; but he showed no outward sign of the terrible agitation within him. When he first heard of the marriage he was at the house of the chief-justice, du Ronceret, where his mother was playing boston. Madame Granson looked at her son in a mirror, and thought him pale; but he had been so all day, for a vague rumor of the matter had already reached him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/burroughs-edgar-rice/the-lost-continent/chapter-01.html"
+url: "/authors/burroughs-edgar-rice/the-lost-continent/chapter-01.html"
 ---
 
 Since earliest childhood I have been strangely fascinated by the mystery surrounding the history of the last days of twentieth century Europe. My interest is keenest, perhaps, not so much in relation to known facts as to speculation upon the unknowable of the two centuries that have rolled by since human intercourse between the Western and Eastern Hemispheres ceased--the mystery of Europe's state following the termination of the Great War--provided, of course, that the war had been terminated.

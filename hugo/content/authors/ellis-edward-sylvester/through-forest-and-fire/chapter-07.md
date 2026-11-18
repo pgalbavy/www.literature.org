@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - An Alarming Discovery"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-07.html"
 ---
 
 By this time the searching party began to realize the difficulties in the path of their success.

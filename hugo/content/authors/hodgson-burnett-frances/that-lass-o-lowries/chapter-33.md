@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Fate"
 weight: 33
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-33.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-33.html"
 ---
 
 The time came, before many days, when the last tie that bound Joan to her present life was broken. The little one, who from the first had clung to existence with a frail hold, at last loosened its weak grasp. It had been ill for several days,--so ill that Joan had remained at home to nurse it,--and one night, sitting with it upon her knee in her accustomed place, she saw a change upon the small face.

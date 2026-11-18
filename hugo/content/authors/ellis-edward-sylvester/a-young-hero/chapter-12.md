@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - A Business Transaction"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/a-young-hero/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/a-young-hero/chapter-12.html"
 ---
 
 When Fred Sheldon saw Bud Heyland standing before him in the path, his impulse was to whirl about and run, for he knew too well what to expect from the bully; but the latter, reading his thoughts called out:

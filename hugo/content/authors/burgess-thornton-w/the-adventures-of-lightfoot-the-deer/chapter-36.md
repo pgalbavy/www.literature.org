@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - Sammy Jay Takes A Hand"
 weight: 36
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-36.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-36.html"
 ---
 
 Sammy Jay was bubbling over with excitement as he flew about through the Green Forest, following Lightfoot the Deer. He was so excited he wanted to scream. But he didn't. He kept his tongue still. You see, he didn't want Lightfoot to know that he was being followed. Under that pointed cap of Sammy Jay's are quick wits. It didn't take him long to discover that the big stranger whom Lightfoot was seeking was doing his best to keep out of Lightfoot's way and that he was having no difficulty in doing so because of the reckless way in which Lightfoot was searching for him. Lightfoot made so much noise that it was quite easy to know just where he was and to keep out of his sight.

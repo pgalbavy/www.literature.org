@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 16 - An Anniversary Occasion"
 weight: 33
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-02-chapter-16.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-02-chapter-16.html"
 ---
 
 The estimable Twemlow, dressing himself in his lodgings over the stable-yard in Duke Street, Saint James’s, and hearing the horses at their toilette below, finds himself on the whole in a disadvantageous position as compared with the noble animals at livery. For whereas, on the one hand, he has no attendant to slap him soundingly and require him in gruff accents to come up and come over, still, on the other hand, he has no attendant at all; and the mild gentleman’s finger-joints and other joints working rustily in the morning, he could deem it agreeable even to be tied up by the countenance at his chamber-door, so he were there skilfully rubbed down and slushed and sluiced and polished and clothed, while himself taking merely a passive part in these trying transactions.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Story Of Lester"
 weight: 24
-aliases:
-  - "/authors/williams-frank/the-free-range/chapter-24.html"
+url: "/authors/williams-frank/the-free-range/chapter-24.html"
 ---
 
 Bud's sleep of exhaustion was ended by the sound of voices calling to one another. So deep had been his unconsciousness that as he slowly struggled back to light and reason he forgot where he was and what had happened.

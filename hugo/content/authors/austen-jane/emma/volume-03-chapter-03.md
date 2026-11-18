@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 3"
 weight: 39
-aliases:
-  - "/authors/austen-jane/emma/volume-03-chapter-03.html"
+url: "/authors/austen-jane/emma/volume-03-chapter-03.html"
 ---
 
 This little explanation with Mr. Knightley gave Emma considerable pleasure. It was one of the agreeable recollections of the ball, which she walked about the lawn the next morning to enjoy.--She was extremely glad that they had come to so good an understanding respecting the Eltons, and that their opinions of both husband and wife were so much alike; and his praise of Harriet, his concession in her favour, was peculiarly gratifying. The impertinence of the Eltons, which for a few minutes had threatened to ruin the rest of her evening, had been the occasion of some of its highest satisfactions; and she looked forward to another happy result--the cure of Harriet's infatuation.--From Harriet's manner of speaking of the circumstance before they quitted the ballroom, she had strong hopes. It seemed as if her eyes were suddenly opened, and she were enabled to see that Mr. Elton was not the superior creature she had believed him. The fever was over, and Emma could harbour little fear of the pulse being quickened again by injurious courtesy. She depended on the evil feelings of the Eltons for supplying all the discipline of pointed neglect that could be farther requisite.--Harriet rational, Frank Churchill not too much in love, and Mr. Knightley not wanting to quarrel with her, how very happy a summer must be before her!

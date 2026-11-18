@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Adventures Of Two Dutchmen On The Loose"
 weight: 5
-aliases:
-  - "/authors/buchan-john/greenmantle/chapter-04.html"
+url: "/authors/buchan-john/greenmantle/chapter-04.html"
 ---
 
 The Germans, as Peter said, are a careful people. A man met us on the quay at Rotterdam. I was a bit afraid that something might have turned up in Lisbon to discredit us, and that our little friend might have warned his pals by telegram. But apparently all was serene.

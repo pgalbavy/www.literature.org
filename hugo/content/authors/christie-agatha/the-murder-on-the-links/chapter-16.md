@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Beroldy Case"
 weight: 16
-aliases:
-  - "/authors/christie-agatha/the-murder-on-the-links/chapter-16.html"
+url: "/authors/christie-agatha/the-murder-on-the-links/chapter-16.html"
 ---
 
 Some twenty years or so before the opening of the present story, Monsieur Arnold Beroldy, a native of Lyons, arrived in Paris accompanied by his pretty wife and their little daughter, a mere babe. Monsieur Beroldy was a junior partner in a firm of wine merchants, a stout middle-aged man, fond of the good things of life, devoted to his charming wife, and altogether unremarkable in every way. The firm in which Monsieur Beroldy was a partner was a small one, and although doing well, it did not yield a large income to the junior partner. The Beroldys had a small apartment and lived in a very modest fashion to begin with.

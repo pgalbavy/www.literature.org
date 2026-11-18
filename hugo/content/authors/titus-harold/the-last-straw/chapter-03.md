@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Nester--And Another"
 weight: 3
-aliases:
-  - "/authors/titus-harold/the-last-straw/chapter-03.html"
+url: "/authors/titus-harold/the-last-straw/chapter-03.html"
 ---
 
 "Now about the men, Miss Hunter," said Hepburn. When he reached this subject he looked through the deep window far down the creek and had Jane known him better she might have seen hesitancy with his deliberation, as though he approached the subject reluctantly.

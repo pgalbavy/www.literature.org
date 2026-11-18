@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 2 - What We Saw From the Ruined House"
 weight: 19
-aliases:
-  - "/authors/wells-herbert-george/the-war-of-the-worlds/book-02-chapter-02.html"
+url: "/authors/wells-herbert-george/the-war-of-the-worlds/book-02-chapter-02.html"
 ---
 
 After eating we crept back to the scullery, and there I must have dozed again, for when presently I looked round I was alone. The thudding vibration continued with wearisome persistence. I whispered for the curate several times, and at last felt my way to the door of the kitchen. It was still day- light, and I perceived him across the room, lying against the triangular hole that looked out upon the Martians. His shoulders were hunched, so that his head was hidden from me.

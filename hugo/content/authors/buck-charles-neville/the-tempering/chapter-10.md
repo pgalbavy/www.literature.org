@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-10.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-10.html"
 ---
 
 A FEW days after that, he started back again to his mountains. With Saul in jail and his wife returning to her people, there was nothing further to hold him here. Indeed, he was anxious now to get home. Like one who has been bewildered by a plethora of new experiences, he needed time to digest them, and above all he wanted to talk with Victor McCalloway, whose wisdom was, to his thinking, as that of a second Solomon. There, too, was his other hero, Asa, who had returned to the hills as quietly as he had left them. Boone was burning to know whether, in the whirlpool of excitement there at Frankfort, his efforts to secure executive clemency had met with success or failure.

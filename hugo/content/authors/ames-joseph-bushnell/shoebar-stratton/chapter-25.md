@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Trap"
 weight: 25
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-25.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-25.html"
 ---
 
 "Yuh out last night?" brusquely inquired Gabby, as they were dressing next morning.

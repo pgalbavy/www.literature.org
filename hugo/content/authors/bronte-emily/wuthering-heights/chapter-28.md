@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-28.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-28.html"
 ---
 
 ON the fifth morning, or rather afternoon, a different step approached - lighter and shorter; and, this time, the person entered the room. It was Zillah; donned in her scarlet shawl, with a black silk bonnet on her head, and a willow-basket swung to her arm.

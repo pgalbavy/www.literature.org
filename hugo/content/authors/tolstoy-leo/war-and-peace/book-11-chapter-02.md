@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 2"
 weight: 231
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-02.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-02.html"
 ---
 
 The forces of a dozen European nations burst into Russia. The Russian army and people avoided a collision till Smolensk was reached, and again from Smolensk to Borodino. The French army pushed on to Moscow, its goal, its impetus ever increasing as it neared its aim, just as the velocity of a falling body increases as it approaches the earth. Behind it were seven hundred miles of hunger-stricken, hostile country; ahead were a few dozen miles separating it from its goal. Every soldier in Napoleon's army felt this and the invasion moved on by its own momentum.

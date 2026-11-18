@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - George Prophesies"
 weight: 12
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-12.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-12.html"
 ---
 
 Ida, for obvious reasons, said nothing to her father of her interview with Edward Cossey, and thus it came to pass that on the morning following the lawn tennis party, there was a very serious consultation between the faithful George and his master. It appeared to Ida, who was lying awake in her room, to commence somewhere about daybreak, and it certainly continued with short intervals for refreshment till eleven o'clock in the forenoon. First the Squire explained the whole question to George at great length, and with a most extraordinary multiplicity of detail, for he began at his first loan from the house of Cossey and Son, which he had contracted a great many years before. All this while George sat with a very long face, and tried to look as though he were following the thread of the argument, which was not possible, for his master had long ago lost it himself, and was mixing up the loan of 1863 with the loan of 1874, and the money raised in the severance of the entail with both, in a way which would have driven anybody except George, who was used to this sort of thing, perfectly mad. However he sat it through, and when at last the account was finished, remarked that things "sartainly did look queer."

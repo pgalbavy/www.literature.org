@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Black Tulip Changes Masters"
 weight: 24
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-24.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-24.html"
 ---
 
 Cornelius remained standing on the spot where Rosa had left him. He was quite overpowered with the weight of his twofold happiness.

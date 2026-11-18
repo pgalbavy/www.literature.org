@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/huxley-aldous/antic-hay/chapter-07.html"
+url: "/authors/huxley-aldous/antic-hay/chapter-07.html"
 ---
 
 It was Press Day. The critics had begun to arrive; Mr. Albemarle circulated among them with a ducal amiability. The young assistant hovered vaguely about, straining to hear what the great men had to say and trying to pretend that he wasn’t eavesdropping. Lypiatt’s pictures hung on the walls, and Lypiatt’s catalogue, thick with its preface and its explanatory notes, was in all hands.

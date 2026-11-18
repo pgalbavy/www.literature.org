@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Creamy Face"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-10.html"
 ---
 
 FARMER GREEN'S wife threw away pan after pan of milk, because she knew somebody had been stealing cream off the top of them. At least, she told Farmer Green to feed the milk to the pigs, because she wasn't going to make butter of any cream that had been tampered with by goodness knew whom or what. And old dog Spot said that feeding good creamy milk to the pigs was just the same as throwing it away. He made that remark to Miss Kitty Cat, adding that it was a shame that somebody was stealing cream and declaring that he hoped to catch the thief.

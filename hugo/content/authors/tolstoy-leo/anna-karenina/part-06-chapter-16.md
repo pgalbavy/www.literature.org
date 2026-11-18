@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 16"
 weight: 173
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-16.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-16.html"
 ---
 
 Darya Alexandrovna carried out her intention and went to see Anna. She was sorry to annoy her sister and to do anything Levin disliked. She quite understood how right the Levins were in not wishing to have anything to do with Vronsky. But she felt she must go and see Anna, and show her that her feelings could not be changed, in spite of the change in her position. That she might be independent of the Levins in this expedition, Darya Alexandrovna sent to the village to hire horses for the drive; but Levin learning of it went to her to protest.

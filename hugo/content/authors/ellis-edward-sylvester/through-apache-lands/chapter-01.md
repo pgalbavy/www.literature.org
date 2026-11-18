@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Moonlight On The Rio Gila"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-01.html"
 ---
 
 Along the eastern bank a small Indian canoe, containing a single individual, was stealing its way—"hugging" the shore so as to take advantage of the narrow band of shadow that followed the winding of the stream. There were no trees on either side of the river, but this portion was walled in by bluffs, rising from three or four to fully twenty feet in height. The current was sluggish and not a breath of air wrinkled the surface on this mild summer night.

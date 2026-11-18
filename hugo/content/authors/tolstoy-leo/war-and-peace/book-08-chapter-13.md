@@ -1,8 +1,7 @@
 ---
 title: "Book 8 - Chapter 13"
 weight: 158
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-08-chapter-13.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-08-chapter-13.html"
 ---
 
 Count Rostov took the girls to Countess Bezukhova's. There were a good many people there, but nearly all strangers to Natasha. Count Rostov was displeased to see that the company consisted almost entirely of men and women known for the freedom of their conduct. Mademoiselle George was standing in a corner of the drawing room surrounded by young men. There were several Frenchmen present, among them Metivier who from the time Helene reached Moscow had been an intimate in her house. The count decided not to sit down to cards or let his girls out of his sight and to get away as soon as Mademoiselle George's performance was over.

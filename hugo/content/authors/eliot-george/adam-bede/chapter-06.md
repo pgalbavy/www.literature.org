@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Hall Farm"
 weight: 6
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-06.html"
+url: "/authors/eliot-george/adam-bede/chapter-06.html"
 ---
 
 EVIDENTLY that gate is never opened, for the long grass and the great hemlocks grow close against it, and if it were opened, it is so rusty that the force necessary to turn it on its hinges would be likely to pull down the square stone-built pillars, to the detriment of the two stone lionesses which grin with a doubtful carnivorous affability above a coat of arms surmounting each of the pillars. It would be easy enough, by the aid of the nicks in the stone pillars, to climb over the brick wall with its smooth stone coping; but by putting our eyes close to the rusty bars of the gate, we can see the house well enough, and all but the very corners of the grassy enclosure.

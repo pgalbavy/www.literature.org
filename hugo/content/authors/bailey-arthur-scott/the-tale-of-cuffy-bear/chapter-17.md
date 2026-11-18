@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Cuffy Bear Goes Swimming"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-17.html"
 ---
 
 As Cuffy Bear tore through the forest, with the bees clustering all about his head, he thought he never would reach the brook. He was going straight for the deep pool, which he had often visited in order to watch the speckled trout darting about in the clear water.

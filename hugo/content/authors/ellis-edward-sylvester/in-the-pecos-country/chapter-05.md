@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Apaches Are Coming"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-05.html"
 ---
 
 As soon as Lone Wolf was out of sight, young Munson stepped back in the shadow of the wood, and quickly placed himself behind the trunk of a large tree. He had learned the nature of the Indian race too well for him to give this precious specimen any chance to circumvent him. Had he remained standing in the moonlight opening, after the Apache entered the wood, the latter could not have had a better opportunity to pick him off without danger to himself. Had he meditated any such purpose, when he wheeled to fire the shot there would have been no target visible.

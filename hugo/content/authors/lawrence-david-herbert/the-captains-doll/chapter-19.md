@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/lawrence-david-herbert/the-captains-doll/chapter-19.html"
+url: "/authors/lawrence-david-herbert/the-captains-doll/chapter-19.html"
 ---
 
 They ate venison and spinach in the hotel, then set off down again. Both felt happier. She gathered some flowers and put them in her handkerchief so they should not die. And again they sat by the stream, to drink a little wine.

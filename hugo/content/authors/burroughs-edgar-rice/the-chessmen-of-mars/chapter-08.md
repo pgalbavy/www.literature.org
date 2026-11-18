@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-08.html"
+url: "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-08.html"
 ---
 
 GHEK, in his happier days third foreman of the fields of Luud, sat nursing his anger and his humiliation. Recently something had awakened within him the existence of which he had never before even dreamed. Had the influence of the strange captive woman aught to do with this unrest and dissatisfaction? He did not know. He missed the soothing influence of the noise she called singing. Could it be that there were other things more desirable than cold logic and undefiled brain power? Was well balanced imperfection more to be sought after then, than the high development of a single characteristic? He thought of the great, ultimate brain toward which all kaldanes were striving. It would be deaf, and dumb, and blind. A thousand beautiful strangers might sing and dance about it, but it could derive no pleasure from the singing or the dancing since it would possess no perceptive faculties. Already had the kaldanes shut themselves off from most of the gratifications of the senses. Ghek wondered if much was to be gained by denying themselves still further, and with the thought came a question as to the whole fabric of their theory. After all perhaps the girl was right; what purpose could a great brain serve sealed in the bowels of the earth?

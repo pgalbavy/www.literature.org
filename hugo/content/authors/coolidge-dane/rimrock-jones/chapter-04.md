@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - As A Loan"
 weight: 4
-aliases:
-  - "/authors/coolidge-dane/rimrock-jones/chapter-04.html"
+url: "/authors/coolidge-dane/rimrock-jones/chapter-04.html"
 ---
 
 Rimrock Jones left town with four burro-loads of powder, some provisions and a cargo of tools. He paid cash for his purchases and answered no question beyond saying that he knew his own business. No one knew or could guess where he had got his money--except Miss Fortune, and she would not tell. From the very first she had told herself that the loan was nothing to hide, and yet she was too much of a woman not to have read aright the beacon in Rimrock's eyes. He had spoken impulsively, and so had she; and they had parted, as it turned out, for months.

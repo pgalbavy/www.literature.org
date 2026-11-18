@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Bread Cast Upon The Waters"
 weight: 33
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-33.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-33.html"
 ---
 
 When the Sioux who had rushed out on the open plain to the help of the wounded Starcus gathered around him they were quick to perceive that his life was due to the mercy of his conqueror, but their hostility toward the latter was not diminished one whit by the discovery; they were as eager for his life as ever, and proved it by firing several shots after him as he rode away.

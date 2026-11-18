@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Nine Points Of The Law"
 weight: 24
-aliases:
-  - "/authors/williams-frank/the-wilderness-trail/chapter-24.html"
+url: "/authors/williams-frank/the-wilderness-trail/chapter-24.html"
 ---
 
 For two days, affairs in the camp remained unchanged. Donald, unobtrusively watching events, saw Charley Seguis often in conference with old Maria. The faces of both were lighted with a certain joy, but, at times, that of the half-breed seemed to assume a brooding somberness. McTavish, for his part, was merely waiting. After that stormy day by the blasted pine, and the glimpse he had caught of the coveted certificate, a change had been wrought in him. He temporarily relinquished the idea of obtaining the paper: that had come later. Other things of more vital importance demanded his attention, things that boded no good for these men in whose midst he lived, unmolested, an alien. He had seen opportunity to serve the Company, that inflexible master which had almost crushed his life out more than once, and the inherent loyalty in him had responded. Where before he had been willing to give his life in defense of his own ideals, now he was setting personal desire aside that the Company might be served.

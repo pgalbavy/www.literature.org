@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Couple Of Indian Captives"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/seth-jones/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/seth-jones/chapter-10.html"
 ---
 
 So sudden, so unexpected, so astounding was the crash of Seth’s tomahawk through the head of the doomed savage, that, for a moment after, not an Indian moved or spoke. The head was nearly cleft in twain (for an arm fired by consuming passion had driven it), and the brains were spattered over numbers of those seated around. Seth himself stood a second, as if to satisfy himself that the work was complete, when he turned, walked to his seat, sat down, coolly folded his arms, and *commenced whistling*!

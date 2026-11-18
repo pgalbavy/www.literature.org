@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 17 - The Voice Of Society"
 weight: 67
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-04-chapter-17.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-04-chapter-17.html"
 ---
 
 Behoves Mortimer Lightwood, therefore, to answer a dinner card from Mr and Mrs Veneering requesting the honour, and to signify that Mr Mortimer Lightwood will be happy to have the other honour. The Veneerings have been, as usual, indefatigably dealing dinner cards to Society, and whoever desires to take a hand had best be quick about it, for it is written in the Books of the Insolvent Fates that Veneering shall make a resounding smash next week. Yes. Having found out the clue to that great mystery how people can contrive to live beyond their means, and having over-jobbed his jobberies as legislator deputed to the Universe by the pure electors of Pocket-Breaches, it shall come to pass next week that Veneering will accept the Chiltern Hundreds, that the legal gentleman in Britannia’s confidence will again accept the Pocket-Breaches Thousands, and that the Veneerings will retire to Calais, there to live on Mrs Veneering’s diamonds (in which Mr Veneering, as a good husband, has from time to time invested considerable sums), and to relate to Neptune and others, how that, before Veneering retired from Parliament, the House of Commons was composed of himself and the six hundred and fifty-seven dearest and oldest friends he had in the world. It shall likewise come to pass, at as nearly as possible the same period, that Society will discover that it always did despise Veneering, and distrust Veneering, and that when it went to Veneering’s to dinner it always had misgivings--though very secretly at the time, it would seem, and in a perfectly private and confidential manner.

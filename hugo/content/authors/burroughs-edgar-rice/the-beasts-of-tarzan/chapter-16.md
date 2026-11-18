@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - In the Darkness of the Night"
 weight: 16
-aliases:
-  - "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-16.html"
+url: "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-16.html"
 ---
 
 When Tarzan of the Apes realized that he was in the grip of the great jaws of a crocodile he did not, as an ordinary man might have done, give up all hope and resign himself to his fate.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Prince Conrad Makes Merry"
 weight: 15
-aliases:
-  - "/authors/leblanc-maurice/the-woman-of-mystery/chapter-15.html"
+url: "/authors/leblanc-maurice/the-woman-of-mystery/chapter-15.html"
 ---
 
 A table running parallel with the three windows of the room. An incredible collection of bottles, decanters and glasses, hardly leaving room for the dishes of cake and fruit. Ornamental side-dishes flanked by bottles of champagne. A basket of flowers surrounded by liqueur-bottles.

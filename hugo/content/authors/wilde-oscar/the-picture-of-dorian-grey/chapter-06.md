@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-06.html"
+url: "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-06.html"
 ---
 
 "I suppose you have heard the news, Basil?" said Lord Henry that evening as Hallward was shown into a little private room at the Bristol where dinner had been laid for three.

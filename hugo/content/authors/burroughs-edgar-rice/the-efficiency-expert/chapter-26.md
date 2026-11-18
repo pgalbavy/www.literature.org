@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - \"The Only Friends He Has.\""
 weight: 26
-aliases:
-  - "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-26.html"
+url: "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-26.html"
 ---
 
 So it befell that the next day a well-known criminal attorney called on Jimmy Torrance at the county jail. "I understand," he said to Jimmy, "that you have retained no attorney. I have been instructed by one of my clients to take your case."

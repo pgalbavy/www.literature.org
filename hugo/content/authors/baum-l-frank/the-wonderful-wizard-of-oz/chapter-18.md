@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Away to the South "
 weight: 19
-aliases:
-  - "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-18.html"
+url: "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-18.html"
 ---
 
 Dorothy wept bitterly at the passing of her hope to get home to Kansas again; but when she thought it all over she was glad she had not gone up in a balloon. And she also felt sorry at losing Oz, and so did her companions.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/conrad-joseph/almayers-folly/chapter-02.html"
+url: "/authors/conrad-joseph/almayers-folly/chapter-02.html"
 ---
 
 When, in compliance with Lingard's abrupt demand, Almayer consented to wed the Malay girl, no one knew that on the day when the interesting young convert had lost all her natural relations and found a white father, she had been fighting desperately like the rest of them on board the prau, and was only prevented from leaping overboard, like the few other survivors, by a severe wound in the leg. There, on the fore-deck of the prau, old Lingard found her under a heap of dead and dying pirates, and had her carried on the poop of the *Flash* before the Malay craft was set on fire and sent adrift. She was conscious, and in the great peace and stillness of the tropical evening succeeding the turmoil of the battle, she watched all she held dear on earth after her own savage manner, drift away into the gloom in a great roar of flame and smoke. She lay there unheeding the careful hands attending to her wound, silent and absorbed in gazing at the funeral pile of those brave men she had so much admired and so well helped in their contest with the redoubtable "Rajah-Laut."

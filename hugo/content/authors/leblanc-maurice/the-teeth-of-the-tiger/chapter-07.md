@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Shakespeare's Works, Volume Viii"
 weight: 7
-aliases:
-  - "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-07.html"
+url: "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-07.html"
 ---
 
 Two lodges, belonging to the same old-time period as the house itself, stood at the extreme right and left of the low wall that separated the front courtyard from the Place du Palais-Bourbon. These lodges were joined to the main building, situated at the back of the courtyard, by a series of outhouses. On one side were the coach-houses, stables, harness-rooms, and garage, with the porter's lodge at the end; on the other side, the wash-houses, kitchens, and offices, ending in the lodge occupied by Mlle. Levasseur.

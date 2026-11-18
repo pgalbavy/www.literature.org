@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Jimmy Skunk Keeps His Word"
 weight: 11
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-11.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-11.html"
 ---
 
 Keep your word, whate'er you do, And to your inmost self be true.

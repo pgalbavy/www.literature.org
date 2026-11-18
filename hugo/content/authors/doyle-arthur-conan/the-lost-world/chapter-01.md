@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - There Are Heroisms All Round Us"
 weight: 1
-aliases:
-  - "/authors/doyle-arthur-conan/the-lost-world/chapter-01.html"
+url: "/authors/doyle-arthur-conan/the-lost-world/chapter-01.html"
 ---
 
 Mr. Hungerton, her father, really was the most tactless person upon earth,--a fluffy, feathery, untidy cockatoo of a man, perfectly good-natured, but absolutely centered upon his own silly self. If anything could have driven me from Gladys, it would have been the thought of such a father-in-law. I am convinced that he really believed in his heart that I came round to the Chestnuts three days a week for the pleasure of his company, and very especially to hear his views upon bimetallism, a subject upon which he was by way of being an authority.

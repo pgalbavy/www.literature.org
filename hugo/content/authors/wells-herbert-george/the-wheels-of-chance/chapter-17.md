@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Encounter At Midhurst"
 weight: 17
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-17.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-17.html"
 ---
 
 We left Mr. Hoopdriver at the door of the little tea, toy, and tobacco shop. You must not think that a strain is put on coincidence when I tell you that next door to Mrs. Wardor's--that was the name of the bright-eyed, little old lady with whom Mr. Hoopdriver had stopped--is the Angel Hotel, and in the Angel Hotel, on the night that Mr. Hoopdriver reached Midhurst, were 'Mr.' and 'Miss' Beaumont, our Bechamel and Jessie Milton. Indeed, it was a highly probable thing; for if one goes through Guildford, the choice of southward roads is limited; you may go by Petersfield to Portsmouth, or by Midhurst to Chichester, in addition to which highways there is nothing for it but minor roadways to Petworth or Pulborough, and cross-cuts Brightonward. And coming to Midhurst from the north, the Angel's entrance lies yawning to engulf your highly respectable cyclists, while Mrs. Wardor's genial teapot is equally attractive to those who weigh their means in little scales. But to people unfamiliar with the Sussex roads--and such were the three persons of this story--the convergence did not appear to be so inevitable.

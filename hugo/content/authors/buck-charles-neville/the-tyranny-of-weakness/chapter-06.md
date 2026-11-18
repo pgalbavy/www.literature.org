@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-06.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-06.html"
 ---
 
 In the library at the old manse that afternoon there was less of sunlight and joy. Shadows hung between the walls and there were shadows, too, in the heart of one of the men who sat by a central, paper-littered table.

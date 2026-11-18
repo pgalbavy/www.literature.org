@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Escape"
 weight: 7
-aliases:
-  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-07.html"
+url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-07.html"
 ---
 
 "It's all turned out exactly like what I said it was going to, exactly to a T," said Mrs. Symes, wrapping her wet arms in her apron and leaning them on the fence; "if it wasn't that it's Tuesday and me behindhand as it is, I'd tell you all about it."

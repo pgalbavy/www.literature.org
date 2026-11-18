@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Slicko Sees A Circus"
 weight: 4
-aliases:
-  - "/authors/barnum-richard/slicko-the-jumping-squirrel/chapter-04.html"
+url: "/authors/barnum-richard/slicko-the-jumping-squirrel/chapter-04.html"
 ---
 
 For a few minutes after jumping down into the empty nest of her Aunt Whitey, little Slicko did not know what to do. It had all happened so suddenly--the breaking up of the family, each one going to a different place to hide, the coming of Slicko to these woods, and the finding of the empty nest--that the little squirrel did not know what to think of it.

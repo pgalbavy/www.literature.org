@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - An Old Story"
 weight: 6
-aliases:
-  - "/authors/doyle-arthur-conan/beyond-the-city/chapter-06.html"
+url: "/authors/doyle-arthur-conan/beyond-the-city/chapter-06.html"
 ---
 
 But this was not to be the only eventful conversation which Mrs. Westmacott held that day, nor was the Admiral the only person in the Wilderness who was destined to find his opinions considerably changed. Two neighboring families, the Winslows from Anerley, and the Cumberbatches from Gipsy Hill, had been invited to tennis by Mrs. Westmacott, and the lawn was gay in the evening with the blazers of the young men and the bright dresses of the girls. To the older people, sitting round in their wicker-work garden chairs, the darting, stooping, springing white figures, the sweep of skirts, and twinkle of canvas shoes, the click of the rackets and sharp whiz of the balls, with the continual "fifteen love--fifteen all!" of the marker, made up a merry and exhilarating scene. To see their sons and daughters so flushed and healthy and happy, gave them also a reflected glow, and it was hard to say who had most pleasure from the game, those who played or those who watched.

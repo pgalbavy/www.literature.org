@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Expostulations"
 weight: 6
-aliases:
-  - "/authors/wells-herbert-george/ann-veronica/chapter-06.html"
+url: "/authors/wells-herbert-george/ann-veronica/chapter-06.html"
 ---
 
 The next morning opened calmly, and Ann Veronica sat in her own room, her very own room, and consumed an egg and marmalade, and read the advertisements in the Daily Telegraph. Then began expostulations, preluded by a telegram and headed by her aunt. The telegram reminded Ann Veronica that she had no place for interviews except her bed-sitting-room, and she sought her landlady and negotiated hastily for the use of the ground floor parlor, which very fortunately was vacant. She explained she was expecting an important interview, and asked that her visitor should be duly shown in. Her aunt arrived about half-past ten, in black and with an unusually thick spotted veil. She raised this with the air of a conspirator unmasking, and displayed a tear-flushed face. For a moment she remained silent.

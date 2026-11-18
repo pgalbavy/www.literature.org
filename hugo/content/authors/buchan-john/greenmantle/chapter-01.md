@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Mission Is Proposed"
 weight: 2
-aliases:
-  - "/authors/buchan-john/greenmantle/chapter-01.html"
+url: "/authors/buchan-john/greenmantle/chapter-01.html"
 ---
 
 I had just finished breakfast and was filling my pipe when I got Bullivant’s telegram. It was at Furling, the big country house in Hampshire where I had come to convalesce after Loos, and Sandy, who was in the same case, was hunting for the marmalade. I flung him the flimsy with the blue strip pasted down on it, and he whistled.

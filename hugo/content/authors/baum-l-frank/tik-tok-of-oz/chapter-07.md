@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/baum-l-frank/tik-tok-of-oz/chapter-07.html"
+url: "/authors/baum-l-frank/tik-tok-of-oz/chapter-07.html"
 ---
 
 The Rain King got too much water in his basin and spilled some over the brim. That made it rain in a certain part of the country--a real hard shower, for a time--and sent the Rainbow scampering to the place to show the gorgeous colors of his glorious bow as soon as the mist of rain had passed and the sky was clear.

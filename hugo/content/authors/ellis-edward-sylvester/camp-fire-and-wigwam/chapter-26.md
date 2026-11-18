@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - An Alarming Discovery"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-26.html"
 ---
 
 When the war party grew weary of the furious dance, they stopped, formed themselves in Indian file, and with the leader at the head, marched to the tepee, where they had left their rifles. They reappeared a moment later, each bearing his weapon in hand, and quickly reformed as before. Then all uttered several loud whoops, to which the enthusiastic supporters responded with equal vim, and they marched in the same file and with the same steady step toward the forest on the other side the clearing. Right soon they vanished from view among the trees. They had gone in quest of scalps, but in the hunt more than one proud spirited brave was to lose his own natural head-gear, and of those who went forth, the majority never came back again.

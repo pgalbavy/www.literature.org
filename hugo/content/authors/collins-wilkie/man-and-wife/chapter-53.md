@@ -1,8 +1,7 @@
 ---
 title: "Chapter 53 - Chapter The Fifty-Third"
 weight: 55
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-53.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-53.html"
 ---
 
 WHAT had happened in the hours of darkness?

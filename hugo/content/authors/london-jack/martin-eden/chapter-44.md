@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44"
 weight: 44
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-44.html"
+url: "/authors/london-jack/martin-eden/chapter-44.html"
 ---
 
 Mr. Morse met Martin in the office of the Hotel Metropole. Whether he had happened there just casually, intent on other affairs, or whether he had come there for the direct purpose of inviting him to dinner, Martin never could quite make up his mind, though he inclined toward the second hypothesis. At any rate, invited to dinner he was by Mr. Morse - Ruth's father, who had forbidden him the house and broken off the engagement.

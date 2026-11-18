@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-05.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-05.html"
 ---
 
 Twenty minutes later Stuart Farquaharson swung himself to the driver's seat of his low-hung roadster, and threw on the switch, while Billy Stirling and the others stood at the curb, waving farewells and finding nothing suitable to say.

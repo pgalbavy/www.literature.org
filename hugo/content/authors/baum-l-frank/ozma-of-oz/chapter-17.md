@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/baum-l-frank/ozma-of-oz/chapter-17.html"
+url: "/authors/baum-l-frank/ozma-of-oz/chapter-17.html"
 ---
 
 After Billina had entered the palace Dorothy and Evring sat down to await the success or failure of her mission, and the Nome King occupied his throne and smoked his long pipe for a while in a cheerful and contented mood.

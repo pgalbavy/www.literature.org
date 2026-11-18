@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Flop Ear And The Boy"
 weight: 5
-aliases:
-  - "/authors/barnum-richard/flop-ear-the-funny-rabbit/chapter-05.html"
+url: "/authors/barnum-richard/flop-ear-the-funny-rabbit/chapter-05.html"
 ---
 
 Flop Ear awoke in the morning feeling hungry. All he had to do was to reach out and eat part of his hay-bed in which he had slept. I think that was rather funny. It isn’t every one who can get a breakfast as easily as that.

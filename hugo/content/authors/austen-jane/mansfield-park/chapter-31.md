@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-31.html"
+url: "/authors/austen-jane/mansfield-park/chapter-31.html"
 ---
 
 Henry Crawford was at Mansfield Park again the next morning, and at an earlier hour than common visiting warrants. The two ladies were together in the breakfast-room, and, fortunately for him, Lady Bertram was on the very point of quitting it as he entered. She was almost at the door, and not chusing by any means to take so much trouble in vain, she still went on, after a civil reception, a short sentence about being waited for, and a “Let Sir Thomas know” to the servant.

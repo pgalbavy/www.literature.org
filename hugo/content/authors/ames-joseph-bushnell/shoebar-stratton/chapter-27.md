@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - An Hour Too Late"
 weight: 27
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-27.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-27.html"
 ---
 
 "I had an idea that's who it was when you described him," said Sheriff Hardenberg, to whom Stratton returned at once with the news. "There's only one 'Paul' around here who fits the bill, and he sure does to perfection."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Consultation"
 weight: 15
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/chapter-14.html"
+url: "/authors/christie-agatha/the-secret-adversary/chapter-14.html"
 ---
 
 *NOTHING* was more surprising and bewildering to Tuppence than the ease and simplicity with which everything was arranged, owing to Sir James’s skilful handling. The doctor accepted quite readily the theory that Mrs. Vandemeyer had accidentally taken an overdose of chloral. He doubted whether an inquest would be necessary. If so, he would let Sir James know. He understood that Mrs. Vandemeyer was on the eve of departure for abroad, and that the servants had already left? Sir James and his young friends had been paying a call upon her, when she was suddenly stricken down and they had spent the night in the flat, not liking to leave her alone. Did they know of any relatives? They did not, but Sir James referred him to Mrs. Vandemeyer’s solicitor.

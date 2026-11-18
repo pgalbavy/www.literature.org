@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/tarkington-booth/the-flirt/chapter-02.html"
+url: "/authors/tarkington-booth/the-flirt/chapter-02.html"
 ---
 
 Cora paused in the hall at a point about twenty feet from the door, a girlish stratagem frequently of surprising advantage to the practitioner; but the two men had begun to speak of the weather. Suffering a momentary disappointment, she went on, stepping silently, and passed through a door at the end of the hall into a large and barren looking dining-room, stiffly and skimpily furnished, but well-lighted, owing to the fact that one end of it had been transformed into a narrow "conservatory," a glass alcove now tenanted by two dried palms and a number of vacant jars and earthen crocks.

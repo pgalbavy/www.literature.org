@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Nat's New Year"
 weight: 13
-aliases:
-  - "/authors/alcott-louisa-may/jos-boys/chapter-13.html"
+url: "/authors/alcott-louisa-may/jos-boys/chapter-13.html"
 ---
 
 'I don't expect to hear from Emil yet, and Nat writes regularly, but where is Dan? Only two or three postals since he went. Such an energetic fellow as he is could buy up all the farms in Kansas by this time,' said Mrs Jo one morning when the mail came in and no card or envelope bore Dan's dashing hand.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Rescue"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/the-ranger/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/the-ranger/chapter-14.html"
 ---
 
 Rosalind was a good distance from the Ohio, and consequently a long way was to be traveled by Kent and Leslie. During the first night of their journey, a bright moon favored them, and they continued on without halting until morning. The hunter struck the trail at an early hour in the day, and the two continued their pursuit with renewed ardor until the sun was high in the heavens, when they halted for rest.

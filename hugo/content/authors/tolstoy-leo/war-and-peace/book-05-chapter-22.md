@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 22"
 weight: 106
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-05-chapter-22.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-05-chapter-22.html"
 ---
 
 In 1809 the intimacy between "the world's two arbiters," as Napoleon and Alexander were called, was such that when Napoleon declared war on Austria a Russian corps crossed the frontier to co-operate with our old enemy Bonaparte against our old ally the Emperor of Austria, and in court circles the possibility of marriage between Napoleon and one of Alexander's sisters was spoken of. But besides considerations of foreign policy, the attention of Russian society was at that time keenly directed on the internal changes that were being undertaken in all the departments of government.

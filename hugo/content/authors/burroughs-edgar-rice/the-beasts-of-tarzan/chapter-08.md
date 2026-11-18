@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Dance of Death"
 weight: 8
-aliases:
-  - "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-08.html"
+url: "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-08.html"
 ---
 
 Through the luxuriant, tangled vegetation of the Stygian jungle night a great lithe body made its way sinuously and in utter silence upon its soft padded feet. Only two blazing points of yellow-green flame shone occasionally with the reflected light of the equatorial moon that now and again pierced the softly sighing roof rustling in the night wind.

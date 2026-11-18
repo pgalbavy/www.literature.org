@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-18.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-18.html"
 ---
 
 But if the word "missing" brings all hope to an end and settles the loss of the underwriters, the word "overdue" confirms the fears already born in many homes ashore, and opens the door of speculation in the market of risks.

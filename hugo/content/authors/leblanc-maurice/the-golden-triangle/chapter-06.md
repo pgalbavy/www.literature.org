@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Nineteen Minutes Past Seven"
 weight: 6
-aliases:
-  - "/authors/leblanc-maurice/the-golden-triangle/chapter-06.html"
+url: "/authors/leblanc-maurice/the-golden-triangle/chapter-06.html"
 ---
 
 Patrice, in his bedroom at the home, was unable to sleep that night. He had a continual waking sensation of being oppressed and hunted down, as though he were suffering the terrors of some monstrous nightmare. He had an impression that the frantic series of events in which he was playing the combined parts of a bewildered spectator and a helpless actor would never cease so long as he tried to rest; that, on the contrary, they would rage with greater violence and intensity. The leave-taking of the husband and wife did not put an end, even momentarily, to the dangers incurred by Coralie. Fresh perils arose on every side; and Patrice Belval confessed himself incapable of foreseeing and still more of allaying them.

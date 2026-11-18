@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-13.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-13.html"
 ---
 
 In the course of two days Mr. Palford, having given his client the benefit of his own exact professional knowledge of the estate of Temple Barholm and its workings and privileges as far as he found them transferable and likely to be understood, returned to London, breathing perhaps something like a sigh of relief when the train steamed out of the little station. Whatsoever happened in days to come, Palford & Grimby had done their most trying and awkward duty by the latest Temple Barholm. Bradford, who was the steward of the estate, would now take him over, and could be trusted to furnish practical information of any ordinary order.

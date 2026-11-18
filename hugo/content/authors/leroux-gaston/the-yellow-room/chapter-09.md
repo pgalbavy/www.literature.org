@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Reporter And Detective"
 weight: 9
-aliases:
-  - "/authors/leroux-gaston/the-yellow-room/chapter-09.html"
+url: "/authors/leroux-gaston/the-yellow-room/chapter-09.html"
 ---
 
 The three of us went back towards the pavilion. At some distance from the building the reporter made us stop and, pointing to a small clump of trees to the right of us, said:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - A Fortunate Meeting"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-23.html"
 ---
 
 Scout Master Hall was right when he said Alvin Landon and Chester Haynes would not waste a minute in carrying out the task he had given them. They were determined to secure the arrest of the men who it was believed had kidnapped the little daughter of Doctor Spellman, before they could leave that section. In addition, they aimed to get the help of George Burton and his bloodhound.

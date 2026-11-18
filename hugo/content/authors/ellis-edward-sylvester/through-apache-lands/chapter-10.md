@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Lone Wolf"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-10.html"
 ---
 
 Lone Wolf spoke English like a native; and, having waited until the admiration of Ned Chadmund had been given time to expend itself, he spoke in a deep, guttural voice:

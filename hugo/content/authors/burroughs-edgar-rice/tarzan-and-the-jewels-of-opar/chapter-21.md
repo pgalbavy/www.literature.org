@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-21.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-21.html"
 ---
 
 Sleepless upon his blankets, Albert Werper let his evil mind dwell upon the charms of the woman in the nearby tent. He had noted Mohammed Beyd's sudden interest in the girl, and judging the man by his own standards, had guessed at the basis of the Arab's sudden change of attitude toward the prisoner.

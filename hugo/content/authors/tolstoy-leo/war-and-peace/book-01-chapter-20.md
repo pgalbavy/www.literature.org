@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 20"
 weight: 20
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-01-chapter-20.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-01-chapter-20.html"
 ---
 
 The card tables were drawn out, sets made up for boston, and the count's visitors settled themselves, some in the two drawing rooms, some in the sitting room, some in the library.

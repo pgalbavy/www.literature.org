@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-17.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-17.html"
 ---
 
 That night Shannon insisted upon taking her turn at Custer’s bedside, and she was so determined that they could not refuse her. He was still suffering, but not so acutely. The doctor had left morphine, with explicit directions for its administration should it be required. The burns, while numerous, and reaching from his left ankle to his cheek, were superficial, and, though painful, not necessarily dangerous.

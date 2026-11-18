@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-03.html"
+url: "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-03.html"
 ---
 
 Tip reflected.

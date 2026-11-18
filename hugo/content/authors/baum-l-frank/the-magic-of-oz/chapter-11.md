@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/baum-l-frank/the-magic-of-oz/chapter-11.html"
+url: "/authors/baum-l-frank/the-magic-of-oz/chapter-11.html"
 ---
 
 That was a wonderful gathering of wild animals in the Forest of Gugu next sunrise. Rango, the Gray Ape, had even called his monkey sentinels away from the forest edge, and every beast, little and big, was in the great clearing where meetings were held on occasions of great importance.

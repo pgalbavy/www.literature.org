@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Chatterer's Last Chance"
 weight: 2
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-02.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-02.html"
 ---
 
 Chatterer, still running for his life and without the least hope, suddenly saw a last chance to escape from Shadow the Weasel. That is, he saw something that might offer him a chance. He couldn't be sure until he had tried, and even then he might escape from one danger only to run right into another equally great. What Chatterer saw was a big brown bunch near the top of a tall chestnut-tree, and he headed for that tree as fast as ever he could go. What was that big brown bunch? Why it was Redtail the Hawk, who was dozing there with his head drawn down between his shoulders dreaming.

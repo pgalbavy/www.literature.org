@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Wolves--And Dudley"
 weight: 14
-aliases:
-  - "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-14.html"
+url: "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-14.html"
 ---
 
 It was cleverly done. So was the desperate gesture of Macartney's hand across his blood-shot, congested eyes. If I had not had Thompson's deuce of hearts in my pocket I might have doubted if Macartney really were Hutton, or had had any hand in the long tale of tragedy at La Chance. But as it was I knew, in my inside soul, bleakly, that if Dudley were dead Macartney had killed him,--as only luck had kept him from killing me.

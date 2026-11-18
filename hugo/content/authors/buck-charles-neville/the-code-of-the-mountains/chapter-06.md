@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-06.html"
+url: "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-06.html"
 ---
 
 When Newt Spooner had begun his search for Henry Falkins that afternoon he had not been so unobserved as he thought himself. Not very far behind him had walked Red Newton. He had not left Cawsler's with any intention of spying upon the boy and had seen him only by chance, yet when the latter halted in front of the hotel and stood there with the telltale expression which the recognition of Falkins brought to his face, Red Newton observed it and slipped silently into the door of a convenient store. When Newt went running excitedly back to Cawsler's place, the brain of the older clansman began to work rapidly. To his memory recurred the tirade that had broken so tempestuously from the boy's lips.

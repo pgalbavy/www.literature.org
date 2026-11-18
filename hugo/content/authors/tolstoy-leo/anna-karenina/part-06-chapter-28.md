@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 28"
 weight: 185
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-28.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-28.html"
 ---
 
 Levin was standing rather far off. A nobleman breathing heavily and hoarsely at his side, and another whose thick boots were creaking, prevented him from hearing distinctly. He could only hear the soft voice of the marshal faintly, then the shrill voice of the malignant gentleman, and then the voice of Sviazhsky. They were disputing, as far as he could make out, as to the interpretation to be put on the act and the exact meaning of the words: "liable to be called up for trial."

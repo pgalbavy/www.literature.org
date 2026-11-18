@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - What The Blizzard Brought To New Constantinople"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-02.html"
 ---
 
 A moment after the hail was heard from the roof, the muffled noise which accompanied it ceased. The stranger groping about in the snowy gloom had stepped off the roof into the huge drift outside the Heavenly Bower, and a minute later, lifted the latch of the door and pushed in among the astonished miners. They saw the figure of a sturdy man holding something in his arms, so wrapped round with blankets and coverings that no one could tell its nature. He stamped the snow from his boots, shook himself like a shaggy dog, then walked heavily to the chair which Budge Isham placed near the fire for him, and almost fell into it.

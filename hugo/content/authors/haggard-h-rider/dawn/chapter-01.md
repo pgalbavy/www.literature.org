@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-01.html"
+url: "/authors/haggard-h-rider/dawn/chapter-01.html"
 ---
 
 "You lie; you always were a liar, and you always will be a liar. You told my father how I spent the money."

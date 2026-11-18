@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-03.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-03.html"
 ---
 
 As the two young men climbed the hill to the big house, a few minutes later, they found the elder Pennington standing at the edge of the driveway that circled the hill top, looking out toward the wide cañon and the distant mountains. In the nearer foreground lay the stable and corrals of the saddle horses, the hen house with its two long alfalfa runways, and the small dairy barn accommodating the little herd of Guernseys that supplied milk, cream, and butter for the ranch. A quarter of a mile beyond, among the trees, was the red-roofed “cabin” where the unmarried ranch hands ate and slept, near the main corrals with their barns, outhouses, and sheds.

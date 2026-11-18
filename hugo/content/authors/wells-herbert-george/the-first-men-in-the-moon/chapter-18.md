@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - In The Sunlight"
 weight: 18
-aliases:
-  - "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-18.html"
+url: "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-18.html"
 ---
 
 PRESENTLY we saw that the cavern before us opened upon a hazy void. In another moment we had emerged upon a sort of slanting gallery, that projected into a vast circular space, a huge cylindrical pit running vertically up and down. Round this pit the slanting gallery ran without any parapet or protection for a turn and a half, and then plunged high above into the rock again. Somehow it reminded me then one of those spiral turns of the railway through the Saint Gothard. It was all tremendously huge. I can scarcely hope to convey to you the Titanic proportion of all that place, the Titanic effect of it. Our eyes followed up the vast declivity of the pit wall, and overhead and far above we beheld a round opening set with faint stars, and half of the lip about it well nigh blinding with the white light of the sun. At that we cried aloud simultaneously.

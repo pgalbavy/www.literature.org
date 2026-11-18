@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Secret Drawer"
 weight: 14
-aliases:
-  - "/authors/grahame-kenneth/the-golden-age/chapter-13.html"
+url: "/authors/grahame-kenneth/the-golden-age/chapter-13.html"
 ---
 
 IT must surely have served as a boudoir for the ladies of old time, this little used, rarely entered chamber where the neglected old bureau stood. There was something very feminine in the faint hues of its faded brocades, in the rose and blue of such bits of china as yet remained, and in the delicate old-world fragrance of pot-pourri from the great bowl,—blue and white, with funny holes in its cover,—that stood on the bureau’s flat top. Modern aunts disdained this out-of-the-way, backwater, upstairs room, preferring to do their accounts and grapple with their correspondence in some central position more in the whirl of things, whence one eye could be kept on the carriage-drive, while the other was alert for malingering servants and marauding children. Those aunts of a former generation—I sometimes felt—would have suited our habits better. But even by us children, to whom few places were private or reserved, the room was visited but rarely. To be sure, there was nothing particular in it that we coveted or required. Only a few spindle-legged, gilt-backed chairs,—an old harp on which, so the legend ran, Aunt Eliza herself used once to play, in years remote, unchronicled; a corner-cupboard with a few pieces of china; and the old bureau. But one other thing the room possessed, peculiar to itself; a certain sense of privacy—a power of making the intruder feel that he was intruding—perhaps even a faculty of hinting that some one might have been sitting on those chairs, writing at the bureau, or fingering the china, just a second before one entered. No such violent word as ‘haunted’ could possibly apply to this pleasant old-fashioned chamber, which indeed we all rather liked; but there was no doubt it was reserved and stand-offish, keeping itself to itself.

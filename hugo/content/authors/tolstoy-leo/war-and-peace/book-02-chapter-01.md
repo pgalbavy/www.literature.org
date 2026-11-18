@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 1"
 weight: 29
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-02-chapter-01.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-02-chapter-01.html"
 ---
 
 BOOK TWO: 1805

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Sherlock Holmes Arrives Too Late"
 weight: 9
-aliases:
-  - "/authors/leblanc-maurice/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/chapter-09.html"
+url: "/authors/leblanc-maurice/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/chapter-09.html"
 ---
 
 "It is really remarkable, Velmont, what a close resemblance you bear to Arsène Lupin!"

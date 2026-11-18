@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The King Visits Zikali"
 weight: 22
-aliases:
-  - "/authors/haggard-h-rider/finished/chapter-21.html"
+url: "/authors/haggard-h-rider/finished/chapter-21.html"
 ---
 
 Next morning, as a result of my cogitations, I went to see Zikali. I was admitted after a good deal of trouble and delay, for although his retinue was limited and, with the exception of Nombe, entirely male, this old prophet kept a kind of semi-state and was about as difficult to approach as a European monarch. I found him crouching over a fire in his hut, since at this season of the year even in that hot place the air was chilly until midday.

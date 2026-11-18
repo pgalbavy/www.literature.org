@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Map Of Europe"
 weight: 16
-aliases:
-  - "/authors/leblanc-maurice/813/chapter-15.html"
+url: "/authors/leblanc-maurice/813/chapter-15.html"
 ---
 
 Pierre Leduc loved Dolores!

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-06.html"
+url: "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-06.html"
 ---
 
 Afterwards, when they looked back upon that day, they knew that the thing had decided itself then, though neither of them had said so.

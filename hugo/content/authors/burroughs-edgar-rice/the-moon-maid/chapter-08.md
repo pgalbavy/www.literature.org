@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Fight With A Tor-Ho"
 weight: 9
-aliases:
-  - "/authors/burroughs-edgar-rice/the-moon-maid/chapter-08.html"
+url: "/authors/burroughs-edgar-rice/the-moon-maid/chapter-08.html"
 ---
 
 Nah-ee-lah and I passed through the village of the No-vans undetected, since the people of Ga-va-go were cowering in their huts, terror-stricken by the storm. The girl led me immediately to high ground and upward along a barren ridge toward the high mountains in the distance. I could see that she was afraid though she tried to hide it from me, putting on a brave front that I was sure she was far from feeling. My respect for her increased, as I have always respected courage, and I believe that it requires the highest courage to do that which fills one with fear. The man who performs heroic acts without fear is less brave than he who overcomes his cowardice.

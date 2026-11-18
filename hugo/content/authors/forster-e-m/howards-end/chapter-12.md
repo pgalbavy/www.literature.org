@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-12.html"
+url: "/authors/forster-e-m/howards-end/chapter-12.html"
 ---
 
 Charles need not have been anxious. Miss Schlegel had never heard of his mother’s strange request. She was to hear of it in after years, when she had built up her life differently, and it was to fit into position as the headstone of the corner. Her mind was bent on other questions now, and by her also it would have been rejected as the fantasy of an invalid.

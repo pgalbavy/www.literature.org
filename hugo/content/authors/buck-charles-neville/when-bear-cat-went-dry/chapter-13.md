@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-13.html"
+url: "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-13.html"
 ---
 
 Before Henderson had come that night, Blossom had been trying to study, but the pages of her book had developed the trick of becoming blurred.

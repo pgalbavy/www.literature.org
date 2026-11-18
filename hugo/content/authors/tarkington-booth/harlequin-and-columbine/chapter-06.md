@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/tarkington-booth/harlequin-and-columbine/chapter-06.html"
+url: "/authors/tarkington-booth/harlequin-and-columbine/chapter-06.html"
 ---
 
 Canby walked fast, the clamorous dining-room seeming to pursue him, and the thought of what figure he had cut there filling him with horror of himself, though he found a little consolation in wondering if he hadn't insulted Miss Cornish because he was a genius and couldn't help doing queer things. That solace was slight, indeed; Canby was only twenty-seven, but he was frightened.

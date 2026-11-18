@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Thing In The Forest"
 weight: 10
-aliases:
-  - "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-09.html"
+url: "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-09.html"
 ---
 
 I STRODE through the undergrowth that clothed the ridge behind the house, scarcely heeding whither I went; passed on through the shadow of a thick cluster of straight-stemmed trees beyond it, and so presently found myself some way on the other side of the ridge, and descending towards a streamlet that ran through a narrow valley. I paused and listened. The distance I had come, or the intervening masses of thicket, deadened any sound that might be coming from the enclosure. The air was still. Then with a rustle a rabbit emerged, and went scampering up the slope before me. I hesitated, and sat down in the edge of the shade.

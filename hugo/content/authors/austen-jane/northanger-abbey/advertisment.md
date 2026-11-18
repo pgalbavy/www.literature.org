@@ -1,8 +1,7 @@
 ---
 title: "Advertisment"
 weight: 1
-aliases:
-  - "/authors/austen-jane/northanger-abbey/advertisment.html"
+url: "/authors/austen-jane/northanger-abbey/advertisment.html"
 ---
 
 *ADVERTISEMENT BY THE AUTHORESS, TO NORTHANGER ABBEY*

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-13.html"
 ---
 
 In the mean time the little party consisting of Maggie and Eva Brainerd, Aunt Peggy, and the servant Gravity Gimp, and the eccentric New Englander Habakkuk McEwen, were improving to the utmost the advantage gained by reaching the eastern bank of the Susquehanna.

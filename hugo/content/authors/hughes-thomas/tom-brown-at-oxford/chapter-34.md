@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - [Greek Text] Mehden Agan"
 weight: 36
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-34.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-34.html"
 ---
 
 Has any person of any nation or language, found out and given to the world any occupation, work, diversion, or pursuit, more subtlely dangerous to the susceptible youth of both sexes than that of nutting in pairs. If so, who, where, what? A few years later in life perhaps district visiting, and attending schools together, may in certain instances be more fatal; but, in the first bright days of youth, a day's nutting against the world! A day in autumn, warm enough to make sitting in the sheltered nooks in the woods, where ever the sunshine lies, very pleasant, and yet not too warm to make exercise uncomfortable—two young people who have been thrown much together, one of whom is conscious of the state of his feelings towards the other, and is, moreover, aware that his hours are numbered, and that in a few days at furthest they will be separated for many months, that persons in authority on both sides are beginning to suspect something (as is apparent from the difficulty they have had in getting away together at all on this same afternoon) here is a conjunction of persons and circumstances, if ever there was one in the world, which is surely likely to end in a catastrophe. Indeed, so obvious to the meanest capacity is the danger of the situation, that, as Tom had, in his own mind, staked his character for resolution with his private self on the keeping of his secret till after he was of age, it is hard to conceive how he can have been foolish enough to get himself into a hazel copse alone with Miss Mary on the earliest day he could manage it after the arrival of the Porters, on their visit to Mr. and Mrs. Brown. That is to say, it would be hard to conceive, if it didn't just happen to be the most natural thing in the world.

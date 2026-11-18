@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Death Of Romance Is Deplored"
 weight: 20
-aliases:
-  - "/authors/buck-charles-neville/the-lighted-match/chapter-20.html"
+url: "/authors/buck-charles-neville/the-lighted-match/chapter-20.html"
 ---
 
 "And yet," declared young Harcourt, "if there still survives, anywhere in the world, a vestige of Romance, this should be her refuge; her last stand against the encroachments of the commonplace."

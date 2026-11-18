@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42"
 weight: 42
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-42.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-42.html"
 ---
 
 The Prince dined carefully, but with less than his usual appetite. Afterwards he lit a cigarette and strolled for a moment into the lounge. Celeste, who was waiting for him, glided at once to his side.

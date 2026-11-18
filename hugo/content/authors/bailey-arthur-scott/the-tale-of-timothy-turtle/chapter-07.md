@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Learning To Fly"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-07.html"
 ---
 
 Timothy Turtle reached the overhanging bluff in a surprisingly short time. But it must be remembered that he did not walk there on land, but swam down Black Creek with the current. When he crawled out upon the bank he was glad to see that old Mr. Crow was waiting for him, on a pine stump that stood near the water.

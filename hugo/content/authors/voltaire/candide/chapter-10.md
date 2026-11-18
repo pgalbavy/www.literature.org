@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - In What Distress Candide, Cunegund, and the Old Woman Arrive at Cadiz, and Of Their Embarkation"
 weight: 10
-aliases:
-  - "/authors/voltaire/candide/chapter-10.html"
+url: "/authors/voltaire/candide/chapter-10.html"
 ---
 
 Who could it be that has robbed me of my moidores and jewels?" exclaimed Miss Cunegund, all bathed in tears. "How shall we live? What shall we do? Where shall I find Inquisitors and Jews who can give me more?"

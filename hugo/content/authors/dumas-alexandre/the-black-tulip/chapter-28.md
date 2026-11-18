@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - The Hymn Of The Flowers"
 weight: 28
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-28.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-28.html"
 ---
 
 Whilst the events we have described in our last chapter were taking place, the unfortunate Van Baerle, forgotten in his cell in the fortress of Loewestein, suffered at the hands of Gryphus all that a prisoner can suffer when his jailer has formed the determination of playing the part of hangman.

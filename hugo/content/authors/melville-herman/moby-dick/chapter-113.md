@@ -1,8 +1,7 @@
 ---
 title: "Chapter 113 - The Forge"
 weight: 113
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-113.html"
+url: "/authors/melville-herman/moby-dick/chapter-113.html"
 ---
 
 With matted beard, and swathed in a bristling shark-skin apron, about mid-day, Perth was standing between his forge and anvil, the latter placed upon an iron-wood log, with one hand holding a pike-head in the coals, and with the other at his forge's lungs, when Captain Ahab came along, carrying in his hand a small rusty-looking leathern bag. While yet a little distance from the forge, moody Ahab paused; till at last, Perth, withdrawing his iron from the fire, began hammering it upon the anvil--the red mass sending off the sparks in thick hovering flights, some of which flew close to Ahab.

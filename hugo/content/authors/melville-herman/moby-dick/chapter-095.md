@@ -1,8 +1,7 @@
 ---
 title: "Chapter 95 - The Cassock"
 weight: 95
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-095.html"
+url: "/authors/melville-herman/moby-dick/chapter-095.html"
 ---
 
 Had you stepped on board the Pequod at a certain juncture of this post-mortemizing of the whale; and had you strolled forward nigh the windlass, pretty sure am I that you would have scanned with no small curiosity a very strange, enigmatical object, which you would have seen there, lying along lengthwise in the lee scuppers. Not the wondrous cistern in the whale's huge head; not the prodigy of his unhinged lower jaw; not the miracle of his symmetrical tail; none of these would so surprise you, as half a glimpse of that unaccountable cone,--longer than a Kentuckian is tall, nigh a foot in diameter at the base, and jet-black as Yojo, the ebony idol of Queequeg. And an idol, indeed, it is; or rather, in old times, its likeness was. Such an idol as that found in the secret groves of Queen Maachah in Judea; and for worshipping which, King Asa, her son, did depose her, and destroyed the idol, and burnt it for an abomination at the brook Kedron, as darkly set forth in the 15th chapter of the First Book of Kings.

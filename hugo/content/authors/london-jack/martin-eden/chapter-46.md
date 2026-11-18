@@ -1,8 +1,7 @@
 ---
 title: "Chapter 46"
 weight: 46
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-46.html"
+url: "/authors/london-jack/martin-eden/chapter-46.html"
 ---
 
 "Say, Joe," was his greeting to his old-time working-mate next morning, "there's a Frenchman out on Twenty-eighth Street. He's made a pot of money, and he's going back to France. It's a dandy, well-appointed, small steam laundry. There's a start for you if you want to settle down. Here, take this; buy some clothes with it and be at this man's office by ten o'clock. He looked up the laundry for me, and he'll take you out and show you around. If you like it, and think it is worth the price - twelve thousand - let me know and it is yours. Now run along. I'm busy. I'll see you later."

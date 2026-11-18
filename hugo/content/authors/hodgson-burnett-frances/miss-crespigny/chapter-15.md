@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - We Won’t Go Yet"
 weight: 15
-aliases:
-  - "/authors/hodgson-burnett-frances/miss-crespigny/chapter-15.html"
+url: "/authors/hodgson-burnett-frances/miss-crespigny/chapter-15.html"
 ---
 
 Having coolly laid her plans for leaving the two to enjoy themselves, Lisbeth retired upon her laurels, with the intention of finding amusements of her own. She had entertained herself before, easily enough, why not again? Naturally, as they had fallen in love with each other, they would not want her; even Georgie would not want her. And it was quite natural that they should have fallen in love. They were the sort of people to do it. And Georgie would make a charming wife, and, if her husband proved a tyrant, would still go down upon her knees and adore him, and thank Heaven for her prince’s affection, and his perfections, to the end of her innocent days. As for herself, it was no business of hers, when she had done her duty toward her friend. The best thing she could do, would be to leave them alone, and she left them alone, and gave them every opportunity to be lover-like, if they had chosen.

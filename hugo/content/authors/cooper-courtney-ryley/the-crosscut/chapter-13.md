@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/cooper-courtney-ryley/the-crosscut/chapter-13.html"
+url: "/authors/cooper-courtney-ryley/the-crosscut/chapter-13.html"
 ---
 
 They started forward then, making their way through the slime and silt of the drift flooring, slippery and wet from years of flooding. From above them the water dripped from the seep-soaked hanging-wall, which showed rough and splotchy in the gleam of the carbides and seemed to absorb the light until they could see only a few feet before them as they clambered over water-soaked timbers, disjointed rails of the little tram track which once had existed there, and floundered in and out of the greasy pockets of mud which the floating ties of the track had left behind. On--on--they stopped.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/collins-wilkie/a-rogues-life/chapter-09.html"
+url: "/authors/collins-wilkie/a-rogues-life/chapter-09.html"
 ---
 
 THE doctor (like me) had his shoes off. The doctor (like me) had come in without making the least noise. He cocked the pistol without saying a word. I felt that I was probably standing face to face with death, and I too said not a word. We two Rogues looked each other steadily and silently in the face--he, the mighty and prosperous villain, with my life in his hands: I, the abject and poor scamp, waiting his mercy.

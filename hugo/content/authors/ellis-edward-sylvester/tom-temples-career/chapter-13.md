@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - News Affects Tom’s Friends"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-13.html"
 ---
 
 *WHEN* Nathan Middleton reached home at three o’clock in the afternoon, his face wore the look of mysterious importance that indicated the possession of a secret. His wife understood this at once, and asked immediately:

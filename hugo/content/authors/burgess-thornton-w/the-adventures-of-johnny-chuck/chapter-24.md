@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Sammy Jay Proves That He Is Not All Bad"
 weight: 24
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-24.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-24.html"
 ---
 
 Sammy Jay hadn't had so much fun for a long time as he found in watching the funny little school in Farmer Brown's old orchard, where Johnny Chuck was teaching his three baby Chucks the things that every little Chuck must learn, if he would grow up into a big Chuck. When they had learned to mind without waiting to ask why, and had learned the signals which told them just what to do when danger was near, Johnny began to lead them farther and farther away from home.

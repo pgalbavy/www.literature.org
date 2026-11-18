@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - How Gudruda Went Up To Mosfell"
 weight: 28
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-27.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-27.html"
 ---
 
 Eric walked warily till he came to the dell where he had left Skallagrim and the horses. It was the same dell in which Groa had brewed the poison-draught for Asmund the Priest and Unna, Thorod’s daughter.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-02.html"
+url: "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-02.html"
 ---
 
 That same morning there was great excitement in the castle of the powerful Sorceress of Oz, Glinda the Good. This castle, situated in the Quadling Country, far south of the Emerald City where Ozma ruled, was a splendid structure of exquisite marbles and silver grilles. Here the Sorceress lived, surrounded by a bevy of the most beautiful maidens of Oz, gathered from all the four countries of that fairyland as well as from the magnificent Emerald City itself, which stood in the place where the four countries cornered. It was considered a great honor to be allowed to serve the good Sorceress, whose arts of magic were used only to benefit the Oz people. Glinda was Ozma's most valued servant, for her knowledge of sorcery was wonderful, and she could accomplish almost anything that her mistress, the lovely girl Ruler of Oz, wished her to.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Together"
 weight: 29
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-28.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-28.html"
 ---
 
 He sat there, holding the letter and looking absently over it at the little dog who had gone to sleep again. There was no sound in the room save the faint whisper of the tea-kettle. The sunny garden outside was very still, too; the blackbird appeared to doze on his peach twig; the kitten had settled down with eyes half closed and tail tucked under flank.

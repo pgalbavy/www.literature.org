@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Scotch Verdict"
 weight: 12
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-12.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-12.html"
 ---
 
 We walked to the far end of the hall. Major Fitz-David opened the door of a long, narrow room built out at the back of the house as a smoking-room, and extending along one side of the courtyard as far as the stable wall.

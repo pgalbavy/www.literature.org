@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-29.html"
+url: "/authors/austen-jane/mansfield-park/chapter-29.html"
 ---
 
 The ball was over, and the breakfast was soon over too; the last kiss was given, and William was gone. Mr. Crawford had, as he foretold, been very punctual, and short and pleasant had been the meal.

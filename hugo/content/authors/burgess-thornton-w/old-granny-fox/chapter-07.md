@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Granny Fox Has A Bad Dream"
 weight: 7
-aliases:
-  - "/authors/burgess-thornton-w/old-granny-fox/chapter-07.html"
+url: "/authors/burgess-thornton-w/old-granny-fox/chapter-07.html"
 ---
 
 Nothing ever simply happens;  

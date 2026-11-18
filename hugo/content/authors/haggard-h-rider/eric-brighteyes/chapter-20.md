@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - How Eric Was Named Anew"
 weight: 21
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-20.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-20.html"
 ---
 
 Eric dreamed. He dreamed that Gudruda stood by him looking at him with soft, sad eyes, while with her hand she pointed to his hair, and spake.

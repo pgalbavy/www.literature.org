@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 2 - Bromstead And My Father"
 weight: 2
-aliases:
-  - "/authors/wells-herbert-george/the-new-machiavelli/book-01-chapter-02.html"
+url: "/authors/wells-herbert-george/the-new-machiavelli/book-01-chapter-02.html"
 ---
 
 1

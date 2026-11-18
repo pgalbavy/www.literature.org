@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-11.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-11.html"
 ---
 
 "There are more women than those in Belgium who are being swept over by the chariots of war and trampled on by marching feet," the Duchess of Darte said to a group of her women friends on a certain afternoon.

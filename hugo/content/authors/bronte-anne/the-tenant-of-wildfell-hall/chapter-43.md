@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43"
 weight: 44
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-43.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-43.html"
 ---
 
 October 10th. - Mr. Huntingdon returned about three weeks ago. His appearance, his demeanour and conversation, and my feelings with regard to him, I shall not trouble myself to describe. The day after his arrival, however, he surprised me by the announcement of an intention to procure a governess for little Arthur: I told him it was quite unnecessary, not to say ridiculous, at the present season: I thought I was fully competent to the task of teaching him myself - for some years to come, at least: the child's education was the only pleasure and business of my life; and since he had deprived me of every other occupation, he might surely leave me that.

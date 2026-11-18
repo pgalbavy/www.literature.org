@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Hans Vanderbum"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/oonomoo-the-huron/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/oonomoo-the-huron/chapter-01.html"
 ---
 
 The mountain's sides  

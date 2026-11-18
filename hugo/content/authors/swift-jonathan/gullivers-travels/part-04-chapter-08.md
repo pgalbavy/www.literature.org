@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 8"
 weight: 36
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-04-chapter-08.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-04-chapter-08.html"
 ---
 
 The author relates several particulars of the *Yahoos*. The great virtues of the *Houyhnhnms*. The education and exercise of their youth. Their general assembly.

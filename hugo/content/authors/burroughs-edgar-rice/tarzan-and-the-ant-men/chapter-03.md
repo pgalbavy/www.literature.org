@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-03.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-03.html"
 ---
 
 Within the dim interior of the strange rocky chamber where he had been so ruthlessly deposited, Tarzan immediately became the center of interest to the several Alali young that crowded about him. They examined him carefully, turned him over, pawed him, pinched him, and at last one of the young males, attracted by the golden locket removed it from the ape-man's neck and placed it about his own. Lowest, perhaps, in the order of human evolution nothing held their interest over-long, with the result that they soon tired of Tarzan and trooped out into the sun-lit courtyard, leaving the ape-man to regain consciousness as best he could, or not at all. It was immaterial to them which he did. Fortunately for the Lord of the Jungle the fall through the roof of the forest had been broken by the fortuitous occurrence of supple branches directly in the path of his descent, with the happy result that he suffered only from a slight concussion of the brain. Already he was slowly regaining consciousness, and not long after the Alali young had left him his eyes opened, rolled dully about the dim interior of his prison, and closed again. His breathing was normal and when again he opened his eyes it was as though he had emerged from a deep and natural slumber, the only reminder of his accident being a dull aching of the head.

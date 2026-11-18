@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Mr. Hinter Proves A Puzzle"
 weight: 23
-aliases:
-  - "/authors/mckishnie-archie-p/a-son-of-courage/chapter-23.html"
+url: "/authors/mckishnie-archie-p/a-son-of-courage/chapter-23.html"
 ---
 
 October's second morning dawned sullen and grey, with a chill wind banking slate-hued clouds in the sky. Deacon Ringold, taking the short cut across the stubble-fields to Wilson's, shivered as he glanced back at the black lines his feet had cut through the crisp white frost, and decided to put on his woolen underclothes right away. The deacon had important and disturbing news to convey to his neighbor and had started out early to seek his counsel.

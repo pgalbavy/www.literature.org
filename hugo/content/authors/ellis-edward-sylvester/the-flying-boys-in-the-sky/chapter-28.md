@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Fired On By The Kidnappers"
 weight: 28
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-28.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-28.html"
 ---
 
 When glancing around in quest of Detective Pendar, Harvey Hamilton failed to look behind him. Some one touched his shoulder, as he stood beside his aeroplane. Glancing back, there was his man.

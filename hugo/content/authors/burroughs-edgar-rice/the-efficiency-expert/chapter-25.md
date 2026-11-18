@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Circumstantial Evidence"
 weight: 25
-aliases:
-  - "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-25.html"
+url: "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-25.html"
 ---
 
 At first Jimmy thought they were the perpetrators of the deed, but almost immediately he recognized one of them as O'Donnell, the erstwhile traffic officer who had been promoted to a detective sergeancy since Jimmy had first met him.

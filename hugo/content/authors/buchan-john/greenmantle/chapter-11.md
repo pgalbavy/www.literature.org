@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Companions Of The Rosy Hours"
 weight: 12
-aliases:
-  - "/authors/buchan-john/greenmantle/chapter-11.html"
+url: "/authors/buchan-john/greenmantle/chapter-11.html"
 ---
 
 We battled to a corner, where a jut of building stood out into the street. It was our only chance to protect our backs, to stand up with the rib of stone between us. It was only the work of seconds. One instant we were groping our solitary way in the darkness, the next we were pinned against a wall with a throaty mob surging round us.

@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 9"
 weight: 59
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-06-chapter-09.html"
+url: "/authors/cather-willa/song-of-the-lark/part-06-chapter-09.html"
 ---
 
 WHEN Archie and Ottenburg dined with Thea on Saturday evening, they were served downstairs in the hotel dining-room, but they were to have their coffee in her own apartment. As they were going up in the elevator after dinner, Fred turned suddenly to Thea. “And why, please, did you break Landry's amber elephant?”

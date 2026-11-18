@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 6"
 weight: 6
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-01-chapter-06.html"
+url: "/authors/cather-willa/one-of-ours/book-01-chapter-06.html"
 ---
 
 Three months later, on a grey December day, Claude was seated in the passenger coach of an accommodation freight train, going home for the holidays. He had a pile of books on the seat beside him and was reading, when the train stopped with a jerk that sent the volumes tumbling to the floor. He picked them up and looked at his watch. It was noon. The freight would lie here for an hour or more, until the east-bound passenger went by. Claude left the car and walked slowly up the platform toward the station. A bundle of little spruce trees had been flung off near the freight office, and sent a smell of Christmas into the cold air. A few drays stood about, the horses blanketed. The steam from the locomotive made a spreading, deep-violet stain as it curled up against the grey sky.

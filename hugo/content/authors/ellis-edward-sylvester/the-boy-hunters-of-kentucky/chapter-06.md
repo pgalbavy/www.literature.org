@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Wrestling Bout"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-06.html"
 ---
 
 "Now, see here," said Jack; after the young Indian straightened up, "you have told me more than once that that deer is yours. I don’t know whether it is or not, for the creature didn’t fall till I shot him⸺"

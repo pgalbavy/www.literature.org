@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Evolution Of The Home"
 weight: 3
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-home/chapter-02.html"
+url: "/authors/gilman-charlotte-perkins/the-home/chapter-02.html"
 ---
 
 We have been slow, slow and reluctant, to apply the laws of evolution to the familiar facts of human life. Whatever else might move, we surely were stationary; we were the superior onlookers--not part of the procession. Ideas which have possessed the racial mind from the oldest times are not to be dispossessed in a day; and this idea that man is something extra in the scheme of creation is one of our very oldest. We have always assumed that we were made by a special order, and that our manners and customs were peculiarly and distinctively our own, separated by an immeasurable gap from those of "the lower animals."

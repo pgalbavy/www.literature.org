@@ -1,8 +1,7 @@
 ---
 title: "Chapter 95 - Sword-Thrusts In The Water (Concluded)"
 weight: 95
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-95.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-95.html"
 ---
 
 D'Artagnan's apartment was not unoccupied, for the Comte de la Fere, seated in the recess of a window, awaited him. "Well," said he to D'Artagnan, as he saw him enter.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/london-jack/the-jacket-star-rover/chapter-20.html"
+url: "/authors/london-jack/the-jacket-star-rover/chapter-20.html"
 ---
 
 The time came when I humbled Warden Atherton to unconditional surrender, making a vain and empty mouthing of his ultimatum, "Dynamite or curtains." He gave me up as one who could not be killed in a strait-jacket. He had had men die after several hours in the jacket. He had had men die after several days in the jacket, although, invariably, they were unlaced and carted into hospital ere they breathed their last . . . and received a death certificate from the doctor of pneumonia, or Bright's disease, or valvular disease of the heart.

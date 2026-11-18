@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Tragedy of Pondicherry Lodge"
 weight: 5
-aliases:
-  - "/authors/doyle-arthur-conan/the-sign-of-four/chapter-05.html"
+url: "/authors/doyle-arthur-conan/the-sign-of-four/chapter-05.html"
 ---
 
 It was nearly eleven o'clock when we reached this final stage of our night's adventures. We had left the damp fog of the great city behind us, and the night was fairly fine. A warm wind blew from the westward, and heavy clouds moved slowly across the sky, with half a moon peeping occasionally through the rifts. It was clear enough to see for some distance, but Thaddeus Sholto took down one of the sidelamps from the carriage to give us a better light upon our way.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Queen of the Field Mice "
 weight: 10
-aliases:
-  - "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-09.html"
+url: "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-09.html"
 ---
 
 "We cannot be far from the road of yellow brick, now," remarked the Scarecrow, as he stood beside the girl, "for we have come nearly as far as the river carried us away."

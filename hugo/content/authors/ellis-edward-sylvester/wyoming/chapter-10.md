@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-10.html"
 ---
 
 The scow containing the three fugitives was nearing the eastern shore of the Susquehanna, when the negro servant, Gravity Gimp, stopped, checking the craft by grasping the stern.

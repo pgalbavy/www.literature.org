@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Fine Family"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-02.html"
 ---
 
 Henrietta Hen's neighbors paid little attention to her boasting, because they had to listen to it so often. At last, however, there came a day when she set up such a cackling as they had never heard from her before. She kept calling out at the top of her lungs, "Come-come-come! See-what-I've-got! Come-come-come! See-what-I've-got!" And she acted even more important than ever, until her friends began to say to one another, "What can Henrietta be so proud about? If it's only another egg, she's making a terrible fuss about it."

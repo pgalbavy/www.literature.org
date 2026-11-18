@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Hand-Organ Man"
 weight: 18
-aliases:
-  - "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-18.html"
+url: "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-18.html"
 ---
 
 Hardly had the four younger girls disappeared across the fields on the way to school the next morning, when the Abbott carriage drew up in front of the little brown house, and Cecile and Frances hurried up the path to the door. Gail answered the imperative knock, and looked so surprised and pleased at the unexpected call that the Judge's daughter's face crimsoned with contrition and shame to think she had neglected this old-time friend so long.

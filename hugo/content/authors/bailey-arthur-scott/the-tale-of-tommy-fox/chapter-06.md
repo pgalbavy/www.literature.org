@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Mr. Gray Squirrel's Mistake"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-06.html"
 ---
 
 Mr. Gray Squirrel certainly was mistaken, when he thought that Tommy Fox was dead and came down out of the chestnut tree to look at him. Tommy wasn't even ill. You remember that he was very hungry? And that he had not been able to find anything to eat? Tommy could not climb the tree, where Mr. Gray Squirrel sat. So the only thing left for him to do was to make Mr. Gray Squirrel come down where he was.

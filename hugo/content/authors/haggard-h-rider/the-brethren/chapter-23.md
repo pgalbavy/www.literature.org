@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Saint Rosamund"
 weight: 24
-aliases:
-  - "/authors/haggard-h-rider/the-brethren/chapter-23.html"
+url: "/authors/haggard-h-rider/the-brethren/chapter-23.html"
 ---
 
 From the day when he saw Saladin Godwin began to grow strong again, and as his health came back, so he fell to thinking. Rosamund was lost to him and Masouda was dead, and at times he wished that he were dead also. What more had he to do with his life, which had been so full of sorrow, struggle and bloodshed? Go back to England to live there upon his lands, and wait until old age and death overtook him? The prospect would have pleased many, but it did not please Godwin, who felt that his days were not given to him for this purpose, and that while he lived he must also labour.

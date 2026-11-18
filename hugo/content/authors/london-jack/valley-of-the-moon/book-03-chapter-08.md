@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 8"
 weight: 42
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-03-chapter-08.html"
+url: "/authors/london-jack/valley-of-the-moon/book-03-chapter-08.html"
 ---
 
 Every half tide Billy raced out the south wall over the dangerous course he and Hall had traveled, and each trial found him doing it in faster time.

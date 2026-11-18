@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Check"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-07.html"
 ---
 
 It was characteristic of Larry Murphy and Wharton Edwards that each should hasten to risk his own life for the other.

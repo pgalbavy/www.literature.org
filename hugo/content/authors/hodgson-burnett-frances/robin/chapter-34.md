@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 35
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-34.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-34.html"
 ---
 
 This was what she had been thinking of. This had been the meaning of the tender thought for him he had recognised uncomprehendingly in her look: it had been the cause of her desire to enfold him in healing and restful peace. When he had felt that she drew so close to him that they were scarcely separated by physical being, it was because she had suddenly awakened to a new comprehension. The awakening must have been a sudden one. He had known at the church that it had taken all her last remnant of strength to aid her to lay her cold hand in his and he had seen shrinking terror in her eyes when she lifted them to his as he put on her wedding ring. He had also known perfectly what memory had beset her at the moment and he had thrown all the force of his will into the look which had answered her--the look which had told her that he understood. Yes, the awakening must have been sudden and he asked himself how it had come about--what had made all clear?

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Allee's Album"
 weight: 8
-aliases:
-  - "/authors/brown-ruth-alberta/heart-of-gold/chapter-08.html"
+url: "/authors/brown-ruth-alberta/heart-of-gold/chapter-08.html"
 ---
 
 "You are late, Allee." Peace had watched the little figure ever since it had turned the corner a block further down the street, and noted with increasing anxiety that the usually swift feet tonight were lagging and slow. Indeed, so abstracted was the belated scholar that she almost forgot to turn in at her own gate, and in Peace's mind this could mean only one thing, —Allee had fallen below grade in her arithmetic that afternoon and had been kept after school to make it up. As a further indication that this was the case, she was intently studying the front page of a scratch-tablet, and when Peace called to her, she hastily hid the paper under her apron, while her rosy cheeks grew rosier still, and a look of guilty alarm flew into her blue eyes.

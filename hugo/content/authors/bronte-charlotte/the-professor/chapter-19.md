@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 20
-aliases:
-  - "/authors/bronte-charlotte/the-professor/chapter-19.html"
+url: "/authors/bronte-charlotte/the-professor/chapter-19.html"
 ---
 
 NOVELISTS should never allow themselves to weary of the study of real life. If they observed this duty conscientiously, they would give us fewer pictures chequered with vivid contrasts of light and shade; they would seldom elevate their heroes and heroines to the heights of rapture--still seldomer sink them to the depths of despair; for if we rarely taste the fulness of joy in this life, we yet more rarely savour the acrid bitterness of hopeless anguish; unless, indeed, we have plunged like beasts into sensual indulgence, abused, strained, stimulated, again overstrained, and, at last, destroyed our faculties for enjoyment; then, truly, we may find ourselves without support, robbed of hope. Our agony is great, and how can it end? We have broken the spring of our powers; life must be all suffering--too feeble to conceive faith--death must be darkness--God, spirits, religion can have no place in our collapsed minds, where linger only hideous and polluting recollections of vice; and time brings us on to the brink of the grave, and dissolution flings us in--a rag eaten through and through with disease, wrung together with pain, stamped into the churchyard sod by the inexorable heel of despair.

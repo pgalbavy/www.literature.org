@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - In A Firm, Though Cautious Tone, Elinor Thus Began."
 weight: 24
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-24.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-24.html"
 ---
 
 "I should be undeserving of the confidence you have honoured me with, if I felt no desire for its continuance, or no farther curiosity on its subject. I will not apologize therefore for bringing it forward again."

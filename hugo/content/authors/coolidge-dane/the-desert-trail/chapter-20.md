@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/coolidge-dane/the-desert-trail/chapter-20.html"
+url: "/authors/coolidge-dane/the-desert-trail/chapter-20.html"
 ---
 
 In a country where witnesses to a crime are imprisoned along with the principals and kept more or less indefinitely in jail, a man thinks twice before he reports to the police.

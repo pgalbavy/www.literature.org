@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Secret Tower"
 weight: 4
-aliases:
-  - "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-04.html"
+url: "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-04.html"
 ---
 
 I have no stomach to narrate the monotonous events of the tedious days that Woola and I spent ferreting our way across the labyrinth of glass, through the dark and devious ways beyond that led beneath the Valley Dor and Golden Cliffs to emerge at last upon the flank of the Otz Mountains just above the Valley of Lost Souls-- that pitiful purgatory peopled by the poor unfortunates who dare not continue their abandoned pilgrimage to Dor, or return to the various lands of the outer world from whence they came.

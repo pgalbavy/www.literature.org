@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Working For Dinner"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-06.html"
 ---
 
 Further conversation justified the astonishment of Harvey Hamilton. The countryman, who gave his name as Abisha Wharton, showed a knowledge of aviation and heavier-than-air machines such as few amateurs possess. In the midst of his bright remarks he abruptly checked himself.

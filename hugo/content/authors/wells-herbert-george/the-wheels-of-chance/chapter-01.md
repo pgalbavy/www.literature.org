@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Principal Character In The Story"
 weight: 1
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-01.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-01.html"
 ---
 
 If you (presuming you are of the sex that does such things)--if you had gone into the Drapery Emporium--which is really only magnificent for shop--of Messrs. Antrobus & Co.--a perfectly fictitious "Co.," by the bye--of Putney, on the 14th of August, 1895, had turned to the right-hand side, where the blocks of white linen and piles of blankets rise up to the rail from which the pink and blue prints depend, you might have been served by the central figure of this story that is now beginning. He would have come forward, bowing and swaying, he would have extended two hands with largish knuckles and enormous cuffs over the counter, and he would have asked you, protruding a pointed chin and without the slightest anticipation of pleasure in his manner, what he might have the pleasure of showing you. Under certain circumstances--as, for instance, hats, baby linen, gloves, silks, lace, or curtains--he would simply have bowed politely, and with a drooping expression, and making a kind of circular sweep, invited you to "step this way," and so led you beyond his ken; but under other and happier conditions,--huckaback, blankets, dimity, cretonne, linen, calico, are cases in point,--he would have requested you to take a seat, emphasising the hospitality by leaning over the counter and gripping a chair back in a spasmodic manner, and so proceeded to obtain, unfold, and exhibit his goods for your consideration. Under which happier circumstances you might--if of an observing turn of mind and not too much of a housewife to be inhuman--have given the central figure of this story less cursory attention.

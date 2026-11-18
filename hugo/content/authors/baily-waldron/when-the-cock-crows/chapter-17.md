@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Strangers At Ichabod's Island"
 weight: 17
-aliases:
-  - "/authors/baily-waldron/when-the-cock-crows/chapter-17.html"
+url: "/authors/baily-waldron/when-the-cock-crows/chapter-17.html"
 ---
 
 The friendly squeeze that Doctor Hudson was giving Ichabod's arm as they advanced toward the group of women heartened the old man mightily. A few days since, he would have felt that he was being led as a martyr to be burned at the stake. But now, in the twinkling of an eye, everything was changed. It is true that he felt a keen embarrassment over this introduction to feminine society after his isolation from it for twenty years. Yet his natural courage dominated this embarrassment, so that he faced the trial bravely enough.

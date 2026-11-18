@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-28.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-28.html"
 ---
 
 Across in Virginia, Sally Turk, the wife of the dead man and the sister of the accused, had rocked her anæmic baby to sleep after a long period of twilight fretfulness and stood looking down into its crib awhile with a distrait and numbed face of distress. She was leaving it to the care of another and did not know when she would come back.

@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 25"
 weight: 182
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-25.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-25.html"
 ---
 
 Vronsky and Anna spent the whole summer and part of the winter in the country, living in just the same condition, and still taking no steps to obtain a divorce. It was an understood thing between them that they should not go away anywhere; but both felt, the longer they lived alone, especially in the autumn, without guests in the house, that they could not stand this existence, and that they would have to alter it.

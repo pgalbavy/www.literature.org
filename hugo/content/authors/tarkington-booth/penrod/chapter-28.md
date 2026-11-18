@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Twelve"
 weight: 28
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-28.html"
+url: "/authors/tarkington-booth/penrod/chapter-28.html"
 ---
 
 This busy globe which spawns us is as incapable of flattery and as intent upon its own affair, whatever that is, as a gyroscope; it keeps steadily whirling along its lawful track, and, thus far seeming to hold a right of way, spins doggedly on, with no perceptible diminution of speed to mark the most gigantic human events—it did not pause to pant and recuperate even when what seemed to Penrod its principal purpose was accomplished, and an enormous shadow, vanishing westward over its surface, marked the dawn of his twelfth birthday.

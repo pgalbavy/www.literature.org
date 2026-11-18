@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/stoker-bram/dracula/chapter-19.html"
+url: "/authors/stoker-bram/dracula/chapter-19.html"
 ---
 
 JONATHAN HARKER'S JOURNAL

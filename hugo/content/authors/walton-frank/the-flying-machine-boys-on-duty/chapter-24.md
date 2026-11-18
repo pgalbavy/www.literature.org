@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Clue Above The Clouds"
 weight: 24
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-24.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-24.html"
 ---
 
 “I’ll tell you what I think,” Jimmie exclaimed as the boys gazed toward the peak. “I believe that gink had busted up the Louise, not knowing how to run her, and that they’ve abandoned her there.”

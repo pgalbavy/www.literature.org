@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Death Valley Trail"
 weight: 1
-aliases:
-  - "/authors/coolidge-dane/wunpost/chapter-01.html"
+url: "/authors/coolidge-dane/wunpost/chapter-01.html"
 ---
 
 The heat hung like smoke above Panamint Sink, it surged up against the hills like the waves of a great sea that boiled and seethed in the sun; and the mountains that walled it in gleamed and glistened like polished jet where the light was struck back from their sides. They rose up in solid ramparts, unbelievably steep and combed clean by the sluicings of cloudbursts; and where the black canyons had belched forth their floods a broad wash spread out, writhing and twisting like a snake-track, until at last it was lost in the Sink. For the Sink was the swallower-up of all that came from the hills and whatever it sucked in it buried beneath its sands or poisoned on its alkali flats. Yet the Death Valley trail led across its level floor--thirty miles from Wild Rose Springs to Blackwater and its saloons--and while the heat danced and quivered there was a dust in the north pass and a pack-train swung round the point.

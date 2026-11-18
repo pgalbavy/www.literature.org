@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Catastrophe"
 weight: 18
-aliases:
-  - "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-17.html"
+url: "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-17.html"
 ---
 
 SCARCELY six weeks passed before I had lost every feeling but dislike and abhorrence for this infamous experiment of Moreau's. My one idea was to get away from these horrible caricatures of my Maker's image, back to the sweet and wholesome intercourse of men. My fellow-creatures, from whom I was thus separated, began to assume idyllic virtue and beauty in my memory. My first friendship with Montgomery did not increase. His long separation from humanity, his secret vice of drunkenness, his evident sympathy with the Beast People, tainted him to me. Several times I let him go alone among them. I avoided intercourse with them in every possible way. I spent an increasing proportion of my time upon the beach, looking for some liberating sail that never appeared,--until one day there fell upon us an appalling disaster, which put an altogether different aspect upon my strange surroundings.

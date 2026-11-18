@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Coming Of Dogeetah"
 weight: 11
-aliases:
-  - "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-11.html"
+url: "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-11.html"
 ---
 
 The sunset that day was like the sunrise, particularly fine, although as in the case of the tea, I remembered little of it till afterwards. In fact, thunder was about, which always produces grand cloud effects in Africa.

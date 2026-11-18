@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Belief"
 weight: 13
-aliases:
-  - "/authors/russell-bertrand/the-analysis-of-mind/chapter-12.html"
+url: "/authors/russell-bertrand/the-analysis-of-mind/chapter-12.html"
 ---
 
 Belief, which is our subject to-day, is the central problem in the analysis of mind. Believing seems the most "mental" thing we do, the thing most remote from what is done by mere matter. The whole intellectual life consists of beliefs, and of the passage from one belief to another by what is called "reasoning." Beliefs give knowledge and error; they are the vehicles of truth and falsehood. Psychology, theory of knowledge and metaphysics revolve about belief, and on the view we take of belief our philosophical outlook largely depends.

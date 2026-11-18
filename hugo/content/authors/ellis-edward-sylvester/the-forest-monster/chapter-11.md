@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Around The Camp-Fire"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/the-forest-monster/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/the-forest-monster/chapter-11.html"
 ---
 
 There was an interested and anxious group gathered around the trappers’ camp-fire, on the evening succeeding the adventures we have narrated.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Poor Mac"
 weight: 12
-aliases:
-  - "/authors/alcott-louisa-may/eight-cousins/chapter-11.html"
+url: "/authors/alcott-louisa-may/eight-cousins/chapter-11.html"
 ---
 
 Rose's sacrifice was a failure in one respect, for, though the elders loved her the better for it, and showed that they did, the boys were not inspired with the sudden respect which she had hoped for. In fact, her feelings were much hurt by overhearing Archie say that he couldn't see any sense in it; and the Prince added another blow by pronouncing her "the queerest chicken ever seen."

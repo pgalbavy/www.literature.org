@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/hodgson-burnett-frances/the-white-people/chapter-06.html"
+url: "/authors/hodgson-burnett-frances/the-white-people/chapter-06.html"
 ---
 
 I remained in London several weeks. I stayed because the MacNairns were so good to me. I could not have told any one how I loved Mrs. MacNairn, and how different everything seemed when I was with her. I was never shy when we were together. There seemed to be no such thing as shyness in the world. I was not shy with Mr. MacNairn, either. After I had sat under the big apple-tree boughs in the walled garden a few times I realized that I had begun to belong to somebody. Those two marvelous people cared for me in that way--in a way that made me feel as if I were a real girl, not merely a queer little awkward ghost in a far-away castle which nobody wanted to visit because it was so dull and desolate and far from London. They were so clever, and knew all the interesting things in the world, but their cleverness and experience never bewildered or overwhelmed me.

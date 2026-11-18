@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Whom God Hath Joined"
 weight: 10
-aliases:
-  - "/authors/titus-harold/bruce-of-the-circle-a/chapter-10.html"
+url: "/authors/titus-harold/bruce-of-the-circle-a/chapter-10.html"
 ---
 
 The next day the puzzled cowman rode the trail to Yavapai to find that Ann was out. He was told that Nora had taken her riding, so he waited for their return, restless, finding no solace in the companionship that the saloon, the town's one gathering place for men, afforded.

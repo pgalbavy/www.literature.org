@@ -1,8 +1,7 @@
 ---
 title: "Fit 4 - The Hunting"
 weight: 5
-aliases:
-  - "/authors/carroll-lewis/the-hunting-of-the-snark/fit-04.html"
+url: "/authors/carroll-lewis/the-hunting-of-the-snark/fit-04.html"
 ---
 
 The Bellman looked huffish, and wrinkled his brow.  

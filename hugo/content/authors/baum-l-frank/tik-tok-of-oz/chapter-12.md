@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/baum-l-frank/tik-tok-of-oz/chapter-12.html"
+url: "/authors/baum-l-frank/tik-tok-of-oz/chapter-12.html"
 ---
 
 The palace of the Queen of Light stood on a little eminence and was a mass of crystal windows, surmounted by a vast crystal dome. When they entered the portals Erma was greeted by six lovely maidens, evidently of high degree, who at once aroused Betsy's admiration. Each bore a wand in her hand, tipped with an emblem of light, and their costumes were also emblematic of the lights they represented. Erma introduced them to her guests and each made a graceful and courteous acknowledgment.

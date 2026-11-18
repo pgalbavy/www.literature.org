@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Enter Christine"
 weight: 26
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-26.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-26.html"
 ---
 
 The girls at Patty's Place were dressing for the reception which the Juniors were giving for the Seniors in February. Anne surveyed herself in the mirror of the blue room with girlish satisfaction. She had a particularly pretty gown on. Originally it had been only a simple little slip of cream silk with a chiffon overdress. But Phil had insisted on taking it home with her in the Christmas holidays and embroidering tiny rosebuds all over the chiffon. Phil's fingers were deft, and the result was a dress which was the envy of every Redmond girl. Even Allie Boone, whose frocks came from Paris, was wont to look with longing eyes on that rosebud concoction as Anne trailed up the main staircase at Redmond in it.

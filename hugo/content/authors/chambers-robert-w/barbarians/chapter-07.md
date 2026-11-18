@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Airman"
 weight: 7
-aliases:
-  - "/authors/chambers-robert-w/barbarians/chapter-07.html"
+url: "/authors/chambers-robert-w/barbarians/chapter-07.html"
 ---
 
 She had seated herself on a stool by the hearth. Presently she spread her apron with trembling fingers, took the glazed bowl of soup upon her lap and began to eat, slowly, casting long, unquiet glances at him from time to time where he still at table leaned heavily, looking out into the rain.

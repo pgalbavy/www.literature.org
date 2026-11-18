@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Danny Meadow Mouse Is Worried"
 weight: 1
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-01.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-01.html"
 ---
 
 *DANNY MEADOW MOUSE* sat on his door-step with his chin in his hands, and it was very plain to see that Danny had something on his mind. He had only a nod for Jimmy Skunk, and even Peter Rabbit could get no more than a grumpy "good morning." It wasn’t that he had been caught napping the day before by Reddy Fox and nearly made an end of. No, it wasn’t that. Danny had learned his lesson, and Reddy would never catch him again. It wasn’t that he was all alone with no one to play with. Danny was rather glad that he was alone. The fact is, Danny Meadow Mouse was worried.

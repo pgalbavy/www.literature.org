@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - A Dawn Of Rain"
 weight: 24
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-23.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-23.html"
 ---
 
 That crash of the closing door did not awake Beatrice only; it awoke both Elizabeth and Mr. Granger. Elizabeth sat up in bed straining her eyes through the gloom to see what had happened. They fell on Beatrice’s bed--surely--surely----

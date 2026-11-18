@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - “you Must Sacrifice Him”"
 weight: 7
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-07.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-07.html"
 ---
 
 WARILY CADJ and his hundred frightful followers, armed with their bludgeons and knives, crept stealthily down the face of the barrier into the valley below, upon the trail of the white man and his black companions. They made no haste, for they had noted from the summit of Opar’s outer wall, that the party they were pursuing moved very slowly, though why, they did not know, for they had been at too great a distance to see the burden that each of the blacks carried. Nor was it Cadj’s desire to overtake his quarry by daylight, his plans contemplating a stealthy night attack, the suddenness of which, together with the great number of his followers, might easily confuse and overwhelm a sleeping camp.

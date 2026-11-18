@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Tabitha Begs Pardon"
 weight: 8
-aliases:
-  - "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-08.html"
+url: "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-08.html"
 ---
 
 With the melon resting securely in the cooler at home, Tabitha felt better, but the weight of her sins was not wholly lifted yet, and she dreaded to meet the doctor's wife after the encounter she had had with Jerome the previous day; so the ride through town to the little brown cottage high on the mountainside overlooking the "flat" was very silent, and when the doctor lifted her from the carriage at his door, her eyes wore their frightened look, so pathetic in one so young. He noted the unchildlike expression on the thin face and felt her trembling in his arms, but before he could think of anything cheerful to say, Jerome bounded out of the house and met her half way up the steps with the impulsive words,

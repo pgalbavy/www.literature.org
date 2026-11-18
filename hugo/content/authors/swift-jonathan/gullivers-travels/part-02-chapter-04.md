@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 4"
 weight: 13
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-02-chapter-04.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-02-chapter-04.html"
 ---
 
 The country described. A proposal for correcting modern maps. The king’s palace; and some account of the metropolis. The author’s way of travelling. The chief temple described.

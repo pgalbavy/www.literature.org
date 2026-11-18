@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Summons"
 weight: 15
-aliases:
-  - "/authors/haggard-h-rider/the-ancient-allan/chapter-15.html"
+url: "/authors/haggard-h-rider/the-ancient-allan/chapter-15.html"
 ---
 
 Now at the gates of the City of the Grasshopper we were royally received. The priests came out to meet us, pushing a colossal image of their god before them on a kind of flat chariot, and I remember wondering what would be the value of that huge golden locust, if it were melted down. Also the Council came, very ancient men all of them, since the Ethiopians for the most part lived more than a hundred years. Perhaps that is why they were so glad to welcome Bes since they were too old to care about retaining power in their own hands as they had done during his long absence. For save Bes there was no other man living of the true royal blood who could take the throne.

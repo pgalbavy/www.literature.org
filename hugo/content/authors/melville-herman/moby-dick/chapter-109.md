@@ -1,8 +1,7 @@
 ---
 title: "Chapter 109 - Ahab and Starbuck in the Cabin"
 weight: 109
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-109.html"
+url: "/authors/melville-herman/moby-dick/chapter-109.html"
 ---
 
 According to usage they were pumping the ship next morning; and lo! no inconsiderable oil came up with the water; the casks below must have sprung a bad leak. Much concern was shown; and Starbuck went down into the cabin to report this unfavorable affair.*

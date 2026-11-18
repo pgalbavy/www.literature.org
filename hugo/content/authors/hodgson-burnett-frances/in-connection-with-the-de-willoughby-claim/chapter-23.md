@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-23.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-23.html"
 ---
 
 It was doubtless Stamps who explained the value of the De Willoughby claim to the Cross-roads. Excited interest in it mounted to fever heat in a few days. The hitching rail was put to such active use that the horses shouldered each other and occasionally bit and kicked and enlivened the air with squeals. No one who had an opportunity neglected to appear at the post-office, that he or she might hear the news. Judge De Willoughby's wealth and possessions increased each time they were mentioned. The old De Willoughby place became a sort of princely domain, the good looks of the Judge's sons and daughters and the splendour of their gifts were spoken of almost with bated breath. The coal mines became gold mines, the money invested in them something scarcely to be calculated. The Government at Washington, it was even inferred, had not money enough in its treasury to refund what had been lost and indemnify for the injury done.

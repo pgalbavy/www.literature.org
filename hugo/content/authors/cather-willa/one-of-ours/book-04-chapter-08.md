@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 8"
 weight: 52
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-04-chapter-08.html"
+url: "/authors/cather-willa/one-of-ours/book-04-chapter-08.html"
 ---
 
 Tod Fanning held out better than many of the stronger men; his vitality surprised the doctor. The death list was steadily growing; and the worst of it was that patients died who were not very sick. Vigorous, clean-blooded young fellows of nineteen and twenty turned over and died because they had lost their courage, because other people were dying,--because death was in the air. The corridors of the vessel had the smell of death about them. Doctor Trueman said it was always so in an epidemic; patients died who, had they been isolated cases, would have recovered.

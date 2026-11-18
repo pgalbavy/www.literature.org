@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Little Joe Otter Supplies Buster Bear With A Breakfast"
 weight: 4
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-04.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-04.html"
 ---
 
 Getting even just for spite  

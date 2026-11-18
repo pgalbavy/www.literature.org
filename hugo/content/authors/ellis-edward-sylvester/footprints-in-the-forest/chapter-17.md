@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Other Arrivals"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-17.html"
 ---
 
 The Indian warrior was the picture of ferocity, as he crouched a few steps away, and, with his fingers griping the handle of his knife, slowly drew it from the skin sheath at his girdle. The end of his abstraction was the resolution to slay his captive then and there.

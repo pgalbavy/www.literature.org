@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-10.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-10.html"
 ---
 
 We dressmakers wuz in the house, to stay all the time till the dresses wuz done; and clerks would come around, anon, if not oftener, with packages of mournin' goods, and mournin' jewelry, and mournin' handkerchiefs, and mournin' stockings, and mournin' stockin'-supporters, and mournin' safety-pins, and etc., etc., etc., etc., etc.

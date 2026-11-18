@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 8"
 weight: 42
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-08.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-08.html"
 ---
 
 Alexey Alexandrovitch had seen nothing striking or improper in the fact that his wife was sitting with Vronsky at a table apart, in eager conversation with him about something. But he noticed that to the rest of the party thisappeared something strikign and improper, and for that reason it seemed to him too to be improper. He made up his mind that he must speak of it to his wife.

@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 8"
 weight: 109
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-04-chapter-08.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-04-chapter-08.html"
 ---
 
 Alexey Alexandrovitch, on coming back from church service, had Xt spent the whole morning indoors. He had two pieces of business before him that morning; first, to receive and send on a deputation from the native tribes which was on its way to Petersburg, and now at Moscow; secondly, to write the promised letter to the lawyer. The deputation, though it had been summoned at Alexey Alexandrovitch's instigation, was not without its discomforting and even dangerous aspect, and he was glad he had found it in Moscow. The members of this deputation had not the slightest conception of their duty and the part they were to play. They naively believed that it was their business to lay before the commission their needs and the actual condition of things, and to ask assistance of the government, and utterly failed to grasp that some of their statements and requests supported the contention of the enemy's side, and so spoiled the whole business. Alexey Alexandrovitch was busily engaged with them for a long while, drew up a program for them from which they were not to depart, and on dismissing them wrote a letter to Petersburg for the guidance of the deputation. He had his chief support in this affair in the Countess Lidia Ivanovna. She was a specialist in the matter of deputations, and no one knew better than she how to manage them, and put them in the way they should go. Having completed this task, Alexey Alexandrovitch wrote the letter to the lawyer. Without the slightest hesitation he gave him permission to act as he might judge best. In the letter he enclosed three of Vronsky's notes to Anna, which were in the portfolio he had taken away.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - In The Fog Bank"
 weight: 11
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-11.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-11.html"
 ---
 
 "SQUID ho! Squid ho! Tumble up, all hands!"

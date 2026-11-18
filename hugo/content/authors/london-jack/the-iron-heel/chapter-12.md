@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Bishop"
 weight: 13
-aliases:
-  - "/authors/london-jack/the-iron-heel/chapter-12.html"
+url: "/authors/london-jack/the-iron-heel/chapter-12.html"
 ---
 
 It was after my marriage that I chanced upon Bishop Morehouse. But I must give the events in their proper sequence. After his outbreak at the I. P. H. Convention, the Bishop, being a gentle soul, had yielded to the friendly pressure brought to bear upon him, and had gone away on a vacation. But he returned more fixed than ever in his determination to preach the message of the Church. To the consternation of his congregation, his first sermon was quite similar to the address he had given before the Convention. Again he said, and at length and with distressing detail, that the Church had wandered away from the Master's teaching, and that Mammon had been instated in the place of Christ.

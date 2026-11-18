@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 12 - Twelfth Chapter"
 weight: 12
-aliases:
-  - "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-12.html"
+url: "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-12.html"
 ---
 
 It was a Saturday afternoon, gay and brilliant after abundant rains, and the spirit of youth dwelt in it, though the season was now autumn. All that was gracious triumphed. As the motorcars passed through Summer Street they raised only a little dust, and their stench was soon dispersed by the wind and replaced by the scent of the wet birches or of the pines. Mr. Beebe, at leisure for life’s amenities, leant over his Rectory gate. Freddy leant by him, smoking a pendant pipe.

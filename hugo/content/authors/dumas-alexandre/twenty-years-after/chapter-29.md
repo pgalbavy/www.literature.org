@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - The Ferry Across The Oise"
 weight: 29
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-29.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-29.html"
 ---
 
 We hope that the reader has not quite forgotten the young traveler whom we left on the road to Flanders.

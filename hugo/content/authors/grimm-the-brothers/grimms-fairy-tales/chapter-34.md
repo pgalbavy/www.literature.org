@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - The Queen Bee"
 weight: 34
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-34.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-34.html"
 ---
 
 Two kings’ sons once upon a time went into the world to seek their fortunes; but they soon fell into a wasteful foolish way of living, so that they could not return home again. Then their brother, who was a little insignificant dwarf, went out to seek for his brothers: but when he had found them they only laughed at him, to think that he, who was so young and simple, should try to travel through the world, when they, who were so much wiser, had been unable to get on. However, they all set out on their journey together, and came at last to an ant-hill. The two elder brothers would have pulled it down, in order to see how the poor ants in their fright would run about and carry off their eggs. But the little dwarf said, ‘Let the poor things enjoy themselves, I will not suffer you to trouble them.’

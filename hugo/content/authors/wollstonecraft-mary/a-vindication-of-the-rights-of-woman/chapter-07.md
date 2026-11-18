@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Modesty Comprehensively Considered And Not As A Sexual Virtue"
 weight: 8
-aliases:
-  - "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/chapter-07.html"
+url: "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/chapter-07.html"
 ---
 
 Modesty! Sacred offspring of sensibility and reason! true delicacy of mind! may I unblamed presume to investigate thy nature, and trace to its covert the mild charm, that mellowing each harsh feature of a character, renders what would otherwise only inspire cold admiration--lovely! Thou that smoothest the wrinkles of wisdom, and softenest the tone of the more sublime virtues till they all melt into humanity! thou that spreadest the ethereal cloud that surrounding love heightens every beauty, it half shades, breathing those coy sweets that steal into the heart, and charm the senses--modulate for me the language of persuasive reason, till I rouse my sex from the flowery bed, on which they supinely sleep life away!

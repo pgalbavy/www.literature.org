@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/eliot-george/silas-marner/chapter-16.html"
+url: "/authors/eliot-george/silas-marner/chapter-16.html"
 ---
 
 It was a bright autumn Sunday, sixteen years after Silas Marner had found his new treasure on the hearth. The bells of the old Raveloe church were ringing the cheerful peal which told that the morning service was ended; and out of the arched doorway in the tower came slowly, retarded by friendly greetings and questions, the richer parishioners who had chosen this bright Sunday morning as eligible for church-going. It was the rural fashion of that time for the more important members of the congregation to depart first, while their humbler neighbours waited and looked on, stroking their bent heads or dropping their curtsies to any large ratepayer who turned to notice them.

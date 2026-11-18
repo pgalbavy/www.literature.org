@@ -1,8 +1,7 @@
 ---
 title: "Book 13 - Chapter 11"
 weight: 290
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-13-chapter-11.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-13-chapter-11.html"
 ---
 
 Early in the morning of the sixth of October Pierre went out of the shed, and on returning stopped by the door to play with a little blue-gray dog, with a long body and short bandy legs, that jumped about him. This little dog lived in their shed, sleeping beside Karataev at night; it sometimes made excursions into the town but always returned again. Probably it had never had an owner, and it still belonged to nobody and had no name. The French called it Azor; the soldier who told stories called it Femgalka; Karataev and others called it Gray, or sometimes Flabby. Its lack of a master, a name, or even of a breed or any definite color did not seem to trouble the blue-gray dog in the least. Its furry tail stood up firm and round as a plume, its bandy legs served it so well that it would often gracefully lift a hind leg and run very easily and quickly on three legs, as if disdaining to use all four. Everything pleased it. Now it would roll on its back, yelping with delight, now bask in the sun with a thoughtful air of importance, and now frolic about playing with a chip of wood or a straw.

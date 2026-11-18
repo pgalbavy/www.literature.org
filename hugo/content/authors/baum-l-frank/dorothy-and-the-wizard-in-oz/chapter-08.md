@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-08.html"
+url: "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-08.html"
 ---
 
 By journeying through the glass mountain they had reached a delightful valley that was shaped like the hollow of a great cup, with another rugged mountain showing on the other side of it, and soft and pretty green hills at the ends. It was all laid out into lovely lawns and gardens, with pebble paths leading through them and groves of beautiful and stately trees dotting the landscape here and there. There were orchards, too, bearing luscious fruits that are all unknown in our world. Alluring brooks of crystal water flowed sparkling between their flower-strewn banks, while scattered over the valley were dozens of the quaintest and most picturesque cottages our travelers had ever beheld. None of them were in clusters, such as villages or towns, but each had ample grounds of its own, with orchards and gardens surrounding it.

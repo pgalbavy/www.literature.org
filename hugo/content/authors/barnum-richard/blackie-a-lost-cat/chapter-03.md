@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Blackie In Trouble"
 weight: 3
-aliases:
-  - "/authors/barnum-richard/blackie-a-lost-cat/chapter-03.html"
+url: "/authors/barnum-richard/blackie-a-lost-cat/chapter-03.html"
 ---
 
 Blackie soon grew tired of running, and slowed down into a walk.

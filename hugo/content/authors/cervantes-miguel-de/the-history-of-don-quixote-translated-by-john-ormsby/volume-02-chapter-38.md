@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 38 - Wherein Is Told The Distressed Duenna’s Tale Of Her Misfortunes"
 weight: 94
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-38.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-38.html"
 ---
 
 Following the melancholy musicians there filed into the garden as many as twelve duennas, in two lines, all dressed in ample mourning robes apparently of milled serge, with hoods of fine white gauze so long that they allowed only the border of the robe to be seen. Behind them came the Countess Trifaldi, the squire Trifaldin of the White Beard leading her by the hand, clad in the finest unnapped black baize, such that, had it a nap, every tuft would have shown as big as a Martos chickpea; the tail, or skirt, or whatever it might be called, ended in three points which were borne up by the hands of three pages, likewise dressed in mourning, forming an elegant geometrical figure with the three acute angles made by the three points, from which all who saw the peaked skirt concluded that it must be because of it the countess was called Trifaldi, as though it were Countess of the Three Skirts; and Benengeli says it was so, and that by her right name she was called the Countess Lobuna, because wolves bred in great numbers in her country; and if, instead of wolves, they had been foxes, she would have been called the Countess Zorruna, as it was the custom in those parts for lords to take distinctive titles from the thing or things most abundant in their dominions; this countess, however, in honour of the new fashion of her skirt, dropped Lobuna and took up Trifaldi.

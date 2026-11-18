@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Red Cross Girl"
 weight: 2
-aliases:
-  - "/authors/davis-richard-harding/the-red-cross-girl/chapter-01.html"
+url: "/authors/davis-richard-harding/the-red-cross-girl/chapter-01.html"
 ---
 
 When Spencer Flagg laid the foundation-stone for the new million-dollar wing he was adding to the Flagg Home for Convalescents, on the hills above Greenwich, the New York REPUBLIC sent Sam Ward to cover the story, and with him Redding to take photographs. It was a crisp, beautiful day in October, full of sunshine and the joy of living, and from the great lawn in front of the Home you could see half over Connecticut and across the waters of the Sound to Oyster Bay.

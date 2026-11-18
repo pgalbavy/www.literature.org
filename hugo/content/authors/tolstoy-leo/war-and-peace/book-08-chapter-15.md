@@ -1,8 +1,7 @@
 ---
 title: "Book 8 - Chapter 15"
 weight: 160
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-08-chapter-15.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-08-chapter-15.html"
 ---
 
 On returning late in the evening Sonya went to Natasha's room, and to her surprise found her still dressed and asleep on the sofa. Open on the table, beside her lay Anatole's letter. Sonya picked it up and read it.

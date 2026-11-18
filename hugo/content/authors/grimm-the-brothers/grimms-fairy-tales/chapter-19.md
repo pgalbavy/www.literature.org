@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Robber Bridegroom"
 weight: 19
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-19.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-19.html"
 ---
 
 There was once a miller who had one beautiful daughter, and as she was grown up, he was anxious that she should be well married and provided for. He said to himself, ‘I will give her to the first suitable man who comes and asks for her hand.’ Not long after a suitor appeared, and as he appeared to be very rich and the miller could see nothing in him with which to find fault, he betrothed his daughter to him. But the girl did not care for the man as a girl ought to care for her betrothed husband. She did not feel that she could trust him, and she could not look at him nor think of him without an inward shudder. One day he said to her, ‘You have not yet paid me a visit, although we have been betrothed for some time.’ ‘I do not know where your house is,’ she answered. ‘My house is out there in the dark forest,’ he said. She tried to excuse herself by saying that she would not be able to find the way thither. Her betrothed only replied, ‘You must come and see me next Sunday; I have already invited guests for that day, and that you may not mistake the way, I will strew ashes along the path.’

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/eliot-george/silas-marner/chapter-08.html"
+url: "/authors/eliot-george/silas-marner/chapter-08.html"
 ---
 
 When Godfrey Cass returned from Mrs. Osgood's party at midnight, he was not much surprised to learn that Dunsey had not come home. Perhaps he had not sold Wildfire, and was waiting for another chance - perhaps, on that foggy afternoon, he had preferred housing himself at the Red Lion at Batherley for the night, if the run had kept him in that neighbourhood; for he was not likely to feel much concern about leaving his brother in suspense. Godfrey's mind was too full of Nancy Lammeter's looks and behaviour, too full of the exasperation against himself and his lot, which the sight of her always produced in him, for him to give much thought to Wildfire, or to the probabilities of Dunstan's conduct.

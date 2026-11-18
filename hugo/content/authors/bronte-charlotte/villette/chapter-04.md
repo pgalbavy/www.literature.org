@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Miss Marchmont"
 weight: 4
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-04.html"
+url: "/authors/bronte-charlotte/villette/chapter-04.html"
 ---
 
 On quitting Bretton, which I did a few weeks after Paulina's departure - little thinking then I was never again to visit it; never more to tread its calm old streets - I betook myself home, having been absent six months. It will be conjectured that I was of course glad to return to the bosom of my kindred. Well! the amiable conjecture does no harm, and may therefore be safely left uncontradicted. Far from saying nay, indeed, I will permit the reader to picture me, for the next eight years, as a bark slumbering through halcyon weather, in a harbour still as glass - the steersman stretched on the little deck, his face up to heaven, his eyes closed: buried, if you will, in a long prayer. A great many women and girls are supposed to pass their lives something in that fashion; why not I with the rest?

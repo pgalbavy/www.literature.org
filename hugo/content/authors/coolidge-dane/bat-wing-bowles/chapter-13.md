@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Letter From The Postmistress"
 weight: 13
-aliases:
-  - "/authors/coolidge-dane/bat-wing-bowles/chapter-13.html"
+url: "/authors/coolidge-dane/bat-wing-bowles/chapter-13.html"
 ---
 
 The morning after Bowles' return from his trip to Chula Vista--during which he had made the startling proposition about being misunderstood by Dixie Lee--the entire Bat Wing outfit packed up its plunder and pulled out for the big round-up. First the cowboys, with a fifteen-mile ride ahead of them before they began to gather, went stringing across the plains at a high trot; then the remuda, stretching out in a mighty fan of horses, came fogging along behind them, to be ready for a change at the cutting-grounds; and last the chuck-wagon and the bed-wagon--one full of Dutch ovens and provisions, the other piled high with well-lashed beds--went hammering through chuck holes and dipping into dry washes in a desperate attempt to reach the rendezvous in time for dinner.

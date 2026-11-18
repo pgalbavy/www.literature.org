@@ -1,8 +1,7 @@
 ---
 title: "Part 5"
 weight: 5
-aliases:
-  - "/authors/coleridge-samuel-taylor/the-rime-of-the-ancient-mariner/part-05.html"
+url: "/authors/coleridge-samuel-taylor/the-rime-of-the-ancient-mariner/part-05.html"
 ---
 
 Oh sleep! it is a gentle thing, Beloved from pole to pole! To Mary Queen the praise be given! She sent the gentle sleep from Heaven, That slid into my soul.

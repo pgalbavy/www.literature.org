@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Grandaddy Beaver Thinks"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-12.html"
 ---
 
 It was on a Friday that Brownie Beaver first heard the cyclone was coming. And after making sure that Grandaddy Beaver knew what he was talking about when he said the great wind would sweep down upon the village on the following Tuesday, Brownie spent a good deal of time wondering what he had better do.

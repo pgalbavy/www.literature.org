@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Getting Ready"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-04.html"
 ---
 
 Buster Bumblemee's mind was made up. Although Chirpy Cricket told him it would be a shame for him to miss the torchlight procession, which was sure to be a great success, because Freddie Firefly had promised to be there with one hundred and twenty-seven of his relations, Buster still shook his head.

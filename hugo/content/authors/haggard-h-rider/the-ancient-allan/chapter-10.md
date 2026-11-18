@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Shabaka Plights His Troth"
 weight: 10
-aliases:
-  - "/authors/haggard-h-rider/the-ancient-allan/chapter-10.html"
+url: "/authors/haggard-h-rider/the-ancient-allan/chapter-10.html"
 ---
 
 Bes and I went armed to the palace, walking in the middle of the road, but now that the sun was up we met no more robbers. At the gate a messenger summoned me alone to the presence of Peroa, who, he said, wished to talk with me before the sitting of the Council. I went and found him by himself.

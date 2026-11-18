@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Jimmy Skunk Looks For Peter"
 weight: 8
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-08.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-08.html"
 ---
 
 Jimmy Skunk looked very hard at Sammy Jay. Sammy Jay looked very hard at Jimmy Skunk. Then Sammy slowly shut one eye and as slowly opened it again. It was a wink.

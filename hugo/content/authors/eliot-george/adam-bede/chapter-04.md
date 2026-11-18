@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Home And Its Sorrows"
 weight: 4
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-04.html"
+url: "/authors/eliot-george/adam-bede/chapter-04.html"
 ---
 
 A GREEN valley with a brook running through it, full almost to overflowing with the late rains, overhung by low stooping willows. Across this brook a plank is thrown, and over this plank Adam Bede is passing with his undoubting step, followed close by Gyp with the basket; evidently making his way to the thatched house, with a stack of timber by the side of it, about twenty yards up the opposite slope.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - A Mating Time"
 weight: 31
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-31.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-31.html"
 ---
 
 Spring held the world of the Bushwhackers in her soft arms. She awoke the sleeping things with her warm breath. Her light shone on land and marsh and sky. The great trees shivered and stretched their long arms wakefully. The dry rushes along the creek quivered and sang in low whispers, as the blue waters laved their drowsy roots. When the sun flashed out at intervals the quiet waters of the flats would break, here and there, and the flashing body of a pike would leap upward with a mighty flop and, tumbling back, would twist and dart from rush-clump to rush-clump, her mate, a long, mottled fish, following slowly, one length behind, his blue-green dorsal-fin standing up above the water like a tiny sail. Of the wood and marsh mating time, the strong, swift fish claimed first right. They sought the quiet waters even when the ice still crashed and ground, onward and outward. Up against the cold current a school of them would move steadily, parting and mingling again, a fragment detaching itself here where the rat-run offered a haven, a fragment detaching itself there where the quiet water of the flats rested beneath the white, smoky fog. This was the pike’s spawning season, their play-time and love-time. In the early morning sunbeams they would dart and leap and play until the shallow waters of the rushland were white with foam, and there, after the manner of their kind, they would mate and drift and move out into the deeper waters again in twos and threes and fives, and seek the harbored spawning-beds among the rushes further inland.

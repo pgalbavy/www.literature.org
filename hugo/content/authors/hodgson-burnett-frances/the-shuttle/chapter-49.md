@@ -1,8 +1,7 @@
 ---
 title: "Chapter 49 - At Stornham And At Broadmorlands"
 weight: 49
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-49.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-49.html"
 ---
 
 The exulting wind had swept the clouds away, and the moon rode in a dark blue sea of sky, making the night light purely clear, when they drew a little apart, that they might better see the wonderfulness in each other's faces. It was so mysteriously great a thing that they felt near to awe.

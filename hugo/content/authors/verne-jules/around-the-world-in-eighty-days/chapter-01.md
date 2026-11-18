@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-01.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-01.html"
 ---
 
 Mr. Phileas Fogg lived, in 1872, at No. 7, Saville Row, Burlington Gardens, the house in which Sheridan died in 1814. He was one of the most noticeable members of the Reform Club, though he seemed always to avoid attracting attention; an enigmatical personage, about whom little was known, except that he was a polished man of the world. People said that he resembled Byron--at least that his head was Byronic; but he was a bearded, tranquil Byron, who might live on a thousand years without growing old.

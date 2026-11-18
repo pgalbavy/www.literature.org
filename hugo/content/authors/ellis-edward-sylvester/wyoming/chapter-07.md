@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-07.html"
 ---
 
 Meanwhile, Lieutenant Fred Godfrey found himself mixed up in some events of a stirring character.

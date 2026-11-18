@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Was It A Gun?"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-14.html"
 ---
 
 Everybody in the village where Brownie Beaver lived was very much upset. Most people were angry, too. And no doubt it was natural that they should feel that way, because while they were taking their midday naps a man had come and paddled about their village in a boat.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Sharp Eyes Catches Something"
 weight: 2
-aliases:
-  - "/authors/barnum-richard/sharp-eyes-the-silver-fox/chapter-02.html"
+url: "/authors/barnum-richard/sharp-eyes-the-silver-fox/chapter-02.html"
 ---
 
 Slowly and carefully, making not the least sound, Mr. Fox began to creep through the woods toward the wild turkey. The big bird was eating some forest berries, and had his back toward the fox.

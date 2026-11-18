@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - How Eric And Skallagrim Grew Fey"
 weight: 33
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-32.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-32.html"
 ---
 
 Now the night came down upon Mosfell, and of all nights this was the strangest. The air was quiet and heavy, yet no rain fell. It was so silent, moreover, that, did a stone slip upon the mountain side or a horse neigh far off on the plains, the sound of it crept up the fell and was echoed from the crags.

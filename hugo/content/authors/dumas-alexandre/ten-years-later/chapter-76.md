@@ -1,8 +1,7 @@
 ---
 title: "Chapter 76 - In Which D'artagnan Finishes By At Length Placing His Hand Upon His Captain's Commission"
 weight: 76
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-76.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-76.html"
 ---
 
 The reader guesses beforehand whom the usher preceded in announcing the courier from Bretagne. This messenger was easily recognized. It was D'Artagnan, his clothes dusty, his face inflamed, his hair dripping with sweat, his legs stiff; he lifted his feet painfully at every step, on which resounded the clink of his blood-stained spurs. He perceived in the doorway he was passing through, the superintendent coming out. Fouquet bowed with a smile to him who, an hour before, was bringing him ruin and death. D'Artagnan found in his goodness of heart, and in his inexhaustible vigor of body, enough presence of mind to remember the kind reception of this man; he bowed then, also, much more from benevolence and compassion, than from respect. He felt upon his lips the word which had so many times been repeated to the Duc de Guise: "Fly." But to pronounce that word would have been to betray his cause; to speak that word in the cabinet of the king, and before an usher, would have been to ruin himself gratuitously, and could save nobody. D'Artagnan then contented himself with bowing to Fouquet and entered. At this moment the king floated between the joy the last words of Fouquet had given him, and his pleasure at the return of D'Artagnan. Without being a courtier, D'Artagnan had a glance as sure and as rapid as if he had been one. He read, on his entrance, devouring humiliation on the countenance of Colbert. He even heard the king say these words to him; -

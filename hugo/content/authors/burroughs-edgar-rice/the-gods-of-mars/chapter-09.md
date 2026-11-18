@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Issus, Goddess of Life Eternal"
 weight: 10
-aliases:
-  - "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-09.html"
+url: "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-09.html"
 ---
 
 The confession of love which the girl's fright had wrung from her touched me deeply; but it humiliated me as well, since I felt that in some thoughtless word or act I had given her reason to believe that I reciprocated her affection.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 67"
 weight: 67
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-67.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-67.html"
 ---
 
 The godhead in us wrings our noble deeds From our reluctant selves.

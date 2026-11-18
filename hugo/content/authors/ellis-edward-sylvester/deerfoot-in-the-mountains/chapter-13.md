@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Summoned To Court"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-13.html"
 ---
 
 At the end of a week George and Victor Shelton had become full-fledged Blackfoot citizens. Several causes united to bring about this pleasant state of affairs. In the first place, the boys used tact and good sense. If the attention they drew to themselves became annoying at times they did not allow their new friends to see it. They played with the dusky youths, and were not sorry to find plenty no older than they who could outrun and outjump them. It was too cold to go in swimming, but one day when George and Victor were crossing the stream in front of the village with three other lads, one of whom was their young friend Smiler, heir apparent to the Blackfoot throne, the overloaded canoe suddenly sank below its gunwales, and all had to swim through the icy waters to shore. Every one of the three arrived first, and Smiler beat them all, though in this instance I cannot help suspecting that the two young Blackfeet favored the prince, but they beat the brothers fairly.

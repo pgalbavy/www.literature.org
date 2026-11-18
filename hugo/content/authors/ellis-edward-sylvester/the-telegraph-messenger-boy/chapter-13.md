@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - At The Grandin Mansion"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-13.html"
 ---
 
 Ben Mayberry was born in Damietta, and his parents, as I have shown, were extremely poor. He had been a barefooted urchin, who was ready to fight or engage in any reckless undertaking. As he grew older and became more thoughtful, he assumed better clothing, grew more studious, and, helped by his fine ability and prepossessing looks, became popular.

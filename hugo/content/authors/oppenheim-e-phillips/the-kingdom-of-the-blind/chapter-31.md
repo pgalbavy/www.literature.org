@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-31.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-31.html"
 ---
 
 Ambrose announced a visitor, early on the following morning, with some show of interest.

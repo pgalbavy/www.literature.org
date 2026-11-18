@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-01.html"
+url: "/authors/chambers-robert-w/athalie/chapter-01.html"
 ---
 
 When Mrs. Greensleeve first laid eyes on her baby she knew it was different from the other children.

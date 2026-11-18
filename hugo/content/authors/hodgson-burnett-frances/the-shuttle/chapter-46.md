@@ -1,8 +1,7 @@
 ---
 title: "Chapter 46 - Listening"
 weight: 46
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-46.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-46.html"
 ---
 
 On her way back to the Court her eyes saw only the white road before her feet as she walked. She did not lift them until she found herself passing the lych-gate at the entrance to the churchyard. Then suddenly she looked up at the square grey stone tower where the bells hung, and from which they called the village to church, or chimed for weddings--or gave slowly forth to the silent air one heavy, regular stroke after another. She looked and shuddered, and spoke aloud with a curious, passionate imploring, like a child's.

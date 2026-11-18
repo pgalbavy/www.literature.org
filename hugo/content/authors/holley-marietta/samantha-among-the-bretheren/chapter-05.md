@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-05.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-05.html"
 ---
 
 Wall, the author of "Wedlock's Peaceful Repose" wuz a-waitin' for me to the table; the men had all got through and gone out. She sot right by me, and she had missed me, I could see. Her eyes looked bigger than ever, and more sad like.

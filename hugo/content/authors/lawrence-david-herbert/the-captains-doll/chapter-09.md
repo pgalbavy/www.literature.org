@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/lawrence-david-herbert/the-captains-doll/chapter-09.html"
+url: "/authors/lawrence-david-herbert/the-captains-doll/chapter-09.html"
 ---
 
 Nevertheless, a man hasn't finished his life at forty. He may, however, have finished one great phase of his life.

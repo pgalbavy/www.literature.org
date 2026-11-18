@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/darwin-charles/the-descent-of-man/chapter-01.html"
+url: "/authors/darwin-charles/the-descent-of-man/chapter-01.html"
 ---
 
 HE WHO wishes to decide whether man is the modified descendant of some pre-existing form, would probably first enquire whether man varies, however slightly, in bodily structure and in mental faculties; and if so, whether the variations are transmitted to his offspring in accordance with the laws which prevail with the lower animals. Again, are the variations the result, as far as our ignorance permits us to judge, of the same general causes, and are they governed by the same general laws, as in the case of other organisms; for instance, by correlation, the inherited effects of use and disuse, &c.? Is man subject to similar malconformations, the result of arrested development, of reduplication of parts, &c., and does he display in any of his anomalies reversion to some former and ancient type of structure? It might also naturally be enquired whether man, like so many other animals, has given rise to varieties and sub-races, differing but slightly from each other, or to races differing so much that they must be classed as doubtful species? How are such races distributed over the world; and how, when crossed, do they react on each other in the first and succeeding generations? And so with many other points.

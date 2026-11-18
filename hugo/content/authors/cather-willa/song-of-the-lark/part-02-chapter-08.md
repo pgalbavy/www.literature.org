@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 8"
 weight: 28
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-02-chapter-08.html"
+url: "/authors/cather-willa/song-of-the-lark/part-02-chapter-08.html"
 ---
 
 ONE warm damp June night the Denver Express was speeding westward across the earthy-smelling plains of Iowa. The lights in the day-coach were turned low and the ventilators were open, admitting showers of soot and dust upon the occupants of the narrow green plush chairs which were tilted at various angles of discomfort. In each of these chairs some uncomfortable human being lay drawn up, or stretched out, or writhing from one position to another. There were tired men in rumpled shirts, their necks bare and their suspenders down; old women with their heads tied up in black handkerchiefs; bedraggled young women who went to sleep while they were nursing their babies and forgot to button up their dresses; dirty boys who added to the general discomfort by taking off their boots. The brakeman, when he came through at midnight, sniffed the heavy air disdainfully and looked up at the ventilators. As he glanced down the double rows of contorted figures, he saw one pair of eyes that were wide open and bright, a yellow head that was not overcome by the stupefying heat and smell in the car. “There's a girl for you,” he thought as he stopped by Thea's chair.

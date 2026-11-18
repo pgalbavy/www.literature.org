@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Place For Children"
 weight: 6
-aliases:
-  - "/authors/gilman-charlotte-perkins/concerning-children/chapter-06.html"
+url: "/authors/gilman-charlotte-perkins/concerning-children/chapter-06.html"
 ---
 
 The one main cause of our unfairness to children is that we consider them wholly in a personal light. Justice and equity, the rights of humanity, require a broader basis than blood relationship. Children are part of humanity, and the largest part. Few of us realise their numbers, or think that they constitute the majority of human beings. The average family, as given in the census returns, consist of five persons,--two adults and three minors. Any population which increases has a majority of children, our own being three-fifths. This large proportion of human beings constitutes a permanent class,--another fact we fail to consider because of our personal point of view. One's own child and one's neighbour's child grow up and pass out of childhood, and with them goes one's interest in children. Of course, we intellectually know that there are others; but to the conscious mind of most persons children are evanescent personal incidents.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-18.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-18.html"
 ---
 
 Sam Haymond, D.D., gathering together his belongings, as the train whistled for the village, fancied that he could visualize with a fair accuracy the gentleman who had written, "You will be met at the station." Eben Tollman used, in his correspondence, a stilted formality which conjured up the portrait of one somewhat staid and humorless.

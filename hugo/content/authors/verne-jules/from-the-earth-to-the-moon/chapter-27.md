@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/verne-jules/from-the-earth-to-the-moon/chapter-27.html"
+url: "/authors/verne-jules/from-the-earth-to-the-moon/chapter-27.html"
 ---
 
 At the moment when that pyramid of fire rose to a prodigious height into the air, the glare of flame lit up the whole of Florida; and for a moment day superseded night over a considerable extent of the country. This immense canopy of fire was perceived at a distance of one hundred miles out at sea, and more than one ship's captain entered in his log the appearance of this gigantic meteor.

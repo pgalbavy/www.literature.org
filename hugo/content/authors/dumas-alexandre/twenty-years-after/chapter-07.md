@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Touches Upon The Strange Effects A Half-Pistole May Have Upon A Beadle And A Chorister"
 weight: 7
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-07.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-07.html"
 ---
 
 D'Artagnan, as he crossed the Pont Neuf, congratulated himself on having found Planchet again, for at that time an intelligent servant was essential to him; nor was he sorry that through Planchet and the situation which he held in Rue des Lombards, a connection with the bourgeoisie might be commenced, at that critical period when that class were preparing to make war with the court party. It was like having a spy in the enemy's camp. In this frame of mind, grateful for the accidental meeting with Planchet, pleased with himself, D'Artagnan reached Notre Dame. He ran up the steps, entered the church, and addressing a verger who was sweeping the chapel, asked him if he knew Monsieur Bazin.

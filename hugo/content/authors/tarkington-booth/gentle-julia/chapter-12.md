@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/tarkington-booth/gentle-julia/chapter-12.html"
+url: "/authors/tarkington-booth/gentle-julia/chapter-12.html"
 ---
 
 He went outdoors and smoked Orduma cigarettes, one after the other. Dances and intermissions succeeded each other but Noble had "enough of *that*, for one while!" So he muttered.

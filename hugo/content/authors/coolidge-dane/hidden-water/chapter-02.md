@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Man From Cherrycow"
 weight: 2
-aliases:
-  - "/authors/coolidge-dane/hidden-water/chapter-02.html"
+url: "/authors/coolidge-dane/hidden-water/chapter-02.html"
 ---
 
 After lashing the desert to a frazzle and finding the leaks in the Hotel Bender, the wind from Papaguería went howling out over the mesa, still big with rain for the Four Peaks country, and the sun came out gloriously from behind the clouds. Already the thirsty sands had sucked up the muddy pools of water, and the board walk which extended the length of the street, connecting saloon with saloon and ending with the New York Store, smoked with the steam of drying. Along the edge of the walk, drying out their boots in the sun, the casual residents of the town--many of them held up there by the storm--sat in pairs and groups, talking or smoking in friendly silence. A little apart from the rest, for such as he are a long time making friends in Arizona, Rufus Hardy sat leaning against a post, gazing gloomily out across the desert. For a quiet, retiring young man, interested in good literature and bearing malice toward no one, his day in the Bender barroom had been eventful out of all proportion to his deserts and wishes, and he was deep in somber meditation when the door opened and Judge Ware stepped out into the sunshine.

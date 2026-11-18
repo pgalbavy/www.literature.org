@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 13"
 weight: 97
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-05-chapter-13.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-05-chapter-13.html"
 ---
 
 It was getting dusk when Prince Andrew and Pierre drove up to the front entrance of the house at Bald Hills. As they approached the house, Prince Andrew with asmile drew Pierre's attention to a commotion going on at the back porch. A woman, bent with age, with a wallet on her back, and a short, long-haired, young man in a black garment had rushed back to the gate on seeing the carriage driving up. Two women ran out after them, and all four, looking round at the carriage, ran in dismay up the steps of the back porch.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-11.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-11.html"
 ---
 
 "COME in," says the woman, and I did. She says: "Take a cheer."

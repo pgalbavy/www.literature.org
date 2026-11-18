@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Ribbons"
 weight: 19
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-19.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-19.html"
 ---
 
 The light in the cottage upon the Knoll Road burned late in these days, and when Derrick was delayed in the little town, he used to see it twinkle afar off, before he turned the bend of the road on his way home. He liked to see it. It became a sort of beacon light, and as such he began to watch for it. He used to wonder what Joan was doing, and he glanced in through the curtainless windows as he passed by. Then he discovered that when the light shone she was at work. Sometimes she was sitting at the wooden table with a book, sometimes she was laboring at some task with pen and ink, sometimes she was trying to use her needle.

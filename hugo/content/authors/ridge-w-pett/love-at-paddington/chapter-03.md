@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/ridge-w-pett/love-at-paddington/chapter-03.html"
+url: "/authors/ridge-w-pett/love-at-paddington/chapter-03.html"
 ---
 
 Mr. Trew, off duty, and carrying his whip, came to Praed Street late on a Saturday night, and his look of anxiety disappeared at once when he saw that Mrs. Mills and her niece were on excellent terms with each other. He explained that there was no time to spare, because his old landlady had a hot supper ready, and it was not wise, on these occasions, to keep her or the meal waiting. He delivered his news. Pleasant, elderly gent on the front seat started conversation by talking about prison life, and Trew gave some particulars of a case with which he was acquainted. One subject leading to another, the gent said, as the omnibus was crossing Oxford Street, "Driver, do you ever go to the Zoological Gardens on a Sunday afternoon?" and thereupon handed over the two tickets, expressing a hope that the visit would be enjoyed by the other and his wife.

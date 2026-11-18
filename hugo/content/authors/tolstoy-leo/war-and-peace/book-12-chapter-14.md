@@ -1,8 +1,7 @@
 ---
 title: "Book 12 - Chapter 14"
 weight: 277
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-12-chapter-14.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-12-chapter-14.html"
 ---
 
 When Princess Mary heard from Nicholas that her brother was with the Rostovs at Yaroslavl she at once prepared to go there, in spite of her aunt's efforts to dissuade her- and not merely to go herself but to take her nephew with her. Whether it were difficult or easy, possible or impossible, she did not ask and did not want to know: it was her duty not only herself to be near her brother who was perhaps dying, but to do everything possible to take his son to him, and so she prepared to set off. That she had not heard from Prince Andrew himself, Princess Mary attributed to his being too weak to write or to his considering the long journey too hard and too dangerous for her and his son.

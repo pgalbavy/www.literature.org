@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Geronimo"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-scout/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-04.html"
 ---
 
 Having descended the elevation to meet his three friends, Captain Freeman, like them, was on a broad open plain, which bore some suggestion of a valley. For a mile to the westward a ridge rose to a height of several hundred feet. On the other side of this ridge and close to it, wound a tributary of the Salt River. The stream was narrow, but of uncertain depth, being shallow in many places, while in others it could be crossed only by swimming.

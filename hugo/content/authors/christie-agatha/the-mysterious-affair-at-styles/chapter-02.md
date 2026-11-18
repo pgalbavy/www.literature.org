@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The 16th And 17th Of July"
 weight: 2
-aliases:
-  - "/authors/christie-agatha/the-mysterious-affair-at-styles/chapter-02.html"
+url: "/authors/christie-agatha/the-mysterious-affair-at-styles/chapter-02.html"
 ---
 
 I had arrived at Styles on the 5th of July. I come now to the events of the 16th and 17th of that month. For the convenience of the reader I will recapitulate the incidents of those days in as exact a manner as possible. They were elicited subsequently at the trial by a process of long and tedious cross-examinations.

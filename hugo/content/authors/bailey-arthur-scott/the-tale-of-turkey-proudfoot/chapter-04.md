@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Scaring The Geese"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-04.html"
 ---
 
 The six geese stood in a row and hissed at Turkey Proudfoot. He was so astonished that any one of them could have knocked him over with a feather, almost. When he gobbled an order at them, telling them not to go swimming again, the geese hissed at him. That was just the same as telling him to keep still and mind his own affairs.

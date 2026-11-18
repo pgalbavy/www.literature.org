@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Awakening"
 weight: 3
-aliases:
-  - "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-03.html"
+url: "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-03.html"
 ---
 
 But Warming was wrong in that. An awakening came.

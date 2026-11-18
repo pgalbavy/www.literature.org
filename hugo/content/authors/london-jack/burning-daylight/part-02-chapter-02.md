@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 2"
 weight: 15
-aliases:
-  - "/authors/london-jack/burning-daylight/part-02-chapter-02.html"
+url: "/authors/london-jack/burning-daylight/part-02-chapter-02.html"
 ---
 
 It was not long afterward that Daylight came on to New York. A letter from John Dowsett had been the cause--a simple little typewritten letter of several lines. But Daylight had thrilled as he read it. He remembered the thrill that was his, a callow youth of fifteen, when, in Tempas Butte, through lack of a fourth man, Tom Galsworthy, the gambler, had said, "Get in, Kid; take a hand." That thrill was his now. The bald, typewritten sentences seemed gorged with mystery. "Our Mr. Howison will call upon you at your hotel. He is to be trusted. We must not be seen together. You will understand after we have had our talk." Daylight conned the words over and over. That was it. The big game had arrived, and it looked as if he were being invited to sit in and take a hand. Surely, for no other reason would one man so peremptorily invite another man to make a journey across the continent.

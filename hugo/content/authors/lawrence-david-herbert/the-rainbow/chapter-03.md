@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Childhood Of Anna Lensky"
 weight: 3
-aliases:
-  - "/authors/lawrence-david-herbert/the-rainbow/chapter-03.html"
+url: "/authors/lawrence-david-herbert/the-rainbow/chapter-03.html"
 ---
 
 Tom Brangwen never loved his own son as he loved his stepchild Anna. When they told him it was a boy, he had a thrill of pleasure. He liked the confirmation of fatherhood. It gave him satisfaction to know he had a son. But he felt not very much outgoing to the baby itself. He was its father, that was enough.

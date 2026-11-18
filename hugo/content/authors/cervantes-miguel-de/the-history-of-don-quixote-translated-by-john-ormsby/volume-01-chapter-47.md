@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 47 - Of The Strange Manner In Which Don Quixote Of La Mancha Was Carried Away Enchanted, Together With Other Remarkable Incidents"
 weight: 50
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-47.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-47.html"
 ---
 
 When Don Quixote saw himself caged and hoisted on the cart in this way, he said, "Many grave histories of knights-errant have I read; but never yet have I read, seen, or heard of their carrying off enchanted knights-errant in this fashion, or at the slow pace that these lazy, sluggish animals promise; for they always take them away through the air with marvellous swiftness, enveloped in a dark thick cloud, or on a chariot of fire, or it may be on some hippogriff or other beast of the kind; but to carry me off like this on an ox-cart! By God, it puzzles me! But perhaps the chivalry and enchantments of our day take a different course from that of those in days gone by; and it may be, too, that as I am a new knight in the world, and the first to revive the already forgotten calling of knight-adventurers, they may have newly invented other kinds of enchantments and other modes of carrying off the enchanted. What thinkest thou of the matter, Sancho my son?"

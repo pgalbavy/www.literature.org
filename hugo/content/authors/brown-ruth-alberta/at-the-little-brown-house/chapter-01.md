@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Morning Caller"
 weight: 1
-aliases:
-  - "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-01.html"
+url: "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-01.html"
 ---
 
 It was a glorious morning in early June; the dew still hung heavy on each grass blade and leaf, making rainbow tapestries that defy description, as the waking sunbeams stole into the heart of each round drop and nestled there; the fresh, cool air was sweet with the breath of a thousand flowers; a beautiful bird chorus filled the earth with riotous melody as the happy-hearted songsters flitted from tree to tree saying, "Good morning," to their neighbors. Through a mass of rosy clouds in the east, the sun struggled up over the hilltop and smiled down on the sleeping village of Parker as if trying to coax the dreamers to arise and behold the beauties of the dawning day. In the barn-yards of the little farms scattered around about the town roosters were crowing, hens were clucking, cattle lowing, and horses stamping and neighing, eager for their breakfast.

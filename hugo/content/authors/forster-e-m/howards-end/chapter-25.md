@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-25.html"
+url: "/authors/forster-e-m/howards-end/chapter-25.html"
 ---
 
 Evie heard of her father’s engagement when she was in for a tennis tournament, and her play went simply to pot. That she should marry and leave him had seemed natural enough; that he, left alone, should do the same was deceitful; and now Charles and Dolly said that it was all her fault. “But I never dreamt of such a thing,” she grumbled. “Dad took me to call now and then, and made me ask her to Simpson’s. Well, I’m altogether off dad.” It was also an insult to their mother’s memory; there they were agreed, and Evie had the idea of returning Mrs. Wilcox’s lace and jewellery “as a protest.” Against what it would protest she was not clear; but being only eighteen, the idea of renunciation appealed to her, the more as she did not care for jewellery or lace. Dolly then suggested that she and Uncle Percy should pretend to break off their engagement, and then perhaps Mr. Wilcox would quarrel with Miss Schlegel, and break off his; or Paul might be cabled for. But at this point Charles told them not to talk nonsense. So Evie settled to marry as soon as possible; it was no good hanging about with these Schlegels eyeing her. The date of her wedding was consequently put forward from September to August, and in the intoxication of presents she recovered much of her good-humour.

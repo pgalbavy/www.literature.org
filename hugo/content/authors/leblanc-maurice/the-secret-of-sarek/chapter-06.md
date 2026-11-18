@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - All's Well"
 weight: 7
-aliases:
-  - "/authors/leblanc-maurice/the-secret-of-sarek/chapter-06.html"
+url: "/authors/leblanc-maurice/the-secret-of-sarek/chapter-06.html"
 ---
 
 Walking erect, with a stiff and mechanical gait, without turning round to look at the abominable spectacle, without recking of what might happen if she were seen, Véronique went back to the Priory.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Pirate League"
 weight: 7
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-06.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-06.html"
 ---
 
 As Sachsen left the room the governor snapped shut the silver cap on the porcelain bowl of his pipe and regretfully laid the pipe aside.

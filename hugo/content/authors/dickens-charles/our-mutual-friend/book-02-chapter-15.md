@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 15 - The Whole Case So Far"
 weight: 32
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-02-chapter-15.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-02-chapter-15.html"
 ---
 
 Bradley Headstone held fast by that other interview he was to have with Lizzie Hexam. In stipulating for it, he had been impelled by a feeling little short of desperation, and the feeling abided by him. It was very soon after his interview with the Secretary, that he and Charley Hexam set out one leaden evening, not unnoticed by Miss Peecher, to have this desperate interview accomplished.

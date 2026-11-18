@@ -1,8 +1,7 @@
 ---
 title: "Chapter 53 - The Friend Is Found"
 weight: 53
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-53.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-53.html"
 ---
 
 Mrs. Ellmother looked into the parlor. "I told you Mr. Mirabel would call again," she announced. "Here he is."

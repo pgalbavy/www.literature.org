@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/doyle-arthur-conan/the-parasite/chapter-02.html"
+url: "/authors/doyle-arthur-conan/the-parasite/chapter-02.html"
 ---
 
 March 26. Wilson was, as I had anticipated, very exultant over my conversion, and Miss Penclosa was also demurely pleased at the result of her experiment. Strange what a silent, colorless creature she is save only when she exercises her power! Even talking about it gives her color and life. She seems to take a singular interest in me. I cannot help observing how her eyes follow me about the room.

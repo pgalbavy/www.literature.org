@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - A Curious Discovery"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-21.html"
 ---
 
 "Stay here," said the Mohawk, as soon as they halted; "Lena-Wingo go look for Iroquois—soon be back—don't go away—don't make noise, listen—watch, don't go away."

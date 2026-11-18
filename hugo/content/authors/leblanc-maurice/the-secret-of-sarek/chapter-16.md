@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Hall Of The Kings Of Bohemia"
 weight: 17
-aliases:
-  - "/authors/leblanc-maurice/the-secret-of-sarek/chapter-16.html"
+url: "/authors/leblanc-maurice/the-secret-of-sarek/chapter-16.html"
 ---
 
 Don Luis interrupted himself after delivering his opening sentence and stood enjoying the effect produced. Captain Belval, who knew his friend, was laughing heartily. Stéphane continued to look anxious. All's Well had not budged.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 45 - The Rain Of Blood"
 weight: 45
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-45.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-45.html"
 ---
 
 "As the jeweller returned to the apartment, he cast around him a scrutinizing glance - but there was nothing to excite suspicion, if it did not exist, or to confirm it, if it were already awakened. Caderousse's hands still grasped the gold and bank-notes, and La Carconte called up her sweetest smiles while welcoming the reappearance of their guest. 'Well, well,' said the jeweller, 'you seem, my good friends, to have had some fears respecting the accuracy of your money, by counting it over so carefully directly I was gone.' - 'Oh, no,' answered Caderousse, 'that was not my reason, I can assure you; but the circumstances by which we have become possessed of this wealth are so unexpected, as to make us scarcely credit our good fortune, and it is only by placing the actual proof of our riches before our eyes that we can persuade ourselves that the whole affair is not a dream.' The jeweller smiled. - 'Have you any other guests in your house?' inquired he. - 'Nobody but ourselves,' replied Caderousse; 'the fact is, we do not lodge travellers - indeed, our tavern is so near the town, that nobody would think of stopping here. - 'Then I am afraid I shall very much inconvenience you.' - 'Inconvenience us? Not at all, my dear sir,' said La Carconte in her most gracious manner. 'Not at all, I assure you.' - 'But where will you manage to stow me?' - 'In the chamber overhead.' - 'Surely that is where you yourselves sleep?' - 'Never mind that; we have a second bed in the adjoining room.' Caderousse stared at his wife with much astonishment.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Side Lights"
 weight: 8
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-crux/chapter-07.html"
+url: "/authors/gilman-charlotte-perkins/the-crux/chapter-07.html"
 ---
 
 Theophile wept aloud in the dining-room, nursing one hand in the other, like a hurt monkey.

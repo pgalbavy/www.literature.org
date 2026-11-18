@@ -1,8 +1,7 @@
 ---
 title: "Chapter 52 - The Carriage Of Monsieur Le Coadjuteur"
 weight: 52
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-52.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-52.html"
 ---
 
 Instead of returning, then, by the Saint Honore gate, D'Artagnan, who had time before him, walked around and re-entered by the Porte Richelieu. He was approached to be examined, and when it was discovered by his plumed hat and his laced coat, that he was an officer of the musketeers, he was surrounded, with the intention of making him cry, "Down with Mazarin!" The demonstration did not fail to make him uneasy at first; but when he discovered what it meant, he shouted it in such a voice that even the most exacting were satisfied. He walked down the Rue Richelieu, meditating how he should carry off the queen in her turn, for to take her in a carriage bearing the arms of France was not to be thought of, when he perceived an equipage standing at the door of the hotel belonging to Madame de Guemenee.

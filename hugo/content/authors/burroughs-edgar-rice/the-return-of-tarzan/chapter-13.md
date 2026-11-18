@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Wreck of the \u0026quot;Lady Alice\u0026quot;"
 weight: 13
-aliases:
-  - "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-13.html"
+url: "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-13.html"
 ---
 
 The next morning at breakfast Tarzan's place was vacant. Miss Strong was mildly curious, for Mr. Caldwell had always made it a point to wait that he might breakfast with her and her mother. As she was sitting on deck later Monsieur Thuran paused to exchange a half dozen pleasant words with her. He seemed in most excellent spirits--his manner was the extreme of affability. As he passed on Miss Strong thought what a very delightful man was Monsieur Thuran.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Jess Finds A Friend"
 weight: 31
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-31.html"
+url: "/authors/haggard-h-rider/jess/chapter-31.html"
 ---
 
 The Boers swooped down on them with a shout, like hawks on a sparrow. John pulled up his horse and drew his revolver.

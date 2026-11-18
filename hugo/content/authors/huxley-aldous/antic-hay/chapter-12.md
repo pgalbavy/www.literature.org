@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/huxley-aldous/antic-hay/chapter-12.html"
+url: "/authors/huxley-aldous/antic-hay/chapter-12.html"
 ---
 
 "You? Is it you?" She seemed doubtful.

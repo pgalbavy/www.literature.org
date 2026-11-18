@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 2 - In Which The Prince Plays Haroun-Al-Raschid"
 weight: 4
-aliases:
-  - "/authors/stevenson-robert-louis/prince-otto/book-01-chapter-02.html"
+url: "/authors/stevenson-robert-louis/prince-otto/book-01-chapter-02.html"
 ---
 
 The night fell upon the Prince while he was threading green tracks in the lower valleys of the wood; and though the stars came out overhead and displayed the interminable order of the pine-tree pyramids, regular and dark like cypresses, their light was of small service to a traveller in such lonely paths, and from thenceforth he rode at random. The austere face of nature, the uncertain issue of his course, the open sky and the free air, delighted him like wine; and the hoarse chafing of a river on his left sounded in his ears agreeably.

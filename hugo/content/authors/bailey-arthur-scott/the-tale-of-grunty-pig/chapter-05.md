@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Sixes And Sevens"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-05.html"
 ---
 
 Not until feeding time came did anyone discover that Grunty Pig was gone from the pen. It may seem strange that neither his mother nor any of his brothers and sisters missed him. But when there are seven children in a family it is no wonder that one of them could slip away without having his absence noticed. It is specially easy, in such a large family, to overlook the littlest.

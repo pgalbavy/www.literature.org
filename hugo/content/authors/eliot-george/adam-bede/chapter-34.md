@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - The Betrothal"
 weight: 34
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-34.html"
+url: "/authors/eliot-george/adam-bede/chapter-34.html"
 ---
 
 IT was a dry Sunday, and really a pleasant day for the 2d of November. There was no sunshine, but the clouds were high, and the wind was so still that the yellow leaves which fluttered down from the hedgerow elms must have fallen from pure decay. Nevertheless, Mrs. Poyser did not go to church, for she had taken a cold too serious to be neglected; only two winters ago she had been laid up for weeks with a cold; and since his wife did not go to church, Mr. Poyser considered that on the whole it would be as well for him to stay away too and "keep her company." He could perhaps have given no precise form to the reasons that determined this conclusion, but it is well known to all experienced minds that our firmest convictions are often dependent on subtle impressions for which words are quite too coarse a medium. However it was, no one from the Poyser family went to church that afternoon except Hetty and the boys; yet Adam was bold enough to join them after church, and say that he would walk home with them, though all the way through the village he appeared to be chiefly occupied with Marty and Tommy, telling them about the squirrels in Binton Coppice, and promising to take them there some day. But when they came to the fields he said to the boys, "Now, then, which is the stoutest walker? Him as gets to th' home-gate first shall be the first to go with me to Binton Coppice on the donkey. But Tommy must have the start up to the next stile, because he's the smallest."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Reconnaissance"
 weight: 4
-aliases:
-  - "/authors/chambers-robert-w/barbarians/chapter-04.html"
+url: "/authors/chambers-robert-w/barbarians/chapter-04.html"
 ---
 
 And that was the way Carfax ended—a tiny tragedy of incompetence compared to the mountainous official fiasco at Gallipoli. Here, a few perished among the filthy salamanders in the snow; there, thousands died in the burning Turkish gorse⸺

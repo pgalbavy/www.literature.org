@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Gone"
 weight: 15
-aliases:
-  - "/authors/ostrander-isabel/the-fifth-ace/chapter-15.html"
+url: "/authors/ostrander-isabel/the-fifth-ace/chapter-15.html"
 ---
 
 A metamorphosis had taken place in Vernon Halstead. He was distrait and mooned about the house, getting in people's way and apologizing with an air of such profound abstraction that the family were moved to comment.

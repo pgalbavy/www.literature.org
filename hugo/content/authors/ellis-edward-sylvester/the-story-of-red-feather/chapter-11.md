@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - At The Lower Crossing--Tall Bear's Last Failure"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/the-story-of-red-feather/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/the-story-of-red-feather/chapter-11.html"
 ---
 
 Nothing could have shown more strongly the confidence of Melville Clarendon in Saladin than the course he followed in trying to throw the pursuing Sioux off his track.

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 16"
 weight: 29
-aliases:
-  - "/authors/london-jack/burning-daylight/part-02-chapter-16.html"
+url: "/authors/london-jack/burning-daylight/part-02-chapter-16.html"
 ---
 
 For months Daylight was buried in work. The outlay was terrific, and there was nothing coming in. Beyond a general rise in land values, Oakland had not acknowledged his irruption on the financial scene. The city was waiting for him to show what he was going to do, and he lost no time about it. The best skilled brains on the market were hired by him for the different branches of the work. Initial mistakes he had no patience with, and he was determined to start right, as when he engaged Wilkinson, almost doubling his big salary, and brought him out from Chicago to take charge of the street railway organization. Night and day the road gangs toiled on the streets. And night and day the pile-drivers hammered the big piles down into the mud of San Francisco Bay. The pier was to be three miles long, and the Berkeley hills were denuded of whole groves of mature eucalyptus for the piling.

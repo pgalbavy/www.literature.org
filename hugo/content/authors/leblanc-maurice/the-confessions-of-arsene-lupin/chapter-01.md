@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Two Hundred Thousand Francs Reward!"
 weight: 1
-aliases:
-  - "/authors/leblanc-maurice/the-confessions-of-arsene-lupin/chapter-01.html"
+url: "/authors/leblanc-maurice/the-confessions-of-arsene-lupin/chapter-01.html"
 ---
 
 "Lupin," I said, "tell me something about yourself."

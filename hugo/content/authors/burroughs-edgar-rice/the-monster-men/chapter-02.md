@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Heavy Chest"
 weight: 2
-aliases:
-  - "/authors/burroughs-edgar-rice/the-monster-men/chapter-02.html"
+url: "/authors/burroughs-edgar-rice/the-monster-men/chapter-02.html"
 ---
 
 Virginia and Sing were compelled to narrate the adventure of the afternoon a dozen times. The Chinaman was at a loss to understand what had deterred the pirates at the very threshold of victory. Von Horn thought that they had seen the reinforcements embarking from the shore, but Sing explained that that was impossible since the Ithaca had been directly between them and the point at which the returning crew had entered the boats.

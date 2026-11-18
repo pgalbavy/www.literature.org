@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - “Turned Methody!”"
 weight: 32
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-32.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-32.html"
 ---
 
 It had been generally expected that when all was over the cottage upon the Knoll Road would be closed and deserted, but some secret fancy held Joan to the spot. Perhaps the isolation suited her mood; perhaps the mere sense of familiarity gave her comfort.

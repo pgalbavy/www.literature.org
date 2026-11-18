@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39"
 weight: 39
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-39.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-39.html"
 ---
 
 The charm of the Mediterranean dwells in the unforgettable flavour of my early days, and to this hour this sea, upon which the Romans alone ruled without dispute, has kept for me the fascination of youthful romance. The very first Christmas night I ever spent away from land was employed in running before a Gulf of Lions gale, which made the old ship groan in every timber as she skipped before it over the short seas until we brought her to, battered and out of breath, under the lee of Majorca, where the smooth water was torn by fierce cat’s-paws under a very stormy sky.

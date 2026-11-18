@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42 - The Whiteness of The Whale"
 weight: 42
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-042.html"
+url: "/authors/melville-herman/moby-dick/chapter-042.html"
 ---
 
 What the white whale was to Ahab, has been hinted; what, at times, he was to me, as yet remains unsaid.

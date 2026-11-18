@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - The Flight"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-26.html"
 ---
 
 Never had Ziffak shown such fearful excitement. He swung his arms, and in his wild agitation uttered some of his words in Murhapa, but his meaning was caught by Ashman, who was infected by his overwhelming emotion. He was distraught for the moment, and stood undecided what to do.

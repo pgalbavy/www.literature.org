@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Heart's Desire"
 weight: 14
-aliases:
-  - "/authors/nesbit-edith/the-story-of-the-amulet/chapter-14.html"
+url: "/authors/nesbit-edith/the-story-of-the-amulet/chapter-14.html"
 ---
 
 If I only had time I could tell you lots of things. For instance, how, in spite of the advice of the Psammead, the four children did, one very wet day, go through their Amulet Arch into the golden desert, and there find the great Temple of Baalbec and meet with the Phoenix whom they never thought to see again. And how the Phoenix did not remember them at all until it went into a sort of prophetic trance - if that can be called remembering. But, alas! I HAVEN'T time, so I must leave all that out though it was a wonderfully thrilling adventure. I must leave out, too, all about the visit of the children to the Hippodrome with the Psammead in its travelling bag, and about how the wishes of the people round about them were granted so suddenly and surprisingly that at last the Psammead had to be taken hurriedly home by Anthea, who consequently missed half the performance. Then there was the time when, Nurse having gone to tea with a friend out Ivalunk way, they were playing 'devil in the dark' - and in the midst of that most creepy pastime the postman's knock frightened Jane nearly out of her life. She took in the letters, however, and put them in the back of the hat-stand drawer, so that they should be safe. And safe they were, for she never thought of them again for weeks and weeks.

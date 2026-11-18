@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Wearing A Poke"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-09.html"
 ---
 
 The cows never paid much attention to the woodchucks, unless it was to scold them now and then for eating too much clover. But living as they did in the pasture, the woodchucks took a great interest in Farmer Green's herd. Many a bit of gossip about some cow passed from one woodchuck hole to another, without the cow herself ever dreaming that folk were talking about her.

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 8 - The Cage Of The Wild Birds"
 weight: 19
-aliases:
-  - "/authors/buchan-john/mr-standfast/part-02-chapter-08.html"
+url: "/authors/buchan-john/mr-standfast/part-02-chapter-08.html"
 ---
 
 "Why, Mr Ivery, come right in," said the voice at the table. There was a screen before me, stretching from the fireplace to keep off the draught from the door by which I had entered. It stood higher than my head but there were cracks in it through which I could watch the room. I found a little table on which I could lean my back, for I was dropping with fatigue.

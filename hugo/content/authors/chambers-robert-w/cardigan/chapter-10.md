@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/chambers-robert-w/cardigan/chapter-10.html"
+url: "/authors/chambers-robert-w/cardigan/chapter-10.html"
 ---
 
 It was still dark when I awoke; the fire had become a pyramid of coals. By the dull glow I saw two figures moving; one of them presently crossed the dim, crimson circle and sat down beside me, fists clasped under his massive chin, rifle balanced on his knees.

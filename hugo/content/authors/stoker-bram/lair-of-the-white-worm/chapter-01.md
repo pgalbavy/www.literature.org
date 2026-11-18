@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/stoker-bram/lair-of-the-white-worm/chapter-01.html"
+url: "/authors/stoker-bram/lair-of-the-white-worm/chapter-01.html"
 ---
 
 Adam Salton sauntered into the Empire Club, Sydney, and found awaiting him a letter from his grand-uncle. He had first heard from the old gentleman less than a year before, when Richard Salton had claimed kinship, stating that he had been unable to write earlier, as he had found it very difficult to trace his grand-nephew's address. Adam was delighted and replied cordially; he had often heard his father speak of the older branch of the family with whom his people had long lost touch. Some interesting correspondence had ensued. Adam eagerly opened the letter which had only just arrived, and conveyed a cordial invitation to stop with his grand-uncle at Lesser Hill, for as long a time as he could spare.

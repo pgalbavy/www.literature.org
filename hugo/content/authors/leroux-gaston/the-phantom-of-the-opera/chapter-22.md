@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - In The Torture Chamber"
 weight: 23
-aliases:
-  - "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-22.html"
+url: "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-22.html"
 ---
 
 *THE PERSIAN'S NARRATIVE CONTINUED*

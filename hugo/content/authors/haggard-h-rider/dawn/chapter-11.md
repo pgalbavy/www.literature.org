@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-11.html"
+url: "/authors/haggard-h-rider/dawn/chapter-11.html"
 ---
 
 It was some minutes past seven that evening when the lawyer left, and he had not been gone a quarter of an hour before a hired gig drove up to the door containing Philip, who had got back from town in the worst of bad tempers, and, as no conveyance was waiting for him, had been forced to post over from Roxham. Apparently his father had been expecting his arrival, for the moment the servant opened the door he appeared from his study, and addressed him in a tone that was as near to being jovial as he ever went.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-13.html"
+url: "/authors/eliot-george/middlemarch/chapter-13.html"
 ---
 
 1st Gent. How class your man? - as better than the most, Or, seeming better, worse beneath that cloak? As saint or knave, pilgrim or hypocrite? 2d Gent. Nay, tell me how you class your wealth of books The drifted relics of all time. As well sort them at once by size and livery: Vellum, tall copies, and the common calf Will hardly cover more diversity Than all your labels cunningly devised To class your unread authors.

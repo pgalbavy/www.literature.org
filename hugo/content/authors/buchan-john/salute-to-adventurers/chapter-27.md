@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - How I Strove All Night With The Devil"
 weight: 28
-aliases:
-  - "/authors/buchan-john/salute-to-adventurers/chapter-27.html"
+url: "/authors/buchan-john/salute-to-adventurers/chapter-27.html"
 ---
 
 It was late in the evening ere we reached the shelf in the high glens which was the headquarters of the Indian host. I rode on a horse, between Onotawah and Shalah, as if I were a chief and no prisoner. On the road we met many bands of Indians hastening to the trysting-place, for the leader had flung his outposts along the whole base of the range, and the chief warriors returned to the plateau for the last ritual. No man spoke a word, and when we met other companies the only greeting was by uplifted hands.

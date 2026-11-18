@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Peace Gets Even"
 weight: 13
-aliases:
-  - "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-13.html"
+url: "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-13.html"
 ---
 
 "Peace, come here, I want to talk with you," called Mr. Hartman, leaning over the fence and beckoning to the child at work in her melon patch, measuring the mottled green fruit thickly dotted through the vines.

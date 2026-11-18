@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - On Goat Island"
 weight: 10
-aliases:
-  - "/authors/wells-herbert-george/the-war-in-the-air/chapter-09.html"
+url: "/authors/wells-herbert-george/the-war-in-the-air/chapter-09.html"
 ---
 
 1

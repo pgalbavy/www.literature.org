@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/tarkington-booth/the-flirt/chapter-03.html"
+url: "/authors/tarkington-booth/the-flirt/chapter-03.html"
 ---
 
 It was cooler outdoors, after dinner, in the dusk of that evening; nevertheless three members of the Madison family denied themselves the breeze, and, as by a tacitly recognized and habitual house-rule, so disposed themselves as to afford the most agreeable isolation for the younger daughter and the guest, who occupied wicker chairs upon the porch. The mother and father sat beneath a hot, gas droplight in the small "library"; Mrs. Madison with an evening newspaper, her husband with "King Solomon's Mines"; and Laura, after crisply declining an urgent request from Hedrick to play, had disappeared upstairs. The inimical lad alone was inspired for the ungrateful role of duenna.

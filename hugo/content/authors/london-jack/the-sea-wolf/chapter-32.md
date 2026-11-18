@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 32
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-32.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-32.html"
 ---
 
 I awoke, oppressed by a mysterious sensation. There seemed something missing in my environment. But the mystery and oppressiveness vanished after the first few seconds of waking, when I identified the missing something as the wind. I had fallen asleep in that state of nerve tension with which one meets the continuous shock of sound or movement, and I had awakened, still tense, bracing myself to meet the pressure of something which no longer bore upon me.

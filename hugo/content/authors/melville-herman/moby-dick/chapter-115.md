@@ -1,8 +1,7 @@
 ---
 title: "Chapter 115 - The Pequod Meets The Bachelor"
 weight: 115
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-115.html"
+url: "/authors/melville-herman/moby-dick/chapter-115.html"
 ---
 
 And jolly enough were the sights and the sounds that came bearing down before the wind, some few weeks after Ahab's harpoon had been welded.

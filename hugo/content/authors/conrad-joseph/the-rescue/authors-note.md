@@ -1,8 +1,7 @@
 ---
 title: "Author's Note"
 weight: 1
-aliases:
-  - "/authors/conrad-joseph/the-rescue/authors-note.html"
+url: "/authors/conrad-joseph/the-rescue/authors-note.html"
 ---
 
 'Allas!' quod she, 'that ever this sholde happe! For wende I never, by possibilitee, That swich a monstre or merveille mighte be!' —*THE FRANKELEYN'S TALE*

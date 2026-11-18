@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-14.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-14.html"
 ---
 
 The sudden termination of Colonel Brandon's visit at the park, with his steadiness in concealing its cause, filled the mind, and raised the wonder of Mrs. Jennings for two or three days; she was a great wonderer, as every one must be who takes a very lively interest in all the comings and goings of all their acquaintance. She wondered, with little intermission what could be the reason of it; was sure there must be some bad news, and thought over every kind of distress that could have befallen him, with a fixed determination that he should not escape them all.

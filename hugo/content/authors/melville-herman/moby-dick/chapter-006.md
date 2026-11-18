@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Street"
 weight: 6
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-006.html"
+url: "/authors/melville-herman/moby-dick/chapter-006.html"
 ---
 
 If I had been astonished at first catching a glimpse of so outlandish an individual as Queequeg circulating among the polite society of a civilized town, that astonishment soon departed upon taking my first daylight stroll through the streets of New Bedford.

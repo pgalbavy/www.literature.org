@@ -1,8 +1,7 @@
 ---
 title: "Chapter 91 - The Pequod Meets The Rose-Bud"
 weight: 91
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-091.html"
+url: "/authors/melville-herman/moby-dick/chapter-091.html"
 ---
 
 "In vain it was to rake for Ambergriese in the paunch of this Leviathan, insufferable fetor denying not inquiry." SIR T. BROWNE, V. E.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-18.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-18.html"
 ---
 
 The spring, when they traveled back to the north, was so perceptibly nearer that the fugitive soft days strayed in advance at intervals that were briefer. They chose one for their journey, and its clear sunshine and hints at faint greenness were so exhilarating to Miss Alicia that she was a companion to make any journey an affair to rank with holidays and adventures. The strange luxury of traveling in a reserved first-class carriage, of being made timid by no sense of unfitness of dress or luggage, would have filled her with grateful rapture; but Rose, journeying with Pearson a few coaches behind, appeared at the carriage window at every important station to say, “Is there anything I may do for you, ma'am?” And there really never was anything she could do, because Mr. Temple Barholm remembered everything which could make her comfort perfect. In the moods of one who searches the prospect for suggestions as to pleasure he can give to himself by delighting a dear child, he had found and bought for her a most elegant little dressing-bag, with the neatest of plain-gold fittings beautifully initialed. It reposed upon the cushioned seat near her, and made her heart beat every time she caught sight of it anew. How wonderful it would be if poor dear, darling mama could look down and see everything and really know what happiness had been vouchsafed to her unworthy child!

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - “Home Of The Forty Thieves.”"
 weight: 8
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-08.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-08.html"
 ---
 
 Jimmie and Carl were now in a shallow wrinkle or gully which reached from the summit of the mountain to the shelf upon which the mysterious camp-fire had been seen. From their position they could not secure a view of their own camp, which was much lower down.

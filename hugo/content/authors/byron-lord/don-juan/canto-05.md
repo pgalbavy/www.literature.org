@@ -1,8 +1,7 @@
 ---
 title: "Canto 5"
 weight: 6
-aliases:
-  - "/authors/byron-lord/don-juan/canto-05.html"
+url: "/authors/byron-lord/don-juan/canto-05.html"
 ---
 
 When amatory poets sing their loves  

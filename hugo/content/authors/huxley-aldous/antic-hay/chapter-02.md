@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/huxley-aldous/antic-hay/chapter-02.html"
+url: "/authors/huxley-aldous/antic-hay/chapter-02.html"
 ---
 
 Gumbril senior occupied a tall, narrow-shouldered and rachitic house in a little obscure square not far from Paddington. There were five floors, and a basement with beetles, and nearly a hundred stairs, which shook when any one ran too rudely down them. It was a prematurely old and decaying house in a decaying quarter. The square in which it stood was steadily coming down in the world. The houses which a few years ago had all been occupied by respectable families, were now split up into squalid little maisonnettes, and from the neighbouring slums, which along with most other unpleasant things the old bourgeois families had been able to ignore, invading bands of children came to sport on the once sacred pavements.

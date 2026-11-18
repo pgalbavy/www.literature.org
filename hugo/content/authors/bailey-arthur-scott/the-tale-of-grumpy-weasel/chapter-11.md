@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Long Race"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-11.html"
 ---
 
 The famous race between Grumpy Weasel and Jimmy Rabbit went on and on. Jimmy turned and twisted this way and that, up and down and back and forth through Pleasant Valley. He could still run faster than Grumpy Weasel, it is true. But he was growing tired. Now and then Jimmy stopped to rest. And he kept hoping that Grumpy Weasel had become so weary that he had given up the chase.

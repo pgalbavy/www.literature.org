@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43 - His Chance"
 weight: 43
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-43.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-43.html"
 ---
 
 Betty walked much alone upon the marshes with Roland at her side. At intervals she heard from Mr. Penzance, but his notes were necessarily brief, and at other times she could only rely upon report for news of what was occurring at Mount Dunstan. Lord Mount Dunstan's almost military supervision of and command over his villagers had certainly saved them from the horrors of an uncontrollable epidemic; his decision and energy had filled the alarmed Guardians with respect and this respect had begun to be shared by many other persons. A man as prompt in action, and as faithful to such responsibilities as many men might have found plausible reasons enough for shirking, inevitably assumed a certain dignity of aspect, when all was said and done. Lord Dunholm was most clear in his expressions of opinion concerning him. Lady Alanby of Dole made a practice of speaking of him in public frequently, always with admiring approval, and in that final manner of hers, to whose authority her neighbours had so long submitted. It began to be accepted as a fact that he was a new development of his race--as her ladyship had put it, “A new order of Mount Dunstan.”

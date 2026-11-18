@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - M. Milford Recognizes Cartouche"
 weight: 30
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-29.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-29.html"
 ---
 
 AT midnight an artisan was singing in a square in Paris, at the side of the ancient Quarter d’Enfer, the hymn which several months later became so popular, the "International." That artisan was working with several companions repairing the track, which had sustained certain damages, following the construction of a new drain. The track was bent in certain places, and even a house in that situation, a heavy new house of seven stories, was leaning. The city engineers were much concerned by this state of affairs. They knew that in this quarter the catacombs projected their innumerable tunnels, their thousands of drains, and that certain buildings were in a very precarious state.

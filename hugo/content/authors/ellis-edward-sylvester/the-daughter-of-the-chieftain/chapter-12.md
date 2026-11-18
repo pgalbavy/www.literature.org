@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Conclusion"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/the-daughter-of-the-chieftain/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/the-daughter-of-the-chieftain/chapter-12.html"
 ---
 
 The point, at last, had been reached where it was useless to struggle any longer. The little party of fugitives, after safely crossing the Susquehanna on the day of the battle, and penetrating more than a score of miles on their way eastward to the Delaware, were overtaken, and made captive by three Indians.

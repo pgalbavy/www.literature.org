@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-19.html"
 ---
 
 The American did not reply, but held her gaze upon the little vessel, whose curving to the right might change at any moment; but it kept straight on under the propulsion of the breeze until hidden from sight by the tops of the trees. The three men had certainly approached land, though it could not be said they had left the boat.

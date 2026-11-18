@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/davis-richard-harding/the-kings-jackal/chapter-01.html"
+url: "/authors/davis-richard-harding/the-kings-jackal/chapter-01.html"
 ---
 
 The private terrace of the Hotel Grand Bretagne, at Tangier, was shaded by a great awning of red and green and yellow, and strewn with colored mats, and plants in pots, and wicker chairs. It reached out from the Kings apartments into the Garden of Palms, and was hidden by them on two sides, and showed from the third the blue waters of the Mediterranean and the great shadow of Gibraltar in the distance.

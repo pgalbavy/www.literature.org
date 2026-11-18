@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Johnnie Green And His New Pet"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-13.html"
 ---
 
 Tommy Fox was in a terrible fix. He was caught fast by the foot in a trap; and if that isn't being in a fix, I should like to know what is.

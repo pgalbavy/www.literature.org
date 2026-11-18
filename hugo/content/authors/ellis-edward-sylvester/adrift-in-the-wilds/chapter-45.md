@@ -1,8 +1,7 @@
 ---
 title: "Chapter 45 - A Friend In Need"
 weight: 45
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-45.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-45.html"
 ---
 
 When the Pah Utah entered the cave he did not appear to notice Elwood Brandon. The latter attributed this to the semi-darkness in which he stood, and was about to go forward and claim his friendship when something restrained him, and he concluded to wait until the Indian first recognized him.

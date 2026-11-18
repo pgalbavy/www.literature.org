@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-19.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-19.html"
 ---
 
 Then Mr. Hoopdriver returned to the little room with the lead-framed windows where he had dined, and where the bed was now comfortably made, sat down on the box under the window, stared at the moon rising on the shining vicarage roof, and tried to collect his thoughts. How they whirled at first! It was past ten, and most of Midhurst was tucked away in bed, some one up the street was learning the violin, at rare intervals a belated inhabitant hurried home and woke the echoes, and a corncrake kept up a busy churning in the vicarage garden. The sky was deep blue, with a still luminous afterglow along the hlack edge of the hill, and the white moon overhead, save for a couple of yellow stars, had the sky to herself.

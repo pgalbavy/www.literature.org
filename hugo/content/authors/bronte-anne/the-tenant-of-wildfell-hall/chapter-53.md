@@ -1,8 +1,7 @@
 ---
 title: "Chapter 53"
 weight: 54
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-53.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-53.html"
 ---
 
 While standing thus, absorbed in my gloomy reverie, a gentleman's carriage came round the corner of the road. I did not look at it; and had it rolled quietly by me, I should not have remembered the fact of its appearance at all; but a tiny voice from within it roused me by exclaiming, 'Mamma, mamma, here's Mr. Markham!'

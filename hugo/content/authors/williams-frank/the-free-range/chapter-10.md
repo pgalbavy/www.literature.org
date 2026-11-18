@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - War Without Quarter"
 weight: 10
-aliases:
-  - "/authors/williams-frank/the-free-range/chapter-10.html"
+url: "/authors/williams-frank/the-free-range/chapter-10.html"
 ---
 
 He found her where he had left her, but now she was standing and looking out over the silent prairies, as though searching for someone.

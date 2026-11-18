@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43 - Sounding"
 weight: 43
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-43.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-43.html"
 ---
 
 Mirabel left Francine to enter the lodge by herself. His mind was disturbed: he felt the importance of gaining time for reflection before he and Emily met again.

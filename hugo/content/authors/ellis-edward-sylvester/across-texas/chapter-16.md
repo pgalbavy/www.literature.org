@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - An Astounding Discovery"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-16.html"
 ---
 
 *HERBERT* noticed, as he went forward, that the fire was sinking so low as to show that it had not been looked after for some time. Backed against a bowlder near the spring, it was well protected from the wind, but had been fanned into a blaze that must have diffused a good deal of warmth in all directions.

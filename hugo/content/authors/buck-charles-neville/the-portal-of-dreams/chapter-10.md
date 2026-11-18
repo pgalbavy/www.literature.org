@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - I Seek Orchids"
 weight: 10
-aliases:
-  - "/authors/buck-charles-neville/the-portal-of-dreams/chapter-10.html"
+url: "/authors/buck-charles-neville/the-portal-of-dreams/chapter-10.html"
 ---
 
 Internally I was quaking, and thinking very fast. The first shock of their astonishment was dissipating, and two of the three faces were clouding into a glowering scrutiny which augured darkly for my escape. The gaze of the third held a grave perplexity, touched with awe, and in the interval of overcharged silence the other eyes dwelt questioningly on his.

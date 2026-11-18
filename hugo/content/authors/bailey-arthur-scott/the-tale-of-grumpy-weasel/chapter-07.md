@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Paddy Muskrat's Blunder"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-07.html"
 ---
 
 Sometimes Grumpy Weasel found the hunting poor along the stretch of stone wall that he called his own--though of course it really belonged to Farmer Green. And though he disliked to wander much in strange neighborhoods, once in a while he visited other parts of Pleasant Valley.

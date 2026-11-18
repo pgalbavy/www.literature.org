@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/nesbit-edith/the-enchanted-castle/chapter-11.html"
+url: "/authors/nesbit-edith/the-enchanted-castle/chapter-11.html"
 ---
 
 IT was show-day at Yalding Castle, and it seemed good to the children to go and visit Mabel, and, as Gerald put it, to mingle unsuspected with the crowd; to gloat over all the things which they knew and which the crowd didn't know about the castle and the sliding panels, the magic ring and the statues that came alive. Perhaps one of the pleasantest things about magic happenings is the feeling which they give you of knowing what other people not only don't know but wouldn't, so to speak, believe if they did.

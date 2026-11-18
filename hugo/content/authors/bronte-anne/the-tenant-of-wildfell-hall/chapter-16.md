@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 17
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-16.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-16.html"
 ---
 
 June 1st, 1821. - We have just returned to Staningley - that is, we returned some days ago, and I am not yet settled, and feel as if I never should be. We left town sooner than was intended, in consequence of my uncle's indisposition; - I wonder what would have been the result if we had stayed the full time. I am quite ashamed of my new-sprung distaste for country life. All my former occupations seem so tedious and dull, my former amusements so insipid and unprofitable. I cannot enjoy my music, because there is no one to hear it. I cannot enjoy my walks, because there is no one to meet. I cannot enjoy my books, because they have not power to arrest my attention: my head is so haunted with the recollections of the last few weeks, that I cannot attend to them. My drawing suits me best, for I can draw and think at the same time; and if my productions cannot now be seen by any one but myself, and those who do not care about them, they, possibly, may be, hereafter. But, then, there is one face I am always trying to paint or to sketch, and always without success; and that vexes me. As for the owner of that face, I cannot get him out of my mind - and, indeed, I never try. I wonder whether he ever thinks of me; and I wonder whether I shall ever see him again. And then might follow a train of other wonderments - questions for time and fate to answer - concluding with - Supposing all the rest be answered in the affirmative, I wonder whether I shall ever repent it? as my aunt would tell me I should, if she knew what I was thinking about.

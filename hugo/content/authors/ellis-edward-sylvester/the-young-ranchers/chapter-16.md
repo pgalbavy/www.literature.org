@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - A Thief Of The Night"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-16.html"
 ---
 
 When the rancher entered the current with the two ponies, the interest of the wife, who remained behind with little Dot, was centred wholly in his effort to ford the stream. She stood on the very margin of the water, where, though unable to see the form of the rider or either of the animals, she could hear the sound made by them in passing through the current.

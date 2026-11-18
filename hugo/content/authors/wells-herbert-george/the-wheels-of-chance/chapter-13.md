@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - How Mr. Hoopdriver Went To Haslemere"
 weight: 13
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-13.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-13.html"
 ---
 
 There was some little delay in getting Mr. Hoopdriver's breakfast, so that after all he was not free to start out of Guildford until just upon the stroke of nine. He wheeled his machine from the High Street in some perplexity. He did not know whether this young lady, who had seized hold of his imagination so strongly, and her unfriendly and possibly menacing brother, were ahead of him or even now breakfasting somewhere in Guildford. In the former case he might loiter as he chose; in the latter he must hurry, and possibly take refuge in branch roads.

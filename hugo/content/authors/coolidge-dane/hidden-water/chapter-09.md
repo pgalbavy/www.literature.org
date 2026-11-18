@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Moroni"
 weight: 9
-aliases:
-  - "/authors/coolidge-dane/hidden-water/chapter-09.html"
+url: "/authors/coolidge-dane/hidden-water/chapter-09.html"
 ---
 
 The Mormon settlement of Moroni proved to belong to that large class of Western "cities" known as "string-towns"--a long line of stores on either side of a main street, brick where fires have swept away the shacks, and wood with false fronts where dynamite or a change of wind has checked the conflagration; a miscellaneous conglomeration of saloons, restaurants, general stores, and livery stables, all very satisfying to the material wants of man, but in the ensemble not over-pleasing to the eye.

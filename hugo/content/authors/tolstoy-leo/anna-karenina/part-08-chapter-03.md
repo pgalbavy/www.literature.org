@@ -1,8 +1,7 @@
 ---
 title: "Part 8 - Chapter 3"
 weight: 223
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-08-chapter-03.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-08-chapter-03.html"
 ---
 
 Saying good-bye to the princess, Sergey Ivanovitch was joined by Katavasov; together theygot into a carriage full to overflowing, and the train started.

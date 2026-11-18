@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-25.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-25.html"
 ---
 
 He peered forward over his desk at the tall graceful figure whose entrance had been so noiseless, and whose footsteps had been so light that she stood almost within a few feet of him before he was even aware of her presence. Then his surprise was so great that he could only gasp out her name.

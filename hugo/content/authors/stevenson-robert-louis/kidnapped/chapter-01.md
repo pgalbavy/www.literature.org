@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - I Set Off Upon My Journey To The House Of Shaws"
 weight: 2
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-01.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-01.html"
 ---
 
 I will begin the story of my adventures with a certain morning early in the month of June, the year of grace 1751, when I took the key for the last time out of the door of my father’s house. The sun began to shine upon the summit of the hills as I went down the road; and by the time I had come as far as the manse, the blackbirds were whistling in the garden lilacs, and the mist that hung around the valley in the time of the dawn was beginning to arise and die away.

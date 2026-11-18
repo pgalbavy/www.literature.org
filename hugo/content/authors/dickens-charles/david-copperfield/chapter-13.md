@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Sequel Of My Resolution"
 weight: 14
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-13.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-13.html"
 ---
 
 For anything I know, I may have had some wild idea of running all the way to Dover, when I gave up the pursuit of the young man with the donkey-cart, and started for Greenwich. My scattered senses were soon collected as to that point, if I had; for I came to a stop in the Kent Road, at a terrace with a piece of water before it, and a great foolish image in the middle, blowing a dry shell. Here I sat down on a doorstep, quite spent and exhausted with the efforts I had already made, and with hardly breath enough to cry for the loss of my box and half-guinea.

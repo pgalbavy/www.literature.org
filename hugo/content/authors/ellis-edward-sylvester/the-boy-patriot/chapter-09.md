@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A Reward"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-09.html"
 ---
 
 Hal was still in the deep sleep into which he had fallen, when the bolts of their place of confinement were withdrawn. Blair's clear bright eyes looked full in the face of the English commander, who now stood before him.

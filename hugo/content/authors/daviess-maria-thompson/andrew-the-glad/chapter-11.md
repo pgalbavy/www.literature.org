@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Across The Many Waters"
 weight: 11
-aliases:
-  - "/authors/daviess-maria-thompson/andrew-the-glad/chapter-11.html"
+url: "/authors/daviess-maria-thompson/andrew-the-glad/chapter-11.html"
 ---
 
 And the day of the election arrived next morning and brought cold clouds shot through with occasional gleams of pale sunshine, only to be followed by light but threatening flurries of snow.

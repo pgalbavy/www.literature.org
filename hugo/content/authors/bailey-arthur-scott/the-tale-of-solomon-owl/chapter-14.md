@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Hanging By The Heels"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-14.html"
 ---
 
 It was several nights before Solomon Owl and Benjamin Bat chanced to meet again in the forest.

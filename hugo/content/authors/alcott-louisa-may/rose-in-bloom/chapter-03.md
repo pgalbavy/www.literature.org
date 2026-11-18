@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Miss Campbell"
 weight: 4
-aliases:
-  - "/authors/alcott-louisa-may/rose-in-bloom/chapter-03.html"
+url: "/authors/alcott-louisa-may/rose-in-bloom/chapter-03.html"
 ---
 
 While the travelers unpack their trunks, we will pick up, as briefly as possible, the dropped stitches in the little romance we are weaving.

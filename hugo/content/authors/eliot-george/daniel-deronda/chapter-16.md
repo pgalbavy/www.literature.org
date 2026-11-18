@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-16.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-16.html"
 ---
 
 Men, like planets, have both a visible and an invisible history. The astronomer threads the darkness with strict deduction, accounting so for every visible arc in the wanderer's orbit; and the narrator of human actions, if he did his work with the same completeness, would have to thread the hidden pathways of feeling and thought which lead up to every moment of action, and to those moments of intense suffering which take the quality of action - like the cry of Prometheus, whose chained anguish seems a greater energy than the sea and sky he invokes and the deity he defies.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Emil's Thanksgiving"
 weight: 11
-aliases:
-  - "/authors/alcott-louisa-may/jos-boys/chapter-11.html"
+url: "/authors/alcott-louisa-may/jos-boys/chapter-11.html"
 ---
 
 The Brenda was scudding along with all sail set to catch the rising wind, and everyone on board was rejoicing, for the long voyage was drawing towards an end.

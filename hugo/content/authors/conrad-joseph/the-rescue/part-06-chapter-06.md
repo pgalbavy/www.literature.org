@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 6"
 weight: 40
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-06-chapter-06.html"
+url: "/authors/conrad-joseph/the-rescue/part-06-chapter-06.html"
 ---
 
 Thirty-six hours later Carter, alone with Lingard in the cabin of the brig, could almost feel during a pause in his talk the oppressive, the breathless peace of the Shallows awaiting another sunset.

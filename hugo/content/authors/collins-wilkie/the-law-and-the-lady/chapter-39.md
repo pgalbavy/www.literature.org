@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39 - On The Way To Dexter"
 weight: 39
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-39.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-39.html"
 ---
 
 "I DECLARE to Heaven, Valeria, I believe that monster's madness is infectious--and you have caught it!"

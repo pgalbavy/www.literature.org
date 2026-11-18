@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Coming Of The Danish Brig"
 weight: 14
-aliases:
-  - "/authors/buchan-john/huntingtower/chapter-13.html"
+url: "/authors/buchan-john/huntingtower/chapter-13.html"
 ---
 
 Mr. John Heritage, solitary in the old Tower, found much to occupy his mind. His giddiness was passing, though the dregs of a headache remained, and his spirits rose with his responsibilities. At daybreak he breakfasted out of the Mearns Street provision box, and made tea in one of the Die-Hards' camp kettles. Next he gave some attention to his toilet, necessary after the rough-and-tumble of the night. He made shift to bathe in icy water from the Tower well, shaved, tidied up his clothes and found a clean shirt from his pack. He carefully brushed his hair, reminding himself that thus had the Spartans done before Thermopylæ. The neat and somewhat pallid young man that emerged from these rites then ascended to the first floor to reconnoitre the landscape from the narrow unglazed windows.

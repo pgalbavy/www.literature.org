@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - In Which Rouletabille Sets Out On An Expedition Under The Bed"
 weight: 7
-aliases:
-  - "/authors/leroux-gaston/the-yellow-room/chapter-07.html"
+url: "/authors/leroux-gaston/the-yellow-room/chapter-07.html"
 ---
 
 Rouletabille having pushed open the door of "The Yellow Room" paused on the threshold saying, with an emotion which I only later understood, "Ah, the perfume of the lady in black!"

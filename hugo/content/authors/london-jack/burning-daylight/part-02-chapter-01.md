@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 1"
 weight: 14
-aliases:
-  - "/authors/london-jack/burning-daylight/part-02-chapter-01.html"
+url: "/authors/london-jack/burning-daylight/part-02-chapter-01.html"
 ---
 
 In no blaze of glory did Burning Daylight descend upon San Francisco. Not only had he been forgotten, but the Klondike along with him. The world was interested in other things, and the Alaskan adventure, like the Spanish War, was an old story. Many things had happened since then. Exciting things were happening every day, and the sensation-space of newspapers was limited. The effect of being ignored, however, was an exhilaration. Big man as he had been in the Arctic game, it merely showed how much bigger was this new game, when a man worth eleven millions, and with a history such as his, passed unnoticed.

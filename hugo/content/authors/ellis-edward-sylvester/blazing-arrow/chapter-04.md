@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Blazing Arrow"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-04.html"
 ---
 
 At the moment of flinging his rifle from him, when he made his first leap, Wharton Edwards noticed where it landed, and of course knew just where to look for it. When he searched that place for it, and saw nothing of the weapon, he knew, therefore, that something was wrong.

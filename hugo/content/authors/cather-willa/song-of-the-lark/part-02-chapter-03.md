@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 3"
 weight: 23
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-02-chapter-03.html"
+url: "/authors/cather-willa/song-of-the-lark/part-02-chapter-03.html"
 ---
 
 ANDOR HARSANYI had never had a pupil in the least like Thea Kronborg. He had never had one more intelligent, and he had never had one so ignorant. When Thea sat down to take her first lesson from him, she had never heard a work by Beethoven or a composition by Chopin. She knew their names vaguely. Wunsch had been a musician once, long before he wandered into Moonstone, but when Thea awoke his interest there was not much left of him. From him Thea had learned something about the works of Gluck and Bach, and he used to play her some of the compositions of Schumann. In his trunk he had a mutilated score of the F sharp minor sonata, which he had heard Clara Schumann play at a festival in Leipsic. Though his powers of execution were at such a low ebb, he used to play at this sonata for his pupil and managed to give her some idea of its beauty. When Wunsch was a young man, it was still daring to like Schumann; enthusiasm for his work was considered an expression of youthful waywardness. Perhaps that was why Wunsch remembered him best. Thea studied some of the KINDERSZENEN with him, as well as some little sonatas by Mozart and Clementi. But for the most part Wunsch stuck to Czerny and Hummel.

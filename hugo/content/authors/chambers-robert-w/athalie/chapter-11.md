@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-11.html"
+url: "/authors/chambers-robert-w/athalie/chapter-11.html"
 ---
 
 The door of the apartment stood ajar and he walked in. Athalie, still in her evening gown, rose from the sofa before the fire, dropping the white Angora, Hafiz, from her lap.

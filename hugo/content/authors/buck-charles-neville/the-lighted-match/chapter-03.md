@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Moon Overhears"
 weight: 3
-aliases:
-  - "/authors/buck-charles-neville/the-lighted-match/chapter-03.html"
+url: "/authors/buck-charles-neville/the-lighted-match/chapter-03.html"
 ---
 
 At dinner the talk ran for a course or two with the hounds, then strayed aimlessly into a dozen discursive channels.

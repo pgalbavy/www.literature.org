@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/coolidge-dane/the-desert-trail/chapter-08.html"
+url: "/authors/coolidge-dane/the-desert-trail/chapter-08.html"
 ---
 
 There are some people in this world with whom it seems impossible to quarrel, notably the parents of attractive daughters.

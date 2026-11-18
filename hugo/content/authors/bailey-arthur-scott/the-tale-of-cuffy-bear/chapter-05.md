@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Cuffy And The Maple-Sugar"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-05.html"
 ---
 
 Another day had come and all the morning long Cuffy Bear and his sister Silkie played and played as hard as they could. They played that they were making maple-sugar. And they pretended to hang buckets on all the trees near Mr. Bear's house. There were no maple trees about Cuffy's home--only pine and hemlock and spruce--but if you are just pretending to make maple-sugar any sort of tree will do.

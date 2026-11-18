@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Island Of Tiboulen"
 weight: 21
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-21.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-21.html"
 ---
 
 Dantes, although stunned and almost suffocated, had sufficient presence of mind to hold his breath, and as his right hand (prepared as he was for every chance) held his knife open, he rapidly ripped up the sack, extricated his arm, and then his body; but in spite of all his efforts to free himself from the shot, he felt it dragging him down still lower. He then bent his body, and by a desperate effort severed the cord that bound his legs, at the moment when it seemed as if he were actually strangled. With a mighty leap he rose to the surface of the sea, while the shot dragged down to the depths the sack that had so nearly become his shroud.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - The Watchguard"
 weight: 28
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-28.html"
+url: "/authors/bronte-charlotte/villette/chapter-28.html"
 ---
 
 M. Paul Emanuel owned an acute sensitiveness to the annoyance of interruption, from whatsoever cause occurring, during his lessons: to pass through the classe under such circumstances was considered by the teachers and pupils of the school, individually and collectively, to be as much as a woman's or girl's life was worth.

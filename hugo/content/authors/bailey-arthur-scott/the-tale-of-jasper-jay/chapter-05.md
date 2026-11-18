@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Search"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-05.html"
 ---
 
 AFTER telling Mr. Crow what he was going to do to the strange bird, which he had never seen, but only heard, Jasper Jay renewed his search for the unknown.

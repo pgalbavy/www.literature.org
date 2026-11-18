@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 2 - Fakarava: An Atoll At Hand"
 weight: 17
-aliases:
-  - "/authors/stevenson-robert-louis/in-the-south-seas/part-02-chapter-02.html"
+url: "/authors/stevenson-robert-louis/in-the-south-seas/part-02-chapter-02.html"
 ---
 
 By a little before noon we were running down the coast of our destination, Fakarava: the air very light, the sea near smooth; though still we were accompanied by a continuous murmur from the beach, like the sound of a distant train. The isle is of a huge longitude, the enclosed lagoon thirty miles by ten or twelve, and the coral tow-path, which they call the land, some eighty or ninety miles by (possibly) one furlong. That part by which we sailed was all raised; the underwood excellently green, the topping wood of coco-palms continuous—a mark, if I had known it, of man’s intervention. For once more, and once more unconsciously, we were within hail of fellow-creatures, and that vacant beach was but a pistol-shot from the capital city of the archipelago. But the life of an atoll, unless it be enclosed, passes wholly on the shores of the lagoon; it is there the villages are seated, there the canoes ply and are drawn up; and the beach of the ocean is a place accursed and deserted, the fit scene only for wizardry and shipwreck, and in the native belief a haunting ground of murderous spectres.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Oliver'S Destiny Continuing Unpropitious, Brings A Great Man To London To Injure His Reputation"
 weight: 17
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-17.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-17.html"
 ---
 
 It is the custom on the stage, in all good murderous melodramas, to present the tragic and the comic scenes, in as regular alternation, as the layers of red and white in a side of streaky bacon. The hero sinks upon his straw bed, weighed down by fetters and misfortunes; in the next scene, his faithful but unconscious squire regales the audience with a comic song. We behold, with throbbing bosoms, the heroine in the grasp of a proud and ruthless baron: her virtue and her life alike in danger, drawing forth her dagger to preserve the one at the cost of the other; and just as our expectations are wrought up to the highest pitch, a whistle is heard, and we are straightway transported to the great hall of the castle; where a grey-headed seneschal sings a funny chorus with a funnier body of vassals, who are free of all sorts of places, from church vaults to palaces, and roam about in company, carolling perpetually.

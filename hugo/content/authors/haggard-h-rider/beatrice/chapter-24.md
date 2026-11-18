@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Lady Honoria Takes The Field"
 weight: 25
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-24.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-24.html"
 ---
 
 Geoffrey hurried to the Vicarage to fetch his baggage and say good-bye. He had no time for breakfast, and he was glad of it, for he could not have eaten a morsel to save his life. He found Elizabeth and her father in the sitting-room.

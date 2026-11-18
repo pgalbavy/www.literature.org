@@ -1,8 +1,7 @@
 ---
 title: "Part 8 - Chapter 8"
 weight: 228
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-08-chapter-08.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-08-chapter-08.html"
 ---
 
 Ever since, by his beloved brother's deathbed, Levin had first glanced into the questions of life and death in the light of these new convictions, as he called them, which had during the period from his twentieth to his thirty-fourth year imperceptibly replaced his childish and youthful beliefs--he had been stricken with horror, not so much of death, as of life, without any knowledge of whence, and why, and how, and what it was. The physical organization, its decay, the indestructibility of matter, the law of the conservation of energy, evolution, were the words which usurped the place of his old belief. These words and the ideas associated with them were very well for intellectual purposes. But for life they yielded nothing, and Levin felt suddenly like a man who has changed his warm fur cloak for a muslin garment, and going for the first time into the frost is immediately convinced, not by reason, but by his whole nature that he is as good as naked, and that he must infallibly perish miserably.

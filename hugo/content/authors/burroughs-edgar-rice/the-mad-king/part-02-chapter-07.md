@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 7 - Barney To The Rescue"
 weight: 19
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-07.html"
+url: "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-07.html"
 ---
 
 As Barney Custer raced along the Austrian highroad toward the frontier and Lutha, his spirits rose to a pitch of buoyancy to which they had been strangers for the past several days. For the first time in many hours it seemed possible to Barney to entertain reasonable hopes of escape from the extremely dangerous predicament into which he had gotten himself.

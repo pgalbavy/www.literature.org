@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Tommies"
 weight: 24
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-24.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-24.html"
 ---
 
 Daylight overtook them after they had entered the gorge, but, tired as they all were with the exception of Tar- zan, they realized that they must keep on at all costs until they found a spot where they might ascend the precipi- tous side of the gorge to the floor of the plateau above. Tarzan and Otobu were both equally confident that the Xujans would not follow them beyond the gorge, but though they scanned every inch of the frowning cliffs upon either hand noon came and there was still no indication of any avenue of escape to right or left. There were places where the ape-man alone might have negotiated the ascent but none where the others could hope successfully to reach the plateau, nor where Tar- zan, powerful and agile as he was, could have ventured safely to carry them aloft.

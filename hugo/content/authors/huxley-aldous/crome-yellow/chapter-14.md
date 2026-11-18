@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/huxley-aldous/crome-yellow/chapter-14.html"
+url: "/authors/huxley-aldous/crome-yellow/chapter-14.html"
 ---
 
 For their after-luncheon coffee the party generally adjourned to the library. Its windows looked east, and at this hour of the day it was the coolest place in the whole house. It was a large room, fitted, during the eighteenth century, with white painted shelves of an elegant design. In the middle of one wall a door, ingeniously upholstered with rows of dummy books, gave access to a deep cupboard, where, among a pile of letter-files and old newspapers, the mummy-case of an Egyptian lady, brought back by the second Sir Ferdinando on his return from the Grand Tour, mouldered in the darkness. From ten yards away and at a first glance, one might almost have mistaken this secret door for a section of shelving filled with genuine books. Coffee-cup in hand, Mr. Scogan was standing in front of the dummy book-shelf. Between the sips he discoursed.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Somebody Else Goes Berrying"
 weight: 19
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-20.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-20.html"
 ---
 
 Isn't it funny how two people will often think of the same thing at the same time, and neither one know that the other is thinking of it? That is just what happened the day that Buster Bear first thought of going berrying. While he was walking around in the Green Forest, talking to himself about how hungry he was for some berries and how sure he was that there must be some up in the Old Pasture, some one else was thinking about berries and about the Old Pasture too.

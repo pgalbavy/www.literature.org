@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-20.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-20.html"
 ---
 
 Wall, we got the scrapin' done after three hard and arjous days' works, and then we preceeded to clean the house. The day we set to clean the meetin' house prior and before paperin', we all met in good season, for we knew the hardships of the job in front of us, and we all felt that we wanted to tackle it with our full strengths.

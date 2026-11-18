@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - \u0026quot;He Is The King\u0026quot;"
 weight: 3
-aliases:
-  - "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-02.html"
+url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-02.html"
 ---
 
 The bells pealed at intervals throughout the day in at least five villages over which his Grace of Osmonde was lord--at Roxholm they pealed, at Marlowell Dane, at Paulyn Dorlocke, at Mertounhurst, at Camylott--and in each place, when night fell, bonfires were lighted and oxen roasted whole, while there were dancing and fiddling and drinking of ale on each village green.

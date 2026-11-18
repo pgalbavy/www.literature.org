@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Cartouche’s Past"
 weight: 11
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-10.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-10.html"
 ---
 
 *THE* following day Théophraste and Marceline returned to the quiet life of the Villa Flots-d’Azure. Théophraste had not mentioned a word of the discovery, and his wife refrained from questioning him. Marceline knew nothing yet of the terrible discovery. Théophraste’s face was full of consternation, and it was evident to Marceline that he had terrible things on his mind.

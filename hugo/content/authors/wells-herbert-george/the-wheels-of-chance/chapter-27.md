@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - The Awakening Of Mr. Hoopdriver"
 weight: 27
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-27.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-27.html"
 ---
 
 Mr. Hoopdriver stirred on his pillow, opened his eyes, and, staring unmeaningly, yawned. The bedclothes were soft and pleasant. He turned the peaked nose that overrides the insufficient moustache, up to the ceiling, a pinkish projection over the billow of white. You might see it wrinkle as he yawned again, and then became quiet. So matters remained for a space. Very slowly recollection returned to him. Then a shock of indeterminate brown hair appeared, and first one watery grey eye a-wondering, and then two ; the bed upheaved, and you had him, his thin neck projecting abruptly from the clothes he held about him, his face staring about the room. He held the clothes about him, I hope I may explain, because his night-shirt was at Bognor in an American-cloth packet, derelict. He yawned a third time, rubbed his eyes, smacked his lips. He was recalling almost everything now. The pursuit, the hotel, the tremulous daring of his entry, the swift adventure of the inn yard, the moonlight--Abruptly he threw the clothes back and rose into a sitting position on the edge of the bed. Without was the noise of shutters being unfastened and doors unlocked, and the passing of hoofs and wheels in the street. He looked at his watch. Half-past six. He surveyed the sumptuous room again.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Secret Key"
 weight: 7
-aliases:
-  - "/authors/alcott-louisa-may/the-mysterious-key-and-what-it-opened/chapter-07.html"
+url: "/authors/alcott-louisa-may/the-mysterious-key-and-what-it-opened/chapter-07.html"
 ---
 
 "Is Lady Trevlyn at home, Bedford?" asked Paul, as he presented himself at an early hour next day, wearing the keen, stern expression which made him look ten years older than he was.

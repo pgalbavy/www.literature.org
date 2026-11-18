@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Upstairs And Downstairs"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-05.html"
 ---
 
 Profound stillness followed the despairing exclamation of Mrs. Shirril, who believed that her nephew had gone to his death while trying to steal away from the cabin in which his friends were held at bay by the Comanches.

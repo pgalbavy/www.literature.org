@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Little Something About Eggs"
 weight: 14
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-14.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-14.html"
 ---
 
 "An egg," says Jimmy Skunk, "is good;  

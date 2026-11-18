@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Dignity Of The Law"
 weight: 4
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-04.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-04.html"
 ---
 
 The two flying machines, the Louise, with Jimmie and Carl on board, and the Bertha, with Ben in charge, flew swiftly over the great city, lying before them with its lights stretching out like strings of beads, crossed the North river with its fleets of vessels, and passed on over New Jersey, heading directly for the west.

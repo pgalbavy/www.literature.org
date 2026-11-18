@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - The End Of The Ghost's Love Story"
 weight: 27
-aliases:
-  - "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-26.html"
+url: "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-26.html"
 ---
 
 The previous chapter marks the conclusion of the written narrative which the Persian left behind him.

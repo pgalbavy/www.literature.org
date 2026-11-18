@@ -1,8 +1,7 @@
 ---
 title: "Book 13 - Chapter 13"
 weight: 292
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-13-chapter-13.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-13-chapter-13.html"
 ---
 
 The French evacuation began on the night between the sixth and seventh of October: kitchens and sheds were dismantled, carts loaded, and troops and baggage trains started.

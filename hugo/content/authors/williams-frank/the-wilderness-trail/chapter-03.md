@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - A Mysterious Message"
 weight: 3
-aliases:
-  - "/authors/williams-frank/the-wilderness-trail/chapter-03.html"
+url: "/authors/williams-frank/the-wilderness-trail/chapter-03.html"
 ---
 
 "What do you know about this murder?"

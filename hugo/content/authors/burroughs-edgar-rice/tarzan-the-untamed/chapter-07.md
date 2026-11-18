@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - When Blood Told"
 weight: 7
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-07.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-07.html"
 ---
 
 Tarzan of the Apes was disgusted. He had had the Ger- man spy, Bertha Kircher, in his power and had left her unscathed. It is true that he had slain Hauptmann Fritz Schneider, that Underlieutenant von Goss had died at his hands, and that he had otherwise wreaked vengeance upon the men of the German company who had murdered, pillaged, and raped at Tarzan's bungalow in the Waziri country. There was still another officer to be accounted for, but him he could not find. It was Lieutenant Obergatz he still sought, though vainly, for at last he learned that the man had been sent upon some special mission, whether in Africa or back to Europe Tarzan's informant either did not know or would not divulge.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Flight"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-13.html"
 ---
 
 Ned had enough sense not to undertake to run away from the Apaches until there was a reasonably good chance of succeeding. He had played the game of lameness so well that he had secured considerable liberty thereby; and when, therefore, he went limping beyond the further limit of the Indians, no one supposed he had any other purpose in view than to obtain a better place in which to help himself to water. The trees among which he entered were almost without undergrowth, and, fortunately, were in exactly the opposite direction from where the mustangs were grazing. This left the way entirely open for him to do his utmost in the way of his dash for freedom. It may seem to have been unfortunate in the one thing, that it caused the lad to go away without his horse; but he would have left the latter had he been given his chance, for he believed that while the trail of the animal could be followed without trouble, and might secure his being run to the ground in the end, yet he could readily find the means of hiding his own footsteps from the most skillful of the Apaches.

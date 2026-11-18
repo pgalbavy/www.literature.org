@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A Desperate Venture"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-04.html"
 ---
 
 The family of Texans were not the ones to indulge in sentimentality or useless speculations when action was demanded. The first feeling of amazement following Avon's announcement of his resolution quickly passed, but his uncle deemed it his duty to impress upon him the desperate nature of his scheme.

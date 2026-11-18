@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 14"
 weight: 138
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-14.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-14.html"
 ---
 
 Levin had been married three months. He was happy, but not at all in the way he had expected to be. At every step he found his former dreams disappointed, and new, unexpected surprises of happiness. He was happy; but on entering upon family life he saw at every step that it was utterly different from what he had imagined. At every step he experienced what a man would experience who, after admiring the smooth, happy course of a little boat on a lake, should get himself into that little boat. He saw that it was not all sitting still, floating smoothly; that one had to think too, not for an instant to forget where one was floating; and that there was water under one, and that one must row; and that his unaccustomed hands would be sore; and that it was only to look at it that was easy; but that doing it, though very delightful, was very difficult.

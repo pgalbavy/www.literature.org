@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Tickling A Nose"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-06.html"
 ---
 
 Old Mr. Crow did not want to stay near the brook to talk with Peter Mink. Calling to Jolly Robin to follow him, he flapped his way to the edge of the woods and sat in a tree overlooking the pasture.

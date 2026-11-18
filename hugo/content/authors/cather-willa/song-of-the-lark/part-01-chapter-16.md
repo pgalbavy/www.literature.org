@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 16"
 weight: 16
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-01-chapter-16.html"
+url: "/authors/cather-willa/song-of-the-lark/part-01-chapter-16.html"
 ---
 
 The pleasantest experience Thea had that summer was a trip that she and her mother made to Denver in Ray Kennedy's caboose. Mrs. Kronborg had been looking forward to this excursion for a long while, but as Ray never knew at what hour his freight would leave Moonstone, it was difficult to arrange. The call-boy was as likely to summon him to start on his run at twelve o'clock midnight as at twelve o'clock noon. The first week in June started out with all the scheduled trains running on time, and a light freight business. Tuesday evening Ray, after consulting with the dispatcher, stopped at the Kronborgs' front gate to tell Mrs. Kronborg--who was helping Tillie water the flowers--that if she and Thea could be at the depot at eight o'clock the next morning, he thought he could promise them a pleasant ride and get them into Denver before nine o'clock in the evening. Mrs. Kronborg told him cheerfully, across the fence, that she would “take him up on it,” and Ray hurried back to the yards to scrub out his car.

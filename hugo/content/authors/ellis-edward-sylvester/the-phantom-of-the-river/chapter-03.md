@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Halt In The Woods"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-03.html"
 ---
 
 The appearance of Jethro Juggens surprised Boone and Kenton as they sat on the fallen tree, for they were looking for nothing of the kind. When he announced that he was the bearer of important tidings, he naturally became an object of increased interest, for the fate of the little party of pioneers was the problem that the two great rangers were trying to solve.

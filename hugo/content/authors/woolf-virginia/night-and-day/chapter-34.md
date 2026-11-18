@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 34
-aliases:
-  - "/authors/woolf-virginia/night-and-day/chapter-34.html"
+url: "/authors/woolf-virginia/night-and-day/chapter-34.html"
 ---
 
 The lamps were lit; their luster reflected itself in the polished wood; good wine was passed round the dinner-table; before the meal was far advanced civilization had triumphed, and Mr. Hilbery presided over a feast which came to wear more and more surely an aspect, cheerful, dignified, promising well for the future. To judge from the expression in Katharine’s eyes it promised something—but he checked the approach sentimentality. He poured out wine; he bade Denham help himself.

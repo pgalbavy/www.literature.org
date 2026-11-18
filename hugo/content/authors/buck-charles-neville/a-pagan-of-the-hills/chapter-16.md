@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-16.html"
+url: "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-16.html"
 ---
 
 Nothing had been heard of any Ku-Klux operations since Alexander's adventure, and even of that episode no unclean circulated story had gone abroad. Those who had worn the black masks were not apt to talk overmuch, and those who had made up Bud's force were for quite different reasons equally discreet. Since Alexander had won through safe and unrobbed, those who had been, in a fashion, her clansman, had few outstanding grudges to repay. Jack Halloway, for example, had come with a satisfied heart out of the baggage-room, by way of the wrecked telegraph office. For him the matter was concluded, save that he had made three enemies who would nurse a malignant grievance and seek, some day, to requite it with the ambushed rifle. The telegraph operator had altogether disappeared from the country, and his two immediate confederates, who were "branch-water men" dwelling in some remote pocket of the hills, had withdrawn to their thicketed abodes.

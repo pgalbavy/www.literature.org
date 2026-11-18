@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/cooper-courtney-ryley/the-crosscut/chapter-23.html"
+url: "/authors/cooper-courtney-ryley/the-crosscut/chapter-23.html"
 ---
 
 Hardly realizing what he was doing or why he was doing it, Fairchild seized Anita in his arms, and raising her to his breast as though she were a child, rushed out through the cross-cut and along the cavern to the fissure, there to find Harry awaiting them.

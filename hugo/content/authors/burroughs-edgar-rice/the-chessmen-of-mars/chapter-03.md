@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-03.html"
+url: "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-03.html"
 ---
 
 ABOVE the roof of the palace that housed the Jed of Gathol and his entourage, the cruiser Vanator tore at her stout moorings. The groaning tackle bespoke the mad fury of the gale, while the worried faces of those members of the crew whose duties demanded their presence on the straining craft gave corroborative evidence of the gravity of the situation. Only stout lashings prevented these men from being swept from the deck, while those upon the roof below were constantly compelled to cling to rails and stanchions to save themselves from being carried away by each new burst of meteoric fury. Upon the prow of the Vanator was painted the device of Gathol, but no pennants were displayed in the upper works since the storm had carried away several in rapid succession, just as it seemed to the watching men that it must carry away the ship itself. They could not believe that any tackle could withstand for long this Titanic force. To each of the twelve lashings clung a brawny warrior with drawn short-sword. Had but a single mooring given to the power of the tempest eleven short-swords would have cut the others; since, partially moored, the ship was doomed, while free in the tempest it stood at least some slight chance for life.

@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 6 - The Prince Delivers A Lecture On Marriage, With Practical Illustrations Of Divorce"
 weight: 12
-aliases:
-  - "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-06.html"
+url: "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-06.html"
 ---
 
 With what a world of excellent intentions Otto entered his wife’s cabinet! how fatherly, how tender! how morally affecting were the words he had prepared! Nor was Seraphina unamiably inclined. Her usual fear of Otto as a marplot in her great designs was now swallowed up in a passing distrust of the designs themselves. For Gondremark, besides, she had conceived an angry horror. In her heart she did not like the Baron. Behind his impudent servility, behind the devotion which, with indelicate delicacy, he still forced on her attention, she divined the grossness of his nature. So a man may be proud of having tamed a bear, and yet sicken at his captive’s odour. And above all, she had certain jealous intimations that the man was false and the deception double. True, she falsely trifled with his love; but he, perhaps, was only trifling with her vanity. The insolence of his late mimicry, and the odium of her own position as she sat and watched it, lay besides like a load upon her conscience. She met Otto almost with a sense of guilt, and yet she welcomed him as a deliverer from ugly things.

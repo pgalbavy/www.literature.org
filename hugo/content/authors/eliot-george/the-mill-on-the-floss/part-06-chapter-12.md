@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 12 - A Family Party"
 weight: 51
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-06-chapter-12.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-06-chapter-12.html"
 ---
 
 Maggie left her good aunt Gritty at the end of the week, and went to Garum Firs to pay her visit to aunt Pullet according to agreement. In the mean time very unexpected things had happened, and there was to be a family party at Garum to discuss and celebrate a change in the fortunes of the Tullivers, which was likely finally to carry away the shadow of their demerits like the last limb of an eclipse, and cause their hitherto obscured virtues to shine forth in full-rounded splendor. It is pleasant to know that a new ministry just come into office are not the only fellow-men who enjoy a period of high appreciation and full-blown eulogy; in many respectable families throughout this realm, relatives becoming creditable meet with a similar cordiality of recognition, which in its fine freedom from the coercion of any antecedents, suggests the hopeful possibility that we may some day without any notice find ourselves in full millennium, with cockatrices who have ceased to bite, and wolves that no longer show their teeth with any but the blandest intentions.

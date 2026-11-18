@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - \u0026quot;Hook Or Me This Time\u0026quot;"
 weight: 15
-aliases:
-  - "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-15.html"
+url: "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-15.html"
 ---
 
 Odd things happen to all of us on our way through life without our noticing for a time that they have happened. Thus, to take an instance, we suddenly discover that we have been deaf in one ear for we don't know how long, but, say, half an hour. Now such an experience had come that night to Peter. When last we saw him he was stealing across the island with one finger to his lips and his dagger at the ready. He had seen the crocodile pass by without noticing anything peculiar about it, but by and by he remembered that it had not been ticking. At first he thought this eerie, but soon concluded rightly that the clock had run down.

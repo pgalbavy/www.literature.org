@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/baum-l-frank/the-magic-of-oz/chapter-06.html"
+url: "/authors/baum-l-frank/the-magic-of-oz/chapter-06.html"
 ---
 
 When Cap'n Bill and Trot and the Glass Cat had started for the hidden island in the far-off river to get the Magic Flower, Dorothy wondered again what she could give Ozma on her birthday. She met the Patchwork Girl and said:

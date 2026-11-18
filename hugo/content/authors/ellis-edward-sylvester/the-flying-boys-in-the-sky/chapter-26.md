@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - The Search Renewed"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-26.html"
 ---
 
 Harvey Hamilton was in the middle of an odd dream, in which a big Irishman was swinging a tremendous hammer and bringing it down on the top of his head with every stroke. The sentiment of wonder is always absent in the visions which come to us in sleep, no matter how incongruous they may be, but the youth came very near feeling surprised at the thickness of a skull that could withstand so terrific attacks.

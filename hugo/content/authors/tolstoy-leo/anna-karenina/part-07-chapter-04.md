@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 4"
 weight: 193
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-04.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-04.html"
 ---
 
 Lvov, the husband of Natalia, Kitty's sister, had spent all his life in foreign capitals, where he had been educated, and had been in the diplomatic service.

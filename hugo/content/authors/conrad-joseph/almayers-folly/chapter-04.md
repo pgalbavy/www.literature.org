@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/conrad-joseph/almayers-folly/chapter-04.html"
+url: "/authors/conrad-joseph/almayers-folly/chapter-04.html"
 ---
 
 That year, towards the breaking up of the south-west monsoon, disquieting rumours reached Sambir. Captain Ford, coming up to Almayer's house for an evening's chat, brought late numbers of the *Straits Times* giving the news of Acheen war and of the unsuccessful Dutch expedition. The Nakhodas of the rare trading praus ascending the river paid visits to Lakamba, discussing with that potentate the unsettled state of affairs, and wagged their heads gravely over the recital of Orang Blanda exaction, severity, and general tyranny, as exemplified in the total stoppage of gunpowder trade and the rigorous visiting of all suspicious craft trading in the straits of Macassar. Even the loyal soul of Lakamba was stirred into a state of inward discontent by the withdrawal of his license for powder and by the abrupt confiscation of one hundred and fifty barrels of that commodity by the gunboat *Princess Amelia*, when, after a hazardous voyage, it had almost reached the mouth of the river. The unpleasant news was given him by Reshid, who, after the unsuccessful issue of his matrimonial projects, had made a long voyage amongst the islands for trading purposes; had bought the powder for his friend, and was overhauled and deprived of it on his return when actually congratulating himself on his acuteness in avoiding detection. Reshid's wrath was principally directed against Almayer, whom he suspected of having notified the Dutch authorities of the desultory warfare carried on by the Arabs and the Rajah with the up-river Dyak tribes.

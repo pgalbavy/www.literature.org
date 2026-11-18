@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Hussy"
 weight: 2
-aliases:
-  - "/authors/london-jack/the-red-one/chapter-02.html"
+url: "/authors/london-jack/the-red-one/chapter-02.html"
 ---
 
 THERE are some stories that have to be true - the sort that cannot be fabricated by a ready fiction-reckoner. And by the same token there are some men with stories to tell who cannot be doubted. Such a man was Julian Jones. Although I doubt if the average reader of this will believe the story Julian Jones told me. Nevertheless I believe it. So thoroughly am I convinced of its verity that I am willing, nay, eager, to invest capital in the enterprise and embark personally on the adventure to a far land.

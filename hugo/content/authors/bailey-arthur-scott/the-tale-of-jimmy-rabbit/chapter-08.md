@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Great Race"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-08.html"
 ---
 
 On the morning of his great race with Mr. Turtle, Jimmy Rabbit was at the creek bright and early. He brought his two brothers with him, to see the fun. And he found that there were others, too, who had heard of the sport and had come to enjoy it. Frisky Squirrel was there, and Billy Woodchuck, and Fatty Coon. Then there was old Mr. Crow, who was always on hand whenever a crowd gathered. And perhaps the pleasantest and most interested of all was Tommy Fox.

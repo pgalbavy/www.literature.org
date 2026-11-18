@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Parting Company"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-26.html"
 ---
 
 IN fact, Mul-tal-la had made inquiries for his friend, and was told that he was absent on a hunt, and there was no saying when he would return. He was Amokeat, or the Man-who-never-Sleeps, and one of the leading chiefs of the Nez Perces.

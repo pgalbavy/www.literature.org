@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 8"
 weight: 23
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-02-chapter-08.html"
+url: "/authors/london-jack/valley-of-the-moon/book-02-chapter-08.html"
 ---
 
 Saxon went about her housework greatly troubled. She no longer devoted herself to the making of pretties. The materials cost money, and she did not dare. Bert's thrust had sunk home. It remained in her quivering consciousness like a shaft of steel that ever turned and rankled. She and Billy were responsible for this coming young life. Could they be sure, after all, that they could adequately feed and clothe it and prepare it for its way in the world? Where was the guaranty? She remembered, dimly, the blight of hard times in the past, and the plaints of fathers and mothers in those days returned to her with a new significance. Almost could she understand Sarah's chronic complaining.

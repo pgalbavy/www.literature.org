@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Knowledge By Acquaintance And Knowledge By Description"
 weight: 6
-aliases:
-  - "/authors/russell-bertrand/the-problems-of-philosophy/chapter-05.html"
+url: "/authors/russell-bertrand/the-problems-of-philosophy/chapter-05.html"
 ---
 
 In the preceding chapter we saw that there are two sorts of knowledge: knowledge of things, and knowledge of truths. In this chapter we shall be concerned exclusively with knowledge of things, of which in turn we shall have to distinguish two kinds. Knowledge of things, when it is of the kind we call knowledge by *acquaintance*, is essentially simpler than any knowledge of truths, and logically independent of knowledge of truths, though it would be rash to assume that human beings ever, in fact, have acquaintance with things without at the same time knowing some truth about them. Knowledge of things by *description*, on the contrary, always involves, as we shall find in the course of the present chapter, some knowledge of truths as its source and ground. But first of all we must make clear what we mean by 'acquaintance' and what we mean by 'description'.

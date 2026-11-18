@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-03.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-03.html"
 ---
 
 For a moment Monty stood as though dazed. Then the excitement which had shone in his face slowly subsided. He stood quite silent, muttering softly to himself, his eyes fixed upon Trent.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-15.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-15.html"
 ---
 
 TWO MORE GERMAN SUBMARINES SUNK WITH ALL HANDS

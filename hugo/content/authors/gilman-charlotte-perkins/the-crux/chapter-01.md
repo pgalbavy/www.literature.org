@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Back Way"
 weight: 2
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-crux/chapter-01.html"
+url: "/authors/gilman-charlotte-perkins/the-crux/chapter-01.html"
 ---
 
 The "Foote Girls" were bustling along Margate Street with an air of united purpose that was unusual with them. Miss Rebecca wore her black silk cloak, by which it might be seen that "a call" was toward. Miss Jessie, the thin sister, and Miss Sallie, the fat one, were more hastily attired. They were persons of less impressiveness than Miss Rebecca, as was tacitly admitted by their more familiar nicknames, a concession never made by the older sister.

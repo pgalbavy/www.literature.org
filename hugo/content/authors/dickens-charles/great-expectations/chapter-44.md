@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44"
 weight: 44
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-44.html"
+url: "/authors/dickens-charles/great-expectations/chapter-44.html"
 ---
 
 IN the room where the dressing-table stood, and where the wax candles burnt on the wall, I found Miss Havisham and Estella; Miss Havisham seated on a settee near the fire, and Estella on a cushion at her feet. Estella was knitting, and Miss Havisham was looking on. They both raised their eyes as I went in, and both saw an alteration in me. I derived that, from the look they interchanged.

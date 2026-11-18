@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Stepping-Stones"
 weight: 5
-aliases:
-  - "/authors/alcott-louisa-may/little-men/chapter-04.html"
+url: "/authors/alcott-louisa-may/little-men/chapter-04.html"
 ---
 
 When Nat went into school on Monday morning, he quaked inwardly, for now he thought he should have to display his ignorance before them all. But Mr. Bhaer gave him a seat in the deep window, where he could turn his back on the others, and Franz heard him say his lessons there, so no one could hear his blunders or see how he blotted his copybook. He was truly grateful for this, and toiled away so diligently that Mr. Bhaer said, smiling, when he saw his hot face and inky fingers:

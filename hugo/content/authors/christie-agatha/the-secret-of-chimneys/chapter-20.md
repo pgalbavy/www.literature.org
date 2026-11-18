@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Battle And Anthony Confer"
 weight: 20
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-20.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-20.html"
 ---
 
 Anthony said nothing. He continued to stare out of the window. Superintendent Battle looked for some time at his motionless back.

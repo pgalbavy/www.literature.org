@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 15"
 weight: 49
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-03-chapter-15.html"
+url: "/authors/london-jack/valley-of-the-moon/book-03-chapter-15.html"
 ---
 
 Ever north, through a fat and flourishing rejuvenated land, stopping at the towns of Willows, Red Bluff and Redding, crossing the counties of Colusa, Glenn, Tehama, and Shasta, went the spruce wagon drawn by the dappled chestnuts with cream-colored manes and tails. Billy picked up only three horses for shipment, although he visited many farms; and Saxon talked with the women while he looked over the stock with the men. And Saxon grew the more convinced that the valley she sought lay not there.

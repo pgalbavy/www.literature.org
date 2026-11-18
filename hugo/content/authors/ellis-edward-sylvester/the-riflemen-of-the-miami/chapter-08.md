@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Flight"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/the-riflemen-of-the-miami/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/the-riflemen-of-the-miami/chapter-08.html"
 ---
 
 The pass was steep and rugged,  

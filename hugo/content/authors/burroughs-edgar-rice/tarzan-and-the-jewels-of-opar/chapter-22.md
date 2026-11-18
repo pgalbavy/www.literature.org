@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-22.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-22.html"
 ---
 
 As Tarzan let the pebbles from the recovered pouch run through his fingers, his thoughts returned to the pile of yellow ingots about which the Arabs and the Abyssinians had waged their relentless battle.

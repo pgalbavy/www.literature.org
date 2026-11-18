@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - At Fault"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-17.html"
 ---
 
 Captain Shirril was never so outwitted in all his life. With never a suspicion that the Comanche, dashing over the roof, had any other purpose than to assail him, he was holding his revolver pointed, reflecting at the same time on the blind folly of the red man in rushing to his fate, when he dropped through the scuttle and closed it after him.

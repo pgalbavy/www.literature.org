@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 19 - Lying To Mr. Emerson"
 weight: 20
-aliases:
-  - "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-19.html"
+url: "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-19.html"
 ---
 
 The Miss Alans were found in their beloved temperance hotel near Bloomsbury--a clean, airless establishment much patronized by provincial England. They always perched there before crossing the great seas, and for a week or two would fidget gently over clothes, guide-books, mackintosh squares, digestive bread, and other Continental necessaries. That there are shops abroad, even in Athens, never occurred to them, for they regarded travel as a species of warfare, only to be undertaken by those who have been fully armed at the Haymarket Stores. Miss Honeychurch, they trusted, would take care to equip herself duly. Quinine could now be obtained in tabloids; paper soap was a great help towards freshening up one’s face in the train. Lucy promised, a little depressed.

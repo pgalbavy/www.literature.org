@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Poirot Investigates"
 weight: 4
-aliases:
-  - "/authors/christie-agatha/the-mysterious-affair-at-styles/chapter-04.html"
+url: "/authors/christie-agatha/the-mysterious-affair-at-styles/chapter-04.html"
 ---
 
 The house which the Belgians occupied in the village was quite close to the park gates. One could save time by taking a narrow path through the long grass, which cut off the detours of the winding drive. So I, accordingly, went that way. I had nearly reached the lodge, when my attention was arrested by the running figure of a man approaching me. It was Mr. Inglethorp. Where had he been? How did he intend to explain his absence?

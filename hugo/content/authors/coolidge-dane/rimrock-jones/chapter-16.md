@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Tiger Lady"
 weight: 16
-aliases:
-  - "/authors/coolidge-dane/rimrock-jones/chapter-16.html"
+url: "/authors/coolidge-dane/rimrock-jones/chapter-16.html"
 ---
 
 The winter came on with its rains and soft verdure and desert shrubs bursting with bloom and, for a man who professed to know just exactly where he was at, Rimrock Jones was singularly distrait. When he cast down the glove to Whitney H. Stoddard, that glutton for punishment who had never quit yet, he had looked for something to happen. Each morning he rose up with the confident expectation of hearing that the Old Juan was jumped; but that high, domelike butte remained as lifeless as ever, without a single guard to herd the apex claim. Then he fell to watching Jepson and talking to the miners and snooping for some hidden scheme, but Jepson went ahead with his machine-like efficiency until the Tecolote began to turn out ore.

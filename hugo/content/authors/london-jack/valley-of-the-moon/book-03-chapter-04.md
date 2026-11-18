@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 4"
 weight: 38
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-03-chapter-04.html"
+url: "/authors/london-jack/valley-of-the-moon/book-03-chapter-04.html"
 ---
 
 Bill sat motionless on the edge of the bed in their little room in San Jose that night, a musing expression in his eyes.

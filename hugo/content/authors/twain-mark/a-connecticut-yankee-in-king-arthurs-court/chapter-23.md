@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Restoration of the Fountain"
 weight: 24
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-23.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-23.html"
 ---
 
 SATURDAY noon I went to the well and looked on a while. Merlin was still burning smoke-powders, and pawing the air, and muttering gibberish as hard as ever, but looking pretty down-hearted, for of course he had not started even a perspiration in that well yet. Finally I said:

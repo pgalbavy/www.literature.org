@@ -1,8 +1,7 @@
 ---
 title: "Chapter 72 - End Of The Port Wine Mystery"
 weight: 72
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-72.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-72.html"
 ---
 
 Grimaud waited till he heard the bolt grind in the lock and when he was satisfied that he was alone he slowly rose from his recumbent posture.

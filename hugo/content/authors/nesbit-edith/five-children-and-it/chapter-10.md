@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Scalps"
 weight: 10
-aliases:
-  - "/authors/nesbit-edith/five-children-and-it/chapter-10.html"
+url: "/authors/nesbit-edith/five-children-and-it/chapter-10.html"
 ---
 
 Probably the day would have been a greater success if Cyril had not been reading The Last of the Mohicans. The story was running in his head at breakfast, and as he took his third cup of tea he said dreamily, 'I wish there were Red Indians in England - not big ones, you know, but little ones, just about the right size for us to fight.'

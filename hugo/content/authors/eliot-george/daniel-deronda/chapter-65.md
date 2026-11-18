@@ -1,8 +1,7 @@
 ---
 title: "Chapter 65"
 weight: 65
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-65.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-65.html"
 ---
 
 "O, welcome, pure-eyed Faith, white-handed Hope, Thou hovering angel, girt with golden wings!" - MILTON.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Curious Sights And Doings"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-04.html"
 ---
 
 One of the incidents which made that night memorable in the life of Mike Murphy was that it brought him a compliment, the equal of which he had never received before, nor in the years to come can any similar words so touch his heart.

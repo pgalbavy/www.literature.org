@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - \"Come On!\""
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-27.html"
 ---
 
 The Esquimau's depression continued. After flinging down the few bits of wood he looked across the cavern to where the friends were huddled together, but did not speak. Then he glanced at the crevice, now so completely blocked with snow that they were protected against any more drifting in upon them.

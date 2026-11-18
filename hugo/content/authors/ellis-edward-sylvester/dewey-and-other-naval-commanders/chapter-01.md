@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Birth And Boyhood Of George Dewey"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-01.html"
 ---
 
 The name of Vermont recalls the gallant "Green Mountain Boys," who proved their sturdy patriotism not only in the Revolution, but before those stormy days broke over the land. In the colonial times the section was known as the "New Hampshire Grants," and was claimed by both New York and New Hampshire, but Vermont refused to acknowledge the authority of either, even after New York, in 1764, secured a decision in her favor from King George, and set vigorously to work to compel the settlers to pay a second time for their lands. The doughty pioneers would have none of it, and roughly handled the New York officers sent thither. In 1777 Vermont formally declared her independence and adopted a State constitution. Then, since the Revolution was on, Ethan Allen and the rest of the "Green Mountain Boys" turned in and helped whip the redcoats. That being done, Vermont again asserted her independence, compelled New York to recognize it in 1789, and she was admitted to the Union in 1791.

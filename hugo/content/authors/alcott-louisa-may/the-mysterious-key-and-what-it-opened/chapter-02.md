@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Paul"
 weight: 2
-aliases:
-  - "/authors/alcott-louisa-may/the-mysterious-key-and-what-it-opened/chapter-02.html"
+url: "/authors/alcott-louisa-may/the-mysterious-key-and-what-it-opened/chapter-02.html"
 ---
 
 "Come, child, the dew is falling, and it is time we went in."

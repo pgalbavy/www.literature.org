@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 26"
 weight: 215
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-26.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-26.html"
 ---
 
 Never before had a day been passed in quarrel. To-day was the first time. And this was not a quarrel. It was the open acknowledgment of complete coldness. Was it possible to glance at her as he had glanced when he came into the room for the guarantees.--to look at her, see her heart was breaking with despair, and go out without a word with that face of callous composure? He was not merely cold to her, he hated her because he loved another woman--that was clear.

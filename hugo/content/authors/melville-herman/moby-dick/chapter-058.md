@@ -1,8 +1,7 @@
 ---
 title: "Chapter 58 - Brit"
 weight: 58
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-058.html"
+url: "/authors/melville-herman/moby-dick/chapter-058.html"
 ---
 
 Steering north-eastward from the Crozetts, we fell in with vast meadows of brit, the minute, yellow substance, upon which the Right Whale largely feeds. For leagues and leagues it undulated round us, so that we seemed to be sailing through boundless fields of ripe and golden wheat.

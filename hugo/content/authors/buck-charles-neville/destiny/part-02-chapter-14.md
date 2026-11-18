@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 14"
 weight: 14
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-14.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-14.html"
 ---
 
 From the Plaza upward, the blank stare of the avenue was awakening into renewed signs of habitation. Burglar-proof doors had come down and boarded windows had yielded to curtained sashes. Already in the park the trees were turning. Banners of crimson, yellow and burgundy flaunted where the foliage had been sunburned and heat-corroded. The walks and Mall had for scorching weeks been a breathing refuge, and the sheep-pasture a sleeping place, for shirt-sleeved men who panted like dogs. Haggard women and sunken-cheeked children--all heat-fagged and exhausted--had held possession; but now the bridle-path echoed to hoof-beats, and smartly togged equestrians galloped there, while along the driveways droned a purr of motors.

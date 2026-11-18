@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Toreador Appears"
 weight: 9
-aliases:
-  - "/authors/buck-charles-neville/the-lighted-match/chapter-09.html"
+url: "/authors/buck-charles-neville/the-lighted-match/chapter-09.html"
 ---
 
 Slowly, with a gesture almost subconscious, Benton slipped an unopened envelope from his breast pocket; turned it over; looked at it and slipped it back, still unopened. Then, leaning heavily on his elbow, he gazed off, frowning, over the rail of the yacht's forward deck.

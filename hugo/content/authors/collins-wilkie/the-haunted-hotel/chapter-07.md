@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/collins-wilkie/the-haunted-hotel/chapter-07.html"
+url: "/authors/collins-wilkie/the-haunted-hotel/chapter-07.html"
 ---
 
 Some days later, the insurance offices (two in number) received the formal announcement of Lord Montbarry's death, from her ladyship's London solicitors. The sum insured in each office was five thousand pounds--on which one year's premium only had been paid. In the face of such a pecuniary emergency as this, the Directors thought it desirable to consider their position. The medical advisers of the two offices, who had recommended the insurance of Lord Montbarry's life, were called into council over their own reports. The result excited some interest among persons connected with the business of life insurance. Without absolutely declining to pay the money, the two offices (acting in concert) decided on sending a commission of inquiry to Venice, 'for the purpose of obtaining further information.'

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Prisoner"
 weight: 5
-aliases:
-  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-05.html"
+url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-05.html"
 ---
 
 When Vernon looked back on that interview he was honestly pleased with himself. He had been patient, he had been kind even. In the end he had been positively chivalrous. He had hardly allowed himself to be ruffled for an instant, but had met the bitter flow of Mr. Underwood's biblical language with perfect courtesy.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Ben Weatherstaff"
 weight: 21
-aliases:
-  - "/authors/hodgson-burnett-frances/the-secret-garden/chapter-21.html"
+url: "/authors/hodgson-burnett-frances/the-secret-garden/chapter-21.html"
 ---
 
 One of the strange things about living in the world is that it is only now and then one is quite sure one is going to live forever and ever and ever. One knows it sometimes when one gets up at the tender solemn dawn-time and goes out and stands alone and throws one’s head far back and looks up and up and watches the pale sky slowly changing and flushing and marvelous unknown things happening until the East almost makes one cry out and one’s heart stands still at the strange unchanging majesty of the rising of the sun—which has been happening every morning for thousands and thousands and thousands of years. One knows it then for a moment or so. And one knows it sometimes when one stands by oneself in a wood at sunset and the mysterious deep gold stillness slanting through and under the branches seems to be saying slowly again and again something one cannot quite hear, however much one tries. Then sometimes the immense quiet of the dark blue at night with millions of stars waiting and watching makes one sure; and sometimes a sound of far-off music makes it true; and sometimes a look in someone’s eyes.

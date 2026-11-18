@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-16.html"
 ---
 
 Señorita Estacardo drew her chair beside the snowy couch and faced her friend, who did the same regarding her. Reaching out her hand, she lovingly inclosed that of Miss Starland, just as she used to do in the dear old days at the Seminary. The American young woman leaned forward and kissed the dark cheek, and for a minute they sat without speaking. Then with the black eyes gazing into the blue ones, the owner of the former said in a voice, scarcely above a whisper:

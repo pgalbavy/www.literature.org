@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Barons Embassy"
 weight: 8
-aliases:
-  - "/authors/carroll-lewis/sylvie-and-bruno/chapter-07.html"
+url: "/authors/carroll-lewis/sylvie-and-bruno/chapter-07.html"
 ---
 
 I was following the Vice-Warden, but, on second thoughts, went after my Lady, being curious to see how she would manage to keep the children out of sight.

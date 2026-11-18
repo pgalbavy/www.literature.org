@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Another Arrival"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-15.html"
 ---
 
 It was the arrival of Will Burton in charge of his two captors that broke in upon the interview between George and the Wyandot, who was asking him a number of questions shaped in very good English.

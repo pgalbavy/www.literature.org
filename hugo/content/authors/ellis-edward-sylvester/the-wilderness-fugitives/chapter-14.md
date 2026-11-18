@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Diamond Cut Diamond"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-14.html"
 ---
 
 All that could be done for a time by the fugitives was to maintain their position and remain as quiet as the grave until the Indians moved from their immediate vicinity. The prowling Iroquois were keen-witted, and although they may have been careless at first, yet they were on the lookout for the slightest indication of their enemies. Consequently, the least movement at that time would have been pretty sure to tell them that the whites, whom they would suppose were hiding somewhere in the woods, were really close at hand, and within their power. Every one of the fugitives realized this, and did not stir while the consultation was going on.

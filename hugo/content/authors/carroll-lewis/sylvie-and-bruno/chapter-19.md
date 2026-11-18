@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - How to make a Phlizz"
 weight: 20
-aliases:
-  - "/authors/carroll-lewis/sylvie-and-bruno/chapter-19.html"
+url: "/authors/carroll-lewis/sylvie-and-bruno/chapter-19.html"
 ---
 
 The week passed without any further communication with the 'Hall,' as Arthur was evidently fearful that we might 'wear out our welcome'; but when, on Sunday morning, we were setting out for church, I gladly agreed to his proposal to go round and enquire after the Earl, who was said to be unwell.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 20"
 weight: 20
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-01-chapter-20.html"
+url: "/authors/cather-willa/song-of-the-lark/part-01-chapter-20.html"
 ---
 
 On Monday morning, the day after Ray Kennedy's funeral, Dr. Archie called at Mr. Kronborg's study, a little room behind the church. Mr. Kronborg did not write out his sermons, but spoke from notes jotted upon small pieces of cardboard in a kind of shorthand of his own. As sermons go, they were not worse than most. His conventional rhetoric pleased the majority of his congregation, and Mr. Kronborg was generally regarded as a model preacher. He did not smoke, he never touched spirits. His indulgence in the pleasures of the table was an endearing bond between him and the women of his congregation. He ate enormously, with a zest which seemed incongruous with his spare frame.

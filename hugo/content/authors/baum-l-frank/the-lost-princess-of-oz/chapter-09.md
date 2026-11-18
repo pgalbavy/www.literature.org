@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-09.html"
+url: "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-09.html"
 ---
 
 And now the Patchwork Girl came dancing out of the wall again. "Come on!" she called. "It isn't there.

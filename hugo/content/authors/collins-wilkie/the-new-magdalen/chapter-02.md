@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Magdalen--In Modern Times"
 weight: 2
-aliases:
-  - "/authors/collins-wilkie/the-new-magdalen/chapter-02.html"
+url: "/authors/collins-wilkie/the-new-magdalen/chapter-02.html"
 ---
 
 "WHEN your mother was alive were you ever out with her after nightfall in the streets of a great city?"

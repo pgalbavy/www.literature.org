@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Miss Holmes"
 weight: 3
-aliases:
-  - "/authors/haggard-h-rider/the-ivory-child/chapter-03.html"
+url: "/authors/haggard-h-rider/the-ivory-child/chapter-03.html"
 ---
 
 Two and a half hours passed by, most of which time I spent lying down to rest and get rid of a headache caused by the continual, rapid firing and the roar of the gale, or both; also in rubbing my shoulder with ointment, for it was sore from the recoil of the guns. Then Scroope appeared, as, being unable to find my way about the long passages of that great old castle, I had asked him to do, and we descended together to the large drawing-room.

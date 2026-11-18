@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Strange Character"
 weight: 14
-aliases:
-  - "/authors/leblanc-maurice/the-golden-triangle/chapter-14.html"
+url: "/authors/leblanc-maurice/the-golden-triangle/chapter-14.html"
 ---
 
 It was not yet exactly death. In his present condition of agony, what lingered of Patrice's consciousness mingled, as in a nightmare, the life which he knew with the imaginary world in which he now found himself, the world which was that of death.

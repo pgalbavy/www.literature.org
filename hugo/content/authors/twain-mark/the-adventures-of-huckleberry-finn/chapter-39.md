@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39"
 weight: 39
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-39.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-39.html"
 ---
 
 IN the morning we went up to the village and bought a wire rat-trap and fetched it down, and unstopped the best rat-hole, and in about an hour we had fifteen of the bulliest kind of ones; and then we took it and put it in a safe place under Aunt Sally's bed. But while we was gone for spiders little Thomas Franklin Benjamin Jefferson Elexander Phelps found it there, and opened the door of it to see if the rats would come out, and they did; and Aunt Sally she come in, and when we got back she was a-standing on top of the bed raising Cain, and the rats was doing what they could to keep off the dull times for her. So she took and dusted us both with the hickry, and we was as much as two hours catching another fifteen or sixteen, drat that meddlesome cub, and they warn't the likeliest, nuther, because the first haul was the pick of the flock. I never see a likelier lot of rats than what that first haul was.

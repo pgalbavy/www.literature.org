@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 7 - The Fight For The Gold"
 weight: 16
-aliases:
-  - "/authors/leblanc-maurice/the-tremendous-event/part-02-chapter-07.html"
+url: "/authors/leblanc-maurice/the-tremendous-event/part-02-chapter-07.html"
 ---
 
 "Silence!" whispered Antonio, who divined Simon's feeling of revolt.

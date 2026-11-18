@@ -1,8 +1,7 @@
 ---
 title: "Chapter 60 - The Telegraph"
 weight: 60
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-60.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-60.html"
 ---
 
 M. and Madame de Villefort found on their return that the Count of Monte Cristo, who had come to visit them in their absence, had been ushered into the drawing-room, and was still awaiting them there. Madame de Villefort, who had not yet sufficiently recovered from her late emotion to allow of her entertaining visitors so immediately, retired to her bedroom, while the procureur, who could better depend upon himself, proceeded at once to the salon. Although M. de Villefort flattered himself that, to all outward view, he had completely masked the feelings which were passing in his mind, he did not know that the cloud was still lowering on his brow, so much so that the count, whose smile was radiant, immediately noticed his sombre and thoughtful air. "Ma foi," said Monte Cristo, after the first compliments were over, "what is the matter with you, M. de Villefort? Have I arrived at the moment when you were drawing up an indictment for a capital crime?" Villefort tried to smile. "No, count," he replied, "I am the only victim in this case. It is I who lose my cause, and it is ill-luck, obstinacy, and folly which have caused it to be decided against me."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Hundred Fold"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-05.html"
 ---
 
 All this may seem a trifling matter to the reader who does not understand the real punishment suffered by these two men, who, like all the rest of their companions, had been accustomed to the use of ardent spirits for many years. There was no deprivation which they could not have borne with less distress, but their great consolation was that both knew the penalty was fully deserved, and they would not have complained had it been made more severe.

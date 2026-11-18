@@ -1,8 +1,7 @@
 ---
 title: "chapter 17"
 weight: 999
-aliases:
-  - "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-17.html"
+url: "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-17.html"
 ---
 
 I must now tell you what had become of Button-Bright since he wandered away in the morning and got lost. This small boy, as perhaps you have discovered, was almost as destitute of nerves as the Scarecrow. Nothing ever astonished him much; nothing ever worried him or made him unhappy. Good fortune or bad fortune he accepted with a quiet smile, never complaining, whatever happened. This was one reason why Button-Bright was a favorite with all who knew him -- and perhaps it was the reason why he so often got into difficulties, or found himself lost.

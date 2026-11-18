@@ -1,8 +1,7 @@
 ---
 title: "Chapter 51"
 weight: 52
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-51.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-51.html"
 ---
 
 We will now turn to a certain still, cold, cloudy afternoon about the commencement of December, when the first fall of snow lay thinly scattered over the blighted fields and frozen roads, or stored more thickly in the hollows of the deep cart-ruts and footsteps of men and horses impressed in the now petrified mire of last month's drenching rains. I remember it well, for I was walking home from the vicarage with no less remarkable a personage than Miss Eliza Millward by my side. I had been to call upon her father, - a sacrifice to civility undertaken entirely to please my mother, not myself, for I hated to go near the house; not merely on account of my antipathy to the once so bewitching Eliza, but because I had not half forgiven the old gentleman himself for his ill opinion of Mrs. Huntingdon; for though now constrained to acknowledge himself mistaken in his former judgment, he still maintained that she had done wrong to leave her husband; it was a violation of her sacred duties as a wife, and a tempting of Providence by laying herself open to temptation; and nothing short of bodily ill-usage (and that of no trifling nature) could excuse such a step - nor even that, for in such a case she ought to appeal to the laws for protection. But it was not of him I intended to speak; it was of his daughter Eliza. Just as I was taking leave of the vicar, she entered the room, ready equipped for a walk.

@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 1"
 weight: 29
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-05-chapter-01.html"
+url: "/authors/cather-willa/o-pioneers/part-05-chapter-01.html"
 ---
 
 Ivar was sitting at a cobbler's bench in the barn, mending harness by the light of a lantern and repeating to himself the 101st Psalm. It was only five o'clock of a mid-October day, but a storm had come up in the afternoon, bringing black clouds, a cold wind and torrents of rain. The old man wore his buffalo-skin coat, and occasionally stopped to warm his fingers at the lantern. Suddenly a woman burst into the shed, as if she had been blown in, accompanied by a shower of rain-drops. It was Signa, wrapped in a man's overcoat and wearing a pair of boots over her shoes. In time of trouble Signa had come back to stay with her mistress, for she was the only one of the maids from whom Alexandra would accept much personal service. It was three months now since the news of the terrible thing that had happened in Frank Shabata's orchard had first run like a fire over the Divide. Signa and Nelse were staying on with Alexandra until winter.

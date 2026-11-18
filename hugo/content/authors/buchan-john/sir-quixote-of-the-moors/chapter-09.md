@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - I Commune With Myself"
 weight: 10
-aliases:
-  - "/authors/buchan-john/sir-quixote-of-the-moors/chapter-09.html"
+url: "/authors/buchan-john/sir-quixote-of-the-moors/chapter-09.html"
 ---
 
 Twas late afternoon when I re-entered, and ere supper was past 'twas time to retire for the night. The tension of these hours I still look back on as something altogether dreadful. Anne was quiet and gentle, unconscious of what had happened, yet with the fire of passion, I knew too well, burning in her heart. I was ill, restless, and abrupt, scarce able to speak lest I should betray my thoughts and show the war that raged in my breast.

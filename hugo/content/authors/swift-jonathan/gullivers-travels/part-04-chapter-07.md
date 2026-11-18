@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 7"
 weight: 35
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-04-chapter-07.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-04-chapter-07.html"
 ---
 
 The author’s great love of his native country. His master’s observations upon the constitution and administration of England, as described by the author, with parallel cases and comparisons. His master’s observations upon human nature.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/buck-charles-neville/the-key-to-yesterday/chapter-11.html"
+url: "/authors/buck-charles-neville/the-key-to-yesterday/chapter-11.html"
 ---
 
 Saxon denied himself the lure of the deck that evening. Though he would probably be close behind his messages in arriving, he was devoting himself to a full narration embodied in a love-letter.

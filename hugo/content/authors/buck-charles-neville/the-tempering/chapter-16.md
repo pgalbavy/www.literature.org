@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-16.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-16.html"
 ---
 
 Happy Spradling, whose father had overseen the raising of Victor McCalloway's house, was only two years younger than Boone. When he had gone away, a lad of seventeen, he had been untroubled by thoughts of girls, and she had certainly wasted no meditation upon him.

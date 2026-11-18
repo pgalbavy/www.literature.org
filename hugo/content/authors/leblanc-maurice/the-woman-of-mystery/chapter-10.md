@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - 75 Or 155?"
 weight: 10
-aliases:
-  - "/authors/leblanc-maurice/the-woman-of-mystery/chapter-10.html"
+url: "/authors/leblanc-maurice/the-woman-of-mystery/chapter-10.html"
 ---
 
 Paul Delroze anxiously turned the page, as though hoping that the plan of escape might have proved successful; and he received, as it were, a fresh shock of grief on reading the first lines, written the following morning, in an almost illegible hand:

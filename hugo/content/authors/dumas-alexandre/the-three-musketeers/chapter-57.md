@@ -1,8 +1,7 @@
 ---
 title: "Chapter 57 - Means For Classical Tragedy"
 weight: 58
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-57.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-57.html"
 ---
 
 After a moment of silence employed by Milady in observing the young man who listened to her, Milady continued her recital.

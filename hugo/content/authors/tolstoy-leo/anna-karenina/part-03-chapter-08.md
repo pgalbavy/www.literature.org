@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 8"
 weight: 77
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-03-chapter-08.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-03-chapter-08.html"
 ---
 
 Towards the end of May, when everything had been more or less satisfactorily arranged, she received her husband's answer to her complaints of the disorganized state of things in the country. He wrote begging her forgiveness for not having thought of everything before, and promised to come down at the first chance. This chance did not present itself, and till the beginning of June Darya Alexandrovna stayed alone in the country.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-22.html"
+url: "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-22.html"
 ---
 
 At a place where they came upon the ashes of a dead fire, Henry Falkins halted the command, and, accompanied by a lieutenant and Sergeant Newton Spooner, undertook some investigations of his own. It was Sergeant Spooner, led by an inborn instinct which became a compass in the woods, who discovered the thing they sought. He returned in grim silence to the officers, and led them to a small clearing in the bijuca tangle. There, roped upright to a tree, was a body wearing the uniform of a first lieutenant of United States Infantry. Newt Spooner had found the "memento." The dead man bore no bolo gashes, and the wound which had disabled him had been only a bullet through one shoulder. Yet, as the officers came near, they realized that he had not been dead when he was placed here. He had stood up, lashed against a slender palm bole, and died on his feet. Yet even that failed to account for the hideous twist of acute agony frozen on the dead features. No ordinary torture would have so stamped the dying visage of such a stoic. The large brown ants were crawling everywhere, but the full meaning of their presence was to pass unrealized until Newton Spooner attracted attention. He silently led them closer and pointed to an amber smear about the lips and nostrils of the dead man.

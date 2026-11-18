@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Words And Meaning"
 weight: 11
-aliases:
-  - "/authors/russell-bertrand/the-analysis-of-mind/chapter-10.html"
+url: "/authors/russell-bertrand/the-analysis-of-mind/chapter-10.html"
 ---
 
 The problem with which we shall be concerned in this lecture is the problem of determining what is the relation called "meaning." The word "Napoleon," we say, "means" a certain person. In saying this, we are asserting a relation between the word "Napoleon" and the person so designated. It is this relation that we must now investigate.

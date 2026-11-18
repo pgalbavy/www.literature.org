@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Adventure Of The Spectacled Roadman"
 weight: 6
-aliases:
-  - "/authors/buchan-john/the-thirty-nine-steps/chapter-05.html"
+url: "/authors/buchan-john/the-thirty-nine-steps/chapter-05.html"
 ---
 
 I sat down on the very crest of the pass and took stock of my position.

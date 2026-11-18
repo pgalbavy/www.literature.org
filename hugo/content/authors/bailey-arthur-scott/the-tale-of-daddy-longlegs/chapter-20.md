@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Lost--A Jackknife!"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-20.html"
 ---
 
 JOHNNIE GREEN couldn't find his new jackknife anywhere. Since it was the third knife Johnnie had lost that summer, anyone might think that he wouldn't have cared much, being so used to losing jackknives.

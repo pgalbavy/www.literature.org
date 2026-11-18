@@ -1,8 +1,7 @@
 ---
 title: "Chapter 119 - The Candles"
 weight: 119
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-119.html"
+url: "/authors/melville-herman/moby-dick/chapter-119.html"
 ---
 
 Warmest climes but nurse the cruellest fangs: the tiger of Bengal crouches in spiced groves of ceaseless verdure. Skies the most effulgent but basket the deadliest thunders: gorgeous Cuba knows tornadoes that never swept tame northern lands. So, too, it is, that in these resplendent Japanese seas the mariner encounters the direst of all storms, the Typhoon. It will sometimes burst from out that cloudless sky, like an exploding bomb upon a dazed and sleepy town.

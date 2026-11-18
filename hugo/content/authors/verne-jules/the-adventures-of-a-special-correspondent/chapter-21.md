@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-21.html"
+url: "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-21.html"
 ---
 
 And so it was Ki-Tsang who had just attacked the Grand Transasiatic on the plains of Gobi. The pirate of Vunnan had learned that a van containing gold and precious stones of enormous value had formed part of this train! And was there anything astonishing in that, considering that the newspapers, even those of Paris, had published the fact many days before? So Ki-Tsang had had time to prepare his attempt, and had lifted a portion of the rails, and would probably have succeeded in carrying off the treasure if Faruskiar had not brought him to his feet. That is why our hero had been so uneasy all the morning; if he had been looking out over the desert so persistently, it was because he had been warned of Ki-Tsang's plans by the last Mongol who had joined the train at Tchertchen! Under any circumstances we had now nothing to fear from Ki-Tsang. The manager of the company had done justice on the bandit—speedy justice, I admit. But we are in the midst of the deserts of Mongolia, where there are no juries as yet, which is a good thing for the Mongols.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 49"
 weight: 50
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-49.html"
+url: "/authors/haggard-h-rider/dawn/chapter-49.html"
 ---
 
 Presentiments are no doubt foolish things, and yet, at the time that Angela was speaking of hers to Mr. Fraser, a consultation was going on in a back study at Isleworth that might almost have justified it. The fire was the only light in the room, and gathered round it, talking very low, their features thrown alternately into strong light and dark shadow, were George Caresfoot and Sir John and Lady Bellamy. It was evident from the strong expression of interest, almost of excitement, on their faces that they were talking of some matter of great importance.

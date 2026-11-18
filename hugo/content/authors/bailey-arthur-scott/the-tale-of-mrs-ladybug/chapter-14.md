@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Bumps"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-14.html"
 ---
 
 SOME busybody went straight to Jennie Junebug and told her what Mrs. Ladybug had said.

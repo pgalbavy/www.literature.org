@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Convalescence"
 weight: 29
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-29.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-29.html"
 ---
 
 As nearly as can be ascertained, Jack Carleton lay the major part of four days in the Indian lodge, sick nigh unto death, with his brain topsy turvy. During that time he never received a drop of medicine, and scarcely any attention. The chief was gone most of each day, and the squaw spent many hours out doors, looking after her "farm." When the patient became unusually wild, she would give him a drink of water and attend to his wants. A few of the Indians peeped through the door, but as a whole they showed surprising indifference to the fate of the captive. Had he died, it is not likely he would have been given even Indian burial.

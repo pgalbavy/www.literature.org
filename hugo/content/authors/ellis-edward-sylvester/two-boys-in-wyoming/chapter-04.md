@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Visitors Of The Night"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-04.html"
 ---
 
 It takes a good deal to startle an American Indian, but if there ever was a frightened red man it was the one who heard himself thus addressed, and, glancing like a flash to his right, saw Jack Dudley step forward, with a Winchester rifle leveled at him.

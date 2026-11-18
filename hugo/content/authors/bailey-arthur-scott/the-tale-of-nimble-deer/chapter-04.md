@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Planning A Picnic"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-04.html"
 ---
 
 While he was only a fawn Nimble became very fond of water lilies. But he didn't carry them as a bouquet, nor wear one in his buttonhole. He was fond of lilies in a different way: he liked to eat them, and their flat, round, glossy pads. At night his mother often led him to the edge of the lake on the other side of Blue Mountain and there they feasted.

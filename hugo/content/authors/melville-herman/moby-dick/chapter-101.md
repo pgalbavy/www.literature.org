@@ -1,8 +1,7 @@
 ---
 title: "Chapter 101 - The Decanter"
 weight: 101
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-101.html"
+url: "/authors/melville-herman/moby-dick/chapter-101.html"
 ---
 
 Ere the English ship fades from sight be it set down here, that she hailed from London, and was named after the late Samuel Enderby, merchant of that city, the original of the famous whaling house of enderby and sons; a house which in my poor whaleman's opinion, comes not far behind the united royal houses of the Tudors and Bourbons, in point of real historical interest. How long, prior to the year of our Lord 1775, this great whaling house was in existence, my numerous fish-documents do not make plain; but in that year (1775) it fitted out the first English ships that ever regularly hunted the Sperm Whale; though for some score of years previous (ever since 1726) our valiant Coffins and Maceys of Nantucket and the Vineyard had in large fleets pursued the Leviathan, but only in the North and South Atlantic: not elsewhere. Be it distinctly recorded here, that the Nantucketers were the first among mankind to harpoon with civilized steel the great Sperm Whale; and that for half a century they were the only people of the whole globe who so harpooned him.

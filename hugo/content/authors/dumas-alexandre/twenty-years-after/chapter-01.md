@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Shade Of Cardinal Richelieu"
 weight: 1
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-01.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-01.html"
 ---
 
 In a splendid chamber of the Palais Royal, formerly styled the Palais Cardinal, a man was sitting in deep reverie, his head supported on his hands, leaning over a gilt and inlaid table which was covered with letters and papers. Behind this figure glowed a vast fireplace alive with leaping flames; great logs of oak blazed and crackled on the polished brass andirons whose flicker shone upon the superb habiliments of the lonely tenant of the room, which was illumined grandly by twin candelabra rich with wax-lights.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Four Winds Winter"
 weight: 17
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-17.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-17.html"
 ---
 
 Winter set in vigorously after New Year's. Big, white drifts heaped themselves about the little house, and palms of frost covered its windows. The harbor ice grew harder and thicker, until the Four Winds people began their usual winter travelling over it. The safe ways were "bushed" by a benevolent Government, and night and day the gay tinkle of the sleigh-bells sounded on it. On moonlit nights Anne heard them in her house of dreams like fairy chimes. The gulf froze over, and the Four Winds light flashed no more. During the months when navigation was closed Captain Jim's office was a sinecure.

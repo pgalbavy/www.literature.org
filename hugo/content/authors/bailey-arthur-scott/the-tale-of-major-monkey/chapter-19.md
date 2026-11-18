@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Major's Scheme"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-19.html"
 ---
 
 "I never can run a thousand miles through the tree-tops," Major Monkey told Jolly Robin in a tone of great disappointment. "I don't see how I can spend the winter in the South; and I certainly don't want to stay here, if it's as cold as you say." The poor Major looked so glum that Jolly Robin was sorry for him.

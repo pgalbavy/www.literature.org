@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Church"
 weight: 10
-aliases:
-  - "/authors/bronte-anne/agnes-grey/chapter-10.html"
+url: "/authors/bronte-anne/agnes-grey/chapter-10.html"
 ---
 
 'WELL, Miss Grey, what do you think of the new curate?' asked Miss Murray, on our return from church the Sunday after the recommencement of our duties.

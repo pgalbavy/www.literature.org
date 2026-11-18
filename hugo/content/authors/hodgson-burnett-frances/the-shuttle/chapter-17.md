@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Townlinson \u0026 Sheppard"
 weight: 17
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-17.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-17.html"
 ---
 
 During the whole course of her interesting life--and she had always found life interesting--Betty Vanderpoel decided that she had known no experience more absorbing than this morning spent in going over the long-closed and deserted portions of the neglected house. She had never seen anything like the place, or as full of suggestion. The greater part of it had simply been shut up and left to time and weather, both of which had had their effects. The fine old red roof, having lost tiles, had fallen into leaks that let in rain, which had stained and rotted walls, plaster, and woodwork; wind and storm had beaten through broken window panes and done their worst with such furniture and hangings as they found to whip and toss and leave damp and spotted with mould. They passed through corridors, and up and down short or long stairways, with stained or faded walls, and sometimes with cracked or fallen plastering and wainscotting. Here and there the oak flooring itself was uncertain. The rooms, whether large or small, all presented a like aspect of potential beauty and comfort, utterly uncared for and forlorn. There were many rooms, but none more than scantily furnished, and a number of them were stripped bare. Betty found herself wondering how long a time it had taken the belongings of the big place to dwindle and melt away into such bareness.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 6 - Flora"
 weight: 6
-aliases:
-  - "/authors/conrad-joseph/chance/part-01-chapter-06.html"
+url: "/authors/conrad-joseph/chance/part-01-chapter-06.html"
 ---
 
 "A very singular prohibition," remarked Mrs. Fyne after a short silence. "He seemed to love the child."

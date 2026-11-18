@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/brave-tom/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/brave-tom/chapter-07.html"
 ---
 
 It will be admitted that Tom Gordon and Jim Travers had met with a pretty stirring experience, as a result of the visit of the circus and menagerie to Briggsville. Tom had not been able to attend the performance; but it may be said he was favored with a little "circus" of his own, in which he played the part of star performer. But all's well that ends well, and he had the pleasure of walking into his humble home and turning over to his mother the handsome reward paid for the restoration of Tippo Sahib, comparatively unharmed, to the owner. He was so well liked by teacher and playmates that all congratulated him. There was no jealousy of his good fortune, for there was none more deserving, and, it may be added, no more in need of the material help given by that one hundred dollars.

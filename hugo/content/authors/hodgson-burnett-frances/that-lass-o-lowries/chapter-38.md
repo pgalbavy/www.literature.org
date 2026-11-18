@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - Recognition"
 weight: 38
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-38.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-38.html"
 ---
 
 The turning-point was reached at last. One evening, at the close of his usual visit, the doctor said to Grace:

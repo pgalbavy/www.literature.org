@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Night And Morning"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-18.html"
 ---
 
 By this time the snow lay to the depth of several inches on the earth. It was still falling, and the cold was increasing. The flakes were slighter, and there were fewer of them. His knowledge of the weather told the rancher that the fall would cease after a while, with a still further lowering of the temperature. Thanks, however, to the thoughtfulness of his wife more than himself, they were so plentifully provided with blankets and extra garments that they were not likely to suffer any inconvenience from that cause.

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 5"
 weight: 18
-aliases:
-  - "/authors/london-jack/burning-daylight/part-02-chapter-05.html"
+url: "/authors/london-jack/burning-daylight/part-02-chapter-05.html"
 ---
 
 Into Daylight's life came Dede Mason. She came rather imperceptibly. He had accepted her impersonally along with the office furnishing, the office boy, Morrison, the chief, confidential, and only clerk, and all the rest of the accessories of a superman's gambling place of business. Had he been asked any time during the first months she was in his employ, he would have been unable to tell the color of her eyes. From the fact that she was a demiblonde, there resided dimly in his subconsciousness a conception that she was a brunette. Likewise he had an idea that she was not thin, while there was an absence in his mind of any idea that she was fat. As to how she dressed, he had no ideas at all. He had no trained eye in such matters, nor was he interested. He took it for granted, in the lack of any impression to the contrary, that she was dressed some how. He knew her as "Miss Mason," and that was all, though he was aware that as a stenographer she seemed quick and accurate. This impression, however, was quite vague, for he had had no experience with other stenographers, and naturally believed that they were all quick and accurate.

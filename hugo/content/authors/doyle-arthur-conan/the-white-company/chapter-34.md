@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - How The Company Made Sport In The Vale Of Pampeluna"
 weight: 34
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-34.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-34.html"
 ---
 
 WHILST the council was sitting in Pampeluna the White Company, having encamped in a neighboring valley, close to the companies of La Nuit and of Black Ortingo, were amusing themselves with sword-play, wrestling, and shooting at the shields, which they had placed upon the hillside to serve them as butts. The younger archers, with their coats of mail thrown aside, their brown or flaxen hair tossing in the wind, and their jerkins turned back to give free play to their brawny chests and arms, stood in lines, each loosing his shaft in turn, while Johnston, Aylward, Black Simon, and half-a-score of the elders lounged up and down with critical eyes, and a word of rough praise or of curt censure for the marksmen. Behind stood knots of Gascon and Brabant crossbowmen from the companies of Ortingo and of La Nuit, leaning upon their unsightly weapons and watching the practice of the Englishmen.

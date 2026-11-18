@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - At The Masked Ball"
 weight: 10
-aliases:
-  - "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-09.html"
+url: "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-09.html"
 ---
 
 The envelope was covered with mud and unstamped. It bore the words "To be handed to M. le Vicomte Raoul de Chagny," with the address in pencil. It must have been flung out in the hope that a passer-by would pick up the note and deliver it, which was what happened. The note had been picked up on the pavement of the Place de l'Opera.

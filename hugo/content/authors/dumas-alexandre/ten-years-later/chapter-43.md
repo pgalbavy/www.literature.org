@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43 - Guenaud"
 weight: 43
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-43.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-43.html"
 ---
 
 The cardinal's order was pressing; Guenaud quickly obeyed it. He found his patient stretched on his bed, his legs swelled, his face livid, and his stomach collapsed. Mazarin had a severe attack of gout. He suffered tortures with the impatience of a man who has not been accustomed to resistances. On seeing Guenaud: "Ah!" said he; "now I am saved!"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/baum-l-frank/the-magic-of-oz/chapter-03.html"
+url: "/authors/baum-l-frank/the-magic-of-oz/chapter-03.html"
 ---
 
 Kiki turned around and saw a queer old man standing near. He didn't stand straight, for he was crooked. He had a fat body and thin legs and arms. He had a big, round face with bushy, white whiskers that came to a point below his waist, and white hair that came to a point on top of his head. He wore dull-gray clothes that were tight fitting, and his pockets were all bunched out as if stuffed full of something.

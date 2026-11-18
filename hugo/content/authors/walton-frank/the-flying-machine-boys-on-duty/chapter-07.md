@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Signal Fire"
 weight: 7
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-07.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-07.html"
 ---
 
 “I’ll tell you what it is,” Jimmie said, as the boys sat in a little restaurant on Fourth street, discussing the situation, “if we turn back to New York now, we’ll be off the beat. Havens told us to go out to Monterey, didn’t he?”

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - In The Light"
 weight: 29
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-29.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-29.html"
 ---
 
 A LITTLE interval of solitude was a relief to me, as well as to Miserrimus Dexter.

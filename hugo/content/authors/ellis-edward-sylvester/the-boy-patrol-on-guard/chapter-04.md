@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Training Of The Tenderfoot"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-04.html"
 ---
 
 Uncle Elk turned around and stepped off with a moderate but firm tread, using his staff more for pleasure than from necessity. He did not look around, taking it for granted that his young friend was at his heels. The ground was so high that the carpet of leaves and moss was dry, with so little undergrowth that walking was as easy and pleasant as upon an oriental rug in one’s parlor.

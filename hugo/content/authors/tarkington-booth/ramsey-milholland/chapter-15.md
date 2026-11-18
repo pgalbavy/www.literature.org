@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/tarkington-booth/ramsey-milholland/chapter-15.html"
+url: "/authors/tarkington-booth/ramsey-milholland/chapter-15.html"
 ---
 
 Ramsey kept very few things from Fred Mitchell, and usually his confidences were immediate upon the occasion of them; but allowed several weeks to elapse before sketching for his roommate the outlines of this adventure.

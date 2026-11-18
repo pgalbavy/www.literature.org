@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/bronte-charlotte/the-professor/chapter-15.html"
+url: "/authors/bronte-charlotte/the-professor/chapter-15.html"
 ---
 
 SOME time elapsed before I again gave a lesson in the first class; the holiday of Whitsuntide occupied three days, and on the fourth it was the turn of the second division to receive my instructions. As I made the transit of the CARRE, I observed, as usual, the band of sewers surrounding Mdlle. Henri; there were only about a dozen of them, but they made as much noise as might have sufficed for fifty; they seemed very little under her control; three or four at once assailed her with importunate requirements; she looked harassed, she demanded silence, but in vain. She saw me, and I read in her eye pain that a stranger should witness the insubordination of her pupils; she seemed to entreat order--her prayers were useless; then I remarked that she compressed her lips and contracted her brow; and her countenance, if I read it correctly, said--"I have done my best; I seem to merit blame notwithstanding; blame me then who will." I passed on; as I closed the school-room door, I heard her say, suddenly and sharply, addressing one of the eldest and most turbulent of the lot--

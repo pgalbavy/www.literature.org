@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - Exit Shasta"
 weight: 34
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-34.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-34.html"
 ---
 
 The three whites were still gazing toward the eastern shore, intently looking for some sign, or listening to some sound which might tell something regarding Shasta, when they were startled by a loud whirring or buzzing overhead, and looking up saw a large bird passing within a few feet of them—so close that its claws could be seen curled up against its body, as it made a sudden sweep to the right, frightened at its near approach to its human enemies.

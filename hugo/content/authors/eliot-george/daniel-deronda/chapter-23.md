@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-23.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-23.html"
 ---
 
 Among the heirs of Art, as is the division of the promised land, each has to win his portion by hard fighting: the bestowal is after the manner of prophecy, and is a title without possession. To carry the map of an ungotten estate in your pocket is a poor sort of copyhold. And in fancy to cast his shoe over Eden is little warrant that a man shall ever set the sole of his foot on an acre of his own there.

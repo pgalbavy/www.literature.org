@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 3"
 weight: 31
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-02-chapter-03.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-02-chapter-03.html"
 ---
 
 On returning from the review, Kutuzov took the Austrian general into his private room and, calling his adjutant, asked for some papers relating to the condition of the troops on their arrival, and the letters that had come from the Archduke Ferdinand, who was in command of the advanced army. Prince Andrew Bolkonski came into the room with the required papers. Kutuzov and the Austrian member of the Hofkriegsrath were sitting at the table on which a plan was spread out.

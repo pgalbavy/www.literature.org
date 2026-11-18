@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 29
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-28.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-28.html"
 ---
 
 A Man Devoid of Fear—William Barker Cushing—Some of His Exploits —The Blowing Up of the *Albemarle* —His Sad Death.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Hans In Luck"
 weight: 2
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-02.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-02.html"
 ---
 
 Some men are born to good luck: all they do or try to do comes right--all that falls to them is so much gain--all their geese are swans--all their cards are trumps--toss them which way you will, they will always, like poor puss, alight upon their legs, and only move on so much the faster. The world may very likely not always think of them as they think of themselves, but what care they for the world? what can it know about the matter?

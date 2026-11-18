@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - How Eric Won The Sword Whitefire"
 weight: 6
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-05.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-05.html"
 ---
 
 Now Asmund the priest bent down, and Eric saw him and spoke:

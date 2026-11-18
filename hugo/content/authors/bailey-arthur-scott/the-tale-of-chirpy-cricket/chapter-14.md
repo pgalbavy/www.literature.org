@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Chirpy Is Careful"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-chirpy-cricket/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-chirpy-cricket/chapter-14.html"
 ---
 
 "Do you live near-by?" Chirpy Cricket inquired of Mr. Mole Cricket, who had just invited him to his home to meet his wife.

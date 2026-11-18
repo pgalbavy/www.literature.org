@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - A Competitive Examination"
 weight: 26
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-25.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-25.html"
 ---
 
 WHEN the king traveled for change of air, or made a progress, or visited a distant noble whom he wished to bankrupt with the cost of his keep, part of the administration moved with him. It was a fashion of the time. The Commission charged with the examination of candidates for posts in the army came with the king to the Valley, whereas they could have transacted their business just as well at home. And although this expedition was strictly a holiday excursion for the king, he kept some of his business functions going just the same. He touched for the evil, as usual; he held court in the gate at sunrise and tried cases, for he was himself Chief Justice of the King's Bench.

@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 6 - The Hard-Won Triumph"
 weight: 38
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-05-chapter-06.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-05-chapter-06.html"
 ---
 
 Three weeks later, when Dorlcote Mill was at its prettiest moment in all the year, - the great chestnuts in blossom, and the grass all deep and daisied, - Tom Tulliver came home to it earlier than usual in the evening, and as he passed over the bridge, he looked with the old deep-rooted affection at the respectable red brick house, which always seemed cheerful and inviting outside, let the rooms be as bare and the hearts as sad as they might inside. There is a very pleasant light in Tom's blue-gray eyes as he glances at the house-windows; that fold in his brow never disappears, but it is not unbecoming; it seems to imply a strength of will that may possibly be without harshness, when the eyes and mouth have their gentlest expression. His firm step becomes quicker, and the corners of his mouth rebel against the compression which is meant to forbid a smile.

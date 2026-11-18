@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Number 34 And Number 27"
 weight: 15
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-15.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-15.html"
 ---
 
 Dantes passed through all the stages of torture natural to prisoners in suspense. He was sustained at first by that pride of conscious innocence which is the sequence to hope; then he began to doubt his own innocence, which justified in some measure the governor's belief in his mental alienation; and then, relaxing his sentiment of pride, he addressed his supplications, not to God, but to man. God is always the last resource. Unfortunates, who ought to begin with God, do not have any hope in him till they have exhausted all other means of deliverance.

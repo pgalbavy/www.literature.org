@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Sing Speaks"
 weight: 16
-aliases:
-  - "/authors/burroughs-edgar-rice/the-monster-men/chapter-16.html"
+url: "/authors/burroughs-edgar-rice/the-monster-men/chapter-16.html"
 ---
 
 For a week Professor Maxon with von Horn and Sing sought for Virginia. They could get no help from the natives of the long-house, who feared the vengeance of Muda Saffir should he learn that they had aided the white men upon his trail.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/chambers-robert-w/the-crimson-tide/chapter-07.html"
+url: "/authors/chambers-robert-w/the-crimson-tide/chapter-07.html"
 ---
 
 Shotwell Senior and his wife were dining out that evening.

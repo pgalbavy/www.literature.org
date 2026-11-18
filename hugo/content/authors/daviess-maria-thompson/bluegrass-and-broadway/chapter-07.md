@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/daviess-maria-thompson/bluegrass-and-broadway/chapter-07.html"
+url: "/authors/daviess-maria-thompson/bluegrass-and-broadway/chapter-07.html"
 ---
 
 The first two weeks of September spent in torrid New York were a strange period of time to have projected itself into the calm life of Miss Patricia Adair of Adairville, Kentucky. Suddenly she found herself a cog screwed tight into a rapid-fire piece of machinery that was running at top speed night and day, by name, "The Purple Slipper."

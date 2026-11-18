@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Swoop Of The Apache"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-08.html"
 ---
 
 The afternoon dragged slowly by with Fred crouching, as he was, in the top of the tree and waiting for the time to come when he might descend and make the attempt to rejoin his friends, who could not but be greatly concerned over his absence. At rare intervals, the spiteful crack of a rifle reached his ear as before, and he knew that the white and red men were watching each other, both ready to seize the first opportunity that might offer for obtaining the slightest advantage. The occasional clamping of the hoofs of a galloping horse showed, too, that his dreaded foes were close at hand.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - On The Canal"
 weight: 3
-aliases:
-  - "/authors/greene-homer/a-tale-of-the-towpath/chapter-03.html"
+url: "/authors/greene-homer/a-tale-of-the-towpath/chapter-03.html"
 ---
 
 It is at Rondout that the Delaware and Hudson Canal, reaching across from the anthracite-coal regions of Pennsylvania, touches tide-water on the Hudson. It is here that the bulky canal-boats, having discharged their cargoes of coal, turn their bows again to the westward. From the low-lying lands at the river’s edge the mouth of Rondout Creek curves back into the hills, forming for miles a safe, broad harbor.

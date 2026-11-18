@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-07.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-07.html"
 ---
 
 For some time Tarzan lay where he had fallen upon the floor of the treasure chamber beneath the ruined walls of Opar. He lay as one dead; but he was not dead. At length he stirred. His eyes opened upon the utter darkness of the room. He raised his hand to his head and brought it away sticky with clotted blood. He sniffed at his fingers, as a wild beast might sniff at the life-blood upon a wounded paw.

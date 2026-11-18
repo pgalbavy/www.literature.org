@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-10.html"
+url: "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-10.html"
 ---
 
 The mountain before them was shaped like a cone and was so tall that its point was lost in the clouds. Directly facing the place where Jim had stopped was an arched opening leading to a broad stairway. The stairs were cut in the rock inside the mountain, and they were broad and not very steep, because they circled around like a cork-screw, and at the arched opening where the flight began the circle was quite big. At the foot of the stairs was a sign reading:

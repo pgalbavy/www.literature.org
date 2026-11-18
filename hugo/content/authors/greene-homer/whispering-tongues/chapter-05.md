@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Cowardly Revenge"
 weight: 5
-aliases:
-  - "/authors/greene-homer/whispering-tongues/chapter-05.html"
+url: "/authors/greene-homer/whispering-tongues/chapter-05.html"
 ---
 
 It is hard to say whether Parmenter or Charley Lee suffered more from their estrangement, and impossible to declare which felt more keenly the disgrace of his punishment.

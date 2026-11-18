@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - An Unfortunate Lily Maid"
 weight: 28
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-28.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-28.html"
 ---
 
 OF course you must be Elaine, Anne," said Diana. "I could never have the courage to float down there."

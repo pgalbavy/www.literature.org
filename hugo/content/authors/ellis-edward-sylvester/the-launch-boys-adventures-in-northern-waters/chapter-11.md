@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - At The Post Office In Beartown"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-11.html"
 ---
 
 Although Mike Murphy rarely got the worst of it in a bout at repartee, he had the true sporting instinct and liked the winner because of his victory. It took a bright person to beat him, but it did happen now and then, and he enjoyed a clash of wits with one who proved his master, though in the long run the youth generally came out ahead.

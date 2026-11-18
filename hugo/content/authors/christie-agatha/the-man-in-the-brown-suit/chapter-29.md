@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 30
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-29.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-29.html"
 ---
 
 Johannesburg,

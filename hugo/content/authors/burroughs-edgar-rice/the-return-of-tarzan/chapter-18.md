@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Lottery of Death"
 weight: 18
-aliases:
-  - "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-18.html"
+url: "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-18.html"
 ---
 
 Jane Porter had been the first of those in the lifeboat to awaken the morning after the wreck of the LADY ALICE. The other members of the party were asleep upon the thwarts or huddled in cramped positions in the bottom of the boat.

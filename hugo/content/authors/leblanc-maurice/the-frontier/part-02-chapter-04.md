@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 4 - The Enquiries"
 weight: 12
-aliases:
-  - "/authors/leblanc-maurice/the-frontier/part-02-chapter-04.html"
+url: "/authors/leblanc-maurice/the-frontier/part-02-chapter-04.html"
 ---
 
 The tragedy enacted that night and morning was so harsh, so virulent and so swift that it left the inmates of the Old Mill as though stunned. Instead of uniting them in a common emotion, it scattered them, giving each of them an impression of discomfort and uneasiness.

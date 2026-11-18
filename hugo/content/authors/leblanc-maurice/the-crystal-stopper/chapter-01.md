@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Arrests"
 weight: 1
-aliases:
-  - "/authors/leblanc-maurice/the-crystal-stopper/chapter-01.html"
+url: "/authors/leblanc-maurice/the-crystal-stopper/chapter-01.html"
 ---
 
 The two boats fastened to the little pier that jutted out from the garden lay rocking in its shadow. Here and there lighted windows showed through the thick mist on the margins of the lake. The Enghien Casino opposite blazed with light, though it was late in the season, the end of September. A few stars appeared through the clouds. A light breeze ruffled the surface of the water.

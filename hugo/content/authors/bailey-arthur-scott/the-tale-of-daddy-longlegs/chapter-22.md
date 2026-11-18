@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Why Daddy Was Changed"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-22.html"
 ---
 
 IT was after his adventure with Johnnie Green that Daddy Longlegs' neighbors first noticed something queer about him.

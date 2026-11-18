@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Opening Of The Church"
 weight: 21
-aliases:
-  - "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-21.html"
+url: "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-21.html"
 ---
 
 Kate went back to her house in Sayula, and Cipriano went back to his command in the city.

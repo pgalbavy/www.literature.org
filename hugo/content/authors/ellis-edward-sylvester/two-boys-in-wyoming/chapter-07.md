@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The First Game"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-07.html"
 ---
 
 It was an ideal day for hunting among the mountains. The sun shone from an unclouded sky, and the air had just enough crispness to make exercise enjoyable. In short, it was a perfect copy of that day which saw the V. W. W. start from Fort Steele on their long ride northward to Bowman's ranch.

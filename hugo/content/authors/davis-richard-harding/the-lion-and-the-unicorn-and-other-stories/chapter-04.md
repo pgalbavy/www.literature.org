@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Vagrant"
 weight: 4
-aliases:
-  - "/authors/davis-richard-harding/the-lion-and-the-unicorn-and-other-stories/chapter-04.html"
+url: "/authors/davis-richard-harding/the-lion-and-the-unicorn-and-other-stories/chapter-04.html"
 ---
 
 His Excellency Sir Charles Greville, K. C M. G., Governor of the Windless Islands, stood upon the veranda of Government House surveying the new day with critical and searching eyes. Sir Charles had been so long absolute monarch of the Windless Isles that he had assumed unconsciously a mental attitude of suzerainty over even the glittering waters of the Caribbean Sea, and the coral reefs under the waters, and the rainbow skies that floated above them. But on this particular morning not even the critical eye of the Governor could distinguish a single flaw in the tropical landscape before him.

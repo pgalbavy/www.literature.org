@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-18.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-18.html"
 ---
 
 THE twelve years, continued Mrs. Dean, following that dismal period were the happiest of my life: my greatest troubles in their passage rose from our little lady's trifling illnesses, which she had to experience in common with all children, rich and poor. For the rest, after the first six months, she grew like a larch, and could walk and talk too, in her own way, before the heath blossomed a second time over Mrs. Linton's dust. She was the most winning thing that ever brought sunshine into a desolate house: a real beauty in face, with the Earnshaws' handsome dark eyes, but the Lintons' fair skin and small features, and yellow curling hair. Her spirit was high, though not rough, and qualified by a heart sensitive and lively to excess in its affections. That capacity for intense attachments reminded me of her mother: still she did not resemble her: for she could be soft and mild as a dove, and she had a gentle voice and pensive expression: her anger was never furious; her love never fierce: it was deep and tender. However, it must be acknowledged, she had faults to foil her gifts. A propensity to be saucy was one; and a perverse will, that indulged children invariably acquire, whether they be good tempered or cross. If a servant chanced to vex her, it was always - 'I shall tell papa!' And if he reproved her, even by a look, you would have thought it a heart-breaking business: I don't believe he ever did speak a harsh word to her. He took her education entirely on himself, and made it an amusement. Fortunately, curiosity and a quick intellect made her an apt scholar: she learned rapidly and eagerly, and did honour to his teaching.

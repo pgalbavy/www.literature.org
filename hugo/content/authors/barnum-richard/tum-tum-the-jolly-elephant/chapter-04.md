@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Tum Tum In The Circus"
 weight: 4
-aliases:
-  - "/authors/barnum-richard/tum-tum-the-jolly-elephant/chapter-04.html"
+url: "/authors/barnum-richard/tum-tum-the-jolly-elephant/chapter-04.html"
 ---
 
 With Mappo chattering in his monkey language, and the elephants in the lower part of the ship trumpeting through their trunks, there was so much noise, that it is no wonder many of the animals were frightened.

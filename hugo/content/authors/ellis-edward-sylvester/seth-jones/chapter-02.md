@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Dark Cloud"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/seth-jones/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/seth-jones/chapter-02.html"
 ---
 
 During the walk homeward, Haverland spoke but few words, although his loquacious friend kept up a continual, unremitting stream of talk. The woodman’s heart was too heavy to join him in his humorous, pointless words. Although dark and fearful suspicions had flitted before him, he had closed his eyes upon them, until he could no longer shun them, they appeared at every turn, and now resumed a terrible certainty.

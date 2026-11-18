@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 7"
 weight: 8
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-01-chapter-07.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-01-chapter-07.html"
 ---
 
 The author, being informed of a design to accuse him of high-treason, makes his escape to Blefuscu. His reception there.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Containing Further Particulars Concerning The Pleasant Old Gentleman, And His Hopeful Pupils"
 weight: 9
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-09.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-09.html"
 ---
 
 It was late next morning when Oliver awoke, from a sound, long sleep. There was no other person in the room but the old Jew, who was boiling some coffee in a saucepan for breakfast, and whistling softly to himself as he stirred it round and round, with an iron spoon. He would stop every now and then to listen when there was the least noise below: and when he had satisfied himself, he would go on whistling and stirring again, as before.

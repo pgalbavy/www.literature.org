@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Scaring The Hens"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-07.html"
 ---
 
 THERE was one sport of which Jasper Jay was over-fond. He loved to imitate the calls of other birds; and Jasper was such a good mimic that he often deceived his neighbors by his tricks.

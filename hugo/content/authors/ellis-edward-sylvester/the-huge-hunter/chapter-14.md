@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Huge Hunter"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-14.html"
 ---
 
 *SIMULTANEOUS* with the report of the rifles came the pinging of the bullets about the ears of young Brainerd, who, having started the steam man, kept on going until he was a considerable distance from the ravine.

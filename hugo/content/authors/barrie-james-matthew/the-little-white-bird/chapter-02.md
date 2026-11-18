@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Little Nursery Governess"
 weight: 2
-aliases:
-  - "/authors/barrie-james-matthew/the-little-white-bird/chapter-02.html"
+url: "/authors/barrie-james-matthew/the-little-white-bird/chapter-02.html"
 ---
 
 As I enter the club smoking-room you are to conceive David vanishing into nothingness, and that it is any day six years ago at two in the afternoon. I ring for coffee, cigarette, and cherry brandy, and take my chair by the window, just as the absurd little nursery governess comes tripping into the street. I always feel that I have rung for her.

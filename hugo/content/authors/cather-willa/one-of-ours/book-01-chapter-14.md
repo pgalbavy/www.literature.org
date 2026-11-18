@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 14"
 weight: 14
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-01-chapter-14.html"
+url: "/authors/cather-willa/one-of-ours/book-01-chapter-14.html"
 ---
 
 Ralph and his father moved to the new ranch the last of August, and Mr. Wheeler wrote back that late in the fall he meant to ship a carload of grass steers to the home farm to be fattened during the winter. This, Claude saw, would mean a need for fodder. There was a fifty-acre corn field west of the creek,--just on the sky-line when one looked out from the west windows of the house. Claude decided to put this field into winter wheat, and early in September he began to cut and bind the corn that stood upon it for fodder. As soon as the corn was gathered, he would plough up the ground, and drill in the wheat when he planted the other wheat fields.

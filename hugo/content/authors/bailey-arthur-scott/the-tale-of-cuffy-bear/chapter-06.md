@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Cuffy Meets A Man"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-06.html"
 ---
 
 And then how Cuffy Bear did roar--just one second after he had stuck his paws into the steaming pan. You see--he was so greedy that he had never once stopped to think that the syrup was boiling hot.

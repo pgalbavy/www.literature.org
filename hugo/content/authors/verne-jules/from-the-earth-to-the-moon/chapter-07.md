@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/verne-jules/from-the-earth-to-the-moon/chapter-07.html"
+url: "/authors/verne-jules/from-the-earth-to-the-moon/chapter-07.html"
 ---
 
 The Observatory of Cambridge in its memorable letter had treated the question from a purely astronomical point of view. The mechanical part still remained.

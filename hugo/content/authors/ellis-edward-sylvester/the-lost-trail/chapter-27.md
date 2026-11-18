@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - A Failure"
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-27.html"
 ---
 
 The task which Jack Carleton took upon himself, when he parted company with Otto Relstaub on the clearing, was of the simplest nature, and one which he was confident could be accomplished without trouble; it was to reach by a circuitous course a point directly opposite to his friend, and on a line with the horse, so that if the latter fled from one, he could be secured by the other.

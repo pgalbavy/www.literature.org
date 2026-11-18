@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Warning From The Woods"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-02.html"
 ---
 
 Monteith Sterry began drawing the mitten from his right hand with the intention of using his revolver on the bear, when he checked himself with the thought:

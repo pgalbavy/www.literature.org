@@ -1,8 +1,7 @@
 ---
 title: "Chapter 68"
 weight: 69
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-68.html"
+url: "/authors/haggard-h-rider/dawn/chapter-68.html"
 ---
 
 A fortnight or so afterwards, when the public excitement occasioned by the Caresfoot tragedy had been partially eclipsed by a particularly thrilling child-murder and suicide, a change for the better took place in Angela's condition. One night, after an unusually violent fit of raving, she suddenly went to sleep about twelve o'clock, and slept all that night and all the next day. About half-past nine on the following evening, the watchers in her room--namely, Pigott, Mr. Fraser, and Dr. Williamson, who was trying to make out what this deep sleep meant-- were suddenly astonished at seeing her sit up in her bed in a listening attitude, as though she could hear something that interested her intensely, for the webbing that tied her down had been temporarily removed, and then cry, in a tone of the most living anguish, and yet with a world of passionate remonstrance in her voice,

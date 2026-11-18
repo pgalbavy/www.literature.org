@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43"
 weight: 43
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-43.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-43.html"
 ---
 
 Anyway, he was perfect, as Doña Rita had declared. The only thing unsatisfactory (and even inexplicable) about our Dominic was his nephew, Cesar. It was startling to see a desolate expression of shame veil the remorseless audacity in the eyes of that man superior to all scruples and terrors.

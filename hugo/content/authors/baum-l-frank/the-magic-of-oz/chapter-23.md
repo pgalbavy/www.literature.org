@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 24
-aliases:
-  - "/authors/baum-l-frank/the-magic-of-oz/chapter-23.html"
+url: "/authors/baum-l-frank/the-magic-of-oz/chapter-23.html"
 ---
 
 The morning after the birthday fete, as the Wizard and Dorothy were walking in the grounds of the palace, Ozma came out and joined them, saying:

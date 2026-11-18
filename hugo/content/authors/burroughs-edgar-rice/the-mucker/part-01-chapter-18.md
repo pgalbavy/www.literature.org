@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 18 - The Gulf Between"
 weight: 18
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-18.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-18.html"
 ---
 
 FOR three months Billy met has-beens, and third- and fourth-rate fighters from New York and its environs. He thrashed them all--usually by the knockout route and finally local sports commenced talking about him a bit, and he was matched up with second-raters from other cities.

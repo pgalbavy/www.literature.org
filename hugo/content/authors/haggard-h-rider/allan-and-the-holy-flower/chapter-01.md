@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Brother John"
 weight: 1
-aliases:
-  - "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-01.html"
+url: "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-01.html"
 ---
 
 I do not suppose that anyone who knows the name of Allan Quatermain would be likely to associate it with flowers, and especially with orchids. Yet as it happens it was once my lot to take part in an orchid hunt of so remarkable a character that I think its details should not be lost. At least I will set them down, and if in the after days anyone cares to publish them, well--he is at liberty to do so.

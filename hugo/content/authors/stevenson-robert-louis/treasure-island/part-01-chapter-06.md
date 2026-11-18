@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 6 - The Captain's Papers"
 weight: 7
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-01-chapter-06.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-01-chapter-06.html"
 ---
 
 WE rode hard all the way till we drew up before Dr. Livesey's door. The house was all dark to the front.

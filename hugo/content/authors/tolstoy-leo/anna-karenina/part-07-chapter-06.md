@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 6"
 weight: 195
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-06.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-06.html"
 ---
 
 "Perhaps they're not at home?" said Levin, as he went into the hall of Countess Bola's house.

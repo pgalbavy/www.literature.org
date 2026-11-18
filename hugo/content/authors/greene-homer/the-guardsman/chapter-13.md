@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/greene-homer/the-guardsman/chapter-13.html"
+url: "/authors/greene-homer/the-guardsman/chapter-13.html"
 ---
 
 It is true that First Sergeant Barriscale took into serious consideration the question of an attempt to block the confirmation of his rival’s election to the first lieutenancy.

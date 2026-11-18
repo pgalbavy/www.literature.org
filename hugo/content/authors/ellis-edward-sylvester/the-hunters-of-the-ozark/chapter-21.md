@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Camp Of The Winnebagos"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-21.html"
 ---
 
 Now that the little party had started once more toward the camp in the Ozark Mountains, they moved at a brisk pace. It took them but a short time to reach the main trail, where there was a short pause while Deerfoot made what may be called a microscopic scrutiny of the ground.

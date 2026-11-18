@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - A Chat With A Dictator"
 weight: 18
-aliases:
-  - "/authors/buck-charles-neville/the-portal-of-dreams/chapter-18.html"
+url: "/authors/buck-charles-neville/the-portal-of-dreams/chapter-18.html"
 ---
 
 Inside Judge Garvin's store we came upon a group of slovenly loungers. Had my mind been free enough of its own troubling thoughts to spare a remnant of interest, I should have found this new and strange scheme of things engrossing. I was in a scrap of America which the onrushing tide of world advancement had left stranded and forgotten. Here a people of unmixed British stock lived primitive lives, fought feudal wars, and shrined every virtue high except regard for human life.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 15 - Harris"
 weight: 15
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-15.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-15.html"
 ---
 
 The next day, April 7th, Austin, who was on guard at sunrise, saw Dingo run barking to the little river. Almost immediately Mrs. Weldon, Dick Sand and the blacks came out of the grotto.

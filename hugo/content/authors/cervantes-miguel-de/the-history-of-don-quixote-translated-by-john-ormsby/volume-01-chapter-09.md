@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 9 - In Which Is Concluded And Finished The Terrific Battle Between The Gallant Biscayan And The Valiant Manchegan"
 weight: 12
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-09.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-09.html"
 ---
 
 In the First Part of this history we left the valiant Biscayan and the renowned Don Quixote with drawn swords uplifted, ready to deliver two such furious slashing blows that if they had fallen full and fair they would at least have split and cleft them asunder from top to toe and laid them open like a pomegranate; and at this so critical point the delightful history came to a stop and stood cut short without any intimation from the author where what was missing was to be found.

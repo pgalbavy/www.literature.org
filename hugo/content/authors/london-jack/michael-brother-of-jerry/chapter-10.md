@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-10.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-10.html"
 ---
 
 Michael left the Makambo as he had come on board, through a porthole. Likewise, the affair occurred at night, and it was Kwaque's hands that received him. It had been quick work, and daring, in the dark of early evening. From the boat-deck, with a bowline under Kwaque's arms and a turn of the rope around a pin, Dag Daughtry had lowered his leprous servitor into the waiting launch.

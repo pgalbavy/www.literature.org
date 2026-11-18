@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-29.html"
+url: "/authors/chambers-robert-w/athalie/chapter-29.html"
 ---
 
 Spring ploughing had been proceeding for some time now, but Athalie did not feel equal to walking cross-lots over ploughed ground, so she let Clive go alone on tours of inspection.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-26.html"
+url: "/authors/eliot-george/middlemarch/chapter-26.html"
 ---
 
 "He beats me and I rail at him: O worthy satisfaction! would it were otherwise - that I could beat him while he railed at me. - " - Troilus and Cressida.

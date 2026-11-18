@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Mrs. Eagle Is Angry"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-11.html"
 ---
 
 Yes! It was an eagle's nest that Cuffy Bear had found, And Mrs. Eagle had caught him eating her eggs. It was no wonder that she was wild with rage. And it was no wonder that Cuffy ran for his life.

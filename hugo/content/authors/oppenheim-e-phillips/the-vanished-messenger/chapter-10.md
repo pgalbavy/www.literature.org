@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-10.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-10.html"
 ---
 
 Mr. Fentolin raised to his lips the little gold whistle which hung from his neck and blew it. He seemed to devote very little effort to the operation, yet the strength of the note was wonderful. As the echoes died away, he let it fall by his side and waited with a pleased smile upon his lips. In a few seconds there was the hurried flutter of skirts and the sound of footsteps. The girl who had just completed her railway journey entered, followed by her brother. They were both a little out of breath, they both approached the chair without a smile, the girl in advance, with a certain expression of apprehension in her eyes. Mr. Fentolin sighed. He appeared to notice these things and regret them.

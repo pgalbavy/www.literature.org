@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Fatal Despatch"
 weight: 7
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-07.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-07.html"
 ---
 
 Mr. Coulson found his two visitors in the lounge of the hotel. He had removed all traces of his journey, and was attired in a Tuxedo dinner coat, a soft-fronted shirt, and a neatly arranged black tie. He wore broad-toed patent boots and double lines of braid down the outsides of his trousers. The page boy, who was on the lookout for him, conducted him to the corner where Miss Penelope Morse and her companion were sitting talking together. The latter rose at his approach, and Mr. Coulson summed him up quickly,--a well-bred, pleasant-mannered, exceedingly athletic young Englishman, who was probably not such a fool as he looked,--that is, from Mr. Coulson's standpoint, who was not used to the single eyeglass and somewhat drawling enunciation.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-01.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-01.html"
 ---
 
 'Take off that mute, do!' cried Louisa, snatching her fingers from the piano keys, and turning abruptly to the violinist.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - A Miscalculation"
 weight: 32
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-32.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-32.html"
 ---
 
 The youth had stopped paddling for a few minutes' rest, when he observed that he was close upon a broad clearing which came close to the water's edge. He had scarcely time to notice that much when he saw several large conical objects, and before he knew it, he was floating in front of an Indian village, numbering some twelve or fifteen wigwams. Squaws, children, and even warriors were lolling about very much as in the Sauk village, from which he had fled only a short time before.

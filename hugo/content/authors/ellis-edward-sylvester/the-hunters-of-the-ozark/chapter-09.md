@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A Mishap"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-09.html"
 ---
 
 Fred Linden and Terry Clark were alarmed when, on their way home, they came to the creek across which they had paddled only a short time before. It was then the comparatively shallow stream that was scarcely an obstacle in their path; now it was a rushing torrent, whose volume was increasing with great rapidity. The sinuosities of the creek had caused it to gather in a large part of the rain that had fallen some miles away, and its usual boundaries were overflowed.

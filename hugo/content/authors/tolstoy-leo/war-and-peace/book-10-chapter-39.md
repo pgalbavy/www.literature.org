@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 39"
 weight: 229
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-39.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-39.html"
 ---
 
 Several tens of thousands of the slain lay in diverse postures and various uniforms on the fields and meadows belonging to the Davydov family and to the crown serfs- those fields and meadows where for hundreds of years the peasants of Borodino, Gorki, Shevardino, and Semenovsk had reaped their harvests and pastured their cattle. At the dressing stations the grass and earth were soaked with blood for a space of some three acres around. Crowds of men of various arms, wounded and unwounded, with frightened faces, dragged themselves back to Mozhaysk from the one army and back to Valuevo from the other. Other crowds, exhausted and hungry, went forward led by their officers. Others held their ground and continued to fire.

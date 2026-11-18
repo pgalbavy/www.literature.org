@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/greene-homer/picketts-gap/chapter-05.html"
+url: "/authors/greene-homer/picketts-gap/chapter-05.html"
 ---
 
 It is the law in Pennsylvania that when a railroad company locates its route for a railroad by making its survey and setting its stakes, and that route is duly approved by its board of directors, it can hold the location as against any other company making a subsequent survey.

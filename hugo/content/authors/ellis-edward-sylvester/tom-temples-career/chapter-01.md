@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Nathan Middleton"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-01.html"
 ---
 
 ON *THE* main street, in the town of Plympton, stood a two-story house, with a narrow lawn in front. It had a stiff, staid look of decorum, as if no children were ever allowed to create disorder within its precincts, or interfere with its settled regularity. It appeared to be a place of business as well as a residence, for there was a thin plate on one side of the front door, bearing the name of

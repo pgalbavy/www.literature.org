@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Betrothal"
 weight: 18
-aliases:
-  - "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-17.html"
+url: "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-17.html"
 ---
 
 Together we descended the multitudinous steps and passed the endless, rock-hewn passages till we came to the door of the dwelling of the high-priestess and were led through it into a hall beyond. Here Ayesha parted from us saying that she was outworn, as indeed she seemed to be with an utter weariness, not of the body, but of the spirit. For her delicate form drooped like a rain-laden lily, her eyes grew dim as those of a person in a trance, and her voice came in a soft, sweet whisper, the voice of one speaking in her sleep.

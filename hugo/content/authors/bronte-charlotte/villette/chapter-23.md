@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Vashti"
 weight: 23
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-23.html"
+url: "/authors/bronte-charlotte/villette/chapter-23.html"
 ---
 
 To wonder sadly, did I say? No: a new influence began to act upon my life, and sadness, for a certain space, was held at bay. Conceive a dell, deep-hollowed in forest secresy; it lies in dimness and mist: its turf is dank, its herbage pale and humid. A storm or an axe makes a wide gap amongst the oak-trees; the breeze sweeps in; the sun looks down; the sad, cold dell becomes a deep cup of lustre; high summer pours her blue glory and her golden light out of that beauteous sky, which till now the starved hollow never saw.

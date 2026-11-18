@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Thanksgiving Day At The Brown House"
 weight: 6
-aliases:
-  - "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-06.html"
+url: "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-06.html"
 ---
 
 "Gail!"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Sammy Jay Understands"
 weight: 20
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-20.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-20.html"
 ---
 
 It was a beautiful morning. Jolly, round, red Mr. Sun had thrown his bedclothes off very early and started to climb up the sky, smiling his broadest. Old Mother West Wind had swept his path clear of clouds. The Merry Little Breezes, who, you know, are Mother West Wind's children, had danced across the Green Meadows up to the old orchard, where they pelted each other with white and pink petals of apple blossoms until the ground was covered. Each apple-tree was like a huge bouquet of loveliness. Yes, indeed, it was very beautiful that spring morning.

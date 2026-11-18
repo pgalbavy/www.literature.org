@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 2"
 weight: 2
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-01-chapter-02.html"
+url: "/authors/buck-charles-neville/destiny/part-01-chapter-02.html"
 ---
 
 Mary Burton was eleven. Of late, thoughts which had heretofore not disturbed her had insistently crept into the limelight of consciousness. One morning as she stood, dish-towel in hand, over the kitchen table, her eyes stole ever and anon to the cracked mirror that hung against the wall, and after each glance she turned defiantly away with something like sullenness about her lips. Elizabeth Burton, the mother, and Hannah Burton, the spinster aunt, went about their accustomed tasks with no thought more worldly than the duties of the moment. It never occurred to Aunt Hannah to complain of anything that was. If her life spelled unrelieved drudgery she accepted it as the station to which it had pleased God to call her, and conceived that complaint would be a form of blasphemy. Now as she wielded her broom, her angular shoulders ached with rheumatism, and, in a voice as creaking as her joints, she sang, "For the Master said there is work to do!" Such was Aunt Hannah's creed, and it pleased her while she moiled over the work to announce in song that she acted upon divine command. To Aunt Hannah's mind, this lent an august dignity to a dust-rag.

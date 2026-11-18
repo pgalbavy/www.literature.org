@@ -1,8 +1,7 @@
 ---
 title: "Chapter 57 - Oliver Cromwell"
 weight: 57
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-57.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-57.html"
 ---
 
 "Have you been to the general?" said Mordaunt to D'Artagnan and Porthos; "you know he sent for you after the action."

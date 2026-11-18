@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Mystery"
 weight: 10
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-10.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-10.html"
 ---
 
 "AUGUST 29:

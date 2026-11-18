@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - How Five Men Held The Keep Of Villefranch"
 weight: 31
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-31.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-31.html"
 ---
 
 UNDER the guidance of the French squire the party passed down two narrow corridors. The first was empty, but at the head of the second stood a peasant sentry, who started off at the sight of them, yelling loudly to his comrades. "Stop him, or we are undone!" cried Du Guesclin, and had started to run, when Aylward's great war-bow twanged like a harp-string, and the man fell forward upon his face, with twitching limbs and clutching fingers. Within five paces of where he lay a narrow and little- used door led out into the bailey. From beyond it came such a Babel of hooting and screaming, horrible oaths and yet more horrible laughter, that the stoutest heart might have shrunk from casting down the frail barrier which faced them.

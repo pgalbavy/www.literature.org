@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A Break Down"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-09.html"
 ---
 
 Captain Alvin was keenly interested in the story of Chester Haynes. He admitted that he had noticed nothing peculiar, and it was evident that Mike had been equally blind to the events passing under their eyes.

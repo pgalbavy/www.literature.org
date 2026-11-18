@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-05.html"
+url: "/authors/dickens-charles/great-expectations/chapter-05.html"
 ---
 
 THE apparition of a file of soldiers ringing down the butt-ends of their loaded muskets on our door-step, caused the dinner-party to rise from table in confusion, and caused Mrs Joe re-entering the kitchen empty-handed, to stop short and stare, in her wondering lament of 'Gracious goodness gracious me, what's gone -- with the -- pie!'

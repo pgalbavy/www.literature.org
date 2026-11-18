@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 12 - Darkness"
 weight: 42
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-12.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-12.html"
 ---
 
 SYDNEY CARTON paused in the street, not quite decided where to go. "At Tellson's banking-house at nine," he said, with a musing face. "Shall I do well, in the mean time, to show myself? I think so. It is best that these people should know there is such a man as I here; it is a sound precaution, and may be a necessary preparation. But care, care, Let me think it out!"

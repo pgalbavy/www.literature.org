@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Around The Bend"
 weight: 26
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-26.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-26.html"
 ---
 
 Thomas Lynde faded out of life as quietly and unobtrusively as he had lived it. His wife was a tender, patient, unwearied nurse. Sometimes Rachel had been a little hard on her Thomas in health, when his slowness or meekness had provoked her; but when he became ill no voice could be lower, no hand more gently skillful, no vigil more uncomplaining.

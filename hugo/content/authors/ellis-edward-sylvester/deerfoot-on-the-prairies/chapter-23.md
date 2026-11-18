@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Monarch Of The Solitudes"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-23.html"
 ---
 
 *DEERFOOT,* Mul-tal-la and the Shelton boys were encamped in the heart of the Rockies. The Blackfeet visitors had departed two days before and were well on their way to their own villages. The air was keen and bracing, and the sun that had been obscured now shone from a brilliant sky.

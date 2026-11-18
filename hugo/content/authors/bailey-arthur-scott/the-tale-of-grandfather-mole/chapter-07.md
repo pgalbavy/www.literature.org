@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Two Worm-Eaters"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-07.html"
 ---
 
 THERE was one special reason--among others--why Grandfather Mole didn't like to show himself above ground in the daytime. This reason was--hawks! And there was something else that made him dislike to appear at night, too. This something else was--owls!

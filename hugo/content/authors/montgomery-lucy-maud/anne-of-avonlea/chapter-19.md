@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Just A Happy Day"
 weight: 19
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-19.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-19.html"
 ---
 
 "After all," Anne had said to Marilla once, "I believe the nicest and sweetest days are not those on which anything very splendid or wonderful or exciting happens but just those that bring simple little pleasures, following one another softly, like pearls slipping off a string."

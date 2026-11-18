@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Game Of Hide And Seek"
 weight: 6
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-06.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-06.html"
 ---
 
 There was a game of hide and seek that Danny Meadow Mouse once played with Buster Bear. It was a very dreadful game for Danny. But hard as it was for Danny, it didn't begin to be as hard as the game Lightfoot the Deer was playing with the hunter in the Green Forest.

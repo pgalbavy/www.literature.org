@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 37
-aliases:
-  - "/authors/conrad-joseph/lord-jim/chapter-36.html"
+url: "/authors/conrad-joseph/lord-jim/chapter-36.html"
 ---
 
 36

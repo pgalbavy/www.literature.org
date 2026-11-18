@@ -1,8 +1,7 @@
 ---
 title: "Prologue"
 weight: 1
-aliases:
-  - "/authors/burroughs-edgar-rice/the-moon-maid/prologue.html"
+url: "/authors/burroughs-edgar-rice/the-moon-maid/prologue.html"
 ---
 
 I met him in the Blue Room of the Transoceanic Liner Harding the night of Mars Day—June 10, 1967. I had been wandering about the city for several hours prior to the sailing of the flier watching the celebration, dropping in at various places that I might see as much as possible of scenes that doubtless will never again be paralleled—a world gone mad with joy. There was only one vacant chair in the Blue Room and that at a small table at which he was already seated alone. I asked his permission and he graciously invited me to join him, rising as he did so, his face lighting with a smile that compelled my liking from the first.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Hateful Name"
 weight: 1
-aliases:
-  - "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-01.html"
+url: "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-01.html"
 ---
 
 "She leaned far out on the window-sill,  

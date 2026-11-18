@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Pilkington's"
 weight: 23
-aliases:
-  - "/authors/barrie-james-matthew/the-little-white-bird/chapter-23.html"
+url: "/authors/barrie-james-matthew/the-little-white-bird/chapter-23.html"
 ---
 
 On attaining the age of eight, or thereabout, children fly away from the Gardens, and never come back. When next you meet them they are ladies and gentlemen holding up their umbrellas to hail a hansom.

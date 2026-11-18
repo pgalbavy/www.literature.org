@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Trapping Grounds"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/bill-biddon-trapper/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/bill-biddon-trapper/chapter-04.html"
 ---
 
 I was agreeably surprised upon waking to see Nat standing within a few feet, holding two horses by the bridle.

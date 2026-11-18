@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Hunting The Hippo"
 weight: 5
-aliases:
-  - "/authors/davis-richard-harding/the-congo-and-coasts-of-africa/chapter-05.html"
+url: "/authors/davis-richard-harding/the-congo-and-coasts-of-africa/chapter-05.html"
 ---
 
 Except once or twice in the Zoo, I never had seen a hippopotamus, and I was most anxious, before I left the Congo, to meet one. I wanted to look at him when he was free, and his own master, without iron bars or keepers; when he believed he was quite alone, and was enjoying his bath in peace and confidence. I also wanted to shoot him, and to hang in my ancestral halls his enormous head with the great jaws open and the inside of them painted pink and the small tusks hungrily protruding. I had this desire, in spite of the fact that for every hippo except the particular one whose head I coveted, I entertained the utmost good feeling.

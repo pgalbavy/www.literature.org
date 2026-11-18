@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - I Corroborate Mr. Dick, And Choose A Profession"
 weight: 24
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-23.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-23.html"
 ---
 
 When I awoke in the morning I thought very much of little Em’ly, and her emotion last night, after Martha had left. I felt as if I had come into the knowledge of those domestic weaknesses and tendernesses in a sacred confidence, and that to disclose them, even to Steerforth, would be wrong. I had no gentler feeling towards anyone than towards the pretty creature who had been my playmate, and whom I have always been persuaded, and shall always be persuaded, to my dying day, I then devotedly loved. The repetition to any ears--even to Steerforth’s--of what she had been unable to repress when her heart lay open to me by an accident, I felt would be a rough deed, unworthy of myself, unworthy of the light of our pure childhood, which I always saw encircling her head. I made a resolution, therefore, to keep it in my own breast; and there it gave her image a new grace.

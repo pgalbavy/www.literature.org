@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Signal-Fires"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-10.html"
 ---
 
 Jack Dudley was awakened by the sound of laughter. Opening his eyes, he stared about him confusedly, unable for some moments to recall his situation. Fred Greenwood stood in front of him, shaking so much with mirth that he could scarcely stand.

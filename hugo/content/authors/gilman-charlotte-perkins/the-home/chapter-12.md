@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Child At Home"
 weight: 13
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-home/chapter-12.html"
+url: "/authors/gilman-charlotte-perkins/the-home/chapter-12.html"
 ---
 
 There are upon earth many millions of people--most of them children. Mankind has been continuous upon earth for millions of years; children have been equally continuous. Children constitute a permanent class, the largest class in the population. There are men, there are women, there are children, and the children outnumber the adults by three to two.

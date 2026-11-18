@@ -1,8 +1,7 @@
 ---
 title: "Chapter 50"
 weight: 50
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-50.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-50.html"
 ---
 
 "If some mortal, born too soon, Were laid away in some great trance - the ages Coming and going all the while - till dawned His true time's advent; and could then record The words they spoke who kept watch by his bed, Then I might tell more of the breath so light Upon my eyelids, and the fingers warm Among my hair. Youth is confused; yet never So dull was I but, when that spirit passed, I turned to him, scarce consciously, as turns A water-snake when fairies cross his sleep." - BROWNING: Paracelsus.

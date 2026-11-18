@@ -1,8 +1,7 @@
 ---
 title: "chapter 00"
 weight: 999
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-00.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-00.html"
 ---
 
 *JOHNNY CHUCK BADE CHATTERER GOOD-BY AND STARTED ON* Frontispiece

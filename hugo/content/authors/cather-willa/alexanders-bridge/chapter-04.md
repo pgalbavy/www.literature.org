@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/cather-willa/alexanders-bridge/chapter-04.html"
+url: "/authors/cather-willa/alexanders-bridge/chapter-04.html"
 ---
 
 On Sunday afternoon Alexander remembered Miss Burgoyne’s invitation and called at her apartment. He found it a delightful little place and he met charming people there. Hilda lived alone, attended by a very pretty and competent French servant who answered the door and brought in the tea. Alexander arrived early, and some twenty-odd people dropped in during the course of the afternoon. Hugh MacConnell came with his sister, and stood about, managing his tea-cup awkwardly and watching every one out of his deep-set, faded eyes. He seemed to have made a resolute effort at tidiness of attire, and his sister, a robust, florid woman with a splendid joviality about her, kept eyeing his freshly creased clothes apprehensively. It was not very long, indeed, before his coat hung with a discouraged sag from his gaunt shoulders and his hair and beard were rumpled as if he had been out in a gale. His dry humor went under a cloud of absent-minded kindliness which, Mainhall explained, always overtook him here. He was never so witty or so sharp here as elsewhere, and Alexander thought he behaved as if he were an elderly relative come in to a young girl’s party.

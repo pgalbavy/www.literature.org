@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - On The Watch"
 weight: 21
-aliases:
-  - "/authors/leroux-gaston/the-yellow-room/chapter-21.html"
+url: "/authors/leroux-gaston/the-yellow-room/chapter-21.html"
 ---
 
 The act, which staggered me, did not appear to affect Rouletabille much. We returned to his room and, without even referring to what we had seen, he gave me his final instructions for the night. First we were to go to dinner; after dinner, I was to take my stand in the dark closet and wait there as long as it was necessary—to look out for what might happen.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-22.html"
+url: "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-22.html"
 ---
 
 The story of Turner's death at unknown hands spread in the next few days like wild fire.

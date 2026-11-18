@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - As Between A Man And A Woman"
 weight: 9
-aliases:
-  - "/authors/london-jack/adventure/chapter-09.html"
+url: "/authors/london-jack/adventure/chapter-09.html"
 ---
 
 It was Satan's inexhaustible energy and good spirits that most impressed them. His teeth seemed perpetually to ache with desire, and in lieu of black legs he husked the cocoanuts that fell from the trees in the compound, kept the enclosure clear of intruding hens, and made a hostile acquaintance with every boss-boy who came to report. He was unable to forget the torment of his puppyhood, wherein everlasting hatred of the black had been woven into the fibres of consciousness; and such a terror did he make himself that Sheldon was forced to shut him up in the living room when, for any reason, strange natives were permitted in the compound. This always hurt Satan's feelings and fanned his wrath, so that even the house-boys had to watch out for him when he was first released.

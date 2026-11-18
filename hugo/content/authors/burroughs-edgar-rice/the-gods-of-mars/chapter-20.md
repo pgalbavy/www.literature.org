@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Air Battle"
 weight: 21
-aliases:
-  - "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-20.html"
+url: "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-20.html"
 ---
 
 Two hours after leaving my palace at Helium, or about midnight, Kantos Kan, Xodar, and I arrived at Hastor. Carthoris, Tars Tarkas, and Hor Vastus had gone directly to Thark upon another cruiser.

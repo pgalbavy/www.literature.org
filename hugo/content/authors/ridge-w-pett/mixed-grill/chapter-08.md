@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Question Of Temperature"
 weight: 8
-aliases:
-  - "/authors/ridge-w-pett/mixed-grill/chapter-08.html"
+url: "/authors/ridge-w-pett/mixed-grill/chapter-08.html"
 ---
 
 L.O.M. caught sight of M.R. two or three times on the journey, and M.R. made more than one effort to obtain completer details by inspection of the blue card label on L.O.M.’s bag. A certain coolness on M.R.’s side marked their first meeting, but this was the fault of the English Channel; it certainly looked like a practical joke, not quite in good taste, when a sudden lurch of the steamer sent him against her on the upper deck; despite his apologies, there was about the incident a suggestion of Holloway Road on Sunday evenings. M.R. told her married sister that she considered him a bounder; the married sister replied that this description could be applied to men in general, with one single exception.

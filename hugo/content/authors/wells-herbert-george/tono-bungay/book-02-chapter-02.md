@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 2 - The Dawn Comes, And My Uncle Appears In A New Silk Hat"
 weight: 5
-aliases:
-  - "/authors/wells-herbert-george/tono-bungay/book-02-chapter-02.html"
+url: "/authors/wells-herbert-george/tono-bungay/book-02-chapter-02.html"
 ---
 
 I

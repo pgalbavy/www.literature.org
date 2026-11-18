@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/chambers-robert-w/between-friends/chapter-06.html"
+url: "/authors/chambers-robert-w/between-friends/chapter-06.html"
 ---
 
 He wrote to Cecile once:

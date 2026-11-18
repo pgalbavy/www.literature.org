@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - We Plan Escape"
 weight: 16
-aliases:
-  - "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-16.html"
+url: "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-16.html"
 ---
 
 The remainder of our journey to Thark was uneventful. We were twenty days upon the road, crossing two sea bottoms and passing through or around a number of ruined cities, mostly smaller than Korad. Twice we crossed the famous Martian waterways, or canals, so-called by our earthly astronomers. When we approached these points a warrior would be sent far ahead with a powerful field glass, and if no great body of red Martian troops was in sight we would advance as close as possible without chance of being seen and then camp until dark, when we would slowly approach the cultivated tract, and, locating one of the numerous, broad highways which cross these areas at regular intervals, creep silently and stealthily across to the arid lands upon the other side. It required five hours to make one of these crossings without a single halt, and the other consumed the entire night, so that we were just leaving the confines of the high-walled fields when the sun broke out upon us.

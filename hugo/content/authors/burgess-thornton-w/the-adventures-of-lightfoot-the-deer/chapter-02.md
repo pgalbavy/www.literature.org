@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Lightfoot's New Antlers"
 weight: 2
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-02.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-02.html"
 ---
 
 Peter Rabbit was puzzled. He stared at Lightfoot the Deer a wee bit suspiciously. "Have you been tearing somebody's coat?" he asked again. He didn't like to think it of Lightfoot, whom he always had believed quite as gentle, harmless, and timid as himself. But what else could he think?

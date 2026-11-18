@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 11"
 weight: 42
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-03-chapter-11.html"
+url: "/authors/cather-willa/one-of-ours/book-03-chapter-11.html"
 ---
 
 Camp habits persisted. On his first morning at home Claude came downstairs before even Mahailey was stirring, and went out to have a look at the stock. The red sun came up just as he was going down the hill toward the cattle corral, and he had the pleasant feeling of being at home, on his father's land. Why was it so gratifying to be able to say "our hill," and "our creek down yonder"? to feel the crunch of this particular dried mud under his boots?

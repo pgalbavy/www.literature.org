@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 22"
 weight: 22
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-22.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-22.html"
 ---
 
 The ball was only just beginning as Kitty and her mother walked up the grat staircase, flooded with light, and lined with flowers and footmen in powder and red coats. From the rooms came a constant, steady hum, as from a hive, and the restle of movement; and while on the landing between trees they gave last touches to their hair and dresses before the mirror, they heard from the ballroom the careful, distinct notes of the fiddles of the orchestra beginning the first waltz. A little old man in civilian dress, arranging his gray curls before another mirror, and diffusing an odor of scent, stumbled against them on the stairs, and stood aside, evidently admiring Kitty, whom he did not know. A beardless youth, one of those society youths whom the old Prince Shtcherbatsky called "young bucks," in an exceedingly open waistcoat, straighteneing his white tie as he went, bowed to them, and after running by, came back to ask Kitty for a quadrille. As the first quadrille had already been given to Vronsky, she had to pronise this youth the second. An officer, buttoning his glove, stood aside in thedoorway, and stroking his mustache, admired rosy Kitty.

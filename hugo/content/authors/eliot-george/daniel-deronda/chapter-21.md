@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-21.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-21.html"
 ---
 
 It is a common sentence that Knowledge is power; but who hath duly Considered or set forth the power of Ignorance? Knowledge slowly builds up what Ignorance in an hour pulls down. Knowledge, through patient and frugal centuries, enlarges discovery and makes record of it; Ignorance, wanting its day's dinner, lights a fire with the record, and gives a flavor to its one roast with the burned souls of many generations. Knowledge, instructing the sense, refining and multiplying needs, transforms itself into skill and makes life various with a new six days' work; comes Ignorance drunk on the seventh, with a firkin of oil and a match and an easy "Let there not be," and the many-colored creation is shriveled up in blackness. Of a truth, Knowledge is power, but it is a power reined by scruple, having a conscience of what must be and what may be; whereas Ignorance is a blind giant who, let him but wax unbound, would make it a sport to seize the pillars that hold up the long-wrought fabric of human good, and turn all the places of joy dark as a buried Babylon. And looking at life parcel-wise, in the growth of a single lot, who having a practiced vision may not see that ignorance of the true bond between events, and false conceit of means whereby sequences may be compelled - like that falsity of eyesight which overlooks the gradations of distance, seeing that which is afar off as if it were within a step or a grasp - precipitates the mistaken soul on destruction?

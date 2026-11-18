@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Sundry Doings In The Mirk"
 weight: 8
-aliases:
-  - "/authors/buchan-john/huntingtower/chapter-07.html"
+url: "/authors/buchan-john/huntingtower/chapter-07.html"
 ---
 
 From Kirkmichael on the train stopped at every station, but no passenger seemed to leave or arrive at the little platforms white in the moon. At Dalquharter the case of provisions was safely transferred to the porter with instructions to take charge of it till it was sent for. During the next ten minutes Dickson's mind began to work upon his problem with a certain briskness. It was all nonsense that the law of Scotland could not be summoned to the defence. The jewels had been safely got rid of, and who was to dispute their possession? Not Dobson and his crew, who had no sort of title, and were out for naked robbery. The girl had spoken of greater dangers from new enemies—kidnapping perhaps. Well, that was felony, and the police must be brought in. Probably if all were known the three watchers had criminal records, pages long, filed at Scotland Yard. The man to deal with that side of the business was Loudon the factor, and to him he was bound in the first place. He had made a clear picture in his head of this Loudon—a derelict old country writer, formal, pedantic, lazy, anxious only to get an unprofitable business off his hands with the least possible trouble, never going near the place himself, and ably supported in his lethargy by conceited Edinburgh Writers to the Signet. "Sich notions of business!" he murmured. "I wonder that there's a single county family in Scotland no' in the bankruptcy court!" It was his mission to wake up Mr. James Loudon.

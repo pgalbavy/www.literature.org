@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Variation Under Nature"
 weight: 4
-aliases:
-  - "/authors/darwin-charles/the-origin-of-species/chapter-02.html"
+url: "/authors/darwin-charles/the-origin-of-species/chapter-02.html"
 ---
 
 arrow_rightVariability arrow_rightIndividual differences arrow_rightDoubtful species arrow_rightWide ranging, much diffused, and common species vary most arrow_rightSpecies of the larger genera in any country vary more than the species of the smaller genera arrow_rightMany of the species of the larger genera resemble varieties in being very closely, but unequally, related to each other, and in having restricted ranges ---

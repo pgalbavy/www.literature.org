@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Tom Arrives In New York"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-17.html"
 ---
 
 *TOM REACHED* New York about noon. It was a bright, pleasant day, and he was in excellent spirits, although he had just lost a fortune. This was partly due, no doubt, to the pleasure which he anticipated from his visit to the great city.

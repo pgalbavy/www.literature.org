@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - After The Preaching"
 weight: 3
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-03.html"
+url: "/authors/eliot-george/adam-bede/chapter-03.html"
 ---
 
 IN less than an hour from that time, Seth Bede was walking by Dinah's side along the hedgerow-path that skirted the pastures and green corn-fields which lay between the village and the Hall Farm. Dinah had taken off her little Quaker bonnet again, and was holding it in her hands that she might have a freer enjoyment of the cool evening twilight, and Seth could see the expression of her face quite clearly as he walked by her side, timidly revolving something he wanted to say to her. It was an expression of unconscious placid gravity - of absorption in thoughts that had no connection with the present moment or with her own personality - an expression that is most of all discouraging to a lover. Her very walk was discouraging: it had that quiet elasticity that asks for no support. Seth felt this dimly; he said to himself, "She's too good and holy for any man, let alone me," and the words he had been summoning rushed back again before they had reached his lips. But another thought gave him courage: "There's no man could love her better and leave her freer to follow the Lord's work." They had been silent for many minutes now, since they had done talking about Bessy Cranage; Dinah seemed almost to have forgotten Seth's presence, and her pace was becoming so much quicker that the sense of their being only a few minutes' walk from the yard-gates of the Hall Farm at last gave Seth courage to speak.

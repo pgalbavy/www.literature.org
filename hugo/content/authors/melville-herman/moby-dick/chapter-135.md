@@ -1,8 +1,7 @@
 ---
 title: "Chapter 135 - The Chase - Third Day"
 weight: 135
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-135.html"
+url: "/authors/melville-herman/moby-dick/chapter-135.html"
 ---
 
 The morning of the third day dawned fair and fresh, and once more the solitary night-man at the fore-mast-head was relieved by crowds of the daylight look-outs, who dotted every mast and almost every spar.

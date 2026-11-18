@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-08.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-08.html"
 ---
 
 He was on his way homeward early the next morning, and by noon his horse had climbed the rising ground from which he could look down on the Cross-roads and the post-office baking itself brown in the sun. Catching sight of the latter edifice, he smiled a little and shook the bridle against his steed's warm neck.

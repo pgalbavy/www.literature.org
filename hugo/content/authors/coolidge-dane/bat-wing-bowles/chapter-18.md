@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Rough-Riders"
 weight: 18
-aliases:
-  - "/authors/coolidge-dane/bat-wing-bowles/chapter-18.html"
+url: "/authors/coolidge-dane/bat-wing-bowles/chapter-18.html"
 ---
 
 Brigham Clark's squirrel-skin story was not calculated to build up the entente cordial with Texas, but Brigham was no trimmer. The only kind of fighting he knew was to stand up and strike from the shoulder, and a few cracks about Mormon marital customs had not tended to lighten the blow. Numerically he was outnumbered by the Texans, but when it came to a contest of wits he did not need any help. He went off to bed now, laughing, and to all of Bowles' chidings he turned an unheeding ear.

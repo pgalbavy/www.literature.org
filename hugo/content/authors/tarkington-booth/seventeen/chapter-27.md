@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Marooned"
 weight: 27
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-27.html"
+url: "/authors/tarkington-booth/seventeen/chapter-27.html"
 ---
 
 At every possible opportunity William hailed other girls with a hasty "M'av the next 'thyou?" but he was indeed unfortunate to have arrived so late.

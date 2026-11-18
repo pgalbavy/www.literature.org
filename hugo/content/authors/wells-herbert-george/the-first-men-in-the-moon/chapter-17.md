@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Fight In The Cave Of The Moon Butchers"
 weight: 17
-aliases:
-  - "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-17.html"
+url: "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-17.html"
 ---
 
 I DO not know how far we clambered before we came to the grating. It may be we ascended only a few hundred feet, but at the time it seemed to me we might have hauled and jammed and hopped and wedged ourselves through a mile or more of vertical ascent. Whenever I recall that time,,there comes into my head the heavy clank of our golden chains that followed every movement. Very soon my knuckles and knees were raw, and I had a bruise on one cheek. After a time the first violence of our efforts diminished, and our movements became more deliberate and less painful. The noise of the pursuing Selenites had died away altogether. It seemed almost as though they had not traced us up the crack after all, in spite of the tell-tale heap of broken fungi that must have lain beneath it. At times the cleft narrowed so much that we could scarce squeeze up it; at others it expanded into great drusy cavities, studded with prickly crystals or thickly beset with dull, shining fungoid pimples. Sometimes it twisted spirally, and at other times slanted down nearly to the horizontal direction. Ever and again there was the intermittent drip and trickle of water by us. Once or twice it seemed to us that small living things had rustled out of our reach, but what they were we never saw. They may have been venomous beasts for all I know, but they did us no harm, and we were now tuned to a pitch when a weird creeping thing more or less mattered little. And at last, far above, came the familiar bluish light again, and then we saw that it filtered through a grating that barred our way.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/greene-homer/the-guardsman/chapter-07.html"
+url: "/authors/greene-homer/the-guardsman/chapter-07.html"
 ---
 
 It had been nearly two years since Halpert McCormack and Ben Barriscale enlisted for service in the National Guard. They had one more year to serve, yet neither of them had a thought of leaving the service when the period of their enlistment expired. They had not only not tired of the militiaman’s life with its duties and its tasks, they had found pleasure and profit in it. For each of them, in a different way, it had had its compensations and its satisfactions.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-01.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-01.html"
 ---
 
 But Michael never sailed out of Tulagi, nigger-chaser on the Eugenie. Once in five weeks the steamer Makambo made Tulagi its port of call on the way from New Guinea and the Shortlands to Australia. And on the night of her belated arrival Captain Kellar forgot Michael on the beach. In itself, this was nothing, for, at midnight, Captain Kellar was back on the beach, himself climbing the high hill to the Commissioner's bungalow while the boat's crew vainly rummaged the landscape and canoe houses.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40"
 weight: 41
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-40.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-40.html"
 ---
 
 January 10th, 1827. - While writing the above, yesterday evening, I sat in the drawing-room. Mr. Huntingdon was present, but, as I thought, asleep on the sofa behind me. He had risen, however, unknown to me, and, actuated by some base spirit of curiosity, been looking over my shoulder for I know not how long; for when I had laid aside my pen, and was about to close the book, he suddenly placed his hand upon it, and saying, - 'With your leave, my dear, I'll have a look at this,' forcibly wrested it from me, and, drawing a chair to the table, composedly sat down to examine it: turning back leaf after leaf to find an explanation of what he had read. Unluckily for me, he was more sober that night than he usually is at such an hour.

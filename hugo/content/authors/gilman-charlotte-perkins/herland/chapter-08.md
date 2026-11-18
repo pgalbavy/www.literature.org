@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Girls Of Herland"
 weight: 8
-aliases:
-  - "/authors/gilman-charlotte-perkins/herland/chapter-08.html"
+url: "/authors/gilman-charlotte-perkins/herland/chapter-08.html"
 ---
 
 At last Terry’s ambition was realized. We were invited, always courteously and with free choice on our part, to address general audiences and classes of girls.

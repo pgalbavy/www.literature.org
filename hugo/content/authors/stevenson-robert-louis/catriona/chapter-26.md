@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - The Threesome"
 weight: 27
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-26.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-26.html"
 ---
 
 Whether or not I was to be so much blamed, or rather perhaps pitied, I must leave others to judge. My shrewdness (of which I have a good deal, too) seems not so great with the ladies. No doubt, at the moment when I awaked her, I was thinking a good deal of the effect upon James More; and similarly when I returned and we were all sat down to breakfast, I continued to behave to the young lady with deference and distance; as I still think to have been most wise. Her father had cast doubts upon the innocence of my friendship; and these, it was my first business to allay. But there is a kind of an excuse for Catriona also. We had shared in a scene of some tenderness and passion, and given and received caresses: I had thrust her from me with violence; I had called aloud upon her in the night from the one room to the other; she had passed hours of wakefulness and weeping; and it is not to be supposed I had been absent from her pillow thoughts. Upon the back of this, to be awaked, with unaccustomed formality, under the name of Miss Drummond, and to be thenceforth used with a great deal of distance and respect, led her entirely in error on my private sentiments; and she was indeed so incredibly abused as to imagine me repentant and trying to draw off!

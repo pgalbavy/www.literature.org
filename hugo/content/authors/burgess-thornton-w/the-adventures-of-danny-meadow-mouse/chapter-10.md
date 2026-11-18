@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Strange Ride And How It Ended"
 weight: 10
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-10.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-10.html"
 ---
 
 *DANNY MEADOW MOUSE* often had sat watching Skimmer the Swallow sailing around up in the blue, blue sky. He had watched Ol’ Mistah Buzzard go up, up, up, until he was nothing but a tiny speck, and Danny had wondered how it would seem to be way up above the Green Meadows and the Green Forest and look down. It had seemed to him that it must be very wonderful and beautiful. Sometimes he had wished that he had wings and could go up in the air and look down. And now here he was, he, Danny Meadow Mouse, actually doing that very thing!

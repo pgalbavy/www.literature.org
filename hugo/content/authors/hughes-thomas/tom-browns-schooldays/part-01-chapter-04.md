@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 4 - The Stage Coach"
 weight: 4
-aliases:
-  - "/authors/hughes-thomas/tom-browns-schooldays/part-01-chapter-04.html"
+url: "/authors/hughes-thomas/tom-browns-schooldays/part-01-chapter-04.html"
 ---
 
 "Let the steam-pot hiss till it's hot;  

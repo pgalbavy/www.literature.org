@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 6"
 weight: 19
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-03-chapter-06.html"
+url: "/authors/conrad-joseph/the-rescue/part-03-chapter-06.html"
 ---
 
 After a time this absolute silence which she almost could feel pressing upon her on all sides induced in Mrs. Travers a state of hallucination. She saw herself standing alone, at the end of time, on the brink of days. All was unmoving as if the dawn would never come, the stars would never fade, the sun would never rise any more; all was mute, still, dead—as if the shadow of the outer darkness, the shadow of the uninterrupted, of the everlasting night that fills the universe, the shadow of the night so profound and so vast that the blazing suns lost in it are only like sparks, like pin-points of fire, the restless shadow that like a suspicion of an evil truth darkens everything upon the earth on its passage, had enveloped her, had stood arrested as if to remain with her forever.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - I Find Myself A Demi-God"
 weight: 11
-aliases:
-  - "/authors/buck-charles-neville/the-portal-of-dreams/chapter-11.html"
+url: "/authors/buck-charles-neville/the-portal-of-dreams/chapter-11.html"
 ---
 
 Yet I did not die. While I lay waiting to do so the insistent ache of my bones, the racking of my wound and the sodden numbness of my brain, slowly blurred me into apathy. That passed and the delirium came on a swelling tide of temperature. Centuries trampled roughshod over me and demons of pain scourged me through the seven hells of fever. Scorching wastes of time were broken at long intervals by little oases of lucidity when I crawled to the opening and drank, but even these were clouded by shreds of nightmare horror, and remembered hallucinations.

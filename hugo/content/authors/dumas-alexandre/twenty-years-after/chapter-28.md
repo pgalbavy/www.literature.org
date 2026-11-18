@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - The Place Royale"
 weight: 28
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-28.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-28.html"
 ---
 
 They proceeded silently to the centre of the Place, but as at this very moment the moon had just emerged from behind a cloud, they thought they might be observed if they remained on that spot and therefore regained the shade of the lime-trees.

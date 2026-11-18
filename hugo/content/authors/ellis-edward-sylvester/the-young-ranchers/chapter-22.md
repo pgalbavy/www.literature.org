@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - On Foot"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-22.html"
 ---
 
 The fugitives were now so close to the ridge that Warren Starr, from his position on his pony, turned his attention to their immediate front. He saw that the race must end, so far as his steed was concerned, within the next second. The trees stood close together, the ascent was steep, and the bowlders and rocks, plainly discernible, since all leafage was gone, showed that the horse must halt of necessity at the moment of striking the base of the elevation.

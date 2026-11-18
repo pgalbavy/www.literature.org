@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-30.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-30.html"
 ---
 
 Sibyl and Roscoe were upon the point of leaving when Bibbs returned to the New House. He went straight to Sibyl and spoke to her quietly, but so that the others might hear.

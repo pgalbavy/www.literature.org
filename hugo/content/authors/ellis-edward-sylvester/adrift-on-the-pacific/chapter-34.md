@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - Closing In"
 weight: 34
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-34.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-34.html"
 ---
 
 When the sun sank in the western horizon, the situation of the two craft had not materially changed. The larger had perceptibly gained upon the smaller; but a good distance still separated them, and both parties were doing their utmost. The wind was blowing stronger than at mid-day, but it was not such a gale as had been feared, and our friends were not without hope of eluding the natives, who were endeavoring to overtake them.

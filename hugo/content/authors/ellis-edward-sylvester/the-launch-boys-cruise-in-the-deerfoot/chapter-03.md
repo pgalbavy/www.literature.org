@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Mike Murphy"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-03.html"
 ---
 
 Holding the tiny flicker of flame in the hollow of the hat, Alvin saw in fancy gilt letters, pasted on the silk lining, the following:

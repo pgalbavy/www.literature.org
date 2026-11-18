@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39"
 weight: 39
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-39.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-39.html"
 ---
 
 It was Mr. Hutchinson who, having an eye on the window, first announced an arriving carriage.

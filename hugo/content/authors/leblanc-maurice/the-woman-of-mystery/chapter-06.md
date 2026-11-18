@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - What Paul Saw At Ornequin"
 weight: 6
-aliases:
-  - "/authors/leblanc-maurice/the-woman-of-mystery/chapter-06.html"
+url: "/authors/leblanc-maurice/the-woman-of-mystery/chapter-06.html"
 ---
 
 Paul Delroze was awakened at dawn by the bugle-call. And, in the artillery duel that now began, he at once recognized the sharp, dry voice of the seventy-fives and the hoarse bark of the German seventy-sevens.

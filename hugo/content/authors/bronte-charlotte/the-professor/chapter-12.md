@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/bronte-charlotte/the-professor/chapter-12.html"
+url: "/authors/bronte-charlotte/the-professor/chapter-12.html"
 ---
 
 DAILY, as I continued my attendance at the seminary of Mdlle. Reuter, did I find fresh occasions to compare the ideal with the real. What had I known of female character previously to my arrival at Brussels? Precious little. And what was my notion of it? Something vague, slight, gauzy, glittering; now when I came in contact with it I found it to be a palpable substance enough; very hard too sometimes, and often heavy; there was metal in it, both lead and iron.

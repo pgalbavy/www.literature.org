@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Departure Of The Guest"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-09.html"
 ---
 
 "*BEN* and me done travelled a good deal together," said Rickard, with a faint sigh; "he was the quickest chap on the shoot I ever met; I never knowed him to miss when he had any show at all, and he was the luckiest fellow that ever walked. Do you know what Ben’s rule was?" asked Rickard, turning toward the cowboys, as if about to impart a piece of delightful news.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Prophets"
 weight: 14
-aliases:
-  - "/authors/chambers-robert-w/the-danger-mark/chapter-14.html"
+url: "/authors/chambers-robert-w/the-danger-mark/chapter-14.html"
 ---
 
 August in town found an unusual number of New York men at the clubs, at the restaurants, at the summer theatres. Men who very seldom shoved their noses inside the metropolitan oven during the summer baking were now to be met everywhere and anywhere within the financial district and without. The sky-perched and magnificent down-town "clubs" were full of men who under normal circumstances would have remained at Newport, Lenox, Bar Harbor, or who at least would have spent the greater portion of the summer on their yachts or their Long Island estates.

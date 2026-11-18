@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Ignosi's Farewell"
 weight: 20
-aliases:
-  - "/authors/haggard-h-rider/king-solomons-mines/chapter-19.html"
+url: "/authors/haggard-h-rider/king-solomons-mines/chapter-19.html"
 ---
 
 Ten days from that eventful morning found us once more in our old quarters at Loo; and, strange to say, but little the worse for our terrible experience, except that my stubbly hair came out of the treasure cave about three shades greyer than it went in, and that Good never was quite the same after Foulata's death, which seemed to move him very greatly. I am bound to say, looking at the thing from the point of view of an oldish man of the world, that I consider her removal was a fortunate occurrence, since, otherwise, complications would have been sure to ensue. The poor creature was no ordinary native girl, but a person of great, I had almost said stately, beauty, and of considerable refinement of mind. But no amount of beauty or refinement could have made an entanglement between Good and herself a desirable occurrence; for, as she herself put it, "Can the sun mate with the darkness, or the white with the black?"

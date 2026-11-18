@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - Watching And Waiting"
 weight: 37
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-37.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-37.html"
 ---
 
 The next morning the pony-carriage stopped before the door of the Curate's lodgings. When Grace went downstairs to the parlor, Anice Barholm turned from the window to greet him. The appearance of physical exhaustion he had observed the night before in Joan Lowrie, he saw again in her, but he had never before seen the face which Anice turned toward him.

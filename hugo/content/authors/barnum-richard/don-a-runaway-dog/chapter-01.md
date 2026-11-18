@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Don Falls In"
 weight: 1
-aliases:
-  - "/authors/barnum-richard/don-a-runaway-dog/chapter-01.html"
+url: "/authors/barnum-richard/don-a-runaway-dog/chapter-01.html"
 ---
 
 Don was one of five little puppies. With his brothers and sisters he cuddled up close to Mrs. Gurr, the mother dog, to keep warm, for it was rather cool for little dogs, even though there was plenty of straw in the kennel, or house, where they lived. Don shivered and trembled, but when his mother put her soft, warm paw over him and the other little dogs, Don felt better.

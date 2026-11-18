@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-11.html"
+url: "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-11.html"
 ---
 
 CLOSE upon the hour of noon the whole village was suddenly electrified with the ghastly news. No need of the as yet undreamed-of telegraph; the tale flew from man to man, from group to group, from house to house, with little less than telegraphic speed. Of course the schoolmaster gave holiday for that afternoon; the town would have thought strangely of him if he had not.

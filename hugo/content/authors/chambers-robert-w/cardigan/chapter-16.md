@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 17
-aliases:
-  - "/authors/chambers-robert-w/cardigan/chapter-16.html"
+url: "/authors/chambers-robert-w/cardigan/chapter-16.html"
 ---
 
 As we came to the high stockade which surrounded the Roanoke Racing Plain, a bell struck somewhere inside; there was a moment's silence, then a roar, "They're off!" and the confused shouting of a crowd: "Greensleeves leads! Heather-Bee! Heather-Bee!" which suddenly died out, ceased, then swelled into a sharp yell: "Orange and Black! Orange wins! Baltimore! Baltimore! Baltimore! No! No! The Jersey colt! The Jersey colt! Crimson! Crimson!" A hush; the dull, double thud of galloping; a scramble, a rush, and a hurricane of wild cheers: "Heather-Bee! Heather-Bee! Good Greensleeves! Hi—yi—yi! Hooray!"

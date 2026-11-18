@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Johnny's First Adventure"
 weight: 7
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-07.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-07.html"
 ---
 
 After old Whitetail the Marshhawk passed Johnny Chuck without offering to touch him, Johnny began to feel very brave and bold and important. He strutted and swaggered along as much as his short legs would let him. He held his head very high. Already he felt that he had had an adventure and he longed for more. He forgot the terrible lonesome feeling of a little while before. He forgot that he had given away the only home he had. He didn't know just why, but right down deep inside he had a sudden feeling that he really didn't care a thing about that old home. In fact, he felt as if he wouldn't care if he never had another home. Yes, Sir, that is the way that Johnny Chuck felt. Do you know why? Just because he had just begun to realize how big and strong he really was.

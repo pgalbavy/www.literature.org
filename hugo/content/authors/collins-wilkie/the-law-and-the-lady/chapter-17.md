@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Second Question--Who Poisoned Her?"
 weight: 17
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-17.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-17.html"
 ---
 
 THE evidence of the doctors and the chemists closed the proceedings on the first day of the Trial.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 51 - The Spirit-Spout"
 weight: 51
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-051.html"
+url: "/authors/melville-herman/moby-dick/chapter-051.html"
 ---
 
 Days, weeks passed, and under easy sail, the ivory Pequod had slowly swept across four several cruising-grounds; that off the Azores; off the Cape de Verdes; on the Plate (so called), being off the mouth of the Rio de la Plata; and the Carrol Ground, an unstaked, watery locality, southerly from St. Helena.

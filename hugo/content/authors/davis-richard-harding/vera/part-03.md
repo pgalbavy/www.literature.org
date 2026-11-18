@@ -1,8 +1,7 @@
 ---
 title: "Part 3"
 weight: 3
-aliases:
-  - "/authors/davis-richard-harding/vera/part-03.html"
+url: "/authors/davis-richard-harding/vera/part-03.html"
 ---
 
 The departure of the District Attorney and Miss Coates left Vera free to consider how serious, if she carried out her threat, the consequences might be. But of this chance she did not avail herself. Instead, with nervous zeal she began to prepare for her masquerade. It was as though her promise to Winthrop to abandon her old friends had filled her with remorse, and that she now, by an extravagance of loyalty, was endeavoring to make amends.

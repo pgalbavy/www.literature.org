@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 14"
 weight: 14
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-01-chapter-14.html"
+url: "/authors/london-jack/valley-of-the-moon/book-01-chapter-14.html"
 ---
 
 Sarah was conservative. Worse, she had crystallized at the end of her love-time with the coming of her first child. After that she was as set in her ways as plaster in a mold. Her mold was the prejudices and notions of her girlhood and the house she lived in. So habitual was she that any change in the customary round assumed the proportions of a revolution. Tom had gone through many of these revolutions, three of them when he moved house. Then his stamina broke, and he never moved house again.

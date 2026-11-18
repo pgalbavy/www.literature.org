@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - An Unexpected Party"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-06.html"
 ---
 
 Nimble's mother's plans went all awry. She had expected to give her son a treat by taking him quietly to Farmer Green's carrot patch, so that he might have his first taste of carrots. So it wasn't strange that it upset her a bit when she found that there were dozens of other forest folk all ready and waiting to go along with them. One extra member of the party wouldn't have displeased her, especially when that one was Jimmy Rabbit. But she had never gone near the farm buildings with more than two others. And she didn't intend to break her rule now.

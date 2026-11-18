@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - \u0026quot;It Might Have Been--It Might Have Been!\u0026quot;"
 weight: 12
-aliases:
-  - "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-11.html"
+url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-11.html"
 ---
 
 The heavenly summer weeks he passed with his beloved parents at Camylott before they set forth on their journey to the Continent remained a sweet memory in the mind of the young Marquess so long as he lived, and was cherished by him most tenderly. In those lovely June days he spent his hours with his father and mother as he had spent them as a child, and in that greater intimacy and closer communion which comes to a son with riper years, if the situation is not reversed and his maturity has not drifted away from such fondness. Both the Duke and Duchess were filled with such noble pride in him and he with such noble love of them. All they had hoped for in him he had given them, all his manly heart longed for they bestowed upon him--tenderness, companionship, sympathy in all he did or dreamed of doing.

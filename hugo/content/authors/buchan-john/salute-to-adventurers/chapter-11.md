@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Gravity Out Of Bed"
 weight: 12
-aliases:
-  - "/authors/buchan-john/salute-to-adventurers/chapter-11.html"
+url: "/authors/buchan-john/salute-to-adventurers/chapter-11.html"
 ---
 
 A week later I had a visit from old Mercer. He came to my house in the evening just after the closing of the store. First of all, he paid out to me the gold I had lost from my ship at Accomac, with all the gravity in the world, as if it had been an ordinary merchant's bargain. Then he produced some papers, and putting on big horn spectacles, proceeded to instruct me in them. They were lists, fuller than those I had already got, of men up and down the country whom Lawrence trusted. Some I had met, many I knew of, but two or three gave me a start. There was a planter in Henricus who had treated me like dirt, and some names from Essex county that I did not expect. Especially there were several in James Town itself—one a lawyer body I had thought the obedient serf of the London merchants, one the schoolmaster, and another a drunken skipper of a river boat. But what struck me most was the name of Colonel Beverley.

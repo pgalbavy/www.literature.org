@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - \"We Shall Have To Eat Red Meat--Now\""
 weight: 10
-aliases:
-  - "/authors/leroux-gaston/the-yellow-room/chapter-10.html"
+url: "/authors/leroux-gaston/the-yellow-room/chapter-10.html"
 ---
 
 The Donjon Inn was of no imposing appearance; but I like these buildings with their rafters blackened with age and the smoke of their hearths—these inns of the coaching-days, crumbling erections that will soon exist in the memory only. They belong to the bygone days, they are linked with history. They make us think of the Road, of those days when highwaymen rode.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - In San Antonio"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-03.html"
 ---
 
 *NICK* and Herbert stopped on the Plaza to inspect a bear, which a lank Texan had fastened to a staple by a rope, and was waiting thus late at night for a purchaser. The moment the boys passed, the owner began urging them to buy, offering the brute for fifteen dollars, and dwelling with much eloquence on the great bargain it was for anyone.

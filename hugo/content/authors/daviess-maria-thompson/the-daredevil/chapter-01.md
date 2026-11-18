@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Sparkling Waves Over High Explosives"
 weight: 1
-aliases:
-  - "/authors/daviess-maria-thompson/the-daredevil/chapter-01.html"
+url: "/authors/daviess-maria-thompson/the-daredevil/chapter-01.html"
 ---
 
 Was there ever a woman who did not very greatly desire for herself, at long moments, the doublet and hose of a man, perhaps also his sword, as well as his attitude in the viewing of life? I think not. To a very small number of those ladies of great curiosity it has been granted that they climb to those ramparts of the life of a man; but it was needful that they be stout of limb and sturdy of heart to sustain themselves upon that eminence and not be dashed below upon the rocks of a strange land. I, Roberta, Marquise de Grez and Bye, have obtained glimpses into a far country and this is what I bring on returning, not as a spy, but, shall I say, laden with spices and forbidden fruit?

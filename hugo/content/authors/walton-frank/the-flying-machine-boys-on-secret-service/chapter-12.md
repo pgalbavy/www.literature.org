@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Englishman’s Bag"
 weight: 12
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-12.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-12.html"
 ---
 
 Terry lifted the hand holding the knife as Ben approached. Doubting if the drunken man would heed his words, and realizing that it would be impossible to reach his side in time to prevent the meditated crime, the boy fired at the uplifted arm. Instead of finding a lodging in flesh and muscle the bullet struck the blade of the knife and broke it off short at the handle.

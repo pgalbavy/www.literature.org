@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 2 - Which Treats Of The Notable Altercation Which Sancho Panza Had With Don Quixote’s Niece, And Housekeeper, Together With Other Droll Matters"
 weight: 58
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-02.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-02.html"
 ---
 
 The history relates that the outcry Don Quixote, the curate, and the barber heard came from the niece and the housekeeper exclaiming to Sancho, who was striving to force his way in to see Don Quixote while they held the door against him, "What does the vagabond want in this house? Be off to your own, brother, for it is you, and no one else, that delude my master, and lead him astray, and take him tramping about the country."

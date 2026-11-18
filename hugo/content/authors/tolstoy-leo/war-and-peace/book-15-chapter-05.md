@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 5"
 weight: 322
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-05.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-05.html"
 ---
 
 In 1812 and 1813 Kutuzov was openly accused of blundering. The Emperor was dissatisfied with him. And in a history recently written by order of the Highest Authorities it is said that Kutuzov was a cunning court liar, frightened of the name of Napoleon, and that by his blunders at Krasnoe and the Berezina he deprived the Russian army of the glory of complete victory over the French.*

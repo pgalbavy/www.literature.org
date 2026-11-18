@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-23.html"
+url: "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-23.html"
 ---
 
 Meriem had traversed half the length of the village street when a score of white-robed Negroes and half-castes leaped out upon her from the dark interiors of surrounding huts. She turned to flee, but heavy hands seized her, and when she turned at last to plead with them her eyes fell upon the face of a tall, grim, old man glaring down upon her from beneath the folds of his burnous.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/stoker-bram/lair-of-the-white-worm/chapter-18.html"
+url: "/authors/stoker-bram/lair-of-the-white-worm/chapter-18.html"
 ---
 
 The woman turned sharply as Adam touched her shoulder.

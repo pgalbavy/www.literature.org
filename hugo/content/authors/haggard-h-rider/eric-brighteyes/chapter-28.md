@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - How Swanhild Won Tidings Of Eric"
 weight: 29
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-28.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-28.html"
 ---
 
 Now Eric’s strength came back to him and his heart opened in the light of Gudruda’s eyes like a flower in the sunshine. For all day long she sat at his side, holding his hand and talking to him, and they found much to say.

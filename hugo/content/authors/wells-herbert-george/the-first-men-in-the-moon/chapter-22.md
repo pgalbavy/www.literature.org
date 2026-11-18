@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Astonishing Communication Of Mr. Julius Wendigee"
 weight: 22
-aliases:
-  - "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-22.html"
+url: "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-22.html"
 ---
 
 WHEN I had finished my account of my return to the earth at Littlestone, I wrote, "The End," made a flourish, and threw my pen aside, fully believing that the whole story of the First Men in the Moon was done. Not only had I done this, but I had placed my manuscript in the hands of a literary agent, had permitted it to be sold, had seen the greater portion of it appear in the Strand Magazine, and was setting to work again upon the scenario of the play I had commenced at Lympne before I realised that the end was not yet. And then, following me from Amalfi to Algiers, there reached me (it is now about six months ago) one of the most astounding communications I have ever been fated to receive. Briefly, it informed me that Mr. Julius Wendigee, a Dutch electrician, who has been experimenting with certain apparatus akin to the apparatus used by Mr. Tesla in America, in the hope of discovering some method of communication with Mars, was receiving day by day a curiously fragmentary message in English, which was indisputably emanating from Mr. Cavor in the moon.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Deal And Its Consequences"
 weight: 18
-aliases:
-  - "/authors/buchan-john/prester-john/chapter-17.html"
+url: "/authors/buchan-john/prester-john/chapter-17.html"
 ---
 
 My eyes were bandaged tight, and a thong was run round my right wrist and tied to Laputa's saddle-bow. I felt the glare of the afternoon sun on my head, and my shins were continually barked by stones and trees; but these were my only tidings of the outer world. By the sound of his paces Laputa was riding the *schimmel*, and if any one thinks it easy to go blindfold by a horse's side I hope he will soon have the experience. In the darkness I could not tell the speed of the beast. When I ran I overshot it and was tugged back; when I walked my wrist was dislocated with the tugs forward.

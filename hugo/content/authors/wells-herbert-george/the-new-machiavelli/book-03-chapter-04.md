@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 4 - The Besetting Of Sex"
 weight: 12
-aliases:
-  - "/authors/wells-herbert-george/the-new-machiavelli/book-03-chapter-04.html"
+url: "/authors/wells-herbert-george/the-new-machiavelli/book-03-chapter-04.html"
 ---
 
 1

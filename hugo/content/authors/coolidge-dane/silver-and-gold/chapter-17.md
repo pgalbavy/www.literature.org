@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Broke"
 weight: 18
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/chapter-17.html"
+url: "/authors/coolidge-dane/silver-and-gold/chapter-17.html"
 ---
 
 McGraw, the freighter, was a huge, silent man from whom long years on the desert had almost taken the desire for speech. He came jangling up the road, his wagons grinding and banging, his horses straining wearily in their collars; and as Denver ran to meet him he threw on the brakes and sat blinking solemnly at his inquisitor.

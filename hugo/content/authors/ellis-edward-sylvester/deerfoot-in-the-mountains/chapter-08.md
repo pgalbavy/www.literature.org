@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Enemies And Friends"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-08.html"
 ---
 
 The black stallion knew his master was in trouble. Stepping forward he thrust forward his nose and licked his face. Deerfoot rested one arm on his mane, the other hand holding his rifle. Then Whirlwind, without a word, kneeled on one knee, so as to lower his shoulders. With a single hop the young Shawanoe leaped upon his back and the steed immediately stood on all-fours.

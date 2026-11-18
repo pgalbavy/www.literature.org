@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Domestic Experiences"
 weight: 28
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-28.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-28.html"
 ---
 
 Like most other young matrons, Meg began her married life with the determination to be a model housekeeper. John should find home a paradise, he should always see a smiling face, should fare sumptuously every day, and never know the loss of a button. She brought so much love, energy, and cheerfulness to the work that she could not but succeed, in spite of some obstacles. Her paradise was not a tranquil one, for the little woman fussed, was over-anxious to please, and bustled about like a true Martha, cumbered with many cares. She was too tired, sometimes, even to smile, John grew dyspeptic after a course of dainty dishes and ungratefully demanded plain fare. As for buttons, she soon learned to wonder where they went, to shake her head over the carelessness of men, and to threaten to make him sew them on himself, and see if his work would stand impatient and clumsy fingers any better than hers.

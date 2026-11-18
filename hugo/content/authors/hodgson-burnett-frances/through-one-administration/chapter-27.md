@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-27.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-27.html"
 ---
 
 A few days after this she told Richard that she wished to begin to make her arrangements for going away for the summer.

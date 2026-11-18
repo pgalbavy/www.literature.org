@@ -1,8 +1,7 @@
 ---
 title: "chapter 02"
 weight: 999
-aliases:
-  - "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-02.html"
+url: "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-02.html"
 ---
 
 The circles were so much smaller at the bottom of the basin, and the boat moved so much more swiftly, that Trot was beginning to get dizzy with the motion, when suddenly the boat made a leap and dived headlong into the murky depths of the hole. Whirling like tops, but still clinging together, the sailor and the girl were separated from their boat and plunged down -- down -- down -- into the farthermost recesses of the great ocean.

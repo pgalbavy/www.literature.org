@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 10"
 weight: 30
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-02-chapter-10.html"
+url: "/authors/cather-willa/song-of-the-lark/part-02-chapter-10.html"
 ---
 
 SPANISH JOHNNY had no shop of his own, but he kept a table and an order-book in one corner of the drug store where paints and wall-paper were sold, and he was sometimes to be found there for an hour or so about noon. Thea had gone into the drug store to have a friendly chat with the proprietor, who used to lend her books from his shelves. She found Johnny there, trimming rolls of wall-paper for the parlor of Banker Smith's new house. She sat down on the top of his table and watched him.

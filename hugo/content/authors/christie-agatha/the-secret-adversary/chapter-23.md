@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - A Race Against Time"
 weight: 24
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/chapter-23.html"
+url: "/authors/christie-agatha/the-secret-adversary/chapter-23.html"
 ---
 
 *AFTER* ringing up Sir James, Tommy’s next procedure was to make a call at South Audley Mansions. He found Albert discharging his professional duties, and introduced himself without more ado as a friend of Tuppence’s. Albert unbent immediately.

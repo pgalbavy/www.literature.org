@@ -1,8 +1,7 @@
 ---
 title: "Chapter 113 - The Past"
 weight: 113
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-113.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-113.html"
 ---
 
 The count departed with a sad heart from the house in which he had left Mercedes, probably never to behold her again. Since the death of little Edward a great change had taken place in Monte Cristo. Having reached the summit of his vengeance by a long and tortuous path, he saw an abyss of doubt yawning before him. More than this, the conversation which had just taken place between Mercedes and himself had awakened so many recollections in his heart that he felt it necessary to combat with them. A man of the count's temperament could not long indulge in that melancholy which can exist in common minds, but which destroys superior ones. He thought he must have made an error in his calculations if he now found cause to blame himself.

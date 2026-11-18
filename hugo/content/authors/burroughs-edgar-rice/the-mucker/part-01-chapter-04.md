@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 4 - Piracy"
 weight: 4
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-04.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-04.html"
 ---
 
 BY DUSK the trim little brigantine was scudding away toward the west before a wind that could not have suited her better had it been made to order at the special behest of the devil himself to speed his minions upon their devil's work.

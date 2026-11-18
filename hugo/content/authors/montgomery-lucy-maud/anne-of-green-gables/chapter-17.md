@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A New Interest in Life"
 weight: 17
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-17.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-17.html"
 ---
 
 THE next afternoon Anne, bending over her patchwork at the kitchen window, happened to glance out and beheld Diana down by the Dryad's Bubble beckoning mysteriously. In a trice Anne was out of the house and flying down to the hollow, astonishment and hope struggling in her expressive eyes. But the hope faded when she saw Diana's dejected countenance.

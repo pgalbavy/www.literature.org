@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - One Way To Stop A Horse"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-14.html"
 ---
 
 EVERY one of Daddy Longlegs' eight knees began to shake, when Sandy Chipmunk told him to stand in the middle of the road, in order to stop the old horse Ebenezer, who was pulling the wagon in which Johnnie Green and his grandmother were riding.

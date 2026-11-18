@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Face To Face"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-25.html"
 ---
 
 Two white men had set out to do whatever lay in their power to rescue little Mabel Ashbridge from the hands of the Shawanoes, and their policy was diametrically opposed to each other.

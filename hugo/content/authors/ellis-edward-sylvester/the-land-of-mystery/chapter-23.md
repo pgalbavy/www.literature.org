@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Shadow Of Danger"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-23.html"
 ---
 
 A few minutes later, Ziffak came through the door of the king's residence and greeted the explorers.

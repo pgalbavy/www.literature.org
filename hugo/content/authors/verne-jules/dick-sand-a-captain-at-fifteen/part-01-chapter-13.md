@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 13 - Land! Land!"
 weight: 13
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-13.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-13.html"
 ---
 
 Meanwhile, that confidence with which Dick Sand's heart filled instinctively, was going to be partly justified.

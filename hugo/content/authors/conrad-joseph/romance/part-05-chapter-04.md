@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 4"
 weight: 33
-aliases:
-  - "/authors/conrad-joseph/romance/part-05-chapter-04.html"
+url: "/authors/conrad-joseph/romance/part-05-chapter-04.html"
 ---
 
 The first decent word I had spoken to me after that for months came from my turnkey at Newgate. It was when he welcomed me back from my examination before the Thames Court magistrate. The magistrate, a bad-tempered man, snuffy, with red eyes, and the air of being a piece of worn and dirty furniture of his court, had snapped at me when I tried to speak:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Hell's Hip Pocket"
 weight: 7
-aliases:
-  - "/authors/coolidge-dane/hidden-water/chapter-07.html"
+url: "/authors/coolidge-dane/hidden-water/chapter-07.html"
 ---
 
 In the days of Ahaz, king of Judah, Isaiah the son of Amoz is reported to have seen in a vision a wolf which dwelt with a lamb, while a lion ate straw like an ox, and a weaned child put his hand in the cockatrice's den. Equally beautiful, as a dream, was the peace at Hidden Water, where sheepman and cattleman sat down together in amity; only, when it was all over, the wolf wiped his chops and turned away with a wise smile--the millennium not having come, as yet, in Arizona.

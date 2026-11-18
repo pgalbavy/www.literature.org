@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Discipline In The Ranks"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-18.html"
 ---
 
 The force of the impact and the crushing weight of the Shawanoe's body knocked Taggarak senseless for the moment. He lay panting, with eyes half closed and his countenance glistening with moisture.

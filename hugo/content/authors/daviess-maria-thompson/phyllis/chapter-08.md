@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/daviess-maria-thompson/phyllis/chapter-08.html"
+url: "/authors/daviess-maria-thompson/phyllis/chapter-08.html"
 ---
 
 These few days have been the most wonderful I have ever spent in all my life, the saddest and the most deeply happy. When a person's friends are in trouble, it is one time you can let your heart go its own pace no matter where it carries you, and for once I have had my way about pouring out my affection on the Byrds.

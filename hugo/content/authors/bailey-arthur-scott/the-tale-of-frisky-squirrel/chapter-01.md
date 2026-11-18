@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Frisky Squirrel Finds Much To Do"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-01.html"
 ---
 
 Frisky Squirrel was a lively little chap. And he was very bold, too. You see, he was so nimble that he felt he could always jump right out of danger--no matter whether it was a hawk chasing him, or a fox springing at him, or a boy throwing stones at him. He would chatter and scold at his enemies from some tree-top. And it was seldom that he was so frightened that he ran home and hid inside his mother's house.

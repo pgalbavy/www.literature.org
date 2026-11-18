@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 6"
 weight: 37
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-03-chapter-06.html"
+url: "/authors/cather-willa/song-of-the-lark/part-03-chapter-06.html"
 ---
 
 “THEA,” said Fred Ottenburg one drizzly afternoon in April, while they sat waiting for their tea at a restaurant in the Pullman Building, overlooking the lake, “what are you going to do this summer?”

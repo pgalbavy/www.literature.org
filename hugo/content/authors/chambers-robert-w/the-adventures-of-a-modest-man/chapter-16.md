@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Simplest Solution Of An Ancient Problem"
 weight: 16
-aliases:
-  - "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-16.html"
+url: "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-16.html"
 ---
 
 In the silence befitting such an extraordinary occasion the company formed a circle about the camp-fire.

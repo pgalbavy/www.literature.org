@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Ann Veronica Puts Things In Order"
 weight: 12
-aliases:
-  - "/authors/wells-herbert-george/ann-veronica/chapter-12.html"
+url: "/authors/wells-herbert-george/ann-veronica/chapter-12.html"
 ---
 
 Ann Veronica made a strenuous attempt to carry out her good resolutions. She meditated long and carefully upon her letter to her father before she wrote it, and gravely and deliberately again before she despatched it.

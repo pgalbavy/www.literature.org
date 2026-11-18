@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Signs And Omens"
 weight: 11
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/chapter-10.html"
+url: "/authors/coolidge-dane/silver-and-gold/chapter-10.html"
 ---
 
 When a man like Bible-Back Murray, the biggest man in the country--a sheep-owner, a store-keeper, a political power--goes out of his way to break up a trade there is something significant behind it. Denver had come to Pinal in response to a prophecy, in search of two hidden treasures between which he must make his choice; and now, added to that, was the further question of whether he should venture to oppose Murray. If he did, he could proceed in the spirit of the prophecy and choose between the silver and gold treasures; but if he did not there would be no real choice at all, but simply an elimination. He must turn away from the silver treasure, that precious vein of metal which led so temptingly into the hill, and take the little stringer of quartz which the Professor had offered as a gold mine. Denver thought it all over out in front of his cave that night and at last he came back to the prophecy.

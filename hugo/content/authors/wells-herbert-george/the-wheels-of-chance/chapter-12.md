@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Dreams Of Mr. Hoopdriver"
 weight: 12
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-12.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-12.html"
 ---
 
 In spite of the drawn blinds and the darkness, you have just seen Mr. Hoopdriver's face peaceful in its beauty sleep in the little, plain bedroom at the very top of the Yellow Hammer Coffee Tavern at Guildford. That was before midnight. As the night progressed he was disturbed by dreams.

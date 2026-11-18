@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Gilbert Speaks"
 weight: 20
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-20.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-20.html"
 ---
 
 "This has been a dull, prosy day," yawned Phil, stretching herself idly on the sofa, having previously dispossessed two exceedingly indignant cats.

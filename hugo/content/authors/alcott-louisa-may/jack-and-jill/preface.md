@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/alcott-louisa-may/jack-and-jill/preface.html"
+url: "/authors/alcott-louisa-may/jack-and-jill/preface.html"
 ---
 
 Jack and Jill

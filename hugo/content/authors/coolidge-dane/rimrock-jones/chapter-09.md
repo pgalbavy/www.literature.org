@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - You Don't Understand"
 weight: 9
-aliases:
-  - "/authors/coolidge-dane/rimrock-jones/chapter-09.html"
+url: "/authors/coolidge-dane/rimrock-jones/chapter-09.html"
 ---
 
 "Well, well," remarked Rimrock after he had started his machine and the desert was gliding smoothly by, "so that's why they call you Miss Fortune, eh? Losing all your money on that stock."

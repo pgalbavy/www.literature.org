@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - \"Those Endearing Young Charms\""
 weight: 16
-aliases:
-  - "/authors/tarkington-booth/the-two-vanrevels/chapter-16.html"
+url: "/authors/tarkington-booth/the-two-vanrevels/chapter-16.html"
 ---
 
 It is a matter not of notoriety but of the happiest celebrity that Mrs. Tanberry danced that night, and not only that she danced, but that she waltzed. To the lot of Tappingham Marsh (whom she pronounced the most wheedlmg vagabond, next to Crailey Gray, of her acquaintance) it fell to persuade her; and, after a quadrille with the elder Chenoweth, she was with Tappingham. More extraordinary to relate, she danced down both her partner and music. Thereupon did Mr. Bareaud, stung with envy, dare emulation and essay a schottische with Miss Trixie Chenoweth, performing marvelously well for many delectable turns before he unfortunately fell down. It was a night when a sculptured god would have danced on his pedestal: June, but not over-warm, balm in the air and rose leaves on the breeze; and even Minerva's great heels might have marked the time that orchestra kept. Be sure they waltzed again to "Those Endearing Young Charms ":

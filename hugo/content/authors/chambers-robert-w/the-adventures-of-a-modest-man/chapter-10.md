@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Chance"
 weight: 10
-aliases:
-  - "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-10.html"
+url: "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-10.html"
 ---
 
 She considered him with guileless eyes. He was *too* good-looking, too attractive, too young, and far too much pleased with himself. That was the impression he gave her. And, as he was, in addition, plainly one of her own sort, a man she was likely to meet anywhere—a well-bred, well-mannered and agreeable young fellow, probably a recent undergraduate, which might account for his really inoffensive breeziness—she felt perfectly at ease with him and safe enough to continue imprudently her mischief.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Countryman"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/the-riflemen-of-the-miami/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/the-riflemen-of-the-miami/chapter-07.html"
 ---
 
 Nature hath framed strange fellows in her time.

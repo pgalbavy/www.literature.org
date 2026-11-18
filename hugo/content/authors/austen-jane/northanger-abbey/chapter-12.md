@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/austen-jane/northanger-abbey/chapter-12.html"
+url: "/authors/austen-jane/northanger-abbey/chapter-12.html"
 ---
 
 "Mrs. Allen," said Catherine the next morning, "will there be any harm in my calling on Miss Tilney today? I shall not be easy till I have explained everything."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 24
-aliases:
-  - "/authors/baum-l-frank/rinkitink-in-oz/chapter-23.html"
+url: "/authors/baum-l-frank/rinkitink-in-oz/chapter-23.html"
 ---
 
 It was unfortunate that the famous Scarecrow - the most popular person in all Oz, next to Ozma -- was absent at the time of the banquet, for he happened just then to be making one of his trips through the country; but the Scarecrow had a chance later to meet Rinkitink and Inga and the King and Queen of Pingaree and Prince Bobo, for the party remained several weeks at the Emerald City, where they were royally entertained, and where both the gentle Queen Garee and the noble King Kitticut recovered much of their good spirits and composure and tried to forget their dreadful experiences.

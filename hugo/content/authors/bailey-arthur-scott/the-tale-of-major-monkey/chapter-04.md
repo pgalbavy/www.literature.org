@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Wanted--A Lodging"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-04.html"
 ---
 
 Afterward old Mr. Crow had to admit that he must have been forgetful. He had told Major Monkey to hide inside the hollow tree. And being a total stranger in the neighborhood, of course the Major didn't know that an owl lived there.

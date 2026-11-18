@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Sharp Eyes Meets Chunky"
 weight: 10
-aliases:
-  - "/authors/barnum-richard/sharp-eyes-the-silver-fox/chapter-10.html"
+url: "/authors/barnum-richard/sharp-eyes-the-silver-fox/chapter-10.html"
 ---
 
 Sharp Eyes’ cage was being lifted down from the wagon, on which it had been brought to the park from the train, when the silver fox called out about the elephant. His cage was set down on the ground, near where some of the big animals, with trunks and tails, were swaying to and fro behind big, strong bars.

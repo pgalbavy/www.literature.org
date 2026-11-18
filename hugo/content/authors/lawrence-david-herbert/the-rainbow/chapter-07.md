@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Cathedral"
 weight: 7
-aliases:
-  - "/authors/lawrence-david-herbert/the-rainbow/chapter-07.html"
+url: "/authors/lawrence-david-herbert/the-rainbow/chapter-07.html"
 ---
 
 During the first year of her marriage, before Ursula was born, Anna Brangwen and her husband went to visit her mother's friend, the Baron Skrebensky. The latter had kept a slight connection with Anna's mother, and had always preserved some officious interest in the young girl, because she was a pure Pole.

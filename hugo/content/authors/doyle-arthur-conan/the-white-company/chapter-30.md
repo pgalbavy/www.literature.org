@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - How The Brushwood Men Came To The Chateau Of Villefranche"
 weight: 30
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-30.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-30.html"
 ---
 
 IT was late ere Alleyne Edricson, having carried Sir Nigel the goblet of spiced wine which it was his custom to drink after the curling of his hair, was able at last to seek his chamber. It was a stone-flagged room upon the second floor, with a bed in a recess for him, and two smaller pallets on the other side, on which Aylward and Hordle John were already snoring. Alleyne had knelt down to his evening orisons, when there came a tap at his door, and Ford entered with a small lamp in his hand. His face was deadly pale, and his hand shook until the shadows flickered up and down the wall.

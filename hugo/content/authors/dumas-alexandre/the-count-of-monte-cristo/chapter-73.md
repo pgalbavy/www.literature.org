@@ -1,8 +1,7 @@
 ---
 title: "Chapter 73 - The Promise"
 weight: 73
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-73.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-73.html"
 ---
 
 It was, indeed, Maximilian Morrel, who had passed a wretched existence since the previous day. With the instinct peculiar to lovers he had anticipated after the return of Madame de Saint-Meran and the death of the marquis, that something would occur at M. de Villefort's in connection with his attachment for Valentine. His presentiments were realized, as we shall see, and his uneasy forebodings had goaded him pale and trembling to the gate under the chestnut-trees. Valentine was ignorant of the cause of this sorrow and anxiety, and as it was not his accustomed hour for visiting her, she had gone to the spot simply by accident or perhaps through sympathy. Morrel called her, and she ran to the gate. "You here at this hour?" said she. "Yes, my poor girl," replied Morrel; "I come to bring and to hear bad tidings."

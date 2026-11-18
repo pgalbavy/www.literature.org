@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/verne-jules/from-the-earth-to-the-moon/chapter-09.html"
+url: "/authors/verne-jules/from-the-earth-to-the-moon/chapter-09.html"
 ---
 
 There remained for consideration merely the question of powders. The public awaited with interest its final decision. The size of the projectile, the length of the cannon being settled, what would be the quantity of powder necessary to produce impulsion?

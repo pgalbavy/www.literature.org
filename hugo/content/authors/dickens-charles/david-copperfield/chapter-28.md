@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Mr. Micawber’s Gauntlet"
 weight: 29
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-28.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-28.html"
 ---
 
 Until the day arrived on which I was to entertain my newly-found old friends, I lived principally on Dora and coffee. In my love-lorn condition, my appetite languished; and I was glad of it, for I felt as though it would have been an act of perfidy towards Dora to have a natural relish for my dinner. The quantity of walking exercise I took, was not in this respect attended with its usual consequence, as the disappointment counteracted the fresh air. I have my doubts, too, founded on the acute experience acquired at this period of my life, whether a sound enjoyment of animal food can develop itself freely in any human subject who is always in torment from tight boots. I think the extremities require to be at peace before the stomach will conduct itself with vigour.

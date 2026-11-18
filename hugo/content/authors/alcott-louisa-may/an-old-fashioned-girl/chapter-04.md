@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Little Things"
 weight: 5
-aliases:
-  - "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-04.html"
+url: "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-04.html"
 ---
 
 “IT'S so wainy, I can't go out, and evwybody is so cwoss they won't play with me,” said Maud, when Polly found her fretting on the stairs, and paused to ask the cause of her wails.

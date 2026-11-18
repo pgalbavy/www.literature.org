@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Broken Rod"
 weight: 20
-aliases:
-  - "/authors/lawrence-david-herbert/aarons-rod/chapter-20.html"
+url: "/authors/lawrence-david-herbert/aarons-rod/chapter-20.html"
 ---
 
 The day was rainy. Aaron stayed indoors alone, and copied music and slept. He felt the same stunned, withered feeling as before, but less intensely, less disastrously, this time. He knew now, without argument or thought that he would never go again to the Marchesa: not as a lover. He would go away from it all. He did not dislike her. But he would never see her again. A great gulf had opened, leaving him alone on the far side.

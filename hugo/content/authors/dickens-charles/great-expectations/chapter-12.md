@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-12.html"
+url: "/authors/dickens-charles/great-expectations/chapter-12.html"
 ---
 
 MY mind grew very uneasy on the subject of the pale young gentle- man. The more I thought of the fight, and recalled the pale young gentleman on his back in various stages of puffy and incrimsoned countenance, the more certain it appeared that something would be done to me. I felt that the pale young gentleman's blood was on my head, and that the Law would avenge it. Without having any definite idea of the penalties I had incurred, it was clear to me that village boys could not go stalking about the country, ravaging the houses of gentlefolks and pitching into the studious youth of England, without laying themselves open to severe punishment. For some days, I even kept close at home, and looked out at the kitchen door with the greatest caution and trepidation before going on an errand, lest the officers of the County Jail should pounce upon me. The pale young gentleman's nose had stained my trousers, and I tried to wash out that evidence of my guilt in the dead of night. I had cut my knuckles against the pale young gentleman's teeth, and I twisted my imagination into a thousand tangles, as I devised incredible ways of accounting for that damnatory circumstance when I should be haled before the Judges.

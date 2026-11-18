@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 4"
 weight: 22
-aliases:
-  - "/authors/conrad-joseph/an-outcast-of-the-islands/part-04-chapter-04.html"
+url: "/authors/conrad-joseph/an-outcast-of-the-islands/part-04-chapter-04.html"
 ---
 
 When he felt the solid ground of the courtyard under his feet, Willems pulled himself up in his headlong rush and moved forward with a moderate gait. He paced stiffly, looking with extreme exactitude at Lingard’s face; looking neither to the right nor to the left but at the face only, as if there was nothing in the world but those features familiar and dreaded; that white-haired, rough and severe head upon which he gazed in a fixed effort of his eyes, like a man trying to read small print at the full range of human vision. As soon as Willems’ feet had left the planks, the silence which had been lifted up by the jerky rattle of his footsteps fell down again upon the courtyard; the silence of the cloudy sky and of the windless air, the sullen silence of the earth oppressed by the aspect of coming turmoil, the silence of the world collecting its faculties to withstand the storm. Through this silence Willems pushed his way, and stopped about six feet from Lingard. He stopped simply because he could go no further. He had started from the door with the reckless purpose of clapping the old fellow on the shoulder. He had no idea that the man would turn out to be so tall, so big and so unapproachable. It seemed to him that he had never, never in his life, seen Lingard.

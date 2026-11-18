@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Game For Big Stakes"
 weight: 15
-aliases:
-  - "/authors/coolidge-dane/rimrock-jones/chapter-15.html"
+url: "/authors/coolidge-dane/rimrock-jones/chapter-15.html"
 ---
 
 The next thirty days--before the stockholders' meeting--were spent by Rimrock in trying to explain. In spite of her suggestion that he was not good at that art he insisted upon making things worse. What he wanted to say was that the pooling of their stock would be a happy--though accidental--resultant of their marriage; what he actually said was that they ought to get married because then they would stand together against Stoddard. But Mary only listened with a wise, sometimes wistful, smile and assured him he was needlessly alarmed. It was that which drove him on--that wistful, patient smile. Somehow he felt, if he could only say the right words, she would lean right over and kiss him!

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - \u0026quot;Revenge!\u0026quot; Timotheus Cries"
 weight: 13
-aliases:
-  - "/authors/lawrence-david-herbert/the-kangaroo/chapter-13.html"
+url: "/authors/lawrence-david-herbert/the-kangaroo/chapter-13.html"
 ---
 
 AT last he had it all out with himself, right to the bitter end. And then he realised that all the time, since the year 1918, whether he was in Sicily or Switzerland or Venice or Germany or in the Austrian Tyrol, deep in his unconsciousness had lain this accumulation of black fury and fear, like frenzied lava quiescent in his soul. And now it had burst up: the fear, then the acute remembrance. So he faced it out, trembling with shock and bitterness, every detail. And then he tried to reckon it all up.

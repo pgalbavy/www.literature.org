@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - At The Old Stone Wall"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-02.html"
 ---
 
 Little Mr. Chippy suddenly set up a great twitter. Anybody could see that he was frightened. And one of Jolly Robin's sons, perched in an apple tree near the stone wall where Mr. Chippy lived in a wild grapevine, wondered what could be the matter.

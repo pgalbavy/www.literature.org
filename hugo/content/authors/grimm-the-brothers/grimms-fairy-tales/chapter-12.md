@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Adventures Of Chanticleer And Partlet"
 weight: 12
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-12.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-12.html"
 ---
 
 1\. HOW THEY WENT TO THE MOUNTAINS TO EAT NUTS

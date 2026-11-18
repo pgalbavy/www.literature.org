@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Tom Gets A Place"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-24.html"
 ---
 
 *TOM SPENT* five days in pursuit of employment, but without success. True, he made three dollars one day by carrying a message, but when this was offset against an expenditure of forty dollars, it did not look encouraging.

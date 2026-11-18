@@ -1,8 +1,7 @@
 ---
 title: "Chapter 59 - What Took Place At Portsmouth August 23, 1628"
 weight: 60
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-59.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-59.html"
 ---
 
 Felton took leave of Milady as a brother about to go for a mere walk takes leave of his sister, kissing her hand.

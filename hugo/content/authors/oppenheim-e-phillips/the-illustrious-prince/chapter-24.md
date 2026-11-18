@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Prince Maiyo Bids High"
 weight: 24
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-24.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-24.html"
 ---
 
 Inspector Jacks was in luck at last. Eleven times he had called at St. Thomas's Hospital and received the same reply. Today he was asked to wait. The patient was better--would be able to see him. Soon a nurse in neat uniform came quietly down the corridor and took charge of him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - The First Letter"
 weight: 32
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-32.html"
+url: "/authors/bronte-charlotte/villette/chapter-32.html"
 ---
 
 Where, it becomes time to inquire, was Paulina Mary? How fared my intercourse with the sumptuous Hôtel Crécy? That intercourse had, for an interval, been suspended by absence; M. and Miss de Bassompierre had been travelling, dividing some weeks between the provinces and capital of France. Chance apprised me of their return very shortly after it took place.

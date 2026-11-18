@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Dorothy's Circus"
 weight: 2
-aliases:
-  - "/authors/leblanc-maurice/the-secret-tomb/chapter-02.html"
+url: "/authors/leblanc-maurice/the-secret-tomb/chapter-02.html"
 ---
 
 The château, situated at no great distance from Domfront, in the most rugged district of the picturesque department of the Orne, only received the name of Roborey in the course of the eighteenth century. Earlier it took its name of the Château de Chagny from the village which was grouped round it. The village green is in fact only a prolongation of the court-yard of the château. When the iron gates are open the two form an esplanade, constructed over the ancient moat, from which one descends on the right and left by steep slopes. The inner court-yard, circular and enclosed by two battlemented walls which run to the buildings of the château, is adorned by a fine old fountain of dolphins and sirens and a sun-dial set up on a rockery in the worst taste.

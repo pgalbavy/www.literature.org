@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/baum-l-frank/the-road-to-oz/preface.html"
+url: "/authors/baum-l-frank/the-road-to-oz/preface.html"
 ---
 
 In which is related how Dorothy Gale of Kansas, The Shaggy Man, Button Bright, and Polychrome the Rainbow's Daughter met on an Enchanted Road and followed it all the way to the Marvelous Land of Oz.

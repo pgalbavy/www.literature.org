@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - “The Sins Of The Fathers”"
 weight: 1
-aliases:
-  - "/authors/greene-homer/a-lincoln-conscript/chapter-01.html"
+url: "/authors/greene-homer/a-lincoln-conscript/chapter-01.html"
 ---
 
 On the second day of July in the year 1863 the Civil War in America was at its height. Late in the preceding month Lee had turned his face northward, and, with an army of a hundred thousand Confederate soldiers at his back, had marched up into Pennsylvania. There was little to hinder his advance. Refraining, by reason of strict orders, from wanton destruction of property, his soldiers nevertheless lived on the rich country through which they passed. York and Carlisle were in their grasp. Harrisburg was but a day’s march away, and now, on this second day of July, flushed with fresh victories, they had turned and were giving desperate battle, through the streets and on the hills of Gettysburg, to the Union armies that had followed them.

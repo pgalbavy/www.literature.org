@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Home Under The Ground"
 weight: 7
-aliases:
-  - "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-07.html"
+url: "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-07.html"
 ---
 
 One of the first things Peter did next day was to measure Wendy and John and Michael for hollow trees. Hook, you remember, had sneered at the boys for thinking they needed a tree apiece, but this was ignorance, for unless your tree fitted you it was difficult to go up and down, and no two of the boys were quite the same size. Once you fitted, you drew in [let out] your breath at the top, and down you went at exactly the right speed, while to ascend you drew in and let out alternately, and so wriggled up. Of course, when you have mastered the action you are able to do these things without thinking of them, and nothing can be more graceful.

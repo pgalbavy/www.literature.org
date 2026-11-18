@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Down!"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-23.html"
 ---
 
 Meanwhile Tim Brophy found himself in the hottest quarters of his life.

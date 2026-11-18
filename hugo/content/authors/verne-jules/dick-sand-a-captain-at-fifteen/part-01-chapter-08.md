@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 8 - The Jubarte"
 weight: 8
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-08.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-08.html"
 ---
 
 Captain Hull, an experienced whaler, would leave nothing to chance. The capture of a jubarte is a difficult thing. No precaution ought to be neglected. None was in this case.

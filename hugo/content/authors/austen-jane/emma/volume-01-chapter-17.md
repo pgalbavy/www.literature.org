@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 17"
 weight: 17
-aliases:
-  - "/authors/austen-jane/emma/volume-01-chapter-17.html"
+url: "/authors/austen-jane/emma/volume-01-chapter-17.html"
 ---
 
 Mr. and Mrs. John Knightley were not detained long at Hartfield. The weather soon improved enough for those to move who must move; and Mr. Woodhouse having, as usual, tried to persuade his daughter to stay behind with all her children, was obliged to see the whole party set off, and return to his lamentations over the destiny of poor Isabella;--which poor Isabella, passing her life with those she doated on, full of their merits, blind to their faults, and always innocently busy, might have been a model of right feminine happiness.

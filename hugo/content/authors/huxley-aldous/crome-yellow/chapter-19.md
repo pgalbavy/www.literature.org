@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/huxley-aldous/crome-yellow/chapter-19.html"
+url: "/authors/huxley-aldous/crome-yellow/chapter-19.html"
 ---
 
 Henry Wimbush’s long cigar burned aromatically. The "History of Crome" lay on his knee; slowly he turned over the pages.

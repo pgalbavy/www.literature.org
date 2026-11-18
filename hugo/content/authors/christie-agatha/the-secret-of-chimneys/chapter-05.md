@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - First Night In London"
 weight: 5
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-05.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-05.html"
 ---
 
 There is often a flaw in the best-laid plans. George Lomax had made one mistake—there was a weak spot in his preparations. The weak spot was Bill.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Master Cat, Or Puss In Boots"
 weight: 5
-aliases:
-  - "/authors/perrault-charles/the-tales-of-mother-goose/chapter-04.html"
+url: "/authors/perrault-charles/the-tales-of-mother-goose/chapter-04.html"
 ---
 
 Once upon a time there was a miller who left no more riches to the three sons he had than his mill, his ass, and his cat. The division was soon made. Neither the lawyer nor the attorney was sent for. They would soon have eaten up all the poor property. The eldest had the mill, the second the ass, and the youngest nothing but the cat.

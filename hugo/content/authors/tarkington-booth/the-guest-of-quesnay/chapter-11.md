@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/tarkington-booth/the-guest-of-quesnay/chapter-11.html"
+url: "/authors/tarkington-booth/the-guest-of-quesnay/chapter-11.html"
 ---
 
 The dining-room at Quesnay is a pretty work of the second of those three Louises who made so much furniture. It was never a proper setting for a rusty, out-of-doors painter-man, nor has such a fellow ever found himself complacently at ease there since the day its first banquet was spread for a score or so of fine-feathered epigram jinglers, fiddling Versailles gossip out of a rouge-and-lace Quesnay marquise newly sent into half-earnest banishment for too much king-hunting. For my part, however, I should have preferred a chance at making a place for myself among the wigs and brocades to the Crusoe's Isle of my chair at Miss Elizabeth's table.

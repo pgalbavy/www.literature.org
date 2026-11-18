@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Kind Timothy Turtle"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-12.html"
 ---
 
 All day long Timothy Turtle stayed on the Beaver dam. And when the Beavers returned in the evening, to resume their work, they found Timothy still clinging to the box elder stick.

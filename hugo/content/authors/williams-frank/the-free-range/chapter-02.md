@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Late Arrival"
 weight: 2
-aliases:
-  - "/authors/williams-frank/the-free-range/chapter-02.html"
+url: "/authors/williams-frank/the-free-range/chapter-02.html"
 ---
 
 After visiting the corral, Larkin paid his respects to the pump and refreshed himself for supper. Then he strolled around the long, rambling ranch house. Across the front, which faced southwest, had been built a low apology for a veranda on which a couple of uninviting chairs stood. He appropriated one of these and settled back to think.

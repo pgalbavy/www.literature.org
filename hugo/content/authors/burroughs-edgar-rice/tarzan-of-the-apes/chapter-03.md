@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Life and Death"
 weight: 3
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-03.html"
+url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-03.html"
 ---
 
 Morning found them but little, if at all refreshed, though it was with a feeling of intense relief that they saw the day dawn.

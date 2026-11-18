@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-16.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-16.html"
 ---
 
 ABOUT twelve o'clock that night was born the Catherine you saw at Wuthering Heights: a puny, seven-months' child; and two hours after the mother died, having never recovered sufficient consciousness to miss Heathcliff, or know Edgar. The latter's distraction at his bereavement is a subject too painful to be dwelt on; its after-effects showed how deep the sorrow sunk. A great addition, in my eyes, was his being left without an heir. I bemoaned that, as I gazed on the feeble orphan; and I mentally abused old Linton for (what was only natural partiality) the securing his estate to his own daughter, instead of his son's. An unwelcomed infant it was, poor thing! It might have wailed out of life, and nobody cared a morsel, during those first hours of existence. We redeemed the neglect afterwards; but its beginning was as friendless as its end is likely to be.

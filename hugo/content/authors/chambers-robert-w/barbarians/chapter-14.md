@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - La Ploo Belle"
 weight: 14
-aliases:
-  - "/authors/chambers-robert-w/barbarians/chapter-14.html"
+url: "/authors/chambers-robert-w/barbarians/chapter-14.html"
 ---
 
 They had been nearly three weeks on the voyage, three days in port, four more on cattle trains, and had been marching since morning from the nearest railway station at Estville-sur-Lesse.

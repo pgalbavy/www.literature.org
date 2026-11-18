@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/tarkington-booth/gentle-julia/chapter-02.html"
+url: "/authors/tarkington-booth/gentle-julia/chapter-02.html"
 ---
 
 It was a pretty room, lightly scented with the pink geraniums and blue lobelia and coral fuchsias that poised, urgent with colour, in the window-boxes at the open windows. Sunshine paused delicately just inside, where forms of pale-blue birds and lavender flowers curled up and down the cretonne curtains; and a tempered, respectful light fell upon a cushioned *chaise longue*; for there fluffily reclined, in garments of tender fabric and gentle colours, the prettiest twenty-year-old girl in that creditably supplied town.

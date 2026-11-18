@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/collins-wilkie/the-haunted-hotel/chapter-26.html"
+url: "/authors/collins-wilkie/the-haunted-hotel/chapter-26.html"
 ---
 
 Entering his own room on the upper floor, Henry placed the manuscript on his table, open at the first leaf. His nerves were unquestionably shaken; his hand trembled as he turned the pages, he started at chance noises on the staircase of the hotel.

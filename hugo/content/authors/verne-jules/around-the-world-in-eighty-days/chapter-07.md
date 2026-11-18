@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-07.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-07.html"
 ---
 
 The detective passed down the quay, and rapidly made his way to the consul's office, where he was at once admitted to the presence of that official.

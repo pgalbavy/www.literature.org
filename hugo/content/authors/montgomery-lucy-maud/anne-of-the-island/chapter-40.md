@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40 - A Book Of Revelation"
 weight: 40
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-40.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-40.html"
 ---
 
 The Irvings came back to Echo Lodge for the summer, and Anne spent a happy three weeks there in July. Miss Lavendar had not changed; Charlotta the Fourth was a very grown-up young lady now, but still adored Anne sincerely.

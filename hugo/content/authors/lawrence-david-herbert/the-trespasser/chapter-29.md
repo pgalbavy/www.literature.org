@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-29.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-29.html"
 ---
 
 Helena was dozing down in the cove at Tintagel. She and Louisa and Olive lay on the cool sands in the shadow, and steeped themselves in rest, in a cool, sea-fragrant tranquillity.

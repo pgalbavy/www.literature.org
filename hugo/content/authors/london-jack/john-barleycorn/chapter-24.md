@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-24.html"
+url: "/authors/london-jack/john-barleycorn/chapter-24.html"
 ---
 
 Out in the country, at the Belmont Academy, I went to work in a small, perfectly appointed steam laundry. Another fellow and myself did all the work from sorting and washing to ironing the white shirts, collars and cuffs, and the "fancy starch" of the wives of the professors. We worked like tigers, especially as summer came on and the academy boys took to the wearing of duck trousers. It consumes a dreadful lot of time to iron one pair of duck trousers. And there were so many pairs of them. We sweated our way through long sizzling weeks at a task that was never done; and many a night, while the students snored in bed, my partner and I toiled on under the electric light at steam mangle or ironing board.

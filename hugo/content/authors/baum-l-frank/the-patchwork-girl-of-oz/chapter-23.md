@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 24
-aliases:
-  - "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-23.html"
+url: "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-23.html"
 ---
 
 "Come with me to my dwelling and I'll introduce you to my daughters," said the Chief. "We're bringing them up according to a book of rules that was written by one of our leading old bachelors, and everyone says they're a remarkable lot of girls."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/daviess-maria-thompson/the-golden-bird/chapter-10.html"
+url: "/authors/daviess-maria-thompson/the-golden-bird/chapter-10.html"
 ---
 
 Friday, the twenty-first of April, I shall always remember as the busiest day of my life, for, as Aunt Mary had said, it takes time to bank fires enough to keep a farm alive a whole half day even if it is not running. I did all my usual work with my small folk, and then I measured and poured out in different receptacles their existence for the last half of the next day. After breakfast on Saturday I finally decided upon Uncle Cradd as the most trustworthy person of the three ancients, one of whom I was obliged to depend upon for substitution. Rufus, I felt sure, would compromise by feeding every ration to the hogs, and I knew that he could persuade father to do likewise, but Uncle Cradd, I felt, would bring moral force to bear upon the situation.

@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 1 - In Which The Prince Departs On An Adventure"
 weight: 3
-aliases:
-  - "/authors/stevenson-robert-louis/prince-otto/book-01-chapter-01.html"
+url: "/authors/stevenson-robert-louis/prince-otto/book-01-chapter-01.html"
 ---
 
 You shall seek in vain upon the map of Europe for the bygone state of Grünewald. An independent principality, an infinitesimal member of the German Empire, she played, for several centuries, her part in the discord of Europe; and, at last, in the ripeness of time and at the spiriting of several bald diplomatists, vanished like a morning ghost. Less fortunate than Poland, she left not a regret behind her; and the very memory of her boundaries has faded.

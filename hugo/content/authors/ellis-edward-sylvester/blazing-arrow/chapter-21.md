@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - A Strange Pursuit"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-21.html"
 ---
 
 When Larry Murphy paddled the canoe beyond reach of the missile hurled by the enraged owner of the craft, the boys were warranted in believing that they were done with him. He was eliminated from the problem, so to speak.

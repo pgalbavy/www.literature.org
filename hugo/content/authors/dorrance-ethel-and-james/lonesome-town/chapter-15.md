@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Limit Of Trust"
 weight: 15
-aliases:
-  - "/authors/dorrance-ethel-and-james/lonesome-town/chapter-15.html"
+url: "/authors/dorrance-ethel-and-james/lonesome-town/chapter-15.html"
 ---
 
 Not until Jane was finishing an account of his disposal of the “grave-diggers” did Pape feel sure that the splendid old man was blind. Suspicion had come from the uncertainty with which he had veered toward the chair placed for him, from his indirect gaze toward the girl, from the hand outstretched for the touch of her hand. Conclusion surprised from the Westerner a low, sympathetic exclamation which Jane heard, evidently understood and chose to answer openly.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Flag Goes Marching By"
 weight: 19
-aliases:
-  - "/authors/tarkington-booth/the-two-vanrevels/chapter-19.html"
+url: "/authors/tarkington-booth/the-two-vanrevels/chapter-19.html"
 ---
 
 Will Cummings had abandoned the pen for the sword until such time as Santa Anna should cry for quarter, and had left the office in charge of an imported substitute; but late that night he came to his desk once more, to write the story of the accident to Corporal Gray; and the tale that he wrote had been already put into writing by Tom Vanrevel as it fell from Crailey's lips, after the doctor had, come, so that none might doubt it. No one did doubt it. What reason had Mr. Carewe to injure Crailey Gray? Only five in Rouen knew the truth; for Nelson had gone with his master, and, except Mamie, the other servants of the Carewe household had been among the crowd in front of the Rouen House when the shot was fired.

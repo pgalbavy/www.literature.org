@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 15 - Two New Servants"
 weight: 15
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-01-chapter-15.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-01-chapter-15.html"
 ---
 
 Mr and Mrs Boffin sat after breakfast, in the Bower, a prey to prosperity. Mr Boffin’s face denoted Care and Complication. Many disordered papers were before him, and he looked at them about as hopefully as an innocent civilian might look at a crowd of troops whom he was required at five minutes’ notice to manoeuvre and review. He had been engaged in some attempts to make notes of these papers; but being troubled (as men of his stamp often are) with an exceedingly distrustful and corrective thumb, that busy member had so often interposed to smear his notes, that they were little more legible than the various impressions of itself; which blurred his nose and forehead. It is curious to consider, in such a case as Mr Boffin’s, what a cheap article ink is, and how far it may be made to go. As a grain of musk will scent a drawer for many years, and still lose nothing appreciable of its original weight, so a halfpenny-worth of ink would blot Mr Boffin to the roots of his hair and the calves of his legs, without inscribing a line on the paper before him, or appearing to diminish in the inkstand.

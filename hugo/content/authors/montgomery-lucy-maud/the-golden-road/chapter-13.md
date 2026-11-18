@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Surprising Announcement"
 weight: 14
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-13.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-13.html"
 ---
 
 "Nothing exciting has happened for ever so long," said the Story Girl discontentedly, one late May evening, as we lingered under the wonderful white bloom of the cherry trees. There was a long row of them in the orchard, with a Lombardy poplar at either end, and a hedge of lilacs behind. When the wind blew over them all the spicy breezes of Ceylon's isle were never sweeter.

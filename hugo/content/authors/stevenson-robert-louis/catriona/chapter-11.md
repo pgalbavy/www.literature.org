@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Wood By Silvermills"
 weight: 12
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-11.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-11.html"
 ---
 
 I lost no time, but down through the valley and by Stockbridge and Silvermills as hard as I could stave. It was Alan’s tryst to be every night between twelve and two "in a bit scrog of wood by east of Silvermills and by south the south mill-lade." This I found easy enough, where it grew on a steep brae, with the mill-lade flowing swift and deep along the foot of it; and here I began to walk slower and to reflect more reasonably on my employment. I saw I had made but a fool’s bargain with Catriona. It was not to be supposed that Neil was sent alone upon his errand, but perhaps he was the only man belonging to James More; in which case I should have done all I could to hang Catriona’s father, and nothing the least material to help myself. To tell the truth, I fancied neither one of these ideas. Suppose by holding back Neil, the girl should have helped to hang her father, I thought she would never forgive herself this side of time. And suppose there were others pursuing me that moment, what kind of a gift was I come bringing to Alan? and how would I like that?

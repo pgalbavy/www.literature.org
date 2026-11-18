@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44"
 weight: 44
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-44.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-44.html"
 ---
 
 Fairy folk a-listening Hear the seed sprout in the spring. And for music to their dance Hear the hedgerows wake from trance, Sap that trembles into buds Sending little rythmic floods Of fairy sound in fairy ears. Thus all beauty that appears Has birth as sound to finer sense And lighter-clad intelligence.

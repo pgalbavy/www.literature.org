@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Welcome Sight"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-05.html"
 ---
 
 The first sign that caught the eye of the Shawanoe was the mute forms of the five Nez Perces, stretched here and there over a space of an eighth of a mile. All had been scalped and mutilated. But he had seen such shocking sights before, and he did not go near the bodies nor give them further attention. It was no great task for him to transfer his interest from the trail of one party to that of another, and he was speedily loping forward as rapidly as before.

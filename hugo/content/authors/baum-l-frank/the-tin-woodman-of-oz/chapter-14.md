@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-14.html"
+url: "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-14.html"
 ---
 
 They now entered the house, and as an interested group, watched Jinjur, at Ozma's command, build a fire and put a kettle of water over to boil. The Ruler of Oz stood before the fire silent and grave, while the others, realizing that an important ceremony of magic was about to be performed, stood quietly in the background so as not to interrupt Ozma's proceedings. Only Polychrome kept going in and coming out, humming softly to herself as she danced, for the Rainbow's Daughter could not keep still for long, and the four walls of a room always made her nervous and ill at ease. She moved so noiselessly, however, that her movements were like the shifting of sunbeams and did not annoy anyone.

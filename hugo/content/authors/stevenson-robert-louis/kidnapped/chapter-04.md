@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - I Run A Great Danger In The House Of Shaws"
 weight: 5
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-04.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-04.html"
 ---
 
 For a day that was begun so ill, the day passed fairly well. We had the porridge cold again at noon, and hot porridge at night; porridge and small beer was my uncle’s diet. He spoke but little, and that in the same way as before, shooting a question at me after a long silence; and when I sought to lead him to talk about my future, slipped out of it again. In a room next door to the kitchen, where he suffered me to go, I found a great number of books, both Latin and English, in which I took great pleasure all the afternoon. Indeed, the time passed so lightly in this good company, that I began to be almost reconciled to my residence at Shaws; and nothing but the sight of my uncle, and his eyes playing hide and seek with mine, revived the force of my distrust.

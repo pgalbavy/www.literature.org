@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Marooned"
 weight: 29
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-29.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-29.html"
 ---
 
 To say the least, Mike Murphy was much disquieted when the engine of the *Deerfoot* stopped dead and the boat began drifting in the darkness, no one could say whither. Not knowing the right thing to do, he seized hold of the fly-wheel, swung it back and forth and part way round, and then suddenly let go, as he had seen Alvin Landon do many times. Since there was no fuel in the tank, it need not be said that this effort was fruitless.

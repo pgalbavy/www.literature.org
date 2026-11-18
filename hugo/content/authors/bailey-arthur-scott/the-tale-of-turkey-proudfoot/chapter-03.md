@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Meddler"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-03.html"
 ---
 
 "Why don't you tell the geese that it's dangerous for them to swim in the duck pond?" the rooster asked Turkey Proudfoot. "Tell them how it almost gives you a chill just to see them set out for the pond. Ask them to keep out of the water."

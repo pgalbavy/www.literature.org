@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Conclusion"
 weight: 33
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-33.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-33.html"
 ---
 
 "My brother speaks with a single tongue," said Deerfoot, replying to the cringing words of Arorara: "the Great Spirit will frown when he sees two brothers fighting each other. Deerfoot has slain more than one Shawanoe and has spared others; he will spare Arorara; he may sit down beside the Osage warrior and smoke pipe with him."

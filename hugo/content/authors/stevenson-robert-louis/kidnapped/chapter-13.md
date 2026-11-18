@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Loss Of The Brig"
 weight: 14
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-13.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-13.html"
 ---
 
 It was already late at night, and as dark as it ever would be at that season of the year (and that is to say, it was still pretty bright), when Hoseason clapped his head into the round-house door.

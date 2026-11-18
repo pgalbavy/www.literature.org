@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Hunted By A Buck"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-24.html"
 ---
 
 Glancing over his shoulder, Nick Ribsam kept informed of the movements of his fierce foe, who was certainly carrying things with a hurricane rush.

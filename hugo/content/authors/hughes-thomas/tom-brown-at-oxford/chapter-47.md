@@ -1,8 +1,7 @@
 ---
 title: "Chapter 47 - The Wedding-Day"
 weight: 49
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-47.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-47.html"
 ---
 
 One-more-poor-man-un-done One-more-poor-man-un-done

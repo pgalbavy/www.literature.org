@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-04.html"
+url: "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-04.html"
 ---
 
 One afternoon, a month later, Dorian Gray was reclining in a luxurious arm-chair, in the little library of Lord Henry's house in Mayfair. It was, in its way, a very charming room, with its high panelled wainscoting of olive-stained oak, its cream-coloured frieze and ceiling of raised plasterwork, and its brickdust felt carpet strewn with silk, long-fringed Persian rugs. On a tiny satinwood table stood a statuette by Clodion, and beside it lay a copy of Les Cent Nouvelles, bound for Margaret of Valois by Clovis Eve and powdered with the gilt daisies that Queen had selected for her device. Some large blue china jars and parrot-tulips were ranged on the mantelshelf, and through the small leaded panes of the window streamed the apricot-coloured light of a summer day in London.

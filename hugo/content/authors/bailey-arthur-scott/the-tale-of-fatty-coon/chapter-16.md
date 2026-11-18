@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Fatty Coon Plays Robber"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-16.html"
 ---
 
 After Fatty Coon played barber-shop with Jimmy Rabbit and his brother it was a long time before he met them again. But one day Fatty was wandering through the woods when he caught sight of Jimmy. Jimmy dodged behind a tree. And Fatty saw Jimmy's brother peep from behind another. You see, his ears were so long that they stuck far beyond the tree, and Fatty couldn't help seeing them.

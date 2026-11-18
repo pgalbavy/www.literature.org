@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 6 - The Love-Master"
 weight: 20
-aliases:
-  - "/authors/london-jack/white-fang/part-04-chapter-06.html"
+url: "/authors/london-jack/white-fang/part-04-chapter-06.html"
 ---
 
 As White Fang watched Weedon Scott approach, he bristled and snarled to advertise that he would not submit to punishment. Twenty-four hours had passed since he had slashed open the hand that was now bandaged and held up by a sling to keep the blood out of it. In the past White Fang had experienced delayed punishments, and he apprehended that such a one was about to befall him. How could it be otherwise? He had committed what was to him sacrilege, sunk his fangs into the holy flesh of a god, and of a white-skinned superior god at that. In the nature of things, and of intercourse with gods, something terrible awaited him.

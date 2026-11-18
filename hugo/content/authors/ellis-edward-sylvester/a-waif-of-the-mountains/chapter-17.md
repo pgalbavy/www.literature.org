@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Pursuers"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-17.html"
 ---
 
 The parson expressed his disappointment in vigorous language, when, instead of the horses, the hybrids proved to be the only animals near them.

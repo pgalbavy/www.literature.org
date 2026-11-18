@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 24
-aliases:
-  - "/authors/austen-jane/northanger-abbey/chapter-23.html"
+url: "/authors/austen-jane/northanger-abbey/chapter-23.html"
 ---
 
 An hour passed away before the general came in, spent, on the part of his young guest, in no very favourable consideration of his character. "This lengthened absence, these solitary rambles, did not speak a mind at ease, or a conscience void of reproach." At length he appeared; and, whatever might have been the gloom of his meditations, he could still smile with *them*. Miss Tilney, understanding in part her friend’s curiosity to see the house, soon revived the subject; and her father being, contrary to Catherine’s expectations, unprovided with any pretence for further delay, beyond that of stopping five minutes to order refreshments to be in the room by their return, was at last ready to escort them.

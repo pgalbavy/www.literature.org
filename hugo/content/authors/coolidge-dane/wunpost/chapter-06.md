@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Cinched"
 weight: 6
-aliases:
-  - "/authors/coolidge-dane/wunpost/chapter-06.html"
+url: "/authors/coolidge-dane/wunpost/chapter-06.html"
 ---
 
 Having established his rights beyond the peradventure of a doubt, the imperious Wunpost left Old Whiskers to recoup his losses and turned to the wide-eyed Wilhelmina. She had been standing, rooted to the earth, while he assaulted Old Whiskers and Rhodes; and as she glanced up at him doubtfully he winked and grinned back at her and spoke from behind the cover of his hand.

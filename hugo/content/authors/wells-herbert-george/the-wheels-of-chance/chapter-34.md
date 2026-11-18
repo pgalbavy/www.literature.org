@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 34
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-34.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-34.html"
 ---
 
 "Good morning, Madam," said Hoopdriver, as Jessie came into the breakfast room of the Golden Pheasant on Monday morning, and he smiled, bowed, rubbed his hands together, and pulled out a chair for her, and rubbed his hands again.

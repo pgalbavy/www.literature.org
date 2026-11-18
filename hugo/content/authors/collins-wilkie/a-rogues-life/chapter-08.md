@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/collins-wilkie/a-rogues-life/chapter-08.html"
+url: "/authors/collins-wilkie/a-rogues-life/chapter-08.html"
 ---
 
 I WENT back to the fishing-place with a heavy heart, overcome by mournful thoughts, for the first time in my life. It was plain that she did not dislike me, and equally plain that there was some obstacle connected with her father, which forbade her to listen to my offer of marriage. From the time when she had accidentally looked toward the red-brick house, something in her manner which it is quite impossible to describe, had suggested to my mind that this obstacle was not only something she could not mention, but something that she was partly ashamed of, partly afraid of, and partly doubtful about. What could it be? How had she first known it? In what way was her father connected with it?

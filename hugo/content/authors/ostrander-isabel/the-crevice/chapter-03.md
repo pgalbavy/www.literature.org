@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Henry Blaine Takes A Hand"
 weight: 3
-aliases:
-  - "/authors/ostrander-isabel/the-crevice/chapter-03.html"
+url: "/authors/ostrander-isabel/the-crevice/chapter-03.html"
 ---
 
 A man stood upon the threshold: a man of medium height, with sandy hair and mustache slightly tinged with gray. His face was alert and keenly intelligent. His eyes shrewd, but kindly, the brows sloping downward toward the nose, with the peculiar look of concentration of one given to quick decisions and instant, fearless action.

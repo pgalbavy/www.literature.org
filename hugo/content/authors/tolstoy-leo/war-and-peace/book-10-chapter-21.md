@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 21"
 weight: 211
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-21.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-21.html"
 ---
 
 Pierre stepped out of his carriage and, passing the toiling militiamen, ascended the knoll from which, according to the doctor, the battlefield could be seen.

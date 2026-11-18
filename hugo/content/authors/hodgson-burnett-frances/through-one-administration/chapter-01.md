@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-01.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-01.html"
 ---
 
 Eight years before the Administration rendered important by the series of events and incidents which form the present story, there had come to Washington, on a farewell visit to a distant relative with whom he was rather a favorite, a young officer who was on the point of leaving the civilized world for a far-away Western military station. The name of the young officer was Philip Tredennis. His relative and entertainer was a certain well-known entomologist, whom it will be safe to call Professor Herrick. At the Smithsonian and in all scientific circles, Professor Herrick's name was a familiar one. He was considered an enviable as well as an able man. He had established himself in Washington because he found men there whose tastes and pursuits were congenial with his own, and because the softness of the climate suited him; he was rich enough to be free from all anxiety and to enjoy the delightful liberty of pursuing his scientific labors because they were his pleasure, and not because he was dependent upon their results. He had a quiet and charming home, an excellent matter-of-fact wife, and one daughter, who was being educated in a northern city, and who was said to be as bright and attractive as one could wish a young creature to be.

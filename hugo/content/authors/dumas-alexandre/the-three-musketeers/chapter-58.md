@@ -1,8 +1,7 @@
 ---
 title: "Chapter 58 - Escape"
 weight: 59
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-58.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-58.html"
 ---
 
 As Lord de Winter had thought, Milady's wound was not dangerous. So soon as she was left alone with the woman whom the baron had summoned to her assistance she opened her eyes.

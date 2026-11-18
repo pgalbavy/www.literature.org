@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Shadow Of Ruin"
 weight: 9
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-09.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-09.html"
 ---
 
 Mr. Quest walked to his vestry meeting with a smile upon his thin, gentlemanly-looking face, and rage and bitterness in his heart.

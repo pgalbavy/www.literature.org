@@ -1,8 +1,7 @@
 ---
 title: "chapter 17"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-17.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-17.html"
 ---
 
 In Beldover, there was both for Ursula and for Gudrun an interval. It seemed to Ursula as if Birkin had gone out of her for the time, he had lost his significance, he scarcely mattered in her world. She had her own friends, her own activities, her own life. She turned back to the old ways with zest, away from him.

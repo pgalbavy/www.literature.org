@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Dropped From The Sky"
 weight: 9
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-09.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-09.html"
 ---
 
 Lieutenant Harold Percy Smith-Oldwick, Royal Air Service, was on reconnaissance. A report, or it would be better to say a rumor, had come to the British headquar- ters in German East Africa that the enemy had landed in force on the west coast and was marching across the dark continent to reinforce their colonial troops. In fact the new army was supposed to be no more than ten or twelve days' march to the west. Of course the thing was ridiculous -- pre- posterous -- but preposterous things often happen in war; and anyway no good general permits the least rumor of enemy activity to go uninvestigated.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Leopard Man's Story"
 weight: 2
-aliases:
-  - "/authors/london-jack/moon-face/chapter-02.html"
+url: "/authors/london-jack/moon-face/chapter-02.html"
 ---
 
 HE had a dreamy, far-away look in his eyes, and his sad, insistent voice, gentle-spoken as a maid's, seemed the placid embodiment of some deep-seated melancholy. He was the Leopard Man, but he did not look it. His business in life, whereby he lived, was to appear in a cage of performing leopards before vast audiences, and to thrill those audiences by certain exhibitions of nerve for which his employers rewarded him on a scale commensurate with the thrills he produced.

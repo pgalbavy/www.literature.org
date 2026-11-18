@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/cather-willa/alexanders-bridge/chapter-09.html"
+url: "/authors/cather-willa/alexanders-bridge/chapter-09.html"
 ---
 
 On the last Saturday in April, the New York “Times” published an account of the strike complications which were delaying Alexander’s New Jersey bridge, and stated that the engineer himself was in town and at his office on West Tenth Street.

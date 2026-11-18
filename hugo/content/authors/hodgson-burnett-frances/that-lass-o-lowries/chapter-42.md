@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42 - Ashley-Wold"
 weight: 42
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-42.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-42.html"
 ---
 
 Two weeks after Joan left Riggan, she entered the village of Ashley-Wold on foot. With the exception of a few miles here and there, when a friendly wagoner had offered her a lift, she had made all her journey in this manner. She had met with discouragement and disappointment. She had not fancied that it would be an easy matter to find work, though she had expressed no doubt to Anice, but it was even a more difficult matter than she had imagined. At some places work was not to be had, in others the fact that she was an utter stranger went against her.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/chambers-robert-w/the-business-of-life/chapter-08.html"
+url: "/authors/chambers-robert-w/the-business-of-life/chapter-08.html"
 ---
 
 The countryside adjacent to Silverwood was eminently and self-consciously respectable. The fat, substantial estates still belonged to families whose forefathers had first taken title to them. There were, of course, a number of "colonial" houses, also a "colonial" inn, The Desboro Arms, built to look as genuine as possible, although only two years old, steam heated, and electric lighted.

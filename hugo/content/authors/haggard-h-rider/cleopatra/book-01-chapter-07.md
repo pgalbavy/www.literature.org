@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 7"
 weight: 8
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-01-chapter-07.html"
+url: "/authors/haggard-h-rider/cleopatra/book-01-chapter-07.html"
 ---
 
 OF THE AWAKING OF HARMACHIS; OF THE CEREMONY OF HIS CROWNING AS PHARAOH OF THE UPPER AND THE LOWER LAND; AND OF THE OFFERINGS MADE TO PHARAOH

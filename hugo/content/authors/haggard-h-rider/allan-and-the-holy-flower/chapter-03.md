@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Sir Alexander And Stephen"
 weight: 3
-aliases:
-  - "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-03.html"
+url: "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-03.html"
 ---
 
 It was just at this moment that I saw standing by me a fine-looking, stout man with a square, grey beard and a handsome, but not very good-tempered face. He was looking about him as one does who finds himself in a place to which he is not accustomed.

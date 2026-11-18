@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Old Calabar"
 weight: 6
-aliases:
-  - "/authors/davis-richard-harding/the-congo-and-coasts-of-africa/chapter-06.html"
+url: "/authors/davis-richard-harding/the-congo-and-coasts-of-africa/chapter-06.html"
 ---
 
 While I was up the Congo and the Kasai rivers, Mrs. Davis had remained at Boma, and when I rejoined her, we booked passage home on the Nigeria. We chose the Nigeria, which is an Elder-Dempster freight and passenger steamer, in preference to the fast mail steamer because of the ports of the West Coast we wished to see as many as possible. And, on her six weeks' voyage to Liverpool, the Nigeria promised to spend as much time at anchor as at sea. On the Coast it is a more serious matter to reserve a cabin than in New York. You do not stop at an uptown office, and on a diagram of the ship's insides, as though you were playing roulette, point at a number. Instead, as you are to occupy your cabin, not for one, but for six, weeks, you search, as vigilantly as a navy officer looking for contraband, the ship herself and each cabin.

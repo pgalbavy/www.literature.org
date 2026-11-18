@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 5 - The Wine-Shop"
 weight: 5
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-01-chapter-05.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-01-chapter-05.html"
 ---
 
 A LARGE CASK of wine had been dropped and broken, in the street. The accident had happened in getting it out of a cart; the cask had tumbled out with a run, the hoops had burst, and it lay on the stones just outside the door of the wine-shop, shattered like a walnut-shell.

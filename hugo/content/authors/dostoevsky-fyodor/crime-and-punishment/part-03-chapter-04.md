@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 4"
 weight: 19
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-03-chapter-04.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-03-chapter-04.html"
 ---
 
 At that moment the door was softly opened, and a young girl walked into the room, looking timidly about her. Everyone turned towards her with surprise and curiosity. At first sight, Raskolnikov did not recognise her. It was Sofya Semyonovna Marmeladov. He had seen her yesterday for the first time, but at such a moment, in such surroundings and in such a dress, that his memory retained a very different image of her. Now she was a modestly and poorly-dressed young girl, very young, indeed, almost like a child, with a modest and refined manner, with a candid but somewhat frightened-looking face. She was wearing a very plain indoor dress, and had on a shabby old- fashioned hat, but she still carried a parasol. Unexpectedly finding the room full of people, she was not so much embarrassed as completely overwhelmed with shyness, like a little child. She was even about to retreat. "Oh . . . it's you!" said Raskolnikov, extremely astonished, and he, too, was confused. He at once recollected that his mother and sister knew through Luzhin's letter of "some young woman of notorious behaviour." He had only just been protesting against Luzhin's calumny and declaring that he had seen the girl last night for the first time, and suddenly she had walked in. He remembered, too, that he had not protested against the expression "of notorious behaviour." All this passed vaguely and fleetingly through his brain, but looking at her more intently, he saw that the humiliated creature was so humiliated that he felt suddenly sorry for her. When she made a movement to retreat in terror, it sent a pang to his heart.

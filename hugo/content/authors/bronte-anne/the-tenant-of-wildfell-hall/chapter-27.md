@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 28
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-27.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-27.html"
 ---
 
 October 9th. - It was on the night of the 4th, a little after tea, that Annabella had been singing and playing, with Arthur as usual at her side: she had ended her song, but still she sat at the instrument; and he stood leaning on the back of her chair, conversing in scarcely audible tones, with his face in very close proximity with hers. I looked at Lord Lowborough. He was at the other end of the room, talking with Messrs. Hargrave and Grimsby; but I saw him dart towards his lady and his host a quick, impatient glance, expressive of intense disquietude, at which Grimsby smiled. Determined to interrupt the TETE-E-TETE, I rose, and, selecting a piece of music from the music stand, stepped up to the piano, intending to ask the lady to play it; but I stood transfixed and speechless on seeing her seated there, listening, with what seemed an exultant smile on her flushed face to his soft murmurings, with her hand quietly surrendered to his clasp. The blood rushed first to my heart, and then to my head; for there was more than this: almost at the moment of my approach, he cast a hurried glance over his shoulder towards the other occupants of the room, and then ardently pressed the unresisting hand to his lips. On raising his eyes, he beheld me, and dropped them again, confounded and dismayed. She saw me too, and confronted me with a look of hard defiance. I laid the music on the piano, and retired. I felt ill; but I did not leave the room: happily, it was getting late, and could not be long before the company dispersed.

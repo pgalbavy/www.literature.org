@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - A Learned Italian"
 weight: 16
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-16.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-16.html"
 ---
 
 Seizing in his arms the friend so long and ardently desired, Dantes almost carried him towards the window, in order to obtain a better view of his features by the aid of the imperfect light that struggled through the grating.

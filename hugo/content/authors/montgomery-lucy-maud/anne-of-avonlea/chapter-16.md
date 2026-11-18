@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Substance Of Things Hoped For"
 weight: 16
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-16.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-16.html"
 ---
 
 "Anne," said Davy appealingly, scrambling up on the shiny, leather-covered sofa in the Green Gables kitchen, where Anne sat, reading a letter, "Anne, I'm AWFUL hungry. You've no idea."

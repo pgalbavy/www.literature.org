@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-07.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-07.html"
 ---
 
 They sat together at a small table, looking upon a scene which was probably unique in the history of the great restaurant. The younger man was both frankly interested and undoubtedly curious. Mr. Sabin, though his eyes seemed everywhere, retained to the full extent that nonchalance of manner which all his life he had so assiduously cultivated.

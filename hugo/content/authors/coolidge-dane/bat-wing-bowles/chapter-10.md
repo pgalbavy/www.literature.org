@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The First Smile"
 weight: 10
-aliases:
-  - "/authors/coolidge-dane/bat-wing-bowles/chapter-10.html"
+url: "/authors/coolidge-dane/bat-wing-bowles/chapter-10.html"
 ---
 
 The next three days were one long, aching agony for Bowles. He carried a little water for Gloomy Gus, but stubbornly refused the job of flunky. He helped the horse wrangler--a wild-eyed youth who could pop a rope like a pistol-shot and yell like a murdering Apache--but as resolutely refused the job of assistant. He had been taken on as a cowboy, and a cowboy he tried to be, though every nerve and muscle called a halt. From the first morning, when they sent him out in the dark to wrangle the horse pasture, to the third evening, when he crawled wearily into an old "bed" that he had picked up, his life was a prolonged succession of accidents, mistakes, and awkward happenings; yet he stayed with it, bull-headed and determined, until Henry Lee grew tired of hazing him and put him on the day-herd to get healed up.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - An Abstract Of The Six Messages First Received From Mr. Cavor"
 weight: 23
-aliases:
-  - "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-23.html"
+url: "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-23.html"
 ---
 
 THE two earlier messages of Mr. Cavor may very well be reserved for that larger volume. They simply tell, with greater brevity and with a difference in several details that is interesting, but not of any vital importance, the bare facts of the making of the sphere and our departure from the world. Throughout, Cavor speaks of me as a man who is dead, but with a curious change of temper as he approaches our landing on the moon. "Poor Bedford," he says of me, and "this poor young man "; and he blames himself for inducing a young man, "by no means well equipped for such adventures," to leave a planet "on which he was indisputably fitted to succeed" on so precarious a mission. I think he underrates the part my energy and practical capacity played in bringing about the realisation of his theoretical sphere. "We arrived," he says, with no more account of our passage through space than if we had made a journey of common occurrence in a railway train.

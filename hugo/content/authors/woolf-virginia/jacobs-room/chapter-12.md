@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/woolf-virginia/jacobs-room/chapter-12.html"
+url: "/authors/woolf-virginia/jacobs-room/chapter-12.html"
 ---
 
 The water fell off a ledge like lead—like a chain with thick white links. The train ran out into a steep green meadow, and Jacob saw striped tulips growing and heard a bird singing, in Italy.

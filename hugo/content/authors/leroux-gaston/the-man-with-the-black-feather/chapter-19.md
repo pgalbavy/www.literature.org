@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Story Of The Calf"
 weight: 20
-aliases:
-  - "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-19.html"
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-19.html"
 ---
 
 Marceline had risen and gone to her bedroom as much to hide her emotion as to ascertain whether the nickel-plated revolver was still in its drawer. When she came back into the dining-room, Theophrastus asked her what was the matter with her. Marceline replied that the revolver was no longer in its drawer. Theophrastus begged her to compose herself, and declared, in a tone which admitted of no contradiction, that since the revolver was not in its drawer, it must be somewhere else, and it was a matter of no importance whatever.

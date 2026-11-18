@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-15.html"
+url: "/authors/dickens-charles/great-expectations/chapter-15.html"
 ---
 
 As I was getting too big for Mr Wopale's great-aunt's room, my education under that preposterous female terminate d. Not, how- ever, until Biddy had imparted to me everything she knew, from the little catalogue of prices, to a comic song she had once bought for a halfpenny. Although the only coherent part of the latter piece of literature were the opening lines, When I went to Lunnon town sirs, Too rul loo rul Too rul loo rul Wasn't I done very brown sirs ? Too rul loo rul Too rul loo rul -- still, in my desire to be wiser, I got this composition by heart with the utmost gravity; nor do I recollect that I questioned its merit, except that I thought (as I still do) the amount of Too rul somewhat in excess of the poetry. In my hunger for information, I made proposals to Mr Wopsle to bestow some intellectual crumbs upon me; with which he kindly complied. As it turned out, how- ever, that he only wanted me for a dramatic lay-figure, to be con- tradicted and embraced and wept over and bullied and clutched and stabbed and knocked about in a variety of ways, I soon declined that course of instruction; though not until Mr Wopale in his poetic fury had severely mauled me.

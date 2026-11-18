@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/verne-jules/round-the-moon/chapter-19.html"
+url: "/authors/verne-jules/round-the-moon/chapter-19.html"
 ---
 
 For a long time Barbicane and his companions looked silently and sadly upon that world which they had only seen from a distance, as Moses saw the land of Canaan, and which they were leaving without a possibility of ever returning to it. The projectile's position with regard to the moon had altered, and the base was now turned to the earth.

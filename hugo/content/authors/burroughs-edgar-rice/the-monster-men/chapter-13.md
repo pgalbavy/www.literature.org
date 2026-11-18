@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Buried Treasure"
 weight: 13
-aliases:
-  - "/authors/burroughs-edgar-rice/the-monster-men/chapter-13.html"
+url: "/authors/burroughs-edgar-rice/the-monster-men/chapter-13.html"
 ---
 
 After the escape of the girl Barunda and Ninaka had fallen out over that affair and the division of the treasure, with the result that the panglima had slipped a knife between the ribs of his companion and dropped the body overboard.

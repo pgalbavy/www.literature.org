@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 4 - Another Love-Scene"
 weight: 36
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-05-chapter-04.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-05-chapter-04.html"
 ---
 
 Early in the following April, nearly a year after that dubious parting you have just witnessed, you may, if you like, again see Maggie entering the Red Deeps through the group of Scotch firs. But it is early afternoon and not evening, and the edge of sharpness in the spring air makes her draw her large shawl close about her and trip along rather quickly; though she looks round, as usual, that she may take in the sight of her beloved trees. There is a more eager, inquiring look in her eyes than there was last June, and a smile is hovering about her lips, as if some playful speech were awaiting the right hearer. The hearer was not long in appearing.

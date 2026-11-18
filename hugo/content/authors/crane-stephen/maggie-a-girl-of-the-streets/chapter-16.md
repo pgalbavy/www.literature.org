@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-16.html"
+url: "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-16.html"
 ---
 
 Pete did not consider that he had ruined Maggie. If he had thought that her soul could never smile again, he would have believed the mother and brother, who were pyrotechnic over the affair, to be responsible for it.

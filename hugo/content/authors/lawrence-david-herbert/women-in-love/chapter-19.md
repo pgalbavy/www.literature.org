@@ -1,8 +1,7 @@
 ---
 title: "chapter 19"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-19.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-19.html"
 ---
 
 After his illness Birkin went to the south of France for a time. He did not write, nobody heard anything of him. Ursula, left alone, felt as if everything were lapsing out. There seemed to be no hope in the world. One was a tiny little rock with the tide of nothingness rising higher and higher She herself was real, and only herself - just like a rock in a wash of flood-water. The rest was all nothingness. She was hard and indifferent, isolated in herself.

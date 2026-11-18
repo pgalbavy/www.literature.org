@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Sunlight And Hope"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-04.html"
 ---
 
 By clinging to the tail of the terrified wolf, Fred Munson had been assisted, dragged, and pulled from the Cimmerian gloom of the mountain cave into the glorious sunlight again. When the glare of light burst upon him, he let go of the queer aid to freedom, and the mystified animal skurried away with increased speed.

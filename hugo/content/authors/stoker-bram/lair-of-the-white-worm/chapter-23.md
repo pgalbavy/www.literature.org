@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/stoker-bram/lair-of-the-white-worm/chapter-23.html"
+url: "/authors/stoker-bram/lair-of-the-white-worm/chapter-23.html"
 ---
 
 Sir Nathaniel was in the library next morning, after breakfast, when Adam came to him carrying a letter.

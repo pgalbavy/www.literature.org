@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Cinderella, Or The Little Glass Slipper"
 weight: 2
-aliases:
-  - "/authors/perrault-charles/the-tales-of-mother-goose/chapter-01.html"
+url: "/authors/perrault-charles/the-tales-of-mother-goose/chapter-01.html"
 ---
 
 Once upon a time there was a gentleman who married, for his second wife, the proudest and most haughty woman that ever was seen. She had two daughters of her own, who were, indeed, exactly like her in all things. The gentleman had also a young daughter, of rare goodness and sweetness of temper, which she took from her mother, who was the best creature in the world.

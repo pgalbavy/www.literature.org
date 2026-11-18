@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/conrad-joseph/the-secret-agent/chapter-09.html"
+url: "/authors/conrad-joseph/the-secret-agent/chapter-09.html"
 ---
 
 Mr Verloc returning from the Continent at the end of ten days, brought back a mind evidently unrefreshed by the wonders of foreign travel and a countenance unlighted by the joys of home-coming. He entered in the clatter of the shop bell with an air of sombre and vexed exhaustion. His bag in hand, his head lowered, he strode straight behind the counter, and let himself fall into the chair, as though he had tramped all the way from Dover. It was early morning. Stevie, dusting various objects displayed in the front windows, turned to gape at him with reverence and awe.

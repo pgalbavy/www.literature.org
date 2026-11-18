@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - The Burning Mountain"
 weight: 32
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-32.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-32.html"
 ---
 
 The tunnel through which Ashman propelled the canoe containing himself and Ariel, was more than a hundred yards in length. It was only for the smallest distance that the craft was in darkness, when the water began to reflect light and reveal its outlines.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - How Asmund The Priest Found Groa The Witch"
 weight: 2
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-01.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-01.html"
 ---
 
 There lived a man in the south, before Thangbrand, Wilibald’s son, preached the White Christ in Iceland. He was named Eric Brighteyes, Thorgrimur’s son, and in those days there was no man like him for strength, beauty and daring, for in all these things he was the first. But he was not the first in good-luck.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - Miss Cornelia Makes A Startling Announcement"
 weight: 37
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-37.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-37.html"
 ---
 
 Miss Cornelia sailed down to the little house one drowsy afternoon, when the gulf was the faint, bleached blue of the August seas, and the orange lilies at the gate of Anne's garden held up their imperial cups to be filled with the molten gold of August sunshine. Not that Miss Cornelia concerned herself with painted oceans or sun-thirsty lilies. She sat in her favorite rocker in unusual idleness. She sewed not, neither did she spin. Nor did she say a single derogatory word concerning any portion of mankind. In short, Miss Cornelia's conversation was singularly devoid of spice that day, and Gilbert, who had stayed home to listen to her, instead of going a-fishing, as he had intended, felt himself aggrieved. What had come over Miss Cornelia? She did not look cast down or worried. On the contrary, there was a certain air of nervous exultation about her.

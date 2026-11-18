@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - At The Bar Of The Court"
 weight: 10
-aliases:
-  - "/authors/greene-homer/burnham-breaker/chapter-10.html"
+url: "/authors/greene-homer/burnham-breaker/chapter-10.html"
 ---
 
 When Ralph went to his work at the breaker on the morning after his return from Wilkesbarre, he was met with curious glances from the men, and wondering looks and abrupt questions from the boys. It had become generally known that he claimed to be Robert Burnham's son, and that he was about to institute proceedings, through his guardian, to recover possession of his share of the estate. There was but little opportunity to interrogate him through the morning hours: the flow of coal through the chutes was too rapid and constant, and the grinding and crunching of the rollers, and the rumbling and hammering of the machinery, were too loud and incessant.

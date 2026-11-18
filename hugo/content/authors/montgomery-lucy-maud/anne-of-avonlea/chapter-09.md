@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A Question Of Color"
 weight: 9
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-09.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-09.html"
 ---
 
 "That old nuisance of a Rachel Lynde was here again today, pestering me for a subscription towards buying a carpet for the vestry room," said Mr. Harrison wrathfully. "I detest that woman more than anybody I know. She can put a whole sermon, text, comment, and application, into six words, and throw it at you like a brick."

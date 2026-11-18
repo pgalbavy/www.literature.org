@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Puzzle"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-18.html"
 ---
 
 Rusty Wren looked quite crestfallen as he listened to his wife's wail. He wished that he had heeded her warning, when she declared that his hiring a boy would certainly lead to trouble.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - The Two Defenders"
 weight: 37
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-37.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-37.html"
 ---
 
 Dick Morris, stretched out full length upon the top of Hurricane Hill, peering down in the impenetrable gloom, understood all that had passed. There was no mistaking that yell of Tom Hardynge; he had heard it many a time before in the heat of conflict, and it generally meant something.

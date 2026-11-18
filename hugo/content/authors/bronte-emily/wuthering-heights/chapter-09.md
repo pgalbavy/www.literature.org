@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-09.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-09.html"
 ---
 
 HE entered, vociferating oaths dreadful to hear; and caught me in the act of stowing his son sway in the kitchen cupboard. Hareton was impressed with a wholesome terror of encountering either his wild beast's fondness or his madman's rage; for in one he ran a chance of being squeezed and kissed to death, and in the other of being flung into the fire, or dashed against the wall; and the poor thing remained perfectly quiet wherever I chose to put him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Adventures Of Tommy"
 weight: 9
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/chapter-08.html"
+url: "/authors/christie-agatha/the-secret-adversary/chapter-08.html"
 ---
 
 *TAKEN* aback though he was by the man’s words, Tommy did not hesitate. If audacity had successfully carried him so far, it was to be hoped it would carry him yet farther. He quietly passed into the house and mounted the ramshackle staircase. Everything in the house was filthy beyond words. The grimy paper, of a pattern now indistinguishable, hung in loose festoons from the wall. In every angle was a grey mass of cobweb.

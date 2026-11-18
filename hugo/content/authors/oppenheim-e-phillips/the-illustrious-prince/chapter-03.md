@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - An Incident And An Accident"
 weight: 3
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-03.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-03.html"
 ---
 
 Smoothly the huge engine came gliding into the station--a dumb, silent creature now, drawing slowly to a standstill as though exhausted after its great effort. Through the windows of the saloon the station-master could see the train attendant bending over this mysterious passenger, who did not seem, as yet, to have made any preparations for leaving his place. Mr. Hamilton Fynes was seated at a table covered with papers, but he was leaning back as though he had been or was still asleep. The station-master stepped forward, and as he did so the attendant came hurrying out to the platform, and, pushing back the porters, called to him by name.

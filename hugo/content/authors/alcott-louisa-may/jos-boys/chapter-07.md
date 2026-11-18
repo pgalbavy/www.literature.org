@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Lion And The Lamb"
 weight: 7
-aliases:
-  - "/authors/alcott-louisa-may/jos-boys/chapter-07.html"
+url: "/authors/alcott-louisa-may/jos-boys/chapter-07.html"
 ---
 
 When the boys were gone a lull fell upon Plumfield, and the family scattered to various places for brief outings, as August had come and all felt the need of change. The Professor took Mrs Jo to the mountains. The Laurences were at the seashore, and there Meg's family and the Bhaer boys took turns to visit, as someone must always be at home to keep things in order.

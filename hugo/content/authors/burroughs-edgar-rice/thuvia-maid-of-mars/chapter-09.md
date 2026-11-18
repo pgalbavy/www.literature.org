@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Battle in the Plain"
 weight: 9
-aliases:
-  - "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/chapter-09.html"
+url: "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/chapter-09.html"
 ---
 
 The distance from the bottom of the funnel to the floor of the chamber beneath it could not have been great, for all three of the victims of Tario's wrath alighted unscathed.

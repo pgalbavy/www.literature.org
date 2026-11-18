@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - In The Heart Of The Oak Grove"
 weight: 6
-aliases:
-  - "/authors/leroux-gaston/the-yellow-room/chapter-06.html"
+url: "/authors/leroux-gaston/the-yellow-room/chapter-06.html"
 ---
 
 We reached the chateau, and, as we approached it, saw four gendarmes pacing in front of a little door in the ground floor of the donjon. We soon learned that in this ground floor, which had formerly served as a prison, Monsieur and Madame Bernier, the concierges, were confined. Monsieur Robert Darzac led us into the modern part of the chateau by a large door, protected by a projecting awning—a "marquise" as it is called. Rouletabille, who had resigned the horse and the cab to the care of a servant, never took his eyes off Monsieur Darzac. I followed his look and perceived that it was directed solely towards the gloved hands of the Sorbonne professor. When we were in a tiny sitting-room fitted with old furniture, Monsieur Darzac turned to Rouletabille and said sharply:

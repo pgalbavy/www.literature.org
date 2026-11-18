@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41"
 weight: 41
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-41.html"
+url: "/authors/austen-jane/mansfield-park/chapter-41.html"
 ---
 
 A week was gone since Edmund might be supposed in town, and Fanny had heard nothing of him. There were three different conclusions to be drawn from his silence, between which her mind was in fluctuation; each of them at times being held the most probable. Either his going had been again delayed, or he had yet procured no opportunity of seeing Miss Crawford alone, or he was too happy for letter-writing!

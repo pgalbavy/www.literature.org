@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - M. Paul"
 weight: 30
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-30.html"
+url: "/authors/bronte-charlotte/villette/chapter-30.html"
 ---
 
 Yet the reader is advised not to be in any hurry with his kindly conclusions, or to suppose, with an over-hasty charity, that from that day M. Paul became a changed character - easy to live with, and no longer apt to flash danger and discomfort round him.

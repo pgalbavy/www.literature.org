@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Castle In The Air"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-11.html"
 ---
 
 IT seemed as if Master Meadow Mouse was always moving. Perhaps the pleasantest move he ever made was when he went to the cornfield to live. When autumn came Farmer Green shocked the corn. All over the field bundles of cornstalks stood in rows, like soldiers. And what suited Master Meadow Mouse especially was the ripe ears in the shocks, which Farmer Green had not yet gathered.

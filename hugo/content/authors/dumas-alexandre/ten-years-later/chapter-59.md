@@ -1,8 +1,7 @@
 ---
 title: "Chapter 59 - A Quarter Of An Hour's Delay"
 weight: 59
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-59.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-59.html"
 ---
 
 Fouquet, on leaving his house for the second time that day, felt himself less heavy and less disturbed than might have been expected. He turned towards Pellisson, who was meditating in the corner of the carriage some good arguments against the violent proceedings of Colbert.

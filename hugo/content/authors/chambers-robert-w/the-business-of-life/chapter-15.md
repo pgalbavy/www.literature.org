@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/chambers-robert-w/the-business-of-life/chapter-15.html"
+url: "/authors/chambers-robert-w/the-business-of-life/chapter-15.html"
 ---
 
 Une nuit blanche—and the young seem less able to withstand its corroding alchemy than the old. It had left its terrible and pallid mark on Desboro; and on Jacqueline it had set its phantom sign. That youthfully flushed and bright-eyed loveliness which always characterised the girl had whitened to ashes over night.

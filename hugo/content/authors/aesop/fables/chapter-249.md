@@ -1,8 +1,7 @@
 ---
 title: "The Dove And The Crow"
 weight: 251
-aliases:
-  - "/authors/aesop/fables/chapter-249.html"
+url: "/authors/aesop/fables/chapter-249.html"
 ---
 
 A DOVE shut up in a cage was boasting of the large number of young ones which she had hatched. A Crow hearing her, said: "My good friend, cease from this unseasonable boasting. The larger the number of your family, the greater your cause of sorrow, in seeing them shut up in this prison-house."

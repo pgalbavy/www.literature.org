@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Prison Isle of Shador"
 weight: 11
-aliases:
-  - "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-10.html"
+url: "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-10.html"
 ---
 
 In the outer gardens to which the guard now escorted me, I found Xodar surrounded by a crowd of noble blacks. They were reviling and cursing him. The men slapped his face. The woman spat upon him.

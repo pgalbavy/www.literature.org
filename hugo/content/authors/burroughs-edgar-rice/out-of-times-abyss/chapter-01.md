@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/burroughs-edgar-rice/out-of-times-abyss/chapter-01.html"
+url: "/authors/burroughs-edgar-rice/out-of-times-abyss/chapter-01.html"
 ---
 
 This is the tale of Bradley after he left Fort Dinosaur upon the west coast of the great lake that is in the center of the island.

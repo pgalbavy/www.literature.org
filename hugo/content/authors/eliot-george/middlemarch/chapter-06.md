@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-06.html"
+url: "/authors/eliot-george/middlemarch/chapter-06.html"
 ---
 
 My lady's tongue is like the meadow blades, That cut you stroking them with idle hand. Nice cutting is her function: she divides With spiritual edge the millet-seed, And makes intangible savings.

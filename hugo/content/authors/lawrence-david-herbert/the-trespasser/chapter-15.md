@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-15.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-15.html"
 ---
 
 The afternoon of the blazing day passed drowsily. Lying close together on the beach, Siegmund and Helena let the day exhale its hours like perfume, unperceived. Siegmund slept, a light evanescent sleep irised with dreams and with suffering: nothing definite, the colour of dreams without shape. Helena, as usual, retained her consciousness much more clearly. She watched the far-off floating of ships, and the near wading of children through the surf. Endless trains of thoughts, like little waves, rippled forward and broke on the shore of her drowsiness. But each thought-ripple, though it ran lightly, was tinged with copper-coloured gleams as from a lurid sunset. Helena felt that the sun was setting on her and Siegmund. The hour was too composed, spell-bound, for grief or anxiety or even for close perception. She was merely aware that the sun was wheeling down, tangling Siegmund and her in the traces, like overthrown charioteers. So the hours passed.

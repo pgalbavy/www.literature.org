@@ -1,8 +1,7 @@
 ---
 title: "chapter 09"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-09.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-09.html"
 ---
 
 Going home from school in the afternoon, the Brangwen girls descended the hill between the picturesque cottages of Willey Green till they came to the railway crossing. There they found the gate shut, because the colliery train was rumbling nearer. They could hear the small locomotive panting hoarsely as it advanced with caution between the embankments. The one-legged man in the little signal-hut by the road stared out from his security, like a crab from a snail-shell.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Dusty's Difficulty"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-17.html"
 ---
 
 IT was to be expected that as time went on, Betsy Butterfly's fame would spread far and wide. And long before the summer was over, half the creatures that lived in Pleasant Valley knew her. They were the ones that went about by daylight and rested at night.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Invisible Prisoner"
 weight: 9
-aliases:
-  - "/authors/leblanc-maurice/the-confessions-of-arsene-lupin/chapter-09.html"
+url: "/authors/leblanc-maurice/the-confessions-of-arsene-lupin/chapter-09.html"
 ---
 
 One day, at about four o'clock, as evening was drawing in, Farmer Goussot, with his four sons, returned from a day's shooting. They were stalwart men, all five of them, long of limb, broad-chested, with faces tanned by sun and wind. And all five displayed, planted on an enormous neck and shoulders, the same small head with the low forehead, thin lips, beaked nose and hard and repellent cast of countenance. They were feared and disliked by all around them. They were a money-grubbing, crafty family; and their word was not to be trusted.

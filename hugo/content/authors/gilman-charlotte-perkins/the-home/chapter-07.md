@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Home-Cooking"
 weight: 8
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-home/chapter-07.html"
+url: "/authors/gilman-charlotte-perkins/the-home/chapter-07.html"
 ---
 
 We are all reared in a traditional belief that what we get to eat at home is, by virtue of that location, better than what we get to eat anywhere else. The expression, "home-cooking," carries a connotation of assured excellence, and the popular eating-house advertises "pies like those your mother used to make," as if pie-making were a maternal function. Economy, comfort, and health are supposed to accompany our domestic food supply, and danger to follow the footsteps of those who eat in a hotel, a restaurant, or a boarding house. Is this long-accepted theory correct? Is the home, as the last stage of our elaborate processes of social nutrition, a success?

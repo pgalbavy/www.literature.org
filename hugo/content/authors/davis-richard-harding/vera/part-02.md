@@ -1,8 +1,7 @@
 ---
 title: "Part 2"
 weight: 2
-aliases:
-  - "/authors/davis-richard-harding/vera/part-02.html"
+url: "/authors/davis-richard-harding/vera/part-02.html"
 ---
 
 The home of the Vances was in Thirty-fifth Street, nearly opposite the Garrick Theatre. It was one of a row of old-fashioned brick houses with high steps. As the seeker after truth entered the front hall, he saw before him the stairs to the second story; on his right, the folding doors of the “front parlor,” and at the far end of the hall, a single door that led to what was, in the old days, before this row of houses had been converted into offices, the family dining room. To Vera the Vances had given the use of this room as a “reception parlor.” The visitor first entered the room on his right, from it passed through another pair of folding doors to the reception parlor, and then, when his audience was at an end, departed by the single door to the hall, and so, to the street.

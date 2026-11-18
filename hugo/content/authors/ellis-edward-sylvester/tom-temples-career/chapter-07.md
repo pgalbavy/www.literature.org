@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Row And A Rescue"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-07.html"
 ---
 
 "*WHAT* shall we do this afternoon?" asked James, as they rose from the dinner-table.

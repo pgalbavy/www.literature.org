@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-09.html"
 ---
 
 The little craft was fairly under way, and with favoring wind and current, ought to reach Zalapata in the course of ten or twelve hours. Martella, the new recruit, so to speak, seeing there was nothing just then for him to do, sat down at the bow of the boat and smoked his cigarette, while Captain Guzman kept company with Major Starland at the stern.

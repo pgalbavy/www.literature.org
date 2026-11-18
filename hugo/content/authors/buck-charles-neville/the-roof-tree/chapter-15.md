@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-15.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-15.html"
 ---
 
 Into the grave near the house the rough pine coffin, which had been knocked together by neighbour hands, was lowered by members of both factions whose peace the dead man had impartially guarded.

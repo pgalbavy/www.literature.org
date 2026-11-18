@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - An Affray At Night"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-15.html"
 ---
 
 Ben Mayberry was so desirous that Rutherford Richmond and his brother conspirator should be given all the time they needed to complete their scheme for waylaying and assaulting him, that he lingered on the road longer than was really necessary.

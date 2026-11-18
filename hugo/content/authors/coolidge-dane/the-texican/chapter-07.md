@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Revolution"
 weight: 8
-aliases:
-  - "/authors/coolidge-dane/the-texican/chapter-07.html"
+url: "/authors/coolidge-dane/the-texican/chapter-07.html"
 ---
 
 The coyotes who from their seven hills along the Verde were accustomed to make Rome howl found themselves outclassed and left to a thinking part on the night that Pecos Dalhart and Angevine Thorne celebrated the dawn of Reason. The French Revolution being on a larger scale, and, above all, successful, has come down in history as a great social movement; all that can be said of the revolution at Verde Crossing is packed away in those sad words: it failed. It started, like most revolutions, with a careless word, hot from the vitriolic pen of some space-writer gone mad, and ended in that amiable disorder which, for lack of a better word, we call anarchy. Whiskey was at the bottom of it, of course, and it meant no more than a tale told by an idiot, "full of sound and fury, signifying nothing." At the same time, it managed by degrees to engross the entire attention of Verde Crossing and after the fall of the Bastile, as symbolized by the cracking of a bottle, it left Pecos and Babe more convinced than ever that the world was arrayed against them.

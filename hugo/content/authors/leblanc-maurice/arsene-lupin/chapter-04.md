@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Duke Intervenes"
 weight: 4
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin/chapter-04.html"
+url: "/authors/leblanc-maurice/arsene-lupin/chapter-04.html"
 ---
 
 The Duke rose, came to the window, and looked at the broken pane. He stepped out on to the terrace and looked at the turf; then he came back into the room.

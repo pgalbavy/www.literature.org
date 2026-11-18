@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A Mistake Of The Postboy's"
 weight: 4
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-04.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-04.html"
 ---
 
 As the weeks passed at Stornham Court the Atlantic Ocean seemed to Rosalie Anstruthers to widen endlessly, and gay, happy, noisy New York to recede until it was as far away as some memory of heaven. The girl had been born in the midst of the rattling, rumbling bustle, and it had never struck her as assuming the character of noise; she had only thought of it as being the cheerful confusion inseparable from town. She had been secretly offended and hurt when strangers said that New York was noisy and dirty; when they called it vulgar, she never wholly forgave them. She was of the New Yorkers who adore their New York as Parisians adore Paris and who feel that only within its beloved boundaries can the breath of life be breathed. People were often too hot or too cold there, but there was usually plenty of bright glaring sun, and the extremes of the weather had at least something rather dramatic about them. There were dramatic incidents connected with them, at any rate. People fell dead of sunstroke or were frozen to death, and the newspapers were full of anecdotes during a “cold snap” or a “torrid wave,” which all made for excitement and conversation.

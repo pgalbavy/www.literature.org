@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - In Which We Begin Not To Understand"
 weight: 1
-aliases:
-  - "/authors/leroux-gaston/the-yellow-room/chapter-01.html"
+url: "/authors/leroux-gaston/the-yellow-room/chapter-01.html"
 ---
 
 It is not without a certain emotion that I begin to recount here the extraordinary adventures of Joseph Rouletabille. Down to the present time he had so firmly opposed my doing it that I had come to despair of ever publishing the most curious of police stories of the past fifteen years. I had even imagined that the public would never know the whole truth of the prodigious case known as that of "The Yellow Room", out of which grew so many mysterious, cruel, and sensational dramas, with which my friend was so closely mixed up, if, propos of a recent nomination of the illustrious Stangerson to the grade of grandcross of the Legion of Honour, an evening journal—in an article, miserable for its ignorance, or audacious for its perfidy—had not resuscitated a terrible adventure of which Joseph Rouletabille had told me he wished to be for ever forgotten.

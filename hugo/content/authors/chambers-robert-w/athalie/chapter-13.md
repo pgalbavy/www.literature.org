@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-13.html"
+url: "/authors/chambers-robert-w/athalie/chapter-13.html"
 ---
 
 In September Athalie Greensleeve wrote her last letter to Clive Bailey. It began with a page or two of shyly solicitous inquiries concerning his well-being, his happiness, his plans; did not refer to his long silence; did refer to his anticipated return; did not mention her own accumulating domestic and financial embarrassments and the successive strokes of misfortune dealt her by those twin and formidable bravos, Fate and Chance; but did mention and enumerate everything that had occurred in her life which bore the slightest resemblance to a blessing.

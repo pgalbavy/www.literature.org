@@ -1,8 +1,7 @@
 ---
 title: "Part 8 - Chapter 17"
 weight: 237
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-08-chapter-17.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-08-chapter-17.html"
 ---
 
 The old prince and Sergey Ivanovitch got into the trap and drove off; the rest of the party hastened homewards on foot.

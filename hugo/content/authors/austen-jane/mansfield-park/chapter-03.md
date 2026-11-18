@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-03.html"
+url: "/authors/austen-jane/mansfield-park/chapter-03.html"
 ---
 
 The first event of any importance in the family was the death of Mr. Norris, which happened when Fanny was about fifteen, and necessarily introduced alterations and novelties. Mrs. Norris, on quitting the Parsonage, removed first to the Park, and afterwards to a small house of Sir Thomas's in the village, and consoled herself for the loss of her husband by considering that she could do very well without him; and for her reduction of income by the evident necessity of stricter economy.

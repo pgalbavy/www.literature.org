@@ -1,8 +1,7 @@
 ---
 title: "Chapter 50"
 weight: 51
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-50.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-50.html"
 ---
 
 On reading this I had no reason to disguise my joy and hope from Frederick Lawrence, for I had none to be ashamed of. I felt no joy but that his sister was at length released from her afflictive, overwhelming toil - no hope but that she would in time recover from the effects of it, and be suffered to rest in peace and quietness, at least, for the remainder of her life. I experienced a painful commiseration for her unhappy husband (though fully aware that he had brought every particle of his sufferings upon himself, and but too well deserved them all), and a profound sympathy for her own afflictions, and deep anxiety for the consequences of those harassing cares, those dreadful vigils, that incessant and deleterious confinement beside a living corpse - for I was persuaded she had not hinted half the sufferings she had had to endure.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The White Chief of the Waziri"
 weight: 17
-aliases:
-  - "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-17.html"
+url: "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-17.html"
 ---
 
 When the eyes of the black Manyuema savage fell upon the strange apparition that confronted him with menacing knife they went wide in horror. He forgot the gun within his hands; he even forgot to cry out--his one thought was to escape this fearsome-looking white savage, this giant of a man upon whose massive rolling muscles and mighty chest the flickering firelight played.

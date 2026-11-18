@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/tarkington-booth/gentle-julia/chapter-19.html"
+url: "/authors/tarkington-booth/gentle-julia/chapter-19.html"
 ---
 
 The next afternoon, about four o'clock, Herbert stood gloomily at the main entrance of Atwater & Rooter's Newspaper Building awaiting his partner. The other entrances were not only nailed fast but massively barricaded; and this one (consisting of the ancient carriage-house doors, opening upon a driveway through the yard) had recently been made effective for exclusion. A long and heavy plank leaned against the wall, near by, ready to be set in hook-shaped iron supports fastened to the inner sides of the doors; and when the doors were closed, with this great plank in place, a person inside the building might seem entitled to count upon the enjoyment of privacy, except in case of earthquake, tornado, or fire. In fact, the size of the plank and the substantial quality of the iron fastenings could be looked upon, from a certain viewpoint, as a real compliment to the energy and persistence of Florence Atwater.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 31
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-21.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-21.html"
 ---
 
 And so Bibbs sat in the porch of the temple with the money-changers. But no one came to scourge him forth, for this was the temple of Bigness, and the changing of money was holy worship and true religion. The priests wore that "settish" look Bibbs's mother had seen beginning to develop about his mouth and eyes—a wary look which she could not define, but it comes with service at the temple; and it was the more marked upon Bibbs for his sharp awakening to the necessities of that service.

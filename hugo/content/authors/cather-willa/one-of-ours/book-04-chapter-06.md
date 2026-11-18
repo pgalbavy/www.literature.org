@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 6"
 weight: 50
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-04-chapter-06.html"
+url: "/authors/cather-willa/one-of-ours/book-04-chapter-06.html"
 ---
 
 The next morning Doctor Trueman asked Claude to help him at sick call. "I've got a bunch of sergeants taking temperatures, but it's too much for one man to oversee. I don't want to ask anything of those dude officers who sit in there playing poker all the time. Either they've got no conscience, or they're not awake to the gravity of the situation."

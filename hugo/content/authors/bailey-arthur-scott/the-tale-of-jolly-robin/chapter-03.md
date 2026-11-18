@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Wide, Wide World"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-03.html"
 ---
 
 After he learned to fly, Jolly Robin's father took him into the woods to spend each night in a roost where there were many other young robins, whose fathers had likewise brought them there.

@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 11"
 weight: 11
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-01-chapter-11.html"
+url: "/authors/cather-willa/one-of-ours/book-01-chapter-11.html"
 ---
 
 One warm afternoon in May Claude sat in his upstairs room at the Chapins', copying his thesis, which was to take the place of an examination in history. It was a criticism of the testimony of Jeanne d'Arc in her nine private examinations and the trial in ordinary. The Professor had assigned him the subject with a flash of humour. Although this evidence had been pawed over by so many hands since the fifteenth century, by the phlegmatic and the fiery, by rhapsodists and cynics, he felt sure that Wheeler would not dismiss the case lightly.

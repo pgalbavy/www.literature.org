@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-21.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-21.html"
 ---
 
 For three days the six traveled toward the east, and then, upon the fourth, they turned south. A great forest loomed upon the distant southern horizon, sweeping also wide upon the east. To the southwest lay Trohanadalmakus, a good two days' journey for their tired diadets. Tarzan often wondered what rest the little creatures obtained. At night they were turned loose to graze; but his knowledge of the habits of the carnivora assured him that the tiny antelope must spend the greater part of each night in terrified watching or in flight; yet every morning they were back at the camp awaiting the pleasure of their masters. That they did not escape, never to return, is doubtless due to two facts. One is that they have been for ages bred in the domes of the Minunians--they know no other life than with their masters, to whom they look for food and care--and the other is the extreme kindness and affection which the Minunians accord their beautiful beasts of burden, and which have won the love and confidence of the little animals to such an extent that the diadet is most contented when in the company of man.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 51 - Officer"
 weight: 52
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-51.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-51.html"
 ---
 
 Meanwhile, the cardinal looked anxiously for news from England; but no news arrived that was not annoying and threatening.

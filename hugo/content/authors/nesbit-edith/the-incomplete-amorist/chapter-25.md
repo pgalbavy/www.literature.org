@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Forest"
 weight: 25
-aliases:
-  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-25.html"
+url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-25.html"
 ---
 
 Nothing lifts the heart like the sense of a great self-sacrifice nobly made. Betty was glad that she could feel so particularly noble. It was a great help.

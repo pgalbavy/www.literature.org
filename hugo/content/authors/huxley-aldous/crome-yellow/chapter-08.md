@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/huxley-aldous/crome-yellow/chapter-08.html"
+url: "/authors/huxley-aldous/crome-yellow/chapter-08.html"
 ---
 
 Breakfast on Sunday morning was an hour later than on week-days, and Priscilla, who usually made no public appearance before luncheon, honoured it by her presence. Dressed in black silk, with a ruby cross as well as her customary string of pearls round her neck, she presided. An enormous Sunday paper concealed all but the extreme pinnacle of her coiffure from the outer world.

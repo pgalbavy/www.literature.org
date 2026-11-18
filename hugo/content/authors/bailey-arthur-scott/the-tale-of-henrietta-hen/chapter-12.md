@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Playing Tricks"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-12.html"
 ---
 
 Now, the hen known as old Whitey was something of a gossip. She went straight to the farmyard and told everybody what had happened--what Henrietta Hen had said to her and what she had said to Henrietta Hen. The whole flock had a great laugh over the affair.

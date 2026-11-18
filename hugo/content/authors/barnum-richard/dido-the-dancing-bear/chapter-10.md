@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Dido Scares A Man"
 weight: 10
-aliases:
-  - "/authors/barnum-richard/dido-the-dancing-bear/chapter-10.html"
+url: "/authors/barnum-richard/dido-the-dancing-bear/chapter-10.html"
 ---
 
 “Aren’t these buns fine?” asked Dido, as he reached for another, which had a big raisin on the top, something like the kind the farmer’s wife made.

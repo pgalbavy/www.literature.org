@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Miserrimus Dexter--Second View"
 weight: 25
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-25.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-25.html"
 ---
 
 THOROUGHLY disheartened and disgusted, and (if I must honestly confess it) thoroughly frightened too, I whispered to Mrs. Macallan, "I was wrong, and you were right. Let us go."

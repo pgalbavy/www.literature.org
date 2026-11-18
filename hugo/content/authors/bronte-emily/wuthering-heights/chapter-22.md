@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-22.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-22.html"
 ---
 
 SUMMER drew to an end, and early autumn: it was past Michaelmas, but the harvest was late that year, and a few of our fields were still uncleared. Mr. Linton and his daughter would frequently walk out among the reapers; at the carrying of the last sheaves they stayed till dusk, and the evening happening to be chill and damp, my master caught a bad cold, that settled obstinately on his lungs, and confined him indoors throughout the whole of the winter, nearly without intermission.

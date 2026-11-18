@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 2 - Black Dog Appears And Disappears"
 weight: 3
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-01-chapter-02.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-01-chapter-02.html"
 ---
 
 IT was not very long after this that there occurred the first of the mysterious events that rid us at last of the captain, though not, as you will see, of his affairs. It was a bitter cold winter, with long, hard frosts and heavy gales; and it was plain from the first that my poor father was little likely to see the spring. He sank daily, and my mother and I had all the inn upon our hands, and were kept busy enough without paying much regard to our unpleasant guest.

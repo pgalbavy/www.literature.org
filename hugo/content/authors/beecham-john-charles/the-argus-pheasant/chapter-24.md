@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - A Rescue"
 weight: 25
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-24.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-24.html"
 ---
 
 Released from his bonds, for the jailer had not replaced these, Peter Gross spent the hours in comparative comfort. He amused himself in examining every inch of the cell in the faint hope that he might find a weak spot, and in meditating other plans of escape. Although missing Paddy's ready smile and readier chaff greatly, he did not worry about the lad, for since he was safe himself he reasoned that his subordinate must be.

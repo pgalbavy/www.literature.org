@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Third Question--What Was His Motive?"
 weight: 18
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-18.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-18.html"
 ---
 
 THE first question (Did the Woman Die Poisoned?) had been answered, positively. The second question (Who Poisoned Her?) had been answered, apparently. There now remained the third and final question--What was His Motive? The first evidence called in answer to that inquiry was the evidence of relatives and friends of the dead wife.

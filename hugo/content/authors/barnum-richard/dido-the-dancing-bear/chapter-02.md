@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Dido Is Caught"
 weight: 2
-aliases:
-  - "/authors/barnum-richard/dido-the-dancing-bear/chapter-02.html"
+url: "/authors/barnum-richard/dido-the-dancing-bear/chapter-02.html"
 ---
 
 One nice, warm sunny day, when it was too hot to stay inside the den among the rocks, the nice bears were all out in front, lying in the shade of the woods.

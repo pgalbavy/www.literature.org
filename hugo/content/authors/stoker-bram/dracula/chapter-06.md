@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/stoker-bram/dracula/chapter-06.html"
+url: "/authors/stoker-bram/dracula/chapter-06.html"
 ---
 
 MINA MURRAY'S JOURNAL

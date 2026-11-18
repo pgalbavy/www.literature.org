@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Gardens And Gophers"
 weight: 11
-aliases:
-  - "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-11.html"
+url: "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-11.html"
 ---
 
 "Have you got any more corn or potatoes to drop, or onion sets to cover, or radishes and beans and turnips to plant, or wheat or barley to scatter, or—or anything else to do?" Peace panted breathlessly one warm Saturday afternoon late in May.

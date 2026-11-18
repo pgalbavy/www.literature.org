@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 2 - In Santa Croce With No Baedeker"
 weight: 2
-aliases:
-  - "/authors/forster-e-m/a-room-with-a-view/part-01-chapter-02.html"
+url: "/authors/forster-e-m/a-room-with-a-view/part-01-chapter-02.html"
 ---
 
 It was pleasant to wake up in Florence, to open the eyes upon a bright bare room, with a floor of red tiles which look clean though they are not; with a painted ceiling whereon pink griffins and blue amorini sport in a forest of yellow violins and bassoons. It was pleasant, too, to fling wide the windows, pinching the fingers in unfamiliar fastenings, to lean out into sunshine with beautiful hills and trees and marble churches opposite, and close below, the Arno, gurgling against the embankment of the road.

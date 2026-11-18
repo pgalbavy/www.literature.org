@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 30
-aliases:
-  - "/authors/bronte-charlotte/jane-eyre/chapter-29.html"
+url: "/authors/bronte-charlotte/jane-eyre/chapter-29.html"
 ---
 
 The recollection of about three days and nights succeeding this is very dim in my mind. I can recall some sensations felt in that interval; but few thoughts framed, and no actions performed. I knew I was in a small room and in a narrow bed. To that bed I seemed to have grown; I lay on it motionless as a stone; and to have torn me from it would have been almost to kill me. I took no note of the lapse of time--of the change from morning to noon, from noon to evening. I observed when any one entered or left the apartment: I could even tell who they were; I could understand what was said when the speaker stood near to me; but I could not answer; to open my lips or move my limbs was equally impossible. Hannah, the servant, was my most frequent visitor. Her coming disturbed me. I had a feeling that she wished me away: that she did not understand me or my circumstances; that she was prejudiced against me. Diana and Mary appeared in the chamber once or twice a day. They would whisper sentences of this sort at my bedside -

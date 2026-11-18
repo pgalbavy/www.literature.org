@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Second Meeting"
 weight: 15
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-15.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-15.html"
 ---
 
 Jimmy Skunk couldn't think of anything but eggs. The more he thought of them, the more he wanted some. After parting from Unc' Billy Possum in the Green Forest he went back to the Green Meadows and prowled about, hunting for the nests of his feathered neighbors who build on the ground, and having no more luck than he had had before.

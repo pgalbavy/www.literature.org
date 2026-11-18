@@ -1,8 +1,7 @@
 ---
 title: "Chapter 52 - Adam And Dinah"
 weight: 52
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-52.html"
+url: "/authors/eliot-george/adam-bede/chapter-52.html"
 ---
 
 IT was about three o'clock when Adam entered the farmyard and roused Alick and the dogs from their Sunday dozing. Alick said everybody was gone to church "but th' young missis" - so he called Dinah - but this did not disappoint Adam, although the "everybody" was so liberal as to include Nancy the dairymaid, whose works of necessity were not unfrequently incompatible with church-going.

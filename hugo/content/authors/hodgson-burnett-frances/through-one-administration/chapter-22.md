@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-22.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-22.html"
 ---
 
 The room which Mrs. Sylvestre occupied in her friend's house was a very pretty one. It had been one of Mrs. Amory's caprices at the time she had fitted it up, and she had amused herself with it for two or three months, arranging it at her leisure, reflecting upon it, and making additions to its charms every day as soon as they suggested themselves to her.

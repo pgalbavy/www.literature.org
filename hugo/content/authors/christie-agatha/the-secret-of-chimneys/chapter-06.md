@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Gentle Art Of Blackmail"
 weight: 6
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-06.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-06.html"
 ---
 
 It was exactly five minutes to four when Virginia Revel, rendered punctual by a healthy curiosity, returned to the house in Pont Street. She opened the door with her latchkey, and stepped into the hall to be immediately confronted by the impassive Chilvers.

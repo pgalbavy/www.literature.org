@@ -1,8 +1,7 @@
 ---
 title: "Chapter 87 - In Which We Begin To Think That Porthos Will Be At Last A Baron, And D'artagnan A Captain"
 weight: 87
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-87.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-87.html"
 ---
 
 At the expiration of ten minutes Aramis arrived, accompanied by Grimaud and eight or ten followers. He was excessively delighted and threw himself into his friends' arms.

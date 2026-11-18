@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - “It Has Come!”"
 weight: 19
-aliases:
-  - "/authors/hodgson-burnett-frances/the-secret-garden/chapter-19.html"
+url: "/authors/hodgson-burnett-frances/the-secret-garden/chapter-19.html"
 ---
 
 Of course Dr. Craven had been sent for the morning after Colin had had his tantrum. He was always sent for at once when such a thing occurred and he always found, when he arrived, a white shaken boy lying on his bed, sulky and still so hysterical that he was ready to break into fresh sobbing at the least word. In fact, Dr. Craven dreaded and detested the difficulties of these visits. On this occasion he was away from Misselthwaite Manor until afternoon.

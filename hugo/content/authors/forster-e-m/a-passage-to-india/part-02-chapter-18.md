@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 18"
 weight: 18
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-02-chapter-18.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-02-chapter-18.html"
 ---
 
 Mr. McBryde, the District Superintendent of Police, was the most reflective and best educated of the Chandrapore officials. He had read and thought a good deal, and, owing to a somewhat unhappy marriage, had evolved a complete philosophy of life. There was much of the cynic about him, but nothing of the bully; he never lost his temper or grew rough, and he received Aziz with courtesy, was almost reassuring. “I have to detain you until you get bail,” he said, “but no doubt your friends will be applying for it, and of course they will be allowed to visit you, under regulations. I am given certain information, and have to act on it—I’m not your judge.” Aziz was led off weeping. Mr. McBryde was shocked at his downfall, but no Indian ever surprised him, because he had a theory about climatic zones. The theory ran: “All unfortunate natives are criminals at heart, for the simple reason that they live south of latitude 30. They are not to blame, they have not a dog’s chance—we should be like them if we settled here.” Born at Karachi, he seemed to contradict his theory, and would sometimes admit as much with a sad, quiet smile.

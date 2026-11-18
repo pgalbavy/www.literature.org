@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Surprised Fisherman"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-07.html"
 ---
 
 It may be said that Deerfoot the Shawanoe never lost his senses excepting when slumber stole them away. Young as he was, he had been through some of the most terrific encounters the mind can conceive, and yet, when he stood erect in the full glare of the noonday sun, not a scratch or scar spoke of those fearful affrays in the depth of the forest, among the hills and mountains and along the Shores of the rivers of Kentucky and Ohio.

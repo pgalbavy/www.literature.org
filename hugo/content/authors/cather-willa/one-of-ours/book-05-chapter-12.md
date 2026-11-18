@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 12"
 weight: 65
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-05-chapter-12.html"
+url: "/authors/cather-willa/one-of-ours/book-05-chapter-12.html"
 ---
 
 A rainy autumn night; Papa Joubert sat reading his paper. He heard a heavy pounding on his garden gate. Kicking off his slippers, he put on the wooden sabots he kept for mud, shuffled across the dripping garden, and opened the door into the dark street. Two tall figures with rifles and kits confronted him. In a moment he began embracing them, calling to his wife:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Croaker Brings A Gift"
 weight: 19
-aliases:
-  - "/authors/mckishnie-archie-p/a-son-of-courage/chapter-19.html"
+url: "/authors/mckishnie-archie-p/a-son-of-courage/chapter-19.html"
 ---
 
 It was Sunday. Anson, with eyes close-shut and suds dripping from his freckled nose, was having his weekly ear and neck cleansing, his mother's strong hands applying the coarse wash-cloth. Billy stood by, anticipating his turn, his eyes straying occasionally to the long "muzzle-loader" hanging on the deer-prong rack. Tomorrow the duck-season opened and he was wondering how he was going to contrive to sneak the old gun down and give it a thorough cleaning. Suddenly he became aware that operations in the vicinity of the wash-basin had become suspended. He glanced across to find his mother's gaze fixed sternly upon him. Anson was looking mightily pleased.

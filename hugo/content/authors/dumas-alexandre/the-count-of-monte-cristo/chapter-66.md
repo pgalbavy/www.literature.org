@@ -1,8 +1,7 @@
 ---
 title: "Chapter 66 - Matrimonial Projects"
 weight: 66
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-66.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-66.html"
 ---
 
 The day following this scene, at the hour the banker usually chose to pay a visit to Madame Danglars on his way to his office, his coupe did not appear. At this time, that is, about half-past twelve, Madame Danglars ordered her carriage, and went out. Danglars, hidden behind a curtain, watched the departure he had been waiting for. He gave orders that he should be informed as soon as Madame Danglars appeared; but at two o'clock she had not returned. He then called for his horses, drove to the Chamber, and inscribed his name to speak against the budget. From twelve to two o'clock Danglars had remained in his study, unsealing his dispatches, and becoming more and more sad every minute, heaping figure upon figure, and receiving, among other visits, one from Major Cavalcanti, who, as stiff and exact as ever, presented himself precisely at the hour named the night before, to terminate his business with the banker. On leaving the Chamber, Danglars, who had shown violent marks of agitation during the sitting, and been more bitter than ever against the ministry, re-entered his carriage, and told the coachman to drive to the Avenue des Champs-Elysees, No. 30.

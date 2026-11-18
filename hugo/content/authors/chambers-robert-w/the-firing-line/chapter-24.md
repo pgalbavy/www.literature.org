@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The School Of The Recruit"
 weight: 24
-aliases:
-  - "/authors/chambers-robert-w/the-firing-line/chapter-24.html"
+url: "/authors/chambers-robert-w/the-firing-line/chapter-24.html"
 ---
 
 When Portlaw arrived home late that evening there existed within his somewhat ordinary intellect a sense of triumph. The weak usually experience it at the beginning and through every step of their own subjugation.

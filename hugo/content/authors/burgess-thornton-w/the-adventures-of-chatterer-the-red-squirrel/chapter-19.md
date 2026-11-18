@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Peter Rabbit Tries To Help"
 weight: 19
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-19.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-19.html"
 ---
 
 Peter Rabbit is one of the kindest hearted little people of the Green Forest or the Green Meadows. He is happy-go-lucky, and his dreadful curiosity is forever getting him into all kinds of trouble. Perhaps it is because he has been in so many scrapes himself that he always feels sorry for others who get into trouble. Anyway, no sooner does Peter hear of some one in trouble, than he begins to wonder how he can help them. So just as soon as he found out for himself that Sammy Jay had told the truth about Chatterer the Red Squirrel, and that Chatterer really was in a prison at Farmer Brown's house, he began to think and think to find some way to help Chatterer.

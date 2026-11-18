@@ -1,8 +1,7 @@
 ---
 title: "Chapter 89 - A Surprise For Madame De Montalais"
 weight: 89
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-89.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-89.html"
 ---
 
 Madame's marriage was celebrated in the chapel of the Palais-Royal, in the presence of a crowd of courtiers, who had been most scrupulously selected. However, notwithstanding the marked favor which an invitation indicated, Raoul, faithful to his promise to Malicorne, who was so anxious to witness the ceremony, obtained admission for him. After he had fulfilled this engagement, Raoul approached De Guiche, who, as if in contrast with his magnificent costume, exhibited a countenance so utterly dejected, that the Duke of Buckingham was the only one present who could contend with him as far as pallor and discomfiture were concerned.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Story Of Abe"
 weight: 11
-aliases:
-  - "/authors/titus-harold/bruce-of-the-circle-a/chapter-11.html"
+url: "/authors/titus-harold/bruce-of-the-circle-a/chapter-11.html"
 ---
 
 True to her promise to Bruce, Nora had taken Ann in hand. She proposed that they ride together the day after the man had suggested such a kindness and the step was met most enthusiastically by the eastern woman, for it promised her relief from the anxiety provoked by mere waiting.

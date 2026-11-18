@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - At The Ranch"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-06.html"
 ---
 
 The night was well advanced, and the boys, despite their fine physique, felt the effects of the prolonged ride. They had come a goodly distance since morning, the tough little ponies most of the time maintaining a sweeping canter, which placed many miles behind them. Jack and Fred were stiffened, tired and hungry, for no halt was made for supper, it being the intention of the guide to take that meal at the ranch, which he meant to reach before drawing rein.

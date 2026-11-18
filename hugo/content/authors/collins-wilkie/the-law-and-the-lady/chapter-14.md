@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Woman's Answer"
 weight: 14
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-14.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-14.html"
 ---
 
 THUS far I have written of myself with perfect frankness, and, I think I may fairly add, with some courage as well. My frankness fails me and my courage fails me when I look back to my husband's farewell letter, and try to recall the storm of contending passions that it roused in my mind. No! I cannot tell the truth about myself--I dare not tell the truth about myself--at that terrible time. Men! consult your observation of women, and imagine what I felt; women! look into your own hearts, and see what I felt, for yourselves.

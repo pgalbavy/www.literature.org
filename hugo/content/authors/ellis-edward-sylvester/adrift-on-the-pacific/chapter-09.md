@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Groping In The Dark"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-09.html"
 ---
 
 Life on board the schooner *Coral*, bound for the South Seas, now became like one delightful dream.

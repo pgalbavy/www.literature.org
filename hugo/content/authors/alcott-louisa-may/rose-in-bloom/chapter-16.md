@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Good Works"
 weight: 17
-aliases:
-  - "/authors/alcott-louisa-may/rose-in-bloom/chapter-16.html"
+url: "/authors/alcott-louisa-may/rose-in-bloom/chapter-16.html"
 ---
 
 The Rajah was delayed awhile, and when it sailed poor Mrs. Clara was on board, for everything was ready. All thought she had better go to comfort her husband, and since her boy died she seemed to care very little what became of her. So, with friends to cheer the long voyage, she sailed away, a heavyhearted woman, yet not quite disconsolate, for she knew her mourning was excessively becoming and felt sure that Stephen would not find her altered by her trials as much as might have been expected.

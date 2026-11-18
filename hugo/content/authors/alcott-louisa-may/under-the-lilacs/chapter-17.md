@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Betty's Bravery"
 weight: 17
-aliases:
-  - "/authors/alcott-louisa-may/under-the-lilacs/chapter-17.html"
+url: "/authors/alcott-louisa-may/under-the-lilacs/chapter-17.html"
 ---
 
 "Celia, I've a notion that we ought to give Ben something. A sort of peace-offering, you know; for he feels dreadfully hurt about our suspecting him," said Thorny, at dinner that day.

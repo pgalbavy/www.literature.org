@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Comrades True"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-06.html"
 ---
 
 The picture upon which Deerfoot looked recalled many similar ones in Ohio and Kentucky. There were six warriors seated on the ground, most of the party in lolling postures, three smoking long-stemmed pipes, and all had evidently partaken of food a short time before, for a faint odor of broiling venison or bison meat was in the air, and the signs within the camp showed that a meal had been prepared and eaten.

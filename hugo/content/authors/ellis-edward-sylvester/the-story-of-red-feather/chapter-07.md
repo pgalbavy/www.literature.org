@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - \"A Little Child Shall Lead Them\"--Surrounded By Peril"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/the-story-of-red-feather/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/the-story-of-red-feather/chapter-07.html"
 ---
 
 Within a distance of a dozen yards of the house of Archibald Clarendon stood his barn. It was what might be called a nondescript building, being open at the bottom to an extent sufficient to admit his wagons, ploughs, farming implements, harnesses, and indeed about everything used in the cultivation of the fertile land.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Good Falls Sick"
 weight: 16
-aliases:
-  - "/authors/haggard-h-rider/king-solomons-mines/chapter-15.html"
+url: "/authors/haggard-h-rider/king-solomons-mines/chapter-15.html"
 ---
 
 After the fight was ended, Sir Henry and Good were carried into Twala's hut, where I joined them. They were both utterly exhausted by exertion and loss of blood, and, indeed, my own condition was little better. I am very wiry, and can stand more fatigue than most men, probably on account of my light weight and long training; but that night I was quite done up, and, as is always the case with me when exhausted, that old wound which the lion gave me began to pain. Also my head was aching violently from the blow I had received in the morning, when I was knocked senseless. Altogether, a more miserable trio than we were that evening it would have been difficult to discover; and our only comfort lay in the reflection that we were exceedingly fortunate to be there to feel miserable, instead of being stretched dead upon the plain, as so many thousands of brave men were that night, who had risen well and strong in the morning.

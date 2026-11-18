@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 33
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-32.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-32.html"
 ---
 
 And so Michael was ultimately sold to one Jacob Henderson for two thousand dollars. "And I'm giving him away to you at that," said Collins. "If you don't refuse five thousand for him before six months, I don't know anything about the show game. He'll skin that last arithmetic dog of yours to a finish and you won't have to show yourself and work every minute of the turn. And if you don't insure him for fifty thousand as soon as he's made good you'll be a fool. Why, I wouldn't ask anything better, if I was young and footloose, than to take him out on the road myself."

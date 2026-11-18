@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Friend In Need"
 weight: 8
-aliases:
-  - "/authors/greene-homer/burnham-breaker/chapter-08.html"
+url: "/authors/greene-homer/burnham-breaker/chapter-08.html"
 ---
 
 When Ralph awoke, it was quite dark in the room. He was still sitting at the round table, but Rhyming Joe had disappeared from the other side of it. He looked around the room, and saw that an oil-lamp was burning behind the bar, and that two or three rough-looking men stood there with the bar-tender, talking and drinking. But the young man who had dined with him was nowhere to be seen. Ralph arose, and went over to the bar.

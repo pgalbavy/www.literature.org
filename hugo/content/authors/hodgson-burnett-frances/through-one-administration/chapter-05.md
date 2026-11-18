@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-05.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-05.html"
 ---
 
 Tredennis dined with them the next day, and many days afterward. On meeting him Richard Amory had taken one of his rather numerous enthusiastic fancies to him, and in pursuit and indulgence of this fancy could not see enough of him. These fanciful friendships were the delights of his life, and he never denied himself one, though occasionally they wore themselves out in time to give place to others.

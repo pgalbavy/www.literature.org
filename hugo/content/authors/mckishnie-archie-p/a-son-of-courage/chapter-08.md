@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Luck Rides The Storm"
 weight: 8
-aliases:
-  - "/authors/mckishnie-archie-p/a-son-of-courage/chapter-08.html"
+url: "/authors/mckishnie-archie-p/a-son-of-courage/chapter-08.html"
 ---
 
 Beneath the shadow of the coming storm the forest gloom deepened to velvet blackness. Suddenly a tongue of lightning licked the tree-tops and a crash of thunder shattered the stillness. A few heavy rain-drops spattered on the branches above the heads of the waiting three. Billy and Maurice, a strange terror tugging at their heart-strings, waited for old Harry to give the word forward. But Harry seemed to be in no great hurry to voice such command. Fear had gripped his superstitious soul and the courage loaned him from the squat demijohn was fast oozing away.

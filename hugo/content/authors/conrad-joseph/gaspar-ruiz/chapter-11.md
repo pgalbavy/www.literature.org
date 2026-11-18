@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/conrad-joseph/gaspar-ruiz/chapter-11.html"
+url: "/authors/conrad-joseph/gaspar-ruiz/chapter-11.html"
 ---
 
 "Now Carreras, under the guise of politics and liberalism, was a scoundrel of the deepest dye, and the unhappy state of Mendoza was the prey of thieves, robbers, traitors and murderers, who formed his party. He was under a noble exterior a man without heart, pity, honour, or conscience. Tie aspired to nothing but tyranny, and though he would have made use of Gaspar Ruiz for his nefarious designs, yet he soon became aware that to propitiate the Chilian Government would answer his purpose better. I blush to say that he made proposals to our Government to deliver up on certain conditions the wife and child of the man who had trusted to his honour, and that this offer was accepted.

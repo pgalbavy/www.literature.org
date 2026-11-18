@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Tiger"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-10.html"
 ---
 
 In the same pasture with Snowball was a black lamb. He was the black lamb that Farmer Green once gave to Johnnie for a pet. But he ran away up the lane the very first time Johnnie tried to hold him in his arms.

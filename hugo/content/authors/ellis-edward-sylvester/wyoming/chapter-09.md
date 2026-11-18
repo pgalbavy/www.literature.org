@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-09.html"
 ---
 
 Gravity Gimp bore as lightly as he could on the stern of the boat, which was already so heavily laden that a little more weight would have sunk it below the surface.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 19
-aliases:
-  - "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-18.html"
+url: "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-18.html"
 ---
 
 The next morning the Soldier with the Green Whiskers went to the prison and took Ojo away to the royal palace, where he was summoned to appear before the girl Ruler for judgment. Again the soldier put upon the boy the jeweled handcuffs and white prisoner's robe with the peaked top and holes for the eyes. Ojo was so ashamed, both of his disgrace and the fault he had committed, that he was glad to be covered up in this way, so that people could not see him or know who he was. He followed the Soldier with the Green Whiskers very willingly, anxious that his fate might be decided as soon as possible.

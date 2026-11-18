@@ -1,8 +1,7 @@
 ---
 title: "Author's Note"
 weight: 1
-aliases:
-  - "/authors/conrad-joseph/an-outcast-of-the-islands/authors-note.html"
+url: "/authors/conrad-joseph/an-outcast-of-the-islands/authors-note.html"
 ---
 
 "An Outcast of the Islands" is my second novel in the absolute sense of the word; second in conception, second in execution, second as it were in its essence. There was no hesitation, half-formed plan, vague idea, or the vaguest reverie of anything else between it and "Almayer’s Folly." The only doubt I suffered from, after the publication of "Almayer’s Folly," was whether I should write another line for print. Those days, now grown so dim, had their poignant moments. Neither in my mind nor in my heart had I then given up the sea. In truth I was clinging to it desperately, all the more desperately because, against my will, I could not help feeling that there was something changed in my relation to it. "Almayer’s Folly," had been finished and done with. The mood itself was gone. But it had left the memory of an experience that, both in thought and emotion was unconnected with the sea, and I suppose that part of my moral being which is rooted in consistency was badly shaken. I was a victim of contrary stresses which produced a state of immobility. I gave myself up to indolence. Since it was impossible for me to face both ways I had elected to face nothing. The discovery of new values in life is a very chaotic experience; there is a tremendous amount of jostling and confusion and a momentary feeling of darkness. I let my spirit float supine over that chaos.

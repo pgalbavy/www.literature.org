@@ -1,8 +1,7 @@
 ---
 title: "Book 14 - Chapter 12"
 weight: 310
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-14-chapter-12.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-14-chapter-12.html"
 ---
 
 During the whole of their march from Moscow no fresh orders had been issued by the French authorities concerning the party of prisoners among whom was Pierre. On the twenty-second of October that party was no longer with the same troops and baggage trains with which it had left Moscow. Half the wagons laden with hardtack that had traveled the first stages with them had been captured by Cossacks, the other half had gone on ahead. Not one of those dismounted cavalrymen who had marched in front of the prisoners was left; they had all disappeared. The artillery the prisoners had seen in front of them during the first days was now replaced by Marshal Junot's enormous baggage train, convoyed by Westphalians. Behind the prisoners came a cavalry baggage train.

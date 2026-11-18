@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 22"
 weight: 123
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-04-chapter-22.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-04-chapter-22.html"
 ---
 
 Stepan Arkadyevitch, with the same somewhat solemn expression with which he used to take his presidential chair at his board, walked into Alexey Alexandrovitch's room. Alexey Alexandrovitch was walking about his room with his hands behind his back, thinking of just what Stepan Arkadyevitch had been discussing with his wife.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Bread And Button-Holes"
 weight: 17
-aliases:
-  - "/authors/alcott-louisa-may/eight-cousins/chapter-16.html"
+url: "/authors/alcott-louisa-may/eight-cousins/chapter-16.html"
 ---
 
 "What in the world is my girl thinking about all alone here, with such a solemn face?" asked Dr. Alec, coming into the study, one November day, to find Rose sitting there with folded hands and a very thoughtful aspect.

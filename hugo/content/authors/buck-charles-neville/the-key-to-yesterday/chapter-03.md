@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/buck-charles-neville/the-key-to-yesterday/chapter-03.html"
+url: "/authors/buck-charles-neville/the-key-to-yesterday/chapter-03.html"
 ---
 
 Perhaps, the same futile vanity that led Mr. Bellton to import the latest sartorial novelties from the Rue de la Paix for the adornment of his person made him fond of providing foreign notables to give color to his entertainments.

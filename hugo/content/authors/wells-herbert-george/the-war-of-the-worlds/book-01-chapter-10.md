@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 10 - In the Storm"
 weight: 10
-aliases:
-  - "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-10.html"
+url: "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-10.html"
 ---
 
 Leatherhead is about twelve miles from Maybury Hill. The scent of hay was in the air through the lush meadows beyond Pyrford, and the hedges on either side were sweet and gay with multitudes of dog-roses. The heavy firing that had broken out while we were driving down Maybury Hill ceased as abruptly as it began, leaving the evening very peace- ful and still. We got to Leatherhead without misadventure about nine o'clock, and the horse had an hour's rest while I took supper with my cousins and commended my wife to their care.

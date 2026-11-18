@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/hughes-thomas/the-scouring-of-the-white-horse/chapter-04.html"
+url: "/authors/hughes-thomas/the-scouring-of-the-white-horse/chapter-04.html"
 ---
 
 "Well, here’s the Castle, you see," said he, when we had walked a few hundred yards, and were come quite to the top of the hill.

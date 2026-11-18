@@ -1,8 +1,7 @@
 ---
 title: "Book 8 - Chapter 8"
 weight: 153
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-08-chapter-08.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-08-chapter-08.html"
 ---
 
 That evening the Rostovs went to the Opera, for which Marya Dmitrievna had taken a box.

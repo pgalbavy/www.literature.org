@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Chunky In The Circus"
 weight: 10
-aliases:
-  - "/authors/barnum-richard/chunky-the-happy-hippo/chapter-10.html"
+url: "/authors/barnum-richard/chunky-the-happy-hippo/chapter-10.html"
 ---
 
 Chunky began to feel quite happy again. He felt that these were more like the times when he had been in the jungle. But he did not open his mouth to smile or to laugh, and there was a very good reason for this. If he had opened his mouth, as he was swimming in the stormy ocean, he would have swallowed a lot of salty water, and he did not want to do that. So he kept his mouth closed tightly, and his nose holes also, whenever a wave broke over him, which often happened.

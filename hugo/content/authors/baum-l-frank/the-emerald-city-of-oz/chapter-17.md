@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-17.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-17.html"
 ---
 
 Wandering through the woods, without knowing where you are going or what adventure you are about to meet next, is not as pleasant as one might think. The woods are always beautiful and impressive, and if you are not worried or hungry you may enjoy them immensely; but Dorothy was worried and hungry that morning, so she paid little attention to the beauties of the forest, and hurried along as fast as she could go. She tried to keep in one direction and not circle around, but she was not at all sure that the direction she had chosen would lead her to the camp.

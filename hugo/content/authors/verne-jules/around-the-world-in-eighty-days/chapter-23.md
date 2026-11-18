@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-23.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-23.html"
 ---
 
 IN WHICH PASSEPARTOUT'S NOSE BECOMES OUTRAGEOUSLY LONG

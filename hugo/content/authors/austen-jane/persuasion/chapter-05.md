@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/austen-jane/persuasion/chapter-05.html"
+url: "/authors/austen-jane/persuasion/chapter-05.html"
 ---
 
 On the morning appointed for Admiral and Mrs Croft's seeing Kellynch Hall, Anne found it most natural to take her almost daily walk to Lady Russell's, and keep out of the way till all was over; when she found it most natural to be sorry that she had missed the opportunity of seeing them.

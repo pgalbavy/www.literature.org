@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 12"
 weight: 32
-aliases:
-  - "/authors/cather-willa/my-antonia/book-02-chapter-12.html"
+url: "/authors/cather-willa/my-antonia/book-02-chapter-12.html"
 ---
 
 AFTER ANTONIA WENT TO live with the Cutters, she seemed to care about nothing but picnics and parties and having a good time. When she was not going to a dance, she sewed until midnight. Her new clothes were the subject of caustic comment. Under Lena’s direction she copied Mrs. Gardener’s new party dress and Mrs. Smith’s street costume so ingeniously in cheap materials that those ladies were greatly annoyed, and Mrs. Cutter, who was jealous of them, was secretly pleased.

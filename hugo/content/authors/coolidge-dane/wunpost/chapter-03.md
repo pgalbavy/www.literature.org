@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Dusty Rhodes Eats Dirt"
 weight: 3
-aliases:
-  - "/authors/coolidge-dane/wunpost/chapter-03.html"
+url: "/authors/coolidge-dane/wunpost/chapter-03.html"
 ---
 
 Billy gazed away in ecstasy at the dust cloud in the distance, and at the white spot that was Tellurium, her mule; and when the rider came closer she skipped back through the tunnel and danced along the trail to the house. Dusty Rhodes was still there, describing in windy detail Wunpost's encounter with one Pisen-face Lynch, but as she stood before them smiling he sensed the mischief in her eye and interrupted himself with a question.

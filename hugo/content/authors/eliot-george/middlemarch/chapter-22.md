@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-22.html"
+url: "/authors/eliot-george/middlemarch/chapter-22.html"
 ---
 
 "Nous causames longtemps; elle etait simple et bonne. Ne sachant pas le mal, elle faisait le bien; Des richesses du coeur elle me fit l'aumone, Et tout en ecoutant comme le coeur se donne, Sans oser y penser je lui donnai le mien; Elle emporta ma vie, et n'en sut jamais rien." - ALFRED DE MUSSET.

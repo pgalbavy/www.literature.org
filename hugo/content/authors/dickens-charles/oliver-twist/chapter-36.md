@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - Is A Very Short One, And May Appear Of No Great Importance In Its Place, But It Should Be Read Notwithstanding, As A Sequel To The Last, And A Key To One That Will Follow When Its Time Arrives"
 weight: 36
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-36.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-36.html"
 ---
 
 'And so you are resolved to be my travelling companion this morning; eh?' said the doctor, as Harry Maylie joined him and Oliver at the breakfast-table. 'Why, you are not in the same mind or intention two half-hours together!'

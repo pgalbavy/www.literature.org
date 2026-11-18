@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 8"
 weight: 8
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-08.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-08.html"
 ---
 
 When he had stepped from the car to the sidewalk, Hamilton Burton stood there for a while in apparent abstraction. A private policeman in cadet gray waited deferentially with his hand on the knob of the grilled bronze door which gave entrance to the office building. Burton's eyes were resting on Paul's face, but the pupils were focused for no such circumscribed range. Their vistas were of the future and empire-wide. The fire that had wakened in them with the pronunciamento, "Above me there shall be no one," lingered and the smile which hovered on the lips held a certain grimness in its curve. It was not a reassuring smile for such interests as ran counter to his own. A passing reporter who fancied himself wise in the lore of the Street, halted to observe, and muttered to himself, "Ursus Major wearing his fighting face! This may prove a day worth watching."

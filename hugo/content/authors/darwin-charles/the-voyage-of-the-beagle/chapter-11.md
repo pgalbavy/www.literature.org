@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Strait of Magellan -- Climate of the Southern Coasts"
 weight: 12
-aliases:
-  - "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-11.html"
+url: "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-11.html"
 ---
 
 arrow_rightStrait of Magellan arrow_rightPort Famine arrow_rightAscent of Mount Tarn arrow_rightForests arrow_rightEdible Fungus arrow_rightZoology arrow_rightGreat Sea-weed arrow_rightLeave Tierra del Fuego arrow_rightClimate arrow_rightFruit-trees and Productions of the Southern Coasts arrow_rightHeight of Snow-line on the Cordillera arrow_rightDescent of Glaciers to the Sea arrow_rightIcebergs formed arrow_rightTransportal of Boulders arrow_rightClimate and Productions of the Antarctic Islands arrow_rightPreservation of Frozen Carcasses arrow_rightRecapitulation. ---

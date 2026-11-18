@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 12"
 weight: 201
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-12.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-12.html"
 ---
 
 After taking leave of her guests, Anna did not sit down, but began walking up and down the room. She had unconsciously the whole evening done her utmost to arouse in Levin a feeling of love--as of late she had fallen into doing with all young men-- and she knew she had attained her aim, as far as was possible in one evening, with a married and conscientious man. She liked him indeed extremely, and, in spite of the striking difference, from the masculine point of view, between Vronsky and Levin, as a woman she saw something they had in common, which had made Kitty able to love both. Yet as soon as he was out of the room, she ceased to think of him.

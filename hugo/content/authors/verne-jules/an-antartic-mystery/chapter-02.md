@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Schooner Halbrane"
 weight: 2
-aliases:
-  - "/authors/verne-jules/an-antartic-mystery/chapter-02.html"
+url: "/authors/verne-jules/an-antartic-mystery/chapter-02.html"
 ---
 
 The Halbrane was a schooner of three hundred tons, and a fast sailer. On board there was a captain, a mate, or lieutenant, a boatswain, a cook, and eight sailors; in all twelve men, a sufficient number to work the ship. Solidly built, copper-bottomed, very manageable, well suited for navigation between the fortieth and sixtieth parallels of south latitude, the Halbrane was a credit to the ship-yards of Birkenhead.

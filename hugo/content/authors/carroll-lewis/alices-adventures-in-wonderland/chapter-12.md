@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Alice’s Evidence"
 weight: 12
-aliases:
-  - "/authors/carroll-lewis/alices-adventures-in-wonderland/chapter-12.html"
+url: "/authors/carroll-lewis/alices-adventures-in-wonderland/chapter-12.html"
 ---
 
 "Here!" cried Alice, quite forgetting in the flurry of the moment how large she had grown in the last few minutes, and she jumped up in such a hurry that she tipped over the jury-box with the edge of her skirt, upsetting all the jurymen on to the heads of the crowd below, and there they lay sprawling about, reminding her very much of a globe of goldfish she had accidentally upset the week before.

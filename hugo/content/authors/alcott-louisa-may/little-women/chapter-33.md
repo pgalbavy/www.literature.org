@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Jo's Journal"
 weight: 33
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-33.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-33.html"
 ---
 
 New York, November

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Middle Life"
 weight: 10
-aliases:
-  - "/authors/hughes-thomas/memoir-of-a-brother/chapter-09.html"
+url: "/authors/hughes-thomas/memoir-of-a-brother/chapter-09.html"
 ---
 
 On his return from his Italian tour my brother at once commenced practice in the Ecclesiastical Courts, and took a small house in Bell Yard, Doctors’ Commons, where he went to reside, and which he describes to his mother as follows:—

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The New Hat-Rack"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-22.html"
 ---
 
 The night of Jimmy Rabbit's party arrived at last. The time was an hour after sunset. The place was Farmer Green's back pasture. And Jimmy Rabbit was waiting eagerly. He had told Nimble Deer to come early, before the other guests, because Nimble was going to help him.

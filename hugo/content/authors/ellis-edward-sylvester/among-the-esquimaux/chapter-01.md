@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Two Passengers On The \"Nautilus\""
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-01.html"
 ---
 
 The good ship "Nautilus" had completed the greater part of her voyage from London to her far-off destination, deep in the recesses of British America. This was York Factory, one of the chief posts of the Hudson Bay Company.

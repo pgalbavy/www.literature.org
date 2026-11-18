@@ -1,8 +1,7 @@
 ---
 title: "Chapter 67 - Cutting In"
 weight: 67
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-067.html"
+url: "/authors/melville-herman/moby-dick/chapter-067.html"
 ---
 
 It was a Saturday night, and such a Sabbath as followed! Ex officio professors of Sabbath breaking are all whalemen. The ivory Pequod was turned into what seemed a shamble; every sailor a butcher. You would have thought we were offering up ten thousand red oxen to the sea gods.

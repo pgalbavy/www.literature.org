@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Last Days Of Marcus Karenin"
 weight: 7
-aliases:
-  - "/authors/wells-herbert-george/the-world-set-free/chapter-05.html"
+url: "/authors/wells-herbert-george/the-world-set-free/chapter-05.html"
 ---
 
 Section 1

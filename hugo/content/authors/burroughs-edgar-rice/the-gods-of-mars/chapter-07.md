@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Fair Goddess"
 weight: 8
-aliases:
-  - "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-07.html"
+url: "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-07.html"
 ---
 
 For an instant the black pirate and I remained motionless, glaring into each other's eyes. Then a grim smile curled the handsome lips above me, as an ebony hand came slowly in sight from above the edge of the deck and the cold, hollow eye of a revolver sought the centre of my forehead.

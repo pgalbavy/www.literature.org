@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Blue-Edged Label"
 weight: 3
-aliases:
-  - "/authors/leblanc-maurice/813/chapter-02.html"
+url: "/authors/leblanc-maurice/813/chapter-02.html"
 ---
 
 "Arsène Lupin!"

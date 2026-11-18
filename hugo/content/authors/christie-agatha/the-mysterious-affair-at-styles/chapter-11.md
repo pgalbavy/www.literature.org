@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Case For The Prosecution"
 weight: 11
-aliases:
-  - "/authors/christie-agatha/the-mysterious-affair-at-styles/chapter-11.html"
+url: "/authors/christie-agatha/the-mysterious-affair-at-styles/chapter-11.html"
 ---
 
 The trial of John Cavendish for the murder of his stepmother took place two months later.

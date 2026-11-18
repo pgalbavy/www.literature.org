@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Vengeance And Mercy"
 weight: 6
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-06.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-06.html"
 ---
 
 It was an hour later that Sheeta, the panther, hunting, chanced to glance upward into the blue sky where his at- tention was attracted by Ska, the vulture, circling slowly above the bush a mile away and downwind. For a long minute the yellow eyes stared intently at the gruesome bird. They saw Ska dive and rise again to continue his ominous circling and in these movements their woodcraft read that which, while obvious to Sheeta, would doubtless have meant nothing to you or me.

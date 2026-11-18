@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Farmer Brown's Boy Sets A Trap"
 weight: 26
-aliases:
-  - "/authors/burgess-thornton-w/old-granny-fox/chapter-26.html"
+url: "/authors/burgess-thornton-w/old-granny-fox/chapter-26.html"
 ---
 
 The trouble is that troubles are,  

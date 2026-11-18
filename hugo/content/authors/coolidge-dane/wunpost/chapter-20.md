@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The War Eagle"
 weight: 20
-aliases:
-  - "/authors/coolidge-dane/wunpost/chapter-20.html"
+url: "/authors/coolidge-dane/wunpost/chapter-20.html"
 ---
 
 Since a bullet from nowhere had shot him through the leg, Wunpost had learned a new fear of the hills. Before, they had been his stamping-ground, the "high places" he was so boastful of; but now they became imbued with a malign personality, all the more fearful because it was unknown. With painstaking care he had checked up on Pisen-face Lynch, to determine if it was he who had ambushed him; but Lynch had established a perfect alibi--in fact, it was almost too good. He had been right in Blackwater during all the trouble, although now he was out in the hills; and an Indian whom Wunpost had sent on a scout reported that the Shoshones had no knowledge of the shooting. They, too, had become aware of the strange presence in the hills, though none of them had really seen it, and their women were afraid to go out after the piñon-nuts for fear of being caught and stolen.

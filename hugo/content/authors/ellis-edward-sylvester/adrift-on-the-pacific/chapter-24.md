@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Three Years"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-24.html"
 ---
 
 Three years have passed, and still Captain Bergen, Mate Storms and Inez Hawthorne are upon the lonely Pearl Island in the South Sea.

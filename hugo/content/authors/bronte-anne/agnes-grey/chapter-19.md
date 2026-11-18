@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Letter"
 weight: 19
-aliases:
-  - "/authors/bronte-anne/agnes-grey/chapter-19.html"
+url: "/authors/bronte-anne/agnes-grey/chapter-19.html"
 ---
 
 MY father's mortal remains had been consigned to the tomb; and we, with sad faces and sombre garments, sat lingering over the frugal breakfast-table, revolving plans for our future life. My mother's strong mind had not given way beneath even this affliction: her spirit, though crushed, was not broken. Mary's wish was that I should go back to Horton Lodge, and that our mother should come and live with her and Mr. Richardson at the vicarage: she affirmed that he wished it no less than herself, and that such an arrangement could not fail to benefit all parties; for my mother's society and experience would be of inestimable value to them, and they would do all they could to make her happy. But no arguments or entreaties could prevail: my mother was determined not to go. Not that she questioned, for a moment, the kind wishes and intentions of her daughter; but she affirmed that so long as God spared her health and strength, she would make use of them to earn her own livelihood, and be chargeable to no one; whether her dependence would be felt as a burden or not. If she could afford to reside as a lodger in - vicarage, she would choose that house before all others as the place of her abode; but not being so circumstanced, she would never come under its roof, except as an occasional visitor: unless sickness or calamity should render her assistance really needful, or until age or infirmity made her incapable of maintaining herself.

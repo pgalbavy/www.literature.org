@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-07.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-07.html"
 ---
 
 Barton Park was about half a mile from the cottage. The ladies had passed near it in their way along the valley, but it was screened from their view at home by the projection of a hill. The house was large and handsome; and the Middletons lived in a style of equal hospitality and elegance. The former was for Sir John's gratification, the latter for that of his lady. They were scarcely ever without some friends staying with them in the house, and they kept more company of every kind than any other family in the neighbourhood. It was necessary to the happiness of both; for however dissimilar in temper and outward behaviour, they strongly resembled each other in that total want of talent and taste which confined their employments, unconnected with such as society produced, within a very narrow compass. Sir John was a sportsman, Lady Middleton a mother. He hunted and shot, and she humoured her children; and these were their only resources. Lady Middleton had the advantage of being able to spoil her children all the year round, while Sir John's independent employments were in existence only half the time. Continual engagements at home and abroad, however, supplied all the deficiencies of nature and education; supported the good spirits of Sir John, and gave exercise to the good breeding of his wife.

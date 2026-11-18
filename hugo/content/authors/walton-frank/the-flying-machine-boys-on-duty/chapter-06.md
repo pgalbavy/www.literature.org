@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Small Explosion"
 weight: 6
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-06.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-06.html"
 ---
 
 “Now,” suggested Ben as the purr of the motors came softly on the evening air, “do you suppose Havens has really caught up with us?”

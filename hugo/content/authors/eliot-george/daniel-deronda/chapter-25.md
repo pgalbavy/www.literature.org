@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-25.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-25.html"
 ---
 
 How trace the why and wherefore in a mind reduced to the barrenness of a fastidious egoism, in which all direct desires are dulled, and have dwindled from motives into a vacillating expectation of motives: a mind made up of moods, where a fitful impulse springs here and there conspicuously rank amid the general weediness? 'Tis a condition apt to befall a life too much at large, unmoulded by the pressure of obligation. Nam deteriores omnes sumus licentiae, or, as a more familiar tongue might deliver it, _"As you like" is a bad finger- post._

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - I First Hear Of Mr. Andrew Lumley"
 weight: 3
-aliases:
-  - "/authors/buchan-john/the-power-house/chapter-02.html"
+url: "/authors/buchan-john/the-power-house/chapter-02.html"
 ---
 
 A fortnight later—to be accurate, on the 21st of May —I did a thing I rarely do, and went down to South London on a County Court case. It was an ordinary taxi-cab accident, and, as the solicitors for the company were good clients of mine, and the regular county-court junior was ill in bed, I took the case to oblige them. There was the usual dull conflict of evidence. An empty taxi-cab, proceeding slowly on the right side of the road and hooting decorously at the corners, had been run into by a private motor-car, which had darted down a side street. The taxi had been swung round and its bonnet considerably damaged, while its driver had suffered a dislocated shoulder. The bad feature in the case was that the motor-car had not halted to investigate the damage, but had proceeded unconscientiously on its way, and the assistance of the London police had been called in to trace it. It turned out to be the property of a Mr. Julius Pavia, a retired East India merchant, who lived in a large villa in the neighbourhood of Blackheath, and at the time of the accident it had been occupied by his butler. The company brought an action for damages against its owner.

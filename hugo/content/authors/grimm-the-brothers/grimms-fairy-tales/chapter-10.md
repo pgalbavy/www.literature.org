@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Fisherman And His Wife"
 weight: 10
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-10.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-10.html"
 ---
 
 There was once a fisherman who lived with his wife in a pigsty, close by the seaside. The fisherman used to go out all day long a-fishing; and one day, as he sat on the shore with his rod, looking at the sparkling waves and watching his line, all on a sudden his float was dragged away deep into the water: and in drawing it up he pulled out a great fish. But the fish said, ‘Pray let me live! I am not a real fish; I am an enchanted prince: put me in the water again, and let me go!’ ‘Oh, ho!’ said the man, ‘you need not make so many words about the matter; I will have nothing to do with a fish that can talk: so swim away, sir, as soon as you please!’ Then he put him back into the water, and the fish darted straight down to the bottom, and left a long streak of blood behind him on the wave.

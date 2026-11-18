@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/burroughs-edgar-rice/the-lost-continent/chapter-08.html"
+url: "/authors/burroughs-edgar-rice/the-lost-continent/chapter-08.html"
 ---
 
 Delcorte and Taylor were now in mis-stream, coming toward us, and I called to them to keep aloof until I knew whether the intentions of my captors were friendly or otherwise. My good men wanted to come on and annihilate the blacks. But there were upward of a hundred of the latter, all well armed, and so I commanded Delcarte to keep out of harm's way, and stay where he was till I needed him.

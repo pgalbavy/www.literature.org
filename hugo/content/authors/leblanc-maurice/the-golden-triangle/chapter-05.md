@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Husband And Wife"
 weight: 5
-aliases:
-  - "/authors/leblanc-maurice/the-golden-triangle/chapter-05.html"
+url: "/authors/leblanc-maurice/the-golden-triangle/chapter-05.html"
 ---
 
 The accomplices started, as though they had received an electric shock. Bournef darted forward:

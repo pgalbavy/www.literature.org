@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 34"
 weight: 68
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-34.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-34.html"
 ---
 
 Before the end of the course of drinking the waters, Prince Shtcherbatsky, who had gone on from Carlsbad to Baden and Kissingen to Russian friends--to get a breath of Russian air, as he said--came back to his wife and daughter.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Truculence"
 weight: 6
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-06.html"
+url: "/authors/tarkington-booth/seventeen/chapter-06.html"
 ---
 
 Clematis frowned and sneezed as the infinitesimal particles of sachet powder settled in the lining of his nose. He became serious, and was conscious of a growing feeling of dislike; he began to be upset over the whole matter. But his conscience compelled him to persist in his attempt to solve the mystery; and also he remembered that one should be courteous, no matter what some other thing chooses to be. Hence he sought to place his nose in contact with Flopit's, for he had perceived on the front of the mysterious stranger a buttony something which might possibly be a nose.

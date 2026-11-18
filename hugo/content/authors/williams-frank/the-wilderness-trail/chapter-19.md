@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - A Forced March"
 weight: 19
-aliases:
-  - "/authors/williams-frank/the-wilderness-trail/chapter-19.html"
+url: "/authors/williams-frank/the-wilderness-trail/chapter-19.html"
 ---
 
 Charley Seguis entered the council chamber of the huge log house in the free-trader's camp at the lower end of Sturgeon Lake, and looked about him with satisfaction. Now, the square, bare-floored room could scarcely hold the men when he called them into meeting because of the bales of fur that were piled everywhere.

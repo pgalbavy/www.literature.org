@@ -1,8 +1,7 @@
 ---
 title: "Book 6 - Chapter 13"
 weight: 119
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-06-chapter-13.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-06-chapter-13.html"
 ---
 
 One night when the old countess, in nightcap and dressing jacket, without her false curls, and with her poor little knob of hair showing under her white cotton cap, knelt sighing and groaning on a rug and bowing to the ground in prayer, her door creaked and Natasha, also in a dressing jacket with slippers on her bare feet and her hair in curlpapers, ran in. The countess- her prayerful mood dispelled- looked round and frowned. She was finishing her last prayer: "Can it be that this couch will be my grave?" Natasha, flushed and eager, seeing her mother in prayer, suddenly checked her rush, half sat down, and unconsciously put out her tongue as if chiding herself. Seeing that her mother was still praying she ran on tiptoe to the bed and, rapidly slipping one little foot against the other, pushed off her slippers and jumped onto the bed the countess had feared might become her grave. This couch was high, with a feather bed and five pillows each smaller than the one below. Natasha jumped on it, sank into the feather bed, rolled over to the wall, and began snuggling up the bedclothes as she settled down, raising her knees to her chin, kicking out and laughing almost inaudibly, now covering herself up head and all, and now peeping at her mother. The countess finished her prayers and came to the bed with a stern face, but seeing, that Natasha's head was covered, she smiled in her kind, weak way.

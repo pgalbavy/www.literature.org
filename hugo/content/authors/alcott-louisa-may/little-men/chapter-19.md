@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - John Brooke"
 weight: 20
-aliases:
-  - "/authors/alcott-louisa-may/little-men/chapter-19.html"
+url: "/authors/alcott-louisa-may/little-men/chapter-19.html"
 ---
 
 "Why, I've just gone to bed; it can't be morning yet;" and Demi blinked like a little owl as he waked from his first sound sleep.

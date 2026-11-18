@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/tarkington-booth/the-flirt/chapter-21.html"
+url: "/authors/tarkington-booth/the-flirt/chapter-21.html"
 ---
 
 That was a long night for Cora Madison, and the morning found her yellow. She made a poor breakfast, and returned from the table to her own room, but after a time descended restlessly and wandered from one room to another, staring out of the windows. Laura had gone out; Mrs. Madison was with her husband, whom she seldom left; Hedrick had departed ostensibly for school; and the house was as still as a farm in winter—an intolerable condition of things for an effervescent young woman whose diet was excitement. Cora, drumming with her fingers upon a window in the owl-haunted cell, made noises with her throat, her breath and her lips not unsuggestive of a sputtering fuse. She was heavily charged.

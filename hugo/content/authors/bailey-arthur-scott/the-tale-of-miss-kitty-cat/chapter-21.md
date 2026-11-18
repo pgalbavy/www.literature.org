@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - In The Pantry"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-21.html"
 ---
 
 OF COURSE everybody knows that while the cat's away the mice will play. So what happened during Miss Kitty Cat's absence from the farmhouse was really no more than any one might have expected. There were gay banquets in Mrs. Green's pantry at midnight. And among those present there was no one that had a better time than fat Mr. Moses Mouse. He was always the life of the party. He made jokes about Miss Snooper--as he called Miss Kitty Cat. And nobody laughed at them harder than he.

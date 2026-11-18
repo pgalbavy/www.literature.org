@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Home Coming"
 weight: 5
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-05.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-05.html"
 ---
 
 Dr. David Blythe had sent his horse and buggy to meet them, and the urchin who had brought it slipped away with a sympathetic grin, leaving them to the delight of driving alone to their new home through the radiant evening.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Jimmy Tells The Truth"
 weight: 21
-aliases:
-  - "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-21.html"
+url: "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-21.html"
 ---
 
 Mr. Compton returned to the room before Jimmy had discovered whether the girl intended to expose him or not. She said nothing about the matter during dinner, and immediately thereafter she excused herself, leaving the two men alone.

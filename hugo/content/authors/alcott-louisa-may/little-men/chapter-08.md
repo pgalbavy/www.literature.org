@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Pranks And Plays"
 weight: 9
-aliases:
-  - "/authors/alcott-louisa-may/little-men/chapter-08.html"
+url: "/authors/alcott-louisa-may/little-men/chapter-08.html"
 ---
 
 As there is no particular plan to this story, except to describe a few scenes in the life at Plumfield for the amusement of certain little persons, we will gently ramble along in this chapter and tell some of the pastimes of Mrs. Jo's boys. I beg leave to assure my honored readers that most of the incidents are taken from real life, and that the oddest are the truest; for no person, no matter how vivid an imagination he may have, can invent anything half so droll as the freaks and fancies that originate in the lively brains of little people.

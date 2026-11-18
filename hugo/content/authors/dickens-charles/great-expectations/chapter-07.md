@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-07.html"
+url: "/authors/dickens-charles/great-expectations/chapter-07.html"
 ---
 
 AT the time when I stood in the churchyard, reading the family tombstones, I had just enough learning to be able to spell them out. My construction even of their simple meaning was not very correct, for I read 'wife of the Above' as a complimentary reference to my futher's exaltation to a better world; and if any one of my deceased relations had been referred to as 'Below,' I have no doubt I should have formed the worst opinions of that member of the family. Neither, were my notions of the theological positions to which my Catechism bound me, at all accurate; for, I have a lively remem- brance that I supposed my declaration that I was to 'walk in the same all the days of my life,' laid me under an obligation always to go through the village from our house in one particular direction, and never to vary it by turning down by the wheelwright's or up by the mill.

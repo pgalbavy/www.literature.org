@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/greene-homer/the-flag/chapter-13.html"
+url: "/authors/greene-homer/the-flag/chapter-13.html"
 ---
 
 When Colonel Butler declared his intention of going to New York and Washington to consult with his friends about the great war, to urge active participation in it by the United States, and to offer to the proper authorities, his services as a military expert and commander, his daughter protested vigorously. It was absurd, she declared, for him, at his age, to think of doing anything of the kind; utterly preposterous and absurd. But he would not listen to her. His mind was made up, and she was entirely unable to divert him from his purpose.

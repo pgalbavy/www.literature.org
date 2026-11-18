@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Damon And Pythias"
 weight: 15
-aliases:
-  - "/authors/alcott-louisa-may/little-men/chapter-14.html"
+url: "/authors/alcott-louisa-may/little-men/chapter-14.html"
 ---
 
 Mrs. Bhaer was right; peace was only a temporary lull, a storm was brewing, and two days after Bess left, a moral earthquake shook Plumfield to its centre.

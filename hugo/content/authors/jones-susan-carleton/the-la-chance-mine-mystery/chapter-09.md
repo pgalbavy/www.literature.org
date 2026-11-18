@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Tatiana Paulina Valenka!"
 weight: 9
-aliases:
-  - "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-09.html"
+url: "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-09.html"
 ---
 
 Poor old Thompson seemed a closed incident. There was nothing to be found out about him, even regarding his departure from La Chance. Nobody remembered his going through Caraquet, or even the last time he had been there. He was not a man any one would remember, anyhow, or one who had made friends. We put a notice of his death and the circumstances in a Montreal paper, and I thought that was the end of it all, till Dudley, to my surprise, stuck obstinately to his idea of tracing Thompson from Montreal. He told Macartney and me that he had written to a detective about it, and I think we both thought it was silly. I know I did; and I saw Macartney close his lips as though he kept back the same thought. But we gave old Thompson the best funeral we could, over at the Halfway, with a good grave and a wooden cross. All of us went except Marcia. She said she had never cared about the poor old thing, and she wasn't going to pretend it.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Fatty Meets Jimmy Rabbit"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-13.html"
 ---
 
 For once Fatty Coon was not hungry. He had eaten so much of Farmer Green's corn that he felt as if he could not swallow another mouthful. He was strolling homewards through the woods when someone called to him. It was Jimmy Rabbit.

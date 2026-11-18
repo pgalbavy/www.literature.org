@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Enchanted Violin"
 weight: 6
-aliases:
-  - "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-05.html"
+url: "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-05.html"
 ---
 
 Christine Daae, owing to intrigues to which I will return later, did not immediately continue her triumph at the Opera. After the famous gala night, she sang once at the Duchess de Zurich's; but this was the last occasion on which she was heard in private. She refused, without plausible excuse, to appear at a charity concert to which she had promised her assistance. She acted throughout as though she were no longer the mistress of her own destiny and as though she feared a fresh triumph.

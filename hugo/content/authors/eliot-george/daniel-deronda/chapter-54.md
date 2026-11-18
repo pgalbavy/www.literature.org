@@ -1,8 +1,7 @@
 ---
 title: "Chapter 54"
 weight: 54
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-54.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-54.html"
 ---
 
 "The unwilling brain Feigns often what it would not; and we trust Imagination with such phantasies As the tongue dares not fashion into words; Which have no words, their horror makes them dim To the mind's eye." - SHELLEY.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Artistic Attempts"
 weight: 26
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-26.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-26.html"
 ---
 
 It takes people a long time to learn the difference between talent and genius, especially ambitious young men and women. Amy was learning this distinction through much tribulation, for mistaking enthusiasm for inspiration, she attempted every branch of art with youthful audacity. For a long time there was a lull in the 'mud-pie' business, and she devoted herself to the finest pen-and-ink drawing, in which she showed such taste and skill that her graceful handiwork proved both pleasant and profitable. But over-strained eyes caused pen and ink to be laid aside for a bold attempt at poker-sketching. While this attack lasted, the family lived in constant fear of a conflagration, for the odor of burning wood pervaded the house at all hours, smoke issued from attic and shed with alarming frequency, red-hot pokers lay about promiscuously, and Hannah never went to bed without a pail of water and the dinner bell at her door in case of fire. Raphael's face was found boldly executed on the underside of the moulding board, and Bacchus on the head of a beer barrel. A chanting cherub adorned the cover of the sugar bucket, and attempts to portray Romeo and Juliet supplied kindling for some time.

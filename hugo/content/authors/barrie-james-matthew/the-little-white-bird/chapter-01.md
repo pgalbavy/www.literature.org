@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - David And I Set Forth Upon A Journey"
 weight: 1
-aliases:
-  - "/authors/barrie-james-matthew/the-little-white-bird/chapter-01.html"
+url: "/authors/barrie-james-matthew/the-little-white-bird/chapter-01.html"
 ---
 
 Sometimes the little boy who calls me father brings me an invitation from his mother: "I shall be so pleased if you will come and see me," and I always reply in some such words as these: "Dear madam, I decline." And if David asks why I decline, I explain that it is because I have no desire to meet the woman.

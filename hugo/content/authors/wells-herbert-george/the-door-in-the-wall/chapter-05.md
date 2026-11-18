@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Moonlight Fable"
 weight: 5
-aliases:
-  - "/authors/wells-herbert-george/the-door-in-the-wall/chapter-05.html"
+url: "/authors/wells-herbert-george/the-door-in-the-wall/chapter-05.html"
 ---
 
 There was once a little man whose mother made him a beautiful suit of clothes. It was green and gold and woven so that I cannot describe how delicate and fine it was, and there was a tie of orange fluffiness that tied up under his chin. And the buttons in their newness shone like stars. He was proud and pleased by his suit beyond measure, and stood before the long looking-glass when first he put it on, so astonished and delighted with it that he could hardly turn himself away.

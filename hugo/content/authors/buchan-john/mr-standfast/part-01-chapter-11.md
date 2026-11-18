@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 11 - The Valley Of Humiliation"
 weight: 11
-aliases:
-  - "/authors/buchan-john/mr-standfast/part-01-chapter-11.html"
+url: "/authors/buchan-john/mr-standfast/part-01-chapter-11.html"
 ---
 
 I collected some baggage and a pile of newly arrived letters from my rooms in Westminster and took a taxi to my Park Lane flat. Usually I had gone back to that old place with a great feeling of comfort, like a boy from school who ranges about his room at home and examines his treasures. I used to like to see my hunting trophies on the wall and to sink into my own armchairs But now I had no pleasure in the thing. I had a bath, and changed into uniform, and that made me feel in better fighting trim. But I suffered from a heavy conviction of abject failure, and had no share in Macgillivray’s optimism. The awe with which the Black Stone gang had filled me three years before had revived a thousandfold. Personal humiliation was the least part of my trouble. What worried me was the sense of being up against something inhumanly formidable and wise and strong. I believed I was willing to own defeat and chuck up the game.

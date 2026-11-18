@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 20
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-19.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-19.html"
 ---
 
 It reminded me forcibly of Episode III in “The Perils of Pamela.” How often had I not sat in the sixpenny seats, eating a twopenny bar of milk chocolate, and yearning for similar things to happen to me. Well, they had happened with a vengeance. And somehow it was not nearly so amusing as I had imagined. It’s all very well on the screen—you have the comfortable knowledge that there’s bound to be an Episode IV. But in real life there was absolutely no guarantee that Anna the Adventuress might not terminate abruptly at the end of any Episode.

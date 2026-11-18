@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 5 - Mercury Prompting"
 weight: 22
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-02-chapter-05.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-02-chapter-05.html"
 ---
 
 Fledgeby deserved Mr Alfred Lammle’s eulogium. He was the meanest cur existing, with a single pair of legs. And instinct (a word we all clearly understand) going largely on four legs, and reason always on two, meanness on four legs never attains the perfection of meanness on two.

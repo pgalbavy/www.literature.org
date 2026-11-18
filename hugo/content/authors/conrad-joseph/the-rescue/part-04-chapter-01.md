@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 1"
 weight: 24
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-04-chapter-01.html"
+url: "/authors/conrad-joseph/the-rescue/part-04-chapter-01.html"
 ---
 
 Lingard brought Mrs. Travers away from the yacht, going alone with her in the little boat. During the bustle of the embarkment, and till the last of the crew had left the schooner, he had remained towering and silent by her side. It was only when the murmuring and uneasy voices of the sailors going away in the boats had been completely lost in the distance that his voice was heard, grave in the silence, pronouncing the words—"Follow me." She followed him; their footsteps rang hollow and loud on the empty deck. At the bottom of the steps he turned round and said very low:

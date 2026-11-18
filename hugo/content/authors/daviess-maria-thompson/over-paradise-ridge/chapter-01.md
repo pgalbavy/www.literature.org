@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Book Of Food"
 weight: 1
-aliases:
-  - "/authors/daviess-maria-thompson/over-paradise-ridge/chapter-01.html"
+url: "/authors/daviess-maria-thompson/over-paradise-ridge/chapter-01.html"
 ---
 
 Nobody knows what starts the sap along the twigs of a very young, tender, and green woman's nature. In my case it was Samuel Foster Crittenden, though how could he have counted on the amount of Grandmother Nelson that was planted deep in my disposition, ready to spring up and bear fruit as soon as I was brought in direct acquaintance with a seed-basket and a garden hoe? Also why should Sam's return to a primitive state have forced my ancestry up to the point of flowering on the surface? I do hope Sam will not have to suffer consequences, but I can't help it if he does. What's born in us is not our fault.

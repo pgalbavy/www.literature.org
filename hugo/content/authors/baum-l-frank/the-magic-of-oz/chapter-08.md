@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/baum-l-frank/the-magic-of-oz/chapter-08.html"
+url: "/authors/baum-l-frank/the-magic-of-oz/chapter-08.html"
 ---
 
 There had been trouble in the Forest of Gugu that morning. Chipo the Wild Boar had bitten the tail off Arx the Giraffe while the latter had his head among the leaves of a tree, eating his breakfast. Arx kicked with his heels and struck Tirrip, the great Kangaroo, who had a new baby in her pouch. Tirrip knew it was the Wild Boar's fault, so she knocked him over with one powerful blow and then ran away to escape Chipo's sharp tusks. In the chase that followed a giant porcupine stuck fifty sharp quills into the Boar and a chimpanzee in a tree threw a cocoanut at the porcupine that jammed its head into its body.

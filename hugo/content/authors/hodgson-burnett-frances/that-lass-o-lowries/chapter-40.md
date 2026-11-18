@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40 - Going South"
 weight: 40
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-40.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-40.html"
 ---
 
 The first day Fergus Derrick was allowed to spend an hour in an easy-chair by the fire, he heard the story of his rescue from the lips of his friend, listening to it as he rested against the propping cushions.

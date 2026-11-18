@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-12.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-12.html"
 ---
 
 The last twenty-four hours have witnessed a carnival of brutality. From cabin to forecastle it seems to have broken out like a contagion. I scarcely know where to begin. Wolf Larsen was really the cause of it. The relations among the men, strained and made tense by feuds, quarrels and grudges, were in a state of unstable equilibrium, and evil passions flared up in flame like prairie- grass.

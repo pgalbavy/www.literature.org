@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 3 - On Horsell Common"
 weight: 3
-aliases:
-  - "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-03.html"
+url: "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-03.html"
 ---
 
 I found a little crowd of perhaps twenty people sur- rounding the huge hole in which the cylinder lay. I have already described the appearance of that colossal bulk, em- bedded in the ground. The turf and gravel about it seemed charred as if by a sudden explosion. No doubt its impact had caused a flash of fire. Henderson and Ogilvy were not there. I think they perceived that nothing was to be done for the present, and had gone away to breakfast at Henderson's house.

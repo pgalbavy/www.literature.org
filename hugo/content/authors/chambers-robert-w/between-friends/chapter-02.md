@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/chambers-robert-w/between-friends/chapter-02.html"
+url: "/authors/chambers-robert-w/between-friends/chapter-02.html"
 ---
 
 When she came again to the studio, she was different, subdued, evading, avoiding, smiling a little in her flushed diffidence at his gay ease of manner—or assumption of both ease and gaiety.

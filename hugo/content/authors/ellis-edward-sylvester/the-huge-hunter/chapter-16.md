@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Repulse"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-16.html"
 ---
 
 A *FEW* minutes more satisfied the trapper that he was right. Gradually out from the darkness the approaching figure resolved itself into the steam man.

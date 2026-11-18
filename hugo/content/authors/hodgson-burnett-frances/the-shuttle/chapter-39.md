@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39 - On The Marshes"
 weight: 39
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-39.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-39.html"
 ---
 
 THE marshes stretched mellow in the autumn sun, sheep wandered about, nibbling contentedly, or lay down to rest in groups, the sky reflecting itself in the narrow dykes gave a blue colour to the water, a scent of the sea was in the air as one breathed it, flocks of plover rose, now and then, crying softly. Betty, walking with her dog, had passed a heron standing at the edge of a pool.

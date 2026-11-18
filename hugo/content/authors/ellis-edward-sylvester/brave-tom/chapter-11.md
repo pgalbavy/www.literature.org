@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/brave-tom/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/brave-tom/chapter-11.html"
 ---
 
 When Tom Gordon comprehended that the two policemen had arrested him on the charge of stealing a gold watch, he understood the trick played upon him by the lad who had handed him the timepiece and then, darted into the alley.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Brothers By Bloodshed"
 weight: 13
-aliases:
-  - "/authors/daviess-maria-thompson/the-daredevil/chapter-13.html"
+url: "/authors/daviess-maria-thompson/the-daredevil/chapter-13.html"
 ---
 
 I then experienced a surprise that gave to me a very great pleasure and which made my heart to expand until it almost burst the restraint of that towel of the bath under the bag of my brown cheviot coat. Before the door of the house of the beautiful Madam Whitworth stood the gray racing car of my Buzz, and before it stood a slim car of a similar make, only it was of the darkest amethyst that seemed to be almost a black, while behind it stood one of equal if not superior elegance of shape which had the beautiful blackness of jet. That was not all! Across the street stood also a car of a golden brown and to the front of it one of the red of a very dark cherry.

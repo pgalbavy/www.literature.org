@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Holiday"
 weight: 2
-aliases:
-  - "/authors/grahame-kenneth/the-golden-age/chapter-01.html"
+url: "/authors/grahame-kenneth/the-golden-age/chapter-01.html"
 ---
 
 THE masterful wind was up and out, shouting and chasing, the lord of the morning. Poplars swayed and tossed with a roaring swish; dead leaves sprang aloft, and whirled into space; and all the clear-swept heaven seemed to thrill with sound like a great harp. It was one of the first awakenings of the year. The earth stretched herself, smiling in her sleep; and everything leapt and pulsed to the stir of the giant’s movement. With us it was a whole holiday; the occasion a birthday—it matters not whose. Some one of us had had presents, and pretty conventional speeches, and had glowed with that sense of heroism which is no less sweet that nothing has been done to deserve it. But the holiday was for all, the rapture of awakening Nature for all, the various outdoor joys of puddles and sun and hedge-breaking for all. Colt-like I ran through the meadows, frisking happy heels in the face of Nature laughing responsive. Above, the sky was bluest of the blue; wide pools left by the winter’s floods flashed the colour back, true and brilliant; and the soft air thrilled with the germinating touch that seems to kindle something in my own small person as well as in the rash primrose already lurking in sheltered haunts. Out into the brimming sun-bathed world I sped, free of lessons, free of discipline and correction, for one day at least. My legs ran of themselves, and though I heard my name called faint and shrill behind, there was no stopping for me. It was only Harold, I concluded, and his legs, though shorter than mine, were good for a longer spurt than this. Then I heard it called again, but this time more faintly, with a pathetic break in the middle; and I pulled up short, recognising Charlotte’s plaintive note.

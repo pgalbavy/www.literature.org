@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Walled City"
 weight: 17
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-17.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-17.html"
 ---
 
 Dropping to the ground once more he picked up the trail of the girl and her captors, which he followed easily along what appeared to be a well-beaten trail. It was not long before he came to a small stream, where he quenched his thirst, and thereafter he saw that the trail followed in the general direction of the stream, which ran southwesterly. Here and there were cross trails and others which joined the main avenue, and always upon each of them were the tracks and scent of the great cats, of Numa, the lion, and Sheeta, the panther.

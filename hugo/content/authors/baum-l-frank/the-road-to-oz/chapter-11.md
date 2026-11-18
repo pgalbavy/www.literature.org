@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/baum-l-frank/the-road-to-oz/chapter-11.html"
+url: "/authors/baum-l-frank/the-road-to-oz/chapter-11.html"
 ---
 
 "It's getting awful rough walking," said Dorothy, as they trudged along. Button-Bright gave a deep sigh and said he was hungry. Indeed, all were hungry, and thirsty, too; for they had eaten nothing but the apples since breakfast; so their steps lagged and they grew silent and weary. At last they slowly passed over the crest of a barren hill and saw before them a line of green trees with a strip of grass at their feet. An agreeable fragrance was wafted toward them.

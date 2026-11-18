@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/chambers-robert-w/the-common-law/chapter-17.html"
+url: "/authors/chambers-robert-w/the-common-law/chapter-17.html"
 ---
 
 The fifteenth day of her absence had come and gone and there had been no word from her.

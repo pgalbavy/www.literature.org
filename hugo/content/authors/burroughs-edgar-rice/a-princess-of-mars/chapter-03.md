@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - My Advent on Mars"
 weight: 3
-aliases:
-  - "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-03.html"
+url: "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-03.html"
 ---
 
 I opened my eyes upon a strange and weird landscape. I knew that I was on Mars; not once did I question either my sanity or my wakefulness. I was not asleep, no need for pinching here; my inner consciousness told me as plainly that I was upon Mars as your conscious mind tells you that you are upon Earth. You do not question the fact; neither did I.

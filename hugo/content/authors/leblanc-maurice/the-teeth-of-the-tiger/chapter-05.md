@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Iron Curtain"
 weight: 5
-aliases:
-  - "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-05.html"
+url: "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-05.html"
 ---
 
 It is sometimes an ungrateful task to tell the story of Arsène Lupin's life, for the reason that each of his adventures is partly known to the public, having at the time formed the subject of much eager comment, whereas his biographer is obliged, if he would throw light upon what is not known, to begin at the beginning and to relate in full detail all that which is already public property.

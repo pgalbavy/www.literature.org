@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Pathfinders"
 weight: 11
-aliases:
-  - "/authors/chambers-robert-w/the-firing-line/chapter-11.html"
+url: "/authors/chambers-robert-w/the-firing-line/chapter-11.html"
 ---
 
 Considerably impressed by her knowledge he was careful not to embarrass her by saying so too seriously.

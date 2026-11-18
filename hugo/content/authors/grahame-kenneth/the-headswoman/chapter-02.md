@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/grahame-kenneth/the-headswoman/chapter-02.html"
+url: "/authors/grahame-kenneth/the-headswoman/chapter-02.html"
 ---
 
 One evening, a few weeks later, Jeanne was taking a stroll on the ramparts of the town, a favourite and customary walk of hers when business cares were over. The pleasant expanse of country that lay spread beneath her--the rich sunset, the gleaming, sinuous river, and the noble old château that dominated both town and pasture from its adjacent height--all served to stir and bring out in her those poetic impulses which had lain dormant during the working day; while the cool evening breeze smoothed out and obliterated any little jars or worries which might have ensued during the practice of a profession in which she was still something of a novice. This evening she felt fairly happy and content. True, business was rather brisk, and her days had been fully occupied; but this mattered little so long as her modest efforts were appreciated, and she was now really beginning to feel that, with practice, her work was creditably and artistically done. In a satisfied, somewhat dreamy mood, she was drinking in the various sweet influences of the evening, when she perceived her cousin approaching.

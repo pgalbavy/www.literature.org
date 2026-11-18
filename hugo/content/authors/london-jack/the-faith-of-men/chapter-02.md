@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Hyperborean Brew"
 weight: 2
-aliases:
-  - "/authors/london-jack/the-faith-of-men/chapter-02.html"
+url: "/authors/london-jack/the-faith-of-men/chapter-02.html"
 ---
 
 [The story of a scheming white man among the strange people who live on the rim of the Arctic sea]

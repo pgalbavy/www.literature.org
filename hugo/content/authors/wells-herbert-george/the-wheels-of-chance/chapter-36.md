@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 36
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-36.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-36.html"
 ---
 
 As they were sitting by the roadside among the pine trees half-way up a stretch of hill between Wimborne and Ringwood, however, Mr. Hoopdriver reopened the question of his worldly position.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-12.html"
+url: "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-12.html"
 ---
 
 Trot wakened just as the sun rose, and slipping out of the blankets, went to the edge of the Great Orchard and looked across the plain. Something glittered in the far distance. "That looks like another city," she said half aloud.

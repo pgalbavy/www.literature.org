@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Passage Of The Creek"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/the-riflemen-of-the-miami/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/the-riflemen-of-the-miami/chapter-04.html"
 ---
 
 Be set forever in disgrace  

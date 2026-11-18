@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Through the Forest Primeval"
 weight: 25
-aliases:
-  - "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-25.html"
+url: "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-25.html"
 ---
 
 For a brief, sickening moment Tarzan felt the slipping of the rope to which he clung, and heard the scraping of the block of stone against the masonry above.

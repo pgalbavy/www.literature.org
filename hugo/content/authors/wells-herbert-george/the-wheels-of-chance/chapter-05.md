@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Shameful Episode Of The Young Lady In Grey"
 weight: 5
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-05.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-05.html"
 ---
 
 Now you must understand that Mr. Hoopdriver was not one of your fast young men. If he had been King Lemuel, he could not have profited more by his mother's instructions. He regarded the feminine sex as something to bow to and smirk at from a safe distance. Years of the intimate remoteness of a counter leave their mark upon a man. It was an adventure for him to take one of the Young Ladies of the establishment to church on a Sunday. Few modern young men could have merited less the epithet "Dorg." But I have thought at times that his machine may have had something of the blade in its metal. Decidedly it was a machine with a past. Mr. Hoopdriver had bought it second-hand from Hare's in Putney, and Hare said it had had several owners. Second-hand was scarcely the word for it, and Elare was mildly puzzled that he should be selling such an antiquity. He said it was perfectly sound, if a little old-fashioned, but he was absolutely silent about its moral character. It may even have begun its career with a poet, say, in his glorious youth. It may have been the bicycle of a Really Bad Man. No one who has ever ridden a cycle of any kind but will witness that the things are unaccountably prone to pick up bad habits--and keep them.

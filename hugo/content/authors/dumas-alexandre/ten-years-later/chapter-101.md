@@ -1,8 +1,7 @@
 ---
 title: "Chapter 101 - The Two Friends"
 weight: 101
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-101.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-101.html"
 ---
 
 At the very time M. de Baisemeaux was showing Aramis the prisoners in the Bastile, a carriage drew up at Madame de Belliere's door, and, at that still early hour, a young woman alighted, her head muffled in a silk hood. When the servants announced Madame Vanel to Madame de Belliere, the latter was engaged, or rather was absorbed, in reading, a letter, which she hurriedly concealed. She had hardly finished her morning toilette, her maid being still in the next room. At the name - -at the footsteps of Marguerite Vanel - Madame de Belliere ran to meet her. She fancied she could detect in her friend's eyes a brightness which was neither that of health nor of pleasure. Marguerite embraced her, pressed her hands, and hardly allowed her time to speak. "Dearest," she said, "have you forgotten me? Have you quite given yourself up to the pleasures of the court?"

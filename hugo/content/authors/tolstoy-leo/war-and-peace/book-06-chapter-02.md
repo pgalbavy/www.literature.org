@@ -1,8 +1,7 @@
 ---
 title: "Book 6 - Chapter 2"
 weight: 108
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-06-chapter-02.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-06-chapter-02.html"
 ---
 
 Prince Andrew had to see the Marshal of the Nobility for the district in connection with the affairs of the Ryazan estate of which he was trustee. This Marshal was Count Ilya Rostov, and in the middle of May Prince Andrew went to visit him.

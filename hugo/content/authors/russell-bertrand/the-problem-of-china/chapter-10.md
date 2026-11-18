@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Present Forces And Tendencies In The Far East"
 weight: 11
-aliases:
-  - "/authors/russell-bertrand/the-problem-of-china/chapter-10.html"
+url: "/authors/russell-bertrand/the-problem-of-china/chapter-10.html"
 ---
 
 The Far Eastern situation is so complex that it is very difficult to guess what will be the ultimate outcome of the Washington Conference, and still more difficult to know what outcome we ought to desire. I will endeavour to set forth the various factors each in turn, not simplifying the issues, but rather aiming at producing a certain hesitancy which I regard as desirable in dealing with China. I shall consider successively the interests and desires of America, Japan, Russia and China, with an attempt, in each case, to gauge what parts of these various interests and desires are compatible with the welfare of mankind as a whole.[86]

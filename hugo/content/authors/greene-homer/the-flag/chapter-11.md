@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/greene-homer/the-flag/chapter-11.html"
+url: "/authors/greene-homer/the-flag/chapter-11.html"
 ---
 
 It was late in the day following his departure from New York that Pen reached his destination in Canada. In a certain suburban town not far from Toronto he found a great training camp. It was here that selected units of the new Dominion armies received their military instruction prior to being sent abroad. It was here also that many of the young men from the States, desirous of fighting under the Union Jack, came to enlist with the Canadian troops and to receive their first lessons in the science of warfare. Canada was stirred as she had never been stirred before in all her history. Her troops already at the front had received their first great baptism of fire at Langemarck. They had fought desperately, they had won splendidly, but their losses had been appalling. So the young men of Canada, eager to avenge the slaughter of their countrymen, were hastening to fill the depleted ranks, and the young men from the States were proud to bear them company.

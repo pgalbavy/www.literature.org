@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 11"
 weight: 11
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-01-chapter-11.html"
+url: "/authors/london-jack/valley-of-the-moon/book-01-chapter-11.html"
 ---
 
 The horses, resting frequently and lathered by the work, had climbed the steep grade of the old road to Moraga Valley, and on the divide of the Contra Costa hills the way descended sharply through the green and sunny stillness of Redwood Canyon.

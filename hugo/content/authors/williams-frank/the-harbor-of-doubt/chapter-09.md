@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - On The Course"
 weight: 9
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-09.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-09.html"
 ---
 
 "All dories aboard? All hands set tops'ls! Jimmie Thomas, ease your mainsheet! Now, boys, altogether! Yo! Sway 'em flat! Yo! Once more! Yo! Fine! Stand by to set balloon jib!"

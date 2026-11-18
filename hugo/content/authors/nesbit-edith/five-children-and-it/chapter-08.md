@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Bigger Than The Baker's Boy"
 weight: 8
-aliases:
-  - "/authors/nesbit-edith/five-children-and-it/chapter-08.html"
+url: "/authors/nesbit-edith/five-children-and-it/chapter-08.html"
 ---
 
 'Look here,' said Cyril. 'I've got an idea.'

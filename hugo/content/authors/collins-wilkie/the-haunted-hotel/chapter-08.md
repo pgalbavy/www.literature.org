@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/collins-wilkie/the-haunted-hotel/chapter-08.html"
+url: "/authors/collins-wilkie/the-haunted-hotel/chapter-08.html"
 ---
 
 On the 14th the Directors and their legal advisers met for the reading of the report, with closed doors. These were the terms in which the Commissioners related the results of their inquiry: 'Private and confidential.

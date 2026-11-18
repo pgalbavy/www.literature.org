@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/chambers-robert-w/the-common-law/chapter-14.html"
+url: "/authors/chambers-robert-w/the-common-law/chapter-14.html"
 ---
 
 The Countess Hélène had taken her maid and gone to New York on business for a day or two, leaving Valerie to amuse herself until her return.

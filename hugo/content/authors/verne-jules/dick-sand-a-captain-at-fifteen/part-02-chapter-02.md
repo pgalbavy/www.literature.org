@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 2 - Harris And Negoro"
 weight: 20
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-02.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-02.html"
 ---
 
 The day after that on which Dick Sand and his companions had established their last halt in the forest, two men met together about three miles from there, as it had been previously arranged between them.

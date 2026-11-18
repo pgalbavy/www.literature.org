@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - In The Hands Of Savages"
 weight: 10
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-10.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-10.html"
 ---
 
 Tarzan sought Bara, the deer, or Horta, the boar, for of all the jungle animals he doubted if any would prove more palatable to the white woman, but though his keen nos- trils were ever on the alert, he traveled far without being re- warded with even the faintest scent spoor of the game he sought. Keeping close to the river where he hoped to find Bara or Horta approaching or leaving a drinking place he came at last upon the strong odor of the Wamabo village and being ever ready to pay his hereditary enemies, the Gomangani, an undesired visit, he swung into a detour and came up in the rear of the village. From a tree which overhung the palisade he looked down into the street where he saw the preparations going on which his experience told him indicated the approach of one of those frightful feasts the piece de resistance of which is human flesh.

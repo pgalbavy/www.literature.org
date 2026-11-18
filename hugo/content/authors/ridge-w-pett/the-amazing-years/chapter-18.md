@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/ridge-w-pett/the-amazing-years/chapter-18.html"
+url: "/authors/ridge-w-pett/the-amazing-years/chapter-18.html"
 ---
 
 I assumed at the moment that it was annoyance with the contrariness of events which made me feel out of sorts. It happened that no one at Gloucester Place advised me to see a doctor, and if this counsel had been given I should have rejected it at once; on my own account I discovered my earliest customer, who occupied the first half-hour by shewing me the contents of the house added since his original purchase through me. This over, he gave attention to my case.

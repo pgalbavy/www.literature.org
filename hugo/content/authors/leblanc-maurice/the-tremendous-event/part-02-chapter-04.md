@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 4 - The Battle"
 weight: 13
-aliases:
-  - "/authors/leblanc-maurice/the-tremendous-event/part-02-chapter-04.html"
+url: "/authors/leblanc-maurice/the-tremendous-event/part-02-chapter-04.html"
 ---
 
 All things considered, their best chance of safety would have been to plunge into the river and escape by the left bank. But this plan, which would have cut them off from Rolleston and which Simon did not wish to adopt except in the last extremity, must have been foreseen by Forsetta, for, as soon as light was clear enough, they saw two tramps going up the Somme on the opposite bank. Under these conditions, how were they to land?

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Cleverly Done"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-16.html"
 ---
 
 At this moment the Texan heard something.

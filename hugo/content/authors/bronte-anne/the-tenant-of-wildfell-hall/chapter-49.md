@@ -1,8 +1,7 @@
 ---
 title: "Chapter 49"
 weight: 50
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-49.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-49.html"
 ---
 
 Though Mr. Lawrence's health was now quite re-established, my visits to Woodford were as unremitting as ever; though often less protracted than before. We seldom talked about Mrs. Huntingdon; but yet we never met without mentioning her, for I never sought his company but with the hope of hearing something about her, and he never sought mine at all, because he saw me often enough without. But I always began to talk of other things, and waited first to see if he would introduce the subject. If he did not, I would casually ask, 'Have you heard from your sister lately?' If he said 'No,' the matter was dropped: if he said 'Yes,' I would venture to inquire, 'How is she?' but never 'How is her husband?' though I might be burning to know; because I had not the hypocrisy to profess any anxiety for his recovery, and I had not the face to express any desire for a contrary result. Had I any such desire? - I fear I must plead guilty; but since you have heard my confession, you must hear my justification as well - a few of the excuses, at least, wherewith I sought to pacify my own accusing conscience.

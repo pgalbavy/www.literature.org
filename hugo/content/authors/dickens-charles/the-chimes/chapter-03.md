@@ -1,8 +1,7 @@
 ---
 title: "Third Quarter"
 weight: 3
-aliases:
-  - "/authors/dickens-charles/the-chimes/chapter-03.html"
+url: "/authors/dickens-charles/the-chimes/chapter-03.html"
 ---
 
 Black are the brooding clouds and troubled the deep waters, when the Sea of Thought, first heaving from a calm, gives up its Dead. Monsters uncouth and wild, arise in premature, imperfect resurrection, the several parts and shapes of different things are joined and mixed by chance; and when, and how, and by what wonderful degrees, each separates from each, and every sense and object of the mind resumes its usual form and lives again, no man -- though every man is every day the casket of this type of the Great Mystery -- can tell.

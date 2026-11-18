@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - My Day In Court"
 weight: 24
-aliases:
-  - "/authors/buck-charles-neville/the-portal-of-dreams/chapter-24.html"
+url: "/authors/buck-charles-neville/the-portal-of-dreams/chapter-24.html"
 ---
 
 He was not unconscious, but dazed and groggy, and the blood was flowing from a nasty cut perilously close to the left temple. I was on him and pinning him against the planks before he could recover himself. I picked up the fallen key, liberated my right hand, then closing his manacle about his own wrist, I dragged him over to an upright post and passing the chain about it fastened his other hand. I had learned something about gagging now, so by the time he had recovered his full senses, he found himself hitched quite securely to the unplaned pillar, bootless, trouserless and speechless--but above all else astonished. I took one mean scrap of vengeance which was unnecessary. I went to the grated shutters and threw the key to the handcuffs out. Then, donning his clothes before his eyes, since my own would have proclaimed me a stranger in these parts, I turned and made my way down the stairs, once more at liberty. I did not vouchsafe him a word of farewell nor turn my head to look back, though I heard his feet pounding the floor in a frenzy of rage and futile struggle. Of course, I had possessed myself of his pistol as well as his hat, boots and trousers.

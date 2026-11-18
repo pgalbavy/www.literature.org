@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 9 - The Gorgon's Head"
 weight: 15
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-09.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-09.html"
 ---
 
 IT WAS a heavy mass of building, that chateau of Monsieur the Marquis, with a large stone courtyard before it, and two stone sweeps of staircase meeting in a stone terrace before the principal door. A stony business altogether, with heavy stone balustrades, and stone urns, and stone flowers, and stone faces of men, and stone heads of lions, in all directions. As if the Gorgon's head had surveyed it, when it was finished, two centuries ago.

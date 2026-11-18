@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Beginning A True Friendship"
 weight: 11
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-11.html"
+url: "/authors/tarkington-booth/seventeen/chapter-11.html"
 ---
 
 This was Miss Jane Baxter. She opened her eyes upon the new-born day, and her first thoughts were of Mr. Parcher. That is, he was already in her mind when she awoke, a circumstance to be accounted for on the ground that his conversation, during her quiet convalescence in his library, had so fascinated her that in all likelihood she had been dreaming of him. Then, too, Jane and Mr. Parcher had a bond in common, though Mr. Parcher did not know it. Not without result had William repeated Miss Pratt's inquiry in Jane's hearing: "Who IS that curious child?" Jane had preserved her sang-froid, but the words remained with her, for she was one of those who ponder and retain in silence.

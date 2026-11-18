@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-14.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-14.html"
 ---
 
 The Alali women, fifty strong, sallied forth into the forest to chastise their recalcitrant males. They carried their heavy bludgeons and many feathered pebbles, but most formidable of all was their terrific rage. Never in the memory of one of them had man dared question their authority, never had he presumed to show aught but fear of them; but now, instead of slinking away at their approach, he had dared defy them, to attack them, to slay them! But such a condition was too preposterous, too unnatural, to exist, nor would it exist much longer. Had they had speech they would have said that and a number of other things. It was looking black for the men; the women were in an ugly mood--but what else could be expected of women who were denied the power of speech?

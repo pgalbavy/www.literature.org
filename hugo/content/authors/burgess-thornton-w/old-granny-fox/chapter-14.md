@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Three Vain And Foolish Wishes"
 weight: 14
-aliases:
-  - "/authors/burgess-thornton-w/old-granny-fox/chapter-14.html"
+url: "/authors/burgess-thornton-w/old-granny-fox/chapter-14.html"
 ---
 
 There's nothing so foolishly silly and vain  

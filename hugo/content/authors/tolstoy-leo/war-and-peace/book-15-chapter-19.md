@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 19"
 weight: 336
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-19.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-19.html"
 ---
 
 There was nothing in Pierre's soul now at all like what had troubled it during his courtship of Helene.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42"
 weight: 42
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-42.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-42.html"
 ---
 
 With the darkness had come a wind from the sea, and the boy crept outside in his flannels and planter's hat and threw himself down in a cane chair with a little murmur of relief. Below him burned the white lights of the town, a little noisier than usual to-night, for out in the bay a steamer was lying-to, and there had been a few passengers and cargo to land. The boy had had a hard day's work, or he would have been in the town himself to watch for arrivals and wait for the mail. He closed his eyes, half asleep, for the sun had been hot and the murmurs of the sea below was almost like a lullaby. As he lay there a man's voice from the path reached him. He sprang up, listening intently. It must have been fancy - and yet! He leaned over the wooden balcony. The figure of a man loomed out through the darkness, came nearer, became distinct. Fred recognised him with a glad shout.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Florence"
 weight: 16
-aliases:
-  - "/authors/lawrence-david-herbert/aarons-rod/chapter-16.html"
+url: "/authors/lawrence-david-herbert/aarons-rod/chapter-16.html"
 ---
 
 The very afternoon after Aaron's arrival in Florence the sky became dark, the wind cold, and rain began steadily to fall. He sat in his big, bleak room above the river, and watched the pale green water fused with yellow, the many-threaded streams fuse into one, as swiftly the surface flood came down from the hills. Across, the dark green hills looked darker in the wet, the umbrella pines held up in vain above the villas. But away below, on the Lungarno, traffic rattled as ever.

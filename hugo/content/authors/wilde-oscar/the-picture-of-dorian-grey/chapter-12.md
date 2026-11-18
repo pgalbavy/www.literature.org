@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-12.html"
+url: "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-12.html"
 ---
 
 It was on the ninth of November, the eve of his own thirty-eighth birthday, as he often remembered afterwards.

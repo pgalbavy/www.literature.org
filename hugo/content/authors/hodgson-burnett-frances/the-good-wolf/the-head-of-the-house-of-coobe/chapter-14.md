@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-14.html"
+url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-14.html"
 ---
 
 When, from Robin's embarrassed young consciousness, there had welled up the hesitating confession, "She--doesn't like me," she could not, of course, have found words in which to make the reasons for her knowledge clear, but they had for herself no obscurity. The fair being who, at rare intervals, fluttered on the threshold of her world had a way of looking at her with a shade of aloof distaste in her always transient gaze.

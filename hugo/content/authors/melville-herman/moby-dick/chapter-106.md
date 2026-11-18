@@ -1,8 +1,7 @@
 ---
 title: "Chapter 106 - Ahab's Leg"
 weight: 106
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-106.html"
+url: "/authors/melville-herman/moby-dick/chapter-106.html"
 ---
 
 The precipitating manner in which Captain Ahab had quitted the Samuel Enderby of London, had not been unattended with some small violence to his own person. He had lighted with such energy upon a thwart of his boat that his ivory leg had received a half-splintering shock. And when after gaining his own deck, and his own pivot-hole there, he so vehemently wheeled round with an urgent command to the steersman (it was, as ever, something about his not steering inflexibly enough); then, the already shaken ivory received such an additional twist and wrench, that though it still remained entire, and to all appearances lusty, yet Ahab did not deem it entirely trustworthy.

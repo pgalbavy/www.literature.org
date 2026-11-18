@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - That Mr. G. Slade Of Detroit"
 weight: 3
-aliases:
-  - "/authors/daviess-maria-thompson/the-daredevil/chapter-03.html"
+url: "/authors/daviess-maria-thompson/the-daredevil/chapter-03.html"
 ---
 
 A number of moments in the rapid passing of the next few months I have wondered what would have resulted if I had taken that vacant chair between very agreeable Mr. William Raines and very proper Mr. Peter Scudder so evidently reserved for the young, beautiful and charming Marquise of Grez and Bye. I have decided that in about the half of one hour young Mr. Robert Carruthers would have been extinct and the desired and beloved Marquise in her place between them sipping her tea while making false excuses for forgiveness. I did not take that seat but I accepted one which a garçon offered me next to them and did regard them with both fear and wistfulness, also with an intense attention so that I might acquire as much as possible from them of an American gentleman's manner.

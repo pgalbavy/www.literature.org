@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Traveler"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-06.html"
 ---
 
 FARMER GREEN'S garden was growing fast. The sweet corn waved and rustled whenever a breeze swept it. The beets and carrots sent their pert tops a little higher each day. The cabbages began to puff their heads out as if they felt of some importance in the world. And the potato vines were actually pretty, with their white blossoms amid the green leaves. Farmer Green was very proud of his potatoes. He said, in Mrs. Ladybug's hearing, that they were the best he had ever raised.

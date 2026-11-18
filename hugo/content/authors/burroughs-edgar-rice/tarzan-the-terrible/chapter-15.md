@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - \"The King Is Dead!\""
 weight: 15
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-15.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-15.html"
 ---
 
 As they conversed Ja-don had led her down the stone stairway that leads from the upper floors of the Temple of the Gryf to the chambers and the corridors that honeycomb the rocky hills from which the temple and the palace are hewn and now they passed from one to the other through a doorway upon one side of which two priests stood guard and upon the other two warriors. The former would have halted Ja-don when they saw who it was that accompanied him for well known throughout the temple was the quarrel between king and high priest for possession of this beautiful stranger.

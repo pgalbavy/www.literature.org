@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 19"
 weight: 19
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-02-chapter-19.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-02-chapter-19.html"
 ---
 
 Hamidullah was the next stage. He was waiting outside the Superintendent’s office, and sprang up respectfully when he saw Fielding. To the Englishman’s passionate “It’s all a mistake,” he answered, “Ah, ah, has some evidence come?”

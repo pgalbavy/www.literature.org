@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Caught In The Rain"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-09.html"
 ---
 
 Left alone in the woods with Mr. Crow's umbrella, Jasper Jay had a fine time. First he looked at the umbrella very closely, from the handle to the slender tip. Then he placed it under his wing and strutted back and forth upon the ground, just as he had seen Mr. Crow parade before his friends. And Jasper wished that someone would come along and see him.

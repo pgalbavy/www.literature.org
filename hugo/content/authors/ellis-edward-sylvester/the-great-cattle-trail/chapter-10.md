@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Surprise"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-10.html"
 ---
 
 Avon Burnet waited several minutes after the light went out, in the hope that it would reappear and give him an indication of its nature and cause; but darkness continued, and he concluded that his first suspicion was right: some warrior in riding over the prairie had halted to light his cigar or pipe, and then ridden on to join his comrades near the cabin.

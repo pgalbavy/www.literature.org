@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 2 - Young Powell Sees And Hears"
 weight: 9
-aliases:
-  - "/authors/conrad-joseph/chance/part-02-chapter-02.html"
+url: "/authors/conrad-joseph/chance/part-02-chapter-02.html"
 ---
 
 "You remember," went on Marlow, "how I feared that Mr. Powell's want of experience would stand in his way of appreciating the unusual. The unusual I had in my mind was something of a very subtle sort: the unusual in marital relations. I may well have doubted the capacity of a young man too much concerned with the creditable performance of his professional duties to observe what in the nature of things is not easily observable in itself, and still less so under the special circumstances. In the majority of ships a second officer has not many points of contact with the captain's wife. He sits at the same table with her at meals, generally speaking; he may now and then be addressed more or less kindly on insignificant matters, and have the opportunity to show her some small attentions on deck. And that is all. Under such conditions, signs can be seen only by a sharp and practised eye. I am alluding now to troubles which are subtle often to the extent of not being understood by the very hearts they devastate or uplift.

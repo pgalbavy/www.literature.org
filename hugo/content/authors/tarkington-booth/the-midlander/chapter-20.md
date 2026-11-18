@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-20.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-20.html"
 ---
 
 *HARLAN* was astonished, but he took his little defeat well; and Martha in turn encountered a surprise, for he showed a discomfited kind of pleasure. "So Ornaby Addition’s going to get its rapid transit at last," he said. "That’s not so bad, you know. Why, Dan might come out pretty well on the thing after all!"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Long, Sharp Bill"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-17.html"
 ---
 
 Certainly it was an odd remark that Ferdinand Frog made about the stranger's wicked-looking bill. But knowing that its owner had eaten until he had no appetite left for the time being, Mr. Frog forgot his fear. And he couldn't help being curious about the big bird, because he had never seen another like him.

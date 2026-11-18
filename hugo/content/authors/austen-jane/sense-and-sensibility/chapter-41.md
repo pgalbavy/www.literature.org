@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41"
 weight: 41
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-41.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-41.html"
 ---
 
 Edward, having carried his thanks to Colonel Brandon, proceeded with his happiness to Lucy; and such was the excess of it by the time he reached Bartlett's Buildings, that she was able to assure Mrs. Jennings, who called on her again the next day with her congratulations, that she had never seen him in such spirits before in her life.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - In Which I Am Left Alone"
 weight: 29
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-28.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-28.html"
 ---
 
 I opened the door to Catriona and stopped her on the threshold.

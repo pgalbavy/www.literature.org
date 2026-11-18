@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Heda's Tale"
 weight: 21
-aliases:
-  - "/authors/haggard-h-rider/finished/chapter-20.html"
+url: "/authors/haggard-h-rider/finished/chapter-20.html"
 ---
 
 That evening when I was lying on my bed outside the cave, I heard the tale of Anscombe and Heda. Up to a certain point he told it, then she went on with the story.

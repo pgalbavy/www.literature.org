@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Lit Chamber"
 weight: 12
-aliases:
-  - "/authors/buchan-john/the-path-of-the-king/chapter-11.html"
+url: "/authors/buchan-john/the-path-of-the-king/chapter-11.html"
 ---
 
 He was hoisted on his horse by an ostler and two local sots from the tap-room, his valise was strapped none too securely before him, and with a farewell, which was meant to be gracious but was only foolish, he tittuped into the rain. He was as drunk as an owl, though he did not know it. All afternoon he had been mixing strong Cumberland ale with the brandy he had got from the Solway free-traders, and by five o'clock had reached that state when he saw the world all gilt and rosy and himself as an applauded actor on a splendid stage. He had talked grandly to his fellow topers, and opened to their rustic wits a glimpse of the great world. They had bowed to a master, even those slow Cumbrians who admired little but fat cattle and blood horses. He had made a sensation, had seen wonder and respect in dull eyes, and tasted for a moment that esteem which he had singularly failed to find elsewhere.

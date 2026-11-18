@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/tolstoy-leo/master-and-man/chapter-08.html"
+url: "/authors/tolstoy-leo/master-and-man/chapter-08.html"
 ---
 
 Meanwhile Vasili Andreevich, with his feet and the ends of the reins, urged the horse on in the direction in which for some reason he expected the forest and forester's hut to be. The snow covered his eyes and the wind seemed intent on stopping him, but bending forward and constantly lapping his coat over and pushing it between himself and the cold harness pad which prevented him from sitting properly, he kept urging the horse on. Mukhorty ambled on obediently though with difficulty, in the direction in which he was driven.

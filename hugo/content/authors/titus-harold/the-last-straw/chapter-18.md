@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - An Interrupted Proposal"
 weight: 18
-aliases:
-  - "/authors/titus-harold/the-last-straw/chapter-18.html"
+url: "/authors/titus-harold/the-last-straw/chapter-18.html"
 ---
 
 The love that grew in the hearts of Tom Beck and Jane Hunter was not the only suit which approached a climax in the hills. Another existed, quite different, unknown to them, unsuspected, even, but it was not a secret to one who rode from the HC ranch.

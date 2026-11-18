@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Among The Apaches"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-09.html"
 ---
 
 Having run down one Apache warrior, Corporal Hugg, unmindful of his own personal danger, leaned forward out of the ambulance and shouted and lashed the furious horse, which was already on a dead run.

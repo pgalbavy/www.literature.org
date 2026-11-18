@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - A Capitulation"
 weight: 23
-aliases:
-  - "/authors/chambers-robert-w/the-firing-line/chapter-23.html"
+url: "/authors/chambers-robert-w/the-firing-line/chapter-23.html"
 ---
 
 As Hamil left the garden Malcourt sauntered into view, halted, then came forward.

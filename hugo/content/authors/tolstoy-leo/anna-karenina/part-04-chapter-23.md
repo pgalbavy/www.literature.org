@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 23"
 weight: 124
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-04-chapter-23.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-04-chapter-23.html"
 ---
 
 Vronsky's wound had been a dangerous one, though it did not touch the heart, and for several days he had lain between life and death. The first time he was able to speak, Varya, his brother's wife, was death. The first time he was able to speak, Varya, his brother's wife, was alone in the room.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - What Happened in the Rue Maule"
 weight: 3
-aliases:
-  - "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-03.html"
+url: "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-03.html"
 ---
 
 On his arrival in Paris, Tarzan had gone directly to the apartments of his old friend, D'Arnot, where the naval lieutenant had scored him roundly for his decision to renounce the title and estates that were rightly his from his father, John Clayton, the late Lord Greystoke.

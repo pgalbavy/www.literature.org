@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Important Negotiations"
 weight: 33
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-33.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-33.html"
 ---
 
 *THE* shot which the trapper fired in self-defence, therefore, was of the utmost help in his approach to the old mission building, for it broke the line of circumvallation, which otherwise would have been impassable to anyone seeking to enter or leave the structure.

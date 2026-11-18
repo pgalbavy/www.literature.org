@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/tarkington-booth/the-flirt/chapter-12.html"
+url: "/authors/tarkington-booth/the-flirt/chapter-12.html"
 ---
 
 Within a week Mr. Madison's illness was a settled institution in the household; the presence of the nurse lost novelty, even to Hedrick, and became a part of life; the day was measured by the three regular visits of the doctor. To the younger members of the family it seemed already that their father had always been sick, and that he always would be; indeed, to Cora and Hedrick he had become only a weak and querulous voice beyond a closed door. Doctor Sloane was serious but reassuring, his daily announcement being that his patient was in "no immediate danger."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Christmas Feast At Steeple"
 weight: 7
-aliases:
-  - "/authors/haggard-h-rider/the-brethren/chapter-06.html"
+url: "/authors/haggard-h-rider/the-brethren/chapter-06.html"
 ---
 
 The fourth day after Wulf's visit to Southminster was Christmas morning, and the weather being bad, Sir Andrew and his household did not ride to Stangate, but attended mass in Steeple Church. Here, after service, according to his custom on this day, he gave a largesse to his tenants and villeins, and with it his good wishes and a caution that they should not become drunk at their Yuletide feast, as was the common habit of the time.

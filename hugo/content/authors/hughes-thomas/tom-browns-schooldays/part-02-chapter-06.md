@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 6 - Fever In The School"
 weight: 15
-aliases:
-  - "/authors/hughes-thomas/tom-browns-schooldays/part-02-chapter-06.html"
+url: "/authors/hughes-thomas/tom-browns-schooldays/part-02-chapter-06.html"
 ---
 
 "This our hope for all that's mortal  

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Runt"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-01.html"
 ---
 
 He was the smallest of seven children. At first his mother thought she would call him "Runty." But she soon changed her mind about that; for she discovered that even if he was the runt of the family, he had the loudest grunt of all. So the good lady made haste to slip a G in front of the name "Runty."

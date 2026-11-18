@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/brave-tom/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/brave-tom/chapter-06.html"
 ---
 
 Tom Gordon could not be blamed for failing to note several suggestive occurrences during this memorable visit to Briggsville.

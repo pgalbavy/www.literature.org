@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Banda Oriental and Patagonia"
 weight: 9
-aliases:
-  - "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-08.html"
+url: "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-08.html"
 ---
 
 arrow_rightExcursion to Colonia del Sacramiento arrow_rightValue of an Estancia arrow_rightCattle, how counted arrow_rightSingular Breed of Oxen arrow_rightPerforated Pebbles arrow_rightShepherd Dogs arrow_rightHorses broken-in, Gauchos riding arrow_rightCharacter of Inhabitants arrow_rightRio Plata arrow_rightFlocks of Butterflies arrow_rightAeronaut Spiders arrow_rightPhosphorescence of the Sea arrow_rightPort Desire arrow_rightGuanaco arrow_rightPort St. Julian arrow_rightGeology of Patagonia arrow_rightFossil gigantic Animal arrow_rightTypes of Organization constant arrow_rightChange in the Zoology of America arrow_rightCauses of Extinction. ---

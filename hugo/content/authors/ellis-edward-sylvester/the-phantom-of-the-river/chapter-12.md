@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Carrying The War Into Africa"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-12.html"
 ---
 
 Jethro Juggens, the brawny servant of Mr. Altman, the dusky youth with the strength of a Hercules, the intellect of a child, or a skill in the use of the rifle hardly second to that of Kenton and Boone, has a singular but momentous part to play in the incidents that follow. The reader must, therefore, bear with us when now and then we turn aside from the graver and more tragical sweep of incidents to follow the doings and the fortunes and misfortunes of the one who rendered such signal service to his friends, already related in "Shod with Silence."

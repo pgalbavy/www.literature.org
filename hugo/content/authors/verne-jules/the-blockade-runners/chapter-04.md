@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Crockston’s Trick"
 weight: 4
-aliases:
-  - "/authors/verne-jules/the-blockade-runners/chapter-04.html"
+url: "/authors/verne-jules/the-blockade-runners/chapter-04.html"
 ---
 
 It was not long before the whole crew knew Miss Halliburtt's story, which Crockston was no longer hindered from telling. By the Captain's orders he was released from the capstan, and the cat-o'-nine-tails returned to its Place.

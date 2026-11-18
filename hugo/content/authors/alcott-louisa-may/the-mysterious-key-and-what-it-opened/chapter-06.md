@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Fair Helen"
 weight: 6
-aliases:
-  - "/authors/alcott-louisa-may/the-mysterious-key-and-what-it-opened/chapter-06.html"
+url: "/authors/alcott-louisa-may/the-mysterious-key-and-what-it-opened/chapter-06.html"
 ---
 
 To no one but her mother and Hester did Lillian confide the discovery she had made. None of the former servants but old Bedford remained with them, and till Paul chose to renew the old friendship it was best to remain silent. Great was the surprise and delight of our lady and Hester at the good fortune of their protege, and many the conjectures as to how he would explain his hasty flight.

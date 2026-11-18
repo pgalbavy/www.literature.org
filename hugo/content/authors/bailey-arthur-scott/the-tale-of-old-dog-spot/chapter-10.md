@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Dropping Hints"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-10.html"
 ---
 
 On the table in the kitchen of the farmhouse was a leg of mutton. Farmer Green had left it there and gone away. And Mrs. Green had stepped out of the kitchen--nobody knew for how long.

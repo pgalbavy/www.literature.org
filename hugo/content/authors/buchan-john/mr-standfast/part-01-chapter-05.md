@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 5 - Various Doings In The West"
 weight: 5
-aliases:
-  - "/authors/buchan-john/mr-standfast/part-01-chapter-05.html"
+url: "/authors/buchan-john/mr-standfast/part-01-chapter-05.html"
 ---
 
 The *Tobermory* was no ship for passengers. Its decks were littered with a hundred oddments, so that a man could barely walk a step without tacking, and my bunk was simply a shelf in the frowsty little saloon, where the odour of ham and eggs hung like a fog. I joined her at Greenock and took a turn on deck with the captain after tea, when he told me the names of the big blue hills to the north. He had a fine old copper-coloured face and side-whiskers like an archbishop, and, having spent all his days beating up the western seas, had as many yarns in his head as Peter himself.

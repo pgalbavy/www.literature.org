@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Young Lieutenant And Cato"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/oonomoo-the-huron/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/oonomoo-the-huron/chapter-04.html"
 ---
 
 Suddenly rose from the South a light, as in autumn the blood-red  

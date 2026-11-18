@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-06.html"
+url: "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-06.html"
 ---
 
 'Why don't men and women really like one another nowadays?' Connie asked Tommy Dukes, who was more or less her oracle.

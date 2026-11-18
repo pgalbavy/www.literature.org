@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/brave-tom/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/brave-tom/chapter-23.html"
 ---
 
 That night, after the establishment of Mr. Warmore was closed and the employees had gone home, two persons remained behind to engage in earnest consultation. They were the proprietor and G. Field Catherwood, the young man who expected, at the end of the year, to become an equal partner with him. The doors were fastened, and the two sat alone in the private office, the expression on the faces of both showing that some grave matter weighed upon them.

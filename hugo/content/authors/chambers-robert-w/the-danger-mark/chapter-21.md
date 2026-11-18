@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Golden Hours"
 weight: 21
-aliases:
-  - "/authors/chambers-robert-w/the-danger-mark/chapter-21.html"
+url: "/authors/chambers-robert-w/the-danger-mark/chapter-21.html"
 ---
 
 The weather was unsuitable for hunting. It snowed for a week, thawed over night, then froze, then snowed again, but the moon that night promised a perfect day.

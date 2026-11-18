@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-16.html"
+url: "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-16.html"
 ---
 
 With the news of the event, a flame of wrath swept through the coves. Everywhere, the men gathered in parties, to hunt, rifle in hand, for some trace of the outlaw. There was none to give him favor, save the outcasts numbered among his dependants. The usual sympathy for the illicit distiller ceased utterly, destroyed by hatred for the criminal's final offense. For the first time in the history of the mountains, there was no voice raised to protest--nor any rifle pointed in the laurel--against the Federal officers, who wandered at will in the wild places. In execration of Dan Hodges for his sin against the peace and dignity of the community, the people forgot for the nonce their ancient enmity against the Government. With one accord, the folk of the mountains joined in abhorrence of Hodges, sullenly anxious to bring about his punishment, to avenge his victim at least, if too late to save her.

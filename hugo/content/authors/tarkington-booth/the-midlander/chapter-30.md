@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-30.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-30.html"
 ---
 
 HE *MADE* this promise with an angrily confident determination to fulfil it, but the next few days were to teach him that he had not yet learned all there was to know about his sister. When he forced his way to an interview with her in her rooms in the hotel to which she had gone in New York, she laughed at his fury.

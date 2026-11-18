@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A Tight Squeeze"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-04.html"
 ---
 
 Timothy Turtle's remark was most surprising. It almost took Fatty Coon's breath away. And for a moment or two he even forgot the pain in his paw.

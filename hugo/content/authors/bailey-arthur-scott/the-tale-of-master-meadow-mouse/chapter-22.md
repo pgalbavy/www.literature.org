@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Fishing For Mice"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-22.html"
 ---
 
 MASTER MEADOW MOUSE peeped out of the end of his tunnel and gave a faint squeak. As he watched, he saw Peter Mink's head, on its long neck, flash out from beneath the overhanging bank of the brook.

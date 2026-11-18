@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Breaking The News"
 weight: 6
-aliases:
-  - "/authors/greene-homer/burnham-breaker/chapter-06.html"
+url: "/authors/greene-homer/burnham-breaker/chapter-06.html"
 ---
 
 Simon Craft and Lawyer Sharpman were sitting together in the rear room of the latter's law office. The window-shades were closely drawn, shutting out the mellow light of the full moon, which rested brightly and beautifully on all objects out of doors.

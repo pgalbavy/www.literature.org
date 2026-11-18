@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - An Old Friend"
 weight: 39
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-38.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-38.html"
 ---
 
 *AFTER* the footsteps of M. Mifroid had died away, M. Longuet remained standing at the street corner. A feeling of intense sadness and loneliness had come over him. He could not decide on whether to go back to his wife or to leave her altogether. But what would he do? If he left her he would have no home, and he would be an outcast from the world. He wandered for a long time through the streets, until he found himself opposite a door in the Rue Suger. He rang the bell and a man in a blouse and paper cap opened the door in response.

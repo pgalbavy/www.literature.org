@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43 - George Is Seen To Laugh"
 weight: 43
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-43.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-43.html"
 ---
 
 Ida and her father reached the vestibule to find Edward Cossey standing with his face to the mantelpiece and nervously toying with some curiosities upon it. He was, as usual, dressed with great care, and his face, though white and worn from the effects of agitation of mind, looked if anything handsomer than ever. As soon as he heard them coming, which owing to his partial deafness he did not do till they were quite close to him, he turned round with a start, and a sudden flush of colour came upon his pale face.

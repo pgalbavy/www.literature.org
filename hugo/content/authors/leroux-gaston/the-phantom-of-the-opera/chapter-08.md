@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Mysterious Brougham"
 weight: 9
-aliases:
-  - "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-08.html"
+url: "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-08.html"
 ---
 
 That tragic evening was bad for everybody. Carlotta fell ill. As for Christine Daae, she disappeared after the performance. A fortnight elapsed during which she was seen neither at the Opera nor outside.

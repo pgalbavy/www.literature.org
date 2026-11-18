@@ -1,8 +1,7 @@
 ---
 title: "Fit 8 - The Vanishing"
 weight: 9
-aliases:
-  - "/authors/carroll-lewis/the-hunting-of-the-snark/fit-08.html"
+url: "/authors/carroll-lewis/the-hunting-of-the-snark/fit-08.html"
 ---
 
 They sought it with thimbles, they sought it with care;  

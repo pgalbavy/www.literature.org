@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Pursuing A Will-O'-The-Wisp"
 weight: 2
-aliases:
-  - "/authors/buck-charles-neville/the-portal-of-dreams/chapter-02.html"
+url: "/authors/buck-charles-neville/the-portal-of-dreams/chapter-02.html"
 ---
 
 Aunt Sarah and the girls were much annoyed and their annoyance did not grow less when, after a half-hour of diagnosis, the chauffeur emerged, grease-stained and exhausted from under the car, shaking his head. He frankly admitted that his worm's eye view had failed to enlighten him as to the trouble. Aunt Sarah turned upon me eyes mirroring a faith sufficient to move even stalled motor cars.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - The Last Message Cavor Sent To The Earth"
 weight: 26
-aliases:
-  - "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-26.html"
+url: "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-26.html"
 ---
 
 ON this unsatisfactory manner the penultimate message of Cavor dies out. One seems to see him away there in the blue obscurity amidst his apparatus intently signalling us to the last, all unaware of the curtain of confusion that drops between us; all unaware, too, of the final dangers that even then must have been creeping upon him. His disastrous want of vulgar common sense had utterly betrayed him. He had talked of war, he had talked of all the strength and irrational violence of men, of their insatiable aggressions, their tireless futility of conflict. He had filled the whole moon world with this impression of our race, and then I think it is plain that he made the most fatal admission that upon himself alone hung the possibility - at least for a long time - of any further men reaching the moon. The line the cold, inhuman reason of the moon would take seems plain enough to me, and a suspicion of it, and then perhaps some sudden sharp realisation of it, must have come to him. One imagines him about the moon with the remorse of this fatal indiscretion growing in his mind. During a certain time I am inclined to guess the Grand Lunar was deliberating the new situation, and for all that time Cavor may have gone as free as ever he had gone. But obstacles of some sort prevented his getting to his electromagnetic apparatus again after that message I have just given. For some days we received nothing. Perhaps he was having fresh audiences, and trying to evade his previous admissions. Who can hope to guess?

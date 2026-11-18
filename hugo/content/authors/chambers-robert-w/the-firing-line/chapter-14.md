@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Strategy"
 weight: 14
-aliases:
-  - "/authors/chambers-robert-w/the-firing-line/chapter-14.html"
+url: "/authors/chambers-robert-w/the-firing-line/chapter-14.html"
 ---
 
 An hour or two later that afternoon Wayward and Constance Palliser, Gussie Vetchen, and Livingston Cuyp gazed with variously mingled sentiments upon the torpid saurians belonging to one Alligator Joe in an enclosure rather remote from the hotel.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Return Of The Fugitives"
 weight: 7
-aliases:
-  - "/authors/greene-homer/the-riverpark-rebellion/chapter-07.html"
+url: "/authors/greene-homer/the-riverpark-rebellion/chapter-07.html"
 ---
 
 On the morning of the departure of the rebels from Riverpark, Mr. Graydon, one of the teachers, happening to stand at the window of his recitation-room, saw the boys as they ran to the fence, leaped over, and passed into the fields beyond. He was too greatly astonished by the act to realize at once what it meant. Then it occurred to him that these lads had broken into open rebellion, and were about to take the holiday that had been denied them by the principal. He hurried across the schoolroom to Colonel Silsbee’s office, and entered it in a state of great excitement.

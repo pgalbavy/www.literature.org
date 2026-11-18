@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Moses Mouse's Way"
 weight: 23
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-23.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-23.html"
 ---
 
 One day when Grunty Pig was at home, in the pigpen, a squeaky voiced piped "Good morning!" to him. Looking up, Grunty saw a plump little gentleman clinging to the top board on one side of the pen.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Across The Lake"
 weight: 29
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-29.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-29.html"
 ---
 
 A few minutes after passing the bend in the stream, which hid the rock and the sleeping sentinel from sight, Fred Ashman observed that the smooth current broadened into a lake, forming the extraordinary sheet of water of which he had heard such strange accounts.

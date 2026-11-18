@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Truth Unalloyed"
 weight: 20
-aliases:
-  - "/authors/baily-waldron/when-the-cock-crows/chapter-20.html"
+url: "/authors/baily-waldron/when-the-cock-crows/chapter-20.html"
 ---
 
 The lowly home where Ethel had passed the previous night was as a palace compared with this structure of beach-provided boards and shingles, over the threshold of which she was ushered, supported on the arm of her protector, Doctor Gifford Garnet. As she stepped over the sill, she had a sense of apprehension, that ran over her flesh like chills. They were the physical expression of fright. She was downright afraid of this dark, dank, dungeon-like room. Her emotion was emphasized by a realization that her escort was a mentally unbalanced, drug-mad man. Ethel, realizing something of the danger in her environment, had set herself to carry a bold demeanor. She would not let the man know either her fears or her suspicions. She meant to assume toward him an air of confidence.

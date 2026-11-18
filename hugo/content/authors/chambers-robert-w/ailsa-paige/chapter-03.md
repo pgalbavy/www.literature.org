@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/chambers-robert-w/ailsa-paige/chapter-03.html"
+url: "/authors/chambers-robert-w/ailsa-paige/chapter-03.html"
 ---
 
 Ailsa and her sister-in-law, Mrs. Craig, had been unusually reticent over their embroidery that early afternoon, seated together in the front room, which was now flooded with sunshine—an attractive, intimate room, restful and pretty in spite of the unlovely Victorian walnut furniture.

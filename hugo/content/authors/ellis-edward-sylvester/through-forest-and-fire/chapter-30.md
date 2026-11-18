@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - A Friend In Need"
 weight: 30
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-30.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-30.html"
 ---
 
 Herbert Watrous had been set upon by a huge bear, and, throwing aside his Creedmoor, had run with might and main for a large stump, behind which he took refuge. Had he climbed a sapling, he would have been safe, but he was too flustered to think of that.

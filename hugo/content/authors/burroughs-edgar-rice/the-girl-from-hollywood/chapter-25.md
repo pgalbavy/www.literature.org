@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-25.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-25.html"
 ---
 
 Half an hour later Custer Pennington swung into the saddle and headed the Apache up Sycamore Cañon.

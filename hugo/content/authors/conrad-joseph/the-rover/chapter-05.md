@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/conrad-joseph/the-rover/chapter-05.html"
+url: "/authors/conrad-joseph/the-rover/chapter-05.html"
 ---
 
 As Peyrol and the lieutenant had surmised from the report of the gun, the English ship which the evening before was lying in Hyères Roads had got under way after dark. The light airs had taken her as far as the Petite Passe in the early part of the night, and then had abandoned her to the breathless moonlight in which, bereft of all motion, she looked more like a white monument of stone dwarfed by the darkling masses of land on either hand than a fabric famed for its swiftness in attack or in flight.

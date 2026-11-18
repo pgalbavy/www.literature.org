@@ -1,8 +1,7 @@
 ---
 title: "Chapter 68 - Cromwell's House"
 weight: 68
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-68.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-68.html"
 ---
 
 It was, in fact, Mordaunt whom D'Artagnan had followed, without knowing it. On entering the house he had taken off his mask and imitation beard, then, mounting a staircase, had opened a door, and in a room lighted by a single lamp found himself face to face with a man seated behind a desk.

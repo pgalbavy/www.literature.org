@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 4"
 weight: 22
-aliases:
-  - "/authors/conrad-joseph/romance/part-04-chapter-04.html"
+url: "/authors/conrad-joseph/romance/part-04-chapter-04.html"
 ---
 
 They did not suspect how close I was to them. And their temper struck me at once as unsafe. They seemed very much on the alert, and, as I imagined, disposed to precipitate action. I called out, deadening my voice warily:

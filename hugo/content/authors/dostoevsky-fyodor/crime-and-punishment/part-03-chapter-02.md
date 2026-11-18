@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 2"
 weight: 17
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-03-chapter-02.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-03-chapter-02.html"
 ---
 
 Razumihin waked up next morning at eight o'clock, troubled and serious. He found himself confronted with many new and unlooked-for perplexities. He had never expected that he would ever wake up feeling like that. He remembered every detail of the previous day and he knew that a perfectly novel experience had befallen him, that he had received an impression unlike anything he had known before. At the same time he recognised clearly that the dream which had fired his imagination was hopelessly unattainable - so unattainable that he felt positively ashamed of it, and he hastened to pass to the other more practical cares and difficulties bequeathed him by that "thrice accursed yesterday."

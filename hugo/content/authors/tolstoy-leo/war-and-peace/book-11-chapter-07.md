@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 7"
 weight: 236
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-07.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-07.html"
 ---
 
 Helene understood that the question was very simple and easy from the ecclesiastical point of view, and that her directors were making difficulties only because they were apprehensive as to how the matter would be regarded by the secular authorities.

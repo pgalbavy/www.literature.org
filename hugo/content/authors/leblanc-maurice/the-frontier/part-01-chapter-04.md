@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 4 - Philippe And His Wife"
 weight: 4
-aliases:
-  - "/authors/leblanc-maurice/the-frontier/part-01-chapter-04.html"
+url: "/authors/leblanc-maurice/the-frontier/part-01-chapter-04.html"
 ---
 
 Marthe and Suzanne were very intimate, in spite of the difference in their ages. Marthe was full of indulgent kindness for her friend, whom she had known as quite a child, motherless and left to herself; whereas Suzanne was less even-tempered with Marthe, now gushing and coaxing, now aggressive and satirical, but always full of charm.

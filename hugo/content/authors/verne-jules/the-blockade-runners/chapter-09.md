@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Between Two Fires"
 weight: 9
-aliases:
-  - "/authors/verne-jules/the-blockade-runners/chapter-09.html"
+url: "/authors/verne-jules/the-blockade-runners/chapter-09.html"
 ---
 
 The boat, pulled by six robust oarsmen, flew over the water. The fog was growing dense, and it was with difficulty that James Playfair succeeded in keeping to the line of his bearings. Crockston sat at the bows, and Mr. Halliburtt at the stern, next the Captain. The prisoner, only now informed of the presence of his servant, wished to speak to him, but the latter enjoined silence.

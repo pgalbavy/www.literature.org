@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Militarist"
 weight: 3
-aliases:
-  - "/authors/tarkington-booth/penrod-and-sam/chapter-03.html"
+url: "/authors/tarkington-booth/penrod-and-sam/chapter-03.html"
 ---
 
 *PENROD SCHOFIELD,* having been "kept-in" for the unjust period of twenty minutes after school, emerged to a deserted street. That is, the street was deserted so far as Penrod was concerned. Here and there people were to be seen upon the sidewalks, but they were adults, and they and the shade trees had about the same quality of significance in Penrod's consciousness. Usually he saw grown people in the mass, which is to say, they were virtually invisible to him, though exceptions must be taken in favour of policemen, firemen, street-car conductors, motormen, and all other men in any sort of uniform or regalia. But this afternoon none of these met the roving eye, and Penrod set out upon his homeward way wholly dependent upon his own resources.

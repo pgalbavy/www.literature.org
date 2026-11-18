@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43"
 weight: 43
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-43.html"
+url: "/authors/dickens-charles/great-expectations/chapter-43.html"
 ---
 
 WHY should I pause to ask how much of my shrinking from Provis might be traced to Estella? Why should I loiter on my road, to compare the state of mind in which I had tried to rid myself of the stain of the prison before meeting her at the coach-office, with the state of mind in which I now reflected on the abyss between Estella in her pride and beauty, and the returned transport whom I har- boured? The road would be none the smoother for it, the end would be none the better for it, he would not be helped, nor I extenuated.

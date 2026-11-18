@@ -1,8 +1,7 @@
 ---
 title: "Chapter 63 - A Visitor"
 weight: 64
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-63.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-63.html"
 ---
 
 What I have purposed to record is nearly finished; but there is yet an incident conspicuous in my memory, on which it often rests with delight, and without which one thread in the web I have spun would have a ravelled end.

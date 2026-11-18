@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/buck-charles-neville/the-key-to-yesterday/chapter-07.html"
+url: "/authors/buck-charles-neville/the-key-to-yesterday/chapter-07.html"
 ---
 
 A short time ago, Saxon had felt stronger than all the forces of fate. He had believed that circumstances were plastic and man invincible. Now, as he bent forward in his chair, the South American letter hanging in limp fingers and the coal-oil lamp on the table throwing its circle of light on the foreign postmark and stamp of the envelope, he realized that the battle was on. The forces of which he had been contemptuous were to engage him at once, with no breathing space before the combat. Viewing it all in this light, he felt the qualms of a general who encounters an aggressive enemy before his line is drawn and his battle front arranged.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Patty's Place"
 weight: 10
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-10.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-10.html"
 ---
 
 The next evening found them treading resolutely the herring-bone walk through the tiny garden. The April wind was filling the pine trees with its roundelay, and the grove was alive with robins -- great, plump, saucy fellows, strutting along the paths. The girls rang rather timidly, and were admitted by a grim and ancient handmaiden. The door opened directly into a large living-room, where by a cheery little fire sat two other ladies, both of whom were also grim and ancient. Except that one looked to be about seventy and the other fifty, there seemed little difference between them. Each had amazingly big, light-blue eyes behind steel-rimmed spectacles; each wore a cap and a gray shawl; each was knitting without haste and without rest; each rocked placidly and looked at the girls without speaking; and just behind each sat a large white china dog, with round green spots all over it, a green nose and green ears. Those dogs captured Anne's fancy on the spot; they seemed like the twin guardian deities of Patty's Place.

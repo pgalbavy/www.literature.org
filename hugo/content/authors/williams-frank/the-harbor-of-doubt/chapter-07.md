@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Stranger"
 weight: 7
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-07.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-07.html"
 ---
 
 The ensuing week was one such as the village had never beheld. A visitor to the island might have thought that war had been declared and that a privateering expedition was being fitted out.

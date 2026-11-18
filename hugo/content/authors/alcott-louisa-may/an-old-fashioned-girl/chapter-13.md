@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Sunny Side"
 weight: 14
-aliases:
-  - "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-13.html"
+url: "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-13.html"
 ---
 
 “I'VE won the wager, Tom.”

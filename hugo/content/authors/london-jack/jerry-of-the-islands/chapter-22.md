@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 23
-aliases:
-  - "/authors/london-jack/jerry-of-the-islands/chapter-22.html"
+url: "/authors/london-jack/jerry-of-the-islands/chapter-22.html"
 ---
 
 Northward, along the leeward coast of Malaita, the Ariel worked her leisurely way, threading the colour-riotous lagoon that lay between the shore-reefs and outer-reefs, daring passages so narrow and coral-patched that Captain Winters averred each day added a thousand grey hairs to his head, and dropping anchor off every walled inlet of the outer reef and every mangrove swamp of the mainland that looked promising of cannibal life. For Harley and Villa Kennan were in no hurry. So long as the way was interesting, they dared not how long it proved from anywhere to anywhere.

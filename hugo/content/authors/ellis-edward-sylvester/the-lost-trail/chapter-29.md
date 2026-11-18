@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Within The Wigwam"
 weight: 29
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-29.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-29.html"
 ---
 
 Jack Carleton walked to the flapping deerskin which closed the entrance to the wigwam, flung it aside, and, stooping slightly, stepped within. Looking into the face of Wish-o-wa-tum, he made a half military salute and, straightening up, called out:

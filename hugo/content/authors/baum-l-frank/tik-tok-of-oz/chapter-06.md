@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/baum-l-frank/tik-tok-of-oz/chapter-06.html"
+url: "/authors/baum-l-frank/tik-tok-of-oz/chapter-06.html"
 ---
 
 This sudden arrival was a queer looking man, dressed all in garments so shaggy that Betsy at first thought he must he some animal. But the stranger ended his fall in a sitting position and then the girl saw it was really a man. He held an apple in his hand, which he had evidently been eating when he fell, and so little was he jarred or flustered by the accident that he continued to munch this apple as he calmly looked around him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - In Which We Hold Counsel"
 weight: 1
-aliases:
-  - "/authors/hodgson-burnett-frances/vagabondia/chapter-01.html"
+url: "/authors/hodgson-burnett-frances/vagabondia/chapter-01.html"
 ---
 
 It was a nondescript sort of a room, taking it altogether. A big, sunny room, whose once handsome papering and corniceing had grown dingy, and whose rich carpeting had lost its color and pile in places, and yet asserted its superiority to its surroundings with an air of lost grandeur in every shabby medallion. There were pictures in abundance on the walls, and more than one of them were gems in their way, despite the evidence all bore to being the work of amateurs. The tables were carved elaborately, and the faded, brocaded chairs were of the order pouf, and as inviting as they were disreputable in appearance; there was manuscript music among the general litter, a guitar hung from the wall by a tarnished blue and silver ribbon, and a violin lay on the piano; and yet, notwithstanding the air of free-and-easy disorder, one could hardly help recognizing a sort of vagabond comfort and luxury in the Bohemian surroundings. It was so very evident that the owners must enjoy life in an easy, light-hearted, though perhaps light-headed fashion; and it was also so very evident that their light hearts and light heads rose above their knowledge of their light purses.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Some Place Like Home"
 weight: 1
-aliases:
-  - "/authors/dorrance-ethel-and-james/lonesome-town/chapter-01.html"
+url: "/authors/dorrance-ethel-and-james/lonesome-town/chapter-01.html"
 ---
 
 The trail spilled into a pool of shadows at the bottom of the gorge. As if doubtful of following it, the lone rider in chaps and a flannel shirt drew up for a “breathing.” This was gratefully advantaged by his mount. Evidently they had come at speed, whatever the distance, for the reins were lathered and foam flecked the bit corners.

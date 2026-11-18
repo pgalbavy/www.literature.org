@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/collins-wilkie/the-frozen-deep/chapter-17.html"
+url: "/authors/collins-wilkie/the-frozen-deep/chapter-17.html"
 ---
 
 Clara stopped at the doorway, looking backward and forward distrustfully between the husband and wife. Entering the boat-house, and approaching Crayford, she took his arm, and led him away a few steps from the place in which Mrs. Crayford was standing.

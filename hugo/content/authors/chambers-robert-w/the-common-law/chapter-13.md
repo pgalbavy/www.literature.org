@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/chambers-robert-w/the-common-law/chapter-13.html"
+url: "/authors/chambers-robert-w/the-common-law/chapter-13.html"
 ---
 
 He never doubted that, when at length the time came for the great change—though perhaps not until the last moment —Valerie would consent to marry him. Because, so far in his life of twenty-eight years, everything he had desired very much had come true—everything he had really believed in and worked for, had happened as he foresaw it would, in spite of the doubts, the fears, the apprehensions that all creators of circumstances and makers of their own destiny experience.

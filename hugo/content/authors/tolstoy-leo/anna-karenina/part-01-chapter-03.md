@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 3"
 weight: 3
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-03.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-03.html"
 ---
 
 When he was dressed, Stepan Arkadyevitch sprinkled some scent on himself, pulled down his shirt-cuffs, distributed into his pockets his cigarettes, pocketbook, matches, and watch with its double chain and seals, and shaking out his handkerchief, feeling himself clean, fragrant, healthy, and physically at ease, in spite of his unhappiness, he walked with a slight swing on each leg into the dining-room, where coffee was already waiting for him, and beside the coffee, letters and papers from the office.

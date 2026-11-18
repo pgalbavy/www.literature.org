@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Green Peas"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-07.html"
 ---
 
 In Farmer Green's garden there were many things that Billy Woodchuck liked to eat. It seemed to him that every time he stole down there he found some new vegetable that was nicer than any he had tasted before. And one day he came upon something that was far sweeter and juicier than anything he had ever eaten.

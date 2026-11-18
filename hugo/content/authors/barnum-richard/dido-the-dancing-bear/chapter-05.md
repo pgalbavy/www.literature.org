@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Dido Crosses The Ocean"
 weight: 5
-aliases:
-  - "/authors/barnum-richard/dido-the-dancing-bear/chapter-05.html"
+url: "/authors/barnum-richard/dido-the-dancing-bear/chapter-05.html"
 ---
 
 Every day, and sometimes two and three times a day, Dido’s keeper would come out to him with the horn, and make the little bear dance. And sometimes Dido grew tired. Then the man would give him a sweet bun, or a lump of sugar, and Dido could rest in the shade, or take a nice bath in the tub of water.

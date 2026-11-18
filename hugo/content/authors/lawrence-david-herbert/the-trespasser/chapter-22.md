@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-22.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-22.html"
 ---
 
 Siegmund went up to Victoria. He was in no hurry to get down to Wimbledon. London was warm and exhausted after the hot day, but this peculiar lukewarmness was not unpleasant to him. He chose to walk from Victoria to Waterloo.

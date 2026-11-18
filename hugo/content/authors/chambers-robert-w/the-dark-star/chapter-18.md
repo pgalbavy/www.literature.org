@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - By Radio"
 weight: 19
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-18.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-18.html"
 ---
 
 Perhaps it was because he did not feel particularly hungry that his dinner appeared unappetising; possibly because it had been standing in the corridor outside his door for twenty minutes, which did not add to its desirability.

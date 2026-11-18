@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - In The Cavern"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-23.html"
 ---
 
 That which the astonished visitors looked upon was a pile of wood at one side of the cavern big enough to build a roaring fire that would last for hours. This place must have formed the headquarters of Docak when indulging in the occasional hunts that are anything but popular among the coast natives.

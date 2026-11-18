@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Tempest in the School Teapot"
 weight: 15
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-15.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-15.html"
 ---
 
 "What a splendid day!" said Anne, drawing a long breath. "Isn't it good just to be alive on a day like this? I pity the people who aren't born yet for missing it. They may have good days, of course, but they can never have this one. And it's splendider still to have such a lovely way to go to school by, isn't it?"

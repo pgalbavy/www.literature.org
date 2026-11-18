@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Boy And The Bear"
 weight: 21
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-21.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-21.html"
 ---
 
 Carl slept little that night. The man who had given his name as Frank Harris occupied the tent with him and the two talked until a very late hour. The boy saw from the first that his inquisitor was trying to obtain all the information in his possession regarding the purpose of the Flying Machine Boys in visiting British Columbia.

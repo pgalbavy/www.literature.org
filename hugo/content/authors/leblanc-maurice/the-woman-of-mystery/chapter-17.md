@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Law Of The Conqueror"
 weight: 17
-aliases:
-  - "/authors/leblanc-maurice/the-woman-of-mystery/chapter-17.html"
+url: "/authors/leblanc-maurice/the-woman-of-mystery/chapter-17.html"
 ---
 
 Brutally handled though he was, Paul offered no resistance; and, while they were pushing him with needless violence towards a perpendicular part of the cliff, he continued his inner calculations:

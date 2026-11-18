@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - An Awful Predicament"
 weight: 38
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-37.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-37.html"
 ---
 
 SLEEP? It was impossible. It would naturally have been impossible in that noisome cavern of a jail, with its mangy crowd of drunken, quarrelsome, and song-singing rapscallions. But the thing that made sleep all the more a thing not to be dreamed of, was my racking impatience to get out of this place and find out the whole size of what might have happened yonder in the slave-quarters in consequence of that intolerable miscarriage of mine.

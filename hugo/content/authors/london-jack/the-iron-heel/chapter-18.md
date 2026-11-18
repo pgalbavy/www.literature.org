@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - In The Shadow Of Sonoma"
 weight: 19
-aliases:
-  - "/authors/london-jack/the-iron-heel/chapter-18.html"
+url: "/authors/london-jack/the-iron-heel/chapter-18.html"
 ---
 
 Of myself, during this period, there is not much to say. For six months I was kept in prison, though charged with no crime. I was a suspect--a word of fear that all revolutionists were soon to come to know. But our own nascent secret service was beginning to work. By the end of my second month in prison, one of the jailers made himself known as a revolutionist in touch with the organization. Several weeks later, Joseph Parkhurst, the prison doctor who had just been appointed, proved himself to be a member of one of the Fighting Groups.

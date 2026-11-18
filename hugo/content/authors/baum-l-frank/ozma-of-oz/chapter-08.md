@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/baum-l-frank/ozma-of-oz/chapter-08.html"
+url: "/authors/baum-l-frank/ozma-of-oz/chapter-08.html"
 ---
 
 The first thing Dorothy did was to rush into the embrace of the Scarecrow, whose painted face beamed with delight as he pressed her form to his straw-padded bosom. Then the Tin Woodman embraced her--very gently, for he knew his tin arms might hurt her if he squeezed too roughly.

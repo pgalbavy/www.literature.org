@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 13"
 weight: 330
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-13.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-13.html"
 ---
 
 In external ways Pierre had hardly changed at all. In appearance he was just what he used to be. As before he was absent-minded and seemed occupied not with what was before his eyes but with something special of his own. The difference between his former and present self was that formerly when he did not grasp what lay before him or was said to him, he had puckered his forehead painfully as if vainly seeking to distinguish something at a distance. At present he still forgot what was said to him and still did not see what was before his eyes, but he now looked with a scarcely perceptible and seemingly ironic smile at what was before him and listened to what was said, though evidently seeing and hearing something quite different. Formerly he had appeared to be a kindhearted but unhappy man, and so people had been inclined to avoid him. Now a smile at the joy of life always played round his lips, and sympathy for others, shone in his eyes with a questioning look as to whether they were as contented as he was, and people felt pleased by his presence.

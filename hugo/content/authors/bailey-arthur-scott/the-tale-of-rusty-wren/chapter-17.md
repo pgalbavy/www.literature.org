@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Help! Help!"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-17.html"
 ---
 
 "Help! help!" Rusty Wren called loudly to his wife.

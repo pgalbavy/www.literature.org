@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 2"
 weight: 30
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-05-chapter-02.html"
+url: "/authors/cather-willa/o-pioneers/part-05-chapter-02.html"
 ---
 
 Late in the afternoon of a brilliant October day, Alexandra Bergson, dressed in a black suit and traveling-hat, alighted at the Burlington depot in Lincoln. She drove to the Lindell Hotel, where she had stayed two years ago when she came up for Emil's Commencement. In spite of her usual air of sureness and self-possession, Alexandra felt ill at ease in hotels, and she was glad, when she went to the clerk's desk to register, that there were not many people in the lobby. She had her supper early, wearing her hat and black jacket down to the dining-room and carrying her handbag. After supper she went out for a walk.

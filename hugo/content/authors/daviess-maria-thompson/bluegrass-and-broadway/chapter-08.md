@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/daviess-maria-thompson/bluegrass-and-broadway/chapter-08.html"
+url: "/authors/daviess-maria-thompson/bluegrass-and-broadway/chapter-08.html"
 ---
 
 At twelve-thirty Mr. Rooney was still in the theater with his property-man and his electrician, but just before one he left through the stage-door.

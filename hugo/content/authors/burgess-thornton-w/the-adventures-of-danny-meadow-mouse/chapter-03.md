@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Danny Meadow Mouse Plays Hide And Seek"
 weight: 3
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-03.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-03.html"
 ---
 
 *LIFE* is always a game of hide and seek to Danny Meadow Mouse. You see, he is such a fat little fellow that there are a great many other furry-coated people, and almost as many who wear feathers, who would gobble Danny up for breakfast or for dinner if they could. Some of them pretend to be his friends, but Danny always keeps his eyes open when they are around and always begins to play hide and seek. Peter Rabbit and Jimmy Skunk and Striped Chipmunk and Happy Jack Squirrel are all friends whom he can trust, but he always has a bright twinkling eye open for Reddy Fox and Billy Mink and Shadow the Weasel and old Whitetail the Marsh Hawk, and several more, especially Hooty the Owl at night.

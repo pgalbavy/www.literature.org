@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Numa \u0026quot;El Adrea\u0026quot;"
 weight: 9
-aliases:
-  - "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-09.html"
+url: "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-09.html"
 ---
 
 On the same day that Kadour ben Saden rode south the diligence from the north brought Tarzan a letter from D'Arnot which had been forwarded from Sidi-bel-Abbes. It opened the old wound that Tarzan would have been glad to have forgotten; yet he was not sorry that D'Arnot had written, for one at least of his subjects could never cease to interest the ape-man. Here is the letter:

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 2 - The Christmas Holidays"
 weight: 15
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-02-chapter-02.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-02-chapter-02.html"
 ---
 
 Fine old Christmas, with the snowy hair and ruddy face, had done his duty that year in the noblest fashion, and had set off his rich gifts of warmth and color with all the heightening contrast of frost and snow.

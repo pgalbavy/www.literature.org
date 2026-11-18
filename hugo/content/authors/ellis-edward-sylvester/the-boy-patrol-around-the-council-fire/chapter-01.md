@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - \"He And I Must Never Meet\""
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-01.html"
 ---
 
 You will recall that one day in a recent August, Jack Crandall, a member of the Stag Patrol of Boy Scouts, who with the Blazing Arrow and Eagle Patrols was spending the summer vacation on the shore of Gosling Lake, in Southern Maine, met with a serious accident. In climbing a tall pine to inspect a bird’s nest, he fell to the ground and broke his leg. His companions, Gerald Hume and Arthur Mitchell, belonging to the same Patrol, made a litter upon which he was carried to the clubhouse. Dr. Spellman, staying with his wife and little daughter Ruth, christened "Sunbeam" by Mike Murphy, in answer to a signal, paddled across the lake in his canoe, set the fractured limb and did all that was necessary.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Near The End"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/the-daughter-of-the-chieftain/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/the-daughter-of-the-chieftain/chapter-10.html"
 ---
 
 Anyone who is used to the woods knows how apt he is to wander in a circle unless he keeps his wits about him. There have been many causes named for this curious fact, and the one that strikes me as the most reasonable is that we are all either right or left handed. It is rare that you meet a person who is ambidextrous,—that is, who uses both hands equally well. When, therefore, he sets out to travel through the woods without any guide, he unconsciously exerts his right or left limb, as the case may be, more than the other, and this makes his course circular.

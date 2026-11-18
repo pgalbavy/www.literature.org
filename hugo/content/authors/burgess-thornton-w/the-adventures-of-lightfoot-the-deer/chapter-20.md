@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Lightfoot Hears A Dreadful Sound"
 weight: 20
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-20.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-20.html"
 ---
 
 Day after day, Lightfoot the Deer played hide and seek for his life with the hunters who were seeking to kill him. He saw them many times, though not one of them saw him. More than once a hunter passed close to Lightfoot's hiding-place without once suspecting it.

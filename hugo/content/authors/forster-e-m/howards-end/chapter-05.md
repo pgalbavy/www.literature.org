@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-05.html"
+url: "/authors/forster-e-m/howards-end/chapter-05.html"
 ---
 
 It will be generally admitted that Beethoven’s Fifth Symphony is the most sublime noise that has ever penetrated into the ear of man. All sorts and conditions are satisfied by it. Whether you are like Mrs. Munt, and tap surreptitiously when the tunes come--of course, not so as to disturb the others--or like Helen, who can see heroes and shipwrecks in the music’s flood; or like Margaret, who can only see the music; or like Tibby, who is profoundly versed in counterpoint, and holds the full score open on his knee; or like their cousin, Fraulein Mosebach, who remembers all the time that Beethoven is echt Deutsch; or like Fraulein Mosebach’s young man, who can remember nothing but Fraulein Mosebach: in any case, the passion of your life becomes more vivid, and you are bound to admit that such a noise is cheap at two shillings. It is cheap, even if you hear it in the Queen’s Hall, dreariest music-room in London, though not as dreary as the Free Trade Hall, Manchester; and even if you sit on the extreme left of that hall, so that the brass bumps at you before the rest of the orchestra arrives, it is still cheap.

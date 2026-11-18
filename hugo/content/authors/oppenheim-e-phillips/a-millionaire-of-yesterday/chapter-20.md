@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-20.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-20.html"
 ---
 
 Ernestine walked from Lincoln's Inn to the office of the Hour, where she stayed until nearly four. Then, having finished her day's work, she made her way homewards. Davenant was waiting for her in her rooms. She greeted him with some surprise.

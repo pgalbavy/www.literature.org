@@ -1,8 +1,7 @@
 ---
 title: "The Man And His Two Sweethearts"
 weight: 64
-aliases:
-  - "/authors/aesop/fables/chapter-62.html"
+url: "/authors/aesop/fables/chapter-62.html"
 ---
 
 A MIDDLE-AGED MAN, whose hair had begun to turn gray, courted two women at the same time. One of them was young, and the other well advanced in years. The elder woman, ashamed to be courted by a man younger than herself, made a point, whenever her admirer visited her, to pull out some portion of his black hairs. The younger, on the contrary, not wishing to become the wife of an old man, was equally zealous in removing every gray hair she could find. Thus it came to pass that between them both he very soon found that he had not a hair left on his head. Those who seek to please everybody please nobody.

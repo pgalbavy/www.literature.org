@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/london-jack/jerry-of-the-islands/chapter-15.html"
+url: "/authors/london-jack/jerry-of-the-islands/chapter-15.html"
 ---
 
 For some time after the conclusion of the race, Bashti stood talking with his head men, Agno among them. Lenerengo was similarly engaged with several old cronies. As Jerry lay off to one side where she had forgotten him, the wild-dog he had bullied on the Arangi came up and sniffed at him. At first he sniffed at a distance, ready for instant flight. Then he drew cautiously closer. Jerry watched him with smouldering eyes. At the moment wild-dog's nose touched him, he uttered a warning growl. Wild-dog sprang back and whirled away in headlong flight for a score of yards before he learned that he was not pursued.

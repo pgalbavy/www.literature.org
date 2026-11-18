@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-16.html"
 ---
 
 While the fugitives were pushing their way through the wilderness, and especially after they had entered the more romantic and mountainous section, they had become somewhat separated from each other.

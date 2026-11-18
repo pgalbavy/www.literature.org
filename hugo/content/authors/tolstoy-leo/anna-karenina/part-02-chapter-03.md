@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 3"
 weight: 37
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-03.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-03.html"
 ---
 
 When she went into Kitty's little room, a pretty, pink little room, full of knick-knacks in vieux saxe, as fresh, and pink, andwhite, and gay as Kitty herself had been two months ago, Dolly remembered how they had decorated the room the year before together, with what love and gaiety. Her heart turned cold when she saw Kitty sitting on a low chair near the door, her eyes fixed immovably on a corner of the rug. Kitty glanced at her sister, and the cold, rather ill-tempered expressio of her face did not change.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/baum-l-frank/the-road-to-oz/chapter-15.html"
+url: "/authors/baum-l-frank/the-road-to-oz/chapter-15.html"
 ---
 
 The grounds around Nick Chopper's new house were laid out in pretty flower-beds, with fountains of crystal water and statues of tin representing the Emperor's personal friends. Dorothy was astonished and delighted to find a tin statue of herself standing on a tin pedestal at a bend in the avenue leading up to the entrance. It was life-size and showed her in her sunbonnet with her basket on her arm, just as she had first appeared in the Land of Oz.

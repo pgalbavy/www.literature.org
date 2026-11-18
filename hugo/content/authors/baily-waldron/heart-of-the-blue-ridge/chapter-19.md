@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-19.html"
+url: "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-19.html"
 ---
 
 Plutina's treatment of Hodges had had a curious effect on that lawless character. The humiliation to which he had been subjected had indeed filled him with vicious rage, but, too, it had inflamed his passion for the girl. Her scorn and her fierce mastery of him had made her more than ever desirable. He was fascinated by the strength and courage she had displayed. Brutal and evil as he was, Hodges was strong physically, and, in his own wicked way, strong of will. Because he was stronger than his fellows, he ruled them. Strength was, in fact, the one thing that he could admire. The revelation of it in Plutina at once set her apart from all other women, and gave to his craving for her a clumsy sort of veneration. But that veneration was strangely modified by resolve to be avenged for the insult she had put upon him. Thus, it had come about that he planned to satisfy his varied feelings toward the girl by the abduction. He swore to master her, to change her insolence to fawning submission, to abject fondness.

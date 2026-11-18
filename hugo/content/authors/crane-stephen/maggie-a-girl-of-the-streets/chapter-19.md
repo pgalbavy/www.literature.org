@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-19.html"
+url: "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-19.html"
 ---
 
 In a room a woman sat at a table eating like a fat monk in a picture.

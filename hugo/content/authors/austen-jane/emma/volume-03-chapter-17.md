@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 17"
 weight: 53
-aliases:
-  - "/authors/austen-jane/emma/volume-03-chapter-17.html"
+url: "/authors/austen-jane/emma/volume-03-chapter-17.html"
 ---
 
 Mrs. Weston's friends were all made happy by her safety; and if the satisfaction of her well-doing could be increased to Emma, it was by knowing her to be the mother of a little girl. She had been decided in wishing for a Miss Weston. She would not acknowledge that it was with any view of making a match for her, hereafter, with either of Isabella's sons; but she was convinced that a daughter would suit both father and mother best. It would be a great comfort to Mr. Weston, as he grew older--and even Mr. Weston might be growing older ten years hence--to have his fireside enlivened by the sports and the nonsense, the freaks and the fancies of a child never banished from home; and Mrs. Weston--no one could doubt that a daughter would be most to her; and it would be quite a pity that any one who so well knew how to teach, should not have their powers in exercise again.

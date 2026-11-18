@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43"
 weight: 43
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-43.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-43.html"
 ---
 
 The great room was dimly enough lit, for the windows looking out upon the street were high and heavily curtained, The man who sat at the desk was almost in the shadow. Yet every now and then a shaft of sunlight fell across his pale, worn face. A strange combination this of the worker, the idealist, the man of affairs. >From outside came the hum of a great city. At times, too, there came to his ears as he sat here the roar of nations at strife, the fierce underneath battle of the great countries of the world struggling for supremacy. And here at this cabinet this man sat often, and listened, strenuous, romantic, with the heart of a lion and the lofty imagination of an eagle, he steered unswervingly on to her destiny a great people. Others might rest, hut never he.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - \"Here We Are Again!\""
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-10.html"
 ---
 
 Fred Munson, having been deceived once by the Apache climbing up the rope, was not to be caught again in the same way. When he became certain that a second person was coming up, he grasped his pistol again, and held himself in readiness to "repel boarders," the very instant they appeared.

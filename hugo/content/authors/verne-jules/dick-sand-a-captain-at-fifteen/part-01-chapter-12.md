@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 12 - On The Horizon"
 weight: 12
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-12.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-12.html"
 ---
 
 At that date the tempest took its most terrible form, that of the hurricane. The wind had set in from the southwest. The air moved with a velocity of ninety miles an hour. It was indeed a hurricane, in fact, one of those terrible windstorms which wrecks all the ships of a roadstead, and which, even on land, the most solid structures cannot resist. Such was the one which, on the 25th of July, 1825, devastated Guadaloupe. When heavy cannons, carrying balls of twenty-four pounds, are raised from their carriages, one may imagine what would become of a ship which has no other point of support than an unsteady sea? And meanwhile, it is to its mobility alone that she may owe her salvation. She yields to the wind, and, provided she is strongly built, she is in a condition to brave the most violent surges. That was the case with the "Pilgrim."

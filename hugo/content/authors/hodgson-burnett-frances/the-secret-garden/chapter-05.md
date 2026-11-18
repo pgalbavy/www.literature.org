@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Cry In The Corridor"
 weight: 5
-aliases:
-  - "/authors/hodgson-burnett-frances/the-secret-garden/chapter-05.html"
+url: "/authors/hodgson-burnett-frances/the-secret-garden/chapter-05.html"
 ---
 
 At first each day which passed by for Mary Lennox was exactly like the others. Every morning she awoke in her tapestried room and found Martha kneeling upon the hearth building her fire; every morning she ate her breakfast in the nursery which had nothing amusing in it; and after each breakfast she gazed out of the window across to the huge moor which seemed to spread out on all sides and climb up to the sky, and after she had stared for a while she realized that if she did not go out she would have to stay in and do nothing—and so she went out. She did not know that this was the best thing she could have done, and she did not know that, when she began to walk quickly or even run along the paths and down the avenue, she was stirring her slow blood and making herself stronger by fighting with the wind which swept down from the moor. She ran only to make herself warm, and she hated the wind which rushed at her face and roared and held her back as if it were some giant she could not see. But the big breaths of rough fresh air blown over the heather filled her lungs with something which was good for her whole thin body and whipped some red color into her cheeks and brightened her dull eyes when she did not know anything about it.

@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 30"
 weight: 219
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-30.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-30.html"
 ---
 
 "There it is again! Again I understand it all!" Anna said to herself, as soon as the carriage had started and swaying lightly, rumbled over the tiny cobbles of the paved road, and again one impression followed rapidly upon another.

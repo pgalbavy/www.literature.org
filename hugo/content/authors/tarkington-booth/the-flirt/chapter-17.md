@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/tarkington-booth/the-flirt/chapter-17.html"
+url: "/authors/tarkington-booth/the-flirt/chapter-17.html"
 ---
 
 The influence of a familiar and sequestered place is not only soothing; the bruised mind may often find it restorative. Thus Hedrick, in his studio, surrounded by his own loved bric-a-brac, began to feel once more the stir of impulse. Two hours' reading inspired him. What a French reporter (in the Count's bedroom) could do, an American youth in full possession of his powers—except for a strained knee and other injuries—could do. Yes, and would!

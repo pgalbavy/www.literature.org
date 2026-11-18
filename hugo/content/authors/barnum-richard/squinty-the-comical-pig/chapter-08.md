@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Squinty In The Woods"
 weight: 8
-aliases:
-  - "/authors/barnum-richard/squinty-the-comical-pig/chapter-08.html"
+url: "/authors/barnum-richard/squinty-the-comical-pig/chapter-08.html"
 ---
 
 Bob, the boy who had bought Squinty, the comical pig, laughed and clapped his hands. His two sisters, who were playing with their dolls in the shade of an evergreen tree, heard their brother, and one of them called out:

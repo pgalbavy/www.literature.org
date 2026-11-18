@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 34
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-33.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-33.html"
 ---
 
 I was not summoned to Sir Eustace’s presence until late in the afternoon. Eleven-o’clock tea and a substantial lunch had been served to me in my own apartment, and I felt fortified for further conflict.

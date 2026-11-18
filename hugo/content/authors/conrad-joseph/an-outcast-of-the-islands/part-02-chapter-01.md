@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 1"
 weight: 9
-aliases:
-  - "/authors/conrad-joseph/an-outcast-of-the-islands/part-02-chapter-01.html"
+url: "/authors/conrad-joseph/an-outcast-of-the-islands/part-02-chapter-01.html"
 ---
 
 The light and heat fell upon the settlement, the clearings, and the river as if flung down by an angry hand. The land lay silent, still, and brilliant under the avalanche of burning rays that had destroyed all sound and all motion, had buried all shadows, had choked every breath. No living thing dared to affront the serenity of this cloudless sky, dared to revolt against the oppression of this glorious and cruel sunshine. Strength and resolution, body and mind alike were helpless, and tried to hide before the rush of the fire from heaven. Only the frail butterflies, the fearless children of the sun, the capricious tyrants of the flowers, fluttered audaciously in the open, and their minute shadows hovered in swarms over the drooping blossoms, ran lightly on the withering grass, or glided on the dry and cracked earth. No voice was heard in this hot noontide but the faint murmur of the river that hurried on in swirls and eddies, its sparkling wavelets chasing each other in their joyous course to the sheltering depths, to the cool refuge of the sea.

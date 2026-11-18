@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Weaving Of The Shuttle"
 weight: 1
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-01.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-01.html"
 ---
 
 No man knew when the Shuttle began its slow and heavy weaving from shore to shore, that it was held and guided by the great hand of Fate. Fate alone saw the meaning of the web it wove, the might of it, and its place in the making of a world's history. Men thought but little of either web or weaving, calling them by other names and lighter ones, for the time unconscious of the strength of the thread thrown across thousands of miles of leaping, heaving, grey or blue ocean.

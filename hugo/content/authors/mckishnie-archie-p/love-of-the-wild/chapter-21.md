@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Widow Ross Backslides"
 weight: 21
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-21.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-21.html"
 ---
 
 Just at that particular moment the widow was frying the potatoes for supper. She was singing, and snapped the words out as though determined to do what was right under any circumstances. The mangy cat crouched beneath the stove, its lanky body sunk between its shoulder blades, its big yellow inquiring eyes staring out at Tommy, who was molding bullets over in a corner of the room. He looked back at the cat and shook his head.

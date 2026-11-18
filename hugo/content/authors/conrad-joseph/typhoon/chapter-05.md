@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/conrad-joseph/typhoon/chapter-05.html"
+url: "/authors/conrad-joseph/typhoon/chapter-05.html"
 ---
 
 He waited. Before his eyes the engines turned with slow labour, that in the moment of going off into a mad fling would stop dead at Mr. Rout's shout, "Look out, Beale!" They paused in an intelligent immobility, stilled in mid-stroke, a heavy crank arrested on the cant, as if conscious of danger and the passage of time. Then, with a "Now, then!" from the chief, and the sound of a breath expelled through clenched teeth, they would accomplish the interrupted revolution and begin another.

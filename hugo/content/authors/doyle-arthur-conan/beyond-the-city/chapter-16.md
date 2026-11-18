@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - A Midnight Visitor"
 weight: 16
-aliases:
-  - "/authors/doyle-arthur-conan/beyond-the-city/chapter-16.html"
+url: "/authors/doyle-arthur-conan/beyond-the-city/chapter-16.html"
 ---
 
 Now all this time, while the tragi-comedy of life was being played in these three suburban villas, while on a commonplace stage love and humor and fears and lights and shadows were so swiftly succeeding each other, and while these three families, drifted together by fate, were shaping each other's destinies and working out in their own fashion the strange, intricate ends of human life, there were human eyes which watched over every stage of the performance, and which were keenly critical of every actor on it. Across the road beyond the green palings and the close-cropped lawn, behind the curtains of their creeper-framed windows, sat the two old ladies, Miss Bertha and Miss Monica Williams, looking out as from a private box at all that was being enacted before them. The growing friendship of the three families, the engagement of Harold Denver with Clara Walker, the engagement of Charles Westmacott with her sister, the dangerous fascination which the widow exercised over the Doctor, the preposterous behavior of the Walker girls and the unhappiness which they had caused their father, not one of these incidents escaped the notice of the two maiden ladies. Bertha the younger had a smile or a sigh for the lovers, Monica the elder a frown or a shrug for the elders. Every night they talked over what they had seen, and their own dull, uneventful life took a warmth and a coloring from their neighbors as a blank wall reflects a beacon fire.

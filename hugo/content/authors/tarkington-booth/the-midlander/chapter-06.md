@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-06.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-06.html"
 ---
 
 *THAT* green bronze swan of the fountain in the broad yard next door to the Oliphants’ should have been given a new interpretation this season; the open beak, forever addressing itself obliquely to the eastern sky, might well have been thought to complain to heaven of the spiteful hanging on of winter. It was a winter that long outwore its welcome, and then kept returning like a quarrelsome guest forcing his way back to renew argument after repeated ejectments;—the Shelbys’ swan was fortunate to be of bronze, for a wet snow filled that exasperated-looking beak of his choke-full one morning a month after the lilacs had shown green buds along their stems. Then, adding mockery to assault, this grotesque weather spent hour after hour patiently constructing a long goatee of ice upon the helpless bird.

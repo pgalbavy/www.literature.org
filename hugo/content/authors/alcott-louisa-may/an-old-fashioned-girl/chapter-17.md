@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Playing Grandmother"
 weight: 18
-aliases:
-  - "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-17.html"
+url: "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-17.html"
 ---
 
 I THINK Tom had the hardest time of all, for besides the family troubles, he had many of his own to perplex and harass him. College scrapes were soon forgotten in greater afflictions; but there were plenty of tongues to blame “that extravagant dog,” and plenty of heads to wag ominously over prophecies of the good time Tom Shaw would now make on the road to ruin. As reporters flourish in this country, of course Tom soon heard all the friendly criticisms passed upon him and his career, and he suffered more than anybody guessed; for the truth that was at the bottom of the gossip filled him with the sharp regret and impotent wrath against himself as well as others, which drives many a proud fellow, so placed, to destruction, or the effort that redeems boyish folly, and makes a man of him.

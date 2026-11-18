@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - I Gather The Clans"
 weight: 16
-aliases:
-  - "/authors/buchan-john/salute-to-adventurers/chapter-15.html"
+url: "/authors/buchan-john/salute-to-adventurers/chapter-15.html"
 ---
 
 I was at the Governor's house next day before he had breakfasted. He greeted me laughingly.

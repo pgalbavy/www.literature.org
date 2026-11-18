@@ -1,8 +1,7 @@
 ---
 title: "chapter 03"
 weight: 999
-aliases:
-  - "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-03.html"
+url: "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-03.html"
 ---
 
 The eyes that regarded them, as the creature stood dripping before them, were bright and mild in expression, and the queer addition to their party made no attempt to attack them and seemed quite as surprised by the meeting as they were.

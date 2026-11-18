@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 11"
 weight: 16
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-02-chapter-11.html"
+url: "/authors/cather-willa/o-pioneers/part-02-chapter-11.html"
 ---
 
 Emil came home at about half-past seven o'clock that evening. Old Ivar met him at the windmill and took his horse, and the young man went directly into the house. He called to his sister and she answered from her bedroom, behind the sitting-room, saying that she was lying down.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Companion In Captivity"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/the-ranger/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/the-ranger/chapter-08.html"
 ---
 
 When Leland left the boat, he wandered forward for a considerable distance, not noticing the direction in which he was going, only intent upon securing game of some sort or other. Still, he exercised considerable caution in his movements, and determined not to risk a shot unless he was certain of his success. Birds and quadrupeds were plenty, and he did not entertain any doubts of his ability to secure all that he wished. He permitted several good shots to pass, for the reason that he did not wish to fire until the hour was up. By this means he unconsciously increased the distance between himself and Leslie, until it occurred to him that the hour had nearly expired. A few minutes after, having a good opportunity, he improved it, and, securing his prize, turned to retrace his steps.

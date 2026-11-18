@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Doom Of John Castell"
 weight: 22
-aliases:
-  - "/authors/haggard-h-rider/fair-margaret/chapter-22.html"
+url: "/authors/haggard-h-rider/fair-margaret/chapter-22.html"
 ---
 
 His evidence finished, the Marquis of Morella sat down, whereon, the king and queen having whispered together, the head alcalde asked Betty if she had any questions to put to him. She rose with much dignity, and through her interpreter said in a quiet voice:

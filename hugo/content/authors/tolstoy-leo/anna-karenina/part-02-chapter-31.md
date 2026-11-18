@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 31"
 weight: 65
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-31.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-31.html"
 ---
 
 It was a wet day; it had been raining all the morning, and the invalids, with their parasols, had flocked into the arcades.

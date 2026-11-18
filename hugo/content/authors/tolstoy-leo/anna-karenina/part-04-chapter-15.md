@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 15"
 weight: 116
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-04-chapter-15.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-04-chapter-15.html"
 ---
 
 The streets were still empty. Levin went to the house of the Shtcherbatskys. The visitors' doors were closed and everything was asleep. He walked back, went into his room again, and asked for coffee. The day servant, not Yegor this time, brought it to him. Levin would have entered into conversation with him, but a bell rang for the servant, and he went out. Levin tried to drink coffee and put some roll in his mouth, but his mouth was quite at a loss what to do with the roll. Levin, rejecting the roll, put on his coat and went out again for a walk. It was nine o'clock when he reached the Shtcherbatskys' steps the second time. In the house they were only just up, and the cook came out to go marketing. He had to get through at least two hours more.

@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 8"
 weight: 27
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-02-chapter-08.html"
+url: "/authors/cather-willa/one-of-ours/book-02-chapter-08.html"
 ---
 
 Late in the afternoon of the sixth of August, Claude and his empty wagon were bumping along the level road over the flat country between Vicount and the Lovely Creek valley. He had made two trips to town that day. Though he had kept his heaviest team for the hot afternoon pull, his horses were too tired to be urged off a walk. Their necks were marbled with sweat stains, and their flanks were plastered with the white dust that rose at every step. Their heads hung down, and their breathing was deep and slow. The wood of the green-painted wagon seat was blistering hot to the touch. Claude sat at one end of it, his head bared to catch the faint stir of air that sometimes dried his neck and chin and saved him the trouble of pulling out a handkerchief. On every side the wheat stubble stretched for miles and miles. Lonely straw stacks stood up yellow in the sun and cast long shadows. Claude peered anxiously along the distant locust hedges which told where the road ran. Ernest Havel had promised to meet him somewhere on the way home. He had not seen Ernest for a week: since then Time had brought prodigies to birth.

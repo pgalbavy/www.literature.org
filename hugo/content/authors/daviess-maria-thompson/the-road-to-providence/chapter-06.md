@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Providence Tag-Gang"
 weight: 6
-aliases:
-  - "/authors/daviess-maria-thompson/the-road-to-providence/chapter-06.html"
+url: "/authors/daviess-maria-thompson/the-road-to-providence/chapter-06.html"
 ---
 
 "Miss Elinory, do you think getting married and such is ketching, like the mumps and chickenpox?" asked Eliza Pike as she sat on the steps at the daintily shod feet of the singer lady, who sat in Mother Mayberry's large arm-chair, swinging herself and Teether slowly to and fro, humming happily little vagrant airs that floated into her brain on the wings of their own melody. Teether's large blue eyes looked into hers with earnest rapture and his little head swayed on his slender neck in harmony with her singing.

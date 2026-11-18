@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 51 - Which Deals With What The Goatherd Told Those Who Were Carrying Off Don Quixote"
 weight: 54
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-51.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-51.html"
 ---
 
 Three leagues from this valley there is a village which, though small, is one of the richest in all this neighbourhood, and in it there lived a farmer, a very worthy man, and so much respected that, although to be so is the natural consequence of being rich, he was even more respected for his virtue than for the wealth he had acquired. But what made him still more fortunate, as he said himself, was having a daughter of such exceeding beauty, rare intelligence, gracefulness, and virtue, that everyone who knew her and beheld her marvelled at the extraordinary gifts with which heaven and nature had endowed her. As a child she was beautiful, she continued to grow in beauty, and at the age of sixteen she was most lovely. The fame of her beauty began to spread abroad through all the villages around—but why do I say the villages around, merely, when it spread to distant cities, and even made its way into the halls of royalty and reached the ears of people of every class, who came from all sides to see her as if to see something rare and curious, or some wonder-working image?

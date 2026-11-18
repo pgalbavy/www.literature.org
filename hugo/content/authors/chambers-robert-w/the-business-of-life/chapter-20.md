@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/chambers-robert-w/the-business-of-life/chapter-20.html"
+url: "/authors/chambers-robert-w/the-business-of-life/chapter-20.html"
 ---
 
 On Saturday afternoon Cynthia arrived at Silverwood House, with Cairns in tow; and they were welcomed under the trees by their host and hostess. Which was all very delightful until Cynthia and Jacqueline paired off with each other and disappeared, calmly abandoning Cairns and Desboro to their own devices, leaving them to gaze at each other in the library with bored and increasing indifference.

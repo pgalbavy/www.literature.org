@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Tale Of Sir James De La Molle"
 weight: 3
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-03.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-03.html"
 ---
 
 "Is that you, father?" said a voice, a very sweet voice, but one of which the tones betrayed the irritation natural to a healthy woman who has been kept waiting for her dinner. The voice came from the recesses of the dusky room in which the evening gloom had gathered deeply, and looking in its direction, Harold Quaritch could see the outline of a tall form sitting in an old oak chair with its hands crossed.

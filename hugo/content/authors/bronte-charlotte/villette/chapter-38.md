@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - Cloud"
 weight: 38
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-38.html"
+url: "/authors/bronte-charlotte/villette/chapter-38.html"
 ---
 
 But it is not so for all. What then? His will be done, as done it surely will be, whether we humble ourselves to resignation or not. The impulse of creation forwards it; the strength of powers, seen and unseen, has its fulfilment in charge. Proof of a life to come must be given. In fire and in blood, if needful, must that proof be written. In fire and in blood do we trace the record throughout nature. In fire and in blood does it cross our own experience. Sufferer, faint not through terror of this burning evidence. Tired wayfarer, gird up thy loins; look upward, march onward. Pilgrims and brother mourners, join in friendly company. Dark through the wilderness of this world stretches the way for most of us: equal and steady be our tread; be our cross our banner. For staff we have His promise, whose "word is tried, whose way perfect:" for present hope His providence, "who gives the shield of salvation, whose gentleness makes great;" for final home His bosom, who "dwells in the height of Heaven;" for crowning prize a glory, exceeding and eternal. Let us so run that we may obtain: let us endure hardness as good soldiers; let us finish our course, and keep the faith, reliant in the issue to come off more than conquerors: "Art thou not from everlasting mine Holy One? WE SHALL NOT DIE!"

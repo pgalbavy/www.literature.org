@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Park"
 weight: 23
-aliases:
-  - "/authors/bronte-anne/agnes-grey/chapter-23.html"
+url: "/authors/bronte-anne/agnes-grey/chapter-23.html"
 ---
 
 I CAME down a little before eight, next morning, as I knew by the striking of a distant clock. There was no appearance of breakfast. I waited above an hour before it came, still vainly longing for access to the library; and, after that lonely repast was concluded, I waited again about an hour and a half in great suspense and discomfort, uncertain what to do. At length Lady Ashby came to bid me good-morning. She informed me she had only just breakfasted, and now wanted me to take an early walk with her in the park. She asked how long I had been up, and on receiving my answer, expressed the deepest regret, and again promised to show me the library. I suggested she had better do so at once, and then there would be no further trouble either with remembering or forgetting. She complied, on condition that I would not think of reading, or bothering with the books now; for she wanted to show me the gardens, and take a walk in the park with me, before it became too hot for enjoyment; which, indeed, was nearly the case already. Of course I readily assented; and we took our walk accordingly.

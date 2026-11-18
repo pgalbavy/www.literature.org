@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Outbreak"
 weight: 4
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-crux/chapter-03.html"
+url: "/authors/gilman-charlotte-perkins/the-crux/chapter-03.html"
 ---
 
 Miss Orella sat in her low armless rocker, lifting perplexed, patient eyes to look up at Dr. Bellair.

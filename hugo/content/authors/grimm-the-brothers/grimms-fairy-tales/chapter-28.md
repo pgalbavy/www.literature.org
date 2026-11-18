@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - The Pink"
 weight: 28
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-28.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-28.html"
 ---
 
 There was once upon a time a queen to whom God had given no children. Every morning she went into the garden and prayed to God in heaven to bestow on her a son or a daughter. Then an angel from heaven came to her and said: ‘Be at rest, you shall have a son with the power of wishing, so that whatsoever in the world he wishes for, that shall he have.’ Then she went to the king, and told him the joyful tidings, and when the time was come she gave birth to a son, and the king was filled with gladness.

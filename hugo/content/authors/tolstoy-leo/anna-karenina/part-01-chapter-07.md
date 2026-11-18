@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 7"
 weight: 7
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-07.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-07.html"
 ---
 
 On arriving in Moscow by a morning train, Levin had put up at the house of his elder half-brother, Koznishev. After changing his clothes he went down to his brother's study, intending to talk to him at once about the object of his visit, and to ask his advice; but his brother was not alone. With him there was a well-known professor of philosophy, who had come from Harkov expressly to clear up a difference that had arisen between them on a very important philosophical question. The professor was carrying on a hot crusade against materialists. Sergey Koznishev had been following this crusade with interest, and after reading the professor's last article, he had written him a letter stating his objections. He accused the professor of making too great concessions to the materialists. And the professor had promptly appeared to argue the matter out. The point in discussion was the question then in vogue: Is there a line to be drawn between psychological and physiological phenomena in man? and if so, where?

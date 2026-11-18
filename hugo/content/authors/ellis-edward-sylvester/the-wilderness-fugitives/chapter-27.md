@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - What Does It All Mean?"
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-27.html"
 ---
 
 As soon as Worrell found himself on the outside of the cavern, he walked rapidly for a hundred yards or so, taking a direction at right angles to that which he followed when conducting the fugitives to the retreat. His gait became almost a run until he reached an elevation, when he paused, as if to make a survey of a portion of the country spread out below him.

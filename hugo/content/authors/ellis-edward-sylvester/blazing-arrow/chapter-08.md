@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Chat"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-08.html"
 ---
 
 It was like approaching a sleeping tiger, likely at any moment to bound to his feet and rend the helpless victim, and Wharton Edwards, despite his well-proved courage, felt a misgiving as he drew near the terrible Shawanoe.

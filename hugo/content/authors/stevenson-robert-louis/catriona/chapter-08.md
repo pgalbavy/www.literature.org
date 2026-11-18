@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Bravo"
 weight: 9
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-08.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-08.html"
 ---
 
 The next day, August 29th, I kept my appointment at the Advocate’s in a coat that I had made to my own measure, and was but newly ready.

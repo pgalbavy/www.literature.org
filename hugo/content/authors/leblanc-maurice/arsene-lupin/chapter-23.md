@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The End Of The Duel"
 weight: 23
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin/chapter-23.html"
+url: "/authors/leblanc-maurice/arsene-lupin/chapter-23.html"
 ---
 
 "The handcuffs?" said Lupin; and his face fell. Then it cleared; and he added lightly, "After all, there's nothing like being careful; and, by Jove, with me you need to be. I might get away yet. What luck it is for you that I'm so soft, so little of a Charmerace, so human! Truly, I can't be much of a man of the world, to be in love like this!"

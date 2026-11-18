@@ -1,8 +1,7 @@
 ---
 title: "Prologue - The Irish Marriage - Part the First - The Villa at Hampstead"
 weight: 1
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/prologue-01.html"
+url: "/authors/collins-wilkie/man-and-wife/prologue-01.html"
 ---
 
 I.

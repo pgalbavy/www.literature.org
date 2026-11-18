@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-15.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-15.html"
 ---
 
 Diamonds!

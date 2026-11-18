@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - On The Brink"
 weight: 11
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-11.html"
+url: "/authors/haggard-h-rider/jess/chapter-11.html"
 ---
 
 For a few weeks after John Niel’s adventure at the shooting-party no event of any importance occurred at Mooifontein. Day followed day in charming monotony, for, whatever “gay worldlings” may think, monotony is as full of charm as a dreamy summer afternoon. “Happy is the country that has no history,” says the voice of wisdom, and the same remark maybe made with even more truth of the individual. To get up in the morning conscious of health and strength, to pursue the common round and daily task till evening comes, and finally to go to bed pleasantly tired and sleep the sleep of the just, is the true secret of happiness. Fierce excitements, excursions, and alarms do not conduce either to mental or physical well-being, and it is for this reason that we find that those whose lives have been chiefly concerned with them crave the most after the quiet round of domestic life. When they get it, often, it is true, they pant for the ardours of the fray whereof the dim and distant sounds are echoing through the spaces of their heart, in the same way that the countries without a history are sometimes anxious to write one in their own blood. But that is a principle of Nature, who will allow of no standing still among her subjects, and who has ordained that strife of one sort or another shall be the absolute condition of existence.

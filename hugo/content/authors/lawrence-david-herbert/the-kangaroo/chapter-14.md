@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Bits"
 weight: 14
-aliases:
-  - "/authors/lawrence-david-herbert/the-kangaroo/chapter-14.html"
+url: "/authors/lawrence-david-herbert/the-kangaroo/chapter-14.html"
 ---
 
 The following day Somers felt savage with himself again. "Fool that I am, fool!" he said, mentally kicking himself. And he looked at the big pink spread of his Sydney Bulletin viciously. The Bulletin was the only periodical in the world that really amused him. The horrible stuffiness of English newspapers he could not stand: they had the same effect on him as fish-balls in a restaurant, loathsome stuffy fare. English magazines were too piffling, too imbecile. But the "Bully", even if it was made up all of bits, and had neither head nor tail nor feet nor wings, was still a lively creature. He liked its straightforwardness and the kick in some of its tantrums. It beat no solemn drums. It had no deadly earnestness. It was just stoical, and spitefully humorous. Yes, at the moment he liked the Bulletin better than any paper he knew, though even the Bulletin tried a dowdy bit of swagger sometimes, especially on the pink page. But then the pink page was just "literary", and who cares?

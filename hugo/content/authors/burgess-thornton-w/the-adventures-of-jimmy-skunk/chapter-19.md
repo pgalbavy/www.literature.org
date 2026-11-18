@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Jimmy Skunk Is True To His Word"
 weight: 19
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-19.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-19.html"
 ---
 
 Unc' Billy Possum was having a bad night of it. When he had grown tired of quarreling with Jimmy Skunk, he had tried to take a nap. He had tried first one nest and then another, but none just suited him. This was partly because he wasn't sleepy. He was hungry and not at all sleepy. He wished with all his heart that he hadn't foolishly yielded to that fit of temper which had resulted in kicking that china nest-egg out of a nest and down on the head of Jimmy Skunk, making Jimmy so thoroughly angry.

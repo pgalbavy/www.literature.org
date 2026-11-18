@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - But Comes Back For More"
 weight: 7
-aliases:
-  - "/authors/coolidge-dane/rimrock-jones/chapter-07.html"
+url: "/authors/coolidge-dane/rimrock-jones/chapter-07.html"
 ---
 
 From the highest pinnacle of success to the black depths of despair is a long way to drop in one hour and if Rimrock Jones went the way of all flesh it is only another argument for prohibition. All the rest of the town had got a good start before he appeared on the scene and to drown that black thought--defeated by a woman--he drank deep with the crowd at the Alamo. At the end of the bout when, his thoughts coming haphazard, he philosophized on the disasters of the day, his brain slipped a cog and brought two ideas together that piled Pelion on the Ossa of his discontent.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 17
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-16.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-16.html"
 ---
 
 The Wood was gradually growing darker. It had been almost brilliant during a part of the afternoon because the bareness of the branches let in the wintry sun. There were no leaves to keep it out and there had been a rare, chill blue sky. All seemed cold blue sky where it was not brown or sodden yellow fern and moss. The trunks of the trees looked stark and the tall, slender white stems of the birches stood out here and there among the darker growth like ghosts who were sentinels. It was always a silent place and now its stillness seemed even added to by the one sound which broke it--the sound of sobbing--sobbing--sobbing.

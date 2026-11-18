@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Seed Of Mccoy"
 weight: 8
-aliases:
-  - "/authors/london-jack/south-sea-tales/chapter-08.html"
+url: "/authors/london-jack/south-sea-tales/chapter-08.html"
 ---
 
 The Pyrenees, her iron sides pressed low in the water by her cargo of wheat, rolled sluggishly, and made it easy for the man who was climbing aboard from out a tiny outrigger canoe. As his eyes came level with the rail, so that he could see inboard, it seemed to him that he saw a dim, almost indiscernible haze. It was more like an illusion, like a blurring film that had spread abruptly over his eyes. He felt an inclination to brush it away, and the same instant he thought that he was growing old and that it was time to send to San Francisco for a pair of spectacles.

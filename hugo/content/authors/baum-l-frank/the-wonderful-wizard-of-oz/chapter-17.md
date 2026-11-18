@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - How the Balloon Was Launched "
 weight: 18
-aliases:
-  - "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-17.html"
+url: "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-17.html"
 ---
 
 For three days Dorothy heard nothing from Oz. These were sad days for the little girl, although her friends were all quite happy and contented. The Scarecrow told them there were wonderful thoughts in his head; but he would not say what they were because he knew no one could understand them but himself. When the Tin Woodman walked about he felt his heart rattling around in his breast; and he told Dorothy he had discovered it to be a kinder and more tender heart than the one he had owned when he was made of flesh. The Lion declared he was afraid of nothing on earth, and would gladly face an army or a dozen of the fierce Kalidahs.

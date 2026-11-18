@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - No!"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-07.html"
 ---
 
 The pilot-boat was nearing the strange vessel, when Blair suddenly exclaimed, "I see British uniforms on board. We have been tricked by that flag falsely displayed. It is an English man-of-war. Put about. We'll pilot no such vessel into Fairport."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - A Friend Among Enemies"
 weight: 32
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-32.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-32.html"
 ---
 
 The double canoe, with its cumbersome lateen sail and its crew of twenty-odd pirates, had stolen down from somewhere among the Paumotu Islands, and was now gradually approaching the proa which contained Abram Storms and Inez Hawthorne.

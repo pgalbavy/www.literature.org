@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Moving Pictures"
 weight: 3
-aliases:
-  - "/authors/ridge-w-pett/table-dhote/chapter-03.html"
+url: "/authors/ridge-w-pett/table-dhote/chapter-03.html"
 ---
 
 “I SHOULD never have come to you,” he said, making a furious dash under his signature, “only that I’ve been rather annoyed and upset.”

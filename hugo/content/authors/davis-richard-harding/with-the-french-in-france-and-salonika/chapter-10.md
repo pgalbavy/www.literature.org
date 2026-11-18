@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - War In The Vosges"
 weight: 11
-aliases:
-  - "/authors/davis-richard-harding/with-the-french-in-france-and-salonika/chapter-10.html"
+url: "/authors/davis-richard-harding/with-the-french-in-france-and-salonika/chapter-10.html"
 ---
 
 PARIS, January, 1916.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-01.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-01.html"
 ---
 
 The two horses picked their way carefully downward over the loose shale of the steep hillside. The big bay stallion in the lead sidled mincingly, tossing his head nervously, and flecking the flannel shirt of his rider with foam. Behind the man on the stallion a girl rode a clean-limbed bay of lighter color, whose method of descent, while less showy, was safer, for he came more slowly, and in the very bad places he braced his four feet forward and slid down, sometimes almost sitting upon the ground.

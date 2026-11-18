@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Arsène Lupin In Prison"
 weight: 2
-aliases:
-  - "/authors/leblanc-maurice/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/chapter-02.html"
+url: "/authors/leblanc-maurice/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/chapter-02.html"
 ---
 
 There is no tourist worthy of the name who does not know the banks of the Seine, and has not noticed, in passing, the little feudal castle of the Malaquis, built upon a rock in the centre of the river. An arched bridge connects it with the shore. All around it, the calm waters of the great river play peacefully amongst the reeds, and the wagtails flutter over the moist crests of the stones.

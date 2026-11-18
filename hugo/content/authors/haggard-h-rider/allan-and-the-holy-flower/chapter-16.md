@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Gods"
 weight: 16
-aliases:
-  - "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-16.html"
+url: "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-16.html"
 ---
 
 With a roar the Pongo soldiers leapt on us. I think that Mavovo managed to get his spear up and kill a man, for I saw one of them fall backwards and lie still. But they were too quick for the rest of us. In half a minute we were seized, the spears were wrenched from our hands and we were thrown headlong into the canoe, all six of us, or rather seven including the Kalubi. A number of the soldiers, including Komba, who acted as steersman, also sprang into the canoe that was instantly pushed out from beneath the bridge or platform on which the Motombo sat and down the little creek into the still water of the canal or estuary, or whatever it may be, that separates the wall of rock which the cave pierces from the base of the mountain.

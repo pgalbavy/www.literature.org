@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-22.html"
+url: "/authors/london-jack/martin-eden/chapter-22.html"
 ---
 
 Mrs. Morse did not require a mother's intuition to read the advertisement in Ruth's face when she returned home. The flush that would not leave the cheeks told the simple story, and more eloquently did the eyes, large and bright, reflecting an unmistakable inward glory.

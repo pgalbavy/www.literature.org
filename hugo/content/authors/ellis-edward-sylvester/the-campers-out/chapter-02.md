@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - How The Scheme Worked"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-02.html"
 ---
 
 "The folks will leave the house," said Tom Wagstaff, "about half-past seven, and there will be no one home but me and Maggie, the girl. I’ll be up in my room and Maggie down-stairs. When I lean out the window and wave my hand I want you, Jim, to fire two or three charges out of your revolver through the winders of the dining-room."

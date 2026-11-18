@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Scandal"
 weight: 10
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-08.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-08.html"
 ---
 
 IT was still early in the afternoon when the guests at Lady Lundie's lawn-party began to compare notes together in corners, and to agree in arriving at a general conviction that "some thing was wrong."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Council Of War"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-08.html"
 ---
 
 That night, after Uncle Elk had left the bungalow, Alvin Landon, Chester Haynes and Mike Murphy held what Alvin called a council of war.

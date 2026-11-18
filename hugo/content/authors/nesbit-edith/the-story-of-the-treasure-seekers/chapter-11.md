@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Castilian Amoroso"
 weight: 11
-aliases:
-  - "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-11.html"
+url: "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-11.html"
 ---
 
 One day when we suddenly found that we had half a crown we decided that we really ought to try Dicky's way of restoring our fallen fortunes while yet the deed was in our power. Because it might easily have happened to us never to have half a crown again. So we decided to dally no longer with being journalists and bandits and things like them, but to send for sample and instructions how to earn two pounds a week each in our spare time. We had seen the advertisement in the paper, and we had always wanted to do it, but we had never had the money to spare before, somehow. The advertisement says: 'Any lady or gentleman can easily earn two pounds a week in their spare time. Sample and instructions, two shillings. Packed free from observation.' A good deal of the half-crown was Dora's. It came from her godmother; but she said she would not mind letting Dicky have it if he would pay her back before Christmas, and if we were sure it was right to try to make our fortune that way. Of course that was quite easy, because out of two pounds a week in your spare time you can easily pay all your debts, and have almost as much left as you began with; and as to the right we told her to dry up.

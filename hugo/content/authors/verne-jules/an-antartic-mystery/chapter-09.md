@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Fitting Out The Halbrane"
 weight: 9
-aliases:
-  - "/authors/verne-jules/an-antartic-mystery/chapter-09.html"
+url: "/authors/verne-jules/an-antartic-mystery/chapter-09.html"
 ---
 
 On the 15th of October, our schooner cast anchor in Port Egmont, on the north of West Falkland. The group is composed of two islands, one the above-named, the other Soledad or East Falkland. Captain Len Guy gave twelve hours' leave to the whole crew. The next day the proceedings were to begin by a careful and minute inspection of the vessel's hull and keel, in view of the contemplated prolonged navigation of the Antarctic seas. That day Captain Len Guy went ashore, to confer with the Governor of the group on the subject of the immediate re-victualling of the schooner. He did not intend to make expense a consideration, because the whole adventure might be wrecked by an unwise economy. Besides I was ready to aid with my purse, as I told him, and I intended that we should be partners in tile cost of this expedition.

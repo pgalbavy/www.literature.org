@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/ridge-w-pett/e-r-b/chapter-02.html"
+url: "/authors/ridge-w-pett/e-r-b/chapter-02.html"
 ---
 
 LONDON starts its day as freshly as the country, and in the early hours of a spring morning, before the scent of the tanning-yards is awake, even Bermondsey seems pure and bright. The loads of vegetables strolling up Old Kent Road, the belated pockets of last year’s hops coming, roped sky high, out of the gates of the goods station; the rapid barrows returning from Covent Garden with supplies of flowers and fruit for suburban shops—all these help. At half-past seven comes a transition period. The day’s work has begun and it has not begun. Every five minutes increases the haste of those who come out of the giant model dwellings, and up from the tributary roads; girls, as they run, stab at their hats; men, at a trot, endeavour in vain to light their pipes, but continue trying as they go, because matches are cheap and time is priceless. The law of compensation asserts itself: those who were merry last night and stayed out until half-past twelve to sing their way joyously home are, in the morning, thoughtful or surly, whilst those who eluded the attractions of the club or public-house rally them with much enjoyment on their obvious depression.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-24.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-24.html"
 ---
 
 From the shallow porch of a house over which brooded the dismal spirit of neglect and shiftlessness a woman stood looking out with eyes that should have been young, but were old with the age of a heart and spirit gone slack.

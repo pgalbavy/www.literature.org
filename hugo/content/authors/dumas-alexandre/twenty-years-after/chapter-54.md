@@ -1,8 +1,7 @@
 ---
 title: "Chapter 54 - In Which We Hear Tidings Of Aramis"
 weight: 54
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-54.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-54.html"
 ---
 
 D'Artagnan went straight to the stables; day was just dawning. He found his horse and that of Porthos fastened to the manger, but to an empty manger. He took pity on these poor animals and went to a corner of the stable, where he saw a little straw, but in doing so he struck his foot against a human body, which uttered a cry and arose on its knees, rubbing its eyes. It was Musqueton, who, having no straw to lie upon, had helped himself to that of the horses.

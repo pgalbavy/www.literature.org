@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Pebbly Beach"
 weight: 22
-aliases:
-  - "/authors/alcott-louisa-may/jack-and-jill/chapter-21.html"
+url: "/authors/alcott-louisa-may/jack-and-jill/chapter-21.html"
 ---
 
 "Now, Mr. Jack, it is a moral impossibility to get all those things into one trunk, and you mustn't ask it of me," said Mrs. Pecq, in a tone of despair, as she surveyed the heap of treasures she was expected to pack for the boys.

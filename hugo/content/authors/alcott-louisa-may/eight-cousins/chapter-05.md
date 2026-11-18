@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Belt And A Box"
 weight: 6
-aliases:
-  - "/authors/alcott-louisa-may/eight-cousins/chapter-05.html"
+url: "/authors/alcott-louisa-may/eight-cousins/chapter-05.html"
 ---
 
 When Rose came out of her chamber, cup in hand, next morning, the first person she saw was Uncle Alec standing on the threshold of the room opposite, which he appeared to be examining with care. When he heard her step, he turned about and began to sing

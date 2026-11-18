@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Enter Prince Charming"
 weight: 25
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-25.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-25.html"
 ---
 
 "I'm contrasting the claims of indoors and out," said Anne, looking from the window of Patty's Place to the distant pines of the park.

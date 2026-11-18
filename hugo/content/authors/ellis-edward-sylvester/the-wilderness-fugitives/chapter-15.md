@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Delicate And Dangerous Task"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-15.html"
 ---
 
 Without using the broken language of the Mohawk scout, his mission may be explained. While the conference between the Iroquois was under way, he detected sounds that told him a canoe had arrived among them—confirmed immediately after by the sound of the quarrel already referred to. The instant he became aware of this, he resolved to obtain possession of the boat and appropriate it to his own use. Every reason urged him to do this. One of the most powerfully exciting causes was the wish—natural to the white as well as the red man—to outwit his enemies. To capture their canoe would be a brilliant winding up of the shrewd escape he had made from the parties on the water and land. Besides this, it had become plain that the only way to get across the Susquehanna was by using a craft equal in every respect to those employed by his enemies.

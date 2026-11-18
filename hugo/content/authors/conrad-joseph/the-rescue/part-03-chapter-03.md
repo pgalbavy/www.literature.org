@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 3"
 weight: 16
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-03-chapter-03.html"
+url: "/authors/conrad-joseph/the-rescue/part-03-chapter-03.html"
 ---
 
 Lingard's gaze, detaching itself from the silent sea, travelled slowly over the silent figures clustering forward, over the faces of the seamen attentive and surprised, over the faces never seen before yet suggesting old days—his youth—other seas—the distant shores of early memories. Mr. Travers gave a start also, and the hand which had been busy with his left whisker went into the pocket of his jacket, as though he had plucked out something worth keeping. He made a quick step toward Lingard.

@@ -1,8 +1,7 @@
 ---
 title: "chapter 14"
 weight: 999
-aliases:
-  - "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-14.html"
+url: "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-14.html"
 ---
 
 In the hut of Pon, the gardener's boy, Button-Bright was the first to waken in the morning. Leaving his companions still asleep, he went out into the fresh morning air and saw some blackberries growing on bushes in a field not far away. Going to the bushes he found the berries ripe and sweet, so he began eating them. More bushes were scattered over the fields, so the boy wandered on, from bush to bush, without paying any heed to where he was wandering. Then a butterfly fluttered by. He gave chase to it and followed it a long way. When finally he paused to look around him, Button-Bright could see no sign of Pon's house, nor had he the slightest idea in which direction it lay.

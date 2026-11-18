@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/cooper-courtney-ryley/the-crosscut/chapter-16.html"
+url: "/authors/cooper-courtney-ryley/the-crosscut/chapter-16.html"
 ---
 
 Fairchild blinked in surprise at this and sank back into his chair. Finally he laughed uneasily and puffed again on the dubious cigar.

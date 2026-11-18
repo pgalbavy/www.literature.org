@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Dead World"
 weight: 5
-aliases:
-  - "/authors/doyle-arthur-conan/the-poison-belt/chapter-05.html"
+url: "/authors/doyle-arthur-conan/the-poison-belt/chapter-05.html"
 ---
 
 I remember that we all sat gasping in our chairs, with that sweet, wet south-western breeze, fresh from the sea, flapping the muslin curtains and cooling our flushed faces. I wonder how long we sat! None of us afterwards could agree at all on that point. We were bewildered, stunned, semi-conscious. We had all braced our courage for death, but this fearful and sudden new fact--that we must continue to live after we had survived the race to which we belonged--struck us with the shock of a physical blow and left us prostrate. Then gradually the suspended mechanism began to move once more; the shuttles of memory worked; ideas weaved themselves together in our minds. We saw, with vivid, merciless clearness, the relations between the past, the present, and the future--the lives that we had led and the lives which we would have to live. Our eyes turned in silent horror upon those of our companions and found the same answering look in theirs. Instead of the joy which men might have been expected to feel who had so narrowly escaped an imminent death, a terrible wave of darkest depression submerged us. Everything on earth that we loved had been washed away into the great, infinite, unknown ocean, and here were we marooned upon this desert island of a world, without companions, hopes, or aspirations. A few years' skulking like jackals among the graves of the human race and then our belated and lonely end would come.

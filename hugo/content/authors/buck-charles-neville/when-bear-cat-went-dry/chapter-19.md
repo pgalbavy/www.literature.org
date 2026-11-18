@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-19.html"
+url: "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-19.html"
 ---
 
 As the snarling restiveness moderated to curiosity under Kinnard's uncouth forcefulness and seemingly candid words, he repeated the mendacious story of his outraged righteousness, when he had learned that in his tavern the murder of a gentleman from the lowlands had been attempted. His place, he pointed out, was open to all comers--the law required that he extend its entertainment to every man who paid the price. He himself had not been present in time to prevent the outbreak. Had he entertained a prior and guilty knowledge of the plot, he would scarcely have interfered last night. He would not have come to-day with his assurance of sympathy and his proffer of aid into a nest of swarming hornets.

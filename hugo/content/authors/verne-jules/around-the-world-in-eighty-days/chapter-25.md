@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-25.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-25.html"
 ---
 
 In which a slight glimpse is had of San Francisco

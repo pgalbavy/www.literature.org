@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 2 - The Escape"
 weight: 20
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-02.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-02.html"
 ---
 
 BYRNE had no time to pick any particular spot to jump for. When he did jump he might have been directly over a picket fence, or a bottomless pit--he did not know. Nor did he care.

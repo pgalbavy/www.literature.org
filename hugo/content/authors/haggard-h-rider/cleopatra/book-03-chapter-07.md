@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 7"
 weight: 31
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-03-chapter-07.html"
+url: "/authors/haggard-h-rider/cleopatra/book-03-chapter-07.html"
 ---
 
 OF THE SURRENDER OF THE TROOPS AND FLEET OF ANTONY BEFORE THE CANOPIC GATE; OF THE END OF ANTONY, AND OF THE BREWING OF THE DRAUGHT OF DEATH

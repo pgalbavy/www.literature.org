@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A King Of The Forest"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-11.html"
 ---
 
 The boys remained standing at the mouth of the cavern until the guide disappeared on the other side of the little plateau. Then they looked at each other and smiled.

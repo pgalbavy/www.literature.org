@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-13.html"
+url: "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-13.html"
 ---
 
 After his day of toil in Pleasant Valley, Uncle Dick Siddon sprawled at ease on the porch, smoking his pipe, and watching with mildly sentimental eyes the rosy hues of the cloud masses that crowned Stone Mountain. His mood was tranquilly amorous. The vial in his pocket was full of golden grains. Presently, he would fashion a ring. Then, heigh-ho for the parson! He smiled contentedly over his vision of the buxom Widow Brown. Her placid charms would soothe his declining years. A tempestuous passion would be unbecoming at his age. But the companionship of this gentle and agreeable woman would be both fitting and pleasant. Really, Uncle Dick mused, it was time he settled down. One should be sedate at eighty. But he sighed.

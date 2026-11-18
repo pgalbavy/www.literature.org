@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-02.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-02.html"
 ---
 
 A fat, unwholesome - looking creature, half native, half Belgian, waddled across the open space towards the hut in which the two strangers had been housed. He was followed at a little distance by two sturdy natives bearing a steaming pot which they carried on a pole between them. Trent set down his revolver and rose to his feet.

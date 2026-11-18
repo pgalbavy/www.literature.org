@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 14
-aliases:
-  - "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-13.html"
+url: "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-13.html"
 ---
 
 It seems a long time since we have heard anything of the Frogman and Cayke the Cookie Cook, who had left the Yip Country in search of the diamond-studded dishpan which had been mysteriously stolen the same night that Ozma had disappeared from the Emerald City. But you must remember that while the Frogman and the Cookie Cook were preparing to descend from their mountaintop, and even while on their way to the farmhouse of Wiljon the Winkie, Dorothy and the Wizard and their friends were encountering the adventures we have just related.

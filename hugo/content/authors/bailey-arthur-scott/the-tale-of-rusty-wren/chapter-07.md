@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Neat Housekeeper"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-07.html"
 ---
 
 Rusty Wren's wife was a very neat housekeeper. Every day she carefully cleaned her house, chirping while she worked. Sometimes her voice was sweet and pleasant. But at other times--though it was still sweet--it was not pleasant at all. And whenever Rusty heard that second kind of chirp he was always careful to find some errand that took him away from home.

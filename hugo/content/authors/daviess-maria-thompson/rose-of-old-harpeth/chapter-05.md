@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Honorable Gid"
 weight: 5
-aliases:
-  - "/authors/daviess-maria-thompson/rose-of-old-harpeth/chapter-05.html"
+url: "/authors/daviess-maria-thompson/rose-of-old-harpeth/chapter-05.html"
 ---
 
 "Now, Amandy, stick them jack-beans in the ground round side upwards. Do you want 'em to have to turn over to sprout?" demanded Miss Lavinia, as she stood leaning on her crotched stick over by the south side of the garden fence, directing the planting of her favorite vine that was to be trained along the pickets and over the gate. Little Miss Amanda, as usual, was doing her best to carry out exactly the behests of her older and a little more infirm sister. Miss Amanda was possessed of a certain amount of tottering nimbleness which she put at the disposal of Miss Lavinia at all times with the most cheery good-will. Miss Amanda was of the order of little sisters who serve and Miss Lavinia belonged to the sisterhood dominant by nature and by the consent of Miss Amanda and the rest of her family.

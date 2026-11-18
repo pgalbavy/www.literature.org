@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-25.html"
+url: "/authors/eliot-george/middlemarch/chapter-25.html"
 ---
 
 "Love seeketh not itself to please, Nor for itself hath any care But for another gives its ease And builds a heaven in hell's despair. . . . . . . . Love seeketh only self to please, To bind another to its delight, Joys in another's loss of ease, And builds a hell in heaven's despite." - W. BLAKE: Songs of Experience

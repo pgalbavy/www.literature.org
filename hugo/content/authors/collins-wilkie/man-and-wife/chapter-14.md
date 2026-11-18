@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Geoffrey As A Letter-Writer"
 weight: 16
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-14.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-14.html"
 ---
 
 LORD HOLCHESTER'S servants--with the butler at their head--were on the look-out for Mr. Julius Delamayn's arrival from Scotland. The appearance of the two brothers together took the whole domestic establishment by surprise. Inquiries were addressed to the butler by Julius; Geoffrey standing by, and taking no other than a listener's part in the proceedings.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Samson And Delilah"
 weight: 6
-aliases:
-  - "/authors/lawrence-david-herbert/england-my-england/chapter-06.html"
+url: "/authors/lawrence-david-herbert/england-my-england/chapter-06.html"
 ---
 
 A man got down from the motor-omnibus that runs from Penzance to St Just-in-Penwith, and turned northwards, uphill towards the Polestar. It was only half past six, but already the stars were out, a cold little wind was blowing from the sea, and the crystalline, three-pulse flash of the lighthouse below the cliffs beat rhythmically in the first darkness.

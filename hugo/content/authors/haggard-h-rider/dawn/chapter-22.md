@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 23
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-22.html"
+url: "/authors/haggard-h-rider/dawn/chapter-22.html"
 ---
 
 The dog-cart that Arthur had hired to take him away belonged to an old-fashioned inn in the parish of Rewtham, situated about a mile from Rewtham House (which had just passed into the hands of the Bellamys), and two from Bratham Abbey, and thither Arthur had himself driven. His Jehu, known through all the country round as "Old Sam," was an ancient ostler, who had been in the service of the Rewtham "King's Head," man and boy, for over fifty years, and from him Arthur collected a good deal of inaccurate information about the Caresfoot family, including a garbled version of all the death of Angela's mother and Philip's disinheritance.

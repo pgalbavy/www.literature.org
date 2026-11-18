@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/conrad-joseph/the-secret-sharer/chapter-02.html"
+url: "/authors/conrad-joseph/the-secret-sharer/chapter-02.html"
 ---
 
 The skipper of the Sephora had a thin red whisker all round his face, and the sort of complexion that goes with hair of that color; also the particular, rather smeary shade of blue in the eyes. He was not exactly a showy figure; his shoulders were high, his stature but middling—one leg slightly more bandy than the other. He shook hands, looking vaguely around. A spiritless tenacity was his main characteristic, I judged. I behaved with a politeness which seemed to disconcert him. Perhaps he was shy. He mumbled to me as if he were ashamed of what he was saying; gave his name (it was something like Archbold—but at this distance of years I hardly am sure), his ship’s name, and a few other particulars of that sort, in the manner of a criminal making a reluctant and doleful confession. He had had terrible weather on the passage out—terrible—terrible—wife aboard, too.

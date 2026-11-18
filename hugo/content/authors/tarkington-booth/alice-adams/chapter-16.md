@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/tarkington-booth/alice-adams/chapter-16.html"
+url: "/authors/tarkington-booth/alice-adams/chapter-16.html"
 ---
 
 He meant his own transgression and his own way; for Walter's stubborn refusal appeared to Adams just then as one of the inexplicable but righteous besettings he must encounter in following that way. "Oh, Lordy, Lord!" he groaned, and then, as resentment moved him—"That dang boy! Dang idiot!" Yet he knew himself for a greater idiot because he had not been able to tell Walter the truth. He could not bring himself to do it, nor even to state his case in its best terms; and that was because he felt that even in its best terms the case was a bad one.

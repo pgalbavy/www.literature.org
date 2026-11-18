@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Lupin's Way"
 weight: 3
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin/chapter-03.html"
+url: "/authors/leblanc-maurice/arsene-lupin/chapter-03.html"
 ---
 
 Sonia, in a sudden revulsion of feeling, in a reaction from her fears, slipped back and sat down at the tea-table, panting quickly, struggling to keep back the tears of relief. She did not see the Duke gallop up the slope, dismount, and hand over his horse to the groom who came running to him. There was still a mist in her eyes to blur his figure as he came through the window.

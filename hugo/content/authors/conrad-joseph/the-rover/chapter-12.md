@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/conrad-joseph/the-rover/chapter-12.html"
+url: "/authors/conrad-joseph/the-rover/chapter-12.html"
 ---
 
 Upright and deliberate, Catherine left the kitchen, and in the passage outside found Arlette waiting for her with a lighted candle in her hand. Her heart was filled with sudden desolation by the beauty of that young face enhaloed in the patch of light, with the profound darkness as of a dungeon for a background. At once her niece led the way upstairs muttering savagely through her pretty teeth: "He thinks I could go to sleep. Old imbecile!"

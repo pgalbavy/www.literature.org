@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Slicko Meets Squinty"
 weight: 2
-aliases:
-  - "/authors/barnum-richard/slicko-the-jumping-squirrel/chapter-02.html"
+url: "/authors/barnum-richard/slicko-the-jumping-squirrel/chapter-02.html"
 ---
 
 “That’s the way to do it!” cried Mrs. Squirrel, as she saw Slicko sailing down through the air toward the limb on which was perched Mr. Squirrel.

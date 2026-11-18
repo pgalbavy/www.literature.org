@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - With Hoof And Tooth"
 weight: 7
-aliases:
-  - "/authors/titus-harold/i-conquered/chapter-07.html"
+url: "/authors/titus-harold/i-conquered/chapter-07.html"
 ---
 
 So it came to pass that Danny Lenox of New York ceased to exist, and a new man took his place--Young VB, of Clear River County, Colorado.

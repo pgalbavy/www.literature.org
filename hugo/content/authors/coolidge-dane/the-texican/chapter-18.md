@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Law's Delay"
 weight: 19
-aliases:
-  - "/authors/coolidge-dane/the-texican/chapter-18.html"
+url: "/authors/coolidge-dane/the-texican/chapter-18.html"
 ---
 
 As the first hot days of summer came on, the district court of Geronimo County closed; the judge, having decided each case according to the law and the evidence, hurried upon his way, well satisfied; the deputies took a last disconsolate batch of prisoners to Yuma, and Pecos Dalhart sat down to ponder on his case. The tanks were nearly empty now, except for the drunks and vags that the constables brought in and the grist for the next grand jury. It was a dreary grist, each man swearing his innocence with unnatural warmth until the general cynicism of the place shamed him to silence. Pecos loathed them, the whining, browbeaten slaves. After he had sounded the depths of human depravity until there was no more wickedness to learn he drew more and more aloof from his companions, thinking his own thoughts in silence. When Boone Morgan came in, or the Blade reporter, he conversed with them, quietly and respectfully—Boone Morgan could speak a word to the judge, and Baker held the ear of the great public. They were very kind to Pecos now, and often, after some ingenious write-up of his exploits, crowds of visitors would come to stare at the grim rustler who ruled the Kangaroo Court. There were no signs of the social theorist about him now, and the revolution was a broken dream—he could not afford such dreams. Let the rich and the free hold fast to their convictions and their faith—he was trying to get out of jail.

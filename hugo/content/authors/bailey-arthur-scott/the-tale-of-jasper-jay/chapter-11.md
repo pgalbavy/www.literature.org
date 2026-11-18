@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Stroke Of Luck"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-11.html"
 ---
 
 JASPER'S fun would have been spoiled if he hadn't had a stroke of good fortune. Since he was no longer leading the nutting party he wanted to prevent his friends from following Noisy Jake to the place where the oak trees grew, to have an acorn hunt.

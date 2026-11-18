@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-09.html"
+url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-09.html"
 ---
 
 On the afternoon of the day upon which this occurred, Coombe was standing in Feather's drawing-room with a cup of tea in his hand and wearing the look of a man who is given up to reflection.

@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 5 - The \"Good Hope\""
 weight: 18
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-03-chapter-05.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-03-chapter-05.html"
 ---
 
 (CONTINUED)

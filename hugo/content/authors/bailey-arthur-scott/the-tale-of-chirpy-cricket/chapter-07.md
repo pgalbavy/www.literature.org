@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Johnnie Green's Guest"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-chirpy-cricket/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-chirpy-cricket/chapter-07.html"
 ---
 
 There were enough night noises before Chirpy Cricket came to live in the farmyard. What with Solomon Owl's hooting, his cousin Simon Screecher's quavering call, and the musical Frog's family's concerts in Cedar Swamp, it was a wonder that Johnnie Green ever managed to fall asleep. The Katydids alone were almost enough to drive anybody frantic--if he let himself listen to them--with their everlasting cry of Katy did, Katy did; she did, she did.

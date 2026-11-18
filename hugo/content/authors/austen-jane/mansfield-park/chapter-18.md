@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-18.html"
+url: "/authors/austen-jane/mansfield-park/chapter-18.html"
 ---
 
 Everything was now in a regular train: theatre, actors, actresses, and dresses, were all getting forward; but though no other great impediments arose, Fanny found, before many days were past, that it was not all uninterrupted enjoyment to the party themselves, and that she had not to witness the continuance of such unanimity and delight as had been almost too much for her at first. Everybody began to have their vexation. Edmund had many. Entirely against his judgment, a scene-painter arrived from town, and was at work, much to the increase of the expenses, and, what was worse, of the eclat of their proceedings; and his brother, instead of being really guided by him as to the privacy of the representation, was giving an invitation to every family who came in his way. Tom himself began to fret over the scene-painter's slow progress, and to feel the miseries of waiting. He had learned his part--all his parts, for he took every trifling one that could be united with the Butler, and began to be impatient to be acting; and every day thus unemployed was tending to increase his sense of the insignificance of all his parts together, and make him more ready to regret that some other play had not been chosen.

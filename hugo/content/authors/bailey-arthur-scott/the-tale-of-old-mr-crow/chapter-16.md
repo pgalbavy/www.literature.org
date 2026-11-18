@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - A Tight Fit"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-16.html"
 ---
 
 Now, a certain thing happened that made Mr. Crow change his mind about staying North for the winter. It had something to do with nuts, and Frisky Squirrel, and Sandy Chipmunk. But that is another story; and you may already have heard it.

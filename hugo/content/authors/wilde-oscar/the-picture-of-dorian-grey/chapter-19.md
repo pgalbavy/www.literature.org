@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 20
-aliases:
-  - "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-19.html"
+url: "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-19.html"
 ---
 
 "There is no use your telling me that you are going to be good," cried Lord Henry, dipping his white fingers into a red copper bowl filled with rose-water. "You are quite perfect. Pray, don't change."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Mr. Meadow Mouse Escapes"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-06.html"
 ---
 
 Grumpy Weasel did not like Solomon Owl's offer to be umpire of the hole-crawling contest between Mr. Meadow Mouse and himself. He hissed a few times and glared at Solomon Owl, up in the hemlock tree.

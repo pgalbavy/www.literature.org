@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/doyle-arthur-conan/the-parasite/chapter-03.html"
+url: "/authors/doyle-arthur-conan/the-parasite/chapter-03.html"
 ---
 
 I read over my notes of what the woman said when she spoke about her powers. There is one point which fills me with dismay. She implies that when the influence is slight the subject knows what he is doing, but cannot control himself, whereas when it is strongly exerted he is absolutely unconscious. Now, I have always known what I did, though less so last night than on the previous occasions. That seems to mean that she has never yet exerted her full powers upon me. Was ever a man so placed before?

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 13 - A Gentleman Of France"
 weight: 13
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-13.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-13.html"
 ---
 
 AT THE sound of the harsh voices so close upon her Barbara Harding was galvanized into instant action. Springing to Byrne's side she whipped Theriere's revolver from his belt, where it reposed about the fallen mucker's hips, and with it turned like a tigress upon the youth.

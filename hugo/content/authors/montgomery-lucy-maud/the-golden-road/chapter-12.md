@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Flowers O' May"
 weight: 13
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-12.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-12.html"
 ---
 
 Accordingly we went a-maying, following the lure of dancing winds to a certain westward sloping hill lying under the spirit-like blue of spring skies, feathered over with lisping young pines and firs, which cupped little hollows and corners where the sunshine got in and never got out again, but stayed there and grew mellow, coaxing dear things to bloom long before they would dream of waking up elsewhere.

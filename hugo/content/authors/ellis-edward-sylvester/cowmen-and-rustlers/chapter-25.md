@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Flag Of Truce"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-25.html"
 ---
 
 In one important respect the combatants showed commendable discretion. Although there had been considerable firing on the part of the rustlers, none of the cattlemen were hurt. It is not unlikely that the bullets were intended to frighten them, since such excellent marksmen otherwise could not have discharged their weapons without execution.

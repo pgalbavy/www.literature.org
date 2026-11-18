@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Brownie Saves The Dam"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-05.html"
 ---
 
 Brownie Beaver was always glad that he had taken Grandaddy's advice about the freshet. And Brownie's neighbors were glad that he had, too. For that was really the only thing that saved the village from being carried away by the flood of water that swept down upon the pond, after it had rained for two days and two nights.

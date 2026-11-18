@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Whirlwind"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-10.html"
 ---
 
 *DEERFOOT* waited till sure of the exhaustion of the stallion. Then while he was still galloping in his tired way, he slipped from his back and, dropping to the ground, began running beside him.

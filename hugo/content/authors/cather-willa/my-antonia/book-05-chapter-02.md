@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 2"
 weight: 45
-aliases:
-  - "/authors/cather-willa/my-antonia/book-05-chapter-02.html"
+url: "/authors/cather-willa/my-antonia/book-05-chapter-02.html"
 ---
 
 WHEN I AWOKE IN THE morning, long bands of sunshine were coming in at the window and reaching back under the eaves where the two boys lay. Leo was wide awake and was tickling his brother’s leg with a dried cone-flower he had pulled out of the hay. Ambrosch kicked at him and turned over. I closed my eyes and pretended to be asleep. Leo lay on his back, elevated one foot, and began exercising his toes. He picked up dried flowers with his toes and brandished them in the belt of sunlight. After he had amused himself thus for some time, he rose on one elbow and began to look at me, cautiously, then critically, blinking his eyes in the light. His expression was droll; it dismissed me lightly. ‘This old fellow is no different from other people. He doesn’t know my secret.’ He seemed conscious of possessing a keener power of enjoyment than other people; his quick recognitions made him frantically impatient of deliberate judgments. He always knew what he wanted without thinking.

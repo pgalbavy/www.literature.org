@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/huxley-aldous/crome-yellow/chapter-22.html"
+url: "/authors/huxley-aldous/crome-yellow/chapter-22.html"
 ---
 
 For the sake of peace and quiet Denis had retired earlier on this same afternoon to his bedroom. He wanted to work, but the hour was a drowsy one, and lunch, so recently eaten, weighed heavily on body and mind. The meridian demon was upon him; he was possessed by that bored and hopeless post-prandial melancholy which the coenobites of old knew and feared under the name of "accidie." He felt, like Ernest Dowson, "a little weary." He was in the mood to write something rather exquisite and gentle and quietist in tone; something a little droopy and at the same time—how should he put it?—a little infinite. He thought of Anne, of love hopeless and unattainable. Perhaps that was the ideal kind of love, the hopeless kind—the quiet, theoretical kind of love. In this sad mood of repletion he could well believe it. He began to write. One elegant quatrain had flowed from beneath his pen:

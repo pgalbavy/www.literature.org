@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/conrad-joseph/the-secret-agent/chapter-01.html"
+url: "/authors/conrad-joseph/the-secret-agent/chapter-01.html"
 ---
 
 Mr Verloc, going out in the morning, left his shop nominally in charge of his brother-in-law. It could be done, because there was very little business at any time, and practically none at all before the evening. Mr Verloc cared but little about his ostensible business. And, moreover, his wife was in charge of his brother-in-law.

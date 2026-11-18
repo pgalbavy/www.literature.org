@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Allan Weeps"
 weight: 20
-aliases:
-  - "/authors/haggard-h-rider/the-ivory-child/chapter-20.html"
+url: "/authors/haggard-h-rider/the-ivory-child/chapter-20.html"
 ---
 
 On they came, slowly and steadily, preceded by a cloud of skirmishers--a thousand or more of these--who kept as open an order as the narrow ground would allow and carried, each of them, a bundle of throwing spears arranged in loops or sockets at the back of the shield. When these men were about a hundred yards away we opened fire and killed a great number of them, also some of the marshalled troops behind. But this did not stop them in the least, for what could fifty rifles do against a horde of brave barbarians who, it seemed, had no fear of death? Presently their spears were falling among us and a few casualties began to occur, not many, because of the protecting wall, but still some. Again and again we loaded and fired, sweeping away those in front of us, but always others came to take their places. Finally at some word of command these light skirmishers vanished, except whose who were dead or wounded, taking shelter behind the advancing regiments which now were within fifty yards of us.

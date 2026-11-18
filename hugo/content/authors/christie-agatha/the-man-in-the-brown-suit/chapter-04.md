@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-04.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-04.html"
 ---
 
 Nobody came forward to identify the dead woman. The inquest elicited the following facts.

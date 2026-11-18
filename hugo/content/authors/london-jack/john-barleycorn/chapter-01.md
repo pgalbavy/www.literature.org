@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-01.html"
+url: "/authors/london-jack/john-barleycorn/chapter-01.html"
 ---
 
 It all came to me one election day. It was on a warm California afternoon, and I had ridden down into the Valley of the Moon from the ranch to the little village to vote Yes and No to a host of proposed amendments to the Constitution of the State of California. Because of the warmth of the day I had had several drinks before casting my ballot, and divers drinks after casting it. Then I had ridden up through the vine-clad hills and rolling pastures of the ranch, and arrived at the farm-house in time for another drink and supper.

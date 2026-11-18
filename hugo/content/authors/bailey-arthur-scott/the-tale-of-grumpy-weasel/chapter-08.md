@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Dare"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-08.html"
 ---
 
 If Grumpy Weasel had been a faster runner the forest people wouldn't have been so surprised when he dared Jimmy Rabbit to race him. Everybody knew that Jimmy was swift-footed--especially since he once beat old Mr. Turtle (but that is another story).

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40 - The Wanderer"
 weight: 41
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-40.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-40.html"
 ---
 
 We had a very serious conversation in Buckingham Street that night, about the domestic occurrences I have detailed in the last chapter. My aunt was deeply interested in them, and walked up and down the room with her arms folded, for more than two hours afterwards. Whenever she was particularly discomposed, she always performed one of these pedestrian feats; and the amount of her discomposure might always be estimated by the duration of her walk. On this occasion she was so much disturbed in mind as to find it necessary to open the bedroom door, and make a course for herself, comprising the full extent of the bedrooms from wall to wall; and while Mr. Dick and I sat quietly by the fire, she kept passing in and out, along this measured track, at an unchanging pace, with the regularity of a clock-pendulum.

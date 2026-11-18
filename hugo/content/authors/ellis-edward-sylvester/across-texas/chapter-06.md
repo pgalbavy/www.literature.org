@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Two Good Shots"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-06.html"
 ---
 
 "*WAL,* then, Jennings tells Sam everything that had took place. It was wonderful the control the ranchman showed over himself. His face was as white as death, but he didn’t tremble, and talked as if he was speaking about the cattle. Sam thought that the Apache, having the extra load of the child and dead warrior, would not be able to travel fast, and there was a chance of fetching him off his pony, but Jennings feared there was a party of the varmints near by, and that he would jine them.

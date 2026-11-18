@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Back To Nature"
 weight: 17
-aliases:
-  - "/authors/coolidge-dane/the-texican/chapter-16.html"
+url: "/authors/coolidge-dane/the-texican/chapter-16.html"
 ---
 
 As to what the revolution is or is to be there are no two authorities who agree. It is not a thing, to be measured and defined; nay, it is a dream which, like our ideas of heaven, varies with individuals. To the philosopher it is an earthly realization of all our heavenly aspirations; to the low-browed man-of-hands something less, since his aspirations are less, but still good to cure all social ills. When Pecos Dalhart entered the Geronimo County jail he turned it into his own idea of the revolution—a fighting man's paradise, like the Valhalla of the ancients, where the heroes fought all day and were made good as new over night; but when he woke up from his long sleep, behold, Angy had established a philosophical revolution in its stead! At first he was so glad to wake up at all that he did not inspect the new social structure too closely—it had saved him from a terrible beating, that was sure—but as the day wore on and a gang of yeggs began to ramp about he shook his head and frowned.

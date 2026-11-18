@@ -1,8 +1,7 @@
 ---
 title: "Author's Preface"
 weight: 1
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/preface.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/preface.html"
 ---
 
 In which it is proved that, notwithstanding their names' ending in OS and IS, the heroes of the story which we are about to have the honor to relate to our readers have nothing mythological about them.

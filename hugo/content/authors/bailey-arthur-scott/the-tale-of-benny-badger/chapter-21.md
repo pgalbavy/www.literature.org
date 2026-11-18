@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The New Home"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-21.html"
 ---
 
 When Benny Badger went wandering off to find a safer and pleasanter neighborhood in which to make a new home for himself, he had no idea at all as to where he should go. He only knew that he wanted to get a good, long distance away from the place where he had been living.

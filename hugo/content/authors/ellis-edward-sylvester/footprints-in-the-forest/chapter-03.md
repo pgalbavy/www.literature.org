@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Camp Of The Strangers"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-03.html"
 ---
 
 The expedition on which Jack Carleton entered with his two companions promised to be similar in many respects to those which have been already described. It looked indeed as if it would be more dull, and, for a while, such was the fact, but it was not long before matters took a turn as extraordinary as unexpected, and which quickly led the Kentuckian to conclude that it was, after all, the most eventful enterprise of his life.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Winged Blackmail"
 weight: 5
-aliases:
-  - "/authors/london-jack/the-night-born/chapter-05.html"
+url: "/authors/london-jack/the-night-born/chapter-05.html"
 ---
 
 PETER WINN lay back comfortably in a library chair, with closed eyes, deep in the cogitation of a scheme of campaign destined in the near future to make a certain coterie of hostile financiers sit up. The central idea had come to him the night before, and he was now reveling in the planning of the remoter, minor details. By obtaining control of a certain up-country bank, two general stores, and several logging camps, he could come into control of a certain dinky jerkwater line which shall here be nameless, but which, in his hands, would prove the key to a vastly larger situation involving more main-line mileage almost than there were spikes in the aforesaid dinky jerkwater. It was so simple that he had almost laughed aloud when it came to him. No wonder those astute and ancient enemies of his had passed it by.

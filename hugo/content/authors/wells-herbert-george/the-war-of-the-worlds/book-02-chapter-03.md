@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 3 - The Days of Imprisonment"
 weight: 20
-aliases:
-  - "/authors/wells-herbert-george/the-war-of-the-worlds/book-02-chapter-03.html"
+url: "/authors/wells-herbert-george/the-war-of-the-worlds/book-02-chapter-03.html"
 ---
 
 The arrival of a second fighting-machine drove us from our peephole into the scullery, for we feared that from his elevation the Martian might see down upon us behind our barrier. At a later date we began to feel less in danger of their eyes, for to an eye in the dazzle of the sunlight outside our refuge must have been blank blackness, but at first the slightest suggestion of approach drove us into the scullery in heart-throbbing retreat. Yet terrible as was the danger we incurred, the attraction of peeping was for both of us irresist- ible. And I recall now with a sort of wonder that, in spite of the infinite danger in which we were between starvation and a still more terrible death, we could yet struggle bitterly for that horrible privilege of sight. We would race across the kitchen in a grotesque way between eagerness and the dread of making a noise, and strike each other, and thrust add kick, within a few inches of exposure.

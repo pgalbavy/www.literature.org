@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Efficiency Of Clam Broth"
 weight: 8
-aliases:
-  - "/authors/baily-waldron/when-the-cock-crows/chapter-08.html"
+url: "/authors/baily-waldron/when-the-cock-crows/chapter-08.html"
 ---
 
 The mere act of rapid walking had a beneficial effect upon Roy. His circulation was equalized by the exercise and something of his natural buoyancy of spirit was restored to him. The detective, too, found pleasure in the tramp, and the young men walked along many miles of the Norfolk streets, aimless, but well entertained. They swung at last into the square where a huge monument commemorates the Lost Cause and heroic dead. Suddenly Van Dusen's attention was attracted to a huge gilt sign over the door of a saloon. The outer aspect of the place was attractive enough, with something of distinctiveness about it. He turned to Roy and spoke with a tone of amused interest.

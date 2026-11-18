@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Dinner Bell"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-19.html"
 ---
 
 THERE was great excitement in Farmer Green's orchard. The neighbors came a-flying and a-running and a-crawling from all directions. And little Mrs. Ladybug was the cause of the hurly-burly. She had appeared with a strange, flaring object hanging by a cord from her waist--if she could be said to have a waist. The queer, dangling thing had a handle at its upper end. And when Mrs. Ladybug moved a jingling, jangling sound might have been heard.

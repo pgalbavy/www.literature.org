@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 16 - On The Way"
 weight: 16
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-16.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-16.html"
 ---
 
 It was not without a certain apprehension - nothing seemed to justify it, however - that Dick Sand, three hundred steps from the steep bank of the river, penetrated into the thick forest, the difficult paths of which he and his companions were going to follow for ten days. On the contrary, Mrs. Weldon herself, a woman and a mother, whom the perils would make doubly anxious, had every confidence. Two very serious motives had contributed to reassure her; first, because this region of the pampas was neither very formidable on account of the natives, nor on account of the animals which were found there; next, because, under the direction of Harris, of a guide so sure of himself as the American appeared to be, they could not be afraid of going astray.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Never Bird"
 weight: 9
-aliases:
-  - "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-09.html"
+url: "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-09.html"
 ---
 
 The last sound Peter heard before he was quite alone were the mermaids retiring one by one to their bedchambers under the sea. He was too far away to hear their doors shut; but every door in the coral caves where they live rings a tiny bell when it opens or closes (as in all the nicest houses on the mainland), and he heard the bells.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Sleepy Benjamin Bat"
 weight: 23
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-23.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-23.html"
 ---
 
 LEAVING the two noisy cousins (Jasper Jay and old Mr. Crow) Mr. Hermit Thrush hurried back across Cedar Swamp and went straight to an old hemlock tree, where he knew he would find Benjamin Bat asleep.

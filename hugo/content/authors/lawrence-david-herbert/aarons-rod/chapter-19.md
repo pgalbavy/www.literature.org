@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Cleopatra, But Not Anthony"
 weight: 19
-aliases:
-  - "/authors/lawrence-david-herbert/aarons-rod/chapter-19.html"
+url: "/authors/lawrence-david-herbert/aarons-rod/chapter-19.html"
 ---
 
 Aaron awoke in the morning feeling better, but still only a part himself. The night alone had restored him. And the need to be alone still was his greatest need. He felt an intense resentment against the Marchesa. He felt that somehow, she had given him a scorpion. And his instinct was to hate her. And yet he avoided hating her. He remembered Lilly - and the saying that one must possess oneself, and be alone in possession of oneself. And somehow, under the influence of Lilly, he refused to follow the reflex of his own passion. He refused to hate the Marchesa. He did like her. He did esteem her. And after all, she too was struggling with her fate. He had a genuine sympathy with her. Nay, he was not going to hate her.

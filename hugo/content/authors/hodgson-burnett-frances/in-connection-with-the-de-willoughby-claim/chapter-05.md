@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-05.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-05.html"
 ---
 
 In two days' time the whole country had heard the news. The mystery of Blair's Hollow was revived and became a greater mystery than ever. The woman was dead, the man had disappeared. The cabin stood deserted, save for the few household goods which had been left just as they were on the day of the funeral. Not an article had been moved, though the woman to whom Tom De Willoughby, as the person most concerned, handed over the discarded property, did not find the little trunk, and noticed that articles had been burned in the fireplace in the front room.

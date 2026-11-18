@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 3 - In Which The Prince Comforts Age And Beauty And Delivers A Lecture On Discretion In Love"
 weight: 5
-aliases:
-  - "/authors/stevenson-robert-louis/prince-otto/book-01-chapter-03.html"
+url: "/authors/stevenson-robert-louis/prince-otto/book-01-chapter-03.html"
 ---
 
 The Prince was early abroad: in the time of the first chorus of birds, of the pure and quiet air, of the slanting sunlight and the mile-long shadows. To one who had passed a miserable night, the freshness of that hour was tonic and reviving; to steal a march upon his slumbering fellows, to be the Adam of the coming day, composed and fortified his spirits; and the Prince, breathing deep and pausing as he went, walked in the wet fields beside his shadow, and was glad.

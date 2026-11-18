@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - The New Route"
 weight: 31
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-31.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-31.html"
 ---
 
 Simon Kenton had spent so many years of his life in the woods and had been among the Shawanoes so much that he spoke their language like a native. The reader need not be told that he was once a prisoner of the Shawanoes, and was condemned to death by them, but was saved through the interference of the renegade Simon Girty, to whom the scout had done a kindness years before. This is the only instance of the kind known of that miscreant.

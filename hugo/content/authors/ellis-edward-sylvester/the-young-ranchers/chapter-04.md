@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Tim Brophy's Discovery"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-04.html"
 ---
 
 The letter which was delivered to Warren Starr by his mortally wounded hound not only gave that young man definite news of the alarming events in the neighborhood of his home, but has conveyed to the reader the cause of the abrupt change in his plans and of the stirring incidents which led to the hasty flight of the Starr family from their ranch on the north of the Big Cheyenne River.

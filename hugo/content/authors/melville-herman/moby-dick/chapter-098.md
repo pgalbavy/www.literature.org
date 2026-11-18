@@ -1,8 +1,7 @@
 ---
 title: "Chapter 98 - Stowing Down and Clearing Up"
 weight: 98
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-098.html"
+url: "/authors/melville-herman/moby-dick/chapter-098.html"
 ---
 
 Already has it been related how the great leviathan is afar off descried from the mast-head; how he is chased over the watery moors, and slaughtered in the valleys of the deep; how he is then towed alongside and beheaded; and how (on the principle which entitled the headsman of old to the garments in which the beheaded was killed) his great padded surtout becomes the property of his executioner; how, in due time, he is condemned to the pots, and, like Shadrach, Meshach, and Abednego, his spermaceti, oil, and bone pass unscathed through the fire;--but now it remains to conclude the last chapter of this part of the description by rehearsing--singing, if I may--the romantic proceeding of decanting off his oil into the casks and striking them down into the hold, where once again leviathan returns to his native profundities, sliding along beneath the surface :is before; but, alas! never more to rise and blow.

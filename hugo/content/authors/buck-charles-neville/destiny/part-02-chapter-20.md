@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 20"
 weight: 20
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-20.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-20.html"
 ---
 
 Len Haswell carried a stricken face about the clubs where once he had been the center of jovial gatherings, when he appeared there--which was not often. Old associates who read the signs avoided him out of kindliness save those who like Thayre could be with him without reminding him of his hurt. Thayre, with all his seeming of bluff and noisy gaiety, had an underlying tenderness of heart and delicacy of perception which made him a friend for troubled hours. He knew how to remain silent as well as how to be loquacious and he could radiate an unspoken sympathy.

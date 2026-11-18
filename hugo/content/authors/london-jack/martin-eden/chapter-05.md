@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-05.html"
+url: "/authors/london-jack/martin-eden/chapter-05.html"
 ---
 
 He awoke next morning from rosy scenes of dream to a steamy atmosphere that smelled of soapsuds and dirty clothes, and that was vibrant with the jar and jangle of tormented life. As he came out of his room he heard the slosh of water, a sharp exclamation, and a resounding smack as his sister visited her irritation upon one of her numerous progeny. The squall of the child went through him like a knife. He was aware that the whole thing, the very air he breathed, was repulsive and mean. How different, he thought, from the atmosphere of beauty and repose of the house wherein Ruth dwelt. There it was all spiritual. Here it was all material, and meanly material.

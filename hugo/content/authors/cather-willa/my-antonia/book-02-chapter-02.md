@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 2"
 weight: 22
-aliases:
-  - "/authors/cather-willa/my-antonia/book-02-chapter-02.html"
+url: "/authors/cather-willa/my-antonia/book-02-chapter-02.html"
 ---
 
 GRANDMOTHER OFTEN SAID THAT if she had to live in town, she thanked God she lived next the Harlings. They had been farming people, like ourselves, and their place was like a little farm, with a big barn and a garden, and an orchard and grazing lots--even a windmill. The Harlings were Norwegians, and Mrs. Harling had lived in Christiania until she was ten years old. Her husband was born in Minnesota. He was a grain merchant and cattle-buyer, and was generally considered the most enterprising business man in our county. He controlled a line of grain elevators in the little towns along the railroad to the west of us, and was away from home a great deal. In his absence his wife was the head of the household.

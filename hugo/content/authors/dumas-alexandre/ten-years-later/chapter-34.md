@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - Of The Embarrassment Of Riches"
 weight: 34
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-34.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-34.html"
 ---
 
 D'Artagnan lost no time, and as soon as the thing was suitable and opportune, he paid a visit to the lord treasurer of his majesty. He had then the satisfaction to exchange a piece of paper, covered with very ugly writing, for a prodigious number of crowns, recently stamped with the effigies of his very gracious majesty Charles II.

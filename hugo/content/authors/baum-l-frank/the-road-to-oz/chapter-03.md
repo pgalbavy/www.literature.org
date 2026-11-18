@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/baum-l-frank/the-road-to-oz/chapter-03.html"
+url: "/authors/baum-l-frank/the-road-to-oz/chapter-03.html"
 ---
 
 Button-Bright took the shaggy man's hand willingly; for the shaggy man had the Love Magnet, you know, which was the reason Button-Bright had loved him at once. They started on, with Dorothy on one side, and Toto on the other, the little party trudging along more cheerfully than you might have supposed. The girl was getting used to queer adventures, which interested her very much. Wherever Dorothy went Toto was sure to go, like Mary's little lamb. Button-Bright didn't seem a bit afraid or worried because he was lost, and the shaggy man had no home, perhaps, and was as happy in one place as in another.

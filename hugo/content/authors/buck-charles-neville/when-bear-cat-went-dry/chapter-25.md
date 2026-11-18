@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-25.html"
+url: "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-25.html"
 ---
 
 When the curtain of unconsciousness rolled up again Blossom was no longer in the cave, but was lying on the ground between the rocks outside. It was dark now, but a lantern was lighted near at hand, and her wrists and ankles ached with the bite of knotted ropes.

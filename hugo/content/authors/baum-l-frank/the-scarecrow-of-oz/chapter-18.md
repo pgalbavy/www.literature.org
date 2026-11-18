@@ -1,8 +1,7 @@
 ---
 title: "chapter 18"
 weight: 999
-aliases:
-  - "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-18.html"
+url: "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-18.html"
 ---
 
 The Scarecrow was not a bit afraid of King Krewl. Indeed, he rather enjoyed the prospect of conquering the evil King and putting Gloria on the throne of Jinxland in his place. So he advanced boldly to the royal castle and demanded admittance.

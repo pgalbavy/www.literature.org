@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Which?"
 weight: 8
-aliases:
-  - "/authors/alcott-louisa-may/the-mysterious-key-and-what-it-opened/chapter-08.html"
+url: "/authors/alcott-louisa-may/the-mysterious-key-and-what-it-opened/chapter-08.html"
 ---
 
 "A Gentleman, my lady."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-03.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-03.html"
 ---
 
 "Let no flower of the spring pass by us; let us crown ourselves with rosebuds before they be withered." - BOOK OF WISDOM.

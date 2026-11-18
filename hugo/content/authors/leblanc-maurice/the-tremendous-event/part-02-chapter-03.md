@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 3 - Side By Side"
 weight: 12
-aliases:
-  - "/authors/leblanc-maurice/the-tremendous-event/part-02-chapter-03.html"
+url: "/authors/leblanc-maurice/the-tremendous-event/part-02-chapter-03.html"
 ---
 
 The jaded horse was incapable of further service. They had to abandon it, after emptying the saddle-bags and removing the rug, which Dolores wrapped about her like a soldier's cloak.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - How The Dawn Came"
 weight: 31
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-30.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-30.html"
 ---
 
 The dawn broke over Middalhof. Slowly the light gathered in the empty hall, it crept slowly into the little chamber where Eric slept, and Gudruda slept also with a deeper sleep.

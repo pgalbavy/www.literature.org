@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The First Ordeal"
 weight: 8
-aliases:
-  - "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-07.html"
+url: "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-07.html"
 ---
 
 The shaman advanced to my side and asked me courteously how I fared.

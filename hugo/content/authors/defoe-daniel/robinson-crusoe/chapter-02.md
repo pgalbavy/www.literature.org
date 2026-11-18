@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Slavery And Escape"
 weight: 2
-aliases:
-  - "/authors/defoe-daniel/robinson-crusoe/chapter-02.html"
+url: "/authors/defoe-daniel/robinson-crusoe/chapter-02.html"
 ---
 
 THAT evil influence which carried me first away from my father's house - which hurried me into the wild and indigested notion of raising my fortune, and that impressed those conceits so forcibly upon me as to make me deaf to all good advice, and to the entreaties and even the commands of my father - I say, the same influence, whatever it was, presented the most unfortunate of all enterprises to my view; and I went on board a vessel bound to the coast of Africa; or, as our sailors vulgarly called it, a voyage to Guinea.

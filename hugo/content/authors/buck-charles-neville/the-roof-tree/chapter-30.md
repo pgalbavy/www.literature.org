@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-30.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-30.html"
 ---
 
 Sim Squires was finding himself in a most intricate and perplexing maze of circumstance; the situation of the man who wears another man's collar and whose vassalage galls almost beyond endurance.

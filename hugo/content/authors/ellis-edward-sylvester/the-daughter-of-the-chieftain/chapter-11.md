@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - All In Vain"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/the-daughter-of-the-chieftain/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/the-daughter-of-the-chieftain/chapter-11.html"
 ---
 
 I am at some disadvantage in giving an account of the remarkable interview between the little Delaware girl, Linna, and the three hostile warriors who had trailed the Ripleys to the stream in the wilderness across which they had just leaped in the effort to continue their flight from Wyoming to the Upper Delaware.

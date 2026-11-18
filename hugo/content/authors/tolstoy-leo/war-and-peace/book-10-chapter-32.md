@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 32"
 weight: 222
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-32.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-32.html"
 ---
 
 Beside himself with terror Pierre jumped up and ran back to the battery, as to the only refuge from the horrors that surrounded him.

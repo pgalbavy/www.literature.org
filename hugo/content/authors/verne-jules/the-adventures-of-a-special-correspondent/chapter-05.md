@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-05.html"
+url: "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-05.html"
 ---
 
 Travelers used to land at Mikhailov, a little port at the end of the Transcaspian line; but ships of moderate tonnage hardly had water enough there to come alongside. On this account, General Annenkof, the creator of the new railway, the eminent engineer whose name will frequently recur in my narrative, was led to found Uzun Ada, and thereby considerably shorten the crossing of the Caspian. The station was built in three months, and it was opened on the 8th of May, 1886.

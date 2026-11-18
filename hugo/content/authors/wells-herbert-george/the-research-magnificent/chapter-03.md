@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Amanda"
 weight: 4
-aliases:
-  - "/authors/wells-herbert-george/the-research-magnificent/chapter-03.html"
+url: "/authors/wells-herbert-george/the-research-magnificent/chapter-03.html"
 ---
 
 1

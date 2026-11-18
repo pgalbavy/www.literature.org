@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Fight For Timothy"
 weight: 5
-aliases:
-  - "/authors/barrie-james-matthew/the-little-white-bird/chapter-05.html"
+url: "/authors/barrie-james-matthew/the-little-white-bird/chapter-05.html"
 ---
 
 Mary's poor pretentious babe screamed continually, with a note of exultation in his din, as if he thought he was devoting himself to a life of pleasure, and often the last sound I heard as I got me out of the street was his haw-haw-haw, delivered triumphantly as if it were some entirely new thing, though he must have learned it like a parrot. I had not one tear for the woman, but Poor father, thought I; to know that every time your son is happy you are betrayed. Phew, a nauseous draught.

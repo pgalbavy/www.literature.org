@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Thorns Among The Roses"
 weight: 5
-aliases:
-  - "/authors/alcott-louisa-may/rose-in-bloom/chapter-04.html"
+url: "/authors/alcott-louisa-may/rose-in-bloom/chapter-04.html"
 ---
 
 For a time everything went smoothly, and Rose was a happy girl. The world seemed a beautiful and friendly place, and fulfillment of her brightest dreams appeared to be a possibility. Of course this could not last, and disappointment was inevitable, because young eyes look for a Paradise and weep when they find a workaday world which seems full of care and trouble till one learns to gladden and glorify it with high thoughts and holy living.

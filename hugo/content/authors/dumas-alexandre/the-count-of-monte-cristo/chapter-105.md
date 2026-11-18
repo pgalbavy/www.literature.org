@@ -1,8 +1,7 @@
 ---
 title: "Chapter 105 - The Cemetery Of Pere-La-Chaise"
 weight: 105
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-105.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-105.html"
 ---
 
 M. de Boville had indeed met the funeral procession which was taking Valentine to her last home on earth. The weather was dull and stormy, a cold wind shook the few remaining yellow leaves from the boughs of the trees, and scattered them among the crowd which filled the boulevards. M. de Villefort, a true Parisian, considered the cemetery of Pere-la-Chaise alone worthy of receiving the mortal remains of a Parisian family; there alone the corpses belonging to him would be surrounded by worthy associates. He had therefore purchased a vault, which was quickly occupied by members of his family. On the front of the monument was inscribed: "The families of Saint-Meran and Villefort," for such had been the last wish expressed by poor Renee, Valentine's mother. The pompous procession therefore wended its way towards Pere-la-Chaise from the Faubourg Saint-Honore. Having crossed Paris, it passed through the Faubourg du Temple, then leaving the exterior boulevards, it reached the cemetery. More than fifty private carriages followed the twenty mourning-coaches, and behind them more than five hundred persons joined in the procession on foot.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 84 - Pitchpoling"
 weight: 84
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-084.html"
+url: "/authors/melville-herman/moby-dick/chapter-084.html"
 ---
 
 To make them run easily and swiftly, the axles of carriages are anointed; and for much the same purpose, some whalers perform an analogous operation upon their boat; they grease the bottom. Nor is it to be doubted that as such a procedure can do no harm, it may possibly be of no contemptible advantage; considering that oil and water are hostile; that oil is a sliding thing, and that the object in view is to make the boat slide bravely. Queequeg believed strongly in anointing his boat, and one morning not long after the German ship Jungfrau disappeared, took more than customary pains in that occupation; crawling under its bottom, where it hung over the side, and rubbing in the unctuousness as though diligently seeking to insure a crop of hair from the craft's bald keel. He seemed to be working in obedience to some particular presentiment. Nor did it remain unwarranted by the event.

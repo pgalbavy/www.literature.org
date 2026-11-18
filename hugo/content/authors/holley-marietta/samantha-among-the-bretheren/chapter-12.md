@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-12.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-12.html"
 ---
 
 Submit wuz very skairt to heern him go on (she felt more nervous on account of an extra hard day's work), and I myself wuz beat out, but I wuzn't afraid at all of him, though he did go on elegant, and dretful empressive and even skairful.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Letter"
 weight: 7
-aliases:
-  - "/authors/ostrander-isabel/the-crevice/chapter-07.html"
+url: "/authors/ostrander-isabel/the-crevice/chapter-07.html"
 ---
 
 The next morning, when Ramon Hamilton presented himself at Henry Blaine's office in answer to the latter's summons, he found the great detective in a mood more nearly bordering upon excitability than he could remember having witnessed before. Instead of being seated calmly at his desk, his thoughts masked with his usual inscrutable imperturbability, Blaine was pacing restlessly back and forth with the disquietude, not of agitation, but of concentrated, ebullient energy.

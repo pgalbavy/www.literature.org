@@ -1,8 +1,7 @@
 ---
 title: "Chapter 111 - The Pacific"
 weight: 111
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-111.html"
+url: "/authors/melville-herman/moby-dick/chapter-111.html"
 ---
 
 When gliding by the Bashee isles we emerged at last upon the great South Sea; were it not for other things I could have greeted my dear Pacific with uncounted thanks, for now the long supplication of my youth was answered; that serene ocean rolled eastwards from me a thousand leagues of blue.

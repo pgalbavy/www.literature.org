@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/conrad-joseph/almayers-folly/chapter-05.html"
+url: "/authors/conrad-joseph/almayers-folly/chapter-05.html"
 ---
 
 At last the excitement had died out in Sambir. The inhabitants got used to the sight of comings and goings between Almayer's house and the vessel, now moored to the opposite bank, and speculation as to the feverish activity displayed by Almayer's boatmen in repairing old canoes ceased to interfere with the due discharge of domestic duties by the women of the Settlement. Even the baffled Jim-Eng left off troubling his muddled brain with secrets of trade, and relapsed by the aid of his opium pipe into a state of stupefied bliss, letting Babalatchi pursue his way past his house uninvited and seemingly unnoticed.

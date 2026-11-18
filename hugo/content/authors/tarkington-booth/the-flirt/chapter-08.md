@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/tarkington-booth/the-flirt/chapter-08.html"
+url: "/authors/tarkington-booth/the-flirt/chapter-08.html"
 ---
 
 Hedrick Madison, like too many other people, had never thought seriously about the moon; nor ever had he encouraged it to become his familiar; and he underwent his first experience of its incomparable betrayals one brilliant night during the last week of that hot month. The preface to this romantic evening was substantial and prosaic: four times during dinner was he copiously replenished with hash, which occasioned so rich a surfeit within him that, upon the conclusion of the meal, he found himself in no condition to retort appropriately to a solicitous warning from Cora to keep away from the cat. Indeed, it was half an hour later, and he was sitting—to his own consciousness too heavily—upon the back fence, when belated inspiration arrived. But there is no sound where there is no ear to hear, and no repartee, alas! when the wretch who said the first part has gone, so that Cora remained unscathed as from his alley solitude Hedrick hurled in the teeth of the rising moon these bitter words:

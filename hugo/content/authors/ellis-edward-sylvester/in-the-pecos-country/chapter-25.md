@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Within The Earth"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-25.html"
 ---
 
 It was like a terrible dream, and, for an instant or more, during which Fred Munson was descending through the gloom and darkness, he believed it was such indeed; but he was quickly recalled from his error by his arrival at the end of his journey. The truth was that the boy, in crawling beneath the clump of bushes for shelter, would have crawled head first into the mouth of the cave, but for the fact that the ground immediately surrounding the opening gave way beneath his weight before he reached it.

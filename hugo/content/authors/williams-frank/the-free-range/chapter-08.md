@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - For Revenge"
 weight: 8
-aliases:
-  - "/authors/williams-frank/the-free-range/chapter-08.html"
+url: "/authors/williams-frank/the-free-range/chapter-08.html"
 ---
 
 Breakfast next morning at the Bar T ranch was disturbed by the arrival of a cowboy on a lathering, wicked-eyed pony who announced to Stelton that Bud Larkin and his sheep had crossed over into the range. What then occurred is already known, and after Bissell had returned from his final parley with Larkin, he retired sullenly into himself to rage silently.

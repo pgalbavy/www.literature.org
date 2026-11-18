@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - How It Happened"
 weight: 32
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-32.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-32.html"
 ---
 
 When the terrific roar of waters reached the ears of the three Piketon Rangers in their tent, McGovern and Wagstaff started at headlong speed up the right side of the valley toward higher ground, the former succeeding in saving himself with the help of Dick Halliard, while the latter lost his life.

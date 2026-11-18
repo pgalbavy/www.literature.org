@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 2"
 weight: 37
-aliases:
-  - "/authors/cather-willa/my-antonia/book-03-chapter-02.html"
+url: "/authors/cather-willa/my-antonia/book-03-chapter-02.html"
 ---
 
 ONE MARCH EVENING in my sophomore year I was sitting alone in my room after supper. There had been a warm thaw all day, with mushy yards and little streams of dark water gurgling cheerfully into the streets out of old snow-banks. My window was open, and the earthy wind blowing through made me indolent. On the edge of the prairie, where the sun had gone down, the sky was turquoise blue, like a lake, with gold light throbbing in it. Higher up, in the utter clarity of the western slope, the evening star hung like a lamp suspended by silver chains--like the lamp engraved upon the title-page of old Latin texts, which is always appearing in new heavens, and waking new desires in men. It reminded me, at any rate, to shut my window and light my wick in answer. I did so regretfully, and the dim objects in the room emerged from the shadows and took their place about me with the helpfulness which custom breeds.

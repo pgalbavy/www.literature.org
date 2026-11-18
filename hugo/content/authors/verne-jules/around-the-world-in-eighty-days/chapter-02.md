@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-02.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-02.html"
 ---
 
 "Faith," muttered Passepartout, somewhat flurried, "I've seen people at Madame Tussaud's as lively as my new master!"

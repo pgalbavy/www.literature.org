@@ -1,8 +1,7 @@
 ---
 title: "The Wolf And The Fox"
 weight: 191
-aliases:
-  - "/authors/aesop/fables/chapter-189.html"
+url: "/authors/aesop/fables/chapter-189.html"
 ---
 
 AT ONE TIME a very large and strong Wolf was born among the wolves, who exceeded all his fellow-wolves in strength, size, and swiftness, so that they unanimously decided to call him "Lion." The Wolf, with a lack of sense proportioned to his enormous size, thought that they gave him this name in earnest, and, leaving his own race, consorted exclusively with the lions. An old sly Fox, seeing this, said, "May I never make myself so ridiculous as you do in your pride and self-conceit; for even though you have the size of a lion among wolves, in a herd of lions you are definitely a wolf."

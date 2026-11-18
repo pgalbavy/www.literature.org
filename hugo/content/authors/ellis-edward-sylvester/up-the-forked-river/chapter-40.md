@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40"
 weight: 40
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-40.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-40.html"
 ---
 
 Major Jack Starland flashed up the glass and studied the other craft.

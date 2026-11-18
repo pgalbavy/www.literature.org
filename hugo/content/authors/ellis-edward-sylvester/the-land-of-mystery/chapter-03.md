@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Lively Work"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-03.html"
 ---
 
 Now took place an unprecedented incident.

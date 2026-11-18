@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Sawdust And Sin"
 weight: 6
-aliases:
-  - "/authors/grahame-kenneth/the-golden-age/chapter-05.html"
+url: "/authors/grahame-kenneth/the-golden-age/chapter-05.html"
 ---
 
 A BELT of rhododendrons grew close down to one side of our pond; and along the edge of it many things flourished rankly. If you crept through the undergrowth and crouched by the water’s rim, it was easy—if your imagination were in healthy working order—to transport yourself in a trice to the heart of a tropical forest. Overhead the monkeys chattered, parrots flashed from bough to bough, strange large blossoms shone all round you, and the push and rustle of great beasts moving unseen thrilled you deliciously. And if you lay down with your nose an inch or two from the water, it was not long ere the old sense of proportion vanished clean away. The glittering insects that darted to and fro on its surface became sea-monsters dire, the gnats that hung above them swelled to albatrosses, and the pond itself stretched out into a vast inland sea, whereon a navy might ride secure, and whence at any moment the hairy scalp of a sea-serpent might be seen to emerge.

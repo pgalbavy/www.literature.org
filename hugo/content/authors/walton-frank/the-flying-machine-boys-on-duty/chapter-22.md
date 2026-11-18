@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Under The Moonlight"
 weight: 22
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-22.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-22.html"
 ---
 
 “Now there goes the loss of a lot of endeavor!” Jimmie exclaimed, as the Louise lifted into the air.

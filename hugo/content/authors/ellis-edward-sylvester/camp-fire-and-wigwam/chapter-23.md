@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - In The Lodge Of Ogallah"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-23.html"
 ---
 
 From what has been told concerning Deerfoot, the reader knows that the tribe which held Jack Carleton prisoner were Sauks, or Sacs, as the name is often spelled. They belonged to the great Algonquin division, and, when first known to Europeans, inhabited the country near Detroit River and Saginaw Bay, but were driven beyond Lake Michigan by the powerful Iroquois. They themselves were of a restless and warlike nature and were the bitter enemies of the Sioux and Iroquois. They were the allies of the famous war-chief Pontiac who besieged Detroit so long, and, during the Revolution fought on the side of the English. They were closely associated with the Foxes, and frequently moved from one section of the country to another, in which respect they resembled the majority of American Indians.

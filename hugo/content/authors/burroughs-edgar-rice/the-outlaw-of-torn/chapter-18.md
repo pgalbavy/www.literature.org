@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-18.html"
+url: "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-18.html"
 ---
 
 Both horses and men were fairly exhausted from the gruelling strain of many days of marching and fighting, so Norman of Torn went into camp that night; nor did he again take up his march until the second morning, three days after the battle of Lewes.

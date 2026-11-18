@@ -1,8 +1,7 @@
 ---
 title: "Book 14 - Chapter 2"
 weight: 300
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-14-chapter-02.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-14-chapter-02.html"
 ---
 
 One of the most obvious and advantageous departures from the so-called laws of war is the action of scattered groups against men pressed together in a mass. Such action always occurs in wars that take on a national character. In such actions, instead of two crowds opposing each other, the men disperse, attack singly, run away when attacked by stronger forces, but again attack when opportunity offers. This was done by the guerrillas in Spain, by the mountain tribes in the Caucasus, and by the Russians in 1812.

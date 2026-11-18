@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 15 - A Deed Of Gift"
 weight: 31
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-15.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-15.html"
 ---
 
 Wingrave threw the paper aside with an impatient exclamation. A small notice in an obscure corner had attracted his attention; the young man, Richardson, had been fished out of the river half drowned, and in view of his tearful and abject penitence, had been allowed to go his way by a lenient magistrate. He had been ill, he pleaded, and disappointed. His former employer, in an Islington emporium, gave him a good character, and offered to take him back. So that was an end of Mr. Richardson, and the romance of his days!

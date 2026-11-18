@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 2"
 weight: 10
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-02-chapter-02.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-02-chapter-02.html"
 ---
 
 "And what if there has been a search already? What if I find them in my room?"

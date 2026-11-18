@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Rimrock Explains"
 weight: 14
-aliases:
-  - "/authors/coolidge-dane/rimrock-jones/chapter-14.html"
+url: "/authors/coolidge-dane/rimrock-jones/chapter-14.html"
 ---
 
 It had not taken long, after his triumphant homecoming, for Rimrock to wreck his own happiness. That old rift between them, regarding the law, had been opened the very first day; and it was not a difference that could be explained and adjusted, for neither would concede they were wrong. As the daughter of a judge, conservatively brought up in a community where an outlaw was abhorred, Mary Fortune could no more agree to his program than he could agree to hers. She respected the law and she turned to the law, instinctively, to right every wrong; but he from sad experience knew what a broken reed it was, compared to his gun and his good right hand. The return to Gunsight was a gloomy affair, but nothing was said of the Old Juan. Abercrombie Jepson guessed, and rightly, that his company was not desired; and they who had set out with the joy of lovers rode back absent-minded and distrait. But the question of the Old Juan was a vital problem, involving other interests beside theirs, and in the morning there was a telegram from Whitney H. Stoddard requesting that the matter be cleared up. Rimrock read it in the office where Mary sat at work and threw it carelessly down on her desk.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-07.html"
+url: "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-07.html"
 ---
 
 THE cruiser Vanator careened through the tempest That she had not been dashed to the ground, or twisted by the force of the elements into tangled wreckage, was due entirely to the caprice of Nature. For all the duration of the storm she rode, a helpless derelict, upon those storm-tossed waves of wind. But for all the dangers and vicissitudes they underwent, she and her crew might have borne charmed lives up to within an hour of the abating of the hurricane. It was then that the catastrophe occurred--a catastrophe indeed to the crew of the Vanator and the kingdom of Gathol.

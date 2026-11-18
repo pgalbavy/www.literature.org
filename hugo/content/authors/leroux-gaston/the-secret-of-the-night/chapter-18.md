@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - A Singular Experience"
 weight: 18
-aliases:
-  - "/authors/leroux-gaston/the-secret-of-the-night/chapter-18.html"
+url: "/authors/leroux-gaston/the-secret-of-the-night/chapter-18.html"
 ---
 
 The five minutes ticked away and the watch commenced to strike the hour’s seven strokes. Did it sound the death of Rouletabille? Perhaps not! For at the first silver tinkle they saw Rouletabille shake himself, and raise his head, with his face alight and his eyes shining. They saw him stand up, spread out his arms and cry:

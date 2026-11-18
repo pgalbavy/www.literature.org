@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-05.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-05.html"
 ---
 
 Lord Romsey, after his luncheon-party, spent an hour at his official residence in Whitehall and made two other calls on his way home. His secretary met him in the spacious hall of his house in Portland Square, a few moments after he had resigned his coat and hat to the footman.

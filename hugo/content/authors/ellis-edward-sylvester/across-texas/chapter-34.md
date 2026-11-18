@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - A Strange Discovery"
 weight: 34
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-34.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-34.html"
 ---
 
 *BELDEN RICKARD* understood business customs much better than the simple-hearted trapper, though it will be admitted that the latter managed his part with cleverness. He had expected to agree upon a ransom of five thousand dollars at the least, and it has been shown that Herbert Watrous was willing, under stress, to advance double that sum for the release of his friend; but the amount was fixed at one thousand, which is far below the usual rates.

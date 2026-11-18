@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - A Sweet Tooth"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-21.html"
 ---
 
 After his ride on old dog Spot, Major Monkey went to the henhouse for eggs even oftener than he had gone before.

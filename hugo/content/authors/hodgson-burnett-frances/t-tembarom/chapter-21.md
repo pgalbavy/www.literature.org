@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-21.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-21.html"
 ---
 
 Lady Mallowe and her daughter did not pay their visit to Asshawe Holt, the absolute, though not openly referred to, fact being that they had not been invited. The visit in question had merely floated in the air as a delicate suggestion made by her ladyship in her letter to Mrs. Asshe Shaw, to the effect that she and Joan were going to stay at Temple Barholm, the visit to Asshawe they had partly arranged some time ago might now be fitted in.

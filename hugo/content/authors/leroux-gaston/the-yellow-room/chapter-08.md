@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Examining Magistrate Questions Mademoiselle Stangerson"
 weight: 8
-aliases:
-  - "/authors/leroux-gaston/the-yellow-room/chapter-08.html"
+url: "/authors/leroux-gaston/the-yellow-room/chapter-08.html"
 ---
 
 Two minutes later, as Rouletabille was bending over the footprints discovered in the park, under the window of the vestibule, a man, evidently a servant at the chateau, came towards us rapidly and called out to Monsieur Darzac then coming out of the pavilion:

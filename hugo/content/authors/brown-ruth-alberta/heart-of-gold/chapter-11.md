@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Doctor Dick"
 weight: 11
-aliases:
-  - "/authors/brown-ruth-alberta/heart-of-gold/chapter-11.html"
+url: "/authors/brown-ruth-alberta/heart-of-gold/chapter-11.html"
 ---
 
 It was Christmas Day, but the Campbell house was very still. All sounds of revelry and mirth were hushed, for Peace, worn out by her long struggle with pain, had wakened only long enough to view the many gifts heaped about her cot, and then sleep had claimed her again. So the two younger girls had been despatched to the Hill Street parsonage, where St. John and Elspeth were having a Christmas tree for Glen and tiny Bessie; and the three older sisters settled down to a quiet day at home, refusing all invitations from their many friends, because of a nameless fear that tugged at each breast, a feeling that perhaps they might be needed before the day was done.

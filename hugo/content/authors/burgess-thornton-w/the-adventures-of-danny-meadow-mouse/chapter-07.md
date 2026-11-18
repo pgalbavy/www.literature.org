@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Old Granny Fox Tries A New Plan"
 weight: 7
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-07.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-07.html"
 ---
 
 *OLD* Granny Fox kept thinking about Danny Meadow Mouse. She knew that he was fat, and it made her mouth water every time she thought of him. She made up her mind that she must and would have him. She knew that Danny had been very, very much frightened when she and Reddy Fox had tried so hard to catch him by plunging down through the snow into his little tunnels after him, and she felt pretty sure that he wouldn’t go far away from the old fence-post, in the hollow of which he was snug and safe.

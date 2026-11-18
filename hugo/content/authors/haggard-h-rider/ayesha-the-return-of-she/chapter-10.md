@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - In The Shaman’s Chamber"
 weight: 11
-aliases:
-  - "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-10.html"
+url: "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-10.html"
 ---
 
 One night Simbri asked us to dine with him in his own apartments in the highest tower of the palace--had we but known it, for us a fateful place indeed, for here the last act of the mighty drama was destined to be fulfilled. So we went, glad enough of any change. When we had eaten Leo grew very thoughtful, then said suddenly--“Friend Simbri, I wish to ask a favour of you--that you will beg the Khania to let us go our ways.”

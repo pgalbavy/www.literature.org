@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - What Could Peter Do?"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-10.html"
 ---
 
 Peter Mink was pulling Jimmy Rabbit up the mountainside. You remember that Jimmy had a new sled, and that Peter had nailed Jimmy's trousers to the sled, so he wouldn't fall off when he slid down Blue Mountain. But when Jimmy had coasted down into the meadow he found he could not get off the sled. So Peter Mink had offered to help him, if Jimmy would give him the sled in return for his kindness.

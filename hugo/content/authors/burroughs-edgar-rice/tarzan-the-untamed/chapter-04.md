@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - When The Lion Fed"
 weight: 4
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-04.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-04.html"
 ---
 
 Kudu, the sun, was well up in the heavens when Tarzan awoke. The ape-man stretched his giant limbs, ran his fingers through his thick hair, and swung lightly down to earth. Immediately he took up the trail he had come in search of, following it by scent down into a deep ravine. Cautiously he went now, for his nose told him that the quarry was close at hand, and presently from an overhanging bough he looked down upon Horta, the boar, and many of his kinsmen. Un- slinging his bow and selecting an arrow, Tarzan fitted the shaft and, drawing it far back, took careful aim at the largest of the great pigs. In the ape-man's teeth were other arrows, and no sooner had the first one sped, than he had fitted and shot another bolt. Instantly the pigs were in turmoil, not knowing from whence the danger threatened. They stood stupidly at first and then commenced milling around until six of their number lay dead or dying about them; then with a chorus of grunts and squeals they started off at a wild run, disappearing quickly in the dense underbrush.

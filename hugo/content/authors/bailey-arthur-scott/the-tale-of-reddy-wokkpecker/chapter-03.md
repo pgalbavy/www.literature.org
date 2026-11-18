@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Morning Tattoos"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-03.html"
 ---
 
 In the spring Reddy Woodpecker liked to drum.

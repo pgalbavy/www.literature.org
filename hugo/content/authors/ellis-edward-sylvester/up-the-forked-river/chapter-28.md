@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-28.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-28.html"
 ---
 
 In his haste General Yozarro had given no orders to secure the tugboat in place, nor was there need of doing so. The water was deep enough to permit the craft to lie against the bank, where it was held by the gentle turning of the screw. With a few more vigorous revolutions, the prow would have gouged into the bank, or taken the boat into the river on the proper direction of the wheel.

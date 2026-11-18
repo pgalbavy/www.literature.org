@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Castle And No Dinner"
 weight: 6
-aliases:
-  - "/authors/nesbit-edith/five-children-and-it/chapter-06.html"
+url: "/authors/nesbit-edith/five-children-and-it/chapter-06.html"
 ---
 
 The others were to be kept in as a punishment for the misfortunes of the day before. Of course Martha thought it was naughtiness, and not misfortune - so you must not blame her. She only thought she was doing her duty. You know grown-up people often say they do not like to punish you, and that they only do it for your own good, and that it hurts them as much as it hurts you - and this is really very often the truth.

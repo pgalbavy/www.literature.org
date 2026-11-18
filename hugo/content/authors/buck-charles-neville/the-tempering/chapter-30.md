@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-30.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-30.html"
 ---
 
 A moment later the two men stood with their hands clasped, and the face of the younger was aglow with such delight as can come only from a happy windfall out of the unexpected.

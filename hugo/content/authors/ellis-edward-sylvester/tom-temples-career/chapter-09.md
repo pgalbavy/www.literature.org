@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Dog And His Master"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-09.html"
 ---
 
 *TOM HAD* been in the woods, where by good fortune he had cut a stout stick with a thick, gnarled top, something like the top of a cane. Armed with this weapon, he rushed between Mary and her pursuer, and brought down the knob with full force on the dog’s back. The attention of the furious animal—a large bull-dog—was diverted to his assailant. With a fierce howl he rushed upon Tom. But our hero was wary and expected the attack. He jumped on one side and brought down the stick with terrible force upon the dog’s head. The animal fell, partially stunned, his quivering tongue protruding from his mouth.

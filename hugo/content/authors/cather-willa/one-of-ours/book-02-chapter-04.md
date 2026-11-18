@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 4"
 weight: 23
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-02-chapter-04.html"
+url: "/authors/cather-willa/one-of-ours/book-02-chapter-04.html"
 ---
 
 Ernest Havel was cultivating his bright, glistening young cornfield one summer morning, whistling to himself an old German song which was somehow connected with a picture that rose in his memory. It was a picture of the earliest ploughing he could remember.

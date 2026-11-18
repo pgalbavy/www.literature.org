@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Bad News"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-10.html"
 ---
 
 When Johnnie Green fastened the tin can to the tree in the dooryard he couldn't have picked out a better spot for it. Of course, he hoped that a pair of wrens would build their nest inside the syrup can. But what he never dreamed was that the cherry tree was exactly the sort of tree that wrens liked.

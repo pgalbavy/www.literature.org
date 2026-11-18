@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Mr. Parcher And Love"
 weight: 10
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-10.html"
+url: "/authors/tarkington-booth/seventeen/chapter-10.html"
 ---
 
 Mr. Parcher, that unhappy gentleman, having been driven indoors from his own porch, had attempted to read Plutarch's Lives in the library, but, owing to the adjacency of the porch and the summer necessity for open windows, his escape spared only his eyes and not his suffering ears. The house was small, being but half of a double one, with small rooms, and the "parlor," library, and dining-room all about equally exposed to the porch which ran along the side of the house. Mr. Parcher had no refuge except bed or the kitchen, and as he was troubled with chronic insomnia, and the cook had callers in the kitchen, his case was desperate. Most unfortunately, too, his reading-lamp, the only one in the house, was a fixture near a window, and just beyond that window sat Miss Pratt and William in sweet unconsciousness, while Miss Parcher entertained the overflow (consisting of Mr. Johnnie Watson) at the other end of the porch. Listening perforce to the conversation of the former couple though "conversation" is far from the expression later used by Mr. Parcher to describe what he heard—he found it impossible to sit still in his chair. He jerked and twitched with continually increasing restlessness; sometimes he gasped, and other times he moaned a little, and there were times when he muttered huskily.

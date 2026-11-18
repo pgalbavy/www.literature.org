@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - The Escape From The Catacombs"
 weight: 38
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-37.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-37.html"
 ---
 
 M. *THEOPHRASTE LONGUET* had by this time quite forgotten the ties which bound him to the world above, and while M. Mifroid was abandoning himself to the fancies of Lady de Montfort, he was indulging in excesses of debauchery with the Talfa people.

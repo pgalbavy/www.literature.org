@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 36
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-36.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-36.html"
 ---
 
 "London, too, has its scars, and London is proud of them," a great morning paper declared the next morning. "The last and gigantic effort of German 'frightfulness' has come and passed. London was visited before dawn this morning by a fleet of sixteen Zeppelins and forty aeroplanes. Seven of these former monsters lie stranded and wrecked in various parts of the city, two are known to have collapsed in Essex, and another is reported to have come to grief in Norfolk. Of the aeroplanes, nineteen were shot down, and of the rest so far no news has been heard. The damage to life and property, great though it may seem, is much less than was expected. Such losses as we have sustained we shall bear with pride and fortitude. We stand now more closely than ever in touch with our gallant allies. We, too, bear the marks of battle in the heart of our country."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Dog In The Cavern"
 weight: 22
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-22.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-22.html"
 ---
 
 When Ben returned with DuBois, Mr. Havens regarded the Englishman quizzically for a moment before speaking.

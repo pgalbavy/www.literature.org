@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Patrice And Coralie"
 weight: 9
-aliases:
-  - "/authors/leblanc-maurice/the-golden-triangle/chapter-09.html"
+url: "/authors/leblanc-maurice/the-golden-triangle/chapter-09.html"
 ---
 
 Everything happened as M. Masseron had foretold. The press did not speak. The public did not become excited. The various deaths were casually paragraphed. The funeral of Essarès Bey, the wealthy banker, passed unnoticed.

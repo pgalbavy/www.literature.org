@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Cheater Cheated"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-04.html"
 ---
 
 Johnnie Green thought he had done something quite clever. He had coaxed Twinkleheels up to him in the pasture with an empty grain measure.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-05.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-05.html"
 ---
 
 Phileas Fogg rightly suspected that his departure from London would create a lively sensation at the West End. The news of the bet spread through the Reform Club, and afforded an exciting topic of conversation to its members. From the club it soon got into the papers throughout England. The boasted "tour of the world" was talked about, disputed, argued with as much warmth as if the subject were another Alabama claim. Some took sides with Phileas Fogg, but the large majority shook their heads and declared against him; it was absurd, impossible, they declared, that the tour of the world could be made, except theoretically and on paper, in this minimum of time, and with the existing means of travelling. The Times, Standard, Morning Post, and Daily News, and twenty other highly respectable newspapers scouted Mr. Fogg's project as madness; the Daily Telegraph alone hesitatingly supported him. People in general thought him a lunatic, and blamed his Reform Club friends for having accepted a wager which betrayed the mental aberration of its proposer.

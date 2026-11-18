@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Cuffy Likes Baked Beans"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-14.html"
 ---
 
 Cuffy Bear found many good things in Farmer Green's lunch basket. He bolted all the bread-and-butter, and the doughnuts; and he found the custard pie to be about as enjoyable as any dainty he had ever tasted. And then, with his little black face all smeared with streaks of yellow custard, Cuffy began to poke a small iron pot which stood in one corner of the big basket. Presently the pot tipped over, its cover fell off, and soon Cuffy was devouring the daintiest dish of all! Baked beans! Of course, he didn't know the name of those delicious, brown, mealy kernels. But that made no difference at all to Cuffy. So long as he liked what he was eating the name of it never troubled him. The only thing that annoyed Cuffy now was that the pot was not bigger. There were still a few beans which clung to the bottom; and try as he would, Cuffy could not reach them, even with his tongue.

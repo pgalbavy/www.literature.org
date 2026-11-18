@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - \u0026quot;Not I,\u0026quot; Said She. \u0026quot;There Thou Mayst Trust Me. I Would Not Be Found Out.\u0026quot;"
 weight: 6
-aliases:
-  - "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-05.html"
+url: "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-05.html"
 ---
 
 She went no more a-hunting in boy's clothes, but from this time forward wore brocades and paduasoys, fine lawn and lace. Her tirewoman was kept so busily engaged upon making rich habits, fragrant waters and essences, and so running at her bidding to change her gown or dress her head in some new fashion, that her life was made to her a weighty burden to bear, and also a painful one. Her place had before been an easy one but for her mistress's choleric temper, but it was so no more. Never had young lady been so exacting and so tempestuous when not pleased with the adorning of her face and shape. In the presence of polite strangers, whether ladies or gentlemen, Mistress Clorinda in these days chose to chasten her language and give less rein to her fantastical passions, but alone in her closet with her woman, if a riband did but not suit her fancy, or a hoop not please, she did not fear to be as scurrilous as she chose. In this discreet retirement she rapped out oaths and boxed her woman's ears with a vigorous hand, tore off her gowns and stamped them beneath her feet, or flung pots of pomade at the poor woman's head. She took these freedoms with such a readiness and spirit that she was served with a despatch and humbleness scarcely to be equalled, and, it is certain, never excelled.

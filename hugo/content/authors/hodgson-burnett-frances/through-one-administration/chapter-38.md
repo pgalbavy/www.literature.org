@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38"
 weight: 38
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-38.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-38.html"
 ---
 
 He went home quite eager for the fray, and his eagerness was not allowed to flag. The favorite story came to his ears again and again. Men met him in the streets, and stopped to speak of it; others dropped into his rooms to hear the truth from himself, when he went to his hotel to dine; talkers standing in groups in the lobbies turned to look at him, and when he had passed them returned to their conversation with renewed interest. To the first man who referred to the matter he listened until he had said his say. Then he answered him.

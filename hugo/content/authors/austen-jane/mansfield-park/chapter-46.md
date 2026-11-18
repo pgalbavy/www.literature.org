@@ -1,8 +1,7 @@
 ---
 title: "Chapter 46"
 weight: 46
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-46.html"
+url: "/authors/austen-jane/mansfield-park/chapter-46.html"
 ---
 
 As Fanny could not doubt that her answer was conveying a real disappointment, she was rather in expectation, from her knowledge of Miss Crawford's temper, of being urged again; and though no second letter arrived for the space of a week, she had still the same feeling when it did come.

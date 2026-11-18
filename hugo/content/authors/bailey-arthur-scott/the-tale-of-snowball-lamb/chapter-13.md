@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Follow My Leader"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-13.html"
 ---
 
 There was one game of which Farmer Green's sheep never seemed to tire. They called it "Follow My Leader." And even the oldest members of the flock played it every day. Though they had grand-children--many of them--and were quite solemn and sedate, they still continued to run anywhere whenever somebody happened to lead the way.

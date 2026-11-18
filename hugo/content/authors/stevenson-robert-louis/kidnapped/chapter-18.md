@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - I Talk With Alan In The Wood Of Lettermore"
 weight: 19
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-18.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-18.html"
 ---
 
 Alan was the first to come round. He rose, went to the border of the wood, peered out a little, and then returned and sat down.

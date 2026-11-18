@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Some Smolderings"
 weight: 7
-aliases:
-  - "/authors/daviess-maria-thompson/the-tinderbox/chapter-07.html"
+url: "/authors/daviess-maria-thompson/the-tinderbox/chapter-07.html"
 ---
 
 I'm a failure! Yes, Jane, I am!

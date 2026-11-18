@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-27.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-27.html"
 ---
 
 Mr. SABIN drew a little breath, partly of satisfaction because he had discovered the place he sought, and partly of disgust at the neighbourhood in which he found himself. Nevertheless, he descended three steps from the court into which he had been directed, and pushed open the swing door, behind which Emil Sachs announced his desire to supply the world with dinners at eightpence and vin ordinaire at fourpence the small bottle.

@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 3 - Providence Von Rosen: Act The Last In Which She Gallops Off"
 weight: 23
-aliases:
-  - "/authors/stevenson-robert-louis/prince-otto/book-03-chapter-03.html"
+url: "/authors/stevenson-robert-louis/prince-otto/book-03-chapter-03.html"
 ---
 
 When the busy Countess came forth from her interview with Seraphina, it is not too much to say that she was beginning to be terribly afraid. She paused in the corridor and reckoned up her doings with an eye to Gondremark. The fan was in requisition in an instant; but her disquiet was beyond the reach of fanning. ‘The girl has lost her head,’ she thought; and then dismally, ‘I have gone too far.’ She instantly decided on secession. Now the Mons Sacer of the Frau von Rosen was a certain rustic villa in the forest, called by herself, in a smart attack of poesy, Tannen Zauber, and by everybody else plain Kleinbrunn.

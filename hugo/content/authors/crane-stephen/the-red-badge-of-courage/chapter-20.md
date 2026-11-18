@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/crane-stephen/the-red-badge-of-courage/chapter-20.html"
+url: "/authors/crane-stephen/the-red-badge-of-courage/chapter-20.html"
 ---
 
 WHEN the two youths turned with the flag they saw that much of the regiment had crum- bled away, and the dejected remnant was coming slowly back. The men, having hurled themselves in projectile fashion, had presently expended their forces. They slowly retreated, with their faces still toward the spluttering woods, and their hot rifles still replying to the din. Several officers were giving orders, their voices keyed to screams.

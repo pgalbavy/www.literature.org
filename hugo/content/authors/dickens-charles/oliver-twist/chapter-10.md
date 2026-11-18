@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Oliver Becomes Better Acquainted With The Characters Of His New Associates; And Purchases Experience At A High Price. Being A Short, But Very Important Chapter, In This History"
 weight: 10
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-10.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-10.html"
 ---
 
 For many days, Oliver remained in the Jew's room, picking the marks out of the pocket-handkerchief, (of which a great number were brought home,) and sometimes taking part in the game already described: which the two boys and the Jew played, regularly, every morning. At length, he began to languish for fresh air, and took many occasions of earnestly entreating the old gentleman to allow him to go out to work with his two companions.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Paulina"
 weight: 2
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-02.html"
+url: "/authors/bronte-charlotte/villette/chapter-02.html"
 ---
 
 Some days elapsed, and it appeared she was not likely to take much of a fancy to anybody in the house. She was not exactly naughty or wilful: she was far from disobedient; but an object less conducive to comfort - to tranquillity even - than she presented, it was scarcely possible to have before one's eyes. She moped: no grown person could have performed that uncheering business better; no furrowed face of adult exile, longing for Europe at Europe's antipodes, ever bore more legibly the signs of home sickness than did her infant visage. She seemed growing old and unearthly. I, Lucy Snowe, plead guiltless of that curse, an overheated and discursive imagination; but whenever, opening a room-door, I found her seated in a corner alone, her head in her pigmy hand, that room seemed to me not inhabited, but haunted.

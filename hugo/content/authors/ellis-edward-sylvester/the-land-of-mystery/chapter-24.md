@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Young Love's Dream"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-24.html"
 ---
 
 What in all the world so sweet as young love's dream? It is the old, old story, and yet it is as new and fresh and blissful to the soul as it will be to the end of time, or until these natures of ours are changed by the same Hand that framed them.

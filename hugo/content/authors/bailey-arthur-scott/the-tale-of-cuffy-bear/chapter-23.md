@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Cuffy Bear Grows Sleepy"
 weight: 23
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-23.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-23.html"
 ---
 
 Far up Blue Mountain, and down in the valley too, the leaves had long ago fallen off the trees. And for some time the ground had been white with snow; for winter had come again. And Cuffy Bear's sister Silkie had had a birthday-party the very first day it snowed. Cuffy and Silkie shouted with glee each morning now, when they went out of doors, where the earth was covered with a snow-blanket. And they played and played and had just as good a time as little boys and girls have when winter comes. As they scampered about in the door-yard their feet left tracks that looked exactly like the foot-prints of barefooted girls and boys. They played tag, and hide-and-seek, and turned somersaults. And one day, when Mrs. Bear called them into the house, they ate, each of them, several quarts of chestnuts which Mr. Bear had gathered and brought home. In fact, before Mrs. Bear knew it they had eaten a great many more chestnuts than were good for them. And Cuffy, who had eaten the most, soon began to have a pain in his stomach.

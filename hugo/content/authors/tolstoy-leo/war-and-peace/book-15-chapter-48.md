@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 48"
 weight: 365
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-48.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-48.html"
 ---
 
 From the time the law of Copernicus was discovered and proved, the mere recognition of the fact that it was not the sun but the earth that moves sufficed to destroy the whole cosmography of the ancients. By disproving that law it might have been possible to retain the old conception of the movements of the bodies, but without disproving it, it would seem impossible to continue studying the Ptolemaic worlds. But even after the discovery of the law of Copernicus the Ptolemaic worlds were still studied for a long time.

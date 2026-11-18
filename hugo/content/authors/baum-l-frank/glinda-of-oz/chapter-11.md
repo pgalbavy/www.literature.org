@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/baum-l-frank/glinda-of-oz/chapter-11.html"
+url: "/authors/baum-l-frank/glinda-of-oz/chapter-11.html"
 ---
 
 Queen Coo-ee-oh dropped the rope, tottered and fell headlong into the water, sinking beneath the surface, while the Skeezers in the submarine assist her and only stared at the ripples in the water where she had disappeared. A moment later there arose to the surface a beautiful White Swan. This Swan was of large size, very gracefully formed, and scattered all over its white feathers were tiny diamonds, so thickly placed that as the rays of the morning sun fell upon them the entire body of the Swan glistened like one brilliant diamond. The head of the Diamond Swan had a bill of polished gold and its eyes were two sparkling amethysts.

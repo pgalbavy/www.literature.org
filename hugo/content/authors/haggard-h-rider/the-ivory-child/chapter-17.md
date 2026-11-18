@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Sanctuary And The Oath"
 weight: 17
-aliases:
-  - "/authors/haggard-h-rider/the-ivory-child/chapter-17.html"
+url: "/authors/haggard-h-rider/the-ivory-child/chapter-17.html"
 ---
 
 That evening shortly after sundown the three of us started boldly from our house wearing over our clothes the Kendah dresses which Ragnall had bought, and carrying nothing save sticks in our hands, some food and the lantern in our pockets. On the outskirts of the town we were met by certain Kendah, one of whom I knew, for I had often ridden by his side on our march across the desert.

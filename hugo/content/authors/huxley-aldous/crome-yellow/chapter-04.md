@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/huxley-aldous/crome-yellow/chapter-04.html"
+url: "/authors/huxley-aldous/crome-yellow/chapter-04.html"
 ---
 
 Denis woke up next morning to find the sun shining, the sky serene. He decided to wear white flannel trousers—white flannel trousers and a black jacket, with a silk shirt and his new peach-coloured tie. And what shoes? White was the obvious choice, but there was something rather pleasing about the notion of black patent leather. He lay in bed for several minutes considering the problem.

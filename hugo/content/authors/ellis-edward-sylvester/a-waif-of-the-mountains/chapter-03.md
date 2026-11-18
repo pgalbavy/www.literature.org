@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - A Slip Or Two"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-03.html"
 ---
 
 The blizzard gradually subsided toward morning, but when the fall of snow ceased, it lay to the depth of several feet on the level, while the gorges were choked with vast drifts. The cold was below zero and no work could be done in the diggings until a rise in temperature came.

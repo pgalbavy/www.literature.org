@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - \"See Dere!\""
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-scout/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-18.html"
 ---
 
 Lieutenant James Decker had been warned more than once by the older and more experienced officers of his regiment that, sooner or later, his ardor would bring him to grief. He was so eager for a brush with the Apaches, that he charged headlong into the affray, forgetful that the foe was the most cunning, brave and skillful of any tribe on the American continent.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Blackie Gets Out"
 weight: 4
-aliases:
-  - "/authors/barnum-richard/blackie-a-lost-cat/chapter-04.html"
+url: "/authors/barnum-richard/blackie-a-lost-cat/chapter-04.html"
 ---
 
 Blackie was quite a wise cat in her way. When she had been a little kitten in the country, with her mother, her brothers and sisters, she had learned many country things, such as all cats must learn. And when she had been brought to the city she learned some city things. So you see she had been educated, you might say, to country life and city life.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Garlands Of Autumn"
 weight: 2
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-02.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-02.html"
 ---
 
 The following week sped swiftly, crowded with innumerable "last things," as Anne called them. Good-bye calls had to be made and received, being pleasant or otherwise, according to whether callers and called-upon were heartily in sympathy with Anne's hopes, or thought she was too much puffed-up over going to college and that it was their duty to "take her down a peg or two."

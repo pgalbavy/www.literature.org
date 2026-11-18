@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Lightfoot Butts A Boy"
 weight: 6
-aliases:
-  - "/authors/barnum-richard/lightfoot-the-leaping-goat/chapter-06.html"
+url: "/authors/barnum-richard/lightfoot-the-leaping-goat/chapter-06.html"
 ---
 
 When Mike had quieted his joy and happiness down a bit, he explained to his mother how it had come about. It seemed that as he was driving Lightfoot about, hitched to the cart, and giving a number of children a ride on a quiet street, a man had come up to Mike.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 7 - They Return"
 weight: 7
-aliases:
-  - "/authors/forster-e-m/a-room-with-a-view/part-01-chapter-07.html"
+url: "/authors/forster-e-m/a-room-with-a-view/part-01-chapter-07.html"
 ---
 
 Some complicated game had been playing up and down the hillside all the afternoon. What it was and exactly how the players had sided, Lucy was slow to discover. Mr. Eager had met them with a questioning eye. Charlotte had repulsed him with much small talk. Mr. Emerson, seeking his son, was told whereabouts to find him. Mr. Beebe, who wore the heated aspect of a neutral, was bidden to collect the factions for the return home. There was a general sense of groping and bewilderment. Pan had been amongst them--not the great god Pan, who has been buried these two thousand years, but the little god Pan, who presides over social contretemps and unsuccessful picnics. Mr. Beebe had lost everyone, and had consumed in solitude the tea-basket which he had brought up as a pleasant surprise. Miss Lavish had lost Miss Bartlett. Lucy had lost Mr. Eager. Mr. Emerson had lost George. Miss Bartlett had lost a mackintosh square. Phaethon had lost the game.

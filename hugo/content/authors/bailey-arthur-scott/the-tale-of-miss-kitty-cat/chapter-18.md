@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Kidnapped"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-18.html"
 ---
 
 THERE was great rejoicing among all the Mouse family. Pudgy Mr. Moses Mouse had picked up a bit of news that delighted him and his wife and all their many relations. Somebody had stolen Miss Snooper--as the Mouse family always called Miss Kitty Cat! Somebody had taken her away!

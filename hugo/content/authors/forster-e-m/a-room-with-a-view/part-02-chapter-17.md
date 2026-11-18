@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 17 - Lying To Cecil"
 weight: 18
-aliases:
-  - "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-17.html"
+url: "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-17.html"
 ---
 
 He was bewildered. He had nothing to say. He was not even angry, but stood, with a glass of whiskey between his hands, trying to think what had led her to such a conclusion.

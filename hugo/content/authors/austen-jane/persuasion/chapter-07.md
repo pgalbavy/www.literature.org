@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/austen-jane/persuasion/chapter-07.html"
+url: "/authors/austen-jane/persuasion/chapter-07.html"
 ---
 
 A very few days more, and Captain Wentworth was known to be at Kellynch, and Mr Musgrove had called on him, and come back warm in his praise, and he was engaged with the Crofts to dine at Uppercross, by the end of another week. It had been a great disappointment to Mr Musgrove to find that no earlier day could be fixed, so impatient was he to shew his gratitude, by seeing Captain Wentworth under his own roof, and welcoming him to all that was strongest and best in his cellars. But a week must pass; only a week, in Anne's reckoning, and then, she supposed, they must meet; and soon she began to wish that she could feel secure even for a week.

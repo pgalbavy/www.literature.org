@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-23.html"
+url: "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-23.html"
 ---
 
 The letter was written in the cramped hand of Brother Spencer. Through its faulty diction ran a plainly discernible undernote of disapproval for Samson, though there was no word of reproof or criticism. It was plain that it was sent as a matter of courtesy to one who, having proven an apostate, scarcely merited such consideration. It informed him that old Spicer South had been "mighty porely," but was now better, barring the breaking of age. Every one was "tolerable." Then came the announcement which the letter had been written to convey.

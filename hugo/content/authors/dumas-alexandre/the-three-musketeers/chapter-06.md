@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - His Majesty King Louis XIII"
 weight: 7
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-06.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-06.html"
 ---
 
 This affair made a great noise. M. de Treville scolded his Musketeers in public, and congratulated them in private; but as no time was to be lost in gaining the king, M. de Treville hastened to report himself at the Louvre. It was already too late. The king was closeted with the cardinal, and M. de Treville was informed that the king was busy and could not receive him at that moment. In the evening M. de Treville attended the king's gaming table. The king was winning; and as he was very avaricious, he was in an excellent humor. Perceiving M. de Treville at a distance -

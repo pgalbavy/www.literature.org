@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - On The Shelf"
 weight: 38
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-38.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-38.html"
 ---
 
 In France the young girls have a dull time of it till they are married, when 'Vive la liberte!' becomes their motto. In America, as everyone knows, girls early sign the declaration of independence, and enjoy their freedom with republican zest, but the young matrons usually abdicate with the first heir to the throne and go into a seclusion almost as close as a French nunnery, though by no means as quiet. Whether they like it or not, they are virtually put upon the shelf as soon as the wedding excitement is over, and most of them might exclaim, as did a very pretty woman the other day, "I'm as handsome as ever, but no one takes any notice of me because I'm married."

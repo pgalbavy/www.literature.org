@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 34
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-34.html"
+url: "/authors/dickens-charles/great-expectations/chapter-34.html"
 ---
 
 A s I had grown accustomed to my expectations, I had insensibly begun to notice their effect upon myself and those around me. Their influence on my own character, I disguised from my recogni- tion as much as possible, but I knew very well that it was not all good. I lived in a state of chronic uneasiness respecting my behaviour to Joe. My conscience was not by any means com- fortable about Biddy. When I woke up in the night-- like Camilla -- I used to think, with a weariness on my spirits, that I should have been happier and better if I had never seen Miss Havisham's face, and had risen to manhood content to be partners with Joe in the honest old forge. Many a time of an evening, when I sat alone looking at the fire, I thought, after all, there was no fire like the forge fire and the kitchen fire at home.

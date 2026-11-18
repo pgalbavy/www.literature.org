@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The New Haroun Al Raschid"
 weight: 7
-aliases:
-  - "/authors/wells-herbert-george/the-research-magnificent/chapter-06.html"
+url: "/authors/wells-herbert-george/the-research-magnificent/chapter-06.html"
 ---
 
 1

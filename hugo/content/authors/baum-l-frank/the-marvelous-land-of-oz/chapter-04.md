@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-04.html"
+url: "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-04.html"
 ---
 
 The boy, small and rather delicate in appearance seemed somewhat embarrassed at being called "father" by the tall, awkward, pumpkinheaded man, but to deny the relationship would involve another long and tedious explanation; so he changed the subject by asking, abruptly:

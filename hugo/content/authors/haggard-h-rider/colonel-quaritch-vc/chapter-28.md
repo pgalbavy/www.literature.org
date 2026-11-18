@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - How George Treated Johnnie"
 weight: 28
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-28.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-28.html"
 ---
 
 Some two or three days before the scene described in the last chapter the faithful George had suddenly announced his desire to visit London.

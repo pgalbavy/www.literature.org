@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 9 - The Episodes Of A Day"
 weight: 9
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-01-chapter-09.html"
+url: "/authors/buchan-john/the-half-hearted/part-01-chapter-09.html"
 ---
 
 It is painful to record it, but when the Glenavelin party arrived at noon of the next day it was only to find the house deserted. Lady Manorwater, accustomed to the vagaries of her nephew, led the guests over the place and found to her horror that it seemed undwelt in. The hall was in order, and the tart and rosy lairds of Etterick looked down from their Raeburn canvases on certain signs of habitation; but the drawing-rooms were dingy with coverings and all the large rooms were in the same tidy disarray. Then, wise from experience, she led the way to Lewis's sanctum, and found there a pretty luncheon-table and every token of men's presence. Soon the four tenants arrived, hot and breathless, from the hill, to find Bertha Afflint deep in rods and guns, Miss Wishart and Lady Manorwater ensconced in the great armchairs, and Mr. Stocks casting a critic's eye over the unruly bookshelves.

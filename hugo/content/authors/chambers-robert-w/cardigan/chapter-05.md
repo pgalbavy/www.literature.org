@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/chambers-robert-w/cardigan/chapter-05.html"
+url: "/authors/chambers-robert-w/cardigan/chapter-05.html"
 ---
 
 To Fonda's Bush it is a good ten miles. I rode Sir William's great horse, Warlock, who plunged and danced at the slap of my sword-scabbard on his flanks, and wellnigh shook me from my boots.

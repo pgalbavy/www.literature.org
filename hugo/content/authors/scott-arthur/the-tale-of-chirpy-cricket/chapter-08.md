@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Pleasing Johnnie Green"
 weight: 8
-aliases:
-  - "/authors/scott-arthur/the-tale-of-chirpy-cricket/chapter-08.html"
+url: "/authors/scott-arthur/the-tale-of-chirpy-cricket/chapter-08.html"
 ---
 
 Johnnie Green knew that he could never find the Cricket in the dark. So he crawled out of bed and lighted a candle, blinking a few moments in its flickering flame.

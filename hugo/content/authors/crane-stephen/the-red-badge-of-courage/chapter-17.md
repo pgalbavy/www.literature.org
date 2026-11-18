@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/crane-stephen/the-red-badge-of-courage/chapter-17.html"
+url: "/authors/crane-stephen/the-red-badge-of-courage/chapter-17.html"
 ---
 
 THIS advance of the enemy had seemed to the youth like a ruthless hunting. He began to fume with rage and exasperation. He beat his foot upon the ground, and scowled with hate at the swirling smoke that was approaching like a phan- tom flood. There was a maddening quality in this seeming resolution of the foe to give him no rest, to give him no time to sit down and think. Yesterday he had fought and had fled rapidly. There had been many adventures. For to-day he felt that he had earned opportunities for contem- plative repose. He could have enjoyed portraying to uninitiated listeners various scenes at which he had been a witness or ably discussing the pro- cesses of war with other proved men. Too it was important that he should have time for physical recuperation. He was sore and stiff from his ex- periences. He had received his fill of all exer- tions, and he wished to rest.

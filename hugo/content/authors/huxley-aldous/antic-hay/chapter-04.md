@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/huxley-aldous/antic-hay/chapter-04.html"
+url: "/authors/huxley-aldous/antic-hay/chapter-04.html"
 ---
 
 Lypiatt had a habit, which some of his friends found rather trying—and not only friends, for Lypiatt was ready to let the merest acquaintances, the most absolute strangers, even, into the secrets of his inspiration—a habit of reciting at every possible opportunity his own verses. He would declaim in a voice loud and tremulous, with an emotion that never seemed to vary with the varying subject-matter of his poems, for whole quarters of an hour at a stretch; would go on declaiming till his auditors were overwhelmed with such a confusion of embarrassment and shame, that the blood rushed to their cheeks and they dared not meet one another’s eyes.

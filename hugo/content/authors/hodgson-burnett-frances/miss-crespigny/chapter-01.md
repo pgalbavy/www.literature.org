@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Lisbeth"
 weight: 1
-aliases:
-  - "/authors/hodgson-burnett-frances/miss-crespigny/chapter-01.html"
+url: "/authors/hodgson-burnett-frances/miss-crespigny/chapter-01.html"
 ---
 
 “Another party?” said Mrs. Despard.

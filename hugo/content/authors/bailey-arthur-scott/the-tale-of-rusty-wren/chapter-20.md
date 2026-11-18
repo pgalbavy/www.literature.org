@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - An Invitation"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-20.html"
 ---
 
 Rusty Wren's cousin, Long Bill, lived in the reeds on the bank of Black Creek. Although everybody called him "Long Bill," like Rusty Wren he was actually short and chubby. His bill, however, was much longer than Rusty's. You see, he belonged to one branch of the Marsh Wren family; and they all had bills like that.

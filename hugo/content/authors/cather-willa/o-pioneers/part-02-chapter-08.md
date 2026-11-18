@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 8"
 weight: 13
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-02-chapter-08.html"
+url: "/authors/cather-willa/o-pioneers/part-02-chapter-08.html"
 ---
 
 On the evening of the day of Alexandra's call at the Shabatas', a heavy rain set in. Frank sat up until a late hour reading the Sunday newspapers. One of the Goulds was getting a divorce, and Frank took it as a personal affront. In printing the story of the young man's marital troubles, the knowing editor gave a sufficiently colored account of his career, stating the amount of his income and the manner in which he was supposed to spend it. Frank read English slowly, and the more he read about this divorce case, the angrier he grew. At last he threw down the page with a snort. He turned to his farm-hand who was reading the other half of the paper.

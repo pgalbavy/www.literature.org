@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Ivory Raiders"
 weight: 16
-aliases:
-  - "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-16.html"
+url: "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-16.html"
 ---
 
 Waziri's warriors marched at a rapid trot through the jungle in the direction of the village. For a few minutes, the sharp cracking of guns ahead warned them to haste, but finally the reports dwindled to an occasional shot, presently ceasing altogether. Nor was this less ominous than the rattle of musketry, for it suggested but a single solution to the little band of rescuers--that the illy garrisoned village had already succumbed to the onslaught of a superior force.

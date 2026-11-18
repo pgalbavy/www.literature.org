@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Pleasing Farmer Green"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-18.html"
 ---
 
 Now, when Benjamin Bat spoke of his doing Farmer Green a good turn, Freddie Firefly looked puzzled.

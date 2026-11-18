@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38"
 weight: 38
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-38.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-38.html"
 ---
 
 MAKING them pens was a distressid tough job, and so was the saw; and Jim allowed the inscription was going to be the toughest of all. That's the one which the prisoner has to scrabble on the wall. But he had to have it; Tom said he'd GOT to; there warn't no case of a state prisoner not scrabbling his inscription to leave behind, and his coat of arms.

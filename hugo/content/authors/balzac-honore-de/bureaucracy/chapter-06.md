@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Worms At Work"
 weight: 6
-aliases:
-  - "/authors/balzac-honore-de/bureaucracy/chapter-06.html"
+url: "/authors/balzac-honore-de/bureaucracy/chapter-06.html"
 ---
 
 Rabourdin's bureau was during his absence a prey to the keenest excitement; for the relation between the head officials and the clerks in a government office is so regulated that, when a minister's messenger summons the head of a bureau to his Excellency's presence (above all at the latter's breakfast hour), there is no end to the comments that are made. The fact that the present unusual summons followed so closely on the death of Monsieur de la Billardiere seemed to give special importance to the circumstance, which was made known to Monsieur Saillard, who came at once to confer with Baudoyer. Bixiou, who happened at the moment to be at work with the latter, left him to converse with his father-in-law and betook himself to the bureau Rabourdin, where the usual routine was of course interrupted.

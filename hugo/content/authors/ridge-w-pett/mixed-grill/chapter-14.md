@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Rest Cure"
 weight: 14
-aliases:
-  - "/authors/ridge-w-pett/mixed-grill/chapter-14.html"
+url: "/authors/ridge-w-pett/mixed-grill/chapter-14.html"
 ---
 
 “KNEW you’d like it, dear,” said Mr. Gleeson confidently. “I declared the moment I saw the place, ‘Now this,’ I said to myself, ‘this will suit the dear wife down to the ground.’ Just look at that bit over there. (Wait a moment, driver.) Isn’t that simply—”

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42"
 weight: 42
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-42.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-42.html"
 ---
 
 The springtime sunshine had been smiling upon Talbot's Cross-roads all the day. It was not hot, but warm, and its beauty was added to by the little soft winds which passed through the branches of the blossoming apple and pear trees and shook the fragrance from them. The brown earth was sweet and odorous, as it had been on the Sunday morning Sheba had knelt and kissed it, and the garden had covered itself, as then, with hyacinths and daffodils and white narcissus.

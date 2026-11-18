@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Hall Of Audience"
 weight: 7
-aliases:
-  - "/authors/haggard-h-rider/elissa/chapter-06.html"
+url: "/authors/haggard-h-rider/elissa/chapter-06.html"
 ---
 
 When Elissa reached her chamber after the break up of the procession, she threw herself upon her couch, and burst into a passion of tears. Well might she weep, for she had been false to her oath as a priestess, uttering as a message from the goddess that which she had learnt from the lips of man. More, she could not rid herself of the remembrance of the scorn and loathing with which the Prince Aziel had looked upon her, or of the bitter insult of his words when he called her, “a girl of the groves, and a murderess of children.”

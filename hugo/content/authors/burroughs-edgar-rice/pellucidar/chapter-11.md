@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Escape"
 weight: 11
-aliases:
-  - "/authors/burroughs-edgar-rice/pellucidar/chapter-11.html"
+url: "/authors/burroughs-edgar-rice/pellucidar/chapter-11.html"
 ---
 
 Dian glanced downward and shuddered. Her tribe were hill people--they were not accustomed to swimming other than in quiet rivers and placid lakelets. It was not the steep that appalled her. It was the ocean--vast, mysterious, terrible.

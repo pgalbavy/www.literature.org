@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-03.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-03.html"
 ---
 
 At precisely ten o'clock on the following morning Duson brought chocolate, which he had prepared himself, and some dry toast to his master's bedside. Upon the tray was a single letter. Mr. Sabin sat up in bed and tore open the envelope. The following words were written upon a sheet of the Holland House notepaper in the same peculiar coloured crayon.

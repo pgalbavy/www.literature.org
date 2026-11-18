@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Other Side Of The Wall"
 weight: 13
-aliases:
-  - "/authors/hodgson-burnett-frances/a-little-princess/chapter-12.html"
+url: "/authors/hodgson-burnett-frances/a-little-princess/chapter-12.html"
 ---
 
 When one lives in a row of houses, it is interesting to think of the things which are being done and said on the other side of the wall of the very rooms one is living in. Sara was fond of amusing herself by trying to imagine the things hidden by the wall which divided the Select Seminary from the Indian gentleman's house. She knew that the school-room was next to the Indian gentleman's study, and she hoped that the wall was thick so that the noise made sometimes after lesson hours would not disturb him.

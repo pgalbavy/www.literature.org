@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 2"
 weight: 51
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-03-chapter-02.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-03-chapter-02.html"
 ---
 
 In November, 1805, Prince Vasili had to go on a tour of inspection in four different provinces. He had arranged this for himself so as to visit his neglected estates at the same time and pick up his son Anatole where his regiment was stationed, and take him to visit Prince Nicholas Bolkonski in order to arrange a match for him with the daughter of that rich old man. But before leaving home and undertaking these new affairs, Prince Vasili had to settle matters with Pierre, who, it is true, had latterly spent whole days at home, that is, in Prince Vasili's house where he was staying, and had been absurd, excited, and foolish in Helene's presence (as a lover should be), but had not yet proposed to her.

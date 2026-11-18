@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-30.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-30.html"
 ---
 
 No wonder we called it Endeavour Island. For two weeks we toiled at building a hut. Maud insisted on helping, and I could have wept over her bruised and bleeding hands. And still, I was proud of her because of it. There was something heroic about this gently-bred woman enduring our terrible hardship and with her pittance of strength bending to the tasks of a peasant woman. She gathered many of the stones which I built into the walls of the hut; also, she turned a deaf ear to my entreaties when I begged her to desist. She compromised, however, by taking upon herself the lighter labours of cooking and gathering driftwood and moss for our winter's supply.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - An Omen Is Construed"
 weight: 1
-aliases:
-  - "/authors/buck-charles-neville/the-lighted-match/chapter-01.html"
+url: "/authors/buck-charles-neville/the-lighted-match/chapter-01.html"
 ---
 
 "When a feller an' a gal washes their hands in the same basin at the same time, it's a tol'able good sign they won't git married this year."

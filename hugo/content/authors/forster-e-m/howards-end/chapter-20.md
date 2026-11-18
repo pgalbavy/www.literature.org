@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-20.html"
+url: "/authors/forster-e-m/howards-end/chapter-20.html"
 ---
 
 Margaret had often wondered at the disturbance that takes place in the world’s waters, when Love, who seems so tiny a pebble, slips in. Whom does Love concern beyond the beloved and the lover? Yet his impact deluges a hundred shores. No doubt the disturbance is really the spirit of the generations, welcoming the new generation, and chafing against the ultimate Fate, who holds all the seas in the palm of her hand. But Love cannot understand this. He cannot comprehend another’s infinity; he is conscious only of his own--flying sunbeam, falling rose, pebble that asks for one quiet plunge below the fretting interplay of space and time. He knows that he will survive at the end of things, and be gathered by Fate as a jewel from the slime, and be handed with admiration round the assembly of the gods. “Men did produce this” they will say, and, saying, they will give men immortality. But meanwhile--what agitations meanwhile! The foundations of Property and Propriety are laid bare, twin rocks; Family Pride flounders to the surface, puffing and blowing and refusing to be comforted; Theology, vaguely ascetic, gets up a nasty ground swell. Then the lawyers are aroused--cold brood--and creep out of their holes. They do what they can; they tidy up Property and Propriety, reassure Theology and Family Pride. Half-guineas are poured on the troubled waters, the lawyers creep back, and, if all has gone well, Love joins one man and woman together in Matrimony.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - An Error Of Judgment"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-19.html"
 ---
 
 Had Jim McGovern taken another course when starting out on the war-path, he would not have met such overwhelming disaster, for he would have encountered Bob Budd returning from an experience hardly less stirring than his own; but the two followed different routes and did not see each other until they met in camp, after both had been through their experience and the night was well advanced.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Purchase Of A Lie"
 weight: 13
-aliases:
-  - "/authors/greene-homer/burnham-breaker/chapter-13.html"
+url: "/authors/greene-homer/burnham-breaker/chapter-13.html"
 ---
 
 Lawyer Sharpman sat in his office on Sunday evening, meditating on his success in the Burnham suit and planning to avert the dangers that still lay in his path.

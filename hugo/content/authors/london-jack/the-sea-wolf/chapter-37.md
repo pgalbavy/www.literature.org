@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37"
 weight: 37
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-37.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-37.html"
 ---
 
 At once we moved aboard the Ghost, occupying our old state-rooms and cooking in the galley. The imprisonment of Wolf Larsen had happened most opportunely, for what must have been the Indian summer of this high latitude was gone and drizzling stormy weather had set in. We were very comfortable, and the inadequate shears, with the foremast suspended from them, gave a business-like air to the schooner and a promise of departure.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - The Ramble"
 weight: 36
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-36.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-36.html"
 ---
 
 After the restraint the boys had undergone, cramped in the canoe, and not daring to wander out of sight of their camp-fire when upon shore, there was a delicious relief in rambling through the woods. The clear, pure air that was dry and cool in the shadow of the forest, the undulating, charming scenery, the novel look that rested upon all they saw—these possessed a charm to our young friends which they hardly could have resisted, even if they had the will to do so; but when we say that after starting forth scarcely a thought of their imprudence entered their heads, it was but natural that they should find themselves led much further away than was either wise or consistent with the resolves with which they left their friends, Tim and Terror.

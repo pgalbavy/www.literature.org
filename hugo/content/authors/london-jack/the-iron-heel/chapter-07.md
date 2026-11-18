@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Bishop's Vision"
 weight: 8
-aliases:
-  - "/authors/london-jack/the-iron-heel/chapter-07.html"
+url: "/authors/london-jack/the-iron-heel/chapter-07.html"
 ---
 
 "The Bishop is out of hand," Ernest wrote me. "He is clear up in the air. Tonight he is going to begin putting to rights this very miserable world of ours. He is going to deliver his message. He has told me so, and I cannot dissuade him. To-night he is chairman of the I.P.H.,* and he will embody his message in his introductory remarks.

@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 15"
 weight: 51
-aliases:
-  - "/authors/austen-jane/emma/volume-03-chapter-15.html"
+url: "/authors/austen-jane/emma/volume-03-chapter-15.html"
 ---
 
 This letter must make its way to Emma's feelings. She was obliged, in spite of her previous determination to the contrary, to do it all the justice that Mrs. Weston foretold. As soon as she came to her own name, it was irresistible; every line relating to herself was interesting, and almost every line agreeable; and when this charm ceased, the subject could still maintain itself, by the natural return of her former regard for the writer, and the very strong attraction which any picture of love must have for her at that moment. She never stopt till she had gone through the whole; and though it was impossible not to feel that he had been wrong, yet he had been less wrong than she had supposed--and he had suffered, and was very sorry--and he was so grateful to Mrs. Weston, and so much in love with Miss Fairfax, and she was so happy herself, that there was no being severe; and could he have entered the room, she must have shaken hands with him as heartily as ever.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Fortune"
 weight: 10
-aliases:
-  - "/authors/haggard-h-rider/doctor-therne/chapter-09.html"
+url: "/authors/haggard-h-rider/doctor-therne/chapter-09.html"
 ---
 
 My return to Parliament meant not only the loss of a seat to the Government, a matter of no great moment in view of their enormous majority, but, probably, through their own fears, was construed by them into a solemn warning not to be disregarded. Certain papers and opposition speakers talked freely of the writing on the wall, and none saw that writing in larger, or more fiery letters, than the members of Her Majesty’s Government. I believe that to them it took the form not of Hebraic characters, but of two large Roman capitals, the letters A and V.

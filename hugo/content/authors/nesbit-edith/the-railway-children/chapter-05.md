@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Prisoners And Captives"
 weight: 5
-aliases:
-  - "/authors/nesbit-edith/the-railway-children/chapter-05.html"
+url: "/authors/nesbit-edith/the-railway-children/chapter-05.html"
 ---
 
 It was one day when Mother had gone to Maidbridge. She had gone alone, but the children were to go to the station to meet her. And, loving the station as they did, it was only natural that they should be there a good hour before there was any chance of Mother's train arriving, even if the train were punctual, which was most unlikely. No doubt they would have been just as early, even if it had been a fine day, and all the delights of woods and fields and rocks and rivers had been open to them. But it happened to be a very wet day and, for July, very cold. There was a wild wind that drove flocks of dark purple clouds across the sky "like herds of dream- elephants," as Phyllis said. And the rain stung sharply, so that the way to the station was finished at a run. Then the rain fell faster and harder, and beat slantwise against the windows of the booking office and of the chill place that had General Waiting Room on its door.

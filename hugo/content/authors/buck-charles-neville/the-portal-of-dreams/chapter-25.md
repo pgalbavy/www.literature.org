@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Being Laughed At"
 weight: 25
-aliases:
-  - "/authors/buck-charles-neville/the-portal-of-dreams/chapter-25.html"
+url: "/authors/buck-charles-neville/the-portal-of-dreams/chapter-25.html"
 ---
 
 Every one sat very still lest an excited movement or gesture precipitate the storm. From my place on the slightly elevated witness chair I had a full view of the scene in all its ominous tensity. It was as though breathing had not alone stopped, but all living animation had for the second been suspended. The body of men had been fixed as though photographed. An incautious start or the sweep of a hand pocket-ward, and the outburst would be inevitable.

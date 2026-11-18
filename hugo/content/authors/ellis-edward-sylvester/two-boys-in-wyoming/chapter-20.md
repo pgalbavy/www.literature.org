@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - A Climb For Liberty"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-20.html"
 ---
 
 A youth in the situation of Fred Greenwood cannot reason clearly, even though he be right in his main conclusions. He had settled into the belief that Motoza, the Sioux, had determined to subject him to a lingering death through starvation; and yet if it were he—as undoubtedly it was—who rolled the boulder into the canyon, it indicated a wish to put the most sudden end possible to his existence.

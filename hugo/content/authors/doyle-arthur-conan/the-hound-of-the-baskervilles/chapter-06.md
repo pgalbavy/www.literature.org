@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Baskerville Hall"
 weight: 6
-aliases:
-  - "/authors/doyle-arthur-conan/the-hound-of-the-baskervilles/chapter-06.html"
+url: "/authors/doyle-arthur-conan/the-hound-of-the-baskervilles/chapter-06.html"
 ---
 
 Sir Henry Baskerville and Dr. Mortimer were ready upon the appointed day, and we started as arranged for Devonshire. Mr. Sherlock Holmes drove with me to the station and gave me his last parting injunctions and advice.

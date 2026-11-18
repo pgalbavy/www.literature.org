@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 11"
 weight: 39
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-02-chapter-11.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-02-chapter-11.html"
 ---
 
 Next day he woke late. Recalling his recent impressions, the first thought that came into his mind was that today he had to be presented to the Emperor Francis; he remembered the Minister of War, the polite Austrian adjutant, Bilibin, and last night's conversation. Having dressed for his attendance at court in full parade uniform, which he had not worn for a long time, he went into Bilibin's study fresh, animated, and handsome, with his hand bandaged. In the study were four gentlemen of the diplomatic corps. With Prince Hippolyte Kuragin, who was a secretary to the embassy, Bolkonski was already acquainted. Bilibin introduced him to the others.

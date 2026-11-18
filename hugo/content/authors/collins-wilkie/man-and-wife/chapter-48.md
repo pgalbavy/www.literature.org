@@ -1,8 +1,7 @@
 ---
 title: "Chapter 48 - The Place"
 weight: 50
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-48.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-48.html"
 ---
 
 EARLY in the present century it was generally reported among the neighbors of one Reuben Limbrick that he was in a fair way to make a comfortable little fortune by dealing in Salt.

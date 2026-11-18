@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - President Poincaré Thanks America"
 weight: 2
-aliases:
-  - "/authors/davis-richard-harding/with-the-french-in-france-and-salonika/chapter-01.html"
+url: "/authors/davis-richard-harding/with-the-french-in-france-and-salonika/chapter-01.html"
 ---
 
 PARIS, October, 1915.

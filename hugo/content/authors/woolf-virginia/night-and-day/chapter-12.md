@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/woolf-virginia/night-and-day/chapter-12.html"
+url: "/authors/woolf-virginia/night-and-day/chapter-12.html"
 ---
 
 "Is Mr. Hilbery at home, or Mrs. Hilbery?" Denham asked, of the parlor-maid in Chelsea, a week later.

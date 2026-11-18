@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 19"
 weight: 32
-aliases:
-  - "/authors/london-jack/burning-daylight/part-02-chapter-19.html"
+url: "/authors/london-jack/burning-daylight/part-02-chapter-19.html"
 ---
 
 When the ferry system began to run, and the time between Oakland and San Francisco was demonstrated to be cut in half, the tide of Daylight's terrific expenditure started to turn. Not that it really did turn, for he promptly went into further investments. Thousands of lots in his residence tracts were sold, and thousands of homes were being built. Factory sites also were selling, and business properties in the heart of Oakland. All this tended to a steady appreciation in value of Daylight's huge holdings. But, as of old, he had his hunch and was riding it. Already he had begun borrowing from the banks. The magnificent profits he made on the land he sold were turned into more land, into more development; and instead of paying off old loans, he contracted new ones. As he had pyramided in Dawson City, he now pyramided in Oakland; but he did it with the knowledge that it was a stable enterprise rather than a risky placer-mining boom.

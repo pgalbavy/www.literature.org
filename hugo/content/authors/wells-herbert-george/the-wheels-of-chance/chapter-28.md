@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - The Departure From Chichester"
 weight: 28
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-28.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-28.html"
 ---
 
 He caused his 'sister' to be called repeatedly, and when she came down, explained with a humorous smile his legal relationship to the bicycle in the yard. "Might be disagreeable, y' know." His anxiety was obvious enough. "Very well," she said (quite friendly); "hurry breakfast, and we'll ride out. I want to talk things over with you." The girl seemed more beautiful than ever after the night's sleep; her hair in comely dark waves from her forehead, her ungauntleted finger-tips pink and cool. And how decided she was! Breakfast was a nervous ceremony, conversation fraternal but thin; the waiter overawed him, and he was cowed by a multiplicity of forks. But she called him "Chris." They discussed their route over his sixpenny county map for the sake of talking, but avoided a decision in the presence of the attendant. The five-pound note was changed for the bill, and through Hoopdriver's determination to be quite the gentleman, the waiter and chambermaid got half a crown each and the ostler a florin. "'Olidays," said the ostler to himself, without gratitude. The public mounting of the bicycles in the street was a moment of trepidation. A policeman actually stopped and watched them from the opposite kerb. Suppose him to come across and ask: "Is that your bicycle, sir?" Fight? Or drop it and run? It was a time of bewildering apprehension, too, going through the streets of the town, so that a milk cart barely escaped destruction under Mr. Hoopdriver's chancy wheel. That recalled him to a sense of erratic steering, and he pulled himself together. In the lanes he breathed freer, and a less formal conversation presently began.

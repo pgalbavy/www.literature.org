@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Consequences"
 weight: 10
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-crux/chapter-09.html"
+url: "/authors/gilman-charlotte-perkins/the-crux/chapter-09.html"
 ---
 
 Dr. Hale retired from his gaily illuminated grounds in too much displeasure to consider the question of dignity. One suddenly acting cause was the news given him by Vivian. The other was the sight of Morton Elder's face as he struck a match to light his cigarette.

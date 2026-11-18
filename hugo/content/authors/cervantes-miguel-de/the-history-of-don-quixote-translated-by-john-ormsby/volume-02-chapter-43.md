@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 43 - Of The Second Set Of Counsels Don Quixote Gave Sancho Panza"
 weight: 99
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-43.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-43.html"
 ---
 
 Who, hearing the foregoing discourse of Don Quixote, would not have set him down for a person of great good sense and greater rectitude of purpose? But, as has been frequently observed in the course of this great history, he only talked nonsense when he touched on chivalry, and in discussing all other subjects showed that he had a clear and unbiassed understanding; so that at every turn his acts gave the lie to his intellect, and his intellect to his acts; but in the case of these second counsels that he gave Sancho, he showed himself to have a lively turn of humour, and displayed conspicuously his wisdom, and also his folly.

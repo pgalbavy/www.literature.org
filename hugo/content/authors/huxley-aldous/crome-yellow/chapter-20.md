@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/huxley-aldous/crome-yellow/chapter-20.html"
+url: "/authors/huxley-aldous/crome-yellow/chapter-20.html"
 ---
 
 Ivor was gone. Lounging behind the wind-screen in his yellow sedan he was whirling across rural England. Social and amorous engagements of the most urgent character called him from hall to baronial hall, from castle to castle, from Elizabethan manor-house to Georgian mansion, over the whole expanse of the kingdom. To-day in Somerset, to-morrow in Warwickshire, on Saturday in the West riding, by Tuesday morning in Argyll —Ivor never rested. The whole summer through, from the beginning of July till the end of September, he devoted himself to his engagements; he was a martyr to them. In the autumn he went back to London for a holiday. Crome had been a little incident, an evanescent bubble on the stream of his life; it belonged already to the past. By tea-time he would be at Gobley, and there would be Zenobia’s welcoming smile. And on Thursday morning—but that was a long, long way ahead. He would think of Thursday morning when Thursday morning arrived. Meanwhile there was Gobley, meanwhile Zenobia.

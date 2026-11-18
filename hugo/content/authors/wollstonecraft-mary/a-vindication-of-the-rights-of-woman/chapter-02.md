@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Prevailing Opinion Of A Sexual Character Discussed"
 weight: 3
-aliases:
-  - "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/chapter-02.html"
+url: "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/chapter-02.html"
 ---
 
 To account for, and excuse the tyranny of man, many ingenious arguments have been brought forward to prove, that the two sexes, in the acquirement of virtue, ought to aim at attaining a very different character: or, to speak explicitly, women are not allowed to have sufficient strength of mind to acquire what really deserves the name of virtue. Yet it should seem, allowing them to have souls, that there is but one way appointed by providence to lead MANKIND to either virtue or happiness.

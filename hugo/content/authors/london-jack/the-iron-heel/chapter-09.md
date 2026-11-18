@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Mathematics Of A Dream"
 weight: 10
-aliases:
-  - "/authors/london-jack/the-iron-heel/chapter-09.html"
+url: "/authors/london-jack/the-iron-heel/chapter-09.html"
 ---
 
 In the midst of the consternation his revelation had produced, Ernest began again to speak.

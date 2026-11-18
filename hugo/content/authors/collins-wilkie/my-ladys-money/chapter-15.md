@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/collins-wilkie/my-ladys-money/chapter-15.html"
+url: "/authors/collins-wilkie/my-ladys-money/chapter-15.html"
 ---
 
 ISABEL looked down at the letter in her hand--considered it in silence--and turned to Moody. "I feel tempted to open it already," she said.

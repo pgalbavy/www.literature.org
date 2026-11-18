@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Major Has A Plan"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-09.html"
 ---
 
 "What is your business, if I may ask?" Mr. Crow inquired of Major Monkey.

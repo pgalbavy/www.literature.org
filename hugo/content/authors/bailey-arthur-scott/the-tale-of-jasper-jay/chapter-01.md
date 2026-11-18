@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Noisy Rogue"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-01.html"
 ---
 
 Some of the feathered folk in Pleasant Valley said that old Mr. Crow was the noisiest person in the neighborhood. But they must have forgotten all about Mr. Crow's knavish cousin, Jasper Jay. And it was not only in summer, either, that Jasper's shrieks and laughter woke the echoes. Since it was his habit to spend his winters right there in Farmer Green's young pines, near the foot of Blue Mountain, on many a cold morning Jasper's ear-splitting "_Jay! jay!_" rang out on the frosty air.

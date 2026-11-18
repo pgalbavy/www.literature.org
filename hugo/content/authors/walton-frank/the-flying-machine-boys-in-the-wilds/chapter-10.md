@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Where The Trouble Began"
 weight: 10
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-10.html"
+url: "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-10.html"
 ---
 
 “When Redfern disappeared,” Mr. Havens went on, “we employed the best detective talent in America to discover his whereabouts and bring him back. The best detective talent in America failed.”

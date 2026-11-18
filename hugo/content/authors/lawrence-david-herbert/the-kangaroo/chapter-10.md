@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Diggers"
 weight: 10
-aliases:
-  - "/authors/lawrence-david-herbert/the-kangaroo/chapter-10.html"
+url: "/authors/lawrence-david-herbert/the-kangaroo/chapter-10.html"
 ---
 
 They had another ferocious battle, Somers and Harriet; they stood opposite to one another in such fury one against the other that they nearly annihilated one another. He couldn't stay near her, so started walking off into the country. It was winter, but sunny, and hot walking. He climbed steadily up and up the highroad between the dense, damp jungle that grew at the base and up the steep rise of the tor-face, which he wanted to get to the top of. Strange birds made weird, metallic noises. Tree-ferns rose on their notchy little trunks, and great mosses tangled in with more ordinary bushes. Overhead rose the gum-trees, sometimes with great stark, dead limbs thrown up, sometimes hands over like pine-trees.

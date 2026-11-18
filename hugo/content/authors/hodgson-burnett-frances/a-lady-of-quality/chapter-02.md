@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - In Which Sir Jeoffry Encounters His Offspring"
 weight: 3
-aliases:
-  - "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-02.html"
+url: "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-02.html"
 ---
 
 In a remote wing of the house, in barren, ill-kept rooms, the poor infants of the dead lady had struggled through their brief lives, and given them up, one after the other. Sir Jeoffry had not wished to see them, nor had he done so, but upon the rarest occasions, and then nearly always by some untoward accident. The six who had died, even their mother had scarcely wept for; her weeping had been that they should have been fated to come into the world, and when they went out of it she knew she need not mourn their going as untimely. The two who had not perished, she had regarded sadly day by day, seeing they had no beauty and that their faces promised none. Naught but great beauty would have excused their existence in their father's eyes, as beauty might have helped them to good matches which would have rid him of them. But 'twas the sad ill fortune of the children Anne and Barbara to have been treated by Nature in a way but niggardly. They were pale young misses, with insignificant faces and snub noses, resembling an aunt who died a spinster, as they themselves seemed most likely to. Sir Jeoffry could not bear the sight of them, and they fled at the sound of his footsteps, if it so happened that by chance they heard it, huddling together in corners, and slinking behind doors or anything big enough to hide them. They had no playthings and no companions and no pleasures but such as the innocent invention of childhood contrives for itself.

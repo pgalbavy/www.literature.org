@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Eureka!"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/a-young-hero/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/a-young-hero/chapter-18.html"
 ---
 
 This was the wood where Bud Heyland and Cyrus Sutton held their stolen interview the night before. The former was now in the immediate neighborhood, so that Fred Sheldon had reason to think something would be done in the same place before the close of day, or at most, before the rising of to-morrow's sun.

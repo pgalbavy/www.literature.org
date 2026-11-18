@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Mouse, The Bird, And The Sausage"
 weight: 17
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-17.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-17.html"
 ---
 
 Once upon a time, a mouse, a bird, and a sausage, entered into partnership and set up house together. For a long time all went well; they lived in great comfort, and prospered so far as to be able to add considerably to their stores. The bird’s duty was to fly daily into the wood and bring in fuel; the mouse fetched the water, and the sausage saw to the cooking.

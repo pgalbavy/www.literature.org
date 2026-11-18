@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Crying Of The Man"
 weight: 11
-aliases:
-  - "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-10.html"
+url: "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-10.html"
 ---
 
 AS I drew near the house I saw that the light shone from the open door of my room; and then I heard coming from out of the darkness at the side of that orange oblong of light, the voice of Montgomery shouting, "Prendick!" I continued running. Presently I heard him again. I replied by a feeble "Hullo!" and in another moment had staggered up to him.

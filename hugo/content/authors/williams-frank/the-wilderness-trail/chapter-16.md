@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Fearful Disclosures"
 weight: 16
-aliases:
-  - "/authors/williams-frank/the-wilderness-trail/chapter-16.html"
+url: "/authors/williams-frank/the-wilderness-trail/chapter-16.html"
 ---
 
 It was with a strange mixture of emotion that Donald McTavish approached the rough log cabin where lay Angus Fitzpatrick. The morning was one of bitter cold, and the smoke from the campfires hung low about the tops of trees, a sure sign of fearful frost. During the past night, he had slept as of old, his feet to a blaze, other men snoring about him. Jean had been led away as soon as they reached the camp. Their innocent, childlike play at keeping house was over; those two inexpressibly sweet weeks would never be repeated, yet their sacred associations would be forever in his mind, like some beautiful thing caught imperishably at the moment of its full expression. When would he see her again? Not even a parting hand-clasp had lightened the separation of the night before. She had gone to her father; he to the camp-fire and the rough men.

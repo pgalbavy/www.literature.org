@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Swedenborg And The Sibyl"
 weight: 4
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-03.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-03.html"
 ---
 
 MY narrative may move on again from the point at which it paused in the first chapter.

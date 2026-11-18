@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Through The Trackless Forest--The Cause"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-04.html"
 ---
 
 The compliment to the young Shawanoe, although rudely expressed, was genuine, and at once dissipated the latent lightning that was on the point of bursting forth.

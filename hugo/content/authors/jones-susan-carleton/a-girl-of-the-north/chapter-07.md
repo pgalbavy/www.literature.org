@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-07.html"
+url: "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-07.html"
 ---
 
 MR. ARCHER had gone on a trip to Norway.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-08.html"
+url: "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-08.html"
 ---
 
 With his father's death Samson's schooling had ended. His responsibility now was farm work and the roughly tender solicitude of a young stoic for his mother. His evenings before the broad fireplace he gave up to a devouring sort of study, but his books were few.

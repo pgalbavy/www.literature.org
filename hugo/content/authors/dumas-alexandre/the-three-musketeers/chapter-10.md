@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Mousetrap In The Seventeenth Century"
 weight: 11
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-10.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-10.html"
 ---
 
 The invention of the mousetrap does not date from our days; as soon as societies, in forming, had invented any kind of police, that police invented mousetraps.

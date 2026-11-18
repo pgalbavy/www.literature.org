@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Peter's Goat"
 weight: 18
-aliases:
-  - "/authors/barrie-james-matthew/the-little-white-bird/chapter-18.html"
+url: "/authors/barrie-james-matthew/the-little-white-bird/chapter-18.html"
 ---
 
 Maimie felt quite shy, but Peter knew not what shy was.

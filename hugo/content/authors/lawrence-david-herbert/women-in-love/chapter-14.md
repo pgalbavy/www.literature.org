@@ -1,8 +1,7 @@
 ---
 title: "chapter 14"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-14.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-14.html"
 ---
 
 Every year Mr Crich gave a more or less public water-party on the lake. There was a little pleasure-launch on Willey Water and several rowing boats, and guests could take tea either in the marquee that was set up in the grounds of the house, or they could picnic in the shade of the great walnut tree at the boat-house by the lake. This year the staff of the Grammar-School was invited, along with the chief officials of the firm. Gerald and the younger Criches did not care for this party, but it had become customary now, and it pleased the father, as being the only occasion when he could gather some people of the district together in festivity with him. For he loved to give pleasures to his dependents and to those poorer than himself. But his children preferred the company of their own equals in wealth. They hated their inferiors' humility or gratitude or awkwardness.

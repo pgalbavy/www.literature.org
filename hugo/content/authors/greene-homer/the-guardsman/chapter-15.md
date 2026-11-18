@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/greene-homer/the-guardsman/chapter-15.html"
+url: "/authors/greene-homer/the-guardsman/chapter-15.html"
 ---
 
 The buzz of excitement due to Chick’s appearance on the witness stand had scarcely subsided, and the first question had not yet been asked him, when a man, breathless and perturbed, entered the court-room, pushed his way up to the table where the Barriscales were sitting, and announced, in a loud whisper, that a riot was at that moment in progress at the Barriscale mills. Immediately all was confusion. People began hastily to leave the room, and the president of the court martial, after consulting with his associates, and with counsel on both sides, announced an adjournment until the following Tuesday.

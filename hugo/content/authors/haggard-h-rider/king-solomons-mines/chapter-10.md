@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Witch-Hunt"
 weight: 11
-aliases:
-  - "/authors/haggard-h-rider/king-solomons-mines/chapter-10.html"
+url: "/authors/haggard-h-rider/king-solomons-mines/chapter-10.html"
 ---
 
 On reaching our hut I motioned to Infadoos to enter with us.

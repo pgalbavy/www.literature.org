@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Mr. Crow Is Disagreeable"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-12.html"
 ---
 
 ALTHOUGH Mr. Red-winged Blackbird talked about the weather as fast as he could, his chatter did not prevent Mr. Crow from interrupting him, because the old gentleman was determined to be disagreeable to Bobby Bobolink, and nothing could stop him.

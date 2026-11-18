@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - A Temperance Agitator"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-26.html"
 ---
 
 "I'll never forget that ride home last year," said Jack Halloway, "after I pulled out in the night and left Deerfoot with you younkers asleep by the camp fire. It took me a week to reach St. Louis, and there wasn't a drop of whiskey to be had on the road. For two or three days I was the most miserable critter that ever limped on two legs. I'd have give my whole load of peltries to get that flask back agin, but there was no help for it. Twice I rode up to the camp fires of Injins, hoping to buy some fire water from them, but neither party had a drop. Then I buckled down to it.

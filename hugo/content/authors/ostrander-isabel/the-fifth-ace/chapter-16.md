@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Pool Of The Lost Souls"
 weight: 16
-aliases:
-  - "/authors/ostrander-isabel/the-fifth-ace/chapter-16.html"
+url: "/authors/ostrander-isabel/the-fifth-ace/chapter-16.html"
 ---
 
 Willa went home at last in a daze of consternation which took no note of the heightened storm. The unexpected catastrophe was a death-blow to her long-cherished plan, but even that faded for the moment before the stern anxiety for Tia Juana's safety.

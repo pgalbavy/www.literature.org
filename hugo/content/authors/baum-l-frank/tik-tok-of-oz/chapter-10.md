@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/baum-l-frank/tik-tok-of-oz/chapter-10.html"
+url: "/authors/baum-l-frank/tik-tok-of-oz/chapter-10.html"
 ---
 
 I suppose that Polychrome, and perhaps Queen Ann and her Army, might have been able to dispel the enchantment of Ruggedo's Chief Magician had they known that danger lay in their pathway; for the Rainbow's Daughter was a fairy and as Oogaboo is a part of the Land of Oz its inhabitants cannot easily be deceived by such common magic as the Nome King could command. But no one suspected any especial danger until after they had entered Ruggedo's cavern, and so they were journeying along in quite a contented manner when Tik-Tok, who marched ahead, suddenly disappeared.

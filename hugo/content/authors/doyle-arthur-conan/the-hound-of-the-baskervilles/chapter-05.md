@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Three Broken Threads"
 weight: 5
-aliases:
-  - "/authors/doyle-arthur-conan/the-hound-of-the-baskervilles/chapter-05.html"
+url: "/authors/doyle-arthur-conan/the-hound-of-the-baskervilles/chapter-05.html"
 ---
 
 Sherlock Holmes had, in a very remarkable degree, the power of detaching his mind at will. For two hours the strange business in which we had been involved appeared to be forgotten, and he was entirely absorbed in the pictures of the modern Belgian masters. He would talk of nothing but art, of which he had the crudest ideas, from our leaving the gallery until we found ourselves at the Northumberland Hotel.

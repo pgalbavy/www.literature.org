@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - Back To Camp"
 weight: 37
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-37.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-37.html"
 ---
 
 The hill which the boys proposed to pass around was about a quarter of a mile in length and but slightly less in breadth—much greater than either of them suspected when they set out. It rose like a peak to the height of several hundred feet, as if it were an offshoot from the main ridge of hills, left to flourish by itself.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-23.html"
+url: "/authors/london-jack/martin-eden/chapter-23.html"
 ---
 
 That Ruth had little faith in his power as a writer, did not alter her nor diminish her in Martin's eyes. In the breathing spell of the vacation he had taken, he had spent many hours in self- analysis, and thereby learned much of himself. He had discovered that he loved beauty more than fame, and that what desire he had for fame was largely for Ruth's sake. It was for this reason that his desire for fame was strong. He wanted to be great in the world's eyes; "to make good," as he expressed it, in order that the woman he loved should be proud of him and deem him worthy.

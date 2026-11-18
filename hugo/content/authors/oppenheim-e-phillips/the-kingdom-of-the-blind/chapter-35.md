@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 35
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-35.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-35.html"
 ---
 
 About three o'clock the next morning Thomson was awakened by a light touch upon his shoulder. He sprang up from the couch upon which he had thrown himself. Ambrose was standing over him. He was still in his room at the War Office, and fully dressed.

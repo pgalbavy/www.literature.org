@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/leblanc-maurice/the-tremendous-event/preface.html"
+url: "/authors/leblanc-maurice/the-tremendous-event/preface.html"
 ---
 
 Author's Note

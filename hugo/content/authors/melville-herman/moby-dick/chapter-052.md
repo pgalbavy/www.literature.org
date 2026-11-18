@@ -1,8 +1,7 @@
 ---
 title: "Chapter 52 - The Albatross"
 weight: 52
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-052.html"
+url: "/authors/melville-herman/moby-dick/chapter-052.html"
 ---
 
 South-eastward from the Cape, off the distant Crozetts, a good cruising ground for Right Whalemen, a sail loomed ahead, the Goney (Albatross) by name. As she slowly drew nigh, from my lofty perch at the fore-mast-head, I had a good view of that sight so remarkable to a tyro in the far ocean fisheries-- a whaler at sea, and long absent from home.

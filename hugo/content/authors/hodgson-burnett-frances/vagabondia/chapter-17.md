@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Do You Know That She Is Dying?"
 weight: 17
-aliases:
-  - "/authors/hodgson-burnett-frances/vagabondia/chapter-17.html"
+url: "/authors/hodgson-burnett-frances/vagabondia/chapter-17.html"
 ---
 
 IT had come at last,--the letter from Geneva, for which they all had waited with such anxious hearts and so much of dread. The postman, bringing it by the morning's delivery, and handing it through the opened door to Aimée, had wondered a little at her excited manner,--she was always excited when these letters came; and the moment she had entered the parlor, holding the hurriedly read note,--it was scarcely more than a note,--there was not one of them who did not understand all before she spoke.

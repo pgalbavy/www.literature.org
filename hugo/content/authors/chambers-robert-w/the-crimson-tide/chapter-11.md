@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/chambers-robert-w/the-crimson-tide/chapter-11.html"
+url: "/authors/chambers-robert-w/the-crimson-tide/chapter-11.html"
 ---
 
 When Shotwell arrived, dinner had already been announced, and Palla and Ilse Westgard were in the unfurnished drawing-room, the former on a step-ladder, the latter holding that collapsible machine with one hand and Palla's ankle with the other.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Marilla Cuthbert is Surprised"
 weight: 3
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-03.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-03.html"
 ---
 
 Marilla came briskly forward as Matthew opened the door. But when her eyes fell of the odd little figure in the stiff, ugly dress, with the long braids of red hair and the eager, luminous eyes, she stopped short in amazement.

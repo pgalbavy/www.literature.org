@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 5"
 weight: 34
-aliases:
-  - "/authors/conrad-joseph/romance/part-05-chapter-05.html"
+url: "/authors/conrad-joseph/romance/part-05-chapter-05.html"
 ---
 
 I never saw my father again until I was in the prisoner's anteroom at the Old Bailey. It was full of lounging men, whose fleshy limbs bulged out against the tight, loud checks of their coats and trousers. These were jailers waiting to bring in their prisoners. On the other side of one black door the Grand Jury was deliberating on my case, behind another the court was in waiting to try me. I was in a sort of tired lull. All night I had been pacing up and down, trying to bring my brain to think of points—points in my defence. It was very difficult. I knew that I must keep cool, be calm, be lucid, be convincing; and my brain had reeled at times, even in the darkness of the cell. I knew it had reeled, because I remembered that once I had fallen against the stone of one of the walls, and once against the door. Here, in the light, with only a door between myself and the last scene, I regained my hold. I was going to fight every inch from start to finish. I was going to let no chink of their armour go untried. I was going to make a good fight. My teeth chattered like castanets, jarring in my jaws until it was painful. But that was only with the cold.

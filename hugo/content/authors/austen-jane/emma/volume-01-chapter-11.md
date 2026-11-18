@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 11"
 weight: 11
-aliases:
-  - "/authors/austen-jane/emma/volume-01-chapter-11.html"
+url: "/authors/austen-jane/emma/volume-01-chapter-11.html"
 ---
 
 Mr. Elton must now be left to himself. It was no longer in Emma's power to superintend his happiness or quicken his measures. The coming of her sister's family was so very near at hand, that first in anticipation, and then in reality, it became henceforth her prime object of interest; and during the ten days of their stay at Hartfield it was not to be expected--she did not herself expect--that any thing beyond occasional, fortuitous assistance could be afforded by her to the lovers. They might advance rapidly if they would, however; they must advance somehow or other whether they would or no. She hardly wished to have more leisure for them. There are people, who the more you do for them, the less they will do for themselves.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/eliot-george/silas-marner/chapter-03.html"
+url: "/authors/eliot-george/silas-marner/chapter-03.html"
 ---
 
 The greatest man in Raveloe was Squire Cass, who lived in the large red house with the handsome flight of stone steps in front and the high stables behind it, nearly opposite the church. He was only one among several landed parishioners, but he alone was honoured with the title of Squire; for though Mr. Osgood's family was also understood to be of timeless origin - the Raveloe imagination having never ventured back to that fearful blank when there were no Osgoods - still, he merely owned the farm he occupied; whereas Squire Cass had a tenant or two, who complained of the game to him quite as if he had been a lord.

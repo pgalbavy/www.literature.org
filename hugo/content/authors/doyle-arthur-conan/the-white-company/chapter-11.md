@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - How A Young Shepherd Had A Perilous Flock"
 weight: 11
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-11.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-11.html"
 ---
 
 BLACK was the mouth of Twynham Castle, though a pair of torches burning at the further end of the gateway cast a red glare over the outer bailey, and sent a dim, ruddy flicker through the rough-hewn arch, rising and falling with fitful brightness. Over the door the travellers could discern the escutcheon of the Montacutes, a roebuck gules on a field argent, flanked on either side by smaller shields which bore the red roses of the veteran constable. As they passed over the drawbridge, Alleyne marked the gleam of arms in the embrasures to right and left, and they had scarce set foot upon the causeway ere a hoarse blare burst from a bugle, and, with screech of hinge and clank of chain, the ponderous bridge swung up into the air, drawn by unseen hands. At the same instant the huge portcullis came rattling down from above, and shut off the last fading light of day. Sir Nigel and his lady walked on in deep talk, while a fat under-steward took charge of the three comrades, and led them to the buttery, where beef, bread, and beer were kept ever in readiness for the wayfarer. After a hearty meal and a dip in the trough to wash the dust from them, they strolled forth into the bailey, where the bowman peered about through the darkness at wall and at keep, with the carping eyes of one who has seen something of sieges, and is not likely to be satisfied. To Alleyne and to John, however, it appeared to be as great and as stout a fortress as could be built by the hands of man.

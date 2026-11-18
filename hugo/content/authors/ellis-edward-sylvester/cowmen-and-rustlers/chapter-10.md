@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Hot Pursuit"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-10.html"
 ---
 
 It may be said Mont Sterry answered his own question at the moment of asking it, for, bringing his Winchester to his shoulder, he let fly at the rustlers, and then with a word and touch of the spur sent Queenie bounding away with arrowy swiftness.

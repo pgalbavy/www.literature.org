@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/davis-richard-harding/soldiers-of-fortune/chapter-15.html"
+url: "/authors/davis-richard-harding/soldiers-of-fortune/chapter-15.html"
 ---
 
 The steamer "Santiago," carrying "passengers, bullion, and coffee," was headed to pass Porto Rico by midnight, when she would be free of land until she anchored at the quarantine station of the green hills of Staten Island. She had not yet shaken off the contamination of the earth; a soft inland breeze still tantalized her with odors of tree and soil, the smell of the fresh coat of paint that had followed her coaling rose from her sides, and the odor of spilt coffee-grains that hung around the hatches had yet to be blown away by a jealous ocean breeze, or washed by a welcoming cross sea.

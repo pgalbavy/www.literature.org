@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Fatty Coon Needs Help"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-09.html"
 ---
 
 The moment he plunged into the woods beyond the cornfield Dickie Deer Mouse began to feel better. He knew that Fatty Coon would not leave that place of plenty until he had filled himself almost to bursting with tender young corn.

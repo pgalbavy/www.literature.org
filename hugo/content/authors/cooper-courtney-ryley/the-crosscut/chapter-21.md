@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/cooper-courtney-ryley/the-crosscut/chapter-21.html"
+url: "/authors/cooper-courtney-ryley/the-crosscut/chapter-21.html"
 ---
 
 So she was his friend! So all these days of waiting had not been in vain; all the cutting hopelessness of seeing her, only to have her turn away her head and fail to recognize him, had been for their purpose after all. And yet Fairchild remembered that she was engaged to Maurice Rodaine, and that the time of the wedding must be fast approaching. Perhaps there had been a quarrel, perhaps-- Then he smiled. There was no perhaps about it! Anita Richmond was his friend; she had been forced into the promise of marriage to Maurice Rodaine, but she had not been forced into a relinquishment of her desire to reward him somehow, some way, for the attention that he had shown her and the liking that she knew existed in his heart.

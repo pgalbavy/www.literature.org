@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Blow For The Bully"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-02.html"
 ---
 
 JASPER JAY had some queer notions in his head. One of them was that a person couldn't be happy unless he was making a great deal of noise. And if there was anything that roused Jasper's wrath, it was the sight of some quiet, modest little neighbor who minded his own affairs and had little to say.

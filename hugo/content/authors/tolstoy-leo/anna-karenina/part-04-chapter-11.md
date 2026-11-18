@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 11"
 weight: 112
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-04-chapter-11.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-04-chapter-11.html"
 ---
 
 Every one took part in the conversation except Kitty and Levin. At first, when they were talking of the influence that one people has on another, there rose to Levin's mind what he had to say on the subject. But these ideas, once of such importance in his eyes, seemed to come into his brain as in a dream, and had now not the slightest interest for him. It even struck him as strange that they should be so eager to talk of what was of no use to any one. Kitty, too, should, one would have supposed, have been interested in what they were saying of the rights and education of women. How often she had mused on the subject, thinking of her friend abroad, Varenka, of her painful state of dependence, how often she had wondered about herself what would become of her if she did not marry, and how often she had argued with her sister about it! But it did not interest her at all. She and Levin had a conversation of their own, yet not a conversation, but some sort of mysterious communication, which brought them every moment nearer, and stirred in both a sense of glad terror before the unknown into which they were entering.

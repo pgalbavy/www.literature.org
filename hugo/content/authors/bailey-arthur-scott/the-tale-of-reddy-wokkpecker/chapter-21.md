@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Odd Mr. Frog"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-21.html"
 ---
 
 Reddy Woodpecker stood on the doorstep of Mr. Frog’s shop. And inside the tiny building Mr. Frog the tailor squatted cross-legged and scratched upon a flat stone. Now and then he glanced up to look closely at Reddy Woodpecker.

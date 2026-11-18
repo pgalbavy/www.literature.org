@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Mentor And Telemachus"
 weight: 27
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-27.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-27.html"
 ---
 
 If Emily's eyes could have followed Alban as her thoughts were following him, she would have seen him stop before he reached the end of the road in which the cottage stood. His heart was full of tenderness and sorrow: the longing to return to her was more than he could resist. It would be easy to wait, within view of the gate, until the doctor's visit came to an end. He had just decided to go back and keep watch--when he heard rapid footsteps approaching. There (devil take him!) was the doctor himself.

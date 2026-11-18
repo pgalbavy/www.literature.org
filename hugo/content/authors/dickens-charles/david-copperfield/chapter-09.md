@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - I Have A Memorable Birthday"
 weight: 10
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-09.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-09.html"
 ---
 
 I PASS over all that happened at school, until the anniversary of my birthday came round in March. Except that Steerforth was more to be admired than ever, I remember nothing. He was going away at the end of the half-year, if not sooner, and was more spirited and independent than before in my eyes, and therefore more engaging than before; but beyond this I remember nothing. The great remembrance by which that time is marked in my mind, seems to have swallowed up all lesser recollections, and to exist alone.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Flight Of Deerfoot"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-08.html"
 ---
 
 None could know better the length of time it is possible for a person to live under water than did the Pawnees who lined the shore of the stream from which they awaited the young Shawanoe to rise and surrender himself.

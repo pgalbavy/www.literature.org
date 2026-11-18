@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42"
 weight: 43
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-42.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-42.html"
 ---
 
 The dream had come back and Robin walked about the moor carrying her baby in her arms, even though Dowie followed her. She laid him on the heather and let him listen to the skylarks and there was in her face such a look, that, in times past if she had seen it, Dowie would have believed that it could only mean translation from earth.

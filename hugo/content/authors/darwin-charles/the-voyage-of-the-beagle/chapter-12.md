@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Central Chile"
 weight: 13
-aliases:
-  - "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-12.html"
+url: "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-12.html"
 ---
 
 arrow_rightValparaiso arrow_rightExcursion to the Foot of the Andes arrow_rightStructure of the Land arrow_rightAscend the Bell of Quillota arrow_rightShattered Masses of Greenstone arrow_rightImmense Valleys arrow_rightMines arrow_rightState of Miners arrow_rightSantiago arrow_rightHot-baths of Cauquenes arrow_rightGold-mines arrow_rightGrinding-mills arrow_rightPerforated Stones arrow_rightHabits of the Puma arrow_rightEl Turco and Tapacolo arrow_rightHummingbirds ---

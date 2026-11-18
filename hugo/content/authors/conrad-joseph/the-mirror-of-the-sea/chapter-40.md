@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40"
 weight: 40
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-40.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-40.html"
 ---
 
 IT was written that there, in the nursery of our navigating ancestors, I should learn to walk in the ways of my craft and grow in the love of the sea, blind as young love often is, but absorbing and disinterested as all true love must be. I demanded nothing from it—not even adventure. In this I showed, perhaps, more intuitive wisdom than high self-denial. No adventure ever came to one for the asking. He who starts on a deliberate quest of adventure goes forth but to gather dead-sea fruit, unless, indeed, he be beloved of the gods and great amongst heroes, like that most excellent cavalier Don Quixote de la Mancha. By us ordinary mortals of a mediocre animus that is only too anxious to pass by wicked giants for so many honest windmills, adventures are entertained like visiting angels. They come upon our complacency unawares. As unbidden guests are apt to do, they often come at inconvenient times. And we are glad to let them go unrecognised, without any acknowledgment of so high a favour. After many years, on looking back from the middle turn of life’s way at the events of the past, which, like a friendly crowd, seem to gaze sadly after us hastening towards the Cimmerian shore, we may see here and there, in the gray throng, some figure glowing with a faint radiance, as though it had caught all the light of our already crepuscular sky. And by this glow we may recognise the faces of our true adventures, of the once unbidden guests entertained unawares in our young days.

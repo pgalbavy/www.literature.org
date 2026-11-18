@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Young Citizen Of The World"
 weight: 2
-aliases:
-  - "/authors/hodgson-burnett-frances/the-lost-prince/chapter-02.html"
+url: "/authors/hodgson-burnett-frances/the-lost-prince/chapter-02.html"
 ---
 
 He had been in London more than once before, but not to the lodgings in Philibert Place. When he was brought a second or third time to a town or city, he always knew that the house he was taken to would be in a quarter new to him, and he should not see again the people he had seen before. Such slight links of acquaintance as sometimes formed themselves between him and other children as shabby and poor as himself were easily broken. His father, however, had never forbidden him to make chance acquaintances. He had, in fact, told him that he had reasons for not wishing him to hold himself aloof from other boys. The only barrier which must exist between them must be the barrier of silence concerning his wanderings from country to country. Other boys as poor as he was did not make constant journeys, therefore they would miss nothing from his boyish talk when he omitted all mention of his. When he was in Russia, he must speak only of Russian places and Russian people and customs. When he was in France, Germany, Austria, or England, he must do the same thing. When he had learned English, French, German, Italian, and Russian he did not know. He had seemed to grow up in the midst of changing tongues which all seemed familiar to him, as languages are familiar to children who have lived with them until one scarcely seems less familiar than another. He did remember, however, that his father had always been unswerving in his attention to his pronunciation and method of speaking the language of any country they chanced to be living in.

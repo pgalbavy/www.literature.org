@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Beggar's Palace"
 weight: 6
-aliases:
-  - "/authors/carroll-lewis/sylvie-and-bruno/chapter-05.html"
+url: "/authors/carroll-lewis/sylvie-and-bruno/chapter-05.html"
 ---
 
 That I had said something, in the act of waking, I felt sure: the hoarse stifled cry was still ringing in my ears, even if the startled look of my fellow-traveler had not been evidence enough: but what could I possibly say by way of apology?

@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/preface.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/preface.html"
 ---
 
 Again it come to pass, in the fulness of time, that my companion, Josiah Allen, see me walk up and take my ink stand off of the manteltry piece, and carry it with a calm and majestick gait to the corner of the settin' room table devoted by me to literary pursuits. And he sez to me:

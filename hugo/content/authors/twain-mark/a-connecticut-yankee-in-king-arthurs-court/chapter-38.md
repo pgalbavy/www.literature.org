@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - Sir Launcelot and Knights to the Rescue"
 weight: 39
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-38.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-38.html"
 ---
 
 NEARING four in the afternoon. The scene was just outside the walls of London. A cool, comfortable, superb day, with a brilliant sun; the kind of day to make one want to live, not die. The multitude was prodigious and far-reaching; and yet we fifteen poor devils hadn't a friend in it. There was something painful in that thought, look at it how you might. There we sat, on our tall scaffold, the butt of the hate and mockery of all those enemies. We were being made a holiday spectacle. They had built a sort of grand stand for the nobility and gentry, and these were there in full force, with their ladies. We recognized a good many of them.

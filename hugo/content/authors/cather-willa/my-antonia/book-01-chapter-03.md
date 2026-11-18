@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 3"
 weight: 4
-aliases:
-  - "/authors/cather-willa/my-antonia/book-01-chapter-03.html"
+url: "/authors/cather-willa/my-antonia/book-01-chapter-03.html"
 ---
 
 ON SUNDAY MORNING Otto Fuchs was to drive us over to make the acquaintance of our new Bohemian neighbours. We were taking them some provisions, as they had come to live on a wild place where there was no garden or chicken-house, and very little broken land. Fuchs brought up a sack of potatoes and a piece of cured pork from the cellar, and grandmother packed some loaves of Saturday’s bread, a jar of butter, and several pumpkin pies in the straw of the wagon-box. We clambered up to the front seat and jolted off past the little pond and along the road that climbed to the big cornfield.

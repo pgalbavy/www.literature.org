@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Carl Gets Into Trouble"
 weight: 17
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-17.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-17.html"
 ---
 
 The sun shone warm on the planes of the Louise as Jimmie and Carl sailed over the broken country to the west of the camp. They passed a ridge so high that the timber line broke a couple of hundred feet below the summit, and then dropped, shivering, into a depression wider but not so green as the one in which their tents stood.

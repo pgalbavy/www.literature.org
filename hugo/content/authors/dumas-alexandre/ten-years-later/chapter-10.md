@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Arithmetic Of M. De Mazarin"
 weight: 10
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-10.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-10.html"
 ---
 
 Whilst the king was directing his course rapidly towards the wing of the castle occupied by the cardinal, taking nobody with him but his valet de chambre, the officer of musketeers came out, breathing like a man who has for a long time been forced to hold his breath, from the little cabinet of which we have already spoken, and which the king believed to be quite solitary. This little cabinet had formerly been part of the chamber, from which it was only separated by a thin partition. It resulted that this partition, which was only for the eye, permitted the ear the least indiscreet to hear every word spoken in the chamber.

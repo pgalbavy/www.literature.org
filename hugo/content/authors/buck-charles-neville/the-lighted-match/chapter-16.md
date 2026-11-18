@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Ambassador Becomes Admiral"
 weight: 16
-aliases:
-  - "/authors/buck-charles-neville/the-lighted-match/chapter-16.html"
+url: "/authors/buck-charles-neville/the-lighted-match/chapter-16.html"
 ---
 
 More suggestive of a stowaway than a millionaire, thought Blanco the following afternoon, when he had come over the side of the Isis and sought out the owner of the yacht. Benton had turned hermit and withdrawn to the most isolated space the vessel provided. It was really not a deck at all--only a space between engine-room grating and tarpaulined lifeboats on what was properly the cabin roof. Here, removed from the burnished and ship-shape perfection of the yacht's appointment, he lay carelessly shaven and more carelessly dressed.

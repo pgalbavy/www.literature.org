@@ -1,8 +1,7 @@
 ---
 title: "Chapter 82 - The Honor and Glory of Whaling"
 weight: 82
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-082.html"
+url: "/authors/melville-herman/moby-dick/chapter-082.html"
 ---
 
 There are some enterprises in which a careful disorderliness is the true method.

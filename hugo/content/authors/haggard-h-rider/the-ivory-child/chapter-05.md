@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Plot"
 weight: 5
-aliases:
-  - "/authors/haggard-h-rider/the-ivory-child/chapter-05.html"
+url: "/authors/haggard-h-rider/the-ivory-child/chapter-05.html"
 ---
 
 The sequel to the events of this evening may be told very briefly and of it the reader can form his own judgment. I narrate it as it happened.

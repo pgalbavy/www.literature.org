@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Cure That Missed"
 weight: 14
-aliases:
-  - "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-13.html"
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-13.html"
 ---
 
 At hearing that he was at the house of M. Eliphas de Saint-Elme de Taillebourg de la Nox, Theophrastus was somewhat reassured, for he had heard both Marceline and Adolphe speak of him with reverence as a leading member of the Pneumatic Club. Theophrastus had chanced to hear of the Pneumatic Club; and he had caused Marceline to become a member of it (he was at the time too busy to join it himself) under the impression that it was the chief social club of the most prominent people in the Rubber Industry. But of course everybody knows that Pneumatology is that part of metaphysics which deals with the soul, in Greek *Pneuma*; and the Pneumatics are those versed in this science, which has nothing whatever to do with the elastic and resilient substance extracted by incision from a tree, which was named by the benighted savages who discovered it, the Caoutchouc. Marceline did not trouble the busy Theophrastus with her discovery that the Pneumatic Club was a branch of Spiritualism and not of the Rubber Industry. She contented herself with inviting M. Adolphe Lecamus to join it also; and both of them became devout admirers and disciples of that great expert in the Occult, M. Eliphas de Saint-Elme de Taillebourg de la Nox. It is no wonder that, on learning from Marceline of the painful affair of the ears of Signor Petito, M. Lecamus should have urged instant recourse to that great expert, to learn the proper methods of dealing with a reincarnate soul of such unfortunate antecedents.

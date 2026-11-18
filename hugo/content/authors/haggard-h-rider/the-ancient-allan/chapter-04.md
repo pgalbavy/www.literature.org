@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Through The Gates"
 weight: 4
-aliases:
-  - "/authors/haggard-h-rider/the-ancient-allan/chapter-04.html"
+url: "/authors/haggard-h-rider/the-ancient-allan/chapter-04.html"
 ---
 
 Short as was the time at my disposal before the dinner-gong sounded, it proved ample for reflection. With every article of attire that I discarded went some of that boudoir glamour till its last traces vanished with my walking-boots. I was fallen indeed. I who had come to this place so full of virtuous resolutions, could now only reflect upon the true and universal meaning of our daily prayer that we might be kept from temptation. And yet what had tempted me? For my life’s sake I could not say. The desire to please a most charming woman and to keep her from making solitary experiments of a dangerous nature, I suppose, though whether they should be less dangerous carried out jointly remained to be seen. Certainly it was not any wish to eat of her proffered apple of Knowledge, for already I knew a great deal more than I cared for about things in general. Oh! the truth was that woman is the mightiest force in the world, at any rate where the majority of us poor men is concerned. She commanded and I must obey.

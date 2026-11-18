@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Uncle Jerry Objects"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-15.html"
 ---
 
 Snowball really meant to be kind to the elderly dame, Aunt Nancy, who had objected to being led on the wild goose chases in which he delighted.

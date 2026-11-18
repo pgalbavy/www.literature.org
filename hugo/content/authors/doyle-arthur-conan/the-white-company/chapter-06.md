@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - How Samkin Aylward Wagered His Feather-Bed"
 weight: 6
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-06.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-06.html"
 ---
 
 HE was a middle-sized man, of most massive and robust build, with an arching chest and extraordinary breadth of shoulder. His shaven face was as brown as a hazel-nut, tanned and dried by the weather, with harsh, well-marked features, which were not improved by a long white scar which stretched from the corner of his left nostril to the angle of the jaw. His eyes were bright and searching, with something of menace and of authority in their quick glitter, and his mouth was firm-set and hard, as befitted one who was wont to set his face against danger. A straight sword by his side and a painted long-bow jutting over his shoulder proclaimed his profession, while his scarred brigandine of chain-mail and his dinted steel cap showed that he was no holiday soldier, but one who was even now fresh from the wars. A white surcoat with the lion of St. George in red upon the centre covered his broad breast, while a sprig of new-plucked broom at the side of his head-gear gave a touch of gayety and grace to his grim, war-worn equipment.

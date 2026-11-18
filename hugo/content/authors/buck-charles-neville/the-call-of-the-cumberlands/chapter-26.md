@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-26.html"
+url: "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-26.html"
 ---
 
 Except for those two reports there was no sound. Samson stood still, anticipating an uproar of alarm. Now, he should doubtless have to pay with his life for both the deaths which would inevitably and logically be attributed to his agency. But, strangely enough, no clamor arose. The shot inside had been muffled, and those outside, broken by the intervening store, did not arouse the house. Purvy's bodyguard had been sent away by Hollis on a false alarm. Only the "womenfolks" and children remained indoors, and they were drowning with a piano any sounds that might have come from without. That piano was the chief emblem of Purvy's wealth. It represented the acme of "having things hung up"; that ancient and expressive phrase, which had come down from days when the pioneers' worldly condition was gauged by the hams hanging in the smokehouse and the peppers, tobacco and herbs strung high against the rafters.

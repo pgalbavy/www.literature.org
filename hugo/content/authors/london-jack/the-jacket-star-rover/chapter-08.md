@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/london-jack/the-jacket-star-rover/chapter-08.html"
+url: "/authors/london-jack/the-jacket-star-rover/chapter-08.html"
 ---
 
 In solitary, in Cell One, Warden Atherton and Captain Jamie proceeded to put me to the inquisition. As Warden Atherton said to me:

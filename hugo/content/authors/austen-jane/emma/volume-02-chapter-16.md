@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 16"
 weight: 34
-aliases:
-  - "/authors/austen-jane/emma/volume-02-chapter-16.html"
+url: "/authors/austen-jane/emma/volume-02-chapter-16.html"
 ---
 
 Every body in and about Highbury who had ever visited Mr. Elton, was disposed to pay him attention on his marriage. Dinner-parties and evening-parties were made for him and his lady; and invitations flowed in so fast that she had soon the pleasure of apprehending they were never to have a disengaged day.

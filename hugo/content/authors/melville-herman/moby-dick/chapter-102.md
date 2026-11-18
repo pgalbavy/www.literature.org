@@ -1,8 +1,7 @@
 ---
 title: "Chapter 102 - A Bower in the Arsacides"
 weight: 102
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-102.html"
+url: "/authors/melville-herman/moby-dick/chapter-102.html"
 ---
 
 Hitherto, in descriptively treating of the Sperm Whale, I have chiefly dwelt upon the marvels of his outer aspect; or separately and in detail upon some few interior structural features. But to a large and thorough sweeping comprehension of him, it behoves me now to unbutton him still further, and untagging the points of his hose, unbuckling his garters, and casting loose the hooks and the eyes of the joints of his innermost bones, set him before you in his ultimatum; that is to say, in his unconditional skeleton.

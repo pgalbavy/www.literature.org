@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 12"
 weight: 46
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-03-chapter-12.html"
+url: "/authors/london-jack/valley-of-the-moon/book-03-chapter-12.html"
 ---
 
 Crossing the Sacramento on an old-fashioned ferry a short distance above Rio Vista, Saxon and Billy entered the river country. From the top of the levee she got her revelation. Beneath, lower than the river, stretched broad, flat land, far as the eye could see. Roads ran in every direction, and she saw countless farmhouses of which she had never dreamed when sailing on the lonely river a few feet the other side of the willowy fringe.

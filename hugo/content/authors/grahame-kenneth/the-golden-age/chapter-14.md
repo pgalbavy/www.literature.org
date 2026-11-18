@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - ‘Exit Tyrannus’"
 weight: 15
-aliases:
-  - "/authors/grahame-kenneth/the-golden-age/chapter-14.html"
+url: "/authors/grahame-kenneth/the-golden-age/chapter-14.html"
 ---
 
 THE eventful day had arrived at last, the day which, when first named, had seemed—like all golden dates that promise anything definite—so immeasurably remote. When it was first announced, a fortnight before, that Miss Smedley was really going, the resultant ecstasies had occupied a full week, during which we blindly revelled in the contemplation and discussion of her past tyrannies, crimes, malignities; in recalling to each other this or that insult, dishonour, or physical assault, sullenly endured at a time when deliverance was not even a small star on the horizon: and in mapping out the shining days to come, with special new troubles of their own, no doubt—since this is but a work-a-day world!—but at least free from one familiar scourge. The time that remained had been taken up by the planning of practical expressions of the popular sentiment. Under Edward’s masterly direction, arrangements had been made for a flag to be run up over the hen-house at the very moment when the fly, with Miss Smedley’s boxes on top and the grim oppressor herself inside, began to move off down the drive. Three brass cannons, set on the brow of the sunk-fence, were to proclaim our deathless sentiments in the ears of the retreating foe; the dogs were to wear ribbons; and later—but this depended on our powers of evasiveness and dissimulation—there might be a small bonfire, with a cracker or two if the public funds could bear the unwonted strain.

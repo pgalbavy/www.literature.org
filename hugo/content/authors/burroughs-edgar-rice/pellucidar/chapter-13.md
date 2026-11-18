@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Racing For Life"
 weight: 13
-aliases:
-  - "/authors/burroughs-edgar-rice/pellucidar/chapter-13.html"
+url: "/authors/burroughs-edgar-rice/pellucidar/chapter-13.html"
 ---
 
 At last the sea subsided, and we were able to get a better view of the armada of small boats in our wake. There must have been two hundred of them. Juag said that he had never seen so many boats before in all his life. Where had they come from? Juag was first to hazard a guess.

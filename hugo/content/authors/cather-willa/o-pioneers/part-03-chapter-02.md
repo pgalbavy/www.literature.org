@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 2"
 weight: 19
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-03-chapter-02.html"
+url: "/authors/cather-willa/o-pioneers/part-03-chapter-02.html"
 ---
 
 If Alexandra had had much imagination she might have guessed what was going on in Marie's mind, and she would have seen long before what was going on in Emil's. But that, as Emil himself had more than once reflected, was Alexandra's blind side, and her life had not been of the kind to sharpen her vision. Her training had all been toward the end of making her proficient in what she had undertaken to do. Her personal life, her own realization of herself, was almost a subconscious existence; like an underground river that came to the surface only here and there, at intervals months apart, and then sank again to flow on under her own fields. Nevertheless, the underground stream was there, and it was because she had so much personality to put into her enterprises and succeeded in putting it into them so completely, that her affairs prospered better than those of her neighbors.

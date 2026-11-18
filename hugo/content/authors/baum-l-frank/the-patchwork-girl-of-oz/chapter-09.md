@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-09.html"
+url: "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-09.html"
 ---
 
 "There seem to be very few houses around here, after all," remarked Ojo, after they had walked for a time in silence.

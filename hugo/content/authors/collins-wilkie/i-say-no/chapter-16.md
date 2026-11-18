@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Miss Jethro"
 weight: 16
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-16.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-16.html"
 ---
 
 A fortnight after the disappearance of Mrs. Ellmother, and the dismissal of Mrs. Mosey, Doctor Allday entered his consulting-room, punctual to the hour at which he was accustomed to receive patients.

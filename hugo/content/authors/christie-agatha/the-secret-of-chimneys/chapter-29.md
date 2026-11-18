@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Further Explanations"
 weight: 29
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-29.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-29.html"
 ---
 
 "You owe us an explanation, I think, Mr. Cade," said Herman Isaacstein, somewhat later in the evening.

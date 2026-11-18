@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/tarkington-booth/monsieur-beaucaire/chapter-02.html"
+url: "/authors/tarkington-booth/monsieur-beaucaire/chapter-02.html"
 ---
 
 The chairmen swarmed in the street at Lady Malbourne's door, where the joyous vulgar fought with muddied footmen and tipsy link-boys for places of vantage whence to catch a glimpse of quality and of raiment at its utmost. Dawn was in the east, and the guests were departing. Singly or in pairs, glittering in finery, they came mincing down the steps, the ghost of the night's smirk fading to jadedness as they sought the dark recesses of their chairs. From within sounded the twang of fiddles still swinging manfully at it, and the windows were bright with the light of many candles. When the door was flung open to call the chair of Lady Mary Carlisle, there was an eager pressure of the throng to see.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/cooper-courtney-ryley/the-white-desert/chapter-20.html"
+url: "/authors/cooper-courtney-ryley/the-white-desert/chapter-20.html"
 ---
 
 There was no time for conjectures. The woman meant a human life,--in deadly need of resuscitation, and Barry leaped to his task.

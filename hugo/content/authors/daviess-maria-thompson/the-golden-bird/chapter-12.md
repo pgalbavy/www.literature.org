@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/daviess-maria-thompson/the-golden-bird/chapter-12.html"
+url: "/authors/daviess-maria-thompson/the-golden-bird/chapter-12.html"
 ---
 
 The next morning it took Annette until ten o'clock and a shower of tears to get Bess and me to sit up and take our coffee. She said the decorators were downstairs beginning on Bess's wedding decorations and that the sun was shining on my wedding-day.

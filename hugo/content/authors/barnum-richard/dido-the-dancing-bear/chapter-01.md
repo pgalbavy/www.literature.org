@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Dido Cuts Up"
 weight: 1
-aliases:
-  - "/authors/barnum-richard/dido-the-dancing-bear/chapter-01.html"
+url: "/authors/barnum-richard/dido-the-dancing-bear/chapter-01.html"
 ---
 
 In the woods, on top of a mountain, in a far-off country there once lived a family of nice bears. I call them nice bears for they were. Of course they had long claws, and sharp teeth, but they never bit any one, or scratched any one, because there were no boys or girls, or men or women, living in that part of the woods.

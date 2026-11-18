@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - Friend"
 weight: 34
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-34.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-34.html"
 ---
 
 Though very happy in the social atmosphere about her, and very busy with the daily work that earned her bread and made it sweeter for the effort, Jo still found time for literary labors. The purpose which now took possession of her was a natural one to a poor and ambitious girl, but the means she took to gain her end were not the best. She saw that money conferred power, money and power, therefore, she resolved to have, not to be used for herself alone, but for those whom she loved more than life. The dream of filling home with comforts, giving Beth everything she wanted, from strawberries in winter to an organ in her bedroom, going abroad herself, and always having more than enough, so that she might indulge in the luxury of charity, had been for years Jo's most cherished castle in the air.

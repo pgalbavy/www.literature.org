@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Fortunate Diversion"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-17.html"
 ---
 
 Mickey O'Rooney had not thought of the "opening" over their heads since the firing of his rifle-shot, and he now started and looked upward, as if fearful that he had committed a fatal oversight. But he saw or heard nothing to excite alarm.

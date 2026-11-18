@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The End"
 weight: 20
-aliases:
-  - "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-20.html"
+url: "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-20.html"
 ---
 
 The boy at the fire let out a yelp and dropped flat. Dudley and Baker, invisible somewhere, neither spoke nor stirred. And I stood like a fool, as near the death of Nicholas Dane Stretton as ever I wish to get.

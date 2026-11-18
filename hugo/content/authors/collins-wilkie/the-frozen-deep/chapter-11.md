@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/collins-wilkie/the-frozen-deep/chapter-11.html"
+url: "/authors/collins-wilkie/the-frozen-deep/chapter-11.html"
 ---
 
 "Still at work!" Crayford exclaimed, looking at the half-demolished bed-place. "Give yourself a little rest, Richard. The exploring party is ready to start. If you wish to take leave of your brother officers before they go, you have no time to lose."

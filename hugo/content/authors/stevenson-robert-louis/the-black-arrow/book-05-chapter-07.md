@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 7 - Dick's Revenge"
 weight: 32
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-05-chapter-07.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-05-chapter-07.html"
 ---
 
 The next morning Dick was afoot before the sun, and having dressed himself to the best advantage with the aid of the Lord Foxham's baggage, and got good reports of Joan, he set forth on foot to walk away his impatience.

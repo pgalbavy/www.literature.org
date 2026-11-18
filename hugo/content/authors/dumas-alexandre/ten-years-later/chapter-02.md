@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Messenger"
 weight: 2
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-02.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-02.html"
 ---
 
 Mademoiselle de Montalais was right; the young cavalier was goodly to look upon.

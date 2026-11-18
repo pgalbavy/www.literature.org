@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/collins-wilkie/the-frozen-deep/chapter-01.html"
+url: "/authors/collins-wilkie/the-frozen-deep/chapter-01.html"
 ---
 
 The date is between twenty and thirty years ago. The place is an English sea-port. The time is night. And the business of the moment is--dancing.

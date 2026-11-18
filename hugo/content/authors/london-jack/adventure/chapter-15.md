@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Discourse On Manners"
 weight: 15
-aliases:
-  - "/authors/london-jack/adventure/chapter-15.html"
+url: "/authors/london-jack/adventure/chapter-15.html"
 ---
 
 The days passed, and Tudor seemed loath to leave the hospitality of Berande. Everything was ready for the start, but he lingered on, spending much time in Joan's company and thereby increasing the dislike Sheldon had taken to him. He went swimming with her, in point of rashness exceeding her; and dynamited fish with her, diving among the hungry ground-sharks and contesting with them for possession of the stunned prey, until he earned the approval of the whole Tahitian crew. Arahu challenged him to tear a fish from a shark's jaws, leaving half to the shark and bringing the other half himself to the surface; and Tudor performed the feat, a flip from the sandpaper hide of the astonished shark scraping several inches of skin from his shoulder. And Joan was delighted, while Sheldon, looking on, realized that here was the hero of her adventure-dreams coming true. She did not care for love, but he felt that if ever she did love it would be that sort of a man--"a man who exhibited," was his way of putting it.

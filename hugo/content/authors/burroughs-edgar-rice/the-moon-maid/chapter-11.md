@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Meeting With Ko-Tah"
 weight: 12
-aliases:
-  - "/authors/burroughs-edgar-rice/the-moon-maid/chapter-11.html"
+url: "/authors/burroughs-edgar-rice/the-moon-maid/chapter-11.html"
 ---
 
 The pursuers were not yet in sight, but I knew from the nearness of the sound of approaching footsteps that it would be impossible to complete the splicing of the spears, to find a secure place for the hook above, and for me to scramble upward to the rim of the crater and haul Moh-goh after me before they should be upon us. Our position looked almost hopeless. I could think of no avenue of escape, and yet I tried, and as I stood there with bent head, my eyes cast upon the floor of the tunnel, they fell upon the neatly coiled rope lying at my feet, one end of which was fastened securely about my waist. Instantly there flashed into my mind a mad inspiration. I glanced up at the overhanging rim above me. Could I do it? There was a chance— the lesser gravity of the Moon placed the thing within the realm of possibility, and yet by all earthly standards it was impossible. I did not wait, I could not wait, for had I given the matter any thought I doubt that I would have had the nerve to attempt it. Behind me lay a cavern opening into the depths of space, into which I should be dashed if my mad plan failed; but, what of it? Better death than slavery. I stooped low, then, and concentrating every faculty upon absolute coordination of mind and muscles, I leaped straight upward with all the strength of my legs.

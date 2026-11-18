@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Wonderful Cavern"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/the-forest-monster/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/the-forest-monster/chapter-10.html"
 ---
 
 Teddy O’Doherty had no time to wonder how these red-skins had got there. It was sufficient to know that he was thrown among them, and that there was no retreat for either party.

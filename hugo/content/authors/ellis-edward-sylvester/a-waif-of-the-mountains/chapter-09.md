@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Cloud Of War"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-09.html"
 ---
 
 "I *KNOW* the cause of Dawson's trouble," remarked Vose Adams, late one night at the Heavenly Bower.

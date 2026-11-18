@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Flop Ear Gets Home Again"
 weight: 12
-aliases:
-  - "/authors/barnum-richard/flop-ear-the-funny-rabbit/chapter-12.html"
+url: "/authors/barnum-richard/flop-ear-the-funny-rabbit/chapter-12.html"
 ---
 
 “What are you doing in these woods?” asked Mappo of Flop Ear, as soon as the merry monkey had seated himself on a soft cushion of green moss at the foot of the tree.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Change"
 weight: 17
-aliases:
-  - "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-16.html"
+url: "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-16.html"
 ---
 
 She ceased, and there was a long, long silence. Leo and I looked at each other in dismay. We had hoped against hope that this beautiful and piteous prayer, addressed apparently to the great, dumb spirit of Nature, would be answered. That meant a miracle, but what of it? The prolongation of the life of Ayesha was a miracle, though it is true that some humble reptiles are said to live as long as she had done.

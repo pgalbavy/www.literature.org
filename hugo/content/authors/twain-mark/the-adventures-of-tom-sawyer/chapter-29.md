@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 30
-aliases:
-  - "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-29.html"
+url: "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-29.html"
 ---
 
 THE first thing Tom heard on Friday morning was a glad piece of news - Judge Thatcher's family had come back to town the night before. Both Injun Joe and the treasure sunk into secondary importance for a moment, and Becky took the chief place in the boy's interest. He saw her and they had an exhausting good time playing "hi-spy" and "gully-keeper" with a crowd of their school-mates. The day was completed and crowned in a peculiarly satisfactory way: Becky teased her mother to appoint the next day for the long-promised and long-delayed picnic, and she consented. The child's delight was boundless; and Tom's not more moderate. The invitations were sent out before sunset, and straightway the young folks of the village were thrown into a fever of preparation and pleasurable anticipation. Tom's excitement enabled him to keep awake until a pretty late hour, and he had good hopes of hearing Huck's "maow," and of having his treasure to astonish Becky and the picnickers with, next day; but he was disappointed. No signal came that night.

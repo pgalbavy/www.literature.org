@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/elliss-primary-physiology/preface.html"
+url: "/authors/ellis-edward-sylvester/elliss-primary-physiology/preface.html"
 ---
 
 *TO THE MALE TEACHER*

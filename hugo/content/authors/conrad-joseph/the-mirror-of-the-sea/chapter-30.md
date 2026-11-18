@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-30.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-30.html"
 ---
 
 *THE* estuaries of rivers appeal strongly to an adventurous imagination. This appeal is not always a charm, for there are estuaries of a particularly dispiriting ugliness: lowlands, mud-flats, or perhaps barren sandhills without beauty of form or amenity of aspect, covered with a shabby and scanty vegetation conveying the impression of poverty and uselessness. Sometimes such an ugliness is merely a repulsive mask. A river whose estuary resembles a breach in a sand rampart may flow through a most fertile country. But all the estuaries of great rivers have their fascination, the attractiveness of an open portal. Water is friendly to man. The ocean, a part of Nature furthest removed in the unchangeableness and majesty of its might from the spirit of mankind, has ever been a friend to the enterprising nations of the earth. And of all the elements this is the one to which men have always been prone to trust themselves, as if its immensity held a reward as vast as itself.

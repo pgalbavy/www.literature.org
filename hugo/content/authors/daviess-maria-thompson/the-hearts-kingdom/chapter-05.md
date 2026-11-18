@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Having It Out"
 weight: 5
-aliases:
-  - "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-05.html"
+url: "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-05.html"
 ---
 
 "Well, of course, we knew Nickols would follow you, Charlotte, but we did hope to have you all to ourselves for more than just a week," moaned Nell Morgan, as we all sat on the front porch of the Poplars in the warm spring sunlight several mornings after I had told them of Nickols' arrival on Friday, which announcement had come in the midnight telegram. I winced at the words "follow you," and then smiled at the absurdity of the little shudder.

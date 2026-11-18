@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/woolf-virginia/the-voyage-out/chapter-25.html"
+url: "/authors/woolf-virginia/the-voyage-out/chapter-25.html"
 ---
 
 The afternoon was very hot, so hot that the breaking of the waves on the shore sounded like the repeated sigh of some exhausted creature, and even on the terrace under an awning the bricks were hot, and the air danced perpetually over the short dry grass. The red flowers in the stone basins were drooping with the heat, and the white blossoms which had been so smooth and thick only a few weeks ago were now dry, and their edges were curled and yellow. Only the stiff and hostile plants of the south, whose fleshy leaves seemed to be grown upon spines, still remained standing upright and defied the sun to beat them down. It was too hot to talk, and it was not easy to find any book that would withstand the power of the sun. Many books had been tried and then let fall, and now Terence was reading Milton aloud, because he said the words of Milton had substance and shape, so that it was not necessary to understand what he was saying; one could merely listen to his words; one could almost handle them.

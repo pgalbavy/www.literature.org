@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Inevitable White Man"
 weight: 7
-aliases:
-  - "/authors/london-jack/south-sea-tales/chapter-07.html"
+url: "/authors/london-jack/south-sea-tales/chapter-07.html"
 ---
 
 "The black will never understand the white, nor the white the black, as long as black is black and white is white."

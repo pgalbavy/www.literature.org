@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Olive-Green Frock-Coat"
 weight: 9
-aliases:
-  - "/authors/leblanc-maurice/813/chapter-08.html"
+url: "/authors/leblanc-maurice/813/chapter-08.html"
 ---
 
 A quarter past twelve, in a restaurant near the Madeleine. The prince is at lunch. Two young men sit down at the next table. He bows to them and begins to speak to them, as to friends whom he has met by chance.

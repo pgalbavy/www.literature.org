@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 4"
 weight: 4
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-01-chapter-04.html"
+url: "/authors/london-jack/valley-of-the-moon/book-01-chapter-04.html"
 ---
 
 After dinner there were two dances in the pavilion, and then the band led the way to the race track for the games. The dancers followed, and all through the grounds the picnic parties left their tables to join in. Five thousand packed the grassy slopes of the amphitheater and swarmed inside the race track. Here, first of the events, the men were lining up for a tug of war. The contest was between the Oakland Bricklayers and the San Francisco Bricklayers, and the picked braves, huge and heavy, were taking their positions along the rope. They kicked heel-holds in the soft earth, rubbed their hands with the soil from underfoot, and laughed and joked with the crowd that surged about them.

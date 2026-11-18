@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 17"
 weight: 35
-aliases:
-  - "/authors/austen-jane/emma/volume-02-chapter-17.html"
+url: "/authors/austen-jane/emma/volume-02-chapter-17.html"
 ---
 
 When the ladies returned to the drawing-room after dinner, Emma found it hardly possible to prevent their making two distinct parties;--with so much perseverance in judging and behaving ill did Mrs. Elton engross Jane Fairfax and slight herself. She and Mrs. Weston were obliged to be almost always either talking together or silent together. Mrs. Elton left them no choice. If Jane repressed her for a little time, she soon began again; and though much that passed between them was in a half-whisper, especially on Mrs. Elton's side, there was no avoiding a knowledge of their principal subjects: The post-office--catching cold--fetching letters--and friendship, were long under discussion; and to them succeeded one, which must be at least equally unpleasant to Jane--inquiries whether she had yet heard of any situation likely to suit her, and professions of Mrs. Elton's meditated activity.

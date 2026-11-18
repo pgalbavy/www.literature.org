@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/tarkington-booth/harlequin-and-columbine/chapter-05.html"
+url: "/authors/tarkington-booth/harlequin-and-columbine/chapter-05.html"
 ---
 
 When Canby (with his hair smoothed) descended to the basement dining room of his Madison Avenue boarding-house that evening, his table comrades gave him an effective entrance; they rose, waving napkins and cheering, and there were cries of "Author! Author!" "Speech!" and "Cher maitre!"

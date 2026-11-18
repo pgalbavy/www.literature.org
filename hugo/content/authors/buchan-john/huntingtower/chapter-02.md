@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Of Mr. John Heritage And The Difference In Points Of View"
 weight: 3
-aliases:
-  - "/authors/buchan-john/huntingtower/chapter-02.html"
+url: "/authors/buchan-john/huntingtower/chapter-02.html"
 ---
 
 Dickson McCunn was never to forget the first stage in that pilgrimage. A little after midday he descended from a grimy third-class carriage at a little station whose name I have forgotten. In the village near-by he purchased some new-baked buns and ginger biscuits, to which he was partial, and followed by the shouts of urchins, who admired his pack—"Look at the auld man gaun to the schule"—he emerged into open country. The late April noon gleamed like a frosty morning, but the air, though tonic, was kind. The road ran over sweeps of moorland where curlews wailed, and into lowland pastures dotted with very white, very vocal lambs. The young grass had the warm fragrance of new milk. As he went he munched his buns, for he had resolved to have no plethoric midday meal, and presently he found the burnside nook of his fancy, and halted to smoke. On a patch of turf close to a grey stone bridge he had out his Walton and read the chapter on "The Chavender or Chub." The collocation of words delighted him and inspired him to verse. "Lavender or Lub"—"Pavender or Pub"—"Gravender or Grub"—but the monosyllables proved too vulgar for poetry. Regretfully he desisted.

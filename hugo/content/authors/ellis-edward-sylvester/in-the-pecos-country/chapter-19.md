@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Mysterious Pursuer"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-19.html"
 ---
 
 Young Munson made a sudden bound outward, and, just as he did so, a mass of rock weighing fully a dozen tons, fell upon the precise spot where he had stood, missing him so narrowly that the blast of wind, or rather concussion of the air, was plainly felt. The boulder broke into several pieces, its momentum being so terrific that the ground for several feet around was jarred as if by an earthquake.

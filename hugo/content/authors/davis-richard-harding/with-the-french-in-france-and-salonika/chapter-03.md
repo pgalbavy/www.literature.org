@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Zigzag Front Of Champagne"
 weight: 4
-aliases:
-  - "/authors/davis-richard-harding/with-the-french-in-france-and-salonika/chapter-03.html"
+url: "/authors/davis-richard-harding/with-the-french-in-france-and-salonika/chapter-03.html"
 ---
 
 PARIS, October, 1915.

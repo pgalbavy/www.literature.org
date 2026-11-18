@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 13"
 weight: 21
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-02-chapter-13.html"
+url: "/authors/haggard-h-rider/cleopatra/book-02-chapter-13.html"
 ---
 
 OF THE REPROACH OF HARMACHIS; OF THE STRUGGLE OF HARMACHIS WITH THE GUARDS; OF THE BLOW OF BRENNUS; AND OF THE SECRET SPEECH OF CLEOPATRA

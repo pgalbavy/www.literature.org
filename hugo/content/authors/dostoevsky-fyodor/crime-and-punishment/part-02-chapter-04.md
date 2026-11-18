@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 4"
 weight: 12
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-02-chapter-04.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-02-chapter-04.html"
 ---
 
 Zossimov was a tall, fat man with a puffy, colourless, clean-shaven face and straight flaxen hair. He wore spectacles, and a big gold ring on his fat finger. He was twenty-seven. He had on a light grey fashionable loose coat, light summer trousers, and everything about him loose, fashionable and spick and span; his linen was irreproachable, his watch-chain was massive. In manner he was slow and, as it were, nonchalant, and at the same time studiously free and easy; he made efforts to conceal his self-importance, but it was apparent at every instant. All his acquaintances found him tedious, but said he was clever at his work.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Return Of James More"
 weight: 26
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-25.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-25.html"
 ---
 
 I was called on the morrow out of a late and troubled slumber by a knocking on my door, ran to open it, and had almost swooned with the contrariety of my feelings, mostly painful; for on the threshold, in a rough wraprascal and an extraordinary big laced hat, there stood James More.

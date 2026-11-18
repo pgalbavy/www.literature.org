@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 10"
 weight: 10
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-10.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-10.html"
 ---
 
 The day passed much as the day before had done. Mrs. Hurst and Miss Bingley had spent some hours of the morning with the invalid, who continued, though slowly, to mend; and in the evening Elizabeth joined their party in the drawing-room. The loo table, however, did not appear. Mr. Darcy was writing, and Miss Bingley, seated near him, was watching the progress of his letter, and repeatedly calling off his attention by messages to his sister. Mr. Hurst and Mr. Bingley were at piquet, and Mrs. Hurst was observing their game.

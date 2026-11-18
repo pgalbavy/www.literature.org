@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - A Surprise For Jimmie"
 weight: 19
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-19.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-19.html"
 ---
 
 When Jimmie saw the planes of the flying machine on the east side of the summit he dodged away in order that the aviator still below the line of the ridge might not catch sight of the Louise until he was himself well in the air. The boy wanted to know, before coming to close quarters, whether this machine was a new one in that vicinity, and whether the man in charge was in sympathy with those on the shelf below.

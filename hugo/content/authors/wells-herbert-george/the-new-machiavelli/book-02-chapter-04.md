@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 4 - The House In Westminster"
 weight: 8
-aliases:
-  - "/authors/wells-herbert-george/the-new-machiavelli/book-02-chapter-04.html"
+url: "/authors/wells-herbert-george/the-new-machiavelli/book-02-chapter-04.html"
 ---
 
 1

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Danger"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-22.html"
 ---
 
 Three Indians walked leisurely down to the shore of the river, as though in quest of nothing particular, and stood gesticulating as they generally do with their whole arms. They were about two hundred yards above the point where Tim O'Rooney landed, but their position was such that the canoe might have rested on the surface of the water without being seen. Sensible of their danger, the boys at first sight of them withdrew into cover, from which they cautiously peered out and watched their movements.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-18.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-18.html"
 ---
 
 So if the time ever came when Boone stood face to face with Saul Fulton, it would, for all the amendment of his new life, be a moment of desperate crisis. The pig iron of his half-savage beginning had been made malleable and held promise of tempered and flexible steel--but the metal was still feudist ore. McCalloway comforted himself with the reflection that Saul was not likely to return, but did not delude himself into forgetting that strange perversity which seems to draw the mountaineer inevitably back to his crags and woods, even in the face of innumerable perils. Some day Saul might attempt to slip back, and Boone would almost inevitably hear of his coming. Then for a day or an hour, the lad might relapse into his old self, even to the forgetting of his pledge. Such an inconsidered day or an hour would be enough to wreck his life.

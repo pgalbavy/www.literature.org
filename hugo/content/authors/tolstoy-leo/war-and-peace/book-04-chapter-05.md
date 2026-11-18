@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 5"
 weight: 73
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-04-chapter-05.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-04-chapter-05.html"
 ---
 
 "Well begin!" said Dolokhov.

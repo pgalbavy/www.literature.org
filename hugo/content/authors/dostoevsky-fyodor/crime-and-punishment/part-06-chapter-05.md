@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 5"
 weight: 37
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-06-chapter-05.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-06-chapter-05.html"
 ---
 
 "What's this?" cried Svidrigaïlov turning round, "I thought I said . . ."

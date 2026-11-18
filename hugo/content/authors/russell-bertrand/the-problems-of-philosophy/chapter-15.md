@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Value Of Philosophy"
 weight: 16
-aliases:
-  - "/authors/russell-bertrand/the-problems-of-philosophy/chapter-15.html"
+url: "/authors/russell-bertrand/the-problems-of-philosophy/chapter-15.html"
 ---
 
 Having now come to the end of our brief and very incomplete review of the problems of philosophy, it will be well to consider, in conclusion, what is the value of philosophy and why it ought to be studied. It is the more necessary to consider this question, in view of the fact that many men, under the influence of science or of practical affairs, are inclined to doubt whether philosophy is anything better than innocent but useless trifling, hair-splitting distinctions, and controversies on matters concerning which knowledge is impossible.

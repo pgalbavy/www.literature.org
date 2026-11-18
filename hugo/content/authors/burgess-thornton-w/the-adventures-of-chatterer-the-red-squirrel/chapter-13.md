@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Chatterer Is Put In Prison"
 weight: 13
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-13.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-13.html"
 ---
 
 Who ever does a deed that's wrong  

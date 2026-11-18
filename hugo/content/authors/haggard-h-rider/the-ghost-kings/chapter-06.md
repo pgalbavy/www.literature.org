@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Casting Of The Lots"
 weight: 7
-aliases:
-  - "/authors/haggard-h-rider/the-ghost-kings/chapter-06.html"
+url: "/authors/haggard-h-rider/the-ghost-kings/chapter-06.html"
 ---
 
 They reached the crest of the last rise, and there, facing them on the slope of the opposite wave of land, stood the waggon, surrounded by the thorn fence, within which the cattle and horses were still enclosed, doubtless for fear of the Zulus. Nothing could be more peaceful than the aspect of that camp. To look at it no one would have believed that within a few hundred yards a hideous massacre had just taken place. Presently, however, voices began to shout, and heads to bob up over the fence. Then it occurred to Rachel that they must think she was a prisoner in the charge of a Zulu, and she told Noie to lower the shield which she still held in front of her. The next instant some thorns were torn out, and her father, a gun in his hand, appeared striding towards them.

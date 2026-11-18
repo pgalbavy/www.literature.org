@@ -1,8 +1,7 @@
 ---
 title: "Chapter 117 - The Whale Watch"
 weight: 117
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-117.html"
+url: "/authors/melville-herman/moby-dick/chapter-117.html"
 ---
 
 The four whales slain that evening had died wide apart; one, far to windward; one less distant, to leeward; one ahead; one astern. These last three were brought alongside ere nightfall; but the windward one could not be reached till morning; and the boat that had killed it lay by its side all night; and that boat was Ahab's.

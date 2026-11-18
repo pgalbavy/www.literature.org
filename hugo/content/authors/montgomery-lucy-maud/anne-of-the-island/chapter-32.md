@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - Tea With Mrs. Douglas"
 weight: 32
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-32.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-32.html"
 ---
 
 On the first Thursday night of Anne's sojourn in Valley Road Janet asked her to go to prayer-meeting. Janet blossomed out like a rose to attend that prayer-meeting. She wore a pale-blue, pansy-sprinkled muslin dress with more ruffles than one would ever have supposed economical Janet could be guilty of, and a white leghorn hat with pink roses and three ostrich feathers on it. Anne felt quite amazed. Later on, she found out Janet's motive in so arraying herself -- a motive as old as Eden.

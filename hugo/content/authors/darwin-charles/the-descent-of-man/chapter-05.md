@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/darwin-charles/the-descent-of-man/chapter-05.html"
+url: "/authors/darwin-charles/the-descent-of-man/chapter-05.html"
 ---
 
 THE subjects to be discussed in this chapter are of the highest interest, but are treated by me in an imperfect and fragmentary manner. Mr. Wallace, in an admirable paper before referred to,* argues that man, after he had partially acquired those intellectual and moral faculties which distinguish him from the lower animals, would have been but little liable to bodily modifications through natural selection or any other means. For man is enabled through his mental faculties "to keep with an unchanged body in harmony with the changing universe." He has great power of adapting his habits to new conditions of life. He invents weapons, tools, and various stratagems to procure food and to defend himself. When he migrates into a colder climate he uses clothes, builds sheds, and makes fires; and by the aid of fire cooks food otherwise indigestible. He aids his fellow-men in many ways, and anticipates future events. Even at a remote period he practised some division of labour.

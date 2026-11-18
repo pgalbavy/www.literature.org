@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 7 - Monseigneur in Town"
 weight: 13
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-07.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-07.html"
 ---
 
 MONSEIGNEUR, one of the great lords in power at the Court, held his fortnightly reception in his grand hotel in Paris. Monseigneur was in his inner room, his sanctuary of sanctuaries, the Holiest of Holiests to the crowd of worshippers in the suite of rooms without. Monseigneur was about to take his chocolate. Monseigneur could swallow a great many things with ease, and was by some few sullen minds supposed to be rather rapidly swallowing France; but, his morning's chocolate could not so much as get into the throat of Monseigneur, without the aid of four strong men besides the Cook.

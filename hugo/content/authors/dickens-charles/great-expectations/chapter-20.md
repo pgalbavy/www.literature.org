@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-20.html"
+url: "/authors/dickens-charles/great-expectations/chapter-20.html"
 ---
 
 THE journey from our town to the metropolis, was a journey of about five hours. It was a little past mid-day when the four- horse stage-coach by which I was a passenger, got into the ravel of traffic frayed out about the Cross Keys, Wood-street, Cheapside, London.

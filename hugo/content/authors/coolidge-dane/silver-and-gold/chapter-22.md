@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Rock-Drilling Contest"
 weight: 23
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/chapter-22.html"
+url: "/authors/coolidge-dane/silver-and-gold/chapter-22.html"
 ---
 
 The main street of Globe was swarming with men, from the court-house square down past the viaduct to where the Bohunks dwelt. And the men were all miners, deep-chested and square-shouldered, but white from working underground. They were gathered in knots before the soft-drink emporiums that before had all been saloons and as Denver rode in they shouted a hoarse welcome and followed on to Miners' Hall. There the Committee of Arrangements was sitting in state but when Denver strode in a huge form bulked up before him and Slogger Meacham grinned at him evilly. Two months before, on the Fourth of July, they had been partners in the winning team; but now Meacham had taken on with a Cornishman from Miami and they counted the money as good as won.

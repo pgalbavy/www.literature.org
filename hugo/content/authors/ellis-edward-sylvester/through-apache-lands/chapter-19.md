@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - A Terrible Meeting"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-19.html"
 ---
 
 As he moved along, weary and worn, the memory of the horrid fight he had seen by the camp fire, and especially the picture of those three stark, bloody forms that lay stretched upon the earth, seemingly watching every movement he made, followed and weighed him down like some smothering incubus. Then he saw, more vividly than ever before, the mountainous task ahead. With no horse, and the hundreds of miles of mountain and prairie, with the dangers besetting him on every hand, what possible hope had he for believing he was ever to reach his destination? The gloom of the night, the shadow of what he had so recently witnessed, and his own exhausted condition, no doubt had much to do with the distress; for his prospects were certainly as good as at morning, when he was so full of enthusiasm.

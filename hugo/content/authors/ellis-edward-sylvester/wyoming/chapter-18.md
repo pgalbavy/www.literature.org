@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-18.html"
 ---
 
 The crack of Richard Brainerd's rifle and the death-shriek of the Seneca Indian were almost simultaneous, but the redskin was only a slight way in advance of the other savages, who, understanding the meaning of the report and outcry, dashed forward.

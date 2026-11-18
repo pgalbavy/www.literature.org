@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Warned"
 weight: 28
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-28.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-28.html"
 ---
 
 It was even later than usual this evening when Fergus Derrick left the Rectory. When Mr. Barholm was in his talkative mood, it was not easy for him to break away. So Derrick was fain to listen and linger, and then supper was brought in and he was detained again, and at eleven o'clock Mr. Barholm suddenly hit upon a new topic.

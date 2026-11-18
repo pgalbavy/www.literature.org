@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-18.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-18.html"
 ---
 
 Dinner at the Lodge that night was not a very lively affair. Trent had great matters in his brain and was not in the least disposed to make conversation for the sake of his unbidden guests. Da Souza's few remarks he treated with silent contempt, and Mrs. Da Souza he answered only in monosyllables. Julie, nervous and depressed, stole away before dessert, and Mrs. Da Souza soon followed her, very massive, and frowning with an air of offended dignity. Da Souza, who opened the door for them, returned to his seat, moodily flicking the crumbs from his trousers with his serviette.

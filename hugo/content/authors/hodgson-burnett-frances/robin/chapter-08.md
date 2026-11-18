@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-08.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-08.html"
 ---
 
 The other woman who loved and was loved by him moved about her world in these days with a face less radiant than the one people turned to look at in the street or in its passing through the house in Eaton Square. Helen Muir's eyes were grave and pondered. She had always known of the sometime coming of the hour in which would rise the shadow--to him a cloud of rapture--which must obscure the old clearness of vision which had existed between them. She had been too well balanced of brain to allow herself to make a tragedy of it or softly to sentimentalise of loss. It was mere living nature that it should be so. He would be as always, a beloved wonder of dearness and beauty when his hour came and she would look on and watch and be so cleverly silent and delicately detached from his shy, aloof young moods, his funny, dear involuntary secrets and reserves. But at any moment--day or night--at any elate emotional moment ready!

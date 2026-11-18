@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 1"
 weight: 69
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-04-chapter-01.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-04-chapter-01.html"
 ---
 
 BOOK FOUR: 1806

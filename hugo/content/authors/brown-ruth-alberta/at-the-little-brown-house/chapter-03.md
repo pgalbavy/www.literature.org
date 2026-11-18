@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Shoes And Strawberries"
 weight: 3
-aliases:
-  - "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-03.html"
+url: "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-03.html"
 ---
 
 "Cherry! Cherry Greenfield!" called Peace, imperatively, flapping a newspaper vigorously, as if to add emphasis to her summons.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Tommy Fox Learns To Hunt"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-03.html"
 ---
 
 Tommy Fox was hunting crickets in the field near his mother's house. Being a young fox, not much more than half-grown, Tommy knew very little of hunting. In fact, crickets were about the only thing he could hunt and catch. Of course, any one can hunt. The hard part of it is to catch what you are hunting.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A Man Surprised At His Originality"
 weight: 4
-aliases:
-  - "/authors/eliot-george/impressions-of-theophrastus-such/chapter-04.html"
+url: "/authors/eliot-george/impressions-of-theophrastus-such/chapter-04.html"
 ---
 
 Among the many acute sayings of La Rochefoucauld, there is hardly one more acute than this: "La plus grande ambition n'en a pas la moindre apparence lorsqu'elle se rencontre dans une impossibilité absolue d'arriver où elle aspire." Some of us might do well to use this hint in our treatment of acquaintances and friends from whom we are expecting gratitude because we are so very kind in thinking of them, inviting them, and even listening to what they say - considering how insignificant they must feel themselves to be. We are often fallaciously confident in supposing that our friend's state of mind is appropriate to our moderate estimate of his importance: almost as if we imagined the humble mollusc (so useful as an illustration) to have a sense of his own exceeding softness and low place in the scale of being. Your mollusc, on the contrary, is inwardly objecting to every other grade of solid rather than to himself. Accustomed to observe what we think an unwarrantable conceit exhibiting itself in ridiculous pretensions and forwardness to play the lion's part, in obvious self-complacency and loud peremptoriness, we are not on the alert to detect the egoistic claims of a more exorbitant kind often hidden under an apparent neutrality or an acquiescence in being put out of the question.

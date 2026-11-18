@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-02.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-02.html"
 ---
 
 I perceive, with joy, my most valued friend, that the cloud of your displeasure has passed away; the light of your countenance blesses me once more, and you desire the continuation of my story: therefore, without more ado, you shall have it.

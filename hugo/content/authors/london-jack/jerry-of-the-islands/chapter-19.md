@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 20
-aliases:
-  - "/authors/london-jack/jerry-of-the-islands/chapter-19.html"
+url: "/authors/london-jack/jerry-of-the-islands/chapter-19.html"
 ---
 
 And had Bashti hastened delivery of the wives by one day, or by even two days, Nalasu would have entered the feared, purgatory of matrimony. But Bashti kept his word, and on the third day was too busy, with a more momentous problem, to deliver Bubu and Nena to the blind old man who apprehensively waited their coming. For the morning of the third day all the summits of leeward Malaita smoked into speech. A warship was on the coast--so the tale ran; a big warship that was heading in through the reef islands at Langa-Langa. The tale grew. The warship was not stopping at Langa-Langa. The warship was not stopping at Binu. It was directing its course toward Somo.

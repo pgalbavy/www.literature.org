@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Weber Takes His Revenge"
 weight: 16
-aliases:
-  - "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-16.html"
+url: "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-16.html"
 ---
 
 Don Luis was for one moment amazed. Florence Levasseur here! Florence, whom he had left in the train under Mazeroux's supervision and for whom it was physically impossible to be back in Paris before eight o'clock in the evening!

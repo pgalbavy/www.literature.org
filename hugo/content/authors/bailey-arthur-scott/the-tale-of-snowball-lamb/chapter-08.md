@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Salting The Sheep"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-08.html"
 ---
 
 Snowball Lamb stood in the pasture apart from the rest of the flock. Aunt Nancy Ewe had returned to her grazing. And not one of her companions acted as if some dreadful peril hung over him. Nobody would have thought, to look at the flock, that they were about to have salt put on their tails. But Snowball knew that it was so. Far down the valley he could hear old Mr. Crow's warning caw, caw, telling him again to beware of Johnnie Green.

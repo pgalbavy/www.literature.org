@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Where the Brook and River Meet"
 weight: 31
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-31.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-31.html"
 ---
 
 Anne had her "good" summer and enjoyed it wholeheartedly. She and Diana fairly lived outdoors, reveling in all the delights that Lover's Lane and the Dryad's Bubble and Willowmere and Victoria Island afforded. Marilla offered no objections to Anne's gypsyings. The Spencervale doctor who had come the night Minnie May had the croup met Anne at the house of a patient one afternoon early in vacation, looked her over sharply, screwed up his mouth, shook his head, and sent a message to Marilla Cuthbert by another person. It was:

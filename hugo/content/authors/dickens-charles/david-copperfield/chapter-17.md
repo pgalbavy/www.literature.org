@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Somebody Turns Up"
 weight: 18
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-17.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-17.html"
 ---
 
 It has not occurred to me to mention Peggotty since I ran away; but, of course, I wrote her a letter almost as soon as I was housed at Dover, and another, and a longer letter, containing all particulars fully related, when my aunt took me formally under her protection. On my being settled at Doctor Strong’s I wrote to her again, detailing my happy condition and prospects. I never could have derived anything like the pleasure from spending the money Mr. Dick had given me, that I felt in sending a gold half-guinea to Peggotty, per post, enclosed in this last letter, to discharge the sum I had borrowed of her: in which epistle, not before, I mentioned about the young man with the donkey-cart.

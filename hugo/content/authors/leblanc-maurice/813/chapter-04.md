@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Prince Sernine At Work"
 weight: 5
-aliases:
-  - "/authors/leblanc-maurice/813/chapter-04.html"
+url: "/authors/leblanc-maurice/813/chapter-04.html"
 ---
 
 A ground-floor flat, at the corner of the Boulevard Haussmann and the Rue de Courcelles. Here lived Prince Sernine: Prince Sernine, one of the most brilliant members of the Russian colony in Paris, whose name was constantly recurring in the "Arrivals and Departures" column in the newspapers.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 52 - The Apparition"
 weight: 54
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-52.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-52.html"
 ---
 
 THE night had advanced. It was close on twelve o'clock when Anne heard the servant's voice, outside her bedroom door, asking leave to speak with her for a moment.

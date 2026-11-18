@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - A New Suit"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-21.html"
 ---
 
 Throughout Pleasant Valley the very name of Grumpy Weasel was a bugaboo. Those of his size, and many a good deal bigger than he, learned early to avoid him.

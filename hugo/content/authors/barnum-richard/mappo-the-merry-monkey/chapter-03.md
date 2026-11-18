@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Mappo In A Net"
 weight: 3
-aliases:
-  - "/authors/barnum-richard/mappo-the-merry-monkey/chapter-03.html"
+url: "/authors/barnum-richard/mappo-the-merry-monkey/chapter-03.html"
 ---
 
 Mappo crouched down on the ground, trying to hide under a green bush of the jungle. In his paw he held the empty cocoanut shell with which he was going to play a trick on Bumpo or Jacko. The tiger was creeping, slowly, slowly along, on his soft, padded feet, just as your cat creeps after a bird. Mappo was too frightened to move.

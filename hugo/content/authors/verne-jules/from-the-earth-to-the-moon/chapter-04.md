@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/verne-jules/from-the-earth-to-the-moon/chapter-04.html"
+url: "/authors/verne-jules/from-the-earth-to-the-moon/chapter-04.html"
 ---
 
 Barbicane, however, lost not one moment amid all the enthusiasm of which he had become the object. His first care was to reassemble his colleagues in the board-room of the Gun Club. There, after some discussion, it was agreed to consult the astronomers regarding the astronomical part of the enterprise. Their reply once ascertained, they could then discuss the mechanical means, and nothing should be wanting to ensure the success of this great experiment.

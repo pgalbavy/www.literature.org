@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Sir John Oxon Returns Also"
 weight: 25
-aliases:
-  - "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-24.html"
+url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-24.html"
 ---
 
 When his Grace of Osmonde returned to town he found but one topic of conversation, and this was of such interest and gave such a fillip to gossip and chatter that fierce Sarah of Marlborough's encounters with Mrs. Masham, and her quarrels with Majesty itself, were for the time actually neglected. Her Grace had engaged in battles royal for so long a time and with such activity that the Court and the world were a little wearied and glad of something new. And here was a most promising event which might be discussed from a thousand points and bring forth pretty stories of past and present, as well as prophecies for the future.

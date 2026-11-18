@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Jimmie Opens His Dream-Book"
 weight: 11
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-11.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-11.html"
 ---
 
 “Now, don’t be too sure about finding Colleton in British Columbia,” Mr. Havens warned, when the boys consulted him regarding the point they had been discussing. “We are out here on the faintest kind of a hint, and it is just possible that the hint was contributed by friends of the mail-order people in order to draw our attention from the real point of interest. Such things are often done.”

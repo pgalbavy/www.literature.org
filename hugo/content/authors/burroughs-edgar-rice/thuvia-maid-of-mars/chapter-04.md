@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A Green Man's Captive"
 weight: 4
-aliases:
-  - "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/chapter-04.html"
+url: "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/chapter-04.html"
 ---
 
 When the light of day broke upon the little craft to whose deck the Princess of Ptarth had been snatched from her father's garden, Thuvia saw that the night had wrought a change in her abductors.

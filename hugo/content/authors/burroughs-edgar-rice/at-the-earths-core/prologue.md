@@ -1,8 +1,7 @@
 ---
 title: "Prologue"
 weight: 1
-aliases:
-  - "/authors/burroughs-edgar-rice/at-the-earths-core/prologue.html"
+url: "/authors/burroughs-edgar-rice/at-the-earths-core/prologue.html"
 ---
 
 Prologue IN THE FIRST PLACE PLEASE BEAR IN MIND THAT I do not expect you to believe this story. Nor could you wonder had you witnessed a recent experience of mine when, in the armor of blissful and stupendous ignorance, I gaily narrated the gist of it to a Fellow of the Royal Geological Society on the occasion of my last trip to London.

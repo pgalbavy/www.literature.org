@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 15"
 weight: 172
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-15.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-15.html"
 ---
 
 After escorting his wife up-stairs, Levin went to Dolly's part of the house. Darya Alexandrovna, for her part, was in great distress too that day. She was walking about the room, talking angrily to a little girl, who stood in the corner roaring.

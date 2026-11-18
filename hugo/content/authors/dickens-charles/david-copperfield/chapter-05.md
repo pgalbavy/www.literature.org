@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - I Am Sent Away From Home"
 weight: 6
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-05.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-05.html"
 ---
 
 We might have gone about half a mile, and my pocket-handkerchief was quite wet through, when the carrier stopped short. Looking out to ascertain for what, I saw, to My amazement, Peggotty burst from a hedge and climb into the cart. She took me in both her arms, and squeezed me to her stays until the pressure on my nose was extremely painful, though I never thought of that till afterwards when I found it very tender. Not a single word did Peggotty speak. Releasing one of her arms, she put it down in her pocket to the elbow, and brought out some paper bags of cakes which she crammed into my pockets, and a purse which she put into my hand, but not one word did she say. After another and a final squeeze with both arms, she got down from the cart and ran away; and, my belief is, and has always been, without a solitary button on her gown. I picked up one, of several that were rolling about, and treasured it as a keepsake for a long time.

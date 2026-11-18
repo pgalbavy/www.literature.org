@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Soul And Body"
 weight: 6
-aliases:
-  - "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-06.html"
+url: "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-06.html"
 ---
 
 As in a blessed vision, doubting the reality of it all, she sat looking upward until his step on some outer floor aroused her to the wondrous reality.

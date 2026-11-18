@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-17.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-17.html"
 ---
 
 _(Extract from the diary of Sir Eustace Pedler)_

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - Conclusion"
 weight: 38
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-38.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-38.html"
 ---
 
 *THE* thrusting of the mortally wounded pony’s nose against the shoulder of the trapper’s horse warned both him and Herbert Watrous of what was coming. The latter slipped his feet from the stirrups, and was in the act of leaping to the ground, to attempt to run the short distance to the entrance of the mission building, when the broad right hand of Eph Bozeman slapped him in the broad of the back, clutched his coat, and with one powerful wrench he swung him out of the saddle sinking beneath him, and lifting him over in front of himself on his own steed.

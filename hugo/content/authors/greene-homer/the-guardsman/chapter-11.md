@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/greene-homer/the-guardsman/chapter-11.html"
+url: "/authors/greene-homer/the-guardsman/chapter-11.html"
 ---
 
 General Chick did not wait long at the armory after his verbal encounter with Sergeant Barriscale. He knew that he could accomplish nothing by remaining there, and he had a feeling that if he could only see McCormack and talk the situation over with him some plan might be evolved by which threatened defeat would be averted.

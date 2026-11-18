@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Fight in the Desert"
 weight: 8
-aliases:
-  - "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-08.html"
+url: "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-08.html"
 ---
 
 As the three squatted upon the roof above the quarters of the Ouled-Nails they heard the angry cursing of the Arabs in the room beneath. Abdul translated from time to time to Tarzan.

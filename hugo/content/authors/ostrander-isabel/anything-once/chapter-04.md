@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Under The Big Top"
 weight: 4
-aliases:
-  - "/authors/ostrander-isabel/anything-once/chapter-04.html"
+url: "/authors/ostrander-isabel/anything-once/chapter-04.html"
 ---
 
 A very weary and dust-covered couple trudged to the top of the last hill just before sundown and paused, with Lou's hand instinctively clutching Jim's arm.

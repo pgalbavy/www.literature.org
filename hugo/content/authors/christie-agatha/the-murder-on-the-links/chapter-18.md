@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Giraud Acts"
 weight: 18
-aliases:
-  - "/authors/christie-agatha/the-murder-on-the-links/chapter-18.html"
+url: "/authors/christie-agatha/the-murder-on-the-links/chapter-18.html"
 ---
 
 "By the way, Poirot," I said, as we walked along the hot white road, "I’ve got a bone to pick with you. I dare say you meant well, but really it was no business of yours to go mouching round to the Hôtel du Phare without letting me know."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - A Young Hunter's Strategy"
 weight: 29
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-29.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-29.html"
 ---
 
 Fred Linden walked rapidly forward until he reached the middle of the prairie, when he paused and bent his eyes on the swiftly vanishing drove of buffaloes. They were speeding at right angles to the course he had been following, and, so far as he could judge at the distance, were on the same dead run with which they started.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Mappo On The Ship"
 weight: 5
-aliases:
-  - "/authors/barnum-richard/mappo-the-merry-monkey/chapter-05.html"
+url: "/authors/barnum-richard/mappo-the-merry-monkey/chapter-05.html"
 ---
 
 Mappo, who had taken his paws down from his eyes long enough to look at the striped tiger, now blind-folded himself, with his paws again, and shivered. All of a sudden the tiger growled, and Mappo shivered still more.

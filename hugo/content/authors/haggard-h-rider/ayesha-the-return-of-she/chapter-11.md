@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Hunt And The Kill"
 weight: 12
-aliases:
-  - "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-11.html"
+url: "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-11.html"
 ---
 
 We reached our rooms, meeting no one in the passages, and there made our preparations. First we changed our festal robes for those warmer garments in which we had travelled to the city of Kaloon. Then we ate and drank what we could of the victuals which stood in the antechamber, not knowing when we should find more food, and filled two satchels such as these people sling about their shoulders, with the remains of the meat and liquor and a few necessaries. Also we strapped our big hunting knives about our middles and armed ourselves with short spears that were made for the stabbing of game.

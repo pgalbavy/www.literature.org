@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A General Amnesty"
 weight: 8
-aliases:
-  - "/authors/greene-homer/the-riverpark-rebellion/chapter-08.html"
+url: "/authors/greene-homer/the-riverpark-rebellion/chapter-08.html"
 ---
 
 The two combatants, clasped tightly in each other’s arms, plunged into a party of teachers and cadets who were hastening upward in response to Brightly’s cry of “Fire!” In another moment Brede was secured; and when the fire, which had been confined to Brightly’s room, was extinguished, he was taken back to the guard-house, from which he had escaped by reason of a defective lock.

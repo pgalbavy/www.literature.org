@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - My Own Discovery"
 weight: 6
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-06.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-06.html"
 ---
 
 FORTUNATELY for me, the landlord did not open the door when I rang. A stupid maid-of-all-work, who never thought of asking me for my name, let me in. Mrs. Macallan was at home, and had no visitors with her. Giving me this information, the maid led the way upstairs, and showed me into the drawing-room without a word of announcement.

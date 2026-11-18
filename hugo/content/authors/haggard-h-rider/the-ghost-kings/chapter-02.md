@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Boy"
 weight: 3
-aliases:
-  - "/authors/haggard-h-rider/the-ghost-kings/chapter-02.html"
+url: "/authors/haggard-h-rider/the-ghost-kings/chapter-02.html"
 ---
 
 The river towards which Rachel headed, one of the mouths of the Umtavuna, was much further off than it looked; it was, indeed, not less than a mile and a half away. She had said that she feared nothing, and it was true, for extraordinary courage was one of this child’s characteristics. She could scarcely ever remember having felt afraid--for herself, except sometimes of her father when he grew angry--or was it mad that he grew?--and raged at her, threatening her with punishment in another world in reward for her childish sins. Even then the sensation did not last long, because she could not believe in that punishment which he so vividly imagined. So it came about that now she had no fear when there was so much cause.

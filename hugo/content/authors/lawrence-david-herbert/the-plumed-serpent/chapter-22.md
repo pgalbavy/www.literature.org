@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Living Huitzilopochtli"
 weight: 22
-aliases:
-  - "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-22.html"
+url: "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-22.html"
 ---
 
 They buried Doña Carlota in Sayula, and Kate, though a woman, went also to the funeral. Don Ramón followed the coffin, in his white clothes and big hat with the Quetzalcoatl sign. His boys went with him; and there were many strangers, men, in black.

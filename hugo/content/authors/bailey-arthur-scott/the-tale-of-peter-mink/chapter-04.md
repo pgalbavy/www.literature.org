@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Lecture"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-04.html"
 ---
 
 Peter Mink was going to give a lecture. He had invited everybody.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Visit to Dogland"
 weight: 14
-aliases:
-  - "/authors/carroll-lewis/sylvie-and-bruno/chapter-13.html"
+url: "/authors/carroll-lewis/sylvie-and-bruno/chapter-13.html"
 ---
 
 "There's a house, away there to the left," said Sylvie, after we had walked what seemed to me about fifty miles. "Let's go and ask for a night's lodging."

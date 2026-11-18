@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - America Versus Ireland"
 weight: 35
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-35.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-35.html"
 ---
 
 Having satisfied themselves that they could not have fallen upon a safer place, the boys came back to their camp, as it may be called, and sat down in front of the blaze. Their knapsacks were unstrapped from their backs and the blankets spread upon the leaves. There was some moisture in the thick cloth, but not enough to deter them from using them as couches. Their own clothing had become dry, and, under the warm glow of the fire, the blankets would soon be the same.

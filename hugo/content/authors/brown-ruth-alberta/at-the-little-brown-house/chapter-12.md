@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Raspberry Patch"
 weight: 12
-aliases:
-  - "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-12.html"
+url: "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-12.html"
 ---
 
 One hot, dusty afternoon in midsummer Faith trudged wearily up the road from the village, climbed the steps to the vine-covered piazza where Gail sat shelling peas, and dropped a handful of silver into her sister's lap, saying, "Three dollars clear from my cakes this week! Wish I could make that much every time. Mrs. Dunbar was perfectly delighted with my jelly roll, and has ordered another for next Saturday."

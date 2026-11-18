@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Definition Of Perception"
 weight: 8
-aliases:
-  - "/authors/russell-bertrand/the-analysis-of-mind/chapter-07.html"
+url: "/authors/russell-bertrand/the-analysis-of-mind/chapter-07.html"
 ---
 
 In Lecture V we found reason to think that the ultimate constituents* of the world do not have the characteristics of either mind or matter as ordinarily understood: they are not solid persistent objects moving through space, nor are they fragments of "consciousness." But we found two ways of grouping particulars, one into "things" or "pieces of matter," the other into series of "perspectives," each series being what may be called a "biography." Before we can define either sensations or images, it is necessary to consider this twofold classification in somewhat greater detail, and to derive from it a definition of perception. It should be said that, in so far as the classification assumes the whole world of physics (including its unperceived portions), it contains hypothetical elements. But we will not linger on the grounds for admitting these, which belong to the philosophy of physics rather than of psychology.

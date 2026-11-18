@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 8"
 weight: 44
-aliases:
-  - "/authors/austen-jane/emma/volume-03-chapter-08.html"
+url: "/authors/austen-jane/emma/volume-03-chapter-08.html"
 ---
 
 The wretchedness of a scheme to Box Hill was in Emma's thoughts all the evening. How it might be considered by the rest of the party, she could not tell. They, in their different homes, and their different ways, might be looking back on it with pleasure; but in her view it was a morning more completely misspent, more totally bare of rational satisfaction at the time, and more to be abhorred in recollection, than any she had ever passed. A whole evening of back-gammon with her father, was felicity to it. There, indeed, lay real pleasure, for there she was giving up the sweetest hours of the twenty-four to his comfort; and feeling that, unmerited as might be the degree of his fond affection and confiding esteem, she could not, in her general conduct, be open to any severe reproach. As a daughter, she hoped she was not without a heart. She hoped no one could have said to her, “How could you be so unfeeling to your father?--I must, I will tell you truths while I can.” Miss Bates should never again--no, never! If attention, in future, could do away the past, she might hope to be forgiven. She had been often remiss, her conscience told her so; remiss, perhaps, more in thought than fact; scornful, ungracious. But it should be so no more. In the warmth of true contrition, she would call upon her the very next morning, and it should be the beginning, on her side, of a regular, equal, kindly intercourse.

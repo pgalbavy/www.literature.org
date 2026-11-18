@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Too Much Music"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-chirpy-cricket/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-chirpy-cricket/chapter-04.html"
 ---
 
 It was just beginning to grow light in the east when Chirpy Cricket crawled into his hole in the pasture, after his fiddling with his favorite cousin. Having spent a good deal of the previous day in listening to the humming of the musical Bumblebee family, who lived next door to him, Chirpy was more than ready to rest.

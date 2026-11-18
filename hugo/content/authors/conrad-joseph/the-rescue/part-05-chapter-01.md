@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 1"
 weight: 29
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-05-chapter-01.html"
+url: "/authors/conrad-joseph/the-rescue/part-05-chapter-01.html"
 ---
 
 "May I come in?"

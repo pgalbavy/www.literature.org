@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/cather-willa/alexanders-bridge/chapter-03.html"
+url: "/authors/cather-willa/alexanders-bridge/chapter-03.html"
 ---
 
 The next evening Alexander dined alone at a club, and at about nine o’clock he dropped in at the Duke of York’s. The house was sold out and he stood through the second act. When he returned to his hotel he examined the new directory, and found Miss Burgoyne’s address still given as off Bedford Square, though at a new number. He remembered that, in so far as she had been brought up at all, she had been brought up in Bloomsbury. Her father and mother played in the provinces most of the year, and she was left a great deal in the care of an old aunt who was crippled by rheumatism and who had had to leave the stage altogether. In the days when Alexander knew her, Hilda always managed to have a lodging of some sort about Bedford Square, because she clung tenaciously to such scraps and shreds of memories as were connected with it. The mummy room of the British Museum had been one of the chief delights of her childhood. That forbidding pile was the goal of her truant fancy, and she was sometimes taken there for a treat, as other children are taken to the theatre. It was long since Alexander had thought of any of these things, but now they came back to him quite fresh, and had a significance they did not have when they were first told him in his restless twenties. So she was still in the old neighborhood, near Bedford Square. The new number probably meant increased prosperity. He hoped so. He would like to know that she was snugly settled. He looked at his watch. It was a quarter past ten; she would not be home for a good two hours yet, and he might as well walk over and have a look at the place. He remembered the shortest way.

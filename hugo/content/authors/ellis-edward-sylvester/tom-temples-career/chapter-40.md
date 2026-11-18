@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40 - The Captain’s Fate"
 weight: 40
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-40.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-40.html"
 ---
 
 *THE CAPTAIN’S* presentiments were verified. The suspicions of his lieutenant had been aroused by his unusual manner, nor had they been allayed by the explanation he gave of his intended journey. Immediately after the captain’s departure he had convened the members of the band, and harangued them thus.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-01.html"
+url: "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-01.html"
 ---
 
 The studio was filled with the rich odour of roses, and when the light summer wind stirred amidst the trees of the garden, there came through the open door the heavy scent of the lilac, or the more delicate perfume of the pink-flowering thorn.

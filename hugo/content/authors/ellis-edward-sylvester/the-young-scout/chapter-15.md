@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - An Interrupted Flight"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-scout/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-15.html"
 ---
 
 The troopers wasted no time. No coffee was boiled, for the means of kindling a fire was not at command. He who has been on a laborious march knows the meaning of such a deprivation. Rations were hastily eaten and the horses drank from the stream at hand and continued their fasting.

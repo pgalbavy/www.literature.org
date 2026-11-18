@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Pattypans"
 weight: 6
-aliases:
-  - "/authors/alcott-louisa-may/little-men/chapter-05.html"
+url: "/authors/alcott-louisa-may/little-men/chapter-05.html"
 ---
 
 "What's the matter, Daisy?"

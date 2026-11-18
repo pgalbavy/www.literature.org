@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/verne-jules/round-the-moon/chapter-23.html"
+url: "/authors/verne-jules/round-the-moon/chapter-23.html"
 ---
 
 We may remember the intense sympathy which had accompanied the travelers on their departure. If at the beginning of the enterprise they had excited such emotion both in the old and new world, with what enthusiasm would they be received on their return! The millions of spectators which had beset the peninsula of Florida, would they not rush to meet these sublime adventurers? Those legions of strangers, hurrying from all parts of the globe toward the American shores, would they leave the Union without having seen Barbicane, Nicholl, and Michel Ardan? No! and the ardent passion of the public was bound to respond worthily to the greatness of the enterprise. Human creatures who had left the terrestrial sphere, and returned after this strange voyage into celestial space, could not fail to be received as the prophet Elias would be if he came back to earth. To see them first, and then to hear them, such was the universal longing.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Riding Northward"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-02.html"
 ---
 
 And so it came about that on a sharp, crisp day early in the month of October, two sturdy youths left the Union Pacific train at Fort Steele, which is situated in a broad depression between two divisions of the Wind River Mountains, themselves forming a part of the vast Rocky Mountain chain, which, under different names, stretches along the western portion of the two continents from the Arctic Ocean on the north to the extreme southern end of South America.

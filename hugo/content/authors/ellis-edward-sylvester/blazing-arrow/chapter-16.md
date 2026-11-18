@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Detour"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-16.html"
 ---
 
 There could be no denying that extraordinary fortune had attended the boys, but they were too prudent to count on a continuance of what might be called the run of good luck, except by the utmost circumspection on their part.

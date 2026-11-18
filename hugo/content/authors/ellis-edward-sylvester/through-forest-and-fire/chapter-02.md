@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - School Days"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-02.html"
 ---
 
 Nicholas Ribsam proceeded to show Master Herbert Watrous what he meant to do about it.

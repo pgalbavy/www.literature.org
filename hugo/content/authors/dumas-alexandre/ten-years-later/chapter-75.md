@@ -1,8 +1,7 @@
 ---
 title: "Chapter 75 - In Which Monsieur Fouquet Acts"
 weight: 75
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-75.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-75.html"
 ---
 
 In the meantime Fouquet was hastening to the Louvre, at the best speed of his English horses. The king was at work with Colbert. All at once the king became thoughtful. The two sentences of death he had signed on mounting his throne sometimes recurred to his memory; they were two black spots which he saw with his eyes open; two spots of blood which he saw when his eyes were closed. "Monsieur," said he, rather sharply, to the intendant; "it sometimes seems to me that those two men you made me condemn were not very great culprits."

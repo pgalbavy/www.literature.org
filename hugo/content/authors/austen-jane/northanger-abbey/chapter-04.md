@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/austen-jane/northanger-abbey/chapter-04.html"
+url: "/authors/austen-jane/northanger-abbey/chapter-04.html"
 ---
 
 With more than usual eagerness did Catherine hasten to the pump-room the next day, secure within herself of seeing Mr. Tilney there before the morning were over, and ready to meet him with a smile; but no smile was demanded—Mr. Tilney did not appear. Every creature in Bath, except himself, was to be seen in the room at different periods of the fashionable hours; crowds of people were every moment passing in and out, up the steps and down; people whom nobody cared about, and nobody wanted to see; and he only was absent. "What a delightful place Bath is," said Mrs. Allen as they sat down near the great clock, after parading the room till they were tired; "and how pleasant it would be if we had any acquaintance here."

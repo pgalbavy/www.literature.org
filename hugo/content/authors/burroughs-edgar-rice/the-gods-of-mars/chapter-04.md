@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Thuvia"
 weight: 5
-aliases:
-  - "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-04.html"
+url: "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-04.html"
 ---
 
 It was the sound of conflict that aroused me once more to the realities of life. For a moment I could neither place my surroundings nor locate the sounds which had aroused me. And then from beyond the blank wall beside which I lay I heard the shuffling of feet, the snarling of grim beasts, the clank of metal accoutrements, and the heavy breathing of a man.

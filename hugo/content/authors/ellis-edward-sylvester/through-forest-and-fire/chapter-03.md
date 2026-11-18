@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - A Mathematical Discussion"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-03.html"
 ---
 
 The elder Ribsam took several puffs from his pipe, his eyes fixed dreamily on the fire, as though in deep meditation. His wife sat in her chair on the other side, and was busy with her knitting, while perhaps her thoughts were wandering away to that loved Fatherland which she had left so many years before, never to see again. Nellie had grown sleepy and gone to bed.

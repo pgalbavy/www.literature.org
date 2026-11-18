@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - A Search And A Discovery"
 weight: 4
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-03.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-03.html"
 ---
 
 *M. ADOLPHE LECAMUS* and Marceline thought M. Théophraste’s actions strange, but they were too much occupied with an affair of their own to attach very great importance to them. However, M. Théophraste concealed his anxiety and pretended that the visit to the Conciergerie was quite a natural occurrence. He had gone down in the cellars just to satisfy a natural curiosity, not being one of those who make a superficial inspection of things of interest.

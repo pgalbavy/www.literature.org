@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 33
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-33.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-33.html"
 ---
 
 Morgan's car was making the most rapid progress through the downtown traffic that the law allowed, and his electric energies were fretting for greater speed. The days were all too short for him with their present demands, and he forced himself with the merciless rigour of a man who is both overseer and slave. Now he was allowing himself just forty-five minutes for luncheon at the club, and back at the office men and matters were waiting.

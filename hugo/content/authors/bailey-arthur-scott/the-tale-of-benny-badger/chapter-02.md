@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Hunting For Something"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-02.html"
 ---
 
 It was a pleasant summer's night. Anyone would have supposed that it was just the sort of weather that Benny Badger might have chosen for digging holes. But he must have thought that he had dug enough holes for the time being. He wandered about as if he had lost a hole somewhere and couldn't find it. And whenever he spied a hole made by one of his smaller neighbors he stopped and looked at it closely.

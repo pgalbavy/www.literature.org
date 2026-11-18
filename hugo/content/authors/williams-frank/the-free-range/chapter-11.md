@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Made Prisoner"
 weight: 11
-aliases:
-  - "/authors/williams-frank/the-free-range/chapter-11.html"
+url: "/authors/williams-frank/the-free-range/chapter-11.html"
 ---
 
 At three o'clock the next afternoon Beef Bissell felt better than he had for some time, this condition being a result of his vindictive triumph over Bud Larkin, and the fact that that young man was in his hands. He felt that the back of the sheep business had been broken as far as his range and his county were concerned.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 1 - The Wicket-Gate"
 weight: 1
-aliases:
-  - "/authors/buchan-john/mr-standfast/part-01-chapter-01.html"
+url: "/authors/buchan-john/mr-standfast/part-01-chapter-01.html"
 ---
 
 I spent one-third of my journey looking out of the window of a first-class carriage, the next in a local motor-car following the course of a trout stream in a shallow valley, and the last tramping over a ridge of downland through great beech-woods to my quarters for the night. In the first part I was in an infamous temper; in the second I was worried and mystified; but the cool twilight of the third stage calmed and heartened me, and I reached the gates of Fosse Manor with a mighty appetite and a quiet mind.

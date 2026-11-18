@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 4"
 weight: 48
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-04-chapter-04.html"
+url: "/authors/cather-willa/one-of-ours/book-04-chapter-04.html"
 ---
 
 The morning of the third day; Claude and the Virginian and the Marine were up very early, standing in the bow, watching the Anchises mount the fresh blowing hills of water, her prow, as it rose and fell, always a dull triangle against the glitter. Their escorts looked like dream ships, soft and iridescent as shell in the pearl-coloured tints of the morning. Only the dark smudges of smoke told that they were mechanical realities with stokers and engines.

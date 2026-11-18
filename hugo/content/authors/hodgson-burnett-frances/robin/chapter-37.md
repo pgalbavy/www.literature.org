@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37"
 weight: 38
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-37.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-37.html"
 ---
 
 Lord Coombe was ushered into the little drawing-room by an extremely immature young footman who--doubtless as a consequence of his immaturity--appeared upon the scene too suddenly. The War left one only servants who were idiots or barely out of Board Schools, Feather said. And in fact it was something suggesting "a scene" upon which Coombe was announced. The athletic and personable young actor--entitled upon programmes Owen Delamore--was striding to and fro talking excitedly. There was theatrical emotion in the air and Feather, delicately flushed and elate, was listening with an air half frightened, half pleased. The immaturity of the footman immediately took fright and the youth turning at once produced the fatal effect of fleeing precipitately.

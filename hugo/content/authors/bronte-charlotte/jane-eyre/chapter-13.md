@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 14
-aliases:
-  - "/authors/bronte-charlotte/jane-eyre/chapter-13.html"
+url: "/authors/bronte-charlotte/jane-eyre/chapter-13.html"
 ---
 
 Mr. Rochester, it seems, by the surgeon's orders, went to bed early that night; nor did he rise soon next morning. When he did come down, it was to attend to business: his agent and some of his tenants were arrived, and waiting to speak with him.

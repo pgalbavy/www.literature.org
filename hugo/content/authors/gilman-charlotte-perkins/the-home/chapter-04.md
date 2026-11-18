@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Present Conditions"
 weight: 5
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-home/chapter-04.html"
+url: "/authors/gilman-charlotte-perkins/the-home/chapter-04.html"
 ---
 
 The difference between our current idea of the home to-day, and its real conditions, is easily seen. That is, it is easily seen if we are able temporarily to resist the pressure of inherited traditions, and use our individual brain power for a little while. We must remember, in attempting to look fairly, to see clearly, that a concept is a much stronger stimulus to the brain than a fact.

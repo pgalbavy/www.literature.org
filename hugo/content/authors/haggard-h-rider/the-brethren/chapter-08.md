@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Widow Masouda"
 weight: 9
-aliases:
-  - "/authors/haggard-h-rider/the-brethren/chapter-08.html"
+url: "/authors/haggard-h-rider/the-brethren/chapter-08.html"
 ---
 
 Many months had gone by since the brethren sat upon their horses that winter morning, and from the shrine of St. Peter's-on-the-Wall, at the mouth of the Blackwater in Essex, watched with anguished hearts the galley of Saladin sailing southwards; their love and cousin, Rosamund, standing a prisoner on the deck. Having no ship in which to follow her--and this, indeed, it would have been too late to do--they thanked those who had come to aid them, and returned home to Steeple, where they had matters to arrange. As they went they gathered from this man and that tidings which made the whole tale clear to them.

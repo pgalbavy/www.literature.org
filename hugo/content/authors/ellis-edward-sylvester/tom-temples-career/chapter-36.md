@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - Tom And The Robbers"
 weight: 36
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-36.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-36.html"
 ---
 
 *TOM HAD* an easy way of adapting himself to the company he was in. Moreover, being a boy, he was regarded with less distrust than if he had been older. He sat down with the robbers and took part in their conversation, carefully abstaining, however, from disclosing the mission he had revealed to the captain. He had the luck to please his entertainers, if we may give them that name.

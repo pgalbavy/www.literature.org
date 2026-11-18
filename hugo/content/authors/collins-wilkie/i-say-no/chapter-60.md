@@ -1,8 +1,7 @@
 ---
 title: "Chapter 60 - Outside The Room"
 weight: 60
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-60.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-60.html"
 ---
 
 Emily found Mirabel in the waiting room at Belford. Her sudden appearance might well have amazed him; but his face expressed a more serious emotion than surprise--he looked at her as if she had alarmed him.

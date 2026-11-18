@@ -1,8 +1,7 @@
 ---
 title: "Part 8 - Chapter 19"
 weight: 239
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-08-chapter-19.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-08-chapter-19.html"
 ---
 
 Going out of the nursery and being again alone, Levin went back at once to the thought, in which there was something not clear.

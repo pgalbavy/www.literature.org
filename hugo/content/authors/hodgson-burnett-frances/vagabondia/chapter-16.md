@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - If You Should Die"
 weight: 16
-aliases:
-  - "/authors/hodgson-burnett-frances/vagabondia/chapter-16.html"
+url: "/authors/hodgson-burnett-frances/vagabondia/chapter-16.html"
 ---
 
 THE postman paid frequent visits to Bloomsbury Place during these summer weeks. At first Dolly wrote often herself, but later it seemed to fall to Miss MacDowlas to answer Aimée's weekly letters and Mollie's fortnightly ones. And that lady was a faithful correspondent, and did her duty as readily as was possible, giving all the news, and recording all Dolly's messages, and issuing regular bulletins on the subject of her health. “Your sister,” she sometimes wrote, “is not so well, and I have persuaded her to allow me to be her amanuensis.” Or, “Your sister is tired after a rather long drive, and I have persuaded her to rest while I write at her dictation.” Or sometimes, “Dolly is rather stronger, and is in excellent spirits, but I do not wish her to exert herself at present.” But at length a new element crept into these letters. The cheerful tone gave way to a more dubious one; Dolly's whimsical messages were fewer and farther between, and sometimes Miss MacDowlas seemed to be on the verge of hinting that her condition was a weaker and more precarious one than even she herself had at first feared.

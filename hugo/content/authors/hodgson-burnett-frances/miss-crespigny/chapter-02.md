@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Another Gentleman Of The Same Name"
 weight: 2
-aliases:
-  - "/authors/hodgson-burnett-frances/miss-crespigny/chapter-02.html"
+url: "/authors/hodgson-burnett-frances/miss-crespigny/chapter-02.html"
 ---
 
 She went up stairs, after this, to her own room, a comfortable, luxurious little place, near Mrs. Despard’s own apartment. A clear, bright fire burned in the grate, and her special sleepy-hollow chair was drawn before it; and when she had laid aside her hat, and disposed of her purchases, she came to this chair, and seated herself in it. Then she drew the Pen’yllan letter from her pocket, and laid it on her lap, and left it there, while she folded her hands, and leaned back, looking at the fire dreamily, and thinking to herself.

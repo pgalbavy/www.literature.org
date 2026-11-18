@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Happy Man Makes Acquaintance With Misfortune"
 weight: 7
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-07.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-07.html"
 ---
 
 Cornelius de Witt, after having attended to his family affairs, reached the house of his godson, Cornelius van Baerle, one evening in the month of January, 1672.

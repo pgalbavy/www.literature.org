@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Banner Of Saladin"
 weight: 8
-aliases:
-  - "/authors/haggard-h-rider/the-brethren/chapter-07.html"
+url: "/authors/haggard-h-rider/the-brethren/chapter-07.html"
 ---
 
 As the echoes of Hassan's whistle died away there was a crash amongst the wooden shutters of the window behind them, and down into the room leaped a long, lithe figure, holding an axe aloft. Before Sir Andrew could turn to see whence the sound came, that axe dealt him a fearful blow between the shoulders which, although the ringed mail remained unshorn, shattered his spine beneath. Down he fell, rolled on to his back, and lay there, still able to speak and without pain, but helpless as a child. For he was paralysed, and never more would move hand or foot or head.

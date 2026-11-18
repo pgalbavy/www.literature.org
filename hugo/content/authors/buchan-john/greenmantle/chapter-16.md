@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Battered Caravanserai"
 weight: 17
-aliases:
-  - "/authors/buchan-john/greenmantle/chapter-16.html"
+url: "/authors/buchan-john/greenmantle/chapter-16.html"
 ---
 
 Two days later, in the evening, we came to Angora, the first stage in our journey.

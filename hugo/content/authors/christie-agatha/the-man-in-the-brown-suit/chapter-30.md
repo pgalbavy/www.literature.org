@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 31
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-30.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-30.html"
 ---
 
 _(Anne’s Narrative Resumed)_

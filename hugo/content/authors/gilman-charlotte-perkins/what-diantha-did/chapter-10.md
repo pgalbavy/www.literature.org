@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Union House"
 weight: 10
-aliases:
-  - "/authors/gilman-charlotte-perkins/what-diantha-did/chapter-10.html"
+url: "/authors/gilman-charlotte-perkins/what-diantha-did/chapter-10.html"
 ---
 
 Ross Warden endured his grocery business; strove with it, toiled at it, concentrated his scientific mind on alien tasks of financial calculation and practical psychology, but he liked it no better. He had no interest in business, no desire to make money, no skill in salesmanship.

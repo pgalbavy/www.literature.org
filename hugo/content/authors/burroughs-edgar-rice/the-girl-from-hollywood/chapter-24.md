@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-24.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-24.html"
 ---
 
 The next morning he saw Shannon, who came to ride with them, the Penningtons, as had been her custom. She looked tired, as if she had spent a sleepless night. She had--she had spent two sleepless nights, and she had had to fight the old fight all over again. It had been very hard, even though she had won, for it had shown her that the battle was not over. She had thought that she had conquered the craving; but that had been when she had had no troubles or unhappiness to worry her mind and nerves. The last two days had been days of suffering for her, and the two sleepless nights had induced a nervous condition that begged for the quieting influence of the little white powder.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-08.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-08.html"
 ---
 
 The way home lay across country, through deep little lanes where the late foxgloves sat seriously, like sad hounds; over open downlands, rough with gorse and ling, and through pocketed hollows of bracken and trees.

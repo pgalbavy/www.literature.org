@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 13 - In Which Is Continued The Adventure Of The Knight Of The Grove, Together With The Sensible, Original, And Tranquil Colloquy That Passed Between The Two Squires"
 weight: 69
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-13.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-13.html"
 ---
 
 The knights and the squires made two parties, these telling the story of their lives, the others the story of their loves; but the history relates first of all the conversation of the servants, and afterwards takes up that of the masters; and it says that, withdrawing a little from the others, he of the Grove said to Sancho, "A hard life it is we lead and live, señor, we that are squires to knights-errant; verily, we eat our bread in the sweat of our faces, which is one of the curses God laid on our first parents."

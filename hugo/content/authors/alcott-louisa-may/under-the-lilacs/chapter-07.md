@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - New Friends Trot In"
 weight: 7
-aliases:
-  - "/authors/alcott-louisa-may/under-the-lilacs/chapter-07.html"
+url: "/authors/alcott-louisa-may/under-the-lilacs/chapter-07.html"
 ---
 
 Next day Ben ran off to his work with Quackenbos's "Elementary History of the United States" in his pocket, and the Squire's cows had ample time to breakfast on way-side grass before they were put into their pasture. Even then the pleasant lesson was not ended, for Ben had an errand to town; and all the way he read busily, tumbling over the hard words, and leaving bits which he did not understand to be explained at night by Bab.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 3"
 weight: 5
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-01-chapter-03.html"
+url: "/authors/conrad-joseph/the-rescue/part-01-chapter-03.html"
 ---
 
 After waiting a moment, Carter went on deck. The sky, the sea, the brig itself had disappeared in a darkness that had become impenetrable, palpable, and stifling. An immense cloud had come up running over the heavens, as if looking for the little craft, and now hung over it, arrested. To the south there was a livid trembling gleam, faint and sad, like a vanishing memory of destroyed starlight. To the north, as if to prove the impossible, an incredibly blacker patch outlined on the tremendous blackness of the sky the heart of the coming squall. The glimmers in the water had gone out and the invisible sea all around lay mute and still as if it had died suddenly of fright.

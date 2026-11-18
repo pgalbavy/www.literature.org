@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - In The Forest"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-01.html"
 ---
 
 "Now you've got him, Ned!"

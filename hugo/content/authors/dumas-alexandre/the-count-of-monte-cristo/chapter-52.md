@@ -1,8 +1,7 @@
 ---
 title: "Chapter 52 - Toxicology"
 weight: 52
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-52.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-52.html"
 ---
 
 It was really the Count of Monte Cristo who had just arrived at Madame de Villefort's for the purpose of returning the procureur's visit, and at his name, as may be easily imagined, the whole house was in confusion. Madame de Villefort, who was alone in her drawing-room when the count was announced, desired that her son might be brought thither instantly to renew his thanks to the count; and Edward, who heard this great personage talked of for two whole days, made all possible haste to come to him, not from obedience to his mother, or out of any feeling of gratitude to the count, but from sheer curiosity, and that some chance remark might give him the opportunity for making one of the impertinent speeches which made his mother say, - "Oh, that naughty child! But I can't be severe with him, he is really so bright."

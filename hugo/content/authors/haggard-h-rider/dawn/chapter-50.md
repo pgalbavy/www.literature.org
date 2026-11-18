@@ -1,8 +1,7 @@
 ---
 title: "Chapter 50"
 weight: 51
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-50.html"
+url: "/authors/haggard-h-rider/dawn/chapter-50.html"
 ---
 
 Three months had passed since that awful Christmas Day. Angela was heart-broken, and, after the first burst of her despair, turned herself to the only consolation which was left her. It was not of this world.

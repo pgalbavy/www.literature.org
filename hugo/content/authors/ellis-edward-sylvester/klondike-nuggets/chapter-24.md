@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Conclusion"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-24.html"
 ---
 
 There was little sleep that night in the cavern home of the gold-seekers. The fact that the whole crop of the precious stuff was the better part of a mile away in the mountains, even though apparently safe, caused every one to feel uneasy. In addition was the announcement of Jeff Graham, the leader, that their work in the Klondike region was ended. In keeping with his habit of making known only that which was necessary, he gave no explanation, and his friends were left to speculate and surmise among themselves. All, however, suspected the truth.

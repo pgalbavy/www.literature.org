@@ -1,8 +1,7 @@
 ---
 title: "Chapter 86 - Conferences"
 weight: 86
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-86.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-86.html"
 ---
 
 Mazarin turned the lock of a double door, on the threshold of which they found Athos ready to receive his illustrious guests according to the notice Comminges had given him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Prairie Duel"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-25.html"
 ---
 
 Warren Starr could have hugged his pony in his transport of delight. Until a moment before he was sure several of the Sioux were upon him; when, wheeling about, he was confronted by Jack, whom he had been desirous of meeting above every other person or animal in the world.

@@ -1,8 +1,7 @@
 ---
 title: "chapter 21"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-21.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-21.html"
 ---
 
 Gudrun was away in London, having a little show of her work, with a friend, and looking round, preparing for flight from Beldover. Come what might she would be on the wing in a very short time. She received a letter from Winifred Crich, ornamented with drawings.

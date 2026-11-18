@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41"
 weight: 41
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-41.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-41.html"
 ---
 
 "This, too is probable, according to that saying of Agathon: 'It is a part of probability that many improbable things will happen.'" - ARISTOTLE: Poetics.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-14.html"
+url: "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-14.html"
 ---
 
 WHEN Tom awoke in the morning, he wondered where he was. He sat up and rubbed his eyes and looked around. Then he comprehended. It was the cool gray dawn, and there was a delicious sense of repose and peace in the deep pervading calm and silence of the woods. Not a leaf stirred; not a sound obtruded upon great Nature's meditation. Beaded dewdrops stood upon the leaves and grasses. A white layer of ashes covered the fire, and a thin blue breath of smoke rose straight into the air. Joe and Huck still slept.

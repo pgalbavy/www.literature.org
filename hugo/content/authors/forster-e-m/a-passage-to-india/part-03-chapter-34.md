@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 34"
 weight: 34
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-03-chapter-34.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-03-chapter-34.html"
 ---
 
 Dr. Aziz left the palace at the same time. As he returned to his house—which stood in a pleasant garden further up the main street of the town—he could see his old patron paddling and capering in the slush ahead. “Hullo!” he called, and it was the wrong remark, for the devotee indicated by circular gestures of his arms that he did not desire to be disturbed. He added, “Sorry,” which was right, for Godbole twisted his head till it didn’t belong to his body, and said in a strained voice that had no connection with his mind: “He arrived at the European Guest House perhaps—at least possibly.”

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Royal Banquet"
 weight: 18
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-17.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-17.html"
 ---
 
 MADAME, seeing me pacific and unresentful, no doubt judged that I was deceived by her excuse; for her fright dissolved away, and she was soon so importunate to have me give an exhibition and kill somebody, that the thing grew to be embarrassing. However, to my relief she was presently interrupted by the call to prayers. I will say this much for the nobility: that, tyrannical, murderous, rapacious, and morally rotten as they were, they were deeply and enthusiastically religious. Nothing could divert them from the regular and faithful performance of the pieties enjoined by the Church. More than once I had seen a noble who had gotten his enemy at a disadvantage, stop to pray before cutting his throat; more than once I had seen a noble, after ambushing and despatching his enemy, retire to the nearest wayside shrine and humbly give thanks, without even waiting to rob the body. There was to be nothing finer or sweeter in the life of even Benvenuto Cellini, that rough-hewn saint, ten centuries later. All the nobles of Britain, with their families, attended divine service morning and night daily, in their private chapels, and even the worst of them had family worship five or six times a day besides. The credit of this belonged entirely to the Church. Although I was no friend to that Catholic Church, I was obliged to admit this. And often, in spite of me, I found myself saying, "What would this country be without the Church?"

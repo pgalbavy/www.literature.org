@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Burning Daylight"
 weight: 26
-aliases:
-  - "/authors/london-jack/adventure/chapter-26.html"
+url: "/authors/london-jack/adventure/chapter-26.html"
 ---
 
 The ten days of Tudor's convalescence that followed were peaceful days on Berande. The work of the plantation went on like clock- work. With the crushing of the premature outbreak of Gogoomy and his following, all insubordination seemed to have vanished. Twenty more of the old-time boys, their term of service up, were carried away by the Martha, and the fresh stock of labour, treated fairly, was proving of excellent quality. As Sheldon rode about the plantation, acknowledging to himself the comfort and convenience of a horse and wondering why he had not thought of getting one himself, he pondered the various improvements for which Joan was responsible--the splendid Poonga-Poonga recruits; the fruits and vegetables; the Martha herself, snatched from the sea for a song and earning money hand over fist despite old Kinross's slow and safe method of running her; and Berande, once more financially secure, approaching each day nearer the dividend-paying time, and growing each day as the black toilers cleared the bush, cut the cane-grass, and planted more cocoanut palms.

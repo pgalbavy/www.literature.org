@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The End"
 weight: 17
-aliases:
-  - "/authors/london-jack/the-iron-heel/chapter-16.html"
+url: "/authors/london-jack/the-iron-heel/chapter-16.html"
 ---
 
 When it came time for Ernest and me to go to Washington, father did not accompany us. He had become enamoured of proletarian life. He looked upon our slum neighborhood as a great sociological laboratory, and he had embarked upon an apparently endless orgy of investigation. He chummed with the laborers, and was an intimate in scores of homes. Also, he worked at odd jobs, and the work was play as well as learned investigation, for he delighted in it and was always returning home with copious notes and bubbling over with new adventures. He was the perfect scientist.

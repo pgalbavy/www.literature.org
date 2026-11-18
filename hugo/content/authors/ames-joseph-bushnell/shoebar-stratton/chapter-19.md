@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Mysterious Motor-Car"
 weight: 19
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-19.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-19.html"
 ---
 
 Buck took to Jim Tenny at once. There was something about this long, lean, brown-faced foreman of the Rocking-R, with his clear gray eyes and that half-humorous twist to his thin lips, which inspired not only confidence but liking as well. He listened without comment to Buck's story, which included practically everything save the revelation of his own identity; but once or twice, especially at the brief mention of the fight in the bunk-house, his eyes gleamed with momentary approval. When Buck told about the blackleg incident his face darkened and he spoke for the first time.

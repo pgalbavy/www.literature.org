@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 19"
 weight: 176
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-19.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-19.html"
 ---
 
 Left alone, Darya Alexandrovna, with a good housewife's eye, scanned her room. All she had seen in entering the house and walking through it, and all she saw now in her room, gave her an impression of wealth and sumptuousness and of that modern European luxury of which she had only read in English novels, but had never seen in Russia and in the country. Everything was new from the new French hangings on the walls to the carpet which covered the whole floor. The bed had a spring mattress, and a special sort of bolster and silk pillow-cases on the little pillows. The marble wash-stand, the dressing-table, the little sofa, the tables, the bronze clock on the chimneypiece, the window-curtains, and the portieres were all new and expensive.

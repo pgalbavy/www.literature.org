@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 12"
 weight: 20
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-02-chapter-12.html"
+url: "/authors/haggard-h-rider/cleopatra/book-02-chapter-12.html"
 ---
 
 OF THE COMING BACK OF HARMACHIS; OF THE GREETING OF CHARMION; AND OF THE ANSWER OF CLEOPATRA TO QUINTUS DELLIUS, THE AMBASSADOR OF ANTONY THE TRIUMVIR

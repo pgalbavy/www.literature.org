@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Victoire's Slip"
 weight: 16
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin/chapter-16.html"
+url: "/authors/leblanc-maurice/arsene-lupin/chapter-16.html"
 ---
 
 They were silent. The Duke walked to the fireplace, stepped into it, and studied the opening. He came out again and said: "Oh, by the way, M. Formery, the policeman at the front door wanted to stop me going out of the house when I went home to change. I take it that M. Guerchard's prohibition does not apply to me?"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/crane-stephen/the-red-badge-of-courage/chapter-07.html"
+url: "/authors/crane-stephen/the-red-badge-of-courage/chapter-07.html"
 ---
 
 THE youth cringed as if discovered in a crime. By heavens, they had won after all! The im- becile line had remained and become victors. He could hear cheering.

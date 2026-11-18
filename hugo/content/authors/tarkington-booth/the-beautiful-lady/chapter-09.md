@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/tarkington-booth/the-beautiful-lady/chapter-09.html"
+url: "/authors/tarkington-booth/the-beautiful-lady/chapter-09.html"
 ---
 
 For several minutes neither of us spoke. Then I looked up to meet my friend's gaze of perturbation.

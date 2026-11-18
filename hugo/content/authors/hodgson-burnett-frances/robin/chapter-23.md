@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 24
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-23.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-23.html"
 ---
 
 There are old and forgotten churches in overgrown corners of London whose neglected remoteness suggests the possibility of any ecclesiastical ceremony being performed quite unobserved except by the parties concerned in it. If entries and departures were discreetly arranged, a baptismal or a marriage ceremony might take place almost as in a tomb. A dark wet day in which few pass by and such as pass are absorbed in their own discomforts beneath their umbrellas, offers a curiously entire aloofness of seclusion. In the neglected graveyards about them there is no longer any room to bury any one in the damp black earth where the ancient tombs are dark with mossy growth and mould, heavy broken slabs slant sidewise perilously, sad and thin cats prowl, and from a soot-blackened tree or so the rain drops with hollow, plashing sounds.

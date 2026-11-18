@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 13"
 weight: 13
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-13.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-13.html"
 ---
 
 Mary Burton was discovering some things about June. She had often watched lovers leaning silently on a deck-rail, with eyes fixed on a moonlit wake and hands that crept surreptitiously together. She had envied the credulity of these people and turned away with an ache and emptiness in her own heart.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Anxiety In High Places"
 weight: 3
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-03.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-03.html"
 ---
 
 "Quite so, my dear fellow, quite so," said Lord Caterham.

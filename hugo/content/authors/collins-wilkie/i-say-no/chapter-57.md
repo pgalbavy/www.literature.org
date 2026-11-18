@@ -1,8 +1,7 @@
 ---
 title: "Chapter 57 - Approaching The End"
 weight: 57
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-57.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-57.html"
 ---
 
 Alban reached London early enough in the afternoon to find the doctor at his luncheon. "Too late to see Mrs. Ellmother," he announced. "Sit down and have something to eat."

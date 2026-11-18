@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/daviess-maria-thompson/the-golden-bird/chapter-06.html"
+url: "/authors/daviess-maria-thompson/the-golden-bird/chapter-06.html"
 ---
 
 "I'm just Adam and I go many places," he answered with more of the intoxicating crooning laughter.

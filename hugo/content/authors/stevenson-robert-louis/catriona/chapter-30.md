@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - The Letter From The Ship"
 weight: 31
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-30.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-30.html"
 ---
 
 Daylight showed us how solitary the inn stood. It was plainly hard upon the sea, yet out of all view of it, and beset on every side with scabbit hills of sand. There was, indeed, only one thing in the nature of a prospect, where there stood out over a brae the two sails of a windmill, like an ass’s ears, but with the ass quite hidden. It was strange (after the wind rose, for at first it was dead calm) to see the turning and following of each other of these great sails behind the hillock. Scarce any road came by there; but a number of footways travelled among the bents in all directions up to Mr. Bazin’s door. The truth is, he was a man of many trades, not any one of them honest, and the position of his inn was the best of his livelihood. Smugglers frequented it; political agents and forfeited persons bound across the water came there to await their passages; and I daresay there was worse behind, for a whole family might have been butchered in that house and nobody the wiser.

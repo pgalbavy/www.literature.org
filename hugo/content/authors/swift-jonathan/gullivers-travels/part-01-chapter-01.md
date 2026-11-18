@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 1"
 weight: 2
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-01-chapter-01.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-01-chapter-01.html"
 ---
 
 The author gives some account of himself and family. His first inducements to travel. He is shipwrecked, and swims for his life. Gets safe on shore in the country of Lilliput; is made a prisoner, and carried up the country.

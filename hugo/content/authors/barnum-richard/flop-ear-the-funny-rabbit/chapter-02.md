@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Flop Ear Finds Something"
 weight: 2
-aliases:
-  - "/authors/barnum-richard/flop-ear-the-funny-rabbit/chapter-02.html"
+url: "/authors/barnum-richard/flop-ear-the-funny-rabbit/chapter-02.html"
 ---
 
 Along through the woods ran Flop Ear, the funny rabbit. Every now and then he would look over his shoulder, to see if there was a storm coming up. For sometimes it thundered away off on the other side of the mountain, and it would be a good while before the rain came near the rabbit house. But this time not a cloud came into the sky, and the loud banging noise did not sound again.

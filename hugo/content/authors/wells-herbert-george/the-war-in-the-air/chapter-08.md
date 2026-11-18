@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A World At War"
 weight: 9
-aliases:
-  - "/authors/wells-herbert-george/the-war-in-the-air/chapter-08.html"
+url: "/authors/wells-herbert-george/the-war-in-the-air/chapter-08.html"
 ---
 
 1

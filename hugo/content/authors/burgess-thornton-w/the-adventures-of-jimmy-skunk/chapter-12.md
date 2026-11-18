@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Jimmy Skunk And Unc' Billy Possum Meet"
 weight: 12
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-12.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-12.html"
 ---
 
 Jimmy Skunk ambled along down the Lone Little Path through the Green Forest. He didn't hurry. Jimmy never does hurry. Hurrying and worrying are two things he leaves for his neighbors. Now and then Jimmy stopped to turn over a bit of bark or a stick, hoping to find some fat beetles. But it was plain to see that he had something besides fat beetles on his mind.

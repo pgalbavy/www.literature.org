@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - What Mary Thorne Found"
 weight: 21
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-21.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-21.html"
 ---
 
 A few hundred yards away from the fence strung along the western side of middle pasture, Mary Thorne pulled her horse down to a walk and straightened her hat mechanically. Her cheeks were flushed becomingly and her eyes shone, but at the end of that sharp little canter much of the brightness faded and her face clouded.

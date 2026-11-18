@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Siren"
 weight: 24
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-24.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-24.html"
 ---
 
 He saw the glad smile on her lips, the light in her great, lustrous, dark eyes, and the beauty of her faultless body, and yet they all faded to nothing beside the astounding and inexplicable fact that she was in the mystery schooner.

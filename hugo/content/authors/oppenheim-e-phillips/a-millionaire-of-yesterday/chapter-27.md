@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-27.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-27.html"
 ---
 
 A fortnight afterwards Trent rode into Attra, pale, gaunt, and hollow-eyed. The whole history of those days would never be known by another man! Upon Trent they had left their mark for ever. Every hour of his time in this country he reckoned of great value - yet he had devoted fourteen days to saving the life of John Francis. Such days too - and such nights! They had carried him sometimes in a dead stupor, sometimes a raving madman, along a wild bush-track across rivers and swamps into the town of Garba, where years ago a Congo trader, who had made a fortune, had built a little white-washed hospital ! He was safe now, but surely never a man before had walked so near the "Valley of the Shadow of Death." A single moment's vigilance relaxed, a blanket displaced, a dose of brandy forgotten, and Trent might have walked this life a multi-millionaire, a peer, a little god amongst his fellows, freed for ever from all anxiety. But Francis was tended as never a man was tended before. Trent himself had done his share of the carrying, ever keeping his eyes fixed upon the death-lit face of their burden, every ready to fight off the progress of the fever and ague, as the twitching lips or shivering limbs gave warning of a change. For fourteen days he had not slept; until they had reached Garba his clothes had never been changed since they had started upon their perilous journey. As he rode into Attra he reeled a little in his saddle, and he walked into the office of the Agent more like a ghost than a man.

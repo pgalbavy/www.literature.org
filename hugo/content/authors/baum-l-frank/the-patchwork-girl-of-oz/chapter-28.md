@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 29
-aliases:
-  - "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-28.html"
+url: "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-28.html"
 ---
 
 The Wonderful Wizard of Oz

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Search In The Grounds"
 weight: 18
-aliases:
-  - "/authors/collins-wilkie/the-new-magdalen/chapter-18.html"
+url: "/authors/collins-wilkie/the-new-magdalen/chapter-18.html"
 ---
 
 GRACE ROSEBERRY, still listening in the conservatory, saw the door open, and recognized the mistress of the house. She softly drew back, and placed herself in safer hiding, beyond the range of view from the dining-room.

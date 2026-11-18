@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - A Sweet Memory"
 weight: 21
-aliases:
-  - "/authors/alcott-louisa-may/jack-and-jill/chapter-20.html"
+url: "/authors/alcott-louisa-may/jack-and-jill/chapter-20.html"
 ---
 
 Now the lovely June days had come, everything began to look really summer-like; school would soon be over, and the young people were joyfully preparing for the long vacation.

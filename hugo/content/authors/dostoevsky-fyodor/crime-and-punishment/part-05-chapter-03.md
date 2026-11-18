@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 3"
 weight: 30
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-05-chapter-03.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-05-chapter-03.html"
 ---
 
 "Pyotr Petrovitch," she cried, "protect me . . . you at least! Make this foolish woman understand that she can't behave like this to a lady in misfortune . . . that there is a law for such things. . . . I'll go to the governor-general himself. . . . She shall answer for it. . . . Remembering my father's hospitality protect these orphans."

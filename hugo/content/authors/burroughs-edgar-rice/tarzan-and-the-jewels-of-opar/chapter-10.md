@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-10.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-10.html"
 ---
 
 Mugambi, weak and suffering, had dragged his painful way along the trail of the retreating raiders. He could move but slowly, resting often; but savage hatred and an equally savage desire for vengeance kept him to his task. As the days passed his wounds healed and his strength returned, until at last his giant frame had regained all of its former mighty powers. Now he went more rapidly; but the mounted Arabs had covered a great distance while the wounded black had been painfully crawling after them.

@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 31"
 weight: 188
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-31.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-31.html"
 ---
 
 The newly elected marshal and many of the successful party dined that day with Vronsky.

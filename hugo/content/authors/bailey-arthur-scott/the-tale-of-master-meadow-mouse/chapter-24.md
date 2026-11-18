@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Master Or Mister?"
 weight: 24
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-24.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-24.html"
 ---
 
 LIVING, as he did, near the mill pond, Master Meadow Mouse saw a great deal of Paddy Muskrat. They had a number of tastes in common. They both liked lily bulbs. They both enjoyed swimming. They both disliked Peter Mink. They were bound to become great cronies--if for no other reason than the last.

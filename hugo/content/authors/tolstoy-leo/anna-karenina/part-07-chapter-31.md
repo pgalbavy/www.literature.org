@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 31"
 weight: 220
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-31.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-31.html"
 ---
 
 "A bell rang, some young men, ugly and impudent, and at the same time careful of the impression they were making, hurried by. Pyotr, too, crossed the room in his livery and top-boots, with his dull, animal face, and came up to her to take her to the train. Some noisy men were quiet as she passed them on the platform, and one whispered something about her to another-- something vile, no doubt. She stepped up on the high step, and sat down in a carriage by herself on a dirty seat that had been white. Her bag lay beside her, shaken up and down by the springiness of the seat. With a foolish smile Pyotr raised his hat, with its colored band, at the window, in token of farewell; an impudent conductor slammed the door and the latch. A grotesque-looking lady wearing a bustle (Anna mentally undressed the woman, and was appalled at her hideousness), and a little girl laughing affectedly ran down the platform.

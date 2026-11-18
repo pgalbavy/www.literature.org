@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Training Of Jad-Bal-Ja"
 weight: 2
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-02.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-02.html"
 ---
 
 AND so Tarzan of the Apes, and Jane Clayton, and Korak came home after a long absence and with them came Jad-bal-ja, the golden lion, and Za, the bitch. Among the first to meet them and to welcome them home was old Muviro, father of Wasimbu, who had given his life in defense of the home and wife of the ape-man.

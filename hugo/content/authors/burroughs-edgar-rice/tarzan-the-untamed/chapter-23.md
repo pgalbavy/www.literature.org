@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Flight From Xuja"
 weight: 23
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-23.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-23.html"
 ---
 
 As Metak bore Bertha Kircher toward the edge of the pool, the girl at first had no conception of the deed he contemplated but when, as they approached the edge, he did not lessen his speed she guessed the frightful truth. As he leaped head foremost with her into the water, she closed her eyes and breathed a silent prayer, for she was confident that the maniac had no other purpose than to drown himself and her. And yet, so potent is the first law of nature that even in the face of certain death, as she surely believed herself, she clung tenaciously to life, and while she struggled to free her- self from the powerful clutches of the madman, she held her breath against the final moment when the asphyxiating waters must inevitably flood her lungs.

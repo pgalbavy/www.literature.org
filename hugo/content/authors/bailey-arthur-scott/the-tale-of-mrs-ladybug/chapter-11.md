@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The New Cousin"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-11.html"
 ---
 
 FOR Mrs. Ladybug, finding her unknown cousin in Farmer Green's vegetable garden was not an easy task. Since Chirpy Cricket hadn't been able to tell Mrs. Ladybug what colors her cousin wore, Mrs. Ladybug didn't know what to expect.

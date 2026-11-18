@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 2 - The First Blow"
 weight: 15
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-03-chapter-02.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-03-chapter-02.html"
 ---
 
 I WAS so pleased at having given the slip to Long John that I began to enjoy myself and look around me with some interest on the strange land that I was in.

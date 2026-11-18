@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 16 - Persons And Things In General"
 weight: 66
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-04-chapter-16.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-04-chapter-16.html"
 ---
 
 Mr and Mrs John Harmon’s first delightful occupation was, to set all matters right that had strayed in any way wrong, or that might, could, would, or should, have strayed in any way wrong, while their name was in abeyance. In tracing out affairs for which John’s fictitious death was to be considered in any way responsible, they used a very broad and free construction; regarding, for instance, the dolls’ dressmaker as having a claim on their protection, because of her association with Mrs Eugene Wrayburn, and because of Mrs Eugene’s old association, in her turn, with the dark side of the story. It followed that the old man, Riah, as a good and serviceable friend to both, was not to be disclaimed. Nor even Mr Inspector, as having been trepanned into an industrious hunt on a false scent. It may be remarked, in connexion with that worthy officer, that a rumour shortly afterwards pervaded the Force, to the effect that he had confided to Miss Abbey Potterson, over a jug of mellow flip in the bar of the Six Jolly Fellowship Porters, that he ‘didn’t stand to lose a farthing’ through Mr Harmon’s coming to life, but was quite as well satisfied as if that gentleman had been barbarously murdered, and he (Mr Inspector) had pocketed the government reward.

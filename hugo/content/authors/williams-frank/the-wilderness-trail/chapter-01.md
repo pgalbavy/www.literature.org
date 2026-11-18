@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Up For Judgment"
 weight: 1
-aliases:
-  - "/authors/williams-frank/the-wilderness-trail/chapter-01.html"
+url: "/authors/williams-frank/the-wilderness-trail/chapter-01.html"
 ---
 
 "And you accuse me of that?"

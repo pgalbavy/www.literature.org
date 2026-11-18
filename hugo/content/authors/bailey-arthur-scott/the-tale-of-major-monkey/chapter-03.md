@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Getting Acquainted"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-03.html"
 ---
 
 Major Monkey and old Mr. Crow had a long talk. They got on famously together, because the old gentleman liked to pry into other people's affairs and the Major loved to talk about himself.

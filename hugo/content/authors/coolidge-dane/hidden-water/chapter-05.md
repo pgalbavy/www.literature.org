@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Hidden Water"
 weight: 5
-aliases:
-  - "/authors/coolidge-dane/hidden-water/chapter-05.html"
+url: "/authors/coolidge-dane/hidden-water/chapter-05.html"
 ---
 
 The trail to Hidden Water leads up the Salagua, alternately climbing the hard mesa and losing itself in the shifting sand of the river bottom until, a mile or two below the mouth of the box cañon, it swings in to the edge of the water. But the Salagua is no purling brook, dignified by a bigger name; it is not even a succession of mill ponds like the dammed-up streams of the East: in its own name the Salagua is a Rio, broad and swift, with a current that clutches treacherously at a horse's legs and roars over the brink of stony reefs in a long, fretful line of rapids. At the head of a broad mill race, where the yellow flood waters boiled sullenly before they took their plunge, Creede pulled up and surveyed the river doubtfully.

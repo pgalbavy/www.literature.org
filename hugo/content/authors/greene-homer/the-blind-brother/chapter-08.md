@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Out Of Darkness"
 weight: 8
-aliases:
-  - "/authors/greene-homer/the-blind-brother/chapter-08.html"
+url: "/authors/greene-homer/the-blind-brother/chapter-08.html"
 ---
 
 It was with a light heart that the Widow Taylor kissed her two boys good-by that morning in December, and watched them as they disappeared into the fading darkness. When they were gone she went about her household duties with a song on her lips. She did not often sing when she was alone; but this was such a pretty little song of a mother and her boy, that on this happy winter morning she could not choose but sing it.

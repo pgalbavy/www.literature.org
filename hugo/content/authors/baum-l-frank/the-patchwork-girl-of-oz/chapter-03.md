@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-03.html"
+url: "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-03.html"
 ---
 
 Ojo examined this curious contrivance with wonder. The Patchwork Girl was taller than he, when she stood upright, and her body was plump and rounded because it had been so neatly stuffed with cotton. Margolotte had first made the girl's form from the patchwork quilt and then she had dressed it with a patchwork skirt and an apron with pockets in it-- using the same gay material throughout. Upon the feet she had sewn a pair of red leather shoes with pointed toes. All the fingers and thumbs of the girl's hands had been carefully formed and stuffed and stitched at the edges, with gold plates at the ends to serve as finger-nails.

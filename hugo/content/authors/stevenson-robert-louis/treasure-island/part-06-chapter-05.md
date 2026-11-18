@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 5 - The Treasure-Hunt--The Voice Among The Trees"
 weight: 33
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-06-chapter-05.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-06-chapter-05.html"
 ---
 
 PARTLY from the damping influence of this alarm, partly to rest Silver and the sick folk, the whole party sat down as soon as they had gained the brow of the ascent.

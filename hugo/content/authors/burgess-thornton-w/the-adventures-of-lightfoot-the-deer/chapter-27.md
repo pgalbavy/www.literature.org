@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Sammy Jay Worries"
 weight: 27
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-27.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-27.html"
 ---
 
 It isn't often Sammy Jay worries about anybody but himself. Truth to tell, he doesn't worry about himself very often. You see, Sammy is smart, and he knows he is smart. Under that pointed cap of his are some of the cleverest wits in all the Green Forest. Sammy seldom worries about himself because he feels quite able to take care of himself.

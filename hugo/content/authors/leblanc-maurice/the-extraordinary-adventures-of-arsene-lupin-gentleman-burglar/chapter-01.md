@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Arrest Of Arsène Lupin"
 weight: 1
-aliases:
-  - "/authors/leblanc-maurice/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/chapter-01.html"
+url: "/authors/leblanc-maurice/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/chapter-01.html"
 ---
 
 It was a strange ending to a voyage that had commenced in a most auspicious manner. The transatlantic steamship ‘La Provence’ was a swift and comfortable vessel, under the command of a most affable man. The passengers constituted a select and delightful society. The charm of new acquaintances and improvised amusements served to make the time pass agreeably. We enjoyed the pleasant sensation of being separated from the world, living, as it were, upon an unknown island, and consequently obliged to be sociable with each other.

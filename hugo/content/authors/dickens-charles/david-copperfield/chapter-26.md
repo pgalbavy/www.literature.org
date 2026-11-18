@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - I Fall Into Captivity"
 weight: 27
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-26.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-26.html"
 ---
 
 I saw no more of Uriah Heep, until the day when Agnes left town. I was at the coach office to take leave of her and see her go; and there was he, returning to Canterbury by the same conveyance. It was some small satisfaction to me to observe his spare, short-waisted, high-shouldered, mulberry-coloured great-coat perched up, in company with an umbrella like a small tent, on the edge of the back seat on the roof, while Agnes was, of course, inside; but what I underwent in my efforts to be friendly with him, while Agnes looked on, perhaps deserved that little recompense. At the coach window, as at the dinner-party, he hovered about us without a moment’s intermission, like a great vulture: gorging himself on every syllable that I said to Agnes, or Agnes said to me.

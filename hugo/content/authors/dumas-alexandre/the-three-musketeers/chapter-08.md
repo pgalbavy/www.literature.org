@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Concerning A Court Intrigue"
 weight: 9
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-08.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-08.html"
 ---
 
 In the meantime, the forty pistoles of King Louis XIII, like all other things of this world, after having had a beginning had an end, and after this end our four companions began to be somewhat embarrassed. At first, Athos supported the association for a time with his own means.

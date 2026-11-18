@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-28.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-28.html"
 ---
 
 It was then perhaps that Trent fought the hardest battle of his life. The start was made with only a dozen Kru boys, Trent himself, stripped to the shirt, labouring amongst them spade in hand. In a week the fishing boats were deserted, every one was working on the road. The labour was immense, but the wages were magnificent. Real progress was made and the boy's calculations were faultless. Trent used the cable freely.

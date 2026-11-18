@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Great Collapse"
 weight: 12
-aliases:
-  - "/authors/wells-herbert-george/the-war-in-the-air/chapter-11.html"
+url: "/authors/wells-herbert-george/the-war-in-the-air/chapter-11.html"
 ---
 
 1

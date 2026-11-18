@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - We Give A Sign"
 weight: 12
-aliases:
-  - "/authors/haggard-h-rider/king-solomons-mines/chapter-11.html"
+url: "/authors/haggard-h-rider/king-solomons-mines/chapter-11.html"
 ---
 
 For a long while--two hours, I should think--we sat there in silence, being too much overwhelmed by the recollection of the horrors we had seen to talk. At last, just as we were thinking of turning in--for the night drew nigh to dawn--we heard a sound of steps. Then came the challenge of a sentry posted at the kraal gate, which apparently was answered, though not in an audible tone, for the steps still advanced; and in another second Infadoos had entered the hut, followed by some half-dozen stately-looking chiefs.

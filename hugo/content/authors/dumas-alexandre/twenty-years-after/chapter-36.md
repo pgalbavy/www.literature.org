@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - A Letter From Charles The First"
 weight: 36
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-36.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-36.html"
 ---
 
 The reader must now cross the Seine with us and follow us to the door of the Carmelite Convent in the Rue Saint Jacques. It is eleven o'clock in the morning and the pious sisters have just finished saying mass for the success of the armies of King Charles I. Leaving the church, a woman and a young girl dressed in black, the one as a widow and the other as an orphan, have re-entered their cell.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Modern Duelling"
 weight: 27
-aliases:
-  - "/authors/london-jack/adventure/chapter-27.html"
+url: "/authors/london-jack/adventure/chapter-27.html"
 ---
 
 Barely had Sheldon reached the Balesuna, when he heard the faint report of a distant rifle and knew it was the signal of Tudor, giving notice that he had reached the Berande, turned about, and was coming back. Sheldon fired his rifle into the air in answer, and in turn proceeded to advance. He moved as in a dream, absent- mindedly keeping to the open beach. The thing was so preposterous that he had to struggle to realize it, and he reviewed in his mind the conversation with Tudor, trying to find some clue to the common-sense of what he was doing. He did not want to kill Tudor. Because that man had blundered in his love-making was no reason that he, Sheldon, should take his life. Then what was it all about? True, the fellow had insulted Joan by his subsequent remarks and been knocked down for it, but because he had knocked him down was no reason that he should now try to kill him.

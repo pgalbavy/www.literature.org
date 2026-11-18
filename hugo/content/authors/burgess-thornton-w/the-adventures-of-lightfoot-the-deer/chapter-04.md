@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Spirit Of Fear"
 weight: 4
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-04.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-04.html"
 ---
 
 When the days grow cold and the nights are clear,  

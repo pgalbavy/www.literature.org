@@ -1,8 +1,7 @@
 ---
 title: "The Spendthrift And The Swallow"
 weight: 243
-aliases:
-  - "/authors/aesop/fables/chapter-241.html"
+url: "/authors/aesop/fables/chapter-241.html"
 ---
 
 A YOUNG MAN, a great spendthrift, had run through all his patrimony and had but one good cloak left. One day he happened to see a Swallow, which had appeared before its season, skimming along a pool and twittering gaily. He supposed that summer had come, and went and sold his cloak. Not many days later, winter set in again with renewed frost and cold. When he found the unfortunate Swallow lifeless on the ground, he said, "Unhappy bird! what have you done? By thus appearing before the springtime you have not only killed yourself, but you have wrought my destruction also."

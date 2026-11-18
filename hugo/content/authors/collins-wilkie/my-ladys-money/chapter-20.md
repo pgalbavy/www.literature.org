@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/collins-wilkie/my-ladys-money/chapter-20.html"
+url: "/authors/collins-wilkie/my-ladys-money/chapter-20.html"
 ---
 
 THE day of the garden party arrived. There was no rain; but the air was heavy, and the sky was overcast by lowering clouds.

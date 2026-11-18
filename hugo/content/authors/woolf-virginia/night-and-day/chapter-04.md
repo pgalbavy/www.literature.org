@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/woolf-virginia/night-and-day/chapter-04.html"
+url: "/authors/woolf-virginia/night-and-day/chapter-04.html"
 ---
 
 At about nine o’clock at night, on every alternate Wednesday, Miss Mary Datchet made the same resolve, that she would never again lend her rooms for any purposes whatsoever. Being, as they were, rather large and conveniently situated in a street mostly dedicated to offices off the Strand, people who wished to meet, either for purposes of enjoyment, or to discuss art, or to reform the State, had a way of suggesting that Mary had better be asked to lend them her rooms. She always met the request with the same frown of well-simulated annoyance, which presently dissolved in a kind of half-humorous, half-surly shrug, as of a large dog tormented by children who shakes his ears. She would lend her room, but only on condition that all the arrangements were made by her. This fortnightly meeting of a society for the free discussion of everything entailed a great deal of moving, and pulling, and ranging of furniture against the wall, and placing of breakable and precious things in safe places. Miss Datchet was quite capable of lifting a kitchen table on her back, if need were, for although well-proportioned and dressed becomingly, she had the appearance of unusual strength and determination.

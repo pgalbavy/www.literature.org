@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Curtain Falls"
 weight: 5
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-04.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-04.html"
 ---
 
 FOR the rest of the day, and through the night, I was kept a close prisoner in my room, watched by a man on whose fidelity my father could depend.

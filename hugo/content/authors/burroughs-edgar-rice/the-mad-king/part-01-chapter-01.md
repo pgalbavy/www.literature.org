@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 1 - A Runaway Horse"
 weight: 1
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mad-king/part-01-chapter-01.html"
+url: "/authors/burroughs-edgar-rice/the-mad-king/part-01-chapter-01.html"
 ---
 
 All Lustadt was in an uproar. The mad king had escaped. Little knots of excited men stood upon the street corners listening to each latest rumor concerning this most absorbing occurrence. Before the palace a great crowd surged to and fro, awaiting they knew not what.

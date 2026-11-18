@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - A Row"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-24.html"
 ---
 
 Jack Carleton saw that he was caught in an exceedingly unpleasant dilemma. He had a considerable distance to walk to reach the lodge of Ogallah and was sure to be tormented all the way. He could not feel certain even, that the wigwam of the chieftain would afford him protection, while nothing could be more manifest than that this was but the beginning of a series of numberless persecutions to which he would be subjected.

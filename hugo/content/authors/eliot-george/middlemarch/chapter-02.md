@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-02.html"
+url: "/authors/eliot-george/middlemarch/chapter-02.html"
 ---
 
 "'Dime; no ves aquel caballero que hacia nosotros viene sobre un caballo rucio rodado que trae puesto en la cabeza un yelmo de oro?' 'Lo que veo y columbro,' respondio Sancho, 'no es sino un hombre sobre un as no pardo como el mio, que trae sobre la cabeza una cosa que relumbra.' 'Pues ese es el yelmo de Mambrino,' dijo Don Quijote." - CERVANTES.

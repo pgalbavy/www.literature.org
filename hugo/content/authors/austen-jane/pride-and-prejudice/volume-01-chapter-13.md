@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 13"
 weight: 13
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-13.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-13.html"
 ---
 
 "I hope, my dear," said Mr. Bennet to his wife, as they were at breakfast the next morning, "that you have ordered a good dinner to-day, because I have reason to expect an addition to our family party."

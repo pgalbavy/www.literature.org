@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Instinct Or Reason"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-25.html"
 ---
 
 As the night wore away without bringing any further evidence of the presence of enemies, the solicitude of Vose Adams was transferred to the two, who, hardly a mile distant, were awaiting with equal anxiety the coming of morning. They and he had agreed upon the plan to be pursued, but now, with the crisis at hand, the guide became apprehensive about the final issue.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Father Henriques And The Baker's Oven"
 weight: 23
-aliases:
-  - "/authors/haggard-h-rider/fair-margaret/chapter-23.html"
+url: "/authors/haggard-h-rider/fair-margaret/chapter-23.html"
 ---
 
 A week had gone by. Margaret was in the palace, where Peter had been to see her twice, and found her broken-hearted. Even the fact that they were to be wed upon the following Saturday, the day fixed also for the combat between Peter and Morella, brought her no joy or consolation. For on the next day, the Sunday, there was to be an "Act of Faith," an _auto-da-fé_ in Seville, when wicked heretics, such as Jews, Moors, and persons who had spoken blasphemy, were to suffer for their crimes--some by fire on the Quemadero, or place of burning, outside the city; some by making public confession of their grievous sin before they were carried off to perpetual and solitary imprisonment; some by being garotted before their bodies were given to the flames, and so forth. In this ceremony it was known that John Castell had been doomed to play a leading part.

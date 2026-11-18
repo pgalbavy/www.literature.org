@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - An Unwelcome Guest"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-09.html"
 ---
 
 What may be called a minor mystery was settled within a few minutes after Alvin, Chester and Mike came out of the wood and sat down for a brief while on the porch. Most of the other Boy Scouts had gone inside for the night, though the murmur of voices showed the majority were awake. The laugh of Scout Master Hall was heard in response to some jest, he being, as has been said, as much of a youngster as the most youthful of the troop.

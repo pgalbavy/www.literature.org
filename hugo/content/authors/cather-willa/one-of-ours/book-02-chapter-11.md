@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 11"
 weight: 30
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-02-chapter-11.html"
+url: "/authors/cather-willa/one-of-ours/book-02-chapter-11.html"
 ---
 
 Enid decided that she would be married in the first week of June. Early in May the plasterers and painters began to be busy in the new house. The walls began to shine, and Claude went about all day, oiling and polishing the hard-pine floors and wainscoting. He hated to have anybody step on his floors. He planted gourd vines about the back porch, set out clematis and lilac bushes, and put in a kitchen garden. He and Enid were going to Denver and Colorado Springs for their wedding trip, but Ralph would be at home then, and he had promised to come over and water the flowers and shrubs if the weather was dry.

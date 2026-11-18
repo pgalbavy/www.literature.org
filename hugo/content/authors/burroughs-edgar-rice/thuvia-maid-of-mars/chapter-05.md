@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Fair Race"
 weight: 5
-aliases:
-  - "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/chapter-05.html"
+url: "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/chapter-05.html"
 ---
 
 Downward along a smooth, broad floor led the strange tunnel, for such Carthoris was now convinced was the nature of the shaft he at first had thought but a cave.

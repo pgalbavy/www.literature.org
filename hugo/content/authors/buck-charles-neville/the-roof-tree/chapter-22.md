@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-22.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-22.html"
 ---
 
 The earliest frost of late September had brought its tang to the air with a snappy assertion of the changing season, when Parish Thornton first broached to Dorothy an idea that, of late, had been constantly in his mind. Somehow that morning with its breath of shrewd chill seemed to mark a dividing line. Yesterday had been warm and languorous and the day before had been hot. The ironweed had not long since been topped with the dusty royalty of its vagabond purple, and the thistledown had drifted along air currents that stirred light and warm.

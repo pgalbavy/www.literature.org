@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Hallowe’en"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-09.html"
 ---
 
 Solomon Owl was afraid of fire. And when he looked down from his perch in the tree and saw, through the hole in the stranger’s crown, that all was aglow inside his big, round head, Solomon couldn’t help voicing his horror. He “whoo-whooed” so loudly that Tommy Fox, at the foot of the tree, asked him what on earth was the matter.

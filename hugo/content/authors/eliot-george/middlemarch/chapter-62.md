@@ -1,8 +1,7 @@
 ---
 title: "Chapter 62"
 weight: 62
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-62.html"
+url: "/authors/eliot-george/middlemarch/chapter-62.html"
 ---
 
 "He was a squyer of lowe degre, That loved the king's daughter of Hungrie. - Old Romance.

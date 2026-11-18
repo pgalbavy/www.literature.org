@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39"
 weight: 39
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-39.html"
+url: "/authors/dickens-charles/great-expectations/chapter-39.html"
 ---
 
 I WAS three-and-twenty years of age. Not another word had I heard to enlighten me on the subject of my expectations, and my twenty-third birthday was a week gone. We had left Barnard's Inn more than a year, and lived in the Temple. Our chambers were in Garden-court, down by the river.

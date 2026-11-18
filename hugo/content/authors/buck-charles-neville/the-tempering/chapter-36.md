@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 36
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-36.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-36.html"
 ---
 
 Anne Masters looked out of the car windows with shadowed and preoccupied eyes on that journey from the mountains back to Louisville. The old conductor who always stopped and chatted with her, after a glance at her expression, punched her ticket and passed on. Something was not well with her, he reflected.

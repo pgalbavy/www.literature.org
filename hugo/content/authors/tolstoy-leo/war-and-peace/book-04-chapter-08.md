@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 8"
 weight: 76
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-04-chapter-08.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-04-chapter-08.html"
 ---
 
 "Dearest," said the little princess after breakfast on the morning of the nineteenth March, and her downy little lip rose from old habit, but as sorrow was manifest in every smile, the sound of every word, and even every footstep in that house since the terrible news had come, so now the smile of the little princess- influenced by the general mood though without knowing its cause- was such as to remind one still more of the general sorrow.

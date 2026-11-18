@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 15 - The Golden Dustman At His Worst"
 weight: 48
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-03-chapter-15.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-03-chapter-15.html"
 ---
 
 The breakfast table at Mr Boffin’s was usually a very pleasant one, and was always presided over by Bella. As though he began each new day in his healthy natural character, and some waking hours were necessary to his relapse into the corrupting influences of his wealth, the face and the demeanour of the Golden Dustman were generally unclouded at that meal. It would have been easy to believe then, that there was no change in him. It was as the day went on that the clouds gathered, and the brightness of the morning became obscured. One might have said that the shadows of avarice and distrust lengthened as his own shadow lengthened, and that the night closed around him gradually.

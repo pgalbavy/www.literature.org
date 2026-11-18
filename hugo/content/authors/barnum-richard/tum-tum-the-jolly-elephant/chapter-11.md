@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Tum Tum And The Tiger"
 weight: 11
-aliases:
-  - "/authors/barnum-richard/tum-tum-the-jolly-elephant/chapter-11.html"
+url: "/authors/barnum-richard/tum-tum-the-jolly-elephant/chapter-11.html"
 ---
 
 The two elephants sucked up all the pink lemonade from the washtub near the stand outside the tent. Then they felt much better, and cooler. They did not mind the heat so much.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 76 - Progress Of Cavalcanti The Younger"
 weight: 76
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-76.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-76.html"
 ---
 
 Meanwhile M. Cavalcanti the elder had returned to his service, not in the army of his majesty the Emperor of Austria, but at the gaming-table of the baths of Lucca, of which he was one of the most assiduous courtiers. He had spent every farthing that had been allowed for his journey as a reward for the majestic and solemn manner in which he had maintained his assumed character of father. M. Andrea at his departure inherited all the papers which proved that he had indeed the honor of being the son of the Marquis Bartolomeo and the Marchioness Oliva Corsinari. He was now fairly launched in that Parisian society which gives such ready access to foreigners, and treats them, not as they really are, but as they wish to be considered. Besides, what is required of a young man in Paris? To speak its language tolerably, to make a good appearance, to be a good gamester, and to pay in cash. They are certainly less particular with a foreigner than with a Frenchman. Andrea had, then, in a fortnight, attained a very fair position. He was called count, he was said to possess 50,000 livres per annum; and his father's immense riches, buried in the quarries of Saravezza, were a constant theme. A learned man, before whom the last circumstance was mentioned as a fact, declared he had seen the quarries in question, which gave great weight to assertions hitherto somewhat doubtful, but which now assumed the garb of reality.

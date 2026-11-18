@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 22
-aliases:
-  - "/authors/chambers-robert-w/cardigan/chapter-21.html"
+url: "/authors/chambers-robert-w/cardigan/chapter-21.html"
 ---
 
 My journey to Albany was slow, easy, and uneventful; I spared Warlock because of his added burdens, though he would gladly have galloped the entire distance, for the poor fellow was bitterly ashamed of playing pack-horse and evinced the greatest desire to finish and have done with it as soon as convenient.

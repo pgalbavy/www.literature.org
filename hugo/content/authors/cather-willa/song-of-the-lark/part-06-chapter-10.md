@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 10"
 weight: 60
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-06-chapter-10.html"
+url: "/authors/cather-willa/song-of-the-lark/part-06-chapter-10.html"
 ---
 
 OTTENBURG dismissed his taxicab at the 91st Street entrance of the Park and floundered across the drive through a wild spring snowstorm. When he reached the reservoir path he saw Thea ahead of him, walking rapidly against the wind. Except for that one figure, the path was deserted. A flock of gulls were hovering over the reservoir, seeming bewildered by the driving currents of snow that whirled above the black water and then disappeared within it. When he had almost overtaken Thea, Fred called to her, and she turned and waited for him with her back to the wind. Her hair and furs were powdered with snowflakes, and she looked like some rich-pelted animal, with warm blood, that had run in out of the woods. Fred laughed as he took her hand.

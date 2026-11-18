@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 22
-aliases:
-  - "/authors/baum-l-frank/rinkitink-in-oz/chapter-21.html"
+url: "/authors/baum-l-frank/rinkitink-in-oz/chapter-21.html"
 ---
 
 After Kaliko had failed in his attempts to destroy his guests, as has been related, the Nome King did nothing more to injure them but treated them in a friendly manner. He refused, however, to permit Inga to see or to speak with his father and mother, or even to know in what part of the underground caverns they were confined.

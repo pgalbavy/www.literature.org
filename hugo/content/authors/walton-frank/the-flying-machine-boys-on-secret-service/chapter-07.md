@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Three Hungry Men"
 weight: 7
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-07.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-07.html"
 ---
 
 After the departure of Jimmie and Carl, Ben sat in the shelter-tent by the side of the injured man until he was half asleep. Mr. Havens had fallen into a light slumber, and there was no one to talk to. He finally arose and walked out to the fire, looking about for some sign of the flying machine as he did so.

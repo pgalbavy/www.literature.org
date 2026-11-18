@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - The Show-Down"
 weight: 27
-aliases:
-  - "/authors/coolidge-dane/rimrock-jones/chapter-27.html"
+url: "/authors/coolidge-dane/rimrock-jones/chapter-27.html"
 ---
 
 For the few brief weeks before the great trial the office was swarming with men. There were high-priced lawyers and geologists of renown and experts on every phase of the suit, and in the midst of them sat Rimrock Jones. He wore his big black hat that had cost him a hundred dollars--including the hat-check tips at the Waldorf--and his pistol was always at his hip. Every step of their case was carefully framed up in the long councils that took place, but at the end Rimrock lost his nerve. For the first time in his life, and with all eyes upon him, he weakened and lowered his proud head. He had a hunch he would lose.

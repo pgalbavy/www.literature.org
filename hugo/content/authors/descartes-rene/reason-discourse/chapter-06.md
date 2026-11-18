@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/descartes-rene/reason-discourse/chapter-06.html"
+url: "/authors/descartes-rene/reason-discourse/chapter-06.html"
 ---
 
 Three years have now elapsed since I finished the treatise containing all these matters; and I was beginning to revise it, with the view to put it into the hands of a printer, when I learned that persons to whom I greatly defer, and whose authority over my actions is hardly less influential than is my own reason over my thoughts, had condemned a certain doctrine in physics, published a short time previously by another individual to which I will not say that I adhered, but only that, previously to their censure I had observed in it nothing which I could imagine to be prejudicial either to religion or to the state, and nothing therefore which would have prevented me from giving expression to it in writing, if reason had persuaded me of its truth; and this led me to fear lest among my own doctrines likewise some one might be found in which I had departed from the truth, notwithstanding the great care I have always taken not to accord belief to new opinions of which I had not the most certain demonstrations, and not to give expression to aught that might tend to the hurt of any one. This has been sufficient to make me alter my purpose of publishing them; for although the reasons by which I had been induced to take this resolution were very strong, yet my inclination, which has always been hostile to writing books, enabled me immediately to discover other considerations sufficient to excuse me for not undertaking the task. And these reasons, on one side and the other, are such, that not only is it in some measure my interest here to state them, but that of the public, perhaps, to know them.

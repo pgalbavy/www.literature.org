@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Ah Sing Counts His Nails"
 weight: 3
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-02.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-02.html"
 ---
 
 Captain Threthaway, of the barkentine, Coryander, of Boston, should have heeded the warning he received from his first mate, Peter Gross, to keep away from the roadstead of Batavia. He had no particular business in that port. But an equatorial sun, hot enough to melt the marrow in a man's bones, made the Coryander's deck a blistering griddle; there was no ice on board, and the water in the casks tasted foul as bilge. So the captain let his longing for iced tea and the cool depths of a palm-grove get the better of his judgment.

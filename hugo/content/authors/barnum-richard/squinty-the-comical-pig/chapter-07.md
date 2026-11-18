@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Squinty Learns A Trick"
 weight: 7
-aliases:
-  - "/authors/barnum-richard/squinty-the-comical-pig/chapter-07.html"
+url: "/authors/barnum-richard/squinty-the-comical-pig/chapter-07.html"
 ---
 
 Squinty, the comical pig, tried to look out through the slats of the box, in which he was being taken away, to see in which direction he was going. He also wanted to watch the different sights along the road. But the sides of the farm wagon were so high that the little pig could see nothing. He stretched his fat neck as far as it would go, but that did no good either. Squinty wished he were as big as his papa or his mamma.

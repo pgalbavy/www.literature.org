@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - How Dorothy Saved the Scarecrow "
 weight: 4
-aliases:
-  - "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-03.html"
+url: "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-03.html"
 ---
 
 When Dorothy was left alone she began to feel hungry. So she went to the cupboard and cut herself some bread, which she spread with butter. She gave some to Toto, and taking a pail from the shelf she carried it down to the little brook and filled it with clear, sparkling water. Toto ran over to the trees and began to bark at the birds sitting there. Dorothy went to get him, and saw such delicious fruit hanging from the branches that she gathered some of it, finding it just what she wanted to help out her breakfast.

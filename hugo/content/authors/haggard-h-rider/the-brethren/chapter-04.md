@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Letter Of Saladin"
 weight: 5
-aliases:
-  - "/authors/haggard-h-rider/the-brethren/chapter-04.html"
+url: "/authors/haggard-h-rider/the-brethren/chapter-04.html"
 ---
 
 Twas past three in the afternoon, and snow clouds were fast covering up the last grey gleam of the December day, as Godwin, wishing that his road was longer, walked to Steeple church across the meadow. At the door of it he met the two serving women coming out with brooms in their hands, and bearing between them a great basket filled with broken meats and foul rushes. Of them he asked if the Lady Rosamund were still in the church, to which they answered, curtseying:

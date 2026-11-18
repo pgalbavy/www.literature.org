@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Burglary at the Vicarage"
 weight: 5
-aliases:
-  - "/authors/wells-herbert-george/the-invisible-man/chapter-05.html"
+url: "/authors/wells-herbert-george/the-invisible-man/chapter-05.html"
 ---
 
 The facts of the burlgary at the vicarage came to us chiefly through the medium of the vicar and his wife. It occurred in the small hours of Whit-Monday--the day devoted in Iping to the Club festivities. Mrs. Bunting, it seems, woke up suddenly in the stillness that comes before the dawn, with the strong impression that the door of their bedroom had opened and closed. She did not arouse her husband at first, but sat up in bed listening. She then distinctly heard the pad, pad, pad of bare feet coming out of the adjoining dressing-room and walking along the passage towards the staircase. As soon as she felt assured of this, she aroused the Rev. Mr. Bunting as quietly as possible. He did not strike a light, but putting on his spectacles, her dressing-gown, and his bath slippers, he went out on the landing to listen. He heard quite distinctly a fumbling going on at his study desk downstairs, and then a violent sneeze.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-23.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-23.html"
 ---
 
 ‟*HOW* in the world did that cunning little wife of his ever fall in love with him?" Frederic’s companion inquired, watching the emerging procession of the dining party. "He always looks as if he had something else on his mind when he’s with women—as if he didn’t think they’re worth talkin’ to. She looks about half his age. Of course you can’t tell, though; everybody uses so much makeup nowadays. They say she belongs to awf’ly important people in New York and never liked it here because she couldn’t get enough music. You didn’t answer my question: Aren’t they ever goin’ to get married? I mean your cousin Harlan and that big Miss Shelby. How in the world do they find anything to *say* to each other? Gosh, if I kept a man hangin’ on that long I’d certainly be talked out! How in the world can two people *stand* seein’ each other all the time like that?"

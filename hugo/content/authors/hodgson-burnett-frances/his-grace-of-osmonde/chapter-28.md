@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Sir John Rides Out Of Town"
 weight: 29
-aliases:
-  - "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-28.html"
+url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-28.html"
 ---
 
 Tom Tantillion had not appeared at the ball, having otherwise entertained himself for the evening, but at an hour when most festivities were at an end and people were returning from them, rolling through the streets in their coaches, the young man was sitting at a corner table in Cribb's Coffee-House surrounded by glasses and jolly companions and clouds of tobacco-smoke.

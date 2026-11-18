@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/lawrence-david-herbert/the-captains-doll/chapter-01.html"
+url: "/authors/lawrence-david-herbert/the-captains-doll/chapter-01.html"
 ---
 
 'Hannele!'

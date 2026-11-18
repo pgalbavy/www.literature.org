@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/woolf-virginia/night-and-day/chapter-09.html"
+url: "/authors/woolf-virginia/night-and-day/chapter-09.html"
 ---
 
 Katharine disliked telling her mother about Cyril’s misbehavior quite as much as her father did, and for much the same reasons. They both shrank, nervously, as people fear the report of a gun on the stage, from all that would have to be said on this occasion. Katharine, moreover, was unable to decide what she thought of Cyril’s misbehavior. As usual, she saw something which her father and mother did not see, and the effect of that something was to suspend Cyril’s behavior in her mind without any qualification at all. They would think whether it was good or bad; to her it was merely a thing that had happened.

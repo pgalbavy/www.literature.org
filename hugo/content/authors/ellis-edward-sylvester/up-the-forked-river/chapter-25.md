@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-25.html"
 ---
 
 There nestled their boat with no sign of having been visited during their absence. Its prow was drawn well up the bank, and the sail lay in a roll on the boom and at the foot of the single mast with everything snug. Martella hastily examined every portion of the hull, stepping into the water to do so, and finally said with a grin:

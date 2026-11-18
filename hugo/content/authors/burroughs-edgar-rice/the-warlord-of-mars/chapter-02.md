@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Under the Mountains"
 weight: 2
-aliases:
-  - "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-02.html"
+url: "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-02.html"
 ---
 
 As we advanced up the river which winds beneath the Golden Cliffs out of the bowels of the Mountains of Otz to mingle its dark waters with the grim and mysterious Iss the faint glow which had appeared before us grew gradually into an all-enveloping radiance.

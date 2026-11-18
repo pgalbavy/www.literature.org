@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 3 - The Family Council"
 weight: 23
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-03-chapter-03.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-03-chapter-03.html"
 ---
 
 It was at eleven o'clock the next morning that the aunts and uncles came to hold their consultation. The fire was lighted in the large parlor, and poor Mrs. Tulliver, with a confused impression that it was a great occasion, like a funeral, unbagged the bell-rope tassels, and unpinned the curtains, adjusting them in proper folds, looking round and shaking her head sadly at the polished tops and legs of the tables, which sister Pullet herself could not accuse of insufficient brightness.

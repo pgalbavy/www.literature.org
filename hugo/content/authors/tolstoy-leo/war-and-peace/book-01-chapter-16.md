@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 16"
 weight: 16
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-01-chapter-16.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-01-chapter-16.html"
 ---
 
 Pierre, after all, had not managed to choose a career for himself in Petersburg, and had been expelled from there for riotous conduct and sent to Moscow. The story told about him at Count Rostov's was true. Pierre had taken part in tying a policeman to a bear. He had now been for some days in Moscow and was staying as usual at his father's house. Though he expected that the story of his escapade would be already known in Moscow and that the ladies about his father- who were never favorably disposed toward him- would have used it to turn the count against him, he nevertheless on the day of his arrival went to his father's part of the house. Entering the drawing room, where the princesses spent most of their time, he greeted the ladies, two of whom were sitting at embroidery frames while a third read aloud. It was the eldest who was reading- the one who had met Anna Mikhaylovna. The two younger ones were embroidering: both were rosy and pretty and they differed only in that one had a little mole on her lip which made her much prettier. Pierre was received as if he were a corpse or a leper. The eldest princess paused in her reading and silently stared at him with frightened eyes; the second assumed precisely the same expression; while the youngest, the one with the mole, who was of a cheerful and lively disposition, bent over her frame to hide a smile probably evoked by the amusing scene she foresaw. She drew her wool down through the canvas and, scarcely able to refrain from laughing, stooped as if trying to make out the pattern.

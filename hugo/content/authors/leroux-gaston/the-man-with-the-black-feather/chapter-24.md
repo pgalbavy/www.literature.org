@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Solution In The Catacombs"
 weight: 25
-aliases:
-  - "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-24.html"
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-24.html"
 ---
 
 "When one comes to oneself in the depth of the Catacombs," says Commissary Mifroid in the admirable report of the matter which he drew up, "the first thought which steals into one's mind is a fearful one: the fear of being old-fashioned. I mean by that a sudden anxiety lest one should find oneself reproducing all the ridiculous behaviour of which writers of romance and melodrama never fail to make their unfortunate heroes guilty when they find themselves immured in caves, grottoes, excavations, caverns, or tombs.

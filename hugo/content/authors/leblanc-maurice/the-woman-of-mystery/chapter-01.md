@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Murder"
 weight: 1
-aliases:
-  - "/authors/leblanc-maurice/the-woman-of-mystery/chapter-01.html"
+url: "/authors/leblanc-maurice/the-woman-of-mystery/chapter-01.html"
 ---
 
 "Suppose I were to tell you," said Paul Delroze, "that I once stood face to face with him on French. . . ."

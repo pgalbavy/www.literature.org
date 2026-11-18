@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Ominous Preparations"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-12.html"
 ---
 
 Happily there are few little girls in this favored land who are called upon to go through such trials as fell to the lot of little Nellie Ribsam when she was but eight years old.

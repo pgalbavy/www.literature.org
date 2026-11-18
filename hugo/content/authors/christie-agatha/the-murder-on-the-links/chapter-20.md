@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - An Amazing Statement"
 weight: 20
-aliases:
-  - "/authors/christie-agatha/the-murder-on-the-links/chapter-20.html"
+url: "/authors/christie-agatha/the-murder-on-the-links/chapter-20.html"
 ---
 
 The next moment Poirot embraced me warmly. "*Enfin!__* You have arrived. And all by yourself. It is superb! Continue your reasoning. You are right. Decidedly we have done wrong to forget Georges Conneau."

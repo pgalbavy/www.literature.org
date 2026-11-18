@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-28.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-28.html"
 ---
 
 Mr. Sabin, contrary to his usual custom, engaged a private room at the Milan. Lucille was in the highest spirits.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Bedfellows"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-20.html"
 ---
 
 During his rambles on the following night Dickie Deer Mouse took great care to keep out of sight of the three families of cousins that had tried to quarter themselves in his new house in the pasture. Moreover he said nothing to anybody about his future home. Fatty Coon had taught him in one lesson that it is sometimes wise to keep a secret.

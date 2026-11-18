@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - A Cheerful Disposition"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-20.html"
 ---
 
 Every boy and girl should cultivate a cheerful disposition. You will have grief and trouble, and must shed many a tear; but cheerfulness does more than anything else to lighten the burdens of life.

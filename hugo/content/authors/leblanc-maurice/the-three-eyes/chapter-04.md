@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Noël Dorgeroux's Son"
 weight: 4
-aliases:
-  - "/authors/leblanc-maurice/the-three-eyes/chapter-04.html"
+url: "/authors/leblanc-maurice/the-three-eyes/chapter-04.html"
 ---
 
 The spectator who has just been watching the most tragic of films finds it easy to escape from the sort of dark prison-house in which he was suffocating and, with the return of the light, recovers his equilibrium and his self-possession. I, on the other hand, remained for a long time numb and speechless, with my eyes riveted to the empty panel, as though I expected something else to emerge from it. Even when it was over, the tragedy terrified me, like a nightmare prolonged after waking, and, even more than the tragedy, the absolutely extraordinary manner in which it had been unfolded before my eyes. I did not understand. My disordered brain vouchsafed me none but the most grotesque and incoherent ideas.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Adventure Of The Radical Candidate"
 weight: 5
-aliases:
-  - "/authors/buchan-john/the-thirty-nine-steps/chapter-04.html"
+url: "/authors/buchan-john/the-thirty-nine-steps/chapter-04.html"
 ---
 
 You may picture me driving that 40 h.p. car for all she was worth over the crisp moor roads on that shining May morning; glancing back at first over my shoulder, and looking anxiously to the next turning; then driving with a vague eye, just wide enough awake to keep on the highway. For I was thinking desperately of what I had found in Scudder’s pocket-book.

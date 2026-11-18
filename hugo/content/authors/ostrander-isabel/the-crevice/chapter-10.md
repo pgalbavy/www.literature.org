@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Margaret Hefferman's Failure"
 weight: 10
-aliases:
-  - "/authors/ostrander-isabel/the-crevice/chapter-10.html"
+url: "/authors/ostrander-isabel/the-crevice/chapter-10.html"
 ---
 
 The disappearance of Ramon Hamilton, coming so soon after the sudden death of his prospective father-in-law, caused a profound sensation. In the small hours of the night, before the press had been apprised of the event and when every probable or possible place where the young lawyer might be had been communicated with in vain, Henry Blaine set the perfect machinery of his forces at work to trace him.

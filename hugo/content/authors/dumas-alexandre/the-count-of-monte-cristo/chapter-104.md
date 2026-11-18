@@ -1,8 +1,7 @@
 ---
 title: "Chapter 104 - Danglars Signature"
 weight: 104
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-104.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-104.html"
 ---
 
 The next morning dawned dull and cloudy. During the night the undertakers had executed their melancholy office, and wrapped the corpse in the winding-sheet, which, whatever may be said about the equality of death, is at least a last proof of the luxury so pleasing in life. This winding-sheet was nothing more than a beautiful piece of cambric, which the young girl had bought a fortnight before. During the evening two men, engaged for the purpose, had carried Noirtier from Valentine's room into his own, and contrary to all expectation there was no difficulty in withdrawing him from his child. The Abbe Busoni had watched till daylight, and then left without calling any one. D'Avrigny returned about eight o'clock in the morning; he met Villefort on his way to Noirtier's room, and accompanied him to see how the old man had slept. They found him in the large arm-chair, which served him for a bed, enjoying a calm, nay, almost a smiling sleep. They both stood in amazement at the door.

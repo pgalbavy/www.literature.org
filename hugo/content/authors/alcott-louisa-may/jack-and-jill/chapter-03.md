@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Ward No. 1"
 weight: 4
-aliases:
-  - "/authors/alcott-louisa-may/jack-and-jill/chapter-03.html"
+url: "/authors/alcott-louisa-may/jack-and-jill/chapter-03.html"
 ---
 
 For some days, nothing was seen and little was heard of the "dear sufferers," as the old ladies called them. But they were not forgotten; the first words uttered when any of the young people met were: "How is Jack?" "Seen Jill yet?" and all waited with impatience for the moment when they could be admitted to their favorite mates, more than ever objects of interest now.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - In The Manacles Of Winter"
 weight: 26
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-26.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-26.html"
 ---
 
 That night winter came and gripped the bush-world, and now as far as the eye could span distance she held the Wild in her white embrace, and all the life of nature’s wood, marsh, and water seemed chilled to deep mysterious silence.

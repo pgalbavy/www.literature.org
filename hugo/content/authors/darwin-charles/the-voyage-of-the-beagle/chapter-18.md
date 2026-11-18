@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Tahiti and New Zealand"
 weight: 19
-aliases:
-  - "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-18.html"
+url: "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-18.html"
 ---
 
 arrow_rightPass through the Low Archipelago arrow_rightTahiti arrow_rightAspect arrow_rightVegetation on the Mountains arrow_rightView of Eimeo arrow_rightExcursion into the Interior arrow_rightProfound Ravines arrow_rightSuccession of Waterfalls arrow_rightNumber of wild useful Plants arrow_rightTemperance of the Inhabitants arrow_rightTheir moral state arrow_rightParliament convened arrow_rightNew Zealand arrow_rightBay of Islands arrow_rightHippahs arrow_rightExcursion to Waimate arrow_rightMissionary Establishment arrow_rightEnglish Weeds now run wild arrow_rightWaiomio arrow_rightFuneral of a New Zealand Woman arrow_rightSail for Australia. ---

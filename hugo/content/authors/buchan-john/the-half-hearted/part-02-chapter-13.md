@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 13 - The Blessing Of Gad"
 weight: 32
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-02-chapter-13.html"
+url: "/authors/buchan-john/the-half-hearted/part-02-chapter-13.html"
 ---
 
 "Gad—a troop shall overcome him, but he shall overcome at the last."

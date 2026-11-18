@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 16"
 weight: 44
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-02-chapter-16.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-02-chapter-16.html"
 ---
 
 Having ridden round the whole line from right flank to left, Prince Andrew made his way up to the battery from which the staff officer had told him the whole field could be seen. Here he dismounted, and stopped beside the farthest of the four unlimbered cannon. Before the guns an artillery sentry was pacing up and down; he stood at attention when the officer arrived, but at a sign resumed his measured, monotonous pacing. Behind the guns were their limbers and still farther back picket ropes and artillerymen's bonfires. To the left, not far from the farthest cannon, was a small, newly constructed wattle shed from which came the sound of officers' voices in eager conversation.

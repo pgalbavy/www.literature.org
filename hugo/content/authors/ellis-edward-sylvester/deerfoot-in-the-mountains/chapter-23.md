@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Lewis And Clark's Expedition"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-23.html"
 ---
 
 With George and Victor Shelton seated on the fallen tree on one side of the camp fire, and Captains Lewis and Clark on the other, these two famous explorers told the story of their expedition, which must always retain an historical interest for all of us.

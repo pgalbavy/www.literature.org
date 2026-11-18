@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Benevolent Bar"
 weight: 11
-aliases:
-  - "/authors/nesbit-edith/the-wouldbegoods/chapter-11.html"
+url: "/authors/nesbit-edith/the-wouldbegoods/chapter-11.html"
 ---
 
 The tramp was very dusty about the feet and legs, and his clothes were very ragged and dirty, but he had cheerful twinkly grey eyes, and he touched his cap to the girls when he spoke to us, though a little as though he would rather not.

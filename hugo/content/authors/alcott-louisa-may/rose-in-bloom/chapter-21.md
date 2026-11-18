@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - How Phebe Earned Her Welcome"
 weight: 22
-aliases:
-  - "/authors/alcott-louisa-may/rose-in-bloom/chapter-21.html"
+url: "/authors/alcott-louisa-may/rose-in-bloom/chapter-21.html"
 ---
 
 Dr. Alec had not arrived, but bad tidings had, as Rose guessed the instant her eyes fell upon Aunt Plenty, hobbling downstairs with her cap awry, her face pale, and a letter flapping wildly in her hand as she cried distractedly: "Oh, my boy! My boy! Sick, and I not there to nurse him! Malignant fever, so far away. What can those children do? Why did I let Alec go?"

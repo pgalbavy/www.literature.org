@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Girlhood Of Anna Brangwen"
 weight: 4
-aliases:
-  - "/authors/lawrence-david-herbert/the-rainbow/chapter-04.html"
+url: "/authors/lawrence-david-herbert/the-rainbow/chapter-04.html"
 ---
 
 When Anna was nine years old, Brangwen sent her to the dames' school in Cossethay. There she went, flipping and dancing in her inconsequential fashion, doing very much as she liked, disconcerting old Miss Coates by her indifference to respectability and by her lack of reverence. Anna only laughed at Miss Coates, liked her, and patronised her in superb, childish fashion.

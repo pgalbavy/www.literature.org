@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - A Burial"
 weight: 26
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-26.html"
+url: "/authors/bronte-charlotte/villette/chapter-26.html"
 ---
 
 From this date my life did not want variety; I went out a good deal, with the entire consent of Madame Beck, who perfectly approved the grade of my acquaintance. That worthy directress had never from the first treated me otherwise than with respect; and when she found that I was liable to frequent invitations from a château and a great hotel, respect improved into distinction.

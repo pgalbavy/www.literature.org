@@ -1,8 +1,7 @@
 ---
 title: "Part 8 - Chapter 11"
 weight: 231
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-08-chapter-11.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-08-chapter-11.html"
 ---
 
 The day on which Sergey Ivanovitch came to Pokrovskoe was one of Levin's most painful days. It was the very busiest working-time, when all the peasantry show an extraordinary intensity of self-sacrifice in labor, such as is never shown in any other conditions of life, and would be highly esteemed if the men who showed these qualities themselves thought highly of them, and if it were not repeated every year, and if the results of this intense labor were not so simple.

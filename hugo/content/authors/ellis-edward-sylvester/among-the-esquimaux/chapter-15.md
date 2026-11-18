@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Sound Of A Voice"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-15.html"
 ---
 
 For hours the fog showed no signs of lifting. The three remained seated near the carcass of the polar bear, discussing the one question that had already been discussed so long, until there really seemed nothing left to say.

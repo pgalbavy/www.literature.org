@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Three-Quarter Length Portraits Of Certain Government Officials"
 weight: 4
-aliases:
-  - "/authors/balzac-honore-de/bureaucracy/chapter-04.html"
+url: "/authors/balzac-honore-de/bureaucracy/chapter-04.html"
 ---
 
 If it were possible for literature to use the microscope of the Leuwenhoeks, the Malpighis, and the Raspails (an attempt once made by Hoffman, of Berlin), and if we could magnify and then picture the teredos navalis, in other words, those ship-worms which brought Holland within an inch of collapsing by honey-combing her dykes, we might have been able to give a more distinct idea of Messieurs Gigonnet, Baudoyer, Saillard, Gaudron, Falleix, Transon, Godard and company, borers and burrowers, who proved their undermining power in the thirtieth year of this century.

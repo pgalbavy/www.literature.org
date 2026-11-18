@@ -1,8 +1,7 @@
 ---
 title: "Chapter 122 - Midnight Aloft.--Thunder and Lightning"
 weight: 122
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-122.html"
+url: "/authors/melville-herman/moby-dick/chapter-122.html"
 ---
 
 The Main-top-sail yard - Tashtego passing new lashings around it.

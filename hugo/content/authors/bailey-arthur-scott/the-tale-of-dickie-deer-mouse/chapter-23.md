@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - A Feast At Last"
 weight: 23
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-23.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-23.html"
 ---
 
 To Dickie Deer Mouse, waiting impatiently for Mr. Pine Finch to drop another bud out of the tree-top, it began to seem as if his good luck were short lived. Could it be possible that Mr. Pine Finch was so careful that he lost a bud only once in a long time--perhaps only once a year?

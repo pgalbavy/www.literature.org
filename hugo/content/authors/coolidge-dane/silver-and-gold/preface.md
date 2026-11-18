@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/preface.html"
+url: "/authors/coolidge-dane/silver-and-gold/preface.html"
 ---
 
 SILVER AND GOLD

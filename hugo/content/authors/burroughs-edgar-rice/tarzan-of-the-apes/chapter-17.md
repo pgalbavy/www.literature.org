@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Burials"
 weight: 17
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-17.html"
+url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-17.html"
 ---
 
 eaten or slept since the previous morning, began to bestir themselves to prepare food.

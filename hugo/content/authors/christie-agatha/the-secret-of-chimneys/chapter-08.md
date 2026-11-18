@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Dead Man"
 weight: 8
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-08.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-08.html"
 ---
 
 On that same Thursday afternoon Virginia Revel had been playing tennis at Ranelagh. All the way back to Pont Street, as she lay back in the long, luxurious limousine, a little smile played upon her lips, as she rehearsed her part in the forthcoming interview. Of course it was within the bounds of possibility that the blackmailer might not reappear, but she felt pretty certain that he would. She had shown herself an easy prey. Well, perhaps this time there would be a little surprise for him!

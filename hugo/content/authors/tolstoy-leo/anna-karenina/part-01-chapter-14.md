@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 14"
 weight: 14
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-14.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-14.html"
 ---
 
 But at that very moment the princess came in. There was a look of horror on her face when she saw them alone, and their disturbed faces. Levin bowed to her, and said nothing. Kitty did not speak nor lift her eyes. "Thank God, she has refused him," thought the mother, and her face lighted up with the habitual smile with which she greeted her guests on Thursdays. She sat down and began questioning Levin about his life in the country. He sat down again, waiting for other visitors to arrive, in order to retreat unnoticed.

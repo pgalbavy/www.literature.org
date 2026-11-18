@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-08.html"
+url: "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-08.html"
 ---
 
 Marshal John Stone was a mountaineer of the better sort, who had the respect and admiration of the law-abiding citizens in his district, and the hate of the evil-doers. He stood full six feet in his socks, and he was broad and muscled in proportion. His gray eyes were of the sort to harden to steel against an enemy, to soften wonderfully for a friend. The mouth, half-hidden by the thick mustache, was very firm, yet prone to smiles. To an excellent intelligence had been added a fair amount of education. Since he respected both himself and his work, and had developed a veritable passion for the capture of malefactors, he was more than usually successful. His zeal, tempered with discretion, had won the appreciative attention of official superiors. There could be no doubt that promotion would shortly remove him to a higher plane of service. The fact would have been most agreeable to Stone, but for two things. He desired beyond all else, before going from the mountains, to capture Dan Hodges, who had so persistently flouted the law, and himself, its representative; the second unsatisfied ambition was to come on the long-lost Burns' still.

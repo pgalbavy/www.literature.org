@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 2"
 weight: 2
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-01-chapter-02.html"
+url: "/authors/cather-willa/o-pioneers/part-01-chapter-02.html"
 ---
 
 On one of the ridges of that wintry waste stood the low log house in which John Bergson was dying. The Bergson homestead was easier to find than many another, because it overlooked Norway Creek, a shallow, muddy stream that sometimes flowed, and sometimes stood still, at the bottom of a winding ravine with steep, shelving sides overgrown with brush and cottonwoods and dwarf ash. This creek gave a sort of identity to the farms that bordered upon it. Of all the bewildering things about a new country, the absence of human landmarks is one of the most depressing and disheartening. The houses on the Divide were small and were usually tucked away in low places; you did not see them until you came directly upon them. Most of them were built of the sod itself, and were only the unescapable ground in another form. The roads were but faint tracks in the grass, and the fields were scarcely noticeable. The record of the plow was insignificant, like the feeble scratches on stone left by prehistoric races, so indeterminate that they may, after all, be only the markings of glaciers, and not a record of human strivings.

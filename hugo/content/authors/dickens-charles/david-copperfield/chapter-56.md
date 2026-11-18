@@ -1,8 +1,7 @@
 ---
 title: "Chapter 56 - The New Wound, And The Old"
 weight: 57
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-56.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-56.html"
 ---
 
 No need, O Steerforth, to have said, when we last spoke together, in that hour which I so little deemed to be our parting-hour--no need to have said, ‘Think of me at my best!’ I had done that ever; and could I change now, looking on this sight!

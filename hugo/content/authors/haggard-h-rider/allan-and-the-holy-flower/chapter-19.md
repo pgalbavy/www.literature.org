@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The True Holy Flower"
 weight: 19
-aliases:
-  - "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-19.html"
+url: "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-19.html"
 ---
 
 When I came to myself again it was to find that I had slept fifteen or sixteen hours, for the sun of a new day was high in the heavens. I was lying in a little shelter of boughs at the foot of that mound on which we flew the flag that guided us back over the waters of the Lake Kirua. Near by was Hans consuming a gigantic meal of meat which he had cooked over a neighbouring fire. With him, to my delight, I saw Mavovo, his head bound up, though otherwise but little the worse. The stone, which probably would have killed a thin-skulled white man, had done no more than knock him stupid and break the skin of his scalp, perhaps because the force of it was lessened by the gum man’s-ring which, like most Zulus of a certain age or dignity, he wore woven in his hair.

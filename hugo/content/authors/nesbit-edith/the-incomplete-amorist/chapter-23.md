@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Temperatures"
 weight: 23
-aliases:
-  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-23.html"
+url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-23.html"
 ---
 
 "It isn't as though she were the sort of girl who can't take care of herself," said Lady St. Craye to the Inward Monitor who was buzzing its indiscreet common-places in her ear. "I've really done her a good turn by sending her to Grez. No - it's not in the least compromising for a girl to stay at the same hotel. And besides, there are lots of amusing people there, I expect. She'll have a delightful time, and get to know that Temple boy really well. I'm sure he'd repay investigation. If I weren't a besotted fool I could have pursued those researches myself. But it's not what's worth having that one wants; it's - it's what one does want. Yes. That's all."

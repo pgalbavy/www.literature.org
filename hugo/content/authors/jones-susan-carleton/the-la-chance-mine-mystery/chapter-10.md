@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - I Interfere For The Last Time"
 weight: 10
-aliases:
-  - "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-10.html"
+url: "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-10.html"
 ---
 
 "Must I go now--in the moonlight clear? Would God that it were dark, That I might pass like a homeless hound Men neither miss nor mark."

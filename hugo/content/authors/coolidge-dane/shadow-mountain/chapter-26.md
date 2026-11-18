@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - The Call"
 weight: 26
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-26.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-26.html"
 ---
 
 The long quarrel was over, they had made up--and kissed--and yet to Wiley it all seemed unreal. That is, all but the kiss. It was that, perhaps, which made the rest seem unreal, for it had changed the color of his life. Before, he had thought in terms of hard fact, but the kiss put a rainbow in the sky. It roused a great hope, a joy, an ecstasy, a sense of well-wishing for mankind; and yet it was only he who had changed. The world was the same; Samuel Blount was the same; and the miners, and Stiff Neck George. They were all there together in a rough-and-tumble fight to see who would get the Paymaster Mine and, even with the madness of her kiss in his soul, he pressed on towards the one, fixed goal.

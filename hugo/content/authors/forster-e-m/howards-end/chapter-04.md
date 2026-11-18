@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-04.html"
+url: "/authors/forster-e-m/howards-end/chapter-04.html"
 ---
 
 Helen and her aunt returned to Wickham Place in a state of collapse, and for a little time Margaret had three invalids on her hands. Mrs. Munt soon recovered. She possessed to a remarkable degree the power of distorting the past, and before many days were over she had forgotten the part played by her own imprudence in the catastrophe. Even at the crisis she had cried, “Thank goodness, poor Margaret is saved this!” which during the journey to London evolved into, “It had to be gone through by some one,” which in its turn ripened into the permanent form of “The one time I really did help Emily’s girls was over the Wilcox business.” But Helen was a more serious patient. New ideas had burst upon her like a thunderclap, and by them and by their reverberations she had been stunned.

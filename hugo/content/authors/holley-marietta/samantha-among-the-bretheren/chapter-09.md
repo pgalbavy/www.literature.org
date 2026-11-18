@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-09.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-09.html"
 ---
 
 But truly the labors that descended onto my shoulders immegiately after Lodema's departure wuz hard enough to fill up my hull mind, and tax every one of my energies.

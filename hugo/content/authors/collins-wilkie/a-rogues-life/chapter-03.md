@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/collins-wilkie/a-rogues-life/chapter-03.html"
+url: "/authors/collins-wilkie/a-rogues-life/chapter-03.html"
 ---
 
 To return to my business affairs. When I was comfortably settled in the prison, and knew exactly what I owed, I thought it my duty to my father to give him the first chance of getting me out. His answer to my letter contained a quotation from Shakespeare on the subject of thankless children, but no remittance of money. After that, my only course was to employ a lawyer and be declared a bankrupt. I was most uncivilly treated, and remanded two or three times. When everything I possessed had been sold for the benefit of my creditors, I was reprimanded and let out. It is pleasant to think that, even then, my faith in myself and in human nature was still not shaken.

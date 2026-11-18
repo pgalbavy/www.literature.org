@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Nest On Providence Nob"
 weight: 8
-aliases:
-  - "/authors/daviess-maria-thompson/the-road-to-providence/chapter-08.html"
+url: "/authors/daviess-maria-thompson/the-road-to-providence/chapter-08.html"
 ---
 
 "Why, honey-bird; troubles ain't nothing but tight, ugly little buds the Lord are a-going to flower out for us all, in His good time; maybe not until in His kingdom. I hold that fact in my heart always," said Mother Mayberry as she looked down over her glasses at the singer lady sitting on the top step at her feet.

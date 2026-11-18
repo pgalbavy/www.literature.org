@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/baum-l-frank/ozma-of-oz/chapter-02.html"
+url: "/authors/baum-l-frank/ozma-of-oz/chapter-02.html"
 ---
 
 A strange noise awoke Dorothy, who opened her eyes to find that day had dawned and the sun was shining brightly in a clear sky. She had been dreaming that she was back in Kansas again, and playing in the old barn-yard with the calves and pigs and chickens all around her; and at first, as she rubbed the sleep from her eyes, she really imagined she was there.

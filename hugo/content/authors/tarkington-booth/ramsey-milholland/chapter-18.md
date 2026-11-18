@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/tarkington-booth/ramsey-milholland/chapter-18.html"
+url: "/authors/tarkington-booth/ramsey-milholland/chapter-18.html"
 ---
 
 So everywhere over the country, that winter of 1916, there were light-hearted boys skylarking—at college, or on the farms; and in the towns the young machinists snowballed one another as they came from the shops; while on this Sunday of the "frat" snow fight probably several hundreds of thousands of youthful bachelors, between the two oceans, went walking, like Ramsey, each with a girl who could forget the weather. Yet boys of nineteen and in the twenties were not light-hearted all the time that winter and that spring and that summer. Most of them knew long, thoughtful moments, as Ramsey did, when they seemed to be thinking not of girls or work or play—nor of anything around them, but of some more vital matter or prospect. And at such times they were grave, but not ungentle.

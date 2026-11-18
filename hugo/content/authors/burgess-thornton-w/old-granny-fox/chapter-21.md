@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Granny And Reddy Talk Things Over"
 weight: 21
-aliases:
-  - "/authors/burgess-thornton-w/old-granny-fox/chapter-21.html"
+url: "/authors/burgess-thornton-w/old-granny-fox/chapter-21.html"
 ---
 
 You'll find as on through life you go  

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - In Downing Street"
 weight: 23
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/chapter-22.html"
+url: "/authors/christie-agatha/the-secret-adversary/chapter-22.html"
 ---
 
 *THE* Prime Minister tapped the desk in front of him with nervous fingers. His face was worn and harassed. He took up his conversation with Mr. Carter at the point it had broken off. "I don’t understand," he said. "Do you really mean that things are not so desperate after all?"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Hall of Doom"
 weight: 8
-aliases:
-  - "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/chapter-08.html"
+url: "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/chapter-08.html"
 ---
 
 As Thuvia of Ptarth saw Carthoris depart from the presence of Tario, leaving her alone with the man, a sudden qualm of terror seized her.

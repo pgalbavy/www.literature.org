@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-14.html"
+url: "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-14.html"
 ---
 
 CAPTAIN CARDEN found himself in an unusual and delightful situation: he had something to say, and that something interested various people. Launa had attracted a certain amount of attention, from the British matron upwards, but being a Canadian, which, after all, is as bad as being an American, all things were expected of her, and being rich, all things were forgiven her. She had appropriated young men, but seemed to prefer quality to quantity.

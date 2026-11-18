@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - The Absconding Clerk"
 weight: 29
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-29.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-29.html"
 ---
 
 *THE TWO* customers did not notice Tom’s earnest look, nor his start of surprise, but asked to look at a miner’s outfit. Tom waited upon them, and listened eagerly, hoping to hear something that might confirm his suspicions.

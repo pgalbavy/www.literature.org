@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 5"
 weight: 28
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-04-chapter-05.html"
+url: "/authors/conrad-joseph/the-rescue/part-04-chapter-05.html"
 ---
 
 What struck Mrs. Travers most, directly she set eyes on him, was the other-world aspect of Jorgenson. He had been buried out of sight so long that his tall, gaunt body, his unhurried, mechanical movements, his set face and his eyes with an empty gaze suggested an invincible indifference to all the possible surprises of the earth. That appearance of a resuscitated man who seemed to be commanded by a conjuring spell strolled along the decks of what was even to Mrs. Travers' eyes the mere corpse of a ship and turned on her a pair of deep-sunk, expressionless eyes with an almost unearthly detachment. Mrs. Travers had never been looked at before with that strange and pregnant abstraction. Yet she didn't dislike Jorgenson. In the early morning light, white from head to foot in a perfectly clean suit of clothes which seemed hardly to contain any limbs, freshly shaven (Jorgenson's sunken cheeks with their withered colouring always had a sort of gloss as though he had the habit of shaving every two hours or so), he looked as immaculate as though he had been indeed a pure spirit superior to the soiling contacts of the material earth. He was disturbing but he was not repulsive. He gave no sign of greeting.

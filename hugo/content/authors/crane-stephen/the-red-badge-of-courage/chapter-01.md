@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/crane-stephen/the-red-badge-of-courage/chapter-01.html"
+url: "/authors/crane-stephen/the-red-badge-of-courage/chapter-01.html"
 ---
 
 THE cold passed reluctantly from the earth, and the retiring fogs revealed an army stretched out on the hills, resting. As the landscape changed from brown to green, the army awak- ened, and began to tremble with eagerness at the noise of rumors. It cast its eyes upon the roads, which were growing from long troughs of liquid mud to proper thoroughfares. A river, amber- tinted in the shadow of its banks, purled at the army's feet; and at night, when the stream had become of a sorrowful blackness, one could see across it the red, eyelike gleam of hostile camp- fires set in the low brows of distant hills.

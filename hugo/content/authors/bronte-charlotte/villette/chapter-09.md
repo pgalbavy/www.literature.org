@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Isidore"
 weight: 9
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-09.html"
+url: "/authors/bronte-charlotte/villette/chapter-09.html"
 ---
 
 My time was now well and profitably filled up. What with teaching others and studying closely myself, I had hardly a spare moment. It was pleasant. I felt I was getting, on; not lying the stagnant prey of mould and rust, but polishing my faculties and whetting them to a keen edge with constant use. Experience of a certain kind lay before me, on no narrow scale. Villette is a cosmopolitan city, and in this school were girls of almost every European nation, and likewise of very varied rank in life. Equality is much practised in Labassecour; though not republican in form, it is nearly so in substance, and at the desks of Madame Beck's establishment the young countess and the young bourgeoise sat side by side. Nor could you always by outward indications decide which was noble and which plebeian; except that, indeed, the latter had often franker and more courteous manners, while the former bore away the bell for a delicately-balanced combination of insolence and deceit. In the former there was often quick French blood mixed with the marsh-phlegm: I regret to say that the effect of this vivacious fluid chiefly appeared in the oilier glibness with which flattery and fiction ran from the tongue, and in a manner lighter and livelier, but quite heartless and insincere.

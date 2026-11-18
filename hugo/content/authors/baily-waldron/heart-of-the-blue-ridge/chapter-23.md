@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-23.html"
+url: "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-23.html"
 ---
 
 Marshal Stone and Brant were to return together to North Wilkesboro' where the latter would take the train for home. Uncle Dick had offered them horses for the ride. The two men, somewhat in advance of the remainder of the party after the descent of Stone Mountain, had come near the Higgins' cabin, when the marshal spoke with a display of embarrassment:

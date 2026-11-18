@@ -1,8 +1,7 @@
 ---
 title: "Chapter 97 - The Lamp"
 weight: 97
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-097.html"
+url: "/authors/melville-herman/moby-dick/chapter-097.html"
 ---
 
 Had you descended from the Pequod's try-works to the Pequod's forecastle, where the off duty watch were sleeping, for one single moment you would have almost thought you were standing in some illuminated shrine of canonized kings and counsellors. There they lay in their triangular oaken vaults, each mariner a chiselled muteness; a score of lamps flashing upon his hooded eyes.

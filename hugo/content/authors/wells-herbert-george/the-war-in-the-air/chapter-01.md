@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Of Progress And The Smallways Family"
 weight: 2
-aliases:
-  - "/authors/wells-herbert-george/the-war-in-the-air/chapter-01.html"
+url: "/authors/wells-herbert-george/the-war-in-the-air/chapter-01.html"
 ---
 
 1

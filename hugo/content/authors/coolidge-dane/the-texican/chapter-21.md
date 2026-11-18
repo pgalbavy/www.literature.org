@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Never Again"
 weight: 22
-aliases:
-  - "/authors/coolidge-dane/the-texican/chapter-21.html"
+url: "/authors/coolidge-dane/the-texican/chapter-21.html"
 ---
 
 The District Court of Geronimo County broke up like a stampede of cattle when Ike Crittenden was placed under arrest, and in the general scramble Angevine Thorne was seized by a band of determined men and rushed to the Big Adobe bar. The committee on public entertainment had set their hearts on a speech, and they would not be denied. Meanwhile Pecos Dalhart was borne off as inexorably in the other direction by Boone Morgan and Shepherd Kilkenny, and not until he had sworn to the complaint and testified against Old Crit before the J. P. would they let him go his way. First on the programme which he had mapped out for himself was a big feed at Hung Wo's restaurant, and Charley Hung Wo was so happy over his release that he refused to accept a cent. That was right friendly of Charley and shows what a good fellow a Chink can be—give him a chance. It cheered Pecos up, and after he had got a new outfit of clothes all around and scoured the jail smell out of his skin he began to feel like a white man again. The hot sunshine felt good on his cheek, the wind smelled sweet, and he liked the clump of board sidewalks beneath his feet; but at the same time he was lonely. Somehow he did not seem to fit into this great outer world any more—there was no place to go and nothing to do; that is, nothing but throw in with Babe Thorne and get drunk, and even that had its disadvantages.

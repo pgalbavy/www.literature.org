@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 4 - The King Of Apemama: Equator Town And The Palace"
 weight: 32
-aliases:
-  - "/authors/stevenson-robert-louis/in-the-south-seas/part-04-chapter-04.html"
+url: "/authors/stevenson-robert-louis/in-the-south-seas/part-04-chapter-04.html"
 ---
 
 Five persons were detailed to wait upon us. Uncle Parker, who brought us toddy and green nuts, was an elderly, almost an old man, with the spirits, the industry, and the morals of a boy of ten. His face was ancient, droll, and diabolical, the skin stretched over taut sinews, like a sail on the guide-rope; and he smiled with every muscle of his head. His nuts must be counted every day, or he would deceive us in the tale; they must be daily examined, or some would prove to be unhusked; nothing but the king’s name, and scarcely that, would hold him to his duty. After his toils were over he was given a pipe, matches, and tobacco, and sat on the floor in the maniap’ to smoke. He would not seem to move from his position, and yet every day, when the things fell to be returned the plug had disappeared; he had found the means to conceal it in the roof, whence he could radiantly produce it on the morrow. Although this piece of legerdemain was performed regularly before three or four pairs of eyes, we could never catch him in the fact; although we searched after he was gone, we could never find the tobacco. Such were the diversions of Uncle Parker, a man nearing sixty. But he was punished according unto his deeds: Mrs. Stevenson took a fancy to paint him, and the sufferings of the sitter were beyond description.

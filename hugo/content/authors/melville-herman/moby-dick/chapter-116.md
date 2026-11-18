@@ -1,8 +1,7 @@
 ---
 title: "Chapter 116 - The Dying Whale"
 weight: 116
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-116.html"
+url: "/authors/melville-herman/moby-dick/chapter-116.html"
 ---
 
 Not seldom in this life, when, on the right side, fortune's favorites sail close by us, we, though all adroop before, catch somewhat of the rushing breeze, and joyfully feel our bagging sails fill out. So seemed it with the Pequod. For next day after encountering the gay Bachelor, whales were seen and four were slain; and one of them by Ahab.

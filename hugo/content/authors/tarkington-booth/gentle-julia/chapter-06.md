@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/tarkington-booth/gentle-julia/chapter-06.html"
+url: "/authors/tarkington-booth/gentle-julia/chapter-06.html"
 ---
 
 Before she thus set matters right with Noble he had been unhappy and his condition had been bad; now he was happy, but his condition was worse. In truth, he was much, much too happy; nothing rational remained in his mind. No elfin orchestra seemed to buzz in his ears as he went down the street, but a loud, triumphing brass band. His unathletic chest was inflated; he heaved up with joy; and a little child, playing on the next corner, turned and followed him for some distance, trying to imitate his proud, singular walk. Restored to too much pride, Noble became also much too humane; he thought of Mr. Atwater's dream, and felt almost a motherly need to cherish and protect him, to be indeed his friend. There was a warm spot in Noble's chest, produced in part by a yearning toward that splendid old man. Noble had a good home, sixty-six dollars in the bank and a dollar and forty cents in his pockets; he would have given all for a chance to show Mr. Atwater how well he understood him now, at last, and how deeply he appreciated his favour.

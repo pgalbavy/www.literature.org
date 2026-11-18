@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - St. Mungo"
 weight: 10
-aliases:
-  - "/authors/verne-jules/the-blockade-runners/chapter-10.html"
+url: "/authors/verne-jules/the-blockade-runners/chapter-10.html"
 ---
 
 The next day at sunrise the American coast had disappeared; not a ship was visible on the horizon, and the Dolphin, moderating the frightful rapidity of her speed, made quietly towards the Bermudas.

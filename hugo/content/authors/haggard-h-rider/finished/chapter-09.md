@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Flight"
 weight: 10
-aliases:
-  - "/authors/haggard-h-rider/finished/chapter-09.html"
+url: "/authors/haggard-h-rider/finished/chapter-09.html"
 ---
 
 The sun sank in a blaze of glory. Looking back by the light of its last rays I saw a single native silhouetted against the red sky. He was standing on a mound that we had passed a mile or more behind us, doubtless waiting for his companions whom he had outrun. So they had not given up the chase. What was to be done? Once it was completely dark we could not go on. We should lose our way; the horses would get into ant-bear holes and break their legs. Perhaps we might become bogged in some hollow, therefore we must wait till the moon rose, which would not be for a couple of hours.

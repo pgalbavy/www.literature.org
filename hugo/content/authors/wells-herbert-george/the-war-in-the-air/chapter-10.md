@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The World Under The War"
 weight: 11
-aliases:
-  - "/authors/wells-herbert-george/the-war-in-the-air/chapter-10.html"
+url: "/authors/wells-herbert-george/the-war-in-the-air/chapter-10.html"
 ---
 
 1

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Of The Artificial In Man, And Of The Zeitgeist"
 weight: 16
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-16.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-16.html"
 ---
 
 You have seen these two young people--Bechamel, by-the-bye, is the man's name, and the girl's is Jessie Milton--from the outside; you have heard them talking; they ride now side by side (but not too close together, and in an uneasy silence) towards Haslemere; and this chapter will concern itself with those curious little council chambers inside their skulls, where their motives are in session and their acts are considered and passed.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Ten Miles"
 weight: 29
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-29.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-29.html"
 ---
 
 Docak, when flurried, generally forgot his broken English, and spoke in his own tongue. Before Fred could divine his intention he had slipped off one of his mittens, grasped a handful of snow, and throwing one arm about the boy's neck, began rubbing his nose as though he meant to rub it out of existence.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - In Devil's Pass"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-08.html"
 ---
 
 By this time Ned Chadmund was pretty well frightened. Corporal Hugg had said enough to convince him that they were in the greatest danger of the whole journey. The lieutenant drew his men close together, and two of the most experienced scouts rode a short distance in advance of the others, glancing from side to side, and on the watch for the first signs of the approach of Indians.

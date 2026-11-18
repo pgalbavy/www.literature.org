@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/austen-jane/persuasion/chapter-04.html"
+url: "/authors/austen-jane/persuasion/chapter-04.html"
 ---
 
 He was not Mr Wentworth, the former curate of Monkford, however suspicious appearances may be, but a Captain Frederick Wentworth, his brother, who being made commander in consequence of the action off St Domingo, and not immediately employed, had come into Somersetshire, in the summer of 1806; and having no parent living, found a home for half a year at Monkford. He was, at that time, a remarkably fine young man, with a great deal of intelligence, spirit, and brilliancy; and Anne an extremely pretty girl, with gentleness, modesty, taste, and feeling. Half the sum of attraction, on either side, might have been enough, for he had nothing to do, and she had hardly anybody to love; but the encounter of such lavish recommendations could not fail. They were gradually acquainted, and when acquainted, rapidly and deeply in love. It would be difficult to say which had seen highest perfection in the other, or which had been the happiest: she, in receiving his declarations and proposals, or he in having them accepted.

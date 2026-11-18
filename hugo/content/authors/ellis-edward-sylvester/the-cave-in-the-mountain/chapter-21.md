@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Safety And Sleep"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-21.html"
 ---
 
 There was nothing especially noticeable in the site which the scout had selected for his camp fire. His principal object had been secrecy and he had obtained it beyond all peradventure. The place was more like a cavern than anything else, except that it was open at the top, but it was walled in on the four sides, so there was barely room for the three to enter. As the scout explained, he was perfectly familiar with that section of the country, and he lost no time in hunting out the spot. He had his horse with him at the time the Apaches drove Mickey and Fred in among the rocks, and he staid until pretty certain they could keep the Apaches at bay until dark, when he made his way to a level spot inclosed by rocks. There he kindled a fire, cooked some antelope and left his mustang to graze and browse near by, while he returned to the assistance of his friends.

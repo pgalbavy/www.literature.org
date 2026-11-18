@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-13.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-13.html"
 ---
 
 In the morning, after bathing, Siegmund leaned upon the seawall in a kind of reverie. It was late, towards nine o'clock, yet he lounged, dreamily looking out on the turquoise blue water, and the white haze of morning, and the small, fair shadows of ships slowly realizing before him. In the bay were two battleships, uncouth monsters, lying as naïve and curious as sea-lions strayed afar.

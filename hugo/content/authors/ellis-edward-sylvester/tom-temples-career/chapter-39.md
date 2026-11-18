@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39 - An Avenger On The Track"
 weight: 39
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-39.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-39.html"
 ---
 
 *MR. BURTON* was putting back some goods upon the shelves, when Tom walked quietly in. This was four days later.

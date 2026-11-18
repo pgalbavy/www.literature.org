@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - The Great Fight"
 weight: 37
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-37.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-37.html"
 ---
 
 Down from the top of the ridge back of the pond of Paddy the Beaver plunged Lightfoot the Deer, his eyes blazing with rage. He had understood the screaming of Sammy Jay. He knew that somewhere down there was the big stranger he had been looking for.

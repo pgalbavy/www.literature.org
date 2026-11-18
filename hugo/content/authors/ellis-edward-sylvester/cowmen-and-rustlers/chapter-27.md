@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - On Parole"
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-27.html"
 ---
 
 A new matter of interest claimed the immediate attention of the defenders within the home of ranchman Whitney.

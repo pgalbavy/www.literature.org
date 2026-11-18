@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 25"
 weight: 59
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-25.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-25.html"
 ---
 
 There were seventeen officers in all riding in this race. The race-course was a large three-mile ring of the form of an ellipse in front of the pavilion. On this course nine obstacles had been arranged: the stream, a big and solid barrier five feet high, just before the pavilion, a dry ditch, a ditch full of water, a precipitous slope, an Irish barricade (one of the most difficult obstacles, consisting of a mound fenced with brushwood, beyond which was a ditch out of sight for the horses, so that the horse had to clear both obstacles or might be killed); then two more ditches filled with water, and one dry one; and the end of the race was just facing the pavilion. But the race began not in the ring, but two hundred yards away from it, and in that part of the course was the first obstacle, a dammed-up stream, seven feet in breadth, which the racers could leap or wade through as they preferred.

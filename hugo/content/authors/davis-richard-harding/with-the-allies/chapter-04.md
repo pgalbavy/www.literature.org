@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Paris In War Time"
 weight: 5
-aliases:
-  - "/authors/davis-richard-harding/with-the-allies/chapter-04.html"
+url: "/authors/davis-richard-harding/with-the-allies/chapter-04.html"
 ---
 
 Those who, when the Germans approached, fled from Paris, described it as a city doomed, as a waste place, desolate as a graveyard. Those who run away always are alarmists. They are on the defensive. They must explain why they ran away.

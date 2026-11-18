@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/stoker-bram/dracula/chapter-14.html"
+url: "/authors/stoker-bram/dracula/chapter-14.html"
 ---
 
 MINA HARKER'S JOURNAL

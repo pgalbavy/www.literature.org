@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 1"
 weight: 21
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-02-chapter-01.html"
+url: "/authors/cather-willa/song-of-the-lark/part-02-chapter-01.html"
 ---
 
 THEA and Dr. Archie had been gone from Moonstone four days. On the afternoon of the nineteenth of October they were in a street-car, riding through the depressing, unkept wastes of North Chicago, on their way to call upon the Reverend Lars Larsen, a friend to whom Mr. Kronborg had written. Thea was still staying at the rooms of the Young Women's Christian Association, and was miserable and homesick there. The housekeeper watched her in a way that made her uncomfortable. Things had not gone very well, so far. The noise and confusion of a big city tired and disheartened her. She had not had her trunk sent to the Christian Association rooms because she did not want to double cartage charges, and now she was running up a bill for storage on it. The contents of her gray telescope were becoming untidy, and it seemed impossible to keep one's face and hands clean in Chicago. She felt as if she were still on the train, traveling without enough clothes to keep clean. She wanted another nightgown, and it did not occur to her that she could buy one. There were other clothes in her trunk that she needed very much, and she seemed no nearer a place to stay than when she arrived in the rain, on that first disillusioning morning.

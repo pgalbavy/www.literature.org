@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - The Mast-Head"
 weight: 35
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-035.html"
+url: "/authors/melville-herman/moby-dick/chapter-035.html"
 ---
 
 It was during the more pleasant weather, that in due rotation with the other seamen my first mast-head came round.

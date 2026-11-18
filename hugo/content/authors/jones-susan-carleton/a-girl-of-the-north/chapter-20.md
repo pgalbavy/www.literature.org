@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-20.html"
+url: "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-20.html"
 ---
 
 MRS. HERBERT was unhappy. She clothed herself with discrimination, and drove frequently with Sir Ralph. She had given up her reputation, and cared nothing for what people thought or said, and they said all they could say. The subject of the behaviour of a woman whose husband is away, and who is continually (they said always) with another man, is inexhaustible. Sir Ralph was kind to her. His was the kindness of stupidity, and he did not mind her being very silent.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-19.html"
+url: "/authors/london-jack/john-barleycorn/chapter-19.html"
 ---
 
 When I was with people who did not drink, I never thought of drinking. Louis did not drink. Neither he nor I could afford it; but, more significant than that, we had no desire to drink. We were healthy, normal, non-alcoholic. Had we been alcoholic, we would have drunk whether or not we could have afforded it.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - The Passing of the Ape-Man"
 weight: 26
-aliases:
-  - "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-26.html"
+url: "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-26.html"
 ---
 
 The next morning they set out upon the short journey to Tarzan's cabin. Four Waziri bore the body of the dead Englishman. It had been the ape-man's suggestion that Clayton be buried beside the former Lord Greystoke near the edge of the jungle against the cabin that the older man had built.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Difficulties Ahead"
 weight: 23
-aliases:
-  - "/authors/christie-agatha/the-murder-on-the-links/chapter-23.html"
+url: "/authors/christie-agatha/the-murder-on-the-links/chapter-23.html"
 ---
 
 After a moment of stress, such as I have just described, reaction is bound to set in. I retired to rest that night on a note of triumph, but I awoke to realize that I was by no means out of the wood. True, I could see no flaw in the alibi I had so suddenly conceived. I had but to stick to my story, and I failed to see how Bella could be convicted in face of it. It was not as though there was any old friendship between us that could be raked up, and which might lead them to suspect that I was committing perjury. It could be proved that in actual fact I had only seen the girl on three occasions. No, I was still satisfied with my idea—had not even Poirot admitted that it defeated him?

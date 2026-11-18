@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 11"
 weight: 53
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-11.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-11.html"
 ---
 
 Mr. Wickham was so perfectly satisfied with this conversation, that he never again distressed himself, or provoked his dear sister Elizabeth, by introducing the subject of it; and she was pleased to find that she had said enough to keep him quiet.

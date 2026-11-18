@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 3"
 weight: 9
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-02-chapter-03.html"
+url: "/authors/conrad-joseph/the-rescue/part-02-chapter-03.html"
 ---
 
 "My word! I couldn't help liking the chap," would shout Lingard when telling the story; and looking around at the eyes that glittered at him through the smoke of cheroots, this Brixham trawler-boy, afterward a youth in colliers, deep-water man, gold-digger, owner and commander of "the finest brig afloat," knew that by his listeners—seamen, traders, adventurers like himself—this was accepted not as the expression of a feeling, but as the highest commendation he could give his Malay friend.

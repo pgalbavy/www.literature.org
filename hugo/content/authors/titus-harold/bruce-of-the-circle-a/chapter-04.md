@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A Revelation"
 weight: 4
-aliases:
-  - "/authors/titus-harold/bruce-of-the-circle-a/chapter-04.html"
+url: "/authors/titus-harold/bruce-of-the-circle-a/chapter-04.html"
 ---
 
 When Bayard returned to the Manzanita House, he ran up the stairs with an eagerness that was not in the least inspired by a desire to return to his watching over the man he had chosen to succor. He strode down the hallway and into the room with his keen anticipation thinly disguised by a sham concern. And within the doorway he halted abruptly, for the woman who had helped him, whose presence there had brought him back from his horse on a run, sat at the bedside with her hands limp in her lap and about her bearing an air that quite staggered him. Her face was as nearly expressionless as a human countenance can become. It was as if something had occurred which had taken from her all emotion, all ability to respond to any mental or sensory influence. For the moment, she was crushed, and so completely that even her reflexes did not react to the horror of the revelation. She did not look at Bayard, did not move; she might have been without the sense of sight or hearing; she did not even breathe perceptibly; just sat there with a fixity that frightened him.

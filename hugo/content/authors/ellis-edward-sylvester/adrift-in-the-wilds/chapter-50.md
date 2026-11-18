@@ -1,8 +1,7 @@
 ---
 title: "Chapter 50 - Rescued"
 weight: 50
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-50.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-50.html"
 ---
 
 The miner having made his reply, turned on his heel, still smoking his pipe, and coolly walked away, while Tim O'Rooney gazed after him in amazement. The boys were amused spectators of the scene, and Elwood now called out.

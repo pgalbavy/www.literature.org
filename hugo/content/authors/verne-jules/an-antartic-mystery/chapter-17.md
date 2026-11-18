@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - And Pym?"
 weight: 17
-aliases:
-  - "/authors/verne-jules/an-antartic-mystery/chapter-17.html"
+url: "/authors/verne-jules/an-antartic-mystery/chapter-17.html"
 ---
 
 "And Pym—poor Pym?"

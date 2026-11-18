@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Shawanoe Camp"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-23.html"
 ---
 
 How it all happened was never clearly established, but it is not to be supposed that in the tumult, the swirl, the confusion, the firing, shouting and dashing to and fro, that the coolest-headed Shawanoe or most self-possessed ranger could any more than keep a general idea of the hurricane rush of events. Special incidents were noted by different persons, as the circumstances favored them, while others saw and knew nothing of what took place under their very eyes.

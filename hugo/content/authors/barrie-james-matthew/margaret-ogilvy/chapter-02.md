@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - What She Had Been"
 weight: 2
-aliases:
-  - "/authors/barrie-james-matthew/margaret-ogilvy/chapter-02.html"
+url: "/authors/barrie-james-matthew/margaret-ogilvy/chapter-02.html"
 ---
 
 What she had been, what I should be, these were the two great subjects between us in my boyhood, and while we discussed the one we were deciding the other, though neither of us knew it.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 102 - Valentine"
 weight: 102
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-102.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-102.html"
 ---
 
 The night-light continued to burn on the chimney-piece, exhausting the last drops of oil which floated on the surface of the water. The globe of the lamp appeared of a reddish hue, and the flame, brightening before it expired, threw out the last flickerings which in an inanimate object have been so often compared with the convulsions of a human creature in its final agonies. A dull and dismal light was shed over the bedclothes and curtains surrounding the young girl. All noise in the streets had ceased, and the silence was frightful. It was then that the door of Edward's room opened, and a head we have before noticed appeared in the glass opposite; it was Madame de Villefort, who came to witness the effects of the drink she had prepared. She stopped in the doorway, listened for a moment to the flickering of the lamp, the only sound in that deserted room, and then advanced to the table to see if Valentine's glass were empty. It was still about a quarter full, as we before stated. Madame de Villefort emptied the contents into the ashes, which she disturbed that they might the more readily absorb the liquid; then she carefully rinsed the glass, and wiping it with her handkerchief replaced it on the table.

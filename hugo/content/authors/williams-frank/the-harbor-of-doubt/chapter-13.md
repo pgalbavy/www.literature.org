@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Nat Burns Shows His Hand"
 weight: 13
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-13.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-13.html"
 ---
 
 OFF Cape Sable the fleet was overhauled by a half-dozen schooners bound the same way, which displayed American flags at their main trucks as they came up.

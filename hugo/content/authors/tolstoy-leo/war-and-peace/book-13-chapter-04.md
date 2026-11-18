@@ -1,8 +1,7 @@
 ---
 title: "Book 13 - Chapter 4"
 weight: 283
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-13-chapter-04.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-13-chapter-04.html"
 ---
 
 Bennigsen's note and the Cossack's information that the left flank of the French was unguarded were merely final indications that it was necessary to order an attack, and it was fixed for the fifth of October.

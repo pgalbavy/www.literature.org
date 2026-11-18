@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - By Another Hand"
 weight: 25
-aliases:
-  - "/authors/haggard-h-rider/allan-quatermain/chapter-24.html"
+url: "/authors/haggard-h-rider/allan-quatermain/chapter-24.html"
 ---
 
 A year has elapsed since our most dear friend Allan Quatermain wrote the words ‘I have spoken’ at the end of his record of our adventures. Nor should I have ventured to make any additions to the record had it not happened that by a most strange accident a chance has arisen of its being conveyed to England. The chance is but a faint one, it is true; but, as it is not probable that another will arise in our lifetimes, Good and myself think that we may as well avail ourselves of it, such as it is. During the last six months several Frontier Commissions have been at work on the various boundaries of Zu-Vendis, with a view of discovering whether there exists any possible means of ingress or egress from the country, with the result that a channel of communication with the outer world hitherto overlooked has been discovered. This channel, apparently the only one (for I have discovered that it was by it that the native who ultimately reached Mr Mackenzie’s mission station, and whose arrival in the country, together with the fact of his expulsion--for he did arrive about three years before ourselves--was for reasons of their own kept a dead secret by the priests to whom he was brought), is about to be effectually closed. But before this is done, a messenger is to be despatched bearing with him this manuscript, and also one or two letters from Good to his friends, and from myself to my brother George, whom it deeply grieves me to think I shall never see again, informing them, as our next heirs, that they are welcome to our effects in England, if the Court of Probate will allow them to take them {Endnote 22}, inasmuchas we have made up our minds never to return to Europe. Indeed, it would be impossible for us to leave Zu-Vendis even if we wished to do so.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 69"
 weight: 69
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-69.html"
+url: "/authors/eliot-george/middlemarch/chapter-69.html"
 ---
 
 "If thou hast heard a word, let it die with thee." - Ecclesiasticus.

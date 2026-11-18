@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 1 - Of Bladesover House, And My Mother; And The Constitution Of Society"
 weight: 1
-aliases:
-  - "/authors/wells-herbert-george/tono-bungay/book-01-chapter-01.html"
+url: "/authors/wells-herbert-george/tono-bungay/book-01-chapter-01.html"
 ---
 
 I

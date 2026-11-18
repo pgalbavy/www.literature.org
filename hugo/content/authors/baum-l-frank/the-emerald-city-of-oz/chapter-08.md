@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-08.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-08.html"
 ---
 
 After leaving the Whimsies, Guph continued on his journey and penetrated far into the Northwest. He wanted to get to the Country of the Growleywogs, and in order to do that he must cross the Ripple Land, which was a hard thing to do. For the Ripple Land was a succession of hills and valleys, all very steep and rocky, and they changed places constantly by rippling. While Guph was climbing a hill it sank down under him and became a valley, and while he was descending into a valley it rose up and carried him to the top of a hill. This was very perplexing to the traveler, and a stranger might have thought he could never cross the Ripple Land at all. But Guph knew that if he kept steadily on he would get to the end at last; so he paid no attention to the changing hills and valleys and plodded along as calmly as if walking upon the level ground.

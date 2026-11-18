@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Young Champion"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-scout/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-01.html"
 ---
 
 One warm summer afternoon, a half dozen boys on their way home from the Burkville School, stopped to rest under the trees, which afforded a grateful shade at the side of the dusty highway.

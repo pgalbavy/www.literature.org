@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Tinkle And George"
 weight: 3
-aliases:
-  - "/authors/barnum-richard/tinkle-the-trick-pony/chapter-03.html"
+url: "/authors/barnum-richard/tinkle-the-trick-pony/chapter-03.html"
 ---
 
 Dapple Gray, running toward the hole which the horses had made by pushing against the fence, met Tinkle’s mother going into the swamp.

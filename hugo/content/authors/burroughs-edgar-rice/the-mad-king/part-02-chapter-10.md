@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 10 - A New King In Lutha"
 weight: 22
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-10.html"
+url: "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-10.html"
 ---
 
 As the two riders approached the edge of the village of Blentz a sentry barred their way. To his challenge the American replied that they were "friends from the castle."

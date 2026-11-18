@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 3"
 weight: 3
-aliases:
-  - "/authors/austen-jane/emma/volume-01-chapter-03.html"
+url: "/authors/austen-jane/emma/volume-01-chapter-03.html"
 ---
 
 Mr. Woodhouse was fond of society in his own way. He liked very much to have his friends come and see him; and from various united causes, from his long residence at Hartfield, and his good nature, from his fortune, his house, and his daughter, he could command the visits of his own little circle, in a great measure, as he liked. He had not much intercourse with any families beyond that circle; his horror of late hours, and large dinner-parties, made him unfit for any acquaintance but such as would visit him on his own terms. Fortunately for him, Highbury, including Randalls in the same parish, and Donwell Abbey in the parish adjoining, the seat of Mr. Knightley, comprehended many such. Not unfrequently, through Emma's persuasion, he had some of the chosen and the best to dine with him: but evening parties were what he preferred; and, unless he fancied himself at any time unequal to company, there was scarcely an evening in the week in which Emma could not make up a card-table for him.

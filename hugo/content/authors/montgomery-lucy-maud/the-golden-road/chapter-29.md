@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - We Lose A Friend"
 weight: 30
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-29.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-29.html"
 ---
 
 Our beautiful October was marred by one day of black tragedy--the day Paddy died. For Paddy, after seven years of as happy a life as ever a cat lived, died suddenly--of poison, as was supposed. Where he had wandered in the darkness to meet his doom we did not know, but in the frosty dawnlight he dragged himself home to die. We found him lying on the doorstep when we got up, and it did not need Aunt Janet's curt announcement, or Uncle Blair's reluctant shake of the head, to tell us that there was no chance of our pet recovering this time. We felt that nothing could be done. Lard and sulphur on his paws would be of no use, nor would any visit to Peg Bowen avail. We stood around in mournful silence; the Story Girl sat down on the step and took poor Paddy upon her lap.

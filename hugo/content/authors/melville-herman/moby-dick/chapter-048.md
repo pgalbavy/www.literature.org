@@ -1,8 +1,7 @@
 ---
 title: "Chapter 48 - The First Lowering"
 weight: 48
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-048.html"
+url: "/authors/melville-herman/moby-dick/chapter-048.html"
 ---
 
 The phantoms, for so they then seemed, were flitting on the other side of the deck, and, with a noiseless celerity, were casting loose the tackles and bands of the boat which swung there. This boat had always been deemed one of the spare boats, though technically called the captain's, on account of its hanging from the starboard quarter. The figure that now stood by its bows was tall and swart, with one white tooth evilly protruding from its steel-like lips. A rumpled Chinese jacket of black cotton funereally invested him, with wide black trowsers of the same dark stuff. But strangely crowning this ebonness was a glistening white plaited turban, the living hair braided and coiled round and round upon his head. Less swart in aspect, the companions of this figure were of that vivid, tiger-yellow complexion peculiar to some of the aboriginal natives of the Manillas;--a race notorious for a certain diabolism of subtilty, and by some honest white mariners supposed to be the paid spies and secret confidential agents on the water of the devil, their lord, whose counting-room they suppose to be elsewhere.

@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 24"
 weight: 214
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-24.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-24.html"
 ---
 
 On that bright evening of August 25, Prince Andrew lay leaning on his elbow in a broken-down shed in the village of Knyazkovo at the further end of his regiment's encampment. Through a gap in the broken wall he could see, beside the wooden fence, a row of thirty year-old birches with their lower branches lopped off, a field on which shocks of oats were standing, and some bushes near which rose the smoke of campfires- the soldiers' kitchens.

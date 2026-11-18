@@ -1,8 +1,7 @@
 ---
 title: "Introduction"
 weight: 1
-aliases:
-  - "/authors/perrault-charles/the-tales-of-mother-goose/introduction.html"
+url: "/authors/perrault-charles/the-tales-of-mother-goose/introduction.html"
 ---
 
 What virtues do these stories possess that have kept them alive for so long a time? They have to some degree stimulated and nourished qualities of supreme worth in individual and social life. With the young the struggle against greed and falsehood and pride and cowardice is a very real one, and situations in which these homely, fundamental traits are involved are full of interest and seriousness. Again, to mature people the reward of well-doing and the punishment of evil conduct portrayed in these stories are apt to seem too realistic, too much also on the cut-and-dried pattern; but it is far different with children. They have a very concrete sense of right and wrong, and they demand a clear, explicit, tangible outcome for every sort of action. They must have concrete, living examples, with the appropriate outcome of each, set before them.

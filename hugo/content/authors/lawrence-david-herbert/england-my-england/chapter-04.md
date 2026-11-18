@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Monkey Nuts"
 weight: 4
-aliases:
-  - "/authors/lawrence-david-herbert/england-my-england/chapter-04.html"
+url: "/authors/lawrence-david-herbert/england-my-england/chapter-04.html"
 ---
 
 At first Joe thought the job O.K. He was loading hay on the trucks, along with Albert, the corporal. The two men were pleasantly billeted in a cottage not far from the station: they were their own masters, for Joe never thought of Albert as a master. And the little sidings of the tiny village station was as pleasant a place as you could wish for. On one side, beyond the line, stretched the woods: on the other, the near side, across a green smooth field red houses were dotted among flowering apple trees. The weather being sunny, work being easy, Albert, a real good pal, what life could be better! After Flanders, it was heaven itself.

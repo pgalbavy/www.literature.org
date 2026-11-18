@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - She Comes Between Us"
 weight: 22
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-21.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-21.html"
 ---
 
 WHAT emotion had I thoughtlessly aroused in Miss Dunross? Had I offended or distressed her? Or had I, without meaning it, forced on her inner knowledge some deeply seated feeling which she had thus far resolutely ignored?

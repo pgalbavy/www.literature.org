@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-25.html"
 ---
 
 Charles Stuart Boggs—His Coolness in the Presence of Danger —His Desperate Fight Below New Orleans —His Subsequent Services.

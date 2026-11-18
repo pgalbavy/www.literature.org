@@ -1,8 +1,7 @@
 ---
 title: "Book 14 - Chapter 4"
 weight: 302
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-14-chapter-04.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-14-chapter-04.html"
 ---
 
 It was a warm rainy autumn day. The sky and the horizon were both the color of muddy water. At times a sort of mist descended, and then suddenly heavy slanting rain came down.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38"
 weight: 38
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-38.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-38.html"
 ---
 
 The facts in detail which the Reverend John Baird had journeyed to Delisle County in the hope of being able to gather, he had been successful in gaining practical possession of. Having personal charm, grace in stating a case, and many resources both of ability and manner, he had the power to attract even the prejudiced, and finally to win their interest and sympathies. He had seen and conversed with people who could have been reached in no ordinary way, and having met them had been capable of managing even their prejudices and bitterness of spirit. The result had been the accumulation of useful and convincing evidence in favour of the De Willoughbys, though he had in more than one instance gained it from persons who had been firm in their intention to give no evidence at all. This evidence had been forwarded to Washington as it had been collected, and when Baird returned to the Capital it was with the knowledge that his efforts had more than probably put the final touches to the work which would gain the day for the claimants.

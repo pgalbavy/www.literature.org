@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - The Truth Makes Free"
 weight: 31
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-31.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-31.html"
 ---
 
 Leslie, having once made up her mind what to do, proceeded to do it with characteristic resolution and speed. House-cleaning must be finished with first, whatever issues of life and death might await beyond. The gray house up the brook was put into flawless order and cleanliness, with Miss Cornelia's ready assistance. Miss Cornelia, having said her say to Anne, and later on to Gilbert and Captain Jim--sparing neither of them, let it be assured--never spoke of the matter to Leslie. She accepted the fact of Dick's operation, referred to it when necessary in a business-like way, and ignored it when it was not. Leslie never attempted to discuss it. She was very cold and quiet during these beautiful spring days. She seldom visited Anne, and though she was invariably courteous and friendly, that very courtesy was as an icy barrier between her and the people of the little house. The old jokes and laughter and chumminess of common things could not reach her over it. Anne refused to feel hurt. She knew that Leslie was in the grip of a hideous dread--a dread that wrapped her away from all little glimpses of happiness and hours of pleasure. When one great passion seizes possession of the soul all other feelings are crowded aside. Never in all her life had Leslie Moore shuddered away from the future with more intolerable terror. But she went forward as unswervingly in the path she had elected as the martyrs of old walked their chosen way, knowing the end of it to be the fiery agony of the stake.

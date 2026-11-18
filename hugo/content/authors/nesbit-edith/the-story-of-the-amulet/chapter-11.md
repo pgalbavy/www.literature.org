@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Before Pharaoh"
 weight: 11
-aliases:
-  - "/authors/nesbit-edith/the-story-of-the-amulet/chapter-11.html"
+url: "/authors/nesbit-edith/the-story-of-the-amulet/chapter-11.html"
 ---
 
 It was the day after the adventure of Julius Caesar and the Little Black Girl that Cyril, bursting into the bathroom to wash his hands for dinner (you have no idea how dirty they were, for he had been playing shipwrecked mariners all the morning on the leads at the back of the house, where the water-cistern is), found Anthea leaning her elbows on the edge of the bath, and crying steadily into it.

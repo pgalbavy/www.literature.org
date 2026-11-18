@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-11.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-11.html"
 ---
 
 On leaving the Growleywogs General Guph had to recross the Ripple Lands, and he did not find it a pleasant thing to do. Perhaps having his whiskers pulled out one by one and being used as a pin-cushion for the innocent amusement of a good natured jailer had not improved the quality of Guph's temper, for the old Nome raved and raged at the recollection of the wrongs he had suffered, and vowed to take vengeance upon the Growleywogs after he had used them for his purposes and Oz had been conquered. He went on in this furious way until he was half across the Ripple Land. Then he became seasick, and the rest of the way this naughty Nome was almost as miserable as he deserved to be.

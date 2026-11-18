@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-23.html"
+url: "/authors/forster-e-m/howards-end/chapter-23.html"
 ---
 
 Margaret had no intention of letting things slide, and the evening before she left Swanage she gave her sister a thorough scolding. She censured her, not for disapproving of the engagement, but for throwing over her disapproval a veil of mystery. Helen was equally frank. “Yes,” she said, with the air of one looking inwards, “there is a mystery. I can’t help it. It’s not my fault. It’s the way life has been made.” Helen in those days was over-interested in the subconscious self. She exaggerated the Punch and Judy aspect of life, and spoke of mankind as puppets, whom an invisible showman twitches into love and war. Margaret pointed out that if she dwelt on this she, too, would eliminate the personal. Helen was silent for a minute, and then burst into a queer speech, which cleared the air. “Go on and marry him. I think you’re splendid; and if any one can pull it off, you will.” Margaret denied that there was anything to “pull off,” but she continued: “Yes, there is, and I wasn’t up to it with Paul. I can do only what’s easy. I can only entice and be enticed. I can’t, and won’t, attempt difficult relations. If I marry, it will either be a man who’s strong enough to boss me or whom I’m strong enough to boss. So I shan’t ever marry, for there aren’t such men. And Heaven help any one whom I do marry, for I shall certainly run away from him before you can say ‘Jack Robinson.’ There! Because I’m uneducated. But you, you’re different; you’re a heroine.”

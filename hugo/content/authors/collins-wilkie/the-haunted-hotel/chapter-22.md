@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/collins-wilkie/the-haunted-hotel/chapter-22.html"
+url: "/authors/collins-wilkie/the-haunted-hotel/chapter-22.html"
 ---
 
 Having closed and secured the door on Lady Montbarry's departure, Agnes put on her dressing-gown, and, turning to her open boxes, began the business of unpacking. In the hurry of making her toilet for dinner, she had taken the first dress that lay uppermost in the trunk, and had thrown her travelling costume on the bed. She now opened the doors of the wardrobe for the first time, and began to hang her dresses on the hooks in the large compartment on one side.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Motombo"
 weight: 15
-aliases:
-  - "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-15.html"
+url: "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-15.html"
 ---
 
 After my dream I went to sleep again, till I was finally aroused by a strong ray of light hitting me straight in the eye.

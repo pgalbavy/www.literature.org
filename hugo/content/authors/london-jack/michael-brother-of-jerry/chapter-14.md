@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-14.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-14.html"
 ---
 
 Early next morning, the morning watch of sailors, whose custom was to fetch the day's supply of water for the galley and cabin, discovered that the barrels were empty. Mr. Jackson was so alarmed that he immediately called Captain Doane, and not many minutes elapsed ere Captain Doane had routed out Grimshaw and Nishikanta to tell them the disaster.

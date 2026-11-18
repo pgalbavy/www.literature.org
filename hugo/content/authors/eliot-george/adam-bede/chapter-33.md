@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - More Links"
 weight: 33
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-33.html"
+url: "/authors/eliot-george/adam-bede/chapter-33.html"
 ---
 
 THE barley was all carried at last, and the harvest suppers went by without waiting for the dismal black crop of beans. The apples and nuts were gathered and stored; the scent of whey departed from the farm-houses, and the scent of brewing came in its stead. The woods behind the Chase, and all the hedgerow trees, took on a solemn splendour under the dark low-hanging skies. Michaelmas was come, with its fragrant basketfuls of purple damsons, and its paler purple daisies, and its lads and lasses leaving or seeking service and winding along between the yellow hedges, with their bundles under their arms. But though Michaelmas was come, Mr. Thurle, that desirable tenant, did not come to the Chase Farm, and the old squire, afler all, had been obliged to put in a new bailiff. It was known throughout the two parishes that the squire's plan had been frustrated because the Poysers had refused to be "put upon," and Mrs. Poyser's outbreak was discussed in all the farm-houses with a zest which was only heightened by frequent repetition. The news that "Bony" was come back from Egypt was comparatively insipid, and the repulse of the French in Italy was nothing to Mrs. Poyser's repulse of the old squire. Mr. Irwine had heard a version of it in every parishioner's house, with the one exception of the Chase. But since he had always, with marvellous skill, avoided any quarrel with Mr. Donnithorne, he could not allow himself the pleasure of laughing at the old gentleman's discomfiture with any one besides his mother, who declared that if she were rich she should like to allow Mrs. Poyser a pension for life, and wanted to invite her to the parsonage that she might hear an account of the scene from Mrs. Poyser's own lips.

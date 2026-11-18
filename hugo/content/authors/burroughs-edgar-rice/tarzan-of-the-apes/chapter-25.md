@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Outpost of the World"
 weight: 25
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-25.html"
+url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-25.html"
 ---
 
 With the report of his gun D'Arnot saw the door fly open and the figure of a man pitch headlong within onto the cabin floor.

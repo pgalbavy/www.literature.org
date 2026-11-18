@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - In Which Van Baerle, Before Leaving Loewestein, Settles Accounts With Gryphus"
 weight: 29
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-29.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-29.html"
 ---
 
 The two remained silent for some minutes, Gryphus on the offensive, and Van Baerle on the defensive.

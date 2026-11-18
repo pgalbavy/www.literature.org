@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 26
-aliases:
-  - "/authors/baum-l-frank/tik-tok-of-oz/chapter-25.html"
+url: "/authors/baum-l-frank/tik-tok-of-oz/chapter-25.html"
 ---
 
 "Well, is 'hee-haw' all you are able to say?" inquired the Sawhorse, as he examined Hank with his knot eyes and slowly wagged the branch that served him for a tail.

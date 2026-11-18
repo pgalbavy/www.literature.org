@@ -1,8 +1,7 @@
 ---
 title: "Chapter 45 - The Foot-Race"
 weight: 47
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-45.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-45.html"
 ---
 
 A SOLITARY foreigner, drifting about London, drifted toward Fulham on the day of the Foot-Race.

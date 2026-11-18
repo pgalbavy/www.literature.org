@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-24.html"
+url: "/authors/london-jack/martin-eden/chapter-24.html"
 ---
 
 The weeks passed. Martin ran out of money, and publishers' checks were far away as ever. All his important manuscripts had come back and been started out again, and his hack-work fared no better. His little kitchen was no longer graced with a variety of foods. Caught in the pinch with a part sack of rice and a few pounds of dried apricots, rice and apricots was his menu three times a day for five days hand-running. Then he startled to realize on his credit. The Portuguese grocer, to whom he had hitherto paid cash, called a halt when Martin's bill reached the magnificent total of three dollars and eighty-five cents.

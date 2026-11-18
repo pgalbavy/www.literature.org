@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Guests"
 weight: 4
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-02.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-02.html"
 ---
 
 Who was responsible for the reform of the summer-house? The new tenant at Windygates was responsible.

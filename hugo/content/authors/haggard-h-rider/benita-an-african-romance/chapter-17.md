@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The First Experiment"
 weight: 18
-aliases:
-  - "/authors/haggard-h-rider/benita-an-african-romance/chapter-17.html"
+url: "/authors/haggard-h-rider/benita-an-african-romance/chapter-17.html"
 ---
 
 Again Benita and her father stared at each other blankly, almost with despair. They were trapped, cut off from all help; in the power of a man who was going mad. Mr. Clifford said nothing. He was old and growing feeble; for years, although he did not know it, Meyer had dominated him, and never more so than in this hour of stress and bewilderment. Moreover, the man had threatened to murder him, and he was afraid, not so much for himself as for his daughter. If he were to die now, what would happen to her, left alone with Jacob Meyer? The knowledge of his own folly, understood too late, filled him with shame. How could he have been so wicked as to bring a girl upon such a quest in the company of an unprincipled Jew, of whose past he knew nothing except that it was murky and dubious? He had committed a great crime, led on by a love of lucre, and the weight of it pressed upon his tongue and closed his lips; he knew not what to say.

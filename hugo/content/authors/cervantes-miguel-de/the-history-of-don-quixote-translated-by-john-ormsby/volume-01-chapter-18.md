@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 18 - In Which Is Related The Discourse Sancho Panza Held With His Master, Don Quixote, And Other Adventures Worth Relating"
 weight: 21
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-18.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-18.html"
 ---
 
 Sancho reached his master so limp and faint that he could not urge on his beast. When Don Quixote saw the state he was in he said, "I have now come to the conclusion, good Sancho, that this castle or inn is beyond a doubt enchanted, because those who have so atrociously diverted themselves with thee, what can they be but phantoms or beings of another world? and I hold this confirmed by having noticed that when I was by the wall of the yard witnessing the acts of thy sad tragedy, it was out of my power to mount upon it, nor could I even dismount from Rocinante, because they no doubt had me enchanted; for I swear to thee by the faith of what I am that if I had been able to climb up or dismount, I would have avenged thee in such a way that those braggart thieves would have remembered their freak for ever, even though in so doing I knew that I contravened the laws of chivalry, which, as I have often told thee, do not permit a knight to lay hands on him who is not one, save in case of urgent and great necessity in defence of his own life and person."

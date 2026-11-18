@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Riquet With The Tuft"
 weight: 6
-aliases:
-  - "/authors/perrault-charles/the-tales-of-mother-goose/chapter-05.html"
+url: "/authors/perrault-charles/the-tales-of-mother-goose/chapter-05.html"
 ---
 
 Once upon a time there was a Queen who had a son so ugly and so misshapen that it was long disputed whether he had human form. A fairy who was at his birth said, however, that he would be very amiable for all that, since he would have uncommon good sense. She even added that it would be in his power, by virtue of a gift she had just then given him, to bestow as much sense as he pleased on the person he loved the best. All this somewhat comforted the poor Queen. It is true that this child no sooner began to talk than he said a thousand pretty things, and in all his actions there was an intelligence that was quite charming. I forgot to tell you that he was born with a little tuft of hair upon his head, which made them call him Riquet[1] with the Tuft, for Riquet was the family name.

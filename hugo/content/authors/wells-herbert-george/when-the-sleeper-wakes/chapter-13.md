@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The End Of The Old Order"
 weight: 13
-aliases:
-  - "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-13.html"
+url: "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-13.html"
 ---
 
 So far as Graham was able to judge, it was near midday when the white banner of the Council fell. But some hours had to elapse before it was possible to effect the formal capitulation, and so after he had spoken his "Word" he retired to his new apartments in the wind-vane offices. The continuous excitement of the last twelve hours had left him inordinately fatigued, even his curiosity was exhausted; for a space he sat inert and passive with open eyes, and for a space he slept. He was roused by two medical attendants, come prepared with stimulants to sustain him through the next occasion. After he had taken their drugs and bathed by their advice in cold water, he felt a rapid return of interest and energy, and was presently able and willing to accompany Ostrog through several miles (as it seemed) of passages, lifts, and slides to the closing scene of the White Council's rule.

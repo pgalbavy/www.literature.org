@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Jumping Mud Puddles"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-21.html"
 ---
 
 Johnnie Green had often ridden bareback. Lacking a pony, before Twinkleheels came to the farm to live, he had ridden the old horse Ebenezer back and forth between the barn and the pasture, guiding him by his halter rope.

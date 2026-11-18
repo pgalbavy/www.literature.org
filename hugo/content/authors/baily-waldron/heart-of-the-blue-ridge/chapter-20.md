@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-20.html"
+url: "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-20.html"
 ---
 
 The cave into which Plutina now entered was a small, uneven chamber, some three yards in width at its highest point. It extended back for a little way, but the roof sloped downward so sharply that only in the central space could the girl stand upright, and even there Hodges had to stoop. On the far side was a hole in the rocky wall. It was hardly a yard in height, but the faint glow that marked it was proof that it reached to the daylight outside. At the best, it could serve as a passage-way only to one creeping on hands and knees. So much Plutina perceived in the first curious survey of her prison. The inspection was rendered possible by the murky light of a tallow candle, fixed in its own grease to a fragment of stone near the center of the cavern.

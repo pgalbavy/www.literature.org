@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Last Stand Of The Greys"
 weight: 15
-aliases:
-  - "/authors/haggard-h-rider/king-solomons-mines/chapter-14.html"
+url: "/authors/haggard-h-rider/king-solomons-mines/chapter-14.html"
 ---
 
 In a few more minutes the regiments destined to carry out the flanking movements had tramped off in silence, keeping carefully to the lee of the rising ground in order to conceal their advance from the keen eyes of Twala's scouts.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Evening Paper"
 weight: 19
-aliases:
-  - "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-18.html"
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-18.html"
 ---
 
 It was the habit of the three friends to play a game of dominoes in the evening after dinner. M. Lecamus, who was a Norman, took a delight in using terms racy of the soil. When he set down the Double-six, he would cry: "Now for the double-nigger!" When he put down a Five, he would cry: "The pup! That bites!" When he put down a One, he would cry: "The maggot! Bait!" The Three drew from him this phrase: "If you've the pluck, down with the pig's-tail!" He called the Two "The beggar!" The unfortunate Four was blasted by the name of "The whelp!" and he could not put down a Blank without announcing: "The washerwoman!"

@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 15"
 weight: 332
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-15.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-15.html"
 ---
 
 At the end of January Pierre went to Moscow and stayed in an annex of his house which had not been burned. He called on Count Rostopchin and on some acquaintances who were back in Moscow, and he intended to leave for Petersburg two days later. Everybody was celebrating the victory, everything was bubbling with life in the ruined but reviving city. Everyone was pleased to see Pierre, everyone wished to meet him, and everyone questioned him about what he had seen. Pierre felt particularly well disposed toward them all, but was now instinctively on his guard for fear of binding himself in any way. To all questions put to him- whether important or quite trifling- such as: Where would he live? Was he going to rebuild? When was he going to Petersburg and would he mind taking a parcel for someone?- he replied: "Yes, perhaps," or, "I think so," and so on.

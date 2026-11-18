@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 12"
 weight: 96
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-05-chapter-12.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-05-chapter-12.html"
 ---
 
 In the evening Andrew and Pierre got into the open carriage and drove to Bald Hills. Prince Andrew, glancing at Pierre, broke the silence now and then with remarks which showed that he was in a good temper.

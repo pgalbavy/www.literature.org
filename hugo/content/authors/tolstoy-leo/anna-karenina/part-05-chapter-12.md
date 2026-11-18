@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 12"
 weight: 136
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-12.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-12.html"
 ---
 
 Anna and Vronsky had long been exchanging glances, regretting Xt their friend's flow of cleverness. At last Vronsky, without waiting for the artist, walked away to another small picture.

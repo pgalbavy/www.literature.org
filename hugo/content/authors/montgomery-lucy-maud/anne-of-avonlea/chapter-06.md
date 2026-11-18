@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - All Sorts And Conditions Of Men...And Women"
 weight: 6
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-06.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-06.html"
 ---
 
 A September day on Prince Edward Island hills; a crisp wind blowing up over the sand dunes from the sea; a long red road, winding through fields and woods, now looping itself about a corner of thick set spruces, now threading a plantation of young maples with great feathery sheets of ferns beneath them, now dipping down into a hollow where a brook flashed out of the woods and into them again, now basking in open sunshine between ribbons of golden-rod and smoke-blue asters; air athrill with the pipings of myriads of crickets, those glad little pensioners of the summer hills; a plump brown pony ambling along the road; two girls behind him, full to the lips with the simple, priceless joy of youth and life.

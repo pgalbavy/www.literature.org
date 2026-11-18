@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-17.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-17.html"
 ---
 
 One night Dag Daughtry sat at a table in the saloon called the Pile-drivers' Home. He was in a parlous predicament. Harder than ever had it been to secure odd jobs, and he had reached the end of his savings. Earlier in the evening he had had a telephone conference with the Ancient Mariner, who had reported only progress with an exceptionally strong nibble that very day from a retired quack doctor.

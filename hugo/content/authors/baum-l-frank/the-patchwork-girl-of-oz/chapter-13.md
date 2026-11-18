@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 14
-aliases:
-  - "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-13.html"
+url: "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-13.html"
 ---
 
 From here on the country improved and the desert places began to give way to fertile spots; still no houses were yet to be seen near the road. There were some hills, with valleys between them, and on reaching the top of one of these hills the travelers found before them a high wall, running to the right and the left as far as their eyes could reach. Immediately in front of them, where the wall crossed the roadway, stood a gate having stout iron bars that extended from top to bottom. They found, on coming nearer, that this gate was locked with a great padlock, rusty through lack of use.

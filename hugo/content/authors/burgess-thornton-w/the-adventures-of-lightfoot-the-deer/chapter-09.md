@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Lightfoot Becomes Uncertain"
 weight: 9
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-09.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-09.html"
 ---
 
 Lightfoot the Deer traveled on through the Green Forest, straight ahead in the direction from which the Merry Little Breezes were blowing. Every few steps he would raise his delicate nose and test all the scents that the Merry Little Breezes were bringing. So long as he kept the Merry Little Breezes blowing in his face, he could be sure whether or not there was danger ahead of him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Somebody Is Expected"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-01.html"
 ---
 
 ON May Day the feathered folk in Pleasant Valley began to stop, look and listen. They were expecting somebody.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - \"Little Gentleman\""
 weight: 24
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-24.html"
+url: "/authors/tarkington-booth/penrod/chapter-24.html"
 ---
 
 The midsummer sun was stinging hot outside the little barber-shop next to the corner drug store and Penrod, undergoing a toilette preliminary to his very slowly approaching twelfth birthday, was adhesive enough to retain upon his face much hair as it fell from the shears. There is a mystery here: the tonsorial processes are not unagreeable to manhood; in truth, they are soothing; but the hairs detached from a boy's head get into his eyes, his ears, his nose, his mouth, and down his neck, and he does everywhere itch excruciatingly. Wherefore he blinks, winks, weeps, twitches, condenses his countenance, and squirms; and perchance the barber's scissors clip more than intended—belike an outlying flange of ear.

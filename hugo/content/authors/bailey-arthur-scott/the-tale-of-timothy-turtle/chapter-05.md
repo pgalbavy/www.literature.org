@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Mr. Turtle's Mistake"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-05.html"
 ---
 
 Mr. Crow was in no hurry to leave Black Creek. And after Fatty Coon had limped away the old gentleman still sat in the tree which hung over the water. He hoped that Timothy Turtle would crawl out upon the bank and growl about Fatty.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-08.html"
+url: "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-08.html"
 ---
 
 As Norman of Torn rode out from the castle of De Stutevill, Father Claude dismounted from his sleek donkey within the ballium of Torn. The austere stronghold, notwithstanding its repellent exterior and unsavory reputation, always extended a warm welcome to the kindly, genial priest; not alone because of the deep friendship which the master of Torn felt for the good father, but through the personal charm, and lovableness of the holy man's nature, which shone alike on saint and sinner.

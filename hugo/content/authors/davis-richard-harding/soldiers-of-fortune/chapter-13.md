@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/davis-richard-harding/soldiers-of-fortune/chapter-13.html"
+url: "/authors/davis-richard-harding/soldiers-of-fortune/chapter-13.html"
 ---
 
 The President's travelling carriage was a double-seated diligence covered with heavy hoods and with places on the box for two men. Only one of the coachmen, the same man who had driven the State carriage from the review, had remained at the stables. As he knew the roads to Los Bocos, Clay ordered him up to the driver's seat, and MacWilliams climbed into the place beside him after first storing three rifles under the lap-robe.

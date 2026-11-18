@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Close Call"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-05.html"
 ---
 
 *NOW* you must not forget that most of the names of rivers, mountains and settlements which I use in this story had no existence when Deerfoot and his friends started on their journey across the continent. A large number of these names were bestowed by Captains Lewis and Clark, who came after the little party. Some of the titles have stuck, and a good many have undergone changes. It was these explorers who gave the Rocky (then known as Stony) Mountains their name, to say nothing of other peaks and ranges. Lewis and Clark showed much ingenuity in making up the long list, and it must be admitted that in many instances the change of title since then was not an improvement.

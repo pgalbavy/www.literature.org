@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Planning A Midnight Ride"
 weight: 4
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-04.html"
+url: "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-04.html"
 ---
 
 “If the people of the country believe there is gold in the temples said to be haunted,” Glenn asked, “why don’t they hunt for it themselves, without waiting for others to come down and give them a tip?”

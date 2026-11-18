@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38"
 weight: 38
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-38.html"
+url: "/authors/eliot-george/middlemarch/chapter-38.html"
 ---
 
 "C'est beaucoup que le jugement des hommes sur les actions humaines; tot ou tard il devient efficace." - GUIZOT.

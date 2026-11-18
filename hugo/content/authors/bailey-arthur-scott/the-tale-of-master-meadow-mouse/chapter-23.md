@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Moving Day"
 weight: 23
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-23.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-23.html"
 ---
 
 MASTER MEADOW MOUSE had a great-uncle who was known as Uncle Billy. He was the oldest of all the members of the Meadow Mouse family that lived under the snow near the brook. Hobbling along through one of the tunnels beneath the seven crusts of snow he happened to meet Master Meadow Mouse as he was returning from his talk with Peter Mink.

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 23"
 weight: 57
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-23.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-23.html"
 ---
 
 Vronsky had several times already, though not so resolutely as J now, tried to bring her to consider their position, and every time he had been confronted by the same superficiality and triviality with which she met his appeal now. It was as though there were something in this which she could not or would not face, as though directly she began to speak of this, she, the real Anna, retreated somehow into herself, and another strange and unaccountable woman came out, whom he did not love, and whom he feared, and who was in opposition to him. But to-day he was resolved to have it out.

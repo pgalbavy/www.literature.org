@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Diamond Maker"
 weight: 6
-aliases:
-  - "/authors/wells-herbert-george/the-door-in-the-wall/chapter-06.html"
+url: "/authors/wells-herbert-george/the-door-in-the-wall/chapter-06.html"
 ---
 
 Some business had detained me in Chancery Lane nine in the evening, and thereafter, having some inkling of a headache, I was disinclined either for entertainment or further work. So much of the sky as the high cliffs of that narrow canon of traffic left visible spoke of a serene night, and I determined to make my way down to the Embankment, and rest my eyes and cool my head by watching the variegated lights upon the river. Beyond comparison the night is the best time for this place; a merciful darkness hides the dirt of the waters, and the lights of this transitional age, red glaring orange, gas-yellow, and electric white, are set in shadowy outlines of every possible shade between grey and deep purple. Through the arches of Waterloo Bridge a hundred points of light mark the sweep of the Embankment, and above its parapet rise the towers of Westminster,warm grey against the starlight. The black river goes by with only a rare ripple breaking its silence, and disturbing the reflections of the lights that swim upon its surface.

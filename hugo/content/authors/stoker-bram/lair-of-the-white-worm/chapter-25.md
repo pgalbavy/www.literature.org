@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/stoker-bram/lair-of-the-white-worm/chapter-25.html"
+url: "/authors/stoker-bram/lair-of-the-white-worm/chapter-25.html"
 ---
 
 Lady Arabella had instructed her solicitors to hurry on with the conveyance of Diana's Grove, so no time was lost in letting Adam Salton have formal possession of the estate. After his interview with Sir Nathaniel, he had taken steps to begin putting his plan into action. In order to accumulate the necessary amount of fine sea-sand, he ordered the steward to prepare for an elaborate system of top-dressing all the grounds. A great heap of the sand, brought from bays on the Welsh coast, began to grow at the back of the Grove. No one seemed to suspect that it was there for any purpose other than what had been given out.

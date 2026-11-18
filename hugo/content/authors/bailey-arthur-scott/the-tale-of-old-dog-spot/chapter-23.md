@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Spot Sees The Show"
 weight: 23
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-23.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-23.html"
 ---
 
 Old dog Spot was bewildered. When he crawled under the canvas he had not dreamed that he was entering the main tent of the circus. He saw so many strange sights that he didn't know whether to bark or to crawl away and hide somewhere. Yet among all those people he felt lonely. He couldn't see anybody he knew.

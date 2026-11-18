@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - \u0026quot;The Other Fellows\u0026quot;"
 weight: 13
-aliases:
-  - "/authors/alcott-louisa-may/eight-cousins/chapter-12.html"
+url: "/authors/alcott-louisa-may/eight-cousins/chapter-12.html"
 ---
 
 Rose did tell "the people" what had passed, and no one "howled" over Mac, or said a word to trouble him. He had his talk with the doctor, and got very little comfort out of it, for he found that "just what he might do" was nothing at all; though the prospect of some study by and by, if all went well, gave him courage to bear the woes of the present. Having made up his mind to this, he behaved so well that everyone was astonished, never having suspected so much manliness in the quiet Worm.

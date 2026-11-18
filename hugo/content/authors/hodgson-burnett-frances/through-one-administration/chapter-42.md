@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42"
 weight: 42
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-42.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-42.html"
 ---
 
 In all her honest, hard-worked little life Miss Jessup had never done more honest, hard work than she was called upon to do on the day of the inauguration. She had written into the small hours the night before; she had described bunting and arches, evergreens and grand stands, the visiting regiments, club uniforms, bands, banners, torch-lights and speeches, and on the eventful day she was up with the dawn, arranging in the most practicable manner her plans for the day. With letters containing a full and dramatic description of the ceremonies to be written to four western papers, and with extra work upon the Washington weekly and daily, there was no time to be lost. Miss Jessup lost none. Each hour of the day was portioned off--each minute, almost. Now she was to take a glance at the procession from the steps of the Treasury; now she was to spend a few moments in a balcony overlooking another point; she was to see the oath administered, hear the President's address and form an estimate of his appreciation of the solemnity of the moment; she was to take his temperature during the afternoon, and be ready to greet him at the ball, and describe dresses, uniforms, decorations, flags, and evergreens again. Even as she took her hasty breakfast she was jotting down appropriate items, and had already begun an article, opening with the sentence, "Rarely has Washington witnessed a more brilliant spectacle," etc.

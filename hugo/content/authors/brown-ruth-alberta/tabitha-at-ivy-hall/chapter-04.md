@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Name Causes Tabitha Trouble"
 weight: 4
-aliases:
-  - "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-04.html"
+url: "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-04.html"
 ---
 
 "Tabitha!"

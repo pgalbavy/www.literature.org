@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Being Wanted"
 weight: 3
-aliases:
-  - "/authors/nesbit-edith/five-children-and-it/chapter-03.html"
+url: "/authors/nesbit-edith/five-children-and-it/chapter-03.html"
 ---
 
 The morning after the children had been the possessors of boundless wealth, and had been unable to buy anything really useful or enjoyable with it, except two pairs of cotton gloves, twelve penny buns, an imitation crocodile-skin purse, and a ride in a pony-cart, they awoke without any of the enthusiastic happiness which they had felt on the previous day when they remembered how they had had the luck to find a Psammead, or Sand-fairy; and to receive its promise to grant them a new wish every day. For now they had had two wishes, Beauty and Wealth, and neither had exactly made them happy. But the happening of strange things, even if they are not completely pleasant things, is more amusing than those times when nothing happens but meals, and they are not always completely pleasant, especially on the days when it is cold mutton or hash.

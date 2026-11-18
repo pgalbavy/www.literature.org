@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/nesbit-edith/the-enchanted-castle/chapter-10.html"
+url: "/authors/nesbit-edith/the-enchanted-castle/chapter-10.html"
 ---
 
 "IF," said Kathleen, sitting disconsolate in her marble, "if I am really a statue come alive, I wonder you're not afraid of me."

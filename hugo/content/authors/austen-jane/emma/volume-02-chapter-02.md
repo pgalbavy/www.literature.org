@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 2"
 weight: 20
-aliases:
-  - "/authors/austen-jane/emma/volume-02-chapter-02.html"
+url: "/authors/austen-jane/emma/volume-02-chapter-02.html"
 ---
 
 Jane Fairfax was an orphan, the only child of Mrs. Bates's youngest daughter.

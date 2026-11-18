@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Enemy Of All The World"
 weight: 4
-aliases:
-  - "/authors/london-jack/the-strength-of-the-strong/chapter-04.html"
+url: "/authors/london-jack/the-strength-of-the-strong/chapter-04.html"
 ---
 
 It was Silas Bannerman who finally ran down that scientific wizard and arch-enemy of mankind, Emil Gluck. Gluck's confession, before he went to the electric chair, threw much light upon the series of mysterious events, many apparently unrelated, that so perturbed the world between the years 1933 and 1941. It was not until that remarkable document was made public that the world dreamed of there being any connection between the assassination of the King and Queen of Portugal and the murders of the New York City police officers. While the deeds of Emil Gluck were all that was abominable, we cannot but feel, to a certain extent, pity for the unfortunate, malformed, and maltreated genius. This side of his story has never been told before, and from his confession and from the great mass of evidence and the documents and records of the time we are able to construct a fairly accurate portrait of him, and to discern the factors and pressures that moulded him into the human monster he became and that drove him onward and downward along the fearful path he trod.

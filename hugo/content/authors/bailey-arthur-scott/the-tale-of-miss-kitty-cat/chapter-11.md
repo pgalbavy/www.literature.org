@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Wrens' Home"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-11.html"
 ---
 
 THERE wasn't a bird on the farm that didn't dislike Miss Kitty Cat. And there was only one bird family that didn't live in dread of her. That was the Wren family. And they had a good reason for feeling safe from Miss Kitty.

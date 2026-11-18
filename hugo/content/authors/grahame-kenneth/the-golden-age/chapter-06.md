@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - ‘Young Adam Cupid’"
 weight: 7
-aliases:
-  - "/authors/grahame-kenneth/the-golden-age/chapter-06.html"
+url: "/authors/grahame-kenneth/the-golden-age/chapter-06.html"
 ---
 
 NOBODY would have suspected Edward of being in love, had it not been that after breakfast, with an overacted carelessness, ‘Anybody who likes,’ he said, ‘can feed my rabbits,’ and he disappeared, with a jauntiness that deceived nobody, in the direction of the orchard. Now kingdoms might totter and reel, and convulsions play skittles with the map of Europe; but the iron unwritten law prevailed, that each boy severely fed his own rabbits. There was good ground, then, for suspicion and alarm; and while the lettuce leaves were being drawn through the wires, Harold and I conferred seriously on the situation.

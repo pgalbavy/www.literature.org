@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Lord Ragnall’s Story"
 weight: 7
-aliases:
-  - "/authors/haggard-h-rider/the-ivory-child/chapter-07.html"
+url: "/authors/haggard-h-rider/the-ivory-child/chapter-07.html"
 ---
 
 That night Hans slept at my house, or rather outside of it in the garden, or upon the stoep, saying that he feared arrest if he went to the town, because of his quarrel with the white man. As it happened, however, the other party concerned never stirred further in the business, probably because he was too drunk to remember who had knocked him into the sluit or whether he had gravitated thither by accident.

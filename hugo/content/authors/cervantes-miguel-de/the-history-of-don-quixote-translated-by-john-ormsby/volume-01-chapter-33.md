@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 33 - In Which Is Related The Novel Of \"The Ill-Advised Curiosity\""
 weight: 36
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-33.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-33.html"
 ---
 
 In Florence, a rich and famous city of Italy in the province called Tuscany, there lived two gentlemen of wealth and quality, Anselmo and Lothario, such great friends that by way of distinction they were called by all that knew them "The Two Friends." They were unmarried, young, of the same age and of the same tastes, which was enough to account for the reciprocal friendship between them. Anselmo, it is true, was somewhat more inclined to seek pleasure in love than Lothario, for whom the pleasures of the chase had more attraction; but on occasion Anselmo would forego his own tastes to yield to those of Lothario, and Lothario would surrender his to fall in with those of Anselmo, and in this way their inclinations kept pace one with the other with a concord so perfect that the best regulated clock could not surpass it.

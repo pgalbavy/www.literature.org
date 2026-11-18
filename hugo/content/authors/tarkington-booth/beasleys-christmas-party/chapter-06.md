@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/tarkington-booth/beasleys-christmas-party/chapter-06.html"
+url: "/authors/tarkington-booth/beasleys-christmas-party/chapter-06.html"
 ---
 
 Autumn trailed the last leaves behind her flying brown robes one night; we woke to a skurry of snow next morning; and it was winter. Down-town, along the sidewalks, the merchants set lines of poles, covered them with evergreen, and ran streamers of green overhead to encourage the festal shopping. Salvation Army Santa Clauses stamped their feet and rang bells on the corners, and pink-faced children fixed their noses immovably to display-windows. For them, the season of seasons, the time of times, was at hand.

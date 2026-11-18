@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/cather-willa/alexanders-bridge/chapter-01.html"
+url: "/authors/cather-willa/alexanders-bridge/chapter-01.html"
 ---
 
 Late one brilliant April afternoon Professor Lucius Wilson stood at the head of Chestnut Street, looking about him with the pleased air of a man of taste who does not very often get to Boston. He had lived there as a student, but for twenty years and more, since he had been Professor of Philosophy in a Western university, he had seldom come East except to take a steamer for some foreign port. Wilson was standing quite still, contemplating with a whimsical smile the slanting street, with its worn paving, its irregular, gravely colored houses, and the row of naked trees on which the thin sunlight was still shining. The gleam of the river at the foot of the hill made him blink a little, not so much because it was too bright as because he found it so pleasant. The few passers-by glanced at him unconcernedly, and even the children who hurried along with their school-bags under their arms seemed to find it perfectly natural that a tall brown gentleman should be standing there, looking up through his glasses at the gray housetops.

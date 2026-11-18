@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Dan"
 weight: 4
-aliases:
-  - "/authors/alcott-louisa-may/jos-boys/chapter-04.html"
+url: "/authors/alcott-louisa-may/jos-boys/chapter-04.html"
 ---
 
 Mrs Jo often thought that Dan had Indian blood in him, not only because of his love of a wild, wandering life, but his appearance; for as he grew up, this became more striking. At twenty-five he was very tall, with sinewy limbs, a keen, dark face, and the alert look of one whose senses were all alive; rough in manner, full of energy, quick with word and blow, eyes full of the old fire, always watchful as if used to keep guard, and a general air of vigour and freshness very charming to those who knew the dangers and delights of his adventurous life. He was looking his best as he sat talking with 'Mother Bhaer', one strong brown hand in hers, and a world of affection in his voice as he said:

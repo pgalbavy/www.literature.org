@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - Tender Troubles"
 weight: 32
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-32.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-32.html"
 ---
 
 "Jo, I'm anxious about Beth."

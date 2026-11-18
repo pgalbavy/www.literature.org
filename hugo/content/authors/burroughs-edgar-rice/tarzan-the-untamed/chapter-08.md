@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Tarzan And The Great Apes"
 weight: 8
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-08.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-08.html"
 ---
 
 Three days the ape-man spent in resting and recuperating, eating fruits and nuts and the smaller animals that were most easily bagged, and upon the fourth he set out to explore the valley and search for the great apes. Time was a negligible factor in the equation of life -- it was all the same to Tarzan if he reached the west coast in a month or a year or three years. All time was his and all Africa. His was abso- lute freedom -- the last tie that had bound him to civilization and custom had been severed. He was alone but he was not exactly lonely. The greater part of his life had been spent thus, and though there was no other of his kind, he was at all times surrounded by the jungle peoples for whom familiarity had bred no contempt within his breast. The least of them in- terested him, and, too, there were those with whom he always made friends easily, and there were his hereditary enemies whose presence gave a spice to life that might otherwise have become humdrum and monotonous.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-11.html"
+url: "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-11.html"
 ---
 
 Several soberer men closed around the boy, and, after disarming him, led him away grumbling and muttering, while Wile McCager made apologies to the guest.

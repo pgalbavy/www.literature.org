@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - In The Canyon"
 weight: 11
-aliases:
-  - "/authors/brown-ruth-alberta/tabithas-vacation/chapter-11.html"
+url: "/authors/brown-ruth-alberta/tabithas-vacation/chapter-11.html"
 ---
 
 The next day was Saturday, and the morning dawned so hot and sultry that almost before the old kitchen clock struck five, the restless eaglets were stirring once more.

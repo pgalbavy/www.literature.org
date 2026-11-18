@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-09.html"
+url: "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-09.html"
 ---
 
 We started to time. The baron could not complain this time. After all, I understood his impatience; a minute's delay might cause him to lose the mail boat from Tien Tsin to Japan.

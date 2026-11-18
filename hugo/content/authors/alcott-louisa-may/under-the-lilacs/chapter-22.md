@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - A Boy's Bargain"
 weight: 22
-aliases:
-  - "/authors/alcott-louisa-may/under-the-lilacs/chapter-22.html"
+url: "/authors/alcott-louisa-may/under-the-lilacs/chapter-22.html"
 ---
 
 It was some days before the children were tired of talking over Ben's birthday party; for it was a great event in their small world; but, gradually, newer pleasures came to occupy their minds, and they began to plan the nutting frolics which always followed the early frosts. While waiting for Jack to open the chestnut burrs, they varied the monotony of school life by a lively scrimmage long known as "the wood-pile fight."

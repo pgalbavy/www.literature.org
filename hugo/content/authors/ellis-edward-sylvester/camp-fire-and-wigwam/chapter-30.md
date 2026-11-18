@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - Out In The World"
 weight: 30
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-30.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-30.html"
 ---
 
 It cannot be doubted that the Indian youth intended to make an assault on Jack Carleton. He must have known of his prostrating illness and concluded that he was a much less dangerous individual than when they first met; but there was something in the flash of the captive's eye and a meaning in the act of drawing his knife part way from his girdle, which caused the young Sauk to hesitate. Evidently he concluded that much could be said for and against the prudence of opening hostilities.

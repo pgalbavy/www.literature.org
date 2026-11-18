@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - “Let Them Laugh”"
 weight: 24
-aliases:
-  - "/authors/hodgson-burnett-frances/the-secret-garden/chapter-24.html"
+url: "/authors/hodgson-burnett-frances/the-secret-garden/chapter-24.html"
 ---
 
 The secret garden was not the only one Dickon worked in. Round the cottage on the moor there was a piece of ground enclosed by a low wall of rough stones. Early in the morning and late in the fading twilight and on all the days Colin and Mary did not see him, Dickon worked there planting or tending potatoes and cabbages, turnips and carrots and herbs for his mother. In the company of his “creatures” he did wonders there and was never tired of doing them, it seemed. While he dug or weeded he whistled or sang bits of Yorkshire moor songs or talked to Soot or Captain or the brothers and sisters he had taught to help him.

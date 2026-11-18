@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Short-Circuit"
 weight: 13
-aliases:
-  - "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-13.html"
+url: "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-13.html"
 ---
 
 And at last we arrived at the old snowball guarding the open gate of the Little House and we went under its low boughs and up the walk. But we did not march to an undisputed and stealthy raid on the tea cake box above the kitchen table. The Little House was no longer the deserted scene I had left it, but was teeming with human and juvenile activities which streamed out to meet us at the door.

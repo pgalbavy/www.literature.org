@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Fred Sanders"
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-27.html"
 ---
 
 Captain Bergen was so affected by the joyful awakening to the fact that his long, dismal sojourn on the lonely island in the Pacific had reached the end at last, and by the belief that now he would be carried as rapidly as wind and sail could take him to his beloved New England again, that his mind was unsettled and he behaved in a way that pained, as much as it astonished, his companion.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - In The German Lines"
 weight: 3
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-03.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-03.html"
 ---
 
 Tarzan was not yet fully revenged. There were many millions of Germans yet alive -- enough to keep Tarzan pleasantly occupied the balance of his life, and yet not enough, should he kill them all, to recompense him for the great loss he had suffered -- nor could the death of all those million Germans bring back his loved one.

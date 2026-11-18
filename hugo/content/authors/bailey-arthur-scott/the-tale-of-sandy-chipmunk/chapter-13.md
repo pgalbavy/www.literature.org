@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Ride To The Miller's"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-13.html"
 ---
 
 Do you know about the time Johnnie Green and his grandmother and Sandy Chipmunk started for the miller's with a sack of wheat to be ground? If you never heard the story, this is the way it happened--and if you have heard it, it happened this way, just the same:

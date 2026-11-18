@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Strange Partners"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-06.html"
 ---
 
 Mr. Coyote's plan for helping him catch Ground Squirrels did not please Benny Badger in the least. Up to that time he had always had fair luck hunting alone. And he said as much to Mr. Coyote, in none too friendly a tone.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/collins-wilkie/the-haunted-hotel/chapter-11.html"
+url: "/authors/collins-wilkie/the-haunted-hotel/chapter-11.html"
 ---
 
 'Lady Montbarry, Miss.'

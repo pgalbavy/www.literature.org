@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Two In A Garden"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-13.html"
 ---
 
 Jimmy Rabbit was enjoying a few nibbles at one of Farmer Green's cabbages. He hadn't noticed that there was anybody but himself in the garden. So it startled him to hear a shrill voice cry, "Get out of our garden!"

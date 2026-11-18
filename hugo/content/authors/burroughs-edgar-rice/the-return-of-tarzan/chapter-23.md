@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Fifty Frightful Men"
 weight: 23
-aliases:
-  - "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-23.html"
+url: "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-23.html"
 ---
 
 For several long minutes Jane Porter and William Cecil Clayton stood silently looking at the dead body of the beast whose prey they had so narrowly escaped becoming.

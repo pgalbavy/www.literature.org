@@ -1,8 +1,7 @@
 ---
 title: "The Piglet, The Sheep, And The Goat"
 weight: 47
-aliases:
-  - "/authors/aesop/fables/chapter-45.html"
+url: "/authors/aesop/fables/chapter-45.html"
 ---
 
 A YOUNG PIG was shut up in a fold-yard with a Goat and a Sheep. On one occasion when the shepherd laid hold of him, he grunted and squeaked and resisted violently. The Sheep and the Goat complained of his distressing cries, saying, "He often handles us, and we do not cry out." To this the Pig replied, "Your handling and mine are very different things. He catches you only for your wool, or your milk, but he lays hold on me for my very life."

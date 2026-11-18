@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44 - The Intercepted Letter-Bag"
 weight: 46
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-44.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-44.html"
 ---
 
 "Dear Katie; —At home, you see, without having answered your last kind letter of counsel and sympathy. But I couldn't write in town, I was in such a queer state all the time. I enjoyed nothing, not even the match at Lord's, or the race; only walking at night in the square, and watching her window, and seeing her at a distance in Rotten Row."

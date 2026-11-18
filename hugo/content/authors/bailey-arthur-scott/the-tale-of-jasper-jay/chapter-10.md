@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Nutting Party"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-10.html"
 ---
 
 FOR a long time Jasper Jay had been waiting for something. It was fall; and he impatiently watched the tree-tops on the side of Blue Mountain change from their quiet summer green to hues of flaming gold and red. Though they were beautiful, to tell the truth Jasper did not in the least care what color a tree was. So long as it bore nuts, he was satisfied. And to him the turning leaves meant only that the autumn was lengthening--and the nuts were growing ripe.

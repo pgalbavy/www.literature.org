@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/coolidge-dane/the-desert-trail/chapter-10.html"
+url: "/authors/coolidge-dane/the-desert-trail/chapter-10.html"
 ---
 
 To an American, accustomed to getting things done first and talking about it afterward, there is nothing so subtly irritating as the Old World formalism, the polite evasiveness of the Mexicans; and yet, at times, they can speak to the point with the best of us.

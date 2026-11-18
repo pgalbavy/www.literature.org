@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Vb Fights"
 weight: 13
-aliases:
-  - "/authors/titus-harold/i-conquered/chapter-13.html"
+url: "/authors/titus-harold/i-conquered/chapter-13.html"
 ---
 
 Jed returned that evening, worn by a hard day's riding. He was silent. VB, too, was quiet and they spoke little until the housework was finished and Jed had drawn off his boots preparatory to turning in.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/eliot-george/brother-jacob/chapter-02.html"
+url: "/authors/eliot-george/brother-jacob/chapter-02.html"
 ---
 
 It was nearly six years after the departure of Mr. David Faux for the West Indies, that the vacant shop in the marketplace at Grimworth was understood to have been let to the stranger with a sallow complexion and a buff cravat, whose first appearance had caused some excitement in the bar of the Woolpack, where he had called to wait for the coach.

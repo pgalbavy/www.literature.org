@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 36
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-36.html"
+url: "/authors/london-jack/martin-eden/chapter-36.html"
 ---
 
 "Come on, - I'll show you the real dirt," Brissenden said to him, one evening in January.

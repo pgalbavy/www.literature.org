@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - In The Temple"
 weight: 23
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-22.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-22.html"
 ---
 
 The hatch above them opened. A bestial Chinese face, grinning cruelly, appeared in it.

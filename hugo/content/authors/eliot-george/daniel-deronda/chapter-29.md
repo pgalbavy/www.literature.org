@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-29.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-29.html"
 ---
 
 "Surely whoever speaks to me in the right voice, him or her I shall follow. As the water follows the moon, silently, with fluid steps anywhere around the globe." - WALT WHITMAN.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Desperation"
 weight: 4
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-04.html"
+url: "/authors/tarkington-booth/penrod/chapter-04.html"
 ---
 
 The Child Sir Lancelot found himself in a large anteroom behind the stage—a room crowded with excited children, all about equally medieval and artistic. Penrod was less conspicuous than he thought himself, but he was so preoccupied with his own shame, steeling his nerves to meet the first inevitable taunting reference to his sister's stockings, that he failed to perceive there were others present in much of his own unmanned condition. Retiring to a corner, immediately upon his entrance, he managed to unfasten the mantle at the shoulders, and, drawing it round him, pinned it again at his throat so that it concealed the rest of his costume. This permitted a temporary relief, but increased his horror of the moment when, in pursuance of the action of the "pageant," the sheltering garment must be cast aside.

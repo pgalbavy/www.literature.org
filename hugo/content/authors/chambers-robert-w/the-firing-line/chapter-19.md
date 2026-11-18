@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Line Of Battle"
 weight: 19
-aliases:
-  - "/authors/chambers-robert-w/the-firing-line/chapter-19.html"
+url: "/authors/chambers-robert-w/the-firing-line/chapter-19.html"
 ---
 
 Portlaw's camp in the southern foot-hills of the Adirondacks was as much a real camp as the pretentious constructions at Newport are real cottages. A modesty, akin to smugness, designates them all with Heep-like humbleness under a nomenclature now tolerated through usage; and, from the photographs sent him, Hamil was very much disgusted to find a big, handsome two-story house, solidly constructed of timber and native stone, dominating a clearing in the woods, and distantly flanked by the superintendent's pretty cottage, the guides' quarters, stables, kennels, coach-houses, and hothouses with various auxiliary buildings still farther away within the sombre circle of the surrounding pines.

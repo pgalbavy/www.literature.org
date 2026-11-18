@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-20.html"
+url: "/authors/eliot-george/middlemarch/chapter-20.html"
 ---
 
 "A child forsaken, waking suddenly, Whose gaze afeard on all things round doth rove, And seeth only that it cannot see The meeting eyes of love."

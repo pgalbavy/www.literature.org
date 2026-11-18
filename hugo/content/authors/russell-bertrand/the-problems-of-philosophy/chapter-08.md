@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - How A Priori Knowledge Is Possible"
 weight: 9
-aliases:
-  - "/authors/russell-bertrand/the-problems-of-philosophy/chapter-08.html"
+url: "/authors/russell-bertrand/the-problems-of-philosophy/chapter-08.html"
 ---
 
 Immanuel Kant is generally regarded as the greatest of the modern philosophers. Though he lived through the Seven Years War and the French Revolution, he never interrupted his teaching of philosophy at Königsberg in East Prussia. His most distinctive contribution was the invention of what he called the 'critical' philosophy, which, assuming as a datum that there is knowledge of various kinds, inquired how such knowledge comes to be possible, and deduced, from the answer to this inquiry, many metaphysical results as to the nature of the world. Whether these results were valid may well be doubted. But Kant undoubtedly deserves credit for two things: first, for having perceived that we have *a priori* knowledge which is not purely 'analytic', i.e. such that the opposite would be self-contradictory, and secondly, for having made evident the philosophical importance of the theory of knowledge.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/nesbit-edith/the-enchanted-castle/chapter-05.html"
+url: "/authors/nesbit-edith/the-enchanted-castle/chapter-05.html"
 ---
 
 "*SEARCH* and research proving vain," said Gerald, when every corner of the bedroom had been turned out and the ring had not been found, "the noble detective hero of our tale remarked that he would have other fish to fry in half a jiff, and if the rest of you want to hear about last night...."

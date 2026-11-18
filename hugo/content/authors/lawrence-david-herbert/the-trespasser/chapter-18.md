@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-18.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-18.html"
 ---
 
 Siegmund had shaved and dressed, and come down to breakfast. Mrs Curtiss brought in the coffee. She was a fragile little woman, of delicate, gentle manner.

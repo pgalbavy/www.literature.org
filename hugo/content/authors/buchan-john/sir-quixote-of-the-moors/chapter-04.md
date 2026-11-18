@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Of My Coming To Lindean"
 weight: 5
-aliases:
-  - "/authors/buchan-john/sir-quixote-of-the-moors/chapter-04.html"
+url: "/authors/buchan-john/sir-quixote-of-the-moors/chapter-04.html"
 ---
 
 When I came to myself I was lying in a pleasant room with a great flood of sunlight drifting through the window. My brain was so confused that it was many minutes ere I could guess in which part of the earth I was laid. My first thought was that I was back in France, and I rejoiced with a great gladness; but as my wits cleared the past came back by degrees, till I had it plain before me, from my setting-out to my fainting at the door. Clearly I was in the house where I had arrived on the even of yesterday.

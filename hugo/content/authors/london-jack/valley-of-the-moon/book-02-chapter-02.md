@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 2"
 weight: 17
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-02-chapter-02.html"
+url: "/authors/london-jack/valley-of-the-moon/book-02-chapter-02.html"
 ---
 
 Despite the fastidiousness of her housekeeping, Saxon, once she had systematized it, found time and to spare on her hands. Especially during the periods in which her husband carried his lunch and there was no midday meal to prepare, she had a number of hours each day to herself. Trained for years to the routine of factory and laundry work, she could not abide this unaccustomed idleness. She could not bear to sit and do nothing, while she could not pay calls on her girlhood friends, for they still worked in factory and laundry. Nor was she acquainted with the wives of the neighborhood, save for one strange old woman who lived in the house next door and with whom Saxon had exchanged snatches of conversation over the backyard division fence.

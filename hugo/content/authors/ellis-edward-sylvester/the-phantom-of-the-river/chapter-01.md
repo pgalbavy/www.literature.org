@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Longing For Night"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-01.html"
 ---
 
 "I think there's trouble ahead, Dan'l."

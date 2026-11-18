@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/ridge-w-pett/the-amazing-years/chapter-04.html"
+url: "/authors/ridge-w-pett/the-amazing-years/chapter-04.html"
 ---
 
 It was all very well to accept the compliments that Mr. Hillier had paid me, but as a matter of fact, whether a ray of sunshine, or a mascot, or a sheet anchor, I felt as much disturbed by all that was going on out in Belgium and France as anybody; if I woke up at night, I was so anxious and depressed about it that I could not get to sleep again. Looking back, it is possible to see how greatly one was helped by the milkman's Russians. He never wavered from his first announcement, and I am sure that at the present time he is confident he was right, and official statements were wrong. Indeed, one was receptive for any encouraging news at a time when a journal, on a beautifully bright and summer-like Sunday, gave the question on its poster, "Can the British Army be Saved?" and the thick black line on the daily war maps bent lower and lower in the direction of Paris. And at the fishmonger's, plaice was a shilling a pound. I tried to bargain with the man, and he said bitterly that I could take it or leave it, or, if I knew how, do both. Belgians were coming over, he added, in their thousands, bringing no money, and we should have to keep them. In a short time, he prophesied, the French people would arrive.

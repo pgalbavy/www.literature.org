@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Farmer Brown's Boy And Buster Bear Grow Curious"
 weight: 13
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-14.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-14.html"
 ---
 
 Ever since it was light enough to see at all, Blacky the Crow had been sitting in the top of the tallest tree on the edge of the Green Forest nearest to Farmer Brown's house, and never for an instant had he taken his eyes from Farmer Brown's back door. What was he watching for? Why, for Farmer Brown's boy to come out on his way to milk the cows. Meanwhile, Sammy Jay was slipping silently through the Green Forest, looking for Buster Bear, so that when the time came he could let his cousin, Blacky the Crow, know just where Buster was.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Companion Of Many Trails"
 weight: 17
-aliases:
-  - "/authors/williams-frank/the-wilderness-trail/chapter-17.html"
+url: "/authors/williams-frank/the-wilderness-trail/chapter-17.html"
 ---
 
 Into the minds and hearts of the folk who live their lives in the wild, there are bred certain animal traits. The good trapper learns that, like rabbit or bob-cat, he must be able to freeze into statuesque immobility at the sudden appearance of danger. Nature, who does her best to protect her children, sees to it that the trapper's costume soon resembles nothing so much as a hoary tree-trunk. And the men who tramp the wild gradually assimilate the silent, furtive ways of the intelligent forest folk. The wounded caribou drags himself to some inaccessible thicket, there either to gain back strength or die unobserved and alone. Sickness and feebleness are the only inexcusable faults of wild animal life, and offer sufficient reason for death if hunger is fierce. Unconsciously, Donald McTavish had absorbed the trait of mute sufferings from his years in the heart of nature. Not only had he absorbed it, but it had been handed down to him through generations of wilderness-loving McTavishes; it was part of his blood, just as the hatred of wolves as destroyers of fur-bearing game was part of it.

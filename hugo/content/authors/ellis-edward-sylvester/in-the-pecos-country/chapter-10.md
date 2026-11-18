@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Two Old Enemies"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-10.html"
 ---
 
 Lone Wolf recognized the taunt of his old enemy, and his black eye lit up with a gleam of fire and passion. He would not turn his back upon his white foe, who had just sent a bullet in quest of his heart. He would accept the gage of battle, and end his personal warfare of years. But, like all Indians, the chieftain was the personification of treachery, without a particle of chivalry or manhood, and when he resolved upon his attempt to destroy the frontiersman, it was without any regard for the fairness of the means which he should employ.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/woolf-virginia/the-voyage-out/chapter-11.html"
+url: "/authors/woolf-virginia/the-voyage-out/chapter-11.html"
 ---
 
 One after another they rose and stretched themselves, and in a few minutes divided more or less into two separate parties. One of these parties was dominated by Hughling Elliot and Mrs. Thornbury, who, having both read the same books and considered the same questions, were now anxious to name the places beneath them and to hang upon them stores of information about navies and armies, political parties, natives and mineral products—all of which combined, they said, to prove that South America was the country of the future.

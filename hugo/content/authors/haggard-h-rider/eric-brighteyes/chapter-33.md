@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - How Eric And Skallagrim Fought Their Last Great Fight"
 weight: 34
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-33.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-33.html"
 ---
 
 Now the thrall and those with him on the crest of the fell heard the murmur of the company of Gizur and Swanhild as they won the mountain side, though they could not see them because of the rocks.

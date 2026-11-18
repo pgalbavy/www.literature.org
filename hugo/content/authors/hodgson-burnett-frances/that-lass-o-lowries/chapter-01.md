@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Difficult Case"
 weight: 1
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-01.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-01.html"
 ---
 
 They did not look like women, or at least a stranger new to the district might easily have been misled by their appearance, as they stood together in a group, by the pit's mouth. There were about a dozen of them there--all “pit-girls,” as they were called; women who wore a dress more than half masculine, and who talked loudly and laughed discordantly, and some of whom, God knows, had faces as hard and brutal as the hardest of their collier brothers and husbands and sweethearts. They had lived among the coal-pits, and had worked early and late at the “mouth,” ever since they had been old enough to take part in the heavy labor. It was not to be wondered at that they had lost all bloom of womanly modesty and gentleness. Their mothers had been “pit-girls” in their time, their grandmothers in theirs; they had been born in coarse homes; they had fared hardly, and worked hard; they had breathed in the dust and grime of coal, and, somehow or other, it seemed to stick to them and reveal itself in their natures as it did in their bold unwashed faces. At first one shrank from them, but one's shrinking could not fail to change to pity. There was no element of softness to rule or even influence them in their half savage existence.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - A Bad Blunder"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-12.html"
 ---
 
 When it was almost dark Grandaddy Beaver swam across the pond to the big rock, where Ferdinand Frog had told him to come.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 45"
 weight: 46
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-45.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-45.html"
 ---
 
 Well, Halford, what do you think of all this? and while you read it, did you ever picture to yourself what my feelings would probably be during its perusal? Most likely not; but I am not going to descant upon them now: I will only make this acknowledgment, little honourable as it may be to human nature, and especially to myself, - that the former half of the narrative was, to me, more painful than the latter, not that I was at all insensible to Mrs. Huntingdon's wrongs or unmoved by her sufferings, but, I must confess, I felt a kind of selfish gratification in watching her husband's gradual decline in her good graces, and seeing how completely he extinguished all her affection at last. The effect of the whole, however, in spite of all my sympathy for her, and my fury against him, was to relieve my mind of an intolerable burden, and fill my heart with joy, as if some friend had roused me from a dreadful nightmare.

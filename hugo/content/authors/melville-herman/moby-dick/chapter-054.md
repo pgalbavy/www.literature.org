@@ -1,8 +1,7 @@
 ---
 title: "Chapter 54 - The Town-Ho's Story"
 weight: 54
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-054.html"
+url: "/authors/melville-herman/moby-dick/chapter-054.html"
 ---
 
 (As told at the Golden Inn)

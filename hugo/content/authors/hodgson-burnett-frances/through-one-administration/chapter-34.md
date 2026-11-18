@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 34
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-34.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-34.html"
 ---
 
 Bertha had spent the greater part of the day with her children, as she had spent part of many days lately. She had gone up to the nursery after breakfast to see Jack and Janey at their lessons, and had remained with them and given herself up to their entertainment. She was not well; the weather was bad; she might give herself a holiday, and she would spend it in her own way, in the one refuge which never failed her.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - What Frightened Nellie"
 weight: 35
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-35.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-35.html"
 ---
 
 Nick Ribsam thought not of himself, in his anxiety for his sister. He had left her but a few brief minutes before, sitting on the shore of the lake, and now when he returned she was missing.

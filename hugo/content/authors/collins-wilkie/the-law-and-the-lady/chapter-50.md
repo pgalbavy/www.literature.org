@@ -1,8 +1,7 @@
 ---
 title: "Chapter 50 - The Last Of The Story"
 weight: 50
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-50.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-50.html"
 ---
 
 In ten days more we returned to England, accompanied by Benjamin.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - On The Yukon"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-11.html"
 ---
 
 Jeff Graham looked inquiringly at Tim McCabe, who nodded his head by way of reply. At the same time he said something to Hardman, and all three rose to their feet. Then the poles were plied with an effect that speedily drove the raft against the bank, where Tim sprang ashore and secured it. Brave and reckless as was the fellow, he had no intention of trying to take the boat through the exceedingly dangerous White Horse Rapids, but he could not refuse the chance for a little amusement at the expense of his young friends.

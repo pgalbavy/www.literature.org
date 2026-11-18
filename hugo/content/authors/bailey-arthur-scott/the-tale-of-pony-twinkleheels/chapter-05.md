@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Flying Feet"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-05.html"
 ---
 
 When July brought hot, dry weather and the grass became short in the pasture Johnnie Green no longer turned Twinkleheels out to graze. He kept him in a stall in the barn and fed him oats and hay three times a day.

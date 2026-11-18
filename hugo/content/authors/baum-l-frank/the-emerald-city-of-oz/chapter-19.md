@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 20
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-19.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-19.html"
 ---
 
 Dorothy left Bunbury the same way she had entered it and when they were in the forest again she said to Billina:

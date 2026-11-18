@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Parbury-Ribeira-Altenheim"
 weight: 8
-aliases:
-  - "/authors/leblanc-maurice/813/chapter-07.html"
+url: "/authors/leblanc-maurice/813/chapter-07.html"
 ---
 
 The girls were playing in the garden, under the supervision of Mlle. Charlotte, Geneviève's new assistant. Mme. Ernemont came out, distributed some cakes among them and then went back to the room which served as a drawing-room and parlor in one, sat down before a writing-desk and began to arrange her papers and account-books.

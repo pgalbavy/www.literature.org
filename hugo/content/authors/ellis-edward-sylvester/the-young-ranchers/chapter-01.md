@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Danger Ahead"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-01.html"
 ---
 
 There was snow in the air. Warren Starr had felt it ever since meridian, though not a flake had fallen, and the storm might be delayed for hours yet to come. There was no mistaking the dull leaden sky, the chill in the atmosphere, and that dark, increasing gloom which overspreads the heavens at such times.

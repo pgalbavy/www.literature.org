@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/conrad-joseph/gaspar-ruiz/chapter-12.html"
+url: "/authors/conrad-joseph/gaspar-ruiz/chapter-12.html"
 ---
 
 "*BUT* Gaspar Ruiz breathed yet. I had him carried in his poncho under the shelter of some bushes on the very ridge from which he had been gazing so fixedly at the fort while unseen death was hovering already over his head.

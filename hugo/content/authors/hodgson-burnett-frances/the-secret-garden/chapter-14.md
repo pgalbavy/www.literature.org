@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Young Rajah"
 weight: 14
-aliases:
-  - "/authors/hodgson-burnett-frances/the-secret-garden/chapter-14.html"
+url: "/authors/hodgson-burnett-frances/the-secret-garden/chapter-14.html"
 ---
 
 The moor was hidden in mist when the morning came, and the rain had not stopped pouring down. There could be no going out of doors. Martha was so busy that Mary had no opportunity of talking to her, but in the afternoon she asked her to come and sit with her in the nursery. She came bringing the stocking she was always knitting when she was doing nothing else.

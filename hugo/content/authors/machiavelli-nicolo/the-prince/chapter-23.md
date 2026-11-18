@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - How Flatterers Should Be Avoided"
 weight: 24
-aliases:
-  - "/authors/machiavelli-nicolo/the-prince/chapter-23.html"
+url: "/authors/machiavelli-nicolo/the-prince/chapter-23.html"
 ---
 
 I do not wish to leave out an important branch of this subject, for it is a danger from which princes are with difficulty preserved, unless they are very careful and discriminating. It is that of flatterers, of whom courts are full, because men are so self-complacent in their own affairs, and in a way so deceived in them, that they are preserved with difficulty from this pest, and if they wish to defend themselves they run the danger of falling into contempt. Because there is no other way of guarding oneself from flatterers except letting men understand that to tell you the truth does not offend you; but when every one may tell you the truth, respect for you abates.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 84"
 weight: 84
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-84.html"
+url: "/authors/eliot-george/middlemarch/chapter-84.html"
 ---
 
 "Though it be songe of old and yonge, That I sholde be to blame, Theyrs be the charge, that spoke so large In hurtynge of my name." - The Not-Browne Mayde.

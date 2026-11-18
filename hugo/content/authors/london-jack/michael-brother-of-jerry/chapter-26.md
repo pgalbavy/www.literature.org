@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 27
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-26.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-26.html"
 ---
 
 Number Eighteen was a big compartment or cage in the dog row, large enough with due comfort for a dozen Irish terriers like Michael. For Harris Collins was scientific. Dogs on vacation, boarding at the Cedarwild Animal School, were given every opportunity to recuperate from the hardships and wear and tear of from six months to a year and more on the road. It was for this reason that the school was so popular a boarding-place for performing animals when the owners were on vacation or out of "time." Harris Collins kept his animals clean and comfortable and guarded from germ diseases. In short, he renovated them against their next trips out on vaudeville time or circus engagement.

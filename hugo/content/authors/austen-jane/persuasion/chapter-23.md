@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/austen-jane/persuasion/chapter-23.html"
+url: "/authors/austen-jane/persuasion/chapter-23.html"
 ---
 
 One day only had passed since Anne's conversation with Mrs Smith; but a keener interest had succeeded, and she was now so little touched by Mr Elliot's conduct, except by its effects in one quarter, that it became a matter of course the next morning, still to defer her explanatory visit in Rivers Street. She had promised to be with the Musgroves from breakfast to dinner. Her faith was plighted, and Mr Elliot's character, like the Sultaness Scheherazade's head, must live another day.

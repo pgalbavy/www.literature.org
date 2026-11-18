@@ -1,8 +1,7 @@
 ---
 title: "Book 9 - Chapter 12"
 weight: 179
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-09-chapter-12.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-09-chapter-12.html"
 ---
 
 Before the beginning of the campaign, Rostov had received a letter from his parents in which they told him briefly of Natasha's illness and the breaking off of her engagement to Prince Andrew (which they explained by Natasha's having rejected him) and again asked Nicholas to retire from the army and return home. On receiving this letter, Nicholas did not even make any attempt to get leave of absence or to retire from the army, but wrote to his parents that he was sorry Natasha was ill and her engagement broken off, and that he would do all he could to meet their wishes. To Sonya he wrote separately.

@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 1 - The Eve of the War"
 weight: 1
-aliases:
-  - "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-01.html"
+url: "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-01.html"
 ---
 
 But who shall dwell in these worlds if they be inhabited? . . . Are we or they Lords of the World? . . . And how are all things made for man?-- KEPLER (quoted in The Anatomy of Melancholy)

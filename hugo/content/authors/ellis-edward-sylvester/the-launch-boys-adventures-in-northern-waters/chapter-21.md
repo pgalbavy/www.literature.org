@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - How It Was Done"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-21.html"
 ---
 
 The attempt to rob the safe in the Beartown post office was accompanied by more than one unique incident. Chief among these was the cowardice exhibited by two of the three members who composed the little band of lawbreakers.

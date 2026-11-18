@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Mrs. Ellmother"
 weight: 12
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-12.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-12.html"
 ---
 
 The metropolis of Great Britain is, in certain respects, like no other metropolis on the face of the earth. In the population that throngs the st reets, the extremes of Wealth and the extremes of Poverty meet, as they meet nowhere else. In the streets themselves, the glory and the shame of architecture--the mansion and the hovel--are neighbors in situation, as they are neighbors nowhere else. London, in its social aspect, is the city of contrasts.

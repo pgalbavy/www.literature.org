@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 7"
 weight: 24
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-03-chapter-07.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-03-chapter-07.html"
 ---
 
 The author leaves Lagado: arrives at Maldonada. No ship ready. He takes a short voyage to Glubbdubdrib. His reception by the governor.

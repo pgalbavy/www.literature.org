@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Captain Bill Buys A Horse"
 weight: 4
-aliases:
-  - "/authors/greene-homer/a-tale-of-the-towpath/chapter-04.html"
+url: "/authors/greene-homer/a-tale-of-the-towpath/chapter-04.html"
 ---
 
 It was a cold, rainy, and impenetrably dark night on the tow-path. Here and there was a lantern, which, when passed, seemed only to deepen the darkness.

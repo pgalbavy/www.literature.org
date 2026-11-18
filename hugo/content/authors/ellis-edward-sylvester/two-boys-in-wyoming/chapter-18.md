@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Quest Of The Cowman"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-18.html"
 ---
 
 It was Hank Hazletine, the cowman, who leaped over the head of Jack Dudley when he was crouching on the rock in the canyon, and it happened in this way:

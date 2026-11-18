@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - On Induction"
 weight: 7
-aliases:
-  - "/authors/russell-bertrand/the-problems-of-philosophy/chapter-06.html"
+url: "/authors/russell-bertrand/the-problems-of-philosophy/chapter-06.html"
 ---
 
 In almost all our previous discussions we have been concerned in the attempt to get clear as to our data in the way of knowledge of existence. What things are there in the universe whose existence is known to us owing to our being acquainted with them? So far, our answer has been that we are acquainted with our sense-data, and, probably, with ourselves. These we know to exist. And past sense-data which are remembered are known to have existed in the past. This knowledge supplies our data.

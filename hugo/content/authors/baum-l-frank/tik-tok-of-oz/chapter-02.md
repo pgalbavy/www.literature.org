@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/baum-l-frank/tik-tok-of-oz/chapter-02.html"
+url: "/authors/baum-l-frank/tik-tok-of-oz/chapter-02.html"
 ---
 
 Three days later the Grand Army of Oogaboo assembled in the square in front of the royal palace. The sixteen officers were attired in gorgeous uniforms and carried sharp, glittering swords. The Private had picked his gun and, although it was not a very big weapon, Files tried to look fierce and succeeded so well that all his commanding officers were secretly afraid of him.

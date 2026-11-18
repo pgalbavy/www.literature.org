@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The White Ape"
 weight: 5
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-05.html"
+url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-05.html"
 ---
 
 Tenderly Kala nursed her little waif, wondering silently why it did not gain strength and agility as did the little apes of other mothers. It was nearly a year from the time the little fellow came into her possession before he would walk alone, and as for climbing--my, but how stupid he was!

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Reward Well Earned"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/a-young-hero/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/a-young-hero/chapter-11.html"
 ---
 
 The smoke-house attached to the Perkinpine mansion, as we have already said, was made of bricks, and was a strong, massive structure. Although originally used for a building in which meat was cured, it had been adapted to the purposes of a milk store-house. A stream of water ran through one side and the milk and fresh meats were kept there so long as it was possible during the summer weather.

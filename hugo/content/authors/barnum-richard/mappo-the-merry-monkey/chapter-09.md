@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Mappo Runs Away"
 weight: 9
-aliases:
-  - "/authors/barnum-richard/mappo-the-merry-monkey/chapter-09.html"
+url: "/authors/barnum-richard/mappo-the-merry-monkey/chapter-09.html"
 ---
 
 Mappo was so surprised, as he felt himself fairly flying through the paper hoop, that he did not know exactly what was happening.

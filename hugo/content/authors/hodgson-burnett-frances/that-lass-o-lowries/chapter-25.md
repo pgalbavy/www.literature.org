@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Old Danger"
 weight: 25
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-25.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-25.html"
 ---
 
 It had been some time since Derrick on his nightly walks homeward had been conscious of the presence of the silent figure; but the very night after the occurrence narrated in the last chapter, he was startled at his first turning into the Knoll Road by recognizing Joan.

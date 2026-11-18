@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Cone"
 weight: 4
-aliases:
-  - "/authors/wells-herbert-george/the-door-in-the-wall/chapter-04.html"
+url: "/authors/wells-herbert-george/the-door-in-the-wall/chapter-04.html"
 ---
 
 The night was hot and overcast, the sky red, rimmed with the lingering sunset of mid-summer. They sat at the open window, trying to fancy the air was fresher there. The trees and shrubs of the garden stood stiff and dark; beyond in the roadway a gas- lamp burnt, bright orange against the hazy blue of the evening. Farther were the three lights of the railway signal against the lowering sky. The man and woman spoke to one another in low tones.

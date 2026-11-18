@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Peter Pan"
 weight: 14
-aliases:
-  - "/authors/barrie-james-matthew/the-little-white-bird/chapter-14.html"
+url: "/authors/barrie-james-matthew/the-little-white-bird/chapter-14.html"
 ---
 
 If you ask your mother whether she knew about Peter Pan when she was a little girl she will say, "Why, of course, I did, child," and if you ask her whether he rode on a goat in those days she will say, "What a foolish question to ask; certainly he did." Then if you ask your grandmother whether she knew about Peter Pan when she was a girl, she also says, "Why, of course, I did, child," but if you ask her whether he rode on a goat in those days, she says she never heard of his having a goat. Perhaps she has forgotten, just as she sometimes forgets your name and calls you Mildred, which is your mother's name. Still, she could hardly forget such an important thing as the goat. Therefore there was no goat when your grandmother was a little girl. This shows that, in telling the story of Peter Pan, to begin with the goat (as most people do) is as silly as to put on your jacket before your vest.

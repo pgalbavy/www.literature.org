@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The End Of It All"
 weight: 24
-aliases:
-  - "/authors/coolidge-dane/hidden-water/chapter-24.html"
+url: "/authors/coolidge-dane/hidden-water/chapter-24.html"
 ---
 
 There is a mocking-bird at Hidden Water that sings the songs of all the birds and whistles for the dog. His nest is in a great cluster of mistletoe in the mesquite tree behind the house and every morning he polishes his long curved bill against the ramada roof, preens out his glossy feathers, and does honor to the sun. For two years, off and on, Hardy had heard him, mimicking orioles and larks and sparrows and whistling shrilly for the dog, but now for the first time his heart answered to the wild joy of the bird lover. The world had taken on light and color over night, and the breeze, sifting in through the barred window, was sweet with the fragrance of untrampled flowers.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Gentleman Geoff's Billie"
 weight: 1
-aliases:
-  - "/authors/ostrander-isabel/the-fifth-ace/chapter-01.html"
+url: "/authors/ostrander-isabel/the-fifth-ace/chapter-01.html"
 ---
 
 Kearn Thode mounted his pinto and rode out of the courtyard of the Baggott Hotel and down the Calle Rivera under a seething tropic sun. Limasito's principal street was well-nigh deserted in the lethargy of the noon-day siesta, but the flower-market was a riotous blaze of color in the glistening white plaza, from which radiated broad vistas of fantastically painted adobe and soberer concrete, ending in a soft green blur.

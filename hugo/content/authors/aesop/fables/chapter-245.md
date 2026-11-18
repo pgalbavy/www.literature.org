@@ -1,8 +1,7 @@
 ---
 title: "The Ass In The Lion's Skin"
 weight: 247
-aliases:
-  - "/authors/aesop/fables/chapter-245.html"
+url: "/authors/aesop/fables/chapter-245.html"
 ---
 
 AN ASS, having put on the Lion's skin, roamed about in the forest and amused himself by frightening all the foolish animals he met in his wanderings. At last coming upon a Fox, he tried to frighten him also, but the Fox no sooner heard the sound of his voice than he exclaimed, "I might possibly have been frightened myself, if I had not heard your bray."

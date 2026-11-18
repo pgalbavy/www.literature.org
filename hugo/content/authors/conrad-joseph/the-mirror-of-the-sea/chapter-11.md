@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-11.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-11.html"
 ---
 
 Indeed, it is less than nothing, and I have seen, when the great soul of the world turned over with a heavy sigh, a perfectly new, extra-stout foresail vanish like a bit of some airy stuff much lighter than gossamer. Then was the time for the tall spars to stand fast in the great uproar. The machinery must do its work even if the soul of the world has gone mad.

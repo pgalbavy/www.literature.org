@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - The Elves And The Shoemaker"
 weight: 35
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-35.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-35.html"
 ---
 
 There was once a shoemaker, who worked very hard and was very honest: but still he could not earn enough to live upon; and at last all he had in the world was gone, save just leather enough to make one pair of shoes.

@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 2 - The Grindstone"
 weight: 32
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-02.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-02.html"
 ---
 
 TELLSON'S BANK, established in the Saint Germain Quarter of Paris, was in a wing of a large house, approached by a courtyard and shut off from the street by a high wall and a strong gate. The house belonged to a great nobleman who had lived in it until he made a flight from the troubles, in his own cook's dress, and got across the borders. A mere beast of the chase flying from hunters, he was still in his metempsychosis no other than the same Monseigneur, the preparation of whose chocolate for whose lips had once occupied three strong men besides the cook in question.

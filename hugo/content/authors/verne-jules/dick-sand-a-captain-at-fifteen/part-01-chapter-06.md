@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 6 - A Whale In Sight"
 weight: 6
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-06.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-06.html"
 ---
 
 It will be remembered that this singular incident was made, more than once, the subject of conversation held in the stern of the "Pilgrim" between Mrs. Weldon, Captain Hull, and the young novice. The latter, more particularly, experienced an instinctive mistrust with regard to Negoro, whose conduct, meanwhile, merited no reproach.

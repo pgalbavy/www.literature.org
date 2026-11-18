@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-14.html"
+url: "/authors/chambers-robert-w/athalie/chapter-14.html"
 ---
 
 In her letters Athalie never mentioned Captain Dane; not because she had anything to conceal regarding him or herself; but she seemed to be aware that any mention of that friendship might not evoke a sympathetic response from Clive.

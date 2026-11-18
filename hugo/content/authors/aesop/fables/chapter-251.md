@@ -1,8 +1,7 @@
 ---
 title: "The Fox And The Crane"
 weight: 253
-aliases:
-  - "/authors/aesop/fables/chapter-251.html"
+url: "/authors/aesop/fables/chapter-251.html"
 ---
 
 A FOX invited a Crane to supper and provided nothing for his entertainment but some soup made of pulse, which was poured out into a broad flat stone dish. The soup fell out of the long bill of the Crane at every mouthful, and his vexation at not being able to eat afforded the Fox much amusement. The Crane, in his turn, asked the Fox to sup with him, and set before her a flagon with a long narrow mouth, so that he could easily insert his neck and enjoy its contents at his leisure. The Fox, unable even to taste it, met with a fitting requital, after the fashion of her own hospitality.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Twelve Dancing Princesses"
 weight: 9
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-09.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-09.html"
 ---
 
 There was a king who had twelve beautiful daughters. They slept in twelve beds all in one room; and when they went to bed, the doors were shut and locked up; but every morning their shoes were found to be quite worn through as if they had been danced in all night; and yet nobody could find out how it happened, or where they had been.

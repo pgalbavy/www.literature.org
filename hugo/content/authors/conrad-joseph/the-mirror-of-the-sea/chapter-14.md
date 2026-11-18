@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-14.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-14.html"
 ---
 
 The sailing-ship, when I knew her in her days of perfection, was a sensible creature. When I say her days of perfection, I mean perfection of build, gear, seaworthy qualities and ease of handling, not the perfection of speed. That quality has departed with the change of building material. No iron ship of yesterday ever attained the marvels of speed which the seamanship of men famous in their time had obtained from their wooden, copper-sheeted predecessors. Everything had been done to make the iron ship perfect, but no wit of man had managed to devise an efficient coating composition to keep her bottom clean with the smooth cleanness of yellow metal sheeting. After a spell of a few weeks at sea, an iron ship begins to lag as if she had grown tired too soon. It is only her bottom that is getting foul. A very little affects the speed of an iron ship which is not driven on by a merciless propeller. Often it is impossible to tell what inconsiderate trifle puts her off her stride. A certain mysteriousness hangs around the quality of speed as it was displayed by the old sailing-ships commanded by a competent seaman. In those days the speed depended upon the seaman; therefore, apart from the laws, rules, and regulations for the good preservation of his cargo, he was careful of his loading,—or what is technically called the trim of his ship. Some ships sailed fast on an even keel, others had to be trimmed quite one foot by the stern, and I have heard of a ship that gave her best speed on a wind when so loaded as to float a couple of inches by the head.

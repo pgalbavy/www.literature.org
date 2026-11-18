@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Just A Notion"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-21.html"
 ---
 
 IN common with all the other youngsters that went to school in the little red school-house, Johnnie Green thought that Daddy Longlegs and every one of his relations had a strange power.

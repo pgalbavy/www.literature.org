@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - On The River"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-10.html"
 ---
 
 After the unceremonious flight of Mr. Perkins, the whites gathered around the Mohawk and expressed a fear that their little joke had resulted in the loss of the boat which the frightened settler was about to place in their possession. But the Indian assured them there was no loss on that account, as he knew the precise point where, if there was any boat within reach, it would be found. He proved the truth of what he said by leading them to the shore of the river, where, sure enough, the very thing for which they were looking was discovered.

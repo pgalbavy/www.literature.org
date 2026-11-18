@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 33
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-33.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-33.html"
 ---
 
 One might have counted ten while the picture held with no other sound than the breathing of two men and the strident clamour of a blue-jay in a hickory sapling.

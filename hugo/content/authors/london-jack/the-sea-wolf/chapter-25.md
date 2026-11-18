@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-25.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-25.html"
 ---
 
 "You've been on deck, Mr. Van Weyden," Wolf Larsen said, the following morning at the breakfast-table, "How do things look?"

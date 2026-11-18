@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Rising Star"
 weight: 19
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-18.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-18.html"
 ---
 
 As might be expected, the memorable case of Parsons and Douse proved to be the turning point in Geoffrey’s career, which was thenceforward one of brilliant and startling success. On the very next morning when he reached his chambers it was to find three heavy briefs awaiting him, and they proved to be but the heralds of an uninterrupted flow of lucrative business. Of course, he was not a Queen’s Counsel, but now that his great natural powers of advocacy had become generally known, solicitors frequently employed him alone, or gave him another junior, so that he might bring those powers to bear upon juries. Now it was, too, that Geoffrey reaped the fruits of the arduous legal studies which he had followed without cessation from the time when he found himself thrown upon his own resources, and which had made a sound lawyer of him as well as a brilliant and effective advocate. Soon, even with his great capacity for work, he had as much business as he could attend to. When fortune gives good gifts, she generally does so with a lavish hand.

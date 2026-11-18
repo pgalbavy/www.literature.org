@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/conrad-joseph/end-of-the-tether/chapter-07.html"
+url: "/authors/conrad-joseph/end-of-the-tether/chapter-07.html"
 ---
 
 Sterne went down smirking and apparently not at all disconcerted, but the engineer Massy remained on the bridge, moving about with uneasy self-assertion. Everybody on board was his inferior—everyone without exception. He paid their wages and found them in their food. They ate more of his bread and pocketed more of his money than they were worth; and they had no care in the world, while he alone had to meet all the difficulties of shipowning. When he contemplated his position in all its menacing entirety, it seemed to him that he had been for years the prey of a band of parasites: and for years he had scowled at everybody connected with the Sofala except, perhaps, at the Chinese firemen who served to get her along. Their use was manifest: they were an indispensable part of the machinery of which he was the master.

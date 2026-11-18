@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-12.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-12.html"
 ---
 
 Siegmund made a great effort to keep the control of his body. The hill-side, the gorse, when he stood up, seemed to have fallen back into shadowed vagueness about him. They were meaningless dark heaps at some distance, very great, it seemed.

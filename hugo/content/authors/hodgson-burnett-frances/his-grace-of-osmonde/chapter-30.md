@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - On Tyburn Hill"
 weight: 31
-aliases:
-  - "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-30.html"
+url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-30.html"
 ---
 
 There was none knew her as her husband did--none in the world--though so many were her friends and worshippers. As he loved her he knew her, the passion of his noble heart giving him clearer and more watchful eyes than any other. Truth was, indeed, that she herself did not know how much he saw and pondered on and how tender his watch upon her was.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Spoiling A Game"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-16.html"
 ---
 
 Though the owl left him in such a rude fashion, Benny Badger wasted no time in thinking about what had just happened. There was something far more worth while that claimed his thoughts. For the prairie dog village still remained where it had been. And as Benny looked at it he found it highly interesting.

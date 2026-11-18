@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - An Invasion"
 weight: 8
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-08.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-08.html"
 ---
 
 The incident just related was, as the reader has guessed before this, the diabolical work of Mynheer Isaac Boxtel.

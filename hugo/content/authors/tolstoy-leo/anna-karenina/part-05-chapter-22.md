@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 22"
 weight: 146
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-22.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-22.html"
 ---
 
 Alexey Alexandrovitch had forgotten the Countess Lidia Ivanovna, but she had not forgotten him. At the bitterest moment of his lonely despair she came to him, and without waiting to be announced, walked straight into his study. She found him as he was sitting with his head in both hands.

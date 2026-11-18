@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Nine Fights"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-16.html"
 ---
 
 The next evening, just at dusk, Jasper Jay and old Mr. Crow returned to Solomon Owl’s house, looking much bedraggled. One of Mr. Crow’s eyes was almost closed; and Jasper Jay’s crest seemed to have been torn half off his head.

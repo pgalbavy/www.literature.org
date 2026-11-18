@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - A Momentous Question"
 weight: 19
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-19.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-19.html"
 ---
 
 The Duke paused, in his way across the crowded reception rooms, to speak to his host, Sir Edward Bransome, Secretary of State for Foreign Affairs.

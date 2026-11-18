@@ -1,8 +1,7 @@
 ---
 title: "Chapter 111 - Expiation"
 weight: 111
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-111.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-111.html"
 ---
 
 Notwithstanding the density of the crowd, M. de Villefort saw it open before him. There is something so awe-inspiring in great afflictions that even in the worst times the first emotion of a crowd has generally been to sympathize with the sufferer in a great catastrophe. Many people have been assassinated in a tumult, but even criminals have rarely been insulted during trial. Thus Villefort passed through the mass of spectators and officers of the Palais, and withdrew. Though he had acknowledged his guilt, he was protected by his grief. There are some situations which men understand by instinct, but which reason is powerless to explain; in such cases the greatest poet is he who gives utterance to the most natural and vehement outburst of sorrow. Those who hear the bitter cry are as much impressed as if they listened to an entire poem, and when the sufferer is sincere they are right in regarding his outburst as sublime.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Lad With The Silver Button: Through The Isle Of Mull"
 weight: 16
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-15.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-15.html"
 ---
 
 The Ross of Mull, which I had now got upon, was rugged and trackless, like the isle I had just left; being all bog, and brier, and big stone. There may be roads for them that know that country well; but for my part I had no better guide than my own nose, and no other landmark than Ben More.

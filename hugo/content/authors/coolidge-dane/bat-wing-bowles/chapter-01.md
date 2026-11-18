@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Mr. Bowles"
 weight: 1
-aliases:
-  - "/authors/coolidge-dane/bat-wing-bowles/chapter-01.html"
+url: "/authors/coolidge-dane/bat-wing-bowles/chapter-01.html"
 ---
 
 It was a fine windy morning in March and Dixie Lee, of Chula Vista, Arizona, was leaving staid New York at the gate marked "Western Limited." A slight difference with the gatekeeper, who seemed to doubt every word she said, cast no cloud upon her spirits, and she was cheerfully searching for her ticket when a gentleman came up from behind. At sight of the trim figure at the wicket, he too became suddenly happy, and it looked as if the effete East was losing two of its merriest citizens.

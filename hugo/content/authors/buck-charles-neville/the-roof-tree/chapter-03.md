@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-03.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-03.html"
 ---
 
 It was a distraite maiden who greeted the visiting swain that night and one so inattentive to his wooing that his silences became long, under discouragement, and his temper sullen. Earlier than was his custom he bade her good-night and took himself moodily away.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Baker Street Irregulars"
 weight: 8
-aliases:
-  - "/authors/doyle-arthur-conan/the-sign-of-four/chapter-08.html"
+url: "/authors/doyle-arthur-conan/the-sign-of-four/chapter-08.html"
 ---
 
 "What now?" I asked. "Toby has lost his character for infallibility. "

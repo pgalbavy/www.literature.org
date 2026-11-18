@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Ten Of To-Morrow Morn"
 weight: 19
-aliases:
-  - "/authors/dorrance-ethel-and-james/lonesome-town/chapter-19.html"
+url: "/authors/dorrance-ethel-and-james/lonesome-town/chapter-19.html"
 ---
 
 Not until the police court arraignment, held shortly after the prescribed hour next morning, had Peter Pape been impressed by the personality and power of ex-Judge Samuel Allen. Pinkish were the little jurist’s cheeks, modest his mustaches and by no means commanding his chubby, under-height figure. Yet at that bar of “justice” in the magistrate’s court, he had proved a powerful ally.

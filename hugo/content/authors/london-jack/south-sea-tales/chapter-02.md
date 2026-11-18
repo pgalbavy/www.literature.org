@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Whale Tooth"
 weight: 2
-aliases:
-  - "/authors/london-jack/south-sea-tales/chapter-02.html"
+url: "/authors/london-jack/south-sea-tales/chapter-02.html"
 ---
 
 It was in the early days in Fiji, when John Starhurst arose in the mission house at Rewa Village and announced his intention of carrying the gospel throughout all Viti Levu. Now Viti Levu means the "Great Land," it being the largest island in a group composed of many large islands, to say nothing of hundreds of small ones. Here and there on the coasts, living by most precarious tenure, was a sprinkling of missionaries, traders, b�che-de-mer fishers, and whaleship deserters. The smoke of the hot ovens arose under their windows, and the bodies of the slain were dragged by their doors on the way to the feasting.

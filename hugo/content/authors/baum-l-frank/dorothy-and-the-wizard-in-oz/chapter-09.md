@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-09.html"
+url: "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-09.html"
 ---
 
 The strangers took their seats at the table willingly enough, for they were all hungry and the platters were now heaped with good things to eat. In front of each place was a plate bearing one of the delicious dama-fruit, and the perfume that rose from these was so enticing and sweet that they were sorely tempted to eat of them and become invisible.

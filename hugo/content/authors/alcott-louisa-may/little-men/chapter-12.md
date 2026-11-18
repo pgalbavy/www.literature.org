@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Huckleberries"
 weight: 13
-aliases:
-  - "/authors/alcott-louisa-may/little-men/chapter-12.html"
+url: "/authors/alcott-louisa-may/little-men/chapter-12.html"
 ---
 
 There was a great clashing of tin pails, much running to and fro, and frequent demands for something to eat, one August afternoon, for the boys were going huckleberrying, and made as much stir about it as if they were setting out to find the North West Passage.

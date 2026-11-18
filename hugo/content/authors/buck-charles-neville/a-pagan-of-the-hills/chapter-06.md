@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-06.html"
+url: "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-06.html"
 ---
 
 In a squalid room above stairs, Halloway sat, coatless, with his flannel shirt open on a throat that rose from the swell of his chest as a tower rises from a hill. His hair was rumpled; his whole aspect disheveled; but when he grinned there was the flash of strong teeth as white as a hound's and as even as a professional beauty's.

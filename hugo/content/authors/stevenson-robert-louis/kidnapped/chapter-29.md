@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - I Come Into My Kingdom"
 weight: 30
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-29.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-29.html"
 ---
 
 For some time Alan volleyed upon the door, and his knocking only roused the echoes of the house and neighbourhood. At last, however, I could hear the noise of a window gently thrust up, and knew that my uncle had come to his observatory. By what light there was, he would see Alan standing, like a dark shadow, on the steps; the three witnesses were hidden quite out of his view; so that there was nothing to alarm an honest man in his own house. For all that, he studied his visitor awhile in silence, and when he spoke his voice had a quaver of misgiving.

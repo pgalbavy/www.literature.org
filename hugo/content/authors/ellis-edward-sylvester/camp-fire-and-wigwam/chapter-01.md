@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - At Home"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-01.html"
 ---
 
 On the evening of a dismal, rainy day in spring, a mother and her son were sitting in their log-cabin home in the southern portion of the present State of Missouri. The settlement bore the name of Martinsville, in honor of the leader of the little party of pioneers who had left Kentucky some months before, and, crossing the Mississippi, located in that portion of the vast territory known at that time as Louisiana.

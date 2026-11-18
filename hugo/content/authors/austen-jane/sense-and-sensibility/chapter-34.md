@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 34
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-34.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-34.html"
 ---
 
 Mrs. John Dashwood had so much confidence in her husband's judgment, that she waited the very next day both on Mrs. Jennings and her daughter; and her confidence was rewarded by finding even the former, even the woman with whom her sisters were staying, by no means unworthy her notice; and as for Lady Middleton, she found her one of the most charming women in the world!

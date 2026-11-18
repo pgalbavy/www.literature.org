@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/preface.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/preface.html"
 ---
 
 Perhaps I should admit on the title page that this book is "By L. Frank Baum and his correspondents," for I have used many suggestions conveyed to me in letters from children. Once on a time I really imagined myself "an author of fairy tales," but now I am merely an editor or private secretary for a host of youngsters whose ideas I am requestsed to weave into the thread of my stories.

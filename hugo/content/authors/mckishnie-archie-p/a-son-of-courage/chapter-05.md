@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Wilderness Merchant"
 weight: 5
-aliases:
-  - "/authors/mckishnie-archie-p/a-son-of-courage/chapter-05.html"
+url: "/authors/mckishnie-archie-p/a-son-of-courage/chapter-05.html"
 ---
 
 Caleb Spencer, proprietor of the Twin Oaks store, paused at his garden gate to light his corncob pipe. The next three hours would be his busy time. The farmers of Scotia would come driving in for their mail and to make necessary purchases of his wares. His pipe alight to his satisfaction, Caleb crossed the road, then stood still in his tracks to fasten his admiring gaze on the rambling, unpainted building which was his pride and joy. He had built that store himself. With indefatigable pains and patience he had fashioned it to suit his mind. Every evening, just at this after-supper hour, he stood still for a time to admire it, as he was doing now.

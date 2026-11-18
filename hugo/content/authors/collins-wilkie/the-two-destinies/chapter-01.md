@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Greenwater Broad"
 weight: 2
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-01.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-01.html"
 ---
 
 LOOK back, my memory, through the dim labyrinth of the past, through the mingling joys and sorrows of twenty years. Rise again, my boyhood's days, by the winding green shores of the little lake. Come to me once more, my child-love, in the innocent beauty of your first ten years of life. Let us live again, my angel, as we lived in our first paradise, before sin and sorrow lifted their flaming swords and drove us out into the world.

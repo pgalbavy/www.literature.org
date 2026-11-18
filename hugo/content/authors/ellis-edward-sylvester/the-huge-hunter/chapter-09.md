@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Steam Man As A Hunter"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-09.html"
 ---
 
 AT this juncture the trapper whispered that the Indians were again stealing around them. Johnny's first proceeding was to pull the whistle wide open, awaking the stillness of the night by a hideous, prolonged screech.

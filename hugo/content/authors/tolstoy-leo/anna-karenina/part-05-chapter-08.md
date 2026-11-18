@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 8"
 weight: 132
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-08.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-08.html"
 ---
 
 Anna, in that first period of her emancipation and rapid return to health, felt herself unpardonably happy and full of the joy of life. The thought of her husband's unhappiness did not poison her happiness. On one side that memory was too awful to be thought of. On the other side her husband's unhappiness had given her too much happiness to be regretted. The memory of all that had happened after her illness: her reconciliation with her husband, its breakdown, the news of Vronsky's Wound, his visit, the preparations for divorce, the departure from her husband's house, the parting from her son--all that seemed to her like a delirious dream, from which she had waked up alone with Vronsky abroad. The thought of the harm caused to her husband aroused in her a feeling like repulsion, and akin to what a drowning man might feel who has shaken off another man clinging to him. That man did drown. It was an evil action, of course, but it was the sole means of escape, and better not to brood over these fearful facts.

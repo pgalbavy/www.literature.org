@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Shoulder Of Athos, The Baldric Of Porthos And The Handkerchief Of Aramis"
 weight: 5
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-04.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-04.html"
 ---
 
 D'Artagnan, in a state of fury, crossed the antechamber at three bounds, and was darting toward the stairs, which he reckoned upon descending four at a time, when, in his heedless course, he ran head foremost against a Musketeer who was coming out of one of M. de Treville's private rooms, and striking his shoulder violently, made him utter a cry, or rather a howl.

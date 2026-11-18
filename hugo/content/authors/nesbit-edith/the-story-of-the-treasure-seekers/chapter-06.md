@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Noel's Princess"
 weight: 6
-aliases:
-  - "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-06.html"
+url: "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-06.html"
 ---
 
 She happened quite accidentally. We were not looking for a Princess at all just then; but Noel had said he was going to find a Princess all by himself; and marry her - and he really did. Which was rather odd, because when people say things are going to befall, very often they don't. It was different, of course, with the prophets of old.

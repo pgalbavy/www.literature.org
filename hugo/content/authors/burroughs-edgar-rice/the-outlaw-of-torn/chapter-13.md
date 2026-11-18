@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-13.html"
+url: "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-13.html"
 ---
 
 When Norman of Torn regained his senses, he found himself in a small tower room in a strange castle. His head ached horribly, and he felt sick and sore; but he managed to crawl from the cot on which he lay, and by steadying his swaying body with hands pressed against the wall, he was able to reach the door. To his disappointment, he found this locked from without and, in his weakened condition, he made no attempt to force it.

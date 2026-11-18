@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-27.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-27.html"
 ---
 
 Boone rose by gas-light the next morning and from the bureau of his hall bedroom, after removing a slender pile of shirts and underwear, he extracted a heavy-calibred revolver in a battered holster of the mountain type--the kind that fits under the left armpit, supported by a shoulder strap.

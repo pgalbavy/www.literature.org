@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - At Feinheimer's"
 weight: 10
-aliases:
-  - "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-10.html"
+url: "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-10.html"
 ---
 
 Feinheimer liked Jimmy's appearance. He was big and strong, and the fact that Feinheimer always retained one or two powerful men upon his payroll accounted in a large measure for the orderliness of his place. Occasionally one might start something at Feinheimer's, but no one was ever known to finish what he started.

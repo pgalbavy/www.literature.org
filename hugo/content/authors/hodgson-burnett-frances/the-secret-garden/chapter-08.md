@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Robin Who Showed The Way"
 weight: 8
-aliases:
-  - "/authors/hodgson-burnett-frances/the-secret-garden/chapter-08.html"
+url: "/authors/hodgson-burnett-frances/the-secret-garden/chapter-08.html"
 ---
 
 She looked at the key quite a long time. She turned it over and over, and thought about it. As I have said before, she was not a child who had been trained to ask permission or consult her elders about things. All she thought about the key was that if it was the key to the closed garden, and she could find out where the door was, she could perhaps open it and see what was inside the walls, and what had happened to the old rose-trees. It was because it had been shut up so long that she wanted to see it. It seemed as if it must be different from other places and that something strange must have happened to it during ten years. Besides that, if she liked it she could go into it every day and shut the door behind her, and she could make up some play of her own and play it quite alone, because nobody would ever know where she was, but would think the door was still locked and the key buried in the earth. The thought of that pleased her very much.

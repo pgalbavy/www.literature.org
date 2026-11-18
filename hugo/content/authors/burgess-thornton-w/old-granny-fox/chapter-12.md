@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Granny And Reddy Fox Hunt In Vain"
 weight: 12
-aliases:
-  - "/authors/burgess-thornton-w/old-granny-fox/chapter-12.html"
+url: "/authors/burgess-thornton-w/old-granny-fox/chapter-12.html"
 ---
 
 Old Mother Nature's plans for good  

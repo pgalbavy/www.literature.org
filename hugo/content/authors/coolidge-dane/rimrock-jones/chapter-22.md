@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - A Fool"
 weight: 22
-aliases:
-  - "/authors/coolidge-dane/rimrock-jones/chapter-22.html"
+url: "/authors/coolidge-dane/rimrock-jones/chapter-22.html"
 ---
 
 The big day came for which Rimrock had waited, the day when he could strike his first blow. In his room at the Waldorf he had installed special telephone connections, with a clerk to answer his calls; and close by the table, where he could follow his campaign, a stock ticker stamped away at its tape. It was the morning of the twenty-third of December, and he had wired L. W. for his money. All was ready now for the first raid on Navajoa and he went down to see Buckbee, the broker.

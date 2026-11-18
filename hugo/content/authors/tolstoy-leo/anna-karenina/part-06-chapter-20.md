@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 20"
 weight: 177
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-20.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-20.html"
 ---
 
 "Here's Dolly for you, princess, you were so anxious to see her," said Anna, coming out with Darya Alexandrovna onto the stone terrace where Princess Varvara was sitting in the shade at an embroidery frame, working at a cover for Count Alexey Kirillovitch's easy- chair. "She says she doesn't want anything before dinner, but please order some lunch for her, and I'll go and look for Alexey and bring them all in."

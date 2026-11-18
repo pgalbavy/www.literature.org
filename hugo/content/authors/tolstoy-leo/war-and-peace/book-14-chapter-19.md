@@ -1,8 +1,7 @@
 ---
 title: "Book 14 - Chapter 19"
 weight: 317
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-14-chapter-19.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-14-chapter-19.html"
 ---
 
 What Russian, reading the account of the last part of the campaign of 1812, has not experienced an uncomfortable feeling of regret, dissatisfaction, and perplexity? Who has not asked himself how it is that the French were not all captured or destroyed when our three armies surrounded them in superior numbers, when the disordered French, hungry and freezing, surrendered in crowds, and when (as the historians relate) the aim of the Russians was to stop the French, to cut them off, and capture them all?

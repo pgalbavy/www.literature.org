@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 10"
 weight: 63
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-05-chapter-10.html"
+url: "/authors/cather-willa/one-of-ours/book-05-chapter-10.html"
 ---
 
 After breakfast Claude reported to Headquarters and talked with one of the staff Majors. He was told he would have to wait until tomorrow to see Colonel James, who had been called to Paris for a general conference. He had left in his car at four that morning, in response to a telephone message.

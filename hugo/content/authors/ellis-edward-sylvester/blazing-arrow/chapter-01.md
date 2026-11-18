@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Larry And Wharton"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-01.html"
 ---
 
 "I'll follow him to the right, and you, Larry, go to the left; we'll have him then, sure."

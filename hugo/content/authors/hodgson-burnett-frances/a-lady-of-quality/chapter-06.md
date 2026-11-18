@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Relating How Mistress Anne Discovered A Miniature"
 weight: 7
-aliases:
-  - "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-06.html"
+url: "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-06.html"
 ---
 
 The good gentlewoman took her leave gladly. She had spent a life in timid fears of such things and persons as were not formed by Nature to excite them, but never had she experienced such humble terrors as those with which Mistress Clorinda inspired her. Never did she approach her without inward tremor, and never did she receive permission to depart from her presence without relief. And yet her beauty and wit and spirit had no admirer regarding them with more of wondering awe.

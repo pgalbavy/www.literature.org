@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Between Two Fires"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-01.html"
 ---
 
 I once heard the bravest officer I ever knew declare that the height of absurdity was for a person to boast that he did not know the meaning of fear. "Such a man is either a fool or the truth is not in him," was the terse expression of the gallant soldier.

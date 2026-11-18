@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Footprints"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-26.html"
 ---
 
 "He's either the biggest wretch among the Shawanoes," said Wharton, "always excepting Blazing Arrow, or he is working like a major to help us."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Railway Journey"
 weight: 15
-aliases:
-  - "/authors/lawrence-david-herbert/aarons-rod/chapter-15.html"
+url: "/authors/lawrence-david-herbert/aarons-rod/chapter-15.html"
 ---
 
 The next day but one, the three set off for Florence. Aaron had made an excursion from Milan with the two young heroes, and dined with them subsequently at the most expensive restaurant in the town. Then they had all gone home - and had sat in the young men's bedroom drinking tea, whilst Aaron played the flute. Francis was really musical, and enchanted. Angus enjoyed the novelty, and the moderate patronage he was able to confer. And Aaron felt amused and pleased, and hoped he was paying for his treat.

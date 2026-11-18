@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - We Quarrel"
 weight: 18
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-18.html"
+url: "/authors/bronte-charlotte/villette/chapter-18.html"
 ---
 
 During the first days of my stay at the Terrace, Graham never took a seat near me, or in his frequent pacing of the room approached the quarter where I sat, or looked pre-occupied, or more grave than usual, but I thought of Miss Fanshawe and expected her name to leap from his lips. I kept my ear and mind in perpetual readiness for the tender theme; my patience was ordered to be permanently under arms, and my sympathy desired to keep its cornucopia replenished and ready for outpouring. At last, and after a little inward struggle, which I saw and respected, he one day launched into the topic. It was introduced delicately; anonymously as it were.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Owls"
 weight: 3
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-01.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-01.html"
 ---
 
 IN the spring of the year eighteen hundred and sixty-eight there lived, in a certain county of North Britain, two venerable White Owls.

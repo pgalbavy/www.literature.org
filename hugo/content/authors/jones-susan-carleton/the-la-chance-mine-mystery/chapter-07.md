@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - I Find Little Enough On The Corduroy Road, And Less At Skunk's Misery"
 weight: 7
-aliases:
-  - "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-07.html"
+url: "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-07.html"
 ---
 
 I told Billy Jones as much as I thought fit of the evening's work,--which included no mention of wolf dope, or shooting on the corduroy road.

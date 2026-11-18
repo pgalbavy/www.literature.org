@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Other Neighbors"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-15.html"
 ---
 
 Uncle Elk declined the invitation of Scout Master Hall to stay over night at the bungalow, and bidding his friends good bye, with the promise soon to see them again, he went forth staff in hand into the dim woods on his tramp to his lonely home to the eastward.

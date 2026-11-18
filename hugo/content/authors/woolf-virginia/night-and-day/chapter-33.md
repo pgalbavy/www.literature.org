@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 33
-aliases:
-  - "/authors/woolf-virginia/night-and-day/chapter-33.html"
+url: "/authors/woolf-virginia/night-and-day/chapter-33.html"
 ---
 
 Considering that Mr. Hilbery lived in a house which was accurately numbered in order with its fellows, and that he filled up forms, paid rent, and had seven more years of tenancy to run, he had an excuse for laying down laws for the conduct of those who lived in his house, and this excuse, though profoundly inadequate, he found useful during the interregnum of civilization with which he now found himself faced. In obedience to those laws, Rodney disappeared; Cassandra was dispatched to catch the eleven-thirty on Monday morning; Denham was seen no more; so that only Katharine, the lawful occupant of the upper rooms, remained, and Mr. Hilbery thought himself competent to see that she did nothing further to compromise herself. As he bade her good morning next day he was aware that he knew nothing of what she was thinking, but, as he reflected with some bitterness, even this was an advance upon the ignorance of the previous mornings. He went to his study, wrote, tore up, and wrote again a letter to his wife, asking her to come back on account of domestic difficulties which he specified at first, but in a later draft more discreetly left unspecified. Even if she started the very moment that she got it, he reflected, she would not be home till Tuesday night, and he counted lugubriously the number of hours that he would have to spend in a position of detestable authority alone with his daughter.

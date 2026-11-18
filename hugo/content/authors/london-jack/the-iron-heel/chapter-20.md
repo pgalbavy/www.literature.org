@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - A Lost Oligarch"
 weight: 21
-aliases:
-  - "/authors/london-jack/the-iron-heel/chapter-20.html"
+url: "/authors/london-jack/the-iron-heel/chapter-20.html"
 ---
 
 But in remembering the old life I have run ahead of my story into the new life. The wholesale jail delivery did not occur until well along into 1915. Complicated as it was, it was carried through without a hitch, and as a very creditable achievement it cheered us on in our work. From Cuba to California, out of scores of jails, military prisons, and fortresses, in a single night, we delivered fifty-one of our fifty-two Congressmen, and in addition over three hundred other leaders. There was not a single instance of miscarriage. Not only did they escape, but every one of them won to the refuges as planned. The one comrade Congressman we did not get was Arthur Simpson, and he had already died in Cabanas after cruel tortures.

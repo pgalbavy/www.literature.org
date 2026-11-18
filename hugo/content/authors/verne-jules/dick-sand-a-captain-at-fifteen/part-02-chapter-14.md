@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 14 - Some News Of Dr. Livingstone"
 weight: 32
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-14.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-14.html"
 ---
 
 Left alone, Mrs. Weldon at first only fixed her mind on this thought, that eight days would pass before Negoro would return for a definite answer. There was time to reflect and decide on a course of action. There could be no question of the Portuguese's probity except in his own interest. The "market value" that he attributed to his prisoner would evidently be a safeguard for her, and protect her for the time, at least, against any temptation that might put her in danger. Perhaps she would think of a compromise that would restore her to her husband without obliging Mr. Weldon to come to Kazounde. On receipt of a letter from his wife, she well knew that James Weldon would set out. He would brave the perils of this journey into the most dangerous countries of Africa. But, once at Kazounde, when Negoro should have that fortune of a hundred thousand dollars in his hands, what guaranty would James W. Weldon, his wife, his son and Cousin Benedict have, that they would be allowed to depart? Could not Queen Moini's caprice prevent them? Would not this "sale" of Mrs. Weldon and hers be better accomplished if it took place at the coast, at some point agreed upon, which would spare Mr. Weldon both the dangers of the journey to the interior, and the difficulties, not to say the impossibilities, of a return?

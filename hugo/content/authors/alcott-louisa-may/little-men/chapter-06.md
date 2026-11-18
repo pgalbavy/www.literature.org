@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Fire Brand"
 weight: 7
-aliases:
-  - "/authors/alcott-louisa-may/little-men/chapter-06.html"
+url: "/authors/alcott-louisa-may/little-men/chapter-06.html"
 ---
 
 "Please, ma'am, could I speak to you? It is something very important," said Nat, popping his head in at the door of Mrs. Bhaer's room.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-08.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-08.html"
 ---
 
 Six weeks had passed away. It was a splendid morning about the close of June. Most of the hay was cut, but the last week had been very unfavourable; and now that fine weather was come at last, being determined to make the most of it, I had gathered all hands together into the hay-field, and was working away myself, in the midst of them, in my shirt-sleeves, with a light, shady straw hat on my head, catching up armfuls of moist, reeking grass, and shaking it out to the four winds of heaven, at the head of a goodly file of servants and hirelings - intending so to labour, from morning till night, with as much zeal and assiduity as I could look for from any of them, as well to prosper the work by my own exertion as to animate the workers by my example - when lo! my resolutions were overthrown in a moment, by the simple fact of my brother's running up to me and putting into my hand a small parcel, just arrived from London, which I had been for some time expecting. I tore off the cover, and disclosed an elegant and portable edition of 'Marmion.'

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Conclusion"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-21.html"
 ---
 
 The wind from the south was so strong that most of the large sparks capable of carrying the fire were thrown beyond the block-house, falling about the stockade, on the clearing, and among the trees, where they kindled spiral serpents of flame and smoke, which quickly died of themselves.

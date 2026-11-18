@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 6"
 weight: 6
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-01-chapter-06.html"
+url: "/authors/cather-willa/song-of-the-lark/part-01-chapter-06.html"
 ---
 
 Seen from a balloon, Moonstone would have looked like a Noah's ark town set out in the sand and lightly shaded by gray-green tamarisks and cottonwoods. A few people were trying to make soft maples grow in their turfed lawns, but the fashion of planting incongruous trees from the North Atlantic States had not become general then, and the frail, brightly painted desert town was shaded by the light-reflecting, wind-loving trees of the desert, whose roots are always seeking water and whose leaves are always talking about it, making the sound of rain. The long porous roots of the cottonwood are irrepressible. They break into the wells as rats do into granaries, and thieve the water.

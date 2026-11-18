@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43"
 weight: 43
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-43.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-43.html"
 ---
 
 Marianne got up the next morning at her usual time; to every inquiry replied that she was better, and tried to prove herself so, by engaging in her accustomary employments. But a day spent in sitting shivering over the fire with a book in her hand, which she was unable to read, or in lying, weary and languid, on a sofa, did not speak much in favour of her amendment; and when, at last, she went early to bed, more and more indisposed, Colonel Brandon was only astonished at her sister's composure, who, though attending and nursing her the whole day, against Marianne's inclination, and forcing proper medicines on her at night, trusted, like Marianne, to the certainty and efficacy of sleep, and felt no real alarm.

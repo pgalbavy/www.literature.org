@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Don And The Dog Catcher"
 weight: 9
-aliases:
-  - "/authors/barnum-richard/don-a-runaway-dog/chapter-09.html"
+url: "/authors/barnum-richard/don-a-runaway-dog/chapter-09.html"
 ---
 
 “Look at him run!” cried one of the boys who had tied the tin can on Don’s tail, when the dog was asleep. “Look!”

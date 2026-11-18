@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Search"
 weight: 4
-aliases:
-  - "/authors/ostrander-isabel/the-crevice/chapter-04.html"
+url: "/authors/ostrander-isabel/the-crevice/chapter-04.html"
 ---
 
 Henry Blaine, the man of decision, wasted no time in vain thought. Instantly, upon his discovery that the signature of Pennington Lawton had been forged, and that it had been done by an old and well-known offender, he touched the bell on his desk, which brought his confidential secretary.

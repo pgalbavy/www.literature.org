@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-28.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-28.html"
 ---
 
 It is the consoling attribute of unused books that their decorative warmth will so often make even a ready-made library the actual "living-room" of a family to whom the shelved volumes are indeed sealed. Thus it was with Sheridan, who read nothing except newspapers, business letters, and figures; who looked upon books as he looked upon bric-a-brac or crocheting—when he was at home, and not abed or eating, he was in the library.

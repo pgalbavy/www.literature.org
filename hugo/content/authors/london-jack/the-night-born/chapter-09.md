@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - To Kill A Man"
 weight: 9
-aliases:
-  - "/authors/london-jack/the-night-born/chapter-09.html"
+url: "/authors/london-jack/the-night-born/chapter-09.html"
 ---
 
 THOUGH dim night-lights burned, she moved familiarly through the big rooms and wide halls, seeking vainly the half-finished book of verse she had mislaid and only now remembered. When she turned on the lights in the drawing-room, she disclosed herself clad in a sweeping negligee gown of soft rose-colored stuff, throat and shoulders smothered in lace. Her rings were still on her fingers, her massed yellow hair had not yet been taken down. She was delicately, gracefully beautiful, with slender, oval face, red lips, a faint color in the cheeks, and blue eyes of the chameleon sort that at will stare wide with the innocence of childhood, go hard and gray and brilliantly cold, or flame up in hot wilfulness and mastery.

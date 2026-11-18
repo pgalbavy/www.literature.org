@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/nesbit-edith/the-enchanted-castle/chapter-07.html"
+url: "/authors/nesbit-edith/the-enchanted-castle/chapter-07.html"
 ---
 
 "*CAN* you recommend me to a good hotel?" The speaker had no inside to his head. Gerald had the best of reasons for knowing it. The speaker's coat had no shoulders inside it—only the cross-bar that a jacket is slung on by careful ladies. The hand raised in interrogation was not a hand at all; it was a glove lumpily stuffed with pocket-handkerchiefs; and the arm attached to it was only Kathleen's school umbrella. Yet the whole thing was alive, and was asking a definite, and for anybody else, anybody who really *was* a body, a reasonable question.

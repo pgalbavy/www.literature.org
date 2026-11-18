@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - An Irate Neighbor"
 weight: 1
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-01.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-01.html"
 ---
 
 to my former teacher HATTIE GORDON SMITH in grateful remembrance of her sympathy and encouragement

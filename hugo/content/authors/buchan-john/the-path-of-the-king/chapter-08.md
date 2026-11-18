@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Hidden City"
 weight: 9
-aliases:
-  - "/authors/buchan-john/the-path-of-the-king/chapter-08.html"
+url: "/authors/buchan-john/the-path-of-the-king/chapter-08.html"
 ---
 
 The two ports of the cabin were discs of scarlet, that pure translucent colour which comes from the reflection of sunset in leagues of still water. The ship lay at anchor under the high green scarp of an island, but on the side of the ports no land was visible—only a circle in which sea and sky melted into the quintessence of light. The air was very hot and very quiet. Inside a lamp had been lit, for in those latitudes night descends like a thunderclap. Its yellow glow joined with the red evening to cast orange shadows. On the wall opposite the ports was a small stand of arms, and beside it a picture of the Magdalen, one of two presented to the ship by Lord Huntingdon; the other had been given to the wife of the Governor of Gomera in the Canaries when she sent fruit and sugar to the voyagers. Underneath on a couch heaped with deerskins lay the Admiral.

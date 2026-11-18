@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Monk Reveals Himself"
 weight: 31
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-31.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-31.html"
 ---
 
 D'Artagnan, although he flattered himself with better success, had, nevertheless, not too well comprehended his situation. It was a strange and grave subject for him to reflect upon - this voyage of Athos into England; this league of the king with Athos, and that extraordinary combination of his design with that of the Comte de la Fere. The best way was to let things follow their own train. An imprudence had been committed, and, whilst having succeeded, as he had promised, D'Artagnan found that he had gained no advantage by his success. Since everything was lost, he could risk no more.

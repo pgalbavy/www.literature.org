@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - A Good Imagination Gone Wrong"
 weight: 20
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-20.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-20.html"
 ---
 
 Spring had come once more to Green Gables--the beautiful capricious, reluctant Canadian spring, lingering along through April and May in a succession of sweet, fresh, chilly days, with pink sunsets and miracles of resurrection and growth. The maples in Lover's Lane were red budded and little curly ferns pushed up around the Dryad's Bubble. Away up in the barrens, behind Mr. Silas Sloane's place, the Mayflowers blossomed out, pink and white stars of sweetness under their brown leaves. All the school girls and boys had one golden afternoon gathering them, coming home in the clear, echoing twilight with arms and baskets full of flowery spoil.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - An Interrupted Theatre Party"
 weight: 8
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-08.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-08.html"
 ---
 
 Seated upon a roomy lounge in the foyer of the Savoy were three women who attracted more than an average amount of attention from the passers-by. In the middle was the Duchess of Devenham, erect, stately, and with a figure which was still irreproachable notwithstanding her white hair. on one side sat her daughter, Lady Grace Redford, tall, fair, and comely; on the other, Miss Penelope Morse. The two girls were amusing themselves, watching the people; their chaperon had her eye upon the clock.

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 18 - Various Incidents"
 weight: 36
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-18.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-18.html"
 ---
 
 For eight days the boat drifted, carried by the current under the conditions already described. No incident of any importance occurred. For a space of many miles the river bathed the borders of superb forests; then the country, shorn of these fine trees, spread in jungles to the limits of the horizon.

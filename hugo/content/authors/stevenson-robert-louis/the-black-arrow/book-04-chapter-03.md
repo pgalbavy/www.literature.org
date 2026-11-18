@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 3 - The Dead Spy"
 weight: 22
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-04-chapter-03.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-04-chapter-03.html"
 ---
 
 Throughout this furious and rapid passage, Lawless had looked on helplessly, and even when all was over, and Dick, already re-arisen to his feet, was listening with the most passionate attention to the distant bustle in the lower storeys of the house, the old outlaw was still wavering on his legs like a shrub in a breeze of wind, and still stupidly staring on the face of the dead man.

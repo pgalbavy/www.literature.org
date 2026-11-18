@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Three Presents Of D'artagnan The Elder"
 weight: 2
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-01.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-01.html"
 ---
 
 On the first Monday of the month of April, 1625, the market town of Meung, in which the author of ROMANCE OF THE ROSE was born, appeared to be in as perfect a state of revolution as if the Huguenots had just made a second La Rochelle of it. Many citizens, seeing the women flying toward the High Street, leaving their children crying at the open doors, hastened to don the cuirass, and supporting their somewhat uncertain courage with a musket or a partisan, directed their steps toward the hostelry of the Jolly Miller, before which was gathered, increasing every minute, a compact group, vociferous and full of curiosity.

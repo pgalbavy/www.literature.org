@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 46 - Of The End Of The Notable Adventure Of The Officers Of The Holy Brotherhood; And Of The Great Ferocity Of Our Worthy Knight, Don Quixote"
 weight: 49
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-46.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-46.html"
 ---
 
 While Don Quixote was talking in this strain, the curate was endeavouring to persuade the officers that he was out of his senses, as they might perceive by his deeds and his words, and that they need not press the matter any further, for even if they arrested him and carried him off, they would have to release him by-and-by as a madman; to which the holder of the warrant replied that he had nothing to do with inquiring into Don Quixote’s madness, but only to execute his superior’s orders, and that once taken they might let him go three hundred times if they liked.

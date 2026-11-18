@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - We Must Always Be True"
 weight: 9
-aliases:
-  - "/authors/hodgson-burnett-frances/miss-crespigny/chapter-09.html"
+url: "/authors/hodgson-burnett-frances/miss-crespigny/chapter-09.html"
 ---
 
 Indeed, he drifted so far this evening, that there is no knowing how sad a story this of mine might have been, if the fates had not been kinder to pretty Georgie Esmond than they are to the generality of people. Surely it must have been because she deserved something better than the fortune of a disappointed woman, that chance interposed in her behalf before she went to sleep that night.

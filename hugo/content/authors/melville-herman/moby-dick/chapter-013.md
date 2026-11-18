@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Wheelbarrow"
 weight: 13
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-013.html"
+url: "/authors/melville-herman/moby-dick/chapter-013.html"
 ---
 
 Next morning, Monday, after disposing of the embalmed head to a barber, for a block, I settled my own and comrade's bill; using, however, my comrade's money. The grinning landlord, as well as the boarders, seemed amazingly tickled at the sudden friendship which had sprung up between me and Queequeg-- especially as Peter Coffin's cock and bull stories about him had previously so much alarmed me concerning the very person whom I now companied with.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 69 - Conversational"
 weight: 69
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-69.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-69.html"
 ---
 
 Though Mordaunt had been so completely taken by surprise and had mounted the stairs in such utter confusion, when once seated he recovered himself, as it were, and prepared to seize any possible opportunity of escape. His eye wandered to a long stout sword on his flank and he instinctively slipped it around within reach of his right hand.

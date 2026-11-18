@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Adrift With A Madman"
 weight: 15
-aliases:
-  - "/authors/baily-waldron/when-the-cock-crows/chapter-15.html"
+url: "/authors/baily-waldron/when-the-cock-crows/chapter-15.html"
 ---
 
 The afflicted child showed marked signs of improvement by the time The Isabel's tender, with its tow, reached the small hamlet of Atlantic--a cluster of fishermen's houses and two stores built on a bluff to the westerly side of Core Sound. There the disabled boat was pulled out upon the beach so that the stem was exposed and workmen could get at the injured shaft. The work of repair was simple. Soon the craft was restored to running condition, and its passengers went on their way, their hearts filled with new hopes for the safety of the child.

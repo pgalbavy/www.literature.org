@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Watching And Waiting"
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-27.html"
 ---
 
 *THE* presence of the Apaches within a short distance of the building brought about a complication for which the rescue party were as unprepared as were the whites within the structure. But for them, one of Nick’s friends would have ridden forward and opened a conversation with Rickard, by which the terms of the exchange could have been effected with little delay. Herbert told Strubell that unless the criminal demanded an exorbitant price, it should be accepted. Although he had only a small amount of funds with him, he would give him a draft that would be honored without question by Mr. Lord in San Antonio; and if Rickard kept his part of the agreement, it would be respected by Herbert and his companions, who were governed by a sense of honor that would prevent any advantage being taken of circumstances that must of necessity be in their favor.

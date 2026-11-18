@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/chambers-robert-w/the-crimson-tide/chapter-09.html"
+url: "/authors/chambers-robert-w/the-crimson-tide/chapter-09.html"
 ---
 
 He had called her up the following morning from the office, and had told her that he thought he had better not see her for a while.

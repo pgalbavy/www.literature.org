@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 17
-aliases:
-  - "/authors/chambers-robert-w/ailsa-paige/chapter-16.html"
+url: "/authors/chambers-robert-w/ailsa-paige/chapter-16.html"
 ---
 
 On every highway, across every wood trail, footpath, and meadow streamed the wreckage of seven battle-fields. Through mud and rain crowded heavy artillery, waggons, herds of bellowing cattle, infantry, light batteries, exhausted men, wounded men, dead men on stretchers, men in straw-filled carts, some alive, some dying. Cannoneers cut traces and urged their jaded horses through the crush, cursed and screamed at by those on foot, menaced by bayonets and sabres. The infantry, drenched, starving, plastered with mud to the waists, toiled doggedly on through the darkness; batteries in deplorable condition struggled from mud hole to mud hole; the reserve cavalry division, cut out and forced east, limped wearily ahead, its rear-guard firing at every step.

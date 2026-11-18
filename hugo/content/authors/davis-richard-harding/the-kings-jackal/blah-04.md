@@ -1,8 +1,7 @@
 ---
 title: "blah 04"
 weight: 999
-aliases:
-  - "/authors/davis-richard-harding/the-kings-jackal/blah-04.html"
+url: "/authors/davis-richard-harding/the-kings-jackal/blah-04.html"
 ---
 
 "I thought of a lot of new things for my characters to say, while I was coming up from Kentucky on the train, and I want to put them in." Miss Adair further tortured Vandeford.

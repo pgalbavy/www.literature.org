@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Lupin's Lupins"
 weight: 21
-aliases:
-  - "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-21.html"
+url: "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-21.html"
 ---
 
 Next morning, a little before eight o'clock, Valenglay was talking in his own flat to the Prefect of Police, and asked:

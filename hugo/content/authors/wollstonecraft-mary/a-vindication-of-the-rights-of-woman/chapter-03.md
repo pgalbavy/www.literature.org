@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Same Subject Continued"
 weight: 4
-aliases:
-  - "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/chapter-03.html"
+url: "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/chapter-03.html"
 ---
 
 Bodily strength from being the distinction of heroes is now sunk into such unmerited contempt, that men as well as women, seem to think it unnecessary: the latter, as it takes from their feminine graces, and from that lovely weakness, the source of their undue power; and the former, because it appears inimical with the character of a gentleman.

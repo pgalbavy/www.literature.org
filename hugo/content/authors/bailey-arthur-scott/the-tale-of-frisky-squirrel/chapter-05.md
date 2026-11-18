@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Some Lively Dodging"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-05.html"
 ---
 
 Frisky Squirrel was having his usual fun, leaping through the tree-tops. He went skipping and scrambling among the boughs as if a hundred jays were after him. But they were only make-believe enemies. And after a while Frisky grew tired of playing all alone. He wished he could find Jasper Jay again. He would have liked to tease the rude fellow, until Jasper chased him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Man In Black"
 weight: 15
-aliases:
-  - "/authors/leblanc-maurice/813/chapter-14.html"
+url: "/authors/leblanc-maurice/813/chapter-14.html"
 ---
 
 At that moment, Arsène Lupin felt the impression, the certainty, that he had been drawn into an ambush, by means which he had not the time to perceive, but of which he guessed the prodigious skill and address. Everything had been calculated, everything ordained; the dismissal of his men, the disappearance or treachery of the servants, his own presence in Mrs. Kesselbach's house.

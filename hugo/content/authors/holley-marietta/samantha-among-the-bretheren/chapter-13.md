@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 14
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-13.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-13.html"
 ---
 
 Curius, hain't it? How folks will get to tellin' things, and finally tell 'em so much, that finally they will get to believin' of 'em themselves - boastin' of bein' rich, etc., or bad. Now I have seen folks boast over that, act real haughty because they had been bad and got over it. I've seen temperance lecturers and religious exhorters boast sights and sights over how bad they had been. But they wuzn't tellin' the truth, though they had told the same thing so much that probable they had got to thinkin' so.

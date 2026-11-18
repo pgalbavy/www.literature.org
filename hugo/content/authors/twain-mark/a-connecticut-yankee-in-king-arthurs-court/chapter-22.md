@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Holy Fountain"
 weight: 23
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-22.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-22.html"
 ---
 
 THE pilgrims were human beings. Otherwise they would have acted differently. They had come a long and difficult journey, and now when the journey was nearly finished, and they learned that the main thing they had come for had ceased to exist, they didn't do as horses or cats or angle-worms would probably have done -- turn back and get at something profitable -- no, anxious as they had before been to see the miraculous fountain, they were as much as forty times as anxious now to see the place where it had used to be. There is no accounting for human beings.

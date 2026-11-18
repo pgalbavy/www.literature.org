@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/daviess-maria-thompson/the-golden-bird/preface.html"
+url: "/authors/daviess-maria-thompson/the-golden-bird/preface.html"
 ---
 
 [Transcriber's note: Minor typos corrected.]

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 11 - In Mrs. Vyse’s Well-Appointed Flat"
 weight: 11
-aliases:
-  - "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-11.html"
+url: "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-11.html"
 ---
 
 The Comic Muse, though able to look after her own interests, did not disdain the assistance of Mr. Vyse. His idea of bringing the Emersons to Windy Corner struck her as decidedly good, and she carried through the negotiations without a hitch. Sir Harry Otway signed the agreement, met Mr. Emerson, who was duly disillusioned. The Miss Alans were duly offended, and wrote a dignified letter to Lucy, whom they held responsible for the failure. Mr. Beebe planned pleasant moments for the new-comers, and told Mrs. Honeychurch that Freddy must call on them as soon as they arrived. Indeed, so ample was the Muse’s equipment that she permitted Mr. Harris, never a very robust criminal, to droop his head, to be forgotten, and to die.

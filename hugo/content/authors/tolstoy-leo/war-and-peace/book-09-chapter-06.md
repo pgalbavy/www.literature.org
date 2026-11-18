@@ -1,8 +1,7 @@
 ---
 title: "Book 9 - Chapter 6"
 weight: 173
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-09-chapter-06.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-09-chapter-06.html"
 ---
 
 Though Balashev was used to imperial pomp, he was amazed at the luxury and magnificence of Napoleon's court.

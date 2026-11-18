@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 19
-aliases:
-  - "/authors/london-jack/jerry-of-the-islands/chapter-18.html"
+url: "/authors/london-jack/jerry-of-the-islands/chapter-18.html"
 ---
 
 Meanwhile the months slipped by, the south-east trade blew itself out, the monsoon had begun to breathe, and Jerry added to himself six months of time, weight, stature, and thickness of bone. An easy time his half-year with the blind man had been, despite the fact that Nalasu was a rigid disciplinarian who insisted on training Jerry for longer hours, day in and day out, than falls to the lot of most dogs. Never did Jerry receive from him a blow, never a harsh word. This man, who had slain four of the Annos, three of them after he had gone blind, who had slain still more men in his savage youth, never raised his voice in anger to Jerry and ruled him by nothing severer than the gentlest of chidings.

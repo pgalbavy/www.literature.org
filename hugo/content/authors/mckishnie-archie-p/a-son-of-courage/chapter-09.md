@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Moving The Menagerie"
 weight: 9
-aliases:
-  - "/authors/mckishnie-archie-p/a-son-of-courage/chapter-09.html"
+url: "/authors/mckishnie-archie-p/a-son-of-courage/chapter-09.html"
 ---
 
 Billy and Maurice, taking the short cut to the Wilson farm across the rain-drenched fields next morning, were planning the day's programme.

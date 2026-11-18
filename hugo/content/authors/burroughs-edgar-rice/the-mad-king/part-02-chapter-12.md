@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 12 - Leopold Waits For Dawn"
 weight: 24
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-12.html"
+url: "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-12.html"
 ---
 
 After the American had shoved him through the secret doorway into the tower room of the castle of Blentz, Leopold had stood for several minutes waiting for the next command from his captor. Presently, hearing no sound other than that of his own breathing, the king ventured to speak. He asked the American what he purposed doing with him next.

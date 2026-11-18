@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/tarkington-booth/harlequin-and-columbine/chapter-03.html"
+url: "/authors/tarkington-booth/harlequin-and-columbine/chapter-03.html"
 ---
 
 It was a luckless lady who helped to fulfil the prediction. Technically she was the "ingenue"; publicly she was "Miss Carol Lyston"; legally she was a Mrs. Surbilt, being wife to the established leading man of that ilk, Vorly Surbilt. Miss Lyston had come to the rehearsal in a condition of exhausted nerves, owing to her husband's having just accepted, over her protest, a "road" engagement with a lady-star of such susceptible gallantry she had never yet been known to resist falling in love with her leading-man before she quarrelled with him. Miss Lyston's protest having lasted the whole of the preceeding night, and not at all concluding with Mr. Surbilt's departure, about breakfast-time, avowedly to seek total anaesthesia by means of a long list of liquors, which he named, she had spent the hours before rehearsal interviewing female acquaintances who had been members of the susceptible lady's company—a proceeding which indicates that she deliberately courted hysteria.

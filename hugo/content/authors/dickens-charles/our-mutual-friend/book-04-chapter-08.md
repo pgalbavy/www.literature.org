@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 8 - A Few Grains Of Pepper"
 weight: 58
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-04-chapter-08.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-04-chapter-08.html"
 ---
 
 The dolls’ dressmaker went no more to the business-premises of Pubsey and Co. in St Mary Axe, after chance had disclosed to her (as she supposed) the flinty and hypocritical character of Mr Riah. She often moralized over her work on the tricks and the manners of that venerable cheat, but made her little purchases elsewhere, and lived a secluded life. After much consultation with herself, she decided not to put Lizzie Hexam on her guard against the old man, arguing that the disappointment of finding him out would come upon her quite soon enough. Therefore, in her communication with her friend by letter, she was silent on this theme, and principally dilated on the backslidings of her bad child, who every day grew worse and worse.

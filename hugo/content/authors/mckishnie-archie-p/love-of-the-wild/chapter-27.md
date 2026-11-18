@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - While The Rain Fell"
 weight: 27
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-27.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-27.html"
 ---
 
 Watson, his feet on the table and his pipe alight, glanced across at Smythe, who was standing before the window. It was evening, and the falling rain made soothing, swishing music against the pane and upon the low roof of the Bridgetown store. Watson watched the storekeeper speculatively. At last he spoke.

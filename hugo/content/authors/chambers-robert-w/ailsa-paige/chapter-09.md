@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/chambers-robert-w/ailsa-paige/chapter-09.html"
+url: "/authors/chambers-robert-w/ailsa-paige/chapter-09.html"
 ---
 
 And now at last she knew what it was she feared. For she was beginning to understand that this man was utterly unworthy, utterly insensible, without character, without one sympathetic trait that appealed to anything in her except her senses.

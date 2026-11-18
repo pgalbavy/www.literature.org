@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/collins-wilkie/a-rogues-life/chapter-11.html"
+url: "/authors/collins-wilkie/a-rogues-life/chapter-11.html"
 ---
 
 ONE morning I was engaged in the principal workroom with my employer. We were alone. Old File and his son were occupied in the garrets. Screw had been sent to Barkingham, accompanied, on the usual precautionary plan, by Mill. They had been gone nearly an hour when the doctor sent me into the next room to moisten and knead up some plaster of Paris. While I was engaged in this occupation, I suddenly heard strange voices in the large workroom. My curiosity was instantly excited. I drew back the little shutter from the peephole in the wall, and looked through it.

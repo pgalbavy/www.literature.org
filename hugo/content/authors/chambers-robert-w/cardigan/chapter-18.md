@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 19
-aliases:
-  - "/authors/chambers-robert-w/cardigan/chapter-18.html"
+url: "/authors/chambers-robert-w/cardigan/chapter-18.html"
 ---
 
 I knew afterwards—long, long afterwards—that I had been stabbed repeatedly; how many times is now of little consequence, although I have sometimes counted the white cicatrices on my body, tracing each with wonder that I had not long ago done with this life.

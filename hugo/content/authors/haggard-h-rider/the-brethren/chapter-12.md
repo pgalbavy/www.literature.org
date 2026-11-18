@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Lord Of Death"
 weight: 13
-aliases:
-  - "/authors/haggard-h-rider/the-brethren/chapter-12.html"
+url: "/authors/haggard-h-rider/the-brethren/chapter-12.html"
 ---
 
 Masouda ran forward and prostrated herself at full length, but Godwin and Wulf stared at the heap, and the heap stared at them. Then, at some motion of his chin, Masouda arose and said:

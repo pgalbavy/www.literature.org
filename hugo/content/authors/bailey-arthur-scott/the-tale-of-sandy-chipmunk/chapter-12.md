@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Sandy Gets A Letter"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-12.html"
 ---
 
 After Sandy Chipmunk, with the letter in his mouth, escaped from Farmer Green, he ran home and showed his letter to everybody he met. He felt very proud.

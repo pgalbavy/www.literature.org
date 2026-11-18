@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - East And West"
 weight: 13
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-13.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-13.html"
 ---
 
 After the supper there were obligations which the Prince, whose sense of etiquette was always strong, could not avoid. He took Penelope back to her aunt, reminding her that the next dance but one belonged to him. Miss Morse, who was an invalid and was making one of her very rare appearances in Society, watched him curiously as he disappeared.

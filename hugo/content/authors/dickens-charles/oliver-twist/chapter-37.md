@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - In Which The Reader May Perceive A Contrast, Not Uncommon In Matrimonial Cases"
 weight: 37
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-37.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-37.html"
 ---
 
 Mr. Bumble sat in the workhouse parlour, with his eyes moodily fixed on the cheerless grate, whence, as it was summer time, no brighter gleam proceeded, than the reflection of certain sickly rays of the sun, which were sent back from its cold and shining surface. A paper fly-cage dangled from the ceiling, to which he occasionally raised his eyes in gloomy thought; and, as the heedless insects hovered round the gaudy net-work, Mr. Bumble would heave a deep sigh, while a more gloomy shadow overspread his countenance. Mr. Bumble was meditating; it might be that the insects brought to mind, some painful passage in his own past life.

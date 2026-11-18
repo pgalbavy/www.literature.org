@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Disquieting News"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-26.html"
 ---
 
 The reply to the telegram was delayed so long that the *Island Belle* was in sight when the operator handed it to the impatient Alvin.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Thwarted"
 weight: 12
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-12.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-12.html"
 ---
 
 Instantly a sense of elation, tingling as an electric shock, surged over Stratton, and his grip on the Colt tightened. At last he was face to face with something definite and concrete, and in a moment all the little doubts and nagging nervous qualms which had assailed him from time to time during his long vigil were swept away. Cautiously drawing his gun into position, he felt for a match with the other hand and prepared to scratch it against the side of the bunk.

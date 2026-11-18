@@ -1,8 +1,7 @@
 ---
 title: "Book 9 - Chapter 21"
 weight: 188
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-09-chapter-21.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-09-chapter-21.html"
 ---
 
 After the definite refusal he had received, Petya went to his room and there locked himself in and wept bitterly. When he came in to tea, silent, morose, and with tear-stained face, everybody pretended not to notice anything.

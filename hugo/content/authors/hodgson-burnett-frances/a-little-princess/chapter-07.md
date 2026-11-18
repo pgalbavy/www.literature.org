@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Diamond-Mines Again"
 weight: 8
-aliases:
-  - "/authors/hodgson-burnett-frances/a-little-princess/chapter-07.html"
+url: "/authors/hodgson-burnett-frances/a-little-princess/chapter-07.html"
 ---
 
 When Sara entered the holly-hung school-room in the afternoon, she did so as the head of a sort of procession. Miss Minchin, in her grandest silk dress, led her by the hand. A man-servant followed, carrying the box containing the Last Doll, a housemaid carried a second box, and Becky brought up the rear, carrying a third and wearing a clean apron and a new cap. Sara would have much preferred to enter in the usual way, but Miss Minchin had sent for her, and, after an interview in her private sitting-room, had expressed her wishes.

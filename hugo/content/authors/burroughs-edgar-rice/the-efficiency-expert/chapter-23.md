@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Laid Up"
 weight: 23
-aliases:
-  - "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-23.html"
+url: "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-23.html"
 ---
 
 Harriet Holden was sitting in Elizabeth's boudoir. "And he had the effrontery," the latter was saying, "to tell me what I must do and must not do! The idea! A miserable little milk-wagon driver dictating to me!"

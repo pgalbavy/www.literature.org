@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Sydney Carton"
 weight: 20
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-20.html"
+url: "/authors/tarkington-booth/seventeen/chapter-20.html"
 ---
 
 At the farm-house where the party were to dine, Miss Pratt with joy discovered a harmonium in the parlor, and, seating herself, with all the girls, Flopit, and Mr. George Crooper gathered around her, she played an accompaniment, while George, in a thin tenor of detestable sweetness, sang "I'm Falling in Love with Some One."

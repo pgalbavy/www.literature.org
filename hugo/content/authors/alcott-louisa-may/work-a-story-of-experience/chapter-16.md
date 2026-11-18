@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Mustered In"
 weight: 16
-aliases:
-  - "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-16.html"
+url: "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-16.html"
 ---
 
 CHRISTIE'S return was a very happy one, and could not well be otherwise with a mother, sister, and lover to welcome her back. Her meeting with Letty was indescribably tender, and the days that followed were pretty equally divided between her and her brother, in nursing the one and loving the other. There was no cloud now in Christie's sky, and all the world seemed in bloom. But even while she enjoyed every hour of life, and begrudged the time given to sleep, she felt as if the dream was too beautiful to last, and often said:

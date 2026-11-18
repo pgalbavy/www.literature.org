@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - \"It Came Like One Of Them Kansan Cyclones\""
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/wolf-ear-the-indian/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/wolf-ear-the-indian/chapter-07.html"
 ---
 
 As he was on the point of giving up all hope of ever seeing him again, Brinton Kingsland was naturally overjoyed at meeting his favourite pony. The situation of the young man would have proved a sad one, had he been compelled to wander over the prairie on foot, for he would have been liable to encounter hostiles at any moment.

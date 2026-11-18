@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Hearty Eater"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-06.html"
 ---
 
 A GREAT eater was Grandfather Mole. And having an enormous appetite he was fortunate in being expert at finding angleworms.

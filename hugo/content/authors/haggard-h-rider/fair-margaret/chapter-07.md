@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - News From Spain"
 weight: 7
-aliases:
-  - "/authors/haggard-h-rider/fair-margaret/chapter-07.html"
+url: "/authors/haggard-h-rider/fair-margaret/chapter-07.html"
 ---
 
 Peter Brome was a very quiet man, whose voice was not often heard about the place, and yet it was strange how dull and different the big, old house in Holborn seemed without him. Even the handsome Betty, with whom he was never on the best of terms, since there was much about her of which he disapproved, missed him, and said so to her cousin, who only answered with a sigh. For in the bottom of her heart Betty both feared and respected Peter. The fear was of his observant eyes and caustic words, which she knew were always words of truth, and the respect for the general uprightness of his character, especially where her own sex was concerned.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Dido Learns To Dance"
 weight: 4
-aliases:
-  - "/authors/barnum-richard/dido-the-dancing-bear/chapter-04.html"
+url: "/authors/barnum-richard/dido-the-dancing-bear/chapter-04.html"
 ---
 
 “You are a very nice, good, little bear, and I think you will soon learn to dance,” said the man as he rubbed Dido on the head, and gave him some water to drink, after Dido had eaten the bread. “Yes, I must soon start teaching you to dance.”

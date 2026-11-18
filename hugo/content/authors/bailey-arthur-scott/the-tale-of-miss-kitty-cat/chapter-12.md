@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Jolly Robin's News"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-12.html"
 ---
 
 IN A WAY Miss Kitty Cat was a patient creature. She could play a waiting game. She spent hours watching rat-holes without growing restless.

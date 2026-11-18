@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Of Those Things That Weaken, Or Tend To The Dissolution Of A Common-Wealth"
 weight: 31
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-29.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-29.html"
 ---
 
 Dissolution Of Common-wealths Proceedeth From Their Imperfect Institution Though nothing can be immortall, which mortals make; yet, if men had the use of reason they pretend to, their Common-wealths might be secured, at least, from perishing by internall diseases. For by the nature of their Institution, they are designed to live, as long as Man-kind, or as the Lawes of Nature, or as Justice it selfe, which gives them life. Therefore when they come to be dissolved, not by externall violence, but intestine disorder, the fault is not in men, as they are the Matter; but as they are the Makers, and orderers of them. For men, as they become at last weary of irregular justling, and hewing one another, and desire with all their hearts, to conforme themselves into one firme and lasting edifice; so for want, both of the art of making fit Laws, to square their actions by, and also of humility, and patience, to suffer the rude and combersome points of their present greatnesse to be taken off, they cannot without the help of a very able Architect, be compiled, into any other than a crasie building, such as hardly lasting out their own time, must assuredly fall upon the heads of their posterity.

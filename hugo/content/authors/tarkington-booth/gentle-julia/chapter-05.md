@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/tarkington-booth/gentle-julia/chapter-05.html"
+url: "/authors/tarkington-booth/gentle-julia/chapter-05.html"
 ---
 
 Although Noble had saluted the old couple so crossly, thus unconsciously making them, as he made the sidewalk, proxy for Mr. Atwater, so to speak, yet the sight of them penetrated his outer layers of preoccupation and had an effect upon him. In the midst of his suffering his imagination paused for a shudder: What miserable old gray shadows those two were! Thank Heaven he and Julia could never be like that! And in the haze that rose before his mind's eye he saw himself leading Julia through years of adventure in far parts of the world: there were glimpses of himself fighting grotesque figures on the edge of Himalayan precipices at dawn, while Julia knelt by the tent on the glacier and prayed for him. He saw head-waiters bowing him and Julia to tables in "strange, foreign cafés," and when they were seated, and he had ordered dishes that amazed her, he would say in a low voice: "Don't look now, but do you see that heavy-shouldered man with the insignia, sitting with that adventuress and those eight officers who are really his guards? Don't be alarmed, Julia, but I am here to *get* that man! Perhaps you remember what your father once said of me? Now, when what I have to do here is done, perhaps you may wish to write home and mention a few things to that old man!" And then a boy's changing voice seemed to sound again close by: "He said he just could stand the smell of *some* cigarettes, but if you burned any more o' yours on his porch⸺" And Noble came back miserably to town again.

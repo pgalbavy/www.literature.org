@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Change Of Base"
 weight: 7
-aliases:
-  - "/authors/chambers-robert-w/the-firing-line/chapter-07.html"
+url: "/authors/chambers-robert-w/the-firing-line/chapter-07.html"
 ---
 
 February, the gayest winter month on the East Coast, found the winter resorts already overcrowded. Relays and consignments of fashion arrived and departed on every train; the permanent winter colony, composed of those who owned or rented villas and those who remained for the three months at either of the great hotels, had started the season vigorously. Dances, dinners, lawn fêtes, entertainments for local churches and charities left little time for anything except the routine of the bathing-hour, the noon gathering at "The Breakers," and tea during the concert.

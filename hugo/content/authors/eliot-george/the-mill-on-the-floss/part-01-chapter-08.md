@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 8 - Mr. Tulliver Shows His Weaker Side"
 weight: 8
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-01-chapter-08.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-01-chapter-08.html"
 ---
 
 "Suppose sister Glegg should call her money in; it 'ud be very awkward for you to have to raise five hundred pounds now," said Mrs. Tulliver to her husband that evening, as she took a plaintive review of the day.

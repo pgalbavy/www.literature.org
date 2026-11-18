@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-16.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-16.html"
 ---
 
 This was before Margery went to Boston to try to develop her gift for making pretty sketches. Her father and mother and her brother strained every nerve to earn and save the money to cover her expenses. She went away full of innocent, joyous hope in the month of May. She boarded in a plain, quiet house, and had two rooms. One was her workroom and studio. She worked under a good-natured artist, who thought her a rather gifted little creature and used to take her to look at any pictures that were on exhibition. Taking into consideration her youth and limited advantages, she made such progress as led him to say that she had a future before her.

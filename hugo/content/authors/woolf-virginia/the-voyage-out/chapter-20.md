@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/woolf-virginia/the-voyage-out/chapter-20.html"
+url: "/authors/woolf-virginia/the-voyage-out/chapter-20.html"
 ---
 
 When considered in detail by Mr. Flushing and Mrs. Ambrose the expedition proved neither dangerous nor difficult. They found also that it was not even unusual. Every year at this season English people made parties which steamed a short way up the river, landed, and looked at the native village, bought a certain number of things from the natives, and returned again without damage done to mind or body. When it was discovered that six people really wished the same thing the arrangements were soon carried out.

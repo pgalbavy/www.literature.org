@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Catamount"
 weight: 7
-aliases:
-  - "/authors/titus-harold/the-last-straw/chapter-07.html"
+url: "/authors/titus-harold/the-last-straw/chapter-07.html"
 ---
 
 Three weeks after her arrival Jane made her first trip to town and Beck drove the pair of strong bays which swirled their buckboard over the road at a spanking trot.

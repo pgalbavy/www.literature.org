@@ -1,8 +1,7 @@
 ---
 title: "Glossary Of The Principal Scientific Terms Used In The Present Volume"
 weight: 18
-aliases:
-  - "/authors/darwin-charles/the-origin-of-species-6th-edition/glossary.html"
+url: "/authors/darwin-charles/the-origin-of-species-6th-edition/glossary.html"
 ---
 
 (I am indebted to the kindness of Mr. W.S. Dallas for this Glossary, which has been given because several readers have complained to me that some of the terms used were unintelligible to them. Mr. Dallas has endeavoured to give the explanations of the terms in as popular a form as possible.)

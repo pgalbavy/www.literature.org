@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/cooper-courtney-ryley/the-white-desert/chapter-10.html"
+url: "/authors/cooper-courtney-ryley/the-white-desert/chapter-10.html"
 ---
 
 Words would not come for a moment. Houston could only stare and realize that his burden had become greater than ever. In the wagons behind him were twenty men, guaranteed at least a month of labor, and now there was nothing to provide it. The mill was gone; the blade was still hanging in its sockets, a useless, distempered thing; the boiler was bent and blackened, the belting burned; the carriages and muley saws and edgers and trimmers were only so much junk. He turned at last to Ba'tiste, to ask tritely what he knew could not be answered:

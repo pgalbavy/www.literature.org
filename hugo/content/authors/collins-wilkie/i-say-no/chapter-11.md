@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Drawing-Master's Confession"
 weight: 11
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-11.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-11.html"
 ---
 
 "Is there nothing else you can suggest?" Emily asked.

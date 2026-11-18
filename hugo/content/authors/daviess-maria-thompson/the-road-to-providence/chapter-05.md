@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Little Raven And Her Covered Dish"
 weight: 5
-aliases:
-  - "/authors/daviess-maria-thompson/the-road-to-providence/chapter-05.html"
+url: "/authors/daviess-maria-thompson/the-road-to-providence/chapter-05.html"
 ---
 
 Wednesday morning dawned clear and bright. From over Providence Nob the round red old sun looked jovially and encouragingly down upon Providence, up and stirring at an unusually early hour, for in the mid-week came Sewing Circle day and the usual routine of work must be laid by before the noon meal, and every housewife in condition to forgather at the appointed place on the stroke of one. Mrs. Peavey had aroused the protesting Buck at the peep of dawn, the Pikes were all up and breakfasting by the first rays of light that fell over the Ridge, and the Hoover biscuits had been baked in the Pratt oven and handed across the fence fifteen minutes agone. Down the road Mr. Petway was energetically taking down the store shutters and Mr. Mosbey was building the blacksmith shop fire. Cindy had milked and started breakfast and Mother Mayberry had begun the difficult task of getting the Doctor up and ready for the morning meal. Martin Luther had had a glass of warm milk and was ready for an energetic attack upon his first repast.

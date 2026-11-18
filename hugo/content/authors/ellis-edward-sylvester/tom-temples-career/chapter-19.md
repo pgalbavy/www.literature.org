@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Tom Makes A Proposal"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-19.html"
 ---
 
 *TOM SPENT* the following three days in making himself familiar with localities in New York. He procured a pocket-map of the city, and guiding himself by it, walked about to so much good purpose that at the end of four days he knew more about the streets and public buildings than many who have lived in the city as many months.

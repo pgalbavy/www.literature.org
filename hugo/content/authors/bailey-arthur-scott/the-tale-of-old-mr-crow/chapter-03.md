@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Giant Scarecrow"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-03.html"
 ---
 
 Farmer Green always claimed that Mr. Crow was a ruffian and a robber.

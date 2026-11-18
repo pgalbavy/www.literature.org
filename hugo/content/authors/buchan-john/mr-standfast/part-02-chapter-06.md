@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 6 - The Col Of The Swallows"
 weight: 17
-aliases:
-  - "/authors/buchan-john/mr-standfast/part-02-chapter-06.html"
+url: "/authors/buchan-john/mr-standfast/part-02-chapter-06.html"
 ---
 
 He pointed to the slip on the table.

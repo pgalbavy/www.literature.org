@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Old Man And His Grandson"
 weight: 23
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-23.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-23.html"
 ---
 
 There was once a very old man, whose eyes had become dim, his ears dull of hearing, his knees trembled, and when he sat at table he could hardly hold the spoon, and spilt the broth upon the table-cloth or let it run out of his mouth. His son and his son’s wife were disgusted at this, so the old grandfather at last had to sit in the corner behind the stove, and they gave him his food in an earthenware bowl, and not even enough of it. And he used to look towards the table with his eyes full of tears. Once, too, his trembling hands could not hold the bowl, and it fell to the ground and broke. The young wife scolded him, but he said nothing and only sighed. Then they brought him a wooden bowl for a few half-pence, out of which he had to eat.

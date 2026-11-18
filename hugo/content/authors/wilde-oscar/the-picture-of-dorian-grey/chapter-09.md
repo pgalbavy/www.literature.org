@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-09.html"
+url: "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-09.html"
 ---
 
 As he was sitting at breakfast next morning, Basil Hallward was shown into the room.

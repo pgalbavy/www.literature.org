@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Gathering Of The Missionaries"
 weight: 3
-aliases:
-  - "/authors/buchan-john/greenmantle/chapter-02.html"
+url: "/authors/buchan-john/greenmantle/chapter-02.html"
 ---
 
 I wrote out a wire to Sandy, asking him to come up by the two-fifteen train and meet me at my flat.

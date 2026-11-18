@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Duc De Beaufort"
 weight: 16
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-16.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-16.html"
 ---
 
 The circumstances that had hastened the return of D'Artagnan to Paris were as follows:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-13.html"
+url: "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-13.html"
 ---
 
 We dined an hour after the train left. In the dining car were several newcomers, among others two negroes whom Caterna began to speak of as darkies.

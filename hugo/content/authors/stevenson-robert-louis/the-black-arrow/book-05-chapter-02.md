@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 2 - The Battle Of Shoreby"
 weight: 27
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-05-chapter-02.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-05-chapter-02.html"
 ---
 
 The whole distance to be crossed was not above a quarter of a mile. But they had no sooner debouched beyond the cover of the trees than they were aware of people fleeing and screaming in the snowy meadows upon either hand. Almost at the same moment a great rumour began to arise, and spread and grow continually louder in the town; and they were not yet half-way to the nearest house before the bells began to ring backwards from the steeple.

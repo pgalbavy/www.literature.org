@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 23
-aliases:
-  - "/authors/chambers-robert-w/cardigan/chapter-22.html"
+url: "/authors/chambers-robert-w/cardigan/chapter-22.html"
 ---
 
 By noon we were well on our way towards Boston, I riding beside Mrs. Hamilton's carriage wheels, Jack Mount perched up on the box, and very gay in a new suit of buckskins which he bought from a squaw in the village, the woman being an Oneida half-breed and a tailoress by trade.

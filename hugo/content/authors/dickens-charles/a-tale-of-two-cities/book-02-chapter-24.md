@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 24 - Drawn to the Loadstone Rock"
 weight: 30
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-24.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-24.html"
 ---
 
 IN SUCH RISINGS of fire and risings of sea- the firm earth shaken by the rushes of an angry ocean which had now no ebb, but was always on the flow, higher and higher, to the terror and wonder of the beholders on the shore- three years of tempest were consumed. Three more birthdays of little Lucie had been woven by the golden thread into the peaceful tissue of the life of her home.

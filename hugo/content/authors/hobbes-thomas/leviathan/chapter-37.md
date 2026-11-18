@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - Of Miracles, And Their Use"
 weight: 39
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-37.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-37.html"
 ---
 
 A Miracle Is A Work That Causeth Admiration By Miracles are signified the Admirable works of God: & therefore they are also called Wonders. And because they are for the most part, done, for a signification of his commandement, in such occasions, as without them, men are apt to doubt, (following their private naturall reasoning,) what he hath commanded, and what not, they are commonly in Holy Scripture, called Signes, in the same sense, as they are called by the Latines, Ostenta, and Portenta, from shewing, and fore-signifying that, which the Almighty is about to bring to passe.

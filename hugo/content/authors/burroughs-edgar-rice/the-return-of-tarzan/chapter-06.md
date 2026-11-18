@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Duel"
 weight: 6
-aliases:
-  - "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-06.html"
+url: "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-06.html"
 ---
 
 D'Arnot was asleep when Tarzan entered their apartments after leaving Rokoff's. Tarzan did not disturb him, but the following morning he narrated the happenings of the previous evening, omitting not a single detail.

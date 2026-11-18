@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/tarkington-booth/alice-adams/chapter-06.html"
+url: "/authors/tarkington-booth/alice-adams/chapter-06.html"
 ---
 
 Alice was busy with herself for two hours after dinner; but a little before nine o'clock she stood in front of her long mirror, completed, bright-eyed and solemn. Her hair, exquisitely arranged, gave all she asked of it; what artificialities in colour she had used upon her face were only bits of emphasis that made her prettiness the more distinct; and the dress, not rumpled by her mother's careful hours of work, was a white cloud of loveliness. Finally there were two triumphant bouquets of violets, each with the stems wrapped in tin-foil shrouded by a bow of purple chiffon; and one bouquet she wore at her waist and the other she carried in her hand.

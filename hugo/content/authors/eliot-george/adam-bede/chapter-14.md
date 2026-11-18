@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Return Home"
 weight: 14
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-14.html"
+url: "/authors/eliot-george/adam-bede/chapter-14.html"
 ---
 
 WHILE that parting in the wood was happening, there was a parting in the cottage too, and Lisbeth had stood with Adam at the door, straining her aged eyes to get the last glimpse of Seth and Dinah, as they mounted the opposite slope.

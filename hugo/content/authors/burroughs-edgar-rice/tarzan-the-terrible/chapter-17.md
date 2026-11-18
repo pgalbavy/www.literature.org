@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - By Jad-Bal-Lul"
 weight: 17
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-17.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-17.html"
 ---
 
 As Mo-sar carried Jane Clayton from the palace of Ko-tan, the king, the woman struggled incessantly to regain her freedom. He tried to compel her to walk, but despite his threats and his abuse she would not voluntarily take a single step in the direction in which he wished her to go. Instead she threw herself to the ground each time he sought to place her upon her feet, and so of necessity he was compelled to carry her though at last he tied her hands and gagged her to save himself from further lacerations, for the beauty and slenderness of the woman belied her strength and courage. When he came at last to where his men had gathered he was glad indeed to turn her over to a couple of stalwart warriors, but these too were forced to carry her since Mo-sar's fear of the vengeance of Ko-tan's retainers would brook no delays.

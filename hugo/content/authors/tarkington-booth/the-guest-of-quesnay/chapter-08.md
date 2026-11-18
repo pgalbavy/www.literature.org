@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/tarkington-booth/the-guest-of-quesnay/chapter-08.html"
+url: "/authors/tarkington-booth/the-guest-of-quesnay/chapter-08.html"
 ---
 
 Like most painters, I have supposed the tools of my craft harder to manipulate than those of others. The use of words, particularly, seemed readier, handier for the contrivance of effects than pigments. I thought the language of words less elusive than that of colour, leaving smaller margin for unintended effects; and, believing in complacent good faith that words conveyed exact meanings exactly, it was my innocent conception that almost anything might be so described in words that all who read must inevitably perceive that thing precisely. If this were true, there would be little work for the lawyers, who produce such tortured pages in the struggle to be definite, who swing riches from one family to another, save men from violent death or send them to it, and earn fortunes for themselves through the dangerous inadequacies of words. I have learned how great was my mistake, and now I am wishing I could shift paper for canvas, that I might paint the young man who came to interest me so deeply. I wish I might present him here in colour instead of trusting to this unstable business of words, so wily and undependable, with their shimmering values, that you cannot turn your back upon them for two minutes but they will be shouting a hundred things which they were not meant to tell.

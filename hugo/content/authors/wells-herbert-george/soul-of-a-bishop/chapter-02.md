@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Wear And Tear Of Episcopacy"
 weight: 2
-aliases:
-  - "/authors/wells-herbert-george/soul-of-a-bishop/chapter-02.html"
+url: "/authors/wells-herbert-george/soul-of-a-bishop/chapter-02.html"
 ---
 
 (1)

@@ -1,8 +1,7 @@
 ---
 title: "Prologue"
 weight: 1
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/prologue.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/prologue.html"
 ---
 
 Nadina, the Russian dancer who had taken Paris by storm, swayed to the sound of the applause, bowed and bowed again. Her narrow black eyes narrowed themselves still more, the long line of her scarlet mouth curved faintly upwards. Enthusiastic Frenchmen continued to beat the ground appreciatively as the curtain fell with a swish, hiding the reds and blues and magentas of the bizarre décors. In a swirl of blue and orange draperies the dancer left the stage. A bearded gentleman received her enthusiastically in his arms. It was the Manager.

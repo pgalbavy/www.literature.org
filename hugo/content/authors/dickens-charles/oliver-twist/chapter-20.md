@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Wherein Oliver Is Delivered Over To Mr. William Sikes"
 weight: 20
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-20.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-20.html"
 ---
 
 When Oliver awoke in the morning, he was a good deal surprised to find that a new pair of shoes, with strong thick soles, had been placed at his bedside; and that his old shoes had been removed. At first, he was pleased with the discovery: hoping that it might be the forerunner of his release; but such thoughts were quickly dispelled, on his sitting down to breakfast along with the Jew, who told him, in a tone and manner which increased his alarm, that he was to be taken to the residence of Bill Sikes that night.

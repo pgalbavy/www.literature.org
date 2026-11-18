@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 16 - The Feast Of The Three Hobgoblins"
 weight: 49
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-03-chapter-16.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-03-chapter-16.html"
 ---
 
 The City looked unpromising enough, as Bella made her way along its gritty streets. Most of its money-mills were slackening sail, or had left off grinding for the day. The master-millers had already departed, and the journeymen were departing. There was a jaded aspect on the business lanes and courts, and the very pavements had a weary appearance, confused by the tread of a million of feet. There must be hours of night to temper down the day’s distraction of so feverish a place. As yet the worry of the newly-stopped whirling and grinding on the part of the money-mills seemed to linger in the air, and the quiet was more like the prostration of a spent giant than the repose of one who was renewing his strength.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-05.html"
 ---
 
 A Daring Attempt by Captain Paul Jones—Why It Failed —A Bold Scheme—Why It Did Not Succeed —The Fight Between the *Ranger* and *Drake*.

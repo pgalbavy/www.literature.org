@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/tarkington-booth/alice-adams/chapter-11.html"
+url: "/authors/tarkington-booth/alice-adams/chapter-11.html"
 ---
 
 After that, she went to her room and sat down before her three-leaved mirror. There was where she nearly always sat when she came into her room, if she had nothing in mind to do. She went to that chair as naturally as a dog goes to his corner.

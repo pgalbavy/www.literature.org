@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Pirate Ship"
 weight: 14
-aliases:
-  - "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-14.html"
+url: "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-14.html"
 ---
 
 One green light squinting over Kidd's Creek, which is near the mouth of the pirate river, marked where the brig, the JOLLY ROGER, lay, low in the water; a rakish-looking [speedy-looking] craft foul to the hull, every beam in her detestable, like ground strewn with mangled feathers. She was the cannibal of the seas, and scarce needed that watchful eye, for she floated immune in the horror of her name.

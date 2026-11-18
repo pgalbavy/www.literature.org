@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Missing"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-15.html"
 ---
 
 But there was no avoiding the risk. In silence the little party threaded their way along the margin of the prairie, listening for the sounds they dreaded to hear, and peering through the gloom for the forms they held in unspeakable fear. Not until they had progressed several hundred yards can it be said that the rancher breathed freely. Then he checked his pony, and those behind him did the same.

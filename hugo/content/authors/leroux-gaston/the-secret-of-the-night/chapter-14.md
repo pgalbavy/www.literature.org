@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Marshes"
 weight: 14
-aliases:
-  - "/authors/leroux-gaston/the-secret-of-the-night/chapter-14.html"
+url: "/authors/leroux-gaston/the-secret-of-the-night/chapter-14.html"
 ---
 
 They ascertained the next day that there had been two explosions, almost simultaneous, one under each staircase. The two Nihilists, when they felt themselves discovered, and watched by Ermolai, had thrown themselves silently on him as he turned his back in passing them, and strangled him with a piece of twine. Then they separated each to watch one of the staircases, reasoning that Koupriane and General Trebassof would have to decide to descend.

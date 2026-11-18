@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 10"
 weight: 10
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-01-chapter-10.html"
+url: "/authors/cather-willa/song-of-the-lark/part-01-chapter-10.html"
 ---
 
 Wunsch and old Fritz and Spanish Johnny celebrated Christmas together, so riotously that Wunsch was unable to give Thea her lesson the next day. In the middle of the vacation week Thea went to the Kohlers' through a soft, beautiful snowstorm. The air was a tender blue-gray, like the color on the doves that flew in and out of the white dove-house on the post in the Kohlers' garden. The sand hills looked dim and sleepy. The tamarisk hedge was full of snow, like a foam of blossoms drifted over it. When Thea opened the gate, old Mrs. Kohler was just coming in from the chicken yard, with five fresh eggs in her apron and a pair of old top-boots on her feet. She called Thea to come and look at a bantam egg, which she held up proudly. Her bantam hens were remiss in zeal, and she was always delighted when they accomplished anything. She took Thea into the sitting-room, very warm and smelling of food, and brought her a plateful of little Christmas cakes, made according to old and hallowed formulae, and put them before her while she warmed her feet. Then she went to the door of the kitchen stairs and called: “Herr Wunsch, Herr Wunsch!”

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-04.html"
+url: "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-04.html"
 ---
 
 All their lives the children had acted in unison. When they had been tiny creatures they had played the same games and used the same toys. It had seemed of little importance that their belongings were those of a boy and girl. When Robin had played with tops and marbles, Meg had played with them too. When Meg had been in a domestic and maternal mood, and had turned to dolls and dolls’ housekeeping, Robin had assumed some masculine rôle connected with the amusement. It had entertained him as much at times to be the dolls’ doctor, or the carpenter who repaired the dolls’ furniture or made plans for the enlargement of the dolls’ house, as it had entertained Meg to sew the flags and dress the sailors who manned his miniature ships, and assist him with the tails of his kites. They had had few playmates, and had pleased each other far better than outsiders could have done.

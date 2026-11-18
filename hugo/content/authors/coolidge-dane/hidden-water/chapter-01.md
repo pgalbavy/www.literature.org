@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Mouse"
 weight: 1
-aliases:
-  - "/authors/coolidge-dane/hidden-water/chapter-01.html"
+url: "/authors/coolidge-dane/hidden-water/chapter-01.html"
 ---
 
 After many long, brooding days of sunshine, when the clean-cut mountains gleamed brilliantly against the sky and the grama grass curled slowly on its stem, the rain wind rose up suddenly out of Papaguería and swooped down upon the desolate town of Bender, whirling a cloud of dust before it; and the inhabitants, man and horse, took to cover. New-born clouds, rushing out of the ruck of flying dirt, cast a cold, damp shadow upon the earth and hurried past; white-crested thunder-caps, piling-up above the Four Peaks, swept resolutely down to meet them; and the storm wind, laden with the smell of greasewood and wetted alkali, lashed the gaunt desert bushes mercilessly as it howled across the plain. Striking the town it jumped wickedly against the old Hotel Bender, where most of the male population had taken shelter, buffeting its false front until the glasses tinkled and the bar mirrors swayed dizzily from their moorings. Then with a sudden thunder on the tin roof the flood came down, and Black Tex set up the drinks.

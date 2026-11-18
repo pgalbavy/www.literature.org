@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-04.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-04.html"
 ---
 
 What happened to me next on the sealing-schooner Ghost, as I strove to fit into my new environment, are matters of humiliation and pain. The cook, who was called "the doctor" by the crew, "Tommy" by the hunters, and "Cooky" by Wolf Larsen, was a changed person. The difference worked in my status brought about a corresponding difference in treatment from him. Servile and fawning as he had been before, he was now as domineering and bellicose. In truth, I was no longer the fine gentleman with a skin soft as a "lydy's," but only an ordinary and very worthless cabin-boy.

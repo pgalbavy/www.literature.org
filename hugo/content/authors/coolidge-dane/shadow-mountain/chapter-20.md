@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - An Appeal To Charley"
 weight: 20
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-20.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-20.html"
 ---
 
 What is a kiss waved by a drunken hand, to a man whose love is like the hills? And yet that kiss, wafted so amorously to Virginia, stirred up a rage in Wiley Holman's heart. Was it not enough to wait on the table, without cultivating the acquaintance of her boarders? And this foolish affair, whatever it was, had cost him at least ten thousand dollars. It would come to that before he was through with it--in lost time and new machinery and unearned profits--and all because Virginia had smiled at this drunken engineer, who had promptly sent his overalls through the driving-gear. Yet that was the natural result of letting his men board in town where they could hear the Widow's ravings against him.

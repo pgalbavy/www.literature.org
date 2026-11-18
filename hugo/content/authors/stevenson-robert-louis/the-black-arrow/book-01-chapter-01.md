@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 1 - At The Sign Of The Sun In Kettley"
 weight: 2
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-01-chapter-01.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-01-chapter-01.html"
 ---
 
 Sir Daniel and his men lay in and about Kettley that night, warmly quartered and well patrolled. But the Knight of Tunstall was one who never rested from money-getting; and even now, when he was on the brink of an adventure which should make or mar him, he was up an hour after midnight to squeeze poor neighbours. He was one who trafficked greatly in disputed inheritances; it was his way to buy out the most unlikely claimant, and then, by the favour he curried with great lords about the king, procure unjust decisions in his favour; or, if that was too roundabout, to seize the disputed manor by force of arms, and rely on his influence and Sir Oliver's cunning in the law to hold what he had snatched. Kettley was one such place; it had come very lately into his clutches; he still met with opposition from the tenants; and it was to overawe discontent that he had led his troops that way.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Red Silk Scarf"
 weight: 5
-aliases:
-  - "/authors/leblanc-maurice/the-confessions-of-arsene-lupin/chapter-05.html"
+url: "/authors/leblanc-maurice/the-confessions-of-arsene-lupin/chapter-05.html"
 ---
 
 On leaving his house one morning, at his usual early hour for going to the Law Courts, Chief-inspector Ganimard noticed the curious behaviour of an individual who was walking along the Rue Pergolèse in front of him. Shabbily dressed and wearing a straw hat, though the day was the first of December, the man stooped at every thirty or forty yards to fasten his boot-lace, or pick up his stick, or for some other reason. And, each time, he took a little piece of orange-peel from his pocket and laid it stealthily on the kerb of the pavement. It was probably a mere display of eccentricity, a childish amusement to which no one else would have paid attention; but Ganimard was one of those shrewd observers who are indifferent to nothing that strikes their eyes and who are never satisfied until they know the secret cause of things. He therefore began to follow the man.

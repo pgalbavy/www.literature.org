@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 15"
 weight: 33
-aliases:
-  - "/authors/austen-jane/emma/volume-02-chapter-15.html"
+url: "/authors/austen-jane/emma/volume-02-chapter-15.html"
 ---
 
 Emma was not required, by any subsequent discovery, to retract her ill opinion of Mrs. Elton. Her observation had been pretty correct. Such as Mrs. Elton appeared to her on this second interview, such she appeared whenever they met again,--self-important, presuming, familiar, ignorant, and ill-bred. She had a little beauty and a little accomplishment, but so little judgment that she thought herself coming with superior knowledge of the world, to enliven and improve a country neighbourhood; and conceived Miss Hawkins to have held such a place in society as Mrs. Elton's consequence only could surpass.

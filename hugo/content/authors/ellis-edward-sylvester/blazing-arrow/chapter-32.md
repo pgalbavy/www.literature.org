@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - The Last Halt"
 weight: 32
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-32.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-32.html"
 ---
 
 Within the following half hour a pleasant surprise came to the little party.

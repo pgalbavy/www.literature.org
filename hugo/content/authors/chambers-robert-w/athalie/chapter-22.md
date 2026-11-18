@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-22.html"
+url: "/authors/chambers-robert-w/athalie/chapter-22.html"
 ---
 
 The following day Clive replied to his wife by cable: "As it seems to make no unpleasant difference to you I have concluded to remain in New York. Please take whatever steps you may find most convenient and agreeable for yourself."

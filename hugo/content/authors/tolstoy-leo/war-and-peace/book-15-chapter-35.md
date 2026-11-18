@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 35"
 weight: 352
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-35.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-35.html"
 ---
 
 The conversation at supper was not about politics or societies, but turned on the subject Nicholas liked best- recollections of 1812. Denisov started these and Pierre was particularly agreeable and amusing about them. The family separated on the most friendly terms.

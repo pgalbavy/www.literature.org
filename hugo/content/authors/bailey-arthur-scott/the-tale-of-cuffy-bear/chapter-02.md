@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Cuffy Bear Finds A Porcupine"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-02.html"
 ---
 
 For a few minutes Cuffy stood in the doorway and blinked and blinked. He rubbed his eyes, for the bright sunlight hurt them. But soon he and Silkie were frisking and tumbling about in the front-yard.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/verne-jules/from-the-earth-to-the-moon/chapter-02.html"
+url: "/authors/verne-jules/from-the-earth-to-the-moon/chapter-02.html"
 ---
 
 On the 5th of October, at eight p.m., a dense crowd pressed toward the saloons of the Gun Club at No. 21 Union Square. All the members of the association resident in Baltimore attended the invitation of their president. As regards the corresponding members, notices were delivered by hundreds throughout the streets of the city, and, large as was the great hall, it was quite inadequate to accommodate the crowd of _savants_. They overflowed into the adjoining rooms, down the narrow passages, into the outer courtyards. There they ran against the vulgar herd who pressed up to the doors, each struggling to reach the front ranks, all eager to learn the nature of the important communication of President Barbicane; all pushing, squeezing, crushing with that perfect freedom of action which is so peculiar to the masses when educated in ideas of "self-government."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-04.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-04.html"
 ---
 
 There was one facet of the great stone of War upon which many strange things were written. They were not the things most discussed or considered. They were results--not causes. But for the stress of mental, spiritual and physical tempest-of-being the colossal background of storm created, many of them might never have happened; but the consequences of their occurrence were to touch close, search deep, and reach far into the unknown picture of the World the great War might leave in fragments which could only be readjusted by centuries of time.

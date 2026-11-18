@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 4 - A Race To Lutha"
 weight: 16
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-04.html"
+url: "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-04.html"
 ---
 
 Barney's fall was not more than four or five feet. He found himself upon a slippery floor of masonry over which two or three inches of water ran sluggishly. Above him he heard the soldiers pass the open manhole. It was evident that in the darkness they had missed it.

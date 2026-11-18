@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 2"
 weight: 4
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-01-chapter-02.html"
+url: "/authors/conrad-joseph/the-rescue/part-01-chapter-02.html"
 ---
 
 It was half-past eight o'clock before Lingard came on deck again. Shaw—now with a coat on—trotted up and down the poop leaving behind him a smell of tobacco smoke. An irregularly glowing spark seemed to run by itself in the darkness before the rounded form of his head. Above the masts of the brig the dome of the clear heaven was full of lights that flickered, as if some mighty breathings high up there had been swaying about the flame of the stars. There was no sound along the brig's decks, and the heavy shadows that lay on it had the aspect, in that silence, of secret places concealing crouching forms that waited in perfect stillness for some decisive event. Lingard struck a match to light his cheroot, and his powerful face with narrowed eyes stood out for a moment in the night and vanished suddenly. Then two shadowy forms and two red sparks moved backward and forward on the poop. A larger, but a paler and oval patch of light from the compass lamps lay on the brasses of the wheel and on the breast of the Malay standing by the helm. Lingard's voice, as if unable altogether to master the enormous silence of the sea, sounded muffled, very calm—without the usual deep ring in it.

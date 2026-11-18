@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Containing The History Of The Breaking Of The Horse Devil, And Relates The Returning Of His Grace Of Osmonde From France"
 weight: 15
-aliases:
-  - "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-14.html"
+url: "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-14.html"
 ---
 
 There were in this strange nature, depths so awful and profound that it was not to be sounded or to be judged as others were. But one thing could have melted or caused the unconquerable spirit to bend, and this was the overwhelming passion of love--not a slight, tender feeling, but a great and powerful one, such as could be awakened but by a being of as strong and deep a nature as itself, one who was in all things its peer.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Letters To His Boys"
 weight: 11
-aliases:
-  - "/authors/hughes-thomas/memoir-of-a-brother/chapter-10.html"
+url: "/authors/hughes-thomas/memoir-of-a-brother/chapter-10.html"
 ---
 
 The doubts as to his own usefulness in the world, noticed in the last chapter, wore off naturally as he fell into the routine of country life; but it was the growth of the younger generation—of you for whom this sketch is written—which found him in work and interest during the last years of his life. I could never have envied him anything; but if there was one talent of his more than another which I have longed to share, it was his power of winning, not only the love, but the frank confidence, of his own, and all other boys. I think the secret was, that he was far more in sympathy with them; could realize more vividly their pleasures, and troubles, than almost any man of his age. And then, he had never given up athletic games altogether, and was still a far better cricketer and football player than most boys, and ready to join them in their sports whenever they seemed to wish it.

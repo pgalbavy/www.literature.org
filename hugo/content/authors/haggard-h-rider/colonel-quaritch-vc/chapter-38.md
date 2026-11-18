@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - Colonel Quaritch Expresses His Views"
 weight: 38
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-38.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-38.html"
 ---
 
 Meanwhile things had been going very ill at the Castle. Edward Cossey's lawyers were carrying out their client's instructions to the letter with a perseverance and ingenuity worthy of a County Court solicitor. Day by day they found a new point upon which to harass the wretched Squire. Some share of the first expenses connected with the mortgages had, they said, been improperly thrown upon their client, and they again and again demanded, in language which was almost insolent, the immediate payment of the amount. Then there was three months' interest overdue, and this also they pressed and clamoured for, till the old gentleman was nearly driven out of his senses, and as a consequence drove everybody about the place out of theirs.

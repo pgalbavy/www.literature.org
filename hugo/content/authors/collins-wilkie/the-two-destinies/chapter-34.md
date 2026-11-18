@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - By Land And Sea"
 weight: 35
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-34.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-34.html"
 ---
 
 IT mattered little to me to what port the vessel was bound. Go where I might, I knew that I was on my way to Mrs. Van Brandt. She had need of me again; she had claimed me again. Where the visionary hand of the child had pointed, thither I was destined to go. Abroad or at home, it mattered nothing: when I next set my foot on the land, I should be further directed on the journey which lay before me. I believed this as firmly as I believed that I had been guided, thus far, by the vision of the child.

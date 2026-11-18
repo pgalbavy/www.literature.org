@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Marooned"
 weight: 2
-aliases:
-  - "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-02.html"
+url: "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-02.html"
 ---
 
 As Tarzan and his guide had disappeared into the shadows upon the dark wharf the figure of a heavily veiled woman had hurried down the narrow alley to the entrance of the drinking-place the two men had just quitted.

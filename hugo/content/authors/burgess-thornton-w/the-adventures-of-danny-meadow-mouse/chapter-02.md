@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Danny Meadow Mouse And His Short Tail"
 weight: 2
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-02.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-02.html"
 ---
 
 *ALL* Danny Meadow Mouse could think about was his short tail. He was so ashamed of it that whenever any one passed, he crawled out of sight so that they should not see how short his tail is. Instead of playing in the sunshine as he used to do, he sat and sulked. Pretty soon his friends began to pass without stopping. Finally one day old Mr. Toad sat down in front of Danny and began to ask questions.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Mauki"
 weight: 3
-aliases:
-  - "/authors/london-jack/south-sea-tales/chapter-03.html"
+url: "/authors/london-jack/south-sea-tales/chapter-03.html"
 ---
 
 He weighed one hundred and ten pounds. His hair was kinky and negroid, and he was black. He was peculiarly black. He was neither blue-black nor purple-black, but plum-black. His name was Mauki, and he was the son of a chief. He had three tambos. Tambo is Melanesian for taboo, and is first cousin to that Polynesian word. Mauki's three tambos were as follows: First, he must never shake hands with a woman, nor have a woman's hand touch him or any of his personal belongings; secondly, he must never eat clams nor any food from a fire in which clams had been cooked; thirdly, he must never touch a crocodile, nor travel in a canoe that carried any part of a crocodile even if as large as a tooth.

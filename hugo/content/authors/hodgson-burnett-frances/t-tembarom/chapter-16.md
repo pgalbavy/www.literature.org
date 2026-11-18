@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-16.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-16.html"
 ---
 
 A fugitive fine day which had strayed into the month from the approaching spring appeared the next morning, and Miss Alicia was uplifted by the enrapturing suggestion that she should join her new relative in taking a walk, in fact that it should be she who took him to walk and showed him some of his possessions. This, it had revealed itself to him, she could do in a special way of her own, because during her life at Temple Barholm she had felt it her duty to “try to do a little good” among the villagers. She and her long-dead mother and sister had of course been working adjuncts of the vicarage, and had numerous somewhat trying tasks to perform in the way of improving upon “dear papa's” harrying them into attending church, chivying the mothers into sending their children to Sunday-school, and being unsparing in severity of any conduct which might be construed into implying lack of appreciation of the vicar or respect for his eloquence.

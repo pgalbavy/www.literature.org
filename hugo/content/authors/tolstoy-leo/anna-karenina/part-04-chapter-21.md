@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 21"
 weight: 122
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-04-chapter-21.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-04-chapter-21.html"
 ---
 
 Before Betsy had time to walk out of the drawing-room, she was met in the doorway by Stepan Arkadyevitch, who had just come from Yeliseev's, where a consignment of fresh oysters had been received.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Hunter's Wooing"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/the-riflemen-of-the-miami/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/the-riflemen-of-the-miami/chapter-06.html"
 ---
 
 And we knew  

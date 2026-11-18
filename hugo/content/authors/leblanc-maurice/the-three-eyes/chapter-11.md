@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Cathedral"
 weight: 11
-aliases:
-  - "/authors/leblanc-maurice/the-three-eyes/chapter-11.html"
+url: "/authors/leblanc-maurice/the-three-eyes/chapter-11.html"
 ---
 
 The crowd could not recover from its stupefaction. It sat and waited. It had heard through me of the Three Eyes, of their significance as a message, a preliminary illustration, something like the title or picture-poster of the coming spectacle. It remembered Edith Cavell's eyes, Philippe Dorgeroux's eyes, Bérangère's eyes, all those eyes which I had seen again afterwards; and it sat as though cramped in obstinate silence, as though it feared lest a word or a movement should scare away the invisible god who lay hidden within the wall. It was now filled with absolute certainty. This first proof of my sincerity and perspicacity was enough; there was not a single unbeliever left. The spectators stepped straight into regions which I had reached only by painful stages. Not a shadow of protest impaired their sensibility. Not a doubt interfered with their faith. Really, I saw around me nothing but serious attention, restrained enthusiasm, suppressed exaltation.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - A Good Samaritan"
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-27.html"
 ---
 
 The young rancher was yet some distance from the prostrate foe, when his quick eye discovered something. It was a crimson stain on the snow near the stock of the Indian's rifle.

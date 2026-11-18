@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-07.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-07.html"
 ---
 
 For the rest of the voyage Michael had the run of the ship. Friendly to all, he reserved his love for Steward alone, though he was not above many an undignified romp with the fox-terriers.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/baum-l-frank/ozma-of-oz/chapter-04.html"
+url: "/authors/baum-l-frank/ozma-of-oz/chapter-04.html"
 ---
 
 After an hour or so most of the band of Wheelers rolled back into the forest, leaving only three of their number to guard the hill. These curled themselves up like big dogs and pretended to go to sleep on the sands; but neither Dorothy nor Billina were fooled by this trick, so they remained in security among the rocks and paid no attention to their cunning enemies.

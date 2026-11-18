@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 27
-aliases:
-  - "/authors/chambers-robert-w/cardigan/chapter-26.html"
+url: "/authors/chambers-robert-w/cardigan/chapter-26.html"
 ---
 
 It was nearly ten o'clock; a freezing rain still swept the black Boston streets, with now and again a volley of hail, rattling on closed shutters and swinging shop-signs.

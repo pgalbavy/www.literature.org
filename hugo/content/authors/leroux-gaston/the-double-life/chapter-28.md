@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Not To Be Explained!"
 weight: 29
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-28.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-28.html"
 ---
 
 AS Théophraste was searching through the pocketbook of Signor Petito, he had wandered unconsciously away from the track into the fields. Upon returning, he was astonished to find the carriage had disappeared. He looked up and down the track, but could find no trace of it. Which was the most astonishing, the disappearance or the apparition of the train? He could not make it out, and the events had thrown him into a state bordering on prostration.

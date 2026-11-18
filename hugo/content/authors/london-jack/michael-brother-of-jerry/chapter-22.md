@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 23
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-22.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-22.html"
 ---
 
 Not altogether unwillingly, in the darkness of night, despite that he disliked the man, did Michael go with Harry Del Mar. Like a burglar the man came, with infinite caution of silence, to the outhouse in Doctor Emory's back yard where Michael was a prisoner. Del Mar knew the theatre too well to venture any hackneyed melodramatic effect such as an electric torch. He felt his way in the darkness to the door of the outhouse, unlatched it, and entered softly, feeling with his hands for the wire-haired coat.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/stoker-bram/lair-of-the-white-worm/chapter-04.html"
+url: "/authors/stoker-bram/lair-of-the-white-worm/chapter-04.html"
 ---
 
 "Now, there is no hurry, but so soon as you are both ready we shall start," Mr. Salton said when breakfast had begun. "I want to take you first to see a remarkable relic of Mercia, and then we'll go to Liverpool through what is called 'The Great Vale of Cheshire.' You may be disappointed, but take care not to prepare your mind"--this to Adam--"for anything stupendous or heroic. You would not think the place a vale at all, unless you were told so beforehand, and had confidence in the veracity of the teller. We should get to the Landing Stage in time to meet the WEST AFRICAN, and catch Mr. Caswall as he comes ashore. We want to do him honour--and, besides, it will be more pleasant to have the introductions over before we go to his FETE at the Castle."

@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 2 - Love Among The Wreckage"
 weight: 13
-aliases:
-  - "/authors/wells-herbert-george/tono-bungay/book-04-chapter-02.html"
+url: "/authors/wells-herbert-george/tono-bungay/book-04-chapter-02.html"
 ---
 
 I

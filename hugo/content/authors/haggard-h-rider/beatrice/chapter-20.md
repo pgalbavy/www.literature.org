@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Back At Bryngelly"
 weight: 21
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-20.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-20.html"
 ---
 
 Geoffrey and Mr. Granger reached Bolton Street about six o’clock. The drawing-room was still full of callers. Lady Honoria’s young men mustered in great force in those days. They were very inoffensive young men and Geoffrey had no particular objection to them. Only he found it difficult to remember all their names. When Geoffrey entered the drawing-room there were no fewer than five of them, to say nothing of two stray ladies, all superbly dressed and sitting metaphorically at Honoria’s very pretty feet. Otherwise their contributions to the general store of amusement did not amount to much, for her ladyship did most of the talking.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Jimmy Will Accept A Position"
 weight: 2
-aliases:
-  - "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-02.html"
+url: "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-02.html"
 ---
 
 Following his graduation he went to New York to visit with one of his classmates for a short time before returning home. He was a very self-satisfied Jimmy, nor who can wonder, since almost from his matriculation there had been constantly dinned into his ears the plaudits of his fellow students. Jimmy Torrance had been the one big outstanding feature of each succeeding class from his freshman to his senior year, and as a junior and senior he had been the acknowledged leader of the student body and as popular a man as the university had ever known.

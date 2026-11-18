@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Tum Tum And The Wagon"
 weight: 6
-aliases:
-  - "/authors/barnum-richard/tum-tum-the-jolly-elephant/chapter-06.html"
+url: "/authors/barnum-richard/tum-tum-the-jolly-elephant/chapter-06.html"
 ---
 
 "Please let me down! Oh, please do!" begged Don, the dog, of Tum Tum, the jolly elephant, as the big creature from the jungle held the dog high up in the air.

@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 21"
 weight: 105
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-05-chapter-21.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-05-chapter-21.html"
 ---
 
 The Emperor rode to the square where, facing one another, a battalion of the Preobrazhensk regiment stood on the right and a battalion of the French Guards in their bearskin caps on the left.

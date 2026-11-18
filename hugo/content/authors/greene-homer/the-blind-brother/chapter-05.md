@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Verdict"
 weight: 5
-aliases:
-  - "/authors/greene-homer/the-blind-brother/chapter-05.html"
+url: "/authors/greene-homer/the-blind-brother/chapter-05.html"
 ---
 
 Pale and trembling, Tom passed out into the aisle and down around the jury-box, and stepped upon the little railed platform.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - I Fall Into Disgrace"
 weight: 5
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-04.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-04.html"
 ---
 
 If the room to which my bed was removed were a sentient thing that could give evidence, I might appeal to it at this day--who sleeps there now, I wonder!--to bear witness for me what a heavy heart I carried to it. I went up there, hearing the dog in the yard bark after me all the way while I climbed the stairs; and, looking as blank and strange upon the room as the room looked upon me, sat down with my small hands crossed, and thought.

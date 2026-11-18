@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Dickon"
 weight: 10
-aliases:
-  - "/authors/hodgson-burnett-frances/the-secret-garden/chapter-10.html"
+url: "/authors/hodgson-burnett-frances/the-secret-garden/chapter-10.html"
 ---
 
 The sun shone down for nearly a week on the secret garden. The Secret Garden was what Mary called it when she was thinking of it. She liked the name, and she liked still more the feeling that when its beautiful old walls shut her in no one knew where she was. It seemed almost like being shut out of the world in some fairy place. The few books she had read and liked had been fairy-story books, and she had read of secret gardens in some of the stories. Sometimes people went to sleep in them for a hundred years, which she had thought must be rather stupid. She had no intention of going to sleep, and, in fact, she was becoming wider awake every day which passed at Misselthwaite. She was beginning to like to be out of doors; she no longer hated the wind, but enjoyed it. She could run faster, and longer, and she could skip up to a hundred. The bulbs in the secret garden must have been much astonished. Such nice clear places were made round them that they had all the breathing space they wanted, and really, if Mistress Mary had known it, they began to cheer up under the dark earth and work tremendously. The sun could get at them and warm them, and when the rain came down it could reach them at once, so they began to feel very much alive.

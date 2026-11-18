@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - The Trial"
 weight: 27
-aliases:
-  - "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-27.html"
+url: "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-27.html"
 ---
 
 Edith Hudson spent a restless night, and early in the morning, as early as she thought she could reach him, she called the office of Jimmy's attorney. She told the lawyer that some new evidence was to have been brought in to him and asked if he had received it. Receiving a negative reply she asked that she be called the moment it was brought in.

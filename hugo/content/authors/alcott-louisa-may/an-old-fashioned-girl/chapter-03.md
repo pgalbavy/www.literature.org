@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Polly's Troubles"
 weight: 4
-aliases:
-  - "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-03.html"
+url: "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-03.html"
 ---
 
 POLLY soon found that she was in a new world, a world where the manners and customs were so different from the simple ways at home, that she felt like a stranger in a strange land, and often wished that she had not come. In the first place, she had nothing to do but lounge and gossip, read novels, parade the streets, and dress; and before a week was gone, she was as heartily sick of all this, as a healthy person would be who attempted to live on confectionery. Fanny liked it, because she was used to it, and had never known anything better; but Polly had, and often felt like a little wood-bird shut up in a gilded cage. Nevertheless, she was much impressed by the luxuries all about her, enjoyed them, wished she owned them, and wondered why the Shaws were not a happier family. She was not wise enough to know where the trouble lay; she did not attempt to say which of the two lives was the right one; she only knew which she liked best, and supposed it was merely another of her “old-fashioned” ways.

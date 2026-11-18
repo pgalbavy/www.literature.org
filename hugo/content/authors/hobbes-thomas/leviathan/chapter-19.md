@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Of The Severall Kinds Of Common-Wealth By Institution, And Of Succession To The Soveraigne Power"
 weight: 21
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-19.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-19.html"
 ---
 
 The Different Formes Of Common-wealths But Three The difference of Common-wealths, consisteth in the difference of the Soveraign, or the Person representative of all and every one of the Multitude. And because the Soveraignty is either in one Man, or in an Assembly of more than one; and into that Assembly either Every man hath right to enter, or not every one, but Certain men distinguished from the rest; it is manifest, there can be but Three kinds of Common-wealth. For the Representative must needs be One man, or More: and if more, then it is the Assembly of All, or but of a Part. When the Representative is One man, then is the Common-wealth a MONARCHY: when an Assembly of All that will come together, then it is a DEMOCRACY, or Popular Common-wealth: when an Assembly of a Part onely, then it is called an ARISTOCRACY. Other kind of Common-wealth there can be none: for either One, or More, or All must have the Soveraign Power (which I have shewn to be indivisible) entire.

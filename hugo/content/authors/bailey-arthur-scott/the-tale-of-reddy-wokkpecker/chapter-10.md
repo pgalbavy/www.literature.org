@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Obeying Orders"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-10.html"
 ---
 
 Jolly Robin’s worrying wife wouldn’t give him a moment’s peace.

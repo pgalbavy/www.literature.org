@@ -1,8 +1,7 @@
 ---
 title: "introduction"
 weight: 999
-aliases:
-  - "/authors/cather-willa/my-antonia/introduction.html"
+url: "/authors/cather-willa/my-antonia/introduction.html"
 ---
 
 TO CARRIE AND IRENE MINER In memory of affections old and true

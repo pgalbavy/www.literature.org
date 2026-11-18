@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Mauritius to England"
 weight: 22
-aliases:
-  - "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-21.html"
+url: "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-21.html"
 ---
 
 arrow_rightMauritius, beautiful appearance of arrow_rightGreat crateriform ring of Mountains arrow_rightHindoos arrow_rightSt. Helena arrow_rightHistory of the changes in the Vegetation arrow_rightCause of the extinction of Land-shells arrow_rightAscension arrow_rightVariation in the imported Rats arrow_rightVolcanic Bombs arrow_rightBeds of Infusoria arrow_rightBahia arrow_rightBrazil arrow_rightSplendour of Tropical Scenery arrow_rightPernambuco arrow_rightSingular Reef arrow_rightSlavery arrow_rightReturn to England arrow_rightRetrospect on our Voyage. ---

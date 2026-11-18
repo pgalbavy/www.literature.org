@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - In The Mesquite Bush"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-08.html"
 ---
 
 We must not forget our young friend, Avon Burnet, who volunteered so willingly to run every risk for the sake of helping his relatives out of the most imminent peril of their lives.

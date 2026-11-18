@@ -1,8 +1,7 @@
 ---
 title: "Chapter 49 - Emily Suffers"
 weight: 49
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-49.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-49.html"
 ---
 
 Mrs. Ellmother--left in charge of Emily's place of abode, and feeling sensible of her lonely position from time to time--had just thought of trying the cheering influence of a cup of tea, when she heard a cab draw up at the cottage gate. A violent ring at the bell followed. She opened the door--and found Emily on the steps. One look at that dear and familiar face was enough for the old servant.

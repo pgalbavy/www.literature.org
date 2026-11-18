@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - On Guard"
 weight: 12
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-12.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-12.html"
 ---
 
 Though they saw comparatively little of each other, the friendly feeling established between Anice and Joan, in their first interview, gained strength gradually as time went on. Coming home from her work at noon or at night, Joan would see traces of Anice's presence, and listen to Liz's praises of her. Liz was fond of her and found comfort in her. The days when the gray pony came to a stop in his jog-trot on the roadside before the gate had a kind of pleasurable excitement in them. They were the sole spice of her life. She understood Anice as little as she understood Joan, but she liked her. She had a vague fancy that in some way Anice was like Joan; that there was the same strength in her,--a strength upon which she herself might depend. And then she found even a stronger attraction in her visitor's personal adornments, in her graceful dress, in any elegant trifle she wore. She liked to look at her clothes and ask questions about them, and wonder how she would look if she were the possessor of such beautiful things.

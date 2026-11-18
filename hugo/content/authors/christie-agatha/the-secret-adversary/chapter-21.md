@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Tommy Makes A Discovery"
 weight: 22
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/chapter-21.html"
+url: "/authors/christie-agatha/the-secret-adversary/chapter-21.html"
 ---
 
 *FOR* a moment or two they stood staring at each other stupidly, dazed with the shock. Somehow, inexplicably, Mr. Brown had forestalled them. Tommy accepted defeat quietly. Not so Julius.

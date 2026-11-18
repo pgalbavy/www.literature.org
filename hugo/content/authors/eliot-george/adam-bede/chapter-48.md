@@ -1,8 +1,7 @@
 ---
 title: "Chapter 48 - A Nother Meeting In The Wood"
 weight: 48
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-48.html"
+url: "/authors/eliot-george/adam-bede/chapter-48.html"
 ---
 
 THE next day, at evening, two men were walking from opposite points towards the same scene, drawn thither by a common memory. The scene was the Grove by Donnithorne Chase: you know who the men were.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - How Hall The Mate Cut The Grapnel Chain"
 weight: 14
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-13.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-13.html"
 ---
 
 Gudruda bent her head like a drooping flower, and presently sank to earth, for her knees would bear her weight no more; but Eric marched to the lip of the sea, his head held high and laughing merrily to hide his pain of heart. Here stood Asmund, who gripped him by both hands, and kissed him on the brow, bidding him good luck.

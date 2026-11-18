@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-18.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-18.html"
 ---
 
 It was several weeks before Custer could ride again, and in the meantime Shannon had gone down to her own place to live. She came up every day on Baldy, who had been loaned to her until Custer should be able to select a horse for her. She insisted that she would own nothing but a Morgan, and that she wanted one of the Apache’s brothers.

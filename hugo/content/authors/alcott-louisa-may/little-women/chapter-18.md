@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Dark Days"
 weight: 18
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-18.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-18.html"
 ---
 
 Beth did have the fever, and was much sicker than anyone but Hannah and the doctor suspected. The girls knew nothing about illness, and Mr. Laurence was not allowed to see her, so Hannah had everything her own way, and busy Dr. Bangs did his best, but left a good deal to the excellent nurse. Meg stayed at home, lest she should infect the Kings, and kept house, feeling very anxious and a little guilty when she wrote letters in which no mention was made of Beth's illness. She could not think it right to deceive her mother, but she had been bidden to mind Hannah, and Hannah wouldn't hear of 'Mrs. March bein' told, and worried just for sech a trifle.'

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/greene-homer/the-flag/chapter-09.html"
+url: "/authors/greene-homer/the-flag/chapter-09.html"
 ---
 
 Pen made good use of his leisure time at Lowbridge. There was no night school there, but the courses of a correspondence school were available, and through that medium he learned much, not only of that which pertained to his calling as a textile worker, but of that also which pertained to general science and broad culture. History had a special fascination for him; the theory of government, the struggles of the peoples of the old world toward light and liberty. The working out of the idea of democracy in a country like England which still retained its monarchical form and much of its aristocratic flavor, was a theme on which he dwelt with particular pleasure. Back somewhere in the line of descent his paternal ancestors had been of English blood, and he was proud of the heroism, the spirit and the energy which had made Great Britain one of the mighty nations of the earth.

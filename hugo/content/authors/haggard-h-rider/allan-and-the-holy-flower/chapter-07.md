@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Rush Of The Slaves"
 weight: 7
-aliases:
-  - "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-07.html"
+url: "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-07.html"
 ---
 
 Well, we did all that we could in the way of making ready. After we had strengthened the thorn fence of our boma as much as possible and lit several large fires outside of it to give us light, I allotted his place to each of the hunters and saw that their rifles were in order and that they had plenty of ammunition. Then I made Stephen lie down to sleep, telling him that I would wake him to watch later on. This, however, I had no intention of doing as I wanted him to rise fresh and with a steady nerve on the occasion of his first fight.

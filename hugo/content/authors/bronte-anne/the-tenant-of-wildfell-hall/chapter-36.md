@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 37
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-36.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-36.html"
 ---
 
 December 20th, 1824. - This is the third anniversary of our felicitous union. It is now two months since our guests left us to the enjoyment of each other's society; and I have had nine weeks' experience of this new phase of conjugal life - two persons living together, as master and mistress of the house, and father and mother of a winsome, merry little child, with the mutual understanding that there is no love, friendship, or sympathy between them. As far as in me lies, I endeavour to live peaceably with him: I treat him with unimpeachable civility, give up my convenience to his, wherever it may reasonably be done, and consult him in a business-like way on household affairs, deferring to his pleasure and judgment, even when I know the latter to be inferior to my own.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - The Last Blow"
 weight: 31
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-31.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-31.html"
 ---
 
 “He won't live,” the doctor said to Derrick. “He's not the man to get over such injuries, powerful as he looks. He has been a reckless, drunken brute, and what with the shock and reaction nothing will save him. The clumsy rascals who attacked him meant to do him harm enough, but they have done him more than they intended, or at least the man's antecedents will help them to a result they may not have aimed at. We may as well tell the girl, I suppose--fine creature, that girl, by the way. She won't have any sentimental regrets. It's a good riddance for her, to judge from what I know of them.”

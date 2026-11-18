@@ -1,8 +1,7 @@
 ---
 title: "Chapter 64 - Stubb's Supper"
 weight: 64
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-064.html"
+url: "/authors/melville-herman/moby-dick/chapter-064.html"
 ---
 
 Stubb's whale had been killed some distance from the ship. It was a calm; so, forming a tandem of three boats, we commenced the slow business of towing the trophy to the Pequod. And now, as we eighteen men with our thirty-six arms, and one hundred and eighty thumbs and fingers, slowly toiled hour after hour upon that inert, sluggish corpse in the sea; and it seemed hardly to budge at all, except at long intervals; good evidence was hereby furnished of the enormousness of the mass we moved. For, upon the great canal of Hang-Ho, or whatever they call it, in China, four or five laborers on the foot-path will draw a bulky freighted junk at the rate of a mile an hour; but this grand argosy we towed heavily forged along, as if laden with piglead in bulk.

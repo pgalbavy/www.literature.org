@@ -1,8 +1,7 @@
 ---
 title: "Chapter 63 - The Defense Of Mirabel"
 weight: 63
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-63.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-63.html"
 ---
 
 The discovery of the letter gave a new direction to Emily's thoughts--and so, for the time at least, relieved her mind from the burden that weighed on it. To what question, on her father's part, had "I say No" been Miss Jethro's brief and stern reply? Neither letter nor envelope offered the slightest hint that might assist inquiry; even the postmark had been so carelessly impressed that it was illegible.

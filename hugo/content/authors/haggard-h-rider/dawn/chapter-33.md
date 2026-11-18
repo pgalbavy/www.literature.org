@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 34
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-33.html"
+url: "/authors/haggard-h-rider/dawn/chapter-33.html"
 ---
 
 The morning after the vessel left Dartmouth brought with it lovely weather, brisk and clear, with a fresh breeze that just topped the glittering swell with white. There was, however, a considerable roll on the ship, and those poor wretches, who for their sins are given to sea-sickness, were not yet happy. Presently Arthur observed the pretty black-eyed girl--poor thing, she did not look very pretty now--creep on to the deck and attempt to walk about, an effort which promptly resulted in a fall into the scuppers. He picked her up, and asked if she would not like to sit down, but she faintly declined, saying that she did not mind falling so long as she could walk a little--she did not feel so sick when she walked. Under these circumstances he could hardly do less than help her, which he did in the only way at all practicable with one so weak, namely, by walking her about on his arm.

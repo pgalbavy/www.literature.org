@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Departure"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-19.html"
 ---
 
 As Mate Storms said, he had but little more communication to make with the negro.

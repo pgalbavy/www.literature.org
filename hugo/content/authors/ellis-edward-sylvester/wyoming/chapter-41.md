@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41"
 weight: 41
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-41.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-41.html"
 ---
 
 It need not be said that Fred Godfrey improved his opportunity to the utmost.

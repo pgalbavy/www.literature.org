@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/greene-homer/the-flag/chapter-06.html"
+url: "/authors/greene-homer/the-flag/chapter-06.html"
 ---
 
 It is little wonder that Pen passed a sleepless night, after the interview with his grandfather. He realized now, perhaps better than any one else, the seriousness of his offense. Knowing, so well as he did, Colonel Butler's reverence for all things patriotic, he did not wonder that he should be so deeply indignant. Pen, himself, felt that the least he could do, under the circumstances, was to publicly apologize for his conduct, bitter and humiliating as it would be to make such an apology. And he was willing to apologize to any one, to anything--save Alexander Sands. To this point of reparation he could not bring himself. This was the problem with which he struggled through the night hours. It was not a question, he told himself, over and over again, of whether he should leave Bannerhall, with its ease and luxury and choice traditions, and go to live on the little farm at Cobb's Corners. It was a question of whether he was willing to yield his self-respect and manhood to the point of humbling himself before Alexander Sands. It was not until he heard the clock in the hall strike three that he reached his decision.

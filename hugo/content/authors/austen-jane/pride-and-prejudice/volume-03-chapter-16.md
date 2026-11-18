@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 16"
 weight: 58
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-16.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-16.html"
 ---
 
 Instead of receiving any such letter of excuse from his friend, as Elizabeth half expected Mr. Bingley to do, he was able to bring Darcy with him to Longbourn before many days had passed after Lady Catherine's visit. The gentlemen arrived early; and, before Mrs. Bennet had time to tell him of their having seen his aunt, of which her daughter sat in momentary dread, Bingley, who wanted to be alone with Jane, proposed their all walking out. It was agreed to. Mrs. Bennet was not in the habit of walking, Mary could never spare time, but the remaining five set off together. Bingley and Jane, however, soon allowed the others to outstrip them. They lagged behind, while Elizabeth, Kitty, and Darcy, were to entertain each other. Very little was said by either; Kitty was too much afraid of him to talk; Elizabeth was secretly forming a desperate resolution; and perhaps he might be doing the same.

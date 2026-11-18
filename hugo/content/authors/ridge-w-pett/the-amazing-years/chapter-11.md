@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/ridge-w-pett/the-amazing-years/chapter-11.html"
+url: "/authors/ridge-w-pett/the-amazing-years/chapter-11.html"
 ---
 
 My mother used to say that everything in this world went by threes, and it surprised me but little to receive a prepaid telegram from William Richards; in his anxiety to economise he succeeded in being obscure, but I gained that he wished to marry me. (Subsequently I discovered he had the chance of an inspectorship at a suburban station, and entertained a fear that he might experience loneliness.) To Cartwright I sent a friendly note asking him to renew the suggestion when we were better acquainted with each other. At the back of my head, there was an apprehension that the success of the business in London Street had something to do with all this striking unanimity.

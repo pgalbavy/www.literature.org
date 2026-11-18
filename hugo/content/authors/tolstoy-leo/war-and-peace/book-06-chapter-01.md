@@ -1,8 +1,7 @@
 ---
 title: "Book 6 - Chapter 1"
 weight: 107
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-06-chapter-01.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-06-chapter-01.html"
 ---
 
 BOOK SIX: 1808 - 10

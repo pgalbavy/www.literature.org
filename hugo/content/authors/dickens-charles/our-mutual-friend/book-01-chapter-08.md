@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 8 - Mr Boffin In Consultation"
 weight: 8
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-01-chapter-08.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-01-chapter-08.html"
 ---
 
 Whosoever had gone out of Fleet Street into the Temple at the date of this history, and had wandered disconsolate about the Temple until he stumbled on a dismal churchyard, and had looked up at the dismal windows commanding that churchyard until at the most dismal window of them all he saw a dismal boy, would in him have beheld, at one grand comprehensive swoop of the eye, the managing clerk, junior clerk, common-law clerk, conveyancing clerk, chancery clerk, every refinement and department of clerk, of Mr Mortimer Lightwood, erewhile called in the newspapers eminent solicitor.

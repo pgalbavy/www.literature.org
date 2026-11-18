@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - A Surprise Indeed"
 weight: 28
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-scout/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-26.html"
 ---
 
 Mendez, the White Mountain Apache and friend of the whites, possessed mental gifts above most of his race. More than once he had displayed a grasp of details and a comprehension of plans rarely shown by his people, and which were so unexpected to the officers on the reservation that they were filled with admiration. They trusted more to his skill and perception than they did to any other of the dusky scouts.

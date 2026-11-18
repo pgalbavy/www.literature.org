@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Waif And A Stray"
 weight: 5
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-05.html"
+url: "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-05.html"
 ---
 
 “Bixby doesn’t own these machines!” exclaimed Carl angrily.

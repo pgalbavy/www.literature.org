@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 1"
 weight: 10
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-02-chapter-01.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-02-chapter-01.html"
 ---
 
 A great storm described; the long boat sent to fetch water; the author goes with it to discover the country. He is left on shore, is seized by one of the natives, and carried to a farmer’s house. His reception, with several accidents that happened there. A description of the inhabitants.

@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 1"
 weight: 1
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-01-chapter-01.html"
+url: "/authors/london-jack/valley-of-the-moon/book-01-chapter-01.html"
 ---
 
 "You hear me, Saxon? Come on along. What if it is the Bricklayers? I'll have gentlemen friends there, and so'll you. The Al Vista band'll be along, an' you know it plays heavenly. An' you just love dancin'---"

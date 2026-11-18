@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Burning Of Louvain"
 weight: 4
-aliases:
-  - "/authors/davis-richard-harding/with-the-allies/chapter-03.html"
+url: "/authors/davis-richard-harding/with-the-allies/chapter-03.html"
 ---
 
 After the Germans occupied Brussels they closed the road to Aix-laChapelle. A week later, to carry their wounded and prisoners, they reopened it. But for eight days Brussels was isolated. The mail-trains and the telegraph office were in the hands of the invaders. They accepted our cables, censored them, and three days later told us, if we still wished, we could forward them. But only from Holland. By this they accomplished three things: they learned what we were writing about them, for three days prevented any news from leaving the city, and offered us an inducement to visit Holland, so getting rid of us.

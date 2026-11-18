@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 35
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-35.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-35.html"
 ---
 
 It was almost a relief to Anne when she stood on the platform of the dingy little station and waved her farewell to Boone, leaving for the state capitol and his new duties. Of course, as she turned back to the squalid vistas of the coal-mining town, a sinking loneliness assailed her heart, but for Boone's safety she felt a blessed and compensating security.

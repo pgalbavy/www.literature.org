@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Annouchka"
 weight: 9
-aliases:
-  - "/authors/leroux-gaston/the-secret-of-the-night/chapter-09.html"
+url: "/authors/leroux-gaston/the-secret-of-the-night/chapter-09.html"
 ---
 
 "And now it’s between us two, Natacha," murmured Rouletabille as soon as he was outside. He hailed the first carriage that passed and gave the address of the datcha des Iles. When he got in he held his head between his hands; his face burned, his jaws were set. But by a prodigious effort of his will he resumed almost instantly his calm, his self-control. As he went back across the Neva, across the bridge where he had felt so elated a little while before, and saw the isles again he sighed heavily. "I thought I had got it all over with, so far as I was concerned, and now I don’t know where it will stop." His eyes grew dark for a moment with somber thoughts and the vision of the Lady in Black rose before him; then he shook his head, filled his pipe, lighted it, dried a tear that had been caused doubtless by a little smoke in his eye, and stopped sentimentalizing. A quarter of an hour later he gave a true Russian nobleman’s fist-blow in the back to the coachman as an intimation that they had reached the Trebassof villa. A charming picture was before him. They were all lunching gayly in the garden, around the table in the summer-house. He was astonished, however, at not seeing Natacha with them. Boris Mourazoff and Michael Korsakoff were there. Rouletabille did not wish to be seen. He made a sign to Ermolai, who was passing through the garden and who hurried to meet him at the gate.

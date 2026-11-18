@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 15"
 weight: 15
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-15.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-15.html"
 ---
 
 At the end of the evening Kitty told her mother of her conversatiion with Levin, and in spite of all thepity she felt for Levin, she was glad at the thought that she had recdieve an OFFER. She had no doubt that she had acted rightly. But after she had gone to bed, for a long while she could not sleep. One impression pursued her relentlessly. It was Levin's face, with his scowling brows, and his kind eyes looking out in dark dejection below them, as he stood listening to her father, and glancing at her and at Vronsky. And she felt so sorry for him that tears came into her eyes. But immediately she thought of the man for whom whe had given nim up. She vividly recalled his manly, resolute face, his noble self-possession, and the good-nature conspicuous in everything towards every one. She remembered the love for her of the man she loved, and once more all was gadness in her soul, and she lay on the pillow, smiling with happiness. "I'm sorry, I'm sorry; but what could I do? It's not my fault," she said to herfelf; but an inner voice told her something else. Whether she felt remorse at having won Levin's love, or at having refused him, she did not know. But her happiness was poisoned by doubts. "Lord, have pity on us; Lord, have pity on us; Lord, have pity on us!" she repeated to herself, till she fell asleep.

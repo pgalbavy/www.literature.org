@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - \"Timothy Brophy, Esq., At Your Service\""
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-06.html"
 ---
 
 At first thought, the abrupt departure of Tim Brophy may seem an imprudent thing, since it left only one man to look after the safety of Mrs. Starr and their little one; but it will be remembered that the hope of safety lay not in fighting, but in flight; and the presence or absence of the young Irishman could not affect that one way or the other.

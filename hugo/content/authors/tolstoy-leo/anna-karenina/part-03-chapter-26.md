@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 26"
 weight: 95
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-03-chapter-26.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-03-chapter-26.html"
 ---
 
 Sviazhsky was the marshal of his district. He was five years older than Levin, and had long been married. His sister-in-law, a young girl Levin liked very much, lived in his house; and Levin knew that Sviazhsky and his wife would have greatly liked to marry the girl to him. He knew this with certainty, as so-called eligible young men always know it, though he could never have brought himself to speak of it to any one; and he knew too that, although he wanted to get married, and although by every token this very attractive girl would make an excellent wife, he could no more have married her, even if he had not been in love with Kitty Shtcherbatskaya, than he could have flown up to the sky. And this knowledge poisoned the pleasure he had hoped to find in the visit to Sviazhsky.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Good News"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-25.html"
 ---
 
 You will remember that Captain Alvin Landon and Second Mate Chester Haynes were disappointed, as in the nature of things was inevitable, in their search for the stolen motor boat *Deerfoot*, in the cove or small inlet at the lower end of Barter Island. The only glimpse they caught of a person on the launch, which bore a marked resemblance to their own, was when they first sighted the boat launch. Nothing was seen or heard of him afterward.

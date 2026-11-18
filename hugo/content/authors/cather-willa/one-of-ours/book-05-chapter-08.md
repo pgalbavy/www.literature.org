@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 8"
 weight: 61
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-05-chapter-08.html"
+url: "/authors/cather-willa/one-of-ours/book-05-chapter-08.html"
 ---
 
 Four o'clock... a summer dawn... his first morning in the trenches.

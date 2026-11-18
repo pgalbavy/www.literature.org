@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The First Number Of Our Magazine"
 weight: 6
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-05.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-05.html"
 ---
 
 The first number of Our Magazine was ready on New Year's Day, and we read it that evening in the kitchen. All our staff had worked nobly and we were enormously proud of the result, although Dan still continued to scoff at a paper that wasn't printed. The Story Girl and I read it turnabout while the others, except Felix, ate apples. It opened with a short

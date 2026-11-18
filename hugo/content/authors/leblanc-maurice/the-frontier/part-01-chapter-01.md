@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 1 - A Head Between The Bushes"
 weight: 1
-aliases:
-  - "/authors/leblanc-maurice/the-frontier/part-01-chapter-01.html"
+url: "/authors/leblanc-maurice/the-frontier/part-01-chapter-01.html"
 ---
 
 "They've done it!"

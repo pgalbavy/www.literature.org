@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-30.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-30.html"
 ---
 
 In which Phileas Fogg simply does his duty

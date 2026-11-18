@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Whitey"
 weight: 7
-aliases:
-  - "/authors/tarkington-booth/penrod-and-sam/chapter-07.html"
+url: "/authors/tarkington-booth/penrod-and-sam/chapter-07.html"
 ---
 
 Penrod and Sam made a gloomy discovery one morning in mid-October. All the week had seen amiable breezes and fair skies until Saturday, when, about breakfast-time, the dome of heaven filled solidly with gray vapour and began to drip. The boys' discovery was that there is no justice about the weather.

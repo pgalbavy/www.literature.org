@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Dewey In The War With Spain"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-03.html"
 ---
 
 While engaged with his duties in Washington, Commodore Dewey found his close confinement to work had affected his health. Naturally strong and rugged, accustomed to the ozone of the ocean and toned up by the variety of the service, even in times of peace, the monotony of a continual round of the same duties told upon him, and his physician advised him to apply for sea service. He knew the counsel was wise and he made application, which was granted.

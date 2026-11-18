@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-26.html"
 ---
 
 The suspense was painful; not a whisper was exchanged, and the ear was strained to catch the sounds which they dreaded, and yet which seemed certain to come.

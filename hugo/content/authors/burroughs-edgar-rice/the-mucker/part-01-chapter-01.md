@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 1 - Billy Byrne"
 weight: 1
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-01.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-01.html"
 ---
 
 BILLY BYRNE was a product of the streets and alleys of Chicago's great West Side. From Halsted to Robey, and from Grand Avenue to Lake Street there was scarce a bartender whom Billy knew not by his first name. And, in proportion to their number which was considerably less, he knew the patrolmen and plain clothes men equally as well, but not so pleasantly.

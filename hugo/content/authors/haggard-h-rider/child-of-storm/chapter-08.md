@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The King’s Daughter"
 weight: 9
-aliases:
-  - "/authors/haggard-h-rider/child-of-storm/chapter-08.html"
+url: "/authors/haggard-h-rider/child-of-storm/chapter-08.html"
 ---
 
 When I got back to my wagons after this semi-tragical interview with that bombastic and self-seeking old windbag, Umbezi, it was to find that Saduko and his warriors had already marched for the King’s kraal, Nodwengu. A message awaited me, however, to the effect that it was hoped that I would follow, in order to make report of the affair of the destruction of the Amakoba. This, after reflection, I determined to do, really, I think, because of the intense human interest of the whole business. I wanted to see how it would work out.

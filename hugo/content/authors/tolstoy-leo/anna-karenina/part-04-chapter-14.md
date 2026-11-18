@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 14"
 weight: 115
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-04-chapter-14.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-04-chapter-14.html"
 ---
 
 When Kitty had gone and Levin was left alone, he felt such uneasiness without her and such an impatient longing to get as quickly, as quickly as possible, to to-morrow morning, when he would see her again and be plighted to her forever, that he felt afraid, as though of death, of those fourteen hours that he had to get through without her. It was essential for him to be with some one to talk to, so as not to be left alone, to kill time. Stepan Arkadyevitch would have been the companion most congenial to him, but he was going out, he said, to a soiree, in reality to the ballet. Levin only had time to tell him he was happy, and that he loved him, and would never, never forget what he had done for him. The eyes and the smile of Stepan Arkadyevitch showed Levin that he comprehended that feeling fittingly.

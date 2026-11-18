@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - The Mystery Is Solved"
 weight: 30
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-30.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-30.html"
 ---
 
 It was very mysterious. Yes, Sir, it was very mysterious. Mr. Quack thought so. Mrs. Quack thought so. There, out in the Big River, in the midst of the Black Shadows, was something which looked like the branch of a tree. But instead of moving down the river, as the branch of a tree would if it were floating, this was coming straight across the river as if it were swimming. But how could the branch of a tree swim? That was too much for Mr. Quack. It was too much for Mrs. Quack.

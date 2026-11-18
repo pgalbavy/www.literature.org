@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Lady Honoria Makes Arrangements"
 weight: 11
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-10.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-10.html"
 ---
 
 In another moment somebody entered the room; it was Elizabeth. She had returned from her tithe collecting expedition--with the tithe. The door of the sitting-room was still ajar, and Geoffrey had his back towards it. So it happened that nobody heard Elizabeth’s rather cat-like step, and for some seconds she stood in the doorway without being perceived. She stood quite still, taking in the whole scene at a glance. She noticed that her sister held her head down, so that her hair shadowed her, and guessed that she did so for some reason--probably because she did not wish her face to be seen. Or was it to show off her lovely hair? She noticed also the half shy, half amused, and altogether interested expression upon Geoffrey’s countenance--she could see that in the little gilt-edged looking-glass which hung over the fire-place, nor did she overlook the general air of embarrassment that pervaded them both.

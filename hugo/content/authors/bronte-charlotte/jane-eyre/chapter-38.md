@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38"
 weight: 39
-aliases:
-  - "/authors/bronte-charlotte/jane-eyre/chapter-38.html"
+url: "/authors/bronte-charlotte/jane-eyre/chapter-38.html"
 ---
 
 Reader, I married him. A quiet wedding we had: he and I, the parson and clerk, were alone present. When we got back from church, I went into the kitchen of the manor-house, where Mary was cooking the dinner and John cleaning the knives, and I said -

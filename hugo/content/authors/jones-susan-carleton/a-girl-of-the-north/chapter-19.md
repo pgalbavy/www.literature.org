@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-19.html"
+url: "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-19.html"
 ---
 
 THE Court, the ancestral home of the Wainbridges, was purchased by the present owner’s father (with the furniture and the portraits) from a family whose possessions consisted of a very ancient title and many debts. Common sense was not included in their inheritance. That they could ever live with a plain cook and a house-parlourmaid and pay their debts never occurred to them.

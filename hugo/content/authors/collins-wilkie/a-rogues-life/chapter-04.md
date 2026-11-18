@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/collins-wilkie/a-rogues-life/chapter-04.html"
+url: "/authors/collins-wilkie/a-rogues-life/chapter-04.html"
 ---
 
 I GAVE my orders to the colorman, and settled matters with my friend the artist that day.

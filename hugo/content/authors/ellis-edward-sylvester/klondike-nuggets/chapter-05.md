@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Through Chilkoot Pass"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-05.html"
 ---
 
 As Frank Mansley's words rang through the tent they were followed by the awful roar of the descending avalanche, and all awoke on the instant. But no one could do anything to save himself. They could only cower and pray to Heaven to protect them.

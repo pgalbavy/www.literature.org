@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Almost Homesick"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-22.html"
 ---
 
 Never in all her life had Henrietta Hen seen so many hens and roosters and chicks as she found on every side of her, at the fair. Farmer Green and his son Johnnie had set her pen in the Poultry Hall. And to Henrietta's surprise, none of her new neighbors paid much attention to her and her chicks--at first. She soon decided that there was a reason for this neglect. She made up her mind that she would have to make herself heard amid all that uproar or the others would never know she had arrived.

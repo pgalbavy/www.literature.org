@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/tarkington-booth/the-flirt/chapter-07.html"
+url: "/authors/tarkington-booth/the-flirt/chapter-07.html"
 ---
 
 Toward four o'clock that afternoon, a very thin, fair young man shakily heaved himself into a hammock under the trees in that broad backyard wherein, as Valentine Corliss had yesterday noticed, the last iron monarch of the herd, with unabated arrogance, had entered domestic service as a clothes-prop. The young man, who was of delicate appearance and unhumanly pale, stretched himself at full length on his back, closed his eyes, moaned feebly, cursed the heat in a stricken whisper. Then, as a locust directly overhead violently shattered the silence, and seemed like to continue the outrage forever, the shaken lounger stopped his ears with his fingers and addressed the insect in old Saxon.

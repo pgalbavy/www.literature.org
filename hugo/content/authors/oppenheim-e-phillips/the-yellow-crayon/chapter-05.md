@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-05.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-05.html"
 ---
 
 BUT, after all, things did not exactly turn out as Mr. Horser had imagined. The sight of the empty room and the closed door were satisfactory enough, and he did not hesitate for a moment.

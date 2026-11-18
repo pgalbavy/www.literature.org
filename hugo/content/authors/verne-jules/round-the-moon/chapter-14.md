@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/verne-jules/round-the-moon/chapter-14.html"
+url: "/authors/verne-jules/round-the-moon/chapter-14.html"
 ---
 
 At the moment when this phenomenon took place so rapidly, the projectile was skirting the moon's north pole at less than twenty-five miles distance. Some seconds had sufficed to plunge it into the absolute darkness of space. The transition was so sudden, without shade, without gradation of light, without attenuation of the luminous waves, that the orb seemed to have been extinguished by a powerful blow.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-06.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-06.html"
 ---
 
 Ska, the vulture, winged his way leisurely in great circles far above the right bank of the Ugogo. The pendant locket, sparkling in the sun light, had ceased to annoy him while on the wing, only when he alighted and walked upon the ground did it become an incumbrance; then he stepped upon it and tripped, but long since had he ceased to fight it, accepting it now as an inescapable evil. Beneath him he presently descried the still, recumbent form of Gorgo, the buffalo, whose posture proclaimed that he was already fit food for Ska. The great bird dropped, alighting in a nearby tree. All was well, no foes were in evidence. Satisfied of this, Ska flapped down to the fallen beast.

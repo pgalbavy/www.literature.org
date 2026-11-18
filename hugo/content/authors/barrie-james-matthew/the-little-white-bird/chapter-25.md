@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Cricket Match"
 weight: 25
-aliases:
-  - "/authors/barrie-james-matthew/the-little-white-bird/chapter-25.html"
+url: "/authors/barrie-james-matthew/the-little-white-bird/chapter-25.html"
 ---
 
 I think there has not been so much on a cricket match since the day when Sir Horace Mann walked about Broad Ha'penny agitatedly cutting down the daisies with his stick. And, be it remembered, the heroes of Hambledon played for money and renown only, while David was champion of a lady. A lady! May we not prettily say of two ladies? There were no spectators of our contest except now and again some loiterer in the Gardens who little thought what was the stake for which we played, but cannot we conceive Barbara standing at the ropes and agitatedly cutting down the daisies every time David missed the ball? I tell you, this was the historic match of the Gardens.

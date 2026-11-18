@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Through The Deep Wood"
 weight: 8
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-08.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-08.html"
 ---
 
 Gloss, standing in the kitchen doorway, gazed outward across the bronze-tipped trees to the drab-colored sky resting above Rond Eau.

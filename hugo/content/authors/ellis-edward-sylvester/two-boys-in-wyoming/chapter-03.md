@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - On Guard"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-03.html"
 ---
 
 The beautiful weather continued unchanged throughout the afternoon. As the sun declined in the sky there was a perceptible coolness in the air, but the exercise of riding removed all necessity for using their blankets.

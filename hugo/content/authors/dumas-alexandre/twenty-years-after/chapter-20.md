@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - One Of Marie Michon's Adventures"
 weight: 20
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-20.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-20.html"
 ---
 
 Whilst these projects were being formed by the Duc de Beaufort and Grimaud, the Comte de la Fere and the Vicomte de Bragelonne were entering Paris by the Rue du Faubourg Saint Marcel.

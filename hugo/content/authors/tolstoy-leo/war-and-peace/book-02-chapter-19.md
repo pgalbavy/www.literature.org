@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 19"
 weight: 47
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-02-chapter-19.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-02-chapter-19.html"
 ---
 
 The attack of the Sixth Chasseurs secured the retreat of our right flank. In the center Tushin's forgotten battery, which had managed to set fire to the Schon Grabern village, delayed the French advance. The French were putting out the fire which the wind was spreading, and thus gave us time to retreat. The retirement of the center to the other side of the dip in the ground at the rear was hurried and noisy, but the different companies did not get mixed. But our left- which consisted of the Azov and Podolsk infantry and the Pavlograd hussars- was simultaneously attacked and outflanked by superior French forces under Lannes and was thrown into confusion. Bagration had sent Zherkov to the general commanding that left flank with orders to retreat immediately.

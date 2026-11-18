@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-20.html"
 ---
 
 The days are long during the season of the year of which we are writing, it being scarcely dark at the hour of eight o'clock.

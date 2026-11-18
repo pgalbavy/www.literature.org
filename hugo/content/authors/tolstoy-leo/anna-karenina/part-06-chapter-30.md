@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 30"
 weight: 187
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-30.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-30.html"
 ---
 
 Sviazhsky took Levin's arm, and went with him to his own friends. This time there was no avoiding Vronsky. He was standing with Stepan Arkadyevitch and Sergey Ivanovitch, and looking straight at Levin as he drew near.

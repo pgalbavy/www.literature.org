@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 6"
 weight: 7
-aliases:
-  - "/authors/cather-willa/my-antonia/book-01-chapter-06.html"
+url: "/authors/cather-willa/my-antonia/book-01-chapter-06.html"
 ---
 
 ONE AFTERNOON WE WERE having our reading lesson on the warm, grassy bank where the badger lived. It was a day of amber sunlight, but there was a shiver of coming winter in the air. I had seen ice on the little horsepond that morning, and as we went through the garden we found the tall asparagus, with its red berries, lying on the ground, a mass of slimy green.

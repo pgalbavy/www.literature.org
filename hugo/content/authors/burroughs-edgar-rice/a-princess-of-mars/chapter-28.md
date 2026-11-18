@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - At the Arizona Cave"
 weight: 28
-aliases:
-  - "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-28.html"
+url: "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-28.html"
 ---
 
 It was dark when I opened my eyes again. Strange, stiff garments were upon my body; garments that cracked and powdered away from me as I rose to a sitting posture.

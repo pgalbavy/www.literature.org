@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/chambers-robert-w/the-common-law/chapter-12.html"
+url: "/authors/chambers-robert-w/the-common-law/chapter-12.html"
 ---
 
 Mrs. Hind-Willet, born to the purple—or rather entitled to a narrow border of discreet mauve on all occasions of ceremony in Manhattan, was a dreamer of dreams. One of her dreams concerned her hyphenated husband, and she put him away; another concerned Penrhyn Cardemon; and she woke up. But the persistent visualisation, which had become obsession, of a society to be formed out of the massed intellects of Manhattan regardless of race, morals, or previous condition of social servitude—a gentle intellectual affinity which knew no law of art except individual inspiration, haunted her always. And there was always her own set to which she could retreat if desirable.

@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 8"
 weight: 31
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-08.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-08.html"
 ---
 
 Colonel Fitzwilliam's manners were very much admired at the parsonage, and the ladies all felt that he must add considerably to the pleasure of their engagements at Rosings. It was some days, however, before they received any invitation thither, for while there were visitors in the house, they could not be necessary; and it was not till Easter-day, almost a week after the gentlemen's arrival, that they were honoured by such an attention, and then they were merely asked on leaving church to come there in the evening. For the last week they had seen very little of either Lady Catherine or her daughter. Colonel Fitzwilliam had called at the parsonage more than once during the time, but Mr. Darcy they had only seen at church.

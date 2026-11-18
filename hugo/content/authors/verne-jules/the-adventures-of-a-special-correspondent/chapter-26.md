@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-26.html"
+url: "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-26.html"
 ---
 
 "Pekin!" shouted Popof. "All change here."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-26.html"
+url: "/authors/london-jack/martin-eden/chapter-26.html"
 ---
 
 Martin Eden did not go out to hunt for a job in the morning. It was late afternoon before he came out of his delirium and gazed with aching eyes about the room. Mary, one of the tribe of Silva, eight years old, keeping watch, raised a screech at sight of his returning consciousness. Maria hurried into the room from the kitchen. She put her work-calloused hand upon his hot forehead and felt his pulse.

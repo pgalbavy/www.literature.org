@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-09.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-09.html"
 ---
 
 Every passage of a ship of yesterday, whose yards were braced round eagerly the very moment the pilot, with his pockets full of letters, had got over the side, was like a race—a race against time, against an ideal standard of achievement outstripping the expectations of common men. Like all true art, the general conduct of a ship and her handling in particular cases had a technique which could be discussed with delight and pleasure by men who found in their work, not bread alone, but an outlet for the peculiarities of their temperament. To get the best and truest effect from the infinitely varying moods of sky and sea, not pictorially, but in the spirit of their calling, was their vocation, one and all; and they recognised this with as much sincerity, and drew as much inspiration from this reality, as any man who ever put brush to canvas. The diversity of temperaments was immense amongst those masters of the fine art.

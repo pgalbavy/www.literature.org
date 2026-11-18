@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Black Hand"
 weight: 3
-aliases:
-  - "/authors/haggard-h-rider/allan-quatermain/chapter-02.html"
+url: "/authors/haggard-h-rider/allan-quatermain/chapter-02.html"
 ---
 
 In due course we left Lamu, and ten days afterwards we found ourselves at a spot called Charra, on the Tana River, having gone through many adventures which need not be recorded here. Amongst other things we visited a ruined city, of which there are many on this coast, and which must once, to judge from their extent and the numerous remains of mosques and stone houses, have been very populous places. These ruined cities are immeasurably ancient, having, I believe, been places of wealth and importance as far back as the Old Testament times, when they were centres of trade with India and elsewhere. But their glory has departed now--the slave trade has finished them--and where wealthy merchants from all parts of the then civilized world stood and bargained in the crowded market-places, the lion holds his court at night, and instead of the chattering of slaves and the eager voices of the bidders, his awful note goes echoing down the ruined corridors. At this particular place we discovered on a mound, covered up with rank growth and rubbish, two of the most beautiful stone doorways that it is possible to conceive. The carving on them was simply exquisite, and I only regret that we had no means of getting them away. No doubt they had once been the entrances to a palace, of which, however, no traces were now to be seen, though probably its ruins lay under the rising mound.

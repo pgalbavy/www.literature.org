@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Emotions And Will"
 weight: 15
-aliases:
-  - "/authors/russell-bertrand/the-analysis-of-mind/chapter-14.html"
+url: "/authors/russell-bertrand/the-analysis-of-mind/chapter-14.html"
 ---
 
 On the two subjects of the present lecture I have nothing original to say, and I am treating them only in order to complete the discussion of my main thesis, namely that all psychic phenomena are built up out of sensations and images alone.

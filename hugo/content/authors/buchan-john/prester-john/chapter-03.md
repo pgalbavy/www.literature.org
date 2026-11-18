@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Blaauwildebeestefontein"
 weight: 4
-aliases:
-  - "/authors/buchan-john/prester-john/chapter-03.html"
+url: "/authors/buchan-john/prester-john/chapter-03.html"
 ---
 
 The Pilgrim's Progress had been the Sabbath reading of my boyhood, and as I came in sight of Blaauwildebeestefontein a passage ran in my head. It was that which tells how Christian and Hopeful, after many perils of the way, came to the Delectable Mountains, from which they had a prospect of Canaan. After many dusty miles by rail, and a weariful journey in a Cape-cart through arid plains and dry and stony gorges, I had come suddenly into a haven of green. The Spring of the Blue Wildebeeste was a clear rushing mountain torrent, which swirled over blue rocks into deep fern-fringed pools. All around was a tableland of lush grass with marigolds and arum lilies instead of daisies and buttercups. Thickets of tall trees dotted the hill slopes and patched the meadows as if some landscape-gardener had been at work on them. Beyond, the glen fell steeply to the plains, which ran out in a faint haze to the horizon. To north and south I marked the sweep of the Berg, now rising high to a rocky peak and now stretching in a level rampart of blue. On the very edge of the plateau where the road dipped for the descent stood the shanties of Blaauwildebeestefontein. The fresh hill air had exhilarated my mind, and the aromatic scent of the evening gave the last touch of intoxication. Whatever serpent might lurk in it, it was a veritable Eden I had come to.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Boy Grows Up"
 weight: 2
-aliases:
-  - "/authors/wells-herbert-george/the-research-magnificent/chapter-01.html"
+url: "/authors/wells-herbert-george/the-research-magnificent/chapter-01.html"
 ---
 
 1

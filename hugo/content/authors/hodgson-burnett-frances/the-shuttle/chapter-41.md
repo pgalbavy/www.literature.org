@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41 - She Would Do Something"
 weight: 41
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-41.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-41.html"
 ---
 
 Sir Nigel's face was not a good thing to see when he appeared at the dinner table in the evening. As he took his seat the two footmen glanced quickly at each other, and the butler at the sideboard furtively thrust out his underlip. Not a man or woman in the household but had learned the signal denoting the moment when no service would please, no word or movement be unobjectionable. Lady Anstruthers' face unconsciously assumed its propitiatory expression, and she glanced at her sister more than once when Betty was unaware that she did so.

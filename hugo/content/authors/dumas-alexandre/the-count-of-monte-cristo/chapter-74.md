@@ -1,8 +1,7 @@
 ---
 title: "Chapter 74 - The Villefort Family Vault"
 weight: 74
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-74.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-74.html"
 ---
 
 Two days after, a considerable crowd was assembled, towards ten o'clock in the morning, around the door of M. de Villefort's house, and a long file of mourning-coaches and private carriages extended along the Faubourg Saint-Honore and the Rue de la Pepiniere. Among them was one of a very singular form, which appeared to have come from a distance. It was a kind of covered wagon, painted black, and was one of the first to arrive. Inquiry was made, and it was ascertained that, by a strange coincidence, this carriage contained the corpse of the Marquis de Saint-Meran, and that those who had come thinking to attend one funeral would follow two. Their number was great. The Marquis de Saint-Meran, one of the most zealous and faithful dignitaries of Louis XVIII. and King Charles X., had preserved a great number of friends, and these, added to the personages whom the usages of society gave Villefort a claim on, formed a considerable body.

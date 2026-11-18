@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Warning"
 weight: 16
-aliases:
-  - "/authors/titus-harold/the-last-straw/chapter-16.html"
+url: "/authors/titus-harold/the-last-straw/chapter-16.html"
 ---
 
 The fire in Webb's cook stove was not all that furnished warmth to the three men sitting about it that night, for they drank frequently from the bottle which, when not passing from hand to hand, was nestled on Dick Hilton's lap, his hands caressing its smooth surface lovingly ... save the word!

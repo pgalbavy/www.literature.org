@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Lion Pit Of Tu-Lur"
 weight: 18
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-18.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-18.html"
 ---
 
 Though Tarzan searched the outskirts of the city until nearly dawn he discovered nowhere the spoor of his mate. The breeze coming down from the mountains brought to his nostrils a diversity of scents but there was not among them the slightest suggestion of her whom he sought. The natural deduction was therefore that she had been taken in some other direction. In his search he had many times crossed the fresh tracks of many men leading toward the lake and these he concluded had probably been made by Jane Clayton's abductors. It had only been to minimize the chance of error by the process of elimination that he had carefully reconnoitered every other avenue leading from A-lur toward the southeast where lay Mo-sar's city of Tu-lur, and now he followed the trail to the shores of Jad-ben-lul where the party had embarked upon the quiet waters in their sturdy canoes.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Capitulation"
 weight: 28
-aliases:
-  - "/authors/london-jack/adventure/chapter-28.html"
+url: "/authors/london-jack/adventure/chapter-28.html"
 ---
 
 When Sheldon emerged from among the trees he found Joan waiting at the compound gate, and he could not fail to see that she was visibly gladdened at the sight of him.

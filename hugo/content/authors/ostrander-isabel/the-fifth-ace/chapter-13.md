@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Challenge"
 weight: 13
-aliases:
-  - "/authors/ostrander-isabel/the-fifth-ace/chapter-13.html"
+url: "/authors/ostrander-isabel/the-fifth-ace/chapter-13.html"
 ---
 
 "What do you think about this?" Harrington Chase growled as his partner entered the private office the next morning. "Somebody's getting after us good and plenty!"

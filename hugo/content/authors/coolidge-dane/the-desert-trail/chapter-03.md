@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/coolidge-dane/the-desert-trail/chapter-03.html"
+url: "/authors/coolidge-dane/the-desert-trail/chapter-03.html"
 ---
 
 On the untrammeled frontier, where most men are willing to pass for what they are without keeping up any "front," much of the private business, as well as the general devilment, is transacted in the back rooms of saloons. The Waldorf was nicely furnished in this regard.

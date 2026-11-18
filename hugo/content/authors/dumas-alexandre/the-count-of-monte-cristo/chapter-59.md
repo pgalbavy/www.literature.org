@@ -1,8 +1,7 @@
 ---
 title: "Chapter 59 - The Will"
 weight: 59
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-59.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-59.html"
 ---
 
 As soon as Barrois had left the room, Noirtier looked at Valentine with a malicious expression that said many things. The young girl perfectly understood the look, and so did Villefort, for his countenance became clouded, and he knitted his eyebrows angrily. He took a seat, and quietly awaited the arrival of the notary. Noirtier saw him seat himself with an appearance of perfect indifference, at the same time giving a side look at Valentine, which made her understand that she also was to remain in the room. Three-quarters of an hour after, Barrois returned, bringing the notary with him. "Sir," said Villefort, after the first salutations were over, "you were sent for by M. Noirtier, whom you see here. All his limbs have become completely paralysed, he has lost his voice also, and we ourselves find much trouble in endeavoring to catch some fragments of his meaning." Noirtier cast an appealing look on Valentine, which look was at once so earnest and imperative, that she answered immediately. "Sir," said she, "I perfectly understand my grandfather's meaning at all times."

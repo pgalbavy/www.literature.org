@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 15"
 weight: 83
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-04-chapter-15.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-04-chapter-15.html"
 ---
 
 To say "tomorrow" and keep up a dignified tone was not difficult, but to go home alone, see his sisters, brother, mother, and father, confess and ask for money he had no right to after giving his word of honor, was terrible.

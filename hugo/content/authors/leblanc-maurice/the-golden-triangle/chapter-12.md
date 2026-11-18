@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - In The Abyss"
 weight: 12
-aliases:
-  - "/authors/leblanc-maurice/the-golden-triangle/chapter-12.html"
+url: "/authors/leblanc-maurice/the-golden-triangle/chapter-12.html"
 ---
 
 "No, no, no!" cried Patrice. "I won't stand this!"

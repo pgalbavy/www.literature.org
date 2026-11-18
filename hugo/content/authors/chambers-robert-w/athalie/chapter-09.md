@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-09.html"
+url: "/authors/chambers-robert-w/athalie/chapter-09.html"
 ---
 
 The course of irresponsible amusement which C. Bailey, Jr., continued to pursue at intervals with the fair scion of the house—road-house—of Greensleeve, did not run as smoothly as it might have, and was not unmixed with carping reflections and sordid care on his part, and with an increasing number of interruptions, admonitions, and warnings on the part of his mother.

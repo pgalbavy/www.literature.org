@@ -1,8 +1,7 @@
 ---
 title: "Chapter 79 - The Lemonade"
 weight: 79
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-79.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-79.html"
 ---
 
 Morrel was, in fact, very happy. M. Noirtier had just sent for him, and he was in such haste to know the reason of his doing so that he had not stopped to take a cab, placing infinitely more dependence on his own two legs than on the four legs of a cab-horse. He had therefore set off at a furious rate from the Rue Meslay, and was hastening with rapid strides in the direction of the Faubourg Saint-Honore. Morrel advanced with a firm, manly tread, and poor Barrois followed him as he best might. Morrel was only thirty-one, Barrois was sixty years of age; Morrel was deeply in love, and Barrois was dying with heat and exertion. These two men, thus opposed in age and interests, resembled two parts of a triangle, presenting the extremes of separation, yet nevertheless possessing their point of union. This point of union was Noirtier, and it was he who had just sent for Morrel, with the request that the latter would lose no time in coming to him - a command which Morrel obeyed to the letter, to the great discomfiture of Barrois. On arriving at the house, Morrel was not even out of breath, for love lends wings to our desires; but Barrois, who had long forgotten what it was to love, was sorely fatigued by the expedition he had been constrained to use.

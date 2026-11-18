@@ -1,8 +1,7 @@
 ---
 title: "Book 14 - Chapter 6"
 weight: 304
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-14-chapter-06.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-14-chapter-06.html"
 ---
 
 After talking for some time with the esaul about next day's attack, which now, seeing how near they were to the French, he seemed to have definitely decided on, Denisov turned his horse and rode back.

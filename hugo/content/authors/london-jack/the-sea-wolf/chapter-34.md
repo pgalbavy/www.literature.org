@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 34
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-34.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-34.html"
 ---
 
 "It's too bad the Ghost has lost her masts. Why we could sail away in her. Don't you think we could, Humphrey?"

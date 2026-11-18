@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Merry And Molly"
 weight: 9
-aliases:
-  - "/authors/alcott-louisa-may/jack-and-jill/chapter-08.html"
+url: "/authors/alcott-louisa-may/jack-and-jill/chapter-08.html"
 ---
 
 Now let us see how the other missionaries got on with their tasks.

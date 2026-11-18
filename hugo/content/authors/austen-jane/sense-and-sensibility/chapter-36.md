@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 36
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-36.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-36.html"
 ---
 
 Within a few days after this meeting, the newspapers announced to the world, that the lady of Thomas Palmer, Esq. was safely delivered of a son and heir; a very interesting and satisfactory paragraph, at least to all those intimate connections who knew it before.

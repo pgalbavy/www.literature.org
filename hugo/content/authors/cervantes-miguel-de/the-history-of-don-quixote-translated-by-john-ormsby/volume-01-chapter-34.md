@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 34 - In Which Is Continued The Novel Of \"The Ill-Advised Curiosity\""
 weight: 37
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-34.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-34.html"
 ---
 
 "It is commonly said that an army looks ill without its general and a castle without its castellan, and I say that a young married woman looks still worse without her husband unless there are very good reasons for it. I find myself so ill at ease without you, and so incapable of enduring this separation, that unless you return quickly I shall have to go for relief to my parents’ house, even if I leave yours without a protector; for the one you left me, if indeed he deserved that title, has, I think, more regard to his own pleasure than to what concerns you: as you are possessed of discernment I need say no more to you, nor indeed is it fitting I should say more."

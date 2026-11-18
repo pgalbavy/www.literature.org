@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 18"
 weight: 19
-aliases:
-  - "/authors/cather-willa/my-antonia/book-01-chapter-18.html"
+url: "/authors/cather-willa/my-antonia/book-01-chapter-18.html"
 ---
 
 AFTER I BEGAN TO go to the country school, I saw less of the Bohemians. We were sixteen pupils at the sod schoolhouse, and we all came on horseback and brought our dinner. My schoolmates were none of them very interesting, but I somehow felt that, by making comrades of them, I was getting even with Antonia for her indifference. Since the father’s death, Ambrosch was more than ever the head of the house, and he seemed to direct the feelings as well as the fortunes of his womenfolk. Antonia often quoted his opinions to me, and she let me see that she admired him, while she thought of me only as a little boy. Before the spring was over, there was a distinct coldness between us and the Shimerdas. It came about in this way.

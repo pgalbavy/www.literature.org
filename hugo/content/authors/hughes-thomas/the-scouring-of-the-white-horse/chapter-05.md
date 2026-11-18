@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/hughes-thomas/the-scouring-of-the-white-horse/chapter-05.html"
+url: "/authors/hughes-thomas/the-scouring-of-the-white-horse/chapter-05.html"
 ---
 
 Now when we had fairly lighted up, and Joe had mixed us a glass of gin and water a piece, I felt that it was a very good time for me to have a talk about the White Horse and the scourings. I wasn’t quite satisfied in my mind with all that the old gentleman had told me on the hill; and, as I felt sure that Mr. Warton was a scholar, and would find out directly if there was any thing wrong in what I had taken down, I took out my note-book, and reminded Joe that he had promised to listen to it over his pipe. Joe didn’t half like it, and wanted to put the reading off, but Mr. Warton was very good-natured about it, and said he should like to hear it—so it was agreed that I should go on, and so I began. Joe soon was dozing, and every now and then woke up with a jerk, and pretended he had been listening, and made some remark in broad Berkshire. He always talks much broader when he is excited, or half asleep, than when he is cool and has all his wits about him. But I kept on steadily till I had got through it all, and then Mr. Warton said he had been very much interested, and believed that all I had taken down was quite correct.

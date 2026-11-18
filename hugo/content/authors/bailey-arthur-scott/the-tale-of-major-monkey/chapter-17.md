@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Major Monkey Confesses"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-17.html"
 ---
 
 Major Monkey seemed surprised when Jasper Jay told him that there wasn't a bird family in the whole valley that felt it could spare a single egg.

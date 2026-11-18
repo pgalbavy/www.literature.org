@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Came Tarzan"
 weight: 20
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-20.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-20.html"
 ---
 
 Just before dark that evening, an almost exhausted flier entered the headquarters of Colonel Capell of the Second Rhodesians and saluted.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Château De Pré-Bony"
 weight: 18
-aliases:
-  - "/authors/leblanc-maurice/the-three-eyes/chapter-18.html"
+url: "/authors/leblanc-maurice/the-three-eyes/chapter-18.html"
 ---
 
 The exclamation of the crowd proved to me that, at the sight of the great old man, who was known to all by his portraits and by the posters exhibited at the doors of the Yard, the same thought had instantaneously struck us all. We understood from the first. After the series of criminal pictures, we knew the meaning of Noël Dorgeroux's appearance on the screen and knew the inexorable climax of the story which we were being told. There had been six victims. My uncle would be the seventh. We were going to witness his death and to see the face of the murderer.

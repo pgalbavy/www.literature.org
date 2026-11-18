@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - What Happened to Them at Surinam, and How Candide Became Acquainted with Martin"
 weight: 19
-aliases:
-  - "/authors/voltaire/candide/chapter-19.html"
+url: "/authors/voltaire/candide/chapter-19.html"
 ---
 
 Our travelers' first day's journey was very pleasant; they were elated with the prospect of possessing more riches than were to be found in Europe, Asia, and Africa together. Candide, in amorous transports, cut the name of Miss Cunegund on almost every tree he came to. The second day two of their sheep sunk in a morass, and were swallowed up with their Jading; two more died of fatigue; some few days afterwards seven or eight perished with hunger in a desert, and others, at different times, tumbled down precipices, or were otherwise lost, so that, after traveling about a hundred days they had only two sheep left of the hundred and two they brought with them from El Dorado.

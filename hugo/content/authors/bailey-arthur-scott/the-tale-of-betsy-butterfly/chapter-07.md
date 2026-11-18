@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Butterfly Bill"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-07.html"
 ---
 
 NOW, a crowd had gathered quickly around Betsy Butterfly and Mrs. Ladybug; for the field people are quick to notice anything unusual. And a sprightly young cousin of Betsy's known as Butterfly Bill said to Mrs. Ladybug, with a wink at everybody else:

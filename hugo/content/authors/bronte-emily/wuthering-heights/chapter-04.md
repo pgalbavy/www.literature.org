@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-04.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-04.html"
 ---
 
 WHAT vain weathercocks we are! I, who had determined to hold myself independent of all social intercourse, and thanked my stars that, at length, I had lighted on a spot where it was next to impracticable - I, weak wretch, after maintaining till dusk a struggle with low spirits and solitude, was finally compelled to strike my colours; and under pretence of gaining information concerning the necessities of my establishment, I desired Mrs. Dean, when she brought in supper, to sit down while I ate it; hoping sincerely she would prove a regular gossip, and either rouse me to animation or lull me to sleep by her talk.

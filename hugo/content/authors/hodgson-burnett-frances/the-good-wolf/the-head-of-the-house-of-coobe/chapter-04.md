@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-04.html"
+url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-04.html"
 ---
 
 If one were to devote one's mental energies to speculation as to what is going on behind the noncommittal fronts of any row of houses in any great city the imaginative mind might be led far.

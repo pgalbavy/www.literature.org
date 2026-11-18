@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/cooper-courtney-ryley/the-white-desert/chapter-23.html"
+url: "/authors/cooper-courtney-ryley/the-white-desert/chapter-23.html"
 ---
 
 It was a repetition of the first night,--the same churning of the plows, the same smaller machines working along the right of way to keep the rails clear of drifting snow and ice particles, the wind howling again and carrying the offal of the plows in gigantic spouts of dirty white high into the air, to lash and pulverize it, then swish it away to the icy valleys beneath, where drifts could do no harm, where there were no struggling crews and dogged, half-dead men.

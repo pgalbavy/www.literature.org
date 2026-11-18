@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Has An Introductory Account Of The Inmates Of The House, To Which Oliver Resorted"
 weight: 29
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-29.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-29.html"
 ---
 
 In a handsome room: though its furniture had rather the air of old-fashioned comfort, than of modern elegance: there sat two ladies at a well-spread breakfast-table. Mr. Giles, dressed with scrupulous care in a full suit of black, was in attendance upon them. He had taken his station some half-way between the side-board and the breakfast-table; and, with his body drawn up to its full height, his head thrown back, and inclined the merest trifle on one side, his left leg advanced, and his right hand thrust into his waist-coat, while his left hung down by his side, grasping a waiter, looked like one who laboured under a very agreeable sense of his own merits and importance.

@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 28"
 weight: 345
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-28.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-28.html"
 ---
 
 One matter connected with his management sometimes worried Nicholas, and that was his quick temper together with his old hussar habit of making free use of his fists. At first he saw nothing reprehensible in this, but in the second year of his marriage his view of that form of punishment suddenly changed.

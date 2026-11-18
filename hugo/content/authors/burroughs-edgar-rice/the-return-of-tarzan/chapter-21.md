@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Castaways"
 weight: 21
-aliases:
-  - "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-21.html"
+url: "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-21.html"
 ---
 
 Clayton dreamed that he was drinking his fill of water, pure, delightful drafts of fresh water. With a start he gained consciousness to find himself wet through by torrents of rain that were falling upon his body and his upturned face. A heavy tropical shower was beating down upon them. He opened his mouth and drank. Presently he was so revived and strengthened that he was enabled to raise himself upon his hands. Across his legs lay Monsieur Thuran. A few feet aft Jane Porter was huddled in a pitiful little heap in the bottom of the boat--she was quite still. Clayton knew that she was dead.

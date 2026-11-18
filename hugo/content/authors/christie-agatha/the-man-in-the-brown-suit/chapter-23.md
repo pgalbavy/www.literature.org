@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 24
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-23.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-23.html"
 ---
 
 _(Anne’s Narrative Resumed)_

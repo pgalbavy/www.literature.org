@@ -1,8 +1,7 @@
 ---
 title: "Chapter 102 - Madame De Belliere's Plate"
 weight: 102
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-102.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-102.html"
 ---
 
 The blow had been the more painful on account of its being unexpected. It was some time before the marquise recovered herself; but once recovered, she began to reflect upon the events so heartlessly announced to her. She therefore returned, at the risk even of losing her life in the way, to that train of ideas which her relentless friend had forced her to pursue. Treason, then - deep menaces, concealed under the semblance of public interest - such were Colbert's maneuvers. A detestable delight at an approaching downfall, untiring efforts to attain this object, means of seduction no less wicked than the crime itself - such were the weapons Marguerite employed. The crooked atoms of Descartes triumphed; to the man without compassion was united a woman without heart. The marquise perceived, with sorrow rather than indignation, that the king was an accomplice in the plot which betrayed the duplicity of Louis XIII. in his advanced age, and the avarice of Mazarin at a period of life when he had not had the opportunity of gorging himself with French gold. The spirit of thus courageous woman soon resumed its energy, no longer overwhelmed by indulgence in compassionate lamentations. The marquise was not one to weep when action was necessary, nor to waste time in bewailing a misfortune as long as means still existed of relieving it. For some minutes she buried her face in her cold fingers, and then, raising her head, rang for her attendants with a steady hand, and with a gesture betraying a fixed determination of purpose. Her resolution was taken.

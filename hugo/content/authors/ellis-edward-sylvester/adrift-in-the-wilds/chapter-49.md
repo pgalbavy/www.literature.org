@@ -1,8 +1,7 @@
 ---
 title: "Chapter 49 - Homeward Bound"
 weight: 49
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-49.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-49.html"
 ---
 
 Now that our friends were left entirely alone, it became a question whether they should continue journeying by day or night.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - \"Gott Sei Dank!\""
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-11.html"
 ---
 
 The prayer of little Nellie Ribsam—so far as it related to herself—was answered.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-19.html"
+url: "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-19.html"
 ---
 
 When the little, grim, gray man had set the object covered with a cloth upon the table in the center of the room and left the apartment, he did not return to camp as Norman of Torn had ordered.

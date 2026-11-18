@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - Of The Office Of The Soveraign Representative"
 weight: 32
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-30.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-30.html"
 ---
 
 The Procuration Of The Good Of The People The OFFICE of the Soveraign, (be it a Monarch, or an Assembly,) consisteth in the end, for which he was trusted with the Soveraign Power, namely the procuration of the Safety Of The People; to which he is obliged by the Law of Nature, and to render an account thereof to God, the Author of that Law, and to none but him. But by Safety here, is not meant a bare Preservation, but also all other Contentments of life, which every man by lawfull Industry, without danger, or hurt to the Common-wealth, shall acquire to himselfe.

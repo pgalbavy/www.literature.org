@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Peter Learns A New Word"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-12.html"
 ---
 
 While Peter Mink marched on, believing that the circus parade was following him (when Jimmy Rabbit had actually led it away in the opposite direction), Peter kept trying to think of some trick he could play on the parade.

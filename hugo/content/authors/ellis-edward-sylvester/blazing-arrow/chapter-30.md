@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - All Together"
 weight: 30
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-30.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-30.html"
 ---
 
 Brigham Edwards stopped short on hearing the signal of Kenton, and he and his wife held themselves ready to repulse any attack from the Indians, whom they knew to be in the neighborhood. Red Crow did a little thing which won the confidence of the couple, who could not help regarding him at first with suspicion: he placed himself directly in front, with his bow and arrow ready for use.

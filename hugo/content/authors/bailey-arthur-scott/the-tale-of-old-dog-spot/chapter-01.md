@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Almost Twins"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-01.html"
 ---
 
 Nobody ever spoke of old Spot's master as "old Johnnie Green." Yet the two--boy and dog--were almost exactly the same age. Somehow Spot grew up faster than Johnnie. He had stopped being a puppy by the time his young master learned to walk. And when Johnnie was big enough to play around the farm buildings his parents felt sure that he was safe so long as "old Spot," as they called the dog, was with him.

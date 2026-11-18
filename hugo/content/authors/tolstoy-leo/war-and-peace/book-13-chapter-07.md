@@ -1,8 +1,7 @@
 ---
 title: "Book 13 - Chapter 7"
 weight: 286
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-13-chapter-07.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-13-chapter-07.html"
 ---
 
 Meanwhile another column was to have attacked the French from the front, but Kutuzov accompanied that column. He well knew that nothing but confusion would come of this battle undertaken against his will, and as far as was in his power held the troops back. He did not advance.

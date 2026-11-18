@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - When The World Was Young"
 weight: 3
-aliases:
-  - "/authors/london-jack/the-night-born/chapter-03.html"
+url: "/authors/london-jack/the-night-born/chapter-03.html"
 ---
 
 HE was a very quiet, self-possessed sort of man, sitting a moment on top of the wall to sound the damp darkness for warnings of the dangers it might conceal. But the plummet of his hearing brought nothing to him save the moaning of wind through invisible trees and the rustling of leaves on swaying branches. A heavy fog drifted and drove before the wind, and though he could not see this fog, the wet of it blew upon his face, and the wall on which he sat was wet.

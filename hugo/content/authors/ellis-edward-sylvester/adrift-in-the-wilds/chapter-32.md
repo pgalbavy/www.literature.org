@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - Again On The River"
 weight: 32
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-32.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-32.html"
 ---
 
 The Newfoundland, Terror, occasioned more apprehension to his friends than did anything else. They came to see that no personal danger threatened so long as the fire kept burning, and as there was an abundance of fuel, this settled that point; but the dog grew enraged at the furious uproar, which drove away all sleep, and appeared to give him fear that the entire party were in danger.

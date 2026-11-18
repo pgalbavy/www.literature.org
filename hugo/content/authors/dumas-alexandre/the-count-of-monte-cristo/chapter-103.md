@@ -1,8 +1,7 @@
 ---
 title: "Chapter 103 - Maximilian"
 weight: 103
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-103.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-103.html"
 ---
 
 Villefort rose, half ashamed of being surprised in such a paroxysm of grief. The terrible office he had held for twenty-five years had succeeded in making him more or less than man. His glance, at first wandering, fixed itself upon Morrel. "Who are you, sir," he asked, "that forget that this is not the manner to enter a house stricken with death? Go, sir, go!" But Morrel remained motionless; he could not detach his eyes from that disordered bed, and the pale corpse of the young girl who was lying on it. "Go! - do you hear?" said Villefort, while d'Avrigny advanced to lead Morrel out. Maximilian stared for a moment at the corpse, gazed all around the room, then upon the two men; he opened his mouth to speak, but finding it impossible to give utterance to the innumerable ideas that occupied his brain, he went out, thrusting his hands through his hair in such a manner that Villefort and d'Avrigny, for a moment diverted from the engrossing topic, exchanged glances, which seemed to say, - "He is mad!"

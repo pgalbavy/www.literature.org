@@ -1,8 +1,7 @@
 ---
 title: "Prologue"
 weight: 1
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/prologue.html"
+url: "/authors/christie-agatha/the-secret-adversary/prologue.html"
 ---
 
 IT was 2 p.m. on the afternoon of May 7, 1915. The *Lusitania* had been struck by two torpedoes in succession and was sinking rapidly, while the boats were being launched with all possible speed. The women and children were being lined up awaiting their turn. Some still clung desperately to husbands and fathers; others clutched their children closely to their breasts. One girl stood alone, slightly apart from the rest. She was quite young, not more than eighteen. She did not seem afraid, and her grave, steadfast eyes looked straight ahead.

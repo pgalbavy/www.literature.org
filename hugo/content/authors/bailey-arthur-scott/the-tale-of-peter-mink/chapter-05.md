@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Passing The Hat"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-05.html"
 ---
 
 After giving all they happened to have in their pocket-books, Mr. Rabbit and Mr. Woodchuck began to pass their hats to take up the collection for the poor boy that Peter Mink had been telling them about. And all the people who had come to hear Peter's lecture began to dig down into their pockets.

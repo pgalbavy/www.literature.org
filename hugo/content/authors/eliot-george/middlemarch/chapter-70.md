@@ -1,8 +1,7 @@
 ---
 title: "Chapter 70"
 weight: 70
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-70.html"
+url: "/authors/eliot-george/middlemarch/chapter-70.html"
 ---
 
 Our deeds still travel with us from afar, And what we have been makes us what we are."

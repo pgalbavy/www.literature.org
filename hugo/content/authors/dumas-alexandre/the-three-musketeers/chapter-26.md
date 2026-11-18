@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Aramis And His Thesis"
 weight: 27
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-26.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-26.html"
 ---
 
 D'Artagnan had said nothing to Porthos of his wound or of his procurator's wife. Our Bernais was a prudent lad, however young he might be. Consequently he had appeared to believe all that the vainglorious Musketeer had told him, convinced that no friendship will hold out against a surprised secret. Besides, we feel always a sort of mental superiority over those whose lives we know better than they suppose. In his projects of intrigue for the future, and determined as he was to make his three friends the instruments of his fortune, D'Artagnan was not sorry at getting into his grasp beforehand the invisible strings by which he reckoned upon moving them.

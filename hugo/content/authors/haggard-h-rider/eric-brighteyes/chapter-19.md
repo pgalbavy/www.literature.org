@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - How Koll The Half-Witted Brought Tidings From Iceland"
 weight: 20
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-19.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-19.html"
 ---
 
 Presently as Eric walked he met Atli the Earl seeking him. Atli greeted him.

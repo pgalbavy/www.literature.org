@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Crossing"
 weight: 6
-aliases:
-  - "/authors/coolidge-dane/hidden-water/chapter-06.html"
+url: "/authors/coolidge-dane/hidden-water/chapter-06.html"
 ---
 
 From lonely ranches along the Salagua and Verde, from the Sunflower and up the Alamo, from all the sheeped-out and desolate Four Peaks country the cowboys drifted in to Hidden Water for the round-up, driving their extra mounts before them. Beneath the brush ramada of the ranch house they threw off their canvas-covered beds and turned their pack horses out to roll, strapping bells and hobbles on the bad ones, and in a day the deserted valley of Agua Escondida became alive with great preparations. A posse of men on fresh mounts rode out on Bronco Mesa, following with unerring instinct the trail of the Dos S horses, balking their wild breaks for freedom and rushing them headlong into the fenced pasture across the creek. As the hired hands of the Dos S outfit caught up their mounts and endeavored to put the fear of God into their hearts, the mountain boys got out the keg of horseshoes and began to shoe--every man his own blacksmith.

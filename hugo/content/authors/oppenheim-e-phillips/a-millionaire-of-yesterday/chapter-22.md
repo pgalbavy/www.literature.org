@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-22.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-22.html"
 ---
 
 "Mr. Scarlett Trent, the Gold King, left for Africa on Thursday last on the Dunottar Castle, to pay a brief visit to his wonderful possessions there before the great Bekwando Mining and Exploration Company is offered to the public. Mr. Trent is already a millionaire, and should he succeed in floating the Company on the basis of the Prospectus, he will be a multi-millionaire, and certainly one of the richest of Englishmen. During his absence workmen are to be kept going night and day at his wonderful palace in Park Lane, which he hopes to find ready for occupation on his return. Mr. Trent's long list of financial successes are too well known to be given here, but who will grudge wealth to a man who is capable of spending it in such a lordly fashion? We wish Mr. Trent a safe voyage and a speedy return."

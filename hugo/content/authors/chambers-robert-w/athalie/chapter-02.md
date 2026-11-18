@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-02.html"
+url: "/authors/chambers-robert-w/athalie/chapter-02.html"
 ---
 
 Her first memories were of blue skies, green trees, sunshine, and the odour of warm moist earth.

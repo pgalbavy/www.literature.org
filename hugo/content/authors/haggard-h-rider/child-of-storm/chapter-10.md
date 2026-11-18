@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Smelling-Out"
 weight: 11
-aliases:
-  - "/authors/haggard-h-rider/child-of-storm/chapter-10.html"
+url: "/authors/haggard-h-rider/child-of-storm/chapter-10.html"
 ---
 
 After these events matters went on quietly for some time. I visited Saduko’s huts--very fine huts--about the doors of which sat quite a number of his tribesmen, who seemed glad to see me again. Here I learned from the Lady Nandie that her babe, whom she loved dearly, was none the worse for its little accident. Also I learned from Saduko himself, who came in before I left, attended like a prince by several notable men, that he had made up his quarrel with Masapo, and, indeed, apologised to him, as he found that he had not really meant to insult the princess, his wife, having only thrust her over by accident. Saduko added indeed that now they were good friends, which was well for Masapo, a man whom the King had no cause to like. I said that I was glad to hear it, and went on to call upon Masapo, who received me with enthusiasm, as also did Mameena.

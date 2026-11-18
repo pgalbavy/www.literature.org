@@ -1,8 +1,7 @@
 ---
 title: "The End of it"
 weight: 5
-aliases:
-  - "/authors/dickens-charles/a-christmas-carol/chapter-05.html"
+url: "/authors/dickens-charles/a-christmas-carol/chapter-05.html"
 ---
 
 Yes! and the bedpost was his own. The bed was his own, the room was his own. Best and happiest of all, the time before him was his own, to make amends in!

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Juliet Asserts Herself"
 weight: 12
-aliases:
-  - "/authors/williams-frank/the-free-range/chapter-12.html"
+url: "/authors/williams-frank/the-free-range/chapter-12.html"
 ---
 
 Now that the owner of the Bar T ranch had succeeded again in a match of wits with Larkin, he put sheep out of his mind and turned his attention to the more-immediate danger of rustlers. It had been a matter of a couple of years since the last determined attempt of the cowmen to oust these poachers by force of arms, and Bissell thought that the time was ripe for another and, if possible, final expedition.

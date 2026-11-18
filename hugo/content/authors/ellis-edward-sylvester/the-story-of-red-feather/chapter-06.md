@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Muddy Creek Band--The Torch"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/the-story-of-red-feather/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/the-story-of-red-feather/chapter-06.html"
 ---
 
 It was easy for any spectator to interpret the actions and signals of the Sioux warrior who was standing erect on his pony and waving his blanket at some party invisible to the others.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41 - Faubourg Clotilde"
 weight: 41
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-41.html"
+url: "/authors/bronte-charlotte/villette/chapter-41.html"
 ---
 
 Must I, ere I close, render some account of that Freedom and Renovation which I won on the fête-night? Must I tell how I and the two stalwart companions I brought home from the illuminated park bore the test of intimate acquaintance?

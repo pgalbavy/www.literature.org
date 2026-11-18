@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - At The Carrot Patch"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-10.html"
 ---
 
 During his first summer Nimble never reached Farmer Green's carrot patch once. His mother had planned to take him there. But on account of an unexpected party she had postponed their visit. And somehow the right night for a trip after carrots never seemed to come again.

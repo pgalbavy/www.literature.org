@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Cross Of Lorraine"
 weight: 11
-aliases:
-  - "/authors/leblanc-maurice/the-crystal-stopper/chapter-11.html"
+url: "/authors/leblanc-maurice/the-crystal-stopper/chapter-11.html"
 ---
 
 The moment Lupin had finished lunch, he at once and, so to speak, without transition, recovered all his mastery and authority. The time for joking was past; and he must no longer yield to his love of astonishing people with claptrap and conjuring tricks. Now that he had discovered the crystal stopper in the hiding-place which he had guessed with absolute certainty, now that he possessed the list of the Twenty-seven, it became a question of playing off the last game of the rubber without delay.

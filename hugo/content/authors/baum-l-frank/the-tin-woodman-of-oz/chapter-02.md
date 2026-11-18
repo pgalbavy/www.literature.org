@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-02.html"
+url: "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-02.html"
 ---
 
 The Emperor of the Winkies paused in his story to reach for an oil-can, with which he carefully oiled the joints in his tin throat, for his voice had begun to squeak a little. Woot the Wanderer, having satisfied his hunger, watched this oiling process with much curiosity, but begged the Tin Man to go on with his tale.

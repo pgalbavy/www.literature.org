@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-01.html"
 ---
 
 Two friends were seated in the private office of Rowland & Starland, Montgomery Street, San Francisco, not long ago, discussing a subject in which both were much interested.

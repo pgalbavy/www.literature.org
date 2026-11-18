@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Evidence In The Case"
 weight: 11
-aliases:
-  - "/authors/greene-homer/burnham-breaker/chapter-11.html"
+url: "/authors/greene-homer/burnham-breaker/chapter-11.html"
 ---
 
 When court opened on Saturday morning, all the persons interested in the Burnham suit were present, and the court-room was crowded to even a greater extent than it had been on the previous day. Sharpman began the proceedings by offering in evidence the files of the Register's court, showing the date of Robert Burnham's death, the issuing of letters of administration to his widow, and the inventory and appraisement of his personal estate.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 10 - The Advantages Of An Air Raid"
 weight: 10
-aliases:
-  - "/authors/buchan-john/mr-standfast/part-01-chapter-10.html"
+url: "/authors/buchan-john/mr-standfast/part-01-chapter-10.html"
 ---
 
 The train was abominably late. It was due at eight-twenty-seven, but it was nearly ten when we reached St Pancras. I had resolved to go straight to my rooms in Westminster, buying on the way a cap and waterproof to conceal my uniform should anyone be near my door on my arrival. Then I would ring up Blenkiron and tell him all my adventures. I breakfasted at a coffee-stall, left my pack and rifle in the cloak-room, and walked out into the clear sunny morning.

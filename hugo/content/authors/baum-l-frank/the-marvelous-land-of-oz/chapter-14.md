@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-14.html"
+url: "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-14.html"
 ---
 
 They soon discovered that the Saw-Horse limped, for his new leg was a trifle too long. So they were obliged to halt while the Tin Woodman chopped it down with his axe, after which the wooden steed paced along more comfortably. But the Saw-Horse was not entirely satisfied, even yet.

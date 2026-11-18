@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-14.html"
+url: "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-14.html"
 ---
 
 TURAN the panthan chafed in his chains. Time dragged; silence and monotony prolonged minutes into hours. Uncertainty of the fate of the woman he loved turned each hour into an eternity of hell. He listened impatiently for the sound of approaching footsteps that he might see and speak to some living creature and learn, perchance, some word of Tara of Helium. After torturing hours his ears were rewarded by the rattle of harness and arms. Men were coming! He waited breathlessly. Perhaps they were his executioners; but he would welcome them notwithstanding. He would question them. But if they knew naught of Tara he would not divulge the location of the hiding place in which he had left her.

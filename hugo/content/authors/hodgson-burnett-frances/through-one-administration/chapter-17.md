@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-17.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-17.html"
 ---
 
 It was ten o'clock and bright moonlight when Tredennis reached his destination, the train having brought him to a way-side station two miles distant, where he had hired a horse, and struck out into the county road. In those good old days when the dwelling of every Virginia gentleman was his "mansion," the substantial pile of red brick before whose gate-way he dismounted had been a mansion too, and had not been disposed to trifle with its title, but had insisted upon it with a dignified squareness which scorned all architectural devices to attract attention. Its first owner had chosen its site with a view to the young "shade-trees" upon it, and while he had lived upon his property had been almost as proud of his trees as of his "mansion"; and when, long afterward, changes had taken place, and the objects of his pride fell into degenerate hands, as the glories of the mansion faded, its old friends, the trees, grew and flourished, and seemed to close kindly in about it, as if to soften and shadow its decay.

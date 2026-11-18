@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Blackie In A Basket"
 weight: 6
-aliases:
-  - "/authors/barnum-richard/blackie-a-lost-cat/chapter-06.html"
+url: "/authors/barnum-richard/blackie-a-lost-cat/chapter-06.html"
 ---
 
 Blackie, who had walked from the sitting room, where the old lady had been reading, out toward the hall, heard voices as the front door was opened.

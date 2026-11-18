@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 21"
 weight: 55
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-21.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-21.html"
 ---
 
 The temporary stable, a wooden shed, had been put up close to the race course, and there his mare was to have been taken the previous day. He had not yet seen her there.

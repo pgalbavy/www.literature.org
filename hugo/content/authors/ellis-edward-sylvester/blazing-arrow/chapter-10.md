@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Groping In The Dark"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-10.html"
 ---
 
 Larry Murphy, after his daring check of the Shawanoes in their attempt to leap the torrent, was sufficiently wise to see that it would not do for him to remain where he was. The red men had located the dangerous marksman, and would soon gain access to him.

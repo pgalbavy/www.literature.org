@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 30"
 weight: 30
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-30.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-30.html"
 ---
 
 In a certain dictionary appears this substantive and this definition. "PARASITE (par'-a-sit), n. one who frequents the table of a rich man and gains his favor by flattery; a hanger-on; an animal or plant nourished by another to which it attaches itself. (Greek.)"

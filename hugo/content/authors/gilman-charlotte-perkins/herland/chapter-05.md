@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Unique History"
 weight: 5
-aliases:
-  - "/authors/gilman-charlotte-perkins/herland/chapter-05.html"
+url: "/authors/gilman-charlotte-perkins/herland/chapter-05.html"
 ---
 
 It is no use for me to try to piece out this account with adventures. If the people who read it are not interested in these amazing women and their history, they will not be interested at all.

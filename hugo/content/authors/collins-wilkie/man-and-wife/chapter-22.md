@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Gone"
 weight: 24
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-22.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-22.html"
 ---
 
 BLANCHE came in, with a glass of wine in her hand, and saw the swooning woman on the floor.

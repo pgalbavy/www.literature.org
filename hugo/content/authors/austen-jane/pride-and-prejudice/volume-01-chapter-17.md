@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 17"
 weight: 17
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-17.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-17.html"
 ---
 
 Elizabeth related to Jane the next day, what had passed between Mr. Wickham and herself. Jane listened with astonishment and concern;--she knew not how to believe that Mr. Darcy could be so unworthy of Mr. Bingley's regard; and yet, it was not in her nature to question the veracity of a young man of such amiable appearance as Wickham.--The possibility of his having really endured such unkindness, was enough to interest all her tender feelings; and nothing therefore remained to be done, but to think well of them both, to defend the conduct of each, and throw into the account of accident or mistake, whatever could not be otherwise explained.

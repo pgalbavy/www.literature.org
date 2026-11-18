@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/woolf-virginia/the-voyage-out/chapter-23.html"
+url: "/authors/woolf-virginia/the-voyage-out/chapter-23.html"
 ---
 
 But no brush was able to efface completely the expression of happiness, so that Mrs. Ambrose could not treat them when they came downstairs as if they had spent the morning in a way that could be discussed naturally. This being so, she joined in the world's conspiracy to consider them for the time incapacitated from the business of life, struck by their intensity of feeling into enmity against life, and almost succeeded in dismissing them from her thoughts.

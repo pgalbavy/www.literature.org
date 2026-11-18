@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-23.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-23.html"
 ---
 
 WELL, all day him and the king was hard at it, rigging up a stage and a curtain and a row of candles for footlights; and that night the house was jam full of men in no time. When the place couldn't hold no more, the duke he quit tending door and went around the back way and come on to the stage and stood up before the curtain and made a little speech, and praised up this tragedy, and said it was the most thrillingest one that ever was; and so he went on abragging about the tragedy, and about Edmund Kean the Elder, which was to play the main principal part in it; and at last when he'd got everybody's expectations up high enough, he rolled up the curtain, and the next minute the king come a-prancing out on all fours, naked; and he was painted all over, ringstreaked-and-striped, all sorts of colors, as splendid as a rainbow. And -- but never mind the rest of his outfit; it was just wild, but it was awful funny. The people most killed themselves laughing; and when the king got done capering and capered off behind the scenes, they roared and clapped and stormed and hawhawed till he come back and done it over again, and after that they made him do it another time. Well, it would make a cow laugh to see the shines that old idiot cut.

@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 8"
 weight: 39
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-03-chapter-08.html"
+url: "/authors/cather-willa/one-of-ours/book-03-chapter-08.html"
 ---
 
 During the bleak month of March Mr. Wheeler went to town in his buckboard almost every day. For the first time in his life he had a secret anxiety. The one member of his family who had never given him the slightest trouble, his son Bayliss, was just now under a cloud.

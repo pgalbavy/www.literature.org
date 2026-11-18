@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/huxley-aldous/crome-yellow/chapter-09.html"
+url: "/authors/huxley-aldous/crome-yellow/chapter-09.html"
 ---
 
 Mr. Bodiham was sitting in his study at the Rectory. The nineteenth-century Gothic windows, narrow and pointed, admitted the light grudgingly; in spite of the brilliant July weather, the room was sombre. Brown varnished bookshelves lined the walls, filled with row upon row of those thick, heavy theological works which the second-hand booksellers generally sell by weight. The mantelpiece, the over-mantel, a towering structure of spindly pillars and little shelves, were brown and varnished. The writing-desk was brown and varnished. So were the chairs, so was the door. A dark red-brown carpet with patterns covered the floor. Everything was brown in the room, and there was a curious brownish smell.

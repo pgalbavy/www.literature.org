@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Mr. Bedford In Infinite Space"
 weight: 20
-aliases:
-  - "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-20.html"
+url: "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-20.html"
 ---
 
 IT was almost as though I had been killed. Indeed, I could imagine a man suddenly and violently killed would feel very much as I did. One moment, a passion of agonising existence and fear; the next darkness and stillness, neither light nor life nor sun, moon nor stars, the blank infinite. Although the thing was done by my own act, although I had already tasted this very of effect in Cavor's company, I felt astonished, dumbfounded, and overwhelmed. I seemed to be borne upward into an enormous darkness. My fingers floated off the studs, I hung as if I were annihilated, and at last very softly and gently I came against the bale and the golden chain, and the crowbars that had drifted to the middle of the sphere.

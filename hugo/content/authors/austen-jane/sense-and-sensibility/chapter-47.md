@@ -1,8 +1,7 @@
 ---
 title: "Chapter 47"
 weight: 47
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-47.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-47.html"
 ---
 
 Mrs. Dashwood did not hear unmoved the vindication of her former favourite. She rejoiced in his being cleared from some part of his imputed guilt;--she was sorry for him;--she wished him happy. But the feelings of the past could not be recalled.--Nothing could restore him with a faith unbroken--a character unblemished, to Marianne. Nothing could do away the knowledge of what the latter had suffered through his means, nor remove the guilt of his conduct towards Eliza. Nothing could replace him, therefore, in her former esteem, nor injure the interests of Colonel Brandon.

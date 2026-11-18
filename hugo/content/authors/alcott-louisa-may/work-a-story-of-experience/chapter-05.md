@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Companion"
 weight: 5
-aliases:
-  - "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-05.html"
+url: "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-05.html"
 ---
 
 BEFORE she had time to find a new situation, Christie received a note from Miss Tudor, saying that hearing she had left Mrs. Saltonstall she wanted to offer her the place of companion to an invalid girl, where the duties were light and the compensation large.

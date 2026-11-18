@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Mews From Persia"
 weight: 7
-aliases:
-  - "/authors/nesbit-edith/the-phoenix-and-the-carpet/chapter-07.html"
+url: "/authors/nesbit-edith/the-phoenix-and-the-carpet/chapter-07.html"
 ---
 
 When you hear that the four children found themselves at Waterloo Station quite un-taken-care-of, and with no one to meet them, it may make you think that their parents were neither kind nor careful. But if you think this you will be wrong. The fact is, mother arranged with Aunt Emma that she was to meet the children at Waterloo, when they went back from their Christmas holiday at Lyndhurst. The train was fixed, but not the day. Then mother wrote to Aunt Emma, giving her careful instructions about the day and the hour, and about luggage and cabs and things, and gave the letter to Robert to post. But the hounds happened to meet near Rufus Stone that morning, and what is more, on the way to the meet they met Robert, and Robert met them, and instantly forgot all about posting Aunt Emma's letter, and never thought of it again until he and the others had wandered three times up and down the platform at Waterloo - which makes six in all - and had bumped against old gentlemen, and stared in the faces of ladies, and been shoved by people in a hurry, and 'by-your-leaved' by porters with trucks, and were quite, quite sure that Aunt Emma was not there. Then suddenly the true truth of what he had forgotten to do came home to Robert, and he said, 'Oh, crikey!' and stood still with his mouth open, and let a porter with a Gladstone bag in each hand and a bundle of umbrellas under one arm blunder heavily into him, and never so much as said, 'Where are you shoving to now?' or, 'Look out where you're going, can't you?' The heavier bag smote him at the knee, and he staggered, but he said nothing.

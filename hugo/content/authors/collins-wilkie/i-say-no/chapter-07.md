@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - \u0026quot;Coming Events Cast Their Shadows Before.\u0026quot;"
 weight: 7
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-07.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-07.html"
 ---
 
 Miss De Sor and Miss Wyvil were still sitting together under the trees, talking of the murder at the inn.

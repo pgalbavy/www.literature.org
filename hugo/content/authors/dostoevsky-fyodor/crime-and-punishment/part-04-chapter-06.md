@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 6"
 weight: 27
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-04-chapter-06.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-04-chapter-06.html"
 ---
 
 When he remembered the scene afterwards, this is how Raskolnikov saw it.

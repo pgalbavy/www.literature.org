@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Lost Margaret"
 weight: 20
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-20.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-20.html"
 ---
 
 Anne found that she could go on living; the day came when she even smiled again over one of Miss Cornelia's speeches. But there was something in the smile that had never been in Anne's smile before and would never be absent from it again.

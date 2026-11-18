@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-04.html"
+url: "/authors/eliot-george/middlemarch/chapter-04.html"
 ---
 
 1st Gent. Our deeds are fetters that we forge ourselves. 2d Gent. Ay, truly: but I think it is the world That brings the iron.

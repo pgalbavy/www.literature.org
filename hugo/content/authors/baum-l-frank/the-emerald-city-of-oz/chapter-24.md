@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 25
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-24.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-24.html"
 ---
 
 The Tin Woodman received Princess Dorothy's party with much grace and cordiality, yet the little girl decided that something must be worrying with her old friend, because he was not so merry as usual.

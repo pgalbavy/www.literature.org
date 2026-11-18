@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 9 - Kazounde"
 weight: 27
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-09.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-09.html"
 ---
 
 ON May 26th, the caravan of slaves arrived at Kazounde. Fifty per cent. of the prisoners taken in the last raid had fallen on the road. Meanwhile, the business was still good for the traders; demands were coming in, and the price of slaves was about to rise in the African markets.

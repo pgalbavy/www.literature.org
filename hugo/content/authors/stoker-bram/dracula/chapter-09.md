@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/stoker-bram/dracula/chapter-09.html"
+url: "/authors/stoker-bram/dracula/chapter-09.html"
 ---
 
 LETTER, MINA HARKER TO LUCY WESTENRA

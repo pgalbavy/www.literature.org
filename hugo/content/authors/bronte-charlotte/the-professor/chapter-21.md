@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 22
-aliases:
-  - "/authors/bronte-charlotte/the-professor/chapter-21.html"
+url: "/authors/bronte-charlotte/the-professor/chapter-21.html"
 ---
 
 DIRECTLY as I closed the door, I saw laid on the table two letters; my thought was, that they were notes of invitation from the friends of some of my pupils; I had received such marks of attention occasionally, and with me, who had no friends, correspondence of more interest was out of the question; the postman's arrival had never yet been an event of interest to me since I came to Brussels. I laid my hand carelessly on the documents, and coldly and slowly glancing at them, I prepared to break the seals; my eye was arrested and my hand too; I saw what excited me, as if I had found a vivid picture where I expected only to discover a blank page: on one cover was an English postmark; on the other, a lady's clear, fine autograph; the last I opened first:--

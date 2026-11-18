@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 1 - The Armed Vigil"
 weight: 17
-aliases:
-  - "/authors/leblanc-maurice/the-frontier/part-03-chapter-01.html"
+url: "/authors/leblanc-maurice/the-frontier/part-03-chapter-01.html"
 ---
 
 "Ma'am!"

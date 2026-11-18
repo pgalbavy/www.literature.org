@@ -1,8 +1,7 @@
 ---
 title: "Chapter 49 - The End"
 weight: 51
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-49.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-49.html"
 ---
 
 My Dear Katie; —I know you will be very much pained when you read this letter. You two have been my only confidantes, and you have always kept me up, and encouraged me to hope that all would come right. And after all that happened last week, Patty's marriage, and your engagement,—the two things upon earth, with one exception, that I most wished for, —I quite felt that my own turn was coming. I can't tell why I had such a strong feeling about it, but somehow all the most important changes in my life for the last four years have been so interwoven with Patty and Harry Winburn's history, that, now they were married, I was sure something would happen to me as soon as I came to London. And I was not wrong. Dear Katie, I can hardly bring myself to write it. It is all over. I met her in the street to-day; she was riding with her father and the man I told you about. They had to pull up not to ride over me; so I had a good look at her, and there can be no mistake about it. I have often tried to reason myself into the belief that the evil day must come sooner or later, and to prepare myself for it; but I might have spared myself, for it could not have been worse than it is if I had never anticipated it. My future is all a blank now. I can't stay in England; so I have written home to ask them to let me go to New Zealand with East, and I am sure they will consent, when they know all.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/baum-l-frank/ozma-of-oz/chapter-01.html"
+url: "/authors/baum-l-frank/ozma-of-oz/chapter-01.html"
 ---
 
 The wind blew hard and joggled the water of the ocean, sending ripples across its surface. Then the wind pushed the edges of the ripples until they became waves, and shoved the waves around until they became billows. The billows rolled dreadfully high: higher even than the tops of houses. Some of them, indeed, rolled as high as the tops of tall trees, and seemed like mountains; and the gulfs between the great billows were like deep valleys.

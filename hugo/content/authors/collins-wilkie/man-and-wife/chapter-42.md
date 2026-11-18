@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42 - The Smoking-Room Window"
 weight: 44
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-42.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-42.html"
 ---
 
 "I CAN'T believe it! I won't believe it! You're trying to part me from my husband--you're trying to set me against my dearest friend. It's infamous. It's horrible. What have I done to you? Oh, my head! my head! Are you trying to drive me mad?"

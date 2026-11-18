@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-17.html"
+url: "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-17.html"
 ---
 
 It was not until summer waned to autumn and autumn passed into winter that the order came which slipped the leash and brought a day of departure.

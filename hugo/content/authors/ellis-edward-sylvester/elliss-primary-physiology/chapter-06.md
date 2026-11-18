@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Teeth"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-06.html"
 ---
 
 Few boys and girls take proper care of their teeth. All of us admire a set of strong, sound, even, white teeth, and those who do not have such, will tell how sorry they are because in youth they were so careless that their teeth were ruined.

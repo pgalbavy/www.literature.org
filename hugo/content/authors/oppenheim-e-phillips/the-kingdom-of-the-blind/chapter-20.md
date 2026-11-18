@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-20.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-20.html"
 ---
 
 Isabel Worth leaned back in the comfortable seat by Granet's side and breathed a little sigh of content. She had enjoyed her luncheon party a deux, their stroll along the sands afterwards, and she was fully prepared to enjoy this short drive homewards.

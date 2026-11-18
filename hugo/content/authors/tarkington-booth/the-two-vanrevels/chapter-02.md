@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Surviving Evils Of The Reign Of Terror"
 weight: 2
-aliases:
-  - "/authors/tarkington-booth/the-two-vanrevels/chapter-02.html"
+url: "/authors/tarkington-booth/the-two-vanrevels/chapter-02.html"
 ---
 
 Does there exist an incredulous, or jealous, denizen of another portion of our country who, knowing that the room in the wooden cupola over Mr. Carewe's library was commonly alluded to by Rouen as the "Tower Chamber," will prove himself so sectionally prejudiced as to deny that the town was a veritable hotbed of literary interest, or that Sir 'Walter Scott was ill-appreciated there? Some of the men looked sly, and others grinned, at mention of this apartment; but the romantic were not lacking who spoke of it in whispers: how the lights sometimes shone there all night long, and the gentlemen drove away, whitefaced, in the dawn. The cupola, rising above the library, overlooked the garden; and the house, save for that, was of a single story, with a low veranda running the length of its front. The windows of the library and of a row of bedrooms⸺one of which was Miss Betty's—lined the veranda, "steamboat fashion;" the inner doors of these rooms all opening upon a long hail which bisected the house, the stairway leading to the room in the cupola rose the library itself, while the bisecting hail afforded be only access to the library; hence, the gossips, 'eli acquainted with the geography of the place, conferred seriously together upon what effect Miss Betty's homecoming would have in this connection:

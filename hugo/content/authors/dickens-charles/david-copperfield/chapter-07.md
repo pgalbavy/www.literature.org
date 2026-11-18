@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - My ‘first Half’ At Salem House"
 weight: 8
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-07.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-07.html"
 ---
 
 School began in earnest next day. A profound impression was made upon me, I remember, by the roar of voices in the schoolroom suddenly becoming hushed as death when Mr. Creakle entered after breakfast, and stood in the doorway looking round upon us like a giant in a story-book surveying his captives.

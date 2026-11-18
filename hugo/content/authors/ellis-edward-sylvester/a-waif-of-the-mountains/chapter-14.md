@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Thunderbolt"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-14.html"
 ---
 
 Lieutenant Russell was treading on delicate ground, where the utmost caution was necessary. He must not alarm his friend. He smoked a few minutes in silence.

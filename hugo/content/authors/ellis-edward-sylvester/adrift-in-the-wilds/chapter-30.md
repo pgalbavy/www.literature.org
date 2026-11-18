@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - The Wolverines"
 weight: 30
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-30.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-30.html"
 ---
 
 The Pah Utah was the only member of the party that did not manifest any alarm or excitement. Carelessly removing his pipe from his mouth, he turned his head, looked at the animals a moment, and then resumed smoking, without giving utterance to a single sound or changing his posture in the least.

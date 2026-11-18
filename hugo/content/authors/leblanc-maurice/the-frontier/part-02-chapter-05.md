@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 5 - The Thunderclap"
 weight: 13
-aliases:
-  - "/authors/leblanc-maurice/the-frontier/part-02-chapter-05.html"
+url: "/authors/leblanc-maurice/the-frontier/part-02-chapter-05.html"
 ---
 
 The German argument was simple enough: the arrest had taken place in Germany. At least, that was what the newspapers stated in the extracts which Philippe and his father read in the Börsweilener Zeitung. Was it not to be expected that this would be the argument eventually adopted--if it was not adopted already--by the imperial government?

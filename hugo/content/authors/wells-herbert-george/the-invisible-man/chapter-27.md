@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - The Siege of Kemp's House"
 weight: 27
-aliases:
-  - "/authors/wells-herbert-george/the-invisible-man/chapter-27.html"
+url: "/authors/wells-herbert-george/the-invisible-man/chapter-27.html"
 ---
 
 Kemp read a strange missive, written in pencil on a greasy sheet of paper.

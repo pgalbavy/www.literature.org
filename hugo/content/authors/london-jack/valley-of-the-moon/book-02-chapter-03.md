@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 3"
 weight: 18
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-02-chapter-03.html"
+url: "/authors/london-jack/valley-of-the-moon/book-02-chapter-03.html"
 ---
 
 Saxon, brooding over her problem of retaining Billy's love, of never staling the freshness of their feeling for each other and of never descending from the heights which at present they were treading, felt herself impelled toward Mrs. Higgins. SHE knew; surely she must know. Had she not hinted knowledge beyond ordinary women's knowledge?

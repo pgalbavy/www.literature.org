@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Landing On The Moon"
 weight: 6
-aliases:
-  - "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-06.html"
+url: "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-06.html"
 ---
 
 I REMEBER how one day Cavor suddenly opened six of our shutters and blinded me so that I cried aloud at him. The whole area was moon, a stupendous scimitar of white dawn with its edge hacked out by notches of darkness, the crescent shore of an ebbing tide of darkness, out of which peaks and pinnacles came glittering into the blaze of the sun. I take it reader has seen pictures or photographs of the moon and that I need not describe the broader features of that landscape, those spacious ringlike ranges vaster than any terrestrial mountains, their summits shining in the day, their shadows harsh and deep, the gray disordered plains, the ridges, hills, and craterlets, all passing at last from a blazing illumination into a common mystery of black. Athwart this world we were flying scarcely a hundred miles above its crests and pinnacles. And now we could see, what no eye on earth will ever see, that under the blaze of the day the harsh outlines of the rocks and ravines of the plains and crater floor grew gray and indistinct under a thickening haze, that the white of their lit surfaces broke into lumps and patches, and broke again and shrank and vanished, and that here and there strange tints of brown and olive grew and spread.

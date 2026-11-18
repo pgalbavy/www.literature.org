@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 12 - Pastoral And Tragedy"
 weight: 12
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-01-chapter-12.html"
+url: "/authors/buchan-john/the-half-hearted/part-01-chapter-12.html"
 ---
 
 The news of the election, brought to Glenavelin by a couple of ragged runners, had a different result from that forecast by Lewis. Alice heard it with a heart unquickened; and when, an hour after, the flushed, triumphant Mr. Stocks arrived in person to claim the meed of success, he was greeted with a painful carelessness. Lady Manorwater had been loud in her laments for her nephew, but to Mr. Stocks she gave the honest praise which a warm-hearted woman cannot withhold from the fighter.

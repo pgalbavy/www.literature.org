@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The People March"
 weight: 9
-aliases:
-  - "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-09.html"
+url: "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-09.html"
 ---
 
 He became aware of someone urging a glass of clear fluid upon his attention, looked up and discovered this was a dark young man in a yellow garment. He took the dose forthwith, and in a moment he was glowing. A tall man in a black robe stood by his shoulder, and pointed to the half open door into the hall. This man was shouting close to his ear and yet what was said was indistinct because of the tremendous uproar from the great theatre. Behind the man was a girl in a silvery grey robe, whom Graham, even in this confusion, perceived to be beautiful. Her dark eyes, full of wonder and curiosity,-were fixed on him, her lips trembled apart. A partially opened door gave a glimpse of the crowded hall, and admitted a vast uneven tumult, a hammering, clapping and shouting that died away and began again, and rose to a thunderous pitch, and so continued intermittently all the time that Graham remained in the little room. He watched the lips of the man in black and gathered that he was making some clumsy explanation.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Benton Plays Magician"
 weight: 2
-aliases:
-  - "/authors/buck-charles-neville/the-lighted-match/chapter-02.html"
+url: "/authors/buck-charles-neville/the-lighted-match/chapter-02.html"
 ---
 
 In the large living-room, Van Bristow, the master of "Idle Times," had expressed his tastes. Here in the almost severe wainscoting, in inglenook and chimney-corner, one found the index to his fancy. It was his fancy which had dictated that the broad windows, with sills at the level of the floor, should not command the formal terraces and lawns of a landscape-gardener's devising, but should give exit instead upon a strip of rugged nature, where the murmur of the creek came up through unaltered foliage and underbrush.

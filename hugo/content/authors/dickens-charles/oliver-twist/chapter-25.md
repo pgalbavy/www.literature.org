@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Wherein This History Reverts To Mr. Fagin And Company"
 weight: 25
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-25.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-25.html"
 ---
 
 While these things were passing in the country workhouse, Mr. Fagin sat in the old den--the same from which Oliver had been removed by the girl--brooding over a dull, smoky fire. He held a pair of bellows upon his knee, with which he had apparently been endeavouring to rouse it into more cheerful action; but he had fallen into deep thought; and with his arms folded on them, and his chin resting on his thumbs, fixed his eyes, abstractedly, on the rusty bars.

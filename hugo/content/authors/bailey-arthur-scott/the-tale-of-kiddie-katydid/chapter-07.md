@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Freddie Wants To Tell"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-07.html"
 ---
 
 As soon as Kiddie Katydid mentioned the word music, Freddie Firefly began to dance and shout.

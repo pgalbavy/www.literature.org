@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Secret Of The Moon"
 weight: 3
-aliases:
-  - "/authors/burroughs-edgar-rice/the-moon-maid/chapter-02.html"
+url: "/authors/burroughs-edgar-rice/the-moon-maid/chapter-02.html"
 ---
 
 Norton, whose watch it was, had already hurried toward the pilot room where were located the controls and the various instruments. This room, which was just forward of the engine-room, was in effect a circular conning-tower which projected about twelve inches above the upper hull. The entire circumference of this twelve inch superstructure was set with small ports of thick crystal glass.

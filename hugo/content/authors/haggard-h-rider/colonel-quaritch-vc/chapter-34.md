@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - George's Diplomatic Errand"
 weight: 34
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-34.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-34.html"
 ---
 
 George carried out his intention of going to London. On the second morning after the day when Mr. Quest had driven the auctioneer in the dog-cart to Honham, he might have been seen an hour before it was light purchasing a third class return ticket to Liverpool Street. Arriving there in safety he partook of a second breakfast, for it was ten o'clock, and then hiring a cab caused himself to be driven to the end of that street in Pimlico where he had gone with the fair "Edithia" and where Johnnie had made acquaintance with his ash stick.

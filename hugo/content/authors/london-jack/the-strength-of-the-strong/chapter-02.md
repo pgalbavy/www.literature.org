@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - South Of The Slot"
 weight: 2
-aliases:
-  - "/authors/london-jack/the-strength-of-the-strong/chapter-02.html"
+url: "/authors/london-jack/the-strength-of-the-strong/chapter-02.html"
 ---
 
 Old San Francisco, which is the San Francisco of only the other day, the day before the Earthquake, was divided midway by the Slot. The Slot was an iron crack that ran along the centre of Market Street, and from the Slot arose the burr of the ceaseless, endless cable that was hitched at will to the cars it dragged up and down. In truth, there were two slots, but in the quick grammar of the West time was saved by calling them, and much more that they stood for, "The Slot." North of the Slot were the theatres, hotels, and shopping district, the banks and the staid, respectable business houses. South of the Slot were the factories, slums, laundries, machine-shops, boiler works, and the abodes of the working class.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Journey’s End"
 weight: 28
-aliases:
-  - "/authors/christie-agatha/the-murder-on-the-links/chapter-28.html"
+url: "/authors/christie-agatha/the-murder-on-the-links/chapter-28.html"
 ---
 
 I have confused memories of the further events of that night. Poirot seemed deaf to my repeated questions. He was engaged in overwhelming Françoise with reproaches for not having told him of Mrs. Renauld’s change of sleeping quarters.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Queen’s Necklace"
 weight: 5
-aliases:
-  - "/authors/leblanc-maurice/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/chapter-05.html"
+url: "/authors/leblanc-maurice/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/chapter-05.html"
 ---
 
 Two or three times each year, on occasions of unusual importance, such as the balls at the Austrian Embassy or the soirées of Lady Billingstone, the Countess de Dreux-Soubise wore upon her white shoulders "The Queen’s Necklace."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Tabitha And Gloriana, Housekeepers"
 weight: 2
-aliases:
-  - "/authors/brown-ruth-alberta/tabithas-vacation/chapter-02.html"
+url: "/authors/brown-ruth-alberta/tabithas-vacation/chapter-02.html"
 ---
 
 "You really think you want to do it?" Mr. Catt glanced quizzically from one bright, girlish face to the other as his fingers gently stroked the red tresses and the black hovering so close to his knee.

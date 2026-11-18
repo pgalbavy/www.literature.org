@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Solomon Needs A Change"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-06.html"
 ---
 
 For some time Solomon Owl had known that a queer feeling was coming over him. And he could not think what it meant. He noticed, too, that his appetite was leaving him. Nothing seemed to taste good any more.

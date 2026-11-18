@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 6"
 weight: 74
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-04-chapter-06.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-04-chapter-06.html"
 ---
 
 Pierre had of late rarely seen his wife alone. Both in Petersburg and in Moscow their house was always full of visitors. The night after the duel he did not go to his bedroom but, as he often did, remained in his father's room, that huge room in which Count Bezukhov had died.

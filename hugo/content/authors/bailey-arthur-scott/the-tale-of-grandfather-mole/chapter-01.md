@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Queer Old Person"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-01.html"
 ---
 
 THERE was a queer old person that lived in Farmer Green's garden. Nobody knew exactly how long he had made his home there because his neighbors seldom saw him. He might have been in the garden a whole summer before anybody set eyes on him.

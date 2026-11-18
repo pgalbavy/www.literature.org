@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-08.html"
+url: "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-08.html"
 ---
 
 "Quick!" cried Polychrome the Canary; "we must hurry, or Mrs. Yoop may find some way to recapture us, even now. Let us get out of her Valley as soon as possible."

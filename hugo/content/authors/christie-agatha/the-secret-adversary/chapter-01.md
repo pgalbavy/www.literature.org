@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Young Adventurers, Ltd"
 weight: 2
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/chapter-01.html"
+url: "/authors/christie-agatha/the-secret-adversary/chapter-01.html"
 ---
 
 "*TOMMY,* old thing!"

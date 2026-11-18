@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-09.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-09.html"
 ---
 
 It did not take Dorothy long to establish herself in her new home, for she knew the people and the manners and customs of the Emerald City just as well as she knew the old Kansas farm.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - I Continue To Move In Good Society"
 weight: 21
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-20.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-20.html"
 ---
 
 For about exactly two months I remained a guest in Prestongrange’s family, where I bettered my acquaintance with the bench, the bar, and the flower of Edinburgh company. You are not to suppose my education was neglected; on the contrary, I was kept extremely busy. I studied the French, so as to be more prepared to go to Leyden; I set myself to the fencing, and wrought hard, sometimes three hours in the day, with notable advancement; at the suggestion of my cousin, Pilrig, who was an apt musician, I was put to a singing class; and by the orders of my Miss Grant, to one for the dancing, at which I must say I proved far from ornamental. However, all were good enough to say it gave me an address a little more genteel; and there is no question but I learned to manage my coat skirts and sword with more dexterity, and to stand in a room as though the same belonged to me. My clothes themselves were all earnestly re-ordered; and the most trifling circumstance, such as where I should tie my hair, or the colour of my ribbon, debated among the three misses like a thing of weight. One way with another, no doubt I was a good deal improved to look at, and acquired a bit of modest air that would have surprised the good folks at Essendean.

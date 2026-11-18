@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-16.html"
+url: "/authors/dickens-charles/great-expectations/chapter-16.html"
 ---
 
 WITH my head full of George Barnwell, I was at first disposed to believe that I must have had some hand in the attack upon my sister, or at all events that as her near relation, popularly known to be under obligations to her, I was a more legitimate object of sus- picion than any one else. But when, in the clearer light of next morning, I began to reconsider the matter and to hear it discussed around me on all sides, I took another view of the case, which was more reasonable.

@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 19"
 weight: 19
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-01-chapter-19.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-01-chapter-19.html"
 ---
 
 At the men's end of the table the talk grew more and more animated. The colonel told them that the declaration of war had already appeared in Petersburg and that a copy, which he had himself seen, had that day been forwarded by courier to the commander in chief.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Alcohol"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-18.html"
 ---
 
 Alcohol does not exist in nature. It is a fluid made by fermentation, or the rotting of vegetables and their juices. Beer, cider, and wine are produced by the decay of a sweet liquid taken from grain or fruits. Alcohol is that element in malt and spirituous liquors which produces intoxication.

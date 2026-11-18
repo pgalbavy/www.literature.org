@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Sayers Of The Law"
 weight: 13
-aliases:
-  - "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-12.html"
+url: "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-12.html"
 ---
 
 THEN something cold touched my hand. I started violently, and saw close to me a dim pinkish thing, looking more like a flayed child than anything else in the world. The creature had exactly the mild but repulsive features of a sloth, the same low forehead and slow gestures.

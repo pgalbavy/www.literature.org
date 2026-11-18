@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/chambers-robert-w/the-common-law/chapter-07.html"
+url: "/authors/chambers-robert-w/the-common-law/chapter-07.html"
 ---
 
 An electric lamp was burning in the hallway; he threw open the connecting doors of the studio where a light gleamed high on the ceiling, and stood aside for her to pass him.

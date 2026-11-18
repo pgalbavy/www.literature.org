@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Evening Of The Betrothal"
 weight: 9
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-09.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-09.html"
 ---
 
 Villefort had, as we have said, hastened back to Madame de Saint-Meran's in the Place du Grand Cours, and on entering the house found that the guests whom he had left at table were taking coffee in the salon. Renee was, with all the rest of the company, anxiously awaiting him, and his entrance was followed by a general exclamation.

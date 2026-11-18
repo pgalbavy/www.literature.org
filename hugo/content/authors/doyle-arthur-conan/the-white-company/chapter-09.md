@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - How Strange Things Befell In Minstead Wood"
 weight: 9
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-09.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-09.html"
 ---
 
 THE path which the young clerk had now to follow lay through a magnificent forest of the very heaviest timber, where the giant bowls of oak and of beech formed long aisles in every direction, shooting up their huge branches to build the majestic arches of Nature's own cathedral. Beneath lay a broad carpet of the softest and greenest moss, flecked over with fallen leaves, but yielding pleasantly to the foot of the traveller. The track which guided him was one so seldom used that in places it lost itself entirely among the grass, to reappear as a reddish rut between the distant tree trunks. It was very still here in the heart of the woodlands. The gentle rustle of the branches and the distant cooing of pigeons were the only sounds which broke in upon the silence, save that once Alleyne heard afar off a merry call upon a hunting bugle and the shrill yapping of the hounds.

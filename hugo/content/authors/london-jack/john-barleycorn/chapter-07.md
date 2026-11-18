@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-07.html"
+url: "/authors/london-jack/john-barleycorn/chapter-07.html"
 ---
 
 I was barely turned fifteen, and working long hours in a cannery. Month in and month out, the shortest day I ever worked was ten hours. When to ten hours of actual work at a machine is added the noon hour; the walking to work and walking home from work; the getting up in the morning, dressing, and eating; the eating at night, undressing, and going to bed, there remains no more than the nine hours out of the twenty-four required by a healthy youngster for sleep. Out of those nine hours, after I was in bed and ere my eyes drowsed shut, I managed to steal a little time for reading.

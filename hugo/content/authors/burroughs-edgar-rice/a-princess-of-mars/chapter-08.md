@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Fair Captive from the Sky"
 weight: 8
-aliases:
-  - "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-08.html"
+url: "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-08.html"
 ---
 
 The third day after the incubator ceremony we set forth toward home, but scarcely had the head of the procession debouched into the open ground before the city than orders were given for an immediate and hasty return. As though trained for years in this particular evolution, the green Martians melted like mist into the spacious doorways of the nearby buildings, until, in less than three minutes, the entire cavalcade of chariots, mastodons and mounted warriors was nowhere to be seen.

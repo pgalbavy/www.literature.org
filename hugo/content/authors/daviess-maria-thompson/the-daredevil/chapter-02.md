@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Vive La France"
 weight: 2
-aliases:
-  - "/authors/daviess-maria-thompson/the-daredevil/chapter-02.html"
+url: "/authors/daviess-maria-thompson/the-daredevil/chapter-02.html"
 ---
 
 And after that first day there were many hours that the Capitaine, the Count de Lasselles, spent with little Pierre and the good Nannette, as she sat knitting always with the sun on the water reddening her round cheeks, while I had much pleasure with many friends who came to me upon the ship.

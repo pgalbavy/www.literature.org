@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Lazarus"
 weight: 13
-aliases:
-  - "/authors/leblanc-maurice/the-secret-tomb/chapter-13.html"
+url: "/authors/leblanc-maurice/the-secret-tomb/chapter-13.html"
 ---
 
 Dorothy gazed; her eyes missed no slightest movement. Like her, the young men remained motionless, with drawn faces. The Italian, however, just sketched the sign of the cross.

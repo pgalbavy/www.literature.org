@@ -1,8 +1,7 @@
 ---
 title: "Book 6 - Chapter 9"
 weight: 115
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-06-chapter-09.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-06-chapter-09.html"
 ---
 
 At that time, as always happens, the highest society that met at court and at the grand balls was divided into several circles, each with its own particular tone. The largest of these was the French circle of the Napoleonic alliance, the circle of Count Rumyantsev and Caulaincourt. In this group Helene, as soon as she had settled in Petersburg with her husband, took a very prominent place. She was visited by the members of the French embassy and by many belonging to that circle and noted for their intellect and polished manners.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The World And The Flesh"
 weight: 1
-aliases:
-  - "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-01.html"
+url: "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-01.html"
 ---
 
 "A beautiful woman is intended to create a heaven on earth and she has no business wasting herself making imaginary excursions into any future paradise. The present is her time for action; and again, Charlotte, I ask you to name the day upon which you intend to marry me," said Nickols Powers, as he stood lounging in the broad window of Aunt Clara's music room and gazing down into the subdued traffic of upper Madison Avenue.

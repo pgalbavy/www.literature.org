@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Lure Of Gold"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-10.html"
 ---
 
 It was borne in upon Gideon Landon when he rounded the half century mark that he must let up in his intense application to his vast moneyed interests or break down. He hated to think of stopping, even for a brief season, but nature gave her unerring warning and the specialist whom he consulted spoke tersely and to the point:

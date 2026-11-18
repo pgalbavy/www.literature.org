@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Long Arm Of Ah Sing"
 weight: 10
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-09.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-09.html"
 ---
 
 Two weeks after receiving his appointment as resident of Bulungan, Peter Gross stood on a wharf along the Batavia water-front and looked wistfully out to sea. It was early evening and quite dark, for the moon had not risen and the eastern sky from the zenith down was obscured by fitful patches of cloud, gray-winged messengers of rain. In the west, Venus glowed with a warm, seductive light, like a lamp in a Spanish garden. A brisk and vigorous breeze roughed the waters of the bay that raced shoreward in long rollers to escape its impetuous wooing.

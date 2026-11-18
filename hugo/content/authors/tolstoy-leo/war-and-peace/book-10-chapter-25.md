@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 25"
 weight: 215
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-25.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-25.html"
 ---
 
 The officers were about to take leave, but Prince Andrew, apparently reluctant to be left alone with his friend, asked them to stay and have tea. Seats were brought in and so was the tea. The officers gazed with surprise at Pierre's huge stout figure and listened to his talk of Moscow and the position of our army, round which he had ridden. Prince Andrew remained silent, and his expression was so forbidding that Pierre addressed his remarks chiefly to the good-natured battalion commander.

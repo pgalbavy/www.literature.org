@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - A Member Of The Horticultural Society"
 weight: 26
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-26.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-26.html"
 ---
 
 Rosa, beyond herself and nearly mad with joy and fear at the idea of the black tulip being found again, started for the White Swan, followed by the boatman, a stout lad from Frisia, who was strong enough to knock down a dozen Boxtels single-handed.

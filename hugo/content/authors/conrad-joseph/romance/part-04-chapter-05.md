@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 5"
 weight: 23
-aliases:
-  - "/authors/conrad-joseph/romance/part-04-chapter-05.html"
+url: "/authors/conrad-joseph/romance/part-04-chapter-05.html"
 ---
 
 I said, "This is home, at last. It is all over"; and she stood by me on the deck. She pushed the heavy black cloak from over her head, and her white face appeared above the dim black shadow of her mourning. She looked silently round her on the mist, the groups of rough men, the spatterings of light that were like violence, too. She said nothing, but rested her hand on my arm.

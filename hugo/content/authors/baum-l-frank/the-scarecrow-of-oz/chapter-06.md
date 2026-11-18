@@ -1,8 +1,7 @@
 ---
 title: "chapter 06"
 weight: 999
-aliases:
-  - "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-06.html"
+url: "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-06.html"
 ---
 
 Cap'n Bill and Trot rode very comfortably in the sunbonnet. The motion was quite steady, for they weighed so little that the Ork flew without effort. Yet they were both somewhat nervous about their future fate and could not help wishing they were safe on land and their natural size again.

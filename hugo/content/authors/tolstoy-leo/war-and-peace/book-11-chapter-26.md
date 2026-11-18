@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 26"
 weight: 255
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-26.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-26.html"
 ---
 
 Toward four o'clock in the afternoon Murat's troops were entering Moscow. In front rode a detachment of Wurttemberg hussars and behind them rode the King of Naples himself accompanied by a numerous suite.

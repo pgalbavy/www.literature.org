@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - At Home In The Woods"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-21.html"
 ---
 
 Mrs. Woodchuck was not so sorry, after all, that she had to leave her home in the pasture. You see, she always moved twice a year, anyhow. Every fall she went into the woods to live; and every spring she returned to Farmer Green's pasture. And every time that Mrs. Woodchuck moved, she made a new house for herself.

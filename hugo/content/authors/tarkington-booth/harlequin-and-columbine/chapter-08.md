@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/tarkington-booth/harlequin-and-columbine/chapter-08.html"
+url: "/authors/tarkington-booth/harlequin-and-columbine/chapter-08.html"
 ---
 
 With this sonorous bit of character reading still ringing in his ears, Canby emerged from the cream-coloured apartment to find the stoop-shouldered figure of the also hypocritical son leaning wearily against the wall, waiting for a delaying elevator. The attitude was not wholly devoid of pathos, to Canby's view of it. Neither was the careworn, harried face, unharmoniously topped by a green hat so sparklingly jaunty, not only in colour but in its shape and the angle of its perch, that it was outright hilarious, and, above the face of Packer, made the playwright think pityingly of a St. Patrick's Day party holding a noisy celebration upon a hearse.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-21.html"
+url: "/authors/dickens-charles/great-expectations/chapter-21.html"
 ---
 
 CASTING my eyes on Mr Wemmick as we went along, to see what he was like in the light of day, I found him to be a dry man, rather short in stature, with a square wooden face, whose expression seemed to have been imperfectly chipped out with a dull-edged chisel. There were some marks in it that might have been dimples, if the material had been softer and the instrument finer, but which, as it was, were only dints. The chisel had made three or four of these attempts at embellishment over his nose, but had given them up without an effort to smooth them off. I judged him to be a bachelor from the frayed condition of his linen, and he appeared to have sustained a good many bereavements; for, he wore at least four mourning rings, besides a brooch representing a lady and a weeping willow at a tomb with an urn on it. I noticed, too, that several rings and seals hung at his watch chain, as if he were quite laden with remembrances of departed friends. He had glittering eyes -- small, keen, and black -- and thin wide mottled lips. He had had them, to the best of my belief, from forty to fifty years.

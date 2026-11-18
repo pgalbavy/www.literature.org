@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - \"Blackleg\""
 weight: 15
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-15.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-15.html"
 ---
 
 More than once during the next ten minutes Buck cursed himself inwardly for not having brought along the small but powerful pair of field-glasses that were tucked away in his bag. He had picked them up at the Divisional Headquarters only a week or two before the Belleau Woods business, and how they had stuck to him until his arrival in America remained one of the minor mysteries of that vanished year. He would have given anything for them now, for though he could make out fairly well the movements of the two men, he was too far away to distinguish their faces.

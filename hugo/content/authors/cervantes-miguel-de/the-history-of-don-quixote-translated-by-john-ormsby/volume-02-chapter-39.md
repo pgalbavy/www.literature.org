@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 39 - In Which The Trifaldi Continues Her Marvellous And Memorable Story"
 weight: 95
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-39.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-39.html"
 ---
 
 By every word that Sancho uttered, the duchess was as much delighted as Don Quixote was driven to desperation. He bade him hold his tongue, and the Distressed One went on to say: "At length, after much questioning and answering, as the princess held to her story, without changing or varying her previous declaration, the Vicar gave his decision in favour of Don Clavijo, and she was delivered over to him as his lawful wife; which the Queen Doña Maguncia, the Princess Antonomasia’s mother, so took to heart, that within the space of three days we buried her."

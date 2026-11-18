@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/davis-richard-harding/the-princess-aline/chapter-01.html"
+url: "/authors/davis-richard-harding/the-princess-aline/chapter-01.html"
 ---
 
 H. R. H. the Princess Aline of Hohenwald came into the life of Morton Carlton--or "Morney" Carlton, as men called him--of New York city, when that young gentleman's affairs and affections were best suited to receive her. Had she made her appearance three years sooner or three years later, it is quite probable that she would have passed on out of his life with no more recognition from him than would have been expressed in a look of admiring curiosity.

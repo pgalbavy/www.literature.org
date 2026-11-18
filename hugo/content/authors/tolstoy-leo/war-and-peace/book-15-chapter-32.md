@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 32"
 weight: 349
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-32.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-32.html"
 ---
 
 As in every large household, there were at Bald Hills several perfectly distinct worlds which merged into one harmonious whole, though each retained its own peculiarities and made concessions to the others. Every event, joyful or sad, that took place in that house was important to all these worlds, but each had its own special reasons to rejoice or grieve over that occurrence independently of the others.

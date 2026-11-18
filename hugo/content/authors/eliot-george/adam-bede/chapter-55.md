@@ -1,8 +1,7 @@
 ---
 title: "Chapter 55 - Marriage Bells"
 weight: 55
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-55.html"
+url: "/authors/eliot-george/adam-bede/chapter-55.html"
 ---
 
 IN little more than a month after that meeting on the hill - on a rimy morning in departing November - Adam and Dinah were married.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - A Sign Of Rain"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-20.html"
 ---
 
 OVER near the garden fence lay an old hollow log. Grandfather Mole discovered it one day; and thinking that it would be a fine place to look for grubs and other good things, he crept into one end of it.

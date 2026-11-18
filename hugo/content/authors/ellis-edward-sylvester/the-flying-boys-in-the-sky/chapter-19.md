@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Aeroplane Destroyed"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-19.html"
 ---
 
 With one bound Harvey Hamilton leaped out of bed and jerked open the door. Bohunkus Johnson stood before him, atremble with excitement.

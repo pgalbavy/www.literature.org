@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Last of the \u0026quot;Kincaid\u0026quot;"
 weight: 19
-aliases:
-  - "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-19.html"
+url: "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-19.html"
 ---
 
 Shortly after the break of day Tarzan was on deck noting the condition of the weather. The wind had abated. The sky was cloudless. Every condition seemed ideal for the commencement of the return voyage to Jungle Island, where the beasts were to be left. And then--home!

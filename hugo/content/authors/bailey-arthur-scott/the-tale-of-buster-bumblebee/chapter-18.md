@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Following The Crowd"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-18.html"
 ---
 
 Well, the next day Buster Bumblebee arrived at Farmer Green's place just as the cuckoo clock in the kitchen was striking nine. And he knew at once that Jimmy Rabbit must have told him the truth about the raising bee, for the farmyard was crowded with wagons and carryalls and buggies and gigs. There were people everywhere--so many that Buster thought all the world must be there. And he began to look about him carefully.

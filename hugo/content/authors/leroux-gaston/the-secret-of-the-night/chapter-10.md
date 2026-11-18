@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Drama In The Night"
 weight: 10
-aliases:
-  - "/authors/leroux-gaston/the-secret-of-the-night/chapter-10.html"
+url: "/authors/leroux-gaston/the-secret-of-the-night/chapter-10.html"
 ---
 
 At the door of the Krestowsky Rouletabille, who was in a hurry for a conveyance, jumped into an open carriage where la belle Onoto was already seated. The dancer caught him on her knees.

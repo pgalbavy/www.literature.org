@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Nib And His Master Make A Call"
 weight: 11
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-11.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-11.html"
 ---
 
 “Hoo's a queer little wench,” said one of the roughest Rigganite matrons, after Anice's first visit, “I wur i' th' middle o' my weshin when she coom,--up to th' neck i' th' suds,--and I wur vexed enow when I seed her standin' i' th' door, lookin' at me wi' them big eyes o' hers--most loike a babby's wonderin' at summat. 'We dunnot want none,' I says, soart o' sharp loike, th' minute I clapped my eyes on her. 'Theer's no one here as can read, an' none on us has no toime to spare if we could, so we dunnot want none.' 'Dunnot want no what?' she says. 'No tracks,' says I. And what do yo' think she does, lasses? Why, she begins to soart o' dimple up about th' corners o' her mouth as if I'd said summat reight down queer, an' she gi'es a bit o' a laff. 'Well,' she says, 'I'm glad o' that. It's a good thing, fur I hav'n't got none.' An' then it turns out that she just stopped fur nowt but to leave some owd linen an' salve for to dress that sore hond Jack crushed i' th' pit. He'd towd her about it as he went to his work, and she promised to bring him some. An' what's more, she wouldna coom in, but just gi' it me, an' went her ways, as if she had na been th' Parson's lass at aw, but just one o' th' common koind, as knowd how to moind her own business an' leave other folkses a-be.”

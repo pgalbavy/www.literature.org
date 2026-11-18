@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Bank Of Silver Bow Is Robbed"
 weight: 12
-aliases:
-  - "/authors/brown-ruth-alberta/tabithas-vacation/chapter-12.html"
+url: "/authors/brown-ruth-alberta/tabithas-vacation/chapter-12.html"
 ---
 
 "It must have rained here since we left," observed Toady, as they drew near the town.

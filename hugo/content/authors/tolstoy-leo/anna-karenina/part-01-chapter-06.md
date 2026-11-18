@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 6"
 weight: 6
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-06.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-06.html"
 ---
 
 When Oblonsky asked Levin what had brought him to town, Levin blushed, and was furious with himself for blushing, because he could not answer, "I have come to make your sister-in-law an offer," though that was precisely what he had come for.

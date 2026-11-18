@@ -1,8 +1,7 @@
 ---
 title: "Book 9 - Chapter 16"
 weight: 183
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-09-chapter-16.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-09-chapter-16.html"
 ---
 
 On receiving news of Natasha's illness, the countess, though not quite well yet and still weak, went to Moscow with Petya and the rest of the household, and the whole family moved from Marya Dmitrievna's house to their own and settled down in town.

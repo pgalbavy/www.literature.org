@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/cooper-courtney-ryley/the-white-desert/chapter-22.html"
+url: "/authors/cooper-courtney-ryley/the-white-desert/chapter-22.html"
 ---
 
 It was night when Barry Houston limped, muscles cramped and frost-numbed, into the little undertaking shop at Tollifer and deposited his tiny burden. Medaine Robinette had remained behind in the rough care of the snow crews, while he, revived by steaming coffee and hot food, had been brought down on a smaller snowplow, running constantly, and without extra power, between Tollifer and "the front", that the lines of communication be kept open.

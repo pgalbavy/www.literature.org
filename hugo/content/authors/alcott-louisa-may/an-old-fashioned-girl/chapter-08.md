@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Six Years Afterward"
 weight: 9
-aliases:
-  - "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-08.html"
+url: "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-08.html"
 ---
 
 “WHAT do you think Polly is going to do this winter?” exclaimed Fanny, looking up from the letter she had been eagerly reading.

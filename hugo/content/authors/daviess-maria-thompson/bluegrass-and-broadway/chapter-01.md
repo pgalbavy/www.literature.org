@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/daviess-maria-thompson/bluegrass-and-broadway/chapter-01.html"
+url: "/authors/daviess-maria-thompson/bluegrass-and-broadway/chapter-01.html"
 ---
 
 The need of a large sum of money in a great hurry is the root of many noble ambitions, in whose branches roost strange companies of birds, pecking away for dollars that grow--or do not--on bushes. And it was in such a quest that Miss Patricia Adair of Adairville, Kentucky, lit upon a limb of life beside Mr. Godfrey Vandeford of Broadway, New York. Their joint endeavors made a great adventure.

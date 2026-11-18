@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Driven To The Wall"
 weight: 33
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-33.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-33.html"
 ---
 
 The discovery which checked Oscar Gleeson was the presence of nearly all the Comanches within a hundred feet of the warriors that were holding their conference with him. The signs could not be mistaken, and the Texan abandoned the hopeless scheme he had formed.

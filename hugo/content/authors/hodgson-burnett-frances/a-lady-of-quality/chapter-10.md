@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - \u0026quot;YesI Have Marked Him\u0026quot;"
 weight: 11
-aliases:
-  - "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-10.html"
+url: "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-10.html"
 ---
 
 Through the brilliant, happy year succeeding to his marriage my Lord of Dunstanwolde lived like a man who dreams a blissful dream and knows it is one.

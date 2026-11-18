@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Curtain"
 weight: 25
-aliases:
-  - "/authors/hodgson-burnett-frances/the-secret-garden/chapter-25.html"
+url: "/authors/hodgson-burnett-frances/the-secret-garden/chapter-25.html"
 ---
 
 And the secret garden bloomed and bloomed and every morning revealed new miracles. In the robin’s nest there were Eggs and the robin’s mate sat upon them keeping them warm with her feathery little breast and careful wings. At first she was very nervous and the robin himself was indignantly watchful. Even Dickon did not go near the close-grown corner in those days, but waited until by the quiet working of some mysterious spell he seemed to have conveyed to the soul of the little pair that in the garden there was nothing which was not quite like themselves—nothing which did not understand the wonderfulness of what was happening to them—the immense, tender, terrible, heart-breaking beauty and solemnity of Eggs. If there had been one person in that garden who had not known through all his or her innermost being that if an Egg were taken away or hurt the whole world would whirl round and crash through space and come to an end—if there had been even one who did not feel it and act accordingly there could have been no happiness even in that golden springtime air. But they all knew it and felt it and the robin and his mate knew they knew it.

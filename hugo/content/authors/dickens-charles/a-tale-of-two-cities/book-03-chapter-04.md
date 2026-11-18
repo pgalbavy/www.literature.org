@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 4 - Calm In Storm"
 weight: 34
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-04.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-04.html"
 ---
 
 DOCTOR MANETTE did not return until the morning of the fourth day of his absence. So much of what had happened in that dreadful time as could be kept from the knowledge of Lucie was so well concealed from her, that not until long afterwards, when France and she were far apart, did she know that eleven hundred defenceless prisoners of both sexes and all ages had been killed by the populace; that four days and nights had been darkened by this deed of horror; and that the air around her had been tainted by the slain. She only knew that there had been an attack upon the prisons, that all political prisoners had been in danger, and that some had been dragged out by the crowd and murdered.

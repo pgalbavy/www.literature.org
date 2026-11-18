@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - On The Way To The Major"
 weight: 7
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-07.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-07.html"
 ---
 
 "YES, said Benjamin. "It _is_ a coincidence certainly. Still--"

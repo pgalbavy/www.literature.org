@@ -1,8 +1,7 @@
 ---
 title: "Chapter 46 - From India To Englebourn"
 weight: 48
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-46.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-46.html"
 ---
 
 If a knowledge of contemporary history must be reckoned as an important element in the civilization of any people, then I am afraid that the good folk of Englebourn must have been content, in the days of our story, with a very low place on the ladder. How, indeed, was knowledge to percolate, so as to reach down to the foundations of Englebournian society—the stratum on which all others rest—the common agricultural labourer, producer of corn and other grain, the careful and stolid nurse and guardian of youthful oxen, sheep and pigs, many of them far better fed and housed than his own children? All-penetrating as she is, one cannot help wondering that she did not give up Englebourn altogether as a hopeless job.

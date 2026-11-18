@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Captive And Captors"
 weight: 33
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-33.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-33.html"
 ---
 
 The capture of Clinton by the six Iroquois was done as artistically as if the whole thing were a play in which all had studied and rehearsed their parts. The youth had not the least suspicion of the peril, until he saw the hand suddenly extended and the rifle withdrawn at the same moment he leaned it against the tree trunk. Then, before he was able to form an idea of what it meant, the Indians came out, he was surrounded and all escape cut off. His gun was beyond his reach, and, wherever he turned, he was confronted by a painted and fully armed Indian warrior.

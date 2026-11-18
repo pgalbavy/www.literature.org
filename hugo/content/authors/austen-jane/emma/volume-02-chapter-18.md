@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 18"
 weight: 36
-aliases:
-  - "/authors/austen-jane/emma/volume-02-chapter-18.html"
+url: "/authors/austen-jane/emma/volume-02-chapter-18.html"
 ---
 
 “I hope I shall soon have the pleasure of introducing my son to you,” said Mr. Weston.

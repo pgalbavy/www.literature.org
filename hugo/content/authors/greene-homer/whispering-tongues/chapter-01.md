@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Moonlight Rush"
 weight: 1
-aliases:
-  - "/authors/greene-homer/whispering-tongues/chapter-01.html"
+url: "/authors/greene-homer/whispering-tongues/chapter-01.html"
 ---
 
 It’s a way we have at Old Concord; It’s a way we have at Old Concord; It’s a way we have at Old Concord;

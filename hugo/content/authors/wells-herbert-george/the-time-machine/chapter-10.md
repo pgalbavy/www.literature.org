@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/wells-herbert-george/the-time-machine/chapter-10.html"
+url: "/authors/wells-herbert-george/the-time-machine/chapter-10.html"
 ---
 
 'About eight or nine in the morning I came to the same seat of yellow metal from which I had viewed the world upon the evening of my arrival. I thought of my hasty conclusions upon that evening and could not refrain from laughing bitterly at my confidence. Here was the same beautiful scene, the same abundant foliage, the same splendid palaces and magnificent ruins, the same silver river running between its fertile banks. The gay robes of the beautiful people moved hither and thither among the trees. Some were bathing in exactly the place where I had saved Weena, and that suddenly gave me a keen stab of pain. And like blots upon the landscape rose the cupolas above the ways to the Under-world. I understood now what all the beauty of the Over- world people covered. Very pleasant was their day, as pleasant as the day of the cattle in the field. Like the cattle, they knew of no enemies and provided against no needs. And their end was the same.

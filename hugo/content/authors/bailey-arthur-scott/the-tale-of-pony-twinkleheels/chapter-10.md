@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Ebenezer's Record"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-10.html"
 ---
 
 The old horse Ebenezer had beaten Twinkleheels in the race to the bars. While Johnnie Green slipped their halters on them, and they munched the oats that he gave them, neither of them spoke. Johnnie mounted Ebenezer bareback; and leading Twinkleheels, he turned down the lane.

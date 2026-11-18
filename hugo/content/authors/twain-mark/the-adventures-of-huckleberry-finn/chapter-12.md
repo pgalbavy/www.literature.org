@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-12.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-12.html"
 ---
 
 IT must a been close on to one o'clock when we got below the island at last, and the raft did seem to go mighty slow. If a boat was to come along we was going to take to the canoe and break for the Illinois shore; and it was well a boat didn't come, for we hadn't ever thought to put the gun in the canoe, or a fishing-line, or anything to eat. We was in ruther too much of a sweat to think of so many things. It warn't good judgment to put EVERYTHING on the raft.

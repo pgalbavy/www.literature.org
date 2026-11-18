@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - A Little Child Shall Lead Them"
 weight: 12
-aliases:
-  - "/authors/brown-ruth-alberta/the-lilac-lady/chapter-12.html"
+url: "/authors/brown-ruth-alberta/the-lilac-lady/chapter-12.html"
 ---
 
 "Oh, Elspeth, you can't guess where I've been!" shrieked Peace, puffing with excitement as she stumbled up the steps after her long run home.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Sir John Bell"
 weight: 4
-aliases:
-  - "/authors/haggard-h-rider/doctor-therne/chapter-03.html"
+url: "/authors/haggard-h-rider/doctor-therne/chapter-03.html"
 ---
 
 Now it is that I came to the great and terrible event of my life, which in its result turned me into a false witness and a fraud, and bound upon my spirit a weight of blood-guiltiness greater than a man is often called upon to bear. As I have not scrupled to show I have constitutional weaknesses--more, I am a sinner, I know it; I have sinned against the code of my profession, and have preached a doctrine I knew to be false, using all my skill and knowledge to confuse and pervert the minds of the ignorant. And yet I am not altogether responsible for these sins, which in truth in the first place were forced upon me by shame and want and afterwards by the necessities of my ambition. Indeed, in that dark and desperate road of deceit there is no room to turn; the step once taken can never be retraced.

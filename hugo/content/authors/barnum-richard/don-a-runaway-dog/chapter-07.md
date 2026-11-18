@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Don In The City"
 weight: 7
-aliases:
-  - "/authors/barnum-richard/don-a-runaway-dog/chapter-07.html"
+url: "/authors/barnum-richard/don-a-runaway-dog/chapter-07.html"
 ---
 
 Poor Don did not know what to do. There he was, shut tightly up in a dark freight car, that was rumbling over the rails as fast as it could go.

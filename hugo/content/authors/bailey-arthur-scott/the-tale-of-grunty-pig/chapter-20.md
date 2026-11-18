@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - A New Kind Of Pig"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-20.html"
 ---
 
 "Stop grunting and squealing and follow me!" old dog Spot growled. And Grunty Pig, who had just tumbled through a hole in the fence, scrambled to his feet and trotted after his guide.

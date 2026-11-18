@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - What Manner Candide Found Miss Cunegund and the Old Woman Again"
 weight: 29
-aliases:
-  - "/authors/voltaire/candide/chapter-29.html"
+url: "/authors/voltaire/candide/chapter-29.html"
 ---
 
 While Candide, the Baron, Pangloss, Martin, and Cacambo, were relating their several adventures, and reasoning on the contingent or noncontingent events of this world; on causes and effects; on moral and physical evil; on free will and necessity; and on the consolation that may be felt by a person when a slave and chained to an oar in a Turkish galley, they arrived at the house of the Transylvanian prince on the shores of the Propontis. The first objects they beheld there, were Miss Cunegund and the old woman, who were hanging some tablecloths on a line to dry.

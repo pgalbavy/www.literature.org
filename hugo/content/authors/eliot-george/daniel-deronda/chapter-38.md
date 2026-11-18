@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38"
 weight: 38
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-38.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-38.html"
 ---
 
 There be who hold that the deeper tragedy were a Prometheus Bound not after but before he had well got the celestial fire into the narthex whereby it might be conveyed to mortals: thrust by the Kratos and Bia of instituted methods into a solitude of despised ideas, fastened in throbbing helplessness by the fatal pressure of poverty and disease - a solitude where many pass by, but none regard.

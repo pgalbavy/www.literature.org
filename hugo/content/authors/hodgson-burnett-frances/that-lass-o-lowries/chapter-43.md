@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43 - Liz Comes Back"
 weight: 43
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-43.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-43.html"
 ---
 
 “Miss,” said Mrs. Thwaite, “it wur last neet, an' you mowt ha' knocked me down wi' a feather, fur I seed her as plain as I see yo'.”

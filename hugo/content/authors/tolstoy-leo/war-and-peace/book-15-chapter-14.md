@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 14"
 weight: 331
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-14.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-14.html"
 ---
 
 It would be difficult to explain why and whither ants whose heap has been destroyed are hurrying: some from the heap dragging bits of rubbish, larvae, and corpses, others back to the heap, or why they jostle, overtake one another, and fight, and it would be equally difficult to explain what caused the Russians after the departure of the French to throng to the place that had formerly been Moscow. But when we watch the ants round their ruined heap, the tenacity, energy, and immense number of the delving insects prove that despite the destruction of the heap, something indestructible, which though intangible is the real strength of the colony, still exists; and similarly, though in Moscow in the month of October there was no government no churches, shrines, riches, or houses- it was still the Moscow it had been in August. All was destroyed, except something intangible yet powerful and indestructible.

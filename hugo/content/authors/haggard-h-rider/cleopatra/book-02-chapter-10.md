@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 10"
 weight: 18
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-02-chapter-10.html"
+url: "/authors/haggard-h-rider/cleopatra/book-02-chapter-10.html"
 ---
 
 OF THE TROUBLE OF CLEOPATRA; OF HER OATH TO HARMACHIS; AND OF THE TELLING BY HARMACHIS TO CLEOPATRA OF THE SECRET OF THE TREASURE THAT LAY BENEATH THE MASS OF “HER”

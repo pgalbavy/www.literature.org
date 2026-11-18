@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 11 - Effect Is Given To The Dolls’ Dressmaker’s Discovery"
 weight: 61
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-04-chapter-11.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-04-chapter-11.html"
 ---
 
 Mrs John Rokesmith sat at needlework in her neat little room, beside a basket of neat little articles of clothing, which presented so much of the appearance of being in the dolls’ dressmaker’s way of business, that one might have supposed she was going to set up in opposition to Miss Wren. Whether the Complete British Family Housewife had imparted sage counsel anent them, did not appear, but probably not, as that cloudy oracle was nowhere visible. For certain, however, Mrs John Rokesmith stitched at them with so dexterous a hand, that she must have taken lessons of somebody. Love is in all things a most wonderful teacher, and perhaps love (from a pictorial point of view, with nothing on but a thimble), had been teaching this branch of needlework to Mrs John Rokesmith.

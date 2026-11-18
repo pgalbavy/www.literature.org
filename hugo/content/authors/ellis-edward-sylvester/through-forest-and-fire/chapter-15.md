@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Surprise"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-15.html"
 ---
 
 All this time the baying of the hound continued, the sounds showing that he had circled and was approaching the boys, who were not a little astonished at the unexpected turn of affairs.

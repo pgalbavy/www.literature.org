@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Fishing For A Prize"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-08.html"
 ---
 
 It is no easy task, even for a trained athlete, to climb forty or fifty feet of rope. The majority of men, if put to the test of making their way out of that cave by shinning up the long lariat suspended from the opening above, would have failed altogether.

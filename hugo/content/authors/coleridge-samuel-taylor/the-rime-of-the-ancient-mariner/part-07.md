@@ -1,8 +1,7 @@
 ---
 title: "Part 7"
 weight: 7
-aliases:
-  - "/authors/coleridge-samuel-taylor/the-rime-of-the-ancient-mariner/part-07.html"
+url: "/authors/coleridge-samuel-taylor/the-rime-of-the-ancient-mariner/part-07.html"
 ---
 
 This Hermit good lives in that wood Which slopes down to the sea. How loudly his sweet voice he rears! He loves to talk with marineres That come from a far countree.

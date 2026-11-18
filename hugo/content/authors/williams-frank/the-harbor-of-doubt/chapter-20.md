@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Among The Home Folks"
 weight: 20
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-20.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-20.html"
 ---
 
 The village of Freekirk Head was a changed place.

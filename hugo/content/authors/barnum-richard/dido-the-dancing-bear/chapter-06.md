@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Dido In The Country"
 weight: 6
-aliases:
-  - "/authors/barnum-richard/dido-the-dancing-bear/chapter-06.html"
+url: "/authors/barnum-richard/dido-the-dancing-bear/chapter-06.html"
 ---
 
 New York is a big city, and it is not a place where bears live, except in Central Park, or Bronx Park, where there are many wild animals in cages or dens. And it was to New York that Dido had come with his keeper.

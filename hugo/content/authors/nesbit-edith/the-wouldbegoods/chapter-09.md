@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Hunting The Fox"
 weight: 9
-aliases:
-  - "/authors/nesbit-edith/the-wouldbegoods/chapter-09.html"
+url: "/authors/nesbit-edith/the-wouldbegoods/chapter-09.html"
 ---
 
 It is idle to expect everyone to know everything in the world without being told. If we had been brought up in the country we should have known that it is not done - to hunt the fox in August. But in the Lewisham Road the most observing boy does not notice the dates when it is proper to hunt foxes.

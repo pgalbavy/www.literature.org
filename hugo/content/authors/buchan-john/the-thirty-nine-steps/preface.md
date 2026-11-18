@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/buchan-john/the-thirty-nine-steps/preface.html"
+url: "/authors/buchan-john/the-thirty-nine-steps/preface.html"
 ---
 
 TO

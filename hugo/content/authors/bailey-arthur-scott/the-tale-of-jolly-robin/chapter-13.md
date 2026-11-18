@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Hermit"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-13.html"
 ---
 
 Though Jolly Robin was quite bold for his size, he had a cousin who was actually shy. This timid relation of Jolly's belonged to the Hermit Thrush family; and Jolly Robin always spoke of him as "The Hermit," which was a good name for him, because he never strayed from the depths of the swamp near Black Creek. At least, he stayed there all summer long, until the time came for him to go South.

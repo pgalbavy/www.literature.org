@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - \u0026quot;I Should Like To See More Of Slowbridge\u0026quot;"
 weight: 7
-aliases:
-  - "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-07.html"
+url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-07.html"
 ---
 
 When he announced at breakfast his intention of taking his departure on the midday train, Lucia wondered again what would happen; and again, to her relief, Lady Theobald was astonishingly lenient.

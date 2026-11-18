@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Tum Tum And Mappo"
 weight: 3
-aliases:
-  - "/authors/barnum-richard/tum-tum-the-jolly-elephant/chapter-03.html"
+url: "/authors/barnum-richard/tum-tum-the-jolly-elephant/chapter-03.html"
 ---
 
 Tum Tum was not now such a jolly elephant as he had been the day he went in swimming, or as happy as when he pulled up the tree, fell over backward, and laughed at his own joke. No, indeed! Tum Tum was feeling very unhappy now.

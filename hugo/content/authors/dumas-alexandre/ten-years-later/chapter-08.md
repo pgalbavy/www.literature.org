@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - What His Majesty King Louis Xiv. Was At The Age Of Twenty-Two"
 weight: 8
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-08.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-08.html"
 ---
 
 It has been seen, by the account we have endeavored to give of it, that the entree of King Louis XIV. into the city of Blois had been noisy and brilliant his young majesty had therefore appeared perfectly satisfied with it.

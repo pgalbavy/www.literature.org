@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Mr. Cuss Interviews the Stranger"
 weight: 4
-aliases:
-  - "/authors/wells-herbert-george/the-invisible-man/chapter-04.html"
+url: "/authors/wells-herbert-george/the-invisible-man/chapter-04.html"
 ---
 
 I have told the circumstances of the stranger's arrival in Iping with a certain fulness of detail, in order that the curious impression he created may be understood by the reader. But excepting two odd incidents, the circumstances of his stay until the extraordinary day of the Club Festival may be passed over very cursorily. There were a number of skirmishes with Mrs. Hall on matters of domestic discipline, but in every case until late in April, when the first signs of penury began, he over-rode her by the easy expedient of an extra payment. Hall did not like him, and whenever he dared he talked of the advisability of getting rid of him; but he showed his dislike chiefly by concealing it ostentatiously, and avoiding his visitor as much as possible. "Wait till the summer," said Mrs. Hall, sagely, "when the artisks are beginning to come. Then we'll see. He may be a bit overbearing, but bills settled punctual is bills settled punctual, whatever you like to say."

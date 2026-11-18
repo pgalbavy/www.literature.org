@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Immortal Ten"
 weight: 18
-aliases:
-  - "/authors/williams-frank/the-free-range/chapter-18.html"
+url: "/authors/williams-frank/the-free-range/chapter-18.html"
 ---
 
 Jimmie Welsh threw his hand into the discard and grinned sheepishly.

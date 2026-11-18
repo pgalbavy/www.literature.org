@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/tarkington-booth/gentle-julia/chapter-07.html"
+url: "/authors/tarkington-booth/gentle-julia/chapter-07.html"
 ---
 
 A week later, on a hot July afternoon, Miss Florence Atwater, recovered from her cold, stood in the shady back yard of her place of residence and yawned more extensively than any one would have believed possible, judging by her face in repose. Three of her friends, congenial in age and sex, were out of town for the summer; two had been ascertained, by telephonic inquiries, to be taking commanded siestas; and neither the other one nor Florence had yet forgotten that yesterday, although they were too religious to commit themselves to a refusal to meet as sisters in the Great Beyond, they had taken the expurgated oath that by Everything they would never speak to each other again so long as they both should live.

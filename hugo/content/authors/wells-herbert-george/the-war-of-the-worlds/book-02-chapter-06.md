@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 6 - The Work of Fifteen Days"
 weight: 23
-aliases:
-  - "/authors/wells-herbert-george/the-war-of-the-worlds/book-02-chapter-06.html"
+url: "/authors/wells-herbert-george/the-war-of-the-worlds/book-02-chapter-06.html"
 ---
 
 For some time I stood tottering on the mound regardless of my safety. Within that noisome den from which I had emerged I had thought with a narrow intensity only of our immediate security. I had not realised what had been hap- pening to the world, had not anticipated this startling vision of unfamiliar things. I had expected to see Sheen in ruins-- I found about me the landscape, weird and lurid, of another planet.

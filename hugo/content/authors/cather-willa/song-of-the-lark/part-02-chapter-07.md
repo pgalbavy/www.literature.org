@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 7"
 weight: 27
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-02-chapter-07.html"
+url: "/authors/cather-willa/song-of-the-lark/part-02-chapter-07.html"
 ---
 
 All through the lesson Thea had felt that Harsanyi was restless and abstracted. Before the hour was over, he pushed back his chair and said resolutely, “I am not in the mood, Miss Kronborg. I have something on my mind, and I must talk to you. When do you intend to go home?”

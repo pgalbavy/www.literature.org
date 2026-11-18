@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Scaffold"
 weight: 12
-aliases:
-  - "/authors/leblanc-maurice/the-crystal-stopper/chapter-12.html"
+url: "/authors/leblanc-maurice/the-crystal-stopper/chapter-12.html"
 ---
 
 “I will save him, I will save him,” Lupin repeated, without ceasing, in the taxicab in which he and Clarisse drove away. “I swear that I will save him.”

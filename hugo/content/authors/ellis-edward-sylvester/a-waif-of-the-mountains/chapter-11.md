@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Waiting"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-11.html"
 ---
 
 "Wade Ruggles, as I'm alive!" exclaimed the delighted landlord, rushing forward and grasping his hand. Instantly the group closed in, and there was such laughing and handshaking that for a time nothing was clearly distinguished.

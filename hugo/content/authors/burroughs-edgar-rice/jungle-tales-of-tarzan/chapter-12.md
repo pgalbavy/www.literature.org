@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Tarzan Rescues the Moon"
 weight: 12
-aliases:
-  - "/authors/burroughs-edgar-rice/jungle-tales-of-tarzan/chapter-12.html"
+url: "/authors/burroughs-edgar-rice/jungle-tales-of-tarzan/chapter-12.html"
 ---
 
 THE MOON SHONE down out of a cloudless sky--a huge, swollen moon that seemed so close to earth that one might wonder that she did not brush the crooning tree tops. It was night, and Tarzan was abroad in the jungle--Tarzan, the ape-man; mighty fighter, mighty hunter. Why he swung through the dark shadows of the somber forest he could not have told you. It was not that he was hungry--he had fed well this day, and in a safe cache were the remains of his kill, ready against the coming of a new appetite. Perhaps it was the very joy of living that urged him from his arboreal couch to pit his muscles and his senses against the jungle night, and then, too, Tarzan always was goaded by an intense desire to know.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Abbe Scarron"
 weight: 21
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-21.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-21.html"
 ---
 
 There was once in the Rue des Tournelles a house known by all the sedan chairmen and footmen of Paris, and yet, nevertheless, this house was neither that of a great lord nor of a rich man. There was neither dining, nor playing at cards, nor dancing in that house. Nevertheless, it was the rendezvous of the great world and all Paris went there. It was the abode of the little Abbe Scarron.

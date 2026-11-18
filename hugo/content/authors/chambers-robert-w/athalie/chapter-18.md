@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-18.html"
+url: "/authors/chambers-robert-w/athalie/chapter-18.html"
 ---
 
 During that first year Athalie Greensleeve saw a great deal of New York society, professionally, and of many New York men, socially.

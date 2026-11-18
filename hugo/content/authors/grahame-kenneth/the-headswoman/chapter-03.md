@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/grahame-kenneth/the-headswoman/chapter-03.html"
+url: "/authors/grahame-kenneth/the-headswoman/chapter-03.html"
 ---
 
 Jeanne passed a somewhat restless night after her small scene with her cousin, waking depressed and unrefreshed. Though she had carried matters with so high a hand, and had scored so distinctly all around, she had been more agitated than she had cared to show. She liked Enguerrand; and more especially did she like his admiration for her; and that chance allusion to Clairette contained possibilities that were alarming. In embracing a professional career, she had never thought for a moment that it could militate against that due share of admiration to which, as a girl, she was justly entitled; and Enguerrand's views seemed this morning all the more narrow and inexcusable. She rose languidly, and as soon as she was dressed sent off a little note to the Mayor, saying that she had a nervous headache and felt out of sorts, and begging to be excused from attendance on that day; and the missive reached the Mayor just as he was taking his usual place at the head of the Board.

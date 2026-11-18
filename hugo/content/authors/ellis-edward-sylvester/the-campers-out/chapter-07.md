@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - One Afternoon In Autumn"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-07.html"
 ---
 
 The lumbering old stage-coach that left Belmar one morning in autumn was bowling along at a merry rate, for the road was good, the grade slightly down-hill, and the September afternoon that was drawing to a close cool and bracing.

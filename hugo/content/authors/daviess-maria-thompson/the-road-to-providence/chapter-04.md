@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Love, The Cure-All"
 weight: 4
-aliases:
-  - "/authors/daviess-maria-thompson/the-road-to-providence/chapter-04.html"
+url: "/authors/daviess-maria-thompson/the-road-to-providence/chapter-04.html"
 ---
 
 "Eat milk, thank ma'am, please, Mother Lady," demanded Martin Luther as he stood on the top step in front of Mother Mayberry, who, with Miss Wingate beside her, sat sewing away the early hours of the morning. A tiny blue-check shirt was taking shape under Mother's skilful fingers, and the singer lady was deep in the mysteries of the fore and aft of a minute pair of jeans trousers. The limitations of young Ez's wardrobe had necessitated the speedy construction of one for the little adopt, and Miss Wingate's education along the lines of needle control was progressing at what she considered a remarkable rate.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-14.html"
 ---
 
 One of the most striking features of the massacre in Wyoming Valley, in July, 1778, was the number of extraordinary individual escapes on the part of the fleeing patriots and panic-stricken settlers. There is no episode in American history marked by so many singular, and, indeed, almost inexplainable incidents, in this respect, as was that disaster which swept over one of the fairest spots that sun ever shone upon.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Two Thirteen"
 weight: 23
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-22.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-22.html"
 ---
 
 To Neeland, the entire affair had seemed as though it were some rather obvious screen-picture at which he was looking—some photo-play too crudely staged, and in which he himself was no more concerned than any casual spectator.

@@ -1,8 +1,7 @@
 ---
 title: "Book 13 - Chapter 19"
 weight: 298
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-13-chapter-19.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-13-chapter-19.html"
 ---
 
 A man in motion always devises an aim for that motion. To be able to go a thousand miles he must imagine that something good awaits him at the end of those thousand miles. One must have the prospect of a promised land to have the strength to move.

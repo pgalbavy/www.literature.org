@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Monsieur's Féte"
 weight: 29
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-29.html"
+url: "/authors/bronte-charlotte/villette/chapter-29.html"
 ---
 
 I was up the next morning an hour before daybreak, and finished my guard, kneeling on the dormitory floor beside the centre stand, for the benefit of such expiring glimmer as the night-lamp afforded in its last watch.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/huxley-aldous/crome-yellow/chapter-16.html"
+url: "/authors/huxley-aldous/crome-yellow/chapter-16.html"
 ---
 
 The ladies had left the room and the port was circulating. Mr. Scogan filled his glass, passed on the decanter, and, leaning back in his chair, looked about him for a moment in silence. The conversation rippled idly round him, but he disregarded it; he was smiling at some private joke. Gombauld noticed his smile.

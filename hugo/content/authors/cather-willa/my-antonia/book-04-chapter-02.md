@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 2"
 weight: 41
-aliases:
-  - "/authors/cather-willa/my-antonia/book-04-chapter-02.html"
+url: "/authors/cather-willa/my-antonia/book-04-chapter-02.html"
 ---
 
 SOON AFTER I GOT home that summer, I persuaded my grandparents to have their photographs taken, and one morning I went into the photographer’s shop to arrange for sittings. While I was waiting for him to come out of his developing-room, I walked about trying to recognize the likenesses on his walls: girls in Commencement dresses, country brides and grooms holding hands, family groups of three generations. I noticed, in a heavy frame, one of those depressing ‘crayon enlargements’ often seen in farm-house parlours, the subject being a round-eyed baby in short dresses. The photographer came out and gave a constrained, apologetic laugh.

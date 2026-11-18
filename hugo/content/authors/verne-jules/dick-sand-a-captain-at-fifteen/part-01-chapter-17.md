@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 17 - A Hundred Miles In Two Days"
 weight: 17
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-17.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-17.html"
 ---
 
 Generally, travelers or ramblers in the woods, who have slept in the forests under the lovely stars, are awakened by howlings as fantastic as disagreeable. There is everything in this morning concert: clucking, grunting, croaking, sneering, barking, and almost "speaking," if one may make use of this word, which completes the series of different noises.

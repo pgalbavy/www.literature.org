@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-13.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-13.html"
 ---
 
 The blossom had passed from the laurel and rhododendron and the June freshness had freckled into rustiness before the day came when Dorothy Harper and Cal Maggard were to be married, and as yet the man had not been able to walk beyond the threshold of the house, and to the people of the neighbourhood his face had not become familiar.

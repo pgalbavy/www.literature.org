@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Muleteers"
 weight: 13
-aliases:
-  - "/authors/chambers-robert-w/barbarians/chapter-13.html"
+url: "/authors/chambers-robert-w/barbarians/chapter-13.html"
 ---
 
 Lying far to the southwest of the battle line, only when a strong northwest wind blew could Sainte Lesse hear the thudding of cannon beyond the horizon. And once, when the northeast wind had blown steadily for a week, on the wings of the driving drizzle had come a faint but dreadful odour which hung among the streets and lanes until the wind changed.

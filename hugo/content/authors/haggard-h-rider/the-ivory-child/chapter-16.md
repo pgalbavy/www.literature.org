@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Hans Steals The Keys"
 weight: 16
-aliases:
-  - "/authors/haggard-h-rider/the-ivory-child/chapter-16.html"
+url: "/authors/haggard-h-rider/the-ivory-child/chapter-16.html"
 ---
 
 A few hours later some of the White Kendah arrived at the house and very politely delivered to us Ragnall’s and poor Savage’s guns and pistols, which they said they had found lying in the grass on the mountain-side, and with them the bull’s-eye lantern that Ragnall had thrown away in his flight; all of which articles I accepted without comment. That evening also Harût called and, after salutations, asked where Bena was as he did not see him. Then my indignation broke out:

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 6"
 weight: 6
-aliases:
-  - "/authors/london-jack/burning-daylight/part-01-chapter-06.html"
+url: "/authors/london-jack/burning-daylight/part-01-chapter-06.html"
 ---
 
 A crowd filled the Tivoli--the old crowd that had seen Daylight depart two months before; for this was the night of the sixtieth day, and opinion was divided as ever as to whether or not he would compass the achievement. At ten o'clock bets were still being made, though the odds rose, bet by bet, against his success. Down in her heart the Virgin believed he had failed, yet she made a bet of twenty ounces with Charley Bates, against forty ounces, that Daylight would arrive before midnight.

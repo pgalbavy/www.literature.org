@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Trial"
 weight: 6
-aliases:
-  - "/authors/haggard-h-rider/doctor-therne/chapter-05.html"
+url: "/authors/haggard-h-rider/doctor-therne/chapter-05.html"
 ---
 
 Although it took place so long ago, I suppose that a good many people still remember the case of “The Queen versus Therne,” which attracted a great deal of attention at the time. The prosecution, as I have said, was set on foot by the relations of the deceased Lady Colford, who, being very rich and powerful people, were able to secure the advocacy of one of the most eminent criminal lawyers of the day, with whom were briefed sundry almost equally eminent juniors. Indeed no trouble or expense was spared that could help to ensure my conviction.

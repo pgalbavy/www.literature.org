@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-10.html"
+url: "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-10.html"
 ---
 
 "Our best plan," said the Scarecrow Bear, when the Green Monkey had related the story of his adventure with the Dragons, "is to get out of this Gillikin Country as soon as we can and try to find our way to the castle of Glinda, the Good Sorceress. There are too many dangers lurking here to suit me, and Glinda may be able to restore us to our proper forms."

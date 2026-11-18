@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Dr John"
 weight: 10
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-10.html"
+url: "/authors/bronte-charlotte/villette/chapter-10.html"
 ---
 
 Madame Beck was a most consistent character; forbearing with all the world, and tender to no part of it. Her own children drew her into no deviation from the even tenor of her stoic calm. She was solicitous about her family, vigilant for their interests and physical well- being; but she never seemed to know the wish to take her little children upon her lap, to press their rosy lips with her own, to gather them in a genial embrace, to shower on them softly the benignant caress, the loving word.

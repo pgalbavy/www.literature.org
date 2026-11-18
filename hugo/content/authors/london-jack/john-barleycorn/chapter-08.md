@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-08.html"
+url: "/authors/london-jack/john-barleycorn/chapter-08.html"
 ---
 
 We met by appointment, early Monday morning, to complete the deal, in Johnny Heinhold's "Last Chance "--a saloon, of course, for the transactions of men. I paid the money over, received the bill of sale, and French Frank treated. This struck me as an evident custom, and a logical one--the seller, who receives, the money, to wet a piece of it in the establishment where the trade was consummated. But, to my surprise, French Frank treated the house. He and I drank, which seemed just; but why should Johnny Heinhold, who owned the saloon and waited behind the bar, be invited to drink? I figured it immediately that he made a profit on the very drink he drank. I could, in a way, considering that they were friends and shipmates, understand Spider and Whisky Bob being asked to drink; but why should the longshoremen, Bill Kelley and Soup Kennedy, be asked?

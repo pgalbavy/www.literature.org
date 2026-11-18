@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Blow Falls"
 weight: 23
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-23.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-23.html"
 ---
 
 On the following morning, about ten o'clock, while Edward Cossey was still at breakfast, a dog-cart drew up at his door and out of it stepped Colonel Quaritch.

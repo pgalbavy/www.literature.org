@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 16"
 weight: 84
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-04-chapter-16.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-04-chapter-16.html"
 ---
 
 It was long since Rostov had felt such enjoyment from music as he did that day. But no sooner had Natasha finished her barcarolle than reality again presented itself. He got up without saying a word and went downstairs to his own room. A quarter of an hour later the old count came in from his Club, cheerful and contented. Nicholas, hearing him drive up, went to meet him.

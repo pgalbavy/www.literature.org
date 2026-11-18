@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Modern Athens"
 weight: 6
-aliases:
-  - "/authors/davis-richard-harding/the-rulers-of-the-mediterranean/chapter-06.html"
+url: "/authors/davis-richard-harding/the-rulers-of-the-mediterranean/chapter-06.html"
 ---
 
 Perhaps the greatest charm of Athens and of the islands and mountains round about it lies in their power to lure back your belief in a great many fine people of whose remarkable deeds you had grown sceptical--of whose existence even you had begun to doubt. It is something very serious when one loses faith in so delightful a young man as Theseus, and it is worth while sailing under the lee shores of Crete, where he killed the Minotaur, if for no other purpose than to have your admiration for him restored. If we could only be as sure of restoring by travel all of those other people of whom our elders ceased telling us when we left the nursery, I would head an expedition to the north pole, not to discover open seas and altitudes and eclipses and such weighty things, but to locate that nice and kindly old gentleman, and his toy store and his reindeer, who used to come at Christmas-time, and who has stopped coming since I left school. It is certainly worth while going all the way to Greece to see the Hill of the Nymphs, and the very cave where Pan used to sleep in the hot midday, and to thrill over the four crossroads and the high, gloomy pass where the Sphinx lay in wait for OEdipus with her cruel claws and inscrutable smile.

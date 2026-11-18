@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Benjamin Bat's Plan"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-15.html"
 ---
 
 Of course, Kiddie Katydid was not always to be found in his favorite nook among the trees in Farmer Green's front yard. Quite often he went skipping about from tree to tree or from bush to bush, sometimes flying and sometimes leaping. It really made little difference to him which mode of travel he used. And he never stopped to think how lucky he was to be able to move so spryly with the help of either his legs or his wings. He took his good fortune as a matter of course.

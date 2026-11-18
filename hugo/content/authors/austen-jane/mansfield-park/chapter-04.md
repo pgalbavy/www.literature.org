@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-04.html"
+url: "/authors/austen-jane/mansfield-park/chapter-04.html"
 ---
 
 Tom Bertram had of late spent so little of his time at home that he could be only nominally missed; and Lady Bertram was soon astonished to find how very well they did even without his father, how well Edmund could supply his place in carving, talking to the steward, writing to the attorney, settling with the servants, and equally saving her from all possible fatigue or exertion in every particular but that of directing her letters.

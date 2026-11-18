@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 1"
 weight: 36
-aliases:
-  - "/authors/cather-willa/my-antonia/book-03-chapter-01.html"
+url: "/authors/cather-willa/my-antonia/book-03-chapter-01.html"
 ---
 
 AT THE UNIVERSITY I had the good fortune to come immediately under the influence of a brilliant and inspiring young scholar. Gaston Cleric had arrived in Lincoln only a few weeks earlier than I, to begin his work as head of the Latin Department. He came West at the suggestion of his physicians, his health having been enfeebled by a long illness in Italy. When I took my entrance examinations, he was my examiner, and my course was arranged under his supervision.

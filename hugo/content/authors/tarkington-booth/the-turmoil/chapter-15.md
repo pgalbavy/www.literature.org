@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-15.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-15.html"
 ---
 
 Mary was the picture of a lady flustered. She stood with one hand closing the gate behind her, and she had turned to go in the direction Bibbs was walking. There appeared to be nothing for it but that they should walk together, at least as far as the New House. But Bibbs had paused in his slow stride, and there elapsed an instant before either spoke or moved—it was no longer than that, and yet it sufficed for each to seem to say, by look and attitude, "Why, it's *YOU*!"

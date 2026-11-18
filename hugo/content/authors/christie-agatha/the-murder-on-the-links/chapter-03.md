@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - At The Villa Geneviève"
 weight: 3
-aliases:
-  - "/authors/christie-agatha/the-murder-on-the-links/chapter-03.html"
+url: "/authors/christie-agatha/the-murder-on-the-links/chapter-03.html"
 ---
 
 In a moment Poirot had leapt from the car, his eyes blazing with excitement. He caught the man by the shoulder.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/cooper-courtney-ryley/the-crosscut/chapter-09.html"
+url: "/authors/cooper-courtney-ryley/the-crosscut/chapter-09.html"
 ---
 
 It was just as well. Fairchild could have said nothing that would have helped matters. He could have done nothing that would have damaged them. The cards were still the same; the deck still bore its markings, and the deal was going on without ever a change, except that now the matter of concealment of enmities had turned to an open, aboveboard proposition. Whether Harry had so intended it or not, he had forced Squint Rodaine to show his hand, and whether Squint realized it, that amounted to something. Fairchild was almost grateful for the fact as he went back into the tunnel, spun the flywheels of the gasoline engines and started them revolving again, that the last of the water might be drained from the shaft before the pumps must be returned to their owners.

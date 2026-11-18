@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/huxley-aldous/crome-yellow/chapter-05.html"
+url: "/authors/huxley-aldous/crome-yellow/chapter-05.html"
 ---
 
 Mr. Wimbush had taken them to see the sights of the Home Farm, and now they were standing, all six of them —Henry Wimbush, Mr. Scogan, Denis, Gombauld, Anne, and Mary—by the low wall of the piggery, looking into one of the styes.

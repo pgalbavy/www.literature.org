@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Cats"
 weight: 20
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-19.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-19.html"
 ---
 
 MISS DUNROSS had so completely perplexed me, that I was at a loss what to say next.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Education"
 weight: 8
-aliases:
-  - "/authors/gilman-charlotte-perkins/our-androcentric-culture/chapter-08.html"
+url: "/authors/gilman-charlotte-perkins/our-androcentric-culture/chapter-08.html"
 ---
 
 The origin of education is maternal. The mother animal is seen to teach her young what she knows of life, its gains and losses; and, whether consciously done or not, this is education. In our human life, education, even in its present state, is the most important process. Without it we could not maintain ourselves, much less dominate and improve conditions as we do; and when education is what it should be, our power will increase far beyond present hopes.

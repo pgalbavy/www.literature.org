@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Roses Of Yesterday"
 weight: 21
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-21.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-21.html"
 ---
 
 The fortnight Anne spent in Bolingbroke was a very pleasant one, with a little under current of vague pain and dissatisfaction running through it whenever she thought about Gilbert. There was not, however, much time to think about him. "Mount Holly," the beautiful old Gordon homestead, was a very gay place, overrun by Phil's friends of both sexes. There was quite a bewildering succession of drives, dances, picnics and boating parties, all expressively lumped together by Phil under the head of "jamborees"; Alec and Alonzo were so constantly on hand that Anne wondered if they ever did anything but dance attendance on that will-o'-the-wisp of a Phil. They were both nice, manly fellows, but Anne would not be drawn into any opinion as to which was the nicer.

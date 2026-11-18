@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 7 - Lord Of The Manor"
 weight: 7
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-07.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-07.html"
 ---
 
 She came slowly towards the two men through the overgrown rose garden, a thin, pale, wild-eyed child, dressed in most uncompromising black. It was a matter of doubt whether she was the more surprised to see them, or they to find anyone else, in this wilderness of desolation. They stood face to face with her upon the narrow path.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Cipher Telegram"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-08.html"
 ---
 
 The almost interminable night came to an end at last and the dull gray of morning appeared in the east.

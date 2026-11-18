@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Play-House"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-16.html"
 ---
 
 As Billy Woodchuck grew bigger he was often to be seen digging holes in the pasture. You might think he was looking for something. But he was not. He was merely playing at making houses.

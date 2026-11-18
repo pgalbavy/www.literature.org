@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 1"
 weight: 125
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-01.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-01.html"
 ---
 
 Princess Shtcherbaiskaya considered that it was out of the question for the wedding to take place before Lent, just five weeks off, Since not half the trousseau could possibly be ready by that time. But she could not but agree with Levin that to fix it for after Lent would be putting it off too late, as an old aunt of Prince Shtcherbatsky's was seriously ill and might die, and then the mourning would delay the wedding still longer. And therefore, deciding to divide the trousseau into two parts--a larger and smaller trousseau--the princess consented to have the wedding before Lent. She determined that she would get the smaller part of the trousseau all ready now, and the larger part should be made later, and she was much vexed with Levin because he was incapable of giving her a serious answer to the question whether he agreed to this arrangement or not. The arrangement was the more suitable as, immediately after the wedding, the young people were to go to the country, where the more important part of the trousseau would not be wanted.

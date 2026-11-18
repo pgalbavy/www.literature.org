@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Conclusion"
 weight: 33
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-33.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-33.html"
 ---
 
 Van Baerle, led by four guards, who pushed their way through the crowd, sidled up to the black tulip, towards which his gaze was attracted with increasing interest the nearer he approached to it.

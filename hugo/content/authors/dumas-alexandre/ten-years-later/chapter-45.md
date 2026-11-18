@@ -1,8 +1,7 @@
 ---
 title: "Chapter 45 - Confession Of A Man Of Wealth"
 weight: 45
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-45.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-45.html"
 ---
 
 The Theatin entered deliberately, without being too much astonished at the noise and agitation which anxiety for the cardinal's health had raised in his household. "Come in, my reverend father," said Mazarin, after a last look at the ruelle, "come in and console me."

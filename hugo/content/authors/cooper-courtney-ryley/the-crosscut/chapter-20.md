@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/cooper-courtney-ryley/the-crosscut/chapter-20.html"
+url: "/authors/cooper-courtney-ryley/the-crosscut/chapter-20.html"
 ---
 
 It was as though the shades of the past had come to life again, to repeat in the twentieth century a happening of the nineteenth. There was only one difference--no form of a dead man now lay against the foot wall, to rest there more than a score of years until it should come to light, a pile of bones in time-shredded clothing. And as he thought of it, Fairchild remembered that the earthly remains of "Sissie" Larsen had lain within almost a few feet of the spot where he had drilled the prospect hole into the foot wall, there to discover the ore that promised bonanza.

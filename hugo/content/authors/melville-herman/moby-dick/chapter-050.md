@@ -1,8 +1,7 @@
 ---
 title: "Chapter 50 - Ahab's Boat and Crew.  Fedallah"
 weight: 50
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-050.html"
+url: "/authors/melville-herman/moby-dick/chapter-050.html"
 ---
 
 "Who would have thought it, Flask!" cried Stubb; "if I had but one leg you would not catch me in a boat, unless maybe to stop the plug-hole with my timber toe. Oh! he's a wonderful old man!"

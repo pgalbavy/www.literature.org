@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Peg Bowen Comes To Church"
 weight: 22
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-21.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-21.html"
 ---
 
 When those of us who are still left of that band of children who played long years ago in the old orchard and walked the golden road together in joyous companionship, foregather now and again in our busy lives and talk over the events of those many merry moons-- there are some of our adventures that gleam out more vividly in memory than the others, and are oftener discussed. The time we bought God's picture from Jerry Cowan--the time Dan ate the poison berries--the time we heard the ghostly bell ring--the bewitchment of Paddy--the visit of the Governor's wife--and the night we were lost in the storm--all awaken reminiscent jest and laughter; but none more than the recollection of the Sunday Peg Bowen came to church and sat in our pew. Though goodness knows, as Felicity would say, we did not think it any matter for laughter at the time--far from it.

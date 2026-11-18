@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Betty States Her Case"
 weight: 21
-aliases:
-  - "/authors/haggard-h-rider/fair-margaret/chapter-21.html"
+url: "/authors/haggard-h-rider/fair-margaret/chapter-21.html"
 ---
 
 Seven days had passed, during which time Margaret and her father had rested quietly in the prison, where, indeed, they dwelt more as guests than as captives. Thus they were allowed to receive what visitors they would, and among them Juan Bernaldez, Castell's connection and agent, who told them of all that passed without. Through him they sent messengers to meet Betty on her road and apprise her of how things stood, and of the trial in which her cause would be judged.

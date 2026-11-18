@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Owen Davies At Home"
 weight: 7
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-06.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-06.html"
 ---
 
 Owen Davies tramped along the cliff with a light heart. The wild lashing of the rain and the roaring of the wind did not disturb him in the least. They were disagreeable, but he accepted them as he accepted existence and all its vanities, without remark or mental comment. There is a class of mind of which this is the prevailing attitude. Very early in their span of life, those endowed with such a mind come to the conclusion that the world is too much for them. They cannot understand it, so they abandon the attempt, and, as a consequence, in their own torpid way they are among the happiest and most contented of men. Problems, on which persons of keener intelligence and more aspiring soul fret and foam their lives away as rushing water round a rock, do not even break the placid surface of their days. Such men slip past them. They look out upon the stars and read of the mystery of the universe speeding on for ever through the limitless wastes of space, and are not astonished. In their childhood they were taught that God made the sun and the stars to give light on the earth; that is enough for them. And so it is with everything. Poverty and suffering; war, pestilence, and the inequalities of fate; madness, life and death, and the spiritual wonders that hedge in our being, are things not to be inquired into but accepted. So they accept them as they do their dinner or a tradesman’s circular.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Substitution"
 weight: 16
-aliases:
-  - "/authors/bronte-anne/agnes-grey/chapter-16.html"
+url: "/authors/bronte-anne/agnes-grey/chapter-16.html"
 ---
 
 NEXT Sunday was one of the gloomiest of April days - a day of thick, dark clouds, and heavy showers. None of the Murrays were disposed to attend church in the afternoon, excepting Rosalie: she was bent upon going as usual; so she ordered the carriage, and I went with her: nothing loth, of course, for at church I might look without fear of scorn or censure upon a form and face more pleasing to me than the most beautiful of God's creations; I might listen without disturbance to a voice more charming than the sweetest music to my ears; I might seem to hold communion with that soul in which I felt so deeply interested, and imbibe its purest thoughts and holiest aspirations, with no alloy to such felicity except the secret reproaches of my conscience, which would too often whisper that I was deceiving my own self, and mocking God with the service of a heart more bent upon the creature than the Creator.

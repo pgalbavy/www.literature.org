@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Concerning Cruelty And Clemency, And Whether It Is Better To Be Loved Than Feared"
 weight: 18
-aliases:
-  - "/authors/machiavelli-nicolo/the-prince/chapter-17.html"
+url: "/authors/machiavelli-nicolo/the-prince/chapter-17.html"
 ---
 
 Coming now to the other qualities mentioned above, I say that every prince ought to desire to be considered clement and not cruel. Nevertheless he ought to take care not to misuse this clemency. Cesare Borgia was considered cruel; notwithstanding, his cruelty reconciled the Romagna, unified it, and restored it to peace and loyalty. And if this be rightly considered, he will be seen to have been much more merciful than the Florentine people, who, to avoid a reputation for cruelty, permitted Pistoia to be destroyed.[1] Therefore a prince, so long as he keeps his subjects united and loyal, ought not to mind the reproach of cruelty; because with a few examples he will be more merciful than those who, through too much mercy, allow disorders to arise, from which follow murders or robberies; for these are wont to injure the whole people, whilst those executions which originate with a prince offend the individual only.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - He Shall Die"
 weight: 32
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-32.html"
+url: "/authors/haggard-h-rider/jess/chapter-32.html"
 ---
 
 The night was still and very dark. A soft cold rain, such as often falls in the Wakkerstroom and New Scotland districts of the Transvaal, and which more resembles a true north country mist than anything else, was drizzling gently but persistently. This condition of affairs was as favourable as possible to their enterprise, and under cover of it the Hottentot and the white girl crept far down the hill to within twelve or fourteen paces of the back of the waggon-house. Then Jantje, who was leading, suddenly put back his hand and checked her, and at that moment Jess caught the sound of a sentry’s footsteps as he tramped leisurely up and down. For a couple of minutes or so they stopped thus, not knowing what to do, when suddenly a man came round the corner of the building holding a lantern in his hand. On seeing the lantern Jess’s first impulse was to fly, but Jantje by a motion made her understand that she was to stop still. The man with the lantern advanced towards the other man, holding the light above his head, and looking dim and gigantic in the mist and rain. Presently he turned his face, and Jess saw that it was Frank Muller himself. He stood thus for a moment waiting till the sentry was near to him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Lords Of The Day And Night"
 weight: 11
-aliases:
-  - "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-11.html"
+url: "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-11.html"
 ---
 
 When lunch was over, Ramón went to his room, to sleep for an hour. It was a hot, still afternoon. Clouds were standing erect and splendid, at the west end of the lake, like messengers. Ramón went into his room and closed the window-doors and the shutters, till it was quite dark, save for yellow pencils of light that stood like substance on the darkness, from the cracks of the shutters.

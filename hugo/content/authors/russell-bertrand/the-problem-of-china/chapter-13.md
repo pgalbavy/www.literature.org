@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Higher Education In China"
 weight: 14
-aliases:
-  - "/authors/russell-bertrand/the-problem-of-china/chapter-13.html"
+url: "/authors/russell-bertrand/the-problem-of-china/chapter-13.html"
 ---
 
 China, like Italy and Greece, is frequently misjudged by persons of culture because they regard it as a museum. The preservation of ancient beauty is very important, but no vigorous forward-looking man is content to be a mere curator. The result is that the best people in China tend to be Philistines as regards all that is pleasing to the European tourist. The European in China, quite apart from interested motives, is apt to be ultra-conservative, because he likes everything distinctive and non-European. But this is the attitude of an outsider, of one who regards China as a country to be looked at rather than lived in, as a country with a past rather than a future. Patriotic Chinese naturally do not view their country in this way; they wish their country to acquire what is best in the modern world, not merely to remain an interesting survival of a by-gone age, like Oxford or the Yellowstone Park. As the first step to this end, they do all they can to promote higher education, and to increase the number of Chinese who can use and appreciate Western knowledge without being the slaves of Western follies. What is being done in this direction is very interesting, and one of the most hopeful things happening in our not very cheerful epoch.

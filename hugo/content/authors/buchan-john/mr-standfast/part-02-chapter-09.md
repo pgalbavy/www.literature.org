@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 9 - The Storm Breaks In The West"
 weight: 20
-aliases:
-  - "/authors/buchan-john/mr-standfast/part-02-chapter-09.html"
+url: "/authors/buchan-john/mr-standfast/part-02-chapter-09.html"
 ---
 
 The following evening—it was the 20th day of March—I started for France after the dark fell. I drove Ivery’s big closed car, and within sat its owner, bound and gagged, as others had sat before him on the same errand. Geordie Hamilton and Amos were his companions. From what Blenkiron had himself discovered and from the papers seized in the Pink Chalet I had full details of the road and its mysterious stages. It was like the journey of a mad dream. In a back street of a little town I would exchange passwords with a nameless figure and be given instructions. At a wayside inn at an appointed hour a voice speaking a thick German would advise that this bridge or that railway crossing had been cleared. At a hamlet among pine woods an unknown man would clamber up beside me and take me past a sentry-post. Smooth as clockwork was the machine, till in the dawn of a spring morning I found myself dropping into a broad valley through little orchards just beginning to blossom, and I knew that I was in France. After that, Blenkiron’s own arrangements began, and soon I was drinking coffee with a young lieutenant of Chasseurs, and had taken the gag from Ivery’s mouth. The bluecoats looked curiously at the man in the green ulster whose face was the colour of clay and who lit cigarette from cigarette with a shaky hand.

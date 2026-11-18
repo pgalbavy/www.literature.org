@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 3"
 weight: 23
-aliases:
-  - "/authors/cather-willa/my-antonia/book-02-chapter-03.html"
+url: "/authors/cather-willa/my-antonia/book-02-chapter-03.html"
 ---
 
 ON SATURDAY AMBROSCH drove up to the back gate, and Antonia jumped down from the wagon and ran into our kitchen just as she used to do. She was wearing shoes and stockings, and was breathless and excited. She gave me a playful shake by the shoulders. ‘You ain’t forget about me, Jim?’

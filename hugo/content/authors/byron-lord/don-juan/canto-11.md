@@ -1,8 +1,7 @@
 ---
 title: "Canto 11"
 weight: 12
-aliases:
-  - "/authors/byron-lord/don-juan/canto-11.html"
+url: "/authors/byron-lord/don-juan/canto-11.html"
 ---
 
 When Bishop Berkeley said 'there was no matter,'  

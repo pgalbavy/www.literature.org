@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Making Peter Work"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-03.html"
 ---
 
 Peter Mink waited several days before he knocked at Mrs. Rabbit's door again. And when he did at last come back, he first made sure that her husband was not at home. You see, Peter had heard that Mr. Rabbit had told some of the forest-people that Peter had broken his saw, so he wouldn't have to saw wood to pay for the food that Mrs. Rabbit gave him.

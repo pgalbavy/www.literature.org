@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Three Badgers"
 weight: 18
-aliases:
-  - "/authors/carroll-lewis/sylvie-and-bruno/chapter-17.html"
+url: "/authors/carroll-lewis/sylvie-and-bruno/chapter-17.html"
 ---
 
 Still more dreamily I found myself following this imperious voice into a room where the Earl, his daughter, and Arthur, were seated. "So you're come at last!" said Lady Muriel, in a tone of playful reproach.

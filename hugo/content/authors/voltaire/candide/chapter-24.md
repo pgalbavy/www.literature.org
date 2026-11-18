@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Of Pacquette and Friar Giroflee"
 weight: 24
-aliases:
-  - "/authors/voltaire/candide/chapter-24.html"
+url: "/authors/voltaire/candide/chapter-24.html"
 ---
 
 Upon their arrival at Venice Candide went in search of Cacambo at every inn and coffee-house, and among all the ladies of pleasure, but could hear nothing of him. He sent every day to inquire what ships were in, still no news of Cacambo.

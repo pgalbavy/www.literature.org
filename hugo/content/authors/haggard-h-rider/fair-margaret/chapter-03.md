@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Peter Gathers Violets"
 weight: 3
-aliases:
-  - "/authors/haggard-h-rider/fair-margaret/chapter-03.html"
+url: "/authors/haggard-h-rider/fair-margaret/chapter-03.html"
 ---
 
 Peter obeyed, sat down in a big oak chair by the dying fire, and waited in his silent fashion.

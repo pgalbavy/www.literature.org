@@ -1,8 +1,7 @@
 ---
 title: "Chapter 74 - The Sperm Whale's Head - Contrasted View"
 weight: 74
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-074.html"
+url: "/authors/melville-herman/moby-dick/chapter-074.html"
 ---
 
 Here, now, are two great whales, laying their heads together; let us join them, and lay together our own.

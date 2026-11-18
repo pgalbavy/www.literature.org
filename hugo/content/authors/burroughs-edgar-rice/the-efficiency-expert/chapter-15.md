@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Little Eva"
 weight: 15
-aliases:
-  - "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-15.html"
+url: "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-15.html"
 ---
 
 Early in March Jimmy was again forced to part with his watch. As he was coming out of the pawn-shop late in the afternoon he almost collided with Little Eva.

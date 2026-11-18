@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The New Suit"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-19.html"
 ---
 
 Three days had passed. And as soon as he had finished his breakfast Brownie Beaver hastened to the tailor-shop of Mr. Frog, who had been making him a suit of clothes.

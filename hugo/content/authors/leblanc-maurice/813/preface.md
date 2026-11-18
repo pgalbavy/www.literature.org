@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/leblanc-maurice/813/preface.html"
+url: "/authors/leblanc-maurice/813/preface.html"
 ---
 
 TRANSLATOR'S NOTE

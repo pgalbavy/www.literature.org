@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Three Days"
 weight: 17
-aliases:
-  - "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-17.html"
+url: "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-17.html"
 ---
 
 Lincoln awaited Graham in an apartment beneath the flying stages. He seemed curious to learn all that had happened, pleased to hear of the extraordinary delight and interest which Graham took in flying Graham was in a mood of enthusiasm. "I must learn to fly," he cried. "I must master that. I pity all poor souls who have died without this opportunity. The sweet swift air! It is the most wonderful experience in the world."

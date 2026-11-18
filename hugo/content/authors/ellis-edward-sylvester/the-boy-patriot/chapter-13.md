@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Temptation"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-13.html"
 ---
 
 Derry Duck was no mean ally. The strength of his arm, and his position as second in command, gave him great influence on board the Molly. There were traditions of the power of his bare fist to deal death with a single blow—traditions which won for him an odd kind of respect, and insured for him the obedience he never failed to exact. Derry having avowed himself the friend of Blair Robertson, it was well understood that there must be an end to the peculiar persecutions to which the boy had been subjected. He could not of course escape such rough usage of word and act as the crew had for each other, but he was to be no longer their chosen butt and scape-goat.

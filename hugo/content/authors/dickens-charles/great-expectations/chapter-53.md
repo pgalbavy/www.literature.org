@@ -1,8 +1,7 @@
 ---
 title: "Chapter 53"
 weight: 53
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-53.html"
+url: "/authors/dickens-charles/great-expectations/chapter-53.html"
 ---
 
 IT was a dark night, though the full moon rose as I left the en- closed lands, and passed out upon the marshes. Beyond their dark line there was a ribbon of clear sky, hardly broad enough to hold the red large moon. In a few minutes she had ascended out of that clear field, in among the piled mountains of cloud.

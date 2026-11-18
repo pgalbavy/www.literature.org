@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-31.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-31.html"
 ---
 
 The Nore sand remains covered at low-water, and never seen by human eye; but the Nore is a name to conjure with visions of historical events, of battles, of fleets, of mutinies, of watch and ward kept upon the great throbbing heart of the State. This ideal point of the estuary, this centre of memories, is marked upon the steely gray expanse of the waters by a lightship painted red that, from a couple of miles off, looks like a cheap and bizarre little toy. I remember how, on coming up the river for the first time, I was surprised at the smallness of that vivid object—a tiny warm speck of crimson lost in an immensity of gray tones. I was startled, as if of necessity the principal beacon in the water-way of the greatest town on earth should have presented imposing proportions. And, behold! the brown sprit-sail of a barge hid it entirely from my view.

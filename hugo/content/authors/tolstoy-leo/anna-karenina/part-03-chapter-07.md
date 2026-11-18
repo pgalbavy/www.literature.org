@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 7"
 weight: 76
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-03-chapter-07.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-03-chapter-07.html"
 ---
 
 Stephan Arkadyevitch had gone to Petersburg to perform the most natural and essential official duty--so familiar to every one in the government service, though incomprehensible to outsiders-- that duty, but for which one could hardly be in government service, of reminding the ministry of his existence--and having, for the due performance of this rite, taken all the available cash from home, was gaily and agreeably spending his days at the races and in the summer villas. Meanwhile Dolly and the children had moved into the country, to cut down expenses as much as possible. She had gone to Ergushovo, the estate that had been her dowry, and the one where in spring the forest had been sold. It was nearly forty miles from Levin's Pokrovskoe. The big, old house at Ergushovo had been pulled down long ago, and the old prince had had the lodge done up and built on to. Twenty years before, when Dolly was a child, the lodge had been roomy and comfortable, though, like all lodges, it stood sideways to the entrance avenue, and faced the south. But by now this lodge was old and dilapidated. When Stepan Arkadyevitch had gone down in the spring to sell the forest, Dolly had begged him to look over the house and order what repairs might be needed. Stepan Arkadyevitch, like all unfaithful husbands indeed, was very solicitous for his wife's comfort, and he had himself looked over the house, and given instructions about everything that he considered necessary. What he considered necessary was to cover all the furniture with cretonne, to put up curtains, to weed the garden, to make a little bridge on the pond, and to plant Bowers. But he forgot many other essential matters, the want of which greatly distressed Darya Alexandrovna later on.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Tricking Twinkleheels"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-03.html"
 ---
 
 Clutching in one hand the four-quart measure with a taste of oats in it, and holding the halter carefully behind his back, Johnnie Green walked slowly towards Twinkleheels. He called with short, sharp whistles--all on one note. And Twinkleheels soon came cantering up from the other side of the brook, where he had been feeding. As he neared Johnnie Green he slowed down to a walk.

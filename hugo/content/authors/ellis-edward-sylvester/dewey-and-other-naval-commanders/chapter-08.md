@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-08.html"
 ---
 
 The First Serious Engagement—Loss of the Philadelphia —The Scheme of Captain Bainbridge —Exploit of Lieutenant Decatur.

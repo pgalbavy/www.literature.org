@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Timely Arrival Of D'artagnan In Paris"
 weight: 24
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-24.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-24.html"
 ---
 
 At Blois, D'Artagnan received the money paid to him by Mazarin for any future service he might render the cardinal.

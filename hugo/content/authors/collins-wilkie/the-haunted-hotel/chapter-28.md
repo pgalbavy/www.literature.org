@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/collins-wilkie/the-haunted-hotel/chapter-28.html"
+url: "/authors/collins-wilkie/the-haunted-hotel/chapter-28.html"
 ---
 
 So the Second Act ended.

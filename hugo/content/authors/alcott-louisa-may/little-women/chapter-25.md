@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The First Wedding"
 weight: 25
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-25.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-25.html"
 ---
 
 The June roses over the porch were awake bright and early on that morning, rejoicing with all their hearts in the cloudless sunshine, like friendly little neighbors, as they were. Quite flushed with excitement were their ruddy faces, as they swung in the wind, whispering to one another what they had seen, for some peeped in at the dining room windows where the feast was spread, some climbed up to nod and smile at the sisters as they dressed the bride, others waved a welcome to those who came and went on various errands in garden, porch, and hall, and all, from the rosiest full-blown flower to the palest baby bud, offered their tribute of beauty and fragrance to the gentle mistress who had loved and tended them so long.

@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 31 - Which Treats Of Many And Great Matters"
 weight: 87
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-31.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-31.html"
 ---
 
 Supreme was the satisfaction that Sancho felt at seeing himself, as it seemed, an established favourite with the duchess, for he looked forward to finding in her castle what he had found in Don Diego’s house and in Basilio’s; he was always fond of good living, and always seized by the forelock any opportunity of feasting himself whenever it presented itself. The history informs us, then, that before they reached the country house or castle, the duke went on in advance and instructed all his servants how they were to treat Don Quixote; and so the instant he came up to the castle gates with the duchess, two lackeys or equerries, clad in what they call morning gowns of fine crimson satin reaching to their feet, hastened out, and catching Don Quixote in their arms before he saw or heard them, said to him, "Your highness should go and take my lady the duchess off her horse."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - Ave Atque Vale"
 weight: 31
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-30.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-30.html"
 ---
 
 That frightful journey--no nightmare was ever half so awful! But it came to an end at last--there was the Bryngelly Station. Geoffrey sprang from the train, and gave his ticket to the porter, glancing in his face as he did so. Surely if there had been a tragedy the man would know of it, and show signs of half-joyous emotion as is the fashion of such people when something awful and mysterious has happened to somebody else. But he showed no such symptoms, and a glimmer of hope found its way into Geoffrey’s tormented breast.

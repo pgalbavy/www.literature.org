@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - An Unexpected Attack"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-26.html"
 ---
 
 The three boys had scarcely agreed to the proposition to follow the hound, when Bowser, as if he understood their intention, rose from the ground where he had been lying, close to the camp fire, looked sharply out in the gloom of the surrounding woods, and then moved along the same course he had taken several times before.

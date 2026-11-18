@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Sporting Reflections"
 weight: 10
-aliases:
-  - "/authors/barrie-james-matthew/the-little-white-bird/chapter-10.html"
+url: "/authors/barrie-james-matthew/the-little-white-bird/chapter-10.html"
 ---
 
 I have now told you (I presume) how I became whimsical, and I fear it would please Mary not at all. But speaking of her, and, as the cat's light keeps me in a ruminating mood, suppose, instead of returning Mary to her lover by means of the letter, I had presented a certain clubman to her consideration? Certainly no such whimsical idea crossed my mind when I dropped the letter, but between you and me and my night-socks, which have all this time been airing by the fire because I am subject to cold feet, I have sometimes toyed with it since.

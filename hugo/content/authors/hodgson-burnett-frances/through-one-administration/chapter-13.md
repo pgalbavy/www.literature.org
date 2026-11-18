@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-13.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-13.html"
 ---
 
 The following day Richard presented himself to Tredennis in the morning, looking a little disturbed, and scarcely in such excellent spirits as usual.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Bowser Proves Himself Of Some Use"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-20.html"
 ---
 
 Sam Harper saw, from the position of the sun in the heavens, that he had stayed longer than he intended to in the cabin, and the short afternoon was drawing to a close.

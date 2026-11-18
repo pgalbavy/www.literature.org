@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Miss Stacy and Her Pupils Get Up a Concert"
 weight: 24
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-24.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-24.html"
 ---
 
 It was October again when Anne was ready to go back to school--a glorious October, all red and gold, with mellow mornings when the valleys were filled with delicate mists as if the spirit of autumn had poured them in for the sun to drain--amethyst, pearl, silver, rose, and smoke-blue. The dews were so heavy that the fields glistened like cloth of silver and there were such heaps of rustling leaves in the hollows of many-stemmed woods to run crisply through. The Birch Path was a canopy of yellow and the ferns were sear and brown all along it. There was a tang in the very air that inspired the hearts of small maidens tripping, unlike snails, swiftly and willingly to school; and it WAS jolly to be back again at the little brown desk beside Diana, with Ruby Gillis nodding across the aisle and Carrie Sloane sending up notes and Julia Bell passing a "chew" of gum down from the back seat. Anne drew a long breath of happiness as she sharpened her pencil and arranged her picture cards in her desk. Life was certainly very interesting.

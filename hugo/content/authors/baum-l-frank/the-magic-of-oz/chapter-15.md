@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/baum-l-frank/the-magic-of-oz/chapter-15.html"
+url: "/authors/baum-l-frank/the-magic-of-oz/chapter-15.html"
 ---
 
 Trot and Cap'n Bill stood before the Magic Flower, actually rooted to the spot.

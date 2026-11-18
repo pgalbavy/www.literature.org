@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39 - The Search"
 weight: 39
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-39.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-39.html"
 ---
 
 All through the night Tim O'Rooney and Howard Lawrence sat in close consultation. Hunger and sleep were alike unthought of. Elwood Brandon was lost, and that was all of which they could think or speak. How they longed for the morning, and how impatient they were to be on the hunt! It seemed to Howard as if he could go leaping and flying down the chasms and gorges among the hills, and never tire until he had hunted out and brought back his cousin. Where could he be? If nestling in the branches of a tree, or hid away among the rocks, was he asleep? Or if awake, of what was he thinking? Did he believe that Howard was searching for him? Or did he imagine him also lost? It would not be reasonable to suppose that he had any suspicion of his finding Tim O'Rooney.

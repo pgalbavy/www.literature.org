@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - In Which The Story Pauses A Little"
 weight: 17
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-17.html"
+url: "/authors/eliot-george/adam-bede/chapter-17.html"
 ---
 
 "THIS Rector of Broxton is little better than a pagan!" I hear one of my readers exclaim. "How much more edifying it would have been if you had made him give Arthur some truly spiritual advice! You might have put into his mouth the most beautiful things - quite as good as reading a sermon."

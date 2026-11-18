@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/huxley-aldous/crome-yellow/chapter-13.html"
+url: "/authors/huxley-aldous/crome-yellow/chapter-13.html"
 ---
 
 Henry Wimbush brought down with him to dinner a budget of printed sheets loosely bound together in a cardboard portfolio.

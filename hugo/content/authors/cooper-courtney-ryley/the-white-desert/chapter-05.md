@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/cooper-courtney-ryley/the-white-desert/chapter-05.html"
+url: "/authors/cooper-courtney-ryley/the-white-desert/chapter-05.html"
 ---
 
 The gaze of Ba'tiste Renaud was strained as he asked the question, his manner tense, excited. Through sheer determination, Barry forced a smile and pulled himself back to at least a semblance of composure.

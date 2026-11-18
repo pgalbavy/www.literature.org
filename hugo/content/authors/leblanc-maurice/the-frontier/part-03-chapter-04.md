@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 4 - The Sacred Soil"
 weight: 20
-aliases:
-  - "/authors/leblanc-maurice/the-frontier/part-03-chapter-04.html"
+url: "/authors/leblanc-maurice/the-frontier/part-03-chapter-04.html"
 ---
 
 "Bugler!... Sound the rally ... at the double ... and quietly."

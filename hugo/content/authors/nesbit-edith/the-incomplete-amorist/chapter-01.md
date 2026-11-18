@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Inevitable"
 weight: 1
-aliases:
-  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-01.html"
+url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-01.html"
 ---
 
 To Richard Reynolds and Justus Miles Forman

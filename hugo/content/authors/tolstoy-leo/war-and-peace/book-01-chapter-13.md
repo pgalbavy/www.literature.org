@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 13"
 weight: 13
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-01-chapter-13.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-01-chapter-13.html"
 ---
 
 When Natasha ran out of the drawing room she only went as far as the conservatory. There she paused and stood listening to the conversation in the drawing room, waiting for Boris to come out. She was already growing impatient, and stamped her foot, ready to cry at his not coming at once, when she heard the young man's discreet steps approaching neither quickly nor slowly. At this Natasha dashed swiftly among the flower tubs and hid there.

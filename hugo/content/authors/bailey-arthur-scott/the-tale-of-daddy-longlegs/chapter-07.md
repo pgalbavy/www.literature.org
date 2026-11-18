@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Trying To Help"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-07.html"
 ---
 
 IT was true that Farmer Green had almost more work than he could do just then, even with the aid of the hired man and Johnnie. And he often wished that he might find somebody else to help him.

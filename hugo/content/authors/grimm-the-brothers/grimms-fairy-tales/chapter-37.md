@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - Clever Hans"
 weight: 37
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-37.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-37.html"
 ---
 
 The mother of Hans said: ‘Whither away, Hans?’ Hans answered: ‘To Gretel.’ ‘Behave well, Hans.’ ‘Oh, I’ll behave well. Goodbye, mother.’ ‘Goodbye, Hans.’ Hans comes to Gretel. ‘Good day, Gretel.’ ‘Good day, Hans. What do you bring that is good?’ ‘I bring nothing, I want to have something given me.’ Gretel presents Hans with a needle, Hans says: ‘Goodbye, Gretel.’ ‘Goodbye, Hans.’

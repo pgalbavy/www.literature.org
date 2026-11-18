@@ -1,8 +1,7 @@
 ---
 title: "Author's Note"
 weight: 1
-aliases:
-  - "/authors/conrad-joseph/typhoon/authors-note.html"
+url: "/authors/conrad-joseph/typhoon/authors-note.html"
 ---
 
 Far as the mariner on highest mast Can see all around upon the calmed vast, So wide was Neptune's hall . . . — *KEATS*

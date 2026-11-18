@@ -1,8 +1,7 @@
 ---
 title: "Chapter 48 - The Riot Becomes A Revolution"
 weight: 48
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-48.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-48.html"
 ---
 
 The closet into which D'Artagnan and Porthos had been ushered was separated from the drawing-room where the queen was by tapestried curtains only, and this thin partition enabled them to hear all that passed in the adjoining room, whilst the aperture between the two hangings, small as it was, permitted them to see.

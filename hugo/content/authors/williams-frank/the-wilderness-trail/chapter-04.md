@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Into The Danger Zone"
 weight: 4
-aliases:
-  - "/authors/williams-frank/the-wilderness-trail/chapter-04.html"
+url: "/authors/williams-frank/the-wilderness-trail/chapter-04.html"
 ---
 
 From Voudrin's tumble-down shanty Sturgeon Lake was nearly a hundred miles southwest. Given rivers and lakes to traverse, McTavish could almost do the distance in a day, for Mistisi, his leader dog, was an animal of tremendous strength and remarkable intelligence. But in this wilderness of rock-strewn barrens and thick forest it would take at least two.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - On The Bank Of A Stream"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-09.html"
 ---
 
 It need not be said that George Starr wasted no time. Halting only long enough to say a few words to Tim Brophy before he set out to warn the son of his danger, he resumed his journey toward Fort Meade, some thirty miles away, at the base of the Black Hills.

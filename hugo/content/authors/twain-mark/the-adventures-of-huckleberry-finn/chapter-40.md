@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40"
 weight: 40
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-40.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-40.html"
 ---
 
 WE was feeling pretty good after breakfast, and took my canoe and went over the river a-fishing, with a lunch, and had a good time, and took a look at the raft and found her all right, and got home late to supper, and found them in such a sweat and worry they didn't know which end they was standing on, and made us go right off to bed the minute we was done supper, and wouldn't tell us what the trouble was, and never let on a word about the new letter, but didn't need to, because we knowed as much about it as anybody did, and as soon as we was half up stairs and her back was turned we slid for the cellar cubboard and loaded up a good lunch and took it up to our room and went to bed, and got up about half-past eleven, and Tom put on Aunt Sally's dress that he stole and was going to start with the lunch, but says:

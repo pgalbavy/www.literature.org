@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-05.html"
+url: "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-05.html"
 ---
 
 "It will take a few minutes for this powder to do its work," remarked the Magician, sprinkling the body up and down with much care.

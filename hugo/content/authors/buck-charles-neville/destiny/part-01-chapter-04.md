@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 4"
 weight: 4
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-01-chapter-04.html"
+url: "/authors/buck-charles-neville/destiny/part-01-chapter-04.html"
 ---
 
 When young Jefferson Edwardes set out the next morning for his winter's imprisonment in the shack where he must fight the white specter of slow death, amid the white isolation of the snow, he left behind him a household to all outward seeming as quiet as it had ever been. But all that morning and afternoon while Ham was away at school, Tom Burton sat deeply engrossed in calculations involving scraps of paper upon which he was laboriously figuring, and frequent consultation of a slender bank-book. And Ham, as he trudged back across the snow, came with a face set for combat. Hitherto he had obeyed and now the time had come when his inherent power of leadership must assert itself. If the world could not conquer him--and he was utterly certain it could not--he must not flinch from the task of riding down the first opposition he met--even though it be the opposition of his own blood. Afterward his family should know only tenderness and ease and luxury, but now they must acknowledge his mastery.

@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/chambers-robert-w/the-crimson-tide/preface.html"
+url: "/authors/chambers-robert-w/the-crimson-tide/preface.html"
 ---
 
 To

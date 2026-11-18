@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Mr. Crow's Bad Memory"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-07.html"
 ---
 
 It was true, as Mr. Crow had said, that he had a bad memory. By the time he reached home he had forgotten almost everything the famous doctor, Aunt Polly Woodchuck, had said to him. About all Mr. Crow could recall of their talk was that Aunt Polly had told him his swollen foot was caused by gout; and that she had given him samples of such food as he might eat, and also such as he mightn't.

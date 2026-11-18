@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Queen In London"
 weight: 8
-aliases:
-  - "/authors/nesbit-edith/the-story-of-the-amulet/chapter-08.html"
+url: "/authors/nesbit-edith/the-story-of-the-amulet/chapter-08.html"
 ---
 
 'Now tell us what happened to you,' said Cyril to Jane, when he and the others had told her all about the Queen's talk and the banquet, and the variety entertainment, carefully stopping short before the beginning of the dungeon part of the story.

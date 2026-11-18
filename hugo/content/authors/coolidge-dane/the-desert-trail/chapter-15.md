@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/coolidge-dane/the-desert-trail/chapter-15.html"
+url: "/authors/coolidge-dane/the-desert-trail/chapter-15.html"
 ---
 
 When the solid earth quakes, though it move but a thousandth of an inch beneath our feet, the human brain reels and we become dizzy, sick, and afraid. So, too, at the thought that some trusted friend has played us false, the mind turns back upon itself and we doubt the stability of everything--for a moment. Then, as we find all the trees straight up, the world intact, and the hills in their proper places, we cast the treacherous doubts aside and listen to the voice of reason.

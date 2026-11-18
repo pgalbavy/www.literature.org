@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Peter's Bad Temper"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-07.html"
 ---
 
 Peter Mink was always quarreling. And he seemed always ready to fight--to fight even people who were four times bigger than he was. And when he fought, Peter usually won. But there was one person Peter Mink was afraid of; and that was Fatty Coon. Fatty was almost too big for Peter Mink to whip. And his teeth were very sharp. And his claws were like thorns.

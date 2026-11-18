@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/cooper-courtney-ryley/the-crosscut/chapter-10.html"
+url: "/authors/cooper-courtney-ryley/the-crosscut/chapter-10.html"
 ---
 
 "I don't believe it!" Anita Richmond exclaimed with conviction and clutched at Fairchild's arm. "I don't believe it!"

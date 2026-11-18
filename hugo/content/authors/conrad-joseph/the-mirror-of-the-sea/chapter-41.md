@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41"
 weight: 41
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-41.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-41.html"
 ---
 
 We four formed (to use a term well understood nowadays in every social sphere) a "syndicate" owning the *Tremolino*: an international and astonishing syndicate. And we were all ardent Royalists of the snow-white Legitimist complexion—Heaven only knows why! In all associations of men there is generally one who, by the authority of age and of a more experienced wisdom, imparts a collective character to the whole set. If I mention that the oldest of us was very old, extremely old—nearly thirty years old—and that he used to declare with gallant carelessness, "I live by my sword," I think I have given enough information on the score of our collective wisdom. He was a North Carolinian gentleman, J. M. K. B. were the initials of his name, and he really did live by the sword, as far as I know. He died by it, too, later on, in a Balkanian squabble, in the cause of some Serbs or else Bulgarians, who were neither Catholics nor gentlemen—at least, not in the exalted but narrow sense he attached to that last word.

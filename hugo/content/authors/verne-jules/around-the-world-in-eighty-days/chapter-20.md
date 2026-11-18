@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-20.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-20.html"
 ---
 
 In which Fix comes face to face with Phileas Fogg

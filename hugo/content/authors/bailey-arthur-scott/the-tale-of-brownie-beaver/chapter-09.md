@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Sign On The Tree"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-09.html"
 ---
 
 On one of Brownie Beaver's long excursions down the stream he came upon a tree to which a sign was nailed. Now, Brownie had never learned to read. But he had heard that Uncle Jerry Chuck could tell what a sign said. So Brownie asked a pleasant young fellow named Frisky Squirrel if he would mind asking Uncle Jerry to come over to Swift River on a matter of important business.

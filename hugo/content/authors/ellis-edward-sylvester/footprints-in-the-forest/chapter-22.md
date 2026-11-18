@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - A Clew At Last"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-22.html"
 ---
 
 No good reason could be thought of why Jack and the Sauk should remain in the canoe. In fact, they would have shown more prudence had they remained where they were when the Pawnees disembarked and walked out of sight in the woods; or, if they felt the need of changing their quarters, they ought to have gone as far as they could from their foes, instead of following them and inviting more peril.

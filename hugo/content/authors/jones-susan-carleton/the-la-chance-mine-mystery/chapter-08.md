@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Thompson!"
 weight: 8
-aliases:
-  - "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-08.html"
+url: "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-08.html"
 ---
 
 Thompson it was, if it seemed incredible. And Billy Jones exclaimed, as he pointed to him, "He can't have been dead longer than since last night! And I can't understand this thing, Mr. Stretton! It's but six weeks since Thompson left here; and from what he said he didn't mean to come back. He told me he was in a hurry to get away, because he was taking a position in a copper mine in the West. I remember I warned him you hadn't got all your swamps corduroyed, and likely he couldn't drive clear into Caraquet; so he left his wagon here and borrowed a saddle from me to ride over. And a boy brought his horse back next day, or day after,--I forget which. I remember Thompson forgot to send me a tin of tobacco he promised to get me off Randall, at Caraquet!"

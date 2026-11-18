@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 10"
 weight: 52
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-10.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-10.html"
 ---
 
 Elizabeth had the satisfaction of receiving an answer to her letter, as soon as she possibly could. She was no sooner in possession of it, than hurrying into the little copse, where she was least likely to be interrupted, she sat down on one of the benches, and prepared to be happy; for the length of the letter convinced her that it did not contain a denial.

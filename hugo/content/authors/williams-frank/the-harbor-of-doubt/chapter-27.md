@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - The Reward Of Evil"
 weight: 27
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-27.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-27.html"
 ---
 
 The Nettie B. was surging north, nearing Cape Breton. Nat Burns sat moodily on the top of the house and watched the schooner take 'em green over her bows.

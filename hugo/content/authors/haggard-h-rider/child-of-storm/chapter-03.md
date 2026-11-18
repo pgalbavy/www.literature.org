@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Buffalo With The Cleft Horn"
 weight: 4
-aliases:
-  - "/authors/haggard-h-rider/child-of-storm/chapter-03.html"
+url: "/authors/haggard-h-rider/child-of-storm/chapter-03.html"
 ---
 
 I slept very well that night, I suppose because I was so dog-tired I could not help it; but next day, on our long walk back to Umbezi’s kraal, I thought a great deal.

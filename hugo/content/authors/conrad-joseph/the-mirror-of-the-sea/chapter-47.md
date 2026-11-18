@@ -1,8 +1,7 @@
 ---
 title: "Chapter 47"
 weight: 47
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-47.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-47.html"
 ---
 
 The British navy may well have ceased to count its victories. It is rich beyond the wildest dreams of success and fame. It may well, rather, on a culminating day of its history, cast about for the memory of some reverses to appease the jealous fates which attend the prosperity and triumphs of a nation. It holds, indeed, the heaviest inheritance that has ever been entrusted to the courage and fidelity of armed men.

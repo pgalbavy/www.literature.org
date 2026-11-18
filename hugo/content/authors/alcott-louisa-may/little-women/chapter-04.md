@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Burdens"
 weight: 4
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-04.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-04.html"
 ---
 
 "Oh, dear, how hard it does seem to take up our packs and go on," sighed Meg the morning after the party, for now the holidays were over, the week of merrymaking did not fit her for going on easily with the task she never liked.

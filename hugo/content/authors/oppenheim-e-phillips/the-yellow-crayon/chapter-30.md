@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-30.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-30.html"
 ---
 
 Mr. Sabin found a fourth chair, and calmly seated himself by Lucille's side. But his eyes were fixed upon Lady Carey. She was slowly recovering herself, but Mr. Sabin, who had never properly understood her attitude towards him, was puzzled at the air of intense relief which almost shone in her face.

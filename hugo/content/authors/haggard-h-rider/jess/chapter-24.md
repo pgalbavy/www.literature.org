@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Shadow Of Death"
 weight: 24
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-24.html"
+url: "/authors/haggard-h-rider/jess/chapter-24.html"
 ---
 
 The firing from the bank had ceased, and John, who still kept his head, being a rather phlegmatic specimen of the Anglo-Saxon race, knew that, for the moment at any rate, all danger from this source was ended. Jess lay perfectly still in his arms, her head upon his breast. A horrible idea struck him that she might be shot, perhaps already dead!

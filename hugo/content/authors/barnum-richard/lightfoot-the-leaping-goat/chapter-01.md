@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Lightfoot’s Big Leap"
 weight: 1
-aliases:
-  - "/authors/barnum-richard/lightfoot-the-leaping-goat/chapter-01.html"
+url: "/authors/barnum-richard/lightfoot-the-leaping-goat/chapter-01.html"
 ---
 
 Lightfoot stamped his hoofs on the hard rocks, shook his horns, wiggled the little bunch of whiskers that hung beneath his chin, and called to another goat who was not far away:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Women Of The Future"
 weight: 10
-aliases:
-  - "/authors/doyle-arthur-conan/beyond-the-city/chapter-10.html"
+url: "/authors/doyle-arthur-conan/beyond-the-city/chapter-10.html"
 ---
 
 From that day the Doctor's peace was gone. Never was a quiet and orderly household transformed so suddenly into a bear garden, or a happy man turned into such a completely miserable one. He had never realized before how entirely his daughters had shielded him from all the friction of life. Now that they had not only ceased to protect him, but had themselves become a source of trouble to him, he began to understand how great the blessing was which he had enjoyed, and to sigh for the happy days before his girls had come under the influence of his neighbor.

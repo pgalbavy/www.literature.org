@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-31.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-31.html"
 ---
 
 The death of Grace had, of course, its naturally depressing effect upon the circle of relatives and friends at Ganado; but her absence of more than a year, the infrequency of her letters, and the fact that they had already come to feel that she was lost to them, mitigated to some degree the keenness of their grief and lessened its outward manifestations. Her pitiful end could not seriously interrupt the tenor of their lives, which had long since grown over the wound of her departure, as a tree’s growth rolls over the hurt of a severed limb, leaving only a scar as a reminder of its loss.

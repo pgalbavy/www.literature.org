@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - My Story"
 weight: 6
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-05.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-05.html"
 ---
 
 WHEN YOU last saw me, I was a boy of thirteen. You now see me a man of twenty-three.

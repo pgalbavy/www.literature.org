@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Sleet Storm"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-19.html"
 ---
 
 It was winter. And for several days a strong south wind had swept up Pleasant Valley. That—as Solomon Owl knew very well—that meant a thaw was coming. He was not sorry, because the weather had been bitterly cold.

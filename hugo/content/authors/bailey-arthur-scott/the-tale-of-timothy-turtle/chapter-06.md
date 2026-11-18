@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Mr. Crow's Kind Offer"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-06.html"
 ---
 
 "I suppose----" Timothy Turtle said to his young friend, old Mr. Crow--"I suppose Mr. Alligator is a fine flier."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 26
-aliases:
-  - "/authors/bronte-charlotte/jane-eyre/chapter-25.html"
+url: "/authors/bronte-charlotte/jane-eyre/chapter-25.html"
 ---
 
 The month of courtship had wasted: its very last hours were being numbered. There was no putting off the day that advanced--the bridal day; and all preparations for its arrival were complete. I, at least, had nothing more to do: there were my trunks, packed, locked, corded, ranged in a row along the wall of my little chamber; to-morrow, at this time, they would be far on their road to London: and so should I (D.V.),--or rather, not I, but one Jane Rochester, a person whom as yet I knew not. The cards of address alone remained to nail on: they lay, four little squares, in the drawer. Mr. Rochester had himself written the direction, "Mrs. Rochester,-- Hotel, London," on each: I could not persuade myself to affix them, or to have them affixed. Mrs. Rochester! She did not exist: she would not be born till to-morrow, some time after eight o'clock a.m.; and I would wait to be assured she had come into the world alive before I assigned to her all that property. It was enough that in yonder closet, opposite my dressing-table, garments said to be hers had already displaced my black stuff Lowood frock and straw bonnet: for not to me appertained that suit of wedding raiment; the pearl-coloured robe, the vapoury veil pendent from the usurped portmanteau. I shut the closet to conceal the strange, wraith-like apparel it contained; which, at this evening hour--nine o'clock-- gave out certainly a most ghostly shimmer through the shadow of my apartment. "I will leave you by yourself, white dream," I said. "I am feverish: I hear the wind blowing: I will go out of doors and feel it."

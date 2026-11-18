@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-25.html"
+url: "/authors/london-jack/john-barleycorn/chapter-25.html"
 ---
 
 After the laundry my sister and her husband grubstaked me into the Klondike. It was the first gold rush into that region, the early fall rush of 1897. I was twenty-one years old, and in splendid physical condition. I remember, at the end of the twenty-eight- mile portage across Chilcoot from Dyea Beach to Lake Linderman, I was packing up with the Indians and out-packing many an Indian. The last pack into Linderman was three miles. I back-tripped it four times a day, and on each forward trip carried one hundred and fifty pounds. This means that over the worst trails I daily travelled twenty-four miles, twelve of which were under a burden of one hundred and fifty pounds.

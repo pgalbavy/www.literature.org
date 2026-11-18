@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Explanatory"
 weight: 9
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-08.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-08.html"
 ---
 
 About two o’clock Geoffrey rose, and with some slight assistance from his reverend host, struggled into his clothes. Then he lunched, and while he did so Mr. Granger poured his troubles into his sympathetic ear.

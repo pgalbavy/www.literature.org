@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-01.html"
+url: "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-01.html"
 ---
 
 To My Friend Joseph E. Bray

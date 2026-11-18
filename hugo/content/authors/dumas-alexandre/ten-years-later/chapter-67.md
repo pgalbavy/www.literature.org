@@ -1,8 +1,7 @@
 ---
 title: "Chapter 67 - How D'artagnan Became Acquainted With A Poet, Who Had Turned Printer For The Sake Of Printing His Own Verses"
 weight: 67
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-67.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-67.html"
 ---
 
 Before taking his place at table, D'Artagnan acquired, as was his custom, all the information he could; but it is an axiom of curiosity, that every man who wishes to question well and fruitfully ought in the first place to lay himself open to questions. D'Artagnan sought, then, with his usual skill, a promising questioner in the hostelry of La Roche-Bernard. At the moment, there were in the house, on the first story, two travelers either preparing for supper, or at supper itself. D'Artagnan had seen their nags in the stable, and their equipages in the salle. One traveled with a lackey, undoubtedly a person of consideration; - two Perche mares, sleek, sound beasts, were suitable means of locomotion. The other, a little fellow, a traveler of meagre appearance, wearing a dusty surtout, dirty linen, and boots more worn by the pavement than the stirrup, had come from Nantes with a cart drawn by a horse so like Furet in color, that D'Artagnan might have gone a hundred miles without finding a better match. This cart contained divers large packets wrapped in pieces of old stuff.

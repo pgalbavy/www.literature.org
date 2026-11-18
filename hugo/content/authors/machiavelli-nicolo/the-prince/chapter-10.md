@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Concerning The Way In Which The Strength Of All Principalities Ought To Be Measured"
 weight: 11
-aliases:
-  - "/authors/machiavelli-nicolo/the-prince/chapter-10.html"
+url: "/authors/machiavelli-nicolo/the-prince/chapter-10.html"
 ---
 
 It is necessary to consider another point in examining the character of these principalities: that is, whether a prince has such power that, in case of need, he can support himself with his own resources, or whether he has always need of the assistance of others. And to make this quite clear I say that I consider those who are able to support themselves by their own resources who can, either by abundance of men or money, raise a sufficient army to join battle against any one who comes to attack them; and I consider those always to have need of others who cannot show themselves against the enemy in the field, but are forced to defend themselves by sheltering behind walls. The first case has been discussed, but we will speak of it again should it recur. In the second case one can say nothing except to encourage such princes to provision and fortify their towns, and not on any account to defend the country. And whoever shall fortify his town well, and shall have managed the other concerns of his subjects in the way stated above, and to be often repeated, will never be attacked without great caution, for men are always adverse to enterprises where difficulties can be seen, and it will be seen not to be an easy thing to attack one who has his town well fortified, and is not hated by his people.

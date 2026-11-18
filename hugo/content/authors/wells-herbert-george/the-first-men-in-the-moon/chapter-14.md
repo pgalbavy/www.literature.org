@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Chapter  14 Experiments In Intercourse"
 weight: 14
-aliases:
-  - "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-14.html"
+url: "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-14.html"
 ---
 
 WHEN at last we had made an end of eating, the Selenites linked our hands closely together again, and then untwisted the chains about our feet and rebound them, so as to give us a limited freedom of movement. Then they unfastened the chains about our waists. To do all this they had to handle us freely, and ever and again one of their queer heads came down close to my face, or a soft tentacle-hand touched my head or neck. I don't remember that I was afraid then or repelled by their proximity. I think that our incurable anthropomorphism made us imagine there were human heads inside their masks. The skin, like everything else, looked bluish, but that was on account of the light; and it was hard and shiny, quite in the beetle-wing fashion, not soft, or moist, or hairy, as a vertebrated animal's would be. Along the crest of the head was a low ridge of whitish spines running from back to front, and a much larger ridge curved on either side over the eyes. The Selenite who untied me used his mouth to help his hands.

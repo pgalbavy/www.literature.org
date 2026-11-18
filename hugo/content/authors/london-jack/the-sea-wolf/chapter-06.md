@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-06.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-06.html"
 ---
 
 By the following morning the storm had blown itself quite out and the Ghost was rolling slightly on a calm sea without a breath of wind. Occasional light airs were felt, however, and Wolf Larsen patrolled the poop constantly, his eyes ever searching the sea to the north-eastward, from which direction the great trade-wind must blow.

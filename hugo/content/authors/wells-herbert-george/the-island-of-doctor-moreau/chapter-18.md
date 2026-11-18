@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Finding Of Moreau"
 weight: 19
-aliases:
-  - "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-18.html"
+url: "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-18.html"
 ---
 
 WHEN I saw Montgomery swallow a third dose of brandy, I took it upon myself to interfere. He was already more than half fuddled. I told him that some serious thing must have happened to Moreau by this time, or he would have returned before this, and that it behoved us to ascertain what that catastrophe was. Montgomery raised some feeble objections, and at last agreed. We had some food, and then all three of us started.

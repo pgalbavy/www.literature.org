@@ -1,8 +1,7 @@
 ---
 title: "Chapter 89 - A Nocturnal Interview"
 weight: 89
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-89.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-89.html"
 ---
 
 Monte Cristo waited, according to his usual custom, until Duprez had sung his famous "Suivez-moi;" then he rose and went out. Morrel took leave of him at the door, renewing his promise to be with him the next morning at seven o'clock, and to bring Emmanuel. Then he stepped into his coupe, calm and smiling, and was at home in five minutes. No one who knew the count could mistake his expression when, on entering, he said, "Ali, bring me my pistols with the ivory cross."

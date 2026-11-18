@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-26.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-26.html"
 ---
 
 Wolf Larsen took the distribution of the whisky off my hands, and the bottles began to make their appearance while I worked over the fresh batch of wounded men in the forecastle. I had seen whisky drunk, such as whisky-and-soda by the men of the clubs, but never as these men drank it, from pannikins and mugs, and from the bottles - great brimming drinks, each one of which was in itself a debauch. But they did not stop at one or two. They drank and drank, and ever the bottles slipped forward and they drank more.

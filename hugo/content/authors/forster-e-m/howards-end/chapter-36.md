@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 36
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-36.html"
+url: "/authors/forster-e-m/howards-end/chapter-36.html"
 ---
 
 “Margaret, you look upset!” said Henry.

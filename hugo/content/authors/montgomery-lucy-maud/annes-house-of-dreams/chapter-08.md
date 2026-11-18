@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Miss Cornelia Bryant Comes To Call"
 weight: 8
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-08.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-08.html"
 ---
 
 That September was a month of golden mists and purple hazes at Four Winds Harbor--a month of sun-steeped days and of nights that were swimming in moonlight, or pulsating with stars. No storm marred it, no rough wind blew. Anne and Gilbert put their nest in order, rambled on the shores, sailed on the harbor, drove about Four Winds and the Glen, or through the ferny, sequestered roads of the woods around the harbor head; in short, had such a honeymoon as any lovers in the world might have envied them.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - Watching And Waiting"
 weight: 34
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-34.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-34.html"
 ---
 
 When Professor Ernest Grimcke realized that his desperate flight from the besieged building had been attended with complete success, and that he was standing among the dense shadows of the forest, with no enemy near, he devoutly uncovered his head, and, looking upward, uttered his fervent thanks to heaven for its amazing mercy.

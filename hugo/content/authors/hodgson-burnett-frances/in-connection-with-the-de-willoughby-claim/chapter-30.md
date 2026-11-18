@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-30.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-30.html"
 ---
 
 In later years, one at least of the two men never glanced back upon the months which followed without a shudder. And yet outwardly no change took place in their relations, unless they seemed drawn closer. Such a secret being shared between two people must either separate or bind them together. In this case it became a bond. They spoke of it but little, yet each was well aware that the other remembered often. Sometimes, when they sat together, Latimer recognised in Baird's eyes a look of brooding and felt that he knew what his thought was; sometimes Baird, glancing at his friend, found his face darkened by reverie, and understood. Once, when this was the case, he said, suddenly:

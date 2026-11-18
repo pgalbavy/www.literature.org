@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Mr. Flicker’s Plans"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-06.html"
 ---
 
 In a little while Mr. Flicker returned from his trip to the pasture to see the Woodchuck brothers. Hurrying into the orchard he called to Reddy Woodpecker, "They’re thinking it over."

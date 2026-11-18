@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The King Of The Greeks"
 weight: 2
-aliases:
-  - "/authors/london-jack/tales-of-the-fish-patrol/chapter-02.html"
+url: "/authors/london-jack/tales-of-the-fish-patrol/chapter-02.html"
 ---
 
 Big Alec had never been captured by the fish patrol. It was his boast that no man could take him alive, and it was his history that of the many men who had tried to take him dead none had succeeded. It was also history that at least two patrolmen who had tried to take him dead had died themselves. Further, no man violated the fish laws more systematically and deliberately than Big Alec.

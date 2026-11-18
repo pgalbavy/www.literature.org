@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The New-Comers"
 weight: 1
-aliases:
-  - "/authors/doyle-arthur-conan/beyond-the-city/chapter-01.html"
+url: "/authors/doyle-arthur-conan/beyond-the-city/chapter-01.html"
 ---
 
 "If you please, mum," said the voice of a domestic from somewhere round the angle of the door, "number three is moving in.

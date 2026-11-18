@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-21.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-21.html"
 ---
 
 Conscience was sitting on the terrace one day with a book, which she smilingly laid down as her husband joined her. Eben took up the small volume of Browning's verse and idly turned its pages, his eyes falling almost immediately on the old inscription, "Stuart to Conscience." His unfixed jealousy seized upon a frail mooring but he stifled the scowl that instinct prompted and turned the pages to the point where a narrow ribbon marked "The Statue and the Bust."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 100 - The Apparition"
 weight: 100
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-100.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-100.html"
 ---
 
 As the procureur had told Madame Danglars, Valentine was not yet recovered. Bowed down with fatigue, she was indeed confined to her bed; and it was in her own room, and from the lips of Madame de Villefort, that she heard all the strange events we have related, - we mean the flight of Eugenie and the arrest of Andrea Cavalcanti, or rather Benedetto, together with the accusation of murder pronounced against him. But Valentine was so weak that this recital scarcely produced the same effect it would have done had she been in her usual state of health. Indeed, her brain was only the seat of vague ideas, and confused forms, mingled with strange fancies, alone presented themselves before her eyes.

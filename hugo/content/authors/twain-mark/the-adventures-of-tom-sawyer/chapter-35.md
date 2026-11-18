@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 36
-aliases:
-  - "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-35.html"
+url: "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-35.html"
 ---
 
 THE reader may rest satisfied that Tom's and Huck's windfall made a mighty stir in the poor little village of St. Petersburg. So vast a sum, all in actual cash, seemed next to incredible. It was talked about, gloated over, glorified, until the reason of many of the citizens tottered under the strain of the unhealthy excitement. Every "haunted" house in St. Petersburg and the neighboring villages was dissected, plank by plank, and its foundations dug up and ransacked for hidden treasure - and not by boys, but men - pretty grave, unromantic men, too, some of them. Wherever Tom and Huck appeared they were courted, admired, stared at. The boys were not able to remember that their remarks had possessed weight before; but now their sayings were treasured and repeated; everything they did seemed somehow to be regarded as remarkable; they had evidently lost the power of doing and saying commonplace things; moreover, their past history was raked up and discovered to bear marks of conspicuous originality. The village paper published biographical sketches of the boys.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 32
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-32.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-32.html"
 ---
 
 When the particulars of this conversation were repeated by Miss Dashwood to her sister, as they very soon were, the effect on her was not entirely such as the former had hoped to see. Not that Marianne appeared to distrust the truth of any part of it, for she listened to it all with the most steady and submissive attention, made neither objection nor remark, attempted no vindication of Willoughby, and seemed to shew by her tears that she felt it to be impossible. But though this behaviour assured Elinor that the conviction of this guilt WAS carried home to her mind, though she saw with satisfaction the effect of it, in her no longer avoiding Colonel Brandon when he called, in her speaking to him, even voluntarily speaking, with a kind of compassionate respect, and though she saw her spirits less violently irritated than before, she did not see her less wretched. Her mind did become settled, but it was settled in a gloomy dejection. She felt the loss of Willoughby's character yet more heavily than she had felt the loss of his heart; his seduction and desertion of Miss Williams, the misery of that poor girl, and the doubt of what his designs might ONCE have been on herself, preyed altogether so much on her spirits, that she could not bring herself to speak of what she felt even to Elinor; and, brooding over her sorrows in silence, gave more pain to her sister than could have been communicated by the most open and most frequent confession of them.

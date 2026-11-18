@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Servant"
 weight: 2
-aliases:
-  - "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-02.html"
+url: "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-02.html"
 ---
 
 A FORTNIGHT later, and Christie was off. Mrs. Flint had briefly answered that she had a room, and that work was always to be found in the city. So the girl packed her one trunk, folding away splendid hopes among her plain gowns, and filling every corner with happy fancies, utterly impossible plans, and tender little dreams, so lovely at the time, so pathetic to remember, when contact with the hard realities of life has collapsed our bright bubbles, and the frost of disappointment nipped all our morning glories in their prime. The old red stage stopped at Enos Devon's door, and his niece crossed the threshold after a cool handshake with the master of the house, and a close embrace with the mistress, who stood pouring out last words with spectacles too dim for seeing. Fat Ben swung up the trunk, slammed the door, mounted his perch, and the ancient vehicle swayed with premonitory symptoms of departure.

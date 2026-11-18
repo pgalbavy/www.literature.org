@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/stoker-bram/lair-of-the-white-worm/chapter-10.html"
+url: "/authors/stoker-bram/lair-of-the-white-worm/chapter-10.html"
 ---
 
 On the following day, a little after four o'clock, Adam set out for Mercy.

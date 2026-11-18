@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/preface.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/preface.html"
 ---
 
 Author's Preface To The Second Edition While I acknowledge the success of the present work to have been greater than I anticipated, and the praises it has elicited from a few kind critics to have been greater than it deserved, I must also admit that from some other quarters it has been censured with an asperity which I was as little prepared to expect, and which my judgment, as well as my feelings, assures me is more bitter than just. It is scarcely the province of an author to refute the arguments of his censors and vindicate his own productions; but I may be allowed to make here a few observations with which I would have prefaced the first edition, had I foreseen the necessity of such precautions against the misapprehensions of those who would read it with a prejudiced mind or be content to judge it by a hasty glance.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 46 - The Bastion Saint-Gervais"
 weight: 47
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-46.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-46.html"
 ---
 
 On arriving at the lodgings of his three friends, D'Artagnan found them assembled in the same chamber. Athos was meditating; Porthos was twisting his mustache; Aramis was saying his prayers in a charming little Book of Hours, bound in blue velvet.

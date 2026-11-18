@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Monsieur Des Lupeaulx"
 weight: 2
-aliases:
-  - "/authors/balzac-honore-de/bureaucracy/chapter-02.html"
+url: "/authors/balzac-honore-de/bureaucracy/chapter-02.html"
 ---
 
 At the ministry to which Rabourdin belonged there flourished, as general-secretary, a certain Monsieur Clement Chardin des Lupeaulx, one of those men whom the tide of political events sends to the surface for a few years, then engulfs on a stormy night, but whom we find again on a distant shore, tossed up like the carcass of a wrecked ship which still seems to have life in her. We ask ourselves if that derelict could ever have held goodly merchandise or served a high emprize, co-operated in some defence, held up the trappings of a throne, or borne away the corpse of a monarchy. At this particular time Clement des Lupeaulx (the "Lupeaulx" absorbed the "Chardin") had reached his culminating period. In the most illustrious lives as in the most obscure, in animals as in secretary-generals, there is a zenith and there is a nadir, a period when the fur is magnificent, the fortune dazzling. In the nomenclature which we derive from fabulists, des Lupeaulx belonged to the species Bertrand, and was always in search of Ratons. As he is one of the principal actors in this drama he deserves a description, all the more precise because the revolution of July has suppressed his office, eminently useful as it was, to a constitutional ministry.

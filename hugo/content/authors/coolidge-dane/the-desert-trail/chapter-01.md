@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/coolidge-dane/the-desert-trail/chapter-01.html"
+url: "/authors/coolidge-dane/the-desert-trail/chapter-01.html"
 ---
 
 The slow-rolling winter's sun rose coldly, far to the south, riding up from behind the saw-toothed Sierras of Mexico to throw a silvery halo on Gadsden, the border city. A hundred miles of desert lay in its path--a waste of broken ridges, dry arroyos, and sandy plains--and then suddenly, as if by magic, the city rose gleaming in the sun.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Just Au Revoir"
 weight: 6
-aliases:
-  - "/authors/dorrance-ethel-and-james/lonesome-town/chapter-06.html"
+url: "/authors/dorrance-ethel-and-james/lonesome-town/chapter-06.html"
 ---
 
 The great audience caught its breath and hopefully returned attention to the affairs of the French actress who so had shocked and fascinated them at the first act’s end. Stripped almost to the waist, the daring and tuneful Zaza had left them. More conventionally, not to say comfortably clad, she reappeared.

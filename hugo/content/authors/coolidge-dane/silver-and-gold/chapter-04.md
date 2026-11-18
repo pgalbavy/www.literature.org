@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Cash"
 weight: 5
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/chapter-04.html"
+url: "/authors/coolidge-dane/silver-and-gold/chapter-04.html"
 ---
 
 It was evident to Bunker Hill that no common measures would serve to interest this young capitalist in his district; and yet there he was, a big husky young miner, with eight hundred dollars in his pocket. That eight hundred dollars, if wisely expended, might open up a bonanza in Pinal; and in any case, if it was spent with him, it would help to pay the freight. Old Bunk chopped open a bale of hay with an ax and gave his horse a feed; and, after he had given his prospect time to rest, he drifted off down towards the creek.

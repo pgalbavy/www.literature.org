@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Passing The Test"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-07.html"
 ---
 
 THE time had come for Bobby Bobolink to sing before the Pleasant Valley Singing Society. Mr. Meadowlark brought Bobby to the meeting, along the rail fence between the meadow and the pasture. And he told everybody that there wasn't really any need of such a test.

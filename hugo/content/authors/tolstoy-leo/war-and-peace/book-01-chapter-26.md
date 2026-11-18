@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 26"
 weight: 26
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-01-chapter-26.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-01-chapter-26.html"
 ---
 
 The gray-haired valet was sitting drowsily listening to the snoring of the prince, who was in his large study. From the far side of the house through the closed doors came the sound of difficult passages- twenty times repeated- of a sonata by Dussek.

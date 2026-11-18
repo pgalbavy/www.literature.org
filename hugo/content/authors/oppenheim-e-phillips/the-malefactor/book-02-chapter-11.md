@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 11 - Nemesis At Work"
 weight: 27
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-11.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-11.html"
 ---
 
 Wingrave was present that evening at a reception given by the Prime Minister to some distinguished foreign guests. He had scarcely exchanged the usual courtesies with his host and hostess before Lady Ruth, leaning over from a little group, whispered in his ear.

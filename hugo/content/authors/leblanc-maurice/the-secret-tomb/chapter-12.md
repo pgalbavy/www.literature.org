@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Elixir Of Resurrection"
 weight: 12
-aliases:
-  - "/authors/leblanc-maurice/the-secret-tomb/chapter-12.html"
+url: "/authors/leblanc-maurice/the-secret-tomb/chapter-12.html"
 ---
 
 Dorothy did not answer. She was still quite absorbed in the strange will of the Marquis. Her companions, their eyes fixed on her, seemed to be waiting for her to express an opinion; and since she remained silent, George Earrington, of London, said:

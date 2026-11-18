@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-21.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-21.html"
 ---
 
 The chagrin Wolf Larsen felt from being ignored by Maud Brewster and me in the conversation at table had to express itself in some fashion, and it fell to Thomas Mugridge to be the victim. He had not mended his ways nor his shirt, though the latter he contended he had changed. The garment itself did not bear out the assertion, nor did the accumulations of grease on stove and pot and pan attest a general cleanliness.

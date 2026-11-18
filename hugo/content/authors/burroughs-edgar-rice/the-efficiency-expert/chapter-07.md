@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Jobless Again"
 weight: 7
-aliases:
-  - "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-07.html"
+url: "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-07.html"
 ---
 
 From her father's works Elizabeth and Harriet drove to the shopping district, where they strolled through a couple of shops and then stopped at one of the larger stores.

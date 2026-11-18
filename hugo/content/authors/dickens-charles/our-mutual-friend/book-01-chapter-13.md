@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 13 - Tracking The Bird Of Prey"
 weight: 13
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-01-chapter-13.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-01-chapter-13.html"
 ---
 
 The two lime merchants, with their escort, entered the dominions of Miss Abbey Potterson, to whom their escort (presenting them and their pretended business over the half-door of the bar, in a confidential way) preferred his figurative request that ‘a mouthful of fire’ might be lighted in Cosy. Always well disposed to assist the constituted authorities, Miss Abbey bade Bob Gliddery attend the gentlemen to that retreat, and promptly enliven it with fire and gaslight. Of this commission the bare-armed Bob, leading the way with a flaming wisp of paper, so speedily acquitted himself, that Cosy seemed to leap out of a dark sleep and embrace them warmly, the moment they passed the lintels of its hospitable door.

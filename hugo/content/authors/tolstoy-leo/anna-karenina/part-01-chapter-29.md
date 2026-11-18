@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 29"
 weight: 29
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-29.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-29.html"
 ---
 
 "Come, it's all over, and thank God!" was the first thought that came to Anna Arkadyevna, when she had said good-bye for the last time to her brother, who had stood blocking up the entrance to the carriage till the third bell rang. She sat down on her lounge beside Annushka, and looked about her in the twilight of the sleeping-carriage. "Thank God! tomorrow I shall see Seryozha and Alexey Alexandrovitch, and my life will go on in the old way, all nice and as usual."

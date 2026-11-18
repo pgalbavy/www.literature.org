@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/woolf-virginia/the-voyage-out/chapter-16.html"
+url: "/authors/woolf-virginia/the-voyage-out/chapter-16.html"
 ---
 
 Hewet and Rachel had long ago reached the particular place on the edge of the cliff where, looking down into the sea, you might chance on jelly-fish and dolphins. Looking the other way, the vast expanse of land gave them a sensation which is given by no view, however extended, in England; the villages and the hills there having names, and the farthest horizon of hills as often as not dipping and showing a line of mist which is the sea; here the view was one of infinite sun-dried earth, earth pointed in pinnacles, heaped in vast barriers, earth widening and spreading away and away like the immense floor of the sea, earth chequered by day and by night, and partitioned into different lands, where famous cities were founded, and the races of men changed from dark savages to white civilised men, and back to dark savages again. Perhaps their English blood made this prospect uncomfortably impersonal and hostile to them, for having once turned their faces that way they next turned them to the sea, and for the rest of the time sat looking at the sea. The sea, though it was a thin and sparkling water here, which seemed incapable of surge or anger, eventually narrowed itself, clouded its pure tint with grey, and swirled through narrow channels and dashed in a shiver of broken waters against massive granite rocks. It was this sea that flowed up to the mouth of the Thames; and the Thames washed the roots of the city of London.

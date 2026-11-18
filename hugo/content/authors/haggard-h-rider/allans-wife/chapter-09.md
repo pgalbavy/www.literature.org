@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - “Let Us Go In, Allan!”"
 weight: 10
-aliases:
-  - "/authors/haggard-h-rider/allans-wife/chapter-09.html"
+url: "/authors/haggard-h-rider/allans-wife/chapter-09.html"
 ---
 
 It is very difficult for me to describe the period of time which elapsed between my arrival at Babyan’s Peak and my marriage with Stella. When I look back on it, it seems sweet as with the odour of flowers, and dim as with the happy dusk of summer eves, while through the sweetness comes the sound of Stella’s voice, and through the gloom shines the starlight of her eyes. I think that we loved each other from the first, though for a while we said no word of love. Day by day I went about the place with her, accompanied by little Tota and Hendrika only, while she attended to the thousand and one matters which her father’s ever-growing weakness had laid upon her; or rather, as time drew on, I attended to the business, and she accompanied me. All day through we were together. Then after supper, when the night had fallen, we would walk together in the garden and come at length to hear her father read aloud sometimes from the works of a poet, sometimes from history. Or, if he did not feel well, Stella would read, and when this was done, Mr. Carson would celebrate a short form of prayer, and we would separate till the morning once more brought our happy hour of meeting.

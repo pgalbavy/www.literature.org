@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Of The Interiour Beginnings Of Voluntary Motions; Commonly Called The Passions.  And The Speeches By Which They Are Expressed."
 weight: 8
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-06.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-06.html"
 ---
 
 Motion Vitall And Animal There be in Animals, two sorts of Motions peculiar to them: One called Vitall; begun in generation, and continued without interruption through their whole life; such as are the Course of the Bloud, the Pulse, the Breathing, the Concoctions, Nutrition, Excretion, &c; to which Motions there needs no help of Imagination: The other in Animal Motion, otherwise called Voluntary Motion; as to Go, to Speak, to Move any of our limbes, in such manner as is first fancied in our minds. That Sense, is Motion in the organs and interiour parts of mans body, caused by the action of the things we See, Heare, &c.; And that Fancy is but the Reliques of the same Motion, remaining after Sense, has been already sayd in the first and second Chapters. And because Going, Speaking, and the like Voluntary motions, depend alwayes upon a precedent thought of Whither, Which Way, and What; it is evident, that the Imagination is the first internall beginning of all Voluntary Motion. And although unstudied men, doe not conceive any motion at all to be there, where the thing moved is invisible; or the space it is moved in, is (for the shortnesse of it) insensible; yet that doth not hinder, but that such Motions are. For let a space be never so little, that which is moved over a greater space, whereof that little one is part, must first be moved over that. These small beginnings of Motion, within the body of Man, before they appear in walking, speaking, striking, and other visible actions, are commonly called ENDEAVOUR.

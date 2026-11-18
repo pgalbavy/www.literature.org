@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - How Eric Dwelt In London Townmen Stood Astonished, But Hall The Mate Slunk Back"
 weight: 16
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-15.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-15.html"
 ---
 
 “Hold, comrade,” said Eric, “I have something to say that songs cannot carry. Hearken, my shield-mates: we swore to be true to each other, even to death: is it not so? What then shall be said of that man who cut loose the Gudruda and left us two to die at the foeman’s hand?”

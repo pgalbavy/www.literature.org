@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Interview"
 weight: 3
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-03.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-03.html"
 ---
 
 Raoul made one step towards the girl who thus called him.

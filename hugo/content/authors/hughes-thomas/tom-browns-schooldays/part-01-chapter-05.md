@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 5 - Rugby And Football"
 weight: 5
-aliases:
-  - "/authors/hughes-thomas/tom-browns-schooldays/part-01-chapter-05.html"
+url: "/authors/hughes-thomas/tom-browns-schooldays/part-01-chapter-05.html"
 ---
 
 "Foot and eye opposed  

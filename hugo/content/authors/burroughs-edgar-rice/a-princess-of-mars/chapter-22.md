@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - I Find Dejah"
 weight: 22
-aliases:
-  - "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-22.html"
+url: "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-22.html"
 ---
 
 The major-domo to whom I reported had been given instructions to station me near the person of the jeddak, who, in time of war, is always in great danger of assassination, as the rule that all is fair in war seems to constitute the entire ethics of Martian conflict.

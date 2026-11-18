@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/collins-wilkie/the-frozen-deep/chapter-04.html"
+url: "/authors/collins-wilkie/the-frozen-deep/chapter-04.html"
 ---
 
 It was not easy to find Mrs. Crayford in the crowd. Searching here, and searching there, Frank became conscious of a stranger, who appeared to be looking for somebody, on his side. He was a dark, heavy-browed, strongly-built man, dressed in a shabby old naval officer's uniform. His manner--strikingly resolute and self-contained--was unmistakably the manner of a gentleman. He wound his way slowly through the crowd; stopping to look at every lady whom he passed, and then looking away again with a frown. Little by little he approached the conservatory--entered it, after a moment's reflection--detected the glimmer of a white dress in the distance, through the shrubs and flowers--advanced to get a nearer view of the lady--and burst into Clara's presence with a cry of delight.

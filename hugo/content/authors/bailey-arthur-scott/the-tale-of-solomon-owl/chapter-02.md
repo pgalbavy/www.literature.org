@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Newcomer"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-02.html"
 ---
 
 Upon his arrival, as a stranger, in Pleasant Valley, Solomon Owl looked about carefully for a place to live. What he wanted especially was a good, dark hole, for he thought that sunshine was very dismal.

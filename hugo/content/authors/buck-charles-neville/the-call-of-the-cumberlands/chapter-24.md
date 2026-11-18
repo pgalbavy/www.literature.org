@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-24.html"
+url: "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-24.html"
 ---
 
 Old Spicer South would ten years ago have put a bandage on his wound and gone about his business, but now he tossed under his patchwork quilt, and Brother Spencer expressed grave doubts for his recovery. With his counsel unavailable Wile McCager, by common consent, assumed something like the powers of a regent and took upon himself the duties to which Samson should have succeeded.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Jane Finn"
 weight: 20
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/chapter-19.html"
+url: "/authors/christie-agatha/the-secret-adversary/chapter-19.html"
 ---
 
 "MY train got in half an hour ago," explained Julius, as he led the way out of the station. "I reckoned you’d come by this before I left London, and wired accordingly to Sir James. He’s booked rooms for us, and will be round to dine at eight."

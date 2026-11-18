@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Coming Events Cast Their Shadows Before"
 weight: 14
-aliases:
-  - "/authors/collins-wilkie/the-new-magdalen/chapter-14.html"
+url: "/authors/collins-wilkie/the-new-magdalen/chapter-14.html"
 ---
 
 "I WENT first to Mannheim, Lady Janet, as I told you I should in my letter, and I heard all that the consul and the hospital doctors could tell me. No new fact of the slightest importance turned up. I got my directions for finding the German surgeon, and I set forth to try what I could make next of the man who performed the operation. On the question of his patient's identity he had (as a perfect stranger to her) nothing to tell me. On the question of her mental condition, however, he made a very important statement. He owned to me that he had operated on another person injured by a shell-wound on the head at the battle of Solferino, and that the patient (recovering also in this case) recovered--mad. That is a remarkable admission; don't you think so?"

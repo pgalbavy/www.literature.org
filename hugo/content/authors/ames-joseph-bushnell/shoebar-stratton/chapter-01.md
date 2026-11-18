@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Back From The Dead"
 weight: 1
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-01.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-01.html"
 ---
 
 Westward the little three-car train chugged its way fussily across the brown prairie toward distant mountains which, in that clear atmosphere, loomed so deceptively near. Standing motionless beside the weather-beaten station shed, the solitary passenger watched it absently, brows drawn into a single dark line above the bridge of his straight nose. Tall, lean, with legs spread apart a bit and shoulders slightly bent, he made a striking figure against that background of brilliant sky and drenching, golden sunlight. For a brief space he did not stir. Then of a sudden, when the train had dwindled to the size of a child's toy, he turned abruptly and drew a long, deep breath.

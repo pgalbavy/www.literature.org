@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 21 - Which Treats Of The Exalted Adventure And Rich Prize Of Mambrino’s Helmet, Together With Other Things That Happened To Our Invincible Knight"
 weight: 24
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-21.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-21.html"
 ---
 
 It now began to rain a little, and Sancho was for going into the fulling mills, but Don Quixote had taken such an abhorrence to them on account of the late joke that he would not enter them on any account; so turning aside to right they came upon another road, different from that which they had taken the night before. Shortly afterwards Don Quixote perceived a man on horseback who wore on his head something that shone like gold, and the moment he saw him he turned to Sancho and said:

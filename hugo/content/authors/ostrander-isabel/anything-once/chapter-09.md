@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Long, Long Trail"
 weight: 9
-aliases:
-  - "/authors/ostrander-isabel/anything-once/chapter-09.html"
+url: "/authors/ostrander-isabel/anything-once/chapter-09.html"
 ---
 
 Three hours later, in that same proudly exclusive house, an elderly lady with gray hair and an aristocratically high, thin nose paced the floor of her drawing-room with a vigor which denoted some strong emotion.

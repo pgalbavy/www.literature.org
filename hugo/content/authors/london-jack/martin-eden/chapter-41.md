@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41"
 weight: 41
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-41.html"
+url: "/authors/london-jack/martin-eden/chapter-41.html"
 ---
 
 He slept heavily all night, and did not stir until aroused by the postman on his morning round. Martin felt tired and passive, and went through his letters aimlessly. One thin envelope, from a robber magazine, contained for twenty-two dollars. He had been dunning for it for a year and a half. He noted its amount apathetically. The old-time thrill at receiving a publisher's check was gone. Unlike his earlier checks, this one was not pregnant with promise of great things to come. To him it was a check for twenty-two dollars, that was all, and it would buy him something to eat.

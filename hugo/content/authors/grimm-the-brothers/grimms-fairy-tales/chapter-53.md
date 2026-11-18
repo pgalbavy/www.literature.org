@@ -1,8 +1,7 @@
 ---
 title: "Chapter 53 - Second Story"
 weight: 53
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-53.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-53.html"
 ---
 
 When old Mr Fox was dead, the wolf came as a suitor, and knocked at the door, and the cat who was servant to Mrs Fox, opened it for him. The wolf greeted her, and said:

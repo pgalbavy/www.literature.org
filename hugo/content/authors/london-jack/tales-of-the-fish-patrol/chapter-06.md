@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Demetrios Contos"
 weight: 6
-aliases:
-  - "/authors/london-jack/tales-of-the-fish-patrol/chapter-06.html"
+url: "/authors/london-jack/tales-of-the-fish-patrol/chapter-06.html"
 ---
 
 It must not be thought, from what I have told of the Greek fishermen, that they were altogether bad. Far from it. But they were rough men, gathered together in isolated communities and fighting with the elements for a livelihood. They lived far away from the law and its workings, did not understand it, and thought it tyranny. Especially did the fish laws seem tyrannical. And because of this, they looked upon the men of the fish patrol as their natural enemies.

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 25"
 weight: 25
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-02-chapter-25.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-02-chapter-25.html"
 ---
 
 Miss Quested had renounced her own people. Turning from them, she was drawn into a mass of Indians of the shopkeeping class, and carried by them towards the public exit of the court. The faint, indescribable smell of the bazaars invaded her, sweeter than a London slum, yet more disquieting: a tuft of scented cotton wool, wedged in an old man’s ear, fragments of pan between his black teeth, odorous powders, oils—the Scented East of tradition, but blended with human sweat as if a great king had been entangled in ignominy and could not free himself, or as if the heat of the sun had boiled and fried all the glories of the earth into a single mess. They paid no attention to her. They shook hands over her shoulder, shouted through her body—for when the Indian does ignore his rulers, he becomes genuinely unaware of their existence. Without part in the universe she had created, she was flung against Mr. Fielding.

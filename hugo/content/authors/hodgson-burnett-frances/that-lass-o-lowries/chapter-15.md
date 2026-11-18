@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Discovery"
 weight: 15
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-15.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-15.html"
 ---
 
 The first time that Joan appeared at the night school, the men and girls looked up from their tasks to stare at her, and whisper among themselves; but she was, to all appearances, oblivious of their scrutiny, and the flurry of curiosity and excitement soon died out. After the first visit her place was never vacant. On the nights appointed for the classes to meet, she came, did the work allotted to her, and went her way again, pretty much as she did at the mines. When in due time Anice began to work out her plan of co-operation with her, she was not disappointed in the fulfilment of her hopes. Gradually it became a natural thing for a slow and timid girl to turn to Joan Lowrie for help.

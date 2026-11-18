@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 9 - In Which The Orphan Makes His Will"
 weight: 26
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-02-chapter-09.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-02-chapter-09.html"
 ---
 
 The Secretary, working in the Dismal Swamp betimes next morning, was informed that a youth waited in the hall who gave the name of Sloppy. The footman who communicated this intelligence made a decent pause before uttering the name, to express that it was forced on his reluctance by the youth in question, and that if the youth had had the good sense and good taste to inherit some other name it would have spared the feelings of him the bearer.

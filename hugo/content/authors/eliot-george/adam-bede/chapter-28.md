@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - A Dilemma"
 weight: 28
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-28.html"
+url: "/authors/eliot-george/adam-bede/chapter-28.html"
 ---
 
 IT was only a few minutes measured by the clock - though Adam always thought it had been a long while - before he perceived a gleam of consciousness in Arthur's face and a slight shiver through his frame. The intense joy that flooded his soul brought back some of the old affection with it.

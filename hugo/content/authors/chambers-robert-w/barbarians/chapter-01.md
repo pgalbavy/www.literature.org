@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Fed Up"
 weight: 1
-aliases:
-  - "/authors/chambers-robert-w/barbarians/chapter-01.html"
+url: "/authors/chambers-robert-w/barbarians/chapter-01.html"
 ---
 
 So this is what happened to the dozen-odd malcontents who could no longer stand the dirty business in Europe and the dirtier politicians at home.

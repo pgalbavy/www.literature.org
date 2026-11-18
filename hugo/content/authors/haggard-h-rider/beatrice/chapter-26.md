@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - What Beatrice Swore"
 weight: 27
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-26.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-26.html"
 ---
 
 Beatrice went to her room, but the atmosphere of the place seemed to stifle her. Her brain was reeling, she must go out into the air--away from her tormentors. She had not yet answered Geoffrey’s letter, and it must be answered by this post, for there was none on Sunday. It was half-past four--the post went out at five; if she was going to write, she should do so at once, but she could not do so here. Besides, she must find time for thought. Ah, she had it; she would take her canoe and paddle across the bay to the little town of Coed and write her letter there. The post did not leave Coed till half-past six. She put on her hat and jacket, and taking a stamp, a sheet of paper, and an envelope with her, slipped quietly from the house down to old Edward’s boat-house where the canoe was kept. Old Edward was not there himself, but his son was, a boy of fourteen, and by his help Beatrice was soon safely launched. The sea glittered like glass, and turning southwards, presently she was paddling round the shore of the island on which the Castle stood towards the open bay.

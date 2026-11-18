@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 5 - The Escape"
 weight: 5
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mad-king/part-01-chapter-05.html"
+url: "/authors/burroughs-edgar-rice/the-mad-king/part-01-chapter-05.html"
 ---
 
 For half an hour the Princess von der Tann succeeded admirably in immersing herself in the periodical, to the exclusion of her unhappy thoughts and the depressing influence of the austere countenance of the Blentz Princess hanging upon the wall behind her.

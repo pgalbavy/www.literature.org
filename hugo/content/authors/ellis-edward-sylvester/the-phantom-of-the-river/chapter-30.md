@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - Conclusion"
 weight: 30
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-30.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-30.html"
 ---
 
 The heart of Missionary Finley stood still when he saw The Panther stride from the wood into the open space where the campfire was burning. He knew that the terrible chieftain and Simon Kenton had met in mortal combat, and what could the return of the Shawanoe mean but that the prince of pioneers and rangers had been overthrown and slain by his implacable enemy?

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/tarkington-booth/the-guest-of-quesnay/chapter-03.html"
+url: "/authors/tarkington-booth/the-guest-of-quesnay/chapter-03.html"
 ---
 
 A great many people keep their friends in mind by writing to them, but more do not; and Ward and I belong to the majority. After my departure from Paris I had but one missive from him, a short note, written at the request of his sister, asking me to be on the lookout for Italian earrings, to add to her collection of old jewels. So, from time to time, I sent her what I could find about Capri or in Naples, and she responded with neat little letters of acknowledgment.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - One Or Two Blunders"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-14.html"
 ---
 
 Jolly Robin's cousin, the Hermit, seemed much disappointed because Jolly did not weep after hearing the beautiful, sad song. But no matter how mournful a song might be, Jolly Robin could no more have shed tears over it than a fish could have. Naturally, a fish never weeps, because it would be a silly thing to do. Surrounded by water as he is, a fish could never see his own tears. And so all the weeping he might do would be merely wasted.

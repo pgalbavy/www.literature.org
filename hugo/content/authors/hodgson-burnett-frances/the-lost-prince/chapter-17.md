@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - \"It Is A Very Bad Sign\""
 weight: 17
-aliases:
-  - "/authors/hodgson-burnett-frances/the-lost-prince/chapter-17.html"
+url: "/authors/hodgson-burnett-frances/the-lost-prince/chapter-17.html"
 ---
 
 The policeman was not so much excited as out of temper. He did not know what Marco knew or what The Rat knew. Some common lad had got himself locked up in a house, and some one would have to go to the landlord and get a key from him. He had no intention of laying himself open to the law by breaking into a private house with his truncheon, as The Rat expected him to do.

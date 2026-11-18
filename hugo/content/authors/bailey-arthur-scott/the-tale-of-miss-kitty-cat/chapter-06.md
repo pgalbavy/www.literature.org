@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Beechnut Shucks"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-06.html"
 ---
 
 ONCE in a while Frisky Squirrel paid a visit to Farmer Green's place. Although he had learned that the farmyard was not without its dangers, after one adventure Frisky was always sure to return, sometime, as if in search of another.

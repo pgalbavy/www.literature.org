@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Problem"
 weight: 3
-aliases:
-  - "/authors/doyle-arthur-conan/the-hound-of-the-baskervilles/chapter-03.html"
+url: "/authors/doyle-arthur-conan/the-hound-of-the-baskervilles/chapter-03.html"
 ---
 
 I confess at these words a shudder passed through me. There was a thrill in the doctor's voice which showed that he was himself deeply moved by that which he told us. Holmes leaned forward in his excitement and his eyes had the hard, dry glitter which shot from them when he was keenly interested.

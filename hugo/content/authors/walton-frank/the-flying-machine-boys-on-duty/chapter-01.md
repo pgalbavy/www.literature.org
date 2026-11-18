@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Above New York Bay"
 weight: 1
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-01.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-01.html"
 ---
 
 An aviator, swinging northward in a June twilight, found himself constantly annoyed by the driver of a machine whose only motive in life seemed to be to get in the way. Turn as he might to right or left, sail high or low, the obstinate and impertinent pursuer was always at hand to threaten him.

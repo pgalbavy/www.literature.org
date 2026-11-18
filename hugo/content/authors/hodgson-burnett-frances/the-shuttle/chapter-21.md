@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Kedgers"
 weight: 21
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-21.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-21.html"
 ---
 
 The work at Stornham Court went on steadily, though with no greater rapidity than is usually achieved by rural labourers. There was, however, without doubt, a certain stimulus in the occasional appearance of Miss Vanderpoel, who almost daily sauntered round the place to look on, and exchange a few words with the workmen. When they saw her coming, the men, hastily standing up to touch their foreheads, were conscious of a slight acceleration of being which was not quite the ordinary quickening produced by the presence of employers. It was, in fact, a sensation rather pleasing than anxious. Her interest in the work was, upon the whole, one which they found themselves beginning to share. The unusualness of the situation--a young woman, who evidently stood for many things and powers desirable, employing labourers and seeming to know what she intended them to do--was a thing not easy to get over, or be come accustomed to. But there she was, as easy and well mannered as you please--and with gentlefolks' ways, though, as an American, such finish could scarcely be expected from her. She knew each man's name, it was revealed gradually, and, what was more, knew what he stood for in the village, what cottage he lived in, how many children he had, and something about his wife. She remembered things and made inquiries which showed knowledge. Besides this, she represented, though perhaps they were scarcely yet fully awake to the fact, the promise their discouraged dulness had long lost sight of.

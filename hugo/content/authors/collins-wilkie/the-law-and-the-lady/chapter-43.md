@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43 - At Last!"
 weight: 43
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-43.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-43.html"
 ---
 
 MY letter from Mr. Playmore, inclosing the agent's extraordinary telegram, was not inspired by the sanguine view of our prospects which he had expressed to me when we met at Benjamin's house.

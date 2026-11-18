@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Message"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-13.html"
 ---
 
 Jack's chagrin was deepened the more he reflected upon the singular occurrence. Had he been outwitted by some skillfully-executed trick of the Indians, he would have accepted it as a mishap liable to overthrow the most experienced ranger of the woods; but he felt he ought to have known on the instant that no real bear would have attempted anything of the kind.

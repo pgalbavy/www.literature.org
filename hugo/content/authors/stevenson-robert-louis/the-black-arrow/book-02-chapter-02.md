@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 2 - The Two Oaths"
 weight: 10
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-02-chapter-02.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-02-chapter-02.html"
 ---
 
 Sir Daniel was in the hall; there he paced angrily before the fire, awaiting Dick's arrival. None was by except Sir Oliver, and he sat discreetly backward, thumbing and muttering over his breviary.

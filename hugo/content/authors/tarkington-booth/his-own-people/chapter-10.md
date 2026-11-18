@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Cab At The Corner"
 weight: 10
-aliases:
-  - "/authors/tarkington-booth/his-own-people/chapter-10.html"
+url: "/authors/tarkington-booth/his-own-people/chapter-10.html"
 ---
 
 A ten o'clock, a page bearing a card upon a silver tray knocked upon the door, and stared with wide-eyed astonishment at the disordered gentleman who opened it.

@@ -1,8 +1,7 @@
 ---
 title: "Book 12 - Chapter 13"
 weight: 276
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-12-chapter-13.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-12-chapter-13.html"
 ---
 
 Twenty-three soldiers, three officers, and two officials were confined in the shed in which Pierre had been placed and where he remained for four weeks.

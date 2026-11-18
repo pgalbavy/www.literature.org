@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - \"Tall Oaks From Little Acorns Grow\""
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-17.html"
 ---
 
 If you wish an illustration of how great events often flow from trifling causes read what follows. It is one of the many events which prove that "tall oaks from little acorns grow."

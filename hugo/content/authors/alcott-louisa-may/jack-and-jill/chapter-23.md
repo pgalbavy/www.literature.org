@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Cattle Show"
 weight: 24
-aliases:
-  - "/authors/alcott-louisa-may/jack-and-jill/chapter-23.html"
+url: "/authors/alcott-louisa-may/jack-and-jill/chapter-23.html"
 ---
 
 The children were not the only ones who had learned something at Pebbly Beach. Mrs. Minot had talked a good deal with some very superior persons, and received light upon various subjects which had much interested or perplexed her. While the ladies worked or walked together, they naturally spoke oftenest and most earnestly about their children, and each contributed her experience. Mrs. Hammond, who had been a physician for many years, was wise in the care of healthy little bodies, and the cure of sick ones. Mrs. Channing, who had read, travelled, and observed much in the cause of education, had many useful hints about the training of young minds and hearts. Several teachers reported their trials, and all the mothers were eager to know how to bring up their boys and girls to be healthy, happy, useful men and women.

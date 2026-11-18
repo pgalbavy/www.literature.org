@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Angie Scores"
 weight: 17
-aliases:
-  - "/authors/ostrander-isabel/the-fifth-ace/chapter-17.html"
+url: "/authors/ostrander-isabel/the-fifth-ace/chapter-17.html"
 ---
 
 "I was sorry to have missed you at my sister's, although I do not think you would have welcomed my appearance!" laughed Kearn Thode. "I was striped with plaster like a savage in war paint."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Hall Of The Atlas"
 weight: 6
-aliases:
-  - "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-06.html"
+url: "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-06.html"
 ---
 
 From the moment when the tailor had bowed his farewell to the moment when Graham found himself in the lift, was altogether barely five minutes. And as yet the haze of his vast interval of sleep hung about him, as yet the initial strangeness of his being alive at all in this remote age touched everything with wonder, with a sense of the irrational, with something of the quality of a realistic dream. He was still detached, an astonished spectator, still but half involved in life. What he had seen, and especially the last crowded tumult, framed in the setting of the balcony, had a spectacular turn, like a thing witnessed from the box of a theatre. "I don't understand," he said. "What was the trouble? My mind is in a whirl. Why were they shouting? What is the danger?"

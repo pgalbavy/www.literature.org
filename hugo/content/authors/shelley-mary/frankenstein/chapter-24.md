@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 25
-aliases:
-  - "/authors/shelley-mary/frankenstein/chapter-24.html"
+url: "/authors/shelley-mary/frankenstein/chapter-24.html"
 ---
 
 My present situation was one in which all voluntary thought was swallowed up and lost. I was hurried away by fury; revenge alone endowed me with strength and composure; it moulded my feelings, and allowed me to be calculating and calm, at periods when otherwise delirium or death would have been my portion.

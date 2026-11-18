@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 32
-aliases:
-  - "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-32.html"
+url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-32.html"
 ---
 
 Through all aeons since all the worlds were made it is at least not unthinkable that in all the worlds of which our own atom is one, there has ruled a Force illimitable, unconquerable and inexplicable and whichsoever its world and whatsoever the sign denoting or the name given it, the Force--the Thing has been the same. Upon our own atom of the universe it is given the generic name of Love and its existence is that which the boldest need not defy, the most profound need not attempt to explain with clarity, the most brilliantly sophistical to argue away. Its forms of beauty, triviality, magnificence, imbecility, loveliness, stupidity, holiness, purity and bestiality neither detract from nor add to its unalterable power. As the earth revolves upon its axis and reveals night and day, Spring, Summer and Winter, so it reveals this ceaselessly working Force. Men who were as gods have been uplifted or broken by it, fools have trifled with it, brutes have sullied it, saints have worshipped, poets sung and wits derided it. As electricity is a force death dealing, or illuminating and power bestowing, so is this Great Impeller, and it is fatuous--howsoever worldly wise or moderately sardonic one would choose to be--to hint ironically that its proportions are less than the ages have proved them. Whether a world formed without a necessity for the presence and assistance of this psychological factor would have been a better or a worse one, it is--by good fortune--not here imperative that one should attempt to decide. What is--exists. None of us created it. Each one will deal with the Impeller as he himself either sanely or madly elects. He will also bear the consequences--and so also may others.

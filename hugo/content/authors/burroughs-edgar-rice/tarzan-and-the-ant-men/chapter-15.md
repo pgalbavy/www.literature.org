@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-15.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-15.html"
 ---
 
 Through several chambers and corridors they were conducted toward the center of the dome on the same level as the chamber in which they had left the king and the walmak until finally they were thrust into a small chamber and a heavy door slammed and barred behind them.

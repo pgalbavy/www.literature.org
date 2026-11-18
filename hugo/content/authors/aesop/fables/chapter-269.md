@@ -1,8 +1,7 @@
 ---
 title: "The Ass And The Horse"
 weight: 271
-aliases:
-  - "/authors/aesop/fables/chapter-269.html"
+url: "/authors/aesop/fables/chapter-269.html"
 ---
 
 AN ASS besought a Horse to spare him a small portion of his feed. "Yes," said the Horse; "if any remains out of what I am now eating I will give it you for the sake of my own superior dignity, and if you will come when I reach my own stall in the evening, I will give you a little sack full of barley." The Ass replied, "Thank you. But I can't think that you, who refuse me a little matter now. will by and by confer on me a greater benefit."

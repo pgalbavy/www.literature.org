@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 14
-aliases:
-  - "/authors/london-jack/jerry-of-the-islands/chapter-13.html"
+url: "/authors/london-jack/jerry-of-the-islands/chapter-13.html"
 ---
 
 The boy's name, as Jerry was to learn, was Lamai, and to Lamai's house Jerry was carried. It was not much of a house, even as cannibal grass-houses go. On an earthen floor, hard-packed of the filth of years, lived Lamai's father and mother and a spawn of four younger brothers and sisters. A thatched roof that leaked in every heavy shower leaned to a wabbly ridge-pole over the floor. The walls were even more pervious to a driving rain. In fact, the house of Lamai, who was the father of Lumai, was the most miserable house in all Somo.

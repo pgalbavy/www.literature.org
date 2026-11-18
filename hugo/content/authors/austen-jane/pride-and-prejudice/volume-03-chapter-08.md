@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 8"
 weight: 50
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-08.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-08.html"
 ---
 
 Mr. Bennet had very often wished, before this period of his life, that, instead of spending his whole income, he had laid by an annual sum, for the better provision of his children, and of his wife, if she survived him. He now wished it more than ever. Had he done his duty in that respect, Lydia need not have been indebted to her uncle, for whatever of honour or credit could now be purchased for her. The satisfaction of prevailing on one of the most worthless young men in Great Britain to be her husband, might then have rested in its proper place.

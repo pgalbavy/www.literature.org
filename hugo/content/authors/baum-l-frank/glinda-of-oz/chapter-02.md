@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/baum-l-frank/glinda-of-oz/chapter-02.html"
+url: "/authors/baum-l-frank/glinda-of-oz/chapter-02.html"
 ---
 
 Residing in Ozma's palace at this time was a live Scarecrow, a most remarkable and intelligent creature who had once ruled the Land of Oz for a brief period and was much loved and respected by all the people. Once a Munchkin farmer had stuffed an old suit of clothes with straw and put stuffed boots on the feet and used a pair of stuffed cotton gloves for hands. The head of the Scarecrow was a stuffed sack fastened to the body, with eyes, nose, mouth and ears painted on the sack. When a hat had been put on the head, the thing was a good imitation of a man. The farmer placed the Scarecrow on a pole in his cornfield and it came to life in a curious manner. Dorothy, who was passing by the field, was hailed by the live Scarecrow and lifted him off his pole. He then went with her to the Emerald City, where the Wizard of Oz gave him some excellent brains, and the Scarecrow soon became an important personage.

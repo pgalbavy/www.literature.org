@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 12"
 weight: 12
-aliases:
-  - "/authors/austen-jane/emma/volume-01-chapter-12.html"
+url: "/authors/austen-jane/emma/volume-01-chapter-12.html"
 ---
 
 Mr. Knightley was to dine with them--rather against the inclination of Mr. Woodhouse, who did not like that any one should share with him in Isabella's first day. Emma's sense of right however had decided it; and besides the consideration of what was due to each brother, she had particular pleasure, from the circumstance of the late disagreement between Mr. Knightley and herself, in procuring him the proper invitation.

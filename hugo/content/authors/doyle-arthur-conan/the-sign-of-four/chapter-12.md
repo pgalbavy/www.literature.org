@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Strange Story of Jonathan Small"
 weight: 12
-aliases:
-  - "/authors/doyle-arthur-conan/the-sign-of-four/chapter-12.html"
+url: "/authors/doyle-arthur-conan/the-sign-of-four/chapter-12.html"
 ---
 
 A very patient man was that inspector in the cab, for it was a weary time before I rejoined him. His face clouded over when I showed him the empty box.

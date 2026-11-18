@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Return Of The Straggler"
 weight: 10
-aliases:
-  - "/authors/buchan-john/greenmantle/chapter-09.html"
+url: "/authors/buchan-john/greenmantle/chapter-09.html"
 ---
 
 Before I turned in that evening I had done some good hours’ work in the engine-room. The boat was oil-fired, and in very fair order, so my duties did not look as if they would be heavy. There was nobody who could be properly called an engineer; only, besides the furnace-men, a couple of lads from Hamburg who had been a year ago apprentices in a ship-building yard. They were civil fellows, both of them consumptive, who did what I told them and said little. By bedtime, if you had seen me in my blue jumper, a pair of carpet slippers, and a flat cap—all the property of the deceased Walter—you would have sworn I had been bred to the firing of river-boats, whereas I had acquired most of my knowledge on one run down the Zambesi, when the proper engineer got drunk and fell overboard among the crocodiles.

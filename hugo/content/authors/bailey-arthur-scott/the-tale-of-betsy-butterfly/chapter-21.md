@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - A Strange Change"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-21.html"
 ---
 
 RECEIVING no answer to his question, Freddie Firefly skipped down from the fence and sought the shade of the apple tree, where he found Dusty Moth staring fixedly at Betsy Butterfly's picture.

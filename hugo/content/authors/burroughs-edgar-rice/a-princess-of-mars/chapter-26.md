@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Through Carnage to Joy"
 weight: 26
-aliases:
-  - "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-26.html"
+url: "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-26.html"
 ---
 
 Sometime later Tars Tarkas and Kantos Kan returned to report that Zodanga had been completely reduced. Her forces were entirely destroyed or captured, and no further resistance was to be expected from within. Several battleships had escaped, but there were thousands of war and merchant vessels under guard of Thark warriors.

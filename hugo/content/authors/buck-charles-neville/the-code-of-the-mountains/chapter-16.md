@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-16.html"
+url: "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-16.html"
 ---
 
 When the two companies from the hills entrained that raw morning they had no idea where they were going or what prospects lay ahead, but they conceived days of action, and fell upon months of dull routine. The mountaineer is restive under discipline and passionate in his insistence on personal liberty. He bristles at a curt command. It irks his soul to raise the right hand in salute when he passes another whose leggings are of leather instead of canvas and whose shoulders are decorated with certain insignia. To say "sir" in addressing a superior, or to admit any form of superiority, is a harder thing than to march on short rations, for a voice within is always making declaration, "I'm jest as good as any man."

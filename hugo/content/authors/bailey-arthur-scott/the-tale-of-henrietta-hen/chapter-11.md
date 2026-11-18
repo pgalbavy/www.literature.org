@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Old Whitey's Advice"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-11.html"
 ---
 
 Old Whitey--the most ancient hen in the flock--scrambled with some difficulty up to the top of the haymow in Farmer Green's barn. She could scarcely keep up with Henrietta Hen, whom she was following--by request. And when she arrived, breathless, at Henrietta's nest that proud and elegant creature turned a troubled face toward her.

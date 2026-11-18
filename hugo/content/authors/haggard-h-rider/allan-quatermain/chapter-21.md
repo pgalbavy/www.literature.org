@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Away! Away!"
 weight: 22
-aliases:
-  - "/authors/haggard-h-rider/allan-quatermain/chapter-21.html"
+url: "/authors/haggard-h-rider/allan-quatermain/chapter-21.html"
 ---
 
 At the top of the rise we halted for a second to breathe our horses; and, turning, glanced at the battle beneath us, which, illumined as it was by the fierce rays of the sinking sun staining the whole scene red, looked from where we were more like some wild titanic picture than an actual hand-to-hand combat. The distinguishing scenic effect from that distance was the countless distinct flashes of light reflected from the swords and spears, otherwise the panorama was not so grand as might have been expected. The great green lap of sward in which the struggle was being fought out, the bold round outline of the hills behind, and the wide sweep of the plain beyond, seemed to dwarf it; and what was tremendous enough when one was in it, grew insignificant when viewed from the distance. But is it not thus with all the affairs and doings of our race about which we blow the loud trumpet and make such a fuss and worry? How utterly antlike, and morally and physically insignificant, must they seem to the calm eyes that watch them from the arching depths above!

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - Of The Home-Coming To Hampshire"
 weight: 38
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-38.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-38.html"
 ---
 
 IT was a bright July morning four months after that fatal fight in the Spanish batranca. A blue heaven stretched above, a green rolling plain undulated below, intersected with hedge-rows and flecked with grazing sheep. The sun was yet low in the heaven, and the red cows stood in the long shadow of the elms, chewing the cud and gazing with great vacant eyes at two horsemen who were spurring it down the long white road which dipped and curved away back to where the towers and pinnacles beneath the flat- topped hill marked the old town of Winchester.

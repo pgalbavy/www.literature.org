@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 8"
 weight: 36
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-02-chapter-08.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-02-chapter-08.html"
 ---
 
 The last of the infantry hurriedly crossed the bridge, squeezing together as they approached it as if passing through a funnel. At last the baggage wagons had all crossed, the crush was less, and the last battalion came onto the bridge. Only Denisov's squadron of hussars remained on the farther side of the bridge facing the enemy, who could be seen from the hill on the opposite bank but was not yet visible from the bridge, for the horizon as seen from the valley through which the river flowed was formed by the rising ground only half a mile away. At the foot of the hill lay wasteland over which a few groups of our Cossack scouts were moving. Suddenly on the road at the top of the high ground, artillery and troops in blue uniform were seen. These were the French. A group of Cossack scouts retired down the hill at a trot. All the officers and men of Denisov's squadron, though they tried to talk of other things and to look in other directions, thought only of what was there on the hilltop, and kept constantly looking at the patches appearing on the skyline, which they knew to be the enemy's troops. The weather had cleared again since noon and the sun was descending brightly upon the Danube and the dark hills around it. It was calm, and at intervals the bugle calls and the shouts of the enemy could be heard from the hill. There was no one now between the squadron and the enemy except a few scattered skirmishers. An empty space of some seven hundred yards was all that separated them. The enemy ceased firing, and that stern, threatening, inaccessible, and intangible line which separates two hostile armies was all the more clearly felt.

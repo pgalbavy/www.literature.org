@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 11"
 weight: 31
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-02-chapter-11.html"
+url: "/authors/cather-willa/song-of-the-lark/part-02-chapter-11.html"
 ---
 
 MRS. KRONBORG had said that Thea was not to be disturbed on Sunday morning, and she slept until noon. When she came downstairs the family were just sitting down to dinner, Mr. Kronborg at one end of the long table, Mrs. Kronborg at the other. Anna, stiff and ceremonious, in her summer silk, sat at her father's right, and the boys were strung along on either side of the table. There was a place left for Thea between her mother and Thor. During the silence which preceded the blessing, Thea felt something uncomfortable in the air. Anna and her older brothers had lowered their eyes when she came in. Mrs. Kronborg nodded cheerfully, and after the blessing, as she began to pour the coffee, turned to her.

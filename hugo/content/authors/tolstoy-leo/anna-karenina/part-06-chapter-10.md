@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 10"
 weight: 167
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-10.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-10.html"
 ---
 
 Vassenka drove the horses so smartly that they reached the marsh too early, while it was still hot.

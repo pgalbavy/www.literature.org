@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 36
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-36.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-36.html"
 ---
 
 AS soon as we reckoned everybody was asleep that night we went down the lightning-rod, and shut ourselves up in the lean-to, and got out our pile of fox-fire, and went to work. We cleared everything out of the way, about four or five foot along the middle of the bottom log. Tom said we was right behind Jim's bed now, and we'd dig in under it, and when we got through there couldn't nobody in the cabin ever know there was any hole there, because Jim's counterpin hung down most to the ground, and you'd have to raise it up and look under to see the hole. So we dug and dug with the case-knives till most midnight; and then we was dog-tired, and our hands was blistered, and yet you couldn't see we'd done anything hardly. At last I says:

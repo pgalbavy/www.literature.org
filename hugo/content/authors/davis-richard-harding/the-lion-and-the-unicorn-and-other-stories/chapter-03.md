@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Man With One Talent"
 weight: 3
-aliases:
-  - "/authors/davis-richard-harding/the-lion-and-the-unicorn-and-other-stories/chapter-03.html"
+url: "/authors/davis-richard-harding/the-lion-and-the-unicorn-and-other-stories/chapter-03.html"
 ---
 
 The mass-meeting in the Madison Square Garden which was to help set Cuba free was finished, and the people were pushing their way out of the overheated building into the snow and sleet of the streets. They had been greatly stirred and the spell of the last speaker still hung so heavily upon them that as they pressed down the long corridor they were still speaking loudly in his praise.

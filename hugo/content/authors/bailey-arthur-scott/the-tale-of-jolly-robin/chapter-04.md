@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - What Jolly Did Best"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-04.html"
 ---
 
 Jolly Robin had something on his mind. For several days he had been turning a certain matter over in his head. But in spite of all his thinking, he seemed unable to find any answer to the question that was troubling him. So at last he decided he would have to ask somebody to help him.

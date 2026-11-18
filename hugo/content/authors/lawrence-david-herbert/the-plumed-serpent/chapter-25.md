@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Teresa"
 weight: 25
-aliases:
-  - "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-25.html"
+url: "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-25.html"
 ---
 
 Ramón somewhat surprised Kate by marrying again, a couple of months or so after the death of Doña Carlota. The new bride was a young woman of about twenty-eight, called Teresa. There was a very quiet civil wedding, and Ramón brought his new wife to Jamiltepec.

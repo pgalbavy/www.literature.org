@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-26.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-26.html"
 ---
 
 The window panes were frost-rimed one night when Parish Thornton and Dorothy sat before the hearth of the main room. There was a lusty roar in the great chimney from a walnut backlog, for during these frosty days the husband and his hired man, Sim Squires, had climbed high into the mighty tree and sawed out the dead wood left there by years of stress and storm.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - In The Kor-Ul-Gryf"
 weight: 5
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-05.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-05.html"
 ---
 
 As Tarzan fell among his enemies a man halted many miles away upon the outer verge of the morass that encircles Pal-ul-don. Naked he was except for a loin cloth and three belts of cartridges, two of which passed over his shoulders, crossing upon his chest and back, while the third encircled his waist. Slung to his back by its leathern sling-strap was an Enfield, and he carried too a long knife, a bow and a quiver of arrows. He had come far, through wild and savage lands, menaced by fierce beasts and fiercer men, yet intact to the last cartridge was the ammunition that had filled his belts the day that he set out.

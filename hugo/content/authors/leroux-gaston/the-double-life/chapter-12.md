@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Théophraste’s Memory Is Refreshed"
 weight: 13
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-12.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-12.html"
 ---
 
 *THEY* wandered down to the lawns at the foot of the ramparts, and walking across the green grass, they stopped at the foot of a forked tree. They were seated chatting for some time, when suddenly Théophraste’s face seemed to light up as if he recalled something. It seemed as if his memory had suddenly become awakened to events of years ago. His whole soul was filled with sweet memories, like the tenderest recollections of youthful days returning, after having been forgotten for a long time. In his mind he saw perfectly the spirit of Cartouche, as if he had never been separated from him by two hundred years. It seemed to come suddenly to him, and as the events came back to him, he related them to Adolphe, in the following words:

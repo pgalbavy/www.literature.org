@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - A Twice Stolen Dinner"
 weight: 20
-aliases:
-  - "/authors/burgess-thornton-w/old-granny-fox/chapter-20.html"
+url: "/authors/burgess-thornton-w/old-granny-fox/chapter-20.html"
 ---
 
 No one ever is so smart that some one else  

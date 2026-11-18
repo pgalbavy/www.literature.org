@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-14.html"
+url: "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-14.html"
 ---
 
 In a hilarious hall there were twenty-eight tables and twenty- eight women and a crowd of smoking men. Valiant noise was made on a stage at the end of the hall by an orchestra composed of men who looked as if they had just happened in. Soiled waiters ran to and fro, swooping down like hawks on the unwary in the throng; clattering along the aisles with trays covered with glasses; stumbling over women's skirts and charging two prices for everything but beer, all with a swiftness that blurred the view of the cocoanut palms and dusty monstrosities painted upon the walls of the room. A bouncer, with an immense load of business upon his hands, plunged about in the crowd, dragging bashful strangers to prominent chairs, ordering waiters here and there and quarreling furiously with men who wanted to sing with the orchestra.

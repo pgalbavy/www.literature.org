@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/chambers-robert-w/blue-bird-weather/chapter-03.html"
+url: "/authors/chambers-robert-w/blue-bird-weather/chapter-03.html"
 ---
 
 Blue-bird weather continued. Every day for a week Marche and Molly Herold put out for Foam Island under summer skies, and with a soft wind filling the sail; and in all the water-world there was no visible sign of winter, save the dead reeds on muddy islands and the far and wintry menace of the Atlantic crashing icily beyond the eastern dunes.

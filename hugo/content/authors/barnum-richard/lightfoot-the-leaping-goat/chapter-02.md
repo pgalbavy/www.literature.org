@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Lightfoot Is Hurt"
 weight: 2
-aliases:
-  - "/authors/barnum-richard/lightfoot-the-leaping-goat/chapter-02.html"
+url: "/authors/barnum-richard/lightfoot-the-leaping-goat/chapter-02.html"
 ---
 
 Mr. Sharp-horn, the man-goat, was so surprised at what Lightfoot had done in leaping over the edge of the cliff that, for a second, he did not know what to do. Indeed Sharp-horn, who was running very fast, could hardly stop in time to save himself from sliding over.

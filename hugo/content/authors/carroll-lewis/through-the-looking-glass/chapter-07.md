@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Lion and the Unicorn"
 weight: 7
-aliases:
-  - "/authors/carroll-lewis/through-the-looking-glass/chapter-07.html"
+url: "/authors/carroll-lewis/through-the-looking-glass/chapter-07.html"
 ---
 
 The next moment soldiers cam running through the wood, at first in twos and threes, then ten or twenty together, and at last in such crowds that they seemed to fill the whole forest. Alice got behind a tree, for fear of being run over, and watched them go by.

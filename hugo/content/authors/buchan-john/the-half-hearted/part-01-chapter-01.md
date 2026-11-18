@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 1 - Evening In Glenavelin"
 weight: 1
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-01-chapter-01.html"
+url: "/authors/buchan-john/the-half-hearted/part-01-chapter-01.html"
 ---
 
 From the heart of a great hill land Glenavelin stretches west and south to the wider Gled valley, where its stream joins with the greater water in its seaward course. Its head is far inland in a place of mountain solitudes, but its mouth is all but on the lip of the sea, and salt breezes fight with the flying winds of the hills. It is a land of green meadows on the brink of heather, of far-stretching fir woods that climb to the edge of the uplands and sink to the fringe of corn. Nowhere is there any march between art and nature, for the place is in the main for sheep, and the single road which threads the glen is little troubled with cart and crop-laden wagon. Midway there is a stretch of wood and garden around the House of Glenavelin, the one great dwelling-place in the vale. But it is a dwelling and a little more, for the home of the real lords of the land is many miles farther up the stream, in the moorland house of Etterick, where the Avelin is a burn, and the hills hang sharply over its source. To a stranger in an afternoon it seems a very vale of content, basking in sun and shadow, green, deep, and silent. But it is also a place of storms, for its name means the "glen of white waters," and mist and snow are commoner in its confines than summer heats.

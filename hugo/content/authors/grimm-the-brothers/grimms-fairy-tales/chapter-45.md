@@ -1,8 +1,7 @@
 ---
 title: "Chapter 45 - The Golden Goose"
 weight: 45
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-45.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-45.html"
 ---
 
 There was a man who had three sons, the youngest of whom was called Dummling,[*] and was despised, mocked, and sneered at on every occasion.

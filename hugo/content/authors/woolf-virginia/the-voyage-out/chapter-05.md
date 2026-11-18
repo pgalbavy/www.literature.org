@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/woolf-virginia/the-voyage-out/chapter-05.html"
+url: "/authors/woolf-virginia/the-voyage-out/chapter-05.html"
 ---
 
 She was not able to follow up her observations, however, or to come to any conclusion, for by one of those accidents which are liable to happen at sea, the whole course of their lives was now put out of order.

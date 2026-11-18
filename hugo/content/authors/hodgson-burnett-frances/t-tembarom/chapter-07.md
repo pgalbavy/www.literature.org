@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-07.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-07.html"
 ---
 
 In the course of the interview given to the explaining of business and legal detail which took place between Mr. Palford and his client the following morning, Tembarom's knowledge of his situation extended itself largely, and at the same time added in a proportionate degree to his sense of his own incongruity as connected with it. He sat at a table in Palford's private sitting-room at the respectable, old-fashioned hotel the solicitor had chosen--sat and listened, and answered questions and asked them, until his head began to feel as though it were crammed to bursting with extraordinary detail.

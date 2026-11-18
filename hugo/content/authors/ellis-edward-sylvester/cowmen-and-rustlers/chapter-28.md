@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - The Final Summons"
 weight: 28
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-28.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-28.html"
 ---
 
 Now came hours of wearisome waiting, especially to the besieged, who found in their close quarters little freedom of movement. Some of the men stretched out on the lower floor and slept; others talked and engaged in games of chance, while a desultory watch was maintained, through the doors and windows, upon the rustlers, several of whom were continually in sight.

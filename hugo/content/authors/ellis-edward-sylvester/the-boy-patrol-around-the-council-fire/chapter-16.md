@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Zip"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-16.html"
 ---
 
 On the evening succeeding the interesting story told by Uncle Elk of the once famous sea serpent, the majority of the Boy Scouts were seated on the porch of the bungalow exchanging the day’s experiences. The half dozen detailed to prepare supper were as busy as they could be, for they like their waiting companions were exceedingly a-hungered. Some had spent hours in fishing for perch, bass, salmon, pickerel and lake trout; others had strolled through the fragrant, resinous woods, studying trees and bird life, and all had added to their splendid reserve of rugged health, exuberant animal spirits, and that genuine happiness which comes only with an upright life, clean habits and the constant seeking of an opportunity to do others a "good turn."

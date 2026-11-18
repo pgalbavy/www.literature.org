@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/baum-l-frank/ozma-of-oz/chapter-12.html"
+url: "/authors/baum-l-frank/ozma-of-oz/chapter-12.html"
 ---
 
 Hearing this condition imposed by the Nome King, Ozma became silent and thoughtful, and all her friends looked at her uneasily.

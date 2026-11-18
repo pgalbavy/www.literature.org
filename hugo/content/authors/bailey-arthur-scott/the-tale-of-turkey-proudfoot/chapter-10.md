@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Worm Turns"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-10.html"
 ---
 
 Henrietta Hen had no love for Turkey Proudfoot. Beginning with the days of her chickenhood he had always ordered her about, telling her not to do this and not to do that. Even after she was grown up and had a family of her own, Turkey Proudfoot treated her as if she had just begun to scratch for herself.

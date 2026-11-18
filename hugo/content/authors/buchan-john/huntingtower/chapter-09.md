@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The First Battle Of The Cruives"
 weight: 10
-aliases:
-  - "/authors/buchan-john/huntingtower/chapter-09.html"
+url: "/authors/buchan-john/huntingtower/chapter-09.html"
 ---
 
 The old keep of Huntingtower stood some three hundred yards from the edge of the cliffs, a gnarled wood of hazels and oaks protecting it from the sea-winds. It was still in fair preservation, having till twenty years before been an adjunct of the house of Dalquharter, and used as kitchen, buttery and servants' quarters. There had been residential wings attached, dating from the mid-eighteenth century, but these had been pulled down and used for the foundations of the new mansion. Now it stood a lonely shell, its three storeys, each a single great room connected by a spiral stone staircase, being dedicated to lumber and the storage of produce. But it was dry and intact, its massive oak doors defied any weapon short of artillery, its narrow unglazed windows would scarcely have admitted a cat—a place portentously strong, gloomy, but yet habitable.

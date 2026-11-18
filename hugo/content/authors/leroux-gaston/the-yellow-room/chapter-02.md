@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - In Which Joseph Rouletabille Appears For The First Time"
 weight: 2
-aliases:
-  - "/authors/leroux-gaston/the-yellow-room/chapter-02.html"
+url: "/authors/leroux-gaston/the-yellow-room/chapter-02.html"
 ---
 
 I remember as well as if it had occurred yesterday, the entry of young Rouletabille into my bedroom that morning. It was about eight o’clock and I was still in bed reading the article in the "Matin" relative to the Glandier crime.

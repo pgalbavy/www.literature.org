@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 16"
 weight: 245
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-16.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-16.html"
 ---
 
 Berg, the Rostovs' son-in-law, was already a colonel wearing the orders of Vladimir and Anna, and he still filled the quiet and agreeable post of assistant to the head of the staff of the assistant commander of the first division of the Second Army.

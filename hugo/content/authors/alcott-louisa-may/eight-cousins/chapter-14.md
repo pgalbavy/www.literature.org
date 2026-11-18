@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Happy Birthday"
 weight: 15
-aliases:
-  - "/authors/alcott-louisa-may/eight-cousins/chapter-14.html"
+url: "/authors/alcott-louisa-may/eight-cousins/chapter-14.html"
 ---
 
 The twelfth of October was Rose's birthday, but no one seemed to remember that interesting fact, and she felt delicate about mentioning it, so fell asleep the night before wondering if she would have any presents. That question was settled early the next morning, for she was awakened by a soft tap on her face, and opening her eyes she beheld a little black and white figure sitting on her pillow, staring at her with a pair of round eyes very like blueberries, while one downy paw patted her nose to attract her notice. It was Kitty Comet, the prettiest of all the pussies, and Comet evidently had a mission to perform, for a pink bow adorned her neck, and a bit of paper was pinned to it bearing the words, "For Miss Rose, from Frank."

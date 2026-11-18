@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-05.html"
+url: "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-05.html"
 ---
 
 They did not tell each other of the strange and bold thought which had leaped up in their minds that day. Each felt an unwonted shyness about it, perhaps because it had been so bold; but it had been in each mind, and hidden though it was, it remained furtively in both.

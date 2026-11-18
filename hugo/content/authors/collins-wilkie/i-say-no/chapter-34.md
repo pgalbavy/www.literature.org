@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - In The Dark"
 weight: 34
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-34.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-34.html"
 ---
 
 A week later, Alban Morris happened to be in Miss Ladd's study, with a report to make on the subject of his drawing-class. Mrs. Ellmother interrupted them for a moment. She entered the room to return a book which Francine had borrowed that morning.

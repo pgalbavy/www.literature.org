@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Voluntary"
 weight: 3
-aliases:
-  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-03.html"
+url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-03.html"
 ---
 
 Mr. Eustace Vernon is not by any error to be imagined as a villain of the deepest dye, coldly planning to bring misery to a simple village maiden for his own selfish pleasure. Not at all. As he himself would have put it, he meant no harm to the girl. He was a master of two arts, and to these he had devoted himself wholly. One was the art of painting. But one cannot paint for all the hours there are. In the intervals of painting Vernon always sought to exercise his other art. One is limited, of course, by the possibilities, but he liked to have always at least one love affair on hand. And just now there were none - none at least possessing the one charm that irresistibly drew him - newness. The one or two affairs that dragged on merely meant letter writing, and he hated writing letters almost as much as he hated reading them.

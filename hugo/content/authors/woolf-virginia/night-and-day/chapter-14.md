@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/woolf-virginia/night-and-day/chapter-14.html"
+url: "/authors/woolf-virginia/night-and-day/chapter-14.html"
 ---
 
 Mr. Clacton was in his glory. The machinery which he had perfected and controlled was now about to turn out its bi-monthly product, a committee meeting; and his pride in the perfect structure of these assemblies was great. He loved the jargon of committee-rooms; he loved the way in which the door kept opening as the clock struck the hour, in obedience to a few strokes of his pen on a piece of paper; and when it had opened sufficiently often, he loved to issue from his inner chamber with documents in his hands, visibly important, with a preoccupied expression on his face that might have suited a Prime Minister advancing to meet his Cabinet. By his orders the table had been decorated beforehand with six sheets of blotting-paper, with six pens, six ink-pots, a tumbler and a jug of water, a bell, and, in deference to the taste of the lady members, a vase of hardy chrysanthemums. He had already surreptitiously straightened the sheets of blotting-paper in relation to the ink-pots, and now stood in front of the fire engaged in conversation with Miss Markham. But his eye was on the door, and when Mary and Mrs. Seal entered, he gave a little laugh and observed to the assembly which was scattered about the room:

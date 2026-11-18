@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Fatty Finds The Moon"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-17.html"
 ---
 
 Wandering through the woods one day, Fatty Coon's bright eyes caught a strange gleam from something--something that shone and glittered out of the green. Fatty wanted to see what it was, though he hardly thought it was anything to eat. But whenever he came upon something new he always wanted to examine it. So now Fatty hurried to see what the strange thing was.

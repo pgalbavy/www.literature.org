@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Shoshone Callers"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-14.html"
 ---
 
 *THE* torrent loosed by the cloudburst steadily grew less and less, and at the end of two hours the stream had shrunk almost to its former insignificant proportions. The boys might have returned to the site of the camp and remained in safety until morning, but they had no inclination to do so. Indeed, it would have been hard to identify the spot, for the grass everywhere lay as flat as if a mountainous roller had pressed it down. Here and there could be dimly seen the trees, some shorn of their limbs, so that they were like so many logs, twisted and pronged stumps and, strange as it may seem, boulders weighing in some instances several tons, lay where they had been flung by the raging waters.

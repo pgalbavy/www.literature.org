@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 17"
 weight: 17
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-02-chapter-17.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-02-chapter-17.html"
 ---
 
 The Collector had watched the arrest from the interior of the waiting-room, and throwing open its perforated doors of zinc, he was now revealed like a god in a shrine. When Fielding entered the doors clapped to, and were guarded by a servant, while a punkah, to mark the importance of the moment, flapped dirty petticoats over their heads. The Collector could not speak at first. His face was white, fanatical, and rather beautiful—the expression that all English faces were to wear at Chandrapore for many days. Always brave and unselfish, he was now fused by some white and generous heat; he would have killed himself, obviously, if he had thought it right to do so. He spoke at last. “The worst thing in my whole career has happened,” he said. “Miss Quested has been insulted in one of the Marabar caves.”

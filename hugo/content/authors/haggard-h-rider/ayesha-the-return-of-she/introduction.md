@@ -1,8 +1,7 @@
 ---
 title: "Introduction"
 weight: 1
-aliases:
-  - "/authors/haggard-h-rider/ayesha-the-return-of-she/introduction.html"
+url: "/authors/haggard-h-rider/ayesha-the-return-of-she/introduction.html"
 ---
 
 DEDICATION

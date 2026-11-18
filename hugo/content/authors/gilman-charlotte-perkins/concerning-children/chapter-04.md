@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Burnt Child Dreads The Slipper"
 weight: 4
-aliases:
-  - "/authors/gilman-charlotte-perkins/concerning-children/chapter-04.html"
+url: "/authors/gilman-charlotte-perkins/concerning-children/chapter-04.html"
 ---
 
 The question of discipline is a serious one to every young mother; and most mothers are young to begin with. She feels the weight of maternal responsibility and the necessity for bringing up her child properly, but has studied nothing whatever on the subject.

@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 2"
 weight: 36
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-03-chapter-02.html"
+url: "/authors/london-jack/valley-of-the-moon/book-03-chapter-02.html"
 ---
 
 It was a good afternoon's tramp to Niles, passing through the town of Haywards; yet Saxon and Billy found time to diverge from the main county road and take the parallel roads through acres of intense cultivation where the land was farmed to the wheel-tracks. Saxon looked with amazement at these small, brown-skinned immigrants who came to the soil with nothing and yet made the soil pay for itself to the tune of two hundred, of five hundred, and of a thousand dollars an acre.

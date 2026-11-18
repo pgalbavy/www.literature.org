@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Decidedly Mixed"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-17.html"
 ---
 
 During the summer succeeding the carrying away of the bridge which connected Damietta with Moorestown, it was built in a more substantial manner than before. It was an easy matter, therefore, to cross from one place to another, and carriages and pedestrians went back and forth between the two States at almost every hour of the day. Damietta was a large city, while Moorestown was only a small town; but the latter was pleasantly located and had a large and excellent hotel, where quite a number of guests spent the most sultry months of summer.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-15.html"
+url: "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-15.html"
 ---
 
 Before they entered the Court of Honor Meg stopped them both. She was palpitating with excitement.

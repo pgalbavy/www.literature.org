@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Physician And Patient"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-11.html"
 ---
 
 *THUS* the noble black stallion was named. If ever a person felt proud of his prize it was Deerfoot, the Shawanoe. The wild horse had been literally cut out from the herd of which he was monarch and made captive by the dusky youth. The battle between the two was a fair one, and the Indian was the victor, and never was a more striking victory won.

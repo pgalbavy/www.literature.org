@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 32
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-32.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-32.html"
 ---
 
 Major Starland thrust his hand through the window of the pilot house.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/burroughs-edgar-rice/the-land-that-time-forgot/chapter-07.html"
+url: "/authors/burroughs-edgar-rice/the-land-that-time-forgot/chapter-07.html"
 ---
 
 October 8, 1916: This is the last entry I shall make upon my manuscript. When this is done, I shall be through. Though I may pray that it reaches the haunts of civilized man, my better judgment tells me that it will never be perused by other eyes than mine, and that even though it should, it would be too late to avail me. I am alone upon the summit of the great cliff overlooking the broad Pacific. A chill south wind bites at my marrow, while far below me I can see the tropic foliage of Caspak on the one hand and huge icebergs from the near Antarctic upon the other. Presently I shall stuff my folded manuscript into the thermos bottle I have carried with me for the purpose since I left the fort--Fort Dinosaur we named it--and hurl it far outward over the cliff-top into the Pacific. What current washes the shore of Caprona I know not; whither my bottle will be borne I cannot even guess; but I have done all that mortal man may do to notify the world of my whereabouts and the dangers that threaten those of us who remain alive in Caspak--if there be any other than myself.

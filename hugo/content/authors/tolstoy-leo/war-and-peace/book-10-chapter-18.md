@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 18"
 weight: 208
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-18.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-18.html"
 ---
 
 When Pierre returned home he was handed two of Rostopchin's broadsheets that had been brought that day.

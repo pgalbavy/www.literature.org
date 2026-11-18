@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-31.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-31.html"
 ---
 
 When she was alone Joan sat and gazed not at her wall but at the pictures that came back to her out of a part of her life which seemed to have been lived centuries ago. They were the pictures that came back continually without being called, the clearness of which always startled her afresh. Sometimes she thought they sprang up to add to her torment, but sometimes it seemed as if they came to save her from herself--her mad, wicked self. After all, there were moments when to know that she had been the girl whose eighteen-year-old heart had leaped so when she turned and met Jem's eyes, as he stood gazing at her under the beech-tree, was something to cling to. She had been that girl and Jem had been--Jem. And she had been the girl who had joined him in that young, ardent vow that they would say the same prayers at the same hour each night together. Ah! how young it had been--how YOUNG! Her throat strained itself because sobs rose in it, and her eyes were hot with the swell of tears.

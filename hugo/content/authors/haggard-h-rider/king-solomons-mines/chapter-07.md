@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Solomon's Road"
 weight: 8
-aliases:
-  - "/authors/haggard-h-rider/king-solomons-mines/chapter-07.html"
+url: "/authors/haggard-h-rider/king-solomons-mines/chapter-07.html"
 ---
 
 Outside the cavern we halted, feeling rather foolish.

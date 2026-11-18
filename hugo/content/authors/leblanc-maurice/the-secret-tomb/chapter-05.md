@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - \"We Will Help You\""
 weight: 5
-aliases:
-  - "/authors/leblanc-maurice/the-secret-tomb/chapter-05.html"
+url: "/authors/leblanc-maurice/the-secret-tomb/chapter-05.html"
 ---
 
 The Count was silent.

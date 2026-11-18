@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Deerfoot"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-24.html"
 ---
 
 When Deerfoot the Shawanoe bade good-by to Jack Carleton and Otto Relstaub, it was with the declaration that they would soon see each other again. Precisely what he meant would be hard to say; but probably it implied that he would take pains in the near future to make them a visit when they should be settled in their own log-cabins at home.

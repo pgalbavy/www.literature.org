@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Volcanic Evidence"
 weight: 8
-aliases:
-  - "/authors/lawrence-david-herbert/the-kangaroo/chapter-08.html"
+url: "/authors/lawrence-david-herbert/the-kangaroo/chapter-08.html"
 ---
 
 Richard Lovat Somers registered a new vow: not to take things with too overwhelming an amount of emotional seriousness, but to accept everything that came along with a certain sang froid, and not to sit frenziedly in judgment before he had heard the case. He had come to the end of his own tether, so why should he go off into tantrums if other folks strayed about with the broken bits of their tethers trailing from their ankles? Is it better to be savagely tugging at the end of your rope, or to wander at random tetherless? Matter of choice!

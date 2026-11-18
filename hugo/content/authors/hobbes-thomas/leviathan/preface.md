@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/hobbes-thomas/leviathan/preface.html"
+url: "/authors/hobbes-thomas/leviathan/preface.html"
 ---
 
 By Thomas Hobbes of Malmesbury.

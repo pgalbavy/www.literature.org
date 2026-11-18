@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Roadside Meeting"
 weight: 1
-aliases:
-  - "/authors/ostrander-isabel/anything-once/chapter-01.html"
+url: "/authors/ostrander-isabel/anything-once/chapter-01.html"
 ---
 
 The white dust, which lay thick upon the wide road between rolling fields of ripened grain, rose in little spirals from beneath the heavy feet of the plodding farm-horses drawing the empty hay-wagon, and had scarcely settled again upon the browning goldenrod and fuzzy milkweed which bordered the rail fences on either side when Ebb Fischel's itinerant butcher-jitney rattled past. Ebb Fischel's eyes were usually as sharp as the bargains he drove, but the dust must have obscured his vision. Otherwise he would have seen the man lying motionless beside the road, with his cap in the ditch and the pitiless sun of harvest-time caking the blood which had streamed from an ugly cut upon his temple.

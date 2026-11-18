@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/london-jack/before-adam/chapter-10.html"
+url: "/authors/london-jack/before-adam/chapter-10.html"
 ---
 
 After we had had out our laugh, Lop-Ear and I curved back in our flight and got breakfast in the blueberry swamp. It was the same swamp to which I had made my first journeys in the world, years before, accompanied by my mother. I had seen little of her in the intervening time. Usually, when she visited the horde at the caves, I was away in the forest. I had once or twice caught glimpses of the Chatterer in the open space, and had had the pleasure of making faces at him and angering him from the mouth of my cave. Beyond such amenities I had left my family severely alone. I was not much interested in it, and anyway I was doing very well by myself.

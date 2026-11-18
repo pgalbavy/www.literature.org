@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Audience"
 weight: 4
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-03.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-03.html"
 ---
 
 M. de Treville was at the moment in rather ill-humor, nevertheless he saluted the young man politely, who bowed to the very ground; and he smiled on receiving D'Artagnan's response, the Bearnese accent of which recalled to him at the same time his youth and his country - a double remembrance which makes a man smile at all ages; but stepping toward the antechamber and making a sign to D'Artagnan with his hand, as if to ask his permission to finish with others before he began with him, he called three times, with a louder voice at each time, so that he ran through the intervening tones between the imperative accent and the angry accent.

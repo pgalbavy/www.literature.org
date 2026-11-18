@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Conclusion"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-18.html"
 ---
 
 The Wyandot leader seemed to think he could speak the English tongue well enough without asking the help of the warrior who had shown such excellent knowledge of it. Stepping forward in front of the boys, he took the hand of Jack, and said, while the rest kept silence—

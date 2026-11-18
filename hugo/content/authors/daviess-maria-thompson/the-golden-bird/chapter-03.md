@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/daviess-maria-thompson/the-golden-bird/chapter-03.html"
+url: "/authors/daviess-maria-thompson/the-golden-bird/chapter-03.html"
 ---
 
 "Si Beesley? Spare rib, dear?" was his disappointing but hospitable, answer in two return questions to my anxious inquiries about the Pan who had come out of the woods at my need.

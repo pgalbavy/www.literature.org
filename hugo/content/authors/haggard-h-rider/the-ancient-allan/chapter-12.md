@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Slaying Of Idernes"
 weight: 12
-aliases:
-  - "/authors/haggard-h-rider/the-ancient-allan/chapter-12.html"
+url: "/authors/haggard-h-rider/the-ancient-allan/chapter-12.html"
 ---
 
 Whilst I was still talking to my mother I received an urgent summons to the palace. I went and in a little ante-chamber met Amada alone, who, I could see, was waiting there for me. She was arrayed in her secular dress and wore the insignia of royalty, looking exceedingly beautiful. Moreover, her whole aspect had changed, for now she was no longer a priestess sworn to mysteries, but just a lovely and a loving woman.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-22.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-22.html"
 ---
 
 They took Custer down to the village of Ganado, where they had left their cars and obtained horses. Here they left the animals, including the Apache, with instructions that he should be returned to the Rancho del Ganado in the morning.

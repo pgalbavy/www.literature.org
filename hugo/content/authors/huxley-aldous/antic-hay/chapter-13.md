@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/huxley-aldous/antic-hay/chapter-13.html"
+url: "/authors/huxley-aldous/antic-hay/chapter-13.html"
 ---
 
 In spite of the taxi, in spite of the gobbled dinner, they were late. The concert had begun.

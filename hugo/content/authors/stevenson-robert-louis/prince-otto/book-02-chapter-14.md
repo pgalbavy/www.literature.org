@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 14 - Relates The Cause And Outbreak Of The Revolution"
 weight: 20
-aliases:
-  - "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-14.html"
+url: "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-14.html"
 ---
 
 Brave as she was, and brave by intellect, the Princess, when first she was alone, clung to the table for support. The four corners of her universe had fallen. She had never liked nor trusted Gondremark completely; she had still held it possible to find him false to friendship; but from that to finding him devoid of all those public virtues for which she had honoured him, a mere commonplace intriguer, using her for his own ends, the step was wide and the descent giddy. Light and darkness succeeded each other in her brain; now she believed, and now she could not. She turned, blindly groping for the note. But von Rosen, who had not forgotten to take the warrant from the Prince, had remembered to recover her note from the Princess: von Rosen was an old campaigner, whose most violent emotion aroused rather than clouded the vigour of her reason.

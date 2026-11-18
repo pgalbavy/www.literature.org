@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/buck-charles-neville/the-key-to-yesterday/chapter-17.html"
+url: "/authors/buck-charles-neville/the-key-to-yesterday/chapter-17.html"
 ---
 
 In the compartment of the railway carriage, Steele was gazing fixedly at the lace "tidy" on the cushioned back of the opposite seat. His brows were closely knit in thought. He was evolving a plan.

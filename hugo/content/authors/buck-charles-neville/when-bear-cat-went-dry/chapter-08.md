@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-08.html"
+url: "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-08.html"
 ---
 
 Henderson found Brother Fulkerson a preacher who, more by service and example and comforting the disconsolate than by pulpit oratory, held a strong influence upon his people, and commanded their deep devotion.

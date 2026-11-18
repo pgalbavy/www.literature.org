@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Parnassus"
 weight: 5
-aliases:
-  - "/authors/chambers-robert-w/barbarians/chapter-05.html"
+url: "/authors/chambers-robert-w/barbarians/chapter-05.html"
 ---
 
 Brown, squatting cross-legged among the alpine roses, squinted along his level rifle.

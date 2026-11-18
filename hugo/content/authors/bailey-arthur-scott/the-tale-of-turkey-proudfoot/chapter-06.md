@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Mimic"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-06.html"
 ---
 
 Young Master Meadow Mouse had often peeped at Turkey Proudfoot from behind a clump of grass, or a hill of corn. But he had never dared show himself to Turkey Proudfoot. Somehow the old gobbler looked terribly fierce. And he was so big that Master Meadow Mouse didn't like the idea of even saying "Good day!" to him. He had heard Turkey Proudfoot spoken of as a "gobbler." Who knew but that a gobbler would gobble up young Master Meadow Mouse if he had a chance?

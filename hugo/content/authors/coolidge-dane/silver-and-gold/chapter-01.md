@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Ground-Hog"
 weight: 2
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/chapter-01.html"
+url: "/authors/coolidge-dane/silver-and-gold/chapter-01.html"
 ---
 
 The day had dawned on the summit of Apache Leap and a golden eagle, wheeling high above the crags, flashed back the fire of the sun from his wings; but in the valley below where old Pinal lay sleeping the heat had not begun. A cool wind drew down from the black mouth of Queen Creek Canyon, stirring the listless leaves of the willows, and the shadow of the great cliff fell like a soothing hand on the deserted town at its base. In the brief freshness of the morning there was a smell of flaunting green from the sycamores along the creek, and the tang of greasewood from the ridges; and then, from the chimney of a massive stone house, there came the odor of smoke. A coffee mill began to purr from the kitchen behind and a voice shouted a summons to breakfast, but the hobo miner who lay sprawling in his blankets did not answer the peremptory call. He raised his great head, turned his pig eyes toward the house, then covered his face from the flies.

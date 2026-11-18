@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Disappearance Of Mr. Davenheim"
 weight: 9
-aliases:
-  - "/authors/christie-agatha/poirot-investigates/chapter-09.html"
+url: "/authors/christie-agatha/poirot-investigates/chapter-09.html"
 ---
 
 Poirot and I were expecting our old friend Inspector Japp of Scotland Yard to tea. We were sitting round the tea-table awaiting his arrival. Poirot had just finished carefully straightening the cups and saucers which our landlady was in the habit of throwing, rather than placing, on the table. He had also breathed heavily on the metal teapot, and polished it with a silk handkerchief. The kettle was on the boil, and a small enamel saucepan beside it contained some thick, sweet chocolate which was more to Poirot’s palate than what he described as "your English poison." A sharp "rat-tat" sounded below, and a few minutes afterwards Japp entered briskly.

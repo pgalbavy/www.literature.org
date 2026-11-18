@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Redcaps"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-15.html"
 ---
 
 Reddy Woodpecker knew that Mr. Crow would come back to the orchard to ask him another question. The old gentleman simply had to learn more about Reddy’s club.

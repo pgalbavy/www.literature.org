@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/baum-l-frank/tik-tok-of-oz/chapter-08.html"
+url: "/authors/baum-l-frank/tik-tok-of-oz/chapter-08.html"
 ---
 
 While Shaggy and his companions stood huddled in a group at one side, the Army of Oogaboo was approaching along the pathway, the tramp of their feet being now and then accompanied by a dismal groan as one of the officers stepped on a sharp stone or knocked his funnybone against his neighbor's sword-handle.

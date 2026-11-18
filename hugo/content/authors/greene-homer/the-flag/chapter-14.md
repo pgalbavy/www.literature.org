@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/greene-homer/the-flag/chapter-14.html"
+url: "/authors/greene-homer/the-flag/chapter-14.html"
 ---
 
 For twenty-five years there has stood, in one of the faubourgs of Rouen, not far from the right bank of the Seine, a long two-story brick building, with a wing reaching back to the base of the hill. Up to the year 1915 it was used as a factory for the making of silk ribbons. Rouen had been a center of the cotton manufacturing industry from time immemorial. Why therefore should not the making of silk be added? It was added, and the enterprise grew and became prosperous. Then came the war, vast, terrible, bringing in its train suffering, poverty, a drastic curtailment of all the luxuries of life. Silk ribbons are a luxury; they go with soft living. So, then; _voilà tout!_ Before the end of the first year of the conflict the factory was transformed into a hospital. The clatter of looms and the chatter of girls gave place to the moanings of sick and wounded men, and the gentle voices of white and blue clad nurses. It was no longer bales of raw silk that were carted up to the big doors of the factory, and boxes of rolled ribbon that were trundled down the drive to the street, to the warehouses, and thence to the admiring eyes of beauty-loving women. The human freight that was brought to the big doors in these days consisted of the pierced and mutilated bodies of men; soldiers for whom the final taps would soon sound. If they chanced to be of the British troops, and held fast to the spark of life within them, then they were close enough to the seaport to be taken across the channel for final convalescence under English skies.

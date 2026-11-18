@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Nothing But Air"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-07.html"
 ---
 
 OLD Mr. Crow didn't say a single word when Master Meadow Mouse met him face to face in the meadow. But a wicked glitter in Mr. Crow's eyes warned Master Meadow Mouse that there was trouble ahead for him.

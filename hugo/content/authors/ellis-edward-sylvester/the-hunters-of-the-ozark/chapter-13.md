@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Troublesome Visitor"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-13.html"
 ---
 
 There is no reason to discredit the truth of the accounts given by hunters in the west of wild beasts of prodigious activity, strength and ferocity, and that, belonging to no distinct class of animals, are a mixture of the fiercest. Trappers and explorers in the wild regions of the Rocky Mountains, sometimes meet a beast to which they have given the expressive name of "Indian devil," whose power and daring are such that a party of veteran hunters have been known to withdraw from a section frequented by him, simply to avoid a fight. While the stories about them may be exaggerated at times, there is no doubt that such animals exist, and there is good reason to hold them in dread.

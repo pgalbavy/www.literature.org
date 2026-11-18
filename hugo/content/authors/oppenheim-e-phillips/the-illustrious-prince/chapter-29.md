@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - A Race"
 weight: 29
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-29.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-29.html"
 ---
 
 The Prince, on his way back from his usual before-breakfast stroll, lingered for a short time amongst the beds of hyacinths and yellow crocuses. Somehow or other, these spring flowers, stiffly set out and with shrivelled edges--a little reminiscent of the last east wind--still seemed to him, in their perfume at any rate, to being him memories of his own country. Pink and blue and yellow, in all manner of sizes and shapes, the beds spread away along the great front below the terrace of the castle. This morning the wind was coming from the west. The sun, indeed, seemed already to have gained some strength. The Prince sat for a moment or two upon the gray stone balustrade, looking to where the level country took a sudden ascent and ended in a thick belt of pine trees. Beyond lay the sea. As he sat there with folded arms, he was surely a fatalist. The question as to whether or not he should ever reach it, should ever find himself really bound for home, was one which seemed to trouble him slightly enough. He thought with a faint, wistful interest of the various ports of call, of the days which might pass, each one bringing him nearer the end. He suffered himself, even, to think of that faint blur upon the horizon, the breath of the spicy winds, the strange home perfumes of the bay, as he drew nearer and nearer to the outstretched arms of his country. Well, if not he, another! It was something to have done one's best.

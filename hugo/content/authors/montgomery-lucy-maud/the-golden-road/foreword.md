@@ -1,8 +1,7 @@
 ---
 title: "Foreword"
 weight: 1
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/foreword.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/foreword.html"
 ---
 
 "Life was a rose-lipped comrade  With purple flowers dripping from her fingers." The Author

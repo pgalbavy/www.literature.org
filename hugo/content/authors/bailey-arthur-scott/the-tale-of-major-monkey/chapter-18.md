@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Planning A Journey"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-18.html"
 ---
 
 After they learned that Major Monkey was in the habit of going to Farmer Green's henhouse for eggs, the wild folk began to have a better opinion of him once more. So long as he didn't steal birds' eggs they were willing to overlook his stone-throwing--if he didn't throw too many.

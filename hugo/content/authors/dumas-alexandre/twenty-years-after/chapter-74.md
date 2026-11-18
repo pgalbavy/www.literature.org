@@ -1,8 +1,7 @@
 ---
 title: "Chapter 74 - How Musqueton, After Being Very Nearly Roasted, Had A Narrow Escape Of Being Eaten"
 weight: 74
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-74.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-74.html"
 ---
 
 A deep silence reigned for a long time in the boat after the fearful scene described.

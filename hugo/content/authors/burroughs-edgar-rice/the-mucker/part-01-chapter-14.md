@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 14 - The Mucker Sees A New Light"
 weight: 14
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-14.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-14.html"
 ---
 
 TOGETHER the girl and the mucker approached the entrance to the amphitheater. From behind a shoulder of rock they peered down into the forest below them. For several minutes neither saw any cause for alarm.

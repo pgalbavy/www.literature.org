@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Harold Sits In A Game"
 weight: 9
-aliases:
-  - "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-09.html"
+url: "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-09.html"
 ---
 
 When Elizabeth Compton broached to her father the subject of a much-needed rest and a trip to the Orient, he laughed at her. "Why, girl," he cried, "I was never better in my life! Where in the world did you get this silly idea?"

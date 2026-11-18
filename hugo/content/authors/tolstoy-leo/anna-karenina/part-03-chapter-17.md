@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 17"
 weight: 86
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-03-chapter-17.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-03-chapter-17.html"
 ---
 
 The croquet party to which the Princess Tverskaya had invited Anna was to consist of two ladies and their adorers. These two ladies were the chief representatives of a select new Petersburg circle, nicknamed, in imitation of some imitation, les sept merveilles du monde. These ladies belonged to a circle which, though of the highest society, was utterly hostile to that in which Anna moved. Moreover, Stremov, one of the most influential people in Petersburg, and the elderly admirer of Liza Merkalova, was Alexey Alexandrovitch's enemy in the political world. From all these considerations Anna had not meant to go, and the hints in Princess Tverskaya's note referred to her refusal. But now Anna was eager to go, in the hope of seeing Vronsky.

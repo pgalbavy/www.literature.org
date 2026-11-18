@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44 - My Lord And Lady"
 weight: 44
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-44.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-44.html"
 ---
 
 "Please, Madam Mother, could you lend me my wife for half an hour? The luggage has come, and I've been making hay of Amy's Paris finery, trying to find some things I want," said Laurie, coming in the next day to find Mrs. Laurence sitting in her mother's lap, as if being made 'the baby' again.

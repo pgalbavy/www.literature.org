@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/chambers-robert-w/ailsa-paige/chapter-01.html"
+url: "/authors/chambers-robert-w/ailsa-paige/chapter-01.html"
 ---
 
 The butler made an instinctive movement to detain him, but he flung him aside and entered the drawing-room, the servant recovering his equilibrium and following on a run. Light from great crystal chandeliers dazzled him for a moment; the butler again confronted him but hesitated under the wicked glare from his eyes. Then through the brilliant vista, the young fellow caught a glimpse of a dining-room, a table where silver and crystal glimmered, and a great gray man just lowering a glass of wine from his lips to gaze at him with quiet curiosity.

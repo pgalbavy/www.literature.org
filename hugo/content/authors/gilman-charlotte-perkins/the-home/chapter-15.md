@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Home And Social Progress"
 weight: 16
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-home/chapter-15.html"
+url: "/authors/gilman-charlotte-perkins/the-home/chapter-15.html"
 ---
 
 If there is one fact more patent than another in regard to social evolution, it is that our gain is far greater in material progress than in personal. The vast and rapid increase in wealth, in power, in knowledge, in facility and speed in production and distribution; the great spread of political, religious, and educational advantages; all this is in no way equalled by any gain in personal health and personal happiness.

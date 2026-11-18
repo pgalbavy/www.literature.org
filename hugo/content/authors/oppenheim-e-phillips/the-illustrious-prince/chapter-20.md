@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Answer"
 weight: 20
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-20.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-20.html"
 ---
 
 Mr. Coulson moved his cigar into a corner of his mouth, as though to obtain a clear view of his questioner's face. His expression was one of bland interest.

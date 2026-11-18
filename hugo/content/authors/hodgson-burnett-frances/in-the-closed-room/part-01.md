@@ -1,8 +1,7 @@
 ---
 title: "Part 1"
 weight: 2
-aliases:
-  - "/authors/hodgson-burnett-frances/in-the-closed-room/part-01.html"
+url: "/authors/hodgson-burnett-frances/in-the-closed-room/part-01.html"
 ---
 
 In the fierce airless heat of the small square room the child Judith panted as she lay on her bed. Her father and mother slept near her, drowned in the heavy slumber of workers after their day's labour. Some people in the next flat were quarrelling, irritated probably by the appalling heat and their miserable helplessness against it. All the hot emanations of the sun-baked city streets seemed to combine with their clamour and unrest, and rise to the flat in which the child lay gazing at the darkness. It was situated but a few feet from the track of the Elevated Railroad and existence seemed to pulsate to the rush and roar of the demon which swept past the windows every few minutes. No one knew that Judith held the thing in horror, but it was a truth that she did. She was only seven years old, and at that age it is not easy to explain one's self so that older people can understand.

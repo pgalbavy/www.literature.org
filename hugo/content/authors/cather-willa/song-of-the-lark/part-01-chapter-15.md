@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 15"
 weight: 15
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-01-chapter-15.html"
+url: "/authors/cather-willa/song-of-the-lark/part-01-chapter-15.html"
 ---
 
 By the time Thea's fifteenth birthday came round, she was established as a music teacher in Moonstone. The new room had been added to the house early in the spring, and Thea had been giving her lessons there since the middle of May. She liked the personal independence which was accorded her as a wage-earner. The family questioned her comings and goings very little. She could go buggy-riding with Ray Kennedy, for instance, without taking Gunner or Axel. She could go to Spanish Johnny's and sing part songs with the Mexicans, and nobody objected.

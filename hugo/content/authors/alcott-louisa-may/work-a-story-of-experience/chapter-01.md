@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Christie"
 weight: 1
-aliases:
-  - "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-01.html"
+url: "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-01.html"
 ---
 
 CHRISTIE.

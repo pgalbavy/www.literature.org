@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 8"
 weight: 21
-aliases:
-  - "/authors/london-jack/burning-daylight/part-02-chapter-08.html"
+url: "/authors/london-jack/burning-daylight/part-02-chapter-08.html"
 ---
 
 Instead of returning to the city on Monday, Daylight rented the butcher's horse for another day and crossed the bed of the valley to its eastern hills to look at the mine. It was dryer and rockier here than where he had been the day before, and the ascending slopes supported mainly chaparral, scrubby and dense and impossible to penetrate on horseback. But in the canyons water was plentiful and also a luxuriant forest growth. The mine was an abandoned affair, but he enjoyed the half-hour's scramble around. He had had experience in quartz-mining before he went to Alaska, and he enjoyed the recrudescence of his old wisdom in such matters. The story was simple to him: good prospects that warranted the starting of the tunnel into the sidehill; the three months' work and the getting short of money; the lay-off while the men went away and got jobs; then the return and a new stretch of work, with the "pay" ever luring and ever receding into the mountain, until, after years of hope, the men had given up and vanished. Most likely they were dead by now, Daylight thought, as he turned in the saddle and looked back across the canyon at the ancient dump and dark mouth of the tunnel.

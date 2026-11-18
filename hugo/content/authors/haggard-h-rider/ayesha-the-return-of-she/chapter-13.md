@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Beneath The Shadowing Wings"
 weight: 14
-aliases:
-  - "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-13.html"
+url: "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-13.html"
 ---
 
 One by one the terrified tribesmen crept away. When the last of them were gone the priest advanced to Leo and saluted him by placing his hand upon his forehead.

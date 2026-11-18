@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - On Mount Parnassus"
 weight: 15
-aliases:
-  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-15.html"
+url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-15.html"
 ---
 
 At Long Barton the Reverend Cecil had strayed into Betty's room, now no longer boudoir and bedchamber, but just a room, swept, dusted, tidy, with the horrible tidiness of a room that is not used. There were squares of bright yellow on the dull drab of the wall-paper, marking the old hanging places of the photographs and pictures that Betty had taken to Paris. He opened the cupboard door: one or two faded skirts, a flattened garden hat and a pair of Betty's old shoes. He shut the door again quickly, as though he had seen Betty's ghost.

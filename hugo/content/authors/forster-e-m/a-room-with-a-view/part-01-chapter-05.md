@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 5 - Possibilities Of A Pleasant Outing"
 weight: 5
-aliases:
-  - "/authors/forster-e-m/a-room-with-a-view/part-01-chapter-05.html"
+url: "/authors/forster-e-m/a-room-with-a-view/part-01-chapter-05.html"
 ---
 
 It was a family saying that “you never knew which way Charlotte Bartlett would turn.” She was perfectly pleasant and sensible over Lucy’s adventure, found the abridged account of it quite adequate, and paid suitable tribute to the courtesy of Mr. George Emerson. She and Miss Lavish had had an adventure also. They had been stopped at the Dazio coming back, and the young officials there, who seemed impudent and desoeuvre, had tried to search their reticules for provisions. It might have been most unpleasant. Fortunately Miss Lavish was a match for any one.

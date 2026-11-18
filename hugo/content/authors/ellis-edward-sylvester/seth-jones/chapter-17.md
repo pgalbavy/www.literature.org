@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Encompassed By Danger"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/seth-jones/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/seth-jones/chapter-17.html"
 ---
 
 At the first warning of Haldidge, Haverland comprehended the threatened danger in an instant. Catching Ina in his arms, he sprang into the wood, sheltering himself behind a tree so quickly that Ina, till that moment, did not comprehend the meaning of the startling movements around her.

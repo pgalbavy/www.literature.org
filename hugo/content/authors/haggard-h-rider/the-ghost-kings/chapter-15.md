@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Rachel Comes Home"
 weight: 16
-aliases:
-  - "/authors/haggard-h-rider/the-ghost-kings/chapter-15.html"
+url: "/authors/haggard-h-rider/the-ghost-kings/chapter-15.html"
 ---
 
 As Rachel had travelled up from the Tugela to the Great Place, so she travelled back from the Great Place to the Tugela in state and dignity such as became a thing divine, perhaps the first white woman, moreover, who had ever entered Zululand. All day she rode alone, Tamboosa leading the white ox before her and Richard following behind, while in front and to the rear marched the serried ranks of the impi, her escort. At night, as before, she slept alone in the empty kraals provided for her, attended by the best-born maidens, Richard being lodged in some hut without the fence.

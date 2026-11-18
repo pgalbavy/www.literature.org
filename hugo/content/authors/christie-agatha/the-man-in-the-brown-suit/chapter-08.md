@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-08.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-08.html"
 ---
 
 _(Extracts from the diary of Sir Eustace Pedler, M.P.)_

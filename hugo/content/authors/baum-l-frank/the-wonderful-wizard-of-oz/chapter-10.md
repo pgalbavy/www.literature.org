@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Guardian of the Gate "
 weight: 11
-aliases:
-  - "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-10.html"
+url: "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-10.html"
 ---
 
 It was some time before the Cowardly Lion awakened, for he had lain among the poppies a long while, breathing in their deadly fragrance; but when he did open his eyes and roll off the truck he was very glad to find himself still alive.

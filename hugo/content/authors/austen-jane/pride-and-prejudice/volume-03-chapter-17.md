@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 17"
 weight: 59
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-17.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-17.html"
 ---
 
 "My dear Lizzy, where can you have been walking to?" was a question which Elizabeth received from Jane as soon as she entered the room, and from all the others when they sat down to table. She had only to say in reply, that they had wandered about, till she was beyond her own knowledge. She coloured as she spoke; but neither that, nor any thing else, awakened a suspicion of the truth.

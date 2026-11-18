@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Guns Crash"
 weight: 21
-aliases:
-  - "/authors/titus-harold/i-conquered/chapter-21.html"
+url: "/authors/titus-harold/i-conquered/chapter-21.html"
 ---
 
 Out in the shadow of the building three men huddled close together, talking in whispers--Rhues, Matson, and the Mexican. Rhues had watched the progress of the poker game, waiting the chance he had tried to seek out ever since that day up at Avery's when he had been beaten down by the flailing fists of that tall young tenderfoot. He had seen VB start for the bar; he knew the hour had struck.

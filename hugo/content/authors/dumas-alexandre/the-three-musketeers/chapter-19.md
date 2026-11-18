@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Plan Of Campaign"
 weight: 20
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-19.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-19.html"
 ---
 
 D'Artagnan went straight to M. de Treville's. He had reflected that in a few minutes the cardinal would be warned by this cursed stranger, who appeared to be his agent, and he judged, with reason, he had not a moment to lose.

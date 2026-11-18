@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Counterplot"
 weight: 13
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-13.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-13.html"
 ---
 
 "The low-down, ornery liar!" sputtered Bud Jessup, face flushed and eyes snapping. "He told me to wait for them bolts if I had to stay here all day. I thought it was kinda funny he'd let me waste all this time, but I didn't have no idea at all he'd got me out of the way a-purpose to put across that dirty deal. Why, the rotten son-of-a--"

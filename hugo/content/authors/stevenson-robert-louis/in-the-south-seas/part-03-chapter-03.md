@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 3 - Around Our House"
 weight: 24
-aliases:
-  - "/authors/stevenson-robert-louis/in-the-south-seas/part-03-chapter-03.html"
+url: "/authors/stevenson-robert-louis/in-the-south-seas/part-03-chapter-03.html"
 ---
 
 When we left the palace we were still but seafarers ashore; and within the hour we had installed our goods in one of the six foreign houses of Butaritari, namely, that usually occupied by Maka, the Hawaiian missionary. Two San Francisco firms are here established, Messrs. Crawford and Messrs. Wightman Brothers; the first hard by the palace of the mid town, the second at the north entry; each with a store and bar-room. Our house was in the Wightman compound, betwixt the store and bar, within a fenced enclosure. Across the road a few native houses nestled in the margin of the bush, and the green wall of palms rose solid, shutting out the breeze. A little sandy cove of the lagoon ran in behind, sheltered by a verandah pier, the labour of queens’ hands. Here, when the tide was high, sailed boats lay to be loaded; when the tide was low, the boats took ground some half a mile away, and an endless series of natives descended the pier stair, tailed across the sand in strings and clusters, waded to the waist with the bags of copra, and loitered backward to renew their charge. The mystery of the copra trade tormented me, as I sat and watched the profits drip on the stair and the sands.

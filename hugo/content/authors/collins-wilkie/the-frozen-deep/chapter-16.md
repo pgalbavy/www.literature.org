@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/collins-wilkie/the-frozen-deep/chapter-16.html"
+url: "/authors/collins-wilkie/the-frozen-deep/chapter-16.html"
 ---
 
 Once more the open sea--the sea whose waters break on the shores of Newfoundland! An English steamship lies at anchor in the offing. The vessel is plainly visible through the open doorway of a large boat-house on the shore--one of the buildings attached to a fishing-station on the coast of the island.

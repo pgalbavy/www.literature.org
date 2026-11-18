@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Gardener"
 weight: 21
-aliases:
-  - "/authors/chambers-robert-w/barbarians/chapter-21.html"
+url: "/authors/chambers-robert-w/barbarians/chapter-21.html"
 ---
 
 A week later, toward noon, as usual, the two American, muleteers, Smith and Glenn, sauntered over from their corral to the White Doe Tavern where, it being a meatless day, they ate largely of potato soup and of a tench, smoking hot.

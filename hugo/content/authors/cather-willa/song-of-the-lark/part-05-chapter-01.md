@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 1"
 weight: 46
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-05-chapter-01.html"
+url: "/authors/cather-willa/song-of-the-lark/part-05-chapter-01.html"
 ---
 
 DR. HOWARD ARCHIE had come down to Denver for a meeting of the stockholders in the San Felipe silver mine. It was not absolutely necessary for him to come, but he had no very pressing cases at home. Winter was closing down in Moonstone, and he dreaded the dullness of it. On the 10th day of January, therefore, he was registered at the Brown Palace Hotel. On the morning of the 11th he came down to breakfast to find the streets white and the air thick with snow. A wild northwester was blowing down from the mountains, one of those beautiful storms that wrap Denver in dry, furry snow, and make the city a loadstone to thousands of men in the mountains and on the plains. The brakemen out on their box-cars, the miners up in their diggings, the lonely homesteaders in the sand hills of Yucca and Kit Carson Counties, begin to think of Denver, muffled in snow, full of food and drink and good cheer, and to yearn for her with that admiration which makes her, more than other American cities, an object of sentiment.

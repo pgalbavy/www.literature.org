@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/cooper-courtney-ryley/the-white-desert/chapter-04.html"
+url: "/authors/cooper-courtney-ryley/the-white-desert/chapter-04.html"
 ---
 
 The simple statement of the gigantic trapper swept the confidence from Houston and left him at a disadvantage. His decision had been a hasty one,--a thing to gain time, a scheme by which he had felt he could, at the proper time, take Thayer off his guard and cause him to come into the open with his plans, whatever they might be. Fate had played a strange game with Barry Houston. It had taken a care-free, happy-go-lucky youth and turned him into a suspicious, distrustful person with a constantly morbid strain which struggled everlastingly for supremacy over his usually cheery grin and his naturally optimistic outlook upon life. For Fate had allowed Houston to live the youth of his life in ease and brightness and lack of worry, only that it might descend upon him with the greatest cloud that man can know. And two years of memories, two years of bitterness, two years of ugly recollections had made its mark. In all his dealings with Thayer, conducted though they might have been at a distance, Barry Houston could not place his finger upon one tangible thing that would reveal his crookedness. But he had suspected; had come to investigate, and to learn, even before he was ready to receive the information, that his suspicions had been, in some wise at least, correct. To follow those suspicions to their stopping place Barry had feigned amnesia. And it had lasted just long enough for this grinning man who stood at the foot of the bed to tickle his feet!

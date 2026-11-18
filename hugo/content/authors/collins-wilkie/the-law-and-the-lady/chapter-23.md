@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - My Mother-In-Law Surprises Me"
 weight: 23
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-23.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-23.html"
 ---
 
 I TOOK a chair at a respectful distance from the sofa on which Mrs. Macallan seated herself. The old lady smiled, and beckoned to me to take my place by her side. Judging by appearances, she had certainly not come to see me in the character of an enemy. It remained to be discovered I whether she were really disposed to be my friend.

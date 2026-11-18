@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43 - Wherein Is Shown How The Artful Dodger Got Into Trouble"
 weight: 43
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-43.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-43.html"
 ---
 
 'And so it was you that was your own friend, was it?' asked Mr. Claypole, otherwise Bolter, when, by virtue of the compact entered into between them, he had removed next day to Fagin's house. ''Cod, I thought as much last night!'

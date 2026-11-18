@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Uncle Jerry Chuck"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-10.html"
 ---
 
 Not only Mr. Woodchuck, but his friends as well, were angry with Billy, because he forgot to whistle a warning to them, when dog Spot caught them in the clover-patch. And whenever they met Billy Woodchuck anywhere they would scold at him, and tell him that he was a heedless, careless boy.

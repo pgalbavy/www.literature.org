@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - In Ranger Uniform"
 weight: 13
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-13.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-13.html"
 ---
 
 “Speaking about sleep,” Ben observed, as Kit made the remark that he never expected to get any more, “reminds me that we can’t go on like this forever. It will soon be daylight, now, and the chances are that the fellow in the other flying machine will lie low for a time for the same reason that we shall. In other words, he won’t want to attract undue attention by hovering over the mountains in plain sight of forest rangers and tourists.”

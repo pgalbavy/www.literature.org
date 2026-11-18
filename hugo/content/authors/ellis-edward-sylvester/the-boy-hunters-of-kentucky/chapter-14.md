@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Signal And Its Reply"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-14.html"
 ---
 
 You will remember that when the three boys separated with the purpose of finding out who started the camp fire, Will went to the right and Jack to the left.

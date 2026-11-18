@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Ship Recovered"
 weight: 18
-aliases:
-  - "/authors/defoe-daniel/robinson-crusoe/chapter-18.html"
+url: "/authors/defoe-daniel/robinson-crusoe/chapter-18.html"
 ---
 
 WHILE we were thus preparing our designs, and had first, by main strength, heaved the boat upon the beach, so high that the tide would not float her off at high-water mark, and besides, had broke a hole in her bottom too big to be quickly stopped, and were set down musing what we should do, we heard the ship fire a gun, and make a waft with her ensign as a signal for the boat to come on board - but no boat stirred; and they fired several times, making other signals for the boat. At last, when all their signals and firing proved fruitless, and they found the boat did not stir, we saw them, by the help of my glasses, hoist another boat out and row towards the shore; and we found, as they approached, that there were no less than ten men in her, and that they had firearms with them.

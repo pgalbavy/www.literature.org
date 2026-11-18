@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - A Strange Story"
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-27.html"
 ---
 
 The amazement of Jack Carleton, when he recognized the figure before him, was beyond description. It was Otto Relstaub—the same honest German lad from whom he parted weeks previous when the two were captives in the hands of the wandering Sauks, the divisions of which took such different directions. It was the same lad—the only noticeable difference being that he was bareheaded and his garments were much frayed and torn. He held his gun in his right hand, the stock resting on the ground, while he looked with a half-inquiring expression, as if doubting the identity of the young Kentuckian who had come such a distance to help restore him to his friends. But a second stare satisfied both, and rushing toward each other, they shook hands, laughed and cried for very joy, their expressions disjointed and only clear in their evidence of the delight which overflowed in their hearts.

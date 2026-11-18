@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Jack Halloway Again"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-25.html"
 ---
 
 The man was quick-witted. The words and the frenzied gestures told a story which he understood. Standing close to the edge of the stream, he peered into it and caught sight of a white face, loosely flapping limbs and the helpless drift of a human being, borne toward him with the speed of a race horse. The top of the bank was so near the surface that the man dropped on his face, so as to be able to reach forward and downward to the foaming torrent.

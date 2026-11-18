@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-01.html"
+url: "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-01.html"
 ---
 
 In the Country of the Gillikins, which is at the North of the Land of Oz, lived a youth called Tip. There was more to his name than that, for old Mombi often declared that his whole name was Tippetarius; but no one was expected to say such a long word when "Tip" would do just as well.

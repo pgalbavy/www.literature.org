@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Locked Room"
 weight: 2
-aliases:
-  - "/authors/leblanc-maurice/the-woman-of-mystery/chapter-02.html"
+url: "/authors/leblanc-maurice/the-woman-of-mystery/chapter-02.html"
 ---
 
 The carriage stood waiting for them a little way ahead. They had sat down by the roadside on reaching the upland at the top of the ascent. The green, undulating valley of the Liseron opened up before them, with its little winding river escorted by two white roads which followed its every turn. Behind them, under the setting sun, some three hundred feet below, lay the clustering mass of Corvigny. Two miles in front of them rose the turrets of Ornequin and the ruins of the old castle.

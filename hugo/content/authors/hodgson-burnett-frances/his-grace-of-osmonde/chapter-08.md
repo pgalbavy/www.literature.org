@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - In Which My Lady Betty Tantillion Writes Of A Scandal"
 weight: 9
-aliases:
-  - "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-08.html"
+url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-08.html"
 ---
 
 Scarce two years later, King William riding in the park at Hampton Court was thrown from his horse--the animal stumbling over a mole-hill--and his collar-bone broken. A mole-hill seems but a small heap of earth to send a King to moulder beneath a heap of earth himself, but the fall proved fatal to a system which had long been weakening, and a few days later his Majesty died, commending my Lord Marlborough to the Princess Anne as the guide and counsellor on whose wisdom and power she might most safely rely. Three days after the accession his Lordship was made Captain-General of the English army, and intrusted with power over all warlike matters both at home and abroad. 'Twas a moment of tremendous import--the Alliance shaken by King William's death, Holland panic-stricken lest England should withdraw her protection, King Louis boasting that "henceforth there were no Pyrenees," Whigs and Tories uncertain whether or not to sheath weapons in England, small sovereigns and great ones ready to spring at each other's throats on the Continent. Boldness was demanded, and such executive ability as only a brilliantly daring mind could supply. Without hesitation all power was given into the hands of the man who seemed able to command the Fates themselves. My Lord Marlborough could soothe the fretted vanity of a petty German Prince, he could confront with composure the stupid rancour of those who could not comprehend him, in the most wooden of heavy Dutchmen he could awaken a slow understanding, the most testy royal temper he knew how to appease, and, through all, wear an air of dignity and grace, sometimes even of sweetness.

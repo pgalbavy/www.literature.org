@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 25
-aliases:
-  - "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-24.html"
+url: "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-24.html"
 ---
 
 When the wonderful tidings reached the ears of Queen Jinjur -- how Mombi the Witch had been captured; how she had confessed her crime to Glinda; and how the long-lost Princess Ozma had been discovered in no less a personage than the boy Tip -- she wept real tears of grief and despair.

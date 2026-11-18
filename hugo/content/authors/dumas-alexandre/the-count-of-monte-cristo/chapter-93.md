@@ -1,8 +1,7 @@
 ---
 title: "Chapter 93 - Valentine"
 weight: 93
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-93.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-93.html"
 ---
 
 We may easily conceive where Morrel's appointment was. On leaving Monte Cristo he walked slowly towards Villefort's; we say slowly, for Morrel had more than half an hour to spare to go five hundred steps, but he had hastened to take leave of Monte Cristo because he wished to be alone with his thoughts. He knew his time well - the hour when Valentine was giving Noirtier his breakfast, and was sure not to be disturbed in the performance of this pious duty. Noirtier and Valentine had given him leave to go twice a week, and he was now availing himself of that permission. He had arrived; Valentine was expecting him. Uneasy and almost crazed, she seized his hand and led him to her grandfather. This uneasiness, amounting almost to frenzy, arose from the report Morcerf's adventure had made in the world, for the affair at the opera was generally known. No one at Villefort's doubted that a duel would ensue from it. Valentine, with her woman's instinct, guessed that Morrel would be Monte Cristo's second, and from the young man's well-known courage and his great affection for the count, she feared that he would not content himself with the passive part assigned to him. We may easily understand how eagerly the particulars were asked for, given, and received; and Morrel could read an indescribable joy in the eyes of his beloved, when she knew that the termination of this affair was as happy as it was unexpected.

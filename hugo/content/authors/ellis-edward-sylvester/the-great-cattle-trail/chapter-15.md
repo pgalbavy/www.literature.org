@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Vanished"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-15.html"
 ---
 
 It was a startling sight, when Captain Shirril, stretched at full length on the roof of his cabin, gazed in front of him and saw the head and shoulders of a Comanche Indian slowly rise to view at the corner of the eaves.

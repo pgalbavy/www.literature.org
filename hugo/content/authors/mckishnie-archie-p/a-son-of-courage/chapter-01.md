@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Billy Wilson's Strategy"
 weight: 1
-aliases:
-  - "/authors/mckishnie-archie-p/a-son-of-courage/chapter-01.html"
+url: "/authors/mckishnie-archie-p/a-son-of-courage/chapter-01.html"
 ---
 
 Mrs. Wilson lit the coal-oil lamp and placed it in the center of the kitchen table; then she turned toward the door, her head half bent in a listening attitude.

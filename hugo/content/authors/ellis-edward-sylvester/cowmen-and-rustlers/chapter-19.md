@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Burned Ranch"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-19.html"
 ---
 
 Meanwhile Monteith Sterry was making the best of his opportunity.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Contest"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-04.html"
 ---
 
 "MY cousin, Jasper Jay, has kindly consented to ask us some questions," Mr. Crow informed Daddy Longlegs. "And he will decide which of us makes the wiser answers."

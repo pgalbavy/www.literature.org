@@ -1,8 +1,7 @@
 ---
 title: "Chapter 46"
 weight: 46
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-46.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-46.html"
 ---
 
 Marianne's illness, though weakening in its kind, had not been long enough to make her recovery slow; and with youth, natural strength, and her mother's presence in aid, it proceeded so smoothly as to enable her to remove, within four days after the arrival of the latter, into Mrs. Palmer's dressing-room. When there, at her own particular request, for she was impatient to pour forth her thanks to him for fetching her mother, Colonel Brandon was invited to visit her.

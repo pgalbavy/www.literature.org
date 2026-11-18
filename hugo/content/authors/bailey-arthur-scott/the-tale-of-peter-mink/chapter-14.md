@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Uncle Jerry Helps"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-14.html"
 ---
 
 The concert given by the Grouse boys and the Woodchuck brothers came to an end early. Billy Woodchuck, who was one of the fifers--because he was such a good whistler--made a short speech.

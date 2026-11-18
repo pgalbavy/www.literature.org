@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - An Alarming Situation"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-03.html"
 ---
 
 The boldness of the proposition fairly took away the breath of the honest sailor. He stared at Rob as though doubting whether he had heard aright. He looked at the smiling youth from head to foot, and stared a full minute before he spoke.

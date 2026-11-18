@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42"
 weight: 42
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-42.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-42.html"
 ---
 
 "Wenn es eine Stutenleiter von Leiden giebt, so hat Israel die höchste Staffel erstiegen; wen die Dauer der Schmerzen und die Geduld, mit welcher sie ertragen werden, adeln, so nehmen es die Juden mit den Hochgeborenen aller Länder auf; wenn eine Literatur reich genannt wird, die wenige klassische Trauerspiele besitzt, welcher Platz gebührt dann einer Tragodie die anderthalb Jahrtausende wahrt, gedichtet und dargestellt von den Helden selber?" - ZUNZ: _Die Synagogale Poesie des Mittelalters._

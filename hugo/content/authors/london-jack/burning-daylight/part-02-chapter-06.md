@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 6"
 weight: 19
-aliases:
-  - "/authors/london-jack/burning-daylight/part-02-chapter-06.html"
+url: "/authors/london-jack/burning-daylight/part-02-chapter-06.html"
 ---
 
 Not being favored by chance in getting acquainted with Dede Mason, Daylight's interest in her slowly waned. This was but natural, for he was plunged deep in hazardous operations, and the fascinations of the game and the magnitude of it accounted for all the energy that even his magnificent organism could generate.

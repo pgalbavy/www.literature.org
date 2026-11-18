@@ -1,8 +1,7 @@
 ---
 title: "Book 14 - Chapter 10"
 weight: 308
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-14-chapter-10.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-14-chapter-10.html"
 ---
 
 Having returned to the watchman's hut, Petya found Denisov in the passage. He was awaiting Petya's return in a state of agitation, anxiety, and self-reproach for having let him go.

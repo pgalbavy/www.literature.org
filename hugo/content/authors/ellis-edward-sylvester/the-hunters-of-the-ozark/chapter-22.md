@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - \"Keep To The Trail\""
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-22.html"
 ---
 
 It was an interesting scene on which the three youths looked. There were a dozen Winnebago warriors lolling and smoking in camp, while two of their number were preparing their supper, by half-broiling it over the blaze and coals. Fred and Terry stood in silence by the side of Deerfoot, gazing upon the strangers with a curiosity such as no other sight could have inspired.

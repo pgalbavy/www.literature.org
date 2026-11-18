@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 1 - I Become A Combatant Once More"
 weight: 12
-aliases:
-  - "/authors/buchan-john/mr-standfast/part-02-chapter-01.html"
+url: "/authors/buchan-john/mr-standfast/part-02-chapter-01.html"
 ---
 
 I returned to France on 13 September, and took over my old brigade on the 19th of the same month. We were shoved in at the Polygon Wood on the 26th, and after four days got so badly mauled that we were brought out to refit. On 7 October, very much to my surprise, I was given command of a division and was on the fringes of the Ypres fighting during the first days of November. From that front we were hurried down to Cambrai in support, but came in only for the last backwash of that singular battle. We held a bit of the St Quentin sector till just before Christmas, when we had a spell of rest in billets, which endured, so far as I was concerned, till the beginning of January, when I was sent off on the errand which I shall presently relate.

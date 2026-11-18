@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - Gleninch"
 weight: 34
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-34.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-34.html"
 ---
 
 "AHA!" said Benjamin, complacently. "So the lawyer thinks, as I do, that you will be highly imprudent if you go back to Mr. Dexter? A hard-headed, sensible man the lawyer, no doubt. You will listen to Mr. Playmore, won't you, though you wouldn't listen to me?"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Vow Of A Cow"
 weight: 23
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-23.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-23.html"
 ---
 
 All the cows in the barn were much upset. They had heard some news that didn't please them. Farmer Green was going to buy a milking machine!

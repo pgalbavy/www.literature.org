@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43 - Another Retrospect"
 weight: 44
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-43.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-43.html"
 ---
 
 Once again, let me pause upon a memorable period of my life. Let me stand aside, to see the phantoms of those days go by me, accompanying the shadow of myself, in dim procession.

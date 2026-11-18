@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Sheriff Hardenberg Intervenes"
 weight: 26
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-26.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-26.html"
 ---
 
 During that brief lull Buck found time to wonder why no one had sense enough to use a gun to bring them down. But almost as swiftly the answer came to him; they dared not risk the sound of a shot bringing interference from without. He flashed a glance at Bud, who sagged panting against the table, the fragments of a chair in his hands and a trickle of blood running down his face. Somehow the sight of that blood turned Buck into a raging savage.

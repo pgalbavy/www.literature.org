@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-17.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-17.html"
 ---
 
 Lady Anselman stood once more in the foyer of the Ritz Hotel and counted her guests. It was a smaller party this time, and in its way a less distinguished one. There were a couple of officers, friends of Granet's, back from the Front on leave; Lady Conyers, with Geraldine and Olive; Granet himself; and a tall, dark girl with pallid complexion and brilliant eyes, who had come with Lady Anselman and who was standing now by her side.

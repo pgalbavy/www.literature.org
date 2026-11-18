@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Fat Lady's Secret"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-15.html"
 ---
 
 Somehow, the longer Freddie Firefly talked with Jennie Junebug, the more he wished that he might fly off and leave her there in the meadow. But he had just the same as told her that he would be glad to fly with her. And he really didn't see how he could escape that unpleasant duty.

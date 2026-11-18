@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - An Unpleasant Visit"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-16.html"
 ---
 
 IT will be recalled that during these incidents Monteith Sterry and Fred Whitney were sitting at the front of the long, low building, which was the home of the latter, discussing the incidents of the last day or two, as well as the matter of Whitney removing, with his family, to the East, in order to prevent any addition to the affliction they had just suffered.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Dream Of Debs"
 weight: 5
-aliases:
-  - "/authors/london-jack/the-strength-of-the-strong/chapter-05.html"
+url: "/authors/london-jack/the-strength-of-the-strong/chapter-05.html"
 ---
 
 I awoke fully an hour before my customary time. This in itself was remarkable, and I lay very wide awake, pondering over it. Something was the matter, something was wrong - I knew not what. I was oppressed by a premonition of something terrible that had happened or was about to happen. But what was it? I strove to orient myself. I remembered that at the time of the Great Earthquake of 1906 many claimed they awakened some moments before the first shock and that during these moments they experienced strange feelings of dread. Was San Francisco again to be visited by earthquake?

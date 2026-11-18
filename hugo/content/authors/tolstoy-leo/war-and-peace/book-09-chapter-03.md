@@ -1,8 +1,7 @@
 ---
 title: "Book 9 - Chapter 3"
 weight: 170
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-09-chapter-03.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-09-chapter-03.html"
 ---
 
 The Emperor of Russia had, meanwhile, been in Vilna for more than a month. reviewing troops and holding maneuvers. Nothing was ready for the war that everyone expected and to prepare for which the Emperor had come from Petersburg. There was no general plan of action. The vacillation between the various plans that were proposed had even increased after the Emperor had been at headquarters for a month. Each of the three armies had its own commander in chief, but there was no supreme commander of all the forces, and the Emperor did not assume that responsibility himself.

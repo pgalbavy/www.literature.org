@@ -1,8 +1,7 @@
 ---
 title: "Part 2"
 weight: 2
-aliases:
-  - "/authors/coleridge-samuel-taylor/the-rime-of-the-ancient-mariner/part-02.html"
+url: "/authors/coleridge-samuel-taylor/the-rime-of-the-ancient-mariner/part-02.html"
 ---
 
 The Sun now rose upon the right: Out of the sea came he, Still hid in mist, and on the left Went down into the sea.

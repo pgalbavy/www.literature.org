@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 15 - What Was Caught In The Traps That Were Set"
 weight: 65
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-04-chapter-15.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-04-chapter-15.html"
 ---
 
 How Bradley Headstone had been racked and riven in his mind since the quiet evening when by the river-side he had risen, as it were, out of the ashes of the Bargeman, none but he could have told. Not even he could have told, for such misery can only be felt.

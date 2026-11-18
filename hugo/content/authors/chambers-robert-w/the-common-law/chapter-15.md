@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/chambers-robert-w/the-common-law/chapter-15.html"
+url: "/authors/chambers-robert-w/the-common-law/chapter-15.html"
 ---
 
 It was barely daylight when Valerie awoke. She lay perfectly still, listening, remembering, her eyes wandering over the dim, unfamiliar room. Through thin silk curtains a little of the early light penetrated; she heard the ceaseless chorus of the birds, cocks crowing near and far away, the whimpering flight of pigeons around the eaves above her windows, and their low, incessant cooing.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 85 - The Tents"
 weight: 85
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-85.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-85.html"
 ---
 
 The admiral, as we have seen, was determined to pay no further attention to Buckingham's threatening glances and fits of passion. In fact, from the moment they quitted England, he had gradually accustomed himself to his behavior. De Guiche had not yet in any way remarked the animosity which appeared to influence that young nobleman against him, but he felt, instinctively, that there could be no sympathy between himself and the favorite of Charles II. The queen-mother, with greater experience and calmer judgment, perceived the exact position of affairs, and, as she discerned its danger, was prepared to meet it, whenever the proper moment should arrive. Quiet had been everywhere restored, except in Buckingham's heart; he, in his impatience, addressed himself to the princess, in a low tone of voice: "For Heaven's sake, madame, I implore you to hasten your disembarkation. Do you not perceive how that insolent Duke of Norfolk is killing me with his attentions and devotions to you?"

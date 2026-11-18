@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Caravan"
 weight: 2
-aliases:
-  - "/authors/haggard-h-rider/elissa/chapter-01.html"
+url: "/authors/haggard-h-rider/elissa/chapter-01.html"
 ---
 
 The sun, which shone upon a day that was gathered to the past some three thousand years ago, was setting in full glory over the expanses of south-eastern Africa--the Libya of the ancients. Its last burning rays fell upon a cavalcade of weary men, who, together with long strings of camels, asses and oxen, after much toil had struggled to the crest of a line of stony hills, where they were halted to recover breath. Before them lay a plain, clothed with sere yellow grass--for the season was winter--and bounded by mountains of no great height, upon whose slopes stood the city which they had travelled far to seek. It was the ancient city of Zimboe, whereof the lonely ruins are known to us moderns as Zimbabwe.

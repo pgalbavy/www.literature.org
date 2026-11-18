@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Renunciation"
 weight: 26
-aliases:
-  - "/authors/williams-frank/the-wilderness-trail/chapter-26.html"
+url: "/authors/williams-frank/the-wilderness-trail/chapter-26.html"
 ---
 
 "I'm proud of you, lad," were the first words that Donald recognized when he came to himself in the little shed-tent that quick hands had erected.

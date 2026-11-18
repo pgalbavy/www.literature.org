@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Travelling Southward"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-08.html"
 ---
 
 All of Jack Gedney’s doubts and misgivings left him for the time when he caught sight of the cabin of Mr. Burton. The moment he stepped into the clearing, where he could be seen, he was greeted by shouts from Will and George.

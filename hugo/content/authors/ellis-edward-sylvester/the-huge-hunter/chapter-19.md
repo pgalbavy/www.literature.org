@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Doings Of A Night"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-19.html"
 ---
 
 IT *WAS* soon found that the camping ground possessed another advantage which, during the discussion, had been altogether overlooked.

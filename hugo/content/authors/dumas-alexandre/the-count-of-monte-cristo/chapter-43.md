@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43 - The House At Auteuil"
 weight: 43
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-43.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-43.html"
 ---
 
 Monte Cristo noticed, as they descended the staircase, that Bertuccio signed himself in the Corsican manner; that is, had formed the sign of the cross in the air with his thumb, and as he seated himself in the carriage, muttered a short prayer. Any one but a man of exhaustless thirst for knowledge would have had pity on seeing the steward's extraordinary repugnance for the count's projected drive without the walls; but the Count was too curious to let Bertuccio off from this little journey. In twenty minutes they were at Auteuil; the steward's emotion had continued to augment as they entered the village. Bertuccio, crouched in the corner of the carriage, began to examine with a feverish anxiety every house they passed. "Tell them to stop at Rue de la Fontaine, No. 28," said the count, fixing his eyes on the steward, to whom he gave this order. Bertuccio's forehead was covered with perspiration; however, he obeyed, and, leaning out of the window, he cried to the coachman, - "Rue de la Fontaine, No. 28." No. 28 was situated at the extremity of the village; during the drive night had set in, and darkness gave the surroundings the artificial appearance of a scene on the stage. The carriage stopped, the footman sprang off the box, and opened the door. "Well," said the count, "you do not get out, M. Bertuccio - you are going to stay in the carriage, then? What are you thinking of this evening?" Bertuccio sprang out, and offered his shoulder to the count, who, this time, leaned upon it as he descended the three steps of the carriage. "Knock," said the count, "and announce me." Bertuccio knocked, the door opened, and the concierge appeared. "What is it?" asked he.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Marriage By Quetzalcoatl"
 weight: 20
-aliases:
-  - "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-20.html"
+url: "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-20.html"
 ---
 
 Kate hid in her own house, numbed. She could not bear to talk to people. She could not bear even Juana's bubbling discourse. The common threads that bound her to humanity seemed to have snapped. The little human things didn't interest her any more. Her eyes seemed to have gone dark, and blind to individuals. They were all just individuals, like leaves in the dark, making a noise. And she was alone under the trees.

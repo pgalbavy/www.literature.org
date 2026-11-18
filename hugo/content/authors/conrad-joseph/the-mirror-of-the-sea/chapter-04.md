@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-04.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-04.html"
 ---
 
 *BEFORE* an anchor can ever be raised, it must be let go; and this perfectly obvious truism brings me at once to the subject of the degradation of the sea language in the daily press of this country.

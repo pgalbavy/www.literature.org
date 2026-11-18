@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-01.html"
+url: "/authors/forster-e-m/howards-end/chapter-01.html"
 ---
 
 One may as well begin with Helen’s letters to her sister.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Granny Fox Admits Growing Old"
 weight: 13
-aliases:
-  - "/authors/burgess-thornton-w/old-granny-fox/chapter-13.html"
+url: "/authors/burgess-thornton-w/old-granny-fox/chapter-13.html"
 ---
 
 Who will not admit he is older each day  

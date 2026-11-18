@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-19.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-19.html"
 ---
 
 *HARLAN* laughed ruefully and told her that time, tide, and travel failed to alter her. "You don’t change as much as—as much as"—he looked about him for a comparison, and found one ready to hand in the material of which the Shelbys’ veranda was made. "You don’t change as much as this Western limestone does. It’s made of stone, too, but years and weather take its edges off and give it the look of being not so hard as it used to be."

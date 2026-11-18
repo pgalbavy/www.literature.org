@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43 - Of What Is Necessary For A Mans Reception Into The Kingdome Of Heaven."
 weight: 45
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-43.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-43.html"
 ---
 
 The Difficulty Of Obeying God And Man Both At Once, The most frequent praetext of Sedition, and Civill Warre, in Christian Common-wealths hath a long time proceeded from a difficulty, not yet sufficiently resolved, of obeying at once, both God, and Man, then when their Commandements are one contrary to the other. It is manifest enough, that when a man receiveth two contrary Commands, and knows that one of them is Gods, he ought to obey that, and not the other, though it be the command even of his lawfull Soveraign (whether a Monarch, or a Soveraign Assembly,) or the command of his Father. The difficulty therefore consisteth in this, that men when they are commanded in the name of God, know not in divers Cases, whether the command be from God, or whether he that commandeth, doe but abuse Gods name for some private ends of his own. For as there ware in the Church of the Jews, many false Prophets, that sought reputation with the people, by feigned Dreams, and Visions; so there have been in all times in the Church of Christ, false Teachers, that seek reputation with the people, by phantasticall and false Doctrines; and by such reputation (as is the nature of Ambition,) to govern them for their private benefit.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Hero Of Hammerton Street"
 weight: 12
-aliases:
-  - "/authors/ridge-w-pett/mixed-grill/chapter-12.html"
+url: "/authors/ridge-w-pett/mixed-grill/chapter-12.html"
 ---
 
 HE had been away so long that few people remembered him, but his last exploit before leaving ensured that in the minds of those few he remained clear and definite. His wife, when she set out to meet him, was accompanied by a Reception Committee of three, and as they waited outside the large building where he had been staying for the last few months (his hosts kept several important establishments in various parts of the country and he had spent part of the time at one, part at others), as they waited, I say, under the avenue of trees well away from the front door—having, as a point of delicacy, no desire to be seen by the servants about the place—they speculated on the probable improvement in his personal appearance. Members of the Committee recalled precedents where So-and-so went away stout and unhealthy on a vacation of similar length, and came back so trim and brown that his own sweetheart would not have known him had she remained in the neighbourhood.

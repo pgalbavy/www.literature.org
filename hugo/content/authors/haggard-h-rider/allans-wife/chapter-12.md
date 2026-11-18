@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Magic Of Indaba-Zimbi"
 weight: 13
-aliases:
-  - "/authors/haggard-h-rider/allans-wife/chapter-12.html"
+url: "/authors/haggard-h-rider/allans-wife/chapter-12.html"
 ---
 
 We gained the spot by the stream where Stella had been taken. The natives looked at the torn fragments of the dogs, and at the marks of violence, and I heard them swearing to each other, that whether the Star lived or died they would not rest till they had exterminated every baboon on Babyan’s Peak. I echoed the oath, and, as shall be seen, we kept it.

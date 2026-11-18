@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Natural History Of The Selenites"
 weight: 24
-aliases:
-  - "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-24.html"
+url: "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-24.html"
 ---
 
 THE messages of Cavor from the sixth up to the sixteenth are for the most part so much broken, and they abound so in repetitions, that they scarcely form a consecutive narrative. They will be given in full, of course, in the scientific report, but here it will be far more convenient to continue simply to abstract and quote as in the former chapter. We have subjected every word to a keen critical scrutiny, and my own brief memories and impressions of lunar things have been of inestimable help in interpreting what would otherwise have been impenetrably dark. And, naturally, as living beings, our interest centres far more upon the strange community of lunar insects in which he was living, it would seem, as an honoured guest than upon the mere physical condition of their world.

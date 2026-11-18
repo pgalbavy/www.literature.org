@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Romance Of Statistics"
 weight: 15
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-15.html"
+url: "/authors/tarkington-booth/seventeen/chapter-15.html"
 ---
 
 On a warm morning, ten days later, William stood pensively among his mother's flowerbeds behind the house, his attitude denoting a low state of vitality. Not far away, an aged negro sat upon a wheelbarrow in the hot sun, tremulously yet skilfully whittling a piece of wood into the shape of a boat, labor more to his taste, evidently, than that which he had abandoned at the request of Jane. Allusion to this preference for a lighter task was made by Genesis, who was erecting a trellis on the border of the little garden.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/hodgson-burnett-frances/the-white-people/chapter-01.html"
+url: "/authors/hodgson-burnett-frances/the-white-people/chapter-01.html"
 ---
 
 Perhaps the things which happened could only have happened to me. I do not know. I never heard of things like them happening to any one else. But I am not sorry they did happen. I am in secret deeply and strangely glad. I have heard other people say things--and they were not always sad people, either--which made me feel that if they knew what I know it would seem to them as though some awesome, heavy load they had always dragged about with them had fallen from their shoulders. To most people everything is so uncertain that if they could only see or hear and know something clear they would drop upon their knees and give thanks. That was what I felt myself before I found out so strangely, and I was only a girl. That is why I intend to write this down as well as I can. It will not be very well done, because I never was clever at all, and always found it difficult to talk.

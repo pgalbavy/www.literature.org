@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Unquiet Conscience"
 weight: 3
-aliases:
-  - "/authors/greene-homer/the-blind-brother/chapter-03.html"
+url: "/authors/greene-homer/the-blind-brother/chapter-03.html"
 ---
 
 And Tom yielded.

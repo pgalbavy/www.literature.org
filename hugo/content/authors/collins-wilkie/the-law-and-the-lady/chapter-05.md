@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Landlady's Discovery"
 weight: 5
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-05.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-05.html"
 ---
 
 I SAT down, and tried to compose my spirits. Now or never was the time to decide what it was my duty to my husband and my duty to myself to do next.

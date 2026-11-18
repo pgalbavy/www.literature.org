@@ -1,8 +1,7 @@
 ---
 title: "part 06 chapter 08"
 weight: 999
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-06-chapter-08.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-06-chapter-08.html"
 ---
 
 For additional contact information:

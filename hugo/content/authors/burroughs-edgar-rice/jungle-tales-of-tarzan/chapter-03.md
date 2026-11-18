@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Fight for the Balu"
 weight: 3
-aliases:
-  - "/authors/burroughs-edgar-rice/jungle-tales-of-tarzan/chapter-03.html"
+url: "/authors/burroughs-edgar-rice/jungle-tales-of-tarzan/chapter-03.html"
 ---
 
 TEEKA HAD BECOME a mother. Tarzan of the Apes was intensely interested, much more so, in fact, than Taug, the father. Tarzan was very fond of Teeka. Even the cares of prospective motherhood had not entirely quenched the fires of carefree youth, and Teeka had remained a good-natured playmate even at an age when other shes of the tribe of Kerchak had assumed the sullen dignity of maturity. She yet retained her childish delight in the primitive games of tag and hide-and-go-seek which Tarzan's fertile man-mind had evolved.

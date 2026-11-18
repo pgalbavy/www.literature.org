@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Colonel"
 weight: 17
-aliases:
-  - "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-17.html"
+url: "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-17.html"
 ---
 
 TEN years earlier Christie made her début as an Amazon, now she had a braver part to play on a larger stage, with a nation for audience, martial music and the boom of cannon for orchestra; the glare of battle-fields was the "red light;" danger, disease, and death, the foes she was to contend against; and the troupe she joined, not timid girls, but high-hearted women, who fought gallantly till the "demon" lay dead, and sang their song of exultation with bleeding hearts, for this great spectacle was a dire tragedy to them.

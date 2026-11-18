@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Knighting Of The Brethren"
 weight: 4
-aliases:
-  - "/authors/haggard-h-rider/the-brethren/chapter-03.html"
+url: "/authors/haggard-h-rider/the-brethren/chapter-03.html"
 ---
 
 Another month had gone by, and though Godwin was still somewhat weak and suffered from a headache at times, the brethren had recovered from their wounds. On the last day of November, about two o'clock in the afternoon, a great procession might have been seen wending its way from the old Hall at Steeple. In it rode many knights fully armed, before whom were borne their banners. These went first. Then came old Sir Andrew D'Arcy, also fully armed, attended by squires and retainers. He was accompanied by his lovely daughter, the lady Rosamund, clad in beautiful apparel under her cloak of fur, who rode at his right hand on that same horse which had swum Death Creek. Next appeared the brethren, modestly arrayed as simple gentlemen, followed each of them by his squire, scions of the noble houses of Salcote and of Dengie. After them rode yet more knights, squires, tenants of various degree, and servants, surrounded by a great number of peasantry and villeins, who walked and ran with their women folk and children.

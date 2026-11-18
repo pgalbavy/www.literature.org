@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 15"
 weight: 30
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-02-chapter-15.html"
+url: "/authors/london-jack/valley-of-the-moon/book-02-chapter-15.html"
 ---
 
 All that night Saxon lay, unsleeping, without taking off her clothes, and when she arose in the morning and washed her face and dressed her hair she was aware of a strange numbness, of a feeling of constriction about her head as if it were bound by a heavy band of iron. It seemed like a dull pressure upon her brain. It was the beginning of an illness that she did not know as illness. All she knew was that she felt queer. It was not fever. It was not cold. Her bodily health was as it should be, and, when she thought about it, she put her condition down to nerves--nerves, according to her ideas and the ideas of her class, being unconnected with disease.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - A Man Doomed"
 weight: 3
-aliases:
-  - "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-03.html"
+url: "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-03.html"
 ---
 
 The door was opened by a manservant. Mazeroux sent in his card.

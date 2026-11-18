@@ -1,8 +1,7 @@
 ---
 title: "Chirp the Second"
 weight: 2
-aliases:
-  - "/authors/dickens-charles/the-cricket-on-the-hearth/chapter-02.html"
+url: "/authors/dickens-charles/the-cricket-on-the-hearth/chapter-02.html"
 ---
 
 Caleb Plummer and his Blind Daughter lived all alone by themselves, as the Story-books say -- and my blessing, with yours to back it I hope, on the Story- books, for saying anything in this workaday world! -- Caleb Plummer and his Blind Daughter lived all alone by themselves, in a little cracked nutshell of a wooden house, which was, in truth, no better than a pimple on the prominent red-brick nose of Gruff and Tackleton. The premises of Gruff and Tackleton were the great feature of the street; but you might have knocked down Caleb Plummer's dwelling with a hammer or two, and carried off the pieces in a cart.

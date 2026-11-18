@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Mr. Blackbird's Advice"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-12.html"
 ---
 
 OUT of the pine woods beyond the meadow Mr. Blackbird sometimes came to breakfast in Farmer Green's garden. He claimed that he came there to look for angleworms. But those that knew him best said that he wasn't above taking an egg out of some small bird's nest. And some whispered that he had even been known to devour a nestling.

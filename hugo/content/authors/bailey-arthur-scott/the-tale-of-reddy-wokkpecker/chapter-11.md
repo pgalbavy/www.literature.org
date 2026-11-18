@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Very Short Fight"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-11.html"
 ---
 
 Jolly Robin told his wife how he swooped down over Reddy Woodpecker’s head. And he assured her that he had no doubt that Mr. Woodpecker would not be seen among the raspberry bushes again.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Fatal Drops"
 weight: 5
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-05.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-05.html"
 ---
 
 AT home, the life in the bungalow and at the farm followed its usual routine as it had before the departure of Tarzan. Korak, sometimes on foot and sometimes on horseback, followed the activities of the farm hands and the herders, sometimes alone, but more often in company with the white foreman, Jervis, and often, especially when they rode, Jane accompanied them.

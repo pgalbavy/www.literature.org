@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - No Wings"
 weight: 5
-aliases:
-  - "/authors/nesbit-edith/five-children-and-it/chapter-05.html"
+url: "/authors/nesbit-edith/five-children-and-it/chapter-05.html"
 ---
 
 Whether anyone cried or not, there was certainly an interval during which none of the party was quite itself. When they grew calmer, Anthea put her handkerchief in her pocket and her arm round Jane, and said:

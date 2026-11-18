@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Good Bargains"
 weight: 18
-aliases:
-  - "/authors/alcott-louisa-may/eight-cousins/chapter-17.html"
+url: "/authors/alcott-louisa-may/eight-cousins/chapter-17.html"
 ---
 
 It was a rainy Sunday afternoon, and four boys were trying to spend it quietly in the "liberry," as Jamie called the room devoted to books and boys, at Aunt Jessie's. Will and Geordie were sprawling on the sofa, deep in the adventures of the scapegraces and ragamuffins whose histories are now the fashion. Archie lounged in the easy chair, surrounded by newspapers; Charlie stood upon the rug, in an Englishman's favourite attitude, and, I regret to say, both were smoking cigars.

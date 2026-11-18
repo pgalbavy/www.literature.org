@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Game Of Checkers"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-13.html"
 ---
 
 Mr. Crow told all his neighbors that he had made the train angry with him. And he invited everyone to come down to the village with him the following day, to enjoy the sport.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Answer"
 weight: 17
-aliases:
-  - "/authors/coolidge-dane/wunpost/chapter-17.html"
+url: "/authors/coolidge-dane/wunpost/chapter-17.html"
 ---
 
 The rumbling up the canyon was hardly a noise; it was a tremulous shudder of earth and air like the grinding that accompanies an earthquake. But Wunpost knew, and the Campbells knew, what it meant and what was to follow; and as it increased to a growl they threw down the corral bars and rushed the stock up to the high ground. They waited, and Wunpost ran back to get his dog, and then the dammed waters broke loose. A great spray of yellow mud splashed out from Corkscrew Gorge and a piñon-trunk was snapped high into the air; and while all the earth trembled the dam of mud burst forth, forced on by the weight of backed-up waters. Then more trees came smashing through, followed by muddy tides of driftwood, and as suddenly the debacle ceased.

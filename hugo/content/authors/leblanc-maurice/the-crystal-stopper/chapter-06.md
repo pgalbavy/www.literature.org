@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Death-Sentence"
 weight: 6
-aliases:
-  - "/authors/leblanc-maurice/the-crystal-stopper/chapter-06.html"
+url: "/authors/leblanc-maurice/the-crystal-stopper/chapter-06.html"
 ---
 
 Lupin’s motor-car was not only an office, a writing-room furnished with books, stationery, pens and ink, but also a regular actor’s dressing-room, containing a complete make-up box, a trunk filled with every variety of wearing-apparel, another crammed with “properties”--umbrellas, walking-sticks, scarves, eye-glasses and so on--in short, a complete set of paraphernalia which enabled him to alter his appearance from top to toe in the course of a drive.

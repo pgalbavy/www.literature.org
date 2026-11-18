@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Poplars Four"
 weight: 17
-aliases:
-  - "/authors/dorrance-ethel-and-james/lonesome-town/chapter-17.html"
+url: "/authors/dorrance-ethel-and-james/lonesome-town/chapter-17.html"
 ---
 
 HAD Peter Pape been at home in Hellroaring the late afternoon of this crowded day in New York, he doubtless would have saddled Polkadot and climbed to some lonely mesa for meditative fingering of the odd chain into which he had forged himself as a link. Instead, he locked himself in the Astor suite, little used hitherto except for sleep. The telephone he silenced with a towel wrapped around the bell. He closed the windows against distractions from the street and switched off the electric fan, the whirr of which sounded above the traffic roar.

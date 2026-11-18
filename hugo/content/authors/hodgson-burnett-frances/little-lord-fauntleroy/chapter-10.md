@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/hodgson-burnett-frances/little-lord-fauntleroy/chapter-10.html"
+url: "/authors/hodgson-burnett-frances/little-lord-fauntleroy/chapter-10.html"
 ---
 
 The truth was that Mrs. Errol had found a great many sad things in the course of her work among the poor of the little village that appeared so picturesque when it was seen from the moor-sides. Everything was not as picturesque, when seen near by, as it looked from a distance. She had found idleness and poverty and ignorance where there should have been comfort and industry. And she had discovered, after a while, that Erleboro was considered to be the worst village in that part of the country. Mr. Mordaunt had told her a great many of his difficulties and discouragements, and she had found out a great deal by herself. The agents who had managed the property had always been chosen to please the Earl, and had cared nothing for the degradation and wretchedness of the poor tenants. Many things, therefore, had been neglected which should have been attended to, and matters had gone from bad to worse.

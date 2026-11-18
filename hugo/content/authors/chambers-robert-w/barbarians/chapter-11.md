@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Seed Of Death"
 weight: 11
-aliases:
-  - "/authors/chambers-robert-w/barbarians/chapter-11.html"
+url: "/authors/chambers-robert-w/barbarians/chapter-11.html"
 ---
 
 It was Dr. Vail whose identification secured burial for Neeland, not in the American cemetery, but in Aulnes Wood.

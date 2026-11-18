@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Domestic Art"
 weight: 9
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-home/chapter-08.html"
+url: "/authors/gilman-charlotte-perkins/the-home/chapter-08.html"
 ---
 
 One of the undying efforts of our lives, of the lives of half the world, is "to make home beautiful." We love beauty, we love home, we naturally wish to combine the two. The rich spare no expense, the æsthetic no care and pains, in this continuous attempt; and the "home" papers, or "home departments" in other papers, teem with instruction on the subject for the eager, but untutored many.

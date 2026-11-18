@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/verne-jules/from-the-earth-to-the-moon/chapter-13.html"
+url: "/authors/verne-jules/from-the-earth-to-the-moon/chapter-13.html"
 ---
 
 When the decision was arrived at by the Gun Club, to the disparagement of Texas, every one in America, where reading is a universal acquirement, set to work to study the geography of Florida. Never before had there been such a sale for works like "Bertram's Travels in Florida," "Roman's Natural History of East and West Florida," "William's Territory of Florida," and "Cleland on the Cultivation of the Sugar-Cane in Florida." It became necessary to issue fresh editions of these works.

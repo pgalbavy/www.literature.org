@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Saving His Feet"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-09.html"
 ---
 
 Old Mr. Crow and Jimmy Rabbit had a good laugh over Grumpy Weasel's plan for a race with Jimmy. They thought it a great joke.

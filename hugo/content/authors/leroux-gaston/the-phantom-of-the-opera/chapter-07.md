@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Faust And What Followed"
 weight: 8
-aliases:
-  - "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-07.html"
+url: "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-07.html"
 ---
 
 On the Saturday morning, on reaching their office, the joint managers found a letter from O. G. worded in these terms:

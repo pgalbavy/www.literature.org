@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Inquest"
 weight: 6
-aliases:
-  - "/authors/christie-agatha/the-mysterious-affair-at-styles/chapter-06.html"
+url: "/authors/christie-agatha/the-mysterious-affair-at-styles/chapter-06.html"
 ---
 
 In the interval before the inquest, Poirot was unfailing in his activity. Twice he was closeted with Mr. Wells. He also took long walks into the country. I rather resented his not taking me into his confidence, the more so as I could not in the least guess what he was driving at.

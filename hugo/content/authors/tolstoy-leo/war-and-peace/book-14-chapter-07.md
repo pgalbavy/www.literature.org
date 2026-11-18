@@ -1,8 +1,7 @@
 ---
 title: "Book 14 - Chapter 7"
 weight: 305
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-14-chapter-07.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-14-chapter-07.html"
 ---
 
 Petya, having left his people after their departure from Moscow, joined his regiment and was soon taken as orderly by a general commanding a large guerrilla detachment. From the time he received his commission, and especially since he had joined the active army and taken part in the battle of Vyazma, Petya had been in a constant state of blissful excitement at being grown-up and in a perpetual ecstatic hurry not to miss any chance to do something really heroic. He was highly delighted with what he saw and experienced in the army, but at the same time it always seemed to him that the really heroic exploits were being performed just where he did not happen to be. And he was always in a hurry to get where he was not.

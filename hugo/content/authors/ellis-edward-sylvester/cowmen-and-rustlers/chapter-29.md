@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - A Strange Occurrence"
 weight: 29
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-29.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-29.html"
 ---
 
 "Do you know," inquired Sterry, "how soon it is contemplated making the attack?"

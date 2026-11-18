@@ -1,8 +1,7 @@
 ---
 title: "Chapter 46 - The Water Of Life"
 weight: 46
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-46.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-46.html"
 ---
 
 Long before you or I were born, there reigned, in a country a great way off, a king who had three sons. This king once fell very ill--so ill that nobody thought he could live. His sons were very much grieved at their father’s sickness; and as they were walking together very mournfully in the garden of the palace, a little old man met them and asked what was the matter. They told him that their father was very ill, and that they were afraid nothing could save him. ‘I know what would,’ said the little old man; ‘it is the Water of Life. If he could have a draught of it he would be well again; but it is very hard to get.’ Then the eldest son said, ‘I will soon find it’: and he went to the sick king, and begged that he might go in search of the Water of Life, as it was the only thing that could save him. ‘No,’ said the king. ‘I had rather die than place you in such great danger as you must meet with in your journey.’ But he begged so hard that the king let him go; and the prince thought to himself, ‘If I bring my father this water, he will make me sole heir to his kingdom.’

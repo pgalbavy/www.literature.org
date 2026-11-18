@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Prodigal's Return"
 weight: 5
-aliases:
-  - "/authors/coolidge-dane/rimrock-jones/chapter-05.html"
+url: "/authors/coolidge-dane/rimrock-jones/chapter-05.html"
 ---
 
 It is an engineer's duty, when he is sent out to examine a mine, to make a report on the property, regardless. The fact that the owner is a liar and a thief does not necessarily invalidate his claims; and an all-wise Providence has, on several occasions, allowed such creatures to discover bonanzas. So the engineer hired a team and disappeared on the horizon and L. W. went off buying cattle.

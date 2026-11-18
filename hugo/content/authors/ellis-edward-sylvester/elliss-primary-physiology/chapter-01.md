@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Why The Laws Of Good Health Should Be Studied"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-01.html"
 ---
 
 Every boy and girl ought to live a hundred years. When worn out at last by old age, death will come like sweet sleep, without pain, or suffering.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Venit Tandem Felicitas"
 weight: 7
-aliases:
-  - "/authors/doyle-arthur-conan/beyond-the-city/chapter-07.html"
+url: "/authors/doyle-arthur-conan/beyond-the-city/chapter-07.html"
 ---
 
 It was just three days after the Doctor and the Admiral had congratulated each other upon the closer tie which was to unite their two families, and to turn their friendship into something even dearer and more intimate, that Miss Ida Walker received a letter which caused her some surprise and considerable amusement. It was dated from next door, and was handed in by the red-headed page after breakfast.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-14.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-14.html"
 ---
 
 In which Phileas Fogg descends the whole length of the beautiful valley of the Ganges without ever thinking of seeing it

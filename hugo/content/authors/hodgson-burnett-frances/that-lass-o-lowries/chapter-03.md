@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Reverend Harold Barholm"
 weight: 3
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-03.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-03.html"
 ---
 
 When the Reverend Paul entered the parlor at the Rectory, he found that his friend had arrived before him. Mr. Barholm, his wife and Anice, with their guest, formed a group around the fire, and Grace saw at a glance that Derrick had unconsciously fallen into the place of the centre figure. He was talking and the others were listening--Mr. Barholm in his usual restless fashion, Mrs. Barholm with evident interest, Anice leaning forward on her ottoman, listening eagerly.

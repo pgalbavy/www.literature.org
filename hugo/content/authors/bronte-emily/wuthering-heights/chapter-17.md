@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-17.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-17.html"
 ---
 
 THAT Friday made the last of our fine days for a month. In the evening the weather broke: the wind shifted from south to north- east, and brought rain first, and then sleet and snow. On the morrow one could hardly imagine that there had been three weeks of summer: the primroses and crocuses were hidden under wintry drifts; the larks were silent, the young leaves of the early trees smitten and blackened. And dreary, and chill, and dismal, that morrow did creep over! My master kept his room; I took possession of the lonely parlour, converting it into a nursery: and there I was, sitting with the moaning doll of a child laid on my knee; rocking it to and fro, and watching, meanwhile, the still driving flakes build up the uncurtained window, when the door opened, and some person entered, out of breath and laughing! My anger was greater than my astonishment for a minute. I supposed it one of the maids, and I cried - 'Have done! How dare you show your giddiness here; What would Mr. Linton say if he heard you?'

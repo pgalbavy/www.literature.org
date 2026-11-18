@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Blue And The Gray"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-10.html"
 ---
 
 The four years of stupendous war came to an end. The sun of the Southern Confederacy went down in gloom and defeat behind the hills of Appomattox, never to rise again, and blessed peace brooded over a reunited nation, which shall endure through the coming ages to the end of time.

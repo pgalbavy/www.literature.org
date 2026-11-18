@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 34"
 weight: 34
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-34.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-34.html"
 ---
 
 When Vronsky went to Moscow from Petersburg, he had left his large set of room in Morskaia to his friend and favorite comrade Petritsky.

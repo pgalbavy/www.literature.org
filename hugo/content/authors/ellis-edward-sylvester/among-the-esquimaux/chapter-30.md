@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - The Last Pause"
 weight: 30
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-30.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-30.html"
 ---
 
 The night slowly settled over the snow waste, and the little party, feeling no discomfort because of the cold, gradually sank into unconsciousness.

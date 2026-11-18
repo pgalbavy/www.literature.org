@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - A Mystery"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-18.html"
 ---
 
 THERE was one thing that Mrs. Ladybug dreaded more than any other. That was--fire. The slightest whiff of smoke sent her into a flutter of alarm. The sight of a blaze made her almost frantic.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 19
-aliases:
-  - "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-18.html"
+url: "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-18.html"
 ---
 
 "This," said the Gump, in a squeaky voice not at all proportioned to the size of its great body, "is the most novel experience I ever heard of. The last thing I remember distinctly is walking through the forest and hearing a loud noise. Something probably killed me then, and it certainly ought to have been the end of me. Yet here I am, alive again, with four monstrous wings and a body which I venture to say would make any respectable animal or fowl weep with shame to own. What does it all mean? Am I a Gump, or am I a juggernaut?" The creature, as it spoke, wiggled its chin whiskers in a very comical manner.

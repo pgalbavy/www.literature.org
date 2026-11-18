@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Lost in the Sky"
 weight: 23
-aliases:
-  - "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-23.html"
+url: "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-23.html"
 ---
 
 Without effort at concealment I hastened to the vicinity of our quarters, where I felt sure I should find Kantos Kan. As I neared the building I became more careful, as I judged, and rightly, that the place would be guarded. Several men in civilian metal loitered near the front entrance and in the rear were others. My only means of reaching, unseen, the upper story where our apartments were situated was through an adjoining building, and after considerable maneuvering I managed to attain the roof of a shop several doors away.

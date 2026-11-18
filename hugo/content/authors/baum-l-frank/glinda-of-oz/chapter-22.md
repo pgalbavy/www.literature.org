@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 23
-aliases:
-  - "/authors/baum-l-frank/glinda-of-oz/chapter-22.html"
+url: "/authors/baum-l-frank/glinda-of-oz/chapter-22.html"
 ---
 
 As soon as they had breakfasted the next morning, Glinda and the Wizard and the three Adepts went down to the shore of the lake and formed a line with their faces toward the submerged island. All the others came to watch them, but stood at a respectful distance in the background.

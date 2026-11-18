@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Apprehension"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/the-riflemen-of-the-miami/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/the-riflemen-of-the-miami/chapter-05.html"
 ---
 
 They're gone—again the red-men rally  

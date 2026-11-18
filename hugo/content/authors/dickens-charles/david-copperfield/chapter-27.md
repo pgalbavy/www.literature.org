@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Tommy Traddles"
 weight: 28
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-27.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-27.html"
 ---
 
 It may have been in consequence of Mrs. Crupp’s advice, and, perhaps, for no better reason than because there was a certain similarity in the sound of the word skittles and Traddles, that it came into my head, next day, to go and look after Traddles. The time he had mentioned was more than out, and he lived in a little street near the Veterinary College at Camden Town, which was principally tenanted, as one of our clerks who lived in that direction informed me, by gentlemen students, who bought live donkeys, and made experiments on those quadrupeds in their private apartments. Having obtained from this clerk a direction to the academic grove in question, I set out, the same afternoon, to visit my old schoolfellow.

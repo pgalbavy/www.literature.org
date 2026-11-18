@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43 - The Battle of the Sand Belt"
 weight: 44
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-43.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-43.html"
 ---
 
 IN Merlin's Cave -- Clarence and I and fifty-two fresh, bright, well-educated, clean-minded young British boys. At dawn I sent an order to the factories and to all our great works to stop operations and remove all life to a safe distance, as everything was going to be blown up by secret mines, "AND NO TELLING AT WHAT MOMENT -- THEREFORE, VACATE AT ONCE." These people knew me, and had confidence in my word. They would clear out without waiting to part their hair, and I could take my own time about dating the explosion. You couldn't hire one of them to go back during the century, if the explosion was still impending.

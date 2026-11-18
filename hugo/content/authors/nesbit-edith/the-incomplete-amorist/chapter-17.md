@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Interventions"
 weight: 17
-aliases:
-  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-17.html"
+url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-17.html"
 ---
 
 That kiss gave Lady St. Craye furiously to think, as they say in France.

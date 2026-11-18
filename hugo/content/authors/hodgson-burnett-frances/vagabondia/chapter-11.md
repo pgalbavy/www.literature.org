@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - In Which Comes A Wind Which Blows Nobody Good"
 weight: 11
-aliases:
-  - "/authors/hodgson-burnett-frances/vagabondia/chapter-11.html"
+url: "/authors/hodgson-burnett-frances/vagabondia/chapter-11.html"
 ---
 
 THEEE weeks waited the wise one, keeping her eyes on the alert and her small brain busy, but preserving an owl-like silence upon the subject revolving in her mind. But at the end of that time she marched into the parlor one day, attired for a walk, and astonished them all by gravely announcing her intention of going to see Dolly.

@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 6 - The Fall Of A Chieftain"
 weight: 34
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-06-chapter-06.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-06-chapter-06.html"
 ---
 
 THERE never was such an overturn in this world. Each of these six men was as though he had been struck. But with Silver the blow passed almost instantly. Every thought of his soul had been set full-stretch, like a racer, on that money; well, he was brought up, in a single second, dead; and he kept his head, found his temper, and changed his plan before the others had had time to realize the disappointment.

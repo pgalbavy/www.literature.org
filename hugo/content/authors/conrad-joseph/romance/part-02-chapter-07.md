@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 7"
 weight: 12
-aliases:
-  - "/authors/conrad-joseph/romance/part-02-chapter-07.html"
+url: "/authors/conrad-joseph/romance/part-02-chapter-07.html"
 ---
 
 I went on deck again. On the poop about twenty men had surrounded Major Cowper; his white head was being jerked backwards and forwards above their bending backs; they had got his old uniform coat off, and were fighting for the buttons. I had just time to shout to him, "Your wife's down there, she's all right!" when very suddenly I became aware that Tomas Castro was swearing horribly at these thieves. He drove them away, and we were left quite alone on the poop, I holding the major's coat over my arm. Major Çowper stooped down to call through the skylight. I could hear faint answers coming up to him.

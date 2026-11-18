@@ -1,8 +1,7 @@
 ---
 title: "Chapter 47"
 weight: 47
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-47.html"
+url: "/authors/eliot-george/middlemarch/chapter-47.html"
 ---
 
 Was never true love loved in vain, For truest love is highest gain. No art can make it: it must spring Where elements are fostering. So in heaven's spot and hour Springs the little native flower, Downward root and upward eye, Shapen by the earth and sky.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Too Many Disputes"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-06.html"
 ---
 
 On the whole, Mr. Crow's party would have been a great success if it hadn't been for Peter Mink and Tommy Fox.

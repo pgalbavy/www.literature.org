@@ -1,8 +1,7 @@
 ---
 title: "Chirp the Third"
 weight: 3
-aliases:
-  - "/authors/dickens-charles/the-cricket-on-the-hearth/chapter-03.html"
+url: "/authors/dickens-charles/the-cricket-on-the-hearth/chapter-03.html"
 ---
 
 The Dutch clock in the corner struck Ten, when the Carrier sat down by his fireside. So troubled and grief-worn, that he seemed to scare the Cuckoo, who, having cut his ten melodious announcements as short as possible, plunged back into the Moorish Pal- ace again, and clapped his little door behind him, as if the unwonted spectacle were too much for his feelings.

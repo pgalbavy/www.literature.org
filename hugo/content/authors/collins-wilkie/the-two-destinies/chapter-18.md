@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Darkened Room"
 weight: 19
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-18.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-18.html"
 ---
 
 THE little gentleman advances to my bedside. His silky white hair flows over his shoulders; he looks at us with faded blue eyes; he bows with a sad and subdued courtesy, and says, in the simplest manner, "I bid you welcome, gentlemen, to my house."

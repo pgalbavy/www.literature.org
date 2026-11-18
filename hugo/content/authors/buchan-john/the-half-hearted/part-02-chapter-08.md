@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 8 - The Road To Forza"
 weight: 27
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-02-chapter-08.html"
+url: "/authors/buchan-john/the-half-hearted/part-02-chapter-08.html"
 ---
 
 The road ran in a straight line through the valley of dry rocks, a dull, modern road, engineered and macadamized up to the edge of the hills. The click of hoofs raised echoes in the silence, for in all the great valley, in the chain of pools in the channel, the acres of sun-dried stone, the granite rocks, the tangle of mountain scrub, there seemed no life of bird or beast. It was a strange, deathly stillness, and overhead the purple sky, sown with a million globes of light, seemed so near and imminent that the glen for the moment was but a vast jewel-lit cavern, and the sky a fretted roof which spanned the mountains.

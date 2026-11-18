@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - Beth's Secret"
 weight: 36
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-36.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-36.html"
 ---
 
 When Jo came home that spring, she had been struck with the change in Beth. No one spoke of it or seemed aware of it, for it had come too gradually to startle those who saw her daily, but to eyes sharpened by absence, it was very plain and a heavy weight fell on Jo's heart as she saw her sister's face. It was no paler and but littler thinner than in the autumn, yet there was a strange, transparent look about it, as if the mortal was being slowly refined away, and the immortal shining through the frail flesh with an indescribably pathetic beauty. Jo saw and felt it, but said nothing at the time, and soon the first impression lost much of its power, for Beth seemed happy, no one appeared to doubt that she was better, and presently in other cares Jo for a time forgot her fear.

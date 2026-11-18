@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 15"
 weight: 99
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-05-chapter-15.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-05-chapter-15.html"
 ---
 
 When returning from his leave, Rostov felt, for the first time, how close was the bond that united him to Denisov and and the whole regiment.

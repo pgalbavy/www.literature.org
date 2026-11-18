@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-01.html"
+url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-01.html"
 ---
 
 The history of the circumstances about to be related began many years ago--or so it seems in these days. It began, at least, years before the world being rocked to and fro revealed in the pause between each of its heavings some startling suggestion of a new arrangement of its kaleidoscopic particles, and then immediately a re-arrangement, and another and another until all belief in a permanency of design seemed lost, and the inhabitants of the earth waited, helplessly gazing at changing stars and colours in a degree of mental chaos.

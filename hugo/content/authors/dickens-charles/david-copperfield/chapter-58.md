@@ -1,8 +1,7 @@
 ---
 title: "Chapter 58 - Absence"
 weight: 59
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-58.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-58.html"
 ---
 
 It was a long and gloomy night that gathered on me, haunted by the ghosts of many hopes, of many dear remembrances, many errors, many unavailing sorrows and regrets.

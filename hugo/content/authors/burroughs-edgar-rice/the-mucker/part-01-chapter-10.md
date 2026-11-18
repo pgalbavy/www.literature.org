@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 10 - Barbara Captured By Head-Hunters"
 weight: 10
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-10.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-10.html"
 ---
 
 WHEN Barbara Harding, with Miller before and Swenson behind her, had taken up the march behind the loot-laden party seven dusky, noiseless shadows had emerged from the forest to follow close behind.

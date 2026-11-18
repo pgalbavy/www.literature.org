@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Pushing Eastward"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/the-daughter-of-the-chieftain/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/the-daughter-of-the-chieftain/chapter-06.html"
 ---
 
 No person in all the world is so quick to detect deception as a mother. It is simply wonderful the way she will sometimes read one's thoughts. I am sure you boys who have lagged on the road when sent on an errand, had a scrimmage with some other boy, or done any one of the numerous acts in which a mother persists in asking annoying questions, will agree with me.

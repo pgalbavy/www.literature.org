@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 5 - The Golden Dustman Falls Into Bad Company"
 weight: 38
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-03-chapter-05.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-03-chapter-05.html"
 ---
 
 Were Bella Wilfer’s bright and ready little wits at fault, or was the Golden Dustman passing through the furnace of proof and coming out dross? Ill news travels fast. We shall know full soon.

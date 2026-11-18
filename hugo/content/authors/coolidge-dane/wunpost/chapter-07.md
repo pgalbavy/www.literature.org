@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - More Dreams"
 weight: 7
-aliases:
-  - "/authors/coolidge-dane/wunpost/chapter-07.html"
+url: "/authors/coolidge-dane/wunpost/chapter-07.html"
 ---
 
 In four days time Wunpost had seen his interest dwindle from full ownership to a mere sixth of the Willie Meena. First he had given Billy half, then they had each given Rhodes a sixth; and now Judson Eells had stepped in with his contract and trimmed their holdings by a half. In another day or so, if the ratio kept up, Wunpost's sixth would be reduced to a twelfth, a twenty-fourth, a forty-eighth, a ninety-sixth--and he had discovered the mine himself! What philosophy or sophistry can reconcile a man to such buffets from the hand of Fate? Wunpost cursed and turned to raw whiskey. It was the infamy of it all; the humiliation, the disgrace, the insult of being trimmed by a lawyer--twice! Yes, twice in the same place, with the same contract, the same system; and now this same Flip Flappum was busy as a hunting dog trying to hire one of his partners to sell him out!

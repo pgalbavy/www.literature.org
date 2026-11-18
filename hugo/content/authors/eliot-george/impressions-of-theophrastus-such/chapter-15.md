@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Diseases Of Small Authorship"
 weight: 15
-aliases:
-  - "/authors/eliot-george/impressions-of-theophrastus-such/chapter-15.html"
+url: "/authors/eliot-george/impressions-of-theophrastus-such/chapter-15.html"
 ---
 
 Particular callings, it is known, encourage particular diseases. There is a painter's colic: the Sheffield grinder falls a victim to the inhalation of steel dust: clergymen so often have a certain kind of sore throat that this otherwise secular ailment gets named after them. And perhaps, if we were to inquire, we should find a similar relation between certain moral ailments and these various occupations, though here in the case of clergymen there would be specific differences: the poor curate, equally with the rector, is liable to clergyman's sore throat, but he would probably be found free from the chronic moral ailments encouraged by the possession of glebe and those higher chances of preferment which follow on having a good position already. On the other hand, the poor curate might have severe attacks of calculating expectancy concerning parishioners' turkeys, cheeses, and fat geese, or of uneasy rivalry for the donations of clerical charities.

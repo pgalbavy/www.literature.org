@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Peace Gives The Lilac Lady An Idea"
 weight: 15
-aliases:
-  - "/authors/brown-ruth-alberta/the-lilac-lady/chapter-15.html"
+url: "/authors/brown-ruth-alberta/the-lilac-lady/chapter-15.html"
 ---
 
 The Home Missionary Society of the South Avenue Church was holding its monthly meeting in the Campbell parlors, and Peace, feeling very forlorn and left out, because grandma had suggested that she better join the sisters in the barn playhouse, wandered down to the gate and stood looking up the street in search of something to occupy her attention. She was tired of playing games in the barn, she had read the latest St. Nicholas from cover to cover, and the postman had not yet brought the Youth's Companion, although this was the regular day for it. Anyway, she didn't care to read. She would rather stay and listen to what the women in the house were talking about, but if grandma did not want her, she certainly should not bother them with her presence. Likely the meeting would be very dry; it usually was when Mrs. Roberts stayed away, and she had not put in appearance yet.

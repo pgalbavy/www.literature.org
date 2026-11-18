@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Melodious Bricklayer"
 weight: 24
-aliases:
-  - "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-23.html"
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-23.html"
 ---
 
 Theophrastus, though he had with good reason made up his mind never again to be astonished by anything, was nevertheless astonished by the disappearance of the railway-carriage, with the earless head of Signor Petito waggling in the wind. With a melancholy air he walked down the little side-line, asking himself whether he ought to be more astonished by the disappearance of the carriage than by its sudden appearance. In truth, the suppression of the express was troubling his spirit deeply.

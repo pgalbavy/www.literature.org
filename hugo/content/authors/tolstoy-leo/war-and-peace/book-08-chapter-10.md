@@ -1,8 +1,7 @@
 ---
 title: "Book 8 - Chapter 10"
 weight: 155
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-08-chapter-10.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-08-chapter-10.html"
 ---
 
 During the entr'acte a whiff of cold air came into Helene's box, the door opened, and Anatole entered, stooping and trying not to brush against anyone.

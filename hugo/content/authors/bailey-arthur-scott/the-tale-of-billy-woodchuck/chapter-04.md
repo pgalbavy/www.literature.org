@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Great Horned Owl"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-04.html"
 ---
 
 Billy Woodchuck knew that the Great Horned Owl was a dangerous person. His mother had often told him that. But he had never yet seen the Great Horned Owl; and Billy wondered how he should know him if he should ever happen to meet him. So Billy Woodchuck went indoors and asked his mother to tell him how the Great Horned Owl looked.

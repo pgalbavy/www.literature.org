@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/collins-wilkie/a-rogues-life/chapter-12.html"
+url: "/authors/collins-wilkie/a-rogues-life/chapter-12.html"
 ---
 
 FOR a couple of hours I walked on briskly, careless in what direction I went, so long as I kept my back turned on Barkingham.

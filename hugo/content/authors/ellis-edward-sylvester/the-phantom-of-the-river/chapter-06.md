@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Right Of Eminent Domain"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-06.html"
 ---
 
 It always seemed to Jethro Juggens that Kenton took a great deal more pains or used a greater degree of caution than was necessary when he undertook a task in which Indians were concerned. The density of the African's intellect did not blind him to the need of using caution or care in dealing with the treacherous people, but the excessive timidity of so active or powerful a man as the pioneer struck the dusky youth unfavorably.

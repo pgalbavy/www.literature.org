@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - A Reminiscence"
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-scout/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-25.html"
 ---
 
 Reaching the rock, the two men made another reconnaissance before sitting down to await the return of the White Mountain Apache. Nothing was discovered to cause misgiving, and they were almost convinced that they would remain undisturbed until the coming of the scout upon whom all their hopes were now placed.

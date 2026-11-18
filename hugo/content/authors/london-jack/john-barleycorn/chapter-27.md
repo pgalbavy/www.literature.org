@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-27.html"
+url: "/authors/london-jack/john-barleycorn/chapter-27.html"
 ---
 
 As I succeeded with my writing, my standard of living rose and my horizon broadened. I confined myself to writing and typing a thousand words a day, including Sundays and holidays; and I still studied hard, but not so hard as formerly. I allowed myself five and one-half hours of actual sleep. I added this half-hour because I was compelled. Financial success permitted me more time for exercise. I rode my wheel more, chiefly because it was permanently out of pawn; and I boxed and fenced, walked on my hands, jumped high and broad, put the shot and tossed the caber, and went swimming. And I learned that more sleep is required for physical exercise than for mental exercise. There were tired nights, bodily, when I slept six hours; and on occasion of very severe exercise I actually slept seven hours. But such sleep orgies were not frequent. There was so much to learn, so much to be done, that I felt wicked when I slept seven hours. And I blessed the man who invented alarm clocks.

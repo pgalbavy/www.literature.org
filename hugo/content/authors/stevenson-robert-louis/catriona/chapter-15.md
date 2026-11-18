@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Black Andie’s Tale Of Tod Lapraik"
 weight: 16
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-15.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-15.html"
 ---
 
 I have yet said little of the Highlanders. They were all three of the followers of James More, which bound the accusation very tight about their master’s neck. All understood a word or two of English, but Neil was the only one who judged he had enough of it for general converse, in which (when once he got embarked) his company was often tempted to the contrary opinion. They were tractable, simple creatures; showed much more courtesy than might have been expected from their raggedness and their uncouth appearance, and fell spontaneously to be like three servants for Andie and myself.

@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 42"
 weight: 359
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-42.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-42.html"
 ---
 
 Only the expression of the will of the Deity, not dependent on time, can relate to a whole series of events occurring over a period of years or centuries, and only the Deity, independent of everything, can by His sole will determine the direction of humanity's movement; but man acts in time and himself takes part in what occurs.

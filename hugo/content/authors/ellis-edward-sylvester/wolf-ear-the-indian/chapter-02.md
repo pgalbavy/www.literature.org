@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - \"He's Up To Some Mischief, i'll Warrant\""
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/wolf-ear-the-indian/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/wolf-ear-the-indian/chapter-02.html"
 ---
 
 The instant Brinton Kingsland looked around and saw the Indian on his pony, a short distance away, with his rifle at his shoulder and about to fire a second time, he brought his own Winchester to a level and aimed at the one who had attempted thus treacherously to shoot him in the back.

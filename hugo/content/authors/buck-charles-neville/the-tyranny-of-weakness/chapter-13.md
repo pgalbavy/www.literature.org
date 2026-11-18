@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-13.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-13.html"
 ---
 
 Against the stupor of Stuart Farquaharson's brain, as he sat in the small stateroom of the P. and O. steamer, beat the fear of what he might read.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-20.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-20.html"
 ---
 
 Mr. Sabin from his seat behind a gigantic palm watched her egress from the supper-room with a little group of friends.

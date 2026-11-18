@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - A Queer Cure"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-20.html"
 ---
 
 When that famous doctor, Aunt Polly Woodchuck, reached Mrs. Rabbit's house, she said:

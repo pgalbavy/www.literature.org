@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Lightfoot On A Voyage"
 weight: 8
-aliases:
-  - "/authors/barnum-richard/lightfoot-the-leaping-goat/chapter-08.html"
+url: "/authors/barnum-richard/lightfoot-the-leaping-goat/chapter-08.html"
 ---
 
 With a heart that beat hard and fast after his long run, Lightfoot, the goat, crouched down in a dark corner of the hold in the canal boat.

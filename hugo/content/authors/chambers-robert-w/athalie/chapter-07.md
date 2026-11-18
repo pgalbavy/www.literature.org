@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-07.html"
+url: "/authors/chambers-robert-w/athalie/chapter-07.html"
 ---
 
 Doris came in about midnight, her coat and hat plastered with sleet, her shoes soaking. She looked rather forlornly at the bowl of hot milk and crackers which Athalie brought from the kitchenette.

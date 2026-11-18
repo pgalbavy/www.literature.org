@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42"
 weight: 42
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-42.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-42.html"
 ---
 
 THE old man was uptown again before breakfast, but couldn't get no track of Tom; and both of them set at the table thinking, and not saying nothing, and looking mournful, and their coffee getting cold, and not eating anything. And by and by the old man says:

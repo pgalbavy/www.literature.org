@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/woolf-virginia/the-voyage-out/chapter-22.html"
+url: "/authors/woolf-virginia/the-voyage-out/chapter-22.html"
 ---
 
 The darkness fell, but rose again, and as each day spread widely over the earth and parted them from the strange day in the forest when they had been forced to tell each other what they wanted, this wish of theirs was revealed to other people, and in the process became slightly strange to themselves. Apparently it was not anything unusual that had happened; it was that they had become engaged to marry each other. The world, which consisted for the most part of the hotel and the villa, expressed itself glad on the whole that two people should marry, and allowed them to see that they were not expected to take part in the work which has to be done in order that the world shall go on, but might absent themselves for a time. They were accordingly left alone until they felt the silence as if, playing in a vast church, the door had been shut on them. They were driven to walk alone, and sit alone, to visit secret places where the flowers had never been picked and the trees were solitary. In solitude they could express those beautiful but too vast desires which were so oddly uncomfortable to the ears of other men and women—desires for a world, such as their own world which contained two people seemed to them to be, where people knew each other intimately and thus judged each other by what was good, and never quarrelled, because that was waste of time.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Englebourn Constable"
 weight: 25
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-23.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-23.html"
 ---
 
 On the afternoon of a splendid day in the early part of June, some four or five days after the Sunday on which the morning service at Englebourn was interrupted by the fire at Farmer Groves', David Johnson, tailor and constable of the parish, was sitting at his work in a small erection, half shed, half summer-house, which leaned against the back of his cottage. Not that David had not a regular workshop, with a window looking into the village street, and a regular counter close under it, on which passersby might see him stitching, and from which he could gossip with them easily, as was his wont. But although the constable kept the king's peace and made garments of all kinds for his livelihood—from the curate's frock down to the ploughboy's fustians—he was addicted for his pleasure and solace to the keeping of bees. The constable's bees inhabited a row of hives in the narrow strip of garden which ran away at the back of the cottage. This strip of garden was bordered along the whole of one side by the rector's premises. Now honest David loved gossip well, and considered it a part of his duty as constable to be well up in all events and rumours which happened or arose within his liberties. But he loved his bees better than gossip, and, as he was now in hourly expectation that they would be swarming, was working, as has been said, in his summer-house, that he might be at hand at the critical moment. The rough table on which he was seated commanded a view of the hives; his big scissors and some shreds of velveteen lay near him on the table, also the street-door key and an old shovel, of which the uses will appear presently.

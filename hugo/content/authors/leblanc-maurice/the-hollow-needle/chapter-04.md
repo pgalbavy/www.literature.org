@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Face To Face"
 weight: 4
-aliases:
-  - "/authors/leblanc-maurice/the-hollow-needle/chapter-04.html"
+url: "/authors/leblanc-maurice/the-hollow-needle/chapter-04.html"
 ---
 
 One evening, five weeks later, I had given my man leave to go out. It was the day before the 14th of July. The night was hot, a storm threatened and I felt no inclination to leave the flat. I opened wide the glass doors leading to my balcony, lit my reading lamp and sat down in an easy-chair to look through the papers, which I had not yet seen.

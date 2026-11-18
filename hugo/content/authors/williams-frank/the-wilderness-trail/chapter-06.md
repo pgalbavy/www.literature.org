@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Last Stand"
 weight: 6
-aliases:
-  - "/authors/williams-frank/the-wilderness-trail/chapter-06.html"
+url: "/authors/williams-frank/the-wilderness-trail/chapter-06.html"
 ---
 
 Morning found the world swathed in a great blanket of white. Snow that started as Donald made camp had fallen steadily through the dark hours, so that now rock and windfall and back trail were obliterated. Even the pines themselves were conical ghosts. As though he had been dropped from the skies, McTavish stood absolutely isolated in the trackless waste.

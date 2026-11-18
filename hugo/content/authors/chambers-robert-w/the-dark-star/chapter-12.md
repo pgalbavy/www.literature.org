@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - A Life Line"
 weight: 13
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-12.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-12.html"
 ---
 
 She had told him her story from beginning to end, as far as she herself comprehended it. She was lying sideways now, in the depths of a large armchair, her cheek cushioned on the upholstered wings.

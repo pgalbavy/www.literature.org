@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - An Unwelcome Guest"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-13.html"
 ---
 
 AS he neared his home in the cherry tree, Rusty Wren saw a fearsome sight. Miss Kitty Cat was crouched right on top of the tin syrup can which Johnnie Green had nailed to the tree. Inside that can was the Wren family's nest. And inside the nest were some brand-new youngsters, only two days out of their shells.

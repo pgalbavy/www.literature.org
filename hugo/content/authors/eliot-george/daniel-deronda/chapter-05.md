@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-05.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-05.html"
 ---
 
 "Her wit Values itself so highly, that to her All matter else seems weak." - Much Ado About Nothing.

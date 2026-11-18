@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Somebody New Turns Up"
 weight: 20
-aliases:
-  - "/authors/williams-frank/the-free-range/chapter-20.html"
+url: "/authors/williams-frank/the-free-range/chapter-20.html"
 ---
 
 Utterly exhausted with his day's riding and the stress of his other labors, Bud Larkin, driving his captive, arrived at the sheep camp shortly before sundown. Faint with hunger--for he had not eaten since morning--he turned Stelton over to the eager sheepmen who rode out to meet him.

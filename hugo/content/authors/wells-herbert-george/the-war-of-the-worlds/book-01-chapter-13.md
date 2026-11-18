@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 13 - How I Fell in with the Curate"
 weight: 13
-aliases:
-  - "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-13.html"
+url: "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-13.html"
 ---
 
 After getting this sudden lesson in the power of terres- trial weapons, the Martians retreated to their original position upon Horsell Common; and in their haste, and encumbered with the de'bris of their smashed companion, they no doubt overlooked many such a stray and negligible victim as myself. Had they left their comrade and pushed on forthwith, there was nothing at that time between them and London but batteries of twelve-pounder guns, and they would certainly have reached the capital in advance of the tidings of their approach; as sudden, dreadful, and destructive their advent would have been as the earthquake that destroyed Lisbon a century ago.

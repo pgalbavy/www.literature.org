@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Mystery Of Hunter’s Lodge"
 weight: 4
-aliases:
-  - "/authors/christie-agatha/poirot-investigates/chapter-04.html"
+url: "/authors/christie-agatha/poirot-investigates/chapter-04.html"
 ---
 
 "After all," murmured Poirot, "it is possible that I shall not die this time."

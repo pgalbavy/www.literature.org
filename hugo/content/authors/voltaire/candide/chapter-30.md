@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - Conclusion"
 weight: 30
-aliases:
-  - "/authors/voltaire/candide/chapter-30.html"
+url: "/authors/voltaire/candide/chapter-30.html"
 ---
 
 Candide had, in truth, no great inclination to marry Miss Cunegund; but the extreme impertinence of the Baron determined him to conclude the match; and Cunegund pressed him so warmly, that he could not recant. He consulted Pangloss, Martin, and the faithful Cacambo. Pangloss composed a fine memorial, by which he proved that the Baron had no right over his sister; and that she might, according to all the laws of the Empire, marry Candide with the left hand. Martin concluded to throw the Baron into the sea; Cacambo decided that he must be delivered to the Turkish captain and sent to the galleys; after which he should be conveyed by the first ship to the Father General at Rome. This advice was found to be good; the old woman approved of it, and not a syllable was said to his sister; the business was executed for a little money; and they had the pleasure of tricking a Jesuit, and punishing the pride of a German baron.

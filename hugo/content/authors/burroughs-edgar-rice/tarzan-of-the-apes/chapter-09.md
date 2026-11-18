@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Man and Man"
 weight: 9
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-09.html"
+url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-09.html"
 ---
 
 Tarzan of the Apes lived on in his wild, jungle existence with little change for several years, only that he grew stronger and wiser, and learned from his books more and more of the strange worlds which lay somewhere outside his primeval forest.

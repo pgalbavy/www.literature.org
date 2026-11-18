@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Attack On Jamiltepec"
 weight: 19
-aliases:
-  - "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-19.html"
+url: "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-19.html"
 ---
 
 Suddenly, nearly all the soldiers disappeared from the village, there was a 'rebellion' in Colima. A train had been held up, people killed. And somebody, Generals Fulano and Tulano, had 'pronounced' against the government.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/davis-richard-harding/soldiers-of-fortune/chapter-09.html"
+url: "/authors/davis-richard-harding/soldiers-of-fortune/chapter-09.html"
 ---
 
 Clay slept for three hours. He had left a note on the floor instructing MacWilliams and young Langham not to go to the mines, but to waken him at ten o'clock, and by eleven the three men were galloping off to the city. As they left the Palms they met Hope returning from a morning ride on the Alameda, and Clay begged her, with much concern, not to ride abroad again. There was a difference in his tone toward her. There was more anxiety in it than the occasion seemed to justify, and he put his request in the form of a favor to himself, while the day previous he would simply have told her that she must not go riding alone.

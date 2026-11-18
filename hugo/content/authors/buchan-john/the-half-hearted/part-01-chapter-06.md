@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 6 - Pastoral"
 weight: 6
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-01-chapter-06.html"
+url: "/authors/buchan-john/the-half-hearted/part-01-chapter-06.html"
 ---
 
 I

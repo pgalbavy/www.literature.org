@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Theft Of The Pendant"
 weight: 12
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin/chapter-12.html"
+url: "/authors/leblanc-maurice/arsene-lupin/chapter-12.html"
 ---
 
 They stood round the millionaire observing his anguish, with eyes in which shone various degrees of sympathy. As if no longer able to bear the sight of such woe, Sonia slipped out of the room.

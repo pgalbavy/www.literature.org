@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - A Run For Life"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-20.html"
 ---
 
 But one thing could be done: that was to run, and Warren Starr and Tim Brophy did it in the highest style of the art. They put their ponies to their utmost pace without an instant's delay. The animals, as if conscious of their peril, bounded across the snowy plain on a dead run, with their riders stretching forward over their necks to escape the bullets expected every moment.

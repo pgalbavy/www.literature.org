@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/leroux-gaston/the-double-life/preface.html"
+url: "/authors/leroux-gaston/the-double-life/preface.html"
 ---
 
 *I WAS* passing through the waiting-room of the *Morning Journal* on a certain evening last year when my attention was drawn to a man seated in a corner. He was dressed in black and his appearance was that of the deepest dejection. In fact upon his face I read the most melancholy despair.

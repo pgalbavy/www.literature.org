@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Jack Resumes His Journey"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-07.html"
 ---
 
 No one could have won the wrestling bout more fairly than did Jack Gedney, who, having thrown the young Wyandot by the usual side hold, had now tossed him over his head with such violence that the youthful redskin must have made a big dent in the earth where his crown struck it.

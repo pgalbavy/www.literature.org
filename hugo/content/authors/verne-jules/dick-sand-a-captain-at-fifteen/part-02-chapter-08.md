@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 8 - Some Of Dick Sand's Notes"
 weight: 26
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-08.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-08.html"
 ---
 
 Though the storm of the day before had ceased, the weather was still very unsettled. It was, besides, the period of the "masika," the second period of the rainy season, under this zone of the African heaven. The nights in particular would be rainy during one, two, or three weeks, which could only increase the misery of the caravan.

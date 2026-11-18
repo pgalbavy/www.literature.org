@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 17"
 weight: 40
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-17.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-17.html"
 ---
 
 Elizabeth's impatience to acquaint Jane with what had happened could no longer be overcome; and at length resolving to suppress every particular in which her sister was concerned, and preparing her to be surprised, she related to her the next morning the chief of the scene between Mr. Darcy and herself.

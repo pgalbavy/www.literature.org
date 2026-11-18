@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 19 - The Bridge Of Broken Hearts"
 weight: 19
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-01-chapter-19.html"
+url: "/authors/buchan-john/the-half-hearted/part-01-chapter-19.html"
 ---
 
 Listless leaves were tossing in the light wind or borne downward in the swirl of the flooded Midburn, to the weary shallows where they lay, beached high and sodden, till the frost nipped and shrivelled their rottenness into dust. A bleak, thin wind it was, like a fine sour wine, searching the marrow and bringing no bloom to the cheek. A light snow powdered the earth, the grey forerunner of storms.

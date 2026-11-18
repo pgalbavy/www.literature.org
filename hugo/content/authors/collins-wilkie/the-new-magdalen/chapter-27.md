@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Magdalen's Apprenticeship"
 weight: 27
-aliases:
-  - "/authors/collins-wilkie/the-new-magdalen/chapter-27.html"
+url: "/authors/collins-wilkie/the-new-magdalen/chapter-27.html"
 ---
 
 "MR. JULIAN GRAY has asked me to tell him, and to tell you, Mr. Holmcroft, how my troubles began. They began before my recollection. They began with my birth.

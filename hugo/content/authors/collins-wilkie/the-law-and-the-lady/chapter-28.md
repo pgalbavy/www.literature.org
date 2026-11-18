@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - In The Dark"
 weight: 28
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-28.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-28.html"
 ---
 
 WITH such a man as Miserrimus Dexter, and with such a purpose as I had in view, no half-confidences were possible. I must either risk the most unreserved acknowledgment of the interests that I really had at stake, or I must make the best excuse that occurred to me for abandoning my contemplated experiment at the last moment. In my present critical situation, no such refuge as a middle course lay before me--even if I had been inclined to take it. As things were, I ran risks, and plunged headlong into my own affairs at starting.

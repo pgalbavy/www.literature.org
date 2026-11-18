@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Turning The Tables"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-17.html"
 ---
 
 MR. FROG had given Bobby Bobolink a great surprise. He had said that Bobby was wearing his clothes upside down.

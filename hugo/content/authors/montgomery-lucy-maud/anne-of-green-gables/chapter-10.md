@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Anne's Apology"
 weight: 10
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-10.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-10.html"
 ---
 
 Marilla said nothing to Matthew about the affair that evening; but when Anne proved still refractory the next morning an explanation had to be made to account for her absence from the breakfast table. Marilla told Matthew the whole story, taking pains to impress him with a due sense of the enormity of Anne's behavior.

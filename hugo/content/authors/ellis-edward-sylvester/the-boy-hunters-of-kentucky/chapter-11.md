@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - George Makes A Shot"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-11.html"
 ---
 
 The bear found not one, but two boys, who would serve equally well as substitutes for the one that had just escaped him. Will stood less than fifty feet away, hastily ramming a bullet into his rifle, while George was a little farther to the right, busy at the same thing. Bruin decided that the lad who was the nearer of the two would serve him best, so he straightway went after him.

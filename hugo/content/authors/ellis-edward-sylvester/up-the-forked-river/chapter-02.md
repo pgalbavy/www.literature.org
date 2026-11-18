@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-02.html"
 ---
 
 Perhaps Jack Starland's most noticeable trait in boyhood was his fondness for the water. He was a magnificent swimmer and learned to handle a small boat with the skill of a veteran sailor. Some of his dare-devil exploits in cruising among the Farallones and down the coast caused his father great concern. He placed such severe restrictions upon the lad that he rebelled. One day he slipped out of the house, went down to the wharf and engaged to go as cabin boy on a South Sea whaler. At the critical moment, however, his conscience asserted itself and he drew back. His father never knew of this particular episode in the life of his son. Had it been carried out, it would have broken the parent's heart.

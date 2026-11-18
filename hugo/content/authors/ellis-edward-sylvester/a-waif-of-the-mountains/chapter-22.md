@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Friends"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-22.html"
 ---
 
 Colonel Briggs was nonplussed for the moment. He had failed to scare the men whom he meant to despoil of their property and some of the mutterings behind him showed that he lacked the unanimous support of his followers.

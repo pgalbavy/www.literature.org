@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - When Wendy Grew Up"
 weight: 17
-aliases:
-  - "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-17.html"
+url: "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-17.html"
 ---
 
 I hope you want to know what became of the other boys. They were waiting below to give Wendy time to explain about them; and when they had counted five hundred they went up. They went up by the stair, because they thought this would make a better impression. They stood in a row in front of Mrs. Darling, with their hats off, and wishing they were not wearing their pirate clothes. They said nothing, but their eyes asked her to have them. They ought to have looked at Mr. Darling also, but they forgot about him.

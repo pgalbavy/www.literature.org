@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Some Philosophy And A Song"
 weight: 5
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-04.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-04.html"
 ---
 
 *LET* us leave Paris awhile and return to the little estate on the banks of the Marne, which Théophraste generally moved to with the first rays of the July sun. This year he was to go there before Marceline and his friend, Adolphe, who had been commissioned to survey the timbers on some lands elsewhere. Thus these last few days he could spend alone in security and peace to attend to this unusual treatise which his new position in the world had given him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - \"The Lion Is Loose!\""
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/a-young-hero/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/a-young-hero/chapter-07.html"
 ---
 
 "I'll show you how it works," he called out, with a grin, and without a word of warning he whirled it about the legs and bodies of the boys, who jumped with pain and started to run.

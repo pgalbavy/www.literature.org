@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Against Fearful Odds"
 weight: 25
-aliases:
-  - "/authors/williams-frank/the-wilderness-trail/chapter-25.html"
+url: "/authors/williams-frank/the-wilderness-trail/chapter-25.html"
 ---
 
 Donald seized his opportunity, and stood up to his full height, exposing his head and shoulders.

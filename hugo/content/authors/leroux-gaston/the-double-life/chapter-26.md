@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Théophraste Again Hears Of His Treasures"
 weight: 27
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-26.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-26.html"
 ---
 
 *THE* clamber over the roofs of the Rue Ge-rondo on a cold rainy night had a physical and moral effect on Théophraste. He had taken cold and was suffering in consequence. From a moral point of view it had made him change his whole view of these events. While he had been reading the accounts of these crimes with which the new Cartouche had been terrifying Paris, he had shown a callous indifference, but now he commenced to hold himself responsible for many of the atrocities, and especially for the murder of M. Houdry, which he had before facetiously blamed on the calf.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/tarkington-booth/gentle-julia/chapter-09.html"
+url: "/authors/tarkington-booth/gentle-julia/chapter-09.html"
 ---
 
 Noble Dill came from his father's house, after dinner that evening, a youth in blossom, like the shrubberies and garden beds in the dim yards up and down Julia's Street. All cooled and bathed and in new clothes of white, he took his thrilled walk through the deep summer twilight, on his way to that ineffable Front Porch where sat Julia, misty in the dusk. The girlish little new moon had perished naïvely out of the sky; the final pinkness of the west was gone; blue evening held the quiet world; and overhead, between the branches of the maple trees, were powdered all those bright pin points of light that were to twinkle on generations of young lovers after Noble Dill, each one, like Noble, walking the same fragrant path in summer twilights to see the Prettiest Girl of All.

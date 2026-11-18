@@ -1,8 +1,7 @@
 ---
 title: "Chapter 85 - The Fountain"
 weight: 85
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-085.html"
+url: "/authors/melville-herman/moby-dick/chapter-085.html"
 ---
 
 That for six thousand years--and no one knows how many millions of ages before--the great whales should have been spouting all over the sea, and sprinkling and mistifying the gardens of the deep, as with so many sprinkling or mistifying pots; and that for some centuries back, thousands of hunters should have been close by the fountain of the whale, watching these sprinklings and spoutings-- that all this should be, and yet, that down to this blessed minute (fifteen and a quarter minutes past one o'clock P.M. of this sixteenth day of December, A.D. 1851), it should still remain a problem, whether these spoutings are, after all, really water, or nothing but vapor--this is surely a noteworthy thing.

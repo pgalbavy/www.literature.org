@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/nesbit-edith/the-enchanted-castle/chapter-04.html"
+url: "/authors/nesbit-edith/the-enchanted-castle/chapter-04.html"
 ---
 
 *THE* difficulty was not only that Gerald had got the ring on and couldn't get it off, and was therefore invisible, but that Mabel, who had been invisible and therefore possible to be smuggled into the house, was now plain to be seen and impossible for smuggling purposes.

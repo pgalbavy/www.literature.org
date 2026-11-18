@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - An Attack By Kalkars"
 weight: 10
-aliases:
-  - "/authors/burroughs-edgar-rice/the-moon-maid/chapter-09.html"
+url: "/authors/burroughs-edgar-rice/the-moon-maid/chapter-09.html"
 ---
 
 The tunnel in which I found myself and along which Nah-ee-lah led me toward the city of Laythe was remarkable in several particulars. It was largely of natural origin, seemingly consisting of a series of caves which may have been formed by bubbles in the cooling lava of the original molten flow and which had later been connected by man to form a continuous subterranean corridor. The caves themselves were usually more or less spherical in shape and the debris from the connecting passageways had been utilized to fill the bottoms of them to the level of the main floor of the passageway. The general trend of the tunnel was upward from the point at which we had entered it, and there was a constant draught of air rushing along it in the same direction in which we were moving, assuring me that it was undoubtedly well ventilated for its full length. The walls and ceiling were coated with a substance of which radium was evidently one of the ingredients, since even after we had lost sight of the entrance the passageway was well illuminated. We had been moving along in silence for quite a little distance when I finally addressed Nah-ee-lah.

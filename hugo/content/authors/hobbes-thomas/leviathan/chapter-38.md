@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - Of The Signification In Scripture Of Eternall Life, Hell, Salvation, The World To Come, And Redemption"
 weight: 40
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-38.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-38.html"
 ---
 
 The maintenance of Civill Society, depending on Justice; and Justice on the power of Life and Death, and other lesse Rewards and Punishments, residing in them that have the Soveraignty of the Common-wealth; It is impossible a Common-wealth should stand, where any other than the Soveraign, hath a power of giving greater rewards than Life; and of inflicting greater punishments than Death. Now seeing Eternall Life is a greater reward, than the Life Present; and Eternall Torment a greater punishment than the Death of Nature; It is a thing worthy to be well considered, of all men that desire (by obeying Authority) to avoid the calamities of Confusion, and Civill war, what is meant in Holy Scripture, by Life Eternall, and Torment Eternall; and for what offences, against whom committed, men are to be Eternally Tormented; and for what actions, they are to obtain Eternall Life.

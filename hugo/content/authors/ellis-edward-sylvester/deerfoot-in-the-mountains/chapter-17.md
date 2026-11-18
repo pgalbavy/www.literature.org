@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Memorable Duel"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-17.html"
 ---
 
 Deerfoot the Shawanoe, before entering the elevated wooded portion to the east of the bleak plain that had been the scene of his triumphs the day before, paused and carefully scrutinized all that lay within his field of vision. He was not altogether free from a shadowy suspicion that Taggarak would resort to treachery, though for reasons named by Mul-tal-la it was improbable. Despite the care the youth had used, he feared that rumors of the coming fight had got abroad, and some of the curious might brave the wrath of their chief for the sake of viewing the combat. That which Deerfoot saw, or rather failed to see, convinced him that both fears were unfounded.

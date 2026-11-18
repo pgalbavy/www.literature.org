@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Revelations"
 weight: 9
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-09.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-09.html"
 ---
 
 It was the Mexican woman, Maria. As Buck recognized her he rose quietly and moved swiftly toward the door. But if he had hoped to catch her unawares, he was disappointed. He had scarcely taken a step when, through the telltale mirror, he saw her straighten like a flash and move back with catlike swiftness toward the passage leading to the kitchen. When he reached the living-room she stood there calm and casual, with quite the air of one entering for the first time.

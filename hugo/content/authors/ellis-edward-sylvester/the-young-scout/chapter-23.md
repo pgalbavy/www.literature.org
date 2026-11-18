@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - What Befell Maurice Freeman"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-scout/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-23.html"
 ---
 
 It will not be denied that a most memorable experience befell Lieutenant James Decker, and yet what shall be said of that which came to Maurice Freeman, whom he left beside the spring, while he went forward to reconnoiter?

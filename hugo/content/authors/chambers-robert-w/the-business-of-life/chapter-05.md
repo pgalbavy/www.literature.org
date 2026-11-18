@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/chambers-robert-w/the-business-of-life/chapter-05.html"
+url: "/authors/chambers-robert-w/the-business-of-life/chapter-05.html"
 ---
 
 On Monday, Desboro waited all the morning for her, meeting every train. At noon, she had not arrived. Finally, he called up her office and was informed that Miss Nevers had been detained in town on business, and that their Mr. Kirk had telephoned him that morning to that effect.

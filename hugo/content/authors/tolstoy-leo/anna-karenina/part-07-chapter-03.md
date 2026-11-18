@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 3"
 weight: 192
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-03.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-03.html"
 ---
 
 Levin had on this visit to town seen a great deal of his old friend at the university, Professor Katavasov, whom he had not seen since his marriage. He liked in Katavasov the clearness and simplicity of his conception of life. Levin thought that the clearness of Katavasov's conception of life was due to the poverty of his nature; Katavasov thought that the disconnectedness of Levin's ideas was due to his lack of intellectual discipline; but Levin enjoyed Katavasov's clearness, and Katavasov enjoyed the abundance of Levin's untrained ideas, and they liked to meet and to discuss.

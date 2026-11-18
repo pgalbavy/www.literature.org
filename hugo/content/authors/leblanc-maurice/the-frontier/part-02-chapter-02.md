@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 2 - Philippe Tells A Lie"
 weight: 10
-aliases:
-  - "/authors/leblanc-maurice/the-frontier/part-02-chapter-02.html"
+url: "/authors/leblanc-maurice/the-frontier/part-02-chapter-02.html"
 ---
 
 The three women met in the drawing-room. Mme. Morestal walked up and down in dismay, hardly knowing what she was saying:

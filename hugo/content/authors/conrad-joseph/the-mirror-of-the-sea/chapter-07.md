@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-07.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-07.html"
 ---
 
 *THE* other year, looking through a newspaper of sound principles, but whose staff *will* persist in "casting" anchors and going to sea "on" a ship (ough!), I came across an article upon the season’s yachting. And, behold! it was a good article. To a man who had but little to do with pleasure sailing (though all sailing is a pleasure), and certainly nothing whatever with racing in open waters, the writer’s strictures upon the handicapping of yachts were just intelligible and no more. And I do not pretend to any interest in the enumeration of the great races of that year. As to the 52-foot linear raters, praised so much by the writer, I am warmed up by his approval of their performances; but, as far as any clear conception goes, the descriptive phrase, so precise to the comprehension of a yachtsman, evokes no definite image in my mind.

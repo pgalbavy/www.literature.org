@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 2"
 weight: 8
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-02-chapter-02.html"
+url: "/authors/conrad-joseph/the-rescue/part-02-chapter-02.html"
 ---
 
 It was in the most unknown perhaps of such spots, a small bay on the coast of New Guinea, that young Pata Hassim, the nephew of one of the greatest chiefs of Wajo, met Lingard for the first time.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Pencilings By The Way"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/seth-jones/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/seth-jones/chapter-12.html"
 ---
 
 We have said the hunter was right. By the accidental turning of the hunting knife, he had not only been saved his life, but his efforts had been turned in the right direction.

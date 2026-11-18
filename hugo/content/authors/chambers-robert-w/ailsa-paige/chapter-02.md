@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/chambers-robert-w/ailsa-paige/chapter-02.html"
+url: "/authors/chambers-robert-w/ailsa-paige/chapter-02.html"
 ---
 
 All the morning she had been busy in the Craig's backyard garden, clipping, training, loosening the earth around lilac, honeysuckle, and Rose of Sharon. The little German florist on the corner had sent in two loads of richly fertilised soil and a barrel of forest mould. These she sweetened with lime, mixed in her small pan, and applied judiciously to the peach-tree by the grape-arbour, to the thickets of pearl-gray iris, to the beloved roses, prairie climber, Baltimore bell, and General Jacqueminot. A neighbour's cat, war-scarred and bold, traversing the fences in search of single combat, halted to watch her; an early bee, with no blossoms yet to rummage, passed and repassed, buzzing distractedly.

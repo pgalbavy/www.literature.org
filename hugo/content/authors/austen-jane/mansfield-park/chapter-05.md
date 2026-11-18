@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-05.html"
+url: "/authors/austen-jane/mansfield-park/chapter-05.html"
 ---
 
 The young people were pleased with each other from the first. On each side there was much to attract, and their acquaintance soon promised as early an intimacy as good manners would warrant. Miss Crawford's beauty did her no disservice with the Miss Bertrams. They were too handsome themselves to dislike any woman for being so too, and were almost as much charmed as their brothers with her lively dark eye, clear brown complexion, and general prettiness. Had she been tall, full formed, and fair, it might have been more of a trial: but as it was, there could be no comparison; and she was most allowably a sweet, pretty girl, while they were the finest young women in the country.

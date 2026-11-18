@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-05.html"
+url: "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-05.html"
 ---
 
 The Saw-Horse, finding himself alive, seemed even more astonished than Tip. He rolled his knotty eyes from side to side, taking a first wondering view of the world in which he had now so important an existence. Then he tried to look at himself; but he had, indeed, no neck to turn; so that in the endeavor to see his body he kept circling around and around, without catching even a glimpse of it. His legs were stiff and awkward, for there were no knee-joints in them; so that presently he bumped against Jack Pumpkinhead and sent that personage tumbling upon the moss that lined the roadside.

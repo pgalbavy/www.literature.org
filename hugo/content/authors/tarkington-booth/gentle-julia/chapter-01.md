@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/tarkington-booth/gentle-julia/chapter-01.html"
+url: "/authors/tarkington-booth/gentle-julia/chapter-01.html"
 ---
 
 Superciliousness is not safe after all, because a person who forms the habit of wearing it may some day find his lower lip grown permanently projected beyond the upper, so that he can't get it back, and must go through life looking like the King of Spain. This was once foretold as a probable culmination of Florence Atwater's still plastic profile, if Florence didn't change her way of thinking; and upon Florence's remarking dreamily that the King of Spain was an awf'ly han'some man, her mother retorted: "But not for a girl!" She meant, of course, that a girl who looked too much like the King of Spain would not be handsome, but her daughter decided to misunderstand her.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Concerning Sam Mckee"
 weight: 19
-aliases:
-  - "/authors/titus-harold/the-last-straw/chapter-19.html"
+url: "/authors/titus-harold/the-last-straw/chapter-19.html"
 ---
 
 Webb was building biscuits and Hepburn was slicing a steak from the hind quarter of a carcass that a few days before had been an HC steer. McKee entered with an armful of wood. He dropped it into the box beside the stove with a clatter and went out again. He was whistling a doleful little tune, as a preoccupied man will whistle. His gray eyes were peculiarly grim and when he stopped whistling, his mouth set into determined lines.

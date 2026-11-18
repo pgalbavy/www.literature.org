@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 26"
 weight: 183
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-26.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-26.html"
 ---
 
 In September Levin moved to Moscow for Kitty's confinement. He had spent a whole month in Moscow with nothing to do, when Sergey Ivanovitch, who had property in the Kashinsky province, and took great interest in the question of the approaching elections, made ready to set off to the elections. He invited his brother, who had a vote in the Seleznevsky district, to come with him. Levin had, moreover, to transact in Kashin some extremely important business relating to the wardship of land and to the receiving of certain redemption-money for his sister, who was abroad.

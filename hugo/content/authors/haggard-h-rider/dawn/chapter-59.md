@@ -1,8 +1,7 @@
 ---
 title: "Chapter 59"
 weight: 60
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-59.html"
+url: "/authors/haggard-h-rider/dawn/chapter-59.html"
 ---
 
 The news of George Caresfoot's tragic death was soon common property, and following as it did so hard upon his marriage, which now was becoming known, and within a few hours of the destruction of his house by fire, it caused no little excitement. It cannot be said that the general feeling was one of very great regret; it was not. George Caresfoot had commanded deference as a rich man, but he certainly had not won affection. Still his fate excited general interest and sympathy, though some people were louder in their regrets over the death of such a plucky dog as Aleck, than over that of the man he killed, but then these had a personal dislike of George. When, however, it came to be rumoured that the dog had attacked George because George had struck the dog's mistress, general sympathy veered decidedly towards the dog. By-and-by, as some of the true facts of the case came out, namely, that Angela Caresfoot had gone mad, that her lover, who was supposed to be dead, had been seen in Rewtham on the evening of the wedding, that the news of Mr. Heigham's death had been concocted to bring about the marriage, and last, but not least, that the Isleworth estates had passed into the possession of Philip Caresfoot, public opinion grew very excited, and the dog Aleck was well spoken of.

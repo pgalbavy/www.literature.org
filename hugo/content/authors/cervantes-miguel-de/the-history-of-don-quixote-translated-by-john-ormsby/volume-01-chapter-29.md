@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 29 - Which Treats Of The Droll Device And Method Adopted To Extricate Our Love-Stricken Knight From The Severe Penance He Had Imposed Upon Himself"
 weight: 32
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-29.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-29.html"
 ---
 
 "Such, sirs, is the true story of my sad adventures; judge for yourselves now whether the sighs and lamentations you heard, and the tears that flowed from my eyes, had not sufficient cause even if I had indulged in them more freely; and if you consider the nature of my misfortune you will see that consolation is idle, as there is no possible remedy for it. All I ask of you is, what you may easily and reasonably do, to show me where I may pass my life unharassed by the fear and dread of discovery by those who are in search of me; for though the great love my parents bear me makes me feel sure of being kindly received by them, so great is my feeling of shame at the mere thought that I cannot present myself before them as they expect, that I had rather banish myself from their sight for ever than look them in the face with the reflection that they beheld mine stripped of that purity they had a right to expect in me."

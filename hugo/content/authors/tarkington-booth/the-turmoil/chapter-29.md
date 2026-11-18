@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-29.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-29.html"
 ---
 
 As Bibbs came out of the New House, a Sunday trio was in course of passage upon the sidewalk: an ample young woman, placid of face; a black-clad, thin young man, whose expression was one of habitual anxiety, habitual wariness and habitual eagerness. He propelled a perambulator containing the third—and all three were newly cleaned, Sundayfied, and made fit to dine with the wife's relatives.

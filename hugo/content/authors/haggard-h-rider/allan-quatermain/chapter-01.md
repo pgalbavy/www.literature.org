@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Consul’s Yarn"
 weight: 2
-aliases:
-  - "/authors/haggard-h-rider/allan-quatermain/chapter-01.html"
+url: "/authors/haggard-h-rider/allan-quatermain/chapter-01.html"
 ---
 
 A week had passed since the funeral of my poor boy Harry, and one evening I was in my room walking up and down and thinking, when there was a ring at the outer door. Going down the steps I opened it myself, and in came my old friends Sir Henry Curtis and Captain John Good, RN. They entered the vestibule and sat themselves down before the wide hearth, where, I remember, a particularly good fire of logs was burning.

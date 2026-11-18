@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Teasing Uncle Jerry"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-14.html"
 ---
 
 Farmer Green's flock of sheep had followed Snowball over the stone wall and back into the pasture. And soon every one of them was grazing again as if nothing had happened.

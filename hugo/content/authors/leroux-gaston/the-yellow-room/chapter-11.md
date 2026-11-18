@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - In Which Frederic Larsan Explains How The Murderer Was Able To Get Out Of \"The Yellow Room\""
 weight: 11
-aliases:
-  - "/authors/leroux-gaston/the-yellow-room/chapter-11.html"
+url: "/authors/leroux-gaston/the-yellow-room/chapter-11.html"
 ---
 
 Among the mass of papers, legal documents, memoirs, and extracts from newspapers, which I have collected, relating to the mystery of The "Yellow Room", there is one very interesting piece; it is a detail of the famous examination which took place that afternoon, in the laboratory of Professor Stangerson, before the Chief of the Surete. This narrative is from the pen of Monsieur Maleine, the Registrar, who, like the examining magistrate, had spent some of his leisure time in the pursuit of literature. The piece was to have made part of a book which, however, has never been published, and which was to have been entitled: "My Examinations." It was given to me by the Registrar himself, some time after the astonishing denouement to this case, and is unique in judicial chronicles.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Our Venture"
 weight: 4
-aliases:
-  - "/authors/gilman-charlotte-perkins/herland/chapter-04.html"
+url: "/authors/gilman-charlotte-perkins/herland/chapter-04.html"
 ---
 
 We were standing on a narrow, irregular, all too slanting little ledge, and should doubtless have ignominiously slipped off and broken our rash necks but for the vine. This was a thick-leaved, wide-spreading thing, a little like Amphelopsis.

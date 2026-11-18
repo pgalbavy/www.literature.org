@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-27.html"
+url: "/authors/london-jack/martin-eden/chapter-27.html"
 ---
 
 The sun of Martin's good fortune rose. The day after Ruth's visit, he received a check for three dollars from a New York scandal weekly in payment for three of his triolets. Two days later a newspaper published in Chicago accepted his "Treasure Hunters," promising to pay ten dollars for it on publication. The price was small, but it was the first article he had written, his very first attempt to express his thought on the printed page. To cap everything, the adventure serial for boys, his second attempt, was accepted before the end of the week by a juvenile monthly calling itself YOUTH AND AGE. It was true the serial was twenty-one thousand words, and they offered to pay him sixteen dollars on publication, which was something like seventy-five cents a thousand words; but it was equally true that it was the second thing he had attempted to write and that he was himself thoroughly aware of its clumsy worthlessness.

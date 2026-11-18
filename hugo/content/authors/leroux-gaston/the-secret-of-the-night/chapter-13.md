@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Living Bombs"
 weight: 13
-aliases:
-  - "/authors/leroux-gaston/the-secret-of-the-night/chapter-13.html"
+url: "/authors/leroux-gaston/the-secret-of-the-night/chapter-13.html"
 ---
 
 At random—because now he could only act at random—he returned to the datcha. Great disorder reigned there. The guard had been doubled. The general’s friends, summoned by Trebassof, surrounded the two poisoned sufferers and filled the house with their bustling devotion and their protestations of affection. However, an insignificant doctor from the common quarter of the Vasili-Ostrow, brought by the police, reassured everybody. The police had not found the general’s household physician at home, but promised the immediate arrival of two specialists, whom they had found instead. In the meantime they had picked up on the way this little doctor, who was gay and talkative as a magpie. He had enough to do looking after Matrena Petrovna, who had been so sick that her husband, Feodor Feodorovitch, still trembled, "for the first time in his life," as the excellent Ivan Petrovitch said.

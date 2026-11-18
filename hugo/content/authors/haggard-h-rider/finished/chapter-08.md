@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Rodd's Last Card"
 weight: 9
-aliases:
-  - "/authors/haggard-h-rider/finished/chapter-08.html"
+url: "/authors/haggard-h-rider/finished/chapter-08.html"
 ---
 
 The man led me to Marnham's room, which I had never entered before. All I could see at first, for the shutters were closed, was that the place seemed large, as bedchambers go in South Africa. When my eyes grew accustomed to the light, I made out the figure of a man seated in a chair with his head bent forward over a table that was placed at the foot of the bed almost in the centre of the room. I threw open the shutters and the morning light poured in. The man was Marnham. On the table were writing materials, also a brandy bottle with only a dreg of spirit in it. I looked for the glass and found it by his side on the floor, shattered, not merely broken.

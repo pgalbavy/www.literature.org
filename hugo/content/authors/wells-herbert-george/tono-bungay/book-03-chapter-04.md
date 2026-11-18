@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 4 - How I Stole The Heaps Of Quap From Mordet Island"
 weight: 11
-aliases:
-  - "/authors/wells-herbert-george/tono-bungay/book-03-chapter-04.html"
+url: "/authors/wells-herbert-george/tono-bungay/book-03-chapter-04.html"
 ---
 
 I

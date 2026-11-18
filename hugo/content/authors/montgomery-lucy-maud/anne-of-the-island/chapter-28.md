@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - A June Evening"
 weight: 28
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-28.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-28.html"
 ---
 
 "I wonder what it would be like to live in a world where it was always June," said Anne, as she came through the spice and bloom of the twilit orchard to the front door steps, where Marilla and Mrs. Rachel were sitting, talking over Mrs. Samson Coates' funeral, which they had attended that day. Dora sat between them, diligently studying her lessons; but Davy was sitting tailor-fashion on the grass, looking as gloomy and depressed as his single dimple would let him.

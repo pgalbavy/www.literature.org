@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Bobby's Mistake"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-19.html"
 ---
 
 AFTER a good deal of searching Bobby Bobolink discovered Timothy Turtle in a pool in Cedar Swamp, sunning himself on an old stump that was half under water.

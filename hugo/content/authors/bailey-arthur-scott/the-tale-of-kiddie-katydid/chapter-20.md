@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Stranger's Message"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-20.html"
 ---
 
 Leaper the Locust was a rude fellow. He actually tried to snatch the message out of Kiddie Katydid's hands. But the stranger promptly bowled him over and told him sternly to be off.

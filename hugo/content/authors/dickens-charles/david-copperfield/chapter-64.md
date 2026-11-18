@@ -1,8 +1,7 @@
 ---
 title: "Chapter 64 - A Last Retrospect"
 weight: 65
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-64.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-64.html"
 ---
 
 And now my written story ends. I look back, once more--for the last time--before I close these leaves.

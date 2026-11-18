@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41"
 weight: 42
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-41.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-41.html"
 ---
 
 March 20th. - Having now got rid of Mr. Huntingdon for a season, my spirits begin to revive. He left me early in February; and the moment he was gone, I breathed again, and felt my vital energy return; not with the hope of escape - he has taken care to leave me no visible chance of that - but with a determination to make the best of existing circumstances. Here was Arthur left to me at last; and rousing from my despondent apathy, I exerted all my powers to eradicate the weeds that had been fostered in his infant mind, and sow again the good seed they had rendered unproductive. Thank heaven, it is not a barren or a stony soil; if weeds spring fast there, so do better plants. His apprehensions are more quick, his heart more overflowing with affection than ever his father's could have been, and it is no hopeless task to bend him to obedience and win him to love and know his own true friend, as long as there is no one to counteract my efforts.

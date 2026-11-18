@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-16.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-16.html"
 ---
 
 Achmet Zek with two of his followers had circled far to the south to intercept the flight of his deserting lieutenant, Werper. Others had spread out in various directions, so that a vast circle had been formed by them during the night, and now they were beating in toward the center.

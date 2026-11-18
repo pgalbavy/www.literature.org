@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Slipper Of Cinderella"
 weight: 23
-aliases:
-  - "/authors/ostrander-isabel/the-fifth-ace/chapter-23.html"
+url: "/authors/ostrander-isabel/the-fifth-ace/chapter-23.html"
 ---
 
 Forgetting for a moment all else but the joy of his presence, she held out both hands with a glad little cry.

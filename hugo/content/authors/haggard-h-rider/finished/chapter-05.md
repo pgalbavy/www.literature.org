@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Game Of Cards"
 weight: 6
-aliases:
-  - "/authors/haggard-h-rider/finished/chapter-05.html"
+url: "/authors/haggard-h-rider/finished/chapter-05.html"
 ---
 
 I slept in Anscombe's room that night and looked after him. He was very feverish and the pain in his leg kept him awake a good deal. He told me that he could not bear Dr. Rodd and wished to get away at once. I had to explain to him that this was impossible until his spare oxen arrived which I was going to send for to Pretoria, but of other matters, including that of the dangerous state of his foot, I said nothing. I was thankful when towards two in the morning, he fell into a sound sleep and allowed me to do the same.

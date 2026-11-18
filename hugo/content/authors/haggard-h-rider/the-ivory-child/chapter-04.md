@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Harût And Marût"
 weight: 4
-aliases:
-  - "/authors/haggard-h-rider/the-ivory-child/chapter-04.html"
+url: "/authors/haggard-h-rider/the-ivory-child/chapter-04.html"
 ---
 
 After Lord Ragnall had seen his guests to the door in the old-fashioned manner, he returned and asked me if I played cards, or whether I preferred music. I was assuring him that I hated the sight of a card when Mr. Savage appeared in his silent way and respectfully inquired of his lordship whether any gentleman was staying in the house whose Christian name was Here-come-a-zany. Lord Ragnall looked at him with a searching eye as though he suspected him of being drunk, and then asked what he meant by such a ridiculous question.

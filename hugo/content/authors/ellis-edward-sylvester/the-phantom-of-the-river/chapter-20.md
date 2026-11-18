@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - War's Strategy"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-20.html"
 ---
 
 Even after considerable more conversation than has been recorded, Jethro Juggens and the missionary had much to learn of each other.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44 - The Vendetta"
 weight: 44
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-44.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-44.html"
 ---
 
 "At what point shall I begin my story, your excellency?" asked Bertuccio.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Dead Letter"
 weight: 13
-aliases:
-  - "/authors/hodgson-burnett-frances/vagabondia/chapter-13.html"
+url: "/authors/hodgson-burnett-frances/vagabondia/chapter-13.html"
 ---
 
 IT was all over,--all over at last. Dolly's first words had said this much when she opened her eyes, and found Aimée bending over her.

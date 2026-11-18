@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Nick"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-01.html"
 ---
 
 Nicholas Ribsam was a comical fellow from his earliest babyhood, and had an original way of doing almost everything he undertook.

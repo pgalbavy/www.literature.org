@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Loose Board"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-03.html"
 ---
 
 After Farmer Green put the lid with the holes in it over the top of the feeding trough, Grunty Pig began to grow. At last he was getting as much to eat as his brothers and sisters. And the bigger he grew, the more food he wanted. He was always on the watch for some extra tidbit--always rooting about to find some dainty that others had overlooked. Many a delicious piece of carrot, or turnip, or potato-paring rewarded him for his eager searching.

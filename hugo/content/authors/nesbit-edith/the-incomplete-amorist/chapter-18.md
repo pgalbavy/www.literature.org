@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Truth"
 weight: 18
-aliases:
-  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-18.html"
+url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-18.html"
 ---
 
 "Come, my pretty Jasmine lady, speak the truth."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Dinah's Discovery"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-06.html"
 ---
 
 When Captain Shirril told his wife that she and the servant were likely to find something to engage their attention above stairs, he spoke more in jest than earnest, but the remark served to prove the adage that many a truth is spoken at such times.

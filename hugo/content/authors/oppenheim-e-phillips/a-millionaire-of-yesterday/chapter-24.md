@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-24.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-24.html"
 ---
 
 An old man, with his face turned to the sea, was making a weary attempt at digging upon a small potato patch. The blaze of the tropical sun had become lost an hour or so before in a strange, grey mist, rising not from the sea, but from the swamps which lay here and there - brilliant, verdant patches of poison and pestilence. With the mist came a moist, sticky heat, the air was fetid. Trent wiped the perspiration from his forehead and breathed hard. This was an evil moment for him.

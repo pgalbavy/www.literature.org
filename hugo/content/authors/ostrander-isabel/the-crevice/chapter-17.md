@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Rescue"
 weight: 17
-aliases:
-  - "/authors/ostrander-isabel/the-crevice/chapter-17.html"
+url: "/authors/ostrander-isabel/the-crevice/chapter-17.html"
 ---
 
 Precisely at the hour of eight that night, a huge six-cylinder limousine drew up at the gate of Number Twenty-six Maple Avenue. Half-way down the block, well in the shadow of the trees which gave to the avenue its name, two more cars and a motor ambulance had halted.

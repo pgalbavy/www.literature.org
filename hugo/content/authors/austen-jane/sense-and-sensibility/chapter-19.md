@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-19.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-19.html"
 ---
 
 Edward remained a week at the cottage; he was earnestly pressed by Mrs. Dashwood to stay longer; but, as if he were bent only on self-mortification, he seemed resolved to be gone when his enjoyment among his friends was at the height. His spirits, during the last two or three days, though still very unequal, were greatly improved--he grew more and more partial to the house and environs--never spoke of going away without a sigh--declared his time to be wholly disengaged--even doubted to what place he should go when he left them--but still, go he must. Never had any week passed so quickly--he could hardly believe it to be gone. He said so repeatedly; other things he said too, which marked the turn of his feelings and gave the lie to his actions. He had no pleasure at Norland; he detested being in town; but either to Norland or London, he must go. He valued their kindness beyond any thing, and his greatest happiness was in being with them. Yet, he must leave them at the end of a week, in spite of their wishes and his own, and without any restraint on his time.

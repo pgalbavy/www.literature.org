@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - The Hunting Season Ends"
 weight: 28
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-28.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-28.html"
 ---
 
 The very worst things come to an end at last. No matter how bad a thing is, it cannot last forever. So it was with the hunting season for Lightfoot the Deer. There came a day when the law protected all Deer,—a day when the hunters could no longer go searching for Lightfoot.

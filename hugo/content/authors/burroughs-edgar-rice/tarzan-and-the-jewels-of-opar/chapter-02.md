@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-02.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-02.html"
 ---
 
 It was two weeks later that John Clayton, Lord Greystoke, riding in from a tour of inspection of his vast African estate, glimpsed the head of a column of men crossing the plain that lay between his bungalow and the forest to the north and west.

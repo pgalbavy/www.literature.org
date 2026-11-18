@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - \"In The Bosom Of Wild Nature\""
 weight: 4
-aliases:
-  - "/authors/leroux-gaston/the-yellow-room/chapter-04.html"
+url: "/authors/leroux-gaston/the-yellow-room/chapter-04.html"
 ---
 
 The Chateau du Glandier is one of the oldest chateaux in the Ile de France, where so many building remains of the feudal period are still standing. Built originally in the heart of the forest, in the reign of Philip le Bel, it now could be seen a few hundred yards from the road leading from the village of Sainte-Genevieve to Monthery. A mass of inharmonious structures, it is dominated by a donjon. When the visitor has mounted the crumbling steps of this ancient donjon, he reaches a little plateau where, in the seventeenth century, Georges Philibert de Sequigny, Lord of the Glandier, Maisons-Neuves and other places, built the existing town in an abominably rococo style of architecture.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The End Of Solitude"
 weight: 7
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-06.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-06.html"
 ---
 
 A rain-washed world, smelling sweet as a wet rose, a cloudless sky delicately blue, and a swollen stream tumbling and foaming under the bridge—of these Mr. Eddie Brandes was agreeably conscious as he stepped out on the verandah after breakfast, and, unclasping a large gold cigar case, inserted a cigar between his teeth.

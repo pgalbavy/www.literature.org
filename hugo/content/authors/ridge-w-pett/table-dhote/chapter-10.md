@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Time’s Method"
 weight: 10
-aliases:
-  - "/authors/ridge-w-pett/table-dhote/chapter-10.html"
+url: "/authors/ridge-w-pett/table-dhote/chapter-10.html"
 ---
 
 “TRAIN rather late, surely,” remarked Mr. Chelsfield deferentially to the Inspector.

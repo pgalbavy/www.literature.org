@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A Family Plot"
 weight: 9
-aliases:
-  - "/authors/doyle-arthur-conan/beyond-the-city/chapter-09.html"
+url: "/authors/doyle-arthur-conan/beyond-the-city/chapter-09.html"
 ---
 
 Little did poor Doctor Walker imagine as he sat at his breakfast-table next morning that the two sweet girls who sat on either side of him were deep in a conspiracy, and that he, munching innocently at his muffins, was the victim against whom their wiles were planned. Patiently they waited until at last their opening came.

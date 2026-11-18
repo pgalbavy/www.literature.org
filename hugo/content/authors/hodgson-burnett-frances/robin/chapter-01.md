@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-01.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-01.html"
 ---
 
 It was a soft starlit night mystically changing into dawn when Donal Muir left the tall, grave house on Eaton Square after the strangely enchanted dance given by the old Dowager Duchess of Darte. A certain impellingness of mood suggested that exercise would be a good thing and he decided to walk home. It was an impellingness of body as well as mind. He had remained later than the relative who had by chance been responsible for his being brought, an uninvited guest, to the party. The Duchess had not known that he was in London. It may also be accepted as a fact that to this festivity given for the pleasure of Mrs. Gareth-Lawless' daughter, she might not have chosen to assume the responsibility of extending him an invitation. She knew something of his mother and had sometimes discussed her with her old friend, Lord Coombe. She admired Helen Muir greatly and was also much touched by certain aspects of her maternity. What Lord Coombe had told her of the meeting of the two children in the Gardens, of their innocent child passion of attraction for each other, and of the unchildlike tragedy their enforced parting had obviously been to both had at once deeply interested and moved her. Coombe had only been able to relate certain surface incidents connected with the matter, but they had been incidents not easy to forget and from which unusual things might be deduced. No! She would not have felt prepared to be the first to deliberately throw these two young people across each other's paths at this glowing moment of their early blooming--knowing as she did Helen Muir's strongly anxious desire to keep them apart.

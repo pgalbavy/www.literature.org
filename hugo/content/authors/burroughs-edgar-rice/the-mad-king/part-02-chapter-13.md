@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 13 - The Two Kings"
 weight: 25
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-13.html"
+url: "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-13.html"
 ---
 
 Twenty troopers had ridden with Lieutenant Butzow and the false king from Lustadt to Blentz. During the long, hard ride there had been little or no conversation between the American and his friend, for Butzow was still unsuspicious of the true identity of the man who posed as the ruler of Lutha. The lieutenant was all anxiety to reach Blentz and rescue the American he thought imprisoned there and in danger of being shot.

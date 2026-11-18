@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Tor-O-Don"
 weight: 6
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-06.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-06.html"
 ---
 
 Pan-at-lee slept--the troubled sleep, of physical and nervous exhaustion, filled with weird dreamings. She dreamed that she slept beneath a great tree in the bottom of the Kor-ul-GRYF and that one of the fearsome beasts was creeping upon her but she could not open her eyes nor move. She tried to scream but no sound issued from her lips. She felt the thing touch her throat, her breast, her arm, and there it closed and seemed to be dragging her toward it. With a super-human effort of will she opened her eyes. In the instant she knew that she was dreaming and that quickly the hallucination of the dream would fade--it had happened to her many times before. But it persisted. In the dim light that filtered into the dark chamber she saw a form beside her, she felt hairy fingers upon her and a hairy breast against which she was being drawn. Jad-ben-Otho! this was no dream. And then she screamed and tried to fight the thing from her; but her scream was answered by a low growl and another hairy hand seized her by the hair of the head. The beast rose now upon its hind legs and dragged her from the cave to the moonlit recess without and at the same instant she saw the figure of what she took to be a Ho-don rise above the outer edge of the niche.

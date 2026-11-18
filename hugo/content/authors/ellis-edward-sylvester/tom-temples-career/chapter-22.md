@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - First Prospects"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-22.html"
 ---
 
 *FROM* the deck of the steamer, as it entered the harbor of San Francisco, Tom looked with eager interest at the city which was to be the scene of his future activity. But a few years had elapsed since the discovery of gold in California, and San Francisco was small compared with what it has since become. But, built as it was upon a hill-side, overlooking the bay, it was more conspicuous than many larger towns would have been, and, as may readily be imagined, was a welcome sight to voyagers who had been over twenty days at sea.

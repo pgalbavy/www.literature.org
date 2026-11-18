@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/burroughs-edgar-rice/the-land-that-time-forgot/chapter-02.html"
+url: "/authors/burroughs-edgar-rice/the-land-that-time-forgot/chapter-02.html"
 ---
 
 Toward morning, I must have dozed, though it seemed to me at the time that I had lain awake for days, instead of hours. When I finally opened my eyes, it was daylight, and the girl's hair was in my face, and she was breathing normally. I thanked God for that. She had turned her head during the night so that as I opened my eyes I saw her face not an inch from mine, my lips almost touching hers.

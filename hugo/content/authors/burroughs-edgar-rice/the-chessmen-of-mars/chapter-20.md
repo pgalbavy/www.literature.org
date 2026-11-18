@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-20.html"
+url: "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-20.html"
 ---
 
 GAHAN, watching through the aperture between the hangings, saw the frantic flight of their pursuers. A grim smile rested upon his lips as he viewed the mad scramble for safety and saw them throw away their swords and fight with one another to be first from the chamber of fear, and when they were all gone he turned back toward Tara, the smile still upon his lips; but the smile died the instant that he turned, for he saw that Tara had disappeared.

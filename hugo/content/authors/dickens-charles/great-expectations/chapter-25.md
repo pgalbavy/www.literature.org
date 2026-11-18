@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-25.html"
+url: "/authors/dickens-charles/great-expectations/chapter-25.html"
 ---
 
 BENTLEY DRUMMLE, who was so sulky a fellow that he even took up a book as ifits writer had done him an injury, did not take up an acquaintance in a more agreeable spirit. Heavy in figure, movement, and comprehension -- in the sluggish complexion of his face, and in the large awkward tongue that seemed to loll about in his mouth as he himself lolled about in a room -- he was idle, proud, niggardly, reserved, and suspicious. He came of rich people down in Somersetshire, who had nursed this combination of qualities until they made the discovery that it was just of age and a blockhead. Thus, Bentley Drummle had come to Mr Pocket when he was a head taller than that gentleman, and half a dozen heads thicker than most gentlemen.

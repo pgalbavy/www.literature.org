@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Mystified Sentinel"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-11.html"
 ---
 
 Jared Long, the New Englander, and Quincal, the native helper, were the sentinels on duty in the immediate vicinity of the camp.

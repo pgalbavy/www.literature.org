@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/baum-l-frank/the-magic-of-oz/chapter-02.html"
+url: "/authors/baum-l-frank/the-magic-of-oz/chapter-02.html"
 ---
 
 Even a hawk has to fly high in order to cross the Deadly Desert, from which poisonous fumes are constantly rising. Kiki Aru felt sick and faint by the time he reached good land again, for he could not quite escape the effects of the poisons. But the fresh air soon restored him and he alighted in a broad table-land which is called Hiland. Just beyond it is a valley known as Loland, and these two countries are ruled by the Gingerbread Man, John Dough, with Chick the Cherub as his Prime Minister. The hawk merely stopped here long enough to rest, and then he flew north and passed over a fine country called Merryland, which is ruled by a lovely Wax Doll. Then, following the curve of the Desert, he turned north and settled on a tree-top in the Kingdom of Noland.

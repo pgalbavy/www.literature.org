@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Brothers Of Angels"
 weight: 20
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-20.html"
+url: "/authors/tarkington-booth/penrod/chapter-20.html"
 ---
 
 "Indeed, doctor," said Mrs. Schofield, with agitation and profound conviction, just after eight o'clock that evening, "I shall *ALWAYS* believe in mustard plasters—mustard plasters and hot—water bags. If it hadn't been for them I don't believed he'd have *LIVED* till you got here —I do *NOT*!"

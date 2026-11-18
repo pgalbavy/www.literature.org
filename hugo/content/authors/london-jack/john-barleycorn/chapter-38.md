@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38"
 weight: 38
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-38.html"
+url: "/authors/london-jack/john-barleycorn/chapter-38.html"
 ---
 
 The foregoing is a sample roaming with the White Logic through the dusk of my soul.

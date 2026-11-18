@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 1"
 weight: 32
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-03-chapter-01.html"
+url: "/authors/cather-willa/song-of-the-lark/part-03-chapter-01.html"
 ---
 
 So many grinning, stupid faces! Thea was sitting by the window in Bowers's studio, waiting for him to come back from lunch. On her knee was the latest number of an illustrated musical journal in which musicians great and little stridently advertised their wares. Every afternoon she played accompaniments for people who looked and smiled like these. She was getting tired of the human countenance.

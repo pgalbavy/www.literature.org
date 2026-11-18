@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Dido Meets Don"
 weight: 7
-aliases:
-  - "/authors/barnum-richard/dido-the-dancing-bear/chapter-07.html"
+url: "/authors/barnum-richard/dido-the-dancing-bear/chapter-07.html"
 ---
 
 Dido, the dancing bear, looked about him as he stepped down out of the railroad car. The train had stopped at a small country station, and when some men and boys, who were waiting on the platform, saw the bear they crowded up close to have a better look at him.

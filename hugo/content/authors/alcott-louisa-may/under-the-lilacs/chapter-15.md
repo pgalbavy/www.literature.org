@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Ben's Ride"
 weight: 15
-aliases:
-  - "/authors/alcott-louisa-may/under-the-lilacs/chapter-15.html"
+url: "/authors/alcott-louisa-may/under-the-lilacs/chapter-15.html"
 ---
 
 Great was the mourning for Sancho, because his talents and virtues made him universally admired and beloved. Miss Celia advertised, Thorny offered rewards, and even surly Pat kept a sharp look-out for poodle dogs when he went to market; but no Sancho or any trace of him appeared. Ben was inconsolable, and sternly said it served Bab right when the dogwood poison affected both face and hands. Poor Bab thought so, too, and dared ask no sympathy from him, though Thorny eagerly prescribed plantain leaves, and Betty kept her supplied with an endless succession of them steeped in cream and pitying tears. This treatment was so successful that the patient soon took her place in society as well as ever, but for Ben's affliction there was no cure, and the boy really suffered in his spirits.

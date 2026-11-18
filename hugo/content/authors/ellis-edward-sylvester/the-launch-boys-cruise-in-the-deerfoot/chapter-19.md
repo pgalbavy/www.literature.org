@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Not Near Either Bank"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-19.html"
 ---
 
 Having convinced themselves that the man in gray was near at hand, the next question Alvin and Chester asked themselves was whether he knew of *their* proximity. It would seem not, for they had moved with the silence of shadows, and spoken in the most guarded of undertones. Moreover, it was not to be supposed that he would smoke a cigar, knowing the liability of betraying himself, just as he had done. Further, there was the danger of the glowing end catching the eye of anyone in the vicinity. The youths peered here and there in the obscurity in quest of a tiny torch, but failed to see it.

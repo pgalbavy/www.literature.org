@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Camp Heaven"
 weight: 18
-aliases:
-  - "/authors/daviess-maria-thompson/the-daredevil/chapter-18.html"
+url: "/authors/daviess-maria-thompson/the-daredevil/chapter-18.html"
 ---
 
 And I was very glad indeed that he did not go with me for that toilet to my hands, for it might have happened that a noise would have deprived me of a very beautiful thing that I discovered, through a window under a vine of roses that opened upon that back porch.

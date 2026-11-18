@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - A Happy Day"
 weight: 23
-aliases:
-  - "/authors/alcott-louisa-may/jack-and-jill/chapter-22.html"
+url: "/authors/alcott-louisa-may/jack-and-jill/chapter-22.html"
 ---
 
 "Oh dear! Only a week more, and then we must go back. Don't you hate the thoughts of it?" said Jack, as he was giving Jill her early walk on the beach one August morning.

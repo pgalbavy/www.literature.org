@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/london-jack/the-jacket-star-rover/chapter-16.html"
+url: "/authors/london-jack/the-jacket-star-rover/chapter-16.html"
 ---
 
 Warden Atherton, when he thinks of me, must feel anything but pride. I have taught him what spirit is, humbled him with my own spirit that rose invulnerable, triumphant, above all his tortures. I sit here in Folsom, in Murderers' Row, awaiting my execution; Warden Atherton still holds his political job and is king over San Quentin and all the damned within its walls; and yet, in his heart of hearts, he knows that I am greater than he.

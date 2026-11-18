@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The High-Born Babe"
 weight: 8
-aliases:
-  - "/authors/nesbit-edith/the-wouldbegoods/chapter-08.html"
+url: "/authors/nesbit-edith/the-wouldbegoods/chapter-08.html"
 ---
 
 It really was not such a bad baby - for a baby. Its face was round and quite clean, which babies' faces are not always, as I daresay you know by your own youthful relatives; and Dora said its cape was trimmed with real lace, whatever that may be - I don't see myself how one kind of lace can be realler than another. It was in a very swagger sort of perambulator when we saw it; and the perambulator was standing quite by itself in the lane that leads to the mill.

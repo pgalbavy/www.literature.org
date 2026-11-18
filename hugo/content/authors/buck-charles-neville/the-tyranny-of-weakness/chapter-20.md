@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-20.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-20.html"
 ---
 
 The visitor did not miss the sudden and instinctive change on the face of her hostess or the impulsive start as if to draw back in distaste. Conscience evidently saw in this visit a violation of all canons of good taste. At all events she remained standing as if letting her attitude express her unwillingness to prolong the situation.

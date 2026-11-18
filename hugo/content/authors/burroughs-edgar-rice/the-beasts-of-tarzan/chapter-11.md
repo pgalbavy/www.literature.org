@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Tambuzda"
 weight: 11
-aliases:
-  - "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-11.html"
+url: "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-11.html"
 ---
 
 Tarzan scooped a shallow grave for the Kincaid's cook, beneath whose repulsive exterior had beaten the heart of a chivalrous gentleman. That was all he could do in the cruel jungle for the man who had given his life in the service of his little son and his wife.

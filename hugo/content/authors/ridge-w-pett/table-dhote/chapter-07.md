@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Usurper"
 weight: 7
-aliases:
-  - "/authors/ridge-w-pett/table-dhote/chapter-07.html"
+url: "/authors/ridge-w-pett/table-dhote/chapter-07.html"
 ---
 
 HE told some friends whom he caught up on the way that his was a position of pretty middling tidy responsibility, and when he spoke more freely on the topic they gave a whistle which conveyed an amount of astonishment that proved gratifying. The lad explained to each in turn that his mother was an uncommonly good manager, able to make a penny go as far as some could use a shilling; each made the identical reply before selecting a turning on the right of Kingsland Road, that it must nevertheless be a close fit, and added, “Stick to it, old man; wish you better luck,” with all the solemnity and earnestness of boys who have but recently started work. One or two acquaintances shouted to him from the tops of electric trams, flying Stamford Hill way, indicating by signs the existence of a vacant seat; he shook his head and marched on. Three girls, making their way home by a series of spasmodic rushes, with at intervals hysterical appeals to each other not to act the silly (being, in fact, so delighted at release from work that they scarcely knew how to make proclamation of their happiness)—these snatched at his cap and, a few yards off, threw it back to him, taking at once to their heels, and later becoming extremely indignant because he had not respected the rules of the game by chasing them and administering punishment in the shape of a blow on the shoulder. Their annoyance at his reticent manner was so great that they presently waited, demanding of him when he arrived whether he thought himself everybody. Failing to obtain an answer, they furnished estimates on their own account, asserting (by happy choice of words) that he was deaf, dumb, or dotty; he did not trouble to contradict, and they gave him up. Nearing home, he increased his frown of importance.

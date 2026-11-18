@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/chambers-robert-w/cardigan/chapter-02.html"
+url: "/authors/chambers-robert-w/cardigan/chapter-02.html"
 ---
 
 When Sir William left me in the school-room, he left a lad of sixteen puffed up in a glow of pride. To be treated no longer as a fractious child—to be received at last as a man among men!

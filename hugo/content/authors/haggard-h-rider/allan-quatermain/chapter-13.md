@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - About The Zu-Vendi People"
 weight: 14
-aliases:
-  - "/authors/haggard-h-rider/allan-quatermain/chapter-13.html"
+url: "/authors/haggard-h-rider/allan-quatermain/chapter-13.html"
 ---
 
 And now the curtain is down for a few hours, and the actors in this novel drama are plunged in dewy sleep. Perhaps we should except Nyleptha, whom the reader may, if poetically inclined, imagine lying in her bed of state encompassed by her maidens, tiring women, guards, and all the other people and appurtenances that surround a throne, and yet not able to slumber for thinking of the strangers who had visited a country where no such strangers had ever come before, and wondering, as she lay awake, who they were and what their past has been, and if she was ugly compared to the women of their native place. I, however, not being poetically inclined, will take advantage of the lull to give some account of the people among whom we found ourselves, compiled, needless to state, from information which we subsequently collected.

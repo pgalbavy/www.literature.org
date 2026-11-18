@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 3 - A Piece Of Work"
 weight: 20
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-02-chapter-03.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-02-chapter-03.html"
 ---
 
 Britannia, sitting meditating one fine day (perhaps in the attitude in which she is presented on the copper coinage), discovers all of a sudden that she wants Veneering in Parliament. It occurs to her that Veneering is ‘a representative man’--which cannot in these times be doubted--and that Her Majesty’s faithful Commons are incomplete without him. So, Britannia mentions to a legal gentleman of her acquaintance that if Veneering will ‘put down’ five thousand pounds, he may write a couple of initial letters after his name at the extremely cheap rate of two thousand five hundred per letter. It is clearly understood between Britannia and the legal gentleman that nobody is to take up the five thousand pounds, but that being put down they will disappear by magical conjuration and enchantment.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A Native Hercules"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-09.html"
 ---
 
 The savages that had shown such pluck in the instances described, now gave another striking proof of their courage.

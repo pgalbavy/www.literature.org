@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - In Her Service"
 weight: 13
-aliases:
-  - "/authors/dorrance-ethel-and-james/lonesome-town/chapter-13.html"
+url: "/authors/dorrance-ethel-and-james/lonesome-town/chapter-13.html"
 ---
 
 Perhaps never had Peter Pape felt in more of a rush to reach any given spot. Yet, once there, he seemed in a greater rush to get away. Scarcely did he pause in his brisk walk along the pavement outside the park wall to study the details of the scene beneath the poplars which so had interested him—three laborers dressed in jeans, each equipped with pick or shovel, digging in the shade under direction of a dapper-dressed, slight-built stranger. But in the sprinkling of curious bystanders, men and women who decorated the wall like rail-birds, there was no sight of her whom he rather had expected to find among those present.

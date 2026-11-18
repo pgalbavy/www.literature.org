@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 9 - Barbara In Mexico"
 weight: 27
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-09.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-09.html"
 ---
 
 THE manager of El Orobo Rancho was an American named Grayson. He was a tall, wiry man whose education had been acquired principally in the cow camps of Texas, where, among other things one does NOT learn to love nor trust a greaser. As a result of this early training Grayson was peculiarly unfitted in some respects to manage an American ranch in Mexico; but he was a just man, and so if his vaqueros did not love him, they at least respected him, and everyone who was or possessed the latent characteristics of a wrongdoer feared him.

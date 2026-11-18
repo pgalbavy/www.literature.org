@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/collins-wilkie/the-haunted-hotel/chapter-21.html"
+url: "/authors/collins-wilkie/the-haunted-hotel/chapter-21.html"
 ---
 
 Lord and Lady Montbarry were received by the housekeeper; the manager being absent for a day or two on business connected with the affairs of the hotel.

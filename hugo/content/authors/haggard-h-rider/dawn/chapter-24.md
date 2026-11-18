@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 25
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-24.html"
+url: "/authors/haggard-h-rider/dawn/chapter-24.html"
 ---
 
 Next morning, when they met at their eight o'clock breakfast, Arthur noticed that Angela was distressed about something.

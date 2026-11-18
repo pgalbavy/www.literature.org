@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Mining And Countermining"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-05.html"
 ---
 
 Fred expected every moment to catch the dull crack of the rifle from the subterranean regions as a signal that Mickey O'Rooney had neither closed his eyes to the impending peril, nor had given way to despair at the trying position in which he was placed. But the stillness remained unbroken, while the lasso was steadily paid out by the dusky hands of the swarthy warrior, whose motions were closely watched by the others.

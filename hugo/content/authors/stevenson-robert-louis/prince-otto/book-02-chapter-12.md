@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 12 - Providence Von Rosen: Act The Second She Informs The Prince"
 weight: 18
-aliases:
-  - "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-12.html"
+url: "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-12.html"
 ---
 
 It was the first impulse of Madame von Rosen to return to her own villa and revise her toilette. Whatever else should come of this adventure, it was her firm design to pay a visit to the Princess. And before that woman, so little beloved, the Countess would appear at no disadvantage. It was the work of minutes. Von Rosen had the captain’s eye in matters of the toilette; she was none of those who hang in Fabian helplessness among their finery and, after hours, come forth upon the world as dowdies. A glance, a loosened curl, a studied and admired disorder in the hair, a bit of lace, a touch of colour, a yellow rose in the bosom; and the instant picture was complete.

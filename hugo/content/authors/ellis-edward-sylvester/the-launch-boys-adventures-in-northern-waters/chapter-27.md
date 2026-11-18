@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - An Unwelcome Caller"
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-27.html"
 ---
 
 With rare wisdom Mike now gave an abrupt turn to the conversation. Lowering his voice to a confidential tone, he asked:

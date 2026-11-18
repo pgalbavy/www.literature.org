@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44"
 weight: 44
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-44.html"
+url: "/authors/austen-jane/mansfield-park/chapter-44.html"
 ---
 
 Seven weeks of the two months were very nearly gone, when the one letter, the letter from Edmund, so long expected, was put into Fanny's hands. As she opened, and saw its length, she prepared herself for a minute detail of happiness and a profusion of love and praise towards the fortunate creature who was now mistress of his fate. These were the contents--

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - \"The Hour Has Come\""
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-12.html"
 ---
 
 Ned Chadmund was too terrified to think of further sleep, nor did he dare to return to where he had been lying upon the blanket when aroused in such a startling manner. As he turned his horrified gaze in that direction, he saw the two combatants clutching and striking each other upon the ground, their blows growing feebler as their strength rapidly departed. The most alarming thing about this revolting contest was the fact that it did not attract the interest of a single spectator beyond the little fellow. There were plenty of Indians around, some of whom were within a dozen feet, and yet they paid no more attention to it than if the two were quietly smoking their pipes.

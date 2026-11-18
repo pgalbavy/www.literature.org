@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Mr. Crow Scolds"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-17.html"
 ---
 
 OLD Mr. Crow was angry with Grandfather Mole.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Towards The Golden Fleece"
 weight: 10
-aliases:
-  - "/authors/leblanc-maurice/the-secret-tomb/chapter-10.html"
+url: "/authors/leblanc-maurice/the-secret-tomb/chapter-10.html"
 ---
 
 It was not till nearly three days afterwards that Dorothy got the better of the physical torpor, aggravated by fever, which had overwhelmed her. The four boys gave a performance on the outskirts of Nantes. Montfaucon took the place of the directress in the leading rôle. It was a less taking spectacle; but in it the captain displayed such an animated comicality that the takings were good.

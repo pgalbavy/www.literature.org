@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Colonel Dodge"
 weight: 25
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/chapter-24.html"
+url: "/authors/coolidge-dane/silver-and-gold/chapter-24.html"
 ---
 
 Denver doubted it, himself, for human nature is much the same in man and woman and Drusilla had been sorely slighted; but the Oraculum had said that her heart was yearning towards him and the Book of Fate had always spoken true. Perhaps women were different, but if it had been done to him, he would have called down black curses instead. Yet women were different, one could never guess their moods, and perhaps Drusilla would forgive him. Not right away, of course, but after her blood had cooled and he had written a proper letter. He would let it go awhile, until he had framed up some excuse or decided to tell her the truth, and in the meantime there was plenty of work to do that would help him forget his sorrow. There was his mine, and McGraw had brought up some powder.

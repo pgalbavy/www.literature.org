@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 8 - On The War-Path"
 weight: 9
-aliases:
-  - "/authors/leblanc-maurice/the-tremendous-event/part-01-chapter-08.html"
+url: "/authors/leblanc-maurice/the-tremendous-event/part-01-chapter-08.html"
 ---
 
 At four o'clock in the morning, the streets were almost empty. A few fruit and vegetable-carts were making their way between the demolished houses and the shattered pavements. But from a neighbouring avenue there emerged a little cavalcade in which Simon immediately recognized, at the head of the party, astride a monstrous big horse, Old Sandstone, wearing his rusty top-hat, with the skirts of his black frock-coat overflowing either side of a saddle with bulging saddle-bags.

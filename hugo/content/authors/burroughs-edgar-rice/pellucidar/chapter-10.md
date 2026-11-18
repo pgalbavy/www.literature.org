@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Raid On The Cave-Prison"
 weight: 10
-aliases:
-  - "/authors/burroughs-edgar-rice/pellucidar/chapter-10.html"
+url: "/authors/burroughs-edgar-rice/pellucidar/chapter-10.html"
 ---
 
 His head was turned over his shoulder as I first saw him--he was looking back toward the village. As I leaped for him his eyes fell upon me. Never in my life have I seen a more surprised mortal than this poor cave man. Before he could utter a single scream of warning or alarm I had my fingers on his throat and had dragged him behind the boulder, where I proceeded to sit upon him, while I figured out what I had best do with him.

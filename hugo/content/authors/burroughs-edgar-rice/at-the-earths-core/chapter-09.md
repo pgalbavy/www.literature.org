@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Face of Death"
 weight: 10
-aliases:
-  - "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-09.html"
+url: "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-09.html"
 ---
 
 I MUST HAVE FALLEN ASLEEP FROM EXHAUSTION. When I awoke I was very hungry, and after busying myself searching for fruit for a while, I set off through the jungle to find the beach. I knew that the island was not so large but that I could easily find the sea if I did but move in a straight line, but there came the difficulty as there was no way in which I could direct my course and hold it, the sun, of course, being always directly above my head, and the trees so thickly set that I could see no distant object which might serve to guide me in a straight line.

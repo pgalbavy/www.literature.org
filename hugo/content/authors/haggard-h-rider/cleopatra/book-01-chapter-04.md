@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 4"
 weight: 5
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-01-chapter-04.html"
+url: "/authors/haggard-h-rider/cleopatra/book-01-chapter-04.html"
 ---
 
 OF THE DEPARTURE OF HARMACHIS AND OF HIS MEETING WITH HIS UNCLE SEPA, THE HIGH PRIEST OF ANNU EL RA; OF HIS LIFE AT ANNU, AND OF THE WORDS OF SEPA

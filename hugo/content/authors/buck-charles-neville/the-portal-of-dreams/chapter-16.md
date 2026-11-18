@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - An Interview And A Crisis"
 weight: 16
-aliases:
-  - "/authors/buck-charles-neville/the-portal-of-dreams/chapter-16.html"
+url: "/authors/buck-charles-neville/the-portal-of-dreams/chapter-16.html"
 ---
 
 As I stood there all immediate things were apparitions seen vague and distorted through a chaos of wild emotion. I had assumed that for an experimenter in the unexpected I could qualify as tried and seasoned. Now it seemed that all prior assaults upon my equanimity had been mere kindergarten exercises in control.

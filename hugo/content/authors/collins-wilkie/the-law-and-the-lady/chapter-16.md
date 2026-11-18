@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - First Question--Did The Woman Die Poisoned?"
 weight: 16
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-16.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-16.html"
 ---
 
 THE proceedings began at ten o'clock. The prisoner was placed at the Bar, before the High Court of Justiciary, at Edinburgh. He bowed respectfully to the Bench, and pleaded Not Guilty, in a low voice.

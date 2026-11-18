@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - \u0026quot;An Investment, Anyway\u0026quot;"
 weight: 2
-aliases:
-  - "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-02.html"
+url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-02.html"
 ---
 
 The natural result of these efforts was, that Miss Belinda was moved to shed a few tears.

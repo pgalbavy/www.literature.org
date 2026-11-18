@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 7 - The Hooded Face"
 weight: 8
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-01-chapter-07.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-01-chapter-07.html"
 ---
 
 They awoke in the grey of the morning; the birds were not yet in full song, but twittered here and there among the woods; the sun was not yet up, but the eastern sky was barred with solemn colours. Half starved and over-weary as they were, they lay without moving, sunk in a delightful lassitude. And as they thus lay, the clang of a bell fell suddenly upon their ears.

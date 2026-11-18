@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/tarkington-booth/alice-adams/chapter-20.html"
+url: "/authors/tarkington-booth/alice-adams/chapter-20.html"
 ---
 
 She was indeed "looking forward" to that evening, but in a cloud of apprehension; and, although she could never have guessed it, this was the simultaneous condition of another person—none other than the guest for whose pleasure so much cooking and scrubbing seemed to be necessary. Moreover, Mr. Arthur Russell's premonitions were no product of mere coincidence; neither had any magical sympathy produced them. His state of mind was rather the result of rougher undercurrents which had all the time been running beneath the surface of a romantic friendship.

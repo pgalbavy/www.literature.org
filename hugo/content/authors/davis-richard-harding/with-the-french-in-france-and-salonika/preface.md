@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/davis-richard-harding/with-the-french-in-france-and-salonika/preface.html"
+url: "/authors/davis-richard-harding/with-the-french-in-france-and-salonika/preface.html"
 ---
 
 This book was written during the three last months of 1915 and the first month of this year in the form of letters from France, Greece, Serbia, and England. The writer visited ten of the twelve sectors of the French front, seeing most of them from the first trench, and was also on the French-British front in the Balkans. Outside of Paris the French cities visited were Verdun, Amiens, St. Die, Arras, Chalons, Nancy, and Rheims. What he saw served to strengthen his admiration for the French army and, as individuals and as a nation, for the French people, and to increase his confidence in the ultimate success of their arms.

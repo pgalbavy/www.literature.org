@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - First Plays"
 weight: 7
-aliases:
-  - "/authors/davis-richard-harding/adventures-and-letters/chapter-07.html"
+url: "/authors/davis-richard-harding/adventures-and-letters/chapter-07.html"
 ---
 
 When the season in Paris had reached its end, Richard returned to London and later on to Marion, where he spent the late summer and early fall, working on his Mediterranean and Paris articles, and completing his novel "Soldiers of Fortune." In October he returned to New York and once more assumed his editorial duties and took his usual active interest in the winter's gayeties.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Moving Ways"
 weight: 5
-aliases:
-  - "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-05.html"
+url: "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-05.html"
 ---
 
 He went to the railings of the balcony and stared upward. An exclamation of surprise at his appearance, and the movements of a number of people came from the spacious area below.

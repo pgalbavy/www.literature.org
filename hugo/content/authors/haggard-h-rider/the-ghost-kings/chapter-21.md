@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The City Of The Dead"
 weight: 22
-aliases:
-  - "/authors/haggard-h-rider/the-ghost-kings/chapter-21.html"
+url: "/authors/haggard-h-rider/the-ghost-kings/chapter-21.html"
 ---
 
 Nya led the way down the cave, followed by Rachel and Noie. Squatted in its entrance, so as to be out of reach of the rays of the sun, sat Eddo, looking like a malevolent toad, and with him were Hana and some other priests. As Rachel approached they all rose and saluted, but to Nya and Noie they gave no salute. Only to Nya Eddo said:

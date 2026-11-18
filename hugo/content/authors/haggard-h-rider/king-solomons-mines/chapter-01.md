@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - I Meet Sir Henry Curtis"
 weight: 2
-aliases:
-  - "/authors/haggard-h-rider/king-solomons-mines/chapter-01.html"
+url: "/authors/haggard-h-rider/king-solomons-mines/chapter-01.html"
 ---
 
 It is a curious thing that at my age--fifty-five last birthday--I should find myself taking up a pen to try to write a history. I wonder what sort of a history it will be when I have finished it, if ever I come to the end of the trip! I have done a good many things in my life, which seems a long one to me, owing to my having begun work so young, perhaps. At an age when other boys are at school I was earning my living as a trader in the old Colony. I have been trading, hunting, fighting, or mining ever since. And yet it is only eight months ago that I made my pile. It is a big pile now that I have got it--I don't yet know how big--but I do not think I would go through the last fifteen or sixteen months again for it; no, not if I knew that I should come out safe at the end, pile and all. But then I am a timid man, and dislike violence; moreover, I am almost sick of adventure. I wonder why I am going to write this book: it is not in my line. I am not a literary man, though very devoted to the Old Testament and also to the "Ingoldsby Legends." Let me try to set down my reasons, just to see if I have any.

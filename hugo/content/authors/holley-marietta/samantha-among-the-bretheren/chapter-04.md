@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-04.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-04.html"
 ---
 
 Never knew a word about the threshin' machine a-comin' till about half an hour before. Josiah Allen wuzn't to blame. It come just as onexpected onto him as it did onto me.

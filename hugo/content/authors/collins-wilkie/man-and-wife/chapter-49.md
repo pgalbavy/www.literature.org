@@ -1,8 +1,7 @@
 ---
 title: "Chapter 49 - The Night"
 weight: 51
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-49.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-49.html"
 ---
 
 ON leaving Lady Lundie's house, Geoffrey called the first empty cab that passed him. He opened the door, and signed to Anne to enter the vehicle. She obeyed him mechanically. He placed himself on the seat opposite to her, and told the man to drive to Fulham.

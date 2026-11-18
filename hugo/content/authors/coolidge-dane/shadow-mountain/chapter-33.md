@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - The Fiery Furnace"
 weight: 33
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-33.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-33.html"
 ---
 
 To be a Huff, of course, was to be brave and true and never go back on a friend; but as the Colonel that evening began to speak on the subject, Virginia crept off to bed. She was tired from her night trip across the Sink of Death Valley, with only Crazy Charley for a guide; but it was Wiley, the inexorable, who drove her off weeping, for he would not take her hand. His mind was still fixed on the Gethsemane of the soul that he had gone through in Blount's bank at Vegas, and strive as she would she could not bring him back to play his poor part as lover. Whether she loved him or not was not the question--not even if she was willing to throw away her life by following him in his wanderings. Three times he had trusted her and three times she had played him false--and was that the honor of the Huffs?

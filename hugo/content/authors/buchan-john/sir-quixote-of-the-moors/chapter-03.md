@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - I Fare Badly Abroad"
 weight: 4
-aliases:
-  - "/authors/buchan-john/sir-quixote-of-the-moors/chapter-03.html"
+url: "/authors/buchan-john/sir-quixote-of-the-moors/chapter-03.html"
 ---
 
 All this has taken a long time to set down, but there was little time in the acting. Scarce half an hour had passed from my waking by the black fire till I found myself up to the waist in the stream. I made no further delay, but, as soon as the air was quiet, led Saladin out as stilly as I could on the far side of the willows, clambered on his back (for I was too sore in body to mount in any other fashion), and was riding for dear life along the moor road in the contrary direction to that from which I had come on the night before. The horse had plainly been well fed, since, doubtless, the ruffians had marked him for their own plunder. He covered the ground in gallant fashion, driving up jets and splashes of rain water from the pools in the way. Mile after mile was passed with no sound of pursuers; one hill gave place to another; the stream grew wider and more orderly; but still I kept up the breakneck pace, fearing to slacken rein. Fifteen miles were covered, as I judged, before I saw the first light of dawn in the sky, a red streak in a gray desert; and brought my horse down to a trot, thanking God that at last I was beyond danger.

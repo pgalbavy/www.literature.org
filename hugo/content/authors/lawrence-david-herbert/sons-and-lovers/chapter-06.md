@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Death In The Family"
 weight: 6
-aliases:
-  - "/authors/lawrence-david-herbert/sons-and-lovers/chapter-06.html"
+url: "/authors/lawrence-david-herbert/sons-and-lovers/chapter-06.html"
 ---
 
 ARTHUR MOREL was growing up. He was a quick, careless, impulsive boy, a good deal like his father. He hated study, made a great moan if he had to work, and escaped as soon as possible to his sport again.

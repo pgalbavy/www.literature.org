@@ -1,8 +1,7 @@
 ---
 title: "Book 8 - Chapter 22"
 weight: 167
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-08-chapter-22.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-08-chapter-22.html"
 ---
 
 That same evening Pierre went to the Rostovs' to fulfill the commission entrusted to him. Natasha was in bed, the count at the Club, and Pierre, after giving the letters to Sonya, went to Marya Dmitrievna who was interested to know how Prince Andrew had taken the news. Ten minutes later Sonya came to Marya Dmitrievna.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 54 - A Flurry In Stocks"
 weight: 54
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-54.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-54.html"
 ---
 
 Some days after this meeting, Albert de Morcerf visited the Count of Monte Cristo at his house in the Champs Elysees, which had already assumed that palace-like appearance which the count's princely fortune enabled him to give even to his most temporary residences. He came to renew the thanks of Madame Danglars which had been already conveyed to the count through the medium of a letter, signed "Baronne Danglars, nee Hermine de Servieux." Albert was accompanied by Lucien Debray, who, joining in his friend's conversation, added some passing compliments, the source of which the count's talent for finesse easily enabled him to guess. He was convinced that Lucien's visit was due to a double feeling of curiosity, the larger half of which sentiment emanated from the Rue de la Chaussee d'Antin. In short, Madame Danglars, not being able personally to examine in detail the domestic economy and household arrangements of a man who gave away horses worth 30,000 francs and who went to the opera with a Greek slave wearing diamonds to the amount of a million of money, had deputed those eyes, by which she was accustomed to see, to give her a faithful account of the mode of life of this incomprehensible person. But the count did not appear to suspect that there could be the slightest connection between Lucien's visit and the curiosity of the baroness.

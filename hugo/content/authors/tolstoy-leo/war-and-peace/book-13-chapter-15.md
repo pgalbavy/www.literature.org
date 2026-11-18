@@ -1,8 +1,7 @@
 ---
 title: "Book 13 - Chapter 15"
 weight: 294
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-13-chapter-15.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-13-chapter-15.html"
 ---
 
 In the early days of October another envoy came to Kutuzov with a letter from Napoleon proposing peace and falsely dated from Moscow, though Napoleon was already not far from Kutuzov on the old Kaluga road. Kutuzov replied to this letter as he had done to the one formerly brought by Lauriston, saying that there could be no question of peace.

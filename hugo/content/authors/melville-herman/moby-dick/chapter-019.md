@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Prophet"
 weight: 19
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-019.html"
+url: "/authors/melville-herman/moby-dick/chapter-019.html"
 ---
 
 "Shipmates, have ye shipped in that ship?"

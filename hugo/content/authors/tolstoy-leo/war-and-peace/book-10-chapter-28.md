@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 28"
 weight: 218
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-28.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-28.html"
 ---
 
 Many historians say that the French did not win the battle of Borodino because Napoleon had a cold, and that if he had not had a cold the orders he gave before and during the battle would have been still more full of genius and Russia would have been lost and the face of the world have been changed. To historians who believe that Russia was shaped by the will of one man- Peter the Great- and that France from a republic became an empire and French armies went to Russia at the will of one man- Napoleon- to say that Russia remained a power because Napoleon had a bad cold on the twenty-fourth of August may seem logical and convincing.

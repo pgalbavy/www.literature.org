@@ -1,8 +1,7 @@
 ---
 title: "part blah 02"
 weight: 999
-aliases:
-  - "/authors/davis-richard-harding/the-kings-jackal/part-blah-02.html"
+url: "/authors/davis-richard-harding/the-kings-jackal/part-blah-02.html"
 ---
 
 There is a certain kind of man over whom all other men smile inwardly. The tone of voice in which they speak of him has an affectionate growl, which, once heard, cannot be mistaken. Such a man is apt to cherish what other men call "impossible ideals about women," and it behooves his masculine friends to watch out for him carefully lest he come a cropper. Mr. Dennis Farraday was such a man among men, and Mr. Godfrey Vandeford loved him deeply. They had met when they were both twenty-three, on board a tramp steamer, bound for adventure in South Africa, and in the seven years that had elapsed since then they had spent periods of time together, in various kinds of sports. Killing time on Broadway was about the only sport that they had not tried together. By very solid banking and brokering Mr. Vandeford enjoyed and increased for himself and an aristocratic, Knickerbocker-descended mother a few ancestral millions. Incidentally, he took care of the sole hundred thousand dollars of which Mr. Vandeford's high financiering on Broadway had left him possessed. Mr. Farraday and Mrs. Justus Farraday represented the sole family ties possessed by Mr. Vandeford, and he considered them both most valuable. In fact, the maternal regard of Mrs. Justus Farraday was looked upon by Mr. Vandeford as his chief treasure and sheet-anchor in times of the high winds of life.

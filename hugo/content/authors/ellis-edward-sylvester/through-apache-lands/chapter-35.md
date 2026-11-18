@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - The Sentinel"
 weight: 35
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-35.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-35.html"
 ---
 
 Ned then understood why the two scouts had taken pains to fill their canteens at the brook during the day, and why, also, they so religiously preserved the little lunch still remaining in their possession. It was to guard against just such a contingency.

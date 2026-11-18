@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A London Winter"
 weight: 17
-aliases:
-  - "/authors/davis-richard-harding/adventures-and-letters/chapter-17.html"
+url: "/authors/davis-richard-harding/adventures-and-letters/chapter-17.html"
 ---
 
 From the fall of 1907 to that of 1908 Richard divided his time between Mount Kisco, Marion, and Cuba. In December of 1908 he sailed for London where he took Turner the artist's old house in Chelsea for the winter.

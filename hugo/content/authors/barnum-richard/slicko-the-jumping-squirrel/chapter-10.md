@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Slicko Runs Away"
 weight: 10
-aliases:
-  - "/authors/barnum-richard/slicko-the-jumping-squirrel/chapter-10.html"
+url: "/authors/barnum-richard/slicko-the-jumping-squirrel/chapter-10.html"
 ---
 
 “Come on, get the apple, Slicko!” called Bob.

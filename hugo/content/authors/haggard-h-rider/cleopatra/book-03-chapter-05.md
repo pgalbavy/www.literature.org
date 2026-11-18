@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 5"
 weight: 29
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-03-chapter-05.html"
+url: "/authors/haggard-h-rider/cleopatra/book-03-chapter-05.html"
 ---
 
 OF THE DRAWING FORTH OF ANTONY FROM THE TIMONIUM BACK TO CLEOPATRA; OF THE FEAST MADE BY CLEOPATRA; AND OF THE MANNER OF THE DEATH OF EUDOSIUS THE STEWARD

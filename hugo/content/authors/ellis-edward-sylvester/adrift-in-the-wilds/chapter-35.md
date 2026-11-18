@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - The Western Shore"
 weight: 35
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-35.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-35.html"
 ---
 
 The departure of Shasta gave rise to all manner of doubt and speculation. None of them believed he meditated bidding the party good-by until he went through the ceremony of shaking hands. This settled the matter, and they could have no cause for hope of seeing him again.

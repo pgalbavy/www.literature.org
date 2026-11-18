@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 27
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-26.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-26.html"
 ---
 
 “You are right. My real name is Harry Lucas. My father was a retired soldier who came out to farm in Rhodesia. He died when I was in my second year at Cambridge.”

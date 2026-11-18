@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 33
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-33.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-33.html"
 ---
 
 "No man," says a Rabbi, by way of indisputable instance, "may turn the bones of his father and mother into spoons" - sure that his hearers felt the checks against that form of economy. The market for spoons has never expanded enough for any one to say, "Why not?" and to argue that human progress lies in such an application of material. The only check to be alleged is a sentiment, which will coerce none who do not hold that sentiments are the better part of the world's wealth.

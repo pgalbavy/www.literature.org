@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Buck Finds Out Something"
 weight: 10
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-10.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-10.html"
 ---
 
 When the fact is chronicled that no less than three times in the succeeding eight days Buck Stratton was strongly tempted to put an end to the whole puzzling business by the simple expedient of declaring his identity and taking possession of the Shoe-Bar as his own, something may be guessed of the ingenuity of Tex Lynch in making life unpleasant for the new hand.

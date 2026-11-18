@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - I Begin Life On My Own Account, And Don’t Like It"
 weight: 12
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-11.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-11.html"
 ---
 
 I know enough of the world now, to have almost lost the capacity of being much surprised by anything; but it is matter of some surprise to me, even now, that I can have been so easily thrown away at such an age. A child of excellent abilities, and with strong powers of observation, quick, eager, delicate, and soon hurt bodily or mentally, it seems wonderful to me that nobody should have made any sign in my behalf. But none was made; and I became, at ten years old, a little labouring hind in the service of Murdstone and Grinby.

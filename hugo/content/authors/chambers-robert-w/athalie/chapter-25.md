@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-25.html"
+url: "/authors/chambers-robert-w/athalie/chapter-25.html"
 ---
 
 Winifred had grown stout, which, on a slim, small-boned woman is quickly apparent; and, to Clive, her sleepy, uncertain grey eyes seemed even nearer together than he remembered them.

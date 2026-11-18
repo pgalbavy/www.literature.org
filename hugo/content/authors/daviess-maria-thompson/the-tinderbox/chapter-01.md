@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Load"
 weight: 1
-aliases:
-  - "/authors/daviess-maria-thompson/the-tinderbox/chapter-01.html"
+url: "/authors/daviess-maria-thompson/the-tinderbox/chapter-01.html"
 ---
 
 All love is a gas, and it takes either loneliness, strength of character, or religion to liquefy it into a condition to be ladled out of us, one to another. There is a certain dangerously volatile state of it; and occasionally people, especially of opposite sexes, try to administer it to each other in that form, with asphyxiation resulting to both hearts. And I'm willing to confess that it is generally a woman's fault when such an accident occurs. That is, it is a mistake of her nature, not one of intent. But she is learning!

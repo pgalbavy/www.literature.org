@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Iroquois Against Iroquois"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-16.html"
 ---
 
 Slowly and evenly, as the shadow steals along the face of the dial, did the Mohawk draw the canoe from its resting place on the dark bank of the river. One might have stood and gazed directly at it for ten minutes without suspecting what was going on, it being only when he compared its situation with what it was a short time before that the difference was likely to be noticed. If the Iroquois sentinel should be on the alert for some such strategy on the part of the Mohawk, who was known to all as one of the most cunning of his race, it would seem that the trick was impossible. But there was every reason to hope that he did not suspect it, as his action in returning to his first station after the brief examination, showed, and the Mohawk acted on this belief.

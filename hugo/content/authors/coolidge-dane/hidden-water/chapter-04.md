@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Don Pablo Moreno"
 weight: 4
-aliases:
-  - "/authors/coolidge-dane/hidden-water/chapter-04.html"
+url: "/authors/coolidge-dane/hidden-water/chapter-04.html"
 ---
 
 On the edge of the barren mesa and looking out over the sandy flats where the Salagua writhed about uneasily in its bed, the casa of Don Pablo Moreno stood like a mud fort, barricaded by a palisade of the thorny cactus which the Mexicans call ocotilla. Within this fence, which inclosed several acres of standing grain and the miniature of a garden, there were all the signs of prosperity--a new wagon under its proper shade, a storehouse strongly built where chickens lingered about for grain, a clean-swept ramada casting a deep shadow across the open doorway; but outside the inclosure the ground was stamped as level as a threshing floor. As Creede and Hardy drew near, an old man, grave and dignified, came out from the shady veranda and opened the gate, bowing with the most courtly hospitality.

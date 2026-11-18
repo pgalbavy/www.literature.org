@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 16"
 weight: 333
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-16.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-16.html"
 ---
 
 "She has come to stay with me," said Princess Mary. "The count and countess will be here in a few days. The countess is in a dreadful state; but it was necessary for Natasha herself to see a doctor. They insisted on her coming with me."

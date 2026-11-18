@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/tarkington-booth/alice-adams/chapter-22.html"
+url: "/authors/tarkington-booth/alice-adams/chapter-22.html"
 ---
 
 Alice kept her sprightly chatter going when they sat down, though the temperature of the room and the sight of hot soup might have discouraged a less determined gayety. Moreover, there were details as unpropitious as the heat: the expiring roses expressed not beauty but pathos, and what faint odour they exhaled was no rival to the lusty emanations of the Brussels sprouts; at the head of the table, Adams, sitting low in his chair, appeared to be unable to flatten the uprising wave of his starched bosom; and Gertrude's manner and expression were of a recognizable hostility during the long period of vain waiting for the cups of soup to be emptied. Only Mrs. Adams made any progress in this direction; the others merely feinting, now and then lifting their spoons as if they intended to do something with them.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - They Live At The Marsh"
 weight: 2
-aliases:
-  - "/authors/lawrence-david-herbert/the-rainbow/chapter-02.html"
+url: "/authors/lawrence-david-herbert/the-rainbow/chapter-02.html"
 ---
 
 She was the daughter of a Polish landowner who, deeply in debt to the Jews, had married a German wife with money, and who had died just before the rebellion. Quite young, she had married Paul Lensky, an intellectual who had studied at Berlin, and had returned to Warsaw a patriot. Her mother had married a German merchant and gone away.

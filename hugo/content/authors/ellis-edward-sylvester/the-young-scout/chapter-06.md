@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Apache Cunning"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-scout/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-06.html"
 ---
 
 Enough has been told to prove the surpassing cunning of the two White Mountain Apaches who served as scouts. Once they had been among the fiercest of the followers of the fearful scourge of the border and were fully trained in his ways.

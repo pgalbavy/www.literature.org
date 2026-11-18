@@ -1,8 +1,7 @@
 ---
 title: "Chapter 132 - The Symphony"
 weight: 132
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-132.html"
+url: "/authors/melville-herman/moby-dick/chapter-132.html"
 ---
 
 It was a clear steel-blue day. The firmaments of air and sea were hardly separable in that all-pervading azure; only, the pensive air was transparently pure and soft, with a woman's look, and the robust and man-like sea heaved with long, strong, lingering swells, as Samson's chest in his sleep.

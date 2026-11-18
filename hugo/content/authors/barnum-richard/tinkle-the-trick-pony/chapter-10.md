@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Tinkle And Tum Tum"
 weight: 10
-aliases:
-  - "/authors/barnum-richard/tinkle-the-trick-pony/chapter-10.html"
+url: "/authors/barnum-richard/tinkle-the-trick-pony/chapter-10.html"
 ---
 
 “Well, come along now, pony. I’ll see how many tricks you know and how many I can teach you.”

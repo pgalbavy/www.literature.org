@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Trouble Hunter"
 weight: 4
-aliases:
-  - "/authors/titus-harold/i-conquered/chapter-04.html"
+url: "/authors/titus-harold/i-conquered/chapter-04.html"
 ---
 
 Knee to knee, at a shacking trot, they rode out into the glory of big places, two horses before them bearing the light burden of a Westerner's bed.

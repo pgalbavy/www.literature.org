@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/buck-charles-neville/the-key-to-yesterday/chapter-21.html"
+url: "/authors/buck-charles-neville/the-key-to-yesterday/chapter-21.html"
 ---
 
 When, a month later, Frederick Marston went to the hotel on the Promenade des Anglais at Nice, it was a much improved and rejuvenated man as compared with the wasted creature who had opened the closed door of the "academy" in the Quartier Latin, and had dropped the key on the floor. Although still a trifle gaunt, he was much the same person who, almost a year before, had clung to the pickets at Churchill Downs, and halted in his view of a two-year-old finish. Just as the raw air of the north had given place to the wooing softness of the Riviera, and the wet blankets of haze over the gardens of the Tuileries to the golden sunlight of the flower-decked south, so he had come again out of winter into spring, and the final result of his life's equation was the man that had been Saxon, untouched by the old Marston.

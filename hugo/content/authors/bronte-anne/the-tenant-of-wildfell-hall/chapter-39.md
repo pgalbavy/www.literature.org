@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39"
 weight: 40
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-39.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-39.html"
 ---
 
 My greatest source of uneasiness, in this time of trial, was my son, whom his father and his father's friends delighted to encourage in all the embryo vices a little child can show, and to instruct in all the evil habits he could acquire - in a word, to 'make a man of him' was one of their staple amusements; and I need say no more to justify my alarm on his account, and my determination to deliver him at any hazard from the hands of such instructors. I first attempted to keep him always with me, or in the nursery, and gave Rachel particular injunctions never to let him come down to dessert as long as these 'gentlemen' stayed; but it was no use: these orders were immediately countermanded and overruled by his father; he was not going to have the little fellow moped to death between an old nurse and a cursed fool of a mother. So the little fellow came down every evening in spite of his cross mamma, and learned to tipple wine like papa, to swear like Mr. Hattersley, and to have his own way like a man, and sent mamma to the devil when she tried to prevent him. To see such things done with the roguish naivete of that pretty little child, and hear such things spoken by that small infantile voice, was as peculiarly piquant and irresistibly droll to them as it was inexpressibly distressing and painful to me; and when he had set the table in a roar he would look round delightedly upon them all, and add his shrill laugh to theirs. But if that beaming blue eye rested on me, its light would vanish for a moment, and he would say, in some concern, 'Mamma, why don't you laugh? Make her laugh, papa - she never will.'

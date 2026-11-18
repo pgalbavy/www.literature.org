@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Johnny Chuck Turns Tramp"
 weight: 6
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-06.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-06.html"
 ---
 
 Johnny Chuck had turned tramp. Yes, Sir, Johnny Chuck had turned tramp. It was a funny thing to do, but he had done it. He didn't know why he had done it, excepting that he had become dissatisfied and discontented and unhappy in his old home. And then, almost without thinking what he was doing, he had told Jimmy Skunk that he could have the house he had worked so hard to build the summer before and of which he had been so proud. Then Johnny Chuck had swaggered away down the Lone Little Path without once looking back at the home he was leaving.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-26.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-26.html"
 ---
 
 Once more Hamel descended from the little train, and, turning away from St. David's Hall, made his way across the marshes, seawards. The sunshine of the last few days had departed. The twilight was made gloomy by a floating veil of white mist, which hung about in wet patches. Hamel turned up his coat collar as he walked and shivered a little. The thought of his solitary night and uncomfortable surroundings, after all the luxury of St. David's Hall, was scarcely inspiring. Yet, on the whole, he was splendidly cheerful. The glamour of a host of new sensations was upon him. There was a new love of living in his heart. He forgot the cold east wind which blew in his face, bringing with it little puffs of damp grey mist. He forgot the cheerlessness which he was about to face, the lonely night before him. For the first time in his life a woman reigned in his thoughts.

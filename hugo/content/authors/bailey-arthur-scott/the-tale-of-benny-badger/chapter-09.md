@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A Careless Helper"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-09.html"
 ---
 
 Stopping often to listen, Benny Badger did not reach the Ground Squirrel's chamber half as quickly as he could have had he done nothing but dig.

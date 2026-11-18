@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Dysart"
 weight: 15
-aliases:
-  - "/authors/chambers-robert-w/the-danger-mark/chapter-15.html"
+url: "/authors/chambers-robert-w/the-danger-mark/chapter-15.html"
 ---
 
 The possibility that his father could be involved in any of the spectacular schemes which had evidently caught Dysart, seemed so remote that Duane's incredulity permitted him to sleep that night, though the name Yo Espero haunted his dreams.

@@ -1,8 +1,7 @@
 ---
 title: "Canto 3"
 weight: 4
-aliases:
-  - "/authors/byron-lord/don-juan/canto-03.html"
+url: "/authors/byron-lord/don-juan/canto-03.html"
 ---
 
 Hail, Muse! et cetera.  

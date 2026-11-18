@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Back to Earth"
 weight: 16
-aliases:
-  - "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-15.html"
+url: "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-15.html"
 ---
 
 WE CROSSED THE RIVER AND PASSED THROUGH THE mountains beyond, and finally we came out upon a great level plain which stretched away as far as the eye could reach. I cannot tell you in what direction it stretched even if you would care to know, for all the while that I was within Pellucidar I never discovered any but local methods of indicating direction--there is no north, no south, no east, no west. UP is about the only direction which is well defined, and that, of course, is DOWN to you of the outer crust. Since the sun neither rises nor sets there is no method of indicating direction beyond visible objects such as high mountains, forests, lakes, and seas.

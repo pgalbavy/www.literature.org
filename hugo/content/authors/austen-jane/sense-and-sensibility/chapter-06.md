@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-06.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-06.html"
 ---
 
 The first part of their journey was performed in too melancholy a disposition to be otherwise than tedious and unpleasant. But as they drew towards the end of it, their interest in the appearance of a country which they were to inhabit overcame their dejection, and a view of Barton Valley as they entered it gave them cheerfulness. It was a pleasant fertile spot, well wooded, and rich in pasture. After winding along it for more than a mile, they reached their own house. A small green court was the whole of its demesne in front; and a neat wicket gate admitted them into it.

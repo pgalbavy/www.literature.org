@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/tarkington-booth/the-flirt/chapter-13.html"
+url: "/authors/tarkington-booth/the-flirt/chapter-13.html"
 ---
 
 Mr. Trumble's offices were heralded by a neat blazon upon the principal door, "Wade J. Trumble, Mortgages and Loans"; and the gentleman thus comfortably, proclaimed, emerging from that door upon a September noontide, burlesqued a start of surprise at sight of a figure unlocking an opposite door which exhibited the name, "Ray Vilas," and below it, the cryptic phrase, "Probate Law."

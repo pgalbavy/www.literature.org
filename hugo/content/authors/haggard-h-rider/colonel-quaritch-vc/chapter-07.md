@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Edward Cossey, Esquire"
 weight: 7
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-07.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-07.html"
 ---
 
 After George had drunk his glass of wine and given his opinion as to the best way to deal with the dangerous pinnacle on the Boisingham Church, he took the note, untied the fat pony, and ambled off to Honham, leaving the lawyer alone. As soon as he was gone, Mr. Quest threw himself back in his chair--an old oak one, by-the-way, for he had a very pretty taste in old oak and a positive mania for collecting it--and plunged into a brown study.

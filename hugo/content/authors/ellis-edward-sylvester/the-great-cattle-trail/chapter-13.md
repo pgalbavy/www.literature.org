@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Dead Race"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-13.html"
 ---
 
 Avon Burnet was thunderstruck. When he supposed he was several miles from the cabin of his uncle, he found himself directly in front of it, and the Indian horse, upon which he relied to take him to the camp of the cattlemen, had brought him to what might be called the mouth of the lion's den.

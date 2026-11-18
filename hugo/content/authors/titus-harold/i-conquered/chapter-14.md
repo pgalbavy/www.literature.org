@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Schoolhouse Dance"
 weight: 14
-aliases:
-  - "/authors/titus-harold/i-conquered/chapter-14.html"
+url: "/authors/titus-harold/i-conquered/chapter-14.html"
 ---
 
 Young VB held a twofold interest for the men of Clear River. First, the story of his fight with the Captain spread over the land, percolating to the farthest camps. Men laughed at first. The absurdity of it! Then, their surprise giving way to their appreciation of his attainment, their commendation for the young Easterner soared to superlatively profane heights.

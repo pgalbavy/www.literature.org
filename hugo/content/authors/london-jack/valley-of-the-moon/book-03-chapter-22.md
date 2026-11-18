@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 22"
 weight: 56
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-03-chapter-22.html"
+url: "/authors/london-jack/valley-of-the-moon/book-03-chapter-22.html"
 ---
 
 They cantered out the gate, thundered across the bridge, and passed Trillium Covert before they pulled in on the grade of Wild Water Canyon. Saxon had chosen her field on the big spur of Sonoma Mountains as the objective of their ride.

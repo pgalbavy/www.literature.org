@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-03.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-03.html"
 ---
 
 In the miles of morning sunshine, Siegmund's shadows, his children, Beatrice, his sorrow, dissipated like mist, and he was elated as a young man setting forth to travel. When he had passed Portsmouth Town everything had vanished but the old gay world of romance. He laughed as he looked out of the carriage window.

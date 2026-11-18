@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Savages Make More Trouble"
 weight: 20
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-20.html"
+url: "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-20.html"
 ---
 
 “Pedro said the savages wouldn’t dare enter the temple!” declared Jimmie as he drew back.

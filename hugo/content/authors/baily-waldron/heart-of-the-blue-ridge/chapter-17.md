@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-17.html"
+url: "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-17.html"
 ---
 
 Zeke, in his new life, found little leisure for loneliness, though nightly he fell asleep with an ache of nostalgia in his heart, longing for the mountains of home and the girl who dwelt among them. But his days were filled with various activities that held his whole attention. With a mind keen and apt to receive impressions, and hungry for knowledge, he gave himself joyously to learning the details of Sutton's tree-nail manufacture. The processes were, in fact, simple, and he mastered them with ease. Then, he was instructed more broadly in business methods, with the purpose of making him competent when he should become a manager of the projected factory in the Blue Ridge region. His time was thus so fully occupied that he had neither opportunity nor inclination for social pleasures.

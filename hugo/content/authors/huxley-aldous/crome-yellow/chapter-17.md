@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/huxley-aldous/crome-yellow/chapter-17.html"
+url: "/authors/huxley-aldous/crome-yellow/chapter-17.html"
 ---
 
 Ivor brought his hands down with a bang on to the final chord of his rhapsody. There was just a hint in that triumphant harmony that the seventh had been struck along with the octave by the thumb of the left hand; but the general effect of splendid noise emerged clearly enough. Small details matter little so long as the general effect is good. And, besides, that hint of the seventh was decidedly modern. He turned round in his seat and tossed the hair back out of his eyes.

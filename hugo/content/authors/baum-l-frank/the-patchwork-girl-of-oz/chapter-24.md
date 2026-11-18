@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 25
-aliases:
-  - "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-24.html"
+url: "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-24.html"
 ---
 
 They now followed Diksey to the farther end of the great cave, beyond the Horner city, where there were several round, dark holes leading into the ground in a slanting direction. Diksey went to one of these holes and said:

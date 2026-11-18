@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - In Hetty's Bed-Chamber"
 weight: 31
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-31.html"
+url: "/authors/eliot-george/adam-bede/chapter-31.html"
 ---
 
 IT was no longer light enough to go to bed without a candle, even in Mrs. Poyser's early household, and Hetty carried one with her as she went up at last to her bedroom soon after Adam was gone, and bolted the door behind her.

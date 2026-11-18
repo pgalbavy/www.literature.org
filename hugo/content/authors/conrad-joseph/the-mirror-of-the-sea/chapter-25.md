@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-25.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-25.html"
 ---
 
 *THERE* is no part of the world of coasts, continents, oceans, seas, straits, capes, and islands which is not under the sway of a reigning wind, the sovereign of its typical weather. The wind rules the aspects of the sky and the action of the sea. But no wind rules unchallenged his realm of land and water. As with the kingdoms of the earth, there are regions more turbulent than others. In the middle belt of the earth the Trade Winds reign supreme, undisputed, like monarchs of long-settled kingdoms, whose traditional power, checking all undue ambitions, is not so much an exercise of personal might as the working of long-established institutions. The intertropical kingdoms of the Trade Winds are favourable to the ordinary life of a merchantman. The trumpet-call of strife is seldom borne on their wings to the watchful ears of men on the decks of ships. The regions ruled by the north-east and south-east Trade Winds are serene. In a southern-going ship, bound out for a long voyage, the passage through their dominions is characterized by a relaxation of strain and vigilance on the part of the seamen. Those citizens of the ocean feel sheltered under the ægis of an uncontested law, of an undisputed dynasty. There, indeed, if anywhere on earth, the weather may be trusted.

@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 4"
 weight: 21
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-03-chapter-04.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-03-chapter-04.html"
 ---
 
 The author leaves Laputa; is conveyed to Balnibarbi; arrives at the metropolis. A description of the metropolis, and the country adjoining. The author hospitably received by a great lord. His conversation with that lord.

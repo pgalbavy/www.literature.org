@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/wells-herbert-george/the-time-machine/chapter-07.html"
+url: "/authors/wells-herbert-george/the-time-machine/chapter-07.html"
 ---
 
 'Now, indeed, I seemed in a worse case than before. Hitherto, except during my night's anguish at the loss of the Time Machine, I had felt a sustaining hope of ultimate escape, but that hope was staggered by these new discoveries. Hitherto I had merely thought myself impeded by the childish simplicity of the little people, and by some unknown forces which I had only to understand to overcome; but there was an altogether new element in the sickening quality of the Morlocks--a something inhuman and malign. Instinctively I loathed them. Before, I had felt as a man might feel who had fallen into a pit: my concern was with the pit and how to get out of it. Now I felt like a beast in a trap, whose enemy would come upon him soon.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Confessional"
 weight: 24
-aliases:
-  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-24.html"
+url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-24.html"
 ---
 
 The concierge sat at her window under the arch of the porte-cochère at 57 Boulevard Montparnasse. She sat gazing across its black shade to the sunny street. She was thinking. The last twenty-four hours had given food for thought.

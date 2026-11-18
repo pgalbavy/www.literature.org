@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/baum-l-frank/tik-tok-of-oz/chapter-01.html"
+url: "/authors/baum-l-frank/tik-tok-of-oz/chapter-01.html"
 ---
 
 "I won't!" cried Ann; "I won't sweep the floor. It is beneath my dignity."

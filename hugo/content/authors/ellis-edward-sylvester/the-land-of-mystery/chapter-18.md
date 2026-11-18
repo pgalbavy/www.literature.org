@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Nick Of Time"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-18.html"
 ---
 
 The peril which menaced the explorers was more frightful than any that they had been called upon to face since entering that mysterious land known by the name of the Matto Grosso.

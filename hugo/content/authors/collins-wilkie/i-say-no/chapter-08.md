@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Master And Pupil"
 weight: 8
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-08.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-08.html"
 ---
 
 Emily's impulse was to avoid the drawing-master for the second time. The moment afterward, a kinder feeling prevailed. The farewell interview with Cecilia had left influences which pleaded for Alban Morris. It was the day of parting good wishes and general separations: he had only perhaps come to say good-by. She advanced to offer her hand, when he stopped her by pointing to Sir Jervis Redwood's card.

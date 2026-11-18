@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Too Ready Writer"
 weight: 14
-aliases:
-  - "/authors/eliot-george/impressions-of-theophrastus-such/chapter-14.html"
+url: "/authors/eliot-george/impressions-of-theophrastus-such/chapter-14.html"
 ---
 
 One who talks too much, hindering the rest of the company from taking their turn, and apparently seeing no reason why they should not rather desire to know his opinion or experience in relation to all subjects, or at least to renounce the discussion of any topic where he can make no figure, has never been praised for this industrious monopoly of work which others would willingly have shared in. However various and brilliant his talk may be, we suspect him of impoverishing us by excluding the contributions of other minds, which attract our curiosity the more because he has shut them up in silence. Besides, we get tired of a "manner" in conversation as in painting, when one theme after another is treated with the same lines and touches. I begin with a liking for an estimable master, but by the time he has stretched his interpretation of the world unbrokenly along a palatial gallery, I have had what the cautious Scotch mind would call "enough" of him. There is monotony and narrowness already to spare in my own identity; what comes to me from without should be larger and more impartial than the judgment of any single interpreter. On this ground even a modest person, without power or will to shine in the conversation, may easily find the predominating talker a nuisance, while those who are full of matter on special topics are continually detecting miserably thin places in the web of that information which he will not desist from imparting. Nobody that I know of ever proposed a testimonial to a man for thus volunteering the whole expense of the conversation.

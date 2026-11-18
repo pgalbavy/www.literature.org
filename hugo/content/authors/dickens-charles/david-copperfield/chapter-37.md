@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - A Little Cold Water"
 weight: 38
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-37.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-37.html"
 ---
 
 My new life had lasted for more than a week, and I was stronger than ever in those tremendous practical resolutions that I felt the crisis required. I continued to walk extremely fast, and to have a general idea that I was getting on. I made it a rule to take as much out of myself as I possibly could, in my way of doing everything to which I applied my energies. I made a perfect victim of myself. I even entertained some idea of putting myself on a vegetable diet, vaguely conceiving that, in becoming a graminivorous animal, I should sacrifice to Dora.

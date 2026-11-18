@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 26
-aliases:
-  - "/authors/chambers-robert-w/the-crimson-tide/chapter-25.html"
+url: "/authors/chambers-robert-w/the-crimson-tide/chapter-25.html"
 ---
 
 As he left the taxi in front of the dirty brick archway and flight of steps leading to the hall, where he expected to find Palla, he noticed a small crowd of wrangling foreigners gathered there—men and women—and a policeman posted near, calm and indifferent, juggling his club at the end of its leather thong.

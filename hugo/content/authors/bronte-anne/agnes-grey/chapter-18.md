@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Mirth And Mourning"
 weight: 18
-aliases:
-  - "/authors/bronte-anne/agnes-grey/chapter-18.html"
+url: "/authors/bronte-anne/agnes-grey/chapter-18.html"
 ---
 
 THE 1st of June arrived at last: and Rosalie Murray was transmuted into Lady Ashby. Most splendidly beautiful she looked in her bridal costume. Upon her return from church, after the ceremony, she came flying into the schoolroom, flushed with excitement, and laughing, half in mirth, and half in reckless desperation, as it seemed to me.

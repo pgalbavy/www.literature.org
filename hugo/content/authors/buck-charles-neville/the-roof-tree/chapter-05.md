@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-05.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-05.html"
 ---
 
 The old Thornton house on Defeated Creek had for almost two decades stood vacant save for an occasional and temporary tenant. A long time back a formal truce had been declared in the feud that had split in sharp and bitter cleavage the family connections of the Harpers and the Doanes. Back into the limbo of tradition and vagueness went the origin of that "war".

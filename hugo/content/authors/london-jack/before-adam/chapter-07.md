@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/london-jack/before-adam/chapter-07.html"
+url: "/authors/london-jack/before-adam/chapter-07.html"
 ---
 
 Broken-Tooth was another youngster who lived by himself. His mother lived in the caves, but two more children had come after him and he had been thrust out to shift for himself. We had witnessed the performance during the several preceding days, and it had given us no little glee. Broken-Tooth did not want to go, and every time his mother left the cave he sneaked back into it. When she returned and found him there her rages were delightful. Half the horde made a practice of watching for these moments. First, from within the cave, would come her scolding and shrieking. Then we could hear sounds of the thrashing and the yelling of Broken-Tooth. About this time the two younger children joined in. And finally, like the eruption of a miniature volcano, Broken-Tooth would come flying out.

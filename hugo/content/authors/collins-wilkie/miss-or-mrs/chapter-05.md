@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Square"
 weight: 5
-aliases:
-  - "/authors/collins-wilkie/miss-or-mrs/chapter-05.html"
+url: "/authors/collins-wilkie/miss-or-mrs/chapter-05.html"
 ---
 
 Between four and five in the afternoon--when the women of the Western regions are in their carriages, and the men are at their clubs--London presents few places more conveniently adapted for purposes of private talk than the solitary garden inclosure of a square.

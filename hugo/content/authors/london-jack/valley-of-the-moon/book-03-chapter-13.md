@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 13"
 weight: 47
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-03-chapter-13.html"
+url: "/authors/london-jack/valley-of-the-moon/book-03-chapter-13.html"
 ---
 
 The winter proved much less exciting than the one spent in Carmel, and keenly as Saxon had appreciated the Carmel folk, she now appreciated them more keenly than ever. In Ukiah she formed nothing more than superficial acquaintances. Here people were more like those of the working class she had known in Oakland, or else they were merely wealthy and herded together in automobiles. There was no democratic artist-colony that pursued fellowship disregardful of the caste of wealth.

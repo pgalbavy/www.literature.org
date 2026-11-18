@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Flop Ear Is Lost"
 weight: 3
-aliases:
-  - "/authors/barnum-richard/flop-ear-the-funny-rabbit/chapter-03.html"
+url: "/authors/barnum-richard/flop-ear-the-funny-rabbit/chapter-03.html"
 ---
 
 Under the fence crawled Flop Ear, and, running up to where a head of cabbage was growing, the little white rabbit began nibbling the tender green leaves.

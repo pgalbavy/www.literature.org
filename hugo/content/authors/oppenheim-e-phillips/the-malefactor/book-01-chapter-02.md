@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 2 - Outside The Pale"
 weight: 2
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-02.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-02.html"
 ---
 
 Three men were together in a large and handsomely furnished sitting room of the Clarence Hotel, in Piccadilly. One, pale, quiet, and unobtrusive, dressed in sober black, the typical lawyer's clerk, was busy gathering up a collection of papers and documents from the table, over which they had been strewn. His employer, who had more the appearance of a country gentleman than the junior partner in the well-known firm of Rocke and Son, solicitors, had risen to his feet, and was drawing on his gloves. At the head of the table was the client.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Plaza"
 weight: 7
-aliases:
-  - "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-07.html"
+url: "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-07.html"
 ---
 
 Sayula was a little lake resort; not for the idle rich, for Mexico has few left; but for tradespeople from Guadalajara, and week- enders. Even of these, there were few.

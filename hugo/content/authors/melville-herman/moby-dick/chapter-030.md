@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - The Pipe"
 weight: 30
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-030.html"
+url: "/authors/melville-herman/moby-dick/chapter-030.html"
 ---
 
 When Stubb had departed, Ahab stood for a while leaning over the bulwarks; and then, as had been usual with him of late, calling a sailor of the watch, he sent him below for his ivory stool, and also his pipe. Lighting the pipe at the binnacle lamp and planting the stool on the weather side of the deck, he sat and smoked.

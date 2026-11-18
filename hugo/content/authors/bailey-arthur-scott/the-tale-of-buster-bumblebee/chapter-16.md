@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Twins In The Clover Patch"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-16.html"
 ---
 
 The twins--Johnnie Green's guests--each with a honey box in his hand, began at once to hunt for bumblebees. And if Buster Bumblebee had been wiser he would have flown away at once.

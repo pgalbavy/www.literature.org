@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - How Alleyne Won His Place In An Honorable Guild"
 weight: 20
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-20.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-20.html"
 ---
 
 WHILST the prince's council was sitting, Alleyne and Ford had remained in the outer hall, where they were soon surrounded by a noisy group of young Englishmen of their own rank, all eager to hear the latest news from England.

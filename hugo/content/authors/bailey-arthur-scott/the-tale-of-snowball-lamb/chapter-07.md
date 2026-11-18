@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Warning The Flock"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-07.html"
 ---
 
 Snowball Lamb was puzzled. He didn't understand old Mr. Crow's answer at all.

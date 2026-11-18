@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 1 - The Murder Trial"
 weight: 19
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-01.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-01.html"
 ---
 
 BILLY BYRNE squared his broad shoulders and filled his deep lungs with the familiar medium which is known as air in Chicago. He was standing upon the platform of a New York Central train that was pulling into the La Salle Street Station, and though the young man was far from happy something in the nature of content pervaded his being, for he was coming home.

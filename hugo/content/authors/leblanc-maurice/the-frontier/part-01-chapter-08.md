@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 8 - The Trap"
 weight: 8
-aliases:
-  - "/authors/leblanc-maurice/the-frontier/part-01-chapter-08.html"
+url: "/authors/leblanc-maurice/the-frontier/part-01-chapter-08.html"
 ---
 
 The road which Morestal and his friend followed first makes a bend and climbs the wooded side of a ravine. It was formerly used for foresting purposes and is still paved with large stones which are covered with mud after a rainy day and make the ascent slippery and difficult.

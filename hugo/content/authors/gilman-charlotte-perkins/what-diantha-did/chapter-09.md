@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - “Sleeping In”"
 weight: 9
-aliases:
-  - "/authors/gilman-charlotte-perkins/what-diantha-did/chapter-09.html"
+url: "/authors/gilman-charlotte-perkins/what-diantha-did/chapter-09.html"
 ---
 
 The sun had gone down on Madam Weatherstone's wrath, and risen to find it unabated. With condensed disapprobation written on every well-cut feature, she came to the coldly gleaming breakfast table.

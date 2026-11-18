@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Davy In Search Of A Sensation"
 weight: 10
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-10.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-10.html"
 ---
 
 Anne, walking home from school through the Birch Path one November afternoon, felt convinced afresh that life was a very wonderful thing. The day had been a good day; all had gone well in her little kingdom. St. Clair Donnell had not fought any of the other boys over the question of his name; Prillie Rogerson's face had been so puffed up from the effects of toothache that she did not once try to coquette with the boys in her vicinity. Barbara Shaw had met with only ONE accident. . .spilling a dipper of water over the floor. . .and Anthony Pye had not been in school at all.

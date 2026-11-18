@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - We Go To The Mountains"
 weight: 17
-aliases:
-  - "/authors/buck-charles-neville/the-portal-of-dreams/chapter-17.html"
+url: "/authors/buck-charles-neville/the-portal-of-dreams/chapter-17.html"
 ---
 
 Weighborne was at the station on the following morning when, five minutes before train time, I arrived. He was clad for his mountain environment in high lace boots, corduroy breeches and flannel shirt, and in this guise he loomed bigger and stronger of seeming than in conventional clothing. His level, straight-gazing eyes held the cheery satisfaction of facing, after a good breakfast, a prospect of action. He was meanwhile willing to fill the interim of railroad travel with conversation. I, on the contrary, knew that sleeplessness had left me haggard, and met his advances, I fear, with churlish taciturnity.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - I Observe"
 weight: 3
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-02.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-02.html"
 ---
 
 The first objects that assume a distinct presence before me, as I look far back, into the blank of my infancy, are my mother with her pretty hair and youthful shape, and Peggotty with no shape at all, and eyes so dark that they seemed to darken their whole neighbourhood in her face, and cheeks and arms so hard and red that I wondered the birds didn’t peck her in preference to apples.

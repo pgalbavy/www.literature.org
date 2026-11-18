@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Phutra Again"
 weight: 11
-aliases:
-  - "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-10.html"
+url: "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-10.html"
 ---
 
 I HASTENED TO THE CLIFF EDGE ABOVE JA AND helped him to a secure footing. He would not listen to any thanks for his attempt to save me, which had come so near miscarrying.

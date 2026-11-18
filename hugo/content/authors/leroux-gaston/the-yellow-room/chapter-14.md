@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - \"I Expect The Assassin This Evening\""
 weight: 14
-aliases:
-  - "/authors/leroux-gaston/the-yellow-room/chapter-14.html"
+url: "/authors/leroux-gaston/the-yellow-room/chapter-14.html"
 ---
 
 "I must take you," said Rouletabille, "so as to enable you to understand, to the various scenes. I myself believe that I have discovered what everybody else is searching for, namely, how the murderer escaped from "The Yellow Room", without any accomplice, and without Mademoiselle Stangerson having had anything to do with it. But so long as I am not sure of the real murderer, I cannot state the theory on which I am working. I can only say that I believe it to be correct and, in any case, a quite natural and simple one. As to what happened in this place three nights ago, I must say it kept me wondering for a whole day and a night. It passes all belief. The theory I have formed from the incident is so absurd that I would rather matters remained as yet unexplained."

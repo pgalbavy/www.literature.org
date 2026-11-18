@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 11"
 weight: 29
-aliases:
-  - "/authors/conrad-joseph/romance/part-04-chapter-11.html"
+url: "/authors/conrad-joseph/romance/part-04-chapter-11.html"
 ---
 
 He had surrendered to his thirst. What weakness! He had not thrown himself over, then. What folly! One splash of water on his face had been enough. He was contemptible; and lying collapsed, in a sort of tormented apathy, at the mouth of the cave, I despised and envied his good fortune. It could not save him from death, but at least he drank. I understood this when I heard his voice, a voice altogether altered—a firm, greedy voice saying, "More," breathlessly. And then he drank again. He was drinking. He was drinking up there in the light of the fire, in a circle of mortal enemies, under Manuel's gloating eyes. Drinking! O happiness! O delight! What a miserable wretch! I clawed the stone convulsively; I think I would have rushed out for my share if I had not heard Manuel's cruel and caressing voice:

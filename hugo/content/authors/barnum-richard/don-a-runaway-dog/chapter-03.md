@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Don And Squinty"
 weight: 3
-aliases:
-  - "/authors/barnum-richard/don-a-runaway-dog/chapter-03.html"
+url: "/authors/barnum-richard/don-a-runaway-dog/chapter-03.html"
 ---
 
 “Mother, I have my dog!” cried Bob, as he went into the big white house with Don.

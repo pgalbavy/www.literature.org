@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Calf’s Revenge"
 weight: 26
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-25.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-25.html"
 ---
 
 *NEVER* had Mme. Longuet or M. Lecamus been so upset before at the reading of a newspaper. The account of the atrocious murder did not seem to disturb Théophraste a bit. When he came to the part where Cartouche had placed the baker in the bake oven, Mme. Longuet groaned and could not sit still. M. Lecamus was no less disturbed, and they both rose and looked to Théophraste in amazement.

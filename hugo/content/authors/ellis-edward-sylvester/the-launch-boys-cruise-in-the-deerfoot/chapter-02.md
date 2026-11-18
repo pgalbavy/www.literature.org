@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Lively Times"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-02.html"
 ---
 
 As Alvin Landon drew near the open country he gave his thoughts wholly to the two strangers in front, ceasing to look back or listen for the one at the rear. The keen eyes strove to penetrate the silent gloom on his right and left, but they saw nothing. Probably fifty feet intervened between him and the full flood of moonlight, when, with more startling effect than that caused by the hooting of the owl, a sepulchral voice sounded through the stillness:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Tommy Fox Is Hungry"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-05.html"
 ---
 
 Tommy Fox kept a sharp look-out to see what he could capture to eat. But he could discover nothing at all. To be sure, there were birds in the trees, and birds' nests too, and Tommy was very fond of birds' eggs. But he couldn't climb trees. The birds were out of his reach; and so were the squirrels. He saw plenty of red squirrels, and gray squirrels, and little striped chipmunks. They looked down from the branches and chattered and scolded at him. They were perfectly safe, and they knew it.

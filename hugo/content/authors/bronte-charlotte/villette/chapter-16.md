@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Auld Lang Syne"
 weight: 16
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-16.html"
+url: "/authors/bronte-charlotte/villette/chapter-16.html"
 ---
 
 Where my soul went during that swoon I cannot tell. Whatever she saw, or wherever she travelled in her trance on that strange night she kept her own secret; never whispering a word to Memory, and baffling imagination by an indissoluble silence. She may have gone upward, and come in sight of her eternal home, hoping for leave to rest now, and deeming that her painful union with matter was at last dissolved. While she so deemed, an angel may have warned her away from heaven's threshold, and, guiding her weeping down, have bound her, once more, all shuddering and unwilling, to that poor frame, cold and wasted, of whose companionship she was grown more than weary.

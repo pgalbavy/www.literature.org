@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Safety-Pin Again"
 weight: 18
-aliases:
-  - "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-17.html"
+url: "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-17.html"
 ---
 
 Moncharmin's last phrase so dearly expressed the suspicion in which he now held his partner that it was bound to cause a stormy explanation, at the end of which it was agreed that Richard should yield to all Moncharmin's wishes, with the object of helping him to discover the miscreant who was victimizing them.

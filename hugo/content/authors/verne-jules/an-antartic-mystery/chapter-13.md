@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Along The Front Of The Icebergs"
 weight: 13
-aliases:
-  - "/authors/verne-jules/an-antartic-mystery/chapter-13.html"
+url: "/authors/verne-jules/an-antartic-mystery/chapter-13.html"
 ---
 
 Although the seas beyond the Polar Circle were wildly tumultuous, it is but just to acknowledge that our navigation had been accomplished so far under exceptional conditions. And what good luck it would be if the Halbrane, in this first fortnight of December, were to find the Weddell route open!

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Little Chapel Of The Guards"
 weight: 8
-aliases:
-  - "/authors/leroux-gaston/the-secret-of-the-night/chapter-08.html"
+url: "/authors/leroux-gaston/the-secret-of-the-night/chapter-08.html"
 ---
 
 Rouletabille took a long walk which led him to the Troitsky Bridge, then, re-descending the Naberjnaia, he reached the Winter Palace. He seemed to have chased away all preoccupation, and took a child’s pleasure in the different aspects of the life that characterizes the city of the Great Peter. He stopped before the Winter Palace, walked slowly across the square where the prodigious monolith of the Alexander Column rises from its bronze socket, strolled between the palace and the colonnades, passed under an immense arch: everything seemed Cyclopean to him, and he never had felt so tiny, so insignificant. None the less he was happy in his insignificance, he was satisfied with himself in the presence of these colossal things; everything pleased him this morning. The speed of the isvos, the bickering humor of the osvotchicks, the elegance of the women, the fine presences of the officers and their easy naturalness under their uniforms, so opposed to the wooden posturing of the Berlin military men whom he had noticed at the "Tilleuls" and in the Friederichstrasse between two trains. Everything enchanted him—the costume even of the moujiks, vivid blouses, the red shirts over the trousers, the full legs and the boots up to the knees, even the unfortunates who, in spite of the soft atmosphere, were muffled up in sheepskin coats, all impressed him favorably, everything appeared to him original and congenial.

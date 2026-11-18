@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - A Wail In The Dark"
 weight: 23
-aliases:
-  - "/authors/scott-arthur/the-tale-of-chirpy-cricket/chapter-23.html"
+url: "/authors/scott-arthur/the-tale-of-chirpy-cricket/chapter-23.html"
 ---
 
 There was an odd cry that often interrupted the nightly concerts of the Cricket family. Chirpy Cricket had never heard it in the daytime. But when twilight began to wrap Pleasant Valley in its shadows, the strange, wailing call was almost sure to come quavering through the air. Somehow it always sent a shiver over Chirpy. And sometimes it made him lose a few notes--if he happened to be fiddling when he heard it.

@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 16"
 weight: 24
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-02-chapter-16.html"
+url: "/authors/haggard-h-rider/cleopatra/book-02-chapter-16.html"
 ---
 
 OF THE PLAN OF CHARMION; OF THE CONFESSION OF CHARMION; AND OF THE ANSWER OF HARMACHIS

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The House In Soho"
 weight: 8
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/chapter-07.html"
+url: "/authors/christie-agatha/the-secret-adversary/chapter-07.html"
 ---
 
 *WHITTINGTON* and his companion were walking at a good pace. Tommy started in pursuit at once, and was in time to see them turn the corner of the street. His vigorous strides soon enabled him to gain upon them, and by the time he, in his turn, reached the corner the distance between them was sensibly lessened. The small Mayfair streets were comparatively deserted, and he judged it wise to content himself with keeping them in sight.

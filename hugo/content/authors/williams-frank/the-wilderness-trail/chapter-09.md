@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Broken Pipe"
 weight: 9
-aliases:
-  - "/authors/williams-frank/the-wilderness-trail/chapter-09.html"
+url: "/authors/williams-frank/the-wilderness-trail/chapter-09.html"
 ---
 
 For nearly the whole night, Donald McTavish had paced the bare little room that had been set aside for him. Now, he looked at his watch. It was four o'clock.

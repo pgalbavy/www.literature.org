@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39"
 weight: 39
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-39.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-39.html"
 ---
 
 Scarcely a word passed between the two men until they found themselves in the smoking-room of Trent's house. A servant noiselessly arranged decanters and cigars upon the sideboard, and, in response to an impatient movement of Trent's, withdrew. Francis lit a cigarette. Trent, contrary to his custom, did not smoke. He walked to the door and softly locked it. Then he returned and stood looking down at his companion.

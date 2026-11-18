@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 2"
 weight: 21
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-02-chapter-02.html"
+url: "/authors/cather-willa/one-of-ours/book-02-chapter-02.html"
 ---
 
 The next morning Claude stepped off the train at Frankfort and had his breakfast at the station before the town was awake. His family were not expecting him, so he thought he would walk home and stop at the mill to see Enid Royce. After all, old friends were best.

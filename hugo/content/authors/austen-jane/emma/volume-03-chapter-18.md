@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 18"
 weight: 54
-aliases:
-  - "/authors/austen-jane/emma/volume-03-chapter-18.html"
+url: "/authors/austen-jane/emma/volume-03-chapter-18.html"
 ---
 
 Time passed on. A few more to-morrows, and the party from London would be arriving. It was an alarming change; and Emma was thinking of it one morning, as what must bring a great deal to agitate and grieve her, when Mr. Knightley came in, and distressing thoughts were put by. After the first chat of pleasure he was silent; and then, in a graver tone, began with,

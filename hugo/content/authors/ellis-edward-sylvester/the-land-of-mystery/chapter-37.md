@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - At Bay"
 weight: 37
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-37.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-37.html"
 ---
 
 Ariel flitted so rapidly along the ledge that her lover felt obliged to ask her to desist, as he found it difficult to keep pace with her.

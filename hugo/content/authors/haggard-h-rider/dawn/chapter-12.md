@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-12.html"
+url: "/authors/haggard-h-rider/dawn/chapter-12.html"
 ---
 
 When the doctor had gone upstairs, Philip went into the dining-room to eat something, only to find that food was repugnant to him; he could scarcely swallow a mouthful. To some extent, however, he supplied its place by wine, of which he drank several glasses. Then, drawn by a strange fascination, he went back into the little study, and, remembering the will, bethought himself that it might be as well to secure it. In taking it off the table, however, a folded and much erased sheet of manuscript was disclosed. Recognizing Bellamy's writing, he took it up and commenced to read the draft, for it was nothing else. Its substance was as follows.

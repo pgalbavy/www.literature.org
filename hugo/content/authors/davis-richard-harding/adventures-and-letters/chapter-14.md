@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Japanese-Russian War"
 weight: 14
-aliases:
-  - "/authors/davis-richard-harding/adventures-and-letters/chapter-14.html"
+url: "/authors/davis-richard-harding/adventures-and-letters/chapter-14.html"
 ---
 
 During the fall and early winter of 1903 Richard and his wife lingered on in Marion, but came to New York after the Christmas holidays. The success of his farce "The Dictator" had been a source of the greatest pleasure to Richard, and he settled down to playwriting with the same intense zeal he put into all of his work. However, for several years Robert J. Collier and my brother had been very close friends, and Richard had written many articles and stories for Collier's Weekly, so that when Collier urged my brother to go to the Japanese-Russian War as correspondent with the Japanese forces, Richard promptly gave up his playwriting and returned to his old love--the role of reporter. Accompanied by his wife, Richard left New York for San Francisco in February.

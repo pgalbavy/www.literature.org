@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - As Hugh De Mertoun Rode"
 weight: 18
-aliases:
-  - "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-17.html"
+url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-17.html"
 ---
 
 When he rode back upon the road which led towards Gloucestershire, 'twas early June again, as it had been when he journeyed to Camylott with Mr. Fox attending. The sky was blue once more, there was the scent of sweet wild things in the air, birds twittered in the hedgerows and skylarks sang on high; all was in full fair leafage and full fair life. This time Mr. Fox was not with him, he riding alone save for his servants, following at some distance, for in truth 'twas his wish to be solitary, and he rode somewhat like a man in a dream.

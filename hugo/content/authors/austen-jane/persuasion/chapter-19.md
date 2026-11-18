@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/austen-jane/persuasion/chapter-19.html"
+url: "/authors/austen-jane/persuasion/chapter-19.html"
 ---
 
 While Admiral Croft was taking this walk with Anne, and expressing his wish of getting Captain Wentworth to Bath, Captain Wentworth was already on his way thither. Before Mrs Croft had written, he was arrived, and the very next time Anne walked out, she saw him.

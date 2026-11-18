@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Last Chance"
 weight: 20
-aliases:
-  - "/authors/coolidge-dane/the-texican/chapter-19.html"
+url: "/authors/coolidge-dane/the-texican/chapter-19.html"
 ---
 
 There was a hot time in old Geronimo on the night that Ike Crittenden and his cowboys rode in, and in spite of everything he could do three of them wound up in the jag-cell before morning. Nevertheless he had plenty of witnesses and to spare, for the grand jury merely went over the same evidence that had been taken before the magistrate and handed down an indictment against Pecos Dalhart, accusing him of feloniously and unlawfully marking, branding, or altering the brand on one neat animal, to wit, a spotted calf, belonging to Isaac Crittenden of Verde Crossing. It was almost the first case on the calendar and the arraignment was set for the following Monday. Then Pecos Dalhart, defendant, slouched gloomily back to his cell and sat down to await the issue. The howls of Angevine Thorne, blended with the hoarse protests of Crit's cowboys, floated in to him from the jag-cell and he knew his faithful attorney had not deserted him, but what a broken reed was that to lean on when his whole future hung in the balance! Even as he listened he had an uneasy fear that Angy was giving the whole snap away to the drunken cowboys and once more he begged Bill Todhunter to throw Babe into the tanks where he could look after him. It was at this time, when things were at their worst, that Shepherd Kilkenny, the district attorney, came down to look into his case and find out how he would plead.

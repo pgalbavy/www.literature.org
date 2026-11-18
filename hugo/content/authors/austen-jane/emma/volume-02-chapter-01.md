@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 1"
 weight: 19
-aliases:
-  - "/authors/austen-jane/emma/volume-02-chapter-01.html"
+url: "/authors/austen-jane/emma/volume-02-chapter-01.html"
 ---
 
 Emma and Harriet had been walking together one morning, and, in Emma's opinion, had been talking enough of Mr. Elton for that day. She could not think that Harriet's solace or her own sins required more; and she was therefore industriously getting rid of the subject as they returned;--but it burst out again when she thought she had succeeded, and after speaking some time of what the poor must suffer in winter, and receiving no other answer than a very plaintive--“Mr. Elton is so good to the poor!” she found something else must be done.

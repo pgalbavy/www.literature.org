@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-26.html"
+url: "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-26.html"
 ---
 
 Meriem, dazed by the unexpected sight of Korak whom she had long given up as dead, permitted herself to be led away by Baynes. Among the tents he guided her safely to the palisade, and there, following Korak's instructions, the Englishman pitched a noose over the top of one of the upright logs that formed the barrier. With difficulty he reached the top and then lowered his hand to assist Meriem to his side.

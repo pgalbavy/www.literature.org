@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Penrod's Busy Day"
 weight: 17
-aliases:
-  - "/authors/tarkington-booth/penrod-and-sam/chapter-17.html"
+url: "/authors/tarkington-booth/penrod-and-sam/chapter-17.html"
 ---
 
 Although the pressure had thus been relieved and Penrod found peace with himself, nevertheless there were times during the rest of that week when he felt a strong distaste for Margaret. His schoolmates frequently reminded him of such phrases in her letter as they seemed least able to forget, and for hours after each of these experiences he was unable to comport himself with human courtesy when constrained (as at dinner) to remain for any length of time in the same room with her. But by Sunday these moods had seemed to pass; he attended church in her close company, and had no thought of the troubles brought upon him by her correspondence with a person who throughout remained unknown to him.

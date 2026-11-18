@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Gabriel Stonor"
 weight: 10
-aliases:
-  - "/authors/christie-agatha/the-murder-on-the-links/chapter-10.html"
+url: "/authors/christie-agatha/the-murder-on-the-links/chapter-10.html"
 ---
 
 The man who entered the room was a striking figure. Very tall, with a well knit athletic frame, and a deeply bronzed face and neck, he dominated the assembly. Even Giraud seemed anaemic beside him. When I knew him better I realized that Gabriel Stonor was quite an unusual personality. English by birth, he had knocked about all over the world. He had shot big game in Africa, travelled in Korea, ranched in California, and traded in the South Sea Islands. He had been secretary to a New York railway magnate, and had spent a year encamped in the desert with a friendly tribe of Arabs.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Infernal Trap"
 weight: 4
-aliases:
-  - "/authors/leblanc-maurice/the-confessions-of-arsene-lupin/chapter-04.html"
+url: "/authors/leblanc-maurice/the-confessions-of-arsene-lupin/chapter-04.html"
 ---
 
 When the race was over, a crowd of people, streaming toward the exit from the grand stand, pushed against Nicolas Dugrival. He brought his hand smartly to the inside pocket of his jacket.

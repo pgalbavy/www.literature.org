@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Selling In Haste And Repenting At Leisure"
 weight: 2
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-02.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-02.html"
 ---
 
 Anne drove over to Carmody on a shopping expedition the next afternoon and took Diana Barry with her. Diana was, of course, a pledged member of the Improvement Society, and the two girls talked about little else all the way to Carmody and back.

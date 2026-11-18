@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 23
-aliases:
-  - "/authors/baum-l-frank/tik-tok-of-oz/chapter-22.html"
+url: "/authors/baum-l-frank/tik-tok-of-oz/chapter-22.html"
 ---
 
 "Won't you be dreadful sorry to leave this lovely place?" Betsy asked the Ugly One.

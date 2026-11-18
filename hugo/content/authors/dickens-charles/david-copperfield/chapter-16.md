@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - I Am A New Boy In More Senses Than One"
 weight: 17
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-16.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-16.html"
 ---
 
 Next morning, after breakfast, I entered on school life again. I went, accompanied by Mr. Wickfield, to the scene of my future studies--a grave building in a courtyard, with a learned air about it that seemed very well suited to the stray rooks and jackdaws who came down from the Cathedral towers to walk with a clerkly bearing on the grass-plot--and was introduced to my new master, Doctor Strong.

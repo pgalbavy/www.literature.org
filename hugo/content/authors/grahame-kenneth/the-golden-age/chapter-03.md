@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Alarums And Excursions"
 weight: 4
-aliases:
-  - "/authors/grahame-kenneth/the-golden-age/chapter-03.html"
+url: "/authors/grahame-kenneth/the-golden-age/chapter-03.html"
 ---
 
 ‘LET’S pretend,’ suggested Harold, ‘that we’re Cavaliers and Roundheads; and you be a Roundhead!’

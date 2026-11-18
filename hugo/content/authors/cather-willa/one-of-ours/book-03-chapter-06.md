@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 6"
 weight: 37
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-03-chapter-06.html"
+url: "/authors/cather-willa/one-of-ours/book-03-chapter-06.html"
 ---
 
 Mrs. Wheeler was afraid that Claude might not find the old place comfortable, after having had a house of his own. She put her best rocking chair and a reading lamp in his bedroom. He often sat there all evening, shading his eyes with his hand, pretending to read. When he stayed downstairs after supper, his mother and Mahailey were grateful. Besides collecting war pictures, Mahailey now hunted through the old magazines in the attic for pictures of China. She had marked on her big kitchen calendar the day when Enid would arrive in Hong-Kong.

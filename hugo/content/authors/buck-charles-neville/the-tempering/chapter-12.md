@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-12.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-12.html"
 ---
 
 During those following months, when Asa Gregory lay in jail, first in Frankfort, then in Louisville, as a prisoner of state, who had been denied bail, the boy back in the laurel-mantled hills smouldered with passionate resentment for what he believed to be a monstrous injustice. In his quest of education he sought refuge from the bitter brooding that had begun to mar his young features with its stamp of sullenness. Asa had killed men before, but it had been in that feud warfare which was sanctioned by his own conscience. Now he stood charged with a murder done for hire, the mercenary taking off of a man for whom he had no enmity save that of the abstract and political. Upon his kinsman's innocence the boy would have staked his life, and yet he must look helplessly on and see him thrown to the lions of public indignation.

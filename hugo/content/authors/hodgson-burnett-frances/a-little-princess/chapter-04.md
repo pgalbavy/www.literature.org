@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Lottie"
 weight: 5
-aliases:
-  - "/authors/hodgson-burnett-frances/a-little-princess/chapter-04.html"
+url: "/authors/hodgson-burnett-frances/a-little-princess/chapter-04.html"
 ---
 
 If Sara had been a different kind of child, the life she led at Miss Minchin's Select Seminary for the next ten years would not have been at all good for her. She was treated more as if she were a distinguished guest at the establishment than as if she were a mere little girl. If she had been a self-opinionated, domineering child, she might have become disagreeable enough to be unbearable through being so much indulged and flattered. If she had been an indolent child, she would have learned nothing. Privately Miss Minchin disliked her, but she was far too worldly a woman to do or say anything which might make such a desirable pupil wish to leave her school. She knew quite well that if Sara wrote to her papa to tell him she was uncomfortable or unhappy, Captain Crewe would remove her at once. Miss Minchin's opinion was that if a child were continually praised and never forbidden to do what she liked, she would be sure to be fond of the place where she was so treated. Accordingly, Sara was praised for her quickness at her lessons, for her good manners, for her amiability to her fellow-pupils, for her generosity if she gave sixpence to a beggar out of her full little purse; the simplest thing she did was treated as if it were a virtue, and if she had not had a disposition and a clever little brain, she might have been a very self-satisfied young person. But the clever little brain told her a great many sensible and true things about herself and her circumstances, and now and then she talked these things over to Ermengarde as time went on.

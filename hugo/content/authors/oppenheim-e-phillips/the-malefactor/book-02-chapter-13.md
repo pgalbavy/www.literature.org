@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 13 - \u0026quot;It Was An Accident\u0026quot;"
 weight: 29
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-13.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-13.html"
 ---
 
 Lady Ruth took up the receiver. Some instinct seemed to have prompted her to close the door of the study.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - An Impertinent Petition"
 weight: 3
-aliases:
-  - "/authors/greene-homer/the-riverpark-rebellion/chapter-03.html"
+url: "/authors/greene-homer/the-riverpark-rebellion/chapter-03.html"
 ---
 
 Brightly was speechless.

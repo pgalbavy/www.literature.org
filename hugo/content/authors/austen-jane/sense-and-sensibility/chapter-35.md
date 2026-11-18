@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 35
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-35.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-35.html"
 ---
 
 Elinor's curiosity to see Mrs. Ferrars was satisfied.-- She had found in her every thing that could tend to make a farther connection between the families undesirable.-- She had seen enough of her pride, her meanness, and her determined prejudice against herself, to comprehend all the difficulties that must have perplexed the engagement, and retarded the marriage, of Edward and herself, had he been otherwise free;--and she had seen almost enough to be thankful for her OWN sake, that one greater obstacle preserved her from suffering under any other of Mrs. Ferrars's creation, preserved her from all dependence upon her caprice, or any solicitude for her good opinion. Or at least, if she did not bring herself quite to rejoice in Edward's being fettered to Lucy, she determined, that had Lucy been more amiable, she OUGHT to have rejoiced.

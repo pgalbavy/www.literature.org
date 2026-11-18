@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - At White Horse Rapids"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-10.html"
 ---
 
 "We're doing well," observed Tim McCabe, when the raft with its load and party of gold-seekers reached the end of Lynx River, "but be the same token, we're drawing nigh the worst part of the voyage, and we'll be lucky if we git through the same without mishap."

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 7 - Marthe Asks A Question"
 weight: 15
-aliases:
-  - "/authors/leblanc-maurice/the-frontier/part-02-chapter-07.html"
+url: "/authors/leblanc-maurice/the-frontier/part-02-chapter-07.html"
 ---
 
 The conflict was immediate. Between Morestal and Philippe, the duel set in at once. The events of the previous days had cleared the way for it: at the first word, they stood up to each other like irreconcilable adversaries, the father spirited and aggressive, the son anxious and sad, but inflexible.

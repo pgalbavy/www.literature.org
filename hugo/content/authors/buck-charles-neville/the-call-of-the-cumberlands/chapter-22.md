@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-22.html"
+url: "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-22.html"
 ---
 
 The second year of a new order brings fewer radical changes than the first. Samson's work began to forge out of the ranks of the ordinary, and to show symptoms of a quality which would some day give it distinction. Heretofore, his instructors had held him rigidly to the limitations of black and white, but now they took off the bonds, and permitted him the colorful delight of attempting to express himself from the palette. It was like permitting a natural poet to leave prose, and play with prosody.

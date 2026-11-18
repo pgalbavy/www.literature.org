@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Last War"
 weight: 4
-aliases:
-  - "/authors/wells-herbert-george/the-world-set-free/chapter-02.html"
+url: "/authors/wells-herbert-george/the-world-set-free/chapter-02.html"
 ---
 
 Section I

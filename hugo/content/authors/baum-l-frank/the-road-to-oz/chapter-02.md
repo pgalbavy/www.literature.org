@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/baum-l-frank/the-road-to-oz/chapter-02.html"
+url: "/authors/baum-l-frank/the-road-to-oz/chapter-02.html"
 ---
 
 The seventh road was a good road, and curved this way and that-- winding through green meadows and fields covered with daisies and buttercups and past groups of shady trees. There were no houses of any sort to be seen, and for some distance they met with no living creature at all.

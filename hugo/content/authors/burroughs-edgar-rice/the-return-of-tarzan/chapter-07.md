@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Dancing Girl of Sidi Aissa"
 weight: 7
-aliases:
-  - "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-07.html"
+url: "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-07.html"
 ---
 
 Tarzan's first mission did not bid fair to be either exciting or vastly important. There was a certain lieutenant of SPAHIS whom the government had reason to suspect of improper relations with a great European power. This Lieutenant Gernois, who was at present stationed at Sidibel-Abbes, had recently been attached to the general staff, where certain information of great military value had come into his possession in the ordinary routine of his duties. It was this information which the government suspected the great power was bartering for with the officer.

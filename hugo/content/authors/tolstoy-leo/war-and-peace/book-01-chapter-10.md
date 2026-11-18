@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 10"
 weight: 10
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-01-chapter-10.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-01-chapter-10.html"
 ---
 
 Prince Vasili kept the promise he had given to Princess Drubetskaya who had spoken to him on behalf of her only son Boris on the evening of Anna Pavlovna's soiree. The matter was mentioned to the Emperor, an exception made, and Boris transferred into the regiment of Semenov Guards with the rank of cornet. He received, however, no appointment to Kutuzov's staff despite all Anna Mikhaylovna's endeavors and entreaties. Soon after Anna Pavlovna's reception Anna Mikhaylovna returned to Moscow and went straight to her rich relations, the Rostovs, with whom she stayed when in the town and where her darling Bory, who had only just entered a regiment of the line and was being at once transferred to the Guards as a cornet, had been educated from childhood and lived for years at a time. The Guards had already left Petersburg on the tenth of August, and her son, who had remained in Moscow for his equipment, was to join them on the march to Radzivilov.

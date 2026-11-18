@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - Banzai!"
 weight: 34
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-34.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-34.html"
 ---
 
 It was curious how the Prince's sudden departure seemed to affect almost every member of the little house party. At first it had been arranged that the Duke, Mr. Haviland, Sir Edward Bransome, and the Prince should leave in the former's car, the Prince's following later with the luggage. Then the Duchess, whose eyes had filled with tears more than once after her whispered conversation with her husband, announced that she, too, must go to town. Lady Grace insisted upon accompanying her, and Penelope reminded them that she was already dressed for travelling and that, in any case, she meant to be one of the party. Before ten o'clock they were all on their way to London.

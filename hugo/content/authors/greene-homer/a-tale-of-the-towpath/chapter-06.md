@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Old Charlie Brings Back Joe"
 weight: 6
-aliases:
-  - "/authors/greene-homer/a-tale-of-the-towpath/chapter-06.html"
+url: "/authors/greene-homer/a-tale-of-the-towpath/chapter-06.html"
 ---
 
 On the day Joe left home his mother put his room in order for him as usual, and placed on the table a little bouquet of red and white geraniums and verbenas. She could not believe that he would be gone over night, and she knew that when he came he would be tired, broken, repentant, and grateful for the least mark of tenderness.

@@ -1,8 +1,7 @@
 ---
 title: "chapter 12"
 weight: 999
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-12.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-12.html"
 ---
 
 He was turning it all over in his mind and studying what it could mean, when he came to a little muddy place on the bank of the Laughing Brook, and there he saw something that made his eyes look as if they would pop right out of his head, and it was right then that he felt his hair rise. Anyway, that is what he said when he told about it afterward. What was it he saw? What do you think? Why, it was a footprint in the soft mud. Yes, Sir, that's what it was, and all it was. But it was the biggest footprint Farmer Brown's boy ever had seen, and it looked as if it had been made only a few minutes before. It was the footprint of Buster Bear.

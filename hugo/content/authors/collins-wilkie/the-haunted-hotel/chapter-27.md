@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/collins-wilkie/the-haunted-hotel/chapter-27.html"
+url: "/authors/collins-wilkie/the-haunted-hotel/chapter-27.html"
 ---
 
 Henry returned to his room.

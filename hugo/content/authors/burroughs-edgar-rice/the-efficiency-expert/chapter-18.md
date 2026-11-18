@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Efficiency Expert"
 weight: 18
-aliases:
-  - "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-18.html"
+url: "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-18.html"
 ---
 
 Unlike most other plants the International Machine Company paid on Monday, and it was on the Monday following his assumption of his new duties that Jimmy had his first clash with Bince. He had been talking with Everett, the cashier, whom, in accordance with his "method," he was studying. From Everett he had learned that it was pay-day and he had asked the cashier to let him see the pay-roll.

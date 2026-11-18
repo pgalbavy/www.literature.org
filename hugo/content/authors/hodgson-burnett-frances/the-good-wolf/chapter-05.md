@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/hodgson-burnett-frances/the-good-wolf/chapter-05.html"
+url: "/authors/hodgson-burnett-frances/the-good-wolf/chapter-05.html"
 ---
 
 TO find that your secret play ground has a robber's cave in it is very startling. Barty stood up quickly and so did all the little animals. At first Barty thought they might suddenly grow big, as the Good Wolf had said they would if they saw a grown-up person. But they did not. And if they had looked as small as kittens when they were compared with a boy, they looked almost as small as mice when they were compared with a long, thin robber. In fact, they looked so tiny that Barty was afraid they would be hurt.

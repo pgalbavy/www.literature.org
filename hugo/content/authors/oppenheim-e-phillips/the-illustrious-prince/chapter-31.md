@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Goodbye!"
 weight: 31
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-31.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-31.html"
 ---
 
 The Prince on his return from the library intercepted Penelope on her way across the hall.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - In The Canon"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/the-forest-monster/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/the-forest-monster/chapter-05.html"
 ---
 
 As we have intimated in another place, old Stebbins and Black Tom were veteran trappers who had been in the "profession" a goodly number of years. Both men had families in Independence, Missouri; and, as the incidents we are giving are supposed to have occurred fully a score of years ago, it will be seen that they were engaged in a most dangerous business.

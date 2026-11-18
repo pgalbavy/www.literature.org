@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Trying To Be Fierce"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-22.html"
 ---
 
 The Muley Cow rather enjoyed the talk she caused because she had eaten Jack O'Lantern. And feeling that any one so brave ought not to appear too meek and mild, she sometimes tried to look as fierce as she could.

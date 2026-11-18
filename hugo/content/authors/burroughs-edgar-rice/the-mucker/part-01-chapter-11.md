@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 11 - The Village Of Yoka"
 weight: 11
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-11.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-11.html"
 ---
 
 FOR several minutes Barbara Harding lay where she had collapsed after the keen short sword of the daimio had freed her from the menace of his lust.

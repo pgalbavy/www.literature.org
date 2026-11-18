@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A Tender Nose"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-04.html"
 ---
 
 "HURRAH!" old dog Spot barked. At least, what he said sounded a good deal like that.

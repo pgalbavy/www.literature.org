@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40"
 weight: 41
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-40.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-40.html"
 ---
 
 Ominous hours had come and gone; waves of gloom had surged in and receded, but never receded far enough. It was as though the rising and falling of some primæval storm was the background of all thought and life and its pandemonium of sound foretold the far-off heaving of some vast tidal wave, gathering its unearthly power as it swelled.

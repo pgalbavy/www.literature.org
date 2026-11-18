@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/lawrence-david-herbert/the-captains-doll/chapter-13.html"
+url: "/authors/lawrence-david-herbert/the-captains-doll/chapter-13.html"
 ---
 
 It was August when Alexander met Hannele. She was walking under a chintz parasol, wearing a dress of blue cotton with little red roses, and a red silk apron. She had no hat, her arms were bare and soft, and she had white stockings under her short dress. The Herr Regierungsrat was at her side, large, nimble, and laughing with a new witticism.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - The Duchess’s Ball"
 weight: 32
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-31.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-31.html"
 ---
 
 Geoffrey reached Town a little before eleven o’clock that night--a haunted man--haunted for life by a vision of that face still lovely in death, floating alone upon the deep, and companioned only by the screaming mews--or perchance now sinking or sunk to an unfathomable grave. Well might such a vision haunt a man, the man whom alone of all men those cold lips had kissed, and for whose dear sake this dreadful thing was done.

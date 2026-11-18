@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40"
 weight: 40
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-40.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-40.html"
 ---
 
 Tom walked up the staircase pondering deeply. The De Willoughby claim was before the House. Judge Rutherford was making his great speech, and the chief claimant might have been expected to be sitting breathless in one of the galleries. But he was not. He was going to Baird, who had sent for him, and Baird was sitting in the room in which Latimer lay dead with a bullet in his heart. He had been sitting there for hours, and when Tom had arrived at the house he had been told that Baird had asked that he should be taken to him in the death-chamber. He was sitting on a chair by the bed on which Latimer was stretched, rigid with a still face, which looked like a mask of yellow wax, appearing above the exceeding freshness of the turned-down linen sheet. Baird did not move as Tom entered, but continued to gaze at the dread thing with dull, drooping eyes. Tom went to him and laid his hand on his shoulder. He saw the man was stupefied.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 32
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-31.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-31.html"
 ---
 
 March 20th, 1824. The dreaded time is come, and Arthur is gone, as I expected. This time he announced it his intention to make but a short stay in London, and pass over to the Continent, where he should probably stay a few weeks; but I shall not expect him till after the lapse of many weeks: I now know that, with him, days signify weeks, and weeks months.

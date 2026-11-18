@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Year's Mail"
 weight: 8
-aliases:
-  - "/authors/coolidge-dane/hidden-water/chapter-08.html"
+url: "/authors/coolidge-dane/hidden-water/chapter-08.html"
 ---
 
 The beef herd was safely delivered at Bender, the feeders disposed of at Moroni, and the checks sent on to the absentee owner, who did not know a steer from a stag; the rodéo hands were paid off and successfully launched upon their big drunk; bills were paid and the Summer's supplies ordered in, and then at last the superintendent and rodéo boss settled down to a little domesticity.

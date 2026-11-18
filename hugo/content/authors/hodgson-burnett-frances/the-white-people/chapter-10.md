@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/hodgson-burnett-frances/the-white-people/chapter-10.html"
+url: "/authors/hodgson-burnett-frances/the-white-people/chapter-10.html"
 ---
 
 The mist had floated away, and the moor was drenched with golden sunshine when we went back to the castle. As we entered the hall I heard the sound of a dog howling, and spoke of it to one of the men-servants who had opened the door.

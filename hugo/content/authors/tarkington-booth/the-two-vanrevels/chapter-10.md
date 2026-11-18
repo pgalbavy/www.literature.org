@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Echoes Of A Serenade"
 weight: 10
-aliases:
-  - "/authors/tarkington-booth/the-two-vanrevels/chapter-10.html"
+url: "/authors/tarkington-booth/the-two-vanrevels/chapter-10.html"
 ---
 
 More than three gentlemen of Rouen wore their hearts in their eyes for any fool to gaze upon; but three was the number of those who told their love before the end of the first week of Mr. Carewe's absence, and told it in spite of Mrs. Tanberry's utmost effort to preserve, at all times, a conjunction between herself and Miss Betty. For the good lady, foreseeing these declarations much more surely than did the subject of them, wished to spare her lovely charge the pain of listening to them.

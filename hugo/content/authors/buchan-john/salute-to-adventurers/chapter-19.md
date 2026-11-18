@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Clearwater Glen"
 weight: 20
-aliases:
-  - "/authors/buchan-john/salute-to-adventurers/chapter-19.html"
+url: "/authors/buchan-john/salute-to-adventurers/chapter-19.html"
 ---
 
 Next morning we came into Clearwater Glen.

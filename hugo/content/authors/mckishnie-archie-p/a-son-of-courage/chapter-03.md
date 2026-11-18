@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Appraising The New Teacher"
 weight: 3
-aliases:
-  - "/authors/mckishnie-archie-p/a-son-of-courage/chapter-03.html"
+url: "/authors/mckishnie-archie-p/a-son-of-courage/chapter-03.html"
 ---
 
 The morning wood-mists were warm, sweet-scented; the wood-birds' song of thanksgiving was glad with the essence of God-given life. But the man astride the dejected and weary horse saw none of the beauties of his surroundings, heard none of the harmony, experienced none of the exhilaration of the life all about him, as he rode slowly down the winding trail between the trees. He sat erect in his saddle, eyes fixed straight before him. His face was strong and seamed with tiny lines. The prominence of his features was accentuated by the thinness of the face. Beady black eyes burned beneath the shadows of heavy brows. A shock of iron-grey hair brushed his shoulders. In one hand he held a leather-bound book, a long thumb fixed on the printed page from which his attention had been momentarily diverted by his survey of the woodland scene.

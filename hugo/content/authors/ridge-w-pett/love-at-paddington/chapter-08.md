@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/ridge-w-pett/love-at-paddington/chapter-08.html"
+url: "/authors/ridge-w-pett/love-at-paddington/chapter-08.html"
 ---
 
 Frederick Bulpert, having obtained two professional engagements at seven shillings and sixpence each, resigned his situation in the Post Office, and this left him free to call at Praed Street whenever he cared to do so. Mrs. Mills described him as a hearty eater, but she made much of him, apparently out of gratitude. Gertie had spoken to her about Henry's letters--

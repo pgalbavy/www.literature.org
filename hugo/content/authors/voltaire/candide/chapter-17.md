@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Candide and His Valet Arrive in the Country of El Dorado-What They Saw There"
 weight: 17
-aliases:
-  - "/authors/voltaire/candide/chapter-17.html"
+url: "/authors/voltaire/candide/chapter-17.html"
 ---
 
 When to the frontiers of the Oreillons, said Cacambo to Candide, "You see, this hemisphere is not better than the other; now take my advice and let us return to Europe by the shortest way possible."

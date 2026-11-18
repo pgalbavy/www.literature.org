@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-07.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-07.html"
 ---
 
 "Perigot. As the bonny lasse passed by, Willie. Hey, ho, bonnilasse! P. She roode at me with glauncing eye, W. As clear as the crystal glasse. P. All as the sunny beame so bright, W. Hey, ho, the sunnebeame! P. Glaunceth from Phoebus' face forthright, W. So love into thy heart did streame." - SPENSER: Shepard's Calendar.

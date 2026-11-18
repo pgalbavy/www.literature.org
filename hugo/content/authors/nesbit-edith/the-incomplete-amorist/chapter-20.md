@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Waking-Up Time"
 weight: 20
-aliases:
-  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-20.html"
+url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-20.html"
 ---
 
 Dear Mr. Vernon. This is to thank you very much for all your help and criticism of my work, and to say good-bye. I am called away quite suddenly, so I can't thank you in person, but I shall never forget your kindness. Please remember me to Lady St. Craye. I suppose you will be married quite soon now. And I am sure you will both be very happy.

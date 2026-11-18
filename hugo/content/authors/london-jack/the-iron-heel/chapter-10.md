@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Vortex"
 weight: 11
-aliases:
-  - "/authors/london-jack/the-iron-heel/chapter-10.html"
+url: "/authors/london-jack/the-iron-heel/chapter-10.html"
 ---
 
 Following like thunder claps upon the Business Men's dinner, occurred event after event of terrifying moment; and I, little I, who had lived so placidly all my days in the quiet university town, found myself and my personal affairs drawn into the vortex of the great world-affairs. Whether it was my love for Ernest, or the clear sight he had given me of the society in which I lived, that made me a revolutionist, I know not; but a revolutionist I became, and I was plunged into a whirl of happenings that would have been inconceivable three short months before.

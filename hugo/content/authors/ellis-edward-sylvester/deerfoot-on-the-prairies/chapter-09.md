@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A Battle Royal"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-09.html"
 ---
 
 *THE* camp was astir early. George and Victor Shelton were surprised when told by Deerfoot of the visit received the night previous. A trapper had called upon him with three horses, conversed for an hour or more, and then departed, and was now miles away on the road to St. Louis. The Shawanoe related nothing of what passed between him and Jack Halloway except to say that he was belated in leaving the beaver runs in the mountains and meant to lose no time in reaching his distant home.

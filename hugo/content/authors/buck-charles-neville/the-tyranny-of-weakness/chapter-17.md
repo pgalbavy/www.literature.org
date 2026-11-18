@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-17.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-17.html"
 ---
 
 She came to a stop and sat looking out at the phosphorescent sea and the star-filled skies. Farquaharson leaned forward, his words coming brokenly and in a heavy misery of embarrassment.

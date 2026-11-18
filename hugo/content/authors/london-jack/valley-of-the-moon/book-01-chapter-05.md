@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 5"
 weight: 5
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-01-chapter-05.html"
+url: "/authors/london-jack/valley-of-the-moon/book-01-chapter-05.html"
 ---
 
 At eight o'clock the Al Vista band played "Home, Sweet Home," and, following the hurried rush through the twilight to the picnic train, the four managed to get double seats facing each other. When the aisles and platforms were packed by the hilarious crowd, the train pulled out for the short run from the suburbs into Oakland. All the car was singing a score of songs at once, and Bert, his head pillowed on Mary's breast with her arms around him, started "On the Banks of the Wabash." And he sang the song through, undeterred by the bedlam of two general fights, one on the adjacent platform, the other at the opposite end of the car, both of which were finally subdued by special policemen to the screams of women and the crash of glass.

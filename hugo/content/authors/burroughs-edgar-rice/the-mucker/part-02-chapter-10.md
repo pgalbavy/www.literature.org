@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 10 - Billy Cracks A Safe"
 weight: 28
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-10.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-10.html"
 ---
 
 BILLY BYRNE, captain, rode into Cuivaca from the south. He had made a wide detour in order to accomplish this; but under the circumstances he had thought it wise to do so. In his pocket was a safe conduct from one of Villa's generals farther south--a safe conduct taken by Pesita from the body of one of his recent victims. It would explain Billy's presence in Cuivaca since it had been intended to carry its rightful possessor to Juarez and across the border into the United States.

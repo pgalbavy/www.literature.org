@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 12 - Mephistopheles On A Steamer"
 weight: 12
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-12.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-12.html"
 ---
 
 In some respects, the voyage across the Atlantic was a surprise to Aynesworth. His companion seemed to have abandoned, for the time at any rate, his habit of taciturnity. He conversed readily, if a little stiffly, with his fellow passengers. He divided his time between the smoke room and the deck, and very seldom sought the seclusion of his state room. Aynesworth remarked upon this change one night as the two men paced the deck after dinner.

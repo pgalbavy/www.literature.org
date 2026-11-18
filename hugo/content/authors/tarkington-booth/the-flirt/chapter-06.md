@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/tarkington-booth/the-flirt/chapter-06.html"
+url: "/authors/tarkington-booth/the-flirt/chapter-06.html"
 ---
 
 Much light shatters much loveliness; but a pretty girl who looks pretty outdoors on a dazzling hot summer morning is prettier then than ever. Cora knew it; of course she knew it; she knew exactly how she looked, as she left the concrete bridge behind her at the upper end of Corliss Street and turned into a shrub-bordered bypath of the river park. In imagination she stood at the turn of the path just ahead, watching her own approach: she saw herself as a picture—the white-domed parasol, with its cheerful pale-green lining, a background for her white hat, her corn-silk hair, and her delicately flushed face. She saw her pale, live arms through their thin sleeves, and the light grasp of her gloved fingers upon the glistening stick of the parasol; she saw the long, simple lines of her close white dress and their graceful interchanging movements with the alternate advance of her white shoes over the fine gravel path; she saw the dazzling splashes of sunshine playing upon her through the changeful branches overhead. Cora never lacked a gallery: she sat there herself.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39 - Old And New Acquaintance"
 weight: 39
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-39.html"
+url: "/authors/bronte-charlotte/villette/chapter-39.html"
 ---
 
 Fascinated as by a basilisk with three heads, I could not leave this clique; the ground near them seemed to hold my feet. The canopy of entwined trees held out shadow, the night whispered a pledge of protection, and an officious lamp flashed just one beam to show me an obscure, safe seat, and then vanished. Let me now briefly tell the reader all that, during the past dark fortnight, I have been silently gathering from Rumour, respecting the origin and the object of M. Emanuel's departure. The tale is short, and not new: its alpha is Mammon, and its omega Interest.

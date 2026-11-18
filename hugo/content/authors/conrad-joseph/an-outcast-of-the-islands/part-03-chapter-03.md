@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 3"
 weight: 17
-aliases:
-  - "/authors/conrad-joseph/an-outcast-of-the-islands/part-03-chapter-03.html"
+url: "/authors/conrad-joseph/an-outcast-of-the-islands/part-03-chapter-03.html"
 ---
 
 "Well! Let’s know all about it. I can’t imagine . . ." began Lingard, after waiting for some time in silence.

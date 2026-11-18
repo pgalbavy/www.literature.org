@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38"
 weight: 38
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-38.html"
+url: "/authors/forster-e-m/howards-end/chapter-38.html"
 ---
 
 The tragedy began quietly enough, and, like many another talk, by the man’s deft assertion of his superiority. Henry heard her arguing with the driver, stepped out and settled the fellow, who was inclined to be rude, and then led the way to some chairs on the lawn. Dolly, who had not been “told,” ran out with offers of tea. He refused them, and ordered them to wheel baby’s perambulator away, as they desired to be alone.

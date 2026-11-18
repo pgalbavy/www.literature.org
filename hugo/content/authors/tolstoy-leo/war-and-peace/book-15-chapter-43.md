@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 43"
 weight: 360
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-43.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-43.html"
 ---
 
 When an event is taking place people express their opinions and wishes about it, and as the event results from the collective activity of many people, some one of the opinions or wishes expressed is sure to be fulfilled if but approximately. When one of the opinions expressed is fulfilled, that opinion gets connected with the event as a command preceding it.

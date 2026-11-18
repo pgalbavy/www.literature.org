@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 27
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-26.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-26.html"
 ---
 
 Ozma was in her rose garden picking a bouquet when the party arrived, and she greeted all her old and new friends as smilingly and sweetly as ever.

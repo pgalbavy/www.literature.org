@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Sir Andew d'arcy"
 weight: 3
-aliases:
-  - "/authors/haggard-h-rider/the-brethren/chapter-02.html"
+url: "/authors/haggard-h-rider/the-brethren/chapter-02.html"
 ---
 
 Godwin dreamed that he was dead, and that beneath him floated the world, a glowing ball, while he was borne to and fro through the blackness, stretched upon a couch of ebony. There were bright watchers by his couch also, watchers twain, and he knew them for his guardian angels, given him at birth. Moreover, now and again presences would come and question the watchers who sat at his head and foot. One asked:

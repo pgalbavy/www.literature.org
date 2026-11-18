@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - A Promise Of Fairer Weather"
 weight: 21
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-19.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-19.html"
 ---
 
 All dwellers in and about London are, alas! too well acquainted with the never-to-be-enough-hated change which we have to undergo once, at least, in every spring. As each succeeding winter wears away, the same thing happens to us.

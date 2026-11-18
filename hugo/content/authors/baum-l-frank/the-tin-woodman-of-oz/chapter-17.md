@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-17.html"
+url: "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-17.html"
 ---
 
 It was not more than a two hours' journey to the house where Nimmie Amee had lived, but when our travelers arrived there they found the place deserted. The door was partly off its hinges, the roof had fallen in at the rear and the interior of the cottage was thick with dust. Not only was the place vacant, but it was evident that no one had lived there for a long time.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-31.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-31.html"
 ---
 
 In Boston Eben would have been safely housed against the storm, but Eben was not in Boston. He had driven to the village and put his horse and buggy in the livery stable. At the station he had bought a ticket for Boston, but when the express made its first stop he had dropped off to buy a paper and had intentionally allowed his train to go on without him.

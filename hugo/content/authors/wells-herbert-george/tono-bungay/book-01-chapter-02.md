@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 2 - Of My Launch Into The World And The Last I Saw Of Bladesover"
 weight: 2
-aliases:
-  - "/authors/wells-herbert-george/tono-bungay/book-01-chapter-02.html"
+url: "/authors/wells-herbert-george/tono-bungay/book-01-chapter-02.html"
 ---
 
 I

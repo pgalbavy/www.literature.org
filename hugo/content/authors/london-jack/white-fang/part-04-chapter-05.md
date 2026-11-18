@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 5 - The Indomitable"
 weight: 19
-aliases:
-  - "/authors/london-jack/white-fang/part-04-chapter-05.html"
+url: "/authors/london-jack/white-fang/part-04-chapter-05.html"
 ---
 
 "It's hopeless," Weedon Scott confessed.

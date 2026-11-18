@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/tarkington-booth/alice-adams/chapter-01.html"
+url: "/authors/tarkington-booth/alice-adams/chapter-01.html"
 ---
 
 The patient, an old-fashioned man, thought the nurse made a mistake in keeping both of the windows open, and her sprightly disregard of his protests added something to his hatred of her. Every evening he told her that anybody with ordinary gumption ought to realize that night air was bad for the human frame. "The human frame won't stand everything, Miss Perry," he warned her, resentfully. "Even a child, if it had just ordinary gumption, ought to know enough not to let the night air blow on sick people yes, nor well people, either! 'Keep out of the night air, no matter how well you feel.' That's what my mother used to tell me when I was a boy. 'Keep out of the night air, Virgil,' she'd say. 'Keep out of the night air.'"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 22
-aliases:
-  - "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-21.html"
+url: "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-21.html"
 ---
 
 They must have had good courage to climb all those rocks, for after getting out of the canyon they encountered more rock hills to he surmounted. Toto could jump from one rock to another quite easily, but the others had to creep and climb with care, so that after a whole day of such work Dorothy and Ojo found themselves very tired.

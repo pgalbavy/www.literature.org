@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Wonderful City of Oz "
 weight: 12
-aliases:
-  - "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-11.html"
+url: "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-11.html"
 ---
 
 Even with eyes protected by the green spectacles, Dorothy and her friends were at first dazzled by the brilliancy of the wonderful City. The streets were lined with beautiful houses all built of green marble and studded everywhere with sparkling emeralds. They walked over a pavement of the same green marble, and where the blocks were joined together were rows of emeralds, set closely, and glittering in the brightness of the sun. The window panes were of green glass; even the sky above the City had a green tint, and the rays of the sun were green.

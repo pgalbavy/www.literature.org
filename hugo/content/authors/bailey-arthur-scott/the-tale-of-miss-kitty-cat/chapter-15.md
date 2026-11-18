@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Mousetraps"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-15.html"
 ---
 
 "I DON'T understand," said old dog Spot to Miss Kitty Cat one day, "why Mrs. Green wants to keep you around the house when she can buy mousetraps at the village." Old Spot eyed Miss Kitty slyly. He dearly loved to watch her whiskers bristle and her tail grow big. And he could make both those things happen almost any time he wanted to.

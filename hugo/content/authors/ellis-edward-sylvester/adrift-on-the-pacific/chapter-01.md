@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Captain Strathmore's Passenger"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-01.html"
 ---
 
 A few hours before the sailing of the steamer *Polynesia*, from San Francisco to Japan, and while Captain Strathmore stood on deck watching the bustle and hurry, he was approached by a nervous, well-dressed gentleman, who was leading a little girl by the hand.

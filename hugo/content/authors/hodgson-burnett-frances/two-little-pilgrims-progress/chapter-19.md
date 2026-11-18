@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-19.html"
+url: "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-19.html"
 ---
 
 The two children did not know exactly whether they were frightened or not. If it had not seemed impossible that anything should go entirely wrong while John Holt was near them, they would have felt rather queer. But John Holt was evidently not the least alarmed.

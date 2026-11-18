@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 9"
 weight: 9
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-01-chapter-09.html"
+url: "/authors/cather-willa/song-of-the-lark/part-01-chapter-09.html"
 ---
 
 Mr. Kronborg considered Thea a remarkable child; but so were all his children remarkable. If one of the business men downtown remarked to him that he “had a mighty bright little girl, there,” he admitted it, and at once began to explain what a “long head for business” his son Gus had, or that Charley was “a natural electrician,” and had put in a telephone from the house to the preacher's study behind the church.

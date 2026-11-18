@@ -1,8 +1,7 @@
 ---
 title: "Book 7 - Chapter 11"
 weight: 143
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-07-chapter-11.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-07-chapter-11.html"
 ---
 
 Pelageya Danilovna Melyukova, a broadly built, energetic woman wearing spectacles, sat in the drawing room in a loose dress, surrounded by her daughters whom she was trying to keep from feeling dull. They were quietly dropping melted wax into snow and looking at the shadows the wax figures would throw on the wall, when they heard the steps and voices of new arrivals in the vestibule.

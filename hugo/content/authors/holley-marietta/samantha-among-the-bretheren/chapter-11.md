@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-11.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-11.html"
 ---
 
 [Illustration:]

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/woolf-virginia/night-and-day/chapter-28.html"
+url: "/authors/woolf-virginia/night-and-day/chapter-28.html"
 ---
 
 Like a strain of music, the effect of Katharine’s presence slowly died from the room in which Ralph sat alone. The music had ceased in the rapture of its melody. He strained to catch the faintest lingering echoes; for a moment the memory lulled him into peace; but soon it failed, and he paced the room so hungry for the sound to come again that he was conscious of no other desire left in life. She had gone without speaking; abruptly a chasm had been cut in his course, down which the tide of his being plunged in disorder; fell upon rocks; flung itself to destruction. The distress had an effect of physical ruin and disaster. He trembled; he was white; he felt exhausted, as if by a great physical effort. He sank at last into a chair standing opposite her empty one, and marked, mechanically, with his eye upon the clock, how she went farther and farther from him, was home now, and now, doubtless, again with Rodney. But it was long before he could realize these facts; the immense desire for her presence churned his senses into foam, into froth, into a haze of emotion that removed all facts from his grasp, and gave him a strange sense of distance, even from the material shapes of wall and window by which he was surrounded. The prospect of the future, now that the strength of his passion was revealed to him, appalled him.

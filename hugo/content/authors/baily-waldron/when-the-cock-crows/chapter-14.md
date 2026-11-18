@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Garnet The Hero"
 weight: 14
-aliases:
-  - "/authors/baily-waldron/when-the-cock-crows/chapter-14.html"
+url: "/authors/baily-waldron/when-the-cock-crows/chapter-14.html"
 ---
 
 The dwellers of the Sound Country are early risers. For this reason, Ethel Marion was up and dressed next morning earlier than ever before in her life. The dawn was just breaking when breakfast was announced. One of the buxom girls came to offer her services in dressing the invalid stranger. Then she was assisted to the porch for a breath of the early morning air, and she exclaimed in delight over the splendid view there unfolded. Far off to the eastward the sun was just climbing up from behind a sand dune on the Banks. For miles up and down the coast the broken sand hills ran in a line north and south, trending the horizon. These showed free from any vegetation except the scrub growth at their base and the sand of them shone under the rays of the rising sun like molten silver. In the foreground were the blue waters of the Sound now dimpling under the caressing touches of a gentle breeze. Here and there showed high lights from the whitecaps that stood out as souvenirs still of the storm that had passed. Off to the right of the small bay upon which the house was built, a tangled mass of evergreen shrubs offered a vivid note in the color scheme. These were the undergrowth of the huge forest trees, of which the limbs were almost hidden by the clinging wreaths of mistletoe.

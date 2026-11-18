@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-06.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-06.html"
 ---
 
 Cal Maggard sat gazing into the blaze that leaped and eddied fitfully under the blackened chimney. In one hand drooped the sheet of paper that he had found fastened to his door and in the other the pipe which had been forgotten and had died.

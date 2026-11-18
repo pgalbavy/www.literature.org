@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Lady Janet At Bay"
 weight: 23
-aliases:
-  - "/authors/collins-wilkie/the-new-magdalen/chapter-23.html"
+url: "/authors/collins-wilkie/the-new-magdalen/chapter-23.html"
 ---
 
 THE narrative leaves Julian and Mercy for a while, and, ascending to the upper regions of the house, follows the march of events in Lady Janet's room.

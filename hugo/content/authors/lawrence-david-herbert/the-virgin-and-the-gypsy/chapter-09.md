@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/lawrence-david-herbert/the-virgin-and-the-gypsy/chapter-09.html"
+url: "/authors/lawrence-david-herbert/the-virgin-and-the-gypsy/chapter-09.html"
 ---
 
 Yvette did not keep her promise. The few March days were lovely, and she let them slip. She had a curious reluctance always, towards taking action, or making any real move of her own. She always wanted someone else to make a move for her, as if she did not want to play her own game of life.

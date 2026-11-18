@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Now"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-16.html"
 ---
 
 It was the parson who now broke in.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The G. B."
 weight: 9
-aliases:
-  - "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-09.html"
+url: "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-09.html"
 ---
 
 Being editors is not the best way to wealth. We all feel this now, and highwaymen are not respected any more like they used to be.

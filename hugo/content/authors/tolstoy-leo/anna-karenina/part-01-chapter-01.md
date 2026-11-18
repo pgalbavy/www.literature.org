@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 1"
 weight: 1
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-01.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-01.html"
 ---
 
 Happy families are all alike; every unhappy family is unhappy in its own way.

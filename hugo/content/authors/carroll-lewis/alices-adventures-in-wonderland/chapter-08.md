@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Queen’s Croquet-Ground"
 weight: 8
-aliases:
-  - "/authors/carroll-lewis/alices-adventures-in-wonderland/chapter-08.html"
+url: "/authors/carroll-lewis/alices-adventures-in-wonderland/chapter-08.html"
 ---
 
 A large rose-tree stood near the entrance of the garden: the roses growing on it were white, but there were three gardeners at it, busily painting them red. Alice thought this a very curious thing, and she went nearer to watch them, and just as she came up to them she heard one of them say, "Look out now, Five! Don’t go splashing paint over me like that!"

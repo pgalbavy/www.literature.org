@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 6 - Night In The Woods (Concluded): Dick And Joan"
 weight: 31
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-05-chapter-06.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-05-chapter-06.html"
 ---
 
 The horses had by this time finished the small store of provender, and fully breathed from their fatigues. At Dick's command, the fire was smothered in snow; and while his men got once more wearily to saddle, he himself, remembering, somewhat late, true woodland caution, chose a tall oak and nimbly clambered to the topmost fork. Hence he could look far abroad on the moonlit and snow-paven forest. On the south-west, dark against the horizon, stood those upland, heathy quarters where he and Joanna had met with the terrifying misadventure of the leper. And there his eye was caught by a spot of ruddy brightness no bigger than a needle's eye.

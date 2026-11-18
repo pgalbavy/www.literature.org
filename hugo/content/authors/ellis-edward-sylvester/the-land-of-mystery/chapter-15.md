@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Ziffak"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-15.html"
 ---
 
 Fred Ashman was so startled by hearing the giant native utter his submission in unmistakable English, that he came near dropping his leveled Winchester to the earth in sheer amazement.

@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 4"
 weight: 194
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-04.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-04.html"
 ---
 
 Bald Hills, Prince Nicholas Bolkonski's estate, lay forty miles east from Smolensk and two miles from the main road to Moscow.

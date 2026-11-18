@@ -1,8 +1,7 @@
 ---
 title: "Canto 9"
 weight: 10
-aliases:
-  - "/authors/byron-lord/don-juan/canto-09.html"
+url: "/authors/byron-lord/don-juan/canto-09.html"
 ---
 
 O, Wellington! (or 'Villainton'—for Fame  

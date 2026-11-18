@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 17
-aliases:
-  - "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-16.html"
+url: "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-16.html"
 ---
 
 "Are you really a soldier?" asked Woot, when they had all watched this strange tin person parade up and down the path and proudly flourish his sword.

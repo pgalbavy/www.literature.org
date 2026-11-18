@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 2 - The Torn Nest Is Pierced By The Thorns"
 weight: 31
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-04-chapter-02.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-04-chapter-02.html"
 ---
 
 There is something sustaining in the very agitation that accompanies the first shocks of trouble, just as an acute pain is often a stimulus, and produces an excitement which is transient strength. It is in the slow, changed life that follows; in the time when sorrow has become stale, and has no longer an emotive intensity that counteracts its pain; in the time when day follows day in dull, unexpectant sameness, and trial is a dreary routine, - it is then that despair threatens; it is then that the peremptory hunger of the soul is felt, and eye and ear are strained after some unlearned secret of our existence, which shall give to endurance the nature of satisfaction.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/huxley-aldous/crome-yellow/chapter-23.html"
+url: "/authors/huxley-aldous/crome-yellow/chapter-23.html"
 ---
 
 Gombauld was by no means so furious at their apparition as Denis had hoped and expected he would be. Indeed, he was rather pleased than annoyed when the two faces, one brown and pointed, the other round and pale, appeared in the frame of the open door. The energy born of his restless irritation was dying within him, returning to its emotional elements. A moment more and he would have been losing his temper again—and Anne would be keeping hers, infuriatingly. Yes, he was positively glad to see them.

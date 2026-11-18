@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - A Terrible Night"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-21.html"
 ---
 
 The prospect of being besieged all night in a tree by a pack of mountain wolves was not a pleasant one by any means, and Fred, who had climbed up among the branches with the object of securing a few hours' slumber, found little chance of closing his eyes for even a minute.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-14.html"
+url: "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-14.html"
 ---
 
 It would have been a loud sound which would have awakened them during those deep sleeping hours of the night. They did not even stir on their poor pillows when, long after midnight, there was the noise of heavy drunken footsteps and heavy drunken stumbling in the passage below, and then the raising of a man’s rough voice, and the upsetting of chairs and the slamming of doors, mingled with the expostulations of the woman, whose husband had come home in something worse than his frequent ill-fashion. They slept sweetly through it all, but when the morning came, and hours of unbroken rest had made their slumbers lighter, and the sunshine streamed in through the broken windows, they were called back to the world by loud and angry sounds.

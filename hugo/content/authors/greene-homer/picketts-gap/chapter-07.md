@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/greene-homer/picketts-gap/chapter-07.html"
+url: "/authors/greene-homer/picketts-gap/chapter-07.html"
 ---
 
 The celebrated equity case of the Tidewater and Western Railroad Company vs. the Delaware Valley and Eastern Railroad Company came on to be heard at Mooreville on the second Monday of December term. The question at issue was the priority of right to build a railroad through Pickett’s Gap. When court convened at two o’clock, the court room was crowded. The case had aroused great public interest and curiosity. Besides the local counsel engaged, there were eminent lawyers in attendance from New York and Philadelphia. There was bound to be some nice legal sparring, and people wanted to see and hear it. The battle began soon after the case was opened, when the Tidewater and Western offered in evidence their paper title to the route acquired by them from the old Lackawanna Company. The D. V. & E. people had not expected this, and it provoked a prolonged contest between counsel. Indeed, the better part of the afternoon was occupied in the effort to get this title in evidence. When it was finally admitted another struggle was immediately precipitated by the offer of the minutes of the meeting of the board of T. & W. directors, at which the route through Pickett’s Gap was formally adopted. And when this contention was settled in favor of the T. & W. it was time for adjournment.

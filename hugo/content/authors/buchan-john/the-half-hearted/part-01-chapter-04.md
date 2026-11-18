@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 4 - Afternoon In A Garden"
 weight: 4
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-01-chapter-04.html"
+url: "/authors/buchan-john/the-half-hearted/part-01-chapter-04.html"
 ---
 
 The gardens of Glenavelin have an air of antiquity beyond the dwelling, for there the modish fashions of another century have been followed with enthusiasm. There are clipped yews and long arched avenues, bowers and summer-houses of rustic make, and a terraced lawn fringed with a Georgian parapet. A former lord had kept peacocks innumerable, and something of the tradition still survived. Set in the heart of hilly moorlands, it was like a cameo gem in a tartan plaid, a piece of old Vauxhall or Ranelagh in an upland vale. Of an afternoon sleep reigned supreme. The shapely immobile trees, the grey and crumbling stone, the lone green walks vanishing into a bosky darkness were instinct with the quiet of ages. It needed but Lady Prue with her flounces and furbelows and Sir Pertinax with his cane and buckled shoon to re-create the ancient world before good Queen Anne had gone to her rest.

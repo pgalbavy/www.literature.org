@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - On Top Of The Barn"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-18.html"
 ---
 
 All the feathered folk on the roof of Farmer Green's barn saw at once that Jasper Jay had told the truth. The golden bird was a rooster, just as Jasper had said. But it seemed strange to them that a rooster should sit on so high a perch.

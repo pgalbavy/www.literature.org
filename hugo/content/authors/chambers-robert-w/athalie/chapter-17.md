@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-17.html"
+url: "/authors/chambers-robert-w/athalie/chapter-17.html"
 ---
 
 It was about five months later that Cecil Reeve wrote his long reply to a dozen letters from Clive Bailey which heretofore had remained unanswered and neglected:

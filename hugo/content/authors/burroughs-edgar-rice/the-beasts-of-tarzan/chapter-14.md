@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Alone in the Jungle"
 weight: 14
-aliases:
-  - "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-14.html"
+url: "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-14.html"
 ---
 
 Tambudza, leading Tarzan of the Apes toward the camp of the Russian, moved very slowly along the winding jungle path, for she was old and her legs stiff with rheumatism.

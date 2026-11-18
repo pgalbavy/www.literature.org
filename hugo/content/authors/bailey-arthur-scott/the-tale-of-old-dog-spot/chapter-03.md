@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - A Wild Dog"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-03.html"
 ---
 
 Old dog Spot felt greatly pleased with himself. He had told everybody that would listen to him how he could make Miss Kitty Cat angry just by standing still and pointing at her.

@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 13 - Providence Von Rosen: Act The Third She Enlightens Seraphina"
 weight: 19
-aliases:
-  - "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-13.html"
+url: "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-13.html"
 ---
 
 When Madame von Rosen left the Prince, she hurried straight to Colonel Gordon; and not content with directing the arrangements, she had herself accompanied the soldier of fortune to the Flying Mercury. The Colonel gave her his arm, and the talk between this pair of conspirators ran high and lively. The Countess, indeed, was in a whirl of pleasure and excitement; her tongue stumbled upon laughter, her eyes shone, the colour that was usually wanting now perfected her face. It would have taken little more to bring Gordon to her feet—or so, at least, she believed, disdaining the idea.

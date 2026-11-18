@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Happy Thought"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-06.html"
 ---
 
 Brownie Beaver liked to know what was going on in the world. But living far from Pleasant Valley as he did, he seldom heard any news before it was quite old.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Sharp Eyes Gets Away"
 weight: 11
-aliases:
-  - "/authors/barnum-richard/sharp-eyes-the-silver-fox/chapter-11.html"
+url: "/authors/barnum-richard/sharp-eyes-the-silver-fox/chapter-11.html"
 ---
 
 For a time there was much excitement in the animal house of the park, where Sharp Eyes had gotten out of his cage. At first the men did not see where he had run to――inside the hippo’s cage. But when they found him they were very anxious to get Sharp Eyes back.

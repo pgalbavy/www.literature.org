@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39"
 weight: 39
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-39.html"
+url: "/authors/london-jack/john-barleycorn/chapter-39.html"
 ---
 
 Of course, no personal tale is complete without bringing the narrative of the person down to the last moment. But mine is no tale of a reformed drunkard. I was never a drunkard, and I have not reformed.

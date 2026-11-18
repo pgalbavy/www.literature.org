@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/london-jack/before-adam/chapter-04.html"
+url: "/authors/london-jack/before-adam/chapter-04.html"
 ---
 
 There is one puzzling thing about these prehistoric memories of mine. It is the vagueness of the time element. I lo not always know the order of events;--or can I tell, between some events, whether one, two, or four or five years have elapsed. I can only roughly tell the passage of time by judging the changes in the appearance and pursuits of my fellows.

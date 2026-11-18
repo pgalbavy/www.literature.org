@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - What Happened Next To Danny Meadow Mouse"
 weight: 22
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-22.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-22.html"
 ---
 
 *DANNY* is so used to narrow escapes that he doesn’t waste any time thinking about them. He didn’t this time. "He who tries to look two ways at once is pretty sure to see nothing," says Danny, and he knew that if he thought too much about the things that had already happened, he couldn’t keep a sharp watch for the things that might happen.

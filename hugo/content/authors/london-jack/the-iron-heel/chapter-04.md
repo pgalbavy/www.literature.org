@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Slaves Of The Machine"
 weight: 5
-aliases:
-  - "/authors/london-jack/the-iron-heel/chapter-04.html"
+url: "/authors/london-jack/the-iron-heel/chapter-04.html"
 ---
 
 The more I thought of Jackson's arm, the more shaken I was. I was confronted by the concrete. For the first time I was seeing life. My university life, and study and culture, had not been real. I had learned nothing but theories of life and society that looked all very well on the printed page, but now I had seen life itself. Jackson's arm was a fact of life. "The fact, man, the irrefragable fact!" of Ernest's was ringing in my consciousness.

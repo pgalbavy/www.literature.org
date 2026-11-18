@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-10.html"
+url: "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-10.html"
 ---
 
 They had not gone very far before Bungle, who had run on ahead, came bounding back to say that the road of yellow bricks was just before them. At once they hurried forward to see what this famous road looked like.

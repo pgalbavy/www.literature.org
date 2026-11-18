@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Welcome Home"
 weight: 14
-aliases:
-  - "/authors/coolidge-dane/the-texican/chapter-13.html"
+url: "/authors/coolidge-dane/the-texican/chapter-13.html"
 ---
 
 After the war of words was over and the tumult and shouting had died away, the Angel of Peace, which had been flying high of late, fluttered down and hovered low over Verde Crossing. John Upton rode back up the Tonto trail still breathing forth hostile threats; Crittenden and his men buckled on their extra guns and rode blithely out to the adventure; and the store, from being a general hang-out for noisy and drunken cowboys, became once more a shrine to Venus and a temple of the Muse, with Babe the minstrel and Marcelina the devotee. "Billy Veniro" was the theme—that long, sad tale of the far frontier—sung in tragic tenor to a breathless audience of one. She was very pretty, the little Marcelina, now that she had become a woman. The Sisters had taught her her catechism and something more—the grace and sweetness that come from religious adoration, and the quiet of the cell. The great world, too, as personated by Geronimo, had done its share; her hair was done up in dark masses, her long skirt swept the floor, and with the added dignity of a train her womanhood was complete. She sat by the door where she could watch the Tonto trail—for it was by that road that Pecos was to come—and her melancholy eyes glowed as she listened to the song.

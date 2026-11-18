@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Few Native Trees"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-10.html"
 ---
 
 It was the qualification in the Instructor’s remark, "when the sun is shining," that gave the quick-witted Mike his clue.

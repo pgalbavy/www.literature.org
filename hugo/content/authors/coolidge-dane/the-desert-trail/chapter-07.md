@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/coolidge-dane/the-desert-trail/chapter-07.html"
+url: "/authors/coolidge-dane/the-desert-trail/chapter-07.html"
 ---
 
 There are doubtless many philanthropists in the Back Bay regions of Boston who would consider the whipsawing of Cruz Mendez a very reprehensible act. And one hundred dollars Mex was certainly a very small reward for the service that he was to perform.

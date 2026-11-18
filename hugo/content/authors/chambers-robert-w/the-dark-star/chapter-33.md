@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - A Rat Hunt"
 weight: 34
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-33.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-33.html"
 ---
 
 The interior of the entire house was now in an uproar; shots came fast from every landing; the semi-dusk of stair-well and corridor was lighted by incessant pistol flashes and the whole building echoed the deafening racket.

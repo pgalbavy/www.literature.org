@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 18 - The Awakening"
 weight: 34
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-18.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-18.html"
 ---
 
 Wingrave had risen to his feet. He was perfectly calm, but there was a look on his face which Juliet had never seen there before. Instinctively she drew a little away, and Aynesworth took his place between them.

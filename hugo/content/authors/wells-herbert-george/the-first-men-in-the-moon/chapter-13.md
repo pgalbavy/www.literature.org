@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Mr. Cavor Makes Some Sugestions"
 weight: 13
-aliases:
-  - "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-13.html"
+url: "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-13.html"
 ---
 
 FOR a time neither of us spoke. To focus together all the things we had brought upon ourselves, seemed beyond my mental powers.

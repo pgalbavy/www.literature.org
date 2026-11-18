@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/russell-bertrand/the-problems-of-philosophy/preface.html"
+url: "/authors/russell-bertrand/the-problems-of-philosophy/preface.html"
 ---
 
 In the following pages I have confined myself in the main to those problems of philosophy in regard to which I thought it possible to say something positive and constructive, since merely negative criticism seemed out of place. For this reason, theory of knowledge occupies a larger space than metaphysics in the present volume, and some topics much discussed by philosophers are treated very briefly, if at all.

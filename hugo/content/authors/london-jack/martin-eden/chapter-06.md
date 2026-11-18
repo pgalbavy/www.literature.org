@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-06.html"
+url: "/authors/london-jack/martin-eden/chapter-06.html"
 ---
 
 A terrible restlessness that was akin to hunger afflicted Martin Eden. He was famished for a sight of the girl whose slender hands had gripped his life with a giant's grasp. He could not steel himself to call upon her. He was afraid that he might call too soon, and so be guilty of an awful breach of that awful thing called etiquette. He spent long hours in the Oakland and Berkeley libraries, and made out application blanks for membership for himself, his sisters Gertrude and Marian, and Jim, the latter's consent being obtained at the expense of several glasses of beer. With four cards permitting him to draw books, he burned the gas late in the servant's room, and was charged fifty cents a week for it by Mr. Higginbotham.

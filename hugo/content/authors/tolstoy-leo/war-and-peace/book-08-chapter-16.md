@@ -1,8 +1,7 @@
 ---
 title: "Book 8 - Chapter 16"
 weight: 161
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-08-chapter-16.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-08-chapter-16.html"
 ---
 
 Anatole had lately moved to Dolokhov's. The plan for Natalie Rostova's abduction had been arranged and the preparations made by Dolokhov a few days before, and on the day that Sonya, after listening at Natasha's door, resolved to safeguard her, it was to have been put into execution. Natasha had promised to come out to Kuragin at the back porch at ten that evening. Kuragin was to put her into a troyka he would have ready and to drive her forty miles to the village of Kamenka, where an unfrocked priest was in readiness to perform a marriage ceremony over them. At Kamenka a relay of horses was to wait which would take them to the Warsaw highroad, and from there they would hasten abroad with post horses.

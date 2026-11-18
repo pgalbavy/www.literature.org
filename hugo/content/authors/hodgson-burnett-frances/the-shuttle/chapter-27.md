@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Life"
 weight: 27
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-27.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-27.html"
 ---
 
 Mount Dunstan, walking through the park next morning on his way to the vicarage, just after post time, met Mr. Penzance himself coming to make an equally early call at the Mount. Each of them had a letter in his hand, and each met the other's glance with a smile.

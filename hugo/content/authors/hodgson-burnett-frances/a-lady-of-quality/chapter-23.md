@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - \u0026quot;In One Who Will Do Justice, And Demands That It Shall Be Done To Each Thing He Has Made, By Each Who Bears His Image\u0026quot;"
 weight: 24
-aliases:
-  - "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-23.html"
+url: "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-23.html"
 ---
 
 'Twas in these days Sir Jeoffry came to his end, it being in such way as had been often prophesied; and when this final hour came, there was but one who could give him comfort, and this was the daughter whose youth he had led with such careless evilness to harm.

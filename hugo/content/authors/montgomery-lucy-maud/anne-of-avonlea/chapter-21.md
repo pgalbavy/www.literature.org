@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Sweet Miss Lavendar"
 weight: 21
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-21.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-21.html"
 ---
 
 School opened and Anne returned to her work, with fewer theories but considerably more experience. She had several new pupils, six- and seven-year-olds just venturing, round-eyed, into a world of wonder. Among them were Davy and Dora. Davy sat with Milty Boulter, who had been going to school for a year and was therefore quite a man of the world. Dora had made a compact at Sunday School the previous Sunday to sit with Lily Sloane; but Lily Sloane not coming the first day, she was temporarily assigned to Mirabel Cotton, who was ten years old and therefore, in Dora's eyes, one of the "big girls."

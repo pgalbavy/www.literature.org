@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Catch Of The Rosan"
 weight: 15
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-15.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-15.html"
 ---
 
 At the forecastle head of the Rosan stood a youth tolling the ship's bell. The windlass grunted and whined as the schooner came up on her hawser with a thump, and overhead a useless jib slatted and rattled.

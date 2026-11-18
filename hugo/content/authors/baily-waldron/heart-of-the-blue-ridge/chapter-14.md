@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-14.html"
+url: "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-14.html"
 ---
 
 While her grandfather was still on the porch, and her sister was out of the house, Plutina possessed herself of the new revolver, with its holster, which, after slipping down her gown from the shoulder, she attached under the left arm-pit. The looseness of the ill-fitting garment concealed the weapon effectually enough. For ready access, the upper buttons to the throat were left unfastened, in seeming relief against the heat of midday. Thus equipped, the girl stole out through the back way, unobserved by her relations, to keep tryst with the desperado.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - In the Emporium"
 weight: 22
-aliases:
-  - "/authors/wells-herbert-george/the-invisible-man/chapter-22.html"
+url: "/authors/wells-herbert-george/the-invisible-man/chapter-22.html"
 ---
 
 "So last January, with the beginning of a snowstorm in the air about me--and if it settled on me it would betray me!--weary, cold, painful, inexpressibly wretched, and still but half convinced of my invisible quality, I began this new life to which I am committed. I had no refuge, no appliances, no human being in the world in whom I could confide. To have told my secret would have given me away--made a mere show and rarity of me. Nevertheless, I was half minded to accost some passer-by and throw myself upon his mercy. But I knew too clearly the terror and brutal cruelty my advances would evoke. I made no plans in the street. My sole object was to get shelter from the snow, to get myself covered and warm; then I might hope to plan. But even to me, an Invisible Man, the rows of London houses stood latched, barred, and bolted impregnably.

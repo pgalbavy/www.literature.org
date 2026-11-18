@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Involves A Critical Position"
 weight: 31
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-31.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-31.html"
 ---
 
 'Who's that?' inquired Brittles, opening the door a little way, with the chain up, and peeping out, shading the candle with his hand.

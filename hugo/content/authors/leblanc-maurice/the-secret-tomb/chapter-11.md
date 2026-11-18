@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Will Of The Marquis De Beaugreval"
 weight: 11
-aliases:
-  - "/authors/leblanc-maurice/the-secret-tomb/chapter-11.html"
+url: "/authors/leblanc-maurice/the-secret-tomb/chapter-11.html"
 ---
 
 Tears of joy, tears which relieved her strained nerves and bathed her in an immense peacefulness. The five men were greatly disturbed, knowing neither what to do nor what to say.

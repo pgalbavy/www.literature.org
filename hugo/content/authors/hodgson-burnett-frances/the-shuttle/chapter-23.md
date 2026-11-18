@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Introducing G. Selden"
 weight: 23
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-23.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-23.html"
 ---
 
 A bird was perched upon a swaying branch of a slim young sapling near the fence-supported hedge which bounded the park, and Mount Dunstan had stopped to look at it and listen. A soft shower had fallen, and after its passing, the sun coming through the light clouds, there had broken forth again in the trees brief trills and calls and fluting of bird notes. The sward and ferns glittered fresh green under the raindrops; the young leaves on trees and hedge seemed visibly to uncurl, the uncovered earth looked richly dark and moist, and sent forth the fragrance from its deeps, which, rising to a man's nostrils, stirs and thrills him because it is the scent of life's self. The bird upon the sapling was a robin, the tiny round body perched upon his delicate legs, plump and bright plumaged for mating. He touched his warm red breast with his beak, fluffed out and shook his feathers, and, swelling his throat, poured forth his small, entranced song. It was a gay, brief, jaunty thing, but pure, joyous, gallant, liquid melody. There was dainty bravado in it, saucy demand and allurement. It was addressed to some invisible hearer of the tender sex, and wheresoever she might be hidden--whether in great branch or low thicket or hedge--there was hinted no doubt in her small wooer's note that she would hear it and in due time respond. Mount Dunstan, listening, even laughed at its confident music. The tiny thing uttering its Call of the World--jubilant in the surety of answer!

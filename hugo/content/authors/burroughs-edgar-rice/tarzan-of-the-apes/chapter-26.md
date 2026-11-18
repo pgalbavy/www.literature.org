@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - The Height of Civilisation"
 weight: 26
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-26.html"
+url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-26.html"
 ---
 
 Another month brought them to a little group of buildings at the mouth of a wide river, and there Tarzan saw many boats, and was filled with the timidity of the wild thing by the sight of many men.

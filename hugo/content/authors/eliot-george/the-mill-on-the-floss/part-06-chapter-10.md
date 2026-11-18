@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 10 - The Spell Seems Broken"
 weight: 49
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-06-chapter-10.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-06-chapter-10.html"
 ---
 
 The suite of rooms opening into each other at Park House looked duly brilliant with lights and flowers and the personal splendors of sixteen couples, with attendant parents and guardians. The focus of brilliancy was the long drawing-room, where the dancing went forward, under the inspiration of the grand piano; the library, into which it opened at one end, had the more sober illumination of maturity, with caps and cards; and at the other end the pretty sitting-room, with a conservatory attached, was left as an occasional cool retreat. Lucy, who had laid aside her black for the first time, and had her pretty slimness set off by an abundant dress of white crape, was the acknowledged queen of the occasion; for this was one of the Miss Guests' thoroughly condescending parties, including no member of any aristocracy higher than that of St. Ogg's, and stretching to the extreme limits of commercial and professional gentility.

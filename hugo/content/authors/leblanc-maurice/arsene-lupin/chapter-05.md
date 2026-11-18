@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Letter From Lupin"
 weight: 5
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin/chapter-05.html"
+url: "/authors/leblanc-maurice/arsene-lupin/chapter-05.html"
 ---
 
 The Duke stood for a while staring thoughtfully at the door through which Sonia had passed, a faint smile playing round his lips. He crossed the hall to the Chippendale bureau, took a cigarette from a box which stood on the ledge of it, beside the morocco case which held the pendant, lighted it, and went slowly out on to the terrace. He crossed it slowly, paused for a moment on the edge of it, and looked across the stretch of country with musing eyes, which saw nothing of its beauty. Then he turned to the right, went down a flight of steps to the lower terrace, crossed the lawn, and took a narrow path which led into the heart of a shrubbery of tall deodoras. In the middle of it he came to one of those old stone benches, moss-covered and weather-stained, which adorn the gardens of so many French chateaux. It faced a marble basin from which rose the slender column of a pattering fountain. The figure of a Cupid danced joyously on a tall pedestal to the right of the basin. The Duke sat down on the bench, and was still, with that rare stillness which only comes of nerves in perfect harmony, his brow knitted in careful thought. Now and again the frown cleared from his face, and his intent features relaxed into a faint smile, a smile of pleasant memory. Once he rose, walked round the fountains frowning, came back to the bench, and sat down again. The early September dusk was upon him when at last he rose and with quick steps took his way through the shrubbery, with the air of a man whose mind, for good or ill, was at last made up.

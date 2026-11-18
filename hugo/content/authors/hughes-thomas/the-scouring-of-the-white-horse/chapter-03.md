@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/hughes-thomas/the-scouring-of-the-white-horse/chapter-03.html"
+url: "/authors/hughes-thomas/the-scouring-of-the-white-horse/chapter-03.html"
 ---
 
 Nearly a thousand years ago, in the year of our Lord 871, the great battle of Ashdown was fought; but, in order to give you a true idea of its importance, I must begin my story some years earlier; that is to say, in the year of our Lord 866. In this year Æthelbert, king of the West Saxons, died, having ruled his kingdom for five years in peace, with the love of his subjects; and Æthelred, his next brother, who succeeded him, buried his body in Sherborne Minster. In this year Alfred, the younger brother, who afterwards succeeded Æthelred, and was called Alfred the Great, reached his seventeenth year. In the autumn a great army of pagan Danes came over to Britain, and landed in that part of the island which was then called East Anglia, but now Norfolk. These were not the first Danes who had come over to vex England, but none of them ever stayed so long, fought so many battles, or did so much harm (as we should say, speaking according to man’s judgment) as these.

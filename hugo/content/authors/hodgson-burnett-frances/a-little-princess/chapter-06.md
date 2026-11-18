@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Diamond-Mines"
 weight: 7
-aliases:
-  - "/authors/hodgson-burnett-frances/a-little-princess/chapter-06.html"
+url: "/authors/hodgson-burnett-frances/a-little-princess/chapter-06.html"
 ---
 
 Not very long after this a very exciting thing happened. Not only Sara, but the entire school, found it exciting, and made it the chief subject of conversation for weeks after it occurred. In one of his letters Captain Crewe told a most interesting story. A friend who had been at school with him when he was a boy had unexpectedly come to see him in India. He was the owner of a large tract of land upon which diamonds had been found, and he was engaged in developing the mines. If all went as was confidently expected, he would become possessed of such wealth as it made one dizzy to think of; and because he was fond of the friend of his school-days, he had given him an opportunity to share in this enormous fortune by becoming a partner in his scheme. This, at least, was what Sara gathered from his letters. It is true that any other business scheme, however magnificent, would have had but small attraction for her or for the school-room; but "diamond-mines" sounded so like the "Arabian Nights" that no one could be indifferent. Sara thought them enchanting, and painted pictures, for Ermengarde and Lottie, of labyrinthine passages in the bowels of the earth, where sparkling stones studded the walls and roofs and ceilings, and strange, dark men dug them out with heavy picks. Ermengarde delighted in the story, and Lottie insisted on its being retold to her every evening. Lavinia was very spiteful about it, and told Jessie that she didn't believe such things as diamond-mines existed.

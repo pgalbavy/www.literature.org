@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - A Chapter Of Hate"
 weight: 26
-aliases:
-  - "/authors/coolidge-dane/rimrock-jones/chapter-26.html"
+url: "/authors/coolidge-dane/rimrock-jones/chapter-26.html"
 ---
 
 It was a source of real regret to Mary Fortune that she could not keep on hating Rimrock Jones. In the long, weary months that she had been away from him she had almost dismissed him from her mind. Then she had met him in New York and the old resentment had flashed up into the white heat of sudden scorn. She despised him for all that she read of his life in that encounter face to face--the drinking, the gambling, the cheap, false amusements, and the painted woman at his side. And when he returned, after ignoring her letters and allowing his mining claim to lapse, and resumed his fault-finding complaints she had put him back in his place.

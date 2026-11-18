@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-02.html"
+url: "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-02.html"
 ---
 
 We were three minutes late in starting; it is well to be precise. A special correspondent who is not precise is a geometer who neglects to run out his calculations to the tenth decimal. This delay of three minutes made the German our traveling companion. I have an idea that this good man will furnish me with some copy, but it is only a presentiment.

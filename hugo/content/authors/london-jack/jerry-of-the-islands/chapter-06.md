@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/london-jack/jerry-of-the-islands/chapter-06.html"
+url: "/authors/london-jack/jerry-of-the-islands/chapter-06.html"
 ---
 
 At recognition of Skipper's voice, Jerry, floundering in the stiff and crisping sea that sprang up with the easement of the wind, yelped eagerly and yearningly, all his love for his new-found beloved eloquent in his throat. But quickly all sounds died away as the Arangi drifted from him. And then, in the loneliness of the dark, on the heaving breast of the sea that he recognized as one more of the eternal enemies, he began to whimper and cry plaintively like a lost child.

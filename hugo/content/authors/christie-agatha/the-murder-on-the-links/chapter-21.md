@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Hercule Poirot On The Case!"
 weight: 21
-aliases:
-  - "/authors/christie-agatha/the-murder-on-the-links/chapter-21.html"
+url: "/authors/christie-agatha/the-murder-on-the-links/chapter-21.html"
 ---
 
 In a measured voice, Poirot began his exposition.

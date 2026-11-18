@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Telegram"
 weight: 19
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/chapter-18.html"
+url: "/authors/christie-agatha/the-secret-adversary/chapter-18.html"
 ---
 
 *BAFFLED* for the moment, Tommy strolled into the restaurant, and ordered a meal of surpassing excellence. His four days’ imprisonment had taught him anew to value good food.

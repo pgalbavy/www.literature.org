@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 14
-aliases:
-  - "/authors/baum-l-frank/ozma-of-oz/chapter-13.html"
+url: "/authors/baum-l-frank/ozma-of-oz/chapter-13.html"
 ---
 
 In a moment the King returned to his throne and relighted his pipe, and the rest of the little band of adventurers settled themselves for another long wait. They were greatly disheartened by the failure of their girl Ruler, and the knowledge that she was now an ornament in the Nome King's palace--a dreadful, creepy place in spite of all its magnificence. Without their little leader they did not know what to do next, and each one, down to the trembling private of the army, began to fear he would soon be more ornamental than useful.

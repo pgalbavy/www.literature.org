@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Amada Returns To Isis"
 weight: 13
-aliases:
-  - "/authors/haggard-h-rider/the-ancient-allan/chapter-13.html"
+url: "/authors/haggard-h-rider/the-ancient-allan/chapter-13.html"
 ---
 
 We fought a very terrible fight that evening there by the banks of Nile. Our position was good, but we were outnumbered by four or five to one, and the Easterns and their mercenaries were mad at the death of the Satrap by my hand. Time upon time they came on furiously, charging up the slope like wild bulls. For the most part we relied upon our archers to drive them back, since our half-trained troops could scarcely hope to stand against the onset of veterans disciplined in war. So taking cover behind the rocks we rained arrows on them, shooting the horses in the chariots, and when these were down, pouring our shafts upon the footmen behind. Myself I took my great black bow and drew it thrice, and each time I saw a noble fall, for no mail could withstand the arrows which it sent, and of that art I was a master. None in Egypt could shoot so far or so straight as I did, save perhaps Peroa himself. I had no time to do more since always I must be moving up and down the line encouraging my men.

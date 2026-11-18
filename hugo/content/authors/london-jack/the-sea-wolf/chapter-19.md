@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-19.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-19.html"
 ---
 
 I came on deck to find the Ghost heading up close on the port tack and cutting in to windward of a familiar spritsail close-hauled on the same tack ahead of us. All hands were on deck, for they knew that something was to happen when Leach and Johnson were dragged aboard.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Golden Picnic"
 weight: 13
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-13.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-13.html"
 ---
 
 Anne, on her way to Orchard Slope, met Diana, bound for Green Gables, just where the mossy old log bridge spanned the brook below the Haunted Wood, and they sat down by the margin of the Dryad's Bubble, where tiny ferns were unrolling like curly-headed green pixy folk wakening up from a nap.

@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 4"
 weight: 12
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-02-chapter-04.html"
+url: "/authors/haggard-h-rider/cleopatra/book-02-chapter-04.html"
 ---
 
 OF THE WAYS OF CHARMION; AND OF THE CROWNING OF HARMACHIS AS THE KING OF LOVE

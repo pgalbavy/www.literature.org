@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - At Last!"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-17.html"
 ---
 
 Up to that time the fugitives, although steadily drifting down stream, seemed to keep directly in the way of the parties whom they were seeking to avoid; for, no matter where they headed, or at what point they aimed, they were sure to find some of the Iroquois waiting to receive them. It looked, indeed, as if the redmen were shrewd enough to make allowance for this fact, judging from the way the attempt turned out in each instance. It was the purpose of Lena-Wingo, in heading up stream, to break through this chain that seemed thrown around them, and there appeared no other way of doing it.

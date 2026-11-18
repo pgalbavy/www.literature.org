@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Secrets"
 weight: 6
-aliases:
-  - "/authors/alcott-louisa-may/jack-and-jill/chapter-05.html"
+url: "/authors/alcott-louisa-may/jack-and-jill/chapter-05.html"
 ---
 
 There were a great many clubs in Harmony Village, but as we intend to interest ourselves with the affairs of the young folks only, we need not dwell upon the intellectual amusements of the elders. In summer, the boys devoted themselves to baseball, the girls to boating, and all got rosy, stout, and strong, in these healthful exercises. In winter, the lads had their debating club, the lasses a dramatic ditto. At the former, astonishing bursts of oratory were heard; at the latter, everything was boldly attempted, from Romeo and Juliet to Mother Goose's immortal melodies. The two clubs frequently met and mingled their attractions in a really entertaining manner, for the speakers made good actors, and the young actresses were most appreciative listeners to the eloquence of each budding Demosthenes.

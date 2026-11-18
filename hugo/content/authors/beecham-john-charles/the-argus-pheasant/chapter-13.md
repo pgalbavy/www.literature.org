@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Fever Antidote"
 weight: 14
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-13.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-13.html"
 ---
 
 "You have found Bulungan a difficult province to govern, mynheer?" Peter Gross asked.

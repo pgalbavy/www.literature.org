@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/cooper-courtney-ryley/the-white-desert/chapter-24.html"
+url: "/authors/cooper-courtney-ryley/the-white-desert/chapter-24.html"
 ---
 
 Dead! Houston saw Medaine Robinette pass in the distance, and his eyes followed her until she had rounded the curve by the dead aspens,--the eyes of lost hope. For it was upon life that he had planned and dreamed; that the woman of the lonely cabin would stand by her promise made in a time of stress and right at least some of the wrongs which had been his burden. But now--

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/conrad-joseph/almayers-folly/chapter-01.html"
+url: "/authors/conrad-joseph/almayers-folly/chapter-01.html"
 ---
 
 "Kaspar! Makan!"

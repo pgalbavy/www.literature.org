@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/baum-l-frank/the-road-to-oz/chapter-07.html"
+url: "/authors/baum-l-frank/the-road-to-oz/chapter-07.html"
 ---
 
 They found the houses of the town all low and square and built of bricks, neatly whitewashed inside and out. The houses were not set in rows, forming regular streets, but placed here and there in a haphazard manner which made it puzzling for a stranger to find his way.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Temptation"
 weight: 4
-aliases:
-  - "/authors/collins-wilkie/the-new-magdalen/chapter-04.html"
+url: "/authors/collins-wilkie/the-new-magdalen/chapter-04.html"
 ---
 
 Some letters, tied together with a ribbon, attracted Mercy's attention first. The ink in which the addresses were written had faded with age. The letters, directed alternately to Colonel Roseberry and to the Honorable Mrs. Roseberry, contained a correspondence between the husband and wife at a time when the Colonel's military duties had obliged him to be absent from home. Mercy tied the letters up again, and passed on to the papers that lay next in order under her hand.

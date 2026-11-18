@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Sammy Craddock'S “Manny-Ensis.”"
 weight: 27
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-27.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-27.html"
 ---
 
 At least twice a week Jud Bates made a pilgrimage to Haviland Park. Having been enlightened to the extent of two or three chapters of “Robinson Crusoe,” Sammy Craddock was athirst for more. He regarded the adventures of the hero as valuable information from foreign shores, as information that might be used in political debates, and brought forth on state occasions to floor a presumptuous antagonist. Accordingly, he held out inducements to Jud such as the boy was not likely to think lightly of. A penny a night, and a good supper for himself and Nib, held solid attractions for Jud, and at this salary he found himself engaged in the character of what “Owd Sammy” called “a manny-ensis.”

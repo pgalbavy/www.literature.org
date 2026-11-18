@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Chamber Of Horrors"
 weight: 14
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-14.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-14.html"
 ---
 
 A BLACK-MANED lion moved through the jungle night. With majestic unconcern for all other created things he took his lordly way through the primeval forest. He was not hunting, for he made no efforts toward stealth, nor, on the other hand, did he utter any vocal sound. He moved swiftly, though sometimes stopping with uplifted nose to scent the air and to listen. And thus at last he came to a high wall, along the face of which he sniffed, until the wall was broken by a half-opened gateway, through which he passed into the enclosure.

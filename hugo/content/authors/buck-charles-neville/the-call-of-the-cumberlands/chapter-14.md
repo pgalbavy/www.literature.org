@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-14.html"
+url: "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-14.html"
 ---
 
 The first peep of daylight through the studio skylight found the mountain boy awake. Before the daylight came he had seen the stars through its panes. Lescott's servant, temporarily assigned to the studio, was still sleeping when Samson dressed and went out. As he put on his clothes, he followed his custom of strapping the pistol-holster under his left armpit outside his shirt. He did it with no particular thought and from force of habit. His steps carried him first into Washington Square, at this cheerless hour empty except for a shivering and huddled figure on a bench and a rattling milk-cart. The boy wandered aimlessly until, an hour later, he found himself on Bleecker Street, as that thoroughfare began to awaken and take up its day's activity. The smaller shops that lie in the shadow of the elevated trestle were opening their doors. Samson had been reflecting on the amused glances he had inspired yesterday and, when he came to a store with a tawdry window display of haberdashery and ready-made clothing, he decided to go in and investigate.

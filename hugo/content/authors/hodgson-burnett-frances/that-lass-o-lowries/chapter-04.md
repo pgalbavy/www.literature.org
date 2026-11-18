@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - “Love Me, Love My Dog”"
 weight: 4
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-04.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-04.html"
 ---
 
 Mr. Barholm had fallen into the habit of turning to Anice for it, when he required information concerning people and things. In her desultory pilgrimages, Anice saw all that he missed, and heard much that he was deaf to. The rough, hard-faced men and boisterous girls who passed to and from their work at the mine, drew her to the window whenever they made their appearance. She longed to know something definite of them--to get a little nearer to their unprepossessing life. Sometimes the men and women, passing, caught glimpses of her, and, asking each other who she was, decided upon her relationship to the family.

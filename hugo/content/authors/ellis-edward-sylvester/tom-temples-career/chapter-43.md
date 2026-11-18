@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43 - Circumstances Alter Cases"
 weight: 43
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-43.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-43.html"
 ---
 
 "*NATHAN,"* asked Mrs. Middleton, "have you ever heard anything of our old boarder, Tom Temple?"

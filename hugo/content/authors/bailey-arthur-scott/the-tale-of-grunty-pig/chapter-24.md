@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - A Pig In The Parlor"
 weight: 24
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-24.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-24.html"
 ---
 
 Grunty Pig had got out of his pen and out of the piggery, too. Ever since his talk with Moses Mouse the day before he had been hoping for a chance to escape. And shuffling across the farmyard somewhat heavily--for he was growing longer and taller and fatter every day--Grunty went straight to the woodshed door. It was open. And he walked through it. Then he clattered over the woodshed floor and peered into the kitchen. There was no one there.

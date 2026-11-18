@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - The Absolution"
 weight: 32
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-32.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-32.html"
 ---
 
 This is what had taken place: We have seen that it was not of his own free will, but, on the contrary, very reluctantly, that the monk attended the wounded man who had been recommended to him in so strange a manner. Perhaps he would have sought to escape by flight had he seen any possibility of doing so. He was restrained by the threats of the two gentlemen and by the presence of their attendants, who doubtless had received their instructions. And besides, he considered it most expedient, without exhibiting too much ill-will, to follow to the end his role as confessor.

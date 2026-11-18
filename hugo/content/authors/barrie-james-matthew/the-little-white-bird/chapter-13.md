@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Grand Tour Of The Gardens"
 weight: 13
-aliases:
-  - "/authors/barrie-james-matthew/the-little-white-bird/chapter-13.html"
+url: "/authors/barrie-james-matthew/the-little-white-bird/chapter-13.html"
 ---
 
 You must see for yourselves that it will be difficult to follow our adventures unless you are familiar with the Kensington Gardens, as they now became known to David. They are in London, where the King lives, and you go to them every day unless you are looking decidedly flushed, but no one has ever been in the whole of the Gardens, because it is so soon time to turn back. The reason it is soon time to turn back is that you sleep from twelve to one. If your mother was not so sure that you sleep from twelve to one, you could most likely see the whole of them.

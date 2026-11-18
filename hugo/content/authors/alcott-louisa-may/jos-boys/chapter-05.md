@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Vacation"
 weight: 5
-aliases:
-  - "/authors/alcott-louisa-may/jos-boys/chapter-05.html"
+url: "/authors/alcott-louisa-may/jos-boys/chapter-05.html"
 ---
 
 Everyone was glad of a holiday next morning, and all lingered over the breakfast-table, till Mrs Jo suddenly exclaimed:

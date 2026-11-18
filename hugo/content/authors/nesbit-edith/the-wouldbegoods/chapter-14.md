@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Albert's Uncle's Grandmother; Or, The Long-Lost"
 weight: 14
-aliases:
-  - "/authors/nesbit-edith/the-wouldbegoods/chapter-14.html"
+url: "/authors/nesbit-edith/the-wouldbegoods/chapter-14.html"
 ---
 
 The shadw of the termination now descended in sable thunder-clouds upon our devoted nobs. As Albert's uncle said, 'School now gaped for its prey'. In a very short space of time we should be wending our way back to Blackheath, and all the variegated delightfulness of the country would soon be only preserved in memory's faded flowers. (I don't care for that way of writing very much. It would be an awful swot to keep it up - looking out the words and all that.)

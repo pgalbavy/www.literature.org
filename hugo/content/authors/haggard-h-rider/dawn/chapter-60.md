@@ -1,8 +1,7 @@
 ---
 title: "Chapter 60"
 weight: 61
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-60.html"
+url: "/authors/haggard-h-rider/dawn/chapter-60.html"
 ---
 
 That same afternoon, Lady Bellamy ordered out the victoria with the fast trotting horse, and drove to the Abbey House. She found Philip pacing up and down the gravel in front of the grey old place, which had that morning added one more to the long list of human tragedies its walls had witnessed. His face was pale, and contorted by mental suffering, and, as soon as he recognized Lady Bellamy, he made an effort to escape. She stopped him.

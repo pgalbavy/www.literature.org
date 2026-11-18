@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 10"
 weight: 30
-aliases:
-  - "/authors/cather-willa/my-antonia/book-02-chapter-10.html"
+url: "/authors/cather-willa/my-antonia/book-02-chapter-10.html"
 ---
 
 IT WAS AT THE Vannis’ tent that Antonia was discovered. Hitherto she had been looked upon more as a ward of the Harlings than as one of the ‘hired girls.’ She had lived in their house and yard and garden; her thoughts never seemed to stray outside that little kingdom. But after the tent came to town she began to go about with Tiny and Lena and their friends. The Vannis often said that Antonia was the best dancer of them all. I sometimes heard murmurs in the crowd outside the pavilion that Mrs. Harling would soon have her hands full with that girl. The young men began to joke with each other about ‘the Harlings’ Tony’ as they did about ‘the Marshalls’ Anna’ or ‘the Gardeners’ Tiny.’

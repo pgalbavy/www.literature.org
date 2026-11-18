@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - The Shares Of Planchet And Company Rise Again To Par"
 weight: 30
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-30.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-30.html"
 ---
 
 During the passage, Monk only spoke to D'Artagnan in cases of urgent necessity. Thus, when the Frenchman hesitated to come and take his meals, poor meals, composed of salt fish, biscuit, and Hollands gin, Monk called him, saying, - "To table, monsieur, to table!"

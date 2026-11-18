@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 10"
 weight: 327
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-10.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-10.html"
 ---
 
 The French army melted away at the uniform rate of a mathematical progression; and that crossing of the Berezina about which so much has been written was only one intermediate stage in its destruction, and not at all the decisive episode of the campaign. If so much has been and still is written about the Berezina, on the French side this is only because at the broken bridge across that river the calamities their army had been previously enduring were suddenly concentrated at one moment into a tragic spectacle that remained in every memory, and on the Russian side merely because in Petersburg- far from the seat of war- a plan (again one of Pfuel's) had been devised to catch Napoleon in a strategic trap at the Berezina River. Everyone assured himself that all would happen according to plan, and therefore insisted that it was just the crossing of the Berezina that destroyed the French army. In reality the results of the crossing were much less disastrous to the French- in guns and men lost- than Krasnoe had been, as the figures show.

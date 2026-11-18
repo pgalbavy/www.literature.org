@@ -1,8 +1,7 @@
 ---
 title: "Chapter 83 - The Hand Of God"
 weight: 83
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-83.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-83.html"
 ---
 
 Caderousse continued to call piteously, "Help, reverend sir, help!"

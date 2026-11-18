@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Timothy Turtle's Complaint"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-18.html"
 ---
 
 IT happened that the Bobolink family moved to Cedar Swamp just when Timothy Turtle had arrived there for a short outing. It was Mr. Turtle's custom to leave his home in Black Creek now and than and spend a few days in some other neighborhood. He said that after living in the creek as many years as he had it did him good to get a change once in a while. About every forty years he paid a visit to the Beaver Pond on the other side of Blue Mountain. But he visited Cedar Swamp oftener than that, because it was nearer his home.

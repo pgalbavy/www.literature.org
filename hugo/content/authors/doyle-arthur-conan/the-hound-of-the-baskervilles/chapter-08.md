@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - First Report of Dr. Watson"
 weight: 8
-aliases:
-  - "/authors/doyle-arthur-conan/the-hound-of-the-baskervilles/chapter-08.html"
+url: "/authors/doyle-arthur-conan/the-hound-of-the-baskervilles/chapter-08.html"
 ---
 
 From this point onward I will follow the course of events by transcribing my own letters to Mr. Sherlock Holmes which lie before me on the table. One page is missing, but otherwise they are exactly as written and show my feelings and suspicions of the moment more accurately than my memory, clear as it is upon these tragic events, can possibly do. Baskerville Hall, October 13th.

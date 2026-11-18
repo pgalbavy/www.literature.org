@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - A Singular Escape"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-25.html"
 ---
 
 The shot from the treacherous Indian upon the shore was the first intelligent warning Tim had that he was discovered by them. The kind Providence who had so often turned aside the dangerous missile still protected him, and when he so suddenly dropped to the bottom of his canoe, it was with a bullet-hole through his coat but not through his body.

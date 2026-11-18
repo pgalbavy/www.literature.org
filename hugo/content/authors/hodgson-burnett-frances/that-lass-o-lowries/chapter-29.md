@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Lying In Wait"
 weight: 29
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-29.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-29.html"
 ---
 
 Liz crept close to the window and looked down the road. At this time of the year it was not often that the sun set in as fair a sky. In October, Riggan generally shut its doors against damps and mist, and turned toward its fire when it had one. And yet Liz had hardly seen that the sun had shone at all to-day. Still, seeing her face a passer-by would not have fancied that she was chilled. There was a flush upon her cheeks, and her eyes were more than usually bright. She was watching for Joan with a restless eagerness.

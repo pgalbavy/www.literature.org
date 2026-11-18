@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Kitten"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-03.html"
 ---
 
 MASTER MEADOW MOUSE had rambled about the meadow without paying much heed to safety. Although he still seemed to listen politely whenever his mother gave him a lecture on dangerous birds or beasts, half the time he didn't know what she was saying. He had decided that her fears were foolish. He was sure that nothing could harm him.

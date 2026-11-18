@@ -1,8 +1,7 @@
 ---
 title: "Chapter 46 - Under The Umbrella"
 weight: 46
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-46.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-46.html"
 ---
 
 While Laurie and Amy were taking conjugal strolls over velvet carpets, as they set their house in order, and planned a blissful future, Mr. Bhaer and Jo were enjoying promenades of a different sort, along muddy roads and sodden fields.

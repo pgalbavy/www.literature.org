@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/collins-wilkie/my-ladys-money/chapter-10.html"
+url: "/authors/collins-wilkie/my-ladys-money/chapter-10.html"
 ---
 
 RETURNING to his office, Mr. Troy discovered, among the correspondence that was waiting for him, a letter from the very person whose welfare was still the uppermost subject in his mind. Isabel Miller wrote in these terms:

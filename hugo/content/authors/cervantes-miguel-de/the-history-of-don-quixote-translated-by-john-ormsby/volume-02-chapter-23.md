@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 23 - Of The Wonderful Things The Incomparable Don Quixote Said He Saw In The Profound Cave Of Montesinos, The Impossibility And Magnitude Of Which Cause This Adventure To Be Deemed Apocryphal"
 weight: 79
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-23.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-23.html"
 ---
 
 It was about four in the afternoon when the sun, veiled in clouds, with subdued light and tempered beams, enabled Don Quixote to relate, without heat or inconvenience, what he had seen in the cave of Montesinos to his two illustrious hearers, and he began as follows:

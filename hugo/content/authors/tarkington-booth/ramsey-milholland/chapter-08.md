@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/tarkington-booth/ramsey-milholland/chapter-08.html"
+url: "/authors/tarkington-booth/ramsey-milholland/chapter-08.html"
 ---
 
 Vacation, in spite of increased leisure, may bring inconvenience to people in Ramsey's strange but not uncommon condition. At home his constant air was that of a badgered captive plaintively silent under injustice; and he found it difficult to reply calmly when asked where he was going—an inquiry addressed to him, he asserted, every time he touched his cap, even to hang it up!

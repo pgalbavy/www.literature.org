@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-15.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-15.html"
 ---
 
 There was a deal of cursing and groaning as the men at the bottom of the ladder crawled to their feet.

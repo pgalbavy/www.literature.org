@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - A Crowded House"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-18.html"
 ---
 
 Old dog Spot never once guessed that there was a back door to the Woodchuck family's home in the pasture. He had chased Mrs. Woodchuck into her house. He had likewise hunted her son Billy into the same front door through which his mother had scrambled only a short time before.

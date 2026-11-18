@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/chambers-robert-w/blue-bird-weather/chapter-02.html"
+url: "/authors/chambers-robert-w/blue-bird-weather/chapter-02.html"
 ---
 
 Marche, buried under a mountain of bed clothes, dreamed that people were rapping noisily on his door, and grinned in his dream, meaning to let them rap until they tired of it. Suddenly a voice sounded through his defiant slumbers, clear and charming as a golden ray parting thick clouds. The next moment he found himself awake, bolt upright in the icy dusk of his room, listening.

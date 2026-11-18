@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 1"
 weight: 22
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-04-chapter-01.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-04-chapter-01.html"
 ---
 
 He looked carefully and suspiciously at the unexpected visitor.

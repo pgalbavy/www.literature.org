@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Expiation"
 weight: 9
-aliases:
-  - "/authors/tarkington-booth/his-own-people/chapter-09.html"
+url: "/authors/tarkington-booth/his-own-people/chapter-09.html"
 ---
 
 A multitudinous clangor of bells and a dozen neighboring chimes rang noon; then the rectangular oblongs of hot sunlight that fell from the windows upon the carpet of Mellin's room began imperceptibly to shift their angles and move eastward. From the stone pavement of the street below came the sound of horses pawing and the voices of waiting cabmen; then bells again, and more bells; clamoring the slow and cruel afternoon into the past. But all was silent in Mellin's room, save when, from time to time, a long, shuddering sigh came from the bed.

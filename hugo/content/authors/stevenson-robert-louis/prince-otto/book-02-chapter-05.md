@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 5 - Gondremark Is In My Lady’s Chamber"
 weight: 11
-aliases:
-  - "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-05.html"
+url: "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-05.html"
 ---
 
 The Countess von Rosen spoke the truth. The great Prime Minister of Grünewald was already closeted with Seraphina. The toilet was over; and the Princess, tastefully arrayed, sat face to face with a tall mirror. Sir John’s description was unkindly true, true in terms and yet a libel, a misogynistic masterpiece. Her forehead was perhaps too high, but it became her; her figure somewhat stooped, but every detail was formed and finished like a gem; her hand, her foot, her ear, the set of her comely head, were all dainty and accordant; if she was not beautiful, she was vivid, changeful, coloured, and pretty with a thousand various prettinesses; and her eyes, if they indeed rolled too consciously, yet rolled to purpose. They were her most attractive feature, yet they continually bore eloquent false witness to her thoughts; for while she herself, in the depths of her immature, unsoftened heart, was given altogether to manlike ambition and the desire of power, the eyes were by turns bold, inviting, fiery, melting, and artful, like the eyes of a rapacious siren. And artful, in a sense, she was. Chafing that she was not a man, and could not shine by action, she had conceived a woman’s part, of answerable domination; she sought to subjugate for by-ends, to rain influence and be fancy free; and, while she loved not man, loved to see man obey her. It is a common girl’s ambition. Such was perhaps that lady of the glove, who sent her lover to the lions. But the snare is laid alike for male and female, and the world most artfully contrived.

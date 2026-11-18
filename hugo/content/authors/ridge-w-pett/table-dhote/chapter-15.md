@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - My Brother Edward"
 weight: 15
-aliases:
-  - "/authors/ridge-w-pett/table-dhote/chapter-15.html"
+url: "/authors/ridge-w-pett/table-dhote/chapter-15.html"
 ---
 
 THE case of my brother Edward is typical of many, and I set the facts down here, partly as reminder to myself, mainly for the information of the public. I said once, when in the company of some other bright spirits, that the pupils of yesterday are the teachers of to-morrow, by which remark I meant to convey that we learn in our youth, and in our middle age become, in turn, the instructors. Poor Edward had the same advantages that came to me in school days, the very same advantages. Our mother consulted us in turn; I, the elder, decided, without hesitation, to go into the City; Edward, a year later, suggested that he should go into an engineering place at Wandsworth, on the other side of the river.

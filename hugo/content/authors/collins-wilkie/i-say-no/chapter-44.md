@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44 - Competing"
 weight: 44
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-44.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-44.html"
 ---
 
 Time at Monksmoor had advanced to the half hour before dinner, on Saturday evening.

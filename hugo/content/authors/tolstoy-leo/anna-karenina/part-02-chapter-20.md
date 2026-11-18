@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 20"
 weight: 54
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-20.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-20.html"
 ---
 
 Vronsky was staying in a roomy, clean, Finnish hut, divided into two by a partition. Petritsky lived with him in camp too. Petritsky was asleep when Vronsky and Yashvin came into the hut.

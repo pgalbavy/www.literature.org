@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The New Guide"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-24.html"
 ---
 
 Minturn looked in the face of his sister a moment, as if he would read her very thoughts. Then he asked in a whisper that not even Ned Clinton overheard:

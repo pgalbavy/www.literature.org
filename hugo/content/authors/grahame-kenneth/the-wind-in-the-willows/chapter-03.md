@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Wild Wood"
 weight: 3
-aliases:
-  - "/authors/grahame-kenneth/the-wind-in-the-willows/chapter-03.html"
+url: "/authors/grahame-kenneth/the-wind-in-the-willows/chapter-03.html"
 ---
 
 The Mole had long wanted to make the acquaintance of the Badger. He seemed, by all accounts, to be such an important personage and, though rarely visible, to make his unseen influence felt by everybody about the place. But whenever the Mole mentioned his wish to the Water Rat, he always found himself put off. "It's all right," the Rat would say. "Badger'll turn up some day or other--he's always turning up--and then I'll introduce you. The best of fellows! But you must not only take him as you find him, but when you find him."

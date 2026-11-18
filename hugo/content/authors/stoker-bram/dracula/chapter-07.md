@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/stoker-bram/dracula/chapter-07.html"
+url: "/authors/stoker-bram/dracula/chapter-07.html"
 ---
 
 CUTTING FROM "THE DAILYGRAPH," 8 AUGUST

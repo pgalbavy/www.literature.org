@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - I Go Walking And Meet Enemies"
 weight: 21
-aliases:
-  - "/authors/buck-charles-neville/the-portal-of-dreams/chapter-21.html"
+url: "/authors/buck-charles-neville/the-portal-of-dreams/chapter-21.html"
 ---
 
 He and I had labored across those twenty miles in a wagon by daylight. I could guess what it meant at night and in the saddle--and she had done it! She had come alone, except for such chance escort as she could recruit at the mining town, and now as she walked in the moon-bath of the clearing, there was not a man of them all who carried himself with so free and unwearied a stride. She was dressed in a short riding-skirt and a heavy sweater. Her shoulders swung back as free as an Indian's, and I knew at that moment, and without doubt, that this was the elusive lady of Europe who had walked out of Shepheard's Hotel the night when I sat on the terrace. She was no fragile ornament of drawing-rooms; she was the woman who strode like a goddess and for whom timidities had no existence. She was not then, after all, I exultantly reflected, the hot-house orchid; a mere whisper and fragrance on waxy petals. She was the splendid flower I had conceived, fit for God's good open skies. And that thought sent a rich bugle note of triumph ringing through the chaos of my misery.

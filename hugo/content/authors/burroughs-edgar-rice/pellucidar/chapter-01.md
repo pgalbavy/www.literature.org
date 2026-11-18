@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Lost On Pellucidar"
 weight: 1
-aliases:
-  - "/authors/burroughs-edgar-rice/pellucidar/chapter-01.html"
+url: "/authors/burroughs-edgar-rice/pellucidar/chapter-01.html"
 ---
 
 The Arabs, of whom I wrote you at the end of my last letter (Innes began), and whom I thought to be enemies intent only upon murdering me, proved to be exceedingly friendly--they were searching for the very band of marauders that had threatened my existence. The huge rhamphorhynchus-like reptile that I had brought back with me from the inner world--the ugly Mahar that Hooja the Sly One had substituted for my dear Dian at the moment of my departure--filled them with wonder and with awe.

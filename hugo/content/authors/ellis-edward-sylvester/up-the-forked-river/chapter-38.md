@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38"
 weight: 38
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-38.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-38.html"
 ---
 
 The notice was in the nick of time. The gun on the yacht was loaded and trained again, and, had it been fired, would have played the mischief on the Atlamalcan boat.

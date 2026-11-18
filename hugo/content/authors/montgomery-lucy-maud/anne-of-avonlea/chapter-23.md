@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Miss Lavendar's Romance"
 weight: 23
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-23.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-23.html"
 ---
 
 "I think I'll take a walk through to Echo Lodge this evening," said Anne, one Friday afternoon in December.

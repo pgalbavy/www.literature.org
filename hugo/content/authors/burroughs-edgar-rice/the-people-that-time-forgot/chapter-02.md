@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/burroughs-edgar-rice/the-people-that-time-forgot/chapter-02.html"
+url: "/authors/burroughs-edgar-rice/the-people-that-time-forgot/chapter-02.html"
 ---
 
 I'll never forget my first impressions of Caspak as I circled in, high over the surrounding cliffs. From the plane I looked down through a mist upon the blurred landscape beneath me. The hot, humid atmosphere of Caspak condenses as it is fanned by the cold Antarctic air-currents which sweep across the crater's top, sending a tenuous ribbon of vapor far out across the Pacific. Through this the picture gave one the suggestion of a colossal impressionistic canvas in greens and browns and scarlets and yellows surrounding the deep blue of the inland sea--just blobs of color taking form through the tumbling mist.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Fifteen Years After"
 weight: 15
-aliases:
-  - "/authors/haggard-h-rider/allans-wife/chapter-14.html"
+url: "/authors/haggard-h-rider/allans-wife/chapter-14.html"
 ---
 
 Both Stella and Tota were too weary to be moved, so we camped that night in the baboons’ home, but were troubled by no baboons. Stella would not sleep in the cave; she said the place terrified her, so I made her up a kind of bed under a thorn-tree. As this rock-bound valley was one of the hottest places I ever was in, I thought that this would not matter; but when at sunrise on the following morning I saw a veil of miasmatic mist hanging over the surface of the ground, I changed my opinion. However, neither Stella nor Tota seemed the worse, so as soon as was practical we started homewards. I had already on the previous day sent some of the men back to the kraals to fetch a ladder, and when we reached the cliff we found them waiting for us beneath. With the help of the ladder the descent was easy. Stella simply got out of her rough litter at the top of the cliff, for we found it necessary to carry her, climbed down the ladder, and got into it again at the bottom.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - In Which Kings And Commoners Discuss Love"
 weight: 24
-aliases:
-  - "/authors/buck-charles-neville/the-lighted-match/chapter-24.html"
+url: "/authors/buck-charles-neville/the-lighted-match/chapter-24.html"
 ---
 
 In the gardens of the hotel, the paths lay ankle-deep in scattered confetti. Already the scores of lights were going out and those that remained shone on the wreckage of an entertainment ended.

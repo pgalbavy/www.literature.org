@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-17.html"
+url: "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-17.html"
 ---
 
 LADY BLAKE had started evening receptions, and once a fortnight she was at home. She had some idea of founding a salon, but her ignorance of the necessary steps was appalling. She thought it would have something to do with school-books and asking questions on abstruse subjects.

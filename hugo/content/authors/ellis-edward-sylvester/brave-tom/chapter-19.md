@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/brave-tom/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/brave-tom/chapter-19.html"
 ---
 
 It is not well to dwell upon the second great affliction of Tom Gordon. He was older now than when his mother died, and though bowed to the earth by the loss of his cherished playmate, he was too sensible to brood over his grief. Short as had been his stay at the home of Farmer Pitcairn, he had made friends, and they were abundant with the best of counsel.

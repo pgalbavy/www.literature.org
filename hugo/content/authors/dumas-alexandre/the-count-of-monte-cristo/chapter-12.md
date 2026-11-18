@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Father And Son"
 weight: 12
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-12.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-12.html"
 ---
 
 M. Noirtier - for it was, indeed, he who entered - looked after the servant until the door was closed, and then, fearing, no doubt, that he might be overheard in the ante-chamber, he opened the door again, nor was the precaution useless, as appeared from the rapid retreat of Germain, who proved that he was not exempt from the sin which ruined our first parents. M. Noirtier then took the trouble to close and bolt the ante-chamber door, then that of the bed-chamber, and then extended his hand to Villefort, who had followed all his motions with surprise which he could not conceal.

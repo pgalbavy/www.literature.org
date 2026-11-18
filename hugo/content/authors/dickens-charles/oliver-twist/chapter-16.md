@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Relates What Became Of Oliver Twist, After He Had Been Claimed By Nancy"
 weight: 16
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-16.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-16.html"
 ---
 
 The narrow streets and courts, at length, terminated in a large open space; scattered about which, were pens for beasts, and other indications of a cattle-market. Sikes slackened his pace when they reached this spot: the girl being quite unable to support any longer, the rapid rate at which they had hitherto walked. Turning to Oliver, he roughly commanded him to take hold of Nancy's hand.

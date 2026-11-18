@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - The Unexpected Anecdote Of The Lion"
 weight: 29
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-29.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-29.html"
 ---
 
 They rode on to Cosham and lunched lightly but expensively there. Jessie went out and posted her letter to her school friend. Then the green height of Portsdown Hill tempted them, and leaving their machines in the village they clambered up the slope to the silent red-brick fort that crowned it. Thence they had a view of Portsmouth and its cluster of sister towns, the crowded narrows of the harbour, the Solent and the Isle of Wight like a blue cloud through the hot haze. Jessie by some miracle had become a skirted woman in the Cosham inn. Mr. Hoopdriver lounged gracefully on the turf, smoked a Red Herring cigarette, and lazily regarded the fortified towns that spread like a map away there, the inner line of defence like toy fortifications, a mile off perhaps ; and beyond that a few little fields and then the beginnings of Landport suburb and the smoky cluster of the multitudinous houses. To the right at the head of the harbour shallows the town of Porchester rose among the trees. Mr. Hoopdriver's anxiety receded to some remote corner of his brain and that florid half-voluntary imagination of his shared the stage with the image of Jessie. He began to speculate on the impression he was creating. He took stock of his suit in a more optimistic spirit, and reviewed, with some complacency, his actions for the last four and twenty hours. Then he was dashed at the thought of her infinite perfections.

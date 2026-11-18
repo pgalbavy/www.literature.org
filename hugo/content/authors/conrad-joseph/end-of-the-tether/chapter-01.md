@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/conrad-joseph/end-of-the-tether/chapter-01.html"
+url: "/authors/conrad-joseph/end-of-the-tether/chapter-01.html"
 ---
 
 For a long time after the course of the steamer *Sofala* had been altered for the land, the low swampy coast had retained its appearance of a mere smudge of darkness beyond a belt of glitter. The sunrays seemed to fall violently upon the calm sea—seemed to shatter themselves upon an adamantine surface into sparkling dust, into a dazzling vapor of light that blinded the eye and wearied the brain with its unsteady brightness.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Joke On Jasper Jay"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-06.html"
 ---
 
 WITH a loud squall of glee, Jasper Jay made off in the direction of the farm buildings. Now that he was going to have company, later, he felt much better. And he resolved to keep well hidden in the top of the great oak near Farmer Green's house, until the time came for Mr. Crow to arrive--and his friends, too, if he brought them.

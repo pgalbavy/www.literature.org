@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - First Weeks On The Island"
 weight: 4
-aliases:
-  - "/authors/defoe-daniel/robinson-crusoe/chapter-04.html"
+url: "/authors/defoe-daniel/robinson-crusoe/chapter-04.html"
 ---
 
 WHEN I waked it was broad day, the weather clear, and the storm abated, so that the sea did not rage and swell as before. But that which surprised me most was, that the ship was lifted off in the night from the sand where she lay by the swelling of the tide, and was driven up almost as far as the rock which I at first mentioned, where I had been so bruised by the wave dashing me against it. This being within about a mile from the shore where I was, and the ship seeming to stand upright still, I wished myself on board, that at least I might save some necessary things for my use.

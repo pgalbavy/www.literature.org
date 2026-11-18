@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Peter Gross Is Named Resident"
 weight: 4
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-03.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-03.html"
 ---
 
 "Sailor, the penalty for threatening the life of any citizen is penal servitude on the state's coffee-plantations."

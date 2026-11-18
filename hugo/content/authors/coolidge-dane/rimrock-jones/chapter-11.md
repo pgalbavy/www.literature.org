@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Little Trouble"
 weight: 11
-aliases:
-  - "/authors/coolidge-dane/rimrock-jones/chapter-11.html"
+url: "/authors/coolidge-dane/rimrock-jones/chapter-11.html"
 ---
 
 Rimrock came back to Gunsight in charge of a deputy sheriff and with the angry glow still in his eyes. The inquest was over and he was held for murder, but he refused to retain a lawyer.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Wild Of The Wild"
 weight: 11
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-11.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-11.html"
 ---
 
 Colonel Hallibut rode the lone trail, his hounds at his heels. A spent moon draggled across a spiteful, crumpled sky, low down above the fringe of ravished forest. The wind had died, and the night was still, except for the calls of the forest things that voice their woes and joys at night. There were the low “whoo-hoos” of the owls, the “perru-perrs” of the night-hawks, and away far down toward the westward came, now and again, a fluted call dying in a wail that bespoke the lynx’s unsuccessful stalking. Deeper down in the forest a stray timber-wolf called hopelessly to a wandering pack. Anon the call was answered faintly, but clearly, far above; then a new note came into the strayer’s voice, and the yelp was sharper, clearer than before.

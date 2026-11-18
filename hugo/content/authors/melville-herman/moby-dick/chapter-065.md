@@ -1,8 +1,7 @@
 ---
 title: "Chapter 65 - The Whale as a Dish"
 weight: 65
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-065.html"
+url: "/authors/melville-herman/moby-dick/chapter-065.html"
 ---
 
 That mortal man should feed upon the creature that feeds his lamp, and, like Stubb, eat him by his own light, as you may say; this seems so outlandish a thing that one must needs go a little into the history and philosophy of it.

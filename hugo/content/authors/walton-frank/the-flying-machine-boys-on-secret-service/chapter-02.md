@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Wobbling Aeroplane"
 weight: 2
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-02.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-02.html"
 ---
 
 The boys stepped back from the bear as the men came up. It was growing dusk now, and as the men drew nearer their faces were seen only by the dancing flames of the fire. They were not prepossessing faces, and the boys wondered if it was the illumination which produced the shifty and suspicious glances they caught.

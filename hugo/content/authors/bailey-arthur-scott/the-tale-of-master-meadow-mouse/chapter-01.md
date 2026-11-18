@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Fat Little Fellow"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-01.html"
 ---
 
 MASTER MEADOW MOUSE was pudgy. His legs were so short and his tail was so short and his ears were so short that he looked even fatter than he really was. And goodness knows he was plump enough--especially toward fall when the corn was ripe.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/baum-l-frank/tik-tok-of-oz/chapter-03.html"
+url: "/authors/baum-l-frank/tik-tok-of-oz/chapter-03.html"
 ---
 
 Princess Ozma was all unaware that the Army of Oogaboo, led by their ambitious Queen, was determined to conquer her Kingdom. The beautiful girl Ruler of Oz was busy with the welfare of her subjects and had no time to think of Ann Soforth and her disloyal plans. But there was one who constantly guarded the peace and happiness of the Land of Oz and this was the Official Sorceress of the Kingdom, Glinda the Good.

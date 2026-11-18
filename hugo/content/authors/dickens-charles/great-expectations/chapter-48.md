@@ -1,8 +1,7 @@
 ---
 title: "Chapter 48"
 weight: 48
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-48.html"
+url: "/authors/dickens-charles/great-expectations/chapter-48.html"
 ---
 
 THE second of the two meetings referred to in the last chapter, occurred about a week after the first. I had again left my boat at the wharf below Bridge; the time was an hour earlier in the after- noon; and, undecided where to dine, I had strolled up into Cheap- side, and was strolling along it, surely the most unsettled person in all rhe busy concourse, when a large hand was laid upon my shoulder, by some one overtaking me. It was Mr Jaggers's hand, and he passed it through my arm.

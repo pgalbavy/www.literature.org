@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Death Of The Red Fox"
 weight: 18
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-17.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-17.html"
 ---
 
 The next day Mr. Henderland found for me a man who had a boat of his own and was to cross the Linnhe Loch that afternoon into Appin, fishing. Him he prevailed on to take me, for he was one of his flock; and in this way I saved a long day’s travel and the price of the two public ferries I must otherwise have passed.

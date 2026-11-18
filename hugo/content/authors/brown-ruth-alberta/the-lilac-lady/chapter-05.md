@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - An Unexpected Invitation"
 weight: 5
-aliases:
-  - "/authors/brown-ruth-alberta/the-lilac-lady/chapter-05.html"
+url: "/authors/brown-ruth-alberta/the-lilac-lady/chapter-05.html"
 ---
 
 Having a naturally light-hearted, merry disposition, Peace did not find it hard work to "smile and talk," but it was hard, very hard, to restrain her generous impulses to give away everything she possessed to those less fortunate than herself, and it soon became a familiar sight to see her fly excitedly into the house straight to the study where the busy President spent many hours each day, exclaiming breathlessly as she ran, "Oh, grandpa, there is a little beggar at the door in perfect rags and tatters! Just come and look if she doesn't need some clothes. And she is so cold and pinched up with being empty. Gussie has fed her, but can't I give her some things to wear? I've more than I need, truly!"

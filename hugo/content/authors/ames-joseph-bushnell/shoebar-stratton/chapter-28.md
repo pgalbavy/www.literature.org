@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Forebodings"
 weight: 28
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-28.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-28.html"
 ---
 
 Almost at once they struck a fresh trail, made by a number of horsemen riding in a bunch, which led diagonally across middle pasture. It was easy to follow, and Hardenberg pushed his men hard to make up for delays which were likely to come later on. For a time Buck rode beside the sheriff, discussing their plans and explaining the lay of the land. Then he fell back a little to chat with Jessup.

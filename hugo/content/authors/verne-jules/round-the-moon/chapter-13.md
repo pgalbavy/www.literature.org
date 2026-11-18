@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/verne-jules/round-the-moon/chapter-13.html"
+url: "/authors/verne-jules/round-the-moon/chapter-13.html"
 ---
 
 At half-past two in the morning, the projectile was over the thirteenth lunar parallel and at the effective distance of five hundred miles, reduced by the glasses to five. It still seemed impossible, however, that it could ever touch any part of the disc. Its motive speed, comparatively so moderate, was inexplicable to President Barbicane. At that distance from the moon it must have been considerable, to enable it to bear up against her attraction. Here was a phenomenon the cause of which escaped them again. Besides, time failed them to investigate the cause. All lunar relief was defiling under the eyes of the travelers, and they would not lose a single detail.

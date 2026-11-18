@@ -1,8 +1,7 @@
 ---
 title: "Chapter 84 - Beauchamp"
 weight: 84
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-84.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-84.html"
 ---
 
 The daring attempt to rob the count was the topic of conversation throughout Paris for the next fortnight. The dying man had signed a deposition declaring Benedetto to be the assassin. The police had orders to make the strictest search for the murderer. Caderousse's knife, dark lantern, bunch of keys, and clothing, excepting the waistcoat, which could not be found, were deposited at the registry; the corpse was conveyed to the morgue. The count told every one that this adventure had happened during his absence at Auteuil, and that he only knew what was related by the Abbe Busoni, who that evening, by mere chance, had requested to pass the night in his house, to examine some valuable books in his library. Bertuccio alone turned pale whenever Benedetto's name was mentioned in his presence, but there was no reason why any one should notice his doing so. Villefort, being called on to prove the crime, was preparing his brief with the same ardor that he was accustomed to exercise when required to speak in criminal cases.

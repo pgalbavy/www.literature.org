@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 1 - The Shadow Of A Fear"
 weight: 17
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-01.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-01.html"
 ---
 
 For several minutes Lady Ruth said nothing. She was leaning back in the farthest corner of her chair, her head resting slightly upon her fingers, her eyes studying with a curious intentness the outline of Wingrave's pale, hard face. He himself, either unconscious of, or indifferent to her close scrutiny, had simply the air of a man possessed of an inexhaustible fund of patience.

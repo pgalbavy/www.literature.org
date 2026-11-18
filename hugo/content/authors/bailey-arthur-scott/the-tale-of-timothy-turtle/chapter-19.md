@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Careful Mr. Frog"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-19.html"
 ---
 
 Somebody had knocked. And with a wide smile upon his face Mr. Ferdinand Frog, the tailor, went to his door and peeped out.

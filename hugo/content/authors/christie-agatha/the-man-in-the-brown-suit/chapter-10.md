@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-10.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-10.html"
 ---
 
 I was violently excited. I was sure that I had hit on the right trail at last. One thing was clear, I must not move out of the cabin. The asafœtida had got to be borne. I examined my facts again.

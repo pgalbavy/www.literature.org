@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-09.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-09.html"
 ---
 
 Through the open country Bibbs was borne flying between brown fields and sun-flecked groves of gray trees, to breathe the rushing, clean air beneath a glorious sky—that sky so despised in the city, and so maltreated there, that from early October to mid-May it was impossible for men to remember that blue is the rightful color overhead.

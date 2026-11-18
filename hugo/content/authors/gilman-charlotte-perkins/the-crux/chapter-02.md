@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Bainville Effects"
 weight: 3
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-crux/chapter-02.html"
+url: "/authors/gilman-charlotte-perkins/the-crux/chapter-02.html"
 ---
 
 At the two front windows of their rather crowded little parlor sat Miss Rebecca and Miss Josie Foote, Miss Sallie being out on a foraging expedition--marketing, as it were, among their neighbors to collect fresh food for thought.

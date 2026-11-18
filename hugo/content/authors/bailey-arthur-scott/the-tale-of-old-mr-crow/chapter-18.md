@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - An Unlucky Number"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-18.html"
 ---
 
 As soon as old Mr. Crow pushed open the door of Mr. Frog's tailor's shop, Mr. Frog jumped up quickly. He had been sitting cross-legged upon a table, sewing. And when he leaped off the table he sprang so high that his head struck the ceiling.

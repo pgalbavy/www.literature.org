@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 6 - Chiefs And Tapus"
 weight: 6
-aliases:
-  - "/authors/stevenson-robert-louis/in-the-south-seas/part-01-chapter-06.html"
+url: "/authors/stevenson-robert-louis/in-the-south-seas/part-01-chapter-06.html"
 ---
 
 We used to admire exceedingly the bland and gallant manners of the chief called Taipi-Kikino. An elegant guest at table, skilled in the use of knife and fork, a brave figure when he shouldered a gun and started for the woods after wild chickens, always serviceable, always ingratiating and gay, I would sometimes wonder where he found his cheerfulness. He had enough to sober him, I thought, in his official budget. His expenses—for he was always seen attired in virgin white—must have by far exceeded his income of six dollars in the year, or say two shillings a month. And he was himself a man of no substance; his house the poorest in the village. It was currently supposed that his elder brother, Kauanui, must have helped him out. But how comes it that the elder brother should succeed to the family estate, and be a wealthy commoner, and the younger be a poor man, and yet rule as chief in Anaho? That the one should be wealthy, and the other almost indigent is probably to be explained by some adoption; for comparatively few children are brought up in the house or succeed to the estates of their natural begetters. That the one should be chief instead of the other must be explained (in a very Irish fashion) on the ground that neither of them is a chief at all.

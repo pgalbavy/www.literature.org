@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Morality Undermined By Sexual Notions Of The Importance Of A Good Reputation"
 weight: 9
-aliases:
-  - "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/chapter-08.html"
+url: "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/chapter-08.html"
 ---
 
 It has long since occurred to me, that advice respecting behaviour, and all the various modes of preserving a good reputation, which have been so strenuously inculcated on the female world, were specious poisons, that incrusting morality eat away the substance. And, that this measuring of shadows produced a false calculation, because their length depends so much on the height of the sun, and other adventitious circumstances.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-16.html"
+url: "/authors/london-jack/martin-eden/chapter-16.html"
 ---
 
 The alarm-clock went off, jerking Martin out of sleep with a suddenness that would have given headache to one with less splendid constitution. Though he slept soundly, he awoke instantly, like a cat, and he awoke eagerly, glad that the five hours of unconsciousness were gone. He hated the oblivion of sleep. There was too much to do, too much of life to live. He grudged every moment of life sleep robbed him of, and before the clock had ceased its clattering he was head and ears in the washbasin and thrilling to the cold bite of the water.

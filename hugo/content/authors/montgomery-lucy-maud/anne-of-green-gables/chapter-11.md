@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Anne's Impressions of Sunday-School"
 weight: 11
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-11.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-11.html"
 ---
 
 "Well, how do you like them?" said Marilla.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 88 - Shows How With Threat And Pen More Is Effected Than By The Sword"
 weight: 88
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-88.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-88.html"
 ---
 
 D'Artagnan knew his part well; he was aware that opportunity has a forelock only for him who will take it and he was not a man to let it go by him without seizing it. He soon arranged a prompt and certain manner of traveling, by sending relays of horses to Chantilly, so that he might be in Paris in five or six hours. But before setting out he reflected that for a lad of intelligence and experience he was in a singular predicament, since he was proceeding toward uncertainty and leaving certainty behind him.

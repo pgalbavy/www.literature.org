@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Elizabeth Shows Her Teeth"
 weight: 26
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-25.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-25.html"
 ---
 
 Hard had been Beatrice’s hours since that grey morning of separation. She must bear all the inner wretchedness of her lot; she must conceal her grief, must suffer the slings and arrows of Elizabeth’s sharp tongue, and strive to keep Owen Davies at a distance. Indeed, as the days went on, this last task grew more and more portentous. The man was quite unmanageable; his passion, which was humiliating and hateful to Beatrice, became the talk of the place. Everybody knew of it, except her father, and even his eyes began to be opened.

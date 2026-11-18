@@ -1,8 +1,7 @@
 ---
 title: "Glossary"
 weight: 15
-aliases:
-  - "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/glossary.html"
+url: "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/glossary.html"
 ---
 
 Glossary A GLOSSARY OF NAMES AND TERMS USED IN THE MARTIAN BOOKS

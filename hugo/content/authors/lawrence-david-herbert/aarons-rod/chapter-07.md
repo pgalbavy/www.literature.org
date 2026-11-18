@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Dark Square Garden"
 weight: 7
-aliases:
-  - "/authors/lawrence-david-herbert/aarons-rod/chapter-07.html"
+url: "/authors/lawrence-david-herbert/aarons-rod/chapter-07.html"
 ---
 
 Josephine had invited Aaron Sisson to dinner at a restaurant in Soho, one Sunday evening. They had a corner to themselves, and with a bottle of Burgundy she was getting his history from him.

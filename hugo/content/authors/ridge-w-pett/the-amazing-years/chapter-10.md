@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/ridge-w-pett/the-amazing-years/chapter-10.html"
+url: "/authors/ridge-w-pett/the-amazing-years/chapter-10.html"
 ---
 
 A letter came from my Quartermaster-Sergeant.

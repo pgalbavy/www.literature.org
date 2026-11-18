@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Becky"
 weight: 6
-aliases:
-  - "/authors/hodgson-burnett-frances/a-little-princess/chapter-05.html"
+url: "/authors/hodgson-burnett-frances/a-little-princess/chapter-05.html"
 ---
 
 Of course the greatest power Sara possessed and the one which gained her even more followers than her luxuries and the fact that she was "the show pupil," the power that Lavinia and certain other girls were most envious of, and at the same time most fascinated by in spite of themselves, was her power of telling stories and of making everything she talked about seem like a story, whether it was one or not.

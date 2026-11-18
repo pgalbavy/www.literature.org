@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Poor Relation"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-06.html"
 ---
 
 *TWO HOURS* later a note was received from Mrs. Davenport, inviting Tom to pass the day at her house. It was brought by an errand-boy, and arrived just as Tom, having arranged his wardrobe, was about to start on a journey of exploration.

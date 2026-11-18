@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - A Strange Craft"
 weight: 31
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-31.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-31.html"
 ---
 
 "I tell you a boy who uses his mother bad is sure to suffer for it some time. I've seen so many cases that I know there's such a law that governs the whole world. I thank heaven that I never brought a tear to my mother's eyes."

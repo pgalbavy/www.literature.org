@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - At Beartown"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-10.html"
 ---
 
 Alvin Landon had been toiling so long, often in a stooping posture, that he was tired. He sat down on one of the seats and his chum placed himself opposite.

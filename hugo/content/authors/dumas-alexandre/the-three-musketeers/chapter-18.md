@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Lover And Husband"
 weight: 19
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-18.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-18.html"
 ---
 
 "Ah, Madame," said D'Artagnan, entering by the door which the young woman opened for him, "allow me to tell you that you have a bad sort of a husband."

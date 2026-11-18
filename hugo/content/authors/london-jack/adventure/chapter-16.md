@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Girl Who Had Not Grown Up"
 weight: 16
-aliases:
-  - "/authors/london-jack/adventure/chapter-16.html"
+url: "/authors/london-jack/adventure/chapter-16.html"
 ---
 
 News, as usual, Christian Young brought--news of the drinking at Guvutu, where the men boasted that they drank between drinks; news of the new rifles adrift on Ysabel, of the latest murders on Malaita, of Tom Butler's sickness on Santa Ana; and last and most important, news that the Matambo had gone on a reef in the Shortlands and would be laid off one run for repairs.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 14
-aliases:
-  - "/authors/baum-l-frank/the-road-to-oz/chapter-13.html"
+url: "/authors/baum-l-frank/the-road-to-oz/chapter-13.html"
 ---
 
 They now made a more careful examination of the country around them. All was fresh and beautiful after the sultriness of the desert, and the sunshine and sweet, crisp air were delightful to the wanderers. Little mounds of yellowish green were away at the right, while on the left waved a group of tall leafy trees bearing yellow blossoms that looked like tassels and pompoms. Among the grasses carpeting the ground were pretty buttercups and cowslips and marigolds. After looking at these a moment Dorothy said reflectively:

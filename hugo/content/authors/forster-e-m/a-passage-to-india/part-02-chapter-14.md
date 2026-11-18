@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 14"
 weight: 14
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-02-chapter-14.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-02-chapter-14.html"
 ---
 
 Most of life is so dull that there is nothing to be said about it, and the books and talk that would describe it as interesting are obliged to exaggerate, in the hope of justifying their own existence. Inside its cocoon of work or social obligation, the human spirit slumbers for the most part, registering the distinction between pleasure and pain, but not nearly as alert as we pretend. There are periods in the most thrilling day during which nothing happens, and though we continue to exclaim, “I do enjoy myself,” or, “I am horrified,” we are insincere. “As far as I feel anything, it is enjoyment, horror”—it’s no more than that really, and a perfectly adjusted organism would be silent.

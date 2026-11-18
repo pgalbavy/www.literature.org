@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/ridge-w-pett/a-son-of-the-state/chapter-12.html"
+url: "/authors/ridge-w-pett/a-son-of-the-state/chapter-12.html"
 ---
 
 THE seaside institution to which Bobbie, with an attention that could not have been exceeded if he had been paying money recklessly to everybody around him, found himself conveyed, exactly fitted his desires. The cool, calm order of the place, the quiet service of serene women attendants in their dark gowns and white aprons, the well-chosen table, the pure white linen in spotless bedrooms—all these things, that might have irritated the boy had he been perfectly well, were, in his convalescent state, precisely what he required. The days had become warmer, and it was possible to spend a good deal of time on the wooden balconies of the Swiss-like building. From these balconies he could look away across the green waters, with their patches of dark purple; could watch the Channel steamer puffing its way across, presently to enter the harbour below. The harbour itself never ceased to delight him. There it was that steamers rested in a dignified manner when off duty, submitting themselves to an energetic washing of decks and rubbing of brasswork; near them, brown-sailed fishing vessels for ever going out to sea or coming back from sea, manned by limited crews, who shouted in the dialect of the Kentish coast, and whose aim in life it appeared to be not so much to do work themselves as to tell others to do it. The scent of the sea came up to the balconies, and most of the boys in varying stages of repair who inhaled it, declared their intention, once they had regained possession of that health which for the moment eluded them, of becoming admirals in her Majesty’s navy. Bobbie Lancaster on this subject said nothing, which was his way when engaged in making up his mind.

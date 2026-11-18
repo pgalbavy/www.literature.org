@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-16.html"
+url: "/authors/chambers-robert-w/athalie/chapter-16.html"
 ---
 
 As she came, pensively, from her morning bath into the sunny front room Athalie noticed the corner of an envelope projecting from beneath her door.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 33
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-33.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-33.html"
 ---
 
 After some opposition, Marianne yielded to her sister's entreaties, and consented to go out with her and Mrs. Jennings one morning for half an hour. She expressly conditioned, however, for paying no visits, and would do no more than accompany them to Gray's in Sackville Street, where Elinor was carrying on a negotiation for the exchange of a few old-fashioned jewels of her mother.

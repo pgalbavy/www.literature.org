@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-09.html"
+url: "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-09.html"
 ---
 
 Marlin Town lies cradled in the elbow of the river and about its ragged edges the hills stand beetling, hemming it in.

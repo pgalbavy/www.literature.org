@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - How The White Company Set Forth To The Wars"
 weight: 13
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-13.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-13.html"
 ---
 
 ST. LUKE'S day had come and had gone, and it was in the season of Martinmas, when the oxen are driven in to the slaughter, that the White Company was ready for its journey. Loud shrieked the brazen bugles from keep and from gateway, and merry was the rattle of the war-drum, as the men gathered in the outer bailey, with torches to light them, for the morn had not yet broken. Alleyne, from the window of the armory, looked down upon the strange scene--the circles of yellow flickering light, the lines of stern and bearded faces, the quick shimmer of arms, and the lean heads of the horses. In front stood the bow-men, ten deep, with a fringe of under-officers, who paced hither and thither marshalling the ranks with curt precept or short rebuke. Behind were the little clump of steel-clad horsemen, their lances raised, with long pensils drooping down the oaken shafts. So silent and still were they, that they might have been metal- sheathed statues, were it not for the occasional quick, impatient stamp of their chargers, or the rattle of chamfron against neck- plates as they tossed and strained. A spear's length in front of them sat the spare and long-limbed figure of Black Simon, the Norwich fighting man, his fierce, deep-lined face framed in steel, and the silk guidon marked with the five scarlet roses slanting over his right shoulder. All round, in the edge of the circle of the light, stood the castle servants, the soldiers who were to form the garrison, and little knots of women. who sobbed in their aprons and called shrilly to their name-saints to watch over the Wat, or Will, or Peterkin who had turned his hand to the work of war.

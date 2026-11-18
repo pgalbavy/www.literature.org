@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Mysterious Stranger"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-09.html"
 ---
 
 When Ferdinand Frog first came to the Beaver pond to live no one knew anything about him.

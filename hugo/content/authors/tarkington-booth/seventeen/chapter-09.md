@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Little Sisters Have Big Ears"
 weight: 9
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-09.html"
+url: "/authors/tarkington-booth/seventeen/chapter-09.html"
 ---
 
 The confidential talk between mother and daughter at noon was not the last to take place that day. At nightfall—eight o'clock in this pleasant season —Jane was saying her prayers beside her bed, while her mother stood close by, waiting to put out the light.

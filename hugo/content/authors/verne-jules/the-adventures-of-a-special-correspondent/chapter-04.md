@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-04.html"
+url: "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-04.html"
 ---
 
 I am always suspicious of a traveler's "impressions." These impressions are subjective—a word I use because it is the fashion, although I am not quite sure what it means. A cheerful man looks at things cheerfully, a sorrowful man looks at them sorrowfully. Democritus would have found something enchanting about the banks of the Jordan and the shores of the Dead Sea. Heraclitus would have found something disagreeable about the Bay of Naples and the beach of the Bosphorus. I am of a happy nature—you must really pardon me if I am rather egotistic in this history, for it is so seldom that an author's personality is so mixed up with what he is writing about—like Hugo, Dumas, Lamartine, and so many others. Shakespeare is an exception, and I am not Shakespeare—and, as far as that goes, I am not Lamartine, nor Dumas, nor Hugo.

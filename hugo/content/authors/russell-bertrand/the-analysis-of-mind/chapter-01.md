@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Recent Criticisms Of \"Consciousness\""
 weight: 2
-aliases:
-  - "/authors/russell-bertrand/the-analysis-of-mind/chapter-01.html"
+url: "/authors/russell-bertrand/the-analysis-of-mind/chapter-01.html"
 ---
 
 There are certain occurrences which we are in the habit of calling "mental." Among these we may take as typical *BELIEVING* and *DESIRING.* The exact definition of the word "mental" will, I hope, emerge as the lectures proceed; for the present, I shall mean by it whatever occurrences would commonly be called mental.

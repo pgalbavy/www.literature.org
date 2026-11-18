@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/stevenson-robert-louis/prince-otto/preface.html"
+url: "/authors/stevenson-robert-louis/prince-otto/preface.html"
 ---
 
 TO NELLY VAN DE GRIFT (MRS. ADULFO SANCHEZ, OF MONTEREY)

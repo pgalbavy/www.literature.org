@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 5"
 weight: 106
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-04-chapter-05.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-04-chapter-05.html"
 ---
 
 The waiting-room of the celebrated Petersburg lawyer was full when Alexey Alexandrovitch entered it. Three ladies--an old lady, a young lady, and a merchant's wife--and three gentlemen-- one a German banker with a ring on his finger, the second a merchant with a beard, and the third a wrathful-looking government clerk in official uniform, with a cross on his neck-- had obviously been waiting a long while already. Two clerks were writing at tables with scratching pens. The appurtenances of the writing-tables, about which Alexey Alexandrovitch was himself very fastidious, were exceptionally good. He could not help observing this. One of the clerks, without getting up, turned wrathfully to Alexey Alexandrovitch, half closing his eyes. "What are you wanting?"

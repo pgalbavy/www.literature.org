@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-30.html"
+url: "/authors/london-jack/martin-eden/chapter-30.html"
 ---
 
 On a beautiful fall day, a day of similar Indian summer to that which had seen their love declared the year before, Martin read his "Love-cycle" to Ruth. It was in the afternoon, and, as before, they had ridden out to their favorite knoll in the hills. Now and again she had interrupted his reading with exclamations of pleasure, and now, as he laid the last sheet of manuscript with its fellows, he waited her judgment.

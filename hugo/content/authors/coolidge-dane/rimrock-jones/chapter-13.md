@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Morning After"
 weight: 13
-aliases:
-  - "/authors/coolidge-dane/rimrock-jones/chapter-13.html"
+url: "/authors/coolidge-dane/rimrock-jones/chapter-13.html"
 ---
 
 The morning after found Rimrock without regrets and, for once, without a head. He had subtly judged, from something she had said, that Mary did not like whiskey breaths, nor strong cigars, nor the odors of the two combined. So, having certain words to speak in her ear, he had refrained, with the results as aforesaid. For the first time in her life she had looked him in the eye and acknowledged, frankly, that she liked him. But she had not kissed him--she drew the line there--and once more in his shrewd unsophisticated way he judged it was never done, in her set.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/huxley-aldous/antic-hay/chapter-11.html"
+url: "/authors/huxley-aldous/antic-hay/chapter-11.html"
 ---
 
 Gumbril had spent the afternoon at Bloxam Gardens. His chin was still sore from the spirit gum with which he had attached to it the symbol of the Complete Man; he was feeling also a little fatigued. Rosie had been delighted to see him; St. Jerome had gone on solemnly communicating all the time.

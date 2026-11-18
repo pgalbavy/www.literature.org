@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Behind The Fountain"
 weight: 20
-aliases:
-  - "/authors/alcott-louisa-may/rose-in-bloom/chapter-19.html"
+url: "/authors/alcott-louisa-may/rose-in-bloom/chapter-19.html"
 ---
 
 Two days after Christmas a young man of serious aspect might have been seen entering one of the large churches at L - - . Being shown to a seat, he joined in the services with praiseworthy devotion, especially the music, to which he listened with such evident pleasure that a gentleman who sat nearby felt moved to address this appreciative stranger after church.

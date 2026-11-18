@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/ridge-w-pett/the-amazing-years/chapter-05.html"
+url: "/authors/ridge-w-pett/the-amazing-years/chapter-05.html"
 ---
 
 I paid little attention to the news from Chislehurst, although one was, of course, interested in Miss Muriel as in the others; the opening of the shop at London Street occupied in truth a good deal of my time and care. Mrs. Hillier, answering my invitation to look over the establishment, said that in view of my incurable habit of embarking upon adventure without consulting her, it was impossible for her to give any sort of countenance to the business, or make purchases there. I retorted that I had no desire to ask for her patronage, and I might have added--but did not--that in the circumstances, it was not much she could afford to buy. But the good lady appeared to find one of her rare joys in pretending that her money resources were as large as they had been before the war, and it seemed a pity to be always destroying the notion. Miss Katherine was the one who sometimes took me apart, and said:

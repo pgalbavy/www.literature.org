@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - A Sound From Out The Stillness"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-20.html"
 ---
 
 The error occurred in this way: The trail that the boys had been assiduously following was so faintly marked that the wonder was they did not go astray sooner. In many places, there was little choice as to the route, because it was so broken and crossed that one was as distinct as the other. Nevertheless, Frank pressed on with scarcely any hesitation, until he again reached a depression where the soft ground failed to show the slightest impression of shoe or hoof.

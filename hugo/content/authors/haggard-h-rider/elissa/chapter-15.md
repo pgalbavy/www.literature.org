@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Elissa Takes Sanctuary"
 weight: 16
-aliases:
-  - "/authors/haggard-h-rider/elissa/chapter-15.html"
+url: "/authors/haggard-h-rider/elissa/chapter-15.html"
 ---
 
 Two more hours had passed, and in the evening light a procession of priestesses might be seen advancing slowly towards the holy tomb along a narrow road of rock cut in the mountain face. In front of this procession, wearing a black veil over her broidered robes, walked Elissa with downcast eyes and hair unbound in token of grief, while behind her came Mesa and other priestesses bearing in bowls of alabaster the offerings to the dead, food and wine, and lamps of oil, and vases filled with perfumes. Behind these again marched the mourners, women who sang a funeral dirge and from time to time broke into a wail of simulated grief. Nor, indeed, was their woe as hollow as might be thought, since from that mountain path they could see the outposts of the army of Ithobal upon the plain, and note with a shudder of fear the spear-heads of his countless thousands shining in the gorges of the opposing heights. It was not for the dead Baaltis that they mourned this day, but for the fate which overshadowed them and their city of gold.

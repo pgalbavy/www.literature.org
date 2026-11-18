@@ -1,8 +1,7 @@
 ---
 title: "Book 7 - Chapter 9"
 weight: 141
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-07-chapter-09.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-07-chapter-09.html"
 ---
 
 Christmas came and except for the ceremonial Mass, the solemn and wearisome Christmas congratulations from neighbors and servants, and the new dresses everyone put on, there were no special festivities, though the calm frost of twenty degrees Reaumur, the dazzling sunshine by day, and the starlight of the winter nights seemed to call for some special celebration of the season.

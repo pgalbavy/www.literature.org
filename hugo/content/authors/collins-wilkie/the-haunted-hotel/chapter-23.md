@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/collins-wilkie/the-haunted-hotel/chapter-23.html"
+url: "/authors/collins-wilkie/the-haunted-hotel/chapter-23.html"
 ---
 
 '...You have some influence over Agnes. Try what you can do, Henry, to make her take a sensible view of the matter. There is really nothing to make a fuss about. My wife's maid knocked at her door early in the morning, with the customary cup of tea. Getting no answer, she went round to the dressing-room--found the door on that side unlocked--and discovered Agnes on the bed in a fainting fit. With my wife's help, they brought her to herself again; and she told the extraordinary story which I have just repeated to you. You must have seen for yourself that she has been over-fatigued, poor thing, by our long railway journeys: her nerves are out of order-- and she is just the person to be easily terrified by a dream. She obstinately refuses, however, to accept this rational view. Don't suppose that I have been severe with her! All that a man can do to humour her I have done. I have written to the Countess (in her assumed name) offering to restore the room to her. She writes back, positively declining to return to it. I have accordingly arranged (so as not to have the thing known in the hotel) to occupy the room for one or two nights, and to leave Agnes to recover her spirits under my wife's care. Is there anything more that I can do? Whatever questions Agnes has asked of me I have answered to the best of my ability; she knows all that you told me about Francis and the Countess last night. But try as I may I can't quiet her mind. I have given up the attempt in despair, and left her in the drawing-room. Go, like a good fellow, and try what you can do to compose her.'

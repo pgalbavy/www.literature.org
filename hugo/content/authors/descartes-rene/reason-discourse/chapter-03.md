@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/descartes-rene/reason-discourse/chapter-03.html"
+url: "/authors/descartes-rene/reason-discourse/chapter-03.html"
 ---
 
 And finally, as it is not enough, before commencing to rebuild the house in which we live, that it be pulled down, and materials and builders provided, or that we engage in the work ourselves, according to a plan which we have beforehand carefully drawn out, but as it is likewise necessary that we be furnished with some other house in which we may live commodiously during the operations, so that I might not remain irresolute in my actions, while my reason compelled me to suspend my judgement, and that I might not be prevented from living thenceforward in the greatest possible felicity, I formed a provisory code of morals, composed of three or four maxims, with which I am desirous to make you acquainted.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/chambers-robert-w/the-business-of-life/chapter-02.html"
+url: "/authors/chambers-robert-w/the-business-of-life/chapter-02.html"
 ---
 
 Desboro arrived in town on a late train. It was raining, so he drove to his rooms, exchanged his overcoat for a raincoat, and went out into the downpour again, undisturbed, disdaining an umbrella.

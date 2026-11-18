@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Ear-Rings"
 weight: 16
-aliases:
-  - "/authors/alcott-louisa-may/eight-cousins/chapter-15.html"
+url: "/authors/alcott-louisa-may/eight-cousins/chapter-15.html"
 ---
 
 Rose's sprain proved to be a serious one, owing to neglect, and Dr. Alec ordered her to lie on the sofa for a fortnight at least; whereat she groaned dismally, but dared not openly complain, lest the boys turn upon her with some of the wise little sermons on patience which she had delivered for their benefit.

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 3"
 weight: 8
-aliases:
-  - "/authors/conrad-joseph/romance/part-02-chapter-03.html"
+url: "/authors/conrad-joseph/romance/part-02-chapter-03.html"
 ---
 
 One night I was riding alone towards Horton Pen. A large moon hung itself up above me like an enormous white plate. Finally the sloping roof of the Ferry Inn, with one dishevelled palm tree drooping over it, rose into the disk. The window lights were reflected like shaken torches in the river. A mass of objects, picked out with white globes, loomed in the high shadow of the inn, standing motionless. They resolved themselves into a barouche, with four horses steaming a great deal, and an army of negresses with bandboxes on their heads. A great lady was on the road; her querulous voice was calling to someone within the open door that let down a soft yellow light from the top of the precipitous steps. A nondescript object, with apparently two horns and a wheel, rested inert at the foot of the sign-post; two negroes were wiping their foreheads beside it. That resolved itself into a man slumbering in a wheelbarrow, his white face turned up to the moon. A sort of buzz of voices came from above; then a man in European clothes was silhouetted against the light in the doorway. He held a full glass very carefully and started to descend. Suddenly he stopped emotionally. Then he turned half-right and called back, "Sir Charles! Sir Charles! Here's the very man! I protest, the very man!" There was an interrogative roar from within. It was like being outside a lion's cage.

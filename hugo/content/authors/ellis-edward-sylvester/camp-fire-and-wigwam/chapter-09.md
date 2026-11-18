@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - By The Camp-Fire"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-09.html"
 ---
 
 Jack Carleton cried in the bitterness of vexation and disappointment. After his daring attempt to get away, and when hope was a-flutter within him, he awoke to the fact that his captors were trifling with him. He surveyed the array of gleaming visages, and was sure that the leader indulged in a distinct wink and grotesque grimace, as expressive of his views of the situation. Inasmuch as not one of the red men could utter a syllable of English, perhaps it was as well that they should have recourse to the sign language. Jack himself was humiliated beyond expression. Finding he was discovered, he had risen to his feet and faced his captors with the best grace he could, and that, it need not be said, was scant indeed.

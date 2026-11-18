@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Creative Art"
 weight: 19
-aliases:
-  - "/authors/tarkington-booth/penrod-and-sam/chapter-19.html"
+url: "/authors/tarkington-booth/penrod-and-sam/chapter-19.html"
 ---
 
 He went forth, seeking.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/daviess-maria-thompson/phyllis/chapter-06.html"
+url: "/authors/daviess-maria-thompson/phyllis/chapter-06.html"
 ---
 
 A serious disposition can make more trouble for itself by its own seriousness than all the misfortunes that come can make for it. If I had just a little touch of Roxanne Byrd's foamy spirits, I would be a much more comfortable companion for myself. All night I lay awake, anchored in the middle of the huge old Byrd bedstead, and sorrowed over the misfortune that had come to Roxanne and the Idol. Over and over I went in my mind to see where I could clear Mr. Rogers of my suspicions until my thoughts were so pale in color that I could hardly make them out, and at last I fell asleep in despair.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Aeroplane In A Race"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-03.html"
 ---
 
 The barograph showed that the aeroplane was more than nine hundred feet above the earth and the anemometer, or small wind wheel, indicated that the speed was forty-odd miles an hour, with the propeller making a thousand revolutions a minute. It was capable of increasing that rate by twenty per cent. and the aviator was gradually forcing it to do so.

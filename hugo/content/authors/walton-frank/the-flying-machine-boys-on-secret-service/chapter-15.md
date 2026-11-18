@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Man In The Stateroom"
 weight: 15
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-15.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-15.html"
 ---
 
 “Did he make much of a row about it?” asked Jimmie.

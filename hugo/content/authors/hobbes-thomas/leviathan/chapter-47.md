@@ -1,8 +1,7 @@
 ---
 title: "Chapter 47 - Of The Benefit That Proceedeth From Such Darknesse, And To Whom It Accreweth"
 weight: 49
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-47.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-47.html"
 ---
 
 He That Receiveth Benefit By A Fact, Is Presumed To Be The Author Cicero maketh honorable mention of one of the Cassii, a severe Judge amongst the Romans, for a custome he had, in Criminal causes, (when the testimony of the witnesses was not sufficient,) to ask the Accusers, Cui Bono; that is to say, what Profit, Honor, or other Contentment, the accused obtained, or expected by the Fact. For amongst Praesumptions, there is none that so evidently declareth the Author, as doth the BENEFIT of the Action. By the same rule I intend in this place to examine, who they may be, that have possessed the People so long in this part of Christendome, with these Doctrines, contrary to the Peaceable Societies of Mankind.

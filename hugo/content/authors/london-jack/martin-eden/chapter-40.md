@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40"
 weight: 40
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-40.html"
+url: "/authors/london-jack/martin-eden/chapter-40.html"
 ---
 
 "Overdue" still continued to lie forgotten on the table. Every manuscript that he had had out now lay under the table. Only one manuscript he kept going, and that was Brissenden's "Ephemera." His bicycle and black suit were again in pawn, and the type-writer people were once more worrying about the rent. But such things no longer bothered him. He was seeking a new orientation, and until that was found his life must stand still.

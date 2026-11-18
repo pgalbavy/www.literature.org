@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - On The Canal"
 weight: 35
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-35.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-35.html"
 ---
 
 Upon the green waters of the canal bordered with marble, upon which time had already scattered black spots and tufts of mossy grass, there glided majestically a long, flat bark adorned with the arms of England, surmounted by a dais, and carpeted with long damasked stuffs, which trailed their fringes in the water. Eight rowers, leaning lazily to their oars, made it move upon the canal with the graceful slowness of the swans, which, disturbed in their ancient possessions by the approach of the bark, looked from a distance at this splendid and noisy pageant. We say noisy - for the bark contained four guitar and lute players, two singers, and several courtiers, all sparkling with gold and precious stones, and showing their white teeth in emulation of each other, to please the Lady Henrietta Stuart, grand-daughter of Henry IV., daughter of Charles I., and sister of Charles II., who occupied the seat of honor under the dais of the bark. We know this young princess, we have seen her at the Louvre with her mother, wanting wood, wanting bread, and fed by the coadjuteur and the parliament. She had, therefore, like her brothers, passed through an uneasy youth; then, all at once, she had just awakened from a long and horrible dream, seated on the steps of a throne, surrounded by courtiers and flatterers. Like Mary Stuart on leaving prison, she aspired not only to life and liberty, but to power and wealth.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Tinkle Of A Bell"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-02.html"
 ---
 
 The examination of the shore of the creek had lasted but a few minutes, when Terry Clark, pointing to the moist earth at their feet, called out in some excitement:

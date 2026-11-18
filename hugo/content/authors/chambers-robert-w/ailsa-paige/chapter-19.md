@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 20
-aliases:
-  - "/authors/chambers-robert-w/ailsa-paige/chapter-19.html"
+url: "/authors/chambers-robert-w/ailsa-paige/chapter-19.html"
 ---
 
 A car full of leaf tobacco had been brought in that day, and Berkley secured a little of it for his pipe.

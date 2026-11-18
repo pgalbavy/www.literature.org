@@ -1,8 +1,7 @@
 ---
 title: "Chapter 50"
 weight: 50
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-50.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-50.html"
 ---
 
 After a proper resistance on the part of Mrs. Ferrars, just so violent and so steady as to preserve her from that reproach which she always seemed fearful of incurring, the reproach of being too amiable, Edward was admitted to her presence, and pronounced to be again her son.

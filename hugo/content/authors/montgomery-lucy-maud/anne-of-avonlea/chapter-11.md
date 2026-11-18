@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Facts And Fancies"
 weight: 11
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-11.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-11.html"
 ---
 
 "Teaching is really very interesting work," wrote Anne to a Queen's Academy chum. "Jane says she thinks it is monotonous but I don't find it so. Something funny is almost sure to happen every day, and the children say such amusing things. Jane says she punishes her pupils when they make funny speeches, which is probably why she finds teaching monotonous. This afternoon little Jimmy Andrews was trying to spell 'speckled' and couldn't manage it. 'Well,' he said finally, 'I can't spell it but I know what it means.'

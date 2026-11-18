@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Too Deferential Man"
 weight: 5
-aliases:
-  - "/authors/eliot-george/impressions-of-theophrastus-such/chapter-05.html"
+url: "/authors/eliot-george/impressions-of-theophrastus-such/chapter-05.html"
 ---
 
 A little unpremeditated insincerity must be indulged under the stress of social intercourse. The talk even of an honest man must often represent merely his wish to be inoffensive or agreeable rather than his genuine opinion or feeling on the matter in hand. His thought, if uttered, might be wounding; or he has not the ability to utter it with exactness and snatches at a loose paraphrase; or he has really no genuine thought on the question and is driven to fill up the vacancy by borrowing the remarks in vogue. These are the winds and currents we have all to steer amongst, and they are often too strong for our truthfulness or our wit. Let us not bear too hardly on each other for this common incidental frailty, or think that we rise superior to it by dropping all considerateness and deference.

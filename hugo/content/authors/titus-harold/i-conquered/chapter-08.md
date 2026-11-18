@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Head Of Yellow Hair"
 weight: 8
-aliases:
-  - "/authors/titus-harold/i-conquered/chapter-08.html"
+url: "/authors/titus-harold/i-conquered/chapter-08.html"
 ---
 
 The next day Jed declared for a trip to Ranger after grub. The trip was necessary, and it would be an education for VB, he said with a chuckle, to see the town. But when they were ready to start a rider approached the ranch.

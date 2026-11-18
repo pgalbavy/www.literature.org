@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Farmer Brown's Boy And Buster Bear Meet"
 weight: 14
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-15.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-15.html"
 ---
 
 If you should meet with Buster Bear  

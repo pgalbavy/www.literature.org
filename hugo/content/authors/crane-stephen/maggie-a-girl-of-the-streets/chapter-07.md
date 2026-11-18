@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-07.html"
+url: "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-07.html"
 ---
 
 An orchestra of yellow silk women and bald-headed men on an elevated stage near the centre of a great green-hued hall, played a popular waltz. The place was crowded with people grouped about little tables. A battalion of waiters slid among the throng, carrying trays of beer glasses and making change from the inexhaustible vaults of their trousers pockets. Little boys, in the costumes of French chefs, paraded up and down the irregular aisles vending fancy cakes. There was a low rumble of conversation and a subdued clinking of glasses. Clouds of tobacco smoke rolled and wavered high in air about the dull gilt of the chandeliers.

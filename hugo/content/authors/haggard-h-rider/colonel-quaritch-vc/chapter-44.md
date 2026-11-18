@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44 - Christmas Chimes"
 weight: 44
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-44.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-44.html"
 ---
 
 The Squire turned and entered the house. He generally was fairly noisy in his movements, but on this occasion he was exceptionally so. Possibly he had a reason for it.

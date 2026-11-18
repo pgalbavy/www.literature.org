@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 19"
 weight: 120
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-04-chapter-19.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-04-chapter-19.html"
 ---
 
 The mistake made by Alexey Alexandrovitch in that, when preparing for seeing his wife, he had overlooked the possibility that her repentance might be sincere, and he might forgive her, and she might not die--this mistake was two months after his return from Moscow brought home to him in all its significance. But the mistake made by him had arisen not simply from his having overlooked that contingency, but also from the fact that until that day of his interview with his dying wife, he had not known his own heart. At his sick wife's bedside he had for the first time in his life given way to that feeling of sympathetic suffering always roused in him by the sufferings of others, and hitherto looked on by him with shame as a harmful weakness. And pity for her, and remorse for having desired her death, and most of all, the joy of forgiveness, made him at once conscious, not simply of the relief of his own sufferings, but of a spiritual peace he had never experienced before. He suddenly felt that the very thing that was the source of his sufferings had become the source of his spiritual joy; that what had seemed insoluble while he was judging, blaming, and hating, had become clear and simple when he forgave and loved.

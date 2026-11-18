@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 11 - The King Of Kazounde Is Offered A Punch"
 weight: 29
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-11.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-11.html"
 ---
 
 It was four o'clock in the afternoon when a loud noise of drums, cymbals, and other instruments of African origin resounded at the end of the principal street. In all corners of the market-place the animation was redoubled. Half a day of cries and wrestling had neither weakened the voices nor broken the limbs of these abominable traders. A large number of slaves still remained to be sold. The traders disputed over the lots with an ardor of which the London Exchange would give but an imperfect idea, even on a day when stocks were rising.

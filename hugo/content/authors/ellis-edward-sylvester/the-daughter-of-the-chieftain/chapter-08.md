@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Linna's Woodcraft"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/the-daughter-of-the-chieftain/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/the-daughter-of-the-chieftain/chapter-08.html"
 ---
 
 No one could have looked into the face of Ben Ripley without seeing he meant just what he said.

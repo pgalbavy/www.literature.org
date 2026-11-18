@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/london-jack/before-adam/chapter-05.html"
+url: "/authors/london-jack/before-adam/chapter-05.html"
 ---
 
 My vision of the scene came abruptly, as I emerged from the forest. I found myself on the edge of a large clear space. On one side of this space rose up high bluffs. On the other side was the river. The earth bank ran steeply down to the water, but here and there, in several places, where at some time slides of earth had occurred, there were run-ways. These were the drinking-places of the Folk that lived in the caves.

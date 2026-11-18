@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/lawrence-david-herbert/the-captains-doll/chapter-12.html"
+url: "/authors/lawrence-david-herbert/the-captains-doll/chapter-12.html"
 ---
 
 The Herr Regierungsrat was not at first sight prepossessing. He was approaching fifty, and had gone stout and rather loose, as so many men of his class and race do. Then he wore one of those dreadful full-bottom coats, a kind of poor relation to our full- skirted frock-coat: it would best be described as a family coat. It flapped about him as he walked, and he looked at first glance lower middle class.

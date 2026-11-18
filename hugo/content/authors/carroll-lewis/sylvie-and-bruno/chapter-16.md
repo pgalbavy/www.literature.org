@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - A Changed Crocodile"
 weight: 17
-aliases:
-  - "/authors/carroll-lewis/sylvie-and-bruno/chapter-16.html"
+url: "/authors/carroll-lewis/sylvie-and-bruno/chapter-16.html"
 ---
 
 The Marvellous--the Mysterious--had quite passed out of my life for the moment: and the Common-place reigned supreme. I turned in the direction of the Earl's house, as it was now 'the witching hour' of five, and I knew I should find them ready for a cup of tea and a quiet chat.

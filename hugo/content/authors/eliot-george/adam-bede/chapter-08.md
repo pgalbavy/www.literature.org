@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Vocation"
 weight: 8
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-08.html"
+url: "/authors/eliot-george/adam-bede/chapter-08.html"
 ---
 
 DINAH, who had risen when the gentlemen came in, but still kept hold of the sheet she was mending, curtsied respectfully when she saw Mr. Irwine looking at her and advancing towards her. He had never yet spoken to her, or stood face to face with her, and her first thought, as her eyes met his, was, "What a well-favoured countenance! Oh that the good seed might fall on that soil, for it would surely flourish." The agreeable impression must have been mutual, for Mr. Irwine bowed to her with a benignant deference, which would have been equally in place if she had been the most dignified lady of his acquaintance.

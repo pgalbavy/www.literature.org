@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Jimmy Throws A Bluff"
 weight: 16
-aliases:
-  - "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-16.html"
+url: "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-16.html"
 ---
 
 That afternoon Mr. Harold Bince had entered his superior's office with an afternoon paper in his hand.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Siméon Gives Battle"
 weight: 17
-aliases:
-  - "/authors/leblanc-maurice/the-golden-triangle/chapter-17.html"
+url: "/authors/leblanc-maurice/the-golden-triangle/chapter-17.html"
 ---
 
 It took them some time to loosen Ya-Bon's grip. Even in death the Senegalese did not let go his prey; and his fingers, hard as iron and armed with nails piercing as a tiger's claws, dug into the neck of the enemy, who lay gurgling, deprived of consciousness and strength.

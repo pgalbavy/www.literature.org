@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Invitation"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-15.html"
 ---
 
 THE morning was not gone before Jasper Jay had four callers. There was Bobbie Bobolink, Jolly Robin, Miss Kitty Catbird and Buddy Brown-Thrasher.

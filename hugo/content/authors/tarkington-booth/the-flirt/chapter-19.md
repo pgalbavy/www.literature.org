@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/tarkington-booth/the-flirt/chapter-19.html"
+url: "/authors/tarkington-booth/the-flirt/chapter-19.html"
 ---
 
 Memory, that drowsy custodian, had wakened slowly, during this hour, beginning the process with fitful gleams of semi-consciousness, then, irritated, searching its pockets for the keys and dazedly exploring blind passages; but now it flung wide open the gallery doors, and there, in clear light, were the rows of painted canvasses.

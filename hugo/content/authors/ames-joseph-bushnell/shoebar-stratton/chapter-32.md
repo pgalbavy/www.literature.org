@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - Buck Rides"
 weight: 32
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-32.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-32.html"
 ---
 
 Presently Mrs. Archer released her spasmodic grip on Stratton's flannel shirt and fumbled for her handkerchief.

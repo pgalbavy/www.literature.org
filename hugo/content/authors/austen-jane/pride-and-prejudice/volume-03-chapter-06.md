@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 6"
 weight: 48
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-06.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-06.html"
 ---
 
 The whole party were in hopes of a letter from Mr. Bennet the next morning, but the post came in without bringing a single line from him. His family knew him to be on all common occasions, a most negligent and dilatory correspondent, but at such a time, they had hoped for exertion. They were forced to conclude, that he had no pleasing intelligence to send, but even of that they would have been glad to be certain. Mr. Gardiner had waited only for the letters before he set off.

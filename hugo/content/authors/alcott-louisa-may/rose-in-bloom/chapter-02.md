@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Old Friends With New Faces"
 weight: 3
-aliases:
-  - "/authors/alcott-louisa-may/rose-in-bloom/chapter-02.html"
+url: "/authors/alcott-louisa-may/rose-in-bloom/chapter-02.html"
 ---
 
 "It is so good to be home again! I wonder how we ever made up our minds to go away!" exclaimed Rose as she went roaming about the old house next morning, full of the satisfaction one feels at revisiting familiar nooks and corners and finding them unchanged.

@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 9"
 weight: 45
-aliases:
-  - "/authors/austen-jane/emma/volume-03-chapter-09.html"
+url: "/authors/austen-jane/emma/volume-03-chapter-09.html"
 ---
 
 Emma's pensive meditations, as she walked home, were not interrupted; but on entering the parlour, she found those who must rouse her. Mr. Knightley and Harriet had arrived during her absence, and were sitting with her father.--Mr. Knightley immediately got up, and in a manner decidedly graver than usual, said,

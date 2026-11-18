@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Sharp Eyes In The Zoo"
 weight: 9
-aliases:
-  - "/authors/barnum-richard/sharp-eyes-the-silver-fox/chapter-09.html"
+url: "/authors/barnum-richard/sharp-eyes-the-silver-fox/chapter-09.html"
 ---
 
 The train in which Sharp Eyes, the silver fox, was riding had stopped so the engine could get a drink of water, and it happened to stop near the circus tent, which was the white thing Sharp Eyes had thought was the large house. So the fox had time to talk to the big animal who had spoken in such a friendly way.

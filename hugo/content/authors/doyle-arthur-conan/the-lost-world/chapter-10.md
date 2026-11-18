@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Most Wonderful Things Have Happened"
 weight: 10
-aliases:
-  - "/authors/doyle-arthur-conan/the-lost-world/chapter-10.html"
+url: "/authors/doyle-arthur-conan/the-lost-world/chapter-10.html"
 ---
 
 The most wonderful things have happened and are continually happening to us. All the paper that I possess consists of five old note-books and a lot of scraps, and I have only the one stylographic pencil; but so long as I can move my hand I will continue to set down our experiences and impressions, for, since we are the only men of the whole human race to see such things, it is of enormous importance that I should record them whilst they are fresh in my memory and before that fate which seems to be constantly impending does actually overtake us. Whether Zambo can at last take these letters to the river, or whether I shall myself in some miraculous way carry them back with me, or, finally, whether some daring explorer, coming upon our tracks with the advantage, perhaps, of a perfected monoplane, should find this bundle of manuscript, in any case I can see that what I am writing is destined to immortality as a classic of true adventure.

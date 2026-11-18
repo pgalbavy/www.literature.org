@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-17.html"
+url: "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-17.html"
 ---
 
 Blossom still knelt at the bedside with eyes of absorbed suffering and fingers that strayed flutteringly toward the bandaged head.

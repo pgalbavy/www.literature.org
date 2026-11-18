@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 7"
 weight: 30
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-07.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-07.html"
 ---
 
 Sir William staid only a week at Hunsford; but his visit was long enough to convince him of his daughter's being most comfortably settled, and of her possessing such a husband and such a neighbour as were not often met with. While Sir William was with them, Mr. Collins devoted his mornings to driving him out in his gig, and shewing him the country; but when he went away, the whole family returned to their usual employments, and Elizabeth was thankful to find that they did not see more of her cousin by the alteration, for the chief of the time between breakfast and dinner was now passed by him either at work in the garden, or in reading and writing, and looking out of window in his own book room, which fronted the road. The room in which the ladies sat was backwards. Elizabeth at first had rather wondered that Charlotte should not prefer the dining-parlour for common use; it was a better sized room, and had a pleasanter aspect; but she soon saw that her friend had an excellent reason for what she did, for Mr. Collins would undoubtedly have been much less in his own apartment, had they sat in one equally lively; and she gave Charlotte credit for the arrangement.

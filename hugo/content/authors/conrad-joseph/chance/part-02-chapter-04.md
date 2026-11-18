@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 4 - Anthony And Flora"
 weight: 11
-aliases:
-  - "/authors/conrad-joseph/chance/part-02-chapter-04.html"
+url: "/authors/conrad-joseph/chance/part-02-chapter-04.html"
 ---
 
 Marlow emerged out of the shadow of the book-case to get himself a cigar from a box which stood on a little table by my side. In the full light of the room I saw in his eyes that slightly mocking expression with which he habitually covers up his sympathetic impulses of mirth and pity before the unreasonable complications the idealism of mankind puts into the simple but poignant problem of conduct on this earth.

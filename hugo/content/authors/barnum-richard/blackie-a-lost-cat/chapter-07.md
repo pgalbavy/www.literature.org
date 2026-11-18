@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Blackie In A Train"
 weight: 7
-aliases:
-  - "/authors/barnum-richard/blackie-a-lost-cat/chapter-07.html"
+url: "/authors/barnum-richard/blackie-a-lost-cat/chapter-07.html"
 ---
 
 Shut up as she was in the basket, Blackie could see little of what was going on about her, or where she was being carried. There were little cracks in the basket, to be sure, but one can not see much through such cracks, especially when being carried along, and bobbing up and down.

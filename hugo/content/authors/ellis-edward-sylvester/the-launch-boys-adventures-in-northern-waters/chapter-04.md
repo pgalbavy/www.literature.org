@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A Strange Race"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-04.html"
 ---
 
 Suddenly the *Water Witch's* whistle sent out a series of piping toots.

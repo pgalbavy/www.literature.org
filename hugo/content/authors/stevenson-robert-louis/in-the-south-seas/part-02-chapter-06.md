@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 6 - Graveyard Stories"
 weight: 21
-aliases:
-  - "/authors/stevenson-robert-louis/in-the-south-seas/part-02-chapter-06.html"
+url: "/authors/stevenson-robert-louis/in-the-south-seas/part-02-chapter-06.html"
 ---
 
 With my superstitious friend, the islander, I fear I am not wholly frank, often leading the way with stories of my own, and being always a grave and sometimes an excited hearer. But the deceit is scarce mortal, since I am as pleased to hear as he to tell, as pleased with the story as he with the belief; and, besides, it is entirely needful. For it is scarce possible to exaggerate the extent and empire of his superstitions; they mould his life, they colour his thinking; and when he does not speak to me of ghosts, and gods, and devils, he is playing the dissembler and talking only with his lips. With thoughts so different, one must indulge the other; and I would rather that I should indulge his superstition than he my incredulity. Of one thing, besides, I may be sure: Let me indulge it as I please, I shall not hear the whole; for he is already on his guard with me, and the amount of the lore is boundless.

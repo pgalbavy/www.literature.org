@@ -1,8 +1,7 @@
 ---
 title: "Chapter 45"
 weight: 45
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-45.html"
+url: "/authors/austen-jane/mansfield-park/chapter-45.html"
 ---
 
 At about the week's end from his return to Mansfield, Tom's immediate danger was over, and he was so far pronounced safe as to make his mother perfectly easy; for being now used to the sight of him in his suffering, helpless state, and hearing only the best, and never thinking beyond what she heard, with no disposition for alarm and no aptitude at a hint, Lady Bertram was the happiest subject in the world for a little medical imposition. The fever was subdued; the fever had been his complaint; of course he would soon be well again. Lady Bertram could think nothing less, and Fanny shared her aunt's security, till she received a few lines from Edmund, written purposely to give her a clearer idea of his brother's situation, and acquaint her with the apprehensions which he and his father had imbibed from the physician with respect to some strong hectic symptoms, which seemed to seize the frame on the departure of the fever. They judged it best that Lady Bertram should not be harassed by alarms which, it was to be hoped, would prove unfounded; but there was no reason why Fanny should not know the truth. They were apprehensive for his lungs.

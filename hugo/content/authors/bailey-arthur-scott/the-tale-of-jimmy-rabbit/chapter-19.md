@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Jimmy Grows Too Cheeky"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-19.html"
 ---
 
 Mrs. Rabbit always tried to teach her children good manners. It was no easy matter, either, with four girls and three boys. But she was glad that she hadn't four boys and three girls, because her boys always stuffed their mouths when they ate.

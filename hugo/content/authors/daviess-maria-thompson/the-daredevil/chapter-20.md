@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - \"You Are--Myself!\""
 weight: 20
-aliases:
-  - "/authors/daviess-maria-thompson/the-daredevil/chapter-20.html"
+url: "/authors/daviess-maria-thompson/the-daredevil/chapter-20.html"
 ---
 
 And then in my wickedness I began to commit a desecration on the memory of my beautiful and honored Grandmamma Carruthers. I walked to that glass case in which reposed that gown of the beautiful flowered silk and took it therefrom and laid it upon a chair above the soiled riding breeches of corduroy I had so lately discarded. I opened the carved wooden box on the table underneath and took from it the silver slippers and the stockings of silk, also the lace fan and the silver band for the hair. Thereupon I walked to my mirror and commenced to make a toilet of great care but of a great rapidity.

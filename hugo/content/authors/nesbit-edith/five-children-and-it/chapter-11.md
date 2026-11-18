@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Last Wish"
 weight: 11
-aliases:
-  - "/authors/nesbit-edith/five-children-and-it/chapter-11.html"
+url: "/authors/nesbit-edith/five-children-and-it/chapter-11.html"
 ---
 
 Of course you, who see above that this is the eleventh (and last) chapter, know very well that the day of which this chapter tells must be the last on which Cyril, Anthea, Robert, and Jane will have a chance of getting anything out of the Psammead, or Sand-fairy.

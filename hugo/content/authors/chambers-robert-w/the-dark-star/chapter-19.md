@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Captain Of The Volhynia"
 weight: 20
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-19.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-19.html"
 ---
 
 The captain of the *Volhynia* had just come from the bridge and was taking a bite of late supper in his cabin when the orderly announced Neeland. He rose at once, offering a friendly hand:

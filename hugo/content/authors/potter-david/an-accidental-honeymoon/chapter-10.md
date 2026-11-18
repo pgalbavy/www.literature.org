@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/potter-david/an-accidental-honeymoon/chapter-10.html"
+url: "/authors/potter-david/an-accidental-honeymoon/chapter-10.html"
 ---
 
 When he awoke, it seemed to him that he had slept a scant half-hour, but his watch, which had come unscathed through the wettings of the night, showed that mid-afternoon had come.

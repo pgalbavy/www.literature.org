@@ -1,8 +1,7 @@
 ---
 title: "Adventure 6 - The Man With The Twisted Lip"
 weight: 6
-aliases:
-  - "/authors/doyle-arthur-conan/the-adventures-of-sherlock-holmes/adventure-06.html"
+url: "/authors/doyle-arthur-conan/the-adventures-of-sherlock-holmes/adventure-06.html"
 ---
 
 Isa Whitney, brother of the late Elias Whitney, D.D., Principal of the Theological College of St. George’s, was much addicted to opium. The habit grew upon him, as I understand, from some foolish freak when he was at college; for having read De Quincey’s description of his dreams and sensations, he had drenched his tobacco with laudanum in an attempt to produce the same effects. He found, as so many more have done, that the practice is easier to attain than to get rid of, and for many years he continued to be a slave to the drug, an object of mingled horror and pity to his friends and relatives. I can see him now, with yellow, pasty face, drooping lids, and pin-point pupils, all huddled in a chair, the wreck and ruin of a noble man.

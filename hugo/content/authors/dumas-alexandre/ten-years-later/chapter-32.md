@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - Athos And D'artagnan Meet Once More At The Hostelry Of The Corne Du Cerf"
 weight: 32
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-32.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-32.html"
 ---
 
 The king of England made his entree into Dover with great pomp, as he afterwards did in London. He had sent for his brothers; he had brought over his mother and sister. England had been for so long a time given up to herself - that is to say, to tyranny, mediocrity, and nonsense - that this return of Charles II., whom the English only knew as the son of the man whose head they had cut off, was a festival for the three kingdoms. Consequently, all the good wishes, all the acclamations which accompanied his return, struck the young king so forcibly that he stooped and whispered in the ear of James of York, his younger brother, "In truth, James, it seems to have been our own fault that we were so long absent from a country where we are so much beloved!" The pageant was magnificent. Beautiful weather favored the solemnity. Charles had regained all his youth, all his good humor; he appeared to be transfigured; hearts seemed to smile on him like the sun. Amongst this noisy crowd of courtiers and worshippers, who did not appear to remember they had conducted to the scaffold at Whitehall the father of the new king, a man, in the garb of a lieutenant of musketeers, looked, with a smile upon his thin, intellectual lips, sometimes at the people vociferating their blessings, and sometimes at the prince, who pretended emotion, and who bowed most particularly to the women, whose bouquets fell beneath his horse's feet.

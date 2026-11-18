@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Terrible Person"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-01.html"
 ---
 
 THE rats and the mice thought that Miss Kitty Cat was a terrible person. She was altogether too fond of hunting them. They agreed, however, that in one way it was pleasant to have her about the farmhouse. When she washed her face, while sitting on the doorsteps, they knew--so they said!--that it was going to rain. And then Mrs. Rat never would let her husband leave home without taking his umbrella.

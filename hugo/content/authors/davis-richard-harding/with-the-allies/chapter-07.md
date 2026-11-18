@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Spirit Of The English"
 weight: 8
-aliases:
-  - "/authors/davis-richard-harding/with-the-allies/chapter-07.html"
+url: "/authors/davis-richard-harding/with-the-allies/chapter-07.html"
 ---
 
 When I left England for home I had just returned from France and had motored many miles in both countries. Everywhere in this greatest crisis of the century I found the people of England showing the most undaunted and splendid spirit. To their common enemy they are presenting an unbroken front. The civilian is playing his part just as loyally as the soldier, the women as bravely as the men.

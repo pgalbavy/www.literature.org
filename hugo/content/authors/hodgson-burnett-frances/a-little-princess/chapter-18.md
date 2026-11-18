@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - \u0026quot;I Tried Not To Be\u0026quot;"
 weight: 19
-aliases:
-  - "/authors/hodgson-burnett-frances/a-little-princess/chapter-18.html"
+url: "/authors/hodgson-burnett-frances/a-little-princess/chapter-18.html"
 ---
 
 It was pretty, comfortable Mrs. Carmichael who explained everything. She was sent for at once, and came across the square to take Sara into her warm arms and make clear to her all that had happened. The excitement of the totally unexpected discovery had been temporarily almost overpowering to Mr. Carrisford in his weak condition.

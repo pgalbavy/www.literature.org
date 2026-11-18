@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Reddy Is Sure Granny Has Lost Her Senses"
 weight: 3
-aliases:
-  - "/authors/burgess-thornton-w/old-granny-fox/chapter-03.html"
+url: "/authors/burgess-thornton-w/old-granny-fox/chapter-03.html"
 ---
 
 Perhaps 'tis just as well that we  

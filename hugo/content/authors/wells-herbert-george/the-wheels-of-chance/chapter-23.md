@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-23.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-23.html"
 ---
 
 The ostler (being a fool) rushed violently down the road vociferating after them. Then he returned panting to the Vicuna Hotel, and finding a group of men outside the entrance, who wanted to know what was UP, stopped to give them the cream of the adventure. That gave the fugitives five minutes. Then pushing breathlessly into the bar, he had to make it clear to the barmaid what the matter was, and the 'gov'nor' being out , they spent some more precious time wondering 'what--EVER' was to be done! in which the two customers returning from outside joined with animation. There were also moral remarks and other irrelevant contributions. There were conflicting ideas of telling the police and pursuing the flying couple on a horse. That made ten minutes. Then Stephen, the waiter, who had shown Hoopdriver up, came down and lit wonderful lights and started quite a fresh discussion by the simple question "WHICH?" That turned ten minutes into a quarter of an hour. And in the midst of this discussion, making a sudden and awestricken silence, appeared Bechamel in the hall beyond the bar, walked with a resolute air to the foot of the staircase, and passed out of sight. You conceive the backward pitch of that exceptionally shaped cranium? Incredulous eyes stared into one another's in the bar, as his paces, muffled by the stair carpet, went up to the landing, turned, reached the passage and walked into the dining-room overhead.

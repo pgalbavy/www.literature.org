@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-25.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-25.html"
 ---
 
 Geraldine welcomed her unexpected visitor that afternoon cordially enough but a little shyly.

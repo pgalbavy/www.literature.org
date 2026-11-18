@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - The Yankee and the King Travel Incognito"
 weight: 28
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-27.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-27.html"
 ---
 
 ABOUT bedtime I took the king to my private quarters to cut his hair and help him get the hang of the lowly raiment he was to wear. The high classes wore their hair banged across the forehead but hanging to the shoulders the rest of the way around, whereas the lowest ranks of commoners were banged fore and aft both; the slaves were bangless, and allowed their hair free growth. So I inverted a bowl over his head and cut away all the locks that hung below it. I also trimmed his whiskers and mustache until they were only about a half-inch long; and tried to do it inartistically, and succeeded. It was a villainous disfigurement. When he got his lubberly sandals on, and his long robe of coarse brown linen cloth, which hung straight from his neck to his ankle-bones, he was no longer the comeliest man in his kingdom, but one of the unhandsomest and most commonplace and unattractive. We were dressed and barbered alike, and could pass for small farmers, or farm bailiffs, or shepherds, or carters; yes, or for village artisans, if we chose, our costume being in effect universal among the poor, because of its strength and cheapness. I don't mean that it was really cheap to a very poor person, but I do mean that it was the cheapest material there was for male attire -- manufactured material, you understand.

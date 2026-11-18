@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Strange Incense Burns"
 weight: 11
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-11.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-11.html"
 ---
 
 AS Tarzan carried the dead Bolgani from the village of the Gomangani, he set his steps in the direction of the building he had seen from the rim of the valley, the curiosity of the man overcoming the natural caution of the beast. He was traveling up wind and the odors wafted down to his nostrils told him that he was approaching the habitat of the Bolgani. Intermingled with the scent spoor of the gorilla-men was that of Gomangani and the odor of cooked food, and the suggestion of a heavily sweet scent, which the ape-man could connect only with burning incense, though it seemed impossible that such a fragrance could emanate from the dwellings of the Bolgani. Perhaps it came from the great edifice he had seen—a building which must have been constructed by human beings, and in which human beings might still dwell, though never among the multitudinous odors that assailed his nostrils did he once catch the faintest suggestion of the man scent of whites.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Jo Meets Apollyon"
 weight: 8
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-08.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-08.html"
 ---
 
 "Girls, where are you going?" asked Amy, coming into their room one Saturday afternoon, and finding them getting ready to go out with an air of secrecy which excited her curiosity.

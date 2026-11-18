@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - My Lady Dunstanwolde Sits Late Alone And Writes"
 weight: 19
-aliases:
-  - "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-18.html"
+url: "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-18.html"
 ---
 
 That she must leave the Panelled Parlour at her usual hour, or attract attention by doing that to which her household was unaccustomed, she well knew, her manner of life being ever stately and ceremonious in its regularity. When she dined at home she and Anne partook of their repast together in the large dining-room, the table loaded with silver dishes and massive glittering glass, their powdered, gold-laced lacqueys in attendance, as though a score of guests had shared the meal with them. Since her lord's death there had been nights when her ladyship had sat late writing letters and reading documents pertaining to her estates, the management of which, though in a measure controlled by stewards and attorneys, was not left to them, as the business of most great ladies is generally left to others. All papers were examined by her, all leases and agreements clearly understood before she signed them, and if there were aught unsatisfactory, both stewards and lawyers were called to her presence to explain.

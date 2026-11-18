@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Drift Of The Letaba"
 weight: 14
-aliases:
-  - "/authors/buchan-john/prester-john/chapter-13.html"
+url: "/authors/buchan-john/prester-john/chapter-13.html"
 ---
 
 The dusk was gathering fast as we neared the stream. From the stagnant reaches above and below a fine white mist was rising, but the long shallows of the ford were clear. My heart was beginning to flutter wildly, but I kept a tight grip on myself and prayed for patience. As I stared into the evening my hopes sank. I had expected, foolishly enough, to see on the far bank some sign of my friends, but the tall bush was dead and silent.

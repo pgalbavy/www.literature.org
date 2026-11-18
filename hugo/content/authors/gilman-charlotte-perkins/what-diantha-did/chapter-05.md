@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/gilman-charlotte-perkins/what-diantha-did/chapter-05.html"
+url: "/authors/gilman-charlotte-perkins/what-diantha-did/chapter-05.html"
 ---
 
 When young Mrs. Weatherstone swept her trailing crepe from the automobile to her friend's door, it was opened by a quick, soft-footed maid with a pleasant face, who showed her into a parlor, not only cool and flower-lit, but having that fresh smell that tells of new-washed floors.

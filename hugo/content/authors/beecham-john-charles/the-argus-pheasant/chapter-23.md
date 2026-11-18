@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Ah Sing's Vengeance"
 weight: 24
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-23.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-23.html"
 ---
 
 Two days, whose monotony was varied only by occasional visits from one or another of their jailers, passed in this way. Peter Gross's faint hope that they might be able to escape by overpowering the Chinamen, while the latter brought them their meals, faded; the jailers had evidently been particularly cautioned against such an attempt and were on their guard.

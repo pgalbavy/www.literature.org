@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Who Was Greedy?"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-19.html"
 ---
 
 Reddy Woodpecker was very angry with Cuffy Bear. He thought that when they hunted grubs together it was only fair that they should divide the game. So far Cuffy had taken all but one. And that was one that he had overlooked.

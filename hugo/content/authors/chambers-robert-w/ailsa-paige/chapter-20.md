@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/chambers-robert-w/ailsa-paige/chapter-20.html"
+url: "/authors/chambers-robert-w/ailsa-paige/chapter-20.html"
 ---
 
 They told her that Berkley had gone up the hill toward the firing line.

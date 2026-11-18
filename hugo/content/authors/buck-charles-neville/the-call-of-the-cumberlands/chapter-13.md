@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-13.html"
+url: "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-13.html"
 ---
 
 The boy from Misery rode slowly toward Hixon. At times, the moon struggled out and made the shadows black along the way. At other times, it was like riding in a huge caldron of pitch. When he passed into that stretch of country at whose heart Jesse Purvy dwelt, he raised his voice in song. His singing was very bad, and the ballad lacked tune, but it served its purpose of saving him from the suspicion of furtiveness. Though the front of the house was blank, behind its heavy shutters he knew that his coming might be noted, and night-riding at this particular spot might be misconstrued in the absence of frank warning.

@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 8"
 weight: 25
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-03-chapter-08.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-03-chapter-08.html"
 ---
 
 A further account of Glubbdubdrib. Ancient and modern history corrected.

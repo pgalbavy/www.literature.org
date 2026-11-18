@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43"
 weight: 43
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-43.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-43.html"
 ---
 
 Gravity Gimp and Lieutenant Fred Godfrey were in high spirits, for each had been highly favored by fortune. They were beyond sight of the camp-fire and had thrown the pursuing Iroquois off the track, so that, with ordinary care, they were out of personal danger.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Gold Coin"
 weight: 7
-aliases:
-  - "/authors/haggard-h-rider/benita-an-african-romance/chapter-06.html"
+url: "/authors/haggard-h-rider/benita-an-african-romance/chapter-06.html"
 ---
 
 Six weeks had gone by since the eventful evening of Benita’s arrival at Rooi Krantz. Now the spring had fully come, the veld was emerald with grass and bright with flowers. In the kloof behind the house trees had put out their leaves, and the mimosas were in bloom, making the air heavy with their scent. Amongst them the ringdoves nested in hundreds, and on the steep rocks of the precipice the red-necked vultures fed their young. Along the banks of the stream and round the borders of the lake the pig-lilies bloomed, a sheet of white. All the place was beautiful and full of life and hope. Nothing seemed dead and hopeless except Benita’s heart.

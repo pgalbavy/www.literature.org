@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Buster Bear Is Greatly Puzzled"
 weight: 3
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-03.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-03.html"
 ---
 
 Buster Bear hadn't enjoyed himself so much since he came to the Green Forest to live. His fun began when he surprised Little Joe Otter on the bank of a little pool in the Laughing Brook and Little Joe was so frightened that he dropped a fat trout he had just caught. It had seemed like a great joke to Buster Bear, and he had chuckled over it all the time he was eating the fat trout. When he had finished it, he started on to do some fishing himself.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 120 - The Deck Toward the End of the First Night Watch"
 weight: 120
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-120.html"
+url: "/authors/melville-herman/moby-dick/chapter-120.html"
 ---
 
 Ahab standing by the helm. Starbuck approaching him.

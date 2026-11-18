@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-22.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-22.html"
 ---
 
 I knew what it was as she came toward me. For ten minutes I had watched her talking earnestly with the engineer, and now, with a sign for silence, I drew her out of earshot of the helmsman. Her face was white and set; her large eyes, larger than usual what of the purpose in them, looked penetratingly into mine. I felt rather timid and apprehensive, for she had come to search Humphrey Van Weyden's soul, and Humphrey Van Weyden had nothing of which to be particularly proud since his advent on the Ghost.

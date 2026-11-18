@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Extra-Lucid"
 weight: 3
-aliases:
-  - "/authors/leblanc-maurice/the-secret-tomb/chapter-03.html"
+url: "/authors/leblanc-maurice/the-secret-tomb/chapter-03.html"
 ---
 
 This last blow re-doubled the uneasiness of Count and Countess; and they took counsel in a low voice for a moment with their cousins d'Estreicher and Raoul Davernoie.

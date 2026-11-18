@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 26"
 weight: 26
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-02-chapter-26.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-02-chapter-26.html"
 ---
 
 Evening approached by the time Fielding and Miss Quested met and had the first of their numerous curious conversations. He had hoped, when he woke up, to find someone had fetched her away, but the College remained isolated from the rest of the universe. She asked whether she could have “a sort of interview,” and, when he made no reply, said, “Have you any explanation of my extraordinary behaviour?”

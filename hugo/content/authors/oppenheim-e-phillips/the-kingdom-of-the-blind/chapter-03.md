@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-03.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-03.html"
 ---
 
 A few rays of fugitive sunshine were brightening Piccadilly when Geraldine and her escort left the Ritz. The momentary depression occasioned by the dramatic little episode of a few minutes ago, seemed already to have passed from the girl's manner. She walked on, humming to herself. As they paused to cross the road, she glanced as though involuntarily at her companion. His dark morning clothes and rather abstracted air created an atmosphere of sombreness about him of which she was suddenly conscious.

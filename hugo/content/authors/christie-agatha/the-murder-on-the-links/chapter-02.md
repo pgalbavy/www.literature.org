@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - An Appeal For Help"
 weight: 2
-aliases:
-  - "/authors/christie-agatha/the-murder-on-the-links/chapter-02.html"
+url: "/authors/christie-agatha/the-murder-on-the-links/chapter-02.html"
 ---
 
 It was five minutes past nine when I entered our joint sitting-room for breakfast on the following morning.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Reddy Fox Grows Curious"
 weight: 23
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-23.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-23.html"
 ---
 
 *DANNY MEADOW MOUSE* had sat perfectly still for a long time inside the old tomato can in which he had found a refuge from Redtail the Hawk. He didn’t dare so much as put his head out for a look around, lest Redtail should be circling overhead ready to pounce on him.

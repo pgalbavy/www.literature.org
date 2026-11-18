@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - I Pledge My Word"
 weight: 6
-aliases:
-  - "/authors/buchan-john/sir-quixote-of-the-moors/chapter-05.html"
+url: "/authors/buchan-john/sir-quixote-of-the-moors/chapter-05.html"
 ---
 
 Of my life at Lindean for the next three days I have no clear remembrance. The weather was dry and languid, as often follows a spell of rain, and the long hills which huddled around the house looked near and imminent. The place was so still that if one shouted it seemed almost a profanation. 'Twas so Sabbath-like that I almost came to dislike it. Indeed, I doubt I should have found it irksome had there not been a brawling stream in the glen, which kept up a continuous dashing and chattering. It seemed the one link between me and that far-away world in which not long agone I had been a dweller.

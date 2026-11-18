@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Missing"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-06.html"
 ---
 
 It is at such times that a person realizes his helplessness and utter dependence on the great Father of all. Too much are we prone to forget such dependence, when all goes well, and too often the prayer for help and guidance is put off until too late.

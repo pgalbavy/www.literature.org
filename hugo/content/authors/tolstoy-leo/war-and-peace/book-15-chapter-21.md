@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 21"
 weight: 338
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-21.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-21.html"
 ---
 
 Seven years had passed. The storm-tossed sea of European history had subsided within its shores and seemed to have become calm. But the mysterious forces that move humanity (mysterious because the laws of their motion are unknown to us) continued to operate.

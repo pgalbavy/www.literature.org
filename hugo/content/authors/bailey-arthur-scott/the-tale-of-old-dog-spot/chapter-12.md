@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Righting A Wrong"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-12.html"
 ---
 
 Poor Spot! He felt so mournful that he lifted up his muzzle and howled. Farmer Green's wife had just ordered him out of the kitchen. She thought he had been teasing Miss Kitty Cat. And instead he had kept Miss Kitty from tasting the leg of mutton that lay on the kitchen table.

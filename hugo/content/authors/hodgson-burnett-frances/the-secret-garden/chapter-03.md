@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Across The Moor"
 weight: 3
-aliases:
-  - "/authors/hodgson-burnett-frances/the-secret-garden/chapter-03.html"
+url: "/authors/hodgson-burnett-frances/the-secret-garden/chapter-03.html"
 ---
 
 She slept a long time, and when she awakened Mrs. Medlock had bought a lunchbasket at one of the stations and they had some chicken and cold beef and bread and butter and some hot tea. The rain seemed to be streaming down more heavily than ever and everybody in the station wore wet and glistening waterproofs. The guard lighted the lamps in the carriage, and Mrs. Medlock cheered up very much over her tea and chicken and beef. She ate a great deal and afterward fell asleep herself, and Mary sat and stared at her and watched her fine bonnet slip on one side until she herself fell asleep once more in the corner of the carriage, lulled by the splashing of the rain against the windows. It was quite dark when she awakened again. The train had stopped at a station and Mrs. Medlock was shaking her.

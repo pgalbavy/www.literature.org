@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - In The Cellars Of The Opera"
 weight: 21
-aliases:
-  - "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-20.html"
+url: "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-20.html"
 ---
 
 "Your hand high, ready to fire!" repeated Raoul's companion quickly.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - And Heaven Beside"
 weight: 14
-aliases:
-  - "/authors/gilman-charlotte-perkins/what-diantha-did/chapter-14.html"
+url: "/authors/gilman-charlotte-perkins/what-diantha-did/chapter-14.html"
 ---
 
 They were married while the flowers were knee-deep over the sunny slopes and mesas, and the canyons gulfs of color and fragrance, and went for their first moon together to a far high mountain valley hidden among wooded peaks, with a clear lake for its central jewel.

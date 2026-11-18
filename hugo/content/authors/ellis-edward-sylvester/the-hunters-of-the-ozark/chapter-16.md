@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Around The Camp-Fire"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-16.html"
 ---
 
 Inasmuch as Terry and Fred had enough lunch left to furnish all that was wanted, Deerfoot decided not to hunt for any thing else. At that hour, when it was growing dark, it would have been hard to find any game; but he told them that at no great distance above, the tiny brook issued from a small lake, where he could easily get all the fish he wanted.

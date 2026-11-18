@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Sign Of Rain"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-17.html"
 ---
 
 There was a terrible hubbub in the henhouse. The Rooster squalled so loudly that he waked up every hen in the place. And when they heard him crying that a skunk had knocked him off his roost they were as frightened as he was, and set up a wild cackle. All but Henrietta Hen! She knew there was no skunk there.

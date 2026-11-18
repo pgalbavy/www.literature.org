@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 33
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-33.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-33.html"
 ---
 
 Custer’s gait showed no indication of the amount that he had drunk. He was a Pennington of Virginia, and he could carry his liquor like a gentleman. Even though he was aflame with the heat of vengeance, his movements were slow and deliberate. At the door he paused, and, turning, retraced his steps to the table where stood the bottle and the glass.

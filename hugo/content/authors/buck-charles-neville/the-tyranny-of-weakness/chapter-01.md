@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-01.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-01.html"
 ---
 
 They were types in embryo, but of course they did not know it. No more would a grain of wheat and a poppy seed dropping side-by-side in a fallow place reflect upon their destinies, though one might typify a working world's dependence for bread; the other a dreaming world's reliance for opium.

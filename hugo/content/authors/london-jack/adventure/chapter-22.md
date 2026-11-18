@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Gogoomy Finishes Along Kwaque Altogether"
 weight: 22
-aliases:
-  - "/authors/london-jack/adventure/chapter-22.html"
+url: "/authors/london-jack/adventure/chapter-22.html"
 ---
 
 "I wonder what has become of Tudor. It's two months since he disappeared into the bush, and not a word of him after he left Binu."

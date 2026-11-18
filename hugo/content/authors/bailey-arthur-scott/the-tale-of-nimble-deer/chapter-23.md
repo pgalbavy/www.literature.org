@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - How Nimble Helped"
 weight: 23
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-23.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-23.html"
 ---
 
 Billy Woodchuck and Fatty Coon had come early to Jimmy Rabbit's party. And Jimmy had told them to hang their hats and coats upon his new hat-rack--meaning Nimble Deer's antlers. But when they tried to do as they were bid they found that the antlers were beyond their reach.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Challenge"
 weight: 25
-aliases:
-  - "/authors/coolidge-dane/wunpost/chapter-25.html"
+url: "/authors/coolidge-dane/wunpost/chapter-25.html"
 ---
 
 If love begets love and deceit begets deceit, then Wunpost was repaid according to his merits when Wilhelmina laid claim to his dog. She did it in a way that was almost coquettish, for coquetry is a form of deceit; but in the morning, when he was gone, she put his dog on his trail and followed along behind on her mule. And this, of course, was rank treachery no less, for her purpose was to discover his mine. If she found it, she had decided in the small hours of the night, she would locate it and claim it all; and that would teach him not to make fun of honest poverty or to try to buy kisses with gold. Because kisses, as she knew, could never be true unless they were given for love; and love itself calls for respect, first of all--and who can respect a boaster?

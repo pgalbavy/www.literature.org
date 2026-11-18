@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Uniform"
 weight: 18
-aliases:
-  - "/authors/tarkington-booth/the-two-vanrevels/chapter-18.html"
+url: "/authors/tarkington-booth/the-two-vanrevels/chapter-18.html"
 ---
 
 Crailey was not the only man in Rouen who had been saying to himself all day that each accustomed thing he did was done for the last time. Many of his comrades went about with "Farewell, old friend," in their hearts, not only for the people, but for the usual things of life and the actions of habit, now become unexpectedly dear and sweet to know or to perform. So Tom Vanrevel, relieved of his hot uniform, loose as to collar, wearing a big dressing-gown, and stretched in a chair, watched the sunset from the western window of the dusty office, where he had dreamed through many sun-sets in summers past, and now took his leave of this old habit of his in silence, with a long cigar, considering the chances largely against his ever seeing the sun go down behind the long wooden bridge at the foot of Main Street again.

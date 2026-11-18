@@ -1,8 +1,7 @@
 ---
 title: "Book 8 - Chapter 5"
 weight: 150
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-08-chapter-05.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-08-chapter-05.html"
 ---
 
 Boris had not succeeded in making a wealthy match in Petersburg, so with the same object in view he came to Moscow. There he wavered between the two richest heiresses, Julie and Princess Mary. Though Princess Mary despite her plainness seemed to him more attractive than Julie, he, without knowing why, felt awkward about paying court to her. When they had last met on the old prince's name day, she had answered at random all his attempts to talk sentimentally, evidently not listening to what he was saying.

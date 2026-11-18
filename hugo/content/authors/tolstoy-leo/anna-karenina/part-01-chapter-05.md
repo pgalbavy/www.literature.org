@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 5"
 weight: 5
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-05.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-05.html"
 ---
 
 Stepan Arkadyevitch had learned easily at school, thanks to his excellent abilities, but he had been idle and mischievous, and therefore was one of the lowest in his class. but in spite of his habitually dissipated mode of life, his inferior grade in the service, and his comparative youth, he occupied the honorable and lucrative position of president of one of the government board at Moscow. This post he had received through his sister Anna's husband, Alexey Alexandrovitch Karenin, who held one of the most important positions in the ministry to whose department the Moscow office belonged. But if Karenina had not got his brother-in-law this berth, then through a hundred other personages--brothers, sister, cousins, uncles, and aunts--Stiva Oblonsky would have received this post, or some other similar one, together with the salary of six thousand absolutely needful for thim, as his affairs, in spite of his wife's considerably property, were in an embarrassed condition.

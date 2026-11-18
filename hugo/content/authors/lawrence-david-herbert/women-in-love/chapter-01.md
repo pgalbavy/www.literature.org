@@ -1,8 +1,7 @@
 ---
 title: "chapter 01"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-01.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-01.html"
 ---
 
 Ursula and Gudrun Brangwen sat one morning in the window-bay of their father's house in Beldover, working and talking. Ursula was stitching a piece of brightly-coloured embroidery, and Gudrun was drawing upon a board which she held on her knee. They were mostly silent, talking as their thoughts strayed through their minds.

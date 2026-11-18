@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Cavalry Escort"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-07.html"
 ---
 
 The stage which left Santa Fe on that beautiful spring morning, bound for Fort Havens on the journey heretofore referred to, carried two passengers. One was Corporal Hugg, a soldier who had been engaged a dozen years upon the plains—a rough, good-natured, chivalrous fellow, who, having lost a leg in the service of his country, enjoyed a pension, and had become a sort of family servant in the employ of Colonel Chadmund. He was devotedly attached to little Ned and his greatest delight was in watching or joining him at play, exercising a surveillance over him something like that which a great, shaggy Newfoundland holds over a pet child. The corporal was able to stump about upon his cork leg, and when the time came for the lad to make the journey through the mountains to Fort Havens—a journey which he had been looking impatiently forward to for fully a year—it followed as a natural sequence that the corporal should bear him company.

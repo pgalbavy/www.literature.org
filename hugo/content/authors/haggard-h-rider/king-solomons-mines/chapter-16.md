@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Place Of Death"
 weight: 17
-aliases:
-  - "/authors/haggard-h-rider/king-solomons-mines/chapter-16.html"
+url: "/authors/haggard-h-rider/king-solomons-mines/chapter-16.html"
 ---
 
 It was already dark on the third day after the scene described in the previous chapter when we camped in some huts at the foot of the "Three Witches," as the triangle of mountains is called to which Solomon's Great Road runs. Our party consisted of our three selves and Foulata, who waited on us--especially on Good--Infadoos, Gagool, who was borne along in a litter, inside which she could be heard muttering and cursing all day long, and a party of guards and attendants. The mountains, or rather the three peaks of the mountain, for the mass was evidently the result of a solitary upheaval, were, as I have said, in the form of a triangle, of which the base was towards us, one peak being on our right, one on our left, and one straight in front of us. Never shall I forget the sight afforded by those three towering peaks in the early sunlight of the following morning. High, high above us, up into the blue air, soared their twisted snow-wreaths. Beneath the snow-line the peaks were purple with heaths, and so were the wild moors that ran up the slopes towards them. Straight before us the white ribbon of Solomon's Great Road stretched away uphill to the foot of the centre peak, about five miles from us, and there stopped. It was its terminus.

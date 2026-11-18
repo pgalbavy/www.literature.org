@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-27.html"
+url: "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-27.html"
 ---
 
 The volume of the singing out there and the flare of the ruddy torches, left no doubt as to the substantial strength of the force which had swept aside such legal technicalities as state jurisdiction.

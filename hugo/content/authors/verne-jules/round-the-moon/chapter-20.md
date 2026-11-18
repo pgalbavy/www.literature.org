@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/verne-jules/round-the-moon/chapter-20.html"
+url: "/authors/verne-jules/round-the-moon/chapter-20.html"
 ---
 
 Well, lieutenant, and our soundings?"

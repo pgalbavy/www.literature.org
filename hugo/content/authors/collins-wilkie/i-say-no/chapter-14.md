@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Mrs. Mosey"
 weight: 14
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-14.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-14.html"
 ---
 
 Emily's first act--after the discovery of Mrs. Ellmother's incomprehensible disappearance--was to invite the new servant to follow her into the sitting-room.

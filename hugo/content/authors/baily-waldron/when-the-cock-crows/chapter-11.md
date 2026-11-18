@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Awakening Of Ichabod"
 weight: 11
-aliases:
-  - "/authors/baily-waldron/when-the-cock-crows/chapter-11.html"
+url: "/authors/baily-waldron/when-the-cock-crows/chapter-11.html"
 ---
 
 The door to the fisherman's shack stood ajar, and in the opening showed the form of a man. As the light from the newly risen moon fell full upon the wrinkled features of the face, a pleased, contented smile was to be seen as he placidly puffed his corncob pipe and blew rings before him in the quiet, heavy, midnight air. It was Captain Ichabod, home again after the momentous happenings of the day when the dead body was found in the wreck of The Isabel.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - A Block In The Wheel"
 weight: 16
-aliases:
-  - "/authors/greene-homer/burnham-breaker/chapter-16.html"
+url: "/authors/greene-homer/burnham-breaker/chapter-16.html"
 ---
 
 At half-past one o'clock people began to loiter into the court-house at Wilkesbarre; at two the court-room was full. They were there, the most of them, to hear the close of the now celebrated Burnham case.

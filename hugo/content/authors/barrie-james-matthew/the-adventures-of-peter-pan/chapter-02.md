@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Shadow"
 weight: 2
-aliases:
-  - "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-02.html"
+url: "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-02.html"
 ---
 
 Mrs. Darling screamed, and, as if in answer to a bell, the door opened, and Nana entered, returned from her evening out. She growled and sprang at the boy, who leapt lightly through the window. Again Mrs. Darling screamed, this time in distress for him, for she thought he was killed, and she ran down into the street to look for his little body, but it was not there; and she looked up, and in the black night she could see nothing but what she thought was a shooting star.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Sunrise"
 weight: 18
-aliases:
-  - "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-18.html"
+url: "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-18.html"
 ---
 
 THREE months later the war seemed drawing toward an end, and Christie was dreaming happy dreams of home and rest with David, when, as she sat one day writing a letter full of good news to the wife of a patient, a telegram was handed to her, and tearing it open she read:

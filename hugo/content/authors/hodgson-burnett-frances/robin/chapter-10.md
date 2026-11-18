@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-10.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-10.html"
 ---
 
 Mrs. Bennett's cottage on the edge of Mersham Wood seemed to Robin when she first saw it to be only a part of a fairy tale. It is true that only in certain bits of England and in pictures in books of fairy tales did one see cottages of its kind, and in them always lived with their grandmothers--in the fairy stories as Robin remembered--girls who would in good time be discovered by wandering youngest sons of fairy story kings. The wood of great oaks and beeches spread behind and at each side of it and seemed to have no end in any land on earth. It nestled against its primæval looking background in a nook of its own. Under the broad branches of the oaks and beeches tall ferns grew so thick that they formed a forest of their own--a lower, lighter, lacy forest where foxglove spires pierced here and there, and rabbits burrowed and sniffed and nibbled, and pheasants hid nests and sometimes sprang up rocketting startlingly. Birds were thick in the wood and trilled love songs, or twittered and sang low in the hour before their bedtime, filling the twilight with clear adorable sounds. The fairy-tale cottage was whitewashed and its broad eaved roof was thatched. Hollyhocks stood in haughty splendour against its walls and on either side its path. The latticed windows were diamond-paned and their inside ledges filled with flourishing fuchsias and trailing white campanula, and mignonette. The same flowers grew thick in the crowded blooming garden. And there were nests in the hawthorn hedge. And there was a small wicket gate.

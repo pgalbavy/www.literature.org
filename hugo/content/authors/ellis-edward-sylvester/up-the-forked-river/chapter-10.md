@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-10.html"
 ---
 
 All this seemed incredible and yet a little reflection convinced Major Starland that the sagacious native was right. The American had two treacherous enemies to meet in the Dictators who professed to be his friends.

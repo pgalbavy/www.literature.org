@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Grandfather Mole's Visitor"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-16.html"
 ---
 
 WHATEVER Grandfather Mole's neighbors might say of him, they never could claim that he was lazy. He was always busy. When he wasn't eating or sleeping you could be quite sure that he was digging. He never seemed to be satisfied with his house, but was forever making what he called "improvements." If there was one thing he liked, it was plenty of halls. He had halls running in every direction. And since a person could never tell in which one Grandfather Mole might be, visitors might roam about his dark galleries a long time without finding him.

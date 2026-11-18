@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 6"
 weight: 25
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-04-chapter-06.html"
+url: "/authors/cather-willa/o-pioneers/part-04-chapter-06.html"
 ---
 
 The Church has always held that life is for the living. On Saturday, while half the village of Sainte-Agnes was mourning for Amedee and preparing the funeral black for his burial on Monday, the other half was busy with white dresses and white veils for the great confirmation service to-morrow, when the bishop was to confirm a class of one hundred boys and girls. Father Duchesne divided his time between the living and the dead. All day Saturday the church was a scene of bustling activity, a little hushed by the thought of Amedee. The choir were busy rehearsing a mass of Rossini, which they had studied and practised for this occasion. The women were trimming the altar, the boys and girls were bringing flowers.

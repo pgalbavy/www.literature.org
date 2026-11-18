@@ -1,8 +1,7 @@
 ---
 title: "Chapter 70 - The Skiff \u0026quot;Lightning.\u0026quot;"
 weight: 70
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-70.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-70.html"
 ---
 
 D'Artagnan had judged correctly; Mordaunt felt that he had no time to lose, and he lost none. He knew the rapidity of decision and action that characterized his enemies and resolved to act with reference to that. This time the musketeers had an adversary who was worthy of them.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - Of The Principles Of Christian Politiques"
 weight: 34
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-32.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-32.html"
 ---
 
 The Word Of God Delivered By Prophets Is The Main Principle Of Christian Politiques I have derived the Rights of Soveraigne Power, and the duty of Subjects hitherto, from the Principles of Nature onely; such as Experience has found true, or Consent (concerning the use of words) has made so; that is to say, from the nature of Men, known to us by Experience, and from Definitions (of such words as are Essentiall to all Politicall reasoning) universally agreed on. But in that I am next to handle, which is the Nature and Rights of a CHRISTIAN COMMON-WEALTH, whereof there dependeth much upon Supernaturall Revelations of the Will of God; the ground of my Discourse must be, not only the Naturall Word of God, but also the Propheticall.

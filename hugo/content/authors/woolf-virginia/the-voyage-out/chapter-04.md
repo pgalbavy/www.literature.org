@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/woolf-virginia/the-voyage-out/chapter-04.html"
+url: "/authors/woolf-virginia/the-voyage-out/chapter-04.html"
 ---
 
 Next morning Clarissa was up before anyone else. She dressed, and was out on deck, breathing the fresh air of a calm morning, and, making the circuit of the ship for the second time, she ran straight into the lean person of Mr. Grice, the steward. She apologised, and at the same time asked him to enlighten her: what were those shiny brass stands for, half glass on the top? She had been wondering, and could not guess. When he had done explaining, she cried enthusiastically:

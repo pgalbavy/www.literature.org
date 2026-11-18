@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 15 - An Indian's Treachery"
 weight: 33
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-15.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-15.html"
 ---
 
 THE Brazos pony had traveled far that day but for only a trifle over ten miles had he carried a rider upon his back. He was, consequently, far from fagged as he leaped forward to the lifted reins and tore along the dusty river trail back in the direction of Orobo.

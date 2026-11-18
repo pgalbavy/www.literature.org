@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - At The Cow At Wichben"
 weight: 30
-aliases:
-  - "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-29.html"
+url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-29.html"
 ---
 
 The happiness he had dreamed of was given to him; nay, he knew joy and tenderness even more high and sweet than his fancy had painted. As Camylott had been in his childhood so he saw it again--the most beauteous home in England and the happiest, its mistress the fairest woman and the most nobly loving. As his own father and mother had found life a joyful thing and their world full of warm hearts and faithful friends, so he and she he loved, found it together. The great house was filled once more with guests and pleasures as in the olden time, the stately apartments were thrown open for entertainment, gay cavalcades came and went from town, the forests were hunted, the moors shot over by sportsmen, and the lady who was hostess and chatelaine won renown as well as hearts, since each party of guests she entertained went back to the homes they came from, proclaiming to all her wit and gracious charm.

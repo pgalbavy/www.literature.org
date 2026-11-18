@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 11 - In The Dark"
 weight: 44
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-03-chapter-11.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-03-chapter-11.html"
 ---
 
 There was no sleep for Bradley Headstone on that night when Eugene Wrayburn turned so easily in his bed; there was no sleep for little Miss Peecher. Bradley consumed the lonely hours, and consumed himself in haunting the spot where his careless rival lay a dreaming; little Miss Peecher wore them away in listening for the return home of the master of her heart, and in sorrowfully presaging that much was amiss with him. Yet more was amiss with him than Miss Peecher’s simply arranged little work-box of thoughts, fitted with no gloomy and dark recesses, could hold. For, the state of the man was murderous.

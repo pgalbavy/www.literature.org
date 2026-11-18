@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Another Strange Chuck"
 weight: 9
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-09.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-09.html"
 ---
 
 Johnny Chuck awoke just as jolly, round, red Mr. Sun pulled his own nightcap off. At first Johnny couldn't think where he was. He blinked and blinked. Then he rolled over. "Ouch!" cried Johnny Chuck. You see he was so stiff and sore from his great fight the day before, that it hurt to roll over. But when he felt the smart of those wounds, he remembered where he was. He was in the old hollow log that he had found on the edge of the Green Meadows just before dark. It was the first time that Johnny had ever slept anywhere, excepting underground, and as he lay blinking his eyes, it seemed very strange and rather nice, too.

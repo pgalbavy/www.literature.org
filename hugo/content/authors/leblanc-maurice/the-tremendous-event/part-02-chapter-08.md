@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 8 - The High Commissioner For The New Territories"
 weight: 17
-aliases:
-  - "/authors/leblanc-maurice/the-tremendous-event/part-02-chapter-08.html"
+url: "/authors/leblanc-maurice/the-tremendous-event/part-02-chapter-08.html"
 ---
 
 "My fault! . . . Now aren't you convinced, as I am, that this is a ramification of my fault, ending in a cul-de-sac? So that all the eruptive forces immobilized in the direction of this blind alley have found a favourable position . . . so that all these forces . . . you grasp the idea, don't you?"

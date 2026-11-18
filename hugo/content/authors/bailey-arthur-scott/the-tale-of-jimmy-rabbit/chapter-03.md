@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - May Baskets"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-03.html"
 ---
 
 Jimmy Rabbit was very busy. He was getting ready for May Day. And he intended to hang two May baskets. One of them was already finished, and filled with things that Jimmy himself liked--such as strips of tender bark from Farmer Green's young fruit trees, and bits of turnip from his vegetable cellar. You might almost think that Farmer Green himself ought to have hung that basket. But Jimmy Rabbit never once thought of such a thing. He expected to hang it on the door of a neighbor's house, where there lived a young girl-rabbit. Jimmy had made that basket the best he knew how.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38"
 weight: 38
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-38.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-38.html"
 ---
 
 "I think my left side is going," Wolf Larsen wrote, the morning after his attempt to fire the ship. "The numbness is growing. I can hardly move my hand. You will have to speak louder. The last lines are going down."

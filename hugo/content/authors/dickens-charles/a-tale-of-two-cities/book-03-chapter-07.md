@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 7 - A Knock at the Door"
 weight: 37
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-07.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-07.html"
 ---
 
 "I HAVE SAVED HIM." It was not another of the dreams in which he had often come back; he was really here. And yet his wife trembled, and a vague but heavy fear was upon her.

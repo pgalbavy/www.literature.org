@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Mrs. Deer Explains"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-08.html"
 ---
 
 For the first time in his life Nimble felt quite grown up. He forgot that he had not yet lived a whole summer. He had made a suggestion to his mother which she had promptly acted upon. It had never happened before. And that was enough to cause him great pleasure.

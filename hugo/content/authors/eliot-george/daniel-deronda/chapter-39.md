@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39"
 weight: 39
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-39.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-39.html"
 ---
 
 "Vor den Wissenden sich stellen Sicher ist's in alien Fällen! Wenn du lange dich gequälet Weiss er gleich wo dir es fehlet; Auch auf Beifall darfst du hoffen, Denn er weiss wo du's getroffen," - GOETHE: West-östlicker Divan.

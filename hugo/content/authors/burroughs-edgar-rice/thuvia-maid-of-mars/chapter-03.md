@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Treachery"
 weight: 3
-aliases:
-  - "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/chapter-03.html"
+url: "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/chapter-03.html"
 ---
 
 The day following the coming of Vas Kor to the palace of the Prince of Helium great excitement reigned throughout the twin cities, reaching its climax in the palace of Carthoris. Word had come of the abduction of Thuvia of Ptarth from her father's court, and with it the veiled hint that the Prince of Helium might be suspected of considerable knowledge of the act and the whereabouts of the princess.

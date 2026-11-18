@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 6"
 weight: 7
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-01-chapter-06.html"
+url: "/authors/haggard-h-rider/cleopatra/book-01-chapter-06.html"
 ---
 
 OF THE INITIATION OF HARMACHIS; OF HIS VISIONS; OF HIS PASSING TO THE CITY THAT IS IN THE PLACE OF DEATH; AND OF THE DECLARATIONS OF ISIS, THE MESSENGER

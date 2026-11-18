@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - A Lock Of Hair"
 weight: 21
-aliases:
-  - "/authors/coolidge-dane/wunpost/chapter-21.html"
+url: "/authors/coolidge-dane/wunpost/chapter-21.html"
 ---
 
 It is no disgrace to flee the unknown, for Nature has made that an instinct; but the will to overcome conquers even this last of fears and steels a man's nerves to face anything. The heroes of antiquity set their lances against dragons and creatures that belched forth flame and smoke--brave Perseus slew the Gorgon, and Jason the brass-hooved bulls, and St. George and many another slew his "worm." But the dragons are all dead or driven to the depths of the sea, whence they rise up to chill men's blood; and those who conquer now fight only their memory, passed down in our fear of the unknown. And Perseus and Jason had gods and sorceresses to protect them, but Wunpost turned back alone.

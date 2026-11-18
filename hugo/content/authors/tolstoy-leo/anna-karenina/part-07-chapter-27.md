@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 27"
 weight: 216
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-27.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-27.html"
 ---
 
 "He has gone. It is over!" Anna said to herself, standing at the window; and in answer to this statement the impression of the darkness when the candle had flickered out, and of her fearful dream mingling into one, filled her heart with cold terror.

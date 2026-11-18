@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 4"
 weight: 27
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-04-chapter-04.html"
+url: "/authors/conrad-joseph/the-rescue/part-04-chapter-04.html"
 ---
 
 Lingard repeated it all to Mrs. Travers. Her courage, her intelligence, the quickness of her apprehension, the colour of her eyes and the intrepidity of her glance evoked in him an admiring enthusiasm. She stood by his side! Every moment that fatal illusion clung closer to his soul—like a garment of light—like an armour of fire.

@@ -1,8 +1,7 @@
 ---
 title: "Part 8 - Chapter 12"
 weight: 232
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-08-chapter-12.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-08-chapter-12.html"
 ---
 
 Levin strode along the highroad, absorbed not so much in his thoughts (he could not yet disentangle them) as in his spiritual condition, unlike anything he had experienced before.

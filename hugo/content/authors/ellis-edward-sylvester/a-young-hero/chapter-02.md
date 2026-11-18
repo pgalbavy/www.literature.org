@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Call To School"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/a-young-hero/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/a-young-hero/chapter-02.html"
 ---
 
 Fred Sheldon, as I have said, is the hero of this story.

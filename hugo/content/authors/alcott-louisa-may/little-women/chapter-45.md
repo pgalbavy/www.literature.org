@@ -1,8 +1,7 @@
 ---
 title: "Chapter 45 - Daisy And Demi"
 weight: 45
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-45.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-45.html"
 ---
 
 I cannot feel that I have done my duty as humble historian of the March family, without devoting at least one chapter to the two most precious and important members of it. Daisy and Demi had now arrived at years of discretion, for in this fast age babies of three or four assert their rights, and get them, too, which is more than many of their elders do. If there ever were a pair of twins in danger of being utterly spoiled by adoration, it was these prattling Brookes. Of course they were the most remarkable children ever born, as will be shown when I mention that they walked at eight months, talked fluently at twelve months, and at two years they took their places at table, and behaved with a propriety which charmed all beholders. At three, Daisy demanded a 'needler', and actually made a bag with four stitches in it. She likewise set up housekeeping in the sideboard, and managed a microscopic cooking stove with a skill that brought tears of pride to Hannah's eyes, while Demi learned his letters with his grandfather, who invented a new mode of teaching the alphabet by forming letters with his arms and legs, thus uniting gymnastics for head and heels. The boy early developed a mechanical genius which delighted his father and distracted his mother, for he tried to imitate every machine he saw, and kept the nursery in a chaotic condition, with his 'sewinsheen', a mysterious structure of string, chairs, clothespins, and spools, for wheels to go 'wound and wound'. Also a basket hung over the back of a chair, in which he vainly tried to hoist his too confiding sister, who, with feminine devotion, allowed her little head to be bumped till rescued, when the young inventor indignantly remarked, "Why, Marmar, dat's my lellywaiter, and me's trying to pull her up."

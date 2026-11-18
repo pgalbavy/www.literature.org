@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - How The Yellow Cog Fought The Two Rover Galleys"
 weight: 16
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-16.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-16.html"
 ---
 
 THE three vessels had been sweeping swiftly westwards, the cog still well to the front, although the galleys were slowly drawing in upon either quarter. To the left was a hard skyline unbroken by a sail. The island already lay like a cloud behind them, while right in front was St. Alban's Head, with Portland looming mistily in the farthest distance. Alleyne stood by the tiller, looking backwards, the fresh wind full in his teeth, the crisp winter air tingling on his face and blowing his yellow curls from under his bassinet. His cheeks were flushed and his eyes shining, for the blood of a hundred fighting Saxon ancestors was beginning to stir in his veins.

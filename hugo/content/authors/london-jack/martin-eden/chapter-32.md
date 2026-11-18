@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 32
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-32.html"
+url: "/authors/london-jack/martin-eden/chapter-32.html"
 ---
 
 Promptly, the next afternoon, Maria was excited by Martin's second visitor. But she did not lose her head this time, for she seated Brissenden in her parlor's grandeur of respectability.

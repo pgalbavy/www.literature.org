@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Into Savage Borneo"
 weight: 9
-aliases:
-  - "/authors/burroughs-edgar-rice/the-monster-men/chapter-09.html"
+url: "/authors/burroughs-edgar-rice/the-monster-men/chapter-09.html"
 ---
 
 Von Horn cursed the chance that had snatched the girl from him, but he tried to content himself with the thought that the treasure probably still rested in the cabin of the Ithaca, where Bududreen was to have deposited it. He wished that the Dyaks would take themselves off so that he could board the vessel and carry the chest ashore to bury it against the time that fate should provide a means for transporting it to Singapore.

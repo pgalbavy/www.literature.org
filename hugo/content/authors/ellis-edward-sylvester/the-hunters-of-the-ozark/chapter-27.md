@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - A Morning Meal"
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-27.html"
 ---
 
 The two boys stood on the edge of a prairie which had a varying width of from one to three miles. Looking to the right and the left, neither end could be seen, so that there was no means of judging its length.

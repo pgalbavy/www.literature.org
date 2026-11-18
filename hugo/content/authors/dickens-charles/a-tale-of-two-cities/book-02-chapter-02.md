@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 2 - A Sight"
 weight: 8
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-02.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-02.html"
 ---
 
 "YOU KNOW the Old Bailey, well, no doubt?" said one of the oldest of clerks to Jerry the messenger.

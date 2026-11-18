@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Sharp Eyes Sees Something"
 weight: 1
-aliases:
-  - "/authors/barnum-richard/sharp-eyes-the-silver-fox/chapter-01.html"
+url: "/authors/barnum-richard/sharp-eyes-the-silver-fox/chapter-01.html"
 ---
 
 Away up in the North Woods lived a family of foxes. They had big, bushy tails, like a dust brush, and they wore furry coats. Some of these furry coats were of a reddish-yellow color, and some of them a sort of gray. The foxes had long sharp noses and sharp teeth, and they were very sly and cunning, as they had need to be.

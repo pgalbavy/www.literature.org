@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 30
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-29.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-29.html"
 ---
 
 Coombe House had been transformed into one of the most practical nursing homes in London. The celebrated ballroom and picture gallery were filled with cots; a spacious bedroom had become a perfectly equipped operating room; nurses and doctors moved everywhere with quiet swiftness. Things were said to be marvellously well done because Lord Coombe himself held reins which diplomatically guided and restrained amateurishness and emotional infelicities.

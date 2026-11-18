@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-20.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-20.html"
 ---
 
 When general introductions had followed, the Count Itokai smiled, with a flash of white and strong teeth.

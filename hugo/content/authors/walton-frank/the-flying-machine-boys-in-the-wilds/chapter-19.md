@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Where The Passage Ended"
 weight: 19
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-19.html"
+url: "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-19.html"
 ---
 
 “Yes, you knew it all right!” Carl exclaimed, as the boy stood looking into the dark passage revealed by the falling of the stone. “You always know a lot of things just after they occur!”

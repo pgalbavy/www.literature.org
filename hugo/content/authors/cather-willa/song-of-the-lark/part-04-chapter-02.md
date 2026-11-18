@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 2"
 weight: 39
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-04-chapter-02.html"
+url: "/authors/cather-willa/song-of-the-lark/part-04-chapter-02.html"
 ---
 
 THEA'S life at the Ottenburg ranch was simple and full of light, like the days themselves. She awoke every morning when the first fierce shafts of sunlight darted through the curtainless windows of her room at the ranch house. After breakfast she took her lunch-basket and went down to the canyon. Usually she did not return until sunset.

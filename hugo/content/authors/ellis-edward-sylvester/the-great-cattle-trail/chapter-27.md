@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Shackaye, The Comanche"
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-27.html"
 ---
 
 Avon Burnet was in the act of lifting his Winchester from across the front of his saddle, when he made the discovery that, although the strange mustang in front of him bore no rider, yet a man was on the ground directly beyond and evidently watching every movement made by himself.

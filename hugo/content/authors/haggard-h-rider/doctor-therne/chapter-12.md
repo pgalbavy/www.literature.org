@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Shadow Of Pestilence"
 weight: 13
-aliases:
-  - "/authors/haggard-h-rider/doctor-therne/chapter-12.html"
+url: "/authors/haggard-h-rider/doctor-therne/chapter-12.html"
 ---
 
 Very soon it became evident that the fight in Dunchester would be severe, for the electorate, which for so many years had been my patient servant, showed signs of rebelling against me and the principles I preached. Whether the voters were moved by a desire for change, whether they honestly disagreed with me, or whether a secret fear of the smallpox was the cause of it, I do not know, but it is certain that a large proportion of them began to look upon me and my views with distrust.

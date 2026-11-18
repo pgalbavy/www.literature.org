@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Enigma"
 weight: 19
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-19.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-19.html"
 ---
 
 The heights and depths of life are sounded by emotions--cold reason lags behind. As thought cannot compass, so words cannot describe the anguished spirit's flight; and whether it soars to ecstasy or sinks to despair it comes back wide-eyed and silent. So any action which has been prompted by passion cannot be explained by a calculating mind, and to seek a reason where none exists is to stray still farther from the truth. Virginia Huff was poor and waited on the table for what she could eat and get to wear; and when she returned stock which was worth twelve hundred dollars without even a note of thanks it was not for any reason of the mind. It was a reason of the feelings, the soul, the human ego, which drives our minds and bodies to their tasks; a reason that soared up like a flaming aurora and stabbed the darkened sky with hate and passion. It was nothing to reason about, and yet Wiley reasoned.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 3 - The Lauriston Garden Mystery"
 weight: 3
-aliases:
-  - "/authors/doyle-arthur-conan/a-study-in-scarlet/part-01-chapter-03.html"
+url: "/authors/doyle-arthur-conan/a-study-in-scarlet/part-01-chapter-03.html"
 ---
 
 I CONFESS that I was considerably startled by this fresh proof of the practical nature of my companion's theories. My respect for his powers of analysis increased wondrously. There still remained some lurking suspicion in my mind, however, that the whole thing was a pre-arranged episode, intended to dazzle me, though what earthly object he could have in taking me in was past my comprehension. When I looked at him he had finished reading the note, and his eyes had assumed the vacant, lack-lustre expression which showed mental abstraction.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Strike"
 weight: 15
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/chapter-14.html"
+url: "/authors/coolidge-dane/silver-and-gold/chapter-14.html"
 ---
 
 Denver Russell was young, in more ways than one, but that did not prove he was wrong. Perhaps he was presumptuous in trying to tell an artist how to gain a foothold on the stage, but he was still convinced that, in grand opera as in mining, there was no big demand for a quitter. As for that swift, back stab, that veiled intimation that he might live to be a quitter himself, Denver resolved then and there not to quit working his mine until his last dollar was gone. And, while he was doing that, he wondered if Drusilla could boast as much of her music. Would she weaken again, as she had twice already, and declare that she was a miserable failure; or would she toil on, as he did, day by day, refusing to acknowledge she was whipped?

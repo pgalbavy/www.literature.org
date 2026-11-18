@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Embassy"
 weight: 11
-aliases:
-  - "/authors/haggard-h-rider/elissa/chapter-10.html"
+url: "/authors/haggard-h-rider/elissa/chapter-10.html"
 ---
 
 Weak as she was still with recent illness, half-fainting also from the shock of the terrible and unexpected fate which had overtaken her, Elissa was borne in triumph to the palace that now was hers. Around her gilded litter priestesses danced and sang their wild chants, half-bacchanalian and half-religious; before it marched the priests of El, clashing cymbals and crying, “Make way, make way for the new-born goddess! Make way for her whose throne is upon the horned moon!” while all about the multitude of spectators prostrated themselves in worship.

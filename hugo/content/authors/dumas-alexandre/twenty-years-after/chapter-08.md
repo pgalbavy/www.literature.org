@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - How D'artagnan, On Going To A Distance To Discover Aramis, Discovers His Old Friend On Horseback Behind His Own Planchet"
 weight: 8
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-08.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-08.html"
 ---
 
 On entering the hotel D'Artagnan saw a man sitting in a corner by the fire. It was Planchet, but so completely transformed, thanks to the old clothes that the departing husband had left behind, that D'Artagnan himself could hardly recognize him. Madeleine introduced him in presence of all the servants. Planchet addressed the officer with a fine Flemish phrase; the officer replied in words that belonged to no language at all, and the bargain was concluded; Madeleine's brother entered D'Artagnan's service.

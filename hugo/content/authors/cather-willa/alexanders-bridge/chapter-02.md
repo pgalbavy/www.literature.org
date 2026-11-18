@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/cather-willa/alexanders-bridge/chapter-02.html"
+url: "/authors/cather-willa/alexanders-bridge/chapter-02.html"
 ---
 
 On the night of his arrival in London, Alexander went immediately to the hotel on the Embankment at which he always stopped, and in the lobby he was accosted by an old acquaintance, Maurice Mainhall, who fell upon him with effusive cordiality and indicated a willingness to dine with him. Bartley never dined alone if he could help it, and Mainhall was a good gossip who always knew what had been going on in town; especially, he knew everything that was not printed in the newspapers. The nephew of one of the standard Victorian novelists, Mainhall bobbed about among the various literary cliques of London and its outlying suburbs, careful to lose touch with none of them. He had written a number of books himself; among them a “History of Dancing,” a “History of Costume,” a “Key to Shakespeare’s Sonnets,” a study of “The Poetry of Ernest Dowson,” etc. Although Mainhall’s enthusiasm was often tiresome, and although he was often unable to distinguish between facts and vivid figments of his imagination, his imperturbable good nature overcame even the people whom he bored most, so that they ended by becoming, in a reluctant manner, his friends. In appearance, Mainhall was astonishingly like the conventional stage-Englishman of American drama: tall and thin, with high, hitching shoulders and a small head glistening with closely brushed yellow hair. He spoke with an extreme Oxford accent, and when he was talking well, his face sometimes wore the rapt expression of a very emotional man listening to music. Mainhall liked Alexander because he was an engineer. He had preconceived ideas about everything, and his idea about Americans was that they should be engineers or mechanics. He hated them when they presumed to be anything else.

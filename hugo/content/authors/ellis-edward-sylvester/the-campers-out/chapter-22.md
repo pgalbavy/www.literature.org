@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Hot Quarters"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-22.html"
 ---
 
 In such critical moments events come and go with startling rapidity.

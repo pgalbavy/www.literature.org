@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-12.html"
+url: "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-12.html"
 ---
 
 Norman of Torn did not return to the castle of Leicester "in a few days," nor for many months. For news came to him that Bertrade de Montfort had been posted off to France in charge of her mother.

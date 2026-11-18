@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Chasing Miss Kitty"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-03.html"
 ---
 
 WHEN Miss Kitty Cat awoke from her nap she got up and stretched herself. In her opinion, a nap was no nap at all if one didn't stretch after taking it. "There's nothing like a good stretch to make a person limber," she often remarked.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Concerning The Secretaries Of Princes"
 weight: 23
-aliases:
-  - "/authors/machiavelli-nicolo/the-prince/chapter-22.html"
+url: "/authors/machiavelli-nicolo/the-prince/chapter-22.html"
 ---
 
 The choice of servants is of no little importance to a prince, and they are good or not according to the discrimination of the prince. And the first opinion which one forms of a prince, and of his understanding, is by observing the men he has around him; and when they are capable and faithful he may always be considered wise, because he has known how to recognize the capable and to keep them faithful. But when they are otherwise one cannot form a good opinion of him, for the prime error which he made was in choosing them.

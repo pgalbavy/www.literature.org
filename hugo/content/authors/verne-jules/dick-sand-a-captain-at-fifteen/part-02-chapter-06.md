@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 6 - The Diving-Bell"
 weight: 24
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-06.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-06.html"
 ---
 
 To this unexpected revelation Dick Sand could not reply. Besides, Mrs. Weldon had gone back at once to her place beside little Jack. She evidently did not wish to say any more about it, and the young novice had not the courage to detain her.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Mohawk Objects"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-19.html"
 ---
 
 "I forgot," Rosa answered, laughingly; "but you must try to put a little more logic in what you say."

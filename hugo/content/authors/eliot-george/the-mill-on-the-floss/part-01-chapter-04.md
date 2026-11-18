@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 4 - Tom Is Expected"
 weight: 4
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-01-chapter-04.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-01-chapter-04.html"
 ---
 
 It was a heavy disappointment to Maggie that she was not allowed to go with her father in the gig when he went to fetch Tom home from the academy; but the morning was too wet, Mrs. Tulliver said, for a little girl to go out in her best bonnet. Maggie took the opposite view very strongly, and it was a direct consequence of this difference of opinion that when her mother was in the act of brushing out the reluctant black crop Maggie suddenly rushed from under her hands and dipped her head in a basin of water standing near, in the vindictive determination that there should be no more chance of curls that day.

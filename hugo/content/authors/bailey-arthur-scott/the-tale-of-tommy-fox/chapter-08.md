@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Something Makes Tommy Very Proud"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-08.html"
 ---
 
 Tommy Fox could think of nothing but Mr. Woodchuck. He thought there could be no use in going back to the hole beneath the big oak in the pasture until the next day, because Mr. Woodchuck would probably be afraid that Tommy was waiting for him to come out. Yes--Tommy decided that Mr. Woodchuck would stay in his house down among the roots of the big tree and not show himself again until he felt quite sure that his enemy had grown tired of watching and had given up the idea of catching him.

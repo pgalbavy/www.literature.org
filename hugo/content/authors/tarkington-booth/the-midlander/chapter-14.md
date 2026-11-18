@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-14.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-14.html"
 ---
 
 *ADMITTED* by a coloured housemaid who drowsily said, "Yes’m, she still up," in response to his inquiry, Harlan had only to step into the Shelbys’ marble-floored "front hall" to dispel his slight doubts concerning the identity of Martha’s callers; his brother was unquestionably one of them.

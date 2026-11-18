@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-30.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-30.html"
 ---
 
 It is necessary at this point that some attention should be given to the predecessor of our friends in captivity —Gravity Gimp.

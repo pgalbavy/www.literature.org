@@ -1,8 +1,7 @@
 ---
 title: "Chapter 60"
 weight: 60
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-60.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-60.html"
 ---
 
 "But I shall say no more of this at this time; for this is to be felt and not to be talked of; and they who never touched it with their fingers may secretly perhaps laugh at it in their hearts and be never the wiser." - JEREMY TAYLOR.

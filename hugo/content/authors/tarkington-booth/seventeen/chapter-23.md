@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Fathers Forget"
 weight: 23
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-23.html"
+url: "/authors/tarkington-booth/seventeen/chapter-23.html"
 ---
 
 To the competent twenties, hundreds of miles suggesting no impossibilities, such departures may be rending, but not tragic. Implacable, the difference to Seventeen! Miss Pratt was going home, and Seventeen could not follow; it could only mourn upon the lonely shore, tracing little angelic footprints left in the sand.

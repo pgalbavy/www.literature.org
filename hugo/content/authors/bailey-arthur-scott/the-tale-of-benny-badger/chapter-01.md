@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Great Digger"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-01.html"
 ---
 
 Of course, Benny Badger had the best of reasons for living on the high, dry plains. There he had for neighbors plenty of ground squirrels and prairie dogs. And it is likely that he enjoyed their company much more than they did his.

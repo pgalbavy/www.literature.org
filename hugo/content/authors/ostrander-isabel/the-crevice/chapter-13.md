@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Empty House"
 weight: 13
-aliases:
-  - "/authors/ostrander-isabel/the-crevice/chapter-13.html"
+url: "/authors/ostrander-isabel/the-crevice/chapter-13.html"
 ---
 
 "Don't spare them now. Get the truth at all costs."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Green Flag"
 weight: 21
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-20.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-20.html"
 ---
 
 "I CONGRATULATE you, Mr. Germaine, on your power of painting in words. Your description gives me a vivid idea of Mrs. Van Brandt."

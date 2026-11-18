@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-08.html"
 ---
 
 The two were compelled to pick their way with extreme care, for there was no saying when some of the wandering Indians would come upon them. It was necessary, as our friends thought, to go considerably farther up, before it would be at all safe to cross the river.

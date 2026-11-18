@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-11.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-11.html"
 ---
 
 The room that Dorothy Harper had given over to the wounded man looked off to the front, across valley slope and river--commanding the whole peak and sky-limited picture at whose foreground centre stood the walnut tree.

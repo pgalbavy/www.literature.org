@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 19
-aliases:
-  - "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-18.html"
+url: "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-18.html"
 ---
 
 THAT was Tom's great secret - the scheme to return home with his brother pirates and attend their own funerals. They had paddled over to the Missouri shore on a log, at dusk on Saturday, landing five or six miles below the village; they had slept in the woods at the edge of the town till nearly daylight, and had then crept through back lanes and alleys and finished their sleep in the gallery of the church among a chaos of invalided benches.

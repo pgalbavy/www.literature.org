@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 17
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-16.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-16.html"
 ---
 
 There must have been from six to eight dozen spoons in the Brigade, and they marched away in the shape of a hollow square, with Dorothy, Billina and Toto in the center of the square. Before they had gone very far Toto knocked over one of the spoons by wagging his tail, and then the Captain of the Spoons told the little dog to be more careful, or he would be punished. So Toto was careful, and the Spoon Brigade moved along with astonishing swiftness, while Dorothy really had to walk fast to keep up with it.

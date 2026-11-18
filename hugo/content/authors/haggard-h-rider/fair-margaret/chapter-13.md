@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Adventure Of The Inn"
 weight: 13
-aliases:
-  - "/authors/haggard-h-rider/fair-margaret/chapter-13.html"
+url: "/authors/haggard-h-rider/fair-margaret/chapter-13.html"
 ---
 
 Peter did not sleep well, for, notwithstanding all the barber's dressing, his hurt pained him much. Moreover, he was troubled by the thought that Margaret must be sure that both he and her father were dead, and of the sufferings of her sore heart. Whenever he dozed off he seemed to see her awake and weeping, yes, and to hear her sobs and murmurings of his name. When the first light of dawn crept through the high-barred windows, he arose and called Castell, for they could not dress without each other's help. Then they waited until they heard the sound of men talking and of beasts stamping in the courtyard without. Guessing that this was the barber with the mules, they unlocked their door and, finding the servant yawning in the passage, persuaded her to let them out of the house.

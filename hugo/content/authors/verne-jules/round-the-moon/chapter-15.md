@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/verne-jules/round-the-moon/chapter-15.html"
+url: "/authors/verne-jules/round-the-moon/chapter-15.html"
 ---
 
 We may, perhaps, be astonished to find Barbicane and his companions so little occupied with the future reserved for them in their metal prison which was bearing them through the infinity of space. Instead of asking where they were going, they passed their time making experiments, as if they had been quietly installed in their own study.

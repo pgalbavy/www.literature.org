@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 18"
 weight: 175
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-18.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-18.html"
 ---
 
 Anna looked at Dolly's thin, care-worn face, with its wrinkles filled ha with dust from the road, and she was on the point of saying what she was thinking, that is, that Dolly had got thinner. But, conscious that she herself had grown handsomer, and that Dolly's eyes were telling her so, she sighed and began to speak about herself.

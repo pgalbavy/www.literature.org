@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - The Way Out"
 weight: 39
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-37.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-37.html"
 ---
 
 BREAKFAST was just over. Blanche, seeing a pleasantly-idle morning before her, proposed to Arnold to take a stroll in the grounds.

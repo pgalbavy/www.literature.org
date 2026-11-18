@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-12.html"
+url: "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-12.html"
 ---
 
 Sam Hoover he thought he could trust. Sam, at least, had come to him when they were taking him to prison, and had denounced the lethargy with which his kinsmen were standing idle while he went into bondage.

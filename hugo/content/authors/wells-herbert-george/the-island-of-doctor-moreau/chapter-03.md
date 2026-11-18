@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Strange Face"
 weight: 4
-aliases:
-  - "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-03.html"
+url: "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-03.html"
 ---
 
 WE left the cabin and found a man at the companion obstructing our way. He was standing on the ladder with his back to us, peering over the combing of the hatchway. He was, I could see, a misshapen man, short, broad, and clumsy, with a crooked back, a hairy neck, and a head sunk between his shoulders. He was dressed in dark-blue serge, and had peculiarly thick, coarse, black hair. I heard the unseen dogs growl furiously, and forthwith he ducked back,-- coming into contact with the hand I put out to fend him off from myself. He turned with animal swiftness.

@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 8"
 weight: 237
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-08.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-08.html"
 ---
 
 Toward the end of the battle of Borodino, Pierre, having run down from Raevski's battery a second time, made his way through a gully to Knyazkovo with a crowd of soldiers, reached the dressing station, and seeing blood and hearing cries and groans hurried on, still entangled in the crowds of soldiers.

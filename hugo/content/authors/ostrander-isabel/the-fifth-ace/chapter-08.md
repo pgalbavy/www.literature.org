@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Willa Sits In"
 weight: 8
-aliases:
-  - "/authors/ostrander-isabel/the-fifth-ace/chapter-08.html"
+url: "/authors/ostrander-isabel/the-fifth-ace/chapter-08.html"
 ---
 
 "Well, what do you think of her?" Mason North's eyes twinkled as he put the question to the Ripley Halsteads in solemn conference on the following evening.

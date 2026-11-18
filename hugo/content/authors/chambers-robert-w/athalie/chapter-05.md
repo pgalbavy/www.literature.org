@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-05.html"
+url: "/authors/chambers-robert-w/athalie/chapter-05.html"
 ---
 
 There was a suffocating stench of cabbage in hallway and corridor as usual when Athalie came in that evening. She paused to rest a tired foot on the first step of the stairway, for a moment or two, quietly breathing her fatigue, then addressed herself to the monotonous labour before her, which was to climb five flights of unventilated stairs, let herself into the tiny apartment with her latch-key, and immediately begin her part in preparing the evening meal for three.

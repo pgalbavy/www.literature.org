@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Fired On"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-11.html"
 ---
 
 Bohunkus Johnson was never so angry in his life and the resentment of Harvey Hamilton was equally intense. That a man should deliberately shoot at their machine without provocation more than a bit of harmless mischief, was beyond bearing. The colored youth stood up and shouted to his friend:

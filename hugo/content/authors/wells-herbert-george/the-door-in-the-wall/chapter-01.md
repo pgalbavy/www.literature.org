@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Door In The Wall"
 weight: 1
-aliases:
-  - "/authors/wells-herbert-george/the-door-in-the-wall/chapter-01.html"
+url: "/authors/wells-herbert-george/the-door-in-the-wall/chapter-01.html"
 ---
 
 I

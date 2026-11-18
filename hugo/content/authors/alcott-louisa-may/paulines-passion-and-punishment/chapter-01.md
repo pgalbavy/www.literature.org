@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/alcott-louisa-may/paulines-passion-and-punishment/chapter-01.html"
+url: "/authors/alcott-louisa-may/paulines-passion-and-punishment/chapter-01.html"
 ---
 
 To and fro, like a wild creature in its cage, paced that handsome woman, with bent head, locked hands, and restless steps. Some mental storm, swift and sudden as a tempest of the tropics, had swept over her and left its marks behind. As if in anger at the beauty now proved powerless, all ornaments had been flung away, yet still it shone undimmed, and filled her with a passionate regret. A jewel glittered at her feet, leaving the lace rent to shreds on the indignant bosom that had worn it; the wreaths of hair that had crowned her with a woman's most womanly adornment fell disordered upon shoulders that gleamed the fairer for the scarlet of the pomegranate flowers clinging to the bright meshes that had imprisoned them an hour ago; and over the face, once so affluent in youthful bloom, a stern pallor had fallen like a blight, for pride was slowly conquering passion, and despair had murdered hope.

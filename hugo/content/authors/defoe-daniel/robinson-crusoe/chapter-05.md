@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Builds A House  - The Journal"
 weight: 5
-aliases:
-  - "/authors/defoe-daniel/robinson-crusoe/chapter-05.html"
+url: "/authors/defoe-daniel/robinson-crusoe/chapter-05.html"
 ---
 
 SEPTEMBER 30, 1659. - I, poor miserable Robinson Crusoe, being shipwrecked during a dreadful storm in the offing, came on shore on this dismal, unfortunate island, which I called "The Island of Despair"; all the rest of the ship's company being drowned, and myself almost dead.

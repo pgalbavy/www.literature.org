@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Past"
 weight: 3
-aliases:
-  - "/authors/nesbit-edith/the-story-of-the-amulet/chapter-03.html"
+url: "/authors/nesbit-edith/the-story-of-the-amulet/chapter-03.html"
 ---
 
 The learned gentleman had let his dinner get quite cold. It was mutton chop, and as it lay on the plate it looked like a brown island in the middle of a frozen pond, because the grease of the gravy had become cold, and consequently white. It looked very nasty, and it was the first thing the children saw when, after knocking three times and receiving no reply, one of them ventured to turn the handle and softly to open the door. The chop was on the end of a long table that ran down one side of the room. The table had images on it and queer-shaped stones, and books. And there were glass cases fixed against the wall behind, with little strange things in them. The cases were rather like the ones you see in jewellers' shops.

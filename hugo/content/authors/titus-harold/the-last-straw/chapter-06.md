@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Outcasts"
 weight: 6
-aliases:
-  - "/authors/titus-harold/the-last-straw/chapter-06.html"
+url: "/authors/titus-harold/the-last-straw/chapter-06.html"
 ---
 
 At sunset a girl rider descended from the uplands into the shadows of Devil's Hole. The big brown which carried her picked his way slowly down the treacherous trail, nose low, ears forward, selecting his footing with care.

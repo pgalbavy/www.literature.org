@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - \"What Will Be Their Next Step?\""
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/wolf-ear-the-indian/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/wolf-ear-the-indian/chapter-05.html"
 ---
 
 Brinton Kingsland was in the saddle again on the instant, and his pony dashed down the arroya at full speed.

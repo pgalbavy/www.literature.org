@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/london-jack/the-jacket-star-rover/chapter-22.html"
+url: "/authors/london-jack/the-jacket-star-rover/chapter-22.html"
 ---
 
 My time grows very short. All the manuscript I have written is safely smuggled out of the prison. There is a man I can trust who will see that it is published. No longer am I in Murderers Row. I am writing these lines in the death cell, and the death-watch is set on me. Night and day is this death-watch on me, and its paradoxical function is to see that I do not die. I must be kept alive for the hanging, or else will the public be cheated, the law blackened, and a mark of demerit placed against the time-serving warden who runs this prison and one of whose duties is to see that his condemned ones are duly and properly hanged. Often I marvel at the strange way some men make their livings.

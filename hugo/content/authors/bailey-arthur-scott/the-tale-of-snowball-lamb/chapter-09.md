@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Circus Tricks"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-09.html"
 ---
 
 Johnnie Green had been to the circus. And of course he wanted to try a good many tricks that he had learned there. At first he made old dog Spot perform for him. But when he attempted to get Spot to jump through a hoop of fire the old dog refused flatly to play any more.

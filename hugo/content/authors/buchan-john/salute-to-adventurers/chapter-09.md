@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Various Doings In The Savannah"
 weight: 10
-aliases:
-  - "/authors/buchan-john/salute-to-adventurers/chapter-09.html"
+url: "/authors/buchan-john/salute-to-adventurers/chapter-09.html"
 ---
 
 I awoke in broad daylight, and when my wits came back to me, I saw I was in a tent of skins, with my limbs unbound, and a pitcher of water beside me placed by some provident hand. Through the tent door I looked over a wide space of green savannah. How I had got there I knew not; but, as my memory repeated the events of the night, I knew I had travelled far, for the sea showed miles away at a great distance beneath me. On the water I saw a ship in full sail, diminished to a toy size, careering northward with the wind.

@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 4"
 weight: 57
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-05-chapter-04.html"
+url: "/authors/cather-willa/one-of-ours/book-05-chapter-04.html"
 ---
 
 Deeper and deeper into flowery France! That was the sentence Claude kept saying over to himself to the jolt of the wheels, as the long troop train went southward, on the second day after he and his company had left the port of debarkation. Fields of wheat, fields of oats, fields of rye; all the low hills and rolling uplands clad with harvest. And everywhere, in the grass, in the yellowing grain, along the road-bed, the poppies spilling and streaming. On the second day the boys were still calling to each other about the poppies; nothing else had so entirely surpassed their expectations. They had supposed that poppies grew only on battle fields, or in the brains of war correspondents. Nobody knew what the cornflowers were, except Willy Katz, an Austrian boy from the Omaha packing-houses, and he knew only an objectionable name for them, so he offered no information. For a long time they thought the red clover blossoms were wild flowers,--they were as big as wild roses. When they passed the first alfalfa field, the whole train rang with laughter; alfalfa was one thing, they believed, that had never been heard of outside their own prairie states.

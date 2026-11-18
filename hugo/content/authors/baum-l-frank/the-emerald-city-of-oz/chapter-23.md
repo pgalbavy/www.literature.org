@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 24
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-23.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-23.html"
 ---
 
 They were soon among the pretty hills and valleys again, and the Sawhorse sped up hill and down at a fast and easy pace, the roads being hard and smooth. Mile after mile was speedily covered, and before the ride had grown at all tiresome they sighted another village. The place seemed even larger than Rigmarole Town, but was not so attractive in appearance.

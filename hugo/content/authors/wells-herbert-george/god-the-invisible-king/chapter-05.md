@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Invisible King"
 weight: 6
-aliases:
-  - "/authors/wells-herbert-george/god-the-invisible-king/chapter-05.html"
+url: "/authors/wells-herbert-george/god-the-invisible-king/chapter-05.html"
 ---
 
 1\. MODERN RELIGION A POLITICAL RELIGION

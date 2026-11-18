@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 1"
 weight: 35
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-06-chapter-01.html"
+url: "/authors/conrad-joseph/the-rescue/part-06-chapter-01.html"
 ---
 
 "Have you got King Tom's watch in there?" said a voice that seemed not to attach the slightest importance to the question. Jorgenson, outside the door of Mrs. Travers' part of the deckhouse, waited for the answer. He heard a low cry very much like a moan, the startled sound of pain that may be sometimes heard in sick rooms. But it moved him not at all. He would never have dreamt of opening the door unless told to do so, in which case he would have beheld, with complete indifference, Mrs. Travers extended on the floor with her head resting on the edge of the camp bedstead (on which Lingard had never slept), as though she had subsided there from a kneeling posture which is the attitude of prayer, supplication, or defeat. The hours of the night had passed Mrs. Travers by. After flinging herself on her knees, she didn't know why, since she could think of nothing to pray for, had nothing to invoke, and was too far gone for such a futile thing as despair, she had remained there till the sense of exhaustion had grown on her to the point in which she lost her belief in her power to rise. In a half-sitting attitude, her head resting against the edge of the couch and her arms flung above her head, she sank into an indifference, the mere resignation of a worn-out body and a worn-out mind which often is the only sort of rest that comes to people who are desperately ill and is welcome enough in a way. The voice of Jorgenson roused her out of that state. She sat up, aching in every limb and cold all over.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - My Last Sight Of The Reverend John Laputa"
 weight: 21
-aliases:
-  - "/authors/buchan-john/prester-john/chapter-20.html"
+url: "/authors/buchan-john/prester-john/chapter-20.html"
 ---
 
 It was dark before I got into the gorge of the Letaba. I passed many patrols, but few spoke to me, and none tried to stop me. Some may have known me, but I think it was my face and figure which tied their tongues. I must have been pale as death, with tangled hair and fever burning in my eyes. Also on my left temple was the splash of blood.

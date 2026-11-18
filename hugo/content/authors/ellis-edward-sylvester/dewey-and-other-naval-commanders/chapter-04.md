@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-04.html"
 ---
 
 Birth of the American Navy—The Privateers —Capture of New Providence, in the Bahamas—Paul Jones—A Clever Exploit—A Skilful Escape —Fine Seamanship —An Audacious Scheme.

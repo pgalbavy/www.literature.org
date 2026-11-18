@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - The Quiet Afternoon"
 weight: 26
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-26.html"
+url: "/authors/tarkington-booth/penrod/chapter-26.html"
 ---
 
 Perhaps middle-aged people might discern Nature's real intentions in the matter of pain if they would examine a boy's punishments and sorrows, for he prolongs neither beyond their actual duration. With a boy, trouble must be of Homeric dimensions to last overnight. To him, every next day is really a new day. Thus, Penrod woke, next morning, with neither the unspared rod, nor Mr. Kinosling in his mind. Tar, itself, so far as his consideration of it went, might have been an undiscovered substance. His mood was cheerful and mercantile; some process having worked mysteriously within him, during the night, to the result that his first waking thought was of profits connected with the sale of old iron—or perhaps a ragman had passed the house, just before he woke.

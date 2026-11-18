@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Fate Stabs"
 weight: 18
-aliases:
-  - "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-18.html"
+url: "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-18.html"
 ---
 
 We went back to the others whom we found crouched on the ground among the coffins, looking distinctly depressed. No wonder; night was closing in, the thunder was beginning to growl and echo through the forest and rain to fall in big drops. In short, although Stephen remarked that every cloud has a silver lining, a proverb which, as I told him, I seemed to have heard before, in no sense could the outlook be considered bright.

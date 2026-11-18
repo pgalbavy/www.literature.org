@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Nero Has Some Fun"
 weight: 1
-aliases:
-  - "/authors/barnum-richard/nero-the-circus-lion/chapter-01.html"
+url: "/authors/barnum-richard/nero-the-circus-lion/chapter-01.html"
 ---
 
 Far off in the jungle of Africa lived a family of lions.

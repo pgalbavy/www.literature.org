@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 3"
 weight: 3
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-01-chapter-03.html"
+url: "/authors/cather-willa/one-of-ours/book-01-chapter-03.html"
 ---
 
 The circus was on Saturday. The next morning Claude was standing at his dresser, shaving. His beard was already strong, a shade darker than his hair and not so red as his skin. His eyebrows and long lashes were a pale corn-colour--made his blue eyes seem lighter than they were, and, he thought, gave a look of shyness and weakness to the upper part of his face. He was exactly the sort of looking boy he didn't want to be. He especially hated his head,--so big that he had trouble in buying his hats, and uncompromisingly square in shape; a perfect block-head. His name was another source of humiliation. Claude: it was a "chump" name, like Elmer and Roy; a hayseed name trying to be fine. In country schools there was always a red-headed, warty-handed, runny-nosed little boy who was called Claude. His good physique he took for granted; smooth, muscular arms and legs, and strong shoulders, a farmer boy might be supposed to have. Unfortunately he had none of his father's physical repose, and his strength often asserted itself inharmoniously. The storms that went on in his mind sometimes made him rise, or sit down, or lift something, more violently than there was any apparent reason for his doing.

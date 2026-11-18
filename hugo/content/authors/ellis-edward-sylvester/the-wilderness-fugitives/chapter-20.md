@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Longest Way Home"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-20.html"
 ---
 
 The little party of fugitives occupied the position on the margin of the grain-field for an hour or so longer, discussing the past and arranging their plans for the immediate future. As they had the time, the Mohawk took pains to explain some of his movements made on the other side of the river, and also when they were engaged in stealing across, which movements none of the party understood at the time. It was necessary at this stage of the proceedings for all to comprehend as fully as possible the plans that were now to be followed in the game, where the stakes were life itself.

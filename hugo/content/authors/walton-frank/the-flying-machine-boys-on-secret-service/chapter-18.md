@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Mysterious Signals"
 weight: 18
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-18.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-18.html"
 ---
 
 When Carl reached the top of the slope lying between the spot where the Louise had landed and the camp occupied by the hunters, he found himself confronted by two men who were climbing up from the tents below.

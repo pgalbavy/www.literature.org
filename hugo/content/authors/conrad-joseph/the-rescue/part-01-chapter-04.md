@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 4"
 weight: 6
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-01-chapter-04.html"
+url: "/authors/conrad-joseph/the-rescue/part-01-chapter-04.html"
 ---
 
 It was noon before the brig, piloted by Lingard through the deep channels between the outer coral reefs, rounded within pistol-shot a low hummock of sand which marked the end of a long stretch of stony ledges that, being mostly awash, showed a black head only, here and there amongst the hissing brown froth of the yellow sea. As the brig drew clear of the sandy patch there appeared, dead to windward and beyond a maze of broken water, sandspits, and clusters of rocks, the black hull of the yacht heeling over, high and motionless upon the great expanse of glittering shallows. Her long, naked spars were inclined slightly as if she had been sailing with a good breeze. There was to the lookers-on aboard the brig something sad and disappointing in the yacht's aspect as she lay perfectly still in an attitude that in a seaman's mind is associated with the idea of rapid motion.

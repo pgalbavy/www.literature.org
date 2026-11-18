@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Beginning Of The End"
 weight: 11
-aliases:
-  - "/authors/nesbit-edith/the-phoenix-and-the-carpet/chapter-11.html"
+url: "/authors/nesbit-edith/the-phoenix-and-the-carpet/chapter-11.html"
 ---
 
 'Well, I MUST say,' mother said, looking at the wishing carpet as it lay, all darned and mended and backed with shiny American cloth, on the floor of the nursery - 'I MUST say I've never in my life bought such a bad bargain as that carpet.'

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Enter Sir James Peel Edgerton"
 weight: 11
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/chapter-10.html"
+url: "/authors/christie-agatha/the-secret-adversary/chapter-10.html"
 ---
 
 *TUPPENCE* betrayed no awkwardness in her new duties. The daughters of the archdeacon were well grounded in household tasks. They were also experts in training a "raw girl," the inevitable result being that the raw girl, once trained, departed elsewhere where her newly acquired knowledge commanded a more substantial remuneration than the archdeacon’s meagre purse allowed.

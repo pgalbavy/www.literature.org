@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 16"
 weight: 16
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-16.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-16.html"
 ---
 
 When Mr. Ruferton and Mr. Hendricks presented themselves at the door of Hamilton Burton's house the clock was striking nine. After divesting himself of his overcoat the politician stood waiting before the open fire with the manner of one who faces a doubtful half-hour and who faces it with grave anxiety.

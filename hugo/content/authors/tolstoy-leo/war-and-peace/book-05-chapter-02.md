@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 2"
 weight: 86
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-05-chapter-02.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-05-chapter-02.html"
 ---
 
 "I have the pleasure of addressing Count Bezukhov, if I am not mistaken," said the stranger in a deliberate and loud voice.

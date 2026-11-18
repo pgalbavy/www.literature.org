@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - His Own Kind"
 weight: 13
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-13.html"
+url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-13.html"
 ---
 
 The following morning, Tarzan, lame and sore from the wounds of his battle with Terkoz, set out toward the west and the seacoast.

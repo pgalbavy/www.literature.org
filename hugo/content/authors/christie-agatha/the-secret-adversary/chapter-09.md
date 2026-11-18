@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Tuppence Enters Domestic Service"
 weight: 10
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/chapter-09.html"
+url: "/authors/christie-agatha/the-secret-adversary/chapter-09.html"
 ---
 
 *WHEN* Tommy set forth on the trail of the two men, it took all Tuppence’s self-command to refrain from accompanying him. However, she contained herself as best she might, consoled by the reflection that her reasoning had been justified by events. The two men had undoubtedly come from the second floor flat, and that one slender thread of the name "Rita" had set the Young Adventurers once more upon the track of the abductors of Jane Finn.

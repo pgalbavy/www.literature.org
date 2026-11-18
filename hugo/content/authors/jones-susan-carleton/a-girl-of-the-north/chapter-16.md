@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-16.html"
+url: "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-16.html"
 ---
 
 SYLVIA had become necessary to Launa, who had at first used her as a screen, for Mr. Wainbridge was there always, and with Sylvia present naturally there were no demonstrations.

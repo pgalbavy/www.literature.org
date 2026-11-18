@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Waking Up"
 weight: 13
-aliases:
-  - "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-13.html"
+url: "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-13.html"
 ---
 
 EVERY thing did "go beautifully" for a time; so much so, that Christie began to think she really had "got religion." A delightful peace pervaded her soul, a new interest made the dullest task agreeable, and life grew so inexpressibly sweet that she felt as if she could forgive all her enemies, love her friends more than ever, and do any thing great, good, or glorious.

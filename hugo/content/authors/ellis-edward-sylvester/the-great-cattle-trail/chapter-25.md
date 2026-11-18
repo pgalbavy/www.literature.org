@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Heading Northward"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-25.html"
 ---
 
 Avon Burnet's misgiving increased as he drew near the cabin of his uncle, for the unwonted stillness was impressive to the last degree. The only sign of life which caught his eye was the horse cropping the grass near the mesquite bush.

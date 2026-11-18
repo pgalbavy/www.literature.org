@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Burglary"
 weight: 22
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-22.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-22.html"
 ---
 
 'Hallo!' cried a loud, hoarse voice, as soon as they set foot in the passage.

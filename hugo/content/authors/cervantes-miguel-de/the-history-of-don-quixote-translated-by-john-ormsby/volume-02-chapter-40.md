@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 40 - Of Matters Relating And Belonging To This Adventure And To This Memorable History"
 weight: 96
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-40.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-40.html"
 ---
 
 Verily and truly all those who find pleasure in histories like this ought show their gratitude to Cide Hamete, its original author, for the scrupulous care he has taken to set before us all its minute particulars, not leaving anything, however trifling it may be, that he does not make clear and plain. He portrays the thoughts, he reveals the fancies, he answers implied questions, clears up doubts, sets objections at rest, and, in a word, makes plain the smallest points the most inquisitive can desire to know. O renowned author! O happy Don Quixote! O famous famous droll Sancho! All and each, may ye live countless ages for the delight and amusement of the dwellers on earth!

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - In Durance"
 weight: 10
-aliases:
-  - "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-10.html"
+url: "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-10.html"
 ---
 
 The public houses of Barsoom, I have found, vary but little. There is no privacy for other than married couples.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-01.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-01.html"
 ---
 
 Lieutenant Albert Werper had only the prestige of the name he had dishonored to thank for his narrow escape from being cashiered. At first he had been humbly thankful, too, that they had sent him to this Godforsaken Congo post instead of court-martialing him, as he had so justly deserved; but now six months of the monotony, the frightful isolation and the loneliness had wrought a change. The young man brooded continually over his fate. His days were filled with morbid self-pity, which eventually engendered in his weak and vacillating mind a hatred for those who had sent him here-- for the very men he had at first inwardly thanked for saving him from the ignominy of degradation.

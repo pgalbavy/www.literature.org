@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - In Which M. Seguier, Keeper Of The Seals, Looks More Than Once For The Bell, In Order To Ring It, As He Did Before"
 weight: 17
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-16.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-16.html"
 ---
 
 It is impossible to form an idea of the impression these few words made upon Louis XIII. He grew pale and red alternately; and the cardinal saw at once that he had recovered by a single blow all the ground he had lost.

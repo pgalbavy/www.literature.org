@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - Sunshine"
 weight: 37
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-37.html"
+url: "/authors/bronte-charlotte/villette/chapter-37.html"
 ---
 
 It was very, well for Paulina to decline further correspondence with Graham till her father had sanctioned the intercourse. But Dr. Bretton could not live within a league of the Hôtel Crécy, and not contrive to visit there often. Both lovers meant at first, I believe, to be distant; they kept their intention so far as demonstrative courtship went, but in feeling they soon drew very near.

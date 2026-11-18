@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/lawrence-david-herbert/the-virgin-and-the-gypsy/chapter-04.html"
+url: "/authors/lawrence-david-herbert/the-virgin-and-the-gypsy/chapter-04.html"
 ---
 
 There was a terrific rumpus down at the rectory, on account of Yvette and the Window Fund. After the war, Aunt Cissie had set her heart on a stained glass window in the church, as a memorial for the men of the parish who had fallen. But the bulk of the fallen had been non-conformists, so the memorial took the form of an ugly little monument in front of the Wesleyan chapel.

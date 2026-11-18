@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Refugees"
 weight: 4
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-04.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-04.html"
 ---
 
 It was almost one o'clock in the morning when Code went into the parlor of his mother's cottage and sank down upon the ancient plush sofa. His eyes ached, and the back of his head and neck, where the fire had singed him, were throbbing painfully.

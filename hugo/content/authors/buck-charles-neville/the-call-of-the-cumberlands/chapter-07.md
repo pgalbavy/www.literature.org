@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-07.html"
+url: "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-07.html"
 ---
 
 From time to time that day, neighbors had ridden up to Spicer South's stile, and drawn rein for gossip. These men brought bulletins as to the progress of the hounds, and near sundown, as a postscript to their information, a volley of gunshot signals sounded from a mountain top. No word was spoken, but in common accord the kinsmen rose from their chairs, and drifted toward their leaning rifles.

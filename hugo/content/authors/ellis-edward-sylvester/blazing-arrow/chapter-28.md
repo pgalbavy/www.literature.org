@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Good News"
 weight: 28
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-28.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-28.html"
 ---
 
 Wharton Edwards could not keep back the question any longer.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-15.html"
+url: "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-15.html"
 ---
 
 Ozma and Dorothy were quite pleased with Woot the Wanderer, whom they found modest and intelligent and very well mannered. The boy was truly grateful for his release from the cruel enchantment, and he promised to love, revere and defend the girl Ruler of Oz forever afterward, as a faithful subject.

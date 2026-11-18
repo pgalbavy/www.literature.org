@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Doing Good"
 weight: 6
-aliases:
-  - "/authors/nesbit-edith/the-phoenix-and-the-carpet/chapter-06.html"
+url: "/authors/nesbit-edith/the-phoenix-and-the-carpet/chapter-06.html"
 ---
 
 'We shan't be able to go anywhere on the carpet for a whole week, though,' said Robert.

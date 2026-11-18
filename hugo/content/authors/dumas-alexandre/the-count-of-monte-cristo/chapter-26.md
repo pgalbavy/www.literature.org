@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - The Pont Du Gard Inn"
 weight: 26
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-26.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-26.html"
 ---
 
 Such of my readers as have made a pedestrian excursion to the south of France may perchance have noticed, about midway between the town of Beaucaire and the village of Bellegarde, - a little nearer to the former than to the latter, - a small roadside inn, from the front of which hung, creaking and flapping in the wind, a sheet of tin covered with a grotesque representation of the Pont du Gard. This modern place of entertainment stood on the left-hand side of the post road, and backed upon the Rhone. It also boasted of what in Languedoc is styled a garden, consisting of a small plot of ground, on the side opposite to the main entrance reserved for the reception of guests. A few dingy olives and stunted fig-trees struggled hard for existence, but their withered dusty foliage abundantly proved how unequal was the conflict. Between these sickly shrubs grew a scanty supply of garlic, tomatoes, and eschalots; while, lone and solitary, like a forgotten sentinel, a tall pine raised its melancholy head in one of the corners of this unattractive spot, and displayed its flexible stem and fan-shaped summit dried and cracked by the fierce heat of the sub-tropical sun.

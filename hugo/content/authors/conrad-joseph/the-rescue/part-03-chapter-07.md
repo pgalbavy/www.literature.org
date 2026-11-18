@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 7"
 weight: 20
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-03-chapter-07.html"
+url: "/authors/conrad-joseph/the-rescue/part-03-chapter-07.html"
 ---
 
 His tale was as startling as the discovery of a new world. She was being taken along the boundary of an exciting existence, and she looked into it through the guileless enthusiasm of the narrator. The heroic quality of the feelings concealed what was disproportionate and absurd in that gratitude, in that friendship, in that inexplicable devotion. The headlong fierceness of purpose invested his obscure design of conquest with the proportions of a great enterprise. It was clear that no vision of a subjugated world could have been more inspiring to the most famous adventurer of history.

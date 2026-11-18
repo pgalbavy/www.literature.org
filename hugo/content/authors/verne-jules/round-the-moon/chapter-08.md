@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/verne-jules/round-the-moon/chapter-08.html"
+url: "/authors/verne-jules/round-the-moon/chapter-08.html"
 ---
 
 What had happened? Whence the cause of this singular intoxication, the consequences of which might have been very disastrous? A simple blunder of Michel's, which, fortunately, Nicholl was able to correct in time.

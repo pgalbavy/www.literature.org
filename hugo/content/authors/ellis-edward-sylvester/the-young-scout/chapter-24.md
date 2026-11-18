@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Reality"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-scout/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-24.html"
 ---
 
 As Mendez pronounced the dreadful words, the father, overcome by his emotions, uttered a groan and sank to the earth. As if pitying his grief, and feeling that it was idle to say anything more, the Apache turned slowly about and walked away, leaving the white man alone with his grief.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Marilla Makes Up Her Mind"
 weight: 6
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-06.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-06.html"
 ---
 
 Get there they did, however, in due season. Mrs. Spencer lived in a big yellow house at White Sands Cove, and she came to the door with surprise and welcome mingled on her benevolent face.

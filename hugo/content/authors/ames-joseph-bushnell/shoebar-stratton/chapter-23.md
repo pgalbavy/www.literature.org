@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Where The Wheel Tracks Led"
 weight: 23
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-23.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-23.html"
 ---
 
 Bud Jessup removed a battered stew-pan from the fire and set it aside to cool a little.

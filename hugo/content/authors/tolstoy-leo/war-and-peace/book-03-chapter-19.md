@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 19"
 weight: 68
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-03-chapter-19.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-03-chapter-19.html"
 ---
 
 On the Pratzen Heights, where he had fallen with the flagstaff in his hand, lay Prince Andrew Bolkonski bleeding profusely and unconsciously uttering a gentle, piteous, and childlike moan.

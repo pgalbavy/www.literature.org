@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-04.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-04.html"
 ---
 
 Mrs. Bowse's boarding-house began to be even better pleased with him than before. He had stories to tell, festivities to describe, and cheerful incidents to recount. The boarders assisted vicariously at weddings and wedding receptions, afternoon teas and dances, given in halls. “Up-town” seemed to them largely given to entertainment and hilarity of an enviably prodigal sort. Mrs. Bowse's guests were not of the class which entertains or is entertained, and the details of banquets and ball-dresses and money-spending were not uncheering material for conversation. Such topics suggested the presence and dispensing of a good deal of desirable specie, which in floating about might somehow reach those who needed it most. The impression was that T. Tembarom was having “a good time.” It was not his way to relate any incidents which were not of a cheering or laughter-inspiring nature. He said nothing of the times when his luck was bad, when he made blunders, and, approaching the wrong people, was met roughly or grudgingly, and found no resource left but to beat a retreat. He made no mention of his experiences in the blizzard, which continued, and at times nearly beat breath and life out of him as he fought his way through it. Especially he told no story of the morning when, after having labored furiously over the writing of his “stuff” until long after midnight, he had taken it to Galton, and seen his face fall as he looked over it. To battle all day with a blizzard and occasional brutal discouragements, and to sit up half the night tensely absorbed in concentrating one's whole mental equipment upon the doing of unaccustomed work has its effect. As he waited, Tembarom unconsciously shifted from one foot to another, and had actually to swallow a sort of lump in his throat.

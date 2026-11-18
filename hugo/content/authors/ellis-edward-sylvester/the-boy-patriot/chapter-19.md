@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Home"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-19.html"
 ---
 
 A light fall of snow had clothed all Fairport in white, and whispered in the ears of lingering birds that they had better be off for the "sunny south," ere old winter had fairly begun his icy reign. Cold and dark, the waters of the harbor lay encircled by the pure and glistening land. Cheerful wood fires were warming many a hearth-stone, while wives and mothers thought of their absent ones on the sea, and hoped and prayed no chilling storm might be rending their sails and perilling the lives so precious to home and native land.

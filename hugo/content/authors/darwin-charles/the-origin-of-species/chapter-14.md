@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Recapitulation and Conclusion"
 weight: 16
-aliases:
-  - "/authors/darwin-charles/the-origin-of-species/chapter-14.html"
+url: "/authors/darwin-charles/the-origin-of-species/chapter-14.html"
 ---
 
 arrow_rightRecapitulation of the difficulties on the theory of Natural Selection arrow_rightRecapitulation of the general and special circumstances in its favour arrow_rightCauses of the general belief in the immutability of species arrow_rightHow far the theory of natural selection may be extended arrow_rightEffects of its adoption on the study of Natural history arrow_rightConcluding remarks ---

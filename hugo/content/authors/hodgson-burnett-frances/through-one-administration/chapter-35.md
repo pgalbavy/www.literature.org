@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 35
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-35.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-35.html"
 ---
 
 The last words of his half-reluctant, half-exultant confession had scarcely left Richard Amory's lips when Tredennis rose from his chair.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Fight"
 weight: 18
-aliases:
-  - "/authors/titus-harold/bruce-of-the-circle-a/chapter-18.html"
+url: "/authors/titus-harold/bruce-of-the-circle-a/chapter-18.html"
 ---
 
 Bayard had guessed rightly. After miles of silent riding Lytton had pulled his horse up with a jerk, had laid a hand on Ann's bridle and checked her pony with another wrench.

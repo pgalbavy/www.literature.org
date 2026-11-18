@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - I Receive A Letter"
 weight: 26
-aliases:
-  - "/authors/christie-agatha/the-murder-on-the-links/chapter-26.html"
+url: "/authors/christie-agatha/the-murder-on-the-links/chapter-26.html"
 ---
 
 "*My Friend:__*  

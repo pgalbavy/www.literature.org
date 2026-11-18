@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-05.html"
+url: "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-05.html"
 ---
 
 The words of the cold and moist vegetable Prince were not very comforting, and as he spoke them he turned away and left the enclosure. The children, feeling sad and despondent, were about to follow him when the Wizard touched Dorothy softly on her shoulder.

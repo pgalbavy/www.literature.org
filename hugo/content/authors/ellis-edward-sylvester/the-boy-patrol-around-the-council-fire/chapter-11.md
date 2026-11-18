@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - An Unsatisfactory Interview"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-11.html"
 ---
 
 Mike Murphy was never more astounded in his life.

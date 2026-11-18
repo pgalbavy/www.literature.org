@@ -1,8 +1,7 @@
 ---
 title: "Book 7 - Chapter 13"
 weight: 145
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-07-chapter-13.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-07-chapter-13.html"
 ---
 
 Soon after the Christmas holidays Nicholas told his mother of his love for Sonya and of his firm resolve to marry her. The countess, who had long noticed what was going on between them and was expecting this declaration, listened to him in silence and then told her son that he might marry whom he pleased, but that neither she nor his father would give their blessing to such a marriage. Nicholas, for the first time, felt that his mother was displeased with him and that, despite her love for him, she would not give way. Coldly, without looking at her son, she sent for her husband and, when he came, tried briefly and coldly to inform him of the facts, in her son's presence, but unable to restrain herself she burst into tears of vexation and left the room. The old count began irresolutely to admonish Nicholas and beg him to abandon his purpose. Nicholas replied that he could not go back on his word, and his father, sighing and evidently disconcerted, very soon became silent and went in to the countess. In all his encounters with his son, the count was always conscious of his own guilt toward him for having wasted the family fortune, and so he could not be angry with him for refusing to marry an heiress and choosing the dowerless Sonya. On this occasion, he was only more vividly conscious of the fact that if his affairs had not been in disorder, no better wife for Nicholas than Sonya could have been wished for, and that no one but himself with his Mitenka and his uncomfortable habits was to blame for the condition of the family finances.

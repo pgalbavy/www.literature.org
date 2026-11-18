@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/london-jack/jerry-of-the-islands/chapter-09.html"
+url: "/authors/london-jack/jerry-of-the-islands/chapter-09.html"
 ---
 
 Jerry and Skipper shared the long afternoon-watch together, the latter being guilty of recurrent chuckles and exclamations such as: "Gott-fer-dang, Jerry, believe me, you're some fighter and all dog"; or, "You're a proper man's dog, you are, a lion dog. I bet the lion don't live that could get your goat."

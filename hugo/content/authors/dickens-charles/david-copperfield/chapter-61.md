@@ -1,8 +1,7 @@
 ---
 title: "Chapter 61 - I Am Shown Two Interesting Penitents"
 weight: 62
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-61.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-61.html"
 ---
 
 For a time--at all events until my book should be completed, which would be the work of several months--I took up my abode in my aunt’s house at Dover; and there, sitting in the window from which I had looked out at the moon upon the sea, when that roof first gave me shelter, I quietly pursued my task.

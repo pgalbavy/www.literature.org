@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-16.html"
+url: "/authors/eliot-george/middlemarch/chapter-16.html"
 ---
 
 "All that in woman is adored In thy fair self I find - For the whole sex can but afford The handsome and the kind." - SIR CHARLES SEDLEY.

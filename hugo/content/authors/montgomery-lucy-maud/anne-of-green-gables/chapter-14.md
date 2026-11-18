@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Anne's Confession"
 weight: 14
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-14.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-14.html"
 ---
 
 ON the Monday evening before the picnic Marilla came down from her room with a troubled face.

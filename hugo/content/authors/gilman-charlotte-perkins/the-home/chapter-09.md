@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Domestic Ethics"
 weight: 10
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-home/chapter-09.html"
+url: "/authors/gilman-charlotte-perkins/the-home/chapter-09.html"
 ---
 
 The relation of the home to ethics is so vital, so intimate, so extensive, as to call for the utmost care and patience in its study.

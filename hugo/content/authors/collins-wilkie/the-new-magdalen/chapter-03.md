@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The German Shell"
 weight: 3
-aliases:
-  - "/authors/collins-wilkie/the-new-magdalen/chapter-03.html"
+url: "/authors/collins-wilkie/the-new-magdalen/chapter-03.html"
 ---
 
 A THIRD rifle-shot rang through the night air, close to the cottage. Grace started and approached the window in alarm.

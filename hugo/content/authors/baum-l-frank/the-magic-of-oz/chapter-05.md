@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/baum-l-frank/the-magic-of-oz/chapter-05.html"
+url: "/authors/baum-l-frank/the-magic-of-oz/chapter-05.html"
 ---
 
 There is no other country so beautiful as the Land of Oz. There are no other people so happy and contented and prosperous as the Oz people. They have all they desire; they love and admire their beautiful girl Ruler, Ozma of Oz, and they mix work and play so justly that both are delightful and satisfying and no one has any reason to complain. Once in a while something happens in Oz to disturb the people's happiness for a brief time, for so rich and attractive a fairyland is sure to make a few selfish and greedy outsiders envious, and therefore certain evil-doers have treacherously plotted to conquer Oz and enslave its people and destroy its girl Ruler, and so gain the wealth of Oz for themselves. But up to the time when the cruel and crafty Nome, Ruggedo, conspired with Kiki Aru, the Hyup, all such attempts had failed. The Oz people suspected no danger. Life in the world's nicest fairyland was one round of joyous, happy days.

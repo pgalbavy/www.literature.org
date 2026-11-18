@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 2"
 weight: 44
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-02.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-02.html"
 ---
 
 Elizabeth had settled it that Mr. Darcy would bring his sister to visit her, the very day after her reaching Pemberley; and was consequently resolved not to be out of sight of the inn the whole of that morning. But her conclusion was false; for on the very morning after their own arrival at Lambton, these visitors came. They had been walking about the place with some of their new friends, and were just returned to the inn to dress themselves for dining with the same family, when the sound of a carriage drew them to a window, and they saw a gentleman and lady in a curricle, driving up the street. Elizabeth immediately recognising the livery, guessed what it meant, and imparted no small degree of surprise to her relations, by acquainting them with the honour which she expected. Her uncle and aunt were all amazement; and the embarrassment of her manner as she spoke, joined to the circumstance itself, and many of the circumstances of the preceding day, opened to them a new idea on the business. Nothing had ever suggested it before, but they now felt that there was no other way of accounting for such attentions from such a quarter, than by supposing a partiality for their niece. While these newly-born notions were passing in their heads, the perturbation of Elizabeth's feelings was every moment increasing. She was quite amazed at her own discomposure; but amongst other causes of disquiet, she dreaded lest the partiality of the brother should have said too much in her favour; and more than commonly anxious to please, she naturally suspected that every power of pleasing would fail her.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-09.html"
+url: "/authors/haggard-h-rider/dawn/chapter-09.html"
 ---
 
 Poor Hilda found life in her London lodging anything but cheerful, and frequently begged Philip to allow her to settle somewhere in the country. This, however, he refused to do on two grounds: in the first place, because few country villages would be so convenient for him to get at as London; and in the second, because he declared that the great city was the safest hiding-place in the world.

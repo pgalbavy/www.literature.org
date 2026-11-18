@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/london-jack/before-adam/chapter-18.html"
+url: "/authors/london-jack/before-adam/chapter-18.html"
 ---
 
 Of our wanderings in the great swamp I have no clear knowledge. When I strive to remember, I have a riot of unrelated impressions and a loss of time-value. I have no idea of how long we were in that vast everglade, but it must have been for weeks. My memories of what occurred invariably take the form of nightmare. For untold ages, oppressed by protean fear, I am aware of wandering, endlessly wandering, through a dank and soggy wilderness, where poisonous snakes struck at us, and animals roared around us, and the mud quaked under us and sucked at our heels.

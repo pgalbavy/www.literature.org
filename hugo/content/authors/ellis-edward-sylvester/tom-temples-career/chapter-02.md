@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Introduces Tom Temple"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-02.html"
 ---
 
 *THE STAGE* stopped in front of the Plympton Hotel two days afterward. There were several inside passengers, but with these we have nothing to do. Beside the driver sat a stout boy, with a keen, expressive face, who looked full of life and activity.

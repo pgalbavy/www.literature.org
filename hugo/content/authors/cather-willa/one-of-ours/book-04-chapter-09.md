@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 9"
 weight: 53
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-04-chapter-09.html"
+url: "/authors/cather-willa/one-of-ours/book-04-chapter-09.html"
 ---
 
 "Look at this, Doctor!" Claude caught Dr. Trueman on his way from breakfast and handed him a written notice, signed D. T. Micks, Chief Steward. It stated that no more eggs or oranges could be furnished to patients, as the supply was exhausted.

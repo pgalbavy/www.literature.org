@@ -1,8 +1,7 @@
 ---
 title: "Chapter 63 - How M. D'eymeris's Diamond Passed Into The Hands Of M. D'artagnan."
 weight: 63
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-63.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-63.html"
 ---
 
 Whilst this violent, noisy, and bloody scene was passing on the Greve, several men, barricaded behind the gate of communication with the garden, replaced their swords in their sheaths, assisted one among them to mount a ready saddled horse which was waiting in the garden, and like a flock of startled birds, fled in all directions, some climbing the walls, others rushing out at the gates with all the fury of a panic. He who mounted the horse, and gave him the spur so sharply that the animal was near leaping the wall, this cavalier, we say, crossed the Place Baudoyer, passed like lightning before the crowd in the streets, riding against, running over and knocking down all that came in his way, and, ten minutes after, arrived at the gates of the superintendent, more out of breath than his horse. The Abbe Fouquet, at the clatter of the hoofs on the pavement, appeared at a window of the court, and before even the cavalier had set foot to the ground, "Well! Danecamp?" cried he, leaning half out of the window.

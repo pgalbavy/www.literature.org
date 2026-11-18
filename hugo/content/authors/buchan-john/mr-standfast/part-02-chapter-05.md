@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 5 - I Lie On A Hard Bed"
 weight: 16
-aliases:
-  - "/authors/buchan-john/mr-standfast/part-02-chapter-05.html"
+url: "/authors/buchan-john/mr-standfast/part-02-chapter-05.html"
 ---
 
 The journalist from Kansas City was a man of action. He wasted no words in introducing himself or unfolding his plan of campaign. "You’ve got to follow me, mister, and not deviate one inch from my tracks. The explaining part will come later. There’s big business in this shack tonight." He unlocked the little door with scarcely a sound, slid the crust of snow from his boots, and preceded me into a passage as black as a cellar. The door swung smoothly behind us, and after the sharp out-of-doors the air smelt stuffy as the inside of a safe.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Sut's Camp Fire"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-20.html"
 ---
 
 "But where are Lone Wolf and his warriors?" asked Fred.

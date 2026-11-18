@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The P.C. And P.O."
 weight: 10
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-10.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-10.html"
 ---
 
 As spring came on, a new set of amusements became the fashion, and the lengthening days gave long afternoons for work and play of all sorts. The garden had to be put in order, and each sister had a quarter of the little plot to do what she liked with. Hannah used to say, "I'd know which each of them gardings belonged to, ef I see 'em in Chiny," and so she might, for the girls' tastes differed as much as their characters. Meg's had roses and heliotrope, myrtle, and a little orange tree in it. Jo's bed was never alike two seasons, for she was always trying experiments. This year it was to be a plantation of sun flowers, the seeds of which cheerful land aspiring plant were to feed Aunt Cockle-top and her family of chicks. Beth had old-fashioned fragrant flowers in her garden, sweet peas and mignonette, larkspur, pinks, pansies, and southernwood, with chickweed for the birds and catnip for the pussies. Amy had a bower in hers, rather small and earwiggy, but very pretty to look at, with honeysuckle and morning-glories hanging their colored horns and bells in graceful wreaths all over it, tall white lilies, delicate ferns, and as many brilliant, picturesque plants as would consent to blossom there.

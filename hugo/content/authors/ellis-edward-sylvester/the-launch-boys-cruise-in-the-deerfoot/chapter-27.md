@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - An Alarming Fact"
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-27.html"
 ---
 
 Neither Alvin nor Chester asked their companion to explain his startling words, for there was no need to do so: only one meaning could be given them.

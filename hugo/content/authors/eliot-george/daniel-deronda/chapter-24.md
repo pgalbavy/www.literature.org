@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-24.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-24.html"
 ---
 
 "I question things but do not find One that will answer to my mind: And all the world appears unkind." - WORDSWORTH.

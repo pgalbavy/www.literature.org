@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-11.html"
+url: "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-11.html"
 ---
 
 As they followed a path down the blue-grass hillside, the first house that met the view of the travelers was joyously recognized by the Scarecrow Bear as the one inhabited by his friend Jinjur, so they increased their speed and hurried toward it.

@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 1"
 weight: 2
-aliases:
-  - "/authors/cather-willa/my-antonia/book-01-chapter-01.html"
+url: "/authors/cather-willa/my-antonia/book-01-chapter-01.html"
 ---
 
 I FIRST HEARD OF Antonia on what seemed to me an interminable journey across the great midland plain of North America. I was ten years old then; I had lost both my father and mother within a year, and my Virginia relatives were sending me out to my grandparents, who lived in Nebraska. I travelled in the care of a mountain boy, Jake Marpole, one of the ‘hands’ on my father’s old farm under the Blue Ridge, who was now going West to work for my grandfather. Jake’s experience of the world was not much wider than mine. He had never been in a railway train until the morning when we set out together to try our fortunes in a new world.

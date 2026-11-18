@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-18.html"
+url: "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-18.html"
 ---
 
 Meriem and Bwana were sitting on the verandah together the following day when a horseman appeared in the distance riding across the plain toward the bungalow. Bwana shaded his eyes with his hand and gazed out toward the oncoming rider. He was puzzled. Strangers were few in Central Africa. Even the blacks for a distance of many miles in every direction were well known to him. No white man came within a hundred miles that word of his coming did not reach Bwana long before the stranger. His every move was reported to the big Bwana--just what animals he killed and how many of each species, how he killed them, too, for Bwana would not permit the use of prussic acid or strychnine; and how he treated his "boys."

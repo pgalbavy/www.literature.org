@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-14.html"
+url: "/authors/london-jack/martin-eden/chapter-14.html"
 ---
 
 It was not because of Olney, but in spite of Ruth, and his love for Ruth, that he finally decided not to take up Latin. His money meant time. There was so much that was more important than Latin, so many studies that clamored with imperious voices. And he must write. He must earn money. He had had no acceptances. Twoscore of manuscripts were travelling the endless round of the magazines. How did the others do it? He spent long hours in the free reading- room, going over what others had written, studying their work eagerly and critically, comparing it with his own, and wondering, wondering, about the secret trick they had discovered which enabled them to sell their work.

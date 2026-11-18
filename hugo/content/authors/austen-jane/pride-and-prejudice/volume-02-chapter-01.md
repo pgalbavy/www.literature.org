@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 1"
 weight: 24
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-01.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-01.html"
 ---
 
 Miss Bingley's letter arrived, and put an end to doubt. The very first sentence conveyed the assurance of their being all settled in London for the winter, and concluded with her brother's regret at not having had time to pay his respects to his friends in Hertfordshire before he left the country.

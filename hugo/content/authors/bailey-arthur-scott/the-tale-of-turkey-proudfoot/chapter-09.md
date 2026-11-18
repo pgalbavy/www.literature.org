@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A Strange Gobble"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-09.html"
 ---
 
 "Gobble, _gobble, gobble, gobble!_"

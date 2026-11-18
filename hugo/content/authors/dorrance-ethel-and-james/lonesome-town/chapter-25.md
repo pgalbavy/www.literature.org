@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Hunters Hunted"
 weight: 25
-aliases:
-  - "/authors/dorrance-ethel-and-james/lonesome-town/chapter-25.html"
+url: "/authors/dorrance-ethel-and-james/lonesome-town/chapter-25.html"
 ---
 
 Really surprising was the detailed topographical knowledge which the western trail-blazer had acquired during recent adventures. He picked their way through the tumbled terrain of the park heights as if from a map. That he knew the up-and-down maze better than the officers now after them was demonstrated when they gained the path that represents the ultimate democracy of horsemanship by a scramble down a rocky slope with none of the pack in sight.

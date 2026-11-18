@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 3 - The Shadow"
 weight: 33
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-03.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-03.html"
 ---
 
 ONE Of the first considerations which arose in the business mind of Mr. Lorry when business hours came round, was this:- that he had no right to imperil Tellson's by sheltering the wife of an emigrant prisoner under the Bank roof. His own possessions, safety, life, he would have hazarded for Lucie and her child, without a moment's demur; but the great trust he held was not his own, and as to that business charge he was a strict man of business.

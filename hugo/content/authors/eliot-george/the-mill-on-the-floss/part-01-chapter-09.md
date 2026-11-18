@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 9 - To Garum Firs"
 weight: 9
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-01-chapter-09.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-01-chapter-09.html"
 ---
 
 While the possible troubles of Maggie's future were occupying her father's mind, she herself was tasting only the bitterness of the present. Childhood has no forebodings; but then, it is soothed by no memories of outlived sorrow.

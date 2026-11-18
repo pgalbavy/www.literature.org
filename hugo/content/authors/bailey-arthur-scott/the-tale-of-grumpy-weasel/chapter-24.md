@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Fur And Feathers"
 weight: 24
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-24.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-24.html"
 ---
 
 To find Grumpy Weasel, Tommy Fox went straight back to the place where he had left him. It was easy, then, to follow his queer tracks. Grumpy's legs were so short that they did not lift his lean body clear of the deep snow, except when he jumped very high; so his trail looked somewhat like that of a snake with legs.

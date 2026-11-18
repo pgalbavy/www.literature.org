@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-03.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-03.html"
 ---
 
 Two years later he found himself, one evening in March, driving along Pennsylvania avenue in a musty hack, which might have been the very one which had borne him to the depot the night he had seen the last of Bertha and her white roses. But the streets were gayer now than they had been then. He had arrived only a day or so after the occurrence of an event of no less national importance than the inauguration of a newly elected President, and there still remained traces of the festivities attendant upon this ceremony, in the shape of unremoved decorations fluttering from windows, draping doors, and swaying in lines across the streets. Groups of people, wearing a rather fatigued air of having remained after the feast for the purpose of more extended sight-seeing, gave the sidewalks a well-filled look, and here and there among them was to be seen a belated uniform which had figured effectively in the procession to the Capitol two days before.

@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 44 - In Which Are Continued The Unheard-Of Adventures Of The Inn"
 weight: 47
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-44.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-44.html"
 ---
 
 So loud, in fact, were the shouts of Don Quixote, that the landlord opening the gate of the inn in all haste, came out in dismay, and ran to see who was uttering such cries, and those who were outside joined him. Maritornes, who had been by this time roused up by the same outcry, suspecting what it was, ran to the loft and, without anyone seeing her, untied the halter by which Don Quixote was suspended, and down he came to the ground in the sight of the landlord and the travellers, who approaching asked him what was the matter with him that he shouted so. He without replying a word took the rope off his wrist, and rising to his feet leaped upon Rocinante, braced his buckler on his arm, put his lance in rest, and making a considerable circuit of the plain came back at a half-gallop exclaiming:

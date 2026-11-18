@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - A Long Wait"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-chirpy-cricket/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-chirpy-cricket/chapter-16.html"
 ---
 
 Chirpy cricket was so good-natured that he wouldn't quarrel with his cousin, Tommy Tree Cricket. Although Tommy had said bluntly that Chirpy's fiddling reminded him of Farmer Green's creaking pump, Chirpy made no disagreeable answer. He did not want to hurt his pale cousin's feelings.

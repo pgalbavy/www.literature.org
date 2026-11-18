@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Fellow Traveller"
 weight: 1
-aliases:
-  - "/authors/christie-agatha/the-murder-on-the-links/chapter-01.html"
+url: "/authors/christie-agatha/the-murder-on-the-links/chapter-01.html"
 ---
 
 I believe that a well-known anecdote exists to the effect that a young writer, determined to make the commencement of his story forcible and original enough to catch and rivet the attention of the most blasé of editors, penned the following sentence:

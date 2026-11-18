@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/bronte-charlotte/the-professor/chapter-08.html"
+url: "/authors/bronte-charlotte/the-professor/chapter-08.html"
 ---
 
 AND Pelet himself? How did I continue to like him? Oh, extremely well! Nothing could be more smooth, gentlemanlike, and even friendly, than his demeanour to me. I had to endure from him neither cold neglect, irritating interference, nor pretentious assumption of superiority. I fear, however, two poor, hard-worked Belgian ushers in the establishment could not have said as much; to them the director's manner was invariably dry, stern, and cool. I believe he perceived once or twice that I was a little shocked at the difference he made between them and me, and accounted for it by saying, with a quiet sarcastic smile--

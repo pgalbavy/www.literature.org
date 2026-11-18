@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 20"
 weight: 20
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-20.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-20.html"
 ---
 
 The whole of that day Anna spent at home, that's to say at the Oblonskys', and received no one, though some of her acquaintances had already heard of her arrival, and came to call ;the same day. Anna spent the whole morning with Dolly and the children. She merely sent a brief note to her brother to tell him that he must not fail to dine at home. "Come, God is merciful," she wrote.

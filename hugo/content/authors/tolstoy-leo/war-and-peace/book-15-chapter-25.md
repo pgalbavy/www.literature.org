@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 25"
 weight: 342
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-25.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-25.html"
 ---
 
 Natasha's wedding to Bezukhov, which took place in 1813, was the last happy event in the family of the old Rostovs. Count Ilya Rostov died that same year and, as always happens, after the father's death the family group broke up.

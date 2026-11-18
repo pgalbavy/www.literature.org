@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Parsonage Twins"
 weight: 6
-aliases:
-  - "/authors/brown-ruth-alberta/heart-of-gold/chapter-06.html"
+url: "/authors/brown-ruth-alberta/heart-of-gold/chapter-06.html"
 ---
 
 "Peace, Peace, guess what's happened!"

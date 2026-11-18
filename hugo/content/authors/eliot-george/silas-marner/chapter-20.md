@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/eliot-george/silas-marner/chapter-20.html"
+url: "/authors/eliot-george/silas-marner/chapter-20.html"
 ---
 
 Nancy and Godfrey walked home under the starlight in silence. When they entered the oaken parlour, Godfrey threw himself into his chair, while Nancy laid down her bonnet and shawl, and stood on the hearth near her husband, unwilling to leave him even for a few minutes, and yet fearing to utter any word lest it might jar on his feeling. At last Godfrey turned his head towards her, and their eyes met, dwelling in that meeting without any movement on either side. That quiet mutual gaze of a trusting husband and wife is like the first moment of rest or refuge from a great weariness or a great danger - not to be interfered with by speech or action which would distract the sensations from the fresh enjoyment of repose.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Proposal And An Acceptance"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-01.html"
 ---
 
 Alvin Landon and Chester Haynes were having a merry time in the home of Mike Murphy, when a servant knocked and made known that a caller was awaiting Alvin in the handsome bungalow belonging to his father. I have told you how the boys hurried thither, wondering who he could be, and how they were astonished to find him the "man in gray," who had become strangely mixed up in their affairs during the preceding few days.

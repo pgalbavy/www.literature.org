@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-14.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-14.html"
 ---
 
 _(Anne’s Narrative Resumed)_

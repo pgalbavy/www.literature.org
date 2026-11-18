@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Savage Home"
 weight: 2
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-02.html"
+url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-02.html"
 ---
 
 Nor did they have long to wait, for the next morning as Clayton was emerging on deck for his accustomed walk before breakfast, a shot rang out, and then another, and another.

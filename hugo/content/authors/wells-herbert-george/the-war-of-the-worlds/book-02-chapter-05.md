@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 5 - The Stillness"
 weight: 22
-aliases:
-  - "/authors/wells-herbert-george/the-war-of-the-worlds/book-02-chapter-05.html"
+url: "/authors/wells-herbert-george/the-war-of-the-worlds/book-02-chapter-05.html"
 ---
 
 My first act before I went into the pantry was to fasten the door between the kitchen and the scullery. But the pantry was empty; every scrap of food had gone. Appar- ently, the Martian had taken it all on the previous day. At that discovery I despaired for the first time. I took no food, or no drink either, on the eleventh or the twelfth day.

@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 5"
 weight: 6
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-01-chapter-05.html"
+url: "/authors/haggard-h-rider/cleopatra/book-01-chapter-05.html"
 ---
 
 OF THE RETURN OF HARMACHIS TO ABOUTHIS; OF THE CELEBRATION OF THE MYSTERIES; OF THE CHANT OF ISIS; AND OF THE WARNING OF AMENEMHAT

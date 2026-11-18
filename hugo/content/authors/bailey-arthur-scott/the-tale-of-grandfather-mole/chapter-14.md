@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The New Sunshade"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-14.html"
 ---
 
 GRANDFATHER MOLE was resting in the shade of a toadstool. It was a stifling, sultry day. And having come up into the garden on some errand or other, Grandfather Mole had found the sunshine upon his back altogether too hot for his liking.

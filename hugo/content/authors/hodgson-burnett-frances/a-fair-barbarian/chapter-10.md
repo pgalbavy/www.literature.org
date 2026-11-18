@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Announcing Mr. Barold"
 weight: 10
-aliases:
-  - "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-10.html"
+url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-10.html"
 ---
 
 Lady Theobald's invited guests sat in the faded blue drawing-room, waiting. Everybody had been unusually prompt, perhaps because everybody wished to be on the ground in time to see Miss Octavia Bassett make her entrance.

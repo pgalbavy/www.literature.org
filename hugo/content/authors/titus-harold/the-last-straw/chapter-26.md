@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Battle!"
 weight: 26
-aliases:
-  - "/authors/titus-harold/the-last-straw/chapter-26.html"
+url: "/authors/titus-harold/the-last-straw/chapter-26.html"
 ---
 
 Jane found herself on the pinto racing through the night, ducking under cedars until she was clear of the timber, crashing through brush, leaping washes and at her side, silent, close, protecting her, an arm ready to grasp her body should her horse fall, rode Tom Beck.

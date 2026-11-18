@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Capture of Tarzan"
 weight: 2
-aliases:
-  - "/authors/burroughs-edgar-rice/jungle-tales-of-tarzan/chapter-02.html"
+url: "/authors/burroughs-edgar-rice/jungle-tales-of-tarzan/chapter-02.html"
 ---
 
 THE BLACK WARRIORS labored in the humid heat of the jungle's stifling shade. With war spears they loosened the thick, black loam and the deep layers of rotting vegetation. With heavy-nailed fingers they scooped away the disintegrated earth from the center of the age-old game trail. Often they ceased their labors to squat, resting and gossiping, with much laughter, at the edge of the pit they were digging.

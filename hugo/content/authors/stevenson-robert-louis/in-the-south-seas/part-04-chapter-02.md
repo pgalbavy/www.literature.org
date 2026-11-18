@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 2 - The King Of Apemama: Foundation Of Equator Town"
 weight: 30
-aliases:
-  - "/authors/stevenson-robert-louis/in-the-south-seas/part-04-chapter-02.html"
+url: "/authors/stevenson-robert-louis/in-the-south-seas/part-04-chapter-02.html"
 ---
 
 Our first sight of Tembinok’ was a matter of concern, almost alarm, to my whole party. We had a favour to seek; we must approach in the proper courtly attitude of a suitor; and must either please him or fail in the main purpose of our voyage. It was our wish to land and live in Apemama, and see more near at hand the odd character of the man and the odd (or rather ancient) condition of his island. In all other isles of the South Seas a white man may land with his chest, and set up house for a lifetime, if he choose, and if he have the money or the trade; no hindrance is conceivable. But Apemama is a close island, lying there in the sea with closed doors; the king himself, like a vigilant officer, ready at the wicket to scrutinise and reject intrenching visitors. Hence the attraction of our enterprise; not merely because it was a little difficult, but because this social quarantine, a curiosity in itself, has been the preservative of others.

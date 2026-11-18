@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Too Many Cousins"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-18.html"
 ---
 
 In high spirits Dickie Deer Mouse hurried on through the woods until he came to the big beech tree. And though many others had been there before him, since the nuts had ripened, Dickie had such a sharp eye for a beech nut that even though it was then night, he soon found enough for a hearty meal.

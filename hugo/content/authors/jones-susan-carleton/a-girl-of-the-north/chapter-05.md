@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-05.html"
+url: "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-05.html"
 ---
 
 THE long streak of smoke from the steamer’s funnel lay black on the calm sea; the strong throb of the engines sounded like the measure of a waltz to Launa. She sat on deck every day after the first woe of sea-sickness was over, and felt utterly and completely miserable. She wanted to go back again, for the ache of unconquered pain remained in her heart. She gave herself a little shake and tried to make herself agreeable to a young man who was returning to England to be married. He told her happily that the engines were playing the “Wedding March”; to her it was a hateful discord, with the refrain of a waltz to which she had danced with Paul. The young man hummed Mendelssohn, and she heard Paul’s voice, and fancied his kisses on the warm cheek of the squaw.

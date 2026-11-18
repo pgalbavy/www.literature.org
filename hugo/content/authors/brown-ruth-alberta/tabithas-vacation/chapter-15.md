@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Myra's Climax"
 weight: 15
-aliases:
-  - "/authors/brown-ruth-alberta/tabithas-vacation/chapter-15.html"
+url: "/authors/brown-ruth-alberta/tabithas-vacation/chapter-15.html"
 ---
 
 "Well, vacation is over, and we had just begun having a good time," sighed Tabitha mournfully, drawing back the curtains and peering out of the window that September morning into the gray fog of early dawn. "It doesn't seem possible that we are back in Los Angeles again. I 'most wish we had stayed at Catalina for this last day."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-06.html"
+url: "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-06.html"
 ---
 
 Woot had seen very little of magic during his wanderings, while the Scarecrow and the Tin Woodman had seen a great deal of many sorts in their lives, yet all three were greatly impressed by Mrs. Yoop's powers. She did not affect any mysterious airs or indulge in chants or mystic rites, as most witches do, nor was the Giantess old and ugly or disagreeable in face or manner. Nevertheless, she frightened her prisoners more than any witch could have done.

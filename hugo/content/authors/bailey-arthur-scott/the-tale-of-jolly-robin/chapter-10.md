@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The White Giant"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-10.html"
 ---
 
 It was a raw March day when Jolly Robin returned to Pleasant Valley one spring. There had just been a heavy fall of snow--big, wet flakes which Farmer Green called "sugar-snow," though it was no sweeter than any other. Johnnie Green liked that kind of snow because it made the best snowballs. And he had had a fine time playing in the orchard near the farmhouse, not long before Jolly Robin appeared there.

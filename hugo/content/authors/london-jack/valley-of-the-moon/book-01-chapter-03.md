@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 3"
 weight: 3
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-01-chapter-03.html"
+url: "/authors/london-jack/valley-of-the-moon/book-01-chapter-03.html"
 ---
 
 They had dinner in the open-air, tree-walled dining-room, and Saxon noted that it was Billy who paid the reckoning for the four. They knew many of the young men and women at the other tables, and greetings and fun flew back and forth. Bert was very possessive with Mary, almost roughly so, resting his hand on hers, catching and holding it, and, once, forcibly slipping off her two rings and refusing to return them for a long while. At times, when he put his arm around her waist, Mary promptly disengaged it; and at other times, with elaborate obliviousness that deceived no one, she allowed it to remain.

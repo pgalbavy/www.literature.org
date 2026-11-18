@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Sir Patrick"
 weight: 13
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-11.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-11.html"
 ---
 
 THE doubt was practically decided before Anne had determined what to do. She was still at the window when the sitting-room door was thrown open, and Sir Patrick appeared, obsequiously shown in by Mr. Bishopriggs.

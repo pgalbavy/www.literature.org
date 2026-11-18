@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - In The Dingey Of The \u0026quot;Lady Vain\u0026quot;"
 weight: 2
-aliases:
-  - "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-01.html"
+url: "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-01.html"
 ---
 
 I DO not propose to add anything to what has already been written concerning the loss of the "Lady Vain." As everyone knows, she collided with a derelict when ten days out from Callao. The longboat, with seven of the crew, was picked up eighteen days after by H. M. gunboat "Myrtle," and the story of their terrible privations has become quite as well known as the far more horrible "Medusa" case. But I have to add to the published story of the "Lady Vain" another, possibly as horrible and far stranger. It has hitherto been supposed that the four men who were in the dingey perished, but this is incorrect. I have the best of evidence for this assertion: I was one of the four men.

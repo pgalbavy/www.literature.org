@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - \"I Have Been Waiting For You\""
 weight: 15
-aliases:
-  - "/authors/leroux-gaston/the-secret-of-the-night/chapter-15.html"
+url: "/authors/leroux-gaston/the-secret-of-the-night/chapter-15.html"
 ---
 
 At the hotel a note from Gounsovski: "Don’t forget this time to come to-morrow to have luncheon with me. Warmest regards from Madame Gounsovski." Then a horrible, sleepless night, shaken with echoes of explosions and the clamor of the wounded; and the solemn shade of Pere Alexis, stretching out toward Rouletabille a phial of poison and saying, "Either Natacha or you!" Then, rising among the shades the bloody form of Michael Nikolaievitch the Innocent!

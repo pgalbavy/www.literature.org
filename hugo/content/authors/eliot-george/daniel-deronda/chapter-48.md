@@ -1,8 +1,7 @@
 ---
 title: "Chapter 48"
 weight: 48
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-48.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-48.html"
 ---
 
 'Tis hard and ill-paid task to order all things beforehand by the rule of our own security, as is well hinted by Machiavelli concerning Caesar Borgia, who, saith he, had thought of all that might occur on his father's death, and had provided against every evil chance save only one: it had never come into his mind that when his father died, his own death would quickly follow.

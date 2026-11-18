@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Nightgown"
 weight: 11
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-011.html"
+url: "/authors/melville-herman/moby-dick/chapter-011.html"
 ---
 
 We had lain thus in bed, chatting and napping at short intervals, and Queequeg now and then affectionately throwing his brown tattooed legs over mine, and then drawing them back; so entirely sociable and free and easy were we; when, at last, by reason of our confabulations, what little nappishness remained in us altogether departed, and we felt like getting up again, though day-break was yet some way down the future.

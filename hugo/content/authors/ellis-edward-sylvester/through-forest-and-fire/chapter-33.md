@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Through The Fire"
 weight: 33
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-33.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-33.html"
 ---
 
 It was hard to remain cool when surrounded by such peril as were Nick and Nellie Ribsam but the sturdy lad acquitted himself like a hero.

@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 5"
 weight: 22
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-03-chapter-05.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-03-chapter-05.html"
 ---
 
 The author permitted to see the grand academy of Lagado. The academy largely described. The arts wherein the professors employ themselves.

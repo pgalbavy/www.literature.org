@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 13 - Fifty-Two"
 weight: 43
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-13.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-13.html"
 ---
 
 IN THE BLACK PRISON of the Conciergerie, the doomed of the day awaited their fate. They were in number as the weeks of the year. Fifty-two were to roll that afternoon on the life-tide of the city to the boundless everlasting sea. Before their cells were quit of them, new occupants were appointed; before their blood ran into the blood spilled yesterday, the blood that was to mingle with theirs to-morrow was already set apart.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Effect Which An Early Association Of Ideas Has Upon The Character"
 weight: 7
-aliases:
-  - "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/chapter-06.html"
+url: "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/chapter-06.html"
 ---
 
 Educated in the enervating style recommended by the writers on whom I have been animadverting; and not having a chance, from their subordinate state in society, to recover their lost ground, is it surprising that women every where appear a defect in nature? Is it surprising, when we consider what a determinate effect an early association of ideas has on the character, that they neglect their understandings, and turn all their attention to their persons?

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/austen-jane/northanger-abbey/chapter-03.html"
+url: "/authors/austen-jane/northanger-abbey/chapter-03.html"
 ---
 
 Every morning now brought its regular duties—shops were to be visited; some new part of the town to be looked at; and the pump-room to be attended, where they paraded up and down for an hour, looking at everybody and speaking to no one. The wish of a numerous acquaintance in Bath was still uppermost with Mrs. Allen, and she repeated it after every fresh proof, which every morning brought, of her knowing nobody at all.

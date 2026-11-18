@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A Night"
 weight: 5
-aliases:
-  - "/authors/alcott-louisa-may/hospital-sketches/chapter-04.html"
+url: "/authors/alcott-louisa-may/hospital-sketches/chapter-04.html"
 ---
 
 Being fond of the night side of nature, I was soon promoted to the post of night nurse, with every facility for indulging in my favorite pastime of "owling." My colleague, a black-eyed widow, relieved me at dawn, we two taking care of the ward, between us, like the immortal Sairy and Betsey, "turn and turn about." I usually found my boys in the jolliest state of mind their condition allowed; for it was a known fact that Nurse Periwinkle objected to blue devils, and entertained a belief that he who laughed most was surest of recovery. At the beginning of my reign, dumps and dismals prevailed; the nurses looked anxious and tired, the men gloomy or sad; and a general "Hark!-from-the- tombs-a-doleful-sound" style of conversation seemed to be the fashion: a state of things which caused one coming from a merry, social New England town, to feel as if she had got into an exhausted receiver; and the instinct of self-preservation, to say nothing of a philanthropic desire to serve the race, caused a speedy change in Ward No. 1.

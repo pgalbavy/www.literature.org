@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Sky Sign"
 weight: 3
-aliases:
-  - "/authors/dorrance-ethel-and-james/lonesome-town/chapter-03.html"
+url: "/authors/dorrance-ethel-and-james/lonesome-town/chapter-03.html"
 ---
 
 Peter Pape sighed a chestful of relief. They pulled on like ordinary pants. But of course that was what they were expected to do. Weren’t they direct from the work room of the most expensive tailor he could locate in Gotham? Even so, he had inserted his silk-socked toes into their twin tunnels with some foreboding. They were different, these long, straight leg-sheaths of his first full-dress suit.

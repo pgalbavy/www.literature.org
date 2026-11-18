@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/burroughs-edgar-rice/the-people-that-time-forgot/chapter-04.html"
+url: "/authors/burroughs-edgar-rice/the-people-that-time-forgot/chapter-04.html"
 ---
 
 We spent two days upon the cliff-top, resting and recuperating. There was some small game which gave us meat, and the little pools of rainwater were sufficient to quench our thirst. The sun came out a few hours after we emerged from the cave, and in its warmth we soon cast off the gloom which our recent experiences had saddled upon us.

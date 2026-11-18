@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Smugglers"
 weight: 22
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-22.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-22.html"
 ---
 
 Dantes had not been a day on board before he had a very clear idea of the men with whom his lot had been cast. Without having been in the school of the Abbe Faria, the worthy master of The Young Amelia (the name of the Genoese tartan) knew a smattering of all the tongues spoken on the shores of that large lake called the Mediterranean, from the Arabic to the Provencal, and this, while it spared him interpreters, persons always troublesome and frequently indiscreet, gave him great facilities of communication, either with the vessels he met at sea, with the small boats sailing along the coast, or with the people without name, country, or occupation, who are always seen on the quays of seaports, and who live by hidden and mysterious means which we must suppose to be a direct gift of providence, as they have no visible means of support. It is fair to assume that Dantes was on board a smuggler.

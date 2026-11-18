@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/ridge-w-pett/love-at-paddington/chapter-10.html"
+url: "/authors/ridge-w-pett/love-at-paddington/chapter-10.html"
 ---
 
 Gertie's sympathy with the invalid of Morden Place found itself slightly diminished on Monday morning. The front room had not yet been restored to its normal state, and Mrs. Mills, before rising to start the boy with his delivery of morning newspapers, had given a brief lecture on the drawback of excessive ambition, the advisability of not going on to Land's End when you but held a ticket for Westbourne Park. Ten minutes later she brought upstairs an important-looking envelope that bore her name and address in handwriting which left just the space for the stamp, and Mrs. Mills speculated on the probable contents of the communication until Gertie made the useful suggestion that the envelope should be opened. Mrs. Mills, after reading the letter, flung herself upon the bed and, her head resting on the pillow, sobbed hysterically.

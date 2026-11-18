@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 3"
 weight: 37
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-03-chapter-03.html"
+url: "/authors/london-jack/valley-of-the-moon/book-03-chapter-03.html"
 ---
 
 It is forty miles from Oakland to San Jose, and Saxon and Billy accomplished it in three easy days. No more obliging and angrily garrulous linemen were encountered, and few were the opportunities for conversation with chance wayfarers. Numbers of tramps, carrying rolls of blankets, were met, traveling both north and south on the county road; and from talks with them Saxon quickly learned that they knew little or nothing about farming. They were mostly old men, feeble or besotted, and all they knew was work--where jobs might be good, where jobs had been good; but the places they mentioned were always a long way off. One thing she did glean from them, and that was that the district she and Billy were passing through was "small-farmer" country in which labor was rarely hired, and that when it was it generally was Portuguese.

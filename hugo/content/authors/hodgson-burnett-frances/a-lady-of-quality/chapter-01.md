@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Twenty-Fourth Day Of November 1690"
 weight: 2
-aliases:
-  - "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-01.html"
+url: "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-01.html"
 ---
 
 On a wintry morning at the close of 1690, the sun shining faint and red through a light fog, there was a great noise of baying dogs, loud voices, and trampling of horses in the courtyard at Wildairs Hall; Sir Jeoffry being about to go forth a-hunting, and being a man with a choleric temper and big, loud voice, and given to oaths and noise even when in good-humour, his riding forth with his friends at any time was attended with boisterous commotion. This morning it was more so than usual, for he had guests with him who had come to his house the day before, and had supped late and drunk deeply, whereby the day found them, some with headaches, some with a nausea at their stomachs, and some only in an evil humour which made them curse at their horses when they were restless, and break into loud surly laughs when a coarse joke was made. There were many such jokes, Sir Jeoffry and his boon companions being renowned throughout the county for the freedom of their conversation as for the scandal of their pastimes, and this day 'twas well indeed, as their loudvoiced, oath-besprinkled jests rang out on the cold air, that there were no ladies about to ride forth with them.

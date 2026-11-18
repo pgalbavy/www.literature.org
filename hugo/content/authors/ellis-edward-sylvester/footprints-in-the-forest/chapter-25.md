@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Lone Bear's Revelation"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-25.html"
 ---
 
 Without hesitating a moment, the Pawnee made answer:

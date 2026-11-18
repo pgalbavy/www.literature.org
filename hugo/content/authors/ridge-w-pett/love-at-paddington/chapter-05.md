@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/ridge-w-pett/love-at-paddington/chapter-05.html"
+url: "/authors/ridge-w-pett/love-at-paddington/chapter-05.html"
 ---
 
 An easy matter to obtain a full list of other manufacturers in the same line of business, and when Madame entrusted her with important errands,--

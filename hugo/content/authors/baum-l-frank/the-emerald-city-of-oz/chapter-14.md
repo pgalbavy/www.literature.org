@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-14.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-14.html"
 ---
 
 "Where next?" asked the Wizard when they had left the town of Fuddlecumjig and the Sawhorse had started back along the road.

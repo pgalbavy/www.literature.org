@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - \"Extra! Extra! Extra!\""
 weight: 28
-aliases:
-  - "/authors/hodgson-burnett-frances/the-lost-prince/chapter-28.html"
+url: "/authors/hodgson-burnett-frances/the-lost-prince/chapter-28.html"
 ---
 
 It was raining in London--pouring. It had been raining for two weeks, more or less, generally more. When the train from Dover drew in at Charing Cross, the weather seemed suddenly to have considered that it had so far been too lenient and must express itself much more vigorously. So it had gathered together its resources and poured them forth in a deluge which surprised even Londoners.

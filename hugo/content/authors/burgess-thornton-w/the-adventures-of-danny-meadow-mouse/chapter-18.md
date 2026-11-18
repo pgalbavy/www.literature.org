@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Danny Meadow Mouse Returns A Kindness"
 weight: 18
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-18.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-18.html"
 ---
 
 *THERE* Peter Rabbit lay. He had dragged that piece of stake a long way, a very long way, indeed. But now he could drag it no farther, for it had caught in the bramble bushes. So Peter just dropped on the snow and cried. Yes, Sir, he cried! You see he was so tired and worn out and frightened, and his leg was so stiff and sore and hurt him so! And then it was so dreadful to actually get home and be stopped right on your very own door-step. So Peter just lay there and cried. Just supposing old Granny Fox should come poking around and find Peter caught that way! All she would have to do would be to get hold of that hateful stake caught in the bramble bushes and pull Peter out where she could get him. Do you wonder that Peter cried?

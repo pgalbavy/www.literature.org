@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Secret History"
 weight: 19
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-19.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-19.html"
 ---
 
 They all stared at the French detective, who smiled back at them.

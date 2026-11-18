@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 1"
 weight: 1
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-01-chapter-01.html"
+url: "/authors/cather-willa/o-pioneers/part-01-chapter-01.html"
 ---
 
 One January day, thirty years ago, the little town of Hanover, anchored on a windy Nebraska tableland, was trying not to be blown away. A mist of fine snowflakes was curling and eddying about the cluster of low drab buildings huddled on the gray prairie, under a gray sky. The dwelling-houses were set about haphazard on the tough prairie sod; some of them looked as if they had been moved in overnight, and others as if they were straying off by themselves, headed straight for the open plain. None of them had any appearance of permanence, and the howling wind blew under them as well as over them. The main street was a deeply rutted road, now frozen hard, which ran from the squat red railway station and the grain “elevator” at the north end of the town to the lumber yard and the horse pond at the south end. On either side of this road straggled two uneven rows of wooden buildings; the general merchandise stores, the two banks, the drug store, the feed store, the saloon, the post-office. The board sidewalks were gray with trampled snow, but at two o'clock in the afternoon the shopkeepers, having come back from dinner, were keeping well behind their frosty windows. The children were all in school, and there was nobody abroad in the streets but a few rough-looking countrymen in coarse overcoats, with their long caps pulled down to their noses. Some of them had brought their wives to town, and now and then a red or a plaid shawl flashed out of one store into the shelter of another. At the hitch-bars along the street a few heavy work-horses, harnessed to farm wagons, shivered under their blankets. About the station everything was quiet, for there would not be another train in until night.

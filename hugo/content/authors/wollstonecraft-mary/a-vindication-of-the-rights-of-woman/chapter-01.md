@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Rights And Involved Duties Of Mankind Considered"
 weight: 2
-aliases:
-  - "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/chapter-01.html"
+url: "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/chapter-01.html"
 ---
 
 In the present state of society, it appears necessary to go back to first principles in search of the most simple truths, and to dispute with some prevailing prejudice every inch of ground. To clear my way, I must be allowed to ask some plain questions, and the answers will probably appear as unequivocal as the axioms on which reasoning is built; though, when entangled with various motives of action, they are formally contradicted, either by the words or conduct of men.

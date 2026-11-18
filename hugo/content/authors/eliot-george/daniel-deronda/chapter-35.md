@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 35
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-35.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-35.html"
 ---
 
 Were uneasiness of conscience measured by extent of crime, human history had been different, and one should look to see the contrivers of greedy wars and the mighty marauders of the money-market in one troop of self-lacerating penitents with the meaner robber and cut- purse and the murderer that doth his butchery in small with his own hand. No doubt wickedness hath its rewards to distribute; but who so wins in this devil's game must needs be baser, more cruel, more brutal than the order of this planet will allow for the multitude born of woman, the most of these carrying a form of conscience - a fear which is the shadow of justice, a pity which is the shadow of love - that hindereth from the prize of serene wickedness, itself difficult of maintenance in our composite flesh.

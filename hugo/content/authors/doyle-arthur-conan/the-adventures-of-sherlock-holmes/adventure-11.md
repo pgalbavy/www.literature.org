@@ -1,8 +1,7 @@
 ---
 title: "Adventure 11 - The Adventure Of The Beryl Coronet"
 weight: 11
-aliases:
-  - "/authors/doyle-arthur-conan/the-adventures-of-sherlock-holmes/adventure-11.html"
+url: "/authors/doyle-arthur-conan/the-adventures-of-sherlock-holmes/adventure-11.html"
 ---
 
 “Holmes,” said I, as I stood one morning in our bow-window looking down the street, “here is a madman coming along. It seems rather sad that his relatives should allow him to come out alone.”

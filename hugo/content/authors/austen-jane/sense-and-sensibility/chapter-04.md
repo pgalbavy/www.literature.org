@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-04.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-04.html"
 ---
 
 "What a pity it is, Elinor," said Marianne, "that Edward should have no taste for drawing."

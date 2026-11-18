@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Value Of Courtesy"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-11.html"
 ---
 
 The following is the message as first written out by the old farmer:

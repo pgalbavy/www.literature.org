@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 19"
 weight: 248
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-19.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-19.html"
 ---
 
 Kutuzov's order to retreat through Moscow to the Ryazan road was issued at night on the first of September.

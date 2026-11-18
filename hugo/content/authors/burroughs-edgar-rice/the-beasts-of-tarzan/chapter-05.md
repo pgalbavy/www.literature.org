@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Mugambi"
 weight: 5
-aliases:
-  - "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-05.html"
+url: "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-05.html"
 ---
 
 By the time that Tarzan had travelled entirely about the coast of the island, and made several trips inland from various points, he was sure that he was the only human being upon it.

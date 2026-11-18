@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Peril"
 weight: 18
-aliases:
-  - "/authors/chambers-robert-w/the-firing-line/chapter-18.html"
+url: "/authors/chambers-robert-w/the-firing-line/chapter-18.html"
 ---
 
 Shelia, standing by the lamplit table and resting one slim hand on the edge of it, waited for Hamil to give the signal for separation.

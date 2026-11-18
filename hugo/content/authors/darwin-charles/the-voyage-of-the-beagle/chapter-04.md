@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Rio Negro to Bahia Blanca"
 weight: 5
-aliases:
-  - "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-04.html"
+url: "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-04.html"
 ---
 
 arrow_rightRio Negro arrow_rightEstancias attacked by the Indians arrow_rightSalt-Lakes arrow_rightFlamingoes arrow_rightR. Negro to R. Colorado arrow_rightSacred Tree arrow_rightPatagonian Hare arrow_rightIndian Families arrow_rightGeneral Rosas arrow_rightProceed to Bahia Blanca arrow_rightSand Dunes arrow_rightNegro Lieutenant arrow_rightBahia Blanca arrow_rightSaline Incrustations arrow_rightPunta Alta arrow_rightZorillo ---

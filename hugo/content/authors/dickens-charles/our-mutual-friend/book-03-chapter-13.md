@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 13 - Give A Dog A Bad Name, And Hang Him"
 weight: 46
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-03-chapter-13.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-03-chapter-13.html"
 ---
 
 Fascination Fledgeby, left alone in the counting-house, strolled about with his hat on one side, whistling, and investigating the drawers, and prying here and there for any small evidences of his being cheated, but could find none. ‘Not his merit that he don’t cheat me,’ was Mr Fledgeby’s commentary delivered with a wink, ‘but my precaution.’ He then with a lazy grandeur asserted his rights as lord of Pubsey and Co. by poking his cane at the stools and boxes, and spitting in the fireplace, and so loitered royally to the window and looked out into the narrow street, with his small eyes just peering over the top of Pubsey and Co.’s blind. As a blind in more senses than one, it reminded him that he was alone in the counting-house with the front door open. He was moving away to shut it, lest he should be injudiciously identified with the establishment, when he was stopped by some one coming to the door.

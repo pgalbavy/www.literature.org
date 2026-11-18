@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - An Early Call"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-08.html"
 ---
 
 Mrs. Woodpecker flew to her neighbor Mrs. Flicker’s tree and rapped, tap-tap-tap-tap. She didn’t rap gently, either. She was not in a gentle mood. She intended to find out why Mrs. Flicker had called to Reddy Woodpecker, "Good morning, my dear!"

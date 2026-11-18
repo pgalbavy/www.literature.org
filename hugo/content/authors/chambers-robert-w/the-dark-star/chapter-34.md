@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - Sunrise"
 weight: 35
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-34.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-34.html"
 ---
 
 When the taxicab carrying Captain Sengoun and the unknown Russian girl had finally disappeared far away down the Boulevard in the thin grey haze of early morning, Neeland looked around him; and it was a scene unfamiliar, unreal, that met his anxious eyes.

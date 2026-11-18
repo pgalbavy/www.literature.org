@@ -1,8 +1,7 @@
 ---
 title: "Chapter 52 - D'artagnan's Lesson"
 weight: 52
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-52.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-52.html"
 ---
 
 Raoul did not meet with D'Artagnan the next day, as he had hoped. He only met with Planchet, whose joy was great at seeing the young man again, and who contrived to pay him two or three little soldierly compliments, savoring very little of the grocer's shop. But as Raoul was returning the next day from Vincennes, at the head of fifty dragoons confided to him by Monsieur le Prince, he perceived, in La Place Baudoyer, a man with his nose in the air, examining a house as we examine a horse we have a fancy to buy. This man, dressed in citizen costume buttoned up like a military pourpoint, a very small hat on his head, but a long shagreen-mounted sword by his side, turned his head as soon as he heard the steps of the horses, and left off looking at the house to look at the dragoons. It was simply M. d'Artagnan; D'Artagnan on foot; D'Artagnan with his hands behind him, passing a little review upon the dragoons, after having reviewed the buildings. Not a man, not a tag, not a horse's hoof escaped his inspection. Raoul rode at the side of his troop; D'Artagnan perceived him the last. "Eh!" said he, "Eh! Mordioux!"

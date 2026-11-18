@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - A Dream Of Armageddon"
 weight: 3
-aliases:
-  - "/authors/wells-herbert-george/the-door-in-the-wall/chapter-03.html"
+url: "/authors/wells-herbert-george/the-door-in-the-wall/chapter-03.html"
 ---
 
 The man with the white face entered the carriage at Rugby. He moved slowly in spite of the urgency of his porter, and even while he was still on the platform I noted how ill he seemed. He dropped into the corner over against me with a sigh, made an incomplete attempt to arrange his travelling shawl, and became motionless, with his eyes staring vacantly. Presently he was moved by a sense of my observation, looked up at me, and put out a spiritless hand for his newspaper. Then he glanced again in my direction.

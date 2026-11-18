@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 29"
 weight: 219
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-29.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-29.html"
 ---
 
 On returning from a second inspection of the lines, Napoleon remarked:

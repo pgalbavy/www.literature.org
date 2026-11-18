@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 15"
 weight: 15
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-15.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-15.html"
 ---
 
 Mr. Collins was not a sensible man, and the deficiency of nature had been but little assisted by education or society; the greatest part of his life having been spent under the guidance of an illiterate and miserly father; and though he belonged to one of the universities, he had merely kept the necessary terms, without forming at it any useful acquaintance. The subjection in which his father had brought him up, had given him originally great humility of manner, but it was now a good deal counteracted by the self-conceit of a weak head, living in retirement, and the consequential feelings of early and unexpected prosperity. A fortunate chance had recommended him to Lady Catherine de Bourgh when the living of Hunsford was vacant; and the respect which he felt for her high rank, and his veneration for her as his patroness, mingling with a very good opinion of himself, of his authority as a clergyman, and his rights as a rector, made him altogether a mixture of pride and obsequiousness, self-importance and humility.

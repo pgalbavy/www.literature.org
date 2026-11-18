@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The New Tenderfoot"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-09.html"
 ---
 
 The next day was as sunshiny, clear and delightful as any that had greeted the Boy Scouts since their visit to Maine. As before, they prepared their morning meal out of doors, cleaned the dishes, and laid the fuel for use at midday.

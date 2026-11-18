@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - An Interrupted Nap"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-chirpy-cricket/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-chirpy-cricket/chapter-09.html"
 ---
 
 Chirpy Cricket liked his home in Farmer Green's yard. During the long summer days he thought it very cheerful to rest in his dark hole in the ground. He liked the darkness of his home; he liked its warmth, too. For in pleasant weather the sun beat down upon the straw-littered ground above him and gave him plenty of heat, while on gray days the straw blanket kept his house cosy. And it never occurred to Chirpy Cricket that there was anything odd in having a blanket over his house instead of over himself.

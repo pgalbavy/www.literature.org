@@ -1,8 +1,7 @@
 ---
 title: "Chapter 49 - Fatality"
 weight: 50
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-49.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-49.html"
 ---
 
 Meantime Milady, drunk with passion, roaring on the deck like a lioness that has been embarked, had been tempted to throw herself into the sea that she might regain the coast, for she could not get rid of the thought that she had been insulted by D'Artagnan, threatened by Athos, and that she had quit France without being revenged on them. This idea soon became so insupportable to her that at the risk of whatever terrible consequences might result to herself from it, she implored the captain to put her on shore; but the captain, eager to escape from his false position-placed between French and English cruisers, like the bat between the mice and the birds - was in great haste to regain England, and positively refused to obey what he took for a woman's caprice, promising his passenger, who had been particularly recommended to him by the cardinal, to land her, if the sea and the French permitted him, at one of the ports of Brittany, either at Lorient or Brest. But the wind was contrary, the sea bad; they tacked and kept offshore. Nine days after leaving the Charente, pale with fatigue and vexation, Milady saw only the blue coasts of Finisterre appear.

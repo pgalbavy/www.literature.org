@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - I Enlarge My Circle Of Acquaintance"
 weight: 7
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-06.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-06.html"
 ---
 
 I HAD led this life about a month, when the man with the wooden leg began to stump about with a mop and a bucket of water, from which I inferred that preparations were making to receive Mr. Creakle and the boys. I was not mistaken; for the mop came into the schoolroom before long, and turned out Mr. Mell and me, who lived where we could, and got on how we could, for some days, during which we were always in the way of two or three young women, who had rarely shown themselves before, and were so continually in the midst of dust that I sneezed almost as much as if Salem House had been a great snuff-box.

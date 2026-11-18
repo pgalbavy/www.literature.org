@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Anne To Philippa"
 weight: 31
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-31.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-31.html"
 ---
 
 "Anne Shirley to Philippa Gordon, greeting.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A Zealous Little Missionary"
 weight: 4
-aliases:
-  - "/authors/brown-ruth-alberta/the-lilac-lady/chapter-04.html"
+url: "/authors/brown-ruth-alberta/the-lilac-lady/chapter-04.html"
 ---
 
 Strange as it may seem, neither child felt any ill effects from that midnight escapade, but the next morning they awoke as chipper and gay as if there were no such thing as after-Christmas feelings. They even forgot the lonely vigil in the stable in their dismay at the discovery that Lorene had slept all night with Cherry instead of returning to their room as she had promised to do. An after-breakfast summons to the President's study brought their pranks vividly to mind again, however, and with considerable trepidation they saw the heavy door close behind them, shutting them in alone with the grave-eyed man, for they stood much in awe of the learned Doctor when that stern look replaced the usual bluff kindliness of his face.

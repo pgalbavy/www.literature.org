@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-02.html"
+url: "/authors/haggard-h-rider/dawn/chapter-02.html"
 ---
 
 It is difficult to imagine any study that would prove more fascinating in itself or more instructive in its issues, than the examination of the leading characteristics of individual families as displayed through a series of generations. But it is a subject that from its very nature is more or less unapproachable, since it is but little that we know even of our immediate ancestors. Occasionally in glancing at the cracking squares of canvas, many of which cannot even boast a name, but which alone remain to speak of the real and active life, the joys and griefs, the sins and virtues that centred in the originals of those hard daubs and of ourselves, we may light upon a face that about six generations since was the counterpart of the little boy upon our shoulder, or the daughter standing at our side. In the same way, too, partly through tradition and partly by other means, we are sometimes able to trace in ourselves and in our children the strong development of characteristics that distinguished the race centuries ago.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Hard-Bitten Gang"
 weight: 7
-aliases:
-  - "/authors/london-jack/adventure/chapter-07.html"
+url: "/authors/london-jack/adventure/chapter-07.html"
 ---
 
 Joan took hold of the household with no uncertain grip, revolutionizing things till Sheldon hardly recognized the place. For the first time the bungalow was clean and orderly. No longer the house-boys loafed and did as little as they could; while the cook complained that "head belong him walk about too much," from the strenuous course in cookery which she put him through. Nor did Sheldon escape being roundly lectured for his laziness in eating nothing but tinned provisions. She called him a muddler and a slouch, and other invidious names, for his slackness and his disregard of healthful food.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - More Of My Obstinacy"
 weight: 26
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-26.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-26.html"
 ---
 
 ARIEL was downstairs in the shadowy hall, half asleep, half awake, waiting to see the visitors clear of the house. Without speaking to us, without looking at us, she led the way down the dark garden walk, and locked the gate behind us. "Good-night, Ariel," I called out to her over the paling. Nothing answered me but the tramp of her heavy footsteps returning to the house, and the dull thump, a moment afterward, of the closing door.

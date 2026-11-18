@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Backward"
 weight: 26
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-24.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-24.html"
 ---
 
 "WELL?" whispered Blanche, taking her uncle confidentially by the arm.

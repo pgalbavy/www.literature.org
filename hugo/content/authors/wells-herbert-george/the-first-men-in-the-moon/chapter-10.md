@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Lost Men In The Moon"
 weight: 10
-aliases:
-  - "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-10.html"
+url: "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-10.html"
 ---
 
 HIS face caught something of my dismay. He stood up and stared about him at the scrub that fenced us in and rose about us, straining upward in a passion of growth. He put a dubious hand to his lips. He spoke with a sudden lack of assurance. "I think," he said slowly, "we left it ... somewhere ... about there."

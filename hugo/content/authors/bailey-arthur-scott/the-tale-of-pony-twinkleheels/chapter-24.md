@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Boys Will Be Boys"
 weight: 24
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-24.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-24.html"
 ---
 
 Up to the moment that Johnnie Green reached out a hand for the long fish pole Twinkleheels had behaved like a little gentleman. He saw that something unusual was afoot. And feeling quite sure that it was some kind of fun, he was glad that he was going to have a part in it.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Murder In The Rue Guenegaud"
 weight: 25
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-24.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-24.html"
 ---
 
 *MARCELINE* got up as much to hide her feelings as to find out if the nickel-plated revolver was in its usual place in the drawer. Upon her return she was greatly agitated, and told them that the revolver had been removed.

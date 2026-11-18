@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - No School To-Day"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-12.html"
 ---
 
 And that night it snowed. In the morning, when Johnnie Green crawled from his bed and looked out of the window he could scarcely see the barn. A driving white veil flickered across the farmyard. The wind howled. The blinds rattled. Even the whole house shook now and then as a mighty blast rocked it.

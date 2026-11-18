@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 10 - The Four Days Which Follow"
 weight: 10
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-10.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-10.html"
 ---
 
 Dick Sand was then captain of the "Pilgrim," and, without losing an instant, he took the necessary measures for putting the ship under full sail.

@@ -1,8 +1,7 @@
 ---
 title: "Book 14 - Chapter 3"
 weight: 301
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-14-chapter-03.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-14-chapter-03.html"
 ---
 
 The so-called partisan war began with the entry of the French into Smolensk.

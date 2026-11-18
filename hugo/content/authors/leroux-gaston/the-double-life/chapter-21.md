@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Result Of The Operation"
 weight: 22
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-21.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-21.html"
 ---
 
 As soon as Théophraste had pronounced these words, M. Eliphaste made a sweeping gesture with his right arm. He leaned over the prostrate form, and blew impatiently on his eye.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Girl Bunch"
 weight: 7
-aliases:
-  - "/authors/daviess-maria-thompson/the-daredevil/chapter-07.html"
+url: "/authors/daviess-maria-thompson/the-daredevil/chapter-07.html"
 ---
 
 And, if I felt in that manner as I entered the house, I felt it to a still greater degree when I was welcomed by that most lovely old black slave woman of the high temper and good cookery. She opened the door for us herself, though a nice boy the color of a chocolate bonbon stood in waiting to perform that office. She had a spoon in her hand and upon her head was a spotless white turban, as also was an apron of an equal spotlessness tied around her very large waist.

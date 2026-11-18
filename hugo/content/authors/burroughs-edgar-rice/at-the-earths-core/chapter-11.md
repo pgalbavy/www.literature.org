@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Four Dead Mahars"
 weight: 12
-aliases:
-  - "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-11.html"
+url: "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-11.html"
 ---
 
 A MOMENT LATER I WAS STANDING BEFORE A DOZEN Mahars--the social investigators of Phutra. They asked me many questions, through a Sagoth interpreter. I answered them all truthfully. They seemed particularly interested in my account of the outer earth and the strange vehicle which had brought Perry and me to Pellucidar. I thought that I had convinced them, and after they had sat in silence for a long time following my examination, I expected to be ordered returned to my quarters.

@@ -1,8 +1,7 @@
 ---
 title: "Canto 10"
 weight: 11
-aliases:
-  - "/authors/byron-lord/don-juan/canto-10.html"
+url: "/authors/byron-lord/don-juan/canto-10.html"
 ---
 
 When Newton saw an apple fall, he found  

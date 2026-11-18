@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/woolf-virginia/night-and-day/chapter-15.html"
+url: "/authors/woolf-virginia/night-and-day/chapter-15.html"
 ---
 
 The village of Disham lies somewhere on the rolling piece of cultivated ground in the neighborhood of Lincoln, not so far inland but that a sound, bringing rumors of the sea, can be heard on summer nights or when the winter storms fling the waves upon the long beach. So large is the church, and in particular the church tower, in comparison with the little street of cottages which compose the village, that the traveler is apt to cast his mind back to the Middle Ages, as the only time when so much piety could have been kept alive. So great a trust in the Church can surely not belong to our day, and he goes on to conjecture that every one of the villagers has reached the extreme limit of human life. Such are the reflections of the superficial stranger, and his sight of the population, as it is represented by two or three men hoeing in a turnip-field, a small child carrying a jug, and a young woman shaking a piece of carpet outside her cottage door, will not lead him to see anything very much out of keeping with the Middle Ages in the village of Disham as it is to-day. These people, though they seem young enough, look so angular and so crude that they remind him of the little pictures painted by monks in the capital letters of their manuscripts. He only half understands what they say, and speaks very loud and clearly, as though, indeed, his voice had to carry through a hundred years or more before it reached them. He would have a far better chance of understanding some dweller in Paris or Rome, Berlin or Madrid, than these countrymen of his who have lived for the last two thousand years not two hundred miles from the City of London.

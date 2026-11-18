@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Incredible Body"
 weight: 22
-aliases:
-  - "/authors/leroux-gaston/the-yellow-room/chapter-22.html"
+url: "/authors/leroux-gaston/the-yellow-room/chapter-22.html"
 ---
 
 I bent in great anxiety over the body of the reporter and had the joy to find that he was deeply sleeping, the same unhealthy sleep that I had seen fall upon Frederic Larsan. He had succumbed to the influence of the same drug that had been mixed with our food. How was it then, that I, also, had not been overcome by it? I reflected that the drug must have been put into our wine; because that would explain my condition. I never drink when eating. Naturally inclined to obesity, I am restricted to a dry diet. I shook Rouletabille, but could not succeed in waking him. This, no doubt, was the work of Mademoiselle Stangerson.

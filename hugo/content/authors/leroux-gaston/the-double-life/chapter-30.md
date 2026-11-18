@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - M. Mifroid’s Theory"
 weight: 31
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-30.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-30.html"
 ---
 
 *WHEN M.* Mifroid recovered sufficiently from the shock of his fall, the first thing that worried him was that he would be "out of the game." Even at the moment of his fall his presence of mind did not fail him, and he knew that he was falling into one of the thousand-year-old quarries, which crossed under Paris in their intricate meanderings. He experienced that feeling accompanied by a light, painful torpor which follows a swoon caused by shock.

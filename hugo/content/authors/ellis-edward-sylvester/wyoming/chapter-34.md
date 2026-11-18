@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 34
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-34.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-34.html"
 ---
 
 After a courageous struggle against the Indians, the fugitives, as I have shown, were taken prisoners.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - \u0026quot;Down Brakes\u0026quot;"
 weight: 12
-aliases:
-  - "/authors/alcott-louisa-may/jack-and-jill/chapter-11.html"
+url: "/authors/alcott-louisa-may/jack-and-jill/chapter-11.html"
 ---
 
 The greatest people have their weak points, and the best-behaved boys now and then yield to temptation and get into trouble, as everybody knows. Frank was considered a remarkably well-bred and proper lad, and rather prided himself on his good reputation, for he never got into scrapes like the other fellows. Well, hardly ever, for we must confess that at rare intervals his besetting sin overcame his prudence, and he proved himself an erring, human boy. Steam-engines had been his idols for years, and they alone could lure him from the path of virtue. Once, in trying to investigate the mechanism of a toy specimen, which had its little boiler and ran about whistling and puffing in the most delightful way, he nearly set the house afire by the sparks that dropped on the straw carpet. Another time, in trying experiments with the kitchen tea-kettle, he blew himself up, and the scars of that explosion he still carried on his hands.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Caraquet Road: And The Wolves Howl Once More"
 weight: 5
-aliases:
-  - "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-05.html"
+url: "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-05.html"
 ---
 
 Why comest thou to ride with me? "The road, this night, is dark." Dost thou and thine then side with me? "Ride on, ride on and hark!"

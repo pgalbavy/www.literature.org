@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - We Abandon Hope"
 weight: 19
-aliases:
-  - "/authors/haggard-h-rider/king-solomons-mines/chapter-18.html"
+url: "/authors/haggard-h-rider/king-solomons-mines/chapter-18.html"
 ---
 
 I can give no adequate description of the horrors of the night which followed. Mercifully they were to some extent mitigated by sleep, for even in such a position as ours wearied nature will sometimes assert itself. But I, at any rate, found it impossible to sleep much. Putting aside the terrifying thought of our impending doom--for the bravest man on earth might well quail from such a fate as awaited us, and I never made any pretensions to be brave--the silence itself was too great to allow of it. Reader, you may have lain awake at night and thought the quiet oppressive, but I say with confidence that you can have no idea what a vivid, tangible thing is perfect stillness. On the surface of the earth there is always some sound or motion, and though it may in itself be imperceptible, yet it deadens the sharp edge of absolute silence. But here there was none. We were buried in the bowels of a huge snow-clad peak. Thousands of feet above us the fresh air rushed over the white snow, but no sound of it reached us. We were separated by a long tunnel and five feet of rock even from the awful chamber of the Dead; and the dead make no noise. Did we not know it who lay by poor Foulata's side? The crashing of all the artillery of earth and heaven could not have come to our ears in our living tomb. We were cut off from every echo of the world--we were as men already in the grave.

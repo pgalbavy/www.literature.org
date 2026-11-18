@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Model Letter To A Friend"
 weight: 15
-aliases:
-  - "/authors/tarkington-booth/penrod-and-sam/chapter-15.html"
+url: "/authors/tarkington-booth/penrod-and-sam/chapter-15.html"
 ---
 
 On Monday morning Penrod's faith in the coming of another Saturday was flaccid and lustreless. Those Japanese lovers who were promised a reunion after ten thousand years in separate hells were brighter with hope than he was. On Monday Penrod was virtually an agnostic.

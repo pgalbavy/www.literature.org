@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Blood Will Tell"
 weight: 5
-aliases:
-  - "/authors/davis-richard-harding/the-red-cross-girl/chapter-04.html"
+url: "/authors/davis-richard-harding/the-red-cross-girl/chapter-04.html"
 ---
 
 David Greene was an employee of the Burdett Automatic Punch Company. The manufacturing plant of the company was at Bridgeport, but in the New York offices there were working samples of all the punches, from the little nickel-plated hand punch with which conductors squeezed holes in railroad tickets, to the big punch that could bite into an iron plate as easily as into a piece of pie. David's duty was to explain these different punches, and accordingly when Burdett Senior or one of the sons turned a customer over to David he spoke of him as a salesman. But David called himself a “demonstrator.” For a short time he even succeeded in persuading the other salesmen to speak of themselves as demonstrators, but the shipping clerks and bookkeepers laughed them out of it. They could not laugh David out of it. This was so, partly because he had no sense of humor, and partly because he had a great-great-grandfather. Among the salesmen on lower Broadway, to possess a great-great-grandfather is unusual, even a great-grandfather is a rarity, and either is considered superfluous. But to David the possession of a great-great-grandfather was a precious and open delight. He had possessed him only for a short time. Undoubtedly he always had existed, but it was not until David's sister Anne married a doctor in Bordentown, New Jersey, and became socially ambitious, that David emerged as a Son of Washington.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - On The Road"
 weight: 6
-aliases:
-  - "/authors/leblanc-maurice/the-secret-tomb/chapter-06.html"
+url: "/authors/leblanc-maurice/the-secret-tomb/chapter-06.html"
 ---
 
 Every day, at the easy walk or slack trot of One-eyed Magpie, Dorothy's Circus moved on. In the afternoon they gave their performance; after it they strolled about those old towns of France, the picturesque charm of which appealed so strongly to the young girl. Domfront, Mortain, Avranches, Fougères, Vitré, feudal cities, girdled in places by their fortifications, or bristling with their ancient keeps.... Dorothy visited them with all the emotion of a creature who understands the past and evokes it with a passionate enthusiasm.

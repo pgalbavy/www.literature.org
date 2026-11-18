@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Adventure Of The Italian Nobleman"
 weight: 10
-aliases:
-  - "/authors/christie-agatha/poirot-investigates/chapter-10.html"
+url: "/authors/christie-agatha/poirot-investigates/chapter-10.html"
 ---
 
 Poirot and I had many friends and acquaintances of an informal nature. Amongst these was to be numbered Dr. Hawker, a near neighbour of ours, and a member of the medical profession. It was the genial doctor’s habit to drop in sometimes of an evening and have a chat with Poirot, of whose genius he was an ardent admirer. The doctor himself, frank and unsuspicious to the last degree, admired the talents so far removed from his own.

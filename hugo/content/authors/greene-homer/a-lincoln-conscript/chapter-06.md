@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Desperate Decision"
 weight: 6
-aliases:
-  - "/authors/greene-homer/a-lincoln-conscript/chapter-06.html"
+url: "/authors/greene-homer/a-lincoln-conscript/chapter-06.html"
 ---
 
 Through all of the day following the breakfast at Sarah Jane Stark’s house, indeed through most of the succeeding night, the thought and ambition loomed large in Bob Bannister’s mind and heart, to lift, in some way, the dark cloud of disloyalty that rested upon the household he loved. His one hour with the soldiers of the United States had inspired and inspirited him to new and greater effort, to the making of any sacrifice, in order to uphold the honor of his country and his home.

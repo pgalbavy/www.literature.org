@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-07.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-07.html"
 ---
 
 But along about the middle of the fifth week I see a change. Lodema had been uncommon exasperatin', and I expected she would set Josiah to goin', and I groaned in spirit, to think what a job wuz ahead of me, to part their two tongues - when all of a sudden I see a curius change come over my pardner's face.

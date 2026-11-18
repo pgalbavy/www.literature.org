@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Rupe Collins"
 weight: 21
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-21.html"
+url: "/authors/tarkington-booth/penrod/chapter-21.html"
 ---
 
 For several days after this, Penrod thought of growing up to be a monk, and engaged in good works so far as to carry some kittens (that otherwise would have been drowned) and a pair of Margaret's outworn dancing-slippers to a poor, ungrateful old man sojourning in a shed up the alley. And although Mr. Robert Williams, after a very short interval, began to leave his guitar on the front porch again, exactly as if he thought nothing had happened, Penrod, with his younger vision of a father's mood, remained coldly distant from the Jones neighbourhood. With his own family his manner was gentle, proud and sad, but not for long enough to frighten them. The change came with mystifying abruptness at the end of the week.

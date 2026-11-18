@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Omniscient Sachsen"
 weight: 2
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-01.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-01.html"
 ---
 
 It was very apparent that his Excellency Jonkheer Adriaan Adriaanszoon Van Schouten, governor-general of the Netherlands East Indies, was in a temper. His eyes sparked like an emery-wheel biting cold steel. His thin, sharp-ridged nose rose high and the nostrils quivered. His pale, almost bloodless lips were set in rigid lines over his finely chiseled, birdlike beak with its aggressive Vandyke beard. His hair bristled straight and stiff, like the neck-feathers of a ruffled cock, over the edge of his linen collar. It was this latter evidence of the governor's unpleasant humor that his military associate, General Gysbert Karel Vanden Bosch, observed with growing anxiety.

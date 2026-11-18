@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - A Youthful Patriot"
 weight: 22
-aliases:
-  - "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-22.html"
+url: "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-22.html"
 ---
 
 Smith sauntered out to the terrace, looked at the sky, sniffed the roses, and sat down in the shadow of a cherry tree, cocking his feet up and resting his novel on his knees. Several hours later, aroused by the mellow clash of harness and noise of wheels, he looked out over the terrace wall just in time to catch a glimpse of the victoria of his neighbour, gold and green livery, strawberry roans, flashing wheels and all; and quite alone under her brilliant sunshade, the dark-haired girl whom Kingsbury had decided to marry as soon as he could arrange to fall in love with her.

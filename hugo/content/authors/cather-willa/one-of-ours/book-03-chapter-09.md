@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 9"
 weight: 40
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-03-chapter-09.html"
+url: "/authors/cather-willa/one-of-ours/book-03-chapter-09.html"
 ---
 
 One bright June day Mr. Wheeler parked his car in a line of motors before the new pressed-brick Court house in Frankfort. The Court house stood in an open square, surrounded by a grove of cotton-woods. The lawn was freshly cut, and the flower beds were blooming. When Mr. Wheeler entered the courtroom upstairs, it was already half-full of farmers and townspeople, talking in low tones while the summer flies buzzed in and out of the open windows. The judge, a one-armed man, with white hair and side-whiskers, sat at his desk, writing with his left hand. He was an old settler in Frankfort county, but from his frockcoat and courtly manners you might have thought he had come from Kentucky yesterday instead of thirty years ago. He was to hear this morning a charge of disloyalty brought against two German farmers. One of the accused was August Yoeder, the Wheelers' nearest neighbour, and the other was Troilus Oberlies, a rich German from the northern part of the county.

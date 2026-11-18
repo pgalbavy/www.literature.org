@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/the-frontier-angel/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/the-frontier-angel/chapter-10.html"
 ---
 
 IN *WHICH THERE IS A FURTHER ACCOUNT OF THE SHAWNEES, THE SPEAKERS, AND JENKINS*.

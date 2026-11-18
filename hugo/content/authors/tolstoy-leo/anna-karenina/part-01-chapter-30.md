@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 30"
 weight: 30
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-30.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-30.html"
 ---
 
 The raging tempest rushed whistling between the wheels of the carriages, about the scaffolding, and round the corner of the station. The carriages, posts, people, everything that was to be seen was covered with snow on one side, and was getting more and more thickly covered. For a moment there would come a lull in thestorm, but then it would swoop down again with such onslaughts that it seemed impossible to stand against it. Meanwhile men ran to and fro, talking merrily together, their steps crackling o the platform as they continuyally opened and closed the big doors. The bent shadow of a man glided by at her feet, and she heard sounds of a hammer upon iron. "Hand over that telegram1" came an angry voice out of the stormy darkness on the other side. "This way! No. 28!" several different voices shouted again, and muffled figures ran by covered with snow. Two gentleman with lighted cigarettes passed by her. She drew one more deep breath of the fresh air, and had just put he hand out of her muff to take hold of the door post and get back into the carriage, when another man in a military overcoat, quite close beside her, stepped between her and the flickering light of the lamp post. She looked round, and the same instant recognized Vronsky's face.

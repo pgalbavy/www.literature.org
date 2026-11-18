@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/verne-jules/from-the-earth-to-the-moon/chapter-20.html"
+url: "/authors/verne-jules/from-the-earth-to-the-moon/chapter-20.html"
 ---
 
 As soon as the excitement had subsided, the following words were heard uttered in a strong and determined voice:

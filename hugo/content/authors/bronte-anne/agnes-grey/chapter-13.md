@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Primroses"
 weight: 13
-aliases:
-  - "/authors/bronte-anne/agnes-grey/chapter-13.html"
+url: "/authors/bronte-anne/agnes-grey/chapter-13.html"
 ---
 
 MISS MURRAY now always went twice to church, for she so loved admiration that she could not bear to lose a single opportunity of obtaining it; and she was so sure of it wherever she showed herself, that, whether Harry Meltham and Mr. Green were there or not, there was certain to be somebody present who would not be insensible to her charms, besides the Rector, whose official capacity generally obliged him to attend. Usually, also, if the weather permitted, both she and her sister would walk home; Matilda, because she hated the confinement of the carriage; she, because she disliked the privacy of it, and enjoyed the company that generally enlivened the first mile of the journey in walking from the church to Mr. Green's park-gates: near which commenced the private road to Horton Lodge, which lay in the opposite direction, while the highway conducted in a straightforward course to the still more distant mansion of Sir Hugh Meltham. Thus there was always a chance of being accompanied, so far, either by Harry Meltham, with or without Miss Meltham, or Mr. Green, with perhaps one or both of his sisters, and any gentlemen visitors they might have.

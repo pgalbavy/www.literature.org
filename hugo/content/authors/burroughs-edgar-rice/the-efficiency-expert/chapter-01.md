@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Jimmy Torrance, Jr"
 weight: 1
-aliases:
-  - "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-01.html"
+url: "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-01.html"
 ---
 
 The gymnasium was packed as Jimmy Torrance stepped into the ring for the final event of the evening that was to decide the boxing championship of the university. Drawing to a close were the nearly four years of his college career--profitable years, Jimmy considered them, and certainly successful up to this point. In the beginning of his senior year he had captained the varsity eleven, and in the coming spring he would again sally forth upon the diamond as the star initial sacker of collegedom.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 56 - M. De La Fontaine's Wine"
 weight: 56
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-56.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-56.html"
 ---
 
 Carriages were already bringing the guests of Fouquet to Saint-Mande; already the whole house was getting warm with the preparations for supper, when the superintendent launched his fleet horses upon the road to Paris, and going by the quays, in order to meet fewer people on the way, soon reached the Hotel de Ville. It wanted a quarter to eight. Fouquet alighted at the corner of the Rue de Long-pont, and, on foot, directed his course towards the Place de Greve, accompanied by Gourville. At the turning of the Place they saw a man dressed in black and violet, of dignified mien, who was preparing to get into a hired carriage, and told the coachman to stop at Vincennes. He had before him a large hamper filled with bottles, which he had just purchased at the cabaret with the sign of "L'Image-de-Notre-Dame."

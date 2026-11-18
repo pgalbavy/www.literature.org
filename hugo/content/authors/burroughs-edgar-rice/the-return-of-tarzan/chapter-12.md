@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Ships That Pass"
 weight: 12
-aliases:
-  - "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-12.html"
+url: "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-12.html"
 ---
 
 Let us go back a few months to the little, windswept platform of a railway station in northern Wisconsin. The smoke of forest fires hangs low over the surrounding landscape, its acrid fumes smarting the eyes of a little party of six who stand waiting the coming of the train that is to bear them away toward the south.

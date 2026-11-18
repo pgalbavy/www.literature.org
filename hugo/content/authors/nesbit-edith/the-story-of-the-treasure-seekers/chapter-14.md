@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Divining-Rod"
 weight: 14
-aliases:
-  - "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-14.html"
+url: "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-14.html"
 ---
 
 You have no idea how uncomfortable the house was on the day when we sought for gold with the divining-rod. It was like a spring-cleaning in the winter-time. All the carpets were up, because Father had told Eliza to make the place decent as there was a gentleman coming to dinner the next day. So she got in a charwoman, and they slopped water about, and left brooms and brushes on the stairs for people to tumble over. H. O. got a big bump on his head in that way, and when he said it was too bad, Eliza said he should keep in the nursery then, and not be where he'd no business. We bandaged his head with a towel, and then he stopped crying and played at being England's wounded hero dying in the cockpit, while every man was doing his duty, as the hero had told them to, and Alice was Hardy, and I was the doctor, and the others were the crew. Playing at Hardy made us think of our own dear robber, and we wished he was there, and wondered if we should ever see him any more.

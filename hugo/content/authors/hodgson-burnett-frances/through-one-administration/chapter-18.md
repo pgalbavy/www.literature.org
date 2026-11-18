@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-18.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-18.html"
 ---
 
 At six o'clock in the morning Bertha came down the stairs again. Her simple white gown was a fresh one, and there was a tinge of color in her cheeks.

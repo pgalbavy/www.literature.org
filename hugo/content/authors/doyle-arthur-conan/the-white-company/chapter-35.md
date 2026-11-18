@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - How Sir Nigel Hawked At An Eagle"
 weight: 35
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-35.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-35.html"
 ---
 
 TO the south of Pampeluna in the kingdom of Navarre there stretched a high table-land, rising into bare, sterile hills, brown or gray in color, and strewn with huge boulders of granite. On the Gascon side of the great mountains there had been running streams, meadows, forests, and little nestling villages. Here, on the contrary, were nothing but naked rocks, poor pasture, and savage, stone-strewn wastes. Gloomy defiles or barrancas intersected this wild country with mountain torrents dashing and foaming between their rugged sides. The clatter of waters, the scream of the eagle, and the howling of wolves the only sounds which broke upon the silence in that dreary and inhospitable region.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Nerve"
 weight: 22
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-22.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-22.html"
 ---
 
 With a deep sigh, Buck lifted his face from the water and regarded her gratefully.

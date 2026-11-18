@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/collins-wilkie/a-rogues-life/chapter-07.html"
+url: "/authors/collins-wilkie/a-rogues-life/chapter-07.html"
 ---
 
 I HAD spoken confidently enough, while arguing the question of Doctor Dulcifer's respectability with the Treasurer of the D uskydale Institution; but, if my perceptions had not been blinded by my enthusiastic admiration for Alicia, I think I should have secretly distrusted my own opinion as soon as I was left by myself. Had I been in full possession of my senses, I might have questioned, on reflection, whether the doctor's method of accounting for the suspicions which kept his neighbors aloof from him, was quite satisfactory. Love is generally described, I believe, as the tender passion. When I remember the insidiously relaxing effect of it on all my faculties, I feel inclined to alter the popular definition, and to call it a moral vapor-bath.

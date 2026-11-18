@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - An Enemy In A Tree"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-01.html"
 ---
 
 One afternoon in early spring, Jack Carleton, a sturdy youth of seventeen years, was following a clearly-marked trail, leading through the western part of Kentucky toward the Mississippi river. For many a mile he followed the evenly spaced tracks made by a horse on a walk, the double impressions being a trifle more than three feet apart.

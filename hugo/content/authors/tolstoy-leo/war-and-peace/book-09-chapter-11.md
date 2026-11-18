@@ -1,8 +1,7 @@
 ---
 title: "Book 9 - Chapter 11"
 weight: 178
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-09-chapter-11.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-09-chapter-11.html"
 ---
 
 Prince Andrew's eyes were still following Pfuel out of the room when Count Bennigsen entered hurriedly, and nodding to Bolkonski, but not pausing, went into the study, giving instructions to his adjutant as he went. The Emperor was following him, and Bennigsen had hastened on to make some preparations and to be ready to receive the sovereign. Chernyshev and Prince Andrew went out into the porch, where the Emperor, who looked fatigued, was dismounting. Marquis Paulucci was talking to him with particular warmth and the Emperor, with his head bent to the left, was listening with a dissatisfied air. The Emperor moved forward evidently wishing to end the conversation, but the flushed and excited Italian, oblivious of decorum, followed him and continued to speak.

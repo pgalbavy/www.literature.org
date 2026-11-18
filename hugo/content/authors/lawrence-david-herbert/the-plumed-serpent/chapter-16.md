@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Cipriano And Kate"
 weight: 16
-aliases:
-  - "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-16.html"
+url: "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-16.html"
 ---
 
 On Saturday afternoons the big black canoes with their large square sails came slowly approaching out of the thin haze across the lake, from the west, from Tlapaltepec, with big straw hats and with blankets and earthenware stuff, from Ixtlahuacan and Jaramay and Las Zemas with mats and timber and charcoal and oranges, from Tuliapan and Cuxcueco and San Cristobal with boatloads of dark- green, globular water-melons, and piles of red tomatoes, mangoes, vegetables, oranges: and boat-loads of bricks and tiles, burnt red, but rather friable; then more charcoal, more wood, from the stark dry mountains over the lake.

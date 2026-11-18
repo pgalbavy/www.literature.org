@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 35
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-35.html"
+url: "/authors/london-jack/martin-eden/chapter-35.html"
 ---
 
 Brissenden gave no explanation of his long absence, nor did Martin pry into it. He was content to see his friend's cadaverous face opposite him through the steam rising from a tumbler of toddy.

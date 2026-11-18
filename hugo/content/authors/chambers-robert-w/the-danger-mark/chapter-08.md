@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - An Afterglow"
 weight: 8
-aliases:
-  - "/authors/chambers-robert-w/the-danger-mark/chapter-08.html"
+url: "/authors/chambers-robert-w/the-danger-mark/chapter-08.html"
 ---
 
 Deliciously weary, every fibre in her throbbing with physical fatigue, she had nevertheless found it impossible to sleep.

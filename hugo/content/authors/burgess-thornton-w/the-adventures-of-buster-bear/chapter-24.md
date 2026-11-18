@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Buster Bear Has A Fit Of Temper"
 weight: 23
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-24.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-24.html"
 ---
 
 A temper is a bad, bad thing  

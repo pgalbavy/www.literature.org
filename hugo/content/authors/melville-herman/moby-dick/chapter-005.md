@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Breakfast"
 weight: 5
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-005.html"
+url: "/authors/melville-herman/moby-dick/chapter-005.html"
 ---
 
 I quickly followed suit, and descending into the bar-room accosted the grinning landlord very pleasantly. I cherished no malice towards him, though he had been skylarking with me not a little in the matter of my bedfellow.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Back to the Primitive"
 weight: 14
-aliases:
-  - "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-14.html"
+url: "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-14.html"
 ---
 
 As Tarzan struck the water, his first impulse was to swim clear of the ship and possible danger from her propellers. He knew whom to thank for his present predicament, and as he lay in the sea, just supporting himself by a gentle movement of his hands, his chief emotion was one of chagrin that he had been so easily bested by Rokoff.

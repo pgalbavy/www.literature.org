@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - A Merry Song"
 weight: 23
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-23.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-23.html"
 ---
 
 Timothy Turtle made such a noise that the Frog family had to stop singing.

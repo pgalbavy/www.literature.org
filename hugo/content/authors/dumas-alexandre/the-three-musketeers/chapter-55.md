@@ -1,8 +1,7 @@
 ---
 title: "Chapter 55 - Captivity:  The Fourth Day"
 weight: 56
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-55.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-55.html"
 ---
 
 The next day, when Felton entered Milady's apartment he found her standing, mounted upon a chair, holding in her hands a cord made by means of torn cambric handkerchiefs, twisted into a kind of rope one with another, and tied at the ends. At the noise Felton made in entering, Milady leaped lightly to the ground, and tried to conceal behind her the improvised cord she held in her hand.

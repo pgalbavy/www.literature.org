@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-11.html"
+url: "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-11.html"
 ---
 
 Under the impact of these tidings Turner Stacy came to his feet with a sudden transformation of bearing. The poetic abstraction which had, a moment ago, been a facial mirror for the sunset mysticism, vanished to be harshly usurped by a spirit of sinister wrath.

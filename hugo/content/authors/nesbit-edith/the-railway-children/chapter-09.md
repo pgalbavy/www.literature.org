@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Pride Of Perks"
 weight: 9
-aliases:
-  - "/authors/nesbit-edith/the-railway-children/chapter-09.html"
+url: "/authors/nesbit-edith/the-railway-children/chapter-09.html"
 ---
 
 It was breakfast-time. Mother's face was very bright as she poured the milk and ladled out the porridge.

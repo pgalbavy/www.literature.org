@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Fourth Act"
 weight: 16
-aliases:
-  - "/authors/leblanc-maurice/the-golden-triangle/chapter-16.html"
+url: "/authors/leblanc-maurice/the-golden-triangle/chapter-16.html"
 ---
 
 "Captain," said Don Luis, "you've scored two fine blunders. The first was your not telling me that Grégoire was a woman. The second . . ."

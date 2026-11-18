@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Tinkle In The Circus"
 weight: 9
-aliases:
-  - "/authors/barnum-richard/tinkle-the-trick-pony/chapter-09.html"
+url: "/authors/barnum-richard/tinkle-the-trick-pony/chapter-09.html"
 ---
 
 “What does all this mean?” thought Tinkle to himself as he got up off the pile of bags in the moving van, and tried to stand. But he found that the motion of the big wagon, as it was rapidly driven away, toppled him about so that it was easier to lie down than to stay on his feet.

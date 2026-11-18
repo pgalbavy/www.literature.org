@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-04.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-04.html"
 ---
 
 When Boone surreptitiously slipped out of the house he had plunged recklessly into the thorn-tangle for a shorter cut than the two men would take: a road of precipitous peril but of moments saved.

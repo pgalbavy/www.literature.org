@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Heart Trap"
 weight: 1
-aliases:
-  - "/authors/daviess-maria-thompson/andrew-the-glad/chapter-01.html"
+url: "/authors/daviess-maria-thompson/andrew-the-glad/chapter-01.html"
 ---
 
 "There are some women who will brew mystery from the decoction of even a very simple life. Matilda is one of them," remarked the major to himself as he filled his pipe and settled himself before his high-piled, violet-flamed logs. "It was waxing strong in her this morning and an excitement will arrive shortly. Now I wonder--"

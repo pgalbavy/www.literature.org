@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Message From The Sky"
 weight: 17
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-17.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-17.html"
 ---
 
 For a time it looked as if the Bertha must fall far short of the summit and drop to the jagged rocks below. There was nothing whatever the boys could do. The song of the motors had almost ceased, and they understood that through some mischance the gasoline tank had become empty. The situation was a critical one.

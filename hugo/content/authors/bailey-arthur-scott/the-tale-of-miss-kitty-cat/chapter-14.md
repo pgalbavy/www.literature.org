@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Catcalls"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-14.html"
 ---
 
 PERCHED on top of Rusty Wren's tin house, Miss Kitty Cat had been enjoying herself thoroughly, while the birds made a great how-dy-do and tried in vain to frighten her away.

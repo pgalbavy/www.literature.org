@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 18"
 weight: 33
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-02-chapter-18.html"
+url: "/authors/london-jack/valley-of-the-moon/book-02-chapter-18.html"
 ---
 
 It was early evening when they got off the car at Seventh and Pine on their way home from Bell's Theater. Billy and Saxon did their little marketing together, then separated at the corner, Saxon to go on to the house and prepare supper, Billy to go and see the boys--the teamsters who had fought on in the strike during his month of retirement.

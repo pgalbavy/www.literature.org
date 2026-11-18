@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 19"
 weight: 53
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-19.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-19.html"
 ---
 
 On the day of the races at Krasnoe Selo, Vronsky had come earlier than usual to eat beefsteak in the common messroom of the regiment. He had no need to be strict with himself, as he had very quickly been brought down to the required light weight; but still he had to avoid gaining flesh, and so he eschewed farinaceous and sweet dishes. He sat with his coat unbuttoned over a white waistcoat, resting both elbows on the table, and while waiting for the steak he had ordered he looked at a French novel that lay open on his plate. He wasonly looking at the book to avoid conversation with the officers coming in and out; he was thinking.

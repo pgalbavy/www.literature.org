@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Tenacious Turtle"
 weight: 12
-aliases:
-  - "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-12.html"
+url: "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-12.html"
 ---
 
 "It's Martha's Stray," the big man gasped in a kind of impatient alarm. "I just left him here a minute ago to go front." Together he and I started around the long room with its bar on the one side backed up by a mirror whose gilt frame was swathed in mosquito netting and on either side of which were shelves bearing pyramids of bottles. On the bar at one end were piled oranges and at the other lemons and limes whose sophistication seemed out of place somehow in the Settlement in the Harpeth Valley. All the trappings that I judge would go with the dispensing of liquor were present, but our eyes could discover no small child and we stood together and waited anxiously.

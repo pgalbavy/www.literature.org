@@ -1,8 +1,7 @@
 ---
 title: "Chapter 56 - Captivity:  The Fifth Day"
 weight: 57
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-56.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-56.html"
 ---
 
 Milady had however achieved a half-triumph, and success doubled her forces.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-14.html"
+url: "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-14.html"
 ---
 
 When she got near the park-gate, she heard the click of the latch. He was there, then, in the darkness of the wood, and had seen her!

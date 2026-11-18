@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 9"
 weight: 22
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-03-chapter-09.html"
+url: "/authors/conrad-joseph/the-rescue/part-03-chapter-09.html"
 ---
 
 The letter went on to enlarge on the intrigues of Tengga, the wavering conduct of Belarab, and the state of the public mind. It noted every gust of opinion and every event, with an earnestness of belief in their importance befitting the chronicle of a crisis in the history of an empire. The shade of Jorgenson had, indeed, stepped back into the life of men. The old adventurer looked on with a perfect understanding of the value of trifles, using his eyes for that other man whose conscience would have the task to unravel the tangle. Lingard lived through those days in the Settlement and was thankful to Jorgenson; only as he lived not from day to day but from sentence to sentence of the writing, there was an effect of bewildering rapidity in the succession of events that made him grunt with surprise sometimes or growl—"What?" to himself angrily and turn back several lines or a whole page more than once. Toward the end he had a heavy frown of perplexity and fidgeted as he read:

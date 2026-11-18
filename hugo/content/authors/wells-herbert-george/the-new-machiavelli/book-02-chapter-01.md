@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 1 - Margaret In Staffordshire"
 weight: 5
-aliases:
-  - "/authors/wells-herbert-george/the-new-machiavelli/book-02-chapter-01.html"
+url: "/authors/wells-herbert-george/the-new-machiavelli/book-02-chapter-01.html"
 ---
 
 1

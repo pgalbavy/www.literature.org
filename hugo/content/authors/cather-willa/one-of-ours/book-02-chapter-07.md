@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 7"
 weight: 26
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-02-chapter-07.html"
+url: "/authors/cather-willa/one-of-ours/book-02-chapter-07.html"
 ---
 
 Claude was well enough to go into the fields before the harvest was over. The middle of July came, and the farmers were still cutting grain. The yield of wheat and oats was so heavy that there were not machines enough to thrash it within the usual time. Men had to await their turn, letting their grain stand in shock until a belching black engine lumbered into the field. Rains would have been disastrous; but this was one of those "good years" which farmers tell about, when everything goes well. At the time they needed rain, there was plenty of it; and now the days were miracles of dry, glittering heat.

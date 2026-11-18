@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - The Bend in the Road"
 weight: 38
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-38.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-38.html"
 ---
 
 Marilla went to town the next day and returned in the evening. Anne had gone over to Orchard Slope with Diana and came back to find Marilla in the kitchen, sitting by the table with her head leaning on her hand. Something in her dejected attitude struck a chill to Anne's heart. She had never seen Marilla sit limply inert like that.

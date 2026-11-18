@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 3 - The Man Of The Island"
 weight: 16
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-03-chapter-03.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-03-chapter-03.html"
 ---
 
 FROM the side of the hill, which was here steep and stony, a spout of gravel was dislodged and fell rattling and bounding through the trees. My eyes turned instinctively in that direction, and I saw a figure leap with great rapidity behind the trunk of a pine. What it was, whether bear or man or monkey, I could in no wise tell. It seemed dark and shaggy; more I knew not. But the terror of this new apparition brought me to a stand.

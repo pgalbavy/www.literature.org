@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-14.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-14.html"
 ---
 
 AS soon as I had perused this epistle I went to the master, and informed him that his sister had arrived at the Heights, and sent me a letter expressing her sorrow for Mrs. Linton's situation, and her ardent desire to see him; with a wish that he would transmit to her, as early as possible, some token of forgiveness by me.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-19.html"
+url: "/authors/chambers-robert-w/athalie/chapter-19.html"
 ---
 
 There was a slight fragrance of tobacco in the room mingling with the fresh, spring-like scent of lilacs—great pale clusters of them decorated mantel and table, and the desk where Athalie sat writing to Captain Dane in the semi-dusk of a May evening.

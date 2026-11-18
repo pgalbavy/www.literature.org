@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 7 - Lynx-Eye"
 weight: 8
-aliases:
-  - "/authors/leblanc-maurice/the-tremendous-event/part-01-chapter-07.html"
+url: "/authors/leblanc-maurice/the-tremendous-event/part-01-chapter-07.html"
 ---
 
 "What do you say to this, my boy? Did I prophesy it all, or did I not? Read my pamphlet on The Channel in the Year 2000 and you'll see. And then remember all I told you the other morning, at Newhaven station. Well, there you are: the two countries are joined together as they were once before, in the Eocene epoch."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Golden Locket"
 weight: 5
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-05.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-05.html"
 ---
 
 The little British army in East Africa, after suffering severe reverses at the hands of a numerically much superior force, was at last coming into its own. The German offen- sive had been broken and the Huns were now slowly and dog- gedly retreating along the railway to Tanga. The break in the German lines had followed the clearing of a section of their left-flank trenches of native soldiers by Tarzan and Numa, the lion, upon that memorable night that the ape-man had loosed a famishing man-eater among the superstitious and terror-stricken blacks. The Second Rhodesian Regiment had immediately taken possession of the abandoned trench and from this position their flanking fire had raked contiguous sec- tions of the German line, the diversion rendering possible a successful night attack on the part of the balance of the British forces.

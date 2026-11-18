@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-20.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-20.html"
 ---
 
 At first they had a carriage to themselves. They sat opposite each other with averted faces, looking out of the windows and watching the houses, the downs dead asleep in the sun, the embankments of the railway with exhausted hot flowers go slowly past out of their reach. They felt as if they were being dragged away like criminals. Unable to speak or think, they stared out of the windows, Helena struggling in vain to keep back her tears, Siegmund labouring to breathe normally.

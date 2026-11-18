@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-09.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-09.html"
 ---
 
 Three days of rest, three blessed days of rest, are what I had with Wolf Larsen, eating at the cabin table and doing nothing but discuss life, literature, and the universe, the while Thomas Mugridge fumed and raged and did my work as well as his own.

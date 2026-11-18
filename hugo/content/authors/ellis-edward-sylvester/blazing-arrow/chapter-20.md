@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Across The Gorge"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-20.html"
 ---
 
 "Heavens, Larry, you have killed him!" was the horrified exclamation of Wharton Edwards.

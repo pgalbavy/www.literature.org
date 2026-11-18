@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - 'It's my own Invention'"
 weight: 8
-aliases:
-  - "/authors/carroll-lewis/through-the-looking-glass/chapter-08.html"
+url: "/authors/carroll-lewis/through-the-looking-glass/chapter-08.html"
 ---
 
 After a while the noise seemed gradually to die away, till all was dead silence, and Alice lifted up her head in some alarm. There was no one to be seen, and her first thought was that she must have been dreaming about the Lion and the Unicorn and those still lying at her feet, on which she had tried to cut the plum- cake, 'So I wasn't dreaming, after all,' she said to herself, 'unless -- unless we're all part of the same dream. Only I do hope it's my dream, and not the Red King's! I don't like belonging to another person's dream,' she went on in a rather complaining tone: 'I've a great mind to go and wake him, and see what happens!'

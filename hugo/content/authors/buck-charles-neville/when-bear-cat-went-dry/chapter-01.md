@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-01.html"
+url: "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-01.html"
 ---
 
 A creaking complaint of loose and rattling boards rose under the old mountaineer's brogans as he stepped from the threshold to the porch. His eyes, searching the wooded mountain-side, held at first only that penetration which born woodsmen share with the hawk and ferret, but presently they kindled into irascibility as well.

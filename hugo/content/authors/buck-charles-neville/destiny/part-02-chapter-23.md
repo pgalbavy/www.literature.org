@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 23"
 weight: 23
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-23.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-23.html"
 ---
 
 When Mary Burton presented herself in the anteroom of the suite whose ground-glass doors bore the legend "Edwardes and Edwardes," and asked for the banker, a man with a pale and demoralized face gazed at her blankly. Could any one seek to claim, except on most urgent business, one minute out of these crucially vital hours? They were hours when the real target of the whole panic-making bombardment was striving to compress into each relentless instant a separate struggle for survival.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - The Story"
 weight: 27
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-27.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-27.html"
 ---
 
 "First, sir," said Caderousse, "you must make me a promise."

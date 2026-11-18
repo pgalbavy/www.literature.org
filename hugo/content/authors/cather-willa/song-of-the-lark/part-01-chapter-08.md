@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 8"
 weight: 8
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-01-chapter-08.html"
+url: "/authors/cather-willa/song-of-the-lark/part-01-chapter-08.html"
 ---
 
 Winter was long in coming that year. Throughout October the days were bathed in sunlight and the air was clear as crystal. The town kept its cheerful summer aspect, the desert glistened with light, the sand hills every day went through magical changes of color. The scarlet sage bloomed late in the front yards, the cottonwood leaves were bright gold long before they fell, and it was not until November that the green on the tamarisks began to cloud and fade. There was a flurry of snow about Thanksgiving, and then December came on warm and clear.

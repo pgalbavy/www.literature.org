@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Visits To A Butcher’s Shop"
 weight: 23
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-22.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-22.html"
 ---
 
 *THEOPHRASTE’S* bones were not broken, and it only took six weeks to heal, although he was obliged to keep to his bed for two months, when he regained the use of his legs. During all this time he did not make a single allusion to the past. Cartouche was dead—quite dead. The operation had been successful, although very painful. So much so, that every one dreaded that he would remain a cripple to the end of his life; but he had recovered marvelously. He had obtained a new set of teeth, and was able to speak quite plainly, but it was a more difficult thing to rid himself of the effects of the boiling water in his ears, and at times he was perfectly deaf.

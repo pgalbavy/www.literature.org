@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 19"
 weight: 19
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-19.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-19.html"
 ---
 
 The next day opened a new scene at Longbourn. Mr. Collins made his declaration in form. Having resolved to do it without loss of time, as his leave of absence extended only to the following Saturday, and having no feelings of diffidence to make it distressing to himself even at the moment, he set about it in a very orderly manner, with all the observances which he supposed a regular part of the business. On finding Mrs. Bennet, Elizabeth, and one of the younger girls together, soon after breakfast, he addressed the mother in these words,

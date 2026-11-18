@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - I Come To Mr. Rankeillor"
 weight: 28
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-27.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-27.html"
 ---
 
 The next day it was agreed that Alan should fend for himself till sunset; but as soon as it began to grow dark, he should lie in the fields by the roadside near to Newhalls, and stir for naught until he heard me whistling. At first I proposed I should give him for a signal the “Bonnie House of Airlie,” which was a favourite of mine; but he objected that as the piece was very commonly known, any ploughman might whistle it by accident; and taught me instead a little fragment of a Highland air, which has run in my head from that day to this, and will likely run in my head when I lie dying. Every time it comes to me, it takes me off to that last day of my uncertainty, with Alan sitting up in the bottom of the den, whistling and beating the measure with a finger, and the grey of the dawn coming on his face.

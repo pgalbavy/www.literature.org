@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/collins-wilkie/the-frozen-deep/chapter-10.html"
+url: "/authors/collins-wilkie/the-frozen-deep/chapter-10.html"
 ---
 
 Ax in hand, Wardour approached Frank's bed-place.

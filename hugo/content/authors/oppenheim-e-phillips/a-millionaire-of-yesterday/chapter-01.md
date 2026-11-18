@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-01.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-01.html"
 ---
 
 "Filth," grunted Trent - "ugh! I tell you what it is, my venerable friend - I have seen some dirty cabins in the west of Ireland and some vile holes in East London. I've been in some places which I can't think of even now without feeling sick. I'm not a particular chap, wasn't brought up to it - no, nor squeamish either, but this is a bit thicker than anything I've ever knocked up against. If Francis doesn't hurry we'll have to chuck it! We shall never stand it out, Monty!"

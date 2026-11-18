@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Looking Southward"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-05.html"
 ---
 
 Mrs. Whitney and her daughter Jennie stood at the door of their ranch listening, with rapidly beating hearts, to the sounds of rifle-firing from the direction of the cattle-range where the beloved husband and son were looking after their property.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Voyage Of The Ann"
 weight: 9
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-09.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-09.html"
 ---
 
 “I wouldn’t call that much of a joke!” Carl replied. “Turn out the light and perhaps they won’t see us!”

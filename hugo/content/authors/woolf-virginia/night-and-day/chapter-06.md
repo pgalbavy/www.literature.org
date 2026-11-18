@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/woolf-virginia/night-and-day/chapter-06.html"
+url: "/authors/woolf-virginia/night-and-day/chapter-06.html"
 ---
 
 Of all the hours of an ordinary working week-day, which are the pleasantest to look forward to and to look back upon? If a single instance is of use in framing a theory, it may be said that the minutes between nine-twenty-five and nine-thirty in the morning had a singular charm for Mary Datchet. She spent them in a very enviable frame of mind; her contentment was almost unalloyed. High in the air as her flat was, some beams from the morning sun reached her even in November, striking straight at curtain, chair, and carpet, and painting there three bright, true spaces of green, blue, and purple, upon which the eye rested with a pleasure which gave physical warmth to the body.

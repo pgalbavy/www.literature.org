@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37"
 weight: 38
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-37.html"
+url: "/authors/haggard-h-rider/dawn/chapter-37.html"
 ---
 
 Angela's appeal for protection set Philip thinking.

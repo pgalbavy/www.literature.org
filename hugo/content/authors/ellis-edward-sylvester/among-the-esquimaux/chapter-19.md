@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - A Wonderful Exhibition"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-19.html"
 ---
 
 Unto no one, excepting him who journeys far into the Northland, is given it to view such an amazing picture as was now spread out before the enraptured gaze of Rob Carrol and Fred Warburton. In Northern Siberia, the Scandinavian Peninsula, the upper portion of the American Continent, and the Arctic Sea, the traveler learns in all its wonderful fullness of glory the meaning of the Aurora Borealis or Northern Lights.

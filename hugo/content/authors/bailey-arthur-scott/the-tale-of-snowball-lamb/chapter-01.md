@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Black And White"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-01.html"
 ---
 
 "Hurrah!" Johnnie Green shouted. And he dashed out of the woodshed and ran to the barnyard as fast as he could scamper.

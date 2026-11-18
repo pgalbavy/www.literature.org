@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - A Woman’s Last Word"
 weight: 30
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-29.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-29.html"
 ---
 
 Geoffrey came down to breakfast about eleven o’clock on the morning of that day the first hours of which he had spent at Euston Station. Not seeing Effie, he asked Lady Honoria where she was, and was informed that Anne, the French bonne, said the child was not well and that she had kept her in bed to breakfast.

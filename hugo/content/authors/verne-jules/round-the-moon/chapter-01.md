@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/verne-jules/round-the-moon/chapter-01.html"
+url: "/authors/verne-jules/round-the-moon/chapter-01.html"
 ---
 
 As ten o'clock struck, Michel Ardan, Barbicane, and Nicholl, took leave of the numerous friends they were leaving on the earth. The two dogs, destined to propagate the canine race on the lunar continents, were already shut up in the projectile.

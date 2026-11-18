@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/wells-herbert-george/the-time-machine/chapter-03.html"
+url: "/authors/wells-herbert-george/the-time-machine/chapter-03.html"
 ---
 
 'I told some of you last Thursday of the principles of the Time Machine, and showed you the actual thing itself, incomplete in the workshop. There it is now, a little travel-worn, truly; and one of the ivory bars is cracked, and a brass rail bent; but the rest of it's sound enough. I expected to finish it on Friday, but on Friday, when the putting together was nearly done, I found that one of the nickel bars was exactly one inch too short, and this I had to get remade; so that the thing was not complete until this morning. It was at ten o'clock to-day that the first of all Time Machines began its career. I gave it a last tap, tried all the screws again, put one more drop of oil on the quartz rod, and sat myself in the saddle. I suppose a suicide who holds a pistol to his skull feels much the same wonder at what will come next as I felt then. I took the starting lever in one hand and the stopping one in the other, pressed the first, and almost immediately the second. I seemed to reel; I felt a nightmare sensation of falling; and, looking round, I saw the laboratory exactly as before. Had anything happened? For a moment I suspected that my intellect had tricked me. Then I noted the clock. A moment before, as it seemed, it had stood at a minute or so past ten; now it was nearly half-past three!

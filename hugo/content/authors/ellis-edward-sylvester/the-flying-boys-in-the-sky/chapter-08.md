@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Professor Talks On Aviation"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-08.html"
 ---
 
 The last remark of Professor Morgan threw Bohunkus Johnson into a state of excitement. He had obeyed Harvey and remained mute during the conversation, but he now addressed the visitor directly:

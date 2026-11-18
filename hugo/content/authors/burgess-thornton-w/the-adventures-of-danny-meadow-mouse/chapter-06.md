@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Danny Meadow Mouse Remembers And Reddy Fox Forgets"
 weight: 6
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-06.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-06.html"
 ---
 
 "*THERE* he goes!" cried old Granny Fox. "Don’t let him sit still again!"

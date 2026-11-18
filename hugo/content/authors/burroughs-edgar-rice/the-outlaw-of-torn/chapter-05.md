@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-05.html"
+url: "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-05.html"
 ---
 
 For three years following the disappearance of Prince Richard, a bent old woman lived in the heart of London within a stone's throw of the King's palace. In a small back room she lived, high up in the attic of an old building, and with her was a little boy who never went abroad alone, nor by day. And upon his left breast was a strange mark which resembled a lily. When the bent old woman was safely in her attic room, with bolted door behind her, she was wont to straighten up, and discard her dingy mantle for more comfortable and becoming doublet and hose.

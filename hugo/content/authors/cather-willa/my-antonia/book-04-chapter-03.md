@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 3"
 weight: 42
-aliases:
-  - "/authors/cather-willa/my-antonia/book-04-chapter-03.html"
+url: "/authors/cather-willa/my-antonia/book-04-chapter-03.html"
 ---
 
 ON THE FIRST OR second day of August I got a horse and cart and set out for the high country, to visit the Widow Steavens. The wheat harvest was over, and here and there along the horizon I could see black puffs of smoke from the steam threshing-machines. The old pasture land was now being broken up into wheatfields and cornfields, the red grass was disappearing, and the whole face of the country was changing. There were wooden houses where the old sod dwellings used to be, and little orchards, and big red barns; all this meant happy children, contented women, and men who saw their lives coming to a fortunate issue. The windy springs and the blazing summers, one after another, had enriched and mellowed that flat tableland; all the human effort that had gone into it was coming back in long, sweeping lines of fertility. The changes seemed beautiful and harmonious to me; it was like watching the growth of a great man or of a great idea. I recognized every tree and sandbank and rugged draw. I found that I remembered the conformation of the land as one remembers the modelling of human faces.

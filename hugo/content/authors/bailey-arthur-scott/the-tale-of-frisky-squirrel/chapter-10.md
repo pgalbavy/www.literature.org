@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Tails And Ears"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-10.html"
 ---
 
 Among all his friends, Frisky Squirrel liked to play with Jimmy Rabbit best. You see, Jimmy never wanted to eat him. He was so fond of tender young sprouts, and of Farmer Green's vegetables, that he wouldn't have taken even the smallest bite out of Frisky. He would have laughed at the very idea.

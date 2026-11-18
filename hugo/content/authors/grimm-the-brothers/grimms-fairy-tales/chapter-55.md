@@ -1,8 +1,7 @@
 ---
 title: "Chapter 55 - The Story Of The Youth Who Went Forth To Learn What Fear Was"
 weight: 55
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-55.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-55.html"
 ---
 
 A certain father had two sons, the elder of who was smart and sensible, and could do everything, but the younger was stupid and could neither learn nor understand anything, and when people saw him they said: ‘There’s a fellow who will give his father some trouble!’ When anything had to be done, it was always the elder who was forced to do it; but if his father bade him fetch anything when it was late, or in the night-time, and the way led through the churchyard, or any other dismal place, he answered: ‘Oh, no father, I’ll not go there, it makes me shudder!’ for he was afraid. Or when stories were told by the fire at night which made the flesh creep, the listeners sometimes said: ‘Oh, it makes us shudder!’ The younger sat in a corner and listened with the rest of them, and could not imagine what they could mean. ‘They are always saying: “It makes me shudder, it makes me shudder!” It does not make me shudder,’ thought he. ‘That, too, must be an art of which I understand nothing!’

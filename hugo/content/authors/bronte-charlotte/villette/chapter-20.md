@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Concert"
 weight: 20
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-20.html"
+url: "/authors/bronte-charlotte/villette/chapter-20.html"
 ---
 
 One morning, Mrs. Bretton, coming promptly into my room, desired me to open my drawers and show her my dresses; which I did, without a word.

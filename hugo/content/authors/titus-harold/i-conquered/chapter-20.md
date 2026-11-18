@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Last Stand"
 weight: 20
-aliases:
-  - "/authors/titus-harold/i-conquered/chapter-20.html"
+url: "/authors/titus-harold/i-conquered/chapter-20.html"
 ---
 
 Even the vibrating guitar strings seemed to be stilled suddenly. For VB, an abrupt hush crushed down on the scene. He felt the eyes as, pair after pair, they followed those of the Mexican and gazed at him; even the man slumbering in his chair awoke, raised his head, and stared at him sleepily. He stood in the doorway, leaning lightly against the logs, returning each gaze in turn.

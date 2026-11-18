@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Bargain"
 weight: 22
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin/chapter-22.html"
+url: "/authors/leblanc-maurice/arsene-lupin/chapter-22.html"
 ---
 
 Charolais conducted the detective down the stairs and let him out of the front door, cursing and threatening vengeance as he went. Charolais took no notice of his words--he was the well-trained servant. He came back upstairs, and on the landing called to Victoire and Bernard. They came hurrying down; and the three of them went into the smoking-room.

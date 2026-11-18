@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Reddy Fox Brings Granny News"
 weight: 1
-aliases:
-  - "/authors/burgess-thornton-w/old-granny-fox/chapter-01.html"
+url: "/authors/burgess-thornton-w/old-granny-fox/chapter-01.html"
 ---
 
 Pray who is there who would refuse  

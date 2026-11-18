@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Dian the Beautiful"
 weight: 5
-aliases:
-  - "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-04.html"
+url: "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-04.html"
 ---
 
 WHEN OUR GUARDS AROUSED US FROM SLEEP WE were much refreshed. They gave us food. Strips of dried meat it was, but it put new life and strength into us, so that now we too marched with high-held heads, and took noble strides. At least I did, for I was young and proud; but poor Perry hated walking. On earth I had often seen him call a cab to travel a square--he was paying for it now, and his old legs wobbled so that I put my arm about him and half carried him through the balance of those frightful marches.

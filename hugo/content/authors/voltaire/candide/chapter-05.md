@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Tempest, a Shipwreck, an Earthquake, and What Else Befell Dr. Pangloss, Candide, and James, the Anabaptist"
 weight: 5
-aliases:
-  - "/authors/voltaire/candide/chapter-05.html"
+url: "/authors/voltaire/candide/chapter-05.html"
 ---
 
 One half of the passengers, weakened and half-dead with the inconceivable anxiety and sickness which the rolling of a vessel at sea occasions through the whole human frame, were lost to all sense of the danger that surrounded them. The others made loud outcries, or betook themselves to their prayers; the sails were blown into shreds, and the masts were brought by the board. The vessel was a total wreck. Everyone was busily employed, but nobody could be either heard or obeyed. The Anabaptist, being upon deck, lent a helping hand as well as the rest, when a brutish sailor gave him a blow and laid him speechless; but, not withstanding, with the violence of the blow the tar himself tumbled headforemost overboard, and fell upon a piece of the broken mast, which he immediately grasped.

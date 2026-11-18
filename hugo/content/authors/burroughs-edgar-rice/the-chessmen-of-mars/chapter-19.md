@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 20
-aliases:
-  - "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-19.html"
+url: "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-19.html"
 ---
 
 THE night was still young when there came one to the entrance of the banquet hall where O-Tar of Manator dined with his chiefs, and brushing past the guards entered the great room with the insolence of a privileged character, as in truth he was. As he approached the head of the long board O-Tar took notice of him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Buster's Resolve"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-02.html"
 ---
 
 NOT only was Betsy Butterfly a beautiful creature. She was pleasant to everybody. And almost all her neighbors were just as pleasant to her. Mrs. Ladybug was one of the few that were sometimes disagreeable to Betsy. For Mrs. Ladybug did not approve of her. She thought that Betsy Butterfly was frivolous. And she frowned whenever she saw Betsy in her beautiful costume.

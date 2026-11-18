@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-03.html"
+url: "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-03.html"
 ---
 
 WHEN Launa, who had a queer, passionate temper, a horror of restraint of any kind, and a great dislike to being disappointed or thwarted, was fifteen, she was tall, and slight, all arms and legs, with long thin fingers, and well-shaped feet. Her skin was tanned, with a tinge of red in her cheeks, her eyes were brown, as was her hair. She could paddle, and walk on snowshoes like an Indian, her voice had a low soft richness in it that reminded Mr. Archer of a squaw—which made him wonder whether there had been Indian blood in Naomi or not?

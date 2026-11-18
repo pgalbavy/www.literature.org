@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40"
 weight: 40
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-40.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-40.html"
 ---
 
 At first Jessie Milton and Mr. Hoopdriver walked away from the hotel in silence. He heard a catching in her breath and glanced at her and saw her ips pressed tight and a tear on her cheek. Her face was hot and bright. She was looking straight before her. He could think of nothing to say, and thrust his hands in his pockets and looked away from her intentionally. After a while she began to talk. They dealt disjointedly with scenery first, and then with the means of self-education. She took his address at Antrobus's and promised to send him some books. But even with that it was spiritless, aching talk, Hoopdriver felt, for the fighting mood was over. She seemed, to him, preoccupied with the memories of her late battle, and that appearance hurt him.

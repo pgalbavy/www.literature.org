@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Beginning The Search"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-21.html"
 ---
 
 There certainly had been lively work, for within six hours after the discovery of the destroyed aeroplane, a message had been sent from New York to Garden City, Long Island, a machine despatched from that point to the little town among the Alleghanies in eastern Pennsylvania, and an aerial ship had sailed across the State of New Jersey to the destination more than two hundred miles from its starting point. When and by what means the merchant had learned of the straits of his son could not as yet be guessed, but the news must have been waiting when he reached his office in the city, since young Mitchell said it was received at the factory between eight and nine o’clock that morning. The flight to Groveton was made in about four hours, with a brief halt on the way to replenish the supply of gasoline. Traveling at the rate of fifty miles an hour and sometimes faster was surely "going some."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A New Friend"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/bill-biddon-trapper/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/bill-biddon-trapper/chapter-02.html"
 ---
 
 As the light of morning overspread the stream and prairie, I felt an unspeakable sense of relief. Not a moment of sleep had visited me that night, although Nat’s extreme fear toward midnight gave way to his drowsiness, and he slept long and heavily.

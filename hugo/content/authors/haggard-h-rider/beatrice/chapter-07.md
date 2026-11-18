@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Matrimonial Tale"
 weight: 8
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-07.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-07.html"
 ---
 
 Before Geoffrey Bingham dropped off into a troubled sleep on that eventful night of storm, he learned that the girl who had saved his life at the risk and almost at the cost of her own was out of danger, and in his own and more reticent way he thanked Providence as heartily as did Owen Davies. Then he went to sleep.

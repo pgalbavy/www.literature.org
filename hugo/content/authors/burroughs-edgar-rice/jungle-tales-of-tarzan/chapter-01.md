@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Tarzan's First Love"
 weight: 1
-aliases:
-  - "/authors/burroughs-edgar-rice/jungle-tales-of-tarzan/chapter-01.html"
+url: "/authors/burroughs-edgar-rice/jungle-tales-of-tarzan/chapter-01.html"
 ---
 
 TEEKA, STRETCHED AT luxurious ease in the shade of the tropical forest, presented, unquestionably, a most alluring picture of young, feminine loveliness. Or at least so thought Tarzan of the Apes, who squatted upon a low-swinging branch in a near-by tree and looked down upon her.

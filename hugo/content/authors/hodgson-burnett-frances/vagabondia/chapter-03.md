@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - In Which The Train Is Laid"
 weight: 3
-aliases:
-  - "/authors/hodgson-burnett-frances/vagabondia/chapter-03.html"
+url: "/authors/hodgson-burnett-frances/vagabondia/chapter-03.html"
 ---
 
 “After a holiday comes a rest day.” The astuteness of this proverb continually proved itself in Vagabondia, and this was more particularly the case when the holiday had been Dolly's, inasmuch as Dolly was invariably called upon to “fight her battles o'er again,” and recount her experiences the day following a visit, for the delectation of the household. Had there appeared in the camps a Philistine of notoriety, then that Philistine must play his or her part again through the medium of Dolly's own inimitable powers of description or representation; had any little scene occurred possessing a spice of flavoring, or illustrating any Philistine peculiarity, then Dolly was quite equal to the task of putting it upon the family stage, and re-enacting it with iniquitous seasonings and additions of her own. And yet the fun was never of an ill-natured sort. When Dolly gave them a correct embodiment of Lady Augusta in reception of her guests, with an accurate description of the “great Copper-Boiler costume,” the bursts of applause meant nothing more than that Dolly's imitative gifts were in good condition, and that the “great Copper-Boiler costume” was a success. Then, the feminine mind being keenly alive to an interest in earthly vanities, an enlargement on Philistine adornments was considered necessary, and Dolly always rendered herself popular by a minute description of the reigning fashions, as displayed by the Bilberry element. She found herself quite repaid for the trouble of going into detail, by the unsophisticated pleasure in Mollie's eyes alone, for to Mollie outward furnishings seemed more than worthy of description and discussion.

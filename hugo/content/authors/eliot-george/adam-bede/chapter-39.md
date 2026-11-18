@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39 - The Tidings"
 weight: 39
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-39.html"
+url: "/authors/eliot-george/adam-bede/chapter-39.html"
 ---
 
 ADAM turned his face towards Broxton and walked with his swiftest stride, looking at his watch with the fear that Mr. Irwine might be gone out - hunting, perhaps. The fear and haste together produced a state of strong excitement before he reached the rectory gate, and outside it he saw the deep marks of a recent hoof on the gravel.

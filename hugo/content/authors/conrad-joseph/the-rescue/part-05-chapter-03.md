@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 3"
 weight: 31
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-05-chapter-03.html"
+url: "/authors/conrad-joseph/the-rescue/part-05-chapter-03.html"
 ---
 
 Mrs. Travers, acutely aware of Lingard behind her, remained gazing over the lagoon. After a time he stepped forward and placed himself beside her close to the rail. She went on staring at the sheet of water turned to deep purple under the sunset sky.

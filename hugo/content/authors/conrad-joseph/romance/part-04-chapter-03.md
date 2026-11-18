@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 3"
 weight: 21
-aliases:
-  - "/authors/conrad-joseph/romance/part-04-chapter-03.html"
+url: "/authors/conrad-joseph/romance/part-04-chapter-03.html"
 ---
 
 Silence, stillness, breathless caution were the absolute conditions of our existence. But I hadn't the heart to remonstrate with him for the danger he caused Seraphina and myself. The fog was so thick now that I could not make out his outline, but I could smell the tobacco very plainly.

@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 14"
 weight: 50
-aliases:
-  - "/authors/austen-jane/emma/volume-03-chapter-14.html"
+url: "/authors/austen-jane/emma/volume-03-chapter-14.html"
 ---
 
 What totally different feelings did Emma take back into the house from what she had brought out!--she had then been only daring to hope for a little respite of suffering;--she was now in an exquisite flutter of happiness, and such happiness moreover as she believed must still be greater when the flutter should have passed away.

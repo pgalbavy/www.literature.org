@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Buster Makes A Speech"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-10.html"
 ---
 
 At first, when he found himself in the grip of what he was sure must be the Robber Fly, Buster Bumblebee was so alarmed that he could not even scream. But in a moment or two he found his voice. And he shrieked "Help! Help!" in a most frantic tone, hoping that some one would come and save him.

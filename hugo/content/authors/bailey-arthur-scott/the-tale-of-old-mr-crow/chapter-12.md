@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - A Race With The Train"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-12.html"
 ---
 
 Old Mr. Crow was fond of gay clothes. Perhaps it was because he was so black that he always chose bright colors. Anyhow, so long as he could wear a bright red coat and a yellow necktie--or a bright red necktie and a yellow coat--he was generally quite happy.

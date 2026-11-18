@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Two Women"
 weight: 1
-aliases:
-  - "/authors/collins-wilkie/the-new-magdalen/chapter-01.html"
+url: "/authors/collins-wilkie/the-new-magdalen/chapter-01.html"
 ---
 
 IT was a dark night. The rain was pouring in torrents.

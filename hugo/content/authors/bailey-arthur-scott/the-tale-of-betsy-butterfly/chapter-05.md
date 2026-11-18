@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - No Joker"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-05.html"
 ---
 
 MUCH to Mrs. Ladybug's surprise, she did not find Betsy Butterfly in the flower garden.

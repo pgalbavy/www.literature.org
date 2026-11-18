@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-10.html"
+url: "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-10.html"
 ---
 
 As the leopard leaped for the great ape Meriem gasped in surprise and horror--not for the impending fate of the anthropoid, but at the act of the youth who but for an instant before had angrily struck his strange companion; for scarce had the carnivore burst into view than with drawn knife the youth had leaped far out above him, so that as Sheeta was almost in the act of sinking fangs and talons in Akut's broad back The Killer landed full upon the leopard's shoulders.

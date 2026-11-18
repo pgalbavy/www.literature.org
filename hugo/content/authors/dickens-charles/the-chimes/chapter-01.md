@@ -1,8 +1,7 @@
 ---
 title: "First Quarter"
 weight: 1
-aliases:
-  - "/authors/dickens-charles/the-chimes/chapter-01.html"
+url: "/authors/dickens-charles/the-chimes/chapter-01.html"
 ---
 
 There are not many people -- and as it is desirable that a story-teller and a story-reader should establish a mutual understanding as soon as possible, beg it to be noticed that I confine this observation neither to young people nor to little people, but extend it to all conditions of people: little and big, young and old: yet growing up, or already growing down again -- there are not, I say, many people who would care to sleep in a church. I don't mean at sermon-time in warm weather (when the thing has actually been done, once or twice), but in the night, and alone. A great multitude of persons will be violently astonished, I know, by this position, in the broad bold Day. But it applies to Night. It must be argued by night. And I will undertake to maintain it successfully on any gusty winter's night appointed for the purpose, with any one opponent chosen from the rest, who will meet me singly in an old church-yard, before an old church-door; and will previously empower me to lock him in, if needful to his satisfaction, until morning.

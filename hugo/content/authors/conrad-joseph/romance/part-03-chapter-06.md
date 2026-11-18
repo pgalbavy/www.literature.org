@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 6"
 weight: 18
-aliases:
-  - "/authors/conrad-joseph/romance/part-03-chapter-06.html"
+url: "/authors/conrad-joseph/romance/part-03-chapter-06.html"
 ---
 
 I remember walking about the room, and thinking to myself, "This is bad, this is very bad; what shall I do now?" A sort of mad meditation that in this meaningless way became so tense as positively to frighten me. Then it occurred to me that I could do nothing whatever at present, and I was soothed by this sense of powerless-ness, which, one would think, ought to have driven me to distraction. I went to sleep ultimately, just as a man sentenced to death goes to sleep, lulled in a sort of ghastly way by the finality of his doom. Even when I awoke it kept me steady, in a way. I washed, dressed, walked, ate, said "Good-morning, Cesar," to the old major-domo I met in the gallery; exchanged grins with the negro boys under the gateway, and watched the mules being ridden out barebacked by other nearly naked negro boys into the sea, with great splashing of water and a noise of voices. A small knot of men, unmistakably *_Lugareños_*, stood on the beach, also, watching the mules, and exchanging loud jocular shouts with the blacks. Rio Medio, the dead, forsaken, and desecrated city, was lying, as bare as a skeleton, on the sands. They were yellow; the bay was very blue, the wooded hills very green.

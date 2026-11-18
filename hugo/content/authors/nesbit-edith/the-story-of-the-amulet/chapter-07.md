@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - \u0026quot;The Deepest Dungeon Below The Castle Moat\u0026quot;"
 weight: 7
-aliases:
-  - "/authors/nesbit-edith/the-story-of-the-amulet/chapter-07.html"
+url: "/authors/nesbit-edith/the-story-of-the-amulet/chapter-07.html"
 ---
 
 The Queen threw three of the red and gold embroidered cushions off the throne on to the marble steps that led up to it.

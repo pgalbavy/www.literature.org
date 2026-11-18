@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Wolf Ravine"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-10.html"
 ---
 
 *DURING THE* absence of Baldy Bicknell in search of the steam man, neither Mickey nor Ethan had been disturbed by Indians.

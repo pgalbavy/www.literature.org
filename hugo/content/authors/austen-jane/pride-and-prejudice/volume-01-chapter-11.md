@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 11"
 weight: 11
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-11.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-11.html"
 ---
 
 When the ladies removed after dinner, Elizabeth ran up to her sister, and seeing her well guarded from cold, attended her into the drawing-room; where she was welcomed by her two friends with many professions of pleasure; and Elizabeth had never seen them so agreeable as they were during the hour which passed before the gentlemen appeared. Their powers of conversation were considerable. They could describe an entertainment with accuracy, relate an anecdote with humour, and laugh at their acquaintance with spirit.

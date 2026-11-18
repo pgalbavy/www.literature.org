@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Alone Again"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-25.html"
 ---
 
 The mustang, trained as he was to this sort of hunting, steadily drew up again to the buffalo, which was plunging forward with unabated speed, while Ned held his rifle ready to fire whenever the critical moment should come. He concluded that the proper place at which to aim was the head, and, drawing his gun to his shoulder, he did not hesitate, although he knew the aim was anything but a good one. It struck the bison beyond all question, but did no more than irritate him; for, without any other warning than a sudden lowering of the head, he wheeled, and turned directly upon the horse, with the evident purpose of disemboweling him.

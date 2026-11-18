@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Bon Chien"
 weight: 18
-aliases:
-  - "/authors/chambers-robert-w/the-danger-mark/chapter-18.html"
+url: "/authors/chambers-robert-w/the-danger-mark/chapter-18.html"
 ---
 
 The chronology of that last dark and bitter week in November might have been written "necrology."

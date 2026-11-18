@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Wunpost Takes Them All On"
 weight: 15
-aliases:
-  - "/authors/coolidge-dane/wunpost/chapter-15.html"
+url: "/authors/coolidge-dane/wunpost/chapter-15.html"
 ---
 
 The morning found Wunpost at Salt Creek Crossing, where the bones of a hundred emigrants lie buried in the sand without even a cross to mark their resting place. It was a place well calculated to bring up thoughts of death, but Wunpost faced the coming day calmly. At the first flush of dawn the sand was still hot from the sun of the evening before; the low air seemed to suffocate him with its below-sea-level pressure, and the salt marshes to give off stinking gases; it was a hell-hole, even then, and the day was yet to come, when the Valley would make life a torment.

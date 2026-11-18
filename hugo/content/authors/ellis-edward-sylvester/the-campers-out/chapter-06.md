@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Sowing Seed"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-06.html"
 ---
 
 Two men remained standing on the floor below, and the one who climbed the hay-mow was Hungerford, Chief of Police of Ashton. He had struck the trail of the runaways in Jersey City, and when he learned of three boys that had left the train at New Brunswick, he was certain they were the young rogues whom he was looking for.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 22
-aliases:
-  - "/authors/baum-l-frank/glinda-of-oz/chapter-21.html"
+url: "/authors/baum-l-frank/glinda-of-oz/chapter-21.html"
 ---
 
 The Sorceress looked up from her work as the three maidens entered, and something in their appearance and manner led her to rise and bow to them in her most dignified manner. The three knelt an instant before the great Sorceress and then stood upright and waited for her to speak.

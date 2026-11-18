@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Casket"
 weight: 12
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-12.html"
+url: "/authors/bronte-charlotte/villette/chapter-12.html"
 ---
 
 Behind the house at the Rue Fossette there was a garden - large, considering that it lay in the heart of a city, and to my recollection at this day it seems pleasant: but time, like distance, lends to certain scenes an influence so softening; and where all is stone around, blank wall and hot pavement, how precious seems one shrub, how lovely an enclosed and planted spot of ground!

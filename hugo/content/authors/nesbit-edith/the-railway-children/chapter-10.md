@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Terrible Secret"
 weight: 10
-aliases:
-  - "/authors/nesbit-edith/the-railway-children/chapter-10.html"
+url: "/authors/nesbit-edith/the-railway-children/chapter-10.html"
 ---
 
 When they first went to live at Three Chimneys, the children had talked a great deal about their Father, and had asked a great many questions about him, and what he was doing and where he was and when he would come home. Mother always answered their questions as well as she could. But as the time went on they grew to speak less of him. Bobbie had felt almost from the first that for some strange miserable reason these questions hurt Mother and made her sad. And little by little the others came to have this feeling, too, though they could not have put it into words.

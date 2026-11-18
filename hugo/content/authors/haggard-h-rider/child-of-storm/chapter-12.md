@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Panda’s Prayer"
 weight: 13
-aliases:
-  - "/authors/haggard-h-rider/child-of-storm/chapter-12.html"
+url: "/authors/haggard-h-rider/child-of-storm/chapter-12.html"
 ---
 
 About six weeks later, in the month of November, 1856, I chanced to be at Nodwengu when the quarrel between the princes came to a head. Although none of the regiments was actually allowed to enter the town--that is, as a regiment--the place was full of people, all of them in a state of great excitement, who came in during the daytime and went to sleep in the neighbouring military kraals at night. One evening, as some of these soldiers--about a thousand of them, if I remember right--were returning to the Ukubaza kraal, a fight occurred between them, which led to the final outbreak.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Jess Goes To Pretoria"
 weight: 8
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-08.html"
+url: "/authors/haggard-h-rider/jess/chapter-08.html"
 ---
 
 That day, at dinner, Jess suddenly announced that she was going on the morrow to Pretoria to see Jane Neville.

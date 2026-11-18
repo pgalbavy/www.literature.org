@@ -1,8 +1,7 @@
 ---
 title: "Book 12 - Chapter 5"
 weight: 268
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-12-chapter-05.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-12-chapter-05.html"
 ---
 
 Nicholas sat leaning slightly forward in an armchair, bending closely over the blonde lady and paying her mythological compliments with a smile that never left his face. Jauntily shifting the position of his legs in their tight riding breeches, diffusing an odor of perfume, and admiring his partner, himself, and the fine outlines of his legs in their well-fitting Hessian boots, Nicholas told the blonde lady that he wished to run away with a certain lady here in Voronezh.

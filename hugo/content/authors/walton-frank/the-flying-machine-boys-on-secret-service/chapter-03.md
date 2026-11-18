@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Jimmie’s Daring Feat"
 weight: 3
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-03.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-03.html"
 ---
 
 In ten minutes all doubts as to the identity of the aviator were dissipated by a signal from the sky which the boys all understood. Besides informing the boys of his presence, the signal also conveyed the intelligence that he was in need of assistance.

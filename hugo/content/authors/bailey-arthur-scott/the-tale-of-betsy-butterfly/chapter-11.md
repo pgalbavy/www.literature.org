@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Sly One"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-11.html"
 ---
 
 WHEN Freddie Firefly reported to Mrs. Ladybug and her neighbors that Betsy Butterfly had taken neither butter nor eggs from Farmer Green during the night the field people were much puzzled.

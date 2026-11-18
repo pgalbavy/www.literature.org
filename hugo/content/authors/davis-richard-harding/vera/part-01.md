@@ -1,8 +1,7 @@
 ---
 title: "Part 1"
 weight: 1
-aliases:
-  - "/authors/davis-richard-harding/vera/part-01.html"
+url: "/authors/davis-richard-harding/vera/part-01.html"
 ---
 
 Happy in the hope that the news was “exclusive”, the Despatch had thrown the name of Stephen Hallowell, his portrait, a picture of his house, and the words, “At Point of Death!” across three columns. The announcement was heavy, lachrymose, bristling with the melancholy self-importance of the man who “saw the deceased, just two minutes before the train hit him.”

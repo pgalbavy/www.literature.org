@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Day Of Her Life"
 weight: 5
-aliases:
-  - "/authors/barrie-james-matthew/margaret-ogilvy/chapter-05.html"
+url: "/authors/barrie-james-matthew/margaret-ogilvy/chapter-05.html"
 ---
 
 I should like to call back a day of her life as it was at this time, when her spirit was as bright as ever and her hand as eager, but she was no longer able to do much work. It should not be difficult, for she repeated herself from day to day and yet did it with a quaint unreasonableness that was ever yielding fresh delight. Our love for her was such that we could easily tell what she would do in given circumstances, but she had always a new way of doing it.

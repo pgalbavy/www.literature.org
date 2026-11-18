@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 7"
 weight: 196
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-07.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-07.html"
 ---
 
 Levin reached the club just at the right time. Members and visitors were driving up as he arrived. Levin had not been at the club for a very long while--not since he lived in Moscow, when he was leaving the university and going into society. He remembered the club, the external details of its arrangement, but he had completely forgotten the impression it had made on him in old days. But as soon as, driving into the wide semicircular court and getting out of the sledge, he mounted the steps, and the hall-porter, adorned with a crossway scarf, noiselessly opened the door to him with a bow; as soon as he saw in the porter's room the cloaks and galoshes of members who thought it less trouble to take them off downstairs; as soon as he heard the mysterious ringing bell that preceded him as he ascended the easy, carpeted staircase, and saw the statue on the landing, and the third porter at the top doors, a familiar figure grown older, in the club livery, opening the door without haste or delay, and scanning the visitors as they passed in--Levin felt the old impression of the club come back in a rush, an impression of repose, comfort, and propriety.

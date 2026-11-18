@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Strange Quarters"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-19.html"
 ---
 
 THE PEDDLER that took Miss Kitty Cat away in his cart drove long into the night. Inside the basket into which her captor had popped her, Miss Kitty kept her wits at work. She knew that there were many twists and turns as they creaked up the hills and rattled down the other side of them. Then there were level stretches where the peddler held his horse to a swinging gait that fast put long miles between them and Farmer Green's place in Pleasant Valley.

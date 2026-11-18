@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Squinty Gets Home"
 weight: 4
-aliases:
-  - "/authors/barnum-richard/squinty-the-comical-pig/chapter-04.html"
+url: "/authors/barnum-richard/squinty-the-comical-pig/chapter-04.html"
 ---
 
 The rows of corn, in the field where Squinty the comical pig was lost, were like the streets of a city. They were very straight and even, just like the street where your house is, and, if you liked, you could pretend that each hill of corn was a house.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Departing Guest"
 weight: 20
-aliases:
-  - "/authors/tarkington-booth/penrod-and-sam/chapter-20.html"
+url: "/authors/tarkington-booth/penrod-and-sam/chapter-20.html"
 ---
 
 By the time Penrod returned from chasing Duke to the next corner, Verman had the long, black snake down from the rafter where its active head had taken refuge, with the rest of it dangling; and both boys agreed that Mrs. Williams's cat must certainly be able to "see *SOME,* anyway", through the meshes of the stocking.

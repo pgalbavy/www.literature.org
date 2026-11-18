@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-29.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-29.html"
 ---
 
 It will be admitted that the little party of fugitives whose fortunes we are following displayed great skill in escaping the Tories and Indians, who, on that "day of desolation," wrought such ruin in the Wyoming Valley.

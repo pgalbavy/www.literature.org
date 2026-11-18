@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 3"
 weight: 56
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-05-chapter-03.html"
+url: "/authors/cather-willa/one-of-ours/book-05-chapter-03.html"
 ---
 
 The next morning when Claude arrived at the hospital to see Fanning, he found every one too busy to take account of him. The courtyard was full of ambulances, and a long line of camions waited outside the gate. A train-load of wounded Americans had come in, sent back from evacuation hospitals to await transportation home.

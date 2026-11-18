@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - How The Comrades Came Over The Marches Of Franc"
 weight: 28
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-28.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-28.html"
 ---
 
 AFTER passing Cahors, the party branched away from the main road, and leaving the river to the north of them, followed a smaller track which wound over a vast and desolate plain. This path led them amid marshes and woods, until it brought them out into a glade with a broad stream swirling swiftly down the centre of it. Through this the horses splashed their way, and on the farther shore Sir Nigel announced to them that they were now within the borders of the land of France. For some miles they still followed the same lonely track, which led them through a dense wood, and then widening out, curved down to an open rolling country, such as they had traversed between Aiguillon and Cahors.

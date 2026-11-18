@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - Terry Finishes His Ride"
 weight: 30
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-30.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-30.html"
 ---
 
 That ride of Terry Clark on the back of the buffalo bull was one which he could never forget had he wished to do so, which of course he did not. The first thrill, when the beast dashed off on a dead run, and the wind began blowing by the ears of the lad, was that of pleasure. He was having an exciting ride, and, as good fortune would have it, the animal was bearing him straight along the trail toward the camp in the Ozarks.

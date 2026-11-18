@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 3 - The Conspiracy"
 weight: 3
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-03.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-03.html"
 ---
 
 NO SHORE leave was granted the crew of the Halfmoon while the vessel lay off Honolulu, and deep and ominous were the grumblings of the men. Only First Officer Ward and the second mate went ashore. Skipper Simms kept the men busy painting and holystoning as a vent for their pent emotions.

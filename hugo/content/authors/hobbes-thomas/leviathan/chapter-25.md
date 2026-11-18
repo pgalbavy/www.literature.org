@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Of Counsell"
 weight: 27
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-25.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-25.html"
 ---
 
 Counsell What How fallacious it is to judge of the nature of things, by the ordinary and inconstant use of words, appeareth in nothing more, than in the confusion of Counsels, and Commands, arising from the Imperative manner of speaking in them both, and in may other occasions besides. For the words "Doe this," are the words not onely of him that Commandeth; but also of him that giveth Counsell; and of him that Exhorteth; and yet there are but few, that see not, that these are very different things; or that cannot distinguish between them, when they perceive who it is that speaketh, and to whom the Speech is directed, and upon what occasion. But finding those phrases in mens writings, and being not able, or not willing to enter into a consideration of the circumstances, they mistake sometimes the Precepts of Counsellours, for the Precepts of them that command; and sometimes the contrary; according as it best agreeth with the conclusions they would inferre, or the actions they approve. To avoyd which mistakes, and render to those termes of Commanding, Counselling, and Exhorting, their proper and distinct significations, I define them thus.

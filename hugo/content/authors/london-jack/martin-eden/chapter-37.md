@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37"
 weight: 37
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-37.html"
+url: "/authors/london-jack/martin-eden/chapter-37.html"
 ---
 
 The first thing Martin did next morning was to go counter both to Brissenden's advice and command. "The Shame of the Sun" he wrapped and mailed to THE ACROPOLIS. He believed he could find magazine publication for it, and he felt that recognition by the magazines would commend him to the book-publishing houses. "Ephemera" he likewise wrapped and mailed to a magazine. Despite Brissenden's prejudice against the magazines, which was a pronounced mania with him, Martin decided that the great poem should see print. He did not intend, however, to publish it without the other's permission. His plan was to get it accepted by one of the high magazines, and, thus armed, again to wrestle with Brissenden for consent.

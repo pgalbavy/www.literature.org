@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Local Color"
 weight: 3
-aliases:
-  - "/authors/london-jack/moon-face/chapter-03.html"
+url: "/authors/london-jack/moon-face/chapter-03.html"
 ---
 
 "I DO not see why you should not turn this immense amount of unusual information to account," I told him. "Unlike most men equipped with similar knowledge, YOU have expression. Your style is--"

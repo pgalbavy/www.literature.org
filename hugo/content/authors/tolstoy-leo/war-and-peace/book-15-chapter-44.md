@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 44"
 weight: 361
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-44.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-44.html"
 ---
 
 If history dealt only with external phenomena, the establishment of this simple and obvious law would suffice and we should have finished our argument. But the law of history relates to man. A particle of matter cannot tell us that it does not feel the law of attraction or repulsion and that that law is untrue, but man, who is the subject of history, says plainly: I am free and am therefore not subject to the law.

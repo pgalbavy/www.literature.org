@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Of The  Naturall Condition Of Mankind, As Concerning Their Felicity, And Misery"
 weight: 15
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-13.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-13.html"
 ---
 
 Nature hath made men so equall, in the faculties of body, and mind; as that though there bee found one man sometimes manifestly stronger in body, or of quicker mind then another; yet when all is reckoned together, the difference between man, and man, is not so considerable, as that one man can thereupon claim to himselfe any benefit, to which another may not pretend, as well as he. For as to the strength of body, the weakest has strength enough to kill the strongest, either by secret machination, or by confederacy with others, that are in the same danger with himselfe.

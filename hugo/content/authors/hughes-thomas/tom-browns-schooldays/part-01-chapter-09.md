@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 9 - A Chapter Of Accidents"
 weight: 9
-aliases:
-  - "/authors/hughes-thomas/tom-browns-schooldays/part-01-chapter-09.html"
+url: "/authors/hughes-thomas/tom-browns-schooldays/part-01-chapter-09.html"
 ---
 
 "Wherein I [speak] of most disastrous chances,  

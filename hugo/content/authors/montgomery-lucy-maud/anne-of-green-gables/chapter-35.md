@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - The Winter at Queen's"
 weight: 35
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-35.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-35.html"
 ---
 
 Anne's homesickness wore off, greatly helped in the wearing by her weekend visits home. As long as the open weather lasted the Avonlea students went out to Carmody on the new branch railway every Friday night. Diana and several other Avonlea young folks were generally on hand to meet them and they all walked over to Avonlea in a merry party. Anne thought those Friday evening gypsyings over the autumnal hills in the crisp golden air, with the homelights of Avonlea twinkling beyond, were the best and dearest hours in the whole week.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-09.html"
+url: "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-09.html"
 ---
 
 It was an unhappy Korak who wandered aimlessly through the jungle the day following his inhospitable reception by the great apes. His heart was heavy from disappointment. Unsatisfied vengeance smoldered in his breast. He looked with hatred upon the denizens of his jungle world, bearing his fighting fangs and growling at those that came within radius of his senses. The mark of his father's early life was strong upon him and enhanced by months of association with beasts, from whom the imitative faculty of youth had absorbed a countless number of little mannerisms of the predatory creatures of the wild.

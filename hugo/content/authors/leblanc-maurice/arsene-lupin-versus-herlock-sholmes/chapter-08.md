@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Shipwreck"
 weight: 8
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin-versus-herlock-sholmes/chapter-08.html"
+url: "/authors/leblanc-maurice/arsene-lupin-versus-herlock-sholmes/chapter-08.html"
 ---
 
 "That's what I don't like, Wilson," said Herlock Sholmes, after he had read Arsène Lupin's message; "that is what exasperates me in this affair--to feel that the cunning, mocking eye of that fellow follows me everywhere. He sees everything; he knows everything; he reads my inmost thoughts; he even foresees my slightest movement. Ah! he is possessed of a marvellous intuition, far surpassing that of the most instinctive woman, yes, surpassing even that of Herlock Sholmes himself. Nothing escapes him. I resemble an actor whose every step and movement are directed by a stage-manager; who says this and does that in obedience to a superior will. That is my position. Do you understand, Wilson?"

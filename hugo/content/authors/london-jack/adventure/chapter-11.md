@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Port Adams Crowd"
 weight: 11
-aliases:
-  - "/authors/london-jack/adventure/chapter-11.html"
+url: "/authors/london-jack/adventure/chapter-11.html"
 ---
 
 "And so it was all settled easily enough," Sheldon was saying. He was on the veranda, drinking coffee. The whale-boat was being carried into its shed. "Boucher was a bit timid at first to carry off the situation with a strong hand, but he did very well once we got started. We made a play at holding a court, and Telepasse, the old scoundrel, accepted the findings. He's a Port Adams chief, a filthy beggar. We fined him ten times the value of the pigs, and made him move on with his mob. Oh, they're a sweet lot, I must say, at least sixty of them, in five big canoes, and out for trouble. They've got a dozen Sniders that ought to be confiscated."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Second Battle Of The Cruives"
 weight: 15
-aliases:
-  - "/authors/buchan-john/huntingtower/chapter-14.html"
+url: "/authors/buchan-john/huntingtower/chapter-14.html"
 ---
 
 The military historian must often make shift to write of battles with slender data, but he can pad out his deficiencies by learned parallels. If his were the talented pen describing this, the latest action fought on British soil against a foreign foe, he would no doubt be crippled by the absence of written orders and war diaries. But how eloquently he would discant on the resemblance between Dougal and Gouraud—how the plan of leaving the enemy to waste his strength upon a deserted position was that which on the 15th of July, 1918, the French general had used with decisive effect in Champagne! But Dougal had never heard of Gouraud, and I cannot claim that, like the Happy Warrior, he

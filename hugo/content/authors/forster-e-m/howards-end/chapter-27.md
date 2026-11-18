@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-27.html"
+url: "/authors/forster-e-m/howards-end/chapter-27.html"
 ---
 
 Helen began to wonder why she had spent a matter of eight pounds in making some people ill and others angry. Now that the wave of excitement was ebbing, and had left her, Mr. Bast, and Mrs. Bast stranded for the night in a Shropshire hotel, she asked herself what forces had made the wave flow. At all events, no harm was done. Margaret would play the game properly now, and though Helen disapproved of her sister’s methods, she knew that the Basts would benefit by them in the long-run.

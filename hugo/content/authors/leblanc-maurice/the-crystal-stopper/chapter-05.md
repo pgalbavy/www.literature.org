@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Twenty-Seven"
 weight: 5
-aliases:
-  - "/authors/leblanc-maurice/the-crystal-stopper/chapter-05.html"
+url: "/authors/leblanc-maurice/the-crystal-stopper/chapter-05.html"
 ---
 
 The child was sleeping peacefully on the bed. The mother did not move from the sofa on which Lupin had laid her; but her easier breathing and the blood which was now returning to her face announced her impending recovery from her swoon.

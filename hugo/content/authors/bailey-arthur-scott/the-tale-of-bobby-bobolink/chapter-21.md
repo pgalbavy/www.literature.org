@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - How To Take Bad News"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-21.html"
 ---
 
 FOR once Bobby Bobolink's heart seemed to come right up into his mouth. Usually he never let anything dash his high spirits. If matters didn't go exactly as they should with him he would laugh and say that probably they would be different to-morrow. And more likely than not he would burst into the jolliest song he knew. Singing like that always helped him amazingly, when a good many people would have moped and looked glum. But now the gloomy warning of Jolly Robin's mournful cousin, the Hermit Thrush, threw a sudden dread into him.

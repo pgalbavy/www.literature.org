@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 6"
 weight: 75
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-03-chapter-06.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-03-chapter-06.html"
 ---
 
 Mashkin Upland was mown, the last row finished, the peasants had put on their coats and were gaily trudging home. Levin got on his horse and, parting regretfully from the peasants, rode homewards. On the hillside he looked back; he could not see them in the mist that had risen from the valley; he could only hear rough, good-humored voices, laughter, and the sound of clanking scythes.

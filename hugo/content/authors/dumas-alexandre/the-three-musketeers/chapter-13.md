@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Monsieur Bonacieux"
 weight: 14
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-13.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-13.html"
 ---
 
 There was in all this, as may have been observed, one personage concerned, of whom, notwithstanding his precarious position, we have appeared to take but very little notice. This personage was M. Bonacieux, the respectable martyr of the political and amorous intrigues which entangled themselves so nicely together at this gallant and chivalric period.

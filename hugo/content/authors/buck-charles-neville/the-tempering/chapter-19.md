@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-19.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-19.html"
 ---
 
 General Basil Prince sat in his law office one murky December morning of the year 1903. It was an office which bespoke the attorney of the older generation, and about it hung the air of an unadorned workship. If one compared it with the room in the same building where young Morgan Wallifarro worked at a flat-topped mahogany table, one found the difference between Spartan simplicity and sybarite elegance. But over one book case hung an ancient and battered cavalry sword, a relic of the days when the General had ridden with the "wizards of the saddle and the sabre."

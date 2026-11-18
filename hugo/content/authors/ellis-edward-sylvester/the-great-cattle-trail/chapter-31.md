@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Flag Of Truce"
 weight: 31
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-31.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-31.html"
 ---
 
 There was nothing to cause apprehension on the part of the cowboys in camp, when they heard the report of a single rifle from beyond the ridge over which Captain Shirril, Avon Burnet, and the young Comanche Shackaye had ridden in pursuit of the cattle that went astray the night before. One of the party might have found a chance to bring down something in the nature of game, which is liable to be encountered at every part of the Great Cattle Trail, from the outskirts of the capital of Texas to its termination in the State of Kansas.

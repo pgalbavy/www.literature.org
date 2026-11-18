@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/stoker-bram/dracula/chapter-05.html"
+url: "/authors/stoker-bram/dracula/chapter-05.html"
 ---
 
 LETTER FROM MISS MINA MURRAY TO MISS LUCY WESTENRA

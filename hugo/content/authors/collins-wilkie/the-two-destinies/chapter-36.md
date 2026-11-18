@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - Love And Pride"
 weight: 37
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-36.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-36.html"
 ---
 
 A CRY of terror from the room told me that I had been heard. For a moment more nothing happened. Then the child's voice reached me, wild and shrill: "Open the shutters, mamma! I said he was coming--I want to see him!"

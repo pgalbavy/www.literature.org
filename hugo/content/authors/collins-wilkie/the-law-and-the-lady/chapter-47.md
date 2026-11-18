@@ -1,8 +1,7 @@
 ---
 title: "Chapter 47 - The Wife's Confession"
 weight: 47
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-47.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-47.html"
 ---
 
 "GLENINCH, October 19, 18--.

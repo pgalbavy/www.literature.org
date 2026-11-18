@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Umbelazi The Fallen"
 weight: 14
-aliases:
-  - "/authors/haggard-h-rider/child-of-storm/chapter-13.html"
+url: "/authors/haggard-h-rider/child-of-storm/chapter-13.html"
 ---
 
 So I stayed on at Nodwengu, who, indeed, had no choice in the matter, and was very wretched and ill at ease. The place was almost deserted, except for a couple of regiments which were quartered there, the Sangqu and the Amawombe. This latter was the royal regiment, a kind of Household Guards, to which the Kings Chaka, Dingaan and Panda all belonged in turn. Most of the headmen had taken one side or the other, and were away raising forces to fight for Cetewayo or Umbelazi, and even the greater part of the women and children had gone to hide themselves in the bush or among the mountains, since none knew what would happen, or if the conquering army would not fall upon and destroy them.

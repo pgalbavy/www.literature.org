@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/davis-richard-harding/soldiers-of-fortune/chapter-03.html"
+url: "/authors/davis-richard-harding/soldiers-of-fortune/chapter-03.html"
 ---
 
 The Langhams were to arrive on Friday, and during the week before that day Clay went about with a long slip of paper in his pocket which he would consult earnestly in corners, and upon which he would note down the things that they had left undone. At night he would sit staring at it and turning it over in much concern, and would beg Langham to tell him what he could have meant when he wrote "see Weimer," or "clean brasses," or "S. Q. M." "Why should I see Weimer," he would exclaim, "and which brasses, and what does S. Q. M. stand for, for heaven's sake?"

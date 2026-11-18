@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Inexplicable Gallery"
 weight: 17
-aliases:
-  - "/authors/leroux-gaston/the-yellow-room/chapter-17.html"
+url: "/authors/leroux-gaston/the-yellow-room/chapter-17.html"
 ---
 
 "Mademoiselle Stangerson appeared at the door of her ante-room," continues Rouletabille’s note-book. "We were near her door in the gallery where this incredible phenomenon had taken place. There are moments when one feels as if one’s brain were about to burst. A bullet in the head, a fracture of the skull, the seat of reason shattered—with only these can I compare the sensation which exhausted and left me void of sense.

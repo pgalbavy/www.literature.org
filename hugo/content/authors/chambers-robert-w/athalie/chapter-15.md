@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-15.html"
+url: "/authors/chambers-robert-w/athalie/chapter-15.html"
 ---
 
 To her sisters Athalie wrote:

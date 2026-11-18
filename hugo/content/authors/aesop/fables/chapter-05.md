@@ -1,8 +1,7 @@
 ---
 title: "The Charcoal-Burner And The Fuller"
 weight: 7
-aliases:
-  - "/authors/aesop/fables/chapter-05.html"
+url: "/authors/aesop/fables/chapter-05.html"
 ---
 
 A CHARCOAL-BURNER carried on his trade in his own house. One day he met a friend, a Fuller, and entreated him to come and live with him, saying that they should be far better neighbors and that their housekeeping expenses would be lessened. The Fuller replied, "The arrangement is impossible as far as I am concerned, for whatever I should whiten, you would immediately blacken again with your charcoal." Like will draw like.

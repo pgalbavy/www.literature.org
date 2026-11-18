@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/london-jack/the-jacket-star-rover/chapter-13.html"
+url: "/authors/london-jack/the-jacket-star-rover/chapter-13.html"
 ---
 
 Long before daylight the camp at Nephi was astir. The cattle were driven out to water and pasture. While the men unchained the wheels and drew the wagons apart and clear for yoking in, the women cooked forty breakfasts over forty fires. The children, in the chill of dawn, clustered about the fires, sharing places, here and there, with the last relief of the night-watch waiting sleepily for coffee.

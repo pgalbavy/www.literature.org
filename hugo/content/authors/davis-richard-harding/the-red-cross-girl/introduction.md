@@ -1,8 +1,7 @@
 ---
 title: "Introduction"
 weight: 1
-aliases:
-  - "/authors/davis-richard-harding/the-red-cross-girl/introduction.html"
+url: "/authors/davis-richard-harding/the-red-cross-girl/introduction.html"
 ---
 
 He was almost too good to be true. In addition, the gods loved him, and so he had to die young. Some people think that a man of fifty-two is middle-aged. But if R. H. D. had lived to be a hundred, he would never have grown old. It is not generally known that the name of his other brother was Peter Pan.

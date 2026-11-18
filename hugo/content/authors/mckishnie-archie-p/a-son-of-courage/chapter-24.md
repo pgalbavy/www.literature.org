@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Billy To The Rescue"
 weight: 24
-aliases:
-  - "/authors/mckishnie-archie-p/a-son-of-courage/chapter-24.html"
+url: "/authors/mckishnie-archie-p/a-son-of-courage/chapter-24.html"
 ---
 
 Nature had crooked a wooded arm about Rond Eau Bay so that her tranquillity seldom was disturbed by the fall gales which piled the waters of Lake Erie high and made her a veritable death-trap for late-sailing ships. To the thunder of heavy waves upon the pine-clad beach the little bay slept sweetly, while half a league beyond the bar a tempest-torn, dismasted schooner might be battered to pieces, or a heavy freighter, her back broken by the twisting seas, might sink to final rest. But there were times when Rond Eau awoke from her dreaming to gnash her white teeth and throw her hissing challenge to man to dare ride her banked-up seas in open boat. At such times only the foolish or venturesome listened. When the gale swept in from the East it transformed the upper waters into a seething cauldron, while, plunging in the nine-mile sweep from the West, it swept water at the foot, frothing and turbulent, across the rushlands.

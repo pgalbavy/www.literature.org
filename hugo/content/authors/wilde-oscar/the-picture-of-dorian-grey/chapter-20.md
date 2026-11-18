@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-20.html"
+url: "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-20.html"
 ---
 
 It was a lovely night, so warm that he threw his coat over his arm and did not even put his silk scarf round his throat. As he strolled home, smoking his cigarette, two young men in evening dress passed him. He heard one of them whisper to the other, "That is Dorian Gray." He remembered how pleased he used to be when he was pointed out, or stared at, or talked about. He was tired of hearing his own name now. Half the charm of the little village where he had been so often lately was that no one knew who he was. He had often told the girl whom he had lured to love him that he was poor, and she had believed him. He had told her once that he was wicked, and she had laughed at him and answered that wicked people were always very old and very ugly. What a laugh she had!--just like a thrush singing. And how pretty she had been in her cotton dresses and her large hats! She knew nothing, but she had everything that he had lost.

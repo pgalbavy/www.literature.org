@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/lawrence-david-herbert/the-virgin-and-the-gypsy/chapter-10.html"
+url: "/authors/lawrence-david-herbert/the-virgin-and-the-gypsy/chapter-10.html"
 ---
 
 The sun was shining in heaven before men were able to get across the Papple with ladders. The bridge was gone. But the flood had abated, and the house, that leaned forwards as if it were making a stiff bow to the stream, stood now in mud and wreckage, with a great heap of fallen masonry and debris at the south-west corner. Awful were the gaping mouths of rooms!

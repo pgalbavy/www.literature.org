@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Variation Under Domestication"
 weight: 3
-aliases:
-  - "/authors/darwin-charles/the-origin-of-species/chapter-01.html"
+url: "/authors/darwin-charles/the-origin-of-species/chapter-01.html"
 ---
 
 arrow_rightCauses of Variability arrow_rightEffects of Habit arrow_rightCorrelation of Growth arrow_rightInheritance arrow_rightCharacter of Domestic Varieties arrow_rightDifficulty of distinguishing between Varieties and Species arrow_rightOrigin of Domestic Varieties from one or more Species arrow_rightDomestic pigeons, their Differences and Origin arrow_rightPrinciple of Selection anciently followed, its Effects arrow_rightMethodical and Unconscious Selection arrow_rightUnknown Origin of our Domestic Productions arrow_rightCircumstances favourable to Man's power of Selection ---

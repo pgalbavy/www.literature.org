@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - An Aboriginal Sermon"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-22.html"
 ---
 
 If Hay-uta the Sauk had been astonished by the action of his youthful conqueror, he was now more astonished by his words; but the former in a measure prepared him for the latter, and he saw why it was the remarkable warrior had refused to take his life when the opportunity had been his, and when too he knew that he whom he was fighting would show him no mercy.

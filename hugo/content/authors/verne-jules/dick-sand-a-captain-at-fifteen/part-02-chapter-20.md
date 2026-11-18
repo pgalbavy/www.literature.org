@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 20 - Conclusion"
 weight: 38
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-20.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-20.html"
 ---
 
 Two days after, the 20th of July, Mrs. Weldon and her companions met a caravan going toward Emboma, at the mouth of the Congo. These were not slave merchants, but honest Portuguese traders, who dealt in ivory. They made the fugitives welcome, and the latter part of the journey was accomplished under more agreeable conditions.

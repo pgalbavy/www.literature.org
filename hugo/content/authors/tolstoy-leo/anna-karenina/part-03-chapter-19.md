@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 19"
 weight: 88
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-03-chapter-19.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-03-chapter-19.html"
 ---
 
 In spite of Vronsky's apparently frivolous life in society,he was a man who hated irregularity. In early youth in the Corps of Pages, he had experienced the humiliation of a refusal, when he had tried, being in difficulties, to borrow money, and since then he had never once put himself in the same position again.

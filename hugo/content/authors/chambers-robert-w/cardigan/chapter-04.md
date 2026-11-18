@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/chambers-robert-w/cardigan/chapter-04.html"
+url: "/authors/chambers-robert-w/cardigan/chapter-04.html"
 ---
 
 I now for the first time obtained a distinct view of the stranger as he stepped forward, throwing the blanket from him, and stood revealed, stark naked save for clout and pouch, truly a superb figure, and perfect, in the Greek sense, barring that racial leanness below knee and calf, and the sinewy feet planted parallel instead of diverging, as in our race.

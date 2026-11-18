@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 13"
 weight: 26
-aliases:
-  - "/authors/london-jack/burning-daylight/part-02-chapter-13.html"
+url: "/authors/london-jack/burning-daylight/part-02-chapter-13.html"
 ---
 
 "Of course, there's no way of telling what anybody wants from what they say." Daylight rubbed Bob's rebellious ear with his quirt and pondered with dissatisfaction the words he had just uttered. They did not say what he had meant them to say. "What I'm driving at is that you say flatfooted that you won't meet me again, and you give your reasons, but how am I to know they are your real reasons? Mebbe you just don't want to get acquainted with me, and won't say so for fear of hurting my feelings. Don't you see? I'm the last man in the world to shove in where I'm not wanted. And if I thought you didn't care a whoop to see anything more of me, why, I'd clear out so blamed quick you couldn't see me for smoke."

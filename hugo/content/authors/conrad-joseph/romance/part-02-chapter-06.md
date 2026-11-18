@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 6"
 weight: 11
-aliases:
-  - "/authors/conrad-joseph/romance/part-02-chapter-06.html"
+url: "/authors/conrad-joseph/romance/part-02-chapter-06.html"
 ---
 
 There wasn't any weirdness about the ship when I woke in the sunlight. She was old and slow and rather small. She carried Lumsden (master), Mercer (mate), a crew that seemed no better and no worse than any other crew, and the old gentleman who had thrown me the rope the night before, and who seemed to think that he had derogated from his dignity in doing it. He was a Major Cowper, retiring from a West Indian regiment, and had with him his wife and a disagreeable little girl, with a yellow pigtail and a bony little chest and arms.

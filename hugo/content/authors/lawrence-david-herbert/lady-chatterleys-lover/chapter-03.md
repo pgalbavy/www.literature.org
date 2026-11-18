@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-03.html"
+url: "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-03.html"
 ---
 
 Connie was aware, however, of a growing restlessness. Out of her disconnexion, a restlessness was taking possession of her like madness. It twitched her limbs when she didn't want to twitch them, it jerked her spine when she didn't want to jerk upright but preferred to rest comfortably. It thrilled inside her body, in her womb, somewhere, till she felt she must jump into water and swim to get away from it; a mad restlessness. It made her heart beat violently for no reason. And she was getting thinner.

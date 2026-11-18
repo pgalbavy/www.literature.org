@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Doctor Moreau Explains"
 weight: 15
-aliases:
-  - "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-14.html"
+url: "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-14.html"
 ---
 
 "AND now, Prendick, I will explain," said Doctor Moreau, so soon as we had eaten and drunk. "I must confess that you are the most dictatorial guest I ever entertained. I warn you that this is the last I shall do to oblige you. The next thing you threaten to commit suicide about, I shan't do,-- even at some personal inconvenience."

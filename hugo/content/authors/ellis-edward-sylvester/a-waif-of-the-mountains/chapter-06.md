@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Teacher And Pupil"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-06.html"
 ---
 
 The group looked at Wade Ruggles in breathless amazement. He had invited them to the bar to join in celebrating his release from thralldom; all had filled their glasses and he had raised his own to his lips, though several noticed that there was only a small amount of liquid in the tumbler. Then, when every glass was upraised and there was a general gurgling, he had turned his glass upside down and spilled every drop on the floor.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Bat Wing Ranch"
 weight: 3
-aliases:
-  - "/authors/coolidge-dane/bat-wing-bowles/chapter-03.html"
+url: "/authors/coolidge-dane/bat-wing-bowles/chapter-03.html"
 ---
 
 A week passed by while Mr. Bowles prepared for his great emprise, and then one evening as the sun set behind the purple peaks of the Tortugas and lighted up the white walls of the big house on the hill a stranger might have been seen riding up toward the Bat Wing gate. In fact, he was seen, and the round-up cook, who was washing supper dishes at the rear of the chuck-wagon, delivered himself of a heartfelt curse.

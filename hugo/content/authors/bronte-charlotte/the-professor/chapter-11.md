@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/bronte-charlotte/the-professor/chapter-11.html"
+url: "/authors/bronte-charlotte/the-professor/chapter-11.html"
 ---
 
 I HAD indeed had a very long talk with the crafty little politician, and on regaining my quarters, I found that dinner was half over. To be late at meals was against a standing rule of the establishment, and had it been one of the Flemish ushers who thus entered after the removal of the soup and the commencement of the first course, M. Pelet would probably have greeted him with a public rebuke, and would certainly have mulcted him both of soup and fish; as it was, that polite though partial gentleman only shook his head, and as I took my place, unrolled my napkin, and said my heretical grace to myself, he civilly despatched a servant to the kitchen, to bring me a plate of "puree aux carottes" (for this was a maigre-day), and before sending away the first course, reserved for me a portion of the stock-fish of which it consisted. Dinner being over, the boys rushed out for their evening play; Kint and Vandam (the two ushers) of course followed them. Poor fellows! if they had not looked so very heavy, so very soulless, so very indifferent to all things in heaven above or in the earth beneath, I could have pitied them greatly for the obligation they were under to trail after those rough lads everywhere and at all times; even as it was, I felt disposed to scout myself as a privileged prig when I turned to ascend to my chamber, sure to find there, if not enjoyment, at least liberty; but this evening (as had often happened before) I was to be still farther distinguished.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37"
 weight: 37
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-37.html"
+url: "/authors/forster-e-m/howards-end/chapter-37.html"
 ---
 
 Margaret bolted the door on the inside. Then she would have kissed her sister, but Helen, in a dignified voice, that came strangely from her, said:

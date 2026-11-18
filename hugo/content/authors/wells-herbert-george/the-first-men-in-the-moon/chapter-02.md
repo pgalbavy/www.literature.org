@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The First Making Of Cavorite"
 weight: 2
-aliases:
-  - "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-02.html"
+url: "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-02.html"
 ---
 
 But Cavor's fears were groundless, so far as the actual making was concerned. On the 14th of October, 1899, this incredible substance was made!

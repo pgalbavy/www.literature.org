@@ -1,8 +1,7 @@
 ---
 title: "Chapter 62 - Downstairs"
 weight: 62
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-62.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-62.html"
 ---
 
 In a moment more, the doctor came in--a brisk, smiling, self-sufficient man--smartly dressed, with a flower in his button-hole. A stifling odor of musk filled the room, as he drew out his handkerchief with a flourish, and wiped his forehead.

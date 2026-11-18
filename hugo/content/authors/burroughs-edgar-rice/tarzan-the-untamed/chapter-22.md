@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Out Of The Niche"
 weight: 22
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-22.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-22.html"
 ---
 
 Numa, the lion, growled futilely in baffled rage as he slipped back to the ground at the foot of the wall after his unsuccessful attempt to drag down the fleeing ape- man. He poised to make a second effort to follow his escaping quarry when his nose picked up a hitherto unnoticed quality in the scent spoor of his intended prey. Sniffing at the ground that Tarzan's feet had barely touched, Numa's growl changed to a low whine, for he had recognized the scent spoor of the man-thing that had rescued him from the pit of the Wama- bos.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 45"
 weight: 45
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-45.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-45.html"
 ---
 
 Behold my lady's carriage stop the way. With powdered lacquey and with charming bay; She sweeps the matting, treads the crimson stair. Her arduous function solely "to be there." Like Sirious rising o'er the silent sea. She hides her heart in lustre loftily.

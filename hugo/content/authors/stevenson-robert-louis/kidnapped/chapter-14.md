@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Islet"
 weight: 15
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-14.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-14.html"
 ---
 
 With my stepping ashore I began the most unhappy part of my adventures. It was half-past twelve in the morning, and though the wind was broken by the land, it was a cold night. I dared not sit down (for I thought I should have frozen), but took off my shoes and walked to and fro upon the sand, bare-foot, and beating my breast with infinite weariness. There was no sound of man or cattle; not a cock crew, though it was about the hour of their first waking; only the surf broke outside in the distance, which put me in mind of my perils and those of my friend. To walk by the sea at that hour of the morning, and in a place so desert-like and lonesome, struck me with a kind of fear.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Captured By Pirates"
 weight: 22
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-21.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-21.html"
 ---
 
 When they rose the next morning Peter Gross inquired for his host, but was met with evasive replies. A premonition that something had gone wrong came upon him. He asked for Koyala.

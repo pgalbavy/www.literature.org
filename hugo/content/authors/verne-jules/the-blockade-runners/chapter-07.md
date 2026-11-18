@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Southern General"
 weight: 7
-aliases:
-  - "/authors/verne-jules/the-blockade-runners/chapter-07.html"
+url: "/authors/verne-jules/the-blockade-runners/chapter-07.html"
 ---
 
 The Dolphin, on arriving at the Charleston quay, had been saluted by the cheers of a large crowd. The inhabitants of this town, strictly blockaded by sea, were not accustomed to visits from European ships. They asked each other, not without astonishment, what this great steamer, proudly bearing the English flag, had come to do in their waters; but when they learned the object of her voyage, and why she had just forced the passage Sullivan, when the report spread that she carried a cargo of smuggled ammunition, the cheers and joyful cries were redoubled.

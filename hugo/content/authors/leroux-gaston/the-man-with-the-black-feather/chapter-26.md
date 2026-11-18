@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - M. Longuet Fishes In The Catacombs"
 weight: 27
-aliases:
-  - "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-26.html"
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-26.html"
 ---
 
 "We awoke the next morning with the appetites of youth. In the middle of our exiguous breakfast it occurred to me that we were behaving in an extremely old-fashioned way. The heroes of Romance invariably divide their bar of chocolate into a number of pieces. We, with our ham, were showing ourselves as commonplace as they. I imparted these reflections to M. Longuet, and suggested that instead of making our hundred and fifty-eight ounces of ham last for twenty days, we should eat ten ounces each a day, and be content to let them last eight.

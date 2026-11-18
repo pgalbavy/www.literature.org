@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 10"
 weight: 34
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-03-chapter-10.html"
+url: "/authors/haggard-h-rider/cleopatra/book-03-chapter-10.html"
 ---
 
 OF THE LAST WRITING OF HARMACHIS, THE ROYAL EGYPTIAN

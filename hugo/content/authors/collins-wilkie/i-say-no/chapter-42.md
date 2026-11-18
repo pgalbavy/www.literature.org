@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42 - Cooking"
 weight: 42
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-42.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-42.html"
 ---
 
 The day after the political meeting was a day of departures, at the pleasant country house.

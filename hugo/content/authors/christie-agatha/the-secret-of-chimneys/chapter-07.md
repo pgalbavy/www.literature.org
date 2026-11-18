@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Mr. Mcgrath Refuses An Invitation"
 weight: 7
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-07.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-07.html"
 ---
 
 The letters were gone!

@@ -1,8 +1,7 @@
 ---
 title: "chapter 18"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-18.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-18.html"
 ---
 
 Gudrun knew that it was a critical thing for her to go to Shortlands. She knew it was equivalent to accepting Gerald Crich as a lover. And though she hung back, disliking the condition, yet she knew she would go on. She equivocated. She said to herself, in torment recalling the blow and the kiss, 'after all, what is it? What is a kiss? What even is a blow? It is an instant, vanished at once. I can go to Shortlands just for a time, before I go away, if only to see what it is like.' For she had an insatiable curiosity to see and to know everything.

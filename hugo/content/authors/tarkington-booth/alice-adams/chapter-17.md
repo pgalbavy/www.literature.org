@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/tarkington-booth/alice-adams/chapter-17.html"
+url: "/authors/tarkington-booth/alice-adams/chapter-17.html"
 ---
 
 He was out in his taxicab again the next morning, and by noon he had secured what he wanted.

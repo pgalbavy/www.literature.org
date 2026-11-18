@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 15 - The Footsteps Die Out Forever"
 weight: 45
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-15.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-15.html"
 ---
 
 ALONG THE PARIS STREETS, the death-carts rumble, hollow and harsh. Six tumbrils carry the day's wine to La Guillotine. All the devouring and insatiate Monsters imagined since imagination could record itself, are fused in the one realisation, Guillotine. And yet there is not in France, with its rich variety of soil and climate, a blade, a leaf, a root, a sprig, a peppercorn, which will grow to maturity under conditions more certain than those that have produced this horror. Crush humanity out of shape once more, under similar hammers, and it will twist itself into the same tortured forms. Sow the same seed of rapacious license and oppression over again, and it will surely yield the same fruit according to its kind.

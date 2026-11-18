@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-03.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-03.html"
 ---
 
 WELL, I got a good going-over in the morning from old Miss Watson on account of my clothes; but the widow she didn't scold, but only cleaned off the grease and clay, and looked so sorry that I thought I would behave awhile if I could. Then Miss Watson she took me in the closet and prayed, but nothing come of it. She told me to pray every day, and whatever I asked for I would get it. But it warn't so. I tried it. Once I got a fish-line, but no hooks. It warn't any good to me without hooks. I tried for the hooks three or four times, but somehow I couldn't make it work. By and by, one day, I asked Miss Watson to try for me, but she said I was a fool. She never told me why, and I couldn't make it out no way.

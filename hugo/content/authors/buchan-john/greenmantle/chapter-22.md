@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Guns Of The North"
 weight: 23
-aliases:
-  - "/authors/buchan-john/greenmantle/chapter-22.html"
+url: "/authors/buchan-john/greenmantle/chapter-22.html"
 ---
 
 But no more shells fell.

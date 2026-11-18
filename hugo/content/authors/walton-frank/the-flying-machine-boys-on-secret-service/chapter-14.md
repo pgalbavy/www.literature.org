@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The End Of The Flight"
 weight: 14
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-14.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-14.html"
 ---
 
 When the Ann rose above the valley Carl saw the Louise some distance to the south. The strange machine was still in the lead, but the boys appeared to be gaining on her. Both were going fast.

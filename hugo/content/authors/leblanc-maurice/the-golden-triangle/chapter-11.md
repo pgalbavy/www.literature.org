@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - On The Brink"
 weight: 11
-aliases:
-  - "/authors/leblanc-maurice/the-golden-triangle/chapter-11.html"
+url: "/authors/leblanc-maurice/the-golden-triangle/chapter-11.html"
 ---
 
 Patrice at once made up his mind what to do. He lifted Coralie to her bed and asked her not to move or call out. Then he made sure that Ya-Bon was not seriously wounded. Lastly, he rang violently, sounding all the bells that communicated with the posts which he had placed in different parts of the house.

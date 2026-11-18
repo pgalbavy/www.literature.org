@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-22.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-22.html"
 ---
 
 Mr. Fentolin sat for a moment in his chair with immovable face. Then he pointed to the door, which Gerald had left open behind him.

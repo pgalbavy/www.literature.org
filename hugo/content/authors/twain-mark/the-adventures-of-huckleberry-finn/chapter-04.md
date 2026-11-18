@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-04.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-04.html"
 ---
 
 WELL, three or four months run along, and it was well into the winter now. I had been to school most all the time and could spell and read and write just a little, and could say the multiplication table up to six times seven is thirty-five, and I don't reckon I could ever get any further than that if I was to live forever. I don't take no stock in mathematics, anyway.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 29
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-28.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-28.html"
 ---
 
 Sister Sylvester Bobbet and I had been voted on es the ones best qualified to lead off in the arjeous and hazerdous enterprize.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Telegram"
 weight: 15
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-15.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-15.html"
 ---
 
 "November is the most disagreeable month in the whole year," said Margaret, standing at the window one dull afternoon, looking out at the frostbitten garden.

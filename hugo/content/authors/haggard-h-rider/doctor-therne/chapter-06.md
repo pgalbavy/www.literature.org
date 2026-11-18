@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Gate Of Darkness"
 weight: 7
-aliases:
-  - "/authors/haggard-h-rider/doctor-therne/chapter-06.html"
+url: "/authors/haggard-h-rider/doctor-therne/chapter-06.html"
 ---
 
 Taking the phial from the chest I poured an ample but not an over dose of the poison into a medicine glass, mixing it with a little water, so that it might be easier to swallow. I lingered as long as I could over these preparations, but they came to an end too soon.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - In The Toils"
 weight: 24
-aliases:
-  - "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-24.html"
+url: "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-24.html"
 ---
 
 At the office of the International Machine Company the work of the C.P.A.'s was drawing to a close. Their report would soon be ready to submit to Mr. Compton, and as the time approached Bince's nervousness and irritability increased. Edith noticed that he inquired each day with growing solicitude as to the reports from the hospital relative to Jimmy's condition. She knew that Bince disliked Jimmy, and yet the man seemed strangely anxious for his recovery and return to work.

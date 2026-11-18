@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/ridge-w-pett/the-amazing-years/chapter-12.html"
+url: "/authors/ridge-w-pett/the-amazing-years/chapter-12.html"
 ---
 
 I assured Katherine, more than once, that whatever the need for secrecy so far as Lieutenant Langford was concerned, no necessity of the kind existed in her case. She pleaded to be allowed to have her own way, reminded me that Harry particularly desired that the fewest folk possible should know, and eventually settled the question by informing me, on the best authority, that her bank did not favour the assistance of married girls.

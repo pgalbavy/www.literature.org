@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - Diplomacy"
 weight: 32
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-32.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-32.html"
 ---
 
 Oscar Gleeson, the Texan, was correct in his suspicion of the purpose of the Comanches in making Captain Shirril their prisoner; having secured possession of him, they intended to force a liberal ransom on the part of his friends, as a condition of his restoration to liberty.

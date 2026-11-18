@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Wendy's  Story"
 weight: 11
-aliases:
-  - "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-11.html"
+url: "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-11.html"
 ---
 
 "Listen, then, said Wendy, settling down to her story, with Michael at her feet and seven boys in the bed. "There was once a gentleman -- "

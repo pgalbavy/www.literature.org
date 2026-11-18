@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Point Of Light"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-07.html"
 ---
 
 Jack Cosgrove was awake on the instant. Not until he had groped around in the darkness and repeated the name of Fred several times in a loud voice would he believe he was not with them.

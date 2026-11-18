@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Lilac Lady Falls Asleep"
 weight: 16
-aliases:
-  - "/authors/brown-ruth-alberta/the-lilac-lady/chapter-16.html"
+url: "/authors/brown-ruth-alberta/the-lilac-lady/chapter-16.html"
 ---
 
 So the summer swept rapidly on. The remodelled stone mansion was finished at last and daintily furnished to meet every requirement. There were school-rooms and work-rooms and play-rooms. There were parlors and pianos and piazzas. There were long windows and wide doors everywhere. The whole place was filled with sunshine and fresh air. Rare flowers and ferns from the conservatory peeped out from every corner; the polished floors were covered with thick, soft carpets; easy chairs and tempting couches were harmoniously arranged about the rooms. A wing of the basement was converted into a gymnasium with a brave array of dumbbells, Indian clubs, trapezes and ladders. The great house was complete in every detail, and all Martindale was interested in this unique Home which the Lilac Lady was founding. But, though the offers to help were many, the lame girl refused them all and pushed the work with untiring energy.

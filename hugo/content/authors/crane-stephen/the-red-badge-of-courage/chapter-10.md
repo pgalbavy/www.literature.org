@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/crane-stephen/the-red-badge-of-courage/chapter-10.html"
+url: "/authors/crane-stephen/the-red-badge-of-courage/chapter-10.html"
 ---
 
 THE tattered man stood musing.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/davis-richard-harding/the-kings-jackal/chapter-02.html"
+url: "/authors/davis-richard-harding/the-kings-jackal/chapter-02.html"
 ---
 
 Mrs. Carson and her daughter came from the hotel to the terrace through the hallway which divided the King's apartments. Baron Barrat preceded them and they followed in single file, Miss Carson walking first. It was a position her mother always forced upon her, and after people grew to know them they accepted it as illustrating Mrs. Carson's confidence in her daughter's ability to care for herself, as well as her own wish to remain in the background.

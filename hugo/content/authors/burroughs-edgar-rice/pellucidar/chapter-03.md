@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Shooting The Chutes--And After"
 weight: 3
-aliases:
-  - "/authors/burroughs-edgar-rice/pellucidar/chapter-03.html"
+url: "/authors/burroughs-edgar-rice/pellucidar/chapter-03.html"
 ---
 
 Through the fog I felt my way along by means of my compass. I no longer heard the bears, nor did I encounter one within the fog.

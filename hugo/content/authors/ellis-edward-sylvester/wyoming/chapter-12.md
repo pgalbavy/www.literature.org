@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-12.html"
 ---
 
 Fred Godfrey was not altogether correct in his dismal prophecy.

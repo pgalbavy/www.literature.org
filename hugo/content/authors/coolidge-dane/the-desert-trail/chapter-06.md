@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/coolidge-dane/the-desert-trail/chapter-06.html"
+url: "/authors/coolidge-dane/the-desert-trail/chapter-06.html"
 ---
 
 If the Eagle Tail mine had been located in Arizona--or even farther down in Old Mexico--the method of jumping the claim would have been delightfully simple.

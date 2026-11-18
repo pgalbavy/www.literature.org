@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/carroll-lewis/sylvie-and-bruno/preface.html"
+url: "/authors/carroll-lewis/sylvie-and-bruno/preface.html"
 ---
 
 One little picture in this book, the Magic Locket, at p. 77, was drawn by 'Miss Alice Havers.' I did not state this on the title-page, since it seemed only due, to the artist of all these (to my mind) wonderful pictures, that his name should stand there alone.

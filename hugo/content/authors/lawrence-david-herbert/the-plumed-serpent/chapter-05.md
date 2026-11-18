@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Lake"
 weight: 5
-aliases:
-  - "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-05.html"
+url: "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-05.html"
 ---
 
 Owen left, Villiers stayed on a few days to escort Kate to the lake. If she liked it there, and could find a house, she could stay by herself. She knew sufficient people in Mexico and in Guadalajara to prevent her from being lonely. But she still shrank from travelling alone in this country.

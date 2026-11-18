@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/austen-jane/persuasion/chapter-12.html"
+url: "/authors/austen-jane/persuasion/chapter-12.html"
 ---
 
 Anne and Henrietta, finding themselves the earliest of the party the next morning, agreed to stroll down to the sea before breakfast. They went to the sands, to watch the flowing of the tide, which a fine south-easterly breeze was bringing in with all the grandeur which so flat a shore admitted. They praised the morning; gloried in the sea; sympathized in the delight of the fresh-feeling breeze--and were silent; till Henrietta suddenly began again with--

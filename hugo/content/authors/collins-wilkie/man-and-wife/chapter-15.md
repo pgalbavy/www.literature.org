@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Geoffrey In The Marriage Market"
 weight: 17
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-15.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-15.html"
 ---
 
 THE interval of eight-and-forty hours passed--without the occurrence of any personal communication between the two brothers in that time.

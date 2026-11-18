@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Wouldbegoods"
 weight: 2
-aliases:
-  - "/authors/nesbit-edith/the-wouldbegoods/chapter-02.html"
+url: "/authors/nesbit-edith/the-wouldbegoods/chapter-02.html"
 ---
 
 When we were sent down into the country to learn to be good we felt it was rather good business, because we knew our being sent there was really only to get us out of the way for a little while, and we knew right enough that it wasn't a punishment, though Mrs Blake said it was, because we had been punished thoroughly for taking the stuffed animals out and making a jungle on the lawn with them, and the garden hose. And you cannot be punished twice for the same offence. This is the English law; at least I think so. And at any rate no one would punish you three times, and we had had the Malacca cane and the solitary confinement; and the uncle had kindly explained to us that all ill-feeling between him and us was wiped out entirely by the bread and water we had endured. And what with the bread and water and being prisoners, and not being able to tame any mice in our prisons, I quite feel that we had suffered it up thoroughly, and now we could start fair.

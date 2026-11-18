@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 3"
 weight: 20
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-03-chapter-03.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-03-chapter-03.html"
 ---
 
 A phenomenon solved by modern philosophy and astronomy. The Laputians’ great improvements in the latter. The king’s method of suppressing insurrections.

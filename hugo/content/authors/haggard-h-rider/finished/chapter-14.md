@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Valley Of Bones"
 weight: 15
-aliases:
-  - "/authors/haggard-h-rider/finished/chapter-14.html"
+url: "/authors/haggard-h-rider/finished/chapter-14.html"
 ---
 
 The week that followed my interview with Cetewayo was indeed a miserable time for me. For myself, as I have said, I had no fear, for the king's orders were strictly obeyed. Moreover, the tale of what had happened to the brute who wished to hunt me down in the cattle-kraal had travelled far and wide and none sought to share his fate. My hut was inviolate and well supplied with necessary food, as was my mare, and I could wander where I liked and talk with whom I would. I could even ride to exercise the horse, though this I did very sparingly and only in the immediate neighbourhood of the town for fear of exciting suspicion or meeting Zulus whom the king's word had not reached. Indeed on these occasions I was always accompanied by a guard of swift-footed and armed soldiers sent "to protect me," or more probably to kill me if I did anything that seemed suspicious.

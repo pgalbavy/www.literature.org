@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 25"
 weight: 25
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-25.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-25.html"
 ---
 
 Hamilton Burton had always denied with scorn the existence of blind luck as an element in human greatness or failure. Now if he had leaped head-foremost into an empty swimming pool, at the exact moment when he stood midway of an enterprise which should crown him as omnipotent--or ruin him, perhaps it was a thing beyond coincidence. Yesterday he had aligned colossal forces for today's conflict--and taken his toll of vengeance. Today he must turn to profit the chaos he had wrought to that end through plans known only to himself--and today he lay with a fractured skull, sleeping the sleep of unconsciousness.

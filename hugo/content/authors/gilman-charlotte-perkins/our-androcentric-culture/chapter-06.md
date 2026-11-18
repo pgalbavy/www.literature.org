@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Games And Sports"
 weight: 6
-aliases:
-  - "/authors/gilman-charlotte-perkins/our-androcentric-culture/chapter-06.html"
+url: "/authors/gilman-charlotte-perkins/our-androcentric-culture/chapter-06.html"
 ---
 
 One of the sharpest distinctions both between the essential characters and the artificial positions of men and women, is in the matter of games and sports. By far the greater proportion of them are essentially masculine, and as such alien to women; while from those which are humanly interesting, women have been largely debarred by their arbitrary restrictions.

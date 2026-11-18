@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Fanny And Annie"
 weight: 9
-aliases:
-  - "/authors/lawrence-david-herbert/england-my-england/chapter-09.html"
+url: "/authors/lawrence-david-herbert/england-my-england/chapter-09.html"
 ---
 
 Flame-lurid his face as he turned among the throng of flame-lit and dark faces upon the platform. In the light of the furnace she caught sight of his drifting countenance, like a piece of floating fire. And the nostalgia, the doom of homecoming went through her veins like a drug. His eternal face, flame-lit now! The pulse and darkness of red fire from the furnace towers in the sky, lighting the desultory, industrial crowd on the wayside station, lit him and went out.

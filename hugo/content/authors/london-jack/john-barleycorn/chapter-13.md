@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-13.html"
+url: "/authors/london-jack/john-barleycorn/chapter-13.html"
 ---
 
 So I left Benicia, where John Barleycorn had nearly got me, and ranged wider afield in pursuit of the whisper from the back of life to come and find. And wherever I ranged, the way lay along alcohol-drenched roads. Men still congregated in saloons. They were the poor-man's clubs, and they were the only clubs to which I had access. I could get acquainted in saloons. I could go into a saloon and talk with any man. In the strange towns and cities I wandered through, the only place for me to go was the saloon. I was no longer a stranger in any town the moment I had entered a saloon.

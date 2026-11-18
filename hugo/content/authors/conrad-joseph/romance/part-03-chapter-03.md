@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 3"
 weight: 15
-aliases:
-  - "/authors/conrad-joseph/romance/part-03-chapter-03.html"
+url: "/authors/conrad-joseph/romance/part-03-chapter-03.html"
 ---
 
 Don Balthasar accepted my presence without a question. Perhaps he fancied he had invited me; of my manner of coming he was ignorant, of course. O'Brien, who had gone on to Havana in the ship which had landed the Riegos in Rio Medio, gave no sign of life. And yet, on the arrival of the *Breeze*, he must have found out I was no longer on board. I forgot the danger suspended over my head. For a fortnight I lived as if in a dream.

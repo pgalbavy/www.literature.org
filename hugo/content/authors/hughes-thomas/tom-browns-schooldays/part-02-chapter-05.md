@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 5 - The Fight"
 weight: 14
-aliases:
-  - "/authors/hughes-thomas/tom-browns-schooldays/part-02-chapter-05.html"
+url: "/authors/hughes-thomas/tom-browns-schooldays/part-02-chapter-05.html"
 ---
 
 "Surgebat Macnevisius  

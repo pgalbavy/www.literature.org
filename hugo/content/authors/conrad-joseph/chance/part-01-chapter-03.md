@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 3 - Thrift--And The Child"
 weight: 3
-aliases:
-  - "/authors/conrad-joseph/chance/part-01-chapter-03.html"
+url: "/authors/conrad-joseph/chance/part-01-chapter-03.html"
 ---
 
 But there was nothing improper in my observing to Fyne that, last night, Mrs. Fyne seemed to have some idea where that enterprising young lady had gone to. Fyne shook his head. No; his wife had been by no means so certain as she had pretended to be. She merely had her reasons to think, to hope, that the girl might have taken a room somewhere in London, had buried herself in town—in readiness or perhaps in horror of the approaching day—

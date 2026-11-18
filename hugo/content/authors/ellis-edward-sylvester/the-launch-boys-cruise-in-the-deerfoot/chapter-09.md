@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - No Man's Land"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-09.html"
 ---
 
 Lying a short distance off the Maine coast is an island which belongs to nobody and is therefore referred to as No Man's Land. If you look for it on the map you will find it marked as Muscongus. It is also known as Loud's Island, in honor of the first settler. The strange state of affairs came about in this way:

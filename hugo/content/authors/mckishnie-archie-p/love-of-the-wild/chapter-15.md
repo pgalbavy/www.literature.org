@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - War Tactics"
 weight: 15
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-15.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-15.html"
 ---
 
 Paisley paddled slowly across the creek, drew his skiff into the willow bushes, and picking up his rifle, walked along the edge of the creek until he reached the bay. It slept gray and cold beneath the moon, and all about its tranquil waters a ragged tree-frame stood spiral-like and shadowy—a disheveled cloud in an open blotch of sky. Paisley gazed across the bay, his face fixed and his whole attitude one of protest.

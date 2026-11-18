@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - What Happened Next To Chatterer"
 weight: 11
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-11.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-11.html"
 ---
 
 Were you ever terribly, terribly frightened? That was the way Chatterer felt. He was caught; there was no doubt about it! His sharp teeth were of no use at all on those hard wires. He could look out between them, but he couldn't get out. He was too frightened to think. His heart pounded against his sides until it hurt. He forgot all about that queer food he had so wanted to taste, and which was right before him now. Indeed, he felt as if he never, never would want to eat again. What was going to happen to him now? What would Farmer Brown's boy do to him when he found him there?

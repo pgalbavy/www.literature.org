@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Man's Decision"
 weight: 13
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-13.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-13.html"
 ---
 
 MY first impulse was the reckless impulse to follow Eustace--openly through the streets.

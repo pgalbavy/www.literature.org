@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/baum-l-frank/the-marvelous-land-of-oz/preface.html"
+url: "/authors/baum-l-frank/the-marvelous-land-of-oz/preface.html"
 ---
 
 The Marvelous Land of Oz

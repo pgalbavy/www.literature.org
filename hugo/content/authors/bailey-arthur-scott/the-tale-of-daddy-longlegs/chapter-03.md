@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Mr. Crow Is Displeased"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-03.html"
 ---
 
 DADDY LONGLEGS had such pleasant manners that it was no time at all before his neighbors agreed that he was a good old soul. And everybody was glad to claim him as a friend.

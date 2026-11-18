@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/conrad-joseph/gaspar-ruiz/chapter-07.html"
+url: "/authors/conrad-joseph/gaspar-ruiz/chapter-07.html"
 ---
 
 *GENERAL SANTIERRA* was right in his surmise. Such was the exact nature of the assistance which Gaspar Ruiz, peasant son of peasants, received from the Royalist family whose daughter had opened the door—of their miserable refuge to his extreme distress. Her sombre resolution ruled the madness of her father and the trembling bewilderment of her mother.

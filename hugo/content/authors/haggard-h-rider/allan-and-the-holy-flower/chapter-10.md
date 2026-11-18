@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Sentence"
 weight: 10
-aliases:
-  - "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-10.html"
+url: "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-10.html"
 ---
 
 We stared at Bausi and Bausi stared at us.

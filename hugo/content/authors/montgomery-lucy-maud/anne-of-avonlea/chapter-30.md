@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - A Wedding At The Stone House"
 weight: 30
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-30.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-30.html"
 ---
 
 The last week in August came. Miss Lavendar was to be married in it. Two weeks later Anne and Gilbert would leave for Redmond College. In a week's time Mrs. Rachel Lynde would move to Green Gables and set up her lares and penates in the erstwhile spare room, which was already prepared for her coming. She had sold all her superfluous household plenishings by auction and was at present reveling in the congenial occupation of helping the Allans pack up. Mr. Allan was to preach his farewell sermon the next Sunday. The old order was changing rapidly to give place to the new, as Anne felt with a little sadness threading all her excitement and happiness.

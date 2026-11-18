@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Peter Rabbit Is Most Uncomfortable"
 weight: 10
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-10.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-10.html"
 ---
 
 If ever any one was sorry for having played pranks on other folks, that one was Peter Rabbit. I am afraid it wasn't quite the right kind of sorrow. You see, he wasn't sorry because of what had happened to Jimmy Skunk and Reddy Fox, but because of what had happened to himself. There he was, down in the bedroom of Johnny Chuck's old house, smarting and aching all over from the sharp little lances of the Yellow Jackets who had driven him down there before he had had a chance to see what happened to Reddy Fox. That was bad enough, but what troubled Peter more was the thought that he couldn't get out without once again facing those hot-tempered Yellow Jackets. Peter wished with all his might that he had known about their home in Johnny Chuck's old house before ever he thought of hiding there.

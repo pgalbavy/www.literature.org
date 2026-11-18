@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Home Again"
 weight: 24
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-24.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-24.html"
 ---
 
 Johnnie Green drove his pony, Twinkleheels, back over the road that led to the village. Now and then he stopped at a farmhouse to inquire whether anybody had seen old dog Spot, who had vanished on the way home from the circus the evening before.

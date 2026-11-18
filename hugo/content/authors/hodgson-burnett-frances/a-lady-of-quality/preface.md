@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/hodgson-burnett-frances/a-lady-of-quality/preface.html"
+url: "/authors/hodgson-burnett-frances/a-lady-of-quality/preface.html"
 ---
 
 Being a most curious, hitherto unknown history, as related by Mr. Isaac Bickerstaff but not presented to the World of Fashion through the pages of The Tatler, and now for the first time written down by Francis Hodgson Burnett

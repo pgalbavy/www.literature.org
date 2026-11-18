@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-02.html"
+url: "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-02.html"
 ---
 
 The afternoon was half spent and the sun, making its way toward the purpled ridges of the west, was already casting long shadows athwart the valleys. Along a trail which wound itself in many tortuous twists across forested heights and dipped down to lose itself at intervals in the creek bed of Little Slippery, a mounted traveler rode at a snail-like pace. The horse was a lean brute through whose rusty coat the ribs showed in under-nourished prominence, but it went sure-footedly up and down broken stairways of slimy ledges where tiny waterfalls licked at its fetlocks and along the brinks of chasms where the sand shelved with treacherous looseness.

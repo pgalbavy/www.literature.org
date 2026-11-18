@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - In The Garret Of Green Gables"
 weight: 1
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-01.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-01.html"
 ---
 
 "To Laura, in memory of the olden time."

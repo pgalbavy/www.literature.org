@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/coolidge-dane/the-desert-trail/chapter-22.html"
+url: "/authors/coolidge-dane/the-desert-trail/chapter-22.html"
 ---
 
 The superintendent's house stood on a low bench above the town, looking out over all the valley, but protected by a high hill behind, upon the summit of which was placed a mammoth black water-tank.

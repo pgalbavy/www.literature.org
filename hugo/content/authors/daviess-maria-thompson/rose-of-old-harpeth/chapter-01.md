@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Rose Mary Of Sweetbriar"
 weight: 1
-aliases:
-  - "/authors/daviess-maria-thompson/rose-of-old-harpeth/chapter-01.html"
+url: "/authors/daviess-maria-thompson/rose-of-old-harpeth/chapter-01.html"
 ---
 
 "Why, don't you know nothing in the world compliments a loaf of bread like the asking for a fourth slice," laughed Rose Mary as she reached up on the stone shelf above her head and took down a large crusty loaf and a long knife. "Thick or thin?" she asked as she raised her lashes from her blue eyes for a second of hospitable inquiry.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Great Adventure"
 weight: 12
-aliases:
-  - "/authors/london-jack/the-iron-heel/chapter-11.html"
+url: "/authors/london-jack/the-iron-heel/chapter-11.html"
 ---
 
 Mr. Wickson did not send for father. They met by chance on the ferry-boat to San Francisco, so that the warning he gave father was not premeditated. Had they not met accidentally, there would not have been any warning. Not that the outcome would have been different, however. Father came of stout old Mayflower* stock, and the blood was imperative in him.

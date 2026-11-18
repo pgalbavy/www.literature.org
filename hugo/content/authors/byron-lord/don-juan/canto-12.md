@@ -1,8 +1,7 @@
 ---
 title: "Canto 12"
 weight: 13
-aliases:
-  - "/authors/byron-lord/don-juan/canto-12.html"
+url: "/authors/byron-lord/don-juan/canto-12.html"
 ---
 
 Of all the barbarous middle ages, that  

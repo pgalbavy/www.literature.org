@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-08.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-08.html"
 ---
 
 Another trick Dag Daughtry succeeded in teaching Michael so enhanced him in Captain Duncan's eyes as to impel him to offer fifty pounds, "and never mind the cat." At first, Daughtry practised the trick in private with the chief engineer and the Shortlands planter. Not until thoroughly satisfied did he make a public performance of it.

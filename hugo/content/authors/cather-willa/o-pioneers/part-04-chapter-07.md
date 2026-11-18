@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 7"
 weight: 26
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-04-chapter-07.html"
+url: "/authors/cather-willa/o-pioneers/part-04-chapter-07.html"
 ---
 
 When Frank Shabata got home that night, he found Emil's mare in his stable. Such an impertinence amazed him. Like everybody else, Frank had had an exciting day. Since noon he had been drinking too much, and he was in a bad temper. He talked bitterly to himself while he put his own horse away, and as he went up the path and saw that the house was dark he felt an added sense of injury. He approached quietly and listened on the doorstep. Hearing nothing, he opened the kitchen door and went softly from one room to another. Then he went through the house again, upstairs and down, with no better result. He sat down on the bottom step of the box stairway and tried to get his wits together. In that unnatural quiet there was no sound but his own heavy breathing. Suddenly an owl began to hoot out in the fields. Frank lifted his head. An idea flashed into his mind, and his sense of injury and outrage grew. He went into his bedroom and took his murderous 405 Winchester from the closet.

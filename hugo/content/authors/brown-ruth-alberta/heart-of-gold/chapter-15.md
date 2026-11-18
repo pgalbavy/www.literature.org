@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Ring That Built A Hospital"
 weight: 15
-aliases:
-  - "/authors/brown-ruth-alberta/heart-of-gold/chapter-15.html"
+url: "/authors/brown-ruth-alberta/heart-of-gold/chapter-15.html"
 ---
 
 It was a hot June night. Not a breath of air was stirring, and in the great Danbury Hospital every window was opened its widest. Yet the patients lay panting and sweltering on their cots. Peace, in her room, tossed and turned restlessly, dozed a few minutes, then wakened, changed her position, trying to find a cooler spot, and finally in desperation, raised her hand and jerked the bell-cord dangling at the head of her bed. She could hear the answering whir in the hall outside, but no one came to minister to her wants, and after an impatient wait of a few seconds, she repeated the summons.

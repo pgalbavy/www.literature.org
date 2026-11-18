@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Meeting Mr. Crow"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-06.html"
 ---
 
 DURING his first summer in Pleasant Valley Master Meadow Mouse had often noticed old Mr. Crow flying from the woods to the cornfield. Once in a while Mr. Crow dropped down into the meadow on some business or other. But Master Meadow Mouse did not fear him. The grass was high in the meadow, screening the goings and comings of Master Meadow Mouse from prying eyes.

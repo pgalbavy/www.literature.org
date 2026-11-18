@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 17"
 weight: 70
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-05-chapter-17.html"
+url: "/authors/cather-willa/one-of-ours/book-05-chapter-17.html"
 ---
 
 "With us it's always a feast or a famine," the men groaned, when they sat down by the road to munch dry biscuit at noon. They had covered eighteen miles that morning, and had still seven more to go. They were ordered to do the twenty-five miles in eight hours. Nobody had fallen out yet, but some of the boys looked pretty well wilted. Nifty Jones said he was done for. Sergeant Hicks was expostulating with the faint-hearted. He knew that if one man fell out, a dozen would.

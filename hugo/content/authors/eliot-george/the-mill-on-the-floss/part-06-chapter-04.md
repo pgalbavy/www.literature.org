@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 4 - Brother And Sister"
 weight: 43
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-06-chapter-04.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-06-chapter-04.html"
 ---
 
 Maggie was obliged to go to Tom's lodgings in the middle of the day, when he would be coming in to dinner, else she would not have found him at home. He was not lodging with entire strangers. Our friend Bob Jakin had, with Mumps's tacit consent, taken not only a wife about eight months ago, but also one of those queer old houses, pierced with surprising passages, by the water-side, where, as he observed, his wife and mother could keep themselves out of mischief by letting out two "pleasure-boats," in which he had invested some of his savings, and by taking in a lodger for the parlor and spare bedroom. Under these circumstances, what could be better for the interests of all parties, sanitary considerations apart, than that the lodger should be Mr. Tom?

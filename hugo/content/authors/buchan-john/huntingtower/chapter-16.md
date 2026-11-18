@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - In Which A Princess Leaves A Dark Tower And A Provision Merchant Returns To His Family"
 weight: 17
-aliases:
-  - "/authors/buchan-john/huntingtower/chapter-16.html"
+url: "/authors/buchan-john/huntingtower/chapter-16.html"
 ---
 
 The three days of storm ended in the night, and with the wild weather there departed from the Cruives something which had weighed on Dickson's spirits since he first saw the place. Monday—only a week from the morning when he had conceived his plan of holiday—saw the return of the sun and the bland airs of spring. Beyond the blue of the yet restless waters rose dim mountains tipped with snow, like some Mediterranean seascape. Nesting birds were busy on the Laver banks and in the Huntingtower thickets; the village smoked peacefully to the clear skies; even the House looked cheerful if dishevelled. The Garple Dean was a garden of swaying larches, linnets, and wild anemones. Assuredly, thought Dickson, there had come a mighty change in the countryside, and he meditated a future discourse to the Literary Society of the Guthrie Memorial Kirk on "Natural Beauty in Relation to the Mind of Man."

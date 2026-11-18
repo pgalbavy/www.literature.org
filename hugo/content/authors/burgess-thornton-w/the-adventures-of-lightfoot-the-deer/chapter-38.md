@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - An Unseen Watcher"
 weight: 38
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-38.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-38.html"
 ---
 
 As Lightfoot the Deer and the big stranger from the Great Mountain fought in the little opening near the pond of Paddy the Beaver, neither knew or cared who saw them. Each was filled fully with rage and determined to drive the other from the Green Forest. Each was fighting for the right to win the love of Miss Daintyfoot.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 12"
 weight: 12
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-01-chapter-12.html"
+url: "/authors/cather-willa/song-of-the-lark/part-01-chapter-12.html"
 ---
 
 One July night, when the moon was full, Dr. Archie was coming up from the depot, restless and discontented, wishing there were something to do. He carried his straw hat in his hand, and kept brushing his hair back from his forehead with a purposeless, unsatisfied gesture. After he passed Uncle Billy Beemer's cottonwood grove, the sidewalk ran out of the shadow into the white moonlight and crossed the sand gully on high posts, like a bridge. As the doctor approached this trestle, he saw a white figure, and recognized Thea Kronborg. He quickened his pace and she came to meet him.

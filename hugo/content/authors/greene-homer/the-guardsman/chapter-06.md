@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/greene-homer/the-guardsman/chapter-06.html"
+url: "/authors/greene-homer/the-guardsman/chapter-06.html"
 ---
 
 It was late in the spring following the enlistment of Halpert McCormack and Ben Barriscale in Company E. Ben’s father, for whom the boy had been named, was well satisfied with his son’s predilection toward military service, and looked to see him make rapid promotions. Mr. Barriscale was still favorably disposed toward the National Guard. As president of the Barriscale Manufacturing Company he was a large employer of both skilled and unskilled labor. There had been times when differences of opinion between him and his employees had reached the verge of a strike, with possible violence and disorder looming up in the distance. Such times might occur in the future. No one could tell. If they should occur, and if there should be any serious outbreak, an outbreak beyond the power of the local police or the state constabulary to quell, then the safety of a half million dollars’ worth of property might depend on the prompt and efficient action of the soldiers of the National Guard.

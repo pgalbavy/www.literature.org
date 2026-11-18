@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - How D'artagnan, In Discovering The Retreat Of Porthos, Perceives That Wealth Does Not Necessarily Produce Happiness"
 weight: 11
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-11.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-11.html"
 ---
 
 D'Artagnan passed through the iron gate and arrived in front of the chateau. He alighted as he saw a species of giant on the steps. Let us do justice to D'Artagnan. Independently of every selfish wish, his heart palpitated with joy when he saw that tall form and martial demeanor, which recalled to him a good and brave man.

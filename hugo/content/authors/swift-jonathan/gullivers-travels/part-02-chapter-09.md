@@ -1,8 +1,7 @@
 ---
 title: "part 02 chapter 09"
 weight: 999
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-02-chapter-09.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-02-chapter-09.html"
 ---
 
 The king and queen make a progress to the frontiers. The author attends them. The manner in which he leaves the country very particularly related. He returns to England.

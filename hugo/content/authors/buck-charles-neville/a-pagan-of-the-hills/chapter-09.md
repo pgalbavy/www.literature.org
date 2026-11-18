@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-09.html"
+url: "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-09.html"
 ---
 
 As the mule ambled along the mired streets of the wretched hamlet there were eyes following its course that masked an interest beyond the usual. If certain men who had attended yesterday's caucus still loafed inactively about the sidewalks, it was not because they were indifferent to possible developments, but in obedience to a settled plan. Last night a party had set forth ahead. Its members were now stationed at appointed posts in spots so lonely and so silent that one might have passed them at a stone's throw without suspecting their presence. They had gone singly and by different ways--at the start. Others had come to cooperate from Viper and the net was spread with meticulous care and completeness. For communication and signaling the voices of forest things were available; the caw of the crow in the timber, the bark of the fox in the thicket, the note of those birds that the winter had not driven south.

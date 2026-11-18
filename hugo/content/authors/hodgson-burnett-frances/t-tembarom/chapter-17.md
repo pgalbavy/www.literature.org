@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-17.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-17.html"
 ---
 
 Form, color, drama, and divers other advantages are necessary to the creation of an object of interest. Presenting to the world none of these assets, Miss Alicia had slipped through life a scarcely remarked unit. No little ghost of prettiness had attracted the wandering eye, no suggestion of agreeable or disagreeable power of self-assertion had arrested attention. There had been no hour in her life when she had expected to count as being of the slightest consequence. When she had knocked at the door of the study at Rowcroft Vicarage, and “dear papa” had exclaimed irritably: “Who is that? Who is that?” she had always replied, “It is only Alicia.”

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-15.html"
+url: "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-15.html"
 ---
 
 Plutina had no sleep the night following her encounter with Dan Hodges. Throughout the dragging hours, she was tortured by sinister imaginings. She exhausted her brain in futile strivings for some means of escape from the mesh of circumstance. It was not until the gray twilight of dawn shone through the curtains that a possibility of relief stirred in her mind. It was out of desperation that the idea sprang. She felt herself so utterly forlorn and helpless in her loneliness that the despair was overpowering. It was then, at last, that the inspiration came to her: She would confess everything to her grandfather!

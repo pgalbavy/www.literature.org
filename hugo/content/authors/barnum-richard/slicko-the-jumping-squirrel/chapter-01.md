@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Slicko Learns To Jump"
 weight: 1
-aliases:
-  - "/authors/barnum-richard/slicko-the-jumping-squirrel/chapter-01.html"
+url: "/authors/barnum-richard/slicko-the-jumping-squirrel/chapter-01.html"
 ---
 
 Half way up the side of a tall tree there was a round hole in the trunk. The hole was lined with soft, dried leaves, and bits of white, fluffy cotton, from the milkweed plant. And, if you looked very carefully at the hole, you might see, peering from it, a little head, like that of a very small kitten, and a pair of very bright eyes.

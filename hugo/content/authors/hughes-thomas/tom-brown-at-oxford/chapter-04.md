@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The St. Ambrose Boat Club: Its Ministery And Their Budget"
 weight: 6
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-04.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-04.html"
 ---
 
 We left our hero, a short time back, busily engaged on his dinner commons, and resolved forthwith to make great friends with Hardy. It never occurred to him that there could be the slightest difficulty in carrying out this resolve. After such a passage as they two had had together that afternoon, he felt that the usual outworks of acquaintanceship had been cleared at a bound, and looked upon Hardy already as an old friend to whom he could talk out his mind as freely as he had been used to do to his old tutor at school, or to Arthur. Moreover, as there were already several things in his head which he was anxious to ventilate, he was all the more pleased that chance had thrown him across a man of so much older standing than himself, and one to whom he instinctively felt that he could look up.

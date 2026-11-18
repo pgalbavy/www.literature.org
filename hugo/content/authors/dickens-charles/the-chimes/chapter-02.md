@@ -1,8 +1,7 @@
 ---
 title: "Second Quarter"
 weight: 2
-aliases:
-  - "/authors/dickens-charles/the-chimes/chapter-02.html"
+url: "/authors/dickens-charles/the-chimes/chapter-02.html"
 ---
 
 The letter Toby had received from Alderman Cute, was addressed to a great man in the great district of the town. The greatest district of the town. It must have been the greatest district of the town, because it was commonly called The World by its inhabitants.

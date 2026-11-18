@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Drummer Of The Woods"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-20.html"
 ---
 
 Tommy Fox stopped short and listened. It was early spring, and the snow was still deep on the sides of Blue Mountain.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/ridge-w-pett/the-amazing-years/chapter-16.html"
+url: "/authors/ridge-w-pett/the-amazing-years/chapter-16.html"
 ---
 
 It was the way of things in the long months of the war that in addition to news from abroad, one was called upon to receive information concerning events at home, and when it happened that both were of a serious and alarming nature, one was almost knocked down by the double blow. One generally managed to get up again before ten was counted, but for the moment, the effect was staggering. I could have wished for no better companions than Cartwright and William Richards, and they proved the more useful when my brother-in-law Millwood arrived, a broken and a tearful man, unable to offer any suggestion or to join in the conference which, once I had recovered, took place; he went into the back room, and gripping the top of his head with both hands moaned and wailed. All the cheeriness which he was able, at public meetings, to communicate to his audience, had gone. I opened the door with the idea of giving a word of sympathy.

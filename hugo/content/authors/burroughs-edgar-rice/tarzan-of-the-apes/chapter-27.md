@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - The Giant Again"
 weight: 27
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-27.html"
+url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-27.html"
 ---
 
 A taxicab drew up before an oldfashioned residence upon the outskirts of Baltimore.

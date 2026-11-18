@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Flight"
 weight: 21
-aliases:
-  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-21.html"
+url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-21.html"
 ---
 
 The full sunlight streamed into the room when Betty, her packing done, drew back the curtain. She looked out on the glazed roof of the laundry, the lead roof of the office, the blank wall of the new grocery establishment in the Rue de Rennes. Only a little blue sky shewed at the end of the lane, between roofs, by which the sun came in. Not a tree, not an inch of grass, in sight; only, in her room, half a dozen roses that Temple had left for her, and the white marguerite plant - tall, sturdy, a little tree almost - that Vernon had sent in from the florist's next door but two. Everything was packed. She would say good-bye to Madame Bianchi; and she would go, and leave no address, as she had promised last night.

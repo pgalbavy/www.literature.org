@@ -1,8 +1,7 @@
 ---
 title: "Foreword"
 weight: 1
-aliases:
-  - "/authors/burroughs-edgar-rice/the-gods-of-mars/foreword.html"
+url: "/authors/burroughs-edgar-rice/the-gods-of-mars/foreword.html"
 ---
 
 Foreword TWELVE years had passed since I had laid the body of my great-uncle, Captain John Carter, of Virginia, away from the sight of men in that strange mausoleum in the old cemetery at Richmond.

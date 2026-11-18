@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-17.html"
 ---
 
 A Hero of the Olden Days—Cruise of the *Constitution* —Her Capture of the *Cyane* and *Levant*—Reminiscences of Admiral Stewart —His Last Days.

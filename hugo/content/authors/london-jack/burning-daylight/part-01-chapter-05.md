@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 5"
 weight: 5
-aliases:
-  - "/authors/london-jack/burning-daylight/part-01-chapter-05.html"
+url: "/authors/london-jack/burning-daylight/part-01-chapter-05.html"
 ---
 
 At Sixty Mile they restocked provisions, added a few pounds of letters to their load, and held steadily on. From Forty Mile they had had unbroken trail, and they could look forward only to unbroken trail clear to Dyea. Daylight stood it magnificently, but the killing pace was beginning to tell on Kama. His pride kept his mouth shut, but the result of the chilling of his lungs in the cold snap could not be concealed. Microscopically small had been the edges of the lung-tissue touched by the frost, but they now began to slough off, giving rise to a dry, hacking cough. Any unusually severe exertion precipitated spells of coughing, during which he was almost like a man in a fit. The blood congested in his eyes till they bulged, while the tears ran down his cheeks. A whiff of the smoke from frying bacon would start him off for a half-hour's paroxysm, and he kept carefully to windward when Daylight was cooking.

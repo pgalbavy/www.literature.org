@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Of The Rights Of Soveraignes By Institution"
 weight: 20
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-18.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-18.html"
 ---
 
 The Act Of Instituting A Common-wealth, What A Common-wealth is said to be Instituted, when a Multitude of men do Agree, and Covenant, Every One With Every One, that to whatsoever Man, or Assembly Of Men, shall be given by the major part, the Right to Present the Person of them all, (that is to say, to be their Representative;) every one, as well he that Voted For It, as he that Voted Against It, shall Authorise all the Actions and Judgements, of that Man, or Assembly of men, in the same manner, as if they were his own, to the end, to live peaceably amongst themselves, and be protected against other men.

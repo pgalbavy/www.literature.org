@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 23"
 weight: 36
-aliases:
-  - "/authors/london-jack/burning-daylight/part-02-chapter-23.html"
+url: "/authors/london-jack/burning-daylight/part-02-chapter-23.html"
 ---
 
 Three days later, Daylight rode to Berkeley in his red car. It was for the last time, for on the morrow the big machine passed into another's possession. It had been a strenuous three days, for his smash had been the biggest the panic had precipitated in California. The papers had been filled with it, and a great cry of indignation had gone up from the very men who later found that Daylight had fully protected their interests. It was these facts, coming slowly to light, that gave rise to the widely repeated charge that Daylight had gone insane. It was the unanimous conviction among business men that no sane man could possibly behave in such fashion. On the other hand, neither his prolonged steady drinking nor his affair with Dede became public, so the only conclusion attainable was that the wild financier from Alaska had gone lunatic. And Daylight had grinned and confirmed the suspicion by refusing to see the reporters.

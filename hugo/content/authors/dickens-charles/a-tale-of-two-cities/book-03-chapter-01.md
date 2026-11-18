@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 1 - In Secret"
 weight: 31
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-01.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-01.html"
 ---
 
 THE TRAVELLER fared slowly on his way, who fared towards Paris from England in the autumn of the year one thousand seven hundred and ninety-two. More than enough of bad roads, bad equipages, and bad horses, he would have encountered to delay him, though the fallen and unfortunate King of France had been upon his throne in all his glory; but, the changed times were fraught with other obstacles than these. Every town-gate and village taxing-house had its band of citizen-patriots, with their national muskets in a most explosive state of readiness, who stopped all comers and goers, cross-questioned them, inspected their papers, looked for their names in lists of their own, turned them back, or sent them on, or stopped them and laid them in hold, as their capricious judgment or fancy deemed best for the dawning Republic One and Indivisible, of Liberty, Equality, Fraternity, or Death.

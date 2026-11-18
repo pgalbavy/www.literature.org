@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Place Of Departed Spirits"
 weight: 15
-aliases:
-  - "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-15.html"
+url: "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-15.html"
 ---
 
 Every man carries his skull under his face, but God alone knows the marks on it.

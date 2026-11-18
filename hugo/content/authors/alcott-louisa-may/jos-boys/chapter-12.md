@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Dan's Christmas"
 weight: 12
-aliases:
-  - "/authors/alcott-louisa-may/jos-boys/chapter-12.html"
+url: "/authors/alcott-louisa-may/jos-boys/chapter-12.html"
 ---
 
 Where was Dan? In prison. Alas for Mrs Jo! how her heart would have ached if she had known that while old Plum shone with Christmas cheer her boy sat alone in his cell, trying to read the little book she gave him, with eyes dimmed now and then by the hot tears no physical suffering had ever wrung from him, and longing with a homesick heart for all that he had lost.

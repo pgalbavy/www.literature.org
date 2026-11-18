@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - La"
 weight: 20
-aliases:
-  - "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-20.html"
+url: "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-20.html"
 ---
 
 For a moment Tarzan thought that by some strange freak of fate a miracle had saved him, but when he realized the ease with which the girl had, single-handed, beaten off twenty gorilla-like males, and an instant later, as he saw them again take up their dance about him while she addressed them in a singsong monotone, which bore every evidence of rote, he came to the conclusion that it was all but a part of the ceremony of which he was the central figure.

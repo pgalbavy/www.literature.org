@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/baum-l-frank/rinkitink-in-oz/chapter-10.html"
+url: "/authors/baum-l-frank/rinkitink-in-oz/chapter-10.html"
 ---
 
 You may be sure the Queen of Coregos was not well pleased to have King Gos and all his warriors living in her city after they had fled from their own. They were savage natured and quarrelsome men at all times, and their tempers had not improved since their conquest by the Prince of Pingaree. Moreover, they were eating up Queen Cor's provisions and crowding the houses of her own people, who grumbled and complained until their Queen was heartily tired.

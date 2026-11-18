@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 1 - How I Became A London Student And Went Astray"
 weight: 4
-aliases:
-  - "/authors/wells-herbert-george/tono-bungay/book-02-chapter-01.html"
+url: "/authors/wells-herbert-george/tono-bungay/book-02-chapter-01.html"
 ---
 
 I came to live in London, as I shall tell you, when I was nearly twenty-two. Wimblehurst dwindles in perspective, is now in this book a little place far off, Bladesover no more than a small pinkish speck of frontage among the distant Kentish hills; the scene broadens out, becomes multitudinous and limitless, full of the sense of vast irrelevant movement. I do not remember my second coming to London as I do my first, for my early impressions, save that an October memory of softened amber sunshine stands out, amber sunshine falling on grey house fronts I know not where. That, and a sense of a large tranquillity.

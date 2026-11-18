@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - A Twosome"
 weight: 28
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-27.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-27.html"
 ---
 
 I believe it was about the fifth day, and I know at least that James was in one of his fits of gloom, when I received three letters. The first was from Alan, offering to visit me in Leyden; the other two were out of Scotland and prompted by the same affair, which was the death of my uncle and my own complete accession to my rights. Rankeillor’s was, of course, wholly in the business view; Miss Grant’s was like herself, a little more witty than wise, full of blame to me for not having written (though how was I to write with such intelligence?) and of rallying talk about Catriona, which it cut me to the quick to read in her very presence.

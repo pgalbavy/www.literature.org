@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The  Peony-Girl And The Bumpkin"
 weight: 3
-aliases:
-  - "/authors/daviess-maria-thompson/the-road-to-providence/chapter-03.html"
+url: "/authors/daviess-maria-thompson/the-road-to-providence/chapter-03.html"
 ---
 
 "There's just no doubt about it, if Tom Mayberry weren't my own son and I had occasion to know better I'd think he had teeth in his heels, from the looks of his socks. Every week Cindy darns them a spell and then I take a hand at it. Just look, Elinory, did you ever see a worser hole than this?" As Mother Mayberry spoke she held up for Miss Wingate's interested inspection a fine, dark blue sock. They were sitting on the porch in the late afternoon and the singer lady was again at work on a bit of wardrobe for the doll daughter of her friend Eliza.

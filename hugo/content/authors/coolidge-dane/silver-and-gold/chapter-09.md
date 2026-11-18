@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Bible-Back Murray"
 weight: 10
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/chapter-09.html"
+url: "/authors/coolidge-dane/silver-and-gold/chapter-09.html"
 ---
 
 As a matter of form Denver went with the Professor and inspected his boasted mine but all the time his mind was far away and his heart was beating fast. The vein of silver that Bunker Hill had shown him was worth a thousand dollars anywhere; but, situated as it was on the next claim to the Lost Burro, it was worth incalculably more. It was too good a claim to let get away and as he listened perfunctorily to the Professor's patter he planned how he would open it up. First he would shoot off the face, to be sure there was no salting, and send off some samples to the assayer; and then he would drive straight in on the vein as long as his money lasted. And if it widened out, if it dipped and went down, he would know for a certainty that it was the silver treasure that good old Mother Trigedgo had prophesied. But to carry out the prophecy, to choose well between the two, he gazed gravely at the Professor's strip of gold-ore.

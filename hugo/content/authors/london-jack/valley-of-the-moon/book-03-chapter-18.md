@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 18"
 weight: 52
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-03-chapter-18.html"
+url: "/authors/london-jack/valley-of-the-moon/book-03-chapter-18.html"
 ---
 
 They were awakened by Possum, who was indignantly reproaching a tree squirrel for not coming down to be killed. The squirrel chattered garrulous remarks that drove Possum into a mad attempt to climb the tree. Billy and Saxon giggled and hugged each other at the terrier's frenzy.

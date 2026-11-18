@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Gentleman Geoff Passes The Deal"
 weight: 4
-aliases:
-  - "/authors/ostrander-isabel/the-fifth-ace/chapter-04.html"
+url: "/authors/ostrander-isabel/the-fifth-ace/chapter-04.html"
 ---
 
 With the departure of Kearn Thode on his mission Gentleman Geoff sank into a stupor from which all Billie's efforts failed to arouse him. She glanced at the little watch on her wrist. Twenty minutes past four! One hour for the massive door to hold against those crashing blows which seemed beating upon her brain. One hour for the young engineer to ride ten miles on an already jaded horse, provided he had succeeded in making his perilous start, and bring the Carranzistas to the rescue!

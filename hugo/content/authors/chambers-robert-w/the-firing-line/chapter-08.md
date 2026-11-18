@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Manoeuvering"
 weight: 8
-aliases:
-  - "/authors/chambers-robert-w/the-firing-line/chapter-08.html"
+url: "/authors/chambers-robert-w/the-firing-line/chapter-08.html"
 ---
 
 Everybody seemed to be there, either splashing about in the Atlantic or playing ball on the beach or congregated along the sands observant of the jolly, riotous scene sparkling under the magnificence of a cloudless sky.

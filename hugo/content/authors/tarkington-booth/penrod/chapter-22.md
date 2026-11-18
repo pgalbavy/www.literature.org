@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Imitator"
 weight: 22
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-22.html"
+url: "/authors/tarkington-booth/penrod/chapter-22.html"
 ---
 
 At the dinner-table, that evening, Penrod Surprised his family by remarking, in a voice they had never heard him attempt—a law-giving voice of intentional gruffness:

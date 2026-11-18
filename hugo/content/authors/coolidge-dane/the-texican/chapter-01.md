@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Verde Crossing"
 weight: 2
-aliases:
-  - "/authors/coolidge-dane/the-texican/chapter-01.html"
+url: "/authors/coolidge-dane/the-texican/chapter-01.html"
 ---
 
 The languid quiet of midday lay upon the little road-house that stood guard by Verde Crossing. Old Crit and his wild Texas cowboys had left the corral at dawn, riding out mysteriously with their running irons in their chaps; the dogs had crawled under José Garcia's house and gone to sleep; to the north the Tonto trail stretched away vacant and only the brawling of the Verde as it rushed over the rocky ford suggested the savage struggle that was going on in the land. Within the adobe fort that served for both store and saloon Angevine Thorne, Old Crit's roustabout, sat tipped back in his chair breathing thoughtfully through a mouth-organ while a slender Mexican girl, lingering by the doorway, listened in childish adoration.

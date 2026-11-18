@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - A Friend Indeed"
 weight: 30
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-30.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-30.html"
 ---
 
 It was a shocking sight, and for a minute or two Dick Halliard and Jim McGovern did not speak.

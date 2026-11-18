@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - In The Strawberry Bed"
 weight: 11
-aliases:
-  - "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-11.html"
+url: "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-11.html"
 ---
 
 FROM that day a new life began for Christie, a happy, quiet, useful life, utterly unlike any of the brilliant futures she had planned for herself; yet indescribably pleasant to her now, for past experience had taught her its worth, and made her ready to enjoy it.

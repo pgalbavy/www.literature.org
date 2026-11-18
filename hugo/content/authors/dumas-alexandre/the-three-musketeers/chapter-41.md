@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41 - The Seige Of La Rochelle"
 weight: 42
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-41.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-41.html"
 ---
 
 The Siege of La Rochelle was one of the great political events of the reign of Louis XIII, and one of the great military enterprises of the cardinal. It is, then, interesting and even necessary that we should say a few words about it, particularly as many details of this siege are connected in too important a manner with the story we have undertaken to relate to allow us to pass it over in silence.

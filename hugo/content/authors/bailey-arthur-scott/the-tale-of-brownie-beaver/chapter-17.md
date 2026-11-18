@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Brownie Escapes"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-17.html"
 ---
 
 When the tree crashed down upon Brownie Beaver and held him fast, it was some time before he came to his senses. Then he did not know, at first, where he was nor what had happened to him. But at last he remembered that he had been cutting down a tree not far from the pond and he saw that it must have fallen upon him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Gayety And Dynamite"
 weight: 1
-aliases:
-  - "/authors/leroux-gaston/the-secret-of-the-night/chapter-01.html"
+url: "/authors/leroux-gaston/the-secret-of-the-night/chapter-01.html"
 ---
 
 "*BARINIA,* the young stranger has arrived."

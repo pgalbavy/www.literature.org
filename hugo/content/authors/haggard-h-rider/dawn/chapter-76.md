@@ -1,8 +1,7 @@
 ---
 title: "Chapter 76"
 weight: 77
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-76.html"
+url: "/authors/haggard-h-rider/dawn/chapter-76.html"
 ---
 
 Arthur read his letter, and his heart burnt with passionate love of the true woman he had dared to doubt. Then he flung himself upon the grass and looked at the ocean that sparkled and heaved before him, and tried to think; but as yet he could not. The engines of his mind were reversed full speed, whilst his mind itself, with quick shudders and confusion, still forged ahead upon its former course. He rose, and cast upon the scene around him that long look we give to the place where a great happiness has found us.

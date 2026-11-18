@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/cooper-courtney-ryley/the-white-desert/chapter-17.html"
+url: "/authors/cooper-courtney-ryley/the-white-desert/chapter-17.html"
 ---
 
 The former district attorney started slightly. Then, coming still closer, he peered into the tense, angry features of Barry Houston.

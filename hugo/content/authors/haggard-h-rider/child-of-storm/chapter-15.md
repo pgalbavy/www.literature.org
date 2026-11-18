@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Mameena Claims The Kiss"
 weight: 16
-aliases:
-  - "/authors/haggard-h-rider/child-of-storm/chapter-15.html"
+url: "/authors/haggard-h-rider/child-of-storm/chapter-15.html"
 ---
 
 When I reached Nodwengu I was taken ill and laid up in my wagon for about a fortnight. What my exact sickness was I do not know, for I had no doctor at hand to tell me, as even the missionaries had fled the country. Fever resulting from fatigue, exposure and excitement, and complicated with fearful headache--caused, I presume, by the blow which I received in the battle--were its principal symptoms.

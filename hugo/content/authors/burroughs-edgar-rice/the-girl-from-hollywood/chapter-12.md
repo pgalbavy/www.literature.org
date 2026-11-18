@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-12.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-12.html"
 ---
 
 As Gaza de Lure entered the house in which she roomed, her landlady came hastily from the living room.

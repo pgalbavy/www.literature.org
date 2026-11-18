@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-30.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-30.html"
 ---
 
 Mrs. Jennings came immediately to their room on her return, and without waiting to have her request of admittance answered, opened the door and walked in with a look of real concern.

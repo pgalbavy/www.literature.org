@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Learning To Fly"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-02.html"
 ---
 
 After Jolly Robin had gulped down the fat angleworm with which his father had coaxed him to leave the nest, he clung desperately to the limb. With no food in sight he had plenty of time to look about him and to be alarmed.

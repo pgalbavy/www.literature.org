@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Land?"
 weight: 19
-aliases:
-  - "/authors/verne-jules/an-antartic-mystery/chapter-19.html"
+url: "/authors/verne-jules/an-antartic-mystery/chapter-19.html"
 ---
 
 "Land" is the only word to be found at the beginning of the nineteenth chapter of Edgar Poe's book. I thought it would be a good idea—placing after it a note of interrogation—to put it as a heading to this portion of our narrative.

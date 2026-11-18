@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-01.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-01.html"
 ---
 
 It was late summer-time, and the perfume of flowers stole into the darkened room through the half-opened window. The sunlight forced its way through a chink in the blind, and stretched across the floor in strange zigzag fashion. From without came the pleasant murmur of bees and many lazier insects floating over the gorgeous flower beds, resting for a while on the clematis which had made the piazza a blaze of purple splendour. And inside, in a high-backed chair, there sat a man, his arms folded, his eyes fixed steadily upon vacancy. As he sat then, so had he sat for a whole day and a whole night. The faint sweet chorus of glad living things, which alone broke the deep silence of the house, seemed neither to disturb nor interest him. He sat there like a man turned to stone, his forehead riven by one deep line, his straight firm mouth set close and hard. His servant, the only living being who had approached him, had set food by his side, which now and then he had mechanically taken. Changeless as a sphinx, he had sat there in darkness and in light, whilst sunlight had changed to moonlight, and the songs of the birds had given place to the low murmuring of frogs from a lake below the lawns.

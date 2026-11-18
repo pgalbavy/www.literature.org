@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Mappo Meets Tum Tum"
 weight: 6
-aliases:
-  - "/authors/barnum-richard/mappo-the-merry-monkey/chapter-06.html"
+url: "/authors/barnum-richard/mappo-the-merry-monkey/chapter-06.html"
 ---
 
 Mappo did not know what a ship was, nor how it floated over the ocean from one country to another, blown by the wind or pushed by steam engines. The little monkey could not see much except the other monkeys in crates on the deck near him. Finally Mappo did hear a deep growl from somewhere behind him.

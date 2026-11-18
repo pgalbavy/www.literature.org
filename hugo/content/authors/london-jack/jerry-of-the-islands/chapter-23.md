@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 24
-aliases:
-  - "/authors/london-jack/jerry-of-the-islands/chapter-23.html"
+url: "/authors/london-jack/jerry-of-the-islands/chapter-23.html"
 ---
 
 One thing Jerry learned early on the Ariel, namely, that nigger- chasing was not permitted. Eager to please and serve his new gods, he took advantage of the first opportunity to worry a canoe-load of blacks who came visiting on board. The quick chiding of Villa and the command of Harley made him pause in amazement. Fully believing he had been mistaken, he resumed his ragging of the particular black he had picked upon. This time Harley's voice was peremptory, and Jerry came to him, his wagging tail and wriggling body all eagerness of apology, as was his rose-strip of tongue that kissed the hand of forgiveness with which Harley patted him.

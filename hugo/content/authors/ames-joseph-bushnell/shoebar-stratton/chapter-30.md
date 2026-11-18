@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - Lynch Scores"
 weight: 30
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-30.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-30.html"
 ---
 
 How long she stood there staring fearfully at the empty window of the shed, Mary Thorne had no idea. She seemed frozen and incapable of movement. But at last, with a shiver, she came to herself, and bending out, drew in the heavy wooden, shutters and fumbled with the catch. The bolt was stiff from disuse, and her hands shook so that she was scarcely able to thrust it into the socket. Still trembling, she closed and bolted the door and made fast the other windows. Then she paused in the middle of the room, slim fingers clenched tightly together, and heart beating loudly and unevenly.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Indian Honor"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-12.html"
 ---
 
 By this time the sun had reached the rim of the horizon, and the shadows were deepening under the trees. Deerfoot dropped further behind the Sauk and Pawnee, the three still pushing westward, which was opposite the course that would have been taken to reach the camp-fire. The highly trained senses of the young Shawanoe could hear and see nothing to show that his enemies were near at hand.

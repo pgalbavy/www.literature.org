@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - At Bay"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-25.html"
 ---
 
 The "old Indian" asserted itself in Deerfoot the Shawanoe. While every act, and in deed every thought, of the wonderful young warrior was prompted by conscience, yet his views of duty under certain circumstances, were fitted to bring a smile to the face of an impartial judge.

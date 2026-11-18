@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 28"
 weight: 28
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-01-chapter-28.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-01-chapter-28.html"
 ---
 
 Prince Andrew was to leave next evening. The old prince, not altering his routine, retired as usual after dinner. The little princess was in her sister-in-law's room. Prince Andrew in a traveling coat without epaulettes had been packing with his valet in the rooms assigned to him. After inspecting the carriage himself and seeing the trunks put in, he ordered the horses to be harnessed. Only those things he always kept with him remained in his room; a small box, a large canteen fitted with silver plate, two Turkish pistols and a saber- a present from his father who had brought it from the siege of Ochakov. All these traveling effects of Prince Andrew's were in very good order: new, clean, and in cloth covers carefully tied with tapes.

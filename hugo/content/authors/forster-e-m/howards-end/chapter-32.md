@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 32
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-32.html"
+url: "/authors/forster-e-m/howards-end/chapter-32.html"
 ---
 
 She was looking at plans one day in the following spring--they had finally decided to go down into Sussex and build--when Mrs. Charles Wilcox was announced.

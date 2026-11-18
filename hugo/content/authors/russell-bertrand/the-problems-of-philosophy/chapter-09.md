@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The World Of Universals"
 weight: 10
-aliases:
-  - "/authors/russell-bertrand/the-problems-of-philosophy/chapter-09.html"
+url: "/authors/russell-bertrand/the-problems-of-philosophy/chapter-09.html"
 ---
 
 At the end of the preceding chapter we saw that such entities as relations appear to have a being which is in some way different from that of physical objects, and also different from that of minds and from that of sense-data. In the present chapter we have to consider what is the nature of this kind of being, and also what objects there are that have this kind of being. We will begin with the latter question.

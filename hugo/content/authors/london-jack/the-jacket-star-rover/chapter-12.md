@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/london-jack/the-jacket-star-rover/chapter-12.html"
+url: "/authors/london-jack/the-jacket-star-rover/chapter-12.html"
 ---
 
 Now that I had learned the trick the way was easy. And I knew the way was bound to become easier the more I travelled it. Once establish a line of least resistance, every succeeding journey along it will find still less resistance. And so, as you shall see, my journeys from San Quentin life into other lives were achieved almost automatically as time went by.

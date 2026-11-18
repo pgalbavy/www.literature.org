@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 4"
 weight: 128
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-04.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-04.html"
 ---
 
 "They've come!" "Here he is!" "Which one?" "Rather young, eh?" "Why, my dear soul, she looks more dead than alive!" were the comments in the crowd, when Levin, meeting his bride in the entrance, walked with her into the church.

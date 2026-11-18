@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-28.html"
+url: "/authors/london-jack/john-barleycorn/chapter-28.html"
 ---
 
 Not yet was I ready to tuck my arm in John Barleycorn's. The older I got, the greater my success, the more money I earned, the wider was the command of the world that became mine and the more prominently did John Barleycorn bulk in my life. And still I maintained no more than a nodding acquaintance with him. I drank for the sake of sociability, and when alone I did not drink. Sometimes I got jingled, but I considered such jingles the mild price I paid for sociability.

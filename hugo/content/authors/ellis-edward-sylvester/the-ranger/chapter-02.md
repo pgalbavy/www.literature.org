@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Night Of Terror"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/the-ranger/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/the-ranger/chapter-02.html"
 ---
 
 Few words were interchanged during the evening. George and Rosalind had enough to occupy their minds, and Zeb, finding them taciturn, relapsed into a sullen silence.

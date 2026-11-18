@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/buck-charles-neville/the-key-to-yesterday/chapter-18.html"
+url: "/authors/buck-charles-neville/the-key-to-yesterday/chapter-18.html"
 ---
 
 On an unimportant cross street which cuts at right angles the Boulevard St. Michel, that axis of art-student Paris, stands an old and somewhat dilapidated house, built, after the same fashion as all its neighbors, about a court, and entered by a door over which the concierge presides. This house has had other years in which it stood pretentious, with the pride of a mansion, among its peers. Now, its splendor is tarnished, its respectability is faded, and the face it presents to the street wears the gloom that comes of past glory, heightened, perhaps, by the dark-spiritedness of many tenants who have failed to enroll their names among the great.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-11.html"
+url: "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-11.html"
 ---
 
 The Patchwork Girl, who never slept and who could see very well in the dark, had wandered among the rocks and bushes all night long, with the result that she was able to tell some good news the next morning. "Over the crest of the hill before us," she said, "is a big grove of trees of many kinds on which all sorts of fruits grow. If you will go there, you will find a nice breakfast awaiting you." This made them eager to start, so as soon as the blankets were folded and strapped to the back of the Sawhorse, they all took their places on the animals and set out for the big grove Scraps had told them of.

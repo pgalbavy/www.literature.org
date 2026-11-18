@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Grandfather Frog's Common-Sense"
 weight: 5
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-05.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-05.html"
 ---
 
 There is nothing quite like common sense to smooth out troubles. People who have plenty of just plain common sense are often thought to be very wise. Their neighbors look up to them and are forever running to them for advice, and they are very much respected. That is the way with Grandfather Frog. He is very old and very wise. Anyway, that is what his neighbors think. The truth is, he simply has a lot of common sense, which after all is the very best kind of wisdom.

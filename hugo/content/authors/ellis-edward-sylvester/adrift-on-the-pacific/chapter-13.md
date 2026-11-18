@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Oyster Bed"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-13.html"
 ---
 
 Little Inez Hawthorne was overrunning with delight at the prospect of a romp on shore, after having been confined so long in the cramped quarters of the schooner, and she was darting hither and thither, eager to start upon her frolic.

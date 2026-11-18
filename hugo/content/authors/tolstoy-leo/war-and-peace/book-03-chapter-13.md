@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 13"
 weight: 62
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-03-chapter-13.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-03-chapter-13.html"
 ---
 
 That same night, Rostov was with a platoon on skirmishing duty in front of Bagration's detachment. His hussars were placed along the line in couples and he himself rode along the line trying to master the sleepiness that kept coming over him. An enormous space, with our army's campfires dimly glowing in the fog, could be seen behind him; in front of him was misty darkness. Rostov could see nothing, peer as he would into that foggy distance: now something gleamed gray, now there was something black, now little lights seemed to glimmer where the enemy ought to be, now he fancied it was only something in his own eyes. His eyes kept closing, and in his fancy appeared- now the Emperor, now Denisov, and now Moscow memories- and he again hurriedly opened his eyes and saw close before him the head and ears of the horse he was riding, and sometimes, when he came within six paces of them, the black figures of hussars, but in the distance was still the same misty darkness. "Why not?... It might easily happen," thought Rostov, "that the Emperor will meet me and give me an order as he would to any other officer; he'll say: 'Go and find out what's there.' There are many stories of his getting to know an officer in just such a chance way and attaching him to himself! What if he gave me a place near him? Oh, how I would guard him, how I would tell him the truth, how I would unmask his deceivers!" And in order to realize vividly his love devotion to the sovereign, Rostov pictured to himself an enemy or a deceitful German, whom he would not only kill with pleasure but whom he would slap in the face before the Emperor. Suddenly a distant shout aroused him. He started and opened his eyes.

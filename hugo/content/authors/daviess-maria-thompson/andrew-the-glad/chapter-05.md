@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - David'S Rose And Some Thorns"
 weight: 5
-aliases:
-  - "/authors/daviess-maria-thompson/andrew-the-glad/chapter-05.html"
+url: "/authors/daviess-maria-thompson/andrew-the-glad/chapter-05.html"
 ---
 
 "Now," said David, "if you'll just put away a few of those ancient pipes and puddle your papers a bit in your own cozy corner we can call these quarters ready to receive the ladies, God bless 'em! Does it look kinder bare to you? We might borrow a few drapes from the madam, or would you trust to the flowers? I'll send them up for you to fix around tasty. A blasted poet ought to know how to bunch spinach to look well."

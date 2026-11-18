@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Garden of Live Flowers"
 weight: 2
-aliases:
-  - "/authors/carroll-lewis/through-the-looking-glass/chapter-02.html"
+url: "/authors/carroll-lewis/through-the-looking-glass/chapter-02.html"
 ---
 
 'I should see the garden far better,' said Alice to herself, 'if I could get to the top of that hill: and here's a path that leads straight to it -- at least, no, it doesn't do that -- ' (after going a few yards along the path, and turning several sharp corners), 'but I suppose it will at last. But how curiously it twists! It's more like a corkscrew than a path! Well, this turn goes to the hill, I suppose -- no, it doesn't! This goes straight back to the house! Well then, I'll try it the other way.'

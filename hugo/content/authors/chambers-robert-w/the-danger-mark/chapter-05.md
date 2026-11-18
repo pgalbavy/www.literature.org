@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Roya-Neh"
 weight: 5
-aliases:
-  - "/authors/chambers-robert-w/the-danger-mark/chapter-05.html"
+url: "/authors/chambers-robert-w/the-danger-mark/chapter-05.html"
 ---
 
 Late on a fragrant mid-June afternoon young Seagrave stood on the Long Terrace to welcome a guest whose advent completed a small house-party of twelve at Roya-Neh.

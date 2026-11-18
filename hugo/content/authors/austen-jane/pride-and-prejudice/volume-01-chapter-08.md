@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 8"
 weight: 8
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-08.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-08.html"
 ---
 
 At five o'clock the two ladies retired to dress, and at half past six Elizabeth was summoned to dinner. To the civil enquiries which then poured in, and amongst which she had the pleasure of distinguishing the much superior solicitude of Mr. Bingley's, she could not make a very favourable answer. Jane was by no means better. The sisters, on hearing this, repeated three or four times how much they were grieved, how shocking it was to have a bad cold, and how excessively they disliked being ill themselves; and then thought no more of the matter: and their indifference towards Jane when not immediately before them, restored Elizabeth to the enjoyment of all her original dislike.

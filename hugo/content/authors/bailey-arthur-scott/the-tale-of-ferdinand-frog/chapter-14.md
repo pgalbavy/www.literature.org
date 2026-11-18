@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - An Unpleasant Mix-Up"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-14.html"
 ---
 
 For a long time after he took the measurements of the Beaver family Mr. Frog kept carefully out of sight. Though several of the Beavers visited his shop every day, they always found the door locked and the shades drawn. But from various odd sounds--such as giggles and titters and snickers--which they heard by listening at the keyhole, they knew that the tailor was inside.

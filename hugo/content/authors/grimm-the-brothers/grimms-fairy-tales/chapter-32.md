@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - The White Snake"
 weight: 32
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-32.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-32.html"
 ---
 
 A long time ago there lived a king who was famed for his wisdom through all the land. Nothing was hidden from him, and it seemed as if news of the most secret things was brought to him through the air. But he had a strange custom; every day after dinner, when the table was cleared, and no one else was present, a trusty servant had to bring him one more dish. It was covered, however, and even the servant did not know what was in it, neither did anyone know, for the king never took off the cover to eat of it until he was quite alone.

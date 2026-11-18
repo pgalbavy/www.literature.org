@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Captive And Captors"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-13.html"
 ---
 
 Poor George Burton! After creeping close to the Indian camp fire, and using all the care he could, he had turned about to go back with the important news thus gained, when he found himself face to face with a gigantic warrior, who had stolen up behind him without the least noise that could betray his approach. For a moment the lad was speechless. Young as he was, he saw that he was helpless, but with a weak hope that the savage might be friendly, he said in a faint voice—

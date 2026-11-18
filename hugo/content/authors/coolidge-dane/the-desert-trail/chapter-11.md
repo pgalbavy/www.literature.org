@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/coolidge-dane/the-desert-trail/chapter-11.html"
+url: "/authors/coolidge-dane/the-desert-trail/chapter-11.html"
 ---
 
 The plaza at Fortuna, ordinarily so peaceful and sleepy, was alive with hurrying men when Bud and Phil reached town. Over at the station a special engine was wheezing and blowing after its heavy run and, from the train of commandeered ore-cars behind, a swarm of soldiers were leaping to the ground. On the porch of the hotel Don Juan de Dios Brachamonte was making violent signals with his hands, and as they rode up he hurried out to meet them.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-10.html"
+url: "/authors/london-jack/martin-eden/chapter-10.html"
 ---
 
 He stopped to dinner that evening, and, much to Ruth's satisfaction, made a favorable impression on her father. They talked about the sea as a career, a subject which Martin had at his finger-ends, and Mr. Morse remarked afterward that he seemed a very clear-headed young man. In his avoidance of slang and his search after right words, Martin was compelled to talk slowly, which enabled him to find the best thoughts that were in him. He was more at ease than that first night at dinner, nearly a year before, and his shyness and modesty even commended him to Mrs. Morse, who was pleased at his manifest improvement.

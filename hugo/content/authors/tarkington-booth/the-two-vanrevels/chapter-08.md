@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Tale Of A Political Difference"
 weight: 8
-aliases:
-  - "/authors/tarkington-booth/the-two-vanrevels/chapter-08.html"
+url: "/authors/tarkington-booth/the-two-vanrevels/chapter-08.html"
 ---
 
 Mr. Carewe was already at the breakfast-table, but the light of his countenance, hidden behind the Rouen Journal, was not vouchsafed to his daughter when she took her place opposite him, nor did he see fit to return her morning greeting, from which she generously concluded that the burning of the two warehouses had meant a severe loss to him.

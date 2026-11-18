@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 4"
 weight: 161
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-04.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-04.html"
 ---
 
 Varenka, with her white kerchief on her black hair, surrounded by the children, gaily and good-humoredly looking after them, and at the same time visibly excited at the possibility of receiving a declaration from the man she cared for, was very attractive. Sergey Ivanovitch walked beside her, and never left off admiring her. Looking at her, he recalled all the delightful things he had heard from her lips, all the good he knew about her, and became more and more conscious that the feeling he had for her was something special that he had felt long, long ago, and only once, in his early youth. The feeling of happiness in being near her continually grew, and at last reached such a point that, as he put a huge, slender-stalked agaric fungus in her basket, he looked straight into her face, and noticing the flush of glad and alarmed excitement that overspread her face, he was confused himself, and smiled to her in silence a smile that said too much.

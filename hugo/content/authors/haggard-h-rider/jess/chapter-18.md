@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - And After"
 weight: 18
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-18.html"
+url: "/authors/haggard-h-rider/jess/chapter-18.html"
 ---
 
 In front of the door of “The Palatial” was a garden-bed filled with weeds and flowers mixed up together like the good and evil in the heart of a man, and to the right-hand side of this bed stood an old and backless wooden chair. No sooner had John limped outside the door of the cottage than he became sensible that, what between one thing and another--weariness, loss of blood from his wound, and intense mental emotion--if he did not sit down somewhere quickly, he should follow the example set by Jess and faint away. Accordingly he steered for the old chair and sank into it with gratitude. Presently he saw Mrs. Neville running up the path with a bottle of brandy in her hand.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-07.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-07.html"
 ---
 
 When Cal Maggard closed and locked his cabin door late the next afternoon he stood regarding with sombre eyes his message of defiance which, it seemed, no one had come to read.

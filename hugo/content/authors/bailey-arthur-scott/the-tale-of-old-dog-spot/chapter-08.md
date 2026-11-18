@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - What Red Did"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-08.html"
 ---
 
 Old dog Spot was trotting down the road from the mill pond, carrying a bundle of somebody's clothes in his mouth. When he heard frantic shouts from the water, where Johnnie Green and his friends were swimming, he quickened his pace.

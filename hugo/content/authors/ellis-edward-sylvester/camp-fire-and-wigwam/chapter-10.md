@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Waiting And Hoping"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-10.html"
 ---
 
 It would be hard to measure the effect of the little achievement of Jack Carleton upon the Indians who held him captive. He had pronounced the name of the chieftain with such clearness that every one recognized it. After all it was no great exploit, and it may have been the red men feigned a goodly portion of the astonishment they seemed to feel.

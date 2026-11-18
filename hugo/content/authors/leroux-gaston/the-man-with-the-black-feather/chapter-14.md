@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Operation Begins"
 weight: 15
-aliases:
-  - "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-14.html"
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-14.html"
 ---
 
 It is to M. Lecamus that we owe the account of the operation which M. Eliphas de Saint-Elme de Taillebourg de la Nox thought it his duty to perform on Theophrastus Longuet. His account of it, apparently written for the Pneumatic Club, at the instance of Theophrastus himself, is among the papers in the sandalwood box. It runs:

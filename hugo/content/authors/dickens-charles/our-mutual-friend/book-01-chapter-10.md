@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 10 - A Marriage Contract"
 weight: 10
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-01-chapter-10.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-01-chapter-10.html"
 ---
 
 There is excitement in the Veneering mansion. The mature young lady is going to be married (powder and all) to the mature young gentleman, and she is to be married from the Veneering house, and the Veneerings are to give the breakfast. The Analytical, who objects as a matter of principle to everything that occurs on the premises, necessarily objects to the match; but his consent has been dispensed with, and a spring-van is delivering its load of greenhouse plants at the door, in order that to-morrow’s feast may be crowned with flowers.

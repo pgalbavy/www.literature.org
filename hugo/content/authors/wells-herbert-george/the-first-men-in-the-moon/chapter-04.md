@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Inside The Sphere"
 weight: 4
-aliases:
-  - "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-04.html"
+url: "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-04.html"
 ---
 
 "GO ON," said Cavor, as I sat across the edge of the manhole, and looked down into the black interior of the sphere. We two were alone. It was evening, the sun had set, and the stillness of the twilight was upon everything.

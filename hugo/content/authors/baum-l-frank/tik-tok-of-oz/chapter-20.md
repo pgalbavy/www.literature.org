@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/baum-l-frank/tik-tok-of-oz/chapter-20.html"
+url: "/authors/baum-l-frank/tik-tok-of-oz/chapter-20.html"
 ---
 
 When the chief nomes assembled before their new King they joyfully saluted him and promised to obey his commands. But, when Kaliko questioned them, none knew the way to the Metal Forest, although all had assisted in its making. So the King instructed them to search carefully for one of the passages and to bring him the news as soon as they had found it.

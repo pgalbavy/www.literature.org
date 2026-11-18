@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/baum-l-frank/glinda-of-oz/chapter-15.html"
+url: "/authors/baum-l-frank/glinda-of-oz/chapter-15.html"
 ---
 
 Betsy and Trot, when they heard of the rescue expedition, begged the Wizard to permit them to join it and he consented. The Glass Cat, overhearing the conversation, wanted to go also and to this the Wizard made no objection.

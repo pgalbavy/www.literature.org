@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/burroughs-edgar-rice/the-land-that-time-forgot/chapter-09.html"
+url: "/authors/burroughs-edgar-rice/the-land-that-time-forgot/chapter-09.html"
 ---
 
 As I stood looking down upon that sad and lonely mound, wrapped in the most dismal of reflections and premonitions, I was suddenly seized from behind and thrown to earth. As I fell, a warm body fell on top of me, and hands grasped my arms and legs. When I could look up, I saw a number of giant fingers pinioning me down, while others stood about surveying me. Here again was a new type of man--a higher type than the primitive tribe I had just quitted. They were a taller people, too, with better-shaped skulls and more intelligent faces. There were less of the ape characteristics about their features, and less of the negroid, too. They carried weapons, stone-shod spears, stone knives, and hatchets-- and they wore ornaments and breech-cloths--the former of feathers worn in their hair and the latter made of a single snake-skin cured with the head on, the head depending to their knees.

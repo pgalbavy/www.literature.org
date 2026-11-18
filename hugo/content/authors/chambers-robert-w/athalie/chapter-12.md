@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-12.html"
+url: "/authors/chambers-robert-w/athalie/chapter-12.html"
 ---
 
 Athalie ventured to send some Madonna lilies with no card attached; but even the thought of her white flowers crossing the threshold of Clive's world—although it was because of her devotion to him alone that she dared salute his dead—left her sensitively concerned, wondering whether it had been a proper thing for her to do.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/chambers-robert-w/the-business-of-life/chapter-11.html"
+url: "/authors/chambers-robert-w/the-business-of-life/chapter-11.html"
 ---
 
 Nobody, apparently, was yet astir; not a breakfast tray had yet tinkled along the dusky corridors when Desboro, descending the stairs in the dim morning light, encountered Jacqueline coming from the general direction of the east wing, her arms loaded with freshly cut white carnations.

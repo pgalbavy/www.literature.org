@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-01.html"
+url: "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-01.html"
 ---
 
 The sun had set, and the shadows were deepening in the big barn. The last red glow—the very last bit which reached the corner the children called the Straw Parlor—had died away, and Meg drew her knees up higher, so as to bring the pages of her book nearer to her eyes as the twilight deepened, and it became harder to read. It was her bitterest grievance that this was what always happened when she became most interested and excited—the light began to fade away, and the shadows to fill all the corners and close in about her.

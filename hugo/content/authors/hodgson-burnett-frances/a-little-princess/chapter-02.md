@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A French Lesson"
 weight: 3
-aliases:
-  - "/authors/hodgson-burnett-frances/a-little-princess/chapter-02.html"
+url: "/authors/hodgson-burnett-frances/a-little-princess/chapter-02.html"
 ---
 
 When Sara entered the school-room the next morning everybody looked at her with wide, interested eyes. By that time every pupil--from Lavinia Herbert, who was nearly thirteen and felt quite grown up, to Lottie Legh, who was only just four and the baby of the school--had heard a great deal about her. They knew very certainly that she was Miss Minchin's show pupil and was considered a credit to the establishment. One or two of them had even caught a glimpse of her French maid, Mariette, who had arrived the evening before. Lavinia had managed to pass Sara's room when the door was open, and had seen Mariette opening a box which had arrived late from some shop.

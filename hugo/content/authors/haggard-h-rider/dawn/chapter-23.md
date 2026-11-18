@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 24
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-23.html"
+url: "/authors/haggard-h-rider/dawn/chapter-23.html"
 ---
 
 Pigott, Angela's old nurse, was by no means sorry to hear of Arthur's visit to the Abbey House, though, having in her youth been a servant in good houses, she was distressed at the nature of his reception. But, putting this aside, she thought it high time that her darling should see a young man or two, that she might "learn what the world was like." Pigott was no believer in female celibacy, and Angela's future was a frequent subject of meditation with her, for she knew very well that her present mode of life was scarcely suited either to her birth, her beauty, or her capabilities. Not that she ever, in her highest flights, imagined Angela as a great lady, or one of society's shining stars; she loved to picture her in some quiet, happy home, beloved by her husband, and surrounded by children as beautiful as herself. It was but a moderate ambition for one so peerlessly endowed, but she would have been glad to see it fulfilled. For of late years there had sprung up in nurse Pigott's mind an increasing dislike of her surroundings, which sometimes almost amounted to a feeling of horror. Philip she had always detested, with his preoccupied air and uncanny ways.

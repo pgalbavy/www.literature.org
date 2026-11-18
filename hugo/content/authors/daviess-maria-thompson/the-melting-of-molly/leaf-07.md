@@ -1,8 +1,7 @@
 ---
 title: "Leaf 7 - Dashed!"
 weight: 7
-aliases:
-  - "/authors/daviess-maria-thompson/the-melting-of-molly/leaf-07.html"
+url: "/authors/daviess-maria-thompson/the-melting-of-molly/leaf-07.html"
 ---
 
 I do believe God gave that wise angel charge concerning me lest I get dashed, but I just got dashed anyway, and its my own fault, not the angel's. I have suffered this day until I want to lay my face down against the hem of His garment and wait in the dust for Him to pick me up. I shall never be able to do it myself, and how He's going to do it I can't see, but He will.

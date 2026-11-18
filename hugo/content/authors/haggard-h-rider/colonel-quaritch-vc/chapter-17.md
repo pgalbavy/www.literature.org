@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Tigress In Her Den"
 weight: 17
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-17.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-17.html"
 ---
 
 Presently a hansom cab came rattling down the street and pulled up at the door.

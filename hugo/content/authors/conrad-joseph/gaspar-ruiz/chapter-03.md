@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/conrad-joseph/gaspar-ruiz/chapter-03.html"
+url: "/authors/conrad-joseph/gaspar-ruiz/chapter-03.html"
 ---
 
 "*YES,* my friends," he used to say to his guests, "what would you have? A youth of seventeen summers, without worldly experience, and owing my rank only to the glorious patriotism of my father, may God rest his soul, I suffered immense humiliation, not so much from the disobedience of That subordinate, who, alter all, was responsible for those prisoners; but I suffered because, like the boy I was, I myself dreaded going to the adjutant for the key. I had felt, before, his rough and cutting tongue. Being quite a common fellow, with no merit except his savage valour, he made me feel his contempt and dislike from the first day I joined my battalion in garrison at the fort. It was only a fortnight before! I would have confronted him sword in hand, but I shrank from the mocking brutality of his sneers.

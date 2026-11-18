@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - The Physician's Opinion"
 weight: 32
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-31.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-31.html"
 ---
 
 SIX months have elapsed. Summer-time has come again.

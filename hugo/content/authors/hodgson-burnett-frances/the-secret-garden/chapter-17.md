@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Tantrum"
 weight: 17
-aliases:
-  - "/authors/hodgson-burnett-frances/the-secret-garden/chapter-17.html"
+url: "/authors/hodgson-burnett-frances/the-secret-garden/chapter-17.html"
 ---
 
 She had got up very early in the morning and had worked hard in the garden and she was tired and sleepy, so as soon as Martha had brought her supper and she had eaten it, she was glad to go to bed. As she laid her head on the pillow she murmured to herself:

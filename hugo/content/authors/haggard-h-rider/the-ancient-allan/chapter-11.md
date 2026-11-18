@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Holy Tanofir"
 weight: 11
-aliases:
-  - "/authors/haggard-h-rider/the-ancient-allan/chapter-11.html"
+url: "/authors/haggard-h-rider/the-ancient-allan/chapter-11.html"
 ---
 
 We entered the City of Graves that is called Sekera. In the centre towered pyramids that hid the bones of ancient and forgotten kings, and everywhere around upon the desert sands was street upon street of monuments, but save for a priest or two hurrying to patter his paid office in the funeral chapels of the departed, never a living man. Bes looked about him and sniffed with his wide nostrils.

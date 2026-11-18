@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Troublesome Wishbone"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-10.html"
 ---
 
 Solomon Owl had pains—sharp pains—underneath his waistcoat. And not knowing what else to do, he set off at once for Aunt Polly Woodchuck’s house under the hill, in the pasture, which he had not visited since the previous fall. Luckily, he found the old lady at home. And quickly he told her of his trouble.

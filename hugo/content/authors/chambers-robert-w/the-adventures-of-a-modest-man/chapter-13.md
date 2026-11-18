@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Chance Acquaintance"
 weight: 13
-aliases:
-  - "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-13.html"
+url: "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-13.html"
 ---
 
 Well, then, the way that Ellis and Jones met each other—and several other things—was this. It chanced to be in the northern forests, I believe—both were fishing, neither knew the other nor was even aware of their mutual proximity.

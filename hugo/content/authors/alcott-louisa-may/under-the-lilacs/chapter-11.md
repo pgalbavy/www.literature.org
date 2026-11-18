@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Sunday"
 weight: 11
-aliases:
-  - "/authors/alcott-louisa-may/under-the-lilacs/chapter-11.html"
+url: "/authors/alcott-louisa-may/under-the-lilacs/chapter-11.html"
 ---
 
 Mrs. Moss woke Ben with a kiss next morning, for her heart yearned over the fatherless lad as if he had been her own, and she had no other way of showing her sympathy. Ben had forgotten his troubles in sleep; but the memory of them returned as soon as he opened his eyes, heavy with the tears they had shed. He did not cry any more, but felt strange and lonely till he called Sancho and told him all about it, for he was shy even with kind Mrs. Moss, and glad when she went away.

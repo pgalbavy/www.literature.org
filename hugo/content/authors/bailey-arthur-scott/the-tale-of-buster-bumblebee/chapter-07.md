@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Jugful Of Bumblebees"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-07.html"
 ---
 
 When the workers--as well as Buster Bumblebee--heard the raking, scraping sound in the hall of their house they all stopped what they were doing and shrilled "An enemy!" And with one accord they rushed for the front door. They were terribly angry.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42"
 weight: 42
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-42.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-42.html"
 ---
 
 When Victor McCalloway came home in June he read in the face of the young man he met there that chapters deeply shadowed had been written into his life, and Boone was prompt enough in his confessions, though when he alluded to Anne's approaching marriage his words became meagre and his utterance flat with a hampering distrust of emotion and self-betrayal.

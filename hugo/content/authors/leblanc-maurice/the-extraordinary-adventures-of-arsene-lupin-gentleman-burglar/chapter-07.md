@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Madame Imbert’s Safe"
 weight: 7
-aliases:
-  - "/authors/leblanc-maurice/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/chapter-07.html"
+url: "/authors/leblanc-maurice/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/chapter-07.html"
 ---
 
 At three o’clock in the morning, there were still half a dozen carriages in front of one of those small houses which form only the side of the boulevard Berthier. The door of that house opened, and a number of guests, male and female, emerged. The majority of them entered their carriages and were quickly driven away, leaving behind only two men who walked down Courcelles, where they parted, as one of them lived in that street. The other decided to return on foot as far as the Porte-Maillot. It was a beautiful winter’s night, clear and cold; a night on which a brisk walk is agreeable and refreshing.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Anxieties"
 weight: 6
-aliases:
-  - "/authors/leblanc-maurice/the-three-eyes/chapter-06.html"
+url: "/authors/leblanc-maurice/the-three-eyes/chapter-06.html"
 ---
 
 "You seem very happy, uncle!" said I to Noël Dorgeroux, who walked briskly on the way to the station, whistling one gay tune after another.

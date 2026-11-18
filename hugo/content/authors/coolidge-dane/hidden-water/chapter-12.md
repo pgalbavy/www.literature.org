@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Garden In The Desert"
 weight: 12
-aliases:
-  - "/authors/coolidge-dane/hidden-water/chapter-12.html"
+url: "/authors/coolidge-dane/hidden-water/chapter-12.html"
 ---
 
 The sun was well up over the cañon rim when the tired visitors awoke from their dreams. Kitty Bonnair was the first to open her eyes and peep forth upon the fairy world which promised so much of mystery and delight. The iron bars of their window, deep set in the adobe walls, suggested the dungeon of some strong prison where Spanish maidens languished for sight of their lovers; a rifle in the corner, overlooked in the hurried moving, spoke eloquently of the armed brutality of the times; the hewn logs which supported the lintels completed the picture of primitive life; and a soft breeze, breathing in through the unglazed sills, whispered of dark cañons and the wild, free out-of-doors.

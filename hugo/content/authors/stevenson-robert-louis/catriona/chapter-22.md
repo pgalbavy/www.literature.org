@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Helvoetsluys"
 weight: 23
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-22.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-22.html"
 ---
 
 The weather in the end considerably worsened; the wind sang in the shrouds, the sea swelled higher, and the ship began to labour and cry out among the billows. The song of the leadsman in the chains was now scarce ceasing, for we thrid all the way among shoals. About nine in the morning, in a burst of wintry sun between two squalls of hail, I had my first look of Holland—a line of windmills birling in the breeze. It was besides my first knowledge of these daft-like contrivances, which gave me a near sense of foreign travel and a new world and life. We came to an anchor about half-past eleven, outside the harbour of Helvoetsluys, in a place where the sea sometimes broke and the ship pitched outrageously. You may be sure we were all on deck save Mrs. Gebbie, some of us in cloaks, others mantled in the ship’s tarpaulins, all clinging on by ropes, and jesting the most like old sailor-folk that we could imitate.

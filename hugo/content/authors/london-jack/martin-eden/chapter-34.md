@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 34
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-34.html"
+url: "/authors/london-jack/martin-eden/chapter-34.html"
 ---
 
 Arthur remained at the gate while Ruth climbed Maria's front steps. She heard the rapid click of the type-writer, and when Martin let her in, found him on the last page of a manuscript. She had come to make certain whether or not he would be at their table for Thanksgiving dinner; but before she could broach the subject Martin plunged into the one with which he was full.

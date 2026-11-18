@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-22.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-22.html"
 ---
 
 IT seems to me that no man born and truthful to himself could declare that he ever saw the sea looking young as the earth looks young in spring. But some of us, regarding the ocean with understanding and affection, have seen it looking old, as if the immemorial ages had been stirred up from the undisturbed bottom of ooze. For it is a gale of wind that makes the sea look old.

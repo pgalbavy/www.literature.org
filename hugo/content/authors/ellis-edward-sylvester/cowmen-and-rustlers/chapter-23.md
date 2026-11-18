@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - At Bay"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-23.html"
 ---
 
 Capt. Asbury drew a cigar from his pocket and lit it, first offering one to each of his companions. He puffed in silence for a minute or two, evidently absorbed in thought. He was a veteran of the civil war, and had learned to be cool in dangerous crises.

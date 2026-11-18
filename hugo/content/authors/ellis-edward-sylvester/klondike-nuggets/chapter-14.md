@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Prospecting"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-14.html"
 ---
 
 After the departure of Hardman, Jeff explained to Tim why he had driven him from their company. He told what Frank had seen when crossing Lake Lindeman, and how the fellow afterward, when he thought all were asleep within the tent, went out to meet his confederate.

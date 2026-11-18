@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Peace Interviews The Bishop"
 weight: 9
-aliases:
-  - "/authors/brown-ruth-alberta/heart-of-gold/chapter-09.html"
+url: "/authors/brown-ruth-alberta/heart-of-gold/chapter-09.html"
 ---
 
 "Well," sighed the President, laying down the evening paper and leaning wearily back among the cushions of his great Morris chair, "it really looks as if South Avenue Church is to have Dr. Henry Shumway for its pastor this year."

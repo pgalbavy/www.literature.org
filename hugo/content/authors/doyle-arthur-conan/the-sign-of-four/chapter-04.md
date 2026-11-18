@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Story of the Bald-Headed Man"
 weight: 4
-aliases:
-  - "/authors/doyle-arthur-conan/the-sign-of-four/chapter-04.html"
+url: "/authors/doyle-arthur-conan/the-sign-of-four/chapter-04.html"
 ---
 
 We followed the Indian down a sordid and common passage, ill-lit and worse furnished, until he came to a door upon the right, which he threw open. A blaze of yellow light streamed out upon us, and in the centre of the glare there stood a small man with a very high head, a bristle of red hair all round the fringe of it, and a bald, shining scalp which shot out from among it like a mountain-peak from fir-trees. He writhed his hands together as he stood, and his features were in a perpetual jerk -- now smiling, now scowling, but never for an instant in repose. Nature had given him a pendulous lip, and a too visible line of yellow and irregular teeth, which he strove feebly to conceal by constantly passing his hand over the lower part of his face. In spite of his obtrusive baldness he gave the impression of youth. In point of fact, he had just turned his thirtieth year.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Night In The Mountains"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-09.html"
 ---
 
 One of the singular facts connected with the *crotalus* species is the ease with which it is killed. The writer once ended the career of a huge specimen with a single blow of a whip-lash. The first impact of Fred Greenwood's rifle-barrel upon the hideous reptile coiled in the scrub bushes inflicted a fatal wound, though the serpent continued blindly striking for a minute or two longer, and responded viciously to the attack of the scared and angry Jack Dudley, who struck it several times after it had ceased to struggle and all danger was past. A person's first impulse, after being bitten by a snake, is to kill it, after which he looks after the wound he may have received.

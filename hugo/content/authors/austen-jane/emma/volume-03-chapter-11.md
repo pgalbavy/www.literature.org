@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 11"
 weight: 47
-aliases:
-  - "/authors/austen-jane/emma/volume-03-chapter-11.html"
+url: "/authors/austen-jane/emma/volume-03-chapter-11.html"
 ---
 
 “Harriet, poor Harriet!”--Those were the words; in them lay the tormenting ideas which Emma could not get rid of, and which constituted the real misery of the business to her. Frank Churchill had behaved very ill by herself--very ill in many ways,--but it was not so much his behaviour as her own, which made her so angry with him. It was the scrape which he had drawn her into on Harriet's account, that gave the deepest hue to his offence.--Poor Harriet! to be a second time the dupe of her misconceptions and flattery. Mr. Knightley had spoken prophetically, when he once said, “Emma, you have been no friend to Harriet Smith.”--She was afraid she had done her nothing but disservice.--It was true that she had not to charge herself, in this instance as in the former, with being the sole and original author of the mischief; with having suggested such feelings as might otherwise never have entered Harriet's imagination; for Harriet had acknowledged her admiration and preference of Frank Churchill before she had ever given her a hint on the subject; but she felt completely guilty of having encouraged what she might have repressed. She might have prevented the indulgence and increase of such sentiments. Her influence would have been enough. And now she was very conscious that she ought to have prevented them.--She felt that she had been risking her friend's happiness on most insufficient grounds. Common sense would have directed her to tell Harriet, that she must not allow herself to think of him, and that there were five hundred chances to one against his ever caring for her.--“But, with common sense,” she added, “I am afraid I have had little to do.”

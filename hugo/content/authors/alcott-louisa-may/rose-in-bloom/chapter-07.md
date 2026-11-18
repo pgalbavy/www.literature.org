@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Phebe"
 weight: 8
-aliases:
-  - "/authors/alcott-louisa-may/rose-in-bloom/chapter-07.html"
+url: "/authors/alcott-louisa-may/rose-in-bloom/chapter-07.html"
 ---
 
 While Rose was making discoveries and having experiences, Phebe was doing the same in a quieter way, but though they usually compared notes during the bedtime tete-a-tete which always ended their day, certain topics were never mentioned, so each had a little world of her own into which even the eye of friendship did not peep.

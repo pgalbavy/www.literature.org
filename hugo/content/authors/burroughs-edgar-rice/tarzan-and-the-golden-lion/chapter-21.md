@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - An Escape And A Capture"
 weight: 21
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-21.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-21.html"
 ---
 
 AT sight of the true Tarzan, Esteban Miranda turned and fled blindly into the jungle. His heart was cold with terror as he rushed on in blind fear. He had no objective in mind. He did not know in what direction he was going. His only thought—the thought which dominated him—was based solely upon a desire to put as much distance as possible between himself and the ape-man, and so he blundered on, forcing his way through dense thickets of thorns that tore and lacerated his flesh until, at every step he left a trail of blood behind him.

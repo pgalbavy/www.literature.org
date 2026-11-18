@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 2 - Margaret In London"
 weight: 6
-aliases:
-  - "/authors/wells-herbert-george/the-new-machiavelli/book-02-chapter-02.html"
+url: "/authors/wells-herbert-george/the-new-machiavelli/book-02-chapter-02.html"
 ---
 
 1

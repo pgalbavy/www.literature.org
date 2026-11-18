@@ -1,8 +1,7 @@
 ---
 title: "chapter 31"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-31.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-31.html"
 ---
 
 When they brought the body home, the next morning, Gudrun was shut up in her room. From her window she saw men coming along with a burden, over the snow. She sat still and let the minutes go by.

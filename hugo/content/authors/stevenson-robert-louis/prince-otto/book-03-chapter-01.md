@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 1 - Princess Cinderella"
 weight: 21
-aliases:
-  - "/authors/stevenson-robert-louis/prince-otto/book-03-chapter-01.html"
+url: "/authors/stevenson-robert-louis/prince-otto/book-03-chapter-01.html"
 ---
 
 The porter, drawn by the growing turmoil, had vanished from the postern, and the door stood open on the darkness of the night. As Seraphina fled up the terraces, the cries and loud footing of the mob drew nearer the doomed palace; the rush was like the rush of cavalry; the sound of shattering lamps tingled above the rest; and, overtowering all, she heard her own name bandied among the shouters. A bugle sounded at the door of the guard-room; one gun was fired; and then with the yell of hundreds, Mittwalden Palace was carried at a rush.

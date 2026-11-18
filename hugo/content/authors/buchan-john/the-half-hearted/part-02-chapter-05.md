@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 5 - The Tactics Of A Chief"
 weight: 24
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-02-chapter-05.html"
+url: "/authors/buchan-john/the-half-hearted/part-02-chapter-05.html"
 ---
 
 There is another quarter in Bardur besides the English one. Down by the stream side there are narrow streets built on the scarp of the rock, hovels with deep rock cellars, and a wonderful amount of cubic space beneath the brushwood thatch. There the trader from Yarkand who has contraband wares to dispose of may hold a safe market. And if you were to go at nightfall into this quarter, where the foot of the Kashmir policeman rarely penetrates, you might find shaggy tribesmen who have been all their lives outlaws, walking unmolested to visit their friends, and certain Jewish gentlemen, members of the great family who have conquered the world, engaged in the pursuit of their unlawful calling.

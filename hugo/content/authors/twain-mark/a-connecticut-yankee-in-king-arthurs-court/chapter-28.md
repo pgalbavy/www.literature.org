@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Drilling the King"
 weight: 29
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-28.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-28.html"
 ---
 
 ON the morning of the fourth day, when it was just sunrise, and we had been tramping an hour in the chill dawn, I came to a resolution: the king MUST be drilled; things could not go on so, he must be taken in hand and deliberately and conscientiously drilled, or we couldn't ever venture to enter a dwelling; the very cats would know this masquerader for a humbug and no peasant. So I called a halt and said:

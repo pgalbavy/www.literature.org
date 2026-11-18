@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - M. Lenormand Opens His Campaign"
 weight: 4
-aliases:
-  - "/authors/leblanc-maurice/813/chapter-03.html"
+url: "/authors/leblanc-maurice/813/chapter-03.html"
 ---
 
 "Auguste, show M. Lenormand in."

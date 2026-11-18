@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Major's Trouble"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-16.html"
 ---
 
 After Major Monkey fled from Johnnie Green and his friends in the picnic grove, his generals declared that they wanted no leader that ran away from the enemy. And since they couldn't agree on anyone else to take the Major's place, they disbanded.

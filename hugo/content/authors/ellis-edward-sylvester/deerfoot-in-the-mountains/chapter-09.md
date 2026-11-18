@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - In The Rockies"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-09.html"
 ---
 
 There was wonderful virtue in the remedy used by the dwarf Indian. You and I know that in many a mountaineer's cabin and barbarian's wigwam are found curatives which surpass anything known to what we call medical science. The proofs of this fact are too numerous to be questioned.

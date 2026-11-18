@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Fatty Coon's Mistake"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-04.html"
 ---
 
 Fatty Coon was very fond of squirrels. And you may think it strange when I tell you that not one of the squirrels anywhere around Blue Mountain was the least bit fond of Fatty Coon. But when I say that Fatty Coon was fond of squirrels, I mean that he liked to eat them. So of course you will understand now why the squirrels did not care for Fatty at all. In fact, they usually kept just as far away from him as they could.

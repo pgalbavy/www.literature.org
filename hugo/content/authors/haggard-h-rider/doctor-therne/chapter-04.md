@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Stephen Strong Goes Bail"
 weight: 5
-aliases:
-  - "/authors/haggard-h-rider/doctor-therne/chapter-04.html"
+url: "/authors/haggard-h-rider/doctor-therne/chapter-04.html"
 ---
 
 Great are the uses of advertisement! When I went into my consulting-room after breakfast that day I found three patients waiting to see me, one of them a member of a leading family in the city.

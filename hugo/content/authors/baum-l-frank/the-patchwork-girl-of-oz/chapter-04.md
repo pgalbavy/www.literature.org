@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-04.html"
+url: "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-04.html"
 ---
 
 The cat was made of glass, so clear and transparent that you could see through it as easily as through a window. In the top of its head, however, Was a mass of delicate pink balls which looked like jewels, and it had a heart made of a blood-red ruby. The eyes were two large emeralds, but aside from these colors all the rest of the animal was clear glass, and it had a spun- glass tail that was really beautiful.

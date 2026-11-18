@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Golden Lion"
 weight: 1
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-01.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-01.html"
 ---
 
 SABOR, the lioness, suckled her young—a single fuzzy ball, spotted like Sheeta, the leopard. She lay in the warm sunshine before the rocky cavern that was her lair, stretched out upon her side with half closed eyes, yet Sabor was alert. There had been three of these little, fuzzy balls at first—two daughters and a son—and Sabor and Numa, their sire, had been proud of them; proud and happy. But kills had not been plentiful, and Sabor, undernourished, had been unable to produce sufficient milk to nourish properly three lusty cubs, and then a cold rain had come, and the little ones had sickened. Only the strongest survived—the two daughters had died. Sabor had mourned, pacing to and fro beside the pitiful bits of bedraggled fur, whining and moaning. Now and again she would nose them with her muzzle as though she would awaken them from the long sleep that knows no waking. At last, however, she abandoned her efforts, and now her whole savage heart was filled with concern for the little male cub that remained to her. That was why Sabor was more alert than usual.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/tarkington-booth/the-flirt/chapter-11.html"
+url: "/authors/tarkington-booth/the-flirt/chapter-11.html"
 ---
 
 "Oh, *come* in, Laura!" cried her sister, as Laura appeared in the doorway. "Don't *stand* there! Come in if you want to take part in a grand old family row!" With a furious and tear-stained face, she was confronting her father who stood before her in a resolute attitude and a profuse perspiration. "Shut the door!" shouted Cora violently, adding, as Laura obeyed, "Do you want that little Pest in here? Probably he's eavesdropping anyway. But what difference does it make? I don't care. Let him hear! Let anybody hear that wants to! They can hear how I'm tortured if they like. I didn't close my eyes last night, and now I'm being tortured. Papa!" She stamped her foot. "Are you going to take back that insult to me?"

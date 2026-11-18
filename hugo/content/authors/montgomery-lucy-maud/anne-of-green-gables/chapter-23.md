@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Anne Comes to Grief in an Affair of Honor"
 weight: 23
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-23.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-23.html"
 ---
 
 Anne had to live through more than two weeks, as it happened. Almost a month having elapsed since the liniment cake episode, it was high time for her to get into fresh trouble of some sort, little mistakes, such as absentmindedly emptying a pan of skim milk into a basket of yarn balls in the pantry instead of into the pigs' bucket, and walking clean over the edge of the log bridge into the brook while wrapped in imaginative reverie, not really being worth counting.

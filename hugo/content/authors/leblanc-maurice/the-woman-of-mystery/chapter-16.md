@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Impossible Struggle"
 weight: 16
-aliases:
-  - "/authors/leblanc-maurice/the-woman-of-mystery/chapter-16.html"
+url: "/authors/leblanc-maurice/the-woman-of-mystery/chapter-16.html"
 ---
 
 In the terrible state of distress into which those last words threw him, Paul felt the need of some immediate action, even as he had done at the sight of the banquet given by Prince Conrad. Certainly, all hope was lost. His plan, which was to use the tunnel before the alarm was raised, his plan was shattered. Granting that he succeeded in finding Élisabeth and delivering her, a very unlikely contingency, at what moment would this take place? And how was he afterwards to escape the enemy and return to France?

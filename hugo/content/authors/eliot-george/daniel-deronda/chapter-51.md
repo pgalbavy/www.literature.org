@@ -1,8 +1,7 @@
 ---
 title: "Chapter 51"
 weight: 51
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-51.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-51.html"
 ---
 
 She held the spindle as she sat, Errina with the thick-coiled mat Of raven hair and deepest agate eyes, Gazing with a sad surprise At surging visions of her destiny - To spin the byssus drearily In insect-labor, while the throng Of gods and men wrought deeds that poets wrought in song.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-01.html"
+url: "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-01.html"
 ---
 
 CLAUDIUS BOMBARNAC,        Special Correspondent,             "Twentieth Century."                    Tiflis, Transcaucasia.

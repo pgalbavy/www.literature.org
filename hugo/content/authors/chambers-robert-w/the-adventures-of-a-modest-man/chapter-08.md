@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Matter Of Pronunciation"
 weight: 8
-aliases:
-  - "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-08.html"
+url: "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-08.html"
 ---
 
 This is a story of the Mystic Three —Fate, Chance, and Destiny; and what happens to people who trifle with them.

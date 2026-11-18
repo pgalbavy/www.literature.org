@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Tierra Del Fuego"
 weight: 11
-aliases:
-  - "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-10.html"
+url: "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-10.html"
 ---
 
 arrow_rightTierra del Fuego, first arrival arrow_rightGood Success Bay arrow_rightAn Account of the Fuegians on board arrow_rightInterview With the Savages arrow_rightScenery of the Forests arrow_rightCape Horn arrow_rightWigwam Cove arrow_rightMiserable Condition of the Savages arrow_rightFamines arrow_rightCannibals arrow_rightMatricide arrow_rightReligious Feelings arrow_rightGreat Gale arrow_rightBeagle Channel arrow_rightPonsonby Sound arrow_rightBuild Wigwams and settle the Fuegians arrow_rightBifurcation of the Beagle Channel arrow_rightGlaciers arrow_rightReturn to the Ship arrow_rightSecond Visit in the Ship to the Settlement arrow_rightEquality of Condition amongst the Natives. ---

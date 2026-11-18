@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Wedding At The Marsh"
 weight: 5
-aliases:
-  - "/authors/lawrence-david-herbert/the-rainbow/chapter-05.html"
+url: "/authors/lawrence-david-herbert/the-rainbow/chapter-05.html"
 ---
 
 It was a beautiful sunny day for the wedding, a muddy earth but a bright sky. They had three cabs and two big closed-in vehicles. Everybody crowded in the parlour in excitement. Anna was still upstairs. Her father kept taking a nip of brandy. He was handsome in his black coat and grey trousers. His voice was hearty but troubled. His wife came down in dark grey silk with lace, and a touch of peacock- blue in her bonnet. Her little body was very sure and definite. Brangwen was thankful she was there, to sustain him among all these people.

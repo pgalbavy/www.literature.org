@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Romance"
 weight: 2
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-02.html"
+url: "/authors/tarkington-booth/penrod/chapter-02.html"
 ---
 
 The author of "Harold Ramorez," etc., lit one of the hayseed cigarettes, seated himself comfortably, with his back against the wall and his right shoulder just under the lantern, elevated his knees to support the note-book, turned to a blank page, and wrote, slowly and earnestly:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Open Sesame!"
 weight: 17
-aliases:
-  - "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-17.html"
+url: "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-17.html"
 ---
 
 In spite of his usual facility for sleep, Don Luis slept for three hours at most. He was racked with too much anxiety; and, though his plan of conduct was worked out mathematically, he could not help foreseeing all the obstacles which were likely to frustrate that plan. Of course, Weber would speak to M. Desmalions. But would M. Desmalions telephone to Valenglay?

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/verne-jules/round-the-moon/chapter-21.html"
+url: "/authors/verne-jules/round-the-moon/chapter-21.html"
 ---
 
 "It is 'they' come back again!" the young midshipman had said, and every one had understood him. No one doubted but that the meteor was the projectile of the Gun Club. As to the travelers which it enclosed, opinions were divided regarding their fate.

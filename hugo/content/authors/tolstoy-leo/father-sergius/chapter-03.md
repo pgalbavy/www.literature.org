@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/tolstoy-leo/father-sergius/chapter-03.html"
+url: "/authors/tolstoy-leo/father-sergius/chapter-03.html"
 ---
 
 At Carnival time, in the sixth year of Sergius's life at the hermitage, a merry company of rich people, men and women from a neighbouring town, made up a troyka-party, after a meal of carnival-pancakes and wine. The company consisted of two lawyers, a wealthy landowner, an officer, and four ladies. One lady was the officer's wife, another the wife of the landowner, the third his sister--a young girl--and the fourth a divorcee, beautiful, rich, and eccentric, who amazed and shocked the town by her escapades.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - An Embarrassed Toilet"
 weight: 16
-aliases:
-  - "/authors/buchan-john/greenmantle/chapter-15.html"
+url: "/authors/buchan-john/greenmantle/chapter-15.html"
 ---
 
 I was soaked to the bone, and while Peter set off to look for dinner I went to my room to change. I had a rubdown and then got into pyjamas for some dumb-bell exercises with two chairs, for that long wet ride had stiffened my arm and shoulder muscles. They were a vulgar suit of primitive blue, which Blenkiron had looted from my London wardrobe. As Cornelis Brandt I had sported a flannel nightgown.

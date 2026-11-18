@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 28
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-27.html"
+url: "/authors/haggard-h-rider/dawn/chapter-27.html"
 ---
 
 George's recovery, when the doctors had given up all hope, was sufficiently marvellous to suggest the idea that a certain power had determined--on the hangman's principle, perhaps--to give him the longest of ropes; but it could in reality be traced to a more terrestrial influence--namely, Lady Bellamy's nursing. Had it not been for this nursing, it is very certain that her patient would have joined his forefathers in the Bratham churchyard. For whole days and nights she watched and tended him, scarcely closing her own eyes, and quite heedless of the danger of infection; till in the end she conquered the fever, and snatched him from the jaws of the grave. How often has not a woman's devotion been successful in such a struggle!

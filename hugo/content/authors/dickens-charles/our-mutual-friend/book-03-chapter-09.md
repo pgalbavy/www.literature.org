@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 9 - Somebody Becomes The Subject Of A Prediction"
 weight: 42
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-03-chapter-09.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-03-chapter-09.html"
 ---
 
 ‘“We give thee hearty thanks for that it hath pleased thee to deliver this our sister out of the miseries of this sinful world.”’ So read the Reverend Frank Milvey in a not untroubled voice, for his heart misgave him that all was not quite right between us and our sister--or say our sister in Law--Poor Law--and that we sometimes read these words in an awful manner, over our Sister and our Brother too.

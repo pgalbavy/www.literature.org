@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - \"Help!\""
 weight: 21
-aliases:
-  - "/authors/hodgson-burnett-frances/the-lost-prince/chapter-21.html"
+url: "/authors/hodgson-burnett-frances/the-lost-prince/chapter-21.html"
 ---
 
 "Did it take you so long to find it?" asked the Lovely Person with the smile. "Of course I knew you would find it in the end. But we had to give ourselves time. How long did it take?"

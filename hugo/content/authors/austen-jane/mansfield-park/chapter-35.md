@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 35
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-35.html"
+url: "/authors/austen-jane/mansfield-park/chapter-35.html"
 ---
 
 Edmund had determined that it belonged entirely to Fanny to chuse whether her situation with regard to Crawford should be mentioned between them or not; and that if she did not lead the way, it should never be touched on by him; but after a day or two of mutual reserve, he was induced by his father to change his mind, and try what his influence might do for his friend.

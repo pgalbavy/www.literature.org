@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - \"This Is Where I Stop\""
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-24.html"
 ---
 
 Night was closing in when Mike Murphy pointed the *Deerfoot* northward and circled around the end of Squirrel Island, and turning eastward glided midway between it and Ocean Point, the lower extremity of Linekin Neck. He was now headed toward the ocean, and passed above Ram Island light. That being accomplished, he caught the swell of the Atlantic, long and heaving, but not enough so to cause him the least misgiving.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 79 - The Prairie"
 weight: 79
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-079.html"
+url: "/authors/melville-herman/moby-dick/chapter-079.html"
 ---
 
 To scan the lines of his face, or feel the bumps on the head of this Leviathan; this is a thing which no Physiognomist or Phrenologist has as yet undertaken. Such an enterprise would seem almost as hopeful as for Lavater to have scrutinized the wrinkles on the Rock of Gibraltar, or for Gall to have mounted a ladder and manipulated the Dome of the Pantheon. Still, in that famous work of his, Lavater not only treats of the various faces of men, but also attentively studies the faces of horses, birds, serpents, and fish; and dwells in detail upon the modifications of expression discernible therein. Nor have Gall and his disciple Spurzheim failed to throw out some hints touching the phrenological characteristics of other beings than man. Therefore, though I am but ill qualified for a pioneer, in the application of these two semi-sciences to the whale, I will do my endeavor. I try all things; I achieve what I can.

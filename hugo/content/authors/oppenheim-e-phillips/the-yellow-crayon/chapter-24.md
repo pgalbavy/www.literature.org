@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-24.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-24.html"
 ---
 
 A barely furnished man's room, comfortable, austere, scholarly. The refuge of a busy man, to judge by the piles of books and papers which littered the large open writing-table. There were despatch boxes turned upside down, a sea of parchment and foolscap. In the midst of it all a man deep in thought.

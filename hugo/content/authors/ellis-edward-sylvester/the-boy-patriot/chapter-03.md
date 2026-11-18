@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The English Boy"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-03.html"
 ---
 
 No loving friends came to inquire after the fate of Hal Hutchings, the English boy. His efforts to save his basket of clean linen had been as vain as his struggles to free himself from the hands of his persecutors. The garments that had been starched and ironed with such scrupulous care were scattered along the wharf, and trampled under the feet of the thoughtless young mob. The old washerwoman on whose errand Hal had been sent forth, was too indignant at the destruction which had befallen her handiwork, to give one kindly thought to the poor boy who had so honorably striven to spare her the misfortune over which she lamented so dolorously. Her Sunday thoughts strayed far more frequently to the dingy, stained garments soaking in her back kitchen, than to Hal Hutchings, quietly lying in Mrs. Robertson's best bedroom.

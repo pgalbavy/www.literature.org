@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Unwelcome Visitor"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-12.html"
 ---
 
 "It's Jasper Jay!" Rusty Wren cried, as soon as he and his wife heard the hoarse cry outside their house. "He's playing one of his tricks on us. And I'm going out and tell him exactly what I think of him."

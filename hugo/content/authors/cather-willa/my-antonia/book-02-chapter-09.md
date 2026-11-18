@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 9"
 weight: 29
-aliases:
-  - "/authors/cather-willa/my-antonia/book-02-chapter-09.html"
+url: "/authors/cather-willa/my-antonia/book-02-chapter-09.html"
 ---
 
 THERE WAS A CURIOUS social situation in Black Hawk. All the young men felt the attraction of the fine, well-set-up country girls who had come to town to earn a living, and, in nearly every case, to help the father struggle out of debt, or to make it possible for the younger children of the family to go to school.

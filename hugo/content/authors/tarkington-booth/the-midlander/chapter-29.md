@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-29.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-29.html"
 ---
 
 *DAN* reassured his mother as well as he could. "Only a fit of nerves;—too much music, I guess," he said; and, returning to his son’s door, found it locked and Henry as unresponsive as the door. The father knocked repeatedly but not loudly, demanding admittance and obtaining the response of a profound silence. Then, as he heard Mrs. Oliphant slowly ascending the stairs to her belated bed, he decided to keep out of her way until he had better composed himself, and, retiring to his own room, discovered that his teeth were chattering.

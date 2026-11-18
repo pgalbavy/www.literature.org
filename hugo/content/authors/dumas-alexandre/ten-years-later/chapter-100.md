@@ -1,8 +1,7 @@
 ---
 title: "Chapter 100 - The Second Floor Of La Bertaudiere"
 weight: 100
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-100.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-100.html"
 ---
 
 On the second flight of stairs, whether from fatigue or emotion, the breathing of the visitor began to fail him, and he leaned against the wall. "Will you begin with this one?" said Baisemeaux; "for since we are going to both, it matters very little whether we ascend from the second to the third story, or descend from the third to the second."

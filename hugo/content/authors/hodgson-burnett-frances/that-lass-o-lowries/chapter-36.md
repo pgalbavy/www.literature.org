@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - Alive Yet"
 weight: 36
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-36.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-36.html"
 ---
 
 In the bedroom above the small parlor a fire was burning at midnight, and by this fire Grace was watching. The lamp was turned low and the room was very quiet; a dropping cinder made quite a startling sound. When a moan or a movement of the patient broke the stillness--which was only at rare intervals--the Curate rose and went to the bedside. But it was only to look at the sufferer lying upon it, bandaged and unconscious. There was very little he could do. He could follow the instructions given by the medical man before he went away, but these had been few and hurried, and he could only watch with grief in his heart. There was but a chance that his friend's life might be saved. Close attention and unremitting care might rescue him, and to the best of his ability the Curate meant to give him both. But he could not help feeling a deep anxiety. His faith in his own skill was not very great, and there were no professional nurses in Riggan.

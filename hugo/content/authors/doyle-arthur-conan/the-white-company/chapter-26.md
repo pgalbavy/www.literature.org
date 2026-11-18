@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - How The Three Comrades Gained A Mighty Treasur"
 weight: 26
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-26.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-26.html"
 ---
 
 IT was a bright, crisp winter's day when the little party set off from Bordeaux on their journey to Montaubon, where the missing half of their Company had last been heard of. Sir Nigel and Ford had ridden on in advance, the knight upon his hackney, while his great war-horse trotted beside his squire. Two hours later Alleyne Edricson followed; for he had the tavern reckoning to settle, and many other duties which fell to him as squire of the body. With him came Aylward and Hordle John, armed as of old, but mounted for their journey upon a pair of clumsy Landes horses, heavy-headed and shambling, but of great endurance, and capable of jogging along all day, even when between the knees of the huge archer, who turned the scale at two hundred and seventy pounds. They took with them the sumpter mules, which carried in panniers the wardrobe and table furniture of Sir Nigel; for the knight, though neither fop nor epicure, was very dainty in small matters, and loved, however bare the board or hard the life, that his napery should still be white and his spoon of silver.

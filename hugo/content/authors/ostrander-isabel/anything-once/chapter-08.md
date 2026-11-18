@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Journey's End"
 weight: 8
-aliases:
-  - "/authors/ostrander-isabel/anything-once/chapter-08.html"
+url: "/authors/ostrander-isabel/anything-once/chapter-08.html"
 ---
 
 The rain had ceased, and as they walked down the muddy road the sun came out even before the final mutterings of the thunder had died away in the distance, and so they came at last upon a little house which sat well back among a group of dripping trees.

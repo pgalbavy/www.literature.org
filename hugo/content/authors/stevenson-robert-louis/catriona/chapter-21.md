@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Voyage Into Holland"
 weight: 22
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-21.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-21.html"
 ---
 
 *Part 2 - Father and Daughter*

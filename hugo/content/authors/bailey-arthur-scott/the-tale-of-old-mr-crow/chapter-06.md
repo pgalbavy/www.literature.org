@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Mr. Crow In Trouble"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-06.html"
 ---
 
 After Mr. Crow found that Farmer Green had put tar on his corn, Mr. Crow was so angry that he flew for a good many miles before stopping. And then, as he started to walk along the limb that lead to his house in the tall elm, he noticed for the first time that he could hardly move his right foot.

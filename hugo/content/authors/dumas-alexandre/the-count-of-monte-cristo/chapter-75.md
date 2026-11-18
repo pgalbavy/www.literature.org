@@ -1,8 +1,7 @@
 ---
 title: "Chapter 75 - A Signed Statement"
 weight: 75
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-75.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-75.html"
 ---
 
 Noirtier was prepared to receive them, dressed in black, and installed in his arm-chair. When the three persons he expected had entered, he looked at the door, which his valet immediately closed.

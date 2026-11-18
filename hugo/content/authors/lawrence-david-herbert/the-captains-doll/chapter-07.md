@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/lawrence-david-herbert/the-captains-doll/chapter-07.html"
+url: "/authors/lawrence-david-herbert/the-captains-doll/chapter-07.html"
 ---
 
 And then a dreadful thing happened: really a very dreadful thing. Hannele read of it in the evening newspaper of the town - the Abendblatt. Mitchka came rushing up with the paper at ten o'clock at night, just when Hannele was going to bed.

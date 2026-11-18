@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-02.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-02.html"
 ---
 
 Backward he edged to the far side of the rock, and on he went by a detour which, in due course, brought him out to the road once more at that panel of fence where Boone Wellver still sat perched in the deep preoccupation of his thoughts. These reflections focussed about the stranger who had lately ridden by, and as Gregory paused, with no revealing sign in his face of the events of the past half-hour, the boy blurted out the fulness of his interest.

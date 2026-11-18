@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-18.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-18.html"
 ---
 
 Granet, a few days later, brought his car to a standstill in front of an ordinary five-barred gate upon which was painted in white letters "Market Burnham Hall." A slight grey mist was falling and the country inland was almost blotted from sight. On the other side of the gate a sandy driver disappeared into an avenue of ragged and stunted elm trees, which effectually concealed any view of the house.

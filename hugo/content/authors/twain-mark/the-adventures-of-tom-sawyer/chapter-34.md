@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 35
-aliases:
-  - "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-34.html"
+url: "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-34.html"
 ---
 
 HUCK said: "Tom, we can slope, if we can find a rope. The window ain't high from the ground."

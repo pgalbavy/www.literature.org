@@ -1,8 +1,7 @@
 ---
 title: "Book 6 - Chapter 16"
 weight: 122
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-06-chapter-16.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-06-chapter-16.html"
 ---
 
 Suddenly everybody stirred, began talking, and pressed forward and then back, and between the two rows, which separated, the Emperor entered to the sounds of music that had immediately struck up. Behind him walked his host and hostess. He walked in rapidly, bowing to right and left as if anxious to get the first moments of the reception over. The band played the polonaise in vogue at that time on account of the words that had been set to it, beginning: "Alexander, Elisaveta, all our hearts you ravish quite..." The Emperor passed on to the drawing room, the crowd made a rush for the doors, and several persons with excited faces hurried there and back again. Then the crowd hastily retired from the drawing-room door, at which the Emperor reappeared talking to the hostess. A young man, looking distraught, pounced down on the ladies, asking them to move aside. Some ladies, with faces betraying complete forgetfulness of all the rules of decorum, pushed forward to the detriment of their toilets. The men began to choose partners and take their places for the polonaise.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - Containing The Unsatisfactory Result Of Oliver'S Adventure; And A Conversation Of Some Importance Between Harry Maylie And Rose"
 weight: 35
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-35.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-35.html"
 ---
 
 When the inmates of the house, attracted by Oliver's cries, hurried to the spot from which they proceeded, they found him, pale and agitated, pointing in the direction of the meadows behind the house, and scarcely able to articulate the words, 'The Jew! the Jew!'

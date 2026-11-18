@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/collins-wilkie/my-ladys-money/chapter-17.html"
+url: "/authors/collins-wilkie/my-ladys-money/chapter-17.html"
 ---
 
 EVENTS succeeded each other rapidly, after the memorable day to Isabel of the luncheon at the farm.

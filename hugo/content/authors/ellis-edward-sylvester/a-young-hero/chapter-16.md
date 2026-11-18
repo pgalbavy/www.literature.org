@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Bud's Mishaps"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/a-young-hero/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/a-young-hero/chapter-16.html"
 ---
 
 When a horse takes it into his head to go home, with a view of having a good meal, the attraction seems to become stronger from the moment he makes the first move.

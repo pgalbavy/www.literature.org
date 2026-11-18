@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - \u0026quot;No; She Has Not Yet Come To Court\u0026quot;"
 weight: 7
-aliases:
-  - "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-06.html"
+url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-06.html"
 ---
 
 'Tis but a small adventure for a youth who is a strong swimmer to save a party of cits from drowning in a river, but 'twas a story much repeated, having a picturesqueness and colour because its chief figure Nature had fitted out with all the appointments which might be expected to adorn a hero.

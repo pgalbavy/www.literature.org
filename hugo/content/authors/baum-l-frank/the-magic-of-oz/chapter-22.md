@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 23
-aliases:
-  - "/authors/baum-l-frank/the-magic-of-oz/chapter-22.html"
+url: "/authors/baum-l-frank/the-magic-of-oz/chapter-22.html"
 ---
 
 It seems odd that a fairy should have a birthday, for fairies, they say, were born at the beginning of time and live forever. Yet, on the other hand, it would be a shame to deprive a fairy, who has so many other good things, of the delights of a birthday. So we need not wonder that the fairies keep their birthdays just as other folks do, and consider them occasions for feasting and rejoicing.

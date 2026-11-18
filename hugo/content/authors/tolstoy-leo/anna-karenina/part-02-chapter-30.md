@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 30"
 weight: 64
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-30.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-30.html"
 ---
 
 In the little German watering-place to which the Shtcherbatskys had betaken themselves, as in all places indeed where people are gathered together, the usual process, as it were, of the crystallization of society went on, assigning to each member of that society a definite and unalterable place. Just as the particle of water in frost, definitely and unalterably, takes the special form of the crystal of snow, so each new person that arrived at the springs was at once placed in his special place.

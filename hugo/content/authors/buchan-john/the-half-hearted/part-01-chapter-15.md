@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 15 - The Nemesis Of A Coward"
 weight: 15
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-01-chapter-15.html"
+url: "/authors/buchan-john/the-half-hearted/part-01-chapter-15.html"
 ---
 
 Two days later the Andrews drove up the glen to Etterick, taking with them the unwilling Mr. Wishart. Alice had escaped the ordeal with some feigned excuse, and the unfortunate Mr. Thompson, deeply grieving, had been summoned by telegram from cricket to law. The lady had chattered all the way up the winding moorland road, crying out banalities about the pretty landscape, or questioning her very ignorant companions about the dwellers in Etterick. She was full of praises for the house when it came in view; it was "quaint," it was "charming," it was everything inappropriate. But the amiable woman's prattle deserted her when she found herself in the cold stone hall with the great portraits and the lack of all modern frippery. It was so plainly a man's house, so clearly a place of tradition, that her pert modern speech seemed for one moment a fatuity.

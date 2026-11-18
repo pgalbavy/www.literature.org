@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 22
-aliases:
-  - "/authors/london-jack/jerry-of-the-islands/chapter-21.html"
+url: "/authors/london-jack/jerry-of-the-islands/chapter-21.html"
 ---
 
 The fine, three-topmast schooner Ariel, on a cruise around the world, had already been out a year from San Francisco when Jerry boarded her. As a world, and as a white-god world, she was to him beyond compare. She was not small like the Arangi, nor was she cluttered fore and aft, on deck and below, with a spawn of niggers. The only black Jerry found on her was Johnny; while her spaciousness was filled principally with two-legged white-gods.

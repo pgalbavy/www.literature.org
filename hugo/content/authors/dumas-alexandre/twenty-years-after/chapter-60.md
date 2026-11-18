@@ -1,8 +1,7 @@
 ---
 title: "Chapter 60 - Respect To Fallen Majesty"
 weight: 60
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-60.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-60.html"
 ---
 
 As our fugitives approached the house, they found the ground cut up, as if a considerable body of horsemen had preceded them. Before the door the traces were yet more apparent; these horsemen, whoever they might be, had halted there.

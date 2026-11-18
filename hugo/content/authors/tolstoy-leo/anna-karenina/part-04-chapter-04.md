@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 4"
 weight: 105
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-04-chapter-04.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-04-chapter-04.html"
 ---
 
 Alexey Alexandrovitch, after meeting Vronsky on his own steps, cat drove, as he had intended, to the Italian opera. He sat through two acts there, and saw every one he had wanted to see. On returning home, he carefully scrutinized the hat-stand, and noticing that there was not a military overcoat there, he went, as usual, to his own room. But, contrary to his usual habits, he did not go to bed, he walked up and down his study till three o'clock in the morning. The feeling of furious anger with his wife, who would not observe the proprieties and keep to the one stipulation he had laid on her, not to receive her lover in her own home, gave him no peace. She had not complied with his request, and he was bound to punish her and carry out his threat- -obtain a divorce and take away his son. He knew all the difficulties connected with this course, but he had said he would do it, and now he must carry out his threat. Countess Lidia Ivanovna had hinted that this was the best way out of his position, and of late the obtaining of divorces had been brought to such perfection that Alexey Alexandrovitch saw a possibility of overcoming the formal difficulties. Misfortunes never come singly, and the affairs of the reorganization of the native tribes, and of the irrigation of the lands of the Zaraisky province, had brought such of ficial worries upon Alexey Alexandrovitch that he had been of late in a-continual condition of extreme irritability.

@@ -1,8 +1,7 @@
 ---
 title: "Book 7 - Chapter 12"
 weight: 144
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-07-chapter-12.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-07-chapter-12.html"
 ---
 
 When they all drove back from Pelageya Danilovna's, Natasha, who always saw and noticed everything, arranged that she and Madame Schoss should go back in the sleigh with Dimmler, and Sonya with Nicholas and the maids.

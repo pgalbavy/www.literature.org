@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Wherein A Noble Life Comes To An End"
 weight: 12
-aliases:
-  - "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-11.html"
+url: "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-11.html"
 ---
 
 When the earl and his countess went to their house in the country, there fell to Mistress Anne a great and curious piece of good fortune. In her wildest dreams she had never dared to hope that such a thing might be.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - B.\u0026quot;"
 weight: 25
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-25.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-25.html"
 ---
 
 Mr. Rook having completed his evidence, the police authorities were the next witnesses examined.

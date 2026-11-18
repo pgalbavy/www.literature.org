@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/davis-richard-harding/soldiers-of-fortune/chapter-06.html"
+url: "/authors/davis-richard-harding/soldiers-of-fortune/chapter-06.html"
 ---
 
 Clay believed that Alice Langham's visit to the mines had opened his eyes fully to vast differences between them. He laughed and railed at himself for having dared to imagine that he was in a position to care for her. Confident as he was at times, and sure as he was of his ability in certain directions, he was uneasy and fearful when he matched himself against a man of gentle birth and gentle breeding, and one who, like King, was part of a world of which he knew little, and to which, in his ignorance concerning it, he attributed many advantages that it did not possess. He believed that he would always lack the mysterious something which these others held by right of inheritance. He was still young and full of the illusions of youth, and so gave false values to his own qualities, and values equally false to the qualities he lacked. For the next week he avoided Miss Langham, unless there were other people present, and whenever she showed him special favor, he hastily recalled to his mind her failure to sympathize in his work, and assured himself that if she could not interest herself in the engineer, he did not care to have her interested in the man. Other women had found him attractive in himself; they had cared for his strength of will and mind, and because he was good to look at. But he determined that this one must sympathize with his work in the world, no matter how unpicturesque it might seem to her. His work was the best of him, he assured himself, and he would stand or fall with it.

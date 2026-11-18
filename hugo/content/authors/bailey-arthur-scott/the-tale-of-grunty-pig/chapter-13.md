@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Home At Last"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-13.html"
 ---
 
 "What's this?" Farmer Green exclaimed, when he went to unlock the piggery in the morning and found Grunty Pig lying up against the door. "Did you get locked out last night? Was it you that old Spot was barking at?"

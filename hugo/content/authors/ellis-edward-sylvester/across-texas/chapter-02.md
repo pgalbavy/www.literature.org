@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Through To Texas"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-02.html"
 ---
 
 *LET ME* skip a great deal of what may be called introduction, for of necessity it bore a resemblance to that which has already been told, and has little if any connection with the main events of my story.

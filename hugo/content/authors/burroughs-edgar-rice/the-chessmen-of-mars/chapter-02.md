@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-02.html"
+url: "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-02.html"
 ---
 
 TARA of Helium did not return to her father's guests, but awaited in her own apartments the word from Djor Kantos which she knew must come, begging her to return to the gardens. She would then refuse, haughtily. But no appeal came from Djor Kantos. At first Tara of Helium was angry, then she was hurt, and always she was puzzled. She could not understand. Occasionally she thought of the Jed of Gathol and then she would stamp her foot, for she was very angry indeed with Gahan. The presumption of the man! He had insinuated that he read love for him in her eyes. Never had she been so insulted and humiliated. Never had she so thoroughly hated a man. Suddenly she turned toward Uthia.

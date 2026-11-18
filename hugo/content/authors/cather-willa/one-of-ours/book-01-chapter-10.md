@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 10"
 weight: 10
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-01-chapter-10.html"
+url: "/authors/cather-willa/one-of-ours/book-01-chapter-10.html"
 ---
 
 The Erlich family loved anniversaries, birthdays, occasions. That spring Mrs. Erlich's first cousin, Wilhelmina Schroeder-Schatz, who sang with the Chicago Opera Company, came to Lincoln as soloist for the May Festival. As the date of her engagement approached, her relatives began planning to entertain her. The Matinee Musical was to give a formal reception for the singer, so the Erlichs decided upon a dinner. Each member of the family invited one guest, and they had great difficulty in deciding which of their friends would be most appreciative of the honour. There were to be more men than women, because Mrs. Erlich remembered that cousin Wilhelmina had never been partial to the society of her own sex.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-26.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-26.html"
 ---
 
 The neighborhood of Temple Barholm was not, upon the whole, a brilliant one. Indeed, it had been frankly designated by the casual guest as dull. The country was beautiful enough, and several rather large estates lay within reach of one another, but their owners were neither very rich nor especially notable personages. They were of extremely good old blood, and were of established respectability. None of them, however, was given to entertaining house parties made up of the smart and dazzlingly sinful world of fashion said by moralists to be composed entirely of young and mature beauties, male and female, capable of supplying at any moment enlivening detail for the divorce court--glittering beings whose wardrobes were astonishing and whose conversations were composed wholly of brilliant paradox and sparkling repartee.

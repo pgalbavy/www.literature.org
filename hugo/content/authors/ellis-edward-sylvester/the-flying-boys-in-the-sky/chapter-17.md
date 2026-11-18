@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Called To The Rescue"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-17.html"
 ---
 
 Harvey Hamilton struck a match, after he had unlocked the door of his room and stepped inside. He lighted the gas and seated himself beside the stand in front of the mirror, to wait the brief interval. He continually glanced at his watch and twice held it to his ear to make sure it had not stopped. At three minutes to nine, he slipped it into his pocket, leaned back and listened.

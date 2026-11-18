@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Lunatic"
 weight: 22
-aliases:
-  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-22.html"
+url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-22.html"
 ---
 
 The night kept its promise. Betty, slipping from the sleeping house into the quiet darkness, seemed to slip into a poppy-fringed pool of oblivion. The night laid fresh, cold hands on her tired eyes, and shut out many things. She paused for a minute on the bridge to listen to the restful restless whisper of the water against the rough stone.

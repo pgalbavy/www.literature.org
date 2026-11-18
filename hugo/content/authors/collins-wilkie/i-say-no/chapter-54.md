@@ -1,8 +1,7 @@
 ---
 title: "Chapter 54 - The End Of The Fainting Fit"
 weight: 54
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-54.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-54.html"
 ---
 
 Emily recovered her presence of mind. She opened the door, so as to make a draught of air in the room, and called for water. Returning to Mirabel, she loosened his cravat. Mrs. Ellmother came in, just in time to prevent her from committing a common error in the treatment of fainting persons, by raising Mirabel's head. The current of air, and the sprinkling of water over his face, soon produced their customary effect. "He'll come round, directly," Mrs. Ellmother remarked. "Your aunt was sometimes taken with these swoons, miss; and I know something about them. He looks a poor weak creature, in spite of his big beard. Has anything frightened him?"

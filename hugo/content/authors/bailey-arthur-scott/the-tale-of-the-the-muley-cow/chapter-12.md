@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Cowbirds"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-12.html"
 ---
 
 Some of the Muley Cow's friends were very sorry for her, when Farmer Green put the poke around her neck to keep her from jumping the pasture fence. It was a heavy, clumsy thing to carry about all day. Sometimes, if she was not careful, the Muley Cow knocked her knees against it.

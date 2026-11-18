@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Four-Armed Man"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-20.html"
 ---
 
 Old dog Spot was driving the last cow down the lane when Jolly Robin and Mr. Crow met on the bridge near the farmhouse, as they had agreed.

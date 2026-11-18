@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-12.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-12.html"
 ---
 
 IN *THE* minds of Mrs. Savage’s neighbours across the street and of the habitual passers-by, that broad plate-glass window where it was her custom to sit for the last hour of every afternoon had come to bear the significance of a glass over a portrait. All long thoroughfares and many of even the shortest have such windows; and the people who repeatedly pass that way will often find the portrait window becoming a part, however slight, of their own lives; but it will seldom be an enduring part, except as a fugitive, pathetic memory. For a time the silent old face is seen framed there every day, or it may be a pale and wistful child looking out gravely upon the noisy world. Then abruptly one day the window is only a window and no more a portrait; the passer-by has a moment of wonder whenever he goes by, but presently may have his faintly troubled question answered by a wreath on the door; and afterwards the window that was once a portrait will seem to him a little haunted.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 22
-aliases:
-  - "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-21.html"
+url: "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-21.html"
 ---
 
 The Wizard's advice was good, so again they started in the direction of the low mountain on the crest of which the wicker castle had been built. They had been gradually advancing uphill, so now the elevation seemed to them more like a round knoll than a mountaintop. However, the sides of the knoll were sloping and covered with green grass, so there was a stiff climb before them yet. Undaunted, they plodded on and had almost reached the knoll when they suddenly observed that it was surrounded by a circle of flame. At first, the flames barely rose above the ground, but presently they grew higher and higher until a circle of flaming tongues of fire taller than any of their heads quite surrounded the hill on which the wicker castle stood. When they approached the flames, the heat was so intense that it drove them back again.

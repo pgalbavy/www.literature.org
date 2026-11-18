@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - At Bognor"
 weight: 21
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-21.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-21.html"
 ---
 
 That seductive gentleman, Bechamel, had been working up to a crisis. He had started upon this elopement in a vein of fine romance, immensely proud of his wickedness, and really as much in love as an artificial oversoul can be, with Jessie. But either she was the profoundest of coquettes or she had not the slightest element of Passion (with a large P) in her composition. It warred with all his ideas of himself and the feminine mind to think that under their flattering circumstances she really could be so vitally deficient. He found her persistent coolness, her more or less evident contempt for himself, exasperating in the highest degree. He put it to himself that she was enough to provoke a saint, and tried to think that was piquant and enjoyable, but the blisters on his vanity asserted themselves. The fact is, he was, under this standing irritation, getting down to the natural man in himself for once, and the natural man in himself, in spite of Oxford and the junior Reviewers' Club, was a Palaeolithic creature of simple tastes and violent methods. "I'll be level with you yet," ran like a plough through the soil of his thoughts.

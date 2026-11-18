@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - What The Cat Caught"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-02.html"
 ---
 
 EVERYBODY knew the cat at Farmer Green's to be a great hunter. She had long since disposed of the last mouse that was so foolish as to venture inside her home. And being very big, and not at all timid, she had made such a name for herself in the neighborhood that even the rats looked on her as a monster to be avoided.

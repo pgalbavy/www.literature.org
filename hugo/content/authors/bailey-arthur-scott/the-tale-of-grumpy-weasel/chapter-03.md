@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Master Robin's Lesson"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-03.html"
 ---
 
 When young Master Robin heard the strange voice that sounded so grumpy and so near him he was terribly frightened. He forgot that he thought himself grown up, and very wise, and quite able to go about alone. He didn't even look to see who was speaking, but fell backwards off the limb of the apple tree.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Bohunkus At The Levers"
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-27.html"
 ---
 
 Fortunately for Detective Pendar, the room which he occupied at the hotel in Chesterton gave him a view of the immense forest to the westward, over which Harvey Hamilton’s aeroplane was to sail in its search for the headquarters of the men who had kidnapped little Grace Hastings.

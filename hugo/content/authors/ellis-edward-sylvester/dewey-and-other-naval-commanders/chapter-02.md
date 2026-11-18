@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Dewey In The War For The Union"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-02.html"
 ---
 
 No one needs to be reminded that the War for the Union was the greatest struggle of modern times. The task of bringing back to their allegiance those who had risen against the authority of the National Government was a gigantic one, and taxed the courage and resources of the country to the utmost. In order to make the war effective, it was necessary to enforce a rigorous blockade over three thousand miles of seacoast, open the Mississippi river, and overcome the large and well-officered armies in the field. The last was committed to the land forces, and it proved an exhausting and wearying struggle.

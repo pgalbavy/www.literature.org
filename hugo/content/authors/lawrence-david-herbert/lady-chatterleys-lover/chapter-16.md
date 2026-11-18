@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-16.html"
+url: "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-16.html"
 ---
 
 Connie arrived home to an ordeal of cross-questioning. Clifford had been out at tea-time, had come in just before the storm, and where was her ladyship? Nobody knew, only Mrs Bolton suggested she had gone for a walk into the wood. Into the wood, in such a storm! Clifford for once let himself get into a state of nervous frenzy. He started at every flash of lightning, and blenched at every roll of thunder. He looked at the icy thunder-rain as if it dare the end of the world. He got more and more worked up.

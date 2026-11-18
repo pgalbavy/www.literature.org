@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Hunting Wealth By Firelight"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/the-forest-monster/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/the-forest-monster/chapter-12.html"
 ---
 
 Yes, Fred Hammond was not a little astounded, as he learned by what a singular means Teddy O’Doherty had discovered the cave of wealth, and he listened to the close of his characteristic narration without interruption. When he had finished, our hero remarked, with a laugh:

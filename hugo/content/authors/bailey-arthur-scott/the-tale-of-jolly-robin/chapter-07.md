@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A New Way To Travel"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-07.html"
 ---
 
 The time had come when Jolly Robin was ready to begin his long journey to the South, for it was growing quite cold. On some days there was no sun at all. And even when the weather was fair the sun rose late and went to bed early. It was exactly the sort of weather Jolly Robin did not like.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/ridge-w-pett/e-r-b/chapter-15.html"
+url: "/authors/ridge-w-pett/e-r-b/chapter-15.html"
 ---
 
 IF Erb’s experience of life had been greater, if his knowledge of the trend of events had been more extensive, he would have been helped by the assurance that in this world, mist and sunshine alternate, and that rarely a fog descends on the life of an energetic man and remains there always. But had Erb known this, there would still have remained the undeniable fact that, for the time at any rate, the atmosphere was murky. He showed a certain amount of temper. He sent in his keys addressed to the acting secretary, and, knowing that the accounts were all in order, declined the request that he should attend to explain money matters to his successor; he decided to leave London (having indeed very little there to leave) and to go down to Worthing, giving no one but Payne his address.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 34
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-34.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-34.html"
 ---
 
 Boone had written to Anne after the election in a vein of satisfaction for a race won. "It is a small thing," he candidly confessed; "nothing more than a corporal's stripe to the man who covets the baton of a field marshal, but you know the light that leads me, dear Evening Star. You'll find me scrambling up the hillside toward you at least, even if, as they would say hereabouts, 'hit's a right-smart slavish upgoin'.'"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/woolf-virginia/the-voyage-out/chapter-24.html"
+url: "/authors/woolf-virginia/the-voyage-out/chapter-24.html"
 ---
 
 They reached the hotel rather early in the afternoon, so that most people were still lying down, or sitting speechless in their bedrooms, and Mrs. Thornbury, although she had asked them to tea, was nowhere to be seen. They sat down, therefore, in the shady hall, which was almost empty, and full of the light swishing sounds of air going to and fro in a large empty space. Yes, this arm-chair was the same arm-chair in which Rachel had sat that afternoon when Evelyn came up, and this was the magazine she had been looking at, and this the very picture, a picture of New York by lamplight. How odd it seemed—nothing had changed.

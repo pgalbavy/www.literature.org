@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - The Dryad"
 weight: 31
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-31.html"
+url: "/authors/bronte-charlotte/villette/chapter-31.html"
 ---
 
 The spring was advancing, and the weather had turned suddenly warm. This change of temperature brought with it for me, as probably for many others, temporary decrease of strength. Slight exertion at this time left me overcome with fatigue - sleepless nights entailed languid days.

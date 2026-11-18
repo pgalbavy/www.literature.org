@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43 - The Verdict"
 weight: 43
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-43.html"
+url: "/authors/eliot-george/adam-bede/chapter-43.html"
 ---
 
 THE place fitted up that day as a court of justice was a grand old hall, now destroyed by fire. The midday light that fell on the close pavement of human heads was shed through a line of high pointed windows, variegated with the mellow tints of old painted glass. Grim dusty armour hung in high relief in front of the dark oaken gallery at the farther end, and under the broad arch of the great mullioned window opposite was spread a curtain of old tapestry, covered with dim melancholy figures, like a dozing indistinct dream of the past. It was a place that through the rest of the year was haunted with the shadowy memories of old kings and queens, unhappy, discrowned, imprisoned; but to-day all those shadows had fled, and not a soul in the vast hall felt the presence of any but a living sorrow, which was quivering in warm hearts.

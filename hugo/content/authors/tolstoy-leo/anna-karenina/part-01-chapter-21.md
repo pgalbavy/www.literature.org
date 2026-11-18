@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 21"
 weight: 21
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-21.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-21.html"
 ---
 
 Dolly came out of her room to the tea of the grown-up people. Stepan Arkadyevitch did nto come out. He must have left his wife's room by the other door.

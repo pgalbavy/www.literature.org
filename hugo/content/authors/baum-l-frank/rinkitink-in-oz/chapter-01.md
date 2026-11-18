@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/baum-l-frank/rinkitink-in-oz/chapter-01.html"
+url: "/authors/baum-l-frank/rinkitink-in-oz/chapter-01.html"
 ---
 
 If you have a map of the Land of Oz handy, you will find that the great Nonestic Ocean washes the shores of the Kingdom of Rinkitink, between which and the Land of Oz lies a strip of the country of the Nome King and a Sandy Desert. The Kingdom of Rinkitink isn't very big and lies close to the ocean, all the houses and the King's palace being built near the shore. The people live much upon the water, boating and fishing, and the wealth of Rinkitink is gained from trading along the coast and with the islands nearest it.

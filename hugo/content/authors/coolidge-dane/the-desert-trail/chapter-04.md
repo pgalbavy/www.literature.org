@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/coolidge-dane/the-desert-trail/chapter-04.html"
+url: "/authors/coolidge-dane/the-desert-trail/chapter-04.html"
 ---
 
 From the times of David and Jonathan down to the present day the world has been full of young men sworn to friendship and seeking adventure in pairs. "Pardners," they call them in the West, and though the word has not crept into the dictionary yet, it is as different from "partner" as a friend is from a business associate.

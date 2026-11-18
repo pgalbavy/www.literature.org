@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Uncle Sammy's Store"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-07.html"
 ---
 
 Not long after Uncle Sammy Coon ate half of Sandy Chipmunk's wheat without paying for it he seemed to grow lamer than ever. And he walked less than ever, too. A good many of the forest-folk said that he really wasn't any lamer--but he was lazier.

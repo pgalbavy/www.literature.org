@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Lightfoot Goes Ashore"
 weight: 9
-aliases:
-  - "/authors/barnum-richard/lightfoot-the-leaping-goat/chapter-09.html"
+url: "/authors/barnum-richard/lightfoot-the-leaping-goat/chapter-09.html"
 ---
 
 Lightfoot, down in the hold of the canal boat, felt the craft slipping through the water easily. He was being carried with it.

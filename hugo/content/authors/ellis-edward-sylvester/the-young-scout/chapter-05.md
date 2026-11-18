@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Compliments At Long Range"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-scout/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-05.html"
 ---
 
 Geronimo, as every reader of these pages knows, has been a "good Indian" for many years. He makes his home among civilized people, has acted as usher at the dedication of a schoolhouse and believes in education. No fault can be found with the old chieftain in these times, but only a few years ago, he was the most terrible scourge of the southwest border.

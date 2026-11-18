@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Last Days"
 weight: 20
-aliases:
-  - "/authors/davis-richard-harding/adventures-and-letters/chapter-20.html"
+url: "/authors/davis-richard-harding/adventures-and-letters/chapter-20.html"
 ---
 
 After a short visit to London, Richard returned to New York in February, 1916. During his absence his wife and Hope had occupied the Scribner cottage at Mount Kisco, about two miles from Crossroads. Here my brother finished his second book on the war, and wrote numerous articles and letters urging the immediate necessity for preparedness in this country. As to Richard's usefulness to his country at this time, I quote in part from two appreciations written after my brother's death by the two most prominent exponents of preparedness.

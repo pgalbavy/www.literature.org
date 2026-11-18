@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Tickets, Please"
 weight: 2
-aliases:
-  - "/authors/lawrence-david-herbert/england-my-england/chapter-02.html"
+url: "/authors/lawrence-david-herbert/england-my-england/chapter-02.html"
 ---
 
 There is in the Midlands a single-line tramway system which boldly leaves the county town and plunges off into the black, industrial countryside, up hill and down dale, through the long ugly villages of workmen's houses, over canals and railways, past churches perched high and nobly over the smoke and shadows, through stark, grimy cold little market-places, tilting away in a rush past cinemas and shops down to the hollow where the collieries are, then up again, past a little rural church, under the ash trees, on in a rush to the terminus, the last little ugly place of industry, the cold little town that shivers on the edge of the wild, gloomy country beyond. There the green and creamy coloured tram-car seems to pause and purr with curious satisfaction. But in a few minutes - the clock on the turret of the Co-operative Wholesale Society's Shops gives the time - away it starts once more on the adventure. Again there are the reckless swoops downhill, bouncing the loops: again the chilly wait in the hill-top market-place: again the breathless slithering round the precipitous drop under the church: again the patient halts at the loops, waiting for the outcoming car: so on and on, for two long hours, till at last the city looms beyond the fat gas-works, the narrow factories draw near, we are in the sordid streets of the great town, once more we sidle to a standstill at our terminus, abashed by the great crimson and cream-coloured city cars, but still perky, jaunty, somewhat dare-devil, green as a jaunty sprig of parsley out of a black colliery garden.

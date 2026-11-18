@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - All Gold Canyon"
 weight: 7
-aliases:
-  - "/authors/london-jack/moon-face/chapter-07.html"
+url: "/authors/london-jack/moon-face/chapter-07.html"
 ---
 
 IT was the green heart of the canyon, where the walls swerved back from the rigid plan and relieved their harshness of line by making a little sheltered nook and filling it to the brim with sweetness and roundness and softness. Here all things rested. Even the narrow stream ceased its turbulent down-rush long enough to form a quiet pool. Knee-deep in the water, with drooping head and half-shut eyes, drowsed a red-coated, many-antlered buck.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Reversion Of The Beast Folk"
 weight: 22
-aliases:
-  - "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-21.html"
+url: "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-21.html"
 ---
 
 IN this way I became one among the Beast People in the Island of Doctor Moreau. When I awoke, it was dark about me. My arm ached in its bandages. I sat up, wondering at first where I might be. I heard coarse voices talking outside. Then I saw that my barricade had gone, and that the opening of the hut stood clear. My revolver was still in my hand.

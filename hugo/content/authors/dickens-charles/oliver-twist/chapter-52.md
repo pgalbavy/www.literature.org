@@ -1,8 +1,7 @@
 ---
 title: "Chapter 52 - Fagin'S Last Night Alive"
 weight: 52
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-52.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-52.html"
 ---
 
 The court was paved, from floor to roof, with human faces. Inquisitive and eager eyes peered from every inch of space. From the rail before the dock, away into the sharpest angle of the smallest corner in the galleries, all looks were fixed upon one man--Fagin. Before him and behind: above, below, on the right and on the left: he seemed to stand surrounded by a firmament, all bright with gleaming eyes.

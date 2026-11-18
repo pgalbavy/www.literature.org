@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/ridge-w-pett/a-son-of-the-state/chapter-05.html"
+url: "/authors/ridge-w-pett/a-son-of-the-state/chapter-05.html"
 ---
 
 EVENTS occurred with a rapidity that, in view of their importance, seemed to Bobbie frankly indecorous. No sooner had he been placed between parallel iron bars in a police court than he was whisked from the iron bars, on the direction of a magistrate, who had a kindly manner with children; after a brief week at the workhouse, looked after by a burly inmate (known to colleagues by the satirical name of the Slogger), Bobbie found himself again carried off swiftly to the court, where, when a number of cases had been heard in which foreign gentlemen and foreign ladies told everything but the truth, Bobbie was hurried in and directed to stand by the side of the dock, an order that annoyed him because this was clearly an attempt to treat him as though he were not a grown up and a perfect criminal. In the rooms adjoining the court he had seen Bat Miller, and Bat Miller had had opportunity of mentioning that he was the only one who would get put away, and that when he came out it would be his pleasurable duty to see that Mrs. Bat Miller found herself repaid for all her trouble.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Startling Awakening"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-13.html"
 ---
 
 *THAT* night, after a bountiful meal, George Shelton quietly said to his brother:

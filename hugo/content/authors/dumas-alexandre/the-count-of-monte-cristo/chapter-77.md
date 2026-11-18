@@ -1,8 +1,7 @@
 ---
 title: "Chapter 77 - Haidee"
 weight: 77
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-77.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-77.html"
 ---
 
 Scarcely had the count's horses cleared the angle of the boulevard, than Albert, turning towards the count, burst into a loud fit of laughter - much too loud in fact not to give the idea of its being rather forced and unnatural. "Well," said he, "I will ask you the same question which Charles IX. put to Catherine de Medicis, after the massacre of Saint Bartholomew, 'How have I played my little part?'"

@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 5"
 weight: 39
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-03-chapter-05.html"
+url: "/authors/london-jack/valley-of-the-moon/book-03-chapter-05.html"
 ---
 
 Early on Monday morning, three days later, Saxon and Billy took an electric car to the end of the line, and started a second time for San Juan. Puddles were standing in the road, but the sun shone from a blue sky, and everywhere, on the ground, was a faint hint of budding green. At Benson's Saxon waited while Billy went in to get his six dollars for the three days' plowing.

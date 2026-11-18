@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Red Crow's Errand"
 weight: 29
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-29.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-29.html"
 ---
 
 The Shawanoe Indian known as Arqu-wao, or Red Crow, had come in sight of the ravine, which was the scene of Blazing Arrow's mishap the preceding day, when he halted with the abruptness described, for he had caught sight of the three Indians, with his detested brother at their head.

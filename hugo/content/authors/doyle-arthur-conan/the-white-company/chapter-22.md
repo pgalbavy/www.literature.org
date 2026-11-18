@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - How The Bowmen Held Wassail At The \u0026quot;Rose De Guienne\u0026quot;"
 weight: 22
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-22.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-22.html"
 ---
 
 "MON Dieu! Alleyne, saw you ever so lovely a face?" cried Ford as they hurried along together. "So pure, so peaceful, and so beautiful!"

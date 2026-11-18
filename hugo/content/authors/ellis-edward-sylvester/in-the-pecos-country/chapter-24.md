@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - A Terrible Bed"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-24.html"
 ---
 
 It was nearly noon, and, having failed so completely in his efforts to regain the pass, Fred determined to devote a little time to procuring food. He was certain that he would soon require it and might postpone his hunt too long. Although now and then he suffered somewhat from want of water, yet it was not for any length of time. There was an abundance of streams and rivulets, and he frequently stumbled upon them, when he had no expectation of doing so. Quaffing his fill from one of these, he rested a few minutes, for he had been laboring unceasingly for hours.

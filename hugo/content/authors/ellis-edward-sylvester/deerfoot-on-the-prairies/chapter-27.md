@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Down The Columbia"
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-27.html"
 ---
 
 *THE* Blackfoot was gratified to find himself able to understand the jargon spoken by the visitors, although he did not know to what tribe they belonged. A marked similarity showed between many words in the two tongues, and conversation progressed better than would have been supposed, Deerfoot being able to comprehend almost as much as his friend.

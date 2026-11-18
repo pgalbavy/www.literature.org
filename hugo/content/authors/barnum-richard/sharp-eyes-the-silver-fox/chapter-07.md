@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Sharp Eyes Is Sold"
 weight: 7
-aliases:
-  - "/authors/barnum-richard/sharp-eyes-the-silver-fox/chapter-07.html"
+url: "/authors/barnum-richard/sharp-eyes-the-silver-fox/chapter-07.html"
 ---
 
 If you have ever been shut up in a dark closet, and could not open the door to get out, you can imagine how bad Sharp Eyes felt. Just as you may have done, he banged against the walls, and pushed against the door, but it would not open.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Tonic"
 weight: 11
-aliases:
-  - "/authors/tarkington-booth/penrod-and-sam/chapter-11.html"
+url: "/authors/tarkington-booth/penrod-and-sam/chapter-11.html"
 ---
 
 These broodings helped a little; but it was a severe morning, and on his way home at noon he did not recover heart enough to practice the bullfrog's croak, the craft that Sam Williams had lately mastered to inspiring perfection. This sonorous accomplishment Penrod had determined to make his own. At once guttural and resonant, impudent yet plaintive, with a barbaric twang like the plucked string of a Congo war-fiddle, the sound had fascinated him. It is made in the throat by processes utterly impossible to describe in human words, and no alphabet as yet produced by civilized man affords the symbols to vocalize it to the ear of imagination. "Gunk" is the poor makeshift that must be employed to indicate it.

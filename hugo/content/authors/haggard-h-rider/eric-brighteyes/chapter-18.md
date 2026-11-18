@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - How Earl Atli Found Eric And Skallagrim On The Southern Rocks Of Straumey Isle"
 weight: 19
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-18.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-18.html"
 ---
 
 Swanhild, robed in white, as though new risen from sleep, stood, candle in hand, by the bed of Atli the Earl, her lord, crying “Awake!”

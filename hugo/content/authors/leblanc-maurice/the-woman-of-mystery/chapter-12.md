@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Major Hermann"
 weight: 12
-aliases:
-  - "/authors/leblanc-maurice/the-woman-of-mystery/chapter-12.html"
+url: "/authors/leblanc-maurice/the-woman-of-mystery/chapter-12.html"
 ---
 
 Resisting the surge of hatred that might have driven him to perform an immediate act of vengeance, Paul at once laid his hand on Bernard's arm to compel him to prudence. But he himself was filled with rage at the sight of that demon. The man who represented in his eyes every one of the crimes committed against his father and his wife, that man was there, in front of his revolver, and Paul must not budge! Nay more, circumstances had taken such a shape that, to a certainty, the man would go away in a few minutes, to commit other crimes, and there was no possibility of calling him to account.

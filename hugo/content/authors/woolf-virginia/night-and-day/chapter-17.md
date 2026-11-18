@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/woolf-virginia/night-and-day/chapter-17.html"
+url: "/authors/woolf-virginia/night-and-day/chapter-17.html"
 ---
 
 When the sun shone, as it did with unusual brightness that Christmas week, it revealed much that was faded and not altogether well-kept-up in Stogdon House and its grounds. In truth, Sir Francis had retired from service under the Government of India with a pension that was not adequate, in his opinion, to his services, as it certainly was not adequate to his ambitions. His career had not come up to his expectations, and although he was a very fine, white-whiskered, mahogany-colored old man to look at, and had laid down a very choice cellar of good reading and good stories, you could not long remain ignorant of the fact that some thunder-storm had soured them; he had a grievance. This grievance dated back to the middle years of the last century, when, owing to some official intrigue, his merits had been passed over in a disgraceful manner in favor of another, his junior.

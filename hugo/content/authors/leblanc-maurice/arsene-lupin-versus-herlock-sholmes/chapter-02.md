@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Blue Diamond"
 weight: 2
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin-versus-herlock-sholmes/chapter-02.html"
+url: "/authors/leblanc-maurice/arsene-lupin-versus-herlock-sholmes/chapter-02.html"
 ---
 
 On the evening of March 27, at number 134 avenue Henri-Martin, in the house that he had inherited from his brother six months before, the old general Baron d'Hautrec, ambassador at Berlin under the second Empire, was asleep in a comfortable armchair, while his secretary was reading to him, and the Sister Auguste was warming his bed and preparing the night-lamp. At eleven o'clock, the Sister, who was obliged to return to the convent of her order at that hour, said to the secretary:

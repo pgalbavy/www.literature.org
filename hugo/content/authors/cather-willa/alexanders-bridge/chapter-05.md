@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/cather-willa/alexanders-bridge/chapter-05.html"
+url: "/authors/cather-willa/alexanders-bridge/chapter-05.html"
 ---
 
 It was the afternoon of the day before Christmas. Mrs. Alexander had been driving about all the morning, leaving presents at the houses of her friends. She lunched alone, and as she rose from the table she spoke to the butler: “Thomas, I am going down to the kitchen now to see Norah. In half an hour you are to bring the greens up from the cellar and put them in the library. Mr. Alexander will be home at three to hang them himself. Don’t forget the stepladder, and plenty of tacks and string. You may bring the azaleas upstairs. Take the white one to Mr. Alexander’s study. Put the two pink ones in this room, and the red one in the drawing-room.”

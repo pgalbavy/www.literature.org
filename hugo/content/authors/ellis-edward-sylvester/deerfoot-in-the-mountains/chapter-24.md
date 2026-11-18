@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Overboard"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-24.html"
 ---
 
 Our friends, after parting with the Lewis and Clark expedition, pressed southward, in search of a milder climate and a more direct route to their homes. They were traversing a region broken by many streams, detached mountain spurs and ranges of lofty elevation. Black Butte, as it is known to-day, in Dawson County, Montana, was left on the left, after which they rode through the valley of Little Porcupine Creek to the Yellowstone, which was crossed with considerable difficulty. Turning more to the east, they passed the rough, precipitous section, the scene many years afterward of the appalling Custer massacre, and now an immense Indian reservation, and, entering the present State of Wyoming, skirted the foothills of the well-known Big Horn range. Here the scenery was of the grandest character. Had the party not been accustomed for months to such impressive exhibitions of the majesty of nature, they could have spent weeks of enjoyment where the like is found in few parts of the world. They pushed on, however, not making what might be termed a real halt until they came to the Laramie Mountains, almost the equal of the former in picturesque beauty.

@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 10"
 weight: 10
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-01-chapter-10.html"
+url: "/authors/london-jack/valley-of-the-moon/book-01-chapter-10.html"
 ---
 
 "I don't know horses," Saxon said. "I've never been on one's back, and the only ones I've tried to drive were single, and lame, or almost falling down, or something. But I'm not afraid of horses. I just love them. I was born loving them, I guess."

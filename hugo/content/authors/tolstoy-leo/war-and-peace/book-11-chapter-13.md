@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 13"
 weight: 242
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-13.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-13.html"
 ---
 
 On Saturday, the thirty-first of August, everything in the Rostovs' house seemed topsy-turvy. All the doors were open, all the furniture was being carried out or moved about, and the mirrors and pictures had been taken down. There were trunks in the rooms, and hay, wrapping paper, and ropes were scattered about. The peasants and house serfs carrying out the things were treading heavily on the parquet floors. The yard was crowded with peasant carts, some loaded high and already corded up, others still empty.

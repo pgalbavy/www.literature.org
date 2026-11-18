@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/huxley-aldous/crome-yellow/chapter-10.html"
+url: "/authors/huxley-aldous/crome-yellow/chapter-10.html"
 ---
 
 Denis did not dance, but when ragtime came squirting out of the pianola in gushes of treacle and hot perfume, in jets of Bengal light, then things began to dance inside him. Little black nigger corpuscles jigged and drummed in his arteries. He became a cage of movement, a walking palais de danse. It was very uncomfortable, like the preliminary symptoms of a disease. He sat in one of the window-seats, glumly pretending to read.

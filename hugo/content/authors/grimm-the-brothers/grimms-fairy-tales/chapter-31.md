@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Ashputtel"
 weight: 31
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-31.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-31.html"
 ---
 
 The wife of a rich man fell sick; and when she felt that her end drew nigh, she called her only daughter to her bed-side, and said, ‘Always be a good girl, and I will look down from heaven and watch over you.’ Soon afterwards she shut her eyes and died, and was buried in the garden; and the little girl went every day to her grave and wept, and was always good and kind to all about her. And the snow fell and spread a beautiful white covering over the grave; but by the time the spring came, and the sun had melted it away again, her father had married another wife. This new wife had two daughters of her own, that she brought home with her; they were fair in face but foul at heart, and it was now a sorry time for the poor little girl. ‘What does the good-for-nothing want in the parlour?’ said they; ‘they who would eat bread should first earn it; away with the kitchen-maid!’ Then they took away her fine clothes, and gave her an old grey frock to put on, and laughed at her, and turned her into the kitchen.

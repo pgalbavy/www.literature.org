@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Squinty And The Boy"
 weight: 5
-aliases:
-  - "/authors/barnum-richard/squinty-the-comical-pig/chapter-05.html"
+url: "/authors/barnum-richard/squinty-the-comical-pig/chapter-05.html"
 ---
 
 Did you ever have a little brother or sister who ran away from home, and was very glad to run back, or be brought back again, by a policeman, perhaps? Of course your little brother or sister may not have intended to run away, it may have been that they only wandered off, around the corner, toward the candy store, and could not find their way back again. But, when he or she did get home--how glad you were to see them! Weren't you?

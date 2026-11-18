@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/daviess-maria-thompson/phyllis/chapter-04.html"
+url: "/authors/daviess-maria-thompson/phyllis/chapter-04.html"
 ---
 
 It does seem a pity that a person can't put an Idol on a pedestal and keep it here without having it come down and bother around the house. The idea of being introduced to Mr. Douglass Byrd and having to speak directly to him with my own voice has kept me miserable all this month in which I have been so perfectly happy being Roxanne's friend and confidante, but it has happened and I'm glad it's over, though it was under trying circumstances.

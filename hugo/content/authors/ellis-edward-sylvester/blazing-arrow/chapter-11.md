@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - In A Corner"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-11.html"
 ---
 
 Larry Murphy's first thought, when he found he had stumbled into something in the nature of a cave, was that it might serve him as a refuge or a fort in the impending fight with the Shawanoes, who were certainly beginning to crowd him hard.

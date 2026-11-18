@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Jewel In The Matrix"
 weight: 16
-aliases:
-  - "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-16.html"
+url: "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-16.html"
 ---
 
 When I awoke from a few hours of deep and exhausted sleep I found my room fast filling with the strenuosities of the day. In fact, I opened them upon Harriet Henderson, up, dressed and briskly doing. She had a large pasteboard box with her and the minute I brushed repose from my eyes she opened it and held up for my inspection a very short tulle garment besprinkled with tiny silk rosebuds, along with a bonnet and other wee but distinctly feminine paraphernalia to match. A basket adorned with a huge bow of tulle came from another box and I was forced to voice my admiration with the greatest vigor.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-06.html"
 ---
 
 The last few sentences that passed between Maggie Brainerd and Golcher, the Tory, were heard, not only by Aunt Maggie, but by the African servant.

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 5 - The Law Of Meat"
 weight: 8
-aliases:
-  - "/authors/london-jack/white-fang/part-02-chapter-05.html"
+url: "/authors/london-jack/white-fang/part-02-chapter-05.html"
 ---
 
 The cub's development was rapid. He rested for two days, and then ventured forth from the cave again. It was on this adventure that he found the young weasel whose mother he had helped eat, and he saw to it that the young weasel went the way of its mother. But on this trip he did not get lost. When he grew tired, he found his way back to the cave and slept. And every day thereafter found him out and ranging a wider area.

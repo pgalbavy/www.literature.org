@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Face To Face"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-23.html"
 ---
 
 Ben Mayberry was sitting at his desk in the Damietta office, one beautiful day in Indian summer, attentive as ever to his duties, when a carriage drove up to the door containing a young gentleman and a lady. The former sprang lightly out and ran into the office, after the manner of one who was in a hurry to send an important telegram.

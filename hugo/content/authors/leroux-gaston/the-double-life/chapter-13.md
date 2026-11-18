@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Cat"
 weight: 14
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-13.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-13.html"
 ---
 
 IT seems that the destiny which controls the lives of men, takes a diabolical pleasure in preceding the worst catastrophe by the serenest of joys. Thus is it often that we are warned of the tempest by the calm.

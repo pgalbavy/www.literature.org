@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Secret Perishes"
 weight: 17
-aliases:
-  - "/authors/leblanc-maurice/the-secret-tomb/chapter-17.html"
+url: "/authors/leblanc-maurice/the-secret-tomb/chapter-17.html"
 ---
 
 The scene had not lasted a minute; and in less than a minute the readjustment had taken place. Defeat was changed to victory.

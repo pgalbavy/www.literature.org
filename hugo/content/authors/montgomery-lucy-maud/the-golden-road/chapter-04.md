@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - New Year Resolutions"
 weight: 5
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-04.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-04.html"
 ---
 
 If we did not have a white Christmas we had a white New Year. Midway between the two came a heavy snowfall. It was winter in our orchard of old delights then,--so truly winter that it was hard to believe summer had ever dwelt in it, or that spring would ever return to it. There were no birds to sing the music of the moon; and the path where the apple blossoms had fallen were heaped with less fragrant drifts. But it was a place of wonder on a moonlight night, when the snowy arcades shone like avenues of ivory and crystal, and the bare trees cast fairy-like traceries upon them. Over Uncle Stephen's Walk, where the snow had fallen smoothly, a spell of white magic had been woven. Taintless and wonderful it seemed, like a street of pearl in the new Jerusalem.

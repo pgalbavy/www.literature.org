@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Fun On The Milldam"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-13.html"
 ---
 
 There was something about the dam across Swift River that Frisky Squirrel simply couldn't keep away from--after he had forgotten, somewhat, his fright at the gristmill. Only a few days passed after Frisky had run home from the mill in a panic, before he was back again. He liked to run across the top of the dam and look down at his reflection in the water on one side. Here and there a narrow stream spilled over the top of the dam. Frisky felt very brave as he leaped over those little rivulets. And he loved to watch them as they fell in thin, silvery cascades upon the rocks far below. It was great sport.

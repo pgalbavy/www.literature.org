@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-20.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-20.html"
 ---
 
 TO obviate the danger of this threat being fulfilled, Mr. Linton commissioned me to take the boy home early, on Catherine's pony; and, said he - 'As we shall now have no influence over his destiny, good or bad, you must say nothing of where he is gone to my daughter: she cannot associate with him hereafter, and it is better for her to remain in ignorance of his proximity; lest she should be restless, and anxious to visit the Heights. Merely tell her his father sent for him suddenly, and he has been obliged to leave us.'

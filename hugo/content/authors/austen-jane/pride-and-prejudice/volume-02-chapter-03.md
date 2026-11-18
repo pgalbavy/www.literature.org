@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 3"
 weight: 26
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-03.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-03.html"
 ---
 
 Mrs. Gardiner's caution to Elizabeth was punctually and kindly given on the first favourable opportunity of speaking to her alone; after honestly telling her what she thought, she thus went on:

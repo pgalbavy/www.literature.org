@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/huxley-aldous/crome-yellow/chapter-15.html"
+url: "/authors/huxley-aldous/crome-yellow/chapter-15.html"
 ---
 
 In the time of the amiable Brantome," Mr. Scogan was saying, "every debutante at the French Court was invited to dine at the King’s table, where she was served with wine in a handsome silver cup of Italian workmanship. It was no ordinary cup, this goblet of the debutantes; for, inside, it had been most curiously and ingeniously engraved with a series of very lively amorous scenes. With each draught that the young lady swallowed these engravings became increasingly visible, and the Court looked on with interest, every time she put her nose in the cup, to see whether she blushed at what the ebbing wine revealed. If the debutante blushed, they laughed at her for her innocence; if she did not, she was laughed at for being too knowing."

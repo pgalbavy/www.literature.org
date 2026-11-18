@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Calypso's Gift"
 weight: 29
-aliases:
-  - "/authors/chambers-robert-w/the-firing-line/chapter-29.html"
+url: "/authors/chambers-robert-w/the-firing-line/chapter-29.html"
 ---
 
 Two days later as his pretty aunt stood in her chamber shaking out the chestnut masses of her hair before her mirror, an impatient rapping at the living-room door sent her maid flying.

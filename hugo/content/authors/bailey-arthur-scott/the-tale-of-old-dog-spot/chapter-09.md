@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A Bundle Of Clothes"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-09.html"
 ---
 
 Old dog Spot was trotting down the road with the bundle of clothes in his mouth--the clothes which belonged to Johnnie Green's friend Red, who was one of the swimming party in the mill pond.

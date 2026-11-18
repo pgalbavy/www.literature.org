@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - New York"
 weight: 18
-aliases:
-  - "/authors/coolidge-dane/rimrock-jones/chapter-18.html"
+url: "/authors/coolidge-dane/rimrock-jones/chapter-18.html"
 ---
 
 Rimrock Jones' return to New York was as dramatic and spectacular as his first visit had been pretentious and prodigal. With two thousand dollars and a big black hat he had passed for a Western millionaire; now, still wearing the hat but loaded down with real money, he returned and was hailed as a Croesus. There are always some people in public life whose least act is heralded to the world; whereas others, much more distinguished but less given to publicity, accomplish miracles and are hardly known. And then there are still others who, fed up with flattery and featured in a hundred ways, are all unwittingly the victims of a publicity bureau whose aim is their ultimate undoing.

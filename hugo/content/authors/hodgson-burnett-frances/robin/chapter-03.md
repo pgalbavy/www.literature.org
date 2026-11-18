@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-03.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-03.html"
 ---
 
 Robin sat at the desk in her private room and looked at a key she held in her hand. She had just come upon it among some papers. She had put it into a narrow lacquered box when she arranged her belongings, after she left the house in which her mother continued to live. It was the key which gave entrance to the Gardens. Each householder possessed one. She alone knew why she rather timidly asked her mother's permission to keep this one.

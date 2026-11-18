@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - At Last"
 weight: 28
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-28.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-28.html"
 ---
 
 *INTERESTING* and thrilling as was the descent of the Columbia, a detailed description of the voyage of the little party of explorers would become monotonous. They were hardly ever out of sight of Indians, all of whom were friendly, although precautions had to be taken against many of them that were thieves and eager to steal anything upon which they could lay hands.

@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 13 - Borne Along By The Tide"
 weight: 52
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-06-chapter-13.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-06-chapter-13.html"
 ---
 
 In less than a week Maggie was at St. Ogg's again, - outwardly in much the same position as when her visit there had just begun. It was easy for her to fill her mornings apart from Lucy without any obvious effort; for she had her promised visits to pay to her aunt Glegg, and it was natural that she should give her mother more than usual of her companionship in these last weeks, especially as there were preparations to be thought of for Tom's housekeeping. But Lucy would hear of no pretext for her remaining away in the evenings; she must always come from aunt Glegg's before dinner, - "else what shall I have of you?" said Lucy, with a tearful pout that could not be resisted.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Prospective Tenderfoot"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-01.html"
 ---
 
 One bright sunshiny day in the summer of 1912, a boy some seventeen years old awoke to the fact that he had lost his way in the depth of the woods of southern Maine.

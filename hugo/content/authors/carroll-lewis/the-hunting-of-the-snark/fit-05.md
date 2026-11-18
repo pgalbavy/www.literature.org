@@ -1,8 +1,7 @@
 ---
 title: "Fit 5 - The Beaver’s Lesson"
 weight: 6
-aliases:
-  - "/authors/carroll-lewis/the-hunting-of-the-snark/fit-05.html"
+url: "/authors/carroll-lewis/the-hunting-of-the-snark/fit-05.html"
 ---
 
 They sought it with thimbles, they sought it with care;  

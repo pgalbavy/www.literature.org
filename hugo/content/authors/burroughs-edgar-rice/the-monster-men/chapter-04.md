@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A New Face"
 weight: 4
-aliases:
-  - "/authors/burroughs-edgar-rice/the-monster-men/chapter-04.html"
+url: "/authors/burroughs-edgar-rice/the-monster-men/chapter-04.html"
 ---
 
 As Professor Maxon and von Horn rushed from the workshop to their own campong, they neglected, in their haste, to lock the door between, and for the first time since the camp was completed it stood unlatched and ajar.

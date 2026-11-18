@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - On Lake Bennet"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-08.html"
 ---
 
 The men wrought steadily in felling trees, and by the close of the second day had enough timber for their raft. It would have been much preferable could they have constructed a good, stout boat; but it was not feasible, though Jeff and Tim would have built it had they possessed the necessary planking and boards. They had provided themselves with oakum, pitch, and other material; but the labor of sawing out the right kind of stuff would have taken weeks. The Irishman had learned from his late experience; as a result of which a double-decker, as it may be termed, was planned. This consisted first of a substantial framework of buoyant pine logs, securely nailed together, while upon that was reared another some two feet in height. This upper framework was intended to bear their outfits, over which were fastened rubber cloths. The Alaskan lakes are often swept by terrific tempests, the waves sometimes dashing entirely over the rafts and boats, and wetting everything that is not well protected. The upper deck serves also partially to protect the men.

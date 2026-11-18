@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 31 - Of The Delectable Discussion Between Don Quixote And Sancho Panza, His Squire, Together With Other Incidents"
 weight: 34
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-31.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-31.html"
 ---
 
 "All that is not unsatisfactory to me," said Don Quixote. "Go on; thou didst reach her; and what was that queen of beauty doing? Surely thou didst find her stringing pearls, or embroidering some device in gold thread for this her enslaved knight."

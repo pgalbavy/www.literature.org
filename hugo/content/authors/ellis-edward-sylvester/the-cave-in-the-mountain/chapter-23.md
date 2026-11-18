@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Border Chivalry"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-23.html"
 ---
 
 As the scout uttered these words, the Apache whirled like lightning and drew his knife. His swarthy, painted face glowed with passion, and his black eyes twinkled with a deadly light. Seeing that he had no weapon but the knife, Sut Simpson, with a certain rude chivalry that did him credit, left his rifle leaning against the tree, while he advanced with a weapon corresponding to that of his enemy, so that both stood upon the same footing.

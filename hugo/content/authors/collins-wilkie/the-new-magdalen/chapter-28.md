@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Sentence Is Pronounced On Her"
 weight: 28
-aliases:
-  - "/authors/collins-wilkie/the-new-magdalen/chapter-28.html"
+url: "/authors/collins-wilkie/the-new-magdalen/chapter-28.html"
 ---
 
 IT was done. The last tones of her voice died away in silence.

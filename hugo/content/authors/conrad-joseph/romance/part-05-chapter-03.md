@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 3"
 weight: 32
-aliases:
-  - "/authors/conrad-joseph/romance/part-05-chapter-03.html"
+url: "/authors/conrad-joseph/romance/part-05-chapter-03.html"
 ---
 
 The entrance to the common prison of Havana was a sort of lofty tunnel, finished by great, iron-rusted, wooden gates. A civil guard was exhibiting the judge's warrant for my committal to a white-haired man, with a red face and blue eyes, that seemed to look through tumbled bushes of silver eyebrows—the *alcayde* of the prison. He bowed, and rattled two farcically large keys. A practicable postern was ajar on the yellow wood of the studded gates. It was as if it afforded a glimpse of the other side of the world. The venerable turnkey, a gnome in a steeple-crowned hat, protruded a blood-red hand backwards in the direction of the postern.

@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 60 - Of What Happened Don Quixote On His Way To Barcelona"
 weight: 116
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-60.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-60.html"
 ---
 
 It was a fresh morning giving promise of a cool day as Don Quixote quitted the inn, first of all taking care to ascertain the most direct road to Barcelona without touching upon Saragossa; so anxious was he to make out this new historian, who they said abused him so, to be a liar. Well, as it fell out, nothing worthy of being recorded happened him for six days, at the end of which, having turned aside out of the road, he was overtaken by night in a thicket of oak or cork trees; for on this point Cide Hamete is not as precise as he usually is on other matters.

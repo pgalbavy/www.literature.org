@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Doctor's Round"
 weight: 2
-aliases:
-  - "/authors/balzac-honore-de/the-country-doctor/chapter-02.html"
+url: "/authors/balzac-honore-de/the-country-doctor/chapter-02.html"
 ---
 
 The first thing next morning Genestas went to the stable, drawn thither by the affection that every man feels for the horse that he rides. Nicolle's method of rubbing down the animal was quite satisfactory.

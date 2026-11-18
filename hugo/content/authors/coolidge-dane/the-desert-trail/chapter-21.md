@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/coolidge-dane/the-desert-trail/chapter-21.html"
+url: "/authors/coolidge-dane/the-desert-trail/chapter-21.html"
 ---
 
 On the morning after they had laughed at the comic paper and decided that all the world was fair, Hooker and Amigo were squatting by the fire and eating a man's-size breakfast.

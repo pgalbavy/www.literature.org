@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The End Of The Vigil"
 weight: 17
-aliases:
-  - "/authors/titus-harold/bruce-of-the-circle-a/chapter-17.html"
+url: "/authors/titus-harold/bruce-of-the-circle-a/chapter-17.html"
 ---
 
 Benny Lynch was at work in the face of the Sunset's lower tunnel. He swung his singlejack swiftly, surely, regularly, and each time it struck the drill, his breath whistled through his lips in the manner of mine workers. His candle, its stick secure in a crack above him, lighted the small chamber and under its uncertain, inefficient rays, his face seemed drawn and hard and old.

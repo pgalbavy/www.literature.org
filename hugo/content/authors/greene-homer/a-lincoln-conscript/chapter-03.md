@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - A Lover Of Lincoln"
 weight: 3
-aliases:
-  - "/authors/greene-homer/a-lincoln-conscript/chapter-03.html"
+url: "/authors/greene-homer/a-lincoln-conscript/chapter-03.html"
 ---
 
 There was an awkward pause. The band, already on its way toward the prisoner, halted. The man who had been pushing Bannister along, loosened his hold. No one seemed quite ready to answer Miss Stark’s question. At last, the chairman of the meeting, feeling that the duty of acting as spokesman devolved properly upon him, replied:--

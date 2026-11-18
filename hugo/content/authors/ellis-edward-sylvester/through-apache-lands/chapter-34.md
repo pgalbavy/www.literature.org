@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - Hurricane Hill"
 weight: 34
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-34.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-34.html"
 ---
 
 While yet at a considerable distance, the full force of the Indians became developed. They were divided almost equally, fifty being on either hand, and their speed still remained such that the main portion kept ahead of the fugitives, with about half a mile intervening between them and their pursuers. It may have been fancy, but Tom Hardynge maintained that he was able to recognize Lone Wolf among the redskins on the right, and when a short time afterward Dick Morris emphatically asserted the same thing, it began to look as if the belief were well founded.

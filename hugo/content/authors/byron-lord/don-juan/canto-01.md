@@ -1,8 +1,7 @@
 ---
 title: "Canto 1"
 weight: 2
-aliases:
-  - "/authors/byron-lord/don-juan/canto-01.html"
+url: "/authors/byron-lord/don-juan/canto-01.html"
 ---
 
 I want a hero: an uncommon want,  

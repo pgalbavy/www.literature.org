@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Grizzly Bear"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-12.html"
 ---
 
 *FROM WHERE* young Brainerd was perched on the tree it was impossible to catch a glimpse of the steam man, so patiently awaiting his return. The distance was also too great for him to make himself beard by the miners, who were hard at work twenty miles away.

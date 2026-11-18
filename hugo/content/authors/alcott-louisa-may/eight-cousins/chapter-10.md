@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Rose's Sacrifice"
 weight: 11
-aliases:
-  - "/authors/alcott-louisa-may/eight-cousins/chapter-10.html"
+url: "/authors/alcott-louisa-may/eight-cousins/chapter-10.html"
 ---
 
 There certainly were "larks" on Campbell's Island next day, as Charlie had foretold, and Rose took her part in them like one intent on enjoying every minute to the utmost. There was a merry breakfast, a successful fishing expedition, and then the lobsters came out in full force, for even Aunt Jessie appeared in red flannel. There was nothing Uncle Alec could not do in the water, and the boys tried their best to equal him in strength and skill, so there was a great diving and ducking, for every one was bent on distinguishing himself.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Sammy Jay Has A Change Of Heart"
 weight: 21
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-21.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-21.html"
 ---
 
 There's no one ever quite so bad  

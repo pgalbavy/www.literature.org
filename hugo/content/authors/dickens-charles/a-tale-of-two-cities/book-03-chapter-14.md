@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 14 - The Knitting Done"
 weight: 44
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-14.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-14.html"
 ---
 
 IN THAT SAME JUNCTURE Of time when the Fifty-Two awaited their fate Madame Defarge held darkly ominous council with The Vengeance and Jacques Three of the Revolutionary Jury. Not in the wine-shop did Madame Defarge confer with these ministers, but in the shed of the woodsawyer, erst a mender of roads. The sawyer himself did not participate in the conference, but abided at a little distance, like an outer satellite who was not to speak until required, or to offer an opinion until invited.

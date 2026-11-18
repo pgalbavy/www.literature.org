@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Ambitions And Letters"
 weight: 13
-aliases:
-  - "/authors/chambers-robert-w/the-danger-mark/chapter-13.html"
+url: "/authors/chambers-robert-w/the-danger-mark/chapter-13.html"
 ---
 
 Rosalie had departed; Grandcourt followed suit next day; Sylvia's brother, Stuyvesant, had at last found a sober moment at his disposal and had appeared at Roya-Neh and taken his sister away. Duane was all ready to go to New York to find out whether his father was worrying over anything, as the tone of his letters indicated.

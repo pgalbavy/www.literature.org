@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Pursuit"
 weight: 13
-aliases:
-  - "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-12.html"
+url: "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-12.html"
 ---
 
 FOR AN INSTANT I STOOD THERE THINKING OF HER, and then, with a sigh, I tucked the book in the thong that supported my loin cloth, and turned to leave the apartment. At the bottom of the corridor which leads aloft from the lower chambers I whistled in accordance with the prearranged signal which was to announce to Perry and Ghak that I had been successful. A moment later they stood beside me, and to my surprise I saw that Hooja the Sly One accompanied them.

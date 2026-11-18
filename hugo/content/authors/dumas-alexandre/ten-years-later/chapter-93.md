@@ -1,8 +1,7 @@
 ---
 title: "Chapter 93 - King Louis Xiv. Does Not Think Mademoiselle De La Valliere Either Rich Enough Or Pretty Enough For A Gentleman Of The Rank Of The Vicomte De Bragelonne"
 weight: 93
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-93.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-93.html"
 ---
 
 Raoul and the Comte de la Fere reached Paris the evening of the same day on which Buckingham had held the conversation with the queen-mother. The count had scarcely arrived, when, through Raoul, he solicited an audience of the king. His majesty had passed a portion of the morning in looking over, with Madame and the ladies of the court, various goods of Lyons manufacture, of which he had made his sister-in-law a present. A court dinner had succeeded, then cards, and afterwards, according to his usual custom, the king, leaving the card-tables at eight o'clock, passed into his cabinet in order to work with M. Colbert and M. Fouquet. Raoul entered the ante-chamber at the very moment the two ministers quitted it, and the king, perceiving him through the half-closed door, said, "What do you want, M. de Bragelonne?"

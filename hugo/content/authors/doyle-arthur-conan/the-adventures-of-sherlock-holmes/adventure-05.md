@@ -1,8 +1,7 @@
 ---
 title: "Adventure 5 - The Five Orange Pips"
 weight: 5
-aliases:
-  - "/authors/doyle-arthur-conan/the-adventures-of-sherlock-holmes/adventure-05.html"
+url: "/authors/doyle-arthur-conan/the-adventures-of-sherlock-holmes/adventure-05.html"
 ---
 
 When I glance over my notes and records of the Sherlock Holmes cases between the years ’82 and ’90, I am faced by so many which present strange and interesting features that it is no easy matter to know which to choose and which to leave. Some, however, have already gained publicity through the papers, and others have not offered a field for those peculiar qualities which my friend possessed in so high a degree, and which it is the object of these papers to illustrate. Some, too, have baffled his analytical skill, and would be, as narratives, beginnings without an ending, while others have been but partially cleared up, and have their explanations founded rather upon conjecture and surmise than on that absolute logical proof which was so dear to him. There is, however, one of these last which was so remarkable in its details and so startling in its results that I am tempted to give some account of it, in spite of the fact that there are points in connection with it which never have been, and probably never will be, entirely cleared up.

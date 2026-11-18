@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Rose Color"
 weight: 19
-aliases:
-  - "/authors/hodgson-burnett-frances/vagabondia/chapter-19.html"
+url: "/authors/hodgson-burnett-frances/vagabondia/chapter-19.html"
 ---
 
 OF course she recovered. What else could she do? If a man is dying for want of bread and you give him bread enough and to spare, he will regain strength and life, will he not? And so with Dolly. Having found Grif, she had nothing to die for and so much to live for, that she lived. It seemed, too, that even if she had been inclined to die, Grif would have held her fast to earth. It was worse than useless to attempt to delude him into leaving her side, even for an hour; he hung over the invalid's couch, in such an anguish of half-despairing anxiety that the hearts of the unceremoniously deposed nurses were quite touched. He watched every change in Dolly's face, every brightening or fading tint in her cheek, every glance of her eyes; he followed her every movement. If she was tired of her posture, he could raise her or lay her down and settle her cushions as no one else could; if she was strong enough to listen, he could talk to her; if she was too weak, he could be silent.

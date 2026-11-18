@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 34
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-34.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-34.html"
 ---
 
 After this climax the interview was not so long as it was interesting. Two men as far apart as the poles, as remote from each other in mind and body, in training and education or lack of it, in desires and intentions, in points of view and trend of being, as nature and circumstances could make them, talked in a language foreign to each other of a wildly strange thing. Palliser's arguments and points of aspect were less unknown to T. Tembarom than his own were to Palliser. He had seen something very like them before, though they had developed in different surroundings and had been differently expressed. The colloquialism “You're not doing that for your health” can be made to cover much ground in the way of the stripping bare of motives for action. This was what, in excellent and well-chosen English, Captain Palliser frankly said to his host. Of nothing which T. Tembarom said to him in his own statement did he believe one word or syllable. The statement in question was not long or detailed. It was, of course, Palliser saw, a ridiculously impudent flinging together of a farrago of nonsense, transparent in its effort beyond belief. Before he had listened five minutes with the distinctly “nasty” smile, he burst out laughing.

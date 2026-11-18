@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/huxley-aldous/antic-hay/chapter-14.html"
+url: "/authors/huxley-aldous/antic-hay/chapter-14.html"
 ---
 
 Mrs. Viveash descended the steps into King Street, and standing there on the pavement looked dubiously first to the right and then to the left. Little and loud, the taxis rolled by on their white wheels, the long-snouted limousines passed with a sigh. The air smelt of watered dust, tempered in Mrs. Viveash’s immediate neighbourhood by those memories of Italian jasmines which were her perfume. On the opposite pavement, in the shade, two young men, looking very conscious of their grey top-hats, marched gravely along.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Hunter Is Disappointed"
 weight: 24
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-24.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-24.html"
 ---
 
 How he knew he was safe, Lightfoot the Deer couldn't have told you. He just knew it, that was all. He couldn't understand a word said by the man in whose yard he found himself when he climbed the bank after his long swim across the Big River. But he didn't have to understand words to know that he had found a friend. So he allowed the man to drive him gently over to an open shed where there was a pile of soft hay and there he lay down, so tired that it seemed to him he couldn't move another step.

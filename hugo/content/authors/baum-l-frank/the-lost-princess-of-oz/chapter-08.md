@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-08.html"
+url: "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-08.html"
 ---
 
 There they sat upon the grass, their heads still swimming from their dizzy flights, and looked at one another in silent bewilderment. But presently, when assured that no one was injured, they grew more calm and collected, and the Lion said with a sigh of relief, "Who would have thought those Merry-Go-Round Mountains were made of rubber?"

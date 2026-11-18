@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Penelope Intervenes"
 weight: 12
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-12.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-12.html"
 ---
 
 The perfume of countless roses, the music of the finest band in Europe, floated through the famous white ballroom of Devenham House. Electric lights sparkled from the ceiling, through the pillared way the ceaseless splashing of water from the fountains in the winter garden seemed like a soft undernote to the murmur of voices, the musical peals of laughter, the swirl of skirts, and the rhythm of flying feet.

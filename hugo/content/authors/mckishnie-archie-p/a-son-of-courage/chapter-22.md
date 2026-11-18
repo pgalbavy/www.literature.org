@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Teacher Johnston Resigns"
 weight: 22
-aliases:
-  - "/authors/mckishnie-archie-p/a-son-of-courage/chapter-22.html"
+url: "/authors/mckishnie-archie-p/a-son-of-courage/chapter-22.html"
 ---
 
 September passed laden with summer perfumes and song and, beneath a blanket of hoar frost, October awoke to send her hazy heralds far across wooded upland and open. Slowly those wreathing mists kissed leaf and fern, as though whispering: "Rest sweetly, until spring brings you back once again."

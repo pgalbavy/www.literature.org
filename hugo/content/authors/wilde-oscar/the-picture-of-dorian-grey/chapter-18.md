@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 19
-aliases:
-  - "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-18.html"
+url: "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-18.html"
 ---
 
 The next day he did not leave the house, and, indeed, spent most of the time in his own room, sick with a wild terror of dying, and yet indifferent to life itself. The consciousness of being hunted, snared, tracked down, had begun to dominate him. If the tapestry did but tremble in the wind, he shook. The dead leaves that were blown against the leaded panes seemed to him like his own wasted resolutions and wild regrets. When he closed his eyes, he saw again the sailor's face peering through the mist-stained glass, and horror seemed once more to lay its hand upon his heart.

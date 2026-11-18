@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Man Who Died"
 weight: 2
-aliases:
-  - "/authors/buchan-john/the-thirty-nine-steps/chapter-01.html"
+url: "/authors/buchan-john/the-thirty-nine-steps/chapter-01.html"
 ---
 
 I returned from the City about three o’clock on that May afternoon pretty well disgusted with life. I had been three months in the Old Country, and was fed up with it. If anyone had told me a year ago that I would have been feeling like that I should have laughed at him; but there was the fact. The weather made me liverish, the talk of the ordinary Englishman made me sick. I couldn’t get enough exercise, and the amusements of London seemed as flat as soda-water that has been standing in the sun. "Richard Hannay," I kept telling myself, "you have got into the wrong ditch, my friend, and you had better climb out."

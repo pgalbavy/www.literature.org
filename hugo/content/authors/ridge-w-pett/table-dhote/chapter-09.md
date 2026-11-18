@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Leading Lady"
 weight: 9
-aliases:
-  - "/authors/ridge-w-pett/table-dhote/chapter-09.html"
+url: "/authors/ridge-w-pett/table-dhote/chapter-09.html"
 ---
 
 TO tell the truth, I was not feeling in my best form. Just before entering the tramcar I had a brief dispute with my mother in regard to the contents of a fruit-shop at the beginning of Gray’s Inn Road. There are many subjects on which the two of us fail to see eye to eye, and frequently a somewhat acrimonious debate ends in triumph on her side. At times, we get along admirably together; at others a recommendation from her that I should not exhibit temper goads me into something like fury. The storm over, I am sorry that it happened. My mother has often remarked that I can be a perfect lady when I like.

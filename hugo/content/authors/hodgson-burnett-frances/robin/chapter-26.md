@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 27
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-26.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-26.html"
 ---
 
 The doctor rode up the climbing moorland road the next morning and paid a long visit to his patient. He was not portentous in manner and he did not confine his conversation to the subject of symptoms. He however included something of subtle cross examination in his friendly talk. The girl's thinness, her sometimes panting breath and the hollow eyes made larger by the black ring of her lashes startled him on first sight of her. He found that the smallness of her appetite presented to Dowie a grave problem.

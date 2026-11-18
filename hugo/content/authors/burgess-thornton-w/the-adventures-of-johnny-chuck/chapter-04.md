@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Johnny Chuck Finds Out Who The Sweet Singers Are"
 weight: 4
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-04.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-04.html"
 ---
 
 Johnny Chuck couldn't keep away from the Smiling Pool. No, Sir, Johnny Chuck couldn't keep away from the Smiling Pool. Ever since he and Peter Rabbit had gone over there looking for the sweet singers, who every night and part of the day told all who would listen how glad they were that Mistress Spring had come to the Green Meadows and the Green Forest, Johnny Chuck had had something on his mind. And this is why he couldn't keep away from the Smiling Pool.

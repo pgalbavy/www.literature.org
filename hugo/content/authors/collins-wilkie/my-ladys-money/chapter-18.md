@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/collins-wilkie/my-ladys-money/chapter-18.html"
+url: "/authors/collins-wilkie/my-ladys-money/chapter-18.html"
 ---
 
 SHARON'S news was not of an encouraging character. He had met with serious difficulties, and had spent the last farthing of Moody's money in attempting to overcome them.

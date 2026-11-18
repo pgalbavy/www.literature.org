@@ -1,8 +1,7 @@
 ---
 title: "Chapter 48 - What Else Could I Do?"
 weight: 48
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-48.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-48.html"
 ---
 
 As soon as I could dry my eyes and compose my spirits after reading the wife's pitiable and dreadful farewell, my first thought was of Eustace--my first anxiety was to prevent him from ever reading what I had read.

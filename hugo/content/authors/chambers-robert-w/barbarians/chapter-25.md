@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Kamerad"
 weight: 25
-aliases:
-  - "/authors/chambers-robert-w/barbarians/chapter-25.html"
+url: "/authors/chambers-robert-w/barbarians/chapter-25.html"
 ---
 
 Down the slope, through the thicket, came a man. She could see his legs only. He wore dust-coloured breeches and tan puttees, like Sticky Smith’s and Kid Glenn’s, only he wore no big, clanking Mexican spurs.

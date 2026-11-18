@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The House In The Pasture"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-01.html"
 ---
 
 One day, when Johnnie Green tramped over the fields toward the woods, he did not dream that he walked right over somebody's bedroom. The snow was deep, for it was midwinter. And as Johnnie crossed his father's pasture he thought only of the fresh rabbit tracks that he saw all about him. He had no way of knowing that beneath the three feet of snow, and as much further below the top of the ground too, there was a snug, cozy little room, where Mr. and Mrs. Woodchuck lay sound asleep on a bed of dried grass.

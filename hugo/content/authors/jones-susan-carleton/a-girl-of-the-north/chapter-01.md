@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-01.html"
+url: "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-01.html"
 ---
 
 THE world called it failure: he called it success, and the thought evolved itself into happiness for a time.

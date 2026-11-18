@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 3 - The Hunger Cry"
 weight: 3
-aliases:
-  - "/authors/london-jack/white-fang/part-01-chapter-03.html"
+url: "/authors/london-jack/white-fang/part-01-chapter-03.html"
 ---
 
 The day began auspiciously. They had lost no dogs during the night, and they swung out upon the trail and into the silence, the darkness, and the cold with spirits that were fairly light. Bill seemed to have forgotten his forebodings of the previous night, and even waxed facetious with the dogs when, at midday, they overturned the sled on a bad piece of trail.

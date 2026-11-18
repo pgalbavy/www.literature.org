@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Moral Swindlers"
 weight: 16
-aliases:
-  - "/authors/eliot-george/impressions-of-theophrastus-such/chapter-16.html"
+url: "/authors/eliot-george/impressions-of-theophrastus-such/chapter-16.html"
 ---
 
 It is a familiar example of irony in the degradation of words that "what a man is worth" has come to mean how much money he possesses; but there seems a deeper and more melancholy irony in the shrunken meaning that popular or polite speech assigns to "morality" and "morals." The poor part these words are made to play recalls the fate of those pagan divinities who, after being understood to rule the powers of the air and the destinies of men, came down to the level of insignificant demons, or were even made a farcical show for the amusement of the multitude.

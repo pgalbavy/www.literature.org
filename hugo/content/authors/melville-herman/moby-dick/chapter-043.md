@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43 - Hark!"
 weight: 43
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-043.html"
+url: "/authors/melville-herman/moby-dick/chapter-043.html"
 ---
 
 "HIST! Did you hear that noise, Cabaco?

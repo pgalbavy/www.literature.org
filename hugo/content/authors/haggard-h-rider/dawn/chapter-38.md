@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38"
 weight: 39
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-38.html"
+url: "/authors/haggard-h-rider/dawn/chapter-38.html"
 ---
 
 George had spoken no falsehood when he said that he felt as though he must marry Angela or go mad. Indeed, it is a striking proof of how necessary he thought that step to be to his happiness, that he had been willing to consent to his cousin's Shylock-like terms about the sale of the property, although they would in their result degrade him from his position as a large landed proprietor, and make a comparatively poor man of him. The danger or suffering that could induce a Caresfoot to half ruin himself with his eyes open had need to be of an extraordinarily pressing nature.

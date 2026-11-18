@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - According To Solomon"
 weight: 4
-aliases:
-  - "/authors/daviess-maria-thompson/andrew-the-glad/chapter-04.html"
+url: "/authors/daviess-maria-thompson/andrew-the-glad/chapter-04.html"
 ---
 
 "And it was by this very pattern, Caroline, I made the dozen I sent Mary Caroline for you. See the little slips fold over and hold up the petticoats," and Mrs. Buchanan held up a tiny garment for Caroline Darrah to admire. They sat by the sunny window in her living-room and both were sewing on dainty cambric and lace. Caroline Darrah's head bent over the piece of ruffling in her hand with flower-like grace and the long lines from her throat suggested decidedly a very lovely Preraphaelite angel. Her needle moved slowly and unaccustomedly but she had the air of doing the hemming bravely if fearfully.

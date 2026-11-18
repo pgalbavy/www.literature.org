@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-11.html"
+url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-11.html"
 ---
 
 "The child's always been well, ma'am," Andrews was standing, the image of exact correctness, in her mistress' bedroom, while Feather lay in bed with her breakfast on a convenient and decorative little table. "It's been a thing I've prided myself on. But I should say she isn't well now."

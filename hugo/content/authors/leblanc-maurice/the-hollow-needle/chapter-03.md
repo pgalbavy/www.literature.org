@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Corpse"
 weight: 3
-aliases:
-  - "/authors/leblanc-maurice/the-hollow-needle/chapter-03.html"
+url: "/authors/leblanc-maurice/the-hollow-needle/chapter-03.html"
 ---
 
 At six o'clock in the evening, having finished all he had to do, M. Filluel, accompanied by M. Bredoux, his clerk, stood waiting for the carriage which was to take him back to Dieppe. He seemed restless, nervous. Twice over, he asked:

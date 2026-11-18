@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Harmless Mr. Meadow Mouse"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-chirpy-cricket/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-chirpy-cricket/chapter-22.html"
 ---
 
 One night when Chirpy Cricket was fiddling his prettiest, not far from the fence between the farmyard and the meadow, he had a queer feeling, as if somebody were gazing at him. And glancing up quickly, he saw that a plump person sat on a fence-rail, busily engaged in staring at him.

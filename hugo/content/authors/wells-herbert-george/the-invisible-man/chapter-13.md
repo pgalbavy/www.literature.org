@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Mr. Marvel Discusses His Resignation"
 weight: 13
-aliases:
-  - "/authors/wells-herbert-george/the-invisible-man/chapter-13.html"
+url: "/authors/wells-herbert-george/the-invisible-man/chapter-13.html"
 ---
 
 When the dusk was gathering and Iping was just beginning to peep timorously forth again upon the shattered wreckage of its Bank Holiday, a short, thick-set man in a shabby silk hat was marching painfully through the twilight behind the beechwoods on the road to Bramblehurst. He carried three books bound together by some sort of ornamental elastic ligature, and a bundle wrapped in a blue tablecloth. His rubicund face expressed consternation and fatigue; he appeared to be in a spasmodic sort of hurry. He was accompanied by a Voice other than his own, and ever and again he winced under the touch of unseen hands.

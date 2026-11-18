@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 11"
 weight: 45
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-03-chapter-11.html"
+url: "/authors/london-jack/valley-of-the-moon/book-03-chapter-11.html"
 ---
 
 "We hiked into Monterey last winter, but we're ridin' out now, b 'gosh!" Billy said as the train pulled out and they leaned back in their seats.

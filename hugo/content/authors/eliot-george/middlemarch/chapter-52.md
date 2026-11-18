@@ -1,8 +1,7 @@
 ---
 title: "Chapter 52"
 weight: 52
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-52.html"
+url: "/authors/eliot-george/middlemarch/chapter-52.html"
 ---
 
 "His heart The lowliest duties on itself did lay." - WORDSWORTH.

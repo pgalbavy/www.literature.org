@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-20.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-20.html"
 ---
 
 As Tarzan and Komodoflorensal realized that Talaskar and Janzara lay exposed to the savage assault of the hungry beasts they both sprang quickly toward the two girls. As had been the case when Komodoflorensal had shot into the pit, the cats were startled by the sudden appearance of these two new humans, and in the first instant of their surprise had leaped again to the far end of the chamber.

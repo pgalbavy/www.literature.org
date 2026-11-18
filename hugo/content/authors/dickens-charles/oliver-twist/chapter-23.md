@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Which Contains The Substance Of A Pleasant Conversation Between Mr. Bumble And A Lady; And Shows That Even A Beadle May Be Susceptible On Some Points"
 weight: 23
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-23.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-23.html"
 ---
 
 The night was bitter cold. The snow lay on the ground, frozen into a hard thick crust, so that only the heaps that had drifted into byways and corners were affected by the sharp wind that howled abroad: which, as if expending increased fury on such prey as it found, caught it savagely up in clouds, and, whirling it into a thousand misty eddies, scattered it in air. Bleak, dark, and piercing cold, it was a night for the well-housed and fed to draw round the bright fire and thank God they were at home; and for the homeless, starving wretch to lay him down and die. Many hunger-worn outcasts close their eyes in our bare streets, at such times, who, let their crimes have been what they may, can hardly open them in a more bitter world.

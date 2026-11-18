@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-16.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-16.html"
 ---
 
 Mr. Brott and Mr. Sabin dined together - not, as it happened, at the House of Commons, but at the former's club in Pall Mall. For Mr. Sabin it was not altogether an enjoyable meal. The club was large, gloomy and political; the cooking was exactly of that order which such surroundings seemed to require. Nor was Mr. Brott a particularly brilliant host. Yet his guest derived a certain amount of pleasure from the entertainment, owing to Brott's constant endeavours to bring the conversation round to Lucille.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Father And Son"
 weight: 4
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-04.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-04.html"
 ---
 
 Raoul followed the well-known road, so dear to his memory, which led from Blois to the residence of the Comte de la Fere.

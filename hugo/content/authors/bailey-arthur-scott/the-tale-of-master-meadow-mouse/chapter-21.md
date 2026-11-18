@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - A Cold Dip"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-21.html"
 ---
 
 IN one way Peter Mink was like Master Meadow Mouse. He enjoyed swimming. And he spent a great deal of his time along the streams that threaded their way through Pleasant Valley. Sometimes Peter dawdled on the banks of Swift River. Sometimes he lingered for days in the neighborhood of Black Creek. Nor did he disdain so small a stream as the brook that crossed the meadow. It was deep enough for a swim. And he knew that muskrats lived under its banks. While as for meadow mice--well, Peter Mink had surprised many a one swimming in the brook. If it hadn't been for the meadow mice perhaps he wouldn't have visited the brook so often.

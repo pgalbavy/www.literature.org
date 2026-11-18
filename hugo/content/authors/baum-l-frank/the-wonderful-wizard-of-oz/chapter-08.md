@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Deadly Poppy Field "
 weight: 9
-aliases:
-  - "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-08.html"
+url: "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-08.html"
 ---
 
 Our little party of travelers awakened the next morning refreshed and full of hope, and Dorothy breakfasted like a princess off peaches and plums from the trees beside the river. Behind them was the dark forest they had passed safely through, although they had suffered many discouragements; but before them was a lovely, sunny country that seemed to beckon them on to the Emerald City.

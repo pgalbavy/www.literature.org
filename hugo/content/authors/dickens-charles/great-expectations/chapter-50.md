@@ -1,8 +1,7 @@
 ---
 title: "Chapter 50"
 weight: 50
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-50.html"
+url: "/authors/dickens-charles/great-expectations/chapter-50.html"
 ---
 
 MY hands had been dressed twice or thrice in the night, and again in the morning. My left arm was a good deal burned to the elbow, and, less severely, as high as the shoulder; it was very painful, but the flames had set in that direction, and I felt thankful it was no worse. My right hand was not so badly burnt but that I could move the fingers. It was bandaged, of course, but much less incon- veniently than my left hand and arm; those I carried in a sling; and I could only wear my coat like a cloak, loose over my shoulders and fastened at the neck. My hair had been caught by the fire, but not my head or face.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Yankee in Search of Adventures"
 weight: 12
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-11.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-11.html"
 ---
 
 THERE never was such a country for wandering liars; and they were of both sexes. Hardly a month went by without one of these tramps arriving; and generally loaded with a tale about some princess or other wanting help to get her out of some far-away castle where she was held in captivity by a lawless scoundrel, usually a giant. Now you would think that the first thing the king would do after listening to such a novelette from an entire stranger, would be to ask for credentials -- yes, and a pointer or two as to locality of castle, best route to it, and so on. But nobody ever thought of so simple and common-sense a thing at that. No, everybody swallowed these people's lies whole, and never asked a question of any sort or about anything. Well, one day when I was not around, one of these people came along -- it was a she one, this time -- and told a tale of the usual pattern. Her mistress was a captive in a vast and gloomy castle, along with forty-four other young and beautiful girls, pretty much all of them princesses; they had been languishing in that cruel captivity for twenty-six years; the masters of the castle were three stupendous brothers, each with four arms and one eye -- the eye in the center of the forehead, and as big as a fruit. Sort of fruit not mentioned; their usual slovenliness in statistics.

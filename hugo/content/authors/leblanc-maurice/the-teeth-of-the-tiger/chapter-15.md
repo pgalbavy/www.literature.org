@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Heir To The Hundred Millions"
 weight: 15
-aliases:
-  - "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-15.html"
+url: "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-15.html"
 ---
 
 On the fourth evening after the tragic events related, an old cab-driver, almost entirely hidden in a huge great-coat, rang at Perenna's door and sent up a letter to Don Luis. He was at once shown into the study on the first floor. Hardly taking time to throw off his great-coat, he rushed at Don Luis:

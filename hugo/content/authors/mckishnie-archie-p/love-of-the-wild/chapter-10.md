@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Colonel Hallibut"
 weight: 10
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-10.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-10.html"
 ---
 
 “Jno. T. Smythe; Seller of guns, ammunition, and provisions; Buyer of furs and game.”

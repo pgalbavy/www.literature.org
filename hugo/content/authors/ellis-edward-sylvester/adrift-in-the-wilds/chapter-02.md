@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Fire"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-02.html"
 ---
 
 "To-morrow we shall be home," said Elwood Brandon, addressing his companion, although at the time he was looking out on the moon-lit sea, in the direction of California.

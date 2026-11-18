@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Locked House"
 weight: 16
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-15.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-15.html"
 ---
 
 From the road, just before he descended to cross the bridge into Brookhollow, he caught a gleam of light straight ahead. For a moment it did not occur to him that there was anything strange in his seeing a light in the old Carew house. Then, suddenly, he realised that a light ought not to be burning behind the lowered shades of a house which was supposed to be empty and locked.

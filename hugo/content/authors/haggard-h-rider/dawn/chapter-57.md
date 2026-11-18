@@ -1,8 +1,7 @@
 ---
 title: "Chapter 57"
 weight: 58
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-57.html"
+url: "/authors/haggard-h-rider/dawn/chapter-57.html"
 ---
 
 That night Arthur dreamed no evil dreams, but he thought he heard a sound outside his door, and some one speak of fire. Hearing nothing more, he turned and went to sleep again. Waking in the early dawn he felt, ere yet his senses fully came, a happy sense of something, he knew not what, a rosy shadow of coming joy, such as will, only with more intensity, fall upon our quickened faculties when, death ended, our souls begin to stir as we awaken to Eternity.

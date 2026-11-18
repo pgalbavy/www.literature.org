@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 1 - The Shrill Trumpet"
 weight: 26
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-05-chapter-01.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-05-chapter-01.html"
 ---
 
 Very early the next morning, before the first peep of the day, Dick arose, changed his garments, armed himself once more like a gentleman, and set forth for Lawless's den in the forest. There, it will be remembered, he had left Lord Foxham's papers; and to get these and be back in time for the tryst with the young Duke of Gloucester could only be managed by an early start and the most vigorous walking.

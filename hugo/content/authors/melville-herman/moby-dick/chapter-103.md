@@ -1,8 +1,7 @@
 ---
 title: "Chapter 103 - Measurement of The Whale's Skeleton"
 weight: 103
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-103.html"
+url: "/authors/melville-herman/moby-dick/chapter-103.html"
 ---
 
 In the first place, I wish to lay before you a particular, plain statement, touching the living bulk of this leviathan, whose skeleton we are briefly to exhibit. Such a statement may prove useful here.

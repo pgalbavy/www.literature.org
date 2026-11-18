@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Castle Of Bragelonne"
 weight: 14
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-14.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-14.html"
 ---
 
 Whilst this scene was going on, D'Artagnan remained with open mouth and a confused gaze. Everything had turned out so differently from what he expected that he was stupefied with wonder.

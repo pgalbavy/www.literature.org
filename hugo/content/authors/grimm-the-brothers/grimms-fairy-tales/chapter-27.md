@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Snowdrop"
 weight: 27
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-27.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-27.html"
 ---
 
 It was the middle of winter, when the broad flakes of snow were falling around, that the queen of a country many thousand miles off sat working at her window. The frame of the window was made of fine black ebony, and as she sat looking out upon the snow, she pricked her finger, and three drops of blood fell upon it. Then she gazed thoughtfully upon the red drops that sprinkled the white snow, and said, ‘Would that my little daughter may be as white as that snow, as red as that blood, and as black as this ebony windowframe!’ And so the little girl really did grow up; her skin was as white as snow, her cheeks as rosy as the blood, and her hair as black as ebony; and she was called Snowdrop.

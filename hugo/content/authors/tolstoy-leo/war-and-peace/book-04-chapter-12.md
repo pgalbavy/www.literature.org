@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 12"
 weight: 80
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-04-chapter-12.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-04-chapter-12.html"
 ---
 
 Iogel's were the most enjoyable balls in Moscow. So said the mothers as they watched their young people executing their newly learned steps, and so said the youths and maidens themselves as they danced till they were ready to drop, and so said the grown-up young men and women who came to these balls with an air of condescension and found them most enjoyable. That year two marriages had come of these balls. The two pretty young Princesses Gorchakov met suitors there and were married and so further increased the fame of these dances. What distinguished them from others was the absence of host or hostess and the presence of the good-natured Iogel, flying about like a feather and bowing according to the rules of his art, as he collected the tickets from all his visitors. There was the fact that only those came who wished to dance and amuse themselves as girls of thirteen and fourteen do who are wearing long dresses for the first time. With scarcely any exceptions they all were, or seemed to be, pretty- so rapturous were their smiles and so sparkling their eyes. Sometimes the best of the pupils, of whom Natasha, who was exceptionally graceful, was first, even danced the pas de chale, but at this last ball only the ecossaise, the anglaise, and the mazurka, which was just coming into fashion, were danced. Iogel had taken a ballroom in Bezukhov's house, and the ball, as everyone said, was a great success. There were many pretty girls and the Rostov girls were among the prettiest. They were both particularly happy and gay. That evening, proud of Dolokhov's proposal, her refusal, and her explanation with Nicholas, Sonya twirled about before she left home so that the maid could hardly get her hair plaited, and she was transparently radiant with impulsive joy.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 34
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-34.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-34.html"
 ---
 
 Major Jack Starland carried out his thoughtlessly formed plan. I fear it must be conceded that his motive was not a wholly chivalrous one. He saw the chance for humiliating the man for whom he felt only unmitigated contempt. He had not a whit of respect for the pompous Bambos, but the ponderous nuisance had not insulted him and his unpardonably. No doubt had the opportunity come to the President of the Zalapatan Republic, he would have acted with similar dishonor, but in the affairs of this world, men are judged by their deeds instead of their motives. Only One can be unerring in his judgments.

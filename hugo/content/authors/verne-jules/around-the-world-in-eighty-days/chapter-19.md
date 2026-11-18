@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-19.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-19.html"
 ---
 
 In which Passepartout takes a too great interest in his master, and what comes of it

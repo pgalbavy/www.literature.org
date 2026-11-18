@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-07.html"
+url: "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-07.html"
 ---
 
 I suppose every reader of this book knows what a scarecrow is; but Jack Pumpkinhead, never having seen such a creation, was more surprised at meeting the remarkable King of the Emerald City than by any other one experience of his brief life.

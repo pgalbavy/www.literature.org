@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 32
-aliases:
-  - "/authors/bronte-charlotte/jane-eyre/chapter-31.html"
+url: "/authors/bronte-charlotte/jane-eyre/chapter-31.html"
 ---
 
 My home, then, when I at last find a home,--is a cottage; a little room with whitewashed walls and a sanded floor, containing four painted chairs and a table, a clock, a cupboard, with two or three plates and dishes, and a set of tea-things in delf. Above, a chamber of the same dimensions as the kitchen, with a deal bedstead and chest of drawers; small, yet too large to be filled with my scanty wardrobe: though the kindness of my gentle and generous friends has increased that, by a modest stock of such things as are necessary.

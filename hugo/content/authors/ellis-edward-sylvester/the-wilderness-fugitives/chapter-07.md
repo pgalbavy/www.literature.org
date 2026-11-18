@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Report Of A Gun"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-07.html"
 ---
 
 There was one matter that caused Ned Clinton so much uneasiness that he appealed to the Mohawk to know whether some attention should not be paid to it. That was the report of the gun which they had heard while on the way to, and only a short distance from, this place. If a gun was fired, it followed that some one must have fired it, and the probabilities were the marksman was not far away. Such was the view of the young scout when he reflected upon the affair. Furthermore, nothing seemed so likely to attract the notice of friend or foe, at night, as the blazing camp fire—the most conspicuous object possible at such a time in the forest.

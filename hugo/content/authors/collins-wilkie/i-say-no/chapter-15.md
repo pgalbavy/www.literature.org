@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Emily"
 weight: 15
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-15.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-15.html"
 ---
 
 "May I say a word?" Mrs. Mosey inquired. She entered the room--pale and trembling. Seeing that ominous change, Emily dropped back into her chair.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Off Duty"
 weight: 6
-aliases:
-  - "/authors/alcott-louisa-may/hospital-sketches/chapter-05.html"
+url: "/authors/alcott-louisa-may/hospital-sketches/chapter-05.html"
 ---
 
 "My dear girl, we shall have you sick in your bed, unless you keep yourself warm and quiet for a few days. Widow Wadman can take care of the ward alone, now the men are so comfortable, and have her vacation when you are about again. Now do be prudent in time, and don't let me have to add a Periwinkle to my bouquet of patients."

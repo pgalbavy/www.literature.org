@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 12"
 weight: 81
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-03-chapter-12.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-03-chapter-12.html"
 ---
 
 The load was tied on. Ivan jumped down and took the quiet, sleek horse by the bridle. The young wife flung the rake up on the load, and with a bold step, swinging her arms, she went to join the women, who were forming a ring for the haymakers' dance. Ivan drove off to the road and fell into line with the other loaded carts. The peasant women, with their rakes on their shoulders, gay with bright flowers, and chattering with ringing, merry voices, walked behind the hay-cart. One wild untrained female voice broke into a song, and sang it alone through a verse, and then the same verse was taken up and repeated by half a hundred strong healthy voices, of all sorts, coarse and fine, singing in unison.

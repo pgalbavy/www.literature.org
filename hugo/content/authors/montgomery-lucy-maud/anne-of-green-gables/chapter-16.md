@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Diana Is Invited to Tea with Tragic Results"
 weight: 16
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-16.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-16.html"
 ---
 
 OCTOBER was a beautiful month at Green Gables, when the birches in the hollow turned as golden as sunshine and the maples behind the orchard were royal crimson and the wild cherry trees along the lane put on the loveliest shades of dark red and bronzy green, while the fields sunned themselves in aftermaths.

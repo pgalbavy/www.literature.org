@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/greene-homer/picketts-gap/chapter-10.html"
+url: "/authors/greene-homer/picketts-gap/chapter-10.html"
 ---
 
 Whenever a member of the Pickett family set his mind on the accomplishment of a certain object, he found no trouble too great, no task too arduous, no effort too severe to bring about the desired end. Abner Pickett set his mind on going home with Dannie. He knew that it would be impossible, that day, to drive back through the blockaded country roads, but that did not deter him. There was the railroad. It was possible that trains might be running on the Mooreville branch. By going on the cars twenty-five miles to Port Lenox, and thence down the river to Fisher’s Eddy, he might still be able to reach home that night. With this plan in view, he hurried along to the railroad station which, fortunately, was only a block from the court-house, and found that a train was scheduled to leave in twenty minutes. There was a lunch-room near by, and, remembering that Dannie had had nothing to eat since his early morning meal, he took the boy in and furnished him with food. Much as it went against Dannie’s inclination to eat, he found himself, after having partaken of his hurried meal, stronger and in better spirits than at any time since his arrival at Mooreville.

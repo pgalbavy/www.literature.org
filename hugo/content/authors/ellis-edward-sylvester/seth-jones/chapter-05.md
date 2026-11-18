@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - On The Trail, And A Sudden Departure From It By Seth"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/seth-jones/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/seth-jones/chapter-05.html"
 ---
 
 "The Mohawks, you say, have then captured her?" remarked Graham, after a moment’s pause.

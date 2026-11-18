@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/london-jack/the-jacket-star-rover/chapter-21.html"
+url: "/authors/london-jack/the-jacket-star-rover/chapter-21.html"
 ---
 
 Pascal somewhere says: "In viewing the march of human evolution, the philosophic mind should look upon humanity as one man, and not as a conglomeration of individuals."

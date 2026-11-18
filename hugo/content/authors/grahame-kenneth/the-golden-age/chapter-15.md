@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Blue Room"
 weight: 16
-aliases:
-  - "/authors/grahame-kenneth/the-golden-age/chapter-15.html"
+url: "/authors/grahame-kenneth/the-golden-age/chapter-15.html"
 ---
 
 THAT nature has her moments of sympathy with man has been noted often enough,—and generally as a new discovery. To us, who had never known any other condition of things, it seemed entirely right and fitting that the wind sang and sobbed in the poplar tops, and, in the lulls of it, sudden spirts of rain spattered the already dusty roads, on that blusterous March day when Edward and I awaited, on the station platform, the arrival of the new tutor. Needless to say, this arrangement had been planned by an aunt, from some fond idea that our shy, innocent young natures would unfold themselves during the walk from the station, and that, on the revelation of each other’s more solid qualities that must inevitably ensue, an enduring friendship, springing from mutual respect, might be firmly based. A pretty dream,—nothing more. For Edward, who foresaw that the brunt of tutorial oppression would have to be borne by him, was sulky, monosyllabic, and determined to be as negatively disagreeable as good manners would permit. It was therefore evident that I would have to be spokesman and purveyor of hollow civilities, and I was none the more amiable on that account; all courtesies, welcomes, explanations, and other court-chamberlain kind of business, being my special aversion. There was much of the tempestuous March weather in the hearts of both of us, as we sullenly glowered along the carriage-windows of the slackening train.

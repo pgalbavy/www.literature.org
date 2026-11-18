@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Queen Alice"
 weight: 9
-aliases:
-  - "/authors/carroll-lewis/through-the-looking-glass/chapter-09.html"
+url: "/authors/carroll-lewis/through-the-looking-glass/chapter-09.html"
 ---
 
 'Well, this is grand!' said Alice. 'I never expected I should be a Queen so soon -- and I'll tell you what it is, your majesty,' she went on in a severe tone (she was always rather fond of scolding herself), 'it'll never do for you to be lolling about on the grass like that! Queens have to be dignified, you know!'

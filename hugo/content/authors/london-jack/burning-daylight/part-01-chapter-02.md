@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 2"
 weight: 2
-aliases:
-  - "/authors/london-jack/burning-daylight/part-01-chapter-02.html"
+url: "/authors/london-jack/burning-daylight/part-01-chapter-02.html"
 ---
 
 It was two in the morning when the dancers, bent on getting something to eat, adjourned the dancing for half an hour. And it was at this moment that Jack Kearns suggested poker. Jack Kearns was a big, bluff-featured man, who, along with Bettles, had made the disastrous attempt to found a post on the head-reaches of the Koyokuk, far inside the Arctic Circle. After that, Kearns had fallen back on his posts at Forty Mile and Sixty Mile and changed the direction of his ventures by sending out to the States for a small sawmill and a river steamer. The former was even then being sledded across Chilcoot Pass by Indians and dogs, and would come down the Yukon in the early summer after the ice-run. Later in the summer, when Bering Sea and the mouth of the Yukon cleared of ice, the steamer, put together at St. Michaels, was to be expected up the river loaded to the guards with supplies.

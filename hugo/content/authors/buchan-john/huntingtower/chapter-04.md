@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Dougal"
 weight: 5
-aliases:
-  - "/authors/buchan-john/huntingtower/chapter-04.html"
+url: "/authors/buchan-john/huntingtower/chapter-04.html"
 ---
 
 "You'll do nothing of the kind," said Dickson. "You're coming home to your supper. It was to be on the chap of nine."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - A Stranger"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-22.html"
 ---
 
 No boy could feel more chagrin and humiliation than did Otto Relstaub, when he sprang forward, and, seizing what he supposed to be the stray colt, found instead that he had grasped the stump of a tree.

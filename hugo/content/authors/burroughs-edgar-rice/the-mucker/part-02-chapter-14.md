@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 14 - 'Twixt Love And Duty"
 weight: 32
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-14.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-14.html"
 ---
 
 FOR an hour Barbara Harding paced the veranda of the ranchhouse, pride and love battling for the ascendency within her breast. She could not let him die, that she knew; but how might she save him?

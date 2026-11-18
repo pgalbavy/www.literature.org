@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Tommy Fox Learns A New Trick"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-19.html"
 ---
 
 Now, there was a road that ran through the valley, along the bank of Swift River. And when Mrs. Fox reached it, with Tommy close behind her, she turned again--this time to the left--and ran along in the beaten track which the horses and sleighs had made.

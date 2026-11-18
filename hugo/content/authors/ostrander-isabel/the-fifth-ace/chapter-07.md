@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Alien Kin"
 weight: 7
-aliases:
-  - "/authors/ostrander-isabel/the-fifth-ace/chapter-07.html"
+url: "/authors/ostrander-isabel/the-fifth-ace/chapter-07.html"
 ---
 
 Mr. Mason North's elation at the culmination of his protracted search gave way to vague but undeniable misgiving before the end of the return journey. Miss Murdaugh was utterly unlike anything he could have preconceived. His trained legal mind, unburdened with imagination, had nevertheless presented possibilities, during the two years of his previous investigation, from which his fastidious soul shrank. What could a creature brought up by a wandering card-sharp in mining-camps and frontier towns offer for rescue and redemption?

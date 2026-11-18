@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/cooper-courtney-ryley/the-crosscut/chapter-19.html"
+url: "/authors/cooper-courtney-ryley/the-crosscut/chapter-19.html"
 ---
 
 Fairchild did not hesitate. Scraping the watery conglomeration into a tobacco can, he threw on his coat and ran for the shaft. Then he pulled himself up, singing, and dived into the fresh-made drifts of a new storm as he started toward town; nor did he stop to investigate the fast fading footprints of some one who evidently had passed the mine a short time before. Fairchild was too happy to notice such things just now; in a tin can in his side pocket was a blackish, muggy mixture which might mean worlds to him; he was hurrying to receive the verdict, which could come only from the retorts and tests of one man, the assayer.

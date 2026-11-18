@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - In Great Peril"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-11.html"
 ---
 
 Deerfoot the Shawanoe had drawn his arrow to the head and was in the very act of launching it at the Wyandot who was advancing on Ned Preston, when he saw that it was unnecessary.

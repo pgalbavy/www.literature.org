@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 3"
 weight: 160
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-03.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-03.html"
 ---
 
 Kitty was particularly glad of a chance of being alone with her husband, for she had noticed the shade of mortification that hadpassed over his face--always so quick to reflect every feeling--at the moment when he had come onto the terrace and asked what they were talking of, and had got no answer.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-24.html"
+url: "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-24.html"
 ---
 
 On leaving Lan-Tcheou, the railway crosses a well-cultivated country, watered by numerous streams, and hilly enough to necessitate frequent curves. There is a good deal of engineering work; mostly bridges, viaducts on wooden trestles of somewhat doubtful solidity, and the traveler is not particularly comfortable when he finds them bending under the weight of the train. It is true we are in the Celestial Empire, and a few thousand victims of a railway accident is hardly anything among a population of four hundred millions.

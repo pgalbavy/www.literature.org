@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 7"
 weight: 131
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-07.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-07.html"
 ---
 
 Vronsky and Anna had been traveling for three months together in Europe. They had visited Venice, Rome, and Naples, and had just arrived at a small Italian town where they meant to stay some time. A handsome head waiter, with thick pomaded hair parted from the neck upwards, an evening coat, a broad white cambric shirt-front, and a bunch of trinkets hanging above his rounded stomach, stood with his hands in the full curve of his pockets, looking contemptuously from under his eyelids while he gave some frigid reply to a gentleman who had stopped him. Catching the sound of footsteps coming from the other side of the entry towards the stair-case, the head waiter turned round, and seeing the Russian count, who had taken their best rooms, he took his hands out of his pockets deferentially, and with a bow informed him that a courier had been, and that the business about the palazzo had been arranged. The steward was prepared to sign the agreement.

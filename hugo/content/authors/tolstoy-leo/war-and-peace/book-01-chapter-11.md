@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 11"
 weight: 11
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-01-chapter-11.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-01-chapter-11.html"
 ---
 
 Silence ensued. The countess looked at her callers, smiling affably, but not concealing the fact that she would not be distressed if they now rose and took their leave. The visitor's daughter was already smoothing down her dress with an inquiring look at her mother, when suddenly from the next room were heard the footsteps of boys and girls running to the door and the noise of a chair falling over, and a girl of thirteen, hiding something in the folds of her short muslin frock, darted in and stopped short in the middle of the room. It was evident that she had not intended her flight to bring her so far. Behind her in the doorway appeared a student with a crimson coat collar, an officer of the Guards, a girl of fifteen, and a plump rosy-faced boy in a short jacket.

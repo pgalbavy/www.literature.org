@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - In Which A Modest Man Maunders"
 weight: 12
-aliases:
-  - "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-12.html"
+url: "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-12.html"
 ---
 
 "In my opinion," said I, "a man who comes to see Paris in three months is a fool, and kin to that celebrated ass who circum-perambulated the globe in eighty days. See all, see nothing. A man might camp a lifetime in the Louvre and learn little about it before he left for Père Lachaise. Yet here comes the United States in a gigantic "*mônome*" to see the city in three weeks, when three years is too short a time in which to appreciate the Carnavalet Museum alone! I'm going home."

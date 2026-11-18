@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 5 - The Great De Barral"
 weight: 12
-aliases:
-  - "/authors/conrad-joseph/chance/part-02-chapter-05.html"
+url: "/authors/conrad-joseph/chance/part-02-chapter-05.html"
 ---
 
 Renovated certainly the saloon of the *Ferndale* was to receive the "strange woman." The mellowness of its old-fashioned, tarnished decoration was gone. And Anthony looking round saw the glitter, the gleams, the colour of new things, untried, unused, very bright—too bright. The workmen had gone only last night; and the last piece of work they did was the hanging of the heavy curtains which looped midway the length of the saloon—divided it in two if released, cutting off the after end with its companion-way leading direct on the poop, from the forepart with its outlet on the deck; making a privacy within a privacy, as though Captain Anthony could not place obstacles enough between his new happiness and the men who shared his life at sea. He inspected that arrangement with an approving eye then made a particular visitation of the whole, ending by opening a door which led into a large state-room made of two knocked into one. It was very well furnished and had, instead of the usual bedplace of such cabins, an elaborate swinging cot of the latest pattern. Anthony tilted it a little by way of trial. "The old man will be very comfortable in here," he said to himself, and stepped back into the saloon closing the door gently. Then another thought occurred to him obvious under the circumstances but strangely enough presenting itself for the first time. "Jove! Won't he get a shock," thought Roderick Anthony.

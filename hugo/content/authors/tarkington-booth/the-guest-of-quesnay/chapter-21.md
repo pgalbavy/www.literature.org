@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/tarkington-booth/the-guest-of-quesnay/chapter-21.html"
+url: "/authors/tarkington-booth/the-guest-of-quesnay/chapter-21.html"
 ---
 
 Mr. Earl Percy and I sat opposite each other at dinner that evening. Perhaps, for charity's sake, I should add that though we faced each other, and, indeed, eyed each other solemnly at intervals, we partook not of the same repast, having each his own table; his being set in the garden at his constant station near the gallery steps, and mine, some fifty feet distant, upon my own veranda, but moved out from behind the honeysuckle screen, for I sat alone and the night was warm.

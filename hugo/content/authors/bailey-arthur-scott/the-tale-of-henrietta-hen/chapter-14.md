@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Ears--Short Or Long"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-14.html"
 ---
 
 Henrietta Hen's heart began to thump. She dropped a bit of cabbage out of her bill, letting it fall as if it burned her. And usually she was very careful as to her table-manners. "Goodness!" she said to Jimmy Rabbit, who was busily munching cabbage in Farmer Green's garden. "You frighten me!"

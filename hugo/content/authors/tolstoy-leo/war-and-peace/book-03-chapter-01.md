@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 1"
 weight: 50
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-03-chapter-01.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-03-chapter-01.html"
 ---
 
 BOOK THREE: 1805

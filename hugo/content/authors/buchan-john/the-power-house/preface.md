@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/buchan-john/the-power-house/preface.html"
+url: "/authors/buchan-john/the-power-house/preface.html"
 ---
 
 TO

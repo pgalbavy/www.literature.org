@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42"
 weight: 42
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-42.html"
+url: "/authors/london-jack/martin-eden/chapter-42.html"
 ---
 
 One day Martin became aware that he was lonely. He was healthy and strong, and had nothing to do. The cessation from writing and studying, the death of Brissenden, and the estrangement from Ruth had made a big hole in his life; and his life refused to be pinned down to good living in cafes and the smoking of Egyptian cigarettes. It was true the South Seas were calling to him, but he had a feeling that the game was not yet played out in the United States. Two books were soon to be published, and he had more books that might find publication. Money could be made out of them, and he would wait and take a sackful of it into the South Seas. He knew a valley and a bay in the Marquesas that he could buy for a thousand Chili dollars. The valley ran from the horseshoe, land- locked bay to the tops of the dizzy, cloud-capped peaks and contained perhaps ten thousand acres. It was filled with tropical fruits, wild chickens, and wild pigs, with an occasional herd of wild cattle, while high up among the peaks were herds of wild goats harried by packs of wild dogs. The whole place was wild. Not a human lived in it. And he could buy it and the bay for a thousand Chili dollars.

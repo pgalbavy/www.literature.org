@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Grumpy's Threat"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-22.html"
 ---
 
 Meeting Grumpy Weasel in the woods one day, Tommy Fox stopped to have a chat with him. He always liked to chat with Grumpy, it was so easy to get him angry, and such fun to see him fly into a passion.

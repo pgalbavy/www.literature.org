@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Release"
 weight: 14
-aliases:
-  - "/authors/lawrence-david-herbert/sons-and-lovers/chapter-14.html"
+url: "/authors/lawrence-david-herbert/sons-and-lovers/chapter-14.html"
 ---
 
 "By the way," said Dr. Ansell one evening when Morel was in Sheffield, "we've got a man in the fever hospital here who comes from Nottingham - Dawes. He doesn't seem to have many belongings in this world."

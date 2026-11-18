@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/chambers-robert-w/the-common-law/chapter-08.html"
+url: "/authors/chambers-robert-w/the-common-law/chapter-08.html"
 ---
 
 Valerie was busy—exceedingly busy arranging matters, in view of the great change impending.

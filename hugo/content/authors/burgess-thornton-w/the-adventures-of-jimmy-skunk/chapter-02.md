@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Peter Makes A Flying Jump"
 weight: 2
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-02.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-02.html"
 ---
 
 To risk your life unless there's need Is downright foolishness indeed.

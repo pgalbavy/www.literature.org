@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43 - Afternoon Visitors"
 weight: 45
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-43.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-43.html"
 ---
 
 Miss Mary Porter was sitting alone in the front drawing-room of her father's house, in Belgravia, on the afternoon of a summer's day in this same year. Two years and more have passed over her head since we first met her, and she may be a thought more sedate and better dressed, but there is no other change to be noticed in her.

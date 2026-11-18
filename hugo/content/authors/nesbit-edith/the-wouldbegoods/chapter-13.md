@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Dragon's Teeth; Or, Army-Seed"
 weight: 13
-aliases:
-  - "/authors/nesbit-edith/the-wouldbegoods/chapter-13.html"
+url: "/authors/nesbit-edith/the-wouldbegoods/chapter-13.html"
 ---
 
 Albert's uncle was out on his bicycle as usual. After the day when we became Canterbury Pilgrims and were brought home in the dog-cart with red wheels by the lady he told us was his long-lost grandmother he had known years ago in India, he spent not nearly so much of his time in writing, and he used to shave every morning instead of only when requisite, as in earlier days. And he was always going out on his bicycle in his new Norfolk suit. We are not so unobserving as grown-up people make out. We knew well enough he was looking for the long-lost. And we jolly well wished he might find her. Oswald, always full of sympathy with misfortune, however undeserved, had himself tried several times to find the lady. So had the others. But all this is what they call a digression; it has nothing to do with the dragon's teeth I am now narrating.

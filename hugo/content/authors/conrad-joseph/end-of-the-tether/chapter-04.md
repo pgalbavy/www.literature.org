@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/conrad-joseph/end-of-the-tether/chapter-04.html"
+url: "/authors/conrad-joseph/end-of-the-tether/chapter-04.html"
 ---
 
 Revolving these thoughts, he strolled on near the railings of the quay, broad-chested, without a stoop, as though his big shoulders had never felt the burden of the loads that must be carried between the cradle and the grave. No single betraying fold or line of care disfigured the reposeful modeling of his face. It was full and untanned; and the upper part emerged, massively quiet, out of the downward flow of silvery hair, with the striking delicacy of its clear complexion and the powerful width of the forehead. The first cast of his glance fell on you candid and swift, like a boy’s; but because of the ragged snowy thatch of the eyebrows the affability of his attention acquired the character of a dark and searching scrutiny. With age he had put on flesh a little, had increased his girth like an old tree presenting no symptoms of decay; and even the opulent, lustrous ripple of white hairs upon his chest seemed an attribute of unquenchable vitality and vigor.

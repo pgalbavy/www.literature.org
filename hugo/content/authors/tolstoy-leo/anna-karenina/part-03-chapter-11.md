@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 11"
 weight: 80
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-03-chapter-11.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-03-chapter-11.html"
 ---
 
 In the middle of July the elder of the village on Levin's sister's estate, about fifteen miles from Pokrovskoe, came to Levin to report on how things were going there and on the hay. The chief source of income on his sister's estate was from the riverside meadows. In former years the hay had been bought by the peasants for twenty roubles the three acres. When Levin took over the management of the estate, he thought on examining the grass-lands that they were worth more, and he fixed the price at twenty-five roubles the three acres. The peasants would not give that price, and, as Levin suspected, kept off other purchasers. Then

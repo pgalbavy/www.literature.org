@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Carthoris and Thuvia"
 weight: 1
-aliases:
-  - "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/chapter-01.html"
+url: "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/chapter-01.html"
 ---
 
 Upon a massive bench of polished ersite beneath the gorgeous blooms of a giant pimalia a woman sat. Her shapely, sandalled foot tapped impatiently upon the jewel-strewn walk that wound beneath the stately sorapus trees across the scarlet sward of the royal gardens of Thuvan Dihn, Jeddak of Ptarth, as a dark-haired, red- skinned warrior bent low toward her, whispering heated words close to her ear.

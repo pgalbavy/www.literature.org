@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Catching Freddie Weasel Asleep"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-22.html"
 ---
 
 When Frisky Squirrel saw Freddie Weasel disappear in the hole in the bank he became greatly excited. He forgot all about going home. And though he had begun to feel somewhat sleepy, he was wide awake again in no time. He sat right down, a little way from the hole, and he never once took his eyes off it.

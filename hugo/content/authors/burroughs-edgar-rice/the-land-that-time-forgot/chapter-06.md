@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/burroughs-edgar-rice/the-land-that-time-forgot/chapter-06.html"
+url: "/authors/burroughs-edgar-rice/the-land-that-time-forgot/chapter-06.html"
 ---
 
 As we strolled slowly back toward the boat, planning and discussing this, we were suddenly startled by a loud and unmistakable detonation.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Grumbler"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-07.html"
 ---
 
 All the farmyard folk agreed that Farmer Green took the best of care of everybody. Mrs. Pig often told her children that they were lucky to have so good a home. And not having lived anywhere else, they never imagined that anything could be finer than their pen.

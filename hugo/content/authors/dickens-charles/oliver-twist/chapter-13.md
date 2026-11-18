@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Some New Acquaintances Are Introduced To The Intelligent Reader, Connected With Whom Various Pleasant Matters Are Related, Appertaining To This History"
 weight: 13
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-13.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-13.html"
 ---
 
 'Where's Oliver?' said the Jew, rising with a menacing look. 'Where's the boy?'

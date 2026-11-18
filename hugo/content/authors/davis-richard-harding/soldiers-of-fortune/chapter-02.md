@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/davis-richard-harding/soldiers-of-fortune/chapter-02.html"
+url: "/authors/davis-richard-harding/soldiers-of-fortune/chapter-02.html"
 ---
 
 A year before Mrs. Porter's dinner a tramp steamer on her way to the capital of Brazil had steered so close to the shores of Olancho that her solitary passenger could look into the caverns the waves had tunnelled in the limestone cliffs along the coast. The solitary passenger was Robert Clay, and he made a guess that the white palisades which fringed the base of the mountains along the shore had been forced up above the level of the sea many years before by some volcanic action. Olancho, as many people know, is situated on the northeastern coast of South America, and its shores are washed by the main equatorial current. From the deck of a passing vessel you can obtain but little idea of Olancho or of the abundance and tropical beauty which lies hidden away behind the rampart of mountains on her shore. You can see only their desolate dark-green front, and the white caves at their base, into which the waves rush with an echoing roar, and in and out of which fly continually thousands of frightened bats.

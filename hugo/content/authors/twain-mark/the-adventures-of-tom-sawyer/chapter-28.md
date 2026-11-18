@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 29
-aliases:
-  - "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-28.html"
+url: "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-28.html"
 ---
 
 THAT night Tom and Huck were ready for their adventure. They hung about the neighborhood of the tavern until after nine, one watching the alley at a distance and the other the tavern door. Nobody entered the alley or left it; nobody resembling the Spaniard entered or left the tavern door. The night promised to be a fair one; so Tom went home with the understanding that if a considerable degree of darkness came on, Huck was to come and "maow," whereupon he would slip out and try the keys. But the night remained clear, and Huck closed his watch and retired to bed in an empty sugar hogshead about twelve.

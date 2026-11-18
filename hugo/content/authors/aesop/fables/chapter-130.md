@@ -1,8 +1,7 @@
 ---
 title: "The Hunter And The Woodman"
 weight: 132
-aliases:
-  - "/authors/aesop/fables/chapter-130.html"
+url: "/authors/aesop/fables/chapter-130.html"
 ---
 
 A HUNTER, not very bold, was searching for the tracks of a Lion. He asked a man felling oaks in the forest if he had seen any marks of his footsteps or knew where his lair was. "I will," said the man, "at once show you the Lion himself." The Hunter, turning very pale and chattering with his teeth from fear, replied, "No, thank you. I did not ask that; it is his track only I am in search of, not the Lion himself." The hero is brave in deeds as well as words.

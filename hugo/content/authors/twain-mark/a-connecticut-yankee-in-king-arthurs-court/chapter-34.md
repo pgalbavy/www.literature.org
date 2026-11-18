@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - The Yankee and the King Sold as Slaves"
 weight: 35
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-34.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-34.html"
 ---
 
 WELL, what had I better do? Nothing in a hurry, sure. I must get up a diversion; anything to employ me while I could think, and while these poor fellows could have a chance to come to life again. There sat Marco, petrified in the act of trying to get the hang of his miller-gun -- turned to stone, just in the attitude he was in when my pile-driver fell, the toy still gripped in his unconscious fingers. So I took it from him and proposed to explain its mystery. Mystery! a simple little thing like that; and yet it was mysterious enough, for that race and that age.

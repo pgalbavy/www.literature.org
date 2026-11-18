@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Stealing An Aeroplane"
 weight: 20
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-20.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-20.html"
 ---
 
 After a long time Jimmie had his bear steak, potatoes and coffee set before the men whom he believed to be the burglars who had been chased across the continent. The two sat down and ate with an appetite, while the boys were not at all slow in consuming large sections of bear.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Fatty And The Green Corn"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-06.html"
 ---
 
 It was mid-summer when Fatty Coon had what he then believed to be the finest time in all his life. And later, when he was older, he still thought that nothing had ever happened to him that was quite so enjoyable as that surprise his mother gave him when he was a young coon.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Helpful Mr. Crow"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-15.html"
 ---
 
 Frisky Squirrel's mother had often told him not to have anything to do with Mr. Crow. "He's such a tricky old fellow!" she said. "He seems to have nothing to do but get folks into trouble. Don't go near him, and don't have anything to say to him."

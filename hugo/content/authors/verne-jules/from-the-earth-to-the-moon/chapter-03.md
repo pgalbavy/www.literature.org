@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/verne-jules/from-the-earth-to-the-moon/chapter-03.html"
+url: "/authors/verne-jules/from-the-earth-to-the-moon/chapter-03.html"
 ---
 
 It is impossible to describe the effect produced by the last words of the honorable president-- the cries, the shouts, the succession of roars, hurrahs, and all the varied vociferations which the American language is capable of supplying. It was a scene of indescribable confusion and uproar. They shouted, they clapped, they stamped on the floor of the hall. All the weapons in the museum discharged at once could not have more violently set in motion the waves of sound. One need not be surprised at this. There are some cannoneers nearly as noisy as their own guns.

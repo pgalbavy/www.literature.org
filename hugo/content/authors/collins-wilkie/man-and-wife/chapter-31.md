@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Seeds Of The Future (First Sowing)"
 weight: 33
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-31.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-31.html"
 ---
 
 "NOT SO large as Windygates. But--shall we say snug, Jones?"

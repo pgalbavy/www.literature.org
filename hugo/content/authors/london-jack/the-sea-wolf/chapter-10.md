@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-10.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-10.html"
 ---
 
 My intimacy with Wolf Larsen increases - if by intimacy may be denoted those relations which exist between master and man, or, better yet, between king and jester. I am to him no more than a toy, and he values me no more than a child values a toy. My function is to amuse, and so long as I amuse all goes well; but let him become bored, or let him have one of his black moods come upon him, and at once I am relegated from cabin table to galley, while, at the same time, I am fortunate to escape with my life and a whole body.

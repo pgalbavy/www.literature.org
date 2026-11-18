@@ -1,8 +1,7 @@
 ---
 title: "Adventure 9 - The Adventure Of The Engineer’s Thumb"
 weight: 9
-aliases:
-  - "/authors/doyle-arthur-conan/the-adventures-of-sherlock-holmes/adventure-09.html"
+url: "/authors/doyle-arthur-conan/the-adventures-of-sherlock-holmes/adventure-09.html"
 ---
 
 Of all the problems which have been submitted to my friend Mr. Sherlock Holmes for solution during the years of our intimacy, there were only two which I was the means of introducing to his notice—that of Mr. Hatherley’s thumb, and that of Colonel Warburton’s madness. Of these the latter may have afforded a finer field for an acute and original observer, but the other was so strange in its inception and so dramatic in its details, that it may be the more worthy of being placed upon record, even if it gave my friend fewer openings for those deductive methods of reasoning by which he achieved such remarkable results. The story has, I believe, been told more than once in the newspapers, but, like all such narratives, its effect is much less striking when set forth en bloc in a single half-column of print than when the facts slowly evolve before your own eyes, and the mystery clears gradually away as each new discovery furnishes a step which leads on to the complete truth. At the time the circumstances made a deep impression upon me, and the lapse of two years has hardly served to weaken the effect.

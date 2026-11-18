@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 3"
 weight: 72
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-03-chapter-03.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-03-chapter-03.html"
 ---
 
 "Do you know I've been thinking about you," said Sergey Ivanovitch. "It's beyond everything what's being done in the district, according to what this doctor tells me. He's a very intelligent fellow. And as I've told you before, I tell you again: it's not right for you not to go to the meetings, and altogether to keep out of the district business. If decent people won't go into it, of course it's bound to go all wrong. We pay the money, and it all goes in salaries, and there are no schools, nor district nurses, nor midwives, nor drug-stores--nothing."

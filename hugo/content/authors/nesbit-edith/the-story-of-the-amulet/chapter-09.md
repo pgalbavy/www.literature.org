@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Atlantis"
 weight: 9
-aliases:
-  - "/authors/nesbit-edith/the-story-of-the-amulet/chapter-09.html"
+url: "/authors/nesbit-edith/the-story-of-the-amulet/chapter-09.html"
 ---
 
 You will understand that the adventure of the Babylonian queen in London was the only one that had occupied any time at all. But the children's time was very fully taken up by talking over all the wonderful things seen and done in the Past, where, by the power of the Amulet, they seemed to spend hours and hours, only to find when they got back to London that the whole thing had been briefer than a lightning flash.

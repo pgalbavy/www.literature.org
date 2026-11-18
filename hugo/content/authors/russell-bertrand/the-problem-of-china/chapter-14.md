@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Industrialism In China"
 weight: 15
-aliases:
-  - "/authors/russell-bertrand/the-problem-of-china/chapter-14.html"
+url: "/authors/russell-bertrand/the-problem-of-china/chapter-14.html"
 ---
 
 China is as yet only slightly industrialized, but the industrial possibilities of the country are very great, and it may be taken as nearly certain that there will be a rapid development throughout the next few decades. China's future depends as much upon the manner of this development as upon any other single factor; and China's difficulties are very largely connected with the present industrial situation. I will therefore first briefly describe this situation, and then consider the possibilities of the near future.

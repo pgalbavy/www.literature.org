@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Vorski's Son"
 weight: 4
-aliases:
-  - "/authors/leblanc-maurice/the-secret-of-sarek/chapter-03.html"
+url: "/authors/leblanc-maurice/the-secret-of-sarek/chapter-03.html"
 ---
 
 Véronique smiled as she sat to starboard on a packing-case, with her face turned towards Honorine. Her smile was anxious still and undefined, full of reticence and flickering as a sunbeam that tries to pierce the last clouds of the storm; but it was nevertheless a happy smile.

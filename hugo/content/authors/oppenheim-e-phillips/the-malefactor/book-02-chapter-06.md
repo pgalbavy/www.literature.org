@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 6 - Spreading The Nets"
 weight: 22
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-06.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-06.html"
 ---
 
 "By the bye," the Marchioness asked him, "have you a Christian name?"

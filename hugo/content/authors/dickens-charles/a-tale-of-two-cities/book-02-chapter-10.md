@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 10 - Two Promises"
 weight: 16
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-10.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-10.html"
 ---
 
 MORE MONTHS, to the number of twelve, had come and gone, and Mr. Charles Darnay was established in England as a higher teacher of the French language who was conversant with French literature. In this age, he would have been a Professor; in that age, he was a Tutor. He read with young men who could find any leisure and interest for the study of a living tongue spoken all over the world, and he cultivated a taste for its stores of knowledge and fancy. He could write of them, besides, in sound English, and render them into sound English. Such masters were not at that time easily found; Princes that had been, and Kings that were to be, were not yet of the Teacher class, and no ruined nobility had dropped out of Tellson's ledgers, to turn cooks and carpenters. As a tutor, whose attainments made the student's way unusually pleasant and profitable, and as an elegant translator who brought something to his work besides mere dictionary knowledge, young Mr. Darnay soon became known and encouraged. He was well acquainted, moreover, with the circumstances of his country, and those were of ever-growing interest. So, with great perseverance and untiring industry, he prospered.

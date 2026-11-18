@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/chambers-robert-w/between-friends/chapter-05.html"
+url: "/authors/chambers-robert-w/between-friends/chapter-05.html"
 ---
 
 Graylock looked at Drene’s heavily sagging pocket and knew what was in it. A sudden sweat chilled his temples, but he said steadily enough:

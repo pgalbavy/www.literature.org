@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Two Little Crimes"
 weight: 3
-aliases:
-  - "/authors/daviess-maria-thompson/andrew-the-glad/chapter-03.html"
+url: "/authors/daviess-maria-thompson/andrew-the-glad/chapter-03.html"
 ---
 
 And then in a few weeks winter had come down from over the hills across the fields and captured the city streets with a blare of northern winds, which had been met and tempered by the mellow autumn breezes that had been slow to retreat and abandon the gold and crimson banners still fluttering on the trees. The snap and crackle of the Thanksgiving frost had melted into a long lazy silence of a few more Indian summer days so that, with lungs filled with the intoxicating draught of this late wine of October, everybody had ridden, driven, hunted, golfed and lived afield.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Egg"
 weight: 1
-aliases:
-  - "/authors/nesbit-edith/the-phoenix-and-the-carpet/chapter-01.html"
+url: "/authors/nesbit-edith/the-phoenix-and-the-carpet/chapter-01.html"
 ---
 
 TO

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Change Of Camp"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-13.html"
 ---
 
 Professor Grimcke and Jared Long stood like a couple of warriors, exhausted from the desperate conflict which they had been waging for hours.

@@ -1,8 +1,7 @@
 ---
 title: "The Trumpeter Taken Prisoner"
 weight: 246
-aliases:
-  - "/authors/aesop/fables/chapter-244.html"
+url: "/authors/aesop/fables/chapter-244.html"
 ---
 
 A TRUMPETER, bravely leading on the soldiers, was captured by the enemy. He cried out to his captors, "Pray spare me, and do not take my life without cause or without inquiry. I have not slain a single man of your troop. I have no arms, and carry nothing but this one brass trumpet." "That is the very reason for which you should be put to death," they said; "for, while you do not fight yourself, your trumpet stirs all the others to battle."

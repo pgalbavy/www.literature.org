@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/chambers-robert-w/the-common-law/chapter-18.html"
+url: "/authors/chambers-robert-w/the-common-law/chapter-18.html"
 ---
 
 Hélène d'Enver had gone back to the country, and Ogilvy dared not pursue her thither.

@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 7 - Better To Be Abel Than Cain"
 weight: 57
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-04-chapter-07.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-04-chapter-07.html"
 ---
 
 Day was breaking at Plashwater Weir Mill Lock. Stars were yet visible, but there was dull light in the east that was not the light of night. The moon had gone down, and a mist crept along the banks of the river, seen through which the trees were the ghosts of trees, and the water was the ghost of water. This earth looked spectral, and so did the pale stars: while the cold eastern glare, expressionless as to heat or colour, with the eye of the firmament quenched, might have been likened to the stare of the dead.

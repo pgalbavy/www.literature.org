@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 13"
 weight: 114
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-04-chapter-13.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-04-chapter-13.html"
 ---
 
 When they rose from table, Levin would have liked to follow Kitty

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 33
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-32.html"
+url: "/authors/haggard-h-rider/dawn/chapter-32.html"
 ---
 
 Arthur arrived in town in a melancholy condition. His was a temperament peculiarly liable to suffer from attacks of depression, and he had, with some excuse, a sufficiently severe one on him now. Do what he would he could not for a single hour free his mind from the sick longing to see or hear from Angela, that, in addition to the mental distress it occasioned him, amounted almost to a physical pain. After two or three days of lounging about his club--for he was in no mood for going out--he began to feel that this sort of thing was intolerable, and that it was absolutely necessary for him to go somewhere or do something.

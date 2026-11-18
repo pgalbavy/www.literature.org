@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Cuffy And The Wonderful Spring"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-03.html"
 ---
 
 The pricks of the porcupine's quills made Cuffy Bear's paws so sore that it was several days before he could run about again. And during all that time Cuffy was a very good little bear. He did not cuff his sister Silkie once. You see, he knew it would hurt his sore paws if he did.

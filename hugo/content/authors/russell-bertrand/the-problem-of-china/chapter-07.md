@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Japan And China Before 1914"
 weight: 8
-aliases:
-  - "/authors/russell-bertrand/the-problem-of-china/chapter-07.html"
+url: "/authors/russell-bertrand/the-problem-of-china/chapter-07.html"
 ---
 
 Before going into the detail of Japan's policy towards China, it is necessary to put the reader on his guard against the habit of thinking of the "Yellow Races," as though China and Japan formed some kind of unity. There are, of course, reasons which, at first sight, would lead one to suppose that China and Japan could be taken in one group in comparison with the races of Europe and of Africa. To begin with, the Chinese and Japanese are both yellow, which points to ethnic affinities; but the political and cultural importance of ethnic affinities is very small. The Japanese assert that the hairy Ainus, who are low in the scale of barbarians, are a white race akin to ourselves. I never saw a hairy Ainu, and I suspect the Japanese of malice in urging us to admit the Ainus as poor relations; but even if they really are of Aryan descent, that does not prove that they have anything of the slightest importance in common with us as compared to what the Japanese and Chinese have in common with us. Similarity of culture is infinitely more important than a common racial origin.

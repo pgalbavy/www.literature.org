@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 3 - The Violet Pamphlet"
 weight: 3
-aliases:
-  - "/authors/leblanc-maurice/the-frontier/part-01-chapter-03.html"
+url: "/authors/leblanc-maurice/the-frontier/part-01-chapter-03.html"
 ---
 
 Jorancé was a heavy and rather unwieldy, pleasant-faced man. Twenty-five years before, when secretary to the commissary at Noirmont, he had married a girl of entrancing beauty, who used to teach the piano in a boarding-school. One evening, after four years of marriage, four years of torture, during which the unhappy man suffered every sort of humiliation, Jorancé came home to find the house empty. His wife had gone without a word of explanation, taking their little girl, Suzanne, with her.

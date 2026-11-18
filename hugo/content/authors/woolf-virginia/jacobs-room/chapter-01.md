@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/woolf-virginia/jacobs-room/chapter-01.html"
+url: "/authors/woolf-virginia/jacobs-room/chapter-01.html"
 ---
 
 "So of course," wrote Betty Flanders, pressing her heels rather deeper in the sand, "there was nothing for it but to leave."

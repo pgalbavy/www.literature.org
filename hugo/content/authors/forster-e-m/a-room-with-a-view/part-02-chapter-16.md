@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 16 - Lying To George"
 weight: 17
-aliases:
-  - "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-16.html"
+url: "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-16.html"
 ---
 
 But Lucy had developed since the spring. That is to say, she was now better able to stifle the emotions of which the conventions and the world disapprove. Though the danger was greater, she was not shaken by deep sobs. She said to Cecil, “I am not coming in to tea--tell mother--I must write some letters,” and went up to her room. Then she prepared for action. Love felt and returned, love which our bodies exact and our hearts have transfigured, love which is the most real thing that we shall ever meet, reappeared now as the world’s enemy, and she must stifle it.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - An Avonlea Scandal"
 weight: 25
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-25.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-25.html"
 ---
 
 One blithe June morning, a fortnight after Uncle Abe's storm, Anne came slowly through the Green Gables yard from the garden, carrying in her hands two blighted stalks of white narcissus.

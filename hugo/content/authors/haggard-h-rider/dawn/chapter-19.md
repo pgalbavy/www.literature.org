@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 20
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-19.html"
+url: "/authors/haggard-h-rider/dawn/chapter-19.html"
 ---
 
 Arthur's sleep was oppressed that night by horrible nightmares of fighting dogs, whereof the largest and most ferocious was fitted with George's red head, the effect of which, screwed, without any eye to the fitness of things, to the body of the deceased Snarleyow, struck him as peculiarly disagreeable. He himself was armed with a gun, and whilst he was still arguing with Sir John Bellamy the nice point whether, should he execute that particular animal, as he felt a carnal longing to do, it would be manslaughter or dogslaughter, he found himself wide awake.

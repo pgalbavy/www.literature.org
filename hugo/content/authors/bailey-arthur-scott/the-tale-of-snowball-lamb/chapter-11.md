@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Cracked Corn"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-11.html"
 ---
 
 The next time Johnnie Green dragged Snowball into the farmyard he shut the gate carefully behind him.

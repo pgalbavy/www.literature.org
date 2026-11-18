@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Council"
 weight: 16
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-15.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-15.html"
 ---
 
 The council of the chiefs was assembling. From every part of Bulungan residency they came, the Rajahs and the Gustis, the Datu Bandars or governors of the Malay villages, and the Orang Kayas and Kapala Kampongs, the Dyak village heads. Their coming was in answer to the call of Peter Gross, resident, for messengers had been sent to every part of the province to announce that a great bitchara (talk) was to be held in Bulungan town.

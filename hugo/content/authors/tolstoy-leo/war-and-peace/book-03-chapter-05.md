@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 5"
 weight: 54
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-03-chapter-05.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-03-chapter-05.html"
 ---
 
 They all separated, but, except Anatole who fell asleep as soon as he got into bed, all kept awake a long time that night.

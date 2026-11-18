@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 2 - In The Fen"
 weight: 3
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-01-chapter-02.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-01-chapter-02.html"
 ---
 
 It was near six in the May morning when Dick began to ride down into the fen upon his homeward way. The sky was all blue; the jolly wind blew loud and steady; the windmill sails were spinning; and the willows over all the fen rippling and whitening like a field of corn. He had been all night in the saddle, but his heart was good and his body sound, and he rode right merrily.

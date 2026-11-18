@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Koyala's Ultimatum"
 weight: 20
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-19.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-19.html"
 ---
 
 The house of Lkath, chief of the Sadong Dyaks, stood on a rocky eminence at the head of Sabu bay. The bay is a narrow arm of the Celebes Sea, whose entrance is cunningly concealed by a series of projecting headlands and jealously guarded by a triple row of saw-tooth rocks whose serrated edges, pointed seaward, threaten mischief to any ship that dares attempt the channel.

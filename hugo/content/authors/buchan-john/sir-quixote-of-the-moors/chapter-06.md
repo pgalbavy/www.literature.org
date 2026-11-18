@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Idle Days"
 weight: 7
-aliases:
-  - "/authors/buchan-john/sir-quixote-of-the-moors/chapter-06.html"
+url: "/authors/buchan-john/sir-quixote-of-the-moors/chapter-06.html"
 ---
 
 I have heard it said by wise folk in France that the autumn is of all seasons of the year the most trying to the health of a soldier; since, for one accustomed to the heat of action and the fire and fury of swift encounter, the decay of summer, the moist, rotting air, and the first chill preludes of winter are hard to stand. This may be true of our own autumn days, but in the north country 'twas otherwise. For there the weather was as sharp and clear as spring, and the only signs of the season were the red leaves and the brown desolate moors. Lindean was built on the slope of the hills, with the steeps behind it, and a vista of level land to the front: so one could watch from the window the red woods of the low country, and see the stream, turgid with past rains, tearing through the meadows. The sun rose in the morning in a blaze of gold and crimson; the days were temperately warm, the afternoons bright, and the evening another procession of colors. 'Twas all so beautiful that I found it hard to keep my thoughts at all on the wanderers in the hills and to think of the house as under a dark shadow.

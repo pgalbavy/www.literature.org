@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Block-House"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-06.html"
 ---
 
 The block-house, known near a century ago as Fort Bridgman, stood on the right bank of the Licking river in Kentucky, and was some thirty odd miles southwest of the present city of Maysville.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 55"
 weight: 55
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-55.html"
+url: "/authors/dickens-charles/great-expectations/chapter-55.html"
 ---
 
 HE was taken to the Police Court next day, and would have been immediately committed for trial, but that it was necessary to send down for an old officer of the prison-ship from which he had once escaped, to speak to his identity. Nobody doubted it; but, Com- peyson, who had meant to depose to it, was tumbling on the tides, dead, and it happened that there was not at that time any prison officer in London who could give the required evidence. I had gone direct to Mr Jaggers at his private house, on my arrival over night, to retain his assistance, and Mr Jaggers on the prisoner's behalf would admit nothing. It was the sole resource, for he told me that the case must be over in five minutes when the witness was there, and that no power on earth could prevent its going against us.

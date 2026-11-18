@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - At The Gates Of Paradise"
 weight: 12
-aliases:
-  - "/authors/greene-homer/burnham-breaker/chapter-12.html"
+url: "/authors/greene-homer/burnham-breaker/chapter-12.html"
 ---
 
 The result of the trial seemed to be a foregone conclusion. Every one said there was no doubt, now, that Ralph was really Robert Burnham's son. People even wondered why Mrs. Burnham did not end the matter by acknowledging the boy and taking him to her home.

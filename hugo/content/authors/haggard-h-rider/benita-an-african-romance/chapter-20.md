@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Jacob Meyer Sees A Spirit"
 weight: 21
-aliases:
-  - "/authors/haggard-h-rider/benita-an-african-romance/chapter-20.html"
+url: "/authors/haggard-h-rider/benita-an-african-romance/chapter-20.html"
 ---
 
 For a while they were silent, then Benita said:

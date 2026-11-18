@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - War Correspondents"
 weight: 12
-aliases:
-  - "/authors/davis-richard-harding/with-the-allies/chapter-11.html"
+url: "/authors/davis-richard-harding/with-the-allies/chapter-11.html"
 ---
 
 The attitude of the newspaper reader toward the war correspondent who tries to supply him with war news has always puzzled me.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-05.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-05.html"
 ---
 
 Accustomed though he was to the sight which he was about to face, Gerald shivered slightly as he opened the door of Mr. Fentolin's room. A strange sort of fear seemed to have crept into his bearing and expression, a fear of which there had been no traces whatever during those terrible hours through which he had passed - not even during that last reckless journey across the marshes. He walked with hesitating footsteps across the spacious and lofty room. He had the air of some frightened creature approaching his master. Yet all that was visible of the despot who ruled his whole household in deadly fear was the kindly and beautiful face of an elderly man, whose stunted limbs and body were mercifully concealed. He sat in a little carriage, with a rug drawn closely across his chest and up to his armpits. His beautifully shaped hands were exposed, and his face; nothing else. His hair was a silvery white; his complexion parchment-like, pallid, entirely colourless. His eyes were a soft shade of blue. His features were so finely cut and chiselled that they resembled some exquisite piece of statuary. He smiled as his nephew came slowly towards him. One might almost have fancied that the young man's abject state was a source of pleasure to him.

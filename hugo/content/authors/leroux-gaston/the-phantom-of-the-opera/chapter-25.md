@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Scorpion Or The Grasshopper: Which?"
 weight: 26
-aliases:
-  - "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-25.html"
+url: "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-25.html"
 ---
 
 *THE PERSIAN'S NARRATIVE CONCLUDED*

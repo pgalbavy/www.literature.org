@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 8"
 weight: 197
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-08.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-08.html"
 ---
 
 Getting up from the table, Levin walked with Gagin through the lofty room to the billiard-room, feeling his arms swing as he walked with a peculiar lightness and ease. As he crossed the big room, he came upon his father-in-law.

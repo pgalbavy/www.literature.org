@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - In The Bush"
 weight: 24
-aliases:
-  - "/authors/london-jack/adventure/chapter-24.html"
+url: "/authors/london-jack/adventure/chapter-24.html"
 ---
 
 It was quite a formidable expedition that departed from Berande at break of day next morning in a fleet of canoes and dinghies. There were Joan and Sheldon, with Binu Charley and Lalaperu, the eight Tahitians, and the ten Poonga-Poonga men, each proud in the possession of a bright and shining modern rifle. In addition, there were two of the plantation boat's-crews of six men each. These, however, were to go no farther than Carli, where water transportation ceased and where they were to wait with the boats. Boucher remained behind in charge of Berande.

@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 2"
 weight: 319
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-02.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-02.html"
 ---
 
 Besides a feeling of aloofness from everybody Natasha was feeling a special estrangement from the members of her own family. All of them- her father, mother, and Sonya- were so near to her, so familiar, so commonplace, that all their words and feelings seemed an insult to the world in which she had been living of late, and she felt not merely indifferent to them but regarded them with hostility. She heard Dunyasha's words about Peter Ilynich and a misfortune, but did not grasp them.

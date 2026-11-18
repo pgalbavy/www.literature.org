@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 5 - The Last Conflict"
 weight: 58
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-07-chapter-05.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-07-chapter-05.html"
 ---
 
 In the second week of September, Maggie was again sitting in her lonely room, battling with the old shadowy enemies that were forever slain and rising again. It was past midnight, and the rain was beating heavily against the window, driven with fitful force by the rushing, loud-moaning wind. For the day after Lucy's visit there had been a sudden change in the weather; the heat and drought had given way to cold variable winds, and heavy falls of rain at intervals; and she had been forbidden to risk the contemplated journey until the weather should become more settled. In the counties higher up the Floss the rains had been continuous, and the completion of the harvest had been arrested. And now, for the last two days, the rains on this lower course of the river had been incessant, so that the old men had shaken their heads and talked of sixty years ago, when the same sort of weather, happening about the equinox, brought on the great floods, which swept the bridge away, and reduced the town to great misery. But the younger generation, who had seen several small floods, thought lightly of these sombre recollections and forebodings; and Bob Jakin, naturally prone to take a hopeful view of his own luck, laughed at his mother when she regretted their having taken a house by the riverside, observing that but for that they would have had no boats, which were the most lucky of possessions in case of a flood that obliged them to go to a distance for food.

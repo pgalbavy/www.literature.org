@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - From Caesar To Lupin"
 weight: 8
-aliases:
-  - "/authors/leblanc-maurice/the-hollow-needle/chapter-08.html"
+url: "/authors/leblanc-maurice/the-hollow-needle/chapter-08.html"
 ---
 
 Dash it all, it took me ten days! Me! Lupin!

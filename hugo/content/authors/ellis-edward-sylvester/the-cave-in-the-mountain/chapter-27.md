@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - The End"
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-27.html"
 ---
 
 "Wall, that ere little matter was settled without any hard words," muttered the scout, as he rode up the ravine. "It ain't the way Lone Wolf generally manages them things, but that affair me and him had, when I took my hoss away from him, I s'pose had something to do with it."

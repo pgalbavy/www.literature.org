@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 23
-aliases:
-  - "/authors/chambers-robert-w/the-crimson-tide/chapter-22.html"
+url: "/authors/chambers-robert-w/the-crimson-tide/chapter-22.html"
 ---
 
 She felt a trifle weak. In her ears there lingered a dull, confused sensation, like the echo of things still falling. Something had gone very wrong with the scheme of nature. Even beneath her feet, now, the floor seemed unsteady, unreliable.

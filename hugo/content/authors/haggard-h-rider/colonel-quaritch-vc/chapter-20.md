@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - \"Good-Bye To You, Edward\""
 weight: 20
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-20.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-20.html"
 ---
 
 It was on the day following the one upon which Harold proposed to Ida, that Edward Cossey returned to Boisingham. His father had so far recovered from his attack as to be at last prevailed upon to allow his departure, being chiefly moved thereto by the supposition that Cossey and Son's branch establishments were suffering from his son's absence.

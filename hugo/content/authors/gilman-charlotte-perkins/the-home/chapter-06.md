@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Home As A Workshop"
 weight: 7
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-home/chapter-06.html"
+url: "/authors/gilman-charlotte-perkins/the-home/chapter-06.html"
 ---
 
 II. The Housemaid

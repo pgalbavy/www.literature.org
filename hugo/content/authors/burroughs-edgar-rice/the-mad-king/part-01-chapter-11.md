@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 11 - A Timely Intervention"
 weight: 11
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mad-king/part-01-chapter-11.html"
+url: "/authors/burroughs-edgar-rice/the-mad-king/part-01-chapter-11.html"
 ---
 
 Nine o'clock found Barney Custer pacing up and down his apartments in the palace. No clue as to the whereabouts of Coblich, Maenck or the king had been discovered. One by one his troopers had returned to Butzow empty-handed, and as much at a loss as to the hiding-place of their quarry as when they had set out upon their search.

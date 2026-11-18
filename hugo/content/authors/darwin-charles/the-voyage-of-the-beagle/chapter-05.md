@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Bahia Blanca"
 weight: 6
-aliases:
-  - "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-05.html"
+url: "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-05.html"
 ---
 
 arrow_rightBahia Blanca arrow_rightGeology arrow_rightNumerous gigantic Quadrupeds arrow_rightRecent Extinction arrow_rightLongevity of species arrow_rightLarge Animals do not require a luxuriant vegetation arrow_rightSouthern Africa arrow_rightSiberian Fossils arrow_rightTwo Species of Ostrich arrow_rightHabits of Oven-bird arrow_rightArmadilloes arrow_rightVenomous Snake, Toad, Lizard arrow_rightHybernation of Animal arrow_rightHabits of Sea-Pen arrow_rightIndian Wars and Massacres arrow_rightArrow-head, antiquarian Relic ---

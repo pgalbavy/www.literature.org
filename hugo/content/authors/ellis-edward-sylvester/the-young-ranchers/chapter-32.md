@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - Away! Away!"
 weight: 32
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-32.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-32.html"
 ---
 
 When George Starr announced his decision to any member of his family no one presumed to question it. Had the son been disposed to do so in this instance he would have refrained, for he believed, with his parent, that he had made known their last and only hope.

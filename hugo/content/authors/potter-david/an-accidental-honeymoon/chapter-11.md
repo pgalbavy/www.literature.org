@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/potter-david/an-accidental-honeymoon/chapter-11.html"
+url: "/authors/potter-david/an-accidental-honeymoon/chapter-11.html"
 ---
 
 So near had Danton been to Fessenden's thoughts that he was able instantly to connect the Baltimorean's presence with the shopkeeper's talk of the people from the steam yacht. He was the first to speak.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Edgar Poe’s Romance"
 weight: 5
-aliases:
-  - "/authors/verne-jules/an-antartic-mystery/chapter-05.html"
+url: "/authors/verne-jules/an-antartic-mystery/chapter-05.html"
 ---
 
 In this chapter I have to give a brief summary of Edgar Poe's romance, which was published at Richmond under the title of

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 17
-aliases:
-  - "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-16.html"
+url: "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-16.html"
 ---
 
 A cold rain began to fall, and the blurred street-lamps looked ghastly in the dripping mist. The public-houses were just closing, and dim men and women were clustering in broken groups round their doors. From some of the bars came the sound of horrible laughter. In others, drunkards brawled and screamed.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Alarm"
 weight: 8
-aliases:
-  - "/authors/williams-frank/the-wilderness-trail/chapter-08.html"
+url: "/authors/williams-frank/the-wilderness-trail/chapter-08.html"
 ---
 
 Darkness had just fallen over the snow-enshrouded fort. Three hours ago, Maria, with her stoical Indian son, had pulled out behind a dog-train with fresh supplies. The old squaw had been balked in her attempt to see the factor. Since she had not been sent for, she did not dare try to force another entrance.

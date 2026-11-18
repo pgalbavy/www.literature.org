@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 5"
 weight: 13
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-02-chapter-05.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-02-chapter-05.html"
 ---
 
 This was a gentleman no longer young, of a stiff and portly appearance, and a cautious and sour countenance. He began by stopping short in the doorway, staring about him with offensive and undisguised astonishment, as though asking himself what sort of place he had come to. Mistrustfully and with an affectation of being alarmed and almost affronted, he scanned Raskolnikov's low and narrow "cabin." With the same amazement he stared at Raskolnikov, who lay undressed, dishevelled, unwashed, on his miserable dirty sofa, looking fixedly at him. Then with the same deliberation he scrutinised the uncouth, unkempt figure and unshaven face of Razumihin, who looked him boldly and inquiringly in the face without rising from his seat. A constrained silence lasted for a couple of minutes, and then, as might be expected, some scene-shifting took place. Reflecting, probably from certain fairly unmistakable signs, that he would get nothing in this "cabin" by attempting to overawe them, the gentleman softened somewhat, and civilly, though with some severity, emphasising every syllable of his question, addressed Zossimov:

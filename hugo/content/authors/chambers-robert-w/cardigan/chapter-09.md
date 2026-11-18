@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/chambers-robert-w/cardigan/chapter-09.html"
+url: "/authors/chambers-robert-w/cardigan/chapter-09.html"
 ---
 
 My first three weeks in the woods were weeks of heaven. Never had I seen the forest so beautiful, never had the soft velvet lights clothed the wilderness with such exquisite mystery. Along the stony beds of lost ravines I passed and saw the frosty bowlders lie like silver mounds in the dawn, glimmering through steaming waters. I passed at eventide when the sunset turned the cliffs to crumbling crags of gold, and I saw massed mountain peaks reflected in pools where the shadows of great fish moved like clouds.

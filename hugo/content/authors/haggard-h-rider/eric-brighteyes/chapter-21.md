@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - How Hall Of Lithdale Took Tidings To Iceland"
 weight: 22
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-21.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-21.html"
 ---
 
 Now on the same night that Atli died at the hand of Eric, Swanhild spake with Hall of Lithdale, whom she had summoned from the mainland. She bade him do this: take passage in a certain ship that should sail for Iceland on the morrow from the island that is called Westra, and there tell all these tidings of the ill-doings of Eric and of the slaying of Atli by his hand.

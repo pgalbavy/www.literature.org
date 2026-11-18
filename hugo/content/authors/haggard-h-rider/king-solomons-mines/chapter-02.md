@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Legend Of Solomon's Mines"
 weight: 3
-aliases:
-  - "/authors/haggard-h-rider/king-solomons-mines/chapter-02.html"
+url: "/authors/haggard-h-rider/king-solomons-mines/chapter-02.html"
 ---
 
 "What was it that you heard about my brother's journey at Bamangwato?" asked Sir Henry, as I paused to fill my pipe before replying to Captain Good.

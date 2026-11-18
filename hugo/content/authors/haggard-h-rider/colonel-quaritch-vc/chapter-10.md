@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Tennis Party"
 weight: 10
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-10.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-10.html"
 ---
 
 Ida shook hands coldly enough with the lawyer, for whom she cherished a dislike not unmixed with fear. Many women are by nature gifted with an extraordinary power of intuition which fully makes up for their deficiency in reasoning force. They do not conclude from the premisses of their observation, they know that this man is to be feared and that trusted. In fact, they share with the rest of breathing creation that self-protective instinct of instantaneous and almost automatic judgment, given to guard it from the dangers with which it is continually threatened at the hands of man's over-mastering strength and ordered intelligence. Ida was one of these. She knew nothing to Mr. Quest's disadvantage, indeed she always heard him spoken of with great respect, and curiously enough she liked his wife. But she could not bear the man, feeling in her heart that he was not only to be avoided on account of his own hidden qualities, but that he was moreover an active personal enemy.

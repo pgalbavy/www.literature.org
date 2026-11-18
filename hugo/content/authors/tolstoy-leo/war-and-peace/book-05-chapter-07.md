@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 7"
 weight: 91
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-05-chapter-07.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-05-chapter-07.html"
 ---
 
 When Boris and Anna Pavlovna returned to the others Prince Hippolyte had the ear of the company.

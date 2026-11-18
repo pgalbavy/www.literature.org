@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Omissions"
 weight: 11
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-11.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-11.html"
 ---
 
 Now the rest of the acts of Mr. Hoopdriver in Guildford, on the great opening day of his holidays, are not to be detailed here. How he wandered about the old town in the dusk, and up to the Hogsback to see the little lamps below and the little stars above come out one after another; how he returned through the yellow-lit streets to the Yellow Hammer Coffee Tavern and supped bravely in the commercial room--a Man among Men; how he joined in the talk about flying-machines and the possibilities of electricity, witnessing that fiying-machines were "dead certain to come," and that electricity was "wonderful, wonderful"; how he went and watched the billiard playing and said, "Left 'em" several times with an oracular air; how he fell a-yawning; and how he got out his cycling map and studied it intently,--are things that find no mention here. Nor will I enlarge upon his going into the writing-room, and marking the road from London to Guildford with a fine, bright line of the reddest of red ink. In his little cyclist hand-book there is a diary, and in the diary there is an entry of these things--it is there to this day, and I cannot do better than reproduce it here to witness that this book is indeed a true one, and no lying fable written to while away an hour.

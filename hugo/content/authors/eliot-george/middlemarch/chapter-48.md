@@ -1,8 +1,7 @@
 ---
 title: "Chapter 48"
 weight: 48
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-48.html"
+url: "/authors/eliot-george/middlemarch/chapter-48.html"
 ---
 
 Surely the golden hours are turning gray And dance no more, and vainly strive to run: I see their white locks streaming in the wind - Each face is haggard as it looks at me, Slow turning in the constant clasping round Storm-driven.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Fall"
 weight: 6
-aliases:
-  - "/authors/greene-homer/the-blind-brother/chapter-06.html"
+url: "/authors/greene-homer/the-blind-brother/chapter-06.html"
 ---
 
 It was true. Carolan’s quick eye had noticed the opportunity for Rennie to escape, and his fertile brain had been swift in planning an immediate rescue. The few members of his order that he could find on the instant were gathered together; there was a sudden onslaught at a dark corner of the Court-House Square; the sheriff and his deputy lay prone upon the ground, and their prisoner was slipping away through the dark, foggy streets, with a policeman’s bullet whizzing past his ears, and his band of rescuers struggling with the amazed officers.

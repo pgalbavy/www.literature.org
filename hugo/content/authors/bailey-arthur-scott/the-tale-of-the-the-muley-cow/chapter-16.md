@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Clover Tops"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-16.html"
 ---
 
 The Muley Cow noticed that Billy Woodchuck was making many trips back and forth across the pasture. Watching him carefully, she saw that he always crept under the fence and stole into the field where the clover grew. And every time he came back again he looked plumper than before.

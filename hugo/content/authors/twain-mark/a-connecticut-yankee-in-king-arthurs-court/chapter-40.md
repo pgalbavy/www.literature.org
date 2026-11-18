@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40 - Three Years Later"
 weight: 41
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-40.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-40.html"
 ---
 
 WHEN I broke the back of knight-errantry that time, I no longer felt obliged to work in secret. So, the very next day I exposed my hidden schools, my mines, and my vast system of clandestine factories and workshops to an astonished world. That is to say, I exposed the nineteenth century to the inspection of the sixth.

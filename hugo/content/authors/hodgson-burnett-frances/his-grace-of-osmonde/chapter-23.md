@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Her Ladyship Returns To Town"
 weight: 24
-aliases:
-  - "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-23.html"
+url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-23.html"
 ---
 
 Upon the awful occasion of his kinsman's sudden death in the midst of the glittering throng of his guests, my lord Duke had spoken for the first time to her ladyship of Dunstanwolde's sister, the gentle Mistress Anne. His Grace had chanced to encounter this lady under such circumstances as naturally led them to address each other, and he being glad to have speech with her on whom his thoughts had dwelt so kindly, had remained in attendance upon her, escorting her through the crowd of celebrities and leading her to the supper-room for refreshment. Had she been wholly a stranger to him, she was one who would have appealed to his heart and touched it, she was so slight and modest a creature, her eyes so soft and loving and her low voice so timid. Such women always moved him and awakened in him that tenderness the weak should always waken in the strong. But Mistress Anne did more; seeming to him, when she spoke of her sister or looked at her, surely the fondest creature Nature had ever made.

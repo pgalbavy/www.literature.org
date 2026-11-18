@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 4"
 weight: 40
-aliases:
-  - "/authors/austen-jane/emma/volume-03-chapter-04.html"
+url: "/authors/austen-jane/emma/volume-03-chapter-04.html"
 ---
 
 A very few days had passed after this adventure, when Harriet came one morning to Emma with a small parcel in her hand, and after sitting down and hesitating, thus began:

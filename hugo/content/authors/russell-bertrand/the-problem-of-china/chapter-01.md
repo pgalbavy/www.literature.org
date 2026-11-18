@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Questions"
 weight: 2
-aliases:
-  - "/authors/russell-bertrand/the-problem-of-china/chapter-01.html"
+url: "/authors/russell-bertrand/the-problem-of-china/chapter-01.html"
 ---
 
 A European lately arrived in China, if he is of a receptive and reflective disposition, finds himself confronted with a number of very puzzling questions, for many of which the problems of Western Europe will not have prepared him. Russian problems, it is true, have important affinities with those of China, but they have also important differences; moreover they are decidedly less complex. Chinese problems, even if they affected no one outside China, would be of vast importance, since the Chinese are estimated to constitute about a quarter of the human race. In fact, however, all the world will be vitally affected by the development of Chinese affairs, which may well prove a decisive factor, for good or evil, during the next two centuries. This makes it important, to Europe and America almost as much as to Asia, that there should be an intelligent understanding of the questions raised by China, even if, as yet, definite answers are difficult to give.

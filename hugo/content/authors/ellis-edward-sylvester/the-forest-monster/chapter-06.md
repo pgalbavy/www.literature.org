@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Black Tom’s Adventure"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/the-forest-monster/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/the-forest-monster/chapter-06.html"
 ---
 
 Old Stebbins and Teddy O’Doherty crawled carefully over the rocks and bowlders until they were near enough to gain an unobstructed view of the camp-fire, when they paused, somewhat astonished.

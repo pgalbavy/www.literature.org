@@ -1,8 +1,7 @@
 ---
 title: "Introduction"
 weight: 1
-aliases:
-  - "/authors/darwin-charles/the-descent-of-man/introduction.html"
+url: "/authors/darwin-charles/the-descent-of-man/introduction.html"
 ---
 
 THE NATURE of the following work will be best understood by a brief account of how it came to be written. During many years I collected notes on the origin or descent of man, without any intention of publishing on the subject, but rather with the determination not to publish, as I thought that I should thus only add to the prejudices against my views. It seemed to me sufficient to indicate, in the first edition of my Origin of Species, that by this work "light would be thrown on the origin of man and his history"; and this implies that man must be included with other organic beings in any general conclusion respecting his manner of appearance on this earth. Now the case wears a wholly different aspect. When a naturalist like Carl Vogt ventures to say in his address as President of the National Institution of Geneva (1869), "personne, en Europe au moins, n'ose plus soutenir la creation independante et de toutes pieces, des especes," it is manifest that at least a large number of naturalists must admit that species are the modified descendants of other species; and this especially holds good with the younger and rising naturalists. The greater number accept the agency of natural selection; though some urge, whether with justice the future must decide, that I have greatly overrated its importance. Of the older and honoured chiefs in natural science, many unfortunately are still opposed to evolution in every form.

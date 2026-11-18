@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-05.html"
+url: "/authors/haggard-h-rider/dawn/chapter-05.html"
 ---
 
 Philip did not neglect to go to luncheon at Rewtham house, and a very pleasant luncheon it was; indeed, it would have been difficult for him to have said which he found the pleasantest: Maria's cheerful chatter and flattering preference, or Hilda's sweet and gracious presence.

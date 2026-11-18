@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 9"
 weight: 9
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-09.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-09.html"
 ---
 
 At four o'clock, conscious of his throbbing heart, Levin stepped out of a hired sledge at the Zoological Gardens, and turned along the path to hte frozen mounds and the skating ground, knowing that he would certainly find her there, as he had seen the Shtcherbatskys' carriage at the entrance.

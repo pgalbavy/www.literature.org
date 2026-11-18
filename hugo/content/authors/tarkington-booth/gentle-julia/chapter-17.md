@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/tarkington-booth/gentle-julia/chapter-17.html"
+url: "/authors/tarkington-booth/gentle-julia/chapter-17.html"
 ---
 
 The hateful entreaty still murmured in her resentful ears, that night, as she fell asleep; and she passed into the beginnings of a dream with her lips slightly dimpling the surface of her pillow in belated repartee. And upon waking, though it was Sunday, her first words, half slumbrous in the silence of the morning, were, "Vile Things!" Her faculties became more alert during the preparation of a toilet that was to serve not only for breakfast, but with the addition of gloves, a hat, and a blue-velvet coat, for Church and Sunday-school as well; and she planned a hundred vengeances. That is to say, her mind did not occupy itself with plots possible to make real; but rather it dabbled among those fragmentary visions that love to overlap and displace one another upon the changeful retina of the mind's eye.

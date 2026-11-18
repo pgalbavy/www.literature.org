@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Madness Of John Harned"
 weight: 2
-aliases:
-  - "/authors/london-jack/the-night-born/chapter-02.html"
+url: "/authors/london-jack/the-night-born/chapter-02.html"
 ---
 
 I TELL this for a fact. It happened in the bull-ring at Quito. I sat in the box with John Harned, and with Maria Valenzuela, and with Luis Cervallos. I saw it happen. I saw it all from first to last. I was on the steamer Ecuadore from Panama to Guayaquil. Maria Valenzuela is my cousin. I have known her always. She is very beautiful. I am a Spaniard--an Ecuadoriano, true, but I am descended from Pedro Patino, who was one of Pizarro's captains. They were brave men. They were heroes. Did not Pizarro lead three hundred and fifty Spanish cavaliers and four thousand Indians into the far Cordilleras in search of treasure? And did not all the four thousand Indians and three hundred of the brave cavaliers die on that vain quest? But Pedro Patino did not die. He it was that lived to found the family of the Patino. I am Ecuadoriano, true, but I am Spanish. I am Manuel de Jesus Patino. I own many haciendas, and ten thousand Indians are my slaves, though the law says they are free men who work by freedom of contract. The law is a funny thing. We Ecuadorianos laugh at it. It is our law. We make it for ourselves. I am Manuel de Jesus Patino. Remember that name. It will be written some day in history. There are revolutions in Ecuador. We call them elections. It is a good joke is it not?--what you call a pun?

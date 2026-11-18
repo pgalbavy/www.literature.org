@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Lightfoot And The Wagon"
 weight: 4
-aliases:
-  - "/authors/barnum-richard/lightfoot-the-leaping-goat/chapter-04.html"
+url: "/authors/barnum-richard/lightfoot-the-leaping-goat/chapter-04.html"
 ---
 
 With a clang of the bell the trolley car came to a stop, the motorman putting the brakes on hard. Then he jumped off the front platform and ran to where the little girl had sat down in the grass at the side of the tracks. She had sat down rather hard, for Lightfoot had pushed her with more force than he intended. He was so anxious to get her out of the way of one of those clanging cars that once upon a time had hurt him so.

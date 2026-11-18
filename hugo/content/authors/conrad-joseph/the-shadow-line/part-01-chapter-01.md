@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 1"
 weight: 1
-aliases:
-  - "/authors/conrad-joseph/the-shadow-line/part-01-chapter-01.html"
+url: "/authors/conrad-joseph/the-shadow-line/part-01-chapter-01.html"
 ---
 
 Only the young have such moments. I don’t mean the very young. No. The very young have, properly speaking, no moments. It is the privilege of early youth to live in advance of its days in all the beautiful continuity of hope which knows no pauses and no introspection.

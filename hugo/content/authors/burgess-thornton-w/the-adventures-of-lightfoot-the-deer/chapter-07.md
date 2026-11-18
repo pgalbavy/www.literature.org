@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Merry Little Breezes Help Lightfoot"
 weight: 7
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-07.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-07.html"
 ---
 
 Could you have seen the hunter with the terrible gun and Lightfoot the Deer that morning on which the hunting season opened you might have thought that Lightfoot was hunting the hunter instead of the hunter hunting Lightfoot. You see, Lightfoot was behind the hunter instead of in front of him. He was following the hunter, so as to keep track of him. As long as he knew just where the hunter was, he felt reasonably safe.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/tarkington-booth/beasleys-christmas-party/chapter-01.html"
+url: "/authors/tarkington-booth/beasleys-christmas-party/chapter-01.html"
 ---
 
 The maple-bordered street was as still as a country Sunday; so quiet that there seemed an echo to my footsteps. It was four o'clock in the morning; clear October moonlight misted through the thinning foliage to the shadowy sidewalk and lay like a transparent silver fog upon the house of my admiration, as I strode along, returning from my first night's work on the "Wainwright Morning Despatch."

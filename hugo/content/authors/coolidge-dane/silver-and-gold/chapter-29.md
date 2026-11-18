@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - The Interpretation Thereof"
 weight: 30
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/chapter-29.html"
+url: "/authors/coolidge-dane/silver-and-gold/chapter-29.html"
 ---
 
 After all his suffering, his oaths, his refusals, his rejection of each friendly offer, Denver had changed his mind in the fraction of a second when he saw Drusilla whirl past. He forgot his mine, the fierce battles, the prophecy--all he wanted was to see her again. Placed on his honor for the trip he started down the road, walking fast when he failed to catch a ride, and early the next morning he reported at the prison to apply for an immediate parole. But luck was against him and his heart died in his breast, for the Board of Prison Directors had met the week before and would not meet again for three weeks. Three weeks of idle waiting, of pacing up and down and cursing the slow passage of time; and then, perhaps, delays and disappointments and obstructions from Bible-Back Murray. He sat with bowed head, then rose up suddenly and wrote a brief letter to Murray.

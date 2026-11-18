@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Macartney Hears A Noise: And I Find Four Dead Men"
 weight: 11
-aliases:
-  - "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-11.html"
+url: "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-11.html"
 ---
 
 We must have stood silent for a good three minutes. I think I was furious because Paulette did not speak to me. I said, "You're not to go--you're never to go and meet Hutton again, as long as you live!" And for the first time I saw my dream girl flinch from me.

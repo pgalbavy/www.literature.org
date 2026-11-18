@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-26.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-26.html"
 ---
 
 Lucille gave a little start of amazement as she realised that she was not alone in the brougham. She reached out for the check-cord, but a strong hand held hers.

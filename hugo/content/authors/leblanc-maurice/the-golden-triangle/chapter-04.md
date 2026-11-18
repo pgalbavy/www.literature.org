@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Before The Flames"
 weight: 4
-aliases:
-  - "/authors/leblanc-maurice/the-golden-triangle/chapter-04.html"
+url: "/authors/leblanc-maurice/the-golden-triangle/chapter-04.html"
 ---
 
 Little Mother Coralie! Coralie concealed in this house into which her assailants had forced their way and in which she herself was hiding, through force of circumstances which were incapable of explanation.

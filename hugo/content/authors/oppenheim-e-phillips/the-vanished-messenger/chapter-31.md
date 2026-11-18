@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-31.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-31.html"
 ---
 
 Hamel set down the lamp upon the table. He glanced at the little clock upon the dresser; it was a quarter past ten. The woman had observed his entrance, although it seemed in no way to have discomposed her.

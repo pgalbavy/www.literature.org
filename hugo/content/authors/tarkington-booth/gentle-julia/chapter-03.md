@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/tarkington-booth/gentle-julia/chapter-03.html"
+url: "/authors/tarkington-booth/gentle-julia/chapter-03.html"
 ---
 
 Julia, like Herbert, had been a little puzzled by Florence's expression of a partiality for the young man, Noble Dill; it was not customary for anybody to confess a weakness for him. However, the aunt dismissed the subject from her mind, as other matters pressed sharply upon her attention; she had more worries than most people guessed.

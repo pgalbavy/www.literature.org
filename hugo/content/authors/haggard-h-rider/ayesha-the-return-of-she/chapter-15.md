@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Second Ordeal"
 weight: 16
-aliases:
-  - "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-15.html"
+url: "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-15.html"
 ---
 
 Oros bowed and left the place, whereon the Hesea signed to us to stand upon her right and to Atene to stand upon her left. Presently from either side the hooded priests and priestesses stole into the chamber, and to the number of fifty or more ranged themselves along its walls. Then came two figures draped in black and masked, who bore parchment books in their hands, and placed themselves on either side of the corpse, while Oros stood at its feet, facing the Hesea.

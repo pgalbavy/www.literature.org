@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-29.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-29.html"
 ---
 
 But while Boone waited for Anne to come into the ring he made no assiduous search for her in the boxes, because, like many other men whose outward seeming is one of boldness, he was fettered by an inordinate shyness in this heavy atmosphere of the unaccustomed. Later Anne accused him of snubbing her. "You passed right by me a half dozen times," she teased with violet mischief shimmering in her eyes. "You wouldn't even look at me."

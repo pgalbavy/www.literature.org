@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Doctor Allday"
 weight: 17
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-17.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-17.html"
 ---
 
 Absorbed in the effort to overcome his patient's reserve, the doctor had forgotten Emily's letter. He opened it immediately.

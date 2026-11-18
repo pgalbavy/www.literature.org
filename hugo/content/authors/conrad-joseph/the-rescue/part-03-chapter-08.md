@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 8"
 weight: 21
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-03-chapter-08.html"
+url: "/authors/conrad-joseph/the-rescue/part-03-chapter-08.html"
 ---
 
 Lingard's soul was exalted by his talk with Mrs. Travers, by the strain of incertitude and by extreme fatigue. On returning on board he asked after Hassim and was told that the Rajah and his sister had gone off in their canoe promising to return before midnight. The boats sent to scout between the islets north and south of the anchorage had not come back yet. He went into his cabin and throwing himself on the couch closed his eyes thinking: "I must sleep or I shall go mad."

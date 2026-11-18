@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Eavesdropper"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-17.html"
 ---
 
 FOR ANYBODY that was so faint, Moses Mouse ran to the box of potatoes very spryly. His wife was already inside it, eating.

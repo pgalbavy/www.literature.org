@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Guerchard Assists"
 weight: 10
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin/chapter-10.html"
+url: "/authors/leblanc-maurice/arsene-lupin/chapter-10.html"
 ---
 
 Leaving a policeman on guard at the door of the drawing-room M. Formery, the Duke, and the inspector set out on their tour of inspection. It was a long business, for M. Formery examined every room with the most scrupulous care--with more care, indeed, than he had displayed in his examination of the drawing-rooms. In particular he lingered long in the bedroom of Victoire, discussing the possibilities of her having been murdered and carried away by the burglars along with their booty. He seemed, if anything, disappointed at finding no blood-stains, but to find real consolation in the thought that she might have been strangled. He found the inspector in entire agreement with every theory he enunciated, and he grew more and more disposed to regard him as a zealous and trustworthy officer. Also he was not at all displeased at enjoying this opportunity of impressing the Duke with his powers of analysis and synthesis. He was unaware that, as a rule, the Duke's eyes did not usually twinkle as they twinkled during this solemn and deliberate progress through the house of M. Gournay-Martin. M. Formery had so exactly the air of a sleuthhound; and he was even noisier.

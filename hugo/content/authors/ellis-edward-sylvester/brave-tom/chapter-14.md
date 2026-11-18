@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/brave-tom/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/brave-tom/chapter-14.html"
 ---
 
 Such a bleak and piercing wind swept across the deck of the Simoon that Jim Travers was glad to spend most of his time in the cabin, where a warm fire was always going.

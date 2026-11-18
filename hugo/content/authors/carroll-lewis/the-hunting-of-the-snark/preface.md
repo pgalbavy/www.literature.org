@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/carroll-lewis/the-hunting-of-the-snark/preface.html"
+url: "/authors/carroll-lewis/the-hunting-of-the-snark/preface.html"
 ---
 
 If—and the thing is wildly possible—the charge of writing nonsense were ever brought against the author of this brief but instructive poem, it would be based, I feel convinced, on the line (in p.4)

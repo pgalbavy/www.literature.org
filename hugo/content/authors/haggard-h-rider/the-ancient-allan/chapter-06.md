@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Doom Of The Boat"
 weight: 6
-aliases:
-  - "/authors/haggard-h-rider/the-ancient-allan/chapter-06.html"
+url: "/authors/haggard-h-rider/the-ancient-allan/chapter-06.html"
 ---
 
 The guards led me to my chariot and thrust me into it, and with me Bes. I asked them if they would murder him also, to which the eunuch, Houman, answered No, since he had committed no crime, but that he must go with me to be weighed. Then soldiers took the horses by the bridles and led them, while others, having first snatched away my bow and all our other weapons, surrounded the chariot lest we should escape. So Bes and I were able to talk together in a Libyan tongue that none of them understood, even if they heard our words.

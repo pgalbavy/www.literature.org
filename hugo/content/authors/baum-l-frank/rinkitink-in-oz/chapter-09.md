@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/baum-l-frank/rinkitink-in-oz/chapter-09.html"
+url: "/authors/baum-l-frank/rinkitink-in-oz/chapter-09.html"
 ---
 
 Now it so happened that on the morning of that same day when the Prince of Pingaree suffered the loss of his priceless shoes, there chanced to pass along the road that wound beside the royal palace a poor charcoal- burner named Nikobob, who was about to return to his home in the forest.

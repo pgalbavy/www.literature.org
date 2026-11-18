@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A Party Of The Third Part"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-04.html"
 ---
 
 The Indian warrior whom Terry Clark saw advancing stealthily through the undergrowth, cow-bell in hand, was a frightful object. His head and shoulders were bent forward, and he was stepping slowly and silently, while he glanced from right to left, as if searching for some object, or awaiting the occurrence of an expected event. His face was daubed with black and red paint, his long hair, as coarse as that of a horse's tail, dangled about his shoulders and alongside his neck, so that his eyes, when staring through it, seemed to be blazing among so much tangled brush. The ordinary hunting shirt, fringed in front, inclosed his chest, and was gathered at the waist by a sash or belt into which were thrust his hunting knife and tomahawk. The usual breechcloth, leggins and moccasins completed his dress.

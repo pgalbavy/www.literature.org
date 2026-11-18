@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 5"
 weight: 25
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-02-chapter-05.html"
+url: "/authors/cather-willa/song-of-the-lark/part-02-chapter-05.html"
 ---
 
 BY the first of February Thea had been in Chicago almost four months, and she did not know much more about the city than if she had never quitted Moonstone. She was, as Harsanyi said, incurious. Her work took most of her time, and she found that she had to sleep a good deal. It had never before been so hard to get up in the morning. She had the bother of caring for her room, and she had to build her fire and bring up her coal. Her routine was frequently interrupted by a message from Mr. Larsen summoning her to sing at a funeral. Every funeral took half a day, and the time had to be made up. When Mrs. Harsanyi asked her if it did not depress her to sing at funerals, she replied that she “had been brought up to go to funerals and didn't mind.”

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 15 - The Disaster Within"
 weight: 15
-aliases:
-  - "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-15.html"
+url: "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-15.html"
 ---
 
 The Sunday after Miss Bartlett’s arrival was a glorious day, like most of the days of that year. In the Weald, autumn approached, breaking up the green monotony of summer, touching the parks with the grey bloom of mist, the beech-trees with russet, the oak-trees with gold. Up on the heights, battalions of black pines witnessed the change, themselves unchangeable. Either country was spanned by a cloudless sky, and in either arose the tinkle of church bells.

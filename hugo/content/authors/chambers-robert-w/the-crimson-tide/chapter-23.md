@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 24
-aliases:
-  - "/authors/chambers-robert-w/the-crimson-tide/chapter-23.html"
+url: "/authors/chambers-robert-w/the-crimson-tide/chapter-23.html"
 ---
 
 In the strange, springlike weather which prevailed during the last days of January, Vanya was buried under skies as fleecy blue as April's, and Marya Lanois went back to the studio apartment where she and Vanya had lived together. And here, alone, in the first month of the new year, she picked up again the ravelled threads of life, undecided whether to untangle them or to cut them short and move on once more to further misadventure; or to Vanya; or somewhere—or perhaps nowhere. So, pending some decision, she left her pistol loaded.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Good News From Below"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-09.html"
 ---
 
 WHEN Rusty Wren decided that Grandfather Mole had lost his bearings and that that was the reason why he was running about the garden in a most peculiar fashion, the rest of the birds began to wonder whether they oughtn't to help Grandfather Mole find them, since he was blind.

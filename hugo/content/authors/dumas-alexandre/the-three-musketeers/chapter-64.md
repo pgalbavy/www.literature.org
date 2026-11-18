@@ -1,8 +1,7 @@
 ---
 title: "Chapter 64 - The Man In The Red Cloak"
 weight: 65
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-64.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-64.html"
 ---
 
 The despair of Athos had given place to a concentrated grief which only rendered more lucid the brilliant mental faculties of that extraordinary man.

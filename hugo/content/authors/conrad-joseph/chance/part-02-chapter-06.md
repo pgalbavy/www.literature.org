@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 6 - . . A Moonless Night, Thick With Stars Above, Very Dark On The Water"
 weight: 13
-aliases:
-  - "/authors/conrad-joseph/chance/part-02-chapter-06.html"
+url: "/authors/conrad-joseph/chance/part-02-chapter-06.html"
 ---
 
 In the mess-room Powell found Mr. Franklin hacking at a piece of cold salt beef with a table knife. The mate, fiery in the face and rolling his eyes over that task, explained that the carver belonging to the messroom could not be found. The steward, present also, complained savagely of the cook. The fellow got things into his galley and then lost them. Mr. Franklin tried to pacify him with mournful firmness.

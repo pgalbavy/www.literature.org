@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Men Of The Robe And Men Of The Sword"
 weight: 16
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-15.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-15.html"
 ---
 
 On the day after these events had taken place, Athos not having reappeared, M. de Treville was informed by D'Artagnan and Porthos of the circumstance. As to Aramis, he had asked for leave of absence for five days, and was gone, it was said, to Rouen on family business.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 12"
 weight: 12
-aliases:
-  - "/authors/london-jack/burning-daylight/part-01-chapter-12.html"
+url: "/authors/london-jack/burning-daylight/part-01-chapter-12.html"
 ---
 
 Despite his many sources of revenue, Daylight's pyramiding kept him pinched for cash throughout the first winter. The pay-gravel, thawed on bed-rock and hoisted to the surface, immediately froze again. Thus his dumps, containing several millions of gold, were inaccessible. Not until the returning sun thawed the dumps and melted the water to wash them was he able to handle the gold they contained. And then he found himself with a surplus of gold, deposited in the two newly organized banks; and he was promptly besieged by men and groups of men to enlist his capital in their enterprises.

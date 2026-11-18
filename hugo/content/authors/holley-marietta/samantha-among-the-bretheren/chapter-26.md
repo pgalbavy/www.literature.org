@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 27
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-26.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-26.html"
 ---
 
 He wuz jest a-countin' out his money prior to puttin' it away in his tin box, and I laid the subject before him strong and eloquent, jest the wants and needs of the meetin' house, and jest how hard we female sisters wuz a-workin', and jest how much we needed some money to buy our ingregiencies with for the fair.

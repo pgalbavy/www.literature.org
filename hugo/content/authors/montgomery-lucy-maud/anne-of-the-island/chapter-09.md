@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - An Unwelcome Lover And A Welcome Friend"
 weight: 9
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-09.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-09.html"
 ---
 
 The second term at Redmond sped as quickly as had the first -- "actually whizzed away," Philippa said. Anne enjoyed it thoroughly in all its phases -- the stimulating class rivalry, the making and deepening of new and helpful friendships, the gay little social stunts, the doings of the various societies of which she was a member, the widening of horizons and interests. She studied hard, for she had made up her mind to win the Thorburn Scholarship in English. This being won, meant that she could come back to Redmond the next year without trenching on Marilla's small savings -- something Anne was determined she would not do.

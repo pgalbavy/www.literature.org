@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 3 - The Reflections Of A Cured Dyspeptic"
 weight: 3
-aliases:
-  - "/authors/buchan-john/mr-standfast/part-01-chapter-03.html"
+url: "/authors/buchan-john/mr-standfast/part-01-chapter-03.html"
 ---
 
 Thirty-five hours later I found myself in my rooms in Westminster. I thought there might be a message for me there, for I didn’t propose to go and call openly on Blenkiron at Claridge’s till I had his instructions. But there was no message—only a line from Peter, saying he had hopes of being sent to Switzerland. That made me realise that he must be pretty badly broken up.

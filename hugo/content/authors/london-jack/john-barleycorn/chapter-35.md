@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 35
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-35.html"
+url: "/authors/london-jack/john-barleycorn/chapter-35.html"
 ---
 
 But the freight has to be paid. John Barleycorn began to collect, and he collected not so much from the body as from the mind. The old long sickness, which had been purely an intellectual sickness, recrudesced. The old ghosts, long laid, lifted their heads again. But they were different and more deadly ghosts. The old ghosts, intellectual in their inception, had been laid by a sane and normal logic. But now they were raised by the White Logic of John Barleycorn, and John Barleycorn never lays the ghosts of his raising. For this sickness of pessimism, caused by drink, one must drink further in quest of the anodyne that John Barleycorn promises but never delivers.

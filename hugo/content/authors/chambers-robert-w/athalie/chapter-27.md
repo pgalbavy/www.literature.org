@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-27.html"
+url: "/authors/chambers-robert-w/athalie/chapter-27.html"
 ---
 
 One day toward the end of August, Athalie, standing at the pier's end, saw the huge incoming liner slowly warping to her berth; waited amid the throngs in the vast sheds by the gangway, caught a glimpse of Clive, lost him to view, then saw him again, very near, making his way toward her. And then her hands were in his and she was looking into his beloved eyes once more.

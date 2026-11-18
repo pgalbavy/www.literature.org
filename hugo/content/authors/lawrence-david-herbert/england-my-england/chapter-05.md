@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - You Touched Me"
 weight: 5
-aliases:
-  - "/authors/lawrence-david-herbert/england-my-england/chapter-05.html"
+url: "/authors/lawrence-david-herbert/england-my-england/chapter-05.html"
 ---
 
 The Pottery House was a square, ugly, brick house girt in by the wall that enclosed the whole grounds of the pottery itself. To be sure, a privet hedge partly masked the house and its ground from the pottery-yard and works: but only partly. Through the hedge could be seen the desolate yard, and the many-windowed, factory-like pottery, over the hedge could be seen the chimneys and the outhouses. But inside the hedge, a pleasant garden and lawn sloped down to a willow pool, which had once supplied the works.

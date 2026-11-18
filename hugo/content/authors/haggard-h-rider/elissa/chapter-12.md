@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Tryst"
 weight: 13
-aliases:
-  - "/authors/haggard-h-rider/elissa/chapter-12.html"
+url: "/authors/haggard-h-rider/elissa/chapter-12.html"
 ---
 
 Two days had gone by, and at the appointed hour three figures, wrapped in dark cloaks, might have been seen walking swiftly towards the little entrance of the temple fortress. Although it was near to midnight the city was still astir with men, for this very evening news had reached it that Ithobal was advancing at the head of tens of thousands of the warriors of the Tribes. More, it was rumoured freely that within the next few days the siege of Zimboe would begin. Late as it was, the council had been just summoned to the palace of Sakon to consider the conduct of the defence, while in every street stood knots of men engaged in anxious discussion, and from many a smithy rose the sound of armourers at their work. Here marched parties of soldiers of various races, there came long strings of mules laden with dried flesh and grain; yonder a woman beat her breast, and wept loudly because her three sons had been impressed by order of the council, two of them to serve as archers and the third to carry blocks of stone for the fortifications.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/davis-richard-harding/the-white-mice/chapter-08.html"
+url: "/authors/davis-richard-harding/the-white-mice/chapter-08.html"
 ---
 
 The silence that greeted the announcement of Inez, was broken in a startling fashion. Before her mother could recover from her amazement one of the windows to the garden was thrown open, and a man burst through it and sprang toward Vega. He was disheveled, breathless; from a wound in his forehead a line of blood ran down his cheek. His appearance was so alarming that all of those who, the instant before, had been staring in astonishment at Inez now turned to the intruder. They recognized him as the personal servant of Vega. Without considering the presence of the others, the valet spoke as he crossed the room.

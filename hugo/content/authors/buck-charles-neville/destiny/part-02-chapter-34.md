@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 34"
 weight: 34
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-34.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-34.html"
 ---
 
 The day of the ordeal arrived. Mary could not remember any occasion to which she had gone with such a sense of terror and misgiving, but this neither Mr. Lewis nor any of his subordinates suspected. It had pleased the management to call a morning rehearsal, so Mary had not been able to go home before her matinée début. Tomorrow, if all went well, she could remove her parents to a greater comfort, so it was her affair to see that all went well.

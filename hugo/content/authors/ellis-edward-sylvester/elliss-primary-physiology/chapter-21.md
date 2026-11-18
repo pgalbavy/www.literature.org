@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Digestibility Of Solid Foods"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-21.html"
 ---
 
 The following table is given in order to show the time required for the digestion of the most ordinary articles of food:

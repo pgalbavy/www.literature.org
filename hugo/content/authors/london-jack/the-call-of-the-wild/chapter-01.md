@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/london-jack/the-call-of-the-wild/chapter-01.html"
+url: "/authors/london-jack/the-call-of-the-wild/chapter-01.html"
 ---
 
 "Old longings nomadic leap, Chafing at custom's chain; Again from its brumal sleep Wakens the ferine strain."

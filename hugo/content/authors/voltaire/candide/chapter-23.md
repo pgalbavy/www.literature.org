@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Candide and Martin Touch upon the English Coast-What They See There"
 weight: 23
-aliases:
-  - "/authors/voltaire/candide/chapter-23.html"
+url: "/authors/voltaire/candide/chapter-23.html"
 ---
 
 Ah Pangloss! Pangloss! ah Martin! ah my dear Miss Cunegund! What sort of a world is this?" Thus exclaimed Candide as soon as he got on board the Dutch ship.

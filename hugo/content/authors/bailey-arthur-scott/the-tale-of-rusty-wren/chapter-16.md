@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Accident"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-16.html"
 ---
 
 Chippy, Jr., proved to be a great success. Even Mrs. Rusty Wren had to admit, before he had finished his first day's work, that he was an agreeable person to have about the house.

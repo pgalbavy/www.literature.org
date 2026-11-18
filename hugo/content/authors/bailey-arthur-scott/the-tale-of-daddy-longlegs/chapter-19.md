@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Daddy Escapes"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-19.html"
 ---
 
 THAT was a fine idea of General Antenna's--that plan of bringing stepladders, so that the ant army might climb up on them and reach Daddy Longlegs, whom they were attacking.

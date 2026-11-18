@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/collins-wilkie/the-frozen-deep/chapter-07.html"
+url: "/authors/collins-wilkie/the-frozen-deep/chapter-07.html"
 ---
 
 The first sound that broke the silence came from the inner apartment. An officer lifted the canvas screen in the hut of the _Sea-mew_ and entered the main room. Cold and privation had badly thinned the ranks. The commander of the ship--Captain Ebsworth--was dangerously ill. The first lieutenant was dead. An officer of the _Wanderer_ filled their places for the time, with Captain Helding's permission. The officer so employed was--Lieutenant Crayford.

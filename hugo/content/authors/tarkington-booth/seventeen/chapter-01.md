@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - William"
 weight: 1
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-01.html"
+url: "/authors/tarkington-booth/seventeen/chapter-01.html"
 ---
 
 William Sylvanus Baxter paused for a moment of thought in front of the drug-store at the corner of Washington Street and Central Avenue. He had an internal question to settle before he entered the store: he wished to allow the young man at the soda-fountain no excuse for saying, "Well, make up your mind what it's goin' to be, can't you?" Rudeness of this kind, especially in the presence of girls and women, was hard to bear, and though William Sylvanus Baxter had borne it upon occasion, he had reached an age when he found it intolerable. Therefore, to avoid offering opportunity for anything of the kind, he decided upon chocolate and strawberry, mixed, before approaching the fountain. Once there, however, and a large glass of these flavors and diluted ice-cream proving merely provocative, he said, languidly—an affectation, for he could have disposed of half a dozen with gusto: "Well, now I'm here, I might as well go one more. Fill 'er up again. Same."

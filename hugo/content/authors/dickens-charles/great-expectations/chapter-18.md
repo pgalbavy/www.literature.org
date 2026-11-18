@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-18.html"
+url: "/authors/dickens-charles/great-expectations/chapter-18.html"
 ---
 
 IT was in the fourth year of my apprenticeship to Joe, and it was a Saturday night. There was a group assembled round the fire at the Three Jolly Bargemen, attentive to Mr Wopsle as he read the newspaper aloud. Of that group I was one.

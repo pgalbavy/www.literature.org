@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - \"Eloi, Eloi, Lama Sabachthani!\""
 weight: 14
-aliases:
-  - "/authors/leblanc-maurice/the-secret-of-sarek/chapter-13.html"
+url: "/authors/leblanc-maurice/the-secret-of-sarek/chapter-13.html"
 ---
 
 The preparations were soon made; and Vorski himself took an active part in them. Resting the ladder against the trunk of the tree, he passed one end of the rope round his victim and the other over one of the upper branches. Then, standing on the bottom rung, he instructed his accomplices:

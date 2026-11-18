@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Philomaths"
 weight: 6
-aliases:
-  - "/authors/london-jack/the-iron-heel/chapter-05.html"
+url: "/authors/london-jack/the-iron-heel/chapter-05.html"
 ---
 
 Ernest was often at the house. Nor was it my father, merely, nor the controversial dinners, that drew him there. Even at that time I flattered myself that I played some part in causing his visits, and it was not long before I learned the correctness of my surmise. For never was there such a lover as Ernest Everhard. His gaze and his hand-clasp grew firmer and steadier, if that were possible; and the question that had grown from the first in his eyes, grew only the more imperative.

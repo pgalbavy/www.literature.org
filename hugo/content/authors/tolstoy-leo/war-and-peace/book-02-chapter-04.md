@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 4"
 weight: 32
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-02-chapter-04.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-02-chapter-04.html"
 ---
 
 The Pavlograd Hussars were stationed two miles from Braunau. The squadron in which Nicholas Rostov served as a cadet was quartered in the German village of Salzeneck. The best quarters in the village were assigned to cavalry-captain Denisov, the squadron commander, known throughout the whole cavalry division as Vaska Denisov. Cadet Rostov, ever since he had overtaken the regiment in Poland, had lived with the squadron commander.

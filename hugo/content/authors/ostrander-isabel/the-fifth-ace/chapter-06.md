@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Tia Juana's Cauldron Cools"
 weight: 6
-aliases:
-  - "/authors/ostrander-isabel/the-fifth-ace/chapter-06.html"
+url: "/authors/ostrander-isabel/the-fifth-ace/chapter-06.html"
 ---
 
 Limasito received the tidings of the amazing turn in the affairs of Gentleman Geoff's Billie with mingled emotions in which pride and respectful awe predominated, but to Kearn Thode it came as an uncomprehended disaster.

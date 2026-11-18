@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Chunky’s New Friends"
 weight: 7
-aliases:
-  - "/authors/barnum-richard/chunky-the-happy-hippo/chapter-07.html"
+url: "/authors/barnum-richard/chunky-the-happy-hippo/chapter-07.html"
 ---
 
 Along through the jungle jogged the black men, carrying the cage with Chunky in it. Now and then the black men would sing a funny song. At least it would have sounded queer to you, for it was like a lot of coughs, sneezes, hiccoughs and giggles. But it was a song the men often sang as they marched, so the way would not seem so long, nor their burdens so heavy, and Chunky was quite a heavy load, let me tell you!

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 6 - Tobias Gregson Shows What He Can Do"
 weight: 6
-aliases:
-  - "/authors/doyle-arthur-conan/a-study-in-scarlet/part-01-chapter-06.html"
+url: "/authors/doyle-arthur-conan/a-study-in-scarlet/part-01-chapter-06.html"
 ---
 
 THE papers next day were full of the "Brixton Mystery," as they termed it. Each had a long account of the affair, and some had leaders upon it in addition. There was some information in them which was new to me. I still retain in my scrap-book numerous clippings and extracts bearing upon the case. Here is a condensation of a few of them:--

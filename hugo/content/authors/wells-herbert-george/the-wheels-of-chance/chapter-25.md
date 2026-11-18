@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-25.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-25.html"
 ---
 
 Mr. Hoopdriver conducted the rest of that night's journey with the same confident dignity as before, and it was chiefly by good luck and the fact that most roads about a town converge thereupon, that Chichester was at last attained. It seemed at first as though everyone had gone to bed, but the Red Hotel still glowed yellow and warm. It was the first time Hoopdriver bad dared the mysteries of a 'first-class' hotel.' But that night he was in the mood to dare anything.

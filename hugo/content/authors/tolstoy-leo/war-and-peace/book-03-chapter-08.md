@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 8"
 weight: 57
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-03-chapter-08.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-03-chapter-08.html"
 ---
 
 The day after Rostov had been to see Boris, a review was held of the Austrian and Russian troops, both those freshly arrived from Russia and those who had been campaigning under Kutuzov. The two Emperors, the Russian with his heir the Tsarevich, and the Austrian with the Archduke, inspected the allied army of eighty thousand men.

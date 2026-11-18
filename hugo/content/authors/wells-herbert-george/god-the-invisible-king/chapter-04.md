@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Religion Of Atheists"
 weight: 5
-aliases:
-  - "/authors/wells-herbert-george/god-the-invisible-king/chapter-04.html"
+url: "/authors/wells-herbert-george/god-the-invisible-king/chapter-04.html"
 ---
 
 1\. THE SCIENTIFIC ATHEIST

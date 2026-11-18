@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Mr. Quest Has His Innings"
 weight: 27
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-27.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-27.html"
 ---
 
 All that afternoon and far into the evening Mr. Quest was employed in drafting, and with his own hand engrossing on parchment certain deeds, for the proper execution of which he seemed to find constant reference necessary to a tin box of papers labelled "Honham Castle Estates."

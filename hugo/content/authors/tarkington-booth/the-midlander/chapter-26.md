@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-26.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-26.html"
 ---
 
 *SHE* was mistaken about Martha, who never had the definite hope Lena’s imagination attributed to her. Martha was steadfast because she could not help it, having been born with this endowment evidently; and her tenderness for the boy she had loved so heartily was imperishable; but the Dan Oliphant of the middle years did not seem to her to be that boy. What she felt for the big middle-aged man, she felt only because he had long ago been the beloved youth; she was not in love with him, nor with anybody. This was the explanation she still found it necessary to make to his brother about once a year—usually on New Year’s Day; for it was Harlan’s habit to select that hopeful anniversary as a good time to dwell a little upon his patience.

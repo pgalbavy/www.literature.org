@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Lucky Escape"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-17.html"
 ---
 
 NEARER and nearer the board, with Master Meadow Mouse upon it, drifted around the bend of the creek toward Mr. Great Blue Heron. And at last Mr. Heron noticed it. And he noticed its passenger, too.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Tug Of War"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-12.html"
 ---
 
 Jack Dudley, being some paces in advance of Fred Greenwood, and alarmed for him because of his greater peril, had slightly slackened his speed, for he was not the one to seek safety at the expense of his comrade. The instant he saw him fall he stopped short, and, wheeling about, fired at the grizzly, and pumping a second cartridge into the chamber of his Winchester, let fly again, both shots striking the beast, who was so close that a miss was impossible.

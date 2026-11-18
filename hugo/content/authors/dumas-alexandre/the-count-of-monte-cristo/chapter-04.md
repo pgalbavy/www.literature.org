@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Conspiracy"
 weight: 4
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-04.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-04.html"
 ---
 
 Danglars followed Edmond and Mercedes with his eyes until the two lovers disappeared behind one of the angles of Fort Saint Nicolas, then turning round, he perceived Fernand, who had fallen, pale and trembling, into his chair, while Caderousse stammered out the words of a drinking-song.

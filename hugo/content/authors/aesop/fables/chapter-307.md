@@ -1,8 +1,7 @@
 ---
 title: "The Ass And His Driver"
 weight: 309
-aliases:
-  - "/authors/aesop/fables/chapter-307.html"
+url: "/authors/aesop/fables/chapter-307.html"
 ---
 
 AN ASS, being driven along a high road, suddenly started off and bolted to the brink of a deep precipice. While he was in the act of throwing himself over, his owner seized him by the tail, endeavoring to pull him back. When the Ass persisted in his effort, the man let him go and said, "Conquer, but conquer to your cost."

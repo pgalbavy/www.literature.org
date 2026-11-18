@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Accidental"
 weight: 6
-aliases:
-  - "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-06.html"
+url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-06.html"
 ---
 
 When dinner was over, Lady Theobald rose, and proceeded to the drawing-room, Lucia following in her wake. From her very babyhood Lucia had disliked the drawing-room, which was an imposing apartment of great length and height, containing much massive furniture, upholstered in faded blue satin. All the girl's evenings, since her fifth year, had been spent sitting opposite her grandmother, in one of the straightest of the blue chairs: all the most scathing reproofs she had received had been administered to her at such times. She had a secret theory, indeed, that all unpleasant things occurred in the drawing-room after dinner.

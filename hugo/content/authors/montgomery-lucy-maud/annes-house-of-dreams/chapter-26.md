@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Owen Ford's Confession"
 weight: 26
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-26.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-26.html"
 ---
 
 "I'm so sorry Gilbert is away," said Anne. "He had to go--Allan Lyons at the Glen has met with a serious accident. He will not likely be home till very late. But he told me to tell you he'd be up and over early enough in the morning to see you before you left. It's too provoking. Susan and I had planned such a nice little jamboree for your last night here."

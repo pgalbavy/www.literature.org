@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-15.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-15.html"
 ---
 
 Mr. Fentolin led the way to a delightful little corner of his library, where before the open grate, recently piled with hissing logs, an easy chair had been drawn. He wheeled himself up to the other side of the hearthrug and leaned back with a little air of exhaustion. The butler, who seemed to have appeared unsummoned from somewhere among the shadows, served coffee and poured some old brandy into large and wonderfully thin glasses.

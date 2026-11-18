@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - Prophecies"
 weight: 31
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-30.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-30.html"
 ---
 
 "Here's a letter for you from father," said Felix, tossing it to me as he came through the orchard gate. We had been picking apples all day, but were taking a mid-afternoon rest around the well, with a cup of its sparkling cold water to refresh us.

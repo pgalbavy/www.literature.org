@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - An Interesting Question"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-26.html"
 ---
 
 The faces of the Sauk and Jack Carleton lightened up, when Deerfoot appeared, and warningly raised his finger for them to remain quiet. That he did not mean they were in imminent peril was shown when he said, as he took each hand in turn:

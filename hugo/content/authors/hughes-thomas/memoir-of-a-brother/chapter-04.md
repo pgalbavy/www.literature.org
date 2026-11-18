@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Oxford"
 weight: 5
-aliases:
-  - "/authors/hughes-thomas/memoir-of-a-brother/chapter-04.html"
+url: "/authors/hughes-thomas/memoir-of-a-brother/chapter-04.html"
 ---
 
 My brother went up to Oxford full of good resolves as to reading, which he carried out far better than most men do, although undoubtedly after his first year, his popularity, by enlarging the circle of his acquaintance to an inconvenient extent, somewhat interfered with his studies. Your grandfather was delighted at having a son likely to distinguish himself actually resident in his own old College. In his time it had occupied the place in the University now held by Balliol. Copleston and Whately had been his tutors; and, as he had resided a good deal after taking his degree, he had seen several generations of distinguished men in the common room, including Arnold, Blanco White, Keble, Pusey, and Hampden. Moreover, there was a tradition of University distinction in his family; his father had been Setonian Prizeman and Chancellor’s Medallist at Cambridge, and he himself had carried off the Latin verse prize, and one of the English Odes recited before the United Sovereigns, when they paid a visit to the Oxford Commemoration in 1814, with Wellington, Blücher, and a host of the great soldiers of that day.

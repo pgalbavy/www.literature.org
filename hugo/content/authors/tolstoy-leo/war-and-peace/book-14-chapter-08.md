@@ -1,8 +1,7 @@
 ---
 title: "Book 14 - Chapter 8"
 weight: 306
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-14-chapter-08.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-14-chapter-08.html"
 ---
 
 The arrival of Dolokhov diverted Petya's attention from the drummer boy, to whom Denisov had had some mutton and vodka given, and whom he had had dressed in a Russian coat so that he might be kept with their band and not sent away with the other prisoners. Petya had heard in the army many stories of Dolokhov's extraordinary bravery and of his cruelty to the French, so from the moment he entered the hut Petya did not take his eyes from him, but braced himself up more and more and held his head high, that he might not be unworthy even of such company.

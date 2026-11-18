@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Mr. Harrison At Home"
 weight: 3
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-03.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-03.html"
 ---
 
 Mr. Harrison's house was an old-fashioned, low-eaved, whitewashed structure, set against a thick spruce grove.

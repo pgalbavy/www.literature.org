@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Into British Territory"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-09.html"
 ---
 
 All hurried to the side of Roswell, who was pointing to a place a short distance from the raft.

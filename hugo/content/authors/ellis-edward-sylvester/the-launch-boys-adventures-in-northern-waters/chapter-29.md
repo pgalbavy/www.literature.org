@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - \"The Beautiful Isle Of Somewhere\""
 weight: 29
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-29.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-29.html"
 ---
 
 Detective Stockham Calvert was quick to make deductions and as quick in adapting himself to circumstances. He had said he did not expect to have the help of Orestes Noxon—as we must continue to call him—in capturing the two criminals, but ten minutes later he made a radical change of plans. He meant to make use of the young man, in his pursuit of the post office robbers.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Puzzle Solved"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-17.html"
 ---
 
 "Good morning, Grandfather Mole!" Jolly Robin called.

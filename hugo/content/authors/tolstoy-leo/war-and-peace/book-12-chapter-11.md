@@ -1,8 +1,7 @@
 ---
 title: "Book 12 - Chapter 11"
 weight: 274
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-12-chapter-11.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-12-chapter-11.html"
 ---
 
 From Prince Shcherbatov's house the prisoners were led straight down the Virgin's Field, to the left of the nunnery, as far as a kitchen garden in which a post had been set up. Beyond that post a fresh pit had been dug in the ground, and near the post and the pit a large crowd stood in a semicircle. The crowd consisted of a few Russians and many of Napoleon's soldiers who were not on duty- Germans, Italians, and Frenchmen, in a variety of uniforms. To the right and left of the post stood rows of French troops in blue uniforms with red epaulets and high boots and shakos.

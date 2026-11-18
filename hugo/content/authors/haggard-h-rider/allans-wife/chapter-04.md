@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Zulu Impi"
 weight: 5
-aliases:
-  - "/authors/haggard-h-rider/allans-wife/chapter-04.html"
+url: "/authors/haggard-h-rider/allans-wife/chapter-04.html"
 ---
 
 After burying the elephant tusks, and having taken careful notes of the bearings and peculiarities of the country so that I might be able to find the spot again, we proceeded on our journey. For a month or more I trekked along the line which now divides the Orange Free State from Griqualand West, and the Transvaal from Bechuanaland. The only difficulties met with were such as are still common to African travellers--occasional want of water and troubles about crossing sluits and rivers. I remember that I outspanned on the spot where Kimberley now stands, and had to press on again in a hurry because there was no water. I little dreamed then that I should live to see Kimberley a great city producing millions of pounds worth of diamonds annually, and old Indaba-zimbi’s magic cannot have been worth so much after all, or he would have told me.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 5 - Tom Comes Home"
 weight: 5
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-01-chapter-05.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-01-chapter-05.html"
 ---
 
 Tom was to arrive early in the afternoon, and there was another fluttering heart besides Maggie's when it was late enough for the sound of the gig-wheels to be expected; for if Mrs. Tulliver had a strong feeling, it was fondness for her boy. At last the sound came, - that quick light bowling of the gig-wheels, - and in spite of the wind, which was blowing the clouds about, and was not likely to respect Mrs. Tulliver's curls and cap-strings, she came outside the door, and even held her hand on Maggie's offending head, forgetting all the griefs of the morning.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Deserted Cabin"
 weight: 2
-aliases:
-  - "/authors/leblanc-maurice/the-secret-of-sarek/chapter-01.html"
+url: "/authors/leblanc-maurice/the-secret-of-sarek/chapter-01.html"
 ---
 
 Into the picturesque village of Le Faouet, situated in the very heart of Brittany, there drove one morning in the month of May a lady whose spreading grey cloak and the thick veil that covered her face failed to hide her remarkable beauty and perfect grace of figure.

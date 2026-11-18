@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 3"
 weight: 4
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-01-chapter-03.html"
+url: "/authors/haggard-h-rider/cleopatra/book-01-chapter-03.html"
 ---
 
 OF THE REBUKE OF AMENEMHAT; OF THE PRAYER OF HARMACHIS; AND OF THE SIGN GIVEN BY THE HOLY GODS

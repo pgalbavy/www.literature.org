@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Ishmael"
 weight: 5
-aliases:
-  - "/authors/haggard-h-rider/the-ghost-kings/chapter-04.html"
+url: "/authors/haggard-h-rider/the-ghost-kings/chapter-04.html"
 ---
 
 It may he doubted whether any well-born young English lady ever had a stranger bringing-up than that which fell to the lot of Rachel Dove. To begin with, she had absolutely no associates, male or female, of her own age and station, for at that period in its history such people did not exist in the country where she dwelt. Practically her only companions were her father, a religious enthusiast, and her mother, a half broken-hearted woman, who never for a single hour could forget the children she had lost, and whose constitutional mysticism increased upon her continually until at times it seemed as though she had added some new quality to her normal human nature.

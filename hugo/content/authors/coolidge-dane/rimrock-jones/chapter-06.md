@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Rimrock Passes"
 weight: 6
-aliases:
-  - "/authors/coolidge-dane/rimrock-jones/chapter-06.html"
+url: "/authors/coolidge-dane/rimrock-jones/chapter-06.html"
 ---
 
 In the big moments of life when we have triumphed over difficulties and quaffed the heady wine of success there is always something--or the lack of something--to bring us back to earth. Rimrock Jones had returned in a Christmas spirit and had taken Gunsight by storm. He had rewarded his friends and rebuked his enemies and all those who grind down the poor. He had humbled L. W. and driven McBain into hiding; and now this girl, this deaf, friendless typist, had snatched the cup from his lips. The neatly turned speech--the few well-chosen words in which he had intended to express his appreciation for her help--were effaced from his memory and in their place there came a doubt, a dim questioning of his own worth. What had he done, or neglected to do, that had taken that look from her eyes? He sank down in a chair and regarded her intently as she sat there, composed and still.

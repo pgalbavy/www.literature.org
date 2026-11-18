@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-12.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-12.html"
 ---
 
 Dorothy and her fellow travelers rode away from the Cuttenclip village and followed the indistinct path as far as the sign-post. Here they took the main road again and proceeded pleasantly through the pretty farming country. When evening came they stopped at a dwelling and were joyfully welcomed and given plenty to eat and good beds for the night.

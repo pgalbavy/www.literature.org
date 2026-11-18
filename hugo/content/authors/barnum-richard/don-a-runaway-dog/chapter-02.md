@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Don’s New Home"
 weight: 2
-aliases:
-  - "/authors/barnum-richard/don-a-runaway-dog/chapter-02.html"
+url: "/authors/barnum-richard/don-a-runaway-dog/chapter-02.html"
 ---
 
 Prince, sitting on the bank of the puddle of water, was howling as loudly as he could.

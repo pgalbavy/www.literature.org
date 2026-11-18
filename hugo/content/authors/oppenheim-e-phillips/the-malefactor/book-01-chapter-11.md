@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 11 - Professor Sinclair's Dancing Academy"
 weight: 11
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-11.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-11.html"
 ---
 
 Mr. Sinclair, or as he preferred to be called, Professor Sinclair, waved a white kid glove in the direction of the dancing hall.

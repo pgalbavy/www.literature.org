@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Amateur Firemen"
 weight: 8
-aliases:
-  - "/authors/nesbit-edith/the-railway-children/chapter-08.html"
+url: "/authors/nesbit-edith/the-railway-children/chapter-08.html"
 ---
 
 "That's a likely little brooch you've got on, Miss," said Perks the Porter; "I don't know as ever I see a thing more like a buttercup without it WAS a buttercup."

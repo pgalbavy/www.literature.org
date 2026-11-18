@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - On the Deck of the \u0026quot;Kincaid\u0026quot;"
 weight: 17
-aliases:
-  - "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-17.html"
+url: "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-17.html"
 ---
 
 When Mugambi had turned back into the jungle with the pack he had a definite purpose in view. It was to obtain a dugout wherewith to transport the beasts of Tarzan to the side of the Kincaid. Nor was he long in coming upon the object which he sought.

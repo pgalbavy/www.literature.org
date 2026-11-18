@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Flop Ear Meets Slicko"
 weight: 8
-aliases:
-  - "/authors/barnum-richard/flop-ear-the-funny-rabbit/chapter-08.html"
+url: "/authors/barnum-richard/flop-ear-the-funny-rabbit/chapter-08.html"
 ---
 
 Flop Ear sat up on his hind legs, once he was outside the fence, and looked about him. One of his big ears stuck up straight, and the other sort of leaned over. Flop Ear put his head on one side, and his nose trembled, sort of, for he was wiggling it in order to try if he could smell any danger. Rabbits can wiggle their noses a little, and elephants can wiggle theirs a good bit, for their nose is their long trunk, and you know how Tum Tum could sling his trunk about.

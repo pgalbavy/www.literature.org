@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Spoor Of Revenge"
 weight: 18
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-18.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-18.html"
 ---
 
 AS Tarzan of the Apes, adapting his speed to that of Jad-bal-ja, made his comparatively slow way toward home, he reviewed with varying emotions the experiences of the past week. While he had been unsuccessful in raiding the treasure vaults of Opar, the sack of diamonds which he carried compensated several-fold for this miscarriage of his plans. His only concern now was for the safety of his Waziri, and, perhaps, a troublesome desire to seek out the whites who had drugged him and mete out to them the punishment they deserved. In view, however, of his greater desire to return home he decided to make no effort at apprehending them for the time being at least.

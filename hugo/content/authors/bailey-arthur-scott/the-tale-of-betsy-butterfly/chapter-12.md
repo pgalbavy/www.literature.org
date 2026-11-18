@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - A Terrible Blunder"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-12.html"
 ---
 
 WHEN the beautiful Betsy Butterfly turned her gaze on him, Daddy Longlegs couldn't help wishing that he had worn his new coat that day. However, he straightened his necktie carefully and tried to look as well as he could.

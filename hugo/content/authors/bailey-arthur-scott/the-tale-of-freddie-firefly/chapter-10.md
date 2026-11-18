@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Drawing Lots"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-10.html"
 ---
 
 Buster Bumblebee's mother told her forty-nine honey-makers that Freddie Firefly and at least forty-eight of his relations were expected at the Bumblebees' house at dusk.

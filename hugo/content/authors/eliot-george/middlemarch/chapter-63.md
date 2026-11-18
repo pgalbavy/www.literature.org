@@ -1,8 +1,7 @@
 ---
 title: "Chapter 63"
 weight: 63
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-63.html"
+url: "/authors/eliot-george/middlemarch/chapter-63.html"
 ---
 
 These little things are great to little man. - GOLDSMITH.

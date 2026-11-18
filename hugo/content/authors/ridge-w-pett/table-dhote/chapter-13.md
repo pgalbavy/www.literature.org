@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Irene Mercer"
 weight: 13
-aliases:
-  - "/authors/ridge-w-pett/table-dhote/chapter-13.html"
+url: "/authors/ridge-w-pett/table-dhote/chapter-13.html"
 ---
 
 THE general feeling was that Jane would be more convenient, that Mary made less demand on the brain, that Ellen had the advantage of having been the title of her immediate predecessor, but she proved stern and adamant in regard to the detail, and the graceful thing to do was to give in for the moment with a secret promise to make an alteration later on. When the time came for revision, it was found that no other title but that of Irene could possibly be given. The name fitted as though she had been measured for it. An impression that it could only belong to stately and slightly offended young women on the pages of sixpenny fashion journals, vanished.

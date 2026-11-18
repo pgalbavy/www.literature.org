@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 17
-aliases:
-  - "/authors/darwin-charles/the-descent-of-man/chapter-16.html"
+url: "/authors/darwin-charles/the-descent-of-man/chapter-16.html"
 ---
 
 WE must now consider the transmission of characters, as limited by age, in reference to sexual selection. The truth and importance of the principle of inheritance at corresponding ages need not here be discussed, as enough has already been said on the subject. Before giving the several rather complex rules or classes of cases, under which the differences in plumage between the young and the old, as far as known to me, may be included, it will be well to make a few preliminary remarks.

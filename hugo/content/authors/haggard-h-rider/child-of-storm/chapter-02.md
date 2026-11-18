@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Moonshine Of Zikali"
 weight: 3
-aliases:
-  - "/authors/haggard-h-rider/child-of-storm/chapter-02.html"
+url: "/authors/haggard-h-rider/child-of-storm/chapter-02.html"
 ---
 
 On the following morning I awoke, as a good hunter always should do, just at that time when, on looking out of the wagon, nothing can be seen but a little grey glint of light which he knows is reflected from the horns of the cattle tied to the trek-tow. Presently, however, I saw another glint of light which I guessed came from the spear of Saduko, who was seated by the ashes of the cooking fire wrapped in his kaross of wildcat skins. Slipping from the voorkisse, or driving-box, I came behind him softly and touched him on the shoulder. He leapt up with a start which revealed his nervous nature, then recognising me through the soft grey gloom, said:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Drought"
 weight: 20
-aliases:
-  - "/authors/coolidge-dane/hidden-water/chapter-20.html"
+url: "/authors/coolidge-dane/hidden-water/chapter-20.html"
 ---
 
 For a year the shadowy clouds had flitted past Hidden Water, drifting like flocks of snowy birds to their resting-place against the Peaks, and as the wind raged and the darkness gathered the cattle had raised their heads and bellowed, sniffing the wet air. In Summer the thunder-heads had mounted to high heaven and spread from east to west; the heat lightning had played along the horizon at night, restless and incessant; the sky had turned black and the south wind had rushed up, laden with the smell of distant showers. At last the rain had fallen, graciously, bringing up grass and browse, and flowers for those who sought them. But all the time the water lay in black pools along the shrunken river, trickling among the rocks and eddying around huge snags of driftwood, clear, limpid, sparkling, yet always less and less.

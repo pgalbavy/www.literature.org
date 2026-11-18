@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Thereafter"
 weight: 12
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-crux/chapter-11.html"
+url: "/authors/gilman-charlotte-perkins/the-crux/chapter-11.html"
 ---
 
 The inaccessibility of Dr. Hale gave him, in the eye of Mrs. St. Cloud, all the attractiveness of an unscaled peak to the true mountain climber. Here was a man, an unattached man, living next door to her, whom she had not even seen. Her pursuance of what Mr. Skee announced to his friends to be "one of these Platonic Friendships," did not falter; neither did her interest in other relations less philosophic. Mr. Dykeman's precipitate descent from the class of eligibles was more of a disappointment to her than she would admit even to herself; his firm, kind friendliness had given a sense of comfort, of achieved content that her restless spirit missed.

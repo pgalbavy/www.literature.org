@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-07.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-07.html"
 ---
 
 Shaking off the feelings that oppressed me, I went quickly upstairs. I had no difficulty in finding the room of the tragedy. On the day the body was discovered it had rained heavily, and large muddy boots had trampled the uncarpeted floor in every direction. I wondered if the murderer had left any footmarks the previous day. It was likely that the police would be reticent on the subject if he had, but on consideration I decided it was unlikely. The weather had been fine and dry.

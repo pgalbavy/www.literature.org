@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Miss Josepine Remembers The Anne-Girl"
 weight: 18
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-18.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-18.html"
 ---
 
 When Christmas holidays came the girls of Patty's Place scattered to their respective homes, but Aunt Jamesina elected to stay where she was.

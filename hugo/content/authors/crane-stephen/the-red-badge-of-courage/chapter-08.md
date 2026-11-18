@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/crane-stephen/the-red-badge-of-courage/chapter-08.html"
+url: "/authors/crane-stephen/the-red-badge-of-courage/chapter-08.html"
 ---
 
 THE trees began softly to sing a hymn of twi- light. The sun sank until slanted bronze rays struck the forest. There was a lull in the noises of insects as if they had bowed their beaks and were making a devotional pause. There was silence save for the chanted chorus of the trees.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Sea-Farmer"
 weight: 6
-aliases:
-  - "/authors/london-jack/the-strength-of-the-strong/chapter-06.html"
+url: "/authors/london-jack/the-strength-of-the-strong/chapter-06.html"
 ---
 
 "That wull be the doctor's launch," said Captain MacElrath.

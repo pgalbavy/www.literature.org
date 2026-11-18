@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - The Last Recourse"
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-27.html"
 ---
 
 The night was well along when Missionary Finley determined to appeal to his last recourse for saving the life of little Mabel Ashbridge.

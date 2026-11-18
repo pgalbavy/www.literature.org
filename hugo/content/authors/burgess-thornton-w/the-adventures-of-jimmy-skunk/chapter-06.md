@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Peter Rabbit Doesn't Enjoy His Joke"
 weight: 6
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-06.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-06.html"
 ---
 
 All the time that Jimmy Skunk was punishing Reddy Fox for rolling him down hill in a barrel, and while Reddy was sneaking away to the Green Forest to get out of sight, Peter Rabbit was lying low in the old house of Johnny Chuck, right near the place where Jimmy Skunk's wild ride had come to an end. It had been a great relief to Peter when he had seen Jimmy Skunk get to his feet, and he knew that Jimmy hadn't been hurt in that wild ride. Lying flat in the doorway of Johnny Chuck's old house, Peter could see all that went on without being seen himself, and he could hear all that was said.

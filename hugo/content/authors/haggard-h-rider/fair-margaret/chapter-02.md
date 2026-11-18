@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - John Castell"
 weight: 2
-aliases:
-  - "/authors/haggard-h-rider/fair-margaret/chapter-02.html"
+url: "/authors/haggard-h-rider/fair-margaret/chapter-02.html"
 ---
 
 When the king was gone, Peter turned to those men who had stood by him and thanked them very heartily. Then he said to Margaret:

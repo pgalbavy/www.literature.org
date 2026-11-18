@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Under The Snow"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-18.html"
 ---
 
 WINTER had come. The snow lay deep over Pleasant Valley. But Master Meadow Mouse didn't object to that. On the contrary, he had welcomed the snow. Even Johnnie Green, peeping out of his chamber window at the first snowfall of the season, hadn't been any happier over it than Master Meadow Mouse was. To Johnnie Green the snow meant fun. To Master Meadow Mouse it meant fun and something more.

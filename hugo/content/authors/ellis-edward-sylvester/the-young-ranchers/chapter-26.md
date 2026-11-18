@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - On The Ground"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-26.html"
 ---
 
 The aim of the warrior was better than before, and though it was not fatal, it came startlingly near being so. The bullet nipped the ear of the pony, and cut through the coat of Warren Starr; grazing his shoulder in the passage.

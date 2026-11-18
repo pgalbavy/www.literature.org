@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - In The Open"
 weight: 14
-aliases:
-  - "/authors/ostrander-isabel/the-crevice/chapter-14.html"
+url: "/authors/ostrander-isabel/the-crevice/chapter-14.html"
 ---
 
 Guy Morrow's resolve to find Emily Brunell at all costs, stirred him from the apathy of despair into which he had fallen, and roused him to instant action. Leaving the house, he went to the nearest telephone pay station, where he could converse in comparative privacy, and called up Henry Blaine's office, only to discover that the master detective had departed upon some mission of his own, was not expected to return until the following morning, and had left no instructions for him.

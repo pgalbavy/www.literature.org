@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - An Old Friend"
 weight: 1
-aliases:
-  - "/authors/haggard-h-rider/the-ancient-allan/chapter-01.html"
+url: "/authors/haggard-h-rider/the-ancient-allan/chapter-01.html"
 ---
 
 Now I, Allan Quatermain, come to the weirdest (with one or two exceptions perhaps) of all the experiences which it has amused me to employ my idle hours in recording here in a strange land, for after all England is strange to me. I grow elderly. I have, as I suppose, passed the period of enterprise and adventure and I should be well satisfied with the lot that Fate has given to my unworthy self.

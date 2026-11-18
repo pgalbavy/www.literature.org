@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Essarès Bey's Work"
 weight: 8
-aliases:
-  - "/authors/leblanc-maurice/the-golden-triangle/chapter-08.html"
+url: "/authors/leblanc-maurice/the-golden-triangle/chapter-08.html"
 ---
 
 This time Captain Belval seemed to relax to some extent. He vaguely perceived the consideration that compelled the authorities to wage the battle prudently.

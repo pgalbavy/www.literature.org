@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 14 - \"The King's Will Is Law\""
 weight: 26
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-14.html"
+url: "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-14.html"
 ---
 
 The Blentz princess frowned down upon the king and impostor impartially from her great gilt frame. It must have been close to midnight that the painting moved--just a fraction of an inch. Then it remained motionless for a time. Again it moved. This time it revealed a narrow crack at its edge. In the crack an eye shone.

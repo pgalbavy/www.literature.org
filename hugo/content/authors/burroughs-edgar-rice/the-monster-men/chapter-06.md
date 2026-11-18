@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - To Kill!"
 weight: 6
-aliases:
-  - "/authors/burroughs-edgar-rice/the-monster-men/chapter-06.html"
+url: "/authors/burroughs-edgar-rice/the-monster-men/chapter-06.html"
 ---
 
 The Rajah Muda Saffir, tiring of the excuses and delays which Bududreen interposed to postpone the fulfillment of his agreement with the former, whereby he was to deliver into the hands of the rajah a certain beautiful maiden, decided at last to act upon his own initiative. The truth of the matter was that he had come to suspect the motives of the first mate of the Ithaca, and not knowing of the great chest attributed them to Bududreen's desire to possess the girl for himself.

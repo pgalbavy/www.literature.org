@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - On The Imperfection Of The Geological Record"
 weight: 12
-aliases:
-  - "/authors/darwin-charles/the-origin-of-species-6th-edition/chapter-10.html"
+url: "/authors/darwin-charles/the-origin-of-species-6th-edition/chapter-10.html"
 ---
 
 On the absence of intermediate varieties at the present day -- On the nature of extinct intermediate varieties; on their number -- On the lapse of time, as inferred from the rate of denudation and of deposition number -- On the lapse of time as estimated by years -- On the poorness of our palaeontological collections -- On the intermittence of geological formations -- On the denudation of granitic areas -- On the absence of intermediate varieties in any one formation -- On the sudden appearance of groups of species -- On their sudden appearance in the lowest known fossiliferous strata -- Antiquity of the habitable earth.

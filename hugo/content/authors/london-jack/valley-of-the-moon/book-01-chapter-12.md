@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 12"
 weight: 12
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-01-chapter-12.html"
+url: "/authors/london-jack/valley-of-the-moon/book-01-chapter-12.html"
 ---
 
 The days flew by for Saxon. She worked on steadily at the laundry, even doing more overtime than usual, and all her free waking hours were devoted to preparations for the great change and to Billy. He had proved himself God's own impetuous lover by insisting on getting married the next day after the proposal, and then by resolutely refusing to compromise on more than a week's delay.

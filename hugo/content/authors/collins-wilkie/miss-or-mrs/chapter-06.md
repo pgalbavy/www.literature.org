@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Church"
 weight: 6
-aliases:
-  - "/authors/collins-wilkie/miss-or-mrs/chapter-06.html"
+url: "/authors/collins-wilkie/miss-or-mrs/chapter-06.html"
 ---
 
 The time is morning; the date is early in the month of November. The place is a church, in a poor and populous parish in the undiscovered regions of London, eastward of the Tower, and hard by the river-side.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-09.html"
+url: "/authors/dickens-charles/great-expectations/chapter-09.html"
 ---
 
 WHEN I reached home, my sister was very curious to know all about Miss Havisham's, and asked a number of questions. And I soon found myself getting heavily bumped from behind in the nape of the neck and the small of the back, and having my face ignominioualy shoved against the kitchen wall, because I did not answer those questions at sufficient length.

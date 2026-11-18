@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/coolidge-dane/the-desert-trail/chapter-17.html"
+url: "/authors/coolidge-dane/the-desert-trail/chapter-17.html"
 ---
 
 There was a world of Mexicans in the plaza when Hooker rode down through the town. Never, it seemed to him, had he seen so many or liked them less.

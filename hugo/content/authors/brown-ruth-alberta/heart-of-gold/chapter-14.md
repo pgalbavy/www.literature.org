@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Keturah And Billy Bolee"
 weight: 14
-aliases:
-  - "/authors/brown-ruth-alberta/heart-of-gold/chapter-14.html"
+url: "/authors/brown-ruth-alberta/heart-of-gold/chapter-14.html"
 ---
 
 "Well, Kitty, I am awful sorry, but it can't be helped now. It won't take me more than half an hour or so in all probability, but will you care to wait for me?"

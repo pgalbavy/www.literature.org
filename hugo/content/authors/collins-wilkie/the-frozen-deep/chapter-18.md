@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/collins-wilkie/the-frozen-deep/chapter-18.html"
+url: "/authors/collins-wilkie/the-frozen-deep/chapter-18.html"
 ---
 
 The man was a sinister and terrible object to look at. His eyes glared like the eyes of a wild animal; his head was bare; his long gray hair was torn and tangled; his miserable garments hung about him in rags. He stood in the doorway, a speechless figure of misery and want, staring at the well-spread table like a hungry dog.

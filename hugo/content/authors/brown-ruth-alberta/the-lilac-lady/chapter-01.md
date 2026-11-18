@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Exploring The New Home"
 weight: 1
-aliases:
-  - "/authors/brown-ruth-alberta/the-lilac-lady/chapter-01.html"
+url: "/authors/brown-ruth-alberta/the-lilac-lady/chapter-01.html"
 ---
 
 Two days after the night of the memorable surprise party in the little brown house, the place stood dismantled and deserted under the naked, shivering trees, good-byes had been spoken, and the six smiling sisters had driven away from their Parker home amid much fluttering of handkerchiefs and waving of hands. Everyone was sorry to see them go, yet all rejoiced in the great good fortune which had befallen the little orphan brood. Even after the Judge's carriage, which was to take them to the station, disappeared around the bend of the creek road, the enthusiastic crowd of friends and neighbors clustered about the sagging gate continued to shout their joking warnings and happy wishes upon the crisp, frosty, morning air.

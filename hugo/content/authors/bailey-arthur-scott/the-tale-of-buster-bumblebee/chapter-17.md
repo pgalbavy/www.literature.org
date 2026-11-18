@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Buster Learns Of The Raising Bee"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-17.html"
 ---
 
 "Yes!" said Jimmy Rabbit. "I hear that there's going to be a raising bee at Farmer Green's place to-morrow. And if I were you I should certainly want to be there."

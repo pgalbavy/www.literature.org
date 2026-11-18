@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-23.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-23.html"
 ---
 
 It was a queer little gathering in the drawing-room of Market Burnham Hall, queer and in a sense ominous. Two soldiers guarded the door. Another one stood with his back to the wide-flung window, the sunlight flashing upon his drawn bayonet. Granet, although he looked about him for a moment curiously, carried himself with ease and confidence.

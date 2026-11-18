@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/bronte-charlotte/jane-eyre/chapter-15.html"
+url: "/authors/bronte-charlotte/jane-eyre/chapter-15.html"
 ---
 
 Mr. Rochester did, on a future occasion, explain it. It was one afternoon, when he chanced to meet me and Adele in the grounds: and while she played with Pilot and her shuttlecock, he asked me to walk up and down a long beech avenue within sight of her.

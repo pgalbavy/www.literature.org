@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - He Is A Perfectly Impossible Person"
 weight: 3
-aliases:
-  - "/authors/doyle-arthur-conan/the-lost-world/chapter-03.html"
+url: "/authors/doyle-arthur-conan/the-lost-world/chapter-03.html"
 ---
 
 My friend's fear or hope was not destined to be realized. When I called on Wednesday there was a letter with the West Kensington postmark upon it, and my name scrawled across the envelope in a handwriting which looked like a barbed-wire railing. The contents were as follows:--

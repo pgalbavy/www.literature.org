@@ -1,8 +1,7 @@
 ---
 title: "Chapter 67 - At The Office Of The King's Attorney"
 weight: 67
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-67.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-67.html"
 ---
 
 Let us leave the banker driving his horses at their fullest speed, and follow Madame Danglars in her morning excursion. We have said that at half-past twelve o'clock Madame Danglars had ordered her horses, and had left home in the carriage. She directed her course towards the Faubourg Saint Germain, went down the Rue Mazarine, and stopped at the Passage du Pont-Neuf. She descended, and went through the passage. She was very plainly dressed, as would be the case with a woman of taste walking in the morning. At the Rue Guenegaud she called a cab, and directed the driver to go to the Rue de Harlay. As soon as she was seated in the vehicle, she drew from her pocket a very thick black veil, which she tied on to her straw bonnet. She then replaced the bonnet, and saw with pleasure, in a little pocket-mirror, that her white complexion and brilliant eyes were alone visible. The cab crossed the Pont-Neuf and entered the Rue de Harlay by the Place Dauphine; the driver was paid as the door opened, and stepping lightly up the stairs Madame Danglars soon reached the Salle des Pas-Perdus.

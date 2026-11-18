@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Comparisons Are Odious"
 weight: 6
-aliases:
-  - "/authors/gilman-charlotte-perkins/herland/chapter-06.html"
+url: "/authors/gilman-charlotte-perkins/herland/chapter-06.html"
 ---
 
 I had always been proud of my country, of course. Everyone is. Compared with the other lands and other races I knew, the United States of America had always seemed to me, speaking modestly, as good as the best of them.

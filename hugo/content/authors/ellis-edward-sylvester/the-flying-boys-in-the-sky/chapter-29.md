@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Retribution"
 weight: 29
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-29.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-29.html"
 ---
 
 Their frightful peril lasted only a few seconds. Although the machine still swayed like a ship laboring among surges, it struck more tranquil air, and with its graceful spiral motion lightly touched the ground, ran to the edge of the clearing and stopped with its front rigger within a few feet of a huge oak on the edge of the open space.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - How The Feast Went“hearken All Men!” Said Eric"
 weight: 25
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-24.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-24.html"
 ---
 
 “Thrust him out!” quoth Björn.

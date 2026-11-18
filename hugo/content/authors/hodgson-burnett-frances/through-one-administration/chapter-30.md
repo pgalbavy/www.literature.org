@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-30.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-30.html"
 ---
 
 Mrs. Merriam saw faint traces of tears in Mrs. Sylvestre's eyes when she returned from her call on the Bosworths, and speculated, with some wonder, as to what her exact mental condition was, but asked very few questions, feeling that, upon the whole, she would prefer to hear the version of the story given to Mr. Arbuthnot when he called. He did so the following evening, and, having seen the Bosworths in the interval, had comments of his own to make.

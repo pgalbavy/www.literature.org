@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Bruno's Revenge"
 weight: 16
-aliases:
-  - "/authors/carroll-lewis/sylvie-and-bruno/chapter-15.html"
+url: "/authors/carroll-lewis/sylvie-and-bruno/chapter-15.html"
 ---
 
 After that we had a few minutes of silence, while I sorted out the pebbles, and amused myself with watching Bruno's plan of gardening. It was quite a new plan to me: he always measured each bed before he weeded it, as if he was afraid the weeding would make it shrink; and once, when it came out longer than he wished, he set to work to thump the mouse with his little fist, crying out "There now! It's all gone wrong again! Why don't oo keep oor tail straight when I tell oo!"

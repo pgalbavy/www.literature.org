@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Magic"
 weight: 23
-aliases:
-  - "/authors/hodgson-burnett-frances/the-secret-garden/chapter-23.html"
+url: "/authors/hodgson-burnett-frances/the-secret-garden/chapter-23.html"
 ---
 
 Dr. Craven had been waiting some time at the house when they returned to it. He had indeed begun to wonder if it might not be wise to send someone out to explore the garden paths. When Colin was brought back to his room the poor man looked him over seriously.

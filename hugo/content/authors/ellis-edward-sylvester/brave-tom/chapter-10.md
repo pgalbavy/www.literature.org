@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/brave-tom/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/brave-tom/chapter-10.html"
 ---
 
 Tom's anxiety for his comrade drove all thought of sleep from his eyes for the time; and he sat long in the hot, smoky air of the room down-stairs, in the hope that Jim would come.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Slaughter Grim And Great"
 weight: 8
-aliases:
-  - "/authors/haggard-h-rider/allan-quatermain/chapter-07.html"
+url: "/authors/haggard-h-rider/allan-quatermain/chapter-07.html"
 ---
 
 Then there was a pause, and we stood there in the chilly silent darkness waiting till the moment came to start. It was, perhaps, the most trying time of all--that slow, slow quarter of an hour. The minutes seemed to drag along with leaden feet, and the quiet, the solemn hush, that brooded over all--big, as it were, with a coming fate, was most oppressive to the spirits. I once remember having to get up before dawn to see a man hanged, and I then went through a very similar set of sensations, only in the present instance my feelings were animated by that more vivid and personal element which naturally appertains rather to the person to be operated on than to the most sympathetic spectator. The solemn faces of the men, well aware that the short passage of an hour would mean for some, and perhaps all of them, the last great passage to the unknown or oblivion; the bated whispers in which they spoke; even Sir Henry’s continuous and thoughtful examination of his woodcutter’s axe and the fidgety way in which Good kept polishing his eyeglass, all told the same tale of nerves stretched pretty nigh to breaking-point. Only Umslopogaas, leaning as usual upon Inkosi-kaas and taking an occasional pinch of snuff, was to all appearance perfectly and completely unmoved. Nothing could touch his iron nerves.

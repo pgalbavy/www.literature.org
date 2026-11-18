@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - A Surprising Thing Happens"
 weight: 15
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-16.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-16.html"
 ---
 
 Blacky the Crow and Sammy Jay, looking down from the top of a tall tree, held their breath. Happy Jack the Gray Squirrel and his cousin, Chatterer the Red Squirrel, looking down from another tree, held *their* breath. Unc' Billy Possum, sticking his head out from a hollow tree, held *his* breath. Bobby Coon, looking through a hole in a hollow stump in which he was hiding, held *his* breath. Reddy Fox, lying flat down behind a heap of brush, held *his* breath. Peter Rabbit, sitting bolt upright under a thick hemlock branch, with eyes and ears wide open, held *his* breath. And all the other little people who happened to be where they could see did the same thing.

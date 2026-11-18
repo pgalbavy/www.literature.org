@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Off To Black Creek"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-21.html"
 ---
 
 As soon as they reached the orchard, Jolly Robin exclaimed, "There's old Mr. Crow now, over there on the fence! He's come back to get your answer and take it to Long Bill Wren. I'll have to tell him you're sorry--but you're going to be too busy to-morrow to go to the party."

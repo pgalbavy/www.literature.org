@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Watch-Dog Of Knowledge"
 weight: 8
-aliases:
-  - "/authors/eliot-george/impressions-of-theophrastus-such/chapter-08.html"
+url: "/authors/eliot-george/impressions-of-theophrastus-such/chapter-08.html"
 ---
 
 Mordax is an admirable man, ardent in intellectual work, public-spirited, affectionate, and able to find the right words in conveying ingenious ideas or elevated feeling. Pity that to all these graces he cannot add what would give them the utmost finish - the occasional admission that he has been in the wrong, the occasional frank welcome of a new idea as something not before present to his mind! But no: Mordax's self-respect seems to be of that fiery quality which demands that none but the monarchs of thought shall have an advantage over him, and in the presence of contradiction or the threat of having his notions corrected, he becomes astonishingly unscrupulous and cruel for so kindly and conscientious a man.

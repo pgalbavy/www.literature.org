@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 4 - Guardian And Ward"
 weight: 20
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-04.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-04.html"
 ---
 
 "Up to the present, then," Wingrave remarked, "the child has no idea as to who has been responsible for the charge of her?"

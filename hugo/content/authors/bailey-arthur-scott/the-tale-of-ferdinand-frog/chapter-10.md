@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Catching Up With Mr. Frog"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-10.html"
 ---
 
 Tired Tim Beaver asked Mr. Frog point-blank how a person might catch up with him in the matter of clothes.

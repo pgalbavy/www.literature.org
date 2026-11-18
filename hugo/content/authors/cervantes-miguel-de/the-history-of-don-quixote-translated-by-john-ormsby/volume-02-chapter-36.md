@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 36 - Wherein Is Related The Strange And Undreamt-Of Adventure Of The Distressed Duenna, Alias The Countess Trifaldi, Together With A Letter Which Sancho Panza Wrote To His Wife, Teresa Panza"
 weight: 92
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-36.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-36.html"
 ---
 
 The duke had a majordomo of a very facetious and sportive turn, and he it was that played the part of Merlin, made all the arrangements for the late adventure, composed the verses, and got a page to represent Dulcinea; and now, with the assistance of his master and mistress, he got up another of the drollest and strangest contrivances that can be imagined.

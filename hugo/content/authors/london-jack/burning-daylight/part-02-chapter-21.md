@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 21"
 weight: 34
-aliases:
-  - "/authors/london-jack/burning-daylight/part-02-chapter-21.html"
+url: "/authors/london-jack/burning-daylight/part-02-chapter-21.html"
 ---
 
 Daylight awoke with the familiar parched mouth and lips and throat, took a long drink of water from the pitcher beside his bed, and gathered up the train of thought where he had left it the night before. He reviewed the easement of the financial strain. Things were mending at last. While the going was still rough, the greatest dangers were already past. As he had told Hegan, a tight rein and careful playing were all that was needed now. Flurries and dangers were bound to come, but not so grave as the ones they had already weathered. He had been hit hard, but he was coming through without broken bones, which was more than Simon Dolliver and many another could say. And not one of his business friends had been ruined. He had compelled them to stay in line to save himself, and they had been saved as well.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 5"
 weight: 6
-aliases:
-  - "/authors/conrad-joseph/romance/part-01-chapter-05.html"
+url: "/authors/conrad-joseph/romance/part-01-chapter-05.html"
 ---
 
 There was a lad called Barnes, a steerage passenger of about my own age, a raw, red-headed Northumbrian yokel, going out as a recruit to one of the West Indian regiments. He was a serious, strenuous youth, and I had talked a little with him at odd moments. In my great loneliness I went to say good-by to him after I had definitely parted with Carlos.

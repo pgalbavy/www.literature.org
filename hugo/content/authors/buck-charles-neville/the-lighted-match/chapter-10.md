@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Of Certain Transpirings At A Café Table"
 weight: 10
-aliases:
-  - "/authors/buck-charles-neville/the-lighted-match/chapter-10.html"
+url: "/authors/buck-charles-neville/the-lighted-match/chapter-10.html"
 ---
 
 Benton's eyes seemed hypnotically drawn to the table pointed out, but he kept them tensely riveted on his coffee cup.

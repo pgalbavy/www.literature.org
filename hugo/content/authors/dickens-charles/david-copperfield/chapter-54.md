@@ -1,8 +1,7 @@
 ---
 title: "Chapter 54 - Mr. Micawber’s Transactions"
 weight: 55
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-54.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-54.html"
 ---
 
 This is not the time at which I am to enter on the state of my mind beneath its load of sorrow. I came to think that the Future was walled up before me, that the energy and action of my life were at an end, that I never could find any refuge but in the grave. I came to think so, I say, but not in the first shock of my grief. It slowly grew to that. If the events I go on to relate, had not thickened around me, in the beginning to confuse, and in the end to augment, my affliction, it is possible (though I think not probable), that I might have fallen at once into this condition. As it was, an interval occurred before I fully knew my own distress; an interval, in which I even supposed that its sharpest pangs were past; and when my mind could soothe itself by resting on all that was most innocent and beautiful, in the tender story that was closed for ever.

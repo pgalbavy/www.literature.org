@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-03.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-03.html"
 ---
 
 Quite another case, and having nothing to do with drink, was that of poor Captain B—. He used to suffer from sick headaches, in his young days, every time he was approaching a coast. Well over fifty years of age when I knew him, short, stout, dignified, perhaps a little pompous, he was a man of a singularly well-informed mind, the least sailor-like in outward aspect, but certainly one of the best seamen whom it has been my good luck to serve under. He was a Plymouth man, I think, the son of a country doctor, and both his elder boys were studying medicine. He commanded a big London ship, fairly well known in her day. I thought no end of him, and that is why I remember with a peculiar satisfaction the last words he spoke to me on board his ship after an eighteen months’ voyage. It was in the dock in Dundee, where we had brought a full cargo of jute from Calcutta. We had been paid off that morning, and I had come on board to take my sea-chest away and to say good-bye. In his slightly lofty but courteous way he inquired what were my plans. I replied that I intended leaving for London by the afternoon train, and thought of going up for examination to get my master’s certificate. I had just enough service for that. He commended me for not wasting my time, with such an evident interest in my case that I was quite surprised; then, rising from his chair, he said:

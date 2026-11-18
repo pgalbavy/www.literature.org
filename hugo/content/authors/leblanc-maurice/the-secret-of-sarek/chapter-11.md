@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Scourge Of God"
 weight: 12
-aliases:
-  - "/authors/leblanc-maurice/the-secret-of-sarek/chapter-11.html"
+url: "/authors/leblanc-maurice/the-secret-of-sarek/chapter-11.html"
 ---
 
 Vorski! Vorski! The unspeakable creature, the thought of whom filled her with shame and horror, the monstrous Vorski, was not dead! The murder of the spy by one of his colleagues, his burial in the cemetery at Fontainebleau; all this was a fable, a delusion! The only real fact was that Vorski was alive!

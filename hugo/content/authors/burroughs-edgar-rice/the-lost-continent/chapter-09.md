@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/burroughs-edgar-rice/the-lost-continent/chapter-09.html"
+url: "/authors/burroughs-edgar-rice/the-lost-continent/chapter-09.html"
 ---
 
 Victory! She was here, a slave to these black conquerors. Once more I started toward her, but better judgment held me back--I could do nothing to help her other than by stealth. Could I even accomplish aught by this means? I did not know. It seemed beyond the pale of possibility, and yet I should try.

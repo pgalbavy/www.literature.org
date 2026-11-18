@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/austen-jane/northanger-abbey/chapter-15.html"
+url: "/authors/austen-jane/northanger-abbey/chapter-15.html"
 ---
 
 Early the next day, a note from Isabella, speaking peace and tenderness in every line, and entreating the immediate presence of her friend on a matter of the utmost importance, hastened Catherine, in the happiest state of confidence and curiosity, to Edgar’s Buildings. The two youngest Miss Thorpes were by themselves in the parlour; and, on Anne’s quitting it to call her sister, Catherine took the opportunity of asking the other for some particulars of their yesterday’s party. Maria desired no greater pleasure than to speak of it; and Catherine immediately learnt that it had been altogether the most delightful scheme in the world, that nobody could imagine how charming it had been, and that it had been more delightful than anybody could conceive. Such was the information of the first five minutes; the second unfolded thus much in detail—that they had driven directly to the York Hotel, ate some soup, and bespoke an early dinner, walked down to the pump-room, tasted the water, and laid out some shillings in purses and spars; thence adjourned to eat ice at a pastry-cook’s, and hurrying back to the hotel, swallowed their dinner in haste, to prevent being in the dark; and then had a delightful drive back, only the moon was not up, and it rained a little, and Mr. Morland’s horse was so tired he could hardly get it along.

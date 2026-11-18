@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/lawrence-david-herbert/the-captains-doll/chapter-11.html"
+url: "/authors/lawrence-david-herbert/the-captains-doll/chapter-11.html"
 ---
 
 The captain bought the Still-life. This new version of himself along with the poached egg and the sunflowers was rather frightening. So he packed up for Austria, for Kaprun, with his picture, and had a fight to get the beastly thing out of Germany, and another fight to get it into Austria. Fatigued and furious he arrived in Salzburg, seeing no beauty in anything. Next day he was in Kaprun.

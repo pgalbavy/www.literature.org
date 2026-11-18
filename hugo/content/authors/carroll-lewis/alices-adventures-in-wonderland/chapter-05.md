@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Advice From A Caterpillar"
 weight: 5
-aliases:
-  - "/authors/carroll-lewis/alices-adventures-in-wonderland/chapter-05.html"
+url: "/authors/carroll-lewis/alices-adventures-in-wonderland/chapter-05.html"
 ---
 
 The Caterpillar and Alice looked at each other for some time in silence: at last the Caterpillar took the hookah out of its mouth, and addressed her in a languid, sleepy voice.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Rooster Upset"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-16.html"
 ---
 
 During the summer Henrietta Hen roamed about the farmyard as she pleased. To be sure, she always came a-running at feeding time. But except when there was something there to eat, she didn't go near the henhouse. She "stole her nest," to use Johnnie Green's words, now in one place and now in another. And at night she roosted on any handy place in the barn or the haymow, under the carriage-shed or even over the pigpens.

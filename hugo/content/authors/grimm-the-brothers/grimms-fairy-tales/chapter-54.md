@@ -1,8 +1,7 @@
 ---
 title: "Chapter 54 - The Salad"
 weight: 54
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-54.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-54.html"
 ---
 
 As a merry young huntsman was once going briskly along through a wood, there came up a little old woman, and said to him, ‘Good day, good day; you seem merry enough, but I am hungry and thirsty; do pray give me something to eat.’ The huntsman took pity on her, and put his hand in his pocket and gave her what he had. Then he wanted to go his way; but she took hold of him, and said, ‘Listen, my friend, to what I am going to tell you; I will reward you for your kindness; go your way, and after a little time you will come to a tree where you will see nine birds sitting on a cloak. Shoot into the midst of them, and one will fall down dead: the cloak will fall too; take it, it is a wishing-cloak, and when you wear it you will find yourself at any place where you may wish to be. Cut open the dead bird, take out its heart and keep it, and you will find a piece of gold under your pillow every morning when you rise. It is the bird’s heart that will bring you this good luck.’

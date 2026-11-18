@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 13 - Barbara Again"
 weight: 31
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-13.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-13.html"
 ---
 
 CAPTAIN BILLY BYRNE rode out of the hills the following afternoon upon a pinto pony that showed the whites of its eyes in a wicked rim about the iris and kept its ears perpetually flattened backward.

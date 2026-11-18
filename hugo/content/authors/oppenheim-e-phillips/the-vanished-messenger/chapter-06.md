@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-06.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-06.html"
 ---
 
 Mr. John P. Dunster opened his eyes upon strange surroundings. He found himself lying upon a bed deliciously soft, with lace-edged sheets and lavender-perfumed bed hangings. Through the discreetly opened upper window came a pleasant and ozone-laden breeze. The furniture in the room was mostly of an old-fashioned type, some of it of oak, curiously carved, and most of it surmounted with a coat of arms. The apartment was lofty and of almost palatial proportions. The whole atmosphere of the place breathed comfort and refinement. The only thing of which he did not wholly approve was the face of the nurse who rose silently to her feet at his murmured question:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Water And Oil"
 weight: 10
-aliases:
-  - "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-10.html"
+url: "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-10.html"
 ---
 
 I turned from Nickols' raillery and surveyed the great American garden. The weeks had flown from May to late July and father's plans were beginning to be materialized. Where the sunken garden had been filled in a wide stone well house, the like of which can be found at many of the farmhouses in the Harpeth Valley, had been built and a chain wheel and bucket drew up the water from the deep cistern, which was supplied with underground pipes from the south wing of the Poplars.

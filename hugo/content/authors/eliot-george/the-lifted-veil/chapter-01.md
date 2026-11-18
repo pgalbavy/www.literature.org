@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/eliot-george/the-lifted-veil/chapter-01.html"
+url: "/authors/eliot-george/the-lifted-veil/chapter-01.html"
 ---
 
 The time of my end approaches. I have lately been subject to attacks of angina pectoris; and in the ordinary course of things, my physician tells me, I may fairly hope that my life will not be protracted many months. Unless, then, I am cursed with an exceptional physical constitution, as I am cursed with an exceptional mental character, I shall not much longer groan under the wearisome burthen of this earthly existence. If it were to be otherwise - if I were to live on to the age most men desire and provide for - I should for once have known whether the miseries of delusive expectation can outweigh the miseries of true provision. For I foresee when I shall die, and everything that will happen in my last moments.

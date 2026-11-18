@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - My First Coming To Virginia"
 weight: 6
-aliases:
-  - "/authors/buchan-john/salute-to-adventurers/chapter-05.html"
+url: "/authors/buchan-john/salute-to-adventurers/chapter-05.html"
 ---
 
 There are few moments in life to compare with a traveller's first sight of a new land which is destined to be for short or long his home. When, after a fair and speedy voyage, we passed Point Comfort, and had rid ourselves of the revenue men, and the tides bore us up the estuary of a noble river, I stood on deck and drank in the heady foreign scents with a boyish ecstasy. Presently we had opened the capital city, which seemed to me no more than a village set amid gardens, and Mr. Lambie had come aboard and greeted me. He conveyed me to the best ordinary in the town which stood over against the Court-house. Late in the afternoon, just before the dark fell, I walked out to drink my fill of the place.

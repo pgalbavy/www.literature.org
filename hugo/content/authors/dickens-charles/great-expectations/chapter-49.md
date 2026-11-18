@@ -1,8 +1,7 @@
 ---
 title: "Chapter 49"
 weight: 49
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-49.html"
+url: "/authors/dickens-charles/great-expectations/chapter-49.html"
 ---
 
 PUTTING Miss Havisham's note in my pocket, that it might serve as my credentials for so soon reappearing at Satis House, in case her waywardness should lead her to express any surprise at seeing me, I went down again by the coach next day. But I alighted at the Halfway House, and breakfasted there, and walked the rest of the distance; for, I sought to get into the town quietly by the un- frequented ways, and to leave it in the same manner.

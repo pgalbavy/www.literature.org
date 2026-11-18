@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Back At Bambatse"
 weight: 17
-aliases:
-  - "/authors/haggard-h-rider/benita-an-african-romance/chapter-16.html"
+url: "/authors/haggard-h-rider/benita-an-african-romance/chapter-16.html"
 ---
 
 How they reached Bambatse Benita never could remember, but afterwards she was told that both she and her father were carried upon litters made of ox-hide shields. When she came to her own mind again, it was to find herself lying in her tent outside the mouth of the cave within the third enclosure of the temple-fortress. Her feet were sore and her bones ached, physical discomforts that brought back to her in a flash all the terrors through which she had passed.

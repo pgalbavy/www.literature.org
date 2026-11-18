@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-01.html"
+url: "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-01.html"
 ---
 
 "It's plum amazin' ter heer ye norate thet ye've done been tradin' and hagglin' with old man McGivins long enough ter buy his logs offen him and yit ye hain't never met up with Alexander. I kain't hardly fathom hit noways."

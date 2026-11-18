@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Poirot Elucidates Certain Points"
 weight: 12
-aliases:
-  - "/authors/christie-agatha/the-murder-on-the-links/chapter-12.html"
+url: "/authors/christie-agatha/the-murder-on-the-links/chapter-12.html"
 ---
 
 "Why did you measure that overcoat?" I asked, with some curiosity, as we walked down the hot white road at a leisurely pace.

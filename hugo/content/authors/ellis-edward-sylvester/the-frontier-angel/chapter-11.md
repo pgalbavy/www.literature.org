@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Prize Gained And Lost"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/the-frontier-angel/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/the-frontier-angel/chapter-11.html"
 ---
 
 *JENKINS,* as it afterward turned out, was in the wood reconnoitering the fort when the shot was fired which had well-nigh been so fatal to him. His object in doing this was to find out, before venturing to show himself, whether the Shawnees or whites held possession of the settlement. He had made the discovery of the attack when but a few miles off, and hearing the guns and becoming alarmed for his own safety, he ascended a tree and remained there until every Indian had departed from the neighborhood.

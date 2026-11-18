@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Waterworks"
 weight: 5
-aliases:
-  - "/authors/nesbit-edith/the-wouldbegoods/chapter-05.html"
+url: "/authors/nesbit-edith/the-wouldbegoods/chapter-05.html"
 ---
 
 This is the story of one of the most far-reaching and influentially naughty things we ever did in our lives. We did not mean to do such a deed. And yet we did do it. These things will happen with the best-regulated consciences.

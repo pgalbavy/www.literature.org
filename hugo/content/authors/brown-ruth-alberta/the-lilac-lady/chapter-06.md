@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Peace's Spring Vacation"
 weight: 6
-aliases:
-  - "/authors/brown-ruth-alberta/the-lilac-lady/chapter-06.html"
+url: "/authors/brown-ruth-alberta/the-lilac-lady/chapter-06.html"
 ---
 
 Allee's cold was no better Monday morning, but it was decided that Peace should go alone to the new parsonage on Hill Street, with the promise that if possible the younger child should join her before the week's visit was ended. So Peace departed. But it was with a heavy heart that she went, for, much as she wanted to see her former pastor's family, she dreaded being separated from this dearest of sisters even for seven days; nor could she shake off the vague feeling of unrest which had gripped her when she saw the sick, sorrowful look in Allee's great blue eyes as they said good-bye.

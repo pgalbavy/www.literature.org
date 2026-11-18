@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-08.html"
+url: "/authors/haggard-h-rider/dawn/chapter-08.html"
 ---
 
 That evening his father astonished Philip by telling him that he intended to give a dinner-party on that day week.

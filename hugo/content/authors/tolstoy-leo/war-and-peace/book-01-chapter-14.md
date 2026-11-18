@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 14"
 weight: 14
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-01-chapter-14.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-01-chapter-14.html"
 ---
 
 After receiving her visitors, the countess was so tired that she gave orders to admit no more, but the porter was told to be sure to invite to dinner all who came "to congratulate." The countess wished to have a tete-a-tete talk with the friend of her childhood, Princess Anna Mikhaylovna, whom she had not seen properly since she returned from Petersburg. Anna Mikhaylovna, with her tear-worn but pleasant face, drew her chair nearer to that of the countess.

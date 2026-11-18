@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 17
-aliases:
-  - "/authors/baum-l-frank/the-magic-of-oz/chapter-16.html"
+url: "/authors/baum-l-frank/the-magic-of-oz/chapter-16.html"
 ---
 
 When the six monkeys were transformed by Kiki Aru into six giant soldiers fifty feet tall, their heads came above the top of the trees, which in this part of the forest were not so high as in some other parts; and, although the trees were somewhat scattered, the bodies of the giant soldiers were so big that they quite filled the spaces in which they stood and the branches pressed them on every side.

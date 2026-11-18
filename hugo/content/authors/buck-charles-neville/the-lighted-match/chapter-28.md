@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Jusseret Makes A Report"
 weight: 28
-aliases:
-  - "/authors/buck-charles-neville/the-lighted-match/chapter-28.html"
+url: "/authors/buck-charles-neville/the-lighted-match/chapter-28.html"
 ---
 
 In Paris a small party of gentlemen, among whom were represented all the national types of Southern Europe, were engaged in an informal discussion of very formal affairs. They occupied a private suite in the Hotel Ritz overlooking the column of the Place Vendome. Upon a table swept clean of draperies and bric-a-brac lay an outstretched map of the Mediterranean littoral, whereon a small peninsula had been marked with certain experimental and revised boundaries in red and blue and black. The atmosphere was thick with the smoke from cigars and cigarettes, and through the veneering amenities of much courtesy the gentlemen of Europe's Cabinets Noirs wrangled with insistence. Finally Monsieur Jusseret took the floor, and the others dropped respectfully into an attitude of listening.

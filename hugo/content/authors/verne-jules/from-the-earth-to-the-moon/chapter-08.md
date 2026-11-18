@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/verne-jules/from-the-earth-to-the-moon/chapter-08.html"
+url: "/authors/verne-jules/from-the-earth-to-the-moon/chapter-08.html"
 ---
 
 The resolutions passed at the last meeting produced a great effect out of doors. Timid people took fright at the idea of a shot weighing 20,000 pounds being launched into space; they asked what cannon could ever transmit a sufficient velocity to such a mighty mass. The minutes of the second meeting were destined triumphantly to answer such questions. The following evening the discussion was renewed.

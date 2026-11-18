@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Lightfoot Tells How His Antlers Grew"
 weight: 3
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-03.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-03.html"
 ---
 
 It is hard to believe what seems impossible. And yet what seems impossible to you may be a very commonplace matter to some one else. So it does not do to say that a thing cannot be possible just because you cannot understand how it can be. Peter Rabbit wanted to believe what Lightfoot the Deer had just told him, but somehow he couldn't. If he had seen those antlers growing, it would have been another matter. But he hadn't seen Lightfoot since the very last of winter, and then Lightfoot had worn just such handsome antlers as he now had. So Peter really couldn't be blamed for not being able to believe that those old ones had been lost and in their place new ones had grown in just the few months of spring and summer.

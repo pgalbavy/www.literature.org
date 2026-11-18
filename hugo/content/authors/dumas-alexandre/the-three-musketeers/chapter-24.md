@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Pavilion"
 weight: 25
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-24.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-24.html"
 ---
 
 At nine o'clock D'Artagnan was at the Hotel des Gardes; he found Planchet all ready. The fourth horse had arrived.

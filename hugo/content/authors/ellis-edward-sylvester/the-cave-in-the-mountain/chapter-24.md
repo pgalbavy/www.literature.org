@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Night Visitors"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-24.html"
 ---
 
 As young Munson expected to remain where he was for the rest of the day, and perhaps through the succeeding night, and knew that he was in great danger, he made it his business to acquaint himself thoroughly with his position and with all the approaches thereto. The first natural supposition was that the Apaches, in following the fugitives to the spot, would, from the force of circumstances, keep to the trail, that being their only guide.

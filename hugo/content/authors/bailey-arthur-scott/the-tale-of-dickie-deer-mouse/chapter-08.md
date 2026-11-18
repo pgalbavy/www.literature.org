@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - In The Cornfield"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-08.html"
 ---
 
 In one way, especially, Fatty Coon and Dickie Deer Mouse were alike: They were night-prowlers. When they slept it was usually broad daylight outside, and the birds--except for a few odd fellows like Willie Whip-poor-will and Mr. Night Hawk--were abroad, and singing, and twittering. And when most of the birds went to sleep Dickie and Fatty Coon began to feel quite wide awake.

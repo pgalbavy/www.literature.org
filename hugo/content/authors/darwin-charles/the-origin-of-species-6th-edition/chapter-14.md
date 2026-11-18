@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Mutual Affinities Of Organic Beings:  Morphology -- Embryology -- Rudimentary Organs"
 weight: 16
-aliases:
-  - "/authors/darwin-charles/the-origin-of-species-6th-edition/chapter-14.html"
+url: "/authors/darwin-charles/the-origin-of-species-6th-edition/chapter-14.html"
 ---
 
 Classification, groups subordinate to groups -- Natural system -- Rules and difficulties in classification, explained on the theory of descent with modification -- Classification of varieties -- Descent always used in classification -- Analogical or adaptive characters -- Affinities, general, complex and radiating -- Extinction separates and defines groups -- Morphology, between members of the same class, between parts of the same individual -- Embryology, laws of, explained by variations not supervening at an early age, and being inherited at a corresponding age -- Rudimentary organs; their origin explained -- Summary.

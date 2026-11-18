@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/coolidge-dane/the-desert-trail/chapter-19.html"
+url: "/authors/coolidge-dane/the-desert-trail/chapter-19.html"
 ---
 
 It was June and the wind-storms which had swept in from the southeast died away. No more, as in the months that had passed, did the dust-pillar rise from the dump of the Fortuna mill and go swirling up the cañon.

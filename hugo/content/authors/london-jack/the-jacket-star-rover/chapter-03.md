@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/london-jack/the-jacket-star-rover/chapter-03.html"
+url: "/authors/london-jack/the-jacket-star-rover/chapter-03.html"
 ---
 
 All that day I lay in the dungeon cudgelling my brains for the reason of this new and inexplicable punishment. All I could conclude was that some stool had lied an infraction of the rules on me in order to curry favour with the guards.

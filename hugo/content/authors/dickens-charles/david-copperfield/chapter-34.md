@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - My Aunt Astonishes Me"
 weight: 35
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-34.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-34.html"
 ---
 
 I wrote to Agnes as soon as Dora and I were engaged. I wrote her a long letter, in which I tried to make her comprehend how blest I was, and what a darling Dora was. I entreated Agnes not to regard this as a thoughtless passion which could ever yield to any other, or had the least resemblance to the boyish fancies that we used to joke about. I assured her that its profundity was quite unfathomable, and expressed my belief that nothing like it had ever been known.

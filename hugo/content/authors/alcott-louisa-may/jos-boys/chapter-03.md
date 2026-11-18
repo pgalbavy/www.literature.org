@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Jo's Last Scrape"
 weight: 3
-aliases:
-  - "/authors/alcott-louisa-may/jos-boys/chapter-03.html"
+url: "/authors/alcott-louisa-may/jos-boys/chapter-03.html"
 ---
 
 The March family had enjoyed a great many surprises in the course of their varied career, but the greatest of all was when the Ugly Duckling turned out to be, not a swan, but a golden goose, whose literary eggs found such an unexpected market that in ten years Jo's wildest and most cherished dream actually came true. How or why it happened she never clearly understood, but all of a sudden she found herself famous in a small way, and, better still, with a snug little fortune in her pocket to clear away the obstacles of the present and assure the future of her boys.

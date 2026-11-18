@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 2"
 weight: 25
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-02.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-02.html"
 ---
 
 After a week spent in professions of love and schemes of felicity, Mr. Collins was called from his amiable Charlotte by the arrival of Saturday. The pain of separation, however, might be alleviated on his side, by preparations for the reception of his bride, as he had reason to hope, that shortly after his next return into Hertfordshire, the day would be fixed that was to make him the happiest of men. He took leave of his relations at Longbourn with as much solemnity as before; wished his fair cousins health and happiness again, and promised their father another letter of thanks.

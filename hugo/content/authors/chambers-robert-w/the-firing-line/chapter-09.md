@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Invasion"
 weight: 9
-aliases:
-  - "/authors/chambers-robert-w/the-firing-line/chapter-09.html"
+url: "/authors/chambers-robert-w/the-firing-line/chapter-09.html"
 ---
 
 They went together in a double chair, spinning noiselessly over the shell road which wound through oleander and hibiscus hedges. Great orange and sulphur-tinted butterflies kept pace with them as they travelled swiftly southward; the long, slim shadows of palms gridironed the sunny road, for the sun was in the west, and already a bird here and there had ventured on a note or two as prelude to the evening song, and over the ocean wild ducks were rising in clouds, swinging and drifting and settling again as though in short rehearsal for their sunset flight.

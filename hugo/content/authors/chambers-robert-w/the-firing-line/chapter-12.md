@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Allied Forces"
 weight: 12
-aliases:
-  - "/authors/chambers-robert-w/the-firing-line/chapter-12.html"
+url: "/authors/chambers-robert-w/the-firing-line/chapter-12.html"
 ---
 
 Through the glades the sun poured like a red searchlight, and they advanced in the wake of their own enormous shadows lengthening grotesquely with every stride. Tree trunks and underbrush seemed afire in the kindling glory; the stream ran molten.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/cooper-courtney-ryley/the-white-desert/chapter-19.html"
+url: "/authors/cooper-courtney-ryley/the-white-desert/chapter-19.html"
 ---
 
 Until dusk they remained in the boxlike station, hoping against hope. But the whine and snarl of the wind were the only sounds that came to them, the steady banking of the snow against the windows the only evidence of life. The telegraph line, somewhere between Tabernacle and the country which lay over the bleak, now deadly range, was a shattered thing, with poles buried in drifts, with loose strands of wire swinging in the gusts of the blizzard, with ice coated upon the insulations, and repair--until the sun should come and the snows melt--an almost impossible task.

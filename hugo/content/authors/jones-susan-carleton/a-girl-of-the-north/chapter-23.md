@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-23.html"
+url: "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-23.html"
 ---
 
 LAUNA’S first feeling was relief, relief—so intense, so endless, that she felt buoyant, joyful, secure. But after some days she felt shame. What had Hugh Wainbridge thought of her? What could a man think of a woman whom he could propose to wrong so terribly? And what had Paul thought of her? Why did he not come?

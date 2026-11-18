@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/huxley-aldous/antic-hay/chapter-21.html"
+url: "/authors/huxley-aldous/antic-hay/chapter-21.html"
 ---
 
 "Well," said Gumbril, "here I am again."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Rape Of The Lock"
 weight: 16
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-15.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-15.html"
 ---
 
 June was crowded full of interest that year. We gathered in with its sheaf of fragrant days the choicest harvest of childhood. Things happened right along. Cecily declared she hated to go to sleep for fear she might miss something. There were so many dear delights along the golden road to give us pleasure--the earth dappled with new blossom, the dance of shadows in the fields, the rustling, rain-wet ways of the woods, the faint fragrance in meadow lanes, liltings of birds and croon of bees in the old orchard, windy pipings on the hills, sunset behind the pines, limpid dews filling primrose cups, crescent moons through darklings boughs, soft nights alight with blinking stars. We enjoyed all these boons, unthinkingly and light-heartedly, as children do. And besides these, there was the absorbing little drama of human life which was being enacted all around us, and in which each of us played a satisfying part--the gay preparations for Aunt Olivia's mid-June wedding, the excitement of practising for the concert with which our school-teacher, Mr. Perkins, had elected to close the school year, and Cecily's troubles with Cyrus Brisk, which furnished unholy mirth for the rest of us, though Cecily could not see the funny side of it at all.

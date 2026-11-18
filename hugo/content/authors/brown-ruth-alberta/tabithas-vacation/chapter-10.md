@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Susanne Entertains A Caller"
 weight: 10
-aliases:
-  - "/authors/brown-ruth-alberta/tabithas-vacation/chapter-10.html"
+url: "/authors/brown-ruth-alberta/tabithas-vacation/chapter-10.html"
 ---
 
 "Let's make some candy. It's too hot to play."

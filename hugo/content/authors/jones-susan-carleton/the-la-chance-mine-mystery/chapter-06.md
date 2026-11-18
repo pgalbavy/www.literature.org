@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Mostly Wolves: And A Girl"
 weight: 6
-aliases:
-  - "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-06.html"
+url: "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-06.html"
 ---
 
 Oh, what was that drew screaming breath? "A wolf that slashed at me!" Oh, who was that cried out in death? "A man who struck at thee!"

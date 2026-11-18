@@ -1,8 +1,7 @@
 ---
 title: "Chapter 81 - The Courtyard Of The Hotel Grammont"
 weight: 81
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-81.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-81.html"
 ---
 
 On Malicorne's arrival at Orleans, he was informed that the Comte de Guiche had just set out for Paris. Malicorne rested himself for a couple of hours, and then prepared to continue his journey. He reached Paris during the night, and alighted at a small hotel, where, in his previous journeys to the capital, he had been accustomed to put up, and at eight o'clock the next morning presented himself at the Hotel Grammont. Malicorne arrived just in time, for the Comte de Guiche was on the point of taking leave of Monsieur before setting out for Havre, where the principal members of the French nobility had gone to await Madame's arrival from England. Malicorne pronounced the name of Manicamp and was immediately admitted. He found the Comte de Guiche in the courtyard of the Hotel Grammont, inspecting his horses, which his trainers and equerries were passing in review before him. The count, in the presence of his tradespeople and of his servants, was engaged in praising or blaming, as the case seemed to deserve, the appointments, horses, and harness that were being submitted to him; when, in the midst of this important occupation, the name of Manicamp was announced.

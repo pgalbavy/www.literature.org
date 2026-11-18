@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Shadows Before"
 weight: 8
-aliases:
-  - "/authors/doyle-arthur-conan/beyond-the-city/chapter-08.html"
+url: "/authors/doyle-arthur-conan/beyond-the-city/chapter-08.html"
 ---
 
 Mrs. Westmacott's great meeting for the enfranchisement of woman had passed over, and it had been a triumphant success. All the maids and matrons of the southern suburbs had rallied at her summons, there was an influential platform with Dr. Balthazar Walker in the chair, and Admiral Hay Denver among his more prominent supporters. One benighted male had come in from the outside darkness and had jeered from the further end of the hall, but he had been called to order by the chair, petrified by indignant glances from the unenfranchised around him, and finally escorted to the door by Charles Westmacott. Fiery resolutions were passed, to be forwarded to a large number of leading statesmen, and the meeting broke up with the conviction that a shrewd blow had been struck for the cause of woman.

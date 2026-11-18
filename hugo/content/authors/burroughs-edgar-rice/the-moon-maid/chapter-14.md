@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Barsoom!"
 weight: 15
-aliases:
-  - "/authors/burroughs-edgar-rice/the-moon-maid/chapter-14.html"
+url: "/authors/burroughs-edgar-rice/the-moon-maid/chapter-14.html"
 ---
 
 The city was already in flames in many places, and though the people fought valiantly to extinguish them, it seemed to me that they but spread the more rapidly with each succeeding minute. And then, as suddenly as it had commenced, the bombardment ceased. Nah-ee-lah and I crossed over to the outer edge of the terrace to see if we could note any new movement by the enemy, nor did we have long to wait. We saw a hundred ladders raised as if by magic toward the lowest terrace, which rose but a bare two hundred feet above the base of the city. The men who carried the ladders were not visible to us when they came close to the base of the wall, but I guessed from the distant glimpses that I caught of the ladders as they were rushed forward by running men that here, again, Orthis’ earthly knowledge and experience had come to the assistance of the Kalkars, for I was sure that only some form of extension ladder could be successfully used to reach even the lowest terrace.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 74 - In Which D'artagnan Makes All Speed, Porthos Snores, And Aramis Counsels"
 weight: 74
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-74.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-74.html"
 ---
 
 From thirty to thirty-five hours after the events we have just related, as M. Fouquet, according to his custom, having interdicted his door, was working in the cabinet of his house at Saint-Mande, with which we are already acquainted, a carriage, drawn by four horses steaming with sweat, entered the court at full gallop. This carriage was, probably, expected, for three or four lackeys hastened to the door, which they opened. Whilst M. Fouquet rose from his bureau and ran to the window, a man got painfully out of the carriage descending with difficulty the three steps of the door, leaning upon the shoulders of the lackeys. He had scarcely uttered his name, when the valet upon whom he was not leaning sprang up the perron, and disappeared in the vestibule. This man went to inform his master; but he had no occasion to knock at the door: Fouquet was standing on the threshold.

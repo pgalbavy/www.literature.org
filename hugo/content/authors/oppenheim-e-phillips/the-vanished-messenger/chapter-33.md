@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 33
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-33.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-33.html"
 ---
 
 A gleam of day was in the sky as Hamel, with Mrs. Fentolin by his side, passed along the path which led from the Tower to St. David's Hall. Lights were still burning from its windows; the outline of the building itself was faintly defined against the sky. Behind him, across the sea, was that one straight line of grey merging into silver. The rain had ceased and the wind had dropped. On either side of them stretched the brimming creeks.

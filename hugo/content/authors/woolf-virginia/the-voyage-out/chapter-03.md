@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/woolf-virginia/the-voyage-out/chapter-03.html"
+url: "/authors/woolf-virginia/the-voyage-out/chapter-03.html"
 ---
 
 Early next morning there was a sound as of chains being drawn roughly overhead; the steady heart of the *Euphrosyne* slowly ceased to beat; and Helen, poking her nose above deck, saw a stationary castle upon a stationary hill. They had dropped anchor in the mouth of the Tagus, and instead of cleaving new waves perpetually, the same waves kept returning and washing against the sides of the ship.

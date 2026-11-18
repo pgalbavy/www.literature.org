@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/london-jack/the-jacket-star-rover/chapter-14.html"
+url: "/authors/london-jack/the-jacket-star-rover/chapter-14.html"
 ---
 
 When, at the conclusion of my first ten days' term in the jacket, I was brought back to consciousness by Doctor Jackson's thumb pressing open an eyelid, I opened both eyes and smiled up into the face of Warden Atherton.

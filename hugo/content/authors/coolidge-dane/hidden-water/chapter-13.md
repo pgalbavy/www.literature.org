@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Snow-Scene"
 weight: 13
-aliases:
-  - "/authors/coolidge-dane/hidden-water/chapter-13.html"
+url: "/authors/coolidge-dane/hidden-water/chapter-13.html"
 ---
 
 There was a big fire out under the mesquite that night and a band of cowboys, in all the bravery of spurs, shaps, and pistols, romped around it in a stage-struck exuberance of spirits. The night was hardly cold enough to call for fringed leather chaparejos, and their guns should have been left in their blankets; nor are long-shanked Texas spurs quite the proper thing about camp, having a dirty way of catching and tripping their wearers; but the rodéo outfit felt that it was on dress parade and was trying its best to look the cowboy part. Bill Lightfoot even had a red silk handkerchief draped about his neck, with the slack in front, like a German napkin; and his cartridge belt was slung so low that it threatened every moment to drop his huge Colt's revolver into the dirt--but who could say a word?

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Events On The Hill-Side"
 weight: 26
-aliases:
-  - "/authors/buchan-john/salute-to-adventurers/chapter-25.html"
+url: "/authors/buchan-john/salute-to-adventurers/chapter-25.html"
 ---
 
 My body was too sore to suffer me to sleep dreamlessly, but my dreams were pleasant. I thought I was in a sunny place with Elspeth, and that she had braided a coronet of wild flowers for her hair. They were simple flowers, such as I had known in childhood and had not found in Virginia—yarrow, and queen of the meadow, and bluebells, and the little eyebright. A great peace filled me, and Ringan came presently to us and spoke in his old happy speech. 'Twas to the accompaniment of Elspeth's merry laughter that I wakened, to find myself in a dark, strange-smelling place, with a buffalo robe laid over me, and no stitch of clothing on my frame.

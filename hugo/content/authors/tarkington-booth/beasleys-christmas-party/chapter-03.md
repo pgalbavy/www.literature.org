@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/tarkington-booth/beasleys-christmas-party/chapter-03.html"
+url: "/authors/tarkington-booth/beasleys-christmas-party/chapter-03.html"
 ---
 
 I do not know why it should have astonished me to find that Miss Apperthwaite was a teacher of mathematics except that (to my inexperienced eye) she didn't look it. She looked more like Charlotte Corday!

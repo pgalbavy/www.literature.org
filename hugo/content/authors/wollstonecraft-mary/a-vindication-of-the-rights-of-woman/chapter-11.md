@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Duty To Parents"
 weight: 12
-aliases:
-  - "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/chapter-11.html"
+url: "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/chapter-11.html"
 ---
 
 There seems to be an indolent propensity in man to make prescription always take place of reason, and to place every duty on an arbitrary foundation. The rights of kings are deduced in a direct line from the King of kings; and that of parents from our first parent.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Experiments"
 weight: 11
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-11.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-11.html"
 ---
 
 "The first of June! The Kings are off to the seashore tomorrow, and I'm free. Three months' vacation - how I shall enjoy it!" exclaimed Meg, coming home one warm day to find Jo laid upon the sofa in an unusual state of exhaustion, while Beth took off her dusty boots, and Amy made lemonade for the refreshment of the whole party.

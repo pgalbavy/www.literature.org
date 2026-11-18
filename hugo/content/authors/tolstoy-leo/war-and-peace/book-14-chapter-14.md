@@ -1,8 +1,7 @@
 ---
 title: "Book 14 - Chapter 14"
 weight: 312
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-14-chapter-14.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-14-chapter-14.html"
 ---
 
 "A vos places!"* suddenly cried a voice.

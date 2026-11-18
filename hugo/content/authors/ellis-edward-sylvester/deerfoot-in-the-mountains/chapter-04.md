@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Land Of The Assiniboines"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-04.html"
 ---
 
 As Deerfoot listened to the story of the Nez Perce leader his gorge steadily rose, for the account was worse, if possible, than he had expected to hear. Not only did he resent the cool appropriation of his steed by Amokeat, but he read the proof of the cowardice of the chief, who had deserted his companions when in peril and then, instead of making a brave defence when cornered by the Assiniboines, had eagerly passed over to them the property of another in order to secure his own safety.

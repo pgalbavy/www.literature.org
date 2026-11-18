@@ -1,8 +1,7 @@
 ---
 title: "Introductory"
 weight: 2
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/introduction.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/introduction.html"
 ---
 
 In the Michaelmas term after leaving school, Tom Brown received a summons from the authorities, and went up to matriculate at St. Ambrose's College, Oxford. He presented himself at the college one afternoon, and was examined by one of the tutors, who carried him, and several other youths in like predicament, up to the Senate House the next morning. Here they went through the usual forms of subscribing to the articles, and otherwise testifying their loyalty to the established order of things, without much thought perhaps, but in very good faith nevertheless. Having completed the ceremony, by paying his fees, our hero hurried back home, without making any stay in Oxford. He had often passed through it, so that the city had not the charm of novelty for him, and he was anxious to get home; where, as he had never spent an autumn away from school till now, for the first time in his life he was having his fill of hunting and shooting.

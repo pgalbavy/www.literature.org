@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 4 - Adolescence"
 weight: 4
-aliases:
-  - "/authors/wells-herbert-george/the-new-machiavelli/book-01-chapter-04.html"
+url: "/authors/wells-herbert-george/the-new-machiavelli/book-01-chapter-04.html"
 ---
 
 1

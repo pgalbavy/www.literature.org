@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-09.html"
+url: "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-09.html"
 ---
 
 Tip slipped away from the girls and followed swiftly after the Soldier with the Green Whiskers. The invading army entered the City more slowly, for they stopped to dig emeralds out of the walls and paving-stones with the points of their knitting-needles. So the Soldier and the boy reached the palace before the news had spread that the City was conquered.

@@ -1,8 +1,7 @@
 ---
 title: "chapter 10"
 weight: 999
-aliases:
-  - "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-10.html"
+url: "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-10.html"
 ---
 
 It was Button-Bright who first discovered, lying on his face beneath a broad spreading tree near the pathway, a young man whose body shook with the force of his sobs. He was dressed in a long brown smock and had sandals on his feet, betokening one in humble life. His head was bare and showed a shock of brown, curly hair. Button-Bright looked down on the young man and said:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - L’ombre"
 weight: 9
-aliases:
-  - "/authors/chambers-robert-w/barbarians/chapter-09.html"
+url: "/authors/chambers-robert-w/barbarians/chapter-09.html"
 ---
 
 Aulnes Woods were brown and still under their unshed canopy of October leaves. Against a grey, transparent sky the oaks and beeches towered, unstirred by any wind; in the subdued light among the trees, ferns, startlingly green, spread delicate plumed fronds; there was no sound except the soft crash of his own footsteps through shriveling patches of brake; no movement save when a yellow leaf fluttered down from above or one of those little silvery grey moths took wing and fluttered aimlessly along the forest aisle, only to alight upon some lichen-spotted tree and cling there, slowly waving its delicate, translucent wings.

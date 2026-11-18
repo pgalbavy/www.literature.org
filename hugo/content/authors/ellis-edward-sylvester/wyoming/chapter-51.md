@@ -1,8 +1,7 @@
 ---
 title: "Chapter 51"
 weight: 51
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-51.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-51.html"
 ---
 
 Lieutenant Fred Godfrey expected such a reception from Jake Golcher as would give him a suitable excuse for opening fire on the Tory and the Senecas, but the panic of the leader disarmed his enmity, and really forced the arrangement that was now carried out; one that, it may be said, was intensely disagreeable to Dick Durkee and his comrades, who were unwilling to spare such miscreants.

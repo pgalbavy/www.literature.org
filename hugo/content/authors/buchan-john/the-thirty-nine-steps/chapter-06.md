@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Adventure Of The Bald Archaeologist"
 weight: 7
-aliases:
-  - "/authors/buchan-john/the-thirty-nine-steps/chapter-06.html"
+url: "/authors/buchan-john/the-thirty-nine-steps/chapter-06.html"
 ---
 
 I spent the night on a shelf of the hillside, in the lee of a boulder where the heather grew long and soft. It was a cold business, for I had neither coat nor waistcoat. These were in Mr Turnbull’s keeping, as was Scudder’s little book, my watch and—worst of all—my pipe and tobacco pouch. Only my money accompanied me in my belt, and about half a pound of ginger biscuits in my trousers pocket.

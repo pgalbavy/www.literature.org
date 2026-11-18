@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Ramsgate Sands"
 weight: 3
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-03.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-03.html"
 ---
 
 EUSTACE succeeded in quieting my alarm. But I can hardly say that he succeeded in satisfying my mind as well.

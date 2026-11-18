@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-22.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-22.html"
 ---
 
 And now without in the twilight behold Mr. Hoopdriver, his cheeks hot, his eye bright! His brain is in a tumult. The nervous, obsequious Hoopdriver, to whom I introduced you some days since, has undergone a wonderful change. Ever since he lost that 'spoor' in Chichester, he has been tormented by the most horrible visions of the shameful insults that may be happening. The strangeness of new surroundings has been working to strip off the habitual servile from him. Here was moonlight rising over the memory of a red sunset, dark shadows and glowing orange lamps, beauty somewhere mysteriously rapt away from him, tangible wrong in a brown suit and an unpleasant face, flouting him. Mr. Hoopdriver for the time, was in the world of Romance and Knight-errantry, divinely forgetful of his social position or hers; forgetting, too, for the time any of the wretched timidities that had tied him long since behind the counter in his proper place. He was angry and adventurous. It was all about him, this vivid drama he had fallen into, and it was eluding him. He was far too grimly in earnest to pick up that lost thread and make a play of it now. The man was living. He did not pose when he alighted at the cof ee tavern even, nor when he made his hasty meal.

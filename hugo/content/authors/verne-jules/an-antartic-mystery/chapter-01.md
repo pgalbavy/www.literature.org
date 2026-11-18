@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Kerguelen Islands"
 weight: 1
-aliases:
-  - "/authors/verne-jules/an-antartic-mystery/chapter-01.html"
+url: "/authors/verne-jules/an-antartic-mystery/chapter-01.html"
 ---
 
 No doubt the following narrative will be received: with entire incredulity, but I think it well that the public should be put in possession of the facts narrated in "An Antarctic Mystery." The public is free to believe them or not, at its good pleasure.

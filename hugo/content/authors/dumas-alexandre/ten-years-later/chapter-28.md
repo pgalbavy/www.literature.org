@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Smuggling"
 weight: 28
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-28.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-28.html"
 ---
 
 Two days after the events we have just related, and while General Monk was expected every minute in the camp to which he did not return, a little Dutch felucca, manned by eleven men, cast anchor upon the coast of Scheveningen, nearly within cannon-shot of the port. It was night, the darkness was great, the tide rose in the darkness; it was a capital time to land passengers and merchandise.

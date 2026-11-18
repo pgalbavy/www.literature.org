@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Hunted Watches The Hunter"
 weight: 11
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-11.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-11.html"
 ---
 
 It was so quiet and peaceful and altogether lovely there in the Green Forest, where Lightfoot the Deer lay resting behind a pile of brush near the top of a little hill, that it didn't seem possible such a thing as sudden death could be anywhere near. It didn't seem possible that there could be any need for watchfulness. But Lightfoot long ago had learned that often danger is nearest when it seems least to be expected. So, though he would have liked very much to have taken a nap, Lightfoot was too wise to do anything so foolish. He kept his beautiful, great, soft eyes fixed in the direction from which the hunter with the terrible gun would come if he were still following that trail. He kept his great ears gently moving to catch every little sound.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Scrap Of Paper"
 weight: 3
-aliases:
-  - "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-02.html"
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-02.html"
 ---
 
 What did happen? The matter is very obscure. I cannot do better than give Theophrastus Longuet's account of it in the actual words of his memoirs in the sandalwood box.

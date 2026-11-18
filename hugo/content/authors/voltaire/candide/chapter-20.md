@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - What Befell Candide and Martin on Their Passage"
 weight: 20
-aliases:
-  - "/authors/voltaire/candide/chapter-20.html"
+url: "/authors/voltaire/candide/chapter-20.html"
 ---
 
 The old philosopher, whose name was Martin, took shipping with Candide for Bordeaux. Both had seen and suffered a great deal, and had the ship been going from Surinam to Japan round the Cape of Good Hope, they could have found sufficient entertainment for each other during the whole voyage, in discoursing upon moral and natural evil.

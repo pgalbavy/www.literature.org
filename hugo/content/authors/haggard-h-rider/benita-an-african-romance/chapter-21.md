@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Message From The Dead"
 weight: 22
-aliases:
-  - "/authors/haggard-h-rider/benita-an-african-romance/chapter-21.html"
+url: "/authors/haggard-h-rider/benita-an-african-romance/chapter-21.html"
 ---
 
 “Meyer always said that he did not believe in spirits,” remarked Mr. Clifford reflectively.

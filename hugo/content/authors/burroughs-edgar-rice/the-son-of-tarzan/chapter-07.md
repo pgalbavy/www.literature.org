@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-07.html"
+url: "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-07.html"
 ---
 
 Akut, discovering that the boy was not close behind him, turned back to search for him. He had gone but a short distance in return when he was brought to a sudden and startled halt by sight of a strange figure moving through the trees toward him. It was the boy, yet could it be? In his hand was a long spear, down his back hung an oblong shield such as the black warriors who had attacked them had worn, and upon ankle and arm were bands of iron and brass, while a loin cloth was twisted about the youth's middle. A knife was thrust through its folds.

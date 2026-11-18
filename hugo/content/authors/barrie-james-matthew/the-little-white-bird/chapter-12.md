@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Pleasantest Club In London"
 weight: 12
-aliases:
-  - "/authors/barrie-james-matthew/the-little-white-bird/chapter-12.html"
+url: "/authors/barrie-james-matthew/the-little-white-bird/chapter-12.html"
 ---
 
 All perambulators lead to the Kensington Gardens.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Victory"
 weight: 24
-aliases:
-  - "/authors/titus-harold/i-conquered/chapter-24.html"
+url: "/authors/titus-harold/i-conquered/chapter-24.html"
 ---
 
 The road writhed on through the sage brush sixteen miles from Ranger before it branched. Then to the right ran the S Bar S route, while straight on it headed into Jed's ranch, and the left-hand course, shooting away from the others behind a long, rocky point, followed Sand Creek up to the cluster of buildings which marked the domicile of Dick Worth.

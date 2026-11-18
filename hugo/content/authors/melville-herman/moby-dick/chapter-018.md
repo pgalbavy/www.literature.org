@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - His Mark"
 weight: 18
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-018.html"
+url: "/authors/melville-herman/moby-dick/chapter-018.html"
 ---
 
 As we were walking down the end of the wharf towards the ship, Queequeg carrying his harpoon, Captain Peleg in his gruff voice loudly hailed us from his wigwam, saying he had not suspected my friend was a cannibal, and furthermore announcing that he let no cannibals on board that craft, unless they previously produced their papers.

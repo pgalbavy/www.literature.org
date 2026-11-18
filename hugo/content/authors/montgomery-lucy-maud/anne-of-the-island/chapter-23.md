@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Paul Cannot Find The Rock People"
 weight: 23
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-23.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-23.html"
 ---
 
 Life was very pleasant in Avonlea that summer, although Anne, amid all her vacation joys, was haunted by a sense of "something gone which should be there." She would not admit, even in her inmost reflections, that this was caused by Gilbert's absence. But when she had to walk home alone from prayer meetings and A.V.I.S. pow-wows, while Diana and Fred, and many other gay couples, loitered along the dusky, starlit country roads, there was a queer, lonely ache in her heart which she could not explain away. Gilbert did not even write to her, as she thought he might have done. She knew he wrote to Diana occasionally, but she would not inquire about him; and Diana, supposing that Anne heard from him, volunteered no information. Gilbert's mother, who was a gay, frank, light-hearted lady, but not overburdened with tact, had a very embarrassing habit of asking Anne, always in a painfully distinct voice and always in the presence of a crowd, if she had heard from Gilbert lately. Poor Anne could only blush horribly and murmur, "not very lately," which was taken by all, Mrs. Blythe included, to be merely a maidenly evasion.

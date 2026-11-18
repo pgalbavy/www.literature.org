@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - A Secret"
 weight: 23
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-23.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-23.html"
 ---
 
 MISS KITTY CAT was behaving in the strangest manner. She came into the kitchen and hovered about the feet of Farmer Green's wife, mewing and looking up at Mrs. Green as if she had something special to tell her.

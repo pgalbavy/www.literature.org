@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Home Again"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-12.html"
 ---
 
 The horseman coming up the trail had assumed definite form. Checking his animal he sat transfixed until the flying girl was beside him. Then he bent forward and in a choking voice, answered:

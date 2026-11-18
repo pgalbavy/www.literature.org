@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Following The Plough"
 weight: 24
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-24.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-24.html"
 ---
 
 A GOOD many of Grandfather Mole's neighbors sneered at him, and said he was queer. Mr. Blackbird was one of these scoffers. Though he was a lazy scamp, he always managed to look sleek and well fed. And he liked the same fare that Grandfather Mole did.

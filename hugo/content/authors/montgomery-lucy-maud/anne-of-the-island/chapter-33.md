@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - \u0026quot;He Just Kept Coming And Coming\u0026quot;"
 weight: 33
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-33.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-33.html"
 ---
 
 Three days later Anne came home from school and found Janet crying. Tears and Janet seemed so incongruous that Anne was honestly alarmed.

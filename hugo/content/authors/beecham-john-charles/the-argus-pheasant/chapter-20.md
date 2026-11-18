@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Lkath's Conversion"
 weight: 21
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-20.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-20.html"
 ---
 
 The afternoon sun was waning when Peter Gross's sailing proa arrived at Sadong. The resident had been fortunate in finding a Sadonger at Bulungan, and a liberal promise of brass bracelets and a bolt of cloth persuaded the rover to pilot them into Sadong harbor. Paddy Rouse accompanied his chief.

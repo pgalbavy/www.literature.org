@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - In The Silent Rooms"
 weight: 7
-aliases:
-  - "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-07.html"
+url: "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-07.html"
 ---
 
 Presently Graham resumed his examination of his apartments. Curiosity kept him moving in spite of his fatigue. The inner room, he perceived, was high, and its ceiling dome shaped', with an oblong aperture in the centre, opening into a funnel in which a wheel of broad vans seemed to be rotating, apparently driving the air up the shaft. The faint humming note of its easy motion was the only clear sound in that quiet place. As these vans sprang up one after the other, Graham could get transient glimpses of the sky. He was surprised to see a star.

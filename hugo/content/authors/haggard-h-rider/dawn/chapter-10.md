@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-10.html"
+url: "/authors/haggard-h-rider/dawn/chapter-10.html"
 ---
 
 The night of the dinner-party was a nearly sleepless one for Philip, although his father had so considerately regretted his wearied appearance, he could do nothing but walk, walk, walk, like some unquiet ghost, up and down his great, oak-panelled bedroom, till, about dawn, his legs gave way beneath him; and think, think, think, till his mind recoiled, confused and helpless, from the dead wall of its objects. And, out of all this walking and thinking, there emerged, after an hour of stupor, that it would be a misnomer to call sleep, two fixed results. The first of these was that he hated his father as a lost soul must hate its torturing demon, blindly, madly, impotently hated him; and the second, that he could no longer delay taking his wife into his confidence. Then he remembered the letter he had received from her on the previous morning. He got it, and saw that it bore no address, merely stating that she would be in London by midday on the first of May, that was on the morrow. Till then it was clear he must wait, and he was not sorry for the reprieve. His was not a pleasant story for a husband to have to tell.

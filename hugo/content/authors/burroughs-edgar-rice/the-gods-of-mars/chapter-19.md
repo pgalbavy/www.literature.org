@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Black Despair"
 weight: 20
-aliases:
-  - "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-19.html"
+url: "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-19.html"
 ---
 
 "Ah," said Zat Arras, "to what kindly circumstance am I indebted for the pleasure of this unexpected visit from the Prince of Helium?"

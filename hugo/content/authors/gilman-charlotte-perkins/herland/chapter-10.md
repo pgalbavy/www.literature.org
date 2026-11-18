@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Their Religions And Our Marriages"
 weight: 10
-aliases:
-  - "/authors/gilman-charlotte-perkins/herland/chapter-10.html"
+url: "/authors/gilman-charlotte-perkins/herland/chapter-10.html"
 ---
 
 It took me a long time, as a man, a foreigner, and a species of Christian--I was that as much as anything--to get any clear understanding of the religion of Herland.

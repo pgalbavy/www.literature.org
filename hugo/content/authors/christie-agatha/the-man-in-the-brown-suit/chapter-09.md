@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-09.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-09.html"
 ---
 
 _(Anne’s Narrative Resumed)_

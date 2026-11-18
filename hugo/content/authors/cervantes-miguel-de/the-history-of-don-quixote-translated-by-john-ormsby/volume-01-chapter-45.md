@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 45 - In Which The Doubtful Question Of Mambrino’s Helmet And The Pack-Saddle Is Finally Settled, With Other Adventures That Occurred In Truth And Earnest"
 weight: 48
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-45.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-45.html"
 ---
 
 "What do you think now, gentlemen," said the barber, "of what these gentles say, when they want to make out that this is a helmet?"

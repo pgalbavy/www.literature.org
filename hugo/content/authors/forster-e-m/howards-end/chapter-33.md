@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 33
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-33.html"
+url: "/authors/forster-e-m/howards-end/chapter-33.html"
 ---
 
 The day of her visit was exquisite, and the last of unclouded happiness that she was to have for many months. Her anxiety about Helen’s extraordinary absence was still dormant, and as for a possible brush with Miss Avery--that only gave zest to the expedition. She had also eluded Dolly’s invitation to luncheon. Walking straight up from the station, she crossed the village green and entered the long chestnut avenue that connects it with the church. The church itself stood in the village once. But it there attracted so many worshippers that the devil, in a pet, snatched it from its foundations, and poised it on an inconvenient knoll, three quarters of a mile away. If this story is true, the chestnut avenue must have been planted by the angels. No more tempting approach could be imagined for the lukewarm Christian, and if he still finds the walk too long, the devil is defeated all the same, Science having built Holy Trinity, a Chapel of Ease, near the Charles’s and roofed it with tin.

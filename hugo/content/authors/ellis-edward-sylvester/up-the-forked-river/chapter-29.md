@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-29.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-29.html"
 ---
 
 It is quite probable that General Yozarro felt himself unequal to the situation, for he said nothing more. He could plainly be seen standing out in front of his friends, who, he noted, were busy at something. They were hoisting the sail of the catboat and the whole party scrambled aboard, as it was shoved from shore. Their weight sank the craft low, but it buoyed them safely, and the smaller craft began its pursuit of the larger one, somewhat after the manner of a handcar chasing a locomotive.

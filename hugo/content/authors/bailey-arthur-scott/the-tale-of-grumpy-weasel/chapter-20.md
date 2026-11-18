@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - A Free Ride"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-20.html"
 ---
 
 Inside the jug, where he had hidden to escape Henry Hawk, Grumpy Weasel yawned widely and licked his chops. He was having a dull time, waiting until he was sure that Henry Hawk had given up the chase and gone away.

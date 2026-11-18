@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Lodger Next Door"
 weight: 3
-aliases:
-  - "/authors/titus-harold/bruce-of-the-circle-a/chapter-03.html"
+url: "/authors/titus-harold/bruce-of-the-circle-a/chapter-03.html"
 ---
 
 "Now, this is fine, Uncle," Bayard said, as he stood erect and surveyed the lax body he had deposited on the bed.

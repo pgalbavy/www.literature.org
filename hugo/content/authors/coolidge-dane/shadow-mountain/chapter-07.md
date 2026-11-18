@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Between Friends"
 weight: 7
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-07.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-07.html"
 ---
 
 The madness of the Widow and Old Charley and Stiff Neck George was no mystery to Wiley Holman--it was the same form of mania which he encountered everywhere when he went to see men who owned mines. If he offered them a million for a ten-foot hole they would refuse it and demand ten million more, and if he offered them nothing they immediately scented a conspiracy to starve them out and gain possession of their mine. It was the illusion of hidden wealth, of buried treasure, which keeps half the mines in the West closed down and half of the rest in litigation; except that in Keno it seemed to be associated with gun-plays and a marked tendency towards homicide. So, upon his return from a short stay in the hospital he came up the main street silently, then stepped on the throttle and went through town a-smoking. But the Widow was out waiting for him in the middle of the road and, rather than run her down, he threw on both brakes and stopped.

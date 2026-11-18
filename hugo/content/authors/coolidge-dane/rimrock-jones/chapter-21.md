@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Second Annual Meeting"
 weight: 21
-aliases:
-  - "/authors/coolidge-dane/rimrock-jones/chapter-21.html"
+url: "/authors/coolidge-dane/rimrock-jones/chapter-21.html"
 ---
 
 The second annual meeting of the Tecolote stockholders found Whitney H. Stoddard in the chair. Henry Rimrock Jones was too busy on the stock market to permit of his getting away. He was perfecting a plan where by throwing in all his money, and all he could borrow at the bank, he hoped to wrest from Stoddard his control of Navajoa, besides dealing a blow to his pride. But Whitney H. Stoddard, besides running a railroad and a few subsidiary companies as well, was not so busy; he had plenty of time to come to Gunsight and to lay out a carefully planned program. As his supposed friend, the mysterious Mrs. Hardesty, had remarked once upon a time: he was a very thorough man, and very successful.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Rival"
 weight: 23
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-23.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-23.html"
 ---
 
 And in fact the poor young people were in great need of protection.

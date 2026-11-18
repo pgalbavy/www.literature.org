@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Lost In The Catacombs"
 weight: 32
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-31.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-31.html"
 ---
 
 *WHEN M.* Longuet had recovered from the emotion that M. Mifroid’s explanation of the train had caused him, he went through his pockets and handed over to M. Mifroid a revolver and a large knife that he had found in Signor Petito’s pocket.

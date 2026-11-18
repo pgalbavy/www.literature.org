@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Rift"
 weight: 1
-aliases:
-  - "/authors/burroughs-edgar-rice/the-monster-men/chapter-01.html"
+url: "/authors/burroughs-edgar-rice/the-monster-men/chapter-01.html"
 ---
 
 As he dropped the last grisly fragment of the dismembered and mutilated body into the small vat of nitric acid that was to devour every trace of the horrid evidence which might easily send him to the gallows, the man sank weakly into a chair and throwing his body forward upon his great, teak desk buried his face in his arms, breaking into dry, moaning sobs.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Rude Trumpeter"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-03.html"
 ---
 
 Yes! At last Buster Bumblebee was worried. Every time he looked at the trumpeter she seemed in a more peppery temper than ever. Beside her, some of the other workers appeared positively pleasant. But the trumpeter wore a frown. And what was still worse, she wore no hat.

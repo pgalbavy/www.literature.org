@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - A Midnight Adventure"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-18.html"
 ---
 
 *TOM STROLLED* about the lower part of the city, keeping his eyes wide open. He must have walked several miles, but he did not feel tired. There was so much to see, and everything was so different from the quiet villages in which he had lived hitherto, that he was delighted and fascinated.

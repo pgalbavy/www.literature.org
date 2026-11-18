@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Shadow Of Change"
 weight: 1
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-01.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-01.html"
 ---
 
 to all the girls all over the world who have "wanted more" about ANNE

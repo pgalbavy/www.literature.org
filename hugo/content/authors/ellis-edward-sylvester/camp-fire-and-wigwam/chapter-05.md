@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Journeying Southward"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-05.html"
 ---
 
 It never occurred to Jack and Otto that their captors meant to separate until the division actually took place. As if by a general understanding, one half of the party moved to the right, and the rest partly to the left, the course of the former being due west, and of the latter directly south.

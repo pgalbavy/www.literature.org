@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41 - Dora’s Aunts"
 weight: 42
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-41.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-41.html"
 ---
 
 At last, an answer came from the two old ladies. They presented their compliments to Mr. Copperfield, and informed him that they had given his letter their best consideration, ‘with a view to the happiness of both parties’--which I thought rather an alarming expression, not only because of the use they had made of it in relation to the family difference before-mentioned, but because I had (and have all my life) observed that conventional phrases are a sort of fireworks, easily let off, and liable to take a great variety of shapes and colours not at all suggested by their original form. The Misses Spenlow added that they begged to forbear expressing, ‘through the medium of correspondence’, an opinion on the subject of Mr. Copperfield’s communication; but that if Mr. Copperfield would do them the favour to call, upon a certain day (accompanied, if he thought proper, by a confidential friend), they would be happy to hold some conversation on the subject.

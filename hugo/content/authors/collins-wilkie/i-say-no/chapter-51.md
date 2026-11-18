@@ -1,8 +1,7 @@
 ---
 title: "Chapter 51 - The Doctor Sees"
 weight: 51
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-51.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-51.html"
 ---
 
 Alban returned to Netherwoods--to continue his services, until another master could be found to take his place.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Hardy, The Servitor"
 weight: 7
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-05.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-05.html"
 ---
 
 It was not long before Tom had effected his object in part. That is to say, he had caught Hardy several times in the Quadrangle coming out of Lecture Hall, or Chapel, and had fastened himself upon him; often walking with him even up to the door of his rooms. But there matters ended. Hardy was very civil and gentlemanly; he even seemed pleased with the volunteered companionship; but there was undoubtedly a coolness about him which Tom could not make out. But, as he only liked Hardy more, the more he saw of him, he very soon made up his mind to break ground himself, and to make a dash at any rate for something more than a mere speaking acquaintance.

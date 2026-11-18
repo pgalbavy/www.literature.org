@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Unwelcome Callers"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-14.html"
 ---
 
 Although Budd Hankinson and Grizzly Weber were removed from the scene of the events described, the night was not to pass without their becoming actors in some stirring incidents.

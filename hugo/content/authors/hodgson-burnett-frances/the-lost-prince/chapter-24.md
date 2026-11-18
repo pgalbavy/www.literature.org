@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - \"How Shall We Find Him?\""
 weight: 24
-aliases:
-  - "/authors/hodgson-burnett-frances/the-lost-prince/chapter-24.html"
+url: "/authors/hodgson-burnett-frances/the-lost-prince/chapter-24.html"
 ---
 
 In Vienna they came upon a pageant. In celebration of a century-past victory the Emperor drove in state and ceremony to attend at the great cathedral and to do honor to the ancient banners and laurel-wreathed statue of a long-dead soldier-prince. The broad pavements of the huge chief thoroughfare were crowded with a cheering populace watching the martial pomp and splendor as it passed by with marching feet, prancing horses, and glitter of scabbard and chain, which all seemed somehow part of music in triumphant bursts.

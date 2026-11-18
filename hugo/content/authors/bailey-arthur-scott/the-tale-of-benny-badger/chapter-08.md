@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Watcher And A Worker"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-08.html"
 ---
 
 Benny Badger searched for some time before he found a Ground Squirrel's hole that looked as if its owner had finished it only a day or two before.

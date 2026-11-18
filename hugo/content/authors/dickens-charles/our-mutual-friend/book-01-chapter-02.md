@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 2 - The Man From Somewhere"
 weight: 2
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-01-chapter-02.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-01-chapter-02.html"
 ---
 
 Mr and Mrs Veneering were bran-new people in a bran-new house in a bran-new quarter of London. Everything about the Veneerings was spick and span new. All their furniture was new, all their friends were new, all their servants were new, their plate was new, their carriage was new, their harness was new, their horses were new, their pictures were new, they themselves were new, they were as newly married as was lawfully compatible with their having a bran-new baby, and if they had set up a great-grandfather, he would have come home in matting from the Pantechnicon, without a scratch upon him, French polished to the crown of his head.

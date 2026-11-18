@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 4 - I Strike The Jolly Roger"
 weight: 26
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-05-chapter-04.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-05-chapter-04.html"
 ---
 
 I HAD scarce gained a position on the bowsprit when the flying jib flapped and filled upon the other tack, with a report like a gun. The schooner trembled to her keel under the reverse, but next moment, the other sails still drawing, the jib flapped back again and hung idle.

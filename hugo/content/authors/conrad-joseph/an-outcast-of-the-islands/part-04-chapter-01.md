@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 1"
 weight: 19
-aliases:
-  - "/authors/conrad-joseph/an-outcast-of-the-islands/part-04-chapter-01.html"
+url: "/authors/conrad-joseph/an-outcast-of-the-islands/part-04-chapter-01.html"
 ---
 
 The night was very dark. For the first time in many months the East Coast slept unseen by the stars under a veil of motionless cloud that, driven before the first breath of the rainy monsoon, had drifted slowly from the eastward all the afternoon; pursuing the declining sun with its masses of black and grey that seemed to chase the light with wicked intent, and with an ominous and gloomy steadiness, as though conscious of the message of violence and turmoil they carried. At the sun’s disappearance below the western horizon, the immense cloud, in quickened motion, grappled with the glow of retreating light, and rolling down to the clear and jagged outline of the distant mountains, hung arrested above the steaming forests; hanging low, silent and menacing over the unstirring tree-tops; withholding the blessing of rain, nursing the wrath of its thunder; undecided—as if brooding over its own power for good or for evil.

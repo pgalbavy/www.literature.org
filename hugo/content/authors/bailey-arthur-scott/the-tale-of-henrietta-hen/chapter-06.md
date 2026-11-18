@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Henrietta Complains"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-06.html"
 ---
 
 There was another member of Farmer Green's flock, besides Henrietta Hen, that was proud. Nobody needed to look twice at the Rooster to tell that he had an excellent opinion of himself. He had a way of walking about the farmyard that said quite plainly that he believed himself to be a person of great importance. And it was true that things went according to his ideas, among the flock.

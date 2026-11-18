@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - The Hotel Concert"
 weight: 33
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-33.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-33.html"
 ---
 
 Put on your white organdy, by all means, Anne," advised Diana decidedly.

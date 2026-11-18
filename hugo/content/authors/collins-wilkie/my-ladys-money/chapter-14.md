@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/collins-wilkie/my-ladys-money/chapter-14.html"
+url: "/authors/collins-wilkie/my-ladys-money/chapter-14.html"
 ---
 
 THE instant Isabel was out of hearing, Old Sharon slapped Moody on the shoulder to rouse his attention. "I've got her out of the way," he said, "now listen to me. My business with the young angel is done--I may go back to London."

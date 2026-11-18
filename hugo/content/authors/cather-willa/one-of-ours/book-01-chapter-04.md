@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 4"
 weight: 4
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-01-chapter-04.html"
+url: "/authors/cather-willa/one-of-ours/book-01-chapter-04.html"
 ---
 
 The time was approaching for Claude to go back to the struggling denominational college on the outskirts of the state capital, where he had already spent two dreary and unprofitable winters.

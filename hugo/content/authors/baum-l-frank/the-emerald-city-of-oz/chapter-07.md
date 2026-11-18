@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-07.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-07.html"
 ---
 
 "These are your rooms," said Dorothy, opening a door.

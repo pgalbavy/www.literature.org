@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Aunts"
 weight: 5
-aliases:
-  - "/authors/alcott-louisa-may/eight-cousins/chapter-04.html"
+url: "/authors/alcott-louisa-may/eight-cousins/chapter-04.html"
 ---
 
 All dinner-time Rose felt that she was going to be talked about, and afterward she was sure of it, for Aunt Plenty whispered to her as they went into the parlour

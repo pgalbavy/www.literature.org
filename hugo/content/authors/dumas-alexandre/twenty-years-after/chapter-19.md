@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - In Which The Contents Of The Pates Made By The Successor Of Father Marteau Are Described"
 weight: 19
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-19.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-19.html"
 ---
 
 In half an hour La Ramee returned, full of glee, like most men who have eaten, and more especially drank to their heart's content. The pates were excellent, the wine delicious.

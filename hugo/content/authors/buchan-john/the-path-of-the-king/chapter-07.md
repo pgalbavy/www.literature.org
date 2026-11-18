@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Eaucourt By The Waters"
 weight: 8
-aliases:
-  - "/authors/buchan-john/the-path-of-the-king/chapter-07.html"
+url: "/authors/buchan-john/the-path-of-the-king/chapter-07.html"
 ---
 
 The horseman rode down the narrow vennel which led to the St. Denis gate of Paris, holding his nose like a fine lady. Behind him the city reeked in a close August twilight. From every entry came the smell of coarse cooking and unclean humanity, and the heaps of garbage in the gutters sent up a fog of malodorous dust when they were stirred by prowling dogs or hasty passengers.

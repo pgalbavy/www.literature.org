@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/coolidge-dane/the-desert-trail/chapter-26.html"
+url: "/authors/coolidge-dane/the-desert-trail/chapter-26.html"
 ---
 
 Though men may make a jest of it in books, it is a solemn thing to kill a man, even to be near when one is killed. If Gracia had slain Del Rey herself in a passion her hot blood might have buoyed her up, but now her whole nature was convulsed with the horror of it and she wilted like a flower.

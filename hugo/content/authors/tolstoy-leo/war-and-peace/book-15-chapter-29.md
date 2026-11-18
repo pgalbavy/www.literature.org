@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 29"
 weight: 346
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-29.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-29.html"
 ---
 
 It was the eve of St. Nicholas, the fifth of December, 1820. Natasha had been staying at her brother's with her husband and children since early autumn. Pierre had gone to Petersburg on business of his own for three weeks as he said, but had remained there nearly seven weeks and was expected back every minute.

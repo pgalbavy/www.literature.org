@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The End Of The Journey"
 weight: 2
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-02.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-02.html"
 ---
 
 Southward, with low funnel belching forth fire and smoke into the blackness of the night, the huge engine, with its solitary saloon carriage and guard's brake, thundered its way through the night towards the great metropolis. Across the desolate plain, stripped bare of all vegetation, and made hideous forever by the growth of a mighty industry, where the furnace fires reddened the sky, and only the unbroken line of ceaseless lights showed where town dwindled into village and suburbs led back again into town. An ugly, thickly populated neighborhood, whose area of twinkling lights seemed to reach almost to the murky skies; hideous, indeed by day, not altogether devoid now of a certain weird attractiveness by reason of low-hung stars. On, through many tunnels into the black country itself, where the furnace fires burned oftener, but the signs of habitation were fewer. Down the great iron way the huge locomotive rushed onward, leaping and bounding across the maze of metals, tearing past the dazzling signal lights, through crowded stations where its passing was like the roar of some earth-shaking monster. The station-master at Crewe unhooked his telephone receiver and rang up Liverpool.

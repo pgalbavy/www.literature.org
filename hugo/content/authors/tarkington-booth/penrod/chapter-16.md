@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The New Star"
 weight: 16
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-16.html"
+url: "/authors/tarkington-booth/penrod/chapter-16.html"
 ---
 
 Sam, Penrod, Herman, and Verman withdrew in considerable state from non-paying view, and, repairing to the hay-loft, declared the exhibition open to the public. Oral proclamation was made by Sam, and then the loitering multitude was enticed by the seductive strains of a band; the two partners performing upon combs and paper, Herman and Verman upon tin pans with sticks.

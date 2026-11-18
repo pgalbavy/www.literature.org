@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Still In The Dark--The Canoe Again"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/bill-biddon-trapper/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/bill-biddon-trapper/chapter-06.html"
 ---
 
 For a moment we stood breathless, paralyzed and speechless. Then our eyes sought each other with a look of fearful inquiry.

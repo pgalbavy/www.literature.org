@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - War In The Woods"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-11.html"
 ---
 
 Although Major Monkey had ordered him out of the army, Peter Mink declared that he wasn't going till he was ready to leave.

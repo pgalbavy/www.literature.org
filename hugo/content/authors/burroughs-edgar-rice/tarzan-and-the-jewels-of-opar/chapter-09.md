@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-09.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-09.html"
 ---
 
 For two days Werper sought for the party that had accompanied him from the camp to the barrier cliffs; but not until late in the afternoon of the second day did he find clew to its whereabouts, and then in such gruesome form that he was totally unnerved by the sight.

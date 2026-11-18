@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 19
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-18.html"
+url: "/authors/haggard-h-rider/dawn/chapter-18.html"
 ---
 
 "I must apologize for having brought Aleck, my dog, you know, with me," began Arthur Heigham; "but the fact was, that at the very last moment the man I was going to leave him with had to go away, and I had no time to find another place before the train left. I thought that, if you objected to dogs, he could easily be sent somewhere into the village. He is very good-tempered, though appearances are against him."

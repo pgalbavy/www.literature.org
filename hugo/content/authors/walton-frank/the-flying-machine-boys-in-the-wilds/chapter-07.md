@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Pair Of Plans"
 weight: 7
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-07.html"
+url: "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-07.html"
 ---
 
 “That other machine,” Jimmie observed glancing hastily in the direction pointed out by Sam, “looks to me like the Bertha.”

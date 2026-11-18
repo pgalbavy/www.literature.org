@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 2"
 weight: 36
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-06-chapter-02.html"
+url: "/authors/conrad-joseph/the-rescue/part-06-chapter-02.html"
 ---
 
 Along the hot and gloomy forest path, neglected, overgrown and strangled in the fierce life of the jungle, there came a faint rustle of leaves. Jaffir, the servant of princes, the messenger of great men, walked, stooping, with a broad chopper in his hand. He was naked from the waist upward, his shoulders and arms were scratched and bleeding. A multitude of biting insects made a cloud about his head. He had lost his costly and ancient head-kerchief, and when in a slightly wider space he stopped in a listening attitude anybody would have taken him for a fugitive.

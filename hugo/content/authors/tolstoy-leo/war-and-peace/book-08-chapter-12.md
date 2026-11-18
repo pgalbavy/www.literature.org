@@ -1,8 +1,7 @@
 ---
 title: "Book 8 - Chapter 12"
 weight: 157
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-08-chapter-12.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-08-chapter-12.html"
 ---
 
 The day after the opera the Rostovs went nowhere and nobody came to see them. Marya Dmitrievna talked to the count about something which they concealed from Natasha. Natasha guessed they were talking about the old prince and planning something, and this disquieted and offended her. She was expecting Prince Andrew any moment and twice that day sent a manservant to the Vozdvizhenka to ascertain whether he had come. He had not arrived. She suffered more now than during her first days in Moscow. To her impatience and pining for him were now added the unpleasant recollection of her interview with Princess Mary and the old prince, and a fear and anxiety of which she did not understand the cause. She continually fancied that either he would never come or that something would happen to her before he came. She could no longer think of him by herself calmly and continuously as she had done before. As soon as she began to think of him, the recollection of the old prince, of Princess Mary, of the theater, and of Kuragin mingled with her thoughts. The question again presented itself whether she was not guilty, whether she had not already broken faith with Prince Andrew, and again she found herself recalling to the minutest detail every word, every gesture, and every shade in the play of expression on the face of the man who had been able to arouse in her such an incomprehensible and terrifying feeling. To the family Natasha seemed livelier than usual, but she was far less tranquil and happy than before.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - A Relic Of Other Days"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-23.html"
 ---
 
 I *MUST* not omit to say that during the days occupied in the long ride toward the northwest, our friends saw Indians more than once. They were generally straggling parties, who viewed the three horsemen with as much curiosity as our friends studied them. They were either Comanches or Kioways, though the hunting grounds of the latter were far to the eastward. Close to the New Mexican boundary they observed a half dozen warriors, who the Texans said were Apaches. They followed the whites for one afternoon, discharging their guns from a distance, and more than once seemed on the point of attacking them; but a shot from Lattin wounded a dusky raider badly, after which all drew off and were seen no more.

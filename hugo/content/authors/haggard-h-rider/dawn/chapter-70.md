@@ -1,8 +1,7 @@
 ---
 title: "Chapter 70"
 weight: 71
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-70.html"
+url: "/authors/haggard-h-rider/dawn/chapter-70.html"
 ---
 
 Angela went home very thoughtful. The next three days she spent in writing. First, she wrote a clear and methodical account of all the events that had happened since Arthur's first departure, more than a year ago, and attached to it copies of the various documents that had passed between herself and George, including one of the undertaking that her husband had signed before the marriage. This account was in the form of a statement, which she signed, and, taking it to Mr. Fraser, read it to him, and got him to sign it too. It took her two whole days to write, and, when it was done, she labelled it "to be read first." On the third day she wrote the following letter to go with the statement:

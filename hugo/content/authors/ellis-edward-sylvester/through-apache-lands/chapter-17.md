@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Mysterious Camp Fire"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-17.html"
 ---
 
 For a couple of hours young Chadmund had difficulty in traveling. Despite the fact that he was in a sort of valley, with towering peaks and bluffs upon either hand, a great many boulders and obstructions obtruded themselves in his path, and he did some climbing, clambering, and jumping that would have reflected no discredit upon a mountain goat. The forenoon was about half gone, and he was felicitating himself upon the excellent progress he was making, when he was brought up all standing by finding himself upon the bank of a mountain stream, which crossed his route exactly at right angles, issuing from the mountains on the left with a rush and roar and pouring tumultuously forward with irresistible power and velocity.

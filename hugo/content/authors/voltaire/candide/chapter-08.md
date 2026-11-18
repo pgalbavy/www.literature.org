@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Cunegund's Story"
 weight: 8
-aliases:
-  - "/authors/voltaire/candide/chapter-08.html"
+url: "/authors/voltaire/candide/chapter-08.html"
 ---
 
 I was in bed, and fast asleep, when it pleased Heaven to send the Bulgarians to our delightful castle of Thunder-ten-tronckh, where they murdered my father and brother, and cut my mother in pieces. A tall Bulgarian soldier, six feet high, perceiving that I had fainted away at this sight, attempted to ravish me; the operation brought me to my senses. I cried, I struggled, I bit, I scratched, I would have torn the tall Bulgarian's eyes out, not knowing that what had happened at my father's castle was a customary thing. The brutal soldier, enraged at my resistance, gave me a wound in my left leg with his hanger, the mark of which I still carry."

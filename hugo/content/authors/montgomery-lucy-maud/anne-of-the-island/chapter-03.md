@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Greeting And Farewell"
 weight: 3
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-03.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-03.html"
 ---
 
 Charlie Sloane, Gilbert Blythe and Anne Shirley left Avonlea the following Monday morning. Anne had hoped for a fine day. Diana was to drive her to the station and they wanted this, their last drive together for some time, to be a pleasant one. But when Anne went to bed Sunday night the east wind was moaning around Green Gables with an ominous prophecy which was fulfilled in the morning. Anne awoke to find raindrops pattering against her window and shadowing the pond's gray surface with widening rings; hills and sea were hidden in mist, and the whole world seemed dim and dreary. Anne dressed in the cheerless gray dawn, for an early start was necessary to catch the boat train; she struggled against the tears that WOULD well up in her eyes in spite of herself. She was leaving the home that was so dear to her, and something told her that she was leaving it forever, save as a holiday refuge. Things would never be the same again; coming back for vacations would not be living there. And oh, how dear and beloved everything was -- that little white porch room, sacred to the dreams of girlhood, the old Snow Queen at the window, the brook in the hollow, the Dryad's Bubble, the Haunted Woods, and Lover's Lane -- all the thousand and one dear spots where memories of the old years bided. Could she ever be really happy anywhere else?

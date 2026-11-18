@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-08.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-08.html"
 ---
 
 Werper was astounded. Could this creature be the same dignified Englishman who had entertained him so graciously in his luxurious African home? Could this wild beast, with blazing eyes, and bloody countenance, be at the same time a man? Could the horrid, victory cry he had but just heard have been formed in human throat?

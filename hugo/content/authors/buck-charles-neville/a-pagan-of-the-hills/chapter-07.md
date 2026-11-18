@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-07.html"
+url: "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-07.html"
 ---
 
 From down there at the boom as the blackest hours of the night passed, Halloway and Brent sat rubber-coated on the raft watching the inflamed redness that was wiping out all that end of the village. The age-seasoned frame houses there huddled close enough for the hot contagion to sweep them with typhoon speed and they went up in spurts like pitch barrels. The wind was high enough to romp ruthlessly with spark and blaze, until even the effort at fire-fighting had been abandoned. Happily the bluster had settled to a constant gale out of the south-west and the fire-tide rolled with it to the edge and not the core of the town and when it lapped at the reeking woods it hissed out in defeat.

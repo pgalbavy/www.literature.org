@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-14.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-14.html"
 ---
 
 As Victor McCalloway and Boone went to the railroad station on the afternoon of the day that brought the trial to its end, they found the platform crowded with others who, like themselves, were turning away from a finished chapter.

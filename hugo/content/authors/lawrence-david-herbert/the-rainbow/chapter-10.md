@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Widening Circle"
 weight: 10
-aliases:
-  - "/authors/lawrence-david-herbert/the-rainbow/chapter-10.html"
+url: "/authors/lawrence-david-herbert/the-rainbow/chapter-10.html"
 ---
 
 It was very burdensome to Ursula, that she was the eldest of the family. By the time she was eleven, she had to take to school Gudrun and Theresa and Catherine. The boy, William, always called Billy, so that he should not be confused with his father, was a lovable, rather delicate child of three, so he stayed at home as yet. There was another baby girl, called Cassandra.

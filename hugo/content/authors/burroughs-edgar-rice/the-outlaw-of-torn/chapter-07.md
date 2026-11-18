@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-07.html"
+url: "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-07.html"
 ---
 
 It was a beautiful spring day in May, 1262, that Norman of Torn rode alone down the narrow trail that led to the pretty cottage with which he had replaced the hut of his old friend, Father Claude.

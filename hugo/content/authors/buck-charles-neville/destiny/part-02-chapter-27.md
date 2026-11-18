@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 27"
 weight: 27
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-27.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-27.html"
 ---
 
 For a while they were content to remain silent; and afterward the man said, "I've been needing you, Marcia."

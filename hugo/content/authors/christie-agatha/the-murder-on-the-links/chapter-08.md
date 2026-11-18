@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - An Unexpected Meeting"
 weight: 8
-aliases:
-  - "/authors/christie-agatha/the-murder-on-the-links/chapter-08.html"
+url: "/authors/christie-agatha/the-murder-on-the-links/chapter-08.html"
 ---
 
 We were up at the Villa betimes next morning. The man on guard at the gate did not bar our way this time. Instead, he respectfully saluted us, and we passed on to the house. The maid Léonie was just coming down the stairs, and seemed not averse to the prospect of a little conversation.

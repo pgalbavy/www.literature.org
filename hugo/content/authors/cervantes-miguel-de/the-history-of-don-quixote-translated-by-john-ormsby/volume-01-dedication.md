@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Dedication"
 weight: 3
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-dedication.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-dedication.html"
 ---
 
 DEDICATION TO THE DUKE OF BEJAR, MARQUIS OF GIBRALEON, COUNT OF BENALCAZAR AND BANARES, VICECOUNT OF THE PUEBLA DE ALCOCER, MASTER OF THE TOWNS OF CAPILLA, CURIEL AND BURGUILLOS

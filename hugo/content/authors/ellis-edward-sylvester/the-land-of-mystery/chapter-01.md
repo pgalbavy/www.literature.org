@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - In The Matto Grosso"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-01.html"
 ---
 
 The blood-red sun was sinking beyond the distant Geral Mountains, when a canoe, containing four white men and three natives, came to a halt a thousand miles from the mighty Amazon, in the upper waters of the Xingu River, near the great table-land of Matto Grosso.

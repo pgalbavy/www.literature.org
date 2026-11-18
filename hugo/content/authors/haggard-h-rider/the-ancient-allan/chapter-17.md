@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Battle--And After"
 weight: 17
-aliases:
-  - "/authors/haggard-h-rider/the-ancient-allan/chapter-17.html"
+url: "/authors/haggard-h-rider/the-ancient-allan/chapter-17.html"
 ---
 
 Two hours went by and I knew by the stars that the dawn could not be far away. My eyes were fixed upon the Nile and on the lights that hung to the prows of the Great King’s ships. Where were those who had been sent to fire them, I wondered, for of them I saw nothing. Well, their journey would be long as they must wade the river. Perhaps they had not yet arrived, or perhaps they had miscarried. At least the fleet seemed very quiet. None were alarmed there and no sentry challenged.

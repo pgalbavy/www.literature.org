@@ -1,8 +1,7 @@
 ---
 title: "Part 8 - Chapter 5"
 weight: 225
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-08-chapter-05.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-08-chapter-05.html"
 ---
 
 In the slanting evening shadows cast by the baggage piled up on the platform, Vronsky in his long overcoat and slouch hat, with his hands in his pockets, strode up and down, like a wild beast in a cage, turning sharply after twenty paces. Sergey Ivanovitch fancied, as he approached him, that Vronsky saw him but was pretending not to see. This did not affect Sergey Ivanovitch in the slightest. He was above all personal considerations with Vronsky.

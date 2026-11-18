@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Down At Molly's"
 weight: 18
-aliases:
-  - "/authors/alcott-louisa-may/jack-and-jill/chapter-17.html"
+url: "/authors/alcott-louisa-may/jack-and-jill/chapter-17.html"
 ---
 
 "Now, my dears, I've something very curious to tell you, so listen quietly and then I'll give you your dinners," said Molly, addressing the nine cats who came trooping after her as she went into the shed-chamber with a bowl of milk and a plate of scraps in her hands. She had taught them to behave well at meals, so, though their eyes glared and their tails quivered with impatience, they obeyed; and when she put the food on a high shelf and retired to the big basket, the four old cats sat demurely down before her, while the five kits scrambled after her and tumbled into her lap, as if hoping to hasten the desired feast by their innocent gambols.

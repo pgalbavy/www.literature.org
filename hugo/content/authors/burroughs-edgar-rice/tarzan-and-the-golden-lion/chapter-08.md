@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Mystery Of The Past"
 weight: 8
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-08.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-08.html"
 ---
 
 LA had breakfasted the following morning, and had sent Dooth with food for Tarzan, when there came to her a young priestess, who was the sister of Oah. Even before the girl had spoken La knew that she was an emissary from Cadj, and that the treachery of which Dooth had warned her was already under way. The girl was ill at ease and quite evidently frightened, for she was young and held in high revere the queen whom she had good reason to know was all-powerful, and who might even inflict death upon her if she so wished. La, who had already determined upon a plan of action that she knew would be most embarrassing to Cadj and his conspirators, waited in silence for the girl to speak. But it was some time before the girl could muster up her courage or find a proper opening. Instead, she spoke of many things that had no bearing whatsoever upon her subject, and La, the High Priestess, was amused at her discomfiture.

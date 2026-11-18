@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 46 - Of The Terrible Bell And Cat Fright That Don Quixote Got In The Course Of The Enamoured Altisidora’s Wooing"
 weight: 102
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-46.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-46.html"
 ---
 
 We left Don Quixote wrapped up in the reflections which the music of the enamourned maid Altisidora had given rise to. He went to bed with them, and just like fleas they would not let him sleep or get a moment’s rest, and the broken stitches of his stockings helped them. But as Time is fleet and no obstacle can stay his course, he came riding on the hours, and morning very soon arrived. Seeing which Don Quixote quitted the soft down, and, nowise slothful, dressed himself in his chamois suit and put on his travelling boots to hide the disaster to his stockings. He threw over him his scarlet mantle, put on his head a montera of green velvet trimmed with silver edging, flung across his shoulder the baldric with his good trenchant sword, took up a large rosary that he always carried with him, and with great solemnity and precision of gait proceeded to the antechamber where the duke and duchess were already dressed and waiting for him. But as he passed through a gallery, Altisidora and the other damsel, her friend, were lying in wait for him, and the instant Altisidora saw him she pretended to faint, while her friend caught her in her lap, and began hastily unlacing the bosom of her dress.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Demon At The Camp-Fire"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/the-forest-monster/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/the-forest-monster/chapter-04.html"
 ---
 
 Teddy gave up; he believed it was all over with him. Lying flat on his face, he committed himself to heaven, and waited for the beast to devour him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Peter and Paul"
 weight: 12
-aliases:
-  - "/authors/carroll-lewis/sylvie-and-bruno/chapter-11.html"
+url: "/authors/carroll-lewis/sylvie-and-bruno/chapter-11.html"
 ---
 
 "As I was saying," the Other Professor resumed, "if you'll just think over any Poem, that contains the words--such as

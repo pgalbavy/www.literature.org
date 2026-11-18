@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 33
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-33.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-33.html"
 ---
 
 The tropical night wore away and the growing light in the east showed that day was dawning. With the exception of the men who wrought below, Miss Starland was the only one who slept during those monotonous hours, but she was astir early, and with the help of Martella set about preparing the morning meal for the crew and passengers. General Yozarro could be counted upon to carry a well stocked larder, and little solid food is required in so warm a country. Many of the fish in the bifurcated river are of delicious flavor, but rice and fruit form the principal diet. She prepared coffee and the first food that was ready was taken below by Martella for the men who did the hardest work.

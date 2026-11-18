@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Workshop"
 weight: 1
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-01.html"
+url: "/authors/eliot-george/adam-bede/chapter-01.html"
 ---
 
 With a single drop of ink for a mirror, the Egyptian sorcerer undertakes to reveal to any chance comer far-reaching visions of the past. This is what I undertake to do for you, reader. With this drop of ink at the end of my pen, I will show you the roomy workshop of Mr. Jonathan Burge, carpenter and builder, in the village of Hayslope, as it appeared on the eighteenth of June, in the year of our Lord 1799.

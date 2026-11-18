@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Slim Rascal"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-01.html"
 ---
 
 Old Mr. Crow often remarked that if Grumpy Weasel really wanted to be of some use in the world he would spend his time at the sawmill filling knot holes in boards.

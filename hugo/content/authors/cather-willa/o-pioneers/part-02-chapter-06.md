@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 6"
 weight: 11
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-02-chapter-06.html"
+url: "/authors/cather-willa/o-pioneers/part-02-chapter-06.html"
 ---
 
 At dinner that day Alexandra said she thought they must really manage to go over to the Shabatas' that afternoon. “It's not often I let three days go by without seeing Marie. She will think I have forsaken her, now that my old friend has come back.”

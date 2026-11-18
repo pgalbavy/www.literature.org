@@ -1,8 +1,7 @@
 ---
 title: "Chapter 59 - Return"
 weight: 60
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-59.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-59.html"
 ---
 
 I landed in London on a wintry autumn evening. It was dark and raining, and I saw more fog and mud in a minute than I had seen in a year. I walked from the Custom House to the Monument before I found a coach; and although the very house-fronts, looking on the swollen gutters, were like old friends to me, I could not but admit that they were very dingy friends.

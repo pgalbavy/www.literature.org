@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - In The Garden"
 weight: 27
-aliases:
-  - "/authors/hodgson-burnett-frances/the-secret-garden/chapter-27.html"
+url: "/authors/hodgson-burnett-frances/the-secret-garden/chapter-27.html"
 ---
 
 In each century since the beginning of the world wonderful things have been discovered. In the last century more amazing things were found out than in any century before. In this new century hundreds of things still more astounding will be brought to light. At first people refuse to believe that a strange new thing can be done, then they begin to hope it can be done, then they see it can be done—then it is done and all the world wonders why it was not done centuries ago. One of the new things people began to find out in the last century was that thoughts—just mere thoughts—are as powerful as electric batteries—as good for one as sunlight is, or as bad for one as poison. To let a sad thought or a bad one get into your mind is as dangerous as letting a scarlet fever germ get into your body. If you let it stay there after it has got in you may never get over it as long as you live.

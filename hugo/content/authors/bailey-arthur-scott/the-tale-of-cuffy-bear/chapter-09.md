@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A Surprise"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-09.html"
 ---
 
 One day Cuffy Bear and his little sister Silkie had been making sand pies. And now, having grown tired of that, they were squatting down on the ground and had covered their legs with the clean white sand. Perhaps they would have heaped the sand all over themselves, if Silkie had not spied her father as he came climbing up the mountain. When they noticed that he was carrying something they both sprang up and ran to see what Mr. Bear was bringing home.

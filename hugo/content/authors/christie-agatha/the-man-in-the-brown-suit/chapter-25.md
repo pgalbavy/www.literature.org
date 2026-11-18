@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 26
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-25.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-25.html"
 ---
 
 I came to myself slowly and painfully. I was conscious of an aching head and a shooting pain down my left arm when I tried to move, and everything seemed dream-like and unreal. Nightmare visions floated before me. I felt myself falling—falling again. Once Harry Rayburn’s face seemed to come to me out of the mist. Almost I imagined it real. Then it floated away again, mocking me. Once, I remember, some one put a cup to my lips and I drank. A black face grinned into mine—a devil’s face, I thought it, and screamed out. Then dreams again—long troubled dreams in which I vainly sought Harry Rayburn to warn him—warn him—what of? I did not know myself. But there was some danger—some great danger—and I alone could save him. Then darkness again, merciful darkness, and real sleep.

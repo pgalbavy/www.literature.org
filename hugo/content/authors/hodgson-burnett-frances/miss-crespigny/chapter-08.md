@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - I Will Tell You The Truth For Once"
 weight: 8
-aliases:
-  - "/authors/hodgson-burnett-frances/miss-crespigny/chapter-08.html"
+url: "/authors/hodgson-burnett-frances/miss-crespigny/chapter-08.html"
 ---
 
 But how was it, the very next night, when he dropped in to see Mrs. Despard, and surprised the syren, reading a letter of Miss Clarissa’s, and reading it in the strangest of moods, reading it with a pale face, and heavy, wet lashes.

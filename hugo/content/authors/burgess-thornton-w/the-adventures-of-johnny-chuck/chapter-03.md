@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Singers Of The Smiling Pool"
 weight: 3
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-03.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-03.html"
 ---
 
 Mistress Spring was making everybody happy on the Green Meadows and in the Green Forest and around the Smiling Pool. With her gentle fingers she wakened one by one all the little sleepers who had spent the long winter dreaming of warm summer days and not knowing anything at all of rough, blustering Brother North Wind or Jack Frost. As they wakened, many began to sing for joy. But the clearest, loudest singers of all lived in the Smiling Pool.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Recollections Of St. Domingo"
 weight: 33
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-33.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-33.html"
 ---
 
 The night was oppressively hot. Finding it impossible to sleep, Francine lay quietly in her bed, thinking. The subject of her reflections was a person who occupied the humble position of her new servant.

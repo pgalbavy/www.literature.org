@@ -1,8 +1,7 @@
 ---
 title: "Chapter 49 - Past And Future"
 weight: 49
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-49.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-49.html"
 ---
 
 I write from memory, unassisted by notes or diaries; and I have no distinct recollection of the length of our residence abroad. It certainly extended over a period of some months. Long after Eustace was strong enough to take the journey to London the doctors persisted in keeping him in Paris. He had shown symptoms of weakness in one of his lungs, and his medical advisers, seeing that he prospered in the dry atmosphere of France, warned him to be careful of breathing too soon the moist air of his own country.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-15.html"
+url: "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-15.html"
 ---
 
 The earliest manifestations of spring had ripened into a warmer fullness. Everywhere the rhododendron was bloom-loaded, and the large-petaled flower of the "cucumber tree" spread its waxen whiteness. Hill-sides were pink with the wild-rose and underfoot violets and the dandelions made a bright mosaic.

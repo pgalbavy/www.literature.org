@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Freddie's Escape"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-16.html"
 ---
 
 There was really nothing Freddie Firefly could do except struggle to his feet and try to think at the same time. Flashing his light upon Jennie Junebug he saw that she was looking at him fondly. And that made him detest her more than ever.

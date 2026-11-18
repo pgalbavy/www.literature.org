@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Social Parentage"
 weight: 15
-aliases:
-  - "/authors/gilman-charlotte-perkins/concerning-children/chapter-15.html"
+url: "/authors/gilman-charlotte-perkins/concerning-children/chapter-15.html"
 ---
 
 The mother does her duty by her children as best she can. The father does his duty by his children. But we do not do our duty by our children. The relation of the State to the child is little thought of, much less understood. We have discussed it only as an alternative to the parental relation, involving the removal of the child from the home and family, and the substitution of civic for domestic care. Such a proposal naturally excites the hot opposition of parental love and instinct, and cannot stand. It has been tried more or less thoroughly, as in Sparta, but does not appeal to the human heart or head, and is not in the least what is here under discussion. The true relation of the State to the child includes the parental relation, and in no way controverts the love and instinct of those invaluable public functionaries.

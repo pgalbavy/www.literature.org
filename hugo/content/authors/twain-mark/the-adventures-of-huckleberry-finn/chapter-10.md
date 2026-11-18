@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-10.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-10.html"
 ---
 
 AFTER breakfast I wanted to talk about the dead man and guess out how he come to be killed, but Jim didn't want to. He said it would fetch bad luck; and besides, he said, he might come and ha'nt us; he said a man that warn't buried was more likely to go aha'nting around than one that was planted and comfortable. That sounded pretty reasonable, so I didn't say no more; but I couldn't keep from studying over it and wishing I knowed who shot the man, and what they done it for.

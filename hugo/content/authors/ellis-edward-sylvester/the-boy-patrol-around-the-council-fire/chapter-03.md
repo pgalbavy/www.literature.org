@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - A Strange Occurrence"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-03.html"
 ---
 
 It was not far to the edge of the lake, and, as you will remember, there was abundant undergrowth, but the fleeing tramps had left a trail of broken and twisted branches which it would have been easy to follow, even with greater distance and more uncertainty of direction. Mike kept a few paces in the lead, and soon caught the shimmer of water, but when he glanced around saw nothing of his craft. He stood perplexed when Dr. Spellman stepped beside him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/baum-l-frank/the-road-to-oz/chapter-08.html"
+url: "/authors/baum-l-frank/the-road-to-oz/chapter-08.html"
 ---
 
 About the middle of the forenoon they began to go up a long hill. By-and-by this hill suddenly dropped down into a pretty valley, where the travelers saw, to their surprise, a small house standing by the road-side.

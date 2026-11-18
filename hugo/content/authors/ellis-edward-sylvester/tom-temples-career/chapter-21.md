@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Bound For California"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-21.html"
 ---
 
 "*WHAT* do you think of my plan, Mr. Sharp?" asked Tom, after describing in detail his proposed journey.

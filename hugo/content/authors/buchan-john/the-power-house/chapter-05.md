@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - I Take A Partner"
 weight: 6
-aliases:
-  - "/authors/buchan-john/the-power-house/chapter-05.html"
+url: "/authors/buchan-john/the-power-house/chapter-05.html"
 ---
 
 That meeting with Lumley scared me badly, but it also clinched my resolution. The most pacific fellow on earth can be gingered into pugnacity. I had now more than my friendship for Tommy and my sympathy with Pitt-Heron to urge me on. A man had tried to bully me, and that roused all the worst stubbornness of my soul. I was determined to see the game through at any cost.

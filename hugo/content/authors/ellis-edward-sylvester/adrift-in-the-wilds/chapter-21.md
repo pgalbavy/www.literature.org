@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - A Hunt For Food"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-21.html"
 ---
 
 The Indian was awake and making signs to his friends. For some time they were at a loss to understand their meaning, but Howard noticed that he had a leaf in his hand which he offered to them. When the boy took it his face showed that he was pleased, but continued his signs as before.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Mr Wardlaw Has A Premonition"
 weight: 6
-aliases:
-  - "/authors/buchan-john/prester-john/chapter-05.html"
+url: "/authors/buchan-john/prester-john/chapter-05.html"
 ---
 
 A week later the building job was finished, I locked the door of the new store, pocketed the key, and we set out for home. Sikitola was entrusted with the general care of it, and I knew him well enough to be sure that he would keep his people from doing mischief. I left my empty wagons to follow at their leisure and rode on, with the result that I arrived at Blaauwildebeestefontein two days before I was looked for.

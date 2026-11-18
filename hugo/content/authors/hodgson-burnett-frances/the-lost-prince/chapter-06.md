@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Drill And The Secret Party"
 weight: 6
-aliases:
-  - "/authors/hodgson-burnett-frances/the-lost-prince/chapter-06.html"
+url: "/authors/hodgson-burnett-frances/the-lost-prince/chapter-06.html"
 ---
 
 Loristan did not forbid Marco to pursue his acquaintance with The Rat and his followers.

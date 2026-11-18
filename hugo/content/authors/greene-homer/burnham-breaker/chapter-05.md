@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - In Search Of A Mother"
 weight: 5
-aliases:
-  - "/authors/greene-homer/burnham-breaker/chapter-05.html"
+url: "/authors/greene-homer/burnham-breaker/chapter-05.html"
 ---
 
 Three months had gone by since the accident at Burnham Shaft. They were summer months, full of sunshine and green landscapes and singing birds and blossoming flowers and all things beautiful. But in the house from which the body of Robert Burnham had been carried to the grave there were still tears and desolation. Not, indeed, as an outward show; Margaret Burnham was very brave, and hid her grief under a calm exterior, but there were times, in the quiet of her own chamber, when loneliness and sorrow came down upon her as a burden too great for her woman's heart to bear. Still, she had her daughter Mildred, and the child's sweet ways and ceaseless chatter and fond devotion charmed her, now and then, into something almost like forgetfulness. She often sighed, and said: "If only Ralph had lived, that I might have both my children with me now!"

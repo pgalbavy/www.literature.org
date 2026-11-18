@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - The Wife Of Athos"
 weight: 28
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-27.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-27.html"
 ---
 
 "We have now to search for Athos," said D'Artagnan to the vivacious Aramis, when he had informed him of all that had passed since their departure from the capital, and an excellent dinner had made one of them forget his thesis and the other his fatigue.

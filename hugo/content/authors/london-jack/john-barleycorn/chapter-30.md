@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-30.html"
+url: "/authors/london-jack/john-barleycorn/chapter-30.html"
 ---
 
 Part of the process of recovering from my long sickness was to find delight in little things, in things unconnected with books and problems, in play, in games of tag in the swimming pool, in flying kites, in fooling with horses, in working out mechanical puzzles. As a result, I grew tired of the city. On the ranch, in the Valley of the Moon, I found my paradise. I gave up living in cities. All the cities held for me were music, the theatre, and Turkish baths.

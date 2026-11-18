@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 4"
 weight: 9
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-02-chapter-04.html"
+url: "/authors/cather-willa/o-pioneers/part-02-chapter-04.html"
 ---
 
 Carl had changed, Alexandra felt, much less than one might have expected. He had not become a trim, self-satisfied city man. There was still something homely and wayward and definitely personal about him. Even his clothes, his Norfolk coat and his very high collars, were a little unconventional. He seemed to shrink into himself as he used to do; to hold himself away from things, as if he were afraid of being hurt. In short, he was more self-conscious than a man of thirty-five is expected to be. He looked older than his years and not very strong. His black hair, which still hung in a triangle over his pale forehead, was thin at the crown, and there were fine, relentless lines about his eyes. His back, with its high, sharp shoulders, looked like the back of an over-worked German professor off on his holiday. His face was intelligent, sensitive, unhappy.

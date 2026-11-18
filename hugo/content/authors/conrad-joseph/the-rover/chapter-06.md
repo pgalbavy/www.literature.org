@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/conrad-joseph/the-rover/chapter-06.html"
+url: "/authors/conrad-joseph/the-rover/chapter-06.html"
 ---
 
 By that time the *Amelia* had been towed half a mile or so away from Cape Esterel. This change had brought her nearer to the two watchers on the hill-side who would have been plainly visible to the people on her deck, but for the head of the pine which concealed their movements. Lieutenant Réal, bestriding the rugged trunk as high as he could get, had the whole of the English ship’s deck open to the range of his pocket-glass which he used between the branches. He said to Peyrol suddenly:

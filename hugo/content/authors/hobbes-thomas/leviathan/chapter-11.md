@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Of The Difference Of Manners"
 weight: 13
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-11.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-11.html"
 ---
 
 What Is Here Meant By Manners By MANNERS, I mean not here, Decency of behaviour; as how one man should salute another, or how a man should wash his mouth, or pick his teeth before company, and such other points of the Small Morals; But those qualities of man-kind, that concern their living together in Peace, and Unity. To which end we are to consider, that the Felicity of this life, consisteth not in the repose of a mind satisfied. For there is no such Finis Ultimus, (utmost ayme,) nor Summum Bonum, (greatest good,) as is spoken of in the Books of the old Morall Philosophers. Nor can a man any more live, whose Desires are at an end, than he, whose Senses and Imaginations are at a stand. Felicity is a continuall progresse of the desire, from one object to another; the attaining of the former, being still but the way to the later. The cause whereof is, That the object of mans desire, is not to enjoy once onely, and for one instant of time; but to assure for ever, the way of his future desire. And therefore the voluntary actions, and inclinations of all men, tend, not only to the procuring, but also to the assuring of a contented life; and differ onely in the way: which ariseth partly from the diversity of passions, in divers men; and partly from the difference of the knowledge, or opinion each one has of the causes, which produce the effect desired.

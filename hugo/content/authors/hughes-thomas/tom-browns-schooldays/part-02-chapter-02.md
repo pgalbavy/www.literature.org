@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 2 - The New Boy"
 weight: 11
-aliases:
-  - "/authors/hughes-thomas/tom-browns-schooldays/part-02-chapter-02.html"
+url: "/authors/hughes-thomas/tom-browns-schooldays/part-02-chapter-02.html"
 ---
 
 "And Heaven's rich instincts in him grew  

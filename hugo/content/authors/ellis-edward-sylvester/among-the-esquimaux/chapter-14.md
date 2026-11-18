@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Collision"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-14.html"
 ---
 
 Jack scorned everything of the kind, and he ate his piece with as much gusto as if it had passed through the hands of a professional cook. The boys managed to dispose of considerable, so that it may be said the little party made a fair meal from the supply so unexpectedly provided them.

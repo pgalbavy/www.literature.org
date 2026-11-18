@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - \"Society\" And \"Fashion\""
 weight: 9
-aliases:
-  - "/authors/gilman-charlotte-perkins/our-androcentric-culture/chapter-09.html"
+url: "/authors/gilman-charlotte-perkins/our-androcentric-culture/chapter-09.html"
 ---
 
 Among our many naive misbeliefs is the current fallacy that "society" is made by women; and that women are responsible for that peculiar social manifestation called "fashion."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - From Plight To Plight"
 weight: 7
-aliases:
-  - "/authors/burroughs-edgar-rice/pellucidar/chapter-07.html"
+url: "/authors/burroughs-edgar-rice/pellucidar/chapter-07.html"
 ---
 
 I have never been much of a runner; I hate running. But if ever a sprinter broke into smithereens all world's records it was I that day when I fled before those hideous beasts along the narrow spit of rocky cliff between two narrow fiords toward the Sojar Az. Just as I reached the verge of the cliff the foremost of the brutes was upon me. He leaped and closed his massive jaws upon my shoulder.

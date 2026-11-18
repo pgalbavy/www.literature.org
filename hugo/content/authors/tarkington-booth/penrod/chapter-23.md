@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Coloured Troops In Action"
 weight: 23
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-23.html"
+url: "/authors/tarkington-booth/penrod/chapter-23.html"
 ---
 
 How neat and pure is the task of the chronicler who has the tale to tell of a "good rousing fight" between boys or men who fight in the "good old English way," according to a model set for fights in books long before Tom Brown went to Rugby. There are seconds and rounds and rules of fair-play, and always there is great good feeling in the end—though sometimes, to vary the model, "the Butcher" defeats the hero—and the chronicler who stencils this fine old pattern on his page is certain of applause as the stirrer of "red blood." There is no surer recipe.

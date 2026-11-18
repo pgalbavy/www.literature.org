@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-19.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-19.html"
 ---
 
 A LETTER, edged with black, announced the day of my master's return, Isabella was dead; and he wrote to bid me get mourning for his daughter, and arrange a room, and other accommodations, for his youthful nephew. Catherine ran wild with joy at the idea of welcoming her father back; and indulged most sanguine anticipations of the innumerable excellencies of her 'real' cousin. The evening of their expected arrival came. Since early morning she had been busy ordering her own small affairs; and now attired in her new black frock - poor thing! her aunt's death impressed her with no definite sorrow - she obliged me, by constant worrying, to walk with her down through the grounds to meet them.

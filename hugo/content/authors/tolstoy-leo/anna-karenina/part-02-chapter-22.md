@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 22"
 weight: 56
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-22.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-22.html"
 ---
 
 The rain did not last long, and by the time Vronsky arrived, his shaft-horse trotting at full speed nad dragging the trace-horses galloping through the mud, with their reins hanging loose, the sun had peeped out again, the roofs of the summer villas and the old limetrees in the gardens on both sides of the principal streets sparkled with wet brilliance, and from the twigs came a pleasnat drip and from the roofs rushin streams of water. He thought no more of the shower spoiling the race course, but was rejoicing now that--thanks to the rain--he would be sure to fnd her at home and alone, as he knew that Alexey Alexandrovitch, who had lately returned from a foreign watering place, had not moved from Petersburg.

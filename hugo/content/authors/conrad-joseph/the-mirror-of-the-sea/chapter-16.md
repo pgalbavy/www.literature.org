@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-16.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-16.html"
 ---
 
 Often I turn with melancholy eagerness to the space reserved in the newspapers under the general heading of "Shipping Intelligence." I meet there the names of ships I have known. Every year some of these names disappear—the names of old friends. "Tempi passati!"

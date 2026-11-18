@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Magic Art of the Great Humbug "
 weight: 17
-aliases:
-  - "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-16.html"
+url: "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-16.html"
 ---
 
 Next morning the Scarecrow said to his friends:

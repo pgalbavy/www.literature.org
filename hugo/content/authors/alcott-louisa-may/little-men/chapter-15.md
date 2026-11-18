@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - In The Willow"
 weight: 16
-aliases:
-  - "/authors/alcott-louisa-may/little-men/chapter-15.html"
+url: "/authors/alcott-louisa-may/little-men/chapter-15.html"
 ---
 
 The old tree saw and heard a good many little scenes and confidences that summer, because it became the favorite retreat of all the children, and the willow seemed to enjoy it, for a pleasant welcome always met them, and the quiet hours spent in its arms did them all good. It had a great deal of company one Saturday afternoon, and some little bird reported what went on there.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 49 - At The Hall Farm"
 weight: 49
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-49.html"
+url: "/authors/eliot-george/adam-bede/chapter-49.html"
 ---
 
 THE first autumnal afternoon sunshine of 1801 - more than eighteen months after that parting of Adam and Arthur in the Hermitage - was on the yard at the Hall Farm; and the bull-dog was in one of his most excited moments, for it was that hour of the day when the cows were being driven into the yard for their afternoon milking. No wonder the patient beasts ran confusedly into the wrong places, for the alarming din of the bull-dog was mingled with more distant sounds which the timid feminine creatures, with pardonable superstition, imagined also to have some relation to their own movements - with the tremendous crack of the waggoner's whip, the roar of his voice, and the booming thunder of the waggon, as it left the rick-yard empty of its golden load.

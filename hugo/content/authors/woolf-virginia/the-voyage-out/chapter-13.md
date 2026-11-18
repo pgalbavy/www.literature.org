@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/woolf-virginia/the-voyage-out/chapter-13.html"
+url: "/authors/woolf-virginia/the-voyage-out/chapter-13.html"
 ---
 
 There were many rooms in the villa, but one room which possessed a character of its own because the door was always shut, and no sound of music or laughter issued from it. Every one in the house was vaguely conscious that something went on behind that door, and without in the least knowing what it was, were influenced in their own thoughts by the knowledge that if the passed it the door would be shut, and if they made a noise Mr. Ambrose inside would be disturbed. Certain acts therefore possessed merit, and others were bad, so that life became more harmonious and less disconnected than it would have been had Mr. Ambrose given up editing *Pindar*, and taken to a nomad existence, in and out of every room in the house. As it was, every one was conscious that by observing certain rules, such as punctuality and quiet, by cooking well, and performing other small duties, one ode after another was satisfactorily restored to the world, and they shared the continuity of the scholar's life. Unfortunately, as age puts one barrier between human beings, and learning another, and sex a third, Mr. Ambrose in his study was some thousand miles distant from the nearest human being, who in this household was inevitably a woman. He sat hour after hour among white-leaved books, alone like an idol in an empty church, still except for the passage of his hand from one side of the sheet to another, silent save for an occasional choke, which drove him to extend his pipe a moment in the air. As he worked his way further and further into the heart of the poet, his chair became more and more deeply encircled by books, which lay open on the floor, and could only be crossed by a careful process of stepping, so delicate that his visitors generally stopped and addressed him from the outskirts.

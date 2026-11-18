@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 1"
 weight: 15
-aliases:
-  - "/authors/conrad-joseph/an-outcast-of-the-islands/part-03-chapter-01.html"
+url: "/authors/conrad-joseph/an-outcast-of-the-islands/part-03-chapter-01.html"
 ---
 
 "Yes! Cat, dog, anything that can scratch or bite; as long as it is harmful enough and mangy enough. A sick tiger would make you happy—of all things. A half-dead tiger that you could weep over and palm upon some poor devil in your power, to tend and nurse for you. Never mind the consequences—to the poor devil. Let him be mangled or eaten up, of course! You haven’t any pity to spare for the victims of your infernal charity. Not you! Your tender heart bleeds only for what is poisonous and deadly. I curse the day when you set your benevolent eyes on him. I curse it . . ."

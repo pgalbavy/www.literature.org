@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Max And The Asafetida Spoon"
 weight: 6
-aliases:
-  - "/authors/daviess-maria-thompson/the-tinderbox/chapter-06.html"
+url: "/authors/daviess-maria-thompson/the-tinderbox/chapter-06.html"
 ---
 
 I do wish the great man who is discovering how to put people into some sort of metaphysical pickle that will suspend their animations until he gets ready to wake them up, would hurry up with his investigations, so he can catch Sallie before she begins to fade or wilt. Sallie, just as she is, brought to life about five generations from now, would cause a sensation.

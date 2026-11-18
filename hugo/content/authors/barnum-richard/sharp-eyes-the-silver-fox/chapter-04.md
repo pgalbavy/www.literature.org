@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Sharp Eyes Is Hurt"
 weight: 4
-aliases:
-  - "/authors/barnum-richard/sharp-eyes-the-silver-fox/chapter-04.html"
+url: "/authors/barnum-richard/sharp-eyes-the-silver-fox/chapter-04.html"
 ---
 
 Sharp Eyes, the silver fox, could run very fast. So could Red Tail. And they knew they must run fast to get away from the dogs of the hunter. For when men go out to hunt wild animals or to trap them, dogs generally go with the men, and though a man can not run as fast as a fox or a deer, dogs can.

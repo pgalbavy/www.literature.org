@@ -1,8 +1,7 @@
 ---
 title: "Adventure 1 - A Scandal In Bohemia"
 weight: 1
-aliases:
-  - "/authors/doyle-arthur-conan/the-adventures-of-sherlock-holmes/adventure-01.html"
+url: "/authors/doyle-arthur-conan/the-adventures-of-sherlock-holmes/adventure-01.html"
 ---
 
 I

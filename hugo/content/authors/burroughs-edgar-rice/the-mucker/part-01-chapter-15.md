@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 15 - The Rescue"
 weight: 15
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-15.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-15.html"
 ---
 
 AFTER Byrne had dropped the lifeless form of his enemy to the ground he turned and retraced his steps toward the island, a broad grin upon his face as he climbed to the girl's side.

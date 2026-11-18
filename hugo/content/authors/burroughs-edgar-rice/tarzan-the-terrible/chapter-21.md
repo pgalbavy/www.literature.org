@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Maniac"
 weight: 21
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-21.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-21.html"
 ---
 
 The last bar that would make the opening large enough to permit his body to pass had been removed as Tarzan heard the warriors whispering beyond the stone door of his prison. Long since had the rope of hide been braided. To secure one end to the remaining bar that he had left for this purpose was the work of but a moment, and while the warriors whispered without, the brown body of the ape-man slipped through the small aperture and disappeared below the sill.

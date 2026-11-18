@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 14
-aliases:
-  - "/authors/chambers-robert-w/ailsa-paige/chapter-13.html"
+url: "/authors/chambers-robert-w/ailsa-paige/chapter-13.html"
 ---
 
 Berkley's first letter to her was written during that week of lovely weather, the first week in March. The birds never sang more deliriously, the regimental bands never played more gaily; every camp was astir in the warm sunshine with companies, regiments, brigades, or divisions drilling.

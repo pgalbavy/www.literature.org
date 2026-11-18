@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/bronte-charlotte/jane-eyre/chapter-14.html"
+url: "/authors/bronte-charlotte/jane-eyre/chapter-14.html"
 ---
 
 For several subsequent days I saw little of Mr. Rochester. In the mornings he seemed much engaged with business, and, in the afternoon, gentlemen from Millcote or the neighbourhood called, and sometimes stayed to dine with him. When his sprain was well enough to admit of horse exercise, he rode out a good deal; probably to return these visits, as he generally did not come back till late at night.

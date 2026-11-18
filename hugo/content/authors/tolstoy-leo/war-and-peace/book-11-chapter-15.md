@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 15"
 weight: 244
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-15.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-15.html"
 ---
 
 Moscow's last day had come. It was a clear bright autumn day, a Sunday. The church bells everywhere were ringing for service, just as usual on Sundays. Nobody seemed yet to realize what awaited the city.

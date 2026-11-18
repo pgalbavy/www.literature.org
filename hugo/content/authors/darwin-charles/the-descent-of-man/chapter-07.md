@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/darwin-charles/the-descent-of-man/chapter-07.html"
+url: "/authors/darwin-charles/the-descent-of-man/chapter-07.html"
 ---
 
 IT is not my intention here to describe the several so-called races of men; but I am about to enquire what is the value of the differences between them under a classificatory point of view, and how they have originated. In determining whether two or more allied forms ought to be ranked as species or varieties, naturalists are practically guided by the following considerations; namely, the amount of difference between them, and whether such differences relate to few or many points of structure, and whether they are of physiological importance; but more especially whether they are constant. Constancy of character is what is chiefly valued and sought for by naturalists. Whenever it can be shewn, or rendered probable, that the forms in question have remained distinct for a long period, this becomes an argument of much weight in favour of treating them as species. Even a slight degree of sterility between any two forms when first crossed, or in their offspring, is generally considered as a decisive test of their specific distinctness; and their continued persistence without blending within the same area, is usually accepted as sufficient evidence, either of some degree of mutual sterility, or in the case of animals of some mutual repugnance to pairing.

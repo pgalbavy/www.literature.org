@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 7"
 weight: 108
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-04-chapter-07.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-04-chapter-07.html"
 ---
 
 The next day was Sunday. Stepan Arkadyevitch went to the Grand Theater to a rehearsal of the ballet, and gave Masha Tchibisova, a pretty dancing-girl whom he had just taken under his protection, the coral necklace he had promised her the evening before, and behind the scenes in the dim daylight of the theater, managed to kiss her pretty little face, radiant over her present. Besides the gift of the necklace he wanted to arrange with her about meeting after the ballet. After explaining that he could not come at the beginning of the ballet, he promised he would come for the last act and take her to supper. From the theater Stepan Arkadyevitch drove to Ohotny Row, selected himself the fish and asparagus for dinner, and by twelve o'clock was at Dussot's, where he had to see three people, luckily all staying at the same hotel: Levin, who had recently come back from abroad and was staying there; the new head of his department, who had just been promoted to that position, and had come on a tour of revision to Moscow; and his brother-in-law, Karenin, whom he must see, so as to be sure of bringing him to dinner.

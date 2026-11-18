@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-06.html"
+url: "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-06.html"
 ---
 
 The ideas of a man on horseback are different to those which occur to him when he is on foot. The difference is even more noticeable when he is on the railway. The association of his thoughts, the character of his reflections are all affected by the speed of the train. They "roll" in his head, as he rolls in his car. And so it comes about that I am in a particularly lively mood, desirous of observing, greedy of instruction, and that at a speed of thirty-one miles an hour. That is the rate at which we are to travel through Turkestan, and when we reach the Celestial Empire we shall have to be content with eighteen.

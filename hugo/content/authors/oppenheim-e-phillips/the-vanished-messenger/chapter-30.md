@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-30.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-30.html"
 ---
 
 Mr. Fentolin pointed to the little pile of books upon the table, the deep easy-chair, the green-shaded lamps, the decanter of wine. He had insisted upon a visit, however brief, to the library.

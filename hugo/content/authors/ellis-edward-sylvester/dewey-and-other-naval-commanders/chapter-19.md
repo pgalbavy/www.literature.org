@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-19.html"
 ---
 
 Resentment of the Barbary States—The War with Algiers —Captain Decatur's Vigorous Course —His Astonishing Success as a Diplomat.

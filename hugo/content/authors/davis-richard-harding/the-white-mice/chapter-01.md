@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/davis-richard-harding/the-white-mice/chapter-01.html"
+url: "/authors/davis-richard-harding/the-white-mice/chapter-01.html"
 ---
 
 Once upon a time a lion dropped his paw upon a mouse.

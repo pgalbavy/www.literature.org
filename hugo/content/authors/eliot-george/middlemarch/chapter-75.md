@@ -1,8 +1,7 @@
 ---
 title: "Chapter 75"
 weight: 75
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-75.html"
+url: "/authors/eliot-george/middlemarch/chapter-75.html"
 ---
 
 "Le sentiment de la fausseté des plaisirs présents, et l'ignorance de la vanité des plaisirs absents causent l'inconstance." - PASCAL.

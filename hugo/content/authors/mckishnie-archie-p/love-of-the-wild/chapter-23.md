@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - In The Fire Circle"
 weight: 23
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-23.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-23.html"
 ---
 
 White splashes of foam clipped and swayed on the slate-blue waters. A hundred yards out from the rushes a clay-hued slash across the turmoiled face of the bay marked the yellow sand-bar beneath. Between the sand-bar and the rushes lay the wild celery bed. Here, shoots succulent and tender, sweetest of morsels to the man-hunted, fear-haunted fowl of the Wild, gripped the oozy muck below. With the lowering of the late afternoon skies a pair of canvasbacks came skimming on strong, swift wings high over the sunken bog and tangled marshland toward the white beaten water of the open. Weary from the flight of leagues, nervous with the dread of hidden dangers, and hungry from long fasting, their glistening wings beat the buffeting west wind a little more quickly at sight of the long dark streak of their kind far in the center of the bay. There, at last, was rest; food, too, perhaps. So, curving high over the marsh, the noble pair flashed, now gray against the snowy cloud-crest, now white against a crumpled sky of slate, wedging the wind with a new strength, necks outstretched, the drake leading and muttering now and again to his mate a low croak of cheer.

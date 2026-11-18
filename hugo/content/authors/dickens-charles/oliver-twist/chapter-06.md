@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Oliver, Being Goaded By The Taunts Of Noah, Rouses Into Action, And Rather Astonishes Him"
 weight: 6
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-06.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-06.html"
 ---
 
 The month's trial over, Oliver was formally apprenticed. It was a nice sickly season just at this time. In commercial phrase, coffins were looking up; and, in the course of a few weeks, Oliver acquired a great deal of experience. The success of Mr. Sowerberry's ingenious speculation, exceeded even his most sanguine hopes. The oldest inhabitants recollected no period at which measles had been so prevalent, or so fatal to infant existence; and many were the mournful processions which little Oliver headed, in a hat-band reaching down to his knees, to the indescribable admiration and emotion of all the mothers in the town. As Oliver accompanied his master in most of his adult expeditions too, in order that he might acquire that equanimity of demeanour and full command of nerve which was essential to a finished undertaker, he had many opportunities of observing the beautiful resignation and fortitude with which some strong-minded people bear their trials and losses.

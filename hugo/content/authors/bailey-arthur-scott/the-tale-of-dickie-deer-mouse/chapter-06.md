@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Warning"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-06.html"
 ---
 
 If old Mr. Crow had minded his own affairs everything would have gone well with Dickie Deer Mouse, after he moved into his new home. But Mr. Crow could not forget the time when Dickie had awakened him out of a sound sleep and frightened him almost out of his mind.

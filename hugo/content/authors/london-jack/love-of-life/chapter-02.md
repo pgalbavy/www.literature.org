@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Day's Lodging"
 weight: 2
-aliases:
-  - "/authors/london-jack/love-of-life/chapter-02.html"
+url: "/authors/london-jack/love-of-life/chapter-02.html"
 ---
 
 It was the gosh-dangdest stampede I ever seen. A thousand dog- teams hittin' the ice. You couldn't see 'm fer smoke. Two white men an' a Swede froze to death that night, an' there was a dozen busted their lungs. But didn't I see with my own eyes the bottom of the water-hole? It was yellow with gold like a mustard-plaster. That's why I staked the Yukon for a minin' claim. That's what made the stampede. An' then there was nothin' to it. That's what I said - NOTHIN' to it. An' I ain't got over guessin' yet. - NARRATIVE OF SHORTY.

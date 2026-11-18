@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Great Council"
 weight: 16
-aliases:
-  - "/authors/haggard-h-rider/finished/chapter-15.html"
+url: "/authors/haggard-h-rider/finished/chapter-15.html"
 ---
 
 None had seen or heard him come, and though doubtless he had but crept round the rock and taken his place in the darkness, there appeared to be something mysterious about this sudden appearance of Zikali. So the Zulu nobles thought at any rate, for they uttered a low "Ow!" of fear and wonder.

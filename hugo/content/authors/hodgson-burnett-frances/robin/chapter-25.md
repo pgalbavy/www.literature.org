@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 26
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-25.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-25.html"
 ---
 
 Dowie put her to bed as she had done when she was a child, feeling as if the days in the nursery had come back again. She saw gradually die out of the white face the unnatural restraint which she had grieved over. It had suggested the look of a girl who was not only desolate but afraid and she wondered how long she had worn it and what she had been most afraid of.

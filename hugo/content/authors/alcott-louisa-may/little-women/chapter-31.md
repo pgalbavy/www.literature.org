@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Our Foreign Correspondent"
 weight: 31
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-31.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-31.html"
 ---
 
 London

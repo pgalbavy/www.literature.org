@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - \"Scarabs Of A Dead Dynasty\""
 weight: 23
-aliases:
-  - "/authors/buck-charles-neville/the-lighted-match/chapter-23.html"
+url: "/authors/buck-charles-neville/the-lighted-match/chapter-23.html"
 ---
 
 Since the anchor had been weighed at Naples, the days had passed uneventfully for the indolently cruising Isis with no word from Galavia. But at last the operator caught his call and made ready to receive. The message consisted of one word, and the word was "Cairo."

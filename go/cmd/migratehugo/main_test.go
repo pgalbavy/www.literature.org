@@ -51,6 +51,42 @@ func TestHTMLToMarkdownPreservesPoemLineBreaksAndIndentation(t *testing.T) {
 	}
 }
 
+func TestReplaceAliasesWithURLs(t *testing.T) {
+	tests := []struct {
+		name     string
+		content  string
+		isIndex  bool
+		expected string
+	}{
+		{
+			name:     "chapter",
+			content:  "---\ntitle: \"Chapter 1\"\naliases:\n  - \"/authors/test/book/chapter-01.html\"\n---\n\nText\n",
+			expected: "---\ntitle: \"Chapter 1\"\nurl: \"/authors/test/book/chapter-01.html\"\n---\n\nText\n",
+		},
+		{
+			name:     "section index",
+			content:  "---\ntitle: \"Book\"\naliases:\n  - \"/authors/test/book/index.html\"\n---\n",
+			isIndex:  true,
+			expected: "---\ntitle: \"Book\"\n---\n",
+		},
+	}
+
+	for _, test := range tests {
+		t.Run(test.name, func(t *testing.T) {
+			got, changed, err := replaceAliasesWithURLs(test.content, test.isIndex)
+			if err != nil {
+				t.Fatalf("replaceAliasesWithURLs() error = %v", err)
+			}
+			if !changed {
+				t.Fatal("replaceAliasesWithURLs() did not report a change")
+			}
+			if got != test.expected {
+				t.Fatalf("replaceAliasesWithURLs() = %q, want %q", got, test.expected)
+			}
+		})
+	}
+}
+
 func TestMigrateCreatesHugoContentAndCopiesAssets(t *testing.T) {
 	root := t.TempDir()
 	bookDir := filepath.Join(root, "authors", "sample-author", "sample-book")
@@ -77,7 +113,7 @@ func TestMigrateCreatesHugoContentAndCopiesAssets(t *testing.T) {
 	for _, expected := range []string{
 		`title: "Opening 'Act'"`,
 		"weight: 1",
-		`"/authors/sample-author/sample-book/chapter-01.html"`,
+		`url: "/authors/sample-author/sample-book/chapter-01.html"`,
 		"Chapter text.",
 	} {
 		if !strings.Contains(string(content), expected) {
@@ -111,7 +147,7 @@ func TestMigrateCreatesHugoContentAndCopiesAssets(t *testing.T) {
 	}
 	for _, expected := range []string{
 		`title: "Part 1"`,
-		`"/authors/sample-author/sample-book/nested-book/part-01.html"`,
+		`url: "/authors/sample-author/sample-book/nested-book/part-01.html"`,
 		"Nested text.",
 	} {
 		if !strings.Contains(string(nested), expected) {

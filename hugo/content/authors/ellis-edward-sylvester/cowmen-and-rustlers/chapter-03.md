@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Flight Over The Ice"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-03.html"
 ---
 
 The same minute that Monteith Sterry saw the new peril which threatened them all he darted out beside the brother and sister, who had slackened their pace at sight of the wolves in front.

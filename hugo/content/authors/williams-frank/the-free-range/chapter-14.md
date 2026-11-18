@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Sentenced"
 weight: 14
-aliases:
-  - "/authors/williams-frank/the-free-range/chapter-14.html"
+url: "/authors/williams-frank/the-free-range/chapter-14.html"
 ---
 
 Everybody at the Bar T ranch house was laboring under suppressed excitement. It was now the middle of June when the yearly round-up should be under way, yet, owing to the invasion of the sheep and the recent rustler troubles, the cowboys had not been free to undertake this task.

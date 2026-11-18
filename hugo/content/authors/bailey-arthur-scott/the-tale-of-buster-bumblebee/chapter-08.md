@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Buster The Boaster"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-08.html"
 ---
 
 As far back as Buster Bumblebee could remember, he had heard about the Robber Fly. Even the fiercest fighters among the workers spoke his name with great awe. And from everything Buster could learn, his family had good reason to fear that dreadful enemy.

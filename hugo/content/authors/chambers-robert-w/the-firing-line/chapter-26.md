@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Sealed Instructions"
 weight: 26
-aliases:
-  - "/authors/chambers-robert-w/the-firing-line/chapter-26.html"
+url: "/authors/chambers-robert-w/the-firing-line/chapter-26.html"
 ---
 
 After the guests had gone away to dress Portlaw looked inquiringly at Malcourt and said: "That misdeal may have been a slip. I begin to believe I was mistaken after all. What do you think, Louis?"

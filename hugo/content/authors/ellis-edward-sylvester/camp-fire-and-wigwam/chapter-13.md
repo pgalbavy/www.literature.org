@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Indian Village"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-13.html"
 ---
 
 "There's one thing certain," said Jack Carleton to himself, as he gathered the Indian blanket around his shoulders, like one lying down to pleasant dreams, "I can keep awake a good deal more easily than I did last night. I'm pretty tired, but I slept so much toward morning that it will be no trouble to go twenty-four hours without any more."

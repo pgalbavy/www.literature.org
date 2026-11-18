@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/brave-tom/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/brave-tom/chapter-09.html"
 ---
 
 Tom Gordon was not only brave, but he was modest; and he hurried away from the swarming crowd as soon as he was free of the ferry-boat, for he found it anything but pleasant to be looked upon and treated as a lion. Turning off into one of the intersecting streets, the two lads walked along in silence, when Tom said,—

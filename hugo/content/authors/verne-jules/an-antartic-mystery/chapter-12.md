@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Between The Polar Circle And The Ice Wall"
 weight: 12
-aliases:
-  - "/authors/verne-jules/an-antartic-mystery/chapter-12.html"
+url: "/authors/verne-jules/an-antartic-mystery/chapter-12.html"
 ---
 
 Since the Halbrane has passed beyond the imaginary curve drawn at twenty-three and a half degrees from the Pole, it seems as though she had entered a new region, "that region of Desolation and Silence," as Edgar Poe says; that magic person of splendour and glory in which the Eleanora's singer longed to be shut up to all eternity; that immense ocean of light ineffable.

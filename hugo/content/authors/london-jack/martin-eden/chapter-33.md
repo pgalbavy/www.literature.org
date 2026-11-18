@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 33
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-33.html"
+url: "/authors/london-jack/martin-eden/chapter-33.html"
 ---
 
 Martin was steadily losing his battle. Economize as he would, the earnings from hack-work did not balance expenses. Thanksgiving found him with his black suit in pawn and unable to accept the Morses' invitation to dinner. Ruth was not made happy by his reason for not coming, and the corresponding effect on him was one of desperation. He told her that he would come, after all; that he would go over to San Francisco, to the TRANSCONTINENTAL office, collect the five dollars due him, and with it redeem his suit of clothes.

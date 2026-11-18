@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-24.html"
+url: "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-24.html"
 ---
 
 Sometimes lolling upon Tantor's back, sometimes roaming the jungle in solitude, Korak made his way slowly toward the West and South. He made but a few miles a day, for he had a whole lifetime before him and no place in particular to go. Possibly he would have moved more rapidly but for the thought which continually haunted him that each mile he traversed carried him further and further away from Meriem--no longer his Meriem, as of yore, it is true! but still as dear to him as ever.

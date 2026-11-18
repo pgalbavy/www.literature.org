@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-10.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-10.html"
 ---
 
 Siegmund carried the boots and the shoes while they wandered over the sand to the rocks. There was a delightful sense of risk in scrambling with bare feet over the smooth irregular jumble of rocks. Helena laughed suddenly from fear as she felt herself slipping. Siegmund's heart was leaping like a child's with excitement as he stretched forward, himself very insecure, to succour her. Thus they travelled slowly. Often she called to him to come and look in the lovely little rock-pools, dusky with blossoms of red anemones and brown anemones that seemed nothing but shadows, and curtained with green of finest sea-silk. Siegmund loved to poke the white pebbles, and startle the little ghosts of crabs in a shadowy scuttle through the weed. He would tease the expectant anemones, causing them to close suddenly over his finger. But Helena liked to watch without touching things. Meanwhile the sun was slanting behind the cross far away to the west, and the light was swimming in silver and gold upon the lacquered water. At last Siegmund looked doubtfully at two miles more of glistening, gilded boulders. Helena was seated on a stone, dabbling her feet in a warm pool, delicately feeling the wet sea-velvet of the weeds.

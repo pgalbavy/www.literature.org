@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Black Lion"
 weight: 14
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-14.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-14.html"
 ---
 
 Numa, the lion, was hungry. He had come out of the desert country to the east into a land of plenty but though he was young and strong, the wary grass-eaters had managed to elude his mighty talons each time he had thought to make a kill.

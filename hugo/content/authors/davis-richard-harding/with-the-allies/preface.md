@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/davis-richard-harding/with-the-allies/preface.html"
+url: "/authors/davis-richard-harding/with-the-allies/preface.html"
 ---
 
 I have not seen the letter addressed by President Wilson to the American people calling upon them to preserve toward this war the mental attitude of neutrals. But I have seen the war. And I feel sure had President Wilson seen my war he would not have written his letter.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Murder"
 weight: 15
-aliases:
-  - "/authors/titus-harold/i-conquered/chapter-15.html"
+url: "/authors/titus-harold/i-conquered/chapter-15.html"
 ---
 
 The incident at the schoolhouse was not overlooked. Gail Thorpe was not the only one who heard and saw and understood; others connected the mention of drink with VB's sudden departure. The comment went around in whispers at the dance, to augment and amplify those other stories which had arisen back in the Anchor bunk house and which had been told by Rhues of the meeting in Ranger.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - My Holidays. Especially One Happy Afternoon"
 weight: 9
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-08.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-08.html"
 ---
 
 When we arrived before day at the inn where the mail stopped, which was not the inn where my friend the waiter lived, I was shown up to a nice little bedroom, with DOLPHIN painted on the door. Very cold I was, I know, notwithstanding the hot tea they had given me before a large fire downstairs; and very glad I was to turn into the Dolphin’s bed, pull the Dolphin’s blankets round my head, and go to sleep.

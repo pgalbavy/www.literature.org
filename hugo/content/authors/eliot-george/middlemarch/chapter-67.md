@@ -1,8 +1,7 @@
 ---
 title: "Chapter 67"
 weight: 67
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-67.html"
+url: "/authors/eliot-george/middlemarch/chapter-67.html"
 ---
 
 Now is there civil war within the soul: Resolve is thrust from off the sacred throne By clamorous Needs, and Pride the grand-vizier Makes humble compact, plays the supple part Of envoy and deft-tongued apologist For hungry rebels.

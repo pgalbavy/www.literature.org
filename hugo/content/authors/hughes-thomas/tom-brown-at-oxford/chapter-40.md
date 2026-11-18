@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40"
 weight: 42
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-40.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-40.html"
 ---
 
 *HUE AND CRY*

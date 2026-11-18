@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Woman's Remorse"
 weight: 15
-aliases:
-  - "/authors/collins-wilkie/the-new-magdalen/chapter-15.html"
+url: "/authors/collins-wilkie/the-new-magdalen/chapter-15.html"
 ---
 
 HAVING warmed his feet to his own entire satisfaction, Horace turned round from the fireplace, and discovered that he and Lady Janet were alone.

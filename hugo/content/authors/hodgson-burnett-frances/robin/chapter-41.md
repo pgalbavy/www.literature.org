@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41"
 weight: 42
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-41.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-41.html"
 ---
 
 It was long before the dropped eyelids could lift and hold themselves open for more than a few seconds and long before the eyes wore their old clear look. The depths of the collapse after prolonged tortures of strain and fear was such as demanded a fierce and unceasing fight of skill and unswerving determination on the part of both doctors and nurses. There were hours when what seemed to be strange, deathly drops into abysses of space struck terror into most of those who stood by looking on. But Nurse Jones always believed and so did Coombe.

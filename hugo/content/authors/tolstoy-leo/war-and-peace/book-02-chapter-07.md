@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 7"
 weight: 35
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-02-chapter-07.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-02-chapter-07.html"
 ---
 
 Two of the enemy's shots had already flown across the bridge, where there was a crush. Halfway across stood Prince Nesvitski, who had alighted from his horse and whose big body was jammed against the railings. He looked back laughing to the Cossack who stood a few steps behind him holding two horses by their bridles. Each time Prince Nesvitski tried to move on, soldiers and carts pushed him back again and pressed him against the railings, and all he could do was to smile.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Of Reason, And Science."
 weight: 7
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-05.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-05.html"
 ---
 
 Reason What It Is When a man Reasoneth, hee does nothing els but conceive a summe totall, from Addition of parcels; or conceive a Remainder, from Substraction of one summe from another: which (if it be done by Words,) is conceiving of the consequence of the names of all the parts, to the name of the whole; or from the names of the whole and one part, to the name of the other part. And though in some things, (as in numbers,) besides Adding and Substracting, men name other operations, as Multiplying and Dividing; yet they are the same; for Multiplication, is but Addition together of things equall; and Division, but Substracting of one thing, as often as we can. These operations are not incident to Numbers onely, but to all manner of things that can be added together, and taken one out of another. For as Arithmeticians teach to adde and substract in Numbers; so the Geometricians teach the same in Lines, Figures (solid and superficiall,) Angles, Proportions, Times, degrees of Swiftnesse, Force, Power, and the like; The Logicians teach the same in Consequences Of Words; adding together Two Names, to make an Affirmation; and Two Affirmations, to make a syllogisme; and Many syllogismes to make a Demonstration; and from the Summe, or Conclusion of a syllogisme, they substract one Proposition, to finde the other. Writers of Politiques, adde together Pactions, to find mens Duties; and Lawyers, Lawes and Facts, to find what is Right and Wrong in the actions of private men. In summe, in what matter soever there is place for Addition and Substraction, there also is place for Reason; and where these have no place, there Reason has nothing at all to do.

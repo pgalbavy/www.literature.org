@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Mutual Confidences"
 weight: 27
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-27.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-27.html"
 ---
 
 March came in that winter like the meekest and mildest of lambs, bringing days that were crisp and golden and tingling, each followed by a frosty pink twilight which gradually lost itself in an elfland of moonshine.

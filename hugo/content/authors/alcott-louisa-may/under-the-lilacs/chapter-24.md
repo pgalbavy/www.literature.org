@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Great Gate Is Opened"
 weight: 24
-aliases:
-  - "/authors/alcott-louisa-may/under-the-lilacs/chapter-24.html"
+url: "/authors/alcott-louisa-may/under-the-lilacs/chapter-24.html"
 ---
 
 The Browns were up and out so early next morning that Bab and Betty were sure they had run away in the night. But on looking for them, they were discovered in the coach-house criticising Lita, both with their hands in their pockets, both chewing straws, and looking as much alike as a big elephant and a small one.

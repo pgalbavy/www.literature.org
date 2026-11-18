@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 7"
 weight: 7
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-01-chapter-07.html"
+url: "/authors/cather-willa/song-of-the-lark/part-01-chapter-07.html"
 ---
 
 Thea's twelfth birthday had passed a few weeks before her memorable call upon Mrs. Tellamantez. There was a worthy man in Moonstone who was already planning to marry Thea as soon as she should be old enough. His name was Ray Kennedy, his age was thirty, and he was conductor on a freight train, his run being from Moonstone to Denver. Ray was a big fellow, with a square, open American face, a rock chin, and features that one would never happen to remember. He was an aggressive idealist, a freethinker, and, like most railroad men, deeply sentimental. Thea liked him for reasons that had to do with the adventurous life he had led in Mexico and the Southwest, rather than for anything very personal. She liked him, too, because he was the only one of her friends who ever took her to the sand hills. The sand hills were a constant tantalization; she loved them better than anything near Moonstone, and yet she could so seldom get to them. The first dunes were accessible enough; they were only a few miles beyond the Kohlers', and she could run out there any day when she could do her practicing in the morning and get Thor off her hands for an afternoon. But the real hills--the Turquoise Hills, the Mexicans called them--were ten good miles away, and one reached them by a heavy, sandy road. Dr. Archie sometimes took Thea on his long drives, but as nobody lived in the sand hills, he never had calls to make in that direction. Ray Kennedy was her only hope of getting there.

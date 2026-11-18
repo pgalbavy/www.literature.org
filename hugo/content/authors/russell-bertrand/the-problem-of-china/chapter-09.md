@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Washington Conference"
 weight: 10
-aliases:
-  - "/authors/russell-bertrand/the-problem-of-china/chapter-09.html"
+url: "/authors/russell-bertrand/the-problem-of-china/chapter-09.html"
 ---
 
 The Washington Conference, and the simultaneous conference, at Washington, between the Chinese and Japanese, have somewhat modified the Far Eastern situation. The general aspects of the new situation will be dealt with in the next chapter; for the present it is the actual decisions arrived at in Washington that concern us, as well as their effect upon the Japanese position in Siberia.

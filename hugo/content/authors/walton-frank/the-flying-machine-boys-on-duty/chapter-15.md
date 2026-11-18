@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Crippled Aeroplane"
 weight: 15
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-15.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-15.html"
 ---
 
 Left together in the camp, astonished and angry at the sudden departure of Jimmie, Ben and Carl saw the Louise disappearing with varying emotions.

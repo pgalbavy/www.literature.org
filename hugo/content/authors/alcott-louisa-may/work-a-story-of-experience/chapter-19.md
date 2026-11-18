@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Little Heart's-Ease"
 weight: 19
-aliases:
-  - "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-19.html"
+url: "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-19.html"
 ---
 
 WHEN it was all over, the long journey home, the quiet funeral, the first sad excitement, then came the bitter moment when life says to the bereaved: "Take up your burden and go on alone." Christie's had been the still, tearless grief hardest to bear, most impossible to comfort; and, while Mrs. Sterling bore her loss with the sweet patience of a pious heart, and Letty mourned her brother with the tender sorrow that finds relief in natural ways, the widow sat among them, as tranquil, colorless, and mute, as if her soul had followed David, leaving the shadow of her former self behind.

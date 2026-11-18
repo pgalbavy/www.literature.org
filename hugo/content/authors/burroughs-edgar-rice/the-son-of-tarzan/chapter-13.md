@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-13.html"
+url: "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-13.html"
 ---
 
 Meriem, again bound and under heavy guard in Kovudoo's own hut, saw the night pass and the new day come without bringing the momentarily looked for return of Korak. She had no doubt but that he would come back and less still that he would easily free her from her captivity. To her Korak was little short of omnipotent. He embodied for her all that was finest and strongest and best in her savage world. She gloried in his prowess and worshipped him for the tender thoughtfulness that always had marked his treatment of her. No other within the ken of her memory had ever accorded her the love and gentleness that was his daily offering to her. Most of the gentler attributes of his early childhood had long since been forgotten in the fierce battle for existence which the customs of the mysterious jungle had forced upon him. He was more often savage and bloodthirsty than tender and kindly. His other friends of the wild looked for no gentle tokens of his affection. That he would hunt with them and fight for them was sufficient. If he growled and showed his fighting fangs when they trespassed upon his inalienable rights to the fruits of his kills they felt no anger toward him--only greater respect for the efficient and the fit--for him who could not only kill but protect the flesh of his kill.

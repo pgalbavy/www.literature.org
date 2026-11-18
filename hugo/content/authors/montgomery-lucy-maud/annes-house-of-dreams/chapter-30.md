@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - Leslie Decides"
 weight: 30
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-30.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-30.html"
 ---
 
 A sudden outbreak of a virulent type of influenza at the Glen and down at the fishing village kept Gilbert so busy for the next fortnight that he had no time to pay the promised visit to Captain Jim. Anne hoped against hope that he had abandoned the idea about Dick Moore, and, resolving to let sleeping dogs lie, she said no more about the subject. But she thought of it incessantly.

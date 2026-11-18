@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - In Which The Sphinx Breaks Silence"
 weight: 18
-aliases:
-  - "/authors/buck-charles-neville/the-lighted-match/chapter-18.html"
+url: "/authors/buck-charles-neville/the-lighted-match/chapter-18.html"
 ---
 
 Left alone, Benton spent ten minutes in the room, then passed through the window to the balcony and went down into the miniature garden. His face was hot and his pulses heightened. The garden was gratefully cool and quiet.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Comrades In Sorrow"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-15.html"
 ---
 
 Wade Ruggles and Parson Brush sprang to their feet and confronted the white-faced Captain Dawson, who stared at them and breathed fast. For a full minute they gazed into one another's faces, dazed, motionless and speechless. The partners stood, each with pipe in hand, the faint smoke curling upward from the bowls, their slouched hats still on their frowsy heads, the revolvers at their cartridge belts spanning their waists, their trousers tucked in the tops of their boots, and with their heavy flannel shirts serving for coats and vests.

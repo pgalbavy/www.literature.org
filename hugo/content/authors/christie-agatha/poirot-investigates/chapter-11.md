@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Case Of The Missing Will"
 weight: 11
-aliases:
-  - "/authors/christie-agatha/poirot-investigates/chapter-11.html"
+url: "/authors/christie-agatha/poirot-investigates/chapter-11.html"
 ---
 
 The problem presented to us by Miss Violet Marsh made rather a pleasant change from our usual routine work. Poirot had received a brisk and business-like note from the lady asking for an appointment, and he had replied asking her to call upon him at eleven o’clock the following day.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Long Clearing"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-17.html"
 ---
 
 Deerfoot, the young Shawanoe, despite his extraordinary exertions and his own wonderful woodcraft, had fallen into the hands of the hostile Wyandots, and with a grim satire upon the skill which had given the youth his great fame, Waughtauk, chief of his enemies, had decreed that his life should be staked upon the result of a race with the fleetest runners of the tribe.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 51 - The Flight"
 weight: 51
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-51.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-51.html"
 ---
 
 When D'Artagnan returned to the Palais Royal at five o'clock, it presented, in spite of the excitement which reigned in the town, a spectacle of the greatest rejoicing. Nor was that surprising. The queen had restored Broussel and Blancmesnil to the people and had therefore nothing to fear, since the people had nothing more just then to ask for. The return, also, of the conqueror of Lens was the pretext for giving a grand banquet. The princes and princesses were invited and their carriages had crowded the court since noon; then after dinner the queen was to have a play in her apartment. Anne of Austria had never appeared more brilliant than on that day - radiant with grace and wit. Mazarin disappeared as they rose from table. He found D'Artagnan waiting for him already at his post in the ante-room.

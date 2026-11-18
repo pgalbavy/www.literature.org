@@ -1,8 +1,7 @@
 ---
 title: "Introduction"
 weight: 1
-aliases:
-  - "/authors/collins-wilkie/a-rogues-life/introduction.html"
+url: "/authors/collins-wilkie/a-rogues-life/introduction.html"
 ---
 
 The following pages were written more than twenty years since, and were then published periodically in Household Words.

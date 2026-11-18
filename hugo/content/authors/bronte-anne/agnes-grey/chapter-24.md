@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Sands"
 weight: 24
-aliases:
-  - "/authors/bronte-anne/agnes-grey/chapter-24.html"
+url: "/authors/bronte-anne/agnes-grey/chapter-24.html"
 ---
 
 OUR school was not situated in the heart of the town: on entering A- from the north-west there is a row of respectable-looking houses, on each side of the broad, white road, with narrow slips of garden-ground before them, Venetian blinds to the windows, and a flight of steps leading to each trim, brass-handled door. In one of the largest of these habitations dwelt my mother and I, with such young ladies as our friends and the public chose to commit to our charge. Consequently, we were a considerable distance from the sea, and divided from it by a labyrinth of streets and houses. But the sea was my delight; and I would often gladly pierce the town to obtain the pleasure of a walk beside it, whether with the pupils, or alone with my mother during the vacations. It was delightful to me at all times and seasons, but especially in the wild commotion of a rough sea-breeze, and in the brilliant freshness of a summer morning.

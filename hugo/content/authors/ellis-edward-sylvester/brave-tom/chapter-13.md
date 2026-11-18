@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/brave-tom/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/brave-tom/chapter-13.html"
 ---
 
 The speed with which the train was running at the time Tom Gordon was pushed off was such that he was thrown forward with great violence upon the hard earth, where he lay senseless, with his leg broken and a number of severe bruises about his body.

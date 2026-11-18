@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-04.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-04.html"
 ---
 
 Esteban Miranda, clinging tightly to the wrist of little Uhha, crouched in the darkness of another forest twenty miles away and trembled as the thunderous notes of another lion reverberated through the jungle.

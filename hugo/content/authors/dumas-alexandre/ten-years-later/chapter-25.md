@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The March"
 weight: 25
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-25.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-25.html"
 ---
 
 Athos and Monk passed over, in going from the camp towards the Tweed, that part of the ground which Digby had traversed with the fishermen coming from the Tweed to the camp. The aspect of this place, the aspect of the changes man had wrought in it, was of a nature to produce a great effect upon a lively and delicate imagination like that of Athos. Athos looked at nothing but these desolate spots; Monk looked at nothing but Athos - at Athos, who, with his eyes sometimes directed towards heaven, and sometimes towards the earth, sought, thought, and sighed.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Adolphe Lecamus Is Flabbergasted But Frank"
 weight: 5
-aliases:
-  - "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-04.html"
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-04.html"
 ---
 
 Theophrastus stood on the table and gazed sheepishly round the empty tent. His fine ardour was extinguished.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/burroughs-edgar-rice/the-people-that-time-forgot/chapter-03.html"
+url: "/authors/burroughs-edgar-rice/the-people-that-time-forgot/chapter-03.html"
 ---
 
 When I awoke, it was daylight, and I found Ajor squatting before a fine bed of coals roasting a large piece of antelope-meat. Believe me, the sight of the new day and the delicious odor of the cooking meat filled me with renewed happiness and hope that had been all but expunged by the experience of the previous night; and perhaps the slender figure of the bright-faced girl proved also a potent restorative. She looked up and smiled at me, showing those perfect teeth, and dimpling with evident happiness--the most adorable picture that I had ever seen. I recall that it was then I first regretted that she was only a little untutored savage and so far beneath me in the scale of evolution.

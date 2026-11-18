@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Open Road"
 weight: 2
-aliases:
-  - "/authors/grahame-kenneth/the-wind-in-the-willows/chapter-02.html"
+url: "/authors/grahame-kenneth/the-wind-in-the-willows/chapter-02.html"
 ---
 
 "Ratty," said the Mole suddenly, one bright summer morning, "if you please, I want to ask you a favour."

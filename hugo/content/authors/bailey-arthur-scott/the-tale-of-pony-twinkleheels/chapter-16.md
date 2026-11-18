@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Blacksmith's Shop"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-16.html"
 ---
 
 Twinkleheels trotted proudly behind the buggy in which the old horse Ebenezer was pulling Johnnie Green and his father towards the village. Once Twinkleheels would have chafed at having to suit his pace to Ebenezer's. He would have thought Ebenezer's gait too slow. But ever since Ebenezer won a race with him in the pasture Twinkleheels had thought more highly of his elderly friend. He knew that if Ebenezer chose to take his time it wasn't because he couldn't have hurried had he cared to.

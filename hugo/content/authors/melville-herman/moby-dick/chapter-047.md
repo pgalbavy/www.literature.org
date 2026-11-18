@@ -1,8 +1,7 @@
 ---
 title: "Chapter 47 - The Mat-Maker"
 weight: 47
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-047.html"
+url: "/authors/melville-herman/moby-dick/chapter-047.html"
 ---
 
 It was a cloudy, sultry afternoon; the seamen were lazily lounging about the decks, or vacantly gazing over into the lead-colored waters. Queequeg and I were mildly employed weaving what is called a sword-mat, for an additional lashing to our boat. So still and subdued and yet somehow preluding was all the scene, and such an incantation of revelry lurked in the air, that each silent sailor seemed resolved into his own invisible self.

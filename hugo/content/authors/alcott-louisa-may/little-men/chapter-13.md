@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Goldilocks"
 weight: 14
-aliases:
-  - "/authors/alcott-louisa-may/little-men/chapter-13.html"
+url: "/authors/alcott-louisa-may/little-men/chapter-13.html"
 ---
 
 After the last excitement peace descended upon Plumfield and reigned unbroken for several weeks, for the elder boys felt that the loss of Nan and Rob lay at their door, and all became so paternal in their care that they were rather wearying; while the little ones listened to Nan's recital of her perils so many times, that they regarded being lost as the greatest ill humanity was heir to, and hardly dared to put their little noses outside the great gate lest night should suddenly descend upon them, and ghostly black cows come looming through the dusk.

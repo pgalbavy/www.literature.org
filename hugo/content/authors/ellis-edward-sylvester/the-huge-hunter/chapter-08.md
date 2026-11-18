@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Indians"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-08.html"
 ---
 
 *THE STEAM* man was headed straight toward the emigrant train, and advanced at a speed which rapidly came up with it.

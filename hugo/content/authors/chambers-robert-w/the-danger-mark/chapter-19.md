@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Questions And Answers"
 weight: 19
-aliases:
-  - "/authors/chambers-robert-w/the-danger-mark/chapter-19.html"
+url: "/authors/chambers-robert-w/the-danger-mark/chapter-19.html"
 ---
 
 By the first of January it became plain that there was not very much left of Colonel Mallett's fortune, less of his business reputation, and even less of his wife's health. But she was now able to travel, and toward the middle of the month she sailed with Naïda and one maid for Naples, leaving her son to gather up and straighten out what little of value still remained in the wreckage of the house of Mallett. What he cared most about was to straighten out his father's personal reputation; and this was possible only as far as it concerned Colonel Mallett's individual honesty. But the rehabilitation was accomplished at the expense of his father's reputation for business intelligence; and New York never really excuses such things.

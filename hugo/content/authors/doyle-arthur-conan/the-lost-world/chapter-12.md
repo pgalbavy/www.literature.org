@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - It Was Dreadful In The Forest"
 weight: 12
-aliases:
-  - "/authors/doyle-arthur-conan/the-lost-world/chapter-12.html"
+url: "/authors/doyle-arthur-conan/the-lost-world/chapter-12.html"
 ---
 
 I have said--or perhaps I have not said, for my memory plays me sad tricks these days--that I glowed with pride when three such men as my comrades thanked me for having saved, or at least greatly helped, the situation. As the youngster of the party, not merely in years, but in experience, character, knowledge, and all that goes to make a man, I had been overshadowed from the first. And now I was coming into my own. I warmed at the thought. Alas! for the pride which goes before a fall! That little glow of self-satisfaction, that added measure of self-confidence, were to lead me on that very night to the most dreadful experience of my life, ending with a shock which turns my heart sick when I think of it.

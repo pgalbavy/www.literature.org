@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - In The City Ways"
 weight: 20
-aliases:
-  - "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-20.html"
+url: "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-20.html"
 ---
 
 And that night, unknown and unsuspected, Graham, dressed in the costume of an inferior wind-vane official keeping holiday, and accompanied by Asano in Labour Company canvas, surveyed the city through which he had wandered when it was veiled in darkness. But now he saw it lit and waking, a whirlpool of life. In spite of the surging and swaying of the forces of revolution, in spite of the unusual discontent, the mutterings of the greater struggle of which the first revolt was but the prelude, the myriad streams of commerce still flowed wide and strong. He knew now something of the dimensions and quality of the new age, but he was not prepared for the infinite surprise of the detailed view, for the torrent of colour and vivid impressions that poured past him.

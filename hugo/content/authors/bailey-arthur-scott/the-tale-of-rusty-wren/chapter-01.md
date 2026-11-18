@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Pleasant Home"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-01.html"
 ---
 
 Now, Rusty Wren had found--and shown to his wife--a hollow apple tree and a hole in a fence-rail, either of which he thought would make a pleasant place in which to live.

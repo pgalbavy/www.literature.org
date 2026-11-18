@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - \u0026quot;King of the Apes\u0026quot;"
 weight: 11
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-11.html"
+url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-11.html"
 ---
 
 It was not yet dark when he reached the tribe, though he stopped to exhume and devour the remains of the wild boar he had cached the preceding day, and again to take Kulonga's bow and arrows from the tree top in which he had hidden them.

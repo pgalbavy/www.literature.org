@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Big Drunk"
 weight: 19
-aliases:
-  - "/authors/coolidge-dane/hidden-water/chapter-19.html"
+url: "/authors/coolidge-dane/hidden-water/chapter-19.html"
 ---
 
 The sun rose clear for the hundredth time over the shoulder of the Four Peaks; it mounted higher, glowing with a great light, and the smooth round tops of the bowlders shone like half-buried skulls along the creek-bed; it swung gloriously up to its zenith and the earth palpitated with a panting heat. Summer had come, and the long days when the lizards crawl deep into their crevices and the cattle follow the scanty shade of the box cañons or gather in standing-places where the wind draws over the ridges and mitigates the flies. In the pasture at Hidden Water the horses stood head and tail together, side by side, each thrashing the flies from the other's face and dozing until hunger or thirst aroused them or perversity took them away. Against the cool face of the cliff the buzzards moped and stretched their dirty wings in squalid discomfort; the trim little sparrow-hawks gave over their hunting; and all the world lay tense and still. Only at the ranch house where Hardy kept a perfunctory watch was there any sign of motion or life.

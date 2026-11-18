@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 27"
 weight: 27
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-01-chapter-27.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-01-chapter-27.html"
 ---
 
 At the appointed hour the prince, powdered and shaven, entered the dining room where his daughter-in-law, Princess Mary, and Mademoiselle Bourienne were already awaiting him together with his architect, who by a strange caprice of his employer's was admitted to table though the position of that insignificant individual was such as could certainly not have caused him to expect that honor. The prince, who generally kept very strictly to social distinctions and rarely admitted even important government officials to his table, had unexpectedly selected Michael Ivanovich (who always went into a corner to blow his nose on his checked handkerchief) to illustrate the theory that all men are equals, and had more than once impressed on his daughter that Michael Ivanovich was "not a whit worse than you or I." At dinner the prince usually spoke to the taciturn Michael Ivanovich more often than to anyone else.

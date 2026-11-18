@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Instinct And Habit"
 weight: 3
-aliases:
-  - "/authors/russell-bertrand/the-analysis-of-mind/chapter-02.html"
+url: "/authors/russell-bertrand/the-analysis-of-mind/chapter-02.html"
 ---
 
 In attempting to understand the elements out of which mental phenomena are compounded, it is of the greatest importance to remember that from the protozoa to man there is nowhere a very wide gap either in structure or in behaviour. From this fact it is a highly probable inference that there is also nowhere a very wide mental gap. It is, of course, *POSSIBLE* that there may be, at certain stages in evolution, elements which are entirely new from the standpoint of analysis, though in their nascent form they have little influence on behaviour and no very marked correlatives in structure. But the hypothesis of continuity in mental development is clearly preferable if no psychological facts make it impossible. We shall find, if I am not mistaken, that there are no facts which refute the hypothesis of mental continuity, and that, on the other hand, this hypothesis affords a useful test of suggested theories as to the nature of mind.

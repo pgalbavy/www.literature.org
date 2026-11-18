@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Red Leggins"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-16.html"
 ---
 
 It was winter. And you would naturally think that Jimmy Rabbit would be happy, there was so much snow to play in. But he wasn't. I am sorry to say that he was sulking in the house, while all his friends were out of doors, having a good time in the snow.

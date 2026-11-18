@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Spirited Honeymoon"
 weight: 5
-aliases:
-  - "/authors/wells-herbert-george/the-research-magnificent/chapter-04.html"
+url: "/authors/wells-herbert-george/the-research-magnificent/chapter-04.html"
 ---
 
 1

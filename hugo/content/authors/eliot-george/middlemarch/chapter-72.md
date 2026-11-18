@@ -1,8 +1,7 @@
 ---
 title: "Chapter 72"
 weight: 72
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-72.html"
+url: "/authors/eliot-george/middlemarch/chapter-72.html"
 ---
 
 Full souls are double mirrors, making still An endless vista of fair things before, Repeating things behind.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - En Famille"
 weight: 30
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-29.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-29.html"
 ---
 
 The Princess Mistchenka came leisurely and gracefully downstairs a little before eight that evening, much pleased with her hair, complexion, and gown.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Closing Of A Door"
 weight: 13
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-13.html"
+url: "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-13.html"
 ---
 
 “I wonder if they expect to scare us out of the country by such demonstrations as that?” scoffed Carl.

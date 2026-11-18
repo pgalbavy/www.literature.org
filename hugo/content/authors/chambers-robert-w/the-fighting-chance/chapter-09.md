@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Confessions"
 weight: 9
-aliases:
-  - "/authors/chambers-robert-w/the-fighting-chance/chapter-09.html"
+url: "/authors/chambers-robert-w/the-fighting-chance/chapter-09.html"
 ---
 
 In a city in transition, where yesterday is as dead as a dead century, where those who prepare the old year for burial are already taking the ante-mortem statement of the new, the future fulfils the functions of the present. Time itself is considered merely as a by-product of horse-power, discounted with flippancy as the unavoidable friction clogging the fly-wheel of progress.

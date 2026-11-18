@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Clara"
 weight: 10
-aliases:
-  - "/authors/lawrence-david-herbert/sons-and-lovers/chapter-10.html"
+url: "/authors/lawrence-david-herbert/sons-and-lovers/chapter-10.html"
 ---
 
 WHEN he was twenty-three years old, Paul sent in a landscape to the winter exhibition at Nottingham Castle. Miss Jordan had taken a good deal of interest in him, and invited him to her house, where he met other artists. He was beginning to grow ambitious.

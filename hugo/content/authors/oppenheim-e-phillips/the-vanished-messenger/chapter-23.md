@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-23.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-23.html"
 ---
 
 Hamel sliced his ball at the ninth, and after waiting for a few minutes patiently, Esther came to help him look for it. He was standing down on the sands, a little apart from the two caddies who were beating out various tufts of long grass.

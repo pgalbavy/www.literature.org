@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Lord Lansdowne"
 weight: 21
-aliases:
-  - "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-21.html"
+url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-21.html"
 ---
 
 One morning in the following week Mrs. Burnham attired herself in her second-best black silk, and, leaving the Misses Burnham practising diligently, turned her steps toward Oldclough Hall. Arriving there, she was ushered into the blue drawing-room by Dobson, in his character of footman; and in a few minutes Lucia appeared.

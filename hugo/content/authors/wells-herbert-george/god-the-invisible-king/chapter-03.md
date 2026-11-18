@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Likeness Of God"
 weight: 4
-aliases:
-  - "/authors/wells-herbert-george/god-the-invisible-king/chapter-03.html"
+url: "/authors/wells-herbert-george/god-the-invisible-king/chapter-03.html"
 ---
 
 1\. GOD IS COURAGE

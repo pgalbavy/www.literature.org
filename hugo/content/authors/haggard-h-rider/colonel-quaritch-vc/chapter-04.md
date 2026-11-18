@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The End Of The Tale"
 weight: 4
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-04.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-04.html"
 ---
 
 As soon as her father had gone, Ida rose and suggested that if Colonel Quaritch had done his wine they should go into the drawing-room, which they accordingly did. This room was much more modern than either the vestibule or the dining-room, and had an air and flavour of nineteenth century young lady about it. There were the little tables, the draperies, the photograph frames, and all the hundred and one knick-knacks and odds and ends by means of which a lady of taste makes a chamber lovely in the eyes of brutal man. It was a very pleasant place to look upon, this drawing-room at Honham Castle, with its irregular recesses, its somewhat faded colours illuminated by the soft light of a shaded lamp, and its general air of feminine dominion. Harold Quaritch was a man who had seen much of the world, but who had not seen very much of drawing-rooms, or, indeed, of ladies at large. They had not come in his way, or if they did come in his way he had avoided them. Therefore, perhaps, he was the more susceptible to such influences when he was brought within their reach. Or perchance it was Ida's gracious presence which threw a charm upon the place that added to its natural attractiveness, as the china bowls of lavender and rose leaves added perfume to the air. Anyhow, it struck him that he had rarely before seen a room which conveyed to his mind such strong suggestions of refinement and gentle rest.

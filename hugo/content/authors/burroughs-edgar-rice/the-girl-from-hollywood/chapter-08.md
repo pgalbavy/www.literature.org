@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-08.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-08.html"
 ---
 
 Beneath the cool shadows of the north porch the master of Ganado, booted and spurred, rested after a long ride in the hot sun, sipping a long, cool glass of peach brandy and orange juice, and talking with his wife. A broad barley field lay below them, stretching to the State highway half a mile to the north. The yellowing heads of the grain stood motionless beneath the blazing sun. Inside the myriad kernels the milk was changing into dough. It would not be long now, barring fogs, before that gorgeous pageant of prosperity would be falling in serried columns into the maw of the binder.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Pen’yllan"
 weight: 10
-aliases:
-  - "/authors/hodgson-burnett-frances/miss-crespigny/chapter-10.html"
+url: "/authors/hodgson-burnett-frances/miss-crespigny/chapter-10.html"
 ---
 
 Emulating the example of the Misses Tregarthyn, Pen’yllan had put on its best dress to grace the occasion of the arrival of the visitors. As they drove from the little railway station, Lisbeth was of the opinion that she had never seen the sea so blue, and cool, and sparkling, the sands so silver white, or the village so picturesque. The truth was, the sight of it quite subdued her, and invested her with one of her softest and most charitable moods.

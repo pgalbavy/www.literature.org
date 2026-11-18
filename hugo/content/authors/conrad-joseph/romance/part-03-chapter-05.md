@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 5"
 weight: 17
-aliases:
-  - "/authors/conrad-joseph/romance/part-03-chapter-05.html"
+url: "/authors/conrad-joseph/romance/part-03-chapter-05.html"
 ---
 
 Seraphina and I moved towards the door sadly, as if under the oppression of a memory, as people go back from the side of a grave to the cares of life. No exultation possessed me. Nothing had happened. It had been a sick man's whim.

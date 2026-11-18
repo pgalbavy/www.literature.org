@@ -1,8 +1,7 @@
 ---
 title: "part 01 chapter 00"
 weight: 999
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-00.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-00.html"
 ---
 
 The Project Gutenberg EBook of Dick Sand, by Jules Verne

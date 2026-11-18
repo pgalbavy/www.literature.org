@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 36
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-36.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-36.html"
 ---
 
 Mr. Sabin received an early visitor whilst still lingering over a slight but elegant breakfast. Passmore seated himself in an easy-chair and accepted the cigar which his host himself selected for him.

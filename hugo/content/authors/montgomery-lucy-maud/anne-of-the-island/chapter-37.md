@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - Full-Fledged B.A.'s"
 weight: 37
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-37.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-37.html"
 ---
 
 "I wish I were dead, or that it were tomorrow night," groaned Phil.

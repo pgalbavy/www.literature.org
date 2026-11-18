@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 18 - The Further Brink"
 weight: 18
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-01-chapter-18.html"
+url: "/authors/buchan-john/the-half-hearted/part-01-chapter-18.html"
 ---
 
 Wratislaw left betimes the next morning, and a long day faced Lewis with every hour clamouring for a decision. George would be back by noon, and before his return he must seek quiet and the chances of reflection. He was happy with a miserable fluctuating happiness. Of a sudden his horizon was enlarged, but as he gazed it seemed to narrow again. His mind was still unplumbed; somewhere in its depths might lie the shrinking and unwillingness which would bind him to the dreary present.

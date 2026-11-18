@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Where They Found His Master"
 weight: 2
-aliases:
-  - "/authors/alcott-louisa-may/under-the-lilacs/chapter-02.html"
+url: "/authors/alcott-louisa-may/under-the-lilacs/chapter-02.html"
 ---
 
 Neither spoke for a minute, astonishment being too great for words; then, as by one impulse, both stole up and touched the cake with a timid finger, quite prepared to see it fly away in some mysterious and startling manner. It remained sitting tranquilly in the basket, however, and the children drew a long breath of relief, for, though they did not believe in fairies, the late performances did seem rather like witchcraft.

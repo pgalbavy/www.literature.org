@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - A Wonderful Stick"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-18.html"
 ---
 
 Now, Billy Woodchuck knew that he must beware of boys like Johnnie Green. And more than that, he had learned that boys with sticks are even worse than boys without them. Still, if he did not let Johnnie come too near him, there was not much danger.

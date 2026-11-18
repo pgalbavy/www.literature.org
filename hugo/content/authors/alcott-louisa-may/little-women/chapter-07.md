@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Amy's Valley Of Humiliation"
 weight: 7
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-07.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-07.html"
 ---
 
 "That boy is a perfect cyclops, isn't he?" said Amy one day, as Laurie clattered by on horseback, with a flourish of his whip as he passed.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/collins-wilkie/a-rogues-life/chapter-05.html"
+url: "/authors/collins-wilkie/a-rogues-life/chapter-05.html"
 ---
 
 HE led the way into the street as he spoke. I felt the irresistible force of his logic. I sympathized with the ardent philanthropy of his motives. I burned with a noble ambition to extend the sphere of the Old Masters. In short, I took the tide at the flood, and followed Dick.

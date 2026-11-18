@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Meeting"
 weight: 3
-aliases:
-  - "/authors/hodgson-burnett-frances/theo/chapter-03.html"
+url: "/authors/hodgson-burnett-frances/theo/chapter-03.html"
 ---
 
 But Denis Oglethorpe did not appear again for several days. Perhaps business detained him; perhaps he went oftener to see Priscilla. At any rate, he did not call again until the end of the week.

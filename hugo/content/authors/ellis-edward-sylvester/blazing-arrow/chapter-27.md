@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Red Crow"
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-27.html"
 ---
 
 The boys kept such a close watch on the Shawanoe that the moment he signalled them to stop they obeyed. Although he assumed his favorite attitude while doing so, he instantly faced about so that his back was toward them. There could be no doubt that he had made some important discovery.

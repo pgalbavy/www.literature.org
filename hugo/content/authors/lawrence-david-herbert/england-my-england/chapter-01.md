@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - England, My England"
 weight: 1
-aliases:
-  - "/authors/lawrence-david-herbert/england-my-england/chapter-01.html"
+url: "/authors/lawrence-david-herbert/england-my-england/chapter-01.html"
 ---
 
 He was working on the edge of the common, beyond the small brook that ran in the dip at the bottom of the garden, carrying the garden path in continuation from the plank bridge on to the common. He had cut the rough turf and bracken, leaving the grey, dryish soil bare. But he was worried because he could not get the path straight, there was a pleat between his brows. He had set up his sticks, and taken the sights between the big pine trees, but for some reason everything seemed wrong. He looked again, straining his keen blue eyes, that had a touch of the Viking in them, through the shadowy pine trees as through a doorway, at the green-grassed garden-path rising from the shadow of alders by the log bridge up to the sunlit flowers. Tall white and purple columbines, and the butt-end of the old Hampshire cottage that crouched near the earth amid flowers, blossoming in the bit of shaggy wildness round about.

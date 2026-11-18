@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Christmas Eve"
 weight: 11
-aliases:
-  - "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-11.html"
+url: "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-11.html"
 ---
 
 It was Christmas Eve. Elizabeth Compton and Harriet Holden were completing the rounds of their friends' homes with Christmas remembrances--a custom that they had continued since childhood. The last parcel had been delivered upon the South Side, and they were now being driven north on Michigan Boulevard toward home. Elizabeth directed the chauffeur to turn over Van Buren to State, which at this season of the year was almost alive with belated Christmas shoppers and those other thousands who always seize upon the slightest pretext for a celebration.

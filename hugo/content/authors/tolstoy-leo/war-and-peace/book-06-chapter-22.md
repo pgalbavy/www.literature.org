@@ -1,8 +1,7 @@
 ---
 title: "Book 6 - Chapter 22"
 weight: 128
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-06-chapter-22.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-06-chapter-22.html"
 ---
 
 Next day, having been invited by the count, Prince Andrew dined with the Rostovs and spent the rest of the day there.

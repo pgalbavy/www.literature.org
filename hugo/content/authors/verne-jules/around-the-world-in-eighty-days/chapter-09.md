@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-09.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-09.html"
 ---
 
 In which the Red Sea and the Indian ocean prove propitious to the designs of Phileas Fogg

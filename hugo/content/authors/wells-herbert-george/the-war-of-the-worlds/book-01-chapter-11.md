@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 11 - At the Window"
 weight: 11
-aliases:
-  - "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-11.html"
+url: "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-11.html"
 ---
 
 I have already said that my storms of emotion have a trick of exhausting themselves. After a time I discovered that I was cold and wet, and with little pools of water about me on the stair carpet. I got up almost mechanically, went into the dining room and drank some whiskey, and then I was moved to change my clothes.

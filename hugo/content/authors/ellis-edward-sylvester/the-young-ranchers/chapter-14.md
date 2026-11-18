@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Turned Back"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-14.html"
 ---
 
 It was a wise proceeding on the part of the rancher. The opportunity to make a substantial repast was theirs, and as he had remarked, there was no certainty when it would come again.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Love’s Young Dream"
 weight: 7
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-07.html"
+url: "/authors/haggard-h-rider/jess/chapter-07.html"
 ---
 
 After waiting a few minutes, Jess said “Good-night,” and went straight to Bessie’s room. Her sister had undressed, and was sitting on her bed, wrapped in a blue dressing-gown that suited her fair complexion admirably, and with a very desponding expression on her beautiful face. Bessie was one of those people who are easily elated and easily cast down.

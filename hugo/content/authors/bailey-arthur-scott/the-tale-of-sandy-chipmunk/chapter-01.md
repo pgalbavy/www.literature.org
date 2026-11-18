@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Sandy's Name"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-01.html"
 ---
 
 In the first place, no doubt you will want to learn why he was known as Sandy. Many others, before you, have wondered how Sandy Chipmunk came by his name.

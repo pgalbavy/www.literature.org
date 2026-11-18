@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Fiat Lux!"
 weight: 19
-aliases:
-  - "/authors/leblanc-maurice/the-golden-triangle/chapter-19.html"
+url: "/authors/leblanc-maurice/the-golden-triangle/chapter-19.html"
 ---
 
 On the evening of the same day, Patrice was pacing up and down the Quai de Passy. It was nearly six o'clock. From time to time, a tram-car passed, or some motor-lorry. There were very few people about on foot. Patrice had the pavement almost to himself.

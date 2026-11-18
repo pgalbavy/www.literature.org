@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-07.html"
+url: "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-07.html"
 ---
 
 The train arrived at Kizil Arvat, two hundred and forty-two versts from the Caspian, at thirteen minutes past seven in the evening instead of seven o'clock. This slight delay provoked thirteen objurgations from the baron, one for each minute.

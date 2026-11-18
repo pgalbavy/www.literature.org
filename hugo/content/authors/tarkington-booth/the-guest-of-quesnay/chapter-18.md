@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/tarkington-booth/the-guest-of-quesnay/chapter-18.html"
+url: "/authors/tarkington-booth/the-guest-of-quesnay/chapter-18.html"
 ---
 
 I do not like to read those poets who write of pain as if they loved it; the study of suffering is for the cold analyst, for the vivisectionist, for those who may transfuse their knowledge of it to the ultimate good of mankind. And although I am so heavily endowed with curiosity concerning the people I find about me, my gift (or curse, whichever it be) knows pause at the gates of the house of calamity. So, if it were possible, I would not speak of the agony of which I was a witness that night in the apartment of my friends at Madame Brossard's. I went with reluctance, but there was no choice. Keredec had sent for me.

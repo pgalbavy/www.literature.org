@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Playmates"
 weight: 3
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-03.html"
+url: "/authors/bronte-charlotte/villette/chapter-03.html"
 ---
 
 Mr. Home stayed two days. During his visit he could not be prevailed on to go out: he sat all day long by the fireside, sometimes silent, sometimes receiving and answering Mrs. Bretton's chat, which was just of the proper sort for a man in his morbid mood - not over-sympathetic, yet not too uncongenial, sensible; and even with a touch of the motherly - she was sufficiently his senior to be permitted this touch.

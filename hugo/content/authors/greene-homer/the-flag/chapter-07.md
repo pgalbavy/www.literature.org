@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/greene-homer/the-flag/chapter-07.html"
+url: "/authors/greene-homer/the-flag/chapter-07.html"
 ---
 
 On the morning after the interview with Enos Walker, Mr. Morrissey and Mr. Campbell went up to Bannerhall to report to Colonel Richard Butler. But they went hesitatingly. Indeed, it had been a question in their minds whether it would not be wiser to say nothing to Colonel Butler concerning their experience at Cobb's Corners, and simply to go elsewhere and hunt up another tree. But Mr. Walker's tree was such a model of perfection for their purpose, the possibility of finding another one that would even approach it in suitability was so extremely remote, that the two gentlemen, after serious discussion of the question, being well aware of Colonel Butler's idiosyncrasies, decided, finally, to put the whole case up to him, and to accept cheerfully whatever he might have in store for them. There was one chance in a hundred that the colonel, instead of scornfully resenting Enos Walker's proposal, might take the matter philosophically and accept the old man's terms. They thought it better to take that chance.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Fatty Coon Goes Fishing"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-05.html"
 ---
 
 One day Fatty Coon was strolling along the brook which flowed not far from his home. He stopped now and then, to crouch close to the water's edge, in the hope of catching a fish. And one time, when he lay quite still among the rocks, at the side of a deep pool, with his eyes searching the clear water, Fatty Coon suddenly saw something bright, all yellow and red, that lighted on the water right before him. It was a bug, or a huge fly. And Fatty was very fond of bugs--to eat, you know. So he lost no time. The bright thing had scarcely settled on the water when Fatty reached out and seized it. He put it into his mouth, when the strangest thing happened. Fatty felt himself pulled right over into the water.

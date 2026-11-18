@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - A Long Journey"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-20.html"
 ---
 
 BY SUNRISE Miss Kitty Cat had trotted at least a mile along the road that passed the peddler's house. She wanted to get a safe distance away before the family got up and turned loose the dog that had barked the night before, when she arrived.

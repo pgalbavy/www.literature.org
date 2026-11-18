@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-05.html"
+url: "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-05.html"
 ---
 
 The girl, Maggie, blossomed in a mud puddle. She grew to be a most rare and wonderful production of a tenement district, a pretty girl.

@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 2 - Seeking Associates"
 weight: 10
-aliases:
-  - "/authors/wells-herbert-george/the-new-machiavelli/book-03-chapter-02.html"
+url: "/authors/wells-herbert-george/the-new-machiavelli/book-03-chapter-02.html"
 ---
 
 1

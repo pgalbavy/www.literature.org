@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 19"
 weight: 19
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-19.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-19.html"
 ---
 
 Mary Burton's usually colorful cheeks were now as pale as ivory. Her attitude and expression declared a total dedication to one idea: war upon the brother who could see in her entire future only a house of cards to be swept down because it had not been reared in harmony with his requirements. As she took a step toward the door Hamilton stepped between, barring her way. His outburst of infuriated words had left him breathing fast, and he drew a handkerchief from his pocket and passed it across his brow.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Daughter Of Herodias"
 weight: 8
-aliases:
-  - "/authors/buchan-john/sir-quixote-of-the-moors/chapter-07.html"
+url: "/authors/buchan-john/sir-quixote-of-the-moors/chapter-07.html"
 ---
 
 The days at Lindean dragged past, and the last traces of summer began to disappear from the face of the hills. The bent grew browner, the trees more ragged, and the torrent below more turgid and boisterous. Yet no word came from the hills, and, sooth to tell, we almost ceased to look for it. 'Twas not that we had forgotten the minister and Master Semple in their hiding, for the thought of them was often at hand to sadden me, and Anne, I must suppose, had many anxious meditations; but our life at Lindean was so peaceful and removed from any hint of violence that danger did not come before our minds in terrible colors. When the rain beat at night on the window, and the wind howled round the house, then our hearts would smite us for living in comfort when our friends were suffering the furious weather. But when the glorious sun-lit morning had come, and we looked over the landscape, scarce free from the magic of dawn, then we counted it no hardship to be on the hills. And rain came so seldom during that time, and the sun so often, that the rigor of the hill-life did not appal us.

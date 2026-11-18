@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The End Of The End"
 weight: 12
-aliases:
-  - "/authors/nesbit-edith/the-phoenix-and-the-carpet/chapter-12.html"
+url: "/authors/nesbit-edith/the-phoenix-and-the-carpet/chapter-12.html"
 ---
 
 'Egg, toast, tea, milk, tea-cup and saucer, egg-spoon, knife, butter - that's all, I think,' remarked Anthea, as she put the last touches to mother's breakfast-tray, and went, very carefully up the stairs, feeling for every step with her toes, and holding on to the tray with all her fingers. She crept into mother's room and set the tray on a chair. Then she pulled one of the blinds up very softly.

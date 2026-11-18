@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Greatest Thing In The World"
 weight: 11
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-11.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-11.html"
 ---
 
 Johnny Chuck had begun to think about his clothes. Yes, Sir, he spent a whole lot of time thinking about how he looked and wishing that he had a handsomer coat. For the first time in all his life he began to envy Reddy Fox, because of the beautiful red coat of which Reddy is so proud. It seemed to Johnny that his own coat was so plain and so dull that no one would look at it twice. Besides, it was torn now, because of the great fight Johnny had had with the old gray Chuck who came down from the Old Pasture. Johnny smoothed it down and brushed it carefully and tried to make himself look as spick and span as he knew how.

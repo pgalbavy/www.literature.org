@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - A Question Of Luck"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-19.html"
 ---
 
 "How lucky some people are!" said old Mr. Crow. He was talking to the Muley Cow, in the pasture. And though she didn't specially care for his company, she was curious enough to ask him what he meant.

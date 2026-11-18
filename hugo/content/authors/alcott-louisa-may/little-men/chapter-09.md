@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Daisy's Ball"
 weight: 10
-aliases:
-  - "/authors/alcott-louisa-may/little-men/chapter-09.html"
+url: "/authors/alcott-louisa-may/little-men/chapter-09.html"
 ---
 
 "Mrs. Shakespeare Smith would like to have Mr. John Brooke, Mr. Thomas Bangs, and Mr. Nathaniel Blake to come to her ball at three o'clock today.

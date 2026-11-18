@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 34
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-34.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-34.html"
 ---
 
 When Parish Thornton had brought his captive down the slope that afternoon he had left his rifle in safe concealment, not wishing to hamper himself with any weapon save the revolver, which had never left his palm until this moment.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Anxious Waiting"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-22.html"
 ---
 
 This was astounding news, indeed, and for a few minutes the two veteran hunters were completely taken back. They had considered the place where their animals were picketed as being so secure that the contingency of losing them was not thought of until it came upon them with the suddenness mentioned.

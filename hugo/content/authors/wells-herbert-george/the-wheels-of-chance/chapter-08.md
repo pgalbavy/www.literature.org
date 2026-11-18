@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-08.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-08.html"
 ---
 
 Beyond Cobham came a delightful incident, delightful, that is, in its beginning if a trifle indeterminate in the retrospect. It was perhaps half-way between Cobham and Ripley. Mr. Hoopdriver dropped down a little hill, where, unfenced from the road, fine mossy trees and bracken lay on either side; and looking up he saw an open country before him, covered with heather and set with pines, and a yellow road runing across it, and half a mile away perhaps, a little grey figure by the wayside waving something white. "Never!" said Mr. Hoopdriver with his hands tightening on the handles.

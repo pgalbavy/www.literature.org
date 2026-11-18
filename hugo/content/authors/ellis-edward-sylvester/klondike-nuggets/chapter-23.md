@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - A General Settlement Of Accounts"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-23.html"
 ---
 
 Quick as were the boys in hurrying to the point where they heard the indignant Tim, they did not reach it until the affray was over. Wholly subdued, Ike Hardman begged for mercy at the hands of his conqueror, and promised to do anything desired if he received consideration.

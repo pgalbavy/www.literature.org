@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - The Return"
 weight: 29
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-28.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-28.html"
 ---
 
 D'Artagnan was astounded by the terrible confidence of Athos; yet many things appeared very obscure to him in this half revelation. In the first place it had been made by a man quite drunk to one who was half drunk; and yet, in spite of the incertainty which the vapor of three or four bottles of Burgundy carries with it to the brain, D'Artagnan, when awaking on the following morning, had all the words of Athos as present to his memory as if they then fell from his mouth - they had been so impressed upon his mind. All this doubt only gave rise to a more lively desire of arriving at a certainty, and he went into his friend's chamber with a fixed determination of renewing the conversation of the preceding evening; but he found Athos quite himself again - that is to say, the most shrewd and impenetrable of men. Besides which, the Musketeer, after having exchanged a hearty shake of the hand with him, broached the matter first.

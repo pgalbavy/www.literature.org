@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-07.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-07.html"
 ---
 
 GIT up! What you 'bout?"

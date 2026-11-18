@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 2 - The Fynes And The Girl-Friend"
 weight: 2
-aliases:
-  - "/authors/conrad-joseph/chance/part-01-chapter-02.html"
+url: "/authors/conrad-joseph/chance/part-01-chapter-02.html"
 ---
 
 We were on our feet in the room by then, and Marlow, brown and deliberate, approached the window where Mr. Powell and I had retired. "What was the name of your chance again?" he asked. Mr. Powell stared for a moment.

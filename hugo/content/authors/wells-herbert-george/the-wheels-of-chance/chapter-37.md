@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - In The New Forest"
 weight: 37
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-37.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-37.html"
 ---
 
 At Ringwood they lunched, and Jessie met with a disappointment. There was no letter for her at the post office. Opposite the hotel, The Chequered Career, was a machine shop with a conspicuously second-hand Marlborough Club tandem tricycle displayed in the window, together with the announcement that bicycles and tricycles were on hire within. The establishment was impressed on Mr. Hoopdriver's mind by the proprietor's action in coming across the road and narrowly inspecting their machines. His action revived a number of disagreeable impressions, but, happily, came to nothing. While they were still lunching, a tall clergyman, with a heated face, entered the room and sat down at the table next to theirs. He was in a kind of holiday costume; that is to say, he had a more than usually high collar, fastened behind and rather the worse for the weather, and his long-tail coat had been replaced by a black jacket of quite remarkable brevity. He had faded brown shoes on his feet, his trouser legs were grey with dust, and he wore a hat of piebald straw in the place of the customary soft felt. He was evidently socially inclined.

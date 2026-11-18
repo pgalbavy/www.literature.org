@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - First Newspaper Experiences"
 weight: 3
-aliases:
-  - "/authors/davis-richard-harding/adventures-and-letters/chapter-03.html"
+url: "/authors/davis-richard-harding/adventures-and-letters/chapter-03.html"
 ---
 
 In the late summer of 1886 Richard returned from Cuba and settled down in Philadelphia to write an article about his experiences at Santiago and to look for regular newspaper work. Early in September he wrote his mother:

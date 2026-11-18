@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 46"
 weight: 363
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-46.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-46.html"
 ---
 
 Thus our conception of free will and inevitability gradually diminishes or increases according to the greater or lesser connection with the external world, the greater or lesser remoteness of time, and the greater or lesser dependence on the causes in relation to which we contemplate a man's life.

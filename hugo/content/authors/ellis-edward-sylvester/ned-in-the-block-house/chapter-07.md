@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Message"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-07.html"
 ---
 
 The declaration of Deerfoot the Shawanoe and of Stinger the scout that the Wyandots were holding such strict watch of the approaches to the block-house that no one could leave or approach it, was proof of the thoroughness of their precautions. It showed still further that the red men had determined to slay every one within the building.

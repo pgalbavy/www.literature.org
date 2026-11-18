@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - A Slight Mistake"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/a-young-hero/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/a-young-hero/chapter-19.html"
 ---
 
 When Archibald Jackson, constable of Tottenville and the surrounding country, strode forth from the home of Widow Sheldon on the night of the call which we have described, he felt like "shaking hands with himself," for he was confident he had made one of the greatest strikes that ever came in the way of any one in his profession—a strike that would render him famous throughout the country, and even in the city of New York.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Nonresistance"
 weight: 10
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-09.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-09.html"
 ---
 
 "Long distance calling you, Mr. Stull. One moment, please.... Here's your party," concluded the operator.

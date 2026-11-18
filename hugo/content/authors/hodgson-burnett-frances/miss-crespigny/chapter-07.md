@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A New Experience"
 weight: 7
-aliases:
-  - "/authors/hodgson-burnett-frances/miss-crespigny/chapter-07.html"
+url: "/authors/hodgson-burnett-frances/miss-crespigny/chapter-07.html"
 ---
 
 The next time that Georgie found herself alone with Mr. Anstruthers, she read him a very severe little lecture on the subject of his shortcomings.

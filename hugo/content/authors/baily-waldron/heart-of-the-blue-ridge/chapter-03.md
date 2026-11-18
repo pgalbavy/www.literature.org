@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-03.html"
+url: "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-03.html"
 ---
 
 The right of way from North Wilkesboro' to Greensboro' runs through a region where every vista delights the eye with wild and romantic scenes. The rails follow the course of the upper reaches of the Yadkin River, with swift succession of vicious curves and heavy grades. The twistings of the road-bed, so advantageous for presenting the varied loveliness of the wilds, were by way of being a real torture to the young adventurer, who sat in seeming stolidity near the rear door of the smoking-car, with the black bag between his feet. Even experienced travelers found the lunges of the train trying to their nerves as it shot at speed around "hairpin" bends, or hurled itself to the fall of a steeper descent. To Zeke, who for the first time knew the roar and jolt of such travel, this trip was a fearsome thing. To sit movelessly there, while the car reeled recklessly on the edge of abysses, was a supreme trial of self-control. The racking peril fairly sickened him. A mad impulse of flight surged in him. Yet, not for worlds would he have let anyone guess his miserable alarm.

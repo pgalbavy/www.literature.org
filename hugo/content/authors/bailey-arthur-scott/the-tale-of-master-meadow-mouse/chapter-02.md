@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Peep At The World"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-02.html"
 ---
 
 WHAT is the earliest thing you can remember? Master Meadow Mouse's earliest memory was of lying in a soft nest of dried grasses. Sometimes the nest was in inky darkness; and then it was night. Sometimes a shaft of light fell upon the nest through a round hole just above his head; and then it was daytime.

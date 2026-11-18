@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Reinforcements"
 weight: 21
-aliases:
-  - "/authors/chambers-robert-w/the-firing-line/chapter-21.html"
+url: "/authors/chambers-robert-w/the-firing-line/chapter-21.html"
 ---
 
 All day Portlaw had been telephoning and telegraphing the various stations along the New York Central Railroad, following the schedule from his time-table and from the memoranda given him by young Mrs. Malcourt; and now the big, double, covered buckboard and the fast horses, which had been sent to meet them at Pride's, was expected at any moment.

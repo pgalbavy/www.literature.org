@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - In Which A Spark Is Applied"
 weight: 7
-aliases:
-  - "/authors/hodgson-burnett-frances/vagabondia/chapter-07.html"
+url: "/authors/hodgson-burnett-frances/vagabondia/chapter-07.html"
 ---
 
 IT was several days before Bloomsbury Place settled down and became itself again after Dolly's departure. They all missed her as they would have missed any one of their number who had chanced to leave them; but Griffith, coming in to make his daily visits, was naturally almost disconsolate, and for a week or so refused to be comforted.

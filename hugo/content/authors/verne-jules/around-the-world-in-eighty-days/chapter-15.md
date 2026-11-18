@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-15.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-15.html"
 ---
 
 In which the bag of banknotes disgorges some thousands of pounds more

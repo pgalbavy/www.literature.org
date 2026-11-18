@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Tall Timbers Of Old Harpeth"
 weight: 17
-aliases:
-  - "/authors/daviess-maria-thompson/the-daredevil/chapter-17.html"
+url: "/authors/daviess-maria-thompson/the-daredevil/chapter-17.html"
 ---
 
 Is it that there comes to the world an hour in the twenty and four in which it lays aside the mortality of the earth and clothes itself in an immortality of a very great awe? I think that it is so; and it was out into the whiteness of that hour that I stepped when I had successfully passed from my room to the garden of the home of my Uncle, the General Robert, which is also the home of my American ancestors. A command for my presence had come to me from the loved Gouverneur Faulkner and it was needful that I make all possible haste; but it seemed to me that all of the beautiful faded flowers of my dead grandmammas in that garden rose up around me for beguilement and gave to me a perfume that they had kept in saving for the Roberta, some day to come across the waters to them. And all of their little descendants, the opening blossoms of spring, also gave perfume to me in a mist in the white moonlight, while a few fragrant rose vines bent to detain me as I left that home of my grandmothers to go out into that sleeping city, alone. I had a great fear, but yet a great devotion drew me and in a very few minutes I had driven my Cherry from the garage and was on my way through the silent streets to--I did not know what.

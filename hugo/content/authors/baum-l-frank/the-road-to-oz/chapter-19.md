@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 20
-aliases:
-  - "/authors/baum-l-frank/the-road-to-oz/chapter-19.html"
+url: "/authors/baum-l-frank/the-road-to-oz/chapter-19.html"
 ---
 
 The shaggy man stood in the great hall, his shaggy hat in his hands, wondering what would become of him. He had never been a guest in a fine palace before; perhaps he had never been a guest anywhere. In the big, cold, outside world people did not invite shaggy men to their homes, and this shaggy man of ours had slept more in hay-lofts and stables than in comfortable rooms. When the others left the great hall he eyed the splendidly dressed servants of the Princess Ozma as if he expected to be ordered out; but one of them bowed before him as respectfully as if he had been a prince, and said:

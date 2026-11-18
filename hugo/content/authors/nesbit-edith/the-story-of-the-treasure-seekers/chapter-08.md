@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Being Editors"
 weight: 8
-aliases:
-  - "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-08.html"
+url: "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-08.html"
 ---
 
 It was Albert's uncle who thought of our trying a newspaper. He said he thought we should not find the bandit business a paying industry, as a permanency, and that journalism might be.

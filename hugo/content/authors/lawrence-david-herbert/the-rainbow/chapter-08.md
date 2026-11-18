@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Child"
 weight: 8
-aliases:
-  - "/authors/lawrence-david-herbert/the-rainbow/chapter-08.html"
+url: "/authors/lawrence-david-herbert/the-rainbow/chapter-08.html"
 ---
 
 From the first, the baby stirred in the young father a deep, strong emotion he dared scarcely acknowledge, it was so strong and came out of the dark of him. When he heard the child cry, a terror possessed him, because of the answering echo from the unfathomed distances in himself. Must he know in himself such distances, perilous and imminent?

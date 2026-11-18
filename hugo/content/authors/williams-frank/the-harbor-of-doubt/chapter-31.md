@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Peace And Prosperity"
 weight: 31
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-31.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-31.html"
 ---
 
 The village of Freekirk Head prospered once Code Schofield, Bijonah Tanner, and Jed Martin had started the ball rolling. Inside a week another large consignment of fish arrived. Boughton was ready for it, and for all that could come, he said, in the next two months.

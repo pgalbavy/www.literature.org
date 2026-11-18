@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Strange Sight"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-18.html"
 ---
 
 From somewhere in the gloomy solitude came a low quavering monotone that had a most uncanny sound in the weird midnight. The youths never before had heard anything of the kind, and the bravest men would have been impressed by it.

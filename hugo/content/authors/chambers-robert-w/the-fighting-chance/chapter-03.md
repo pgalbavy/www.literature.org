@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Shotover"
 weight: 3
-aliases:
-  - "/authors/chambers-robert-w/the-fighting-chance/chapter-03.html"
+url: "/authors/chambers-robert-w/the-fighting-chance/chapter-03.html"
 ---
 
 The first person he encountered in the gun-room was Quarrier, who favoured him with an expressionless stare, then with a bow, quite perfunctory and non-committal. It was plain enough that he had not expected to meet Siward at Shotover House.

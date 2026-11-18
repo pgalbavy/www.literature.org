@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - And Jill Finds It Out"
 weight: 15
-aliases:
-  - "/authors/alcott-louisa-may/jack-and-jill/chapter-14.html"
+url: "/authors/alcott-louisa-may/jack-and-jill/chapter-14.html"
 ---
 
 Jill worried about it more than he did, for she was a faithful little friend, and it was a great trial to have Jack even suspected of doing anything wrong. School is a child's world while he is there, and its small affairs are very important to him, so Jill felt that the one thing to be done was to clear away the cloud about her dear boy, and restore him to public favor.

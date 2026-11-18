@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Plan For The Rescue"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/oonomoo-the-huron/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/oonomoo-the-huron/chapter-07.html"
 ---
 
 Oft did he stoop a listening ear,  

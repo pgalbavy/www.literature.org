@@ -1,8 +1,7 @@
 ---
 title: "Chapter 45 - Master's Term"
 weight: 47
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-45.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-45.html"
 ---
 
 One more look into the old college where we have spent so much time already, not, I hope, altogether unpleasantly. Our hero is up in the summer term, keeping his three weeks' residence, the necessary preliminary to an M. A. degree. We find him sitting in Hardy's rooms; tea is over, scouts out of college, candles lighted, and silence reigning, except when distant sounds of mirth come from some undergraduates' rooms on the opposite side of quad, through the open windows.

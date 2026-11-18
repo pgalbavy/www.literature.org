@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/collins-wilkie/the-frozen-deep/chapter-14.html"
+url: "/authors/collins-wilkie/the-frozen-deep/chapter-14.html"
 ---
 
 The night had passed.

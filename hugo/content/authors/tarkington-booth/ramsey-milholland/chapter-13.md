@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/tarkington-booth/ramsey-milholland/chapter-13.html"
+url: "/authors/tarkington-booth/ramsey-milholland/chapter-13.html"
 ---
 
 Ramsey passed the slightly disfigured Linski on the campus next day without betraying any embarrassment or making a sign of recognition. Fred Mitchell told his roommate, chuckling, that Linski had sworn to "get" him, and, not knowing Fred's affiliations, had made him the confidant of his oath. Fred had given his blessing, he said, upon the enterprise, and advised Linski to use a brick. "He'll hit you on the head with it," said the light-hearted Fred, falling back upon this old joke. "Then you can catch it as it bounces off and throw it back at him."

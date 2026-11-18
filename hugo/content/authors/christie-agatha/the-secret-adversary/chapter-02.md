@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Mr. Whittington’s Offer"
 weight: 3
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/chapter-02.html"
+url: "/authors/christie-agatha/the-secret-adversary/chapter-02.html"
 ---
 
 *TUPPENCE* turned sharply, but the words hovering on the tip of her tongue remained unspoken, for the man’s appearance and manner did not bear out her first and most natural assumption. She hesitated. As if he read her thoughts, the man said quickly:

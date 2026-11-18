@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 5"
 weight: 5
-aliases:
-  - "/authors/conrad-joseph/the-shadow-line/part-02-chapter-05.html"
+url: "/authors/conrad-joseph/the-shadow-line/part-02-chapter-05.html"
 ---
 
 I heard the clatter of the scissors escaping from his hand, noted the perilous heave of his whole person over the edge of the bunk after them, and then, returning to my first purpose, pursued my course on the deck. The sparkle of the sea filled my eyes. It was gorgeous and barren, monotonous and without hope under the empty curve of the sky. The sails hung motionless and slack, the very folds of their sagging surfaces moved no more than carved granite. The impetuosity of my advent made the man at the helm start slightly. A block aloft squeaked incomprehensibly, for what on earth could have made it do so? It was a whistling note like a bird’s. For a long, long time I faced an empty world, steeped in an infinity of silence, through which the sunshine poured and flowed for some mysterious purpose. Then I heard Ransome’s voice at my elbow.

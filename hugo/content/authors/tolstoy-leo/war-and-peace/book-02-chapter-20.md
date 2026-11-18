@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 20"
 weight: 48
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-02-chapter-20.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-02-chapter-20.html"
 ---
 
 The infantry regiments that had been caught unawares in the outskirts of the wood ran out of it, the different companies getting mixed, and retreated as a disorderly crowd. One soldier, in his fear, uttered the senseless cry, "Cut off!" that is so terrible in battle, and that word infected the whole crowd with a feeling of panic.

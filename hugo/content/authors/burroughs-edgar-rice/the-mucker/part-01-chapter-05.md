@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 5 - Larry Divine Unmasked"
 weight: 5
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-05.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-05.html"
 ---
 
 “YES, Barbara, it is I,” said Mr. Divine; “and thank God that I am here to do what little any man may do against this band of murdering pirates.”

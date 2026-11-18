@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Apes"
 weight: 4
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-04.html"
+url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-04.html"
 ---
 
 In the forest of the table-land a mile back from the ocean old Kerchak the Ape was on a rampage of rage among his people.

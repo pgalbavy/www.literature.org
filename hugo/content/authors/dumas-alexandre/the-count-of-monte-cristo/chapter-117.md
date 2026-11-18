@@ -1,8 +1,7 @@
 ---
 title: "Chapter 117 - The Fifth Of October"
 weight: 117
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-117.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-117.html"
 ---
 
 It was about six o'clock in the evening; an opal-colored light, through which an autumnal sun shed its golden rays, descended on the blue ocean. The heat of the day had gradually decreased, and a light breeze arose, seeming like the respiration of nature on awakening from the burning siesta of the south. A delicious zephyr played along the coasts of the Mediterranean, and wafted from shore to shore the sweet perfume of plants, mingled with the fresh smell of the sea.

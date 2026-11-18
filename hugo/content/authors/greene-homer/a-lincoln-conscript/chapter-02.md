@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - News From Gettysburg"
 weight: 2
-aliases:
-  - "/authors/greene-homer/a-lincoln-conscript/chapter-02.html"
+url: "/authors/greene-homer/a-lincoln-conscript/chapter-02.html"
 ---
 
 At the first line of the daring parody Rhett Bannister and his son both sprang to their feet, the one white with sudden rage, the other stricken with indignation and alarm. With one step the man reached the edge of the porch, with the next he was down on the path on his way to the gate, to give physical expression to his wrath. What would have happened in the road can only be conjectured, had not Bob’s frightened little mother run to the porch-steps and called to her husband:--

@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 7"
 weight: 56
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-03-chapter-07.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-03-chapter-07.html"
 ---
 
 On the twelfth of November, Kutuzov's active army, in camp before Olmutz, was preparing to be reviewed next day by the two Emperors- the Russian and the Austrian. The Guards, just arrived from Russia, spent the night ten miles from Olmutz and next morning were to come straight to the review, reaching the field at Olmutz by ten o'clock.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - On Intuitive Knowledge"
 weight: 12
-aliases:
-  - "/authors/russell-bertrand/the-problems-of-philosophy/chapter-11.html"
+url: "/authors/russell-bertrand/the-problems-of-philosophy/chapter-11.html"
 ---
 
 There is a common impression that everything that we believe ought to be capable of proof, or at least of being shown to be highly probable. It is felt by many that a belief for which no reason can be given is an unreasonable belief. In the main, this view is just. Almost all our common beliefs are either inferred, or capable of being inferred, from other beliefs which may be regarded as giving the reason for them. As a rule, the reason has been forgotten, or has even never been consciously present to our minds. Few of us ever ask ourselves, for example, what reason there is to suppose the food we are just going to eat will not turn out to be poison. Yet we feel, when challenged, that a perfectly good reason could be found, even if we are not ready with it at the moment. And in this belief we are usually justified.

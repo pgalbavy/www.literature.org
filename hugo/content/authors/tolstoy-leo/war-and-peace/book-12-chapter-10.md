@@ -1,8 +1,7 @@
 ---
 title: "Book 12 - Chapter 10"
 weight: 273
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-12-chapter-10.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-12-chapter-10.html"
 ---
 
 On the eighth of September an officer- a very important one judging by the respect the guards showed him- entered the coach house where the prisoners were. This officer, probably someone on the staff, was holding a paper in his hand, and called over all the Russians there, naming Pierre as "the man who does not give his name." Glancing indolently and indifferently at all the prisoners, he ordered the officer in charge to have them decently dressed and tidied up before taking them to the marshal. An hour later a squad of soldiers arrived and Pierre with thirteen others was led to the Virgin's Field. It was a fine day, sunny after rain, and the air was unusually pure. The smoke did not hang low as on the day when Pierre had been taken from the guardhouse on the Zubovski rampart, but rose through the pure air in columns. No flames were seen, but columns of smoke rose on all sides, and all Moscow as far as Pierre could see was one vast charred ruin. On all sides there were waste spaces with only stoves and chimney stacks still standing, and here and there the blackened walls of some brick houses. Pierre gazed at the ruins and did not recognize districts he had known well. Here and there he could see churches that had not been burned. The Kremlin, which was not destroyed, gleamed white in the distance with its towers and the belfry of Ivan the Great. The domes of the New Convent of the Virgin glittered brightly and its bells were ringing particularly clearly. These bells reminded Pierre that it was Sunday and the feast of the Nativity of the Virgin. But there seemed to be no one to celebrate this holiday: everywhere were blackened ruins, and the few Russians to be seen were tattered and frightened people who tried to hide when they saw the French.

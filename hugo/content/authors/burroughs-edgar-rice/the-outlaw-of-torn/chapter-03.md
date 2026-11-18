@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-03.html"
+url: "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-03.html"
 ---
 
 For nearly a month, the old man haunted the palace, and watched in the gardens for the little Prince until he knew the daily routine of his tiny life with his nurses and governesses.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - A Puzzling Telegram"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-20.html"
 ---
 
 Harvey Hamilton was astounded. In all his imaginings he had never dreamed of this explanation of the destruction of his aeroplane. One admirable trait of the thick-witted Bohunkus Johnson was his truthfulness. His friend knew he was not trying to deceive him and what he had told could be accepted as fact.

@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 23"
 weight: 340
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-23.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-23.html"
 ---
 
 The fundamental and essential significance of the European events of the beginning of the nineteenth century lies in the movement of the mass of the European peoples from west to east and afterwards from east to west. The commencement of that movement was the movement from west to east. For the peoples of the west to be able to make their warlike movement to Moscow it was necessary: (1) that they should form themselves into a military group of a size able to endure a collision with the warlike military group of the east, (2) that they should abandon all established traditions and customs, and (3) that during their military movement they should have at their head a man who could justify to himself and to them the deceptions, robberies, and murders which would have to be committed during that movement.

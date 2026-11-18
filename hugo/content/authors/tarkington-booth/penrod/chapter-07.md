@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Evils Of Drink"
 weight: 7
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-07.html"
+url: "/authors/tarkington-booth/penrod/chapter-07.html"
 ---
 
 Next day, Penrod acquired a dime by a simple and antique process which was without doubt sometimes practised by the boys of Babylon. When the teacher of his class in Sunday-school requested the weekly contribution, Penrod, fumbling honestly (at first) in the wrong pockets, managed to look so embarrassed that the gentle lady told him not to mind, and said she was often forgetful herself. She was so sweet about it that, looking into the future, Penrod began to feel confident of a small but regular income.

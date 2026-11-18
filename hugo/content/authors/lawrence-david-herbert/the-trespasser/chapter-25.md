@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-25.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-25.html"
 ---
 
 Siegmund passed the afternoon in a sort of stupor. At tea-time Beatrice, who had until then kept herself in restraint, gave way to an outburst of angry hysteria.

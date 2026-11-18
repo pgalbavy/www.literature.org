@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 11 - The Battle"
 weight: 23
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-11.html"
+url: "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-11.html"
 ---
 
 At five o'clock that afternoon the sidewalks bordering Margaretha Street were crowded with promenaders. The little tables before the cafes were filled. Nearly everyone spoke of the great war and of the peril which menaced Lutha. Upon many a lip was open disgust at the supine attitude of Leopold of Lutha in the face of an Austrian invasion of his country. Discontent was open. It was ripening to something worse for Leopold than an Austrian invasion.

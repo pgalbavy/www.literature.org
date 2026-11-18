@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Scaring Johnny Green"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-01.html"
 ---
 
 When Johnnie Green was younger, it always scared him to hear Solomon Owl’s deep-toned voice calling in the woods after dark.

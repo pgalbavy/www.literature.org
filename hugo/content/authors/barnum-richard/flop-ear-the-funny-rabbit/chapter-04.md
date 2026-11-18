@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Flop Ear In The Hay"
 weight: 4
-aliases:
-  - "/authors/barnum-richard/flop-ear-the-funny-rabbit/chapter-04.html"
+url: "/authors/barnum-richard/flop-ear-the-funny-rabbit/chapter-04.html"
 ---
 
 The little lost rabbit sat up on his hind legs and looked all around him. He was in the middle of a big wood, and while he liked the trees, the moss and the fallen leaves, which rustled under his feet, still Flop Ear liked best his own wood, where he had always lived. He did not know this wood at all.

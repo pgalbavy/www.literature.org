@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Concerning The Beast Folk"
 weight: 16
-aliases:
-  - "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-15.html"
+url: "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-15.html"
 ---
 
 I WOKE early. Moreau's explanation stood before my mind, clear and definite, from the moment of my awakening. I got out of the hammock and went to the door to assure myself that the key was turned. Then I tried the window-bar, and found it firmly fixed. That these man-like creatures were in truth only bestial monsters, mere grotesque travesties of men, filled me with a vague uncertainty of their possibilities which was far worse than any definite fear.

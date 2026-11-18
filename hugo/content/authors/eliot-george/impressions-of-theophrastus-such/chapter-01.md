@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Looking Inward"
 weight: 1
-aliases:
-  - "/authors/eliot-george/impressions-of-theophrastus-such/chapter-01.html"
+url: "/authors/eliot-george/impressions-of-theophrastus-such/chapter-01.html"
 ---
 
 It is my habit to give an account to myself of the characters I meet with: can I give any true account of my own? I am a bachelor, without domestic distractions of any sort, and have all my life been an attentive companion to myself, flattering my nature agreeably on plausible occasions, reviling it rather bitterly when it mortified me, and in general remembering its doings and sufferings with a tenacity which is too apt to raise surprise if not disgust at the careless inaccuracy of my acquaintances, who impute to me opinions I never held, express their desire to convert me to my favourite ideas, forget whether I have ever been to the East, and are capable of being three several times astonished at my never having told them before of my accident in the Alps, causing me the nervous shock which has ever since notably diminished my digestive powers. Surely I ought to know myself better than these indifferent outsiders can know me; nay, better even than my intimate friends, to whom I have never breathed those items of my inward experience which have chiefly shaped my life.

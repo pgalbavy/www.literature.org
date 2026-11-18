@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Letter"
 weight: 22
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-22.html"
+url: "/authors/bronte-charlotte/villette/chapter-22.html"
 ---
 
 When all was still in the house; when dinner was over and the noisy recreation-hour past; when darkness had set in, and the quiet lamp of study was lit in the refectory; when the externes were gone home, the clashing door and clamorous bell hushed for the evening; when Madame was safely settled in the salle-à-manger in company with her mother and some friends; I then glided to the kitchen, begged a bougie for one half-hour for a particular occasion, found acceptance of my petition at the hands of my friend Goton, who answered, "Mais certainement, chou-chou, vous en aurez deux, si vous voulez;" and, light in hand, I mounted noiseless to the dormitory.

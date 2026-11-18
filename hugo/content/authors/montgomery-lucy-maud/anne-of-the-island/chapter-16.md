@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Adjusted Relationships"
 weight: 16
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-16.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-16.html"
 ---
 
 "It's the homiest spot I ever saw -- it's homier than home," avowed Philippa Gordon, looking about her with delighted eyes. They were all assembled at twilight in the big living-room at Patty's Place -- Anne and Priscilla, Phil and Stella, Aunt Jamesina, Rusty, Joseph, the Sarah-Cat, and Gog and Magog. The firelight shadows were dancing over the walls; the cats were purring; and a huge bowl of hothouse chrysanthemums, sent to Phil by one of the victims, shone through the golden gloom like creamy moons.

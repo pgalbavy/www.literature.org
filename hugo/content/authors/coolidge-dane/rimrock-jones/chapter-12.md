@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Rimrock's Big Day"
 weight: 12
-aliases:
-  - "/authors/coolidge-dane/rimrock-jones/chapter-12.html"
+url: "/authors/coolidge-dane/rimrock-jones/chapter-12.html"
 ---
 
 The white heat of midsummer settled down on the desert and the rattlesnakes and Gila monsters holed up. As in the frozen East they hibernated in winter to escape the grip of the cold, so in sun-cursed Papagueria, where the Tecolotes lie, they crawled as deep to get away from the heat. But in the Geronimo jail with its dead, fetid air, Rimrock Jones learned to envy the snakes. Out on the stark desert, where the men laid the track, the hot steel burned everything it touched; but the air was clean and in the nights, when he suffocated, they lay cool and looked up at the stars. They did a man's work and drew their pay; he lay in the heat and waited.

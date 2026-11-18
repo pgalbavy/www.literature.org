@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 12 - Richardson Tries Again"
 weight: 28
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-12.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-12.html"
 ---
 
 "You saw--who that was?"

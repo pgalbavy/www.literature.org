@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Crossing"
 weight: 23
-aliases:
-  - "/authors/williams-frank/the-free-range/chapter-23.html"
+url: "/authors/williams-frank/the-free-range/chapter-23.html"
 ---
 
 Darkness had scarcely fallen over the Larkin flocks and herd when the former were set in motion. The bells had been removed and the sheep were urged forward at the fastest possible pace.

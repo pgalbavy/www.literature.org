@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 3 - Secession"
 weight: 11
-aliases:
-  - "/authors/wells-herbert-george/the-new-machiavelli/book-03-chapter-03.html"
+url: "/authors/wells-herbert-george/the-new-machiavelli/book-03-chapter-03.html"
 ---
 
 1

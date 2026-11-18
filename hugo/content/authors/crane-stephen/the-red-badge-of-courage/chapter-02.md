@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/crane-stephen/the-red-badge-of-courage/chapter-02.html"
+url: "/authors/crane-stephen/the-red-badge-of-courage/chapter-02.html"
 ---
 
 THE next morning the youth discovered that his tall comrade had been the fast-flying messen- ger of a mistake. There was much scoffing at the latter by those who had yesterday been firm adherents of his views, and there was even a lit- tle sneering by men who had never believed the rumor. The tall one fought with a man from Chatfield Corners and beat him severely.

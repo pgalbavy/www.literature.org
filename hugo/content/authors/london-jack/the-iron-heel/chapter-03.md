@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Jackson's Arm"
 weight: 4
-aliases:
-  - "/authors/london-jack/the-iron-heel/chapter-03.html"
+url: "/authors/london-jack/the-iron-heel/chapter-03.html"
 ---
 
 Little did I dream the fateful part Jackson's arm was to play in my life. Jackson himself did not impress me when I hunted him out. I found him in a crazy, ramshackle* house down near the bay on the edge of the marsh. Pools of stagnant water stood around the house, their surfaces covered with a green and putrid-looking scum, while the stench that arose from them was intolerable.

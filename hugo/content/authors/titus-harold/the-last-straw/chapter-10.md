@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Matter Of Direction"
 weight: 10
-aliases:
-  - "/authors/titus-harold/the-last-straw/chapter-10.html"
+url: "/authors/titus-harold/the-last-straw/chapter-10.html"
 ---
 
 If Dick Hilton had not been bewildered by passion, jealousy and rage at thwarted desires, he might have known that his horse was not taking the homeward way, and had the horse not been bred and raised by one of Colonel Hunter's mares he might have carried his rider straight back to Ute Crossing.

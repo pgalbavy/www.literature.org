@@ -1,8 +1,7 @@
 ---
 title: "Chapter 90 - The Meeting"
 weight: 90
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-90.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-90.html"
 ---
 
 After Mercedes had left Monte Cristo, he fell into profound gloom. Around him and within him the flight of thought seemed to have stopped; his energetic mind slumbered, as the body does after extreme fatigue. "What?" said he to himself, while the lamp and the wax lights were nearly burnt out, and the servants were waiting impatiently in the anteroom; "what? this edifice which I have been so long preparing, which I have reared with so much care and toil, is to be crushed by a single touch, a word, a breath! Yes, this self, of whom I thought so much, of whom I was so proud, who had appeared so worthless in the dungeons of the Chateau d'If, and whom I had succeeded in making so great, will be but a lump of clay to-morrow. Alas, it is not the death of the body I regret; for is not the destruction of the vital principle, the repose to which everything is tending, to which every unhappy being aspires, - is not this the repose of matter after which I so long sighed, and which I was seeking to attain by the painful process of starvation when Faria appeared in my dungeon? What is death for me? One step farther into rest, - two, perhaps, into silence.

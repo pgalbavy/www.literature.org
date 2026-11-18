@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - An Unexpected Lesson"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-19.html"
 ---
 
 As it was the height of the hunting season, the reports of guns were heard at varying distances through the woods, so that Sam could only judge when they were fired by his friends from their nearness to him.

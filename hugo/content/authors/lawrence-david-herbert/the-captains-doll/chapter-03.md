@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/lawrence-david-herbert/the-captains-doll/chapter-03.html"
+url: "/authors/lawrence-david-herbert/the-captains-doll/chapter-03.html"
 ---
 
 There was a little platform out on the roof, where he used sometimes to stand his telescope and observe the stars or the moon: the moon when possible. It was not a very safe platform, just a little ledge of the roof, outside the window at the end of the top corridor: or rather, the top landing, for it was only the space between the attics. Hannele had the one attic room at the back, he had the room we have seen, and a little bedroom which was really only a lumber room. Before he came, Hannele had been alone under the roof. His rooms were then lumber room and laundry room, where the clothes were dried. But he had wanted to be high up, because of his stars, and this was the place that pleased him.

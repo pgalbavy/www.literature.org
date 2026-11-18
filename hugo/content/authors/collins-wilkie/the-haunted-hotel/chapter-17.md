@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/collins-wilkie/the-haunted-hotel/chapter-17.html"
+url: "/authors/collins-wilkie/the-haunted-hotel/chapter-17.html"
 ---
 
 The Palace Hotel, appealing for encouragement mainly to English and American travellers, celebrated the opening of its doors, as a matter of course, by the giving of a grand banquet, and the delivery of a long succession of speeches.

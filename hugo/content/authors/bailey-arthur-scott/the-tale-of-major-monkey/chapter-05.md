@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Meeting Major Monkey"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-05.html"
 ---
 
 Everybody was prompt when the hour came for Mr. Crow's party. In fact, everybody was ahead of time. Old Mr. Crow had talked so much about his old friend Major Monkey and the Major's gold-braided uniform that people simply couldn't wait to see the stranger and his fine clothes.

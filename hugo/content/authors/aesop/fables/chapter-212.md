@@ -1,8 +1,7 @@
 ---
 title: "The Hawk And The Nightingale"
 weight: 214
-aliases:
-  - "/authors/aesop/fables/chapter-212.html"
+url: "/authors/aesop/fables/chapter-212.html"
 ---
 
 A NIGHTINGALE, sitting aloft upon an oak and singing according to his wont, was seen by a Hawk who, being in need of food, swooped down and seized him. The Nightingale, about to lose his life, earnestly begged the Hawk to let him go, saying that he was not big enough to satisfy the hunger of a Hawk who, if he wanted food, ought to pursue the larger birds. The Hawk, interrupting him, said: "I should indeed have lost my senses if I should let go food ready in my hand, for the sake of pursuing birds which are not yet even within sight."

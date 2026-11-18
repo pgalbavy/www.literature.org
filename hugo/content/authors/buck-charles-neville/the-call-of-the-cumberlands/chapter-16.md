@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-16.html"
+url: "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-16.html"
 ---
 
 The girl stepped forward, and held the weapon finger on trigger, close to her cousin's chest.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/bronte-charlotte/the-professor/chapter-09.html"
+url: "/authors/bronte-charlotte/the-professor/chapter-09.html"
 ---
 
 M. PELET could not of course object to the proposal made by Mdlle. Reuter; permission to accept such additional employment, should it offer, having formed an article of the terms on which he had engaged me. It was, therefore, arranged in the course of next day that I should be at liberty to give lessons in Mdlle. Reuter's establishment four afternoons in every week.

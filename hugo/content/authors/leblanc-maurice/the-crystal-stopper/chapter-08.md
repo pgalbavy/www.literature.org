@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Lovers’ Tower"
 weight: 8
-aliases:
-  - "/authors/leblanc-maurice/the-crystal-stopper/chapter-08.html"
+url: "/authors/leblanc-maurice/the-crystal-stopper/chapter-08.html"
 ---
 
 The torture-chamber showed beneath him. It was a large, irregular room, divided into unequal portions by the four wide, massive pillars that supported its arched roof. A smell of damp and mildew came from its walls and from its flags moistened by the water that trickled from without. Its appearance at any time must have been gruesome. But, at that moment, with the tall figures of Sebastiani and his sons, with the slanting gleams of light that fell between the pillars, with the vision of the captive chained down upon the truckle-bed, it assumed a sinister and barbarous aspect.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 24
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-23.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-23.html"
 ---
 
 Came the crate. Because Del Mar brought it into the baggage-room, Michael was suspicious of it. A minute later his suspicion was justified. Del Mar invited him to go into the crate, and he declined. With a quick deft clutch on the collar at the back of his neck, Del Mar jerked him off his footing and thrust him in, or partly in, rather, because he had managed to get a hold on the edge of the crate with his two fore-paws. The animal trainer wasted no time. He brought the clenched fist of his free hand down in two blows, rat-tat, on Michael's paws. And Michael, at the pain, relaxed both holds. The next instant he was thrust inside, snarling his indignation and rage as he vainly flung himself at the open bars, while Del Mar was locking the stout door.

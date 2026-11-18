@@ -1,8 +1,7 @@
 ---
 title: "Chapter 71 - Bread And Salt"
 weight: 71
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-71.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-71.html"
 ---
 
 Madame de Morcerf entered an archway of trees with her companion. It led through a grove of lindens to a conservatory.

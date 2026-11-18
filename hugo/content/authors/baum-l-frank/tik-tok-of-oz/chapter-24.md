@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 25
-aliases:
-  - "/authors/baum-l-frank/tik-tok-of-oz/chapter-24.html"
+url: "/authors/baum-l-frank/tik-tok-of-oz/chapter-24.html"
 ---
 
 "Well," said Queen Ann, when all were again seated in Kaliko's royal cavern, "I wonder what we shall do next. If I could find my way back to Oogaboo I'd take my army home at once, for I'm sick and tired of these dreadful hardships."

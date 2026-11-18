@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A Portrait And A Temple"
 weight: 9
-aliases:
-  - "/authors/buck-charles-neville/the-portal-of-dreams/chapter-09.html"
+url: "/authors/buck-charles-neville/the-portal-of-dreams/chapter-09.html"
 ---
 
 The night, however, passed without event and morning came bathing the empty edge of the forest with crystal freshness. The scene I still had to myself. My morning journey down to the water's edge for food and bathing was made with the most painful caution and I ate without relish.

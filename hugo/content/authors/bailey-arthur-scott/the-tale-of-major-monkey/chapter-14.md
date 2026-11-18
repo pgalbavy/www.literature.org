@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Throwing Stones"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-14.html"
 ---
 
 Major Monkey never stopped running until he had gone so far that the voices of the picnickers reached him only faintly.

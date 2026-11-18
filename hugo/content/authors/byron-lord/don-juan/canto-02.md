@@ -1,8 +1,7 @@
 ---
 title: "Canto 2"
 weight: 3
-aliases:
-  - "/authors/byron-lord/don-juan/canto-02.html"
+url: "/authors/byron-lord/don-juan/canto-02.html"
 ---
 
 O ye! who teach the ingenuous youth of nations,  

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-29.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-29.html"
 ---
 
 A cold twilight had fallen upon the land when Hamel left the Tower that evening and walked briskly along the foot-way to the Hall. Little patches of mist hung over the creeks, the sky was almost frosty. The lights from St. David's Hall shone like cheerful beacons before him. He hastened up the stone steps, crossed the terrace, and passed into the hall. A servant conducted him at once to the drawing-room. Mrs. Fentolin, in a pink evening dress, with a pink ornament in her hair, held out both her hands. In the background, Mr. Fentolin, in his queerly-cut evening clothes, sat with folded arms, leaning back in his carriage. He listened grimly to his sister-in-law as she stood with Hamel's hands in hers.

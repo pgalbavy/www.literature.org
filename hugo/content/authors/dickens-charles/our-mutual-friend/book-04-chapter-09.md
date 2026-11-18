@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 9 - Two Places Vacated"
 weight: 59
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-04-chapter-09.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-04-chapter-09.html"
 ---
 
 Set down by the omnibus at the corner of Saint Mary Axe, and trusting to her feet and her crutch-stick within its precincts, the dolls’ dressmaker proceeded to the place of business of Pubsey and Co. All there was sunny and quiet externally, and shady and quiet internally. Hiding herself in the entry outside the glass door, she could see from that post of observation the old man in his spectacles sitting writing at his desk.

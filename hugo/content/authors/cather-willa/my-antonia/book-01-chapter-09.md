@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 9"
 weight: 10
-aliases:
-  - "/authors/cather-willa/my-antonia/book-01-chapter-09.html"
+url: "/authors/cather-willa/my-antonia/book-01-chapter-09.html"
 ---
 
 THE FIRST SNOWFALL came early in December. I remember how the world looked from our sitting-room window as I dressed behind the stove that morning: the low sky was like a sheet of metal; the blond cornfields had faded out into ghostliness at last; the little pond was frozen under its stiff willow bushes. Big white flakes were whirling over everything and disappearing in the red grass.

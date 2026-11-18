@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-20.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-20.html"
 ---
 
 No immediate change was made in her life during the days that followed. She sat at her desk, writing letters, referring to notes and lists and answering questions as sweetly and faithfully as she had always done from the first. She tried to remember every detail and she also tried to keep before her mind that she must not let people guess that she was thinking of other things--or rather trying not to think of them. It was as though she stood guard over a dark background of thought, of which others must know nothing. It was a background which belonged to herself and which would always be there. Sometimes when she lifted her eyes she found the Duchess looking at her and then she realised that the Duchess knew it was there too.

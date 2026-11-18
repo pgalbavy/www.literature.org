@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42"
 weight: 42
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-42.html"
+url: "/authors/forster-e-m/howards-end/chapter-42.html"
 ---
 
 When Charles left Ducie Street he had caught the first train home, but had no inkling of the newest development until late at night. Then his father, who had dined alone, sent for him, and in very grave tones inquired for Margaret.

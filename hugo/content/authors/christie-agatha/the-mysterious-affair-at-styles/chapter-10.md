@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Arrest"
 weight: 10
-aliases:
-  - "/authors/christie-agatha/the-mysterious-affair-at-styles/chapter-10.html"
+url: "/authors/christie-agatha/the-mysterious-affair-at-styles/chapter-10.html"
 ---
 
 To my extreme annoyance, Poirot was not in, and the old Belgian who answered my knock informed me that he believed he had gone to London.

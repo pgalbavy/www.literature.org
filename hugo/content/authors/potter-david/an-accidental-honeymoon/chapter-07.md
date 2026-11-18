@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/potter-david/an-accidental-honeymoon/chapter-07.html"
+url: "/authors/potter-david/an-accidental-honeymoon/chapter-07.html"
 ---
 
 At Sandywood, Fessenden was little surprised to learn that Miss Yarnell had been summoned home to Baltimore--on account of sickness in her family.

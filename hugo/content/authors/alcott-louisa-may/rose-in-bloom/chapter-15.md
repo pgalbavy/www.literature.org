@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Alas For Charlie!"
 weight: 16
-aliases:
-  - "/authors/alcott-louisa-may/rose-in-bloom/chapter-15.html"
+url: "/authors/alcott-louisa-may/rose-in-bloom/chapter-15.html"
 ---
 
 In spite of much internal rebellion, Charlie held fast to his resolution, and Aunt Clara, finding all persuasions vain, gave in and in a state of chronic indignation against the world in general and Rose in particular, prepared to accompany him. The poor girl had a hard time of it and, but for her uncle, would have fared still worse. He was a sort of shield upon which Mrs. Clara's lamentations, reproaches, and irate glances fell unavailingly instead of wounding the heart against which they were aimed.

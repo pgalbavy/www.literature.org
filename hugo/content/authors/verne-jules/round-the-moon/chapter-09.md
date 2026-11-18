@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/verne-jules/round-the-moon/chapter-09.html"
+url: "/authors/verne-jules/round-the-moon/chapter-09.html"
 ---
 
 The Consequences of a Deviation" --> Barbicane had now no fear of the issue of the journey, at least as far as the projectile's impulsive force was concerned; its own speed would carry it beyond the neutral line; it would certainly not return to earth; it would certainly not remain motionless on the line of attraction. One single hypothesis remained to be realized, the arrival of the projectile at its destination by the action of the lunar attraction.

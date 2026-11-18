@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Up A Tree"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-25.html"
 ---
 
 "Gracious!" gasped Tom Wagstaff, "let’s run!"

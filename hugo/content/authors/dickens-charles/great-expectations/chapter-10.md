@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-10.html"
+url: "/authors/dickens-charles/great-expectations/chapter-10.html"
 ---
 
 THE felicitous idea occurred to me a morning or two later when I woke, that the best step I could take towards making myself un- common was to get out of Biddy everything she knew. In pur- suance of this luminous conception I mentioned to Biddy when I went to Mr Wopale's great-aunt's at night, that I had a particular reason for wishing to get on in life, and that I should feel very much obliged to her if she would impart all her learning to me. Biddy, who was the most obliging of girls, immediately said she would, and indeed began to carry out her promise within five minutes.

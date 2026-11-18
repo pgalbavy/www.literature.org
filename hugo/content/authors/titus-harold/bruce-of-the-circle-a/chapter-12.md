@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Runaway"
 weight: 12
-aliases:
-  - "/authors/titus-harold/bruce-of-the-circle-a/chapter-12.html"
+url: "/authors/titus-harold/bruce-of-the-circle-a/chapter-12.html"
 ---
 
 During these days Bayard saw Ann regularly. He would be up before dawn that he might do the necessary riding after his cattle and reach Yavapai before sunset, because, somehow, he felt that to see another man's wife by daylight was less of a transgression than though he went under cover of darkness. Perhaps it was also because he feared that in spite of his caution to keep Ann's identity secret, in spite of the community's accepted first conclusion, Yavapai might learn that she was wife and not sister, and wished to fortify her against the sting of comment that might be passed should the revelation occur and his affection for her be guessed.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The English Lord"
 weight: 14
-aliases:
-  - "/authors/coolidge-dane/bat-wing-bowles/chapter-14.html"
+url: "/authors/coolidge-dane/bat-wing-bowles/chapter-14.html"
 ---
 
 A remarkable series of accidents happened to Bat Wing Bowles immediately after his discourtesy to the lady--accidents which seemed to indicate that he had lost his horseshoe as well as the good-will of his associates. For while Bowles had been a raw hand from the start it had early been remarked that horses would not pitch with him--but now, on the very morning after his contretemps, his mount took a fit of bucking which all but landed him in the dirt. A term of years in a military academy, as well as a considerable experience in riding to hounds, had left Bowles a little vain of his horsemanship; but in this emergency he had been compelled to reach down and frankly grab the horn. Otherwise he would have been "piled" before he could recover from the surprise. As it was, he was badly jarred, not only by the shock of the buck-jumps but also by the caustic comments of the cowboys.

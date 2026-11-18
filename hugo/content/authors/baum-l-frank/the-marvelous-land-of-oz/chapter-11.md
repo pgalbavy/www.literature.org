@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-11.html"
+url: "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-11.html"
 ---
 
 Tip awoke soon after dawn, but the Scarecrow had already risen and plucked, with his clumsy fingers, a double-handful of ripe berries from some bushes near by. These the boy ate greedily, finding them an ample breakfast, and afterward the little party resumed its Journey.

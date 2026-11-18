@@ -1,8 +1,7 @@
 ---
 title: "Canto 16"
 weight: 17
-aliases:
-  - "/authors/byron-lord/don-juan/canto-16.html"
+url: "/authors/byron-lord/don-juan/canto-16.html"
 ---
 
 The antique Persians taught three useful things,  

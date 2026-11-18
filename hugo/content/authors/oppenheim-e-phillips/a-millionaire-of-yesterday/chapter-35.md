@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 35
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-35.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-35.html"
 ---
 
 Da Souza's office was neither furnished nor located with the idea of impressing casual visitors. It was in a back-street off an alley, and although within a stone's throw of Lothbury its immediate surroundings were not exhilarating. A blank wall faced it, a green-grocer's shop shared with a wonderful, cellar-like public-house the honour of its more immediate environment. Trent, whose first visit it was, looked about him with surprise mingled with some disgust.

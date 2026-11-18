@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - A Friend, Indeed"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-19.html"
 ---
 
 The next morning Rusty Wren awakened with a start. Somebody was pounding at his door--and shouting his name, as well. He jumped out of bed to see what was the matter. And, looking outside, he beheld Mr. Chippy, with sixteen of his cousins, all very much excited--if one might judge by their actions.

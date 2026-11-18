@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Tea In The Schoolroom"
 weight: 16
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-16.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-16.html"
 ---
 
 Anthony regained the terrace with the feeling uppermost in his mind that the only safe place for private conversations was the middle of the lake.

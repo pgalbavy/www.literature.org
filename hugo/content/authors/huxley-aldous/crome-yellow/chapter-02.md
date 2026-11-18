@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/huxley-aldous/crome-yellow/chapter-02.html"
+url: "/authors/huxley-aldous/crome-yellow/chapter-02.html"
 ---
 
 He took nobody by surprise; there was nobody to take. All was quiet; Denis wandered from room to empty room, looking with pleasure at the familiar pictures and furniture, at all the little untidy signs of life that lay scattered here and there. He was rather glad that they were all out; it was amusing to wander through the house as though one were exploring a dead, deserted Pompeii. What sort of life would the excavator reconstruct from these remains; how would he people these empty chambers? There was the long gallery, with its rows of respectable and (though, of course, one couldn’t publicly admit it) rather boring Italian primitives, its Chinese sculptures, its unobtrusive, dateless furniture. There was the panelled drawing-room, where the huge chintz-covered arm-chairs stood, oases of comfort among the austere flesh-mortifying antiques. There was the morning-room, with its pale lemon walls, its painted Venetian chairs and rococo tables, its mirrors, its modern pictures. There was the library, cool, spacious, and dark, book-lined from floor to ceiling, rich in portentous folios. There was the dining-room, solidly, portwinily English, with its great mahogany table, its eighteenth-century chairs and sideboard, its eighteenth-century pictures—family portraits, meticulous animal paintings. What could one reconstruct from such data? There was much of Henry Wimbush in the long gallery and the library, something of Anne, perhaps, in the morning-room. That was all. Among the accumulations of ten generations the living had left but few traces.

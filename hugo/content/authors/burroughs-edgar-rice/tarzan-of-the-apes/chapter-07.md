@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Light of Knowledge"
 weight: 7
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-07.html"
+url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-07.html"
 ---
 
 After what seemed an eternity to the little sufferer he was able to walk once more, and from then on his recovery was so rapid that in another month he was as strong and active as ever.

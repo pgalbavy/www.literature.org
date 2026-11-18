@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - A New Trade"
 weight: 36
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-35.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-35.html"
 ---
 
 *AFTER* the concert the party went out of the hall, and passed on to a striking mansion in which a sumptuous repast was served. M. Mifroid had by this time become quite intimate with the Lady de Montfort. He confessed that he was unable to withstand the allurements of the lady. It must not be forgotten that the darkness was most conducive to the failure of all his honorable intentions. However, we will not dilate upon what happened, but Mme. de Montfort weakened him with her caresses and M. Mifroid at last succumbed to the temptation. After a while she slept, and he opened the door and went out.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Shaft Of Death"
 weight: 9
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-09.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-09.html"
 ---
 
 AS the huge, man-like gorilla entered the compound the warriors closed the gate, and fell back respectfully as he advanced to the center of the village where he stood for a moment, looking about.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Queer Discovery"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-14.html"
 ---
 
 No one would ever have called Benny Badger a great traveller. He was altogether too heavy to roam far from home upon his short legs. So it often happened that he did not know all that went on in the neighborhood.

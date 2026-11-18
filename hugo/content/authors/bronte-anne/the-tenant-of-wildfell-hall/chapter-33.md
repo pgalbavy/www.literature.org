@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 34
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-33.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-33.html"
 ---
 
 Seventh. - Yes, I will hope! To-night I heard Grimsby and Hattersley grumbling together about the inhospitality of their host. They did not know I was near, for I happened to be standing behind the curtain in the bow of the window, watching the moon rising over the clump of tall dark elm-trees below the lawn, and wondering why Arthur was so sentimental as to stand without, leaning against the outer pillar of the portico, apparently watching it too.

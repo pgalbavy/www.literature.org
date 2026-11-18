@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Of Power, Worth, Dignity, Honour And Worthiness"
 weight: 12
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-10.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-10.html"
 ---
 
 Power The POWER of a Man, (to take it Universally,) is his present means, to obtain some future apparent Good. And is either Originall, or Instrumentall.

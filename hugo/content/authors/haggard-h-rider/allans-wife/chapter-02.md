@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Fire-Fight"
 weight: 3
-aliases:
-  - "/authors/haggard-h-rider/allans-wife/chapter-02.html"
+url: "/authors/haggard-h-rider/allans-wife/chapter-02.html"
 ---
 
 When I had buried my father, and seen a successor installed in his place--for the station was the property of the Society--I set to work to carry out a plan which I had long cherished, but been unable to execute because it would have involved separation from my father. Put shortly, it was to undertake a trading journey of exploration right through the countries now known as the Free State and the Transvaal, and as much further North as I could go. It was an adventurous scheme, for though the emigrant Boers had begun to occupy positions in these territories, they were still to all practical purposes unexplored. But I was now alone in the world, and it mattered little what became of me; so, driven on by the overmastering love of adventure, which, old as I am, will perhaps still be the cause of my death, I determined to undertake the journey.

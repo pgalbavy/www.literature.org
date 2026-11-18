@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 9"
 weight: 27
-aliases:
-  - "/authors/conrad-joseph/romance/part-04-chapter-09.html"
+url: "/authors/conrad-joseph/romance/part-04-chapter-09.html"
 ---
 
 The first thing I noted, on opening my eyes, was that Castro had gone already; I was annoyed. He might have called me. However, we had arranged everything the evening before. The broad day, penetrating through the passage, diffused a semicircle of twilight over the flooring. It extended as far as the emplacement of the fire, black and cold now with a gray heap of ashes in the middle. Farther away in the darkness, beyond the reach of light, Seraphina on her bed of leaves did not stir. But what was that hat doing there? Castro's hat. It asserted its existence more than it ever did on the head of its master; black and rusty, like a battered cone of iron, reposing on a wide flange near the ashes. Then he was not gone. He would not start to walk three leagues, bare-headed. He would appear presently; and I waited, vexed at the loss of time. But he did not appear. "Castro," I cried in an undertone. The leaves rustled; Seraphina sat up.

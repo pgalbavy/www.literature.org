@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-03.html"
 ---
 
 The reputation of the Misses Credell's Young Ladies' Seminary was international and the halo of its history was sanctified by time. It was founded by the grandmother of the estimable sisters, one of the foremost educators of her day, and one who took up the profession of teaching through love for it, since her wealth made her independent for life.

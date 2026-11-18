@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 12"
 weight: 35
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-12.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-12.html"
 ---
 
 Elizabeth awoke the next morning to the same thoughts and meditations which had at length closed her eyes. She could not yet recover from the surprise of what had happened; it was impossible to think of any thing else, and totally indisposed for employment, she resolved soon after breakfast to indulge herself in air and exercise. She was proceeding directly to her favourite walk, when the recollection of Mr. Darcy's sometimes coming there stopped her, and instead of entering the park, she turned up the lane, which led her farther from the turnpike road. The park paling was still the boundary on one side, and she soon passed one of the gates into the ground.

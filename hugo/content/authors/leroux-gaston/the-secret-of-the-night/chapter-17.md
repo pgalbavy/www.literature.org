@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Last Cravat"
 weight: 17
-aliases:
-  - "/authors/leroux-gaston/the-secret-of-the-night/chapter-17.html"
+url: "/authors/leroux-gaston/the-secret-of-the-night/chapter-17.html"
 ---
 
 The gentleman of the Neva said to him: "If you have nothing further to say, we will go into the courtyard."

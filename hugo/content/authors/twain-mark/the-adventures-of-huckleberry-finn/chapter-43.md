@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43"
 weight: 43
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-43.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-43.html"
 ---
 
 THE first time I catched Tom private I asked him what was his idea, time of the evasion? -- what it was he'd planned to do if the evasion worked all right and he managed to set a nigger free that was already free before? And he said, what he had planned in his head from the start, if we got Jim out all safe, was for us to run him down the river on the raft, and have adventures plumb to the mouth of the river, and then tell him about his being free, and take him back up home on a steamboat, in style, and pay him for his lost time, and write word ahead and get out all the niggers around, and have them waltz him into town with a torchlight procession and a brass-band, and then he would be a hero, and so would we. But I reckoned it was about as well the way it was.

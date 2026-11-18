@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - On The Brink"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-02.html"
 ---
 
 Meanwhile young Edwards found himself a stirring actor in a stirring series of events.

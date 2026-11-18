@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Death-Chamber"
 weight: 10
-aliases:
-  - "/authors/leblanc-maurice/the-secret-of-sarek/chapter-09.html"
+url: "/authors/leblanc-maurice/the-secret-of-sarek/chapter-09.html"
 ---
 
 Véronique's estimate was correct, provided that the door opened outwards and that her enemies were at once revealed to view. She therefore examined the door and suddenly observed that, against all logical expectation, it had a large strong bolt at the bottom. Should she make use of it?

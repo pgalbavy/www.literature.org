@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 10"
 weight: 200
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-10.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-10.html"
 ---
 
 After her father's funeral Princess Mary shut herself up in her room and did not admit anyone. A maid came to the door to say that Alpatych was asking for orders about their departure. (This was before his talk with Dron.) Princess Mary raised herself on the sofa on which she had been lying and replied through the closed door that she did not mean to go away and begged to be left in peace.

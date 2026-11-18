@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Giddy Bridge"
 weight: 15
-aliases:
-  - "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-15.html"
+url: "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-15.html"
 ---
 
 JUST for a moment that hostile pause endured. I suppose that both we and the Selenites did some very rapid thinking. My clearest impression was that there was nothing to put my back against, and that we were bound to be surrounded and killed. The overwhelming folly of our presence there loomed over me in black, enormous reproach. Why had I ever launched my self on this mad, inhuman expedition?

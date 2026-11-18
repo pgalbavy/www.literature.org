@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 19
-aliases:
-  - "/authors/baum-l-frank/rinkitink-in-oz/chapter-18.html"
+url: "/authors/baum-l-frank/rinkitink-in-oz/chapter-18.html"
 ---
 
 The White Pearl guided Inga truly in his pursuit of the boat of King Gos, but the boy had been so delayed in sending his people home to Pingaree that it was a full day after Gos and Cor landed on the shore of the Wheeler Country that Inga's boat arrived at the same place.

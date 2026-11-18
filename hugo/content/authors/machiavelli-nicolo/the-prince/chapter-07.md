@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Concerning New Principalities Which Are Acquired Either By The Arms Of Others Or By Good Fortune"
 weight: 8
-aliases:
-  - "/authors/machiavelli-nicolo/the-prince/chapter-07.html"
+url: "/authors/machiavelli-nicolo/the-prince/chapter-07.html"
 ---
 
 Those who solely by good fortune become princes from being private citizens have little trouble in rising, but much in keeping atop; they have not any difficulties on the way up, because they fly, but they have many when they reach the summit. Such are those to whom some state is given either for money or by the favour of him who bestows it; as happened to many in Greece, in the cities of Ionia and of the Hellespont, where princes were made by Darius, in order that they might hold the cities both for his security and his glory; as also were those emperors who, by the corruption of the soldiers, from being citizens came to empire. Such stand simply elevated upon the goodwill and the fortune of him who has elevated them—two most inconstant and unstable things. Neither have they the knowledge requisite for the position; because, unless they are men of great worth and ability, it is not reasonable to expect that they should know how to command, having always lived in a private condition; besides, they cannot hold it because they have not forces which they can keep friendly and faithful.

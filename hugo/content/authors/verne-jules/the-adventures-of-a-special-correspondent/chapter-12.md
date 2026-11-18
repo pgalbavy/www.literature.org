@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-12.html"
+url: "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-12.html"
 ---
 
 Samarkand is situated in the rich oasis watered by the Zarafchane in the valley of Sogd. A small pamphlet I bought at the railway station informs me that this great city is one of the four sites in which geographers "agree" to place the terrestrial paradise. I leave this discussion to the exegetists of the profession.

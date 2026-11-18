@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Wa-Ha-Lote"
 weight: 5
-aliases:
-  - "/authors/coolidge-dane/bat-wing-bowles/chapter-05.html"
+url: "/authors/coolidge-dane/bat-wing-bowles/chapter-05.html"
 ---
 
 The cowboy's day begins early, no matter how he spends his night. It was four o'clock in the morning and Bowles was dead with sleep when suddenly the light of a lantern was thrown in his eyes and he heard the cook's voice rousing up the horse wranglers.

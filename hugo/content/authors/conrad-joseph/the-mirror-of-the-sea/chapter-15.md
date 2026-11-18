@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-15.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-15.html"
 ---
 
 So seemed to think the new captain, who arrived the day after we had finished loading, on the very eve of the day of sailing. I first beheld him on the quay, a complete stranger to me, obviously not a Hollander, in a black bowler and a short drab overcoat, ridiculously out of tone with the winter aspect of the waste-lands, bordered by the brown fronts of houses with their roofs dripping with melting snow.

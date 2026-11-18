@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/daviess-maria-thompson/phyllis/chapter-12.html"
+url: "/authors/daviess-maria-thompson/phyllis/chapter-12.html"
 ---
 
 "Now, see here, Phil, don't give out on the situation like that," said Father, as he slapped me on the back to still the tears while Roxanne hugged me and the Idol still held my hand.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Dodging Danger"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-22.html"
 ---
 
 Soon after Reddy Woodpecker settled in Farmer Green’s orchard he noticed that a certain person often followed him. The stranger wore gray fur and always flourished a long, bushy tail behind him. He could climb trees as well as Reddy Woodpecker himself. And though he couldn’t fly, he was very skillful at leaping from one tree top into another.

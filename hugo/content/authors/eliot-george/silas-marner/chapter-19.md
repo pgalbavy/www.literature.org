@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/eliot-george/silas-marner/chapter-19.html"
+url: "/authors/eliot-george/silas-marner/chapter-19.html"
 ---
 
 Between eight and nine o'clock that evening, Eppie and Silas were seated alone in the cottage. After the great excitement the weaver had undergone from the events of the afternoon, he had felt a longing for this quietude, and had even begged Mrs. Winthrop and Aaron, who had naturally lingered behind every one else, to leave him alone with his child. The excitement had not passed away: it had only reached that stage when the keenness of the susceptibility makes external stimulus intolerable - when there is no sense of weariness, but rather an intensity of inward life, under which sleep is an impossibility. Any one who has watched such moments in other men remembers the brightness of the eyes and the strange definiteness that comes over coarse features from that transient influence. It is as if a new fineness of ear for all spiritual voices had sent wonder-working vibrations through the heavy mortal frame - as if "beauty born of murmuring sound" had passed into the face of the listener.

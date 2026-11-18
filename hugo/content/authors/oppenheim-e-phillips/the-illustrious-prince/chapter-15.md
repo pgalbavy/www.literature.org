@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Penelope Explains"
 weight: 15
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-15.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-15.html"
 ---
 
 Once more Penelope found herself in the library of the great house in Park Lane, where Mr. Blaine-Harvey presided over the interests of his country. This time she came as an uninvited, even an unexpected guest. The Ambassador, indeed, had been fetched away by her urgent message from the reception rooms, where his wife was entertaining a stream of callers. Penelope refused to sit down.

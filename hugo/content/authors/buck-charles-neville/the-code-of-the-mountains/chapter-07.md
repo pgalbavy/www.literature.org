@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-07.html"
+url: "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-07.html"
 ---
 
 Henry Falkins and Lucinda Merton had not kept close count on the flying moments since they had entered the summer-house. The girl had promised to sit out two consecutive dances with him, since to-morrow morning he must go back to the mountains. So, having only a little while and much to say, he had plunged in, and, though his voice was low, his words came tumultuously. Of course, she knew that he was in love with her, but until to-night it had been a thing which had been given no concrete declaration. Except for a glow of confession in her eyes, she had said nothing of loving him. Yet now, when he wished to claim every moment for himself, she had asked him to tell her about his hills and their people, of whom she and her world knew so little.

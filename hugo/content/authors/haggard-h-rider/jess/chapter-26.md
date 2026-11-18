@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Frank Muller’s Familiar"
 weight: 26
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-26.html"
+url: "/authors/haggard-h-rider/jess/chapter-26.html"
 ---
 
 The study of the conflicting elements which go to make up a character like that of Frank Muller, however fascinating it might prove, is not one which can be attempted in detail here. Such a character in its developed form is fortunately well-nigh impossible in a highly civilised country, for the dead weight of the law would crush it back to the level of the human mass around it. But those who have lived in the wild places of the earth will be acquainted with its prototypes, more especially in the countries where a handful of a superior race rule over the dense thousands of an inferior. Solitudes are favourable to the production of strongly marked individualities. The companionship of highly developed men, on the contrary, whittles individualities away; the difference between their growth being the difference between the grown of a tree on a plain and a tree in the forest. On the plain the tree takes the innate bend of its nature. It springs in majesty towards the skies; it spreads itself around, or it slants along the earth, just as Nature intended that it should, and in accordance with the power of the providential breath which bends it. In the forest it is different. There the tree grows towards the light wherever the light may be. Forced to modify its natural habit in obedience to the pressure of circumstances over which it has no command, it takes such form and height as its neighbours will allow it to, all its energies being directed to the preservation of its life in any shape and at any sacrifice.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Why King Constantine Is Neutral"
 weight: 6
-aliases:
-  - "/authors/davis-richard-harding/with-the-french-in-france-and-salonika/chapter-05.html"
+url: "/authors/davis-richard-harding/with-the-french-in-france-and-salonika/chapter-05.html"
 ---
 
 ATHENS, November, 1915.

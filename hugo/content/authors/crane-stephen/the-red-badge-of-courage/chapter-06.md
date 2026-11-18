@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/crane-stephen/the-red-badge-of-courage/chapter-06.html"
+url: "/authors/crane-stephen/the-red-badge-of-courage/chapter-06.html"
 ---
 
 THE youth awakened slowly. He came grad- ually back to a position from which he could re- gard himself. For moments he had been scruti- nizing his person in a dazed way as if he had never before seen himself. Then he picked up his cap from the ground. He wriggled in his jacket to make a more comfortable fit, and kneel- ing relaced his shoe. He thoughtfully mopped his reeking features.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Muskrats' Warning"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-14.html"
 ---
 
 If it hadn't been for Johnnie Green there's no knowing how long the Muley Cow would have had to wear the wooden poke about her neck. Somehow Johnnie Green guessed that she didn't like it. So he teased his father to take the poke off her. And at last Farmer Green consented.

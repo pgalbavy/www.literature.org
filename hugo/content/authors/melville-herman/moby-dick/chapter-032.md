@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - Cetology"
 weight: 32
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-032.html"
+url: "/authors/melville-herman/moby-dick/chapter-032.html"
 ---
 
 Already we are boldly launched upon the deep; but soon we shall be lost in its unshored harborless immensities. Ere that come to pass; ere the Pequod's weedy hull rolls side by side with the barnacled hulls of the leviathan; at the outset it is but well to attend to a matter almost indispensable to a thorough appreciative understanding of the more special leviathanic revelations and allusions of all sorts which are to follow.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Adventures On The Way"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/oonomoo-the-huron/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/oonomoo-the-huron/chapter-06.html"
 ---
 
 The paths which wound 'mid gorgeous trees,  

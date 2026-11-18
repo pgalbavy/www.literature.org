@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Odds And Ends"
 weight: 28
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-28.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-28.html"
 ---
 
 "I've been reading obituary notices," said Miss Cornelia, laying down the Daily Enterprise and taking up her sewing.

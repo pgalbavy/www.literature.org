@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-12.html"
+url: "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-12.html"
 ---
 
 MRS. HERBERT was at home. Her drawing-room had been crowded. Sir Ralph Egerton had paid his first visit, and was more admiring, more devoted than ever. Lily had increased in value in his eyes now that another man had appropriated her. Her desirability was greater because she was out of reach.

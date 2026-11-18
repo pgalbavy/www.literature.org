@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 14
-aliases:
-  - "/authors/chambers-robert-w/cardigan/chapter-13.html"
+url: "/authors/chambers-robert-w/cardigan/chapter-13.html"
 ---
 
 I awoke in a flood of brightest sunshine which poured over the walls of my chamber and bathed the sweet lavender-scented sheets on my bed.

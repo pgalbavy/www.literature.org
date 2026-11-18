@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 21"
 weight: 21
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-02-chapter-21.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-02-chapter-21.html"
 ---
 
 Dismissing his regrets, as inappropriate to the matter in hand, he accomplished the last section of the day by riding off to his new allies. He was glad that he had broken with the club, for he would have picked up scraps of gossip there, and reported them down in the city, and he was glad to be denied this opportunity. He would miss his billiards, and occasional tennis, and cracks with McBryde, but really that was all, so light did he travel. At the entrance of the bazaars, a tiger made his horse shy—a youth dressed up as a tiger, the body striped brown and yellow, a mask over the face. Mohurram was working up. The city beat a good many drums, but seemed good-tempered. He was invited to inspect a small tazia—a flimsy and frivolous erection, more like a crinoline than the tomb of the grandson of the Prophet, done to death at Kerbela. Excited children were pasting coloured paper over its ribs. The rest of the evening he spent with the Nawab Bahadur, Hamidullah, Mahmoud Ali, and others of the confederacy. The campaign was also working up. A telegram had been sent to the famous Amritrao, and his acceptance received. Application for bail was to be renewed—it could not well be withheld now that Miss Quested was out of danger. The conference was serious and sensible, but marred by a group of itinerant musicians, who were allowed to play in the compound. Each held a large earthenware jar, containing pebbles, and jerked it up and down in time to a doleful chant. Distracted by the noise, he suggested their dismissal, but the Nawab Bahadur vetoed it; he said that musicians, who had walked many miles, might bring good luck.

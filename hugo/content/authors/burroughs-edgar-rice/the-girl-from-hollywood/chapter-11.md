@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-11.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-11.html"
 ---
 
 Gaza de Lure was sitting at the piano when Crumb arrived at the bungalow at 1421 Vista del Paso at a little after six in the evening of the last Saturday in July. The smoke from a half burned cigarette lying on the ebony case was rising in a thin, indolent column above the masses of her black hair. Her fingers idled through a dreamy waltz.

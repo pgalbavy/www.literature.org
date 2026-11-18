@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-04.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-04.html"
 ---
 
 Our party, on the 5th of November, passed off very well, in spite of Mrs. Graham's refusal to grace it with her presence. Indeed, it is probable that, had she been there, there would have been less cordiality, freedom, and frolic amongst us than there was without her.

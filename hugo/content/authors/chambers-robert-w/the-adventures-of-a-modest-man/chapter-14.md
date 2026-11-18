@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A State Of Mind"
 weight: 14
-aliases:
-  - "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-14.html"
+url: "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-14.html"
 ---
 
 Up the narrow valley, over the unbroken sweep of treetops, arose tumbled peaks; and above the Golden Dome, pushing straight upward into the flawless blue of heaven, towered a cloud, its inky convolutions edged with silver.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - In The Enemy’s Camp"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/seth-jones/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/seth-jones/chapter-14.html"
 ---
 
 The savages, after starting the fire, allowed it to smolder and die out, for fear of guiding their enemies. Now this was the most fortunate thing that could have happened for their pursuers; for, in the first place, it burned long enough to give them a perfect knowledge of the position of Ina and Seth; and, when its light could no longer be of any assistance, but would materially injure their hopes, the Indians were kind enough to let it fade entirely out.

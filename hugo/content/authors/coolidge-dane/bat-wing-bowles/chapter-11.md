@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Coney Island"
 weight: 11
-aliases:
-  - "/authors/coolidge-dane/bat-wing-bowles/chapter-11.html"
+url: "/authors/coolidge-dane/bat-wing-bowles/chapter-11.html"
 ---
 
 It is wonderful how much a smile, or even a grin, will do for a disconsolate lover. Bowles woke suddenly to the beauties of nature and the wild joy of living; and that evening, instead of dropping into his blankets like a dead man, he tarried by the fire. A chill wind swept in from the frigid north, and the smoke guttered and flurried from the burning logs; but the cowboys sat about in their shirt-sleeves and blinked patiently when they caught the smoke. Inside the bunk-house the noise of the perpetual pitch game told where battles were being lost and won, a secret understanding that every game was worth a quarter on pay-day being the contributing cause for the excitement, since Henry Lee allowed no gambling among his punchers. But outside everybody was either broke or in the hole, and so there was nothing but peace and amity and long-winded arguments.

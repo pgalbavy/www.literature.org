@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Meeting In The Wood"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/a-young-hero/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/a-young-hero/chapter-15.html"
 ---
 
 Fred Sheldon told his good friends that inasmuch as his mother had returned, he would stay at home hereafter, though he promised to drop in upon them quite often and "take dinner or supper."

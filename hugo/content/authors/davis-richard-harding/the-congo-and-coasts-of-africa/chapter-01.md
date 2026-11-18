@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Coasters"
 weight: 1
-aliases:
-  - "/authors/davis-richard-harding/the-congo-and-coasts-of-africa/chapter-01.html"
+url: "/authors/davis-richard-harding/the-congo-and-coasts-of-africa/chapter-01.html"
 ---
 
 No matter how often one sets out, "for to admire, and for to see, for to behold this world so wide," he never quite gets over being surprised at the erratic manner in which "civilization" distributes itself; at the way it ignores one spot upon the earth's surface, and upon another, several thousand miles away, heaps its blessings and its tyrannies. Having settled in a place one might suppose the "influences of civilization" would first be felt by the people nearest that place. Instead of which, a number of men go forth in a ship and carry civilization as far away from that spot as the winds will bear them.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Last Day Of School"
 weight: 10
-aliases:
-  - "/authors/brown-ruth-alberta/the-lilac-lady/chapter-10.html"
+url: "/authors/brown-ruth-alberta/the-lilac-lady/chapter-10.html"
 ---
 
 Peace was panic stricken. Almost at the last minute Miss Peyton had changed her mind about the poem which she was to speak, and had given her instead of "The Children's Hour" which she had so carefully learned, those other lines called "Children"; and there were only five days in which to learn them. Memorizing poetry, particularly when she could not quite understand its meaning, was not Peace's strong forte, and it was small wonder that she was dismayed at this change of program; but it was useless to protest. When Miss Peyton decided to do a certain thing, "all the king's horses and all the king's men" could not alter her decision. Peace had learned this from bitter experience and many hours in the dark closet behind the teacher's desk. So, inwardly raging, though outwardly calm, she accepted her fate, and marched home to air her outraged sense of justice before the little parsonage family, sure of sympathy and help in that quarter. Nor was she disappointed.

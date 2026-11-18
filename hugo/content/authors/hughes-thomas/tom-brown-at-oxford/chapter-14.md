@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Change In The Crew, And What Came Of It"
 weight: 16
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-14.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-14.html"
 ---
 
 It was on a Saturday that the St. Ambrose boat made the first bump, described in our last chapter. On the next Saturday, the day-week after the first success, at nine o'clock in the evening, our hero was at the door of Hardy's rooms. He just stopped for one moment outside, with his hand on the lock, looking a little puzzled, but withal pleased, and then opened the door and entered. The little estrangement which there had been between them for some weeks, had passed away since the races had begun. Hardy had thrown himself into the spirit of them so thoroughly, that he had not only regained all his hold on Tom, but had warmed up the whole crew in his favour, and had mollified the martinet Miller himself. It was he who had managed the starting-rope in every race, and his voice from the towing path had come to be looked upon as a safe guide for clapping on or rowing steady. Even Miller, autocrat as he was, had come to listen for it, in confirmation of his own judgment, before calling on the crew for the final effort.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Yielding Of Ayesha"
 weight: 24
-aliases:
-  - "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-23.html"
+url: "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-23.html"
 ---
 
 When I had satisfied myself, Leo was still at his meal, for loss of blood or the effects of the tremendous nerve tonic which Ayesha ordered to be administered to him, had made him ravenous.

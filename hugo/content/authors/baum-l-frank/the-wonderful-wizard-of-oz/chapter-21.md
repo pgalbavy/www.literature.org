@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Lion Becomes the King of Beasts "
 weight: 22
-aliases:
-  - "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-21.html"
+url: "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-21.html"
 ---
 
 After climbing down from the china wall the travelers found themselves in a disagreeable country, full of bogs and marshes and covered with tall, rank grass. It was difficult to walk without falling into muddy holes, for the grass was so thick that it hid them from sight. However, by carefully picking their way, they got safely along until they reached solid ground. But here the country seemed wilder than ever, and after a long and tiresome walk through the underbrush they entered another forest, where the trees were bigger and older than any they had ever seen.

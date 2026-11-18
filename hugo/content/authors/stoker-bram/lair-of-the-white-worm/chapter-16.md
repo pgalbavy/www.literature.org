@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/stoker-bram/lair-of-the-white-worm/chapter-16.html"
+url: "/authors/stoker-bram/lair-of-the-white-worm/chapter-16.html"
 ---
 
 Caswall was genuinely surprised when he saw Lady Arabella, though he need not have been, after what had already occurred in the same way. The look of surprise on his face was so much greater than Lady Arabella had expected--though she thought she was prepared to meet anything that might occur--that she stood still, in sheer amazement. Cold-blooded as she was and ready for all social emergencies, she was nonplussed how to go on. She was plucky, however, and began to speak at once, although she had not the slightest idea what she was going to say.

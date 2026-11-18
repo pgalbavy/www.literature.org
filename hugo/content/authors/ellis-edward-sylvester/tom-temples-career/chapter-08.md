@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Two Cousins"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-08.html"
 ---
 
 *THE SUPPER* was as excellent as the dinner, and Tom, made hungry by his exertions upon the river, enjoyed it.

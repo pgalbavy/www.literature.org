@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Tired Tim Does A Favor"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-06.html"
 ---
 
 In spite of all Ferdinand Frog's teasing, Tired Tim Beaver refused to explain how he happened to know Mr. Frog's secret.

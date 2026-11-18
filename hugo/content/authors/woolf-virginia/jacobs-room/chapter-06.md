@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/woolf-virginia/jacobs-room/chapter-06.html"
+url: "/authors/woolf-virginia/jacobs-room/chapter-06.html"
 ---
 
 The flames had fairly caught.

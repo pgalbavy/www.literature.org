@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 1"
 weight: 1
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-01-chapter-01.html"
+url: "/authors/buck-charles-neville/destiny/part-01-chapter-01.html"
 ---
 
 The Land of Promise

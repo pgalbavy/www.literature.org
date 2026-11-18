@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Zeb And His Master"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/the-ranger/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/the-ranger/chapter-01.html"
 ---
 
 At the southern part of Ohio, where the river of that name swerves from its south-western course, and makes a sweeping bend toward the north-west, many years ago stood a large and imposing dwelling. Its character, so different and superior to others found here and there along the Ohio, showed that its owner must have been a man both of superior taste and abundant means. It had been built by Sir William Leland, who had emigrated from Europe with his young wife, and erected a home in the western wilderness. Here they lived a goodly number of days; and when, at last, they took their departure within a year of each other, they left behind them a son and daughter to cherish and inherit their home.

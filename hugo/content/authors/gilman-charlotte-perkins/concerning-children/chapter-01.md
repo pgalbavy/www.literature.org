@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Precious Ten"
 weight: 1
-aliases:
-  - "/authors/gilman-charlotte-perkins/concerning-children/chapter-01.html"
+url: "/authors/gilman-charlotte-perkins/concerning-children/chapter-01.html"
 ---
 
 According to our religious belief, the last best work of God is the human race. According to the observation of biologists, the highest product of evolution is the human race. According to our own natural inner conviction, this twofold testimony is quite acceptable: we are the first class.

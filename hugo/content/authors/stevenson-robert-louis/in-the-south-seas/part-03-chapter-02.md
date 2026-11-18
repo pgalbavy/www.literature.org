@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 2 - The Four Brothers"
 weight: 23
-aliases:
-  - "/authors/stevenson-robert-louis/in-the-south-seas/part-03-chapter-02.html"
+url: "/authors/stevenson-robert-louis/in-the-south-seas/part-03-chapter-02.html"
 ---
 
 The kingdom of Tebureimoa includes two islands, Great and Little Makin; some two thousand subjects pay him tribute, and two semi-independent chieftains do him qualified homage. The importance of the office is measured by the man; he may be a nobody, he may be absolute; and both extremes have been exemplified within the memory of residents.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Samuel"
 weight: 7
-aliases:
-  - "/authors/london-jack/the-strength-of-the-strong/chapter-07.html"
+url: "/authors/london-jack/the-strength-of-the-strong/chapter-07.html"
 ---
 
 Margaret Henan would have been a striking figure under any circumstances, but never more so than when I first chanced upon her, a sack of grain of fully a hundredweight on her shoulder, as she walked with sure though tottering stride from the cart-tail to the stable, pausing for an instant to gather strength at the foot of the steep steps that led to the grain-bin. There were four of these steps, and she went up them, a step at a time, slowly, unwaveringly, and with so dogged certitude that it never entered my mind that her strength could fail her and let that hundred-weight sack fall from the lean and withered frame that wellnigh doubled under it. For she was patently an old woman, and it was her age that made me linger by the cart and watch.

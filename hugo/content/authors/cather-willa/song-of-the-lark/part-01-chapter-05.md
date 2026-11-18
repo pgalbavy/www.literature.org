@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 5"
 weight: 5
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-01-chapter-05.html"
+url: "/authors/cather-willa/song-of-the-lark/part-01-chapter-05.html"
 ---
 
 The children in the primary grades were sometimes required to make relief maps of Moonstone in sand. Had they used colored sands, as the Navajo medicine men do in their sand mosaics, they could easily have indicated the social classifications of Moonstone, since these conformed to certain topographical boundaries, and every child understood them perfectly.

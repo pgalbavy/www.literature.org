@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Discords"
 weight: 9
-aliases:
-  - "/authors/wells-herbert-george/ann-veronica/chapter-09.html"
+url: "/authors/wells-herbert-george/ann-veronica/chapter-09.html"
 ---
 
 One afternoon, soon after Ann Veronica's great discovery, a telegram came into the laboratory for her. It ran: --------------------------------------------------- | Bored | and | nothing | to | do | |----------|-----------|----------|--------|--------| | will | you | dine | with | me | |----------|-----------|----------|--------|--------| | to-night | somewhere | and | talk | I | |----------|-----------|----------|--------|--------| | shall | be | grateful | Ramage | | ---------------------------------------------------

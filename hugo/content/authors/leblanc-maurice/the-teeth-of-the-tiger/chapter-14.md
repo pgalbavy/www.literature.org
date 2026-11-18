@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The \"Hater\""
 weight: 14
-aliases:
-  - "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-14.html"
+url: "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-14.html"
 ---
 
 M. Desmalions looked at him without understanding, and looked from him to the ceiling. Perenna said:

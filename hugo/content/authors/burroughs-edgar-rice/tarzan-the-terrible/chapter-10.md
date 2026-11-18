@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Forbidden Garden"
 weight: 10
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-10.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-10.html"
 ---
 
 Lu-don paled. "It is sacrilege," he cried; "for countless ages have the priests of the Great God offered each night a life to the spirit of Jad-ben-Otho as it returned below the western horizon to its master, and never has the Great God given sign that he was displeased."

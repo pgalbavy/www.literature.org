@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39"
 weight: 40
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-39.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-39.html"
 ---
 
 Six weeks later Coombe was driven again up the climbing road to Darreuch. There was something less of colour than usual in his face, but the slightly vivid look of shock observing persons had been commenting upon had died out. As he had travelled, leaning back upon the cushions of the railway carriage, he had kept his eyes closed for the greater part of the journey. When at last he began to open them and look out at the increasingly beautiful country he also began to look rested and calm. He already felt the nearing peace of the shrine and added to it was an immense relaxing and uplift. A girl of a type entirely different from Robin's might, he knew, have made him feel during the past months as if he were taking part in a melodrama. This she had wholly saved him from by the clear simplicity of her natural acceptance of all things as they were. She had taken and given without a word. He was, as it were, going home to her now, as deeply thrilled and moved as a totally different type of man might have gone--a man who was simpler.

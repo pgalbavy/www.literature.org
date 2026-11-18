@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - What Chanced At Ramah"
 weight: 15
-aliases:
-  - "/authors/haggard-h-rider/the-ghost-kings/chapter-14.html"
+url: "/authors/haggard-h-rider/the-ghost-kings/chapter-14.html"
 ---
 
 The news which reached Rachel that Ishmael had been ill after the rough handling of the captains in her presence, was true enough. For many days he was far too ill to travel, and when he recovered sufficiently to start he could only journey slowly to the Tugela.

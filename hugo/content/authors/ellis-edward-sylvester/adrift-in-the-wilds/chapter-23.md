@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Drifting Away"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-23.html"
 ---
 
 The bullet of the treacherous Indian had indeed whizzed harmlessly by the head of Tim O'Rooney and when he fell to the bottom of the canoe it was for the purpose of preventing any more of their missiles passing too near him.

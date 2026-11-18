@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - A Midnight Meal"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-16.html"
 ---
 
 DOWN in the cellar of the farmhouse a fat couple known as Mr. and Mrs. Moses Mouse crept out of a hole under the pantry floor and ran down a post to the cellar bottom.

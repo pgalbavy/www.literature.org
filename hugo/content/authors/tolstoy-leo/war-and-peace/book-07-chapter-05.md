@@ -1,8 +1,7 @@
 ---
 title: "Book 7 - Chapter 5"
 weight: 137
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-07-chapter-05.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-07-chapter-05.html"
 ---
 
 Nicholas Rostov meanwhile remained at his post, waiting for the wolf. By the way the hunt approached and receded, by the cries of the dogs whose notes were familiar to him, by the way the voices of the huntsmen approached, receded, and rose, he realized what was happening at the copse. He knew that young and old wolves were there, that the hounds had separated into two packs, that somewhere a wolf was being chased, and that something had gone wrong. He expected the wolf to come his way any moment. He made thousands of different conjectures as to where and from what side the beast would come and how he would set upon it. Hope alternated with despair. Several times he addressed a prayer to God that the wolf should come his way. He prayed with that passionate and shame-faced feeling with which men pray at moments of great excitement arising from trivial causes. "What would it be to Thee to do this for me?" he said to God. "I know Thou art great, and that it is a sin to ask this of Thee, but for God's sake do let the old wolf come my way and let Karay spring at it- in sight of 'Uncle' who is watching from over there- and seize it by the throat in a death grip!" A thousand times during that half-hour Rostov cast eager and restless glances over the edge of the wood, with the two scraggy oaks rising above the aspen undergrowth and the gully with its water-worn side and "Uncle's" cap just visible above the bush on his right.

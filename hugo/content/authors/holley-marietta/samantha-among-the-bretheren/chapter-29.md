@@ -1,8 +1,7 @@
 ---
 title: "Publisher's Appendix"
 weight: 30
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-29.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-29.html"
 ---
 
 In view of the frequent reference, in this work, to the discussion in and preceding the General Conference of the Methodist Episcopal Church of 1888, in regard to the admission of women delegates, the publishers have deemed it desirable to append the six following addresses delivered on the floor of the Conference during the progress of that discussion.

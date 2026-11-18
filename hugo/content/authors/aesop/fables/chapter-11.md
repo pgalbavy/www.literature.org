@@ -1,8 +1,7 @@
 ---
 title: "The Fisherman Piping"
 weight: 13
-aliases:
-  - "/authors/aesop/fables/chapter-11.html"
+url: "/authors/aesop/fables/chapter-11.html"
 ---
 
 A FISHERMAN skilled in music took his flute and his nets to the seashore. Standing on a projecting rock, he played several tunes in the hope that the fish, attracted by his melody, would of their own accord dance into his net, which he had placed below. At last, having long waited in vain, he laid aside his flute, and casting his net into the sea, made an excellent haul of fish. When he saw them leaping about in the net upon the rock he said: "O you most perverse creatures, when I piped you would not dance, but now that I have ceased you do so merrily."

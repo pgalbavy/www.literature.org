@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-13.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-13.html"
 ---
 
 It is probable that Mrs. Da Souza, excellent wife and mother though she had proved herself to be, had never admired her husband more than when, followed by the malevolent glances of Miss Montressor and her friend, she, with her daughter and Da Souza, re-entered the gates of the Lodge. The young ladies had announced their intention of sitting in the fly until they were allowed speech with their late host; to which he had replied that they were welcome to sit there until doomsday so long as they remained outside his gates. Mr. Da Souza lingered for a moment behind and laid his finger upon his nose.

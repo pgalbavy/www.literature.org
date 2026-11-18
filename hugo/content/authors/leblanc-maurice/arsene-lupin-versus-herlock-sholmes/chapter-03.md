@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Herlock Sholmes Opens Hostilities"
 weight: 3
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin-versus-herlock-sholmes/chapter-03.html"
+url: "/authors/leblanc-maurice/arsene-lupin-versus-herlock-sholmes/chapter-03.html"
 ---
 
 "What does monsieur wish?"

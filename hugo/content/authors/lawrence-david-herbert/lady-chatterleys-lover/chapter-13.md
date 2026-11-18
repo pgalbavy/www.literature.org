@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-13.html"
+url: "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-13.html"
 ---
 
 On Sunday Clifford wanted to go into the wood. It was a lovely morning, the pear-blossom and plum had suddenly appeared in the world in a wonder of white here and there.

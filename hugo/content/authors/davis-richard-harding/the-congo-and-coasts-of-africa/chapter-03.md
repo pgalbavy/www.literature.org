@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Capital Of The Congo"
 weight: 3
-aliases:
-  - "/authors/davis-richard-harding/the-congo-and-coasts-of-africa/chapter-03.html"
+url: "/authors/davis-richard-harding/the-congo-and-coasts-of-africa/chapter-03.html"
 ---
 
 Leopold's "shop" has its front door at Banana. Its house flag is a golden star on a blue background. Banana is the port of entry to the Congo. You have, no doubt, seen many ports of Europe--Antwerp, Hamburg, Boulogne, Lisbon, Genoa, Marseilles. Banana is the port of entry to a country as large as Western Europe, and while the imports and exports of Europe trickle through all these cities, the commerce of the Congo enters and departs entirely at Banana. You can then picture the busy harbor, the jungle of masts, the white bridges and awnings of the steamers. By the fat funnels and the flags you can distinguish the English tramps, the German merchantmen, the French, Dutch, Italian, Portuguese traders, the smart "liners" from Liverpool, even the Arab dhows with bird-wing sails, even the steel, four-masted schooners out of Boston, U.S.A. You can imagine the toiling lighters, the slap-dash tenders, the launches with shrieking whistles.

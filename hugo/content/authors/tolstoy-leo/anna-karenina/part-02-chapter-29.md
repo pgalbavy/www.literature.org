@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 29"
 weight: 63
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-29.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-29.html"
 ---
 
 Every one was loudly expressing disapprobation, every one was repeating a phrase some one had uttered--"The lions and gladiators will be the next thing," and every one was feeling horrified; so that when Vronsky fell to the ground, and Anna moaned aloud, there was nothing very out of the way in it. But afterwards a change came over Anna's face which really was beyond decorum. She utterly lost her head. She began fluttering like a caged bird, at one moment would have got up and moved away, at the next turned to Betsy.

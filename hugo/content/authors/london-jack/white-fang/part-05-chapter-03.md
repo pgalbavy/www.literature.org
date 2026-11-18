@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 3 - The God's Domain"
 weight: 23
-aliases:
-  - "/authors/london-jack/white-fang/part-05-chapter-03.html"
+url: "/authors/london-jack/white-fang/part-05-chapter-03.html"
 ---
 
 Not only was White Fang adaptable by nature, but he had travelled much, and knew the meaning and necessity of adjustment. Here, in Sierra Vista, which was the name of Judge Scott's place, White Fang quickly began to make himself at home. He had no further serious trouble with the dogs. They knew more about the ways of the Southland gods than did he, and in their eyes he had qualified when he accompanied the gods inside the house. Wolf that he was, and unprecedented as it was, the gods had sanctioned his presence, and they, the dogs of the gods, could only recognise this sanction.

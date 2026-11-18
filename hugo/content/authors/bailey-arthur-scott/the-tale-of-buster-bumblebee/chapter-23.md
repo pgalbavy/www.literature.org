@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Making Game Of Old Dog Spot"
 weight: 23
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-23.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-23.html"
 ---
 
 "Where have you been keeping yourself?" Buster Bumblebee cried, the moment he caught sight of Jimmy Rabbit's ears sticking up from behind a head of Farmer Green's lettuce. "It's quite plain that you forgot to meet me, so I might tell you about the raising bee."

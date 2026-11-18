@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Sore Paw"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-10.html"
 ---
 
 Sure enough! Just as Mr. Coyote had promised, he was on hand the next night to "help" Benny Badger catch Ground Squirrels.

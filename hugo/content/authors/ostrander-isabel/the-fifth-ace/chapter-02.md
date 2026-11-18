@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Superfluous Knight-Errant"
 weight: 2
-aliases:
-  - "/authors/ostrander-isabel/the-fifth-ace/chapter-02.html"
+url: "/authors/ostrander-isabel/the-fifth-ace/chapter-02.html"
 ---
 
 Kearn Thode rode back to his hotel with his brain in a whirl. That girl with the sweet, steady eyes and naïve, fearless manner, the product of a gambling-house and associate of its habitués? The thought filled him with repugnance akin to horror. He was in no sense a prig, but although this was his first venture below the Rio Grande, he had spent three years in the roughest corners of the West and he knew the type of women who infested the dance-halls and gambling-joints; unclean camp-followers of the army of Chance.

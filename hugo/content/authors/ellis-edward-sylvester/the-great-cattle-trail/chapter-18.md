@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - An Unexpected Query"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-18.html"
 ---
 
 As long as Captain Shirril stayed near the scuttle, he could not command a view of the entire roof of his cabin. His interest in what was going on below made him anxious to do this, but he was too alive to his own danger to remain motionless for more than a few minutes at a time.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/verne-jules/from-the-earth-to-the-moon/chapter-10.html"
+url: "/authors/verne-jules/from-the-earth-to-the-moon/chapter-10.html"
 ---
 
 The American public took a lively interest in the smallest details of the enterprise of the Gun Club. It followed day by day the discussion of the committee. The most simple preparations for the great experiment, the questions of figures which it involved, the mechanical difficulties to be resolved-- in one word, the entire plan of work-- roused the popular excitement to the highest pitch.

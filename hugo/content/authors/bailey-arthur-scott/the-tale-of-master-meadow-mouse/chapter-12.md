@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - A Midnight Frolic"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-12.html"
 ---
 
 MASTER MEADOW MOUSE had always been pudgy. Before he went to the cornfield to live he had been fat enough. And after he had spent two weeks in and out of his new nest in the cornshock he was a sight to see. His sides bulged. And he had a look as if his skin weren't big enough for him.

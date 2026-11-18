@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Red Ringan"
 weight: 9
-aliases:
-  - "/authors/buchan-john/salute-to-adventurers/chapter-08.html"
+url: "/authors/buchan-john/salute-to-adventurers/chapter-08.html"
 ---
 
 Once at Edinburgh College I had read the Latin tale of Apuleius, and the beginning stuck in my memory: "*Thraciam ex negotio petebam*"—"I was starting off for Thrace on business." That was my case now. I was about to plunge into a wild world for no more startling causes than that I was a trader who wanted to save my pocket. It is to those who seek only peace and a quiet life that adventures fall; the homely merchant, jogging with his pack train, finds the enchanted forest and the sleeping princess; and Saul, busily searching for his father's asses, stumbles upon a kingdom.

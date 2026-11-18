@@ -1,8 +1,7 @@
 ---
 title: "Chapter 61 - The Carmelite Concert At Bethune"
 weight: 62
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-61.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-61.html"
 ---
 
 Great criminals bear bout them a kind of predestination which makes them surmount all obstacles, which makes them escape all dangers, up to the moment which a wearied Providence has marked as the rock of their impious fortunes.

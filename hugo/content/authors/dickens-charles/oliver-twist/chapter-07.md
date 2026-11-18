@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Oliver Continues Refractory"
 weight: 7
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-07.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-07.html"
 ---
 
 Noah Claypole ran along the streets at his swiftest pace, and paused not once for breath, until he reached the workhouse-gate. Having rested here, for a minute or so, to collect a good burst of sobs and an imposing show of tears and terror, he knocked loudly at the wicket; and presented such a rueful face to the aged pauper who opened it, that even he, who saw nothing but rueful faces about him at the best of times, started back in astonishment.

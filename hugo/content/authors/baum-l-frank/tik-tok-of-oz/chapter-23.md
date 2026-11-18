@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 24
-aliases:
-  - "/authors/baum-l-frank/tik-tok-of-oz/chapter-23.html"
+url: "/authors/baum-l-frank/tik-tok-of-oz/chapter-23.html"
 ---
 
 It did not take them long to regain the royal cavern of the Nome King, where Kaliko ordered served to them the nicest refreshments the place afforded.

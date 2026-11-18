@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 4"
 weight: 73
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-03-chapter-04.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-03-chapter-04.html"
 ---
 
 The personal matter that absorbed Levin during his conversation with his brother was this. Once in a previous year he had gone to look at the mowing, and being made very angry by the bailiff he had recourse to his favorite means for regaining his temper,--he took a scythe from a peasant and began mowing.

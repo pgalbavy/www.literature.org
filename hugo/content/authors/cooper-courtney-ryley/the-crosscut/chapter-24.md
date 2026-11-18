@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/cooper-courtney-ryley/the-crosscut/chapter-24.html"
+url: "/authors/cooper-courtney-ryley/the-crosscut/chapter-24.html"
 ---
 
 He stooped and Anita, laughing at her posture, clambered upon his back, her arms about his neck, arms which seemed to shut out the biting blast of the blizzard as he staggered through the high-piled snow and downward to the road. There he continued to carry her; Fairchild found himself wishing that he could carry her forever, and that the road to the sheriff's office were twenty miles away instead of two. But her voice cut in on his wishes.

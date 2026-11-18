@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Loser Of The Race"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-05.html"
 ---
 
 A long, low bridge connects the western projection of Westport with Woolwich on the opposite bank, beyond which spreads Montsweag Bay, narrowing to Back River, which, as has been explained, joins the Sheepscot.

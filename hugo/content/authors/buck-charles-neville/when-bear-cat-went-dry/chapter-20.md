@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-20.html"
+url: "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-20.html"
 ---
 
 When the Jews heard of a Messiah coming as a king they made ready to acclaim him, but when they found him a moralist commanding the sacrifice of their favorite sins, they surrendered him to Pilate and cried out to have Barrabas freed to them.

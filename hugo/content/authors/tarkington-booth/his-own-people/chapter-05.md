@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Lady Mount Rhyswicke"
 weight: 5
-aliases:
-  - "/authors/tarkington-booth/his-own-people/chapter-05.html"
+url: "/authors/tarkington-booth/his-own-people/chapter-05.html"
 ---
 
 The four friends of Madame de Vaurigard were borne to her apartment from the Magnifique in Cooley's big car. They sailed triumphantly down and up the hills in a cool and bracing air, under a moon that shone as brightly for them as it had for Caesar, and Mellin's soul was buoyant within him. He thought of Cranston and laughed aloud. What would Cranston say if it could see him in a sixty-horse touring-car, with two millionaires and an English diplomat, brother of an earl, and all on the way to dine with a countess? If Mary Kramer could see him!... Poor Mary Kramer! Poor little Mary Kramer!

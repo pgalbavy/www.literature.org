@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - How The Yellow Cog Sailed Forth From Lepe"
 weight: 15
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-15.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-15.html"
 ---
 
 THAT night the Company slept at St. Leonard's, in the great monastic barns and spicarium--ground well known both to Alleyne and to John, for they were almost within sight of the Abbey of Beaulieu. A strange thrill it gave to the young squire to see the well-remembered white dress once more, and to hear the measured tolling of the deep vespers bell, At early dawn they passed across the broad, sluggish, reed-girt stream--men, horses, and baggage in the flat ferry barges--and so journeyed on through the fresh morning air past Exbury to Lepe. Topping the heathy down, they came of a sudden full in sight of the old sea-port--a cluster of houses, a trail of blue smoke, and a bristle of masts. To right and left the long blue curve of the Solent lapped in a fringe of foam upon the yellow beach. Some way out from the town a line of pessoners, creyers, and other small craft were rolling lazily on the gentle swell. Further out still lay a great merchant-ship, high ended, deep waisted, painted of a canary yellow, and towering above the fishing-boats like a swan among ducklings.

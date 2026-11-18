@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Animals Or Men?"
 weight: 4
-aliases:
-  - "/authors/burroughs-edgar-rice/the-moon-maid/chapter-03.html"
+url: "/authors/burroughs-edgar-rice/the-moon-maid/chapter-03.html"
 ---
 
 Of course we did not reach all these conclusions in a few moments, but I have given them here merely as the outcome of our deductions following a considerable experience within the Moon. Several miles from the ship rose foothills which climbed picturesquely toward the cloudy heights of the loftier mountains behind them, and as we looked in the direction of these latter, and then out across the forest, there was appreciable to us a strangeness that at first we could not explain, but which we later discovered was due to the fact that there was no horizon, the distance that one could see being dependent solely upon one’s power of vision. The general effect was of being in the bottom of a tremendous bowl, with sides so high that one might not see the top.

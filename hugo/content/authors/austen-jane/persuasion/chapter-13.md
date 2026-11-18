@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/austen-jane/persuasion/chapter-13.html"
+url: "/authors/austen-jane/persuasion/chapter-13.html"
 ---
 
 The remainder of Anne's time at Uppercross, comprehending only two days, was spent entirely at the Mansion House; and she had the satisfaction of knowing herself extremely useful there, both as an immediate companion, and as assisting in all those arrangements for the future, which, in Mr and Mrs Musgrove's distressed state of spirits, would have been difficulties.

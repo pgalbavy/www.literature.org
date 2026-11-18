@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 14
-aliases:
-  - "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-13.html"
+url: "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-13.html"
 ---
 
 E-MED crossed the tower chamber toward Tara of Helium and the slave girl, Lan-O. He seized the former roughly by a shoulder. "Stand!" he commanded. Tara struck his hand from her and rising, backed away.

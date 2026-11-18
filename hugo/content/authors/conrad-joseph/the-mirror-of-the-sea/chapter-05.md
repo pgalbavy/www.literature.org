@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-05.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-05.html"
 ---
 
 From first to last the seaman’s thoughts are very much concerned with his anchors. It is not so much that the anchor is a symbol of hope as that it is the heaviest object that he has to handle on board his ship at sea in the usual routine of his duties. The beginning and the end of every passage are marked distinctly by work about the ship’s anchors. A vessel in the Channel has her anchors always ready, her cables shackled on, and the land almost always in sight. The anchor and the land are indissolubly connected in a sailor’s thoughts. But directly she is clear of the narrow seas, heading out into the world with nothing solid to speak of between her and the South Pole, the anchors are got in and the cables disappear from the deck. But the anchors do not disappear. Technically speaking, they are "secured in-board"; and, on the forecastle head, lashed down to ring-bolts with ropes and chains, under the straining sheets of the head-sails, they look very idle and as if asleep. Thus bound, but carefully looked after, inert and powerful, those emblems of hope make company for the look-out man in the night watches; and so the days glide by, with a long rest for those characteristically shaped pieces of iron, reposing forward, visible from almost every part of the ship’s deck, waiting for their work on the other side of the world somewhere, while the ship carries them on with a great rush and splutter of foam underneath, and the sprays of the open sea rust their heavy limbs.

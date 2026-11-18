@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - “wanted, A Young Person.”"
 weight: 6
-aliases:
-  - "/authors/hodgson-burnett-frances/vagabondia/chapter-06.html"
+url: "/authors/hodgson-burnett-frances/vagabondia/chapter-06.html"
 ---
 
 THEEE was much diligent searching of the advertising columns of the daily papers for several weeks after this. Advertisements, in fact, became the staple literature, and Dolly's zeal in the perusal of them was only to be equalled by her readiness to snatch at the opportunities they presented. No weather was too grewsome for her to confront, and no representation too unpromising for her to be allured by. In the morning she was at Bayswater calling upon the chilling mother of six (four of them boys) whose moral nature needed judicious attention, and who required to be taught the rudiments of French, German, and Latin; in the afternoon she was at the general post-office applying to Q. Y. Z., who had the education of two interesting orphans to negotiate for, and who was naturally desirous of doing it as economically as possible; and at night she was at home, writing modest, business-like epistles to every letter in the alphabet in every conceivable or inconceivable part of the country.

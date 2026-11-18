@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Lost Telegrams"
 weight: 17
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-17.html"
+url: "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-17.html"
 ---
 
 On the morning following the departure of Sam and the boys, Mr. Havens was awakened by laughing voices in the corridor outside his door. His first impression was that Sam and Jimmie had returned from their midnight excursion in the Ann. He arose and, after dressing hastily, opened the door, thinking that the adventures of the night must have been very amusing indeed to leave such a hang-over of merriment for the morning.

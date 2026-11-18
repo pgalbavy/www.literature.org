@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 5"
 weight: 50
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-05-chapter-05.html"
+url: "/authors/cather-willa/song-of-the-lark/part-05-chapter-05.html"
 ---
 
 THEA was to sail on Tuesday, at noon, and on Saturday Fred Ottenburg arranged for her passage, while she and Dr. Archie went shopping. With rugs and sea-clothes she was already provided; Fred had got everything of that sort she needed for the voyage up from Vera Cruz. On Sunday afternoon Thea went to see the Harsanyis. When she returned to her hotel, she found a note from Ottenburg, saying that he had called and would come again to-morrow.

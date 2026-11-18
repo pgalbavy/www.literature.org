@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 4 - Barney Finds A Friend"
 weight: 4
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mad-king/part-01-chapter-04.html"
+url: "/authors/burroughs-edgar-rice/the-mad-king/part-01-chapter-04.html"
 ---
 
 After the party had left the room Maenck stood looking at the princess for several seconds. A cunning expression supplanted the anger that had shown so plainly upon his face but a moment before. The girl had moved to one side of the apartment and was pretending an interest in a large tapestry that covered the wall at that point. Maenck watched her with greedy eyes. Presently he spoke.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/tarkington-booth/the-guest-of-quesnay/chapter-14.html"
+url: "/authors/tarkington-booth/the-guest-of-quesnay/chapter-14.html"
 ---
 
 "Ha, these philosophers," said the professor, expanding in discourse a little later—"these dreamy people who talk of the spirit, they tell you that spirit is abstract!" He waved his great hand in a sweeping semicircle which carried it out of our orange candle-light and freckled it with the cold moonshine which sieved through the loosened screen of honeysuckle. "Ha, the folly!"

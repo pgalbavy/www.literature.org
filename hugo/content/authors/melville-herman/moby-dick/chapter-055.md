@@ -1,8 +1,7 @@
 ---
 title: "Chapter 55 - Of the Monstrous Pictures of Whales"
 weight: 55
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-055.html"
+url: "/authors/melville-herman/moby-dick/chapter-055.html"
 ---
 
 I shall ere long paint to you as well as one can without canvas, something like the true form of the whale as he actually appears to the eye of the whaleman when in his own absolute body the whale is moored alongside the whaleship so that he can be fairly stepped upon there. It may be worth while, therefore, previously to advert to those curious imaginary portraits of him which even down to the present day confidently challenge the faith of the landsman. It is time to set the world right in this matter, by proving such pictures of the whale all wrong.

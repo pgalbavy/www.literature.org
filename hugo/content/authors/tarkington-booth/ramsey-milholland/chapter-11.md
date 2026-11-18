@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/tarkington-booth/ramsey-milholland/chapter-11.html"
+url: "/authors/tarkington-booth/ramsey-milholland/chapter-11.html"
 ---
 
 "If I *could* do it," he vociferated, "if I *could* stand up there and debate one o' their darn ole debates in the first place—if I had the gall to even try it, why, my gosh! you don't suppose I'm goin' to get up there and argue with *that girl*, do you? That's a hot way to get an education: stand up there and argue with a girl before a couple o' hundred people! My *gosh!*"

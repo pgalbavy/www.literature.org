@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-31.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-31.html"
 ---
 
 A special train from Southampton had just steamed into Waterloo with the passengers from the Royal Mail steamer Ophir. Little groups of sunburnt men were greeting old friends upon the platform, surrounded by piles of luggage, canvas trunks and steamer chairs. The demand for hansoms was brisk, cab after cab heavily loaded was rolling out of the yard. There were grizzled men and men of fair complexion, men in white helmets and puggarees, and men in silk hats. All sorts were represented there, from the successful diamond digger who was spasmodically embracing a lady in black jet of distinctly Jewish proclivities, to a sporting lord who had been killing lions. For a few minutes the platforms were given over altogether to a sort of pleasurable confusion, a vivid scene, full of colour and human interest. Then the people thinned away, and, very nearly last of all, a wizened-looking, grey-headed man, carrying a black bag and a parcel, left the platform with hesitating footsteps and turned towards the bridge. He was followed almost immediately by Hiram Da Souza, who, curiously enough, seemed to have been on the platform when the train came in and to have been much interested in this shabby, lonely old man, who carried himself like a waif stranded in an unknown land. Da Souza was gorgeous in frock coat and silk hat, a carnation in his buttonhole, a diamond in his black satin tie, yet he was not altogether happy. This little man hobbling along in front represented fate to him. On the platform at Waterloo he had heard him timidly ask a bystander the way to the offices of the Bekwando Land and Gold Exploration Company, Limited. If ever he got there, what would be the price of Bekwando shares on the morrow?

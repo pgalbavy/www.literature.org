@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Man Behind"
 weight: 23
-aliases:
-  - "/authors/dorrance-ethel-and-james/lonesome-town/chapter-23.html"
+url: "/authors/dorrance-ethel-and-james/lonesome-town/chapter-23.html"
 ---
 
 Pape’s ride down from the height of No-Man’s Land was rapid as his advisedly devious course would allow—rapid from his desire to communicate his steer-led discovery to Jane Lauderdale with the least possible delay and devious for two reasons. He did not wish to attract the attention of the treasure blasters until after the girl had looked them over. And he did not wish to fall into the hands of the police who had hauled his run-amuck escutcheon out of the lake and taken him in charge.

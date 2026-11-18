@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - One Way To Keep Warm"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-21.html"
 ---
 
 After making his strange wish about his eighteen cousins--that they would sleep straight through the winter--Dickie Deer Mouse crawled out of bed. The sleepers filled the chamber so full that Dickie had to step into the hall before he could stretch himself.

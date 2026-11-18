@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-23.html"
+url: "/authors/dickens-charles/great-expectations/chapter-23.html"
 ---
 
 MR POCKET said he was glad to see me, and he hoped I was not sorry to see him. 'For, I really am not,' he added, with his son's smile, 'an alarming personage.' He was a young-looking man, in spite of his perplexities and his very grey hair, and his manner seemed quite natural. I use the word natural, in the sense of its being unaffected; there was something comic in his distraught way, as though it would have been downright ludicrous but for his own perception that it was very near being so. When he had talked with me a little, he said to Mrs Pocket, with a rather anxious contraction of his eyebrows, which were black and handsome, 'Belinda, I hope you have welcomed Mr Pip?' And she looked up from her book, and said, 'Yes.' She then smiled upon me in an absent state of mind, and asked me if I liked the taste of orange-flower water? As the question had no bearing, near or remote, on any foregone or subsequent transaction, I consider it to have been thrown out, like her previous approaches, in general conversational condescension.

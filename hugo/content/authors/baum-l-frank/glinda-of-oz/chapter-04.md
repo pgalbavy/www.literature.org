@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/baum-l-frank/glinda-of-oz/chapter-04.html"
+url: "/authors/baum-l-frank/glinda-of-oz/chapter-04.html"
 ---
 
 "Well," said Dorothy with a laugh, "that was easier than I expected. It's worth while, sometimes, to be a real fairy. But I wouldn't like to be that kind, and live in a dreadful fog all the time."

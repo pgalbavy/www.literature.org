@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Chatterer Finds A Home"
 weight: 5
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-05.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-05.html"
 ---
 
 When your plans are upset and all scattered about  

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Hot Scent"
 weight: 11
-aliases:
-  - "/authors/williams-frank/the-wilderness-trail/chapter-11.html"
+url: "/authors/williams-frank/the-wilderness-trail/chapter-11.html"
 ---
 
 Without a word, Rainy made preparations for moving. A lesser woodsman or lazier servant would have demurred, for, while the blizzard lasted, there was scarcely a chance in a million that any searcher from the fort would find their hiding-place. Even now, the newcomer's tracks were already wiped clean from the white page of the snow.

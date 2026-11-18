@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Milkman Sets Out On His Travels"
 weight: 3
-aliases:
-  - "/authors/buchan-john/the-thirty-nine-steps/chapter-02.html"
+url: "/authors/buchan-john/the-thirty-nine-steps/chapter-02.html"
 ---
 
 I sat down in an armchair and felt very sick. That lasted for maybe five minutes, and was succeeded by a fit of the horrors. The poor staring white face on the floor was more than I could bear, and I managed to get a table-cloth and cover it. Then I staggered to a cupboard, found the brandy and swallowed several mouthfuls. I had seen men die violently before; indeed I had killed a few myself in the Matabele War; but this cold-blooded indoor business was different. Still I managed to pull myself together. I looked at my watch, and saw that it was half-past ten.

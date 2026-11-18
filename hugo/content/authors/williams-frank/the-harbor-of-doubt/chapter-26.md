@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Wetting Their Salt"
 weight: 26
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-26.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-26.html"
 ---
 
 Pete Ellinwood, alone except for the cook, who sat peeling potatoes just outside the galley, paced the quarter-deck of the Charming Lass.

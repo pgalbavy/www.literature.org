@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Feast At Farmer Green's"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-19.html"
 ---
 
 In spite of his disappointment at not seeing the raising bee (that new kind of bee that Jimmy Rabbit had told him about) Buster Bumblebee decided that he would stay at Farmer Green's place and watch the men put up the frame of the new barn. He remembered that Jimmy had said there would be things to eat afterwards--and maybe a dance, besides.

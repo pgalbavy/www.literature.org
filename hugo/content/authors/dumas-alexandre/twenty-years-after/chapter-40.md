@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40 - Uncle And Nephew"
 weight: 40
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-40.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-40.html"
 ---
 
 The horse and servant belonging to De Winter were waiting for him at the door; he proceeded toward his abode very thoughtfully, looking behind him from time to him to contemplate the dark and silent frontage of the Louvre. It was then that he saw a horseman, as it were, detach himself from the wall and follow him at a little distance. In leaving the Palais Royal he remembered to have observed a similar shadow.

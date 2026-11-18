@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/crane-stephen/the-red-badge-of-courage/chapter-23.html"
+url: "/authors/crane-stephen/the-red-badge-of-courage/chapter-23.html"
 ---
 
 THE colonel came running along back of the line. There were other officers following him. "We must charge'm!" they shouted. "We must charge'm!" they cried with resentful voices, as if anticipating a rebellion against this plan by the men.

@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 17"
 weight: 246
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-17.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-17.html"
 ---
 
 Before two o'clock in the afternoon the Rostovs' four carriages, packed full and with the horses harnessed, stood at the front door. One by one the carts with the wounded had moved out of the yard.

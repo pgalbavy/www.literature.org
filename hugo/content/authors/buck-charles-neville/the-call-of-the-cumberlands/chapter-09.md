@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-09.html"
+url: "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-09.html"
 ---
 
 Lescott had come to the mountains anticipating a visit of two weeks. His accident had resolved him to shorten it to the nearest day upon which he felt capable of making the trip out to the railroad. Yet, June had ended; July had burned the slopes from emerald to russet-green; August had brought purple tops to the ironweed, and still he found himself lingering. And this was true although he recognized a growing sentiment of disapproval for himself. He knew indubitably that he stood charged with the offense for which Socrates was invited to drink the hemlock: "corrupting the morals of the youth, and teaching strange gods." Feeling the virtue of his teaching, he was unwilling as Socrates to abandon the field. In Samson he thought he recognized twin gifts: a spark of a genius too rare to be allowed to flicker out, and a potentiality for constructive work among his own people, which needed for its perfecting only education and experience. Having aroused a soul's restiveness in the boy, he felt a direct responsibility for it and him, to which he added a deep personal regard. Though the kinsmen looked upon him as an undesirable citizen, bringing teachings which they despised, the hospitality of old Spicer South continued unbroken and a guarantee of security on Misery.

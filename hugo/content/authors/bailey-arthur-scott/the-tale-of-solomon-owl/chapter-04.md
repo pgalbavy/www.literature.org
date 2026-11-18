@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - An Odd Bargain"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-04.html"
 ---
 
 While Mr. Frog was swallowing nothing rapidly, he was thinking rapidly, too. There was something about Solomon Owl’s big, staring eyes that made Mr. Frog feel uncomfortable. And if he had thought he had any chance of escaping he would have dived into the brook and swum under the bank.

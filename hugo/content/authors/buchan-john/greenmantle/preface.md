@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/buchan-john/greenmantle/preface.html"
+url: "/authors/buchan-john/greenmantle/preface.html"
 ---
 
 To Caroline Grosvenor

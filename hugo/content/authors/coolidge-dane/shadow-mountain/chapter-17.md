@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Peace--And The Price"
 weight: 17
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-17.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-17.html"
 ---
 
 In the justice court at Vegas the Widow Huff met her match in the person of the magistrate, who warned her peremptorily that if she interrupted again he would commit her for contempt of court. Then the bailiff smote his desk a resounding blow and there was silence in the presence of the law. It was a new thing to her, this power called the law and that accuser of all offenders, The People; and before she had finished she learned the great truth that no one is above the law. It governs us all and, but for the mercy of the courts, would land most of our hot-heads in jail. But though it was proved beyond the peradventure of a doubt that the Widow had attempted violence it was tacitly understood that, being a woman, there would be no actual commitment.

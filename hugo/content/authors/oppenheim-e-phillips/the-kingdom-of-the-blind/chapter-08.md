@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-08.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-08.html"
 ---
 
 In a way, their meeting the next morning was fortuitous enough, yet it had also its significance for both of them. Geraldine's greeting was almost studiously formal.

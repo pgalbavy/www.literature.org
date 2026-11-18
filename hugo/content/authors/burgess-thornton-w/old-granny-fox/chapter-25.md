@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - A Dinner For Two"
 weight: 25
-aliases:
-  - "/authors/burgess-thornton-w/old-granny-fox/chapter-25.html"
+url: "/authors/burgess-thornton-w/old-granny-fox/chapter-25.html"
 ---
 
 Dark deeds are done in the stilly night,  

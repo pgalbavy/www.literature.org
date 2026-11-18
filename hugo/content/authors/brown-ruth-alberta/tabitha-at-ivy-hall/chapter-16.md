@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Madame's Advice"
 weight: 16
-aliases:
-  - "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-16.html"
+url: "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-16.html"
 ---
 
 One bright, warm, November day—for such days are the usual order in sunny California —Tabitha stood at the little window in one end of the long corridor, looking disconsolately down into the garden, shimmering in its rain-washed greenness, and thinking of the approaching holidays and her own slender purse. The other girls were making such elaborate gifts for each other, to say nothing of the beautiful things laid by for the home folks and friends, and she felt keenly the fact that she would have so little to offer. To be sure, there were few to remember outside the school circle of girls and teachers, but she longed as never before to do as the others did and have what they had.

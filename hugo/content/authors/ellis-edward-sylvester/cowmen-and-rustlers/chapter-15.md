@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The \"Dog Indians.\""
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-15.html"
 ---
 
 Weber was right in his declaration that the parties who were stampeding a part of the herd were Indians. They were two in number, both superbly mounted, and dashing back and forth with great swiftness, as they urged the animals to a frantic flight. They knew the danger of pursuit and the value of time.

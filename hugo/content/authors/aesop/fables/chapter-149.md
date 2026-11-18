@@ -1,8 +1,7 @@
 ---
 title: "The Peasant And The Eagle"
 weight: 151
-aliases:
-  - "/authors/aesop/fables/chapter-149.html"
+url: "/authors/aesop/fables/chapter-149.html"
 ---
 
 A PEASANT found an Eagle captured in a trap, and much admiring the bird, set him free. The Eagle did not prove ungrateful to his deliverer, for seeing the Peasant sitting under a wall which was not safe, he flew toward him and with his talons snatched a bundle from his head. When the Peasant rose in pursuit, the Eagle let the bundle fall again. Taking it up, the man returned to the same place, to find that the wall under which he had been sitting had fallen to pieces; and he marveled at the service rendered him by the Eagle.

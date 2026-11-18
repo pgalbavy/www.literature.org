@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - A Man-Talk"
 weight: 20
-aliases:
-  - "/authors/london-jack/adventure/chapter-20.html"
+url: "/authors/london-jack/adventure/chapter-20.html"
 ---
 
 The most patient man in the world is prone to impatience in love-- and Sheldon was in love. He called himself an ass a score of times a day, and strove to contain himself by directing his mind in other channels, but more than a score of times each day his thoughts roved back and dwelt on Joan. It was a pretty problem she presented, and he was continually debating with himself as to what was the best way to approach her.

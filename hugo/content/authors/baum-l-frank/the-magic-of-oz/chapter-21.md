@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 22
-aliases:
-  - "/authors/baum-l-frank/the-magic-of-oz/chapter-21.html"
+url: "/authors/baum-l-frank/the-magic-of-oz/chapter-21.html"
 ---
 
 Dorothy and her friends arrived at the Royal Palace at an opportune time, for Ozma was holding high court in her Throne Room, where Professor H. M. Wogglebug, T.E., was appealing to her to punish some of the students of the Royal Athletic College, of which he was the Principal.

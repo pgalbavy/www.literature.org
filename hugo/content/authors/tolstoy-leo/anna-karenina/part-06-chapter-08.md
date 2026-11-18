@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 8"
 weight: 165
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-08.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-08.html"
 ---
 
 Next day, before the ladies were up, the wagonette and a trap for the shooting-party were at the door, and Laska, aware since early morning that they were going shooting, after much whining and darting to and fro, had sat herself down in the wagonette beside the coachman, and, disapproving of the delay, was excitedly watching the door from which the sportsmen still did not come out. The first to come out was Vassenka Veslovsky, in new high boots that reached half-way up his thick thighs, in a green blouse, with a new Russian leather cartridge-belt, and in his Scotch cap with ribbons, with a brand-new English gun without a sling. Laska flew up to him, welcomed him, and jumping up, asked him in her own way whether the others were coming soon, but getting no answer from him, she returned to her post of observation and sank into repose again, her head on one side, and one ear pricked up to listen. At last the door opened with a creak, and Stepan Arkadyevitch's spot-andtan pointer Krak flew out, running round and round and turning over in the air. Stepan Arkadyevitch himself followed with a gun in his hand and a cigar in his mouth.

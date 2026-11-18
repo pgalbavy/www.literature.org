@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-29.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-29.html"
 ---
 
 "A lady to see you, sir," Jarvis announced discreetly.

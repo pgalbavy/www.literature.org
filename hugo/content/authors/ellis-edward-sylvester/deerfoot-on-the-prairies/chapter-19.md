@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - A Calamity"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-19.html"
 ---
 
 IT seemed too good to be true, and yet all doubt vanished with the words spoken by the Blackfoot.

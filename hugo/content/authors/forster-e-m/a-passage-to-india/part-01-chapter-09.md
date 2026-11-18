@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 9"
 weight: 9
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-01-chapter-09.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-01-chapter-09.html"
 ---
 
 Aziz fell ill as he foretold—slightly ill. Three days later he lay abed in his bungalow, pretending to be very ill. It was a touch of fever, which he would have neglected if there was anything important at the hospital. Now and then he groaned and thought he should die, but did not think so for long, and a very little diverted him. It was Sunday, always an equivocal day in the East, and an excuse for slacking. He could hear church bells as he drowsed, both from the civil station and from the missionaries out beyond the slaughter house—different bells and rung with different intent, for one set was calling firmly to Anglo-India, and the other feebly to mankind. He did not object to the first set; the other he ignored, knowing their inefficiency. Old Mr. Graysford and young Mr. Sorley made converts during a famine, because they distributed food; but when times improved they were naturally left alone again, and though surprised and aggrieved each time this happened, they never learnt wisdom. “No Englishman understands us except Mr. Fielding,” he thought; “but how shall I see him again? If he entered this room the disgrace of it would kill me.” He called to Hassan to clear up, but Hassan, who was testing his wages by ringing them on the step of the verandah, found it possible not to hear him; heard and didn’t hear, just as Aziz had called and hadn’t called. “That’s India all over . . . how like us . . . there we are . . .” He dozed again, and his thoughts wandered over the varied surface of life.

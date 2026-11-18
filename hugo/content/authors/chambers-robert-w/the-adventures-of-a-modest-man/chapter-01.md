@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Concerning Two Gentlemen From Long Island, Destiny, And A Pot Of Black Paint"
 weight: 1
-aliases:
-  - "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-01.html"
+url: "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-01.html"
 ---
 
 "Hello, old man!" he began.

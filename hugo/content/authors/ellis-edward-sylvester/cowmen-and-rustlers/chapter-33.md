@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - The Prisoner"
 weight: 33
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-33.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-33.html"
 ---
 
 It may be said that Monteith Sterry's main hope for the success of his perilous scheme lay in its boldness.

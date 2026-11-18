@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/tarkington-booth/harlequin-and-columbine/chapter-10.html"
+url: "/authors/tarkington-booth/harlequin-and-columbine/chapter-10.html"
 ---
 
 "Your overcoat, Mr. Potter!" called that faithful servitor as Potter was going out through the theatre with old Tinker and Canby. "You've forgotten your overcoat, sir."

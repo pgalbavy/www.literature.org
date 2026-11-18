@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Truce"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-20.html"
 ---
 
 It was a dignified proceeding on the part of Monteith Sterry, and the rustler possessed enough gentlemanly instinct to appreciate the feelings of the young man, who had attested his courage too often for any one to question it. But at the moment of wheeling his mare to ride off both caught the sound of approaching horsemen, and Sterry checked his animal.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-07.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-07.html"
 ---
 
 At last, after three days of variable winds, we have caught the north-east trades. I came on deck, after a good night's rest in spite of my poor knee, to find the Ghost foaming along, wing-and- wing, and every sail drawing except the jibs, with a fresh breeze astern. Oh, the wonder of the great trade-wind! All day we sailed, and all night, and the next day, and the next, day after day, the wind always astern and blowing steadily and strong. The schooner sailed herself. There was no pulling and hauling on sheets and tackles, no shifting of topsails, no work at all for the sailors to do except to steer. At night when the sun went down, the sheets were slackened; in the morning, when they yielded up the damp of the dew and relaxed, they were pulled tight again - and that was all.

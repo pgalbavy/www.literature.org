@@ -1,8 +1,7 @@
 ---
 title: "Chapter 56 - Alban Sees His Way"
 weight: 56
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-56.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-56.html"
 ---
 
 During the first days of Mirabel's sojourn at his hotel in London, events were in progress at Netherwoods, affecting the interests of the man who was the especial object of his distrust. Not long after Miss Ladd had returned to her school, she heard of an artist who was capable of filling the place to be vacated by Alban Morris. It was then the twenty-third of the month. In four days more the new master would be ready to enter on his duties; and Alban would be at liberty.

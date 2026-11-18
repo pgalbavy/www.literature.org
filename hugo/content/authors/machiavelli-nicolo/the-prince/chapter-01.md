@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - How Many Kinds Of Principalities There Are, And By What Means They Are Acquired"
 weight: 2
-aliases:
-  - "/authors/machiavelli-nicolo/the-prince/chapter-01.html"
+url: "/authors/machiavelli-nicolo/the-prince/chapter-01.html"
 ---
 
 All states, all powers, that have held and hold rule over men have been and are either republics or principalities.

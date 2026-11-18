@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Prologue Ends"
 weight: 24
-aliases:
-  - "/authors/chambers-robert-w/the-danger-mark/chapter-24.html"
+url: "/authors/chambers-robert-w/the-danger-mark/chapter-24.html"
 ---
 
 "Your sister," observed Dr. Bailey to Scott Seagrave, "must be constructed of India-rubber. There's nothing whatever the matter with her spine or with her interior. The slight trace of concussion is disappearing; there's no injury to the skull; nothing serious to apprehend. Her body will probably be black and blue for a week or two; she'll doubtless prefer to remain in bed to-morrow and next day. And that is the worst news I have to tell you."

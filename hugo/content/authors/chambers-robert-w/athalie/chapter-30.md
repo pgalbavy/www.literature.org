@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-30.html"
+url: "/authors/chambers-robert-w/athalie/chapter-30.html"
 ---
 
 Lights yet burned on the lower floors and behind the drawn blinds of Athalie's room. The night was quiet and soft and lovely; the moon still young in its first quarter.

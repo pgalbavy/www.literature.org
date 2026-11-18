@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-09.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-09.html"
 ---
 
 Considering the crowded state of the waiting-room and the number of highly important people who were there for the same purpose, Surgeon-Major Thomson seemed to have remarkably little difficulty in procuring the interview he desired. He was conducted by a boy scout into a room on the second floor of the War Office, within a few minutes of his arrival. A tall, grey-haired man in the uniform of a general looked up and nodded with an air of intimacy as soon as the door had been closed.

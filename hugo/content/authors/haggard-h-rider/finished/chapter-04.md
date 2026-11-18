@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Doctor Rodd"
 weight: 5
-aliases:
-  - "/authors/haggard-h-rider/finished/chapter-04.html"
+url: "/authors/haggard-h-rider/finished/chapter-04.html"
 ---
 
 I did get a little sleep that night, with one eye open, but before dawn I was up again seeing to the feeding of our remaining horse with some mealies that we carried, and other matters. The oxen we had been obliged to unyoke that they might fill themselves with grass and water, since otherwise I feared that we should never get them on to their feet again. As it was, the poor brutes were so tired that some of them could scarcely eat, and all lay down at the first opportunity.

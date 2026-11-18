@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - A Change Of Plan"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-22.html"
 ---
 
 *THE* summer was well advanced when Mul-tal-la, Deerfoot and the Shelton boys drew rein in the Rocky Mountains, south of the stream known as Medicine River, and far to the northward of the headwaters of the Yellowstone.

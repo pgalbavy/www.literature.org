@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 33
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-33.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-33.html"
 ---
 
 In which Phileas Fogg shows himself equal to the occasion

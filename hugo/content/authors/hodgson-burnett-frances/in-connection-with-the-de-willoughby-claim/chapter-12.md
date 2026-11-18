@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-12.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-12.html"
 ---
 
 The New England town of Willowfield was a place of great importance. Its importance--religious, intellectual, and social--was its strong point. It took the liberty of asserting this with unflinching dignity. Other towns might endeavour to struggle to the front, and, indeed, did so endeavour, but Willowfield calmly held its place and remained unmoved. Its place always had been at the front from the first, and there it took its stand. It had, perhaps, been hinted that its sole title to this position lay in its own stately assumption: but this, it may be argued, was sheer envy and entirely unworthy of notice.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Liking Life On My Own Account No Better, I Form A Great Resolution"
 weight: 13
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-12.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-12.html"
 ---
 
 In due time, Mr. Micawber’s petition was ripe for hearing; and that gentleman was ordered to be discharged under the Act, to my great joy. His creditors were not implacable; and Mrs. Micawber informed me that even the revengeful boot-maker had declared in open court that he bore him no malice, but that when money was owing to him he liked to be paid. He said he thought it was human nature.

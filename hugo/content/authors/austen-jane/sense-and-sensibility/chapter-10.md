@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-10.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-10.html"
 ---
 
 Marianne's preserver, as Margaret, with more elegance than precision, styled Willoughby, called at the cottage early the next morning to make his personal enquiries. He was received by Mrs. Dashwood with more than politeness; with a kindness which Sir John's account of him and her own gratitude prompted; and every thing that passed during the visit tended to assure him of the sense, elegance, mutual affection, and domestic comfort of the family to whom accident had now introduced him. Of their personal charms he had not required a second interview to be convinced.

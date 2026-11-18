@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Peace-Making"
 weight: 24
-aliases:
-  - "/authors/alcott-louisa-may/eight-cousins/chapter-23.html"
+url: "/authors/alcott-louisa-may/eight-cousins/chapter-23.html"
 ---
 
 "Steve, I want you to tell me something," said Rose to Dandy, who was making faces at himself in the glass, while he waited for an answer to the note he brought from his mother to Aunt Plenty.

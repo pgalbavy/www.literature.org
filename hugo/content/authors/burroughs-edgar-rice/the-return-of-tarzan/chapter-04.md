@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Countess Explains"
 weight: 4
-aliases:
-  - "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-04.html"
+url: "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-04.html"
 ---
 
 "Your Paris is more dangerous than my savage jungles, Paul," concluded Tarzan, after narrating his adventures to his friend the morning following his encounter with the apaches and police in the Rue Maule. "Why did they lure me there? Were they hungry?"

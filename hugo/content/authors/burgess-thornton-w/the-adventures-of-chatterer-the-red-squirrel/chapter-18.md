@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Chatterer Is Made Fun Of"
 weight: 18
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-18.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-18.html"
 ---
 
 "Ha, ha, ha! Ho, ho, ho! Smarty caught at last!" Sammy Jay fairly shrieked with glee, as he peered down from the top of an apple-tree at Chatterer, in the cage Farmer Brown's boy had made for him. Sammy was so relieved to think that Chatterer was not dead, and he was so tickled to think that Chatterer, who always thought himself so smart, should have been caught, that he just had to torment Chatterer by laughing at him and saying mean things to him, until Chatterer lost his temper and said things back quite in the old way. This tickled Sammy more than ever, for it sounded so exactly like Chatterer when he had been a free little imp of mischief in the Green Forest, that Sammy felt sure that Chatterer had nothing the matter with him.

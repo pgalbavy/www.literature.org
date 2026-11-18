@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - A Summons To Sadong"
 weight: 19
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-18.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-18.html"
 ---
 
 With pen poised, Peter Gross sat at his desk in the residency building and stared thoughtfully at the blank sheets of stationery before him. He was preparing a letter to Captain Rouse, to assure that worthy that all was going well, that Paddy was in the best of health and proving his value in no uncertain way, and to give a pen picture of the situation. He began:

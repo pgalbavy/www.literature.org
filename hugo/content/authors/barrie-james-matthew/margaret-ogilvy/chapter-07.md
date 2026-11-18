@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - R. L. S."
 weight: 7
-aliases:
-  - "/authors/barrie-james-matthew/margaret-ogilvy/chapter-07.html"
+url: "/authors/barrie-james-matthew/margaret-ogilvy/chapter-07.html"
 ---
 
 These familiar initials are, I suppose, the best beloved in recent literature, certainly they are the sweetest to me, but there was a time when my mother could not abide them. She said 'That Stevenson man' with a sneer, and, it was never easy to her to sneer. At thought of him her face would become almost hard, which seems incredible, and she would knit her lips and fold her arms, and reply with a stiff 'oh' if you mentioned his aggravating name. In the novels we have a way of writing of our heroine, 'she drew herself up haughtily,' and when mine draw themselves up haughtily I see my mother thinking of Robert Louis Stevenson. He knew her opinion of him, and would write, 'My ears tingled yesterday; I sair doubt she has been miscalling me again.' But the more she miscalled him the more he delighted in her, and she was informed of this, and at once said, 'The scoundrel!' If you would know what was his unpardonable crime, it was this: he wrote better books than mine.

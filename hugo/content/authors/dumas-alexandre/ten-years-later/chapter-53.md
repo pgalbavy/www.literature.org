@@ -1,8 +1,7 @@
 ---
 title: "Chapter 53 - The King"
 weight: 53
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-53.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-53.html"
 ---
 
 The first moment of surprise over, D'Artagnan reperused Athos's note. "It is strange," said he, "that the king should send for me."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Peacemaker"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/a-young-hero/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/a-young-hero/chapter-01.html"
 ---
 
 "A fight! A fight! Form a ring!" A dozen or more excited boys shouted these words, and, rushing forward, hastily formed a ring around two playmates who stood in the middle of the road, their hats off, eyes glaring, fists clenched, while they panted with anger, and were on the point of flying at one another with the fury of young wildcats.

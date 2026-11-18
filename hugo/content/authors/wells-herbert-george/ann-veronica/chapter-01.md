@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Ann Veronica Talks To Her Father"
 weight: 1
-aliases:
-  - "/authors/wells-herbert-george/ann-veronica/chapter-01.html"
+url: "/authors/wells-herbert-george/ann-veronica/chapter-01.html"
 ---
 
 A Modern Love Story "The art of ignoring is one of the accomplishments of every well-bred girl, so carefully instilled that at last she can even ignore her own thoughts and her own knowledge."

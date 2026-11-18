@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Prisoner Of Morphia"
 weight: 5
-aliases:
-  - "/authors/baily-waldron/when-the-cock-crows/chapter-05.html"
+url: "/authors/baily-waldron/when-the-cock-crows/chapter-05.html"
 ---
 
 It was mid-forenoon of the following day when Ethel awoke from the profound sleep superinduced by the drug. It was with a vast astonishment that her startled eyes took in the surroundings of the stateroom. There was a blank wall straight opposite her widely gazing eyes, where should have stood a dressing table of Circassian walnut, topped by the long oval mirror always ready to show her the reflected loveliness of her face. And there should have been also lying exposed on the polished surface of the table an orderly and beautiful array of those things that make for a woman's beauty--the creams that cleanse a skin too delicate for the harsh water poured from city mains; in a gold-topped bottle a lotion for the hair, delicate and effective; in dainty phials essences of perfume, subtle, yet curiously pervasive, with the fragrance of joyous springtime. Indeed, a medley of the arts evolved through the ages for the perfecting of that beauty, which, after all, is God-given--a thing not to be attained by the processes of even the most skilled beauty-doctors....

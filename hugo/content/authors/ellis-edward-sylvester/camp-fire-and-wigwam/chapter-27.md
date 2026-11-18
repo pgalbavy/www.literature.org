@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - \"Gah-Haw-Ge.\""
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-27.html"
 ---
 
 Naturally enough, when Jack Carleton found himself standing close to the frolicking Indian boys on the clearing, he became interested in the game they were playing, which he saw was systematic, and in which all took part.

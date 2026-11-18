@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Nobleness Of Oswald"
 weight: 12
-aliases:
-  - "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-12.html"
+url: "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-12.html"
 ---
 
 The part about his nobleness only comes at the end, but you would not understand it unless you knew how it began. It began, like nearly everything about that time, with treasure-seeking.

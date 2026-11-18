@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - At The Broker's Office"
 weight: 20
-aliases:
-  - "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-20.html"
+url: "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-20.html"
 ---
 
 "This is Saturday morning, Gail, and Mrs. Grinnell says I can go to Martindale with her if you will let me," said Peace, a few days after their midnight conference. She might have added that she herself had asked for the invitation, but for reasons of her own she made no mention of this fact.

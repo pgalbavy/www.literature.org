@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/tarkington-booth/the-guest-of-quesnay/chapter-01.html"
+url: "/authors/tarkington-booth/the-guest-of-quesnay/chapter-01.html"
 ---
 
 There are old Parisians who will tell you pompously that the boulevards, like the political cafes, have ceased to exist, but this means only that the boulevards no longer gossip of Louis Napoleon, the Return of the Bourbons, or of General Boulanger, for these highways are always too busily stirring with present movements not to be forgetful of their yesterdays. In the shade of the buildings and awnings, the loungers, the lookers-on in Paris, the audience of the boulevard, sit at little tables, sipping coffee from long glasses, drinking absinthe or bright-coloured sirops, and gazing over the heads of throngs afoot at others borne along through the sunshine of the street in carriages, in cabs, in glittering automobiles, or high on the tops of omnibuses.

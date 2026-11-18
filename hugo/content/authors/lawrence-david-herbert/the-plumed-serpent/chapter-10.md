@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Don Ram\u0026oacute;n And Do\u0026ntilde;a Carlota"
 weight: 10
-aliases:
-  - "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-10.html"
+url: "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-10.html"
 ---
 
 Kate had been in Sayula ten days before she had any sign from Don Ramón. She had been out in a boat on the lake, and had seen his house, round the bend of the western point. It was a reddish-and- yellow two-storey house with a little stone basin for the boats, and a mango grove between it and the lake. Among the trees, away from the lake, were the black adobe huts, two rows, of the peons.

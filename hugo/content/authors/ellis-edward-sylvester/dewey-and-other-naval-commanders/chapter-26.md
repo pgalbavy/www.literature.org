@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-26.html"
 ---
 
 John Ancrum Winslow—His Early Life and Training —The Famous Battle Between the *Kearsarge* and *Alabama*.

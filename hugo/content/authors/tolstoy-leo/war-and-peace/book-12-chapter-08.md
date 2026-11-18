@@ -1,8 +1,7 @@
 ---
 title: "Book 12 - Chapter 8"
 weight: 271
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-12-chapter-08.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-12-chapter-08.html"
 ---
 
 Sonya's letter written from Troitsa, which had come as an answer to Nicholas' prayer, was prompted by this: the thought of getting Nicholas married to an heiress occupied the old countess' mind more and more. She knew that Sonya was the chief obstacle to this happening, and Sonya's life in the countess' house had grown harder and harder, especially after they had received a letter from Nicholas telling of his meeting with Princess Mary in Bogucharovo. The countess let no occasion slip of making humiliating or cruel allusions to Sonya.

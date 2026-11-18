@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Aunt Olivia's Wedding"
 weight: 18
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-17.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-17.html"
 ---
 
 What a delightful, old-fashioned, wholesome excitement there was about Aunt Olivia's wedding! The Monday and Tuesday preceding it we did not go to school at all, but were all kept home to do chores and run errands. The cooking and decorating and arranging that went on those two days was amazing, and Felicity was so happy over it all that she did not even quarrel with Dan--though she narrowly escaped it when he told her that the Governor's wife was coming to the wedding.

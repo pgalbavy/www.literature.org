@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - In Which Joseph Rouletabille Makes A Remark To Monsieur Robert Darzac Which Produces Its Little Effect"
 weight: 5
-aliases:
-  - "/authors/leroux-gaston/the-yellow-room/chapter-05.html"
+url: "/authors/leroux-gaston/the-yellow-room/chapter-05.html"
 ---
 
 Rouletabille and I had been walking for several minutes, by the side of a long wall bounding the vast property of Monsieur Stangerson and had already come within sight of the entrance gate, when our attention was drawn to an individual who, half bent to the ground, seemed to be so completely absorbed in what he was doing as not to have seen us coming towards him. At one time he stooped so low as almost to touch the ground; at another he drew himself up and attentively examined the wall; then he looked into the palm of one of his hands, and walked away with rapid strides. Finally he set off running, still looking into the palm of his hand. Rouletabille had brought me to a standstill by a gesture.

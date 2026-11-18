@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-13.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-13.html"
 ---
 
 For three days I did my own work and Thomas Mugridge's too; and I flatter myself that I did his work well. I know that it won Wolf Larsen's approval, while the sailors beamed with satisfaction during the brief time my REGIME lasted.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-20.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-20.html"
 ---
 
 When he took her hand to assist her to rise he felt it tremble in his own.

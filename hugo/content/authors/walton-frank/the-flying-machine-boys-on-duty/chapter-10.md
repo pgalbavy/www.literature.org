@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Queer Discovery"
 weight: 10
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-10.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-10.html"
 ---
 
 When Ben reached the place where he had left Kit asleep, Carl stood with a searchlight in his hand, examining footprints on the ground.

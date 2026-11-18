@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Penrod And Sam"
 weight: 1
-aliases:
-  - "/authors/tarkington-booth/penrod-and-sam/chapter-01.html"
+url: "/authors/tarkington-booth/penrod-and-sam/chapter-01.html"
 ---
 
 During the daylight hours of several autumn Saturdays there had been severe outbreaks of cavalry in the Schofield neighbourhood. The sabres were of wood; the steeds were imaginary, and both were employed in a game called "bonded pris'ner" by its inventors, Masters Penrod Schofield and Samuel Williams. The pastime was not intricate. When two enemies met, they fenced spectacularly until the person of one or the other was touched by the opposing weapon; then, when the ensuing claims of foul play had been disallowed and the subsequent argument settled, the combatant touched was considered to be a prisoner until such time as he might be touched by the hilt of a sword belonging to one of his own party, which effected his release and restored to him the full enjoyment of hostile activity. Pending such rescue, however, he was obliged to accompany the forces of his captor whithersoever their strategical necessities led them, which included many strange places. For the game was exciting, and, at its highest pitch, would sweep out of an alley into a stable, out of that stable and into a yard, out of that yard and into a house, and through that house with the sound (and effect upon furniture) of trampling herds. In fact, this very similarity must have been in the mind of the distressed coloured woman in Mrs. Williams's kitchen, when she declared that she might "jes' as well try to cook right spang in the middle o' the stock-yards."

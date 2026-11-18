@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Minister's Reception"
 weight: 2
-aliases:
-  - "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-02.html"
+url: "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-02.html"
 ---
 
 "Are you ready, Cherry?"

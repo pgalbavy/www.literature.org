@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-26.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-26.html"
 ---
 
 Morgan's teeth closed with a slight click. The sinews of his chest and arms tightened. Such insolence rightfully called for the chastisement of cane or dog-whip, he thought, but that was impossible. He might undertake to rebuke Boone openly but could hardly assume so high-handed a course with Anne--or in her presence. He would nevertheless conduct his own affairs in his own way; so, quietly and with no intimation that he had been a witness to what he construed as an actual embrace, he turned and went back to the stairhead.

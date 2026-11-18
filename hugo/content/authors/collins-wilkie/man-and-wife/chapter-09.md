@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Anne"
 weight: 11
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-09.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-09.html"
 ---
 
 "YE'LL just permit me to remind ye again, young leddy, that the hottle's full--exceptin' only this settin'-room, and the bedchamber yonder belonging to it."

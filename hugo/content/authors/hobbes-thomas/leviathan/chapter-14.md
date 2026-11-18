@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Of The First And Second Naturall Lawes, And Of Contracts"
 weight: 16
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-14.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-14.html"
 ---
 
 Right Of Nature What The RIGHT OF NATURE, which Writers commonly call Jus Naturale, is the Liberty each man hath, to use his own power, as he will himselfe, for the preservation of his own Nature; that is to say, of his own Life; and consequently, of doing any thing, which in his own Judgement, and Reason, hee shall conceive to be the aptest means thereunto.

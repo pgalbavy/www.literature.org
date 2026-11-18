@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - The Prince Comes Back To The Enchanted Palace"
 weight: 28
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-28.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-28.html"
 ---
 
 The last day of school came and went. A triumphant "semi-annual examination" was held and Anne's pupils acquitted themselves splendidly. At the close they gave her an address and a writing desk. All the girls and ladies present cried, and some of the boys had it cast up to them later on that they cried too, although they always denied it.

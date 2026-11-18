@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/baum-l-frank/the-magic-of-oz/preface.html"
+url: "/authors/baum-l-frank/the-magic-of-oz/preface.html"
 ---
 
 A Faithful Record of the Remarkable Adventures of Dorothy and Trot and the Wizard of Oz, together with the Cowardly Lion, the Hungry Tiger and Cap'n Bill, in their successful search for a Magical and Beautiful Birthday Present for Princess Ozma of Oz by L. Frank Baum "Royal Historian of Oz" To My Readers Curiously enough, in the events which have taken place in the last few years in our "great outside world," we may find incidents so marvelous and inspiring that I cannot hope to equal them with stories of The Land of Oz.

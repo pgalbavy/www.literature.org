@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/london-jack/the-jacket-star-rover/chapter-01.html"
+url: "/authors/london-jack/the-jacket-star-rover/chapter-01.html"
 ---
 
 All my life I have had an awareness of other times and places. I have been aware of other persons in me.--Oh, and trust me, so have you, my reader that is to be. Read back into your childhood, and this sense of awareness I speak of will be remembered as an experience of your childhood. You were then not fixed, not crystallized. You were plastic, a soul in flux, a consciousness and an identity in the process of forming--ay, of forming and forgetting.

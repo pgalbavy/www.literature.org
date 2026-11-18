@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/london-jack/jerry-of-the-islands/chapter-07.html"
+url: "/authors/london-jack/jerry-of-the-islands/chapter-07.html"
 ---
 
 At seven in the morning, when Skipper rolled him out of the blanket and got up, Jerry celebrated the new day by chasing the wild-dog back into his hole and by drawing a snicker from the blacks on deck, when, with a growl and a flash of teeth, he made Lerumie side-step half a dozen feet and yield the deck to him.

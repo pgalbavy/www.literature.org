@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Carillonette"
 weight: 15
-aliases:
-  - "/authors/chambers-robert-w/barbarians/chapter-15.html"
+url: "/authors/chambers-robert-w/barbarians/chapter-15.html"
 ---
 
 Sticky Smith and Kid Glenn remained a week at Sainte Lesse, then left with the negroes for Calais to help bring up another cargo of mules, the arrival of which was daily expected.

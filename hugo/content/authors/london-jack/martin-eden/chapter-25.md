@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-25.html"
+url: "/authors/london-jack/martin-eden/chapter-25.html"
 ---
 
 Maria Silva was poor, and all the ways of poverty were clear to her. Poverty, to Ruth, was a word signifying a not-nice condition of existence. That was her total knowledge on the subject. She knew Martin was poor, and his condition she associated in her mind with the boyhood of Abraham Lincoln, of Mr. Butler, and of other men who had become successes. Also, while aware that poverty was anything but delectable, she had a comfortable middle-class feeling that poverty was salutary, that it was a sharp spur that urged on to success all men who were not degraded and hopeless drudges. So that her knowledge that Martin was so poor that he had pawned his watch and overcoat did not disturb her. She even considered it the hopeful side of the situation, believing that sooner or later it would arouse him and compel him to abandon his writing.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Hoodoo Outfit"
 weight: 8
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-08.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-08.html"
 ---
 
 Pop Daggett hesitated and glanced uneasily toward the door.

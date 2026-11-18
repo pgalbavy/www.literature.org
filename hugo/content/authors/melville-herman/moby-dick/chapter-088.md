@@ -1,8 +1,7 @@
 ---
 title: "Chapter 88 - Schools and Schoolmasters"
 weight: 88
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-088.html"
+url: "/authors/melville-herman/moby-dick/chapter-088.html"
 ---
 
 The previous chapter gave account of an immense body or herd of Sperm Whales, and there was also then given the probable cause inducing those vast aggregations.

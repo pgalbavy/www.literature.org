@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/verne-jules/from-the-earth-to-the-moon/chapter-15.html"
+url: "/authors/verne-jules/from-the-earth-to-the-moon/chapter-15.html"
 ---
 
 During the eight months which were employed in the work of excavation the preparatory works of the casting had been carried on simultaneously with extreme rapidity. A stranger arriving at Stones Hill would have been surprised at the spectacle offered to his view.

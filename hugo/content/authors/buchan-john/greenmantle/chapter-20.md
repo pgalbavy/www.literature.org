@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Peter Pienaar Goes To The Wars"
 weight: 21
-aliases:
-  - "/authors/buchan-john/greenmantle/chapter-20.html"
+url: "/authors/buchan-john/greenmantle/chapter-20.html"
 ---
 
 This chapter is the tale that Peter told me—long after, sitting beside a stove in the hotel at Bergen, where we were waiting for our boat.

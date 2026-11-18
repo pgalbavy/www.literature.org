@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Two Needful Readjustments"
 weight: 1
-aliases:
-  - "/authors/doyle-arthur-conan/the-vital-message/chapter-01.html"
+url: "/authors/doyle-arthur-conan/the-vital-message/chapter-01.html"
 ---
 
 It has been our fate, among all the innumerable generations of mankind, to face the most frightful calamity that has ever befallen the world. There is a basic fact which cannot be denied, and should not be overlooked. For a most important deduction must immediately follow from it. That deduction is that we, who have borne the pains, shall also learn the lesson which they were intended to convey. If we do not learn it and proclaim it, then when can it ever be learned and proclaimed, since there can never again be such a spiritual ploughing and harrowing and preparation for the seed? If our souls, wearied and tortured during these dreadful five years of self- sacrifice and suspense, can show no radical changes, then what souls will ever respond to a fresh influx of heavenly inspiration? In that case the state of the human race would indeed be hopeless, and never in all the coming centuries would there be any prospect of improvement.

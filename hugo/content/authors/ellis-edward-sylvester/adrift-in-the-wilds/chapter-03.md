@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Afloat"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-03.html"
 ---
 
 As Tim O'Rooney spoke, he pointed to the bow of the steamer, where, in the bright moonlight, some smoke could be seen rising—where, too, the next instant, they caught sight of a gleam of fire.

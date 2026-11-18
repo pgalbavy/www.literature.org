@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - A Game Of Hide And Seek"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-scout/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-21.html"
 ---
 
 Lieutenant Decker pressed his ear against the side of the rock and listened, hoping that his enemy would betray himself by coming in contact with the solid substance, but he was too cunning. He knew better than to act in that amateurish fashion.

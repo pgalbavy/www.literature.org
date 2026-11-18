@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Mr. Smythe Visits The Colonel"
 weight: 20
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-20.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-20.html"
 ---
 
 Next morning, before daybreak, Mr. Smythe started for St. Thomas. He reached the settlement just as Colonel Hallibut, with brows puckered into a scowl, came riding slowly up the brown path through the scattered timber of the broken land. The Colonel had faced the north winds from the lake and the veins in his face lay blue beneath his cheeks like tiny frozen water-runs. As he turned to the right of the path toward his home Smythe’s white horse rounded a distant copse. The rider was humming a hymn and his head was bent piously on his breast. The Colonel reined up and waited for him, quite aware that Smythe’s hawk-like eyes had caught sight of him fully as soon as he had caught sight of Smythe.

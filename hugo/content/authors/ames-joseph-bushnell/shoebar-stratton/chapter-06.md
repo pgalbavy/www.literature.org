@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Blood-Stained Saddle"
 weight: 6
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-06.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-06.html"
 ---
 
 "Hello, kid!" said Stratton quietly. "You awake? What's up, anyhow?"

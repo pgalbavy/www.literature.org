@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/ridge-w-pett/e-r-b/chapter-13.html"
+url: "/authors/ridge-w-pett/e-r-b/chapter-13.html"
 ---
 
 IF publicity at any cost be a good thing for a new journal, then “The Carman” had no right whatever to complain. The men belonging to the Society felt exultant at references to the impending action. It seemed that they were defying Capital as Capital had never been defied before. They told each other, when they met at receiving offices and railway stations, that Capital was going to have a nasty show up. Erb looked forward to the struggle with eagerness, until he had a meeting with Spanswick, the writer of the paragraph; that amateur journalist admitted, at the end of a keen cross-examination, that he had, perhaps, erred in stating that he knew the statement as a fact of his own knowledge: he remembered now that it had been related to him by a chap of his acquaintance, who was either on the Great Eastern or the South Western, he would not swear which, and he confessed to the indignant Erb that he could no more place his hand on this man’s shoulders and produce him at the Law Courts “than the dead.” Erb told Spanswick exactly what he thought of him, and Spanswick, penitent, declared that it would be a warning for the future: he would not have had this happen for forty thousand pounds. If Erb required him to go into a witness-box he would guarantee to say on oath just whatever Erb wished him to say. This sporting offer being declined, Spanswick went with downcast head, and examined the lining of his cap, as though hopeful that some solution of the difficulty would be found there. Once clear of the place he gave on the wooden flags of a cellar in Grange Road a few steps of a dance, which seemed to intimate that his regret was but a cloak that could be discarded without much difficulty.

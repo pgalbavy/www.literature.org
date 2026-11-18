@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 3 - The Same Respected Friend In More Aspects Than One"
 weight: 36
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-03-chapter-03.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-03-chapter-03.html"
 ---
 
 In sooth, it is Riderhood and no other, or it is the outer husk and shell of Riderhood and no other, that is borne into Miss Abbey’s first-floor bedroom. Supple to twist and turn as the Rogue has ever been, he is sufficiently rigid now; and not without much shuffling of attendant feet, and tilting of his bier this way and that way, and peril even of his sliding off it and being tumbled in a heap over the balustrades, can he be got up stairs.

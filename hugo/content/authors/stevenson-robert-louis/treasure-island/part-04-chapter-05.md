@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 5 - Silver's Embassy"
 weight: 21
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-04-chapter-05.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-04-chapter-05.html"
 ---
 
 SURE enough, there were two men just outside the stockade, one of them waving a white cloth, the other, no less a person than Silver himself, standing placidly by.

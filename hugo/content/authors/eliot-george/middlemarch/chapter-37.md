@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37"
 weight: 37
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-37.html"
+url: "/authors/eliot-george/middlemarch/chapter-37.html"
 ---
 
 "Thrice happy she that is so well assured Unto herself and settled so in heart That neither will for better be allured Ne fears to worse with any chance to start, But like a steddy ship doth strongly part The raging waves and keeps her course aright; Ne aught for tempest doth from it depart, Ne aught for fairer weather's false delight. Such self-assurance need not fear the spight Of grudging foes; ne favour seek of friends; But in the stay of her own stedfast might Neither to one herself nor other bends. Most happy she that most assured doth rest, But he most happy who such one loves best." - SPENSER.

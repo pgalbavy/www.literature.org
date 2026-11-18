@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Unexpected"
 weight: 16
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-16.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-16.html"
 ---
 
 More than once during the following few days, Stratton was forced to a grudging admiration, of Tex Lynch's cleverness. Even knowing what he did, he failed to detect the slightest sign in either the foreman or his men that they were waiting expectantly for something to happen. The only significant feature was their marked avoidance of the middle pasture. This might readily be accounted for by the fact that the work now lay on the other side of the outfit, but Buck was convinced that their real purpose was to allow the blackleg scourge to gain as great a hold as possible on Shoe-Bar cattle before its discovery.

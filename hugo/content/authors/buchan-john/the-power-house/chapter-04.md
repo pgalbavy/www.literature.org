@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - I Follow The Trail Of The Super-Butler"
 weight: 5
-aliases:
-  - "/authors/buchan-john/the-power-house/chapter-04.html"
+url: "/authors/buchan-john/the-power-house/chapter-04.html"
 ---
 
 My first thought, as I journeyed towards London, was that I was horribly alone in this business. Whatever was to be done I must do it myself, for the truth was I had no evidence which any authority would recognise. Pitt-Heron was the friend of a strange being who collected objects of art, probably passed under an alias in South London, and had absurd visions of the end of civilisation. That, in cold black and white, was all my story came to. If I went to the police they would laugh at me, and they would be right.

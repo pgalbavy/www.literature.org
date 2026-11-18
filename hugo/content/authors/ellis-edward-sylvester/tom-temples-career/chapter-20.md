@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - An Important Conference"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-20.html"
 ---
 
 *THE MERCHANT* stared at Tom in undisguised amazement.

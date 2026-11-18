@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/burroughs-edgar-rice/the-land-that-time-forgot/chapter-10.html"
+url: "/authors/burroughs-edgar-rice/the-land-that-time-forgot/chapter-10.html"
 ---
 
 Once a day I descend to the base of the cliff and hunt, and fill my stomach with water from a clear cold spring. I have three gourds which I fill with water and take back to my cave against the long nights. I have fashioned a spear and a bow and arrow, that I may conserve my ammunition, which is running low. My clothes are worn to shreds. Tomorrow I shall discard them for leopard-skins which I have tanned and sewn into a garment strong and warm. It is cold up here. I have a fire burning and I sit bent over it while I write; but I am safe here. No other living creature ventures to the chill summit of the barrier cliffs. I am safe, and I am alone with my sorrows and my remembered joys--but without hope. It is said that hope springs eternal in the human breast; but there is none in mine.

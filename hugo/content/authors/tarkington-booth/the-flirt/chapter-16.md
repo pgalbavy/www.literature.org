@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/tarkington-booth/the-flirt/chapter-16.html"
+url: "/authors/tarkington-booth/the-flirt/chapter-16.html"
 ---
 
 The two girls let themselves into the house noiselessly, and, turning out the hall-light, left for them by their mother, crept upstairs on tiptoe; and went through the upper hall directly to Laura's room —Cora's being nearer the sick-room. At their age it is proper that a gayety be used three times: in anticipation, and actually, and in after-rehearsal. The last was of course now in order: they went to Laura's room to "talk it over." There was no gas-fixture in this small chamber; but they found Laura's oil-lamp burning brightly upon her writing-table.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Sly One"
 weight: 14
-aliases:
-  - "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-13.html"
+url: "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-13.html"
 ---
 
 THE SAGOTHS WERE GAINING ON US RAPIDLY, FOR once they had sighted us they had greatly increased their speed. On and on we stumbled up the narrow canyon that Ghak had chosen to approach the heights of Sari. On either side rose precipitous cliffs of gorgeous, parti-colored rock, while beneath our feet a thick mountain grass formed a soft and noiseless carpet. Since we had entered the canyon we had had no glimpse of our pursuers, and I was commencing to hope that they had lost our trail and that we would reach the now rapidly nearing cliffs in time to scale them before we should be overtaken.

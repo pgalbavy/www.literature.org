@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 32
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-31.html"
+url: "/authors/haggard-h-rider/dawn/chapter-31.html"
 ---
 
 When Angela was still quite a child, the permanent inhabitants of Sherborne Lane, King William Street, in the city of London, used to note a very pretty girl, of small statue and modest ways, passing out --every evening after the city gentlemen had locked up their offices and gone home--from the quiet of the lane into the roar and rush of the city. This young girl was Mildred James, the only daughter of a struggling, a very struggling, city doctor, and her daily mission was to go to the cheap markets, and buy the provisions that were to last the Sherborne Lane household (for her father lived in the same rooms that he practised in) for the ensuing twenty-four hours. The world was a hard place for poor Mildred in those days of provision hunting, when so little money had to pay for so many necessaries, and to provide also for the luxuries that were necessaries to her invalid mother. Some years later, when she was a sweet maiden of eighteen, her mother died, but medical competition was keen in Sherborne Lane, and her removal did not greatly alleviate the pressure of poverty. At last, one evening, when she was about twenty years of age, a certain Mr. Carr, an old gentleman with whom her father had some acquaintance, sent up a card with a pencilled message on it to the effect that he would be glad to see Dr. James.

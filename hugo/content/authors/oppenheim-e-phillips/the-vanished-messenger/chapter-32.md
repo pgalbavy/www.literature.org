@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 32
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-32.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-32.html"
 ---
 
 Hamel, for the next few minutes, forgot everything else in his efforts to restore to consciousness his unexpected visitor. He rebuilt the fire, heated some water upon his spirit lamp, and forced some hot drink between the lips of the woman who was now almost in a state of collapse. Then he wrapped her round in his own ulster and drew her closer to the fire. He tried during those few moments to put away the memory of all that she had told him. Gradually she began to recover. She opened her eyes and drew a little sigh. She made no effort at speech, however. She simply lay and looked at him like some wounded animal. He came over to her side and chafed one of her cold hands.

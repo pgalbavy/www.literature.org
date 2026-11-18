@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Old Man Coyote Does A Little Thinking"
 weight: 19
-aliases:
-  - "/authors/burgess-thornton-w/old-granny-fox/chapter-19.html"
+url: "/authors/burgess-thornton-w/old-granny-fox/chapter-19.html"
 ---
 
 Investigate and for yourself find out  

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Johnny Chuck Receives Callers"
 weight: 2
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-02.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-02.html"
 ---
 
 The morning after gentle Sister South Wind arrived on the Green Meadows, Peter Rabbit came hopping and skipping down the Lone Little Path from the Green Forest. Peter was happy. He didn't know why. He just was happy. It was in the air. Everybody else seemed happy, too. Peter had to stop every few minutes just to kick up his heels and try to jump over his own shadow. He had felt just that way ever since gentle Sister South Wind arrived.

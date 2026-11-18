@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Jimmy Lands One"
 weight: 5
-aliases:
-  - "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-05.html"
+url: "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-05.html"
 ---
 
 Miss Elizabeth Compton sat in the dimly lighted library upon a deep-cushioned, tapestried sofa. She was not alone, yet although there were many comfortable chairs in the large room, and the sofa was an exceptionally long one, she and her companion occupied but little more space than would have comfortably accommodated a single individual.

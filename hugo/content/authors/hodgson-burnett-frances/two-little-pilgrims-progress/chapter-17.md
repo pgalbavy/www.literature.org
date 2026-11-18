@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-17.html"
+url: "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-17.html"
 ---
 
 What a feast it was—what a feast! They were so hungry, they were so happy, they were so rejoiced! And John Holt watched them as if he had never enjoyed himself so much before. He laughed, he made jokes, he handed out good things, he poured out lemonade.

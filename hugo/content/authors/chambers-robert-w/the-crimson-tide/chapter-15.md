@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/chambers-robert-w/the-crimson-tide/chapter-15.html"
+url: "/authors/chambers-robert-w/the-crimson-tide/chapter-15.html"
 ---
 
 "So," said Puma, "you are quite convinced he has much wealth. Yes?"

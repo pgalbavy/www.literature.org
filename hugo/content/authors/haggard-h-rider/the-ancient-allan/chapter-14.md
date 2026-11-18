@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Shabaka Fights The Crocodile"
 weight: 14
-aliases:
-  - "/authors/haggard-h-rider/the-ancient-allan/chapter-14.html"
+url: "/authors/haggard-h-rider/the-ancient-allan/chapter-14.html"
 ---
 
 “Where to?” I said to Bes when we were outside the palace, for I was so broken with grief that I scarcely knew what I did.

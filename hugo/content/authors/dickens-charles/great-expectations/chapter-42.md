@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42"
 weight: 42
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-42.html"
+url: "/authors/dickens-charles/great-expectations/chapter-42.html"
 ---
 
 'DEAR boy and Pip's comrade. I am not a going fur to tell you my life, like a song or a story-book. But to give it you short and handy, I'll put it at once into a mouthful of English. In jail and out of jail, in jail and out of jail, in jail and out of jail. There, you've got it. That's my life pretty much, down to such times as I got shipped off, arter Pip stood my friend.

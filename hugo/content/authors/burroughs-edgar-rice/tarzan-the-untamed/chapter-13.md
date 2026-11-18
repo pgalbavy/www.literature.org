@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Usanga's Reward"
 weight: 13
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-13.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-13.html"
 ---
 
 For two days Tarzan of the Apes had been hunting leisurely to the north, and swinging in a wide circle, he had re- turned to within a short distance of the clearing where he had left Bertha Kircher and the young lieutenant. He had spent the night in a large tree that overhung the river only a short distance from the clearing, and now in the early morning hours he was crouching at the water's edge waiting for an opportunity to capture Pisah, the fish, thinking that he would take it back with him to the hut where the girl could cook it for herself and her companion.

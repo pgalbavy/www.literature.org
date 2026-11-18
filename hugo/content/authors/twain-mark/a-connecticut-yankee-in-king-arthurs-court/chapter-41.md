@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41 - The Interdict"
 weight: 42
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-41.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-41.html"
 ---
 
 HOWEVER, my attention was suddenly snatched from such matters; our child began to lose ground again, and we had to go to sitting up with her, her case became so serious. We couldn't bear to allow anybody to help in this service, so we two stood watch-and-watch, day in and day out. Ah, Sandy, what a right heart she had, how simple, and genuine, and good she was! She was a flawless wife and mother; and yet I had married her for no other particular reasons, except that by the customs of chivalry she was my property until some knight should win her from me in the field. She had hunted Britain over for me; had found me at the hanging-bout outside of London, and had straightway resumed her old place at my side in the placidest way and as of right. I was a New Englander, and in my opinion this sort of partnership would compromise her, sooner or later. She couldn't see how, but I cut argument short and we had a wedding.

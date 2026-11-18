@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/buck-charles-neville/the-key-to-yesterday/chapter-05.html"
+url: "/authors/buck-charles-neville/the-key-to-yesterday/chapter-05.html"
 ---
 
 Horton House, where Duska Filson made her home with her aunt and uncle, was a half-mile from the cabin in which the two painters were lodged. That was the distance reckoned via driveway and turnpike, but a path, linking the houses, reduced it to a quarter of a mile. This "air line," as Steele dubbed it, led from the hill where the cabin perched, through a blackberry thicket and paw-paw grove, across a meadow, and then entered, by a picket gate and rose-cumbered fence, the old-fashioned garden of the "big house."

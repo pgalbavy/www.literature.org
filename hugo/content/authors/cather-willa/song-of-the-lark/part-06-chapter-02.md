@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 2"
 weight: 52
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-06-chapter-02.html"
+url: "/authors/cather-willa/song-of-the-lark/part-06-chapter-02.html"
 ---
 
 WHEN Ottenburg and his host reached the house on Colfax Avenue, they went directly to the library, a long double room on the second floor which Archie had arranged exactly to his own taste. It was full of books and mounted specimens of wild game, with a big writing-table at either end, stiff, old-fashioned engravings, heavy hangings and deep upholstery.

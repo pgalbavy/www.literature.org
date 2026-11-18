@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-07.html"
+url: "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-07.html"
 ---
 
 The Rolling Prairie was not difficult to travel over, although it was all uphill and downhill, so for a while they made good progress. Not even a shepherd was to be met with now, and the farther they advanced the more dreary the landscape became. At noon they stopped for a "picnic luncheon," as Betsy called it, and then they again resumed their journey. All the animals were swift and tireless, and even the Cowardly Lion and the Mule found they could keep up with the pace of the Woozy and the Sawhorse.

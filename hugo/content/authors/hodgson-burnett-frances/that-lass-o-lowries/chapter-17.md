@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Member Of Parliament"
 weight: 17
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-17.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-17.html"
 ---
 
 The morning following, Anice's father being called away by business left Riggan for a few days' absence, and it was not until after he had gone, that the story of Mr. Haviland's lodge-keeper came to her ears. Mr. Haviland was a Member of Parliament, a rich man with a large estate, and his lodge-keeper had just left him to join a fortunate son in America. Miss Barholm heard this from one of her village friends when she was out with the phaeton and the gray pony, and she at once thought of Sammy Craddock. The place was the very thing for him. The duties were light, the lodge was a pretty and comfortable cottage, and Mr. Haviland was known to be a generous master. If Sammy could gain the situation, he was provided for. But of course there were other applicants, and who was to speak for him? She touched up the gray pony with her whip, and drove away from the woman who had told her the news, in a perplexed frame of mind. She herself knew Mr. Haviland only by sight, his estate was three miles from the village, her father was away, and there was really no time to be lost. She drove to the corner of the road and paused there for a moment.

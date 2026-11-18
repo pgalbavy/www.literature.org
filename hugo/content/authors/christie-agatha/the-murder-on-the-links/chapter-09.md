@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - M. Giraud Finds Some Clues"
 weight: 9
-aliases:
-  - "/authors/christie-agatha/the-murder-on-the-links/chapter-09.html"
+url: "/authors/christie-agatha/the-murder-on-the-links/chapter-09.html"
 ---
 
 In the *Salon__* I found the examining magistrate busily interrogating the old gardener Auguste. Poirot and the commissary, who were both present, greeted me respectively with a smile and a polite bow. I slipped quietly into a seat. M. Hautet was painstaking and meticulous in the extreme, but did not succeed in eliciting anything of importance.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/cooper-courtney-ryley/the-crosscut/chapter-15.html"
+url: "/authors/cooper-courtney-ryley/the-crosscut/chapter-15.html"
 ---
 
 Fairchild did not show the item to Harry. There was little that it could accomplish, and besides, he felt that his comrade had enough to think about. The unexpected turn of the coroner's inquest had added to the heavy weight of Harry's troubles; it meant the probability in the future of a grand jury investigation and the possible indictment as accessory after the fact in the murder of "Sissie" Larsen. Not that Fairchild had been influenced in the slightest by the testimony of Crazy Laura; the presence of Squint Rodaine and his son had shown too plainly that they were connected in some way with it, that, in fact, they were responsible. An opportunity had arisen for them, and they had seized upon it. More, there came the shrewd opinion of old Mother Howard, once Fairchild and Harry had reached the boarding house and gathered in the parlor for their consultation:

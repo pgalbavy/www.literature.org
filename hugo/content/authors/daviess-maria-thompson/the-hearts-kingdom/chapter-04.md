@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - To Turkey Gulch"
 weight: 4
-aliases:
-  - "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-04.html"
+url: "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-04.html"
 ---
 
 The next morning I was very late in descending to my breakfast, but arrived in time to witness Mammy's arraignment of my father, which was conducted in perfect respect, but with great severity.

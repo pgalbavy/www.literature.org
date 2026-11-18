@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - America Versus America"
 weight: 36
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-36.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-36.html"
 ---
 
 Terence Clark gathered himself for another rush and blow at the Shawanoe, when the latter with a quickness which the eye of Fred Linden could hardly follow, ducked under the arm of the Irish lad and again struck him a resounding blow with the flat of the hand, first on one side of the face and then on the other. Terry wheeled and returned the blows with skill. Once his hand grazed the black hair that was dangling about Deerfoot's head, and several times he touched the nodding feathers, but strive as much as he might, he could not reach the fellow himself.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-06.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-06.html"
 ---
 
 The author of "Peaceful Repose" sez to me, and she looked pale and skairt; she had heard every word Josiah had said, and she wuz dretful skairt and shocked (not knowin' the ways of men, and not understandin', as I said prior and before, that in two hours' time he would be jest as good as the very best kind of pie, affectionate, and even spoony, if I would allow spoons, which I will not the most of the time). Wall, she proposed, Miss Fogg did, that she should ride back with the livery man. And though I urged her to stay till night, I couldn't urge her as hard as I would otherwise, for by that time the head of the procession of visitors had reached the door-step, and I had to meet 'em with smiles.

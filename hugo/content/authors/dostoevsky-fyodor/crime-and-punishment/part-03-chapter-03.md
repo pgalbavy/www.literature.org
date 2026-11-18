@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 3"
 weight: 18
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-03-chapter-03.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-03-chapter-03.html"
 ---
 
 He had come in ten minutes earlier and was sitting in the same place as before, on the sofa. Raskolnikov was sitting in the opposite corner, fully dressed and carefully washed and combed, as he had not been for some time past. The room was immediately crowded, yet Nastasya managed to follow the visitors in and stayed to listen.

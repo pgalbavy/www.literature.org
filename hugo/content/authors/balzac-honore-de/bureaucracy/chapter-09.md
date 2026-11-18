@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Resignation"
 weight: 9
-aliases:
-  - "/authors/balzac-honore-de/bureaucracy/chapter-09.html"
+url: "/authors/balzac-honore-de/bureaucracy/chapter-09.html"
 ---
 
 By midnight Madame Rabourdin's salon was deserted; only two or three guests remained with des Lupeaulx and the master and mistress of the house. When Schinner and Monsieur and Madame de Camps had likewise departed, des Lupeaulx rose with a mysterious air, stood with his back to the fireplace and looked alternately at the husband and wife.

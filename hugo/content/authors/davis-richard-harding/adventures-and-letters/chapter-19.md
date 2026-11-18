@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Vera Cruz And The Great War"
 weight: 19
-aliases:
-  - "/authors/davis-richard-harding/adventures-and-letters/chapter-19.html"
+url: "/authors/davis-richard-harding/adventures-and-letters/chapter-19.html"
 ---
 
 Late in April, 1914, when war between the United States and Mexico seemed inevitable Richard once more left the peace and content of Crossroads and started for Vera Cruz, arriving there on April 29. He had arranged to act as correspondent for a syndicate of newspapers, and as he had for long been opposed to the administration's policy of "watchful waiting" was greatly disappointed on his arrival at the border to learn of the President's plan of mediation. He wrote to his wife:

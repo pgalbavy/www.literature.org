@@ -1,8 +1,7 @@
 ---
 title: "Chapter 46 - The Crisis Deferred"
 weight: 46
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-46.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-46.html"
 ---
 
 "TAKE care, Valeria!" said Mrs. Macallan. "I ask you no questions; I only caution you for your own sake. Eustace has noticed what I have noticed--Eustace has seen a change in you. Take care!"

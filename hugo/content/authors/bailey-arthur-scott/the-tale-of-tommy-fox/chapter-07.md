@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Tommy Chases Mr. Woodchuck"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-07.html"
 ---
 
 Tommy Fox went up into Farmer Green's back-pasture, which, lay even nearer Blue Mountain than the field where Tommy and his mother lived. He skulked along among the rocky hummocks, and the old stumps which dotted the pasture thickly. His ears and his eyes and his nose were all alert to discover any small animal that might be stirring--especially his nose; for Tommy could smell things when they were a long way off.

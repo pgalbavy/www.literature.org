@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Reconnoissance"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-16.html"
 ---
 
 It was a mystery to young Munson why the shots fired, as he supposed, by the Apaches, should have checked his pursuer, who was so close upon him. Had he known that they came from a couple of hostile Kiowas, and that they were intended for the warrior whose hand was outstretched to grasp him, the matter would not have been so hard to understand. But he saw the night closing in about him, while he remained among the rocks, moving forward in the same stealthy manner, upon his hands and knees, and his strained ear failed to catch the slightest sound that could make him fear that any of his enemies were near at hand.

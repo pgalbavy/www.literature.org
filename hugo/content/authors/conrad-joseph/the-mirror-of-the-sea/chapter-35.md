@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 35
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-35.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-35.html"
 ---
 
 "Ships!" exclaimed an elderly seaman in clean shore togs. "Ships"—and his keen glance, turning away from my face, ran along the vista of magnificent figure-heads that in the late seventies used to overhang in a serried rank the muddy pavement by the side of the New South Dock—"ships are all right; it’s the men in ’em. . ."

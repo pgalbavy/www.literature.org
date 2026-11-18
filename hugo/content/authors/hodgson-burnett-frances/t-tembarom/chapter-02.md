@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-02.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-02.html"
 ---
 
 When he took possession of his hall bedroom the next day and came down to his first meal, all the boarders looked at him interestedly. They had heard of the G. Destroyer from Mrs. Bowse, whose grippe had disappeared. Jim Bowles and Julius Steinberger looked at him because they were about his own age, and shared a hall bedroom on his floor; the young woman from the notion counter in a down-town department store looked at him because she was a young woman; the rest of the company looked at him because a young man in a hall bedroom might or might not be noisy or objectionable, and the incident of the G. Destroyer sounded good-natured. Mr. Joseph Hutchinson, the stout and discontented Englishman from Manchester, looked him over because the mere fact that he was a new-comer had placed him by his own rash act in the position of a target for criticism. Mr. Hutchinson had come to New York because he had been told that he could find backers among profuse and innumerable multi-millionaires for the invention which had been the haunting vision of his uninspiring life. He had not been met with the careless rapture which had been described to him, and he was becoming violently antagonistic to American capital and pessimistic in his views of American institutions. Like Tembarom's father, he was the resentful Englishman.

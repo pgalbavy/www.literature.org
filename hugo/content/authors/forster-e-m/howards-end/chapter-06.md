@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-06.html"
+url: "/authors/forster-e-m/howards-end/chapter-06.html"
 ---
 
 WE are not concerned with the very poor. They are unthinkable and only to be approached by the statistician or the poet. This story deals with gentlefolk, or with those who are obliged to pretend that they are gentlefolk.

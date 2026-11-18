@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Cabin In The Woods"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-23.html"
 ---
 
 Twilight had come when Harvey Hamilton, with Bohunkus Johnson seated behind him, descended in the same spot in Chesterton that he had used upon his disastrous visit of the night before. A similar crowd greeted him, and he hired several of their number to drag the aeroplane to the primitive hangar in which the wrecked one had been sheltered.

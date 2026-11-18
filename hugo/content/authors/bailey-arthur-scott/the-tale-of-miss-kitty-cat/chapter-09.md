@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Stolen Cream"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-09.html"
 ---
 
 "I DECLARE!" Farmer Green's wife cried one day. "Somebody's been stealing my cream in the buttery."

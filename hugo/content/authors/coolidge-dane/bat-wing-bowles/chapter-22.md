@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Horse That Killed Dunbar"
 weight: 22
-aliases:
-  - "/authors/coolidge-dane/bat-wing-bowles/chapter-22.html"
+url: "/authors/coolidge-dane/bat-wing-bowles/chapter-22.html"
 ---
 
 In the Homeric simplicity of the cow camps, where the primitive emotions still rule, any soul-stirring which cannot find its expression in curses is pretty sure to seek the level of laughter. The boys were profoundly moved by Bowles' declaration of intention, but after gazing upon him for a spell in mingled incredulity and awe, their lips began to curl.

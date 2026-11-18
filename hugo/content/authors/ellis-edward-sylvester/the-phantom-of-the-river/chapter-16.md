@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Simon Kenton In A Panic"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-16.html"
 ---
 
 It was no surprise to Simon Kenton to learn that his old enemy, The Panther, was at the head of the formidable war party that were plotting with so much success against the pioneers. He had suspected the truth before he learned it from Boone.

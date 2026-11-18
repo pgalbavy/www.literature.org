@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Settlers"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/the-riflemen-of-the-miami/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/the-riflemen-of-the-miami/chapter-02.html"
 ---
 
 We will rear new trees under homes that glow  

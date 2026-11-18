@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Pursuer And Pursued"
 weight: 31
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-31.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-31.html"
 ---
 
 When Deerfoot the Shawanoe encountered his enemy in the path and turned over the rifle to him, he knew that his leniency toward his implacable foe had not softened his heart in the least. He only awaited the opportunity to turn like a rattlesnake on his magnanimous master, and the youth therefore took particular care that such opportunity should not be given him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - \"The Latchstring Was Inside!\""
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-24.html"
 ---
 
 The meeting was a joyous one. Alvin and Chester sprang to their feet and grasped in turn the hand of their astonished friend, while Zip, never forgetting his dignity, looked on as if he understood it all, as quite likely he did.

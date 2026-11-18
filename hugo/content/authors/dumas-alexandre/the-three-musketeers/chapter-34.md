@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - In Which The Equipment Of Aramis And Porthos Is Treated Of"
 weight: 35
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-34.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-34.html"
 ---
 
 Since the four friends had been each in search of his equipments, there had been no fixed meeting between them. They dined apart from one another, wherever they might happen to be, or rather where they could. Duty likewise on its part took a portion of that precious time which was gliding away so rapidly - only they had agreed to meet once a week, about one o'clock, at the residence of Athos, seeing that he, in agreement with the vow he had formed, did not pass over the threshold of his door.

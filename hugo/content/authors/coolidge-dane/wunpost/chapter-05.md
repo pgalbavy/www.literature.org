@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Willie Meena"
 weight: 5
-aliases:
-  - "/authors/coolidge-dane/wunpost/chapter-05.html"
+url: "/authors/coolidge-dane/wunpost/chapter-05.html"
 ---
 
 The morning had scarcely dawned when Wilhelmina dashed up the trail and looked down on the Sink below; and Wunpost had been right, where before all was empty, now the Death Valley Trail was alive. From Blackwater to Wild Rose Wash the dust rose up in clouds, each streamer boring on towards the north; and already the first stampeders had passed out of sight in their rush for the Black Point strike. It lay beyond North Pass, cut off from view by the shoulder of a long, low ridge; but there it was, and her claim and Wunpost's was already swarming with men. The whole town of Blackwater had risen up in the night and gone streaking across the Sink, and what was to keep those envious pocket-miners from claiming the find for their own? And Dusty Rhodes--he must have led the stampede--had he respected his partners' rights? She gazed a long moment, then darted back through the tunnel and bore the news to her father and Wunpost.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42 - Of Power Ecclesiasticall"
 weight: 44
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-42.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-42.html"
 ---
 
 For the understanding of POWER ECCLESIASTICALL, what, and in whom it is, we are to distinguish the time from the Ascension of our Saviour, into two parts; one before the Conversion of Kings, and men endued with Soveraign Civill Power; the other after their Conversion. For it was long after the Ascension, before any King, or Civill Soveraign embraced, and publiquely allowed the teaching of Christian Religion.

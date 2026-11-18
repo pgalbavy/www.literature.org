@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-08.html"
+url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-08.html"
 ---
 
 When she went back to Andrews she carried the pricked leaves with her. She could not have left them behind. From what source she had drawn a characterizing passionate, though silent, strength of mind and body, it would be difficult to explain. Her mind and her emotions had been left utterly unfed, but they were not of the inert order which scarcely needs feeding. Her feeling for the sparrows had held more than she could have expressed; her secret adoration of the "Lady Downstairs" was an intense thing. Her immediate surrender to the desire in the first pair of human eyes--child eyes though they were--which had ever called to her being for response, was simple and undiluted rapture. She had passed over her little soul without a moment's delay and without any knowledge of the giving. It had flown from her as a bird might fly from darkness into the sun. Eight-year-old Donal was the sun.

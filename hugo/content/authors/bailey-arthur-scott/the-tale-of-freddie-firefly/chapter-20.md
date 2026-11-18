@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Mrs. Ladybug's Advice"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-20.html"
 ---
 
 Finding himself face to face with Mrs. Ladybug one night in Farmer Green's meadow, Freddie Firefly noticed, even before she spoke, that the little lady was not in a cheerful mood. In fact, she frowned at him darkly and pointed one of her knitting needles straight at him as she began to speak.

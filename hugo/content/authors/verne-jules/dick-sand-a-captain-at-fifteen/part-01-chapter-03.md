@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 3 - The Wreck"
 weight: 3
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-03.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-03.html"
 ---
 
 Dick Sand's cry brought all the crew to their feet. The men who were not on watch came on deck. Captain Hull, leaving his cabin, went toward the bow.

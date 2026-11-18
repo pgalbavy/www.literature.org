@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37"
 weight: 37
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-37.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-37.html"
 ---
 
 In which it is shown that Phileas Fogg gained nothing by his tour around the world, unless it were happiness

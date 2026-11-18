@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 22
-aliases:
-  - "/authors/darwin-charles/the-descent-of-man/chapter-21.html"
+url: "/authors/darwin-charles/the-descent-of-man/chapter-21.html"
 ---
 
 A BRIEF summary will be sufficient to recall to the reader's mind the more salient points in this work. Many of the views which have been advanced are highly speculative, and some no doubt will prove erroneous; but I have in every case given the reasons which have led me to one view rather than to another. It seemed worth while to try how far the principle of evolution would throw light on some of the more complex problems in the natural history of man. False facts are highly injurious to the progress of science, for they often endure long; but false views, if supported by some evidence, do little harm, for every one takes a salutary pleasure in proving their falseness: and when this is done, one path towards error is closed and the road to truth is often at the same time opened.

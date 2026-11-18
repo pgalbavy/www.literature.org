@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Man With A Gun"
 weight: 1
-aliases:
-  - "/authors/coolidge-dane/rimrock-jones/chapter-01.html"
+url: "/authors/coolidge-dane/rimrock-jones/chapter-01.html"
 ---
 
 The peace of midday lay upon Gunsight, broken only by the distant chang, chang of bells as a ten-mule ore-team came toiling in from the mines. In the cool depths of the umbrella tree in front of the Company's office a Mexican ground-dove crooned endlessly his ancient song of love, but Gunsight took no notice. Its thoughts were not of love but of money.

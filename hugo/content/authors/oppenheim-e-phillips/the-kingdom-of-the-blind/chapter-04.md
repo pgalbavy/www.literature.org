@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-04.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-04.html"
 ---
 
 Surgeon-Major Thomson had apparently forgotten his appointment to view camp bedsteads, for, a few minutes after he had left Geraldine and her brother, his taxicab set him down before a sombre-looking house in Adelphi Terrace. He passed through the open doorway, up two flights of stairs, drew a key of somewhat peculiar shape from his pocket and opened a door in front of him. He found himself in a very small hall, from which there was no egress save through yet another door, through which he passed and stepped into a large but singularly bare-looking apartment. Three great safes were ranged along one side of the wall, piles of newspapers and maps were strewn all over a long table, and a huge Ordnance map of the French and Belgian Frontiers stood upon an easel. The only occupant of the apartment was a man who was sitting before a typewriter in front of the window. He turned his head and rose at Thomson's entrance, a rather short, keen-looking young man, his face slightly pitted with smallpox, his mouth hard and firm, his eyes deep-set and bright.

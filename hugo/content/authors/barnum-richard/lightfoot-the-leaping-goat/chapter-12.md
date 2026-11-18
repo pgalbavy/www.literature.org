@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Lightfoot’s New Home"
 weight: 12
-aliases:
-  - "/authors/barnum-richard/lightfoot-the-leaping-goat/chapter-12.html"
+url: "/authors/barnum-richard/lightfoot-the-leaping-goat/chapter-12.html"
 ---
 
 Leaving Lightfoot and Slicko talking together in the woods, we will go back a little while and see what is happening in the shanty near the rocks, where Mike Malony lived with his widowed mother. Mike came in one day, after a long search through the park. Though it was several weeks since Lightfoot had run away the boy never gave up hope that, some day, he would find his pet.

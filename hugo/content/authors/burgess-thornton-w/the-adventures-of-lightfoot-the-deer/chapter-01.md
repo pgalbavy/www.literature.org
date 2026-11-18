@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Peter Rabbit Meets Lightfoot"
 weight: 1
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-01.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-01.html"
 ---
 
 Peter Rabbit was on his way back from the pond of Paddy the Beaver deep in the Green Forest. He had just seen Mr. and Mrs. Quack start toward the Big River for a brief visit before leaving on their long, difficult journey to the far-away Southland. Farewells are always rather sad, and this particular farewell had left Peter with a lump in his throat,—a queer, choky feeling.

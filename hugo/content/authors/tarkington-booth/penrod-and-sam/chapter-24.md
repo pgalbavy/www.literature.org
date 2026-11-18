@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Heart Of Marjorie Jones"
 weight: 24
-aliases:
-  - "/authors/tarkington-booth/penrod-and-sam/chapter-24.html"
+url: "/authors/tarkington-booth/penrod-and-sam/chapter-24.html"
 ---
 
 "Well, what you want?" Penrod asked, brusquely.

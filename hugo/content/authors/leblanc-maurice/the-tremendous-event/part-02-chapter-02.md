@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 2 - Along The Cable"
 weight: 11
-aliases:
-  - "/authors/leblanc-maurice/the-tremendous-event/part-02-chapter-02.html"
+url: "/authors/leblanc-maurice/the-tremendous-event/part-02-chapter-02.html"
 ---
 
 He fell asleep beside her, after a long spell of waking during which his uneasiness was gradually assuaged by the soft and regular rhythm which marked the young girl's breathing.

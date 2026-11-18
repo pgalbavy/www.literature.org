@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Treasures Of The Kings Of France"
 weight: 10
-aliases:
-  - "/authors/leblanc-maurice/the-hollow-needle/chapter-10.html"
+url: "/authors/leblanc-maurice/the-hollow-needle/chapter-10.html"
 ---
 
 A curtain was drawn back.

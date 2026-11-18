@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Great-Aunt Eliza's Visit"
 weight: 7
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-06.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-06.html"
 ---
 
 It was a diamond winter day in February--clear, cold, hard, brilliant. The sharp blue sky shone, the white fields and hills glittered, the fringe of icicles around the eaves of Uncle Alec's house sparkled. Keen was the frost and crisp the snow over our world; and we young fry of the King households were all agog to enjoy life--for was it not Saturday, and were we not left all alone to keep house?

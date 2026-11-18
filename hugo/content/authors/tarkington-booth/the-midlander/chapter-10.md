@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-10.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-10.html"
 ---
 
 *HALF* an hour later he brought her a tray, a dainty one prepared by his mother, and set it upon a table close beside the bed.

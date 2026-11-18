@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A Brave Little Catt"
 weight: 9
-aliases:
-  - "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-09.html"
+url: "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-09.html"
 ---
 
 Miss Brooks was going away. This was her last week of school and next September when the children gathered again in the familiar old building, there would be a new teacher in her stead. The children were disconsolate, for in the three years that she had instructed them in the mysterious ways of knowledge, they had come to love her very dearly and to consider her one of their possessions. So it was a great shock to learn of her intentions, and particularly was this true with Tabitha whose grief at the impending loss was too deep for words. She could only stare and stare at the beloved face as the days slipped by lessening the teacher's stay with them, until Miss Brooks was so haunted by those pathetically appealing black eyes that she could scarcely sleep and began to wonder why it was that she should feel so much like a criminal every time she looked at the child.

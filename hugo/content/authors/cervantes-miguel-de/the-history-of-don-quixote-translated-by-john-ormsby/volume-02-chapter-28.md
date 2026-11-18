@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 28 - Of Matters That Benengeli Says He Who Reads Them Will Know, If He Reads Them With Attention"
 weight: 84
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-28.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-28.html"
 ---
 
 When the brave man flees, treachery is manifest and it is for wise men to reserve themselves for better occasions. This proved to be the case with Don Quixote, who, giving way before the fury of the townsfolk and the hostile intentions of the angry troop, took to flight and, without a thought of Sancho or the danger in which he was leaving him, retreated to such a distance as he thought made him safe. Sancho, lying across his ass, followed him, as has been said, and at length came up, having by this time recovered his senses, and on joining him let himself drop off Dapple at Rocinante’s feet, sore, bruised, and belaboured. Don Quixote dismounted to examine his wounds, but finding him whole from head to foot, he said to him, angrily enough, "In an evil hour didst thou take to braying, Sancho! Where hast thou learned that it is well done to mention the rope in the house of the man that has been hanged? To the music of brays what harmonies couldst thou expect to get but cudgels? Give thanks to God, Sancho, that they signed the cross on thee just now with a stick, and did not mark thee *per signum crucis* with a cutlass."

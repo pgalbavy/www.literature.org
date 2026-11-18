@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Concerning Certain American Trees"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-05.html"
 ---
 
 As Mike Murphy approached the landing he saw the second canoe drawn up the beach, which was proof that his friends had returned from their excursion to the western end of the lake. The bright light from the main room of the clubhouse showed that the Boy Scouts were gathered there and he decided to go in.

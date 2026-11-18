@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Chase"
 weight: 10
-aliases:
-  - "/authors/haggard-h-rider/fair-margaret/chapter-10.html"
+url: "/authors/haggard-h-rider/fair-margaret/chapter-10.html"
 ---
 
 About the time that Margaret and Betty were being rowed aboard the San Antonio, Peter Brome and his servants, who had been delayed an hour or more by the muddy state of the roads, pulled rein at the door of the house in Holborn. For over a month he had been dreaming of this moment of return, as a man does who expects such a welcome as he knew awaited him, and who on the morrow was to be wed to a lovely and beloved bride. He had thought how Margaret would be watching at the window, how, spying him advancing down the street, she would speed to the door, how he would leap from his horse and take her to his arms in front of every one if need be--for why should they be ashamed who were to be wed upon the morrow?

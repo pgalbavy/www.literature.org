@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - A Recovered Treasure"
 weight: 22
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-22.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-22.html"
 ---
 
 For five days Code yawned or rushed through the greater part of Nat's stock of lurid literature. It was the one thing that kept him from falling into the black pit of brooding; sometimes he felt as though he must go insane if he allowed himself to think. He had not the courage to tear aside the veil of dull pain that covered his heart and look at the bleeding reality. He was afraid of his own emotions.

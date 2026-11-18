@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Mud Trenches Of Artois"
 weight: 3
-aliases:
-  - "/authors/davis-richard-harding/with-the-french-in-france-and-salonika/chapter-02.html"
+url: "/authors/davis-richard-harding/with-the-french-in-france-and-salonika/chapter-02.html"
 ---
 
 AMIENS, October, 1915.

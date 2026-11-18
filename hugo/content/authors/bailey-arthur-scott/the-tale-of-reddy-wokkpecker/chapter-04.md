@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The High-Hole"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-04.html"
 ---
 
 Reddy Woodpecker lost no time in making friends with his cousin Mr. Flicker. Reddy knew well enough that most of the birds in the neighborhood wished he hadn’t come there to live. So he thought it wise to be pleasant and polite to Mr. Flicker. There was no knowing when he might need one friend among so many enemies. He even let Mr. Flicker drum upon the strip of tin upon the roof of the barn. But secretly Reddy thought him a queer chap.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/nesbit-edith/the-enchanted-castle/chapter-09.html"
+url: "/authors/nesbit-edith/the-enchanted-castle/chapter-09.html"
 ---
 
 *THERE* is a curtain, thin as gossamer, clear as glass, strong as iron, that hangs for ever between the world of magic and the world that seems to us to be real. And when once people have found one of the little weak spots in that curtain which are marked by magic rings, and amulets, and the like, almost anything may happen. Thus it is not surprising that Mabel and Kathleen, conscientiously conducting one of the dullest dolls' tea-parties at which either had ever assisted, should suddenly, and both at once, have felt a strange, unreasonable, but quite irresistible desire to return instantly to the Temple of Flora—even at the cost of leaving the dolls' tea-service in an unwashed state, and only half the raisins eaten. They went—as one has to go when the magic impulse drives one—against their better judgment, against their wills almost.

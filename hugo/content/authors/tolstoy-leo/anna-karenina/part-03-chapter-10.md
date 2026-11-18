@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 10"
 weight: 79
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-03-chapter-10.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-03-chapter-10.html"
 ---
 
 "Kitty writes to me that there's nothing she longs for so much as quiet and solitude," Dolly said after the silence that had followed.

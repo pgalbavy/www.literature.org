@@ -1,8 +1,7 @@
 ---
 title: "The Last of the Spirits"
 weight: 4
-aliases:
-  - "/authors/dickens-charles/a-christmas-carol/chapter-04.html"
+url: "/authors/dickens-charles/a-christmas-carol/chapter-04.html"
 ---
 
 The Phantom slowly, gravely, silently approached. When it came, Scrooge bent down upon his knee; for in the very air through which this Spirit moved it seemed to scatter gloom and mystery.

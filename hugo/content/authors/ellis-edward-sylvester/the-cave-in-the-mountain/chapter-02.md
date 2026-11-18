@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Alone In The Gloom"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-02.html"
 ---
 
 Before Fred could complete the sentence his foot struck an obstruction and he was precipitated headlong over and down a chasm which had escaped his notice. He fell with such violence that he was knocked senseless.

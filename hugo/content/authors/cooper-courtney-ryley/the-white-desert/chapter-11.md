@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/cooper-courtney-ryley/the-white-desert/chapter-11.html"
+url: "/authors/cooper-courtney-ryley/the-white-desert/chapter-11.html"
 ---
 
 The statement took Houston off his feet for a moment; but recovery came just as quickly, a recoil with the red splotches of anger blazing before his eyes, the surge of hot blood sweeping through his veins, the heat of conflict in his brain. His good hand clenched. A leap and he had struck the foreman on the point of the chin, sending him reeling backward, while the other men rushed to his assistance.

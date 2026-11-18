@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Man's World"
 weight: 13
-aliases:
-  - "/authors/lawrence-david-herbert/the-rainbow/chapter-13.html"
+url: "/authors/lawrence-david-herbert/the-rainbow/chapter-13.html"
 ---
 
 Ursula came back to Cossethay to fight with her mother. Her schooldays were over. She had passed the matriculation examination. Now she came home to face that empty period between school and possible marriage.

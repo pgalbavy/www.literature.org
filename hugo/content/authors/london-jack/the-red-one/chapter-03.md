@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Like Argus Of The Ancient Times"
 weight: 3
-aliases:
-  - "/authors/london-jack/the-red-one/chapter-03.html"
+url: "/authors/london-jack/the-red-one/chapter-03.html"
 ---
 
 IT was the summer of 1897, and there was trouble in the Tarwater family. Grandfather Tarwater, after remaining properly subdued and crushed for a quiet decade, had broken out again. This time it was the Klondike fever. His first and one unvarying symptom of such attacks was song. One chant only he raised, though he remembered no more than the first stanza and but three lines of that. And the family knew his feet were itching and his brain was tingling with the old madness, when he lifted his hoarse-cracked voice, now falsetto-cracked, in:

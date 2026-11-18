@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 19"
 weight: 53
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-03-chapter-19.html"
+url: "/authors/london-jack/valley-of-the-moon/book-03-chapter-19.html"
 ---
 
 Mrs. Mortimer arrived with seed catalogs and farm books, to find Saxon immersed in the farm books borrowed from Edmund. Saxon showed her around, and she was delighted with everything, including the terms of the lease and its option to buy.

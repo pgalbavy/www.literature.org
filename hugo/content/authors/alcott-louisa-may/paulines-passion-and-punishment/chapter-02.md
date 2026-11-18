@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/alcott-louisa-may/paulines-passion-and-punishment/chapter-02.html"
+url: "/authors/alcott-louisa-may/paulines-passion-and-punishment/chapter-02.html"
 ---
 
 "What jewels will the señora wear tonight?"

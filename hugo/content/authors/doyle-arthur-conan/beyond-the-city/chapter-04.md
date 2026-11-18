@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A Sister's Secret"
 weight: 4
-aliases:
-  - "/authors/doyle-arthur-conan/beyond-the-city/chapter-04.html"
+url: "/authors/doyle-arthur-conan/beyond-the-city/chapter-04.html"
 ---
 
 "Tell me, Miss Walker! You know how things should be. What would you say was a good profession for a young man of twenty-six who has had no education worth speaking about, and who is not very quick by nature?" The speaker was Charles Westmacott, and the time this same summer evening in the tennis ground, though the shadows had fallen now and the game been abandoned.

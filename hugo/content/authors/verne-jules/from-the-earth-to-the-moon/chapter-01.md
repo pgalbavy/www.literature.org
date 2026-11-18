@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/verne-jules/from-the-earth-to-the-moon/chapter-01.html"
+url: "/authors/verne-jules/from-the-earth-to-the-moon/chapter-01.html"
 ---
 
 During the War of the Rebellion, a new and influential club was established in the city of Baltimore in the State of Maryland. It is well known with what energy the taste for military matters became developed among that nation of ship-owners, shopkeepers, and mechanics. Simple tradesmen jumped their counters to become extemporized captains, colonels, and generals, without having ever passed the School of Instruction at West Point; nevertheless; they quickly rivaled their compeers of the old continent, and, like them, carried off victories by dint of lavish expenditure in ammunition, money, and men.

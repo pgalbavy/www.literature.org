@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - A Startling Interruption"
 weight: 28
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-28.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-28.html"
 ---
 
 When Deerfoot, the Shawanoe, first saw the recovered hat of Otto Relstaub, and tried hard to guess how it came to be left where Jack Carleton found it, he recalled the words of Lone Bear to the effect that it was placed over the face of the boy who was deserted three days' journey away in the woods. The conclusion was natural that the hat had been carried the intervening distance by the boy himself, who must have recovered from the severe illness that brought him low.

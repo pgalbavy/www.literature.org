@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/crane-stephen/the-red-badge-of-courage/chapter-18.html"
+url: "/authors/crane-stephen/the-red-badge-of-courage/chapter-18.html"
 ---
 
 THE ragged line had respite for some min- utes, but during its pause the struggle in the forest became magnified until the trees seemed to quiver from the firing and the ground to shake from the rushing of the men. The voices of the cannon were mingled in a long and interminable row. It seemed difficult to live in such an atmos- phere. The chests of the men strained for a bit of freshness, and their throats craved water.

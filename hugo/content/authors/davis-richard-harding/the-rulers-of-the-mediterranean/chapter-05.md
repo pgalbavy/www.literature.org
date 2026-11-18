@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Englishmen In Egypt"
 weight: 5
-aliases:
-  - "/authors/davis-richard-harding/the-rulers-of-the-mediterranean/chapter-05.html"
+url: "/authors/davis-richard-harding/the-rulers-of-the-mediterranean/chapter-05.html"
 ---
 
 When the visitor to Cairo first grasps the extent of his own ignorance of Egypt, and appreciates that if he is to understand its monuments and the signs of past times about him he must study the history of the whole world for forty centuries, he is apt to retreat precipitately. Later, as a compromise, he proposes skipping thirty-nine centuries and limiting his researches to the study of the political and social conditions of Egypt during the last ten years. And when he begins jauntily on this he finds that all that has gone before, from Rameses II. to Mehemet Ali, is as simple as the line of Popes in comparison with the anomalies and intricacies of government that have arisen within the last decade. Yet the very intricacies of the subject give to this study a fascination entirely apart from its rare picturesqueness, and no matter what manner of man he may be, he cannot but find some side of the situation which appeals to him. If his mind be constituted like that of a ready reckoner he can revel in unravelling the intricacies of the Caisse and the Laws of Liquidation; if it is judicial, he can perhaps elucidate the powers of the Mixed Tribunal; if romantic, he has the career of Ismail, the most magnificent of patriots and profligate of monarchs; and if it turns towards adventure and the clash of arms, he can read of the heroic fanaticism of Fuzzy Wuzzy, the son of the Mahdi, of the futile mission of Gordon, of Stewart's march across the desert, and of the desperate valor of the fight at Aboo-Klea.

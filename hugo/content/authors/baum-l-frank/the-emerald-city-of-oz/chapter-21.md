@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 22
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-21.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-21.html"
 ---
 
 Just then a rabbit band of nearly fifty pieces marched in, playing upon golden instruments and dressed in neat uniforms. Following the band came the nobility of Bunnybury, all richly dressed and hopping along on their rear legs. Both the ladies and the gentlemen wore white gloves upon their paws, with their rings on the outside of the gloves, as this seemed to be the fashion here. Some of the lady rabbits carried lorgnettes, while many of the gentlemen rabbits wore monocles in their left eyes.

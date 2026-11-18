@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-14.html"
 ---
 
 Occasional American Defeats as Well as Victories —Captain Decatur's Misfortune —The *Chesapeake* and *Shannon*.

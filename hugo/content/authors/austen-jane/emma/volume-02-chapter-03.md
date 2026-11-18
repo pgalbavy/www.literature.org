@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 3"
 weight: 21
-aliases:
-  - "/authors/austen-jane/emma/volume-02-chapter-03.html"
+url: "/authors/austen-jane/emma/volume-02-chapter-03.html"
 ---
 
 Emma could not forgive her;--but as neither provocation nor resentment were discerned by Mr. Knightley, who had been of the party, and had seen only proper attention and pleasing behaviour on each side, he was expressing the next morning, being at Hartfield again on business with Mr. Woodhouse, his approbation of the whole; not so openly as he might have done had her father been out of the room, but speaking plain enough to be very intelligible to Emma. He had been used to think her unjust to Jane, and had now great pleasure in marking an improvement.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Man In Gray"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-17.html"
 ---
 
 Naturally the boys were curious to know the meaning of the stranger's conduct. They could not see why anyone travelling the same way with themselves should wish to avoid observation. It would seem that he would have hurried forward for the sake of company in this lonely region. Could it be he was really trying to keep out of sight?

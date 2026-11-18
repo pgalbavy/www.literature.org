@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 23
-aliases:
-  - "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-22.html"
+url: "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-22.html"
 ---
 
 No sooner were the Wizard of Oz and his followers well within the castle entrance when the big gates swung to with a clang and heavy bars dropped across them. They looked at one another uneasily, but no one cared to speak of the incident. If they were indeed prisoners in the wicker castle, it was evident they must find a way to escape, but their first duty was to attend to the errand on which they had come and seek the Royal Ozma, whom they believed to be a prisoner of the magician, and rescue her.

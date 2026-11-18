@@ -1,8 +1,7 @@
 ---
 title: "Fit 2 - The Bellman’s Speech"
 weight: 3
-aliases:
-  - "/authors/carroll-lewis/the-hunting-of-the-snark/fit-02.html"
+url: "/authors/carroll-lewis/the-hunting-of-the-snark/fit-02.html"
 ---
 
 The Bellman himself they all praised to the skies—  

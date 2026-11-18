@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 9 - The Fighting Begins"
 weight: 9
-aliases:
-  - "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-09.html"
+url: "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-09.html"
 ---
 
 Saturday lives in my memory as a day of suspense. It was a day of lassitude too, hot and close, with, I am told, a rapidly fluctuating barometer. I had slept but little, though my wife had succeeded in sleeping, and I rose early. I went into my garden before breakfast and stood listening, but towards the common there was nothing stirring but a lark.

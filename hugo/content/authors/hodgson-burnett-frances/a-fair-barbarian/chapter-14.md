@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Clerical Visit"
 weight: 14
-aliases:
-  - "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-14.html"
+url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-14.html"
 ---
 
 It was indeed true that the Rev. Arthur Poppleton had spent the greater part of his afternoon in Miss Belinda Bassett's front parlor, and that Octavia had entertained him in such a manner that he had been beguiled into forgetting the clerical visits he had intended to make, and had finally committed himself by a promise to return a day or two later to play croquet. His object in calling had been to request Miss Belinda's assistance in a parochial matter. His natural timorousness of nature had indeed led him to put off making the visit for as long a time as possible. The reports he had heard of Miss Octavia Bassett had inspired him with great dread. Consequently he had presented himself at Miss Belinda's front door with secret anguish.

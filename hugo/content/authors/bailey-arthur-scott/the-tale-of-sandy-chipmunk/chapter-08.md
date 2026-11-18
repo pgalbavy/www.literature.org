@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Basket Of Corn"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-08.html"
 ---
 
 "What are those nuts on the top shelf?" Sandy Chipmunk asked Uncle Sammy Coon.

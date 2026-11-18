@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - In The Tree-Top"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-14.html"
 ---
 
 When Deerfoot and Hay-uta parted company with Jack Carleton, he feared he had several hours on his hands without any means of employing mind or body. The active operations of the campaign, so to speak, were in charge of the Sauk and Shawanoe division, while the young Kentuckian in reserve had little prospect of being called upon to take part in the engagement.

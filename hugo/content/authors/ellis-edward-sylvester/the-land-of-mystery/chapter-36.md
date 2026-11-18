@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - Pursuers And Pursued"
 weight: 36
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-36.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-36.html"
 ---
 
 It may be doubted whether the most cool-headed of men could find himself in such a situation as that of Fred Ashman, without being overwhelmed by the bewildering wealth surrounding him. He forgot for the time that the lives of himself and lovely companion were at stake, and that, despite her assurance that they were the first persons who had ever entered the wonderful cavern of diamonds, its existence might be known or discovered by their vengeful pursuers.

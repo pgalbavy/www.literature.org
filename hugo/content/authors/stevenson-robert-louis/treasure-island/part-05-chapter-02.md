@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 2 - The Ebb-Tide Runs"
 weight: 24
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-05-chapter-02.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-05-chapter-02.html"
 ---
 
 THE coracle--as I had ample reason to know before I was done with her--was a very safe boat for a person of my height and weight, both buoyant and clever in a seaway; but she was the most cross-grained, lop-sided craft to manage. Do as you pleased, she always made more leeway than anything else, and turning round and round was the manoeuvre she was best at. Even Ben Gunn himself has admitted that she was “queer to handle till you knew her way.”

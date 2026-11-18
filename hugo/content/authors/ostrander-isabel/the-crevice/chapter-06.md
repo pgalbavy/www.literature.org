@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The First Counter-Move"
 weight: 6
-aliases:
-  - "/authors/ostrander-isabel/the-crevice/chapter-06.html"
+url: "/authors/ostrander-isabel/the-crevice/chapter-06.html"
 ---
 
 The little paragraph in the newspaper, which, irrelevant as it would seem, had caught the keenly discerning eye of Henry Blaine, grew in length and importance from day to day until it reached a position on the first page, and then spread in huge headlines over the entire sheet. Instead of relating merely the incidents of a labor strike in a manufacturing city--and that city a far-distant one--it became speedily a sociological question of almost national import. The yellow journals were quick to seize upon it at the psychological moment of civic unrest, and throw out hints, vague but vast in their significance, of the mighty interests behind the mere fact of the strike, the great financial question involved, the crisis between capital and labor, the trusts and the common people, the workers and the wasters, in the land of the free.

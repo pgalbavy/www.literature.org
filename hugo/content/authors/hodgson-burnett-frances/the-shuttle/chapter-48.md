@@ -1,8 +1,7 @@
 ---
 title: "Chapter 48 - The Moment"
 weight: 48
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-48.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-48.html"
 ---
 
 In the unnatural unbearableness of her anguish, she lost sight of objects as she passed them, she lost all memory of what she did. She did not know how long she had been out, or how far she had ridden. When the thought of time or distance vaguely flitted across her mind, it seemed that she had been riding for hours, and might have crossed one county and entered another. She had long left familiar places behind. Riding through and inclosed by the mist, she, herself, might have been a wandering ghost, lost in unknown places. Where was he now--where was he now?

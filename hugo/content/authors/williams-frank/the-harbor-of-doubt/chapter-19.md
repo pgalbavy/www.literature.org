@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Ellinwood Takes A Hand"
 weight: 19
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-19.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-19.html"
 ---
 
 There were two things for Code to do. One was to sail north into Placentia Bay, Newfoundland, set seines, and catch the herring that were then schooling. The other was to run sixty miles or so northeast to St. Pierre, Miquelon, and buy bait.

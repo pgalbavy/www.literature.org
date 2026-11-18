@@ -1,8 +1,7 @@
 ---
 title: "Marley's Ghost"
 weight: 1
-aliases:
-  - "/authors/dickens-charles/a-christmas-carol/chapter-01.html"
+url: "/authors/dickens-charles/a-christmas-carol/chapter-01.html"
 ---
 
 I have endeavoured in this Ghostly little book, to raise the Ghost of an Idea, which shall not put my readers out of humour with themselves, with each other, with the season, or with me. May it haunt their houses pleasantly, and no one wish to lay it.

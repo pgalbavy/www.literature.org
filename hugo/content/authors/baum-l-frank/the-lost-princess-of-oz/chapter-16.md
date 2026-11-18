@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 17
-aliases:
-  - "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-16.html"
+url: "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-16.html"
 ---
 
 "One Person and one Freak," said the big Lavender Bear when he had carefully examined the strangers.

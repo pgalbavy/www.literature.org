@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Peter Rabbit’s Hard Journey"
 weight: 16
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-16.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-16.html"
 ---
 
 *PETER RABBIT* sat in the old stone wall along one side of Farmer Brown’s orchard, waiting for Mrs. Moon to put out her light and leave the world in darkness until jolly, round, red Mr. Sun should kick off his rosy bedclothes and begin his daily climb up in the blue, blue sky. In the winter, Mr. Sun is a late sleeper, and Peter knew that there would be two or three hours after Mrs. Moon put out her light when it would be quite dark. And Peter also knew too that by this time Hooty the Owl would probably have caught his dinner. So would old Granny Fox and Reddy Fox. Bowser the Hound would be too sleepy to be on the watch. It would be the very safest time for Peter to try to get to his home in the dear Old Briar-patch.

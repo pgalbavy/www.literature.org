@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 3 - Narrative Continued By The Doctor: End Of The First Day's Fighting"
 weight: 19
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-04-chapter-03.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-04-chapter-03.html"
 ---
 
 WE made our best speed across the strip of wood that now divided us from the stockade, and at every step we took the voices of the buccaneers rang nearer. Soon we could hear their footfalls as they ran and the cracking of the branches as they breasted across a bit of thicket.

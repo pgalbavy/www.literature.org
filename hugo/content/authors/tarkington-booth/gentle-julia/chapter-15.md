@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/tarkington-booth/gentle-julia/chapter-15.html"
+url: "/authors/tarkington-booth/gentle-julia/chapter-15.html"
 ---
 
 By the end of October, with the dispersal of foliage that has served all summer long as a screen for whatever small privacy may exist between American neighbours, we begin to perceive the rise of our autumn high tides of gossip. At this season of the year, in our towns of moderate size and ambition, where apartment houses have not yet condensed and at the same time sequestered the population, one may look over back yard beyond back yard, both up and down the street; especially if one takes the trouble to sit for an hour or so daily, upon the top of a high fence at about the middle of a block.

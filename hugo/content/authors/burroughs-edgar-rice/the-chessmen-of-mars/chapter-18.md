@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 19
-aliases:
-  - "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-18.html"
+url: "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-18.html"
 ---
 
 LONG and loud was the applause that rose above the Field of Jetan at Manator, as The Keeper of the Towers summoned the two Princesses and the victorious Chief to the center of the field and presented to the latter the fruits of his prowess, and then, as custom demanded, the victorious players, headed by Gahan and the two Princesses, formed in procession behind The Keeper of the Towers and were conducted to the place of victory before the royal enclosure that they might receive the commendation of the jeddak. Those who were mounted gave up their thoats to slaves as all must be on foot for this ceremony. Directly beneath the royal enclosure are the gates to one of the tunnels that, passing beneath the seats, give ingress or egress to or from the Field. Before this gate the party halted while O-Tar looked down upon them from above. Val Dor and Floran, passing quietly ahead of the others, went directly to the gates, where they were hidden from those who occupied the enclosure with O-Tar. The Keeper of the Towers may have noticed them, but so occupied was he with the formality of presenting the victorious Chief to the jeddak that he paid no attention to them.

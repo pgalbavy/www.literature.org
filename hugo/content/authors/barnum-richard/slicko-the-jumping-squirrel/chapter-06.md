@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Slicko Goes Nutting"
 weight: 6
-aliases:
-  - "/authors/barnum-richard/slicko-the-jumping-squirrel/chapter-06.html"
+url: "/authors/barnum-richard/slicko-the-jumping-squirrel/chapter-06.html"
 ---
 
 Slicko was so surprised, at first, by the cries of Tum Tum, and at the fear which the big elephant showed, that she did not know what to think. It really seemed that Tum Tum was afraid of her--of a little, jumping squirrel girl!

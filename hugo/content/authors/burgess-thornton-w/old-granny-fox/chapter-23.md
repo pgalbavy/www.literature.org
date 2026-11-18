@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Farmer Brown's Boy Forgets To Close The Gate"
 weight: 23
-aliases:
-  - "/authors/burgess-thornton-w/old-granny-fox/chapter-23.html"
+url: "/authors/burgess-thornton-w/old-granny-fox/chapter-23.html"
 ---
 
 How easy 't is to just forget  

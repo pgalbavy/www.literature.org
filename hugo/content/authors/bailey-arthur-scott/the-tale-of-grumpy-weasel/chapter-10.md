@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Ha! And Ha, Ha!"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-10.html"
 ---
 
 A great outcry rang through the woods the moment Jimmy Rabbit set out to race Grumpy Weasel and beat him. Shouts of "Good luck!" and "Run hard!" and "Hurrah for James Rabbit!" followed Jimmy. But old Mr. Crow squawked, "You don't need to hurry!" He thought that the race was already as good as won, for Grumpy Weasel had insisted on giving Jimmy Rabbit a start of twenty jumps.

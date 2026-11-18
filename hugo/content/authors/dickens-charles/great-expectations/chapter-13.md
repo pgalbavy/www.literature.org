@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-13.html"
+url: "/authors/dickens-charles/great-expectations/chapter-13.html"
 ---
 
 IT was a trial to my feelings on the next day but one, to see Joe arraying himself in his Sunday clothes to accompany me to Miss Havisham's. However, as he thought his court-suit necessary to the occasion, it was not for me to tell him that he looked far better in his working dress; the rather, because I knew he made himself so dreadfully uncomfortable, entirely on my account, and that it was for me he pulled up his shirt-collar so very high behind, that it made the hair on the crown of his head stand up like a tuft of feathers.

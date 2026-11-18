@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - On The Iron Wire"
 weight: 8
-aliases:
-  - "/authors/leblanc-maurice/the-secret-tomb/chapter-08.html"
+url: "/authors/leblanc-maurice/the-secret-tomb/chapter-08.html"
 ---
 
 The door behind which Dorothy was hiding herself shut badly. Having pushed it to gently, she not only saw but heard everything that took place, except that the face of Juliet Assire remained hidden from her. The ruffian's threat did not trouble her much, for she knew that he would not put it into execution. In fact d'Estreicher counted up to twenty without the old woman having uttered a word. But her resistance infuriated him to such a degree that, dropping the mass of iron, he seized the hand of Juliet Assire and twisted it violently. Juliet Assire yelled with pain.

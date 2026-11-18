@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/london-jack/jerry-of-the-islands/chapter-11.html"
+url: "/authors/london-jack/jerry-of-the-islands/chapter-11.html"
 ---
 
 Back on board, Van Horn immediately hove short, hoisted sail, broke out the anchor, and filled away for the ten-mile beat up the lagoon to windward that would fetch Somo. On the way, he stopped at Binu to greet Chief Johnny and land a few Binu returns. Then it was on to Somo, and to the end of voyaging for ever of the Arangi and of many that were aboard of her.

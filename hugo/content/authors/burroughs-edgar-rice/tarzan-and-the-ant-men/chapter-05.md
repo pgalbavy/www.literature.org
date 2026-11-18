@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-05.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-05.html"
 ---
 
 With doglike devotion the Alalus youth clung to Tarzan. The latter had mastered the meager sign language of his protege giving them a means of communication that was adequate for all their needs. The former, gaining confidence with a growing familiarity with his new weapons, became more independent, with the result that the two more often separated for the hunt, thus insuring a more fully stocked larder.

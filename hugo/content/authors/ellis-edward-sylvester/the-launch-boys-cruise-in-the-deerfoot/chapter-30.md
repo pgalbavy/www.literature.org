@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - A New England Home Coming"
 weight: 30
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-30.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-30.html"
 ---
 
 The amazement of Alvin Landon and Chester Haynes was as overwhelming as that of Mike Murphy. For a brief while they stared across the water, without the Captain shifting the wheel. It is said that a person's voice is the surest means of disclosing his identity, but Mike's tones did not sound natural because of their hoarseness. There was no mistaking that sturdy figure, however, that stood on the top of one of the rocks, acting like a lunatic, as indeed he was for the moment.

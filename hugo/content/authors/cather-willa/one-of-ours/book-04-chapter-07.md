@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 7"
 weight: 51
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-04-chapter-07.html"
+url: "/authors/cather-willa/one-of-ours/book-04-chapter-07.html"
 ---
 
 B Company's first officer, Captain Maxey, was so seasick throughout the voyage that he was of no help to his men in the epidemic. It must have been a frightful blow to his pride, for nobody was ever more anxious to do an officer's whole duty.

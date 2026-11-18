@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Wonder-Box"
 weight: 2
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-01.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-01.html"
 ---
 
 As long as she could remember she had been permitted to play with the contents of the late Herr Conrad Wilner's wonder-box. The programme on such occasions varied little; the child was permitted to rummage among the treasures in the box until she had satisfied her perennial curiosity; conversation with her absent-minded father ensued, which ultimately included a personal narrative, dragged out piecemeal from the reticent, dreamy invalid. Then always a few pages of the diary kept by the late Herr Wilner were read as a bedtime story. And bath and bed and dreamland followed. That was the invariable routine, now once more in full swing.

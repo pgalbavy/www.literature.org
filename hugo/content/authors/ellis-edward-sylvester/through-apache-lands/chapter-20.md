@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - White Vs. Red"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-20.html"
 ---
 
 The hunter seemed to step forth from some crevice in the rocks, wherein he had been concealed, and strode forward in such a manner that Lone Wolf saw him at the very instant the first word was uttered.

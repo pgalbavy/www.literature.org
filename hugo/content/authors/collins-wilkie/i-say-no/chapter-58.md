@@ -1,8 +1,7 @@
 ---
 title: "Chapter 58 - A Council Of Two"
 weight: 58
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-58.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-58.html"
 ---
 
 Early in the last century one of the picturesque race of robbers and murderers, practicing the vices of humanity on the borderlands watered by the river Tweed, built a tower of stone on the coast of Northumberland. He lived joyously in the perpetration of atrocities; and he died penitent, under the direction of his priest. Since that event, he has figured in poems and pictures; and has been greatly admired by modern ladies and gentlemen, whom he would have outraged and robbed if he had been lucky enough to meet with them in the good old times.

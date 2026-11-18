@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Desperate Work"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-07.html"
 ---
 
 It seemed to be the only course left. Whether it was or not, it was too late to try anything else. That the natives had discovered the explorers was proven by several low, tremulous whistles which at that instant sounded on the night.

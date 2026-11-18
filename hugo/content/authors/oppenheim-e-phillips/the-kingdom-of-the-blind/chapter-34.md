@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 34
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-34.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-34.html"
 ---
 
 It was towards the close of an unusually long day's work and Major Thomson sighed with relief as he realised that at last his anteroom was empty. He lit a cigarette and stretched himself in his chair. He had been interviewed by all manner of people, had listened to dozens of suspicious stories. His work had been intricate and at times full of detail. On the whole, a good day's work, he decided, and he had been warmly thanked over the wires by a Brigadier-General at Harwich for his arrest and exposure of a man who had in his possession a very wonderful plan of the Felixstowe land defences. He lit a cigarette and glanced at his watch. Just then the door was hurriedly opened. Ambrose came in without even the usual ceremony of knocking. He held a worn piece of paper in his hand. There was a triumphant ring in his tone as he looked up from it towards his chief.

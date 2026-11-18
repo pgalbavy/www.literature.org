@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40 - Happy Days In The Green Forest"
 weight: 40
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-40.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-40.html"
 ---
 
 These were happy days in the Green Forest. At least, they were happy for Lightfoot the Deer. They were the happiest days he had ever known. You see, he had won beautiful, slender, young Miss Daintyfoot, and now she was no longer Miss Daintyfoot but Mrs. Lightfoot. Lightfoot was sure that there was no one anywhere so beautiful as she, and Mrs. Lightfoot knew that there was no one so handsome and brave as he.

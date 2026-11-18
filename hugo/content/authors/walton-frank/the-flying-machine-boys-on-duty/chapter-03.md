@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - A Mysterious Disappearance"
 weight: 3
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-03.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-03.html"
 ---
 
 “We can beat ’em to the Pacific coast, all right!” Jimmie laughed. “Look here,” he went on, pointing to the Louise, now being run out of the hangar by the workmen. “There’s a flying machine that’s going to be a world-beater. I ran fifty miles an hour this afternoon, and didn’t put on full power, at that! She’s a bird, is Louise!”

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/tolstoy-leo/father-sergius/chapter-01.html"
+url: "/authors/tolstoy-leo/father-sergius/chapter-01.html"
 ---
 
 In Petersburg in the eighteen-forties a surprising event occurred. An officer of the Cuirassier Life Guards, a handsome prince who everyone predicted would become aide-de-camp to the Emperor Nicholas I and have a brilliant career, left the service, broke off his engagement to a beautiful maid of honour, a favourite of the Empress's, gave his small estate to his sister, and retired to a monastery to become a monk.

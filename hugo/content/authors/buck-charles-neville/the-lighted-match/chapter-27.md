@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Benton Says Good-By"
 weight: 27
-aliases:
-  - "/authors/buck-charles-neville/the-lighted-match/chapter-27.html"
+url: "/authors/buck-charles-neville/the-lighted-match/chapter-27.html"
 ---
 
 Louis Delgado awaited Jusseret in an agony of doubt and fear.

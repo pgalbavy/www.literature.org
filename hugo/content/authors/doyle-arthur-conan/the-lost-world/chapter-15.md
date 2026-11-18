@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Our Eyes Have Seen Great Wonders"
 weight: 15
-aliases:
-  - "/authors/doyle-arthur-conan/the-lost-world/chapter-15.html"
+url: "/authors/doyle-arthur-conan/the-lost-world/chapter-15.html"
 ---
 
 I write this from day to day, but I trust that before I come to the end of it, I may be able to say that the light shines, at last, through our clouds. We are held here with no clear means of making our escape, and bitterly we chafe against it. Yet, I can well imagine that the day may come when we may be glad that we were kept, against our will, to see something more of the wonders of this singular place, and of the creatures who inhabit it.

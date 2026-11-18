@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/baum-l-frank/glinda-of-oz/chapter-08.html"
+url: "/authors/baum-l-frank/glinda-of-oz/chapter-08.html"
 ---
 
 Princess Ozma considered the situation gravely. Then she tied her handkerchief to her wand and, standing at the water's edge, waved the handkerchief like a flag, as a signal. For a time they could observe no response.

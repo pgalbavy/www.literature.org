@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 2"
 weight: 15
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-03-chapter-02.html"
+url: "/authors/conrad-joseph/the-rescue/part-03-chapter-02.html"
 ---
 
 D'Alcacer was a man of nearly forty, lean and sallow, with hollow eyes and a drooping brown moustache. His gaze was penetrating and direct, his smile frequent and fleeting. He observed Lingard with great interest. He was attracted by that elusive something—a line, a fold, perhaps the form of the eye, the droop of an eyelid, the curve of a cheek, that trifling trait which on no two faces on earth is alike, that in each face is the very foundation of expression, as if, all the rest being heredity, mystery, or accident, it alone had been shaped consciously by the soul within.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-07.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-07.html"
 ---
 
 "I wonder why you don't like Captain Granet?" Geraldine asked her fiance, as they stood in the drawing-room waiting for dinner.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Friends In Need"
 weight: 12
-aliases:
-  - "/authors/doyle-arthur-conan/beyond-the-city/chapter-12.html"
+url: "/authors/doyle-arthur-conan/beyond-the-city/chapter-12.html"
 ---
 
 "Now, papa," said Clara that morning, wrinkling her brows and putting her finger-tips together with the air of an experienced person of business, "I want to have a talk to you about money matters."

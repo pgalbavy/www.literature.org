@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 17 - In Which Are Contained The Innumerable Troubles Which The Brave Don Quixote And His Good Squire Sancho Panza Endured In The Inn, Which To His Misfortune He Took To Be A Castle"
 weight: 20
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-17.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-17.html"
 ---
 
 By this time Don Quixote had recovered from his swoon; and in the same tone of voice in which he had called to his squire the day before when he lay stretched "in the vale of the stakes," he began calling to him now, "Sancho, my friend, art thou asleep? sleepest thou, friend Sancho?"

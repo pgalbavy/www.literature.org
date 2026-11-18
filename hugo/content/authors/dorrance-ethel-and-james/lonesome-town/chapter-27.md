@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - “Fortune Forevermore”"
 weight: 27
-aliases:
-  - "/authors/dorrance-ethel-and-james/lonesome-town/chapter-27.html"
+url: "/authors/dorrance-ethel-and-james/lonesome-town/chapter-27.html"
 ---
 
 At ten o’clock next morning a taxicab carrying three fares drew out of the Fifth Avenue “pass” and stopped before the Sturgis house. A woman and one of the men alighted. The second remained seated, his waiting rôle evidently prearranged, as the pair did not so much as nod back at him. Ascending the stone flight, they rang the front bell, as strangers might. In due time the door swung open.

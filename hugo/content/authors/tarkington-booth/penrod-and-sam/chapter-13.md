@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Concerning Trousers"
 weight: 13
-aliases:
-  - "/authors/tarkington-booth/penrod-and-sam/chapter-13.html"
+url: "/authors/tarkington-booth/penrod-and-sam/chapter-13.html"
 ---
 
 Duke, hastening to place himself upon the stone slab, raged at his enemy in safety; and presently the indomitable Gipsy could be heard from the darkness below, turning on the bass of his siren, threatening the water that enveloped him, returning Duke's profanity with interest, and cursing the general universe.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Jack And Jaz"
 weight: 4
-aliases:
-  - "/authors/lawrence-david-herbert/the-kangaroo/chapter-04.html"
+url: "/authors/lawrence-david-herbert/the-kangaroo/chapter-04.html"
 ---
 
 The following evening Somers could feel waves of friendliness coming across the hedge, from Victoria. And she kept going out to the gate to look for Jack, who was late returning home. And as she went, she always looked long towards the verandah of Torestin, to catch sight of the Somers.

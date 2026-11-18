@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 32
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-32.html"
+url: "/authors/london-jack/john-barleycorn/chapter-32.html"
 ---
 
 When the Snark sailed on her long cruise from San Francisco there was nothing to drink on board. Or, rather, we were all of us unaware that there was anything to drink, nor did we discover it for many a month. This sailing with a "dry " boat was malice aforethought on my part. I had played John Barleycorn a trick. And it showed that I was listening ever so slightly to the faint warnings that were beginning to arise in my consciousness.

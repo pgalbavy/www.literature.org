@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/baum-l-frank/rinkitink-in-oz/chapter-20.html"
+url: "/authors/baum-l-frank/rinkitink-in-oz/chapter-20.html"
 ---
 
 One day when Princess Dorothy of Oz was visiting Glinda the Good, who is Ozma's Royal Sorceress, she was looking through Glinda's Great Book of Records -- wherein is inscribed all important events that happen in every part of the world -- when she came upon the record of the destruction of Pingaree, the capture of King Kitticut and Queen Garee and all their people, and the curious escape of Inga, the boy Prince, and of King Rinkitink and the talking goat. Turning over some of the following pages, Dorothy read how Inga had found the Magic Pearls and was rowing the silver-lined boat to Regos to try to rescue his parents.

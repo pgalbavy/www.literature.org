@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Superintendent Battle Arrives"
 weight: 11
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-11.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-11.html"
 ---
 
 So apprehensive was Lord Caterham of being consulted by George that he spent the whole morning making a tour of his estate. Only the pangs of hunger drew him homeward. He also reflected that by now the worst would surely be over.

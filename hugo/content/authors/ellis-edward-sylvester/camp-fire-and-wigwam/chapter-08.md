@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Surprise"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-08.html"
 ---
 
 Jacob Relstaub was so accustomed to the undisturbed abuse of his son that he was struck almost speechless by the calm defiance of the Indian youth. When he saw the latter place his hand on the knife at his girdle, the German could not fail to know its meaning. He stopped short with his cane half raised and glared savagely at Deerfoot.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Adventure Of The Egyptian Tomb"
 weight: 6
-aliases:
-  - "/authors/christie-agatha/poirot-investigates/chapter-06.html"
+url: "/authors/christie-agatha/poirot-investigates/chapter-06.html"
 ---
 
 I have always considered that one of the most thrilling and dramatic of the many adventures I have shared with Poirot was that of our investigation into the strange series of deaths which followed upon the discovery and opening of the Tomb of King Men-her-Ra.

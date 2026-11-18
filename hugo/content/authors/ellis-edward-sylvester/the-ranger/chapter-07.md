@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Lost And Found"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/the-ranger/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/the-ranger/chapter-07.html"
 ---
 
 The two young men slept soundly through the night. When Leslie awoke it was broad day, and his companion was still asleep. He suffered him to remain so until the day was well advanced. Then each felt the pangs of hunger. Leland proposed that one should land and go in quest of food, but Leslie answered:

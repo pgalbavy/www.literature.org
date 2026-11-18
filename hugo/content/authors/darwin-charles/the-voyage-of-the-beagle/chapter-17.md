@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Galapagos Archipelago"
 weight: 18
-aliases:
-  - "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-17.html"
+url: "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-17.html"
 ---
 
 arrow_rightThe whole Group Volcanic arrow_rightNumbers of Craters arrow_rightLeafless Bushes Colony at Charles Island arrow_rightJames Island arrow_rightSalt-lake in Crater arrow_rightNatural History of the Group arrow_rightOrnithology, curious Finches arrow_rightReptiles arrow_rightGreat Tortoises, habits of arrow_rightMarine Lizard, feeds on Sea-weed arrow_rightTerrestrial Lizard, burrowing habits, herbivorous arrow_rightImportance of Reptiles in the Archipelago arrow_rightFish, Shells, Insects arrow_rightBotany arrow_rightAmerican Type of Organization arrow_rightDifferences in the Species or Races on different Islands arrow_rightTameness of the Birds arrow_rightFear of Man, an acquired Instinct. ---

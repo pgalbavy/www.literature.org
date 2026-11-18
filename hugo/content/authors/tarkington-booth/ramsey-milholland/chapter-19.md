@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/tarkington-booth/ramsey-milholland/chapter-19.html"
+url: "/authors/tarkington-booth/ramsey-milholland/chapter-19.html"
 ---
 
 It was easy enough for him to evade Fred Mitchell's rallyings these days; the sprig's mood was truculent, not toward his roommate but toward Congress, which was less in fiery haste than he to be definitely at war with Germany. All through the university the change had come: athletics, in other years spotlighted at the centre of the stage, languished suddenly, threatened with abandonment; students working for senior honours forgot them; everything was forgotten except that growing thunder in the soil. Several weeks elapsed after Dora's bitter dismissal of Ramsey before she was mentioned between the comrades. Then, one evening, Fred asked, as he restlessly paced their study floor:

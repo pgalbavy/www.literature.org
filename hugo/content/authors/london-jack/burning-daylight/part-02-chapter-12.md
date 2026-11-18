@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 12"
 weight: 25
-aliases:
-  - "/authors/london-jack/burning-daylight/part-02-chapter-12.html"
+url: "/authors/london-jack/burning-daylight/part-02-chapter-12.html"
 ---
 
 Another Sunday man and horse and dog roved the Piedmont hills. And again Daylight and Dede rode together. But this time her surprise at meeting him was tinctured with suspicion; or rather, her surprise was of another order. The previous Sunday had been quite accidental, but his appearing a second time among her favorite haunts hinted of more than the fortuitous. Daylight was made to feel that she suspected him, and he, remembering that he had seen a big rock quarry near Blair Park, stated offhand that he was thinking of buying it. His one-time investment in a brickyard had put the idea into his head--an idea that he decided was a good one, for it enabled him to suggest that she ride along with him to inspect the quarry.

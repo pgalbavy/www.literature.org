@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/collins-wilkie/a-rogues-life/chapter-02.html"
+url: "/authors/collins-wilkie/a-rogues-life/chapter-02.html"
 ---
 
 THE opportunity I wanted presented itself in a curious way, and led, unexpectedly enough, to some rather important consequences.

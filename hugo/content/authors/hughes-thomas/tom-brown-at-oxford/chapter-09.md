@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - \"A Brown Bait\""
 weight: 11
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-09.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-09.html"
 ---
 
 Tom's little exaltation in his own eyes consequent on the cupboard-smashing escapade of his friend was not to last long. Not a week had elapsed before he himself arrived suddenly in Hardy's room in as furious a state of mind as the other had so lately been in, allowing for the difference of the men. Hardy looked up from his books and exclaimed:—

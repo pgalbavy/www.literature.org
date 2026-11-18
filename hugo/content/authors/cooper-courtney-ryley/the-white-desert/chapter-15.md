@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/cooper-courtney-ryley/the-white-desert/chapter-15.html"
+url: "/authors/cooper-courtney-ryley/the-white-desert/chapter-15.html"
 ---
 
 Time dragged after that. Once the bid was on its way to Chicago, there was nothing to do but wait. It was a delay which lengthened from June until July, thence into late summer and early autumn, while the hills turned brown with the colorings of the aspens, while Mount Taluchen and its surrounding mountains once more became grim and forbidding with the early fall of snow.

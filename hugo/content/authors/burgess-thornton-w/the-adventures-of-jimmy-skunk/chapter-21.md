@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Nest-Egg Gives Unc' Billy Away"
 weight: 21
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-21.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-21.html"
 ---
 
 'Tis little things that often seem  

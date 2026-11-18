@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/baum-l-frank/the-road-to-oz/chapter-17.html"
+url: "/authors/baum-l-frank/the-road-to-oz/chapter-17.html"
 ---
 
 The neat yellow houses of the Winkies were now to be seen standing here and there along the roadway, giving the country a more cheerful and civilized look. They were farm-houses, though, and set far apart; for in the Land of Oz there were no towns or villages except the magnificent Emerald City in its center.

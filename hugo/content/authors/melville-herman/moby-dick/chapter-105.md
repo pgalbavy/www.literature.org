@@ -1,8 +1,7 @@
 ---
 title: "Chapter 105 - Does the Whale's Magnitude Diminish? - Will He Perish?"
 weight: 105
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-105.html"
+url: "/authors/melville-herman/moby-dick/chapter-105.html"
 ---
 
 Inasmuch, then, as this Leviathan comes floundering down upon us from the head-waters of the Eternities, it may be fitly inquired, whether, in the long course of his generations, he has not degenerated from the original bulk of his sires.

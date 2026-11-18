@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - An Invitation To Dine"
 weight: 20
-aliases:
-  - "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-20.html"
+url: "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-20.html"
 ---
 
 As the workman passed through the little outer office Edith Hudson glanced up at him.

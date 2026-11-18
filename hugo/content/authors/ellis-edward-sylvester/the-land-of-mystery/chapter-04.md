@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - How It Ended"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-04.html"
 ---
 
 It will be recalled that the Professor started in pursuit of the flying native with as much ardor as his friend, but, less skilful than he, he had taken but a step or two, when an obstruction flung him to the ground with discouraging emphasis.

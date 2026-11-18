@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Solving A Problem"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-20.html"
 ---
 
 Jimmy Rabbit was going to give a party. Up and down Pleasant Valley and all about Blue Mountain the field and forest people were talking about it.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Reversal Of Situation"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-11.html"
 ---
 
 The situation was most peculiar for all three concerned. Despite the vigilance and woodcraft of Deerfoot the Shawanoe, he had allowed an enemy to creep up behind him and secure an advantage which could not be overcome. In the common parlance of the West, the Pawnee had the drop on the Shawanoe.

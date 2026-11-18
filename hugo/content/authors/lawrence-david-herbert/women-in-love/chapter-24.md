@@ -1,8 +1,7 @@
 ---
 title: "chapter 24"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-24.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-24.html"
 ---
 
 Thomas Crich died slowly, terribly slowly. It seemed impossible to everybody that the thread of life could be drawn out so thin, and yet not break. The sick man lay unutterably weak and spent, kept alive by morphia and by drinks, which he sipped slowly. He was only half conscious - a thin strand of consciousness linking the darkness of death with the light of day. Yet his will was unbroken, he was integral, complete. Only he must have perfect stillness about him.

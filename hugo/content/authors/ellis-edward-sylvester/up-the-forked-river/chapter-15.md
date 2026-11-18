@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-15.html"
 ---
 
 Suddenly her plodding pony stood still, with a slight neigh and ears erect. They were at that moment winding around the face of a precipice, with the wall on the left rising to a height of a hundred feet or more, and sloping downward on the right into a gorge of Stygian blackness. The path was a yard or over in width, so there was plenty of foothold, and the halt could not be due to any lack of that nature.

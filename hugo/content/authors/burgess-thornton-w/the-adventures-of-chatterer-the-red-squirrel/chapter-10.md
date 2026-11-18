@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Old Mr. Trouble Gets Chatterer At Last"
 weight: 10
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-10.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-10.html"
 ---
 
 Of course you have guessed what it was that Chatterer had been meddling with. It was a mouse-trap, and he had sprung it without getting hurt. Chatterer didn't know that it was a trap. He ought to have known, but he didn't. You see, it was not at all like the traps Farmer Brown's boy had sometimes set for him in the Green Forest. He knew all about those traps and never, never went near them. Now that there was nothing more exciting about the mouse-trap, Chatterer turned his attention to the other queer thing. He walked all around it and looked at it from every side. It certainly was queer. Yes, Sir, it certainly was queer! It looked something like a little house only he could see all through it. He put one paw out and touched it. Nothing happened. He tried it again. Then he jumped right on top of it. Still nothing happened. He tried his sharp teeth on it, but he couldn't bite it. You see, it was made of stout wire.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 26
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-25.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-25.html"
 ---
 
 This amazing news had saddened every heart and all were now anxious to return to the Emerald City and share Ozma's fate. So they started without loss of time, and as the road led past the Scarecrow's new mansion they determined to make a brief halt there and confer with him.

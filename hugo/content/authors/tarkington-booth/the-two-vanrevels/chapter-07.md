@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Comedian"
 weight: 7
-aliases:
-  - "/authors/tarkington-booth/the-two-vanrevels/chapter-07.html"
+url: "/authors/tarkington-booth/the-two-vanrevels/chapter-07.html"
 ---
 
 Not savage Hun, nor "barbarous Vandyke," nor demon Apache, could wish to dwell upon the state of mind of the Chief of the Rouen Volunteer Fire Department; therefore, let the curtain of mercy descend. Without a word, he turned and dragged the nozzle to the eastern eaves, whence, after a warning gesture to those below, he dropped it to the ground. And, out of compassion, it should be little more than hinted that the gesture of warning was very slight.

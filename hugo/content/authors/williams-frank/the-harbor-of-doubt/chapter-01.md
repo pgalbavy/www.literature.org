@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Maliciously Accused"
 weight: 1
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-01.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-01.html"
 ---
 
 "Let them think what they like. If I had died I would have been a hero; because I lived I suppose there is nothing in the history of crime that I have not committed."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Enemy Listens"
 weight: 15
-aliases:
-  - "/authors/chambers-robert-w/the-fighting-chance/chapter-15.html"
+url: "/authors/chambers-robert-w/the-fighting-chance/chapter-15.html"
 ---
 
 In September, her marriage to Siward excitingly imminent, Sylvia had been seized with a passion for wholesale renunciation and rigid self-chastisement. All that had been so materially desirable to her in life, all that she had heretofore worshipped, in and belonging to her own world, she now denied. Down went the miniature golden calf from the altar in her private shrine, its tiny crashing fall making considerable racket throughout her world, and the planets and satellites adjacent to that section of the social system which she had long been expected to dominate.

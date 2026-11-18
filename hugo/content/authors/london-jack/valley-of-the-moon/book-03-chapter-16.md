@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 16"
 weight: 50
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-03-chapter-16.html"
+url: "/authors/london-jack/valley-of-the-moon/book-03-chapter-16.html"
 ---
 
 With Possum on the seat beside her, Saxon drove into the town of Roseburg. She drove at a walk. At the back of the wagon were tied two heavy young work-horses. Behind, half a dozen more marched free, and the rear was brought up by Billy, astride a ninth horse. All these he shipped from Roseburg to the West Oakland stables.

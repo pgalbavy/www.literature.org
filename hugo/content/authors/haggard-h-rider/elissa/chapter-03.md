@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Ithobal The King"
 weight: 4
-aliases:
-  - "/authors/haggard-h-rider/elissa/chapter-03.html"
+url: "/authors/haggard-h-rider/elissa/chapter-03.html"
 ---
 
 Two hours had gone by, and the prince Aziel, together with his retinue, the officers of the caravan, and many other guests, were seated at a great feast made in their honour, by Sakon, the governor of the city. This feast was held in the large pillared hall of Sakon’s house, built beneath the northern wall of the temple fortress, and not more than a few paces from its narrow entrance, through which in case of alarm the inhabitants of the palace could fly for safety. All down this chamber were placed tables, accommodating more than two hundred feasters, but the principal guests were seated by themselves upon a raised daïs at the head of the hall. Among them sat Sakon himself, a middle-aged man stout in build, and thoughtful of face, his daughter Elissa, some other noble ladies, and a score or more of the notables of the city and its surrounding territories.

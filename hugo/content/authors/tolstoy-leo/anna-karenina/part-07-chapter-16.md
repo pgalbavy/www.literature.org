@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 16"
 weight: 205
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-16.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-16.html"
 ---
 
 At ten o'clock the old prince, Sergey Ivanovitch, and Stepan Arkadyevitch were sitting at Levin's. Having inquired after Kitty, they had dropped into conversation upon other subjects. Levin heard them, and unconsciously, as they talked, going over the past, over what had been up to that morning, he thought of himself as he had been yesterday till that point. It was as though a hundred years had passed since then. He felt himself exalted to unattainable heights, from which he studiously lowered himself so as not to wound the people he was talking to. He talked, and was all the time thinking of his wife, of her condition now, of his son, in whose existence he tried to school himself into believing. The whole world of woman, which had taken for him since his marriage a new value he had never suspected before, was now so exalted that he could not take it in in his imagination. He heard them talk of yesterday's dinner at the club, and thought: "What is happening with her now? Is she asleep? How is she? What is she thinking of? Is he crying, my son Dmitri?" And in the middle of the conversation, in the middle of a sentence, he jumped up and went out of the room.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - In The Advocate’s House"
 weight: 6
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-05.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-05.html"
 ---
 
 The next day, Sabbath, August 27th, I had the occasion I had long looked forward to, to hear some of the famous Edinburgh preachers, all well known to me already by the report of Mr Campbell. Alas! and I might just as well have been at Essendean, and sitting under Mr. Campbell’s worthy self! the turmoil of my thoughts, which dwelt continually on the interview with Prestongrange, inhibiting me from all attention. I was indeed much less impressed by the reasoning of the divines than by the spectacle of the thronged congregation in the churches, like what I imagined of a theatre or (in my then disposition) of an assize of trial; above all at the West Kirk, with its three tiers of galleries, where I went in the vain hope that I might see Miss Drummond.

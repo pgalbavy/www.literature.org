@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - New Allies"
 weight: 7
-aliases:
-  - "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-07.html"
+url: "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-07.html"
 ---
 
 Surrounded by guardsmen I marched back along the corridors of the palace of Kulan Tith, Jeddak of Kaol, to the great audience chamber in the center of the massive structure.

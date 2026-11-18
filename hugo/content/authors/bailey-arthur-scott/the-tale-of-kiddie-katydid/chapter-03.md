@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Mr. Nighthawk"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-03.html"
 ---
 
 Following his cry with two or three quick beats of his wings, Mr. Nighthawk dropped swiftly down among the trees in Farmer Green's dooryard.

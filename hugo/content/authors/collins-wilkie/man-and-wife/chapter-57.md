@@ -1,8 +1,7 @@
 ---
 title: "Chapter 57 - The End"
 weight: 59
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-57.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-57.html"
 ---
 
 AT a few minutes before six o'clock that evening, Lord Holchester's carriage brought Geoffrey and Anne back to the cottage.

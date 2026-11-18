@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Miss Fortune"
 weight: 3
-aliases:
-  - "/authors/coolidge-dane/rimrock-jones/chapter-03.html"
+url: "/authors/coolidge-dane/rimrock-jones/chapter-03.html"
 ---
 
 It was very informal, to say the least, for Mary Fortune to invite him to stay. To be sure, she knew him--he was the man with the gun, the man of whom McBain was afraid--but that was all the more reason, to a reasoning woman, why she should keep silent and let him depart. But there was a business-like brevity about him, a single-minded directness, that struck her as really unique. Quite apart from the fact that it might save McBain, she wanted him to stay there and talk. At least so she explained it, the evening afterwards, to her censorious other-self. What she did was spontaneous, on the impulse of the moment, and without any reason whatever.

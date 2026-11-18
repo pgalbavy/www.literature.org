@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 7 - I Hear Of The Wild Birds"
 weight: 7
-aliases:
-  - "/authors/buchan-john/mr-standfast/part-01-chapter-07.html"
+url: "/authors/buchan-john/mr-standfast/part-01-chapter-07.html"
 ---
 
 I saw an old green felt hat, and below it lean tweed-clad shoulders. Then I saw a knapsack with a stick slung through it, as the owner wriggled his way on to a shelf. Presently he turned his face upward to judge the remaining distance. It was the face of a young man, a face sallow and angular, but now a little flushed with the day’s sun and the work of climbing. It was a face that I had first seen at Fosse Manor.

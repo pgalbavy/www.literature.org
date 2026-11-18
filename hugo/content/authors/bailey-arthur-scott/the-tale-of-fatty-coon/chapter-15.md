@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Fatty Visits The Smoke-House"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-15.html"
 ---
 
 The winter was fast going. And one fine day in February Fatty Coon crept out of his mother's house to enjoy the warm sunshine--and see what he could find to eat.

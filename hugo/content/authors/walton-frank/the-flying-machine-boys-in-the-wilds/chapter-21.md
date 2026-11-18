@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Mystery Of The Andes"
 weight: 21
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-21.html"
+url: "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-21.html"
 ---
 
 The Louise and the Bertha left the field near Quito amid the shouts of a vast crowd which gathered in the early part of the day. As the aeroplanes sailed majestically into the air, Mr. Havens saw Mellen sitting in a motor-car waving a white handkerchief in farewell.

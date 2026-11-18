@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 9"
 weight: 33
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-03-chapter-09.html"
+url: "/authors/haggard-h-rider/cleopatra/book-03-chapter-09.html"
 ---
 
 OF THE FAREWELL OF CHARMION; OF THE DEATH OF CHARMION; OF THE DEATH OF THE OLD WIFE, ATOUA; OF THE COMING OF HARMACHIS TO ABOUTHIS; OF HIS CONFESSION IN THE HALL OF SIX-AND-THIRTY PILLARS; AND OF THE DECLARING OF THE DOOM OF HARMACHIS

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Sale Of Antiquities"
 weight: 10
-aliases:
-  - "/authors/nesbit-edith/the-wouldbegoods/chapter-10.html"
+url: "/authors/nesbit-edith/the-wouldbegoods/chapter-10.html"
 ---
 
 It began one morning at breakfast. It was the fifteenth of August - the birthday of Napoleon the Great, Oswald Bastable, and another very nice writer. Oswald was to keep his birthday on the Saturday, so that his Father could be there. A birthday when there are only many happy returns is a little like Sunday or Christmas Eve. Oswald had a birthday-card or two - that was all; but he did not repine, because he knew they always make it up to you for putting off keeping your birthday, and he looked forward to Saturday.

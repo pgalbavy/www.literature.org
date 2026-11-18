@@ -1,8 +1,7 @@
 ---
 title: "chapter 08"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-08.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-08.html"
 ---
 
 Breadalby was a Georgian house with Corinthian pillars, standing among the softer, greener hills of Derbyshire, not far from Cromford. In front, it looked over a lawn, over a few trees, down to a string of fish-ponds in the hollow of the silent park. At the back were trees, among which were to be found the stables, and the big kitchen garden, behind which was a wood.

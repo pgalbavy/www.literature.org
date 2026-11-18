@@ -1,8 +1,7 @@
 ---
 title: "chapter 20"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-20.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-20.html"
 ---
 
 After the fiasco of the proposal, Birkin had hurried blindly away from Beldover, in a whirl of fury. He felt he had been a complete fool, that the whole scene had been a farce of the first water. But that did not trouble him at all. He was deeply, mockingly angry that Ursula persisted always in this old cry: 'Why do you want to bully me?' and in her bright, insolent abstraction.

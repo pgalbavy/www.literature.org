@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 7"
 weight: 7
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-07.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-07.html"
 ---
 
 Mr. Bennet's property consisted almost entirely in an estate of two thousand a year, which, unfortunately for his daughters, was entailed in default of heirs male, on a distant relation; and their mother's fortune, though ample for her situation in life, could but ill supply the deficiency of his. Her father had been an attorney in Meryton, and had left her four thousand pounds.

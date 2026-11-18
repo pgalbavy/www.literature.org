@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - I Stumble Into A Great Folly"
 weight: 14
-aliases:
-  - "/authors/buchan-john/salute-to-adventurers/chapter-13.html"
+url: "/authors/buchan-john/salute-to-adventurers/chapter-13.html"
 ---
 
 I never breathed a word about the night's doings, nor for divers reasons did Ringan; but the story got about, and the young fools were the laughing-stock of the place. But there was a good deal of wrath, too, that a trader should have presumed so far, and I felt that things were gathering to a crisis with me. Unless I was to suffer endlessly these petty vexations, I must find a bold stroke to end them. It annoyed me that when so many grave issues were in the balance I should have these troubles, as if a man should be devoured by midges when waiting on a desperate combat.

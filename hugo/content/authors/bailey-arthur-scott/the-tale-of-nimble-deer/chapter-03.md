@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - An Interrupted Nap"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-03.html"
 ---
 
 Nimble, the fawn, stole away into the woods while his mother was sleeping. And when he went he took great pains not to disturb her. He was careful not to step on a single twig. For young as he was, he knew that the sound of a breaking twig was enough to rouse his mother instantly out of the deepest sleep. And he made sure that he didn't set his little feet on any stones. For he knew that at the merest click of a hoof his mother would bound up and discover that he had left her.

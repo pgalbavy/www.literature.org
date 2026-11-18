@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44 - Our New Honeymoon"
 weight: 44
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-44.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-44.html"
 ---
 
 It is not to be disguised or denied that my spirits were depressed on my journey to London.

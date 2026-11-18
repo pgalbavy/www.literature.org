@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 5"
 weight: 36
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-03-chapter-05.html"
+url: "/authors/cather-willa/one-of-ours/book-03-chapter-05.html"
 ---
 
 Claude had been married a year and a half. One December morning he got a telephone message from his father-in-law, asking him to come in to Frankfort at once. He found Mr. Royce sunk in his desk-chair, smoking as usual, with several foreign-looking letters on the table before him. As he took these out of their envelopes and sorted the pages, Claude noticed how unsteady his hands had become.

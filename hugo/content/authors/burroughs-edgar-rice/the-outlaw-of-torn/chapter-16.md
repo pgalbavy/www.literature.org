@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-16.html"
+url: "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-16.html"
 ---
 
 While Norman of Torn and his thousand fighting men marched slowly south on the road toward Dover, the army of Simon de Montfort was preparing for its advance upon Lewes, where King Henry, with his son Prince Edward, and his brother, Prince Richard, King of the Romans, together with the latter's son, were entrenched with their forces, sixty thousand strong.

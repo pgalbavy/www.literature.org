@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Mr. Hamilton Fynes, Urgent"
 weight: 1
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-01.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-01.html"
 ---
 
 There was a little murmur of regret amongst the five hundred and eighty-seven saloon passengers on board the steamship Lusitania, mingled, perhaps, with a few expressions of a more violent character. After several hours of doubt, the final verdict had at last been pronounced. They had missed the tide, and no attempt was to be made to land passengers that night. Already the engines had ceased to throb, the period of unnatural quietness had commenced. Slowly, and without noticeable motion, the great liner swung round a little in the river.

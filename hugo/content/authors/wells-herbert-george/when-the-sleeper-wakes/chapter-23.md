@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - While The Aerolanes Were Coming"
 weight: 23
-aliases:
-  - "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-23.html"
+url: "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-23.html"
 ---
 
 For a time the Master of the Earth was not even master of his own mind. Even his will seemed a will not his own, his own acts surprised him and were but a part of the confusion of strange experiences that poured across his being. These things were definite, the aeroplanes were coming, Helen Wotton had warned the people of their coming, and he was Master of the Earth. Each of these facts seemed struggling for complete possession of his thoughts. They protruded from a background of swarming halls, elevated passages, rooms jammed with ward leaders in council kinematograph and telephone rooms, and windows looking out on a seething sea of marching men. The man in yellow, and men whom he fancied were called Ward Leaders, were either propelling him forward or following him obediently; it was hard to tell. Perhaps they were doing a little of both. Perhaps some power unseen and unsuspected, propelled them all. He was aware that he was going to make a proclamation to the People of the Earth, aware of certain grandiose phrases floating in his mind as the thing he meant to say. Many little things happened, and then he found himself with the man in yellow entering a little room where this proclamation of his was to be made.

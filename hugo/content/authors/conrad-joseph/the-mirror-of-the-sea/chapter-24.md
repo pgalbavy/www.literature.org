@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-24.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-24.html"
 ---
 
 For, after all, a gale of wind, the thing of mighty sound, is inarticulate. It is man who, in a chance phrase, interprets the elemental passion of his enemy. Thus there is another gale in my memory, a thing of endless, deep, humming roar, moonlight, and a spoken sentence.

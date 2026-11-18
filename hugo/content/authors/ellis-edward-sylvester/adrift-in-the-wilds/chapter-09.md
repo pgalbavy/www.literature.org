@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Pursuit"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-09.html"
 ---
 
 It was not the first time that Tim O'Rooney made a mistake. The Indians were excited over something, but as yet they held no suspicion that three white persons stood behind them and could be so easily reached. They were talking in a wild manner, and ran several rods from the beach, when they suddenly paused and picked up an object over which they quarreled and were almost ready to proceed to violence. From where our friends stood it looked as if it were nothing more than a coat or some cast-off garment that had been thrown aside by so me of the survivors when they were taken away by the Relief.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Mud Baths"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-21.html"
 ---
 
 Though Mr. Frog agreed cheerfully to show his neighbors how to take a mud bath, there wasn't even one of them that accepted his offer.

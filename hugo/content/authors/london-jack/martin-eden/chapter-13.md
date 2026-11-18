@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-13.html"
+url: "/authors/london-jack/martin-eden/chapter-13.html"
 ---
 
 It was the knot of wordy socialists and working-class philosophers that held forth in the City Hall Park on warm afternoons that was responsible for the great discovery. Once or twice in the month, while riding through the park on his way to the library, Martin dismounted from his wheel and listened to the arguments, and each time he tore himself away reluctantly. The tone of discussion was much lower than at Mr. Morse's table. The men were not grave and dignified. They lost their tempers easily and called one another names, while oaths and obscene allusions were frequent on their lips. Once or twice he had seen them come to blows. And yet, he knew not why, there seemed something vital about the stuff of these men's thoughts. Their logomachy was far more stimulating to his intellect than the reserved and quiet dogmatism of Mr. Morse. These men, who slaughtered English, gesticulated like lunatics, and fought one another's ideas with primitive anger, seemed somehow to be more alive than Mr. Morse and his crony, Mr. Butler.

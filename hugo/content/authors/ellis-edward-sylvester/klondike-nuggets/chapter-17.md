@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Golden Harvest"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-17.html"
 ---
 
 Tim McCabe and the boys wrought steadily through the rest of the day and the following two days. Inasmuch as the summer sun in the Klondike region does not thaw the soil to a greater depth than two feet, it was necessary to pile wood upon the earth and set it afire. As this gradually dissolved the frozen ground, the refuse dirt was cleared away, so as to reach paying earth or gravel. The results for a time were disappointing. The gold-hunters secured a good deal of yellow grains or dust, and ordinarily would have been satisfied, but naturally they were greedy for more.

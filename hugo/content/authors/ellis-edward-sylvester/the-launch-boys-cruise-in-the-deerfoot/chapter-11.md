@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Missing Motor Boat"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-11.html"
 ---
 
 Swinging into the broad expanse of Sheepscot Bay, the *Deerfoot* moved smoothly up the river which bears the same name. Captain Landon held her to the moderate speed of fifteen miles or so an hour. There was no call for haste and he was wise not to strain the engine unnecessarily. To increase the rate would be imitating the man who drives his automobile at the highest clip, when he has to concentrate his attention upon the machine, with no appreciation of the beauties of the country through which he is plunging, and continually threatened by fatal accidents.

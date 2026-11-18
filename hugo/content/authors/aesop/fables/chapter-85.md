@@ -1,8 +1,7 @@
 ---
 title: "The Old Man And Death"
 weight: 87
-aliases:
-  - "/authors/aesop/fables/chapter-85.html"
+url: "/authors/aesop/fables/chapter-85.html"
 ---
 
 AN OLD MAN was employed in cutting wood in the forest, and, in carrying the faggots to the city for sale one day, became very wearied with his long journey. He sat down by the wayside, and throwing down his load, besought "Death" to come. "Death" immediately appeared in answer to his summons and asked for what reason he had called him. The Old Man hurriedly replied, "That, lifting up the load, you may place it again upon my shoulders."

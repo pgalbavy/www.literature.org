@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/collins-wilkie/the-haunted-hotel/chapter-24.html"
+url: "/authors/collins-wilkie/the-haunted-hotel/chapter-24.html"
 ---
 
 Henry and Agnes were left alone in the Room of the Caryatides.

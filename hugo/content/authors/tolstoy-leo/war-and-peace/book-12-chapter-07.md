@@ -1,8 +1,7 @@
 ---
 title: "Book 12 - Chapter 7"
 weight: 270
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-12-chapter-07.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-12-chapter-07.html"
 ---
 
 The dreadful news of the battle of Borodino, of our losses in killed and wounded, and the still more terrible news of the loss of Moscow reached Voronezh in the middle of September. Princess Mary, having learned of her brother's wound only from the Gazette and having no definite news of him, prepared (so Nicholas heard, he had not seen her again himself) to set off in search of Prince Andrew.

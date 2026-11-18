@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 20
-aliases:
-  - "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-19.html"
+url: "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-19.html"
 ---
 
 They were proceeding so easily and comfortably on their way to Mount Munch that Woot said in a serious tone of voice:

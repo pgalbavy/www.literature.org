@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - A Masterly Retreat"
 weight: 3
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-03.html"
+url: "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-03.html"
 ---
 
 “I don’t see any savages!” replied Glenn.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Hope Deferred"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-08.html"
 ---
 
 A hoarse, tremulous sound came across the ocean. There was no mistaking its character; it was from the whistle of a steamer, the one whose light led them to hope for a time that their rescue was at hand. It sounded three times, and evidently the blasts were intended as a signal, though, of course, they bore no reference to the two persons listening so intently on the iceberg.

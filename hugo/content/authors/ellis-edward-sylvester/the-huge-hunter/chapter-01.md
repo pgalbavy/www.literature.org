@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Terror Of The Prairies"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-01.html"
 ---
 
 '*HOWLY* vargin! what is that?' exclaimed Mickey McSquizzle, with something like horrified amazement.

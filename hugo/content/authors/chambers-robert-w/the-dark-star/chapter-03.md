@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - In Embryo"
 weight: 4
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-03.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-03.html"
 ---
 
 A child on the floor, flat on her stomach in the red light of the stove, drawing pictures; her mother by the shaded lamp mending stockings; her father reading; a faint odour of kerosene from the glass lamp in the room, and the rattle of sleet on roof and window; this was one of her childhood memories which never faded through all the years of Ruhannah's life.

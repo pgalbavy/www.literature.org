@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/conrad-joseph/the-rover/chapter-07.html"
+url: "/authors/conrad-joseph/the-rover/chapter-07.html"
 ---
 
 A single cover having been laid at the end of a long table in the salle for the lieutenant, he had his meal there while the others sat down to theirs in the kitchen, the usual strangely assorted company served by the anxious and silent Catherine. Peyrol, thoughtful and hungry, faced Citizen Scevola in his working clothes and very much withdrawn within himself. Scevola’s aspect was more feverish than usual, with the red patches on his cheek-bones very marked above the thick beard. From time to time the mistress of the farm would get up from her place by the side of old Peyrol and go out into the salle to attend to the lieutenant. The other three people seemed unconscious of her absences. Towards the end of the meal Peyrol leaned back in his wooden chair and let his gaze rest on the ex-terrorist who had not finished yet, and was still busy over his plate with the air of a man who had done a long morning’s work. The door leading from the kitchen to the salle stood wide open, but no sound of voices ever came from there.

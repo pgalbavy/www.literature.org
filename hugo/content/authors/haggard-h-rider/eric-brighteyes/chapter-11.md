@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - How Swanhild Bid Farewell To Eric"
 weight: 12
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-11.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-11.html"
 ---
 
 Now all this while Asmund sat deep in thought; but when, at length, men were sunk in sleep, he took a candle of fat and passed to the shut bed where Swanhild slept alone. She lay on her bed, and her curling hair was all about her. She was awake, for the light gleamed in her blue eyes, and on a naked knife that was on the bed beside her, half hidden by her hair.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Only Good-Night"
 weight: 16
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-15.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-15.html"
 ---
 
 Five more days passed, all too quickly, and once more Monday came round. It was the 22nd of October, and the Michaelmas Sittings began on the 24th. On the morrow, Tuesday, Geoffrey was to return to London, there to meet Lady Honoria and get to work at Chambers. That very morning, indeed, a brief, the biggest he had yet received--it was marked thirty guineas--had been forwarded to him from his chambers, with a note from his clerk to the effect that the case was expected to be in the special jury list on the first day of the sittings, and that the clerk had made an appointment for him with the solicitors for 5.15 on the Tuesday. The brief was sent to him by his uncle’s firm, and marked, “With you the Attorney-General, and Mr. Candleton, Q.C.,” the well-known leader of the Probate and Divorce Court Bar. Never before had Geoffrey found himself in such honourable company, that is on the back of a brief, and not a little was he elated thereby.

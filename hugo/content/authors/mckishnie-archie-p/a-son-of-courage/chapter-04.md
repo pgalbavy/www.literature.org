@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Message Croaker Brought"
 weight: 4
-aliases:
-  - "/authors/mckishnie-archie-p/a-son-of-courage/chapter-04.html"
+url: "/authors/mckishnie-archie-p/a-son-of-courage/chapter-04.html"
 ---
 
 "Missus Wilson, where's Billy?"

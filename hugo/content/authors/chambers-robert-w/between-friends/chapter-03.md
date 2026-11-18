@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/chambers-robert-w/between-friends/chapter-03.html"
+url: "/authors/chambers-robert-w/between-friends/chapter-03.html"
 ---
 
 She had not posed for Drene during the last two weeks, and he had begun to miss her, after his own fashion—that is, he thought of her when not preoccupied and sometimes desired her companionship when unoccupied.

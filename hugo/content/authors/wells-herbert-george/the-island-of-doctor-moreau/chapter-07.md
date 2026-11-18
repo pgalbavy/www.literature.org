@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - \u0026quot;The Locked Door\u0026quot;"
 weight: 8
-aliases:
-  - "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-07.html"
+url: "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-07.html"
 ---
 
 THE reader will perhaps understand that at first everything was so strange about me, and my position was the outcome of such unexpected adventures, that I had no discernment of the relative strangeness of this or that thing. I followed the llama up the beach, and was overtaken by Montgomery, who asked me not to enter the stone enclosure. I noticed then that the puma in its cage and the pile of packages had been placed outside the entrance to this quadrangle.

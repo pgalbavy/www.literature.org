@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 17"
 weight: 174
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-17.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-17.html"
 ---
 
 The coachman pulled up his four horses and looked round to the right, to a field of rye, where some peasants were sitting on a cart.

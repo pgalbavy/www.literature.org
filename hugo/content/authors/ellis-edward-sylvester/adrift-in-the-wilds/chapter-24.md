@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - A Hunt"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-24.html"
 ---
 
 When Tim O'Rooney left the island and crossed to the eastern shore of the Salinas he had almost forgotten the existence of any such thing as hostile Indians. He was after something to eat, and some how or other it seemed to him that the climate of California had given him a most ravenous appetite, which demanded satisfaction regardless of consequences.

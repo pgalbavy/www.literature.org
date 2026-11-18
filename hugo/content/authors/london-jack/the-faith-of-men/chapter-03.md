@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Faith Of Men"
 weight: 3
-aliases:
-  - "/authors/london-jack/the-faith-of-men/chapter-03.html"
+url: "/authors/london-jack/the-faith-of-men/chapter-03.html"
 ---
 
 "Tell you what we'll do; we'll shake for it."

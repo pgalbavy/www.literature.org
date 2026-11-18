@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/eliot-george/silas-marner/chapter-09.html"
+url: "/authors/eliot-george/silas-marner/chapter-09.html"
 ---
 
 Godfrey rose and took his own breakfast earlier than usual, but lingered in the wainscoted parlour till his younger brothers had finished their meal and gone out; awaiting his father, who always took a walk with his managing-man before breakfast. Every one breakfasted at a different hour in the Red House, and the Squire was always the latest, giving a long chance to a rather feeble morning appetite before he tried it. The table had been spread with substantial eatables nearly two hours before he presented himself - a tall, stout man of sixty, with a face in which the knit brow and rather hard glance seemed contradicted by the slack and feeble mouth. His person showed marks of habitual neglect, his dress was slovenly; and yet there was something in the presence of the old Squire distinguishable from that of the ordinary farmers in the parish, who were perhaps every whit as refined as he, but, having slouched their way through life with a consciousness of being in the vicinity of their "betters", wanted that self-possession and authoritativeness of voice and carriage which belonged to a man who thought of superiors as remote existences with whom he had personally little more to do than with America or the stars. The Squire had been used to parish homage all his life, used to the presupposition that his family, his tankards, and everything that was his, were the oldest and best; and as he never associated with any gentry higher than himself, his opinion was not disturbed by comparison.

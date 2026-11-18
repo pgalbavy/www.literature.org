@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/huxley-aldous/crome-yellow/chapter-26.html"
+url: "/authors/huxley-aldous/crome-yellow/chapter-26.html"
 ---
 
 A little canvas village of tents and booths had sprung up, just beyond the boundaries of the garden, in the green expanse of the park. A crowd thronged its streets, the men dressed mostly in black—holiday best, funeral best—the women in pale muslins. Here and there tricolour bunting hung inert. In the midst of the canvas town, scarlet and gold and crystal, the merry-go-round glittered in the sun. The balloon-man walked among the crowd, and above his head, like a huge, inverted bunch of many-coloured grapes, the balloons strained upwards. With a scythe-like motion the boat-swings reaped the air, and from the funnel of the engine which worked the roundabout rose a thin, scarcely wavering column of black smoke.

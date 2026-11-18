@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/austen-jane/persuasion/chapter-09.html"
+url: "/authors/austen-jane/persuasion/chapter-09.html"
 ---
 
 Captain Wentworth was come to Kellynch as to a home, to stay as long as he liked, being as thoroughly the object of the Admiral's fraternal kindness as of his wife's. He had intended, on first arriving, to proceed very soon into Shropshire, and visit the brother settled in that country, but the attractions of Uppercross induced him to put this off. There was so much of friendliness, and of flattery, and of everything most bewitching in his reception there; the old were so hospitable, the young so agreeable, that he could not but resolve to remain where he was, and take all the charms and perfections of Edward's wife upon credit a little longer.

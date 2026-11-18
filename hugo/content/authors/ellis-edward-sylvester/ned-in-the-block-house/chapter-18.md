@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Fiery Enemy"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-18.html"
 ---
 
 Every one in the block-house, with the exception of the two little girls of Colonel Preston, was wide awake. The conviction was so strong that the crisis was at hand, that even Blossom Brown hunted out his young master Ned Preston, and placing himself by his side, said—

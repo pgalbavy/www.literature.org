@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - How Sir Nigel Took The Patch From His Eye"
 weight: 36
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-36.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-36.html"
 ---
 
 IT was a cold, bleak morning in the beginning of March, and the mist was drifting in dense rolling clouds through the passes of the Cantabrian mountains. The Company, who had passed the night in a sheltered gully, were already astir, some crowding round the blazing fires and others romping or leaping over each other's backs for their limbs were chilled and the air biting. Here and there, through the dense haze which surrounded them, there loomed out huge pinnacles and jutting boulders of rock: while high above the sea of vapor there towered up one gigantic peak, with the pink glow of the early sunshine upon its snow-capped head. The ground was wet, the rocks dripping, the grass and ever-greens sparkling with beads of moisture; yet the camp was loud with laughter and merriment, for a messenger had ridden in from the prince with words of heart-stirring praise for what they had done, and with orders that they should still abide in the forefront of the army.

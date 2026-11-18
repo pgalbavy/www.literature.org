@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - The Man Tom Wanted To See"
 weight: 28
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-28.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-28.html"
 ---
 
 IN *SPITE* of the exciting events of the night Tom fell asleep and slept soundly till morning. He had done his duty as a matter of course and it did not occur to him that he had done anything heroic till he read a paragraph in the paper the next day giving an account of the affair, in which he was spoken of in the most complimentary terms. The paragraph was headed "A Young Hero."

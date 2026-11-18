@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-11.html"
+url: "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-11.html"
 ---
 
 For a little space the two men looked at each other, the Deacon to outward seeming with the casual interest of a chance meeting, and the boy with a lowering truculence which augured trouble.

@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 4 - In Which Sancho Panza Gives A Satisfactory Reply To The Doubts And Questions Of The Bachelor Samson Carrasco, Together With Other Matters Worth Knowing And Telling"
 weight: 60
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-04.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-04.html"
 ---
 
 Sancho came back to Don Quixote’s house, and returning to the late subject of conversation, he said, "As to what Señor Samson said, that he would like to know by whom, or how, or when my ass was stolen, I say in reply that the same night we went into the Sierra Morena, flying from the Holy Brotherhood after that unlucky adventure of the galley slaves, and the other of the corpse that was going to Segovia, my master and I ensconced ourselves in a thicket, and there, my master leaning on his lance, and I seated on my Dapple, battered and weary with the late frays we fell asleep as if it had been on four feather mattresses; and I in particular slept so sound, that, whoever he was, he was able to come and prop me up on four stakes, which he put under the four corners of the pack-saddle in such a way that he left me mounted on it, and took away Dapple from under me without my feeling it."

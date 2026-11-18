@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39"
 weight: 39
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-39.html"
+url: "/authors/forster-e-m/howards-end/chapter-39.html"
 ---
 
 Charles and Tibby met at Ducie Street, where the latter was staying. Their interview was short and absurd. They had nothing in common but the English language, and tried by its help to express what neither of them understood. Charles saw in Helen the family foe. He had singled her out as the most dangerous of the Schlegels, and, angry as he was, looked forward to telling his wife how right he had been. His mind was made up at once; the girl must be got out of the way before she disgraced them farther. If occasion offered she might be married to a villain, or, possibly, to a fool. But this was a concession to morality, it formed no part of his main scheme. Honest and hearty was Charles’s dislike, and the past spread itself out very clearly before him; hatred is a skilful compositor. As if they were heads in a note-book, he ran through all the incidents of the Schlegels’ campaign: the attempt to compromise his brother, his mother’s legacy, his father’s marriage, the introduction of the furniture, the unpacking of the same. He had not yet heard of the request to sleep at Howards End; that was to be their master-stroke and the opportunity for his. But he already felt that Howards End was the objective, and, though he disliked the house, was determined to defend it.

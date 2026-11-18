@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-21.html"
+url: "/authors/forster-e-m/howards-end/chapter-21.html"
 ---
 
 Charles had just been scolding his Dolly. She deserved the scolding, and had bent before it, but her head, though bloody was unsubdued and her chirrupings began to mingle with his retreating thunder.

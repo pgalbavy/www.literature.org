@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-14.html"
+url: "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-14.html"
 ---
 
 The post-office at Possum Trot, which serves the dwellers along the waters of Skinflint, is housed in one corner of a shack store and the distribution of its mail is attended with a friendly informality.

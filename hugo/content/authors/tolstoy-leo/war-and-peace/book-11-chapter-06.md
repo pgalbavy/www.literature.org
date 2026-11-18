@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 6"
 weight: 235
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-06.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-06.html"
 ---
 
 Helene, having returned with the court from Vilna to Petersburg, found herself in a difficult position.

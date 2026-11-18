@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 36"
 weight: 226
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-36.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-36.html"
 ---
 
 Prince Andrew's regiment was among the reserves which till after one o'clock were stationed inactive behind Semenovsk, under heavy artillery fire. Toward two o'clock the regiment, having already lost more than two hundred men, was moved forward into a trampled oatfield in the gap between Semenovsk and the Knoll Battery, where thousands of men perished that day and on which an intense, concentrated fire from several hundred enemy guns was directed between one and two o'clock.

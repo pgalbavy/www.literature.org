@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 13"
 weight: 47
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-13.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-13.html"
 ---
 
 Levin put on his big boots, and, for the first time, a cloth jacket, instead of his fur cloak, and went out to look after his farm, stepping over streams of water that flashed in the sunshine and dazzled his eyes, and treading one minute on ice and the next into sticky mud.

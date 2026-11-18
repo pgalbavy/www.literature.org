@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-02.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-02.html"
 ---
 
 Siegmund's violin, desired of Helena, lay in its case beside Siegmund's lean portmanteau in the white dust of the lumber-room in Highgate. It was worth twenty pounds, but Beatrice had not yet roused herself to sell it; she kept the black case out of sight.

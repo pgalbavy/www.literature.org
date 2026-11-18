@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Kaatje Brings News"
 weight: 18
-aliases:
-  - "/authors/haggard-h-rider/finished/chapter-17.html"
+url: "/authors/haggard-h-rider/finished/chapter-17.html"
 ---
 
 Zikali burst into one of his peals of laughter, so unholy that it caused the blood in me to run cold.

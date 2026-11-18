@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Stirring Times"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-07.html"
 ---
 
 Warren Starr and Tim Brophy sprang up at the same instant. The gray light of the early wintry morning was stealing through the rocky solitude, the snow had ceased falling, and the weather was colder than on the preceding evening. The pony also began struggling to his feet, but the youths in their excitement paid no heed to him.

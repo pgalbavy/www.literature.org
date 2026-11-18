@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Strange Whispers"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-01.html"
 ---
 
 The wild folk in Pleasant Valley were whispering strange stories to one another. If the stories were true, they were most amazing. And if they were merely made up to cause talk, certainly they succeeded.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - A Visitor"
 weight: 12
-aliases:
-  - "/authors/hodgson-burnett-frances/miss-crespigny/chapter-12.html"
+url: "/authors/hodgson-burnett-frances/miss-crespigny/chapter-12.html"
 ---
 
 In the meantime, however, she made herself very agreeable and attractive to her hostesses, and enjoyed Pen’yllan very much, in a girlish way. She explored the tiny village, and the rude shore. She made friends with fishermen, and their wives, and sturdy children. She won admiration on every side by her pretty interest in everything appertaining to the Pen’yllanites. She took long walks on the sands, and brought home shells, and sea-weed, and pebbles, with such honest delight in any trifling rarity, as made Lisbeth look on and feel restless, and the Misses Tregarthyn grow young again, unitedly.

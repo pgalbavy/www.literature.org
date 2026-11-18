@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/coolidge-dane/the-desert-trail/chapter-24.html"
+url: "/authors/coolidge-dane/the-desert-trail/chapter-24.html"
 ---
 
 In a land of class privilege and official graft it is often only in times of anarchy that a poor man can get his rights. For eight months Hooker had battled against the petty intrigue of Aragon and the agente mineral, and then suddenly, when the times turned to war and fear gripped at their hearts, he rose up and claimed his own, holding out his brawny right hand and demanding the concession to his mine.

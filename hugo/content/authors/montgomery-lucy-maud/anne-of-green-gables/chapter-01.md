@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Mrs. Rachel Lynde is Surprised"
 weight: 1
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-01.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-01.html"
 ---
 
 Mrs. Rachel Lynde lived just where the Avonlea main road dipped down into a little hollow, fringed with alders and ladies' eardrops and traversed by a brook that had its source away back in the woods of the old Cuthbert place; it was reputed to be an intricate, headlong brook in its earlier course through those woods, with dark secrets of pool and cascade; but by the time it reached Lynde's Hollow it was a quiet, well-conducted little stream, for not even a brook could run past Mrs. Rachel Lynde's door without due regard for decency and decorum; it probably was conscious that Mrs. Rachel was sitting at her window, keeping a sharp eye on everything that passed, from brooks and children up, and that if she noticed anything odd or out of place she would never rest until she had ferreted out the whys and wherefores thereof.

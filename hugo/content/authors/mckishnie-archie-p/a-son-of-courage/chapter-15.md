@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Billy's Problems Multiply"
 weight: 15
-aliases:
-  - "/authors/mckishnie-archie-p/a-son-of-courage/chapter-15.html"
+url: "/authors/mckishnie-archie-p/a-son-of-courage/chapter-15.html"
 ---
 
 Recovery of the stolen goods caused considerable excitement in the Settlement. For a week or so nothing else was talked of and conjecture ran rife as to why the thieves had not made off with their pillage rather than hide it in the haunted house. Harry O'Dule came in for a plenty of praise for the part he had played in finding the loot but beyond hinting that the job had been more than easy for the seventh son of a seventh son, he was reticent on the subject. That he should have returned the liquor almost intact, to the owner, was a conundrum to all who knew him, with the exception of Billy and Maurice.

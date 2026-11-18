@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Home Again"
 weight: 7
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-07.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-07.html"
 ---
 
 Those first three weeks at Redmond had seemed long; but the rest of the term flew by on wings of wind. Before they realized it the Redmond students found themselves in the grind of Christmas examinations, emerging therefrom more or less triumphantly. The honor of leading in the Freshman classes fluctuated between Anne, Gilbert and Philippa; Priscilla did very well; Charlie Sloane scraped through respectably, and comported himself as complacently as if he had led in everything.

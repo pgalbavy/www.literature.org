@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 11"
 weight: 19
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-02-chapter-11.html"
+url: "/authors/haggard-h-rider/cleopatra/book-02-chapter-11.html"
 ---
 
 OF THE TOMB OF THE DIVINE MENKAU-RA; OF THE WRITING ON THE BREAST OF MENKAU-RA; OF THE DRAWING FORTH OF THE TREASURE; OF THE DWELLER IN THE TOMB; AND OF THE FLIGHT OF CLEOPATRA AND HARMACHIS FROM THE HOLY PLACE

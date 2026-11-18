@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - “Liz”"
 weight: 2
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-02.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-02.html"
 ---
 
 “Th' owd lad's been at his tricks again,” was the rough comment made on Joan Lowrie's appearance when she came down to her work the next morning; but Joan looked neither right nor left, and went to her place without a word. Not one among them had ever heard her speak of her miseries and wrongs, or had known her to do otherwise than ignore the fact that their existence was well known among her fellow-workers.

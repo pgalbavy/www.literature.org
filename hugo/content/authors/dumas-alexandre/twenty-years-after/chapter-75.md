@@ -1,8 +1,7 @@
 ---
 title: "Chapter 75 - The Return"
 weight: 75
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-75.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-75.html"
 ---
 
 During the six weeks that Athos and Aramis had been absent from France, the Parisians, finding themselves one morning without either queen or king, were greatly annoyed at being thus deserted, and the absence of Mazarin, a thing so long desired, did not compensate for that of the two august fugitives.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Lightfoot In The Woods"
 weight: 10
-aliases:
-  - "/authors/barnum-richard/lightfoot-the-leaping-goat/chapter-10.html"
+url: "/authors/barnum-richard/lightfoot-the-leaping-goat/chapter-10.html"
 ---
 
 Without stopping to look back at the canal boat from which he had escaped, Lightfoot ran on through the bushes, and soon found himself in some woods. He was afraid some one from the boat might run after him, and take him back there.

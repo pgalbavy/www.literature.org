@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-03.html"
+url: "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-03.html"
 ---
 
 Old man Bud Jason stood at the door of his tub-mill, leaning on the long hickory staff which he always carried. He stood gauntly tall even now that his once-broad shoulders sagged and his mane of hair was white, and from his lips came a querulous mumbling as though he were awaiting some one tardy of arrival. At last, though, he gave a grunt of relief when the thicket far above him stirred and the figure of Bear Cat Stacy appeared, bending under his load of grist.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 36
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-35.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-35.html"
 ---
 
 With his last words Colonel Race had swung away and left us. I stood staring after him. Harry’s voice recalled me to myself.

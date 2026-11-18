@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Lady With The Hatchet"
 weight: 7
-aliases:
-  - "/authors/leblanc-maurice/the-eight-strokes-of-the-clock/chapter-06.html"
+url: "/authors/leblanc-maurice/the-eight-strokes-of-the-clock/chapter-06.html"
 ---
 
 One of the most incomprehensible incidents that preceded the great war was certainly the one which was known as the episode of the lady with the hatchet. The solution of the mystery was unknown and would never have been known, had not circumstances in the cruellest fashion obliged Prince Rénine--or should I say, Arsène Lupin?--to take up the matter and had I not been able to-day to tell the true story from the details supplied by him.

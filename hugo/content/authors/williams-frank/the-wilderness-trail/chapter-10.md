@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Escape"
 weight: 10
-aliases:
-  - "/authors/williams-frank/the-wilderness-trail/chapter-10.html"
+url: "/authors/williams-frank/the-wilderness-trail/chapter-10.html"
 ---
 
 It was the old battle between love and duty. The pile of covered newspapers lay unheeded beside the young man's chair. He pictured Jean Fitzpatrick in every conceivable peril of the winter on those desolate barrens--as the prisoner of Indians, of trappers, as the prey of wild beasts, as the prey of men. He writhed at his impotence, and cursed the day that had seen his rescue on Death Trail. Better a skeleton without flesh, he thought, than a living being whose every thought tortured him to desperation.

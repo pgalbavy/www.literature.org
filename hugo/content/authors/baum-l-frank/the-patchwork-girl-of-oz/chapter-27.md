@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 28
-aliases:
-  - "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-27.html"
+url: "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-27.html"
 ---
 
 The Tin Woodman was one of the most important personages in all Oz. Though Emperor of the Winkies, he owed allegiance to Ozma, who ruled all the land, and the girl and the tin man were warm personal friends. He was something of a dandy and kept his tin body brilliantly polished and his tin joints well oiled. Also he was very courteous in manner and so kind and gentle that everyone loved him. The Emperor greeted Ojo and Scraps with cordial hospitality and ushered the entire party into his handsome tin parlor, where all the furniture and pictures were made of tin. The walls were paneled with tin and from the tin ceiling hung tin chandeliers.

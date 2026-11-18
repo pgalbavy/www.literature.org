@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - A Serious Question"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-23.html"
 ---
 
 Larry Murphy was in no mood for trifling. He had spared Arqu-wao twice, and he did not mean to do it again.

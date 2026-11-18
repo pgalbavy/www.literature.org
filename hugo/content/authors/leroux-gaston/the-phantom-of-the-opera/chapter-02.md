@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The New Margarita"
 weight: 3
-aliases:
-  - "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-02.html"
+url: "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-02.html"
 ---
 
 On the first landing, Sorelli ran against the Comte de Chagny, who was coming up-stairs. The count, who was generally so calm, seemed greatly excited.

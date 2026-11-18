@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-02.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-02.html"
 ---
 
 The little party trooped out of the restaurant and made their way to a corner of the lounge, where tables had already been prepared with coffee and liqueurs. Geraldine Conyers and Captain Granet, who had lingered behind, found a table to themselves. Lady Anselman laid her fingers upon Major Thomson's arm.

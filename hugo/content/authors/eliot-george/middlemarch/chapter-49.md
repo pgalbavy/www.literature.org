@@ -1,8 +1,7 @@
 ---
 title: "Chapter 49"
 weight: 49
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-49.html"
+url: "/authors/eliot-george/middlemarch/chapter-49.html"
 ---
 
 A task too strong for wizard spells This squire had brought about; 'T is easy dropping stones in wells, But who shall get them out?"

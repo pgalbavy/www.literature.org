@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Lady Of The House"
 weight: 12
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-home/chapter-11.html"
+url: "/authors/gilman-charlotte-perkins/the-home/chapter-11.html"
 ---
 
 The effect of the house upon women is as important as might be expected of one continuous environment upon any living creature. The house varies with the varying power and preference of the owner; but to a house of some sort the woman has been confined for a period as long as history. This confinement is not to be considered as an arbitrary imprisonment under personal cruelty, but as a position demanded by public opinion, sanctioned by religion, and enforced by law.

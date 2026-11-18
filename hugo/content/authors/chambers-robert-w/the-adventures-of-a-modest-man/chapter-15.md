@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Flotsam And Jetsam"
 weight: 15
-aliases:
-  - "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-15.html"
+url: "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-15.html"
 ---
 
 "Ellis," said Jones, earnestly, as they climbed to the camp and stood gazing at the whitening ashes of their fire, "the simple life is a state of mind. I'm in it, now. And—do you know, Ellis, that—I —I could learn to like it?"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-21.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-21.html"
 ---
 
 The moment ceased to be so fanciful and curiously exalted when his hand was grasped and a big, kind palm laid on his shoulder, though Tom's face was full of emotion.

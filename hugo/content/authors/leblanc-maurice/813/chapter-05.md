@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - M. Lenormand At Work"
 weight: 6
-aliases:
-  - "/authors/leblanc-maurice/813/chapter-05.html"
+url: "/authors/leblanc-maurice/813/chapter-05.html"
 ---
 
 On the morning of the 31st of May, all the newspapers reminded their readers that Lupin, in a letter addressed to M. Lenormand, had announced the escape of the messenger Jérôme for that date. And one of them summed up the situation, as it then stood, in very able terms:

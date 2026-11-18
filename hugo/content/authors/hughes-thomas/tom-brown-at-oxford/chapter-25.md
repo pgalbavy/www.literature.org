@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Commemoration"
 weight: 27
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-25.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-25.html"
 ---
 
 The end of the academic year was now at hand, and Oxford was beginning to put on her gayest clothing. The college gardeners were in a state of unusual activity, and the lawns and flower-beds which form such exquisite settings to many of the venerable grey, gabled buildings, were as neat and as bright as hands could make them. Cooks, butlers and their assistants were bestirring themselves in kitchen and buttery, under the direction of bursars jealous of the fame of their houses, in the preparation of the abundant and solid fare with which Oxford is wont to entertain all comers. Everything the best of its kind, no stint but no nonsense, seems to be the wise rule which the University hands down and lives up to in these matters. However we may differ as to her degeneracy in other departments, all who have ever visited her will admit that in this of hospitality she is still a great national teacher, acknowledging and preaching by example the fact, that eating and drinking are important parts of man's life, which are to be allowed their due prominence, and not thrust into a corner, but are to be done soberly and thankfully, in the sight of God and man. The coaches were bringing in heavy loads of visitors; carriages of all kinds were coming in from the neighbouring counties; and lodgings in the High-street were going up to fabulous prices.

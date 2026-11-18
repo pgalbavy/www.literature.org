@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Third Appeal"
 weight: 22
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-21.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-21.html"
 ---
 
 Face to face they stood, while at the vision of her sweetness his heart grew still. Face to face, and the faint light fell upon her tender loveliness and died in her deep eyes, and the faint breeze fragrant with the breath of pines gently stirred her hair. Oh, it was worth living to see her thus!

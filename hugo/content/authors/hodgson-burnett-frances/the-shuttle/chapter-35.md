@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - The Tidal Wave"
 weight: 35
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-35.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-35.html"
 ---
 
 There was only one man to speak to, and it being the nature of the beast--so he harshly put it to himself--to be absolutely impelled to speech at such times, Mount Dunstan laid bare his breast to him, tearing aside all the coverings pride would have folded about him. The man was, of course, Penzance, and the laying bare was done the evening after the story of Red Godwyn had been told in the laurel walk.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - A Little Remnant"
 weight: 26
-aliases:
-  - "/authors/verne-jules/an-antartic-mystery/chapter-26.html"
+url: "/authors/verne-jules/an-antartic-mystery/chapter-26.html"
 ---
 
 That same day, in the afternoon, the Paracuta departed from the coast of the Land of the Sphinx, which had lain to the west of us since the 21st of February.   By the death of Dirk Peters the number of the passengers was reduced to twelve. These were all who remained of the double crew of the two schooners, the first comprising thirty-eight men, the second, thirty-two; in all seventy souls. But let it not be forgotten that the voyage of the Halbrane had been undertaken in fulfilment of a duty to humanity, and four of the survivors of the Jane owed their rescue to it.   And now there remains but little to tell, and that must be related as succinctly as possible. It is unnecessary to dwell upon our return voyage, which was favoured by the constancy of the currents and the wind to the northern course. The last part of the voyage was accomplished amid great fatigue, suffering, and but it ended in our safe deliverance from all these.   Firstly, a few days after our departure from the Land the Sphinx, the sun set behind the western horizon reappear no more for the whole winter. It was then

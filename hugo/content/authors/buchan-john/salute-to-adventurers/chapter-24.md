@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - I Suffer The Heathen's Rage"
 weight: 25
-aliases:
-  - "/authors/buchan-john/salute-to-adventurers/chapter-24.html"
+url: "/authors/buchan-john/salute-to-adventurers/chapter-24.html"
 ---
 
 As I stumbled through the moonlit forest I heard Ringan's tunes ever crooning among the trees. First it was the old mad march of "Bundle and go," which the pipers play when the clans are rising. Then it changed to the lilt of "Colin's Cattle," which is an air that the fairies made, and sung in the ear of a shepherd who fell asleep in one of their holy places. And then it lost all mortal form, and became a thing as faint as the wind in the tree-tops or the humming of bees in clover. My weary legs stepped out to this wizard music, and the spell of it lulled my fevered thoughts into the dull patience of the desperate.

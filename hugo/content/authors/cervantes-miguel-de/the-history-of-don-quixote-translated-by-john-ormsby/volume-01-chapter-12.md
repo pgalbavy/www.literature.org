@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 12 - Of What A Goatherd Related To Those With Don Quixote"
 weight: 15
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-12.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-12.html"
 ---
 
 Just then another young man, one of those who fetched their provisions from the village, came up and said, "Do you know what is going on in the village, comrades?"

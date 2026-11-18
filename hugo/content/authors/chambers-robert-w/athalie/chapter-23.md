@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-23.html"
+url: "/authors/chambers-robert-w/athalie/chapter-23.html"
 ---
 
 Over the garden a waning moon silvered the water in the pool and picked out from banked masses of bloom a tall lily here and there.

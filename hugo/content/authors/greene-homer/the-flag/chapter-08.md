@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/greene-homer/the-flag/chapter-08.html"
+url: "/authors/greene-homer/the-flag/chapter-08.html"
 ---
 
 It was well along in April, that year, before the last of the winter's snow disappeared, and the robins and blue-birds darted in and out among the naked trees. But, as the sun grew high, and the days long, and the spring languor filled the air, Pen felt an ever-increasing dissatisfaction with his position in his grandfather Walker's household, and an ever-increasing desire to relinquish it. Not that he was afraid or ashamed to work; he had sufficiently demonstrated that he was not. Not that he ever expected to return to Bannerhall, for he had no such thought. To beg to be taken back was unthinkable; that he should be invited back was most improbable. He had not seen his grandfather Butler since he came away, nor had he heard from him, except for the vivid and oft-repeated recital by Grandpa Walker of the spruce tree episode, and save through his Aunt Millicent who made occasional visits to the family at Cobb's Corners. That he deplored Pen's departure there could be no doubt, but that he would either invite or compel him to return was beyond belief. So Pen's tasks had come to be very irksome to him, and his mode of life very dissatisfying. If he worked he wanted to work for himself, at a task in which he could take interest and pride. At Cobb's Corners he could see no future for himself worthy of the name. Many times he discussed the situation with his mother, and, painful as it would be to her to lose him, she agreed with him that he must go. He waited only the opportunity.

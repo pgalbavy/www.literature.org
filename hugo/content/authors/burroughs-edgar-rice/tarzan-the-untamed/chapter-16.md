@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Night Attack"
 weight: 16
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-16.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-16.html"
 ---
 
 As the girl turned to bid them good night, she thought that she saw a shadowy form moving in the darkness beyond them, and almost simultaneously she was sure that she heard the sounds of stealthy movement in the same direction.

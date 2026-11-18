@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 2 - Mr. Tulliver, Of Dorlcote Mill, Declares His Resolution About Tom"
 weight: 2
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-01-chapter-02.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-01-chapter-02.html"
 ---
 
 "What I want, you know," said Mr. Tulliver, - "what I want is to give Tom a good eddication; an eddication as'll be a bread to him. That was what I was thinking of when I gave notice for him to leave the academy at Lady-day. I mean to put him to a downright good school at Midsummer. The two years at th' academy 'ud ha' done well enough, if I'd meant to make a miller and farmer of him, for he's had a fine sight more schoolin' nor I ever got. All the learnin' my father ever paid for was a bit o' birch at one end and the alphabet at th' other. But I should like Tom to be a bit of a scholard, so as he might be up to the tricks o' these fellows as talk fine and write with a flourish. It 'ud be a help to me wi' these lawsuits, and arbitrations, and things. I wouldn't make a downright lawyer o' the lad, - I should be sorry for him to be a raskill, - but a sort o' engineer, or a surveyor, or an auctioneer and vallyer, like Riley, or one o' them smartish businesses as are all profits and no outlay, only for a big watch-chain and a high stool. They're pretty nigh all one, and they're not far off being even wi' the law, I believe; for Riley looks Lawyer Wakem i' the face as hard as one cat looks another. He's none frightened at him."

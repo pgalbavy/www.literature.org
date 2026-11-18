@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 2"
 weight: 36
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-02.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-02.html"
 ---
 
 Soon after the doctor, Dolly had arrived. SHe knew that there was to be a consultation that day, and though she was only just up after her confinement (she had another baby, a little girl, born at the end of the winter), though she had trouble and anxiety enough of her own, she had left her tiny baby and a sick child, to come and hear Kitty's fate, which was to be decided that day.

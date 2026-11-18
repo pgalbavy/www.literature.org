@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - On Gosling Lake"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-07.html"
 ---
 
 The body of water referred to, which for certain reasons I shall call Gosling Lake—though that is not its real name—is of irregular form, about two miles long from east to west, and somewhat less in breadth. It is surrounded by pines, balsams and firs, which in most places grow quite close to the water’s edge, with here and there a grassy stretch of moderate extent, bordering the lake.

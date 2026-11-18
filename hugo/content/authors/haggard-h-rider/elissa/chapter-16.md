@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Cage Of Death"
 weight: 17
-aliases:
-  - "/authors/haggard-h-rider/elissa/chapter-16.html"
+url: "/authors/haggard-h-rider/elissa/chapter-16.html"
 ---
 
 An hour later the attack commenced at chosen points of the double wall, one of them being the southern gate. In front of the advancing columns of savages were driven vast numbers of slaves, many of whom had been captured, or had surrendered in the outer town. These men were laden with faggots to fill the ditch, rude ladders wherewith to scale the walls, and heavy trunks of trees to be used in breaching them. For the most part, they were unarmed, and protected only by their burdens, which they held before them as shields, and by the arrows of the warriors of Ithobal. But these did little harm to the defenders, who were hidden behind the walls, whereas the shafts of the garrison, rained on them from above, killed or wounded the slaves by scores, who, poor creatures, when they turned to fly, were driven onward by the spear-points of the savages, to be slain in heaps like game in a pitfall. Still, some of them lived, and running under the shelter of the wall, began to breach it with the rude battering rams, and to raise the scaling ladders till death found them, or they were worn out with excitement, fear and labour.

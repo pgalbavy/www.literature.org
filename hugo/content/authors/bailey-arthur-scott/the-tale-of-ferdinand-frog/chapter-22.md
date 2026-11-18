@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Learning To Hold His Breath"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-22.html"
 ---
 
 There on the bank of Black Creek Mr. Frog and Long Bill Wren talked in whispers about mud baths. And in a short time Long Bill announced that he had made up his mind to try one.

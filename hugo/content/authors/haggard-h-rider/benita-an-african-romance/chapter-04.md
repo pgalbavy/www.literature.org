@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Mr. Clifford"
 weight: 5
-aliases:
-  - "/authors/haggard-h-rider/benita-an-african-romance/chapter-04.html"
+url: "/authors/haggard-h-rider/benita-an-african-romance/chapter-04.html"
 ---
 
 Although the shock of the blow she had received upon her head was sufficient to make her insensible for so many hours, Benita’s injuries were not of a really serious nature, for as it happened the falling block, or whatever it may have been, had hit her forehead slantwise, and not full, to which accident she owed it that, although the skin was torn and the scalp bruised, her skull had escaped fracture. Under proper medical care her senses soon came back to her, but as she was quite dazed and thought herself still on board the Zanzibar, the doctor considered it wise to preserve her in that illusion for a while. So after she had swallowed some broth he gave her a sleeping draught, the effects of which she did not shake off till the following morning.

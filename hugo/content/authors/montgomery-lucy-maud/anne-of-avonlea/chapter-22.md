@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Odds And Ends"
 weight: 22
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-22.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-22.html"
 ---
 
 "So you had tea at the stone house with Lavendar Lewis?" said Marilla at the breakfast table next morning. "What is she like now? It's over fifteen years since I saw her last. . .it was one Sunday in Grafton church. I suppose she has changed a great deal. Davy Keith, when you want something you can't reach, ask to have it passed and don't spread yourself over the table in that fashion. Did you ever see Paul Irving doing that when he was here to meals?"

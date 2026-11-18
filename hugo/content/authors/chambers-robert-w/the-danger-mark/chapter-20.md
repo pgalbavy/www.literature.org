@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - In Search Of Herself"
 weight: 20
-aliases:
-  - "/authors/chambers-robert-w/the-danger-mark/chapter-20.html"
+url: "/authors/chambers-robert-w/the-danger-mark/chapter-20.html"
 ---
 
 As his train slowed down through the darkness and stopped at the snow-choked station, Duane, carrying suit-case, satchel, and fur coat, swung himself off the icy steps of the smoker and stood for a moment on the platform in the yellow glare of the railway lanterns, looking about him.

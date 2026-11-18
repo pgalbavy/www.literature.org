@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Second Vision"
 weight: 7
-aliases:
-  - "/authors/wells-herbert-george/soul-of-a-bishop/chapter-07.html"
+url: "/authors/wells-herbert-george/soul-of-a-bishop/chapter-07.html"
 ---
 
 (1)

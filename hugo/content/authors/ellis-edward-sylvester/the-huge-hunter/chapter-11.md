@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Steam Man On A Buffalo Hunt"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-11.html"
 ---
 
 *WITH A WILD* snort of alarm, the three buffaloes turned tail and dashed over the prairie, with the shrieking steam man in pursuit.

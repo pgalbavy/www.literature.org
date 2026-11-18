@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-01.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-01.html"
 ---
 
 With the wish that it were a richer and worthier tribute, this book is lovingly and gratefully dedicated

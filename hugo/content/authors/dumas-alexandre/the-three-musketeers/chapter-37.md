@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - Milady's Secret"
 weight: 38
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-37.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-37.html"
 ---
 
 D'Artagnan left the hotel instead of going up at once to Kitty's chamber, as she endeavored to persuade him to do - and that for two reasons: the first, because by this means he should escape reproaches, recriminations, and prayers; the second, because be was not sorry to have an opportunity of reading his own thoughts and endeavoring, if possible, to fathom those of this woman.

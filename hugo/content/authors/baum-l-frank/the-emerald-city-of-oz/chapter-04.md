@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-04.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-04.html"
 ---
 
 The reason most people are bad is because they do not try to be good. Now, the Nome King had never tried to be good, so he was very bad indeed. Having decided to conquer the Land of Oz and to destroy the Emerald City and enslave all its people, King Roquat the Red kept planning ways to do this dreadful thing, and the more he planned the more he believed he would be able to accomplish it.

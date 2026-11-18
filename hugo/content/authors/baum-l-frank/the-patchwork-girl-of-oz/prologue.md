@@ -1,8 +1,7 @@
 ---
 title: "Prologue"
 weight: 1
-aliases:
-  - "/authors/baum-l-frank/the-patchwork-girl-of-oz/prologue.html"
+url: "/authors/baum-l-frank/the-patchwork-girl-of-oz/prologue.html"
 ---
 
 Prologue Affectionately dedicated to my young friend Sumner Hamilton Britton of Chicago

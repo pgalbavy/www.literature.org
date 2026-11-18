@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 15"
 weight: 16
-aliases:
-  - "/authors/cather-willa/my-antonia/book-01-chapter-15.html"
+url: "/authors/cather-willa/my-antonia/book-01-chapter-15.html"
 ---
 
 OTTO FUCHS GOT back from Black Hawk at noon the next day. He reported that the coroner would reach the Shimerdas’ sometime that afternoon, but the missionary priest was at the other end of his parish, a hundred miles away, and the trains were not running. Fuchs had got a few hours’ sleep at the livery barn in town, but he was afraid the grey gelding had strained himself. Indeed, he was never the same horse afterward. That long trip through the deep snow had taken all the endurance out of him.

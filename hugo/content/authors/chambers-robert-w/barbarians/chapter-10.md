@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Ghouls"
 weight: 10
-aliases:
-  - "/authors/chambers-robert-w/barbarians/chapter-10.html"
+url: "/authors/chambers-robert-w/barbarians/chapter-10.html"
 ---
 
 They dined by the latticed window; two candles lighted them; old Anne served them—old Anne of Fäouette in her wide white coiffe and collarette, her velvet bodice and her *chaussons* broidered with the rose.

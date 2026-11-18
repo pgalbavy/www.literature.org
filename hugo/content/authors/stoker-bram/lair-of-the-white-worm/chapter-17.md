@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/stoker-bram/lair-of-the-white-worm/chapter-17.html"
+url: "/authors/stoker-bram/lair-of-the-white-worm/chapter-17.html"
 ---
 
 That afternoon Adam decided to do a little exploring. As he passed through the wood outside the gate of Diana's Grove, he thought he saw the African's face for an instant. So he went deeper into the undergrowth, and followed along parallel to the avenue to the house. He was glad that there was no workman or servant about, for he did not care that any of Lady Arabella's people should find him wandering about her grounds. Taking advantage of the denseness of the trees, he came close to the house and skirted round it. He was repaid for his trouble, for on the far side of the house, close to where the rocky frontage of the cliff fell away, he saw Oolanga crouched behind the irregular trunk of a great oak. The man was so intent on watching someone, or something, that he did not guard against being himself watched. This suited Adam, for he could thus make scrutiny at will.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Domestic Mythology"
 weight: 4
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-home/chapter-03.html"
+url: "/authors/gilman-charlotte-perkins/the-home/chapter-03.html"
 ---
 
 There is a school of myths connected with the home, more tenacious in their hold on the popular mind than even religious beliefs. Of all current superstitions none are deeper rooted, none so sensitive to the touch, so acutely painful in removal. We have lived to see nations outgrow some early beliefs, but others are still left us to study, in their long slow processes of decay. Belief in "the divine right of kings," for instance, is practically outgrown in America; and yet, given a king,--or even a king's brother,--and we show how much of the feeling remains in our minds, disclaim as we may the idea. Habits of thought persist through the centuries; and while a healthy brain may reject the doctrine it no longer believes, it will continue to feel the same sentiments formerly associated with that doctrine.

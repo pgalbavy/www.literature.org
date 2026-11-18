@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Tom In A Tight Place"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-25.html"
 ---
 
 *TOM’S NEW* employer was Oliver Burton. He had come from New Jersey originally with the intention of going to the mines, but he was shrewd enough to see, on landing in San Francisco, that trading was a more certain means of getting rich than mining. He established himself in the city, therefore, bought out a man who was compelled by sickness to retire from active business, and was now rich. Though occasionally irritable, he was in the main just and easy to get along with, and Tom soon got into favor.

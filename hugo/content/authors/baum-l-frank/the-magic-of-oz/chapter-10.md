@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/baum-l-frank/the-magic-of-oz/chapter-10.html"
+url: "/authors/baum-l-frank/the-magic-of-oz/chapter-10.html"
 ---
 
 The day was nearly gone when, at last, the raft was ready.

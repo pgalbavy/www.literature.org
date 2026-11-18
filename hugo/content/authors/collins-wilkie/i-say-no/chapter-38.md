@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - Dancing"
 weight: 38
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-38.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-38.html"
 ---
 
 The windows of the long drawing-room at Monksmoor are all thrown open to the conservatory. Distant masses of plants and flowers, mingled in ever-varying forms of beauty, are touched by the melancholy luster of the rising moon. Nearer to the house, the restful shadows are disturbed at intervals, where streams of light fall over them aslant from the lamps in the room. The fountain is playing. In rivalry with its lighter music, the nightingales are singing their song of ecstasy. Sometimes, the laughter of girls is heard--and, sometimes, the melody of a waltz. The younger guests at Monksmoor are dancing.

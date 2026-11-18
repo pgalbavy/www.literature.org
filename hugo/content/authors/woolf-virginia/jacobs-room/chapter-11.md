@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/woolf-virginia/jacobs-room/chapter-11.html"
+url: "/authors/woolf-virginia/jacobs-room/chapter-11.html"
 ---
 
 "Archer," said Mrs. Flanders with that tenderness which mothers so often display towards their eldest sons, "will be at Gibraltar to-morrow."

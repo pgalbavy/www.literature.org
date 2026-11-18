@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Scotter’s Luck"
 weight: 11
-aliases:
-  - "/authors/ridge-w-pett/table-dhote/chapter-11.html"
+url: "/authors/ridge-w-pett/table-dhote/chapter-11.html"
 ---
 
 HIS opponent, after a good look at the table, adjusted his cue, and, disregarding the murmur of “Whitechapel!” sent spot white into a pocket. Many of the spectators volunteered advice, the while Scotter stood back and glanced self-commiseratingly at the scoring-board.

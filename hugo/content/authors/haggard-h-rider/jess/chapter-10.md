@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - John Has An Escape"
 weight: 10
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-10.html"
+url: "/authors/haggard-h-rider/jess/chapter-10.html"
 ---
 
 On the following Monday, John, taking Jantje to drive him, departed in a rough Scotch cart, to which were harnessed two of the best horses at Mooifontein, to shoot buck at Hans Coetzee’s.

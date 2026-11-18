@@ -1,8 +1,7 @@
 ---
 title: "Canto 15"
 weight: 16
-aliases:
-  - "/authors/byron-lord/don-juan/canto-15.html"
+url: "/authors/byron-lord/don-juan/canto-15.html"
 ---
 
 Ah!  

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-14.html"
+url: "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-14.html"
 ---
 
 With wide eyes fixed upon him, like a trapped creature horrified beneath the mesmeric gaze of a great serpent, the girl watched the approach of the man. Her hands were free, the Swedes having secured her with a length of ancient slave chain fastened at one end to an iron collar padlocked about her neck and at the other to a long stake driven deep into the ground.

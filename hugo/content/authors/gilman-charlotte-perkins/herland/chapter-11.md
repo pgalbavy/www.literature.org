@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Our Difficulties"
 weight: 11
-aliases:
-  - "/authors/gilman-charlotte-perkins/herland/chapter-11.html"
+url: "/authors/gilman-charlotte-perkins/herland/chapter-11.html"
 ---
 
 We say, “Marriage is a lottery”; also “Marriages are made in Heaven”--but this is not so widely accepted as the other.

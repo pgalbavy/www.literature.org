@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Old Harry Makes A Find"
 weight: 12
-aliases:
-  - "/authors/mckishnie-archie-p/a-son-of-courage/chapter-12.html"
+url: "/authors/mckishnie-archie-p/a-son-of-courage/chapter-12.html"
 ---
 
 Through the dusky twilight, soft with woodland dews and sweet with odor of ferns and wild flowers, Billy walked slowly. For the first time in long days his heart felt at peace. The canker of loneliness that had gnawed at his spirit was there no longer. It was a pretty good old world after all.

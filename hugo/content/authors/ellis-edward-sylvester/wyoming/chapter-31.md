@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-31.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-31.html"
 ---
 
 "Yes," added Jake, with a sigh of something like pleasure; "it looks very much as though I've got a chance to even up my accounts with 'em all. The folks are having a good time on t'other side the river, and to-morrer, when Forty Fort surrenders, Wyoming will be wiped out so clean that the only way of telling where it has been will be by the ashes.

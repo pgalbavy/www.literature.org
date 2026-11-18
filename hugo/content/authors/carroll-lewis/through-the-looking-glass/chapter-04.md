@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Tweedledum and Tweedledee"
 weight: 4
-aliases:
-  - "/authors/carroll-lewis/through-the-looking-glass/chapter-04.html"
+url: "/authors/carroll-lewis/through-the-looking-glass/chapter-04.html"
 ---
 
 They were standing under a tree, each with an arm round the other's neck, and Alice knew which was which in a moment, because one of them had 'DUM' embroidered on his collar, and the other 'DEE.' 'I suppose they've each got "TWEEDLE" round at the back of the collar,' she said to herself.

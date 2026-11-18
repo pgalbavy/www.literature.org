@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-16.html"
+url: "/authors/forster-e-m/howards-end/chapter-16.html"
 ---
 
 Leonard accepted the invitation to tea next Saturday. But he was right; the visit proved a conspicuous failure.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - In the Jolly Cricketers"
 weight: 16
-aliases:
-  - "/authors/wells-herbert-george/the-invisible-man/chapter-16.html"
+url: "/authors/wells-herbert-george/the-invisible-man/chapter-16.html"
 ---
 
 The Jolly Cricketers is just at the bottom of the hill, where the tram-lines begin. The barman leant his fat red arms on the counter and talked of horses with an anaemic cabman, while a black- bearded man in grey snapped up biscuit and cheese, drank Burton, and conversed in American with a policeman off duty.

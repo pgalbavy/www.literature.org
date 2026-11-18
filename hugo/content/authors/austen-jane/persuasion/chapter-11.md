@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/austen-jane/persuasion/chapter-11.html"
+url: "/authors/austen-jane/persuasion/chapter-11.html"
 ---
 
 The time now approached for Lady Russell's return: the day was even fixed; and Anne, being engaged to join her as soon as she was resettled, was looking forward to an early removal to Kellynch, and beginning to think how her own comfort was likely to be affected by it.

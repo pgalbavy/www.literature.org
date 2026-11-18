@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/ridge-w-pett/the-amazing-years/chapter-19.html"
+url: "/authors/ridge-w-pett/the-amazing-years/chapter-19.html"
 ---
 
 It seemed to me that I should have to go to work cautiously in regard to the new scheme in my mind concerning The Croft. A policy of carefulness had grown up at Gloucester Place; for some time past accounts had been kept, accounts that had to balance or the expert young folk applied themselves to the figures, and ascertained the reason why. Mr. Hillier, as I knew, had been saving money since the loss of his wife (she, dear soul, never was able to acquire the useful trick) and once a man begins to hoard it is difficult to induce him to embark upon anything like adventure or risk. Also, I could not be sure to what extent their affection for the rooms in Gloucester Place might weigh; it was certain that the struggles and triumphs associated in their minds with Greenwich would count whenever a suggestion was offered of removal. Once, a casual reference had been made to the house in Tressillian Road, Brockley, where we had lived before going to Chislehurst; this idea appeared to be lacking in boldness. There was Katherine's little chap to be considered. We had the Park at hand, but I was fearful that as he grew up he might be playing with other children and--Well, I suppose, we people who have once lived in large houses remain snobs to the rest of our days.

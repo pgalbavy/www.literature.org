@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 14"
 weight: 171
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-14.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-14.html"
 ---
 
 Next day at ten o'clock Levin, who had already gone his rounds, knocked at the room where Vassenka had been put for the night.

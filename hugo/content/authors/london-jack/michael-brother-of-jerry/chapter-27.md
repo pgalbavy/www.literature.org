@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 28
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-27.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-27.html"
 ---
 
 "The thing is, Johnny, you can't love dogs into doing professional tricks, which is the difference between dogs and women," Collins told his assistant. "You know how it is with any dog. You love it up into lying down and rolling over and playing dead and all such dub tricks. And then one day you show him off to your friends, and the conditions are changed, and he gets all excited and foolish, and you can't get him to do a thing. Children are like that. Lose their heads in company, forget all their training, and throw you down."

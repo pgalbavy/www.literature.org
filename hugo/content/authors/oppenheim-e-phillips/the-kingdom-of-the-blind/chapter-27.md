@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-27.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-27.html"
 ---
 
 Mr. Gordon Jones, who had moved his chair a little closer to his host's side, looked reflectively around the dining-room as he sipped his port. The butler remained on sufferance because of his grey hairs, but the footmen, who had been rather a feature of the Anselman establishment, had departed, and their places had been filled by half a dozen of the smartest of parlourmaids, one or two of whom were still in evidence.

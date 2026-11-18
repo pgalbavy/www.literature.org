@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42 - In Which Mazarin Becomes Prodigal"
 weight: 42
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-42.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-42.html"
 ---
 
 Whilst Mazarin was endeavoring to recover from the serious alarm he had just experienced, Athos and Raoul were exchanging a few words in a corner of the apartment. "Well, here you are at Paris, then, Raoul?" said the comte.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Benita Plans Escape"
 weight: 14
-aliases:
-  - "/authors/haggard-h-rider/benita-an-african-romance/chapter-13.html"
+url: "/authors/haggard-h-rider/benita-an-african-romance/chapter-13.html"
 ---
 
 The next morning, while she was cooking breakfast, Benita saw Jacob Meyer seated upon a rock at a little distance, sullen and disconsolate. His chin was resting on his hand, and he watched her intently, never taking his eyes from her face. She felt that he was concentrating his will upon her; that some new idea concerning her had come into his mind; for it was one of her miseries that she possessed the power of interpreting the drift of this man’s thoughts. Much as she detested him, there existed that curious link between them.

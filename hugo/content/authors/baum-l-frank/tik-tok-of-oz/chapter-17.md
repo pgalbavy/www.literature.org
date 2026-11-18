@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/baum-l-frank/tik-tok-of-oz/chapter-17.html"
+url: "/authors/baum-l-frank/tik-tok-of-oz/chapter-17.html"
 ---
 
 "Don't let us worry," said Shaggy to his companions, "for it may take the Queen some time to conquer the Metal Monarch, as Tik-Tok has to do everything in his slow, mechanical way."

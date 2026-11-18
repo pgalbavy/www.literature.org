@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Tabitha's Room-Mate"
 weight: 14
-aliases:
-  - "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-14.html"
+url: "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-14.html"
 ---
 
 The long, hot summer weeks came to an end at last, the dainty dresses were finished, the trunk packed, the short journey completed, and Tabitha stood breathless and quaking on the great stone steps before the goal of her ambitions, with the confident Carrie and timid Mercedes beside her, waiting to be admitted to the imposing edifice.

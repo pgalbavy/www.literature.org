@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 7 - The Man on Putney Hill"
 weight: 24
-aliases:
-  - "/authors/wells-herbert-george/the-war-of-the-worlds/book-02-chapter-07.html"
+url: "/authors/wells-herbert-george/the-war-of-the-worlds/book-02-chapter-07.html"
 ---
 
 I spent that night in the inn that stands at the top of Putney Hill, sleeping in a made bed for the first time since my flight to Leatherhead. I will not tell the needless trouble I had breaking into that house--afterwards I found the front door was on the latch--nor how I ransacked every room for food, until just on the verge of despair, in what seemed to me to be a servant's bedroom, I found a rat- gnawed crust and two tins of pineapple. The place had been already searched and emptied. In the bar I afterwards found some biscuits and sandwiches that had been over- looked. The latter I could not eat, they were too rotten, but the former not only stayed my hunger, but filled my pockets. I lit no lamps, fearing some Martian might come beating that part of London for food in the night. Before I went to bed I had an interval of restlessness, and prowled from window to window, peering out for some sign of these monsters. I slept little. As I lay in bed I found myself think- ing consecutively--a thing I do not remember to have done since my last argument with the curate. During all the inter- vening time my mental condition had been a hurrying suc- cession of vague emotional states or a sort of stupid recep- tivity. But in the night my brain, reinforced, I suppose, by the food I had eaten, grew clear again, and I thought.

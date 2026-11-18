@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Return Of The Blow-Hard"
 weight: 23
-aliases:
-  - "/authors/coolidge-dane/wunpost/chapter-23.html"
+url: "/authors/coolidge-dane/wunpost/chapter-23.html"
 ---
 
 Nothing was seen of John C. Calhoun for nearly a week and then, late one evening, he stepped in on Judson Eells in his office at the Blackwater Bank.

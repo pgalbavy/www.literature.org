@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-09.html"
+url: "/authors/london-jack/martin-eden/chapter-09.html"
 ---
 
 Back from sea Martin Eden came, homing for California with a lover's desire. His store of money exhausted, he had shipped before the mast on the treasure-hunting schooner; and the Solomon Islands, after eight months of failure to find treasure, had witnessed the breaking up of the expedition. The men had been paid off in Australia, and Martin had immediately shipped on a deep- water vessel for San Francisco. Not alone had those eight months earned him enough money to stay on land for many weeks, but they had enabled him to do a great deal of studying and reading.

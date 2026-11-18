@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - How D'artagnan Regulated The \u0026quot;Assets\u0026quot; Of The Company Before He Established Its \u0026quot;Liabilities\u0026quot;"
 weight: 37
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-37.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-37.html"
 ---
 
 "Decidedly," said D'Artagnan to himself, "I have struck a good vein. That star which shines once in the life of every man, which shone for Job and Iris, the most unfortunate of the Jews and the poorest of the Greeks, is come at last to shine on me. I will commit no folly, I will take advantage of it; it comes quite late enough to find me reasonable."

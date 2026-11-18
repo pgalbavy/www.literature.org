@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Sack Of Cats"
 weight: 13
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-13.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-13.html"
 ---
 
 The weary work of packing had gone on endlessly in the bare rooms of the old Huff house and now Virginia, with two kittens in her arms and the mother cat following behind, was passing it all in review. A solid row of packing boxes, arrayed on the front gallery, awaited the motor truck; and here and there in corners lay piles of discarded treasures that were destined to go to Charley for loot. He was hanging about, with his pistol well in front, on the watch for Stiff Neck George; but up to that moment the Widow had not said the word that would start the mad rush for plunder. Her trunks were all packed, the china nested in barrels and the bedding sewed up in burlap; but still from day to day she put off the evil moment, and Virginia did not try to hurry her. The house had been their home for ten years and more and, though Los Angeles would be fine with its palm trees and bungalows, it was a strange land, far away. And what would they do in that city of strange faces and hustling, eager real-estate agents? It was that which held the Widow back.

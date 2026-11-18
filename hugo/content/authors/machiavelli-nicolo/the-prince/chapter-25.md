@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - What Fortune Can Effect In Human Affairs And How To Withstand Her"
 weight: 26
-aliases:
-  - "/authors/machiavelli-nicolo/the-prince/chapter-25.html"
+url: "/authors/machiavelli-nicolo/the-prince/chapter-25.html"
 ---
 
 It is not unknown to me how many men have had, and still have, the opinion that the affairs of the world are in such wise governed by fortune and by God that men with their wisdom cannot direct them and that no one can even help them; and because of this they would have us believe that it is not necessary to labour much in affairs, but to let chance govern them. This opinion has been more credited in our times because of the great changes in affairs which have been seen, and may still be seen, every day, beyond all human conjecture. Sometimes pondering over this, I am in some degree inclined to their opinion. Nevertheless, not to extinguish our free will, I hold it to be true that Fortune is the arbiter of one-half of our actions,[1] but that she still leaves us to direct the other half, or perhaps a little less.

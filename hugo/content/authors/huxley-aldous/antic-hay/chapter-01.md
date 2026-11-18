@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/huxley-aldous/antic-hay/chapter-01.html"
+url: "/authors/huxley-aldous/antic-hay/chapter-01.html"
 ---
 
 Gumbril, Theodore Gumbril Junior, *B.A.* Oxon., sat in his oaken stall on the north side of the School Chapel and wondered, as he listened through the uneasy silence of half a thousand schoolboys to the First Lesson, pondered, as he looked up at the vast window opposite, all blue and jaundiced and bloody with nineteenth-century glass, speculated in his rapid and rambling way about the existence and the nature of God.

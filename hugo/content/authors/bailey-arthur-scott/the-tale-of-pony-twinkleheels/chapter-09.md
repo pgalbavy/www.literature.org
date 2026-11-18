@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Race"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-09.html"
 ---
 
 When Johnnie Green turned Twinkleheels and the old horse Ebenezer into the pasture, the first thing they did was to drop down on the grass and enjoy a good roll.

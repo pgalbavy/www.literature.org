@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Game Bird"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-17.html"
 ---
 
 Mr. Grouse moved back and forth upon his log in the clearing in the woods. And casting a withering glance at Turkey Proudfoot, he said, "It's plain that you don't know what a game bird is. Men--and boys, too--come into the woods with guns to hunt us. And we make game of them by rising swiftly with a loud whir and flying off before they have time to shoot us."

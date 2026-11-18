@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Through The Woods"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-05.html"
 ---
 
 The race between Wharton Edwards and the famous Shawanoe runner, Blazing Arrow, was to come off at last, but under far different circumstances than either had ever anticipated.

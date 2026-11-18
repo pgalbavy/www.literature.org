@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 1 - The House By The Shore"
 weight: 14
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-03-chapter-01.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-03-chapter-01.html"
 ---
 
 Months had passed away since Richard Shelton made his escape from the hands of his guardian. These months had been eventful for England. The party of Lancaster, which was then in the very article of death, had once more raised its head. The Yorkists defeated and dispersed, their leader butchered on the field, it seemed, for a very brief season in the winter following upon the events already recorded, as if the House of Lancaster had finally triumphed over its foes.

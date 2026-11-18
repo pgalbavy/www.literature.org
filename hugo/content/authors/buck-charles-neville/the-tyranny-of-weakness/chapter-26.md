@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-26.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-26.html"
 ---
 
 For the best part of an hour Stuart sat confusedly looking out across the cove. Then with the wish for some stimulating fillip he stripped and plunged into the sobering coolness of the water. Even after that he did not return to the house, but struck out aimlessly across the hills with little realization of direction and small selection of course. Once or twice a blackberry trailer caught his foot and he lurched heavily, recovering himself with difficulty.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/davis-richard-harding/soldiers-of-fortune/chapter-07.html"
+url: "/authors/davis-richard-harding/soldiers-of-fortune/chapter-07.html"
 ---
 
 At ten o'clock that same evening Clay began to prepare himself for the ball at the Government palace, and MacWilliams, who was not invited, watched him dress with critical approval that showed no sign of envy.

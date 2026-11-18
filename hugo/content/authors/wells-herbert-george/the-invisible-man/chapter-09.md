@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Mr. Thomas Marvel"
 weight: 9
-aliases:
-  - "/authors/wells-herbert-george/the-invisible-man/chapter-09.html"
+url: "/authors/wells-herbert-george/the-invisible-man/chapter-09.html"
 ---
 
 You must picture Mr. Thomas Marvel as a person of copious, flexible visage, a nose of cylindrical protrusion, a liquorish, ample, fluctuating mouth, and a beard of bristling eccentricity. His figure inclined to embonpoint; his short limbs accentuated this inclination. He wore a furry silk hat, and the frequent substitution of twine and shoe-laces for buttons, apparent at critical points of his costume, marked a man essentially bachelor.

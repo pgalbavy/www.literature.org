@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 12 - Mr. And Mrs. Glegg At Home"
 weight: 12
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-01-chapter-12.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-01-chapter-12.html"
 ---
 
 In order to see Mr. and Mrs. Glegg at home, we must enter the town of St. Ogg's, - that venerable town with the red fluted roofs and the broad warehouse gables, where the black ships unlade themselves of their burthens from the far north, and carry away, in exchange, the precious inland products, the well-crushed cheese and the soft fleeces which my refined readers have doubtless become acquainted with through the medium of the best classic pastorals.

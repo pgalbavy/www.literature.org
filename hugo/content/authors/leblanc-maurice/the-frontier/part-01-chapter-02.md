@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 2 - The Girl With The Bare Arms"
 weight: 2
-aliases:
-  - "/authors/leblanc-maurice/the-frontier/part-01-chapter-02.html"
+url: "/authors/leblanc-maurice/the-frontier/part-01-chapter-02.html"
 ---
 
 "He hasn't changed a bit.... His complexion is as fresh as ever.... The eyes are a little tired, perhaps ... but he's looking very well...."

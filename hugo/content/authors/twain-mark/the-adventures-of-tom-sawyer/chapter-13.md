@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 14
-aliases:
-  - "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-13.html"
+url: "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-13.html"
 ---
 
 TOM'S mind was made up now. He was gloomy and desperate. He was a forsaken, friendless boy, he said; nobody loved him; when they found out what they had driven him to, perhaps they would be sorry; he had tried to do right and get along, but they would not let him; since nothing would do them but to be rid of him, let it be so; and let them blame HIM for the consequences - why shouldn't they? What right had the friendless to complain? Yes, they had forced him to it at last: he would lead a life of crime. There was no choice.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Suitor"
 weight: 8
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-06.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-06.html"
 ---
 
 LADY LUNDIE pointed significantly to the door, and addressed herself to Sir Patrick's private ear.

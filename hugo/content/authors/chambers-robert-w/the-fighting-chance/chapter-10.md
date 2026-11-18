@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Seamy Side"
 weight: 10
-aliases:
-  - "/authors/chambers-robert-w/the-fighting-chance/chapter-10.html"
+url: "/authors/chambers-robert-w/the-fighting-chance/chapter-10.html"
 ---
 
 About four o'clock on the following afternoon Mrs. Mortimer's maid, who had almost finished drying and dressing her mistress' hair, was called to the door by a persistent knocking, which at first she had been bidden to disregard.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 53"
 weight: 53
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-53.html"
+url: "/authors/eliot-george/middlemarch/chapter-53.html"
 ---
 
 It is but a shallow haste which concludeth insincerity from what outsiders call inconsistency - putting a dead mechanism of "ifs" and "therefores" for the living myriad of hidden suckers whereby the belief and the conduct are wrought into mutual sustainment.

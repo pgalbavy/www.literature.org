@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Treasure Vaults of Opar"
 weight: 22
-aliases:
-  - "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-22.html"
+url: "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-22.html"
 ---
 
 It was quite dark before La, the high priestess, returned to the Chamber of the Dead with food and drink for Tarzan. She bore no light, feeling with her hands along the crumbling walls until she gained the chamber. Through the stone grating above, a tropic moon served dimly to illuminate the interior.

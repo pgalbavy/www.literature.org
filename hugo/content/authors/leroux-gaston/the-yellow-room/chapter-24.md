@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Rouletabille Knows The Two Halves Of The Murderer"
 weight: 24
-aliases:
-  - "/authors/leroux-gaston/the-yellow-room/chapter-24.html"
+url: "/authors/leroux-gaston/the-yellow-room/chapter-24.html"
 ---
 
 Mademoiselle Stangerson had been almost murdered for the second time. Unfortunately, she was in too weak a state to bear the severer injuries of this second attack as well as she had those of the first. She had received three wounds in the breast from the murderer’s knife, and she lay long between life and death. Her strong physique, however, saved her; but though she recovered physically it was found that her mind had been affected. The slightest allusion to the terrible incident sent her into delirium, and the arrest of Robert Darzac which followed on the day following the tragic death of the keeper seemed to sink her fine intelligence into complete melancholia.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Tum Tum And The Balloons"
 weight: 9
-aliases:
-  - "/authors/barnum-richard/tum-tum-the-jolly-elephant/chapter-09.html"
+url: "/authors/barnum-richard/tum-tum-the-jolly-elephant/chapter-09.html"
 ---
 
 "Come away, Tum Tum!" cried the elephant's keeper. "I don't want you getting all excited about a fire, and maybe burned. A few peanuts are not worth it. We'll let some of the tent men put out the fire. Come away!"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Bride's Thoughts"
 weight: 2
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-02.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-02.html"
 ---
 
 WE had been traveling for a little more than an hour when a change passed insensibly over us both.

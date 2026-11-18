@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - A Call And A Reply"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-scout/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-12.html"
 ---
 
 Mendez brought momentous tidings indeed. Addicted as he was to silence and with no disposition to talk, he had to do considerable of it now. His imperfect knowledge of English made it necessary for his friends to ask many questions, but it did not take them long to learn all that he had gathered and which has been told in its proper place to the reader.

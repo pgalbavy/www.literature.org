@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/crane-stephen/the-red-badge-of-courage/chapter-11.html"
+url: "/authors/crane-stephen/the-red-badge-of-courage/chapter-11.html"
 ---
 
 HE became aware that the furnace roar of the battle was growing louder. Great brown clouds had floated to the still heights of air before him. The noise, too, was approaching. The woods filtered men and the fields became dotted.

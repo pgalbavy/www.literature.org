@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 4 - Fourth Chapter"
 weight: 4
-aliases:
-  - "/authors/forster-e-m/a-room-with-a-view/part-01-chapter-04.html"
+url: "/authors/forster-e-m/a-room-with-a-view/part-01-chapter-04.html"
 ---
 
 Mr. Beebe was right. Lucy never knew her desires so clearly as after music. She had not really appreciated the clergyman’s wit, nor the suggestive twitterings of Miss Alan. Conversation was tedious; she wanted something big, and she believed that it would have come to her on the wind-swept platform of an electric tram. This she might not attempt. It was unladylike. Why? Why were most big things unladylike? Charlotte had once explained to her why. It was not that ladies were inferior to men; it was that they were different. Their mission was to inspire others to achievement rather than to achieve themselves. Indirectly, by means of tact and a spotless name, a lady could accomplish much. But if she rushed into the fray herself she would be first censured, then despised, and finally ignored. Poems had been written to illustrate this point.

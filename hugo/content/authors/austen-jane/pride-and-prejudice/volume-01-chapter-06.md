@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 6"
 weight: 6
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-06.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-06.html"
 ---
 
 The ladies of Longbourn soon waited on those of Netherfield. The visit was returned in due form. Miss Bennet's pleasing manners grew on the good will of Mrs. Hurst and Miss Bingley; and though the mother was found to be intolerable and the younger sisters not worth speaking to, a wish of being better acquainted with them, was expressed towards the two eldest. By Jane this attention was received with the greatest pleasure; but Elizabeth still saw superciliousness in their treatment of every body, hardly excepting even her sister, and could not like them; though their kindness to Jane, such as it was, had a value as arising in all probability from the influence of their brother's admiration. It was generally evident whenever they met, that he did admire her; and to her it was equally evident that Jane was yielding to the preference which she had begun to entertain for him from the first, and was in a way to be very much in love; but she considered with pleasure that it was not likely to be discovered by the world in general, since Jane united with great strength of feeling, a composure of temper and a uniform cheerfulness of manner, which would guard her from the suspicions of the impertinent. She mentioned this to her friend Miss Lucas.

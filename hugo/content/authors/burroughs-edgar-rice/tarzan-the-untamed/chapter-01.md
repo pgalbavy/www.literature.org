@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Murder And Pillage"
 weight: 1
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-01.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-01.html"
 ---
 
 Hauptmann Fritz Schneider trudged wearily through the somber aisles of the dark forest. Sweat rolled down his bullet head and stood upon his heavy jowls and bull neck. His lieutenant marched beside him while Underlieutenant von Goss brought up the rear, following with a handful of askaris the tired and all but exhausted porters whom the black soldiers, following the example of their white officer, en- couraged with the sharp points of bayonets and the metal-shod butts of rifles.

@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 8 - The Heart Of A Child"
 weight: 8
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-08.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-08.html"
 ---
 
 The cottage, as Aynesworth neared it, showed no sign of life. The curtainless windows were blank and empty, no smoke ascended from the chimney. Its plastered front was innocent of any form of creeper, but in the few feet of garden in front a great, overgrown wild rose bush, starred with deep red blossoms, perfumed the air. As he drew near, the door suddenly opened, and with a little cry of welcome the child rushed out to him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Missing"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-04.html"
 ---
 
 "Mend a broken shaft?" repeated the chief engineer, in amazement. "How do you expect to do that?"

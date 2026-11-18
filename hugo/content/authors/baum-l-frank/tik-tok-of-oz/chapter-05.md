@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/baum-l-frank/tik-tok-of-oz/chapter-05.html"
+url: "/authors/baum-l-frank/tik-tok-of-oz/chapter-05.html"
 ---
 
 Gently the raft grated on the sandy beach. Then Betsy easily waded ashore, the mule following closely behind her. The sun was now shining and the air was warm and laden with the fragrance of roses.

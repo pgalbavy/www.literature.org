@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - With Hay Hooks"
 weight: 13
-aliases:
-  - "/authors/coolidge-dane/wunpost/chapter-13.html"
+url: "/authors/coolidge-dane/wunpost/chapter-13.html"
 ---
 
 It is no more than right that the first kiss should be forgiven, especially if no one is to blame, and Wilhelmina forgave him very sweetly; but there was a wild, hunted look in Wunpost's bold eyes and he wondered what would happen next. Something had come over him very suddenly and made him forget the restraint which all ladies, even in overalls, laid upon him; and when their hands had touched some great force had drawn them together and he had kissed her before she knew it. But instead of resisting she had yielded for a moment, and then pushed him away very slowly; and he still remembered, like part of a dream, her heart beating against his breast. But it was all over now, and she was toying with the field-glasses which he had brought from the city as a present.

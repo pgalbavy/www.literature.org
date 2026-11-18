@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Open, Sesame!"
 weight: 9
-aliases:
-  - "/authors/leblanc-maurice/the-hollow-needle/chapter-09.html"
+url: "/authors/leblanc-maurice/the-hollow-needle/chapter-09.html"
 ---
 
 The Etretat Needle was hollow!

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Brave Act"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/a-young-hero/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/a-young-hero/chapter-10.html"
 ---
 
 Meanwhile Fred Sheldon had become involved in anything but a pleasant experience.

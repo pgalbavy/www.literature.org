@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/stoker-bram/lair-of-the-white-worm/chapter-14.html"
+url: "/authors/stoker-bram/lair-of-the-white-worm/chapter-14.html"
 ---
 
 The consequences of that meeting in the dusk of Diana's Grove were acute and far-reaching, and not only to the two engaged in it. From Oolanga, this might have been expected by anyone who knew the character of the tropical African savage. To such, there are two passions that are inexhaustible and insatiable--vanity and that which they are pleased to call love. Oolanga left the Grove with an absorbing hatred in his heart. His lust and greed were afire, while his vanity had been wounded to the core. Lady Arabella's icy nature was not so deeply stirred, though she was in a seething passion. More than ever she was set upon bringing Edgar Caswall to her feet. The obstacles she had encountered, the insults she had endured, were only as fuel to the purpose of revenge which consumed her.

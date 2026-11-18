@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-15.html"
+url: "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-15.html"
 ---
 
 Kokhan, two hours to stop. It is night. The majority of the travelers have already taken up their sleeping quarters in the car, and do not care to alight.

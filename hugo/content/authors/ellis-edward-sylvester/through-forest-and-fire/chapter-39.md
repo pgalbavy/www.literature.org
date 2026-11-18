@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39 - Conclusion"
 weight: 39
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-39.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-39.html"
 ---
 
 For a half hour the situation remained unchanged. Nick Ribsam kept his perch in the branches of the sapling, and, before the end of the time named, he found the seat becoming so uncomfortable that he was sure he could not bear it much longer.

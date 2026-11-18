@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - How It Was Done"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-19.html"
 ---
 
 From the very depths of despair, Mickey O'Rooney and Fred Munson were lifted to the most buoyant heights of hope.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Conclusion"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-26.html"
 ---
 
 In closing the history of Ben Mayberry, the telegraph messenger boy, it seems to me I can do no better than by using the words of the hero himself. The following letter I received only a few days since. It is the last which has come to hand from Ben, who writes me regularly, as he has done ever since I was transferred from the office in Damietta. I should add that the date of the letter is nine years subsequent to that of his visit to the metropolis as the guest of Mr. James Willard:

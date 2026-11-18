@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-06.html"
+url: "/authors/haggard-h-rider/dawn/chapter-06.html"
 ---
 
 It was some time before Philip could make up his mind whether or no he would attend his tryst with Hilda. In the first place, he felt that it was an unsafe proceeding generally, inasmuch as moonlight meetings with so lovely a person might, should they come to the knowledge of Miss Lee, be open to misconstruction; and particularly because, should she show the least tenderness towards him, he knew in his heart that he could not trust himself, however much he might be engaged in another direction. At twenty-one the affections cannot be outraged with impunity, but have an awkward way of asserting themselves, ties of honour notwithstanding.

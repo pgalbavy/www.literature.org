@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 21 - In Which Camacho’s Wedding Is Continued, With Other Delightful Incidents"
 weight: 77
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-21.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-21.html"
 ---
 
 While Don Quixote and Sancho were engaged in the discussion set forth the last chapter, they heard loud shouts and a great noise, which were uttered and made by the men on the mares as they went at full gallop, shouting, to receive the bride and bridegroom, who were approaching with musical instruments and pageantry of all sorts around them, and accompanied by the priest and the relatives of both, and all the most distinguished people of the surrounding villages. When Sancho saw the bride, he exclaimed, "By my faith, she is not dressed like a country girl, but like some fine court lady; egad, as well as I can make out, the patena she wears rich coral, and her green Cuenca stuff is thirty-pile velvet; and then the white linen trimming—by my oath, but it’s satin! Look at her hands—jet rings on them! May I never have luck if they’re not gold rings, and real gold, and set with pearls as white as a curdled milk, and every one of them worth an eye of one’s head! Whoreson baggage, what hair she has! if it’s not a wig, I never saw longer or fairer all the days of my life. See how bravely she bears herself—and her shape! Wouldn’t you say she was like a walking palm tree loaded with clusters of dates? for the trinkets she has hanging from her hair and neck look just like them. I swear in my heart she is a brave lass, and fit ‘to pass over the banks of Flanders.’"

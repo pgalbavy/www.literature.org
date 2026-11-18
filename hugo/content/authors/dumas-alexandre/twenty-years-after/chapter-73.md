@@ -1,8 +1,7 @@
 ---
 title: "Chapter 73 - Fatality"
 weight: 73
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-73.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-73.html"
 ---
 
 Scarcely had D'Artagnan uttered these words when a ringing and sudden noise was heard resounding through the felucca, which had now become dim in the obscurity of the night.

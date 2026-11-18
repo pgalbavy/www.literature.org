@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/tarkington-booth/the-guest-of-quesnay/chapter-15.html"
+url: "/authors/tarkington-booth/the-guest-of-quesnay/chapter-15.html"
 ---
 
 The rain of two nights and two days had freshened the woods, deepening the green of the tree-trunks and washing the dust from the leaves, and now, under the splendid sun of the third morning, we sat painting in a sylvan aisle that was like a hall of Aladdin's palace, the filigreed arches of foliage above us glittering with pendulous rain-drops. But Arabian Nights' palaces are not to my fancy for painting; the air, rinsed of its colour, was too sparklingly clean; the interstices of sky and the roughly framed distances I prized, were brought too close. It was one of those days when Nature throws herself straight in your face and you are at a loss to know whether she has kissed you or slapped you, though you are conscious of the tingle;—a day, in brief, more for laughing than for painting, and the truth is that I suited its mood only too well, and laughed more than I painted, though I sat with my easel before me and a picture ready upon my palette to be painted.

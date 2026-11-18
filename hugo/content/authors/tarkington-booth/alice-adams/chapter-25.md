@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/tarkington-booth/alice-adams/chapter-25.html"
+url: "/authors/tarkington-booth/alice-adams/chapter-25.html"
 ---
 
 One morning, that autumn, Mrs. Adams came into Alice's room, and found her completing a sober toilet for the street; moreover, the expression revealed in her mirror was harmonious with the business-like severity of her attire. "What makes you look so cross, dearie?" the mother asked. "Couldn't you find anything nicer to wear than that plain old dark dress?"

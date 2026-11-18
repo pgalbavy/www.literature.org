@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Hill 132"
 weight: 18
-aliases:
-  - "/authors/leblanc-maurice/the-woman-of-mystery/chapter-18.html"
+url: "/authors/leblanc-maurice/the-woman-of-mystery/chapter-18.html"
 ---
 
 What a ride it was! And how gay Paul Delroze felt! He was at last attaining his object; and this time it was not one of those hazardous enterprises which so often end in cruel disappointment, but the logical outcome and reward of his efforts. He was beyond the reach of the least shade of anxiety. There are victories--and his recent victory over the Emperor was one of them--which involve the disappearance of every obstacle. Élisabeth was at Hildensheim Castle and he was on his way to the castle and nothing would stop him.

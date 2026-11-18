@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Over The Falls"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-03.html"
 ---
 
 Not for an instant. He had decided on his course while leaping down into the opening which had admitted the imperilled bruin into safety. The moment he landed he flung his gun away, snatched off his hat, doffed his coat, seemingly with the same movement, and leaped with might and main into the terrible current.

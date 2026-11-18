@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Aunt Una's Story"
 weight: 17
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-16.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-16.html"
 ---
 
 Felicity, and Cecily, Dan, Felix, Sara Ray and I were sitting one evening on the mossy stones in Uncle Roger's hill pasture, where we had sat the morning the Story Girl told us the tale of the Wedding Veil of the Proud Princess. But it was evening now and the valley beneath us was brimmed up with the glow of the afterlight. Behind us, two tall, shapely spruce trees rose up against the sunset, and through the dark oriel of their sundered branches an evening star looked down. We sat on a little strip of emerald grassland and before us was a sloping meadow all white with daisies.

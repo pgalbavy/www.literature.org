@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Candide's Voyage to Constantinople"
 weight: 27
-aliases:
-  - "/authors/voltaire/candide/chapter-27.html"
+url: "/authors/voltaire/candide/chapter-27.html"
 ---
 
 The trusty Cacambo had already engaged the captain of the Turkish ship that was to carry Sultan Achmet back to Constantinople to take Candide and Martin on board. Accordingly they both embarked, after paying their obeisance to his miserable Highness. As they were going on board, Candide said to Martin:

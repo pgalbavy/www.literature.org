@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Dudley's Mine: And Dudley's Gold"
 weight: 3
-aliases:
-  - "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-03.html"
+url: "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-03.html"
 ---
 
 I have stared my eyes blind for her, Bridled my body alive for her, Starved my soul to the rind for her-- Do I lose all?

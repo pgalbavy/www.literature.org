@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/baum-l-frank/glinda-of-oz/chapter-12.html"
+url: "/authors/baum-l-frank/glinda-of-oz/chapter-12.html"
 ---
 
 When the Flatheads had gone away the Diamond Swan swam back to the boat and one of the young Skeezers named Ervic said to her eagerly:

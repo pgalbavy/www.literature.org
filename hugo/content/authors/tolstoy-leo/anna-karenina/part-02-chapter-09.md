@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 9"
 weight: 43
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-09.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-09.html"
 ---
 
 Anna came in with handing head, playing with the tassels of her hood. Her face was briliant and glowing; but this glow was not one of brightness; it suggested the fearful glow ofa conflagration in the midst of a dark night. On seeing her husband, Anna r4aised her head and smiled, as though she had just waked up.

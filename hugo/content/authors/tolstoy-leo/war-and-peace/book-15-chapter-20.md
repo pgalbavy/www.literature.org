@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 20"
 weight: 337
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-20.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-20.html"
 ---
 
 After Pierre's departure that first evening, when Natasha had said to Princess Mary with a gaily mocking smile: "He looks just, yes, just as if he had come out of a Russian bath- in a short coat and with his hair cropped," something hidden and unknown to herself, but irrepressible, awoke in Natasha's soul.

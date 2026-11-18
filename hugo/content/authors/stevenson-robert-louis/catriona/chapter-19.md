@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - I Am Much In The Hands Of The Ladies"
 weight: 20
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-19.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-19.html"
 ---
 
 The copying was a weary business, the more so as I perceived very early there was no sort of urgency in the matters treated, and began very early to consider my employment a pretext. I had no sooner finished than I got to horse, used what remained of daylight to the best purpose, and being at last fairly benighted, slept in a house by Almond-Water side. I was in the saddle again before the day, and the Edinburgh booths were just opening when I clattered in by the West Bow and drew up a smoking horse at my lord Advocate’s door. I had a written word for Doig, my lord’s private hand that was thought to be in all his secrets—a worthy little plain man, all fat and snuff and self-sufficiency. Him I found already at his desk and already bedabbled with maccabaw, in the same anteroom where I rencountered with James More. He read the note scrupulously through like a chapter in his Bible.

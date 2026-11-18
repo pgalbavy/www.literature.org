@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-09.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-09.html"
 ---
 
 I'll tell thee, Berthold, what men's hopes are like: A silly child that, quivering with joy, Would cast its little mimic fishing-line Baited with loadstone for a bowl of toys In the salt ocean.

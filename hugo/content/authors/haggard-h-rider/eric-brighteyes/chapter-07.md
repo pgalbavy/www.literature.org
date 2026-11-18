@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - How Eric Went Up Mosfell Against Skallagrim The Baresark"
 weight: 8
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-07.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-07.html"
 ---
 
 Now Atli the Good, earl of the Orkneys, comes into the story.

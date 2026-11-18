@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Ill Report"
 weight: 2
-aliases:
-  - "/authors/williams-frank/the-wilderness-trail/chapter-02.html"
+url: "/authors/williams-frank/the-wilderness-trail/chapter-02.html"
 ---
 
 Donald found Peter Rainy gossiping with a couple of the Indian servants in the barracks, and informed his attendant of the intended departure next morning. Then, he returned to the factor's house, unexpected and unaccompanied, and was admitted silently by an Indian woman, into whose hand he slipped a tiny mirror by way of recompense.

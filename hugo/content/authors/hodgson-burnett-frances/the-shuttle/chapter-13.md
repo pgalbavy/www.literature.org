@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - One Of The New York Dresses"
 weight: 13
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-13.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-13.html"
 ---
 
 As she went down the staircase later, on her way to dinner, Miss Vanderpoel saw on all sides signs of the extent of the nakedness of the land. She was in a fine old house, stripped of most of its saleable belongings, uncared for, deteriorating year by year, gradually going to ruin. One need not possess particular keenness of sight to observe this, and she had chanced to see old houses in like condition in other countries than England. A man-servant, in a shabby livery, opened the drawing-room door for her. He was not a picturesque servitor of fallen fortunes, but an awkward person who was not accustomed to his duties. Betty wondered if he had been called in from the gardens to meet the necessities of the moment. His furtive glance at the tall young woman who passed him, took in with sudden embarrassment the fact that she plainly did not belong to the dispirited world bounded by Stornham Court. Without sparkling gems or trailing richness in her wake, she was suggestively splendid. He did not know whether it was her hair or the build of her neck and shoulders that did it, but it was revealed to him that tiaras and collars of stones which blazed belonged without doubt to her equipment. He recalled that there was a legend to the effect that the present Lady Anstruthers, who looked like a rag doll, had been the daughter of a rich American, and that better things might have been expected of her if she had not been such a poor-spirited creature. If this was her sister, she perhaps was a young woman of fortune, and that she was not of poor spirit was plain.

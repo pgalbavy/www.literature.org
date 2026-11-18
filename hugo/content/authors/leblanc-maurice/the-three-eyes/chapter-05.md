@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Kiss"
 weight: 5
-aliases:
-  - "/authors/leblanc-maurice/the-three-eyes/chapter-05.html"
+url: "/authors/leblanc-maurice/the-three-eyes/chapter-05.html"
 ---
 
 Bérangère next day resumed her place at meals, looking a little pale and wearing a more serious face than usual. My uncle, who had not troubled about her during the last two days, kissed her absent-mindedly. We lunched without a word. Not until we had nearly ended did Noël Dorgeroux speak to his god-child:

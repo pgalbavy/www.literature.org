@@ -1,8 +1,7 @@
 ---
 title: "Chapter 54 - The Meeting On The Hill"
 weight: 54
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-54.html"
+url: "/authors/eliot-george/adam-bede/chapter-54.html"
 ---
 
 ADAM understood Dinah's haste to go away, and drew hope rather than discouragement from it. She was fearful lest the strength of her feeling towards him should hinder her from waiting and listening faithfully for the ultimate guiding voice from within.

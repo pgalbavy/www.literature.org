@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 8 - The Adventures Of A Bagman"
 weight: 8
-aliases:
-  - "/authors/buchan-john/mr-standfast/part-01-chapter-08.html"
+url: "/authors/buchan-john/mr-standfast/part-01-chapter-08.html"
 ---
 
 "Ye’re punctual to time, Mr Brand," said the voice of Amos. "But losh! man, what have ye done to your breeks! And your buits? Ye’re no just very respectable in your appearance."

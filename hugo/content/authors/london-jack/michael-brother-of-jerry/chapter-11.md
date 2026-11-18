@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-11.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-11.html"
 ---
 
 Before the voyage of the Mary Turner came to an end, Dag Daughtry, sitting down between the rows of water-casks in the main-hold, with a great laugh rechristened the schooner "the Ship of Fools." But that was some weeks after. In the meantime he so fulfilled his duties that not even Captain Doane could conjure a shadow of complaint.

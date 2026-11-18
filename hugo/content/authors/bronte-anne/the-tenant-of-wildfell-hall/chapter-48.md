@@ -1,8 +1,7 @@
 ---
 title: "Chapter 48"
 weight: 49
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-48.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-48.html"
 ---
 
 Five or six days after this Mr. Lawrence paid us the honour of a call; and when he and I were alone together - which I contrived as soon as possible by bringing him out to look at my cornstacks - he showed me another letter from his sister. This one he was quite willing to submit to my longing gaze; he thought, I suppose, it would do me good. The only answer it gave to my message was this:-

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - \"Behold He Prayeth.\""
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-19.html"
 ---
 
 Mul-tal-la the Blackfoot obeyed the command of Taggarak, his chief. But though he kept away from the meeting place of the duelists, he hovered not far off, in order to learn at the earliest possible moment the result of the most important personal encounter that had ever taken place in the history of the Blackfoot nation. Because of the circuitous course taken by George and Victor Shelton, Mul-tal-la saw nothing of them and never learned of the humorous appendix to the tragedy.

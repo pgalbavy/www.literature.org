@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/collins-wilkie/my-ladys-money/chapter-13.html"
+url: "/authors/collins-wilkie/my-ladys-money/chapter-13.html"
 ---
 
 WHILE the strange proceedings of the steward were the subject of conversation between Lady Lydiard and Mr. Troy, Moody was alone in his room, occupied in writing to Isabel. Being unwilling that any eyes but his own should see the address, he had himself posted his letter; the time that he had chosen for leaving the house proving, unfortunately, to be also the time proposed by her Ladyship for his interview with the lawyer. In ten minutes after the footman had reported his absence, Moody returned. It was then too late to present himself in the drawing-room. In the interval, Mr. Troy had taken his leave, and Moody's position had dropped a degree lower in Lady Lydiard's estimation.

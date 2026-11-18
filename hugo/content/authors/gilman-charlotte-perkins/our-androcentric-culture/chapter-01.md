@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - As To Humanness"
 weight: 1
-aliases:
-  - "/authors/gilman-charlotte-perkins/our-androcentric-culture/chapter-01.html"
+url: "/authors/gilman-charlotte-perkins/our-androcentric-culture/chapter-01.html"
 ---
 
 Let us begin, inoffensively, with sheep. The sheep is a beast with which we are all familiar, being much used in religious imagery; the common stock of painters; a staple article of diet; one of our main sources of clothing; and an everyday symbol of bashfulness and stupidity.

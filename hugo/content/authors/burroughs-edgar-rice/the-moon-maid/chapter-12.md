@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Growing Danger"
 weight: 13
-aliases:
-  - "/authors/burroughs-edgar-rice/the-moon-maid/chapter-12.html"
+url: "/authors/burroughs-edgar-rice/the-moon-maid/chapter-12.html"
 ---
 
 The palace of the Emperor stands, a magnificent pile, upon the loftiest terrace of Laythe, extending completely around the enormous crater. There are but three avenues leading to it from the terraces below—three magnificent stairways, each of which may be closed by enormous gates of stone, apparently wrought from huge slabs and intricately chiselled into marvelous designs, so that at a distance they present the appearance of magnificent lacework. Each gate is guarded by a company of fifty warriors, their tunics bearing the imperial design in a large circle over the left breast.

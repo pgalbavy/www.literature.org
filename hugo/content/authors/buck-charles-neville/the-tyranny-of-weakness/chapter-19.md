@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-19.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-19.html"
 ---
 
 About the churchyard, like sentinels of peace, stood ranks of elms and silver oaks. They had been old and gnarled of trunk, when the man whose life had just guttered out inside had come, young and militant, to preach the letter of that law, whose spirit was to his understanding a fourth dimension. Through the long windows of colored but artless glass, now partly raised, poured slanting panels of summer sun, mottling the interior and its occupants with dashes of red and blue.

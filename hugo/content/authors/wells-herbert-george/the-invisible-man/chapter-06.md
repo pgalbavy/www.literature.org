@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Furniture That Went Mad"
 weight: 6
-aliases:
-  - "/authors/wells-herbert-george/the-invisible-man/chapter-06.html"
+url: "/authors/wells-herbert-george/the-invisible-man/chapter-06.html"
 ---
 
 Now it happened that in the early hours of Whit-Monday, before Millie was hunted out for the day, Mr. Hall and Mrs. Hall both rose and went noiselessly down into the cellar. Their business there was of a private nature, and had something to do with the specific gravity of their beer. They had hardly entered the cellar when Mrs. Hall found she had forgotten to bring down a bottle of sarsaparilla from their joint-room. As she was the expert and principal operator in this affair, Hall very properly went upstairs for it.

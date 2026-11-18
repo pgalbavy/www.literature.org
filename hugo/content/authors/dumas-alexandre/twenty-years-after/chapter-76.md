@@ -1,8 +1,7 @@
 ---
 title: "Chapter 76 - The Ambassadors"
 weight: 76
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-76.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-76.html"
 ---
 
 The two friends rode rapidly down the declivity of the Faubourg, but on arriving at the bottom were surprised to find that the streets of Paris had become rivers, and the open places lakes; after the great rains which fell in January the Seine had overflowed its banks and the river inundated half the capital. The two gentlemen were obliged, therefore, to get off their horses and take a boat; and in that strange manner they approached the Louvre.

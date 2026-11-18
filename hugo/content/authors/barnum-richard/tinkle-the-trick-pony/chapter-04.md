@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Tinkle’s New Home"
 weight: 4
-aliases:
-  - "/authors/barnum-richard/tinkle-the-trick-pony/chapter-04.html"
+url: "/authors/barnum-richard/tinkle-the-trick-pony/chapter-04.html"
 ---
 
 “George! George! Come away!” cried his father. “That pony may kick or bite you!”

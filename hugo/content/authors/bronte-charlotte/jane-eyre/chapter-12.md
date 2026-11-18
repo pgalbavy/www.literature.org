@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/bronte-charlotte/jane-eyre/chapter-12.html"
+url: "/authors/bronte-charlotte/jane-eyre/chapter-12.html"
 ---
 
 The promise of a smooth career, which my first calm introduction to Thornfield Hall seemed to pledge, was not belied on a longer acquaintance with the place and its inmates. Mrs. Fairfax turned out to be what she appeared, a placid-tempered, kind-natured woman, of competent education and average intelligence. My pupil was a lively child, who had been spoilt and indulged, and therefore was sometimes wayward; but as she was committed entirely to my care, and no injudicious interference from any quarter ever thwarted my plans for her improvement, she soon forgot her little freaks, and became obedient and teachable. She had no great talents, no marked traits of character, no peculiar development of feeling or taste which raised her one inch above the ordinary level of childhood; but neither had she any deficiency or vice which sunk her below it. She made reasonable progress, entertained for me a vivacious, though perhaps not very profound, affection; and by her simplicity, gay prattle, and efforts to please, inspired me, in return, with a degree of attachment sufficient to make us both content in each other's society.

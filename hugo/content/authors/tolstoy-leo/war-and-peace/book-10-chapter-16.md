@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 16"
 weight: 206
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-16.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-16.html"
 ---
 
 "Well, that's all!" said Kutuzov as he signed the last of the documents, and rising heavily and smoothing out the folds in his fat white neck he moved toward the door with a more cheerful expression.

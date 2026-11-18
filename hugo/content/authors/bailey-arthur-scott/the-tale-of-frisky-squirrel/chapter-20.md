@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Johnnie Green Forgets Something"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-20.html"
 ---
 
 Although Johnnie Green took good care of Frisky Squirrel, that once lively young chap did not like his new home in the wire cage at all. His young master gave him plenty to eat--nuts and grain--all the things that Frisky had always liked before. But now nothing tasted the same. Frisky never felt really hungry. He just sat in his cage and moped and sulked.

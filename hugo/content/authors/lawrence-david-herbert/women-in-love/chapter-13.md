@@ -1,8 +1,7 @@
 ---
 title: "chapter 13"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-13.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-13.html"
 ---
 
 The days went by, and she received no sign. Was he going to ignore her, was he going to take no further notice of her secret? A dreary weight of anxiety and acrid bitterness settled on her. And yet Ursula knew she was only deceiving herself, and that he would proceed. She said no word to anybody.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Settling A Dispute"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-19.html"
 ---
 
 While Jimmy Rabbit was looking for wise old Mr. Crow, Peter Mink stuck close behind him.

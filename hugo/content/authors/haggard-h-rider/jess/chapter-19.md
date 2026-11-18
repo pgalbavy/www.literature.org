@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Hans Coetzee Comes To Pretoria"
 weight: 19
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-19.html"
+url: "/authors/haggard-h-rider/jess/chapter-19.html"
 ---
 
 Once he had turned the corner, John’s recovery was rapid. Naturally of a vigorous constitution, when the artery had reunited, he soon made up for the great loss of blood which he had undergone, and in a little more than a month from the date of his wound physically, was almost as good a man as ever.

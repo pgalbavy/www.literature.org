@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Giant Stranger"
 weight: 12
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-12.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-12.html"
 ---
 
 And while the warriors and the priests of A-lur searched the temple and the palace and the city for the vanished ape-man there entered the head of Kor-ul-JA down the precipitous trail from the mountains, a naked stranger bearing an Enfield upon his back. Silently he moved downward toward the bottom of the gorge and there where the ancient trail unfolded more levelly before him he swung along with easy strides, though always with the utmost alertness against possible dangers. A gentle breeze came down from the mountains behind him so that only his ears and his eyes were of value in detecting the presence of danger ahead. Generally the trail followed along the banks of the winding brooklet at the bottom of the gorge, but in some places where the waters tumbled over a precipitous ledge the trail made a detour along the side of the gorge, and again it wound in and out among rocky outcroppings, and presently where it rounded sharply the projecting shoulder of a cliff the stranger came suddenly face to face with one who was ascending the gorge.

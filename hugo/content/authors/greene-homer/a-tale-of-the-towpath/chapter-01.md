@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Result Of A Whipping"
 weight: 1
-aliases:
-  - "/authors/greene-homer/a-tale-of-the-towpath/chapter-01.html"
+url: "/authors/greene-homer/a-tale-of-the-towpath/chapter-01.html"
 ---
 
 Hoeing corn is not very hard work for one who is accustomed to it, but the circumstances of the hoeing may make the task an exceedingly laborious one. They did so in Joe Gaston’s case. Joe Gaston thought he had never in his life before been put to such hard and disagreeable work.

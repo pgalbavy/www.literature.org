@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Freshet"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-04.html"
 ---
 
 The rain had fallen steadily for two days and two nights-not just a gentle drizzle, but a heavy downpour.

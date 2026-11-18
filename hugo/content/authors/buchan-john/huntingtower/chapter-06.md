@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - How Mr. Mccunn Departed With Relief And Returned With Resolution"
 weight: 7
-aliases:
-  - "/authors/buchan-john/huntingtower/chapter-06.html"
+url: "/authors/buchan-john/huntingtower/chapter-06.html"
 ---
 
 At seven o'clock on the following morning the post-cart, summoned by an early message from Mrs. Morran, appeared outside the cottage. In it sat the ancient postman, whose real home was Auchenlochan, but who slept alternate nights in Dalquharter, and beside him Dobson the innkeeper. Dickson and his hostess stood at the garden-gate, the former with his pack on his back and at his feet a small stout wooden box, of the kind in which cheeses are transported, garnished with an immense padlock. Heritage for obvious reasons did not appear; at the moment he was crouched on the floor of the loft watching the departure through a gap in the dimity curtains.

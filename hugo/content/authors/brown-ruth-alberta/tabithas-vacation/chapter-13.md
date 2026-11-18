@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Robbers And The Haunted House"
 weight: 13
-aliases:
-  - "/authors/brown-ruth-alberta/tabithas-vacation/chapter-13.html"
+url: "/authors/brown-ruth-alberta/tabithas-vacation/chapter-13.html"
 ---
 
 "Billiard, did you ever see a ghost?"

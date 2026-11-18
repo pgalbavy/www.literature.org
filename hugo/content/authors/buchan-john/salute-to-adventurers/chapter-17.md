@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - I Retrace My Steps"
 weight: 18
-aliases:
-  - "/authors/buchan-john/salute-to-adventurers/chapter-17.html"
+url: "/authors/buchan-john/salute-to-adventurers/chapter-17.html"
 ---
 
 Next morning we passed through the foothills into an open meadow country. As I lifted up my eyes I saw for the first time the mountains near at hand. There they lay, not more than ten miles distant, woody almost to the summit, but with here and there a bold finger of rock pointing skywards. They looked infinitely high and rugged, far higher than any hills I had ever seen before, for my own Tinto or Cairntable would to these have been no more than a footstool. I made out a clear breach in the range, which I took to be old Studd's Clearwater Gap. The whole sight intoxicated me. I might dream of horrors in the low coast forests among their swampy creeks, but in that clear high world of the hills I believed lay safety. I could have gazed at them for hours, but Shalah would permit of no delay. He hurried us across the open meadows, and would not relax his pace till we were on a low wooded ridge with the young waters of the Rapidan running in a shallow vale beneath.

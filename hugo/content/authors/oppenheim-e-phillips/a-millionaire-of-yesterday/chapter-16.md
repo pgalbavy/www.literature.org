@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-16.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-16.html"
 ---
 
 Ernestine Wendermott travelled back to London in much discomfort, being the eleventh occupant of a third-class carriage in a particularly unpunctual and dilatory train. Arrived at Waterloo, she shook out her skirts with a little gesture of relief and started off to walk to the Strand. Half-way across the bridge she came face to face with a tall, good-looking young man who was hurrying in the opposite direction. He stopped short as he recognised her, dropped his eyeglass, and uttered a little exclamation of pleasure.

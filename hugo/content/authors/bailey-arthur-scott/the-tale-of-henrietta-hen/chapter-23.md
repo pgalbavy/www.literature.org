@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Getting Acquainted"
 weight: 23
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-23.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-23.html"
 ---
 
 Not liking her neighbor on her right, at the fair, Henrietta Hen sidled up to the wire netting on the opposite side of her pen. Peering through it, she examined the person whom she saw just beyond, in a pen of her own.

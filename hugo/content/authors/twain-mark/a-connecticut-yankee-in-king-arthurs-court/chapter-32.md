@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - Dowley's Humiliation"
 weight: 33
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-32.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-32.html"
 ---
 
 WELL, when that cargo arrived toward sunset, Saturday afternoon, I had my hands full to keep the Marcos from fainting. They were sure Jones and I were ruined past help, and they blamed themselves as accessories to this bankruptcy. You see, in addition to the dinner-materials, which called for a sufficiently round sum, I had bought a lot of extras for the future comfort of the family: for instance, a big lot of wheat, a delicacy as rare to the tables of their class as was ice-cream to a hermit's; also a sizeable deal dinner-table; also two entire pounds of salt, which was another piece of extravagance in those people's eyes; also crockery, stools, the clothes, a small cask of beer, and so on. I instructed the Marcos to keep quiet about this sumptuousness, so as to give me a chance to surprise the guests and show off a little. Concerning the new clothes, the simple couple were like children; they were up and down, all night, to see if it wasn't nearly daylight, so that they could put them on, and they were into them at last as much as an hour before dawn was due. Then their pleasure -- not to say delirium -- was so fresh and novel and inspiring that the sight of it paid me well for the interruptions which my sleep had suffered. The king had slept just as usual -- like the dead. The Marcos could not thank him for their clothes, that being forbidden; but they tried every way they could think of to make him see how grateful they were. Which all went for nothing: he didn't notice any change.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Confidences"
 weight: 8
-aliases:
-  - "/authors/chambers-robert-w/the-fighting-chance/chapter-08.html"
+url: "/authors/chambers-robert-w/the-fighting-chance/chapter-08.html"
 ---
 
 By January the complex social mechanism of the metropolis was whirling smoothly again; the last ultra-fashionable December lingerer had returned from the country; those of the same caste outward bound for a Southern or exotic winter had departed; and the glittering machine, every part assembled, refurbished, repolished, and connected, having been given preliminary speed-tests at the horse show, and a tuning up at the opera, was now running under full velocity; and its steady, subdued whir quickened the clattering pulse of the city, keying it to a sublimely syncopated ragtime.

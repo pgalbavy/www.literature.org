@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Mr. Hawk Returns"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-06.html"
 ---
 
 After he escaped from the fierce red-tailed hawk you would naturally think that Frisky Squirrel would have been glad to keep away from such a great, strong enemy. But the very next day found Frisky searching everywhere for that cruel, hook-nosed Mr. Hawk. He wanted more of that fine sport that he had had the day before, dodging and twisting around the limbs of the trees, while Mr. Hawk swooped down and tried to seize him. There was another reason, too, why Frisky wanted to find Mr. Hawk again--and that was because he knew that it annoyed Mr. Hawk very much not to be able to catch him. You see, Frisky Squirrel was a great tease.

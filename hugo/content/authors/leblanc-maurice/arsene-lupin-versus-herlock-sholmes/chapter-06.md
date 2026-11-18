@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Second Arrest Of Arsène Lupin"
 weight: 6
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin-versus-herlock-sholmes/chapter-06.html"
+url: "/authors/leblanc-maurice/arsene-lupin-versus-herlock-sholmes/chapter-06.html"
 ---
 
 Since eight o'clock a dozen moving-vans had encumbered the rue Crevaux between the avenue du Bois-de-Boulogne and the avenue Bugeaud. Mon. Felix Davey was leaving the apartment in which he lived on the fourth floor of No. 8; and Mon. Dubreuil, who had united into a single apartment the fifth floor of the same house and the fifth floor of the two adjoining houses, was moving on the same day--a mere coincidence, since the gentlemen were unknown to each other--the vast collection of furniture regarding which so many foreign agents visited him every day.

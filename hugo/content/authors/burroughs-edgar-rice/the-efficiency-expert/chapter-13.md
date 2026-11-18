@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Harriet Philosophizes"
 weight: 13
-aliases:
-  - "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-13.html"
+url: "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-13.html"
 ---
 
 When Jimmy got home that night he saw a light in the Lizard's room and entered.

@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 17"
 weight: 334
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-17.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-17.html"
 ---
 
 Pierre was shown into the large, brightly lit dining room; a few minutes later he heard footsteps and Princess Mary entered with Natasha. Natasha was calm, though a severe and grave expression had again settled on her face. They all three of them now experienced that feeling of awkwardness which usually follows after a serious and heartfelt talk. It is impossible to go back to the same conversation, to talk of trifles is awkward, and yet the desire to speak is there and silence seems like affectation. They went silently to table. The footmen drew back the chairs and pushed them up again. Pierre unfolded his cold table napkin and, resolving to break the silence, looked at Natasha and at Princess Mary. They had evidently both formed the same resolution; the eyes of both shone with satisfaction and a confession that besides sorrow life also has joy.

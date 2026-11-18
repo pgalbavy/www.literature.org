@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-11.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-11.html"
 ---
 
 For a few moments the two young men looked at each other, Pearson's gaze being one of respectfulness which hoped to propitiate, if propitiation was necessary, though Pearson greatly trusted it was not. Tembarom's was the gaze of hasty investigation and inquiry. He suddenly thought that it would have been “all to the merry” if somebody had “put him on to” a sort of idea of what was done to a fellow when he was “valeted.” A valet, he had of course gathered, waited on one somehow and looked after one's clothes. But were there by chance other things he expected to do,--manicure one's nails or cut one's hair,--and how often did he do it, and was this the day? He was evidently there to do something, or he wouldn't have been waiting behind the door to pounce out the minute he appeared, and when the other two went away, Burrill wouldn't have closed the door as solemnly as though he shut the pair of them in together to get through some sort of performance.

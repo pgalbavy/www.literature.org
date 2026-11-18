@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 14 - Waking"
 weight: 53
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-06-chapter-14.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-06-chapter-14.html"
 ---
 
 When Maggie was gone to sleep, Stephen, weary too with his unaccustomed amount of rowing, and with the intense inward life of the last twelve hours, but too restless to sleep, walked and lounged about the deck with his cigar far on into midnight, not seeing the dark water, hardly conscious there were stars, living only in the near and distant future. At last fatigue conquered restlessness, and he rolled himself up in a piece of tarpaulin on the deck near Maggie's feet.

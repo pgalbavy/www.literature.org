@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - How Hordle John Found A Man Whom He Might Follow"
 weight: 10
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-10.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-10.html"
 ---
 
 IF he might not return to Beaulieu within the year, and if his brother's dogs were to be set upon him if he showed face upon Minstead land, then indeed he was adrift upon earth. North, south, east, and west--he might turn where he would, but all was equally chill and cheerless. The Abbot had rolled ten silver crowns in a lettuce-leaf and hid them away in the bottom of his scrip, but that would be a sorry support for twelve long months. In all the darkness there was but the one bright spot of the sturdy comrades whom he had left that morning; if he could find them again all would be well. The afternoon was not very advanced, for all that had befallen him. When a man is afoot at cock-crow much may be done in the day. If he walked fast he might yet overtake his friends ere they reached their destination. He pushed on therefore, now walking and now running. As he journeyed he bit into a crust which remained from his Beaulieu bread, and he washed it down by a draught from a woodland stream.

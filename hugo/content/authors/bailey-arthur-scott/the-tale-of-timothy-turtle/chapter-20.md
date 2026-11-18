@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Almanac"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-20.html"
 ---
 
 One rainy night Peter Mink stopped at Black Creek; and calling loudly to Timothy Turtle he asked for a place to sleep.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/stoker-bram/dracula/chapter-24.html"
+url: "/authors/stoker-bram/dracula/chapter-24.html"
 ---
 
 DR. SEWARD'S PHONOGRAPH DIARY

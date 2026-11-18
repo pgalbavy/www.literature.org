@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Return Home"
 weight: 16
-aliases:
-  - "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-16.html"
+url: "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-16.html"
 ---
 
 By three bells that morning they were all stirring their stumps [legs]; for there was a big sea running; and Tootles, the bo'sun, was among them, with a rope's end in his hand and chewing tobacco. They all donned pirate clothes cut off at the knee, shaved smartly, and tumbled up, with the true nautical roll and hitching their trousers.

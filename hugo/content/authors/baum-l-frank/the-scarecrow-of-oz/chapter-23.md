@@ -1,8 +1,7 @@
 ---
 title: "chapter 23"
 weight: 999
-aliases:
-  - "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-23.html"
+url: "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-23.html"
 ---
 
 The straw man's appearance on the water was so sudden that it startled Trot, but Cap'n Bill had the presence of mind to stick his wooden leg out over the water and the Scarecrow made a desperate clutch and grabbed the leg with both hands. He managed to hold on until Trot and Button-Bright knelt down and seized his clothing, but the children would have been powerless to drag the soaked Scarecrow ashore had not Cap'n Bill now assisted them. When they laid him on the ledge of rubies he was the most useless looking Scarecrow you can imagine -- his straw sodden and dripping with water, his clothing wet and crumpled, while even the sack upon which his face was painted had become so wrinkled that the old jolly expression of their stuffed friend's features was entirely gone. But he could still speak, and when Trot bent down her ear she heard him say:

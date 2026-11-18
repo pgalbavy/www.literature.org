@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-08.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-08.html"
 ---
 
 Mrs. Jennings was a widow with an ample jointure. She had only two daughters, both of whom she had lived to see respectably married, and she had now therefore nothing to do but to marry all the rest of the world. In the promotion of this object she was zealously active, as far as her ability reached; and missed no opportunity of projecting weddings among all the young people of her acquaintance. She was remarkably quick in the discovery of attachments, and had enjoyed the advantage of raising the blushes and the vanity of many a young lady by insinuations of her power over such a young man; and this kind of discernment enabled her soon after her arrival at Barton decisively to pronounce that Colonel Brandon was very much in love with Marianne Dashwood. She rather suspected it to be so, on the very first evening of their being together, from his listening so attentively while she sang to them; and when the visit was returned by the Middletons' dining at the cottage, the fact was ascertained by his listening to her again. It must be so. She was perfectly convinced of it. It would be an excellent match, for HE was rich, and SHE was handsome. Mrs. Jennings had been anxious to see Colonel Brandon well married, ever since her connection with Sir John first brought him to her knowledge; and she was always anxious to get a good husband for every pretty girl.

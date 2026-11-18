@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Portrait"
 weight: 10
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-09.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-09.html"
 ---
 
 *DAY* broke over the city. A cloudy day, with a mist that enveloped everything in a sinister manner. The sun tried in vain to penetrate that sombre atmosphere.

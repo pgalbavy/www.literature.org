@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Cuffy Wakes Up"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-01.html"
 ---
 
 Far up on the side of Blue Mountain lived Cuffy Bear with his father and mother and his little sister Silkie. Mr. Bear's house was quite the finest for many miles around. It was what people call a cave, being made entirely of stone, and so there was no danger of its ever catching fire; and since it was built straight into the side of the mountain the roof was so very, very thick that Cuffy's father never had to worry for fear a tree would fall upon his house and hurt his family. No matter how hard the wind blew, Mr. Bear was never afraid of that.

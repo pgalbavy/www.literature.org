@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 4 - The Wall Of The World"
 weight: 7
-aliases:
-  - "/authors/london-jack/white-fang/part-02-chapter-04.html"
+url: "/authors/london-jack/white-fang/part-02-chapter-04.html"
 ---
 
 By the time his mother began leaving the cave on hunting expeditions, the cub had learned well the law that forbade his approaching the entrance. Not only had this law been forcibly and many times impressed on him by his mother's nose and paw, but in him the instinct of fear was developing. Never, in his brief cave- life, had he encountered anything of which to be afraid. Yet fear was in him. It had come down to him from a remote ancestry through a thousand thousand lives. It was a heritage he had received directly from One Eye and the she-wolf; but to them, in turn, it had been passed down through all the generations of wolves that had gone before. Fear! - that legacy of the Wild which no animal may escape nor exchange for pottage.

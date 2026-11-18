@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A Peace Talk"
 weight: 9
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-09.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-09.html"
 ---
 
 While his blood was pounding and his heart was high, Wiley Holman went down into his mine. He rode down on the bucket, deftly balanced on the rim and fending off the wall with one hand, and when he came up he was smiling. Not smiling with his lips, but far back in his eyes, like a man who has found something good. Perhaps Blount surprised the look before it had fled for he beamed upon Wiley benevolently.

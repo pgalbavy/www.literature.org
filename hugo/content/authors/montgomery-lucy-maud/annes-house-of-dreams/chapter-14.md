@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - November Days"
 weight: 14
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-14.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-14.html"
 ---
 
 The splendor of color which had glowed for weeks along the shores of Four Winds Harbor had faded out into the soft gray-blue of late autumnal hills. There came many days when fields and shores were dim with misty rain, or shivering before the breath of a melancholy sea-wind--nights, too, of storm and tempest, when Anne sometimes wakened to pray that no ship might be beating up the grim north shore, for if it were so not even the great, faithful light whirling through the darkness unafraid, could avail to guide it into safe haven.

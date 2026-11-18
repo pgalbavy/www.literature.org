@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 5 - A Conference Of The Powers"
 weight: 5
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-01-chapter-05.html"
+url: "/authors/buchan-john/the-half-hearted/part-01-chapter-05.html"
 ---
 
 It was the sultriest of weather in London—days when the city lay in a fog of heat, when the paving cracked, and the brow was damp from the slightest movement and the mind of the stranger was tortured by the thought of airy downs and running rivers. The leaves in the Green Park were withered and dusty, the window-boxes in Mayfair had a tarnished look, and horse and man moved with unwilling languor. A tall young man in a grey frockcoat searched the street for shadow, and finding none entered the doorway of a club which promised coolness.

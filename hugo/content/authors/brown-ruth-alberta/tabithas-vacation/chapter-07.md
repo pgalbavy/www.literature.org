@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Toady And The Castor Beans"
 weight: 7
-aliases:
-  - "/authors/brown-ruth-alberta/tabithas-vacation/chapter-07.html"
+url: "/authors/brown-ruth-alberta/tabithas-vacation/chapter-07.html"
 ---
 
 But when morning dawned, Gloriana lay flushed and feverish upon her pillow, her head throbbing until she could scarcely open her eyes. Tabitha was alarmed, and between her worry over the sick girl lying in their darkened room, and her ministrations to croupy Janie, who had caught cold sleeping in the night air on the mountain top, the poor housekeeper was so nearly distracted that she had little time to devote to the rest of her large family, and they wandered about the premises like so many disconsolate chicks who had lost their mother. It was an ideal time to get into mischief, and yet something restrained them.

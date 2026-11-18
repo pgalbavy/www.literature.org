@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - “It’s Mother!”"
 weight: 26
-aliases:
-  - "/authors/hodgson-burnett-frances/the-secret-garden/chapter-26.html"
+url: "/authors/hodgson-burnett-frances/the-secret-garden/chapter-26.html"
 ---
 
 Their belief in the Magic was an abiding thing. After the morning’s incantations Colin sometimes gave them Magic lectures.

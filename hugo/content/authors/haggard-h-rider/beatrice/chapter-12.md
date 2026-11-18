@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Writing On The Sand"
 weight: 13
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-12.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-12.html"
 ---
 
 Geoffrey found himself very comfortable at the Vicarage, and as for Effie, she positively revelled in it. Beatrice looked after her, taking her to bed at night and helping her to dress in the morning, and Beatrice was a great improvement upon Anne. When Geoffrey became aware of this he remonstrated, saying that he had never expected her to act as nurse to the child, but she replied that it was a pleasure to her to do so, which was the truth. In other ways, too, the place was all that he desired. He did not like Elizabeth, but then he did not see very much of her, and the old farmer clergyman was amusing in his way, with his endless talk of tithes and crops, and the iniquities of the rebellious Jones, on whom he was going to distrain.

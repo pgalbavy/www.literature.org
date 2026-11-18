@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Neighbours"
 weight: 2
-aliases:
-  - "/authors/lawrence-david-herbert/the-kangaroo/chapter-02.html"
+url: "/authors/lawrence-david-herbert/the-kangaroo/chapter-02.html"
 ---
 
 THE Somers-Callcott acquaintance did not progress very rapidly, after the affair of the dahlias. Mrs. Callcott asked Mrs. Somers across to look at their cottage, and Mrs. Somers went. Then Mrs. Somers asked Mrs. Callcott back again. But both times Mr. Somers managed to be out of the way, and managed to cast an invisible frost over the rencontre. He was not going to be dragged in, no, he was not. He very much wanted to borrow a pair of pincers and a chopper for an hour, to pull out a few nails, and to split his little chunks of kindling that the dealer had sent too thick. And the Callcotts were very ready to lend anything, if they were only asked for it. But no, Richard Lovat wasn't going to ask. Neither would he buy a chopper, because the travelling expenses had reduced him to very low water. He preferred to wrestle with the chunks of jarrah every morning.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - Skirmishing"
 weight: 30
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-30.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-30.html"
 ---
 
 The halt at Noyon was but brief, every one there being wrapped in profound sleep. Raoul had desired to be awakened should Grimaud arrive, but Grimaud did not arrive. Doubtless, too, the horses on their part appreciated the eight hours of repose and the abundant stabling which was granted them. The Count de Guiche was awakened at five o'clock in the morning by Raoul, who came to wish him good-day. They breakfasted in haste, and at six o'clock had already gone ten miles.

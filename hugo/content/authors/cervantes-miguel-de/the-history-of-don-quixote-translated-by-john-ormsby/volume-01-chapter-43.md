@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 43 - Wherein Is Related The Pleasant Story Of The Muleteer, Together With Other Strange Things That Came To Pass In The Inn"
 weight: 46
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-43.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-43.html"
 ---
 
 Ah me, Love’s mariner am I On Love’s deep ocean sailing; I know not where the haven lies, I dare not hope to gain it.

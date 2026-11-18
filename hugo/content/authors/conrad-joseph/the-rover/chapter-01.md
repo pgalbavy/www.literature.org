@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/conrad-joseph/the-rover/chapter-01.html"
+url: "/authors/conrad-joseph/the-rover/chapter-01.html"
 ---
 
 After entering at break of day the inner roadstead of the Port of Toulon, exchanging several loud hails with one of the guardboats of the Fleet, which directed him where he was to take up his berth, Master-Gunner Peyrol let go the anchor of the sea-worn and battered ship in his charge, between the arsenal and the town, in full view of the principal quay. The course of his life, which in the opinion of any ordinary person might have been regarded as full of marvellous incidents (only he himself had never marvelled at them) had rendered him undemonstrative to such a degree, that he did not even let out a sigh of relief at the rumble of the chain. And yet it ended a most anxious six months of knocking about at sea with valuable merchandize in a damaged hull, most of the time on short rations, always on the lookout for English cruisers, once or twice on the verge of shipwreck and more than once on the verge of capture. But as to that, old Peyrol had made up his mind from the first to blow up his valuable charge—unemotionally, for such was his character, formed under the sun of the Indian seas in lawless contests with his kind for a little loot that vanished as soon as grasped, but mainly for bare life almost as precarious to hold through its ups and downs, and which now had lasted for fifty-eight years.

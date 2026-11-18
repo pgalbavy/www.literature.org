@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 12 - Meaning Mischief"
 weight: 45
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-03-chapter-12.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-03-chapter-12.html"
 ---
 
 Up came the sun, streaming all over London, and in its glorious impartiality even condescending to make prismatic sparkles in the whiskers of Mr Alfred Lammle as he sat at breakfast. In need of some brightening from without, was Mr Alfred Lammle, for he had the air of being dull enough within, and looked grievously discontented.

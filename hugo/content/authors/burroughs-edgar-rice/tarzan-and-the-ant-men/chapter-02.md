@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-02.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-02.html"
 ---
 
 Three persons stepped from the veranda of Lord Greystoke's African bungalow and walked slowly toward the gate along a rose embowered path that swung in a graceful curve through the well-ordered, though unpretentious, grounds surrounding the ape-man's rambling, one-story home. There were two men and a woman, all in khaki, the older man carrying a flier's helmet and a pair of goggles in one hand. He was smiling quietly as he listened to the younger man.

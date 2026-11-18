@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-02.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-02.html"
 ---
 
 Sprung from a race which had gone to seed like plants in a long-abandoned garden, once splendid and vigorous, old Caleb Harper was a patriarchal figure nearing the sunset of his life.

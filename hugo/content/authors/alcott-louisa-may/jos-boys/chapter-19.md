@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - White Roses"
 weight: 19
-aliases:
-  - "/authors/alcott-louisa-may/jos-boys/chapter-19.html"
+url: "/authors/alcott-louisa-may/jos-boys/chapter-19.html"
 ---
 
 While the travellers refreshed, and Mrs President struggled into her best gown, Josie ran into the garden to gather flowers for the brides. The sudden arrival of these interesting beings had quite enchanted the romantic girl, and her head was full of heroic rescues, tender admiration, dramatic situations, and feminine wonder as to whether the lovely creatures would wear their veils or not. She was standing before a great bush of white roses, culling the most perfect for the bouquets which she meant to tie with the ribbon festooned over her arm, and lay on the toilette tables of the new cousins, as a delicate attention. A step startled her, and looking up she saw her brother coming down the path with folded arms, bent head, and the absent air of one absorbed in deep thought.

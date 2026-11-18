@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-11.html"
+url: "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-11.html"
 ---
 
 For years, Dorian Gray could not free himself from the influence of this book. Or perhaps it would be more accurate to say that he never sought to free himself from it. He procured from Paris no less than nine large-paper copies of the first edition, and had them bound in different colours, so that they might suit his various moods and the changing fancies of a nature over which he seemed, at times, to have almost entirely lost control. The hero, the wonderful young Parisian in whom the romantic and the scientific temperaments were so strangely blended, became to him a kind of prefiguring type of himself. And, indeed, the whole book seemed to him to contain the story of his own life, written before he had lived it.

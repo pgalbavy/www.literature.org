@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Results"
 weight: 18
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-home/chapter-17.html"
+url: "/authors/gilman-charlotte-perkins/the-home/chapter-17.html"
 ---
 
 To us, who have for so many unbroken generations been wholly bound to the home, who honestly believe that its service and maintenance constitute the whole duty of men and women, the picture of a world in which home and its affairs takes but a small part of life's attention gives rather a blank outlook. What else are we to do! What else to love--what else to serve eternally! What else to revere, to worship! How shall we occupy the hands of man if but a tithe of his labour supports him in comfort; how fill the heart of woman, when her family are happily and rightly served without sacrificing her in the operation! It is hard, at first--we being so accustomed to spend all life in merely keeping ourselves alive--to see what life might be when we had some to spare. We find it difficult to imagine this "world of trouble" as rid of its troubles; as rationally and comfortably managed; peaceful, clean, safe, healthy, giving everyone room and time to grow. Nor need we labour to forecast events too accurately; especially the material details which must be decided by long experiment. No rigid prescription is needed; no dictum as to whether we shall live in small separate houses, greenly gardened, with closely connected conveniences for service and for education, for work and play; or in towering palaces with shaded flower-bright courts and cloisters. All that must work out as have our great modern wonders in other lines, little by little, in orderly development. But what we can forecast in safety is the effect on the human body and the human soul.

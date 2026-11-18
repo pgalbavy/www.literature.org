@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 3 - John Ferrier Talks With The Prophet"
 weight: 10
-aliases:
-  - "/authors/doyle-arthur-conan/a-study-in-scarlet/part-02-chapter-03.html"
+url: "/authors/doyle-arthur-conan/a-study-in-scarlet/part-02-chapter-03.html"
 ---
 
 THREE weeks had passed since Jefferson Hope and his comrades had departed from Salt Lake City. John Ferrier's heart was sore within him when he thought of the young man's return, and of the impending loss of his adopted child. Yet her bright and happy face reconciled him to the arrangement more than any argument could have done. He had always determined, deep down in his resolute heart, that nothing would ever induce him to allow his daughter to wed a Mormon. Such a marriage he regarded as no marriage at all, but as a shame and a disgrace. Whatever he might think of the Mormon doctrines, upon that one point he was inflexible. He had to seal his mouth on the subject, however, for to express an unorthodox opinion was a dangerous matter in those days in the Land of the Saints.

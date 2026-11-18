@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Salinas Valley"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-12.html"
 ---
 
 Our friends journeyed forward until broad daylight, when they found themselves fairly among the high range of hills which in this portion of California comes down almost to the edge of the sea. The scenery was bleak and rugged, and the country was barren and showed very few signs of vegetation, so that for all practical purposes they were little better than if in the sandy desert of the south-eastern portion of the State.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-05.html"
+url: "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-05.html"
 ---
 
 Dun clouds of tragedy, crimson-streaked with sinister romance, shadow the chronicles of the forty-mile square that makes the Dismal Swamp. Thither, aforetime, even as to-day, men fled into the labyrinthine recesses to escape the justice--or the injustice--of their fellows. Runaway slaves sought asylum within its impenetrable and uncharted mazes of thicket and quaking earth, of fetid pool and slithering quicksands. Such fugitives came no more after the emancipation. Instead of slaves, there were black men who had outraged the law, who fled into the steaming, noxious waste in order to evade the penalty for crime. For a time, these evil-doers were hunted through the tortuous trails in the canebrakes with blood-hounds, even as their predecessors had been. But the kennels of the man-hunting dogs were ravaged by the black tongue, soon after the ending of the Civil War. Poisoners, too, took toll of the too intelligent brutes. The strain rapidly grew less--became extinct. Whereat, the criminals of Dismal Swamp rejoiced in unholy glee. Their numbers waxed. Soon, they came to be a serious menace to the peace and safety of the communities that bordered on the infested region.

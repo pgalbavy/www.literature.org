@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Strange Camp"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-14.html"
 ---
 
 The Apaches, however, were not quarreling. They were engaged in a dispute, or rather argument, which concerned them all, and about which it was all-important that no blunder should be made.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/davis-richard-harding/in-the-fog/chapter-03.html"
+url: "/authors/davis-richard-harding/in-the-fog/chapter-03.html"
 ---
 
 Sir Andrew rose with disapproval written in every lineament.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Key To The Garden"
 weight: 7
-aliases:
-  - "/authors/hodgson-burnett-frances/the-secret-garden/chapter-07.html"
+url: "/authors/hodgson-burnett-frances/the-secret-garden/chapter-07.html"
 ---
 
 Two days after this, when Mary opened her eyes she sat upright in bed immediately, and called to Martha.

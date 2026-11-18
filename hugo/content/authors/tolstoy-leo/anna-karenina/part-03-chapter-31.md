@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 31"
 weight: 100
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-03-chapter-31.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-03-chapter-31.html"
 ---
 
 Running half-way down the staircase, Levin caught a sound he knew, a familiar cough in the hall. But he heard it indistinctly through the sound of his own footsteps, and hoped he was mistaken. Then he caught sight of a long, bony, familiar figure, and now it seemed there was no possibility of mistake; and yet he still went on hoping that this tall man taking off his fur cloak and coughing was not his brother Nikolay.

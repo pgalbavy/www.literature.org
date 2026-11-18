@@ -1,8 +1,7 @@
 ---
 title: "Chapter 45"
 weight: 45
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-45.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-45.html"
 ---
 
 It was settled. I had now the courage to turn about. Our men crouched about the decks here and there with anxious, crestfallen faces, all turned one way to watch the chaser. For the first time that morning I perceived Cesar stretched out full length on the deck near the foremast and wondered where he had been skulking till then. But he might in truth have been at my elbow all the time for all I knew. We had been too absorbed in watching our fate to pay attention to each other. Nobody had eaten anything that morning, but the men had been coming constantly to drink at the water-butt.

@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 21"
 weight: 90
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-03-chapter-21.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-03-chapter-21.html"
 ---
 
 "We've come to fetch you. Your lessive lasted a good time to-day," said Petritsky. "Well, is it over?"

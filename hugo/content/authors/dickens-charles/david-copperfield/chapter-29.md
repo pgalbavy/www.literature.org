@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - I Visit Steerforth At His Home, Again"
 weight: 30
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-29.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-29.html"
 ---
 
 I mentioned to Mr. Spenlow in the morning, that I wanted leave of absence for a short time; and as I was not in the receipt of any salary, and consequently was not obnoxious to the implacable Jorkins, there was no difficulty about it. I took that opportunity, with my voice sticking in my throat, and my sight failing as I uttered the words, to express my hope that Miss Spenlow was quite well; to which Mr. Spenlow replied, with no more emotion than if he had been speaking of an ordinary human being, that he was much obliged to me, and she was very well.

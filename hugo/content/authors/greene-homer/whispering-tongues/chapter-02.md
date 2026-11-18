@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Gamma Questers"
 weight: 2
-aliases:
-  - "/authors/greene-homer/whispering-tongues/chapter-02.html"
+url: "/authors/greene-homer/whispering-tongues/chapter-02.html"
 ---
 
 Parmenter recovered consciousness soon after he was carried to his room, after being thrown so viciously by Van Loan; but when the college physician came he declared that there was a fracture of the right clavicle.

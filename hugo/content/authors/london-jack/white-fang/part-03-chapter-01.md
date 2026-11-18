@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 1 - The Makers Of Fire"
 weight: 9
-aliases:
-  - "/authors/london-jack/white-fang/part-03-chapter-01.html"
+url: "/authors/london-jack/white-fang/part-03-chapter-01.html"
 ---
 
 The cub came upon it suddenly. It was his own fault. He had been careless. He had left the cave and run down to the stream to drink. It might have been that he took no notice because he was heavy with sleep. (He had been out all night on the meat-trail, and had but just then awakened.) And his carelessness might have been due to the familiarity of the trail to the pool. He had travelled it often, and nothing had ever happened on it.

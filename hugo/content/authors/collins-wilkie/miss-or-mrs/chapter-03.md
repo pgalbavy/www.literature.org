@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Money Market"
 weight: 3
-aliases:
-  - "/authors/collins-wilkie/miss-or-mrs/chapter-03.html"
+url: "/authors/collins-wilkie/miss-or-mrs/chapter-03.html"
 ---
 
 Let us be serious.--Business!

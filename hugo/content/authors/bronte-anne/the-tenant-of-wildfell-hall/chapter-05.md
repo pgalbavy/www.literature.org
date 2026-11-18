@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-05.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-05.html"
 ---
 
 It was about the close of the month, that, yielding at length to the urgent importunities of Rose, I accompanied her in a visit to Wildfell Hall. To our surprise, we were ushered into a room where the first object that met the eye was a painter's easel, with a table beside it covered with rolls of canvas, bottles of oil and varnish, palette, brushes, paints, &c. Leaning against the wall were several sketches in various stages of progression, and a few finished paintings - mostly of landscapes and figures.

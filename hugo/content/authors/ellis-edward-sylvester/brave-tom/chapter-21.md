@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/brave-tom/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/brave-tom/chapter-21.html"
 ---
 
 Only two or three incidents worthy of note fell to the lot of Tom Gordon during his second year in the employ of Josiah Warmore.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Mr. Morgan And Mr. Raff"
 weight: 12
-aliases:
-  - "/authors/london-jack/adventure/chapter-12.html"
+url: "/authors/london-jack/adventure/chapter-12.html"
 ---
 
 Sheldon was back in the plantation superintending the building of a bridge, when the schooner Malakula ran in close and dropped anchor. Joan watched the taking in of sail and the swinging out of the boat with a sailor's interest, and herself met the two men who came ashore. While one of the house-boys ran to fetch Sheldon, she had the visitors served with whisky and soda, and sat and talked with them.

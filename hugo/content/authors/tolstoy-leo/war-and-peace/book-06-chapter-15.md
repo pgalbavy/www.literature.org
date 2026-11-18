@@ -1,8 +1,7 @@
 ---
 title: "Book 6 - Chapter 15"
 weight: 121
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-06-chapter-15.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-06-chapter-15.html"
 ---
 
 Natasha had not had a moment free since early morning and had not once had time to think of what lay before her.

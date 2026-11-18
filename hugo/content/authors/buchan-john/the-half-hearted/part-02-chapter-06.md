@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 6 - Mrs. Logan's Ball"
 weight: 25
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-02-chapter-06.html"
+url: "/authors/buchan-john/the-half-hearted/part-02-chapter-06.html"
 ---
 
 When Lewis had finished breakfast next morning, and was sitting idly on the verandah watching the busy life of the bazaar at his feet, a letter was brought him by a hotel servant. "It was left for you by Marker Sahib, when he went away this morning. He sent his compliments to the sahibs and regretted that he had to leave too early to speak with them, but he left this note." Lewis broke the envelope and read:

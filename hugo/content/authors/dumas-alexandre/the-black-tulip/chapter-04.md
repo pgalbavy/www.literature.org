@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Murderers"
 weight: 4
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-04.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-04.html"
 ---
 
 The young man with his hat slouched over his eyes, still leaning on the arm of the officer, and still wiping from time to time his brow with his handkerchief, was watching in a corner of the Buytenhof, in the shade of the overhanging weather-board of a closed shop, the doings of the infuriated mob, a spectacle which seemed to draw near its catastrophe.

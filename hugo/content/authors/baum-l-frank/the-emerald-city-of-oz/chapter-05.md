@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-05.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-05.html"
 ---
 
 When the people of the Emerald City heard that Dorothy had returned to them every one was eager to see her, for the little girl was a general favorite in the Land of Oz. From time to time some of the folk from the great outside world had found their way into this fairyland, but all except one had been companions of Dorothy and had turned out to be very agreeable people. The exception I speak of was the wonderful Wizard of Oz, a sleight-of-hand performer from Omaha who went up in a balloon and was carried by a current of air to the Emerald City. His queer and puzzling tricks made the people of Oz believe him a great wizard for a time, and he ruled over them until Dorothy arrived on her first visit and showed the Wizard to be a mere humbug. He was a gentle, kind-hearted little man, and Dorothy grew to like him afterward. When, after an absence, the Wizard returned to the Land of Oz, Ozma received him graciously and gave him a home in a part of the palace.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-17.html"
+url: "/authors/london-jack/martin-eden/chapter-17.html"
 ---
 
 Martin learned to do many things. In the course of the first week, in one afternoon, he and Joe accounted for the two hundred white shirts. Joe ran the tiler, a machine wherein a hot iron was hooked on a steel string which furnished the pressure. By this means he ironed the yoke, wristbands, and neckband, setting the latter at right angles to the shirt, and put the glossy finish on the bosom. As fast as he finished them, he flung the shirts on a rack between him and Martin, who caught them up and "backed" them. This task consisted of ironing all the unstarched portions of the shirts.

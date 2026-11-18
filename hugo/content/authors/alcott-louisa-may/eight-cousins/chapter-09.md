@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Phebe's Secret"
 weight: 10
-aliases:
-  - "/authors/alcott-louisa-may/eight-cousins/chapter-09.html"
+url: "/authors/alcott-louisa-may/eight-cousins/chapter-09.html"
 ---
 
 "Why do you keep smiling to yourself, Phebe?" asked Rose, as they were working together one morning, for Dr. Alec considered house-work the best sort of gymnastics for girls; so Rose took lessons of Phebe in sweeping, dusting and bed-making.

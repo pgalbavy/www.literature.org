@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Combat On The Bridge"
 weight: 15
-aliases:
-  - "/authors/haggard-h-rider/the-brethren/chapter-14.html"
+url: "/authors/haggard-h-rider/the-brethren/chapter-14.html"
 ---
 
 "Saladin will come," said Wulf the hopeful, and from the high place where they stood he pointed to the plain beneath, across which a band of horsemen moved at full gallop. "Look; yonder goes his embassy."

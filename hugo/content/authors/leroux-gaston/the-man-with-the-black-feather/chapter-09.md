@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Strange Position Of A Little Violet Cat"
 weight: 10
-aliases:
-  - "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-09.html"
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-09.html"
 ---
 
 It would seem that the Destiny which rules mankind takes a detestable pleasure in making the most serene joys come before the worst catastrophes. Never had the three friends enjoyed a dinner more than the dinner which they had that night at the café Des Trois Etoiles. They dined well, the coffee was excellent, and the cigars which Adolphe had brought with him, and the Russian cigarettes which Marceline smoked, were excellent too. They lingered talking together for a long while after dinner; and their talk, which, under the guidance of Adolphe, never wandered far from the sphere of the occult which now so practically concerned them, was interesting and fascinating, in spite of the fact that that inveterate Parisian Theophrastus would now and again jest about his dangerous plight. At half-past ten they left the restaurant and walked back to the flat in Gerando Street. Adolphe bade them good-night at the bottom of the stairs.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-03.html"
+url: "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-03.html"
 ---
 
 The doorway of the glass palace was quite big enough for the horse and buggy to enter, so Zeb drove straight through it and the children found themselves in a lofty hall that was very beautiful. The people at once followed and formed a circle around the sides of the spacious room, leaving the horse and buggy and the man with the star to occupy the center of the hall.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Horses Flame And Smoke"
 weight: 10
-aliases:
-  - "/authors/haggard-h-rider/the-brethren/chapter-09.html"
+url: "/authors/haggard-h-rider/the-brethren/chapter-09.html"
 ---
 
 On the following morning, when they came into the eating-room of the inn, Godwin and Wulf found they were no longer alone in the house, for sundry other guests sat there partaking of their morning meal. Among them were a grave merchant of Damascus, another from Alexandria in Egypt, a man who seemed to be an Arab chief, a Jew of Jerusalem, and none other than the English trader Thomas of Ipswich, their fellow-passenger, who greeted them warmly.

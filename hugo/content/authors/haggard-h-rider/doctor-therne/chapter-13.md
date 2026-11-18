@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Harvest"
 weight: 14
-aliases:
-  - "/authors/haggard-h-rider/doctor-therne/chapter-13.html"
+url: "/authors/haggard-h-rider/doctor-therne/chapter-13.html"
 ---
 
 Another five days went by--to me they were days of most unspeakable doubt and anguish. Each morning at breakfast I waited for the coming of Jane with an anxiety which was all the more dreadful because I forced myself to conceal it. There had been no further conversation between us about the matter that haunted both our minds, and so fearful was I lest she should divine my suspense that except in the most casual way I did not even dare to look at her as she entered the room.

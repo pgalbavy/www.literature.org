@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-17.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-17.html"
 ---
 
 You see the way on't wuz: we had to do sumthin' to raise the minister's salary, which wuz most half a year behindhand, to say nothin' of the ensuin' year a-comin'. And as I have hinted at before but hain't gi'n petickulers, the men in the meetin' house had all gi'n out, and said they had gi'n every cent they could, and they couldn't and they wouldn't do any more, any way.

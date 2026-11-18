@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-02.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-02.html"
 ---
 
 YESTERDAY afternoon set in misty and cold. I had half a mind to spend it by my study fire, instead of wading through heath and mud to Wuthering Heights. On coming up from dinner, however, (N.B. - I dine between twelve and one o'clock; the housekeeper, a matronly lady, taken as a fixture along with the house, could not, or would not, comprehend my request that I might be served at five) - on mounting the stairs with this lazy intention, and stepping into the room, I saw a servant-girl on her knees surrounded by brushes and coal-scuttles, and raising an infernal dust as she extinguished the flames with heaps of cinders. This spectacle drove me back immediately; I took my hat, and, after a four-miles' walk, arrived at Heathcliff's garden-gate just in time to escape the first feathery flakes of a snow-shower.

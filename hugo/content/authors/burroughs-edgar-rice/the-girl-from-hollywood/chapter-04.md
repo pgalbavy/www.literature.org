@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-04.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-04.html"
 ---
 
 Work and play were inextricably entangled upon Ganado, the play being of a nature that fitted them better for their work, while the work, always in the open and usually from the saddle, they enjoyed fully as much as the play. While the tired business man of the city was expending a day’s vitality and nervous energy in an effort to escape from the turmoil of the mad rush-hour and find a strap from which to dangle homeward amid the toxic effluvia of the melting pot, Colonel Pennington plunged and swam in the cold, invigorating waters of his pool, after a day of labor fully as constructive and profitable as theirs.

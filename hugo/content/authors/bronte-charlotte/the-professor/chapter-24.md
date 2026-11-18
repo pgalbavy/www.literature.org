@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 25
-aliases:
-  - "/authors/bronte-charlotte/the-professor/chapter-24.html"
+url: "/authors/bronte-charlotte/the-professor/chapter-24.html"
 ---
 
 ONE fine, frosty Sunday in November, Frances and I took a long walk; we made the tour of the city by the Boulevards; and, afterwards, Frances being a little tired, we sat down on one of those wayside seats placed under the trees, at intervals, for the accommodation of the weary. Frances was telling me about Switzerland; the subject animated her; and I was just thinking that her eyes spoke full as eloquently as her tongue, when she stopped and remarked--

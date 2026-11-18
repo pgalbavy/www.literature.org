@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Flight In The Heather: The Quarrel"
 weight: 25
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-24.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-24.html"
 ---
 
 Alan and I were put across Loch Errocht under cloud of night, and went down its eastern shore to another hiding-place near the head of Loch Rannoch, whither we were led by one of the gillies from the Cage. This fellow carried all our luggage and Alan’s great-coat in the bargain, trotting along under the burthen, far less than the half of which used to weigh me to the ground, like a stout hill pony with a feather; yet he was a man that, in plain contest, I could have broken on my knee.

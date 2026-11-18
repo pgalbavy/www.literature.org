@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 6 - A Love-Scene"
 weight: 19
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-02-chapter-06.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-02-chapter-06.html"
 ---
 
 Poor Tom bore his severe pain heroically, and was resolute in not "telling" of Mr. Poulter more than was unavoidable; the five-shilling piece remained a secret even to Maggie. But there was a terrible dread weighing on his mind, so terrible that he dared not even ask the question which might bring the fatal "yes"; he dared not ask the surgeon or Mr. Stelling, "Shall I be lame, Sir?" He mastered himself so as not to cry out at the pain; but when his foot had been dressed, and he was left alone with Maggie seated by his bedside, the children sobbed together, with their heads laid on the same pillow. Tom was thinking of himself walking about on crutches, like the wheelwright's son; and Maggie, who did not guess what was in his mind, sobbed for company. It had not occurred to the surgeon or to Mr. Stelling to anticipate this dread in Tom's mind, and to reassure him by hopeful words. But Philip watched the surgeon out of the house, and waylaid Mr. Stelling to ask the very question that Tom had not dared to ask for himself.

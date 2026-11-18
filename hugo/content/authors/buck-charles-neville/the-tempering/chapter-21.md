@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-21.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-21.html"
 ---
 
 For Boone the approaching summer was no longer a period of zestful anticipation. During that whole term he had looked eagerly ahead to those coming months back in the hills, when with the guidance of his wise friend he should plunge into the wholesome excitement of canvassing his district.

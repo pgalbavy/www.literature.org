@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Digging For Treasure"
 weight: 2
-aliases:
-  - "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-02.html"
+url: "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-02.html"
 ---
 
 I am afraid the last chapter was rather dull. It is always dull in books when people talk and talk, and don't do anything, but I was obliged to put it in, or else you wouldn't have understood all the rest. The best part of books is when things are happening. That is the best part of real things too. This is why I shall not tell you in this story about all the days when nothing happened. You will not catch me saying, 'thus the sad days passed slowly by' - or 'the years rolled on their weary course' - or 'time went on' - because it is silly; of course time goes on - whether you say so or not. So I shall just tell you the nice, interesting parts - and in between you will understand that we had our meals and got up and went to bed, and dull things like that. It would be sickening to write all that down, though of course it happens. I said so to Albert-next-door's uncle, who writes books, and he said, 'Quite right, that's what we call selection, a necessity of true art.' And he is very clever indeed. So you see.

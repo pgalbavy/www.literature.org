@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Village of Torture"
 weight: 21
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-21.html"
+url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-21.html"
 ---
 
 As the little expedition of sailors toiled through the dense jungle searching for signs of Jane Porter, the futility of their venture became more and more apparent, but the grief of the old man and the hopeless eyes of the young Englishman prevented the kind hearted D'Arnot from turning back.

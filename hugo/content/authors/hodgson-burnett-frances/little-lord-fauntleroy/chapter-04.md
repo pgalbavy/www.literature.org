@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/hodgson-burnett-frances/little-lord-fauntleroy/chapter-04.html"
+url: "/authors/hodgson-burnett-frances/little-lord-fauntleroy/chapter-04.html"
 ---
 
 It was during the voyage that Cedric's mother told him that his home was not to be hers; and when he first understood it, his grief was so great that Mr. Havisham saw that the Earl had been wise in making the arrangements that his mother should be quite near him, and see him often; for it was very plain he could not have borne the separation otherwise. But his mother managed the little fellow so sweetly and lovingly, and made him feel that she would be so near him, that, after a while, he ceased to be oppressed by the fear of any real parting.

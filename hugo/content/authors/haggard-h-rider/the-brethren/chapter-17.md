@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Brethren Depart From Damascus"
 weight: 18
-aliases:
-  - "/authors/haggard-h-rider/the-brethren/chapter-17.html"
+url: "/authors/haggard-h-rider/the-brethren/chapter-17.html"
 ---
 
 At the court of Saladin Godwin and Wulf were treated with much honour. A house was given them to dwell in, and a company of servants to minister to their comfort and to guard them. Mounted on their swift horses, Flame and Smoke, they were taken out into the desert to hunt, and, had they so willed, it would have been easy for them to out-distance their retinue and companions and ride away to the nearest Christian town. Indeed, no hand would have been lifted to stay them who were free to come or go. But whither were they to go without Rosamund?

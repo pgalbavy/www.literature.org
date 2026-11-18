@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-20.html"
+url: "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-20.html"
 ---
 
 Eureka was much surprised to find herself in disgrace; but she was, in spite of the fact that she had not eaten the piglet. For the folks of Oz knew the kitten had tried to commit the crime, and that only an accident had prevented her from doing so; therefore even the Hungry Tiger preferred not to associate with her. Eureka was forbidden to wander around the palace and was made to stay in confinement in Dorothy's room; so she began to beg her mistress to send her to some other place where she could enjoy herself better.

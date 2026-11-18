@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Caught By A Thistle"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-13.html"
 ---
 
 "You'll have to help me," Peppery Polly Bumblebee said to Freddie Firefly through the darkness. "If you'd been a little less stingy with that light of yours I wouldn't have made the mistake of thinking this thistle was a clover blossom."

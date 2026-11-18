@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Tames Goats"
 weight: 10
-aliases:
-  - "/authors/defoe-daniel/robinson-crusoe/chapter-10.html"
+url: "/authors/defoe-daniel/robinson-crusoe/chapter-10.html"
 ---
 
 I CANNOT say that after this, for five years, any extraordinary thing happened to me, but I lived on in the same course, in the same posture and place, as before; the chief things I was employed in, besides my yearly labour of planting my barley and rice, and curing my raisins, of both which I always kept up just enough to have sufficient stock of one year's provisions beforehand; I say, besides this yearly labour, and my daily pursuit of going out with my gun, I had one labour, to make a canoe, which at last I finished: so that, by digging a canal to it of six feet wide and four feet deep, I brought it into the creek, almost half a mile. As for the first, which was so vastly big, for I made it without considering beforehand, as I ought to have done, how I should be able to launch it, so, never being able to bring it into the water, or bring the water to it, I was obliged to let it lie where it was as a memorandum to teach me to be wiser the next time: indeed, the next time, though I could not get a tree proper for it, and was in a place where I could not get the water to it at any less distance than, as I have said, near half a mile, yet, as I saw it was practicable at last, I never gave it over; and though I was near two years about it, yet I never grudged my labour, in hopes of having a boat to go off to sea at last.

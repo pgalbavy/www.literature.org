@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - The Last Hope"
 weight: 31
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-31.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-31.html"
 ---
 
 The young ranchers had to go but a short distance, when they struck the trail left by their friends. The snow rendered it so distinct that the first glance told the story. Warren saw the track made by the feet of his father, mother, and little Dot. The consciousness that he was so near them profoundly affected the son.

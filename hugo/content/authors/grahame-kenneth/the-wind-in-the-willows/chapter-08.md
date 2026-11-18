@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Toad'S Adventures"
 weight: 8
-aliases:
-  - "/authors/grahame-kenneth/the-wind-in-the-willows/chapter-08.html"
+url: "/authors/grahame-kenneth/the-wind-in-the-willows/chapter-08.html"
 ---
 
 When Toad found himself immured in a dank and noisome dungeon, and knew that all the grim darkness of a medieval fortress lay between him and the outer world of sunshine and well-metalled high roads where he had lately been so happy, disporting himself as if he had bought up every road in England, he flung himself at full length on the floor, and shed bitter tears, and abandoned himself to dark despair. "This is the end of everything" (he said), "at least it is the end of the career of Toad, which is the same thing; the popular and handsome Toad, the rich and hospitable Toad, the Toad so free and careless and debonair! How can I hope to be ever set at large again" (he said), "who have been imprisoned so justly for stealing so handsome a motor-car in such an audacious manner, and for such lurid and imaginative cheek, bestowed upon such a number of fat, red-faced policemen!" (Here his sobs choked him.) "Stupid animal that I was" (he said), "now I must languish in this dungeon, till people who were proud to say they knew me, have forgotten the very name of Toad! O wise old Badger!" (he said), "O clever, intelligent Rat and sensible Mole! What sound judgments, what a knowledge of men and matters you possess! O unhappy and forsaken Toad!" With lamentations such as these he passed his days and nights for several weeks, refusing his meals or intermediate light refreshments, though the grim and ancient gaoler, knowing that Toad's pockets were well lined, frequently pointed out that many comforts, and indeed luxuries, could by arrangement be sent in--at a price--from outside.

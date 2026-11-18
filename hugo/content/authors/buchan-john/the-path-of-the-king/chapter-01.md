@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Hightown Under Sunfell"
 weight: 2
-aliases:
-  - "/authors/buchan-john/the-path-of-the-king/chapter-01.html"
+url: "/authors/buchan-john/the-path-of-the-king/chapter-01.html"
 ---
 
 When Biorn was a very little boy in his father's stead at Hightown he had a play of his own making for the long winter nights. At the back end of the hall, where the men sat at ale, was a chamber which the thralls used of a morning—a place which smelt of hams and meal and good provender. There a bed had been made for him when he forsook his cot in the women's quarters. When the door was shut it was black dark, save for a thin crack of light from the wood fire and torches of the hall. The crack made on the earthen floor a line like a golden river. Biorn, cuddled up on a bench in his little bear-skin, was drawn like a moth to that stream of light. With his heart beating fast he would creep to it and stand for a moment with his small body bathed in the radiance. The game was not to come back at once, but to foray into the farther darkness before returning to the sanctuary of bed. That took all the fortitude in Biorn's heart, and not till the thing was dared and done could he go happily to sleep.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Message On The Saddle"
 weight: 16
-aliases:
-  - "/authors/titus-harold/bruce-of-the-circle-a/chapter-16.html"
+url: "/authors/titus-harold/bruce-of-the-circle-a/chapter-16.html"
 ---
 
 The hours he spent in Yavapai that night were memorable ones for Bruce Bayard. He rode the distance to town at a slow walk and arrived after the sun had set. He had no appetite for food but, nevertheless, after washing in the kitchen, he went into the hotel dining room and talked absently to Nora.

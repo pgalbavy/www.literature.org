@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Invisible Man Sleeps"
 weight: 18
-aliases:
-  - "/authors/wells-herbert-george/the-invisible-man/chapter-18.html"
+url: "/authors/wells-herbert-george/the-invisible-man/chapter-18.html"
 ---
 
 Exhausted and wounded as the Invisible Man was, he refused to accept Kemp's word that his freedom should be respected. He examined the two windows of the bedroom, drew up the blinds, and opened the sashes to confirm Kemp's statement that a retreat by them would be possible. Outside the night was very quiet and still, and the new moon was setting over the down. Then he examined the keys of the bedroom and the two dressing-room doors, to satisfy himself that these also could be made an assurance of freedom. Finally he expressed himself satisfied. He stood on the hearth-rug and Kemp heard the sound of a yawn.

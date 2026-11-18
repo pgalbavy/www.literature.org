@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Redskins' Way"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-15.html"
 ---
 
 Of course Timothy Turtle was glad that Johnnie Green was gone. But he was far from happy, lying helpless on his back on the bank of Black Creek.

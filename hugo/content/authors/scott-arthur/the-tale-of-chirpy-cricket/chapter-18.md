@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Mr. Cricket Frog's Trick"
 weight: 18
-aliases:
-  - "/authors/scott-arthur/the-tale-of-chirpy-cricket/chapter-18.html"
+url: "/authors/scott-arthur/the-tale-of-chirpy-cricket/chapter-18.html"
 ---
 
 "What's the matter? Are you hurt?" Chirpy Cricket called to Mr. Cricket Frog from the bank of the duck-pond. Ever since a splash near-by had interrupted their talk, Mr. Cricket Frog had not swum a single stroke. He was floating, motionless, upon the surface of the water. And he made no reply whatever to Chirpy's questions. He acted exactly as if he had not heard them. The fitful breeze caught at Mr. Cricket Frog's limp form and wafted it about.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Start"
 weight: 8
-aliases:
-  - "/authors/haggard-h-rider/the-ivory-child/chapter-08.html"
+url: "/authors/haggard-h-rider/the-ivory-child/chapter-08.html"
 ---
 
 That evening when the baggage had been disposed of and locked up in my little stable and arrangements were made for the delivery of some cases containing tinned foods, etc., which had proved too heavy for the Scotch cart, Lord Ragnall and I continued our conversation. First, however, we unpacked the guns and checked the ammunition, of which there was a large supply, with more to follow.

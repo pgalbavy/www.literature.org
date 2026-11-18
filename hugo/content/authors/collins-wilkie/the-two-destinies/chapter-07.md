@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Woman On The Bridge"
 weight: 8
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-07.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-07.html"
 ---
 
 MY mother looked in at the library door, and disturbed me over my books.

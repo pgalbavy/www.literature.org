@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - His Faithful Little Pony"
 weight: 17
-aliases:
-  - "/authors/titus-harold/the-last-straw/chapter-17.html"
+url: "/authors/titus-harold/the-last-straw/chapter-17.html"
 ---
 
 In the days that followed you might have seen approaching from a distance a rider for the HC. Watching, you would have noticed that he stopped his horse, rode on, stopped again, rode on and stopped the third time. Had you not halted and repeated the performance he would not have come toward you and, on coming within eyesight, you might have seen him sitting with a hand on his holster, or rifle scabbard--for the deadlier weapons appeared--carelessly enough, outwardly, but latent with disaster. For war had been declared. Jane Hunter's men were ready for trouble, waiting for trouble, but it did not come at once for though Hepburn and Webb and their following hated Tom Beck for the man he was they respected him and gave heed to his warning to stay away from HC property ... or at least not to be seen thereabouts.

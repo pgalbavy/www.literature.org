@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 45 - Of How The Great Sancho Panza Took Possession Of His Island, And Of How He Made A Beginning In Governing"
 weight: 101
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-45.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-45.html"
 ---
 
 O perpetual discoverer of the antipodes, torch of the world, eye of heaven, sweet stimulator of the water-coolers! Thimbraeus here, Phœbus there, now archer, now physician, father of poetry, inventor of music; thou that always risest and, notwithstanding appearances, never settest! To thee, O Sun, by whose aid man begetteth man, to thee I appeal to help me and lighten the darkness of my wit that I may be able to proceed with scrupulous exactitude in giving an account of the great Sancho Panza’s government; for without thee I feel myself weak, feeble, and uncertain.

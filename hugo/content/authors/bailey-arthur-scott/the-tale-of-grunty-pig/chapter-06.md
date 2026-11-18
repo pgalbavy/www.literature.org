@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Mr. Crow Helps"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-06.html"
 ---
 
 It was a wonder that Johnnie Green and his father ever found Grunty Pig.

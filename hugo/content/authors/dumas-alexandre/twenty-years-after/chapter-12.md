@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - In Which It Is Shown That If Porthos Was Discontented With His Condition, Musqueton Was Completely Satisfied With His"
 weight: 12
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-12.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-12.html"
 ---
 
 As they returned toward the castle, D'Artagnan thought of the miseries of poor human nature, always dissatisfied with what it has, ever desirous of what it has not.

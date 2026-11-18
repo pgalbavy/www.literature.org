@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Mr. Hinter Makes A Confession"
 weight: 25
-aliases:
-  - "/authors/mckishnie-archie-p/a-son-of-courage/chapter-25.html"
+url: "/authors/mckishnie-archie-p/a-son-of-courage/chapter-25.html"
 ---
 
 It was the evening of the next day. Frank Stanhope lay on a couch in a darkened room, a black bandage across his eyes. Erie Landon sat beside him, holding his hand. The pungent odor of ether hung in the air. Out in the dining room old Doctor Allworth, from Bridgetown, was discussing with the specialist things known only to those men of science.

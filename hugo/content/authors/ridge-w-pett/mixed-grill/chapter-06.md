@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Price Of James Mcwinter"
 weight: 6
-aliases:
-  - "/authors/ridge-w-pett/mixed-grill/chapter-06.html"
+url: "/authors/ridge-w-pett/mixed-grill/chapter-06.html"
 ---
 
 THEY came separately, and rather stealthily, to the restaurant in Little Compton Street, giving a cautious look up and down the street before entering. Many folk in Soho wear the brims of soft hats flattened down over eyes, carry hands deep in overcoat pockets, and walk close to shop windows, hesitating slightly before turning a corner. The restaurant patrons did not belong to this type. Some of the early-comers spoke to a constable, and said, exhibiting an envelope, because they mistrusted their French accent:

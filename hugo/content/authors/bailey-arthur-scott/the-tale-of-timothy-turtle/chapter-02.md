@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - An Old-Timer"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-02.html"
 ---
 
 It was pleasant for Timothy Turtle that he lived in Black Creek, for he was very fond of fishing. If he had happened to make his home among the rocks on the top of Blue Mountain he would have had to travel a long way to find even a trout stream. But in Black Creek there were fish right in his dooryard, one may say.

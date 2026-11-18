@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - All Is Lost"
 weight: 19
-aliases:
-  - "/authors/daviess-maria-thompson/the-daredevil/chapter-19.html"
+url: "/authors/daviess-maria-thompson/the-daredevil/chapter-19.html"
 ---
 
 And to that word of challenge I made no answer, but I raised my head and looked into his eyes with a dignity that came to me as my right from suffering. So regarding each other, we stood for a very short minute in which the Capitaine, the Count de Lasselles, raised his head from his kisses of salutation upon my hands.

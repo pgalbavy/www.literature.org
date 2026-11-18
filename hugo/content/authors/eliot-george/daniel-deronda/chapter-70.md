@@ -1,8 +1,7 @@
 ---
 title: "Chapter 70"
 weight: 70
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-70.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-70.html"
 ---
 
 In the checkered area of human experience the seasons are all mingled as in the golden age: fruit and blossom hang together; in the same moment the sickle is reaping and the seed is sprinkled; one tends the green cluster and another treads the winepress. Nay, in each of our lives harvest and spring-time are continually one, until himself gathers us and sows us anew in his invisible fields.

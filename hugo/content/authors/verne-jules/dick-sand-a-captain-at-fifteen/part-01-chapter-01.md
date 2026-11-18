@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 1 - The Brig-Schooner \u0026quot;Pilgrim\u0026quot;"
 weight: 1
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-01.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-01.html"
 ---
 
 On February 2, 1876, the schooner "Pilgrim" was in latitude 43° 57' south, and in longitude 165° 19' west of the meridian of Greenwich.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 45 - In The Prison"
 weight: 45
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-45.html"
+url: "/authors/eliot-george/adam-bede/chapter-45.html"
 ---
 
 NEAR sunset that evening an elderly gentleman was standing with his back against the smaller entrance-door of Stoniton jail, saying a few last words to the departing chaplain. The chaplain walked away, but the elderly gentleman stood still, looking down on the pavement and stroking his chin with a ruminating air, when he was roused by a sweet clear woman's voice, saying, "Can I get into the prison, if you please?"

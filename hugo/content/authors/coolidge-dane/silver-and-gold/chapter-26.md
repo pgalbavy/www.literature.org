@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - The Course Of The Law"
 weight: 27
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/chapter-26.html"
+url: "/authors/coolidge-dane/silver-and-gold/chapter-26.html"
 ---
 
 As he lay in his cell in the county jail at Moroni it was borne in upon Denver that he was caught in some great machine that ground out men as a mill grinds grain. It had laid a cold hand on him in the person of an officer of the law, it had inched him on further when a magistrate had examined him and Chatwourth and his jumpers had testified; and now, as he awaited his day in court, he wondered whither it was taking him. The magistrate had held him, the grand jury had indicted him--would the judge and jury find him guilty? And if so, would they send him to the Pen? His heart sank at that, for the name of "ex-convict" is something that cannot be laid. No matter what the crime or the circumstances of the trial, once a man is convicted and sent to prison that name can always be hurled at him--and Denver knew that he was not guilty.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-03.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-03.html"
 ---
 
 McCalloway's house had been chinked and sealed within a few weeks and now he was living under its roof. Boone had been out there often, and one day when he went on to Asa Gregory's cabin his mind was unsettled with the ferment of conflicting standards. Heretofore Asa had been his sole and sufficient hero. Now there were two, and it was dawning upon him, with a travail of dilemma, that between the essentials of their creeds lay an irreconcilable divergence.

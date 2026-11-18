@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - In Storm And Darkness"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-05.html"
 ---
 
 "Yes, it's the last message he'll ever deliver," repeated the policeman; "Ben Mayberry has probably been killed!"

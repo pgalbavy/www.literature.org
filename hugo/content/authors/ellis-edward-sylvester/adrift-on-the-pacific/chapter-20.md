@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - How Diamond Cut Diamond"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-20.html"
 ---
 
 The three mutineers on board the schooner Coral had sailed away and disappeared from view on the face of the vast Pacific, and the captain and mate were left with little Inez alone upon a small, lonely member of the Paumotu Group, in the distant South Seas.

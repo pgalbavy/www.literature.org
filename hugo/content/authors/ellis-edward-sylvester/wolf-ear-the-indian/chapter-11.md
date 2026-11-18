@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - \"i'm Off; Good-Bye!\""
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/wolf-ear-the-indian/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/wolf-ear-the-indian/chapter-11.html"
 ---
 
 Though his brave companion had fallen almost at his side, Brinton Kingsland had reached the camp of the supply train without receiving so much as a scratch. He mourned him, for he was a worthy man; but he was heart-broken at his failure to gain tidings of his loved parents and little sister. He did not know what to do, and could only fear the worst.

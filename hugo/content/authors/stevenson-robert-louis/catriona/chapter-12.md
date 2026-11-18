@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - On The March Again With Alan"
 weight: 13
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-12.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-12.html"
 ---
 
 It was likely between one and two; the moon (as I have said) was down; a strongish wind, carrying a heavy wrack of cloud, had set in suddenly from the west; and we began our movement in as black a night as ever a fugitive or a murderer wanted. The whiteness of the path guided us into the sleeping town of Broughton, thence through Picardy, and beside my old acquaintance the gibbet of the two thieves. A little beyond we made a useful beacon, which was a light in an upper window of Lochend. Steering by this, but a good deal at random, and with some trampling of the harvest, and stumbling and falling down upon the banks, we made our way across country, and won forth at last upon the linky, boggy muirland that they call the Figgate Whins. Here, under a bush of whin, we lay down the remainder of that night and slumbered.

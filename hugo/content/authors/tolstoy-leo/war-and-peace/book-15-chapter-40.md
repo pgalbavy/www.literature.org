@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 40"
 weight: 357
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-40.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-40.html"
 ---
 
 Having abandoned the conception of the ancients as to the divine subjection of the will of a nation to some chosen man and the subjection of that man's will to the Deity, history cannot without contradictions take a single step till it has chosen one of two things: either a return to the former belief in the direct intervention of the Deity in human affairs or a definite explanation of the meaning of the force producing historical events and termed "power."

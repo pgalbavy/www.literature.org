@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Raft"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/the-ranger/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/the-ranger/chapter-06.html"
 ---
 
 Slowly, silently and gently the boat glided onward—both Leslie and Leland as motionless as death, yet with hearts throbbing wildly and fearfully. The former stooped and whispered:

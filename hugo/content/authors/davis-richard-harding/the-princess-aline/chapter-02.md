@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/davis-richard-harding/the-princess-aline/chapter-02.html"
+url: "/authors/davis-richard-harding/the-princess-aline/chapter-02.html"
 ---
 
 "The course of true love certainly runs smoothly with you," said Miss Morris, as they seated themselves at the table. "What is your next move? What do you mean to do now?"

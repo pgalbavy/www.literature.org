@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Return Of The Wild Geese"
 weight: 10
-aliases:
-  - "/authors/buchan-john/the-power-house/chapter-09.html"
+url: "/authors/buchan-john/the-power-house/chapter-09.html"
 ---
 
 I do not think I was surprised at the news I read in *The Times* next morning.

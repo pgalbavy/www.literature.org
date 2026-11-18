@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 12 - The Gratitude Of A King"
 weight: 12
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mad-king/part-01-chapter-12.html"
+url: "/authors/burroughs-edgar-rice/the-mad-king/part-01-chapter-12.html"
 ---
 
 At the cry silence fell upon the throng. Every head was turned toward the great doors through which the head of a procession was just visible. It was a grim looking procession--the head of it, at least.

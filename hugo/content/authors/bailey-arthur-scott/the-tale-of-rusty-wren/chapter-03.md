@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Alarm Clock"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-03.html"
 ---
 
 All summer long Farmer Green rose while the world was still gray, before the sun climbed over the mountain to flood Pleasant Valley with his golden light.

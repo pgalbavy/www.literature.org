@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Mr. Frog Runs Away"
 weight: 23
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-23.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-23.html"
 ---
 
 It may have been Mr. Frog's words that dismayed Long Bill Wren, or it may have been his manner--or perhaps both. Anyhow, Long Bill looked frightened.

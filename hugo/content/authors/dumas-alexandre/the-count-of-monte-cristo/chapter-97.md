@@ -1,8 +1,7 @@
 ---
 title: "Chapter 97 - The Departure For Belgium"
 weight: 97
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-97.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-97.html"
 ---
 
 A few minutes after the scene of confusion produced in the salons of M. Danglars by the unexpected appearance of the brigade of soldiers, and by the disclosure which had followed, the mansion was deserted with as much rapidity as if a case of plague or of cholera morbus had broken out among the guests. In a few minutes, through all the doors, down all the staircases, by every exit, every one hastened to retire, or rather to fly; for it was a situation where the ordinary condolences, - which even the best friends are so eager to offer in great catastrophes, - were seen to be utterly futile. There remained in the banker's house only Danglars, closeted in his study, and making his statement to the officer of gendarmes; Madame Danglars, terrified, in the boudoir with which we are acquainted; and Eugenie, who with haughty air and disdainful lip had retired to her room with her inseparable companion, Mademoiselle Louise d'Armilly. As for the numerous servants (more numerous that evening than usual, for their number was augmented by cooks and butlers from the Cafe de Paris), venting on their employers their anger at what they termed the insult to which they had been subjected, they collected in groups in the hall, in the kitchens, or in their rooms, thinking very little of their duty, which was thus naturally interrupted. Of all this household, only two persons deserve our notice; these are Mademoiselle Eugenie Danglars and Mademoiselle Louise d'Armilly.

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 22"
 weight: 35
-aliases:
-  - "/authors/london-jack/burning-daylight/part-02-chapter-22.html"
+url: "/authors/london-jack/burning-daylight/part-02-chapter-22.html"
 ---
 
 "But I know something of the fight you have been making," Dede contended. "If you stop now, all the work you have done, everything, will be destroyed. You have no right to do it. You can't do it."

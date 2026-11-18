@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Sixty-Inch Meal"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-13.html"
 ---
 
 Mr. Frog's scheme of measuring the Beaver family for new suits had just one drawback; the Beaver family liked it too well. So pleased were they over the prospect of having "unfashionable" clothes like Mr. Frog's at last that all of them wanted to be measured not once but several times. And each and every one, as soon as Mr. Frog had taken his measurements, went out through the back door and slipped around the little building, to wait again at the foot of the line.

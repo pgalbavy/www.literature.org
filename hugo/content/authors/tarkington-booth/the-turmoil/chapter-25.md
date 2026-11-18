@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-25.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-25.html"
 ---
 
 There was sleet that evening, with a whopping wind, but neither this storm nor that other which so imminently threatened him held place in the consciousness of Bibbs Sheridan when he came once more to the presence of Mary. All was right in his world as he sat with her, reading Maurice Maeterlinck's Alladine and Palomides. The sorrowful light of the gas-jet might have been May morning sunshine flashing amber and rose through the glowing windows of the Sainte-Chapelle, it was so bright for Bibbs. And while the zinc-eater held out to bring him such golden nights as these, all the king's horses and all the king's men might not serve to break the spell.

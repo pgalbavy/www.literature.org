@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/burroughs-edgar-rice/the-land-that-time-forgot/chapter-03.html"
+url: "/authors/burroughs-edgar-rice/the-land-that-time-forgot/chapter-03.html"
 ---
 
 Those were anxious days, during which I had but little opportunity to associate with Lys. I had given her the commander's room, Bradley and I taking that of the deck-officer, while Olson and two of our best men occupied the room ordinarily allotted to petty officers. I made Nobs' bed down in Lys' room, for I knew she would feel less alone.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Irene's Song"
 weight: 5
-aliases:
-  - "/authors/brown-ruth-alberta/tabithas-vacation/chapter-05.html"
+url: "/authors/brown-ruth-alberta/tabithas-vacation/chapter-05.html"
 ---
 
 "Miss Davis gets home to-day," sang Tabitha under her breath, as she drew on her slippers that bright, hot morning. "Do you know that, Gloriana Holliday?"

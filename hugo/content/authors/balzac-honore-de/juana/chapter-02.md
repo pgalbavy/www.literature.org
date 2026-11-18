@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Auction"
 weight: 2
-aliases:
-  - "/authors/balzac-honore-de/juana/chapter-02.html"
+url: "/authors/balzac-honore-de/juana/chapter-02.html"
 ---
 
 The foregoing narrative changed the intentions of the Italian captain; no longer did he think of making a Marchesa di Montefiore of Juana di Mancini. He recognized the blood of the Maranas in the glance the girl had given from behind the blinds, in the trick she had just played to satisfy her curiosity, and also in the parting look she had cast upon him. The libertine wanted a virtuous woman for a wife.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-08.html"
+url: "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-08.html"
 ---
 
 When the pitchiness of night closed in until it seemed that the mountains moved up and huddled closer together, Newt was on well-remembered roads and did not pause. In an hour or two the moon would be up, and he would reach the cabin which he called home.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-11.html"
+url: "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-11.html"
 ---
 
 The men who had come into town for the purpose of co-operating with Jerry O'Keefe and with Halloway had of course drifted in singly and with no seeming of cohesion. It was vital that they should avoid any manifest community of purpose, yet they were armed, ready and alert, awaiting only a signal to gather out of scattered elements into a close-knit force with heavy striking-power.

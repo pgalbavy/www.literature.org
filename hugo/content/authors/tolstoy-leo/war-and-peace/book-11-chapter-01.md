@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 1"
 weight: 230
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-01.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-01.html"
 ---
 
 BOOK ELEVEN: 1812

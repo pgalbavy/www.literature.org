@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/chambers-robert-w/cardigan/chapter-01.html"
+url: "/authors/chambers-robert-w/cardigan/chapter-01.html"
 ---
 
 On the 1st of May, 1774, the anchor-ice, which for so many months had silver-plated the river's bed with frosted crusts, was ripped off and dashed into a million gushing flakes by the amber outrush of the springtide flood.

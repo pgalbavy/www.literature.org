@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-03.html"
+url: "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-03.html"
 ---
 
 Sally clambered lightly over the fence, and started on the last stage of her journey, the climb across the young corn rows. It was a field stood on end, and the hoed ground was uneven; but with no seeming of weariness her red dress flashed steadfastly across the green spears, and her voice was raised to shout: "Hello, Samson!"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Truth And Falsehood"
 weight: 14
-aliases:
-  - "/authors/russell-bertrand/the-analysis-of-mind/chapter-13.html"
+url: "/authors/russell-bertrand/the-analysis-of-mind/chapter-13.html"
 ---
 
 The definition of truth and falsehood, which is our topic to-day, lies strictly outside our general subject, namely the analysis of mind. From the psychological standpoint, there may be different kinds of belief, and different degrees of certainty, but there cannot be any purely psychological means of distinguishing between true and false beliefs. A belief is rendered true or false by relation to a fact, which may lie outside the experience of the person entertaining the belief. Truth and falsehood, except in the case of beliefs about our own minds, depend upon the relations of mental occurrences to outside things, and thus take us beyond the analysis of mental occurrences as they are in themselves. Nevertheless, we can hardly avoid the consideration of truth and falsehood. We wish to believe that our beliefs, sometimes at least, yield *KNOWLEDGE,* and a belief does not yield knowledge unless it is true. The question whether our minds are instruments of knowledge, and, if so, in what sense, is so vital that any suggested analysis of mind must be examined in relation to this question. To ignore this question would be like describing a chronometer without regard to its accuracy as a time-keeper, or a thermometer without mentioning the fact that it measures temperature.

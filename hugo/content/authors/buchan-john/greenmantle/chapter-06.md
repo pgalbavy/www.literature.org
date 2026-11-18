@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Indiscretions Of The Same"
 weight: 7
-aliases:
-  - "/authors/buchan-john/greenmantle/chapter-06.html"
+url: "/authors/buchan-john/greenmantle/chapter-06.html"
 ---
 
 I was standing stark naked next morning in that icy bedroom, trying to bathe in about a quart of water, when Stumm entered. He strode up to me and stared me in the face. I was half a head shorter than him to begin with, and a man does not feel his stoutest when he has no clothes, so he had the pull on me every way.

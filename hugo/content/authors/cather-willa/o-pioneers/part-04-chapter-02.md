@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 2"
 weight: 21
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-04-chapter-02.html"
+url: "/authors/cather-willa/o-pioneers/part-04-chapter-02.html"
 ---
 
 Signa's wedding supper was over. The guests, and the tiresome little Norwegian preacher who had performed the marriage ceremony, were saying good-night. Old Ivar was hitching the horses to the wagon to take the wedding presents and the bride and groom up to their new home, on Alexandra's north quarter. When Ivar drove up to the gate, Emil and Marie Shabata began to carry out the presents, and Alexandra went into her bedroom to bid Signa good-bye and to give her a few words of good counsel. She was surprised to find that the bride had changed her slippers for heavy shoes and was pinning up her skirts. At that moment Nelse appeared at the gate with the two milk cows that Alexandra had given Signa for a wedding present.

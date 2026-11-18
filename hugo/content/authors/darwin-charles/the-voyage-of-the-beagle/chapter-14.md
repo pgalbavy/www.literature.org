@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Chiloe and Concepcion: Great Earthquake"
 weight: 15
-aliases:
-  - "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-14.html"
+url: "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-14.html"
 ---
 
 arrow_rightSan Carlos, Chiloe arrow_rightOsorno in eruption, contemporaneously with Aconcagua and Coseguina arrow_rightRide to Cucao arrow_rightImpenetrable Forests arrow_rightValdivia Indians arrow_rightEarthquake arrow_rightConcepcion arrow_rightGreat Earthquake arrow_rightRocks fissured arrow_rightAppearance of the former Towns arrow_rightThe Sea Black and Boiling arrow_rightDirection of the Vibrations arrow_rightStones twisted round arrow_rightGreat Wave arrow_rightPermanent Elevation of the Land arrow_rightArea of Volcanic Phenomena arrow_rightThe connection between the Elevatory and Eruptive Forces arrow_rightCause of Earthquakes arrow_rightSlow Elevation of Mountain-chains ---

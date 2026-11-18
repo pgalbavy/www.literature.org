@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/baum-l-frank/rinkitink-in-oz/chapter-11.html"
+url: "/authors/baum-l-frank/rinkitink-in-oz/chapter-11.html"
 ---
 
 The forest in which Nikobob lived with his wife and daughter stood between the mountains and the City of Regos, and a well-beaten path wound among the trees, leading from the city to the mines. This path was used by the King's messengers, and captured prisoners were also sent by this way from Regos to work in the underground caverns.

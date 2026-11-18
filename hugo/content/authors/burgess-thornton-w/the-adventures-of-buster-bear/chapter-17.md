@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Buster Bear Is A Fallen Hero"
 weight: 16
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-17.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-17.html"
 ---
 
 A fallen hero is some one to whom every one has looked up as very brave and then proves to be less brave than he was supposed to be. That was the way with Buster Bear. When Little Joe Otter had told how Farmer Brown's boy had been afraid at the mere sight of one of Buster Bear's big footprints, they had at once made a hero of Buster. At least some of them had. As this was the first time, the very first time, that they had ever known any one who lives in the Green Forest to make Farmer Brown's boy run away, they looked on Buster Bear with a great deal of respect and were very proud of him.

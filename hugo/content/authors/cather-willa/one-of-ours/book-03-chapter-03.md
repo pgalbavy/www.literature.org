@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 3"
 weight: 34
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-03-chapter-03.html"
+url: "/authors/cather-willa/one-of-ours/book-03-chapter-03.html"
 ---
 
 After the heavy work of harvest was over, Mrs. Wheeler often persuaded her husband, when he was starting off in his buckboard, to take her as far as Claude's new house. She was glad Enid didn't keep her parlour dark, as Mrs. Royce kept hers. The doors and windows were always open, the vines and the long petunias in the window-boxes waved in the breeze, and the rooms were full of sunlight and in perfect order. Enid wore white dresses about her work, and white shoes and stockings. She managed a house easily and systematically. On Monday morning Claude turned the washing machine before he went to work, and by nine o'clock the clothes were on the line. Enid liked to iron, and Claude had never before in his life worn so many clean shirts, or worn them with such satisfaction. She told him he need not economize in working shirts; it was as easy to iron six as three.

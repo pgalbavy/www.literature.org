@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Young Orator"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-02.html"
 ---
 
 The boys of Fairport were an amphibious set, who could live on land truly, but were happiest when in or near the water. To fish and swim, row, trim the sail, and guide the rudder, were accomplishments they all could boast. A bold, hardy, merry set they were; and but for the schoolmaster's rod and the teaching of their pious mothers, might have been as ignorant as oysters and merciless as the sharks. Master Penrose had whipped into most of them the elements of a plain English education, and gentle mothers had power to soften and rule these rough boys, when perhaps a stronger hand would have failed.

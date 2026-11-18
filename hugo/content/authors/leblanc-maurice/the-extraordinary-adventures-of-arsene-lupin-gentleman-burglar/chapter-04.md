@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Mysterious Traveller"
 weight: 4
-aliases:
-  - "/authors/leblanc-maurice/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/chapter-04.html"
+url: "/authors/leblanc-maurice/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/chapter-04.html"
 ---
 
 The evening before, I had sent my automobile to Rouen by the highway. I was to travel to Rouen by rail, on my way to visit some friends that live on the banks of the Seine.

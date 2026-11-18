@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - A Prisoner"
 weight: 21
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-21.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-21.html"
 ---
 
 When Code Schofield came to himself his first sensation was one of oppression, such as is felt after sleeping in an unventilated room. It seemed difficult for him to breathe, but his body was quite free and uninjured, as he found by moving himself carefully in all directions before he even opened his eyes.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 61 - Stubb Kills a Whale"
 weight: 61
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-061.html"
+url: "/authors/melville-herman/moby-dick/chapter-061.html"
 ---
 
 If to Starbuck the apparition of the Squid was a thing of portents, to Queequeg it was quite a different object.

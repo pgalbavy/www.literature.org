@@ -1,8 +1,7 @@
 ---
 title: "Fourth Quarter"
 weight: 4
-aliases:
-  - "/authors/dickens-charles/the-chimes/chapter-04.html"
+url: "/authors/dickens-charles/the-chimes/chapter-04.html"
 ---
 
 Some new remembrance of the ghostly figures in the Bell; some faint impression of the ringing of the Chimes; some giddy consciousness of having seen the swarm of phantoms reproduced and reproduced until the recollection of them lost itself in the confusion of their numbers; some hurried knowledge, how conveyed to him he knew not, that more years had passed; and Trotty, with the Spirit of the child attending him, stood looking on at mortal company.

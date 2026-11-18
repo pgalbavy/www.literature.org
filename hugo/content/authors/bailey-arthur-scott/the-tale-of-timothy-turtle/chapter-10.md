@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Warning"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-10.html"
 ---
 
 Timothy Turtle's visit at the beaver pond was just like all of his outings. Wherever he went he was so disagreeable and snappish that there wasn't a single person in the whole village that didn't wish Timothy had stayed away from that place.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Mr. And Mrs. Quack Are Startled"
 weight: 29
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-29.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-29.html"
 ---
 
 It was the evening of the day after the closing of the hunting season for Lightfoot the Deer. Jolly, round, red Mr. Sun had gone to bed behind the Purple Hills, and the Black Shadows had crept out across the Big River. Mr. and Mrs. Quack were getting their evening meal among the brown stalks of the wild rice along the edge of the Big River. They took turns in searching for the rice grains in the mud. While Mrs. Quack tipped up and seemed to stand on her head as she searched in the mud for rice, Mr. Quack kept watch for possible danger. Then Mrs. Quack took her turn at keeping watch, while Mr. Quack stood on his head and hunted for rice.

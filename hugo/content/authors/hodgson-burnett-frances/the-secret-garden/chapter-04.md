@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Martha"
 weight: 4
-aliases:
-  - "/authors/hodgson-burnett-frances/the-secret-garden/chapter-04.html"
+url: "/authors/hodgson-burnett-frances/the-secret-garden/chapter-04.html"
 ---
 
 When she opened her eyes in the morning it was because a young housemaid had come into her room to light the fire and was kneeling on the hearth-rug raking out the cinders noisily. Mary lay and watched her for a few moments and then began to look about the room. She had never seen a room at all like it and thought it curious and gloomy. The walls were covered with tapestry with a forest scene embroidered on it. There were fantastically dressed people under the trees and in the distance there was a glimpse of the turrets of a castle. There were hunters and horses and dogs and ladies. Mary felt as if she were in the forest with them. Out of a deep window she could see a great climbing stretch of land which seemed to have no trees on it, and to look rather like an endless, dull, purplish sea.

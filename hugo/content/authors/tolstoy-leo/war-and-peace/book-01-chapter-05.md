@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 5"
 weight: 5
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-01-chapter-05.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-01-chapter-05.html"
 ---
 
 "And what do you think of this latest comedy, the coronation at Milan?" asked Anna Pavlovna, "and of the comedy of the people of Genoa and Lucca laying their petitions before Monsieur Buonaparte, and Monsieur Buonaparte sitting on a throne and granting the petitions of the nations? Adorable! It is enough to make one's head whirl! It is as if the whole world had gone crazy."

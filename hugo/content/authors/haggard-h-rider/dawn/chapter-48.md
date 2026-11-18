@@ -1,8 +1,7 @@
 ---
 title: "Chapter 48"
 weight: 49
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-48.html"
+url: "/authors/haggard-h-rider/dawn/chapter-48.html"
 ---
 
 Reader, have you ever, in the winter or early spring, come from a hothouse where you have admired some rich tropical bloom, and then, in walking by the hedgerows, suddenly seen a pure primrose opening its sweet eye, and looking bravely into bitter weather's face? If so, you will, if it is your habit to notice flowers, have experienced some such sensation as takes possession of my mind when I pass from the story of Mildred as she was then, storm-tossed and loving, to Angela, as loving indeed, and yet more anxious, but simple-minded as a child, and not doubtful for the end. They were both flowers indeed, and both beautiful, but between them there was a wide difference. The one, in the richness of her splendour, gazed upon the close place where she queened it, and was satisfied with the beauty round her, or, if not satisfied, she could imagine none different. The limits of that little spot formed the horizon of her mind--she knew no world beyond. The other, full of possibilities, shed sweetness even on the blast which cut her, and looked up for shelter towards the blue sky she knew endured eternally above the driving clouds.

@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 9"
 weight: 24
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-02-chapter-09.html"
+url: "/authors/london-jack/valley-of-the-moon/book-02-chapter-09.html"
 ---
 
 It began quietly, as the fateful unexpected so often begins. Children, of all ages and sizes, were playing in the street, and Saxon, by the open front window, was watching them and dreaming day dreams of her child soon to be. The sunshine mellowed peacefully down, and a light wind from the bay cooled the air and gave to it a tang of salt. One of the children pointed up Pine Street toward Seventh. All the children ceased playing, and stared and pointed. They formed into groups, the larger boys, of from ten to twelve, by themselves, the older girls anxiously clutching the small children by the hands or gathering them into their arms.

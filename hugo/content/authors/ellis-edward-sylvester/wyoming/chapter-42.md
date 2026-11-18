@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42"
 weight: 42
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-42.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-42.html"
 ---
 
 It is idle to attempt to picture the feelings of Jake Golcher, when he learned from Mr. Brainerd, one of the captives, that Fred Godfrey had escaped but a few minutes before.

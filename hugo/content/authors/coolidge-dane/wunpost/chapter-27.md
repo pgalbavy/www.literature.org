@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - A Come-Back"
 weight: 27
-aliases:
-  - "/authors/coolidge-dane/wunpost/chapter-27.html"
+url: "/authors/coolidge-dane/wunpost/chapter-27.html"
 ---
 
 It takes an iron nerve to come back for more punishment right after a solar plexus blow, but Judson Eells had that kind. Phillip F. Lapham went to pieces and began to beg, but Eells reached out for the papers.

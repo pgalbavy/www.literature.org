@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 31
-aliases:
-  - "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-30.html"
+url: "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-30.html"
 ---
 
 AS the earliest suspicion of dawn appeared on Sunday morning, Huck came groping up the hill and rapped gently at the old Welshman's door. The inmates were asleep, but it was a sleep that was set on a hair-trigger, on account of the exciting episode of the night. A call came from a window:

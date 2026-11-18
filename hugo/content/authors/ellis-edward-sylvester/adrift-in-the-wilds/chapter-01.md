@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Ho, For California"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-01.html"
 ---
 
 One beautiful misummer night in 18— a large, heavily laden steamer was making her way swiftly up the Pacific coast, in the direction of San Francisco. She was opposite the California shore, only a day's sail distant from the City of the Golden Gate, and many of the passengers had already begun making preparations for landing, even though a whole night and the better part of a day was to intervene ere they could expect to set their feet upon solid land.

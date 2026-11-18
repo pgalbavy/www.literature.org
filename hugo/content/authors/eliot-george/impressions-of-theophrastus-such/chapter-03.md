@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - How We Encourage Research"
 weight: 3
-aliases:
-  - "/authors/eliot-george/impressions-of-theophrastus-such/chapter-03.html"
+url: "/authors/eliot-george/impressions-of-theophrastus-such/chapter-03.html"
 ---
 
 The serene and beneficent goddess Truth, like other deities whose disposition has been too hastily inferred from that of the men who have invoked them, can hardly be well pleased with much of the worship paid to her even in this milder age, when the stake and the rack have ceased to form part of her ritual. Some cruelties still pass for service done in her honour: no thumb-screw is used, no iron boot, no scorching of flesh; but plenty of controversial bruising, laceration, and even lifelong maiming. Less than formerly; but so long as this sort of truth-worship has the sanction of a public that can often understand nothing in a controversy except personal sarcasm or slanderous ridicule, it is likely to continue. The sufferings of its victims are often as little regarded as those of the sacrificial pig offered in old time, with what we now regard as a sad miscalculation of effects.

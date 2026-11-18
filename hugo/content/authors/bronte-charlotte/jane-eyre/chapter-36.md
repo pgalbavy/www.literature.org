@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 37
-aliases:
-  - "/authors/bronte-charlotte/jane-eyre/chapter-36.html"
+url: "/authors/bronte-charlotte/jane-eyre/chapter-36.html"
 ---
 
 The daylight came. I rose at dawn. I busied myself for an hour or two with arranging my things in my chamber, drawers, and wardrobe, in the order wherein I should wish to leave them during a brief absence. Meantime, I heard St. John quit his room. He stopped at my door: I feared he would knock--no, but a slip of paper was passed under the door. I took it up. It bore these words -

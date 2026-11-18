@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 7 - The Friendly Move Takes Up A Strong Position"
 weight: 40
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-03-chapter-07.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-03-chapter-07.html"
 ---
 
 The friendly movers sat upright on the floor, panting and eyeing one another, after Mr Boffin had slammed the gate and gone away. In the weak eyes of Venus, and in every reddish dust-coloured hair in his shock of hair, there was a marked distrust of Wegg and an alertness to fly at him on perceiving the smallest occasion. In the hard-grained face of Wegg, and in his stiff knotty figure (he looked like a German wooden toy), there was expressed a politic conciliation, which had no spontaneity in it. Both were flushed, flustered, and rumpled, by the late scuffle; and Wegg, in coming to the ground, had received a humming knock on the back of his devoted head, which caused him still to rub it with an air of having been highly--but disagreeably--astonished. Each was silent for some time, leaving it to the other to begin.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Nat Trumbull And His Men--Out In The Night"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/the-story-of-red-feather/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/the-story-of-red-feather/chapter-09.html"
 ---
 
 The American Indian rarely shows any emotion that may be stirring his heart. I am sure, however, that if one could have had a look at the face of Tall Bear when he made the discovery that neither the brother nor sister was in the cabin he would have seen a picture of as blank amazement as ever held a person speechless.

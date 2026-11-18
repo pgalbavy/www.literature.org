@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-28.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-28.html"
 ---
 
 Meanwhile, Fred Godfrey was making the most of his opportunities, and the grass did not grow under his feet.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 56"
 weight: 57
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-56.html"
+url: "/authors/haggard-h-rider/dawn/chapter-56.html"
 ---
 
 Arthur did not delay his departure from Madeira. The morning following Mildred's ball he embarked on board a Portuguese boat, a very dirty craft which smelt of garlic and rancid oil, and sailed for Lisbon. He arrived there safely, and mooned about that city for a while, himself a monument of serious reflections, and then struck across into Spain, where he spent a month or so inspecting the historical beauties of that fallen country. Thence he penetrated across the Pyrenees into Southern France, which was pleasant in the spring months. Here he remained another month, meeting with no adventures worthy of any note, and improving his knowledge of the French language. Tiring at last of this, he travelled to Paris, and went to the theatres, but found his own thoughts too absorbing to allow of his taking any keen interest in their sensationalisms; so, after a brief stay, he made his way up to Brittany and Normandy, and went in for inspecting old castles and cathedrals, and finally ended up his continental travels by spending a week on the island rock of Saint Michel.

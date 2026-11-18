@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - At The Inlet"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-18.html"
 ---
 
 It was not the thin, meek-looking woman who uttered these words of welcome. The tones were so thunderous that both the lads were startled, and they did not see the speaker, until they stepped across the threshold. He was an old man, one who must have been near eighty, who was sitting near the front window, smoking a corncob pipe. His face was weazened and wrinkled, his white hair thin and his shoulders stooping, but his little eyes twinkled kindly and he wore no glasses. He was in his shirt sleeves and his waistcoat hung loosely and unbuttoned down the front. His clean, coarse white shirt showed no necktie, but there was a pleasing neatness about his trousers and thick shoes.

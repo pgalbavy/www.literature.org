@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 33
-aliases:
-  - "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-32.html"
+url: "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-32.html"
 ---
 
 TUESDAY afternoon came, and waned to the twilight. The village of St. Petersburg still mourned. The lost children had not been found. Public prayers had been offered up for them, and many and many a private prayer that had the petitioner's whole heart in it; but still no good news came from the cave. The majority of the searchers had given up the quest and gone back to their daily avocations, saying that it was plain the children could never be found. Mrs. Thatcher was very ill, and a great part of the time delirious. People said it was heartbreaking to hear her call her child, and raise her head and listen a whole minute at a time, then lay it wearily down again with a moan. Aunt Polly had drooped into a settled melancholy, and her gray hair had grown almost white. The village went to its rest on Tuesday night, sad and forlorn.

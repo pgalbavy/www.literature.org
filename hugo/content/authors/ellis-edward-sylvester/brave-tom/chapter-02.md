@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/brave-tom/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/brave-tom/chapter-02.html"
 ---
 
 It was Tom Gordon's turn now to be frightened.

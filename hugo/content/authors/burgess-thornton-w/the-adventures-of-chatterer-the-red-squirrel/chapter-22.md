@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Tommy Tit Makes Good His Boast"
 weight: 22
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-22.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-22.html"
 ---
 
 "Dee, dee, dee, chickadee! See me! See me!" Tommy Tit the Chickadee kept saying this over and over, as he flew from the Green Forest up through the Old Orchard on his way to Farmer Brown's dooryard, and his voice was merry. In fact, his voice was the merriest, cheeriest sound to be heard that bright, snapping, cold morning. To be sure there were other voices, but they were not merry, nor were they cheery. There was the voice of Sammy Jay, but it sounded peevish and discontented. And there was the voice of Blacky the Crow, but it sounded harsh and unpleasant. And there was the voice of Chatterer the Red Squirrel, but Chatterer was scolding just from habit, and his voice was not pleasant to hear.

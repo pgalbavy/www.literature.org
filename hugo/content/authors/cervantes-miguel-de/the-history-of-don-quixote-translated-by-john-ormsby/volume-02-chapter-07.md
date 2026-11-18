@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 7 - Of What Passed Between Don Quixote And His Squire, Together With Other Very Notable Incidents"
 weight: 63
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-07.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-07.html"
 ---
 
 The instant the housekeeper saw Sancho Panza shut himself in with her master, she guessed what they were about; and suspecting that the result of the consultation would be a resolve to undertake a third sally, she seized her mantle, and in deep anxiety and distress, ran to find the bachelor Samson Carrasco, as she thought that, being a well-spoken man, and a new friend of her master’s, he might be able to persuade him to give up any such crazy notion. She found him pacing the patio of his house, and, perspiring and flurried, she fell at his feet the moment she saw him.

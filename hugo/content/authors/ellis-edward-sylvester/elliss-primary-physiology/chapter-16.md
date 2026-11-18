@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Sunstroke And Poisons"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-16.html"
 ---
 
 Don't be afraid of the sun. Its rays give life and vigor not only to men and animals, but to the vegetable world. A little tanning or browning of the skin is good for you. In summer when the rays are very strong, you should avoid them; but at other times, live in the sunlight all you can.

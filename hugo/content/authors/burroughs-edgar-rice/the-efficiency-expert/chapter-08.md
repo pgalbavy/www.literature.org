@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Bread From The Waters"
 weight: 8
-aliases:
-  - "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-08.html"
+url: "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-08.html"
 ---
 
 The next day, worn out from loss of sleep, the young man started out upon a last frenzied search for employment. He had no money for breakfast, and so he went breakfastless, and as he had no carfare it was necessary for him to walk the seemingly interminable miles from one prospective job to another. By the middle of the afternoon Jimmy was hungrier than he had ever been before in his life. He was so hungry that it actually hurt, and he was weak from physical fatigue and from disappointment and worry.

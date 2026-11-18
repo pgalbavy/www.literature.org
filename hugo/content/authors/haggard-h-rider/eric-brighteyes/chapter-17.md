@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - How Asmund The Priest Wedded Unna, Thorod’s Daughternow The Story Goes Back To Iceland"
 weight: 18
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-17.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-17.html"
 ---
 
 When Brighteyes was gone, for a while Gudruda the Fair moved sadly about the stead, like one new-widowed. Then came tidings. Men told how Ospakar Blacktooth had waylaid Eric on the seas with two long ships, dragons of war, and how Eric had given him battle and sunk one dragon with great loss to Ospakar. They told also how Blacktooth’s other dragon, the Raven, had sailed away before the wind, and Eric had sailed after it in a rising gale. But of what befell these ships no news came for many a month, and it was rumoured that this had befallen them--that both had sunk in the gale, and that Eric was dead.

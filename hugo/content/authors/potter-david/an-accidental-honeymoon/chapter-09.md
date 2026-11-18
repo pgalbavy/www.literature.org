@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/potter-david/an-accidental-honeymoon/chapter-09.html"
+url: "/authors/potter-david/an-accidental-honeymoon/chapter-09.html"
 ---
 
 Now and then the sloop yawed alarmingly as they ran before the wind.

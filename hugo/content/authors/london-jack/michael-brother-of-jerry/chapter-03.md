@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-03.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-03.html"
 ---
 
 In the meanwhile, Michael. Lifted through the air, exchanged into invisible hands that drew him through a narrow diameter of brass into a lighted room, Michael looked about him in expectancy of Jerry. But Jerry, at that moment, lay cuddled beside Villa Kennan's sleeping-cot on the slant deck of the Ariel, as that trim craft, the Shortlands astern and New Guinea dead ahead, heeled her scuppers a-whisper and garrulous to the sea-welter alongside as she logged her eleven knots under the press of the freshening trades. Instead of Jerry, from whom he had last parted on board a boat, Michael saw Kwaque.

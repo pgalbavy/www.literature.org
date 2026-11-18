@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - In Quest of a Solution"
 weight: 3
-aliases:
-  - "/authors/doyle-arthur-conan/the-sign-of-four/chapter-03.html"
+url: "/authors/doyle-arthur-conan/the-sign-of-four/chapter-03.html"
 ---
 
 It was half-past five before Holmes returned. He was bright, eager, and in excellent spirits, a mood which in his case alter- nated with fits of the blackest depression.

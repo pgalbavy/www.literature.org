@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Irresistible"
 weight: 2
-aliases:
-  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-02.html"
+url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-02.html"
 ---
 
 Betty had to run all the way home, and then she was late for dinner. Her step-father's dry face and dusty clothes, the solid comfort of the mahogany furnished dining room, the warm wet scent of mutton, - these seemed needed to wake her from what was, when she had awakened, a dream - the open sky, the sweet air of the May fields and Him. Already the stranger was Him to Betty. But, then, she did not know his name.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/tarkington-booth/harlequin-and-columbine/chapter-11.html"
+url: "/authors/tarkington-booth/harlequin-and-columbine/chapter-11.html"
 ---
 
 Carson Tinker was in the elevator at the Pantheon, and the operator was closing the door thereof, about to ascend, but delayed upon a sound of running footsteps and a call of "Up!" Stewart Canby plunged into the cage; his hat, clutched in his hand, disclosing emphatically that he had been at his hair again.

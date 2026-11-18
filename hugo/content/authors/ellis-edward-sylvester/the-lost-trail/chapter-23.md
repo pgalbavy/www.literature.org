@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - An Aboriginal Home"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-23.html"
 ---
 
 The terrifying walk of Otto Relstaub ended sooner and more agreeably than he anticipated. He had in fact gone but a short ways when he became aware that the Osage had a definite destination before him. A light flashed out from the gloom in front, vanishing before the boy could locate it. A few steps further and it reappeared, again dropping from sight.

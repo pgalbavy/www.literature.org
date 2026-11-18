@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Doing His Bit"
 weight: 25
-aliases:
-  - "/authors/baily-waldron/when-the-cock-crows/chapter-25.html"
+url: "/authors/baily-waldron/when-the-cock-crows/chapter-25.html"
 ---
 
 Ichabod saw Ethel come out on the porch and take a seat at the far end. He somewhat hastily released Sarah from his arms, with the explanation that he ought to leave her free to make her preparations for the wedding. The spinster, blushing with happiness and excitement, hurried to busy herself with making ready for her new state of full womanhood. Just as Roy reached Ethel's side, Ichabod joined the two with the glad tidings of his sweetheart's acceptance of the "pre-nuptals." The fisherman's apprehensions concerning too much publicity for the wedding ceremony led him rather shyly to suggest that it should take place on board The Hialdo, away from the prying eyes of the townsfolk. He explained that he didn't know which would be worse--the small boys, or the older devils, or the cacklin' hens.

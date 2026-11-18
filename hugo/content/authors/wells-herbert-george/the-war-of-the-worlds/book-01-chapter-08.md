@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 8 - Friday Night"
 weight: 8
-aliases:
-  - "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-08.html"
+url: "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-08.html"
 ---
 
 The most extraordinary thing to my mind, of all the strange and wonderful things that happened upon that Friday, was the dovetailing of the commonplace habits of our social order with the first beginnings of the series of events that was to topple that social order headlong. If on Friday night you had taken a pair of compasses and drawn a circle with a radius of five miles round the Woking sand pits, I doubt if you would have had one human being outside it, unless it were some relation of Stent or of the three or four cyclists or London people lying dead on the common, whose emotions or habits were at all affected by the new-comers. Many people had heard of the cylinder, of course, and talked about it in their leisure, but it certainly did not make the sensation that an ultimatum to Germany would have done.

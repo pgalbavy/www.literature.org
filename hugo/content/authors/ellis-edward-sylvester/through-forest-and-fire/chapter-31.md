@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - The \"Dark Day\" Of September, 1881"
 weight: 31
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-31.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-31.html"
 ---
 
 The summer during which Nicholas Ribsam attained the age of twelve years was viewed with dismal forebodings by many people, for the reason that a celebrated weather prophet had foretold that it would be unusually rainy, cold, and wet.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-08.html"
+url: "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-08.html"
 ---
 
 Tip was so anxious to rejoin his man Jack and the Saw-Horse that he walked a full half the distance to the Emerald City without stopping to rest. Then he discovered that he was hungry and the crackers and cheese he had provided for the Journey had all been eaten.

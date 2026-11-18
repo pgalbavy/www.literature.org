@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Hooja's Cutthroats Appear"
 weight: 9
-aliases:
-  - "/authors/burroughs-edgar-rice/pellucidar/chapter-09.html"
+url: "/authors/burroughs-edgar-rice/pellucidar/chapter-09.html"
 ---
 
 I had built a little shelter of rocks and brush where I might crawl in and sleep out of the perpetual light and heat of the noonday sun. When I was tired or hungry I retired to my humble cot.

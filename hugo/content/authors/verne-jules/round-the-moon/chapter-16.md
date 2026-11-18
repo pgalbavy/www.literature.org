@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/verne-jules/round-the-moon/chapter-16.html"
+url: "/authors/verne-jules/round-the-moon/chapter-16.html"
 ---
 
 The projectile had just escaped a terrible danger, and a very unforseen one. Who would have thought of such an encounter with meteors? These erring bodies might create serious perils for the travelers. They were to them so many sandbanks upon that sea of ether which, less fortunate than sailors, they could not escape. But did these adventurers complain of space? No, not since nature had given them the splendid sight of a cosmical meteor bursting from expansion, since this inimitable firework, which no Ruggieri could imitate, had lit up for some seconds the invisible glory of the moon. In that flash, continents, seas, and forests had become visible to them. Did an atmosphere, then, bring to this unknown face its life-giving atoms? Questions still insoluble, and forever closed against human curiousity!

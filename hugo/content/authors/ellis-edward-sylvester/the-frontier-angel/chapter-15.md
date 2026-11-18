@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - \"All's Well That Ends Well.\""
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/the-frontier-angel/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/the-frontier-angel/chapter-15.html"
 ---
 
 AS the death-rattle was heard in McGable's throat, Mansfield felt his head fall back upon his arm. He looked down and saw that all was over. Laying his head gently back upon the leaves, he straightened his limbs, and arose and looked around for his companions. Peterson and Jenkins approached.

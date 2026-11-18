@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Devil's Post-Office"
 weight: 8
-aliases:
-  - "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-08.html"
+url: "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-08.html"
 ---
 
 Of all these events the public knew only of the attempted suicide of Mme. Fauville, the capture and escape of Gaston Sauverand, the murder of Chief Inspector Ancenis, and the discovery of a letter written by Hippolyte Fauville. This was enough, however, to reawaken their curiosity, as they were already singularly puzzled by the Mornington case and took the greatest interest in all the movements, however slight, of the mysterious Don Luis Perenna, whom they insisted on confusing with Arsène Lupin.

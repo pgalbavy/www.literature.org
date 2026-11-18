@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 7 - The Typhoon"
 weight: 7
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-07.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-07.html"
 ---
 
 THE storm that struck the Halfmoon took her entirely unaware. It had sprung, apparently, out of a perfectly clear sky. Both the lookout and the man at the wheel were ready to take oath that they had scanned the horizon not a half-minute before Second Mate Theriere had come racing forward bellowing for all hands on deck and ordering a sailor below to report the menacing conditions to Captain Simms.

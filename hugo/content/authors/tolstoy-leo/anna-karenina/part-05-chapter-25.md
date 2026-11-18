@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 25"
 weight: 149
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-25.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-25.html"
 ---
 
 When Alexey Alexandrovitch came into the Countess Lidia Ivanovna's snug little boudoir, decorated with old china and hung with portraits, the lady herself had not yet made her appearance. She was changing her dress.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/potter-david/an-accidental-honeymoon/chapter-04.html"
+url: "/authors/potter-david/an-accidental-honeymoon/chapter-04.html"
 ---
 
 For a moment Fessenden could only stare. Then he gave a long whistle.

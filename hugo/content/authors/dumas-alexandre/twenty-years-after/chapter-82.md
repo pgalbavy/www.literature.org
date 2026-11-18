@@ -1,8 +1,7 @@
 ---
 title: "Chapter 82 - Precaution's"
 weight: 82
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-82.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-82.html"
 ---
 
 After quitting Anne, Mazarin took the road to Rueil, where he usually resided; in those times of disturbance he went about with numerous followers and often disguised himself. In military dress he was, indeed, as we have stated, a very handsome man.

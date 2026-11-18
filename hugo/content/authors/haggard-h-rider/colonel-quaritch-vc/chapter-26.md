@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Belle Pays A Visit"
 weight: 26
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-26.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-26.html"
 ---
 
 Mr. Quest got into his dog-cart and drove homewards, full of feelings which it would be difficult to describe.

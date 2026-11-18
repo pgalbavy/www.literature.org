@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 34
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-34.html"
+url: "/authors/austen-jane/mansfield-park/chapter-34.html"
 ---
 
 Edmund had great things to hear on his return. Many surprises were awaiting him. The first that occurred was not least in interest: the appearance of Henry Crawford and his sister walking together through the village as he rode into it. He had concluded--he had meant them to be far distant. His absence had been extended beyond a fortnight purposely to avoid Miss Crawford. He was returning to Mansfield with spirits ready to feed on melancholy remembrances, and tender associations, when her own fair self was before him, leaning on her brother's arm, and he found himself receiving a welcome, unquestionably friendly, from the woman whom, two moments before, he had been thinking of as seventy miles off, and as farther, much farther, from him in inclination than any distance could express.

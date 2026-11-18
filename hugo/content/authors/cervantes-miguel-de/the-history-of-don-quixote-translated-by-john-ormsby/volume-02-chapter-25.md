@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 25 - Wherein Is Set Down The Braying Adventure, And The Droll One Of The Puppet-Showman, Together With The Memorable Divinations Of The Divining Ape"
 weight: 81
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-25.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-25.html"
 ---
 
 Don Quixote’s bread would not bake, as the common saying is, until he had heard and learned the curious things promised by the man who carried the arms. He went to seek him where the innkeeper said he was and having found him, bade him say now at any rate what he had to say in answer to the question he had asked him on the road. "The tale of my wonders must be taken more leisurely and not standing," said the man; "let me finish foddering my beast, good sir; and then I’ll tell you things that will astonish you."

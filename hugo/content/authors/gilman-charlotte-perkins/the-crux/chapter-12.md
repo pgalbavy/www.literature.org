@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Achievements"
 weight: 13
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-crux/chapter-12.html"
+url: "/authors/gilman-charlotte-perkins/the-crux/chapter-12.html"
 ---
 
 Upon all this Grandma Pettigrew cast an observant eye, and meditated sagely thereupon. Coming to a decision, she first took a course of reading in some of Dr. Bellair's big books, and then developed a series of perplexing symptoms, not of a too poignant or perilous nature, that took her to Dr. Hale's office frequently.

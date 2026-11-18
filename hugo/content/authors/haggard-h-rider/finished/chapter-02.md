@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Mr. Marnham"
 weight: 3
-aliases:
-  - "/authors/haggard-h-rider/finished/chapter-02.html"
+url: "/authors/haggard-h-rider/finished/chapter-02.html"
 ---
 
 So much for preliminaries, now for the story.

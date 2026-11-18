@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 5"
 weight: 33
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-04-chapter-05.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-04-chapter-05.html"
 ---
 
 The author at his master’s command, informs him of the state of England. The causes of war among the princes of Europe. The author begins to explain the English constitution.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 50 - The Primeval Thing"
 weight: 50
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-50.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-50.html"
 ---
 
 When Mr. Vanderpoel landed in England his wife was with him. This quiet-faced woman, who was known to be on her way to join her daughter in England, was much discussed, envied, and glanced at, when she promenaded the deck with her husband, or sat in her chair softly wrapped in wonderful furs. Gradually, during the past months, she had been told certain modified truths connected with her elder daughter's marriage. They had been painful truths, but had been so softened and expurgated of their worst features that it had been possible to bear them, when one realised that they did not, at least, mean that Rosy had forgotten or ceased to love her mother and father, or wish to visit her home. The steady clearness of foresight and readiness of resource which were often spoken of as being specially characteristic of Reuben S. Vanderpoel, were all required, and employed with great tenderness, in the management of this situation. As little as it was possible that his wife should know, was the utmost she must hear and be hurt by. Unless ensuing events compelled further revelations, the rest of it should be kept from her. As further protection, her husband had frankly asked her to content herself with a degree of limited information.

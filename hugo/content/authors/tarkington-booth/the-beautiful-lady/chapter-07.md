@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/tarkington-booth/the-beautiful-lady/chapter-07.html"
+url: "/authors/tarkington-booth/the-beautiful-lady/chapter-07.html"
 ---
 
 That Naples of mine is like a soiled coronet of white gems, sparkling only from far away. But I love it altogether, near or far, and my heart would have leaped to return to it for its own sake, but to come to it as we did, knowing that the only lady in the world was there.... Again, this is one of those things I possess no knowledge how to tell, and that those who know do know. How I had longed for the time to come, how I had feared it, how I had made pictures of it!

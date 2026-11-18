@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 32
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-32.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-32.html"
 ---
 
 The Reverend John Baird and his friend the Reverend Lucien Latimer were lodged in a quiet house in a quiet street. The lecturing tour had been fatiguing, and Baird was glad of such repose as he could secure. In truth, the excitement and strain of his work, the journeying from place to place, the hospitalities from which he could not escape, had worn upon him. He had grown thinner, and often did not sleep well at night. He used to find himself lying awake repeating to himself mechanically words from his own lecture. "Repentance is too late," his voice would whisper to the darkness. "Repentance cannot undo."

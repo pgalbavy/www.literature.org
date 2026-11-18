@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-12.html"
+url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-12.html"
 ---
 
 But though she had made no protest on being taken out of the drawing-room, Robin had known that what Andrews' soft-sounding whisper had promised would take place when she reached the Nursery. She was too young to feel more than terror which had no defense whatever. She had no more defense against Andrews than she had had against the man who had robbed her of Donal. They were both big and powerful, and she was nothing. But, out of the wonders she had begun to know, there had risen in her before almost inert little being a certain stirring. For a brief period she had learned happiness and love and woe, and, this evening, inchoate rebellion against an enemy. Andrews led by the hand up the narrow, top-story staircase something she had never led before. She was quite unaware of this and, as she mounted each step, her temper mounted also, and it was the temper of an incensed personal vanity abnormally strong in this particular woman. When they were inside the Nursery and the door was shut, she led Robin to the middle of the small and gloomy room and released her hand.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - General Ideas And Thought"
 weight: 12
-aliases:
-  - "/authors/russell-bertrand/the-analysis-of-mind/chapter-11.html"
+url: "/authors/russell-bertrand/the-analysis-of-mind/chapter-11.html"
 ---
 
 It is said to be one of the merits of the human mind that it is capable of framing abstract ideas, and of conducting nonsensational thought. In this it is supposed to differ from the mind of animals. From Plato onward the "idea" has played a great part in the systems of idealizing philosophers. The "idea" has been, in their hands, always something noble and abstract, the apprehension and use of which by man confers upon him a quite special dignity.

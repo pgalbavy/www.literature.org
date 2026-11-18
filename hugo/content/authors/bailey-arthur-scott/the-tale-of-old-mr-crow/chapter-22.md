@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Test"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-22.html"
 ---
 
 Well, it was no wonder that Mr. Crow was surprised when he found that some people wanted to put him out of the meeting just because he had said one word. Had he not always talked more than anybody else at those sunset meetings in the pine woods?

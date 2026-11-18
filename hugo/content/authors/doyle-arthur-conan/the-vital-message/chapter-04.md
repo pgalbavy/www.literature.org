@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Coming World"
 weight: 4
-aliases:
-  - "/authors/doyle-arthur-conan/the-vital-message/chapter-04.html"
+url: "/authors/doyle-arthur-conan/the-vital-message/chapter-04.html"
 ---
 
 We come first to the messages which tell us of the life beyond the grave, sent by those who are actually living it. I have already insisted upon the fact that they have three weighty claims to our belief. The one is, that they are accompanied by "signs," in the Biblical sense, in the shape of "miracles" or phenomena. The second is, that in many cases they are accompanied by assertions about this life of ours which prove to be correct, and which are beyond the possible knowledge of the medium after every deduction has been made for telepathy or for unconscious memory. The third is, that they have a remarkable, though not a complete, similarity from whatever source they come.

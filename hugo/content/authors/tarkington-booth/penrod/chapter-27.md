@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Conclusion Of The Quiet Afternoon"
 weight: 27
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-27.html"
+url: "/authors/tarkington-booth/penrod/chapter-27.html"
 ---
 
 It was during the discussion of the details of this enterprise that Georgie's mother, a short distance down the street, received a few female callers, who came by appointment to drink a glass of iced tea with her, and to meet the Rev. Mr. Kinosling. Mr. Kinosling was proving almost formidably interesting to the women and girls of his own and other flocks. What favour of his fellow clergymen a slight precociousness of manner and pronunciation cost him was more than balanced by the visible ecstasies of ladies. They blossomed at his touch.

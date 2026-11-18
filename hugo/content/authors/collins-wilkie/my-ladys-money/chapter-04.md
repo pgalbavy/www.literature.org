@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/collins-wilkie/my-ladys-money/chapter-04.html"
+url: "/authors/collins-wilkie/my-ladys-money/chapter-04.html"
 ---
 
 LEFT alone in the drawing-room, Moody looked at the unfastened envelope on the table.

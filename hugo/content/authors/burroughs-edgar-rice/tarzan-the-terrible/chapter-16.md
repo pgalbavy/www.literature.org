@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Secret Way"
 weight: 16
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-16.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-16.html"
 ---
 
 It was a baffled GRYF that bellowed in angry rage as Tarzan's sleek brown body cutting the moonlit waters shot through the aperture in the wall of the GRYF pool and out into the lake beyond. The ape-man smiled as he thought of the comparative ease with which he had defeated the purpose of the high priest but his face clouded again at the ensuing remembrance of the grave danger that threatened his mate. His sole object now must be to return as quickly as he might to the chamber where he had last seen her on the third floor of the Temple of the Gryf, but how he was to find his way again into the temple grounds was a question not easy of solution.

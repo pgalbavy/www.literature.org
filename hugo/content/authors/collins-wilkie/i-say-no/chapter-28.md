@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Francine"
 weight: 28
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-28.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-28.html"
 ---
 
 "You're surprised to see me, of course?" Saluting Emily in those terms, Francine looked round the parlor with an air of satirical curiosity. "Dear me, what a little place to live in!"

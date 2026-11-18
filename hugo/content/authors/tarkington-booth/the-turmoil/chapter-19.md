@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-19.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-19.html"
 ---
 
 He emerged only upon a second summons to dinner, two hours later, and came to the table so white and silent that his wife made her anxiety manifest and was but partially reassured by his explanation that his lunch had "disagreed" with him a little.

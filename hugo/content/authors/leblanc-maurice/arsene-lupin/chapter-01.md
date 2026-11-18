@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Millionaire's Daughter"
 weight: 1
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin/chapter-01.html"
+url: "/authors/leblanc-maurice/arsene-lupin/chapter-01.html"
 ---
 
 The rays of the September sun flooded the great halls of the old chateau of the Dukes of Charmerace, lighting up with their mellow glow the spoils of so many ages and many lands, jumbled together with the execrable taste which so often afflicts those whose only standard of value is money. The golden light warmed the panelled walls and old furniture to a dull lustre, and gave back to the fading gilt of the First Empire chairs and couches something of its old brightness. It illumined the long line of pictures on the walls, pictures of dead and gone Charmeraces, the stern or debonair faces of the men, soldiers, statesmen, dandies, the gentle or imperious faces of beautiful women. It flashed back from armour of brightly polished steel, and drew dull gleams from armour of bronze. The hues of rare porcelain, of the rich inlays of Oriental or Renaissance cabinets, mingled with the hues of the pictures, the tapestry, the Persian rugs about the polished floor to fill the hall with a rich glow of colour.

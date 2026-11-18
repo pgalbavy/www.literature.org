@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Concerning Farewells And Warnings"
 weight: 13
-aliases:
-  - "/authors/buck-charles-neville/the-lighted-match/chapter-13.html"
+url: "/authors/buck-charles-neville/the-lighted-match/chapter-13.html"
 ---
 
 "To-morrow!" repeated the girl with a shudder.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - A Common Brawl"
 weight: 19
-aliases:
-  - "/authors/coolidge-dane/bat-wing-bowles/chapter-19.html"
+url: "/authors/coolidge-dane/bat-wing-bowles/chapter-19.html"
 ---
 
 There is a madness which comes to certain people at certain times and makes them forget the whole world. In such a moment Bowles had stolen a kiss--for the first time in his life--and Dixie Lee had forgiven him. He had stolen it quickly, and she had forgiven him quickly, and then they had ridden on together without daring so much as a glance. That kiss had meant a great deal to both of them, and they needed time to think. So they rode down to the hold-up herd in silence and parted without a word.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 17
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-16.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-16.html"
 ---
 
 Two days later, as the steamer Mariposa plied her customary route between Tahiti and San Francisco, the passengers ceased playing deck quoits, abandoned their card games in the smoker, their novels and deck chairs, and crowded the rail to stare at the small boat that skimmed to them across the sea before a light following breeze. When Big John, aided by Ah Moy and Kwaque, lowered the sail and unstepped the mast, titters and laughter arose from the passengers. It was contrary to all their preconceptions of mid- ocean rescue of ship-wrecked mariners from the open boat.

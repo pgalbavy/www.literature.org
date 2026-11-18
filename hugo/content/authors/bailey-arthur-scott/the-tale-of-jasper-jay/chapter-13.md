@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Teasing A Singer"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-13.html"
 ---
 
 THOUGH there were many feathered folk in Pleasant Valley, Jasper Jay did not care to have much to do with any except his own family. Unless he had other business that was more urgent he was always ready to join a troop of noisy blue jays bent on some mischief. But if there were none of his own kind about, Jasper usually preferred to be alone.

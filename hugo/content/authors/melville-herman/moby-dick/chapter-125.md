@@ -1,8 +1,7 @@
 ---
 title: "Chapter 125 - The Log and Line"
 weight: 125
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-125.html"
+url: "/authors/melville-herman/moby-dick/chapter-125.html"
 ---
 
 While now the fated Pequod had been so long afloat this voyage, the log and line had but very seldom been in use. Owing to a confident reliance upon other means of determining the vessel's place, some merchantmen, and many whalemen, especially when cruising, wholly neglect to heave the log; though at the same time, and frequently more for form's sake than anything else, regularly putting down upon the customary slate the course steered by the ship, as well as the presumed average rate of progression every hour. It had been thus with the Pequod. The wooden reel and angular log attached hung, long untouched, just beneath the railing of the after bulwarks. Rains and spray had damped it; the sun and wind had warped it; all the elements had combined to rot a thing that hung so idly. But heedless of all this, his mood seized Ahab, as he happened to glance upon the reel, not many hours after the magnet scene, and he remembered how his quadrant was no more, and recalled his frantic oath about the level log and line. The ship was sailing plungingly; astern the billows rolled in riots.

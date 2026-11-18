@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Sandy's Tale"
 weight: 16
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-15.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-15.html"
 ---
 
 AND so I'm proprietor of some knights," said I, as we rode off. "Who would ever have supposed that I should live to list up assets of that sort. I shan't know what to do with them; unless I raffle them off. How many of them are there, Sandy?"

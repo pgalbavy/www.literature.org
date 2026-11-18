@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Breakers"
 weight: 12
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-11.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-11.html"
 ---
 
 The east dining-room was almost empty now, though the lobby and the café beyond still swarmed with people arriving and departing. Brandes, chafing at the telephone, had finally succeeded in getting Stull on the wire, only to learn that the news from Saratoga was not agreeable; that they had lost on every horse. Also, Stull had another disquieting item to detail; it seemed that Maxy Venem had been seen that morning in the act of departing for New York on the fast express; and with him was a woman resembling Brandes' wife.

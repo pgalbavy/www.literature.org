@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - \"Good-By!\""
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-23.html"
 ---
 
 The Comanche must have been disgusted. He had been trying for some time to steal the mustang of Avon Burnet, with the result that the pony was about to steal him, unless he prevented it offhand.

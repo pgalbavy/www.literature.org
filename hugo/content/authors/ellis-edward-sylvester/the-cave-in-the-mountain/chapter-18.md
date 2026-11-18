@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - An Old Acquaintance"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-18.html"
 ---
 
 All this was grist for Mickey and Fred. The long silence and inaction—so far as these two were concerned—of the Apaches convinced the fugitives that some important interruption was going on, and that it could not fail to operate in the most direct way in their favor. It was well into the afternoon when the collision occurred between them and the Apaches, and enough time had already passed to bring the night quite close at hand. An hour or so more, and darkness would be upon them.

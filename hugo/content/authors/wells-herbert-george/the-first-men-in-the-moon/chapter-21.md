@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Mr. Bedford At Littlestone"
 weight: 21
-aliases:
-  - "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-21.html"
+url: "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-21.html"
 ---
 
 My line of flight was about parallel with the surface as I came into the upper air. The temperature of sphere began to rise forthwith. I knew it behoved me to drop at once. Far below me, in a darkling twilight, stretched a great expanse of sea. I opened every window I could, and fell - out of sunshine into evening, and out of evening into night. Vaster grew the earth and vaster, swallowing up the stars, and the silvery translucent starlit veil of cloud it wore spread out to catch me. At last the world seemed no longer a sphere but flat, and then concave. It was no longer a planet in the sky, but the world of Man. I shut all but an inch or so of earthward window, and dropped with a slackening velocity. The broadening water, now so near that I could see the dark glitter of the waves, rushed up to meet me. The sphere became very hot. I snapped the last strip of window, and sat scowling and biting my knuckles, waiting for the impact. ...

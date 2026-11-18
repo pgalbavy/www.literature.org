@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - \"The Son Of Stefan Loristan\""
 weight: 31
-aliases:
-  - "/authors/hodgson-burnett-frances/the-lost-prince/chapter-31.html"
+url: "/authors/hodgson-burnett-frances/the-lost-prince/chapter-31.html"
 ---
 
 When a party composed of two boys attended by a big soldierly man-servant and accompanied by two distinguished-looking, elderly men, of a marked foreign type, appeared on the platform of Charing Cross Station they attracted a good deal of attention. In fact, the good looks and strong, well-carried body of the handsome lad with the thick black hair would have caused eyes to turn towards him even if he had not seemed to be regarded as so special a charge by those who were with him. But in a country where people are accustomed to seeing a certain manner and certain forms observed in the case of persons--however young--who are set apart by the fortune of rank and distinction, and where the populace also rather enjoys the sight of such demeanor, it was inevitable that more than one quick-sighted looker-on should comment on the fact that this was not an ordinary group of individuals.

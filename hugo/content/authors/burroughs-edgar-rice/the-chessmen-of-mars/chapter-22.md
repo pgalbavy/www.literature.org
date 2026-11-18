@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 23
-aliases:
-  - "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-22.html"
+url: "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-22.html"
 ---
 
 THE silence of the tomb lay heavy about him as O-Tar, Jeddak of Manator, opened his eyes in the chamber of O-Mai. Recollection of the frightful apparition that had confronted him swept to his consciousness. He listened, but heard naught. Within the range of his vision there was nothing apparent that might cause alarm. Slowly he lifted his head and looked about. Upon the floor beside the couch lay the thing that had at first attracted his attention and his eyes closed in terror as he recognized it for what it was; but it moved not, nor spoke. O-Tar opened his eyes again and rose to his feet. He was trembling in every limb. There was nothing on the dais from which he had seen the thing arise.

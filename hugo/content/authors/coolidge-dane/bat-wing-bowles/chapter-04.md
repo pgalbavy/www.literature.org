@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Brigham"
 weight: 4
-aliases:
-  - "/authors/coolidge-dane/bat-wing-bowles/chapter-04.html"
+url: "/authors/coolidge-dane/bat-wing-bowles/chapter-04.html"
 ---
 
 If his strategic victory over Henry Lee had given Bowles, the pseudo cowboy, any swelled-up ideas about taking the Bat Wing outfit by storm, he was promptly undeceived when he went up against Gloomy Gus, the cook. Gus had set the sour dough for men old enough to be Mr. Bowles' grandfather; men who were, so he averred, the superiors of any punchers now living and conspicuously prompt at their meals. In striking contrast to these great souls, Bowles had lingered entirely too long up at the big house; and when, after tying up his horse and feeding him some of Mr. Lee's long-treasured hay, he came dragging up to the chuck-wagon, the hour of grace had passed. Gloomy Gus was reclining beside his fire in converse with a red-headed cowboy, and neither of them looked up.

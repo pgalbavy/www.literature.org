@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-19.html"
+url: "/authors/austen-jane/mansfield-park/chapter-19.html"
 ---
 
 How is the consternation of the party to be described? To the greater number it was a moment of absolute horror. Sir Thomas in the house! All felt the instantaneous conviction. Not a hope of imposition or mistake was harboured anywhere. Julia's looks were an evidence of the fact that made it indisputable; and after the first starts and exclamations, not a word was spoken for half a minute: each with an altered countenance was looking at some other, and almost each was feeling it a stroke the most unwelcome, most ill-timed, most appalling! Mr. Yates might consider it only as a vexatious interruption for the evening, and Mr. Rushworth might imagine it a blessing; but every other heart was sinking under some degree of self-condemnation or undefined alarm, every other heart was suggesting, “What will become of us? what is to be done now?” It was a terrible pause; and terrible to every ear were the corroborating sounds of opening doors and passing footsteps.

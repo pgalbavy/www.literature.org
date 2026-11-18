@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - A Tantalizing Revelation"
 weight: 25
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-24.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-24.html"
 ---
 
 "I shall have something to tell you in the orchard this evening," said the Story Girl at breakfast one morning. Her eyes were very bright and excited. She looked as if she had not slept a great deal. She had spent the previous evening with Miss Reade and had not returned until the rest of us were in bed. Miss Reade had finished giving music lessons and was going home in a few days. Cecily and Felicity were in despair over this and mourned as those without comfort. But the Story Girl, who had been even more devoted to Miss Reade than either of them, had not, as I noticed, expressed any regret and seemed to be very cheerful over the whole matter.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/tarkington-booth/the-guest-of-quesnay/chapter-07.html"
+url: "/authors/tarkington-booth/the-guest-of-quesnay/chapter-07.html"
 ---
 
 The cat that fell from the top of the Washington monument, and scampered off unhurt was killed by a dog at the next corner. Thus a certain painter-man, winged with canvases and easel, might have been seen to depart hurriedly from a poppy-sprinkled field, an infuriated Norman stallion in close attendance, and to fly safely over a stone wall of good height, only to turn his ankle upon an unconsidered pebble, some ten paces farther on; the nose of the stallion projected over the wall, snorting joy thereat. The ankle was one which had turned aforetime; it was an old weakness: moreover, it was mine. I was the painter-man.

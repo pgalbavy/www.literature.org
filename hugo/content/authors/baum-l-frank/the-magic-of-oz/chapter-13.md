@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 14
-aliases:
-  - "/authors/baum-l-frank/the-magic-of-oz/chapter-13.html"
+url: "/authors/baum-l-frank/the-magic-of-oz/chapter-13.html"
 ---
 
 Kiki Aru, in the form of the Li-Mon-Eag, had scrambled into the high, thick branches of the tree, so no one could see him, and there he opened the Wizard's black bag, which he had carried away in his flight. He was curious to see what the Wizard's magic tools looked like, and hoped he could use some of them and so secure more power; but after he had taken the articles, one by one, from the bag, he had to admit they were puzzles to him. For, unless he understood their uses, they were of no value whatever. Kiki Aru, the Hyup boy, was no wizard or magician at all, and could do nothing unusual except to use the Magic Word he had stolen from his father on Mount Munch. So he hung the Wizard's black bag on a branch of the tree and then climbed down to the lower limbs that he might see what the victims of his transformations were doing.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 63"
 weight: 63
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-63.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-63.html"
 ---
 
 "Moses, trotz seiner Bafeindung der Kunst, dennoch selber ein grosser Künstler war und den wahren Künstlergeist besass. Nur war dieser Künstlergeist bei ihm, wie bei seinen ägyptischen Landsleuteu, nurauf das Colossale und Unverwustliche gerichtet. Aber nicht vie die Aegypter formirte er seine Kunstwerke aus Backstem und Granit, sondern er baute Menchen-pyramiden, er meisselte Menschen Obelisken, ernahm einen armen Hirtenstamm und Schuf daraus ein Volk, das ebenfalls den Jahrhahunderten, trotzen sollte * er Schuf Israel." - HEINE: Gestandnisse.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 1 - The Brown Family"
 weight: 1
-aliases:
-  - "/authors/hughes-thomas/tom-browns-schooldays/part-01-chapter-01.html"
+url: "/authors/hughes-thomas/tom-browns-schooldays/part-01-chapter-01.html"
 ---
 
 "I'm the Poet of White Horse Vale, sir,  

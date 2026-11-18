@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Central And South America"
 weight: 8
-aliases:
-  - "/authors/davis-richard-harding/adventures-and-letters/chapter-08.html"
+url: "/authors/davis-richard-harding/adventures-and-letters/chapter-08.html"
 ---
 
 About January 1, 1895, Richard accompanied by his friends Somers Somerset and Lloyd C. Griscom, afterward our minister to Tokio and ambassador to Brazil and Italy, started out on a leisurely trip of South and Central America. With no very definite itinerary, they sailed from New Orleans, bent on having a good time, and as many adventures as possible, which Richard was to describe in a series of articles. These appeared later on in a volume entitled "Three Gringos in Venezuela."

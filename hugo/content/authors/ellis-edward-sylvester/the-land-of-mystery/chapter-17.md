@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The New Ally"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-17.html"
 ---
 
 The amazement which so nearly overwhelmed Fred Ashman during the few minutes succeeding the surrender of Ziffak, was shared in all its entirety, when the two presented themselves before the astounded explorers in the canoe.

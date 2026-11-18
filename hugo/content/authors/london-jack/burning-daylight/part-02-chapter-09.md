@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 9"
 weight: 22
-aliases:
-  - "/authors/london-jack/burning-daylight/part-02-chapter-09.html"
+url: "/authors/london-jack/burning-daylight/part-02-chapter-09.html"
 ---
 
 The time passed, and Daylight played on at the game. But the game had entered upon a new phase. The lust for power in the mere gambling and winning was metamorphosing into the lust for power in order to revenge. There were many men in San Francisco against whom he had registered black marks, and now and again, with one of his lightning strokes, he erased such a mark. He asked no quarter; he gave no quarter. Men feared and hated him, and no one loved him, except Larry Hegan, his lawyer, who would have laid down his life for him. But he was the only man with whom Daylight was really intimate, though he was on terms of friendliest camaraderie with the rough and unprincipled following of the bosses who ruled the Riverside Club.

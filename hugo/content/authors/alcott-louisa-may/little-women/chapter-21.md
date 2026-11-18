@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Laurie Makes Mischief, And Jo Makes Peace"
 weight: 21
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-21.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-21.html"
 ---
 
 Jo's face was a study next day, for the secret rather weighed upon her, and she found it hard not to look mysterious and important. Meg observed it, but did not trouble herself to make inquiries, for she had learned that the best way to manage Jo was by the law of contraries, so she felt sure of being told everything if she did not ask. She was rather surprised, therefore, when the silence remained unbroken, and Jo assumed a patronizing air, which decidedly aggravated Meg, who in turn assumed an air of dignified reserve and devoted herself to her mother. This left Jo to her own devices, for Mrs. March had taken her place as nurse, and bade her rest, exercise, and amuse herself after her long confinement. Amy being gone, Laurie was her only refuge, and much as she enjoyed his society, she rather dreaded him just then, for he was an incorrigible tease, and she feared he would coax the secret from her.

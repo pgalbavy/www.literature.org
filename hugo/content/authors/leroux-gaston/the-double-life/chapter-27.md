@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - The Express Train’s Disappearance"
 weight: 28
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-27.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-27.html"
 ---
 
 IT is necessary now for us to relate the extraordinary events which happened on the railway. At this part of the track, which is double, there were two stations about four miles apart, through which the express trains ran quite frequently. In the evening after Théophraste had been speaking to Mme. Petito, the express train had passed through the first station, and the station master was waiting for the signal from the second station, when suddenly a message came through saying that the train had not arrived yet. The station master could not understand it. The train had passed through his station fifteen minutes before, and would not have taken all that time to go the short distance to the other station. He went out and looked up the track. There was no sign of the train, and all was quiet. Again the signal came back, and the second station master said that he would walk along the track to see if he could find the cause of the delay. The first man said he would do the same, and they both started running down the track, followed by other men in the stations. Although it was broad daylight, nothing could be seen of the train, and the two parties met on the track. The first station master was greatly agitated, and wrung his hands in despair. He knew the train had passed through his station. He was sure of it. The report of his assistant confirmed it. Where could it have disappeared to? The excitement and fear was too much for him, and without any warning he fell dead at their feet with heart failure.

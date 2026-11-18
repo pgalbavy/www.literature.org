@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 11"
 weight: 135
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-11.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-11.html"
 ---
 
 In entering the studio, Mihailov once more scanned his visitors and noted down in his imagination Vronsky's expression too, and especially his jaws. Although his artistic sense was unceasingly at work collecting materials, although he felt a continually increasing excitement as the moment of criticizing his work drew nearer, he rapidly and subtly formed, from imperceptible signs, a mental image of these three persons.

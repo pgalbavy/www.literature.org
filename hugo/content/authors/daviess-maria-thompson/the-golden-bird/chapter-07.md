@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/daviess-maria-thompson/the-golden-bird/chapter-07.html"
+url: "/authors/daviess-maria-thompson/the-golden-bird/chapter-07.html"
 ---
 
 Also Bess and I woke to find ourselves heroines. Matthew came to breakfast after he had seen the lamps in his mock hens burning brightly, and brought Polly with him to congratulate us on the rescue of our infant industry. Polly had told him of our brilliant coup against old Jack Frost, and he was all enthusiasm, as was also Uncle Cradd, while father beamed because he was hearing me praised and thought of something else at the same time. Later Owen Murray came out for Bess in his car, and insisted on buying six more of the eggs, because, he said, they had now become a sporting proposition and interested him. Bess agreed to board them to maturity in her conservatory for him at fifty cents a day per head and let him visit them at any time. He gave me a check immediately. He offered to buy six of Polly's chicks at the same price, but Matthew refused to let her sell them at all, and also Bess refused to have any mixing of breeds in her conservatory. Polly didn't know enough to resent losing the hundred and twenty dollars, because she had never had more than fifty cents in her life, and Matthew didn't realize what it would have meant to her to have that much money, because he had more than he needed all his life, so they were all happy and laughed through one of Rufus' worst hog effusions in the way of a meal for lunchers, but--but I had in a month learned to understand what a dollar might mean to a man or woman, and at the thought of that two hundred and forty dollars Mr. G. Bird and family had earned for me in their second month of my ownership my courage arose and girded up its loins for the long road ahead. I knew enough to know that these returns were a kind of isolated nugget in the poultry business, and yet why not?

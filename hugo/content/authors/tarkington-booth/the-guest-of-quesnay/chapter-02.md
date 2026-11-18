@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/tarkington-booth/the-guest-of-quesnay/chapter-02.html"
+url: "/authors/tarkington-booth/the-guest-of-quesnay/chapter-02.html"
 ---
 
 Ward is a portrait-painter, and in the matter of vogue there seem to be no pinnacles left for him to surmount. I think he has painted most of the very rich women of fashion who have come to Paris of late years, and he has become so prosperous, has such a polite celebrity, and his opinions upon art are so conclusively quoted, that the friendship of some of us who started with him has been dangerously strained.

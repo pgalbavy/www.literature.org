@@ -1,8 +1,7 @@
 ---
 title: "Chapter 81 - The Pequod Meets The Virgin"
 weight: 81
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-081.html"
+url: "/authors/melville-herman/moby-dick/chapter-081.html"
 ---
 
 The predestinated day arrived, and we duly met the ship Jungfrau, Derick De Deer, master, of Bremen.

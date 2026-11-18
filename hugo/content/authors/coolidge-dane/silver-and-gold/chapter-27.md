@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Like A Hog On Ice"
 weight: 28
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/chapter-27.html"
+url: "/authors/coolidge-dane/silver-and-gold/chapter-27.html"
 ---
 
 A month had wrought great changes in the life of Denver Russell, raising him up from a prisoner, locked up like a mad dog, to the boss of a gang of road-makers. He was free again, as far as bolts and bars were concerned; all that kept him to his place was the word he had given and his pride as an honest man. And now he was out, doing an honest man's work and building a highway for the state; and by the irony of fate the road he was improving was the one that led to Pinal. For time had wrought other changes while he lay in prison and the rough road up the canyon was swarming with traffic going and coming from Murray's camp. It was called "Murray" now, and a narrow-gauge railroad was being rushed to haul out the ore. Teams and motor trucks swung by, hauling in timbers and machinery, auto stages came and went like the wind; and old Mike McGraw, who had hauled all the freight for years, looked on in wonder and awe.

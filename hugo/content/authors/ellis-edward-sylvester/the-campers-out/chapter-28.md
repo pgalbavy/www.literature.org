@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - A Cry From The Darkness"
 weight: 28
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-28.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-28.html"
 ---
 
 Within a few seconds after McGovern felt the water about his ankles it touched his knees. He was still able to make progress, and with the same despairing desperation as before, struggled onward.

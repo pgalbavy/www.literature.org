@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Depths of Omean"
 weight: 9
-aliases:
-  - "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-08.html"
+url: "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-08.html"
 ---
 
 Now I realized why the black pirate had kept me engrossed with his strange tale. For miles he had sensed the approach of succour, and but for that single tell-tale glance the battleship would have been directly above us in another moment, and the boarding party which was doubtless even now swinging in their harness from the ship's keel, would have swarmed our deck, placing my rising hope of escape in sudden and total eclipse.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Planchette"
 weight: 8
-aliases:
-  - "/authors/london-jack/moon-face/chapter-08.html"
+url: "/authors/london-jack/moon-face/chapter-08.html"
 ---
 
 "IT is my right to know," the girl said.

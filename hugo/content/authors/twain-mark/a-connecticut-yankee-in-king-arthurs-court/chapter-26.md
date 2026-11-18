@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - The First Newspaper"
 weight: 27
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-26.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-26.html"
 ---
 
 WHEN I told the king I was going out disguised as a petty freeman to scour the country and familiarize myself with the humbler life of the people, he was all afire with the novelty of the thing in a minute, and was bound to take a chance in the adventure himself -- nothing should stop him -- he would drop everything and go along -- it was the prettiest idea he had run across for many a day. He wanted to glide out the back way and start at once; but I showed him that that wouldn't answer. You see, he was billed for the king's-evil -- to touch for it, I mean -- and it wouldn't be right to disappoint the house and it wouldn't make a delay worth considering, anyway, it was only a one-night stand. And I thought he ought to tell the queen he was going away. He clouded up at that and looked sad. I was sorry I had spoken, especially when he said mournfully:

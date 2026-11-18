@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Steam Man On His Travels"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-07.html"
 ---
 
 *YOUNG BRAINERD* had a mortal fear that the existence of the steam man would be discovered by some outsider, when a large crowd would probably collect around his house, and his friends would insist on a display of the powers of the extraordinary mechanism.

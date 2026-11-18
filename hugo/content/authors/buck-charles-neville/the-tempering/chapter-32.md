@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 32
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-32.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-32.html"
 ---
 
 Summer, before it has freckled into hot fulness and forgotten the fresh scent and colour of blossoms! June heralding blitheness from the golden throats of troubadour field larks, rustling and crooning her message in green branches under a sky whose blue is proclamation of her love motif!

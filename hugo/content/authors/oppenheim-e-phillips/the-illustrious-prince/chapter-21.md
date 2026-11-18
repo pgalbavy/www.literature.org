@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - A Clue"
 weight: 21
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-21.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-21.html"
 ---
 
 By midday on the following morning London was placarded with notices, the heading of which was sensational enough to attract observation from every passer-by, young or old, rich or poor. One thousand pounds' reward for the apprehension of the murderer of either Hamilton Fynes or Richard Vanderpole! Inspector Jacks, who was amongst the first to hear the news, after a brief interview with his chief put on his hat and walked round to the Home Office. He sought out one of the underlings with whom he had some acquaintance, and whom he found ready enough, even eager, to discuss the matter.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/conrad-joseph/the-rover/chapter-14.html"
+url: "/authors/conrad-joseph/the-rover/chapter-14.html"
 ---
 
 The midnight meeting of Lieutenant Réal and Peyrol was perfectly silent. Peyrol, sitting on the bench outside the salle, had heard the footsteps coming up the Madrague track long before the lieutenant became visible. But he did not move. He did not even look at him. The lieutenant, unbuckling his sword-belt, sat down without uttering a word. The moon, the only witness of the meeting, seemed to shine on two friends so identical in thought and feeling that they could commune with each other without words. It was Peyrol who spoke first.

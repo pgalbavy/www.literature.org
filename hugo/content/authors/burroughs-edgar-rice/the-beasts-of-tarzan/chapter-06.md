@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Hideous Crew"
 weight: 6
-aliases:
-  - "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-06.html"
+url: "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-06.html"
 ---
 
 The war-canoe with its savage load moved slowly toward the break in the reef through which it must pass to gain the open sea. Tarzan, Mugambi, and Akut wielded the paddles, for the shore kept the west wind from the little sail.

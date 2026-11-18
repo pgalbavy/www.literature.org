@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Rouletabille Invites Me To Breakfast At The Donjon Inn"
 weight: 19
-aliases:
-  - "/authors/leroux-gaston/the-yellow-room/chapter-19.html"
+url: "/authors/leroux-gaston/the-yellow-room/chapter-19.html"
 ---
 
 It was not until later that Rouletabille sent me the note-book in which he had written at length the story of the phenomenon of the inexplicable gallery. On the day I arrived at the Glandier and joined him in his room, he recounted to me, with the greatest detail, all that I have now related, telling me also how he had spent several hours in Paris where he had learned nothing that could be of any help to him.

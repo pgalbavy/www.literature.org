@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/chambers-robert-w/the-business-of-life/chapter-06.html"
+url: "/authors/chambers-robert-w/the-business-of-life/chapter-06.html"
 ---
 
 When the sombre morning broke at last, Jacqueline awoke, sprang from her bed, and fluttered away about her dressing as blithely as an April linnet in a hurry.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Man With The Belt Of Gold"
 weight: 10
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-09.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-09.html"
 ---
 
 More than a week went by, in which the ill-luck that had hitherto pursued the Covenant upon this voyage grew yet more strongly marked. Some days she made a little way; others, she was driven actually back. At last we were beaten so far to the south that we tossed and tacked to and fro the whole of the ninth day, within sight of Cape Wrath and the wild, rocky coast on either hand of it. There followed on that a council of the officers, and some decision which I did not rightly understand, seeing only the result: that we had made a fair wind of a foul one and were running south.

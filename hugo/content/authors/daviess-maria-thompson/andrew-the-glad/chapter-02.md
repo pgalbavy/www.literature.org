@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Ritual"
 weight: 2
-aliases:
-  - "/authors/daviess-maria-thompson/andrew-the-glad/chapter-02.html"
+url: "/authors/daviess-maria-thompson/andrew-the-glad/chapter-02.html"
 ---
 
 "Well, it's a sensation all right, Major," said David as he stood in front of the major's fire early in the morning after the ceremonies of the presentation of sketches of the statue out at the Temple of Arts. "Mrs. Matilda told me the news and helped me sandwich it into my speech between that time and the open-up talk. People had asked so often who was giving the statue, laid it on so many different people, and wondered over it to such an extent all fall that they had got tired and forgot that they didn't know all about it. When I presented it in the name of Caroline Darrah Brown in memory of her mother and her grandfather, General Darrah, you could have heard a pin drop for a few seconds, then the applause was almost a sob. It was as dramatic a thing as has been handed this town in many a day. Still it was a bit sky-rockety, don't you think--keeping it like that and--"

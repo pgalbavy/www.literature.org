@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Home Influence On Men"
 weight: 15
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-home/chapter-14.html"
+url: "/authors/gilman-charlotte-perkins/the-home/chapter-14.html"
 ---
 
 In our peculiar and artificial opposition of "the Home" and "the World," we have roughly ascribed all the virtues to the first, and all the vices to the second. "The world, the flesh, and the devil" we still associate, forgetting that home is the very temple of the flesh, and in no way impervious to the devil. Sin is found at home as generally as elsewhere--must be, unless women are sinless and men absolved on entering the sacred door.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 60 - In France"
 weight: 61
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-60.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-60.html"
 ---
 
 The first fear of the King of England, Charles I, on learning of the death of the duke, was that such terrible news might discourage the Rochellais; he tried, says Richelieu in his Memoirs, to conceal it from them as long as possible, closing all the ports of his kingdom, and carefully keeping watch that no vessel should sail until the army which Buckingham was getting together had gone, taking upon himself, in default of Buckingham, to superintend the departure.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-02.html"
+url: "/authors/forster-e-m/howards-end/chapter-02.html"
 ---
 
 Margaret glanced at her sister’s note and pushed it over the breakfast-table to her aunt. There was a moment’s hush, and then the flood-gates opened.

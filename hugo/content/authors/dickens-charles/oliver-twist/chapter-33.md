@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Wherein The Happiness Of Oliver And His Friends, Experiences A Sudden Check"
 weight: 33
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-33.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-33.html"
 ---
 
 Spring flew swiftly by, and summer came. If the village had been beautiful at first it was now in the full glow and luxuriance of its richness. The great trees, which had looked shrunken and bare in the earlier months, had now burst into strong life and health; and stretching forth their green arms over the thirsty ground, converted open and naked spots into choice nooks, where was a deep and pleasant shade from which to look upon the wide prospect, steeped in sunshine, which lay stretched beyond. The earth had donned her mantle of brightest green; and shed her richest perfumes abroad. It was the prime and vigour of the year; all things were glad and flourishing.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Vose Adams"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-23.html"
 ---
 
 Lieutenant Russell gave no hint to Nellie Dawson of the scheme upon which he had fixed his hopes, until after she had confessed her love for him, and he was certain beyond the shadow of a doubt, that he possessed the sole affection of her heart. Even then he hesitated for he knew the shock it would cause the gentle one, who was devotedly attached to her father. But the resolution of Captain Dawson to spend the remainder of his days at the mining settlement, and his intention of selecting her husband from among those that had made New Constantinople their home for years, crystallized the determination that had been vaguely shaping itself in his brain for weeks.

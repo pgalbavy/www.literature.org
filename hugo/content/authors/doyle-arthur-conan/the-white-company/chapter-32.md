@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - How The Company Took Counsel Round The Fallen Tree"
 weight: 32
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-32.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-32.html"
 ---
 
 "WHERE is Sir Claude Latour?" asked Sir Nigel, as his feet touched ground.

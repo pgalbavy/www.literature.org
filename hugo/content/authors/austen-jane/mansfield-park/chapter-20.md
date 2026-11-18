@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-20.html"
+url: "/authors/austen-jane/mansfield-park/chapter-20.html"
 ---
 
 Edmund's first object the next morning was to see his father alone, and give him a fair statement of the whole acting scheme, defending his own share in it as far only as he could then, in a soberer moment, feel his motives to deserve, and acknowledging, with perfect ingenuousness, that his concession had been attended with such partial good as to make his judgment in it very doubtful. He was anxious, while vindicating himself, to say nothing unkind of the others: but there was only one amongst them whose conduct he could mention without some necessity of defence or palliation. “We have all been more or less to blame,” said he, “every one of us, excepting Fanny. Fanny is the only one who has judged rightly throughout; who has been consistent. Her feelings have been steadily against it from first to last. She never ceased to think of what was due to you. You will find Fanny everything you could wish.”

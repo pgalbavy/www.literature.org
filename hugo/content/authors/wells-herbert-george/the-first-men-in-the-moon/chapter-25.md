@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Grand Lunar"
 weight: 25
-aliases:
-  - "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-25.html"
+url: "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-25.html"
 ---
 
 THE penultimate message describes, with occasionally elaborate detail, the encounter between Cavor and the Grand Lunar, who is the ruler or master of the moon. Cavor seems to have sent most of it without interference, but to have been interrupted in the concluding portion. The second came after an interval of a week.

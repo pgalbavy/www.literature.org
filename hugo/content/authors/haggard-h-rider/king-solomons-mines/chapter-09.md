@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Twala The King"
 weight: 10
-aliases:
-  - "/authors/haggard-h-rider/king-solomons-mines/chapter-09.html"
+url: "/authors/haggard-h-rider/king-solomons-mines/chapter-09.html"
 ---
 
 It will not be necessary for me to detail at length the incidents of our journey to Loo. It took two full days' travelling along Solomon's Great Road, which pursued its even course right into the heart of Kukuanaland. Suffice it to say that as we went the country seemed to grow richer and richer, and the kraals, with their wide surrounding belts of cultivation, more and more numerous. They were all built upon the same principles as the first camp which we had reached, and were guarded by ample garrisons of troops. Indeed, in Kukuanaland, as among the Germans, the Zulus, and the Masai, every able-bodied man is a soldier, so that the whole force of the nation is available for its wars, offensive or defensive. As we travelled we were overtaken by thousands of warriors hurrying up to Loo to be present at the great annual review and festival, and more splendid troops I never saw.

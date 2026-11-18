@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Mr. Frog's Double"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-03.html"
 ---
 
 Mr. Frog waited until it was broad daylight before he left his hiding place beneath the bank of the river. He knew that by that time Solomon Owl must have gone home to his hemlock tree to get his rest. So Ferdinand Frog felt quite safe again.

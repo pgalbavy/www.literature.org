@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - In New Clutches"
 weight: 18
-aliases:
-  - "/authors/williams-frank/the-wilderness-trail/chapter-18.html"
+url: "/authors/williams-frank/the-wilderness-trail/chapter-18.html"
 ---
 
 Four hundred and fifty miles southwest of Sturgeon Lake, as the hawk flies, is Winnipeg--formerly the Fort Carry of Hudson Bay fame, and before that the Fort Douglas of battle, murder, and sudden death. As Peter Rainy expected to make the journey, the distance was nearer seven hundred miles. From Sturgeon Lake, he would strike east to the north branch of the Sachigo, and follow that down to its junction with the main river. Then, turning south, for two hundred miles, his would be a straight course up the Sachigo and through a chain of lakes that almost would carry him to Sandy Lake. Southwest, he would rush through Favorable Lake, Deer Lake, Little Trout, and unimportant waterways, until he reached Fort Alexander on a thumb of Lake Winnipeg (that three-hundred-mile terror). Discounting blizzards, he could make seventy-five miles a day down that fine waterway to the mouth of the Red River, and, from there, thirty-five miles would land him in the thriving capital of Manitoba.

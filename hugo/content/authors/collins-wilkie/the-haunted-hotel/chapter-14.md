@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/collins-wilkie/the-haunted-hotel/chapter-14.html"
+url: "/authors/collins-wilkie/the-haunted-hotel/chapter-14.html"
 ---
 
 As the summer months advanced, the transformation of the Venetian palace into the modern hotel proceeded rapidly towards completion.

@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 3 - The Golden Dustman Sinks Again"
 weight: 53
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-04-chapter-03.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-04-chapter-03.html"
 ---
 
 The evening of that day being one of the reading evenings at the Bower, Mr Boffin kissed Mrs Boffin after a five o’clock dinner, and trotted out, nursing his big stick in both arms, so that, as of old, it seemed to be whispering in his ear. He carried so very attentive an expression on his countenance that it appeared as if the confidential discourse of the big stick required to be followed closely. Mr Boffin’s face was like the face of a thoughtful listener to an intricate communication, and, in trotting along, he occasionally glanced at that companion with the look of a man who was interposing the remark: ‘You don’t mean it!’

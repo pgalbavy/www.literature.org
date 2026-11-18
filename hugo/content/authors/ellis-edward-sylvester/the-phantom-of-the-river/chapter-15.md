@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Dark Prospect"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-15.html"
 ---
 
 Weber Hastings waited only a few seconds after hearing the soft, tremulous bird call that stole among the leafy arches, when he replied with an imitation so exact that it might well have been mistaken for an echo of the first.

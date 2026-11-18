@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-14.html"
+url: "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-14.html"
 ---
 
 Have you seen Spring come to the mountains? Have you felt the subtle power on the human heart, of trance-drugged impulses awakening in plant, in animal, in humanity; in the deep hard arteries of the ancient hills themselves? Winter there is grim and bleak beyond the telling. In far separated cabins, held in the quarantine of mired roads, men and women have lived, from hand to mouth, sinking into a dour and melancholy apathy.

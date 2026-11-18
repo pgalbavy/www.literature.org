@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Oraculum"
 weight: 7
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/chapter-06.html"
+url: "/authors/coolidge-dane/silver-and-gold/chapter-06.html"
 ---
 
 The palpitating heat lay like a shimmering fleece over the deserted camp of Pinal and Denver Russell, returning from Globe, beheld it as one in a dream. Somewhere within the shadow of Apache Leap were two treasures that he was destined to find, one of gold and one of silver; and if he chose wisely between them they were both to be his. And if he chose unwisely, or tried to hold them both, then both would be lost and he would suffer humiliation and shame. Yet he came back boldly, fresh from a visit with Mother Trigedgo who had blessed him and called him her son. She had wept when they parted, for her burdens had been heavy and his gift had lightened her lot; but though she wished him well she could not control his fate, for that lay with the powers above. Nor could she conceal from him the portion of evil which was balanced against the good.

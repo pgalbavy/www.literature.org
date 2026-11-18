@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 16"
 weight: 117
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-04-chapter-16.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-04-chapter-16.html"
 ---
 
 The princess sat in her armchair, silent and smiling; the prince sat down beside her. Kitty stood by her father's chair, still holding his hand. All were silent.

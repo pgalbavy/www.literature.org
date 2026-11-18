@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - \"We Abe Enemies\""
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/wolf-ear-the-indian/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/wolf-ear-the-indian/chapter-04.html"
 ---
 
 Brinton Kingsland, after peering over the crest of the elevation for a few brief moments, turned and hastily descended to where his pony awaited him. Without touching his bridle, he spoke, and the obedient animal followed him, while the parents and little sister anxiously listened to the report of what he learned.

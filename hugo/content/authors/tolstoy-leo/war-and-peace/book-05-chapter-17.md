@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 17"
 weight: 101
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-05-chapter-17.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-05-chapter-17.html"
 ---
 
 In June the battle of Friedland was fought, in which the Pavlograds did not take part, and after that an armistice was proclaimed. Rostov, who felt his friend's absence very much, having no news of him since he left and feeling very anxious about his wound and the progress of his affairs, took advantage of the armistice to get leave to visit Denisov in hospital.

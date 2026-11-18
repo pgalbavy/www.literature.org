@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - A Concert a Catastrophe and a Confession"
 weight: 19
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-19.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-19.html"
 ---
 
 "MARILLA, can I go over to see Diana just for a minute?" asked Anne, running breathlessly down from the east gable one February evening.

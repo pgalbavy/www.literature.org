@@ -1,8 +1,7 @@
 ---
 title: "Chapter 99 - The Law"
 weight: 99
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-99.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-99.html"
 ---
 
 We have seen how quietly Mademoiselle Danglars and Mademoiselle d'Armilly accomplished their transformation and flight; the fact being that every one was too much occupied in his or her own affairs to think of theirs. We will leave the banker contemplating the enormous magnitude of his debt before the phantom of bankruptcy, and follow the baroness, who after being momentarily crushed under the weight of the blow which had struck her, had gone to seek her usual adviser, Lucien Debray. The baroness had looked forward to this marriage as a means of ridding her of a guardianship which, over a girl of Eugenie's character, could not fail to be rather a troublesome undertaking; for in the tacit relations which maintain the bond of family union, the mother, to maintain her ascendancy over her daughter, must never fail to be a model of wisdom and a type of perfection.

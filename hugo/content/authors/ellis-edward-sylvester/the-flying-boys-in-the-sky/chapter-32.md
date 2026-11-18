@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - Mysteries Are Explained"
 weight: 32
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-32.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-32.html"
 ---
 
 If the wrathful Uncle Tommy Waters could have looked in upon his home at the time Harvey Hamilton was telling his story, he would have seen there was no ground for misgiving so far as the partner of his joys was concerned.

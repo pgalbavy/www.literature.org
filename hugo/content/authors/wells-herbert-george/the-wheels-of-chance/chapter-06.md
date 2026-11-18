@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - On The Road To Ripley"
 weight: 6
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-06.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-06.html"
 ---
 
 In the fulness of time, Mr. Hoopdriver drew near the Marquis of Granby at Esher, and as he came under the railway arch and saw the inn in front of him, he mounted his machine again and rode bravely up to the doorway. Burton and biscuit and cheese he had, which, indeed, is Burton in its proper company; and as he was eating there came a middleaged man in a drab cycling suit, very red and moist and angry in the face, and asked bitterly for a lemon squash. And he sat down upon the seat in the bar and mopped his face. But scarcely had he sat down before he got up again and stared out of the doorway.

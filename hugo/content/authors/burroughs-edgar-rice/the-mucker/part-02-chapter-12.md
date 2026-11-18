@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 12 - Billy To The Rescue"
 weight: 30
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-12.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-12.html"
 ---
 
 IT WAS nearly ten o'clock the following morning when Barbara, sitting upon the veranda of the ranchhouse, saw her father approaching from the direction of the office. His face wore a troubled expression which the girl could not but note.

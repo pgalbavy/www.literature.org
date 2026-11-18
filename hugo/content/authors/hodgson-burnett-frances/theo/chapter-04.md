@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Theo'S Diary"
 weight: 4
-aliases:
-  - "/authors/hodgson-burnett-frances/theo/chapter-04.html"
+url: "/authors/hodgson-burnett-frances/theo/chapter-04.html"
 ---
 
 Up-stairs, in a sacred corner of the chamber Lady Throckmorton had apportioned to her, Theodora North kept her diary. Not a solid, long-winded diary, full of creditable reflections upon the day's events, but, on the contrary, a harmless little book enough--a pretty little book, bound in pink and gold, and much ornamented about the corners, and greatly embellished with filagree clasps. Lady Throckmorton had given it to her because she admired it, and, in a very natural enthusiasm, she had made a diary of it. And here are the entries first recorded in its gilt-edged pages:

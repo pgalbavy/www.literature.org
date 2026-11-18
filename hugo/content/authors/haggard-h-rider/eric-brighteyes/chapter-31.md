@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - How Eric Sent Away His Men From Mosfell"
 weight: 32
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-31.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-31.html"
 ---
 
 Now Eric and Skallagrim came to Mosfell in safety, and during all that ride Brighteyes spoke no word. He rode in silence, and in silence Skallagrim rode after him. The heart of Skallagrim was broken because of the sorrow which his drunkenness had brought about, and the heart of Eric was buried in Gudruda’s grave.

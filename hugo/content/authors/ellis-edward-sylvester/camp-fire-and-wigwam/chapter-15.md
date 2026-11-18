@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Return And Departure"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-15.html"
 ---
 
 Easy and negligent as was the posture assumed by Deerfoot the Shawanoe, his eyes were never at rest. Resting for a moment on the promontory, they darted to the right and left down the valley, and even took in the shifting clouds in the sky above. But it was the peak which riveted his attention, and which was scrutinized with minute closeness until the gathering gloom shut it from sight.

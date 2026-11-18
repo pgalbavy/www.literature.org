@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-02.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-02.html"
 ---
 
 Before the war there were no people better known or more prominent in their portion of the State than the De Willoughbys of Delisle County, Tennessee. To have been born a De Willoughby was, in general opinion, to have been born with a silver spoon in one's mouth. It was indeed to have been born to social dignity, fortune, courage, and more than the usual allowance of good looks. And though the fortune was lavishly spent, the courage sometimes betrayed into a rather theatrical dare-deviltry, and the good looks prone to deteriorate in style, there was always the social position left, and this was a matter of the deepest importance in Delisleville. The sentiments of Delisleville were purely patrician. It was the county town, and contained six thousand inhabitants, two hotels, and a court-house. It had also two or three business streets and half a dozen churches, all very much at odds with each other and each seriously inclined to disbelieve in the probable salvation of the rest. The "first families" (of which there were eight or ten, with numerous branches) attended the Episcopal Church, the second best the Presbyterian, while the inferior classes, who could scarcely be counted at all, since they had not been born in Delisleville, drifted to the Methodists.

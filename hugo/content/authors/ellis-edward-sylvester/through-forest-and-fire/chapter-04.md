@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Lost"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-04.html"
 ---
 
 It was two miles from the home of Mr. Ribsam to the little stone school-house where his children were receiving their education. A short distance from the dwelling a branch road turned off to the left, which, being followed nine miles or so, mostly through woods, brought one to the little country town of Dunbarton.

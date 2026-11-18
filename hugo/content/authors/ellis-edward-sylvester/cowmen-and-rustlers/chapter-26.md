@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - The Underground Missive"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-26.html"
 ---
 
 Dick Hawkridge, standing on the ground, looked up in the bronzed face of Duke Vesey, sitting in the saddle.

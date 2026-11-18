@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Lad With The Silver Button: Across Morven"
 weight: 17
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-16.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-16.html"
 ---
 
 There is a regular ferry from Torosay to Kinlochaline on the mainland. Both shores of the Sound are in the country of the strong clan of the Macleans, and the people that passed the ferry with me were almost all of that clan. The skipper of the boat, on the other hand, was called Neil Roy Macrob; and since Macrob was one of the names of Alan’s clansmen, and Alan himself had sent me to that ferry, I was eager to come to private speech of Neil Roy.

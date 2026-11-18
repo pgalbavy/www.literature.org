@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Yearnings"
 weight: 21
-aliases:
-  - "/authors/tarkington-booth/penrod-and-sam/chapter-21.html"
+url: "/authors/tarkington-booth/penrod-and-sam/chapter-21.html"
 ---
 
 The next day a new ambition entered into Penrod Schofield; it was heralded by a flourish of trumpets and set up a great noise within his being.

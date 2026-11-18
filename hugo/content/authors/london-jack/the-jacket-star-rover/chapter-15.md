@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/london-jack/the-jacket-star-rover/chapter-15.html"
+url: "/authors/london-jack/the-jacket-star-rover/chapter-15.html"
 ---
 
 I was once Adam Strang, an Englishman. The period of my living, as near as I can guess it, was somewhere between 1550 and 1650, and I lived to a ripe old age, as you shall see. It has been a great regret to me, ever since Ed Morrell taught me the way of the little death, that I had not been a more thorough student of history. I should have been able to identity and place much that is obscure to me. As it is, I am compelled to grope and guess my way to times and places of my earlier existences.

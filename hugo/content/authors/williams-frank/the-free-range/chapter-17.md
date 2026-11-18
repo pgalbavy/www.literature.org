@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Battle In The Dark"
 weight: 17
-aliases:
-  - "/authors/williams-frank/the-free-range/chapter-17.html"
+url: "/authors/williams-frank/the-free-range/chapter-17.html"
 ---
 
 "Everything ready?"

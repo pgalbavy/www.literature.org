@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/tarkington-booth/ramsey-milholland/chapter-12.html"
+url: "/authors/tarkington-booth/ramsey-milholland/chapter-12.html"
 ---
 
 "The way I look at it, Ramsey," Fred Mitchell said, when they reached their apartment, whither the benevolent Colburn accompanied them, "the way I look at it, this Linski kind of paid you a compliment, after all, when he called you a fake. He must have thought you anyway *looked* as if you could make a better speech than you did. Oh, golly!"

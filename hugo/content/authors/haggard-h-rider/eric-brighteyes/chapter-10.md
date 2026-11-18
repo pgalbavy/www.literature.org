@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - How Asmund Spoke With Swanhild"
 weight: 11
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-10.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-10.html"
 ---
 
 Now as the days went, though Atli’s ship was bound for sea, she did not sail, and it came about that the Earl sank ever deeper in the toils of Swanhild. He called to mind many wise saws, but these availed him little: for when Love rises like the sun, wisdom melts like the mists. So at length it came to this, that on the day of Eric’s coming back, Atli went to Asmund the Priest, and asked him for the hand of Swanhild the Fatherless in marriage. Asmund heard and was glad, for he knew well that things went badly between Swanhild and Gudruda, and it seemed good to him that seas should be set between them. Nevertheless, he thought it honest to warn the Earl that Swanhild was apart from other women.

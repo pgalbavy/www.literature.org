@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Dick Halliard Is Astounded"
 weight: 31
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-31.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-31.html"
 ---
 
 There were hopes until the following morning that Bob Budd might have escaped the flood. The fact that one of the Piketon Rangers had managed with help to extricate himself gave slight grounds for belief that a second had been equally fortunate.

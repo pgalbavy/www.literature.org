@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-24.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-24.html"
 ---
 
 Mr. Gordon Jones rose to his feet. It had been an interesting, in some respects a momentous interview. He glanced around the plain but handsomely furnished office, a room which betrayed so few evidences of the world-flung power of its owner.

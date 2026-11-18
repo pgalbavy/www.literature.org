@@ -1,8 +1,7 @@
 ---
 title: "Chapter 45"
 weight: 45
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-45.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-45.html"
 ---
 
 As Boone's taxi wrenched its way uptown, threading jerkily in and out between the pillars of the Sixth Avenue Elevated, he sought vainly to close the sluice gates of fear and hold his equilibrium by a self-hypnosis of arrested thought.

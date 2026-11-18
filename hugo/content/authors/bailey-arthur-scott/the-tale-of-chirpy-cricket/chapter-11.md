@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Queer, New Cousin"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-chirpy-cricket/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-chirpy-cricket/chapter-11.html"
 ---
 
 Chirpy Cricket was so fond of fiddling that sometimes he was the last of all the big Cricket family to stop making music and go home to bed. Now and then he lingered so long above the ground that the dawn caught him before he crept into his hole in the ground, beneath the straw. And one morning it was getting so light before he had played enough to suit him that he crawled into a crack in Farmer Green's garden. It looked like a comfortable place to spend the day. And he thought it would be foolish for him to do much travelling at that hour, because there was no telling when an early bird might spy--and pounce upon--him.

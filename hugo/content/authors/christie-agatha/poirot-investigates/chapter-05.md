@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Million Dollar Bond Robbery"
 weight: 5
-aliases:
-  - "/authors/christie-agatha/poirot-investigates/chapter-05.html"
+url: "/authors/christie-agatha/poirot-investigates/chapter-05.html"
 ---
 
 "What a number of bond robberies there have been lately!" I observed one morning, laying aside the newspaper. "Poirot, let us forsake the science of detection, and take to crime instead!"

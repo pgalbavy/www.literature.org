@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Hospital Wedding"
 weight: 17
-aliases:
-  - "/authors/brown-ruth-alberta/heart-of-gold/chapter-17.html"
+url: "/authors/brown-ruth-alberta/heart-of-gold/chapter-17.html"
 ---
 
 Peace, with writing pad and pencil in hand, climbed laboriously up into the deep window recess overlooking the wide lawns of Danbury Hospital, and propped her crutches against the sash, so that by no chance they could fall to the floor out of her reach while she was composing her weekly letter to St. Elspeth.

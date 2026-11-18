@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Arcoll's Shepherding"
 weight: 20
-aliases:
-  - "/authors/buchan-john/prester-john/chapter-19.html"
+url: "/authors/buchan-john/prester-john/chapter-19.html"
 ---
 
 While I lay in a drugged slumber great things were happening. What I have to tell is no experience of my own, but the story as I pieced it together afterwards from talks with Arcoll and Aitken. The history of the Rising has been compiled. As I write I see before me on the shelves two neat blue volumes in which Mr Alexander Upton, sometime correspondent of the *Times*, has told for the edification of posterity the tale of the war between the Plains and the Plateau. To him the Kaffir hero is Umbooni, a half-witted ruffian, whom we afterwards caught and hanged. He mentions Laputa only in a footnote as a renegade Christian who had something to do with fomenting discontent. He considers that the word 'Inkulu,' which he often heard, was a Zulu name for God. Mr Upton is a picturesque historian, but he knew nothing of the most romantic incident of all. This is the tale of the midnight shepherding of the 'heir of John' by Arcoll and his irregulars.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Home Of Jack"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-04.html"
 ---
 
 While Jack Gedney stood on the fallen tree which spanned the stream, watching the panther’s dying struggles in the water below, he suddenly learned that its mate was creeping upon him from the rear.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Aunt Clara's Plan"
 weight: 15
-aliases:
-  - "/authors/alcott-louisa-may/rose-in-bloom/chapter-14.html"
+url: "/authors/alcott-louisa-may/rose-in-bloom/chapter-14.html"
 ---
 
 Being seriously alarmed by the fear of losing the desire of his heart, Charlie had gone resolutely to work and, like many another young reformer, he rather overdid the matter, for in trying to keep out of the way of temptation, he denied himself much innocent enjoyment. The "artistic fit" was a good excuse for the seclusion which he fancied would be a proper penance, and he sat listlessly plying crayon or paintbrush, with daily wild rides on black Brutus, which seemed to do him good, for danger of that sort was his delight.

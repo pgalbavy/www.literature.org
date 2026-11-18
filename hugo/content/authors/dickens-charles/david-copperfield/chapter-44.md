@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44 - Our Housekeeping"
 weight: 45
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-44.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-44.html"
 ---
 
 It was a strange condition of things, the honeymoon being over, and the bridesmaids gone home, when I found myself sitting down in my own small house with Dora; quite thrown out of employment, as I may say, in respect of the delicious old occupation of making love.

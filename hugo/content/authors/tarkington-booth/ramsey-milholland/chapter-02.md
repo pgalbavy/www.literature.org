@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/tarkington-booth/ramsey-milholland/chapter-02.html"
+url: "/authors/tarkington-booth/ramsey-milholland/chapter-02.html"
 ---
 
 Ramsey Milholland sat miserably in school, his conscious being consisting principally of a dull hate. Torpor was a little dispersed during a fifteen-minute interval of "Music," when he and all the other pupils in the large room of the "Five B. Grade" sang repeated fractions of what they enunciated as "The Star Span-guh-hulled Banner"; but afterward he relapsed into the low spirits and animosity natural to anybody during enforced confinement under instruction. No alleviation was accomplished by an invader's temporary usurpation of the teacher's platform, a brisk and unsympathetically cheerful young woman mounting thereon to "teach German."

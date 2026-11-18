@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 2"
 weight: 11
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-02-chapter-02.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-02-chapter-02.html"
 ---
 
 A description of the farmer’s daughter. The author carried to a market-town, and then to the metropolis. The particulars of his journey.

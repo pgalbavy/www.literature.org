@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Uncles"
 weight: 4
-aliases:
-  - "/authors/alcott-louisa-may/eight-cousins/chapter-03.html"
+url: "/authors/alcott-louisa-may/eight-cousins/chapter-03.html"
 ---
 
 When Rose woke next morning, she was not sure whether she had dreamed what occurred the night before, or it had actually happened. So she hopped up and dressed, although it was an hour earlier than she usually rose, for she could not sleep any more, being possessed with a strong desire to slip down and see if the big portmanteau and packing cases were really in the hall. She seemed to remember tumbling over them when she went to bed, for the aunts had sent her off very punctually, because they wanted their pet nephew all to themselves.

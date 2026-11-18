@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/woolf-virginia/night-and-day/chapter-19.html"
+url: "/authors/woolf-virginia/night-and-day/chapter-19.html"
 ---
 
 The afternoon was already growing dark when the two other wayfarers, Mary and Ralph Denham, came out on the high road beyond the outskirts of Lincoln. The high road, as they both felt, was better suited to this return journey than the open country, and for the first mile or so of the way they spoke little. In his own mind Ralph was following the passage of the Otway carriage over the heath; he then went back to the five or ten minutes that he had spent with Katharine, and examined each word with the care that a scholar displays upon the irregularities of an ancient text. He was determined that the glow, the romance, the atmosphere of this meeting should not paint what he must in future regard as sober facts. On her side Mary was silent, not because her thoughts took much handling, but because her mind seemed empty of thought as her heart of feeling. Only Ralph’s presence, as she knew, preserved this numbness, for she could foresee a time of loneliness when many varieties of pain would beset her. At the present moment her effort was to preserve what she could of the wreck of her self-respect, for such she deemed that momentary glimpse of her love so involuntarily revealed to Ralph. In the light of reason it did not much matter, perhaps, but it was her instinct to be careful of that vision of herself which keeps pace so evenly beside every one of us, and had been damaged by her confession. The gray night coming down over the country was kind to her; and she thought that one of these days she would find comfort in sitting upon the earth, alone, beneath a tree. Looking through the darkness, she marked the swelling ground and the tree. Ralph made her start by saying abruptly;

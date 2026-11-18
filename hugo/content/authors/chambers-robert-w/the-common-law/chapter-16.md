@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/chambers-robert-w/the-common-law/chapter-16.html"
+url: "/authors/chambers-robert-w/the-common-law/chapter-16.html"
 ---
 
 On the morning of the first day of June Neville came into his studio and found there a letter from Valerie:

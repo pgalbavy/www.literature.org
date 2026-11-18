@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Ida Recants"
 weight: 31
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-31.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-31.html"
 ---
 
 The two great doctors came, and the two great doctors pocketed their hundred guinea fees and went, but neither the one nor the other, nor eke the twain, would commit themselves to a fixed opinion as to Edward Cossey's chances of life or death. However, one of them picked out a number of shot from the wounded man, and a number more he left in because he could not pick them out. Then they both agreed that the treatment of their local brethren was all that could be desired, and so far as they were concerned there was an end of it.

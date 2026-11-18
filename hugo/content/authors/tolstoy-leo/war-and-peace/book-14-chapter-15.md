@@ -1,8 +1,7 @@
 ---
 title: "Book 14 - Chapter 15"
 weight: 313
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-14-chapter-15.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-14-chapter-15.html"
 ---
 
 The stores, the prisoners, and the marshal's baggage train stopped at the village of Shamshevo. The men crowded together round the campfires. Pierre went up to the fire, ate some roast horseflesh, lay down with his back to the fire, and immediately fell asleep. He again slept as he had done at Mozhaysk after the battle of Borodino.

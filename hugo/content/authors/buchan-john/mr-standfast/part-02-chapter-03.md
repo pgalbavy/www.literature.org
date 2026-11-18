@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 3 - Mr Blenkiron Discourses On Love And War"
 weight: 14
-aliases:
-  - "/authors/buchan-john/mr-standfast/part-02-chapter-03.html"
+url: "/authors/buchan-john/mr-standfast/part-02-chapter-03.html"
 ---
 
 Three days later I got my orders to report at Paris for special service. They came none too soon, for I chafed at each hour’s delay. Every thought in my head was directed to the game which we were playing against Ivery. He was the big enemy, compared to whom the ordinary Boche in the trenches was innocent and friendly. I had almost lost interest in my division, for I knew that for me the real battle-front was not in Picardy, and that my job was not so easy as holding a length of line. Also I longed to be at the same work as Mary.

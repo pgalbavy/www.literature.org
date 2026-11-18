@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Fun In The Pasture"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-02.html"
 ---
 
 The first time he tried to catch Twinkleheels in the pasture, Johnnie Green found his new pet entirely too playful to suit him. In response to Johnnie's whistling Twinkleheels came galloping towards the bars. But when he caught sight of the halter that Johnnie held he stopped short. And he snorted, as if to say, "I don't believe I'll go with you. I'm having too much fun here."

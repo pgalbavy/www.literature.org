@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Verdun And St. Mihiel"
 weight: 10
-aliases:
-  - "/authors/davis-richard-harding/with-the-french-in-france-and-salonika/chapter-09.html"
+url: "/authors/davis-richard-harding/with-the-french-in-france-and-salonika/chapter-09.html"
 ---
 
 PARIS, January, 1916.

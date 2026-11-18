@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - A Cold Greeting"
 weight: 23
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-23.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-23.html"
 ---
 
 When Jolly Robin awoke a little before dawn, after his night in the woods, he did not know at first where he was.

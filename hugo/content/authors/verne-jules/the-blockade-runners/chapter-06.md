@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Sullivan Island Channel"
 weight: 6
-aliases:
-  - "/authors/verne-jules/the-blockade-runners/chapter-06.html"
+url: "/authors/verne-jules/the-blockade-runners/chapter-06.html"
 ---
 
 Two days after the meeting with the Iroquois, the Dolphin found herself abreast of the Bermudas, where she was assailed by a violent squall. These isles are frequently visited by hurricanes, and are celebrated for shipwrecks. It is here that Shakespeare has placed the exciting scene of his drama, The Tempest, in which Ariel and Caliban dispute for the empire of the floods.

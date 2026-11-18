@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Talk"
 weight: 6
-aliases:
-  - "/authors/lawrence-david-herbert/aarons-rod/chapter-06.html"
+url: "/authors/lawrence-david-herbert/aarons-rod/chapter-06.html"
 ---
 
 The party stayed to the end of the interminable opera. They had agreed to wait for Aaron. He was to come around to the vestibule for them, after the show. They trooped slowly down-stairs into the crush of the entrance hall. Chattering, swirling people, red carpet, palms green against cream-and-gilt walls, small whirlpools of life at the open, dark doorways, men in opera hats steering decisively about-it was the old scene. But there were no taxis - absolutely no taxis. And it was raining. Fortunately the women had brought shoes. They slipped these on. Jim rocked through the crowd, in his tall hat, looking for the flautist.

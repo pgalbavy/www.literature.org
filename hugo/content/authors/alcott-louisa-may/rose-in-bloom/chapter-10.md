@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Sad And Sober Part"
 weight: 11
-aliases:
-  - "/authors/alcott-louisa-may/rose-in-bloom/chapter-10.html"
+url: "/authors/alcott-louisa-may/rose-in-bloom/chapter-10.html"
 ---
 
 "How will he look? What will he say? Can anything make us forget and be happy again?" were the first questions Rose asked herself as soon as she woke from the brief sleep which followed a long, sad vigil. It seemed as if the whole world must be changed because a trouble darkened it for her. She was too young yet to know how possible it is to forgive much greater sins than this, forget far heavier disappointments, outlive higher hopes, and bury loves compared to which hers was but a girlish fancy. She wished it had not been so bright a day, wondered how her birds could sing with such shrill gaiety, put no ribbon in her hair, and said, as she looked at the reflection of her own tired face in the glass, "Poor thing! You thought the new leaf would have something pleasant on it. The story has been very sweet and easy to read so far, but the sad and sober part is coming now."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-26.html"
+url: "/authors/austen-jane/mansfield-park/chapter-26.html"
 ---
 
 William's desire of seeing Fanny dance made more than a momentary impression on his uncle. The hope of an opportunity, which Sir Thomas had then given, was not given to be thought of no more. He remained steadily inclined to gratify so amiable a feeling; to gratify anybody else who might wish to see Fanny dance, and to give pleasure to the young people in general; and having thought the matter over, and taken his resolution in quiet independence, the result of it appeared the next morning at breakfast, when, after recalling and commending what his nephew had said, he added, “I do not like, William, that you should leave Northamptonshire without this indulgence. It would give me pleasure to see you both dance. You spoke of the balls at Northampton. Your cousins have occasionally attended them; but they would not altogether suit us now. The fatigue would be too much for your aunt. I believe we must not think of a Northampton ball. A dance at home would be more eligible; and if--”

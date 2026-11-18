@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Why The Rooster Crowed"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-08.html"
 ---
 
 Henrietta Hen had commanded the Rooster to wait until daylight before he began to crow.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Grandmamma"
 weight: 4
-aliases:
-  - "/authors/bronte-anne/agnes-grey/chapter-04.html"
+url: "/authors/bronte-anne/agnes-grey/chapter-04.html"
 ---
 
 I SPARE my readers the account of my delight on coming home, my happiness while there - enjoying a brief space of rest and liberty in that dear, familiar place, among the loving and the loved - and my sorrow on being obliged to bid them, once more, a long adieu.

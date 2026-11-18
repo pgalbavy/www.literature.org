@@ -1,8 +1,7 @@
 ---
 title: "Chapter 63"
 weight: 64
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-63.html"
+url: "/authors/haggard-h-rider/dawn/chapter-63.html"
 ---
 
 "Then you will not marry now, Mildred?" said Arthur, after a pause.

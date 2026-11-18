@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Done!"
 weight: 23
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-21.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-21.html"
 ---
 
 ARNOLD was a little surprised by the curt manner in which Geoffrey answered him.

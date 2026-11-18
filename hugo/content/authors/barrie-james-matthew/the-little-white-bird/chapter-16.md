@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Lock-Out Time"
 weight: 16
-aliases:
-  - "/authors/barrie-james-matthew/the-little-white-bird/chapter-16.html"
+url: "/authors/barrie-james-matthew/the-little-white-bird/chapter-16.html"
 ---
 
 It is frightfully difficult to know much about the fairies, and almost the only thing known for certain is that there are fairies wherever there are children. Long ago children were forbidden the Gardens, and at that time there was not a fairy in the place; then the children were admitted, and the fairies came trooping in that very evening. They can't resist following the children, but you seldom see them, partly because they live in the daytime behind the railings, where you are not allowed to go, and also partly because they are so cunning. They are not a bit cunning after Lock-out, but until Lock-out, my word!

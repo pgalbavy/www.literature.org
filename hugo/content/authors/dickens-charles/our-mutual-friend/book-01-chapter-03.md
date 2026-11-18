@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 3 - Another Man"
 weight: 3
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-01-chapter-03.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-01-chapter-03.html"
 ---
 
 As the disappearing skirts of the ladies ascended the Veneering staircase, Mortimer, following them forth from the dining-room, turned into a library of bran-new books, in bran-new bindings liberally gilded, and requested to see the messenger who had brought the paper. He was a boy of about fifteen. Mortimer looked at the boy, and the boy looked at the bran-new pilgrims on the wall, going to Canterbury in more gold frame than procession, and more carving than country.

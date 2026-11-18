@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Outlook For China"
 weight: 16
-aliases:
-  - "/authors/russell-bertrand/the-problem-of-china/chapter-15.html"
+url: "/authors/russell-bertrand/the-problem-of-china/chapter-15.html"
 ---
 
 In this chapter I propose to take, as far as I am able, the standpoint of a progressive and public-spirited Chinese, and consider what reforms, in what order, I should advocate in that case.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - At Aunt Polly's"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-09.html"
 ---
 
 After Jimmy Rabbit and Billy Woodchuck had eaten the very last goody in old Aunt Polly Woodchuck's basket, Jimmy said that he must hurry away at once.

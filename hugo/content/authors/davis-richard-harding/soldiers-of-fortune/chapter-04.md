@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/davis-richard-harding/soldiers-of-fortune/chapter-04.html"
+url: "/authors/davis-richard-harding/soldiers-of-fortune/chapter-04.html"
 ---
 
 The work which had called Clay to the mines kept him there for some time, and it was not until the third day after the arrival of the Langhams that he returned again to the Palms. On the afternoon when he climbed the hill to the bungalow he found the Langhams as he had left them, with the difference that King now occupied a place in the family circle. Clay was made so welcome, and especially so by King, that he felt rather ashamed of his sentiments toward him, and considered his three days of absence to be well repaid by the heartiness of their greeting.

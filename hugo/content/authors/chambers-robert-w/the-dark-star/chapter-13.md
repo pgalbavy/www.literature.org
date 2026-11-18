@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Letters From A Little Girl"
 weight: 14
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-13.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-13.html"
 ---
 
 Neeland had several letters from Ruhannah Carew that autumn and winter. The first one was written a few weeks after her arrival in Paris:

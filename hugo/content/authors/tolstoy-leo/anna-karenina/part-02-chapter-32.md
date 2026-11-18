@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 32"
 weight: 66
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-32.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-32.html"
 ---
 
 The particulars which the princess had learned in regard to Varenka's past and her relations with Madame Stahl were as follows:

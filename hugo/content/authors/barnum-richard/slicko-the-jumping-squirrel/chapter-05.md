@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Slicko And Tum Tum"
 weight: 5
-aliases:
-  - "/authors/barnum-richard/slicko-the-jumping-squirrel/chapter-05.html"
+url: "/authors/barnum-richard/slicko-the-jumping-squirrel/chapter-05.html"
 ---
 
 “Mappo,” asked Slicko, as she sat under the shade of a tree, near the road, and looked across at the tents in the vacant lot, “is that what you call a circus, Mappo?”

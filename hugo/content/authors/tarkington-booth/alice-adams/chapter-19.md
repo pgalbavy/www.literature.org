@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/tarkington-booth/alice-adams/chapter-19.html"
+url: "/authors/tarkington-booth/alice-adams/chapter-19.html"
 ---
 
 Alice was softly crooning to herself as her mother turned the corner of the house and approached through the dusk.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-01.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-01.html"
 ---
 
 In the filth of a dark hut, in the village of Obebe the cannibal, upon the banks of the Ugogo, Esteban Miranda squatted upon his haunches and gnawed upon the remnants of a half-cooked fish. About his neck was an iron slave collar from which a few feet of rusty chain ran to a stout post set deep in the ground near the low entranceway that let upon the village street not far from the hut of Obebe himself.

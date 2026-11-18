@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-19.html"
+url: "/authors/dickens-charles/great-expectations/chapter-19.html"
 ---
 
 MORNING made a considerable difference in my general prospect of Life and brightened it so much that it scarcely seemed the same. What lay heaviest on my mind, was, the consideration that six days intervened between me and the day of departure; for, I could not divest myself of a misgiving that something might happen to London in the meanwhile, and that, when I got there, it would be either greatly deteriorated or clean gone.

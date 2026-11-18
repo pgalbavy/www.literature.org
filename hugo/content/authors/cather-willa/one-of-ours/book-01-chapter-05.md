@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 5"
 weight: 5
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-01-chapter-05.html"
+url: "/authors/cather-willa/one-of-ours/book-01-chapter-05.html"
 ---
 
 Claude waited for his elders to change their mind about where he should go to school; but no one seemed much concerned, not even his mother.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 26
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-25.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-25.html"
 ---
 
 The very next day after I got home from Miss Timson'ses, we wimmen all met to the meetin' house agin as usial, for we knew very well that the very hardest and most arjuous part of our work lay before us.

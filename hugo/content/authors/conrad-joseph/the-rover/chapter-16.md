@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/conrad-joseph/the-rover/chapter-16.html"
+url: "/authors/conrad-joseph/the-rover/chapter-16.html"
 ---
 
 Astern of the tartane, the sun, about to set, kindled a streak of dull crimson glow between the darkening sea and the overcast sky. The peninsula of Giens and the islands of Hyères formed one mass of land detaching itself very black against the fiery girdle of the horizon; but to the north the long stretch of the Alpine coast continued beyond sight its endless sinuosities under the stooping clouds.

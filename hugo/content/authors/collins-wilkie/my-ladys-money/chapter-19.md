@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/collins-wilkie/my-ladys-money/chapter-19.html"
+url: "/authors/collins-wilkie/my-ladys-money/chapter-19.html"
 ---
 
 THE narrative returns to South Morden, and follows the events which attended Isabel's marriage engagement.

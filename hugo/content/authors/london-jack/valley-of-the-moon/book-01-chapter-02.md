@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 2"
 weight: 2
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-01-chapter-02.html"
+url: "/authors/london-jack/valley-of-the-moon/book-01-chapter-02.html"
 ---
 
 Each bought her own ticket at the entrance to Weasel Park. And each, as she laid her half-dollar down, was distinctly aware of how many pieces of fancy starch were represented by the coin. It was too early for the crowd, but bricklayers and their families, laden with huge lunch-baskets and armfuls of babies, were already going in--a healthy, husky race of workmen, well-paid and robustly fed. And with them, here and there, undisguised by their decent American clothing, smaller in bulk and stature, weazened not alone by age but by the pinch of lean years and early hardship, were grandfathers and mothers who had patently first seen the light of day on old Irish soil. Their faces showed content and pride as they limped along with this lusty progeny of theirs that had fed on better food.

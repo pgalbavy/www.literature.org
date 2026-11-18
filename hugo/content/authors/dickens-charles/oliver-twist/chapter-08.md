@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Oliver Walks To London.  He Encounters On The Road A Strange Sort Of Young Gentleman"
 weight: 8
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-08.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-08.html"
 ---
 
 Oliver reached the stile at which the by-path terminated; and once more gained the high-road. It was eight o'clock now. Though he was nearly five miles away from the town, he ran, and hid behind the hedges, by turns, till noon: fearing that he might be pursued and overtaken. Then he sat down to rest by the side of the milestone, and began to think, for the first time, where he had better go and try to live.

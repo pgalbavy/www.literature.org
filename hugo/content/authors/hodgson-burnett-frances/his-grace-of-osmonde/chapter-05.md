@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - My Lord Marquess Plunges Into The Thames"
 weight: 6
-aliases:
-  - "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-05.html"
+url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-05.html"
 ---
 
 A rich young nobleman at the University of Oxford, who, having all the resources of wealth and rank at his disposal, chose in these times to devote himself to scholarly pursuits, made in the minds of his fellow-collegians a singular and eccentric figure; but that one, more splendidly endowed by fortune than any other, should so comport himself, and yet no man find it possible to deride or make coarse jokes on him, was, indeed, unheard of.

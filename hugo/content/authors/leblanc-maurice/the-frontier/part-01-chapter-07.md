@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 7 - Eve Triumphant"
 weight: 7
-aliases:
-  - "/authors/leblanc-maurice/the-frontier/part-01-chapter-07.html"
+url: "/authors/leblanc-maurice/the-frontier/part-01-chapter-07.html"
 ---
 
 "There!" she said, after a few minutes. "The storm is over."

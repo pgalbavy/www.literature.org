@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/woolf-virginia/jacobs-room/chapter-09.html"
+url: "/authors/woolf-virginia/jacobs-room/chapter-09.html"
 ---
 
 The Countess of Rocksbier sat at the head of the table alone with Jacob. Fed upon champagne and spices for at least two centuries (four, if you count the female line), the Countess Lucy looked well fed. A discriminating nose she had for scents, prolonged, as if in quest of them; her underlip protruded a narrow red shelf; her eyes were small, with sandy tufts for eyebrows, and her jowl was heavy. Behind her (the window looked on Grosvenor Square) stood Moll Pratt on the pavement, offering violets for sale; and Mrs. Hilda Thomas, lifting her skirts, preparing to cross the road. One was from Walworth; the other from Putney. Both wore black stockings, but Mrs. Thomas was coiled in furs. The comparison was much in Lady Rocksbier's favour. Moll had more humour, but was violent; stupid too. Hilda Thomas was mealy-mouthed, all her silver frames aslant; egg-cups in the drawing-room; and the windows shrouded. Lady Rocksbier, whatever the deficiencies of her profile, had been a great rider to hounds. She used her knife with authority, tore her chicken bones, asking Jacob's pardon, with her own hands.

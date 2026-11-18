@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - In Oxford Street"
 weight: 21
-aliases:
-  - "/authors/wells-herbert-george/the-invisible-man/chapter-21.html"
+url: "/authors/wells-herbert-george/the-invisible-man/chapter-21.html"
 ---
 
 "In going downstairs the first time I found an unexpected difficulty because I could not see my feet; indeed I stumbled twice, and there was an unaccustomed clumsiness in gripping the bolt. By not looking down, however, I managed to walk on the level passably well.

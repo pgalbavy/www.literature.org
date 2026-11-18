@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-09.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-09.html"
 ---
 
 During the next few weeks Bertha did not appear as well as usual. The changes Tredennis had seen in her became more marked. She lost color and roundness, and now and then was forced to show signs of fatigue which were not habitual with her. She made no alteration in her mode of life, however. When Tredennis called in the evening the parlor was always full, and she was always vivaciously occupied with her guests. Chief among her attractions was counted her pet pretence of being interested in politics. It was not a very serious pretence, but, being managed deftly and with a sense of its dramatic value, animated many an hour which might otherwise have been dull, in view of the social material which occasionally fell into her hands.

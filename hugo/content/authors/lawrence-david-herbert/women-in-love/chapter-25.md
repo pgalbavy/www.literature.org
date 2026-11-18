@@ -1,8 +1,7 @@
 ---
 title: "chapter 25"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-25.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-25.html"
 ---
 
 The Brangwen family was going to move from Beldover. It was necessary now for the father to be in town.

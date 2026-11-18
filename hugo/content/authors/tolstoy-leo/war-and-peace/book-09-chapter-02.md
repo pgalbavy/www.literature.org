@@ -1,8 +1,7 @@
 ---
 title: "Book 9 - Chapter 2"
 weight: 169
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-09-chapter-02.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-09-chapter-02.html"
 ---
 
 On the twenty-ninth of May Napoleon left Dresden, where he had spent three weeks surrounded by a court that included princes, dukes, kings, and even an emperor. Before leaving, Napoleon showed favor to the emperor, kings, and princes who had deserved it, reprimanded the kings and princes with whom he was dissatisfied, presented pearls and diamonds of his own- that is, which he had taken from other kings- to the Empress of Austria, and having, as his historian tells us, tenderly embraced the Empress Marie Louise- who regarded him as her husband, though he had left another wife in Paris- left her grieved by the parting which she seemed hardly able to bear. Though the diplomatists still firmly believed in the possibility of peace and worked zealously to that end, and though the Emperor Napoleon himself wrote a letter to Alexander, calling him Monsieur mon frere, and sincerely assured him that he did not want war and would always love and honor him- yet he set off to join his army, and at every station gave fresh orders to accelerate the movement of his troops from west to east. He went in a traveling coach with six horses, surrounded by pages, aides-de-camp, and an escort, along the road to Posen, Thorn, Danzig, and Konigsberg. At each of these towns thousands of people met him with excitement and enthusiasm.

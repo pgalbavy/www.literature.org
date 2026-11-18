@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Bent Arm And His Band"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-10.html"
 ---
 
 George Starr was so agitated that, forgetting the presence of his little child, he impulsively spoke the truth, while yet a few paces away:

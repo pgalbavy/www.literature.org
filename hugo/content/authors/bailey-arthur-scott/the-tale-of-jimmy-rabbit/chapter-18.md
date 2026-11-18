@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - A Dance Without Music"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-18.html"
 ---
 
 As soon as Tommy Fox began to dance with the strange lady (she was really Fatty Coon, you know), he saw very quickly that she was not a good dancer at all. She kept stepping on Tommy's feet, and tripping him. And Tommy kept wishing that the music would begin, so he could stop dancing. You remember that Jimmy Rabbit had said that this was to be a dance without music, and that everybody had to be blindfolded, too.

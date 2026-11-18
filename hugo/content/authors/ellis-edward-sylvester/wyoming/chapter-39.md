@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39"
 weight: 39
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-39.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-39.html"
 ---
 
 Aunt Peggy Carey "builded better than she knew."

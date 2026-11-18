@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 4 - The Sea-Chest"
 weight: 5
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-01-chapter-04.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-01-chapter-04.html"
 ---
 
 I LOST no time, of course, in telling my mother all that I knew, and perhaps should have told her long before, and we saw ourselves at once in a difficult and dangerous position. Some of the man's money--if he had any--was certainly due to us, but it was not likely that our captain's shipmates, above all the two specimens seen by me, Black Dog and the blind beggar, would be inclined to give up their booty in payment of the dead man's debts. The captain's order to mount at once and ride for Doctor Livesey would have left my mother alone and unprotected, which was not to be thought of. Indeed, it seemed impossible for either of us to remain much longer in the house; the fall of coals in the kitchen grate, the very ticking of the clock, filled us with alarms. The neighbourhood, to our ears, seemed haunted by approaching footsteps; and what between the dead body of the captain on the parlour floor and the thought of that detestable blind beggar hovering near at hand and ready to return, there were moments when, as the saying goes, I jumped in my skin for terror. Something must speedily be resolved upon, and it occurred to us at last to go forth together and seek help in the neighbouring hamlet. No sooner said than done. Bare-headed as we were, we ran out at once in the gathering evening and the frosty fog.

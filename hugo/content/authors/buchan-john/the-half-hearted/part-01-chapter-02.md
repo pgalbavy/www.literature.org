@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 2 - Lady Manorwater's Guests"
 weight: 2
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-01-chapter-02.html"
+url: "/authors/buchan-john/the-half-hearted/part-01-chapter-02.html"
 ---
 
 When the afternoon train from the south drew into Gledsmuir station, a girl who had been devouring the landscape for the last hour with eager eyes, rose nervously to prepare for exit. To Alice Wishart the country was a novel one, and the prospect before her an unexplored realm of guesses. The daughter of a great merchant, she had lived most of her days in the ugly environs of a city, save for such time as she had spent at the conventional schools. She had never travelled; the world of men and things was merely a name to her, and a girlhood, lonely and brightened chiefly by the companionship of books, had not given her self-confidence. She had casually met Lady Manorwater at some political meeting in her father's house, and the elder woman had taken a strong liking to the quiet, abstracted child. Then came an invitation to Glenavelin, accepted gladly yet with much fear and searching of heart. Now, as she looked out on the shining mountain land, she was full of delight that she was about to dwell in the heart of it. Something of pride, too, was present, that she was to be the guest of a great lady, and see something of a life which seemed infinitely remote to her provincial thoughts. But when her journey drew near its end she was foolishly nervous, and scanned the platform with anxious eye.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Half Wrong"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-07.html"
 ---
 
 It was no wonder that Turkey Proudfoot was angry. Everybody in the farmyard was laughing and looking his way--or so it seemed to him.

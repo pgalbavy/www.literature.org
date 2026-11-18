@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Grown Up"
 weight: 9
-aliases:
-  - "/authors/nesbit-edith/five-children-and-it/chapter-09.html"
+url: "/authors/nesbit-edith/five-children-and-it/chapter-09.html"
 ---
 
 Cyril had once pointed out that ordinary life is full of occasions on which a wish would be most useful. And this thought filled his mind when he happened to wake early on the morning after the morning after Robert had wished to be bigger than the baker's boy, and had been it. The day that lay between these two days had been occupied entirely by getting the governess-cart home from Benenhurst.

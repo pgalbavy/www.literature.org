@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Anguish"
 weight: 9
-aliases:
-  - "/authors/leblanc-maurice/the-secret-of-sarek/chapter-08.html"
+url: "/authors/leblanc-maurice/the-secret-of-sarek/chapter-08.html"
 ---
 
 Had Véronique been alone, she would have yielded to one of those moods of despondency which her nature, brave though it was, could not escape in the face of the unrelenting animosity of fate. But in the presence of Stéphane, who she felt to be the weaker and who was certainly exhausted by his captivity, she had the strength to restrain herself and announce, as though mentioning quite an ordinary incident:

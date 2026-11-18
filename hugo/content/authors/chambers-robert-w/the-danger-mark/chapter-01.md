@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Seagraves"
 weight: 1
-aliases:
-  - "/authors/chambers-robert-w/the-danger-mark/chapter-01.html"
+url: "/authors/chambers-robert-w/the-danger-mark/chapter-01.html"
 ---
 
 All day Sunday they had raised the devil from attic to cellar; Mrs. Farren was in tears, Howker desperate. Not one out of the fifteen servants considered necessary to embellish the Seagrave establishment could do anything with them after Kathleen Severn's sudden departure the week before.

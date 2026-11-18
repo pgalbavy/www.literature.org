@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - In The Haven At Last"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-12.html"
 ---
 
 As Captain Bergen descended the rigging to the deck of the schooner he was greatly depressed, for the conviction was strong upon him that in entering this promised land—as he had sometimes termed the little circle of coral and earth which he had named Pearl Island—he would never leave it. The immense wealth which lay hidden along its coast, awaiting the coming of some one to gather it, would never be carried away by those who had already come more than half-way round the globe to garner it.

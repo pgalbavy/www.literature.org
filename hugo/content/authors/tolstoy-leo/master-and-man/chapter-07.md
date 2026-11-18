@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/tolstoy-leo/master-and-man/chapter-07.html"
+url: "/authors/tolstoy-leo/master-and-man/chapter-07.html"
 ---
 
 From the time he had covered himself with the sackcloth and seated himself behind the sledge, Nikita had not stirred. Like all those who live in touch with nature and have known want, he was patient and could wait for hours, even days, without growing restless or irritable. He heard his master call him, but did not answer because he did not want to move or talk. Though he still felt some warmth from the tea he had drunk and from his energetic struggle when clambering about in the snowdrift, he knew that this warmth would not last long and that he had no strength left to warm himself again by moving about, for he felt as tired as a horse when it stops and refuses to go further in spite of the whip, and its master sees that it must be fed before it can work again. The foot in the boot with a hole in it had already grown numb, and he could no longer feel his big toe. Besides that, his whole body began to feel colder and colder.

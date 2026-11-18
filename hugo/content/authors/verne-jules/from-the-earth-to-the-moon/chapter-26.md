@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/verne-jules/from-the-earth-to-the-moon/chapter-26.html"
+url: "/authors/verne-jules/from-the-earth-to-the-moon/chapter-26.html"
 ---
 
 The first of December had arrived! the fatal day! for, if the projectile were not discharged that very night at 10h. 48m. 40s. P.M., more than eighteen years must roll by before the moon would again present herself under the same conditions of zenith and perigee.

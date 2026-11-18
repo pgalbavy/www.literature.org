@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-06.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-06.html"
 ---
 
 During the next four months I did not enter Mrs. Graham's house, nor she mine; but still the ladies continued to talk about her, and still our acquaintance continued, though slowly, to advance. As for their talk, I paid but little attention to that (when it related to the fair hermit, I mean), and the only information I derived from it was, that one fine frosty day she had ventured to take her little boy as far as the vicarage, and that, unfortunately, nobody was at home but Miss Millward; nevertheless, she had sat a long time, and, by all accounts, they had found a good deal to say to each other, and parted with a mutual desire to meet again. But Mary liked children, and fond mammas like those who can duly appreciate their treasures.

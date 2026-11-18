@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Girl Who Took A Dare"
 weight: 1
-aliases:
-  - "/authors/brown-ruth-alberta/heart-of-gold/chapter-01.html"
+url: "/authors/brown-ruth-alberta/heart-of-gold/chapter-01.html"
 ---
 
 "Attention, children! Close copy books and pass them to the right. Monitors, collect."

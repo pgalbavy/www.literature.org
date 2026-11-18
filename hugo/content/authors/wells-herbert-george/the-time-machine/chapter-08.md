@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/wells-herbert-george/the-time-machine/chapter-08.html"
+url: "/authors/wells-herbert-george/the-time-machine/chapter-08.html"
 ---
 
 'I found the Palace of Green Porcelain, when we approached it about noon, deserted and falling into ruin. Only ragged vestiges of glass remained in its windows, and great sheets of the green facing had fallen away from the corroded metallic framework. It lay very high upon a turfy down, and looking north-eastward before I entered it, I was surprised to see a large estuary, or even creek, where I judged Wandsworth and Battersea must once have been. I thought then--though I never followed up the thought--of what might have happened, or might be happening, to the living things in the sea.

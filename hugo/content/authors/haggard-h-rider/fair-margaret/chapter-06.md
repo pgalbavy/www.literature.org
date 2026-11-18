@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Farewell"
 weight: 6
-aliases:
-  - "/authors/haggard-h-rider/fair-margaret/chapter-06.html"
+url: "/authors/haggard-h-rider/fair-margaret/chapter-06.html"
 ---
 
 D'Aguilar came to supper that night as he had promised, and this time not on foot and unattended, but with pomp and circumstance as befitted a great lord. First appeared two running footmen to clear the way; then followed D'Aguilar, mounted on a fine white horse, and splendidly apparelled in a velvet cloak and a hat with nodding ostrich plumes, while after him rode four men-at-arms in his livery.

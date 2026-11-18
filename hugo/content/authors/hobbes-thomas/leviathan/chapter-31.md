@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Of The Kingdome Of God By Nature"
 weight: 33
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-31.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-31.html"
 ---
 
 The Scope Of The Following Chapters That the condition of meer Nature, that is to say, of absolute Liberty, such as is theirs, that neither are Soveraigns, nor Subjects, is Anarchy, and the condition of Warre: That the Praecepts, by which men are guided to avoyd that condition, are the Lawes of Nature: That a Common-wealth, without Soveraign Power, is but a word, without substance, and cannot stand: That Subjects owe to Soveraigns, simple Obedience, in all things, wherein their obedience is not repugnant to the Lawes of God, I have sufficiently proved, in that which I have already written. There wants onely, for the entire knowledge of Civill duty, to know what are those Lawes of God. For without that, a man knows not, when he is commanded any thing by the Civill Power, whether it be contrary to the Law of God, or not: and so, either by too much civill obedience, offends the Divine Majesty, or through feare of offending God, transgresses the commandements of the Common-wealth. To avoyd both these Rocks, it is necessary to know what are the Lawes Divine. And seeing the knowledge of all Law, dependeth on the knowledge of the Soveraign Power; I shall say something in that which followeth, of the KINGDOME OF GOD.

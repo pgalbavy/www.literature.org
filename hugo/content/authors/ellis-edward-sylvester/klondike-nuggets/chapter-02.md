@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - At Juneau"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-02.html"
 ---
 
 Now it is a serious undertaking for any one to make a journey to the gold regions at the headwaters of the Yukon, as every one will admit who has been there. All know of the starvation which threatened the people of Dawson City during the winter of 1897-98, when the whole country was stirred with sympathy, and our Government made use of reindeer to take food to the suffering miners.

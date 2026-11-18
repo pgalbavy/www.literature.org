@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 1 - How The Tide Turned"
 weight: 10
-aliases:
-  - "/authors/hughes-thomas/tom-browns-schooldays/part-02-chapter-01.html"
+url: "/authors/hughes-thomas/tom-browns-schooldays/part-02-chapter-01.html"
 ---
 
 "I [hold] it truth, with him who sings,  

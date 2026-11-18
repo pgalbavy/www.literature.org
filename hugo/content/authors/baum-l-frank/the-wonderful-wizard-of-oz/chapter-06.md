@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Cowardly Lion "
 weight: 7
-aliases:
-  - "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-06.html"
+url: "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-06.html"
 ---
 
 All this time Dorothy and her companions had been walking through the thick woods. The road was still paved with yellow brick, but these were much covered by dried branches and dead leaves from the trees, and the walking was not at all good.

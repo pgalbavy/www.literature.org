@@ -1,8 +1,7 @@
 ---
 title: "Chapter 52 - \u0026quot;If I Could Find A Friend!\u0026quot;"
 weight: 52
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-52.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-52.html"
 ---
 
 Shortly after Miss Ladd had taken her departure, a parcel arrived for Emily, bearing the name of a bookseller printed on the label. It was large, and it was heavy. "Reading enough, I should think, to last for a lifetime," Mrs. Ellmother remarked, after carrying the parcel upstairs.

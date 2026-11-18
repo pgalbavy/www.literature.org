@@ -1,8 +1,7 @@
 ---
 title: "Chapter 68"
 weight: 68
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-68.html"
+url: "/authors/eliot-george/middlemarch/chapter-68.html"
 ---
 
 "What suit of grace hath Virtue to put on If Vice shall wear as good, and do as well? If Wrong, if Craft, if Indiscretion Act as fair parts with ends as laudable? Which all this mighty volume of events The world, the universal map of deeds, Strongly controls, and proves from all descents, That the directest course still best succeeds. For should not grave and learn'd Experience That looks with the eyes of all the world beside, And with all ages holds intelligence, Go safer than Deceit without a guide! - DANIEL: Musophilus.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Bonacieux At Home"
 weight: 18
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-17.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-17.html"
 ---
 
 It was the second time the cardinal had mentioned these diamond studs to the king. Louis XIII was struck with this insistence, and began to fancy that this recommendation concealed some mystery.

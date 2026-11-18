@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-01.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-01.html"
 ---
 
 There is a midland city in the heart of fair, open country, a dirty and wonderful city nesting dingily in the fog of its own smoke. The stranger must feel the dirt before he feels the wonder, for the dirt will be upon him instantly. It will be upon him and within him, since he must breathe it, and he may care for no further proof that wealth is here better loved than cleanliness; but whether he cares or not, the negligently tended streets incessantly press home the point, and so do the flecked and grimy citizens. At a breeze he must smother in the whirlpools of dust, and if he should decline at any time to inhale the smoke he has the meager alternative of suicide.

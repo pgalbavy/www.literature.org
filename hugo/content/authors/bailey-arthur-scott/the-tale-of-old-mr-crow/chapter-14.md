@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Lucky Laugh"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-14.html"
 ---
 
 As the train drew nearer to the tree where Mr. Crow and his friends were waiting, it gave a loud shriek.

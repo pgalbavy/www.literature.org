@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Billy Asks For Pay"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-11.html"
 ---
 
 The next day, at the same hour, Uncle Jerry Chuck went to the big rock. This time he was looking forward to even a longer nap in the sun than he had had the day before. If Billy Woodchuck was willing to listen, without pay, Uncle Jerry was more than willing to let him.

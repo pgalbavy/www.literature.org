@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 2"
 weight: 103
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-04-chapter-02.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-04-chapter-02.html"
 ---
 
 When he got home, Vronsky found there a note from Anna. She wrote, "I am ill and unhappy. I cannot come out, but I cannot go on longer without seeing you. Come in this evening. Alexey Alexandrovitch goes to the council at seven and will be there till ten." Thinking for an instant of the strangeness of her bidding him come straight to her, in spite of her husband's insisting on her not receiving him, he decided to go.

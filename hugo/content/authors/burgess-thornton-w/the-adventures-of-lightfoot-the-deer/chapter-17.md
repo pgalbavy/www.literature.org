@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Sammy Jay Arrives"
 weight: 17
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-17.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-17.html"
 ---
 
 When Reddy Fox arrived at the pond of Paddy the Beaver, the hunter who was hiding there saw him instantly. So did Lightfoot. But no one else did. He approached in that cautious, careful way that he always uses when he is hunting. The instant he reached a place where he could see all over Paddy's pond, he stopped as suddenly as if he had been turned to stone. He stopped with one foot lifted in the act of taking a step. He had seen Mr. and Mrs. Quack.

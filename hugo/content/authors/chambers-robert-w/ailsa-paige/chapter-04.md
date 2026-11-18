@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/chambers-robert-w/ailsa-paige/chapter-04.html"
+url: "/authors/chambers-robert-w/ailsa-paige/chapter-04.html"
 ---
 
 It was almost mid-April; and still the silvery-green tassels on the wistaria showed no hint of the blue petals folded within; but the maples' leafless symmetry was already veined with fire. Faint perfume from Long Island woodlands, wandering puffs of wind from salt meadows freshened the city streets; St. Felix Street boasted a lilac bush in leaf; Oxford Street was gay with hyacinths and a winter-battered butterfly; and in Fort Greene Place the grassy door-yards were exquisite with crocus bloom. Peace, good-will, and spring on earth; but in men's souls a silence as of winter.

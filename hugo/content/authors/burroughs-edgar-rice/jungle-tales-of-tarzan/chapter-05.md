@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Tarzan and the Black Boy"
 weight: 5
-aliases:
-  - "/authors/burroughs-edgar-rice/jungle-tales-of-tarzan/chapter-05.html"
+url: "/authors/burroughs-edgar-rice/jungle-tales-of-tarzan/chapter-05.html"
 ---
 
 TARZAN OF THE Apes sat at the foot of a great tree braiding a new grass rope. Beside him lay the frayed remnants of the old one, torn and severed by the fangs and talons of Sheeta, the panther. Only half the original rope was there, the balance having been carried off by the angry cat as he bounded away through the jungle with the noose still about his savage neck and the loose end dragging among the underbrush.

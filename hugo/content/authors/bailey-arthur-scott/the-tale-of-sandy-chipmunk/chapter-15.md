@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Rowdy Of The Woods"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-15.html"
 ---
 
 One of the most quarrelsome of all Sandy Chipmunk's neighbors was Rowdy Red-Squirrel. He was happiest when he was fighting. But perhaps that was because he had never lost a fight. If Rowdy had had a sound beating, maybe fighting would not have seemed so pleasant to him.

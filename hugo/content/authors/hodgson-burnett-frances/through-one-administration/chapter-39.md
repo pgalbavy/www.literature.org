@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39"
 weight: 39
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-39.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-39.html"
 ---
 
 It had certainly been expected by the public that the morning papers would contain some interesting reading matter, and in some respects these expectations were realized. The ignominious failure of the Westoria land scheme was discussed with freedom and vigor, light being cast upon it from all sides, but upon the subject which had promised most there was a marked silence. Only in one paper there appeared a paragraph--scarcely more--written with much clearness and with a combined reserve and directness which could not fail to carry weight. It was very well done, and said so much in little, and with such unmistakable faith in its own statements and such suggestions of a foundation for that faith, that it was something of a shock to those who had delighted in the most elaborate ornamentation of the original story. In effect it was a denial not only of the ornamentation, but of the story itself, and left the liberal commentator not a fact to stand upon, so that he became temporarily the prey of discouragement and spiritual gloom, which was not a little added to by the events of the day.

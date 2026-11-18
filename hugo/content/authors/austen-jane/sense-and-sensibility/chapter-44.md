@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44"
 weight: 44
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-44.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-44.html"
 ---
 
 Elinor, starting back with a look of horror at the sight of him, obeyed the first impulse of her heart in turning instantly to quit the room, and her hand was already on the lock, when its action was suspended by his hastily advancing, and saying, in a voice rather of command than supplication,

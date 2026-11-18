@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Submerged"
 weight: 3
-aliases:
-  - "/authors/doyle-arthur-conan/the-poison-belt/chapter-03.html"
+url: "/authors/doyle-arthur-conan/the-poison-belt/chapter-03.html"
 ---
 
 The chamber which was destined to be the scene of our unforgettable experience was a charmingly feminine sitting-room, some fourteen or sixteen feet square. At the end of it, divided by a curtain of red velvet, was a small apartment which formed the Professor's dressing-room. This in turn opened into a large bedroom. The curtain was still hanging, but the boudoir and dressing-room could be taken as one chamber for the purposes of our experiment. One door and the window frame had been plastered round with varnished paper so as to be practically sealed. Above the other door, which opened on to the landing, there hung a fanlight which could be drawn by a cord when some ventilation became absolutely necessary. A large shrub in a tub stood in each corner.

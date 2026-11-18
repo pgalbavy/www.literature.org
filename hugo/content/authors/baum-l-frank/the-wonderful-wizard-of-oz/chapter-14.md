@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Winged Monkeys "
 weight: 15
-aliases:
-  - "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-14.html"
+url: "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-14.html"
 ---
 
 You will remember there was no road--not even a pathway-- between the castle of the Wicked Witch and the Emerald City. When the four travelers went in search of the Witch she had seen them coming, and so sent the Winged Monkeys to bring them to her. It was much harder to find their way back through the big fields of buttercups and yellow daisies than it was being carried. They knew, of course, they must go straight east, toward the rising sun; and they started off in the right way. But at noon, when the sun was over their heads, they did not know which was east and which was west, and that was the reason they were lost in the great fields. They kept on walking, however, and at night the moon came out and shone brightly. So they lay down among the sweet smelling yellow flowers and slept soundly until morning-- all but the Scarecrow and the Tin Woodman.

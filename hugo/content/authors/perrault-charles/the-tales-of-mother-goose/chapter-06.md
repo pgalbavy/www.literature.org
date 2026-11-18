@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Blue Beard"
 weight: 7
-aliases:
-  - "/authors/perrault-charles/the-tales-of-mother-goose/chapter-06.html"
+url: "/authors/perrault-charles/the-tales-of-mother-goose/chapter-06.html"
 ---
 
 Once upon a time there was a man who had fine houses, both in town and country, a deal of silver and gold plate, carved furniture, and coaches gilded all over. But unhappily this man had a blue beard, which made him so ugly and so terrible that all the women and girls ran away from him.

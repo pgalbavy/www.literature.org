@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Hound In The Red Jersey"
 weight: 11
-aliases:
-  - "/authors/nesbit-edith/the-railway-children/chapter-11.html"
+url: "/authors/nesbit-edith/the-railway-children/chapter-11.html"
 ---
 
 Bobbie knew the secret now. A sheet of old newspaper wrapped round a parcel - just a little chance like that - had given the secret to her. And she had to go down to tea and pretend that there was nothing the matter. The pretence was bravely made, but it wasn't very successful.

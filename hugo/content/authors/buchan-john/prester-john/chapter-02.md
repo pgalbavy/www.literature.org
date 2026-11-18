@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Furth! Fortune!"
 weight: 3
-aliases:
-  - "/authors/buchan-john/prester-john/chapter-02.html"
+url: "/authors/buchan-john/prester-john/chapter-02.html"
 ---
 
 In this plain story of mine there will be so many wild doings ere the end is reached, that I beg my reader's assent to a prosaic digression. I will tell briefly the things which happened between my sight of the man on the Kirkcaple sands and my voyage to Africa. I continued for three years at the burgh school, where my progress was less notable in my studies than in my sports. One by one I saw my companions pass out of idle boyhood and be set to professions. Tam Dyke on two occasions ran off to sea in the Dutch schooners which used to load with coal in our port; and finally his father gave him his will, and he was apprenticed to the merchant service. Archie Leslie, who was a year my elder, was destined for the law, so he left Kirkcaple for an Edinburgh office, where he was also to take out classes at the college. I remained on at school till I sat alone by myself in the highest class—a position of little dignity and deep loneliness. I had grown a tall, square-set lad, and my prowess at Rugby football was renowned beyond the parishes of Kirkcaple and Portincross. To my father I fear I was a disappointment. He had hoped for something in his son more bookish and sedentary, more like his gentle, studious self.

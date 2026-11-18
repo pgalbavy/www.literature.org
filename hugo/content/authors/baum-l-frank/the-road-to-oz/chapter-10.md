@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/baum-l-frank/the-road-to-oz/chapter-10.html"
+url: "/authors/baum-l-frank/the-road-to-oz/chapter-10.html"
 ---
 
 The shaggy man got up and felt of himself to see if he was hurt; but he was not. One of the heads had struck his breast and the other his left shoulder; yet though they had knocked him down, the heads were not hard enough to bruise him.

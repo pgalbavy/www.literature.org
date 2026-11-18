@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Looking-Glass Insects"
 weight: 3
-aliases:
-  - "/authors/carroll-lewis/through-the-looking-glass/chapter-03.html"
+url: "/authors/carroll-lewis/through-the-looking-glass/chapter-03.html"
 ---
 
 Of course the first thing to do was to make a grand survey of the country she was going to travel through. 'It's something very like learning geography,' thought Alice, as she stood on tiptoe in hopes of being able to see a little further. 'Principal rivers -- there are none. Principal mountains -- I'm on the only one, but I don't think it's got any name. Principal towns -- why, what are those creatures, making honey down there? They can't be bees -- nobody ever saw bees a mile off, you know - - ' and for some time she stood silent, watching one of them that was bustling about among the flowers, poking its proboscis into them, 'just as if it was a regular bee,' thought Alice.

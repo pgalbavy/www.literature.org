@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Thoughts In Prison"
 weight: 11
-aliases:
-  - "/authors/wells-herbert-george/ann-veronica/chapter-11.html"
+url: "/authors/wells-herbert-george/ann-veronica/chapter-11.html"
 ---
 
 The first night in prison she found it impossible to sleep. The bed was hard beyond any experience of hers, the bed-clothes coarse and insufficient, the cell at once cold and stuffy. The little grating in the door, the sense of constant inspection, worried her. She kept opening her eyes and looking at it. She was fatigued physically and mentally, and neither mind nor body could rest. She became aware that at regular intervals a light flashed upon her face and a bodiless eye regarded her, and this, as the night wore on, became a torment. . . .

@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 4 - A Greenwood Company"
 weight: 5
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-01-chapter-04.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-01-chapter-04.html"
 ---
 
 Matcham was well rested and revived; and the two lads, winged by what Dick had seen, hurried through the remainder of the outwood, crossed the road in safety, and began to mount into the high ground of Tunstall Forest. The trees grew more and more in groves, with healthy places in between, sandy, gorsy, and dotted with old yews. The ground became more and more uneven, full of pits and hillocks. And with every step of the ascent the wind still blew the shriller, and the trees bent before the gusts like fishing-rods.

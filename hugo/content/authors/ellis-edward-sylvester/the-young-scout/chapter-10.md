@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Eavesdropper"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-scout/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-10.html"
 ---
 
 It would be hard to explain the course of the Apache horseman. It looked at first as if he had been aware of the presence of the scout for some, and was trifling with him, as a cat sometimes toys with a mouse before crunching it in her jaws, but the peculiar circumstances forbids this explanation.

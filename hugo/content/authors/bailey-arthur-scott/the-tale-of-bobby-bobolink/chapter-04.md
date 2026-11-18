@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Singing For Some One"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-04.html"
 ---
 
 THE first few days of early May had passed and with them had flitted--somewhere--most of the jolly company in which Bobby Bobolink had journeyed from the South. But a few of those merrymakers had stayed--as Bobby did--in Farmer Green's meadow. They had made up their minds to spend the summer in Pleasant Valley.

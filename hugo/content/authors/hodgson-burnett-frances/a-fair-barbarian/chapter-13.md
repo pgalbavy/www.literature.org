@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Intentions"
 weight: 13
-aliases:
-  - "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-13.html"
+url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-13.html"
 ---
 
 The position in which Lady Theobald found herself placed, after these occurrences, was certainly a difficult and unpleasant one. It was Mr. Francis Barold's caprice, for the time being, to develop an intimacy with Mr. Burmistone. He had, it seemed, chosen to become interested in him during their sojourn at Broadoaks. He had discovered him to be a desirable companion, and a clever, amiable fellow. This much he condescended to explain incidentally to her ladyship's self.

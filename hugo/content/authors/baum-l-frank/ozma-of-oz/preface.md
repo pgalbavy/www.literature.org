@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/baum-l-frank/ozma-of-oz/preface.html"
+url: "/authors/baum-l-frank/ozma-of-oz/preface.html"
 ---
 
 <BLOCKQUOTE A Record of Her Adventures with Dorothy Gale of Kansas, the Yellow Hen, the Scarecrow, the Tin Woodman, Tiktok, the Cowardly Lion and the Hungry Tiger; Besides Other Good People too Numerous to Mention Faithfully Recorded Herein

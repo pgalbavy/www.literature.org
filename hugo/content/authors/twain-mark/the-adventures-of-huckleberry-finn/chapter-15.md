@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-15.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-15.html"
 ---
 
 WE judged that three nights more would fetch us to Cairo, at the bottom of Illinois, where the Ohio River comes in, and that was what we was after. We would sell the raft and get on a steamboat and go way up the Ohio amongst the free States, and then be out of trouble.

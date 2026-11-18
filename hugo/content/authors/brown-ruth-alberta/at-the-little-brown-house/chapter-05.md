@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Sackcloth And Ashes"
 weight: 5
-aliases:
-  - "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-05.html"
+url: "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-05.html"
 ---
 
 Just at dusk one cold, rainy night late in August, a shabby, weary, wet, old man plodded through the dripping woods, across the stone bridge, and up the road toward Parker. He had come a long way through mud and moisture, and was very tired, yet the first three farmhouses he passed by with scarcely a glance. But as he neared the fourth one, he eagerly scanned the place as if familiar with its surroundings, and listened intently for the sound of voices, seeming disappointed at the result, for apparently not a creature was stirring indoors or out. Not even old Towzer came to challenge him as he unlatched the gate and approached the house, and not a ray of light shone out into the darkness from window or door, though it was yet early evening. The place was as silent as a grave. Puzzled, the man made a circuit of the cottage, but neither saw nor heard anything of the occupants.

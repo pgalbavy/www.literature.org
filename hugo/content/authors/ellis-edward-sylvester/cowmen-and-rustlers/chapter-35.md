@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - Conclusion"
 weight: 35
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-35.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-35.html"
 ---
 
 "Now, Jack, do your best, for everything depends on you."

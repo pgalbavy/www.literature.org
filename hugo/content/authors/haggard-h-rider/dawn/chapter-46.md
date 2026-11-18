@@ -1,8 +1,7 @@
 ---
 title: "Chapter 46"
 weight: 47
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-46.html"
+url: "/authors/haggard-h-rider/dawn/chapter-46.html"
 ---
 
 The departure of the Bellamys left Arthur in very low spirits. His sensations were similar to those which one can well imagine an ancient Greek might have experienced who, having sent to consult the Delphic oracle, had got for his pains a very unsatisfactory reply, foreshadowing evils but not actually defining them. Lady Bellamy was in some way connected with the idea of an oracle in his mind. She looked oracular. Her dark face and inscrutable eyes, the stamp of power upon her brow, all suggested that she was a mistress of the black arts. Her words, too, were mysterious, and fraught with bitter wisdom and a deep knowledge distilled from the poisonous weeds of life.

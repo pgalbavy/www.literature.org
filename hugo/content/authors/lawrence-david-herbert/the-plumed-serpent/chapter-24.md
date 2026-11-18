@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Malintzi"
 weight: 24
-aliases:
-  - "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-24.html"
+url: "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-24.html"
 ---
 
 When the women were shut out of the church, Kate went home gloomy and uneasy. The executions shocked and depressed her. She knew that Ramón and Cipriano did deliberately what they did: they believed in their deeds, they acted with all their conscience. And as men, probably they were right.

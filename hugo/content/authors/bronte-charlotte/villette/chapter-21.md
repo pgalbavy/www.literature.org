@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Reaction"
 weight: 21
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-21.html"
+url: "/authors/bronte-charlotte/villette/chapter-21.html"
 ---
 
 Yet three days, and then I must go back to the pensionnat. I almost numbered the moments of these days upon the clock; fain would I have retarded their flight; but they glided by while I watched them: they were already gone while I yet feared their departure.

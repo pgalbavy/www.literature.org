@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 26"
 weight: 216
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-26.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-26.html"
 ---
 
 On August 25, the eve of the battle of Borodino, M. de Beausset, prefect of the French Emperor's palace, arrived at Napoleon's quarters at Valuevo with Colonel Fabvier, the former from Paris and the latter from Madrid.

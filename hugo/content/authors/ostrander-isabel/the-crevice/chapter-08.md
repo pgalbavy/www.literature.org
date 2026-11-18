@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Guy Morrow Faces A Problem"
 weight: 8
-aliases:
-  - "/authors/ostrander-isabel/the-crevice/chapter-08.html"
+url: "/authors/ostrander-isabel/the-crevice/chapter-08.html"
 ---
 
 Morrow, meanwhile, had slowly become aware that he had a problem of his own to face, the biggest of his life. Should he go on with his work? In the event that James Brunell proved, indeed, to be guilty of the forgeries of which he was suspected by the Master Mind, it would mean that he, Morrow, would have betrayed the father of the girl he felt himself beginning to care for. Dared he face such a tremendous issue?

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Story Of The Trial. The Preliminaries"
 weight: 15
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-15.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-15.html"
 ---
 
 LET me confess another weakness, on my part, before I begin the Story of the Trial. I cannot prevail upon myself to copy, for the second time, the horrible title-page which holds up to public ignominy my husband's name. I have copied it once in my tenth chapter. Let once be enough.

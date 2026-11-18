@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 15"
 weight: 205
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-15.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-15.html"
 ---
 
 On receiving command of the armies Kutuzov remembered Prince Andrew and sent an order for him to report at headquarters.

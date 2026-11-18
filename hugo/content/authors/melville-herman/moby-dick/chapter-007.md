@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Chapel"
 weight: 7
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-007.html"
+url: "/authors/melville-herman/moby-dick/chapter-007.html"
 ---
 
 In this same New Bedford there stands a Whaleman's Chapel, and few are the moody fishermen, shortly bound for the Indian Ocean or Pacific, who fail to make a Sunday visit to the spot. I am sure that I did not.

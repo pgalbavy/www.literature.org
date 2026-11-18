@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Watching And Waiting"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-20.html"
 ---
 
 What imaginings were driven into the head of the ruffian by the well-directed missile it would be impossible to say, but it is safe to conclude he was startled.

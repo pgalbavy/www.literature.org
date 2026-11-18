@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Silver Treasure"
 weight: 9
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/chapter-08.html"
+url: "/authors/coolidge-dane/silver-and-gold/chapter-08.html"
 ---
 
 As evening came on and the red eye of the sun winked and closed behind a purple range of mountains Denver Russell came out of his cliff-dwelling cave and looked at the old town below. Mysterious shadows were gathering among the ruins, the white walls stood out ghostly and still, and as a breeze stirred the clacking leaves of the sycamores a voice mounted up like a bird's. It rose slowly and descended, it ran rippling arpeggios and lingered in flute-like trills; but it was colorless, impersonal, void of feeling.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-26.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-26.html"
 ---
 
 Surgeon-Major Thomson reeled for a moment and caught at the paling by his side. Then he recovered himself almost as quickly, and, leaning forward, gazed eagerly at the long, grey racing-car which was already passing Buckingham Palace and almost out of sight in the slight morning fog. There was a very small cloud of white smoke drifting away into space, and a faint smell of gunpowder in the air. He felt his cheek and, withdrawing his fingers, gazed at them with a little nervous laugh--they were wet with blood.

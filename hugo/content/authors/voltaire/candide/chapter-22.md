@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - What Happened to Candide and Martin in France"
 weight: 22
-aliases:
-  - "/authors/voltaire/candide/chapter-22.html"
+url: "/authors/voltaire/candide/chapter-22.html"
 ---
 
 Candide stayed no longer at Bordeaux than was necessary to dispose of a few of the pebbles he had brought from El Dorado, and to provide himself with a post-chaise for two persons, for he could no longer stir a step without his philosopher Martin. The only thing that give him concern was being obliged to leave his sheep behind him, which he intrusted to the care of the Academy of Sciences at Bordeaux, who proposed, as a prize subject for the year, to prove why the wool of this sheep was red; and the prize was adjudged to a northern sage, who demonstrated by A plus B, minus C, divided by Z, that the sheep must necessarily be red, and die of the mange.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Changing Places"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-11.html"
 ---
 
 The triumph of the colored servant Dinah over the Comanche incendiary may be described as overwhelming in its way.

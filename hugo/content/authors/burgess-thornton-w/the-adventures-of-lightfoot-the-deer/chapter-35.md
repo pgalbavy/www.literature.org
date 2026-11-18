@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - Lightfoot Is Reckless"
 weight: 35
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-35.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-35.html"
 ---
 
 In his search for the new stranger who had come to the Green Forest, Lightfoot the Deer was wholly reckless. He no longer stole like a gray shadow from thicket to thicket as he had done when searching for the beautiful stranger with the dainty feet. He bounded along, careless of how much noise he made. From time to time he would stop to whistle a challenge and to clash his horns against the trees and stamp the ground with his feet.

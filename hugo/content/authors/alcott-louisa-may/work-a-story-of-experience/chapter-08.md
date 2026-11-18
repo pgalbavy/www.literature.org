@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Cure For Despair"
 weight: 8
-aliases:
-  - "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-08.html"
+url: "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-08.html"
 ---
 
 LISHA WILKINS.

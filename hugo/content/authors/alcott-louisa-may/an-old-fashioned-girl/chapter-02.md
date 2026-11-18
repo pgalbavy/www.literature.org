@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - New Fashions"
 weight: 3
-aliases:
-  - "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-02.html"
+url: "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-02.html"
 ---
 
 “I'M going to school this morning; so come up and get ready,” said Fanny, a day or two after, as she left the late breakfast-table.

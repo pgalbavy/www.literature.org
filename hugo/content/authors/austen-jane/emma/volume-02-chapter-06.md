@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 6"
 weight: 24
-aliases:
-  - "/authors/austen-jane/emma/volume-02-chapter-06.html"
+url: "/authors/austen-jane/emma/volume-02-chapter-06.html"
 ---
 
 The next morning brought Mr. Frank Churchill again. He came with Mrs. Weston, to whom and to Highbury he seemed to take very cordially. He had been sitting with her, it appeared, most companionably at home, till her usual hour of exercise; and on being desired to chuse their walk, immediately fixed on Highbury.--“He did not doubt there being very pleasant walks in every direction, but if left to him, he should always chuse the same. Highbury, that airy, cheerful, happy-looking Highbury, would be his constant attraction.”--Highbury, with Mrs. Weston, stood for Hartfield; and she trusted to its bearing the same construction with him. They walked thither directly.

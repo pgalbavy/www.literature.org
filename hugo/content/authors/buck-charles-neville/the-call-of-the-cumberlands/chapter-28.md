@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-28.html"
+url: "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-28.html"
 ---
 
 Callomb spent the night at the house of Spicer South. He met and talked with a number of the kinsmen, and, if he read in the eyes of some of them a smoldering and unforgiving remembrance of his unkept pledge, at least they repressed all expression of censure.

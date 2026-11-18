@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/baum-l-frank/ozma-of-oz/chapter-14.html"
+url: "/authors/baum-l-frank/ozma-of-oz/chapter-14.html"
 ---
 
 Meantime the Chief Steward had returned to the throne room, where he said to the King:

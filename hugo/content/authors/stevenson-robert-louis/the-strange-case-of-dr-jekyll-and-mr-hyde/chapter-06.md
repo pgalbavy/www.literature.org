@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Incident Of Dr. Lanyon"
 weight: 6
-aliases:
-  - "/authors/stevenson-robert-louis/the-strange-case-of-dr-jekyll-and-mr-hyde/chapter-06.html"
+url: "/authors/stevenson-robert-louis/the-strange-case-of-dr-jekyll-and-mr-hyde/chapter-06.html"
 ---
 
 Time ran on; thousands of pounds were offered in reward, for the death of Sir Danvers was resented as a public injury; but Mr. Hyde had disappeared out of the ken of the police as though he had never existed. Much of his past was unearthed, indeed, and all disreputable: tales came out of the man’s cruelty, at once so callous and violent; of his vile life, of his strange associates, of the hatred that seemed to have surrounded his career; but of his present whereabouts, not a whisper. From the time he had left the house in Soho on the morning of the murder, he was simply blotted out; and gradually, as time drew on, Mr. Utterson began to recover from the hotness of his alarm, and to grow more at quiet with himself. The death of Sir Danvers was, to his way of thinking, more than paid for by the disappearance of Mr. Hyde. Now that that evil influence had been withdrawn, a new life began for Dr. Jekyll. He came out of his seclusion, renewed relations with his friends, became once more their familiar guest and entertainer; and whilst he had always been known for charities, he was now no less distinguished for religion. He was busy, he was much in the open air, he did good; his face seemed to open and brighten, as if with an inward consciousness of service; and for more than two months, the doctor was at peace.

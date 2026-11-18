@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/wells-herbert-george/the-time-machine/chapter-04.html"
+url: "/authors/wells-herbert-george/the-time-machine/chapter-04.html"
 ---
 
 'In another moment we were standing face to face, I and this fragile thing out of futurity. He came straight up to me and laughed into my eyes. The absence from his bearing of any sign of fear struck me at once. Then he turned to the two others who were following him and spoke to them in a strange and very sweet and liquid tongue.

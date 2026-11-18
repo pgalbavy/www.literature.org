@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44 - Arthur's Return"
 weight: 44
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-44.html"
+url: "/authors/eliot-george/adam-bede/chapter-44.html"
 ---
 
 When Arthur Donnithorne landed at Liverpool and read the letter from his Aunt Lydia, briefly announcing his grand-father's death, his first feeling was, "Poor Grandfather! I wish I could have got to him to be with him when he died. He might have felt or wished something at the last that I shall never know now. It was a lonely death."

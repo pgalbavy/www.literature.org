@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - The Burglar Baffled"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-26.html"
 ---
 
 *USUALLY* Tom slept with the revolver under his pillow. This night he had neglected to do so. Even had it been there, however, it would have been as much as his life was worth to reach for it, as the motion would have been at once understood by the ruffian, who stood over him with a knife in his hand.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Fresh Suspicions"
 weight: 8
-aliases:
-  - "/authors/christie-agatha/the-mysterious-affair-at-styles/chapter-08.html"
+url: "/authors/christie-agatha/the-mysterious-affair-at-styles/chapter-08.html"
 ---
 
 There was a moment’s stupefied silence. Japp, who was the least surprised of any of us, was the first to speak.

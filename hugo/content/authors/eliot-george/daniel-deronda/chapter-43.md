@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43"
 weight: 43
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-43.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-43.html"
 ---
 
 "My spirit is too weak; mortality Weighs heavily on me like unwilling sleep, And each imagined pinnacle and steep Of godlike hardship tells me I must die Like a sick eagle looking at the sky." - KEATS.

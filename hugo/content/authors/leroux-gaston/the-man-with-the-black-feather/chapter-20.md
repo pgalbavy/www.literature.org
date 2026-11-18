@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Strange Behaviour Of An Express Train"
 weight: 21
-aliases:
-  - "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-20.html"
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-20.html"
 ---
 
 That profound sadness was destined to affect seriously the future of Theophrastus. As he made his way over the roofs of Gerando Street, it increased to such a paralysing intensity that presently he sat down on the edge of a roof, with his legs dangling over the street, and plunged into the bitterest reflections. The result of this unwise action was that he caught a severe cold.

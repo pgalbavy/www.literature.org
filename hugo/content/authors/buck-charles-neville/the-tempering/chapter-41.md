@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41"
 weight: 41
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-41.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-41.html"
 ---
 
 Had Tom Carr chosen to sit in a penitential spirit, reviewing his life, he might, perhaps, have been forced to acknowledge a record tarnished with misdeeds, but his conscience would have remained clear of that most depressing sin--bungling the undertaking to which he had set his hand. Even his delegated murders had been accomplished with tidy and praiseworthy dispatch. Now he had collaborated with a bungler and harvested a dilemma. Saul Fulton had selected an executioner whose rifle ball had targeted itself in a breast not marked for death--yet one which would none the less cry out for vengeance. Above all, the contretemps had proven most ill-timed, since it coincided with Asa's pardon and return.

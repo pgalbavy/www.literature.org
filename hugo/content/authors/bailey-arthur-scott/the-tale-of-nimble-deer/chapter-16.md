@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Mr. Crow Looks On"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-16.html"
 ---
 
 Nimble and his friend Dodger the Deer picked themselves up off the ground where they had fallen after their collision in the air. They did not feel any too pleasant. One of Dodger's sharp tines had given Nimble a good prick. And one of Nimble's points had stung Dodger like a hornet's sting.

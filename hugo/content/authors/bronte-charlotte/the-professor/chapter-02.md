@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/bronte-charlotte/the-professor/chapter-02.html"
+url: "/authors/bronte-charlotte/the-professor/chapter-02.html"
 ---
 
 A FINE October morning succeeded to the foggy evening that had witnessed my first introduction to Crimsworth Hall. I was early up and walking in the large park-like meadow surrounding the house. The autumn sun, rising over the ----shire hills, disclosed a pleasant country; woods brown and mellow varied the fields from which the harvest had been lately carried; a river, gliding between the woods, caught on its surface the somewhat cold gleam of the October sun and sky; at frequent intervals along the banks of the river, tall, cylindrical chimneys, almost like slender round towers, indicated the factories which the trees half concealed; here and there mansions, similar to Crimsworth Hall, occupied agreeable sites on the hill-side; the country wore, on the whole, a cheerful, active, fertile look. Steam, trade, machinery had long banished from it all romance and seclusion. At a distance of five miles, a valley, opening between the low hills, held in its cups the great town of X----. A dense, permanent vapour brooded over this locality--there lay Edward's "Concern."

@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 1"
 weight: 9
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-02-chapter-01.html"
+url: "/authors/haggard-h-rider/cleopatra/book-02-chapter-01.html"
 ---
 
 OF THE FAREWELL OF AMENEMHAT TO HARMACHIS; OF THE COMING OF HARMACHIS TO ALEXANDRIA; OF THE EXHORTATION OF SEPA; OF THE PASSING OF CLEOPATRA ROBED AS ISIS; AND OF THE OVERTHROW OF THE GLADIATOR BY HARMACHIS

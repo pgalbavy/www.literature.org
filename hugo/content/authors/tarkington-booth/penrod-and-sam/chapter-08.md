@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Salvage"
 weight: 8
-aliases:
-  - "/authors/tarkington-booth/penrod-and-sam/chapter-08.html"
+url: "/authors/tarkington-booth/penrod-and-sam/chapter-08.html"
 ---
 
 The two boys shrieked with excitement as they beheld the coincidence of this strange return. They burst into the stable, making almost as much noise as Duke, who had become frantic at the invasion. Sam laid hands upon a rake.

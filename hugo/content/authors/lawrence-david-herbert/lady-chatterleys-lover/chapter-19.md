@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-19.html"
+url: "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-19.html"
 ---
 
 Dear Clifford, I am afraid what you foresaw has happened. I am really in love with another man, and do hope you will divorce me. I am staying at present with Duncan its his flat. I told you he was at Venice with us. I'm awfully unhappy for your sake: but do try to take it quietly. You don't really need me any more, and I can't bear to come back to Wragby. I'm awfully sorry. But do try to forgive me, and divorce me and find someone better. I'm not really the right person for you, I am too impatient and selfish, I suppose. But I can't ever come back to live with you again. And I feel so frightfully sorry about it all, for your sake. But if you don't let yourself get worked up, you'll see you won't mind so frightfully. You didn't really care about me personally. So do forgive me and get rid of me.

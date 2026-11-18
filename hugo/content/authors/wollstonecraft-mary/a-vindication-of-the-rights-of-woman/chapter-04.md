@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Observations On The State Of Degradation To Which Woman Is Reduced By Various Causes"
 weight: 5
-aliases:
-  - "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/chapter-04.html"
+url: "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/chapter-04.html"
 ---
 
 That woman is naturally weak, or degraded by a concurrence of circumstances is, I think, clear. But this position I shall simply contrast with a conclusion, which I have frequently heard fall from sensible men in favour of an aristocracy: that the mass of mankind cannot be any thing, or the obsequious slaves, who patiently allow themselves to be penned up, would feel their own consequence, and spurn their chains. Men, they further observe, submit every where to oppression, when they have only to lift up their heads to throw off the yoke; yet, instead of asserting their birthright, they quietly lick the dust, and say, let us eat and drink, for to-morrow we die. Women, I argue from analogy, are degraded by the same propensity to enjoy the present moment; and, at last, despise the freedom which they have not sufficient virtue to struggle to attain. But I must be more explicit.

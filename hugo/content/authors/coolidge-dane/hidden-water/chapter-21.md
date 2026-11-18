@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Flood"
 weight: 21
-aliases:
-  - "/authors/coolidge-dane/hidden-water/chapter-21.html"
+url: "/authors/coolidge-dane/hidden-water/chapter-21.html"
 ---
 
 The rain came to Hidden Water in great drops, warmed by the sultry air. At the first flurry the dust rose up like smoke, and the earth hissed; then as the storm burst in tropic fury the ground was struck flat, the dust-holes caught the rush of water and held it in sudden puddles that merged into pools and rivulets and glided swiftly away. Like a famine-stricken creature, the parched earth could not drink; its bone-dry dust set like cement beneath the too generous flood and refused to take it in--and still the rain came down in sluicing torrents that never stayed or slackened. The cracked dirt of the ramada roof dissolved and fell away, and the stick frame leaked like a sieve. The rain wind, howling and rumbling through the framework, hurled the water to the very door where Hardy stood, and as it touched his face, a wild, animal exultation overcame him and he dashed out into the midst of it. God, it was good to feel the splash of rain again, to lean against the wind, and to smell the wet and mud! He wandered about through it recklessly, now bringing in his saddle and bedding, now going out to talk with his horse, at last simply standing with his hands outstretched while his whole being gloried in the storm.
