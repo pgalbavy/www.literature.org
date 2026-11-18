@@ -1,0 +1,52 @@
+---
+title: "Chapter 1 - The Spotted Fawn"
+weight: 1
+aliases:
+  - "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-01.html"
+---
+
+When Nimble's mother first looked at him she couldn't believe she would ever be able to raise him. He was such a tiny, frail, spotted thing that he seemed too delicate for a life of adventure on the wooded ridges and in the tangled swamps under the shadow of Blue Mountain.
+
+"Bless me!" cried the good lady. "This child's not much taller than an overgrown beet top and he can't be any heavier than one of Farmer Green's prize cabbages. And his legs--" she exclaimed--"his legs are no thicker than pea pods.... They'll be ready to eat in another month," she added, meaning not her child's legs, as you might have supposed, but Farmer Green's early June peas. For Nimble's mother was very fond of certain vegetables that did not grow wild in the woods.
+
+Of course young Nimble did not know what she was talking about. He had a great deal to learn. And he would have to wait until he was a good deal bigger before his mother took him on an excursion, by night, across the fields to Farmer Green's garden patch.
+
+All at once Nimble leaped quickly upon his slightly wobbly legs. He trembled and gazed up at his mother with a look of fear in his great eyes. At the same time his mother, too, lifted her head and listened for a few moments. "Don't be afraid!" she said then, to Nimble. "That's old Spot--Farmer Green's dog--barking. But he's down near the barns, so we don't need to worry."
+
+That was the first time Nimble had ever heard a dog's voice. Yet no one needed to tell him that it wasn't a pleasant sound.
+
+Even his mother couldn't help feeling that she had better put a wide stretch of rough country between her new youngster and old Spot's home. So in a little while she led the way slowly along the pine grown ridge which bent around a shoulder of the mountain. She was headed for the spring which marked the beginning of Broad Brook.
+
+Her little spotted fawn, Nimble, kept close beside her. Slowly as his mother moved, he found the traveling none too easy. And he was glad when she stopped in a pocket-like clearing. There she spoke to a proud speckled bird who was sitting on a log and amusing himself by spreading his tail feathers into a beautiful fan.
+
+"Good morning, Mr. Grouse!" said Nimble's mother.
+
+"Good morning, madam!" replied the gentleman with the fan. "What a handsome child you have! There's nothing quite like spots--or speckles--to add to a person's looks."
+
+"They are pretty," Nimble's mother agreed with a happy glance at her son.
+
+"I can't say he favors his mother," Mr. Grouse remarked.
+
+"Oh, I had spots enough when I was young," she explained. "You see, all our family lose our spots as we grow up."
+
+"I'm glad to say," Mr. Grouse said with a flirt of his tail, "that all our family keep their spots, every one of them."
+
+"We get to be so swift-footed that we don't need spots," said Nimble's mother.
+
+That speech seemed to displease Mr. Grouse.
+
+"I hope," he cried, "you don't mean to say that we Grouse aren't swift!"
+
+"No, indeed!" Nimble's mother answered hastily.
+
+"I should hope not!" was Mr. Grouse's response to that. "For everybody knows that we go up like rockets at the slightest sign of danger."
+
+"Exactly!" said Nimble's mother. "You are so swift that you don't really need those spots to help conceal yourself, once you're grown up."
+
+"They're handy to have, all the same," he told her. "And as for this youngster of yours, you needn't worry much about him. He'll be safe enough in the woods. He looks just like a patch of sunlight that has fallen through a tree top upon a leaf-strewn bank."
+
+Nimble's mother was pleased to hear that.
+
+"Yes!" said Mr. Grouse cheerfully. "He'll be safe enough--except for the Foxes."
+
+And that remark didn't please Nimble's mother at all.

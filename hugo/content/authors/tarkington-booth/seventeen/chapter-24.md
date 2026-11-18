@@ -1,0 +1,176 @@
+---
+title: "Chapter 24 - Clothes Make The Man"
+weight: 24
+aliases:
+  - "/authors/tarkington-booth/seventeen/chapter-24.html"
+---
+
+Mrs. Baxter was troubled. During the afternoon she glanced often from the open window of the room where she had gone to sew, but the peaceful neighborhood continued to be peaceful, and no sound of the harassed footsteps of William echoed from the pavement. However, she saw Genesis arrive (in his weekday costume) to do some weeding, and Jane immediately skip forth for mingled purposes of observation and conversation.
+
+"What DO they say?" thought Mrs. Baxter, observing that both Jane and Genesis were unusually animated. But for once that perplexity was to be dispersed. After an exciting half-hour Jane came flying to her mother, breathless.
+
+"Mamma," she cried, "I know where Willie is! Genesis told me, 'cause he saw him, an' he talked to him while he was doin' it."
+
+"Doing what? Where?"
+
+"Mamma, listen! What you think Willie's doin'? I bet you can't g—"
+
+"Jane!" Mrs Baxter spoke sharply. "Tell me what Genesis said, at once."
+
+"Yes'm. Willie's sittin' in a lumber-yard that Genesis comes by on his way from over on the avynoo where all the colored people live—an' he's countin' knot-holes in shingles."
+
+"He is *WHAT*?"
+
+"Yes'm. Genesis knows all about it, because he was thinkin' of doin' it himself, only he says it would be too slow. This is the way it is, mamma. Listen, mamma, because this is just exackly the way it is. Well, this lumber-yard man got into some sort of a fuss because he bought millions an' millions of shingles, mamma, that had too many knots in, an' the man don't want to pay for 'em, or else the store where he bought 'em won't take 'em back, an' they got to prove how many shingles are bad shingles, or somep'm, an' anyway, mamma, that's what Willie's doin'. Every time he comes to a bad shingle, mamma, he puts it somewheres else, or somep'm like that, mamma, an' every time he's put a thousand bad shingles in this other place they give him six cents. He gets the six cents to keep, mamma—an' that's what he's been doin' all day!"
+
+"Good gracious!"
+
+"Oh, but that's nothing, mamma—just you wait till you hear the rest. *THAT* part of it isn't anything a *TALL,* mamma! You wouldn't hardly notice that part of it if you knew the other part of it, mamma. Why, that isn't *ANYTHING!"* Jane made demonstrations of scorn for the insignificant information already imparted.
+
+"Jane!"
+
+"Yes'm?"
+
+"I want to know everything Genesis told you," said her mother, "and I want you to tell it as quickly as you can."
+
+"Well, I AM tellin' it, mamma!" Jane protested. "I'm just *BEGINNING* to tell it. I can't tell it unless there's a beginning, can I? How could there be *ANYTHING* unless you had to begin it, mamma?"
+
+"Try your best to go on, Jane!"
+
+"Yes'm. Well, Genesis says —Mamma!" Jane interrupted herself with a little outcry. "Oh! I bet *THAT'S* what he had those two market-baskets for! Yes, sir! That's just what he did! An' then he needed the rest o' the money an' you an' papa wouldn't give him any, an' so he began countin' shingles to-day 'cause to-night's the night of the party an' he just *HASS* to have it!"
+
+Mrs. Baxter, who had risen to her feet, recalled the episode of the baskets and sank into a chair. "How did Genesis know Willie wanted forty dollars, and if Willie's pawned something how did Genesis know *THAT?* Did Willie tell Gen—"
+
+"Oh no, mamma, Willie didn't want forty dollars—only fourteen!"
+
+"But he couldn't get even the cheapest readymade dress-suit for fourteen dollars."
+
+"Mamma, you're gettin' it all mixed up!" Jane cried. "Listen, mamma! Genesis knows all about a second-hand store over on the avynoo; an' it keeps 'most everything, an' Genesis says it's the nicest store! It keeps waiter suits all the way up to nineteen dollars and ninety-nine cents. Well, an' Genesis wants to get one of those suits, so he goes in there all the time, an' talks to the man an' bargains an' bargains with him, 'cause Genesis says this man is the bargainest man in the wide worl', mamma! That's what Genesis says. Well, an' so this man's name is One-eye Beljus, mamma. That's his name, an' Genesis says so. Well, an' so this man that Genesis told me about, that keeps the store —I mean One-eye Beljus, mamma—well, One-eye Beljus had Willie's name written down in a book, an' he knew Genesis worked for fam'lies that have boys like Willie in 'em, an' this morning One-eye Beljus showed Genesis Willie's name written down in this book, an' One-eye Beljus asked Genesis if he knew anybody by that name an' all about him. Well, an' so at first Genesis pretended he was tryin' to remember, because he wanted to find out what Willie went there for. Genesis didn't tell any stories, mamma; he just pretended he couldn't remember, an' so, well, One-eye Beljus kept talkin' an' pretty soon Genesis found out all about it. One-eye Beljus said Willie came in there an' tried on the coat of one of those waiter suits—"
+
+"Oh no!" gasped Mrs. Baxter.
+
+"Yes'm, an' One-eye Beljus said it was the only one that would fit Willie, an' One-eye Beljus told Willie that suit was worth fourteen dollars, an' Willie said he didn't have any money, but he'd like to trade something else for it. Well, an' so One-eye Beljus said this was an awful fine suit an' the only one he had that had b'longed to a white gentleman. Well, an' so they bargained, an' bargained, an' bargained, an' *BARGAINED!* An' then, well, an' so at last Willie said he'd go an' get everything that b'longed to him, an' One-eye Beljus could pick out enough to make fourteen dollars' worth, an' then Willie could have the suit. Well, an' so Willie came home an' put everything he had that b'longed to him into those two baskets, mamma—that's just what he did, 'cause Genesis says he told One-eye Beljus it was everything that b'longed to him, an' that would take two baskets, mamma. Well, then, an' so he told One-eye Beljus to pick out fourteen dollars' worth, an' One-eye Beljus ast Willie if he didn't have a watch. Well, Willie took out his watch an' One-eye Beljus said it was an awful bad watch, but he would put it in for a dollar; an' he said, 'I'll put your necktie pin in for forty cents more,' so Willie took it out of his necktie an' then One-eye Beljus said it would take all the things in the baskets to make I forget how much, mamma, an' the watch would be a dollar more, an' the pin forty cents, an' that would leave just three dollars an' sixty cents more for Willie to pay before he could get the suit."
+
+Mrs. Baxter's face had become suffused with high color, but she wished to know all that Genesis had said, and, mastering her feelings with an effort, she told Jane to proceed—a command obeyed after Jane had taken several long breaths.
+
+"Well, an' so the worst part of it is, Genesis says, it's because that suit is haunted."
+
+"What!"
+
+"Yes'm," said Jane, solemnly; "Genesis says it's haunted. Genesis says everybody over on the avynoo knows all about that suit, an' he says that's why One-eye Beljus never could sell it before. Genesis says One-eye Beljus tried to sell it to a colored man for three dollars, but the man said he wouldn't put in on for three hunderd dollars, an' Genesis says HE wouldn't, either, because it belonged to a Dago waiter that—that—" Jane's voice sank to a whisper of unctuous horror. She was having a wonderful time! "Mamma, this Dago waiter, he lived over on the avynoo, an' he took a case-knife he'd sharpened —AN' HE *CUT A LADY'S HEAD OFF WITH IT*!"
+
+Mrs. Baxter screamed faintly.
+
+"An' he got hung, mamma! If you don't believe it, you can ask One-eye Beljus —I guess HE knows! An' you can ask—"
+
+"Hush!"
+
+"An' he sold this suit to One-eye Beljus when he was in jail, mamma. He sold it to him before he got hung, mamma."
+
+"Hush, Jane!"
+
+But Jane couldn't hush now. "An' he had that suit on when he cut the lady's head off, mamma, an' that's why it's haunted. They cleaned it all up excep' a few little spots of bl—"
+
+"*JANE!"* shouted her mother. "You must not talk about such things, and Genesis mustn't tell, you stories of that sort!"
+
+"Well, how could he help it, if he told me about Willie?" Jane urged, reasonably.
+
+"Never mind! Did that crazy ch —Did Willie *LEAVE* the baskets in that dreadful place?"
+
+"Yes'm—an' his watch an' pin," Jane informed her, impressively. "An' One-eye Beljus wanted to know if Genesis knew Willie, because One-eye Beljus wanted to know if Genesis thought Willie could get the three dollars an; sixty cents, an' One-eye Beljus wanted to know if Genesis thought he could get anything more out of him besides that. He told Genesis he hadn't told Willie he *COULD* have the suit, after all; he just told him he *THOUGHT* he could, but he wouldn't say for certain till he brought him the three dollars an' sixty cents. So Willie left all his things there, an' his watch an—"
+
+"That will do!" Mrs. Baxter's voice was sharper than it had ever been in Jane's recollection. "I don't need to hear any more—and I don't *WANT* to hear any more!"
+
+Jane was justly aggrieved. "But, mamma, it isn't MY fault!"
+
+Mrs. Baxter's lips parted to speak, but she checked herself. "Fault?" she said, gravely. "I wonder whose fault it really is!"
+
+And with that she went hurriedly into William's room and made a brief inspection of his clothes-closet and dressing-table. Then, as Jane watched her in awed silence, she strode to the window, and called, loudly:
+
+"Genesis!"
+
+"Yes'm?" came the voice from below.
+
+"Go to that lumber-yard where Mr. William is at work and bring him here to me at once. If he declines to come, tell him—" Her voice broke oddly; she choked, but Jane could not decide with what emotion. "Tell him—tell him I ordered you to use force if necessary! Hurry!"
+
+"*YES'M*!"
+
+Jane ran to the window in time to see Genesis departing seriously through the back gate.
+
+"Mamma—"
+
+"Don't talk to me now, Jane," Mrs. Baxter said, crisply. "I want you to go down in the yard, and when Willie comes tell him I'm waiting for him here in his own room. And don't come with him, Jane. Run!"
+
+"Yes, mamma." Jane was pleased with this appointment; she anxiously desired to be the first to see how Willie "looked."
+
+... He looked flurried and flustered and breathless, and there were blisters upon the reddened palms of his hands. "What on earth's the matter, mother?" he asked, as he stood panting before her. "Genesis said something was wrong, and he said you told him to hit me if I wouldn't come."
+
+"Oh NO!" she cried. "I only meant I thought perhaps you wouldn't obey any ordinary message—"
+
+"Well, well, it doesn't matter, but please hurry and say what you want to, because I got to get back and—"
+
+"No," Mrs. Baxter said, quietly, "you're not going back to count any more shingles, Willie. How much have you earned?"
+
+He swallowed, but spoke bravely. "Thirty-six cents. But I've been getting lots faster the last two hours and there's a good deal of time before six o'clock. Mother—"
+
+"No," she said. "You're going over to that horrible place where you've left your clothes and your watch and all those other things in the two baskets, and you're going to bring them home at once."
+
+"Mother!" he cried, aghast. "Who told you?"
+
+"It doesn't matter. You don't want your father to find out, do you? Then get those things back here as quickly as you can. They'll have to be fumigated after being in that den."
+
+"They've never been out of the baskets," he protested, hotly, "except just to be looked at. They're MY things, mother, and I had a right to do what I needed to with 'em, didn't I?" His utterance became difficult. "You and father just *CAN'T* understand—and you won't do anything to help me—"
+
+"Willie, you can go to the party," she said, gently. "You didn't need those frightful clothes at all."
+
+"I do!" he cried. "I *GOT* to have 'em! I *CAN'T* go in my day clo'es! There's a reason you wouldn't understand why I can't. I just *CAN'T*!"
+
+"Yes," she said, "you can go to the party."
+
+"I can't, either! Not unless you give me three dollars and twenty-four cents, or unless I can get back to the lumber-yard and earn the rest before—"
+
+"No!" And the warm color that had rushed over Mrs. Baxter during Jane's sensational recital returned with a vengeance. Her eyes flashed. "If you'd rather I sent a policeman for those baskets, I'll send one. I should prefer to do it—much! And to have that rascal arrested. If you don't want me to send a policeman you can go for them yourself, but you must start within ten minutes, because if you don't I'll telephone headquarters. Ten minutes, Willie, and I mean it!"
+
+He cried out, protesting. She would make him a thing of scorn forever and soil his honor, if she sent a policeman. Mr. Beljus was a fair and honest tradesman, he explained, passionately, and had not made the approaches in this matter. Also, the garments in question, though not entirely new, nor of the highest mode, were of good material and in splendid condition. Unmistakably they were evening clothes, and such a bargain at fourteen dollars that William would guarantee to sell them for twenty after he had worn them this one evening. Mr. Beljus himself had said that he would not even think of letting them go at fourteen to anybody else, and as for the two poor baskets of worn and useless articles offered in exchange, and a bent scarfpin and a worn-out old silver watch that had belonged to great-uncle Ben—why, the ten dollars and forty cents allowed upon them was beyond all ordinary liberality; it was almost charity. There was only one place in town where evening clothes were rented, and the suspicious persons in charge had insisted that William obtain from his father a guarantee to insure the return of the garments in perfect condition. So that was hopeless. And wasn't it better, also, to wear clothes which had known only one previous occupant (as was the case with Mr. Beljus's offering) than to hire what chance hundreds had hired? Finally, there was only one thing to be considered and this was the fact that William *HAD* to have those clothes!
+
+"Six minutes," said Mrs. Baxter, glancing implacably at her watch. "When it's ten I'll telephone."
+
+And the end of it was, of course, victory for the woman—victory both moral and physical. Three-quarters of an hour later she was unburdening the contents of the two baskets and putting the things back in place, illuminating these actions with an expression of strong distaste—in spite of broken assurances that Mr. Beljus had not more than touched any of the articles offered to him for valuation.
+
+... At dinner, which was unusually early that evening, Mrs. Baxter did not often glance toward her son; she kept her eyes from that white face and spent most of her time in urging upon Mr. Baxter that he should be prompt in dressing for a card-club meeting which he and she were to attend that evening. These admonitions of hers were continued so pressingly that Mr. Baxter, after protesting that there was no use in being a whole hour too early, groaningly went to dress without even reading his paper.
+
+William had retired to his own room, where he lay upon his bed in the darkness. He heard the evening noises of the house faintly through the closed door: voices and the clatter of metal and china from the far-away kitchen, Jane's laugh in the hall, the opening and closing of the doors. Then his father seemed to be in distress about something. William heard him complaining to Mrs. Baxter, and though the words were indistinct, the tone was vigorously plaintive. Mrs. Baxter laughed and appeared to make light of his troubles, whatever they were—and presently their footsteps were audible from the stairway; the front door closed emphatically, and they were gone.
+
+Everything was quiet now. The open window showed as a greenish oblong set in black, and William knew that in a little while there would come through the stillness of that window the distant sound of violins. That was a moment he dreaded with a dread that ached. And as he lay on his dreary bed he thought of brightly lighted rooms where other boys were dressing eagerly faces and hair shining, hearts beating high—boys who would possess this last evening and the "last waltz together," the last smile and the last sigh.
+
+It did not once enter his mind that he could go to the dance in his "best suit," or that possibly the other young people at the party would be too busy with their own affairs to notice particularly what he wore. It was the unquestionable and granite fact, to his mind, that the whole derisive World would know the truth about his earlier appearances in his father's clothes. And that was a form of ruin not to be faced. In the protective darkness and seclusion of William's bedroom, it is possible that smarting eyes relieved themselves by blinking rather energetically; it is even possible that there was a minute damp spot upon the pillow. Seventeen cannot always manage the little boy yet alive under all the coverings.
+
+Now arrived that moment he had most painfully anticipated, and dance-music drifted on the night;—but there came a tapping upon his door and a soft voice spoke.
+
+"Will-ee?"
+
+With a sharp exclamation William swung his legs over the edge of the bed and sat up. Of all things he desired not, he desired no conversation with, or on the part of, Jane. But he had forgotten to lock his door—the handle turned, and a dim little figure marched in.
+
+"Willie, Adelia's goin' to put me to bed."
+
+"You g'way from here," he said, huskily. "I haven't got time to talk to you. I'm busy."
+
+"Well, you can wait a minute, can't you?" she asked, reasonably. "I haf to tell you a joke on mamma."
+
+"I don't want to hear any jokes!"
+
+"Well, I *HAF* to tell you this one 'cause she told me to! Oh!" Jane clapped her hand over her mouth and jumped up and down, offering a fantastic silhouette against the light of the Open door. "Oh, oh, OH!"
+
+"What's matter?"
+
+"She said I mustn't, *MUSTN'T* tell that she told me to tell! My goodness! I forgot that! Mamma took me off alone right after dinner, an' she told me to tell you this joke on her a little after she an' papa had left the house, but she said, 'Above all *THINGS,'* she said, '*DON'T* let Willie know *I* said to tell him.' That's just what she said, an' here that's the very first thing I had to go an' do!"
+
+"Well, what of it?"
+
+Jane quieted down. The pangs of her remorse were lost in her love of sensationalism, and her voice sank to the thrilling whisper which it was one of her greatest pleasures to use. "Did you hear what a fuss papa was makin' when he was dressin' for the card-party?"
+
+"*I* don't care if—"
+
+"He had to go in his reg'lar clo'es!" whispered Jane, triumphantly. "An' this is the joke on mamma: you know that tailor that let papa's dress-suit 'way, 'way out; well, Mamma thinks that tailor must think she's crazy, or somep'm 'cause she took papa's dress-suit to him last Monday to get it pressed for this card-party, an she guesses he must of understood her to tell him to do lots besides just pressin' it. Anyway, he went an' altered it, an' he took it 'way, 'way IN again; an' this afternoon when it came back it was even tighter 'n what it was in the first place, an' papa couldn't *BEGIN* to get into it! Well, an' so it's all pressed an' ev'ything, an' she stopped on the way out, an' whispered to me that she'd got so upset over the joke on her that she couldn't remember where she put it when she took it out o' papa's room after he gave up tryin' to get inside of it. An' that," cried Jane—"that's the funniest thing of all! Why, it's layin' right on her bed this very minute!"
+
+In one bound William leaped through the open door. Two seconds sufficed for his passage through the hall to his mother's bedroom—and there, neatly spread upon the lace coverlet and brighter than coronation robes, fairer than Joseph's holy coat, It lay!

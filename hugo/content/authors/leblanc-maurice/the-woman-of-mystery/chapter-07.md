@@ -1,0 +1,282 @@
+---
+title: "Chapter 7 - H. E. R. M"
+weight: 7
+aliases:
+  - "/authors/leblanc-maurice/the-woman-of-mystery/chapter-07.html"
+---
+
+Paul's first feeling was an immense need of revenge, then and there, at all costs, a need outweighing any sense of horror or despair. He gazed around him, as though all the wounded men who lay dying in the park were guilty of the monstrous crime:
+
+"The cowards!" he snarled. "The murderers!"
+
+"Are you sure," stammered Bernard, "are you sure it's Élisabeth's hair?"
+
+"Why, of course I am. They've shot her as they shot the two others. I know them both: it's the keeper and his wife. Oh, the blackguards! . . ."
+
+He raised the butt of his rifle over a German dragging himself in the grass and was about to strike him, when the Colonel came up to him:
+
+"Hullo, Delroze, what are you doing? Where's your company?"
+
+"Oh, sir, if you only knew! . . ."
+
+He rushed up to his colonel. He looked like a madman and brandished his rifle as he spoke:
+
+"They've killed her, sir, yes, they've shot my wife. . . . Look, against the wall there, with the two people who were in her service. . . . They've shot her. . . . She was twenty years old, sir. . . . Oh, we must kill them all like dogs!"
+
+But Bernard was dragging him away:
+
+"Don't let us waste time, Paul; we can take our revenge on those who are still fighting. . . . I hear firing over there. Some of them are surrounded, I expect."
+
+Paul hardly knew what he was doing. He started running again, drunk with rage and grief.
+
+Ten minutes later, he had rejoined his company and was crossing the open space where his father had been stabbed. The chapel was in front of him. Farther on, instead of the little door that used to be in the wall, a great breach had been made, to admit the convoys of wagons for provisioning the castle. Eight hundred yards beyond it, a violent rifle-fire crackled over the fields, at the crossing of the road and the highway.
+
+A few dozen retreating Germans were trying to force their way through the hussars who had come by the high road. They were attacked from behind by Paul's company, but succeeded in taking shelter in a square patch of trees and copsewood, where they defended themselves with fierce energy, retiring step by step and dropping one after the other.
+
+"Why don't they surrender?" muttered Paul, who was firing continually and who was gradually being calmed by the heat of the fray. "You would think they were trying to gain time."
+
+"Look over there!" said Bernard, in a husky voice.
+
+Under the trees, a motor-car had just come from the frontier, crammed with German soldiers. Was it bringing reinforcements? No, the motor turned almost in its own length; and between it and the last of the combatants stood an officer in a long gray cloak, who, revolver in hand, exhorted them to persevere in their resistance, while he himself effected his retreat towards the car sent to his rescue.
+
+"Look, Paul," Bernard repeated, "look!"
+
+Paul was dumfounded. That officer to whom Bernard was calling his attention was . . . but no, it could not be. And yet . . .
+
+"What do you mean to suggest, Bernard?" he asked.
+
+"It's the same face," muttered Bernard, "the same face as yesterday, you know, Paul: the face of the woman who asked me those questions about you, Paul."
+
+And Paul on his side recognized beyond the possibility of a doubt the mysterious individual who had tried to kill him at the little door leading out of the park, the creature who presented such an unconceivable resemblance to his father's murderess, to the woman of the portrait, to Hermine d'Andeville, Élisabeth's mother and Bernard's.
+
+Bernard raised his rifle to fire.
+
+"No, don't do that!" cried Paul, terrified at the movement.
+
+"Why not?"
+
+"Let's try and take him alive."
+
+He darted forward in a mad rush of hatred, but the officer had run to the car. The German soldiers held out their hands and hoisted him into their midst. Paul shot the one who was seated at the wheel. The officer caught hold of it just as the car was about to strike a tree, changed the direction and, skilfully guiding the car past the intervening obstacles, drove it behind a bend in the ground and from there towards the frontier. He was saved.
+
+As soon as he was beyond the range of the bullets, the German soldiers who were still fighting surrendered.
+
+Paul was trembling with impotent fury. To him this individual represented every imaginable form of evil; and, from the first to the last minute of that long series of tragedies, murders, attempts at spying and assassination, treacheries and deliberate shootings, all conceived with the same object and the same spirit, that one figure stood out as the very genius of crime.
+
+Nothing short of the creature's death would have appeased Paul's hatred. It was he, the monster, Paul never entertained a doubt of it, who had ordered Élisabeth to be shot. Élisabeth shot! Oh, the shame of it! Oh, infernal vision that tormented him! . . .
+
+"Who is he?" he cried. "How can we find out? How can we get at him and torture him and kill him?"
+
+"Question a prisoner," said Bernard.
+
+The captain considered it wiser to advance no farther and ordered the company to fall back, so as to remain in touch with the remainder of the regiment. Paul was told off specially to occupy the château with his section and to take the prisoners there.
+
+He lost no time in questioning two or three non-commissioned officers and some of the soldiers, as they went. But he could obtain nothing but a mass of conflicting particulars from them, for they had arrived from Corvigny the day before and had only spent the night at the château. They did not even know the name of the officer in the flowing gray cloak for whom so many of them had sacrificed their lives. He was called the major; and that was all.
+
+"But still," Paul insisted, "he was your actual commanding officer?"
+
+"No. The leader of the rearguard detachment to which we belong is an Oberleutnant who was wounded by the exploding of the mines, when we ran away. We wanted to take him with us, but the major objected, leveling his revolver at us, telling us to march in front of him and threatening to shoot the first man who left him in the lurch. And just now, while we were fighting, he stood ten paces behind us and kept threatening us with his revolver to compel us to defend him. He shot three of us, as a matter of fact."
+
+"He was reckoning on the assistance of the car, wasn't he?"
+
+"Yes; and also on reinforcements which were to save us all, so he said. But only the car came; and it just saved him."
+
+"The Oberleutnant would know his name, of course. Is he badly wounded?"
+
+"He's got a broken leg. We made him comfortable in a lodge in the park."
+
+"The lodge against which your people put to death . . . those civilians?"
+
+"Yes."
+
+They were nearing the lodge, a sort of little orangery into which the plants were taken in winter. Rosalie and Jérôme's bodies had been removed. But the sinister chain was still hanging on the wall, fastened to the three iron rings; and Paul once more beheld, with a shudder of dread, the marks left by the bullet and the little splinter of bomb-shell that kept Élisabeth's hair embedded in the plaster.
+
+A French bomb-shell! An added horror to the atrocity of the murder!
+
+It was therefore Paul who, on the day before, by capturing the armored motor-car and effecting his daring raid on Corvigny, thus opening the road to the French troops, had brought about the events that ended in his wife's being murdered! The enemy had revenged himself for his retreat by shooting the inhabitants of the château! Élisabeth fastened to the wall by a chain had been riddled with bullets. And, by a hideous irony, her corpse had received in addition the splinters of the first shells which the French guns had fired before night-fall, from the top of the hills near Corvigny.
+
+Paul pulled out the fragments of shell and removed the golden strands, which he put away religiously. He and Bernard then entered the lodge, where the Red Cross men had established a temporary ambulance. They found the Oberleutnant lying on a truss of straw, well looked after and able to answer questions.
+
+One point at once became quite clear, which was that the German troops which had garrisoned the Château d'Ornequin had, so to speak, never been in touch at all with those which, the day before, had retreated from Corvigny and the adjoining forts. The garrison had been evacuated immediately upon the arrival of the fighting troops, as though to avoid any indiscretion on the subject of what had happened during the occupation of the château.
+
+"At that moment," said the Oberleutnant, who belonged to the fighting force, not to the garrison, "it was seven o'clock in the evening. Your seventy-fives had already got the range of the château; and we found no one there but a number of generals and other officers of superior rank. Their baggage-wagons were leaving and their motors were ready to leave. I was ordered to hold out as long as I could to blow up the château. The major had made all the arrangements beforehand."
+
+"What was the major's name?"
+
+"I don't know. He was walking about with a young officer whom even the generals addressed with respect. This same officer called me over to him and charged me to obey the major 'as I would the emperor.'"
+
+"And who was the young officer?"
+
+"Prince Conrad."
+
+"A son of the Kaiser's?"
+
+"Yes. He left the château yesterday, late in the day."
+
+"And did the major spend the night here?"
+
+"I suppose so; at any rate, he was there this morning. We fired the mines and left . . . a bit late, for I was wounded near this lodge . . . near the wall. . . ."
+
+Paul mastered his emotion and said:
+
+"You mean, the wall against which your people shot three French civilians, don't you?"
+
+"Yes."
+
+"When were they shot?"
+
+"About six o'clock in the afternoon, I believe, before we arrived from Corvigny."
+
+"Who ordered them to be shot?"
+
+"The major."
+
+Paul felt the perspiration trickling from the top of his head down his neck and forehead. It was as he thought: Élisabeth had been shot by the orders of that nameless and more than mysterious individual whose face was the very image of the face of Hermine d'Andeville, Élisabeth's mother!
+
+He went on, in a trembling voice:
+
+"So there were three people shot? You're quite sure?"
+
+"Yes, the people of the château. They had been guilty of treachery."
+
+"A man and two women?"
+
+"Yes."
+
+"But there were only two bodies fastened to the wall of the lodge."
+
+"Yes, only two. The major had the lady of the house buried by Prince Conrad's orders."
+
+"Where?"
+
+"He didn't tell me."
+
+"But why was she shot?"
+
+"I understand that she had got hold of some very important secrets."
+
+"They could have taken her away and kept her as a prisoner."
+
+"Certainly, but Prince Conrad was tired of her."
+
+Paul gave a start:
+
+"What's that you say?"
+
+The officer resumed, with a smile that might mean anything:
+
+"Well, damn it all, everybody knows Prince Conrad! He's the Don Juan of the family. He'd been staying at the château for some weeks and had time to make an impression, had he not? . . . And then . . . and then to get tired. . . . Besides, the major maintained that the woman and her two servants had tried to poison the prince. So you see . . ."
+
+He did not finish his sentence. Paul was bending over him and, with a face distorted with rage, took him by the throat and shouted:
+
+"Another word, you dog, and I'll throttle the life out of you! Ah, you can thank your stars that you're wounded! . . . If you weren't . . . if you weren't . . . !"
+
+And Bernard, beside himself with rage, joined in:
+
+"Yes, you can think yourself lucky. As for your Prince Conrad, he's a swine, let me tell you . . . and I mean to tell him so to his face. . . . He's a swine like all his beastly family and like the whole lot of you! . . ."
+
+They left the Oberleutnant utterly dazed and unable to understand a word of this sudden outburst. But, once outside, Paul had a fit of despair. His nerves relaxed. All his anger and all his hatred were changed into infinite depression. He could hardly contain his tears.
+
+"Come, Paul," exclaimed Bernard, "surely you don't believe a word . . . ?"
+
+"No, no, and again no! But I can guess what happened. That drunken brute of a prince must have tried to make eyes at Élisabeth and to take advantage of his position. Just think! A woman, alone and defenseless: that was a conquest worth making! What tortures the poor darling must have undergone, what humiliations! . . . A daily struggle, with threats and brutalities. . . . And, at the last moment, death, to punish her for her resistance. . . ."
+
+"We shall avenge her, Paul," said Bernard, in a low voice.
+
+"We shall; but shall I ever forget that it was on my account, through my fault, that she stayed here? I will explain what I mean later on; and you will understand how hard and unjust I have been. . . . And yet . . ."
+
+He stood gloomily thinking. He was haunted by the image of the major and he repeated:
+
+"And yet . . . and yet . . . there are things that seem so strange. . . ."
+
+All that afternoon, French troops kept streaming in through the valley of the Liseron and the village of Ornequin in order to resist any counter-attack by the enemy. Paul's section was resting; and he and Bernard took advantage of this to make a minute search in the park and among the ruins of the château. But there was no clue to reveal to them where Élisabeth's body lay hidden.
+
+At five o'clock, they gave Rosalie and Jérôme a decent burial. Two crosses were set up on a little mound strewn with flowers. An army chaplain came and said the prayers for the dead. And Paul was moved to tears when he knelt on the grave of those two faithful servants whose devotion had been their undoing.
+
+Then also Paul promised to avenge. And his longing for vengeance evoked in his mind, with almost painful intensity, the hated image of the major, that image which had now become inseparable from his recollections of the Comtesse d'Andeville.
+
+He led Bernard away from the grave and asked:
+
+"Are you sure that you were not mistaken in connecting the major and the supposed peasant-woman who questioned you at Corvigny?"
+
+"Absolutely."
+
+"Then come with me. I told you of a woman's portrait. We will go and look at it and you shall tell me what impression it makes upon you."
+
+Paul had noticed that that part of the castle which contained Hermine d'Andeville's bedroom and boudoir had not been entirely demolished by the explosion of either the mines or shells. It was possible that the boudoir was still in its former condition.
+
+The staircase had been destroyed; and they had to clamber up the shattered masonry in order to reach the first floor. Traces of the corridor were visible here and there. All the doors were gone; and the rooms presented an appearance of pitiful chaos.
+
+"It's here," said Paul, pointing to an open place between two pieces of wall that remained standing as by a miracle.
+
+It was indeed Hermine d'Andeville's boudoir, shattered and dilapidated, cracked from top to bottom and filled with plaster and rubbish, but quite recognizable and containing all the furniture which Paul had noticed on the evening of his marriage. The window-shutters darkened the room partly, but there was enough light for Paul to see the whereabouts of the wall opposite. And he at once exclaimed:
+
+"The portrait has been taken away!"
+
+It was a great disappointment to him and, at the same time, a proof of the great importance which his enemy attached to the portrait, which could only have been removed because it constituted an overwhelming piece of evidence.
+
+"I assure you," said Bernard, "that this does not affect my opinion in the least. There was no need to verify my conviction about the major and that peasant-woman at Corvigny. Whose portrait was it?"
+
+"I told you, a woman."
+
+"What woman? Was it a picture which my father hung there, one of the pictures of his collection?"
+
+"That was it," said Paul, welcoming the opportunity of throwing his brother-in-law off the scent.
+
+Opening one of the shutters, he saw a mark on the wall of the rectangular space which the picture used to occupy; and he was able to perceive, from certain details, that the removal had been effected in a hurry. For instance, the gilt scroll had dropped from the frame and was lying on the floor. Paul picked it up stealthily so that Bernard should not see the inscription engraved upon it.
+
+But, while he was examining the panel more attentively after Bernard had unfastened the other shutter, he gave an exclamation.
+
+"What's the matter?" asked Bernard.
+
+"There . . . look . . . that signature on the wall . . . where the picture was: a signature and a date."
+
+It was written in pencil; two lines across the white plaster, at a man's height. The date, "Wednesday evening, 16 September, 1914," followed by the signature: "Major Hermann."
+
+Major Hermann! Even before Paul was aware of it, his eyes had seized upon a detail in which all the significance of those two lines of writing was concentrated; and, while Bernard came forward to look in his turn, he muttered, in boundless surprise:
+
+"Hermann! . . . Hermine! . . ."
+
+The two words were almost alike. Hermine began with the same letters as the Christian or surname which the major had written, after his rank, on the wall. Major Hermann! The Comtesse Hermine! H, E, R, M: The four letters on the dagger with which Paul had nearly been killed! H, E, R, M: the four letters on the dagger of the spy whom he had captured in the church-steeple!
+
+Bernard said:
+
+"It looks to me like a woman's writing. But, if so. . . ." And he continued thoughtfully, "If so . . . what conclusion are we to draw? Either the peasant-woman and Major Hermann are one and the same person, which means that the peasant-woman is a man or that the major is not, or else we are dealing with two distinct persons, a woman and a man. I believe that is how it is, in spite of the uncanny resemblance between that man and that woman. For, after all, how can we suppose that the same person can have written this signature yesterday evening, passed through the French lines and spoken to me at Corvigny disguised as a peasant-woman . . . and then be able to return here, disguised as a German major, blow up the house, take to flight and, after killing some of his own soldiers, make his escape in a motor-car?"
+
+Paul, absorbed by his thoughts, did not answer. Presently he went into the adjoining room, which separated the boudoir from the set of rooms which his wife had occupied. Of these nothing remained except debris. But the room in between had not suffered so very much; and it was very easy to see, by the wash-hand-stand and the condition of the bed, that it was used as a bedroom and that some one had slept in it the night before.
+
+On the table Paul found some German newspapers and a French one, dated 10 September, in which the _communiqué_ telling of the great victory of the Marne was struck out with two great dashes in red pencil and annotated with the word "Lies!" followed by the initial H.
+
+"We're in Major Hermann's room right enough," said Paul to Bernard.
+
+"And Major Hermann," Bernard declared, "burnt some compromising papers last night. Look at that heap of ashes in the fire-place." He stooped and picked up a few envelopes, a few half-burnt sheets of paper containing consecutive words, nothing but incoherent sentences. On turning his eyes to the bed, however, he saw under the bolster a parcel of clothes hidden or perhaps forgotten in the hurry of departure. He pulled them out and at once cried: "I say, just look at this!"
+
+"At what?" asked Paul, who was searching another part of the room.
+
+"These clothes, look, peasant clothes, the clothes I saw on the woman at Corvigny. There's no mistaking them: they are the same brown color and the same sort of serge stuff. And then here's the black-lace scarf which I told you about. . . ."
+
+"What's that?" exclaimed Paul, running up to him.
+
+"Here, see for yourself, it's a scarf of sorts and not one of the newest, either. How worn and torn it is! And the brooch I described to you is still in it. Do you see?"
+
+Paul had noticed the brooch at once with the greatest horror. What a terrible significance it lent to the discovery of the clothes in the room occupied by Major Hermann, the room next to Hermine d'Andeville's boudoir! The cameo was carved with a swan with its wings outspread and was set in a gold snake with ruby eyes. Paul had known that cameo since his early boyhood, from seeing it in the dress of the woman who killed his father, and he knew it also because he had seen it again, with every smallest detail reproduced, in the Comtesse Hermine's portrait. And now he was finding the actual brooch, stuck in the black-lace scarf among the Corvigny peasant-woman's clothes and left behind in Major Hermann's room!
+
+"This completes the evidence," said Bernard. "The fact that the clothes are here proves that the woman who asked me about you came back here last night; but what is the connection between her and that officer who is her living likeness? Is the person who questioned me about you the same as the individual who ordered Élisabeth to be shot two hours earlier? And who are these people? What band of murderers and spies have we run up against?"
+
+"They are simply Germans," was Paul's reply. "To them spying and murdering are natural and permissible forms of warfare . . . in a war, mark you, which they began and are carrying on in the midst of a perfectly peaceful period. I have told you so before, Bernard: we have been the victims of war for nearly twenty years. My father's murder opened the tragedy. And to-day we are mourning our poor Élisabeth. And that is not the end of it."
+
+"Still," said Bernard, "he has taken to flight."
+
+"We shall see him again, be sure of that. If he doesn't come back, I will go and find him. And, when that day comes. . . ."
+
+There were two easy-chairs in the room. Paul and Bernard resolved to spend the night there and, without further delay, wrote their names on the wall of the passage. Then Paul went back to his men, in order to see that they were comfortably settled in the barns and out-houses that remained standing. Here the soldier who served as his orderly, a decent Auvergnat called Gériflour, told him that he had dug out two pairs of sheets and a couple of clean mattresses from a little house next to the guard-room and that the beds were ready. Paul accepted the offer for Bernard and himself. It was arranged that Gériflour and one of his companions should go to the château and sleep in the two easy-chairs.
+
+The night passed without any alarm. It was a feverish and sleepless night for Paul, who was haunted by the thought of Élisabeth. In the morning he fell into a heavy slumber, disturbed by nightmares. The reveille woke him with a start. Bernard was waiting for him.
+
+The roll was called in the courtyard of the château. Paul noticed that his orderly, Gériflour, and the other man were missing.
+
+"They must be asleep," he said to Bernard. "Let's go and shake them awake."
+
+They went back, through the ruins, to the first floor and along the demolished bedroom. In the room which Major Hermann had occupied they found Private Gériflour, huddled on the bed, covered with blood, dead. His friend was lying back in one of the chairs, also dead. There was no disorder, no trace of a struggle around the bodies. The two soldiers must have been killed in their sleep.
+
+Paul at once saw the weapon with which they had been murdered. It was a dagger with the letters H, E, R, M. on the handle.

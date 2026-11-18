@@ -1,0 +1,112 @@
+---
+title: "Chapter 9 - A Break Down"
+weight: 9
+aliases:
+  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-09.html"
+---
+
+Captain Alvin was keenly interested in the story of Chester Haynes. He admitted that he had noticed nothing peculiar, and it was evident that Mike had been equally blind to the events passing under their eyes.
+
+"It is plain," said Alvin, "that although Calvert told us a good many things about himself, there is a good deal more he didn't tell."
+
+"What do you make of it all?"
+
+"That man who was in the dining room with us may have been another detective or⸺"
+
+"Or what?" asked Chester, observing the hesitation.
+
+"I hate to say what comes into my mind, but every now and then a queer suspicion steals over me that Calvert is deceiving us and is not what he claims to be."
+
+"In other words, he is a member of the gang whom he pretends to be hunting down."
+
+"I am ashamed to confess it, but such has been my fear at times. And yet," the Captain hastened to add, as if regretting his unworthy thoughts, "it seems impossible, when we call to mind all he did and how he has acted from the first of our acquaintance with him."
+
+Chester was thoughtful for a moment or two.
+
+"I made up my mind after that rumpus down stream when he saved Mike from a bad beating, that he was just what he said, though I won't deny that more than one thing he has done—such as following us from Sawyer Island to the inlet where the *Water Witch* lay, and his behavior on the road—had a queer look. But what's the use of speculating about it? Sooner or later we shall know the truth, and, if we don't, I can't say I much care. Which course will you take in going home?"
+
+"I haven't any choice; have you?"
+
+"Suppose then you follow Back River, and around Cape Newagen home. That's a pretty good run, and at the rate we are going we sha'n't get there before dark."
+
+"Have you any reason for the choice?"
+
+"Only that we may catch sight of the *Water Witch*, from which we parted in those waters. If we do, we shall have to hold Mike in leash."
+
+So it came about that the *Deerfoot* turned into the headwaters of Back River, passing Cushman Point through the Cowseagan Narrows, and into the more open waters below. Three or four miles farther would take them to Montsweag Bay, of which mention has been made, that body of water being twice or thrice as wide as the river.
+
+Suddenly Chester asked an odd question:
+
+"Do you think the launch was injured by that spurt this forenoon?"
+
+"She ought not to have been, for she has gone through the strain more than once and for a longer time. Why do you ask?"
+
+"Somehow or other, it seems to me she isn't running exactly right."
+
+"What is wrong?"
+
+"I can't put my finger on it; I may say I *feel* it—that's all."
+
+"Well, you are right, for I have had the same misgiving ever since we left Wiscasset. I have tried to figure it out, but can't and am waiting for it to develop, hoping all the time it won't—hello! there it comes!"
+
+While the speed of the boat was not affected, the engine began hissing with vicious persistency.
+
+"Take the wheel, Chester, while I look around."
+
+He first examined the spark plugs, knowing that if one was broken the result would be what had just taken place, but all were intact. He had turned the switch, stopping the motor, and next inspected the valve caps where a fracture or loosening would have caused the hissing. They were sound and tight and the gaskets where the exhaust and intake pipes connected with the cylinders were tight.
+
+"I've found it!" he called to Chester. "It's an open compression cup, which is easily fixed; I am glad it is nothing worse."
+
+Remembering the lessons he had been taught, the young Captain soon corrected the fault and resumed progress. The launch, however, was held down to a comparatively slow pace, for the slight slip naturally caused misgiving. Several minutes passed with all going well.
+
+"It seems to me safe to give her more speed," said Chester. "At this rate we sha'n't reach home until late at night."
+
+"All right; turn on more power—no, don't! *Ouch!*"
+
+Alvin snapped his fingers, as one does when they are burned. He had placed them upon the exhaust pipe, which was growing red hot.
+
+"Shut her off! The mischief is to pay."
+
+Knowing from the gesture of the Captain what was the matter, Chester asked, as he obeyed the request:
+
+"What causes that?"
+
+"There is either something wrong with the water pump, the spark is retarded, or a lack of sufficient lubrication, causing the motor to heat. It will take some time to find out and we shall have to drift for awhile."
+
+"Why not run to land and tie up? We may get in the way of some of the boats steaming up or down the river if we stay out here."
+
+Alvin scrutinized the eastern bank, which is the upper portion of Westport, and much nearer than Wiscasset township opposite.
+
+"The water is so deep that I suppose we can touch the bank anywhere without risk to the hull. All right; feel your way in."
+
+The turning of the boat naturally stirred Mike's curiosity and he came back to learn the cause, which was soon explained to him.
+
+"Ye have me consint, since I obsarve there's a bit of a town not far off where we can git enough food to keep off starvation."
+
+Fir, spruce and pines line the shore of this part of Westport, the ground rising moderately inland. A half mile, more or less, from the river, runs the public highway from Clough Point, the northern extremity of Westport, almost to Brooks Point at the extreme southern end, the distance being something like fifteen miles, the entire length of the island.
+
+The village to which Mike Murphy alluded stands alongside this road, a half mile from the shore of Back River. There was enough rise to the ground to show the church steeple and the roofs of the higher buildings. Perhaps it will be well to give it the name of Beartown, and to say that it numbered some five hundred inhabitants. Although its main interest was with the highway alluded to, yet it had considerable trade with the river, up and down which boats of different tonnage steamed, sailed or rowed during the day, and occasionally at night. A well-marked road led from a wharf to the village. Over this freight was drawn to and fro in wagons, and some of the less important steamers halted for passengers who liked that way of going up or down stream.
+
+Alvin and Chester thought it better not to stop at the public wharf, where they were likely to be in the way of larger craft and might draw unpleasant attention to themselves, while engaged in repairing the launch. Accordingly, the latter timidly approached the land, several hundred yards below the wharf. The water possessed that wonderful clearness which is one of its beautiful peculiarities in Maine. The boat was far out when the change was made in her course, but she had not gone far when, looking over the side, the dark, rocky bottom was plainly seen fully thirty feet below. There was slight decrease in this depth until the boat was within a few yards of land. Even then, it must have been twenty feet at least, the bottom sloping as abruptly from the shore as the roof of a house. Consequently the approach was safe and easy.
+
+In such favorable conditions there was no difficulty in laying the launch near the bank, where, as in former instances, she was made fast by the bow line looped around a sturdy spruce more than six inches in diameter, and the anchor out over the stern. Chester tied the knot securely, and stepped back to give what help he could to Alvin, who was busy with the engine. Mike looked on and remarked that, although he knew nothing at all about the various contraptions, he held himself ready to give valuable advice whenever it was needed.
+
+"Being as mesilf ain't indispinsable just now, 'spose I strolls up to the city nixt door and make a few more new acquaintances."
+
+"There is no objection to that," replied the Captain, "but be sure to come back before dark."
+
+Mike sprang lightly to land and set off on his journey of discovery. It will be recalled that our friends were some distance from the highway connecting the wharf and town and therefore he had to thread his way among the trees to reach the direct route to the village. There was no trouble in doing this: the trouble came afterward.
+
+Alvin and Chester gave the lad no thought, for he surely was old enough to take care of himself, and there was nothing in the situation to cause any misgiving. Their ambition was to get the engine of the launch in shape. With painstaking care and the expenditure of more time than was expected, Alvin finally discovered that the heat of the exhaust pipe was due to the clogging of the pump with weeds, and not to the lack of lubrication or the retarding of the spark.
+
+To the disgust of both, when a test was made with the launch still held immovable, and the heating was overcome, explosions in the muffler developed.
+
+"Now we must find whether that is caused by a cylinder missing fire and pumping the gas into the muffler."
+
+"How will that do it?" asked Chester, who, while a good motor boat pilot, possessed less practical knowledge than his chum.
+
+"The charges which I spoke of are ignited from the heat of the next exhausted charge. It may be the exhaust valve is stuck or does not seat properly, or the gas mixture is too weak to fire in the cylinder, or the spark may be insufficient or over-retarded. It is a job to get that straightened out, and when that is done, perhaps something else will turn up, but we may as well tackle it at once."
+
+It was fully dark before the difficulty was remedied by a careful readjustment of the carburettor. Repeated tests were made, and everything found to be right.
+
+"At last!" said Alvin, with a sigh of relief. "And now we are ready to go home. But where is Mike?"

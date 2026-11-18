@@ -1,0 +1,220 @@
+---
+title: "Chapter 37 - The Way Out"
+weight: 39
+aliases:
+  - "/authors/collins-wilkie/man-and-wife/chapter-37.html"
+---
+
+BREAKFAST was just over. Blanche, seeing a pleasantly-idle morning before her, proposed to Arnold to take a stroll in the grounds.
+
+The garden was blight with sunshine, and the bride was bright with good-humor. She caught her uncle's eye, looking at her admiringly, and paid him a little compliment in return. "You have no idea," she said, "how nice it is to be back at Ham Farm!"
+
+"I am to understand then," rejoined Sir Patrick, "that I am forgiven for interrupting the honey-moon?"
+
+"You are more than forgiven for interrupting it," said Blanche--"you are thanked. As a married woman," she proceeded, with the air of a matron of at least twenty years' standing, "I have been thinking the subject over; and I have arrived at the conclusion that a honey-moon which takes the form of a tour on the Continent, is one of our national abuses which stands in need of reform. When you are in love with each other (consider a marriage without love to be no marriage at all), what do you want with the excitement of seeing strange places? Isn't it excitement enough, and isn't it strange enough, to a newly-married woman to see such a total novelty as a husband? What is the most interesting object on the face of creation to a man in Arnold's position? The Alps? Certainly not! The most interesting object is the wife. And the proper time for a bridal tour is the time--say ten or a dozen years later--when you are beginning (not to get tired of each other, that's out of the question) but to get a little too well used to each other. Then take your tour to Switzerland--and you give the Alps a chance. A succession of honey-moon trips, in the autumn of married life--there is my proposal for an improvement on the present state of things! Come into the garden, Arnold; and let us calculate how long it will be before we get weary of each other, and want the beauties of nature to keep us company."
+
+Arnold looked appealingly to Sir Patrick. Not a word had passed between them, as yet, on the se rious subject of Anne Silvester's letter. Sir Patrick undertook the responsibility of making the necessary excuses to Blanche.
+
+"Forgive me," he said, "if I ask leave to interfere with your monopoly of Arnold for a little while. I have something to say to him about his property in Scotland. Will you leave him with me, if I promise to release him as soon as possible?"
+
+Blanche smiled graciously. "You shall have him as long as you like, uncle. There's your hat," she added, tossing it to her husband, gayly. "I brought it in for you when I got my own. You will find me on the lawn."
+
+She nodded, and went out.
+
+"Let me hear the worst at once, Sir Patrick," Arnold began. "Is it serious? Do you think I am to blame?"
+
+"I will answer your last question first," said Sir Patrick. "Do I think you are to blame? Yes--in this way. You committed an act of unpardonable rashness when you consented to go, as Geoffrey Delamayn's messenger, to Miss Silvester at the inn. Having once placed yourself in that false position, you could hardly have acted, afterward, otherwise than you did. You could not be expected to know the Scotch law. And, as an honorable man, you were bound to keep a secret confided to you, in which the reputation of a woman was concerned. Your first and last error in this matter, was the fatal error of involving yourself in responsibilities which belonged exclusively to another man."
+
+"The man had saved my life." pleaded Arnold--"and I believed I was giving service for service to my dearest friend."
+
+"As to your other question," proceeded Sir Patrick. "Do I consider your position to be a serious one? Most assuredly, I do! So long as we are not absolutely certain that Blanche is your lawful wife, the position is more than serious: it is unendurable. I maintain the opinion, mind, out of which (thanks to your honorable silence) that scoundrel Delamayn contrived to cheat me. I told him, what I now tell you--that your sayings and doings at Craig Fernie, do _not_ constitute a marriage, according to Scottish law. But," pursued Sir Patrick, holding up a warning forefinger at Arnold, "you have read it in Miss Silvester's letter, and you may now take it also as a result of my experience, that no individual opinion, in a matter of this kind, is to be relied on. Of two lawyers, consulted by Miss Silvester at Glasgow, one draws a directly opposite conclusion to mine, and decides that you and she are married. I believe him to be wrong, but in our situation, we have no other choice than to boldly encounter the view of the case which he represents. In plain English, we must begin by looking the worst in the face."
+
+Arnold twisted the traveling hat which Blanche had thrown to him, nervously, in both hands. "Supposing the worst comes to the worst," he asked, "what will happen?"
+
+Sir Patrick shook his head.
+
+"It is not easy to tell you," he said, "without entering into the legal aspect of the case. I shall only puzzle you if I do that. Suppose we look at the matter in its social bearings--I mean, as it may possibly affect you and Blanche, and your unborn children?"
+
+Arnold gave the hat a tighter twist than ever. "I never thought of the children," he said, with a look of consternation.
+
+"The children may present themselves," returned Sir Patrick, dryly, "for all that. Now listen. It may have occurred to your mind that the plain way out of our present dilemma is for you and Miss Silvester, respectively, to affirm what we know to be the truth--namely, that you never had the slightest intention of marrying each other. Beware of founding any hopes on any such remedy as that! If you reckon on it, you reckon without Geoffrey Delamayn. He is interested, remember, in proving you and Miss Silvester to be man and wife. Circumstances may arise--I won't waste time in guessing at what they may be--which will enable a third person to produce the landlady and the waiter at Craig Fernie in evidence against you--and to assert that your declaration and Miss Silvester's declaration are the result of collusion between you two. Don't start! Such things have happened before now. Miss Silvester is poor; and Blanche is rich. You may be made to stand in the awkward position of a man who is denying his marriage with a poor woman, in order to establish his marriage with an heiress: Miss Silvester presumably aiding the fraud, with two strong interests of her own as inducements--the interest of asserting the claim to be the wife of a man of rank, and the interest of earning her reward in money for resigning you to Blanche. There is a case which a scoundrel might set up--and with some appearance of truth too--in a court of justice!"
+
+"Surely, the law wouldn't allow him to do that?"
+
+"The law will argue any thing, with any body who will pay the law for the use of its brains and its time. Let that view of the matter alone now. Delamayn can set the case going, if he likes, without applying to any lawyer to help him. He has only to cause a report to reach Blanche's ears which publicly asserts that she is not your lawful wife. With her temper, do you suppose she would leave us a minute's peace till the matter was cleared up? Or take it the other way. Comfort yourself, if you will, with the idea that this affair will trouble nobody in the present. How are we to know it may not turn up in the future under circumstances which may place the legitimacy of your children in doubt? We have a man to deal with who sticks at nothing. We have a state of the law which can only be described as one scandalous uncertainty from beginning to end. And we have two people (Bishopriggs and Mrs. Inchbare) who can, and will, speak to what took place between you and Anne Silvester at the inn. For Blanche's sake, and for the sake of your unborn children, we must face this matter on the spot--and settle it at once and forever. The question before us now is this. Shall we open the proceedings by communicating with Miss Silvester or not?"
+
+At that important point in the conversation they were interrupted by the reappearance of Blanche. Had she, by any accident, heard what they had been saying?
+
+No; it was the old story of most interruptions. Idleness that considers nothing, had come to look at Industry that bears every thing. It is a law of nature, apparently, that the people in this world who have nothing to do can not support the sight of an uninterrupted occupation in the hands of their neighbors. Blanche produced a new specimen from Arnold's collection of hats. "I have been thinking about it in the garden," she said, quite seriously. "Here is the brown one with the high crown. You look better in this than in the white one with the low crown. I have come to change them, that's all." She changed the hats with Arnold, and went on, without the faintest suspicion that she was in the way. "Wear the brown one when you come out--and come soon, dear. I won't stay an instant longer, uncle--I wouldn't interrupt you for the world." She kissed her hand to Sir Patrick, and smiled at her husband, and went out.
+
+"What were we saying?" asked Arnold. "It's awkward to be interrupted in this way, isn't it?"
+
+"If I know any thing of female human nature," returned Sir Patrick, composedly, "your wife will be in and out of the room, in that way, the whole morning. I give her ten minutes, Arnold, before she changes her mind again on the serious and weighty subject of the white hat and the brown. These little interruptions--otherwise quite charming--raised a doubt in my mind. Wouldn't it be wise (I ask myself), if we made a virtue of necessity, and took Blanche into the conversation? What do you say to calling her back and telling her the truth?"
+
+Arnold started, and changed color.
+
+"There are difficulties in the way," he said.
+
+"My good fellow! at every step of this business there are difficulties in the way. Sooner or later, your wife must know what has happened. The time for telling her is, no doubt, a matter for your decision, not mine. All I say is this. Consider whether the disclosure won't come from you with a better grace, if you make it before you are fairly driven to the wall, and obliged to open your lips."
+
+Arnold rose to his fee t--took a turn in the room--sat down again--and looked at Sir Patrick, with the expression of a thoroughly bewildered and thoroughly helpless man.
+
+"I don't know what to do," he said. "It beats me altogether. The truth is, Sir Patrick, I was fairly forced, at Craig Fernie, into deceiving Blanche--in what might seem to her a very unfeeling, and a very unpardonable way."
+
+"That sounds awkward! What do you mean?"
+
+"I'll try and tell you. You remember when you went to the inn to see Miss Silvester? Well, being there privately at the time, of course I was obliged to keep out of your way."
+
+"I see! And, when Blanche came afterward, you were obliged to hide from Blanche, exactly as you had hidden from me?"
+
+"Worse even than that! A day or two later, Blanche took me into her confidence. She spoke to me of her visit to the inn, as if I was a perfect stranger to the circumstances. She told me to my face, Sir Patrick, of the invisible man who had kept so strangely out of her way--without the faintest suspicion that I was the man. And I never opened my lips to set her right! I was obliged to be silent, or I must have betrayed Miss Silvester. What will Blanche think of me, if I tell her now? That's the question!"
+
+Blanche's name had barely passed her husband's lips before Blanche herself verified Sir Patrick's prediction, by reappearing at the open French window, with the superseded white hat in her hand.
+
+"Haven't you done yet!" she exclaimed. "I am shocked, uncle, to interrupt you again--but these horrid hats of Arnold's are beginning to weigh upon my mind. On reconsideration, I think the white hat with the low crown is the most becoming of the two. Change again, dear. Yes! the brown hat is hideous. There's a beggar at the gate. Before I go quite distracted, I shall give him the brown hat, and have done with the difficulty in that manner. Am I very much in the way of business? I'm afraid I must appear restless? Indeed, I _am_ restless. I can't imagine what is the matter with me this morning."
+
+"I can tell you," said Sir Patrick, in his gravest and dryest manner. "You are suffering, Blanche, from a malady which is exceedingly common among the young ladies of England. As a disease it is quite incurable--and the name of it is Nothing-to-Do."
+
+Blanche dropped her uncle a smart little courtesy. "You might have told me I was in the way in fewer words than that." She whisked round, kicked the disgraced brown hat out into the veranda before her, and left the two gentlemen alone once more.
+
+"Your position with your wife, Arnold," resumed Sir Patrick, returning gravely to the matter in hand, "is certainly a difficult one." He paused, thinking of the evening when he and Blanche had illustrated the vagueness of Mrs. Inchbare's description of the man at the inn, by citing Arnold himself as being one of the hundreds of innocent people who answered to it! "Perhaps," he added, "the situation is even more difficult than you suppose. It would have been certainly easier for _you_--and it would have looked more honorable in _her_ estimation--if you had made the inevitable confession before your marriage. I am, in some degree, answerable for your not having done this--as well as for the far more serious dilemma with Miss Silvester in which you now stand. If I had not innocently hastened your marriage with Blanche, Miss Silvester's admirable letter would have reached us in ample time to prevent mischief. It's useless to dwell on that now. Cheer up, Arnold! I am bound to show you the way out of the labyrinth, no matter what the difficulties may be--and, please God, I will do it!"
+
+He pointed to a table at the other end of the room, on which writing materials were placed. "I hate moving the moment I have had my breakfast," he said. "We won't go into the library. Bring me the pen and ink here."
+
+"Are you going to write to Miss Silvester?"
+
+"That is the question before us which we have not settled yet. Before I decide, I want to be in possession of the facts--down to the smallest detail of what took place between you and Miss Silvester at the inn. There is only one way of getting at those facts. I am going to examine you as if I had you before me in the witness-box in court."
+
+With that preface, and with Arnold's letter from Baden in his hand as a brief to speak from, Sir Patrick put his questions in clear and endless succession; and Arnold patiently and faithfully answered them all.
+
+The examination proceeded uninterruptedly until it had reached that point in the progress of events at which Anne had crushed Geoffrey Delamayn's letter in her hand, and had thrown it from her indignantly to the other end of the room. There, for the first time, Sir Patrick dipped his pen in the ink, apparently intending to take a note. "Be very careful here," he said; "I want to know every thing that you can tell me about that letter."
+
+"The letter is lost," said Arnold.
+
+"The letter has been stolen by Bishopriggs," returned Sir Patrick, "and is in the possession of Bishopriggs at this moment."
+
+"Why, you know more about it than I do!" exclaimed Arnold.
+
+"I sincerely hope not. I don't know what was inside the letter. Do you?"
+
+"Yes. Part of it at least."
+
+"Part of it?"
+
+"There were two letters written, on the same sheet of paper," said Arnold. "One of them was written by Geoffrey Delamayn--and that is the one I know about."
+
+Sir Patrick started. His face brightened; he made a hasty note. "Go on," he said, eagerly. "How came the letters to be written on the same sheet? Explain that!"
+
+Arnold explained that Geoffrey, in the absence of any thing else to write his excuses on to Anne, had written to her on the fourth or blank page of a letter which had been addressed to him by Anne herself.
+
+"Did you read that letter?" asked Sir Patrick.
+
+"I might have read it if I had liked."
+
+"And you didn't read it?"
+
+"No."
+
+"Why?"
+
+"Out of delicacy."
+
+Even Sir Patrick's carefully trained temper was not proof against this. "That is the most misplaced act of delicacy I ever heard of in my life!" cried the old gentleman, warmly. "Never mind! it's useless to regret it now. At any rate, you read Delamayn's answer to Miss Silvester's letter?"
+
+"Yes--I did."
+
+"Repeat it--as nearly as you can remember at this distance of time."
+
+"It was so short," said Arnold, "that there is hardly any thing to repeat. As well as I remember, Geoffrey said he was called away to London by his father's illness. He told Miss Silvester to stop where she was; and he referred her to me, as messenger. That's all I recollect of it now."
+
+"Cudgel your brains, my good fellow! this is very important. Did he make no allusion to his engagement to marry Miss Silvester at Craig Fernie? Didn't he try to pacify her by an apology of some sort?"
+
+The question roused Arnold's memory to make another effort.
+
+"Yes," he answered. "Geoffrey said something about being true to his engagement, or keeping his promise or words to that effect."
+
+"You're sure of what you say now?"
+
+"I am certain of it."
+
+Sir Patrick made another note.
+
+"Was the letter signed?" he asked, when he had done.
+
+"Yes."
+
+"And dated?"
+
+"Yes." Arnold's memory made a second effort, after he had given his second affirmative answer. "Wait a little," he said. "I remember something else about the letter. It was not only dated. The time of day at which it was written was put as well."
+
+"How came he to do that?"
+
+"I suggested it. The letter was so short I felt ashamed to deliver it as it stood. I told him to put the time--so as to show her that he was obliged to write in a hurry. He put the time when the train started; and (I think) the time when the letter was written as well."
+
+"And you delivered that letter to Miss Silvester, with your own hand, as soon as you saw her at the inn?"
+
+"I did."
+
+Sir Patrick made a third note, and pushed the paper away from him with an air of supreme satisfaction.
+
+"I always suspected that lost letter to be an important document," he said--"or Bishopriggs would never have stolen it. We must get possession of it, Arnold, at any sacrifice. The first thing to be done (exactly as I anticipated), is to write to the Glasgow lawyer, and find Miss Silvester."
+
+"Wait a lit tle!" cried a voice at the veranda. "Don't forget that I have come back from Baden to help you!"
+
+Sir Patrick and Arnold both looked up. This time Blanche had heard the last words that had passed between them. She sat down at the table by Sir Patrick's side, and laid her hand caressingly on his shoulder.
+
+"You are quite right, uncle," she said. "I _am_ suffering this morning from the malady of having nothing to do. Are you going to write to Anne? Don't. Let me write instead."
+
+Sir Patrick declined to resign the pen.
+
+"The person who knows Miss Silvester's address," he said, "is a lawyer in Glasgow. I am going to write to the lawyer. When he sends us word where she is--then, Blanche, will be the time to employ your good offices in winning back your friend."
+
+He drew the writing materials once more with in his reach, and, suspending the remainder of Arnold's examination for the present, began his letter to Mr. Crum.
+
+Blanche pleaded hard for an occupation of some sort. "Can nobody give me something to do?" she asked. "Glasgow is such a long way off, and waiting is such weary work. Don't sit there staring at me, Arnold! Can't you suggest something?"
+
+Arnold, for once, displayed an unexpected readiness of resource.
+
+"If you want to write," he said, "you owe Lady Lundie a letter. It's three days since you heard from her--and you haven't answered her yet."
+
+Sir Patrick paused, and looked up quickly from his writing-desk.
+
+"Lady Lundie?" he muttered, inquiringly.
+
+"Yes," said Blanche. "It's quite true; I owe her a letter. And of course I ought to tell her we have come back to England. She will be finely provoked when she hears why!"
+
+The prospect of provoking Lady Lundie seemed to rouse Blanche s dormant energies. She took a sheet of her uncle's note-paper, and began writing her answer then and there.
+
+Sir Patrick completed his communication to the lawyer--after a look at Blanche, which expressed any thing rather than approval of her present employment. Having placed his completed note in the postbag, he silently signed to Arnold to follow him into the garden. They went out together, leaving Blanche absorbed over her letter to her step-mother.
+
+"Is my wife doing any thing wrong?" asked Arnold, who had noticed the look which Sir Patrick had cast on Blanche.
+
+"Your wife is making mischief as fast as her fingers can spread it."
+
+Arnold stared. "She must answer Lady Lundie's letter," he said.
+
+"Unquestionably."
+
+"And she must tell Lady Lundie we have come back."
+
+"I don't deny it."
+
+"Then what is the objection to her writing?"
+
+Sir Patrick took a pinch of snuff--and pointed with his ivory cane to the bees humming busily about the flower-beds in the sunshine of the autumn morning.
+
+"I'll show you the objection," he said. "Suppose Blanche told one of those inveterately intrusive insects that the honey in the flowers happens, through an unexpected accident, to have come to an end--do you think he would take the statement for granted? No. He would plunge head-foremost into the nearest flower, and investigate it for himself."
+
+"Well?" said Arnold.
+
+"Well--there is Blanche in the breakfast-room telling Lady Lundie that the bridal tour happens, through an unexpected accident, to have come to an end. Do you think Lady Lundie is the sort of person to take the statement for granted? Nothing of the sort! Lady Lundie, like the bee, will insist on investigating for herself. How it will end, if she discovers the truth--and what new complications she may not introduce into a matter which, Heaven knows, is complicated enough already--I leave you to imagine. _My_ poor powers of prevision are not equal to it."
+
+Before Arnold could answer, Blanche joined them from the breakfast-room.
+
+"I've done it," she said. "It was an awkward letter to write--and it's a comfort to have it over."
+
+"You have done it, my dear," remarked Sir Patrick, quietly. "And it may be a comfort. But it's not over."
+
+"What do you mean?"
+
+"I think, Blanche, we shall hear from your step-mother by return of post."

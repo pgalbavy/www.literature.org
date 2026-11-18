@@ -1,0 +1,8 @@
+---
+title: "The Widow And The Sheep"
+weight: 101
+aliases:
+  - "/authors/aesop/fables/chapter-99.html"
+---
+
+A CERTAIN poor widow had one solitary Sheep. At shearing time, wishing to take his fleece and to avoid expense, she sheared him herself, but used the shears so unskillfully that with the fleece she sheared the flesh. The Sheep, writhing with pain, said, "Why do you hurt me so, Mistress? What weight can my blood add to the wool? If you want my flesh, there is the butcher, who will kill me in an instant; but if you want my fleece and wool, there is the shearer, who will shear and not hurt me." The least outlay is not always the greatest gain.

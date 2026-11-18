@@ -1,0 +1,80 @@
+---
+title: "Chapter 40"
+weight: 40
+aliases:
+  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-40.html"
+---
+
+Major Jack Starland flashed up the glass and studied the other craft.
+
+"By Jove! you are right; where do you suppose they came from, Dick?"
+
+"The General must have established communication with his friends soon after we left him; he certainly has a strong crew."
+
+"That means he intends to attack us; it looks as if there is to be a naval battle between an American yacht and the navy of the Atlamalcan Republic."
+
+It was Miss Starland who said this without a trace of excitement, and as if the impending struggle was of only passing interest.
+
+"She is right," observed the mate; "it is hard to tell which has the advantage with one crippled and the other hard aground."
+
+"They will wait till night and then come at us in their small boats. As nearly as I can make out, they have all of twenty men on board. What is your opinion, Miss Starland?"
+
+She pointed the glass again for several minutes before replying:
+
+"There are nearer forty, for it is certain that some are keeping out of sight. I suppose they are well armed, and it seems to me we are in a bad situation."
+
+"There's no denying it," remarked her brother with a grave face; "they will wait till night and then dash upon us from several sides at the same time; the hour or two before the moon rises will be their opportunity."
+
+"But why," was the natural feminine inquiry, "does General Yozarro molest us? He has always claimed to be your friend, and, until today, has treated us both with courtesy. What pretext can he offer for his course?"
+
+"While there is little in his excuse, it will doubtless be that the owner of this yacht captured his flimsy tug which he persists in calling a gunboat, or rather that I stole it, for which offence he means to punish me."
+
+"Will he not in the end have to reckon with our government?"
+
+"Yes, but he must first reckon with *us*; the affair is a ridiculous one in which to involve the United States, and I shall not feel proud of my part, if forced to make the appeal; but General Yozarro will find it is no child's play in which he engages when he attacks us. We have not a very full supply of small arms on board, but we shall make things lively for him."
+
+When night closed in, the relative position of the two craft was unchanged. Every possible preparation was made on the yacht, for there could be no doubt of the hostile intentions of the Atlamalcans. A small boat was seen to leave its side and pass to the southern shore. Followed through the glasses, it disclosed two seamen swaying the oars, but when it returned after a brief absence, it held six passengers. The crew of the crippled tug was fast growing and General Yozarro had certainly made good use of his time.
+
+The twelve-pounder of the *Warrenia* was loaded to the muzzle. Six rifles were distributed among the men, several of whom had revolvers and all knives. Lookouts were placed at all points. The conviction was that during the brief period of gloom before the rising of the moon, two or three or possibly more small boats, crowded with armed men, would dash simultaneously upon the grounded craft and strive desperately to board her.
+
+The sanguinary fight that impended, with the certain loss of life on both sides, could be averted by a surrender, which calm judgment would have justified under the peculiar circumstances, but it was not strange that even Miss Starland and Aunt Cynthia hinted nothing of that nature. As for the officers and crew, they eagerly awaited the conflict with a band whom they despised. Although greatly outnumbered, not one doubted their ability to repel the attempt to board. There was only one condition that they would have changed; that was the presence of the ladies. They could be safeguarded during the fight, but it would have been better had they been far away. Such absence, however, was impossible and no one referred to it.
+
+But the naval battle never took place. When all the defenders were alert and on edge, it was observed that the yacht was floating. The disappointment was felt keenly even by the bellicose cook. There was a general peering into the gloom in the hope of discerning the approaching boats, and a sigh when they failed to appear.
+
+"It sometimes takes more courage to run away than to fight," said Major Starland with a laugh; "therefore we shall run away."
+
+He called his orders to Captain Winton, who, having shaken off the clutch of the mud, turned the prow of the craft so as to flank the obstruction, and signalled the engineer to go ahead at moderate speed. At the same time, he sent out a reverberating blast from the whistle, which the Atlamalcans might accept as a parting salute.
+
+The yacht steamed carefully down the river, and in the early hours of the morning passed Zalapata, where a few lights twinkled, and then proceeded toward the more pretentious town of San Luis. The only ones awake on the *Warrenia* were those whose duties required them to be alert, and Captain Winton, knowing that General Bambos was absent, held the whistle mute as he went by.
+
+*       *       *       *       *
+
+If the yacht *Warrenia* and its crew and passengers had been called upon to pass through a series of stirring incidents while in tropical America, a rare and most gratifying experience now came to them. The weather remained calm and the run to the southern extremity of the continent was as smooth and tranquil as it had been across the Caribbean Sea. When the neighborhood of Cape Horn was reached, Major Starland, in order to keep his pledge with his father, took the wheel. Captain Winton lit his pipe, sat down in the pilot house and grimly waited until his services were necessary.
+
+But not for an hour were they required, except now and then, in the way of simple relief. He had passed that danger region more than once, but never had he seen it so free of storm and rough weather. There was not a single moment when the yacht was in the slightest danger. In fact, to emphasize the wonderful, summer-like calmness of those usually turbulent waters, which are the dread of veteran navigators, Miss Starland held the spokes of the wheel for several hours. Such good fortune is not likely to come to a navigator once in a score of times.
+
+When the yacht steamed out of the wide mouth of the Amazon and headed southward, the assumed relationship between Major Starland and his "sister" was dropped. There was no call to keep it up, since every one on board knew the truth.
+
+The *Warrenia* was well up the western coast of South America and steaming rapidly toward the city of the Golden Gate. Hardly a breath of air rippled the bright waters, and the sky overhead was brilliant with its myriads of stars, whose gleam was intensified in the soft crystalline atmosphere.
+
+Major Starland was seated on a camp chair, where he and Miss Rowland were sheltered from the wind created by the motion of the yacht. She hardly needed the gaudily-colored zarape wrapped about her shoulders. They had been talking of their strange experiences, of Manuela Estacardo, of Captain Ortega and of those whose memories were much less pleasant.
+
+You can imagine the trend of that low, delightful conversation, for the scene, the surroundings, the time, indeed all the circumstances tended to draw them closer. What was said was too sacred in its nature, for us to quote in full: the conclusion is enough.
+
+"Warrenia, you have played the sister for some weeks to perfection. You must have become accustomed to hearing yourself called 'Miss Starland;' it certainly has a familiar sound by this time."
+
+"Yes," she replied, ceasing her efforts to disengage her hand from the fingers that had made it prisoner; "it could not well be otherwise. You know there is quite a similarity in our names."
+
+"What I wish to ask, Sweetheart, is whether you will not agree to make a slight change in the term by which you were addressed so long."
+
+"In what way?" she asked, as if she did not know what was coming.
+
+"Instead of being 'Miss Starland,' will you not consent that your correct name shall be 'Mrs. Starland?'"
+
+At first she begged for time in which to consider the proposition, but Jack was always headlong and presumptuous, as you know, and he insisted, and what could she do but consent? And among all the friends the two most pleased were "Teddy" Rowland and his partner, Tom Starland, when they heard the good news.
+
+*       *       *       *       *
+
+Transcriber's note:
+
+Minor changes have been made to correct typesetters' errors; otherwise, every effort has been made to remain true to the author's words and intent.

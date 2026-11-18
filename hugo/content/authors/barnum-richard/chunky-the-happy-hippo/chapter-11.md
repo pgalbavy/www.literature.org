@@ -1,0 +1,132 @@
+---
+title: "Chapter 11 - Chunky’s New Trick"
+weight: 11
+aliases:
+  - "/authors/barnum-richard/chunky-the-happy-hippo/chapter-11.html"
+---
+
+Chunky thought the circus was a very queer place. When the cage, on wheels, in which he was kept, was drawn up for the first time on the lot where the circus tent was pitched, the happy hippo thought he had never before seen so many people. There was a big crowd trying to get in the tents to look at the animals, watch the men and women ride horses around the ring, jump from the trapezes, and see the clowns do their funny tricks. Of course Chunky knew nothing of that. All he knew was that he had been brought to the circus. He knew this much because of what the elephant had said.
+
+The circus happened to stop in the town where Chunky was being kept, and, as they needed a hippo, one of the men who owned the circus bought Chunky.
+
+The circus had been traveling about from place to place, and Chunky’s wagon, of which half was a tank containing water in which he could float around, had been put on the car and hauled with the other circus wagons. At first Chunky was afraid of the train of cars, but he soon grew to like it.
+
+So the hippo really came to the show in the middle of the season, when it was traveling from city to city. At what was the first performance for Chunky, his cage was wheeled into the animal tent, and placed in a ring next to a cage of monkeys on one side and a cage with a rhinoceros in it on the other.
+
+“How do you do,” said Chunky, as politely as he could to the monkeys.
+
+“Who are you?” asked one of the big monkeys.
+
+“They call me Chunky, the happy hippo,” was the answer. “I used to live in the jungle, but I fell into a pit and was caught, put on a ship, and then I fell overboard into the ocean.”
+
+“My! you’ve had a lot of adventures!” said the monkey.
+
+“Did you say you just came from the jungle?” asked the rhinoceros.
+
+“Well, not long ago,” answered Chunky.
+
+“Oh, tell me about it!” begged the rhino. “I used to live in the jungle myself, and I would like to hear about it again, though it is much easier to live here in the circus, where you get all you want to eat. Tell me about the jungle.”
+
+So Chunky told about swimming in the muddy river, of the crocodile that bit him, and how Tum Tum had pulled him out of the mud.
+
+“Did I hear you speak of Tum Tum?” asked one of the elephants on the other side of the animal tent.
+
+“Yes, I met him in the jungle,” said Chunky. “He said he used to be in a circus. Perhaps you knew him.”
+
+“Know him? I should say I did!” trumpeted a large elephant. “Why, Tum Tum used to be in this very circus! He was such a jolly fellow! We were all sorry to see him go.”
+
+“Who’s that you’re speaking of?” asked a bear, who came into the tent just then. He was dressed up like a clown.
+
+“We were speaking of Tum Tum,” said one of the elephants. “Here is a hippo who has just joined our circus. He met Tum Tum in the jungle.”
+
+“I have been wondering what had become of him,” went on the bear, who had been out in the ring doing some funny tricks with a clown.
+
+“Did you know Tum Tum?” asked Chunky.
+
+“I should say so!” laughed the bear. “My name is Dido, and I’m a dancer. Why, Tum Tum once saved me and some other animals from a fire when we were shut in our cages. He opened mine and the others’, and let us out, so we did not get burned. Tum Tum is a great elephant! He has a book written about his adventures. And so have I!”
+
+“So I heard,” said Chunky, and then he told more of the things that had happened to him.
+
+“You’ll have a book written about you before you know it,” said one of the monkeys. “You’ve had as many adventures already as Mappo, who was one of us once.”
+
+“Yes, I met friends of his in the jungle,” said Chunky.
+
+Then he and the circus animals talked for some time, discussing together how the show moved from place to place and how the animal cages were put on railroad cars and hauled many miles, from one big city to another.
+
+Out in the other tent there was music, as Chunky could hear. It was not like the music the black Africans of the jungle made, and which Chunky had heard when he and the other hippos ate at night near the jungle towns. But it was music that Chunky liked.
+
+“Well, it is time for us to go into the rings and do our tricks,” said one of the elephants, as the men came in to lead them away.
+
+“I wish I could do tricks outside my cage,” said Chunky.
+
+“Can you do any tricks at all?” asked Dido, the dancing bear.
+
+“Yes, I can open my mouth wide, and eat carrots,” said the happy hippo. “See!” and he did his one and only trick.
+
+“Well, that is very nice,” said Dido, “but I guess it would hardly do for the circus ring. You have to jump through hoops, or stand on your head or turn somersaults to get taken out to the rings or the platforms in the big tent, where the people sit down to watch you.”
+
+“I guess I’ll never be able to do any of those tricks,” said Chunky. “I have only one.”
+
+But in a few days he learned another. It happened this way.
+
+Every circus day his wagon stood in a ring with the others in the animal tent, and the people used to crowd about to look at him, at the elephants, at Dido and the others. Then Chunky’s trainer, who had been told about the mouth-opening trick, would call:
+
+“Open, Chunky!” and open would go his big mouth.
+
+“Oh-o-o-o-o!” all the people would cry, and one little boy said:
+
+“I wouldn’t want to fall down his throat. I’d never get up again――never!”
+
+“No, indeed!” said the little boy’s mother.
+
+So Chunky did his only trick, and wished he could do more, and pretty soon he did. One day a keeper was tossing loaves of bread to the elephants who stood in line, that time, next to Chunky’s wagon. One of the loaves was not thrown straight, and went toward Chunky’s cage.
+
+Now the happy hippo happened to be hungry; so he opened his mouth as wide as he could, as he saw the loaf of bread coming his way, and right in it went. And Chunky chewed it with his big teeth, and it tasted very well.
+
+“Ha!” cried Chunky’s keeper, who had seen what happened. “If he could do that every day it would make a good trick. I’ll try it.”
+
+Chunky learned this trick very easily. Whenever he saw his friend, the keeper, standing in front of the cage with a loaf of bread in his hand, Chunky knew what was going to happen.
+
+“Catch this now!” the keeper would cry, and, as he tossed the loaf, the happy hippo would open his mouth as wide as ever he could, and down it would go. Then the boys and girls in the circus tent would laugh and clap their hands, and even the big folks would smile, for the loaf of bread looked so small in Chunky’s big mouth.
+
+“Now my hippo can do two tricks!” the keeper cried. “Maybe I can teach him some others.”
+
+But if you have ever looked at a hippo in a circus or in a menagerie, you can easily see that they can not do very many tricks――not as many as an elephant or a horse. But, in time, Chunky learned to lie down and roll over outside his tank, and that was something to do. He also learned to stand on three legs, and raise the other toward his keeper when told to do so. Thus Chunky had four tricks he could do, and one day the man said:
+
+“My hippo is getting so smart I think I can take him out in the big tent where the music is, and have him do his tricks there.”
+
+This the man did, and Chunky was quite proud and happy. He opened his mouth wide when his master told him to.
+
+“Now he is smiling at you!” the keeper would say to the circus crowds, and then the boys and girls would laugh. It seemed funny for a hippo to smile, but that is what Chunky meant it for. He was very happy now, and quite jolly among the other animals.
+
+“He is almost as jolly as Tum Tum was, when he was here,” said the rhino. “And it needs some one to keep us animals jolly. When I think of the jungle where I used to live, I get lonesome.”
+
+“Oh, well, the circus is a nice place!” Chunky would say, and then he would open his big mouth and smile in such a way that all the other animals had to laugh. So Chunky made them jolly whether they wanted to be or not. But most of them did.
+
+Chunky stayed with the circus for a number of years, and grew very large and heavy, so that he weighed about five thousand pounds, or more than two tons of coal.
+
+[Illustration: “‘Now he is smiling at you!’”]
+
+In fact Chunky grew too large for the circus, as he had to be carried around in a tank wagon, and could not walk, as the elephants did, to and from the trains. So one day Chunky was sold to a park in a big city, and the park had a menagerie in which different animals were kept, including some elephants, camels and giraffes.
+
+In this park Chunky had a very fine and large cage, with a big tank at one end. Into this he could go whenever he wanted to, and stay as long as he liked.
+
+Many people came to the park to see him, for he was one of the largest hippos in the world, it was said, and people seem to like to look at very large or very small things.
+
+Chunky did not forget his tricks, though soon after he went to live in the menagerie he became too heavy to stand on three legs and raise the other. And he could hardly roll over when the keeper told him to.
+
+But Chunky could still do his trick of catching a loaf of bread in his mouth, and he could open his jaws as wide as ever, and the children who came to the park to see the animals never were tired of watching the keeper make Chunky do his two best tricks.
+
+One day when Chunky was in the dry part of his cage, at the end where there was no water tank, he saw a small animal run in between the heavy iron bars――that is, an animal much smaller than he was, but almost as large as Dido, the dancing bear, it seemed to Chunky.
+
+“Ho! who are you that dares come into my cage without asking me?” inquired Chunky, though he did not speak crossly. “Do you belong to the park menagerie? If you do, you must have gotten out of your cage.”
+
+“No, I don’t belong here,” answered the small animal. “I am Don; and I am a dog. Once I was a runaway dog, but I am not any more. I’ve had lots of adventures, and a book has been written about me.”
+
+“My!” grunted Chunky. “It seems also every animal I meet has had a book written about him or her. Well, Don, I am glad to see you.”
+
+“Have you had any adventures?” asked Don, with a friendly bark.
+
+“Oh, yes, many of them,” answered Chunky. “If you want to lie down on that pile of hay, I’ll tell you about them.”
+
+So Don lay down on the pile of hay in the cage, and Chunky told some of his jungle adventures. And, though the happy hippo did not know it, he was soon to have an adventure with Don.

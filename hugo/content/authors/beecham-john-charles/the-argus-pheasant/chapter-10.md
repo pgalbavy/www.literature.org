@@ -1,0 +1,96 @@
+---
+title: "Chapter 10 - Captain Carver Signs"
+weight: 11
+aliases:
+  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-10.html"
+---
+
+When Peter Gross recovered consciousness fifteen minutes later he found himself in familiar quarters. He was lying on a cot in Captain Rouse's den, commonly designated by that gentleman as "the cabin." Captain Rouse's face, solemn as an owl's, was leaning over him. As he blinked the captain's lips expanded into a grin.
+
+"Wot did I tell ye, 'e's all right!" the captain roared delightedly. "Demmit, ye can't kill a Sunda schooner bucko mate with a little bloodlettin'. Ah Sing pretty near got ye, eh, Peter?"
+
+The last was to Peter Gross, who was sitting up and taking inventory of his various bandages, also of his hosts. There were two strangers in the room. One was a short, stocky young man with a pugnacious Irish nose, freckly face, and hair red as a burnished copper boiler. His eyes were remarkably like the jovial navigator's, Peter Gross observed. The other was a dark, well-dressed man of about forty, with a military bearing and reserved air. He bore the stamp of gentility.
+
+"Captain Carver," Roaring Rory announced. "My old mate, Peter Gross, the best man as ever served under me."
+
+The elder man stepped forward and clasped Peter Gross's hand. The latter tried to rise, but Carver restrained him.
+
+"You had better rest a few moments, Mr. Gross," he said. There was a quiet air of authority in his voice that instantly attracted the resident, who gave him a keen glance.
+
+"My nevvy, Paddy, Peter, the doggonest young scamp an old sea-horse ever tried to raise," Rouse bellowed. "I wish I could have him for'ard with a crew like we used to have on the old Gloucester Maid." He guffawed boisterously while the younger of the two strangers, his face aglow with a magnetic smile, sprang forward and caught Peter Gross's hand in a quick, dynamic grip.
+
+"Them's the lads ye've got to thank for bein' here," Roaring Rory announced, with evident pride. "If they hadn't heard the fracas and butted in, the Chinks would have got ye sure."
+
+"I rather fancied it was you whom I have to thank for being here," Peter Gross acknowledged warmly. "You were certainly just in time."
+
+"Captain Rouse is too modest," Captain Carver said. "It was he who heard the disturbance and jumped to the conclusion you might be--in difficulty."
+
+The old navigator shook his head sadly. "I warned ye, Peter," he said; "I warned ye against that old devil, Ah Sing. Didn't I tell you to be careful at night? Ye ain't fit to be trusted alone, Peter."
+
+"I think you did," Peter Gross acknowledged with a twinkle. "But didn't you fix our appointment for to-night?"
+
+"Ye should have carried a gun," Roaring Rory reproved. "Leastwise a belayin'-pin. Ye like to use your fists too well, Peter. Fists are no good against knives. I'm a peace-lovin' man, Peter, 'twould be better for ye if ye patterned after me."
+
+Peter Gross smiled, for Roaring Rory's record for getting into scrapes was known the length and breadth of the South Pacific. Looking up, he surprised a merry gleam in Captain Carver's eyes and Paddy striving hard to remain sober.
+
+"I'll remember your advice, captain," Peter Gross assured.
+
+"Humph!" Roaring Rory grunted. "Well, Peter, is your head clear enough to talk business?"
+
+"I think so," Peter Gross replied slowly. "Have you explained the matter I came here to discuss?"
+
+"Summat, summat," Rouse grunted. "I leave the talking to you, Peter."
+
+"Captain Rouse told me you wanted some one to take charge of a company of men for a dangerous enterprise somewhere in the South Pacific," Carver replied. "He said it meant risking life. That might mean anything to piracy. I understand, however, that your enterprise has official sanction."
+
+"My appointment is from the governor-general of the Netherlands East Indies," Peter Gross stated.
+
+"Ah, yes."
+
+"I need a man to drill and lead twenty-five men, all of whom have had some military training. I want a man who knows the Malays and their ways and knows the bush."
+
+"I was in the Philippines for two years as a captain of volunteer infantry," Carver said. "I was in Shanghai for four years and had considerable dealings at that time with the Chinese. I know a little of their language."
+
+"Have you any one dependent on you?"
+
+"I am a bachelor," Captain Carver replied.
+
+"Does twenty-five hundred a year appeal to you?"
+
+"That depends entirely on what services I should be expected to render."
+
+Confident that he had landed his man, and convinced from Captain Rouse's recommendation and his own observations that Carver was the very person he had been seeking, Peter Gross threw reserve aside and frankly stated the object of his expedition and the difficulties before him.
+
+"You see," he concluded, "the game is dangerous, but the stakes are big. I have no doubt but what Governor Van Schouten will deal handsomely with every one who helps restore order in the residency."
+
+Captain Carver was frowning.
+
+"I don't like the idea of playing one native element against another," he declared. "It always breeds trouble. The only people who have ever been successful in pulling it off is the British in India, and they had to pay for it in blood during the Mutiny. The one way to pound the fear of God into the hearts of these benighted browns and blacks is to show them you're master. Once they get the idea the white man can't keep his grip without them, look out for treachery."
+
+"I've thought of that," Peter Gross replied sadly. "But to do as you suggest will take at least two regiments and will cost the lives of several thousand Dyaks. You will have to lay the country bare, and you will sow a seed of hate that is bound to bear fruit. But if I can persuade them to trust me, Bulungan will be pacified. Brooke did it in Sarawak, and I believe I can do it here."
+
+Carver stroked his chin in silence.
+
+"You know the country," he said. "If you have faith and feel you want me, I'll go with you."
+
+"I'll have a lawyer make the contracts at once," Peter Gross replied. "We can sign them to-morrow."
+
+"Can't you take me with you, too, Mr. Gross?" Paddy Rouse asked eagerly.
+
+Peter Gross looked at the lad. The boy's face was eloquent with entreaty.
+
+"How old are you?" he asked.
+
+"Seventeen," came the halting acknowledgment. "But I've done a man's work for a year. Haven't I, avunculus?"
+
+Captain Rouse nodded a reluctant assent. "I hate to miss ye, my boy," he said, "but maybe a year out there would get the deviltry out of ye and make a man of ye. If Peter wants ye, he may have ye."
+
+A flash of inspiration came to Peter Gross as he glanced at the boy's tousled shock of fiery-red hair.
+
+"I'll take you on a private's pay," he said. "A thousand a year. Is that satisfactory?"
+
+"I'm signed," Paddy whooped. "Hooray!"
+
+When Peter Gross and his company left Tanjong Priok a fortnight later Captain Rouse bade them a wistful good-bye at the wharf.
+
+"Take care of the lad; he's all I got," he said huskily to the resident. "If it wasn't for the damned plantation I'd go with ye, too."

@@ -1,0 +1,264 @@
+---
+title: "Chapter 2"
+weight: 2
+aliases:
+  - "/authors/chambers-robert-w/blue-bird-weather/chapter-02.html"
+---
+
+Marche, buried under a mountain of bed clothes, dreamed that people were rapping noisily on his door, and grinned in his dream, meaning to let them rap until they tired of it. Suddenly a voice sounded through his defiant slumbers, clear and charming as a golden ray parting thick clouds. The next moment he found himself awake, bolt upright in the icy dusk of his room, listening.
+
+"Mr. Marche! Won't you *please* wake up and answer?" came the clear, young voice again.
+
+"I *beg* your pardon!" he cried. "I'll be down in a minute!"
+
+He heard her going away downstairs, and for a few seconds he squatted there, huddled in coverings to the chin, and eying the darkness in a sort of despair. The feverish drive of Wall Street, late suppers, and too much good fellowship had not physically hardened Marche. He was accustomed to have his bath tempered comfortably for his particular brand of physique. Breakfast, also, was a most carefully ordered informality with him.
+
+The bitter chill smote him. Cursing the simple life, he crawled gingerly out of bed, suffered acutely while hunting for a match, lighted the kerosene lamp with stiffened fingers, and looked about him, shivering. Then, with a suppressed anathema, he stepped into his folding tub and emptied the arctic contents of the water pitcher over himself.
+
+Half an hour later he appeared at the breakfast table, hungrier than he had been in years. There was nobody there to wait on him, but the dishes and coffee pot were piping hot, and he madly ate eggs and razor-back, and drank quantities of coffee, and finally set fire to a cigarette, feeling younger and happier than he had felt for ages.
+
+Of one thing he was excitedly conscious: that dreadful and persistent dragging feeling at the nape of his neck had vanished. It didn't seem possible that it could have disappeared overnight, but it had, for the present, at least.
+
+He went into the sitting room. Nobody was there, either, so he broke his sealed shell boxes, filled his case with sixes and fives and double B's, drew his expensive ducking gun from its case and took a look at it, buckled the straps of his hip boots to his belt, felt in the various pockets of his shooting coat to see whether matches, pipe, tobacco, vaseline, oil, shell extractor, knife, handkerchief, gloves, were in their proper places; found them so, and, lighting another cigarette, strolled contentedly around the small and almost bare room, bestowing a contented and patronizing glance upon each humble article and decoration as he passed.
+
+Evidently this photograph, in an oval frame of old-time water gilt, was a portrait of Miss Herold's mother. What a charming face, with its delicate, high-bred nose and lips! The boy, Jim, had her mouth and nose, and his sister her eyes, slightly tilted to a slant at the outer corners—beautifully shaped eyes, he remembered.
+
+He lingered a moment, then strolled on, viewing with tolerant indifference the few poor ornaments on the mantel, the chromos of wild ducks and shore birds, and found himself again by the lamp-lit table from which he had started his explorations.
+
+On it were Jim's Latin book, a Bible, and several last year's magazines.
+
+Idly he turned the flyleaf of the schoolbook. Written there was the boy's name—"Jim, from Daddy."
+
+As he was closing the cover a sudden instinct arrested his hand, and, not knowing exactly why, he reopened the book and read the inscription again. He read it again, too, with a vague sensation of familiarity with it, or with the book, or something somehow connected with it, he could not tell exactly what; but a slightly uncomfortable feeling remained as he laid aside the book and stood with brows knitted and eyes absently bent on the stove.
+
+The next moment Jim came in, wearing a faded overcoat which he had outgrown.
+
+"Hello!" said Marche, looking up. "Are you ready for me, Jim?"
+
+"Yes, sir."
+
+"What sort of a chance have I?"
+
+"I'm afraid it is blue-bird weather," said the boy diffidently.
+
+Marche scowled, then smiled. "Your sister said it would probably be that kind of weather. Well, we all have to take a sporting chance with things in general, don't we, Jim?"
+
+"Yes, sir."
+
+Marche picked up his gun case and cartridge box. The boy offered to take them, but the young man shook his head.
+
+"Lead on, old sport!" he said cheerily. "I'm a beast of more burdens than you know anything about. How's your father, by the way?"
+
+"I think father is about the same."
+
+"Doesn't he need a doctor?"
+
+"No, sir, I think not."
+
+"What is it, Jim? Fever?"
+
+"I don't know," said the boy, in a low voice. He led the way, and Marche followed him out of doors.
+
+A gray light made plain the desolation of the scene, although the sun had not yet risen. To the south and west the sombre pine woods stretched away; eastward, a few last year's cornstalks stood, withered in the clearing, through which a rutted road ran down to the water.
+
+"It isn't the finest farming land in the world, is it, Jim?" he said humorously.
+
+"I haven't seen any other land," said the boy quietly.
+
+"Don't you remember the Northern country at all?"
+
+"No, sir—except Central Park."
+
+"Oh, you were New-Yorkers?"
+
+"Yes, sir. Father⸺" and he fell abruptly silent.
+
+They were walking together down the rutted road, and Marche glanced around at him.
+
+"What were you going to say about your father, Jim?"
+
+"Nothing." Then truth jogged his arm. "I mean I was only going to say that father and mother and all of us lived there."
+
+"In New York?"
+
+"Yes, sir."
+
+"Is your—your mother living?"
+
+"No, sir."
+
+"I think I saw her picture in the sitting room," he said gently. "She must have been everything a mother should be."
+
+"Yes, sir."
+
+"Was it long ago, Jim?"
+
+"When she died?"
+
+"Yes."
+
+"Yes, very long ago. Six years ago."
+
+"Before you came here, then?"
+
+"Yes, sir."
+
+After they had walked in silence for a little while, Marche said, "I suppose you have arranged for somebody to take me out?"
+
+"Yes, sir."
+
+They emerged from the lane to the shore at the same moment, and Marche glanced about for the expected bayman.
+
+"Oh, there he is!" he said, as a figure came from behind a dory and waded leisurely shoreward through the shallows—a slight figure in hip boots and wool shooting hood and coat, who came lightly across the sands to meet him. And, astonished, he looked into the gray eyes of Molly Herold.
+
+"Father could not take you," she said, without embarrassment, "and Jim isn't quite big enough to manage the swans and geese. Do you mind my acting as your bayman?"
+
+"Mind?" he repeated. "No, of course not. Only—it seems rather rough on you. Couldn't you have hired a bayman for me?"
+
+"I will, if you wish," she said, her cheeks reddening. "But, really, if you'll let me, I am perfectly accustomed to bayman's work."
+
+"Do you *want* to do it?"
+
+She said, without self-consciousness, "If it is the same to you, Mr. Marche, I had rather that the bayman's wages came to us."
+
+"Certainly—of course," he said hurriedly. Then, smiling: "You look the part. I took you for a young man, at first. Now, tell me how I can help you."
+
+"Jim can do that. Still, if you don't mind handling the decoys⸺"
+
+"Not at all," he said, going up to the fenced inclosures which ran from a rod or two inland down into the shallow water, making three separate yards for geese, swans, and ducks.
+
+Jim was already in the duck pen, hustling the several dozen mallard and black ducks into an inland corral. The indignant birds, quacking a concerted protest, waddled up from the shore, and, one by one, the boy seized the suitable ones, and passed them over the fence to Marche. He handed them to Molly Herold, who waded out to the dory, a duck tucked under either arm, and slipped them deftly into the decoy-crates forward and aft.
+
+The geese were harder to manage—great, sleek, pastel-tinted birds whose wing blows had the force of a man's fist—and they flapped and struggled and buffeted Jim till his blonde head spun; but at last Marche and Molly had them crated in the dory.
+
+Then the wild swans' turn came—great, white creatures with black beaks and feet; and Molly and Marche were laughing as they struggled to catch them and carry them aboard.
+
+But at last every decoy was squatting in the crates; the mast had been stepped, guns laid aboard, luncheon stowed away. Marche set his shoulder to the stern; the girl sprang aboard, and he followed; the triangular sail filled, and the boat glided out into the sound, straight into the glittering lens of the rising sun.
+
+A great winter gull flapped across their bows; in the lee of Starfish Island, long strings of wild ducks rose like shredded clouds, and, swarming in the sky, swinging, drifting, sheered eastward, out toward the unseen Atlantic.
+
+"Bluebills and sprigs," said the girl, resting her elbow on the tiller. "There are geese on the shoal, yonder. They've come out from Currituck. Oh, I'm afraid it's to be blue-bird weather, Mr. Marche."
+
+"I'm afraid it is," he assented, smiling. "What do you do in that case, Miss Herold?"
+
+"Go to sleep in the blind," she admitted, with a faint smile, the first delicate approach to anything resembling the careless confidence of camaraderie that had yet come from her.
+
+"See the ducks!" she said, as bunch after bunch parted from the water, distantly, yet all around them, and, gathering like clouds of dusky bees, whirled away through the sky until they seemed like bands of smoke high drifting. Presently she turned and looked back, signaling adieu to the shore, where her brother lifted his arm in response, then turned away inland.
+
+"That's a nice boy," said Marche briefly, and glanced up to see in his sister's face the swift and exquisite transformation that requires no words as answer.
+
+"You seem to like him," said he, laughing.
+
+Molly Herold's gray eyes softened; pride, that had made the love in them brilliant, faded until they grew almost sombre. Silent, her aloof gaze remained fixed on the horizon; her lips rested on each other in sensitive curves. There was no sound save the curling of foam under the bows.
+
+Marche looked elsewhere; then looked at her again. She sat motionless, gray eyes remote, one little, wind-roughened hand on the tiller. The steady breeze filled the sail; the dory stood straight away toward the blinding glory of the sunrise.
+
+Through the unreal golden light, raft after raft of wild ducks rose and whirled into the east; blue herons flopped across the water; a silver-headed eagle, low over the waves, winged his way heavily toward some goal, doggedly intent upon his own business.
+
+Outside Starfish Shoal the girl eased the sheet as the wind freshened. Far away on Golden Bar thousands of wild geese, which had been tipping their sterns skyward in plunging quest of nourishment, resumed a more stately and normal posture, as though at a spoken command; and the long ranks, swimming, and led by age and wisdom, slowly moved away into the glittering east.
+
+At last, off the starboard bow, the low, reedy levels of Foam Island came into view, and in a few minutes more the dory lay in the shallows, oars, mast, and rag stowed; and the two young people splashed busily about in their hip boots, carrying guns, ammunition, and food into the blind.
+
+Then Molly Herold, standing on the mud bank, flung, one by one, a squadron of wooden, painted, canvasback decoys into the water, where they righted themselves, and presently rode the waves, bobbing and steering with startling fidelity to the real things.
+
+Then it came the turn of the real things. Marche and Molly, a struggling bird tucked under each arm, waded out along the lanes of stools, feeling about under the icy water until their fingers encountered the wire-cored cords. Then, to the leg rings of each madly flapping duck and swan and goose they snapped on the leads, and the tethered birds, released, beat the water into foam and flapped and splashed and tugged, until, finally reconciled, they began to souse themselves with great content, and either mounted their stools or swam calmly about as far as their tethers permitted.
+
+Marche, struggling knee-deep in the water, his arms full of wildly flapping gander, hailed Molly for instructions.
+
+"That's a mated bird!" she called out to him. "Peg him outside by himself!"
+
+So Marche pegged out the furious old gander, whose name was Uncle Dudley, and in a few minutes that dignified and insulted bird, missing his spouse, began to talk about it.
+
+Every wifely feeling outraged, his spouse replied loudly from the extreme end of the inner lane, telling her husband, and every duck, goose, and swan in the vicinity, what she thought of such an inhuman separation.
+
+Molly laughed, and so did Marche. Duck after duck, goose after goose, joined indignantly in the conversation. The mallard drakes twisted their emerald-green heads and began that low, half gurgling, half quacking conversation in which their mottled brown and gray mates joined with louder quacks. The geese conversed freely; but the long-necked swans held their peace, occupied with the problem of picking to pieces the snaps on their anklets.
+
+"Now," said Molly breathlessly, as the last madly protesting bird had been stooled, "let's get into the blind as soon as we can, Mr. Marche. There may be ducks in Currituck still, and every minute counts now."
+
+So Marche towed the dory around to the westward and drew it into a channel where it might lie concealed under the reeds.
+
+When he came across to the blind he found Molly there, seated on the plank in the cemented pit behind the screen of reeds and rushes, laying out for him his cartridges.
+
+There they were, in neat rows on the rail, fives, sixes, and a few of swanshot, ranged in front of him. And his 12-gauge, all ready, save for the loading, lay across the pit to his right. So he dropped his booted feet into the wooden tub where a foot-warmer lay, picked up the gun, slid a pair of sixes into it, laid it beside him, and turned toward Miss Herold.
+
+The wool collar of her sweater was turned up about her delicately molded throat and face. The wild-rose color ran riot in her cheeks, and her eyes, sky tinted now, were wide open under the dark lashes, and the wind stirred her hair till it rippled bronze and gold under the edge of her shooting hood. She, too, was perfectly ready. A cheap, heavy, and rather rusty gun lay beside her; a heap of cheap cartridges before her.
+
+She turned, and, catching Marche's eyes, smiled adorably, with a slight nod of comradeship. Then, the smile still faintly curving her lips, she crossed her legs in the pit, and, warming her hands in the pockets of her coat, leaned back, resting against the rail behind.
+
+"You haven't a foot-warmer," he said.
+
+"I'm not cold—only my fingers—a little—stooling those birds."
+
+They spoke in low voices, under their breath.
+
+He fished from his pocket a flat Japanese hand-warmer, lighted the paper-cased punk, snapped it shut, and passed it to her. But she demurred.
+
+"You need it yourself."
+
+"No, I'm all right. Please take it."
+
+So she shyly took it, dropped it into her pocket, and rested her shapely little hand on it. "How delightful!" she said presently, shifting it to the other pocket. "Don't you really need it, Mr. Marche?"
+
+"No. Does it warm you?"
+
+"It is delicious. I *was* a little chilled." She drew out one bare hand and looked at it thoughtfully. Then, with a little sigh, and quite unconscious of his gaze, she touched her lips to the wind-roughened skin, as though in atonement for her maltreatment of herself.
+
+Even as it now was the shape and beauty of the hand held Marche fascinated; it was so small, yet so firm and strong and competent, so full of youthful character, such a delicately fashioned little hand, and so pathetic, somehow—this woman's hand, with its fineness of texture and undamaged purity under the chapped and cruelly bruised, tender skin.
+
+She pocketed it again, looking out from under the wind-blown hair clustering from the edge of her shooting hood. "Blue-bird weather," she said, in her low and very sweet voice. "If no birds swing in by ten o'clock we might as well sleep until four."
+
+Marche leaned forward and scanned the water and sky alternately. Nothing stirred, save their lazily preening decoys. Uncle Dudley was still conversing with his wife at intervals; the swans and the cygnets fed or worried their leash snaps; the ducks paddled, or dozed on the stools, balanced on one leg.
+
+Far away, on Golden Bar, half a thousand wild geese floated, feeding; beyond, like snowflakes dotting the water, a few wild swans drifted. There were ducks, too, off Starfish Island again, but nothing flying in the blue except a slow hawk or some wandering gull, or now and then an eagle—sometimes a mature bird, in all the splendor of white head and tail, sometimes a young bird, seemingly larger, and all gray from crest to shank.
+
+Once an eagle threatened the decoys, and Uncle Dudley swore so lustily at him, and every duck and goose set up such a clamor, that Molly Herold picked up her gun for the emergency. But the magnificent eagle, beating up into the wind with bronze wings aglisten, suddenly sheered off; and, as he passed, Marche could see his bold head turn toward the blind where the sun had flashed him its telegraphic warning on the barrel of Molly's lifted gun.
+
+"Fine!" he whispered. "Splendid! I'm glad you didn't kill him."
+
+"I'm glad I didn't have to," she said.
+
+"Do you think you could have?"
+
+She turned toward him, wondering whether he might be serious; then smiled as he smiled.
+
+At the same instant, coming apparently from nowhere, four canvasbacks suddenly appeared over the clamoring decoys, so close in that, as they came driving by the blind and rose slightly, wings bowed, Marche could almost see their beady little eyes set in the chestnut red of the turning heads. Mechanically his gun spoke twice; rap-rap, echoed Miss Herold's gun, and splash! splash! down whirled two gray-and-red ducks; then a third, uncertain, slowed down, far out beyond the decoys, and slanted sideways to the water. The fourth went on.
+
+"Duffer that I am," said Marche good-humoredly. "That was a clean double of yours, Miss Herold!—clean-cut work."
+
+She said, slightly knitting her straight brows: "I should have crossed two of them and killed the one you missed. I think I'd better get the boat."
+
+"No, I'll go out after that kicker," he said, ashamed of his slovenly work.
+
+Five minutes later he returned with his kicker and her two ducks—great, fat, heavy canvasbacks, beautiful in their red, black, and drab plumage.
+
+"What about blue-bird weather, now?" he laughed.
+
+But she only smiled and said, "I'm very much afraid."
+
+For a long while they sat there, alert behind their wall of rustling reeds, watching sky and water. False alarms were not infrequent from their decoys. Sometimes the outbreak of quacking and honking was occasioned by some wandering gull, sometimes by a circling hawk or some eagle loitering in mid-heaven on broad and leisurely wings, reluctant to remain, unwilling to go; sometimes to a pair or two of widgeon or pintails speeding eastward high in the blue. But the sparkling, cloudless hours sped away, and no duck or goose or swan invaded the vicinity. Only one sly old black duck dropped into the reeds far back on the island; and Marche went after him with serious designs upon his fraudulent old life.
+
+When the young man returned, twenty minutes later, perfectly innocent of duck murder, he found the girl curled up in her corner of the pit, eyes closed, tired little head cradled in the curve of her left arm. She waked as he slid into the blind, and smiled at him, pretending not to have been asleep.
+
+"Did you get him?"
+
+"No. He went off at two hundred yards."
+
+"Blue-bird weather," she sighed; and again they exchanged smiles. He noticed that her eyes had somehow become exceedingly blue instead of the clear gray which he had supposed was their color. And, after her brief slumber, there seemed to be a sort of dewy freshness about them, and about her slightly pink cheeks, which, at that time, he had no idea were at all perilous to him. All he was conscious of was a sensation of pleasure in looking at her, and a slight surprise in the revelation of elements in her which, he began to decide, constituted real beauty.
+
+"That's a quaint expression—'blue-bird weather,'" he said. "It's a perfect description of a spring-like day in winter. Is it a local expression?"
+
+"Yes —I think so. There's a song about it, along the coast"—she laughed uncertainly—"a rather foolish song."
+
+"What is it?"
+
+"If I remember"—she hesitated, thinking for a moment, then, with a laugh which he thought a little bashful—"it's really too silly to repeat!"
+
+"Please sing it!"
+
+"Very well—if you wish."
+
+And in a low, pretty, half-laughing voice, she sang:
+
+"Quiet sea and quiet sky, Idle sail and anchored boat, Just a snowflake gull afloat, Drifting like a feather- And the gray hawk crying, And a man's heart sighing- That is blue-bird weather:- And the high hawk crying, And a maid's heart sighing Till lass and lover come together,- This is blue-bird weather."
+
+She turned her head and looked steadily out across the waste of water. "I told you it was silly," she said, very calmly.

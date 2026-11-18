@@ -1,0 +1,48 @@
+---
+title: "Chapter 15 - Haying Time"
+weight: 15
+aliases:
+  - "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-15.html"
+---
+
+BY the time the Bobolink youngsters were beginning to learn to fly Mrs. Bobolink noticed something about her husband that caused her some uneasiness. Bobby Bobolink was unusually jolly. And since his wife didn't know of anything to make him feel happier than he had always been, she couldn't help worrying for fear something was troubling him. For Bobby Bobolink almost never let anything dash his high spirits. He often said that there was nothing so uplifting as a rousing song--unless it was a good pair of wings!
+
+Mrs. Bobolink thought and thought. But so far as she could see everything was going smoothly. Already the children gave promise of becoming fine fliers, taking as naturally to the air as ducks to water. And it was a great year for grasshoppers; so Bobby Bobolink couldn't be worrying about a scarcity of food.
+
+Bobby's wife thought of this, that and the other thing. But she could hit on nothing that wasn't exactly as it should be. So at last she decided to ask her husband what it was that was troubling him and making him so remarkably cheerful.
+
+"I don't like to upset you, my dear," he said in response to her question. "But I may as well tell you that we ought to move at the earliest possible moment."
+
+"Move!" she cried. "Oh, no! I don't want to move. I'm quite contented with this house. It's in just the place I like."
+
+"I'm sorry," said Bobby. "But we shall have to move all the same. And when I tell you why, I think you'll agree with me that the sooner we move the better it will be for us."
+
+Little Mrs. Bobolink replied very firmly that she would have to hear a good reason before she would consent to move an inch.
+
+So Bobby told her. "Haying time has come!"
+
+"What of that?" his wife inquired. "Farmer Green doesn't expect us to help him, does he?"
+
+"Oh, no!" Bobby answered with a short laugh. "But he'll cut the grass all over the meadow. And even if our children should escape with their lives, there's still Henry Hawk to think of. He could see them easily enough, with the grass all gone from above the nest."
+
+That was reason enough for Mrs. Bobolink. She wanted to move right away. But there was something to prevent that.
+
+"We certainly can't leave here till the children have learned to fly better than they do now," she said. "But as soon as they can handle themselves well enough we'll go. We'll know--won't we--when Farmer Green begins to mow?"
+
+"Indeed we will!" Bobby cried. "The mowing-machine makes a terrible clatter. And we'll have to quit the neighborhood in a hurry when we hear it, for it moves fast, and cuts the grass down like fire."
+
+Mrs. Bobolink was all a-flutter. And she spent so much time teaching her children to fly that they learned surprisingly fast. By the time an odd clackety-clack sounded across the meadow early one fine morning the Bobolink family was all ready to move.
+
+Mrs. Bobolink was gathering her children hastily about her when Bobby came hurrying back from a trip to the farm buildings. He had seen--as well as heard--the mowing-machine. And he knew there was no time to waste.
+
+"Are you ready?" he called as he fluttered quickly down beside his family.
+
+"Yes!" said Mrs. Bobolink.
+
+"You haven't forgotten anything?"
+
+She counted her children carefully before answering.
+
+"No!" she said. "There are five of them here." And then, a look of dismay came over her face.
+
+"My goodness!" she exclaimed. "I've forgotten to pick out a place to move to!"

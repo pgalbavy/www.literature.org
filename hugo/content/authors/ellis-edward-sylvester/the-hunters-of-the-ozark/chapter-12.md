@@ -1,0 +1,68 @@
+---
+title: "Chapter 12 - A Strange Animal"
+weight: 12
+aliases:
+  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-12.html"
+---
+
+When Fred Linden reached the creek where he had met with his stirring adventure the day before, he could not help smiling. It had shrunk to its usual volume, and was winding along as lazily as usual, the only sign of the violent freshet being the *débris* left along the bank and the slightly roiled appearance of the current.
+
+The pioneers had so many occasions to cross this stream of water that they had made several attempts to put up a rude but strong bridge; but no matter what pains they took, they could never erect a structure strong enough to withstand the furious freshets which, as you can well understand, were often resistless.
+
+The result, therefore, was a reliance upon the canoes, some of which lay on one side of the stream and some on the other; but a surprise awaited young Linden. Seeing no boat in sight, he walked along the shore in quest of one, for he was resolved to keep out of the water as long as he could, though a lad on the frontier makes far less ado about dripping garments than you or I.
+
+That which surprised him was the sight of a long, uprooted tree which, coming down the creek, when the water was rapidly falling, had swung around in such position that the roots caught fast in the clayey soil on the bank, and the limbs were imbedded in the sand and mud on the other shore. The result was as good a bridge as a foot traveler could want.
+
+"That will do until there comes another rise," he said, as he carefully stepped upon the limbs, using them to reach the trunk, along which he walked across the water, leaping to the ground on the other side.
+
+He stepped off with his elastic gait, keeping so close to the path that he and Terry had taken the day before that he caught sight of the bushes around the splintered trunk of the tree where the rifle captured from the Winnebago had been hidden.
+
+"He'll be over early to get his prize," thought Fred; "for it is beyond all worth to him. If it wouldn't make him feel so bad I would plague him a little by hiding it."
+
+He parted the bushes and peered within. The first object on which his eye fell was the battered old cow-bell that had played such a curious part the day before, but he saw nothing of the gun itself; a brief but hurried search convinced him that it was gone.
+
+"That will break Terry's heart," said he to himself; "he never owned a gun, and now, to lose such a handsome one when it has been in his possession only a brief while, will grieve him as much as the loss of a dear friend."
+
+Just then young Linden caught the faint but clear notes of some one whistling. He had but to listen a second or two, when he recognized it, as he did the hearty laugh that followed. Looking to his right, he saw Terry himself standing but a few paces away, and, so to speak, in his "war paint." Bullet pouch, powder-horn, bundle on his back, and, more than all, the splendid rifle was there. The round, chubby face, clear eyes, and pug nose of the Irish lad seemed to radiate delight as he made an elaborate salute to his friend, and, with mock gravity, doffed his hat and scraped his foot along the ground. "Why, Terry," said the delighted Fred, asking the useless question, "what is the meaning of this?"
+
+"I'm going wid ye to the camp in the Ozark Mountains; do ye think I could rist aisy, knowin' that ye had to travel such a long distance wid no one to take care of ye?"
+
+"Well, now, that just pleases me more than I can tell you," said the overjoyed Fred, slapping him on the shoulder; "there isn't any one in the wide world whose company I want as bad as yours; I lay awake half of last night trying to get up some plan by which I could have you with me, but I couldn't think of any, and had to give it up. Father sent only for me, and I didn't suppose that Mr. MacClaskey would spare you. Tell me how you managed it."
+
+A quizzical expression came upon the face of the Irish lad, who, leaning on his rifle, took off his hat and scratched his head for a few seconds before answering.
+
+"Wal, bein' it's yersilf, Fred, I don't mind sayin' that it took some strategy, as I suppose Deerfut would call it. Last night, after we had eat our supper, and the chores were done wid, and Mr. MacClaskey had took his seat by the fire and lit his pipe, and Mrs. MacClaskey had started her spinning-wheel a-hummin', and the children had been packed off to bed, I told the folks the whole story. I managed it in such a style that the owld gentleman, who, you know, has spint two winters in the mountains, said it would make the folks out there desprit short of hands. I observed, in me careless way, that such was the case, and that Mr. Linden had sent word to ye that he wanted ye to come, and, from things that I knew, me own prisence would give great satisfaction to sartin parties. Ye understand that I had yersilf in me eye, though I didn't think there was nade of making it all plain how it was.
+
+"Wai, the owld gintleman wouldn't listen to me goin' away, but I managed it so well that after awhile he kind of remarked that if the folks wanted me, he'd no objection to me goin', as he belaved that I would make more there than I would at home.
+
+"*That* was the p'int," added Terry, with a wink, as he replaced his cap; "and there was where me genius showed itself; I spoke about the big lot of furs that had to be gathered, and how much money the hunters would make, and what a chance there was for a risin' young man of industrious habits. The owld gintleman took it in, and at last said, bein' as I had the new gun, why he didn't know but what I might give it a trial.
+
+"Wal, that was all I wanted. I started to run over last night to tell ye, but afore I got to yer house I thought of this 'cute plan of s'prisin' ye. I got all ready last night, ate breakfast airly, and was down here and had me gun just as I observed ye makin' yer way across the clearin' toward this spot."
+
+And so it came about that on this beautiful sunshiny day in autumn, Fred Linden and Terry Clark set out, each with ammunition and loaded rifle, for a hundred mile tramp toward the wild region of the Ozark Mountains. The air was crisp and cool, and every thing joined to give them a buoyancy of spirits such as falls to the lot only of rugged, growing boys in bounding health.
+
+The two, however, had seen enough of life in the woods to know that the sunshine and clear air would not last. They might continue until they reached camp, but more than likely clouds, rain, chilly weather and possibly a flurry of snow would overtake them. Winter was at hand, and though, as I have shown, they were in quite a temperate clime, it was subject to violent changes, as trying as those in a much more northern latitude.
+
+Besides, the trail, although distinctly marked, did not lead over any thing like even ground all the way. Long before they could reach the vicinity of the camp the character of the country told of the wild, rocky region, covering thousands of square miles, and known as the Ozark Mountains. No route could lead to such a distance through an unsettled country without crossing a number of streams, and passing through regions that were any thing but attractive to the traveler.
+
+All this, however, gave just the element of danger and difficulty to the enterprise that was one of the most delightful features to the young lads, who stepped off with swinging gait to the southward. Had the journey been smooth and even, it would have lost the major part of its charms.
+
+The boys carried enough with them to give them all they were likely to need in the way of food for twenty-four hours. It would have been little trouble to take enough to last through the four days; but there was something unprofessional in such a course which caused their souls to rebel. The magnificent forest contained plenty of game, and they would have been poor sportsmen, indeed, had they confessed by their action that they distrusted their ability to procure it.
+
+The trail over which the two walked, Fred slightly in advance, was marked with such distinctness by the hoofs of the six horses that had passed along it in Indian file but a short time before that it was no trouble for the boys to recognize it, nor were they likely to have any difficulty in keeping to it throughout the whole distance.
+
+It was a little past noon, when they reached a small brook whose current was so cold and clear that they took a long draught from it, and then sat down and ate their simple lunch. They felt little fatigue, and as a goodly number of miles remained to be traveled, according to the schedule of Fred Linden, they leaped lightly across the waste and were soon under way again.
+
+"Do you know," said Fred, later in the afternoon, "that I've been thinking we have not paid enough attention to one or two important matters."
+
+"What are they?"
+
+"I don't know what has become of Deerfoot, and we may not see him again; but we know enough of him to understand that whatever he says is worth remembering. Now, he told us yesterday that that Winnebago, from whom he took that rifle, belonged to a party of those warriors, and it seems to me that if they are anywhere, it is between us and the camp, and we are likely to see more of them."
+
+"I'm of the same opinion with yersilf, but jest now there is somethin' else that gives me concern."
+
+"What is that?" asked the surprised Fred, stopping and turning around.
+
+"Some person or animal has been followin' us for the last half hour. I've heard it more than once, and it ain't fur off this very minute."
+
+The two boys stood still and looked over the trail along which they had been traveling. Fred Linden's fear was that Terry had discovered the presence of some of the very Winnebagos whom he dreaded, but he was mistaken. That which they saw was not a person, but a strange animal of such fierce mien and hostile intent that they instantly looked to their rifles, knowing that a savage fight was inevitable.

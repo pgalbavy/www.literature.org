@@ -1,0 +1,8 @@
+---
+title: "The Traveler And His Dog"
+weight: 16
+aliases:
+  - "/authors/aesop/fables/chapter-14.html"
+---
+
+A TRAVELER about to set out on a journey saw his Dog stand at the door stretching himself. He asked him sharply: "Why do you stand there gaping? Everything is ready but you, so come with me instantly." The Dog, wagging his tail, replied: "O, master! I am quite ready; it is you for whom I am waiting." The loiterer often blames delay on his more active friend.

@@ -1,0 +1,50 @@
+---
+title: "Chapter 7 - The Two Neighbors"
+weight: 7
+aliases:
+  - "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-07.html"
+---
+
+While Reddy Woodpecker and his cousin were getting acquainted their wives became quite friendly. Living as they did, each in an old apple tree at the lower end of the orchard, they often met. And since their doorways were almost opposite each other Mrs. Woodpecker and Mrs. Flicker didn’t even have to leave their homes to enjoy a neighborly chat.
+
+If one of them had something specially interesting to say, all she had to do was to stick her head out of the hole in the trunk of her tree and call. And if the other happened to be at home it was never more than a second before her head popped forth from her doorway. It was all very simple and most convenient.
+
+Everything was pleasant until one day something happened. Something changed the friendly feelings between the two ladies. When Reddy Woodpecker peered out of his doorway one morning Mrs. Flicker called to him, "Good morning, my dear!"
+
+He was so surprised he didn’t know what to say.
+
+But Mrs. Woodpecker knew what to say. It chanced that she was clinging to a limb above their home, so screened by some leaves that Mrs. Flicker couldn’t see her. She quickly made known her presence. And she said so much that Mrs. Flicker soon withdrew her head. She hadn’t answered Mrs. Woodpecker. Indeed she had had no opportunity; for Mrs. Woodpecker talked fast and furiously.
+
+"It’s no wonder she hides!" Mrs. Woodpecker spluttered. "I’d like to know what she means by calling my husband her ’dear!’"
+
+Well, Reddy Woodpecker felt just as uncomfortable as Mrs. Flicker must have felt. But he didn’t hide. He didn’t dare to hide.
+
+"What had you said to her?" Mrs. Woodpecker demanded.
+
+"Honestly," Reddy replied, "I hadn’t said a word. I had just stuck my head out. And the first thing I knew Mrs. Flicker called to me. You heard what she said."
+
+"I certainly did!" was his wife’s grim response. "It was a very queer way for her to speak to you."
+
+"It was nothing—" Reddy assured her—"nothing at all. She made a mistake."
+
+"She certainly did!" cried Mrs. Woodpecker. "She didn’t know I was right here where I could hear her. She should have been more careful. That’s where she made a serious blunder."
+
+"Oh, my goodness!" said Reddy. "I didn’t mean that. It wasn’t that sort of mistake. It was this sort: Mrs. Flicker——"
+
+"Don’t mention her name to me again!" shrilled Mrs. Woodpecker.
+
+"Well, how can I talk about her, then?" Reddy asked his wife.
+
+"If you feel that you must talk about her," said Mrs. Woodpecker, "call her ’she.’"
+
+"All right! She made this mistake: She thought she was talking to you."
+
+Mrs. Woodpecker laughed bitterly at that.
+
+"You’ll have hard work making me believe it," she told her husband.
+
+"Well, you ask her if it isn’t the truth," Reddy urged.
+
+"I will!" his wife promised. "Don’t worry! I’ll ask her.... And now," she added, "you’d better go and find some breakfast for the children. We can get along without any early tattoo this morning."
+
+He went.

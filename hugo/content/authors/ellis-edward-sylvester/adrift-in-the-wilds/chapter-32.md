@@ -1,0 +1,60 @@
+---
+title: "Chapter 32 - Again On The River"
+weight: 32
+aliases:
+  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-32.html"
+---
+
+The Newfoundland, Terror, occasioned more apprehension to his friends than did anything else. They came to see that no personal danger threatened so long as the fire kept burning, and as there was an abundance of fuel, this settled that point; but the dog grew enraged at the furious uproar, which drove away all sleep, and appeared to give him fear that the entire party were in danger.
+
+Several times, when some of the wolverines came too close, he made a spring at them, and they snapped back. But the good sense of the dog kept him from venturing among the ravenous brutes, and they in turn were in too much dread of the fire to do more than spring at him and then as quickly dart back again.
+
+It was an impressive sight and one which could never be forgotten. The large, noble Newfoundland, standing out in relief against the glare of the camp-fire, his eyes aflame with anger, every muscle braced, the jaws parted and his eyes fixed upon the dark bodies plunging over each other, darting forward and back again, snapping, snarling and furious; the Pah Utah stretched upon the ground, deliberately smoking, all unheedful of the deafening clangor and the savage brutes that sometimes approached almost within striking distance; the two boys, so close to the fire that they were often scorched by it, gazing at the animals with an expression of half fear and half wonder, starting when one of them came unusually near, and now and then sending the fatal bullet among them; the nervous Irishman, darting hither and thither, taking great care that the fire was kept fully burning; all these, we say, made a scene impressive in the highest degree.
+
+Terror, when sharply spoken to, would withdraw from his dangerous proximity to the wolverines, but almost immediately he stepped forward to the same spot he first occupied, and his obedience to the commands of the boys was so sullen and ill-natured that they forebore speaking to him except when his safety seemed absolutely to demand it.
+
+At times there was an interruption in the clamor, but the wolverines did not appear to relax their vigilance in the least. It was as if they had determined to make their evening meal upon the party though they were forced to wait until morning for it. During these intervals of comparative silence our friends gained opportunity for the exchange of a few words, but they were often compelled to shout at the top of their voices to make themselves heard.
+
+During one of these lulls Elwood spoke to Howard.
+
+"What will take place in the morning, when these creatures are not afraid of our fire?"
+
+"I think they will go away."
+
+"Perhaps so: but we are not so sure of that."
+
+"Shasta will no doubt turn the whole thing over in his mind, and be prompt enough to act when the danger comes. I suppose we can take to our canoes and give them the slip in that manner."
+
+"Yes; the Indian appears to have rather a contemptible opinion of them. He scarcely heeds their wrangling."
+
+"He is not so timid as we and Tim are; but he doesn't forget to look at them once in a while, so as not to forget what they are doing."
+
+"They are a savage set of animals. How angry Terror is! Don't you notice that they are trying to entice him to venture out a little nearer them? They hate him more than all of us."
+
+"Do you think so?"
+
+"You can see it in their manner. If they can once get hold of him they will tear him to shreds."
+
+"And they will catch him, too, if he isn't careful. He is so surly and cross himself that it is dangerous to touch or speak to him."
+
+"We can't afford to lose him. We must watch, and if he gets too close to any of them, why, all we shall have to do is to crack them over, and give the others warning to keep their distance."
+
+While they were speaking a huge wolverine darted close enough to strike Terror. Instantly the two closed and rolled upon the ground in the fierce death struggle. Over and over, snapping, snarling, growling, biting, scratching with lightning-like fierceness, now one below and then the other, and finally the dog on top.
+
+The conflict was as short as it was furious. The massive jaws of the Newfoundland closed on the throat of his antagonist and his teeth met through his windpipe. There they stuck for a minute, and when he relaxed his hold it was all over with the reckless animal.
+
+Still it would have fared ill with the dog but for Shasta, for the other wolverines would have sprung upon him and destroyed him before he could have escaped. At the moment the two closed the Indian darted forward, seized a brand and flourished it over the combatants. This so terrified the others that they kept their distance until the conqueror resumed his place in triumph by the fire.
+
+This encounter proved it lesson to both the dog and the wolverines. The latter appeared to comprehend the disadvantage under which they were placed, while Terror, having had a taste of their mettle, was satisfied for the time, and kept a safe position further away from the brutes that were so eager to fasten their teeth in him.
+
+It was now verging toward morning, and the Pah Utah looked about him as if he were going to make his preparations for moving. He looked toward the raging creatures, still fierce and furious, and then glanced at the canoes drawn up within a few feet of the camp-fire, and pointed toward them and the river.
+
+Fortunately but a few feet intervened between their present position and the stream, so that the latter was easy of access in case it should become necessary to retreat before the wolverines. Still the fire did not protect this enough to make it a safe undertaking in their present situation.
+
+Shasta picked up several blazing sticks, and carrying them to the water's edge, placed them together and covered them with some dry brush-wood. They speedily fanned themselves into a flame, and the gathering brutes withdrew and offered a fine approach to the river.
+
+The Indian's next proceeding was to launch the two boats. This was done easily and without difficulty. The blankets and guns were placed within, and then motioned for the dog to follow; but Terror did not seem disposed to leave his present quarters. Perhaps the idea worked its way into his shaggy head that it savored too much of deserting his friends, or it may be that he still coveted a taste for another collision with the audacious animals that had pressed him so sorely.
+
+Our brave soldier boys, who abhor bloodshed from a principle, still have a love for the wild abandon of camp life, and many a one looks back with a sigh to the rough experiences which we all pray may never come again. So it may be the Newfoundland, naturally peaceful, having had his blood fairly roused by his tussle and triumph, yet longed for more of victory.
+
+Finally Howard and Elwood took their seats, and Tim O'Rooney followed; then Terror, casting one reluctant look behind him, jumped into the boat and lay down in his usual position; and so, at length, they all were embarked in safety.

@@ -1,0 +1,140 @@
+---
+title: "Chapter 15 - A Game For Big Stakes"
+weight: 15
+aliases:
+  - "/authors/coolidge-dane/rimrock-jones/chapter-15.html"
+---
+
+The next thirty days--before the stockholders' meeting--were spent by Rimrock in trying to explain. In spite of her suggestion that he was not good at that art he insisted upon making things worse. What he wanted to say was that the pooling of their stock would be a happy--though accidental--resultant of their marriage; what he actually said was that they ought to get married because then they would stand together against Stoddard. But Mary only listened with a wise, sometimes wistful, smile and assured him he was needlessly alarmed. It was that which drove him on--that wistful, patient smile. Somehow he felt, if he could only say the right words, she would lean right over and kiss him!
+
+But those words were never spoken. Rimrock was worried and harassed and his talk became more and more practical. He was quarreling with Jepson, who stood upon his rights; and Stoddard had served notice that he would attend the meeting in person, which meant it had come to a showdown. So the month dragged by until at last they sat together in the mahogany-furnished Directors' room. Rimrock sat at the head of the polished table with Mary Fortune near by, and Stoddard and Buckbee opposite. As the friend of all parties--and the retiring Director--Buckbee had come in the interest of peace; or so he claimed, but how peace would profit him was a question hard to decide. It might seem, in fact, that war would serve better; for brokers are the sharks in the ocean of finance and feed and fatten where the battle is fiercest.
+
+Whitney Stoddard sat silent, a tall, nervous man with a face lined deep with care, and as he waited for the conflict he tore off long strips of paper and pinched them carefully into little square bits. Elwood Buckbee smiled genially, but his roving eye rested fitfully on Mary Fortune. He was a dashing young man of the Beau Brummel type and there was an ease and grace in his sinuous movements that must have fluttered many a woman's heart. But now he, too, sat silent and his appraising glances were disguised in a general smile.
+
+"Well, let's get down to business," began Rimrock, after the preliminaries. "The first thing is to elect a new Director. Mr. Buckbee here has been retired and I nominate Mary Fortune to fill the vacancy."
+
+"Second the motion," rapped out Stoddard and for a moment Rimrock hesitated before he took the fatal plunge. He knew very well that, once elected to the directorship, he could never remove her by himself. Either her stock or Stoddard's would have to go into the balance to undo the vote of that day.
+
+"All in favor say 'Ay!'"
+
+"Ay!" said Stoddard grimly; and Rimrock paused again.
+
+"Ay!" he added and as Mary wrote it down she felt the eyes of both of them upon her. The die had been cast and from that moment on she was the arbiter of all their disputes.
+
+They adjourned, as stockholders, and reconvened immediately as Directors; and the first matter that came up was a proposition from Buckbee to market a hundred million shares of common stock.
+
+"You have here," he said, "a phenomenal property--one that will stand the closest of scrutiny; and with the name of Whitney H. Stoddard behind it. More than that, you are on the eve of an enormous production at a time when copper is going up. It is selling now for over eighteen cents and within a year it will be up in the twenties. Within a very few months, unless I am mistaken, there will be a battle royal in the copper market. The Hackmeister interests have had copper tied up, but the Tecolote Company can break that combine and at the same time gain an enormous prestige. There will be a fight, of course, but this stock will cost you nothing and you can retain a controlling share. My proposition is simply that you issue the common and divide it pro rata among you, your present stock then becoming preferred. Then you can put your common on the market in such lots as you wish and take your profits at the crest. In conclusion let me say that I will handle all you offer at the customary broker's charge."
+
+He sat down and Rimrock looked out from under his eyebrows at Stoddard and Mary Fortune.
+
+"Very well," said Stoddard after waiting for a moment. "It's agreeable to me, I'm sure."
+
+"I'm against it," declared Rimrock promptly. "I'm against any form of reorganization. I'm in favor of producing copper and taking our profits from that."
+
+"But this is plain velvet," protested Buckbee, smilingly. "It's just like money picked up in the road. I don't think I know of any company of importance that hasn't done something of the kind."
+
+"I'm against it," repeated Rimrock in his stubborn way and all eyes were turned upon Mary Fortune. She sat very quiet, but her anxious, lip-reading gaze shifted quickly from one to the other.
+
+"Did you get that, Miss Fortune?" asked Buckbee suavely, "the proposition is to issue a hundred million shares of common and start them at, say, ten cents a share. Then by a little manipulation we can raise them to twenty and thirty, and from that on up to a dollar. At that price, of course, you can unload if you wish: I'll keep you fully informed."
+
+"Yes, I understood it," she answered, "but I'm not in favor of it. I think all stock gambling is wrong."
+
+"You--what?" exclaimed Buckbee, and Whitney H. Stoddard was so astounded that he was compelled to unmask. His cold, weary eyes became predatory and eager and a subtle, scornful smile twisted his lips. Even Rimrock was surprised, but he leaned back easily and gave her a swift, approving smile. She was with him, that was enough; let the stock gamblers rage. He had won in the very first bout.
+
+"But my dear Miss Fortune," began Stoddard, still smiling, "do you realize what you have done? You have rejected a profit, at the very least, of one or two million dollars."
+
+"That may be," she said, "but I prefer not to take it unless we give something in return."
+
+"But we do!" broke in Buckbee, "that stock is legitimate. The people that buy in will get rich."
+
+"But the people who buy last will lose," she said. "I know, because I did it myself."
+
+"Oho!" began Buckbee, but at a glance from Stoddard he drew back and concealed his smirk. Then for half an hour with his most telling arguments and the hypnotic spell of his eyes Whitney Stoddard outdid himself to win her over while Rimrock sat by and smiled. He had tried that himself in days gone by and he knew Stoddard was wasting his breath. She had made up her mind and that was the end of it--there would be no Tecolote common. Even Stoddard saw at last that his case was hopeless and he turned to the next point of attack. Rimrock Jones, he knew, opposed him on general principles--but the girl as a matter of conscience. They would see if that conscience could not be utilized.
+
+"Very well," he said, "I'll withdraw my motion. Let us take up this matter of the saloon."
+
+"What saloon?" demanded Rimrock, suddenly alert and combative, and Stoddard regarded him censoriously.
+
+"I refer," he said, "to the saloon at the camp, which you have put there in spite of Jepson's protests. Now outside the question of general policy--the effect on the men, the increase in accidents and the losses that are sure to result--I wish to protest, and to protest most vigorously, against having a whiskey camp. I want the Tecolote to draw the best type of men, men of family who will make it their home, and I think it's a sin under circumstances like this to poison their lives with rum. I could speak on this further, but I simply make a motion that Tecolote be kept a temperance camp."
+
+He paused and met Rimrock's baleful glance with a thin-lipped fighting smile; and then the battle was on. There were hot words in plenty and mutual recrimination, but Stoddard held the high moral ground. He stuck to his point that employers had no right to profit by the downfall of their men; and when it came to the vote, without a moment's hesitation, Mary Fortune cast her vote with his.
+
+"What's that?" yelled Rimrock, rising up black with anger and striking a great blow on the table. "Have I got to tell Hassayamp to go? This old friend of mine that helped me and staked me when nobody else would trust me? Then I resign, by grab. If I can't do a little thing like that, I'm going to quit! Right now! You can get another manager! I resign! Now vote on it! You've got to accept it or----"
+
+"I accept it!" said Stoddard and a wild look crossed Rimrock's face as he saw where his impetuosity had led him. But Mary Fortune, with an understanding smile, shook her head and voted no.
+
+"How do you vote?" challenged Stoddard, trying to spur him to the leap, but Rimrock had sensed the chasm.
+
+"I vote no!" he said with answering scowl. "I'll take care of Mr. Hicks, myself. You must take me for a sucker," he added as an afterthought, but Stoddard was again wearing his mask. It was Buckbee who indulged in the laugh.
+
+"We can't all win," he said, rising up to go. "Think of me and that Tecolote common!"
+
+Rimrock grinned, but Stoddard had come there for a purpose and he did not choose to unbend.
+
+"Mr. Jones," he began, as they were left alone, "I see we are not able to agree. Every point that I bring up you oppose it on general principles. Have you any suggestions for the future?"
+
+"Why, yes," returned Rimrock, "since I'm in control I suggest that you leave me alone. I know what you'd like--you'd like to have me play dead, and let you and Jepson run the mine. But if you've got enough, if you want to get out, I might take that stock off your hands."
+
+A questioning flash came into Stoddard's keen eyes.
+
+"In what way?" he enquired cautiously.
+
+"Well, just place a value on it, whatever you think it's worth, and we'll get right down to business." Rimrock hitched up his trousers, and the square set of his shoulders indicated his perfect willingness to begin. "You're not the only man," he went on importantly, "that's got money to put into mines."
+
+"Perhaps not," admitted Stoddard, "but you take too much for granted if you think I can be bought out for a song."
+
+"Oh, no," protested Rimrock, "I don't think anything like that. I expect you to ask a good price. Yes, a big price. But figure it out, now, what you've put into the mine and a reasonable return for your risk. Then multiply it by five, or ten, or twenty, whatever you think it's worth, and make me an offer on paper."
+
+"Not at all! Not at all!" rapped out Stoddard hastily, "I'm in the market to buy."
+
+"Well, then, make me an offer," said Rimrock bluffly, "or Miss Fortune here, if she'd like to sell. Here, I'll tell you what you do--you name me a figure that you'll either buy at, or sell! Now, that's fair, ain't it?"
+
+A fretful shadow came over Stoddard's face as he found himself still on the defense and he sought to change his ground.
+
+"I'll tell you frankly why I make this offer--it's on account of the Old Juan claim. If you had shown any tendency to be in the least reasonable I'd be the last to propose any change----"
+
+"Never mind about that," broke in Rimrock peremptorily, "I'll take your word for all that. The question is--what's your price?"
+
+"I don't want to sell!" snapped out Stoddard peevishly, "but I'll give you twenty million dollars for your hundred thousand shares of stock."
+
+"You offered that before," countered Rimrock coolly, "when I was shut up in the County Jail. But I'm out again now and I guess you can see I don't figure on being stung."
+
+"I'll give you thirty million," said Stoddard, speaking slowly, "and not a dollar more."
+
+"Will you sell out for that?" demanded Rimrock instantly. "Will you take forty for what you hold? You won't? Then what are you offering it to me for? Haven't I got the advantage of control?"
+
+"Well, perhaps you have," answered Stoddard doubtfully and turned and looked straight at Mary. "Miss Fortune," he said, "I don't know you intimately, but you seem to be a reasonable woman. May I ask at this time whether it is your present intention to hold your stock, or to sell?"
+
+"I intend to hold my stock," replied Mary very quietly, "and to vote it whichever way seems best."
+
+"Then am I to understand that you don't follow Mr. Jones blindly, and that he has no control over your stock?"
+
+Mary nodded, but as Stoddard leaned forward with an offer she hurried on to explain.
+
+"But at the same time," she said in her gentlest manner and with a reassuring glance at her lover, "when we think what hardships Mr. Jones had endured in order to find this mine, and all he has been through since, I think it is no more than right that he should remain in control."
+
+"Aha! I see!" responded Stoddard cynically, "may I enquire if you young people have an understanding?"
+
+"That is none of your business," she answered sharply, but the telltale blush was there.
+
+"Ah, yes, excuse me," murmured Stoddard playfully, "a lady might well hesitate--with him!"
+
+He cast a teasing glance in the direction of Rimrock and perceived he had guessed right again. "Well, well," he hurried on, "that does make a difference--it's the most uncertain element in the game. But all this aside, may I ask you young people if you have a top price for your stock. I don't suppose I can meet it, but it's no harm to mention it. Don't be modest--whatever it is!"
+
+"A hundred million dollars!" spoke up Rimrock promptly, "that's what I value my share of the mine."
+
+"And you?" began Stoddard with a quizzical smile, but Mary seemed not to hear. It was a way she had, when a thing was to be avoided; but Stoddard raised his voice. "And you, Miss Fortune?" he called insistently. "How much do you want for your stock?"
+
+She glanced up, startled, then looked at Rimrock and dropped her eyes to the table.
+
+"I don't wish to sell," she answered quietly and the two men glared at each other.
+
+"Mr. Jones," began Stoddard in the slow, measured tones of a priest who invokes the only god he knows, "I'm a man of few words--now you can take this or leave it. I'll give you--fifty--million--dollars!"
+
+"Nothing doing!" answered Rimrock. "I don't want to sell. Will you take fifty millions for yours?"
+
+For a moment Stoddard hesitated, then his face became set and his voice rasped harshly in his throat.
+
+"No!" he said. "I came here to buy. And you'll live to wish you had sold!"
+
+"Like hell!" retorted Rimrock. "This has been my day. I'll know where I'm at, from now on."

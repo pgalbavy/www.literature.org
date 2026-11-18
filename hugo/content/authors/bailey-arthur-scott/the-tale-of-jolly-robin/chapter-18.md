@@ -1,0 +1,44 @@
+---
+title: "Chapter 18 - On Top Of The Barn"
+weight: 18
+aliases:
+  - "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-18.html"
+---
+
+All the feathered folk on the roof of Farmer Green's barn saw at once that Jasper Jay had told the truth. The golden bird was a rooster, just as Jasper had said. But it seemed strange to them that a rooster should sit on so high a perch.
+
+"It looks to me," said old Mr. Crow, "it looks to me as if he had flown up here and lighted on that rod and then was afraid to fly down again."
+
+"I'll knock him off!" cried Jasper Jay. And he made ready to swoop at the stranger.
+
+"I wouldn't do that!" said Jolly Robin.
+
+"No!" Jasper Jay replied. "I know you wouldn't. You'd be afraid to do such a thing."
+
+"It's not that," Jolly Robin told him, "though he is ten times my size. This is what I mean: He's a peaceable fellow. And though I will admit that he seems a little too proud, he hasn't harmed anybody. So why should anybody harm him?"
+
+"He's a barnyard fowl and he belongs on the ground," Jasper Jay declared. "If we let him stay up here in the air there's no knowing what Farmer Green's fowls will do. All his hens and roosters--and he has a hundred of 'em--may take to flying about where they don't belong. This golden gentleman is setting them a bad example. And it is my duty to teach him a lesson."
+
+Now, the real reason why Jasper wanted to knock the golden rooster off his high perch was because he was so handsome. Jasper's fine blue suit looked quite dull beside the golden dress of the stranger. And that was more than Jasper could stand.
+
+"Here I go!" Jasper cried. And he left his friends and flew straight at the golden fowl.
+
+Jasper struck the rooster such a hard blow that he spun around on his perch twice. But he didn't lose his balance. And he never said a single word.
+
+"I'll pull out his tail-feathers this time!" Jasper squawked, as he darted at the stranger again. But Jasper had no luck at all. Though he pecked viciously at the tail of the golden rooster, he succeeded only in hurting his own bill.
+
+Several times Jasper tried. But not one tail-feather came away. And some of the onlookers began to smile. Old Mr. Crow even guffawed aloud. But Jasper Jay pretended not to hear him.
+
+"Don't you think we'd better go away?" Jolly Robin asked Jasper at last.
+
+"I think you had better leave," Jasper screamed. He was very angry, because he knew that his friends were laughing at him. And instead of flying at the golden rooster again he made a swift attack on Jolly Robin.
+
+Being angry, Jasper had forgotten that Jolly Robin's wife was present. And to the blue-coated rascal there seemed suddenly to be as many as six Jolly Robins, each one with a furious wife, too.
+
+Jasper fought his hardest. But he was no match for them. Very soon he made for the woods; and as he flew away a blue tail-feather with a white tip floated down into the barnyard, where Johnnie Green had stood for some minutes, watching the strange sight on the roof of his father's barn.
+
+Johnnie picked up the feather and stuck it in his hat. And when he told his father, later, how a big blue jay had tried to whip the new weather-vane and a pair of robins as well, Farmer Green threw back his head and laughed loudly.
+
+"Don't you believe me?" Johnnie asked him. "Here's the blue jay's tail-feather, anyhow. And that ought to prove that I am telling the truth."
+
+But Farmer Green only laughed all the more. You see, he could hardly believe all the strange things that happened in the neighborhood.

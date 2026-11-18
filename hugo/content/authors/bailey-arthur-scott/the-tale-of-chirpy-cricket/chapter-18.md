@@ -1,0 +1,30 @@
+---
+title: "Chapter 18 - Mr. Cricket Frog's Trick"
+weight: 18
+aliases:
+  - "/authors/bailey-arthur-scott/the-tale-of-chirpy-cricket/chapter-18.html"
+---
+
+"What's the matter? Are you hurt?" Chirpy Cricket called to Mr. Cricket Frog from the bank of the duck-pond. Ever since a splash near-by had interrupted their talk, Mr. Cricket Frog had not swum a single stroke. He was floating, motionless, upon the surface of the water. And he made no reply whatever to Chirpy's questions. He acted exactly as if he had not heard them. The fitful breeze caught at Mr. Cricket Frog's limp form and wafted it about.
+
+Chirpy Cricket couldn't help being alarmed. And yet he almost thought, for a moment, that he saw Mr. Cricket Frog's eyes rolling in his direction, as he stood on the bank of the pond. If Mr. Cricket Frog was in trouble, Chirpy knew of no way to help him. And after a time he made up his mind that Mr. Cricket Frog was beyond anybody's help. Chirpy was about to go back to the farmyard when Mr. Cricket Frog came suddenly to life.
+
+"Meet me here to-morrow!" he called. Then he dived to the bottom of the water. And Chirpy Cricket went home, thinking that it was all very queer.
+
+"What happened to you yesterday?" Chirpy asked Mr. Cricket Frog, when he came back to the duck-pond the following day and found that spry little gentleman waiting for him on a lily-pad. "Were you ill?"
+
+"Oh, no!" Mr. Cricket Frog answered. "When I heard a splash behind me I didn't know who made it. So I played dead for a while. And after waiting until I felt somewhat safer, I went down to the bottom of the pond and hid in the mud. I've found that it's always wise to attract as little attention as possible when I don't know who's lurking about.... I hope you didn't think I was rude," he added.
+
+"No!" Chirpy told him. "But I've been upset ever since I saw you. I haven't had the heart to fiddle."
+
+"Dear me!" Mr. Cricket Frog cried. "I must do something to cheer you up. I'll sing you a song!" Then Mr. Cricket Frog puffed out his yellow throat and began to sing. And he gave Chirpy Cricket a great surprise. For his singing was so like Chirpy's fiddling that Chirpy thought for a moment he was making the sound himself.
+
+But there was one marked difference. Mr. Cricket Frog's time was not like his. It was not regular. Mr. Cricket Frog began to sing somewhat slowly and gradually sang faster and faster. After he had sung about thirty notes he would pause to get his breath. And then he would begin again, exactly as before.
+
+Mr. Cricket Frog hadn't sung long before Chirpy's spirits began to rise. Indeed, he soon felt so cheerful that he began to fiddle. And between the two they made such a chirping that an old drake swam across the duck-pond to see what was going on.
+
+Of course, his curiosity put an end to the concert. Mr. Cricket Frog saw him coming. And this time he didn't stop to play dead. He sank in a great hurry to the bottom of the pond.
+
+Chirpy Cricket wondered why his friend chose to stay in a place where there were so many interruptions. "I should think," he said to himself, "Mr. Cricket Frog would rather live in a hole in the ground, as I do.... I must ask him, when I see him again, why he doesn't move to the farmyard."
+
+Mr. Cricket Frog was very polite, later, when Chirpy spoke to him about moving. But he explained that he was too fond of swimming to do that. And besides, he thought his voice sounded better on water than it did on land.

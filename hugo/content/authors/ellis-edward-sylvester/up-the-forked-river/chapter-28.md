@@ -1,0 +1,102 @@
+---
+title: "Chapter 28"
+weight: 28
+aliases:
+  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-28.html"
+---
+
+In his haste General Yozarro had given no orders to secure the tugboat in place, nor was there need of doing so. The water was deep enough to permit the craft to lie against the bank, where it was held by the gentle turning of the screw. With a few more vigorous revolutions, the prow would have gouged into the bank, or taken the boat into the river on the proper direction of the wheel.
+
+Running across the gangplank, with a firearm in each hand, Major Starland bounded up the few steps leading to the upper deck. The Captain of the boat was seated in the pilot house, calmly smoking a cigarette while he waited. His gaze being turned dreamily toward the river, he saw nothing of the intruder, or, if he heard his footsteps, he was not disturbed. His awakening came, when the athletic American strode forward and thrust a revolver through the window of the pilot house.
+
+"Do as I tell you and you won't be hurt; try to do different and I'll blow your brains out!"
+
+These words, uttered in Spanish, were to the point. Without them, the action of the officer would have made his meaning clear. The Captain was cooler and braver than any of his countrymen. He did not stir, but looking into the face of the other, removed his cigarette and said:
+
+"I shall be pleased, Señor, to be told in what way I can serve you."
+
+"You shall learn in a moment; at present continue smoking, and hold yourself ready for orders."
+
+He bowed and with a smile that showed his even white teeth, replied:
+
+"I am happy to do as you say."
+
+"Are you armed?"
+
+"I am the Captain of this boat; General Yozarro does not allow me to attend to any other duty; I have no weapon on me; would you prefer to search me?"
+
+"I accept your word."
+
+The Major turned to look for Guzman and Martella. The sound of voices showed that they were on the boat.
+
+[Illustration: "A *DARING CAPTURE*."]
+
+"Warrenia," he called, "come aboard!"
+
+She was alert and moved quickly up the plank.
+
+"Now, Captain, steam out into the river."
+
+"Pardon me, do you not wish the gangplank drawn in?"
+
+"We have no time; do not wait."
+
+The Captain was on his feet, one hand resting on a spoke of the wheel, while the other gripped the curved piece of brass, which being drawn upward twice sent an order to the engineer to back the boat. Major Starland stood listening with some misgiving, for he did not know how things had gone below. The response, however, indicated that all was well, for almost on the instant, the screw began churning, and the boat slowly receded, allowing the gangplank, after being drawn askew, to drop with a splash into the water.
+
+Knowing the purpose of their leader, Guzman and Martella had hurried into the engine room, where Valentin Herrera, the engineer, was found dozing. The place was smotheringly hot, and below, the firemen were asleep, so used to it that they would have slumbered in tophet itself.
+
+There was consternation for a moment, but it did not take the visitors long to impress upon the men that the boat had been captured and that their lives depended upon their prompt acceptance of the changed conditions.
+
+"How many are with you?" asked the engineer, who knew his former fireman so well that he did not feel much personal fear of him.
+
+"Enough to hold you all at our mercy."
+
+"You know Captain Ortega is in the wheelhouse."
+
+"Major Starland has attended to him."
+
+"I have heard no pistol shot."
+
+"The Captain is a wise man and has surrendered; Valentin, I want to make General Yozarro angrier than before," added Martella with a grin.
+
+"He cannot be any angrier than he has been ever since I gave him your message; but I accept the situation. He cannot condemn his men for being overpowered when he leaves them no weapons with which to fight. You needn't fret about the firemen or me—"
+
+Just then the gong clinked in response to the switching in the pilot house above.
+
+"That means go back."
+
+"I wouldn't wait, Valentin; our leader, *el Americano*, is impatient, and is quick to use the revolver he carries."
+
+"It is my duty to obey orders," commented the engineer, with another grin, as he made the necessary shifting of cranks and levers to set the machinery to plunging and swinging. The drowsy firemen cared little for what was going on over their heads and slouchily threw wood into the furnace.
+
+"It is my wish to go to Zalapata," Major Starland explained to the Captain of the tug; "General Yozarro set out to take my sister there last night, but seems to have changed his mind, for he brought her only part way. We will now complete the journey."
+
+"At the highest speed, Señor?"
+
+The American did not catch the significance of this question, but accidentally he made the best answer.
+
+"There is no haste necessary; we shall be able to reach there soon after sunrise; you know how fast to go; am I understood?"
+
+"Perfectly, Señor."
+
+Feeling himself master of the craft, Starland now went back into the Captain's cabin to see his sister, whom he found seated in the quarters which had been occupied by her and the Señorita Estacardo the evening before. Although this species of craft are not intended to carry passengers, outside the necessary equipment, General Yozarro had caused the small compartment to be fitted up and furnished suitably for the entertainment of guests. The swinging lamp was lighted overhead, and the bottles, glasses and fragments of cigarettes showed how the Dictator and his friends had spent most of the time in coming from Atlamalco.
+
+Miss Starland was flustered and nervous, but the cool self possession of her brother greatly reassured her.
+
+"That was a clever trick we played upon the scamp," said he with a smile.
+
+"What do you intend to do with the boat?"
+
+"Take you to Zalapata; it would serve him right if I scuttled it, but I will turn it over to Bambos to keep or destroy as he pleases—"
+
+She was about to speak, when shouts and calls caused both to hurry outside. As might have been anticipated, General Yozarro and his party had speedily returned and had halted on the edge of the river, the President shouting his orders for Captain Ortega to return at once. The Major, standing beside the pilot house, could not deny himself the pleasure of answering for the other.
+
+"The Captain is under my orders; he cannot obey you."
+
+"That is my boat!" howled General Yozarro; "return at once or suffer the consequences of your thievery."
+
+"I'll suffer the consequences, but I am only borrowing it for a little while; you did not seem to be able to deliver Miss Starland to Zalapata, and I will do it myself; I place at your disposal the small boat we left behind."
+
+"I shall make known your crime to your government," shouted the Dictator, for nothing better to say.
+
+"I shall be glad; perhaps it would be better to lay it before The Hague Tribunal. The whole world will be interested in learning what a cowardly wretch calls himself President of the Atlamalcan Republic."

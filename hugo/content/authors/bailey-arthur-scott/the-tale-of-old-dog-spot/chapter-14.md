@@ -1,0 +1,40 @@
+---
+title: "Chapter 14 - Missing His Master"
+weight: 14
+aliases:
+  - "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-14.html"
+---
+
+Johnnie Green went visiting one summer, after haying was done. Much to old dog Spot's disgust, Johnnie did not take him on this journey. But it was not Spot's fault that he was left at home. Had he not been shut up in the harness room in the barn when Johnnie drove the old horse Ebenezer out of the yard Spot would have followed beneath the buggy.
+
+It was hours before Farmer Green set Spot free. When Farmer Green at last flung open the door of the harness room Spot rushed out and dashed into the road. To his sorrow he couldn't smell a trace of Ebenezer's track. So many other horses had passed by the house since morning that Spot couldn't even tell which way Ebenezer had gone.
+
+In desperation Spot ran up the road a little way. Then he turned around and ran down the hill as far as the gristmill.
+
+By the time he reached the mill pond Spot gave up the chase. He knew it was hopeless.
+
+And seeing several of Johnnie Green's friends swimming in the pond, he joined them.
+
+The boys welcomed him with shouts. And the water was just as cool as ever. But somehow Spot didn't find swimming as pleasant as he always had before. He missed Johnnie Green. There wasn't another boy there that gave Spot the same thrill by whistling to him, or patting him, or romping with him that Johnnie Green gave him.
+
+After a while Spot shook himself and trotted back to Farmer Green's place. He felt homesick. But when he reached the house somehow he felt worse than ever. It was terribly quiet. It was just like a Sunday morning, when everybody was at church. Farmer Green and the hired man were working in the fields. Mrs. Green was busy in the house--too busy to stop and talk with old Spot.
+
+"It's frightfully dull here," Spot groaned. "I wish somebody would shout." And just to break the silence he lifted up his nose and tried to bark.
+
+It was far from a cheerful noise that he made, for he only succeeded in giving a mournful howl. And that sad sound made Spot gloomier than ever.
+
+"Well," he muttered, "there's nothing else to do, so I'll go and dig up that bone that I buried in the orchard last week."
+
+He found the bone where he had hidden it. Yet it did not look half as inviting as it had when he covered it with dirt a few days before. He stared at it dully. Then he put it back in its hole and pawed the dirt over it again.
+
+He found no pleasure in anything. No longer was there any fun in chasing woodchucks. The cows might have stayed in the cornfield all day long and Spot wouldn't have bothered them. He didn't even get any sport out of teasing Miss Kitty Cat.
+
+Strangest of all, he couldn't find any comfort in lying down for a quiet nap. The moment he tried to pass the time away in that fashion he began to think about Johnnie Green and what a nice boy he was. And then he would get up and walk around and around the house. Hour after hour Spot spent in that fashion.
+
+It wasn't many days before he had worn a path in the grass all the way around the farmhouse. When Farmer Green noticed it he didn't scold Spot. He patted his head and said, "Cheer up, old boy! Johnnie'll be back one of these days."
+
+Old dog Spot wagged his tail feebly. But it was hard to wait.
+
+"It wouldn't be so bad," he said to himself, "if there was only somebody to play with. If there was a puppy here on the farm I'd have some one that would be ready to romp whenever I felt like it. And then Johnnie could go away visiting every summer and I wouldn't miss him half as much."
+
+Spot forgot that a puppy wouldn't stay a puppy forever.

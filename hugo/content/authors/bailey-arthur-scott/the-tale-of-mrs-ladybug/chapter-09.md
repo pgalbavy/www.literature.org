@@ -1,0 +1,48 @@
+---
+title: "Chapter 9 - That Carpetbag"
+weight: 9
+aliases:
+  - "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-09.html"
+---
+
+MR. P. BUG'S statement amazed Mrs. Ladybug. He said he had never been in Colorado. More than that, he declared he didn't even know where the place was.
+
+Now, Peppery Polly Bumblebee had told Mrs. Ladybug that Mr. P. Bug was no stranger in Pleasant Valley. But Mrs. Ladybug had not believed what she said. Even hearing Mr. Bug's own words, Mrs. Ladybug couldn't help doubting them.
+
+"Can it be true--" she asked him--"can it be true that you've never been off this farm?"
+
+Mr. Bug quite plainly wished that she would go away and stop bothering him.
+
+"It can be--it is true," he replied carelessly.
+
+At last Mrs. Ladybug had to believe what she heard.
+
+"Then you're a fraud!" she cried. '"You're a cheat! For I read on your carpetbag, when we met in the orchard, 'P. Bug. Colorado.'"
+
+"Oh!" said Mr. Bug with a smile. "Oh! So that's where you got your odd notion. I wondered how you happened to make such a mistake."
+
+"A perfectly natural mistake, I'm sure!" Mrs. Ladybug exclaimed indignantly.
+
+"Well, I dare say it is," he admitted. "But you see, that's not my carpetbag. At least, I didn't get it new. It belonged to my great-great-great-grandfather. Indeed, I'm not sure he wasn't even still greater than I've said. He lived in Colorado once--so I've been told. But I was born and raised on this farm."
+
+"If all this is true," said Mrs. Ladybug, "what were you doing with that carpetbag? And why did you ask me the way to this potato patch?"
+
+"I'm in a hurry to get to work," Mr. Bug remarked. "I'll answer just this once. When we met in the orchard I had been away on a little vacation. And Farmer Green's potato patch--so I learned--had been moved since last year."
+
+"Dear me!" Mrs. Ladybug wailed. "People will laugh at me for having made such a serious mistake."
+
+But Mr. P. Bug didn't say anything about that.
+
+"Good-by!" he grunted. And he crawled under a leaf, out of sight.
+
+For once in her life Mrs. Ladybug wasn't eager to talk to her neighbors. On the contrary, she seemed to avoid them. But Peppery Polly Bumblebee called on her and asked her if she had seen the handsome stranger, Mr. P. Bug.
+
+"Yes!" said Mrs. Ladybug. "I've talked with him. And it's true that he has always lived here. There was a slight mistake about his carpetbag. It belonged to one of his ancestors. And since it bears his ancestor's name and address, naturally I thought they both belonged to this Mr. Bug."
+
+Peppery Polly laughed.
+
+"If you don't believe what I tell you, you can ask him yourself!" Mrs. Ladybug snapped. "He's at work over in the potato patch, helping Farmer Green."
+
+Peppery Polly laughed again, more unpleasantly than ever.
+
+"Helping Farmer Green!" she exclaimed. "He's eating the leaves off the vines as fast as he can. I know that gentleman. He's Mr. Potato Bug. And he's one of the greatest pests on the farm."

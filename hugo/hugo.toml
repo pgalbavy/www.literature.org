@@ -1,0 +1,15 @@
+baseURL = "https://www.literature.org/"
+title = "literature.org"
+locale = "en-gb"
+contentDir = "content"
+staticDir = "static"
+disableKinds = ["taxonomy", "term", "RSS"]
+enableGitInfo = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  description = "Classic works of English literature"

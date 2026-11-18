@@ -1,0 +1,40 @@
+---
+title: "Chapter 12 - The Accident"
+weight: 12
+aliases:
+  - "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-12.html"
+---
+
+Snowball was quick to learn one thing. He soon found that jumping through Johnnie Green's paper-covered hoops brought him plenty of cracked corn.
+
+No longer did Snowball run away from his young master when Johnnie entered the pasture and called to him. Nothing that the rascally black lamb said could persuade Snowball to lead Johnnie Green a chase.
+
+Much to the black lamb's disgust Snowball would start for the bars the moment Johnnie appeared there. "Johnnie wants to give me a treat!" Snowball would exclaim. "There's cracked corn waiting for me!" And off he would go.
+
+Strange as it may seem, Johnnie tired of the circus tricks before Snowball did. It wasn't long before several days would go by without Johnnie's once holding up a hoop for Snowball to jump through. And often Snowball would moon about the farmyard wishing that Johnnie would do that very thing.
+
+"I hope the cracked corn isn't getting low," said Snowball to himself. And he cried, "_Ba-a-a-a-a!_" But Johnnie Green paid no heed to him. Though Johnnie was at that very moment in the swing he never once looked at Snowball as he roamed mournfully about.
+
+So Snowball crossed the road and strolled up the steep bank opposite the farmhouse. And having nothing better to do he was about to stroll down again when he spied something that made him stop short.
+
+Was that a paper-covered hoop that he saw, right there at the top of the bank? He wondered. It was round. And it was certainly covered with something that looked like paper.
+
+For a moment Snowball thought he would walk around the hoop--if it was one--and examine it. He couldn't see anybody holding it up on edge. But there it was, just waiting for somebody to come along and jump through it!
+
+"It's a hoop!" Snowball muttered to himself. "There's no doubt about that." And lowering his head he ran at the hoop--and jumped.
+
+There was a splitting sound and a crash, both at the same time.
+
+Instead of bursting through a thin paper shell and clearing the hoop neatly Snowball found himself wedged inside something. Though he didn't know it, he had butted the end of a barrel, knocking in its head and plunging headlong inside it.
+
+Meanwhile Johnnie Green had stopped swinging. He looked across the road just in time to see the barrel totter on the edge of the steep bank. Not only totter; but begin to roll down hill!
+
+Out of the barrel stuck two woolly legs, both kicking frantically.
+
+"What in the world----" Johnnie Green exclaimed. He leaped from the swing and ran towards the strange sight. But he was too late to help.
+
+The barrel fast gathered headway. It crossed the road like some live thing, to bring up against the farmhouse with a terrific smash.
+
+Instantly the barrel fell into a dozen pieces as its staves caved in. And out of the wreck rose Snowball. He gave one frightened bleat. And then he tore off towards the pasture as fast as he could run. He didn't even wait to see if Johnnie Green would give him a treat of cracked corn.
+
+As he ran he said to himself, "There may have been a tiger inside that thing. . . . I don't know! . . . I wouldn't join the circus for all the cracked corn in the world!"

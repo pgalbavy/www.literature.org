@@ -1,0 +1,38 @@
+---
+title: "Chapter 18 - Saving The Day"
+weight: 18
+aliases:
+  - "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-18.html"
+---
+
+Benny Badger kept his bright idea to himself. But his neighbors knew that he must have thought of something, because he seemed so good-natured all at once.
+
+"He has a secret," they told one another. But they couldn't find out what it was. Though they asked Benny Badger point blank what he intended to do, he refused to tell them. He only smiled, and looked very wise. And indeed he felt just as wise as he looked.
+
+For a time a good many of his friends spied upon him. Hidden behind whatever was handy, they watched Benny Badger.
+
+But they soon grew tired of that. So far as they could see, he did nothing but dig holes. And certainly that was nothing new for him. So his friends went about their own affairs, leaving Benny to dig as many holes as he pleased.
+
+Now, it pleased him to dig more holes, and bigger holes, than he had ever dug before. And he dug them all on the other side of the prairie dog village--on the side toward the rancher's home.
+
+Benny seemed to have no fixed plan as to how he should dig the holes--whether in a straight row, or in a circle, or any other way. His one idea seemed to be to dig a plenty--to dig as many as anybody could possibly want for any purpose whatsoever.
+
+Now and then some passer-by would stop and look at Benny for a few minutes, and snicker.
+
+"Are you looking for buried gold?" Mr. Coyote asked him.
+
+"What's the matter--have you been digging so fast that you can't stop?" Mr. Fox inquired.
+
+Even the prairie dogs--timid as they were--ventured to jeer at Benny Badger and demanded whether he had gone crazy. But Benny Badger never paused to answer anybody. He smiled a good deal, however, as if he knew something that nobody else suspected.
+
+Every morning at dawn he went home to rest. And every evening at sunset he returned to the same place, just beyond the prairie dog village, to take up his work where he had left it.
+
+The only remark Benny would make when anyone insisted on talking with him was that he couldn't waste his time gossiping, because he had to save the day.
+
+That seemed a strange statement. No one knew exactly what Benny Badger meant by it. To be sure, he saved each day for sleeping--for he worked only at night. But it was just as true that he saved each night for working. So it was only natural that people should be puzzled.
+
+To everybody's surprise, Benny stopped his work as suddenly as he had begun it. Exactly at midnight he paused, brushed the dirt off himself, and slipped into his coat, remarking that he thought he "had saved the day."
+
+With a hungry look on his face he turned toward the prairie dog village. And there was a great scurrying then.
+
+"You ought to thank me!" Benny Badger called to the prairie dogs as they dived into their holes. "I've saved the day! The rancher certainly won't try to get rid of you now."

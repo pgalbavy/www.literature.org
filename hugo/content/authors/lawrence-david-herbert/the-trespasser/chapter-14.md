@@ -1,0 +1,234 @@
+---
+title: "Chapter 14"
+weight: 14
+aliases:
+  - "/authors/lawrence-david-herbert/the-trespasser/chapter-14.html"
+---
+
+In the garden of tall rose trees and nasturtiums Helena was again waiting. It was past nine o'clock, so she was growing impatient. To herself, however, she professed a great interest in a little book of verses she had bought in St Martin's Lane for twopence.
+
+So she read. She made a curious, pleased sound, and remarked to herself that she thought these verses very fine. But she watched the road for Siegmund.
+
+'H'm!' she said, 'I really don't know whether I like that or not.'
+
+Therefore she read the piece again before she looked down the road.
+
+'He really is very late. It is absurd to think he may have got drowned; but if he were washing about at the bottom of the sea, his hair loose on the water!'
+
+Her heart stood still as she imagined this.
+
+'But what nonsense! I like these verses very much. I will read them as I walk along the side path, where I shall hear the bees, and catch the flutter of a butterfly among the words. That will be a very fitting way to read this poet.'
+
+So she strolled to the gate, glancing up now and again. There, sure enough, was Siegmund coming, the towel hanging over his shoulder, his throat bare, and his face bright. She stood in the mottled shade.
+
+'I have kept you waiting,' said Siegmund.
+
+'Well, I was reading, you see.'
+
+She would not admit her impatience.
+
+'I have been talking,' he said.
+
+'Talking!' she exclaimed in slight displeasure. 'Have you found an acquaintance even here?'
+
+'A fellow who was quite close friends in Savoy days; he made me feel queer-sort of Doppelgänger, he was.'
+
+Helena glanced up swiftly and curiously.
+
+'In what way?' she said.
+
+'He talked all the skeletons in the cupboard-such piffle it seems, now! The sea is like a harebell, and there are two battleships lying in the bay. You can hear the voices of the men on deck distinctly. Well, have you made the plans for today?'
+
+They went into the house to breakfast. She watched him helping himself to the scarlet and green salad.
+
+'Mrs Curtiss,' she said, in rather reedy tone, 'has been very motherly to me this morning; oh, very motherly!'
+
+Siegmund, who was in a warm, gay mood, shrank up.
+
+'What, has she been saying something about last night?' he asked.
+
+'She was very much concerned for me-was afraid something dreadful had happened,' continued Helena, in the same keen, sarcastic tone, which showed she was trying to rid herself of her own mortification.
+
+'Because we weren't in till about eleven?' said Siegmund, also with sarcasm.
+
+'I mustn't do it again. Oh no, I mustn't do it again, really.'
+
+'For fear of alarming the old lady?' he asked.
+
+'"You know, dear, it troubles me a good deal ... but if I were your mother, I don't know how I should feel,"' she quoted.
+
+'When one engages rooms one doesn't usually stipulate for a stepmother to nourish one's conscience,' said Siegmund. They laughed, making jest of the affair; but they were both too thin-skinned. Siegmund writhed within himself with mortification, while Helena talked as if her teeth were on edge.
+
+'I don't mind in the least,' she said. 'The poor old woman has her opinions, and I mine.'
+
+Siegmund brooded a little.
+
+'I know I'm a moral coward,' he said bitterly.
+
+'Nonsense' she replied. Then, with a little heat: 'But you do continue to try so hard to justify yourself, as if you felt you needed justification.'
+
+He laughed bitterly.
+
+'I tell you - a little thing like this - it remains tied tight round something inside me, reminding me for hours - well, what everybody else's opinion of me is.'
+
+Helena laughed rather plaintively.
+
+'I thought you were so sure we were right,' she said.
+
+He winced again.
+
+'In myself I am. But in the eyes of the world - '
+
+'If you feel so in yourself, is not that enough?' she said brutally.
+
+He hung his head, and slowly turned his serviette-ring.
+
+'What is myself?' he asked.
+
+'Nothing very definite,' she said, with a bitter laugh.
+
+They were silent. After a while she rose, went lovingly over to him, and put her arms round his neck.
+
+'This is our last clear day, dear,' she said.
+
+A wave of love came over him, sweeping away all the rest. He took her in his arms....
+
+'It will be hot today,' said Helena, as they prepared to go out.
+
+'I felt the sun steaming in my hair as I came up,' he replied.
+
+'I shall wear a hat - you had better do so too.'
+
+'No,' he said. 'I told you I wanted a sun-soaking; now I think I shall get one.'
+
+She did not urge or compel him. In these matters he was old enough to choose for himself.
+
+This morning they were rather silent. Each felt the tarnish on their remaining day.
+
+'I think, dear,' she said, 'we ought to find the little path that escaped us last night.'
+
+'We were lucky to miss it,' he answered. 'You don't get a walk like that twice in a lifetime, in spite of the old ladies.'
+
+She glanced up at him with a winsome smile, glad to hear his words.
+
+They set off, Siegmund bare-headed. He was dressed in flannels and a loose canvas shirt, but he looked what he was - a Londoner on holiday. He had the appearance, the diffident bearing, and the well-cut clothes of a gentleman. He had a slight stoop, a strong-shouldered stoop, and as he walked he looked unseeing in front of him.
+
+Helena belonged to the unclassed. She was not ladylike, nor smart, nor assertive. One could not tell whether she were of independent means or a worker. One thing was obvious about her: she was evidently educated.
+
+Rather short, of strong figure, she was much more noticeably a concentrée than was Siegmund. Unless definitely looking at something she always seemed coiled within herself.
+
+She wore a white voile dress made with the waist just below her breasts, and the skirt dropping straight and clinging. On her head was a large, simple hat of burnt straw.
+
+Through the open-worked sleeves of her dress she could feel the sun bite vigorously.
+
+'I wish you had put on a hat, Siegmund,' she said.
+
+'Why?' he laughed. 'My hair is like a hood,' He ruffled it back with his hand. The sunlight glistened on his forehead.
+
+On the higher paths a fresh breeze was energetically chasing the butterflies and driving the few small clouds disconsolate out of the sky. The lovers stood for some time watching the people of the farm in the down below dip their sheep on this sunny morning. There was a ragged noise of bleating from the flock penned in a corner of the yard. Two red-armed men seized a sheep, hauled it to a large bath that stood in the middle of the yard, and there held it, more or less in the bath, whilst a third man baled a dirty yellow liquid over its body. The white legs of the sheep twinkled as it butted this way and that to escape the yellow douche, the blue-shirted men ducked and struggled. There was a faint splashing and shouting to be heard even from a distance. The farmer's wife and children stood by ready to rush in with assistance if necessary.
+
+Helena laughed with pleasure.
+
+'That is really a very quaint and primitive proceeding,' she said. 'It is cruder than Theocritus.'
+
+'In an instant it makes me wish I were a farmer,' he laughed. 'I think every man has a passion for farming at the bottom of his blood. It would be fine to be plain-minded, to see no farther than the end of one's nose, and to own cattle and land.'
+
+'Would it?' asked Helena sceptically.
+
+'If I had a red face, and went to sleep as soon as I sat comfortable, I should love it,'he said.
+
+'It amuses me to hear you long to be stupid,' she replied.
+
+'To have a simple, slow-moving mind and an active life is the desideratum.'
+
+'Is it?' she asked ironically.
+
+'I would give anything to be like that,' he said.
+
+'That is, not to be yourself,' she said pointedly.
+
+He laughed without much heartiness.
+
+'Don't they seem a long way off?' he said, staring at the bucolic scene. 'They are farther than Theocritus - down there is farther than Sicily, and more than twenty centuries from us. I wish it weren't.'
+
+'Why do you?' she cried, with curious impatience.
+
+He laughed.
+
+Crossing the down, scattered with dark bushes, they came directly opposite the path through the furze.
+
+'There it is!' she cried, 'How could we miss it?'
+
+'Ascribe it to the fairies,' he replied, whistling the bird music out of Siegfried, then pieces of Tristan. They talked very little.
+
+She was tired. When they arrived at a green, naked hollow near the cliff's edge, she said:
+
+'This shall be our house today.'
+
+'Welcome home!' said Siegmund.
+
+He flung himself down on the high, breezy slope of the dip, looking out to sea. Helena sat beside him. It was absolutely still, and the wind was slackening more and more. Though they listened attentively, they could hear only an indistinct breathing sound, quite small, from the water below: no clapping nor hoarse conversation of waves. Siegmund lay with his hands beneath his head, looking over the sparkling sea. To put her page in the shadow, Helena propped her book against him and began to read.
+
+Presently the breeze, and Siegmund, dropped asleep. The sun was pouring with dreadful persistence. It beat and beat on Helena, gradually drawing her from her book in a confusion of thought. She closed her eyes wearily, longing for shade. Vaguely she felt a sympathy with Adam in 'Adam Cast Forth'. Her mind traced again the tumultuous, obscure strugglings of the two, forth from Eden through the primitive wildernesses, and she felt sorrowful. Thinking of Adam blackened with struggle, she looked down at Siegmund. The sun was beating him upon the face and upon his glistening brow. His two hands, which lay out on the grass, were full of blood, the veins of his wrists purple and swollen with heat. Yet he slept on, breathing with a slight, panting motion. Helena felt deeply moved. She wanted to kiss him as he lay helpless, abandoned to the charge of the earth and the sky. She wanted to kiss him, and shed a few tears. She did neither, but instead, moved her position so that she shaded his head. Cautiously putting her hand on his hair, she found it warm, quite hot, as when you put your hand under a sitting hen, and feel the hot-feathered bosom.
+
+'It will make him ill,' she whispered to herself, and she bent over to smell the hot hair. She noticed where the sun was scalding his forehead. She felt very pitiful and helpless when she saw his brow becoming inflamed with the sun-scalding.
+
+Turning weariedly away, she sought relief in the landscape. But the sea was glittering unbearably, like a scaled dragon wreathing. The houses of Freshwater slept, as cattle sleep motionless in the hollow valley. Green Farringford on the slope, was drawn over with a shadow of heat and sleep. In the bay below the hill the sea was hot and restless. Helena was sick with sunshine and the restless glitter of water.
+
+'"And there shall be no more sea,"' she quoted to herself, she knew not wherefrom.
+
+'No more sea, no more anything,' she thought dazedly, as she sat in the midst of this fierce welter of sunshine. It seemed to her as if all the lightness of her fancy and her hope were being burned away in this tremendous furnace, leaving her, Helena, like a heavy piece of slag seamed with metal. She tried to imagine herself resuming the old activities, the old manner of living.
+
+'It is impossible,' she said; 'it is impossible! What shall I be when I come out of this? I shall not come out, except as metal to be cast in another shape. No more the same Siegmund, no more the same life. What will become of us - what will happen?'
+
+She was roused from these semi-delirious speculations in the sun furnace by Siegmund's waking. He opened his eyes, took a deep breath, and looked smiling at Helena.
+
+'It is worth while to sleep,' said he, 'for the sake of waking like this. I was dreaming of huge ice-crystals.'
+
+She smiled at him. He seemed unconscious of fate, happy and strong. She smiled upon him almost in condescension.
+
+'I should like to realize your dream,' she said. 'This is terrible!'
+
+They went to the cliff's edge, to receive the cool up-flow of air from the water. She drank the travelling freshness eagerly with her face, and put forward her sunburnt arms to be refreshed.
+
+'It is really a very fine sun,' said Siegmund lightly. 'I feel as if I were almost satisfied with heat.'
+
+Helena felt the chagrin of one whose wretchedness must go unperceived, while she affects a light interest in another's pleasure. This time, when Siegmund 'failed to follow her', as she put it, she felt she must follow him.
+
+'You are having your satisfaction complete this journey,' she said, smiling; 'even a sufficiency of me.'
+
+'Ay!' said Siegmund drowsily. 'I think I am. I think this is about perfect, don't you?'
+
+She laughed.
+
+'I want nothing more and nothing different,' he continued; 'and that's the extreme of a decent time, I should think.'
+
+'The extreme of a decent time!' she repeated.
+
+But he drawled on lazily:
+
+'I've only rubbed my bread on the cheese-board until now. Now I've got all the cheese - which is you, my dear.'
+
+'I certainly feel eaten up,' she laughed, rather bitterly. She saw him lying in a royal ease, his eyes naïve as a boy's, his whole being careless. Although very glad to see him thus happy, for herself she felt very lonely. Being listless with sun-weariness, and heavy with a sense of impending fate, she felt a great yearning for his sympathy, his fellow-suffering. Instead of receiving this, she had to play to his buoyant happiness, so as not to shrivel one petal of his flower, or spoil one minute of his consummate hour.
+
+From the high point of the cliff where they stood, they could see the path winding down to the beach, and broadening upwards towards them. Slowly approaching up the slight incline came a black invalid's chair, wheeling silently over the short dry grass. The invalid, a young man, was so much deformed that already his soul seemed to be wilting in his pale sharp face, as if there were not enough life-flow in the distorted body to develop the fair bud of the spirit. He turned his pain-sunken eyes towards the sea, whose meaning, like that of all things, was half obscure to him. Siegmund glanced, and glanced quickly away, before he should see. Helena looked intently for two seconds. She thought of the torn, shrivelled seaweed flung above the reach of the tide - 'the life tide,' she said to herself. The pain of the invalid overshadowed her own distress. She was fretted to her soul.
+
+'Come!' she said quietly to Siegmund, no longer resenting the completeness of his happiness, which left her unnecessary to him.
+
+'We will leave the poor invalid in possession of our green hollow - so quiet,' she said to herself.
+
+They sauntered downwards towards the bay. Helena was brooding on her own state, after her own fashion.
+
+'The Mist Spirit,' she said to herself. 'The Mist Spirit draws a curtain round us - it is very kind. A heavy gold curtain sometimes; a thin, torn curtain sometimes. I want the Mist Spirit to close the curtain again, I do not want to think of the outside. I am afraid of the outside, and I am afraid when the curtain tears open in rags. I want to be in our own fine world inside the heavy gold mist-curtain.'
+
+As if in answer or in protest to her thoughts, Siegmund said:
+
+'Do you want anything better than this, dear? Shall we come here next year, and stay for a whole month?'
+
+'If there be any next year,' said she.
+
+Siegmund did not reply.
+
+She wondered if he had really spoken in sincerity, or if he, too, were mocking fate. They walked slowly through the broiling sun towards their lodging.
+
+'There will be an end to this,' said Helena, communing with herself. 'And when we come out of the mist-curtain, what will it be? No matter - let come what will. All along Fate has been resolving, from the very beginning, resolving obvious discords, gradually, by unfamiliar progression; and out of original combinations weaving wondrous harmonies with our lives. Really, the working out has been wondrous, is wondrous now. The Master-Fate is too great an artist to suffer an anti-climax. I am sure the Master-Musician is too great an artist to allow a bathetic anti-climax.'

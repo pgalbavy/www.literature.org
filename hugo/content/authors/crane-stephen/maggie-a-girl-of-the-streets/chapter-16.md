@@ -1,0 +1,78 @@
+---
+title: "Chapter 16"
+weight: 16
+aliases:
+  - "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-16.html"
+---
+
+Pete did not consider that he had ruined Maggie. If he had thought that her soul could never smile again, he would have believed the mother and brother, who were pyrotechnic over the affair, to be responsible for it.
+
+Besides, in his world, souls did not insist upon being able to smile. "What deh hell?"
+
+He felt a trifle entangled. It distressed him. Revelations and scenes might bring upon him the wrath of the owner of the saloon, who insisted upon respectability of an advanced type.
+
+"What deh hell do dey wanna raise such a smoke about it fer?" demanded he of himself, disgusted with the attitude of the family. He saw no necessity for anyone's losing their equilibrium merely because their sister or their daughter had stayed away from home.
+
+Searching about in his mind for possible reasons for their conduct, he came upon the conclusion that Maggie's motives were correct, but that the two others wished to snare him. He felt pursued.
+
+The woman of brilliance and audacity whom he had met in the hilarious hall showed a disposition to ridicule him.
+
+"A little pale thing with no spirit," she said. "Did you note the expression of her eyes? There was something in them about pumpkin pie and virtue. That is a peculiar way the left corner of her mouth has of twitching, isn't it? Dear, dear, my cloud- compelling Pete, what are you coming to?"
+
+Pete asserted at once that he never was very much interested in the girl. The woman interrupted him, laughing.
+
+"Oh, it's not of the slightest consequence to me, my dear young man. You needn't draw maps for my benefit. Why should I be concerned about it?"
+
+But Pete continued with his explanations. If he was laughed at for his tastes in women, he felt obliged to say that they were only temporary or indifferent ones.
+
+The morning after Maggie had departed from home, Pete stood behind the bar. He was immaculate in white jacket and apron and his hair was plastered over his brow with infinite correctness. No customers were in the place. Pete was twisting his napkined fist slowly in a beer glass, softly whistling to himself and occasionally holding the object of his attention between his eyes and a few weak beams of sunlight that had found their way over the thick screens and into the shaded room.
+
+With lingering thoughts of the woman of brilliance and audacity, the bartender raised his head and stared through the varying cracks between the swaying bamboo doors. Suddenly the whistling pucker faded from his lips. He saw Maggie walking slowly past. He gave a great start, fearing for the previously- mentioned eminent respectability of the place.
+
+He threw a swift, nervous glance about him, all at once feeling guilty. No one was in the room.
+
+He went hastily over to the side door. Opening it and looking out, he perceived Maggie standing, as if undecided, on the corner. She was searching the place with her eyes.
+
+As she turned her face toward him Pete beckoned to her hurriedly, intent upon returning with speed to a position behind the bar and to the atmosphere of respectability upon which the proprietor insisted.
+
+Maggie came to him, the anxious look disappearing from her face and a smile wreathing her lips.
+
+"Oh, Pete--," she began brightly.
+
+The bartender made a violent gesture of impatience.
+
+"Oh, my Gawd," cried he, vehemently. "What deh hell do yeh wanna hang aroun' here fer? Do yeh wanna git me inteh trouble?" he demanded with an air of injury.
+
+Astonishment swept over the girl's features. "Why, Pete! yehs tol' me--"
+
+Pete glanced profound irritation. His countenance reddened with the anger of a man whose respectability is being threatened.
+
+"Say, yehs makes me tired. See? What deh hell deh yeh wanna tag aroun' atter me fer? Yeh'll git me inteh trouble wid deh ol' man an' dey'll be hell teh pay! If he sees a woman roun' here he'll go crazy an' I'll lose me job! See? Yer brudder come in here an' raised hell an' deh ol' man hada put up fer it! An' now I'm done! See? I'm done."
+
+The girl's eyes stared into his face. "Pete, don't yeh remem--"
+
+"Oh, hell," interrupted Pete, anticipating.
+
+The girl seemed to have a struggle with herself. She was apparently bewildered and could not find speech. Finally she asked in a low voice: "But where kin I go?"
+
+The question exasperated Pete beyond the powers of endurance. It was a direct attempt to give him some responsibility in a matter that did not concern him. In his indignation he volunteered information.
+
+"Oh, go teh hell," cried he. He slammed the door furiously and returned, with an air of relief, to his respectability.
+
+Maggie went away.
+
+She wandered aimlessly for several blocks. She stopped once and asked aloud a question of herself: "Who?"
+
+A man who was passing near her shoulder, humorously took the questioning word as intended for him.
+
+"Eh? What? Who? Nobody! I didn't say anything," he laughingly said, and continued his way.
+
+Soon the girl discovered that if she walked with such apparent aimlessness, some men looked at her with calculating eyes. She quickened her step, frightened. As a protection, she adopted a demeanor of intentness as if going somewhere.
+
+After a time she left rattling avenues and passed between rows of houses with sternness and stolidity stamped upon their features. She hung her head for she felt their eyes grimly upon her.
+
+Suddenly she came upon a stout gentleman in a silk hat and a chaste black coat, whose decorous row of buttons reached from his chin to his knees. The girl had heard of the Grace of God and she decided to approach this man.
+
+His beaming, chubby face was a picture of benevolence and kind-heartedness. His eyes shone good-will.
+
+But as the girl timidly accosted him, he gave a convulsive movement and saved his respectability by a vigorous side-step. He did not risk it to save a soul. For how was he to know that there was a soul before him that needed saving?

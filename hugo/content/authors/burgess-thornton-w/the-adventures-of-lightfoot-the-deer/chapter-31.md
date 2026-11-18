@@ -1,0 +1,16 @@
+---
+title: "Chapter 31 - A Surprising Discovery"
+weight: 31
+aliases:
+  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-31.html"
+---
+
+Probably there was no happier Thanksgiving in all the Great World than the Thanksgiving of Lightfoot the Deer, when the dreadful hunting season ended and he was once more back in his beloved Green Forest with nothing to fear. All his neighbors called on him to tell him how glad they were that he had escaped and how the Green Forest would not have been the same if he had not returned. So Lightfoot roamed about without fear and was happy. It seemed to him that he could not be happier. There was plenty to eat and that blessed feeling of nothing to fear. What more could any one ask? He began to grow sleek and fat and handsomer than ever. The days were growing colder and the frosty air made him feel good.
+
+Just at dusk one evening he went down to his favorite drinking place at the Laughing Brook. As he put down his head to drink he saw something which so surprised him that he quite forgot he was thirsty. What do you think it was he saw? It was a footprint in the soft mud. Yes, Sir, it was a footprint.
+
+For a long time Lightfoot stood staring at that footprint. In his great, soft eyes was a look of wonder and surprise. You see, that footprint was exactly like one of his own, only smaller. To Lightfoot it was a very wonderful footprint. He was quite sure that never had he seen such a dainty footprint. He forgot to drink. Instead, he began to search for other footprints, and presently he found them. Each was as dainty as that first one.
+
+Who could have made them? That is what Lightfoot wanted to know and what he meant to find out. It was clear to him that there was a stranger in the Green Forest, and somehow he didn't resent it in the least. In fact, he was glad. He couldn't have told why, but it was true.
+
+Lightfoot put his nose to the footprints and sniffed of them. Even had he not known by looking at those prints that they had been made by a stranger, his nose would have told him this. A great longing to find the maker of those footprints took possession of him. He lifted his handsome head and listened for some slight sound which might show that the stranger was near. With his delicate nostrils he tested the wandering little Night Breezes for a stray whiff of scent to tell him which way to go. But there was no sound and the wandering little Night Breezes told him nothing. Lightfoot followed the dainty footprints up the bank. There they disappeared, for the ground was hard. Lightfoot paused, undecided which way to go.

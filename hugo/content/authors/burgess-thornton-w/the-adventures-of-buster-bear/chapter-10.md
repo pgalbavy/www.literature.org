@@ -1,0 +1,44 @@
+---
+title: "Chapter 10 - Little Joe Otter Has Great News To Tell"
+weight: 10
+aliases:
+  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-10.html"
+---
+
+Little Joe Otter was fairly bursting with excitement. He could hardly contain himself. He felt that he had the greatest news to tell since Peter Rabbit had first found the tracks of Buster Bear in the Green Forest. He couldn't keep it to himself a minute longer than he had to. So he hurried to the Smiling Pool, where he was sure he would find Billy Mink and Jerry Muskrat and Grandfather Frog and Spotty the Turtle, and he hoped that perhaps some of the little people who live in the Green Forest might be there too. Sure enough, Peter Rabbit was there on one side of the Smiling Pool, making faces at Reddy Fox, who was on the other side, which, of course, was not at all nice of Peter. Mr. and Mrs. Redwing were there, and Blacky the Crow was sitting in the Big Hickory-tree.
+
+Little Joe Otter swam straight to the Big Rock and climbed up to the very highest part. He looked so excited, and his eyes sparkled so, that every one knew right away that something had happened.
+
+"Hi!" cried Billy Mink. "Look at Little Joe Otter! It must be that for once he has been smarter than Buster Bear."
+
+Little Joe made a good-natured face at Billy Mink and shook his head. "No, Billy," said he, "you are wrong, altogether wrong. I don't believe anybody can be smarter than Buster Bear."
+
+[Illustration: Reddy glared across the Smiling Pool at Peter. *Page 45.*]
+
+Reddy Fox rolled his lips back in an unpleasant grin. "Don't be too sure of that!" he snapped. "I'm not through with him yet."
+
+"Boaster! Boaster!" cried Peter Rabbit.
+
+Reddy glared across the Smiling Pool at Peter. "I'm not through with you either, Peter Rabbit!" he snarled. "You'll find it out one of these fine days!"
+
+"Reddy, Reddy, smart and sly, Couldn't catch a buzzing fly!"
+
+taunted Peter.
+
+"Chug-a-rum!" said Grandfather Frog in his deepest, gruffest voice. "We know all about that. What we want to know is what Little Joe Otter has got on his mind."
+
+"It's news—great news!" cried Little Joe.
+
+"We can tell better how great it is when we hear what it is," replied Grandfather Frog testily. "What is it?"
+
+Little Joe Otter looked around at all the eager faces watching him, and then in the slowest, most provoking way, he drawled: "Farmer Brown's boy is afraid of Buster Bear."
+
+For a minute no one said a word. Then Blacky the Crow leaned down from his perch in the Big Hickory-tree and looked very hard at Little Joe as he said:
+
+"I don't believe it. I don't believe a word of it. Farmer Brown's boy isn't afraid of any one who lives in the Green Forest or on the Green Meadows or in the Smiling Pool, and you know it. We are all afraid of him."
+
+Little Joe glared back at Blacky. "I don't care whether you believe it or not; it's true," he retorted. Then he told how early that very morning he and Buster Bear had been fishing together in the Laughing Brook, and how Farmer Brown's boy had been fishing there too, and hadn't caught a single trout because they had all been caught or frightened before he got there. Then he told how Farmer Brown's boy had found a footprint of Buster Bear in the soft mud, and how he had stopped fishing right away and started for home, looking behind him with fear in his eyes all the way.
+
+"Now tell me that he isn't afraid!" concluded Little Joe. "For once he knows just how we feel when he comes prowling around where we are. Isn't that great news? Now we'll get even with *him*!"
+
+"I'll believe it when I see it for myself!" snapped Blacky the Crow.

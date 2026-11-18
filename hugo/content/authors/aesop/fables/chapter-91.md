@@ -1,0 +1,8 @@
+---
+title: "The Aethiop"
+weight: 93
+aliases:
+  - "/authors/aesop/fables/chapter-91.html"
+---
+
+THE PURCHASER of a black servant was persuaded that the color of his skin arose from dirt contracted through the neglect of his former masters. On bringing him home he resorted to every means of cleaning, and subjected the man to incessant scrubbings. The servant caught a severe cold, but he never changed his color or complexion. What's bred in the bone will stick to the flesh.

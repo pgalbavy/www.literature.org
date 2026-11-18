@@ -1,0 +1,102 @@
+---
+title: "Chapter 1"
+weight: 1
+aliases:
+  - "/authors/hodgson-burnett-frances/the-good-wolf/chapter-01.html"
+---
+
+THERE was once a fat little, nice little, round little boy and his name was Tim. As soon as people looked at him they began to laugh and he began to laugh too. He had dimples on his knees and dimples on his hands and dimples all round his mouth. That was because Fairies liked him and used to kiss him whenever they flew past him, and they kissed him so much that they made dimples. He had a lot of curly hair which made a lovely mop. In fact he was lovesome all over and no one ever denied it. But when he played about and he never stopped playing the wind blew his curly mop into tangles, and when he stood on his head on his bed or the grass or the nursery floor, that rubbed it into tangles; and when he was asleep and cuddled down into his pillows and dreamed delightful things, that ruffled it into tangles. So after he was dressed in the morning his mamma was obliged to brush them all out and comb out all the knots and make him look soft and fluffy and lovesome for the rest of the day. Now of course this might have been very horrid for both of them. He might have wriggled and cried and she might have pulled hard and scolded. But nothing of the sort happened because they were both nice people. He was a nice people and she was a nice people. So she used to sit down on a chair by a window which looked right into a big maple tree where birds lived, and Tim used to turn his back and stand leaning his fat little warm body against her knee and then she would comb and brush, and while she did she told him the Hair Curling Stories. This was one of them and it was called:
+
+THE GOOD WOLF.
+
+Once there was another little boy and his name was Bartholomew Herbert Hubert Ellecompane but of course he was not called all that at once. When people wanted him they only said Barty and he was quite satisfied, because you see that if every time anyone wanted to make you a present of a beautiful train or a box of caramels, he had to call out "Bartholomew Herbert Hubert Ellecompane" before he could give them to you, a great deal of time would be wasted.
+
+Well, Barty was a nice people. If he had not been you would probably have heard crying and seen wriggling in his nursery every morning. He lived in the time when boys wore quite long, curly hair and if your hair is short you don't know how much combing and brushing that takes. But Barty was so cheerful that he did not mind it one bit and even used to laugh and chuckle and sing songs his hair was being brushed. (When the story of the Good Wolf was being told to Tim his mother used to feel his fat little body shake against her knee when he heard this part because he always laughed and chuckled at it.)
+
+Indeed Barty was a great blessing and a privilege. He lived on the edge of a deep forest, and he was very fond of that forest because there were such wonderful things in it things that grew and things that built nests and things that burrowed under the earth and made long passages and little warm caves to live in delightful things. Besides which Barty had heard that there were Fairies there, though he had never seen one.
+
+He was not a rich little boy, in fact he was quite poor. He had no toys at all because his father and mother had no money. When he went to bed. He used to lie and think of all the things he would like to have, and when he went to sleep he sometimes dreamed he had them, which was very nice, but when he wakened they were not there.
+
+One morning in the winter he wished very much for a sled because when he looked out of the window all the ground was covered with sparkling snow and all the trees in the forest were loaded with it, and the sun was shining on glittering icicles hanging from the roof.
+
+"I want a sled," he whispered to himself as he pressed his little nose against the glass. "I want one I wish I had one."
+
+If he had not been a blessing and a privilege he would have cried, but he actually didn't. He scrambled down and asked his mother to put on his thick scarlet cap and coat and his rubber boots, and he went striding out into the snow like a stout little robin red breast.
+
+He stamped across the road and stamped across the field to the edge of his beloved deep forest, because he wanted to see what things were doing, the things that build nests and the things that burrow and make little warm caves to live in.
+
+And when he reached the very edge where the thick trees began--there he saw sitting up on its haunches and looking straight at him an Immense Wolf.
+
+He gave a little jump and turned pale and was going to run away as fast as his rubber boots would carry him, when he suddenly stopped because he could not help it. The Wolf was speaking to him.
+
+"Do not be frightened," he said in a slow deep voice. "And do not run away. I am a Good Wolf."
+
+Usually wolves don't talk, but this one did, and there were such peculiar things about him that Barty actually forgot to be frightened.
+
+"How--how good are you?" he asked.
+
+"I am this good," the Wolf said quite solemnly. "When I see a little boy who is a blessing and a privilege and never frets and says he has nothing to play with, and never wriggles when his hair is brushed, I am his Best and most Intimate Friend. But--" and his nice voice became quite fierce and growly and he showed all his white teeth, "when I meet a boy who is a little pig and a torment and who makes life a burden when the tangles are taken out--I tear him from limb to limb!"
+
+"I am glad I don't make life a burden," Barty said.
+
+"So am I," answered the Good Wolf. "I prefer to be your Intimate Friend. Look at my ears."
+
+He need not have said that, because Barty had been looking at them all the time. He had thought them very queer at first because they were so very big and tall and pointed, and one was pink and one was blue. But they had been growing queerer and queerer every minute because they had been growing bigger and bigger and bigger right before Barty's eyes.
+
+"Watch them," said the Good Wolf.
+
+He shook the pink ear. Once he shook it--twice he shook it--three times he shook it. And out of it fell a beautiful red sled--exactly the kind Barty had dreamed about.
+
+"That is for you," the Good Wolf said. "It is a present from your Intimate Friend."
+
+"Oh! Oh! Oh! Thank you! Thank you! Thank you!" shouted Barty and he danced and danced about.
+
+"Look again," the Good Wolf said.
+
+He shook the blue ear. Once he shook it--twice he shook it--three times he shook it. And he shook out a splendid train with ever so many cars, and a key to wind it up and make it go--exactly the kind Barty had dreamed about.
+
+Barty jumped at it and knelt down in the snow.
+
+"Oh! Oh! Oh!" he kept saying because he could scarcely believe he was awake.
+
+Then the Good Wolf shook the pink ear and pennies flew out--pennies and pennies and pennies--just like a shower of rain; and while Barty was scrambling about shouting for joy and picking them up, the blue ear was shaken and a purse flew out, so that there was a place to put the pennies in, and Barty picked up enough to stuff it full to the brim.
+
+He just danced up and down.
+
+"What a Good Wolf you are!" he said. "I did not know any wolf could be as good as this."
+
+"Ah!" said the Good Wolf. "You don't know me!"
+
+(When Tim's mother came to this part of the story he used to jump up and down and laugh for joy until his face was full of dimples.)
+
+The Good Wolf was enjoying himself as much as Barty was. He was smiling and smiling and wagging his tail.
+
+"Now," he said, "do you want to go into the forest and see the things that build nests and the things that burrow under the ground and make little warm caves to live in?"
+
+"Please yes!" Barty shouted. "Please yes!"
+
+Then the Good Wolf shook the pink ear. Once he shook it--twice he shook it--three times he shook it and there flew out a beautiful set of harness made of red leather studded with gold ornaments and hung with tiny sleigh bells.
+
+That made Barty stare because he did not know what it was for.
+
+"It is for me," the Good Wolf said. "You must harness me to your sled and I will draw you anywhere in the world--just anywhere."
+
+Barty clapped his hands and jumped up and down more than ever. He had always wanted to be a coachman and once he dreamed that he had a cart and horse.
+
+"But before you harness me," the Good Wolf said, "there is something else to be done. If your mother were to see a wolf galloping off into the forest with her boy she would not know he was a Good Wolf and she would be frightened, and if we met a hunter in the forest he would not know I was a good wolf and he would shoot me. So I must change myself into something else."
+
+"Can you?" cried Barty, and his eyes grew as big as saucers, he was so delighted.
+
+"Just you watch me!" said the Good Wolf.
+
+Once he shook himself--twice he shook himself--three times he shook himself--and then something very funny happened. While he was shaking himself he shook so fast that he looked as if he were standing in a white mist. Then he stopped quite suddenly and stood still. And actually instead of being a wolf he had changed into a great big dog the kind of big dog that drags sleds over the snow for the Esquimau people--but he was as white as the snow was.
+
+He was so furry and handsome that Barty ran to him and hung round his neck hugging him. He had so wanted a dog and this was exactly the kind he had dreamed about.
+
+"Put on my harness. Put it on!" said the Good Wolf. "I will show you how."
+
+He showed him how to do it all, and when he was harnessed to the sled and stood ready with the scarlet leather straps and gold buckles and jingling gold bells shining out against his thick furry white coat, he looked like a picture--so did the sled--so did Barty in his red coat and cap, dancing up and down with his whip in his hand.
+
+"Take the reins and jump on," said the Wolf.
+
+And Barty did take the reins and jump on, and the Good Wolf began to trot, and the scarlet harness shone, and the bells jingled and jingled, and off they went gliding over the sparkling snow into the forest--the deep, deep forest where things built nests, and things burrowed under the earth and made long passages and little warm caves to live in.

@@ -1,0 +1,68 @@
+---
+title: "Chapter 12 - Jolly Robin’s Helper"
+weight: 12
+aliases:
+  - "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-12.html"
+---
+
+The next morning Jolly Robin told his wife that she would have to do all the work of gathering the children’s breakfast. "You know, my love," he explained, "I have important business to attend to to-day." And before she had time to object he left her.
+
+Over near the garden fence he met three plump Robins who had flown across the meadow to help him fight Reddy Woodpecker. And soon the four had dropped down into the raspberry patch.
+
+Reddy Woodpecker had not arrived. So, while they were waiting Jolly Robin’s friends helped themselves to berries. Under the hot sun the fruit had ripened fast. Finding it both sweet and juicy they ate of it freely. And Jolly Robin could think of no reason why he should not do likewise.
+
+By the time Reddy Woodpecker came, all the Robins from over the meadow were feeling so well fed and good-natured that they were in anything but a fighting mood.
+
+"Let that Woodpecker enjoy this fruit if he likes it," they said to Jolly in an undertone. "There’s more than enough for everybody. And now," they told him, "we must go home, because we have to help our wives feed our children."
+
+Off they flew. And Jolly Robin found himself alone with Reddy Woodpecker.
+
+"Ahem!" exclaimed Jolly Robin. "It’s a fine morning, isn’t it?"
+
+"Delightful!" said Reddy Woodpecker.
+
+"It looks as if you and I were going to have this raspberry patch all to ourselves, doesn’t it?" Jolly continued.
+
+Reddy Woodpecker agreed with him.
+
+"We ought to keep others out of it," said Jolly.
+
+Again Reddy Woodpecker was of the same mind as he.
+
+"Then this is a bargain!" cried Jolly Robin. "I’ll ask you to guard the place alone for a few minutes while I go home and speak to my wife."
+
+Reddy Woodpecker grinned as he watched Jolly Robin winging his way homeward.
+
+"Humph!" he grunted. "I may as well let that Robin have a taste of these berries. I certainly can’t eat them all, nor carry them all home to my family."
+
+Jolly Robin found his wife anxiously awaiting his return.
+
+"Have you chased that Woodpecker person away?" she demanded.
+
+"No, my love," he replied. "I ’ve made other arrangements. Mr. Woodpecker is working for me now. So of course I don’t want to scare him off the farm. He’s helping me at the raspberry patch. He’s helping me to guard the fruit. In fact I couldn’t have come back to speak to you now if it wasn’t for him. He’s watching the berries for me now."
+
+"Nonsense!" cried Mrs. Robin. "If that Woodpecker person is in the raspberry patch you may be sure he’s eating berries as fast as he can."
+
+"Only a few!" Jolly assured her. "There’s more than enough for our family and his."
+
+"How do you know that?" she demanded. "Did you count the berries?"
+
+"No!" he replied.
+
+"Go back and count them at once!" she commanded.
+
+"Yes, my love!" Jolly answered.
+
+He really did try to count the berries. But he soon found it to be an impossible task. Reddy Woodpecker ate so many raspberries and carried so many home to his children that Jolly Robin despaired of ever settling upon the correct number.
+
+He felt very unhappy over the matter. And he even asked Reddy Woodpecker what he ought to do.
+
+"Oh, tell your wife there are a million," Reddy Woodpecker suggested. "If she doesn’t believe you, let her count them herself!"
+
+"Oh, I couldn’t do that," said Jolly Robin.
+
+"Well, I say there are a million," Reddy declared. Then he picked and ate another berry. "Now there are nine hundred and ninety-nine thousand nine hundred and ninety-nine," he announced. "Go home and tell your wife I said so."
+
+So Jolly Robin went. He went and told Mrs. Robin what Reddy Woodpecker had said.
+
+She turned her back on him and exclaimed, "Fiddlesticks!"

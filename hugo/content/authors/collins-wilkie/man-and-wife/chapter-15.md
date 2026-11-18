@@ -1,0 +1,68 @@
+---
+title: "Chapter 15 - Geoffrey In The Marriage Market"
+weight: 17
+aliases:
+  - "/authors/collins-wilkie/man-and-wife/chapter-15.html"
+---
+
+THE interval of eight-and-forty hours passed--without the occurrence of any personal communication between the two brothers in that time.
+
+Julius, remaining at his father's house, sent brief written bulletins of Lord Holchester's health to his brother at the hotel. The first bulletin said, "Going on well. Doctors satisfied." The second was firmer in tone. "Going on excellently. Doctors very sanguine." The third was the most explicit of all. "I am to see my father in an hour from this. The doctors answer for his recovery. Depend on my putting in a good word for you, if I can; and wait to hear from me further at the hotel."
+
+Geoffrey's face darkened as he read the third bulletin. He called once more for the hated writing materials. There could be no doubt now as to the necessity of communicating with Anne. Lord Holchester's recovery had put him back again in the same critical position which he had occupied at Windygates. To keep Anne from committing some final act of despair, which would connect him with a public scandal, and ruin him so far as his expectations from his father were concerned, was, once more, the only safe policy that Geoffrey could pursue. His letter began and ended in twenty words:
+
+"DEAR ANNE,--Have only just heard that my father is turning the corner. Stay where you are. Will write again."
+
+Having dispatched this Spartan composition by the post, Geoffrey lit his pipe, and waited the event of the interview between Lord Holchester and his eldest son.
+
+Julius found his father alarmingly altered in personal appearance, but in full possession of his faculties nevertheless. Unable to return the pressure of his son's hand--unable even to turn in the bed without help--the hard eye of the old lawyer was as keen, the hard mind of the old lawyer was as clear, as ever. His grand ambition was to see Julius in Parliament. Julius was offering himself for election in Perthshire, by his father's express desire, at that moment. Lord Holchester entered eagerly into politics before his eldest son had been two minutes by his bedside.
+
+"Much obliged, Julius, for your congratulations. Men of my sort are not easily killed. (Look at Brougham and Lyndhurst!) You won't be called to the Upper House yet. You will begin in the House of Commons--precisely as I wished. What are your prospects with the constituency? Tell me exactly how you stand, and where I can be of use to you."
+
+"Surely, Sir, you are hardly recovered enough to enter on matters of business yet?"
+
+"I am quite recovered enough. I want some present interest to occupy me. My thoughts are beginning to drift back to past times, and to things which are better forgotten." A sudden contraction crossed his livid face. He looked hard at his son, and entered abruptly on a new question. "Julius!" he resumed, "have you ever heard of a young woman named Anne Silvester?"
+
+Julius answered in the negative. He and his wife had exchanged cards with Lady Lundie, and had excused themselves from accepting her invitation to the lawn-party. With the exception of Blanche, they were both quite ignorant of the persons who composed the family circle at Windygates.
+
+"Make a memorandum of the name," Lord Holchester went on. "Anne Silvester. Her father and mother are dead. I knew her father in former times. Her mother was ill-used. It was a bad business. I have been thinking of it again, for the first time for many years. If the girl is alive and about the world she may remember our family name. Help her, Julius, if she ever wants help, and applies to you." The painful contraction passed across his face once more. Were his thoughts taking him back to the memorable summer evening at the Hampstead villa? Did he see the deserted woman swooning at his feet again? "About your election?" he asked, impatiently. "My mind is not used to be idle. Give it something to do."
+
+Julius stated his position as plainly and as briefly as he could. The father found nothing to object to in the report--except the son's absence from the field of action. He blamed Lady H olchester for summoning Julius to London. He was annoyed at his son's being there, at the bedside, when he ought to have been addressing the electors. "It's inconvenient, Julius," he said, petulantly. "Don't you see it yourself?"
+
+Having previously arranged with his mother to take the first opportunity that offered of risking a reference to Geoffrey, Julius decided to "see it" in a light for which his father was not prepared. The opportunity was before him. He took it on the spot.
+
+"It is no inconvenience to me, Sir," he replied, "and it is no inconvenience to my brother either. Geoffrey was anxious about you too. Geoffrey has come to London with me."
+
+Lord Holchester looked at his eldest son with a grimly-satirical expression of surprise.
+
+"Have I not already told you," he rejoined, "that my mind is not affected by my illness? Geoffrey anxious about me! Anxiety is one of the civilized emotions. Man in his savage state is incapable of feeling it."
+
+"My brother is not a savage, Sir."
+
+"His stomach is generally full, and his skin is covered with linen and cloth, instead of red ochre and oil. So far, certainly, your brother is civilized. In all other respects your brother is a savage."
+
+"I know what you mean, Sir. But there is something to be said for Geoffrey's way of life. He cultivates his courage and his strength. Courage and strength are fine qualities, surely, in their way?"
+
+"Excellent qualities, as far as they go. If you want to know how far that is, challenge Geoffrey to write a sentence of decent English, and see if his courage doesn't fail him there. Give him his books to read for his degree, and, strong as he is, he will be taken ill at the sight of them. You wish me to see your brother. Nothing will induce me to see him, until his way of life (as you call it) is altered altogether. I have but one hope of its ever being altered now. It is barely possible that the influence of a sensible woman--possessed of such advantages of birth and fortune as may compel respect, even from a savage--might produce its effect on Geoffrey. If he wishes to find his way back into this house, let him find his way back into good society first, and bring me a daughter-in-law to plead his cause for him--whom his mother and I can respect and receive. When that happens, I shall begin to have some belief in Geoffrey. Until it does happen, don't introduce your brother into any future conversations which you may have with Me. To return to your election. I have some advice to give you before you go back. You will do well to go back to-night. Lift me up on the pillow. I shall speak more easily with my head high."
+
+His son lifted him on the pillows, and once more entreated him to spare himself.
+
+It was useless. No remonstrances shook the iron resolution of the man who had hewed his way through the rank and file of political humanity to his own high place apart from the rest. Helpless, ghastly, snatched out of the very jaws of death, there he lay, steadily distilling the clear common-sense which had won him all his worldly rewards into the mind of his son. Not a hint was missed, not a caution was forgotten, that could guide Julius safely through the miry political ways which he had trodden so safely and so dextrously himself. An hour more had passed before the impenetrable old man closed his weary eyes, and consented to take his nourishment and compose himself to rest. His last words, rendered barely articulate by exhaustion, still sang the praises of party manoeuvres and political strife. "It's a grand career! I miss the House of Commons, Julius, as I miss nothing else!"
+
+Left free to pursue his own thoughts, and to guide his own movements, Julius went straight from Lord Holchester's bedside to Lady Holchester's boudoir.
+
+"Has your father said any thing about Geoffrey?" was his mother's first question as soon as he entered the room.
+
+"My father gives Geoffrey a last chance, if Geoffrey will only take it."
+
+Lady Holchester's face clouded. "I know," she said, with a look of disappointment. "His last chance is to read for his degree. Hopeless, my dear. Quite hopeless! If it had only been something easier than that; something that rested with me--"
+
+"It does rest with you," interposed Julius. "My dear mother!--can you believe it?--Geoffrey's last chance is (in one word) Marriage!"
+
+"Oh, Julius! it's too good to be true!"
+
+Julius repeated his father's own words. Lady Holchester looked twenty years younger as she listened. When he had done she rang the bell.
+
+"No matter who calls," she said to the servant, "I am not at home." She turned to Julius, kissed him, and made a place for him on the sofa by her side. "Geoffrey shall take _that_ chance," she said, gayly--"I will answer for it! I have three women in my mind, any one of whom would suit him. Sit down, my dear, and let us consider carefully which of the three will be most likely to attract Geoffrey, and to come up to your father's standard of what his daughter-in-law ought to be. When we have decided, don't trust to writing. Go yourself and see Geoffrey at his hotel."
+
+Mother and son entered on their consultation--and innocently sowed the seeds of a terrible harvest to come.

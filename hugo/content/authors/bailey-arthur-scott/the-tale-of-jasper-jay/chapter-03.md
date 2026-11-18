@@ -1,0 +1,30 @@
+---
+title: "Chapter 3 - The Strange Cry"
+weight: 3
+aliases:
+  - "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-03.html"
+---
+
+AS you may already know, Jasper Jay was a vain fellow. And it was not only of his brilliant blue suit that he was proud. He was greatly pleased with his own voice, though many of the feathered folk thought it harsh and disagreeable. But, that, perhaps, was because they seldom or never heard Jasper's sweeter, flute-like notes, or the soft, low chatter which he kept for his most intimate friends.
+
+What most of his acquaintances knew and disliked was Jasper's noisy "_Jay! jay!_" But even that discordant cry suited Jasper very well. And he often boasted that there wasn't another bird in Pleasant Valley that could make a greater racket than he.
+
+To be sure, there was Jasper's cousin, old Mr. Crow. His "Caw, caw" could be heard half a mile away, if the wind was right. But Jasper Jay always insisted that his own voice was much stronger than Mr. Crow's. And nobody troubled himself to dispute Jasper's claim.
+
+So Jasper Jay had little to worry about until at last something happened that made him feel quite uneasy. It was almost noon on a hot summer's day; and Jasper was resting amid the shade of a big beech tree on the edge of the woods, where he could look across the meadow and watch Farmer Green and his boy Johnnie and the hired-man at work in the hayfield. Jasper was just thinking how much pleasanter was his own carefree life than theirs when a long, loud call blared across the meadow. He had never heard that cry before; and he raised himself on tiptoe, listening intently as the sound echoed back and forth across the valley.
+
+Though Jasper stayed quite still for some time, waiting to hear the cry again, it was not repeated.
+
+"I'd like to know what sort of bird that was!" he said to himself at last. "If he stays in this neighborhood I'll have to drive him away, for his voice is certainly louder than mine. And I wouldn't let him come here and insult me like that."
+
+All the afternoon Jasper Jay flew up and down the length of Pleasant Valley and back and forth across it, hunting for the strange bird with the loud voice. But he met no newcomer at all.
+
+Jasper had almost decided that the stranger had merely been passing through the valley. He certainly hoped that such was the case, because he had no way of telling how big the unknown might be. If he were as large as his voice, driving him away might prove no joke for Jasper.
+
+By nightfall Jasper began to feel less anxious. To be sure, he dreamed that he met an enormous bird on the top of Blue Mountain, who chased him all the way around the world. And when he awoke just before daybreak he was still frightened, until he remembered that it was only a dream.
+
+"It must have been that fuzzy caterpillar that I ate just before I went to bed," he thought.
+
+Jasper was himself again all the morning. He had a good deal of fun teasing a kitten which had lost itself behind Farmer Green's barn. And he drove Jolly Robin's wife almost frantic by hiding in the orchard and whistling like a hawk. And then, at midday, his fun was spoiled. That strange scream smote his ears once more. And Jasper trembled both with rage and fear.
+
+He knew then that the stranger was still in the valley.

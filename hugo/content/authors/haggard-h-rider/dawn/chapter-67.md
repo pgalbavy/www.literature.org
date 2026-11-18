@@ -1,0 +1,50 @@
+---
+title: "Chapter 67"
+weight: 68
+aliases:
+  - "/authors/haggard-h-rider/dawn/chapter-67.html"
+---
+
+Public feeling in Marlshire was much excited about the Caresfoot tragedy, and, when it became known that Lady Bellamy had attempted to commit suicide, the excitement was trebled. It is not often that the dullest and most highly respectable part of an eminently dull and respectable county gets such a chance of cheerful and interesting conversation as these two events gave rise to. We may be sure that the godsend was duly appreciated; indeed, the whole story is up to this hour a favourite subject of conversation in those parts.
+
+Of course the members of the polite society of the neighbourhood of Roxham were divided into two camps. The men all thought that Angela had been shamefully treated, the elder and most intensely respectable ladies for the most part inclined to the other side of the question. It not being their habit to look at matters from the same point of view in which they present themselves to a man's nicer sense of honour, they could see no great harm in George Caresfoot's stratagems. A man so rich, they argued, was perfectly entitled to buy his wife. The marriage had been arranged, like their own, on the soundest property basis, and the woman who rose in rebellion against a husband merely because she loved another man, or some such romantic nonsense, deserved all she got. Gone mad, had she?--well, it was a warning! And these aristocratic matrons sniffed and turned up their noses. They felt that Angela, by going mad and creating a public excitement, had entered a mute protest against the recognized rules of marriage saleand -barter as practised in this country--and Zululand. Having daughters to dispose of, they resented this, and poor Angela was for years afterwards spoken of among them as that "immoral girl."
+
+But the lower and more human strata of society did not sympathize with this feeling. On the contrary, they were all for Angela and the dog Aleck who was supposed to have chocked that "carroty warmint," George.
+
+The inquest on George's body was held at Roxham, and was the object of the greatest possible interest. Indeed, the public excitement was so great that the coroner was, perhaps insensibly, influenced by it, and allowed the inquiry to travel a little beyond its professed object of ascertaining the actual cause of death, with the result that many of the details of the wicked plot from which Angela had been the principal sufferer became public property. Needless to say that they did not soothe the feelings of an excited crowd. When Philip, after spending one of the worst half-hours of his life in the witness-box, at length escaped with such shreds of reputation as he had hitherto possessed altogether torn off his back, his greeting from the mob outside the court may fairly be described as a warm one. As the witnesses' door closed behind him, he found himself at one end of a long lane, that was hedged on both sides by faces not without a touch of ferocity about them, and with difficulty kept clear by the available force of the five Roxham policemen.
+
+"Who sold his daughter?" shouted a great fellow in his ear.
+
+"Let me come, there's a dear man, and have a look at Judas," said a skinny little woman with a squint, to an individual who blocked her view.
+
+The crowd caught at the word. "Judas!" it shouted, "go and hang yourself! Judas! Judas!"
+
+How Philip got out of that he never quite knew, but he did get out somehow.
+
+Meanwhile, Sir John Bellamy was being examined in court, and, notwithstanding the almost aggressive innocence of his appearance, he was not having a very good time. It chanced that he had fallen into the hands of a rival lawyer, who hated him like poison, and had good reason to hate him. It is wonderful, by the way, how enemies do spring up round a man in trouble like dogs who bite a wounded companion to death, and on the same principle. He is defenceless. This gentleman would insist on conducting the witnesses' examination on the basis that he knew all about the fraud practised with reference to the supposed death of Arthur Heigham. Now, it will be remembered that Sir John, in his last interview with Lady Bellamy, had declared that there was no tittle of evidence against him, and that it would be impossible to implicate him in the exposure that must overtake her. To a certain extent he was right, but on one point he had overshot himself, for at that very inquest Mr. Fraser stated on oath that he (Mr. Fraser) had spoken of Arthur Heigham's death in the presence of Sir John Bellamy, and had not been contradicted.
+
+In vain did Sir John protest that Mr. Fraser must be mistaken. Both the jury and the public looked at the probabilities of the matter, and, though his protestations were accepted in silence, when he left the witness-box there was not a man in court but was morally certain that he had been privy to the plot, and, so far as reputation was concerned, he was a ruined man. And yet legally there was not a jot of evidence against him. But public opinion required that a scapegoat should be found, and it was now his lot to figure as that unlucky animal.
+
+By the time he reached the exit into the street, the impression that he had had a hand in the business had, in some mysterious way, communicated itself to the mob outside, many a member of which had some old grudge to settle with "Lawyer Bellamy," if only chance put an opportunity in their way. As he stepped through the door, utterly ignorant of the greeting which awaited him, his ears were assailed by an awful yell, followed by a storm of hoots and hisses.
+
+Sir John turned pale, and looked for a means of escape; but the policeman who had let him out had locked the door behind him, and all round him was the angry mob.
+
+"Here comes the ---- that started the swim," roared a voice, as soon as there was a momentary lull.
+
+"Gentlemen----" piped Sir John, with all the pippin hue gone from his cheeks, and rubbing his white hands together nervously.
+
+"Yah! he poisoned his own poor wife!" shouted a woman with a baby.
+
+"Ladies----" went on Sir John, in agonized tones.
+
+"Pelt him!" yelled a sweet little boy of ten or so, suiting the action to the word, and planting a rotten egg full upon Sir John's imposing brow.
+
+"No, no," said the woman who had nicknamed Philip "Judas." "Why don't you drop him in the pond? There's only two feet of water, and it's soft falling on the mud. You can pelt him afterwards."
+
+The idea was received with acclamation, and notwithstanding his own efforts to the contrary, backed as they were by those of the five policemen, before he knew where he was, Sir John found himself being hustled by a lot of sturdy fellows towards the filthy duck-pond, like an aristocrat to the guillotine. They soon arrived, and then followed the most painful experience of all his life, one of which the very thought would ever afterwards move him most profoundly. Two strong men, utterly heedless of his yells and lamentations, took him by the heels, and two yet stronger than they caught him by his plump and tender wrists, and then, under the directions of the woman with the squint, they began to swing him from side to side. As soon as the lady directress considered that the impetus was sufficient, she said, "Now!" and away he went like a swallow, only to land, when his flying powers were exhausted, plump in the middle of the duck-pond.
+
+Some ten seconds afterwards, a pillar of slimy mud arose and staggered towards the bank, where a crowd of little boys, each holding something offensive in his right hand, were eagerly awaiting its arrival. The squint-eyed woman contemplated the figure with the most intense satisfaction.
+
+"He sold me up once," she murmured; "but we're quits now. That's it, lads, let him have it."
+
+But we will drop a veil over this too painful scene. Sir John Bellamy was unwell for some days afterwards; when he recovered he shook the dust of Roxham off his shoes for ever.

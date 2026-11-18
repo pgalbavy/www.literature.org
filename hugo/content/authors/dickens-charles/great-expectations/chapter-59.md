@@ -1,0 +1,98 @@
+---
+title: "Chapter 59"
+weight: 59
+aliases:
+  - "/authors/dickens-charles/great-expectations/chapter-59.html"
+---
+
+FOR eleven years, I had not seen Joe nor Biddy with my bodily eyes -- though they had both been often before my fancy in the k, I laid my hand softly on the latch of the old kitchen door. I touched it so softly that I was not heard, and looked in unseen. There, smoking his pipe in the old place by the kitchen firelight, as hale and as strong as ever though a little grey, sat Joe; and there, fenced into the corner with Joe's leg, and sitting on my own little stool looki ng at the fire, was -- I again!
+
+'We giv' him the name of Pip for your sake, dear old chap,' said Joe, delighted when I took another stool by the child's side (but I did not rumple his hair), 'and we hoped he might grow a little bit like you, and we think he do.'
+
+I thought so too, and I took him out for a walk next morning, and we talked immensely, understanding one another to perfection. And I took him down to the churchyard, and set him on a certain tombstone there, and he showed me from that elevation which stone was sacred to the memory of Philip Pirrip, late of this Parish, and Also Georgiana, Wife of the Above.
+
+'Biddy,' said I, when I talked with her after dinner, as her little girl lay sleeping in her lap, 'you must give Pip to me, one of these days; or lend him, at all events.'
+
+'No, no,' said Biddy, gently. 'You must marry.'
+
+'So Herbert and Clara say, but I don't think I shall, Biddy. I have so settled down in their home, that it's not at all likely. I am already quite an old bachelor.'
+
+Biddy looked down at her child, and put its little hand to her lips, and then put the good matronly hand with which she had touched it, into mine. There was something in the action and in the light pressure of Biddy's wedding-ring, that had a very pretty eloquence in it.
+
+'Dear Pip,' said Biddy, 'you are sure you don't fret for her?'
+
+'O no -- I think not, Biddy.'
+
+'Tell me as an old, old friend. Have you quite forgotten her ?'
+
+'My dear Biddy, I have forgotten nothing in my life that ever had a foremost place there, and little that ever had any place there. But that poor dream, as I once used to call it, has all gone by, Biddy, all gone by!'
+
+Nevertheless, I knew while I said those words, that I secretly intended to revisit the site of the old house that evening, alone, for her sake. Yes even so. For Estella's sake.
+
+I had heard of her as leading a most unhappy life, and as being separated from her husband, who had used her with great cruelty, and who had become quite renowned as a compound of pride, avarice, brutality, and meanness. And I had heard of the death of her husband, from an accident consequent on his ill-treatment of a horse. This release had befallen her some two years before; for anything I knew, she was married again.
+
+The early dinner-hour at Joe's, left me abundance of time, with- out hurrying my talk with Biddy, to walk over to the old spot be- fore dark. But, what with loitering on the way, to look at old ob- jects and to think of old times, the day had quite declined when I came to the place.
+
+There was no house now, no brewery, no building whatever left, but the wall of the old garden. The cleared space had been en- closed with a rough fence, and, looking over it, I saw that some of the old ivy had struck root anew, and was growing green on low quiet mounds of ruin. A gate in the fence standing ajar, I pushed it open, and went in.
+
+A cold silvery mist had veiled the afternoon, and the moon was not yet up to scatter it. But, the stars were shining beyond the mist, and the moon was coming, and the evening was not dark. I could trace out where every part of the old house had been, and where the brewery had been, and where the gates, and where the casks. I had done so, and was looking along the desolate garden- walk, when I beheld a solitary figure in it.
+
+The figure showed itself aware of me, as I advanced. It had been moving towards me, but it stood still. As I drew nearer, I saw it to be the figure of a woman. As I drew nearer yet, it was about to turn away, when it stopped, and let me come up with it. Then, it fal- tered as if much surprised, and uttered my name, and I cried out:
+
+'Estella!'
+
+'I am greatly changed. I wonder you know me.'
+
+The freshness of her beauty was indeed gone, but its indescrib- able majesty and its indescribable charm remained. Those attrac- tions in it, I had seen before; what I had never seen before, was the saddened softened light of the once proud eyes; what I had never felt before, was the friendly touch of the once insensible hand.
+
+We sat down on a bench that was near, and I said, 'After so many years, it is strange that we should thus meet again, Estella, here where our first meeting was! Do you often come back?'
+
+'I have never been here since.'
+
+'NorI.'
+
+The moon began to rise, and I thought of the placid look at the white ceiling, which had passed away. The moon began to rise, and I thought of the pressure on my hand when I had spoken the last words he had heard on earth.
+
+Estella was the next to break the silence that ensued between us.
+
+'I have very often hoped and intended to come back, but have been prevented by many circumstances. Poor, poor old place!'
+
+The silvery mist was touched with the first rays of the moon- light, and the same rays touched the tears that dropped from her eyes. Not knowing that I saw them, and setting herself to get the better of them, she said quietly:
+
+'Were you wondering, as you walked along, how it came to be left in this condition?'
+
+'Yes, Estella.'
+
+'The ground belongs to me. It is the only possession I have not relinquished. Everything else has gone from me, little by little, but I have kept this. It was the subject of the only determined resistance I made in all the wretched years.'
+
+'Is it to be built on?'
+
+'At last it is. I came here to take leave of it before its change. And you,' she said, in a voice of touching interest to a wanderer, 'you live abroad still?'
+
+'Still.'
+
+'And do well, I am sure?'
+
+'I work pretty hard for a sufficient living, and therefore -- Yes, I do well.'
+
+'I have often thought of you,' said Estella.
+
+'Have you?'
+
+'Of late, very often. There was a long hard time when I kept far from me, the remembrance of what I had thrown away when I was quite ignorant of its worth. But, since my duty has not been in- compatible with the admission of that remembrance, I have given it a place in my heart.'
+
+'You have always held your place in my heart,' I answered.
+
+And we were silent again, until she spoke.
+
+'I little thought,' said Estella, 'that I should take leave of you in taking leave of this spot. I am very glad to do so.'
+
+'Glad to part again, Estella? To me, parting is a painful thing. To me, the remembrance of our last parting has been ever mourn- ful and painful.'
+
+'But you said to me,' returned Estella, very earnestly, '''God bless you, God forgive you!'' And if you could say that to me then, you will not hesitate to say that to me now -- now, when suffering has been stronger than all other teaching, and has taught me to understand what your heart used to be. I have been bent and broken, but -- I hope -- into a better shape. Be as considerate and good to me as you were, and tell me we are friends.'
+
+'We are friends,' said I, rising and bending over her, as she rose from the bench.
+
+'And will continue friends apart,' said Estella.
+
+I took her hand in mine, and we went out of the ruined place; and, as the morning mists had risen long ago when I first left the forge, so, the evening mists were rising now, and in all the broad expanse of tranquil light they showed to me, I saw no shadow of another parting from her.

@@ -1,0 +1,120 @@
+---
+title: "Chapter 114 - Peppino"
+weight: 114
+aliases:
+  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-114.html"
+---
+
+At the same time that the steamer disappeared behind Cape Morgion, a man travelling post on the road from Florence to Rome had just passed the little town of Aquapendente. He was travelling fast enough to cover a great deal of ground without exciting suspicion. This man was dressed in a greatcoat, or rather a surtout, a little worse for the journey, but which exhibited the ribbon of the Legion of Honor still fresh and brilliant, a decoration which also ornamented the under coat. He might be recognized, not only by these signs, but also from the accent with which he spoke to the postilion, as a Frenchman. Another proof that he was a native of the universal country was apparent in the fact of his knowing no other Italian words than the terms used in music, and which like the "goddam" of Figaro, served all possible linguistic requirements. "Allegro!" he called out to the postilions at every ascent. "Moderato!" he cried as they descended. And heaven knows there are hills enough between Rome and Florence by the way of Aquapendente! These two words greatly amused the men to whom they were addressed. On reaching La Storta, the point from whence Rome is first visible, the traveller evinced none of the enthusiastic curiosity which usually leads strangers to stand up and endeavor to catch sight of the dome of St. Peter's, which may be seen long before any other object is distinguishable. No, he merely drew a pocketbook from his pocket, and took from it a paper folded in four, and after having examined it in a manner almost reverential, he said - "Good! I have it still!"
+
+The carriage entered by the Porto del Popolo, turned to the left, and stopped at the Hotel d'Espagne. Old Pastrini, our former acquaintance, received the traveller at the door, hat in hand. The traveller alighted, ordered a good dinner, and inquired the address of the house of Thomson & French, which was immediately given to him, as it was one of the most celebrated in Rome. It was situated in the Via dei Banchi, near St. Peter's. In Rome, as everywhere else, the arrival of a post-chaise is an event. Ten young descendants of Marius and the Gracchi, barefooted and out at elbows, with one hand resting on the hip and the other gracefully curved above the head, stared at the traveller, the post-chaise, and the horses; to these were added about fifty little vagabonds from the Papal States, who earned a pittance by diving into the Tiber at high water from the bridge of St. Angelo. Now, as these street Arabs of Rome, more fortunate than those of Paris, understand every language, more especially the French, they heard the traveller order an apartment, a dinner, and finally inquire the way to the house of Thomson & French. The result was that when the new-comer left the hotel with the cicerone, a man detached himself from the rest of the idlers, and without having been seen by the traveller, and appearing to excite no attention from the guide, followed the stranger with as much skill as a Parisian police agent would have used.
+
+The Frenchman had been so impatient to reach the house of Thomson & French that he would not wait for the horses to be harnessed, but left word for the carriage to overtake him on the road, or to wait for him at the bankers' door. He reached it before the carriage arrived. The Frenchman entered, leaving in the anteroom his guide, who immediately entered into conversation with two or three of the industrious idlers who are always to be found in Rome at the doors of banking-houses, churches, museums, or theatres. With the Frenchman, the man who had followed him entered too; the Frenchman knocked at the inner door, and entered the first room; his shadow did the same.
+
+"Messrs. Thomson & French?" inquired the stranger.
+
+An attendant arose at a sign from a confidential clerk at the first desk. "Whom shall I announce?" said the attendant.
+
+"Baron Danglars."
+
+"Follow me," said the man. A door opened, through which the attendant and the baron disappeared. The man who had followed Danglars sat down on a bench. The clerk continued to write for the next five minutes; the man preserved profound silence, and remained perfectly motionless. Then the pen of the clerk ceased to move over the paper; he raised his head, and appearing to be perfectly sure of privacy, - "Ah, ha," he said, "here you are, Peppino!"
+
+"Yes," was the laconic reply. "You have found out that there is something worth having about this large gentleman?"
+
+"There is no great merit due to me, for we were informed of it."
+
+"You know his business here, then."
+
+"Pardieu, he has come to draw, but I don't know how much!"
+
+"You will know presently, my friend."
+
+"Very well, only do not give me false information as you did the other day."
+
+"What do you mean? - of whom do you speak? Was it the Englishman who carried off 3,000 crowns from here the other day?"
+
+"No; he really had 3,000 crowns, and we found them. I mean the Russian prince, who you said had 30,000 livres, and we only found 22,000."
+
+"You must have searched badly."
+
+"Luigi Vampa himself searched."
+
+"Indeed? But you must let me make my observations, or the Frenchman will transact his business without my knowing the sum." Peppino nodded, and taking a rosary from his pocket began to mutter a few prayers while the clerk disappeared through the same door by which Danglars and the attendant had gone out. At the expiration of ten minutes the clerk returned with a beaming countenance. "Well?" asked Peppino of his friend.
+
+"Joy, joy - the sum is large!"
+
+"Five or six millions, is it not?"
+
+"Yes, you know the amount."
+
+"On the receipt of the Count of Monte Cristo?"
+
+"Why, how came you to be so well acquainted with all this?"
+
+"I told you we were informed beforehand."
+
+"Then why do you apply to me?"
+
+"That I may be sure I have the right man."
+
+"Yes, it is indeed he. Five millions - a pretty sum, eh, Peppino?"
+
+"Hush - here is our man!" The clerk seized his pen, and Peppino his beads; one was writing and the other praying when the door opened. Danglars looked radiant with joy; the banker accompanied him to the door. Peppino followed Danglars.
+
+According to the arrangements, the carriage was waiting at the door. The guide held the door open. Guides are useful people, who will turn their hands to anything. Danglars leaped into the carriage like a young man of twenty. The cicerone reclosed the door, and sprang up by the side of the coachman. Peppino mounted the seat behind.
+
+"Will your excellency visit St. Peter's?" asked the cicerone.
+
+"I did not come to Rome to see," said Danglars aloud; then he added softly, with an avaricious smile, "I came to touch!" and he rapped his pocket-book, in which he had just placed a letter.
+
+"Then your excellency is going" -
+
+"To the hotel."
+
+"Casa Pastrini!" said the cicerone to the coachman, and the carriage drove rapidly on. Ten minutes afterwards the baron entered his apartment, and Peppino stationed himself on the bench outside the door of the hotel, after having whispered something in the ear of one of the descendants of Marius and the Gracchi whom we noticed at the beginning of the chapter, who immediately ran down the road leading to the Capitol at his fullest speed. Danglars was tired and sleepy; he therefore went to bed, placing his pocketbook under his pillow. Peppino had a little spare time, so he had a game of mora with the facchini, lost three crowns, and then to console himself drank a bottle of Orvieto.
+
+The next morning Danglars awoke late, though he went to bed so early; he had not slept well for five or six nights, even if he had slept at all. He breakfasted heartily, and caring little, as he said, for the beauties of the Eternal City, ordered post-horses at noon. But Danglars had not reckoned upon the formalities of the police and the idleness of the posting-master. The horses only arrived at two o'clock, and the cicerone did not bring the passport till three. All these preparations had collected a number of idlers round the door of Signor Pastrini's; the descendants of Marius and the Gracchi were also not wanting. The baron walked triumphantly through the crowd, who for the sake of gain styled him "your excellency." As Danglars had hitherto contented himself with being called a baron, he felt rather flattered at the title of excellency, and distributed a dozen silver coins among the beggars, who were ready, for twelve more, to call him "your highness."
+
+"Which road?" asked the postilion in Italian. "The Ancona road," replied the baron. Signor Pastrini interpreted the question and answer, and the horses galloped off. Danglars intended travelling to Venice, where he would receive one part of his fortune, and then proceeding to Vienna, where he would find the rest, he meant to take up his residence in the latter town, which he had been told was a city of pleasure.
+
+He had scarcely advanced three leagues out of Rome when daylight began to disappear. Danglars had not intended starting so late, or he would have remained; he put his head out and asked the postilion how long it would be before they reached the next town. "Non capisco" (do not understand), was the reply. Danglars bent his head, which he meant to imply, "Very well." The carriage again moved on. "I will stop at the first posting-house," said Danglars to himself.
+
+He still felt the same self-satisfaction which he had experienced the previous evening, and which had procured him so good a night's rest. He was luxuriously stretched in a good English calash, with double springs; he was drawn by four good horses, at full gallop; he knew the relay to be at a distance of seven leagues. What subject of meditation could present itself to the banker, so fortunately become bankrupt?
+
+Danglars thought for ten minutes about his wife in Paris; another ten minutes about his daughter travelling with Mademoiselle d'Armilly; the same period was given to his creditors, and the manner in which he intended spending their money; and then, having no subject left for contemplation, he shut his eyes, and fell asleep. Now and then a jolt more violent than the rest caused him to open his eyes; then he felt that he was still being carried with great rapidity over the same country, thickly strewn with broken aqueducts, which looked like granite giants petrified while running a race. But the night was cold, dull, and rainy, and it was much more pleasant for a traveller to remain in the warm carriage than to put his head out of the window to make inquiries of a postilion whose only answer was "Non capisco."
+
+Danglars therefore continued to sleep, saying to himself that he would be sure to awake at the posting-house. The carriage stopped. Danglars fancied that they had reached the long-desired point; he opened his eyes and looked through the window, expecting to find himself in the midst of some town, or at least village; but he saw nothing except what seemed like a ruin, where three or four men went and came like shadows. Danglars waited a moment, expecting the postilion to come and demand payment with the termination of his stage. He intended taking advantage of the opportunity to make fresh inquiries of the new conductor; but the horses were unharnessed, and others put in their places, without any one claiming money from the traveller. Danglars, astonished, opened the door; but a strong hand pushed him back, and the carriage rolled on. The baron was completely roused. "Eh?" he said to the postilion, "eh, mio caro?"
+
+This was another little piece of Italian the baron had learned from hearing his daughter sing Italian duets with Cavalcanti. But mio caro did not reply. Danglars then opened the window.
+
+"Come, my friend," he said, thrusting his hand through the opening, "where are we going?"
+
+"Dentro la testa!" answered a solemn and imperious voice, accompanied by a menacing gesture. Danglars thought dentro la testa meant, "Put in your head!" He was making rapid progress in Italian. He obeyed, not without some uneasiness, which, momentarily increasing, caused his mind, instead of being as unoccupied as it was when he began his journey, to fill with ideas which were very likely to keep a traveller awake, more especially one in such a situation as Danglars. His eyes acquired that quality which in the first moment of strong emotion enables them to see distinctly, and which afterwards fails from being too much taxed. Before we are alarmed, we see correctly; when we are alarmed, we see double; and when we have been alarmed, we see nothing but trouble. Danglars observed a man in a cloak galloping at the right hand of the carriage.
+
+"Some gendarme!" he exclaimed. "Can I have been intercepted by French telegrams to the pontifical authorities?" He resolved to end his anxiety. "Where are you taking me?" he asked. "Dentro la testa," replied the same voice, with the same menacing accent.
+
+Danglars turned to the left; another man on horseback was galloping on that side. "Decidedly," said Danglars, with the perspiration on his forehead, "I must be under arrest." And he threw himself back in the calash, not this time to sleep, but to think. Directly afterwards the moon rose. He then saw the great aqueducts, those stone phantoms which he had before remarked, only then they were on the right hand, now they were on the left. He understood that they had described a circle, and were bringing him back to Rome. "Oh, unfortunate!" he cried, "they must have obtained my arrest." The carriage continued to roll on with frightful speed. An hour of terror elapsed, for every spot they passed showed that they were on the road back. At length he saw a dark mass, against which it seemed as if the carriage was about to dash; but the vehicle turned to one side, leaving the barrier behind and Danglars saw that it was one of the ramparts encircling Rome.
+
+"Mon dieu!" cried Danglars, "we are not returning to Rome; then it is not justice which is pursuing me! Gracious heavens; another idea presents itself - what if they should be" -
+
+His hair stood on end. He remembered those interesting stories, so little believed in Paris, respecting Roman bandits; he remembered the adventures that Albert de Morcerf had related when it was intended that he should marry Mademoiselle Eugenie. "They are robbers, perhaps," he muttered. Just then the carriage rolled on something harder than gravel road. Danglars hazarded a look on both sides of the road, and perceived monuments of a singular form, and his mind now recalled all the details Morcerf had related, and comparing them with his own situation, he felt sure that he must be on the Appian Way. On the left, in a sort of valley, he perceived a circular excavation. It was Caracalla's circus. On a word from the man who rode at the side of the carriage, it stopped. At the same time the door was opened. "Scendi!" exclaimed a commanding voice. Danglars instantly descended; although he did not yet speak Italian, he understood it very well. More dead than alive, he looked around him. Four men surrounded him, besides the postilion.
+
+"Di qua," said one of the men, descending a little path leading out of the Appian Way. Danglars followed his guide without opposition, and had no occasion to turn around to see whether the three others were following him. Still it appeared as though they were stationed at equal distances from one another, like sentinels. After walking for about ten minutes, during which Danglars did not exchange a single word with his guide, he found himself between a hillock and a clump of high weeds; three men, standing silent, formed a triangle, of which he was the centre. He wished to speak, but his tongue refused to move. "Avanti!" said the same sharp and imperative voice.
+
+This time Danglars had double reason to understand, for if the word and gesture had not explained the speaker's meaning, it was clearly expressed by the man walking behind him, who pushed him so rudely that he struck against the guide. This guide was our friend Peppino, who dashed into the thicket of high weeds, through a path which none but lizards or polecats could have imagined to be an open road. Peppino stopped before a pit overhung by thick hedges; the pit, half open, afforded a passage to the young man, who disappeared like the evil spirits in the fairy tales. The voice and gesture of the man who followed Danglars ordered him to do the same. There was no longer any doubt, the bankrupt was in the hands of Roman banditti. Danglars acquitted himself like a man placed between two dangerous positions, and who is rendered brave by fear. Notwithstanding his large stomach, certainly not intended to penetrate the fissures of the Campagna, he slid down like Peppino, and closing his eyes fell upon his feet. As he touched the ground, he opened his eyes. The path was wide, but dark. Peppino, who cared little for being recognized now that he was in his own territories, struck a light and lit a torch. Two other men descended after Danglars forming the rearguard, and pushing Danglars whenever he happened to stop, they came by a gentle declivity to the intersection of two corridors. The walls were hollowed out in sepulchres, one above the other, and which seemed in contrast with the white stones to open their large dark eyes, like those which we see on the faces of the dead. A sentinel struck the rings of his carbine against his left hand. "Who comes there?" he cried.
+
+"A friend, a friend!" said Peppino; "but where is the captain?"
+
+"There," said the sentinel, pointing over his shoulder to a spacious crypt, hollowed out of the rock, the lights from which shone into the passage through the large arched openings. "Fine spoil, captain, fine spoil!" said Peppino in Italian, and taking Danglars by the collar of his coat he dragged him to an opening resembling a door, through which they entered the apartment which the captain appeared to have made his dwelling-place.
+
+"Is this the man?" asked the captain, who was attentively reading Plutarch's "Life of Alexander."
+
+"Himself, captain - himself."
+
+"Very well, show him to me." At this rather impertinent order, Peppino raised his torch to the face of Danglars, who hastily withdrew that he might not have his eyelashes burnt. His agitated features presented the appearance of pale and hideous terror. "The man is tired," said the captain, "conduct him to his bed."
+
+"Oh," murmured Danglars," that bed is probably one of the coffins hollowed in the wall, and the sleep I shall enjoy will be death from one of the poniards I see glistening in the darkness."
+
+From their beds of dried leaves or wolf-skins at the back of the chamber now arose the companions of the man who had been found by Albert de Morcerf reading "Caesar's Commentaries," and by Danglars studying the "Life of Alexander." The banker uttered a groan and followed his guide; he neither supplicated nor exclaimed. He no longer possessed strength, will, power, or feeling; he followed where they led him. At length he found himself at the foot of a staircase, and he mechanically lifted his foot five or six times. Then a low door was opened before him, and bending his head to avoid striking his forehead he entered a small room cut out of the rock. The cell was clean, though empty, and dry, though situated at an immeasurable distance under the earth. A bed of dried grass covered with goat-skins was placed in one corner. Danglars brightened up on beholding it, fancying that it gave some promise of safety. "Oh, God be praised," he said; "it is a real bed!"
+
+"Ecco!" said the guide, and pushing Danglars into the cell, he closed the door upon him. A bolt grated and Danglars was a prisoner. If there had been no bolt, it would have been impossible for him to pass through the midst of the garrison who held the catacombs of St. Sebastian, encamped round a master whom our readers must have recognized as the famous Luigi Vampa. Danglars, too, had recognized the bandit, whose existence he would not believe when Albert de Morcerf mentioned him in Paris; and not only did he recognize him, but the cell in which Albert had been confined, and which was probably kept for the accommodation of strangers. These recollections were dwelt upon with some pleasure by Danglars, and restored him to some degree of tranquillity. Since the bandits had not despatched him at once, he felt that they would not kill him at all. They had arrested him for the purpose of robbery, and as he had only a few louis about him, he doubted not he would be ransomed. He remembered that Morcerf had been taxed at 4,000 crowns, and as he considered himself of much greater importance than Morcerf he fixed his own price at 8,000 crowns. Eight thousand crowns amounted to 48,000 livres; he would then have about 5,050,000 francs left. With this sum he could manage to keep out of difficulties. Therefore, tolerably secure in being able to extricate himself from his position, provided he were not rated at the unreasonable sum of 5,050,000 francs, he stretched himself on his bed, and after turning over two or three times, fell asleep with the tranquillity of the hero whose life Luigi Vampa was studying.

@@ -1,0 +1,8 @@
+---
+title: "The Swollen Fox"
+weight: 137
+aliases:
+  - "/authors/aesop/fables/chapter-135.html"
+---
+
+A VERY HUNGRY FOX, seeing some bread and meat left by shepherds in the hollow of an oak, crept into the hole and made a hearty meal. When he finished, he was so full that he was not able to get out, and began to groan and lament his fate. Another Fox passing by heard his cries, and coming up, inquired the cause of his complaining. On learning what had happened, he said to him, "Ah, you will have to remain there, my friend, until you become such as you were when you crept in, and then you will easily get out."

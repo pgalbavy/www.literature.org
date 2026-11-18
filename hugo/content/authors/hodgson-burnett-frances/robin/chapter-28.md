@@ -1,0 +1,152 @@
+---
+title: "Chapter 28"
+weight: 29
+aliases:
+  - "/authors/hodgson-burnett-frances/robin/chapter-28.html"
+---
+
+But even after this Dowie did not ask questions. She only watched more carefully and waited to be told what the depths of her being most yearned to hear. The gradually founded belief of her careful prosaic life prevented ease of mind or a sense of security. She could not be certain that it would be the part of wisdom to allow herself to feel secure. She did not wish to arouse Doctor Benton's professional anxiety by asking questions about Lady Maureen Darcy, but, by a clever and adroitly gradual system of what was really cross examination which did not involve actual questions, she drew from him the name of the woman who had been Lady Maureen's chief nurse when the worst seemed impending. It was by fortunate chance the name of a woman she had once known well during a case of dangerous illness in an important household. She herself had had charge of the nursery and Nurse Darian had liked her because she had proved prompt and intelligent in an alarming crisis. They had become friends and Dowie knew she might write to her and ask for information and advice. She wrote a careful respectful letter which revealed nothing but that she was anxious about a case she had temporary charge of. She managed to have the letter posted in London and the answer forwarded to her from there. Nurse Darian's reply was generously full for a hard-working woman. It answered questions and was friendly. But the woman's war work had plainly led her to see and reflect upon the opening up of new and singular vistas.
+
+"What we hear oftenest is that the whole world is somehow changing," she ended by saying. "You hear it so often that you get tired. But something is happening--something strange-- Even the doctors find themselves facing things medical science does not explain. They don't like it. I sometimes think doctors hate change more than anybody. But the cleverest and biggest ones talk together. It's this looking at a thing lying on a bed alive and talking perhaps, one minute--and gone out the next, that sets you asking yourself questions. In these days a nurse seems to see nothing else day and night. You can't make yourself believe they have gone far-- And when you keep hearing stories about them coming back--knocking on tables, writing on queer boards--just any way so that they can get at those they belong to--! Well, I shouldn't be sure myself that a comforting dream means that a girl's mind's giving away. Of course a nurse is obliged to watch--But Lady Maureen found something--And she was going mad and now she is as sane as I am."
+
+Dowie was vaguely supported because the woman was an intelligent person and knew her business thoroughly. Nevertheless one must train one's eyes to observe everything without seeming to do so at all.
+
+Every morning when the weather was fine Robin got up early and went out on the moor to say her prayers and listen to the skylarks singing.
+
+"When I stand and turn my face up to the sky--and watch one going higher into heaven--and singing all the time without stopping," she said, "I feel as if the singing were carrying what I want to say with it. Sometimes he goes so high that you can't see him any more-- He's not even a little speck in the highest sky-- Then I think perhaps he has gone in and taken my prayer with him. But he always comes back. And perhaps if I could understand he could tell me what the answer is."
+
+She ate her breakfast each day and was sweetly faithful to her promise to Dowie in every detail. Dowie used to think that she was like a child who wanted very much to learn her lesson well and follow every rule.
+
+"I want to be good, Dowie," she said once. "I should like to be very good. I am so grateful."
+
+Doctor Benton driving up the moor road for his daily visits made careful observation of every detail of her case and pondered in secret. The alarming thinness and sharpening of the delicate features was he saw, actually becoming less marked day by day; the transparent hands were less transparent; the movements were no longer languid.
+
+"She spends most of the day out of doors when the weather's decent," Dowie said. "She eats what I give her. And she sleeps."
+
+Doctor Benton asked many questions and the answers given seemed to provide him with food for reflection.
+
+"Has she spoken of having had the dream again?" he inquired at last.
+
+"Yes, sir," was Dowie's brief reply.
+
+"Did she say it was the same dream?"
+
+"She told me her husband had come back. She said nothing more."
+
+"Has she told you that more than once?"
+
+"No, sir. Only once so far."
+
+Doctor Benton looked at the sensible face very hard. He hesitated before he put his next question.
+
+"But you think she has seen him since she spoke to you? You feel that she might speak of it again--at almost any time?"
+
+"She might, sir, and she might not. It may seem like a sacred thing to her. And it's no business of mine to ask her about things she'd perhaps rather not talk about."
+
+"Do you think that she believes that she sees her husband every night?"
+
+"I don't know what I think, sir," said Dowie in honourable distress.
+
+"Well neither do I for that matter," Benton answered brusquely. "Neither do thousands of other people who want to be honest with themselves. Physically the effect of this abnormal fancy is excellent. If this goes on she will end by being in a perfectly normal condition."
+
+"That's what I'm working for, sir," said Dowie.
+
+Whereupon Dr. Benton went away and thought still stranger and deeper things as he drove home over the moor road which twisted through the heather.
+
+The next day's post delivered by Macaur himself brought as it did weekly a package of books and carefully chosen periodicals. Robin had, before this, not been equal even to looking them over and Dowie had arranged them neatly on shelves in the Tower room.
+
+To-day when the package was opened Robin sat down near the table on which they were placed and began to look at them.
+
+Out of the corner of her eye as she arranged books decorously on a shelf Dowie saw the still transparent hand open first one book and then another. At last it paused at a delicately coloured pamphlet. It was the last alluring note of modern advertisement, sent out by a firm which made a specialty of children's outfits and belongings. It came from an elect and expensive shop which prided itself on its dainty presentation of small beings attired in entrancing garments such as might have been designed for fairies and elves.
+
+"If she begins to turn over the pages she'll go on. It'll be just Nature," Dowie yearned.
+
+The awakening she had thought Nature would bring about was not like the perilous miracle she had seen take place and had watched tremulously from hour to hour. Dreams, however much one had to thank God for them, were not exactly "Nature." They were not the blessed healing and strengthening she felt familiar with. You were never sure when they might melt away into space and leave only emptiness behind them.
+
+"But if she would wake up the other way it would be healthy--just healthy and to be depended upon," was her thought. Robin turned over the leaves in no hurried way. She had never carelessly turned over the leaves of her picture books in her nursery. As she had looked at her picture books she looked at this one. There were pages given to the tiniest and most exquisite things of all, and it was the illustrations of these, Dowie's careful sidelong eye saw she had first been attracted by.
+
+"These are for very little--ones?" she said presently.
+
+"Yes. For the new ones," answered Dowie.
+
+There was moment or so of silence.
+
+"How little--how little!" Robin said softly. She rose softly and went to her couch and lay down on it. She was very quiet and Dowie wondered if she were thinking or if she were falling into a doze. She wished she had looked at the pamphlet longer. As the weeks had gone by Dowie had even secretly grieved a little at her seeming unconsciousness of certain tender things. If she had only looked at it a little longer.
+
+"Was there a sound of movement in the next room?"
+
+The thought awakened Dowie in the night. She did not know what the hour was, but she was sure of the sound as soon as she was fully awake. Robin had got up and was crossing the corridor to the Tower room.
+
+"Does she want something? What could she want? I must go to her."
+
+She must never quite lose sight of her or let her be entirely out of hearing. Perhaps she was walking in her sleep. Perhaps the dream-- Dowie was a little awed. Was he with her? In obedience to a weird impulse she always opened a window in the Tower room every night before going to bed. She had left it open to-night.
+
+It was still open when she entered the room herself.
+
+There was nothing unusual in the aspect of the place but that Robin was there and it was just midnight. She was not walking in her sleep. She was awake and standing by the table with the pamphlet in her hand.
+
+"I couldn't go to sleep," she said. "I kept thinking of the little things in this book. I kept seeing them."
+
+"That's quite natural," Dowie answered. "Sit down and look at them a bit. That'll satisfy you and you'll sleep easy enough. I must shut the window for you."
+
+She shut the window and moved a book or so as if such things were usually done at midnight. She went about in a quiet matter-of-fact way which was even gentler than her customary gentleness because in these days, while trying to preserve a quite ordinary demeanour, she felt as though she must move as one would move in making sure that one would not startle a bird one loved.
+
+Robin sat and looked at the pictures. When she turned a page and looked at it she turned it again and looked at it with dwelling eyes. Presently she ceased turning pages and sat still with the book open on her lap as if she were thinking not only of what she held but of something else.
+
+When her eyes lifted to meet Dowie's there was a troubled wondering look in them.
+
+"It's so strange--I never seemed to think of it before," the words came slowly. "I forgot because I was always--remembering."
+
+"You'll think now," Dowie answered. "It's only Nature."
+
+"Yes--it's only Nature."
+
+The touch of her hand on the pamphlet was a sort of caress--it was a touch which clung.
+
+"Dowie," timidly. "I want to begin to make some little clothes like these. Do you think I can?"
+
+"Well, my dear," answered Dowie composedly--no less so because it was past midnight and the stillness of moor and deserted castle rooms was like a presence in itself. "I taught you to sew very neatly before you were twelve. You liked to do it and you learned to make beautiful small stitches. And Mademoiselle taught you to do fine embroidery. She'd learned it in a convent herself and I never saw finer work anywhere."
+
+"I did like to do it," said Robin. "I never seemed to get tired of sitting in my little chair in the bay window where the flowers grew, and making tiny stitches."
+
+"You had a gift for it. Not all girls have," said Dowie. "Sometimes when you were embroidering a flower you didn't want to leave it to take your walk."
+
+"I am glad I had a gift," Robin took her up. "You see I want to make these little things with my own hands. I don't want them sent up from London. I don't want them bought. Look at this, Dowie."
+
+Dowie went to her side. Her heart was quickening happily as it beat.
+
+Robin touched a design with her finger.
+
+"I should like to begin by making that," she suggested. "Do you think that if I bought one for a pattern I could copy it?"
+
+Dowie studied it with care.
+
+"Yes," she said. "You could copy it and make as many more as you liked. They need a good many."
+
+"I am glad of that," said Robin. "I should like to make a great many." The slim fingers slid over the page. "I should like to make that one--and that--and that." Her face, bent over the picture, wore its touching young look thrilled with something new. "They are so pretty--they are so pretty," she murmured like a dove.
+
+"They're the prettiest things in the world," Dowie said. "There never was anything prettier."
+
+"It must be wonderful to make them and to know all the time you are putting in the tiny stitches, that they are for something little--and warm--and alive!"
+
+"Those that have done it never forget it," said Dowie. Robin lifted her face, but her hands still held the book with the touch which clung.
+
+"I am beginning to realise what a strange life mine has been," she said. "Don't you think it has, Dowie? I haven't known things. I didn't know what mothers were. I never knew another child until I met Donal in the Gardens. No one had ever kissed me until he did. When I was older I didn't know anything about love and marrying--really. It seemed only something one read about in books until Donal came. You and Mademoiselle made me happy, but I was like a little nun." She paused a moment and then said thoughtfully, "Do you know, Dowie, I have never touched a baby?"
+
+"I never thought of it before," Dowie answered with a slightly caught breath, "but I believe you never have."
+
+The girl leaned forward and her own light breath came a shade more quickly, and the faint colour on her cheek flickered into a sweeter warm tone.
+
+"Are they very soft, Dowie?" she asked--and the asking was actually a wistful thing. "When you hold them do they feel very light--and soft--and warm? When you kiss them isn't it something like kissing a little flower?"
+
+"That's what it is," said Dowie firmly as one who knows. "A baby that's loved and taken care of is just nothing but fine soft lawns and white downiness with the scent of fresh violets under leaves in the rain."
+
+A vaguely dreamy smile touched Robin's face and she bent over the pictures again.
+
+"I felt as if they must be like that though I had never held one," she murmured. "And Donal--told me." She did not say when he had told her but Dowie knew. And unearthly as the thing was, regarded from her standpoint, she was not frightened, because she said mentally to herself, what was happening was downright healthy and no harm could come of it. She felt safe and her mind was at ease even when Robin shut the little book and placed it on the table again.
+
+"I'll go to bed again," she said. "I shall sleep now."
+
+"To be sure you will," Dowie said.
+
+And they went out of the Tower room together, but before she followed her Dowie slipped aside and quietly opened the window.

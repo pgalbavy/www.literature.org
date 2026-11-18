@@ -1,0 +1,176 @@
+---
+title: "Chapter 8 - Squinty In The Woods"
+weight: 8
+aliases:
+  - "/authors/barnum-richard/squinty-the-comical-pig/chapter-08.html"
+---
+
+Bob, the boy who had bought Squinty, the comical pig, laughed and clapped his hands. His two sisters, who were playing with their dolls in the shade of an evergreen tree, heard their brother, and one of them called out:
+
+"What is it, Bob? What is it?"
+
+"Oh, come and see my pig do a trick!" answered the boy. "He is too funny for anything!"
+
+"Can he really do a trick?" asked the smaller sister, whose name was Mollie.
+
+"Indeed he can," the boy said. "He can do two tricks--find hidden acorns, and jump a rope."
+
+"Oh, no, not really jump a rope!" cried Sallie.
+
+"You just come and see!" the boy called.
+
+All this while Squinty was chewing on the apple which he had picked up from the ground after he had jumped over the rope. He heard what the boy said, and Squinty made up his mind.
+
+"Well," said the little pig to himself, "if it is any fun for that boy and his sisters to watch me jump over a rope, and dig up acorns, I don't mind doing it for them. They call them tricks, but I call it getting something to eat."
+
+And they were both right, you see.
+
+Sallie and Mollie, the two sisters, laid down their dolls in the shade, and ran over toward their brother, who still held one end of the rope, that was fast to Squinty's leg.
+
+"Make him do some tricks for us," begged Mollie.
+
+"Show us how he jumps the rope," said Sallie.
+
+"First, I'll have him dig up the acorns, as that's easier," spoke Bob. "Here, Squinty!" he called. "Find the acorns! Find 'em!"
+
+While Squinty had been munching on the apple, the boy had dug a hole, put some sweet acorn nuts into it, and covered them up with dirt. Squinty had not seen him do this, but Squinty thought he could find the nuts just the same.
+
+There were two ways of doing this. Squinty had a very sharp-smelling nose. He could smell things afar off, that neither you nor I could smell even close by. And Squinty could also tell, by digging in the ground with his queer, rubbery nose, just where the ground was soft and where it was hard. And he knew it would be soft at the place where the boy had dug a hole in which to hide the acorns.
+
+So, when Bob called for Squinty to come and find the acorn nuts, even though the little pig had not seen just where they were hidden, Squinty felt sure he could dig them up.
+
+"He'll never find them!" said Sallie.
+
+"Just you watch!" exclaimed the boy.
+
+He pulled on the rope around Squinty's leg. At first the little pig was not quite sure what was wanted of him. He thought perhaps he was to jump over the rope after another apple. But he saw no fruit waiting for him. Then he looked carefully about and smelled the air. The boy was very gentle with him, and waited patiently.
+
+And I might say, right here, that if you ever try to teach your pets any tricks, you must be both kind and gentle with them, for you know they are not as smart as you are, and cannot think as quickly.
+
+"Ha! I smell acorns!" thought Squinty to himself. "I guess the boy must want me to do the first trick, as he calls it, and dig up the acorns. I'll do it!"
+
+Carefully Squinty sniffed the air. When he turned one way he could smell the acorns quite plainly. When he turned the other way he could not smell them quite so well. So he started off in the direction where he could most plainly smell the nuts he loved so well.
+
+Next he began rooting in the ground. At first it was very hard for his nose, but soon it became soft. Then he could smell the acorns more plainly than before.
+
+"See, he is going right toward them!" cried the boy.
+
+"There, he has them!" exclaimed Sallie.
+
+"Oh, so he has!" spoke Mollie. "I wouldn't have thought he could!"
+
+And, by that time, Squinty had found the hole where the boy had covered the acorns with dirt, and Squinty was chewing the sweet nuts.
+
+"Now make him jump the rope," said Mollie.
+
+"I will, as soon as he eats the acorns," replied the boy.
+
+"Ha! I am going to have another apple, just for jumping a rope," thought Squinty, in delight.
+
+You see the little pig imagined the trick was done just to get him to eat the apple. He did not count the rope-jumping part of it at all, though that, really, was what the boy wanted.
+
+Once more Bob placed the apple on the ground, on the far side of the rope. One end of the rope the boy held in his hand, and the other was around Squinty's leg, but a loop of it was made fast to a stick stuck in the ground, so the boy could pull on the rope and raise or lower it, just as you girls do when you play.
+
+"Come on, now, Squinty! Jump over it!" called the boy.
+
+The little pig saw the apple, and smelled it. He wanted very much to get it. But, when he ran toward it, he found the rope raised up in front of him. He forgot, for a moment, his second trick, and stood still.
+
+"Oh, I thought you said he would jump the rope!" said Mollie, rather disappointed.
+
+"He will--just wait a minute," spoke the boy. "Come on, Squinty!" he called.
+
+Once more Squinty started for the apple. This time he remembered that, before, he had to jump the rope to get it. So he did it again. Over the rope he went, with a little jump, coming down on the side where the apple was, and, in a second he was chewing the juicy fruit.
+
+"There!" cried the boy. "Didn't he jump the rope?"
+
+"Oh, well, but he didn't jump it fast, back and forth, like we girls do," said Mollie.
+
+"But it was pretty good--for a little pig," said Sallie.
+
+"I think so, too," spoke the boy. "And I am going to teach him to jump real fast, and without going for an apple each time. I'm going to teach him other tricks, too."
+
+"Oh dear!" thought Squinty, when he heard this. "So I am to learn more tricks, it seems. Well, I hope they will all be eating ones."
+
+"Make him do it again," suggested Mollie, after a bit.
+
+"No, I haven't any more apples," the boy answered. "And at first I'll have to make him jump for an apple each time. After a bit I'll not give him an apple until he has done all his tricks. Come on now, Squinty, back to your pen."
+
+The boy lifted up his pet, and put him back in the pen that had been especially built for the little pig. As soon as he was in it Squinty ran over to the trough, hoping there would be some sour milk in it. But there was none.
+
+"You've had enough to eat for a while," said the boy with a laugh. "Later on I'll give you your milk."
+
+"Uff! Uff!" grunted Squinty, and I suppose he meant he would be glad to have the milk now. But he got none, so he curled himself up in the clean straw and went to sleep.
+
+When he awakened, he thought at first he was back in the pen at home, and he cried out:
+
+"Oh, Wuff-Wuff! Oh, Twisty Tail. I had the queerest dream! I thought a boy had me, and that I could jump a rope, and hunt acorns, and do lots of tricks. But I--!" And then Squinty stopped. He looked around and found himself all alone in the new pen. None of his brothers or sisters was near him, and he could not hear his mamma or papa grunting near the feed trough.
+
+"Ha! It wasn't a dream, after all," thought Squinty, a bit sorrowfully. "It's all real--I can do tricks, and a boy has me."
+
+Every few days after that the boy took Squinty out of his pen, and let him do the rope-jumping and the acorn-hunting tricks. And it did not take Squinty long to learn to jump the rope when there was no apple on the other side. The boy would say:
+
+"Jump over the rope, Squinty!"
+
+And over it the little pig would go. But if he did not get the apple as soon as he jumped, he did get it afterward, which was just as good. It was sort of a reward for his tricks, you see.
+
+"Now you must learn a new trick," said the boy one day. "I want you to learn how to walk on your hind legs, Squinty. It is not going to be easy, either. But I guess you can do it. And I am going to take the rope off your leg, for I do not believe you will run away from me now."
+
+So the rope was taken off Squinty's leg. And he liked the boy so much, and liked his new home, and the nuts and apples he got to eat were so good, that Squinty did not try to run away.
+
+"Up on your hind legs!" cried the boy, and, by taking hold of Squinty's front feet, Bob raised his pet up on the hind legs.
+
+"Now stand there!" the boy cried, but when he took away his hands of course Squinty came down on all four legs. He did not know what the boy meant to have him do.
+
+"I guess I'll have to stand you in a corner to start with," the boy said. "That will brace you up."
+
+Then, kindly and gently, the boy took Squinty over to the place where the corn crib was built on to the barn. This made a corner and the little pig was stood up on his hind legs in that. Then, with something to lean his back against, he did not feel like falling over, and he remained standing up on two legs, with his front feet stuck out in front of him.
+
+"That's the way to do it!" cried Bob. "Soon you will be able to stand up without anything to lean against. And, a little later, you will be able to walk on your hind legs. Now here's an apple for you, Squinty!"
+
+So you see Squinty received his reward for starting to learn a new trick.
+
+In a few days, just as the boy had said, the little pig found that he could sit up on his hind legs all alone, without anything to lean back against.
+
+But learning to walk on his hind legs was a little harder.
+
+The boy, however, was patient and kind to him. At first Bob held Squinty's front feet, and walked along with him so the little pig would get used to the new trick. Then one day Bob said:
+
+"Now, Squinty, I want you to walk to me all by yourself. Stand up!"
+
+Squinty stood up on his hind legs. The boy backed away from him, and stood a little distance off, holding out a nice, juicy potato this time.
+
+"Come and get the potato," called the boy.
+
+"Squee! Squee!" grunted Squinty. "I can't!" I suppose he meant to say.
+
+"Come on!" cried the boy. "Don't be afraid. You can do it!"
+
+Squinty wanted that potato very much. And the only way to get it was to walk to it on his hind legs. If he let himself down on all four legs he knew the boy would not give him the potato. So Squinty made up his little pig mind that he would do this new trick.
+
+Off he started, walking by himself on his hind legs, just like a trained bear.
+
+"Fine! That's the way to do it! I knew you could!" the boy cried when Squinty reached him, and took the potato out of his hand. "Good little pig!" and he scratched Squinty's back with a stick.
+
+"Uff! Uff!" squealed Squinty, very much pleased.
+
+And from then on the comical little pig learned many tricks.
+
+He could stand up a long time, on his hind legs, with an apple on his nose. And he would not eat it until the boy called:
+
+"Now, Squinty!"
+
+Then Squinty would toss the apple up in the air, off his nose, and catch it as it came down. Oh, how good it tasted!
+
+Squinty also learned to march around with a stick for a gun, and play soldier. He liked this trick best of all, for he always had two apples to eat after that.
+
+Many of Bob's boy friends came to see his trained pig. They all thought he was very funny and cute, and they laughed very hard when Squinty looked at them with his queer, drooping eye. They would feed him apples, potatoes and sometimes bits of cake that Bob's mother gave them. Squinty grew very fond of cake.
+
+Then one day something happened. Bob always used to lock the door of the new pig pen every night, for, though he knew his pet was quite tame now, he thought, if the door were left open, Squinty might wander away. And that is exactly what Squinty did. He did not mean to do wrong, but he knew no better. One evening, after he had done many tricks that day, when Squinty found the door of his pen part way open, he just pushed it the rest of the way with his strong nose, and out he walked! No one saw him.
+
+"Uff! Uff!" grunted Squinty, looking about, "I guess I'll go take a walk by myself. I may find something good to eat."
+
+Out of the pen he went. There was no garden here, such as the farmer had at Squinty's first home. But, not far from the pig pen was the big, green wood.
+
+"I'll go over in there and see what happens," thought Squinty. "Perhaps I may find some acorns."
+
+And so Squinty ran away to the woods.

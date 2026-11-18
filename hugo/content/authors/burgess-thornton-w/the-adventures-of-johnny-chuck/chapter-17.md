@@ -1,0 +1,37 @@
+---
+title: "Chapter 17 - More Mischief"
+weight: 17
+aliases:
+  - "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-17.html"
+---
+
+Mischief's like a snowball  
+Sent rolling down a hill;  
+With every turn it bigger grows  
+And bigger, bigger still.
+
+Sammy Jay had started mischief by telling Reddy Fox where Johnny Chuck's new house was. If you had asked him, Sammy Jay would have said that he hadn't told. All he had said was that he had happened to be up in Farmer Brown's old orchard and so had called on Johnny Chuck in his new house.
+
+Now Reddy Fox is very sly, oh, very sly. He had pretended to Sammy Jay that he knew all the time where Johnny Chuck was living. When he left Sammy Jay, he had started in the direction of the Green Meadows, just as if he had no thought of going over to Farmer Brown's old orchard.
+
+But Sammy Jay is just as sly as Reddy Fox. He wasn't fooled for one minute, not one little minute. He chuckled to himself as he started to look for Jimmy Skunk. Then he changed his mind.
+
+"I think I'll go up to the old orchard myself!" said Sammy Jay, and away he flew.
+
+He got there first and hid in the top of a big apple-tree, where he could see all that went on. It wasn't long before he saw Reddy Fox steal out from the Green Forest and over to the old orchard. Reddy was nervous, very nervous. You see, it was broad daylight, and the old orchard was very near Farmer Brown's house. Reddy knew that he ought to have waited until night, but he knew that then Johnny Chuck would be fast asleep, Now, perhaps, Johnny Chuck, thinking that no one knew where he lived, would not be on watch, and he might be able to catch Johnny.
+
+So Reddy, with one eye on Farmer Brown's house and one eye on the watch for some sign of Johnny Chuck, stole into the old orchard. Every few steps he would stop and look and listen. At every little noise he would start nervously. Then Sammy Jay would chuckle under his breath.
+
+So Reddy Fox crept and tiptoed about through the old orchard. Every minute he grew more nervous, and every minute he grew more disappointed, for he could find no sign of Johnny Chuck's house. He began to think that Sammy Jay had fooled him, and the very thought made him grind his teeth. At last he decided to give it up.
+
+He was down in the far corner of the old orchard, close by the old stone wall now, and he got all ready to jump over the old stone wall, when he just happened to look on the other side of the big apple-tree he was under, and there was what he was looking for —Johnny Chuck's new house! Johnny Chuck wasn't in sight, but there was the new house, and Johnny must be either inside or not far away. Reddy grinned. It was a sly, wicked, hungry grin. He flattened himself out in the grass behind the big apple-tree.
+
+"I'll give Johnny Chuck the surprise of his life!" muttered Reddy Fox under his breath.
+
+Now Sammy Jay had been watching all this time. He knew that Johnny Chuck was safely inside his house, for Johnny had seen Reddy when he first came into the old orchard. And Sammy knew that Johnny Chuck knew that when Reddy found that new house, he would hide just as he had done.
+
+"Johnny Chuck won't come out again to-day, and there won't be any excitement at all," thought Sammy Jay in disappointment, for he had hoped to see a fight between Reddy Fox and Johnny Chuck. Just then Sammy looked over to Farmer Brown's house, and there was Farmer Brown's boy getting ready to saw wood. The imp of mischief under Sammy's pert cap gave him an idea. He flew over to the old apple-tree, just over Reddy's head, and began to scream at the top of his lungs.
+
+Farmer Brown's boy stopped work and looked over towards the old orchard.
+
+"When a jay screams like that there is usually a fox around," he muttered, as he unfastened Bowser the Hound.

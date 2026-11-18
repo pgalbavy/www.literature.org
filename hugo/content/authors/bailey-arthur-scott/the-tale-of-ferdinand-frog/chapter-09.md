@@ -1,0 +1,32 @@
+---
+title: "Chapter 9 - The Mysterious Stranger"
+weight: 9
+aliases:
+  - "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-09.html"
+---
+
+When Ferdinand Frog first came to the Beaver pond to live no one knew anything about him.
+
+He appeared suddenly--no one knew whence--and at once made himself very much at home. It was no time at all before he could call every one of the big Beaver family by name. And he acted exactly as if the pond belonged to him, instead of to the Beavers, whose great-grandfathers had dammed the stream many years before.
+
+But the newcomer was so polite that nobody cared to send him away. At the same time, people couldn't help wondering who the stranger was and where he had come from and what his plans for the future were. Whenever two or three Beavers stopped working long enough to enjoy a pleasant chat, they were sure to talk of the mysterious Mr. Frog and tell one another what they thought of him. Many were the tales told about the nimble fellow.
+
+Some said that he had moved all the way from Farmer Green's duck pond, because Johnnie Green had tried to catch him; while others declared that Ferdinand Frog was a famous singer, who had come to that quiet spot in order to rest his voice, which had become harsh from too much use. Indeed, there were so many stories about the stranger that it was hard to know which to believe--especially after old Mr. Crow informed Brownie Beaver that in his opinion Ferdinand Frog was a slippery fellow. "I shouldn't be surprised----" Mr. Crow had said with a wise wag of his head----"I shouldn't be surprised if his real name was Ferdinand Fraud."
+
+Anyhow, there was one thing that almost all the Beaver colony agreed upon. They were of one opinion as to Mr. Frog's clothes, which they thought must be very fashionable, because they were like no others that had ever been seen before in those parts.
+
+There was one young gentleman, however--the beau of the village--who disputed everybody, saying that he believed that Ferdinand Frog must be wearing old clothes that were many years behind the times.
+
+Now, there was one lazy Beaver known as Tired Tim who had nothing better to do than to go straight to Mr. Frog and repeat what he heard.
+
+To Tired Tim's surprise--for he had expected Mr. Frog to lose his temper--to his surprise that gentleman appeared much amused by the bit of gossip. He shook with silent laughter for a time, quite as if he were saving his voice to use that evening. And then he said:
+
+"So your young friend thinks I'm not in style, eh? . . . Well, I'll tell you something: he's right, in a way. And in another way he isn't. The reason why I'm not in style is because I always aim to keep five years ahead of everybody else.
+
+"Five years from now and your neighbors will all be wearing clothes like mine."
+
+"Can't we ever catch up with you?" Tired Tim asked him.
+
+"There's only one way you can do that," was Mr. Frog's mysterious answer.
+
+And he would say no more.

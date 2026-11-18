@@ -1,0 +1,8 @@
+---
+title: "The Fowler And The Viper"
+weight: 224
+aliases:
+  - "/authors/aesop/fables/chapter-222.html"
+---
+
+A FOWLER, taking his bird-lime and his twigs, went out to catch birds. Seeing a thrush sitting upon a tree, he wished to take it, and fitting his twigs to a proper length, watched intently, having his whole thoughts directed towards the sky. While thus looking upwards, he unknowingly trod upon a Viper asleep just before his feet. The Viper, turning about, stung him, and falling into a swoon, the man said to himself, "Woe is me! that while I purposed to hunt another, I am myself fallen unawares into the snares of death."

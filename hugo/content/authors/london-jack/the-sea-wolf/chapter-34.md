@@ -1,0 +1,138 @@
+---
+title: "Chapter 34"
+weight: 34
+aliases:
+  - "/authors/london-jack/the-sea-wolf/chapter-34.html"
+---
+
+"It's too bad the Ghost has lost her masts. Why we could sail away in her. Don't you think we could, Humphrey?"
+
+I sprang excitedly to my feet.
+
+"I wonder, I wonder," I repeated, pacing up and down.
+
+Maud's eyes were shining with anticipation as they followed me. She had such faith in me! And the thought of it was so much added power. I remembered Michelet's "To man, woman is as the earth was to her legendary son; he has but to fall down and kiss her breast and he is strong again." For the first time I knew the wonderful truth of his words. Why, I was living them. Maud was all this to me, an unfailing, source of strength and courage. I had but to look at her, or think of her, and be strong again.
+
+"It can be done, it can be done," I was thinking and asserting aloud. "What men have done, I can do; and if they have never done this before, still I can do it."
+
+"What? for goodness' sake," Maud demanded. "Do be merciful. What is it you can do?"
+
+"We can do it," I amended. "Why, nothing else than put the masts back into the Ghost and sail away."
+
+"Humphrey!" she exclaimed.
+
+And I felt as proud of my conception as if it were already a fact accomplished.
+
+"But how is it possible to be done?" she asked.
+
+"I don't know," was my answer. "I know only that I am capable of doing anything these days."
+
+I smiled proudly at her - too proudly, for she dropped her eyes and was for the moment silent.
+
+"But there is Captain Larsen," she objected.
+
+"Blind and helpless," I answered promptly, waving him aside as a straw.
+
+"But those terrible hands of his! You know how he leaped across the opening of the lazarette."
+
+"And you know also how I crept about and avoided him," I contended gaily.
+
+"And lost your shoes."
+
+"You'd hardly expect them to avoid Wolf Larsen without my feet inside of them."
+
+We both laughed, and then went seriously to work constructing the plan whereby we were to step the masts of the Ghost and return to the world. I remembered hazily the physics of my school days, while the last few months had given me practical experience with mechanical purchases. I must say, though, when we walked down to the Ghost to inspect more closely the task before us, that the sight of the great masts lying in the water almost disheartened me. Where were we to begin? If there had been one mast standing, something high up to which to fasten blocks and tackles! But there was nothing. It reminded me of the problem of lifting oneself by one's boot-straps. I understood the mechanics of levers; but where was I to get a fulcrum?
+
+There was the mainmast, fifteen inches in diameter at what was now the butt, still sixty-five feet in length, and weighing, I roughly calculated, at least three thousand pounds. And then came the foremast, larger in diameter, and weighing surely thirty-five hundred pounds. Where was I to begin? Maud stood silently by my side, while I evolved in my mind the contrivance known among sailors as "shears." But, though known to sailors, I invented it there on Endeavour Island. By crossing and lashing the ends of two spars, and then elevating them in the air like an inverted "V," I could get a point above the deck to which to make fast my hoisting tackle. To this hoisting tackle I could, if necessary, attach a second hoisting tackle. And then there was the windlass!
+
+Maud saw that I had achieved a solution, and her eyes warmed sympathetically.
+
+"What are you going to do?" she asked.
+
+"Clear that raffle," I answered, pointing to the tangled wreckage overside.
+
+Ah, the decisiveness, the very sound of the words, was good in my ears. "Clear that raffle!" Imagine so salty a phrase on the lips of the Humphrey Van Weyden of a few months gone!
+
+There must have been a touch of the melodramatic in my pose and voice, for Maud smiled. Her appreciation of the ridiculous was keen, and in all things she unerringly saw and felt, where it existed, the touch of sham, the overshading, the overtone. It was this which had given poise and penetration to her own work and made her of worth to the world. The serious critic, with the sense of humour and the power of expression, must inevitably command the world's ear. And so it was that she had commanded. Her sense of humour was really the artist's instinct for proportion.
+
+"I'm sure I've heard it before, somewhere, in books," she murmured gleefully.
+
+I had an instinct for proportion myself, and I collapsed forthwith, descending from the dominant pose of a master of matter to a state of humble confusion which was, to say the least, very miserable.
+
+Her hand leapt out at once to mine.
+
+"I'm so sorry," she said.
+
+"No need to be," I gulped. "It does me good. There's too much of the schoolboy in me. All of which is neither here nor there. What we've got to do is actually and literally to clear that raffle. If you'll come with me in the boat, we'll get to work and straighten things out."
+
+"'When the topmen clear the raffle with their clasp-knives in their teeth,'" she quoted at me; and for the rest of the afternoon we made merry over our labour.
+
+Her task was to hold the boat in position while I worked at the tangle. And such a tangle - halyards, sheets, guys, down-hauls, shrouds, stays, all washed about and back and forth and through, and twined and knotted by the sea. I cut no more than was necessary, and what with passing the long ropes under and around the booms and masts, of unreeving the halyards and sheets, of coiling down in the boat and uncoiling in order to pass through another knot in the bight, I was soon wet to the skin.
+
+The sails did require some cutting, and the canvas, heavy with water, tried my strength severely; but I succeeded before nightfall in getting it all spread out on the beach to dry. We were both very tired when we knocked off for supper, and we had done good work, too, though to the eye it appeared insignificant.
+
+Next morning, with Maud as able assistant, I went into the hold of the Ghost to clear the steps of the mast-butts. We had no more than begun work when the sound of my knocking and hammering brought Wolf Larsen.
+
+"Hello below!" he cried down the open hatch.
+
+The sound of his voice made Maud quickly draw close to me, as for protection, and she rested one hand on my arm while we parleyed.
+
+"Hello on deck," I replied. "Good-morning to you."
+
+"What are you doing down there?" he demanded. "Trying to scuttle my ship for me?"
+
+"Quite the opposite; I'm repairing her," was my answer.
+
+"But what in thunder are you repairing?" There was puzzlement in his voice.
+
+"Why, I'm getting everything ready for re-stepping the masts," I replied easily, as though it were the simplest project imaginable.
+
+"It seems as though you're standing on your own legs at last, Hump," we heard him say; and then for some time he was silent.
+
+"But I say, Hump," he called down. "You can't do it."
+
+"Oh, yes, I can," I retorted. "I'm doing it now."
+
+"But this is my vessel, my particular property. What if I forbid you?"
+
+"You forget," I replied. "You are no longer the biggest bit of the ferment. You were, once, and able to eat me, as you were pleased to phrase it; but there has been a diminishing, and I am now able to eat you. The yeast has grown stale."
+
+He gave a short, disagreeable laugh. "I see you're working my philosophy back on me for all it is worth. But don't make the mistake of under-estimating me. For your own good I warn you."
+
+"Since when have you become a philanthropist?" I queried. "Confess, now, in warning me for my own good, that you are very consistent."
+
+He ignored my sarcasm, saying, "Suppose I clap the hatch on, now? You won't fool me as you did in the lazarette."
+
+"Wolf Larsen," I said sternly, for the first time addressing him by this his most familiar name, "I am unable to shoot a helpless, unresisting man. You have proved that to my satisfaction as well as yours. But I warn you now, and not so much for your own good as for mine, that I shall shoot you the moment you attempt a hostile act. I can shoot you now, as I stand here; and if you are so minded, just go ahead and try to clap on the hatch."
+
+"Nevertheless, I forbid you, I distinctly forbid your tampering with my ship."
+
+"But, man!" I expostulated, "you advance the fact that it is your ship as though it were a moral right. You have never considered moral rights in your dealings with others. You surely do not dream that I'll consider them in dealing with you?"
+
+I had stepped underneath the open hatchway so that I could see him. The lack of expression on his face, so different from when I had watched him unseen, was enhanced by the unblinking, staring eyes. It was not a pleasant face to look upon.
+
+"And none so poor, not even Hump, to do him reverence," he sneered.
+
+The sneer was wholly in his voice. His face remained expressionless as ever.
+
+"How do you do, Miss Brewster," he said suddenly, after a pause.
+
+I started. She had made no noise whatever, had not even moved. Could it be that some glimmer of vision remained to him? or that his vision was coming back?
+
+"How do you do, Captain Larsen," she answered. "Pray, how did you know I was here?"
+
+"Heard you breathing, of course. I say, Hump's improving, don't you think so?"
+
+"I don't know," she answered, smiling at me. "I have never seen him otherwise."
+
+"You should have seen him before, then."
+
+"Wolf Larsen, in large doses," I murmured, "before and after taking."
+
+"I want to tell you again, Hump," he said threateningly, "that you'd better leave things alone."
+
+"But don't you care to escape as well as we?" I asked incredulously.
+
+"No," was his answer. "I intend dying here."
+
+"Well, we don't," I concluded defiantly, beginning again my knocking and hammering.

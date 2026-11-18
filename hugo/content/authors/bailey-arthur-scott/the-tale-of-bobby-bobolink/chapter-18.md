@@ -1,0 +1,24 @@
+---
+title: "Chapter 18 - Timothy Turtle's Complaint"
+weight: 18
+aliases:
+  - "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-18.html"
+---
+
+IT happened that the Bobolink family moved to Cedar Swamp just when Timothy Turtle had arrived there for a short outing. It was Mr. Turtle's custom to leave his home in Black Creek now and than and spend a few days in some other neighborhood. He said that after living in the creek as many years as he had it did him good to get a change once in a while. About every forty years he paid a visit to the Beaver Pond on the other side of Blue Mountain. But he visited Cedar Swamp oftener than that, because it was nearer his home.
+
+There was scarcely anybody that was glad to see Mr. Turtle. He was a snappish, surly old chap. And he was forever finding fault with everybody and everything. It seemed as if you couldn't please him, no matter how much you tried. He had spent less than a week in Cedar Swamp before every one voted him a nuisance. And he had invitations, daily, to go back where he came from.
+
+But Timothy Turtle announced in no uncertain tones that he wouldn't go till he was ready. He said that it was a waste of breath to urge him to leave, and that those that didn't care for his company might move. He promised that he wouldn't stop anybody--unless he happened to get hold of him!
+
+Naturally every one took pains to keep out of Timothy Turtle's reach. It was well known that when his powerful jaws closed upon a person's leg, for instance, its unlucky owner might as well not try to get away till Timothy was ready to let him go. And if it happened to be his head that Timothy Turtle seized--well, then he was unluckier still!
+
+If Timothy Turtle was grumpy before Bobby Bobolink moved to Cedar Swamp, it would be hard to say what he was afterward. For Bobby Bobolink's happy songs drove Timothy Turtle almost crazy. He said that if he had known he would have to listen to such merry singing he would have taken his outing in the Beaver Pond, though he wasn't really due there for thirty-nine years, because he had visited the Beaver colony only the summer before.
+
+When Timothy heard Bobby Bobolink's song ringing through the swamp he hurried as fast as he could toward the place where it seemed to come from. Timothy did that, not because he wanted to hear the singing better, but because he had something to say to the singer. He wanted to tell him to keep still. And he had a good many disagreeable remarks on the tip of his tongue, all ready to fling at Bobby Bobolink.
+
+But somehow Mr. Turtle never succeeded in finding Bobby. After Mr. Turtle had swum in one direction he was sure to hear the song in another. Sometimes he would even leave the water and crawl over the soggy, boggy turf; and that was slow work for Timothy Turtle. You may be sure it did not improve his temper to find that his journeying had been all in vain.
+
+It happened that at last somebody told Bobby Bobolink that Mr. Turtle wanted to speak to him. And being most obliging, Bobby set out to find Timothy. "It's a shame," he said, "to disappoint an old gentleman."
+
+Anybody could tell, from that remark, that he didn't know Timothy Turtle.

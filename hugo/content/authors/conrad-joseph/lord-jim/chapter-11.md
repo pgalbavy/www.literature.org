@@ -1,0 +1,42 @@
+---
+title: "Chapter 11"
+weight: 12
+aliases:
+  - "/authors/conrad-joseph/lord-jim/chapter-11.html"
+---
+
+11
+
+‘He heard me out with his head on one side, and I had another glimpse through a rent in the mist in which he moved and had his being. The dim candle spluttered within the ball of glass, and that was all I had to see him by; at his back was the dark night with the clear stars, whose distant glitter disposed in retreating planes lured the eye into the depths of a greater darkness; and yet a mysterious light seemed to show me his boyish head, as if in that moment the youth within him had, for a moment, glowed and expired. "You are an awful good sort to listen like this," he said. "It does me good. You don’t know what it is to me. You don’t" . . . words seemed to fail him. It was a distinct glimpse. He was a youngster of the sort you like to see about you; of the sort you like to imagine yourself to have been; of the sort whose appearance claims the fellowship of these illusions you had thought gone out, extinct, cold, and which, as if rekindled at the approach of another flame, give a flutter deep, deep down somewhere, give a flutter of light . . . of heat! . . . Yes; I had a glimpse of him then . . . and it was not the last of that kind. . . . "You don’t know what it is for a fellow in my position to be believed—make a clean breast of it to an elder man. It is so difficult—so awfully unfair—so hard to understand."
+
+‘The mists were closing again. I don’t know how old I appeared to him—and how much wise. Not half as old as I felt just then; not half as uselessly wise as I knew myself to be. Surely in no other craft as in that of the sea do the hearts of those already launched to sink or swim go out so much to the youth on the brink, looking with shining eyes upon that glitter of the vast surface which is only a reflection of his own glances full of fire. There is such magnificent vagueness in the expectations that had driven each of us to sea, such a glorious indefiniteness, such a beautiful greed of adventures that are their own and only reward. What we get—well, we won’t talk of that; but can one of us restrain a smile? In no other kind of life is the illusion more wide of reality—in no other is the beginning *all* illusion—the disenchantment more swift—the subjugation more complete. Hadn’t we all commenced with the same desire, ended with the same knowledge, carried the memory of the same cherished glamour through the sordid days of imprecation? What wonder that when some heavy prod gets home the bond is found to be close; that besides the fellowship of the craft there is felt the strength of a wider feeling—the feeling that binds a man to a child. He was there before me, believing that age and wisdom can find a remedy against the pain of truth, giving me a glimpse of himself as a young fellow in a scrape that is the very devil of a scrape, the sort of scrape greybeards wag at solemnly while they hide a smile. And he had been deliberating upon death—confound him! He had found that to meditate about because he thought he had saved his life, while all its glamour had gone with the ship in the night. What more natural! It was tragic enough and funny enough in all conscience to call aloud for compassion, and in what was I better than the rest of us to refuse him my pity? And even as I looked at him the mists rolled into the rent, and his voice spoke—
+
+‘"I was so lost, you know. It was the sort of thing one does not expect to happen to one. It was not like a fight, for instance."
+
+‘"It was not," I admitted. He appeared changed, as if he had suddenly matured.
+
+‘"One couldn’t be sure," he muttered.
+
+‘"Ah! You were not sure," I said, and was placated by the sound of a faint sigh that passed between us like the flight of a bird in the night.
+
+‘"Well, I wasn’t," he said courageously. "It was something like that wretched story they made up. It was not a lie—but it wasn’t truth all the same. It was something. . . . One knows a downright lie. There was not the thickness of a sheet of paper between the right and the wrong of this affair."
+
+‘"How much more did you want?" I asked; but I think I spoke so low that he did not catch what I said. He had advanced his argument as though life had been a network of paths separated by chasms. His voice sounded reasonable.
+
+‘"Suppose I had not —I mean to say, suppose I had stuck to the ship? Well. How much longer? Say a minute—half a minute. Come. In thirty seconds, as it seemed certain then, I would have been overboard; and do you think I would not have laid hold of the first thing that came in my way—oar, life-buoy, grating—anything? Wouldn’t you?"
+
+‘"And be saved," I interjected.
+
+‘"I would have meant to be," he retorted. "And that’s more than I meant when I" . . . he shivered as if about to swallow some nauseous drug . . . "jumped," he pronounced with a convulsive effort, whose stress, as if propagated by the waves of the air, made my body stir a little in the chair. He fixed me with lowering eyes. "Don’t you believe me?" he cried. "I swear! . . . Confound it! You got me here to talk, and . . . You must! . . . You said you would believe." "Of course I do," I protested, in a matter-of-fact tone which produced a calming effect. "Forgive me," he said. "Of course I wouldn’t have talked to you about all this if you had not been a gentleman. I ought to have known . . . I am —I am—a gentleman too . . ." "Yes, yes," I said hastily. He was looking me squarely in the face, and withdrew his gaze slowly. "Now you understand why I didn’t after all . . . didn’t go out in that way. I wasn’t going to be frightened at what I had done. And, anyhow, if I had stuck to the ship I would have done my best to be saved. Men have been known to float for hours—in the open sea—and be picked up not much the worse for it. I might have lasted it out better than many others. There’s nothing the matter with my heart." He withdrew his right fist from his pocket, and the blow he struck on his chest resounded like a muffled detonation in the night.
+
+‘"No," I said. He meditated, with his legs slightly apart and his chin sunk. "A hair’s-breadth," he muttered. "Not the breadth of a hair between this and that. And at the time . . ."
+
+‘"It is difficult to see a hair at midnight," I put in, a little viciously I fear. Don’t you see what I mean by the solidarity of the craft? I was aggrieved against him, as though he had cheated me—me!—of a splendid opportunity to keep up the illusion of my beginnings, as though he had robbed our common life of the last spark of its glamour. "And so you cleared out—at once."
+
+‘"Jumped," he corrected me incisively. "Jumped—mind!" he repeated, and I wondered at the evident but obscure intention. "Well, yes! Perhaps I could not see then. But I had plenty of time and any amount of light in that boat. And I could think, too. Nobody would know, of course, but this did not make it any easier for me. You’ve got to believe that, too. I did not want all this talk. . . . No . . . Yes . . . I won’t lie . . . I wanted it: it is the very thing I wanted—there. Do you think you or anybody could have made me if I . . . I am —I am not afraid to tell. And I wasn’t afraid to think either. I looked it in the face. I wasn’t going to run away. At first—at night, if it hadn’t been for those fellows I might have . . . No! by heavens! I was not going to give them that satisfaction. They had done enough. They made up a story, and believed it for all I know. But I knew the truth, and I would live it down—alone, with myself. I wasn’t going to give in to such a beastly unfair thing. What did it prove after all? I was confoundedly cut up. Sick of life—to tell you the truth; but what would have been the good to shirk it—in—in—that way? That was not the way. I believe —I believe it would have—it would have ended—nothing."
+
+‘He had been walking up and down, but with the last word he turned short at me.
+
+‘"What do *you* believe?" he asked with violence. A pause ensued, and suddenly I felt myself overcome by a profound and hopeless fatigue, as though his voice had startled me out of a dream of wandering through empty spaces whose immensity had harassed my soul and exhausted my body.
+
+’". . . Would have ended nothing," he muttered over me obstinately, after a little while. "No! the proper thing was to face it out—alone for myself—wait for another chance—find out . . ."’

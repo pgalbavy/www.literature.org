@@ -1,0 +1,8 @@
+---
+title: "The Wolf, The Fox, And The Ape"
+weight: 220
+aliases:
+  - "/authors/aesop/fables/chapter-218.html"
+---
+
+A WOLF accused a Fox of theft, but the Fox entirely denied the charge. An Ape undertook to adjudge the matter between them. When each had fully stated his case the Ape announced this sentence: "I do not think you, Wolf, ever lost what you claim; and I do believe you, Fox, to have stolen what you so stoutly deny." The dishonest, if they act honestly, get no credit.

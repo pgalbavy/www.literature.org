@@ -1,0 +1,124 @@
+---
+title: "Chapter 1 - Flop Ear Hears A Noise"
+weight: 1
+aliases:
+  - "/authors/barnum-richard/flop-ear-the-funny-rabbit/chapter-01.html"
+---
+
+Once upon a time, not so very many years ago, a family of rabbits lived in the woods near the top of a mountain. There were six in the family, counting Flop Ear, the funny rabbit, and I speak of him first because this story is going to be mostly about him and his adventures, or what happened to Flop Ear.
+
+Besides Flop Ear there was his mother, Mrs. Bunny, his father, Mr. Bunny, and Lady Munch, who was the grandmother. The reason the grandmother had that name was because she always made her mouth go in such a queer, wobbling way when she munched, or chewed, the cabbages or the carrots.
+
+Then there was Pink Nose, a brother to Flop Ear, and Snuggle, a little rabbit.
+
+Snuggle was called that because she always wanted to cuddle up, or snuggle close, to her mother. And you can easily guess why Pink Nose had his name. Yes, you have guessed it. His nose was as pink as a baby’s toes.
+
+And the reason Flop Ear had his name was because one of his ears flopped over to one side, as if it were going to fall off his head. But of course it never did. The two ears of most rabbits stand up straight, when they are not stretched back along their backs, but when Flop Ear wanted to put both his ears up straight only one would go, and the other dropped down in a queer way.
+
+“Oh, Flop Ear, you are such a funny little white rabbit,” Lady Munch, his grandmother, would say.
+
+“Funny? How is that?” the little boy bunny would ask.
+
+“Why, you look so funny,” the old lady rabbit would answer. “I always want to laugh when I see you.”
+
+“Well, is that a bad thing or a good thing?” Flop Ear would ask.
+
+“Oh, it is a very good thing,” said Lady Munch. “To make rabbit folk laugh is to make them happy so they forget their troubles, and that is always good.”
+
+“What are troubles?” Flop Ear questioned.
+
+“You will find out soon enough without my telling you,” answered the grandmother bunny. “Be happy while you can in your home in the woods, for you may not always be here.”
+
+“Why not?” asked Flop Ear, but just then his grandmother had to go down into the burrow, or underground house, to help Mrs. Bunny make the beds.
+
+Oh, you needn’t laugh! Rabbits have beds in their underground homes as well as you children have. Only, of course, the beds are not the same as yours.
+
+The beds in Flop Ear’s home were just bunches of soft grass and leaves, piled together, and sometimes the rabbits used the soft white cotton from inside the milkweed plant. These beds had to be stirred up, fluffed and made soft by the rabbits once in a while, and that is what Lady Munch and Mrs. Bunny were doing.
+
+“Troubles; eh?” thought Flop Ear. “I wonder what they can be, and I wonder if I shall ever go away from these woods? Well, I’ll be happy while I’m here, anyhow. And now I guess I’ll go and get Pink Nose and Snuggle and have some fun.”
+
+Rabbits have fun by themselves, and with other animals, just as you children do; and rabbits can think and talk. Of course, they can’t talk as we do, but they can talk among themselves, and with other animals, and, very often, they know what you say to them, just as your kitten knows enough to come when you call her to dinner, or as your dog knows enough to carry your books from school when you put them in his mouth.
+
+So when, in this story, I say that Flop Ear said something, or thought something, I mean he did it in a rabbit way, just as your cat and dog talk together in their languages. For some cats and dogs are good friends you know.
+
+There was a dog named Don, who once ran away. He and Blackie, a lost cat, were really good friends, as you know if you have read the books about them.
+
+I spoke about Flop Ear’s living in a burrow, or underground house. It may seem strange to hear of a house underground, but there are such places. Sometimes in gold mines, or coal mines, men and horses stay underground for a long time, and if they have a place underground why can’t rabbits?
+
+Besides, boys like to dig caves, or holes underground, and play they are living there. It’s lots of fun. I used to do it. Only, of course, the caves that boys play in are larger than was Flop Ear’s home.
+
+If you had walked through the woods, near the top of the mountain where the Bunny family lived, I do not think you would have noticed the rabbits’ home; for all you would have seen would have been a hole in the ground. But if you could once get down in this hole (supposing you were small enough) you would see many rooms and halls, almost like those in your own home, only not so nice, of course, and there would be no furniture in them.
+
+So Flop Ear and his sister and brother lived in this underground home, which Papa and Mamma Bunny had dug for themselves with their feet, just made for digging.
+
+And the reason the house was built underground, and had only a hole leading down into it, was so that no dogs or hunters would see it. For dogs and hunters chase and shoot rabbits to kill them to eat. And if Mr. Bunny had built his home on top of the ground, as your house is built, the hunters and dogs would more easily see it.
+
+“You can’t be too careful about hunters and dogs,” said Mr. Bunny one day.
+
+“No indeed you can’t,” added Lady Munch. “It is dreadful to be shot.”
+
+So Flop Ear and Pink Nose and Snuggle lived together in the woods and had lots of fun. All day long they would play down in the underground house, or outside near the front door. It was dark in their house, but the rabbits did not mind that. Rabbits are like cats, and can see quite well even on a dark night. And what they cannot see they can smell.
+
+Rabbits, and other wild animals, you know, have very good noses for smelling. They can smell danger a good way off, and they can smell their food, and smell their way about, so they will not run into things when they are hurrying along at night.
+
+“Let’s have a game of tag,” said Flop Ear to Pink Nose, as he saw his brother lying in the sun on a pile of soft leaves near the front door of the underground burrow. “Come on, let’s see if you can tag me.”
+
+Of course I don’t suppose rabbits really call their game “tag,” as we do, but they have a game so much like it that I have given it that name in order that you would understand better. If I gave you the name in rabbit language it would be so hard to spell that I might break my typewriting machine in putting it on paper. So it is easier to call it tag.
+
+“Oh, I don’t want to play tag,” said Pink Nose. “I want to sleep.”
+
+“You have slept enough,” laughed Flop Ear. “Come on, get up and run about. If you sleep so much you will grow to be a lazy rabbit, Lady Munch says; and then you can’t run fast when there is danger.”
+
+“There is no danger around here,” said Pink Nose, stretching out one leg. “I can’t see any.”
+
+“Mother says there may be danger when you can’t see it,” put in Snuggle, coming out of the underground house just then.
+
+“Will you play a game of tag with me?” asked Flop Ear of his sister.
+
+“Yes, I will,” she answered. “Come on,” and away she ran.
+
+The two rabbits were soon jumping about on the soft green moss and cuddling down among the leaves of the woods. They would chase each other, and jump over one another, just as you have often seen dogs and cats play their game of tag.
+
+All this while Pink Nose was stretched out lazily in the sun, with his eyes closed. Pretty soon Flop Ear and Snuggle grew tired of playing rabbit-tag. Snuggle looked over at her sleeping brother, and said, with a laugh:
+
+“Let’s play a trick on him, Floppy.” Sometimes she called her other brother Floppy for short.
+
+“What trick shall we play?” asked Flop Ear.
+
+“We’ll get a long stick, hide behind a stump and tickle him,” went on Snuggle. “He won’t see who it is and he’ll be surprised.”
+
+“All right,” said Flop Ear.
+
+So the two bunnies got a long stick, and, hiding behind a stump near which Pink Nose was asleep, they reached over and tickled him. Pretty soon Pink Nose opened his eyes. He put up his paw to brush off what he thought was a fly on his ear. Then he tried to go to sleep again, but Flop Ear and Snuggle tickled him once more.
+
+“Ouch!” cried Pink Nose, jumping up. “Who’s doing that?”
+
+He acted so queerly that Flop Ear could not help laughing, and his brother heard him from behind the stump.
+
+“Ah, it is you; is it?” cried Pink Nose. “I’ll fix you for spoiling my sleep!”
+
+He chased after Flop Ear, only in fun, of course, and around among the trees the brother rabbits ran.
+
+“Now Pink Nose is playing tag!” cried Snuggle, and so he was, whether he wanted to or not.
+
+Then the three rabbits played together, having lots of fun in their own way, jumping over each other’s backs as boys play leap-frog. Sometimes one would hide down in among the leaves, and the others would look for him. This was the game of hide-and-go-seek, you see.
+
+At different times Mr. and Mrs. Bunny would tell their children the things all rabbits must learn. Just as your folks tell you about cleaning your teeth, and washing your hands and faces, so the rabbit children were told how to do things to keep themselves clean. Of course they did not clean their teeth, but they washed themselves with their tongues, as cats do.
+
+“And you must always be careful, when you go out in the woods, that dogs do not see you and chase you,” said Lady Munch. “Always be careful about dogs.”
+
+“And hunters with guns,” added Papa Bunny. “They are worse than dogs.”
+
+The rabbit children promised to be careful, and for several days after that Flop Ear looked all about him when he went off in the woods.
+
+One afternoon he was hopping along, quite a distance from his underground house, when, all at once, he heard a loud banging noise.
+
+“Why, can that be thunder?” asked Flop Ear. “It must be going to storm.” He looked up at the sky. There was not a cloud in it. The sun was shining brightly, and Flop Ear knew it never thundered, or at least very seldom, when the sun was shining.
+
+“I wonder what that queer noise was?” he asked.
+
+Then he heard it again:
+
+“Bang!”
+
+“I’m going to run!” thought Flop Ear. “That may be danger. I’ll go home and tell the folks I heard a queer noise.”

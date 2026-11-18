@@ -1,0 +1,70 @@
+---
+title: "chapter 18"
+weight: 999
+aliases:
+  - "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-18.html"
+---
+
+The Scarecrow was not a bit afraid of King Krewl. Indeed, he rather enjoyed the prospect of conquering the evil King and putting Gloria on the throne of Jinxland in his place. So he advanced boldly to the royal castle and demanded admittance.
+
+Seeing that he was a stranger, the soldiers allowed him to enter. He made his way straight to the throne room, where at that time his Majesty was settling the disputes among his subjects.
+
+"Who are you?" demanded the King.
+
+"I'm the Scarecrow of Oz, and I command you to surrender yourself my prisoner."
+
+"Why should I do that? " inquired the King, much astonished at the straw man's audacity.
+
+"Because I've decided you are too cruel a King to rule so beautiful a country. You must remember that Jinxland is a part of Oz, and therefore you owe allegiance to Ozma of Oz, whose friend and servant I am."
+
+Now, when he heard this, King Krewl was much disturbed in mind, for he knew the Scarecrow spoke the truth. But no one had ever before come to Jinxland from the Land of Oz and the King did not intend to be put out of his throne if he could help it. Therefore he gave a harsh, wicked laugh of derision and said:
+
+"I'm busy, now. Stand out of my way, Scarecrow, and I'll talk with you by and by."
+
+But the Scarecrow turned to the assembled courtiers and people and called in a loud voice:
+
+"I hereby declare, in the name of Ozma of Oz, that this man is no longer ruler of Jinxland. From this moment Princess Gloria is your rightful Queen, and I ask all of you to be loyal to her and to obey her commands."
+
+The people looked fearfully at the King, whom they all hated in their hearts, but likewise feared. Krewl was now in a terrible rage and he raised his golden sceptre and struck the Scarecrow so heavy a blow that he fell to the floor.
+
+But he was up again, in an instant, and with Pon's riding-whip he switched the King so hard that the wicked monarch roared with pain as much as with rage, calling on his soldiers to capture the Scarecrow.
+
+They tried to do that, and thrust their lances and swords into the straw body, but without doing any damage except to make holes in the Scarecrow's clothes. However, they were many against one and finally old Googly-Goo brought a rope which he wound around the Scarecrow, binding his legs together and his arms to his sides, and after that the fight was over.
+
+The King stormed and danced around in a dreadful fury, for he had never been so switched since he was a boy -- and perhaps not then. He ordered the Scarecrow thrust into the castle prison, which was no task at all because one man could carry him easily, bound. as he was.
+
+Even after the prisoner was removed the King could not control his anger. He tried to figure out some way to be revenged upon the straw man, but could think of nothing that could hurt him. At last, when the terrified people and the frightened courtiers had all slunk away, old Googly-Goo approached the king with a malicious grin upon his face.
+
+"I'll tell you what to do," said he. "Build a big bonfire and burn the Scarecrow up, and that will be the end of him."
+
+The King was so delighted with this suggestion that he hugged old Googly-Goo in his joy
+
+"Of course!" he cried. "The very thing. Why did I not think of it myself?"
+
+So he summoned his soldiers and retainers and bade them prepare a great bonfire in an open space in the castle park. Also he sent word to all his people to assemble and witness the destruction of the Scarecrow who had dared to defy his power. Before long a vast throng gathered in the park and the servants had heaped up enough fuel to make a fire that might be seen for miles away -- even in the daytime.
+
+When all was prepared, the King had his throne brought out for him to sit upon and enjoy the spectacle, and then he sent his soldiers to fetch the Scarecrow.
+
+Now the one thing in all the world that the straw man really feared was fire. He knew he would burn very easily and that his ashes wouldn't amount to much afterward. It wouldn't hurt him to be destroyed in such a manner, but he realized that many people in the Land of Oz, and especially Dorothy and the Royal Ozma, would feel sad if they learned that their old friend the Scarecrow was no longer in existence.
+
+In spite of this, the straw man was brave and faced his fiery fate like a hero. When they marched him out before the concourse of people he turned to the King with great calmness and said:
+
+"This wicked deed will cost you your throne, as well as much suffering, for my friends will avenge my destruction."
+
+"Your friends are not here, nor will they know what I have done to you, when you are gone and can-not tell them," answered the King in a scornful voice.
+
+Then he ordered the Scarecrow bound to a stout stake that he had had driven into the ground, and the materials for the fire were heaped all around him. When this had been done, the King's brass band struck up a lively tune and old Googly-Goo came forward with a lighted match and set fire to the pile.
+
+At once the flames shot up and crept closer and closer toward the Scarecrow. The King and all his people were so intent upon this terrible spectacle that none of them noticed how the sky grew suddenly dark. Perhaps they thought that the loud buzzing sound -- like the noise of a dozen moving railway trains -- came from the blazing fagots; that the rush of wind was merely a breeze. But suddenly down swept a flock of Orks, half a hundred of them at the least, and the powerful currents of air caused by their revolving tails sent the bonfire scattering in every direction, so that not one burning brand ever touched the Scarecrow.
+
+But that was not the only effect of this sudden tornado. King Krewl was blown out of his throne and went tumbling heels over head until he landed with a bump against the stone wall of his own castle, and before he could rise a big Ork sat upon him and held him pressed flat to the ground. Old Googly-Goo shot up into the air like a rocket and landed on a tree, where he hung by the middle on a high limb, kicking the air with his feet and clawing the air with his hands, and howling for mercy like the coward he was.
+
+The people pressed back until they were jammed close together, while all the soldiers were knocked over and sent sprawling to the earth. The excitement was great for a few minutes, and every frightened inhabitant of Jinxland looked with awe and amazement at the great Orks whose descent had served to rescue the Scarecrow and conquer King Krewl at one and the same time.
+
+The Ork, who was the leader of the band, soon had the Scarecrow free of his bonds. Then he said: "Well, we were just in time to save you, which is better than being a minute too late. You are now the master here, and we are determined to see your orders obeyed."
+
+With this the Ork picked up Krewl's golden crown, which had fallen off his head, and placed it upon the head of the Scarecrow, who in his awkward way then shuffled over to the throne and sat down in it.
+
+Seeing this, a rousing cheer broke from the crowd of people, who tossed their hats and waved their handkerchiefs and hailed the Scarecrow as their King. The soldiers joined the people in the cheering, for now they fully realized that their hated master was conquered and it would be wise to show their good will to the conqueror. Some of them bound Krewl with ropes and dragged him forward, dumping his body on the ground before the Scarecrow's throne. Googly-Goo struggled until he finally slid off the limb of the tree and came tumbling to the ground. He then tried to sneak away and escape, but the soldiers seized and bound him beside Krewl.
+
+"The tables are turned," said the Scarecrow, swelling out his chest until the straw within it crackled pleasantly, for he was highly pleased; "but it was you and your people who did it, friend Ork, and from this time you may count me your humble servant."

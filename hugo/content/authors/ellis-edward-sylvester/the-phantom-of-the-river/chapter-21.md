@@ -1,0 +1,140 @@
+---
+title: "Chapter 21 - The Phantom Of The River"
+weight: 21
+aliases:
+  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-21.html"
+---
+
+The reader has long since penetrated the cause of the panic into which Simon Kenton was thrown—a panic as wild, as unreasonable and uncontrollable as that of the single Shawanoe, some time before, when he plunged into the forest and fled as if from the pursuit of the evil one himself.
+
+There were no more superstitious men living than the daring pioneers and scouts of the West. Never hesitating to meet death, and courageously facing peril before which most people would have cowered, they demanded that that death and that peril should present themselves in tangible form. In other words, they shrank at receiving no blows, provided the opportunity was given them of striking effective blows in return.
+
+In trailing an enemy, when the "crossing of the ways" was reached, that is, where it was impossible to decide from evidence the right path to take, the question was often decided by a flirt of a hunting-knife; whichever course the implement indicated when it fell, was accepted as the finger of Providence, and was followed with as much unflinching vigor as though the possibility of an error did not exist. In many other respects was this belief in signs and the awe of the supernatural shown.
+
+The brief, terrified glance of Kenton revealed to him an Ohio flatboat moving up the river against the current—something which in all his varied experience he had never seen. The same glance showed a yawning white spread across the craft, as if it were the upturned wing of some monster swimming on its side in the water.
+
+Without pausing to reflect that this appearance was the key to the whole mystery, the brave man gave way to terror, and, throwing discretion to the winds, dashed into the enclosure among his friends with the exclamation:
+
+"Boys, we're lost! We're lost! There's a ghost coming up the river!"
+
+His words and manner threw the others into consternation. While it is certain that some would have shown more coolness, yet nothing is more contagious than fear, and the panic of one considered the clearest-headed and most daring of the rangers caused the rest for a brief while to bid good-by to their senses.
+
+Forgetful of the Shawanoes near at hand, and thinking of nothing but the new and dreadful peril, the men and women made haste to gather about the tall figure that advanced almost to the middle of the inclosure before checking himself.
+
+"What is it, Kenton? For heaven's sake, tell us!"
+
+"Where is it? What does it look like?"
+
+"Keep your head, Simon," counselled Boone, in the babel of exclamations, "and tell us what it is the ghost of."
+
+"You remember t'other flatboat," said Kenton, partially recovering his self-mastery, "the one the MacDougalls was on, and they was all killed?"
+
+"Yes, of course, of course," replied several.
+
+"Wal, the ghost of that flatboat is coming up the river; it's right off shore; it'll be among us in a few minutes; we had better take to the woods."
+
+And, incredible as it may seem, the intrepid scout would have led the absurd stampede, had not his elder and cooler friend laid his hand on his arm.
+
+"Simon, you ain't yourself; don't forget the varmints are all around us."
+
+"Dan'l," returned Kenton, sharply, "did you ever see a ghost?"
+
+"I have not."
+
+"Wal, if you want to see one, walk down to the edge of the river and there it is! As for me, I want to git away afore it comes any closer; but I forgot 'bout the varmints; I'll wait till you folks have a look at it, and then we'll all run."
+
+Evidently, the ranger was rallying from his panic.
+
+Among the group that gathered around him were several who were quick to recover from their own fright, and to see that the true course was to investigate the cause of the latter's state of mind.
+
+"Wait here till I take a look for myself," said George Ashbridge, touching the elbow of his father; "there's something in this that I don't understand; I will be gone but a few minutes; it's the strangest condition of affairs I ever knew."
+
+He whisked off in the obscurity and quickly reached the river side.
+
+Meanwhile, Missionary Finley gave proof of his sagacity. Having decided to use the flatboat and its sail as a possible weapon, he had risen to his feet, and with hands grasping the bow oar was figuring as to how he could discover the proper point at which to work the boat to land.
+
+He had made up his mind to emit a signal which would be recognized either by Boone or Kenton, if it reached their ears, when across the brief, intervening space he heard the threshing and the terrified exclamations of his old friend.
+
+"Here we are, Jethro! This is the place! Now, work with a will!"
+
+Both bent their strong arms to the task, and the water was churned at each end of the craft by the broad blades that swept deep and powerful like the arms of a propeller. The bulky boat responded and began approaching the bank, no more than a couple of rods distant.
+
+In this hurly-burly of affright and excitement, the missionary compressed his lips to keep back the tugging smile. He had caught the first words uttered by Kenton, identified his voice, and understood the cause of his alarm.
+
+"If it please Heaven to deliver us all from peril," was the thought of Finley, "I shall not forget this affair, and I will make sure that Simon is not allowed to forget it."
+
+It was only a minute or two later that George Ashbridge hurried to the margin of the water. The sweep of the long oars and the sight of the flatboat itself, with the spread of sail above it, all so near that they were recognized at the first glance, told the whole amazing story to the young man, though, as yet, he could not comprehend how it had all come about.
+
+One of the figures toiling at the sweeps was Jethro Juggens; he could form no suspicion as to the identity of the other.
+
+"Is that you, Jethro?" called Ashbridge, in a guarded undertone.
+
+"It am," was the proud response; "keep out ob de way, Marse George, or dis boat will run ober you. We's comin' like thunder."
+
+"There! that will do," said the missionary, as the boat struck sideways, almost abreast of where the youth was standing; "we couldn't have made a better landing. Good evening, my friend; I am sure we are welcome."
+
+With these cheery words the man, with his rifle in his left hand, stepped across the gunwale upon the hard earth and extended his right to young Ashbridge.
+
+"My name is Finley —James B. Finley; I am a missionary for Ohio and Kentucky, and joined your young friend hero to see whether I can be of any help to you and those with you."
+
+"And an angel could not be more welcome," was the fervent response of the youth, returning the warm pressure of the good man.
+
+"There seems to be trouble here," said he, with grave concern.
+
+"We are in sore straits, indeed; we have been resting for a good while, afraid to go on, for there is an ambuscade of the Indians just beyond, into which they are waiting for us to enter."
+
+"I presume the Shawanoes are in charge of The Panther."
+
+"So Daniel Boone tells us."
+
+"I feared as much; I'm glad that Boone is with you."
+
+"And so is Kenton."
+
+"Yes; I recognized his voice; he seems to be a little disturbed by the appearance of our craft."
+
+"I never knew it was possible for a man like him to become so frightened. He seems to have lost his wits."
+
+"They will soon return to him; he's a noble fellow."
+
+"Jes' let me know what you want done," remarked Jethro Juggens, who had placed the anchor so as to hold the flatboat motionless; "don't forget dat I fixed up dis yer contrivance."
+
+"Yes, all the credit belongs to him. He will explain when there is time; we have not a minute to spare now; it looks as if the appearance of the boat has given the red men, as well as the others, a scare."
+
+"No doubt of that, and Kenton's performance has had a good deal to do with it, for he upset our people completely."
+
+"We must take instant advantage of this diversion, which is providential; let us go to your friends at once."
+
+The missionary set off with young Ashbridge at his side and Jethro Juggens immediately behind them. A few brief, hurried steps took them to the group, whose members were beginning to regain a part at least of their senses.
+
+It was no occasion for Mr. Finley to indulge in any pleasantry at the expense of his old friend, Simon Kenton, however appropriate it might be at another time. His words were grave, quick and prompt, as were becoming. He hurriedly shook hands with Boone, Kenton and the rangers, to all of whom he was well known and by them held in high esteem. He greeted the others warmly in turn, using his tongue while doing so.
+
+"The appearance of the flatboat is so strange that it gave you all a good scare, and no wonder that it did so. It has produced the same effect upon The Panther's party, else they would not have allowed us to land or permitted this passing back and forth; but like you they will soon recover from it; one must use this opportunity, so providentially placed in our way."
+
+"That's the right kind of talk," remarked Kenton, who was already humiliated at the part he had played a short time before.
+
+"From what Jethro told me, you have little, if any, luggage with you."
+
+"Only what we can carry in our hands," replied Mr. Altman.
+
+"So far as I can judge, you are all gathered in this spot—a thing you would not be permitted to do but for the fright of the Indians. Follow me then; I will lead the way."
+
+Less time than would be supposed was occupied in this broken conversation. As stated, the words of the missionary were quickly uttered, and he showed his promptness by wheeling about and moving down the gentle incline toward the river. It seemed strange for him to take the lead of a party of rangers, among whom were Daniel Boone and Simon Kenton, but his leadership was only for the moment, and could have been assumed by Jethro Juggens himself, for it signified an advance only to the flatboat itself.
+
+Boone, with several quick strides, placed himself beside the preacher.
+
+"Have a care," he continued. "I don't understand what makes the varmints so quiet."
+
+"Because they are scared, as all of you were by the flatboat and its sail."
+
+"The only one of us skeered was Simon," corrected the great pioneer, "and then he skeered us by the way he carried on."
+
+"Well, any one of you would have been just as much frightened as he, and I suspect the rumpus he created had something to do with the panic of the Shawanoes; but you are right; it will not last long, and it may be over already."
+
+The habit of caution to which all the rangers were trained asserted itself. Grasping their rifles firmly, they involuntarily assumed a crouching pose and stepped lightly forward, as if afraid the slightest footfall would betray them. They glanced to the right and left, and more than once fancied they discerned shadowy forms stealing here and there in the gloom.
+
+It was natural, perhaps, that a different and somewhat peculiar feeling should influence the two families of settlers. They felt as if they would ignore the existence of enemies in their immediate neighborhood; they would forget that any danger of that nature ever threatened them at all, and devote their utmost energies to hurrying forward to the flatboat. They held their gaze in that direction, and tried to pierce the gloom and see nothing but the single object upon which their hope was fixed.
+
+Mr. Ashbridge and his wife clasped a hand of Mabel between them. Mr. Altman and his wife clung to each other, while George Ashbridge had fallen slightly to the rear with Agnes, while the rangers seemed to straggle irregularly forward, as they had done when pushing through the woods, but, in truth, they were advancing in accordance with a well-defined idea of the best course to follow at this time.
+
+Finley, Kenton and Boone held their places at the head, and the fugitives speedily reached the river side, where the unpleasant fact became apparent that the wind, which had been blowing so long and steadily, had dropped to a degree that it could no longer be of any help to them.

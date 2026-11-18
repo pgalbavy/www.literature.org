@@ -1,0 +1,44 @@
+---
+title: "Chapter 7 - Trying To Help"
+weight: 7
+aliases:
+  - "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-07.html"
+---
+
+IT was true that Farmer Green had almost more work than he could do just then, even with the aid of the hired man and Johnnie. And he often wished that he might find somebody else to help him.
+
+"I'd hire anybody I could find that had two legs," he remarked to his wife as he started away from the house after finishing his dinner. "I want to get the oats harvested before there's a rain. And I don't like the looks of the sky to-day."
+
+Now, Daddy Longlegs reached the farmhouse just in time to hear what Farmer Green said. And he spoke up at once--as loudly as he could.
+
+"I'd be willing to work for you," he said. "I'm a harvestman. And you ought to be glad to hire me, for I have eight legs instead of only two."
+
+Perhaps Daddy's voice was too thin and high for Farmer Green to hear. Anyhow, he paid not the slightest heed to Daddy's offer, but strode off across the farmyard while his caller cried "Stop! Please stop!" at the top of his lungs.
+
+Then Daddy heard a noise, which he was sure was thunder--though it was only Farmer Green calling to the hired man to hurry.
+
+"Well, I've tried to go to work, anyhow," Daddy Longlegs assured himself. "And if the oats get wet Farmer Green can't blame me."
+
+He went back to the stone wall then. And seeing Mr. Chippy perched on the wild grapevine, Daddy told him what had happened. "Farmer Green must be deaf at times, the same as you are," little Mr. Chippy observed. "If I were you I'd write him a letter."
+
+Daddy Longlegs pretended not to hear Mr. Chippy's suggestion. The truth was, being only a few months old Daddy did not know how to write. But of course he did not care to have Mr. Chippy know that.
+
+Well, while he pondered upon the situation Daddy Longlegs changed his mind about working for Farmer Green. In the beginning he had not wanted to help with the harvesting. He had taken up Mrs. Ladybug's suggestion only to keep her quiet. But now, having found that going to work for Farmer Green was no easy matter to arrange, Daddy Longlegs began to long to do the very thing he had wished to avoid.
+
+At last he decided that he would go over to the oat field at once and do what he could to help with the harvesting--without saying anything more to anybody.
+
+"Farmer Green can't help but be pleased," he thought, as he started off across the farmyard in the same direction in which Johnnie Green's father had gone when he called to the hired man to hurry.
+
+Daddy had not gone far before he met Buster Bumblebee. "How far is it to the oat field?" Daddy asked him.
+
+"Oh! It's not ten minutes' journey," said Buster. "I've just come from the clover-patch myself; and that's twice as far."
+
+Daddy Longlegs thanked him. And then he turned and tottered on again. For a long time he walked as fast as he could. It seemed to him that he must have been travelling at least half an hour. But he saw not the slightest sign of the oat field, though he climbed a fence and peered across the rolling meadow.
+
+Then he happened to catch sight of Chirpy Cricket hopping through the grass. And Daddy called to him and asked him how far it was to the oat field.
+
+"It's a good half-day's journey from here," said Chirpy Cricket cheerfully. But Daddy Longlegs did not feel the least bit cheerful when he heard that.
+
+"For the land's sake!" he exclaimed. "Are you sure you're not mistaken? Buster Bumblebee told me a long time ago that it was only a ten-minute trip."
+
+"Ah! So it is--for him!" said Chirpy Cricket. "You must remember that he flies very fast. But I have to hop along much more slowly. And as for you, at the pace you were travelling before you stopped to speak to me you wouldn't reach the oat field before to-morrow morning! No--not even if you walked all night!"

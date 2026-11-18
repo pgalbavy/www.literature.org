@@ -1,0 +1,108 @@
+---
+title: "Chapter 23"
+weight: 24
+aliases:
+  - "/authors/haggard-h-rider/dawn/chapter-23.html"
+---
+
+Pigott, Angela's old nurse, was by no means sorry to hear of Arthur's visit to the Abbey House, though, having in her youth been a servant in good houses, she was distressed at the nature of his reception. But, putting this aside, she thought it high time that her darling should see a young man or two, that she might "learn what the world was like." Pigott was no believer in female celibacy, and Angela's future was a frequent subject of meditation with her, for she knew very well that her present mode of life was scarcely suited either to her birth, her beauty, or her capabilities. Not that she ever, in her highest flights, imagined Angela as a great lady, or one of society's shining stars; she loved to picture her in some quiet, happy home, beloved by her husband, and surrounded by children as beautiful as herself. It was but a moderate ambition for one so peerlessly endowed, but she would have been glad to see it fulfilled. For of late years there had sprung up in nurse Pigott's mind an increasing dislike of her surroundings, which sometimes almost amounted to a feeling of horror. Philip she had always detested, with his preoccupied air and uncanny ways.
+
+"There must," she would say, "be something wicked about a man as is afraid to have his own bonny daughter look him in the face, to say nothing of his being that mean as to grudge her the clothes on her back, and make her live worse nor a servant-girl."
+
+Having, therefore, by a quiet peep through the curtains, ascertained that he was nice-looking and about the right age, Pigott confessed to herself that she was heartily glad of Arthur's arrival, and determined that, should she take to him on further acquaintance, he should find a warm ally in her in any advances he might choose to make on the fortress of Angela's affections.
+
+"I do so hope that you don't mind dining at half-past twelve, and with my old nurse," Angela said, as they went together up the stairs to the room they used as a dining-room.
+
+"Of course I don't--I like it, really I do."
+
+Angela shook her head, and, looking but partially convinced, led the way down the passage, and into the room, where, to her astonishment, she perceived that the dinner-table was furnished with a more sumptuous meal than she had seen upon it for years, the fact being that Pigott had received orders from Philip which she did not know of, not to spare expense whilst Arthur was his guest.
+
+"What waste," reflected Angela, in whom the pressure of circumstances had developed an economical turn of mind, as she glanced at the unaccustomed jug of beer. "He said he was a teetotaller."
+
+A loud "hem!" from Pigott, arresting her attention, stopped all further consideration of the matter. That good lady, who, in honour of the occasion, was dressed in a black gown of a formidable character and a many-ribboned cap, was standing up behind her chair waiting to be introduced to the visitor. Angela proceeded to go through the ceremony which Pigott's straight-up-and-down attitude rendered rather trying.
+
+"Nurse, this is the gentleman that my father has asked to stay with us. Mr. Heigham, let me introduce you to my old nurse Pigott."
+
+Arthur bowed politely, whilst Pigott made two obligatory curtsies, requiring a step backwards after each, as though to make room for another. Her speech, too, carefully prepared for the occasion, is worthy of transcription.
+
+"Hem!" she said, "this, sir, is a pleasure as I little expected, and I well knows that it is not what you or the likes is accustomed to, a-eating of dinners and teas with old women; which I hopes, sir, how as you will put up with it, seeing how as the habits of this house is what might, without mistake, be called peculiar, which I says without any offence to Miss Angela, 'cause though her bringing-up has been what I call odd, she knows it as well as I do, which, indeed, is the only consolation I has to offer, being right sure, as indeed I am, how as any young gentleman as ever breathed would sit in a pool of water to dine along with Miss Angela, let alone an old nurse. I ain't such a fool as I may look; no need for you to go a-blushing of, Miss Angela. And now, sir, if you please, we will sit down, for fear lest the gravy should begin to grease;" and, utterly exhausted by the exuberance of her own verbosity, she plunged into her chair--an example which Arthur, bowing his acknowledgements of her opening address, was not slow to follow.
+
+One of his first acts was, at Pigott's invitation, to help himself to a glass of beer, of which, to speak truth, he drank a good deal.
+
+Angela watched the proceeding with interest.
+
+"What," she asked presently, "is a teetotaller?"
+
+The recollection of his statement of the previous day flashed into his mind. He was, however, equal to the occasion.
+
+"A teetotaller," he replied, with gravity, "is a person who only drinks beer," and Angela, the apparent discrepancy explained, retired satisfied.
+
+That was a very pleasant dinner. What a thing it is to be young and in love! How it gilds the dull gingerbread of life; what new capacities of enjoyment it opens up to us, and, for the matter of that, of pain also; and oh! what stupendous fools it makes of us in everybody else's eyes except our own, and, if we are lucky, those of our adored!
+
+The afternoon and evening passed much as the morning had done. Angela took Arthur round the place, and showed him all the spots connected with her strange and lonely childhood, of which she told him many a curious story. In fact, before the day was over, he knew all the history of her innocent life, and was struck with amazement at the variety and depth of her scholastic acquirements and the extraordinary power of her mind, which, combined with her simplicity and total ignorance of the ways of the world, produced an affect as charming as it was unusual. Needless to say that every hour he knew her he fell more deeply in love with her.
+
+At length, about eight o'clock, just as it was beginning to get dark, she suggested that he should go and sit a while with her father.
+
+"And what are you going to do?" asked Arthur.
+
+"Oh! I am going to read a little, and then go to bed; I always go to bed about nine;" and she held out her hand to say good-night. He took it and said,
+
+"Good-night, then; I wish it were to-morrow."
+
+"Why?"
+
+"Because then I should be saying, 'Good-morning, Angela,' instead of 'Good-night, Angela,' May I call you Angela? We seem to know each other so well, you see."
+
+"Yes, of course," she laughed back; "everybody I know calls me Angela, so why shouldn't you?"
+
+"And will you call me Arthur? Everybody I know calls me Arthur."
+
+Angela hesitated, and Angela blushed, though why she hesitated and why she blushed was perhaps more than she could have exactly said.
+
+"Y-e-s, I suppose so--that is, if you like it. It is a pretty name, Arthur. Good-night, Arthur," and she was gone.
+
+His companion gone, Arthur turned and entered the house. The studydoor was open, so he went straight in. Philip, who was sitting and staring in an abstracted way at the empty fireplace with a light behind him, turned quickly round as he heard the footstep.
+
+"Oh! it's you, is it, Heigham? I suppose Angela has gone upstairs; she goes to roost very early. I hope that she has not bored you, and that old Pigott hasn't talked your head off. I told you that we were an odd lot, you know; but, if you find us odder than you bargained for, I should advise you to clear out."
+
+"Thank you, I have spent a very happy day."
+
+"Indeed, I am glad to hear it. You must be easily satisfied, have an Arcadian mind, and that sort of thing. Take some whisky, and light your pipe."
+
+Arthur did so, and presently Philip, in that tone of gentlemanly ease which above everything distinguished him from his cousin, led the conversation round to his guest's prospects and affairs, more especially his money affairs. Arthur answered him frankly enough, but this money talk had not the same charms for him that it had for his host. Indeed, a marked repugnance to everything that had to do with money was one of his characteristics; and, wearied out at length with pecuniary details and endless researches into the mysteries of investment, he took advantage of a pause to attempt to change the subject.
+
+"Well," he said, "I am much obliged to you for your advice, for I am very ignorant myself, and hate anything to do with money. I go back to first principles, and believe that we should all be better without it."
+
+"I always thought," answered Philip, with a semi-contemptuous smile, "that the desire of money, or, amongst savage races, its equivalent, shells or what not, was the first principle of human nature."
+
+"Perhaps it is--I really don't know; but I heartily wish that it could be eliminated off the face of the earth."
+
+"Forgive me," laughed Philip, "but that is the speech of a very young man. Why, eliminate money, and you take away the principal interest of life, and destroy the social fabric of the world. What is power but money, comfort?--money, social consideration?--money, ay, and love, and health, and happiness itself? Money, money, money. Tell me," he went on, rising, and addressing him with a curious earnestness, "what god is there more worthy of our adoration than Plutus, seeing that, if we worship him enough, he alone of the idols we set in high places, will never fail us at need?"
+
+"It is a worship that rarely brings lasting happiness with it. In our greed to collect the means of enjoyment, surely we lose the power to enjoy?"
+
+"Pshaw! that is the cant of fools, of those who do not know, of those who cannot feel. But I know and I feel, and I tell you that it is not so. The collection of those means is in itself a pleasure, because it gives a consciousness of power. Don't talk to me of Fate; that sovereign" (throwing the coin on to the table) "is Fate's own seal. You see me, for instance, apparently poor and helpless, a social pariah, one to be avoided, and even insulted. Good; before long these will right all that for me. I shall by their help be powerful and courted yet. Ay, believe me, Heigham, money is a living moving force; leave it still, and it accumulates; expend it, and it gratifies every wish; save it, and that is best of all, and you hold in your hand a lever that will lift the world. I tell you that there is no height to which it cannot bring you, no gulf it will not bridge you."
+
+"Except," soliloquized Arthur, "the cliffs of the Hereafter, and--the grave."
+
+His words produced a curious effect. Philip's eloquence broke off short, and for a moment a great fear crept into his eyes.
+
+Silence ensued which neither of them seemed to care to break. Meanwhile the wind suddenly sprang up, and began to moan and sigh amongst the half-clad boughs of the trees outside--making, Arthur thought to himself, a very melancholy music. Presently Philip laid his hand upon his guest's arm, and he felt that it shook like an aspenleaf.
+
+"Tell me," he said, in a hoarse whisper, "what do you see there?"
+
+Arthur started, and followed the direction of his eyes to the bare wall opposite the window, at that end of the room through which the door was made.
+
+"I see," he said, "some moving shadows."
+
+"What do they resemble?"
+
+"I don't know; nothing in particular. What are they?"
+
+"What are they?" hissed Philip, whose face was livid with terror, "they are the shades of the dead sent here to torture me. Look, she goes to meet him; the old man is telling her. Now she will wring her hands."
+
+"Nonsense, Mr. Caresfoot, nonsense," said Arthur, shaking himself together; "I see nothing of the sort. Why, it is only the shadows flung by the moonlight through the swinging boughs of that tree. Cut it down, and you will have no more writing upon your wall."
+
+"Ah! of course you are right, Heigham, quite right," ejaculated his host, faintly, wiping the cold sweat from his brow; "it is nothing but the moonlight. How ridiculous of me! I suppose I am a little out of sorts--liver wrong. Give me some whisky, there's a good fellow, and I'll drink damnation to all the shadows and the trees that throw them. Ha, ha, ha!"
+
+There was something so uncanny about his host's manner, and his evident conviction of the origin of the wavering figures on the wall (which had now disappeared), that Arthur felt, had it not been for Angela, he would not be sorry to get clear of him and his shadows as soon as possible, for superstition, he knew, is as contagious as small-pox. When at length he reached his great bare bed-chamber, not, by the way, a comfortable sort of place to sleep in after such an experience, it was only after some hours, in the excited state of his imagination, that, tired though he was, he could get the rest he needed.

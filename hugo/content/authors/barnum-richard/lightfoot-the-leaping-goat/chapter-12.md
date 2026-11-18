@@ -1,0 +1,152 @@
+---
+title: "Chapter 12 - Lightfoot’s New Home"
+weight: 12
+aliases:
+  - "/authors/barnum-richard/lightfoot-the-leaping-goat/chapter-12.html"
+---
+
+Leaving Lightfoot and Slicko talking together in the woods, we will go back a little while and see what is happening in the shanty near the rocks, where Mike Malony lived with his widowed mother. Mike came in one day, after a long search through the park. Though it was several weeks since Lightfoot had run away the boy never gave up hope that, some day, he would find his pet.
+
+“Well, Mike me lad, did you hear anything of your goat?” asked Mrs. Malony.
+
+“No, Mother,” was the answer, “and I don’t believe I ever shall. Lightfoot is gone forever.”
+
+“Oh, don’t say that, Mike! He may come back. And if he doesn’t, can’t you take one of the other goats and train it to drag a cart?”
+
+“No,” said Mike, with a shake of his head, “I couldn’t do that. The other goats are for giving milk, and the like of that, but they wouldn’t be like Lightfoot for drawing the children. No goat will be like Lightfoot to me. I’ll have to get work at something else, I guess, Mother.”
+
+“I’m afraid you will, Mike me boy,” said his mother, and now as she was a bit sad, she was not smiling at her freckle-faced and red-haired son. “Our money is almost gone, and we need more to buy something to eat. Lucky it is we have no rent to pay. You had better look for a job, Mike.”
+
+Mike did, but work was not to be had. Meanwhile the money which the Widow Malony had put away was getting less and less. Mike came in one day, tired, and feeling very unhappy, for he had walked far looking for work without finding it. He had even tried training one of the other goats to draw a cart, but they did not seem able to learn, being too old, I suppose. Blackie had been sold to bring in a little money.
+
+“Well, maybe better luck will come to-morrow, lad. Don’t give up. Whist!” she cried. “There’s the letter man’s whistle. Sure he can’t be comin’ here!”
+
+“But he is, Mother!” cried Mike. “Maybe it’s some of the men I gave me name to, sendin’ for me to give me work.”
+
+With trembling hands Mrs. Malony opened the letter. When she had read it she cried:
+
+“Th’ saints be praised, Mikey me lad. Our troubles are over now! Our troubles are over now!”
+
+“How?” asked Mike.
+
+“Sure I’ve been left a farm, Mike! A farm with green grass and a house, and cows and a place to raise hay and a horse to haul it to market. Read!”
+
+Mike read the letter. It was true. A cousin of his mother, who had known her in Ireland, had died and left her his farm, as she was his nearest relative. The letter was from the lawyers saying she could claim the farm and live on it as soon as she pleased.
+
+The troubles of the Widow Malony and her son were indeed over as far as money was concerned. They sold what few things they had, even the goats, for it would be hard to carry them along, and then, bidding good-by to the other squatters, they moved to the farm that had been left them. It was many miles from the big city, out in the country.
+
+“Sure ’tis a grand farm!” cried Mike as he saw the snug house in which he and his mother were to live. “’Tis a grand farm entirely. And would ye look at the river right next door! I can go swimmin’ in that and sail a boat.”
+
+“’Tis no river, Mike, me boy,” said his mother. “That’s a canal, same as the one that runs near the big city where we come from, though I guess you were never over that far.”
+
+“No,” said Mike, “I was not. A canal; eh? Sure it’s a funny thing. A river made by men,” and he sat down to look at it.
+
+But there were many things to do on the Malony farm, and Mike and his mother were happy in doing them, for now they saw better times ahead of them.
+
+“Sure this would be a fine place for Lightfoot,” said Mike as he sat on the steps one day and looked across the green fields. “He’d be fair wild with th’ delight of it here,” and his face was a bit sad as he thought of his lost pet.
+
+It was about the time that the farm had been left to the widow and her son that Lightfoot met Slicko the jumping squirrel in the woods as I have told you.
+
+“And so you were lonesome! And that’s the reason you awakened me by dropping a nut on my nose?” asked Lightfoot of Slicko.
+
+“Yes,” was the answer. “And I guess you are glad it wasn’t Mappo, the merry monkey, who tried to wake you up that way.”
+
+“Why?” asked Lightfoot.
+
+“Because Mappo would likely have dropped a cocoanut on your nose, and that’s bigger and heavier than an acorn.”
+
+“Well, I guess it is,” laughed Lightfoot. “I’m glad you didn’t do that. But why are you lonesome?”
+
+“I am looking for a rabbit named Flop Ear to play with,” answered Slicko. “He and I used to have jolly times together. We were both caught, but we were both let go again, and since then we have lived in these woods. But I haven’t seen him for some days.”
+
+“I met him, not long ago,” said Lightfoot. “Did he have one ear that drooped over in a queer way?”
+
+“Yes, that was Flop Ear,” answered the squirrel. “Please tell me where to find him. I want to have some fun. We have both had many adventures that have been put in books, and we like to talk about them.”
+
+“So you have been put in a book, too,” said Lightfoot. “It is getting to be quite fashionable, as the ladies in the park used to say. I’d like to be in a book myself.”
+
+“Perhaps you may be,” said Slicko. “I’ll tell you how I got in after I have some fun with Flop Ear. Please tell me where I can find him.”
+
+“I left him over that way,” and Lightfoot pointed with his horns.
+
+“Thank you. I’ll see you again, I hope,” and Slicko was scampering away with a nut in her mouth when Lightfoot called after her:
+
+“Can you tell me where to find a canal? I was carried away on a canal boat, and I think now, if I can find the canal, I can walk along the path beside it and get to my own home. I am tired of wandering in the woods.”
+
+“There is a large brook of water over that way,” said Slicko, pointing with her front paw from the tree. “I have heard them call it a canal. Maybe that is what you are looking for.”
+
+“Oh, thank you. Maybe it is,” said Lightfoot. “I’ll know it as soon as I see it again.”
+
+Leaving the jumping squirrel to frisk her way among the tree branches, Lightfoot set off to find the “brook” as Slicko had called the canal. It did not take him long to find it, for it curved around in a half circle to meet the very woods in which the leaping goat then was.
+
+“Yes, it’s the same canal,” said Lightfoot, as he saw coming slowly along it a boat drawn by two big-eared mules. “Now all I have to do is to follow the towpath, and I’ll soon be at the big city again, and I can then find my way back to the shanty on the rocks, and Mike.”
+
+Lightfoot might have reached the city had he walked the right way along the canal bank, but he hurried along away from the big city instead of toward it. Day after day he wandered on, and whenever he saw any men or boys he hid in the trees or bushes along the towpath.
+
+“I wonder when I shall come to the city,” thought Lightfoot, who was getting tired.
+
+On and on he went. He did not stop to speak to any of the canal horses or mules. When he was hungry he ate grass or leaves, and when he was thirsty he drank from woodland brooks or from the canal, where the banks were not too steep.
+
+One day Lightfoot came to a place where the canal passed through a little village. The goat could see people moving about, some on the banks of the canal.
+
+“This does not look like the big city,” said the goat. “I think I will ask one of the canal horses.”
+
+He stepped from the bushes out on the path, and was just going to speak to a horse, one of a team that was hauling a boat loaded with sweet-smelling hay in bales, when a boy, who was driving the team, saw the goat and cried:
+
+“Ha! There is a Billie! I’m going to get him!” and he raced after Lightfoot. But the goat was not going to be caught. Along the towpath he ran, the boy after him. Lightfoot knew he could easily get away, but then, right in front of him, came another boy with a long whip. This boy, too, was driving a team of horses hitched to another canal boat.
+
+“Stop that goat!” cried the first boy.
+
+“I will,” said the other, holding out his whip.
+
+[Illustration: “Mother, Mother!” he cried. “Look! Look! It――it’s Lightfoot――come back to us!”]
+
+Lightfoot did not know what to do. He did not want to run into the woods on one side of the path, for fear he would be lost again. Nor could he swim if he jumped into the canal. And then he saw, right in front of him, a bridge over the water.
+
+“That’s my chance,” thought the goat, and lightly he leaped to one side, getting away from both boys, and over the bridge he ran. The boys did not dare leave their horses long enough to follow.
+
+Over the bridge and down a country road on the other side of the canal ran Lightfoot. He saw some cows and sheep in the fields on either side of the road. Then he saw a little white house with green shutters. In the front yard, picking some flowers, was a woman. Lightfoot looked at her.
+
+“I wonder――I wonder,” said Lightfoot slowly to himself, “where I have seen that woman before, for I am sure I have.”
+
+The woman kept on picking flowers. Lightfoot stood near the gate watching her, but she did not see him. Pretty soon she called:
+
+“Mike, bring me the watering can. The flower beds are dry.”
+
+“All right, Mother, I will. Sure if I had Lightfoot back again I’d make a little sprinkling cart and have him draw it. It’s a grand place for goats――the country farm.”
+
+Lightfoot pricked up his ears. He could not understand it. But that name Mike――that voice――
+
+He walked into the yard. The woman picking flowers looked up. Mike came along with the sprinkling can, and when he saw the goat he nearly dropped it.
+
+“Mother, Mother!” he cried. “Look! Look! It――it’s Lightfoot――come back to us!”
+
+“Lightfoot?”
+
+“Sure! Look at the likes of him as fine as ever――finer! Oh, Lightfoot, I’m so glad!” And this time Mike did drop the watering pot, splashing the water all about as he ran forward to throw his arms around the goat’s neck while Mrs. Malony patted him.
+
+And so Lightfoot came to his new home. By mistake he had gone the wrong way, but it turned out just right. He could not tell how glad he was to see Mike and his mother again, for he could not speak their language. But when Lightfoot met the horses, the cows and the pigs on the farm the widow and her son owned, the goat told them all his adventures, just as I have written them down in this book.
+
+“Lightfoot has come back to me! Lightfoot has come back!” sang Mike. “I wonder how he found this place?”
+
+But Lightfoot could not tell. All he knew was that he was with his friends again, and on a farm, which he thought much nicer than the park, pretty as that was.
+
+The leaping goat soon made himself at home. He was given a little stall to himself in the stable with the horses, who grew to like him very much.
+
+Mike had brought with him from the city the goat wagon, and many a fine ride he had in it, pulled along the country road by Lightfoot, who was bigger and stronger than before.
+
+“I wonder what Blackie, Grandpa Bumper and the other goats would think of me now?” said Lightfoot one day as he rolled over and over in a green meadow where daisies and buttercups grew.
+
+But as the other goats were not there they could say nothing. And so Lightfoot had his many adventures, and he was put in a book, just as he hoped to be, so I suppose he is happy now.
+
+THE END
+
+Transcriber’s Notes:
+
+――Text in italics is enclosed by underscores (italics).
+
+――Printer’s, punctuation and spelling inaccuracies were silently corrected.
+
+――Archaic and variable spelling has been preserved.
+
+――Variations in hyphenation and compound words have been preserved.

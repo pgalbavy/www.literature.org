@@ -1,0 +1,224 @@
+---
+title: "Book 2 - Chapter 3 - Lady Ruth's Last Card"
+weight: 19
+aliases:
+  - "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-03.html"
+---
+
+"There are two letters," Aynesworth announced, "which I have not opened. One, I think, is from the Marchioness of Westhampton, the other from some solicitors at Truro. They were both marked private."
+
+Wingrave was at breakfast in his flat; Aynesworth had been in an adjoining room sorting his correspondence. He accepted the two letters, and glanced them through without remark. But whereas he bestowed scarcely a second's consideration upon the broad sheet of white paper with the small coronet and the faint perfume of violets, the second letter apparently caused him some annoyance. He read it through for a second time with a slight frown upon his forehead.
+
+"You must cancel my engagements for two days, Aynesworth," he said. "I have to go out of town."
+
+Aynesworth nodded.
+
+"There's nothing very special on," he remarked. "Do you want me to go with you?"
+
+"It is not necessary," Wingrave answered. "I am going," he added, after a moment's pause, "to Cornwall."
+
+Aynesworth was immediately silent. The one time when Wingrave had spoken to him as an employer, was in answer to some question of his as to what had eventually become of the treasures of Tredowen. He had always since scrupulously avoided the subject.
+
+"Be so good as to look out the trains for me," Wingrave continued. "I cannot go until the afternoon," he added after a momentary pause. "I have an engagement for luncheon. Perhaps, if you are not too busy, you will see that Morrison packs some things for me."
+
+He moved to the writing table, and wrote a few lines to the Marchioness, regretting that his absence from town would prevent his dining with her on the following day. Then he studied the money column in several newspapers for half an hour, and telephoned to his broker. At eleven o'clock, he rode for an hour in the quietest part of the park, avoiding, so far as possible, anyone he knew, and galloping whenever he could. It was the only form of exercise in which he was known to indulge although the knowledge of English games, which he sometimes displayed, was a little puzzling to some of his acquaintances. On his return, he made a simple but correct toilet, and at half-past one he met Lady Ruth at Prince's Restaurant.
+
+Lady Ruth's gown of dove color, with faint touches of blue, was effective, and she knew it. Nevertheless, she was a little pale, and her manner lacked that note of quiet languor which generally characterized it. She talked rather more than usual, chattering idly about the acquaintances to whom she was continually nodding and bowing. Her face hardened a little as the Marchioness, on her way through the room with a party of friends, stopped at their table.
+
+The two women exchanged the necessary number of inanities, then the Marchioness turned to Wingrave.
+
+"You won't forget that you are dining with me tomorrow?"
+
+Wingrave shook his head regretfully.
+
+"I am sorry," he said, "but I have to go out of town. I have just written you."
+
+"What a bore," she remarked. "Business, of course!"
+
+She nodded and passed on. Her farewell to Lady Ruth was distinctly curt. Wingrave resumed his seat and his luncheon without remark.
+
+"Hateful woman," Lady Ruth murmured.
+
+"I thought you were friends," Wingrave remarked.
+
+"Yes, we are," Lady Ruth assented, "the sort of friendship you men don't know much about. You see a good deal of her, don't you?"
+
+Wingrave raised his head and looked at Lady Ruth contemplatively.
+
+"Why do you ask me that?" he asked.
+
+"Curiosity!"
+
+"I do," he remarked; "you should be grateful to her."
+
+"Why?"
+
+"It may save you a similar infliction."
+
+Lady Ruth was silent for several moments.
+
+"Perhaps," she said at last, "I do not choose to be relieved."
+
+Wingrave bowed, his glass in his hand. His lips were curled into the semblance of a smile, but he did not say a word. Lady Ruth leaned a little across the table so that the feathers of her hat nearly brushed his forehead.
+
+"Wingrave," she asked, "do you know what fear is? Perhaps not! You are a man, you see. No one has ever called me a coward. You wouldn't, would you?"
+
+"No!" he said deliberately, "you are not a coward."
+
+"There is only one sort of fear which I know," she continued, "and that is the fear of what I do not understand. And that is why, Wingrave, I am afraid of you."
+
+He set down his glass, and his fingers trifled for a moment with its stem. His expression was inscrutable.
+
+"Surely," he said, "you are not serious!"
+
+"I am serious," she declared, "and you know that I am."
+
+"You are afraid of me," he repeated softly. "I wonder why."
+
+She looked him straight in the eyes.
+
+"Because," she said, "I did you once a very grievous wrong. Because I know that you have not forgiven me. Because I am very sure that all the good that was in you lies slain."
+
+"By whose hand?" he asked quietly. "No! You need not answer. You know. So do I. Yes, I can understand your fear. But I do not understand why you confess it to me."
+
+"Nor I," she answered. "Nor do I understand why I am here--at your bidding, nor why I keep you always by my side whenever you choose to take your place there. Are you a vain man, Wingrave? Do you wish to pose as the friend of a woman whom the world has thought too ambitious to waste time upon such follies? There is the Marchioness! She would do you more credit still."
+
+"Thank you," he answered. "I like to choose the path myself when I pass into the maze of follies!"
+
+"You have not yet explained yourself," she reminded him. "Of all people in world, you have chosen us for your presumptive friends. Why? You hate us both. You know that you do. Is it part of a scheme? Lumley is investing money on your advice, I am allowing myself to be seen about with you more than is prudent--considering all things. Do you want to rake out the ashes of our domestic hearth--to play the part of--melodramatic villain? You are ingenious enough, and powerful enough."
+
+"You put strange ideas into my head," he told her lightly. "Why should I not play the part that you suggest? It might be amusing, and you certainly deserve all the evil which I could bring upon you."
+
+She leaned a little across the table towards him. Her eyes were soft and bright, and they looked full into his. The color in her cheeks was natural. The air around him was faintly fragrant with the perfume of her clothes and hair.
+
+"We couldn't leave off playing at the game--and act it, could we?" she murmured. "We couldn't really--be friends?"
+
+Lady Ruth had played her trump card. She had touched his fingers with hers, her eyes shone with the promise of unutterable things. But if Wingrave was moved, he did not show it.
+
+"I wish," he said, "that I could accept your offer in the spirit with which you tender it. Unfortunately, I am a maimed person. My sensibilities have gone. Friendship, in the more intimate sense of the word, I may never hope to feel again. Enmity--well, that is more comprehensible; even enmity," he continued slowly, "which might prompt a woman to disguise herself as her own lady's maid, to seek out a tool to get rid of the man she feared. Pardon me, Lady Ruth, you are eating nothing."
+
+She pulled down her veil.
+
+"Thank you, I have finished," she said in a low tone.
+
+He called for the bill.
+
+"Pray, don't let my little remark distress you," he said. "I had almost forgotten the circumstance until something you said brought it into my mind. It is you yourself, you must remember, who set the example of candor."
+
+"I deserve everything you can say," she murmured, "everything you can do. There is nothing left, I suppose, but suffering. Will you take me out to my carriage? You can come back and have your coffee with the Marchioness! She keeps looking across at you, and it will please her to think that you got rid of me."
+
+He glanced at his watch.
+
+"I am afraid," he said, rising, "that I must deny myself the pleasure of seeking the Marchioness again today. I have a train to catch in half an hour. You are ready?"
+
+"Quite!"
+
+They made their way through the maze of tables towards the door, Lady Ruth exchanging greetings right and left with her friends, although the tall, grave-looking man who followed her was by far the greater object of interest.
+
+"Just like Ruth to keep him in her pocket," remarked her dearest friend, looking after them; "they say that he has millions."
+
+She sighed a little enviously.
+
+"The Barrington menage needs a little backing up," her companion remarked. "I should say that he had come just in time. The Marchioness has her eye upon him too. There may be some fun presently."
+
+Lady Ruth's dearest friend smiled.
+
+"I will back Ruth," she said drily. "Emily is beautiful, but she is too obvious, and too eager! Ruth's little ways are more subtle. Besides, look at the start she has. She isn't the sort of woman men tire of."
+
+Lady Ruth held out her hand through the window of her electric coupe.
+
+"Thank you for my luncheon," she said. "When shall we see you again?"
+
+"In a few days," he answered, standing bareheaded upon the pavement. "I shall call directly I return."
+
+Lady Ruth nodded and leaned back. Wingrave smiled faintly as he turned away. He had seen the little shudder which she had done her best to hide!
+
+Lady Ruth found her husband at home, writing letters in his study. She sank wearily into a chair by his side.
+
+"Been lunching out?" he inquired.
+
+She nodded.
+
+"At Prince's, with Wingrave."
+
+He made no remark, but he seemed far from displeased.
+
+"If I'd only had the pluck," he remarked a little disconsolately, "I might have made thousands by following his advice this week. It was you who put me off, too!"
+
+"It turned out all right?" she asked.
+
+"Exactly as he said. I made five hundred! I might just as well have made five thousand."
+
+"Can you let me have a couple of hundred?" she asked. "The people are all bothering so."
+
+"You know that I can't," he answered irritably. "I had to send the lot to Lewis, and then it wasn't a quarter of what he is pressing for. We shall never get through the season, Ruth, unless--"
+
+She raised her eyes.
+
+"Unless what?"
+
+"Unless something turns up!"
+
+There was a short, uncomfortable silence. Lady Ruth rose to her feet and stood facing the fireplace with her back to him.
+
+"Lumley," she said, "let's face it!"
+
+He gave a little start.
+
+"Face what?" he inquired.
+
+"Ruin, the Bankruptcy Court, and all the rest of it!" she declared, a note of defiance creeping into her tone.
+
+Her husband's face was white with astonishment. He stared across at her blankly.
+
+"Are you mad, Ruth?" he exclaimed. "Do you know what you are saying?"
+
+"Quite well," she answered. "I'm a little sick of the whole show. The tradespeople are getting impertinent. I don't even know where to get flowers for dinner tonight or where to go for my Ascot gowns. It must come sooner or later."
+
+"You're talking like a fool," he declared harshly. "Do you know that I should have to give up my seat and my clubs?"
+
+"We could live quietly in the country."
+
+"Country be--hanged!" he exclaimed savagely. "What use is the country to you and me? I'd sooner put a bullet through my brain. Ruth, old lady," he added more gently, "what's gone wrong? You're generally such a well plucked'un! Have you--had a row with Wingrave?" he asked, looking at her anxiously.
+
+"No!"
+
+"Then what is it?"
+
+"Nothing! I've lost my nerve, I suppose!"
+
+"You want a change! It isn't so very long to Cowes now and, thank heavens, that'll cost us nothing. We're going on Wingrave's yacht, aren't we?"
+
+"Yes! We did accept."
+
+Barrington fidgeted for a moment with a paper knife.
+
+"Ruth," he asked, "what's wrong between you and Wingrave?"
+
+"Nothing," she answered; "I'm afraid of him, that's all!"
+
+"Afraid of him! Afraid of Wingrave!" he repeated.
+
+"Yes! I do not think that he has forgotten. I think that he means to make us suffer."
+
+Barrington was almost dignified.
+
+"I never heard such nonsense in my life, Ruth!" he exclaimed. "I have watched Wingrave closely, and I have seen no trace of anything of the sort. Nonsense! It is worse than nonsense! You must be getting hysterical. You must get all this rubbish out of your head. To tell you the truth--"
+
+"Well?"
+
+"I was thinking that you might ask Wingrave to help us a bit. I don't believe he'd hesitate for a moment."
+
+Ruth looked her husband in the face. There was a curious expression in her eyes.
+
+"Do you think that it would be wise of me to ask him?" she demanded.
+
+"Why not?" he answered. "You can take care of yourself. I can trust you."
+
+"I told you that I was afraid of Wingrave," she reminded him. "I can take care of myself as a rule--and I do--as you know. I have elected to be one of the unfashionables in that respect. But to ask Wingrave for money is more than I dare do."
+
+"Then I shall ask him myself," Barrington declared.
+
+She picked up her gloves and turned to leave the room.
+
+"I should prefer even that," she said.

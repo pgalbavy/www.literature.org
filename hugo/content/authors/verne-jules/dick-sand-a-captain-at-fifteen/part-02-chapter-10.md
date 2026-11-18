@@ -1,0 +1,100 @@
+---
+title: "Part 2 - Chapter 10 - The Great Market Day"
+weight: 28
+aliases:
+  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-10.html"
+---
+
+Dick Sand's action had been so rapid that no one could stop him. A few natives threw themselves upon him, and he would have been murdered had not Negoro appeared.
+
+At a sign from the Portuguese, the natives drew back, raised Harris's corpse and carried it away. Alvez and Coimbra demanded Dick Sand's immediate death, but Negoro said to them in a low voice that they would lose nothing by waiting. The order was given to take away the young novice, with a caution not to lose sight of him for a moment.
+
+Dick Sand had seen Negoro for the first time since their departure from the coast. He knew that this wretch was alone responsible for the loss of the "Pilgrim." He ought to hate him still more than his accomplices. And yet, after having struck the American, he scorned to address a word to Negoro. Harris had said that Mrs. Weldon and her child had succumbed. Nothing interested him now, not even what they would do with him. They would send him away. Where? It did not matter.
+
+Dick Sand, heavily chained, was left on the floor of a pen without a window, a kind of dungeon where the trader, Alvez, shut up the slaves condemned to death for rebellion or unlawful acts. There he could no longer have any communication with the exterior; he no longer dreamed of regretting it. He had avenged those whom he loved, who no longer lived. Whatever fate awaited him, he was ready for it.
+
+It will be understood that if Negoro had stopped the natives who were about to punish Harris's murderer, it was only because he wished to reserve Dick Sand for one of those terrible torments of which the natives hold the secret. The ship's cook held in his power the captain of fifteen years. He only wanted Hercules to make his vengeance complete.
+
+Two days afterward, May 28th, the sale began, the great "lakoni," during which the traders of the principal factories of the interior would meet the natives of the neighboring provinces. This market was not specially for the sale of slaves, but all the products of this fertile Africa would be gathered there with the producers.
+
+From early morning all was intense animation on the vast "tchitoka" of Kazounde, and it is difficult to give a proper idea of the scene. It was a concourse of four or five thousand persons, including Alvez's slaves, among whom were Tom and his companions. These four men, for the reason that they belonged to a different race, are all the more valuable to the brokers in human flesh. Alvez was there, the first among all. Attended by Coimbra, he offered the slaves in lots. These the traders from the interior would form into caravans. Among these traders were certain half-breeds from Oujiji, the principal market of Lake Tanganyika, and some Arabs, who are far superior to the half-breeds in this kind of trade.
+
+The natives flocked there in great numbers. There were children, men, and women, the latter being animated traders, who, as regards a genius for bargaining, could only be compared to their white sisters.
+
+In the markets of large cities, even on a great day of sale, there is never much noise or confusion. Among the civilized the need of selling exceeds the desire to buy. Among these African savages offers are made with as much eagerness as demands.
+
+The "lakoni" is a festival day for the natives of both sexes, and if for good reasons they do not put on their best clothes, they at least wear their handsomest ornaments.
+
+Some wear the hair divided in four parts, covered with cushions, and in plaits tied like a chignon or arranged in pan-handles on the front of the head with bunches of red feathers. Others have the hair in bent horns sticky with red earth and oil, like the red lead used to close the joints of machines. In these masses of real or false hair is worn a bristling assemblage of skewers, iron and ivory pins, often even, among elegant people, a tattooing-knife is stuck in the crisp mass, each hair of which is put through a "sofi" or glass bead, thus forming a tapestry of different-colored grains. Such are the edifices most generally seen on the heads of the men.
+
+The women prefer to divide their hair in little tufts of the size of a cherry, in wreaths, in twists the ends of which form designs in relief, and in corkscrews, worn the length of the face. A few, more simple and perhaps prettier, let their long hair hang down the back, in the English style, and others wear it cut over the forehead in a fringe, like the French. Generally they wear on these wigs a greasy putty, made of red clay or of glossy "ukola," a red substance extracted from sandal-wood, so that these elegant persons look as if their heads were dressed with tiles.
+
+It must not be supposed that this luxury of ornamentation is confined to the hair of the natives. What are ears for if not to pass pins of precious wood through, also copper rings, charms of plaited maize, which draw them forward, or little gourds which do for snuff-boxes, and to such an extent that the distended lobes of these appendages fall sometimes to the shoulders of their owners?
+
+After all, the African savages have no pockets, and how could they have any? This gives rise to the necessity of placing where they can their knives, pipes, and other customary objects. As for the neck, arms, wrists, legs, and ankles, these various parts of the body are undoubtedly destined to carry the copper and brass bracelets, the horns cut off and decorated with bright buttons, the rows of red pearls, called same-sames or "talakas," and which were very fashionable. Besides, with these jewels, worn in profusion, the wealthy people of the place looked like traveling shrines.
+
+Again, if nature gave the natives teeth, was it not that they could pull out the upper and lower incisors, file them in points, and curve them in sharp fangs like the fangs of a rattlesnake? If she has placed nails at the end of the fingers, is it not that they may grow so immoderately that the use of the hand is rendered almost impossible? If the skin, black or brown, covers the human frame, is it not so as to zebra it by "temmbos" or tattooings representing trees, birds, crescents, full moons, or waving lines, in which Livingstone thought he could trace the designs of ancient Egypt? This tattooing, done by fathers, is practised by means of a blue matter introduced into the incisions, and is "stereotyped" point by point on the bodies of the children, thus establishing to what tribe or to what family they belong. The coat-of-arms must be engraved on the breast, when it cannot be painted on the panel of a carriage.
+
+Such are the native fashions in ornament. In regard to garments properly so called, they are summed up very easily; for the men, an apron of antelope leather, reaching to the knees, or perhaps a petticoat of a straw material of brilliant colors; for the women, a belt of pearls, supporting at the hips a green petticoat, embroidered in silk, ornamented with glass beads or coury; sometimes they wear garments made of "lambba," a straw material, blue, black, and yellow, which is much prized by the natives of Zanzibar.
+
+These, of course, are the negroes of the best families. The others, merchants, and slaves, are seldom clothed. The women generally act as porters, and reach the market with enormous baskets on their back, which they hold by means of a leathern strap passed over the forehead. Then, their places being taken, and the merchandise unpacked, they squat in their empty baskets.
+
+The astonishing fertility of the country causes the choice alimentary produces to be brought to this "lakoni." There were quantities of the rice which returns a hundred per cent., of the maize, which, in three crops in eight months, produces two hundred per cent., the sesamum, the pepper of Ouroua, stronger than the Cayenne, allspice, tapioca, sorghum, nutmegs, salt, and palm-oil.
+
+Hundreds of goats were gathered there, hogs, sheep without wool, evidently of Tartar origin, quantities of poultry and fish. Specimens of pottery, very gracefully turned, attracted the eyes by their violent colors.
+
+Various drinks, which the little natives cried about in a squeaking voice, enticed the unwary, in the form of plantain wine, "pombe," a liquor in great demand, "malofou," sweet beer, made from the fruit of the banana-tree and mead, a limpid mixture of honey and water fermented with malt.
+
+But what made the Kazounde market still more curious was the commerce in stuffs and ivory.
+
+In the line of stuffs, one might count by thousands of "choukkas" or armfuls, the "Mericani" unbleached calico, come from Salem, in Massachusetts, the "kanaki," a blue gingham, thirty-four inches wide, the "sohari," a stuff in blue and white squares, with a red border, mixed with small blue stripes. It is cheaper than the "dioulis," a silk from Surat, with a green, red or yellow ground, which is worth from seventy to eighty dollars for a remnant of three yards when woven with gold.
+
+As for ivory, it was brought from all parts of Central Africa, being destined for Khartoum, Zanzibar, or Natal. A large number of merchants are employed solely in this branch of African commerce.
+
+Imagine how many elephants are killed to furnish the five hundred thousand kilograms of ivory, which are annually exported to European markets, and principally to the English! The western coast of Africa alone produces one hundred and forty tons of this precious substance. The average weight is twenty-eight pounds for a pair of elephant's tusks, which, in 1874, were valued as high as fifteen hundred francs; but there are some that weigh one hundred and seventy-five pounds, and at the Kazounde market, admirers would have found some admirable ones. They were of an opaque ivory, translucid, soft under the tool, and with a brown rind, preserving its whiteness and not growing yellow with time like the ivories of other provinces.
+
+And, now, how are these various business affairs regulated between buyers and sellers? What is the current coin? As we have said, for the African traders this money is the slave.
+
+The native pays in glass beads of Venetian manufacture, called "catchocolos," when they are of a lime white; "bouboulous," when they are black; "sikounderetches," when they are red. These beads or pearls, strung in ten rows or "khetes," going twice around the neck, make the "foundo," which is of great value. The usual measure of the beads is the "frasilah," which weighs seventy pounds. Livingstone, Cameron, and Stanley were always careful to be abundantly provided with this money.
+
+In default of glass beads, the "pice," a Zanzibar piece, worth four centimes, and the "vroungouas," shells peculiar to the eastern coasts, are current in the markets of the African continent. As for the cannibal tribes, they attach a certain value to the teeth of the human jaw, and at the "lakoni," these chaplets were to be seen on the necks of natives, who had no doubt eaten their producers; but these teeth were ceasing to be used as money.
+
+Such, then, was the appearance of the great market. Toward the middle of the day the gaiety reached a climax; the noise became deafening. The fury of the neglected venders, and the anger of the overcharged customers, were beyond description. Thence frequent quarrels, and, as we know, few guardians of the peace to quell the fray in this howling crowd.
+
+Toward the middle of the day, Alvez gave orders to bring the slaves, whom he wished to sell, to the square. The crowd was thus increased by two thousand unfortunate beings of all ages, whom the trader had kept in pens for several months. This "stock" was not in a bad condition. Long rest and sufficient food had improved these slaves so as to look to advantage at the "lakoni." As for the last arrivals, they could not stand any comparison with them, and, after a month in the pens, Alvez could certainly have sold them with more profit. The demands, however, from the eastern coast, were so great that he decided to expose and sell them as they were.
+
+This was a misfortune for Tom and his three companions. The drivers pushed them into the crowd that invaded the "tchitoka." They were strongly chained, and their glances told what horror, what fury and shame overwhelmed them.
+
+"Mr. Dick is not there," Bat said, after some time, during which he had searched the vast plain with his eyes.
+
+"No," replied Acteon, "they will not put him up for sale."
+
+"He will be killed, if he is not already," added the old black. "As for us, we have but one hope left, which is, that the same trader will buy us all. It would be a great consolation not to be separated."
+
+"Ah! to know that you are far away from me, working like a slave, my poor, old father!" cried Bat, sobbing aloud.
+
+"No," said Tom. "No; they will not separate us, and perhaps we might - - "
+
+"If Hercules were here!" cried Austin.
+
+But the giant had not reappeared. Since the news sent to Dick Sand, they had heard no one mention either Hercules or Dingo. Should they envy him his fate? Why, yes; for if Hercules were dead, he was saved from the chains of slavery!
+
+Meanwhile, the sale had commenced. Alvez's agents marched the various lots of men, women and children through the crowd, without caring if they separated mothers from their infants. May we not call these beings "unfortunates," who were treated only as domestic animals?
+
+Tom and his companions were thus led from buyers to buyers. An agent walked before them naming the price adjudged to their lot. Arab or mongrel brokers, from the central provinces, came to examine them. They did not discover in them the traits peculiar to the African race, these traits being modified in America after the second generation. But these vigorous and intelligent negroes, so very different from the blacks brought from the banks of the Zambeze or the Loualaba, were all the more valuable. They felt them, turned them, and looked at their teeth. Horse-dealers thus examine the animals they wish to buy. Then they threw a stick to a distance, made them run and pick it up, and thus observed their gait.
+
+This was the method employed for all, and all were submitted to these humiliating trials. Do not believe that these people are completely indifferent to this treatment! No, excepting the children, who cannot comprehend the state of degradation to which they are reduced, all, men or women, were ashamed.
+
+Besides, they were not spared injuries and blows. Coimbra, half drunk, and Alvez's agents, treated them with extreme brutality, and from their new masters, who had just paid for them in ivory stuffs and beads, they would receive no better treatment. Violently separated, a mother from her child, a husband from his wife, a brother from a sister, they were not allowed a last caress nor a last kiss, and on the "lakoni" they saw each other for the last time.
+
+In fact, the demands of the trade exacted that the slaves should be sent in different directions, according to their sex. The traders who buy the men do not buy women. The latter, in virtue of polygamy, which is legal among the Mussulmans, are sent to the Arabic countries, where they are exchanged for ivory. The men, being destined to the hardest labor, go to the factories of the two coasts, and are exported either to the Spanish colonies or to the markets of Muscat and Madagascar. This sorting leads to heart-breaking scenes between those whom the agents separate, and who will die without ever seeing each other again.
+
+The four companions in turn submitted to the common fate. But, to tell the truth, they did not fear this event. It was better for them to be exported into a slave colony. There, at least, they might have a chance to protest. On the contrary, if sent to the interior, they might renounce all hope of ever regaining their liberty.
+
+It happened as they wished. They even had the almost unhoped for consolation of not being separated. They were in brisk demand, being wanted by several traders. Alvez clapped his hands. The prices rose. It was strange to see these slaves of unknown value in the Kazounde market, and Alvez had taken good care to conceal where they came from. Tom and his friends, not speaking the language of the country, could not protest.
+
+Their master was a rich Arab trader, who in a few days would send them to Lake Tanganyika, the great thoroughfare for slaves; then, from that point, toward the factories of Zanzibar.
+
+Would they ever reach there, through the most unhealthy and the most dangerous countries of Central Africa? Fifteen hundred miles to march under these conditions, in the midst of frequent wars, raised and carried on between chiefs, in a murderous climate. Was old Tom strong enough to support such misery? Would he not fall on the road like old Nan? But the poor men were not separated. The chain that held them all was lighter to carry. The Arab trader would evidently take care of merchandise which promised him a large profit in the Zanzibar market.
+
+Tom, Bat, Acteon, and Austin then left the place. They saw and heard nothing of the scene which was to end the great "lakoni" of Kazounde.

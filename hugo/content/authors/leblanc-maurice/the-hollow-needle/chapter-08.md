@@ -1,0 +1,288 @@
+---
+title: "Chapter 8 - From Caesar To Lupin"
+weight: 8
+aliases:
+  - "/authors/leblanc-maurice/the-hollow-needle/chapter-08.html"
+---
+
+Dash it all, it took me ten days! Me! Lupin!
+
+You will want ten years, at least!--
+
+These words, uttered by Lupin after leaving the Chateau de Velines, had no little influence on Beautrelet's conduct.
+
+Though very calm in the main and invariably master of himself, Lupin, nevertheless, was subject to moments of exaltation, of a more or less romantic expansiveness, at once theatrical and good-humored, when he allowed certain admissions to escape him, certain imprudent speeches which a boy like Beautrelet could easily turn to profit.
+
+Rightly or wrongly, Beautrelet read one of these involuntary admissions into that phrase. He was entitled to conclude that, if Lupin drew a comparison between his own efforts and Beautrelet's in pursuit of the truth about the Hollow Needle, it was because the two of them possessed identical means of attaining their object, because Lupin had no elements of success different from those possessed by his adversary. The chances were alike. Now, with the same chances, the same elements of success, the same means, ten days had been enough for Lupin.
+
+What were those elements, those means, those chances? They were reduced, when all was said, to a knowledge of the pamphlet published in 1815, a pamphlet which Lupin, no doubt, like Massiban, had found by accident and thanks to which he had succeeded in discovering the indispensable document in Marie Antoinette's book of hours.
+
+Therefore, the pamphlet and the document were the only two fundamental facts upon which Lupin had relied. With these he had built up the whole edifice. He had had no extraneous aid. The study of the pamphlet and the study of the document--full stop--that was all.
+
+Well, could not Beautrelet confine himself to the same ground? What was the use of an impossible struggle? What was the use of those vain investigations, in which, even supposing that he avoided the pitfalls that were multiplied under his feet, he was sure, in the end, to achieve the poorest of results?
+
+His decision was clear and immediate; and, in adopting it, he had the happy instinct that he was on the right path. He began by leaving his Janson-de-Sailly schoolfellow, without indulging in useless recriminations, and, taking his portmanteau with him, went and installed himself, after much hunting about, in a small hotel situated in the very heart of Paris. This hotel he did not leave for days. At most, he took his meals at the table d'hote. The rest of the time, locked in his room, with the window-curtains close-drawn, he spent in thinking.
+
+"Ten days," Arsene Lupin had said.
+
+Beautrelet, striving to forget all that he had done and to remember only the elements of the pamphlet and the document, aspired eagerly to keep within the limit of those ten days. However the tenth day passed and the eleventh and the twelfth; but, on the thirteenth day, a gleam lit up his brain and, very soon, with the bewildering rapidity of those ideas which develop in us like miraculous plants, the truth emerged, blossomed, gathered strength. On the evening of the thirteenth day, he certainly did not know the answer to the problem, but he knew, to a certainty, one of the methods which Lupin had, beyond a doubt, employed.
+
+It was a very simple method, hinging on this one question: Is there a link of any sort uniting all the more or less important historic events with which the pamphlet connects the mystery of the Hollow Needle?
+
+The great diversity of these events made the question difficult to answer. Still, the profound examination to which Beautrelet applied himself ended by pointing to one essential characteristic which was common to them all. Each one of them, without exception, had happened within the boundaries of the old kingdom of Neustria, which correspond very nearly with those of our present-day Normandy. All the heroes of the fantastic adventure are Norman, or become Norman, or play their part in the Norman country.
+
+What a fascinating procession through the ages! What a rousing spectacle was that of all those barons, dukes and kings, starting from such widely opposite points to meet in this particular corner of the world! Beautrelet turned the pages of history at haphazard: it was Rolf, or Rou, or Rollo, first Duke of Normandy, who was master of the secret of the Needle, according to the treaty of Saint-Clair-sur-Epte!
+
+It was William the Conqueror, Duke of Normandy and King of England, whose bannerstaff was pierced like a needle!
+
+It was at Rouen that the English burnt Joan of Arc, mistress of the secret!
+
+And right at the beginning of the adventure, who is that chief of the Caleti who pays his ransom to Caesar with the secret of the Needle but the chief of the men of the Caux country, which lies in the very heart of Normandy?
+
+The supposition becomes more definite. The field narrows. Rouen, the banks of the Seine, the Caux country: it really seems as though all roads lead in that direction. Two kings of France are mentioned more particularly, after the secret is lost by the Dukes of Normandy and their heirs, the kings of England, and becomes the royal secret of France; and these two are King Henry IV., who laid siege to Rouen and won the battle of Arques, near Dieppe, and Francis I., who founded the Havre and uttered that suggestive phrase:
+
+"The kings of France carry secrets that often decide the fate of towns!"
+
+Rouen, Dieppe, the Havre: the three angles of the triangle, the three large towns that occupy the three points. In the centre, the Caux country.
+
+The seventeenth century arrives. Louis XIV. burns the book in which a person unknown reveals the truth. Captain de Larbeyrie masters a copy, profits by the secret thus obtained, steals a certain number of jewels and dies by the hand of highway murderers. Now at which spot is the ambush laid? At Gaillon! At Gaillon, a little town on the road leading from Havre, Rouen or Dieppe to Paris!
+
+A year later, Louis XIV. buys a domain and builds the Chateau de l'Aiguille. Where does he select his site? In the Midlands of France, with the result that the curious are thrown off the scent and do not hunt about in Normandy.
+
+Rouen, Dieppe, the Havre--the Cauchois triangle--everything lies there. On one side, the sea; on another, the Seine: on the third, the two valleys that lead from Rouen to Dieppe.
+
+A light flashed across Beautrelet's mind. That extent of ground, that country of the high tablelands which run from the cliffs of the Seine to the cliffs of the Channel almost invariably constituted the field of operations of Arsene Lupin. For ten years, it was just this district which he parcelled out for his purposes, as though he had his haunt in the very centre of the region with which, the legend of the Hollow Needle was most closely connected.
+
+The affair of Baron Cahorn?[3] Or the banks of the Seine, between Rouen and the Havre.
+
+[3] The Seven of Hearts, by Maurice Leblanc. II; Arsene Lupin in Prison
+
+The Thibermenil case?[4] At the other end of the tableland, between Rouen and Dieppe.
+
+[4] The Seven of Hearts. IX: Holmlock Shears Arrives Too Late.
+
+The Gruchet, Montigny, Crasville burglaries? In the midst of the Caux country.
+
+Where was Lupin going when he was attacked and bound hand and foot, in his compartment by Pierre Onfrey, the Auteuil murderer?[5] To Rouen.
+
+[5] The Seven of Hearts. IV: The Mysterious Railway-passenger.
+
+Where was Holmlock Shears, Lupin's prisoner, put on board ship?[6] Near the Havre.
+
+[6] Arsene Lupin versus Holmlock Shears, by Maurice Leblanc, Chapter V: Kidnapped.
+
+And what was the scene of the whole of the present tragedy? Ambrumesy, on the road between the Havre and Dieppe.
+
+Rouen, Dieppe, the Havre: always the Cauchois triangle.
+
+And so, a few years earlier, possessing the pamphlet and knowing the hiding-place in which Marie Antoinette had concealed the document, Arsene Lupin had ended by laying his hand on the famous book of hours. Once in possession of the document, he took the field, "found" and settled down as in a conquered country.
+
+Beautrelet took the field.
+
+He set out in genuine excitement, thinking of the same journey which Lupin had taken, of the same hopes with which he must have throbbed when he thus went in search of the tremendous secret which was to arm him with so great a power. Would his, Beautrelet's efforts have the same victorious results?
+
+He left Rouen early in the morning, on foot, with his face very much disguised and his bag at the end of a stick on his shoulder, like an apprentice doing his round of France. He walked straight to Duclair, where he lunched. On leaving this town, he followed the Seine and practically did not lose sight of it again. His instinct, strengthened, moreover, by numerous influences, always brought him back to the sinuous banks of the stately river. When the Chateau du Malaquis was robbed, the objects stolen from Baron Cahorn's collection were sent by way of the Seine. The old carvings removed from the chapel at Ambrumesy were carried to the Seine bank. He pictured the whole fleet of pinnaces performing a regular service between Rouen and the Havre and draining the works of art and treasures from a countryside to dispatch them thence to the land of millionaires.
+
+"I'm burning! I'm burning!" muttered the boy, gasping under the truth, which came to him in a mighty series of shocks and took away his breath.
+
+The checks encountered on the first few days, did not discourage him. He had a firm and profound belief in the correctness of the supposition that was guiding him. It was bold, perhaps, and extravagant; no matter: it was worthy of the adversary pursued. The supposition was on a level with the prodigious reality that bore the name of Lupin. With a man like that, of what good could it be to look elsewhere than in the domain of the enormous, the exaggerated, the superhuman?
+
+Jumieges, the Mailleraye, Saint-Wandrille, Caudebec, Tancarville, Quillebeuf were places filled with his memories. How often he must have contemplated the glory of their Gothic steeples or the splendor of their immense ruins!
+
+But the Havre, the neighborhood of the Havre drew Isidore like a beacon-fire.
+
+"The kings of France carry secrets that often decide the fate of towns!"
+
+Cryptic words which, suddenly, for Beautrelet, shone bright with clearness! Was this not an exact statement of the reasons that determined Francis I. to create a town on this spot and was not the fate of the Havre-de-Grace linked with the very secret of the Needle?
+
+"That's it, that's it," stammered Beautrelet, excitedly. "The old Norman estuary, one of the essential points, one of the original centres around which our French nationality was formed, is completed by those two forces, one in full view, alive, known to all, the new port commanding the ocean and opening on the world; the other dim and obscure, unknown and all the more alarming, inasmuch as it is invisible and impalpable. A whole side of the history of France and of the royal house is explained by the Needle, even as it explains the whole story of Arsene Lupin. The same sources of energy and power supply and renew the fortunes of kings and of the adventurer."
+
+Beautrelet ferreted and snuffed from village to village, from the river to the sea, with his nose in the wind, his ears pricked, trying to compel the inanimate things to surrender their deep meaning. Ought this hill-slope to be questioned? Or that forest? Or the houses of this hamlet? Or was it among the insignificant phrases spoken by that peasant yonder that he might hope to gather the one little illuminating word?
+
+One morning, he was lunching at an inn, within sight of Honfleur, the old city of the estuary. Opposite him was sitting one of those heavy, red-haired Norman horse-dealers who do the fairs of the district, whip in hand and clad in a long smock-frock. After a moment, it seemed to Beautrelet that the man was looking at him with a certain amount of attention, as though he knew him or, at least, was trying to recognize him.
+
+"Pooh," he thought, "there's some mistake: I've never seen that merchant before, nor he me."
+
+As a matter of fact, the man appeared to take no further interest in him. He lit his pipe, called for coffee and brandy, smoked and drank.
+
+When Beautrelet had finished his meal, he paid and rose to go. A group of men entered just as he was about to leave and he had to stand for a few seconds near the table at which the horse-dealer sat. He then heard the man say in a low voice:
+
+"Good-afternoon, M. Beautrelet."
+
+Without hesitation, Isidore sat down beside the man and said:
+
+"Yes, that is my name--but who are you? How did you know me?"
+
+"That's not difficult--and yet I've only seen your portrait in the papers. But you are so badly--what do you call it in French--so badly made-up."
+
+He had a pronounced foreign accent and Beautrelet seemed to perceive, as he looked at him, that he too wore a facial disguise that entirely altered his features.
+
+"Who are you?" he repeated. "Who are you?"
+
+The stranger smiled:
+
+"Don't you recognize me?"
+
+"No, I never saw you before."
+
+"Nor I you. But think. The papers print my portrait also--and pretty often. Well, have you got it?"
+
+"No."
+
+"Holmlock Shears."
+
+It was an amusing and, at the same time, a significant meeting. The boy at once saw the full bearing of it. After an exchange of compliments, he said to Shears:
+
+"I suppose that you are here--because of 'him'?"
+
+"Yes."
+
+"So--so--you think we have a chance--in this direction."
+
+"I'm sure of it."
+
+Beautrelet's delight at finding that Shears's opinion agreed with his own was not unmingled with other feelings. If the Englishman attained his object, it meant that, at the very best, the two would share the victory; and who could tell that Shears would not attain it first?
+
+"Have you any proofs? Any clues?"
+
+"Don't be afraid," grinned the Englishman, who understood his uneasiness. "I am not treading on your heels. With you, it's the document, the pamphlet: things that do not inspire me with any great confidence."
+
+"And with you?"
+
+"With me, it's something different."
+
+"Should I be indiscreet, if--?"
+
+"Not at all. You remember the story of the coronet, the story of the Duc de Charmerac?"[7]
+
+[7] Arsene Lupin, play in four acts, by Maurice Leblanc and Francis de Croisset.
+
+"Yes."
+
+"You remember Victoire, Lupin's old foster-mother, the one whom my good friend Ganimard allowed to escape in a sham prison-van?"
+
+"Yes."
+
+"I have found Victoire's traces. She lives on a farm, not far from National Road No. 25. National Road No. 25 is the road from the Havre to Lille. Through Victoire I shall easily get at Lupin."
+
+"It will take long."
+
+"No matter! I have dropped all my cases. This is the only one I care about. Between Lupin and me, it's a fight--a fight to the death."
+
+He spoke these words with a sort of ferocity that betrayed all his bitterness at the humiliations which he had undergone, all his fierce hatred of the great enemy who had tricked him so cruelly.
+
+"Go away, now," he whispered, "we are observed. It's dangerous. But mark my words: on the day when Lupin and I meet face to face, it will be--it will be tragic."
+
+Beautrelet felt quite reassured on leaving Shears: he need not fear that the Englishman would gain on him. And here was one more proof which this chance interview had brought him: the road from the Havre to Lille passes through Dieppe! It is the great seaside road of the Caux country, the coast road commanding the Channel cliffs! And it was on a farm near this road that Victoire was installed, Victoire, that is to say, Lupin, for one did not move without the other, the master without the blindly devoted servant.
+
+"I'm burning! I'm burning!" he repeated to himself. "Whenever circumstances bring me a new element of information, it confirms my supposition. On the one hand, I have the absolute certainty of the banks of the Seine; on the other, the certainty of the National Road. The two means of communication meet at the Havre, the town of Francis I., the town of the secret. The boundaries are contracting. The Caux country is not large; and, even so, I have only the western portion of the Caux country to search."
+
+He set to work with renewed stubbornness:
+
+"Anything that Lupin has found," he kept on saying to himself, "there is no reason for my not finding."
+
+Certainly, Lupin had some great advantage over him, perhaps a thorough acquaintance with the country, a precise knowledge of the local legends, or less than that, a memory: invaluable advantages these, for he, Beautrelet, knew nothing, was totally ignorant of the country, which he had first visited at the time of the Ambrumesy burglary and then only rapidly, without lingering.
+
+But what did it matter? Though he had to devote ten years of his life to this investigation, he would carry it to a successful issue. Lupin was there. He could see him, he could feel him there. He expected to come upon him at the next turn of the road, on the skirt of the next wood, outside the next village. And, though continually disappointed, he seemed to find in each disappointment a fresh reason for persisting.
+
+Often, he would fling himself on the slope by the roadside and plunge into wild examination of the copy of the document which he always carried on him, a copy, that is to say, with vowels taking the place of the figures:
+
+e . a . a . . e . . e . a . . a . . a . . . e . e . . e . oi . e . . e . . ou . . e . o . . . e . . e . o . . e
+
+[Illustration: drawing of an outline of paper with writing and drawing on it--numbers, dots, some letters, signs and symbols...]
+
+ai . ui . . e . . eu . e
+
+Often, also, according to his habit, he would lie down flat on his stomach in the tall grass and think for hours. He had time enough. The future belonged to him.
+
+With wonderful patience, he tramped from the Seine to the sea, and from the sea to the Seine, going gradually farther, retracing his steps and never quitting the ground until, theoretically speaking, there was not a chance left of gathering the smallest particle upon it.
+
+He studied and explored Montivilliers and Saint-Romani and Octeville and Gonneville and Criquetot.
+
+At night, he knocked at the peasants' doors and asked for a lodging. After dinner, they smoked together and chatted. He made them tell him the stories which they told one another on the long winter nights. And he never omitted to insinuate, slily:
+
+"What about the Needle? The legend of the Hollow Needle? Don't you know that?"
+
+"Upon my word, I don't--never heard of it--"
+
+"Just think--an old wives' tale--something that has to do with a needle. An enchanted needle, perhaps.--I don't know--"
+
+Nothing. No legend, no recollection. And the next morning he walked blithely away again.
+
+One day, he passed through the pretty village of Saint-Jouin, which overlooks the sea, and descending among the chaos of rocks that have slipped from cliffs, he climbed up to the tableland and went in the direction of the dry valley of Bruneval, Cap d'Antifer and the little creek of Belle-Plage. He was walking gaily and lightly, feeling a little tired, perhaps, but glad to be alive, so glad, even, that he forgot Lupin and the mystery of the Hollow Needle and Victoire and Shears, and interested himself in the sight of nature: the blue sky, the great emerald sea, all glittering in the sunshine.
+
+Some straight slopes and remains of brick walls, in which he seemed to recognize the vestiges of a Roman camp, interested him. Then his eyes fell upon a sort of little castle, built in imitation of an ancient fort, with cracked turrets and Gothic windows. It stood on a jagged, rugged, rising promontory, almost detached from the cliff. A barred gate, flanked by iron hand-rails and bristling spikes, guarded the narrow passage.
+
+Beautrelet succeeded in climbing over, not without some difficulty. Over the pointed door, which was closed with an old rusty lock, he read the words:
+
+FORT DE FREFOSSE
+
+He did not attempt to enter, but, turning to the right, after going down a little slope, he embarked upon a path that ran along a ridge of land furnished with a wooden handrail. Right at the end was a cave of very small dimensions, forming a sort of watch-tower at the point of the rock in which it was hollowed out, a rock falling abruptly into the sea.
+
+There was just room to stand up in the middle of the cave. Multitudes of inscriptions crossed one another on the walls. An almost square hole, cut in the stone, opened like a dormer window on the land side, exactly opposite Fort Frefosse, the crenellated top of which appeared at thirty or forty yards' distance.
+
+Beautrelet threw off his knapsack and sat down. He had had a hard and tiring day. He fell asleep for a little. Then the cool wind that blew inside the cave woke him up. He sat for a few minutes without moving, absent-minded, vague-eyed. He tried to reflect, to recapture his still torpid thoughts. And, as he recovered his consciousness, he was on the point of rising, when he received the impression that his eyes, suddenly fixed, suddenly wide-open, saw--
+
+A thrill shook him from head to foot. His hands clutched convulsively and he felt the beads of perspiration forming at the roots of his hair:
+
+"No, no," he stammered. "It's a dream, an hallucination. Let's look: it's not possible!"
+
+He plunged down on his knees and stooped over. Two huge letters, each perhaps a foot long, appeared cut in relief in the granite of the floor. Those two letters, clumsily, but plainly carved, with their corners rounded and their surface smoothed by the wear and tear of centuries, were a D and an F.
+
+D and F! Oh, bewildering miracle! D and F: just two letters of the document! Oh, Beautrelet had no need to consult it to bring before his mind that group of letters in the fourth line, the line of the measurements and indications! He knew them well! They were inscribed for all time at the back of his pupils, encrusted for good and all in the very substance of his brain!
+
+He rose to his feet, went down the steep road, climbed back along the old fort, hung on to the spikes of the rail again, in order to pass, and walked briskly toward a shepherd whose flock was grazing some way off on a dip in the tableland:
+
+"That cave, over there--that cave--"
+
+His lips trembled and he tried to find the words that would not come. The shepherd looked at him in amazement. At last, Isidore repeated:
+
+"Yes, that cave--over there--to the right of the fort. Has it a name?"
+
+"Yes, I should think so. All the Etretat folk like to call it the Demoiselles."
+
+"What?--What?--What's that you say?"
+
+"Why, of course--it's the Chambre des Demoiselles."
+
+Isidore felt like flying at his throat, as though all the truth lived in that man and he hoped to get it from him at one swoop, to tear it from him.
+
+The Demoiselles! One of the words, one of the only three known words of the document!
+
+A whirlwind of madness shook Beautrelet where he stood. And it rose all around him, blew upon him like a tempestuous squall that came from the sea, that came from the land, that came from every direction and whipped him with great lashes of the truth.
+
+He understood. The document appeared to him in its real sense. The Chambre des Demoiselles--Etretat--
+
+"That's it," he thought, his brain filled with light, "it must be that. But why didn't I guess earlier?"
+
+He said to the shepherd, in a low voice:
+
+"That will do--go away--you can go--thank you."
+
+The man, not knowing what to think, whistled to his dog and went.
+
+Left alone, Beautrelet returned to the fort. He had almost passed it when, suddenly, he dropped to the ground and lay cowering against a piece of wall. And, wringing his hands, he thought:
+
+"I must be mad! If 'he' were to see me! Or his accomplices! I've been moving about for an hour--!"
+
+He did not stir another limb.
+
+The sun went down. Little by little, the night mingled with the day, blurring the outline of things.
+
+Then, with little imperceptible movements, flat on his stomach, gliding, crawling, he crept along one of the points of the promontory to the extreme edge of the cliff.
+
+He reached it. Stretching out his hands, he pushed aside some tufts of grass and his head appeared over the precipice.
+
+Opposite him, almost level with the cliff, in the open sea rose an enormous rock, over eighty yards high, a colossal obelisk, standing straight on its granite base, which showed at the surface of the water, and tapering toward the summit, like the giant tooth of a monster of the deep. White with the dirty gray white of the cliff, the awful monolith was streaked with horizontal lines marked by flint and displaying the slow work of the centuries, which had heaped alternate layers of lime and pebble-stone one atop of the other.
+
+Here and there, a fissure, a break; and, wherever these occurred, a scrap of earth, with grass and leaves.
+
+And all this was mighty and solid and formidable, with the look of an indestructible thing against which the furious assault of the waves and storms could not prevail. And it was definite and permanent and grand, despite the grandeur of the cliffy rampart that commanded it, despite the immensity of the space in which it stood.
+
+Beautrelet's nails dug into the soil like the claws of an animal ready to leap upon its prey. His eyes penetrated the wrinkled texture of the rock, penetrated its skin, so it seemed to him, its very flesh. He touched it, felt it, took cognizance and possession of it, absorbed and assimilated it.
+
+The horizon turned crimson with all the flames of the vanished sun; and long, red clouds, set motionless in the sky, formed glorious landscapes, fantastic lagoons, fiery plains, forests of gold, lakes of blood, a whole glowing and peaceful phantasmagoria.
+
+The blue of the sky grew darker. Venus shone with a marvelous brightness; then other stars lit up, timid as yet.
+
+And Beautrelet suddenly closed his eyes and convulsively pressed his folded arms to his forehead. Over there--oh, he felt as though he would die for joy, so great was the cruel emotion that wrung his heart!--over there, almost at the top of the Needle of Etretat, a little below the extreme point round which the sea-mews fluttered, a thread of smoke came filtering through a crevice, as though from an invisible chimney, a thread of smoke rose in slow spirals in the calm air of the twilight.

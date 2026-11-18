@@ -1,0 +1,28 @@
+---
+title: "Chapter 23"
+weight: 23
+aliases:
+  - "/authors/tarkington-booth/the-flirt/chapter-23.html"
+---
+
+It is probable that he got the truth out of her, perhaps all of it. That will remain a matter of doubt; Cora's evidence, if she gave it, not being wholly trustworthy in cases touching herself. But she felt no need of mentioning to any one that she had seen her former lover that day. He had gone before the return of Enfield, Mr. Trumble's assistant, who was a little later than usual, it happened; and the extreme nervousness and preoccupation exhibited by Cora in telling Enfield of his employer's new plans were attributed by the cashier to the natural agitation of a lady about to wed in a somewhat unusual (though sensible) manner.
+
+It is the more probable that she told Ray the whole truth, because he already knew something of Corliss's record abroad. On the dusty desk in Ray's own office lay a letter, received that morning from the American Consul at Naples, which was luminous upon that subject, and upon the probabilities of financial returns for the investment of a thousand dollars in the alleged oil-fields of Basilicata.
+
+In addition, Cora had always found it very difficult to deceive Vilas: he had an almost perfect understanding of a part of her nature; she could never far mislead him about herself. With her, he was intuitive and jumped to strange, inconsistent, true conclusions, as women do. He had the art of reading her face, her gestures; he had learned to listen to the tone of her voice more than to what she said. In his cups, too, he had fitful but almost demoniac inspirations for hidden truth.
+
+And, remembering that Cora always "got even," it remains finally to wonder if she might not have told him everything at the instance of some shadowy impulse in that direction. There may have been a luxury in whatever confession she made; perhaps it was not entirely forced from her, and heaven knows how she may have coloured it. There was an elusive, quiet satisfaction somewhere in her subsequent expression; it lurked deep under the surface of the excitement with which she talked to Enfield of her imminent marital abduction of his small boss.
+
+Her agitation, a relic of the unknown interview just past, simmered down soon, leaving her in a becoming glow of colour, with slender threads of moisture brilliantly outlining her eyelids. Mr. Enfield, a young, well-favoured and recent importation from another town, was deliciously impressed by the charm of the waiting lady. They had not met; and Enfield wondered how Trumble had compassed such an enormous success as this; and he wished that he had seen her before matters had gone so far. He thought he might have had a chance. She seemed pleasantly interested in him, even as it was—and her eyes were wonderful, with their swift, warm, direct little plunges into those of a chance comrade of the moment. She went to the window, in her restlessness, looking down upon the swarming street below, and the young man, standing beside her, felt her shoulder most pleasantly though very lightly—in contact with his own, as they leaned forward, the better to see some curiosity of advertising that passed. She turned her face to his just then, and told him that he must come to see her: the wedding journey would be long, she said, but it would not be forever.
+
+Trumble bounded in, shouting that everything was attended to, except instructions to Enfield, whom he pounded wildly upon the back. He began signing papers; a stenographer was called from another room of his offices; and there was half an hour of rapid-fire. Cora's bag came, and she gave the bearer the note for Laura; another bag was brought for Wade; and both bags were carried down to the automobile the bridegroom had left waiting in the street. Last, came a splendid cluster of orchids for the bride to wear, and then Wade, with his arm about her, swept her into the corridor, and the stirred Enfield was left to his own beating heart, and the fresh, radiant vision of this startling new acquaintance: the sweet mystery of the look she had thrown back at him over his employer's shoulder at the very last. "Do not forget *me*!" it had seemed to say. "We shall come back—some day."
+
+The closed car bore the pair to the little grim marriage-shop quickly enough, though they were nearly run down by a furious police patrol automobile, at a corner near the Richfield Hotel. Their escape was by a very narrow margin of safety, and Cora closed her eyes. Then she was cross, because she had been frightened, and commanded Wade cavalierly to bid the driver be more careful.
+
+Wade obeyed sympathetically. "Of course, though, it wasn't altogether his fault," he said, settling back, his arm round his lady's waist. "It's an outrage for the police to break their own rules that way. I guess they don't need to be in a hurry any more than *we* do!"
+
+The Justice made short work of it.
+
+As they stood so briefly before him, there swept across her vision the memory of what she had always prophesied as her wedding:—a crowded church, "The Light That Breathed O'er Eden" from an unseen singer; then the warm air trembling to the Lohengrin march; all heads turning; the procession down the aisle; herself appearing—climax of everything—a delicious and brilliant figure: graceful, rosy, shy, an imperial prize for the groom, who in these foreshadowings had always been very indistinct. The picture had always failed in outline there: the bridegroom's nearest approach to definition had never been clearer than a composite photograph. The truth is, Cora never in her life wished to be married.
+
+But she was.

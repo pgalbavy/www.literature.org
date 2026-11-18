@@ -1,0 +1,20 @@
+---
+title: "Chapter 8"
+weight: 8
+aliases:
+  - "/authors/lawrence-david-herbert/the-captains-doll/chapter-08.html"
+---
+
+The chief thing that the captain knew, at this juncture, was that a hatchet had gone through the ligatures and veins that connected him with the people of his affection, and that he was left with the bleeding ends of all his vital human relationships. Why it should be so he did not know. But then one never can know the whys and the wherefores of one's passional changes.
+
+He only knew that it was so. The emotional flow between him and all the people he knew and cared for was broken, and for the time being he was conscious only of the cleavage. The cleavage that had occurred between him and his fellow-men, the cleft that was now between him and them. It was not the fault of anybody or anything. He could neither reproach himself nor them. What had happened had been preparing for a long time. Now suddenly the cleavage. There had been a long, slow weaning away: and now this sudden silent rupture.
+
+What it amounted to principally was that he did not want even to see Hannele. He did not want to think of her even. But neither did he want to see anybody else, or to think of anybody else. He shrank with a feeling almost of disgust from his friends and acquaintances, and their expressions of sympathy. It affected him with instantaneous disgust when anybody wanted to share emotions with him. He did not want to share emotions or feelings of any sort. He wanted to be by himself, essentially, even if he was moving about among other people.
+
+So he went to England to settle his own affairs, and out of duty to see his children. He wished his children all the well in the world - everything except any emotional connexion with himself. He decided to take his girl away from the convent at once, and to put her into a jolly English school. His boy was all right where he was.
+
+The captain had now an income sufficient to give him his independence, but not sufficient to keep up his wife's house. So he prepared to sell the house and most of the things in it. He decided also to leave the army as soon as he could be free. And he thought he would wander about for a time, till he came upon something he wanted.
+
+So the winter passed, without his going back to Germany. He was free of the army. He drifted along, settling his affairs. They were of no very great importance. And all the time he never wrote once to Hannele. He could not get over his disgust that people insisted on his sharing their emotions. He could not bear their emotions, neither their activities. Other people might have all the emotions and feelings and earnestness and busy activities they liked. Quite nice even that they had such a multifarious commotion for themselves. But the moment they approached him to spread their feelings over him or to entangle him in their activities a helpless disgust came up in him, and until he could get away he felt sick, even physically.
+
+This was no state of mind for a lover. He could not even think of Hannele. Anybody else he felt he need not think about. He was deeply, profoundly thankful that his wife was dead. It was an end of pity now; because, poor thing, she had escaped and gone her own way into the void, like a flown bird.

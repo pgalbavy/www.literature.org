@@ -1,0 +1,8 @@
+---
+title: "The Cat And The Cock"
+weight: 46
+aliases:
+  - "/authors/aesop/fables/chapter-44.html"
+---
+
+A CAT caught a Cock, and pondered how he might find a reasonable excuse for eating him. He accused him of being a nuisance to men by crowing in the nighttime and not permitting them to sleep. The Cock defended himself by saying that he did this for the benefit of men, that they might rise in time for their labors. The Cat replied, "Although you abound in specious apologies, I shall not remain supperless"; and he made a meal of him.

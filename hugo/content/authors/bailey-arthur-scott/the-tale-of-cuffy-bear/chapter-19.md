@@ -1,0 +1,34 @@
+---
+title: "Chapter 19 - The Little Bear Peter"
+weight: 19
+aliases:
+  - "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-19.html"
+---
+
+One day late in the summer Cuffy Bear went blackberrying. And on his way home he stopped at the deep pool where the hornets had chased him. He stayed there for a little while to watch the speckled trout as their bright sides flashed out of the depths of the clear water. As Cuffy stood on the big boulder and looked down, he could see himself quite plainly, reflected in the still surface of the water. He waved a paw. And the little bear in the brook waved his paw too. Of course Cuffy knew that it was himself he saw. But he pretended for a time that it was some other little bear who was playing with him. And he was having lots of fun.
+
+[Illustration: Cuffy Received a Slap on His Nose]
+
+You see, Mr. Bear's family was the only bear family for miles and miles around. And Cuffy often wished he had other little boy-bears to play with. To be sure, he had his sister, Silkie. But she was a girl, and younger than he was, besides.
+
+Well! Cuffy danced a jig on the top of the big boulder. And the little bear down below danced a jig, too. And Cuffy waved his paw again at the little bear in the water. And once more the little bear in the water waved a paw at him. It was great sport. And then Cuffy happened to look up.
+
+To his great surprise, there stood a little bear on the other bank of the brook, right opposite. Cuffy was astonished. The other little bear and the little bear in the brook looked as much alike as two peas. Cuffy had never known that he could see a picture of himself by looking anywhere except into water. It was very strange, he thought. He waved a paw. And the little bear on the other bank waved his paw. Cuffy kicked up one of his hind legs. And the other little bear kicked up, too.
+
+Cuffy was puzzled. Was it really himself he was looking at? He nodded his head. And the other little bear nodded his head.
+
+Then Cuffy tried something else. He stared very hard at the little bear opposite him, and called "Hello!"
+
+"Hello, yerself!" the other little bear said. And then Cuffy knew that it was a real, live boy-bear over there, and not just a reflection of himself. Cuffy was so delighted that he jumped down off the boulder and splashed through the brook, he was in such a hurry to get over there where the strange bear stood.
+
+"What's yer name?" the strange bear asked.
+
+Cuffy told him. And he learned that the strange bear's name was Peter, and that he lived around on the other side of Blue Mountain, as many as ten miles away.
+
+"Aw--call me Pete," the new bear said, as Cuffy began to talk to him. "They all calls me Pete." He stuffed his front paws into the pockets of his ragged trousers. "Say, Cuff--what was yer doin' up on that rock?"
+
+"Playing!" Cuffy told him.
+
+Pete gave a grunt. "That's no way ter play," he said. "I'll show yer how ter have fun. Watch me!" He led the way to the bank. And sitting down, he slid and rolled all the way down the steep slope and landed _plump!_ in the deep pool.
+
+Now, Cuffy was not going to have Pete think that he couldn't do that, too. Although he was wearing his best trousers that day (for his mother was mending his every-day pair), Cuffy sat down on the top of the bank. And in another moment he had slid and slipped down the bank and landed _ker-splash!_ in the water.

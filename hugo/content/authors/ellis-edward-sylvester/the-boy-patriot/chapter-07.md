@@ -1,0 +1,58 @@
+---
+title: "Chapter 7 - No!"
+weight: 7
+aliases:
+  - "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-07.html"
+---
+
+The pilot-boat was nearing the strange vessel, when Blair suddenly exclaimed, "I see British uniforms on board. We have been tricked by that flag falsely displayed. It is an English man-of-war. Put about. We'll pilot no such vessel into Fairport."
+
+Quick as thought the little boat had turned its head, and was making towards the shore. The movement was not unperceived on board the man-of-war, and its cause was at once understood. A boat, manned by a dozen strong rowers, had been made ready for such an emergency. They were quickly in pursuit of the retreating pilot. They gained rapidly upon the boys, and were soon alongside, commanding Blair to surrender, while half a dozen muskets were aimed at the brave lads.
+
+"Fire! Do your worst! I am not afraid to die!" sprang to the lips of Blair Robertson; but he thought of his mother, and was silent. He had no right so to throw away the life of her only son.
+
+"Surrender, or we shall fire," was again repeated.
+
+"A couple of unarmed boys, decoyed within your reach, would be a worthy mark for your treacherous British muskets," said Blair boldly. "I would dare you to fire, but there are those at home who would miss us too much. Do what you will with us; we are your prisoners."
+
+The British tars handled their captives without ceremony, and hurried them at once on board the man-of-war and presented them before its impatient commander.
+
+Not a little surprised at the grotesque appearance of the prisoners, he exclaimed in astonishment, "Who and what are you?"
+
+"I am a Yankee boy, the captain of the Fairport Guard," said Blair frankly. "We had been parading, when your signal for a pilot called me too suddenly away for me to have time to lay aside this dress, *this coat* which my grandfather wore at *Bunker Hill*."
+
+A strong emphasis was laid on the last word of the sentence.
+
+"You young rascal!" exclaimed the commander. "And who is this Tom-fool of a companion?"
+
+"It is my friend, and one of our company. He would not see me risking my life on the water while he stood on the shore. Would that we had many such 'Tom-fools,' with brave, strong hearts like his."
+
+As Blair spoke, he took off his official cap and left his noble young head bare. With another movement the precious coat was thrown over his arm, and the stripling stood in his school-boy dress before the English commander, who exclaimed, "A pretty pilot, you. Who sent you on this mad errand?"
+
+"My father has been for thirty years the pilot of Fairport. He is now absent fighting for his country against her oppressors. I know the channel well. No one of our few remaining men would venture his life in such a sea for an unknown vessel, and so I came. I knew it would be certain death for you to try to enter that harbor without a pilot."
+
+"Then do your duty, young malapert. There is no time to be lost. We'll run up the British flag, and go into port under fair colors."
+
+The commander gave the necessary orders to have the last suggestion carried out, and the sailors were prompt to do his bidding.
+
+Blair stood perfectly still, while a look of stern determination sat on his young face. "I will never pilot enemies to the shores of our land. You can shoot me, but you cannot force me to act the traitor."
+
+The boy spoke resolutely. The English commander eyed him for a moment, and then said quickly,
+
+"Shooting is too good for you, young dare-devil. That is quick work, soon over. There are other means of bringing you to terms."
+
+The commander held in his hand a thick pamphlet in which he had been reading. He made it into a firm scroll, and placed it upon the edge of the railing near which he was standing. Then turning to one of the sailors, he said, "Here, let me see you cut that through with your knife. Be quick."
+
+The man drew the long knife from his belt, and with one sweeping stroke severed the thick scroll. One part went fluttering through the air and dropped in the angry waters, while the other was firmly held by the commander.
+
+"Put young master's right-hand in the same place, and we will see it food for fishes. Or will he choose to do his duty, and keep his precious five fingers for future use?"
+
+The words had hardly passed from the lips of the British officer, when Blair laid his hand calmly on the railing, and exclaimed, "Now, God helping me, you may tear me limb from limb, and I will be true to my country and my home."
+
+"It's no use. He'll keep his word. You can't force 'im," shouted Hal Hutchings, the tears coursing down his cheeks.
+
+The wild winds swept through the rigging, and the storm came on with sudden violence.
+
+This was no time for contention with such a spirit as Blair had displayed, and the captain at once gave orders to make for the open sea, where he might the more safely abide the approaching tempest. The Fairport channel had been strewn with too many wrecks to be ventured without a careful pilot, and of that the English captain had been fully warned.
+
+Blair and Hal were hastily thrust below, while rapid preparations were made to meet the coming hour of danger.

@@ -1,0 +1,118 @@
+---
+title: "Chapter 11 - In A Corner"
+weight: 11
+aliases:
+  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-11.html"
+---
+
+Larry Murphy's first thought, when he found he had stumbled into something in the nature of a cave, was that it might serve him as a refuge or a fort in the impending fight with the Shawanoes, who were certainly beginning to crowd him hard.
+
+The night being fully come, his eyes were of little use, but the sense of feeling told him that he had stumbled down an abrupt incline, perhaps a rod in length, and into a cavern in the rocks, of whose extent he could form no idea. It might be only a few feet, or it might extend backward or to the right or left until its ramifications equalled those of the Mammoth Cave, afterwards discovered at no great distance from that very spot.
+
+He was debating the question with himself when a figure appeared at the head of the short incline down which he had stumbled. There was just enough arrowy moonlight reaching that portion of the rocks for him to identify the huge, lumbering mass as that of an immense bear.
+
+He had his rifle at his shoulder, with the intention of letting fly at him as he came head on, when the thought that the Shawanoes were so near that they would hear the report caused him to hesitate. If they were near enough to appear before he could get away he would be in a bad fix, knowing nothing of the cave, and with no chance to get food or water.
+
+Still, he could not stand still and allow the brute to make a supper upon him, and, plucky as he was, he had no wish to fight him alone with his hunting-knife.
+
+He thought and acted quickly. He resolutely walked backward several paces in the cave at the risk of breaking his neck. His extended hands told him that the space was wide, and he moved silently to the right, so as to be out of the path of the animal, provided he followed anything like a direct course.
+
+The enormous beast swung along in his heavy fashion, and was in the act of entering the cavern, when he stopped, emitting a grunting snort, and abruptly withdrew. He had scented something wrong, and did not intend to rush headlong into danger.
+
+The act of the bear disconcerted Larry for a moment. Standing within the cavern, he could have fired his gun with little risk of the report being heard outside. That was one of his motives in retreating, willing to let the animal alone if he would be equally considerate, but not afraid to fire the moment it was necessary.
+
+But bruin not only withdrew from the entrance to the cavern, but clambered up the incline to a point where he could not be seen by the youth. The discovery on his part that some intruder was in his home had doubtless decided him to have it out in the open air rather than in the dark.
+
+This was a wise proceeding on the part of the animal, which is rarely capable of anything of that nature, and it outwitted the Irish lad—an exploit not often achieved by others.
+
+He could not leave the cavern without following the bear up the incline and bringing about a collision, for he was certain the beast was lurking near, with the intention of attacking him.
+
+After some delay he moved softly toward the opening of the cavern to gain a view of the exterior, which was faintly lit up in places by the moonlight. He could see nothing, and he hesitated to venture out through fear that, despite its size, the bear would pounce upon him before he could defend himself.
+
+The brave youth, however, fully understood his grave situation. So long as he remained within the cavern he might as well be a thousand miles away for all the help he could give his friend. Instead of assisting Wharton Edwards, he was in need of assistance himself.
+
+Knowing the patience with which most wild animals will await the descent of treed game, he believed this bear would remain on the outside through the night, and perhaps a portion of the next day, with the probability that even then the prisoner would have to make a fight of it before he could get away. This was more than Larry could stand, and he did not mean to wait.
+
+If the bear was really lying on the outside, he was not so near the top of the incline that the youth did not have some chance of eluding him without firing a gun.
+
+Furthermore, if he was obliged to discharge his rifle, it was by no means likely that any of the Shawanoes were so close that they could rush to the spot before he would have the opportunity of getting away. He had already stood within an arm's reach of them, as may be said, without discovery; and, although that was because they had no suspicion of the fact, yet the favoring night, it would seem, ought to give him all the hope he could ask.
+
+"At any rate," he concluded, "I've stayed here as long as I intend to, and now I'll take my departure."
+
+Larry Murphy, having decided on his course of action, followed it out with his usual promptness. With his rifle grasped in his right hand, and his body slightly crouching, he began climbing the incline which led to the level ground above. This was so steep that when he stumbled at the top in the first place, he rolled all the way to the bottom, but with care he could go up or down without falling.
+
+The stillness was profound—the sound of the falls being dull and faint, as though they were miles distant in the depth of the wilderness. Though the fierce Shawanoes were prowling in the darkness among the trees, not a rustling leaf betrayed their presence.
+
+Near the top of the slope he sank on his hands and knees and advanced inch by inch. The bear, as we have stated, is not famous for his sagacity, but at times he shows a remarkable cunning, and this specimen was not likely to let his supper walk away without causing some trouble.
+
+As the lad's head came to a level with the surface he crouched still lower and advanced a little farther. This gave him the "purchase" he wanted. Then, sitting on his heels, he brought his gun around to the front, the hammer up, and the weapon held with both hands. In this position it could be fired the instant needed.
+
+He now slowly raised his head and peered intently in all directions. His height was sufficient to allow him to see all about him, but the intense gloom rendered his eyes almost useless. It was impossible for him to identify any object.
+
+Fancying that he might be able to detect bruin's breathing in the stillness, he listened for a few seconds, but was unable to hear anything. He was now on the threshold, as may be said, and it was useless to wait longer.
+
+He assumed the upright position, stepped away from the incline for several paces, and then stopped. He meant to do this with a certain dignity, and fully expected that it would compel the bear to uncover himself so that he would know where to fire.
+
+He began his effort well, but in the darkness he could not observe the obstructions in his way; so, when at his most dignified point, an obtruding bowlder sent him sprawling over it.
+
+He was not hurt, and when he pulled himself together, and, with his weapon ready, stared about in the gloom, he not only saw but heard nothing.
+
+And then the odd truth dawned upon him. There was no bear near, and had not been for some time past.
+
+The animal, after his hurried retreat up the incline, on discovering the intruder in his home, had not lain down to pounce upon him as he came forth, as that intruder suspected, but had lumbered off into the woods, apparently as anxious to get away from the young hunter as the latter was too keep out of his reach.
+
+Larry had waited a long time in the cavern before making this venture, and naturally he was chagrined on learning the truth.
+
+"It's a big lot of valuable time wasted," he muttered.
+
+He was now once more free to do as he chose, but without any clear idea of what course to take. His whole anxiety was to find his friend, Wharton Edwards, and give him what help he could, if he stood in need of it, but where to look for him he knew no more than the earth's satellite.
+
+Ah! through the cool hush of the summer night a soft, almost inaudible sound reached him. It was the faint, tremulous cooing of the wild dove, but so low, timid, and flute-like, that the bird seemed to mean it should be heard only in its immediate vicinity.
+
+The heart of Larry Murphy gave a quick throb. That was the call he and Wharton Edwards had practiced until they could give it perfectly. Could it be that his friend was not only free from the Shawanoes, but was so near?
+
+It seemed impossible, and yet, when the signal was repeated a minute later, all doubt was gone, and, hardly unable to repress a shout, the lad replied with a precisely similar call.
+
+These signals were of that pure musical quality that, when first made, neither could tell the point whence the other came. The note was simply "in the air." Larry, however, suspected that his friend had crossed the torrent a few minutes before by means of the prostrate tree, and he began treading his way thither with the utmost caution.
+
+For several minutes utter stillness reigned. Some cause led the first one to hold his peace for that time.
+
+Larry was so near the narrow, moonlit space bordering the torrent that he halted, deeming it unwise to venture farther. It was evident, despite the care he used, he had gone away from instead of toward his friend. To advance any farther was likely to take him beyond reach, and possibly complicate matters with the Shawanoes, who could not be far off.
+
+"I wonder where they can be?" he mused, sufficiently prudent to remain in the shadow among the trees. "He's very careful, which is wise, and I'll be the same."
+
+He waited minute after minute, without hearing the expected signal, and a vague misgiving began to trouble him.
+
+"It can't be I'm too far off for me to hear him. I'll give him the call mesilf, and a little louder."
+
+He was shaping his lips to form the singular cry, when it sounded so near that he started. With the signal came a thrill of affright, for the listening ear detected a shade of difference; it was not precisely what he expected, nor exactly similar to his own.
+
+At the same moment a crouching figure appeared on the edge of the moonlit space, and advancing with the slow, noiseless motion of a shadow across the face of a dial.
+
+Larry Murphy saw that it was a Shawanoe Indian. As if the red man meant to reveal himself beyond mistake, he took a single step forward, held his head bent for a moment in the attitude of intense attention, and then slowly looked toward every point of the compass in turn.
+
+At one angle the full moonlight fell upon the painted face, which the youth recognized as that of the ferocious Blazing Arrow.
+
+"I'll settle you!" whispered the youth, stealthily raising the hammer of his gun. "Ye have no business with that signal."
+
+He tried to present his weapon without any noise, but with all his care the hammer, as it was drawn back, made two dull clicks, which sounded startlingly loud in the situation.
+
+Knowing that the ear of the Indian had caught the noise, Larry brought his weapon to his shoulder like a flash and pointed the muzzle toward the spot, less than twenty-five feet away.
+
+But no Blazing Arrow was there. He had disappeared like the coon at the flash of the huntsman's rifle.
+
+Whether his acute sense of hearing had enabled him to locate the point whence came the double click, Larry did not wait to see. He had no intention that the miscreant, knife in hand, should come down on him with the resistless force of an avalanche.
+
+Lowering his head to help conceal his movements, he drew back several paces, with a silence and stealth that the Shawanoe himself could not have surpassed. Then, crouching low on the ground, he waited, watched and listened.
+
+His rifle was ready to be fired, and he resolved to let Blazing Arrow have the charge the instant he caught sight of him. The warrior was cunning, but he was liable to uncover himself in moving about the youth, whose precise location he could not know.
+
+The danger of the latter was that other Shawanoes besides this one were near, and might close around him in the gloom. He was ready, and would fight any number of them if they beset him, but there could be but one result of such a desperate struggle.
+
+Hearing and seeing nothing of his enemies, he decided to improve his situation by a further change of base. Inasmuch as the slightest slip was certain to prove fatal, the work was slow and surpassingly delicate.
+
+The foot was lifted quickly from the ground and suspended in the air and lowered slowly, while the body leaned gently forward, waiting a long while before its weight was allowed to rest on the limb.
+
+The tedious work was continued until Larry moved fully a dozen yards from his starting-point. Then, for the first time, he breathed freely and felt that it was safe to pause.
+
+Still nothing was seen or heard of Blazing Arrow or his companions, and the youth, with a shudder, asked himself the startling question: "How came the Shawanoe to have the signal of Wharton Edwards?"

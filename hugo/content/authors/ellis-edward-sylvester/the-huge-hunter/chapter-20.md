@@ -1,0 +1,166 @@
+---
+title: "Chapter 20 - The Concluding Catastrophe"
+weight: 20
+aliases:
+  - "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-20.html"
+---
+
+*BALDY BICKNELL,* the trapper, was the first to discover the peril of himself and party.
+
+When the Indians had completed their work it lacked only an hour of daylight. Having done all that was necessary, the savages took their stations behind the wall, lying flat upon the ground, where they were invisible to the whites, but where every motion of theirs could be watched and checkmated.
+
+When the trapper opened his eyes he did not stir a limb, a way into which he had got during his long experience on the frontiers. He merely moved his head from side to side, so as to see anything that was to be seen.
+
+The first object that met his eye was the boy Brainerd, sound asleep. Apprehensive then that something had occurred, he turned his startled gaze in different directions, scanning everything as well as it could be done in the pale moonlight.
+
+When he caught sight of the wall stretched across the valley, he rubbed his eyes, and looked at it again and again, scarcely able to credit his senses. He was sure it was not there a few hours before, and he could not comprehend what it could mean; but it was a verity, and his experience told him that it could be the work of no one except the Indians, who had outwitted him at last.
+
+His first feeling was that of indignation toward the boy who had permitted this to take place while he was asleep, but his mind quickly turned upon the more important matter of meeting the peril, which, beyond all doubt, was of the most serious character.
+
+As yet he had not stirred his body, and looking toward the prison wall, he caught a glimpse of the phantom-like figures, as they occasionally flitted about, securing the best possible position, before the whites should awake.
+
+This glimpse made everything plain to the practical mind of Baldy Bicknell. He comprehended that the red-skins had laid a plan to entrap the steam man. More than to entrap themselves, and that, so far as he could judge, they had succeeded completely.
+
+It was the tightest fix in which he had ever been caught, and his mind, fertile as it was in expedients at such crises, could see no way of meeting the danger.
+
+He knew the Indians had horses somewhere at command, while neither he nor his comrades had a single one. The steam man would be unable to pass that formidable wall, as it was not to be supposed that he had been taught the art of leaping.
+
+Whatever plan of escape was determined upon, it was evident that the steamer would have to be abandoned; and this necessitated, as an inevitable consequence, that the whites would have to depend upon their legs. The Missouri river was at no great distance, and if left undisturbed they could make it without difficulty, but there was a prospect of anything sooner than that they would be allowed to depart in peace, after leaving the steam man behind.
+
+The trapper, as had been his invariable custom, had carefully noted the contour of the surrounding prairie, before they had committed the important act of encamping in the gorge or hollow. He remembered the grove at some distance, and was satisfied that the barbarians had left their horses there, while they had gathered behind the wall to wait the critical moment.
+
+By the time these thoughts had fairly taken shape in his brain it was beginning to grow light, and with a premonitary yawn and kick he rose to his feet and began stirring the fire. He was well aware that although he and his companions were a fair target for the rifles of their enemies, yet they would not fire. Their plan of action did not comprehend that, though it would have settled everything in their favor without delay.
+
+'I declare I have been asleep!' exclaimed Brainerd, as he began rubbing his eyes.
+
+'Yes. You're a purty feller to make a sentinel of, ain't you?' replied the trapper, in disgust.
+
+'I hope nothing has happened.' answered Johnny, feeling that he deserved all the blame that could be laid upon him.
+
+'Not much, exceptin' while yer war snoozin' the reds have come down and got us all in a nice box.'
+
+The boy was certain he was jesting until he saw the expression of his face.
+
+'Surely, Baldy, it is not as bad as that?'
+
+'Do you see that ar?' demanded the trapper, pointing toward the wall, which the youngster could not help observing.
+
+'How comes that to be there?'
+
+'The red-skins put it thar. Can yer steam man walk over that?'
+
+'Certainly not; but we can remove them.'
+
+'Do yer want to try it, younker?'
+
+'I'm willing to help.'
+
+'Do yer know that ar' somethin' less nor a hundred red-skins ahind them, jist waitin' fur yer to try that thing?'
+
+'Good heavens! can it be possible?'
+
+'Ef you don't b'l'eve it, go out and look for yerself, that's all.'
+
+The boy, for the first time, comprehends the peril in which he had brought his friends by his own remissness, and his self-accusation was so great, that, for a few moments, he forgot the fact that he was exposed to the greatest danger of his life.
+
+By this time Ethan and Mickey awoke, and were soon made to understand their predicament. As a matter of course, they were all disposed to blame the author of this; but when they saw how deeply he felt his own shortcoming, all three felt a natural sympathy for him.
+
+'There's no use of talkin' how we came to get hyar,' was the philosophical remark of the trapper; 'it's 'nongh to know that we are hyar, with a mighty slim chance of ever gettin' out ag'in.'
+
+'It's enough to make a chap feel down in the mouth, as me friend Jonah observed when he went down the throat of the whale,' said Mickey.
+
+'How is it they don't shoot us?' asked Hopkins; 'we can't git out of their way, and they've got us in fair range.'
+
+'What's the use of doin' that? Ef they kill us, that'll be the end on't; but ef they put thar claws on us, they've got us sure, and can have a good time toastin' us while they yelp and dance around.'
+
+All shuddered at the fearful picture drawn by the hunter.
+
+'Jerusalem! don't I wish I was to hum in Connecticut!'
+
+'And it's myself that would be plaised to be sitting in the parlor at Ballyduff wid me own Bridget Moghlaghigbogh, listenin' while she breathed swate vows, after making her supper upon praties and inions.'
+
+'I think I'd ruther be hyar,' was the commentary of the trapper upon the expressed wish of the Irishman.
+
+'Why can't yees touch up the staammau, and make him hop owver them shtones?' asked Mickey, turning toward the boy, whom, it was noted, appeared to be in deep reverie again.
+
+Not until he was addressed several times did he look up. Then he merely shook his head, to signify that the thing was impossible.
+
+'Any fool might know better than that.' remarked the Yankee, 'for if he could jump over, where would be the wagon?'
+
+'That 'ud foller, av coorse.'
+
+'No; there's no way of getting the steam man out of here. He is a gone case, sure, and it looks as though we were ditto. Jerusalem! I wish all the gold was back in Wolf Ravine, and we war a thousand miles from this place.'
+
+'Wishing'll do no good; there's only one chance I see, and that ain't no chance at all.'
+
+All, including the boy, eagerly looked up to hear the explanation.
+
+'Some distance from hyar is some timbers, and in thar the reds have left their animals. Ef we start on a run for the timbers, git thar ahead of the Ingins, mount thar hosses and put, thar'll be some chance. Yer can see what chance thar is fur that.'
+
+It looked as hopeless as the charge of the Light Brigade.
+
+Young Brainerd now spoke.
+
+'It was I who got you into trouble, and it is I, that, with the blessing of Heaven, am going to get you out of it.'
+
+The three now looked eagerly at him.
+
+'Is there no danger of the Indians firing upon us?' he asked of the hunter.
+
+'Not unless we try to run away.'
+
+'All right; it is time to begin.'
+
+The boy's first proceeding was to kindle a fire in the boiler of the steam man. When it was fairly blazing, he continued to heap in wood, until a fervent heat was produced such as it had never experienced before. Still he threw in wood, and kept the water low in the boiler, until there was a most prodigious pressure of steam, making its escape at half a dozen orifices.
+
+When all the wood was thrown in that it could contain, and portions of the iron sheeting could be seen becoming red-hot, he ceased this, and began trying the steam.
+
+'How much can he hold?' inquired Hopkins.
+
+'One hundred and fifty pounds.'
+
+'How much is on now?'
+
+'One hundred and forty-eight, and rising.'
+
+'Good heavens! it will blow up!' was the exclamation, as the three shrunk back, appalled at the danger.
+
+'Not for a few minutes; have you the gold secured, and the guns, so as to be ready to run?'
+
+They were ready to run at any moment; the gold was always secured about their persons and it required but a moment to snatch up the weapons.
+
+'When it blows up, run!' was the admonition of the boy.
+
+The steam man was turned directly toward the wall, and a full head of steam let on. It started away with a bound, instantly reaching a speed of forty miles an hour.
+
+The next moment it struck the bowlders with a terrific crash, shot on over its face, leaving the splintered wagon behind, and at the instant of touching ground upon the opposite side directly among the thunderstruck Indians, it exploded its boiler!
+
+The shock of the explosion was terrible. It was like the bursting of an immense bomb-shell, the steam man being blown into thousands of fragments, that scattered death and destruction in every direction. Falling in the very center of the crouching Indians, it could but make a terrible destruction of life, while those who escaped unharmed, were beside themselves with consternation.
+
+This was the very thing upon which young Brainerd had counted, and for which he made his calculations. When he saw it leap toward the wall in such a furious manner, he knew the inevitable consequence, and gave the word to his friends to take to their legs.
+
+All three dashed up the bank, and reaching the surface of the prairie, Baldy Bicknell took the lead, exclaiming:
+
+'Now fur the wood yonder!'
+
+As they reached the grove, one or two of the number glanced back, but saw nothing of the pursuing Indians. They had not yet recovered from their terror.
+
+Not a moment was to be lost. The experienced eye of the trapper lost no time in selecting the very best Indian horses, and a moment later all four rode out from the grove at a full gallop, and headed toward the Missouri.
+
+The precise result of the steam man's explosion was never learned. How many wore killed and wounded could only be conjectured; but the number certainly was so great that our friends saw nothing more of them.
+
+They evidently had among their number those who had become pretty well acquainted with the steam man, else they would not have laid the plan which they did for capturing him.
+
+Being well mounted, the party made the entire journey to Independence on horseback. From this point they took passage to St. Louis, where the gold was divided, and the party separated, and since then have seen nothing of each other.
+
+Mickey McSquizzle returned to Ballyduff Kings County, Ireland, where, we heard, he and his gentle Bridget, are in the full enjoyment of the three thousand pounds he carried with him.
+
+Ethan Hopkins settled down with the girl of his choice in Connecticut, where, at last accounts, he was doing as well as could be expected.
+
+Baldy Bicknell, although quite a wealthy man, still clings to his wandering habits, and spends the greater portion of his time on the prairies.
+
+With the large amount of money realized from his western trip, Johnny Brainerd is educating himself at one of the best schools in the country. When he shall have completed his course, it is his intention to construct another steam man, capable of more wonderful performances than the first.
+
+So let our readers and the public generally be on the lookout.
+
+*THE END*.

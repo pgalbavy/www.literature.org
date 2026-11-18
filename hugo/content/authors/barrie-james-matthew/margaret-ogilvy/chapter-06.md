@@ -1,0 +1,154 @@
+---
+title: "Chapter 6 - Her Maid Of All Work"
+weight: 6
+aliases:
+  - "/authors/barrie-james-matthew/margaret-ogilvy/chapter-06.html"
+---
+
+And sometimes I was her maid of all work.
+
+It is early morn, and my mother has come noiselessly into my room. I know it is she, though my eyes are shut, and I am only half awake. Perhaps I was dreaming of her, for I accept her presence without surprise, as if in the awakening I had but seen her go out at one door to come in at another. But she is speaking to herself.
+
+'I'm sweer to waken him - I doubt he was working late - oh, that weary writing - no, I maunna waken him.'
+
+I start up. She is wringing her hands. 'What is wrong?' I cry, but I know before she answers. My sister is down with one of the headaches against which even she cannot fight, and my mother, who bears physical pain as if it were a comrade, is most woebegone when her daughter is the sufferer. 'And she winna let me go down the stair to make a cup of tea for her,' she groans.
+
+'I will soon make the tea, mother.'
+
+'Will you?' she says eagerly. It is what she has come to me for, but 'It is a pity to rouse you,' she says.
+
+'And I will take charge of the house to-day, and light the fires and wash the dishes - '
+
+'Na, oh no; no, I couldna ask that of you, and you an author.'
+
+'It won't be the first time, mother, since I was an author.'
+
+'More like the fiftieth!' she says almost gleefully, so I have begun well, for to keep up her spirits is the great thing to-day.
+
+Knock at the door. It is the baker. I take in the bread, looking so sternly at him that he dare not smile.
+
+Knock at the door. It is the postman. (I hope he did not see that I had the lid of the kettle in my other hand.)
+
+Furious knocking in a remote part. This means that the author is in the coal cellar.
+
+Anon I carry two breakfasts upstairs in triumph. I enter the bedroom like no mere humdrum son, but after the manner of the Glasgow waiter. I must say more about him. He had been my mother's one waiter, the only manservant she ever came in contact with, and they had met in a Glasgow hotel which she was eager to see, having heard of the monstrous things, and conceived them to resemble country inns with another twelve bedrooms. I remember how she beamed - yet tried to look as if it was quite an ordinary experience - when we alighted at the hotel door, but though she said nothing I soon read disappointment in her face. She knew how I was exulting in having her there, so would not say a word to damp me, but I craftily drew it out of her. No, she was very comfortable, and the house was grand beyond speech, but - but - where was he? he had not been very hearty. 'He' was the landlord; she had expected him to receive us at the door and ask if we were in good health and how we had left the others, and then she would have asked him if his wife was well and how many children they had, after which we should all have sat down together to dinner. Two chambermaids came into her room and prepared it without a single word to her about her journey or on any other subject, and when they had gone, 'They are two haughty misses,' said my mother with spirit. But what she most resented was the waiter with his swagger black suit and short quick steps and the 'towel' over his arm. Without so much as a 'Welcome to Glasgow!' he showed us to our seats, not the smallest acknowledgment of our kindness in giving such munificent orders did we draw from him, he hovered around the table as if it would be unsafe to leave us with his knives and forks (he should have seen her knives and forks), when we spoke to each other he affected not to hear, we might laugh but this uppish fellow would not join in. We retired, crushed, and he had the final impudence to open the door for us. But though this hurt my mother at the time, the humour of our experiences filled her on reflection, and in her own house she would describe them with unction, sometimes to those who had been in many hotels, often to others who had been in none, and whoever were her listeners she made them laugh, though not always at the same thing.
+
+So now when I enter the bedroom with the tray, on my arm is that badge of pride, the towel; and I approach with prim steps to inform Madam that breakfast is ready, and she puts on the society manner and addresses me as 'Sir,' and asks with cruel sarcasm for what purpose (except to boast) I carry the towel, and I say 'Is there anything more I can do for Madam?' and Madam replies that there is one more thing I can do, and that is, eat her breakfast for her. But of this I take no notice, for my object is to fire her with the spirit of the game, so that she eats unwittingly.
+
+Now that I have washed up the breakfast things I should be at my writing, and I am anxious to be at it, as I have an idea in my head, which, if it is of any value, has almost certainly been put there by her. But dare I venture? I know that the house has not been properly set going yet, there are beds to make, the exterior of the teapot is fair, but suppose some one were to look inside? What a pity I knocked over the flour-barrel! Can I hope that for once my mother will forget to inquire into these matters? Is my sister willing to let disorder reign until to-morrow? I determine to risk it. Perhaps I have been at work for half an hour when I hear movements overhead. One or other of them is wondering why the house is so quiet. I rattle the tongs, but even this does not satisfy them, so back into the desk go my papers, and now what you hear is not the scrape of a pen but the rinsing of pots and pans, or I am making beds, and making them thoroughly, because after I am gone my mother will come (I know her) and look suspiciously beneath the coverlet.
+
+The kitchen is now speckless, not an unwashed platter in sight, unless you look beneath the table. I feel that I have earned time for an hour's writing at last, and at it I go with vigour. One page, two pages, really I am making progress, when - was that a door opening? But I have my mother's light step on the brain, so I 'yoke' again, and next moment she is beside me. She has not exactly left her room, she gives me to understand; but suddenly a conviction had come to her that I was writing without a warm mat at my feet. She carries one in her hands. Now that she is here she remains for a time, and though she is in the arm-chair by the fire, where she sits bolt upright (she loved to have cushions on the unused chairs, but detested putting her back against them), and I am bent low over my desk, I know that contentment and pity are struggling for possession of her face: contentment wins when she surveys her room, pity when she looks at me. Every article of furniture, from the chairs that came into the world with me and have worn so much better, though I was new and they were second- hand, to the mantle-border of fashionable design which she sewed in her seventieth year, having picked up the stitch in half a lesson, has its story of fight and attainment for her, hence her satisfaction; but she sighs at sight of her son, dipping and tearing, and chewing the loathly pen.
+
+'Oh, that weary writing!'
+
+In vain do I tell her that writing is as pleasant to me as ever was the prospect of a tremendous day's ironing to her; that (to some, though not to me) new chapters are as easy to turn out as new bannocks. No, she maintains, for one bannock is the marrows of another, while chapters - and then, perhaps, her eyes twinkle, and says she saucily, 'But, sal, you may be right, for sometimes your bannocks are as alike as mine!'
+
+Or I may be roused from my writing by her cry that I am making strange faces again. It is my contemptible weakness that if I say a character smiled vacuously, I must smile vacuously; if he frowns or leers, I frown or leer; if he is a coward or given to contortions, I cringe, or twist my legs until I have to stop writing to undo the knot. I bow with him, eat with him, and gnaw my moustache with him. If the character be a lady with an exquisite laugh, I suddenly terrify you by laughing exquisitely. One reads of the astounding versatility of an actor who is stout and lean on the same evening, but what is he to the novelist who is a dozen persons within the hour? Morally, I fear, we must deteriorate - but this is a subject I may wisely edge away from.
+
+We always spoke to each other in broad Scotch (I think in it still), but now and again she would use a word that was new to me, or I might hear one of her contemporaries use it. Now is my opportunity to angle for its meaning. If I ask, boldly, what was chat word she used just now, something like 'bilbie' or 'silvendy'? she blushes, and says she never said anything so common, or hoots! it is some auld-farrant word about which she can tell me nothing. But if in the course of conversation I remark casually, 'Did he find bilbie?' or 'Was that quite silvendy?' (though the sense of the question is vague to me) she falls into the trap, and the words explain themselves in her replies. Or maybe to-day she sees whither I am leading her, and such is her sensitiveness that she is quite hurt. The humour goes out of her face (to find bilbie in some more silvendy spot), and her reproachful eyes - but now I am on the arm of her chair, and we have made it up. Nevertheless, I shall get no more old-world Scotch out of her this forenoon, she weeds her talk determinedly, and it is as great a falling away as when the mutch gives place to the cap.
+
+I am off for my afternoon walk, and she has promised to bar the door behind me and open it to none. When I return, - well, the door is still barred, but she is looking both furtive and elated. I should say that she is burning to tell me something, but cannot tell it without exposing herself. Has she opened the door, and if so, why? I don't ask, but I watch. It is she who is sly now.
+
+'Have you been in the east room since you came in?' she asks, with apparent indifference.
+
+'No; why do you ask?'
+
+'Oh, I just thought you might have looked in.'
+
+'Is there anything new there?'
+
+'I dinna say there is, but - but just go and see.'
+
+'There can't be anything new if you kept the door barred,' I say cleverly.
+
+This crushes her for a moment; but her eagerness that I should see is greater than her fear. I set off for the east room, and she follows, affecting humility, but with triumph in her eye. How often those little scenes took place! I was never told of the new purchase, I was lured into its presence, and then she waited timidly for my start of surprise.
+
+'Do you see it?' she says anxiously, and I see it, and hear it, for this time it is a bran-new wicker chair, of the kind that whisper to themselves for the first six months.
+
+'A going-about body was selling them in a cart,' my mother begins, and what followed presents itself to my eyes before she can utter another word. Ten minutes at the least did she stand at the door argy-bargying with that man. But it would be cruelty to scold a woman so uplifted.
+
+'Fifteen shillings he wanted,' she cries, 'but what do you think I beat him down to?'
+
+'Seven and sixpence?'
+
+She claps her hands with delight. 'Four shillings, as I'm a living woman!' she crows: never was a woman fonder of a bargain.
+
+I gaze at the purchase with the amazement expected of me, and the chair itself crinkles and shudders to hear what it went for (or is it merely chuckling at her?). 'And the man said it cost himself five shillings,' my mother continues exultantly. You would have thought her the hardest person had not a knock on the wall summoned us about this time to my sister's side. Though in bed she has been listening, and this is what she has to say, in a voice that makes my mother very indignant, 'You drive a bargain! I'm thinking ten shillings was nearer what you paid.'
+
+'Four shillings to a penny!' says my mother.
+
+'I daresay,' says my sister; 'but after you paid him the money I heard you in the little bedroom press. What were you doing there?'
+
+My mother winces. 'I may have given him a present of an old topcoat,' she falters. 'He looked ill-happit. But that was after I made the bargain.'
+
+'Were there bairns in the cart?'
+
+'There might have been a bit lassie in the cart.'
+
+'I thought as much. What did you give her? I heard you in the pantry.'
+
+'Four shillings was what I got that chair for,' replies my mother firmly. If I don't interfere there will be a coldness between them for at least a minute. 'There is blood on your finger,' I say to my mother.
+
+'So there is,' she says, concealing her hand.
+
+'Blood!' exclaims my sister anxiously, and then with a cry of triumph, 'I warrant it's jelly. You gave that lassie one of the jelly cans!'
+
+The Glasgow waiter brings up tea, and presently my sister is able to rise, and after a sharp fight I am expelled from the kitchen. The last thing I do as maid of all work is to lug upstairs the clothes-basket which has just arrived with the mangling. Now there is delicious linen for my mother to finger; there was always rapture on her face when the clothes-basket came in; it never failed to make her once more the active genius of the house. I may leave her now with her sheets and collars and napkins and fronts. Indeed, she probably orders me to go. A son is all very well, but suppose he were to tread on that counterpane!
+
+My sister is but and I am ben - I mean she is in the east end and I am in the west - tuts, tuts! let us get at the English of this by striving: she is in the kitchen and I am at my desk in the parlour. I hope I may not be disturbed, for to-night I must make my hero say 'Darling,' and it needs both privacy and concentration. In a word, let me admit (though I should like to beat about the bush) that I have sat down to a love-chapter. Too long has it been avoided, Albert has called Marion 'dear' only as yet (between you and me these are not their real names), but though the public will probably read the word without blinking, it went off in my hands with a bang. They tell me - the Sassenach tell me - that in time I shall be able without a blush to make Albert say 'darling,' and even gather her up in his arms, but I begin to doubt it; the moment sees me as shy as ever; I still find it advisable to lock the door, and then - no witness save the dog - I 'do' it dourly with my teeth clenched, while the dog retreats into the far corner and moans. The bolder Englishman (I am told) will write a love-chapter and then go out, quite coolly, to dinner, but such goings on are contrary to the Scotch nature; even the great novelists dared not. Conceive Mr. Stevenson left alone with a hero, a heroine, and a proposal impending (he does not know where to look). Sir Walter in the same circumstances gets out of the room by making his love- scenes take place between the end of one chapter and the beginning of the next, but he could afford to do anything, and the small fry must e'en to their task, moan the dog as he may. So I have yoked to mine when, enter my mother, looking wistful.
+
+'I suppose you are terrible thrang,' she says.
+
+'Well, I am rather busy, but - what is it you want me to do?'
+
+'It would be a shame to ask you.'
+
+'Still, ask me.'
+
+'I am so terrified they may be filed.'
+
+'You want me to - ?'
+
+'If you would just come up, and help me to fold the sheets!'
+
+The sheets are folded and I return to Albert. I lock the door, and at last I am bringing my hero forward nicely (my knee in the small of his back), when this startling question is shot by my sister through the key-hole-
+
+'Where did you put the carrot-grater?'
+
+It will all have to be done over again if I let Albert go for a moment, so, gripping him hard, I shout indignantly that I have not seen the carrot-grater.
+
+'Then what did you grate the carrots on?' asks the voice, and the door-handle is shaken just as I shake Albert.
+
+'On a broken cup,' I reply with surprising readiness, and I get to work again but am less engrossed, for a conviction grows on me that I put the carrot-grater in the drawer of the sewing-machine.
+
+I am wondering whether I should confess or brazen it out, when I hear my sister going hurriedly upstairs. I have a presentiment that she has gone to talk about me, and I basely open my door and listen.
+
+'Just look at that, mother!'
+
+'Is it a dish-cloth?'
+
+'That's what it is now.'
+
+'Losh behears! it's one of the new table-napkins.'
+
+'That's what it was. He has been polishing the kitchen grate with it!'
+
+(I remember!)
+
+'Woe's me! That is what comes of his not letting me budge from this room. O, it is a watery Sabbath when men take to doing women's work!'
+
+'It defies the face of clay, mother, to fathom what makes him so senseless.'
+
+'Oh, it's that weary writing.'
+
+'And the worst of it is he will talk to-morrow as if he had done wonders.'
+
+'That's the way with the whole clanjam-fray of them.'
+
+'Yes, but as usual you will humour him, mother.'
+
+'Oh, well, it pleases him, you see,' says my mother, 'and we can have our laugh when his door's shut.'
+
+'He is most terribly handless.'
+
+'He is all that, but, poor soul, he does his best.'

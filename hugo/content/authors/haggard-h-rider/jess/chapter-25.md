@@ -1,0 +1,156 @@
+---
+title: "Chapter 25 - Meanwhile"
+weight: 25
+aliases:
+  - "/authors/haggard-h-rider/jess/chapter-25.html"
+---
+
+John, it will be remembered, left Mooifontein for Pretoria towards the end of December, and with him went all the life and light of the place.
+
+“Dear me, Bessie,” said old Silas Croft on the evening after he had started, “the house seems very dull without John”--a remark in which Bessie, who was weeping secretly in the corner, heartily concurred.
+
+Then, a few days afterwards, came the news of the investment of Pretoria, but no news of John. They ascertained that he had passed Standerton in safety, but beyond that nothing could be heard of him. Day after day passed, but without tidings, and at last, one evening, Bessie broke into a passion of hysterical tears.
+
+“What did you send him for?” she asked of her uncle. “It was ridiculous--I knew that it was ridiculous. He could not help Jess or bring her back; the most that could happen was that they would be both shut up together. Now he is dead--I know that those Boers have shot him--and it is all your fault! And if he is dead I will never speak to you again.”
+
+The old man retreated, somewhat dismayed at this outburst, which was not at all in Bessie’s style.
+
+“Ah, well,” he said to himself, “that is the way of women; they turn into tigers about a man!”
+
+There may have been truth in this reflection, but a tiger is not a pleasant domestic pet, as poor old Silas discovered during the next two months. The more Bessie thought about the matter the more incensed she grew because he had sent her lover away. Indeed, in a little while she quite forgot that she had herself acquiesced in his going. In short, her temper gave way completely under the strain, so that at last her uncle scarcely dared to mention John’s name.
+
+Meanwhile, things had been going as ill without as within. First of all--that was the day after John’s departure--two or three loyal Boers and an English store-keeper from Lake Chrissie, in New Scotland, outspanned on the place and implored Silas Croft to fly for his life into Natal while there was yet time. They said that the Boers would certainly shoot any Englishman who might be sufficiently defenceless. But the old man would not listen.
+
+“I am an Englishman--civis Romanus sum,” he said in his sturdy fashion, “and I do not believe that they will touch me, who have lived among them for twenty years. At any rate, I am not going to run away and leave my place at the mercy of a pack of thieves. If they shoot me they will have to reckon with England for the deed, so I expect that they will leave me alone. Bessie can go if she likes, but I shall stop here and see the row through, and there’s an end of it.”
+
+Whereon, Bessie having flatly declined to budge an inch, the loyalists departed in a hurry, metaphorically wringing their hands at such an exhibition of ill-placed confidence and insular pride. This little scene occurred at dinner-time, and after dinner old Silas proceeded to hurl defiance at his foes in another fashion. Going to a cupboard in his bedroom, he extracted an exceedingly large Union Jack, and promptly advanced with it to an open spot between two of the orange-trees in front of the house, where in such a position that it could be seen for miles around a flagstaff was planted, formed of a very tall young blue gum. Upon this flagstaff it was Silas’s habit to hoist the large Union Jack on the Queen’s birthday, Christmas Day, and other State occasions.
+
+“Now, Jantje,” he said, when he had bent on the bunting, “run her up, and I’ll cheer!” and accordingly, as the broad flag floated out on the breeze, he took off his hat and waved it, and gave such a “hip, hip, hoorah!” in his stentorian tones that Bessie ran out from the house to see what was the matter. Nor was he satisfied with this, but, having obtained a ladder, he placed it against the post and sent Jantje up it, instructing him to fasten the rope on which the flag was bent at a height of about fifteen feet from the ground, so that nobody should get at it to haul it down.
+
+“There,” he said, “I’ve nailed my colours to the mast. That will show these gentry that an Englishman lives here.
+
+“Amen,” said Bessie, but she had her doubts about the wisdom of that Union Jack, which, whenever the wind blew, streamed out, a visible defiance not calculated to soothe the breasts of excited patriots.
+
+Indeed, two days after that, a patrol of three Boers, spying the ensign whilst yet a long way off, galloped up in hot haste to see what it meant. Silas saw them coming, and, taking his rifle in his hand, went and stood beneath the flag, for which he had an almost superstitious veneration, feeling sure that they would not dare to meddle either with him or it.
+
+“What is the meaning of this, Oom Silas?” asked the leader of the three men, with all of whom he was perfectly acquainted.
+
+“It means that an Englishman lives here, Jan,” was the answer.
+
+“Haul the dirty rag down!” said the man.
+
+“I will see you damned first!” replied old Silas.
+
+Thereon the Boer dismounted and made for the flagstaff, only to find “Uncle Croft’s” rifle in a direct line with his chest.
+
+“You will have to shoot me first, Jan,” he said, and thereon, after some consultation, they left him and went away.
+
+In truth, his British nationality notwithstanding, Silas Croft was very popular with the Boers, most of whom had known him since they were children, and to whose Volksraad he had twice been elected. It was to this personal popularity he owed the fact that he was not turned out of his house, and forced to choose between serving against his countrymen or being imprisoned and otherwise maltreated at the very commencement of the rebellion.
+
+For a fortnight or more after this flag episode nothing of any importance happened, and then came the tidings of the crushing defeat at Laing’s Nek. At first, Silas Croft would not believe it. “No general could have been so mad,” he said; but soon the report was amply confirmed from native sources.
+
+Another week passed, and with it came the news of the British defeat at Ingogo. The first they heard of it was on the morning of February 8, when Jantje brought a Kafir up to the verandah at breakfast-time. This Kafir said that he had been watching the fight from a mountain; that the English were completely hemmed in and fighting well, but that “their arms were tired,” and they would all be killed at night-time. The Boers, he said, were not suffering at all--the English could not “shoot straight.” After hearing this they passed a sufficiently miserable day and evening. About twelve o’clock that night, however, a native spy despatched by Mr. Croft returned with the report that the English general had won safely back to camp, having suffered heavily and abandoned his wounded, many of whom had died in the rain, for the night after the battle was wet.
+
+Then came another long pause, during which no reliable news reached them, though the air was thick with rumours, and old Silas was made happy by hearing that large reinforcements were on their way from England.
+
+“Ah, Bessie, my dear, they will soon sing another song now,” he said in great glee; “and what’s more, it’s about time they did. I can’t understand what the soldiers have been about--I can’t indeed.”
+
+And so the time wore heavily along till at last there came a dreadful day, which Bessie will never forget so long as she lives. It was the 20th of February--just a week before the final disaster at Majuba Hill. Bessie was standing idly on the verandah, looking down the long avenue of blue gums, where the shadows formed a dark network to catch the wandering rays of light. The place looked very peaceful, and certainly no one could have known from its appearance that a bloody war was being waged within a few miles. The Kafirs came and went about their work as usual, or made pretence to; but now and then a close observer might see them stop, look towards the Drakensberg, and then say a few words to their neighbour about the wonderful thing which had come to pass, that the Boers were beating the great white people, who came out of the sea and shook the earth with their tread. Whereon the neighbour would take the opportunity to relax from toil, squat down, have a pinch of snuff, and relate in what particular collection of rocks on the hillside he and his wives slept the last night--for when the Boers are out on commando the Kafirs will not sleep in their huts for fear of being surprised and shot down. Then the pair would spend half an hour or so in speculating on what would be their fate when the Boer had eaten up the Englishman and taken back the country, and finally come to the conclusion that they had better emigrate to Natal.
+
+Bessie, on the verandah, noted all this going on, every now and again catching snatches of the lazy rascals’ talk, which chimed in but too sadly with her own thoughts. Turning from them impatiently, she began to watch the hens marching solemnly about the drive, followed by their broods. This picture, also, had a sanguinary background, for under an orange-tree two rival cocks were fighting furiously. They always did this about once a week, nor did they cease from troubling till each retired, temporarily blinded, to the shade of a separate orange-tree, where they spent the rest of the week in recovering, only to emerge when the cure was effected and fight their battle over again. Meanwhile, a third cock, young in years but old in wisdom, who steadily refused to retaliate when attacked, looked after the hens in dispute. To-day the fray was particularly ferocious, and, fearing that the combatants would have no eyes left at all if she did not interfere, Bessie called to the old Boer hound who was lying in the sun on the verandah.
+
+“Hi, Stomp, Stomp--hunt them, Stomp!”
+
+Up jumped Stomp and made a prodigious show of furiously attacking the embattled cocks; it was an operation to which he was used, and which afforded him constant amusement. Suddenly, however, as he dashed towards the trees, the dog stopped midway, his simulated wrath ceased, and instead of it, an expression of real disgust grew upon his honest face. Then the hair along his backbone stood up like the quills upon the fretful porcupine, and he growled.
+
+“A strange Kafir, I expect,” said Bessie to herself.
+
+Stomp hated strange Kafirs. She had scarcely uttered the words before they were justified by the appearance of a native. He was a villainous-looking fellow, with one eye, and nothing on but a ragged pair of trousers fastened round the middle with a greasy leather strap. In his wool, however, were stuck several small distended bladders such as are generally worn by medicine-men and witch-doctors. With his left hand he held a long stick, cleft at one end, and in the cleft was a letter.
+
+“Come here, Stomp,” said Bessie, and as she spoke a wild hope shot across her heart like a meteor across the night: perhaps the letter was from John.
+
+The dog obeyed her unwillingly enough, for evidently he did not like that Kafir; and when he saw that Stomp was well out of the way the Kafir himself followed. He was an insolent fellow, and took no notice of Bessie before squatting himself down upon the drive in front of her.
+
+“What is it?” said Bessie in Dutch, her lips trembling as she spoke.
+
+“A letter,” answered the man.
+
+“Give it to me.”
+
+“No, missie, not till I have looked at you to see if it is right. Light yellow hair that curls--one,” checking it on his fingers, “yes, that is right; large blue eyes--two, that is right; big and tall, and fair as a star--yes, the letter is for you, take it,” and he poked the long stick almost into her face.
+
+“Where is it from?” asked Bessie, with sudden suspicion and recoiling a step.
+
+“Wakkerstroom last.”
+
+“Who is it from?”
+
+“Read it, and you will see.”
+
+Bessie took the letter, which was wrapped in a piece of old newspaper, from the cleft of the stick and turned it over and over doubtfully. Most of us have a mistrust of strange-looking letters, and this letter was unusually strange. To begin it, with had no address whatever on the dirty envelope, which seemed curious. In the second place, that envelope was sealed, apparently with a threepenny bit.
+
+“Are you sure it is for me?” asked Bessie.
+
+“Yah, yah--sure, sure,” answered the native, with a rude laugh. “There are not many such white girls in the Transvaal. I have made no mistake. I have ‘smelt you out.’” And he began to go through his catalogue--“Yellow hair that curls,” &c.--again.
+
+Then Bessie opened the letter. Inside was an ordinary sheet of paper written over in a bold, firm, yet slightly unpractised writing that she knew well enough, and the sight of which filled her with a presentiment of evil. It was Frank Muller’s.
+
+She turned sick and cold, but could not choose but read as follows:
+
+“Camp, near Pretoria. 15 February.
+
+“Dear Miss Bessie,--I am sorry to have to write to you, but though we have quarrelled lately, and also your good uncle, I think it my duty to do so, and send this to your hand by a special runner. Yesterday was a sortie made by the poor folk in Pretoria, who are now as thin with hunger as the high veldt oxen just before spring. Our arms were again victorious; the redcoats ran away and left their ambulance in our hands, carrying with them many dead and wounded. Among the dead was the Captain Niel----”
+
+Here Bessie uttered a sort of choking cry, and let the letter fall over the verandah, to one of the posts of which she clung with both her hands.
+
+The ill-favoured native below grinned, and, picking the paper up, handed it to her.
+
+She took it, feeling that she must know all, and read on like one reads in some ghastly dream:
+
+“who has been staying on your uncle’s farm. I did not see him killed myself, but Jan Vanzyl shot him, and Roi Dirk Oosthuizen, and Carolus, a Hottentot, saw them pick him up and carry him away. They say that he was quite dead. For this I fear you will be sorry, as I am, but it is the chance of war, and he died fighting bravely. Make my obedient compliments to your uncle. We parted in anger, but I hope in the new circumstances that have arisen in the land to show him that I, for one, bear no anger.--Believe me, dear Miss Bessie, your humble and devoted servant,
+
+“Frank Muller.”
+
+Bessie thrust the letter into the pocket of her dress, then again she caught hold of the verandah post, and supported herself by it, while the light of the sun appeared to fade visibly out of the day before her eyes and to replace itself by a cold blackness in which there was no break. He was dead!--her lover was dead! The glow had gone from her life as it seemed to be going from the day, and she was left desolate. She had no knowledge of how long she stood thus, staring with wide eyes at the sunshine she could not see. She had lost her count of time; things were phantasmagorical and unreal; all that she could realise was this one overpowering, crushing fact--John was dead!
+
+“Missie,” said the ill-favoured messenger below, fixing his one eye upon her poor sorrow-stricken face, and yawning.
+
+There was no answer.
+
+“Missie,” he said again, “is there any answer? I must be going. I want to get back in time to see the Boers take Pretoria.”
+
+Bessie looked at him vaguely. “Yours is a message that needs no answer,” she said. “What is, is.”
+
+The brute laughed. “No, I can’t take a letter to the Captain,” he said; “I saw Jan Vanzyl shoot him. He fell so,” and suddenly he collapsed all in a heap on the path, in imitation of a man struck dead by a bullet. “I can’t take him a message, missie,” he went on, rising, “but one day you will be able to go and look for him yourself. I did not mean that; what I meant was that I could take a letter to Frank Muller. A live Boer is better than a dead Englishman; and Frank Muller will make a fine husband for any girl. If you shut your eyes you won’t know the difference.”
+
+“Go!” said Bessie, in a choked voice, and pointing her hands towards the avenue.
+
+Such was the suppressed energy in her tone that the man sprang to his feet, and while he rose, interpreting her gesture as an encouragement to action, the old dog, Stomp, who had been watching him all the time, and occasionally giving utterance to a low growl of animosity, flew straight at his throat from the verandah. The dog, which was a heavy one, struck the man full in the chest and knocked him backwards. Down came dog and man on the drive together, and then ensued a terrible scene, the man cursing and shrieking and striking out at the dog, and the dog worrying the man in a fashion that he was not liable to forget for the remainder of his life.
+
+Bessie, whose energy seemed again to be exhausted, took absolutely no notice of the fray, and it was at this juncture that her old uncle arrived upon the scene, together with two Kafirs--the same whom Bessie had seen idling.
+
+“Hullo! hullo!” he halloed in his stentorian tones, “what is all this about? Get off, you brute!” and what between his voice and the blows of the Kafirs the dog was persuaded to let go his hold of the man, who staggered to his feet, severely mauled, and bleeding from half a dozen bites.
+
+For a moment he did not say anything, but picked up his sticks. Then, however, having first made sure that the dog was being held by the Kafirs, he turned, his face streaming with blood, his one eye blazing with fury, and, shaking both his clenched fists at poor Bessie, broke into a scream of cursing.
+
+“You shall pay for this--Frank Muller shall make you pay for it. I am his servant. I----”
+
+“Get out of this, however you are,” thundered old Silas, “or by Heaven I will let the dog on you again!” and he pointed to Stomp, who was struggling wildly with the two Kafirs.
+
+The man paused and looked at the dog, then, with a final shake of the fist, he departed at a run down the avenue, turning once only to look if the dog were coming.
+
+With empty eyes Bessie watched him go, taking no more notice of him than she had of the noise of the fighting. Then, as though struck by a thought, she turned and went into the sitting-room.
+
+“What is all this, Bessie?” said her uncle, following her. “What does the man mean about Frank Muller?”
+
+“It means, uncle dear,” she said at last, in a voice that was something between a sob and a laugh, “that I am a widow before I am married. John is dead!”
+
+“Dead! dead!” said the old man, putting his hand to his forehead and turning round in a dazed sort of fashion, “John dead!”
+
+“Read the letter,” said Bessie, handing him Frank Muller’s missive.
+
+The old man took and read it. His hand shook so much that he was a long while in mastering its contents.
+
+“Good God!” he said at last, “what a blow! My poor Bessie,” and he drew her into his arms and kissed her. Suddenly a thought struck him. “Perhaps it is all one of Frank Muller’s lies,” he said, “or perhaps he made a mistake.”
+
+But Bessie did not answer. For the time, at any rate, hope had left her.

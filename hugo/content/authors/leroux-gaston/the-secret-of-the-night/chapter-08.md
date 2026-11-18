@@ -1,0 +1,256 @@
+---
+title: "Chapter 8 - The Little Chapel Of The Guards"
+weight: 8
+aliases:
+  - "/authors/leroux-gaston/the-secret-of-the-night/chapter-08.html"
+---
+
+Rouletabille took a long walk which led him to the Troitsky Bridge, then, re-descending the Naberjnaia, he reached the Winter Palace. He seemed to have chased away all preoccupation, and took a child’s pleasure in the different aspects of the life that characterizes the city of the Great Peter. He stopped before the Winter Palace, walked slowly across the square where the prodigious monolith of the Alexander Column rises from its bronze socket, strolled between the palace and the colonnades, passed under an immense arch: everything seemed Cyclopean to him, and he never had felt so tiny, so insignificant. None the less he was happy in his insignificance, he was satisfied with himself in the presence of these colossal things; everything pleased him this morning. The speed of the isvos, the bickering humor of the osvotchicks, the elegance of the women, the fine presences of the officers and their easy naturalness under their uniforms, so opposed to the wooden posturing of the Berlin military men whom he had noticed at the "Tilleuls" and in the Friederichstrasse between two trains. Everything enchanted him—the costume even of the moujiks, vivid blouses, the red shirts over the trousers, the full legs and the boots up to the knees, even the unfortunates who, in spite of the soft atmosphere, were muffled up in sheepskin coats, all impressed him favorably, everything appeared to him original and congenial.
+
+Order reigned in the city. The guards were polite, decorative and superb in bearing. The passers-by in that quarter talked gayly among themselves, often in French, and had manners as civilized as anywhere in the world. Where, then, was the Bear of the North? He never had seen bears so well licked. Was it this very city that only yesterday was in revolution? This was certainly the Alexander Park where troops a few weeks before had fired on children who had sought refuge in the trees, like sparrows. Was this the very pavement where the Cossacks had left so many bodies? Finally he saw before him the Nevsky Prospect, where the bullets rained like hail not long since upon a people dressed for festivities and very joyous. Nichevo! Nichevo! All that was so soon forgotten. They forgot yesterday as they forget to-morrow. The Nihilists? Poets, who imagined that a bomb could accomplish anything in that Babylon of the North more important than the noise of its explosion! Look at these people who pass. They have no more thought for the old attack than for those now preparing in the shadow of the "tracktirs." Happy men, full of serenity in this bright quarter, who move about their affairs and their pleasures in the purest air, the lightest, the most transparent on earth. No, no; no one knows the joy of mere breathing if he has not breathed the air there, the finest in the north of the world, which gives food and drink of beautiful white eau-de-vie and yellow pivo, and strikes the blood and makes one a beast vigorous and joyful and fatalistic, and mocks at the Nihilists and, as well, at the ten thousand eyes of the police staring from under the porches of houses, from under the skulls of dvornicks—all police, the dvornicks; all police, also the joyous concierges with extended hands. Ah, ah, one mocks at it all in such air, provided one has roubles in one’s pockets, plenty of roubles, and that one is not besotted by reading those extraordinary books that preach the happiness of all humanity to students and to poor girl-students too. Ah, ah, seed of the Nihilists, all that! These poor little fellows and poor little girls who have their heads turned by lectures that they cannot digest! That is all the trouble, the digestion. The digestion is needed. Messieurs the commercial travelers for champagne, who talk together importantly in the lobbies of the Grand Morskaia Hotel and who have studied the Russian people even in the most distant cities where champagne is sold, will tell you that over any table of hors-d’oeuvres, and will regulate the whole question of the Revolution between two little glasses of vodka, swallowed properly, quickly, elbow up, at a single draught, in the Russian manner. Simply an affair of digestion, they tell you. Who is the fool that would dare compare a young gentleman who has well digested a bottle of champagne or two, and another young man who has poorly digested the lucubrations of, who shall we say?—the lucubrations of the economists? The economists? The economists! Fools who compete which can make the most violent statements! Those who read them and don’t understand them go off like a bomb! Your health! Nichevo! The world goes round still, doesn’t it?
+
+Discussion political, economic, revolutionary, and other in the room where they munch hors-d’oeuvres! You will hear it all as you pass through the hotel to your chamber, young Rouletabille. Get quickly now to the home of Koupriane, if you don’t wish to arrive there at luncheon-time; then you would have to put off these serious affairs until evening.
+
+The Department of Police. Massive entrance, heavily guarded, a great lobby, halls with swinging doors, many obsequious schwitzars on the lookout for tips, many poor creatures sitting against the walls on dirty benches, desks and clerks, brilliant boots and epaulets of gay young officers who are telling tales of the Aquarium with great relish.
+
+"Monsieur Rouletabille! Ah, yes. Please be seated. Delighted, M. Koupriane will be very happy to receive you, but just at this moment he is at inspection. Yes, the inspection of the police dormitories in the barracks. We will take you there. His own idea! He doesn’t neglect anything, does he? A great Chief. Have you seen the police-guards’ dormitory? Admirable! The first dormitories of the world. We say that without wishing to offend France. We love France. A great nation! I will take you immediately to M. Koupriane. I shall be delighted."
+
+"I also," said Rouletabille, who put a rouble into the honorable functionary’s hand.
+
+"Permit me to precede you."
+
+Bows and salutes. For two roubles he would have walked obsequiously before him to the end of the world.
+
+"These functionaries are admirable," thought Rouletabille as he was led to the barracks. He felt he had not paid too much for the services of a personage whose uniform was completely covered with lace. They tramped, they climbed, they descended. Stairways, corridors. Ah, the barracks at last. He seemed to have entered a convent. Beds very white, very narrow, and images of the Virgin and saints everywhere, monastic neatness and the most absolute silence. Suddenly an order sounded in the corridor outside, and the police-guard, who sprang from no one could tell where, stood to attention at the head of their beds. Koupriane and his aide appeared. Koupriane looked at everything closely, spoke to each man in turn, called them by their names, inquired about their needs, and the men stammered replies, not knowing what to answer, reddening like children. Koupriane observed Rouletabille. He dismissed his aide with a gesture. The inspection was over. He drew the young man into a little room just off the dormitory. Rouletabille, frightened, looked about him. He found himself in a chapel. This little chapel completed the effect of the guards’ dormitory. It was all gilded, decorated in marvelous colors, thronged with little ikons that bring happiness, and, naturally, with the portrait of the Tsar, the dear Little Father.
+
+"You see," said Koupriane, smiling at Rouletabille’s amazement, "we deny them nothing. We give them their saints right here in their quarters." Closing the door, he drew a chair toward Rouletabille and motioned him to sit down. They sat before the little altar loaded with flowers, with colored paper and winged saints.
+
+"We can talk here without being disturbed," he said. "Yonder there is such a crowd of people waiting for me. I’m ready to listen."
+
+"Monsieur," said Rouletabille, "I have come to give you the report of my mission here, and to terminate my connection with it. All that is left for clearing this obscure affair is to arrest the guilty person, with which I have nothing to do. That concerns you. I simply inform you that someone tried to poison the general last night by pouring arsenate of soda into his sleeping-potion, which I bring you in this phial, arsenate which was secured most probably by washing it from grapes brought to General Trebassof by the marshal of the court, and which disappeared without anyone being able to say how."
+
+"Ah, ah, a family affair, a plot within the family. I told you so," murmured Koupriane.
+
+"The affair at least has happened within the family, as you think, although the assassin came from outside. Contrary to what you may be able to believe, he does not live in the house."
+
+"Then how does he get there?" demanded Koupriane.
+
+"By the window of the room overlooking the Neva. He has often come that way. And that is the way he returns also, I am sure. It is there you can take him if you act with prudence."
+
+"How do you know he often comes that way?"
+
+"You know the height of the window above the little roadway. To reach it he uses a water-trough, whose iron rings are bent, and also the marks of a grappling-iron that he carries with him and uses to hoist himself to the window are distinctly visible on the ironwork of the little balcony outside. The marks are quite obviously of different dates."
+
+"But that window is closed."
+
+"Someone opens it for him."
+
+"Who, if you please?"
+
+"I have no desire to know."
+
+"Eh, yes. It necessarily is Natacha. I was sure that the Villa des Iles had its viper. I tell you she doesn’t dare leave her nest because she knows she is watched. Not one of her movements outside escapes us! She knows it. She has been warned. The last time she ventured outside alone was to go into the old quarters of Derewnia. What has she to do in such a rotten quarter? I ask you that. And she turned in her tracks without seeing anyone, without knocking at a single door, because she saw that she was followed. She isn’t able to get to see them outside, therefore she has to see them inside."
+
+"They are only one, and always the same one."
+
+"Are you sure?"
+
+"An examination of the marks on the wall and on the pipe doesn’t leave any doubt of it, and it is always the same grappling-iron that is used for the window."
+
+"The viper!"
+
+"Monsieur Koupriane, Mademoiselle Natacha seems to preoccupy you exceedingly. I did not come here to talk about Mademoiselle Natacha. I came to point out to you the route used by the man who comes to do the murder."
+
+"Eh, yes, it is she who opens the way."
+
+"I can’t deny that."
+
+"The little demon! Why does she take him into her room at night? Do you think perhaps there is some love-affair...?"
+
+"I am sure of quite the opposite."
+
+"I too. Natacha is not a wanton. Natacha has no heart. She has only a brain. And it doesn’t take long for a brain touched by Nihilism to get so it won’t hesitate at anything."
+
+Koupriane reflected a minute, while Rouletabille watched him in silence.
+
+"Have we solely to do with Nihilism?" resumed Koupriane. "Everything you tell me inclines me more and more to my idea: a family affair, purely in the family. You know, don’t you, that upon the general’s death Natacha will be immensely rich?"
+
+"Yes, I know it," replied Rouletabille, in a voice that sounded singular to the ear of the Chief of Police and which made him raise his head.
+
+"What do you know?"
+
+"I? Nothing," replied the reporter, this time in a firmer tone. "I ought, however, to say this to you: I am sure that we are dealing with Nihilism..."
+
+"What makes you believe it?"
+
+"This."
+
+And Rouletabille handed Koupriane the message he had received that same morning.
+
+"Oh, oh," cried Koupriane. "You are under watch! Look out."
+
+"I have nothing to fear; I’m not bothering myself about anything further. Yes, we have an affair of the revolutionaries, but not of the usual kind. The way they are going about it isn’t like one of their young men that the Central Committee arms with a bomb and who is sacrificed in advance."
+
+"Where are the tracks that you have traced?"
+
+"Right up to the little Krestowsky Villa."
+
+Koupriane bounded from his chair.
+
+"Occupied by Boris. Parbleu! Now we have them. I see it all now. Boris, another cracked brain! And he is engaged. If he plays the part of the Revolutionaries, the affair would work out big for him."
+
+"That villa," said Rouletabille quietly, "is also occupied by Michael Korosakoff."
+
+"He is the most loyal, the most reliable soldier of the Tsar."
+
+"No one is ever sure of anything, my dear Monsieur Koupriane."
+
+"Oh, I am sure of a man like that."
+
+"No man is ever sure of any man, my dear Monsieur Koupriane."
+
+"I am, in every case, for those I employ."
+
+"You are wrong."
+
+"What do you say?"
+
+"Something that can serve you in the enterprise you are going to undertake, because I trust you can catch the murderer right in his nest. To do that, I’ll not conceal from you that I think your agents will have to be enormously clever. They will have to watch the datcha des Iles at night, without anyone possibly suspecting it. No more maroon coats with false astrakhan trimmings, eh? But Apaches, Apaches on the wartrail, who blend themselves with the ground, with the trees, with the stones in the roadway. But among those Apaches don’t send that agent of your Secret Service who watched the window while the assassin climbed to it."
+
+"What?"
+
+"Why, these climbs that you can read the proofs of on the wall and on the iron forgings of the balcony went on while your agents, night and day, were watching the villa. Have you noticed, monsieur, that it was always the same agent who took the post at night, behind the villa, under the window? General Trebassof’s book in which he kept a statement of the exact disposal of each of your men during the period of siege was most instructive on that point. The other posts changed in turn, but the same agent, when he was among the guard, demanded always that same post, which was not disputed by anybody, since it is no fun to pass the hours of the night behind a wall, in an empty field. The others much preferred to roll away the time watching in the villa or in front of the lodge, where vodka and Crimean wine, kwass and pivo, kirsch and tchi, never ran short. That agent’s name is Touman."
+
+"Touman! Impossible! He is one of the best agents from Kiew. He was recommended by Gounsovski."
+
+Rouletabille chuckled.
+
+"Yes, yes, yes," grumbled the Chief of Police. "Someone always laughs when his name is mentioned."
+
+Koupriane had turned red. He rose, opened the door, gave a long direction in Russian, and returned to his chair.
+
+"Now," said he, "go ahead and tell me all the details of the poison and the grapes the marshal of the court brought. I’m listening."
+
+Rouletabille told him very briefly and without drawing any deductions all that we already know. He ended his account as a man dressed in a maroon coat with false astrakhan was introduced. It was the same man Rouletabille had met in General Trebassof’s drawing-room and who spoke French. Two gendarmes were behind him. The door had been closed. Koupriane turned toward the man in the coat.
+
+"Touman," he said, "I want to talk to you. You are a traitor, and I have proof. You can confess to me, and I will give you a thousand roubles and you can take yourself off to be hanged somewhere else."
+
+The man’s eyes shrank, but he recovered himself quickly. He replied in Russian.
+
+"Speak French. I order it," commanded Koupriane.
+
+"I answer, Your Excellency," said Touman firmly, "that I don’t know what Your Excellency means."
+
+"I mean that you have helped a man get into the Trebassof villa by night when you were on guard under the window of the little sitting-room. You see that there is no use deceiving us any longer. I play with you frankly, good play, good money. The name of that man, and you have a thousand roubles."
+
+"I am ready to swear on the ikon of..."
+
+"Don’t perjure yourself."
+
+"I have always loyally served..."
+
+"The name of that man."
+
+"I still don’t know yet what Your Excellency means."
+
+"Oh, you understand me," replied Koupriane, who visibly held in an anger that threatened to break forth any moment. "A man got into the house while you were watching..."
+
+"I never saw anything. After all, it is possible. There were some very dark nights. I went back and forth."
+
+"You are not a fool. The name of that man."
+
+"I assure you, Excellency..."
+
+"Strip him."
+
+"What are you going to do?" cried Rouletabille.
+
+But already the two guards had thrown themselves on Touman and had drawn off his coat and shirt. The man was bare to the waist.
+
+"What are you going to do? What are you going to do?"
+
+"Leave them alone," said Koupriane, roughly pushing Rouletabille back.
+
+Seizing a whip which hung at the waist of the guards he struck Touman a blow across the shoulders that drew blood. Touman, mad with the outrage and the pain, shouted, "Yes, it is true! I brag of it!"
+
+Koupriane did not restrain his rage. He showered the unhappy man with blows, having thrown Rouletabille to the end of the room when he tried to interfere. And while he proceeded with the punishment the Chief of Police hurled at the agent who had betrayed him an accompaniment of fearful threats, promising him that before he was hanged he should rot in the bottom-most dungeon of Peter and Paul, in the slimy pits lying under the Neva. Touman, between the two guards who held him, and who sometimes received blows on the rebound that were not intended for them, never uttered a complaint. Outside the invectives of Koupriane there was heard only the swish of the cords and the cries of Rouletabille, who continued to protest that it was abominable, and called the Chief of Police a savage. Finally the savage stopped. Gouts of blood had spattered all about.
+
+"Monsieur," said Rouletabille, who supported himself against the wall. "I shall complain to the Tsar."
+
+"You are right," Koupriane replied, "but I feel relieved now. You can’t imagine the harm this man can have done to us in the weeks he has been here."
+
+Touman, across whose shoulders they had thrown his coat and who lay now across a chair, found strength to look up and say:
+
+"It is true. You can’t do me as much harm as I have done you, whether you think so or not. All the harm that can be done me by you and yours is already accomplished. My name is not Touman, but Matiev. Listen. I had a son that was the light of my eyes. Neither my son nor I had ever been concerned with politics. I was employed in Moscow. My son was a student. During the Red Week we went out, my son and I, to see a little of what was happening over in the Presnia quarter. They said everybody had been killed over there! We passed before the Presnia gate. Soldiers called to us to stop because they wished to search us. We opened our coats. The soldiers saw my son’s student waistcoat and set up a cry. They unbuttoned the vest, drew a note-book out of his pocket and they found a workman’s song in it that had been published in the Signal. The soldiers didn’t know how to read. They believed the paper was a proclamation, and they arrested my son. I demanded to be arrested with him. They pushed me away. I ran to the governor’s house. Trebassof had me thrust away from his door with blows from the butt-ends of his Cossacks’ guns. And, as I persisted, they kept me locked up all that night and the morning of the next day. At noon I was set free. I demanded my son and they replied they didn’t know what I was talking about. But a soldier that I recognized as having arrested my son the evening before pointed out a van that was passing, covered with a tarpaulin and surrounded by Cossacks. ‘Your son is there,’ he said; ‘they are taking him to the graves.’ Mad with despair, I ran after the van. It went to the outskirts of Golountrine cemetery. There I saw in the white snow a huge grave, wide, deep. I shall see it to my last minute. Two vans had already stopped near the hole. Each van held thirteen corpses. The vans were dumped into the trench and the soldiers commenced to sort the bodies into rows of six. I watched for my son. At last I recognized him in a body that half hung over the edge of the trench. Horrors of suffering were stamped in the expression of his face. I threw myself beside him. I said that I was his father. They let me embrace him a last time and count his wounds. He had fourteen. Someone had stolen the gold chain that had hung about his neck and held the picture of his mother, who died the year before. I whispered into his ear, I swore to avenge him. Forty-eight hours later I had placed myself at the disposition of the Revolutionary Committee. A week had not passed before Touman, whom, it seems, I resemble and who was one of the Secret Service agents in Kiew, was assassinated in the train that was taking him to St. Petersburg. The assassination was kept a secret. I received all his papers and I took his place with you. I was doomed beforehand and I asked nothing better, so long as I might last until after the execution of Trebassof. Ah, how I longed to kill him with my own hands! But another had already been assigned the duty and my role was to help him. And do you suppose I am going to tell you the name of that other? Never! And if you discover that other, as you have discovered me, another will come, and another, and another, until Trebassof has paid for his crimes. That is all I have to say to you, Koupriane. As for you, my little fellow," added he, turning to Rouletabille, "I wouldn’t give much for your bones. Neither of you will last long. That is my consolation."
+
+Koupriane had not interrupted the man. He looked at him in silence, sadly.
+
+"You know, my poor man, you will be hanged now?" he said.
+
+"No," growled Rouletabille. "Monsieur Koupriane, I’ll bet you my purse that he will not be hanged."
+
+"And why not?" demanded the Chief of rolice, while, upon a sign from him, they took away the false Touman.
+
+"Because it is I who denounced him."
+
+"What a reason! And what would you like me to do?"
+
+"Guard him for me; for me alone, do you understand?"
+
+"In exchange for what?"
+
+"In exchange for the life of General Trebassof, if I must put it that way."
+
+"Eh? The life of General Trebassof! You speak as if it belonged to you, as if you could dispose of it."
+
+Rouletabille laid his hand on Koupriane’s arm.
+
+"Perhaps that’s so," said he.
+
+"Would you like me to tell you one thing, Monsieur Rouletabille? It is that General Trebassof’s life, after what has just escaped the lips of this Touman, who is not Touman, isn’t worth any more than—than yours if you remain here. Since you are disposed not to do anything more in this affair, take the train, monsieur, take the train, and go."
+
+Rouletabille walked back and forth, very much worked up; then suddenly he stopped short.
+
+"Impossible," he said. "It is impossible. I cannot; I am not able to go yet."
+
+"Why?"
+
+"Good God, Monsieur Koupriane, because I have to interview the President of the Duma yet, and complete my little inquiry into the politics of the cadets."
+
+"Oh, indeed!"
+
+Koupriane looked at him with a sour grin.
+
+"What are you going to do with that man?" demanded Rouletabille.
+
+"Have him fixed up first."
+
+"And then?"
+
+"Then take him before the judges."
+
+"That is to say, to the gallows?"
+
+"Certainly."
+
+"Monsieur Koupriane, I offer it to you again. Life for life. Give me the life of that poor devil and I promise you General Trebassof’s."
+
+"Explain yourself."
+
+"Not at all. Do you promise me that you will maintain silence about the case of that man and that you will not touch a hair of his head?"
+
+Koupriane looked at Rouletabille as he had looked at him during the altercation they had on the edge of the Gulf. He decided the same way this time.
+
+"Very well," said he. "You have my word. The poor devil!"
+
+"You are a brave man, Monsieur Koupriane, but a little quick with the whip..."
+
+"What would you expect? One’s work teaches that."
+
+"Good morning. No, don’t trouble to show me out. I am compromised enough already," said Rouletabille, laughing.
+
+"Au revoir, and good luck! Get to work interviewing the President of the Duma," added Koupriane knowingly, with a great laugh.
+
+But Rouletabille was already gone.
+
+"That lad," said the Chief of Police aloud to himself, "hasn’t told me a bit of what he knows."

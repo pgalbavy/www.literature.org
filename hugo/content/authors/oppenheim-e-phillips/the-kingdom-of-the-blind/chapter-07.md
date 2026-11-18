@@ -1,0 +1,168 @@
+---
+title: "Chapter 7"
+weight: 7
+aliases:
+  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-07.html"
+---
+
+"I wonder why you don't like Captain Granet?" Geraldine asked her fiance, as they stood in the drawing-room waiting for dinner.
+
+"Not like him?" Thomson repeated. "Have I really given you that impression, Geraldine?"
+
+The girl nodded.
+
+"Perhaps I ought not to say that, though," she confessed. "You are never particularly enthusiastic about people, are you?"
+
+One of his rare smiles transfigured his face. He leaned a little towards her.
+
+"Not about many people, Geraldine," he whispered.
+
+She made a charming little grimace but a moment afterwards she was serious again.
+
+"But really," she continued, "to me Captain Granet seems just the type of young Englishman who is going to save the country. He is a keen soldier, clever, modest, and a wonderful sportsman. I can't think what there is about him fro any one to dislike."
+
+Major Thomson glanced across the room. In a way, he and the man whom he felt instinctively was in some sense of the word his rival, even though an undeclared one, were of exactly opposite types. Granet was the centre of a little group of people who all seemed to be hanging upon his conversation. He was full of high spirits and humour, debonair, with all the obvious claims to popularity. Thomson, on the other hand, although good-looking, even distinguished in his way, was almost too slim and pale. His face was more the face of a scholar than of one interested in or anxious to shine in the social side of life. His manners and his speech were alike reserved, his air of breeding was apparent, but he had not the natural ease or charm which was making Granet, even in those few minutes, persona grata with Geraldine's mother and a little circle of newly-arrived guests.
+
+"At least I appreciate your point of view," Major Thomson admitted, with a faint sigh.
+
+"Don't be such a dear old stick," Geraldine laughed. "I want you to like him because I find him so interesting. You see, as he gets to know one a little better he doesn't seem to mind talking about the war. You others will scarcely say a word of what you have seen or of what is being done out there. I like to be told things by people who have actually seen them. He happened to be ten minutes early this evening and he gave me a most fascinating description of some skirmishing near La Bassee."
+
+"You must remember," Thomson told her, "that personally I do not, in an ordinary way, see a great deal of fighting until the whole show is over. It may be a fine enough panorama when an attack is actually taking place, but there is nothing very inspiring in the modern battlefield when the living have passed away from it."
+
+Geraldine shivered for a moment.
+
+"Really, I almost wish that you were a soldier, too," she declared. "Your work seems to me so horribly gruesome. Come along, you know you are going to take me to dinner. Think of something nice to say. I really want to be amused."
+
+"I will make a suggestion, then," he remarked as they took their places. "I don't know whether you will find it amusing, though. Why shouldn't we do like so many of our friends, and get married?"
+
+She stared at him for a moment. Then she laughed heartily.
+
+"Hugh," she exclaimed, "I can see through you! You've suddenly realised that this is your chance to escape a ceremony and a reception, and all that sort of thing. I call it a most cowardly suggestion."
+
+"It rather appeals to me," he persisted. "It may be," he added, dropping his voice a little, "because you are looking particularly charming this evening, or it may be--"
+
+She looked at him curiously.
+
+"Go on, please," she murmured.
+
+"Or it may be," he repeated, "a man's desire to be absolutely sure of the thing he wants more than anything else in the world."
+
+There was a moment's silence. As though by some curious instinct which they both shared, they glanced across the table to where Granet had become the centre of a little babble of animated conversation. Geraldine averted her eyes almost at once, and looked down at her plate. There was a shade of uneasiness in her manner.
+
+"You sounds very serious, Hugh," she observed.
+
+"That is rather a failing of mine, isn't it?" he replied. "At any rate, I am very much in earnest."
+
+There was another brief silence, during which Geraldine was addressed by her neighbour on the other side. Thomson, who was watching her closely, fancied that she accepted almost eagerly the opportunity of diversion. It was not until dinner was almost over that she abandoned a conversion into which she had thrown herself with spirit.
+
+"My little suggestion," Thomson reminded her, "remains unanswered."
+
+She looked down at her plate.
+
+"I don't think you are really in earnest," she said.
+
+"Am I usually a farceur?" he replied. "I think that my tendencies are rather the other way. I really mean it, Gerald. Shall we talk about it later on this evening?"
+
+"If you like," she agreed simply, "but somehow I believe that I would rather wait. Look at mother's eye, roving around the table. Give me my gloves, please, Hugh. Don't be long."
+
+Thomson moved his chair next to his host's Geraldine's father, Admiral Sir Seymour Conyers, was a very garrulous old gentleman with fixed ideas about everything, a little deaf and exceedingly fond of conversation. He proceeded to give his prospective son-in-law a detailed lecture concerning the mismanagement of the field hospitals at the front, and having disposed of that subject, he opened a broadside attack upon the Admiralty. The rest of the men showed indications of breaking into little groups. Ralph Conyers and Granet were sitting side by side, engrossed in conversation. More than once Thomson glanced towards them.
+
+"Wish I understood more about naval affairs," Granet sighed. "I'm a perfect ass at any one's job but my own. I can't see how you can deal with submarines at all. The beggars can stay under the water as long as they like, they just pop up and show their heads, and if they don't like the look of anything near, down they go again. I don't see how you can get at them, any way."
+
+The young sailor smiled in a somewhat superior manner.
+
+"We've a few ideas left still which the Germans haven't mopped up," he declared.
+
+"Personally," the Admiral observed, joining in the conversation, "I consider the submarine danger the greatest to which this country has yet been exposed. No one but a nation of pirates, of ferocious and conscienceless huns, could have inaugurated such a campaign."
+
+"Good for you, dad!" his son exclaimed. "They're a rotten lot of beggars, of course, although some of them have behaved rather decently. There's one thing," he added, sipping his port, "there isn't a job in the world I'd sooner take on than submarine hunting."
+
+"Every one to his taste," Granet remarked good-humouredly. "Give me my own company at my back, my artillery well posted, my reserves in position, the enemy not too strongly entrenched, and our dear old Colonel's voice shouting 'At them, boys!' That's my idea of a scrap."
+
+There was a little murmur of sympathy. Ralph Conyers, however, his cigar in the corner of his mouth, smiled imperturbably.
+
+"Sounds all right," he admitted, "but for sheer excitement give me a misty morning, the bows of a forty-knot destroyer cutting the sea into diamonds, decks cleared for action, and old Dick in oilskins on the salute--'Enemy's submarine, sir, on the port bow, sir.'"
+
+"And what would you do then?" Granet asked.
+
+"See page seven Admiralty instructions this afternoon," the other replied, smiling. "We're not taking it sitting down, I can tell you."
+
+The Admiral rose and pushed back his chair.
+
+"I think," he said, "if you are quite sure, all of you, that you will take no more port, we should join the ladies."
+
+They trooped out of the room together. Thomson kept close behind Ralph Conyers and Captain Granet, who were talking no more of submarines, however, but of the last ballet at the Empire. Geraldine came towards them as they entered the drawing-room.
+
+"Hugh," she begged, passing her arm through his, "would you mind playing bridge?" The Mulliners are going on, and mother does miss her rubber so. And we can talk afterwards, if you like," she added.
+
+Thomson glanced across the room to where Granet was chatting with some other guests. Young Conyers for the moment was nowhere to be seen.
+
+"I'll play, with pleasure, Geraldine," he assented, "but I want to have a word with Ralph first."
+
+"He's at the telephone," she said. "The Admiralty rang up about something and he is talking to them. I'll tell him, if you like, when he comes up."
+
+"If you'll do that," Thomson promised, "I won't keep him a minute."
+
+The little party settled down to their game--Lady Conyers, Sir Charles Hankins,--a celebrated lawyer,--another man and Thomson. Geraldine, with Olive Moreton and Captain Granet, found a sofa in a remote corner of the room and the trio were apparently talking nonsense with great success. Presently Ralph reappeared and joined them.
+
+"Hugh wants to speak to you," Geraldine told him.
+
+Ralph glanced at the little bridge-table and made a grimace.
+
+"Hugh can wait," he declared, as he passed his arm through Olive's. "This is my last night on shore for heaven knows how long and I am going to take Olive off to see my photographs of the 'Scorpion.' Old Wilcock handed them to me out of his drawer this afternoon."
+
+The two young people disappeared. Captain Granet and Geraldine remained upon the couch, talking in low voices. Once Thomson, when he was dummy, crossed the room and approached them. Their conversation was suddenly suspended.
+
+"I told Ralph," Geraldine said, looking up, "that you wanted to speak to him, but he and Olive have gone off somewhere. By-the-bye, Hugh," she went on curiously, "you didn't tell me that you'd called on Captain Granet this evening."
+
+"Well, it wasn't a matter of vital importance, was it?" he answered, smiling. "My call, in any case, arose from an accident."
+
+"Major Thomson," came a voice from the other side of the room, "it is your deal."
+
+Thomson returned obediently to the bridge-table. The rubber was over a few minutes later and the little party broke up. Thomson glanced around but the room was empty.
+
+"I think, if I may," he said, "I'll go into the morning room and have a whisky and soda. I dare say I'll find the Admiral there."
+
+He took his leave of the others and made his way to the bachelor rooms at the back of the house. He looked first into the little apartment which Geraldine claimed for her own, but found it empty. He passed on into the smoking-room and found all four of the young people gathered around the table. They were so absorbed that they did not even notice his entrance. Ralph, with a sheet of paper stretched out before him and a pencil in his hand, was apparently sketching something. By his side was Granet. The two girls with arms interlocked, were watching intently.
+
+"You see," Ralph Conyers explained, drawing back for a moment to look at the result of his labours, "this scheme, properly worked out, can keep a channel route such as the Folkestone to Boulogne one, for instance, perfectly safe. Those black marks are floats, and the nets--"
+
+"One moment, Ralph," Thomson interrupted from the background.
+
+They all started and turned their heads. Thomson drew a step nearer and his hand fell upon the paper. There was a queer look in his face which Geraldine was beginning to recognise.
+
+"Ralph, old fellow," he said, "don't think me too much of an interfering beggar, will you? I don't think even to your dearest friend, not to the girl you are going to marry, to me, or to your own mother, would I finish that little drawing and description, if I were you."
+
+They all stared at him. Granet's face was expressionless, the girls were bewildered, Ralph was frowning.
+
+"Dash it all, Hugh," he expostulated, "do have a little common sense. Here's a fellow like Granet, a keen soldier and one of the best, doing all he can for us on land but a bit worried about our submarine danger. Why shouldn't I try and reassure him, eh?--let him see that we've a few little things up our sleeves?"
+
+"That sounds all right, Ralph," Thomson agreed, "but you're departing from a principle, and I wouldn't do it. It isn't a personal risk you're running, or a personal secret you're sharing with others. It may sound absurd under the present circumstances, I know, but--"
+
+Granet laughed lightly. His arm fell upon the young sailor's shoulder.
+
+"Perhaps Thomson's right, Conyers," he intervened. "You keep your old scheme at the back of your head. We'll know all about it when the history of the war's written. There's always the thousand to one chance, you know. I might get brain fever in a German hospital and begin to babble. Tear it up, old fellow."
+
+There was a moment's silence. Geraldine turned to Thomson.
+
+"Hugh," she protested, "don't you think you're carrying principle almost too far? It's so fearfully interesting for us when Ralph's at sea, and we wait day by day for news from him, to understand a little what he's doing."
+
+"I think you're a horrid nuisance, Major Thomson," Olive grumbled. "We'd just reached the exciting part."
+
+"I am sorry," Thomson said, "but I think, Ralph, you had better do what Captain Granet suggested."
+
+The young man shrugged his shoulders, his face was a little sulky. He took the plan up and tore it into pieces.
+
+"If you weren't my prospective brother-in-law, you know, Thomson," he exclaimed, "I should call your interference damned cheek! After all, you know, you're only a civilian, and you can't be expected to understand these things."
+
+Thomson was silent for a moment. He read in the others' faces their sympathy with the young sailor's complaint. He moved towards the door.
+
+"I am sorry," he said simply. "Good night, everybody!"
+
+They all wished him good-night--nobody stirred. He walked slowing into the front hall, waited for a moment and then accepted his coat and hat from a servant. Lady Conyers waved to him from the staircase.
+
+"Where's Geraldine?" she asked.
+
+Thomson turned away.
+
+"They are all in the smoking-room, Lady Conyers," he said. "Good night!"

@@ -1,0 +1,24 @@
+---
+title: "Chapter 2 - How To Fell A Tree"
+weight: 2
+aliases:
+  - "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-02.html"
+---
+
+Brownie Beaver could do many things that other forest-people (except his own relations) were not able to do at all. For instance, cutting down a tree was something that nobody but one of the Beaver family would think of attempting. But as for Brownie Beaver--if he ever saw a tree that he wanted to cut down he set to work at once, without even going home to get any tools. And the reason for that was that he always had his tools with him. For strange as it may seem, he used his teeth to do all his wood-cutting.
+
+The first thing to be done when you set out to fell a tree with your teeth is to strip off the bark around the bottom of the trunk, so that a white band encircles it. At least, that was the way Brownie Beaver always began. And no doubt he knew what he was about.
+
+After he had removed the band of bark Brownie began to gnaw away chips of wood, where the white showed. And as he gnawed, he slowly sidled round and round the tree, until at last only the heart of the tree was left to keep the tree from toppling over.
+
+Then Brownie Beaver would stop his gnawing and look all about, to pick out a place where he wanted the tree to fall. And as soon as Brownie had made up his mind about that, he quickly gnawed a few more chips out of the heart of the tree on the side toward the spot where he intended it to come toppling down upon the ground.
+
+Brownie Beaver would not have to gnaw long before the tree would begin to lean. All the time it leaned more and more. And the further over it sagged, the faster it tipped. Luckily, Brownie Beaver always knew just the right moment to jump out of the way before the tree fell.
+
+If you had ever seen him you might have thought he was frightened, because he never failed to run away and hide as the tree crashed down with a sound almost like thunder.
+
+But Brownie was not at all frightened. He was merely careful. Knowing what a loud noise the falling tree would make, and that it might lead a man (or some other enemy) to come prowling around, to see what had happened, Brownie used to stay hidden until he felt quite sure that no one was going to trouble him.
+
+You can understand that waiting, as he did, was no easy matter when you stop to remember that one of Brownie's reasons for cutting down a tree was that he wanted to eat the tender bark to be found in the tree-top. It was exactly like knowing your dinner was on the table, all ready for you, and having to hide in some dark corner for half an hour, before going into the dining-room. You know how hungry you would get, if you had to do that.
+
+Well, Brownie Beaver used to get just as hungry as any little boy or girl. How he did tear at the bark, when he finally began to eat! And how full he stuffed his mouth! And how he did enjoy his meal! But everybody will admit that he had a right to enjoy his dinner, for he certainly worked hard enough to get it.

@@ -1,0 +1,140 @@
+---
+title: "Chapter 9"
+weight: 9
+aliases:
+  - "/authors/coolidge-dane/the-desert-trail/chapter-09.html"
+---
+
+Not the least of the causes which have brought Mexico to the brink of the abyss is the endless quarrel between church and state, which has almost destroyed the sanctity of marriage and left, besides, a pitiful heritage of deserted women and fatherless children as its toll.
+
+Many an honest laborer has peoned himself to pay the priest for his marriage, only to be told that it is not legal in the eyes of the law; and many another, married by the judge, has been gravely informed by the padre that the woman is only his mistress, and the children born out of wedlock.
+
+So that now, to be sure that she is wedded, a woman must be married twice, and many a couple, on account of the prohibitive fees, are never married at all.
+
+Cruz Mendez was no different from the men of his class, and he believed honestly that he was married to the comely Maria; but Hooker could have enlightened him on that point if he had cared to do it.
+
+Bud was playing a game, with the Eagle Tail mine for a stake; and, being experienced at poker, he stood pat and studied his hand. Without doubt Mendez had lost his usefulness as a locator of the mine, since Maria was not his legal wife and could not sign the transfer papers as such. According to the law of the land, the woman now living with Aragon's mayordomo was the "legitimate" wife of the contract, and she alone could release the title to the mine once Mendez denounced the claim.
+
+But Mendez had not yet denounced the claim--though for a period of some thirty days yet he had the exclusive privilege of doing so--and Bud did not intend that he should.
+
+Meanwhile they must walk softly, leaving Aragon still to hug the delusion that he would soon, through his mayordomo, have them in his power--and when the full sixty days of Cruz Mendez's mining permit had expired they could locate the mine again.
+
+But how--and through whom? That was the question that Bud was studying upon when Phil rode up the trail, and in his abstraction he barely returned his gay greeting.
+
+"Well, cheer up, old top!" cried De Lancey, throwing his bridle-reins to the ground and striding up to the tent. "What ho, let down the portcullis, me lord seneschal! And cease your vain repining, Algernon--our papers are all O.K. and the lawyer says to go ahead. But that isn't half the news! Say, we had a dance up at the hotel last night and I met--"
+
+"Yes--sure you did," broke in Bud; "but listen to this!" And he told him of El Tuerto's matrimonial entanglements.
+
+"Why, the crooked devil!" exclaimed De Lancey, leaping up at the finish. "_Oyez!_ Mendez!"
+
+"Don't say a word," warned Bud, springing to the tent door to intercept him, "or you'll put us out of business! It is nothing," he continued in Spanish as Mendez came out of his house, "but put Don Felipe's horse in the corral when he is cool."
+
+"Sí, señor--with great pleasure!" smirked Mendez, running to get the horse, and after he had departed Bud turned back and shook his head.
+
+"We can't afford to quarrel with Mr. Mendez," he said; "because if Aragon ever gets hold of him we're ditched. Jest let everything run on like we'd overlooked something until the sixty days are up--then, if we get away with it, we'll locate the mine ourselves."
+
+"Yes; but how?"
+
+"Well, the's two ways," returned Bud; "either hunt up another Mexican citizen or turn Mexican ourselves."
+
+"Turn Mexican!" shrilled Phil, and then he broke down and laughed. "Well, you're a great one, Bud," he chortled; "you sure are!"
+
+"I come down here to get this mine," said Bud laconically.
+
+"Yes, but you're a Texan--or was one!"
+
+"That makes no difference," answered Bud stoutly. "The hot weather is coming on--revolution is likely to begin any time--and there ain't a single Mexican we can trust. Jest one more break now and we lose out--now how about it?"
+
+"Who's going to turn Mexican," questioned De Lancey, "you or me?"
+
+"Well--_I_ will, then!"
+
+"No, you won't, either!" cried Phil, forgetting his canny shrewdness. "I'll do it myself! I'm half Mexican already, I've been eating chili so long!"
+
+"Now here," began Bud, "listen to me. I've been thinking this over all day and you jest heard about it. The man that turns Mexican is likely to get mixed up with the authorities and have to skip the country, but the other feller is in the other way--he's got to stay with the works till hell freezes over.
+
+"Now you're an engineer and you know how to open up a mine--I don't. So, if you say so, I'll take out the papers and you hold the mine--or if you want to you can turn Mex."
+
+"Well," said De Lancey, his voice suddenly becoming soft and pensive, "I might as well tell you, Bud, that I'm thinking of settling in this country, anyway. Of course, I don't look at Aragon the way you do--I think you are prejudiced and misjudge him--but ever since I've known Gracia I've--"
+
+"Gracia!" repeated Bud; and then, stirred by some great and unreasoning anger, he rose up and threw down his hat pettishly. "I'd think, Phil," he muttered, "you'd be satisfied with all the other girls in the world without--"
+
+"Now here!" shouted Phil, rising as unreasoningly to his feet, "don't you say another word against that girl, or I'll--"
+
+"Shut your mouth, you little shrimp!" bellowed Bud, wheeling upon him menacingly. "You seem to think you're the only man in the world that--"
+
+"Oh, slush, Bud!" cried Phil in disgust. "You don't mean to tell me you're in love with Gracia too!"
+
+"Who--me?" demanded Hooker, his face suddenly becoming fixed and mask-like; and then he laughed hoarsely in derision and sank down on the bed.
+
+Certainly, of the two of them, he was the more surprised at his sudden outbreak of passion; and yet when the words were spoken he was quick to know that they were true.
+
+Undoubtedly, in his own way, he was in love--but he would never admit it, that he knew, too. So he sank down on the blankets and swore harshly, while De Lancey stared at him in unfeigned surprise.
+
+"Well, then," he went on, taking Bud's answer for granted, "what're you making such a row about? Can't I go to a dance with a girl without you jumping down my throat?"
+
+"W'y, sure you can!" rumbled Bud, now hot with a new indignation. "But after getting me to go into this deal against my will and swearing me to some damn-fool pledge, the first thing you do is to make friends with Aragon and then make love to his daughter. Is that your idea of helping things along? D'ye think that's the way a pardner ought to act? No, I tell you, it is not!"
+
+"Aw, Bud," protested De Lancey plaintively, "what's the matter with you? Be reasonable, old man; I never meant to hurt your feelings!"
+
+"Hurt my feelings!" echoed Hooker scornfully. "Huh, what are we down here for, anyway--a Sunday-school picnic? My feelings are nothing, and they can wait; but we're sitting on a mine that's worth a million dollars mebbe--and it ain't ours, either--and when you throw in with old Aragon and go to making love to his daughter you know you're not doing right! That's all there is to it--you're doing me and Kruger dirt!"
+
+"Well, Bud," said De Lancey with mock gravity, "if that's the way you feel about it I won't do it any more!"
+
+"I wish you wouldn't," breathed Bud, raising his head from his hands; "it sure wears me out, Phil, worrying about it."
+
+"Well, then, I won't do it," protested Phil sincerely. "So that's settled--now who's going to turn Mexican citizen?"
+
+"Suit yourself," said Bud listlessly.
+
+"I'll match you for it!" proposed De Lancey, diving into his pocket for money.
+
+"Don't need to," responded Bud; "you can do what you please."
+
+"No; I'll match you!" persisted Phil. "That was the agreement--whenever it was an even break we'd let the money talk. Here's your quarter--and if I match you I'll become the Mexican citizen. All set? Let 'er go!"
+
+He flipped the coin into the air and caught it in his hand.
+
+"Heads!" he called, without looking at it. "What you got?"
+
+"Heads!" answered Bud, and Phil chucked his money into the air again and laughed as it dropped into his palm.
+
+"Heads she is again!" he cried, showing the Mexican eagle. "I never did see the time when I couldn't match you, anyway. So now, old socks, you can keep right on being a Texan and hating Mexicans like horny toads, and I'll denounce the Eagle Tail the minute the time is up. And I won't go near the Aragon outfit unless you're with me--is that a go? All right, shake hands on it, pard! I wouldn't quarrel with you for anything!"
+
+"Aw, that's all right," mumbled Bud, rising and holding out his hand. "I knowed you didn't mean nothing." He sat down again after that and gazed drearily out the door.
+
+"Say, Bud," began Phil, his eyes sparkling with amusement, "I've got something to tell you about that dance last night. If I didn't put the crusher on Mr. Feliz Luna and Manuel del Rey! Wow! I sure wished you were there to see me do it.
+
+"This Feliz Luna is the son of an old sugar-planter down in the hot country somewhere. He got run out by the revoltosos and now he's up here trying to make a winning with Gracia Aragon--uniting two noble families, and all that junk. Well, sir, of all the conceited, swelled-up little squirts you ever saw in your life he's the limit, and yet the old man kind of favors him.
+
+"But this Manuel del Rey is the captain of the rurales around here and a genuine Mexican fire-eater--all buckskin and fierce mustachios, and smells like chili peppers and garlic--and the two of 'em were having it back and forth as to who got the next dance with Gracia.
+
+"Well, you know how it is at a Mexican dance--everybody is supposed to be introduced to everybody else--and when I saw those two young turkey-cocks talking with their hands and eyebrows and everybody else backing off, I stepped in close and looked at the girl.
+
+"And she's some girl, too, believe me! The biggest brown eyes you ever saw in your life, a complexion like cream, and hair--well, there never was such hair! She was fanning herself real slow, and in the language of the fan that means: 'This don't interest me a bit!' So, just to show her I was wise, I pulled out my handkerchief and dropped it on the floor, and when she saw me she stopped and began to count the ribs in her fan. That was my cue--it meant she wanted to speak with me--so I stepped up and said:
+
+"'Excuse me, señorita, but while the gentlemen talk--and if the señora, your mother, will permit--perhaps we can enjoy a dance?'
+
+"And say, Bud, you should have seen the way she rose to it. That girl is a sport, believe me, and the idea of those two novios chewing the rag while she sat out the dance didn't appeal to her at all. So she gave me her hand and away we went, with all the old ladies talking behind their fans and Manuel del Rey blowing up like a volcano in a bunch of carambas or worse. Gee, it was great, and she could dance like a queen.
+
+"But here's the interesting part of it--what do you think she asked me, after we'd had our little laugh? Well, you don't need to get so grouchy about it--she asked about you!"
+
+"Aw!"
+
+"Yes, she did! So you see what you get for throwing her down!"
+
+"What did she ask?"
+
+"Well, she asked--" here he stopped and laughed--"she asked if you were a cowboy!"
+
+"No!" cried Bud, pleased in spite of himself. "What does she know about cowboys?"
+
+"Oh, she's wise!" declared Phil. "She's been to school twice in Los Angeles and seen the wild West show. Yes, sir, she's just like an American girl and speaks English perfectly. She told me she didn't like the Mexican men--they were too stuck on themselves--and say, Bud, when I told her you were a genuine Texas cowboy, what do you think she said?"
+
+"W'y, I don't know," answered Bud, smiling broadly in anticipation; "what did she say?"
+
+"She said she'd like to know you!"
+
+"She did not!" came back Bud with sudden spirit.
+
+Though he laughed the thought away, a great burden seemed to be lifted from his heart, and he found himself happy again.

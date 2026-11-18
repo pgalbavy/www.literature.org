@@ -1,0 +1,8 @@
+---
+title: "The Ass Carrying The Image"
+weight: 120
+aliases:
+  - "/authors/aesop/fables/chapter-118.html"
+---
+
+AN ASS once carried through the streets of a city a famous wooden Image, to be placed in one of its Temples. As he passed along, the crowd made lowly prostration before the Image. The Ass, thinking that they bowed their heads in token of respect for himself, bristled up with pride, gave himself airs, and refused to move another step. The driver, seeing him thus stop, laid his whip lustily about his shoulders and said, "O you perverse dull-head! it is not yet come to this, that men pay worship to an Ass." They are not wise who give to themselves the credit due to others.

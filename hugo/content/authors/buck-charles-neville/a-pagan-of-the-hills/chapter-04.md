@@ -1,0 +1,114 @@
+---
+title: "Chapter 4"
+weight: 4
+aliases:
+  - "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-04.html"
+---
+
+Brent had wondered how the Parson and his exhausted companions would, in the short time at their disposal, be able to call out a new force of volunteers. If the dam gave way and the rafts were swept out the thing would probably happen by noon and there were few telephones in this sparsely peopled community. Yet the device was simple and one of pioneer directness. In many of those households to which the tired workers returned, there were brothers or sons who had heretofore stayed at home. Those who had responded to the first call were all men who were not afraid of toil, but those who might answer the second would be men who courted the hazards of adventure. Sheer dare-deviltry would arouse in them a responsiveness which had remained numb to the call of industry. Down the yellow and turgid path of swollen waters each spring went huge rafted masses of logs manned by brawny fellows who at other times never saw the world that lay "down below." Hastily reared shacks rose on the floating timber islands and bonfires glowed redly. The crews sang wild songs and strummed ancient tunes on banjo and "dulcimore." They fortified themselves against the bite of the chill night air from the jugs which they never forgot. Sometimes they flared into passion and fought to the death, but oftener they caroused good-naturedly as they watched the world flatten and the rivers broaden to the lowlands. After the "tide" took them there was no putting into harbor, no turning back. They were as much at the mercy of the onsweeping waters as is a man who clings to driftwood.
+
+Rafting on the "spring-tide" called out the wilder and more venturesome element; but even that differed vastly from the present situation. It differed just as riding a spirited horse does from trusting oneself, without stirrup leather or bridle rein, to the pell-mell vagaries of a frenzied runaway.
+
+"Ye says Alexander aims ter ride one of them rafts, ef hit gets carried out o' thar?" inquired a tall young man, whose eyes were reckless and dissipated, as a wearied kinsman stumbled into a cabin and threw himself down limply in a chair.
+
+The tall young man was accounted handsome in a crude, back-country way and fancied himself the devil of a fellow with the ladies. "Wa'al," he drawled, "I reckon ef a gal kin undertake hit, I hain't none more timorous then what she air." And to that frankly spoken sentiment he added an inward after-word. "Folks 'lows thet she hain't got no time o' day fer men--but when we ends up this hyar trip, I'll know more erbout thet fer myself." He turned and began making his rough preparations for the voyage.
+
+And as Jase Mallows rose to the bait of that unusual call, so others like him rose and each of them was a man conspicuous for recklessness and wildness among a people where these qualities do not elicit comment until they become extreme.
+
+An hour or two later Brent, eying the fresh arrivals, frowned a bit dubiously as he compared them with the human beavers who had moiled there through the night. It was, he reflected, as though the sheep had gone and the goats had come in their stead.
+
+Then as the newcomers fell to their task of throwing up rough shanties for shelter upon the rafts it seemed to Will Brent as safe a proposition to embark with them as to be shipwrecked with a crew of pirates.
+
+He had himself entertained no intention of boarding any of these three rafts, but he was not craven, and if a girl was going to trust herself to those chances of flood and human passion he told himself that he could do no less than stand by.
+
+The river was already creeping above the gnarled sycamore roots that jutted out of the precipice, marking the highest stage of previous flood tides.
+
+The two neighbor women had come back into the room where Aaron McGivins lay wounded. The man himself, reassured by the presence of his daughter, had fallen at last into an undisturbed sleep and the doctor delivered himself of the first encouragement that had crossed his sternly honest lips. "I reckon now he's got a right even chanst ter git well ef he kin contrive ter rest a-plenty."
+
+The girl's head came back, with a spasmodic jerk. It was the sudden relaxing of nerves that had been held taut to the snapping point. With a step suddenly grown unsteady she made her way to a chair by the hearth and sat gazing fixedly at the dying embers.
+
+She had not let herself hope too much, and now a sudden rush of repressed tears threatened a flood like the one which had come outdoors from the broken tightness of the ice.
+
+But she felt upon her the critical eyes of the neighbor women and refused to surrender to emotion. After a little period of respite she let herself out of the door into the rain that had begun falling with a sobbing fitfulness, and went through the starkness of the woods.
+
+Back of the house was the "spring-branch" of which she had spoken as a gauge to the stage of the flood. By some freakish law of co-ordination, which no one had ever been able to explain, that small stream gave a reading of conditions across the ridge, as a pulse-beat gives the tempo of the blood's current. One could look at it and estimate with fair accuracy how fast and how high the river was rising. When a rotting stump beside the basin of the spring had water around its roots it meant that the arteries of the hills were booming into torrential fury. When the basin overflowed, the previous maximum of the river's rise had been equaled. It was overflowing now.
+
+Alexander stood for a moment gazing with widened and terrified eyes. She had now no time to lose. The lapping waters of a tiny brook were calling her to prompt and hazardous action. She fell to her knees and clasped her hands in a clutch of desperation. "God, give me strength right now ter ack like a man," she prayed. "Hit seems like ther fust time I'm called on, I'm turnin' plum woman-weak."
+
+Then she rose and pressed her pounding temples. It was not the fear of a runaway river that held her in a tormenting suspense of indecision, but the hard choice between leaving her father or fulfilling a duty to which he had assigned her in his stead.
+
+When she opened the door of the house again she saw an agitated figure kneeling beside the bed. For all its breadth of shoulder and six feet of height; for all its inherited stoicism that had stood through generations, it was shaking with sobs.
+
+As Alexander came into the room her brother rose from his knees with pallid cheeks and woebegone eyes.
+
+"Who shot him?" he demanded in a tense voice. "These hyar folks won't tell me nuthin'."
+
+The girl repressed an impulse of satirical laughter. She knew that Joe McGivins would storm and swear vengeance upon the hand that had been raised to strike his father down and that beyond hysterical vehemence his indignation would come to nothing. He would believe himself sincere and in the end his resolution would waste away into procrastination and specious excuses.
+
+"Whoever shot him, Joe," she replied, maintaining the complimentary fiction that she must temporize with his just wrath, "Paw he's done exacted a pledge thet neither of us won't seek ter avenge ther deed. Hit's a pledge thet binds us both."
+
+Even while his temples were still hot with his first wave of passionate indignation, Joe McGivins felt that a bitter cup had passed from him.
+
+"Joe," said the girl in a low voice, "I wants thet ye heeds me clost. Ef we fails ter save this timber hit'll jest erbout kill Paw. Ef ther dam busts loose, somebody's got ter ride them rafts."
+
+The boy's face paled abruptly. He was a handsome youth, outwardly cut to as fine a pattern of physical fitness as his sister exemplified, but in his eyes one found none of her dauntlessness of spirit. Hurriedly Alexander swept on.
+
+"I aims ter go back over thar right now. He's got ter be kept quiet an' so I dastn't tell him what I seeks ter do. I hain't fearsome of leavin' ye ter watch after him. I knows ye kin gentle him an' comfort him even better'n I could do hit myself."
+
+She thrust out her hand, boy fashion, and her brother clasped it. Five minutes later she stood looking down on her father's closed eyes, listening to the easy breathing of the man in the bed.
+
+On the floor at her feet lay the pack which she meant to take with her, a rifle leaned against a chair and a pistol was slung in a holster under her left arm-pit--Alexander was accountred for her venture.
+
+Brent watched her swinging down the slope with an easy, space-devouring stride. He had begun to think she would be too late; more than half to hope she would be too late. If she arrived on time there was, of course, no turning back. It should be recorded to his credit that no man had guessed at his inner trepidation. But the sullen swell of the thundering waters had beaten not only on his ears but on his heart as well--and dread had settled over him like a pall.
+
+Immeasurable power was lashing itself into a merciless fury. Boundless might was loosening into frenzy. He had seen the misshapen wreckage of houses and barns ride by, bobbing like bits of cork. He had seen the swirl of foam that was like the froth of a vast hydrophobia.
+
+The men who had volunteered stood braced and ready at the long sweeps with which, fore and aft, they would seek to hold the course.
+
+Alexander leaped from the shore to the last of the three rafts, and looked about her. Perhaps she had no eye just now for a thing that Brent had noted as significant; the gleam in the eyes that bent upon her arrival.
+
+"Does ye aim ter ride with us, Mr. Brent?" she inquired and when he nodded his assent she said deliberately: "Ye comes from ther city--an' this hyar's liable ter be a rough trip. I reckon I ought ter warn ye whilst thar's still time ter turn back. We've got ter go out on a whirl-pool betwixt them walls of rock an' thar may not be nothin' left but kindlin' wood."
+
+"Thank you," was the somewhat curt response. "I'm taking no greater chances than the rest of you."
+
+No longer was it possible to hope that the dam would hold against the rising crescendo of that battering from beyond and the insidious tongues that licked at its foundations.
+
+It was now only a matter of time, and the hour which followed was a period of dire suspense. Through small breaks already gushed minor cataracts--all growing. No man offered to turn aside but some had recourse to the steadying influence of the pocket flask. Between the gorge's sides they had swift glimpses of racing flotsam that had yesterday been dwelling houses and they waited, nerve-stretched, for the crash that would launch them into the same precarious channel. Their out-going would be as violent and eruptive as that of lava from a crater.
+
+Then the dam broke.
+
+It gave way with a rending such as must have been sounded in the days when a molten globe was cooling. From the base of the dam sucking tongues had licked out boulders that upheld the formation as a keystone holds an arch. It went into collapse with an explosive splintering and left fang-like reefs still standing. Through the breach fell the ponderous weight of a river left unsupported.
+
+First, the inrush flung the rafts backwards against the banks, and then the churning whirlpool which was developed sent them spinning madly outward. The rafts jammed together and trembled with a groaning shudder. They wavered and undulated like cloth and that nearest the gorge lunged outward, dashed against one wall of precipice, caromed off and ground against the other. About the edges, it had gone to splinters but the core still held. The second raft, by some miracle, rode through without collision to ride tilting about the curve into the channel proper. Brent saw, through dazed and uncertain eyes, figures bending to long poles. He felt such a sickening sensation as a man in a barrel may experience at the moment of going over the crest of Niagra. Through it all he felt rather than saw the figure of a girl in man's clothing standing at the center of the raft, poised with bent knees against shock; and with a Valkyrie fire in her eyes.
+
+A half hour later the man from town drew a freer breath. It was still a wild enough ride, but after the lurching dash out of the cauldron, it seemed a peaceful voyage. Now down the center of the river they swept at tide-speed. At either end of each raft men bent to the sweeps in the task of their crude piloting. Tree tops brushed under them as they went and far out on either side were wide-reaching lagoons that had been high ground three days ago.
+
+Alexander herself was standing a little apart and Brent was of a mind to draw her into conversation but as he approached her he decided that this was not the time to improve acquaintanceship. Her air of detachment amounted to aloofness and Brent remembered that she had, weighing upon her, the anxiety of her father's condition.
+
+Jase Mallows, however, just then relieved from duty at the steering sweep, was less subtle of deduction. With his eye on Alexander, whose back was turned to him, he jauntily straightened his shoulders and gave his long mustache a twirl. Brent thought of the turkey-gobbler's strut as, with amused eyes, he watched the backwoods lady-killer. Jase had heard many of the old wives' tales of Alexander and thought of her as one, ambitious of amorous conquest, may think of a famous and much discussed beauty. Had she been another woman, Jase would before now have gone over to the house on a "sparking" expedition, but Old Man McGivins had discouraged such aspirations--and his daughter had been no less definite of attitude. Here, however, he had the girl on neutral ground and meant to seize his opportunity.
+
+So he strolled over to her with an ingratiating smile.
+
+"Aleck," he began in the drawling voice which he himself rather fancied, "we hed a right norrer squeak of hit back thar didn't we?"
+
+There should have been discouragement in the coolness of the glance that she turned upon him, but Jase had the blessing of self-confidence.
+
+"Ye war thar yerself--ye ought ter know," said Alexander curtly. Then she added, "An' don't call me Aleck--my name's Alexander."
+
+Jase Mallows reddened to his temples. There had been moments, even in the straining activity of these hours, for him to boast to his fellows that it would be interesting to watch the progress of his campaign for the affections of Alexander. Now they were watching.
+
+So Jase laughed awkwardly. "Wa'al, thet's reasonable enough," he handsomely conceded. "A gal's got a rather es ter what name she's ter be called by an' ef she's es purty es you be she kin afford ter be high-headed too."
+
+Alexander stood looking the man over from head to foot as though studying a new species--possibly a species of insect-life. Under that embarrassing scrutiny Jase fidgeted his hands. Eventually he drew out a flask and having uncorked it he ceremoniously wiped the bottle's mouth with the palm of his hand. "Let's take a leetle dram ter better acquaintances," he suggested. "Thet thar's licker I wouldn't offer ter nobody but a reg'lar man. Hit's got a kick like a bob-tailed mule."
+
+With features that had not altered their expression, the girl reached out her hand and accepted the bottle.
+
+She held the thing before her, looking at it for a moment, then with a swift gesture tossed it sidewise into the river.
+
+Jase Mallows bent forward and his face flamed, but his anger seemed a tame and little thing to the wrath that leaped from calm to blazing eruption in the woman's eyes.
+
+"Whilst we're aboard this hyar raft," Alexander announced with an utterance that cut like a zero wind, "I'm boss an' I aims fer men ter stay sober. Ef thet don't suit you--go ashore."
+
+"How?" inquired Jase with a heavy irony and Alexander replied shortly, "Thet's yore business."
+
+She turned on her heel and walked away leaving the discomfited Lothario staring after her with so malign an anger that the men within ear-shot stifled their twitters of amusement and pretended to have overheard nothing.

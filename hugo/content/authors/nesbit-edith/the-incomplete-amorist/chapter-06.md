@@ -1,0 +1,224 @@
+---
+title: "Chapter 6 - The Criminal"
+weight: 6
+aliases:
+  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-06.html"
+---
+
+If you have found yourself, at the age of eighteen, a prisoner in your own bedroom you will be able to feel with Betty. Not otherwise. Even your highly strung imagination will be impotent to present to you the ecstasy of rage, terror, resentment that fills the soul when locked door and barred windows say, quite quietly, but beyond appeal: "Here you are, and here, my good child, you stay."
+
+All the little familiar objects, the intimate associations of the furniture of a room that has been for years your boudoir as well as your sleeping room, all the decorations that you fondly dreamed gave to your room a cachet - the mark of a distinctive personality, - these are of no more comfort to you than would be strange bare stone walls and a close unfamiliar iron grating.
+
+Betty tried to shake the window bars, but they were immovable. She tried to force the door open, but her silver buttonhook was an insufficient lever, and her tooth-brush handle broke when she pitted it in conflict against the heavy, old-fashioned lock. We have all read how prisoners, outwitting their gaolers, have filed bars with their pocket nail-scissors, and cut the locks out of old oak doors with the small blade of a penknife. Betty's door was only of pine, but her knife broke off short; and the file on her little scissors wore itself smooth against the first unmoved bar.
+
+She paced the room like a caged lioness. We read that did the lioness but know her strength her bars were easily shattered by one blow of her powerful paw. Betty's little pink paws were not powerful like the lioness's, and when she tried to make them help her, she broke her nails and hurt herself.
+
+It was this moment that Letitia chose for rapping at the door.
+
+"You can't come in. What is it?" Betty was prompt to say.
+
+"Mrs. Edwardes's Albert, Miss, come for the Maternity bag."
+
+"It's all ready in the school-room cupboard," Betty called through the door. "Number three."
+
+She resisted an impulse to say that she had broken the key in the lock and to send for the locksmith. No: there should be no scandal at Long Barton, - at least not while she had to stay in it.
+
+She did not cry. She was sick with fury, and anger made her heart beat as Vernon had never had power to make it.
+
+"I will be calm. I won't lose my head," she told herself again and again. She drank some water. She made herself eat the neglected breakfast. She got out her diary and wrote in it, in a handwriting that was not Betty's, and with a hand that shook like totter-grass.
+
+"What will become of me? What has become of him? My step-father must have done something horrible to him. Perhaps he has had him put in prison; of course he couldn't do that in these modern times, like in the French revolution, just for talking to some one he hadn't been introduced to, but he may have done it for trespassing, or damage to the crops, or something. I feel quite certain something has happened to him. He would never have deserted me like this in my misery if he were free. And I can do nothing to help him - nothing. How shall I live through the day? How can I bear it? And this awful trouble has come upon him just because he was kind to another artist. The world is very, very, very cruel. I wish I were dead!" She blotted the words and locked away the book. Then she burnt that farewell note and went and sat in the window-seat to watch for her step-father's return.
+
+The time was long. At last he came. She saw him open the carriage door and reach out a flat foot, feeling for the carriage step. He stepped out, turned and thrust a hand back into the cab. Was he about to hand out a stern-faced Protestant sister, who would take her to Westerham, and she would never be heard of again? Betty set her teeth and waited anxiously to see if the sister seemed strong. Betty was, and she would fight for her liberty. With teeth and nails if need were.
+
+It was no Protestant sister to whom the Reverend Cecil had reached his hand. It was only his umbrella. Betty breathed again.
+
+Well, now at least he'll come and speak to me: he must come himself; even he couldn't give the key to the servants and say: "Please go and unlock Miss Lizzie and bring her down!"
+
+Betty would not move. "I shall just stay here and pretend I didn't know the door was locked," said she.
+
+But her impatience drove her back to the caged-lioness walk and when at last she heard the key turn in the door she had only just time to spring to the window-seat and compose herself in an attitude of graceful defiance.
+
+It was thrown away.
+
+The door only opened wide enough to admit a dinner tray pushed in by a hand she knew. Then the door closed again.
+
+The same thing happened with tea and supper.
+
+It was not till after supper that Betty, gazing out on the pale watery sunset, found it blurred to her eyes. There was no more hope now. She was a prisoner. If He was not a prisoner he ought to be. It was the only thing that could excuse his silence. He might at least have gone by the gate or waved a handkerchief. Well, all was over between them, and Betty was alone in the world. She had not cried all day, but now she did cry.
+
+Vernon always prided himself on having a heart for any fate, but this was one of the interviews that one would rather have avoided. All day he had schooled himself to resignation, had almost reconciled himself to the spoiling of what had promised to be a masterpiece. Explications with Betty would brush the bloom off everything. Yet he must play the part well. But what part? Oh, hang all meddlers!
+
+"Miss Desmond," said the landlady; and he braced his nerves to meet a tearful, an indignant or a desperate Betty.
+
+But there was no Betty to be met; no Betty of any kind.
+
+Instead, a short squarely-built middle-aged lady walked briskly into the room, and turned to see the door well closed before she advanced towards him.
+
+He bowed with indescribable emotions.
+
+"Mr. Eustace Vernon?" said the lady. She wore a sensible short skirt and square-toed brown boots. Her hat was boat-shaped and her abundant hair was screwed up so as to be well out of her way. Her face was square and sensible like her shoulders, and her boots. Her eyes dark, clear and near sighted. She wore gold-rimmed spectacles and carried a crutch-handled cane. No vision could have been less like Betty.
+
+Vernon bowed, and moved a chair towards her.
+
+"Thank you," she said, and took it. "Now, Mr. Vernon, sit down too, and let's talk this over like reasonable beings. You may smoke if you like. It clears the brain."
+
+Vernon sat down and mechanically took out a cigarette, but he held it unlighted.
+
+"Now," said the square lady, leaning her elbows on the table and her chin on her hands, "I am Betty's aunt."
+
+"It is very good of you to come," said Vernon helplessly.
+
+"Not at all," she briskly answered. "Now tell me all about it."
+
+"There's nothing to tell," said Vernon.
+
+"Perhaps it will clear the ground a little if I say at once that I haven't come to ask your intentions, because of course you haven't any. My reverend brother-in-law, on the other hand, insists that you have, and that they are strictly dishonourable."
+
+Vernon laughed, and drew a breath of relief.
+
+"I fear Mr. Underwood misunderstood, - " he said, "and - "
+
+"He is a born misunderstander," said Miss Julia Desmond. "Now, I'm not. Light your cigarette, man; you can give me one if you like, to keep you in countenance. A light - thanks. Now will you speak, or shall I?"
+
+"You seem to have more to say than I, Miss Desmond."
+
+"Ah, that's because you don't trust me. In other words, you don't know me. That's one of the most annoying things in life: to be really an excellent sort, and to be quite unable to make people see it at the first go-off. Well, here goes. My worthy brother-in-law finds you and my niece holding hands in a shed."
+
+"We were not," said Vernon. "I was telling her fortune - "
+
+"It's my lead now," interrupted the lady. "Your turn next. He being what he is - to the pure all things are impure, you know - instantly draws the most harrowing conclusions, hits you with a stick. - By the way, you behaved uncommonly well about that."
+
+"Thank you," said Vernon, smiling a little. It is pleasant to be appreciated.
+
+"Yes, really very decently, indeed. I daresay it wouldn't have hurt a fly, but if you'd been the sort of man he thinks you are - However that's neither here nor there. He hits you with a stick, locks the child into her room - What did you say?"
+
+"Nothing," said Vernon.
+
+"All right. I didn't hear it. Locks her in her room, and wires to my sister. Takes a carriage to Sevenoaks to do it too, to avoid scandal. I happen to be at my sister's, on my way from Cairo to Norway, so I undertake to run down. He meets me at the station, and wants me to go straight home and blackguard Betty. But I prefer to deal with principals."
+
+"You mean - "
+
+"I mean that I know as well as you do that whatever has happened has been your doing and not that dear little idiot's. Now, are you going to tell me about it?"
+
+He had rehearsed already a form of words in which "Brother artists" should have loomed large. But now that he rose, shrugged his shoulders and spoke, it was in words that had not been rehearsed.
+
+"Look here, Miss Desmond," said he, "the fact is, you're right. I haven't any intentions - certainly not dishonourable ones. But I was frightfully bored in the country, and your niece is bored, too - more bored than I am. No one ever understands or pities the boredom of the very young," he added pensively.
+
+"Well?"
+
+"Well, that's all there is to it. I liked meeting her, and she liked meeting me."
+
+"And the fortune-telling? Do you mean to tell me you didn't enjoy holding the child's hand and putting her in a silly flutter?"
+
+"I deny the flutter," he said, "but - Well, yes, of course I enjoyed it. You wouldn't believe me if I said I didn't."
+
+"No," said she.
+
+"I enjoyed it more than I expected to," he added with a frankness that he had not meant to use, "much more. But I didn't say a word of love - -only perhaps - "
+
+"Only perhaps you made the idea of it underlie every word you did speak. Don't I know?" said Miss Desmond. "Bless the man, I've been young myself!"
+
+"Miss Betty is very charming," said he, "and - and if I hadn't met her - "
+
+"If you hadn't met her some other man would. True; but I fancy her father would rather it had been some other man."
+
+"I didn't mean that in the least," said Vernon with some heat. "I meant that if I hadn't met her she would have gone on being bored, and so should I. Don't think me a humbug, Miss Desmond. I am more sorry than I can say that I should have been the means of causing her any unhappiness."
+
+"'Causing her unhappiness,' - poor little Betty, poor little trusting innocent silly little girl! That's about it, isn't it?"
+
+It was so like it that he hotly answered:
+
+"Not in the least."
+
+"Well, well," said Miss Desmond, "there's no great harm done. She'll get over it, and more's been lost on market days. Thanks."
+
+She lighted a second cigarette and sat very upright, the cigarette in her mouth and her hands on the handle of her stick.
+
+"You can't help it, of course. Men with your coloured eyes never can. That green hazel - girls ought to be taught at school that it's a danger-signal. Only, since your heart's not in the business any more than her's is - as you say, you were both bored to death - I want to ask you, as a personal favour to me, just to let the whole thing drop. Let the girl alone. Go right away."
+
+"It's an unimportant detail, and I'm ashamed to mention it," said Vernon, "but I've got a picture on hand - I'm painting a bit of the Warren."
+
+"Well, go to Low Barton and put up there and finish your precious picture. You won't see Betty again unless you run after her."
+
+"To tell the truth," said Vernon, "I had already decided to let the whole thing drop. I'm ashamed of the trouble I've caused her and - and I've taken rooms at Low Barton."
+
+"Upon my word," said Miss Desmond, "you are the coldest lover I've ever set eyes on."
+
+"I'm not a lover," he answered swiftly. "Do you wish I were?"
+
+"For Betty's sake, I'm glad you aren't. But I think I should respect you more if you weren't quite so arctic."
+
+"I'm not an incendiary, at any rate," said he, "and that's something, with my coloured eyes, isn't it?"
+
+"Well," she said, "whatever your temperature is, I rather like you. I don't wonder at Betty in the least."
+
+Vernon bowed.
+
+"All I ask is your promise that you'll not speak to her again."
+
+"I can't promise that, you know. I can't be rude to her. But I'll promise not to go out of my way to meet her again." He sighed.
+
+"As, yes - it is sad - all that time wasted and no rabbits caught." Again Miss Desmond had gone unpleasantly near his thought. Of course he said:
+
+"You don't understand me."
+
+"Near enough," said Miss Desmond; "and now I'll go."
+
+"Let me thank you for coming," said Vernon eagerly; "it was more than good of you. I must own that my heart sank when I knew it was Miss Betty's aunt who honoured me with a visit. But I am most glad you came. I never would have believed that a lady could be so reasonable and - and - "
+
+"And gentlemanly?" said the lady. "Yes, - it's my brother-in-law who is the old woman, poor dear! You see, Mr. Vernon, I've been running round the world for five and twenty years, and I've kept my eyes open. And when I was of an age to be silly, the man I was silly about had your coloured eyes. He married an actress, poor fellow, - or rather, she married him, before he could say 'knife.' That's the sort of thing that'll happen to you, unless you're uncommonly careful. So that's settled. You give me your word not to try to see Betty?"
+
+"I give you my word. You won't believe in my regret - "
+
+"I believe in that right enough. It must be simply sickening to have the whole show given away like this. Oh, I believe in your regret!"
+
+"My regret," said Vernon steadily, "for any pain I may have caused your niece. Do please see how grateful I am to you for having seen at once that it was not her fault at all, but wholly mine."
+
+"Very nicely said: good boy!" said Betty's aunt. "Well, my excellent brother-in-law is waiting outside in the fly, gnashing his respectable teeth, no doubt, and inferring all sorts of complications from the length of our interview. Good-bye. You're just the sort of young man I like, and I'm sorry we haven't met on a happier footing. I'm sure we should have got on together. Don't you think so?"
+
+"I'm sure we should," said he truly. "Mayn't I hope - "
+
+She laughed outright.
+
+"You have indeed the passion for acquaintance without introduction," she said. "No, you may not call on me in town. Besides, I'm never there. Good-bye. And take care of yourself. You're bound to be bitten some day you know, and bitten badly."
+
+"I wish I thought you forgave me."
+
+"Forgive you? Of course I forgive you! You can no more help making love, I suppose - no, don't interrupt: the thing's the same whatever you call it - you can no more help making love than a cat can help stealing cream. Only one day the cat gets caught, and badly beaten, and one day you'll get caught, and the beating will be a bad one, unless I'm a greater fool than I take myself for. And now I'll go and unlock Betty's prison and console her. Don't worry about her. I'll see that she's not put upon. Good night. No, in the circumstances you'd better not see me to my carriage!"
+
+She shook hands cordially, and left Vernon to his thoughts.
+
+Miss Desmond had done what she came to do, and he knew it. It was almost a relief to feel that now he could not try to see Betty however much he wished it, - however much he might know her to wish it. He shrugged his shoulders and lighted another cigarette.
+
+Betty, worn out with crying, had fallen asleep. The sound of wheels roused her. It seemed to rain cabs at the Rectory to-day.
+
+There were voices in the hall, steps on the stairs. Her door was unlocked and there entered no tray of prisoner's fare, no reproachful step-father, no Protestant sister, but a brisk and well-loved aunt, who shut the door, and spoke.
+
+"All in the dark?" she said. "Where are you, child?"
+
+"Here," said Betty.
+
+"Let me strike a light. Oh, yes, there you are!"
+
+"Oh, aunt, - has he sent for you?" said Betty fearfully. "Oh, don't scold me, auntie! I am so tired. I don't think I can bear any more."
+
+"I'm not going to scold you, you silly little kitten," said the aunt cheerfully. "Come, buck up! It's nothing so very awful, after all. You'll be laughing at it all before a fortnight's over."
+
+"Then he hasn't told you?"
+
+"Oh, yes, he has; he's told me everything there was to tell, and a lot more, too. Don't worry, child. You just go straight to bed and I'll tuck you up, and we'll talk it all over in the morning."
+
+"Aunty," said Betty, obediently beginning to unfasten her dress, "did he say anything about Him?"
+
+"Well, yes - a little."
+
+"He hasn't - hasn't done anything to him, has he?"
+
+"What could he do? Giving drawing lessons isn't a hanging matter, Bet."
+
+"I haven't heard anything from him all day, - and I thought - "
+
+"You won't hear anything more of him, Betty, my dear. I've seen your Mr. Vernon, and a very nice young man he is, too. He's frightfully cut up about having got you into a row, and he sees that the only thing he can do is to go quietly away. I needn't tell you, Betty, though I shall have to explain it very thoroughly to your father, that Mr. Vernon is no more in love with you than you are with him. In fact he's engaged to another girl. He's just interested in you as a promising pupil."
+
+"Yes," said Betty, "of course I know that."

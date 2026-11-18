@@ -1,0 +1,74 @@
+---
+title: "Chapter 6"
+weight: 7
+aliases:
+  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-06.html"
+---
+
+The author of "Peaceful Repose" sez to me, and she looked pale and skairt; she had heard every word Josiah had said, and she wuz dretful skairt and shocked (not knowin' the ways of men, and not understandin', as I said prior and before, that in two hours' time he would be jest as good as the very best kind of pie, affectionate, and even spoony, if I would allow spoons, which I will not the most of the time). Wall, she proposed, Miss Fogg did, that she should ride back with the livery man. And though I urged her to stay till night, I couldn't urge her as hard as I would otherwise, for by that time the head of the procession of visitors had reached the door-step, and I had to meet 'em with smiles.
+
+[Illustration: "SHE PROPOSED THAT SHE SHOULD RIDE BACK WITH THE LIVERY MAN."]
+
+I smiled some, I thought I must. But they wuz curius smiles, very, strange-lookin' smiles, sort o' gloomy ones, and mournful lookin'. I have got lots of different smiles that I keep by me for different occasions, every woman has, and this wuz one of my most mournfulest and curiusest ones.
+
+Wall, the author of "Wedlock's Peaceful and Perfect Repose" insisted on goin', and she went. And I sez to her as she went down the steps, "That if she would come up some other day when I didn't have quite so much work round, I would be as good as my word to her about hearin' her rehearse the lecture."
+
+But she said, as she hurried out to the gate, lookin' pale an' wan (as wan agin as she did when she came, if not wanner): "That she should make changes in it before she ever rehearsed it agin - deep changes!"
+
+And I should dare to persume to say that she did. Though, as I say, she went off most awful sudden, and I hadn't seen nor heard from her sence till I got this letter.
+
+Wall, jest as I got through with the authoresses letter, and Lodema Trumble's, Josiah Allen came. And I hurried up the supper. I got it all on the table while I wuz a steepin' my tea (it wuz good tea). And we sot down to the table happy as a king and his queen. I don't s'pose queens make a practice of steepin' tea, but mebby they would be better off if they did - and have better appetites and better tea. Any way we felt well, and the supper tasted good. And though Josiah squirmed some when I told him Lodema wuz approachin' and would be there that very night or the next day - still the cloud wore away and melted off in the glowin' mellowness of the hot tea and cream, the delicious oysters and other good things.
+
+[Illustration: "MY PARDNER ENJOYS GOOD VITTLES."]
+
+My pardner, though, as he often says, is not a epicack, still he duz enjoy good vittles dretful well and appreciates 'em. And I make a stiddy practice of doin' the best I can by him in this direction.
+
+And if more females would foller on and cipher out this simple rule, and get the correct answer to it, the cramp in the right hands of divorce lawyers would almost entirely disappear.
+
+For truly it seems that no human man could be more worrysome, and curius, and hard to get along with than Josiah Allen is at times; still, by stiddy keepin' of my table set out with good vittles from day to day, and year to year, the golden cord of affection has bound him to me by ties that can't never be broken into.
+
+He worships me! And the better vittles I get, the more he thinks on me. For love, however true and deep it is, is still a tumultous sea; it has its high tides, and its low ones, its whirlpools, and its calms.
+
+He loves me a good deal better some days than he does others; I see it in his mean. And mark you! mark it well, female reader, these days are the ones that I cook up sights and sights of good food, and with a cheerful countenance and clean apron, set it before him in a bright room, on a snowy table-cloth!
+
+Great - great is the mystery of men's love.
+
+I have often and often repeated this simple fact and truth that underlies married life, and believe me, dear married sisters, too much cannot be said about it, by those whose hearts beat for the good of female and male humanity - and it cannot be too closely followed up and practised by female pardners.
+
+But I am a-eppisodin'; and to resoom.
+
+Wall, Lodema Trumble arrove the next mornin' bright and early - I mean the mornin' wuz bright, not Lodema - oh no, fur from it; Lodema is never bright and cheerful - she is the opposite and reverse always.
+
+She is a old maiden. I do think it sounds so much more respectful to call 'em so rather than "old maid" (but I had to tutor Josiah dretful sharp before I could get him into it).
+
+I guess Lodema is one of the regular sort. There is different kinds of old maidens, some that could marry if they would, and some that would but couldn't. And I ruther mistrust she is one of the "would-but-couldn't's," though I wouldn't dast to let her know I said so, not for the world.
+
+Josiah never could bear the sight of her, and he sort o' blamed her for bein' a old maiden. But I put a stop to that sudden, for sez I:
+
+"She hain't to blame, Josiah."
+
+And she wuzn't. I hain't a doubt of it.
+
+Wall, how long she calculated to stay this time we didn't know. But we had our fears and forebodin's about it; for she wuz in the habit of makin' awful long visits. Why, sometimes she would descend right down onto us sudden and onexpected, and stay fourteen weeks right along - jest like a famine or a pestilence, or any other simely that you are a mind to bring up that is tuckerin' and stiddy.
+
+And she wuz disagreeable, I'll confess, and she wuz tuckerin', but I done well by her, and stood between her and Josiah all I could. He loved to put on her, and she loved to impose on him. I don't stand up for either on 'em, but they wuz at regular swords' pints all the time a'most. And it come fearful tuff on me, fearful tuff, for I had to stand the brunt on it.
+
+But she is a disagreeable creeter, and no mistake. She is one of them that can't find one solitary thing or one solitary person in this wide world to suit 'em. If the weather is cold she is pinin' for hot weather, and if the weather is hot she is pantin' for zero.
+
+[Illustration: "BUT SHE IS A DISAGREEABLE CREETER."]
+
+If it is a pleasant day the sun hurts her eyes, and if it is cloudy she groans aloud and says "she can't see."
+
+And no human bein' wuz ever known to suit her. She gets up early in the mornin' and puts on her specs, and goes out (as it were) a-huntin' up faults in folks. And she finds 'em, finds lots of 'em. And then she spends the rest of the day a-drivin' 'em ahead of her, and groanin' at 'em.
+
+You know this world bein' such a big place and so many different sort o' things in it that you can generally find in it the perticuler sort of game you set out to hunt in the mornin'.
+
+If you set out to hunt beauty and goodness, if you take good aim and are perseverin' - if you jest track 'em and foller 'em stiddy from mornin' till night, and don't get led away a-follerin' up some other game, such as meanness and selfishness and other such worthless head o' cattle - why, at night you will come in with a sight of good game. You will be a noble and happy hunter.
+
+[Illustration: "BUT FIT WITH THEIR TONGUES, FEARFUL."]
+
+At the same time, if you hunt all day for faults you will come in at night with sights of pelts. You will find what you hunt for, track 'em right along and chase 'em down. Wall, Lodema never got led away from her perticuler chase. She just hunted faults from mornin' till night, and done well at it. She brought in sights of skins.
+
+But oh! wuzn't it disagreeable in the extreme to Samantha, who had always tried to bend her bow and bring down Beauty, to have her familiar huntin' grounds turned into so different a warpath. It wuz disagreeable! It wuz! It wuz!
+
+And then, havin' to stand between her and Josiah too, wuz fearful wearin' on me. I had always stood there in the past, and now in this visit it wuz jest the same; all the hull time, till about the middle of the fifth week, I had to stand between their two tongues - they didn't fight with their hands, but fit with their tongues, fearful.

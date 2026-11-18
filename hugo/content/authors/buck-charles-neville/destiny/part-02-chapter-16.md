@@ -1,0 +1,158 @@
+---
+title: "Part 2 - Chapter 16"
+weight: 16
+aliases:
+  - "/authors/buck-charles-neville/destiny/part-02-chapter-16.html"
+---
+
+When Mr. Ruferton and Mr. Hendricks presented themselves at the door of Hamilton Burton's house the clock was striking nine. After divesting himself of his overcoat the politician stood waiting before the open fire with the manner of one who faces a doubtful half-hour and who faces it with grave anxiety.
+
+Ruferton meanwhile made opportunity to slip his portfolio to the butler with the request that Mr. Burton should run through its contents before he came down-stairs and that was a request with which his employer fully complied.
+
+Yet within a few minutes the financier entered the library, his face lit with a sunny smile of cordiality. Hendricks took a hasty step forward. "Mr. Burton," he questioned tensely, "in heaven's name, what is this menace of which you sent me warning?"
+
+"It is grave enough," came the prompt response, "to warrant my asking you to come--at whatever inconvenience. But, first, may I put to you a brief question? Will you sell to me your holdings of Coal and Ore stock--at a price well above the market?" The question came casually at a moment when Hendricks burned for personal information and it took him off his feet. Incidentally it informed him subtly that whatever Hamilton Burton was willing to do for him would be predicated on what he was willing to do for Hamilton Burton. Burton bargains were rarely charities.
+
+"My Coal and Ore is not for sale," he answered vaguely.
+
+"Though I offer your own price?"
+
+"No. The question is not one of price, but of loyalty."
+
+"Loyalty to Malone and Harrison?"
+
+"Among others, yes. To the heads of the Consolidated group. Now will you please give me the news for which I have come a long distance?"
+
+Hamilton Burton's eyes grew flinty. "Do you not recognize in me one of the heads of Consolidated?" he curtly inquired.
+
+Already the active mind of this successful and tricky manipulator of politics was piecing together fragments and glimpsing the connection between the threatened scandal and Burton's anxiety to buy. He became wary, covering himself with an assumption of boldness.
+
+"To be candid, Mr. Burton, your effort to augment your holdings so largely and suddenly on the eve of the annual meeting might indicate that the interests of yourself and Malone run counter each to each. Why should I antagonize those in supreme power?"
+
+"I shall be equally frank." Hamilton Burton came closer and his lips drew themselves in a taut line. "Tomorrow I shall wrest from the Malone gang this supreme power of which you speak. I mean to force Malone and Harrison to their knees and to assume complete mastery."
+
+The state senator lifted his brows ironically. "It's a large contract," he commented. "So you call on me to slip you the ace you need to fill. Well, I can't see it."
+
+"Then I'll assist you. I expect you to remain, as you have shown yourself in the past, a practical man. I expect you to realize that you have more to gain by allying yourself with a victorious leader than in walking the plank at the heels of Malone and Harrison."
+
+"I am so practical," the other reminded him, "that I want stronger evidence than mere assertion that you can overthrow these men."
+
+"At all events I can overthrow you." The words were suddenly fierce.
+
+Hamilton Burton spread on the table several sheets of paper, drawn from the breast-pocket of his evening-coat and previously from Ruferton's portfolio. "That memoranda in the hands of certain civic-reform societies would sound the death knell of your political future. You talk of what evidence you want--that would satisfy a grand jury."
+
+The master schemer glanced hurriedly at the too-familiar contents of the typed pages and gasped.
+
+"A half-million dollars!" he exclaimed weakly.
+
+"Incontrovertible evidence," Hamilton assured him, "as to how you, while a member of the state senate, spent five hundred thousand dollars to secure the Coal and Ore charter. Malfeasance, bribery--you know the legal terms in which such conduct might be defined better than I."
+
+For a moment Hendricks laughed--then with a well-simulated coolness he retorted. "A weapon hardly available to your hand, Mr. Burton. You will recall that I acted for you. To accuse me as agent would be to convict yourself as principal."
+
+But Hamilton's laugh was the more confident.
+
+"Think again. I may have erred in granting you too free a hand as an agent, but I left the details to you. My only offense was over-confidence in you. It was not I who debauched a senate. Moreover, this accusation will not come from me--ostensibly. It will come through the press tomorrow morning--and come hot."
+
+Hendricks drew back a step and his face paled.
+
+"By God!" he exclaimed in a voice of betrayed bitterness. "There is only one name for this--sheer blackmail."
+
+"In that case," warned Burton ominously, "I would, in your position, refrain from using any name. I have neither the time to bargain nor the inclination to plead. The bull that charges my railroad train must take his chance. The engine will not stop. You can rise with me to power and rely on my stanch friendship, or--well, there won't be much left to go down with Malone."
+
+The two men stood facing each other, one implacably resolute, the other in a torture of quandary. At last, Burton added:
+
+"You may believe me when I tell you that I cannot be legally touched in this matter and that you can be sent to Sing Sing. Choose your course--and choose quickly. I offer you a fair chance between uniting your fortunes with a rising dynasty and shackling them to one which is tottering."
+
+Hendricks took a step in the direction of the door. "From here," he said, "I go direct to the district attorney."
+
+Burton stretched a hand toward the telephone and smiled as he suggested. "Whom you will find so busy with preparations for prosecuting you that he will not at once find leisure to prosecute for you."
+
+Hendricks sought to veil his terror under a seeming of bluster.
+
+"Will you buy the district attorney, too? Some men are not purchasable."
+
+"That may resolve itself into a matter of price. I am not shopping in ten-cent stores, Mr. Hendricks."
+
+The politician had been thinking fast as he talked. Suppose Burton had the strength of which he boasted? His own interest was to stand with winners, not losers, but before he changed flags he wished to be sure that he jumped toward victory. That determined, the rest was expediency.
+
+"Let's come to a decision." Hamilton Burton showed just a glow of brick red on his cheekbones that argued an early break in his over-strained temper.
+
+"If I am a tyrant at least I do not call myself a lord-protector. Will you sell at your own price and go with me to the top--or refuse and take your chances on substituting the state-prison for the bench?"
+
+An abrupt change came over Mr. Hendricks. He smiled through his pallor. "Are you prepared to show me that if I make common cause with you, there is no chance of defeat?"
+
+"I offer you my personal and positive assurance--and access to my papers within an hour--during which time you will not be bound." The reply was prompt; the voice hypnotic in its persuasiveness.
+
+Hendricks lighted a cigar, and nodded. "Very well," he announced slowly. "But understand this. If I jump to you I jump with all four feet. It happens that certain other proxies have been put into my hands--by Malone interests. Had I not come to town I should have mailed them today--as it is I still have them. I shall vote them as you direct."
+
+With this chameleon turn of complexion, the astute contriver realized that he had scored. To Hamilton Burton's eyes came a quick flash of gratification and he held out his hand. "If I can be implacable in battle," he said quietly, "I can also be a friend to my friends. I told you that in an hour I could guarantee victory--or release you. I am awaiting two men with whom I have yet to deal. Will you also wait?"
+
+Mr. Hendricks bowed. "This--this evidence--" he questioned suddenly. "Has any other possible enemy access to it?"
+
+Hamilton Burton smiled as he shook his head. "No, it is in my sole keeping. I shall not surrender it to other 'possible enemies.'"
+
+With the two bankers, whom Tarring shortly ushered in, Hamilton came even more promptly to conclusions.
+
+"Malone is ill," he began. "Any alarms thrown into the Street just now would start pandemonium. If tomorrow should bring such conditions, would your banks suffer?"
+
+Fairley of the Metallic shook his head gravely. "If a panic developed just now many institutions would go to the wall. As to how many or which ones, I could not answer off-hand."
+
+Henry of the Deposit supplemented with added detail. "The national mind is hysterical beyond the usual and this is a time of heightened danger. It's the period when $200,000,000 are needed for crop-transportation and delivery. That means financial equinox."
+
+The young Titan glanced seriously from one to the other. "I know of influences coming to a head tomorrow which are calculated to throw the Street and Exchange into panic condition--unless we devise means of averting that catastrophe. For that reason I asked you to come here tonight."
+
+The bankers stood silent, but upon their faces was stamped the shock of the news. Coming from so authoritative a source, it required no actual proof.
+
+"We may gather then," suggested Henry at last, "that you stand with us in our desire to avert this calamity?"
+
+"Gentlemen," Burton's voice again became compelling and crisp--but very hard, "on certain conditions I shall avert this panic--on others I shall cause it. The alternative is for your decision."
+
+Fairley and Henry drew a little closer together by common impulse as if for alliance in danger. A long silence, freighted with tensity, followed until Fairley inquired in a stunned voice: "Please explain."
+
+With the crisp impersonality of a prosecutor Hamilton Burton talked. He outlined his plans, gave a glimpse of his tremendous levers of power; let them see what engines of destruction he controlled and finally made his demand. When he was through neither of his visitors could doubt his might or his intent. At the end he said:
+
+"You hold among the securities of your two banks just the margin of Coal and Ore which I need for complete safety. Turn your proxies over to me tonight and tomorrow will pass quietly. I will support every market depression caused by Malone's illness. There will be no panic. Fail to do that and ten minutes after the gong sounds on the floor, I shall be ripping the entrails out of the Street! Full-page advertisements in every paper in town will feed the general uneasiness into an orgy of terror. Frightened mobs will clamor about the doors of your banks. Other things will happen which it is not now necessary to enumerate. It will be the blackest day in Exchange history and one that will reflect itself in all the bourses of Europe."
+
+After eleven o'clock, when Mary Burton and Jefferson Edwardes returned from the theater, the girl caught a glimpse of a strange picture as she paused in the hall.
+
+Six silent men stood or sat about the brightly lighted library with blue wreaths of cigar smoke drifting upward above them. It was plain that this silence had fallen upon them only as they heard the door slam, and that, like their attitudes, it was strained and artificial.
+
+Hamilton Burton stood before the hearth with his face set as unyielding and immobile as chiseled granite. Ruferton eyed the two bankers with a sidewise stare between drooping lids, and Hendricks, at the window, presented to view only his back. But the features of the bankers themselves were haggard and miserable; like the faces of men making a last desperate stand, yet fronting inevitable defeat. Such faces one might imagine in a nightmare, staring on a passerby and failing to see him, from a rack of torture.
+
+Mary Burton shuddered a little, though she did not know why, and the lips of Jefferson Edwardes compressed themselves as he followed her to the music-room on the second floor. He had caught the tigerish cruelty and power-lust in the eyes of Mary's brother, and he knew that for their satisfaction someone must pay very dear.
+
+Paul sat at the piano as they entered the music-room and the emotions which he expressed upon the keys were emotions of deep unrest. They ran in strains of folklore plaintiveness and rhythmic sobs of wailing cadences. When Mary spoke the musician turned with a start. He had not heard their entrance.
+
+"I didn't know we should find you here, Paul."
+
+He nodded as he rose from the instrument. "Hamilton asked me to wait," he explained. "He's having some tremendously important conference--and after a trying fight he always likes me to play for him."
+
+The three sat for a time unaccustomedly silent. Mary could not forget the impression of those conquered faces, and Edwardes, with the same thought, forebore from comment. Within a half-hour Hamilton himself joined them. His eyes were glowing beacons of triumph and his lips wore a smile of victory.
+
+"Tonight I have met and defeated Malone's attempt to crush me," he announced with a half-savage elation. "Tomorrow the financial world will recognize in me the actual and unchallenged head of Coal and Ore." Then, turning to Jefferson, he added: "You know what that signifies, Edwardes."
+
+The visitor nodded, but no words of enthusiastic congratulation came to his tongue. "It means," he replied slowly, "that you hold a mightier financial power than any other business man in New York."
+
+"And now that you have all that," Mary put the question slowly and gravely, "to what use will you put it?"
+
+Hamilton bent upon her a gaze of tense visioning and his answer came in rapt eagerness: "To build a greater structure of power than any man before me has ever reared."
+
+After a moment's pause he went on: "Edwardes, have you no word of congratulation? It was you who first kindled my dreams into a blaze, you know."
+
+The visitor spoke with his eyes fixed on those of the man who had outgrown him in financial stature and become a Colossus.
+
+"I was thinking of that," he responded, "and I was wondering at what cost you had won this victory."
+
+"Conquest," retorted Hamilton Burton shortly, "can take no thought of cost."
+
+"I wonder!" Edwardes spoke reflectively; then with a straightforward honesty he went on: "It rather seems to me that once in a great while there rises in the world a marvel-man. To such a spirit the impossible is possible and opportunity is pliant. He may become the greatest boon or the greatest scourge of his generation. Such a man uses or prostitutes his great gifts in just so far as he uses, or fails to use, a conscience."
+
+For an instant Hamilton's cheeks flamed, then he laughed:
+
+"A very pretty golden rule of finance, Edwardes," he observed quietly, "and since I suppose you feel in a way responsible for me it's a homily you have the right to read. Does it carry a personal implication?"
+
+Edwardes smiled and held out his hand. "You are the best judge of that," he replied. "Good-night."
+
+But as the door closed upon him the smile died on the guest's lips, and a premonition of evil settled upon his mind. No one had ever defied this man and come through unscathed. His power held leashed lightnings that might destroy, and Edwardes had been frank to a point which might stir that wrath. To his direct manner of thinking his answer had been unavoidable, yet to put Hamilton Burton among his enemies was a dangerous thing. His love for Mary and the very endurance of the business which had stood so long in honor and prosperity might have to suffer for the over-frankness of his words. For a moment before entering his car he stood on the curb and looked back at the house he had just left.
+
+"The man is a tyrant--and conscienceless," he exclaimed. "He is as destructive as a sawed-off shotgun!"

@@ -1,0 +1,82 @@
+---
+title: "Chapter 20 - An Invitation To Dine"
+weight: 20
+aliases:
+  - "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-20.html"
+---
+
+As the workman passed through the little outer office Edith Hudson glanced up at him.
+
+"Where," she thought after he had gone, "have I seen that fellow before?"
+
+Jimmy was in the shop applying "How to Get More Out of Your Factory" to the problems of the International Machine Company when he was called to the telephone.
+
+"Is this Mr. Torrance?" asked a feminine voice.
+
+"It is," replied Jimmy.
+
+"I am Miss Compton. My father will probably not be able to get to the office for several days, and as he wishes very much to talk with you he has asked me to suggest that you take dinner with us this evening." "Thank you," said Jimmy. "Tell Mr. Compton that I will come to the house right after the shop closes to-night."
+
+"I suppose," said Elizabeth Compton as she turned away from the phone, "that an efficiency expert is a very superior party and that his conversation will be far above my head."
+
+Compton laughed. "Torrance seems to be a very likable chap," he said, "and as far as his work is concerned he is doing splendidly."
+
+"Harold doesn't think so," said Elizabeth. "He is terribly put out about the fellow. He told me only the other night that he really believed that it would take years to overcome the bad effect that this man has had upon the organization and upon the work in general."
+
+"That is all poppycock," exclaimed Compton, rather more irritably than was usual with him. "For some reason Harold has taken an unwarranted dislike to this man, but I am watching him closely, and I will see that no very serious mistakes are made."
+
+When Jimmy arrived at the Compton home he was ushered into the library where Mr. Compton was sitting. In a corner of the room, with her back toward the door, Elizabeth Compton sat reading. She did not lay aside her book or look in his direction as Jimmy entered, for the man was in no sense a guest in the light of her understanding of the term. He was merely one of her father's employees here on business to see him, doubtless a very ordinary sort of person whom she would, of course, have to meet when dinner was announced, but not one for whom it was necessary to put oneself out in any way.
+
+Mr. Compton rose and greeted Jimmy cordially and then turned toward his daughter.
+
+"Elizabeth," he said, "this is Mr. Torrance, the efficiency expert at the plant."
+
+Leisurely Miss Compton laid aside her book. Rising, she faced the newcomer, and as their eyes met, Jimmy barely stifled a gasp of astonishment and dismay. Elizabeth Compton's arched brows raised slightly and involuntarily she breathed a low ejaculation, "Efficiency expert!"
+
+Simultaneously there flashed through the minds of both in rapid succession a series of recollections of their previous meetings. The girl saw the clerk at the stocking-counter, the waiter at Feinheimer's, the prize-fighter at the training quarters and the milk-wagon driver. All these things passed through her mind in the brief instant of the introduction and her acknowledgment of it. She was too well-bred to permit any outward indication of her recognition of the man other than the first almost inaudible ejaculation that had been surprised from her.
+
+The indifference she had felt prior to meeting the efficiency expert was altered now to a feeling of keen interest as she realized that she held the power to relieve Bince of the further embarrassment of the man's activities in the plant, and also to save her father from the annoyance and losses that Bince had assured her would result from Torrance's methods. And so she greeted Jimmy Torrance pleasantly, almost cordially.
+
+"I am delighted," she said, "but I am afraid that I am a little awed, too, as I was just saying to father before you came that I felt an efficiency expert must be a very superior sort of person."
+
+If she placed special emphasis on the word "superior" it was so cleverly done that it escaped the notice of her father.
+
+"Oh, not at all," replied Jimmy. "We efficiency experts are really quite ordinary people. One is apt to meet us in any place that nice people are supposed to go."
+
+Elizabeth felt the color rising slowly to her cheek. She realized then that if she had thrown down the gage of battle the young man had lost no time in taking it up.
+
+"I am afraid," she said, "that I do not understand very much about the nature or the purpose of your work, but I presume the idea is to make the concern with which you are connected more prosperous--more successful?"
+
+"Yes," said her father, "that is the idea, and even in the short time he has been with us Mr. Torrance has effected some very excellent changes."
+
+"It must be very interesting work," commented the girl; "a profession that requires years of particular experience and study, and I suppose one must be really thoroughly efficient and successful himself, too, before he can help to improve upon the methods of others or to bring them greater prosperity."
+
+"Quite true," said Jimmy. "Whatever a man undertakes he should succeed in before he can hope to bring success to others."
+
+"Even in trifling occupations, I presume," suggested the girl, "efficiency methods are best--an efficiency expert could doubtlessly drive a milk-wagon better than an ordinary person?" And she looked straight into Jimmy's eyes, an unquestioned challenge in her own.
+
+"Unquestionably," said Jimmy. "He could wait on table better, too."
+
+"Or sell stockings?" suggested Elizabeth.
+
+It was at this moment that Mr. Compton was called to the telephone in an adjoining room, and when he had gone the girl turned suddenly upon Jimmy Torrance. There was no cordiality nor friendship in her expression; a sneer upcurved her short upper lip.
+
+"I do not wish to humiliate you unnecessarily in the presence of my father," she said. "You have managed to deceive him into believing that you are what you claim to be. Mr. Bince has known from the start that you are incompetent and incapable of accomplishing the results father thinks you are accomplishing. Now that you know that I know you to be an impostor, what do you intend to do?"
+
+"I intend to keep right on with my work in the plant, Miss Compton," replied Jimmy.
+
+"How long do you suppose father would keep you after I told him what I know of you? Do you think that he would for a moment place the future of his business in the hands of an ex-waiter from Feinheimer's---that he would let a milk-wagon driver tell him how to run his business?"
+
+"It probably might make a difference," said Jimmy, "if he knew, but he will not know--listen, Miss Compton, I have discovered some things there that I have not even dared as yet to tell your father. The whole future of the business may depend upon my being there during the next few weeks. If I wasn't sure of what I am saying I might consider acceding to your demands rather than to embarrass you with certain knowledge which I have."
+
+"You refuse to leave, then?" she demanded.
+
+"I do," he said.
+
+"Very well," she replied; "I shall tell father when he returns to this room just what I know of you."
+
+"Will you tell him," asked Jimmy, "that you went to the training quarters of a prize-fighter, or that you dined unescorted at Feinheimer's at night and were an object of the insulting attentions of such a notorious character as Steve Murray?"
+
+The girl flushed. "You would tell him that?" she demanded. "Oh, of course, I might have known that you would. It is difficult to realize that any one dining at my father's home is not a gentleman. I had forgotten for the moment."
+
+"Yes," said Jimmy, "I would tell him, not from a desire to harm you, but because this is the only way that I can compel you to refrain from something that would result in inestimable harm to your father."

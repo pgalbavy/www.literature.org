@@ -1,0 +1,34 @@
+---
+title: "Chapter 15 - Johnnie Green Feels Sad"
+weight: 15
+aliases:
+  - "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-15.html"
+---
+
+Yes--there was trouble when Farmer Green discovered that Tommy Fox had been stealing his hens. He fastened the end of Tommy's chain to the stake once more. And then he went out to the barn, where his boy Johnnie was watering the horses.
+
+"We'll have to kill that fox," he said to Johnnie. "He's got loose, somehow, and he's stolen two hens. I can't have him on the place any longer. He's made friends with old Spot and the dog will let him do anything he likes."
+
+Poor Johnnie Green! He felt so sad! And he begged his father not to kill Tommy. But Fanner Green was very angry with Tommy.
+
+[Illustration with caption: Tommy Thought It Was His Mother's Voice]
+
+"No!" he said. "That cub's so tricky there's no knowing when he'll get loose again." But Johnnie begged so hard that his father promised that he might keep Tommy one more day.
+
+Johnnie Green was in despair. He could not bear to have his pet killed. And when he went to bed that night he never fell asleep at all. He was very tired; but he managed to keep awake. And in the middle of the night Johnnie got out of bed and put on his clothes. He didn't dare to light his candle. But the moonbeams streamed in through his little gable-window and Johnnie could see very well without any other light.
+
+As soon as he was dressed Johnnie stole down the stairs, carrying his shoes in his hand, so he wouldn't make any noise. In spite of all his caution, the old stairs would creak now and then. But luckily nobody heard him; and soon Johnnie was out of the house.
+
+He found Tommy Fox wide awake, sitting on his haunches in the moonlight, listening. Far away in the distance a fox was barking and Tommy thought it sounded like his mother's voice.
+
+Tommy was surprised to see Johnnie Green at that hour. And he was astonished when Johnnie untied the chain from the stake and started away with him. They went off across the fields, toward Blue Mountain, right in the direction of that barking.
+
+The meadows smelled sweet; and Tommy Fox began to wish that he could slip his head out of his collar and scamper away.
+
+And that was exactly what happened.
+
+After they had gone some distance, Johnnie Green stopped. He unbuckled Tommy's collar, and gave Tommy a push.
+
+At first Tommy was not quite sure that he wanted to leave his good master. But there was that fox, yelping and calling. Something seemed to draw Tommy toward that sound. He just couldn't help himself. And the first thing he knew he was bounding off over the meadow running as fast as his legs would carry him, and barking as loudly as he could bark.
+
+Johnnie Green went slowly home again. He crept into the house and stole upstairs, and cried himself to sleep. But he was glad of one thing. Tommy Fox would not be killed the next morning.

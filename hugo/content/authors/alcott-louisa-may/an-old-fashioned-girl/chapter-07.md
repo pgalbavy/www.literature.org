@@ -1,0 +1,250 @@
+---
+title: "Chapter 7 - Good-By"
+weight: 8
+aliases:
+  - "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-07.html"
+---
+
+“OH, dear! Must you really go home Saturday?” said Fan, some days after what Tom called the “grand scrimmage.”
+
+“I really must; for I only came to stay a month and here I've been nearly six weeks,” answered Polly, feeling as if she had been absent a year.
+
+“Make it two months and stay over Christmas. Come, do, now,” urged Tom, heartily.
+
+“You are very kind; but I would n't miss Christmas at home for anything. Besides, mother says they can't possibly do without me.”
+
+“Neither can we. Can't you tease your mother, and make up your mind to stay?” began Fan.
+
+“Polly never teases. She says it's selfish; and I don't do it now much,” put in Maud, with a virtuous air.
+
+“Don't you bother Polly. She'd rather go, and I don't wonder. Let's be just as jolly as we can while she stays, and finish up with your party, Fan,” said Tom, in a tone that settled the matter.
+
+Polly had expected to be very happy in getting ready for the party; but when the time came, she was disappointed; for somehow that naughty thing called envy took possession of her, and spoiled her pleasure. Before she left home, she thought her new white muslin dress, with its fresh blue ribbons, the most elegant and proper costume she could have; but now, when she saw Fanny's pink silk, with a white tarlatan tunic, and innumerable puffings, bows, and streamers, her own simple little toilet lost all its charms in her eyes, and looked very babyish and old-fashioned.
+
+Even Maud was much better dressed than herself, and looked very splendid in her cherry-colored and white suit, with a sash so big she could hardly carry it, and little white boots with red buttons. They both had necklaces and bracelets, ear-rings and brooches; but Polly had no ornament, except the plain locket on a bit of blue velvet. Her sash was only a wide ribbon, tied in a simple bow, and nothing but a blue snood in the pretty curls. Her only comfort was the knowledge that the modest tucker drawn up round the plump shoulders was real lace, and that her bronze boots cost nine dollars.
+
+Poor Polly, with all her efforts to be contented, and not to mind looking unlike other people, found it hard work to keep her face bright and her voice happy that night. No one dreamed what was going an under the muslin frock, till grandma's wise old eyes spied out the little shadow on Polly's spirits, and guessed the cause of it. When dressed, the three girls went up to show themselves to the elders, who were in grandma's room, where Tom was being helped into an agonizingly stiff collar.
+
+Maud pranced like a small peacock, and Fan made a splendid courtesy as every one turned to survey them; but Polly stood still, and her eyes went from face to face, with an anxious, wistful air, which seemed to say, “I know I'm not right; but I hope I don't look very bad.”
+
+Grandma read the look in a minute; and when Fanny said, with a satisfied smile, “How do we look?” she answered, drawing Polly toward her so kindly.
+
+“Very like the fashion-plates you got the patterns of your dresses from. But this little costume suits me best.”
+
+“Do you really think I look nice?” and Polly's face brightened, for she valued the old lady's opinion very much.
+
+“Yes, my dear; you look just as I like to see a child of your age look. What particularly pleases me is that you have kept your promise to your mother, and have n't let anyone persuade you to wear borrowed finery. Young things like you don't need any ornaments but those you wear to-night, youth, health, intelligence, and modesty.”
+
+As she spoke, grandma gave a tender kiss that made Polly glow like a rose, and for a minute she forgot that there were such things as pink silk and coral ear-rings in the world. She only said, “Thank you, ma'am,” and heartily returned the kiss; but the words did her good, and her plain dress looked charming all of a sudden.
+
+“Polly's so pretty, it don't matter what she wears,” observed Tom, surveying her over his collar with an air of calm approval.
+
+“She has n't got any bwetelles to her dwess, and I have,” said Maud, settling her ruffled bands over her shoulders, which looked like cherry-colored wings on a stout little cherub.
+
+“I did wish she'd just wear my blue set, ribbon is so very plain; but, as Tom says, it don't much matter;” and Fanny gave an effective touch to the blue bow above Polly's left temple.
+
+“She might wear flowers; they always suit young girls,” said Mrs. Shaw, privately thinking that her own daughters looked much the best, yet conscious that blooming Polly had the most attractive face. “Bless me! I forgot my posies in admiring the belles. Hand them out, Tom;” and Mr. Shaw nodded toward an interesting looking box that stood on the table.
+
+Seizing them wrong side-up, Tom produced three little bouquets, all different in color, size, and construction.
+
+“Why, papa! how very kind of you,” cried Fanny, who had not dared to receive even a geranium leaf since the late scrape.
+
+“Your father used to be a very gallant young gentleman, once upon a time,” said Mrs. Shaw, with a simper.
+
+“Ah, Tom, it's a good sign when you find time to think of giving pleasure to your little girls!” And grandma patted her son's bald head as if he was n't more than eighteen.
+
+Thomas Jr. had given a somewhat scornful sniff at first; but when grandma praised his father, the young man thought better of the matter, and regarded the flowers with more respect, as he asked, “Which is for which?”
+
+“Guess,” said Mr. Shaw, pleased that his unusual demonstration had produced such an effect.
+
+The largest was a regular hothouse bouquet, of tea-rosebuds, scentless heath, and smilax; the second was just a handful of sweet-peas and mignonette, with a few cheerful pansies, and one fragrant little rose in the middle; the third, a small posy of scarlet verbenas, white feverfew, and green leaves.
+
+“Not hard to guess. The smart one for Fan, the sweet one for Polly, and the gay one for Pug. Now, then, catch hold, girls.” And Tom proceeded to deliver the nosegays, with as much grace as could be expected from a youth in a new suit of clothes and very tight boots.
+
+“That finishes you off just right, and is a very pretty attention of papa's. Now run down, for the bell has rung; and remember, not to dance too often, Fan; be as quiet as you can, Tom; and Maud, don't eat too much supper. Grandma will attend to things, for my poor nerves won't allow me to come down.”
+
+With that, Mrs. Shaw dismissed them, and the four descended to receive the first batch of visitors, several little girls who had been asked for the express purpose of keeping Maud out of her sister's way. Tom had likewise been propitiated, by being allowed to bring his three bosom friends, who went by the school-boy names of Rumple, Sherry, and Spider.
+
+“They will do to make up sets, as gentlemen are scarce; and the party is for Polly, so I must have some young folks on her account,” said Fanny, when sending out her invitations.
+
+Of course, the boys came early, and stood about in corners, looking as if they had more arms and legs than they knew what to do with. Tom did his best to be a good host; but ceremony oppressed his spirits, and he was forced to struggle manfully with the wild desire to propose a game of leap-frog, for the long drawing-rooms, cleared for dancing, tempted him sorely.
+
+Polly sat where she was told, and suffered bashful agonies as Fan introduced very fine young ladies and very stiff young gentlemen, who all said about the same civil things, and then appeared to forget all about her. When the first dance was called, Fanny cornered Tom, who had been dodging her, for he knew what she wanted, and said, in an earnest whisper: “Now, Tom, you must dance this with Polly. You are the young gentleman of the house, and it's only proper that you should ask your company first.”
+
+“Polly don't care for manners. I hate dancing; don't know how. Let go my jacket, and don't bother, or I'll cut away altogether,” growled Tom, daunted by the awful prospect of opening the ball with Polly.
+
+“I'll never forgive you if you do. Come, be clever, and help me, there 's a dear. You know we both were dreadfully rude to Polly, and agreed that we'd be as kind and civil to her as ever we could. I shall keep my word, and see that she is n't slighted at my party, for I want her to love me, and go home feeling all right.”
+
+This artful speech made an impression on the rebellious Thomas, who glanced at Polly's happy face, remembered his promise, and, with a groan, resolved to do his duty.
+
+“Well, I'll take her; but I shall come to grief, for I don't know anything about your old dances.”
+
+“Yes, you do. I've taught you the steps a dozen times. I'm going to begin with a redowa, because the girls like it, and it's better fun than square dances. Now, put on your gloves, and go and ask Polly like a gentleman.”
+
+“Oh, thunder!” muttered Tom. And having split the detested gloves in dragging them on, he nerved himself for the effort, walked up to Polly, made a stiff bow, stuck out his elbow, and said, solemnly, “May I have the pleasure, Miss Milton?”
+
+He did it as much like the big fellows as he could, and expected that Polly would be impressed. But she was n't a bit; for after a surprised look she laughed in his face, and took him by the hand, saying, heartily, “Of course you may; but don't be a goose, Tommy.”
+
+“Well, Fan told me to be elegant, so I tried to,” whispered Tom, adding, as he clutched his partner with a somewhat desperate air, “Hold on tight, and we'll get through somehow.”
+
+The music struck up, and away they went; Tom hopping one way and Polly the other, in a most ungraceful manner.
+
+“Keep time to the music,” gasped Polly.
+
+“Can't; never could,” returned Tom.
+
+“Keep step with me, then, and don't tread on my toes,” pleaded Polly.
+
+“Never mind; keep bobbing, and we'll come right by and by,” muttered Tom, giving his unfortunate partner a sudden whisk, which nearly landed both on the floor.
+
+But they did not “get right by and by”; for Tom, In his frantic efforts to do his duty, nearly annihilated poor Polly. He tramped, he bobbed, he skated, he twirled her to the right, dragged her to the left, backed her up against people and furniture, trod on her feet, rumpled her dress, and made a spectacle of himself generally. Polly was much disturbed; but as everyone else was flying about also, she bore it as long as she could, knowing that Tom had made a martyr of himself, and feeling grateful to him for the sacrifice.
+
+“Oh, do stop now; this is dreadful!” cried Polly, breathlessly, after a few wild turns.
+
+“Is n't it?” said Tom, wiping his red face with such an air of intense relief, that Polly had not the heart to scold him, but said, “Thank you,” and dropped into a chair exhausted.
+
+“I know I've made a guy of myself; but Fan insisted on it, for fear you'd be offended if I did n't go the first dance with you,” said Tom, remorsefully, watching Polly as she settled the bow of her crushed sash, which Tom had used as a sort of handle by which to turn and twist her; “I can do the Lancers tip-top; but you won't ever want to dance with me any more,” he added, as he began to fan her so violently, that her hair flew about as if in a gale of wind.
+
+“Yes, I will. I'd like to; and you shall put your name down here on the sticks of my fan. That's the way, Trix says, when you don't have a ball-book.”
+
+Looking much gratified, Tom produced the stump of a lead-pencil, and wrote his name with a flourish, saying, as he gave it back, “Now I'm going to get Sherry, or some of the fellows that do the redowa well, so you can have a real good go before the music stops.”
+
+Off went Tom; but before he could catch any eligible partner, Polly was provided with the best dancer in the room. Mr. Sydney had seen and heard the whole thing; and though he had laughed quietly, he liked honest Tom and good-natured Polly all the better for their simplicity. Polly's foot was keeping time to the lively music, and her eyes were fixed wistfully on the smoothly-gliding couples before her, when Mr. Sydney came to her, saying, in the pleasant yet respectful way she liked so much, “Miss Polly, can you give me a turn?”
+
+“Oh, yes; I'm dying for another.” And Polly jumped up, with both hands out, and such a grateful face, that Mr. Sydney resolved she should have as many turns as she liked.
+
+This time all went well; and Tom, returning from an unsuccessful search, was amazed to behold Polly circling gracefully about the room, guided by a most accomplished partner.
+
+“Ah, that's something like,” he thought, as he watched the bronze boots retreating and advancing in perfect time to the music. “Don't see how Sydney does the steering so well; but it must be fun; and, by Jupiter! I 'll learn it!” added Shaw, Jr., with an emphatic gesture which burst the last button off his gloves.
+
+Polly enjoyed herself till the music stopped; and before she had time to thank Mr. Sydney as warmly as she wished, Tom came up to say, with his most lordly air, “You dance splendidly, Polly. Now, you just show me any one you like the looks of, and I'll get him for you, no matter who he is.”
+
+“I don't want any of the gentlemen; they are so stiff, and don't care to dance with me; but I like those boys over there, and I'll dance with any of them if they are willing,” said Polly, after a survey.
+
+“I'll trot out the whole lot.” And Tom gladly brought up his friends, who all admired Polly immensely, and were proud to be chosen instead of the “big fellows.”
+
+There was no sitting still for Polly after that, for the lads kept her going at a great pace; and she was so happy, she never saw or suspected how many little manoeuvres, heart-burnings, displays of vanity, affectation, and nonsense were going on all round her. She loved dancing, and entered into the gayety of the scene with a heartiness that was pleasant to see. Her eyes shone, her face glowed, her lips smiled, and the brown curls waved in the air, as she danced, with a heart as light as her feet.
+
+“Are you enjoying yourself, Polly?” asked Mr. Shaw, who looked in, now and then, to report to grandma that all was going well.
+
+“Oh, such a splendid time!” cried Polly, with an enthusiastic little gesture, as she chassed into the corner where he stood.
+
+“She is a regular belle among the boys,” said Fanny, as she promenaded by.
+
+“They are so kind in asking me and I'm not afraid of them,” explained Polly, prancing, simply because she could n't keep still.
+
+“So you are afraid of the young gentlemen, hey?” and Mr. Shaw held her by one curl.
+
+“All but Mr. Sydney. He don't put on airs and talk nonsense; and, oh! he does'dance like an angel,' as Trix says.”
+
+“Papa, I wish you'd come and waltz with me. Fan told me not to go near her, 'cause my wed dwess makes her pink one look ugly; and Tom won't; and I want to dwedfully.”
+
+“I've forgotten how, Maudie. Ask Polly; she'll spin you round like a teetotum.” “Mr. Sydney's name is down for that,” answered Polly, looking at her fan with a pretty little air of importance. “But I guess he would n't mind my taking poor Maud instead. She has n't danced hardly any, and I've had more than my share. Would it be very improper to change my mind?” And Polly looked up at her tall partner with eye which plainly showed that the change was a sacrifice.
+
+“Not a bit. Give the little dear a good waltz, and we will look on,” answered Mr. Sydney, with a nod and smile.
+
+“That is a refreshing little piece of nature,” said Mr. Shaw, as Polly and Maud whirled away.
+
+“She will make a charming little woman, if she is n't spoilt.”
+
+“No danger of that. She has got a sensible mother.”
+
+“I thought so.” And Sydney sighed, for he had lately lost his own good mother.
+
+When supper was announced, Polly happened to be talking, or trying to talk, to one of the “poky” gentlemen whom Fan had introduced. He took Miss Milton down, of course, put her in a corner, and having served her to a dab of ice and one macaroon, he devoted himself to his own supper with such interest, that Polly would have fared badly, if Tom had not come and rescued her.
+
+“I've been looking everywhere for you. Come with me, and don't sit starving here,” said Tom, with a scornful look from her empty plate to that of her recreant escort, which was piled with good things.
+
+Following her guide, Polly was taken to the big china closet, opening from the dining-room to the kitchen, and here she found a jovial little party feasting at ease. Maud and her bosom friend, “Gwace,” were seated on tin cake-boxes; Sherry and Spider adorned the refrigerator; while Tom and Rumple foraged for the party.
+
+“Here's fun,” said Polly, as she was received with a clash of spoons and a waving of napkins.
+
+“You just perch on that cracker-keg, and I'll see that you get enough,” said Tom, putting a dumbwaiter before her, and issuing his orders with a fine air of authority.
+
+“We are a band of robbers in our cave, and I'm the captain; and we pitch into the folks passing by, and go out and bring home plunder. Now, Rumple, you go and carry off a basket of cake, and I'll watch here till Katy comes by with a fresh lot of oysters; Polly must have some. Sherry, cut into the kitchen, and bring a cup of coffee. Spider, scrape up the salad, and poke the dish through the slide for more. Eat away, Polly, and my men will be back with supplies in a jiffy.”
+
+Such fun as they had in that closet; such daring robberies of jelly-pots and cake-boxes; such successful raids into the dining-room and kitchen; such base assaults upon poor Katy and the colored waiter, who did his best, but was helpless in the hands of the robber horde. A very harmless little revel; for no wine was allowed, and the gallant band were so busy skirmishing to supply the ladies, that they had not time to eat too much. No one missed them; and when they emerged, the feast was over, except for a few voracious young gentlemen, who still lingered among the ruins.
+
+“That's the way they always do; poke the girls in corners, give'em just one taste of something, and then go and stuff like pigs,” whispered Tom, with a superior air, forgetting certain private banquets of his own, after company had departed.
+
+The rest of the evening was to be devoted to the German; and, as Polly knew nothing about it, she established herself in a window recess to watch the mysteries. For a time she enjoyed it, for it was all new to her, and the various pretty devices were very charming; but, by and by, that bitter weed, envy, cropped up again, and she could not feel happy to be left out in the cold, while the other girls were getting gay tissue-paper suits, droll bonbons, flowers, ribbons, and all manner of tasteful trifles in which girlish souls delight. Everyone was absorbed; Mr. Sydney was dancing; Tom and his friends were discussing base-ball on the stairs; and Maud's set had returned to the library to play.
+
+Polly tried to conquer the bad feeling; but it worried her, till she remembered something her mother once said to her, “When you feel out of sorts, try to make some one else happy, and you will soon be so yourself.”
+
+“I will try it,” thought Polly, and looked round to see what she could do. Sounds of strife in the library led her to enter. Maud and the young ladies were sitting on the sofa, talking about each other's clothes, as they had seen their mammas do.
+
+“Was your dress imported?” asked Grace.
+
+“No; was yours?” returned Blanche.
+
+“Yes; and it cost oh, ever so much.”
+
+“I don't think it is as pretty as Maud's.”
+
+“Mine was made in New York,” said Miss Shaw, smoothing her skirts complacently.
+
+“I can't dress much now, you know, 'cause mamma's in black for somebody,” observed Miss Alice Lovett, feeling the importance which affliction conferred upon her when it took the form of a jet necklace.
+
+“Well, I don't care if my dress is n't imported; my cousin had three kinds of wine at her party; so, now,” said Blanche.
+
+“Did she?” And all the little girls looked deeply impressed, till Maud observed, with a funny imitation of her father's manner, “My papa said it was scan-dill-us; for some of the little boys got tipsy, and had to be tooked home. He would n't let us have any wine; and gwandma said it was vewy impwoper for childwen to do so.”
+
+“My mother says your mother's coup, is n't half so stylish as ours,” put in Alice.
+
+“Yes, it is, too. It's all lined with gween silk, and that's nicer than old wed cloth,” cried Maud, ruffling up like an insulted chicken.
+
+“Well, my brother don't wear a horrid old cap, and he's got nice hair. I would n't have a brother like Tom. He's horrid rude, my sister says,” retorted Alice.
+
+“He is n't. Your brother is a pig.”
+
+“You're a fib!”
+
+“So are you!”
+
+Here, I regret to say, Miss Shaw slapped Miss Lovett, who promptly returned the compliment, and both began to cry.
+
+Polly, who had paused to listen to the edifying chat, parted the belligerents, and finding the poor things tired, cross, and sleepy, yet unable to go home till sent for, proposed to play games. The young ladies consented, and “Puss in the corner” proved a peacemaker. Presently, in came the boys; and being exiles from the German, gladly joined in the games, which soon were lively enough to wake the sleepiest. “Blind-man's-buff” was in full swing when Mr. Shaw peeped in, and seeing Polly flying about with band-aged eyes, joined in the fun to puzzle her. He got caught directly; and great merriment was caused by Polly's bewilderment, for she could n't guess who he was, till she felt the bald spot on his head.
+
+This frolic put every one in such spirits, that Polly forgot her trouble, and the little girls kissed each other good-night as affectionately as if such things as imported frocks, coups, and rival brothers did n't exist “Well, Polly, do you like parties?” asked Fan when the last guest was gone.
+
+“Very much; but I don't think it would be good for me to go to many,” answered Polly, slowly.
+
+“Why not?”
+
+“I should n't enjoy them if I did n't have a fine dress, and dance all the time, and be admired, and all the rest of it.”
+
+“I did n't know you cared for such things,” cried Fanny, surprised.
+
+“Neither did I till to-night; but I do; and as I can't have'em, it's lucky I'm going home tomorrow.”
+
+“Oh, dear! So you are! What shall I do without my'sweet P.,' as Sydney calls you?” sighed Fanny, bearing Polly away to be cuddled.
+
+Every one echoed the exclamation next day; and many loving eyes followed the little figure in the drab frock as it went quietly about, doing for the last time the small services which would help to make its absence keenly felt. Polly was to go directly after an early dinner, and having packed her trunk, all but one tray, she was told to go and take a run while grandma finished. Polly suspected that some pleasant surprise was going to be put in; for Fan did n't offer to go with her, Maud kept dodging about with something under her apron, and Tom had just whisked into his mother's room in a mysterious manner. So Polly took the hint and went away, rejoicing in the thought of the unknown treasures she was to carry home.
+
+Mr. Shaw had not said he should come home so early, but Polly thought he might, and went to meet him. Mr. Shaw did n't expect to see Polly, for he had left her very busy, and now a light snow was falling; but, as he turned into the mall there was the round hat, and under it the bright face, looking all the rosier for being powdered with snow-flakes, as Polly came running to meet him.
+
+“There won't be any one to help the old gentleman safely home to-morrow,” he said, as Polly took his hand in both hers with an affectionate squeeze.
+
+“Yes, there will; see if there is n't,” cried Polly, nodding and smiling, for Fan had confided to her that she meant to try it after her friend had gone.
+
+“I'm glad of it. But, my dear, I want you to promise that you will come and make us a visit every winter, a good long one,” said Mr. Shaw, patting the blue mittens folded round his hand.
+
+“If they can spare me from home, I'd love to come dearly.”
+
+“They must lend you for a little while, because you do us all good, and we need you.”
+
+“Do I? I don't see how; but I'm glad to hear you say so,” cried Polly, much touched.
+
+“I can't tell you how, exactly; but you brought something into my house that makes it warmer and pleasanter, and won't quite vanish, I hope, when you go away, my child.”
+
+Polly had never heard Mr. Shaw speak like that before, and did n't know what to say, she felt so proud and happy at this proof of the truth of her mother's words, when she said that “even a little girl could exert an influence, and do some good in this big, busy world.” She only gave her friend a grateful look sweeter than any words, and they went on together, hand in hand, through the “soft-falling snow.”
+
+If Polly could have seen what went into that top tray, she would have been entirely overcome; for Fanny had told grandma about the poor little presents she had once laughed at, and they had all laid their heads together to provide something really fine and appropriate for every member of the Milton family. Such a mine of riches! and so much good-will, affection, and kindly forethought was packed away in the tempting bundles, that no one could feel offended, but would find an unusual charm about the pretty gifts that made them doubly welcome. I only know that if Polly had suspected that a little watch was ticking away in a little case, with her name on it, inside that trunk, she never could have left it locked as grandma advised, or have eaten her dinner so quietly. As it was, her heart was very full, and the tears rose to her eyes more than once, everyone was so kind, and so sorry to have her go.
+
+Tom did n't need any urging to play escort now; and both Fan and Maud insisted on going too. Mrs. Shaw forgot her nerves, and put up some ginger-bread with her own hands; Mr. Shaw kissed Polly as if she had been his dearest daughter; and grandma held her close, whispering in a tremulous tone, “My little comfort, come again soon”; while Katy waved her apron from the nursery window, crying, as they drove, away, “The saints bless ye, Miss Polly, dear, and sind ye the best of lucks!”
+
+But the crowning joke of all was Tom's good-by, for, when Polly was fairly settled in the car, the last “All aboard!” uttered, and the train in motion, Tom suddenly produced a knobby little bundle, and thrusting it in at the window, while he hung on in some breakneck fashion, said, with a droll mixture of fun and feeling in his face, “It's horrid; but you wanted it, so I put it in to make you laugh. Good-by, Polly; good-by, good-by!”
+
+The last adieu was a trifle husky, and Tom vanished as it was uttered, leaving Polly to laugh over his parting souvenir till the tears ran down her cheeks. It was a paper bag of peanuts, and poked down at the very bottom a photograph of Tom. It was “horrid,” for he looked as if taken by a flash of lightning, so black, wild, and staring was it; but Polly liked it, and whenever she felt a little pensive at parting with her friends, she took a peanut, or a peep at Tom's funny picture, which made her merry again.
+
+So the short journey came blithely to an end, and in the twilight she saw a group of loving faces at the door of a humble little house, which was more beautiful than any palace in her eyes, for it was home.

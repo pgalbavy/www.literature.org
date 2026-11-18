@@ -1,0 +1,58 @@
+---
+title: "Chapter 22 - Why Daddy Was Changed"
+weight: 22
+aliases:
+  - "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-22.html"
+---
+
+IT was after his adventure with Johnnie Green that Daddy Longlegs' neighbors first noticed something queer about him.
+
+They knew that he was not the same. But strangely enough, no two of them could agree as to what had changed him. Chirpy Cricket said that he thought that Daddy was wearing a new coat, for his coat-tails seemed to flap differently when he walked. Buster Bumblebee claimed that Daddy had bought himself a new hat which tipped at an unusual angle. And little Mrs. Ladybug insisted that Daddy's odd look was due to nothing more or less than some new checked trousers. She remembered (she said) that he had always worn striped ones before.
+
+Those were the opinions of only three of Daddy's friends. It seemed as if everybody in Pleasant Valley had his own idea about the reason why Daddy was changed.
+
+Naturally, many disputes arose, because everyone declared that his own notion was the right one. And at last several excited persons went to old Mr. Crow and asked him to settle the trouble.
+
+But Mr. Crow would have nothing to do with the affair. He did not like Daddy Longlegs. And he said he preferred not to think about him at all.
+
+That was something of a setback for the company, until somebody said, "Let's go and ask Solomon Owl! There's no one in Pleasant Valley that looks so wise as he!"
+
+So they hurried off to the hemlock woods where Solomon Owl lived. He was at home. And he listened carefully to each of his callers--although they all talked at once.
+
+At last he shouted loudly for silence, though it was some time before he had it.
+
+"Hush! hush!" some of the quieter ones said. "We want to hear what wise Mr. Solomon Owl says."
+
+And then Solomon Owl spoke:
+
+"If you want to know what's the matter with Daddy Longlegs why don't you go and ask him?"
+
+Everybody exclaimed at once that that was a splendid plan. And thanking Mr. Owl for his excellent advice, the party hurried away.
+
+When they reached the stone wall, later, they found Daddy Longlegs sunning himself. He seemed glad to see his callers. And when they asked him what it was that made him appear different, he threw back his head, as far as he could, and laughed heartily.
+
+"Why--don't you know?" he said. "Can't you see I've lost a leg?"
+
+Daddy's news made everyone gasp. And for a few moments not a soul could speak. But the callers all stared at Daddy. And then each one of them began to count aloud: "One, two, three, four, five, six, seven----"
+
+They were counting Daddy's legs. And after they had counted seven they all saw that his eighth leg was missing--that is, all but Buster Bumblebee. Being a blundering sort of person, he made a mistake and counted one leg twice. But the other callers soon set him right.
+
+"It's no wonder you look different," Daddy's friends began telling him. "How did you meet with such an awful accident?"
+
+"I lost my leg trying to escape from Johnnie Green," Daddy explained. "Either he pulled the leg off my body, or I pulled my body off the leg--I haven't been able to decide which way it happened."
+
+"You must miss your leg terribly!" several of the company cried.
+
+"Not at all!" replied Daddy Longlegs cheerfully, to the great surprise of all those present. "I have seven legs left; and that ought to be enough for anybody. I should think."
+
+But little Mrs. Ladybug couldn't help shuddering. "I think it's just too dreadful!" she cried. "Johnnie Green is a very careless boy."
+
+"Oh, he didn't mean any harm, I know," Daddy Longlegs assured her. "He tried not to injure me.... But I'll admit there's one thing that has caused me a good deal of annoyance."
+
+"What's that?" everyone asked.
+
+"I had to get a new pair of seven-legged trousers," Daddy Longlegs explained. "And if any of you has ever tried to find such a garment at short notice he will understand that I've been in great trouble."
+
+Then Daddy Longlegs wished his callers a pleasant afternoon and begged to be excused, on account of important business.
+
+And as they watched him walk briskly away his neighbors all agreed that for a person who had just lost a leg he seemed wonderfully spry.

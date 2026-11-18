@@ -1,0 +1,116 @@
+---
+title: "Chapter 21"
+weight: 22
+aliases:
+  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-21.html"
+---
+
+Why, Deacon Henzy, besides all his cares about the buzz saw mill, and his farm work, had bought a steam threshin' machine that made him sights of work. It was a good machine. But it wuz fairly skairful to see it a-steamin' and a-blowin' right along the streets of Jonesville without the sign of a horse or ox or anything nigh it to draw it. A-puffin' out the steam, and a-tearin' right along, that awful lookin' that it skairt she that wuz Celestine Bobbet most into fits.
+
+She lived in a back place where such machines wuz unknown, and she had come home to her father's on a visit, and wuz goin' over to visit some of his folks that day, over to Loontown.
+
+And she wuz a-travellin' along peacible, with her father's old mair, and a-leanin' back in the buggy a readin' a article her father had sent over by her to Deacon Widrig, a witherin' article about female Deaconesses, and the stern necessity of settin' 'em apart and sanctifyen' 'em to this one work - deacon work - and how they mustn't marry, or tackle any other hard jobs whatsumever, or break off into any other enterprize, only jest plain deacon work.
+
+It wuz a very flowery article. And she wuz enjoyin' of it first rate, and a-thinkin', for she is a little timid and easily skairt, and the piece had convinced her -
+
+She wuz jest a-thinkin' how dretful it would be if sum female deaconess should ever venter into some other branch of business, and what would be apt to become of her if she did. She hated to think of what her doom would most likely be, bein' tender hearted.
+
+[Illustration: "SHE SEE THIS WILD AND SKAIRFUL MACHINE APPROACHIN'."]
+
+When lo, and behold! jest as she wuz a-thinkin' these thoughts, she see this wild and skairful machine approachin', and Deacon Henzy a-standin' up on top of it a-drivin'. He looked wild and excited, bein' very tickled to think that he had threshed more with his machine, by twenty bushels, than Deacon Petengill had with his. There was a bet upon these two deacons, so it wuz spozed, and he wuz a-hastenin' to the next place where he wuz to be setup, so's to lose no time, and he was kinder hollerin'.
+
+And the wind took his gray hair back, and his long side whiskers, and kinder stood 'em out, and the skirts of his frock the same.
+
+His mean wuz wild.
+
+And it wuz more than Celestine's old mair and she herself could bear; she cramped right round in the road (the mair did) and set sail back to old Bobbet'ses, and that great concern a-puffin' and a-steamin' along after 'em.
+
+And by the time that she that wuz Celestine got there she wuz almost in a fit, and the mair in a perfect lather.
+
+Wall, Celestine didn't get over it for weeks and weeks, nor the mair nuther.
+
+And besides this enterprize of Deacon Henzy's, he had got up a great invention, a new rat trap, that wuz peculier and uneek in the extreme.
+
+It wuz the result of arjous study on his part, by night and day, for a long, long time, and it wuz what he called "A Travellin' Rat Trap." It wuz designed to sort o' chase the rats round and skair 'em.
+
+[Illustration: DEACON HENZY'S RAT TRAP (LIKE A CIRCUS FOR THE RATS).]
+
+It was spozed he got the idee in the first place from his threshin' machine. It had to be wound up, and then it would take after 'em - rats or mice, or anything - and they do say that it wuz quite a success.
+
+Only it had to move on a smooth floor. It would travel round pretty much all night; and they say that when it wuz set up in a suller, it would chase the rats back into their holes, and they would set there and look out on it, for the biggest heft of the night. It would take up their minds, and kep 'em out of vittles and other mischief.
+
+It wuz somethin' like providin' a circus for 'em.
+
+But howsumever, the Deacon wuz a-workin' at this; he wuzn't quite satisfied with its runnin' gear, and he wuz a-perfectin' this rat trap every leisure minute he had outside of his buzz saw and threshin' machine business, and so he wuz fearful busy.
+
+Deacon Sypher had took the agency for "The Wild West, or The Leaping Cow Boy of the Plain," and wuz doin' well by it.
+
+And Deacon Bobbet had took in a lot of mustangs to keep through the winter. And he wuz a ridin' 'em a good deal, accordin' to contract, and tryin' to tame 'em some before spring. And this work, with the buzz saw, took up every minute of his time. For the mustangs throwed him a good deal, and he had to lay bound up in linements a good deal of the time, and arneky.
+
+[Illustration: "HE HAD TO LAY BOUND UP IN LINEMENTS A GOOD DEAL OF THE TIME."]
+
+So, as I say, it didn't surprise me a mite to have 'em say they couldn't help us, for I knew jest how these jobs of theirn devoured their time.
+
+And when my Josiah had made his excuse, it wuzn't any more than I had looked out for, to hear Deacon Henzy say he had got to git home to ile his threshin' machine. One of the cogs wuz out of gear in some way.
+
+He wanted to help us, so it didn't seem as if he could tear himself away, but that steam threshin' machine stood in the way. And then on his way down to Jonesville that very mornin' a new idee had come to him about that travellin' rat trap, and he wanted to get home jest as quick as he could, to try it.
+
+And Deacon Bobbet said that three of them mustangs he had took in to break had got to be rid that day, they wuz a gettin' so wild he didn't hardly dast to go nigh 'em.
+
+And Deacon Sypher said that he must hasten back, for a man wuz a-comin' to see him from way up on the State road, to try to get a agency under him for "The Leaping Cow Boy of the Plain." And he wanted to show the "Leaping Cow Boy" to some agents to the tavern in Jonesville on his way home, and to some wimmen on the old Plank road. Two or three of the wimmen had gin hopes that they would take the "Leaping Cow Boy."
+
+And then they said - the hull three of the deacons did - that any minute them other deacons who wuz goin' into partnership with 'em in the buzz saw business wuz liable to drive down to see 'em about it.
+
+And some of the other men brethren said their farms and their live stock demanded the hull of their time - every minute of it.
+
+So we see jest how it wuz, we see these male deacons couldn't devote any of their time to the meetin' house, nor those other brethren nuther.
+
+We see that their time wuz too valuable, and their own business devoured the hull on it. And we married Sisters, who wuz acestemed to the strange and mysterius ways of male men, we accepted the situation jest es we would any other mysterius dispensation, and didn't say nothin'.
+
+Good land! We wuz used to curius sayin's and doin's, every one on us. Curius as a dog, and curiuser.
+
+But Sister Meechim (onmarried), she is dretful questinin' and inquirin' (men don't like her, they say she prys into subjects she's no business to meddle with). She sez to Josiah:
+
+"Why is it, Deacon Allen, that men deacons can carry on all sorts of business and still be deacons, while wimmen deacons are obleeged to give up all other business and devote themselves wholly to their work?"
+
+"It is on account of their minds," sez Josiah. "Men have got stronger minds than wimmen, that is the reason."
+
+And Sister Meechim sez agin -
+
+"Why is it that wimmen deacons have to remain onmarried, while men deacons can marry one wife after another through a long life, that is, if they are took from 'em by death or a divorce lawyer?"
+
+"Wall," sez Josiah, "that, too, is on account of their brains. Their brains hain't so hefty es men's."
+
+But I jest waded into the argument then. I jest interfered, and sez in a loud, clear tone,
+
+"Oh, shaw!"
+
+And then I sez further, in the same calm, clear tones, but dry as ever a dry oven wuz in its dryest times. Sez I,
+
+"If you men can't help us any about the meetin' house, you'd better get out of our way, for we wimmen have got to go to scrubbin' right where you are a-standin'."
+
+"Certainly," sez Josiah, in a polite axent, "certainly."
+
+And so the rest of the men said.
+
+And Josiah added to his remarks, as he went down the steps,
+
+"You'd better get home, Samantha, in time to cook a hen, and make some puddin', and so forth."
+
+And I sez, with quite a lot of dignity, "Have I ever failed, Josiah Allen, to have good dinners for you, and on time too?"
+
+"No," sez he, "but I thought I would jest stop to remind you of it, and also to tell you the last news from the Conference, about the deaconesses."
+
+And so they trailed down one after another, and left us to our work in the meetin' house; but as they disapered round the corner, Sister Arvilly Lanfear, who hain't married, and who has got a sharp tongue (some think that is why, but I don't; I believe Arvilly has had chances).
+
+But any way, she sez, as they went down the steps,
+
+"I'll bet them men wuz a-practisen' their new parts of men superentendents, and look on us as a lot of deaconesses."
+
+[Illustration: "JOSIAH ADDED TO HIS REMARKS."]
+
+"Wall," sez Sister Gowdy - she loves to put on Arvilly - "wall, you have got one qualificatin', Arvilly!"
+
+"Yes, thank the Lord," sez she.
+
+And I never asked what she meant, but knew well enough that she spoke of her single state. But Arvilly has had chances, I think.

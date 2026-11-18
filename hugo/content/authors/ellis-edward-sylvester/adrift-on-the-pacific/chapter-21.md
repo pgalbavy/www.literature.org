@@ -1,0 +1,90 @@
+---
+title: "Chapter 21 - At Last"
+weight: 21
+aliases:
+  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-21.html"
+---
+
+Mate Storms, so far as could be seen, looked like an immense crab at work on the bottom of the pearl bank and along the rough rocks. He was so far below the surface that he was insensible to the long, heavy swells, which at intervals broke upon the beach with a thunderous boom, and so long as the breathing apparatus kept right he could pursue his labor without difficulty.
+
+As he anticipated, he had not been long at work when several sharks made their appearance and reconnoitered the mysterious intruder upon their domains. They were evidently puzzled over the appearance of the strange visitor, and when Storms gave one of them an ugly prod with the point of his knife, he darted out of sight, instantly followed by the others, who seemed to suspect they were in danger from the monster, whose slightest touch was so emphatic.
+
+It did not take long for the diver to fill his basket, and when he gave the signal, Captain Bergen pulled with might and main, and, a few minutes after, the man in his armor scrambled upon shore, tumbled over by a huge swell, which broke at that moment. The basket was full, and catching it up, Captain Bergen left his friend to himself and began hurriedly prying open the mollusks with his sheath-knife. His heart throbbed, for they were the largest oysters he had ever seen, and he was full of high hope.
+
+The first bivalve opened disclosed a pearl almost as large as a robin's egg. It possessed the faint yellowish tinge which is recognized in the East as belonging to the most valuable species.
+
+With trembling, eager hands, Captain Bergen opened the second, and discovered another, nearly as large as the first. Half beside himself, he snatched up the largest oyster in the heap, and forced it apart with such precipitancy that he cut his hand. There lay a pearl before him fully a third larger than the first, with the purest tint, oval in form, and worth thousands of dollars.
+
+Captain Bergen could contain himself no longer, but springing to his feet he threw his hat in the air, and shouted, and danced about like a madman.
+
+Mr. Storms did not remove his armor, for he intended to go down again. His laugh, muffled and sounding strangely from within the visor, was heard as he joined in the demonstrations of his companion.
+
+When, encumbered as he was with his awkward armor, he began executing a double shuffle on the beach, the sight was so grotesque that the captain came near going into convulsions. But the exercise was too exhausting, and the mate speedily sat down on the shore and also began opening oysters. His ardor was somewhat dampened when he failed to discover anything in the first, and he became quite solemn when the second was equally barren of results; but the third yielded a beautiful pearl, fully equal to the first which the captain brought forth. There could be no doubt now that the men had struck a pearl bank of marvelous richness.
+
+"There are plenty more down there," said the mate, preparing to descend with his knife and basket again.
+
+Captain Bergen allowed him to go, while he took the rope in hand, restraining his excitement with difficulty, for he was now sure that the wildest dreams in which he had indulged promised to be more than realized, and he considered the fortune of himself and friend assured.
+
+"The fools," he muttered, referring to the mutineers; "if they had acted the part of honest men they might have shared this, but they chose to be scoundrels, and truly they have had their reward."
+
+He noticed this time that the mate drew more upon the hose than before—so much so, indeed, that he threatened to draw the upper ends under water—and the captain gave a warning tug at the rope, to apprise him that he must venture no further. The warning was heeded, and when, a few minutes later, the diver was helped to terra firma again, his basket was filled heaping full.
+
+This was dumped out, and he prepared to descend once more. Captain Bergen was so occupied in attending to his friend that he gained little time to open the oysters, and could only look longingly at them. Now and then, while the diver was cautiously working below, the captain snatched one up and pried the shells apart, and the success he met with was enough to turn the head of the coolest and most unconcerned of men. Beyond question, as we have said, the bank contained oysters of astonishing richness, fully three-fourths possessing pearls of extraordinary size and value.
+
+Abe Storms went down and came up with the basket heaped to the top six separate times, and then doffed his armor.
+
+"What's the matter?" asked the captain, in surprise.
+
+"That's all!"
+
+"What! are there no more?"
+
+"Not another one, so far as I can see."
+
+"That's too bad," observed the captain, in a tone of disappointment. "I supposed there was enough to keep us employed several days."
+
+"Ah, Jack," replied the mate, in a reproving tone, "see the emptiness of riches, and how little they can do to satisfy the cravings of the human heart. There is enough wealth there at your feet to make you and me independently rich for life, and yet you complain because you have so little."
+
+"It was wrong," said the captain, meekly. "I am in such a nervous condition that I'm hardly myself. I am truly grateful for what we have here, and glad that we made the long voyage to secure them. We have enough—to crave more is wicked."
+
+They now set to work opening the shells between which were nestling the pearls, and the result was simply astonishing. It was hard work to get some of the thick, ridgy bivalves apart, but when they succeeded they rarely failed to be rewarded munificently. Some of the pearls were small, the majority large, and about twenty of enormous size and clearness. When the entire lot was placed in a little pile, there were found to be one hundred and twenty-odd; and, although it was impossible to estimate their value, Mate Storms—who was the better informed—believed they were worth at least a quarter of a million of dollars. All these had been taken in a few hours, though the preparations and the voyage thither had occupied many long, long months.
+
+"I think I will go down and take a farewell look," said Abe, when the task was finished. "I have a suspicion that I may have missed something."
+
+"I am quite sure you have," replied the captain, assisting him with his armor; "and you have but a short time at your disposal, either, for I think a storm is brewing."
+
+This time the mate meant to proceed differently. In descending along the rocks the first time, he paused to break off some of the clusters, and he thought he caught the shadowy glimpse of an enormous oyster, further in; but there were so many closer at hand, and he was so excited—despite his natural coolness—that he forgot about it until now, when he determined to look further, half hoping, more than believing, that it might possess a still larger pearl than any he had seen. He was confident that this was the only one he had missed, for the search he made during his last descent, in other respects, was thorough and left nothing to be done over again.
+
+Carefully he sank into the depths of the ocean, with one hand grasping the rope, ready to give the signal to stop lowering the instant it should become necessary. He passed several yawning crevices in the rocks, which, of course, were of coral formation, and all at once he tugged smartly at the rope. He recognized the spot, and his feet were still about three yards from the bank upon which he had walked back and forth so many times. Captain Bergen responded at once, and held him suspended where he was, which was anything but a comfortable position, inasmuch as he could find no support for his feet, and his left hand was of little use.
+
+Immediately before his face the rock made an inward sweep, showing an abrupt ledge, a yard in width and depth. Scanning this as closely as he could in the dim twilight of the ocean-cavern, Storms thought he saw something resembling an oyster, which was fully a foot in length. Uncertain as to its identity, he shoved his hand in and found it was suspended to the rock above, and after two or three violent wrenches, and by using his knife as well as he could, he broke it loose and drew it out.
+
+It was an oyster, indeed, of prodigious size, and he instantly signaled to the captain to draw him up. The latter did so with a vigor that threatened to dislocate the armor itself.
+
+"Here it is," he exclaimed, the moment he reached the air. "But I don't know whether there is anything in it or not."
+
+"My stars! Is that an oyster?" asked the captain, picking it up and turning it over like a huge stone, with inquiring eyes.
+
+Little Inez Hawthorne had come to the spot while the mate was down the last time, and she danced with delight at the sight of the beautiful pearls piled upon the ground like a heap of tiny cannon balls.
+
+"What are you going to do with that?" she asked, surveying the big bivalve, with an expression of disgust on her pretty face.
+
+"That is yours," said the captain, earnestly.
+
+The mate looked at him and said:
+
+"Do you mean that, captain?"
+
+"I do. Whatever we find inside of that shall be consecrated to the use of Inez Hawthorne—to be hers absolutely. There may be nothing at all, but if there be a pearl, it will possess a value which we cannot estimate."
+
+The mate reached out his hand.
+
+"The proposition does credit to your heart, captain, and I join it without reservation. Now do you open it."
+
+The captain hesitated a moment and looked at the big shell curiously, as if afraid to make the investigation.
+
+While thus employed, Storms called attention to the fact that the two shells were already slightly separated, as if the mollusk were gasping for air, which could not be the case. Captain Bergen held up the huge shell and peeped inside. He did so but an instant, when he dropped it upon the sand, and exclaimed, with a pale face and trembling voice:
+
+"It's there!"
+
+Mate Storms knew what it meant, and he in turn raised the oyster, ran his knife in carefully, worked hard for a minute, and then managed to get the two shells apart.

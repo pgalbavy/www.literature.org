@@ -1,0 +1,78 @@
+---
+title: "Chapter 19 - An Interloper"
+weight: 19
+aliases:
+  - "/authors/barrie-james-matthew/the-little-white-bird/chapter-19.html"
+---
+
+David and I had a tremendous adventure. It was this, he passed the night with me. We had often talked of it as a possible thing, and at last Mary consented to our having it.
+
+The adventure began with David's coming to me at the unwonted hour of six P.M., carrying what looked like a packet of sandwiches, but proved to be his requisites for the night done up in a neat paper parcel. We were both so excited that, at the moment of greeting, neither of us could be apposite to the occasion in words, so we communicated our feelings by signs; as thus, David half sat down in a place where there was no chair, which is his favourite preparation for being emphatic, and is borrowed, I think, from the frogs, and we then made the extraordinary faces which mean, "What a tremendous adventure!"
+
+We were to do all the important things precisely as they are done every evening at his own home, and so I am in a puzzle to know how it was such an adventure to David. But I have now said enough to show you what an adventure it was to me.
+
+For a little while we played with my two medals, and, with the delicacy of a sleeping companion, David abstained on this occasion from asking why one of them was not a Victoria Cross. He is very troubled because I never won the Victoria Cross, for it lowers his status in the Gardens. He never says in the Gardens that I won it, but he fights any boy of his year who says I didn't. Their fighting consists of challenging each other.
+
+At twenty-five past six I turned on the hot water in the bath, and covertly swallowed a small glass of brandy. I then said, "Half- past six; time for little boys to be in bed." I said it in the matter-of-fact voice of one made free of the company of parents, as if I had said it often before, and would have to say it often again, and as if there was nothing particularly delicious to me in hearing myself say it. I tried to say it in that way.
+
+And David was deceived. To my exceeding joy he stamped his little foot, and was so naughty that, in gratitude, I gave him five minutes with a matchbox. Matches, which he drops on the floor when lighted, are the greatest treat you can give David; indeed, I think his private heaven is a place with a roaring bonfire.
+
+Then I placed my hand carelessly on his shoulder, like one a trifle bored by the dull routine of putting my little boys to bed, and conducted him to the night nursery, which had lately been my private chamber. There was an extra bed in it tonight, very near my own, but differently shaped, and scarcely less conspicuous was the new mantel-shelf ornament: a tumbler of milk, with a biscuit on top of it, and a chocolate riding on the biscuit. To enter the room without seeing the tumbler at once was impossible. I had tried it several times, and David saw and promptly did his frog business, the while, with an indescribable emotion, I produced a night-light from my pocket and planted it in a saucer on the wash- stand.
+
+David watched my preparations with distasteful levity, but anon made a noble amend by abruptly offering me his foot as if he had no longer use for it, and I knew by intuition that he expected me to take off his boots. I took them off with all the coolness of an old hand, and then I placed him on my knee and removed his blouse. This was a delightful experience, but I think I remained wonderfully calm until I came somewhat too suddenly to his little braces, which agitated me profoundly.
+
+I cannot proceed in public with the disrobing of David.
+
+Soon the night nursery was in darkness, but for the glimmer from the night-light, and very still save when the door creaked as a man peered in at the little figure on the bed. However softly I opened the door, an inch at a time, his bright eyes turned to me at once, and he always made the face which means, "What a tremendous adventure!"
+
+"Are you never to fall asleep, David?" I always said.
+
+"When are you coming to bed?" he always replied, very brave but in a whisper, as if he feared the bears and wolves might have him. When little boys are in bed there is nothing between them and bears and wolves but the night-light.
+
+I returned to my chair to think, and at last he fell asleep with his face to the wall, but even then I stood many times at the door, listening.
+
+Long after I had gone to bed a sudden silence filled the chamber, and I knew that David had awaked. I lay motionless, and, after what seemed a long time of waiting, a little far-away voice said in a cautious whisper, "Irene!"
+
+"You are sleeping with me to-night, you know, David," I said.
+
+"I didn't know," he replied, a little troubled but trying not to be a nuisance.
+
+"You remember you are with me?" I asked.
+
+After a moment's hesitation he replied, "I nearly remember," and presently he added very gratefully, as if to some angel who had whispered to him, "I remember now."
+
+I think he had nigh fallen asleep again when he stirred and said, "Is it going on now?"
+
+"What?"
+
+"The adventure."
+
+"Yes, David."
+
+Perhaps this disturbed him, for by-and-by I had to inquire, "You are not frightened, are you?"
+
+"Am I not?" he answered politely, and I knew his hand was groping in the darkness, so I put out mine and he held on tightly to one finger.
+
+"I am not frightened now," he whispered.
+
+"And there is nothing else you want?"
+
+"Is there not?" he again asked politely. "Are you sure there's not?" he added.
+
+"What can it be, David?"
+
+"I don't take up very much room," the far-away voice said.
+
+"Why, David," said I, sitting up, "do you want to come into my bed?"
+
+"Mother said I wasn't to want it unless you wanted it first," he squeaked.
+
+"It is what I have been wanting all the time," said I, and then without more ado the little white figure rose and flung itself at me. For the rest of the night he lay on me and across me, and sometimes his feet were at the bottom of the bed and sometimes on the pillow, but he always retained possession of my finger, and occasionally he woke me to say that he was sleeping with me. I had not a good night. I lay thinking.
+
+Of this little boy, who, in the midst of his play while I undressed him, had suddenly buried his head on my knees.
+
+Of the woman who had been for him who could be sufficiently daring.
+
+Of David's dripping little form in the bath, and how when I essayed to catch him he had slipped from my arms like a trout.
+
+Of how I had stood by the open door listening to his sweet breathing, had stood so long that I forgot his name and called him Timothy.

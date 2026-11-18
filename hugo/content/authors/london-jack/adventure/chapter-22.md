@@ -1,0 +1,142 @@
+---
+title: "Chapter 22 - Gogoomy Finishes Along Kwaque Altogether"
+weight: 22
+aliases:
+  - "/authors/london-jack/adventure/chapter-22.html"
+---
+
+"I wonder what has become of Tudor. It's two months since he disappeared into the bush, and not a word of him after he left Binu."
+
+Joan Lackland was sitting astride her horse by the bank of the Balesuna where the sweet corn had been planted, and Sheldon, who had come across from the house on foot, was leaning against her horse's shoulder.
+
+"Yes, it is along time for no news to have trickled down," he answered, watching her keenly from under his hat-brim and wondering as to the measure of her anxiety for the adventurous gold-hunter; "but Tudor will come out all right. He did a thing at the start that I wouldn't have given him or any other man credit for-- persuaded Binu Charley to go along with him. I'll wager no other Binu nigger has ever gone so far into the bush unless to be kai- kai'd. As for Tudor--"
+
+"Look! look!" Joan cried in a low voice, pointing across the narrow stream to a slack eddy where a huge crocodile drifted like a log awash. "My! I wish I had my rifle."
+
+The crocodile, leaving scarcely a ripple behind, sank down and disappeared.
+
+"A Binu man was in early this morning--for medicine," Sheldon remarked. "It may have been that very brute that was responsible. A dozen of the Binu women were out, and the foremost one stepped right on a big crocodile. It was by the edge of the water, and he tumbled her over and got her by the leg. All the other women got hold of her and pulled. And in the tug of war she lost her leg, below the knee, he said. I gave him a stock of antiseptics. She'll pull through, I fancy."
+
+"Ugh--the filthy beasts," Joan gulped shudderingly. "I hate them! I hate them!"
+
+"And yet you go diving among sharks," Sheldon chided.
+
+"They're only fish-sharks. And as long as there are plenty of fish there is no danger. It is only when they're famished that they're liable to take a bite."
+
+Sheldon shuddered inwardly at the swift vision that arose of the dainty flesh of her in a shark's many-toothed maw.
+
+"I wish you wouldn't, just the same," he said slowly. "You acknowledge there is a risk."
+
+"But that's half the fun of it," she cried.
+
+A trite platitude about his not caring to lose her was on his lips, but he refrained from uttering it. Another conclusion he had arrived at was that she was not to be nagged. Continual, or even occasional, reminders of his feeling for her would constitute a tactical error of no mean dimensions.
+
+"Some for the book of verse, some for the simple life, and some for the shark's belly," he laughed grimly, then added: "Just the same, I wish I could swim as well as you. Maybe it would beget confidence such as you have."
+
+"Do you know, I think it would be nice to be married to a man such as you seem to be becoming," she remarked, with one of her abrupt changes that always astounded him. "I should think you could be trained into a very good husband--you know, not one of the domineering kind, but one who considered his wife was just as much an individual as himself and just as much a free agent. Really, you know, I think you are improving."
+
+She laughed and rode away, leaving him greatly cast down. If he had thought there had been one bit of coyness in her words, one feminine flutter, one womanly attempt at deliberate lure and encouragement, he would have been elated. But he knew absolutely that it was the boy, and not the woman, who had so daringly spoken.
+
+Joan rode on among the avenues of young cocoanut-palms, saw a hornbill, followed it in its erratic flights to the high forest on the edge of the plantation, heard the cooing of wild pigeons and located them in the deeper woods, followed the fresh trail of a wild pig for a distance, circled back, and took the narrow path for the bungalow that ran through twenty acres of uncleared cane. The grass was waist-high and higher, and as she rode along she remembered that Gogoomy was one of a gang of boys that had been detailed to the grass-cutting. She came to where they had been at work, but saw no signs of them. Her unshod horse made no sound on the soft, sandy footing, and a little further on she heard voices proceeding from out of the grass. She reined in and listened. It was Gogoomy talking, and as she listened she gripped her bridle- rein tightly and a wave of anger passed over her.
+
+"Dog he stop 'm along house, night-time he walk about," Gogoomy was saying, perforce in beche-de-mer English, because he was talking to others beside his own tribesmen. "You fella boy catch 'm one fella pig, put 'm kai-kai belong him along big fella fish-hook. S'pose dog he walk about catch 'm kai-kai, you fella boy catch 'm dog allee same one shark. Dog he finish close up. Big fella marster sleep along big fella house. White Mary sleep along pickaninny house. One fella Adamu he stop along outside pickaninny house. You fella boy finish 'm dog, finish 'm Adamu, finish 'm big fella marster, finish 'm White Mary, finish 'em altogether. Plenty musket he stop, plenty powder, plenty tomahawk, plenty knife-fee, plenty porpoise teeth, plenty tobacco, plenty calico--my word, too much plenty everything we take 'm along whale-boat, washee {5} like hell, sun he come up we long way too much."
+
+"Me catch 'm pig sun he go down," spoke up one whose thin falsetto voice Joan recognized as belonging to Cosse, one of Gogoomy's tribesmen.
+
+"Me catch 'm dog," said another.
+
+"And me catch 'm white fella Mary," Gogoomy cried triumphantly. "Me catch 'm Kwaque he die along him damn quick."
+
+This much Joan heard of the plan to murder, and then her rising wrath proved too much for her discretion. She spurred her horse into the grass, crying, -
+
+"What name you fella boy, eh? What name?"
+
+They arose, scrambling and scattering, and to her surprise she saw there were a dozen of them. As she looked in their glowering faces and noted the heavy, two-foot, hacking cane-knives in their hands, she became suddenly aware of the rashness of her act. If only she had had her revolver or a rifle, all would have been well. But she had carelessly ventured out unarmed, and she followed the glance of Gogoomy to her waist and saw the pleased flash in his eyes as he perceived the absence of the dreadful man-killing revolver.
+
+The first article in the Solomon Islands code for white men was never to show fear before a native, and Joan tried to carry off the situation in cavalier fashion.
+
+"Too much talk along you fella boy," she said severely. "Too much talk, too little work. Savvee?"
+
+Gogoomy made no reply, but, apparently shifting weight, he slid one foot forward. The other boys, spread fan-wise about her, were also sliding forward, the cruel cane-knives in their hands advertising their intention.
+
+"You cut 'm grass!" she commanded imperatively.
+
+But Gogoomy slid his other foot forward. She measured the distance with her eye. It would be impossible to whirl her horse around and get away. She would be chopped down from behind.
+
+And in that tense moment the faces of all of them were imprinted on her mind in an unforgettable picture--one of them, an old man, with torn and distended ear-lobes that fell to his chest; another, with the broad flattened nose of Africa, and with withered eyes so buried under frowning brows that nothing but the sickly, yellowish- looking whites could be seen; a third, thick-lipped and bearded with kinky whiskers; and Gogoomy--she had never realized before how handsome Gogoomy was in his mutinous and obstinate wild-animal way. There was a primitive aristocraticness about him that his fellows lacked. The lines of his figure were more rounded than theirs, the skin smooth, well oiled, and free from disease. On his chest, suspended from a single string of porpoise-teeth around his throat, hung a big crescent carved out of opalescent pearl-shell. A row of pure white cowrie shells banded his brow. From his hair drooped a long, lone feather. Above the swelling calf of one leg he wore, as a garter, a single string of white beads. The effect was dandyish in the extreme. A narrow gee-string completed his costume. Another man she saw, old and shrivelled, with puckered forehead and a puckered face that trembled and worked with animal passion as in the past she had noticed the faces of monkeys tremble and work.
+
+"Gogoomy," she said sharply, "you no cut 'm grass, my word, I bang 'm head belong you."
+
+His expression became a trifle more disdainful, but he did not answer. Instead, he stole a glance to right and left to mark how his fellows were closing about her. At the same moment he casually slipped his foot forward through the grass for a matter of several inches.
+
+Joan was keenly aware of the desperateness of the situation. The only way out was through. She lifted her riding-whip threateningly, and at the same moment drove in both spurs with her heels, rushing the startled horse straight at Gogoomy. It all happened in an instant. Every cane-knife was lifted, and every boy save Gogoomy leaped for her. He swerved aside to avoid the horse, at the same time swinging his cane-knife in a slicing blow that would have cut her in twain. She leaned forward under the flying steel, which cut through her riding-skirt, through the edge of the saddle, through the saddle cloth, and even slightly into the horse itself. Her right hand, still raised, came down, the thin whip whishing through the air. She saw the white, cooked mark of the weal clear across the sullen, handsome face, and still what was practically in the same instant she saw the man with the puckered face, overridden, go down before her, and she heard his snarling and grimacing chatter-for all the world like an angry monkey. Then she was free and away, heading the horse at top speed for the house.
+
+Out of her sea-training she was able to appreciate Sheldon's executiveness when she burst in on him with her news. Springing from the steamer-chair in which he had been lounging while waiting for breakfast, he clapped his hands for the house-boys; and, while listening to her, he was buckling on his cartridge-belt and running the mechanism of his automatic pistol.
+
+"Ornfiri," he snapped out his orders, "you fella ring big fella bell strong fella plenty. You finish 'm bell, you put 'm saddle on horse. Viaburi, you go quick house belong Seelee he stop, tell 'm plenty black fella run away--ten fella two fella black fella boy." He scribbled a note and handed it to Lalaperu. "Lalaperu, you go quick house belong white fella Marster Boucher."
+
+"That will head them back from the coast on both sides," he explained to Joan. "And old Seelee will turn his whole village loose on their track as well."
+
+In response to the summons of the big bell, Joan's Tahitians were the first to arrive, by their glistening bodies and panting chests showing that they had run all the way. Some of the farthest-placed gangs would be nearly an hour in arriving.
+
+Sheldon proceeded to arm Joan's sailors and deal out ammunition and handcuffs. Adamu Adam, with loaded rifle, he placed on guard over the whale-boats. Noa Noah, aided by Matapuu, were instructed to take charge of the working-gangs as fast as they came in, to keep them amused, and to guard against their being stampeded into making a break themselves. The five other Tahitians were to follow Joan and Sheldon on foot.
+
+"I'm glad we unearthed that arsenal the other day," Sheldon remarked as they rode out of the compound gate.
+
+A hundred yards away they encountered one of the clearing gangs coming in. It was Kwaque's gang, but Sheldon looked in vain for him.
+
+"What name that fella Kwaque he no stop along you?" he demanded.
+
+A babel of excited voices attempted an answer.
+
+"Shut 'm mouth belong you altogether," Sheldon commanded.
+
+He spoke roughly, living up to the role of the white man who must always be strong and dominant.
+
+"Here, you fella Babatani, you talk 'm mouth belong you."
+
+Babatani stepped forward in all the pride of one singled out from among his fellows.
+
+"Gogoomy he finish along Kwaque altogether," was Babatani's explanation. "He take 'm head b'long him run like hell."
+
+In brief words, and with paucity of imagination, he described the murder, and Sheldon and Joan rode on. In the grass, where Joan had been attacked, they found the little shrivelled man, still chattering and grimacing, whom Joan had ridden down. The mare had plunged on his ankle, completely crushing it, and a hundred yards' crawl had convinced him of the futility of escape. To the last clearing-gang, from the farthest edge of the plantation, was given the task of carrying him in to the house.
+
+A mile farther on, where the runaways' trail led straight toward the bush, they encountered the body of Kwaque. The head had been hacked off and was missing, and Sheldon took it on faith that the body was Kwaque's. He had evidently put up a fight, for a bloody trail led away from the body.
+
+Once they were well into the thick bush the horses had to be abandoned. Papehara was left in charge of them, while Joan and Sheldon and the remaining Tahitians pushed ahead on foot. The way led down through a swampy hollow, which was overflowed by the Berande River on occasion, and where the red trail of the murderers was crossed by a crocodile's trail. They had apparently caught the creature asleep in the sun and desisted long enough from their flight to hack him to pieces. Here the wounded man had sat down and waited until they were ready to go on.
+
+An hour later, following along a wild-pig trail, Sheldon suddenly halted. The bloody tracks had ceased. The Tahitians cast out in the bush on either side, and a cry from Utami apprised them of a find. Joan waited till Sheldon came back.
+
+"It's Mauko," he said. "Kwaque did for him, and he crawled in there and died. That's two accounted for. There are ten more. Don't you think you've got enough of it?"
+
+She nodded.
+
+"It isn't nice," she said. "I'll go back and wait for you with the horses."
+
+"But you can't go alone. Take two of the men."
+
+"Then I'll go on," she said. "It would be foolish to weaken the pursuit, and I am certainly not tired."
+
+The trail bent to the right as though the runaways had changed their mind and headed for the Balesuna. But the trail still continued to bend to the right till it promised to make a loop, and the point of intersection seemed to be the edge of the plantation where the horses had been left. Crossing one of the quiet jungle spaces, where naught moved but a velvety, twelve-inch butterfly, they heard the sound of shots.
+
+"Eight," Joan counted. "It was only one gun. It must be Papehara."
+
+They hurried on, but when they reached the spot they were in doubt. The two horses stood quietly tethered, and Papehara, squatted on his hams, was having a peaceful smoke. Advancing toward him, Sheldon tripped on a body that lay in the grass, and as he saved himself from falling his eyes lighted on a second. Joan recognized this one. It was Cosse, one of Gogoomy's tribesmen, the one who had promised to catch at sunset the pig that was to have baited the hook for Satan.
+
+"No luck, Missie," was Papehara's greeting, accompanied by a disconsolate shake of the head. "Catch only two boy. I have good shot at Gogoomy, only I miss."
+
+"But you killed them," Joan chided. "You must catch them alive."
+
+The Tahitian smiled.
+
+"How?" he queried. "I am have a smoke. I think about Tahiti, and breadfruit, and jolly good time at Bora Bora. Quick, just like that, ten boy he run out of bush for me. Each boy have long knife. Gogoomy have long knife one hand, and Kwaque's head in other hand. I no stop to catch 'm alive. I shoot like hell. How you catch 'm alive, ten boy, ten long knife, and Kwaque's head?"
+
+The scattered paths of the different boys, where they broke back after the disastrous attempt to rush the Tahitian, soon led together. They traced it to the Berande, which the runaways had crossed with the clear intention of burying themselves in the huge mangrove swamp that lay beyond.
+
+"There is no use our going any farther," Sheldon said. "Seelee will turn out his village and hunt them out of that. They'll never get past him. All we can do is to guard the coast and keep them from breaking back on the plantation and running amuck. Ah, I thought so."
+
+Against the jungle gloom of the farther shore, coming from down stream, a small canoe glided. So silently did it move that it was more like an apparition. Three naked blacks dipped with noiseless paddles. Long-hafted, slender, bone-barbed throwing-spears lay along the gunwale of the canoe, while a quiverful of arrows hung on each man's back. The eyes of the man-hunters missed nothing. They had seen Sheldon and Joan first, but they gave no sign. Where Gogoomy and his followers had emerged from the river, the canoe abruptly stopped, then turned and disappeared into the deeper mangrove gloom. A second and a third canoe came around the bend from below, glided ghostlike to the crossing of the runaways, and vanished in the mangroves.
+
+"I hope there won't be any more killing," Joan said, as they turned their horses homeward.
+
+"I don't think so," Sheldon assured her. "My understanding with old Seelee is that he is paid only for live boys; so he is very careful."

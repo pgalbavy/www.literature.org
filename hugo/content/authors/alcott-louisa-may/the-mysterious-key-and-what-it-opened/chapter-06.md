@@ -1,0 +1,154 @@
+---
+title: "Chapter 6 - Fair Helen"
+weight: 6
+aliases:
+  - "/authors/alcott-louisa-may/the-mysterious-key-and-what-it-opened/chapter-06.html"
+---
+
+To no one but her mother and Hester did Lillian confide the discovery she had made. None of the former servants but old Bedford remained with them, and till Paul chose to renew the old friendship it was best to remain silent. Great was the surprise and delight of our lady and Hester at the good fortune of their protege, and many the conjectures as to how he would explain his hasty flight.
+
+"You will go and see him, won't you, Mamma, or at least inquire about him?" said Lillian, eager to assure the wanderer of a welcome, for those few words of his had satisfied her entirely.
+
+"No, dear, it is for him to seek us, and till he does, I shall make no sign. He knows where we are, and if he chooses he can renew the acquaintance so strangely broken off. Be patient, and above all things remember, Lillian, that you are no longer a child," replied my lady, rather disturbed by her daughter's enthusiastic praises of Paul.
+
+"I wish I was, for then I might act as I feel, and not be afraid of shocking the proprieties." And Lillian went to bed to dream of her hero.
+
+For three days she stayed at home, expecting Paul, but he did not come, and she went out for her usual ride in the Park, hoping to meet him. An elderly groom now rode behind her, and she surveyed him with extreme disgust, as she remembered the handsome lad who had once filled that place. Nowhere did Paul appear, but in the Ladies' Mile she passed an elegant brougham in which sat a very lovely girl and a mild old lady.
+
+"That is Talbot's fiancee," said Maud Churchill, who had joined her. "Isn't she beautiful?"
+
+"Not at all - yes, very," was Lillian's somewhat peculiar reply, for jealousy and truth had a conflict just then. "He's so perfectly absorbed and devoted that I am sure that story is true, so adieu to our hopes," laughed Maud.
+
+"Did you have any? Good-bye, I must go." And Lillian rode home at a pace which caused the stout groom great distress.
+
+"Mamma, I've seen Paul's betrothed!" she cried, running into her mother's boudoir.
+
+"And I have seen Paul himself," replied my lady, with a warning look, for there he stood, with half-extended hand, as if waiting to be acknowledged.
+
+Lillian forgot her embarrassment in her pleasure, and made him an elaborate curtsy, saying, with a half-merry, half-reproachful glance, "Mr. Talbot is welcome in whatever guise he appears."
+
+"I choose to appear as Paul, then, and offer you a seat, Miss Lillian," he said, assuming as much of his boyish manner as he could.
+
+Lillian took it and tried to feel at ease, but the difference between the lad she remembered and the man she now saw was too great to be forgotten.
+
+"Now tell us your adventures, and why you vanished away so mysteriously four years ago," she said, with a touch of the childish imperiousness in her voice, though her frank eyes fell before his.
+
+"I was about to do so when you appeared with news concerning my cousin," he began.
+
+"Your cousin!" exclaimed Lillian.
+
+"Yes, Helen's mother and my own were sisters. Both married Englishmen, both died young, leaving us to care for each other. We were like a brother and sister, and always together till I left her to serve Colonel Daventry. The death of the old priest to whom I entrusted her recalled me to Genoa, for I was then her only guardian. I meant to have taken leave of you, my lady, properly, but the consequences of that foolish trick of mine frightened me away in the most unmannerly fashion."
+
+"Ah, it was you, then, in the state chamber; I always thought so," and Lady Trevlyn drew a long breath of relief.
+
+"Yes, I heard it whispered among the servants that the room was haunted, and I felt a wish to prove the truth of the story and my own courage. Hester locked me in, for fear of my sleepwalking; but I lowered myself by a rope and then climbed in at the closet window of the state chamber. When you came, my lady, I thought it was Hester, and slipped into the bed, meaning to give her a fright in return for her turning the key on me. But when your cry showed me what I had done, I was filled with remorse, and escaped as quickly and quietly as possible. I should have asked pardon before; I do now, most humbly, my lady, for it was sacrilege to play pranks there."
+
+During the first part of his story Paul's manner had been frank and composed, but in telling the latter part, his demeanor underwent a curious change. He fixed his eyes on the ground and spoke as if repeating a lesson, while his color varied, and a half-proud, half-submissive expression replaced the former candid one. Lillian observed this, and it disturbed her, but my lady took it for shame at his boyish freak and received his confession kindly, granting a free pardon and expressing sincere pleasure at his amended fortunes. As he listened, Lillian saw him clench his hand hard and knit his brows, assuming the grim look she had often seen, as if trying to steel himself against some importunate emotion or rebellious thought.
+
+"Yes, half my work is done, and I have a home, thanks to my generous benefactor, and I hope to enjoy it well and wisely," he said in a grave tone, as if the fortune had not yet brought him his heart's desire.
+
+"And when is the other half of the work to be accomplished, Paul? That depends on your cousin, perhaps." And Lady Trevlyn regarded him with a gleam of womanly curiosity in her melancholy eyes.
+
+"It does, but not in the way you fancy, my lady. Whatever Helen may be, she is not my fiancee yet, Miss Lillian." And the shadow lifted as he laughed, looking at the young lady, who was decidedly abashed, in spite of a sense of relief caused by his words.
+
+"I merely accepted the world's report," she said, affecting a nonchalant air.
+
+"The world is a liar, as you will find in time" was his abrupt reply.
+
+"I hope to see this beautiful cousin, Paul. Will she receive us as old friends of yours?"
+
+"Thanks, not yet, my lady. She is still too much a stranger here to enjoy new faces, even kind ones. I have promised perfect rest and freedom for a tune, but you shall be the first whom she receives."
+
+Again Lillian detected the secret disquiet which possessed him, and her curiosity was roused. It piqued her that this Helen felt no desire to meet her and chose to seclude herself, as if regardless of the interest and admiration she excited. "I will see her in spite of her refusal, for I only caught a glimpse in the Park. Something is wrong, and I'll discover it, for it evidently worries Paul, and perhaps I can help him."
+
+As this purpose sprang up in the warm but willful heart of the girl, she regained her spirits and was her most charming self while the young man stayed. They talked of many things in a pleasant, confidential manner, though when Lillian recalled that hour, she was surprised to find how little Paul had really told them of his past life or future plans. It was agreed among them to say nothing of their former relations, except to old Bedford, who was discretion itself, but to appear to the world as new-made friends - thus avoiding unpleasant and unnecessary explanations which would only excite gossip. My lady asked him to dine, but he had business out of town and declined, taking his leave with a lingering look, which made Lillian steal away to study her face in the mirror and wonder if she looked her best, for in Paul's eyes she had read undisguised admiration.
+
+Lady Trevlyn went to her room to rest, leaving the girl free to ride, drive, or amuse herself as she liked. As if fearing her courage would fail if she delayed, Lillian ordered the carriage, and, bidding Hester mount guard over her, she drove away to St. John's Wood.
+
+"Now, Hester, don't lecture or be prim when I tell you that we are going on a frolic," she began, after getting the old woman into an amiable mood by every winning wile she could devise. "I think you'll like it, and if it's found out I'll take the blame. There is some mystery about Paul's cousin, and I'm going to find it out."
+
+"Bless you, child, how?"
+
+"She lives alone here, is seldom seen, and won't go anywhere or receive anyone. That's not natural in a pretty girl. Paul won't talk about her, and, though he's fond of her, he always looks grave and grim when I ask questions. That's provoking, and I won't hear it. Maud is engaged to Raleigh, you know; well, he confided to her that he and a friend had found out where Helen was, had gone to the next villa, which is empty, and under pretense of looking at it got a peep at the girl in her garden. I'm going to do the same."
+
+"And what am I to do?" asked Hester, secretly relishing the prank, for she was dying with curiosity to behold Paul's cousin.
+
+"You are to do the talking with the old woman, and give me a chance to look. Now say you will, and I'll behave myself like an angel in return."
+
+Hester yielded, after a few discreet scruples, and when they reached Laburnum Lodge played her part so well that Lillian soon managed to stray away into one of the upper rooms which overlooked the neighboring garden. Helen was there, and with eager eyes the girl scrutinized her. She was very beautiful, in the classical style; as fair and finely molded as a statue, with magnificent dark hair and eyes, and possessed of that perfect grace which is as effective as beauty. She was alone, and when first seen was bending over a flower which she caressed and seemed to examine with great interest as she stood a long time motionless before it. Then she began to pace slowly around and around the little grass plot, her hands hanging loosely clasped before her, and her eyes fixed on vacancy as if absorbed in thought. But as the first effect of her beauty passed away, Lillian found something peculiar about her. It was not the somewhat foreign dress and ornaments she wore; it was in her face, her movements, and the tone of her voice, for as she walked she sang a low, monotonous song, as if unconsciously. Lillian watched her keenly, marking the aimless motions of the little hands, the apathy of the lovely face, and the mirthless accent of the voice; but most of all the vacant fixture of the great dark eyes. Around and around she went, with an elastic step and a mechanical regularity wearisome to witness.
+
+What is the matter with her? thought Lillian anxiously, as this painful impression increased with every scrutiny of the unconscious girl. So abashed was she that Hester's call was unheard, and Hester was unseen as she came and stood beside her. Both looked a moment, and as they looked an old lady came from the house and led Helen in, still murmuring her monotonous song and moving her hands as if to catch and hold the sunshine.
+
+"Poor dear, poor dear. No wonder Paul turns sad and won't talk of her, and that she don't see anyone," sighed Hester pitifully.
+
+"What is it? I see, but don't understand," whispered Lillian.
+
+"She's an innocent, deary, an idiot, though that's a hard word for a pretty creature like her."
+
+"How terrible! Come away, Hester, and never breathe to anyone what we have seen." And with a shudder and sense of pain and pity lying heavy at her heart, she hurried away, feeling doubly guilty in the discovery of this affliction. The thought of it haunted her continually; the memory of the lonely girl gave her no peace; and a consciousness of deceit burdened her unspeakably, especially in Paul's presence. This lasted for a week, then Lillian resolved to confess, hoping that when he found she knew the truth he would let her share his cross and help to lighten it. Waiting her opportunity, she seized a moment when her mother was absent, and with her usual frankness spoke out impetuously.
+
+"Paul, I've done wrong, and I can have no peace till I am pardoned. I have seen Helen."
+
+"Where, when, and how?" he asked, looking disturbed and yet relieved.
+
+She told him rapidly, and as she ended she looked up at him with her sweet face, so full of pity, shame, and grief it would have been impossible to deny her anything.
+
+"Can you forgive me for discovering this affliction?"
+
+"I think I could forgive you a far greater fault, Lillian," he answered, in a tone that said many things.
+
+"But deceit is so mean, so dishonorable and contemptible, how can you so easily pardon it in me?" she asked, quite overcome by this forgiveness, granted without any reproach.
+
+"Then you would find it hard to pardon such a thing in another?" he said, with the expression that always puzzled her.
+
+"Yes, it would be hard; but in those I loved, I could forgive much for love's sake."
+
+With a sudden gesture he took her hand saying, impulsively, "How little changed you are! Do you remember that last ride of ours nearly five years ago?"
+
+"Yes, Paul," she answered, with averted eyes.
+
+"And what we talked of?"
+
+"A part of that childish gossip I remember well."
+
+"Which part?"
+
+"The pretty little romance you told me." And Lillian looked up now, longing to ask if Helen's childhood had been blighted like her youth.
+
+Paul dropped her hand as if he, read her thoughts, and his own hand went involuntarily toward his breast, betraying that the locket still hung there.
+
+"What did I say?" he asked, smiling at her sudden shyness.
+
+"You vowed you'd win and wed your fair little lady-love if you lived."
+
+"And so I will," he cried, with sudden fire in his eyes.
+
+"What, marry her?"
+
+"Aye, that I will."
+
+"Oh Paul, will you tie yourself for life to a - " The word died on her lips, but a gesture of repugnance finished the speech.
+
+"A what?" he demanded, excitedly.
+
+"An innocent, one bereft of reason," stammered Lillian, entirely forgetting herself in her interest for him.
+
+"Of whom do you speak?" asked Paul, looking utterly bewildered,
+
+"Of poor Helen."
+
+"Good heavens, who told you that base lie?" And his voice deepened with indignant pain.
+
+"I saw her, you did not deny her affliction; Hester said so, and I believed it. Have I wronged her, Paul?"
+
+"Yes, cruelly. She is blind, but no idiot, thank God."
+
+There was such earnestness in his voice, such reproach in his words, and such ardor in his eye, that Lillian's pride gave way, and with a broken entreaty for pardon, she covered up her face, weeping the bitterest tears she ever shed. For in that moment, and the sharp pang it brought her, she felt how much she loved Paul and how hard it was to lose him. The childish affection had blossomed into a woman's passion, and in a few short weeks had passed through many phases of jealousy, hope, despair, and self-delusion. The joy she felt on seeing him again, the pride she took in him, the disgust Helen caused her, the relief she had not dared to own even to herself, when she fancied fate had put an insurmountable barrier between Paul and his cousin, the despair at finding it only a fancy, and the anguish of hearing him declare his unshaken purpose to marry his first love - all these conflicting emotions had led to this hard moment, and now self-control deserted her in her need. In spite of her efforts the passionate tears would have their way, though Paul soothed her with assurances of entire forgiveness, promises of Helen's friendship, and every gentle device he could imagine. She commanded herself at last by a strong effort, murmuring eagerly as she shrank from the hand that put back her fallen hair, and the face so full of tender sympathy bending over her:
+
+"I am so grieved and ashamed at what I have said and done. I shall never dare to see Helen. Forgive me, and forget this folly. I'm sad and heavyhearted just now; it's the anniversary of Papa's death, and Mamma always suffers so much at such times that I get nervous."
+
+"It is your birthday also. I remembered it, and ventured to bring a little token in return for the one you gave me long ago. This is a talisman, and tomorrow I will tell you the legend concerning it. Wear it for my sake, and God bless you, dear."
+
+The last words were whispered hurriedly; Lillian saw the glitter of an antique ring, felt the touch of bearded lips on her hand, and Paul was gone.
+
+But as he left the house he set his teeth, exclaiming low to himself, "Yes, tomorrow there shall be an end of this! We must risk everything and abide the consequences now. I'll have no more torment for any of us."

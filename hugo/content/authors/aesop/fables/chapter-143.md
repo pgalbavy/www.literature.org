@@ -1,0 +1,8 @@
+---
+title: "The Doe And The Lion"
+weight: 145
+aliases:
+  - "/authors/aesop/fables/chapter-143.html"
+---
+
+A DOE hard pressed by hunters sought refuge in a cave belonging to a Lion. The Lion concealed himself on seeing her approach, but when she was safe within the cave, sprang upon her and tore her to pieces. "Woe is me," exclaimed the Doe, "who have escaped from man, only to throw myself into the mouth of a wild beast?' In avoiding one evil, care must be taken not to fall into another.

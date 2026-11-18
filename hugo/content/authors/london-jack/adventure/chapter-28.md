@@ -1,0 +1,160 @@
+---
+title: "Chapter 28 - Capitulation"
+weight: 28
+aliases:
+  - "/authors/london-jack/adventure/chapter-28.html"
+---
+
+When Sheldon emerged from among the trees he found Joan waiting at the compound gate, and he could not fail to see that she was visibly gladdened at the sight of him.
+
+"I can't tell you how glad I am to see you," was her greeting. "What's become of Tudor? That last flutter of the automatic wasn't nice to listen to. Was it you or Tudor?"
+
+"So you know all about it," he answered coolly. "Well, it was Tudor, but he was doing it left-handed. He's down with a hole in his shoulder." He looked at her keenly. "Disappointing, isn't it?" he drawled.
+
+"How do you mean?"
+
+"Why, that I didn't kill him."
+
+"But I didn't want him killed just because he kissed me," she cried.
+
+"Oh, he did kiss you!" Sheldon retorted, in evident surprise. "I thought you said he hurt your arm."
+
+"One could call it a kiss, though it was only on the end of the nose." She laughed at the recollection. "But I paid him back for that myself. I boxed his face for him. And he did hurt my arm. It's black and blue. Look at it."
+
+She pulled up the loose sleeve of her blouse, and he saw the bruised imprints of two fingers.
+
+Just then a gang of blacks came out from among the trees carrying the wounded man on a rough stretcher.
+
+"Romantic, isn't it?" Sheldon sneered, following Joan's startled gaze. "And now I'll have to play surgeon and doctor him up. Funny, this twentieth-century duelling. First you drill a hole in a man, and next you set about plugging the hole up."
+
+They had stepped aside to let the stretcher pass, and Tudor, who had heard the remark, lifted himself up on the elbow of his sound arm and said with a defiant grin, -
+
+"If you'd got one of mine you'd have had to plug with a dinner- plate."
+
+"Oh, you wretch!" Joan cried. "You've been cutting your bullets."
+
+"It was according to agreement," Tudor answered. "Everything went. We could have used dynamite if we wanted to."
+
+"He's right," Sheldon assured her, as they swung in behind. "Any weapon was permissible. I lay in the grass where he couldn't see me, and bushwhacked him in truly noble fashion. That's what comes of having women on the plantation. And now it's antiseptics and drainage tubes, I suppose. It's a nasty mess, and I'll have to read up on it before I tackle the job."
+
+"I don't see that it's my fault," she began. "I couldn't help it because he kissed me. I never dreamed he would attempt it."
+
+"We didn't fight for that reason. But there isn't time to explain. If you'll get dressings and bandages ready I'll look up 'gun-shot wounds' and see what's to be done."
+
+"Is he bleeding seriously?" she asked.
+
+"No; the bullet seems to have missed the important arteries. But that would have been a pickle."
+
+"Then there's no need to bother about reading up," Joan said. "And I'm just dying to hear what it was all about. The Apostle is lying becalmed inside the point, and her boats are out to wing. She'll be at anchor in five minutes, and Doctor Welshmere is sure to be on board. So all we've got to do is to make Tudor comfortable. We'd better put him in your room under the mosquito-netting, and send a boat off to tell Dr. Welshmere to bring his instruments."
+
+An hour afterward, Dr. Welshmere left the patient comfortable and attended to, and went down to the beach to go on board, promising to come back to dinner. Joan and Sheldon, standing on the veranda, watched him depart.
+
+"I'll never have it in for the missionaries again since seeing them here in the Solomons," she said, seating herself in a steamer- chair.
+
+She looked at Sheldon and began to laugh.
+
+"That's right," he said. "It's the way I feel, playing the fool and trying to murder a guest."
+
+"But you haven't told me what it was all about."
+
+"You," he answered shortly.
+
+"Me? But you just said it wasn't."
+
+"Oh, it wasn't the kiss." He walked over to the railing and leaned against it, facing her. "But it was about you all the same, and I may as well tell you. You remember, I warned you long ago what would happen when you wanted to become a partner in Berande. Well, all the beach is gossiping about it; and Tudor persisted in repeating the gossip to me. So you see it won't do for you to stay on here under present conditions. It would be better if you went away."
+
+"But I don't want to go away," she objected with rueful countenance.
+
+"A chaperone, then--"
+
+"No, nor a chaperone."
+
+"But you surely don't expect me to go around shooting every slanderer in the Solomons that opens his mouth?" he demanded gloomily.
+
+"No, nor that either," she answered with quick impulsiveness. "I'll tell you what we'll do. We'll get married and put a stop to it all. There!"
+
+He looked at her in amazement, and would have believed that she was making fun of him had it not been for the warm blood that suddenly suffused her cheeks.
+
+"Do you mean that?" he asked unsteadily. "Why?"
+
+"To put a stop to all the nasty gossip of the beach. That's a pretty good reason, isn't it?"
+
+The temptation was strong enough and sudden enough to make him waver, but all the disgust came back to him that was his when he lay in the grass fighting gnats and cursing adventure, and he answered, -
+
+"No; it is worse than no reason at all. I don't care to marry you as a matter of expedience--"
+
+"You are the most ridiculous creature!" she broke in, with a flash of her old-time anger. "You talk love and marriage to me, very much against my wish, and go mooning around over the plantation week after week because you can't have me, and look at me when you think I'm not noticing and when all the time I'm wondering when you had your last square meal because of the hungry look in your eyes, and make eyes at my revolver-belt hanging on a nail, and fight duels about me, and all the rest--and--and now, when I say I'll marry you, you do yourself the honour of refusing me."
+
+"You can't make me any more ridiculous than I feel," he answered, rubbing the lump on his forehead reflectively. "And if this is the accepted romantic programme--a duel over a girl, and the girl rushing into the arms of the winner--why, I shall not make a bigger ass of myself by going in for it."
+
+"I thought you'd jump at it," she confessed, with a naivete he could not but question, for he thought he saw a roguish gleam in her eyes.
+
+"My conception of love must differ from yours then," he said. "I should want a woman to marry me for love of me, and not out of romantic admiration because I was lucky enough to drill a hole in a man's shoulder with smokeless powder. I tell you I am disgusted with this adventure tom-foolery and rot. I don't like it. Tudor is a sample of the adventure-kind--picking a quarrel with me and behaving like a monkey, insisting on fighting with me--'to the death,' he said. It was like a penny dreadful."
+
+She was biting her lip, and though her eyes were cool and level- looking as ever, the tell-tale angry red was in her cheeks.
+
+"Of course, if you don't want to marry me--"
+
+"But I do," he hastily interposed.
+
+"Oh, you do--"
+
+"But don't you see, little girl, I want you to love me," he hurried on. "Otherwise, it would be only half a marriage. I don't want you to marry me simply because by so doing a stop is put to the beach gossip, nor do I want you to marry me out of some foolish romantic notion. I shouldn't want you . . . that way."
+
+"Oh, in that case," she said with assumed deliberateness, and he could have sworn to the roguish gleam, "in that case, since you are willing to consider my offer, let me make a few remarks. In the first place, you needn't sneer at adventure when you are living it yourself; and you were certainly living it when I found you first, down with fever on a lonely plantation with a couple of hundred wild cannibals thirsting for your life. Then I came along--"
+
+"And what with your arriving in a gale," he broke in, "fresh from the wreck of the schooner, landing on the beach in a whale-boat full of picturesque Tahitian sailors, and coming into the bungalow with a Baden-Powell on your head, sea-boots on your feet, and a whacking big Colt's dangling on your hip--why, I am only too ready to admit that you were the quintessence of adventure."
+
+"Very good," she cried exultantly. "It's mere simple arithmetic-- the adding of your adventure and my adventure together. So that's settled, and you needn't jeer at adventure any more. Next, I don't think there was anything romantic in Tudor's attempting to kiss me, nor anything like adventure in this absurd duel. But I do think, now, that it was romantic for you to fall in love with me. And finally, and it is adding romance to romance, I think . . . I think I do love you, Dave--oh, Dave!"
+
+The last was a sighing dove-cry as he caught her up in his arms and pressed her to him.
+
+"But I don't love you because you played the fool to-day," she whispered on his shoulder. "White men shouldn't go around killing each other."
+
+"Then why do you love me?" he questioned, enthralled after the manner of all lovers in the everlasting query that for ever has remained unanswered.
+
+"I don't know--just because I do, I guess. And that's all the satisfaction you gave me when we had that man-talk. But I have been loving you for weeks--during all the time you have been so deliciously and unobtrusively jealous of Tudor."
+
+"Yes, yes, go on," he urged breathlessly, when she paused.
+
+"I wondered when you'd break out, and because you didn't I loved you all the more. You were like Dad, and Von. You could hold yourself in check. You didn't make a fool of yourself."
+
+"Not until to-day," he suggested.
+
+"Yes, and I loved you for that, too. It was about time. I began to think you were never going to bring up the subject again. And now that I have offered myself you haven't even accepted."
+
+With both hands on her shoulders he held her at arm's-length from him and looked long into her eyes, no longer cool but seemingly pervaded with a golden flush. The lids drooped and yet bravely did not droop as she returned his gaze. Then he fondly and solemnly drew her to him.
+
+"And how about that hearth and saddle of your own?" he asked, a moment later.
+
+"I well-nigh won to them. The grass house is my hearth, and the Martha my saddle, and--and look at all the trees I've planted, to say nothing of the sweet corn. And it's all your fault anyway. I might never have loved you if you hadn't put the idea into my head."
+
+"There's the Nongassla coming in around the point with her boats out," Sheldon remarked irrelevantly. "And the Commissioner is on board. He's going down to San Cristoval to investigate that missionary killing. We're in luck, I must say."
+
+"I don't see where the luck comes in," she said dolefully. "We ought to have this evening all to ourselves just to talk things over. I've a thousand questions to ask you."
+
+"And it wouldn't have been a man-talk either," she added.
+
+"But my plan is better than that." He debated with himself a moment. "You see, the Commissioner is the one official in the islands who can give us a license. And--there's the luck of it-- Doctor Welshmere is here to perform the ceremony. We'll get married this evening."
+
+Joan recoiled from him in panic, tearing herself from his arms and going backward several steps. He could see that she was really frightened.
+
+"I . . . I thought . . ." she stammered.
+
+Then, slowly, the change came over her, and the blood flooded into her face in the same amazing blush he had seen once before that day. Her cool, level-looking eyes were no longer level-looking nor cool, but warmly drooping and just unable to meet his, as she came toward him and nestled in the circle of his arms, saying softly, almost in a whisper, -
+
+"I am ready," Dave."
+
+Footnotes:
+
+{1} Eaten.
+
+{2} Food.
+
+{3} Mary--beche-de-mer English for woman.
+
+{4} Ngari-ngari--literally "scratch-scratch"--a vegetable skin- poisoning that, while not serious, is decidedly uncomfortable.
+
+{5} Paddle
+
+End of The Project Gutenberg Etext of Adventure, by Jack London

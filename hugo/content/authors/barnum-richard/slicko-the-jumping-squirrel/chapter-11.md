@@ -1,0 +1,140 @@
+---
+title: "Chapter 11 - Slicko’s Big Adventure"
+weight: 11
+aliases:
+  - "/authors/barnum-richard/slicko-the-jumping-squirrel/chapter-11.html"
+---
+
+Slicko had been a tame squirrel for several months. Before that, and for a longer time, she had been just a little wild squirrel, living in the woods, and doing as all wild squirrels do.
+
+So, when she jumped out of the window and ran away, she became, for the time being, just as wild as she ever had been. For a little while she forgot all the tricks Bob had taught her, and she forgot the nice pieces of apples and the nuts he used to give her. Slicko was just the same, now, as were her brothers, or her sister--a little, wild animal.
+
+She ran over the grass, crouching down low, and taking big jumps so no one would see her. Most of all, Slicko wanted to keep out of the way of Muffins, the big black cat at Bob’s house.
+
+This cat was not a good friend of Slicko’s. Often, when the little squirrel was not watching, the cat would come quietly up close to her, and look at Slicko with very hungry eyes. Sometimes Bob would see Muffins, and drive her away.
+
+“Muffins wouldn’t hurt your squirrel,” said Mollie, who liked the cat very much.
+
+“Of course she wouldn’t,” said Sallie. “Rover, your dog, wouldn’t hurt Slicko, so why would our cat?”
+
+“Well, a cat is different from a dog,” Bob would say. “A cat can’t help sneaking up, and wanting to jump on anything it sees moving. But a dog only barks, and makes a big fuss. He doesn’t really do any harm. Of course I don’t mean to say Muffins would intend to do Slicko any harm, but I won’t give Muffins a chance.”
+
+So Bob never let the big cat come near his squirrel, and Slicko was glad of it, for Muffins had very hungry eyes. And now, when Slicko was running away, and Bob was not there to look after her, and when there was no strong wire cage to run and hide in, Slicko was very careful. She looked on both sides of her, as she ran along over the grass. Slicko was not going to be caught, if she could avoid it.
+
+The little squirrel came to a tree, and up it she scrambled as fast as she could go. It was the first tree she had climbed since Bob had caught her in the trap, and Slicko was glad to find she had not forgotten how. Her leg, that had been pinched in the trap, was now as strong as the other ones.
+
+Sticking her claws in the bark of the tree, Slicko went up, away to the top.
+
+“There!” exclaimed the little squirrel, “if Muffins comes after me, she’ll have trouble in reaching me.”
+
+Cats can climb trees, too, almost as well as squirrels can, though not so fast. But a cat does not very often go way up to the top of a tree, as Slicko had done.
+
+The little runaway squirrel sat down on a tree branch and looked about her. The tree was just putting out its first green leaves, and the wind was blowing the branches gently to and fro, like a swing.
+
+“Oh, this is lovely!” thought Slicko. “It is much nicer than my wheel in the cage. I am glad I ran away. I am never going back in the big house again.”
+
+You see, after all, though wild animals may seem contented to be pets, they always want to be free as they were at first.
+
+Slicko began to look all over the tree to see if any nuts grew on it. She was not yet old enough to know that there would be no nuts until fall. Nor could she tell that the tree she was in was a pear tree, and never grew nuts. There would be no pears, either, until late in the summer.
+
+Slicko was beginning to feel hungry. True, she had eaten her breakfast before running away, but now she felt hungry again. There seemed to be nothing to eat in the tree where she was hiding. It was no fun to be hungry.
+
+“I must see about getting something to eat,” thought Slicko. “I’ll stay up here awhile, and then I’ll go down and hunt for some nuts or bits of apple. Oh, I’ll have a fine time, and I won’t have to jump through paper hoops, or do any tricks.”
+
+Pretty soon Slicko, who sat on a limb of the tree where she could look at the window of the room where she used to live, heard the voice of Bob, her little master.
+
+“I say!” cried Bob, “have any of you seen Slicko?”
+
+“She was in her cage, a little while ago,” said Mollie. “Isn’t she there now?”
+
+“No, and her cage is open, and so is the window of the room,” went on Bob. “I’m afraid she has run away, or else maybe Muffins has caught her.”
+
+“Oh, you bad boy, to say such a thing!” cried Sallie. “Muffins wouldn’t take Slicko. More likely it’s Rover!”
+
+“Rover wouldn’t either,” said Bob. “I wonder where Slicko can be. Here, Slicko! Slicko!” he called. “Come and get some nuts! Come and get some sugar!”
+
+Slicko, up in the tree, heard Bob, but, though she was very hungry, she would not go down and get in his pocket, as she used to do. Slicko made up her little squirrel mind that as long as she had run away, she would not go back so soon.
+
+“I want to have a little fun,” she said to herself.
+
+Bob called and called again. He looked all over for Slicko, even up in the trees, but Slicko managed to hide behind a leafy branch, and Bob could not see her. Bob even called Rover, thinking the dog might be able to help him find the lost squirrel.
+
+From her perch in the tree, Slicko saw Bob and Rover running about. The dog barked:
+
+“Bow wow! Bow wow! Bow wow!” as if he were calling Slicko to come down. But the little squirrel was not yet ready.
+
+“I know what I’ll do,” said Bob. “I’ll get some nuts and put them where Slicko can see them, close by the open window. I’ll set her cage there, too, on a chair in the room. Maybe she’s lost, and can’t find her way home. But perhaps she can smell the nuts, and when she comes for them, she’ll see her cage, and be glad to go back into it.”
+
+“Oh, yes, do that,” said Mollie. “Once when my canary bird flew away, I hung the cage on a tree outside, and left the door open. And, pretty soon, Dick flew back into it.”
+
+“Well, I hope Slicko comes back to her cage,” said Bob.
+
+But Slicko had no idea of coming back so soon.
+
+In a little while Bob had put some nuts on the ground outside the window, and near them, on a chair inside the room, he put the squirrel’s cage.
+
+“Now I’ll hide and watch to see if Slicko comes back,” said Bob. But Slicko did not want to be seen, so she stayed up in the tree. She was more hungry than ever, but she would not go down and get the nuts. After a while Bob got tired of hiding and waiting.
+
+“I’ll just go off and play ball,” he said to his sisters. “When I come back, maybe Slicko will be in her cage.”
+
+Slicko waited until Bob had gone. The little squirrel looked down, and seeing Mollie and Sallie off on the front porch, playing with their dolls, she thought it would be safe to go down and get a few nuts.
+
+Very carefully Slicko climbed down the tree. Stopping now and then, to make sure there was no danger, she reached the pile of nuts. She ate some, and oh! how good they tasted.
+
+Then, all at once, Slicko heard something coming softly through the grass behind her. It was so soft that it sounded only like the wind blowing, but Slicko knew that it was not the wind.
+
+Slicko turned quickly, just in time to see Muffins, the cat, make a spring for her.
+
+“Oh my!” cried Slicko, and, turning quickly, the little squirrel made a mad dash for the pear tree. She had a nut in her paws, but she dropped that in running.
+
+“Meaouw! Wow!” snarled Muffins, the big, black cat. She gave a spring, sticking out her claws, and trying to catch Slicko, but she was just too late. Slicko reached the tree, and up it she went almost to the very tip-top.
+
+Muffins followed, and ran up the tree trunk a little way, but she did not go as far as Slicko had gone.
+
+“My! That was the time she almost caught me!” thought Slicko, her little heart beating very fast. “I must be more careful after this. And oh! those nuts were so good. But I won’t dare go down after them again until it’s dark, when Muffins can’t see me.”
+
+Slicko stayed in the tree all the rest of that day. She could see the pile of nuts on the ground, but, though she was very, very hungry, she did not dare go down to get any for fear of Muffins.
+
+Slicko saw Bob come and look at the nuts. The boy cried out:
+
+“Oh, my squirrel has been here! Some of the nuts are gone! Slicko is somewhere around here!”
+
+But, though Bob looked in all the trees around the house, he could not find Slicko. Slicko saw Bob, though.
+
+The little squirrel stayed in the tree all that night. But she did not have a very good time. It was cold, and it rained, and there was no hole, and no nest, into which Slicko could crawl to keep warm. She just had to shiver. And she was more hungry than ever, too.
+
+“Oh dear! Running away isn’t as much fun as I thought it would be!” said Slicko. “To-morrow, when Bob puts out the nuts again, and leaves the cage open, I’m going to run back into it. I have had enough of living like this. I had rather do tricks, such as jumping through paper hoops, than be cold and hungry.”
+
+But the next day Bob went away, and did not put out any nuts for his little squirrel. And those he had put out were carried away by the rats.
+
+So Slicko got very few of them to eat, and she was quite hungry. She managed to find a few old acorns in the woods, but they were not so good as the nuts, apples and sugar Bob and his sisters used to feed her. And, as the window of the room was not open, and as the cage was not put out, Slicko could not run back home again.
+
+“Isn’t Bob going to try to catch his squirrel?” asked Mollie of Sallie, on the second day.
+
+“No, I heard him say he guessed she was gone for good,” said Sallie.
+
+“Well, I haven’t--I’m here yet, and I’m coming back to my cage--that is when I see it,” Slicko said to herself.
+
+That afternoon Slicko, perched in the top of her tree, saw one of the attic windows of Bob’s house open.
+
+“Ha!” exclaimed the little squirrel. “I can jump in there from my tree. I’ll do it.”
+
+Slicko scrambled up to the highest branch. From there she could easily jump in through the attic window, and this she did.
+
+She looked around, and she was glad when she saw some butternuts on the floor of the attic. Slicko soon gnawed a hole in one, and ate out the sweet meat. Then she felt much better.
+
+It was nice and warm in the attic, and there was a pile of old clothes there. On these Slicko lay down and went to sleep.
+
+When Slicko awoke, it was all dark. She had slept until it was night. She sat up on her hind legs and listened. She could hear nothing. The house was very quiet. Slicko looked at the window by which she had entered. It was tightly shut now.
+
+All of a sudden Slicko felt thirsty. She knew there was no water up in the attic, but there was plenty down stairs in the kitchen. Bob always left a pan full there on the floor for his pet.
+
+“I’ll go down stairs and get a drink in the kitchen,” said Slicko to herself.
+
+Squirrels can see in the dark, almost as well as can owls, as I told you before. Soon Slicko was making her way safely down the front stairs.
+
+As she got to the kitchen, she saw a light burning low. And, by this light Slicko could see a man, with a piece of black cloth over his face, taking knives and forks and spoons from a table, and putting them into his pocket.
+
+Slicko, of course, did not know that the things were knives and forks and spoons. She only knew they were the things Bob and his sisters, and father and mother ate with. And, when she saw the man putting them into his pocket, Slicko thought they might be something good for her to eat.
+
+“That must be Bob’s papa,” thought Slicko. “Well, I’ll give him a surprise. I’ll run up his leg and go into his pocket. Then he’ll know I’m home again.”

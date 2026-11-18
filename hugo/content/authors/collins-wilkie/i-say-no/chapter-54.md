@@ -1,0 +1,28 @@
+---
+title: "Chapter 54 - The End Of The Fainting Fit"
+weight: 54
+aliases:
+  - "/authors/collins-wilkie/i-say-no/chapter-54.html"
+---
+
+Emily recovered her presence of mind. She opened the door, so as to make a draught of air in the room, and called for water. Returning to Mirabel, she loosened his cravat. Mrs. Ellmother came in, just in time to prevent her from committing a common error in the treatment of fainting persons, by raising Mirabel's head. The current of air, and the sprinkling of water over his face, soon produced their customary effect. "He'll come round, directly," Mrs. Ellmother remarked. "Your aunt was sometimes taken with these swoons, miss; and I know something about them. He looks a poor weak creature, in spite of his big beard. Has anything frightened him?"
+
+Emily little knew how correctly that chance guess had hit on the truth!
+
+"Nothing can possibly have frightened him," she replied; "I am afraid he is in bad health. He turned suddenly pale while we were talking; and I thought he was going to be taken ill; he made light of it, and seemed to recover. Unfortunately, I was right; it was the threatening of a fainting fit--he dropped on the floor a minute afterward."
+
+A sigh fluttered over Mirabel's lips. His eyes opened, looked at Mrs. Ellmother in vacant terror, and closed again. Emily whispered to her to leave the room. The old woman smiled satirically as she opened the door--then looked back, with a sudden change of humor. To see the kind young mistress bending over the feeble little clergyman set her--by some strange association of ideas--thinking of Alban Morris. "Ah," she muttered to herself, on her way out, "I call _him_ a Man!"
+
+There was wine in the sideboard--the wine which Emily had once already offered in vain. Mirabel drank it eagerly, this time. He looked round the room, as if he wished to be sure that they were alone. "Have I fallen to a low place in your estimation?" he asked, smiling faintly. "I am afraid you will think poorly enough of your new ally, after this?"
+
+"I only think you should take more care of your health," Emily replied, with sincere interest in his recovery. "Let me leave you to rest on the sofa."
+
+He refused to remain at the cottage--he asked, with a sudden change to fretfulness, if she would let her servant get him a cab. She ventured to doubt whether he was quite strong enough yet to go away by himself. He reiterated, piteously reiterated, his request. A passing cab was stopped directly. Emily accompanied him to the gate. "I know what to do," he said, in a hurried absent way. "Rest and a little tonic medicine will soon set me right." The clammy coldness of his skin made Emily shudder, as they shook hands. "You won't think the worse of me for this?" he asked.
+
+"How can you imagine such a thing!" she answered warmly.
+
+"Will you see me, if I come to-morrow?"
+
+"I shall be anxious to see you."
+
+So they parted. Emily returned to the house, pitying him with all her heart.

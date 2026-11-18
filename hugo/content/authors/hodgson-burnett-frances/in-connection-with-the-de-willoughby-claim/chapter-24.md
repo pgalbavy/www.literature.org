@@ -1,0 +1,80 @@
+---
+title: "Chapter 24"
+weight: 24
+aliases:
+  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-24.html"
+---
+
+For an imaginative or an untravelled person to approach the city of Washington at sunrise on a radiant morning, is a thing far from unlikely to be remembered, since a white and majestic dome, rising about a white structure set high and supported by stately colonnades, the whole gleaming fair against a background of blue sky, forms a picture which does not easily melt away.
+
+Those who reared this great temple of white stone and set it on a hilltop to rule and watch over the land, builded better than they knew. To the simple and ardent idealist its white stateliness must always suggest something symbolic, and, after all, it is the ardent and simple idealist whose dreams and symbols paint to prosaic human minds the beautiful impossibilities whose unattainable loveliness so allures as to force even the unexalted world into the endeavour to create such reproductions of their forms as crude living will allow.
+
+Tom leaned against the side of the car window and watched the great dome with an air of curious reflection. Sheba and Rupert leaned forward and gazed at it with dreaming eyes.
+
+"It looks as the capitol of a great republic ought to look," Rupert said. "Spotless and majestic, and as if it dominated all it looks down upon with pure laws and dignity and justice."
+
+"Just so," said Tom.
+
+In the various crises of political excitement in Hamlin County he had taken the part of an unbiassed but humorous observer, and in that character had gained much experience of a primitive kind. What he had been led chiefly to remark in connection with the "great republic" was that the majesty and spotlessness of its intentions were not invariably realised by mere human units.
+
+"Well," he said, as he took down his valise from the rack, "we're coming in here pretty well fixed for leaving the place millionaires. If we had only fifteen cents in our pockets, it would be a dead sure thing, according to all the biographers _I_ ever read. The only thing against us is that we have a little more--but it's not enough to spoil our luck, that I'll swear."
+
+He was not without reason in the statement. Few voyagers on the ocean of chance could have dared the journey with less than they had in their possession.
+
+"What we've got to do," he had said to Rupert, "is to take care of Sheba. We two can rough it."
+
+They walked through the awakening city, finding it strange and bare with its broad avenues and streets ill-paved, bearing traces everywhere of the tragedy of war through which it had passed. The public buildings alone had dignity; for the rest, it wore a singularly provincial and uncompleted aspect; its plan was simple and splendid in its vistas and noble spaces, but the houses were irregular and without beauty of form; negro shanties huddled against some of the most respectable, and there were few whose windows or doors did not announce that board and lodging might be obtained within. There was no look of well-being or wealth anywhere; the few equipages in the streets had seen hard service; the people who walked were either plainly dressed or shabby genteel; about the doors of the principal hotels there were groups of men who wore, most of them, dispirited or anxious faces. Ten years later the whole aspect of the place was changing, but at this time it was passing through a period of natural fatigue and poverty, and was not an inspiring spectacle to penniless new-comers.
+
+"It reminds me a little of Delisleville, after all," said Rupert.
+
+Beyond the more frequented quarters of the town, they found broad, unkempt, and as yet unlevelled avenues and streets, where modest houses straggled, perched on high banks with an air of having found themselves there quite by accident. The banks were usually grass-covered, and the white picket fences enclosed bits of ground where scant fruit-trees and disorderly bushes grew; almost every house possessed a porch, and almost every porch was scrambled over by an untidy honeysuckle or climbing rose which did its best to clothe with some grace the dilapidated woodwork and the peeled and blistered paint.
+
+Before one of these houses Tom stopped to look at a lopsided sign in the little garden, which announced that rooms were to be rented within.
+
+"Perhaps we can find something here," he said, "that may suit the first ventures of millionaires. It's the sort of thing that will appeal to the newspaper man who writes the thing up; 'First home of the De Willoughbys when they arrived in Washington to look up their claim.' It'll make a good woodcut to contrast with 'The great De Willoughby mansion in Fifth Avenue. Cost five hundred thousand!'"
+
+They mounted the wooden steps built into the bank and knocked at the door. Rupert and Sheba exchanged glances with a little thrill. They were young enough to feel a sort of excitement even in taking this first modest step.
+
+A lady with a gentle, sallow face and a faded black cotton gown, opened the door. Her hair hung in depressed but genteel ringlets on each side of her countenance; at the back it formed a scant coil upheld by a comb. Tom thought he observed a gleam of hope in her eye when she saw them. She spoke with the accent of Virginia.
+
+"Yes, suh, we have rooms disengaged. Won't you come in?" she said.
+
+She led them into a neat but rather painful little parlour. The walls were decorated with photographs of deceased relatives in oval frames, and encased in glass there was a floral wreath made of hair of different shades and one of white, waxen-looking flowers, with a vaguely mortuary suggestion in their arrangement. There was a basket of wax fruit under a shade on the centre table, a silver ice-water pitcher on a salver, and two photograph albums whose binding had become loosened by much handling. There was also a book with a red and gold cover, bearing in ornate letters the title "Life of General Robert Lee."
+
+"The rooms are not lawge," the lady said, "but they are furnished with the things I brought from my fawther's house in Virginia. My fawther was Judge Burford, of the Burford family of England. There's a Lord Burford in England, we always heard. It is a very old family."
+
+She looked as if she found a vague comfort in the statement, and Tom did not begrudge it to her. She looked very worn and anxious, and he felt it almost possible that during the last few months she might not always have had quite enough to eat.
+
+"I never thawt in the days when I was Judge Burford's dawtah of Burfordsville," she explained, "that I should come to Washington to take boarders. There was a time when it was thawt in Virginia that Judge Burford might reach the White House if he would allow himself to be nominated. It's a great change of circumstances. Did you want board with the rooms?"
+
+"Well----" began Tom.
+
+She interrupted him in some little hurry.
+
+"I'm afraid it wouldn't be convenient for me to board anyone," she said; "I've not been accustomed to providing for boarders, and I'm not conveniently situated. If--if you preferred to economize----"
+
+"We do," said Tom. "We have come to look up a claim, and people on that business are pretty safe to have to economize, I've been told!"
+
+"Ah, a claim!" she ejaculated, with combined interest and reverence. "Indeed, you are quite right about its being necessary to economize. Might I enqu'ah if it is a large one?"
+
+"I believe it is," Tom answered; "and it's not likely to be put through in a month, and we have not money enough to keep us in luxury for much more. Probably we shall be able to make it last longer if we take rooms and buy our own food."
+
+"I'm sure you would, suh," she answered, with a little eager flush on her cheek. "When people provide for themselves, they can sometimes do without--things." She added the last word hurriedly and gave a little cough which sounded nervous.
+
+It was finally agreed that they should take three little rooms she showed them, in one of which there was a tiny stove, upon which they could prepare such simple food as they could provide themselves with. The arrangement was not a luxurious one, but it proved to be peculiarly suitable to the owners of the great De Willoughby claim.
+
+As they had not broken fast, Tom went out to explore the neighbourhood in search of food. He thought he remembered having seen in a side street a little store. When he returned, after some wanderings, a wood fire was crackling in the stove and Sheba had taken off her hat and put on a white apron.
+
+"Hello!" exclaimed Tom.
+
+"I borrowed it from Miss Burford," she said. "I went down to see her. She let us have the wood, too. Rupert made the fire."
+
+She took the paper bags from Tom's hands and stood on tiptoe to kiss him, smiling sweetly at his rather troubled face.
+
+"All my life you have been doing things for me. Now it is my turn," she said. "I have watched Mornin ever since I was born. I am going to be your servant."
+
+In an hour from the time they had taken possession of their quarters, they were sitting at a little table before an open window, making a breakfast of coffee and eggs. Sheba was presiding, and both men were looking at her flushed cheeks adoringly.
+
+"Is the coffee good, Uncle Tom?" she said. "Just tell me it is good."
+
+"Well," said Tom, "for the first effort of a millionairess, I should say it was."

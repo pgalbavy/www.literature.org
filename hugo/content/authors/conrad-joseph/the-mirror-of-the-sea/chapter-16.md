@@ -1,0 +1,26 @@
+---
+title: "Chapter 16"
+weight: 16
+aliases:
+  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-16.html"
+---
+
+Often I turn with melancholy eagerness to the space reserved in the newspapers under the general heading of "Shipping Intelligence." I meet there the names of ships I have known. Every year some of these names disappear—the names of old friends. "Tempi passati!"
+
+The different divisions of that kind of news are set down in their order, which varies but slightly in its arrangement of concise headlines. And first comes "Speakings"—reports of ships met and signalled at sea, name, port, where from, where bound for, so many days out, ending frequently with the words "All well." Then come "Wrecks and Casualties"—a longish array of paragraphs, unless the weather has been fair and clear, and friendly to ships all over the world.
+
+On some days there appears the heading "Overdue"—an ominous threat of loss and sorrow trembling yet in the balance of fate. There is something sinister to a seaman in the very grouping of the letters which form this word, clear in its meaning, and seldom threatening in vain.
+
+Only a very few days more—appallingly few to the hearts which had set themselves bravely to hope against hope—three weeks, a month later, perhaps, the name of ships under the blight of the "Overdue" heading shall appear again in the column of "Shipping Intelligence," but under the final declaration of "Missing."
+
+"The ship, or barque, or brig So-and-so, bound from such a port, with such and such cargo, for such another port, having left at such and such a date, last spoken at sea on such a day, and never having been heard of since, was posted to-day as missing." Such in its strictly official eloquence is the form of funeral orations on ships that, perhaps wearied with a long struggle, or in some unguarded moment that may come to the readiest of us, had let themselves be overwhelmed by a sudden blow from the enemy.
+
+Who can say? Perhaps the men she carried had asked her to do too much, had stretched beyond breaking-point the enduring faithfulness which seems wrought and hammered into that assemblage of iron ribs and plating, of wood and steel and canvas and wire, which goes to the making of a ship—a complete creation endowed with character, individuality, qualities and defects, by men whose hands launch her upon the water, and that other men shall learn to know with an intimacy surpassing the intimacy of man with man, to love with a love nearly as great as that of man for woman, and often as blind in its infatuated disregard of defects.
+
+There are ships which bear a bad name, but I have yet to meet one whose crew for the time being failed to stand up angrily for her against every criticism. One ship which I call to mind now had the reputation of killing somebody every voyage she made. This was no calumny, and yet I remember well, somewhere far back in the late seventies, that the crew of that ship were, if anything, rather proud of her evil fame, as if they had been an utterly corrupt lot of desperadoes glorying in their association with an atrocious creature. We, belonging to other vessels moored all about the Circular Quay in Sydney, used to shake our heads at her with a great sense of the unblemished virtue of our own well-loved ships.
+
+I shall not pronounce her name. She is "missing" now, after a sinister but, from the point of view of her owners, a useful career extending over many years, and, I should say, across every ocean of our globe. Having killed a man for every voyage, and perhaps rendered more misanthropic by the infirmities that come with years upon a ship, she had made up her mind to kill all hands at once before leaving the scene of her exploits. A fitting end, this, to a life of usefulness and crime—in a last outburst of an evil passion supremely satisfied on some wild night, perhaps, to the applauding clamour of wind and wave.
+
+How did she do it? In the word "missing" there is a horrible depth of doubt and speculation. Did she go quickly from under the men’s feet, or did she resist to the end, letting the sea batter her to pieces, start her butts, wrench her frame, load her with an increasing weight of salt water, and, dismasted, unmanageable, rolling heavily, her boats gone, her decks swept, had she wearied her men half to death with the unceasing labour at the pumps before she sank with them like a stone?
+
+However, such a case must be rare. I imagine a raft of some sort could always be contrived; and, even if it saved no one, it would float on and be picked up, perhaps conveying some hint of the vanished name. Then that ship would not be, properly speaking, missing. She would be "lost with all hands," and in that distinction there is a subtle difference—less horror and a less appalling darkness.

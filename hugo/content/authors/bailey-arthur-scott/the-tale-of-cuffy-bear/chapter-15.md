@@ -1,0 +1,26 @@
+---
+title: "Chapter 15 - Hunting For A Bee-Tree"
+weight: 15
+aliases:
+  - "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-15.html"
+---
+
+It was a very hot summer's day. Even up on Blue Mountain Cuffy Bear felt the heat. And he wished that he might get rid of his thick coat. But though Cuffy was beginning to believe himself a very wise little bear, he could think of no way to slip off his heavy black fur. So he sat down in the shade of a big tree, where the breeze blew upon him, and tried to be as cool as he could.
+
+Except when he was asleep it was not often that Cuffy was still for so long. But now he sat motionless for some time, with his bright red tongue hanging out of his mouth like a dog's. Yes, he was quite still--all but his little, beady, bright eyes. They kept moving about all the time. And they saw many things, for something or other is always happening in the forest.
+
+Cuffy saw a gray squirrel stick its head up from the crotch of a tree nearby and peep at him. And he watched a wary old crow as he rested high in a tree-top and cawed a greeting to some of his friends who were flying past on their way to Farmer Green's cornfield. And Cuffy noticed a bee as it lighted on a wild-flower right in front of him and sucked the sweetness out of it. But Cuffy didn't pay much attention to that. And since he soon began to feel cooler he was just wondering what he would do next when it occurred to him that several bees had lighted upon the flowers near him, and that they had all flown off in the same direction.
+
+All at once Cuffy forgot how hot and uncomfortable he had been; for now he was wondering if those bees weren't all of them flying home to make honey out of the sweet juices they had drawn from the flowers. And if they were--and if he could only follow them--then he would find the tree where they lived and he could have all the honey he wanted to eat.
+
+So Cuffy followed on a little way in the direction in which the bees had disappeared. And then he sat down again and waited and watched very carefully.
+
+For a long time nothing happened. And Cuffy was just about to give up his plan when a bee came buzzing past him and lighted on a mulberry blossom right above his head. And when the bee flew away, Cuffy followed him until he lost sight of him. And then Cuffy sat down once more. Again he waited and watched. And again, just as he was getting discouraged, another bee flew past him and Cuffy jumped up and followed him just as fast as he could.
+
+[Illustration: The Bees Were Right There Waiting for Cuffy]
+
+Cuffy Bear must have spent as much as two hours doing that same thing over and over again. But he didn't mind that. In fact, it didn't seem long to him, at all, because he kept thinking of honey all the time, and it made a sort of game of what he was doing. If he won the game, you know, it meant that he was going to have something very nice for a prize.
+
+And sure enough, finally one of the bees Cuffy was following lighted on an old tree, and Cuffy saw him crawl into a hole in a queer nest which hung from a limb, and vanish. And as Cuffy stood there, looking up at the nest, he saw as many as seven bees come out of that hole and fly away.
+
+Then Cuffy smiled all over his face, he felt so happy. At last he had found a bee-tree. There was no doubt about it. The time he had always wished for had come. He was going to have all the honey he could eat.

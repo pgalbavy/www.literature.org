@@ -1,0 +1,98 @@
+---
+title: "Chapter 11"
+weight: 12
+aliases:
+  - "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-11.html"
+---
+
+As they followed a path down the blue-grass hillside, the first house that met the view of the travelers was joyously recognized by the Scarecrow Bear as the one inhabited by his friend Jinjur, so they increased their speed and hurried toward it.
+
+On reaching the place, how ever, they found the house deserted. The front door stood open, but no one was inside. In the garden surrounding the house were neat rows of bushes bearing cream-puffs and macaroons, some of which were still green, but others ripe and ready to eat. Farther back were fields of caramels, and all the land seemed well cultivated and carefully tended. They looked through the fields for the girl farmer, but she was nowhere to be seen.
+
+"Well," finally remarked the little Brown Bear, "let us go into the house and make ourselves at home. That will be sure to please my friend Jinjur, who happens to be away from home just now. When she returns, she will be greatly surprised."
+
+"Would she care if I ate some of those ripe cream- puffs?" asked the Green Monkey.
+
+"No, indeed; Jinjur is very generous. Help yourself to all you want," said the Scarecrow Bear.
+
+So Woot gathered a lot of the cream-puffs that were golden yellow and filled with a sweet, creamy substance, and ate until his hunger was satisfied. Then he entered the house with his friends and sat in a rocking-chair -- just as he was accustomed to do when a boy. The Canary perched herself upon the mantel and daintily plumed her feathers; the Tin Owl sat on the back of another chair; the Scarecrow squatted on his hairy haunches in the middle of the room.
+
+"I believe I remember the girl Jinjur," remarked the Canary, in her sweet voice. "She cannot help us very much, except to direct us on our way to Glinda's castle, for she does not understand magic. But she's a good girl, honest and sensible, and I'll be glad to see her."
+
+"All our troubles," said the Owl with a deep sigh, "arose from my foolish resolve to seek Nimmie Amee and make her Empress of the Winkies, and while I wish to reproach no one, I must say that it was Woot the Wanderer who put the notion into my head."
+
+"Well, for my part, I am glad he did," responded the Canary. "Your journey resulted in saving me from the Giantess, and had you not traveled to the Yoop Valley, I would still be Mrs. Yoop's prisoner. It is much nicer to be free, even though I still bear the enchanted form of a Canary-Bird."
+
+"Do you think we shall ever be able to get our proper forms back again?" asked the Green Monkey earnestly.
+
+Polychrome did not make reply at once to this important question, but after a period of thoughtfulness she said:
+
+"I have been taught to believe that there is an antidote for every magic charm, yet Mrs. Yoop insists that no power can alter her transformations. I realize that my own fairy magic cannot do it, although I have thought that we Sky Fairies have more power than is accorded to Earth Fairies. The yookoohoo magic is admitted to be very strange in its workings and different from the magic usually practiced, but perhaps Glinda or Ozma may understand it better than I. In them lies our only hope. Unless they can help us, we must remain forever as we are."
+
+"A Canary-Bird on a Rainbow wouldn't be so bad," asserted the Tin Owl, winking and blinking with his round tin eyes, "so if you can manage to find your Rainbow again you need have little to worry about."
+
+"That's nonsense, Friend Chopper," exclaimed Woot. "I know just how Polychrome feels. A beautiful girl is much superior to a little yellow bird, and a boy -- such as I was -- far better than a Green Monkey. Neither of us can be happy again unless we recover our rightful forms."
+
+"I feel the same way," announced the stuffed Bear. "What do you suppose my friend the Patchwork Girl would think of me, if she saw me wearing this beastly shape?"
+
+"She'd laugh till she cried," admitted the Tin Owl. "For my part, I'll have to give up the notion of marrying Nimmie Amee, but I'll try not to let that make me unhappy. If it's my duty, I'd like to do my duty, but if magic prevents my getting married I'll flutter along all by myself and be just as contented."
+
+Their serious misfortunes made them all silent for a time, and as their thoughts were busy in dwelling upon the evils with which fate had burdened them, none noticed that Jinjur had suddenly appeared in the doorway and was looking at them in astonishment. The next moment her astonishment changed to anger, for there, in her best rocking-chair, sat a Green Monkey. A great shiny Owl perched upon another chair and a Brown Bear squatted upon her parlor rug. Jinjur did not notice the Canary, but she caught up a broomstick and dashed into the room, shouting as she came:
+
+"Get out of here, you wild creatures! How dare you enter my house?"
+
+With a blow of her broom she knocked the Brown Bear over, and the Tin Owl tried to fly out of her reach and made a great clatter with his tin wings. The Green Monkey was so startled by the sudden attack that he sprang into the fireplace -- where there was fortunately no fire -- and tried to escape by climbing up the chimney. But he found the opening too small, and so was forced to drop down again. Then he crouched trembling in the fireplace, his pretty green hair all blackened with soot and covered with ashes. From this position Woot watched to see what would happen next.
+
+"Stop, Jinjur -- stop!" cried the Brown Bear, when the broom again threatened him. "Don't you know me? I'm your old friend the Scarecrow?"
+
+"You're trying to deceive me, you naughty beast! I can see plainly that you are a bear, and a mighty poor specimen of a bear, too," retorted the girl.
+
+"That's because I'm not properly stuffed," he assured her. "When Mrs. Yoop transformed me, she didn't realize I should have more stuffing."
+
+"Who is Mrs. Yoop?" inquired Jinjur, pausing with the broom still upraised.
+
+"A Giantess in the Gillikin Country."
+
+"Oh; I begin to understand. And Mrs. Yoop transformed you? You are really the famous Scarecrow of Oz."
+
+"I was, Jinjur. Just now I'm as you see me -- a miserable little Brown Bear with a poor quality of stuffing. That Tin Owl is none other than our dear Tin Woodman -- Nick Chopper, the Emperor of the Winkies -- while this Green Monkey is a nice little boy we recently became acquainted with, Woot the Wanderer."
+
+"And I," said the Canary, flying close to Jinjur, "am Polychrome, the Daughter of the Rainbow, in the form of a bird."
+
+"Goodness me!" cried Jinjur, amazed; "that Giantess must be a powerful Sorceress, and as wicked as she is powerful."
+
+"She's a yookoohoo," said Polychrome. "Fortunately, we managed to escape from her castle, and we are now on our way to Glinda the Good to see if she possesses the power to restore us to our former shapes."
+
+"Then I must beg your pardons; all of you must forgive me," said Jinjur, putting away the broom. "I took you to be a lot of wild, unmannerly animals, as was quite natural. You are very welcome to my home and I'm sorry I haven't the power to help you out of your troubles. Please use my house and all that I have, as if it were your own."
+
+At this declaration of peace, the Bear got upon his feet and the Owl resumed his perch upon the chair and the Monkey crept out of the fireplace. Jinjur looked at Woot critically, and scowled.
+
+"For a Green Monkey," said she, "you're the blackest creature I ever saw. And you'll get my nice clean room all dirty with soot and ashes. Whatever possessed you to jump up the chimney?"
+
+"I -- I was scared," explained Woot, somewhat ashamed.
+
+"Well, you need renovating, and that's what will happen to you, right away. Come with me!" she commanded.
+
+"What are you going to do?" asked Woot.
+
+"Give you a good scrubbing," said Jinjur.
+
+Now, neither boys nor monkeys relish being scrubbed, so Woot shrank away from the energetic girl, trembling fearfully. But Jinjur grabbed him by his paw and dragged him out to the back yard, where, in spite of his whines and struggles, she plunged him into a tub of cold water and began to scrub him with a stiff brush and a cake of yellow soap.
+
+This was the hardest trial that Woot had endured since he became a monkey, but no protest had any influence with Jinjur, who lathered and scrubbed him in a business-like manner and afterward dried him with a coarse towel.
+
+The Bear and the Owl gravely watched this operation and nodded approval when Woot's silky green fur shone clear and bright in the afternoon sun. The Canary seemed much amused and laughed a silvery ripple of laughter as she said:
+
+"Very well done, my good Jinjur; I admire your energy and judgment. But I had no idea a monkey could look so comical as this monkey did while he was being bathed."
+
+"I'm not a monkey!" declared Woot, resentfully; "I'm just a boy in a monkey's shape, that's all."
+
+"If you can explain to me the difference," said Jinjur, "I'll agree not to wash you again -- that is, unless you foolishly get into the fireplace. All persons are usually judged by the shapes in which they appear to the eyes of others. Look at me, Woot; what am I?"
+
+Woot looked at her.
+
+"You're as pretty a girl as I've ever seen," he replied.
+
+Jinjur frowned. That is, she tried hard to frown.
+
+"Come out into the garden with me," she said, "and I'll give you some of the most delicious caramels you ever ate. They're a new variety, that no one can grow but me, and they have a heliotrope flavor."

@@ -1,0 +1,8 @@
+---
+title: "The Gamecocks And The Partridge"
+weight: 237
+aliases:
+  - "/authors/aesop/fables/chapter-235.html"
+---
+
+A MAN had two Gamecocks in his poultry-yard. One day by chance he found a tame Partridge for sale. He purchased it and brought it home to be reared with his Gamecocks. When the Partridge was put into the poultry-yard, they struck at it and followed it about, so that the Partridge became grievously troubled and supposed that he was thus evilly treated because he was a stranger. Not long afterwards he saw the Cocks fighting together and not separating before one had well beaten the other. He then said to himself, "I shall no longer distress myself at being struck at by these Gamecocks, when I see that they cannot even refrain from quarreling with each other."

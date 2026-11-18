@@ -1,0 +1,30 @@
+---
+title: "Chapter 11 - Mrs. Eagle Is Angry"
+weight: 11
+aliases:
+  - "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-11.html"
+---
+
+Yes! It was an eagle's nest that Cuffy Bear had found, And Mrs. Eagle had caught him eating her eggs. It was no wonder that she was wild with rage. And it was no wonder that Cuffy ran for his life.
+
+He landed in a heap at the foot of the first cliff, jumped up like a flash and in a twinkling he was rolling heels over head down another cliff.
+
+Again Cuffy fell in a heap at the bottom. Again he jumped up. And again he started to run. But this time, alas! Mrs. Eagle seized him. She pounced down upon his back; and she sunk her claws right into Cuffy's neck. Then Mrs. Eagle flapped her wings as hard as she could flap them. And Cuffy felt himself rising.
+
+Soon the earth was far, far beneath Cuffy. And he was the most frightened little bear you could imagine. He was afraid Mrs. Eagle would drop him, and that he would fall down, down, down onto the rocks below. And he was afraid that Mrs. Eagle wouldn't drop him, too. Because if she didn't Cuffy felt only too sure that she would take him home and that she and Mr. Eagle would eat him for their dinner.
+
+You see, Cuffy Bear was in a sad fix. And for my part, when I first heard of his plight I did not see how he was ever going to get out of it alive.
+
+Well--this was what happened. Mrs. Eagle did intend to take Cuffy home with her and serve him up for dinner that very night At first, after she had seized Cuffy, she mounted higher and higher into the air, so that she could at last swoop down on the top of the mountain, right beside her nest. But Cuffy was a very fat little bear. And soon Mrs. Eagle found that she had a heavy load. And it was only a few minutes before she discovered that she couldn't fly up any higher with Cuffy. In fact, she began to sink, little by little. Yes, Cuffy was so heavy that as Mrs. Eagle grew tired his weight dragged her down toward the earth again.
+
+Mrs. Eagle saw what was happening. But she didn't want to let Cuffy go. So she flew far out from the side of the mountain, hoping that she would soon feel stronger. But all the time she kept growing weaker and weaker. And all the time she kept falling faster and faster, until all at once Mrs. Eagle was afraid that she would lose her balance and go tumbling down onto the ground herself.
+
+She was still very angry. And she hated to lose the fine dinner she had been counting on. But she saw nothing else to do but let go of Cuffy Bear. So she gave one last scream of rage; and the next instant Cuffy felt himself dropping through the air like a stone.
+
+Now, Cuffy had shut his eyes tight, just as he did when he was drifting down the river on the cake of ice; so he did not see what was happening. But as luck had it, when Mrs. Eagle let him go she was flying right over the top of a big fir-tree. And as Cuffy fell, he dropped _plump!_ into the branches, and down he went, crashing through the soft, springing boughs.
+
+Cuffy clutched wildly at the branches. And though he tumbled through them one after another, at last he managed to hold tight to a big limb. And then, after he had caught his breath again, he crept carefully down to the ground.
+
+He wondered where he was. The place had a strangely familiar look. It seemed to Cuffy that he must have been there before. And then, as he peered cautiously around, what should he see but the door of his father's house, right in front of him! Yes! Mrs. Eagle had dropped Cuffy right in his father's door-yard! And Cuffy wasn't even late for dinner.
+
+As he grew older Cuffy often went to the top of Blue Mountain. But never, so long as he lived, did he get home again so quickly.

@@ -1,0 +1,46 @@
+---
+title: "Chapter 7 - Nothing But Air"
+weight: 7
+aliases:
+  - "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-07.html"
+---
+
+OLD Mr. Crow didn't say a single word when Master Meadow Mouse met him face to face in the meadow. But a wicked glitter in Mr. Crow's eyes warned Master Meadow Mouse that there was trouble ahead for him.
+
+If the hole leading to his home hadn't been close at hand there's no telling what would have happened to him. Anyhow, just as Mr. Crow lunged at him, with a wild flapping of his broad wings, Master Meadow Mouse slipped to one side and whisked through his doorway.
+
+Old Mr. Crow coughed hoarsely.
+
+"What's your hurry?" he cried. "I've been waiting around here for you for a long while. Can't you spend a few moments of your valuable time with me!"
+
+Now, it was true that the old gentleman had been lingering in the neighborhood. The corn wasn't quite ripe enough to suit him. So he had decided to go a-mousing that morning.
+
+His way of hunting, however, was not like that of other birds. Mr. Crow chose to do his hunting afoot. He was too wise to waste any effort looking for mice when the grass was high. But after haying he had often gone a-mousing in years past. And he had found the sport to be quite worth while. Stalking about the close cropped meadow he had surprised many distant cousins of Master Meadow Mouse who never returned home to tell the story of their meetings with the black scamp. Maybe Mr. Crow was getting slow in his old age. He had never come so near to catching a Meadow Mouse before, only to be disappointed. It was no wonder that he felt peevish.
+
+At first Master Meadow Mouse did not answer Mr. Crow when the old gentleman called down the tunnel that led to the nest beneath the sod. But soon Master Meadow Mouse remembered that Mr. Crow could get no more than his bill inside the hole. And then Master Meadow Mouse found his voice again.
+
+"I don't want to go above ground," he said. "Can't you talk to me, where I am?"
+
+"It's not easy to do that," Mr. Crow grumbled. "I have to speak too loud; and my voice is hoarse to-day."
+
+"Stick your bill into my tunnel as far as it will go," Master Meadow Mouse suggested. "Then you won't have to shout. I could hear a whisper if you'd do as I say."
+
+Old Mr. Crow thrust his bill down the hole.
+
+"I don't like this," he croaked. "I can't see you."
+
+"That's because you're shutting out all the light," Master Meadow Mouse explained.
+
+"I doubt it," said Mr. Crow angrily. "I believe you've drawn a curtain across the other end of this tunnel. And I can't talk to anybody through a curtain. I refuse to injure my voice trying to talk with anybody that won't give me a more friendly welcome when I call on him."
+
+"Talk away!" Master Meadow Mouse urged his caller. "There's nothing between us to keep me from hearing you. Nothing but a foot of air!"
+
+"Ah!" Mr. Crow cried. "I knew you had something in that tunnel. Remove the air at once, sir, or I'll go away and leave you."
+
+"If his bill wasn't so hard--if it was as soft as the Kitten's nose--I'd bite it," Master Meadow Mouse thought.
+
+And while he was thinking, all at once a shaft of light trickled inside his house. Old Mr. Crow had gone grumbling on his way.
+
+[Illustration]
+
+[Illustration]

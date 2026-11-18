@@ -1,0 +1,176 @@
+---
+title: "Chapter 19 - A Momentous Question"
+weight: 19
+aliases:
+  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-19.html"
+---
+
+The Duke paused, in his way across the crowded reception rooms, to speak to his host, Sir Edward Bransome, Secretary of State for Foreign Affairs.
+
+"I have just written you a line, Bransome," he said, as they shook hands. "The chief tells me that he is going to honor us down at Devenham for a few days, and that we may expect you also."
+
+"You are very kind, Duke," Bransome answered. "I suppose Haviland explained the matter to you."
+
+The Duke nodded.
+
+"You are going to help me entertain my other distinguished visitor," he remarked. "I fancy we shall be quite an interesting party."
+
+Bransome glanced around.
+
+"I hope most earnestly," he said, "that we shall induce our young friend to be a little more candid with us than he has been. One can't get a word out of Hesho, but I'm bound to say that I don't altogether like the look of things. The Press are beginning to smell a rat. Two leading articles this morning, I see, upon our Eastern relations."
+
+The Duke nodded.
+
+"I read them," he said. "We are informed that the prestige and success of our ministry will entirely depend upon whether or not we are able to arrange for the renewal of our treaty with Japan. I remember the same papers shrieking themselves hoarse with indignation when we first joined hands with our little friends across the sea!"
+
+His secretary approached Bransome and touched him on the shoulder.
+
+"There is a person in the anteroom, sir," he said, "whom I think that you ought to see."
+
+The Duke nodded and passed on. The Secretary drew his chief on one side.
+
+"This man has just arrived from Paris, sir," he continued, "and is the bearer of a letter which he is instructed to deliver into your hands only."
+
+Bransome nodded.
+
+"Is he known to us at all?" he asked. "From whom does the letter come?"
+
+The young man hesitated.
+
+"The letter itself, sir, has nothing to do with France, I imagine," he said. "The person I refer to is an American, and although I have no positive information, I believe that he is sometimes intrusted with the carrying of despatches from Washington to his Embassy. Once or twice lately I have had it reported to me that communications from the other side to Mr. Harvey have been sent by hand. It seems as though they had some objection to committing important documents to the post."
+
+Bransome walked through the crowded rooms by the side of his secretary, stopping for a moment to exchange greetings here and there with his friends. His wife was giving her third reception of the session to the diplomatic world.
+
+"Washington has certainly shown signs of mistrust lately," he remarked, "but if communications from them are ever tampered with, it is more likely to be on their side than ours. They have a particularly unscrupulous Press to deal with, besides political intriguers. If this person you speak of is really the bearer of a letter from there," he added, "I think we can both guess what it is about."
+
+The secretary nodded.
+
+"Shall I ring up Mr. Haviland, sir?" He asked.
+
+"Not yet," Bransome answered. "It is just possible that this person requires an immediate reply, in which case it may be convenient for me not to be able to get at the Prime Minister. Bring him along into my private room, Sidney."
+
+Sir Edward Bransome made his way to his study, opened the door with a Yale key, turned on the electric lights, and crossed slowly to the hearthrug. He stood there, for several moments, with his elbow upon the mantelpiece, looking down into the fire. A darker shadow had stolen across his face as soon as he was alone. In his court dress and brilliant array of orders, he was certainly a very distinguished-looking figure. Yet the last few years had branded lines into his face which it was doubtful if he would ever lose. To be Secretary of State for Foreign Affairs to the greatest power which the world had as yet known must certainly seem, on paper, to be as brilliant a post as a man's ambition could covet. Many years ago it had seemed so to Bransome himself. It was a post which he had deliberately coveted, worked for, and strived for. And now, when in sight of the end, with two years of office only to run, he was appalled at the ever-growing responsibilities thrust upon his shoulders. There was never, perhaps, a time when, on paper, things had seemed smoother, when the distant mutterings of disaster were less audible. It was only those who were behind the curtain who realized how deceptive appearances were.
+
+In a few minutes his secretary reappeared, ushering in Mr. James B. Coulson. Mr. Coulson was still a little pale from the effects of his crossing, and he wore a long, thick ulster to conceal the deficiencies of his attire. Nevertheless his usual breeziness of manner had not altogether deserted him. Sir Edward looked him up and down, and finding him look exactly as Mr. James B. Coulson of the Coulson & Bruce Syndicate should look, was inclined to wonder whether his secretary had made a mistake.
+
+"I was told that you wished to see me," he said. "I am Sir Edward Bransome."
+
+Mr. James B. Coulson nodded appreciatively.
+
+"Very good of you, Sir Edward," he said, "to put yourself out at this time of night to have a word or two with me. I am sorry to have troubled you, anyway, but the matter was sort of urgent."
+
+Sir Edward bent his head.
+
+"I understand, Mr. Coulson," he said, "that you come from the United States."
+
+"That is so, sir," Mr. Coulson replied. "I am at the head of a syndicate, the Coulson & Bruce Syndicate, which in course of time hope to revolutionize the machinery used for spinning wool all over the world. Likewise we have patents for other machinery connected with the manufacture of all varieties of woollen goods. I am over here on a business trip, which I have just concluded."
+
+"Satisfactorily, I trust?" Sir Edward remarked.
+
+"Well, I'm not grumbling, sir," Mr. Coulson assented. "Here and there I may have missed a thing, and the old fashioned way of doing business on this side bothers me a bit, but on the whole I'm not grumbling."
+
+Bransome bowed. Perhaps, after all, the man was not a fool!
+
+"I have a good many friends round about Washington," Mr. Coulson continued, "and sometimes, when they know I am coming across, one or the other of them finds it convenient to hand me a letter. It isn't the postage stamp that worries them," he added with a little laugh, "but they sort of feel that anything committed to me is fairly safe to reach its right destination."
+
+"Without disputing that fact for one moment, Mr. Coulson," Sir Edward remarked, "I might also suggest that the ordinary mail service between our countries has reached a marvellous degree of perfection."
+
+"The Post Office," Mr. Coulson continued meditatively, "is a great institution, both on your side and ours, but a letter posted in Washington has to go through a good many hands before it is delivered in London."
+
+Sir Edward smiled.
+
+"It is a fact, sir," he said, "which the various Governments of Europe have realized for many years, in connection with the exchange of communications one with the other. Your own great country, as it grows and expands, becomes, of necessity, more in touch with our methods. Did I understand that you have a letter for me, Mr. Coulson?"
+
+Mr. Coulson produced it.
+
+"Friend of mine you may have heard of," he said, "asked me to leave this with you. I am catching the Princess Cecilia from Southampton tomorrow. I thought, perhaps, if I waited an hour or so, I might take the answer back with me."
+
+"It is getting late, Mr. Coulson," Sir Edward reminded him, glancing at the clock.
+
+Mr. Coulson smiled.
+
+"I think, Sir Edward," he said, "that in your line of business time counts for little."
+
+Sir Edward motioned his visitor to a chair and touched the bell.
+
+"I shall require the A3X cipher, Sidney," he said to his secretary.
+
+Mr. Coulson looked up.
+
+"Why," he said, "I don't think you'll need that. The letter you've got in your hand is just a personal one, and what my friend has to say to you is written out there in black and white."
+
+Sir Edward withdrew the enclosure from its envelope and raised his eyebrows.
+
+"Isn't this a trifle indiscreet?" he asked.
+
+"Why, I should say not," Mr. Coulson answered. "My friend--Mr. Jones we'll call him--knew me and, I presume, knew what he was about. Besides, that is a plain letter from the head of a business firm to--shall we say a client? There's nothing in it to conceal."
+
+"At the same time," Sir Edward remarked, "it might have been as well to have fastened the flap of the envelope."
+
+Mr. Coulson held out his hand.
+
+"Let me look," he said.
+
+Sir Edward gave it into his hands. Mr. Coulson held it under the electric light. There was no indication in his face of any surprise or disturbance.
+
+"Bit short of gum in our stationery office," he remarked.
+
+Sir Edward was looking at him steadily.
+
+"My impressions were," he said, "when I opened this letter, that I was not the first person who had done so. The envelope flew apart in my fingers."
+
+Mr. Coulson shook his head.
+
+The document has never been out of my possession, sir," he said. "It has not even left my person. My friend Mr. Jones does not believe in too much secrecy in matters of this sort. I have had a good deal of experience now and am inclined to agree with him. A letter in a double-ended envelope, stuck all over with sealing wax, is pretty certain to be opened in case of any accident to the bearer. This one, as you may not have noticed, is written in the same handwriting and addressed in the same manner as the remainder of my letters of introduction to various London and Paris houses of business."
+
+Sir Edward said no more. He read the few lines written on a single sheet of notepaper, starting a little at the signature. Then he read them again and placed the document beneath a paper weight in front of him. When he leaned across the table, his folded arms formed a semicircle around it.
+
+"This letter, Mr. Coulson," he said, "is not an official communication."
+
+"It is not," Mr. Coulson admitted. "I fancy it occurred to my friend Jones that anything official would be hardly in place and might be easier to evade. The matter has already cropped up in negotiations between Mr. Harvey and your Cabinet, but so far we are without any definite pronouncement,--at least, that is how my friend Mr. Jones looks at it."
+
+Sir Edward smiled.
+
+"The only answer your friend asks for is a verbal one," he remarked.
+
+"A verbal one," Mr. Coulson assented, "delivered to me in the presence of one other person, whose name you will find mentioned in that letter."
+
+Sir Edward bowed his head. When he spoke again, his manner had somehow changed. It had become at once more official,--a trifle more stilted.
+
+"This is a great subject, Mr. Coulson," he said. "It is a subject which has occupied the attention of His Majesty's Ministers for many months. I shall take the opinion of the other person whose name is mentioned in this letter, as to whether we can grant Mr. Jones' request. If we should do so, it will not, I am sure, be necessary to say to you that any communication we may make on the subject tonight will be from men to a man of honor, and must be accepted as such. It will be our honest and sincere conviction, but it must also be understood that it does not bind the Government of this country to any course of action."
+
+Mr. Coulson smiled and nodded his head.
+
+"That is what I call diplomacy, Sir Edward," he remarked. "I always tell our people that they are too bullheaded. They don't use enough words. What about that other friend of yours?"
+
+Sir Edward glanced at his watch.
+
+"It is possible," he said, "that by this time Mr.----- Mr. Smith, shall we call him, to match your Mr. Jones?--is attending my wife's reception, from which your message called me. If he has not yet arrived, my secretary shall telephone for him."
+
+Mr. Coulson indicated his approval.
+
+"Seems to me," he remarked, "that I have struck a fortunate evening for my visit."
+
+Sir Edward touched the bell and his secretary appeared.
+
+"Sidney," he said, "I want you to find the gentleman whose name I am writing upon this piece of paper. If he is not in the reception rooms and has not arrived, telephone for him. Say that I shall be glad if he would come this way at once. He will understand that it is a matter of some importance."
+
+The secretary bowed and withdrew, after a glance at the piece of paper which he held in his hand. Sir Edward turned toward his visitor.
+
+"Mr. Coulson," he said, "will you allow me the privilege of offering you some refreshment?"
+
+"I thank you, sir," Mr. Coulson answered. "I am in want of nothing but a smoke."
+
+Sir Edward turned to the bell, but his visitor promptly stopped him.
+
+"If you will allow me, sir," he said, "I will smoke one of my own. Home-made article, five dollars a hundred, but I can't stand these strong Havanas. Try one."
+
+Sir Edward waved them away.
+
+"If you will excuse me," he said, "I will smoke a cigarette. Since you are here, Mr. Coulson, I may say that I am very glad to meet you. I am very glad, also, of this opportunity for a few minutes' conversation upon another matter."
+
+Mr. Coulson showed some signs of surprise.
+
+"How's that?" he asked.
+
+"There is another subject," Sir Edward said, "which I should like to discuss with you while we are waiting for Mr. Smith."

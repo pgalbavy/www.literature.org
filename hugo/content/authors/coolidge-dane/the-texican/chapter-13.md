@@ -1,0 +1,110 @@
+---
+title: "Chapter 13 - Welcome Home"
+weight: 14
+aliases:
+  - "/authors/coolidge-dane/the-texican/chapter-13.html"
+---
+
+After the war of words was over and the tumult and shouting had died away, the Angel of Peace, which had been flying high of late, fluttered down and hovered low over Verde Crossing. John Upton rode back up the Tonto trail still breathing forth hostile threats; Crittenden and his men buckled on their extra guns and rode blithely out to the adventure; and the store, from being a general hang-out for noisy and drunken cowboys, became once more a shrine to Venus and a temple of the Muse, with Babe the minstrel and Marcelina the devotee. "Billy Veniro" was the theme—that long, sad tale of the far frontier—sung in tragic tenor to a breathless audience of one. She was very pretty, the little Marcelina, now that she had become a woman. The Sisters had taught her her catechism and something more—the grace and sweetness that come from religious adoration, and the quiet of the cell. The great world, too, as personated by Geronimo, had done its share; her hair was done up in dark masses, her long skirt swept the floor, and with the added dignity of a train her womanhood was complete. She sat by the door where she could watch the Tonto trail—for it was by that road that Pecos was to come—and her melancholy eyes glowed as she listened to the song.
+
+BILLY VENIRO
+
+"Billy Veniro heard them say, in an Arizona town one day, That a band of Apache Indians were on the trail of death. He heard them tell of murder done, of the men killed at Rocky Run. 'There is danger at the cow-ranch!' Veniro cried beneath
+
+his breath.
+
+"In a ranch forty miles, in a little place that lay In a green and shady valley, in a mighty wilderness, Half a dozen homes were there and in one a maiden fair Helt the heart of Billy Veniro—Billy Veniro's little Bess.
+
+"So no wonder he grew pale, when he heard the cowboy's tale— Of the men that he'd seen murdered the day before at Rocky Run. 'As sure as there is a God above, I will save the girl I love. By my love for little Bessie, I must see there is something done!'
+
+"When his brave resolve was made, not a moment more he stayed. 'Why, my man,' his comrades told him when they heard his
+
+daring plan, 'You are riding straight to death!' But he answered, 'Hold
+
+your breath, I may never reach the cow-ranch, but I'll do the best I can.'
+
+"As he crossed the alkali bed all his thoughts flew on ahead To the little band at the cow-ranch, thinking not of danger near, With his quirt's unceasing whirl and the jingle of his spurs Little brown Chapo bore the cowboy far away from a far frontier.
+
+"Lower and lower sank the sun, he drew reins at Rocky Run. 'Here those men met death, my Chapo!' and he stroked his
+
+horse's mane. 'So shall those we go to warn, ere the breaking of the morn, If I fail, God help my Bessie!' And he started out again.
+
+"Sharp and keen the rifle shot woke the echoes of the spot. 'I am wounded!' cried Veniro, as he swayed from side to side. 'Where there is life there is always hope, onward slowly
+
+I will lope. I may never reach the cow-ranch—Bessie dear shall know I tried.
+
+"'I will save her yet,' he cried, 'Bessie Lee shall know I died For her sake!' And then he halted in the shadow of a hill. From a branch a twig he broke, and he dipped his pen of oak In the warm blood that spurted from the wound above his heart.
+
+"From his chaps he took, with weak hand, a little book, Tore a blank leaf from it, saying, 'This shall be my will.' He arose and wrote: 'Too late! Apache warriors lay in wait. Good-bye, Bess, God bless you, darling!' And he felt the warm
+
+blood start.
+
+"And he made his message fast—love's first letter and its last— To his saddle horn he tied it, while his lips were white with pain. 'Take this message, if not me, safe to little Bess,' said he. Then he tied himself to the saddle and gave his horse the rein.
+
+"Just at dusk a horse of brown, wet with sweat, came panting down Through the little lane at the cow-ranch and stopped at
+
+Bessie's door. But the cowboy was asleep and his slumbers were so deep That little Bess could not awake him, if she were to
+
+try forevermore.
+
+"Now you have heard this story told, by the young and by the old, Way down there at the cow-ranch the night the Apaches came. Heard them speak of the bloody fight, how the chief fell in
+
+the flight And of those panic-stricken warriors, when they speak
+
+Veniro's name."
+
+"Ay, los Ah-paches!" sighed Marcelina, looking wistfully up the trail. "No ai Ah-paches in mountains now, Babe?"
+
+"No, Marcelina," soothed Angy, "all gone now. Soldiers watch 'em—San Carlos."
+
+"_Que malo, los Indios!_" shuddered Marcelina. "I am afraid—quien sabe?—who can tell?—I am afraid some bad men shall keel—ah, when say Paycos, he will come?"
+
+"'I'll come a-runnin'—watch for my dust'—that's all he wrote when I told him you was home. Can't you see no dust nor nothin'?"
+
+"There is leetle smoke, like camp-fire, up the valley—and Creet's vaqueros come home down Tonto trail. Pretty soon sundown—nobody come."
+
+Angevine Thorne stepped through the doorway and, shading his bloodshot eyes with a grimy hand, gazed long at the column of thin smoke against the northern sky. "Like as not some one is brandin' an orejano" he said, half to himself. "Might even be Pecos, makin' a signal fire. Hey, look at them bloody cowboys, ridin' in on it! Look at 'em go down that arroyo; will you? Say—I hope—"
+
+"Hope what?"
+
+"Well, I hope Pecos don't come across none of them Spectacle cows on the way in—that's all."
+
+"Ahh, Paycos weel be mad—he weel—_Mira!_ Look, look!"
+
+A furious mob of horsemen came whirling down the trail, crowding about a central object that swayed and fought in their midst; they rushed it triumphantly into the open, swinging their ropes and shouting, and as the rout went by Angy saw Pecos, tied to his horse, his arms bound tight to his sides and a myriad of tangled reatas jerking him about in his saddle.
+
+[Illustration: As the rout went by Angy saw Pecos, tied to his horse, his arms bound tight to his sides]
+
+"Hang the cow-thief!" howled the cowboys, circling and racing back, and all the time Pecos strained and tugged to get one hand to his gun. Then his wild eyes fell on Marcelina and he paused; she held out her hands, and Angy rushed behind the bar for his gun.
+
+"Here, what the hell you mean?" he yelled, breaking from the door. "Quit jerkin' him around like that, or I'll knock you off your horse!" He ran straight through the crowd, belting every horse he met with the barrel of his forty-five, until he brought up with his back to Pecos and his pistol on the mob. "Let go that rope, you—!" he cried, bringing his six-shooter to a point, and as the nearest cowboy threw loose and backed away he shifted his gun to another. "Throw off your dally," he commanded, "and you too, you low-flung Missouri hound! Yes, I mean you!" he shouted, as Crit still held his turns. "What right have you got to drag this man about? I'll shoot the flat out of your eye, you old dastard, if you don't let go that rope!"
+
+Old Crit let go, but he stood his ground with a jealous eye on his prize.
+
+"Don't you tech them ropes," he snarled back, "or I'll do as much for you. I caught him in the act of stealin' one of my cows and—"
+
+"You did not!" broke in Pecos, leaning back like a wing-broke hawk to face his exultant foe, "that calf was mine—and its mother to boot—and you go and burn it to a pair of Spectacles! Can't a man vent his own calf when it's been stole on 'im durin' his absence? Turn me loose, you one-eyed cow-thief, or I'll have yore blood for this!"
+
+"You don't git loose from me—not till the sheriff comes and takes you to the jug. Close in here, boys, and we'll tie him to a tree."
+
+"Not while I'm here!" replied Angy, stepping valiantly to the front. "They don't a man lay a finger on 'im, except over my dead body. You'll have to kill me—or I'll pot Old Crit on you, in spite of hell!" He threw down on his boss with the big forty-five and at a sign from Crit the cowboys fell back and waited.
+
+"Now, lookee here, Angy," began Crittenden, peering uneasily past the gun, "I want you to keep yore hand outer this. Accordin' to law, any citizen has a right to arrest a man caught in the act of stealin' and I claim that feller for my prisoner."
+
+"Well, you don't git 'im," said Angy, shortly. "What's the row, Pecos?"
+
+Pecos Dalhart, still leaning back like a crippled hawk that offers beak and claws to the foe, shifted his hateful eyes from Crittenden and fixed them on his friend.
+
+"I was ridin' down the arroyo," he said, "a while ago, when I came across my old milk cow that I bought of Joe Garcia." He paused and gulped with rage. "One ear was cropped to a grub," he cried, "and the other swallow-forked to 'er head—and her brand was fresh burnt to a pair of hobbles! The calf carried the same brand and while I was barring them Spectacles or Hobbles, or whatever you call 'em, and putting a proper Monkey-wrench in their place, this pack of varmints jumped in and roped me before I could draw a gun, otherwise they would be some dead."
+
+"Nothin' of the kind!" shouted back Crittenden. "You never bought a cow in your life, and you know it! I caught you in the act of stealin' my Spectacle calf and I've got witnesses to prove it—ain't that so, boys?"
+
+"Sure!" chimed the IC cowboys, edging in behind their boss.
+
+"And I demand that man for my prisoner!" he concluded, though pacifically, for Angy still kept his bead.
+
+The negotiations for the custody of Pecos were becoming heated when there was a familiar clatter at the ford and Bill Todhunter rode into camp. His appearance was not such an accident as on the surface appeared, since he had been scouting around the purlieus of Verde Crossing for some days in the hope of catching Old Crit in some overt act, but he put a good face on it and took charge of the prisoner at once. Prisoners were the fruits of his profession, like game to a hunter or mavericks to a cowman, and he pulled the gun out of Pecos's holster and threw loose the tangled ropes with the calm joy of a man who has made a killing.
+
+"Caught 'im in the act, did ye?" he said, turning to Crittenden. "Uh-huh—got any witnesses? All right—where's the calf? Well, send a man up for it, and bring the cow down, too. We'll have a preliminary examination before the J. P. to-morrow and I want that cow and calf for evidence. Now come on, Mr. Dalhart, and remember that anything you say is liable to be used against ye."
+
+Denying and protesting, Pecos did as he was bid; and, still denying his guilt, he went before the magistrate in Geronimo. Crittenden was there with his cowboys; the calf was there with his barred brand and bloody ears—and as the examination progressed Pecos saw the meshes of a mighty net closing relentlessly in upon him. In vain he protested that the calf was his—Isaac Crittenden, the cowman, swore that the animal belonged to him and his cowboys swore to it after him. In vain he called upon José Garcia to give witness to the sale—Joe was in debt to the Boss several hundred dollars and Old Funny-face, the cow, was being hazed across the range by a puncher who had his orders. His written bill of sale was lost, the mother with her brands and vents was gone, and a score of witnesses against him swore to the damning fact that he had been taken red-handed. After hearing all the evidence the Justice of the Peace consulted his notes, frowned, and held the defendant for the action of the grand jury. The witnesses filed out, the court adjourned, and a representative assemblage of cowmen congratulated themselves, as law-abiding citizens of Geronimo County, that there was one less rustler in the hills. At last, after holding up her empty scales for years, the star-eyed Goddess of Justice was vindicated; the mills of the law had a proper prisoner to work upon now and though they were likely to grind a little slow—the grand jury had just adjourned and would not be convened again until fall—they were none the less likely to be sure. Fortunately for the cause of good government the iron hand of the law had closed down upon a man who had neither money, friends, nor influence, and everybody agreed that he should be made an awful example.

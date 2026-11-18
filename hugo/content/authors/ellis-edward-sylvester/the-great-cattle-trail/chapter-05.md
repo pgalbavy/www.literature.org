@@ -1,0 +1,70 @@
+---
+title: "Chapter 5 - Upstairs And Downstairs"
+weight: 5
+aliases:
+  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-05.html"
+---
+
+Profound stillness followed the despairing exclamation of Mrs. Shirril, who believed that her nephew had gone to his death while trying to steal away from the cabin in which his friends were held at bay by the Comanches.
+
+The quiet on the outside was as deep and oppressive as within. There was the sharp, resounding report of the rifle, followed on the instant by the wild cry of mortal pain, and then all became like the tomb itself.
+
+It was singular that the first spark of hope was kindled by the words of the colored servant, Dinah.
+
+"What makes you tink de boy am dead?" she asked, a moment after the woful words of her mistress.
+
+"Didn't you hear him cry out just now?"
+
+"No; I didn't hear him nor did you either; dat warn't de voice ob Avon."
+
+"How can you know that?" asked Mrs. Shirril, beginning to feel anew hope within her.
+
+"Lor' o' massy! habent I heerd de voice ob dat younker offen 'nough to know it 'mong ten fousand? Habent I heerd him yell, too? he neber does it in *dat* style; dat war an Injin, and de reason dat he screeched out in dat onmarciful way war 'cause he got in de path ob Avon and de boy plugged him."
+
+"By gracious, Dinah! I believe you're right!" was the exclamation of Captain Shirril, so joyous over the rebound from despair that he was ready to dance a breakdown in the middle of the floor.
+
+"Course I is right, 'cause I *allers* is right."
+
+"I suppose there is some reason in that, but please keep quiet—both of you, for a few minutes, while I listen further."
+
+The women were standing near the captain, who once more inclined his head, with his ear at the small orifice in the door.
+
+The seconds seemed minutes in length, but as they wore away, nothing definite was heard. Once or twice the tramp of horses' feet was noticed, and other sounds left no doubt that most of the Comanches were still near the dwelling.
+
+This listening would have lasted longer, but for an unpleasant though not dangerous interruption. Dinah, who seemed to be meeting with some trouble in her respiration, suddenly emitted a sneeze of such prodigious force that her friends were startled.
+
+It was not necessary for them to enquire as to the cause. The blanket that had been thrown upon the flames, and which brought instant night, did its work well, but it was beginning to suffer therefrom. The fire was almost smothered, but enough air reached it around the edges of the thick cloth to cause it to burn with considerable vigor, and give out a slight illumination, but, worst of all, it filled the room with dense, overpowering smoke. Breathing was difficult and the odor dreadful.
+
+"This will never do," said the captain, glancing at the fireplace, where the glowing edges of the blanket were growing fast; "we won't be able to breathe."
+
+His first thought was to fling another blanket upon the embers, thereby extinguishing them altogether, but his wife anticipated him by scattering the contents of the water pail with such judgment over the young conflagration that it was extinguished utterly. Darkness reigned again, but the vapor, increased by the dousing of the liquid, rendered the room almost unbearable.
+
+"You and Dinah had better go upstairs," said the captain to his wife; "close the door after you, and, by and by, the lower floor will clear; I can get enough fresh air at the little opening in the door and by the windows to answer for me; if there is any need of you, I can call, but perhaps you may find something to do up there yourselves."
+
+The wife and servant obeyed, each taking her gun with her, together with enough ammunition to provide for fully a score of shots.
+
+The cabin which Captain Dohm Shirril had erected on his ranch in upper Texas was long and low, as we have already intimated. There was but the single apartment on the first floor, which served as a kitchen, dining and sitting room, and parlor. When crowded his guests, to the number of a dozen, more or less, could spread their blankets on the floor, and sleep the sleep that waits on rugged health and bounding spirits.
+
+The upper story was divided into three apartments. The one at the end served for the bedroom of the captain and his wife; the next belonged to Dinah, while the one beyond, as large as the other two, was appropriated by Avon and such of the cattlemen as found it convenient to sleep under a roof, which is often less desirable to the Texan than the canopy of heaven.
+
+Few of these dwellings are provided with cellars, and there was nothing of the kind attached to the residence of Captain Shirril. The house was made of logs and heavy timbers, the slightly sloping roof being of heavy roughly hewn planking. Stone was scarce in that section, but enough had been gathered to form a serviceable fireplace, the wooden flue of which ascended to the roof from within the building.
+
+This brief description will give the reader an idea of the character of the structure, in which one man and two women found themselves besieged by a war party of fierce Comanches.
+
+The ceiling of the lower floor was so low that, had the captain stood erect with an ordinary silk hat on his head, it would have touched it. The stairs consisted of a short, sloping ladder, over which a trap-door could be shut, so as to prevent anyone entering from below.
+
+Inasmuch as smoke generally climbs upward, the second story would have proven a poor refuge had the women waited any time before resorting to it. As it was, considerable vapor accompanied them up the rounds of the ladder, but, when the trap-door was closed after them, the greater purity of the air afforded both relief.
+
+It will be recalled that the lower story was furnished with two windows at the front, of such strait form that no man could force his way through them. The upper floor was more liberally provided in this respect, each apartment having a window at the front and rear, though the foresight of Captain Shirril made these as narrow as those below. Indeed they were so near the ground that otherwise they would have formed a continual invitation to hostile parties to enter through them.
+
+So long as an attacking force kept off, three defenders like those now within the house might defy double the number of assailants that threatened them. No implement of warfare at the command of the red men was sufficient to batter down the walls, or drive the massive door from its hinges.
+
+But the real source of danger has been indicated. The cabin was located so far toward Western Texas, that it was exposed to raids from the Comanches and Kioways, while occasionally a band of Apaches penetrated the section from their regular hunting grounds in Arizona or New Mexico.
+
+Although the red men might find it impossible to force an entrance, yet the darkness allowed them to manoeuvre outside, and lay their plans with little danger of molestation. The roof of the building had been seasoned by its long exposure to the weather, until it was as dry as tinder. This was increased, if possible, by the drought that had now lasted for months in that portion of Texas. A slight fire would speedily fan itself into a flame that would reduce the building to ashes.
+
+"And it only needs to be started," thought Captain Shirril, when he found himself alone below stairs, "and it will do the work; it was very thoughtful in Edna to dash that pailful of water on the smouldering blanket, and it quenched the embers, but, all the same, it required the last drop in the house."
+
+However, there was nothing to be feared in the nature of thirst. The defenders could go without drink easily enough for twenty-four hours, and the issue of this serious matter would be settled one way or other long before that period passed. The cowboys would not wait long after sunrise for their leader, before setting out to learn the cause of his delay.
+
+The question of life and death must be answered before the rising of the morrow's sun.

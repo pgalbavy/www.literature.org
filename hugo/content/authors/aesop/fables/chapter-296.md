@@ -1,0 +1,8 @@
+---
+title: "The Shipwrecked Man And The Sea"
+weight: 298
+aliases:
+  - "/authors/aesop/fables/chapter-296.html"
+---
+
+A SHIPWRECKED MAN, having been cast upon a certain shore, slept after his buffetings with the deep. After a while he awoke, and looking upon the Sea, loaded it with reproaches. He argued that it enticed men with the calmness of its looks, but when it had induced them to plow its waters, it grew rough and destroyed them. The Sea, assuming the form of a woman, replied to him: "Blame not me, my good sir, but the winds, for I am by my own nature as calm and firm even as this earth; but the winds suddenly falling on me create these waves, and lash me into fury."

@@ -1,0 +1,8 @@
+---
+title: "The Bald Man And The Fly"
+weight: 306
+aliases:
+  - "/authors/aesop/fables/chapter-304.html"
+---
+
+A FLY bit the bare head of a Bald Man who, endeavoring to destroy it, gave himself a heavy slap. Escaping, the Fly said mockingly, "You who have wished to revenge, even with death, the Prick of a tiny insect, see what you have done to yourself to add insult to injury?' The Bald Man replied, "I can easily make peace with myself, because I know there was no intention to hurt. But you, an ill-favored and contemptible insect who delights in sucking human blood, I wish that I could have killed you even if I had incurred a heavier penalty."

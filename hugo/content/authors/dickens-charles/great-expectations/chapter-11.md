@@ -1,0 +1,262 @@
+---
+title: "Chapter 11"
+weight: 11
+aliases:
+  - "/authors/dickens-charles/great-expectations/chapter-11.html"
+---
+
+AT the appointed time I returned to Miss Havisham's, and my hesitating ring at the gate brought out Estella. She locked it after admitting me, as she had done before, and again preceded me into the dark passage where her candle stood. She took no notice of me until she had the candle in her hand, when she looked over her shoulder, superciliously saying, 'You are to come this way to- day,' and took me to quite another part of the house.
+
+The passage was a long one, and seemed to pervade the whole square basement of the Manor House. We traversed but one side of the square, however, and at the end of it she stopped, and put her candle down and opened a door. Here, the daylight reappeared, and I found myself in a small paved court-yard, the opposite side of which was formed by a detached dwelling-house, that looked as if it had once belonged to the manager or head clerk of the extinct brewery. There was a clock in the outer wall of this house. Like the clock in Miss Havisham's room, and like Miss Havisham's watch, it had stopped at twenty minutes to nine.
+
+We went in at the door, which stood open, and into a gloomy room with a low ceiling, on the ground floor at the back. There was some company in the room, an d Estella said to me as she joined it, 'You are to go and stand there, boy, till you are wanted.' 'There', being the window, I crossed to it, and stood 'there,' in a very uncomfortable state of mind, looking out.
+
+It opened to the ground, and looked into a most miserable corner of the neglected garden, upon a rank ruin of cabbage-stalks, and one box tree that had been clipped round long ago, like a pudding, and had a new growth at the top of it, out of shape and of a different colour, as if that part of the pudding had stuck to the saucepan and got burnt. This was my homely thought, as I contemplated the box-tree. There had been some light snow, overnight, and it lay nowhere else to my knowledge; but, it had not quite melted from the cold shadow of this bit of garden, and the wind caught it up in little eddies and threw it at the window, as if it pelted me for coming there.
+
+I divined that my coming had stopped conversation in the room, and that its other occupants were looking at me. I could see nothing of the room except the shining of the fire in the window glass, but I stiffened in all my joints with the consciousness that I was under close inspection.
+
+There were three ladies in the room and one gentleman. Before I had been standing at the window five minutes, they somehow conveyed to me that they were all toadies and humbugs, but that each of them pretended not to know that the others were toadies and humbugs: because the admission that he or she did know it, would have made him or her out to be a toady and humbug.
+
+They all had a listless and dreary air of waiting somebody's pleasure, and the most talkative of the ladies had to speak quite rigidly to repress a yawn. This lady, whose name was Camilla, very much reminded me of my sister, with the difference that she was older, and (as I found when I caught sight of her) of a blunter cast of features. Indeed, when I knew her better I began to think it was a Mercy she had any features at all, so very blank and high was the dead wall of her face.
+
+'Poor dear soul!' said this lady, with an abruptness of manner quite my sister's. 'Nobody's enemy but his own!'
+
+'It would be much more commendable to be somebody else's enemy,' said the gentleman; 'far more natural.'
+
+'Cousin Raymond,' observed another lady, 'we are to love our neighbour.
+
+'Sarah Pocket,' returned Cousin Raymond, 'if a man is not his own neighbour, who is?'
+
+Miss Pocket laughed, and Camilla laughed and said (checking a yawn), 'The idea!' But I thought they seemed to think it rather a good idea too. The other lady, who had not spoken yet, said gravely and emphatically, 'Very truel'
+
+'Poor soul!' Camilla presently went on (I knew they had all been looking at me in the mean time), 'he is so very strange! Would anyone believe that when Tom's wife died, he actually could not be induced to see the importance of the children's having the deepest of trimmings to their mourning? ''Good Lord!'' says he, ''Camilla, what can it signify so long as the poor bereaved little things are in black?'' So like Matthew! The idea!'
+
+'Good points in him, good points in him,' said Cousin Ray- mond; 'Heaven forbid I should deny good points in him; but he never had, and he never will have, any sense of the proprieties.'
+
+'You know I was obliged,' said Camilla, 'I was obliged to be firm. I said It wILL NoT Do, for the credit of the family.'' I told him that, without deep trimmings, the family was disgraced. I cried about it from breakfast till dinner. I injured my digestion. And at last he flung out in his violent way, and said, with a D, ''Then do as you like.'' Thank Goodness it will always be a consola- tion to me to know that I instantly went out in a pouring rain and bought the things.'
+
+'He paid for them, did he not?' asked Estella.
+
+'It's not the question, my dear child, who paid for them,' re- turned Camilla. 'I bought them. And I shall often think of that with peace, when I wake up in the night.'
+
+The ringing of a distant bell, combined with the echoing of some cry or call along the passage by which I had come, interrupted the conversation and caused Estella to say to me, 'Now, boy!' On my turning round, they all looked at me with the utmost contempt, and, as I went out, I heard Sarah Pocket say, 'Well I am sure! What next!' and Camilla add, with indignation, 'Was there ever such a fancy! The i-de-a!'
+
+As we were going with our candle along the dark passage, Estella stopped all of a sudden, and, facing round, said in her taunting manner with her face quite close to mine:
+
+'Well?'
+
+'Well, miss?' I answered, almost falling over her and checking myself.
+
+She stood looking at me, and, of course, I stood looking at her.
+
+'Am I pretty?'
+
+'Yes; I think you are very pretty.'
+
+'Am I insulting?'
+
+'Not so much so as you were last time,' said I.
+
+'Not so much so?'
+
+'No.'
+
+She fired when she asked the last question, and she slapped my face with such force as she had, when I answered it.
+
+'Now?' said she. 'You little coarse monster, what do you think of me now?'
+
+'I shall not tell you.'
+
+'Because you are going to tell, up-stairs. Is that it?'
+
+'No,' said I, 'that's not it.'
+
+'Why don't you cry again, you little wretch?'
+
+'Because I'll never cry for you again,' said I. Which was, I sup- pose, as false a declaration as ever was made; for I was inwardly crying for her then, and I know what I know of the pain she cost me afterwards.
+
+We went on our way up-stairs after this episode; and, as we were going up, we met a gentleman groping his way down.
+
+'Whom have we here? ' asked the gentleman, stopping and looking at me.
+
+'A boy,' said Estella.
+
+He was a burly man of an exceedingly dark complexion, with an exceedingly large head and a corresponding large hand. He took my chin in his large hand and turned up my face to have a look at me by the light of the candle. He was prematurely bald on the top of his head, and had bushy black eyebrows that wouldn't lie down but stood up bristling. His eyes were set very deep in his head, and were disagreeably sharp and suspicious. He had a large watch- chain, and strong black dots where his beard and whiskers would have been if he had let them. He was nothing to me, and I could have had no foresight then, that he ever would be anything to me, but it happened that I had this opportunity of observing him well.
+
+'Boy of the neighbourhood? Hey?' said he.
+
+'Yes, sir,' said I.
+
+'How do you come here?'
+
+'Miss Havisham sent for me, sir,' I explained.
+
+'Well! Behave yourself. I have a pretty large experience of boys, and you're a bad set of fellows. Now mind!' said he, biting the side of his great forefinger as he frowned at me, 'you behave yourself!'
+
+With those words, he released me -- which I was glad of, for his hand smelt of scented soap -- and went his way down-stairs. I wondered whether he could be a doctor; but no, I thought; he couldn't be a doctor, or he would have a quieter and more per- suasive manner. There was not much time to consider the subject, for we were soon in Miss Havisham's room, where she and every- thing else were just as I had left them. Estella left me standing near the door, and I stood there until Miss Havisham cast her eyes upon me from the dressing-table.
+
+'So!' she said, without being startled or surprised; 'the days have worn away, have they ?'
+
+'Yes, ma'am. To-day is --'
+
+'There, there, therel' with the impatient movement of her fingers. 'I don't want to know. Are you ready to play?'
+
+I was obliged to answer in some confusion, 'I don't think I am, ma'am.'
+
+'Not at cards again?' she demanded, with a searching look.
+
+'Yes, ma'am; I could do that, if I was wanted.'
+
+'Since this house strikes you old and grave, boy,' said Miss Havisham, impatiently, 'and you are unwilling to play, are you willing to work?'
+
+I could answer this inquiry with a better heart than I had been able to find for the other question, and I said I was quite willing.
+
+'Then go into that opposite room,' said she, pointing at the door behind me with her withered hand, 'and wait there till I come.'
+
+I crossed the staircase landing, and entered the room she indi- cated. From that room, too, the daylight was completely excluded, and it had an airless smell that was oppressive. A fire had been lately kindled in the damp old-fashioned grate, and it was more disposed to go out than to burn up, and the reluctant smoke which hung in the room seemed colder than the clearer air -- like our own marsh mist. Certain wintry branches of candles on the high chimneypiece faintly lighted the chamber: or, it would be more expressive to say, faintly troubled its darkness. It was spacious, and I dare say had once been handsome, but every dis- cernible thing in it was covered with dust and mould, and dropping to pieces. The most prominent object was a long table with a table- cloth spread on it, as if a feast had been in preparation when the house and the clocks all stopped together. An epergne or centre- piece of some kind was in the middle of this cloth; it was so heavily overhung with cobwebs that its form was quite undistinguishable; and, as I looked along the yellow expanse out of which I remember its seeming to grow, like a black fungus, I saw speckled-legged spiders with blotchy bodies running home to it, and running out from it, as if some circumstance of the greatest public importance had just transpired in the spider community.
+
+I heard the mice too, rattling behind the panels, as if the same occurrence were important to their interests. But, the blackbeetles took no notice of the agitation, and groped about the hearth in a ponderous elderly way, as if they were short-sighted and hard of hearing, and not on terms with one another.
+
+These crawling things had fascinated my attention and I was watching them from a distance, when Miss Havisham laid a hand upon my shoulder. In her other hand she had a crutch-headed stick on which she leaned, and she looked like the Witch of the place.
+
+'This,' said she, pointing to the long table with her stick, 'is where I will be laid when I am dead. They shall come and look at me here.'
+
+With some vague misgiving that she might get upon the table then and there and die at once, the complete realization of the ghastly waxwork at the Fair, I shrank under her touch.
+
+'What do you think that is?' she asked me, again pointing with her stick; 'that, where those cobwebs are?'
+
+'I can't guess what it is, ma'am.'
+
+'It's a great cake. A bride-cake. Mine!'
+
+She looked all round the room in a glaring manner, and then said, leaning on me while her hand twitched my shoulder, 'Come, come, come! Walk me, walk me!'
+
+I made out from this, that the work I had to do, was to walk Miss Havisham round and round the room. Accordingly, I started at once, and she leaned upon my shoulder, and we went away at a pace that might have been an imitation (founded on my first im- pulse under that roof) of Mr Pumblechook's chaise-cart.
+
+She was not physically strong, and after a little time said, 'Slower!' Still, we went at an impatient fitful speed, and as we went, she twitched the hand upon my shoulder, and worked her mouth, and led me to believe that we were going fust because her thoughts went fast. After a while she said, 'Call Estella!' so I went out on the landing and roared that name as I had done on the previous occasion. Mien her light appeared, I returned to Miss Havisham, and we started away again round and round the room.
+
+If only Estella had come to be a spectator of our proceedings, I should have felt sufficiently discontented; but, as she brought with her the three ladies and the gentleman whom I had seen below, I didn't know what to do. In my politeness, I would have stopped; but, Miss Havisham twitched my shoulder, and we posted on -- with a shame-faced consciousness on my part that they would think it was all my doing.
+
+'Dear Miss Havisham,' said Miss Sarah Pocket. 'How well you look!'
+
+'I do not,' returned Miss Havisham. 'I am yellow skin and bone.'
+
+Camilla brightened when Miss Pocket met with this rebuff; and she murmured, as she plaintively contemplated Miss Havisham, 'Poor dear soul! Certainly not to be expected to look well, poor thing. The idea!'
+
+'And how are you?' said Miss Havisham to Camilla. As we were close to Camilla then, I would have stopped as a matter of course, only Miss Havisham wouldn't stop. We swept on, and I felt that I was highly obnoxious to Camilla.
+
+'Thank you, Miss Havisham,' she returned, 'I am as well as can be expected.'
+
+'Why, what's the matter with you? ' asked Miss Havisham, with exceeding sharpness.
+
+'Nothing worth mentioning,' replied Camilla. 'I don't wish to make a display of my feelings, but I have habitually thought of you more in the night than I am quite equal to.'
+
+'Then don't think of me,' retorted Miss Havisham.
+
+'Very easily said!' remarked Camilla, amiably repressing a sob, while a hitch came into her upper lip, and her tears overflowed. 'Raymond is a witness what ginger and sal volatile I am obliged to take in the night. Raymond is a witness what nervous jerkings I have in my legs. Chokings and nervous jerkings, however, are nothing new to me when I think with anxiety of those I love. If I could be less affectionate and sensitive, I should have a better digestion and an iron set of nerves. I am sure I wish it could be so. But as to not thinking of you in the night -- The idea!' Here, a burst of tears.
+
+The Raymond referred to, I understood to be the gentleman present, and him I understood to be Mr Camilla. He came to the rescue at this point, and said in a consolatory and complimentary voice, 'Camilla, my dear, it is well known that your family feelings are gradually undermining you to the extent of making one of your legs shorter than the other.'
+
+'I am not aware,' observed the grave lady whose voice I had heard but once, 'that to think of any person is to make a great claim upon that person, my dear.'
+
+Miss Sarah Pocket, whom I now saw to be a little dry brown corrugated old woman, with a small face that might have been made of walnut shells, and a large mouth like a cat's without the whiskers, supported this position by saying, 'No, indeed, my dear. Hem!'
+
+'Thinking is easy enough,' said the grave lady.
+
+'What is easier, you know?' assented Miss Sarah Pocket.
+
+'Oh, yes, yesl' cried Camilla, whose fermenting feelings ap- peared to rise from her legs to her bosom. 'It's all very truel It's a weakness to be so affectionate, but I can't help it. No doubt my health would be much better if it was otherwise, still I wouldn't change my disposition if I could. It's the cause of much suffering, but it's a consolation to know I possess it, when I wake up in the night.' Here another burst of feeling.
+
+Miss Havisham and I had never stopped all this time, but kept going round and round the room: now, brushing against the skirts of the visitors: now, giving them the whole length of the dismal chamber.
+
+'There's Matthew!' said Camilla. 'Never mixing with any natural ties, never coming here to see how Miss Havisham is! I have taken to the sofa with my staylace cut, and have lain there hours, insensible, with my head over the side, and my hair all down, and my feet I don't know where --'
+
+('Much higher than your head, my love,' said Mr Camilla.)
+
+'I have gone off into that state, hours and hours, on account of Matthew's strange and inexplicable conduct, and nobody has thanked me.'
+
+'Really I must say I should think not!' interposed the grave lady.
+
+'You see, my dear,' added Miss Sarah Pocket (a blandly vicious personage), 'the question to put to yourself is, who did you expect to thank you, my love?'
+
+'Without expecting any thanks, or anything of the sort,' resumed Camilla, 'I have remained in that state, hours and hours, and Raymond is a witness of the extent to which I have choked, and what the total inefficacy of ginger has been, and I have been heard at the pianoforte-tuner's across the street, where the poor mis- taken children have even supposed it to be pigeons cooing at a distance -- and now to be told --' Here Camilla put her hand to her throat, and began to be quite chemical as to the formation of new combinations there.
+
+When this same Matthew was mentioned, Miss Havisham stopped me and herself, and stood looking at the speaker. This change had a great influence in bringing Camilla's chemistry to a sudden end.
+
+'Matthew will come and see me at last,' said Miss Havisham, sternly, 'when I am laid on that table. That will be his place -- there,' striking the table with her stick, 'at my head! And yours will be there! And your husband's there! And Sarah Pocket's there! And Georgiana's there! Now you all know where to take your stations when you come to feast upon me. And now go!'
+
+At the mention of each name, she had struck the table with her stick in a new place. She now said, 'Walk me, walk me!' and we went on again.
+
+'I suppose there's nothing to be done,' exclaimed Camilla, 'but comply and depart. It's something to have seen the object of one's love and duty, for even so short a time. I shall think of it with a melancholy satisfuction when I wake up in the night. I wish Matthew could have that comfort, but he sets it at defiance. I am determined not to make a display of my feelings, but it's very hard to be told one wants to feast on one's relations -- as if one was a Giant -- and to be told to go. The bare idea!'
+
+Mr Camilla interposing, as Mrs Camilla laid her hand upon her heaving bosom, that lady assumed an unnatural fortitude of manner which I supposed to be expressive of an intention to drop and choke when out of view, and kissing her hand to Miss Havis- ham, was escorted forth. Sarah Pocket and Georgiana contended who should remain last; but, Sarah was too knowing to be out- done, and ambled round Georgiana with that artful slipperiness, that the latter was obliged to take precedence. Sarah Pocket then made her separate effect of departing with 'Bless you, Miss Havis- ham dear!' and with a smile of forgiving pity on her walnut-shell countenance for the weaknesses of the rest.
+
+While Estella was away lighting them down, Miss Havisham still walked with her hand on my shoulder, but more and more slowly. At last she stopped before the fire, and said, after muttering and looking at it some seconds:
+
+'This is my birthday, Pip.'
+
+I was going to wish her many happy returns, when she lifted her stick.
+
+'I don't suffer it to be spoken of. I don't suffer those who were here just now, or any one, to speak of it. They come here on the day, but they dare not refer to tt.'
+
+Of course I made no further effort to refer to it.
+
+'On this day of the year, long before you were born, this heap of decay,' stabbing with her crutched stick at the pile of cobwebs on the table but not touching it, 'was brought here. It and I have worn away together. The mice have gnawed at it, and sharper teeth than teeth of mice have gnawed at me.'
+
+She held the head of her stick against her heart as she stood looking at the table; she in her once white dress, all yellow and withered; the once white cloth all yellow and withered; everything around, in a state to crumble under a touch.
+
+'When the ruin is complete,' said she, with a ghastly look, 'and when they lay me dead, in my bride's dress on the bride's table -- which shall be done, and which will be the finished curse upon him -- so much the better if it is done on this day!'
+
+She stood looking at the table as if she stood looking at her own figure lying there. I remained quiet. Estella returned, and she too remained quiet. It seemed to me that we continued thus for a long time. In the heavy air of the room, and the heavy darkness that brooded in its remoter corners, I even had an alarming fancy that Estella and I might presently begin to decay.
+
+At length, not coming out of her distraught state by degrees, but in an instant, Miss Havisham said, 'Let me see you two play cards; why have you not begun?' With that, we returned to her room, and sat down as before; I was beggared, as before; and again, as before, Miss Havisham watched us all the time, directed my attention to Estella's beauty, and made me notice it the more by trying her jewels on Estella's breast and hair.
+
+Estella, for her part, likewise treated me as before; except that she did not condescend to speak. When we had played some half- dozen games, a day was appointed for my return, and I was taken down into the yard to be fed in the former dog-like manner. There, too, I was again left to wander about as I liked.
+
+It is not much to the purpose whether a gate in that garden wall which I had scrambled up to peep over on the last occasion was, on that last occasion, open or shut. Enough that I saw no gate then, and that I saw one now. As it stood open, and as I knew that Estella had let the visitors out -- for, she had returned with the keys in her hand -- I strolled into the garden and strolled all over it. It was quite a wilderness, and there were old melon-frames and cucumber-frames in it, which seemed in their decline to have pro- duced a spontaneous growth of weak attempts at pieces of old hats and boots, with now and then a weedy offshoot into the likeness of a battered saucepan.
+
+Men I had exhausted the garden, and a greenhouse with nothing in it but a fallen-down grape-vine and some bottles, I found myself in the dismal corner upon which I had looked out of window.r Never questioning for a moment that the house was now empty, I looked in at another window, and found myself, to my great surprise, exchanging a broad stare with a pale young gentleman with red eyelids and light hair.
+
+This pale young gentleman quickly disappeared, and re-ap- peared beside me. He had been at his books when I had found myself staring at him, and I now saw that he was inky.
+
+'Halloa!' said he, 'young fellow! '
+
+Halloa being a general observation which I had usually observed to be best answered by itself, I said, 'Halloa!' politely omitting young fellow.
+
+'Who let you in?' said he.
+
+'Miss Estella.'
+
+'Who gave you leave to prowl about?'
+
+'Miss Estella.'
+
+'Come and fight,' said the pale young gentleman.
+
+What could I do but follow him? I have often asked myself the question since: but, what else could I do? His manner was so final and I was so astonished, that I followed where he led, as if I had been under a spell.
+
+'Stop a minute, though,' he said, wheeling round before we had gone many paces. 'I ought to give you a reason for fighting, too. There it is!' In a most irritating manner he instantly slapped his hands against one another, daintily flung one of his legs up behind him, pulled my hair, slapped his hands again, dipped his head, and butted it into my stomach.
+
+The bull-like proceeding last mentioned, besides that it was un- questionably to be regarded in the light of a liberty, was par- ticularly disagreeable just after bread and meat. I therefore hit out at him and was going to hit out again, when he said, 'Ahal Would you? ' and began dancing backwards and forwards in a manner quite unparalleled within my limited experience.
+
+'Laws of the game!' said he. Here, he skipped from his left leg on to his right. 'Regular rules!' Here, he skipped from his right leg on to his left. 'Come to the ground, and go through the pre- liminaries!' Here, he dodged backwards and forwards, and did all sorts of things while I looked helplessly at him.
+
+I was secretly afraid of him when I saw him so dexterous; but, I felt morally and physically convinced that his light head of hair could have had no business in the pit of my stomach, and that I had a right to consider it irrelevant when so obtruded on my atten- tion. Therefore, I followed him without a word, to a retired nook of the garden, formed by the junction of two walls and screened by some rubbish. On his asking me if I was satisfied with the ground, and on my replying Yes, he begged my leave to absent himself for a moment, and quickly returned with a bottle of water and a sponge dipped in vinegar. 'Available for both,' he said, placing these against the wall. And then fell to pulling off, not only his jacket and waistcoat, but his shirt too, in a manner at once light-hearted, businesalike, and bloodthirsty.
+
+Although he did not look very healthy -- having pimples on his face, and a breaking out at his mouth -- these dreadful prepara- tions quite appalled me. I judged him to be about my own age, but he was much taller, and he had a way of spinning himself about that was full of appearance. For the rest, he was a young gentle- man in a grey suit (when not denuded for battle), with his elbows, knees, wrists, and heels, considerably in advance of the rest of him as to development.
+
+My heart fuiled me when I saw him squaring at me with every demonstration of mechanical nicety, and eyeing my anatomy as if he were minutely choosing his bone. I never have been so sur- prised in my life, as I was when I let out the first blow, and saw him lying on his back, looking up at me with a bloody nose and his face exceedingly fore-shortened.
+
+But, he was on his feet directly, and after sponging himself with a great show of dexterity began squaring again. The second greatest surprise I have ever had in my life was seeing him on his back again, looking up at me out of a black eye.
+
+His spirit inspired me with great respect. He seemed to have no strength, and he never once hit me hard, and he was always knocked down; but, he would be up again in a moment, sponging himself or drinking out of the water-bottle, with the greatest satisfaction in seconding himself according to form, and then came at me with an air and a show that made me believe he really was going to do for me at last. He got heavily bruised, for I am sorry to record that the more I hit him, the harder I hit him; but, he came up again and again and again, until at last he got a bad fall with the back of his head against the wall. Even after that crisis in our affairs, he got up and turned round and round confusedly a few times, not knowing where I was; but finally went on his knees to his sponge and threw it up: at the same time panting out, 'That means you have won.'
+
+He seemed so brave and innocent, that although I had not pro- posed the contest I felt but a gloomy satisfuction in my victory. Indeed, I go so far as to hope that I regarded myself while dressing, as a species of savage young wolf, or other wild beast. However, I got dressed, darkly wiping my sanguinary face at intervals, and I said, 'Can I help you?' and he said 'No thankee,' and I said 'Good afternoon,' and he said 'Same to you.'
+
+When I got into the court-yard, I found Estella waiting with the keys. But, she neither asked me where I had been, nor why I had kept her waiting; and there was a bright flush upon her face, as though something had happened to delight her. Instead of going straight to the gate, too, she stepped back into the passage, and beckoned me.
+
+'Come here! You may kiss me, if you like.'
+
+I kissed her cheek as she turned it to me. I think I would have gone through a great deal to kiss her cheek. But, I felt that the kiss was given to the coarse common boy as a piece of money might have been, and that it was worth nothing.
+
+What with the birthday visitors, and what with the cards, and what with the fight, my stay had lasted so long, that when I neared home the light on the spit of sand off the point on the marshes was gleaming against a black night-sky, and Joe's furnace was flinging a path of fire across the road.

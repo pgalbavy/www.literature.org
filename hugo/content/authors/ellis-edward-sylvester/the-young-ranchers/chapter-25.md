@@ -1,0 +1,62 @@
+---
+title: "Chapter 25 - The Prairie Duel"
+weight: 25
+aliases:
+  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-25.html"
+---
+
+Warren Starr could have hugged his pony in his transport of delight. Until a moment before he was sure several of the Sioux were upon him; when, wheeling about, he was confronted by Jack, whom he had been desirous of meeting above every other person or animal in the world.
+
+The action of the horse he understood. On the sudden flight of his master he had attempted to follow him among the rocks and trees of the ridge; the Indians, in the flurry of the occasion, paying no attention to him. Failing, he was making his way back to the open prairie, when the sight of his master sent him galloping after him; Warren being too panic-stricken to suspect the truth until he was well-nigh run down by the faithful animal.
+
+"Heaven bless you, Jack!" he exclaimed, with glowing face and joyous heart; "you are in the nick of time."
+
+Saddle and trappings were unharmed, though the tapering limbs of the creature had been scratched and cut by his attempt to follow his master. The youth was in the saddle in a twinkling, and, but for the sad situation of Tim Brophy, he would have uttered a shout of triumph.
+
+For in truth he felt safe, even though the hostiles were dangerously near. Remembering this, he rode farther out from the ridge, and whooped and swung his arms at the Indian ponies, who dashed still farther out on the plain.
+
+It was inevitable that this tumult should become known to the captors of Tim Brophy. Young Starr expected it, and therefore was not surprised when he saw the figures of several warriors at the base of the ridge. He could not forbear swinging his Winchester over his head and taunting them. They replied with several shots, but the distance was too great for Warren to feel any alarm. He, too, discharged his gun at the group, and acted as if he meant to challenge them to come out and attack him.
+
+If such were his intentions, the challenge was accepted. Several warriors ran out on the prairie, calling to their ponies, in order that they might mount and take up the pursuit. Their action caused the youth no alarm, for the test of speed had already been made, and he feared none of the Indian animals.
+
+The latter may have been under good discipline when their masters were astride of them, but they showed anything but obedience now that they were free from their control. They kept trotting about in circles, and avoided the warriors with a persistency that must have been exasperating to them.
+
+Only one displayed consideration for his master. He was among the fleetest, and after some coy dallying he stood still until the athletic Sioux came beside him. He vaulted upon his back, and then accepted the seeming challenge of the youth.
+
+The latter had checked his steed at a safe distance on the snowy plain, and confronted the Indian party. Looking beyond the warrior nearest him, he strove to catch sight of Tim Brophy; but he was too far off, and the trees interfered with his vision. Before he could continue the scrutiny long, the mounted Sioux demanded his attention.
+
+Prudence would have suggested that now, since young Starr was well mounted, he should take no chances, but scurry away at the top of his speed, leaving the discomfited warrior to nurse his chagrin over the clever trick played upon him.
+
+But the young rancher saw no reason why he should flee from a single buck, no better mounted or armed than himself. He had had enough experience in the Northwest to understand those people well, and thought he knew how to take care of himself. No, he would fight him; and now opened a most extraordinary prairie duel between Warren Starr and his dusky enemy.
+
+The youth glanced at his Winchester, and saw that it was all right, as was the case with his revolver. His saddle was firmly cinched in place, Jack was at his best, and what cared he for a single Indian, even though he was a warrior that had taken the scalp of more than one unoffending pioneer!
+
+Jack stood as motionless as a statue, with his nose toward his enemy. A gentle wind blowing across the prairie lifted his luxuriant mane slightly from his neck and swung his heavy tail to one side. His head was high, and the nostrils seemed to breathe defiance to the dusky foe, who approached at a swinging gallop, as though he meant to ride down the animal and rider.
+
+But he held no such intention. The Sioux required no one to tell him that that stationary figure, sitting so firmly in his saddle, meant to fight.
+
+While more than a hundred yards still separated the combatants the Sioux horseman wheeled to the right, and, without checking his speed, started to describe a long circle around the youth. The latter spoke softly to Jack, who slowly turned, so as to keep his head continually pointed toward the enemy. Evidently the animal understood the situation, and was competent to do his part.
+
+The Sioux at the base of the ridge had given over their effort for the time to capture their ponies. All their attention was centred on the two horsemen out on the prairie.
+
+As yet the Indian made no move to fire. Warren was looking for him to throw himself over the side of his animal, and aim from under his neck, screening his own body meanwhile from the bullet of the young rancher. Instead of doing so, however, he described a complete circle about Warren, coming back to his starting point, while Jack continued to move around, as if on a pivot, keeping his head always facing his foe.
+
+The warrior was starting on his second round, when, without any perceptible movement, he discharged his gun. Warren saw the blue puff of smoke, the report sounding dull and far away in the wintry air.
+
+The bullet did not pass nigh enough for him to be aware how close it was. It would seem that the Indian ought to have done better, for it was noticeable from where Warren sat that in completing his circle he had shortened it, and was now several rods nearer than when he set out to circumnavigate him.
+
+"It is no more than fair to return the compliment," thought Warren, raising his Winchester, taking careful aim, and pulling the trigger. Truth compels us to say, however, that his shot went as wide of the mark as the one aimed at him. Thus far honors were equal between them.
+
+The Sioux continued his trip around the central object, though what he expected or hoped to accomplish by this curious proceeding was more than his antagonist could conjecture.
+
+The advantage during the performance possibly was with young Starr; for, by keeping the nose of Jack pointed toward the other he offered the least possible target to the foe, while the course of the Indian compelled him to hold his pony broadside, himself remaining a conspicuous object on his back.
+
+"I think I can shorten this business," reflected Starr, "by another shot or two. I am standing still, and if I can't bring that fellow off his horse I'm of little account."
+
+But the Sioux was more watchful than he suspected. Hardly was the Winchester raised when, presto! the warrior disappeared. He had flung himself far on the other side of his pony, and was capable of maintaining that situation while making the circuit of the youth.
+
+The latter held his fire. He was confident of being able to hit the other animal, but to his mind that would be taking a dishonorable advantage, though none knew better than he that he was dealing with an enemy to whom treachery was a cardinal virtue.
+
+The horse showed no decrease of his speed, but continued galloping forward with the easy swing shown by the trained circus animal when an equestrian is giving an exhibition. That the rider, from his position on the other side of his body, with his moccason extended over the spine of the animal, was keeping close watch of the youth the latter did not need to be told.
+
+He must have seen Warren, after holding his weapon levelled for a moment, lower it again, disappointed at the vanishing target. The next moment the Sioux discharged his weapon.

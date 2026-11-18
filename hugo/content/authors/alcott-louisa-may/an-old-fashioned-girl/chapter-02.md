@@ -1,0 +1,242 @@
+---
+title: "Chapter 2 - New Fashions"
+weight: 3
+aliases:
+  - "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-02.html"
+---
+
+“I'M going to school this morning; so come up and get ready,” said Fanny, a day or two after, as she left the late breakfast-table.
+
+“You look very nice; what have you got to do?” asked Polly, following her into the hall.
+
+“Prink half an hour, and put on her wad,” answered the irreverent Tom, whose preparations for school consisted in flinging his cap on to his head, and strapping up several big books, that looked as if they were sometimes used as weapons of defence.
+
+“What is a wad?” asked Polly, while Fanny marched up without deigning any reply.
+
+“Somebody's hair on the top of her head in the place where it ought not to be;” and Tom went whistling away with an air of sublime indifference as to the state of his own “curly pow.”
+
+“Why must you be so fine to go to school?” asked Polly, watching Fan arrange the little frizzles on her forehead, and settle the various streamers and festoons belonging to her dress.
+
+“All the girls do; and it's proper, for you never know who you may meet. I'm going to walk, after my lessons, so I wish you'd wear your best hat and sack,” answered Fanny, trying to stick her own hat on at an angle which defied all the laws of gravitation.
+
+“I will, if you don't think this is nice enough. I like the other best, because it has a feather; but this is warmer, so I wear it every day.” And Polly ran into her own room, to prink also, fearing that her friend might be ashamed of her plain costume. “Won't your hands be cold in kid gloves?” she said, as they went down the snowy street, with a north wind blowing in their faces.
+
+“Yes, horrid cold; but my muff is so big, I won't carry it. Mamma won't have it cut up, and my ermine one must be kept for best;” and Fanny smoothed her Bismark kids with an injured air.
+
+“I suppose my gray squirrel is ever so much too big; but it's nice and cosy, and you may warm your hands in it if you want to,” said Polly, surveying her new woollen gloves with a dissatisfied look, though she had thought them quite elegant before.
+
+“Perhaps I will, by and by. Now, Polly, don't you be shy. I'll only introduce two or three of the girls; and you need n't mind old Monsieur a bit, or read if you don't want to. We shall be in the anteroom; so you 'll only see about a dozen, and they will be so busy, they won't mind you much.”
+
+“I guess I won't read, but sit and look on. I like to watch people, everything is so new and queer here.”
+
+But Polly did feel and look very shy, when she was ushered into a room full of young ladies, as they seemed to her, all very much dressed, all talking together, and all turning to examine the new-comer with a cool stare which seemed to be as much the fashion as eye-glasses. They nodded affably when Fanny introduced her, said something civil, and made room for her at the table round which they sat waiting for Monsieur. Several of the more frolicsome were imitating the Grecian Bend, some were putting their heads together over little notes, nearly all were eating confectionery, and the entire twelve chattered like magpies. Being politely supplied with caramels, Polly sat looking and listening, feeling very young and countrified among these elegant young ladies.
+
+“Girls, do you know that Carrie has gone abroad? There has been so much talk, her father could n't bear it, and took the whole family off. Is n't that gay?” said one lively damsel, who had just come in.
+
+“I should think they'd better go. My mamma says, if I'd been going to that school, she'd have taken me straight away,” answered another girl, with an important air.
+
+“Carrie ran away with an Italian music-teacher, and it got into the papers, and made a great stir,” explained the first speaker to Polly, who looked mystified.
+
+“How dreadful!” cried Polly.
+
+“I think it was fun. She was only sixteen, and he was perfectly splendid; and she has plenty of money, and every one talked about it; and when she went anywhere, people looked, you know, and she liked it; but her papa is an old poke, so he's sent them all away. It's too bad, for she was the jolliest thing I ever knew.”
+
+Polly had nothing to say to lively Miss Belle; but Fanny observed, “I like to read about such things; but it's so inconvenient to have it happen right here, because it makes it harder for us. I wish you could have heard my papa go on. He threatened to send a maid to school with me every day, as they do in New York, to be sure I come all right. Did you ever?” “That's because it came out that Carrie used to forge excuses in her mamma's name, and go promenading with her Oreste, when they thought her safe at school. Oh, was n't she a sly minx?” cried Belle, as if she rather admired the trick.
+
+“I think a little fun is all right; and there's no need of making a talk, if, now and then, some one does run off like Carrie. Boys do as they like; and I don't see why girls need to be kept so dreadfully close. I'd like to see anybody watching and guarding me!” added another dashing young lady.
+
+“It would take a policeman to do that, Trix, or a little man in a tall hat,” said Fanny, slyly, which caused a general laugh, and made Beatrice toss her head coquettishly.
+
+“Oh, have you read 'The Phantom Bride'? It's perfectly thrilling! There 's a regular rush for it at the library; but some prefer 'Breaking a Butterfly.' Which do you like best?” asked a pale girl of Polly, in one of the momentary lulls which occurred.
+
+“I have n't read either.”
+
+“You must, then. I adore Guy Livingston's books, and Yates's. 'Ouida's' are my delight, only they are so long, I get worn out before I'm through.”
+
+“I have n't read anything but one of the Muhlbach novels since I came. I like those, because there is history in them,” said Polly, glad to have a word to say for herself.
+
+“Those are well enough for improving reading; but I like real exciting novels; don't you?”
+
+Polly was spared the mortification of owning that she had never read any, by the appearance of Monsieur, a gray-headed old Frenchman, who went through his task with the resigned air of one who was used to being the victim of giggling school-girls. The young ladies gabbled over the lesson, wrote an exercise, and read a little French history. But it did not seem to make much impression upon them, though Monsieur was very ready to explain; and Polly quite blushed for her friend, when, on being asked what famous Frenchman fought in our Revolution, she answered Lamartine, instead of Lafayette.
+
+The hour was soon over; and when Fan had taken a music lesson in another room, while Polly looked on, it was time for recess. The younger girls walked up and down the court, arm in arm, eating bread an butter; others stayed in the school-room to read and gossip; but Belle, Trix, and Fanny went to lunch at a fashionable ice-cream saloon near by, and Polly meekly followed, not daring to hint at the ginger-bread grandma had put in her pocket for luncheon. So the honest, brown cookies crumbled away in obscurity, while Polly tried to satisfy her hearty appetite on one ice and three macaroons.
+
+The girls seemed in great spirits, particularly after they were joined by a short gentleman with such a young face that Polly would have called him a boy, if he had not worn a tall beaver. Escorted by this impressive youth, Fanny left her unfortunate friends to return to school, and went to walk, as she called a slow promenade down the most crowded streets. Polly discreetly fell behind, and amused herself looking into shop-windows, till Fanny, mindful of her manners, even at such an interesting time, took her into a picture gallery, and bade her enjoy the works of art while they rested. Obedient Polly went through the room several times, apparently examining the pictures with the interest of a connoisseur, and trying not to hear the mild prattle of the pair on the round seat. But she could n't help wondering what Fan found so absorbing in an account of a recent German, and why she need promise so solemnly not to forget the concert that afternoon.
+
+When Fanny rose at last, Polly's tired face reproached her; and taking a hasty leave of the small gentleman, she turned homeward, saying, confidentially, as she put one hand in Polly's muff, “Now, my dear, you must n't say a word about Frank Moore, or papa will take my head off. I don't care a bit for him, and he likes Trix; only they have quarrelled, and he wants to make her mad by flirting a little with me. I scolded him well, and he promised to make up with her. We all go to the afternoon concerts, and have a gay time, and Belle and Trix are to be there to-day; so just keep quiet, and everything will be all right.”
+
+“I'm afraid it won't,” began Polly, who, not being used to secrets, found it very hard to keep even a small one.
+
+“Don't worry, child. It's none of our business; so we can go and enjoy the music, and if other people flirt, it won't be our fault,” said Fanny, impatiently.
+
+“Of course not; but, then, if your father don't like you to do so, ought you to go?”
+
+“I tell mamma, and she don't care. Papa is fussy, and grandma makes a stir about every blessed thing I do. You will hold your tongue, won't you?”
+
+“Yes; I truly will; I never tell tales.” And Polly kept her word, feeling sure Fan did n't mean to deceive her father, since she told her mother everything.
+
+“Who are you going with?” asked Mrs. Shaw, when Fanny mentioned that it was concert-day, just before three o'clock.
+
+“Only Polly; she likes music, and it was so stormy I could n't go last week, you know,” answered Fan; adding, as they left the house again, “If any one meets us on the way, I can't help it, can I?”
+
+“You can tell them not to, can't you?”
+
+“That's rude. Dear me! here's Belle's brother Gus he always goes. Is my hair all right, and my hat?”
+
+Before Polly could answer, Mr. Gus joined them as a matter of course, and Polly soon found herself trotting on behind, feeling that things were not “all right,” though she did n't know how to mend them. Being fond of music, she ignorantly supposed that every one else went for that alone, and was much disturbed by the whispering that went on among the young people round her. Belle and Trix were there in full dress; and, in the pauses between different pieces, Messrs. Frank and Gus, with several other “splendid fellows,” regaled the young ladies with college gossip, and bits of news full of interest, to judge from the close attention paid to their eloquent remarks. Polly regarded these noble beings with awe, and they recognized her existence with the condescension of their sex; but they evidently considered her only “a quiet little thing,” and finding her not up to society talk, blandly ignored the pretty child, and devoted themselves to the young ladies. Fortunately for Polly, she forgot all about them in her enjoyment of the fine music, which she felt rather than understood, and sat listening with such a happy face, that several true music-lovers watched her smilingly, for her heart gave a blithe welcome to the melody which put the little instrument in tune. It was dusk when they went out, and Polly was much relieved to find the carriage waiting for them, because playing third fiddle was not to her taste, and she had had enough of it for one day.
+
+“I'm glad those men are gone; they did worry me so talking, when I wanted to hear,” said Polly, as they rolled away.
+
+“Which did you like best?” asked Fanny, with a languid air of superiority.
+
+“The plain one, who did n't say much; he picked up my muff when it tumbled down, and took care of me in the crowd; the others did n't mind anything about me.”
+
+“They thought you were a little girl, I suppose.”
+
+“My mother says a real gentleman is as polite to a little girl as to a woman; so I like Mr. Sydney best, because he was kind to me.”
+
+“What a sharp child you are, Polly. I should n't have thought you'd mind things like that,” said Fanny, beginning to understand that there may be a good deal of womanliness even in a little girl.
+
+“I'm used to good manners, though I do live in the country,” replied Polly, rather warmly, for she did n't like to be patronized even by her friends.
+
+“Grandma says your mother is a perfect lady, and you are just like her; so don't get in a passion with those poor fellows, and I'll see that they behave better next time. Tom has no manners at all, and you don't complain of him,” added Fan, with a laugh.
+
+“I don't care if he has n't; he's a boy, and acts like one, and I can get on with him a great deal better than I can with those men.”
+
+Fanny was just going to take Polly to task for saying “those men” in such a disrespectful tone, when both were startled by a smothered “Cock-a-doodle-doo!” from under the opposite seat.
+
+“It's Tom!” cried Fanny; and with the words out tumbled that incorrigible boy, red in the face, and breathless with suppressed laughter. Seating himself, he surveyed the girls as if well satisfied with the success of his prank, and waiting to be congratulated upon it. “Did you hear what we were saying?” demanded Fanny, uneasily.
+
+“Oh, did n't I, every word?” And Tom exulted over them visibly.
+
+“Did you ever see such a provoking toad, Polly? Now, I suppose you'll go and tell papa a great story.”
+
+“P'r'aps I shall, and p'r'aps I shan't. How Polly did hop when I crowed! I heard her squeal, and saw her cuddle up her feet.”
+
+“And you heard us praise your manners, did n't you?” asked Polly, slyly.
+
+“Yes, and you liked'em; so I won't tell on you,” said Tom, with a re-assuring nod.
+
+“There's nothing to tell.”
+
+“Ain't there, though? What do you suppose the governor will say to you girls going on so with those dandies? I saw you.”
+
+“What has the Governor of Massachusetts to do with us?” asked Polly, trying to look as if she meant what she said.
+
+“Pooh! you know who I mean; so you need n't try to catch me up, as grandma does.”
+
+“Tom, I'll make a bargain with you,” cried Fanny, eagerly. “It was n't my fault that Gus and Frank were there, and I could n't help their speaking to me. I do as well as I can, and papa need n't be angry; for I behave ever so much better than some of the girls. Don't I, Polly?”
+
+“Bargain?” observed Tom, with an eye to business.
+
+“If you won't go and make a fuss, telling what you'd no right to hear it was so mean to hide and listen; I should think you'd be ashamed of it! I'll help you tease for your velocipede, and won't say a word against it, when mamma and granny beg papa not to let you have it.”
+
+“Will you?” and Tom paused to consider the offer in all its bearings.
+
+“Yes, and Polly will help; won't you?”
+
+“I'd rather not have anything to do with it; but I'll be quiet, and not do any harm.”
+
+“Why won't you?” asked Tom, curiously.
+
+“Because it seems like deceiving.”
+
+“Well, papa need n't be so fussy,” said Fan, petulantly.
+
+“After hearing about that Carrie, and the rest, I don't wonder he is fussy. Why don't you tell right out, and not do it any more, if he don't want you to?” said Polly, persuasively.
+
+“Do you go and tell your father and mother everything right out?”
+
+“Yes, I do; and it saves ever so much trouble.”
+
+“Ain't you afraid of them?”
+
+“Of course I'm not. It's hard to tell sometimes; but it's so comfortable when it's over.”
+
+“Let's!” was Tom's brief advice.
+
+“Mercy me! what a fuss about nothing!” said Fanny, ready to cry with vexation.
+
+“T is n't nothing. You know you are forbidden to go gallivanting round with those chaps, and that's the reason you're in a pucker now. I won't make any bargain, and I will tell,” returned Tom, seized with a sudden fit of moral firmness.
+
+“Will you if I promise never, never to do so any more?” asked Fanny, meekly; for when Thomas took matters into his own hands, his sister usually submitted in spite of herself.
+
+“I'll think about it; and if you behave, maybe I won't do it at all. I can watch you better than papa can; so, if you try it again, it's all up with you, miss,” said Tom, finding it impossible to resist the pleasure of tyrannizing a little when he got the chance.
+
+“She won't; don't plague her any more, and she will be good to you when you get into scrapes,” answered Polly, with her arm round Fan.
+
+“I never do; and if I did, I should n't ask a girl to help me out.”
+
+“Why not? I'd ask you in a minute, if I was in trouble,” said Polly, in her confiding way.
+
+“Would you? Well, I'd put you through, as sure as my name's Tom Shaw. Now, then, don't slip, Polly,” and Mr. Thomas helped them out with unusual politeness, for that friendly little speech gratified him. He felt that one person appreciated him; and it had a good effect upon manners and temper made rough and belligerent by constant snubbing and opposition.
+
+After tea that evening, Fanny proposed that Polly should show her how to make molasses candy, as it was cook's holiday, and the coast would be clear. Hoping to propitiate her tormentor, Fan invited Tom to join in the revel, and Polly begged that Maud might sit up and see the fun; so all four descended to the big kitchen, armed with aprons, hammers, spoons, and pans, and Polly assumed command of the forces. Tom was set to cracking nuts, and Maud to picking out the meats, for the candy was to be “tip-top.” Fan waited on Polly cook, who hovered over the kettle of boiling molasses till her face was the color of a peony. “Now, put in the nuts,” she said at last; and Tom emptied his plate into the foamy syrup, while the others watched with deep interest the mysterious concoction of this well-beloved sweetmeat. “I pour it into the buttered pan, you see, and it cools, and then we can eat it,” explained Polly, suiting the action to the word.
+
+“Why, it's all full of shells!” exclaimed Maud, peering into the pan.
+
+“Oh, thunder! I must have put'em in by mistake, and ate up the meats without thinking,” said Tom, trying to conceal his naughty satisfaction, as the girls hung over the pan with faces full of disappointment and despair.
+
+“You did it on purpose, you horrid boy! I'll never let you have anything to do with my fun again!” cried Fan, in a passion, trying to catch and shake him, while he dodged and chuckled in high glee.
+
+Maud began to wail over her lost delight, and Polly gravely poked at the mess, which was quite spoilt. But her attention was speedily diverted by the squabble going on in the corner; for Fanny, forgetful of her young-ladyism and her sixteen years, had boxed Tom's ears, and Tom, resenting the insult, had forcibly seated her in the coal-hod, where he held her with one hand while he returned the compliment with the other. Both were very angry, and kept twitting one another with every aggravation they could invent, as they scolded and scuffled, presenting a most unlovely spectacle.
+
+Polly was not a model girl by any means, and had her little pets and tempers like the rest of us; but she did n't fight, scream, and squabble with her brothers and sisters in this disgraceful way, and was much surprised to see her elegant friend in such a passion. “Oh, don't! Please, don't! You'll hurt her, Tom! Let him go, Fanny! It's no matter about the candy; we can make some more!” cried Polly, trying to part them, and looking so distressed, that they stopped ashamed, and in a minute sorry that she should see such a display of temper.
+
+“I ain't going to be hustled round; so you'd better let me alone, Fan,” said Tom, drawing off with a threatening wag of the head, adding, in a different tone, “I only put the shells in for fun, Polly. You cook another kettleful, and I'll pick you some meats all fair. Will you?”
+
+“It's pretty hot work, and it's a pity to waste things; but I'll try again, if you want me to,” said Polly, with a patient sigh, for her arms were tired and her face uncomfortably hot.
+
+“We don't want you; get away!” said Maud, shaking a sticky spoon at him.
+
+“Keep quiet, cry-baby. I'm going to stay and help; may n't I, Polly?”
+
+“Bears like sweet things, so you want some candy, I guess. Where is the molasses? We've used up all there was in the jug,” said Polly, good-naturedly, beginning again.
+
+“Down cellar; I'll get it;” and taking the lamp and jug, Tom departed, bent on doing his duty now like a saint.
+
+The moment his light vanished, Fanny bolted the door, saying, spitefully, “Now, we are safe from any more tricks. Let him thump and call, it only serves him right; and when the candy is done, we'll let the rascal out.”
+
+“How can we make it without molasses?” asked Polly, thinking that would settle the matter.
+
+“There's plenty in the store-room. No; you shan't let him up till I'm ready. He's got to learn that I'm not to be shaken by a little chit like him. Make your candy, and let him alone, or I'll go and tell papa, and then Tom will get a lecture.”
+
+Polly thought it was n't fair; but Maud clamored for her candy, and finding she could do nothing to appease Fan, Polly devoted her mind to her cookery till the nuts were safely in, and a nice panful set in the yard to cool. A few bangs at the locked door, a few threats of vengeance from the prisoner, such as setting the house on fire, drinking up the wine, and mashing the jelly-pots, and then all was so quiet that the girls forgot him in the exciting crisis of their work.
+
+“He can't possibly get out anywhere, and as soon we've cut up the candy, we'll unbolt the door and run. Come and get a nice dish to put it in,” said Fan, when Polly proposed to go halves with Tom, lest he should come bursting in somehow, and seize the whole.
+
+When they came down with the dish in which to set forth their treat, and opened the back-door to find it, imagine their dismay on discovering that it was gone, pan, candy, and all, utterly and mysteriously gone!
+
+A general lament arose, when a careful rummage left no hopes; for the fates had evidently decreed at candy was not to prosper on this unpropitious night.
+
+“The hot pan has melted and sunk in the snow perhaps,” said Fanny, digging into the drift where it was left.
+
+“Those old cats have got it, I guess,” suggested Maud, too much overwhelmed by this second blow to howl as usual.
+
+“The gate is n't locked, and some beggar has stolen it. I hope it will do him good,” added Polly, turning from her exploring expedition.
+
+“If Tom could get out, I should think he'd carried it off; but not being a rat, he can't go through the bits of windows; so it was n't him,” said Fanny, disconsolately, for she began to think this double loss a punishment for letting angry passions rise, “Let's open the door and tell him about it,” proposed Polly.
+
+“He'll crow over us. No; we'll open it and go to bed, and he can come out when he likes. Provoking boy! if he had n't plagued us so, we should have had a nice time.”
+
+Unbolting the cellar door, the girls announced to the invisible captive that they were through, and then departed much depressed. Half-way up the second flight, they all stopped as suddenly as if they had seen a ghost; for looking over the banisters was Tom's face, crocky but triumphant, and in either hand a junk of candy, which he waved above them as he vanished, with the tantalizing remark, “Don't you wish you had some?”
+
+“How in the world did he get out?” cried Fanny, steadying herself after a start that nearly sent all three tumbling down stairs.
+
+“Coal-hole!” answered a spectral voice from the gloom above.
+
+“Good gracious! He must have poked up the cover, climbed into the street, stole the candy, and sneaked in at the shed-window while we were looking for it.”
+
+“Cats got it, did n't they?” jeered the voice in a tone that made Polly sit down and laugh till she could n't laugh any longer.
+
+“Just give Maud a bit, she's so disappointed. Fan and I are sick of it, and so will you be, if you eat it all,” called Polly, when she got her breath.
+
+“Go to bed, Maudie, and look under your pillow when you get there,” was the oracular reply that came down to them, as Tom's door closed after a jubilant solo on the tin pan.
+
+The girls went to bed tired out; and Maud slumbered placidly, hugging the sticky bundle, found where molasses candy is not often discovered. Polly was very tired, and soon fell asleep; but Fanny, who slept with her, lay awake longer than usual, thinking about her troubles, for her head ached, and the dissatisfaction that follows anger would not let her rest with the tranquillity that made the rosy face in the little round nightcap such a pleasant sight to see as it lay beside her. The gas was turned down, but Fanny saw a figure in a gray wrapper creep by her door, and presently return, pausing to look in. “Who is it?” she cried, so loud that Polly woke.
+
+“Only me, dear,” answered grandma's mild voice. “Poor Tom has got a dreadful toothache, and I came down to find some creosote for him. He told me not to tell you; but I can't find the bottle, and don't want to disturb mamma.”
+
+“It's in my closet. Old Tom will pay for his trick this time,” said Fanny, in a satisfied tone.
+
+“I thought he'd get enough of our candy,” laughed Polly; and then they fell asleep, leaving Tom to the delights of toothache and the tender mercies of kind old grandma.

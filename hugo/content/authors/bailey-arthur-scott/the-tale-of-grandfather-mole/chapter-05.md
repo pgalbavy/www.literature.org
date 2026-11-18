@@ -1,0 +1,32 @@
+---
+title: "Chapter 5 - Jimmy Rabbit Can't Wait"
+weight: 5
+aliases:
+  - "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-05.html"
+---
+
+AFTER telling Jimmy Rabbit that he would meet him on the other side of the duck-pond, Grandfather Mole waded into the water and started to swim across.
+
+Why he did that, instead of walking around on the shore, Jimmy Rabbit couldn't understand. He was so amazed that he stood still and stared at Grandfather Mole.
+
+One thing was certain: Grandfather Mole could travel much faster through the water than he could underground. His strong legs and his broad, spade-like feet helped to make him a fine swimmer. And Jimmy Rabbit had noticed for the first time that Grandfather Mole's hind feet were webbed. It was no wonder that he felt quite at home in the duck-pond, which was made for web-footed folk.
+
+Jimmy Rabbit was so interested in watching Grandfather Mole swim that he didn't start to run around the pond until the swimmer had almost reached the other side. Then Jimmy remembered suddenly that he had to meet Grandfather Mole over there. So he raced along the edge of the duck-pond at top speed. And since he was a very fast runner--for short distances--he met Grandfather Mole just as the old chap was crawling up the bank.
+
+"There!" Grandfather Mole exclaimed. "I almost beat you this time, young man! If you're going to take a morning stroll with me you'll have to step lively."
+
+Of course Jimmy Rabbit was too polite to explain that he had waited a long time while Grandfather Mole was tunnelling his way from the garden to the pond, and that he hadn't begun to run around the pond until Grandfather Mole had swum almost across it. He merely smiled and replied that he would do his best to keep up, for he shouldn't like to make Grandfather Mole wait, especially since he had invited Grandfather Mole to go walking with him.
+
+"You don't mind staying here in the sunshine, I hope, while my coat dries?" Grandfather Mole inquired. "As soon as it's dry we'll start for the meadow."
+
+Though Jimmy Rabbit was in a great hurry to reach the place where the clover grew he said that he would be glad to wait with Grandfather Mole. "The sun feels good on this cool morning," he observed. "And it's cheerful, too."
+
+"Do you really think so?" Grandfather Mole asked him. And when Jimmy Rabbit assured him that he did, Grandfather Mole muttered that it was the strangest thing he ever heard of. As for him, he much preferred the darkness of his cool, damp galleries under the ground. And the only reason why he wanted his coat to dry was so that the dirt wouldn't stick to it.
+
+It seemed to Jimmy Rabbit that Grandfather Mole's coat would never get dry enough to suit the old gentleman. But at last he announced that he was ready to stroll on. And when Jimmy Rabbit cried that he was ready, too, Grandfather Mole said, "Then let's be on our way! And I'll meet you----"
+
+"Where the clover grows!" Jimmy interrupted.
+
+Grandfather Mole had already buried his nose in the sand and was fast digging himself out of sight. And Jimmy thought that if he must wait for him again he would wait in a pleasant place.
+
+So Jimmy Rabbit hurried to the meadow. And as he lunched on luscious clover-tops he reflected that Grandfather Mole had a queer notion of taking a stroll with a friend. He made up his mind then and there that he would never again invite Grandfather Mole to walk with him.

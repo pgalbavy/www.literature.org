@@ -1,0 +1,16 @@
+---
+title: "Book 4 - Chapter 5"
+weight: 49
+aliases:
+  - "/authors/cather-willa/one-of-ours/book-04-chapter-05.html"
+---
+
+That night the Virginian, who berthed under Victor Morse, had an alarming attack of nose-bleed, and by morning he was so weak that he had to be carried to the hospital. The Doctor said they might as well face the facts; a scourge of influenza had broken out on board, of a peculiarly bloody and malignant type.* Everybody was a little frightened. Some of the officers shut themselves up in the smoking-room, and drank whiskey and soda and played poker all day, as if they could keep contagion out.
+
+Lieutenant Bird died late in the afternoon and was buried at sunrise the next day, sewed up in a tarpaulin, with an eighteen pound shell at his feet. The morning broke brilliantly clear and bitter cold. The sea was rolling blue walls of water, and the boat was raked by a wind as sharp as ice. Excepting those who were sick, the boys turned out to a man. It was the first burial at sea they had ever witnessed, and they couldn't help finding it interesting. The Chaplain read the burial service while they stood with uncovered heads. The Kansas band played a solemn march, the Swedish quartette sang a hymn. Many a man turned his face away when that brown sack was lowered into the cold, leaping indigo ridges that seemed so destitute of anything friendly to human kind. In a moment it was done, and they steamed on without him.
+
+The glittering walls of water kept rolling in, indigo, purple, more brilliant than on the days of mild weather. The blinding sunlight did not temper the cold, which cut the face and made the lungs ache. Landsmen began to have that miserable sense of being where they were never meant to be. The boys lay in heaps on the deck, trying to keep warm by hugging each other close. Everybody was seasick. Fanning went to bed with his clothes on, so sick he couldn't take off his boots. Claude lay in the crowded stern, too cold, too faint to move. The sun poured over them like flame, without any comfort in it. The strong, curling, foam-crested waves threw off the light like millions of mirrors, and their colour was almost more than the eye could bear. The water seemed denser than before, heavy like melted glass, and the foam on the edges of each blue ridge looked sharp as crystals. If a man should fall into them, he would be cut to pieces.
+
+The whole ocean seemed suddenly to have come to life, the waves had a malignant, graceful, muscular energy, were animated by a kind of mocking cruelty. Only a few hours ago a gentle boy had been thrown into that freezing water and forgotten. Yes, already forgotten; every one had his own miseries to think about.
+
+Late in the afternoon the wind fell, and there was a sinister sunset. Across the red west a small, ragged black cloud hurried,--then another, and another. They came up out of the sea,--wild, witchlike shapes that travelled fast and met in the west as if summoned for an evil conclave. They hung there against the afterglow, distinct black shapes, drawing together, devising something. The few men who were left on deck felt that no good could come out of a sky like that. They wished they were at home, in France, anywhere but here.

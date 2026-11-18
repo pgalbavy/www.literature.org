@@ -1,0 +1,112 @@
+---
+title: "Chapter 2 - Some Men"
+weight: 2
+aliases:
+  - "/authors/titus-harold/bruce-of-the-circle-a/chapter-02.html"
+---
+
+Ann Lytton ate alone--ate alone, but did not sit alone. She was the last patron of the dining room that evening, and, after Nora Brewster, the waitress, had surrounded her plate with an odd assortment of heavy side-dishes, she drew out a chair at the end of the table, seated herself, elbows on the limp, light linen, and, black eyes fast on the face of the other woman, pushed conversation.
+
+"From the East, ain't you?" she began, and Ann smiled assent.
+
+"New York?"
+
+"No, not New York," and the blue eyes met the black ones, running quickly over the pretty, dark-skinned face, the thick coils of chestnut hair, noting the big, kindly mouth, the peculiarly weak chin. Obviously, the girl was striving to pump the newcomer and on the realization some of the trouble retreated far into the blue eyes and Ann smiled in kindliness at Nora, as she parried the girl's direct questions.
+
+In another mood a part of her might have resented this blunt curiosity, but just now it came as a relief from a line of thought which had been too long sustained. And, after they had talked a few moments, the eastern woman found herself interested in the simplicity, the patent sincerity, of the other. The conversation flourished throughout the meal and by the time Ann had tasted and put aside the canned plums she had discovered much about Nora Brewster, while Nora, returning to the kitchen to tell the cook and the boy from the office all she had learned, awakened to the fact that she had found out nothing at all!
+
+Ann walked slowly from the dining room into the office to leave instructions about her trunk, but the room was empty and she went back to the door which stood open and looked out into the street. From across the way the mechanical piano continued its racket, and an occasional voice was lifted in song or laughter. She thought again of the shot, the running horse. She watched the shadowy figures passing to and fro behind the glazed windows of the saloon and between her brows came a frown. She drew a deep breath, held it a long instant, then let it slip quickly out, ending in a little catch of a cough. She closed one hand and let it fall into the other palm.
+
+"To-morrow at this time, I may know," she muttered.
+
+She would have turned away and climbed the stairs, then, but on her last glance into the street a moving blotch attracted her attention. She looked at it again, closer; it was approaching the hotel and, after a moment she discerned the outlines of a man walking, leading a horse. A peculiar quality about his movements, an undistinguished part of the picture, held her in the doorway an instant longer.
+
+Then, she saw that the man was carrying the limp figure of another and that he was coming directly toward her, striding into the circle of feeble light cast from the lamp on the post, growing more and more distinct with each step. A thrill ran through the woman, making her shudder as she drew back; the arms and legs of the figure that was being borne toward her swung so helplessly, as though they were boneless; the head, too, swayed from side to side. Yet these appearances, suggestive as they were of tragedy, did not form the influence which caused Ann's throat to tighten and her pulse to speed. She heard voices and footsteps as other men ran up. She drew back into the shadows of the hall.
+
+"What you got, Bruce?" one asked, in a tone of concern.
+
+"O, a small parcel of man meat," she heard the tall one explain casually, with something like amusement in his voice.
+
+"Who is it?"
+
+An answer was made, but the woman could not understand.
+
+"Oh, him!" Disdain was in the voice, as though there were no longer cause for apprehension, as if the potential consequence of the situation had been dissipated by identification of the unconscious figure.
+
+Other arrivals, fresh voices; out under the light a dozen men were clustered about the tall fellow and his burden.
+
+"Where'd you find him?" one asked.
+
+"Out at th' edge of town--in th' ditch. Abe, here,"--with a jerk of his head to indicate the sleek sorrel horse he led--"found him. He acted so damned funny he made me get off to see what it was, an', sure enough, here was Yavapai's most enthusiastic drinker, sleepin' in th' ditch!
+
+"Here, let me put him down on th' porch, there,"--elbowing his way through the knot about him. "He ain't much more man in pounds than he is in principle, but he weighs up considerable after packin' him all this way."
+
+The watching woman saw that his burden was a slight figure, short and slender, dressed roughly, with his clothing worn and torn and stained.
+
+"Why didn't you let Abe pack him?" a man asked, as the big cowboy, stooping gently, put the inert head and shoulders to the boards and slowly lowered the limp legs. He straightened, and, with a red handkerchief, whipped the dust from his shirt. Then, he hitched up his white goatskin chaps and looked into the face of his questioner and smiled.
+
+"Well, Tommy, Abe here ain't never had to carry a souse yet, an' I guess he won't have to so long as I'm around an' healthy. That right, Abe?"
+
+He reached out a hand and the sorrel, intelligent ears forward in inquiry, moved closer by a step to smell the fingers; then, allowed them to scratch the white patch on his nose.
+
+A chuckle of surprise greeted the man's remark.
+
+"Why, Bruce, to hear you talk anybody'd think that you close-herded your morals continual; that you was a 'Aid S'city' wagon boss; that lips that touch liquor should never--"
+
+"I ain't said nothin' to make you think that, Tommy Clary," the other replied, laughing at the upturned face of his challenger, who was short and pug-nosed and possessed of a mouth that refused to do anything but smile; who was completely over-shadowed and rendered top-heavy by a hat of astonishing proportions. "I drink," he went on, "like th' rest of us damn fools, but I don't think it's smart to do it. I think it is pretty much all nonsense, an' I think that when you drink you ought to associate with drinkin' folks an' let th' ones who have better sense alone.
+
+"That's why I never ride Abe to town when I figure I'm goin' to be doin' any hellin' around; that's why, if I have got drunk by mistake when I had him here, I've slept in town instead of goin' home. Abe, you see, Tommy, has got a good deal of white man in him for a horse. He'd carry me all right if I was drunk, if I asked him to; but I won't, because he's such a good horse that he ought to always have a mighty good man on his middle. When a man's drunk, he ain't good ... for nothin'. Like this here"--with a contemptuous movement of one booted foot to indicate the huddle of a figure which lay in the lamplight.
+
+"No, I don't make no claim to bein' a saint, Tommy. Good Lord, hombre, do you think, if I thought I was right decent all th' time, all through, I'd ever be seen swapping lies with any such ugly outcast as you are?"
+
+The others laughed again at that, and the tall man removed his hat to wipe the moisture from his forehead.
+
+Ann, watching from the shadows, lips pressed together, heart on a rampage from a fear that was at once groundless and natural, saw his fine profile against the lamp, as he laughed good-naturedly at the man he had jibed. His head was flung back boyishly, but about its poise, its lines, the way it was set on his sturdy neck, was an indication of superb strength, a fine mettle. His hair fell backward from the brow. It tended toward waviness and was dry and light in texture as well as in color, for the rays of the light were scattered and diffused as they shot through it. He was incredibly tall in his high-heeled riding boots, but his breadth was in proportion. The movements of his long arms, his finely moulded shoulders, his whole lithe torso were well measured, splendidly balanced, of that natural grace and assurance which marks the inherent leadership born in individuals. His voice went well with the rest of him, for it was smooth and deep and filled with capabilities of expression.
+
+"Well, if you think all us drunkards are such buzzard fodder, what are you packin' this around with you for?" Clary asked, after the laughter had subsided.
+
+The cowman looked down thoughtfully a moment and his face grew serious. He shook his head soberly.
+
+"This fellow's a cripple, boys; that's all. Just a cripple," he explained.
+
+"Cripple! He's about th' liveliest, most cantankerous, trouble-maker this country has had to watch since Bill Williams named his mountain!" a man in the group scoffed.
+
+"Yes, I know. His legs ain't broke or deformed; he can use both arms; his fool tongue has made us all pretty hot since we've knowed him. But he ain't right up here, in his head, boys. He's crippled there. There ain't no reason for a human bein' gettin' to be so nasty as he's got to be. It ain't natural. It's th' booze, Tommy, th' booze that's crippled him. He ought to be kept away from it until he's had a chance, but nobody's took enough interest in him or th' good of th' town to tend to that. We've just locked him up when he got too drunk an' turned him loose to hell some more when he was halfway sober. He ain't had nobody to look out for him, when he's needed it more 'n anything else.
+
+"I ain't blamin' nobody. Don't know as I'd looked out for him myself, if he hadn't looked so helpless, there 'n th' ditch, Gosh, any one of you'd take in a dog with a busted leg an' try to fix him up; if he bit at you an' scratched and tried to fight, you'd only feel sorrier for him. This feller ... he's kind of a dog, too. Maybe it'd be a good investment for us to look after him a little an' see if we can't set him on his feet. We've tried makin' an example of him; now let's try to treat him like any of you'd treat me, if I was down an' out."
+
+He looked down upon the figure on the porch; in his voice had been a fine humane quality that set the muscles of the listening woman's throat contracting.
+
+"Say, Bruce, he's bleedin'!"
+
+On the man's announced discovery the group outside again became compact about the unconscious man and the tall cowboy squatted beside him quickly.
+
+"Get back out of th' light, boys," he said, quietly, and the curious men moved. "Hum ... I'm a sheepherder, if somebody ain't nicked him in th' arm, boys! I'll be--
+
+"Say, he must of laid on that arm an' stopped th' blood. It's clotted.... Oh, damn! It's bleedin' worse. Say, I'll have to get him inside where we can have him fixed up before that breaks open again. Wonder how much he's bled--"
+
+He rose and moved to the door, pulled open the screen quickly. He made one step across the threshold and then paused between strides, for before him in the darkness of the hallway a woman's face stood out like a cameo. It was white, made whiter by the few feeble rays of the light outside that struggled into the entry; the eyes were great, dark splotches, the lips were parted; one hand was at the chin and about the whole suggested posture of her body was a tensity, an anxiety, a helplessness that startled the man ... that, and her beauty. For a moment they stood so, face to face, the one in silhouette, the other in black and white; the one surprised, only, but the other shrinking in terror.
+
+"I ... he ..."
+
+Then, giving no articulate coherence to the idea that was in his mind, Bruce Bayard stepped through the doorway to his left and entered the office, as though he had not seen the woman at all. He looked about, returned to the hallway, gazed almost absently at the stairway where he had seen that troubled countenance and which was now a blank, hesitated a moment and stepped out to join the others.
+
+"I heard somebody shoot, when we was comin' up from th' depot," someone was saying when Bayard broke in:
+
+"Nobody here. Anybody seen Charley?"
+
+"Here's his dad," Clary said, as a fat, wheezing man made his way importantly into the group.
+
+"Uncle, I want to get a room," Bayard said, "to take this here man to so I can wash him up an' look after his arm. He's been shot. I passed Doc on th' road goin' out when I come in, so I'll just try my hand as a veterinary myself. Can you fix me up?"
+
+"All right! Right here! Bring him in. I've got a room; a nice dollar room," the man wheezed as he stumped into the building. "No disturbance, mind, but I've got a room ... dollar room ..."--and the screen door slapped shut behind him.
+
+"He won't die on you, Bruce," the man with a moustache said, straightening, after inspecting the ragged, dirt-filled wound, and laughing lightly. "It just stung him a little. There's a lot of disorderly conduct left in him yet, an' it's a wonder he ain't been ventilated before."
+
+"Yeah.... Well, we'll take him up and look him over," Bayard said, his face serious, and stooped to gather the burden in his arms.
+
+"Want any help, Bruce?" Tommy asked.
+
+"Not on this trip, thanks. A good sleep and a stiff cussin' out'll help a little I guess. Mebbe he's learnt a lesson an' he may go back home an' behave himself."
+
+He shouldered open the screen door and, led by the wheezing landlord who carried a lamp at a reckless angle in his trembling hand, started clumping up the resounding stairway, while the group that had been about the lamp-post drifted off into the darkness. Only the sorrel horse, Abe, remained, bridle-reins down, one hip slumped, great, intelligent eyes watching occasional figures that passed, ears moving to catch the scattered sounds that went up toward the Arizona stars.

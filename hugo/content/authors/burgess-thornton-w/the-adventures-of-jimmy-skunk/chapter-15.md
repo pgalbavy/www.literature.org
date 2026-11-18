@@ -1,0 +1,28 @@
+---
+title: "Chapter 15 - A Second Meeting"
+weight: 15
+aliases:
+  - "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-15.html"
+---
+
+Jimmy Skunk couldn't think of anything but eggs. The more he thought of them, the more he wanted some. After parting from Unc' Billy Possum in the Green Forest he went back to the Green Meadows and prowled about, hunting for the nests of his feathered neighbors who build on the ground, and having no more luck than he had had before.
+
+Unc' Billy Possum was faring about the same way. He couldn't, for the life of him, stop thinking about those eggs that belonged to Mrs. Grouse. The more he tried to forget about them, the more he thought about them.
+
+"Ah feels it in mah bones that there isn't the least bit of use in huntin' fo' them," said he to himself, as he watched Jimmy Skunk amble out of sight up the Lone Little Path. "No, Sah, there isn't the least bit of use. Ah done look every place Ah can think of already. Still, Ah haven't got anything else special on mah mind, and those aiggs cert'nly would taste good. Ah reckons it must be Ah needs those aiggs, or Ah wouldn't have them on mah mind so much. Ah finds it rather painful to carry aiggs on mah mind all the time, but Ah would enjoy carrying them in mah stomach. Ah cert'nly would." Unc' Billy grinned and started to ramble about aimlessly, hoping that chance would lead him to the nest of Mrs. Grouse.
+
+Do what he would, Unc' Billy couldn't get the thought of eggs off his mind, and the more he thought about them the more he wanted some. And that led him to think of Farmer Brown's henhouse. He had long ago resolved never again to go there, but the longing for a taste of eggs was too much for his good resolutions, and as soon as jolly, round, red Mr. Sun sank to rest behind the Purple Hills, and the Black Shadows came creeping across the Green Meadows and through the Green Forest, Unc' Billy slipped away, taking pains that old Mrs. Possum shouldn't suspect where he was going.
+
+Out from the Green Forest, keeping among the Black Shadows along by the old stone wall on the edge of the Old Orchard, he stole, and so at last he reached Farmer Brown's henhouse. He stopped to listen. There was no sign of Bowser the Hound, and Unc' Billy sighed gently. It was a sigh of relief. Then he crept around a corner of the henhouse towards a certain hole under it he remembered well. Just as he reached it, he saw something white. It moved. It was coming towards him from the other end of the henhouse. Unc' Billy stopped right where he was. He was undecided whether to run or stay. Then he heard a little grunt and decided to stay. He even grinned. A few seconds later up came Jimmy Skunk. It was a white stripe on Jimmy's coat that Unc' Billy had seen.
+
+Jimmy gave a little snort of surprise when he almost bumped into Unc' Billy.
+
+"What are you doing here?" he demanded.
+
+"Just taking a li'l walk fo' the good of mah appetite," replied Unc' Billy, grinning more broadly than ever. "What are yo' doing here, Brer Skunk?"
+
+"The same thing," replied Jimmy. Then he chuckled. "This is an unexpected meeting. I guess you must have had the same thing on your mind all day that I have," he added.
+
+"Ah reckon so," replied Unc' Billy, and both grinned.
+
+[Illustration]

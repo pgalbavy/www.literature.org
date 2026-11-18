@@ -1,0 +1,48 @@
+---
+title: "Chapter 32 - The Fatal Tree"
+weight: 32
+aliases:
+  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-32.html"
+---
+
+Lena-Wingo's plan was to learn how large a force was on their side of the river, how they were disposed, and what was the precise scheme of the Tory colonel for the capture of the girl. When this was done, he could decide in a very few minutes on the course to circumvent him. Now that his friends were all together again, and were scarcely likely to be molested for some time to come, there was no occasion so favorable as the present in which to perform this duty.
+
+Accordingly he told them he should start within half an hour, and would probably be gone the whole afternoon, for he meant to make his work so thorough that there would be nothing remaining to be done after his return except to enter Wilkesbarre that night, and most probably in the early portion of the evening. Could he succeed, the campaign would be ended and our story also; for once safely within the fortifications, the persecuted girl would be beyond all further trouble or molestation from the Tory leader, whose name must forever remain one of execration when mentioned with that of Wyoming valley. Butler had not enough men to venture across the river and attack Wilkesbarre by force, as there was a goodly number still in his rear, who were sure to rise the instant the opportunity were given, and avenge the atrocious massacre of neighbors and friends. The only hope that he had was to secure the girl while attempting to reach this place of safety, and there could be no doubt he would strain every nerve to do so.
+
+The Mohawk told his friends that if they went to sleep in the evening they must expect to be awakened by him, and must therefore be prepared. He advised Rosa to spend the most of her time in the cavern, as no place was more comfortable, and certainly none so safe. While there, her friends should keep watch through the surrounding woods, for there was a possibility of a visit from some of the Iroquois who might wander into the section. A little care, therefore, would be like the ounce of prevention, and might avert some serious difficulty.
+
+The fugitives promised that his suggestions should be considered in the light of positive commands. And then, as Lena-Wingo arose to go, he paused a minute or two while he explained a little secret about the cavern which he believed was unknown to everybody except himself. This was, that there was another means of ingress and egress to it, the ancient occupants of the same having probably constructed a means of escape in case their enemies should press them too hard. This consisted of a narrow underground tunnel, running from the couch where Rosa had obtained her brief rest, and rising to the surface beneath a broad flat stone, near a mass of dense undergrowth. The entrance to it from the interior of the cavern was covered in the same manner, and it is hardly likely that Evans himself was aware of its existence. The stone that hid the mouth at either end of the tunnel was so thin that a man could lift it with a slight effort, and, no doubt, at some time or other they had answered a good purpose.
+
+Jo and Ned were delighted with this discovery, and were confident that, if a company of Iroquois should swoop down upon them, they could keep them at bay until nightfall, and then steal out without discovery. Nothing more remained for Lena-Wingo to say; and, as he was a man of few words, he vanished almost immediately into the forest.
+
+"I don't apprehend that there is danger of our disregarding the wishes of Lena-Wingo this time," said Ned, with a laugh, when they found themselves alone.
+
+"No, I'll be hanged if there is!" replied Jo. "We have done that once or twice, and it has always got us into trouble where he had to help us out again."
+
+"I supposed that he would be angry when we spoke about it," remarked Rosa, "but he showed no feeling at all."
+
+"I understand how that came about," added Jo, with a significant look toward his friend. "Ned has made him believe it was all his fault, and Lena-Wingo has poured out his wrath upon his head, so that none was left for us."
+
+"Is that true?" asked Rosa, looking into the face of her admirer, who blushed and tried to turn the conversation.
+
+As there was no escaping the accusation, Ned had to take a scolding from Rosa herself, who loved him none the less for this little act of self-abnegation.
+
+"See here!" exclaimed the victim, "One of the suggestions of Lena-Wingo was that Jo and I should keep a lookout while the day lasted, so that none of the big Indians might steal down here and eat up Rosa right before our eyes. What do you say, Jo?"
+
+"That's what Red Jack told us," responded his friend, "and if he said it, why, that insured its being a wise suggestion. I'm ready, and while we're gone, Rosa ought to withdraw into the cavern."
+
+"So I think."
+
+It was she herself who made this last remark. As she did so she sprang up, pulled the stone aside, and whisked within, disappearing from sight like a fairy, pausing only long enough at the entrance to wave a light adieu with her snow-white hand. Left to themselves once more, the youths walked slowly away from the cavern, for they had a wish that, if seen, their location might not suggest in the most remote manner, the whereabouts of Rosa Minturn.
+
+"I don't suppose there's much we can do," said Jo, as they halted near the spot where Ned Clinton had left the brother and sister. "You might go over the same route that you followed when you were looking for the Mohawk, as you have made yourself familiar with it."
+
+"That strikes me as a good plan," replied Ned; "there can be no telling how long I'll be gone, as it will depend upon what I see, but if I can discover nothing you may look for me back at the end of an hour or so."
+
+"All right," said Jo. "There's no hurry about it; come when you get ready, and I'll do the same."
+
+And in this off-hand manner the young scouts separated, neither dreaming that danger threatened. Ned followed the course indicated, now well known to him. It was only a brief walk to the tree, and there he paused awhile.
+
+"I was fortunate enough to make a discovery when I climbed that tree this morning," he reflected, "and I may succeed in doing something of the kind if I try it again. But I would rather fail, for I don't want to see another Tory or Indian until Lena-Wingo comes back to us, ready to lead the way into Wilkesbarre. But if there's any one there, I ought to know it, so I'll take another look from the tree-top."
+
+He leaned his rifle against the trunk, and was about to make an upward leap, for the sake of grasping the lowermost limb when he saw a hand suddenly thrust from behind the tree, and his weapon was whisked out of sight like a flash. Before he could recover from his amazement he was surrounded by a half dozen Iroquois warriors and made prisoner!

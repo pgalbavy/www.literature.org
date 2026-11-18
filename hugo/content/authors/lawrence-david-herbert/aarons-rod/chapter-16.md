@@ -1,0 +1,494 @@
+---
+title: "Chapter 16 - Florence"
+weight: 16
+aliases:
+  - "/authors/lawrence-david-herbert/aarons-rod/chapter-16.html"
+---
+
+The very afternoon after Aaron's arrival in Florence the sky became dark, the wind cold, and rain began steadily to fall. He sat in his big, bleak room above the river, and watched the pale green water fused with yellow, the many-threaded streams fuse into one, as swiftly the surface flood came down from the hills. Across, the dark green hills looked darker in the wet, the umbrella pines held up in vain above the villas. But away below, on the Lungarno, traffic rattled as ever.
+
+Aaron went down at five o'clock to tea, and found himself alone next a group of women, mostly Swedes or Danish or Dutch, drinking a peculiar brown herb-brew which tasted like nothing else on earth, and eating two thick bits of darkish bread smeared with a brown smear which hoped it was jam, but hoped in vain. Unhappily he sat in the gilt and red, massively ornate room, while the foreign women eyed him. Oh, bitter to be a male under such circumstances.
+
+He escaped as soon as possible back to his far-off regions, lonely and cheerless, away above. But he rather liked the far-off remoteness in the big old Florentine house: he did not mind the peculiar dark, uncosy dreariness. It was not really dreary: only indifferent. Indifferent to comfort, indifferent to all homeliness and cosiness. The over-big furniture trying to be impressive, but never to be pretty or bright or cheerful. There it stood, ugly and apart. And there let it stand. - Neither did he mind the lack of fire, the cold sombreness of his big bedroom. At home, in England, the bright grate and the ruddy fire, the thick hearth-rug and the man's arm-chair, these had been inevitable. And now he was glad to get away from it all. He was glad not to have a cosy hearth, and his own arm-chair. He was glad to feel the cold, and to breathe the unwarmed air. He preferred the Italian way of no fires, no heating. If the day was cold, he was willing to be cold too. If it was dark, he was willing to be dark. The cosy brightness of a real home - it had stifled him till he felt his lungs would burst. The horrors of real domesticity. No, the Italian brutal way was better.
+
+So he put his overcoat over his knee, and studied some music he had bought in Milan: some Pergolesi and the Scarlatti he liked, and some Corelli. He preferred frail, sensitive, abstract music, with not much feeling in it, but a certain limpidity and purity. Night fell as he sat reading the scores. He would have liked to try certain pieces on his flute. But his flute was too sensitive, it winced from the new strange surroundings, and would not blossom.
+
+Dinner sounded at last - at eight o'clock, or something after. He had to learn to expect the meals always forty minutes late. Down he went, down the long, dark, lonely corridors and staircases. The dining room was right downstairs. But he had a little table to himself near the door, the elderly women were at some little distance. The only other men were Agostmo, the unshapely waiter, and an Italian duke, with wife and child and nurse, the family sitting all together at a table halfway down the room, and utterly pre-occupied with a little yellow dog.
+
+However, the food was good enough, and sufficient, and the waiter and the maid-servant cheerful and bustling. Everything felt happy-go- lucky and informal, there was no particular atmosphere. Nobody put on any airs, because nobody in the Nardini took any notice if they did. The little ducal dog yapped, the ducal son shouted, the waiter dropped half a dozen spoons, the old women knitted during the waits, and all went off so badly that it was quite pleasant. Yes, Aaron preferred it to Bertolini's, which was trying to be efficient and correct: though not making any strenuous effort. Still, Bertolini's was much more up to the scratch, there was the tension of proper standards. Whereas here at Nardini's, nothing mattered very much.
+
+It was November. When he got up to his far-off room again, Aaron felt almost as if he were in a castle with the drawbridge drawn up. Through the open window came the sound of the swelling Arno, as it rushed and rustled along over its gravel-shoals. Lights spangled the opposite side. Traffic sounded deep below. The room was not really cold, for the summer sun so soaks into these thick old buildings, that it takes a month or two of winter to soak it out. - The rain still fell.
+
+In the morning it was still November, and the dawn came slowly. And through the open window was the sound of the river's rushing. But the traffic started before dawn, with a bang and a rattle of carts, and a bang and jingle of tram-cars over the not-distant bridge. Oh, noisy Florence! At half-past seven Aaron rang for his coffee: and got it at a few minutes past eight. The signorina had told him to take his coffee in bed.
+
+Rain was still falling. But towards nine o'clock it lifted, and he decided to go out. A wet, wet world. Carriages going by, with huge wet shiny umbrellas, black and with many points, erected to cover the driver and the tail of the horse and the box-seat. The hood of the carriage covered the fare. Clatter-clatter through the rain. Peasants with long wagons and slow oxen, and pale-green huge umbrellas erected for the driver to walk beneath. Men tripping along in cloaks, shawls, umbrellas, anything, quite unconcerned. A man loading gravel in the river-bed, in spite of the wet. And innumerable bells ringing: but innumerable bells. The great soft trembling of the cathedral bell felt in all the air.
+
+Anyhow it was a new world. Aaron went along close to the tall thick houses, following his nose. And suddenly he caught sight of the long slim neck of the Palazzo Vecchio up above, in the air. And in another minute he was passing between massive buildings, out into the Piazza della Signoria. There he stood still and looked round him in real surprise, and real joy. The flat empty square with its stone paving was all wet. The great buildings rose dark. The dark, sheer front of the Palazzo Vecchio went up like a cliff, to the battlements, and the slim tower soared dark and hawk-like, crested, high above. And at the foot of the cliff stood the great naked David, white and stripped in the wet, white against the dark, warm-dark cliff of the building - and near, the heavy naked men of Bandinelli.
+
+The first thing he had seen, as he turned into the square, was the back of one of these Bandinelli statues: a great naked man of marble, with a heavy back and strong naked flanks over which the water was trickling. And then to come immediately upon the David, so much whiter, glistening skin-white in the wet, standing a little forward, and shrinking.
+
+He may be ugly, too naturalistic, too big, and anything else you like. But the David in the Piazza della Signoria, there under the dark great palace, in the position Michelangelo chose for him, there, standing forward stripped and exposed and eternally half-shrinking, half - wishing to expose himself, he is the genius of Florence. The adolescent, the white, self-conscious, physical adolescent: enormous, in keeping with the stark, grim, enormous palace, which is dark and bare as he is white and bare. And behind, the big, lumpy Bandinelli men are in keeping too. They may be ugly - but they are there in their place, and they have their own lumpy reality. And this morning in the rain, standing unbroken, with the water trickling down their flanks and along the inner side of their great thighs, they were real enough, representing the undaunted physical nature of the heavier Florentines.
+
+Aaron looked and looked at the three great naked men. David so much white, and standing forward, self-conscious: then at the great splendid front of the Palazzo Vecchio: and at the fountain splashing water upon its wet, wet figures; and the distant equestrian statue; and the stone-flagged space of the grim square. And he felt that here he was in one of the world's living centres, here, in the Piazza della Signoria. The sense of having arrived - of having reached a perfect centre of the human world: this he had.
+
+And so, satisfied, he turned round to look at the bronze Perseus which rose just above him. Benvenuto Cellini's dark hero looked female, with his plump hips and his waist, female and rather insignificant: graceful, and rather vulgar. The clownish Bandinellis were somehow more to the point. - Then all the statuary in the Loggia! But that is a mistake. It looks too much like the yard of a monumental mason.
+
+The great, naked men in the rain, under the dark-grey November sky, in the dark, strong inviolable square! The wonderful hawk-head of the old palace. The physical, self-conscious adolescent, Michelangelo's David, shrinking and exposing himself, with his white, slack limbs! Florence, passionate, fearless Florence had spoken herself out. - Aaron was fascinated by the Piazza della Signoria. He never went into the town, nor returned from it to his lodging, without contriving to pass through the square. And he never passed through it without satisfaction. Here men had been at their intensest, most naked pitch, here, at the end of the old world and the beginning of the new. Since then, always rather puling and apologetic.
+
+Aaron felt a new self, a new life-urge rising inside himself. Florence seemed to start a new man in him. It was a town of men. On Friday morning, so early, he heard the traffic. Early, he watched the rather low, two-wheeled traps of the peasants spanking recklessly over the bridge, coming in to town. And then, when he went out, he found the Piazza della Signoria packed with men: but all, all men. And all farmers, land-owners and land-workers. The curious, fine-nosed Tuscan farmers, with their half-sardonic, amber-coloured eyes. Their curious individuality, their clothes worn so easy and reckless, their hats with the personal twist. Their curious full oval cheeks, their tendency to be too fat, to have a belly and heavy limbs. Their close- sitting dark hair. And above all, their sharp, almost acrid, mocking expression, the silent curl of the nose, the eternal challenge, the rock-bottom unbelief, and the subtle fearlessness. The dangerous, subtle, never-dying fearlessness, and the acrid unbelief. But men! Men! A town of men, in spite of everything. The one manly quality, undying, acrid fearlessness. The eternal challenge of the un-quenched human soul. Perhaps too acrid and challenging today, when there is nothing left to challenge. But men - who existed without apology and without justification. Men who would neither justify themselves nor apologize for themselves. Just men. The rarest thing left in our sweet Christendom.
+
+Altogether Aaron was pleased with himself, for being in Florence. Those were early days after the war, when as yet very few foreigners had returned, and the place had the native sombreness and intensity. So that our friend did not mind being alone.
+
+The third day, however, Francis called on him. There was a tap at the bedroom door, and the young man entered, all eyes of curiosity.
+
+"Oh, there you ARE!" he cried, flinging his hand and twisting his waist and then laying his hand on his breast. "Such a LONG way up to you! But miles - ! Well, how are you? Are you quite all right here? You are? I'm so glad - we've been so rushed, seeing people that we haven't had a MINUTE. But not a MINUTE! People! People! People! Isn't it amazing how many there are, and how many one knows, and gets to know! But amazing! Endless acquaintances! - Oh, and such quaint people here! so ODD! So MORE than odd! Oh, extraordinary - !" Francis chuckled to himself over the extraordinariness. Then he seated himself gracefully at Aaron's table. "Oh, MUSIC! What? Corelli! So interesting! So very CLEVER, these people, weren't they! - Corelli and the younger Scarlatti and all that crowd." Here he closed the score again. "But now - LOOK! Do you want to know anybody here, or don't you? I've told them about you, and of course they're dying to meet you and hear you play. But I thought it best not to mention anything about - about your being hard-up, and all that. I said you were just here on a visit. You see with this kind of people I'm sure it's much the best not to let them start off by thinking you will need them at all - or that you MIGHT need them. Why give yourself away, anyhow? Just meet them and take them for what they're worth - and then you can see. If they like to give you an engagement to play at some show or other - well, you can decide when the time comes whether you will accept. Much better that these kind of people shouldn't get it into their heads at once that they can hire your services. It doesn't do. They haven't enough discrimination for that. Much best make rather a favour of it, than sort of ask them to hire you. - Don't you agree? Perhaps I'm wrong."
+
+Aaron sat and listened and wondered at the wisdom and the genuine kindness of the young beau. And more still, he wondered at the profound social disillusionment. This handsome collie dog was something of a social wolf, half showing his fangs at the moment. But with genuine kindheartedness for another wolf. Aaron was touched.
+
+"Yes, I think that's the best way," he said.
+
+"You do! Yes, so do I. Oh, they are such queer people! Why is it, do you think, that English people abroad go so very QUEER - so ultra- English - INCREDIBLE! - and at the same time so perfectly impossible? But impossible! Pathological, I assure you. - And as for their sexual behaviour - oh, dear, don't mention it. I assure you it doesn't bear mention. - And all quite flagrant, quite unabashed - under the cover of this fanatical Englishness. But I couldn't begin to TELL you all the things. It's just incredible."
+
+Aaron wondered how on earth Francis had been able to discover and bear witness to so much that was incredible, in a bare two days. But a little gossip, and an addition of lurid imagination will carry you anywhere.
+
+"Well now," said Francis. "What are you doing today?"
+
+Aaron was not doing anything in particular.
+
+"Then will you come and have dinner with us - ?"
+
+Francis fixed up the time and the place - a small restaurant at the other end of the town. Then he leaned out of the window.
+
+"Fascinating place! Oh, fascinating place!" he said, soliloquy. "And you've got a superb view. Almost better than ours, I think. - Well then, half-past seven. We're meeting a few other people, mostly residents or people staying some time. We're not inviting them. Just dropping in, you know - a little restaurant. We shall see you then! Well then, a rivederci till this evening. - So glad you like Florence! I'm simply loving it - revelling. And the pictures! - Oh - "
+
+The party that evening consisted all of men: Francis and Angus, and a writer, James Argyle, and little Algy Constable, and tiny Louis Mee, and deaf Walter Rosen. They all snapped and rattled at one another, and were rather spiteful but rather amusing. Francis and Angus had to leave early. They had another appointment. And James Argyle got quite tipsy, and said to Aaron:
+
+"But, my boy, don't let yourself be led astray by the talk of such people as Algy. Beware of them, my boy, if you've a soul to save. If you've a soul to save!" And he swallowed the remains of his litre.
+
+Algy's nose trembled a little, and his eyes blinked. "And if you've a soul to LOSE," he said, "I would warn you very earnestly against Argyle." Whereupon Algy shut one eye and opened the other so wide, that Aaron was almost scared. "Quite right, my boy. Ha! Ha! Never a truer thing said! Ha-ha-ha." Argyle laughed his Mephistophelian tipsy laugh. "They'll teach you to save. Never was such a lot of ripe old savers! Save their old trouser-buttons! Go to them if you want to learn to save. Oh, yes, I advise it seriously. You'll lose nothing - not even a reputation. - You may lose a SOUL, of course. But that's a detail, among such a hoard of banknotes and trouser-buttons. Ha-ha! What's a soul, to them - ?"
+
+"What is it to you, is perhaps the more pertinent question," said Algy, flapping his eyelids like some crazy owl. "It is you who specialise in the matter of soul, and we who are in need of enlightenment - "
+
+"Yes, very true, you ARE! You ARE in need of enlightenment. A set of benighted wise virgins. Ha-ha-ha! That's good, that - benighted wise virgins! What - " Argyle put his red face near to Aaron's, and made a moue, narrowing his eyes quizzically as he peered up from under his level grey eyebrows. "Sit in the dark to save the lamp-oil - And all no good to them. - When the bridegroom cometh - ! Ha-ha! Good that! Good, my boy! - The bridegroom - " he giggled to himself. "What about the bridegroom, Algy, my boy? Eh? What about him? Better trim your wick, old man, if it's not too late - "
+
+"We were talking of souls, not wicks, Argyle," said Algy.
+
+"Same thing. Upon my soul it all amounts to the same thing. Where's the soul in a man that hasn't got a bedfellow - eh? - answer me that! Can't be done you know. Might as well ask a virgin chicken to lay you an egg."
+
+"Then there ought to be a good deal of it about," said Algy.
+
+"Of what? Of soul? There ought to be a good deal of soul about? - Ah, because there's a good deal of - , you mean. - Ah, I wish it were so. I wish it were so. But, believe me, there's far more damned chastity in the world, than anything else. Even in this town. - Call it chastity, if you like. I see nothing in it but sterility. It takes a rat to praise long tails. Impotence set up the praise of chastity - believe me or not - but that's the bottom of it. The virtue is made out of the necessity. - Ha-ha-ha! - Like them! Like them! Ha-ha! Saving their souls! Why they'd save the waste matter of their bodies if they could. Grieves them to part with it. - Ha! ha! - ha!"
+
+There was a pause. Argyle was in his cups, which left no more to be said. Algy, quivering and angry, looked disconcertingly round the room as if he were quite calm and collected. The deaf Jewish Rosen was smiling down his nose and saying: "What was that last? I didn't catch that last," cupping his ear with his hand in the frantic hope that someone would answer. No one paid any heed.
+
+"I shall be going," said Algy, looking round. Then to Aaron he said, "You play the flute, I hear. May we hear you some time?"
+
+"Yes," said Aaron, non-committal.
+
+"Well, look here - come to tea tomorrow. I shall have some friends, and Del Torre will play the piano. Come to tea tomorrow, will you?"
+
+"Thank you, I will."
+
+"And perhaps you'll bring your flute along."
+
+"Don't you do any such thing, my boy. Make them entertain YOU, for once. - They're always squeezing an entertainment out of somebody - " and Argyle desperately emptied the remains of Algy's wine into his own glass: whilst Algy stood as if listening to something far off, and blinking terribly.
+
+"Anyhow," he said at length, "you'll come, won't you? And bring the flute if you feel like it."
+
+"Don't you take that flute, my boy," persisted Argyle. "Don't think of such a thing. If they want a concert, let them buy their tickets and go to the Teatro Diana. Or to Marchesa del Torre's Saturday morning. She can afford to treat them." Algy looked at Argyle, and blinked. "Well," he said. "I hope you'll get home all right, Argyle."
+
+"Thank you for your courtesy, Algy. Won't you lend me your arm?"
+
+As Algy was small and frail, somewhat shaky, and as Argyle was a finely built, heavy man of fifty or more, the slap was unkind.
+
+"Afraid I can't tonight. Good-night - "
+
+Algy departed, so did little Mee, who had sat with a little delighted disapproval on his tiny, bird-like face, without saying anything. And even the Jew Rosen put away his deaf-machine and began awkwardly to take his leave. His long nose was smiling to itself complacently at all the things Argyle had been saying.
+
+When he, too, had gone, Argyle arched his brows at Aaron, saying:
+
+"Oh, my dear fellow, what a lot they are! - Little Mee - looking like an innocent little boy. He's over seventy if he's a day. Well over seventy. Well, you don't believe me. Ask his mother - ask his mother. She's ninety-five. Old lady of ninety-five - " Argyle even laughed himself at his own preposterousness.
+
+"And then Algy - Algy's not a fool, you know. Oh, he can be most entertaining, most witty, and amusing. But he's out of place here. He should be in Kensington, dandling round the ladies' drawing rooms and making his mots. They're rich, you know, the pair of them. Little Mee used to boast that he lived on eleven-and-three-pence a week. Had to, poor chap. But then what does a white mouse like that need? Makes a heavy meal on a cheese-paring. Luck, you know - but of course he's come into money as well. Rich as Croesus, and still lives on nineteen-and-two-pence a week. Though it's nearly double, of course, what it used to be. No wonder he looks anxious. They disapprove of me - oh, quite right, quite right from their own point of view. Where would their money be otherwise? It wouldn't last long if I laid hands on it - " he made a devilish quizzing face. "But you know, they get on my nerves. Little old maids, you know, little old maids. I'm sure I'm surprised at their patience with me. - But when people are patient with you, you want to spit gall at them. Don't you? Ha-ha-ha! Poor old Algy. - Did I lay it on him tonight, or did I miss him?"
+
+"I think you got him," said Aaron.
+
+"He'll never forgive me. Depend on it, he'll never forgive me. Ha- ha! I like to be unforgiven. It adds ZEST to one's intercourse with people, to know that they'll never forgive one. Ha-ha-ha! Little old maids, who do their knitting with their tongues. Poor old Algy - he drops his stitches now. Ha-ha-ha! - Must be eighty, I should say."
+
+Aaron laughed. He had never met a man like Argyle before - and he could not help being charmed. The other man had a certain wicked whimsicality that was very attractive, when levelled against someone else, and not against oneself. He must have been very handsome in his day, with his natural dignity, and his clean-shaven strong square face. But now his face was all red and softened and inflamed, his eyes had gone small and wicked under his bushy grey brows. Still he had a presence. And his grey hair, almost gone white, was still handsome.
+
+"And what are you going to do in Florence?" asked Argyle.
+
+Aaron explained.
+
+"Well," said Argyle. "Make what you can out of them, and then go. Go before they have time to do the dirty on you. If they think you want anything from them, they'll treat you like a dog, like a dog. Oh, they're very frightened of anybody who wants anything of them: frightened to death. I see nothing of them. - Live by myself - see nobody. Can't stand it, you know: their silly little teaparties - simply can't stand it. No, I live alone - and shall die alone. - At least, I sincerely hope so. I should be sorry to have any of them hanging round."
+
+The restaurant was empty, the pale, malarial waiter - he had of course contracted malaria during the war - was looking purple round the eyes. But Argyle callously sat on. Aaron therefore rose to his feet.
+
+"Oh, I'm coming, I'm coming," said Argyle.
+
+He got unsteadily to his feet. The waiter helped him on with his coat: and he put a disreputable-looking little curly hat on his head. Then he took his stick.
+
+"Don't look at my appearance, my dear fellow," said Argyle. "I am frayed at the wrists - look here!" He showed the cuffs of his overcoat, just frayed through. "I've got a trunkful of clothes in London, if only somebody would bring it out to me. - Ready then! Avanti!"
+
+And so they passed out into the still rainy street. Argyle lived in the very centre of the town: in the Cathedral Square. Aaron left him at his hotel door.
+
+"But come and see me," said Argyle. "Call for me at twelve o'clock - or just before twelve - and let us have luncheon together. What! Is that all right? - Yes, come just before twelve. - When? - Tomorrow? Tomorrow morning? Will you come tomorrow?"
+
+Aaron said he would on Monday.
+
+"Monday, eh! You say Monday! Very well then. Don't you forget now. Don't you forget. For I've a memory like a vice. I shan't forget. - Just before twelve then. And come right up. I'm right under the roof. In Paradise, as the porter always says. Siamo nel paradiso. But he's a cretin. As near Paradise as I care for, for it's devilish hot in summer, and damned cold in winter. Don't you forget now - Monday, twelve o'clock."
+
+And Argyle pinched Aaron's arm fast, then went unsteadily up the steps to his hotel door.
+
+The next day at Algy's there was a crowd Algy had a very pleasant flat indeed, kept more scrupulously neat and finicking than ever any woman's flat was kept. So today, with its bowls of flowers and its pictures and books and old furniture, and Algy, very nicely dressed, fluttering and blinking and making really a charming host, it was all very delightful to the little mob of visitors. They were a curious lot, it is true: everybody rather exceptional. Which though it may be startling, is so very much better fun than everybody all alike. Aaron talked to an old, old Italian elegant in side-curls, who peeled off his grey gloves and studied his formalities with a delightful Mid-Victorian dash, and told stories about a plaint which Lady Surry had against Lord Marsh, and was quite incomprehensible. Out rolled the English words, like plums out of a burst bag, and all completely unintelligible. But the old beau was supremely satisfied. He loved talking English, and holding his listeners spell-bound.
+
+Next to Aaron on the sofa sat the Marchesa del Torre, an American woman from the Southern States, who had lived most of her life in Europe. She was about forty years of age, handsome, well-dressed, and quiet in the buzz of the tea-party. It was evident she was one of Algy's lionesses. Now she sat by Aaron, eating nothing, but taking a cup of tea and keeping still. She seemed sad - or not well perhaps. Her eyes were heavy. But she was very carefully made up, and very well dressed, though simply: and sitting there, full-bosomed, rather sad, remote-seeming, she suggested to Aaron a modern Cleopatra brooding, Anthony-less.
+
+Her husband, the Marchese, was a little intense Italian in a colonel's grey uniform, cavalry, leather gaiters. He had blue eyes, his hair was cut very short, his head looked hard and rather military: he would have been taken for an Austrian officer, or even a German, had it not been for the, peculiar Italian sprightliness and touch of grimace in his mobile countenance. He was rather like a gnome - not ugly, but odd.
+
+Now he came and stood opposite to Signor di Lanti, and quizzed him in Italian. But it was evident, in quizzing the old buck, the little Marchese was hovering near his wife, in ear-shot. Algy came up with cigarettes, and she at once began to smoke, with that peculiar heavy intensity of a nervous woman.
+
+Aaron did not say anything - did not know what to say. He was peculiarly conscious of the woman sitting next to him, her arm near his. She smoked heavily, in silence, as if abstracted, a sort of cloud on her level, dark brows. Her hair was dark, but a softish brown, not black, and her skin was fair. Her bosom would be white. - Why Aaron should have had this thought, he could not for the life of him say.
+
+Manfredi, her husband, rolled his blue eyes and grimaced as he laughed at old Lanti. But it was obvious that his attention was diverted sideways, towards his wife. Aaron, who was tired of nursing a tea- cup, placed in on a table and resumed his seat in silence. But suddenly the little Marchese whipped out his cigarette-case, and making a little bow, presented it to Aaron, saying:
+
+"Won't you smoke?"
+
+"Thank you," said Aaron.
+
+"Turkish that side - Virginia there - you see."
+
+"Thank you, Turkish," said Aaron.
+
+The little officer in his dove-grey and yellow uniform snapped his box shut again, and presented a light.
+
+"You are new in Florence?" he said, as he presented the match.
+
+"Four days," said Aaron.
+
+"And I hear you are musical."
+
+"I play the flute - no more."
+
+"Ah, yes - but then you play it as an artist, not as an accomplishment."
+
+"But how do you know?" laughed Aaron.
+
+"I was told so - and I believe it."
+
+"That's nice of you, anyhow - But you are a musician too."
+
+"Yes - we are both musicians - my wife and I."
+
+Manfredi looked at his wife. She flicked the ash off her cigarette.
+
+"What sort?" said Aaron.
+
+"Why, how do you mean, what sort? We are dilettanti, I suppose."
+
+"No - what is your instrument? The piano?"
+
+"Yes - the pianoforte. And my wife sings. But we are very much out of practice. I have been at the war four years, and we have had our home in Paris. My wife was in Paris, she did not wish to stay in Italy alone. And so - you see - everything goes - "
+
+"But you will begin again?"
+
+"Yes. We have begun already. We have music on Saturday mornings. Next Saturday a string quartette, and violin solos by a young Florentine woman - a friend - very good indeed, daughter of our Professor Tortoli, who composes - as you may know - "
+
+"Yes," said Aaron.
+
+"Would you care to come and hear - ?"
+
+"Awfully nice if you would - " suddenly said the wife, quite simply, as if she had merely been tired, and not talking before.
+
+"I should like to very much - "
+
+"Do come then."
+
+While they were making the arrangements, Algy came up in his blandest manner.
+
+"Now Marchesa - might we hope for a song?"
+
+"No - I don't sing any more," came the slow, contralto reply.
+
+"Oh, but you can't mean you say that deliberately - "
+
+"Yes, quite deliberately - " She threw away her cigarette and opened her little gold case to take another.
+
+"But what can have brought you to such a disastrous decision?"
+
+"I can't say," she replied, with a little laugh. "The war, probably."
+
+"Oh, but don't let the war deprive us of this, as of everything else."
+
+"Can't be helped," she said. "I have no choice in the matter. The bird has flown - " She spoke with a certain heavy languor.
+
+"You mean the bird of your voice? Oh, but that is quite impossible. One can hear it calling out of the leaves every time you speak."
+
+"I'm afraid you can't get him to do any more than call out of the leaves."
+
+"But - but - pardon me - is it because you don't intend there should be any more song? Is that your intention?"
+
+"That I couldn't say," said the Marchesa, smoking, smoking.
+
+"Yes," said Manfredi. "At the present time it is because she WILL not - not because she cannot. It is her will, as you say."
+
+"Dear me! Dear me!" said Algy. "But this is really another disaster added to the war list. - But - but - will none of us ever be able to persuade you?" He smiled half cajoling, half pathetic, with a prodigious flapping of his eyes.
+
+"I don't know," said she. "That will be as it must be."
+
+"Then can't we say it must be SONG once more?"
+
+To this sally she merely laughed, and pressed out her half-smoked cigarette.
+
+"How very disappointing! How very cruel of - of fate - and the war - and - and all the sum total of evils," said Algy.
+
+"Perhaps - " here the little and piquant host turned to Aaron.
+
+"Perhaps Mr. Sisson, your flute might call out the bird of song. As thrushes call each other into challenge, you know. Don't you think that is very probable?"
+
+"I have no idea," said Aaron.
+
+"But you, Marchesa. Won't you give us hope that it might be so?"
+
+"I've no idea, either," said she. "But I should very much like to hear Mr. Sisson's flute. It's an instrument I like extremely."
+
+"There now. You see you may work the miracle, Mr. Sisson. Won't you play to us?"
+
+"I'm afraid I didn't bring my flute along," said Aaron "I didn't want to arrive with a little bag."
+
+"Quite!" said Algy. "What a pity it wouldn't go in your pocket."
+
+"Not music and all," said Aaron.
+
+"Dear me! What a comble of disappointment. I never felt so strongly, Marchesa, that the old life and the old world had collapsed. - Really - I shall soon have to try to give up being cheerful at all."
+
+"Don't do that," said the Marchesa. "It isn't worth the effort."
+
+"Ah! I'm glad you find it so. Then I have hope."
+
+She merely smiled, indifferent.
+
+The teaparty began to break up - Aaron found himself going down the stairs with the Marchesa and her husband. They descended all three in silence, husband and wife in front. Once outside the door, the husband asked:
+
+"How shall we go home, dear? Tram or carriage - ?" It was evident he was economical.
+
+"Walk," she said, glancing over her shoulder at Aaron. "We are all going the same way, I believe."
+
+Aaron said where he lived. They were just across the river. And so all three proceeded to walk through the town.
+
+"You are sure it won't be too much for you - too far?" said the little officer, taking his wife's arm solicitously. She was taller than he. But he was a spirited fellow.
+
+"No, I feel like walking."
+
+"So long as you don't have to pay for it afterwards."
+
+Aaron gathered that she was not well. Yet she did not look ill - unless it were nerves. She had that peculiar heavy remote quality of pre- occupation and neurosis.
+
+The streets of Florence were very full this Sunday evening, almost impassable, crowded particularly with gangs of grey-green soldiers. The three made their way brokenly, and with difficulty. The Italian was in a constant state of returning salutes. The grey-green, sturdy, unsoldierly soldiers looked at the woman as she passed.
+
+"I am sure you had better take a carriage," said Manfredi.
+
+"No - I don't mind it."
+
+"Do you feel at home in Florence?" Aaron asked her.
+
+"Yes - as much as anywhere. Oh, yes - quite at home."
+
+"Do you like it as well as anywhere?" he asked.
+
+"Yes - for a time. Paris for the most part."
+
+"Never America?"
+
+"No, never America. I came when I was quite a little girl to Europe - Madrid - Constantinople - Paris. I hardly knew America at all."
+
+Aaron remembered that Francis had told him, the Marchesa's father had been ambassador to Paris.
+
+"So you feel you have no country of your own?"
+
+"I have Italy. I am Italian now, you know."
+
+Aaron wondered why she spoke so muted, so numbed. Manfredi seemed really attached to her - and she to him. They were so simple with one another.
+
+They came towards the bridge where they should part.
+
+"Won't you come and have a cocktail?" she said.
+
+"Now?" said Aaron.
+
+"Yes. This is the right time for a cocktail. What time is it, Manfredi?"
+
+"Half past six. Do come and have one with us," said the Italian. "We always take one about this time."
+
+Aaron continued with them over the bridge. They had the first floor of an old palazzo opposite, a little way up the hill. A man-servant opened the door.
+
+"If only it will be warm," she said. "The apartment is almost impossible to keep warm. We will sit in the little room."
+
+Aaron found himself in a quite warm room with shaded lights and a mixture of old Italian stiffness and deep soft modern comfort. The Marchesa went away to take off her wraps, and the Marchese chatted with Aaron. The little officer was amiable and kind, and it was evident he liked his guest.
+
+"Would you like to see the room where we have music?" he said. "It is a fine room for the purpose - we used before the war to have music every Saturday morning, from ten to twelve: and all friends might come. Usually we had fifteen or twenty people. Now we are starting again. I myself enjoy it so much. I am afraid my wife isn't so enthusiastic as she used to be. I wish something would rouse her up, you know. The war seemed to take her life away. Here in Florence are so many amateurs. Very good indeed. We can have very good chamber-music indeed. I hope it will cheer her up and make her quite herself again. I was away for such long periods, at the front. - And it was not good for her to be alone. - I am hoping now all will be better."
+
+So saying, the little, odd officer switched on the lights of the long salon. It was a handsome room in the Italian mode of the Empire period - beautiful old faded tapestry panels - reddish - and some ormolu furniture - and other things mixed in - rather conglomerate, but pleasing, all the more pleasing. It was big, not too empty, and seemed to belong to human life, not to show and shut-upedness. The host was happy showing it.
+
+"Of course the flat in Paris is more luxurious than this," he said. "But I prefer this. I prefer it here." There was a certain wistfulness as he looked round, then began to switch off the lights.
+
+They returned to the little salotta. The Marchesa was seated in a low chair. She wore a very thin white blouse, that showed her arms and her throat. She was a full-breasted, soft-skinned woman, though not stout.
+
+"Make the cocktails then, Manfredi," she said. "Do you find this room very cold?" she asked of Aaron.
+
+"Not a bit cold," he said.
+
+"The stove goes all the time," she said, "but without much effect."
+
+"You wear such thin clothes," he said.
+
+"Ah, no, the stove should give heat enough. Do sit down. Will you smoke? There are cigarettes - and cigars, if you prefer them."
+
+"No, I've got my own, thanks."
+
+She took her own cigarette from her gold case.
+
+"It is a fine room, for music, the big room," said he.
+
+"Yes, quite. Would you like to play for us some time, do you think?"
+
+"Do you want me to? I mean does it interest you?"
+
+"What - the flute?"
+
+"No - music altogether - "
+
+"Music altogether - ! Well! I used to love it. Now - I'm not sure. Manfredi lives for it, almost."
+
+"For that and nothing else?" asked Aaron.
+
+"No, no! No, no! Other things as well."
+
+"But you don't like it much any more?"
+
+"I don't know. Perhaps I don't. I'm not sure."
+
+"You don't look forward to the Saturday mornings?" he asked.
+
+"Perhaps I don't - but for Manfredi's sake, of course, I do. But for his sake more than my own, I admit. And I think he knows it."
+
+"A crowd of people in one's house - " said Aaron.
+
+"Yes, the people. But it's not only that. It's the music itself - I think I can't stand it any more. I don't know."
+
+"Too emotional? Too much feeling for you?"
+
+"Yes, perhaps. But no. What I can't stand is chords, you know: harmonies. A number of sounds all sounding together. It just makes me ill. It makes me feel so sick."
+
+"What - do you want discords? - dissonances?"
+
+"No - they are nearly as bad. No, it's just when any number of musical notes, different notes, come together, harmonies or discords. Even a single chord struck on the piano. It makes me feel sick. I just feel as if I should retch. Isn't it strange? Of course, I don't tell Manfredi. It would be too cruel to him. It would cut his life in two."
+
+"But then why do you have the music - the Saturdays - then?"
+
+"Oh, I just keep out of the way as much as possible. I'm sure you feel there is something wrong with me, that I take it as I do," she added, as if anxious: but half ironical.
+
+"No - I was just wondering - I believe I feel something the same myself. I know orchestra makes me blind with hate or I don't know what. But I want to throw bombs."
+
+"There now. It does that to me, too. Only now it has fairly got me down, and I feel nothing but helpless nausea. You know, like when you are seasick."
+
+Her dark-blue, heavy, haunted-looking eyes were resting on him as if she hoped for something. He watched her face steadily, a curious intelligence flickering on his own.
+
+"Yes," he said. "I understand it. And I know, at the bottom, I'm like that. But I keep myself from realising, don't you know? Else perhaps, where should I be? Because I make my life and my living at it, as well."
+
+"At music! Do you! But how bad for you. But perhaps the flute is different. I have a feeling that it is. I can think of one single pipe-note - yes, I can think of it quite, quite calmly. And I can't even think of the piano, or of the violin with its tremolo, or of orchestra, or of a string quartette - or even a military band - I can't think of it without a shudder. I can only bear drum-and-fife. Isn't it crazy of me - but from the other, from what we call music proper, I've endured too much. But bring your flute one day. Bring it, will you? And let me hear it quite alone. Quite, quite alone. I think it might do me an awful lot of good. I do, really. I can imagine it." She closed her eyes and her strange, sing-song lapsing voice came to an end. She spoke almost like one in a trance - or a sleep-walker.
+
+"I've got it now in my overcoat pocket," he said, "if you like."
+
+"Have you? Yes!" She was never hurried: always slow and resonant, so that the echoes of her voice seemed to linger. "Yes - do get it. Do get it. And play in the other room - quite - quite without accompaniment. Do - and try me."
+
+"And you will tell me what you feel?"
+
+"Yes."
+
+Aaron went out to his overcoat. When he returned with his flute, which he was screwing together, Manfredi had come with the tray and the three cocktails. The Marchesa took her glass.
+
+"Listen, Manfredi," she said. "Mr. Sisson is going to play, quite alone in the sala. And I am going to sit here and listen."
+
+"Very well," said Manfredi. "Drink your cocktail first. Are you going to play without music?"
+
+"Yes," said Aaron.
+
+"I'll just put on the lights for you."
+
+"No - leave it dark. Enough light will come in from here."
+
+"Sure?" said Manfredi.
+
+"Yes."
+
+The little soldier was an intruder at the moment. Both the others felt it so. But they bore him no grudge. They knew it was they who were exceptional, not he. Aaron swallowed his drink, and looked towards the door.
+
+"Sit down, Manfredi. Sit still," said the Marchesa.
+
+"Won't you let me try some accompaniment?" said the soldier.
+
+"No. I shall just play a little thing from memory," said Aaron.
+
+"Sit down, dear. Sit down," said the Marchesa to her husband.
+
+He seated himself obediently. The flash of bright yellow on the grey of his uniform seemed to make him like a chaffinch or a gnome.
+
+Aaron retired to the other room, and waited awhile, to get back the spell which connected him with the woman, and gave the two of them this strange isolation, beyond the bounds of life, as it seemed.
+
+He caught it again. And there, in the darkness of the big room, he put his flute to his lips, and began to play. It was a clear, sharp, lilted run-and-fall of notes, not a tune in any sense of the word, and yet a melody, a bright, quick sound of pure animation, a bright, quick, animate noise, running and pausing. It was like a bird's singing, in that it had no human emotion or passion or intention or meaning - a ripple and poise of animate sound. But it was unlike a bird's singing, in that the notes followed clear and single one after the other, in their subtle gallop. A nightingale is rather like that - a wild sound. To read all the human pathos into nightingales' singing is nonsense. A wild, savage, non-human lurch and squander of sound, beautiful, but entirely unaesthetic.
+
+What Aaron was playing was not of his own invention. It was a bit of mediaeval phrasing written for the pipe and the viol. It made the piano seem a ponderous, nerve-wracking steam-roller of noise, and the violin, as we know it, a hateful wire-drawn nerve-torturer.
+
+After a little while, when he entered the smaller room again, the Marchesa looked full into his face.
+
+"Good!" she said. "Good!"
+
+And a gleam almost of happiness seemed to light her up. She seemed like one who had been kept in a horrible enchanted castle - for years and years. Oh, a horrible enchanted castle, with wet walls of emotions and ponderous chains of feelings and a ghastly atmosphere of must-be. She felt she had seen through the opening door a crack of sunshine, and thin, pure, light outside air, outside, beyond this dank and beastly dungeon of feelings and moral necessity. Ugh! - she shuddered convulsively at what had been. She looked at her little husband. Chains of necessity all round him: a little jailor. Yet she was fond of him. If only he would throw away the castle keys. He was a little gnome. What did he clutch the castle-keys so tight for?
+
+Aaron looked at her. He knew that they understood one another, he and she. Without any moral necessity or any other necessity. Outside - they had got outside the castle of so-called human life. Outside the horrible, stinking human castle Of life. A bit of true, limpid freedom. Just a glimpse.
+
+"Charming!" said the Marchese. "Truly charming! But what was it you played?"
+
+Aaron told him.
+
+"But truly delightful. I say, won't you play for us one of these Saturdays? And won't you let me take the accompaniment? I should be charmed, charmed if you would."
+
+"All right," said Aaron.
+
+"Do drink another cocktail," said his hostess.
+
+He did so. And then he rose to leave.
+
+"Will you stay to dinner?" said the Marchesa. "We have two people coming - two Italian relatives of my husband. But - "
+
+No, Aaron declined to stay to dinner.
+
+"Then won't you come on - let me see - on Wednesday? Do come on Wednesday. We are alone. And do bring the flute. Come at half-past six, as today, will you? Yes?"
+
+Aaron promised - and then he found himself in the street. It was half- past seven. Instead of returning straight home, he crossed the Ponte Vecchio and walked straight into the crowd. The night was fine now. He had his overcoat over his arm, and in a sort of trance or frenzy, whirled away by his evening's experience, and by the woman, he strode swiftly forward, hardly heeding anything, but rushing blindly on through all the crowd, carried away by his own feelings, as much as if he had been alone, and all these many people merely trees.
+
+Leaving the Piazza Vittorio Emmanuele a gang of soldiers suddenly rushed round him, buffeting him in one direction, whilst another gang, swinging round the corner, threw him back helpless again into the midst of the first gang. For some moments he struggled among the rude, brutal little mob of grey-green coarse uniforms that smelt so strong of soldiers. Then, irritated, he found himself free again, shaking himself and passing on towards the cathedral. Irritated, he now put on his overcoat and buttoned it to the throat, closing himself in, as it were, from the brutal insolence of the Sunday night mob of men. Before, he had been walking through them in a rush of naked feeling, all exposed to their tender mercies. He now gathered himself together.
+
+As he was going home, suddenly, just as he was passing the Bargello, he stopped. He stopped, and put his hand to his breast pocket. His letter-case was gone. He had been robbed. It was as if lightning ran through him at that moment, as if a fluid electricity rushed down his limbs, through the sluice of his knees, and out at his feet, leaving him standing there almost unconscious. For a moment unconscious and superconscious he stood there. He had been robbed. They had put their hand in his breast and robbed him. If they had stabbed him, it could hardly have had a greater effect on him.
+
+And he had known it. He had known it. When the soldiers jostled him so evilly they robbed him. And he knew it. He had known it as if it were fate. Even as if it were fated beforehand.
+
+Feeling quite weak and faint, as if he had really been struck by some evil electric fluid, he walked on. And as soon as he began to walk, he began to reason. Perhaps his letter-case was in his other coat. Perhaps he had not had it with him at all. Perhaps he was feeling all this, just for nothing. Perhaps it was all folly.
+
+He hurried forward. He wanted to make sure. He wanted relief. It was as if the power of evil had suddenly seized him and thrown him, and he wanted to say it was not so, that he had imagined it all, conjured it up. He did not want to admit the power of evil - particularly at that moment. For surely a very ugly evil spirit had struck him, in the midst of that gang of Italian soldiers. He knew it - it had pierced him. It had got him.
+
+But he wanted to say it was not so. Reaching the house, he hastened upwards to his far-off, lonely room, through the dark corridors. Once in his own apartment, he shut the door and switched on the light, a sensation like fear at his heart. Then he searched his other pockets. He looked everywhere. In vain.
+
+In vain, truly enough. For he knew the thing was stolen. He had known it all along. The soldiers had deliberately plotted, had deliberately rushed him and taken his purse. They must have watched him previously. They must have grinned, and jeered at him.
+
+He sat down in a chair, to recover from the shock. The pocket-book contained four hundred francs, three one-pound notes, and various letters and private effects. Well, these were lost. But it was not so much the loss as the assault on his person that caused him to feel so stricken. He felt the jeering, gibing blows they had given as they jostled him.
+
+And now he sat, weak in every limb, and said to himself: "Yes - and if I hadn't rushed along so full of feeling: if I hadn't exposed myself: if I hadn't got worked up with the Marchesa, and then rushed all kindled through the streets, without reserve, it would never have happened. I gave myself away: and there was someone ready to snatch what I gave. I gave myself away. It is my own fault. I should have been on my guard. I should be always on my guard: always, always. With God and the devil both, I should be on my guard. Godly or devilish, I should hold fast to my reserve and keep on the watch. And if I don't, I deserve what I get."
+
+But still he sat in his chair in his bedroom, dazed. One part of his soul was saying emphatically: It serves you right. It is nothing but right. It serves everybody right who rushes enkindled through the street, and trusts implicitly in mankind and in the life-spirit, as if mankind and the life-spirit were a playground for enkindled individuals. It serves you right. You have paid about twelve pounds sterling for your lesson. Fool, you might have known beforehand, and then you needn't have paid at all. You can ill afford twelve pounds sterling, you fool. But since paid you have, then mind, mind the lesson is learned. Never again. Never expose yourself again. Never again absolute trust. It is a blasphemy against life, is absolute trust. Has a wild creature ever absolute trust? It minds itself. Sleeping or waking it is on its guard. And so must you be, or you'll go under. Sleeping or waking, man or woman, God or the devil, keep your guard over yourself. Keep your guard over yourself, lest worse befall you. No man is robbed unless he incites a robber. No man is murdered unless he attracts a murderer. Then be not robbed: it lies within your own power. And be not murdered. Or if you are, you deserve it. Keep your guard over yourself, now, always and forever. Yes, against God quite as hard as against the devil. He's fully as dangerous to you. . . .
+
+Thus thinking, not in his mind but in his soul, his active, living soul, he gathered his equanimity once more, and accepted the fact. So he rose and tidied himself for dinner. His face was now set, and still. His heart also was still - and fearless. Because its sentinel was stationed. Stationed, stationed for ever.
+
+And Aaron never forgot. After this, it became essential to him to feel that the sentinel stood guard in his own heart. He felt a strange unease the moment he was off his guard. Asleep or awake, in the midst of the deepest passion or the suddenest love, or in the throes of greatest excitement or bewilderment, somewhere, some corner of himself was awake to the fact that the sentinel of the soul must not sleep, no, never, not for one instant.

@@ -1,0 +1,66 @@
+---
+title: "Chapter 23"
+weight: 24
+aliases:
+  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-23.html"
+---
+
+_(Anne’s Narrative Resumed)_
+
+I thoroughly enjoyed the journey up to Rhodesia.
+
+There was something new and exciting to see every day. First the wonderful scenery of the Hex river valley, then the desolate grandeur of the Karoo, and finally that wonderful straight stretch of line in Bechuanaland, and the perfectly adorable toys the natives brought to sell. Suzanne and I were nearly left behind at each station—if you could call them stations. It seemed to me that the train just stopped whenever it felt like it, and no sooner had it done so than a horde of natives materialized out of the empty landscape, holding up mealie bowls and sugar canes and fur karosses and adorable carved wooden animals. Suzanne began at once to make a collection of the latter. I imitated her example—most of them cost a “tiki” (threepence) and each was different. There were giraffes and tigers and snakes and a melancholy looking eland and absurd little black warriors. We enjoyed ourselves enormously.
+
+Sir Eustace tried to restrain us—but in vain. I still think it was a miracle we were not left behind at some oasis of the line. South African trains don’t hoot or get excited when they are going to start off again. They just glide quietly away, and you look up from your bargaining and run for your life.
+
+Suzanne’s amazement at seeing me climb upon the train at Cape Town can be imagined. We held an exhaustive survey of the situation on the first evening out. We talked half the night.
+
+It had become clear to me that defensive tactics must be adopted as well as aggressive ones. Travelling with Sir Eustace Pedler and his party, I was fairly safe. Both he and Colonel Race were powerful protectors, and I judged that my enemies would not wish to stir up a hornet’s nest about my ears. Also, as long as I was near Sir Eustace, I was more or less in touch with Guy Pagett—and Guy Pagett was the heart of the mystery. I asked Suzanne whether in her opinion it was possible that Pagett himself was the mysterious “Colonel.” His subordinate position was, of course, against the assumption, but it had struck me once or twice that, for all his autocratic ways, Sir Eustace was really very much influenced by his secretary. He was an easy-going man, and one whom an adroit secretary might be able to twist round his little finger. The comparative obscurity of his position might in reality be useful to him, since he would be anxious to be well out of the limelight.
+
+Suzanne, however, negatived these ideas very strongly. She refused to believe that Guy Pagett was the ruling spirit. The real head—the “Colonel”—was somewhere in the background and had probably been already in Africa at the time of our arrival.
+
+I agreed that there was much to be said for her view, but I was not entirely satisfied. For in each suspicious instance Pagett had been shown as the directing genius. It was true that his personality seemed to lack the assurance and decision that one would expect from a master criminal—but after all, according to Colonel Race, it was brain work only that this mysterious leader supplied, and creative genius is often allied to a weak and timorous physical constitution.
+
+“There speaks the Professor’s daughter,” interrupted Suzanne, when I had got to this point in my argument.
+
+“It’s true, all the same. On the other hand, Pagett may be the Grand Vizier, so to speak, of the All Highest.” I was silent for a minute or two, and then went on musingly: “I wish I knew how Sir Eustace made his money!”
+
+“Suspecting him again?”
+
+“Suzanne, I’ve got into that state that I can’t help suspecting somebody! I don’t really suspect him—but, after all, he is Pagett’s employer, and he did own the Mill House.”
+
+“I’ve always heard that he made his money in some way he isn’t anxious to talk about,” said Suzanne thoughtfully. “But that doesn’t necessarily mean crime—it might be tin-tacks or hair restorer!”
+
+I agreed ruefully.
+
+“I suppose,” said Suzanne doubtfully, “that we’re not barking up the wrong tree? Being led completely astray, I mean, by assuming Pagett’s complicity? Supposing that, after all, he is a perfectly honest man?”
+
+I considered that for a minute or two, then I shook my head.
+
+“I can’t believe that.”
+
+“After all, he has his explanations for everything.”
+
+“Y—es, but they’re not very convincing. For instance, the night he tried to throw me overboard on the _Kilmorden,_ he says he followed Rayburn up on deck and Rayburn turned and knocked him down. Now we know that’s not true.”
+
+“No,” said Suzanne unwillingly. “But we only heard the story at second-hand from Sir Eustace. If we’d heard it direct from Pagett himself, it might have been different. You know how people always get a story a little wrong when they repeat it.”
+
+I turned the thing over in my mind.
+
+“No,” I said at last, “I don’t see any way out. Pagett’s guilty. You can’t get away from the fact that he tried to throw me overboard, and everything else fits in. Why are you so persistent in this new idea of yours?”
+
+“Because of his face?”
+
+“His face? But——”
+
+“Yes, I know what you’re going to say. It’s a sinister face. That’s just it. No man with a face like that could be really sinister. It must be a colossal joke on the part of Nature.”
+
+I did not believe much in Suzanne’s argument. I know a lot about Nature in past ages. If she’s got a sense of humour, she doesn’t show it much. Suzanne is just the sort of person who would clothe Nature with all her own attributes.
+
+We passed on to discuss our immediate plans. It was clear to me that I must have some kind of standing. I couldn’t go on avoiding explanations for ever. The solution of all my difficulties lay ready to my hand, though I didn’t think of it for some time. The _Daily Budget!_ My silence or my speech could no longer affect Harry Rayburn. He was marked down as “The Man in the Brown Suit” through no fault of mine. I could help him best by seeming to be against him. The “Colonel” and his gang must have no suspicion that there existed any friendly feeling between me and the man they had elected to be the scapegoat of the murder at Marlow. As far as I knew, the woman killed was still unidentified. I would cable to Lord Nasby, suggesting that she was no other than the famous Russian dancer “Nadina” who had been delighting Paris for so long. It seemed incredible to me that she had not been identified already—but when I learnt more of the case long afterwards I saw how natural it really was.
+
+Nadina had never been to England during her successful career in Paris. She was unknown to London audiences. The pictures in the papers of the Marlow victim were so blurred and unrecognizable that it is small wonder no one identified them. And, on the other hand, Nadina had kept her intention of visiting England a profound secret from every one. The day after the murder a letter had been received by her manager purporting to be from the dancer, in which she said that she was returning to Russia on urgent private affairs and that he must deal with her broken contract as best he could.
+
+All this, of course, I only learned afterwards. With Suzanne’s full approval, I sent a long cable from De Aar. It arrived at a psychological moment (this again, of course, I learnt afterwards). The Daily Budget was hard up for a sensation. My guess was verified and proved to be correct and the Daily Budget had the scoop of its lifetime. “Victim of the Mill House Murder identified by our special reporter.” And so on. “Our reporter makes voyage with the murderer. ‘The Man in the Brown Suit.’ What he is really like.”
+
+The main facts were, of course, cabled to the South African papers, but I only read my own lengthy articles at a much later date! I received approval and full instructions by cable at Bulawayo. I was on the staff of the _Daily Budget,_ and I had a private word of congratulation from Lord Nasby himself. I was definitely accredited to hunt down the murderer, and I, and only I, knew that the murderer was not Harry Rayburn! But let the world think that it was he—best so for the present.

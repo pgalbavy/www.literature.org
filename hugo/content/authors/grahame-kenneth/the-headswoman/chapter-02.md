@@ -1,0 +1,38 @@
+---
+title: "Chapter 2"
+weight: 2
+aliases:
+  - "/authors/grahame-kenneth/the-headswoman/chapter-02.html"
+---
+
+One evening, a few weeks later, Jeanne was taking a stroll on the ramparts of the town, a favourite and customary walk of hers when business cares were over. The pleasant expanse of country that lay spread beneath her--the rich sunset, the gleaming, sinuous river, and the noble old château that dominated both town and pasture from its adjacent height--all served to stir and bring out in her those poetic impulses which had lain dormant during the working day; while the cool evening breeze smoothed out and obliterated any little jars or worries which might have ensued during the practice of a profession in which she was still something of a novice. This evening she felt fairly happy and content. True, business was rather brisk, and her days had been fully occupied; but this mattered little so long as her modest efforts were appreciated, and she was now really beginning to feel that, with practice, her work was creditably and artistically done. In a satisfied, somewhat dreamy mood, she was drinking in the various sweet influences of the evening, when she perceived her cousin approaching.
+
+"Good-evening, Enguerrand," cried Jeanne pleasantly; she was thinking that since she had begun to work for her living she had hardly seen him--and they used to be such good friends. Could anything have occurred to offend him?
+
+Enguerrand drew near somewhat moodily, but could not help allowing his expression to relax at sight of her fair young face, set in its framework of rich brown hair, wherein the sunset seemed to have tangled itself and to cling, reluctant to leave it.
+
+"Sit down, Enguerrand," continued Jeanne, "and tell me what you've been doing this long time. Been very busy, and winning forensic fame and gold?"
+
+"Well, not exactly," said Enguerrand, moody once more. "The fact is, there's so much interest required nowadays at the courts that unassisted talent never gets a chance. And you, Jeanne?"
+
+"Oh, I don't complain," answered Jeanne lightly. "Of course, it's fair-time just now, you know, and we're always busy then. But work will be lighter soon, and then I'll get a day off, and we'll have a delightful ramble and picnic in the woods, as we used to do when we were children. What fun we had in those old days, Enguerrand! Do you remember when we were quite little tots, and used to play at executions in the back-garden, and you were a bandit and a buccaneer, and all sorts of dreadful things, and I used to chop off your head with a paper-knife? How pleased dear father used to be!"
+
+"Jeanne," said Enguerrand, with some hesitation, "you've touched upon the very subject that I came to speak to you about. Do you know, dear, I can't help feeling--it may be unreasonable, but still the feeling is there--that the profession you have adopted is not quite--is just a little----"
+
+"Now, Enguerrand!" said Jeanne, an angry flash sparkling in her eyes. She was a little touchy on this subject, the word she most affected to despise being also the one she most dreaded,--the adjective "unladylike."
+
+"Don't misunderstand me, Jeanne," went on Enguerrand imploringly: "you may naturally think that, because I should have succeeded to the post, with its income and perquisites, had you relinquished your claim, there is therefore some personal feeling in my remonstrances. Believe me, it is not so. My own interests do not weigh with me for a moment. It is on your account, Jeanne, and yours alone, that I ask you to consider whether the higher æsthetic qualities, which I know you possess, may not become cramped and thwarted by 'the trivial round, the common task,' which you have lightly undertaken. However laudable a professional life may be, one always feels that with a delicate organism such as woman, some of the bloom may possibly get rubbed off the peach."
+
+"Well, Enguerrand," said Jeanne, composing herself with an effort, though her lips were set hard, "I will do you the justice to believe that personal advantage does not influence you, and I will try to reason calmly with you, and convince you that you are simply hide-bound by old-world prejudice. Now, take yourself, for instance, who come here to instruct me: what does your profession amount to, when all's said and done? A mass of lies, quibbles, dodges, and tricks, that would make any self-respecting executioner blush! And even with the dirty weapons at your command, you make but a poor show of it. There was that wretched fellow you defended only two days ago. (I was in court during the trial--professional interest, you know.) Well, he had his regular alibi all ready, as clear as clear could be; only you must needs go and mess and bungle the thing up, so that, just as I expected all along, he was passed on to me for treatment in due course. You may like to have his opinion--that of a shrewd, though unlettered person. 'It's a real pleasure, miss,' he said, 'to be handled by you. You knows your work, and you does your work--though p'raps I ses it as shouldn't. If that blooming fool of a mouthpiece of mine'--he was referring to you, dear, in your capacity of advocate--'had known his business half as well as you do yours, I shouldn't a bin here now!' And you know, Enguerrand, he was perfectly right."
+
+"Well, perhaps he was," admitted Enguerrand. "You see, I had been working at a sonnet the night before, and I couldn't get the rhymes right, and they would keep coming into my head in court and mixing themselves up with the alibi. But look here, Jeanne, when you saw I was going off the track, you might have given me a friendly hint, you know--for old times' sake, if not for the prisoner's!"
+
+"I daresay," replied Jeanne calmly: "perhaps you'll tell me why I should sacrifice my interests because you're unable to look after yours. You forget that I receive a bonus, over and above my salary, upon each exercise of my functions!"
+
+"True," said Enguerrand gloomily: "I did forget that. I wish I had your business aptitudes, Jeanne."
+
+"I daresay you do," remarked Jeanne. "But you see, dear, how all your arguments fall to the ground. You mistake a prepossession for a logical base. Now if I had gone, like that Clairette you used to dangle after, and been waiting-woman to some grand lady in a château,--a thin-blooded compound of drudge and sycophant,--then, I suppose, you'd have been perfectly satisfied. So feminine! So genteel!"
+
+"She's not a bad sort of girl, little Claire," said Enguerrand reflectively (thereby angering Jeanne afresh): "but putting her aside,--of course you could always beat me at argument, Jeanne; you'd have made a much better lawyer than I. But you know, dear, how much I care about you; and I did hope that on that account even a prejudice, however unreasonable, might have some little weight. And I'm not alone, let me tell you, in my views. There was a fellow in court only to-day, who was saying that yours was only a succès d'estime, and that woman, as a naturally talkative and hopelessly unpunctual animal, could never be more than a clever amateur in the profession you have chosen."
+
+"That will do, Enguerrand," said Jeanne proudly; "it seems that when argument fails, you can stoop so low as to insult me through my sex. You men are all alike,--steeped in brutish masculine prejudice. Now go away, and don't mention the subject to me again till you're quite reasonable and nice."

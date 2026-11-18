@@ -1,0 +1,114 @@
+---
+title: "Chapter 26 - The Package Returned"
+weight: 26
+aliases:
+  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-26.html"
+---
+
+As Joan turned the corner of a lane leading to the high road, she found herself awkwardly trying to pass a man who confronted her--a young fellow far too elegant and well-dressed to be a Rigganite.
+
+“Beg pardon!” he said abruptly, as if he were not in the best of humors. And then she recognized him.
+
+“It's Mester Ralph Landsell,” she said to herself as she went on. “What is he doin' here?”
+
+But before she had finished speaking, she started at the sight of a figure hurrying on before her,--Liz herself, who had evidently just parted from her lover, and was walking rapidly homeward.
+
+It was a shock to Joan, though she did not suspect the whole truth. She had trusted the girl completely; she had never interfered with her outgoing or incoming; she had been generously lenient toward her on every point, and her pang at finding herself deceived was keen. Her sudden discovery of the subterfuge filled her with alarm.
+
+What was the meaning of it? Surely it could not mean that this man was digging fresh pitfalls for the poor straying feet. She could not believe this,--she could only shudder as the ominous thought suggested itself. And Liz--nay, even Liz could not be weak enough to trifle with danger again.
+
+But it was Liz who was hurrying on before her, and who was walking so fast that both were breathless when Joan reached her side and laid a detaining hand upon her shoulder.
+
+“Liz,” she said, “are yo' afeard o' me?”
+
+Liz turned her face around, colorless and frightened. There was a tone in the voice she had never heard before, a reproach in Joan's eyes before which she faltered.
+
+“I--did na know it wur yo',” she said, almost peevishly. “What fur should I be afeard o' yo'?”
+
+Joan's hand dropped.
+
+“Yo' know best,” she answered. “I did na say yo' wur.”
+
+Liz pulled her shawl closer about her shoulders, as if in nervous protest.
+
+“I dunnot see why I should be, though to be sure it's enow to fear one to be followed i' this way. Canna I go out fur a minnit wi'out--wi'out--”
+
+“Nay, lass,” Joan interrupted, “that's wild talk.”
+
+Liz began to whimper.
+
+“Th' choild wur asleep,” she said, “an' it wur so lonesome i' th' house. Theer wur no harm i' comin' out.”
+
+“I hope to God theer wur na,” exclaimed Joan. “I'd rayther see thy dead face lyin' by th' little un's on th' pillow than think as theer wur. Yo' know what I mean, Liz. Yo' know I could na ha' caught up wi' yo' wi'out passin' thot mon theer,--th' mon as yo' ha' been meetin' on th' sly,--God knows why, lass, fur I canna see, unless yo' want to fa' back to shame an' ruin.”
+
+They were at home by this time, and she opened the door to let the girl walk in before her.
+
+“Get thee inside, Liz,” she said. “I mun hear what tha has to say, fur I conna rest i' fear for thee. I am na angered, fur I pity thee too much. Tha art naught but a choild at th' best, an' th' world is fu' o' traps an' snares.”
+
+Liz took off her hat and shawl and sat down. She covered her face with her hands, and sobbed appealingly.
+
+“I ha' na done no harm,” she protested. “I nivver meant none. It wur his fault. He wunnot let me a-be, an'--an' he said he wanted to hear summat about th' choild, an' gi'e me summat to help me along. He said as he wur ashamed o' hissen to ha' left me wi'out money, but he wur hard run at the toime, an' now he wanted to gi' me some.”
+
+“Money!” said Joan. “Did he offer yo' money?”
+
+“Aye, he said----”
+
+“Wait!” said Joan. “Did yo' tak' it?”
+
+“What would yo' ha' me do?” restlessly. “Theer wur no harm----”
+
+“Ha' yo' getten it on yo'?” interrupting her again.
+
+“Aye,” stopping to look up questioningly.
+
+Joan held out her hand.
+
+“Gi'e it to me,” she said, steadily.
+
+Mr. Ralph Landsell, who was sitting in his comfortable private parlor at the principal hotel of the little town, was disturbed in the enjoyment of his nightly cigar by the abrupt announcement of a visitor,--a young woman, who surprised him by walking into the room and straight up to the table near which he sat.
+
+She was such a very handsome young woman, with her large eyes and finely cut face, and heavy nut-brown hair, and, despite her common dress, so very imposing a young woman, that the young man was quite startled,--especially when she laid upon the table-cloth a little package, which he knew had only left his hands half an hour before.
+
+“I ha' browt it back to yo';” she said, calmly.
+
+He glanced down at the package and then up at her, irritated and embarrassed.
+
+“You have brought it back to me?” he said. “May I ask what it is?”
+
+“I dunnot think yo' need ask; but sin' yo' do so, I con answer. It's th' money, Mester Landsell,--th' money yo' give to poor Lizzie.”
+
+“And may I ask again, what the money I gave to poor Lizzie has to do with you?”
+
+“Yo' may ask again, an' I con answer. I am th' poor lass's friend,--happen th' only friend she has i' th' world,--an' I tell yo' as I will na see yo' play her false again.”
+
+“The devil!” he broke forth, angrily. “You speak as--as if you thought I meant her harm.”
+
+He colored and faltered, even as he spoke. Joan faced him with bright and scornful eyes.
+
+“If yo' dunnot mean her harm, dunnot lead her to underhand ways o' deceivin' them as means her well. If yo' dunnot mean her harm, tak' yore belongings and leave Riggan to-morrow morning.”
+
+He answered her by a short, uneasy laugh.
+
+“By Jove!” he said. “You are a cool hand, young woman--but you can set your mind at rest. I shall not leave Riggan to-morrow morning, as you modestly demand--not only because I have further business to transact, but because I choose to remain. I shall not make any absurd promises about not seeing Lizzie, which, it seems to me, is more my business than yours, under the circumstances--and I shall not take the money back.”
+
+“Yo' willna?”
+
+“No, I will not.”
+
+“Very well. I ha' no more to say,” and she went out of the room, leaving the package lying upon the table.
+
+When she reached home, Liz was still sitting as she had left her, and she looked up tearful and impatient.
+
+“Well?” she said.
+
+“He has th' money,” was Joan's answer, “an' he ha' shown me as he is a villain.”
+
+She came and stood near the girl, a strong emotion in her half pitying, half appealing look.
+
+“Lizzie, lass!” she said. “Tha mun listen to me,--tha mun. Tha mun mak' me a promise before tha tak's thy choild upo' thy breast toneet.”
+
+“I dunnot care,” protested Liz, weeping fretfully. “I dunnot care what I do. It's aw as bad as ivver now. I dunnot care for nowt. Ivvery-body's at me--noan on yo' will let me a-be. What wi' first one an' then another I'm a'most drove wild.”
+
+“God help thee!” said Joan with a heavy sigh. “I dunnot mean to be hard, lass, but yo' mun promise me. It is na mich, Lizzie, if--if things is na worse wi' yo' than I would ivver believe. Yo're safe so far: promise me as yo' will na run i' danger--promise me as yo' will na see that man again, that yo'll keep out o' his way till he leaves Riggan.”
+
+“I'll promise owt,” cried Liz. “I dunnot care, I tell yo'. I'll promise owt yo'll ax, if yo'll let me a-be,” and she hid her face upon her arms and wept aloud.

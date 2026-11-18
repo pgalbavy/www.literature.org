@@ -1,0 +1,94 @@
+---
+title: "Chapter 13 - The Fog"
+weight: 13
+aliases:
+  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-13.html"
+---
+
+It will be recalled that when Jack and Rob awoke, during the preceding night, they noticed a marked change in the temperature, and the sailor prophesied an unwelcome change in the weather. Following the direction pointed by him, his friends saw what he meant. The rise had caused one of those fogs that have been fatal so often to ships off the banks of Newfoundland, and which frequently wrap the southern coast of Greenland in a mist as impenetrable as that which overshadows at times the British metropolis.
+
+"You see," added Jack, "it might be that some whaler or other vessel is cruising in these latitudes, and will come close enough for us to observe 'em and they us, provided the sun was shining, but, the way matters are turning out, they might pass within a biscuit's toss 'out either of us knowing it."
+
+"Well," was the philosophical comment of Fred, "we have so much to be thankful for that I can't complain over a small matter like that."
+
+"It may be a bigger matter than you think, but I'm as thankful as you, all the same."
+
+"Gracious!" exclaimed Rob, with a sigh; "I'm hungry."
+
+"There's your supper."
+
+Both boys, however, shook their heads, and Rob replied:
+
+"I'm not hungry enough to eat raw bear's meat."
+
+"It's a thousand times better than starving to death."
+
+As the sailor spoke, he walked to the carcass and withdrew his knife from the wound.
+
+"You'll come to it bime-by; I've seed the time when I was ready to chaw up a pair of leather breeches, but that isn't half as bad as being in an open boat under the equator, with not a drop of water for three days."
+
+"We can never suffer from that cause so long as this iceberg holds out. How is it with you, Fred? Are you ready for bear steak?"
+
+"I would be too glad to dine on it, if there was some means of cooking it, but that is out of the question. I think I'll wait awhile."
+
+"I'll keep you company," remarked Jack, who felt no such repugnance against the primitive meal, but was willing to defer the feast out of regard for them.
+
+The party watched the fog settling over the sea, until, as the sailor had told them it would do, it shut out all vision beyond a hundred feet or less.
+
+"I would give a good deal to know one thing," said Fred, after several minutes' silence, as he seated himself, "and that is just where we are."
+
+"I can tell you," said Rob.
+
+"Where?"
+
+"On an iceberg in the Greenland Sea."
+
+"I am not so sure of that, my hearty," put in Jack; "there's no doubt, of course, that we're on the berg, but I wouldn't bet that we're drifting through the Greenland Sea."
+
+"Why, the 'Nautilus' was so far north when we left it, and this iceberg was moving so slowly that we couldn't have gone as far as all that."
+
+Jack saw that his meaning was not understood.
+
+"What I was getting at is this: Of course, when them bergs slip off into the ocean, most of them start southward for a more congen'l clime, but all of 'em don't do it by any means. There is a current off the western coast of Greenland which runs toward the North Pole, and we may be in that."
+
+"But this extends so far down that it must strike the other current, which flows in the opposite direction."
+
+"That may and may not be, and it may be, too, that if it does, the upper current is the stronger. I've been calling to mind the bearing of the ship and berg, and I've an idee we're going northward. Bime-by the berg may change its mind and flop about and start for New York or South America, but I don't believe it's doing so now."
+
+This was important information, provided it was true, and there was good reason to believe that Jack Cosgrove knew far better than they what he was talking about.
+
+"Then if we keep on we'll strike the North Pole," remarked Rob, gravely.
+
+"Yes, if we keep on, but we're pretty sure to stop or change our course before we get beyond Davis Strait or Christianshaab or Ivignut. Anyway, this old berg will keep at it till she fetches up in southern waters."
+
+The words of Jack had opened a new and interesting field for discussion. Its ending had not been thought of by the boys in their calculations; and, despite their faith in their more experienced companion, they believed he was mistaken. They had never heard of anything of the kind he had mentioned, and it did not seem reasonable that such a vast mass, after heading southward, should change its direction. Even though it was drifting north when first seen, it must have started still farther north in order to reach the latitude where first observed.
+
+By this time all hope of being rescued by the "Nautilus" had been given up, unless some happy accident should lead it to come upon the iceberg. The party, therefore, began considering other means of escape from their unpleasant quarters.
+
+As is well known, there are a number of Danish settlements scattered along the west coast of Greenland, the bleak, desolate eastern shore being inhabited only by wandering Esquimaux. It might be that the berg would sweep along within sight of land, and the friends would be able to attract the attention of some of the native fishing boats, or possibly larger craft. It was a remote hope, indeed, but it was all they saw before them. At any rate, the polar bear had provided them with the means of postponing starvation to an indefinite period, for there was enough meat in his carcass to afford nourishment for many days to come.
+
+"I wonder whether there are more polar bears on this craft?" remarked Rob, rising to his feet and looking around as if he half expected to discover another of the monsters making for them.
+
+"Little danger of that," replied Jack, "and it's so mighty seldom that any of 'em are fools enough to allow themselves to be carried off like this one did that I never dreamed of anything of the kind. It does happen now and then, but not often, though you may read of such things."
+
+"I suppose he would have stayed here until he starved to death," was the inquiring remark of Fred.
+
+"He might and he might not; when he had got it through his skull that there was nothing to eat on the berg he would have plunged into the sea and started for land, provided it was in sight, and he would have reached it, too. When he landed he would have been hungry enough to attack the first saw-mill he came to, and I wouldn't like to be the first chap he met."
+
+"I don't see how he could have been fiercer than he was."
+
+"He meant business from the first; and, if he had caught sight of you when you lay asleep in that cavity in the ice he would have swallowed you before you could wake."
+
+"Well, he didn't do it," replied Fred, with a half-shudder and laugh, "so what's the good of thinking about it? Rob, it strikes me," he added, with a quizzical look at the boy, "that raw bear's meat might not be so bad after all."
+
+"Of course it isn't!" Jack was quick to say, springing to his feet and stepping forward, knife in hand.
+
+It was evident from the manner in which he conducted the business that he had done it before. He extracted a goodly-sized piece from near the shoulder, and dressed it as well as he could with the only means at command.
+
+Rob had hit upon what might be called a compromise. When one of the three slices, into which the portion was divided, was handed to him, he struck match after match from the rubber safe he carried, and held the tiny flame against different portions of the meat.
+
+Anything like cooking was out of the question, but he succeeded in scorching it slightly, and giving it a partial appearance of having seen the fire.
+
+"There!" he exclaimed, in triumph, holding it aloft; "it's done to a turn, that is the first turn. It's cooked, but it's a little rare, I'll admit."
+
+Meanwhile, Fred imitated him, using almost all the matches he possessed.

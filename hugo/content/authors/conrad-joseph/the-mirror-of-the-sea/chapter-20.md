@@ -1,0 +1,18 @@
+---
+title: "Chapter 20"
+weight: 20
+aliases:
+  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-20.html"
+---
+
+IT is difficult for a seaman to believe that his stranded ship does not feel as unhappy at the unnatural predicament of having no water under her keel as he is himself at feeling her stranded.
+
+Stranding is, indeed, the reverse of sinking. The sea does not close upon the water-logged hull with a sunny ripple, or maybe with the angry rush of a curling wave, erasing her name from the roll of living ships. No. It is as if an invisible hand had been stealthily uplifted from the bottom to catch hold of her keel as it glides through the water.
+
+More than any other event does stranding bring to the sailor a sense of utter and dismal failure. There are strandings and strandings, but I am safe to say that 90 per cent. of them are occasions in which a sailor, without dishonour, may well wish himself dead; and I have no doubt that of those who had the experience of their ship taking the ground, 90 per cent. did actually for five seconds or so wish themselves dead.
+
+"Taking the ground" is the professional expression for a ship that is stranded in gentle circumstances. But the feeling is more as if the ground had taken hold of her. It is for those on her deck a surprising sensation. It is as if your feet had been caught in an imponderable snare; you feel the balance of your body threatened, and the steady poise of your mind is destroyed at once. This sensation lasts only a second, for even while you stagger something seems to turn over in your head, bringing uppermost the mental exclamation, full of astonishment and dismay, "By Jove! she’s on the ground!"
+
+And that is very terrible. After all, the only mission of a seaman’s calling is to keep ships’ keels off the ground. Thus the moment of her stranding takes away from him every excuse for his continued existence. To keep ships afloat is his business; it is his trust; it is the effective formula of the bottom of all these vague impulses, dreams, and illusions that go to the making up of a boy’s vocation. The grip of the land upon the keel of your ship, even if nothing worse comes of it than the wear and tear of tackle and the loss of time, remains in a seaman’s memory an indelibly fixed taste of disaster.
+
+"Stranded" within the meaning of this paper stands for a more or less excusable mistake. A ship may be "driven ashore" by stress of weather. It is a catastrophe, a defeat. To be "run ashore" has the littleness, poignancy, and bitterness of human error.

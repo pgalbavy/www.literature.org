@@ -1,0 +1,42 @@
+---
+title: "Chapter 3 - Tommy Fox Learns To Hunt"
+weight: 3
+aliases:
+  - "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-03.html"
+---
+
+Tommy Fox was hunting crickets in the field near his mother's house. Being a young fox, not much more than half-grown, Tommy knew very little of hunting. In fact, crickets were about the only thing he could hunt and catch. Of course, any one can hunt. The hard part of it is to catch what you are hunting.
+
+Tommy was glad that he knew how to capture crickets, for he was very fond of them. To be sure, it took a great many crickets to satisfy his hunger. But they were good when he wanted a light lunch; and there was fun, too, in hunting them.
+
+This is the way Tommy Fox caught crickets. He would stand very still in the tall grass and watch sharply. Wherever he saw the grass moving, Tommy would pounce upon that spot, bringing his two front paws down tight against the ground. And in the bunch of grass that lay beneath his paws Tommy almost always found a fat cricket.
+
+There was just one drawback about that kind of hunting. He could catch crickets only upon still days, when there was no wind; because when the wind blew, the grass waved everywhere, and Tommy couldn't tell whether it was crickets or whether it was wind that made the grass move.
+
+Well, upon this very day when Tommy Fox was amusing himself, and swallowing crickets as fast as he could grab them, his mother came out of her house and watched him for a little while. Tommy was feeling quite proud of his skill.
+
+"I can hunt--can't I, Mother?" he exclaimed. "Watch me! I get them almost every time!" he boasted.
+
+Mrs. Fox did not answer. She was thinking deeply. She knew that there were a great many things she must teach her son, because he was growing up; and some day he would be leaving home to go out into the world and take care of himself. And Mrs. Fox knew that Tommy would have to learn to catch bigger things than crickets in order to keep from starving.
+
+Pretty soon Mrs. Fox started across the field. She was gone rather a long time. But she came back at last, carrying something that squirmed and twisted and wriggled. Whatever it was that Mrs. Fox was bringing home, it was furry, and quite big and heavy. When Tommy saw it he stopped hunting crickets at once. He knew what his mother had. It was a woodchuck!
+
+"Hurrah!" he shouted. "I'm hungry! May I eat all of him I want?" You might think that he had swallowed so many crickets that he wouldn't want anything more to eat just then. But to tell the truth, it was very seldom that Tommy Fox wasn't hungry as a bear.
+
+"Not so fast!" Mrs. Fox said. "I'm going to teach you to hunt. And you're to begin with this woodchuck. Now I'm going to let him go, and you must catch him." So Mrs. Fox let the woodchuck slip away; and off he scampered, with Tommy after him. Mrs. Fox followed close behind. And soon she saw Tommy give a great spring and land right on top of the woodchuck.
+
+Tommy was greatly excited. But he was hungry, too, "May I eat him now?" he asked.
+
+"No! Let him go again," his mother commanded. "And see if you can catch him more quickly next time."
+
+Tommy obeyed. And though he overtook the woodchuck sooner, he was not so careful to avoid the 'chuck's sharp teeth, and he got a savage nip right on his nose.
+
+Tommy was surprised. He was so surprised that he dropped the woodchuck. And you may believe that Mr. Woodchuck lost no time. He scurried away as fast as his legs would carry him.
+
+Tommy began to whimper. His nose hurt; and he thought he had lost his dinner, too.
+
+But Mrs. Fox bounded after Mr. Woodchuck and brought him back again. She made Tommy stop crying. And he had to begin his lesson all over again.
+
+When Mrs. Fox thought that Tommy had learned enough for that day they both sat down and made a meal of that unfortunate Mr. Woodchuck. And Tommy felt that he had already become a mighty hunter. He hadn't the least doubt that he could go into the woods and catch almost anything he saw.
+
+We shall see later whether Tommy Fox knew as much as he thought he did.

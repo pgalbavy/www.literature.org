@@ -1,0 +1,38 @@
+---
+title: "Chapter 22 - The Flour Barrel"
+weight: 22
+aliases:
+  - "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-22.html"
+---
+
+MISS KITTY CAT took her paw off Moses Mouse, after giving him a sharp nip to warn him not to try to run away.
+
+"Ouch!" Moses squeaked. And then, when he felt himself free, he picked up the hit of cheese that he had dropped upon the pantry floor. But he was shaking with fear.
+
+He shook so hard that he couldn't balance the cheese on the end of his nose. It tumbled off at once and he turned quickly to get it. Miss Kitty Cat turned with him. And while she was turning, Moses Mouse turned back again and jumped behind a flour barrel.
+
+She sprang after him. But the barrel stood so near the wall that there was only a small space behind it. It was wide enough for Moses Mouse to slip through; but it was entirely too narrow for Miss Kitty Cat. And Moses Mouse waited just beyond reach of her paw.
+
+She ran around the barrel, only to find that Moses had crawled back through the opening and was watching her with his beady little eyes.
+
+Miss Kitty Cat was almost frantic. She hurried around the barrel again, and saw that Moses Mouse had repeated his trick. He needed only to move the length of his tail, while she had to whisk all the way around the fat flour barrel.
+
+"This will never do," Miss Kitty thought, as she peered through the crack at Moses Mouse, while she paused to get her breath. And as she stared at him, an idea popped into her head. It seemed such a good idea that Miss Kitty Cat decided to act upon it at once.
+
+So she wheeled and started off again, as if to run around the barrel once more. But when she had whisked half way around it she turned and hurried back again.
+
+She had expected to surprise Mr. Moses Mouse on the wrong side of the crack. And to her astonishment, he wasn't there. He wasn't anywhere in sight.
+
+"Goodness me!" Miss Kitty Cat wailed. "There must have been something wrong with my idea."
+
+There wasn't. It had merely happened that Moses Mouse had had an idea of his own.
+
+"I don't want to stay dodging here the rest of the night," he had said to himself. "The next time Miss Snooper makes a trip around the barrel I'm going to run up the side of it and trust to luck."
+
+That was exactly what he did. Once on top of the barrel, Moses Mouse leaped to a shelf. He crept along the shelf until he came to the pantry window. Now, Mrs. Green had left the window slightly open. And Moses Mouse darted out of doors and half jumped, half tumbled, to the ground. He knew how he could get to his nest quickly enough, through a certain chink in the cellar wall.
+
+Miss Kitty Cat soon decided that she had lost Moses Mouse again.
+
+"Dear me!" she sighed. "What wretched luck I'm having to-night! I declare, it's a sad home-coming for me."
+
+Meanwhile Mr. Moses Mouse was having a most merry time. Mrs. Mouse made a great fuss over him. And that was exactly what he liked.

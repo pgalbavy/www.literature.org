@@ -1,0 +1,32 @@
+---
+title: "Preface"
+weight: 1
+aliases:
+  - "/authors/haggard-h-rider/elissa/preface.html"
+---
+
+DEDICATION
+
+To the Memory of the Child
+
+Nada Burnham,
+
+who “bound all to her” and, while her father cut his way through the hordes of the Ingobo Regiment, perished of the hardships of war at Buluwayo on 19th May, 1896, I dedicate these tales--and more particularly the last, that of a Faith which triumphed over savagery and death.
+
+H. Rider Haggard.
+
+Ditchingham.
+
+AUTHOR’S NOTE
+
+Of the three stories that comprise this volume[*], one, “The Wizard,” a tale of victorious faith, first appeared some years ago as a Christmas Annual. Another, “Elissa,” is an attempt, difficult enough owing to the scantiness of the material left to us by time, to recreate the life of the ancient Phoenician Zimbabwe, whose ruins still stand in Rhodesia, and, with the addition of the necessary love story, to suggest circumstances such as might have brought about or accompanied its fall at the hands of the surrounding savage tribes. The third, “Black Heart and White Heart,” is a story of the courtship, trials and final union of a pair of Zulu lovers in the time of King Cetywayo.
+
+NOTE
+
+The world is full of ruins, but few of them have an origin so utterly lost in mystery as those of Zimbabwe in South Central Africa. Who built them? What purpose did they serve? These are questions that must have perplexed many generations, and many different races of men.
+
+The researches of Mr. Wilmot prove to us indeed that in the Middle Ages Zimbabwe or Zimboe was the seat of a barbarous empire, whose ruler was named the Emperor of Monomotapa, also that for some years the Jesuits ministered in a Christian church built beneath the shadow of its ancient towers. But of the original purpose of those towers, and of the race that reared them, the inhabitants of mediæval Monomotapa, it is probable, knew less even than we know to-day. The labours and skilled observation of the late Mr. Theodore Bent, whose death is so great a loss to all interested in such matters, have shown almost beyond question that Zimbabwe was once an inland Phoenician city, or at the least a city whose inhabitants were of a race which practised Phoenician customs and worshipped the Phoenician deities. Beyond this all is conjecture. How it happened that a trading town, protected by vast fortifications and adorned with temples dedicated to the worship of the gods of the Sidonians--or rather trading towns, for Zimbabwe is only one of a group of ruins--were built by civilised men in the heart of Africa perhaps we shall never learn with certainty, though the discovery of the burying-places of their inhabitants might throw some light upon the problem.
+
+But if actual proof is lacking, it is scarcely to be doubted--for the numerous old workings in Rhodesia tell their own tale--that it was the presence of payable gold reefs worked by slave labour which tempted the Phoenician merchants and chapmen, contrary to their custom, to travel so far from the sea and establish themselves inland. Perhaps the city Zimboe was the Ophir spoken of in the first Book of Kings. At least, it is almost certain that its principal industries were the smelting and the sale of gold, also it seems probable that expeditions travelling by sea and land would have occupied quite three years of time in reaching it from Jerusalem and returning thither laden with the gold and precious stones, the ivory and the almug trees (1 Kings x.). Journeying in Africa must have been slow in those days; that it was also dangerous is testified by the ruins of the ancient forts built to protect the route between the gold towns and the sea.
+
+However these things may be, there remains ample room for speculation both as to the dim beginnings of the ancient city and its still dimmer end, whereof we can guess only, when it became weakened by luxury and the mixture of races, that hordes of invading savages stamped it out of existence beneath their blood-stained feet, as, in after ages, they stamped out the Empire of Monomotapa. In the following romantic sketch the writer has ventured--no easy task--to suggest incidents such as might have accompanied this first extinction of the Phoenician Zimbabwe. The pursuit indeed is one in which he can only hope to fill the place of a humble pioneer, since it is certain that in times to come the dead fortress-temples of South Africa will occupy the pens of many generations of the writers of romance who, as he hopes, may have more ascertained facts to build upon than are available to-day.

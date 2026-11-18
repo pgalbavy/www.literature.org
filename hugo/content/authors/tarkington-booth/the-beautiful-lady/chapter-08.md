@@ -1,0 +1,58 @@
+---
+title: "Chapter 8"
+weight: 8
+aliases:
+  - "/authors/tarkington-booth/the-beautiful-lady/chapter-08.html"
+---
+
+Never lived any person with more possession of himself than Antonio; he bowed to each of us with the utmost amiability; and for expression—all one saw of it was a little streak of light in his eye-glass.
+
+"It is yourself, Raffaele?" he said to me, in the politest manner, in our own tongue, the others thinking it some commonplace, and I knew by his voice that the meeting was as surprising and as exasperating to him as to me.
+
+Sometimes dazzling flashes of light explode across the eyes of blind people. Such a thing happened to my own, now, in the darkness. I found myself hot all over with a certain rashness that came to me. I felt that anything was possible if I would but dare enough.
+
+"I am able to see that it is the same yourself!" I answered, and made the faintest eye-turn toward Miss Landry. Simultaneously bowing, I let my hand fall upon my pocket—a language which he understood, and for which (the Blessed Mother be thanked!) he perceived that I meant to offer battle immediately, though at that moment he offered me an open smile of benevolence. He knew nothing of my new cause for war; there was enough of the old!
+
+The others were observing us.
+
+"You have met?" asked the gentle voice of Miss Landry. "You know each other?"
+
+"Exceedingly!" I answered, bowing low to her.
+
+"The dinner is waiting in our own salon," said Mrs. Landry, interrupting. She led the way with Antonio to an open door on the terrace where servants were attending, and such a forest of flowers on the table and about the room as almost to cause her escort to stagger; for I knew, when I caught sight of them, that he had never been wise enough to send them. Neither had Poor Jr. done it out of wisdom, but because of his large way of performing everything, and his wish that loveliest things should be a background for that lady.
+
+Alas for him! Those great jars of perfume, orchids and hyacinths and roses, almost shut her away from his vision. We were at a small round table, and she directly in opposition to him. Upon her right was Antonio, and my heart grew cold to see how she listened to him.
+
+For Antonio could talk. At that time he spoke English even better than I, though without some knowledge of the North-American idiom which my travels with Poor Jr. had given me. He was one of those splendid egoists who seem to talk in modesty, to keep themselves behind scenes, yet who, when the curtain falls, are discovered to be the heroes, after all, though shown in so delicate a fashion that the audience flatters itself in the discovery.
+
+And how practical was this fellow, how many years he had been developing his fascinations! I was the only person of that small company who could have a suspicion that his moustache was dyed, that his hair was toupee, or that hints of his real age were scorpions and adders to him. I should not have thought it, if I had not known it. Here was my advantage: I had known his monstrous vanity all my life.
+
+So he talked of himself in his various surreptitious ways until coffee came, Miss Landry listening eagerly, and my poor friend making no effort; for what were his quiet United States absurdities compared to the whole-world gaieties and Abyssinian adventures of this Othello, particularly for a young girl to whom Antonio's type was unfamiliar? For the first time I saw my young man's brave front desert him. His mouth drooped, and his eyes had an appearance of having gazed long at a bright light. I saw that he, unhappy one, was at last too sure what her answer would be.
+
+For myself, I said very little —I waited. I hoped and believed Antonio would attack me in his clever, disguised way, for he had always hated me and my dead brother, and he had never failed to prove himself too skilful for us. In my expectancy of his assault there was no mistake. I comprehended Antonio very well, and I knew that he feared I might seek to do him an injury, particularly after my inspired speech and gesture upon the terrace. Also, I felt that he would, if possible, anticipate my attempt and strike first. I was willing; for I thought myself in possession of his vulnerable point—never dreaming that he might know my own!
+
+At last when he, with the coffee and cigarettes, took the knife in his hand, he placed a veil over the point. He began, laughingly, with the picture of a pickpocket he had helped to catch in London. London was greatly inhabited by pickpockets, according to Antonio's declaration. Yet, he continued, it was nothing in comparison to Paris. Paris was the rendezvous, the world's home, for the criminals, adventurers, and rascals if the world, English, Spanish, South-Americans, North-Americans,—and even Italians! One must beware of people one had met in Paris!
+
+"Of course," he concluded, with a most amiable smile, "there are many good people there also. That is not to be forgotten. If I should dare to make a risk on such a trifle, for instance, I would lay wager that you"—he nodded toward Poor Jr.—"made the acquaintance of Ansolini in Paris?"
+
+This was of the greatest ugliness in its underneath significance, though the manner was disarming. Antonio's smile was so cheerful, his eye-glass so twinkling, that none of them could have been sure he truly meant anything harmful of me, though Poor Jr. looked up, puzzled and frowning.
+
+Before he could answer I pulled myself altogether, as they say, and leaned forward, resting my elbows upon the table. "It is true," and I tried to smile as amiably as Antonio. "These coincidences occur. You meet all the great frauds of the world in Paris. Was it not there" —I turned to Mrs. Landry—"that you met the young Prince here?"
+
+At this there was no mistaking that the others perceived. The secret battle had begun and was not secret. I saw a wild gleam in Poor Jr.'s eyes, as if he comprehended that strange things were to come; but, ah, the face of distress and wonder upon Mrs. Landry, who beheld the peace of both a Prince and a dinner assailed; and, alas! the strange and hurt surprise that came from the lady of the pongee! Let me not be a boastful fellow, but I had borne her pity and had adored it —I could face her wonder, even her scorn.
+
+It was in the flash of her look that I saw my great chance and what I must try to do. Knowing Antonio, it was as if I saw her falling into the deep water and caught just one contemptuous glance from her before the waves hid her. But how much juster should that contempt have been if I had not tried to save her!
+
+As for that old Antonio, he might have known enough to beware. I had been timid with him always, and he counted on it now, but a man who has shown a painted head-top to the people of Paris will dare a great deal.
+
+"As the Prince says," replied Mrs. Landry, with many flutters, "one meets only the most agreeable people in Paris!"
+
+"Paris!" I exclaimed. "Ah, that home of ingenuity! How they paint there! How they live, and how they dye—their beards!"
+
+You see how the poor Ansolini played the buffoon. I knew they feared it was wine, I had been so silent until now; but I did not care, I was beyond care.
+
+"Our young Prince speaks truly," I cried, raising my voice. "He is wise beyond his years, this youth! He will be great when he reaches middle age, for he knows Paris and understands North America! Like myself, he is grateful that the people of your continent enrich our own! We need all that you can give us! Where should we be—any of us" (I raised my voice still louder and waved my hand to Antonio),—"where should we be, either of us" (and I bowed to the others) "without you?"
+
+Mrs. Landry rose with precipitousness, and the beautiful lady, very red, followed. Antonio, unmistakably stung with the scorpions I had set upon him, sprang to the door, the palest yellow man I have ever beheld, and let the ladies pass before him.
+
+The next moment I was left alone with Poor Jr. and his hyacinth trees.

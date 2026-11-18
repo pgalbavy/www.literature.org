@@ -1,0 +1,204 @@
+---
+title: "Chapter 3"
+weight: 3
+aliases:
+  - "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-03.html"
+---
+
+Connie was aware, however, of a growing restlessness. Out of her disconnexion, a restlessness was taking possession of her like madness. It twitched her limbs when she didn't want to twitch them, it jerked her spine when she didn't want to jerk upright but preferred to rest comfortably. It thrilled inside her body, in her womb, somewhere, till she felt she must jump into water and swim to get away from it; a mad restlessness. It made her heart beat violently for no reason. And she was getting thinner.
+
+It was just restlessness. She would rush off across the park, abandon Clifford, and lie prone in the bracken. To get away from the house...she must get away from the house and everybody. The work was her one refuge, her sanctuary.
+
+But it was not really a refuge, a sanctuary, because she had no connexion with it. It was only a place where she could get away from the rest. She never really touched the spirit of the wood itself...if it had any such nonsensical thing.
+
+Vaguely she knew herself that she was going to pieces in some way. Vaguely she knew she was out of connexion: she had lost touch with the substantial and vital world. Only Clifford and his books, which did not exist...which had nothing in them! Void to void. Vaguely she knew. But it was like beating her head against a stone.
+
+Her father warned her again: 'Why don't you get yourself a beau, Connie? Do you all the good in the world.'
+
+That winter Michaelis came for a few days. He was a young Irishman who had already made a large fortune by his plays in America. He had been taken up quite enthusiastically for a time by smart society in London, for he wrote smart society plays. Then gradually smart society realized that it had been made ridiculous at the hands of a down-at-heel Dublin street-rat, and revulsion came. Michaelis was the last word in what was caddish and bounderish. He was discovered to be anti-English, and to the class that made this discovery this was worse than the dirtiest crime. He was cut dead, and his corpse thrown into the refuse can.
+
+Nevertheless Michaelis had his apartment in Mayfair, and walked down Bond Street the image of a gentleman, for you cannot get even the best tailors to cut their low-down customers, when the customers pay.
+
+Clifford was inviting the young man of thirty at an inauspicious moment in thyoung man's career. Yet Clifford did not hesitate. Michaelis had the ear of a few million people, probably; and, being a hopeless outsider, he would no doubt be grateful to be asked down to Wragby at this juncture, when the rest of the smart world was cutting him. Being grateful, he would no doubt do Clifford 'good' over there in America. Kudos! A man gets a lot of kudos, whatever that may be, by being talked about in the right way, especially 'over there'. Clifford was a coming man; and it was remarkable what a sound publicity instinct he had. In the end Michaelis did him most nobly in a play, and Clifford was a sort of popular hero. Till the reaction, when he found he had been made ridiculous.
+
+Connie wondered a little over Clifford's blind, imperious instinct to become known: known, that is, to the vast amorphous world he did not himself know, and of which he was uneasily afraid; known as a writer, as a first-class modern writer. Connie was aware from successful, old, hearty, bluffing Sir Malcolm, that artists did advertise themselves, and exert themselves to put their goods over. But her father used channels ready-made, used by all the other R. A.s who sold their pictures. Whereas Clifford discovered new channels of publicity, all kinds. He had all kinds of people at Wragby, without exactly lowering himself. But, determined to build himself a monument of a reputation quickly, he used any handy rubble in the making.
+
+Michaelis arrived duly, in a very neat car, with a chauffeur and a manservant. He was absolutely Bond Street! But at right of him something in Clifford's county soul recoiled. He wasn't exactly... not exactly...in fact, he wasn't at all, well, what his appearance intended to imply. To Clifford this was final and enough. Yet he was very polite to the man; to the amazing success in him. The bitch-goddess, as she is called, of Success, roamed, snarling and protective, round the half-humble, half-defiant Michaelis' heels, and intimidated Clifford completely: for he wanted to prostitute himself to the bitch-goddess, Success also, if only she would have him.
+
+Michaelis obviously wasn't an Englishman, in spite of all the tailors, hatters, barbers, booters of the very best quarter of London. No, no, he obviously wasn't an Englishman: the wrong sort of flattish, pale face and bearing; and the wrong sort of grievance. He had a grudge and a grievance: that was obvious to any true-born English gentleman, who would scorn to let such a thing appear blatant in his own demeanour. Poor Michaelis had been much kicked, so that he had a slightly tail-between-the-legs look even now. He had pushed his way by sheer instinct and sheerer effrontery on to the stage and to the front of it, with his plays. He had caught the public. And he had thought the kicking days were over. Alas, they weren't... They never would be. For he, in a sense, asked to be kicked. He pined to be where he didn't belong...among the English upper classes. And how they enjoyed the various kicks they got at him! And how he hated them!
+
+Nevertheless he travelled with his manservant and his very neat car, this Dublin mongrel.
+
+There was something about him that Connie liked. He didn't put on airs to himself, he had no illusions about himself. He talked to Clifford sensibly, briefly, practically, about all the things Clifford wanted to know. He didn't expand or let himself go. He knew he had been asked down to Wragby to be made use of, and like an old, shrewd, almost indifferent business man, or big-business man, he let himself be asked questions, and he answered with as little waste of feeling as possible.
+
+'Money!' he said. 'Money is a sort of instinct. It's a sort of property of nature in a man to make money. It's nothing you do. It's no trick you play. It's a sort of permanent accident of your own nature; once you start, you make money, and you go on; up to a point, I suppose.'
+
+'But you've got to begin,' said Clifford.
+
+'Oh, quite! You've got to get IN. You can do nothing if you are kept outside. You've got to beat your way in. Once you've done that, you can't help it.'
+
+'But could you have made money except by plays?' asked Clifford.
+
+'Oh, probably not! I may be a good writer or I may be a bad one, but a writer and a writer of plays is what I am, and I've got to be. There's no question of that.'
+
+'And you think it's a writer of popular plays that you've got to be?' asked Connie.
+
+'There, exactly!' he said, turning to her in a sudden flash. 'There's nothing in it! There's nothing in popularity. There's nothing in the public, if it comes to that. There's nothing really in my plays to make them popular. It's not that. They just are like the weather...the sort that will HAVE to be...for the time being.'
+
+He turned his slow, rather full eyes, that had been drowned in such fathomless disillusion, on Connie, and she trembled a little. He seemed so old...endlessly old, built up of layers of disillusion, going down in him generation after generation, like geological strata; and at the same time he was forlorn like a child. An outcast, in a certain sense; but with the desperate bravery of his rat-like existence.
+
+'At least it's wonderful what you've done at your time of life,' said Clifford contemplatively.
+
+'I'm thirty...yes, I'm thirty!' said Michaelis, sharply and suddenly, with a curious laugh; hollow, triumphant, and bitter.
+
+'And are you alone?' asked Connie.
+
+'How do you mean? Do I live alone? I've got my servant. He's a Greek, so he says, and quite incompetent. But I keep him. And I'm going to marry. Oh, yes, I must marry.'
+
+'It sounds like going to have your tonsils cut,' laughed Connie. 'Will it be an effort?'
+
+He looked at her admiringly. 'Well, Lady Chatterley, somehow it will! I find... excuse me... I find I can't marry an Englishwoman, not even an Irishwoman...'
+
+'Try an American,' said Clifford.
+
+'Oh, American!' He laughed a hollow laugh. 'No, I've asked my man if he will find me a Turk or something...something nearer to the Oriental.'
+
+Connie really wondered at this queer, melancholy specimen of extraordinary success; it was said he had an income of fifty thousand dollars from America alone. Sometimes he was handsome: sometimes as he looked sideways, downwards, and the light fell on him, he had the silent, enduring beauty of a carved ivory Negro mask, with his rather full eyes, and the strong queerly-arched brows, the immobile, compressed mouth; that momentary but revealed immobility, an immobility, a timelessness which the Buddha aims at, and which Negroes express sometimes without ever aiming at it; something old, old, and acquiescent in the race! Aeons of acquiescence in race destiny, instead of our individual resistance. And then a swimming through, like rats in a dark river. Connie felt a sudden, strange leap of sympathy for him, a leap mingled with compassion, and tinged with repulsion, amounting almost to love. The outsider! The outsider! And they called him a bounder! How much more bounderish and assertive Clifford looked! How much stupider!
+
+Michaelis knew at once he had made an impression on her. He turned his full, hazel, slightly prominent eyes on her in a look of pure detachment. He was estimating her, and the extent of the impression he had made. With the English nothing could save him from being the eternal outsider, not even love. Yet women sometimes fell for him...Englishwomen too.
+
+He knew just where he was with Clifford. They were two alien dogs which would have liked to snarl at one another, but which smiled instead, perforce. But with the woman he was not quite so sure.
+
+Breakfast was served in the bedrooms; Clifford never appeared before lunch, and the dining-room was a little dreary. After coffee Michaelis, restless and ill-sitting soul, wondered what he should do. It was a fine November...day fine for Wragby. He looked over the melancholy park. My God! What a place!
+
+He sent a servant to ask, could he be of any service to Lady Chatterley: he thought of driving into Sheffield. The answer came, would he care to go up to Lady Chatterley's sitting-room.
+
+Connie had a sitting-room on the third floor, the top floor of the central portion of the house. Clifford's rooms were on the ground floor, of course. Michaelis was flattered by being asked up to Lady Chatterley's own parlour. He followed blindly after the servant...he never noticed things, or had contact with Isis surroundings. In her room he did glance vaguely round at the fine German reproductions of Renoir and C‚zanne.
+
+'It's very pleasant up here,' he said, with his queer smile, as if it hurt him to smile, showing his teeth. 'You are wise to get up to the top.'
+
+'Yes, I think so,' she said.
+
+Her room was the only gay, modern one in the house, the only spot in Wragby where her personality was at all revealed. Clifford had never seen it, and she asked very few people up.
+
+Now she and Michaelis sit on opposite sides of the fire and talked. She asked him about himself, his mother and father, his brothers...other people were always something of a wonder to her, and when her sympathy was awakened she was quite devoid of class feeling. Michaelis talked frankly about himself, quite frankly, without affectation, simply revealing his bitter, indifferent, stray-dog's soul, then showing a gleam of revengeful pride in his success.
+
+'But why are you such a lonely bird?' Connie asked him; and again he looked at her, with his full, searching, hazel look.
+
+'Some birds ARE that way,' he replied. Then, with a touch of familiar irony: 'but, look here, what about yourself? Aren't you by way of being a lonely bird yourself?' Connie, a little startled, thought about it for a few moments, and then she said: 'Only in a way! Not altogether, like you!'
+
+'Am I altogether a lonely bird?' he asked, with his queer grin of a smile, as if he had toothache; it was so wry, and his eyes were so perfectly unchangingly melancholy, or stoical, or disillusioned or afraid.
+
+'Why?' she said, a little breathless, as she looked at him. 'You are, aren't you?'
+
+She felt a terrible appeal coming to her from him, that made her almost lose her balance.
+
+'Oh, you're quite right!' he said, turning his head away, and looking sideways, downwards, with that strange immobility of an old race that is hardly here in our present day. It was that that really made Connie lose her power to see him detached from herself.
+
+He looked up at her with the full glance that saw everything, registered everything. At the same time, the infant crying in the night was crying out of his breast to her, in a way that affected her very womb.
+
+'It's awfully nice of you to think of me,' he said laconically.
+
+'Why shouldn't I think of you?' she exclaimed, with hardly breath to utter it.
+
+He gave the wry, quick hiss of a laugh.
+
+'Oh, in that way!...May I hold your hand for a minute?' he asked suddenly, fixing his eyes on her with almost hypnotic power, and sending out an appeal that affected her direct in the womb.
+
+She stared at him, dazed and transfixed, and he went over and kneeled beside her, and took her two feet close in his two hands, and buried his face in her lap, remaining motionless. She was perfectly dim and dazed, looking down in a sort of amazement at the rather tender nape of his neck, feeling his face pressing her thighs. In all her burning dismay, she could not help putting her hand, with tenderness and compassion, on the defenceless nape of his neck, and he trembled, with a deep shudder.
+
+Then he looked up at her with that awful appeal in his full, glowing eyes. She was utterly incapable of resisting it. From her breast flowed the answering, immense yearning over him; she must give him anything, anything.
+
+He was a curious and very gentle lover, very gentle with the woman, trembling uncontrollably, and yet at the same time detached, aware, aware of every sound outside.
+
+To her it meant nothing except that she gave herself to him. And at length he ceased to quiver any more, and lay quite still, quite still. Then, with dim, compassionate fingers, she stroked his head, that lay on her breast.
+
+When he rose, he kissed both her hands, then both her feet, in their suede slippers, and in silence went away to the end of the room, where he stood with his back to her. There was silence for some minutes. Then he turned and came to her again as she sat in her old place by the fire.
+
+'And now, I suppose you'll hate me!' he said in a quiet, inevitable way. She looked up at him quickly.
+
+'Why should I?' she asked.
+
+'They mostly do,' he said; then he caught himself up. 'I mean...a woman is supposed to.'
+
+'This is the last moment when I ought to hate you,' she said resentfully.
+
+'I know! I know! It should be so! You're FRIGHTFULLY good to me...' he cried miserably.
+
+She wondered why he should be miserable. 'Won't you sit down again?' she said. He glanced at the door.
+
+'Sir Clifford!' he said, 'won't he...won't he be...?' She paused a moment to consider. 'Perhaps!' she said. And she looked up at him. 'I don't want Clifford to know not even to suspect. It WOULD hurt him so much. But I don't think it's wrong, do you?'
+
+'Wrong! Good God, no! You're only too infinitely good to me...I can hardly bear it.'
+
+He turned aside, and she saw that in another moment he would be sobbing.
+
+'But we needn't let Clifford know, need we?' she pleaded. 'It would hurt him so. And if he never knows, never suspects, it hurts nobody.'
+
+'Me!' he said, almost fiercely; 'he'll know nothing from me! You see if he does. Me give myself away! Ha! Ha!' he laughed hollowly, cynically, at such an idea. She watched him in wonder. He said to her: 'May I kiss your hand arid go? I'll run into Sheffield I think, and lunch there, if I may, and be back to tea. May I do anything for you? May I be sure you don't hate me? - and that you won't?' - he ended with a desperate note of cynicism.
+
+'No, I don't hate you,' she said. 'I think you're nice.'
+
+'Ah!' he said to her fiercely, 'I'd rather you said that to me than said you love me! It means such a lot more...Till afternoon then. I've plenty to think about till then.' He kissed her hands humbly and was gone.
+
+'I don't think I can stand that young man,' said Clifford at lunch.
+
+'Why?' asked Connie.
+
+'He's such a bounder underneath his veneer...just waiting to bounce us.'
+
+'I think people have been so unkind to him,' said Connie.
+
+'Do you wonder? And do you think he employs his shining hours doing deeds of kindness?'
+
+'I think he has a certain sort of generosity.'
+
+'Towards whom?'
+
+'I don't quite know.'
+
+'Naturally you don't. I'm afraid you mistake unscrupulousness for generosity.'
+
+Connie paused. Did she? It was just possible. Yet the unscrupulousness of Michaelis had a certain fascination for her. He went whole lengths where Clifford only crept a few timid paces. In his way he had conquered the world, which was what Clifford wanted to do. Ways and means...? Were those of Michaelis more despicable than those of Clifford? Was the way the poor outsider had shoved and bounced himself forward in person, and by the back doors, any worse than Clifford's way of advertising himself into prominence? The bitch-goddess, Success, was trailed by thousands of gasping, dogs with lolling tongues. The one that got her first was the real dog among dogs, if you go by success! So Michaelis could keep his tail up.
+
+The queer thing was, he didn't. He came back towards tea-time with a large handful of violets and lilies, and the same hang-dog expression. Connie wondered sometimes if it were a sort of mask to disarm opposition, because it was almost too fixed. Was he really such a sad dog?
+
+His sad-dog sort of extinguished self persisted all the evening, though through it Clifford felt the inner effrontery. Connie didn't feel it, perhaps because it was not directed against women; only against men, and their presumptions and assumptions. That indestructible, inward effrontery in the meagre fellow was what made men so down on Michaelis. His very presence was an affront to a man of society, cloak it as he might in an assumed good manner.
+
+Connie was in love with him, but she managed to sit with her embroidery and let the men talk, and not give herself away. As for Michaelis, he was perfect; exactly the same melancholic, attentive, aloof young fellow of the previous evening, millions of degrees remote from his hosts, but laconically playing up to them to the required amount, and never coming forth to them for a moment. Connie felt he must have forgotten the morning. He had not forgotten. But he knew where he was...in the same old place outside, where the born outsiders are. He didn't take the love-making altogether personally. He knew it would not change him from an ownerless dog, whom everybody begrudges its golden collar, into a comfortable society dog.
+
+The final fact being that at the very bottom of his soul he WASan outsider, and anti-social, and he accepted the fact inwardly, no matter how Bond-Streety he was on the outside. His isolation was a necessity to him; just as the appearance of conformity and mixing-in with the smart people was also a necessity.
+
+But occasional love, as a comfort arid soothing, was also a good thing, and he was not ungrateful. On the contrary, he was burningly, poignantly grateful for a piece of natural, spontaneous kindness: almost to tears. Beneath his pale, immobile, disillusioned face, his child's soul was sobbing with gratitude to the woman, and burning to come to her again; just as his outcast soul was knowing he would keep really clear of her.
+
+He found an opportunity to say to her, as they were lighting the candles in the hall:
+
+'May I come?'
+
+'I'll come to you,' she said.
+
+'Oh, good!'
+
+He waited for her a long time...but she came.
+
+He was the trembling excited sort of lover, whose crisis soon came, and was finished. There was something curiously childlike and defenceless about his naked body: as children are naked. His defences were all in his wits and cunning, his very instincts of cunning, and when these were in abeyance he seemed doubly naked and like a child, of unfinished, tender flesh, and somehow struggling helplessly.
+
+He roused in the woman a wild sort of compassion and yearning, and a wild, craving physical desire. The physical desire he did not satisfy in her; he was always come and finished so quickly, then shrinking down on her breast, and recovering somewhat his effrontery while she lay dazed, disappointed, lost.
+
+But then she soon learnt to hold him, to keep him there inside her when his crisis was over. And there he was generous and curiously potent; he stayed firm inside her, giving to her, while she was active...wildly, passionately active, coming to her own crisis. And as he felt the frenzy of her achieving her own orgasmic satisfaction from his hard, erect passivity, he had a curious sense of pride and satisfaction.
+
+'Ah, how good!' she whispered tremulously, and she became quite still, clinging to him. And he lay there in his own isolation, but somehow proud.
+
+He stayed that time only the three days, and to Clifford was exactly the same as on the first evening; to Connie also. There was no breaking down his external man.
+
+He wrote to Connie with the same plaintive melancholy note as ever, sometimes witty, and touched with a queer, sexless affection. A kind of hopeless affection he seemed to feel for her, and the essential remoteness remained the same. He was hopeless at the very core of him, and he wanted to be hopeless. He rather hated hope. 'UNE IMMENSE ESPRANCE A TRAVERS LA TERRE', he read somewhere, and his comment was:' - and it's darned-well drowned everything worth having.'
+
+Connie never really understood him, but, in her way, she loved him. And all the time she felt the reflection of his hopelessness in her. She couldn't quite, quite love in hopelessness. And he, being hopeless, couldn't ever quite love at all.
+
+So they went on for quite a time, writing, and meeting occasionally in London. She still wanted the physical, sexual thrill she could get with him by her own activity, his little orgasm being over. And he still wanted to give it her. Which was enough to keep them connected.
+
+And enough to give her a subtle sort of self-assurance, something blind and a little arrogant. It was an almost mechanical confidence in her own powers, and went with a great cheerfulness.
+
+She was terrifically cheerful at Wragby. And she used all her aroused cheerfulness and satisfaction to stimulate Clifford, so that he wrote his best at this time, and was almost happy in his strange blind way. He really reaped the fruits of the sensual satisfaction she got out of Michaelis' male passivity erect inside her. But of course he never knew it, and if he had, he wouldn't have said thank you!
+
+Yet when those days of her grand joyful cheerfulness and stimulus were gone, quite gone, and she was depressed and irritable, how Clifford longed for them again! Perhaps if he'd known he might even have wished to get her and Michaelis together again.

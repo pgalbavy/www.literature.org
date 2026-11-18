@@ -1,0 +1,82 @@
+---
+title: "Chapter 5 - The Landlady's Discovery"
+weight: 5
+aliases:
+  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-05.html"
+---
+
+I SAT down, and tried to compose my spirits. Now or never was the time to decide what it was my duty to my husband and my duty to myself to do next.
+
+The effort was beyond me. Worn out in mind and body alike, I was perfectly incapable of pursuing any regular train of thought. I vaguely felt--if I left things as they were--that I could never hope to remove the shadow which now rested on the married life that had begun so brightly. We might live together, so as to save appearances. But to forget what had happened, or to feel satisfied with my position, was beyond the power of my will. My tranquillity as a woman--perhaps my dearest interests as a wife--depended absolutely on penetrating the mystery of my mother-in-law's conduct, and on discovering the true meaning of the wild words of penitence and self-reproach which my husband had addressed to me on our way home.
+
+So far I could advance toward realizing my position--and no further. When I asked myself what was to be done next, hopeless confusion, maddening doubt, filled my mind, and transformed me into the most listless and helpless of living women.
+
+I gave up the struggle. In dull, stupid, obstinate despair, I threw myself on my bed, and fell from sheer fatigue into a broken, uneasy sleep.
+
+I was awakened by a knock at the door of my room.
+
+Was it my husband? I started to my feet as the idea occurred to me. Was some new trial of my patience and my fortitude at hand? Half nervously, half irritably, I asked who was there.
+
+The landlady's voice answered me.
+
+"Can I speak to you for a moment, if you please?"
+
+I opened the door. There is no disguising it--though I loved him so dearly, though I had left home and friends for his sake--it was a relief to me, at that miserable time, to know that Eustace had not returned to the house.
+
+The landlady came in, and took a seat, without waiting to be invited, close by my side. She was no longer satisfied with merely asserting herself as my equal. Ascending another step on the social ladder, she took her stand on the platform of patronage, and charitably looked down on me as an object of pity.
+
+"I have just returned from Broadstairs," she began. "I hope you will do me the justice to believe that I sincerely regret what has happened."
+
+I bowed, and said nothing.
+
+"As a gentlewoman myself," proceeded the landlady--"reduced by family misfortunes to let lodgings, but still a gentlewoman--I feel sincere sympathy with you. I will even go further than that. I will take it on myself to say that I don't blame _you_. No, no. I noticed that you were as much shocked and surprised at your mother-in-law's conduct as I was; and that is saying a great deal--a great deal indeed. However, I have a duty to perform. It is disagreeable, but it is not the less a duty on that account. I am a single woman; not from want of opportunities of changing my condition--I beg you will understand that--but from choice. Situated as I am, I receive only the most respectable persons into my house. There must be no mystery about the positions of _my_ lodgers. Mystery in the position of a lodger carries with it--what shall I say? I don't wish to offend you--I will say, a certain Taint. Very well. Now I put it to your own common-sense. Can a person in my position be expected to expose herself to--Taint? I make these remarks in a sisterly and Christian spirit. As a lady yourself--I will even go the length of saying a cruelly used lady--you will, I am sure, understand--"
+
+I could endure it no longer. I stopped her there.
+
+"I understand," I said, "that you wish to give us notice to quit your lodgings. When do you want us to go?"
+
+The landlady held up a long, lean, red hand, in a sorrowful and sisterly protest.
+
+"No," she said. "Not that tone; not those looks. It's natural you should be annoyed; it's natural you should be angry. But do--now do please try and control yourself. I put it to your own common-sense (we will say a week for the notice to quit)--why not treat me like a friend? You don't know what a sacrifice, what a cruel sacrifice, I have made--entirely for your sake.
+
+"You?" I exclaimed. "What sacrifice?"
+
+"What sacrifice?" repeated the landlady. "I have degraded myself as a gentlewoman. I have forfeited my own self-respect." She paused for a moment, and suddenly seized my hand in a perfect frenzy of friendship. "Oh, my poor dear!" cried this intolerable person. "I have discovered everything. A villain has deceived you. You are no more married than I am!"
+
+I snatched my hand out of hers, and rose angrily from my chair.
+
+"Are you mad?" I asked.
+
+The landlady raised her eyes to the ceiling with the air of a person who had deserved martyrdom, and who submitted to it cheerfully.
+
+"Yes," she said. "I begin to think I _am_ mad--mad to have devoted myself to an ungrateful woman, to a person who doesn't appreciate a sisterly and Christian sacrifice of self. Well, I won't do it again. Heaven forgive me--I won't do it again!"
+
+"Do what again?" I asked.
+
+"Follow your mother-in-law," cried the landlady, suddenly dropping the character of a martyr, and assuming the character of a vixen in its place. "I blush when I think of it. I followed that most respectable person every step of the way to her own door."
+
+Thus far my pride had held me up. It sustained me no longer. I dropped back again into my chair, in undisguised dread of what was coming next.
+
+"I gave you a look when I left you on the beach," pursued the landlady, growing louder and louder and redder and redder as she went on. "A grateful woman would have understood that look. Never mind! I won't do it again I overtook your mother-in-law at the gap in the cliff. I followed her--oh, how I feel the disgrace of it _now!_--I followed her to the station at Broadstairs. She went back by train to Ramsgate. _I_ went back by train to Ramsgate. She walked to her lodgings. _I_ walked to her lodgings. Behind her. Like a dog. Oh, the disgrace of it! Providentially, as I then thought--I don't know what to think of it now--the landlord of the house happened to be a friend of mine, and happened to be at home. We have no secrets from each other where lodgers are concerned. I am in a position to tell you, madam, what your mother-in-law's name really is. She knows nothing about any such person as Mrs. Woodville, for an excellent reason. Her name is _not_ Woodville. Her name (and consequently her son's name) is Macallan--Mrs. Macallan, widow of the late General Macallan. Yes! your husband is _not_ your husband. You are neither maid, wife, nor widow. You are worse than nothing, madam, and you leave my house!"
+
+I stopped her as she opened the door to go out. She had roused _my_ temper by this time. The doubt that she had cast on my marriage was more than mortal resignation could endure.
+
+"Give me Mrs. Macallan's address," I said.
+
+The landlady's anger receded into the background, and the landlady's astonishment appeared in its place.
+
+"You don't mean to tell me you are going to the old lady herself?" she said.
+
+"Nobody but the old lady can tell me what I want to know," I answered. "Your discovery (as you call it) may be enough for _you_; it is not enough for _me_. How do we know that Mrs. Macallan may not have been twice married? and that her first husband's name may not have been Woodville?"
+
+The landlady's astonishment subsided in its turn, and the landlady's curiosity succeeded as the ruling influence of the moment. Substantially, as I have already said of her, she was a good-natured woman. Her fits of temper (as is usual with good-natured people) were of the hot and the short-lived sort, easily roused and easily appeased.
+
+"I never thought of that," she said. "Look here! if I give you the address, will you promise to tell me all about it when you come back?"
+
+I gave the required promise, and received the address in return.
+
+"No malice," said the landlady, suddenly resuming all her old familiarity with me.
+
+"No malice," I answered, with all possible cordiality on my side.
+
+In ten minutes more I was at my mother-in-law's lodgings.

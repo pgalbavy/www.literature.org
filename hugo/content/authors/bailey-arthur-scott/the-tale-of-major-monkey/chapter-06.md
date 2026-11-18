@@ -1,0 +1,50 @@
+---
+title: "Chapter 6 - Too Many Disputes"
+weight: 6
+aliases:
+  - "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-06.html"
+---
+
+On the whole, Mr. Crow's party would have been a great success if it hadn't been for Peter Mink and Tommy Fox.
+
+As soon as Major Monkey showed himself, after throwing the apple at Mr. Crow, those two began whispering slyly together. And when the Major climbed a tree and hung from a limb by his tail they both jumped up and said to Mr. Crow:
+
+"We saw Major Monkey before you ever did!"
+
+Mr. Crow promptly flew into a rage.
+
+"You did not!" he squalled.
+
+"Yes, we did!" they declared. "We told people several days ago that we had seen a stranger hanging by his tail; and nobody believed us because you said it wasn't possible. You said nobody but a 'possum could do that, and that no 'possum ever came as far north as Pleasant Valley."
+
+Old Mr. Crow was very angry. Although he knew that Tommy and Peter were speaking the truth, he did not care to hear it. Certainly there was no use of his denying what they said. But an idea popped into his head.
+
+"Which of you saw the Major first?" he asked.
+
+"I did!" they both bawled at the same time. And then followed a terrible dispute: "You didn't! I did! I did! You didn't!"
+
+Now, that was exactly what Mr. Crow wanted. He had started Peter Mink and Tommy Fox to quarreling. "They'll never agree," Mr. Crow cried. "Let's ask Major Monkey to settle the dispute! Let's leave it to him!" And turning to his friend, the Major, Mr. Crow said: "Which of these two sharp-nosed rascals did you see first?"
+
+Major Monkey took a bite out of his apple while he looked closely at Peter Mink and Tommy Fox.
+
+"I never saw either of them until I came to this party," he declared. "And then I saw both at the same time, because they were whispering together."
+
+"There!" Mr. Crow shouted to the whole company. "You hear what my old friend the Major says?"
+
+Tommy Fox and Peter Mink stopped quarreling.
+
+"You didn't ask the Major the proper question!" they objected. "We never said he saw us at all! We said----"
+
+But Mr. Crow waved them aside.
+
+"If you aren't too hungry," he muttered to Major Monkey, "I'd suggest that you let fly with that red apple."
+
+The Major was only too willing. With deadly aim he flung the apple at Peter Mink and Tommy Fox. First it hit Peter on the nose, and then it bounced off and struck Tommy on his nose.
+
+And then the party came to an end in an awful uproar. For Peter and Tommy were very angry. Those that could fly flew away in a great hurry. And those that could run scampered quickly out of sight. As for the soldier, Major Monkey, he climbed a tree and hung by his tail from a limb, where he swung backwards and forwards and made faces at Tommy Fox and Peter Mink until their rage was terrible to see.
+
+Mr. Crow did not desert his friend the Major. He remained in a tree near-by, to watch the fun. And there's no telling how long it would have lasted had not Major Monkey pulled himself suddenly up on a limb and laid a hand across the front of his red coat. There was a look of pain upon his face.
+
+"What's the matter?" Mr. Crow asked him. "Are you wounded?" he inquired. Knowing that the Major was a soldier, he could think of nothing but a wound that would make him act as he did.
+
+"I--I'm not sure," Major Monkey replied. "It may be that I've eaten too many apples."

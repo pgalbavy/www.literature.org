@@ -1,0 +1,52 @@
+---
+title: "Chapter 12"
+weight: 13
+aliases:
+  - "/authors/baum-l-frank/the-road-to-oz/chapter-12.html"
+---
+
+"Oh, that's too bad!" cried Dorothy; "I wanted to thank Johnny Dooit for all his kindness to us."
+
+"He hasn't time to listen to thanks," replied the shaggy man; "but I'm sure he knows we are grateful. I suppose he is already at work in some other part of the world."
+
+They now looked more carefully at the sand-boat, and saw that the bottom was modeled with two sharp runners which would glide through the sand. The front of the sand-boat was pointed like the bow of a ship, and there was a rudder at the stern to steer by.
+
+It had been built just at the edge of the desert, so that all its length lay upon the gray sand except the after part, which still rested on the strip of grass.
+
+"Get in, my dears," said the shaggy man; "I'm sure I can manage this boat as well as any sailor. All you need do is sit still in your places."
+
+Dorothy got in, Toto in her arms, and sat on the bottom of the boat just in front of the mast. Button-Bright sat in front of Dorothy, while Polly leaned over the bow. The shaggy man knelt behind the mast. When all were ready he raised the sail half-way. The wind caught it. At once the sand-boat started forward--slowly at first, then with added speed. The shaggy man pulled the sail way up, and they flew so fast over the Deadly Desert that every one held fast to the sides of the boat and scarcely dared to breathe.
+
+The sand lay in billows, and was in places very uneven, so that the boat rocked dangerously from side to side; but it never quite tipped over, and the speed was so great that the shaggy man himself became frightened and began to wonder how he could make the ship go slower.
+
+"It we're spilled in this sand, in the middle of the desert," Dorothy thought to herself, "we'll be nothing but dust in a few minutes, and that will be the end of us."
+
+But they were not spilled, and by-and-by Polychrome, who was clinging to the bow and looking straight ahead, saw a dark line before them and wondered what it was. It grew plainer every second, until she discovered it to be a row of jagged rocks at the end of the desert, while high above these rocks she could see a tableland of green grass and beautiful trees.
+
+"Look out!" she screamed to the shaggy man. "Go slowly, or we shall smash into the rocks."
+
+He heard her, and tried to pull down the sail; but the wind would not let go of the broad canvas and the ropes had become tangled.
+
+Nearer and nearer they drew to the great rocks, and the shaggy man was in despair because he could do nothing to stop the wild rush of the sand-boat.
+
+They reached the edge of the desert and bumped squarely into the rocks. There was a crash as Dorothy, Button-Bright, Toto and Polly flew up in the air in a curve like a skyrocket's, one after another landing high upon the grass, where they rolled and tumbled for a time before they could stop themselves.
+
+The shaggy man flew after them, head first, and lighted in a heap beside Toto, who, being much excited at the time, seized one of the donkey ears between his teeth and shook and worried it as hard as he could, growling angrily. The shaggy man made the little dog let go, and sat up to look around him.
+
+Dorothy was feeling one of her front teeth, which was loosened by knocking against her knee as she fell. Polly was looking sorrowfully at a rent in her pretty gauze gown, and Button-Bright's fox head had stuck fast in a gopher hole and he was wiggling his little fat legs frantically in an effort to get free.
+
+Otherwise they were unhurt by the adventure; so the shaggy man stood up and pulled Button-Bright out of the hole and went to the edge of the desert to look at the sand-boat. It was a mere mass of splinters now, crushed out of shape against the rocks. The wind had torn away the sail and carried it to the top of a tall tree, where the fragments of it fluttered like a white flag.
+
+"Well," he said, cheerfully, "we're here; but where the here is I don't know."
+
+"It must be some part of the Land of Oz," observed Dorothy, coming to his side.
+
+"Must it?"
+
+"'Course it must. We're across the desert, aren't we? And somewhere in the middle of Oz is the Emerald City."
+
+"To be sure," said the shaggy man, nodding. "Let's go there."
+
+"But I don't see any people about, to show us the way," she continued.
+
+"Let's hunt for them," he suggested. "There must be people somewhere; but perhaps they did not expect us, and so are not at hand to give us a welcome."

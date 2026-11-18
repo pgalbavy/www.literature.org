@@ -1,0 +1,46 @@
+---
+title: "Chapter 16 - The Play-House"
+weight: 16
+aliases:
+  - "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-16.html"
+---
+
+As Billy Woodchuck grew bigger he was often to be seen digging holes in the pasture. You might think he was looking for something. But he was not. He was merely playing at making houses.
+
+First he would dig a slanting hole down into the ground. And then from the bottom of that he would run a level tunnel. When his tunnel was as long as he wanted it, he would work his way upward for a short distance. And there he would make a chamber, much like the one at home.
+
+Of course, Billy's play-houses were not so big as his mother's home. The front stairs were shorter, and the hall was not so long, and the chamber was smaller. But he thought they were wonderful. And he made up his mind that the next time Johnnie Green or dog Spot chased him he would run down into one of those play-houses and hide. Billy hoped that he would be chased soon.
+
+He did not have to wait long. One evening when old Spot had started the last cow homeward he lingered in the pasture a while. If there was one thing he liked, it was chasing woodchucks.
+
+When Billy Woodchuck caught sight of Spot, sniffing along the ground, he climbed up on a hummock, so that Spot could see him, and gave a loud whistle.
+
+It didn't take old Spot long to see Billy. And as soon as he spied him he made a dash for him.
+
+That was exactly what Billy Woodchuck wanted. He waited as long as he dared. And then he made off like a gray streak toward his newest house.
+
+Old Spot saw his bushy tail disappear through the front door. And Spot looked down into the darkness and called Billy a few names.
+
+He pawed and scratched at the door, too. But he was no such digger as Billy Woodchuck. And after a while he grew tired of staying there and went away.
+
+That night, after Billy Woodchuck went home, he boasted about his newest play-house.
+
+"It's exactly as good as this one," he bragged. "To-day old Spot chased me, and I ran into my house and he never touched me. After this I'm always going to hide there."
+
+Billy's brothers and sisters thought he was very clever. But his mother said:
+
+"I want to see that play-house. To-morrow you may show it to me."
+
+That pleased Billy. It made him feel prouder than ever. And the next morning he was up bright and early. Sometimes he was very slow about dressing, because he stopped to play. And that made him late to breakfast. But this morning he was even ahead of time.
+
+As soon as Mrs. Woodchuck had finished her meal of plantain leaves, Billy reminded her that she had promised to look at his play-house.
+
+She followed him through the front door that he had made, walked to the end of the tunnel, and into the tiny chamber.
+
+Once inside that room Mrs. Woodchuck took one quick look all around. And then she turned and ran out as fast as her short legs would carry her, calling all the time to Billy to hurry. When she reached the open air Mrs. Woodchuck had to sit down and fan herself, she was so excited.
+
+"Why did you come out so soon--and so fast?" Billy asked her.
+
+"That's nothing but a trap," his mother said. "You haven't built any back door. And if a weasel or a mink or a snake should come in after you, there you'd be, with no way to escape.... I haven't had such a fright for years."
+
+Billy Woodchuck looked foolish. He had never once thought about a back door. But after that he never forgot to build one. He saw that a back door was something that every house ought to have.

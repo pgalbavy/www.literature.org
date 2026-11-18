@@ -1,0 +1,346 @@
+---
+title: "Chapter 16 - The Impossible Struggle"
+weight: 16
+aliases:
+  - "/authors/leblanc-maurice/the-woman-of-mystery/chapter-16.html"
+---
+
+In the terrible state of distress into which those last words threw him, Paul felt the need of some immediate action, even as he had done at the sight of the banquet given by Prince Conrad. Certainly, all hope was lost. His plan, which was to use the tunnel before the alarm was raised, his plan was shattered. Granting that he succeeded in finding Élisabeth and delivering her, a very unlikely contingency, at what moment would this take place? And how was he afterwards to escape the enemy and return to France?
+
+No, henceforward space and time were both against him. His defeat was such that there was nothing for it but to resign himself and await the final blow.
+
+And yet he did not flinch. He saw that any weakness would be irreparable. The impulse that had carried him so far must be continued unchecked and with more vigor than ever.
+
+He walked up to the spy. The woman was stooping over the body and examining it by the light of one of the lamps which she had taken down.
+
+"He's dead, isn't he?" asked Paul.
+
+"Yes, he's dead. Two bullets hit him in the back." And she murmured, in a broken voice, "It's horrible, what I've done. I've killed him myself! But it's not a murder, sir, is it? And I had the right to, hadn't I? . . . But it's horrible all the same . . . I've killed Karl!"
+
+Her face, which was young and still rather pretty, though common, was distorted. Her eyes seemed glued to the corpse.
+
+"Who are you?" asked Paul.
+
+She replied, sobbing:
+
+"I was his sweetheart . . . and better than that . . . or rather worse. He had taken an oath that he would marry me. . . . But Karl's oath! He was such a liar, sir, such a coward! . . . Oh, the things I know of him! . . . I myself, simply through holding my tongue, gradually became his accomplice. He used to frighten me so! I no longer loved him, but I was afraid of him and obeyed him . . . with such loathing, at the end! . . . And he knew how I loathed him. He used often to say, 'You are quite capable of killing me some day or other.' No, sir, I did think of it, but I should never have had the courage. It was only just now, when I saw that he was going to stab you . . . and above all when I heard your name. . . ."
+
+"My name? What has that to do with it?"
+
+"You are Madame Delroze's husband."
+
+"Well?"
+
+"Well, I know her. Not for long, only since to-day. This morning, Karl, on his way from Belgium, passed through the town where I was and took me to Prince Conrad's. He told me I was to be lady's maid to a French lady whom we were going to take to a castle. I knew what that meant. I should once more have to be his accomplice, to inspire confidence. And then I saw that French lady, I saw her crying; and she was so gentle and kind that I felt sorry for her. I promised to rescue her . . . Only, I never thought that it would be in this way, by killing Karl. . . ."
+
+She drew herself up suddenly and said, in a hard voice:
+
+"But it had to be, sir. It was bound to happen, for I knew too much about him. It had to be he or I. . . . It was he . . . and I can't help it and I'm not sorry. . . . He was the wickedest wretch on earth; and, with people like him, one mustn't hesitate. No, I am not sorry."
+
+Paul asked:
+
+"He was devoted to the Comtesse Hermine, was he not?"
+
+She shuddered and lowered her voice to reply:
+
+"Oh, don't speak of her, please! She is more terrible still; and she is still alive. Ah, if she should ever suspect!"
+
+"Who is the woman?"
+
+"How can I tell? She comes and goes, she is the mistress wherever she may be. . . . People obey her as they do the Emperor. Everybody fears her . . . as they do her brother."
+
+"Her brother?"
+
+"Yes, Major Hermann."
+
+"What's that? Do you mean to say that Major Hermann is her brother?"
+
+"Why, of course! Besides, you have only to look at him. He is the very image of the Comtesse Hermine!"
+
+"Have you ever seen them together?"
+
+"Upon my word, I can't remember. Why do you ask?"
+
+Time was too precious for Paul to insist. The woman's opinion of the Comtesse Hermine did not matter much. He asked:
+
+"She is staying at the prince's?"
+
+"For the present, yes. The prince is on the first floor, at the back; she is on the same floor, but in front."
+
+"If I let her know that Karl has had an accident and that he has sent me, his chauffeur, to tell her, will she see me?"
+
+"Certainly."
+
+"Does she know Karl's chauffeur, whose place I took?"
+
+"No. He was a soldier whom Karl brought with him from Belgium."
+
+Paul thought for a moment and then said:
+
+"Lend me a hand."
+
+They pushed the body towards the ditch by the road-side, rolled it in and covered it with dead branches.
+
+"I shall go back to the villa," he said. "You walk on until you come to the first cluster of houses. Wake the people and tell them the story of how Karl was murdered by his chauffeur and how you ran away. The time which it will take to inform the police, to question you and to telephone to the villa is more than I need."
+
+She took alarm:
+
+"But the Comtesse Hermine?"
+
+"Have no fear there. Granting that I do not deprive her of her power of doing mischief, how could she suspect you, when the police-investigations will hold me alone to account for everything? Besides, we have no choice."
+
+And, without more words, he started the engine, took his seat at the wheel and, in spite of the woman's frightened entreaties, drove off.
+
+He drove off with the same eagerness and decision as though he were fulfilling the conditions of some new plan of which he had fixed every detail beforehand and as though he felt sure of its success.
+
+"I shall see the countess," he said to himself. "She will either be anxious as to Karl's fate and want me to take her to him at once or she will see me in one of the rooms in the villa. In either case I shall find a method of compelling her to reveal the name of the castle in which Élisabeth is a prisoner. I shall even compel her to give me the means of delivering her and helping her to escape."
+
+But how vague it all was! The obstacles in the way! The impossibilities! How could he expect circumstances to be so complaisant as first to blind the countess' eyes to the facts and next to deprive her of all assistance? A woman of her stamp was not likely to let herself be taken in by words or subdued by threats.
+
+No matter, Paul would not entertain the thought of failure. Success lay at the end of his undertaking; and in order to achieve it more quickly he increased the pace, rushing his car like a whirlwind along the roads and hardly slackening speed as he passed through villages and towns.
+
+"Hohenstaufen!" he cried to the sentry posted outside the wall.
+
+The officer of the picket, after questioning him, sent him on to the sergeant in command of the post at the front-door. The sergeant was the only one who had free access to the villa; and he would inform the countess.
+
+"Very well," said Paul. "I'll put up my car first."
+
+In the garage, he turned off his lights; and, as he went towards the villa, he thought that it might be well, before going back to the sergeant, to look up Bernard and learn if his brother-in-law had succeeded in discovering anything.
+
+He found him behind the villa, in the clumps of shrubs facing the window with the balcony.
+
+"You're by yourself?" said Bernard, anxiously.
+
+"Yes, the job failed. Élisabeth was in an earlier motor."
+
+"What an awful thing!"
+
+"Yes, but it can be put right. And you . . . what about the chauffeur?"
+
+"He's safely hidden away. No one will see him . . . at least not before the morning, when other chauffeurs come to the garage."
+
+"Very well. Anything else?"
+
+"There was a patrol in the grounds an hour ago. I managed to keep out of sight."
+
+"And then?"
+
+"Then I made my way as far as the tunnel. The men were beginning to stir. Besides, there was something that made them jolly well pull themselves together!"
+
+"What was that?"
+
+"The sudden arrival of a certain person of our acquaintance, the woman I met at Corvigny, who is so remarkably like Major Hermann."
+
+"Was she going the rounds?"
+
+"No, she was leaving."
+
+"Yes, I know, she means to leave."
+
+"She has left."
+
+"Oh, nonsense! I can't believe that. There was no immediate hurry about her departure for France."
+
+"I saw her go, though."
+
+"How? By what road?"
+
+"The tunnel, of course! Do you imagine that the tunnel serves no further purpose? That was the road she took, before my eyes, under the most comfortable conditions, in an electric trolley driven by a brakesman. No doubt, since the object of her journey was, as you say, to get to France, they shunted her on to the Corvigny branch. That was two hours ago. I heard the trolley come back."
+
+The disappearance of the Comtesse Hermine was a fresh blow to Paul. How was he now to find, how to deliver Élisabeth? What clue could he trust in this darkness, in which each of his efforts was ending in disaster?
+
+He pulled himself together, made an act of will and resolved to persevere in the adventure until he attained his object. He asked Bernard if he had seen nothing more.
+
+"No, nothing."
+
+"Nobody going or coming in the garden?"
+
+"No. The servants have gone to bed. The lights are out."
+
+"All the lights?"
+
+"All except one, there, over our heads."
+
+The light was on the first floor, at a window situated above the window through which Paul had watched Prince Conrad's supper-party. He asked:
+
+"Was that light put on while I was up on the balcony?"
+
+"Yes, towards the end."
+
+"From what I was told," Paul muttered, "that must be Prince Conrad's room. He's drunk and had to be carried upstairs."
+
+"Yes, I saw some shadows at that time; and nothing has moved since."
+
+"He's evidently sleeping off his champagne. Oh, if one could only see, if one could get into the room!"
+
+"That's easily done," said Bernard.
+
+"How?"
+
+"Through the next room, which must be the dressing-room. They've left the window open, no doubt to give the prince a little air."
+
+"But I should want a ladder . . ."
+
+"There's one hanging on the wall of the coach-house. Shall I get it for you?"
+
+"Yes, do," said Paul eagerly. "Be quick."
+
+A whole new scheme was taking shape in his mind, similar in some respects to his first plan of campaign and likely, he thought, to lead to a successful issue.
+
+He made certain that the approaches to the villa on either side were deserted and that none of the soldiers on guard had moved away from the front-door. Then, when Bernard was back, he placed the ladder in position and leant it against the wall. They went up.
+
+The open window belonged, as they expected, to the dressing-room and the light from the bedroom showed through the open door. Not a sound came from that other room except a loud snoring. Paul put his head through the doorway.
+
+Prince Conrad was lying fast asleep across his bed, like a loose-jointed doll, clad in his uniform, the front of which was covered with stains. He was sleeping so soundly that Paul was able to examine the room at his ease. There was a sort of little lobby between it and the passage, with a door at either end. He locked and bolted both doors, so that they were now alone with Prince Conrad, while it was impossible for them to be heard from the outside.
+
+"Come on," said Paul, when they had apportioned the work to be done.
+
+And he placed a twisted towel over the prince's face and tried to insert the ends into his mouth while Bernard bound his wrists and ankles with some more towels. All this was done in silence. The prince offered no resistance and uttered not a cry. He had opened his eyes and lay staring at his aggressors with the air of a man who does not understand what is happening to him, but is seized with increasing dread as he becomes aware of his danger.
+
+"Not much pluck about William's son and heir," chuckled Bernard. "Lord, what a funk he's in! Hi, young-fellow-my-lad, pull yourself together! Where's your smelling-bottle?"
+
+Paul had at last succeeded in cramming half the towel into his mouth. He lifted him up and said:
+
+"Now let's be off."
+
+"What do you propose to do?"
+
+"Take him away."
+
+"Where to?"
+
+"To France."
+
+"To France?"
+
+"Well, of course. We've got him; he'll have to help us."
+
+"They won't let him through."
+
+"And the tunnel?"
+
+"Out of the question. They're keeping too close a watch now."
+
+"We shall see."
+
+He took his revolver and pointed it at Prince Conrad:
+
+"Listen to me," he said. "Your head is too muddled, I dare say, to take in any questions. But a revolver is easy to understand, isn't it? It talks a very plain language, even to a man who is drunk and shaking all over with fright. Well, if you don't come with me quietly, if you attempt to struggle or to make a noise, if my friend and I are in danger for a single moment, you're done for. You can feel the barrel of my revolver on your temple: Well, it's there to blow out your brains. Do you agree to my conditions?"
+
+The prince nodded his head.
+
+"Good," said Paul. "Bernard, undo his legs, but fasten his arms along his body. . . . That's it. . . . And now let's be off."
+
+The descent of the ladder was easily accomplished and they walked through the shrubberies to the fence which separated the garden from the yard containing the barracks. Here they handed the prince across to each other, like a parcel, and then, taking the same road as when they came, they reached the quarries.
+
+The night was bright enough to allow them to see their way; and, moreover, they had in front of them a diffused glow which seemed to rise from the guard-house at the entrance to the tunnel. And indeed all the lights there were burning; and the men were standing outside the shed, drinking coffee.
+
+A soldier was pacing up and down in front of the tunnel, with his rifle on his shoulder.
+
+"We are two," whispered Bernard. "There are six of them; and, at the first shot fired, they will be joined by some hundreds of Boches who are quartered five minutes away. It's a bit of an unequal struggle, what do you say?"
+
+What increased the difficulty to the point of making it insuperable was that they were not really two but three and that their prisoner hampered them most terribly. With him it was impossible to hurry, impossible to run away. They would have to think of some stratagem to help them.
+
+Slowly, cautiously, stealing along in such a way that not a stone rolled from under their footsteps or the prince's, they described a circle around the lighted space which brought them, after an hour, close to the tunnel, under the rocky slopes against which its first buttresses were built.
+
+"Stay there," said Paul to Bernard, speaking very low, but just loud enough for the prince to hear. "Stay where you are and remember my instructions. First of all, take charge of the prince, with your revolver in your right hand and with your left hand on his collar. If he struggles, break his head. That will be a bad business for us, but just as bad for him. I shall go back to a certain distance from the shed and draw off the five men on guard. Then the man doing sentry down there will either join the rest, in which case you go on with the prince, or else he will obey orders and remain at his post, in which case you fire at him and wound him . . . and go on with the prince."
+
+"Yes, I shall go on, but the Boches will come after me and catch us up."
+
+"No, they won't."
+
+"If you say so. . . ."
+
+"Very well, that's understood. And you, sir," said Paul to the prince, "do you understand? Absolute submission; if not, the least carelessness, a mere mistake may cost you your life."
+
+Bernard whispered in his brother-in-law's ear:
+
+"I've picked up a rope; I shall fasten it round his neck; and, if he jibs, he'll feel a sharp tug to recall him to the true state of things. Only, Paul, I warn you that, if he takes it into his head to struggle, I am incapable of killing him just like that, in cold blood."
+
+"Don't worry. He's too much afraid to struggle. He'll go with you like a lamb to the other end of the tunnel. When you get there, lock him up in some corner of the château, but don't tell any one who he is."
+
+"And you, Paul?"
+
+"Never mind about me."
+
+"Still . . ."
+
+"We both stand the same risk. We're going to play a terribly dangerous game and there's every chance of our losing it. But, if we win, it means Élisabeth's safety. So we must go for it boldly. Good-bye, Bernard, for the present. In ten minutes everything will be settled one way or the other."
+
+They embraced and Paul walked away.
+
+As he had said, this one last effort could succeed only through promptness and audacity; and it had to be made in the spirit in which a man makes a desperate move. Ten minutes more would see the end of the adventure. Ten minutes and he would be either victorious or a dead man.
+
+Every action which he performed from that moment was as orderly and methodical as if he had had time to think it out carefully and to ensure its inevitable success, whereas in reality he was forming a series of separate decisions as he went along and as the tragic circumstances seemed to call for them.
+
+Taking a roundabout way and keeping to the slopes of the mounds formed by the sand thrown up in the works, he reached the hollow communication-road between the quarries and the garrison-camp. On the last of these rounds, his foot struck a block of stone which gave way beneath him. On stooping and groping with his hands, he perceived that this block held quite a heap of sand and pebbles in position behind it.
+
+"That's what I want," he said, without a moment's reflection.
+
+And, giving the stone a mighty kick, he sent the heap shooting into the road with a roar like an avalanche.
+
+Paul jumped down among the stones, lay flat on his chest and began to scream for help, as though he had met with an accident.
+
+From where he lay, it was impossible, owing to the winding of the road, to hear him in the barracks; but the least cry was bound to carry as far as the shed at the mouth of the tunnel, which was only a hundred yards away at most. The soldiers on guard came running along at once.
+
+He counted only five of them. In an almost unintelligible voice, he gave incoherent, gasping replies to the corporal's questions and conveyed the impression that he had been sent by Prince Conrad to bring back the Comtesse Hermine.
+
+Paul was quite aware that his stratagem had no chance of succeeding beyond a very brief space of time; but every minute gained was of inestimable value, because Bernard would make use of it on his side to take action against the sixth man, the sentry outside the tunnel, and to make his escape with Prince Conrad. Perhaps that man would come as well. Or else perhaps Bernard would get rid of him without using his revolver and therefore without attracting attention.
+
+And Paul, gradually raising his voice, was spluttering out vague explanations, which only irritated without enlightening the corporal, when a shot rang out, followed by two others.
+
+For the moment the corporal hesitated, not knowing for certain where the sound came from. The men stood away from Paul and listened. Thereupon he passed through them and walked straight on, without their realizing, in the darkness, that it was he who was moving away. Then, at the first turn, he started running and reached the shed in a few strides.
+
+Twenty yards in front of him, at the mouth of the tunnel, he saw Bernard struggling with Prince Conrad, who was trying to escape. Near them, the sentry was dragging himself along the ground and moaning.
+
+Paul saw clearly what he had to do. To lend Bernard a hand and with him attempt to run the risk of flight would have been madness, because their enemies would inevitably have caught them up and in any case Prince Conrad would have been set free. No, the essential thing was to stop the rush of the five other men, whose shadows were already appearing at the bend in the road, and thus to enable Bernard to get away with the prince.
+
+Half-hidden behind the shed, he aimed his revolver at them and cried:
+
+"Halt!"
+
+The corporal did not obey and ran on into the belt of light. Paul fired. The German fell, but only wounded, for he began to command in a savage tone:
+
+"Forward! Go for him! Forward, can't you, you funks!"
+
+The men did not stir a step. Paul seized a rifle from the stack which they had made of theirs near the shed and, while taking aim at them, was able to give a glance backwards and to see that Bernard had at last mastered Prince Conrad and was leading him well into the tunnel.
+
+"It's only a question of holding out for five minutes," thought Paul, "so that Bernard may go as far as possible."
+
+And he was so calm at this moment that he could have counted those minutes by the steady beating of his pulse.
+
+"Forward! Rush at him! Forward!" the corporal kept clamoring, having doubtless seen the figures of the two fugitives, though without recognizing Prince Conrad.
+
+Rising to his knees, he fired a revolver-shot at Paul, who replied by breaking his arm with a bullet. And yet the corporal went on shouting at the top of his voice:
+
+"Forward! There are two of them making off through the tunnel! Forward! Here comes help!"
+
+It was half-a-dozen soldiers from the barracks, who had run up at the sound of the shooting. Paul had now made his way into the shed. He broke a window-pane and fired three shots. The soldiers made for shelter; but others arrived, took their orders from the corporal and dispersed; and Paul saw them scrambling up the adjoining slopes in order to head him off. He fired his rifle a few more times; but what was the good? All hope of resistance had long since disappeared.
+
+He persevered, however, killing his adversaries at intervals, firing incessantly and thus gaining all the time possible. But he saw that the enemy was maneuvering with the object of first circumventing him and then making for the tunnel and chasing the fugitives.
+
+Paul set his teeth. He was really aware of each second that passed, of each of those inappreciable seconds which increased Bernard's distance.
+
+Three men disappeared down the yawning mouth of the tunnel; then a fourth; then a fifth. Moreover, the bullets were now beginning to rain upon the shed.
+
+Paul made a calculation:
+
+"Bernard must be six or seven hundred yards away. The three men pursuing him have gone fifty yards . . . seventy-five yards now. That's all right."
+
+A serried mass of Germans were coming towards the shed. It was evidently not believed that Paul was alone, so quickly did he fire. This time there was nothing for it but to surrender.
+
+"It's time," he thought. "Bernard is outside the danger-zone."
+
+He suddenly rushed at the board containing the handles which corresponded with the mine-chambers in the tunnel, smashed the glass with the butt-end of his rifle and pulled down the first handle and the second.
+
+The earth seemed to shake. A thunderous roar rolled under the tunnel and spread far and long, like a reverberating echo.
+
+The way was blocked between Bernard d'Andeville and the eager pack that was trying to catch him. Bernard could take Prince Conrad quietly to France.
+
+Then Paul walked out of the shed, raising his arms in the air and crying, in a cheerful voice:
+
+"_Kamerad! Kamerad!_"
+
+Ten men surrounded him in a moment; and the officer who commanded them shouted, in a frenzy of rage:
+
+"Let him be shot! . . . At once . . . at once! . . . Let him be shot! . . ."

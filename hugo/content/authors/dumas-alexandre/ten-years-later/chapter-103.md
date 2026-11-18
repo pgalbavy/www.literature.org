@@ -1,0 +1,142 @@
+---
+title: "Chapter 103 - The Dowry"
+weight: 103
+aliases:
+  - "/authors/dumas-alexandre/ten-years-later/chapter-103.html"
+---
+
+Monsieur Faucheux's horses were serviceable animals, with thickset knees, and legs that had some difficulty in moving. Like the carriage, they belonged to the earlier part of the century. They were not as fleet as the English horses of M. Fouquet, and consequently took two hours to get to Saint-Mande. Their progress, it might be said, was majestic. Majesty, however, precludes hurry. The marquise stopped the carriage at the door so well known to her, although she had seen it only once, under circumstances, it will be remembered, no less painful than those which brought her now to it again. She drew a key from her pocket, and inserted it in the lock, pushed open the door, which noiselessly yielded to her touch, and directed the clerk to carry the chest upstairs to the first floor. The weight of the chest was so great that the clerk was obliged to get the coachman to assist him with it. They placed it in a small cabinet, anteroom, or boudoir rather, adjoining the saloon where we once saw M. Fouquet at the marquise's feet. Madame de Belliere gave the coachman a louis, smiled gracefully at the clerk, and dismissed them both. She closed the door after them, and waited in the room, alone and barricaded. There was no servant to be seen about the rooms, but everything was prepared as though some invisible genius had divined the wishes and desires of an expected guest. The fire was laid, candles in the candelabra, refreshments upon the table, books scattered about, fresh-cut flowers in the vases. One might almost have imagined it an enchanted house. The marquise lighted the candles, inhaled the perfume of the flowers, sat down, and was soon plunged in profound thought. Her deep musings, melancholy though they were, were not untinged with a certain vague joy. Spread out before her was a treasure, a million wrung from her fortune as a gleaner plucks the blue corn-flower from her crown of flowers. She conjured up the sweetest dreams. Her principal thought, and one that took precedence of all others, was to devise means of leaving this money for M. Fouquet without his possibly learning from whom the gift had come. This idea, naturally enough, was the first to present itself to her mind. But although, on reflection, it appeared difficult to carry out, she did not despair of success. She would then ring to summon M. Fouquet and make her escape, happier than if, instead of having given a million, she had herself found one. But, being there, and having seen the boudoir so coquettishly decorated that it might almost be said the least particle of dust had but the moment before been removed by the servants; having observed the drawing-room, so perfectly arranged that it might almost be said her presence there had driven away the fairies who were its occupants, she asked herself if the glance or gaze of those whom she had displaced - whether spirits, fairies, elves, or human creatures - had not already recognized her. To secure success, it was necessary that some steps should be seriously taken, and it was necessary also that the superintendent should comprehend the serious position in which he was placed, in order to yield compliance with the generous fancies of a woman; all the fascinations of an eloquent friendship would be required to persuade him, and, should this be insufficient, the maddening influence of a devoted passion, which, in its resolute determination to carry conviction, would not be turned aside. Was not the superintendent, indeed, known for his delicacy and dignity of feeling? Would he allow himself to accept from any woman that of which she had stripped herself? No! He would resist, and if any voice in the world could overcome his resistance, it would be the voice of the woman he loved.
+
+Another doubt, and that a cruel one, suggested itself to Madame de Belliere with a sharp, acute pain, like a dagger thrust. Did he really love her? Would that volatile mind, that inconstant heart, be likely to be fixed for a moment, even were it to gaze upon an angel? Was it not the same with Fouquet, notwithstanding his genius and his uprightness of conduct, as with those conquerors on the field of battle who shed tears when they have gained a victory?" I must learn if it be so, and must judge of that for myself," said the marquise. "Who can tell whether that heart, so coveted, is not common in its impulses, and full of alloy? Who can tell if that mind, when the touchstone is applied to it, will not be found of a mean and vulgar character? Come, come," she said, "this is doubting and hesitating too much - to the proof." She looked at the timepiece. "It is now seven o'clock," she said; "he must have arrived, it is the hour for signing his papers." With a feverish impatience she rose and walked towards the mirror, in which she smiled with a resolute smile of devotedness; she touched the spring and drew out the handle of the bell. Then, as if exhausted beforehand by the struggle she had just undergone, she threw herself on her knees, in utter abandonment, before a large couch, in which she buried her face in her trembling hands. Ten minutes afterwards she heard the spring of the door sound. The door moved upon invisible hinges, and Fouquet appeared. He looked pale, and seemed bowed down by the weight of some bitter reflection. He did not hurry, but simply came at the summons. The pre-occupation of his mind must indeed have been very great, that a man so devoted to pleasure, for whom indeed pleasure meant everything, should obey such a summons so listlessly. The previous night, in fact, fertile in melancholy ideas, had sharpened his features, generally so noble in their indifference of expression, and had traced dark lines of anxiety around his eyes. Handsome and noble he still was, and the melancholy expression of his mouth, a rare expression with men, gave a new character to his features, by which his youth seemed to be renewed. Dressed in black, the lace in front of his chest much disarranged by his feverishly restless hand, the looks of the superintendent, full of dreamy reflection, were fixed upon the threshold of the room which he had so frequently approached in search of expected happiness. This gloomy gentleness of manner, this smiling sadness of expression, which had replaced his former excessive joy, produced an indescribable effect upon Madame de Belliere, who was regarding him at a distance.
+
+A woman's eye can read the face of the man she loves, its every feeling of pride, its every expression of suffering; it might almost be said that Heaven has graciously granted to women, on account of their very weakness, more than it has accorded to other creatures. They can conceal their own feelings from a man, but from them no man can conceal his. The marquise divined in a single glance the whole weight of the unhappiness of the superintendent. She divined a night passed without sleep, a day passed in deceptions. From that moment she was firm in her own strength, and she felt that she loved Fouquet beyond everything else. She arose and approached him, saying, "You wrote to me this morning to say you were beginning to forget me, and that I, whom you had not seen lately, had no doubt ceased to think of you. I have come to undeceive you, monsieur, and the more completely so, because there is one thing I can read in your eyes."
+
+"What is that, madame?" said Fouquet, astonished.
+
+"That you have never loved me so much as at this moment; in the same manner you can read, in my present step towards you, that I have not forgotten you."
+
+"Oh! madame," said Fouquet, whose face was for a moment lighted up by a sudden gleam of joy, "you are indeed an angel, and no man can suspect you. All he can do is to humble himself before you and entreat forgiveness."
+
+"Your forgiveness is granted, then," said the marquise. Fouquet was about to throw himself upon his knees. "No, no," she said, "sit here by my side. Ah! that is an evil thought which has just crossed your mind."
+
+"How do you detect it, madame?"
+
+"By the smile that has just marred the expression of your countenance, Be candid, and tell me what your thought was - no secrets between friends."
+
+"Tell me, then, madame, why have you been so harsh these three or four months past?"
+
+"Harsh?"
+
+"Yes; did you not forbid me to visit you?"
+
+"Alas!" said Madame de Belliere, sighing, "because your visit to me was the cause of your being visited with a great misfortune; because my house is watched; because the same eyes that have seen you already might see you again; because I think it less dangerous for you that I should come here than that you should come to my house; and, lastly, because I know you to be already unhappy enough not to wish to increase your unhappiness further."
+
+Fouquet started, for these words recalled all the anxieties connected with his office of superintendent - he who, for the last few minutes, had indulged in all the wild aspirations of the lover. "I unhappy?" he said, endeavoring to smile: "indeed, marquise, you will almost make me believe I am so, judging from your own sadness. Are your beautiful eyes raised upon me merely in pity? I was looking for another expression from them."
+
+"It is not I who am sad, monsieur; look in the mirror, there - it is yourself."
+
+"It is true I am somewhat pale, marquise; but it is from overwork; the king yesterday required a supply of money from me."
+
+"Yes, four millions, I am aware of it."
+
+"You know it?" exclaimed Fouquet, in a tone of surprise; "how can you have learnt it? It was after the departure of the queen, and in the presence of one person only, that the king - - "
+
+"You perceive that I do know it; is not that sufficient? Well, go on, monsieur, the money the king has required you to supply - - "
+
+"You understand, marquise, that I have been obliged to procure it, then to get it counted, afterwards registered - altogether a long affair. Since Monsieur de Mazarin's death, financial affairs occasion some little fatigue and embarrassment. My administration is somewhat overtaxed, and this is the reason why I have not slept during the past night."
+
+"So that you have the amount?" inquired the marquise, with some anxiety.
+
+"It would indeed be strange, marquise," replied Fouquet, cheerfully, "if a superintendent of finances were not to have a paltry four millions in his coffers."
+
+"Yes, yes, I believe you either have, or will have them."
+
+"What do you mean by saying I shall have them?"
+
+"It is not very long since you were required to furnish two millions."
+
+"On the contrary, to me it seems almost an age; but do not let us talk of money matters any longer."
+
+"On the contrary, we will continue to speak of them, for that is my only reason for coming to see you."
+
+"I am at a loss to compass your meaning," said the superintendent, whose eyes began to express an anxious curiosity.
+
+"Tell me, monsieur, is the office of superintendent a permanent position?"
+
+"You surprise me, marchioness, for you speak as if you had some motive or interest in putting the question."
+
+"My reason is simple enough; I am desirous of placing some money in your hands, and naturally I wish to know if you are certain of your post."
+
+"Really, marquise, I am at a loss what to reply; I cannot conceive your meaning."
+
+"Seriously, then, dear M. Fouquet, funds which somewhat embarrass me. I am tired of investing my money in land, and am anxious to intrust it to some friend who will turn it to account."
+
+"Surely it does not press," said M. Fouquet.
+
+"On the contrary, it is very pressing."
+
+"Very well, we will talk of that by and by."
+
+"By and by will not do, for my money is there," returned the marquise, pointing out the coffer to the superintendent, and showing him, as she opened it, the bundles of notes and heaps of gold. Fouquet, who had risen from his seat at the same moment as Madame de Belliere, remained for a moment plunged in thought; then suddenly starting back, he turned pale, and sank down in his chair, concealing his face in his hands. "Madame, madame," he murmured, "what opinion can you have of me, when you make me such an offer?"
+
+"Of you!" returned the marquise. "Tell me, rather, what you yourself think of the step I have taken."
+
+"You bring me this money for myself, and you bring it because you know me to be embarrassed. Nay, do not deny it, for I am sure of it. Can I not read your heart?"
+
+"If you know my heart, then, can you not see that it is my heart I offer you?"
+
+"I have guessed rightly, then," exclaimed Fouquet. "In truth, madame, I have never yet given you the right to insult me in this manner."
+
+"Insult you," she said, turning pale, "what singular delicacy of feeling! You tell me you love me; in the name of that affection you wish me to sacrifice my reputation and my honor, yet, when I offer you money which is my own, you refuse me."
+
+"Madame, you are at liberty to preserve what you term your reputation and your honor. Permit me to preserve mine. Leave me to my ruin, leave me to sink beneath the weight of the hatreds which surround me, beneath the faults I have committed, beneath the load even, of my remorse, but, for Heaven's sake, madame, do not overwhelm me with this last infliction."
+
+"A short time since, M. Fouquet, you were wanting in judgment; now you are wanting in feeling."
+
+Fouquet pressed his clenched hand upon his breast, heaving with emotion, saying: "Overwhelm me, madame for I have nothing to reply."
+
+"I offered you my friendship, M. Fouquet."
+
+"Yes, madame, and you limited yourself to that."
+
+"And what I am now doing is the act of a friend."
+
+"No doubt it is."
+
+"And you reject this mark of my friendship?"
+
+"I do reject it."
+
+"Monsieur Fouquet, look at me," said the marquise, with glistening eyes, "I now offer you my love."
+
+"Oh, madame," exclaimed Fouquet.
+
+"I have loved you for a long while past; women, like men, have a false delicacy at times. For a long time past I have loved you, but would not confess it. Well, then, you have implored this love on your knees, and I have refused you; I was blind, as you were a little while since; but as it was my love that you sought, it is my love I now offer you."
+
+"Oh! madame, you overwhelm me beneath a load of happiness."
+
+"Will you be happy, then, if I am yours - entirely?"
+
+"It will be the supremest happiness for me."
+
+"Take me, then. If, however, for your sake I sacrifice a prejudice, do you, for mine, sacrifice a scruple."
+
+"Do not tempt me."
+
+"Do not refuse me."
+
+"Think seriously of what you are proposing."
+
+"Fouquet, but one word. Let it be 'No,' and I open this door," and she pointed to the door which led into the streets, "and you will never see me again. Let that word be 'Yes,' and I am yours entirely."
+
+"Elsie! Elsie! But this coffer?"
+
+"Contains my dowry."
+
+"It is your ruin," exclaimed Fouquet, turning over the gold and papers; "there must be a million here."
+
+"Yes, my jewels, for which I care no longer if you do not love me, and for which, equally, I care no longer if you love me as I love you."
+
+"This is too much," exclaimed Fouquet. "I yield, I yield, even were it only to consecrate so much devotion. I accept the dowry."
+
+"And take the woman with it." said the: marquise, throwing herself into his arms.

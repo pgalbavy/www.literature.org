@@ -1,0 +1,90 @@
+---
+title: "Chapter 14"
+weight: 14
+aliases:
+  - "/authors/hodgson-burnett-frances/little-lord-fauntleroy/chapter-14.html"
+---
+
+It is astonishing how short a time it takes for very wonderful things to happen. It had taken only a few minutes, apparently, to change all the fortunes of the little boy dangling his red legs from the high stool in Mr. Hobbs's store, and to transform him from a small boy, living the simplest life in a quiet street, into an English nobleman, the heir to an earldom and magnificent wealth. It had taken only a few minutes, apparently, to change him from an English nobleman into a penniless little impostor, with no right to any of the splendors he had been enjoying. And, surprising as it may appear, it did not take nearly so long a time as one might have expected, to alter the face of everything again and to give back to him all that he had been in danger of losing.
+
+It took the less time because, after all, the woman who had called herself Lady Fauntleroy was not nearly so clever as she was wicked; and when she had been closely pressed by Mr. Havisham's questions about her marriage and her boy, she had made one or two blunders which had caused suspicion to be awakened; and then she had lost her presence of mind and her temper, and in her excitement and anger had betrayed herself still further. All the mistakes she made were about her child. There seemed no doubt that she had been married to Bevis, Lord Fauntleroy, and had quarreled with him and had been paid to keep away from him; but Mr. Havisham found out that her story of the boy's being born in a certain part of London was false; and just when they all were in the midst of the commotion caused by this discovery, there came the letter from the young lawyer in New York, and Mr. Hobbs's letters also.
+
+What an evening it was when those letters arrived, and when Mr. Havisham and the Earl sat and talked their plans over in the library!
+
+“After my first three meetings with her,” said Mr. Havisham, “I began to suspect her strongly. It appeared to me that the child was older than she said he was, and she made a slip in speaking of the date of his birth and then tried to patch the matter up. The story these letters bring fits in with several of my suspicions. Our best plan will be to cable at once for these two Tiptons,--say nothing about them to her,--and suddenly confront her with them when she is not expecting it. She is only a very clumsy plotter, after all. My opinion is that she will be frightened out of her wits, and will betray herself on the spot.”
+
+And that was what actually happened. She was told nothing, and Mr. Havisham kept her from suspecting anything by continuing to have interviews with her, in which he assured her he was investigating her statements; and she really began to feel so secure that her spirits rose immensely and she began to be as insolent as might have been expected.
+
+But one fine morning, as she sat in her sitting-room at the inn called “The Dorincourt Arms,” making some very fine plans for herself, Mr. Havisham was announced; and when he entered, he was followed by no less than three persons--one was a sharp-faced boy and one was a big young man and the third was the Earl of Dorincourt.
+
+She sprang to her feet and actually uttered a cry of terror. It broke from her before she had time to check it. She had thought of these new-comers as being thousands of miles away, when she had ever thought of them at all, which she had scarcely done for years. She had never expected to see them again. It must be confessed that Dick grinned a little when he saw her.
+
+“Hello, Minna!” he said.
+
+The big young man--who was Ben--stood still a minute and looked at her.
+
+“Do you know her?” Mr. Havisham asked, glancing from one to the other.
+
+“Yes,” said Ben. “I know her and she knows me.” And he turned his back on her and went and stood looking out of the window, as if the sight of her was hateful to him, as indeed it was. Then the woman, seeing herself so baffled and exposed, lost all control over herself and flew into such a rage as Ben and Dick had often seen her in before. Dick grinned a trifle more as he watched her and heard the names she called them all and the violent threats she made, but Ben did not turn to look at her.
+
+“I can swear to her in any court,” he said to Mr. Havisham, “and I can bring a dozen others who will. Her father is a respectable sort of man, though he's low down in the world. Her mother was just like herself. She's dead, but he's alive, and he's honest enough to be ashamed of her. He'll tell you who she is, and whether she married me or not.”
+
+Then he clenched his hand suddenly and turned on her.
+
+“Where's the child?” he demanded. “He's going with me! He is done with you, and so am I!”
+
+And just as he finished saying the words, the door leading into the bedroom opened a little, and the boy, probably attracted by the sound of the loud voices, looked in. He was not a handsome boy, but he had rather a nice face, and he was quite like Ben, his father, as any one could see, and there was the three-cornered scar on his chin.
+
+Ben walked up to him and took his hand, and his own was trembling.
+
+“Yes,” he said, “I could swear to him, too. Tom,” he said to the little fellow, “I'm your father; I've come to take you away. Where's your hat?”
+
+The boy pointed to where it lay on a chair. It evidently rather pleased him to hear that he was going away. He had been so accustomed to queer experiences that it did not surprise him to be told by a stranger that he was his father. He objected so much to the woman who had come a few months before to the place where he had lived since his babyhood, and who had suddenly announced that she was his mother, that he was quite ready for a change. Ben took up the hat and marched to the door.
+
+“If you want me again,” he said to Mr. Havisham, “you know where to find me.”
+
+He walked out of the room, holding the child's hand and not looking at the woman once. She was fairly raving with fury, and the Earl was calmly gazing at her through his eyeglasses, which he had quietly placed upon his aristocratic, eagle nose.
+
+“Come, come, my young woman,” said Mr. Havisham. “This won't do at all. If you don't want to be locked up, you really must behave yourself.”
+
+And there was something so very business-like in his tones that, probably feeling that the safest thing she could do would be to get out of the way, she gave him one savage look and dashed past him into the next room and slammed the door.
+
+“We shall have no more trouble with her,” said Mr. Havisham.
+
+And he was right; for that very night she left the Dorincourt Arms and took the train to London, and was seen no more.
+
+When the Earl left the room after the interview, he went at once to his carriage.
+
+“To Court Lodge,” he said to Thomas.
+
+“To Court Lodge,” said Thomas to the coachman as he mounted the box; “an' you may depend on it, things are taking a uniggspected turn.”
+
+When the carriage stopped at Court Lodge, Cedric was in the drawing-room with his mother.
+
+The Earl came in without being announced. He looked an inch or so taller, and a great many years younger. His deep eyes flashed.
+
+“Where,” he said, “is Lord Fauntleroy?”
+
+Mrs. Errol came forward, a flush rising to her cheek.
+
+“Is it Lord Fauntleroy?” she asked. “Is it, indeed!”
+
+The Earl put out his hand and grasped hers.
+
+“Yes,” he answered, “it is.”
+
+Then he put his other hand on Cedric's shoulder.
+
+“Fauntleroy,” he said in his unceremonious, authoritative way, “ask your mother when she will come to us at the Castle.”
+
+Fauntleroy flung his arms around his mother's neck.
+
+“To live with us!” he cried. “To live with us always!”
+
+The Earl looked at Mrs. Errol, and Mrs. Errol looked at the Earl.
+
+His lordship was entirely in earnest. He had made up his mind to waste no time in arranging this matter. He had begun to think it would suit him to make friends with his heir's mother.
+
+“Are you quite sure you want me?” said Mrs. Errol, with her soft, pretty smile.
+
+“Quite sure,” he said bluntly. “We have always wanted you, but we were not exactly aware of it. We hope you will come.”

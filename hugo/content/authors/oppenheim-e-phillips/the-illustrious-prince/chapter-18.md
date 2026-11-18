@@ -1,0 +1,84 @@
+---
+title: "Chapter 18 - Mr. Coulson Is Indiscreet"
+weight: 18
+aliases:
+  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-18.html"
+---
+
+On the following morning Mr. Coulson received what he termed his mail from America. Locked in his room on the fifth floor of the hotel, he carefully perused the contents of several letters. A little later he rang and ordered his bill. At four o'clock he left the Gare du Nord for London.
+
+Like many other great men, Mr. Coulson was not without his weakness. He was brave, shrewd, and far-seeing. He enjoyed excellent health, and he scarcely knew the meaning of the word nerves. Nevertheless he suffered from seasickness. The first thing he did, therefore, when aboard the boat at Boulogne, was to bespeak a private cabin. The steward to whom he made his application shook his head with regret. The last two had just been engaged. Mr. Coulson tried a tip, and then a larger tip, with equal lack of success. He was about to abandon the effort and retire gloomily to the saloon, when a man who had been standing by, wrapped in a heavy fur overcoat, intervened.
+
+"I am afraid, sir," he said, "that it is I who have just secured the last cabin. If you care to share it with me, however, I shall be delighted. As a matter of fact, I use it very little myself. The night has turned out so fine that I shall probably promenade all the time."
+
+"If you will allow me to divide the expense," Mr. Coulson replied, "I shall be exceedingly obliged to you, and will accept your offer. I am, unfortunately, a bad sailor."
+
+"That is as you will, sir," the gentleman answered. "The amount is only trifling."
+
+The night was a bright one, but there was a heavy sea running, and even in the harbor the boat was rocking. Mr. Coulson groaned as he made his way across the threshold of the cabin.
+
+"I am going to have a horrible time," he said frankly. "I am afraid you'll repent your offer before you've done with me."
+
+His new friend smiled.
+
+"I have never been seasick in my life," he said, "and I only engage a cabin for fear of wet weather. A fine night like this I shall not trouble you, so pray be as ill as you like."
+
+"It's nothing to laugh at," Mr. Coulson remarked gloomily.
+
+"Let me give you a little advice," his friend said, "and I can assure you that I know something of these matters, for I have been on the sea a great deal. Let me mix you a stiff brandy and soda. Drink it down and eat only a dry biscuit. I have some brandy of my own here."
+
+"Nothing does me any good," Mr. Coulson groaned.
+
+"This," the stranger remarked, producing a flask from his case and dividing the liquor into equal parts, "may send you to sleep. If so, you'll be across before you wake up. "Here's luck!"
+
+Mr. Coulson drained his glass. His companion was in the act of raising his to his lips when the ship gave a roll, his elbow caught the back of a chair, and the tumbler slipped from his fingers.
+
+"It's of no consequence," he declared, ringing for the steward. "I'll go into the smoking room and get a drink. I was only going to have some to keep you company. As a matter of fact, I prefer whiskey."
+
+Mr. Coulson sat down upon the berth. He seemed indisposed for speech.
+
+"I'll leave you now, then," his friend said, buttoning his coat around him. "You lie flat down on your back, and I think you'll find yourself all right."
+
+"That brandy," Mr. Coulson muttered, "was infernally--- strong."
+
+His companion smiled and went out. In a quarter of an hour he returned and locked the door. They were out in the Channel now, and the boat was pitching heavily. Mr. James B. Coulson, however, knew nothing of it. He was sleeping like one who wakes only for the Judgment Day. Over his coat and waistcoat the other man's fingers travelled with curious dexterity. The oilskin case in which Mr. Coulson was in the habit of keeping his private correspondence was reached in a very few minutes. The stranger turned out the letters and read them, one by one, until he came to the one he sought. He held it for a short time in his hand, looked at the address with a faint smile, and slipped his fingers lightly along the gummed edge of the envelope.
+
+"No seal," he said softly to himself. "My friend Mr. Coulson plays the game of travelling agent to perfection."
+
+He glided out of the cabin with the letter in his hand. In about ten minutes he returned. Mr. Coulson was still sleeping. He replaced the letter, pressing down the envelope carefully.
+
+"My friend," he whispered, looking down upon Mr. Coulson's uneasy figure, "on the whole, I have been perhaps a little premature. I think you had better deliver this document to its proper destination. If only there was to have been a written answer, we might have met again! It would have been most interesting."
+
+He slipped the oilskin case back into the exact position in which he had found it, and watched his companion for several minutes in silence. Then he went to his dressing bag and from a phial mixed a little draught. Lifting the sleeping man's head, he forced it down his throat.
+
+"I think," he said, "I think, Mr. Coulson, that you had better wake up."
+
+He unlocked the door and resumed his promenade of the deck. In the bows he stood for some time, leaning with folded arms against a pillar, his eyes fixed upon the line of lights ahead. The great waves now leaped into the moonlight, the wind sang in the rigging and came booming across the waters, the salt spray stung his cheeks. High above his head, the slender mast, with its Marconi attachment, swang and dived, reached out for the stars, and fell away with a shudder. The man who watched, stood and dreamed until the voyage was almost over. Then he turned on his heel and went back to see how his cabin companion was faring.
+
+Mr. Coulson was sitting on the edge of his bunk. He had awakened with a terrible headache and a sense of some hideous indiscretion. It was not until he had examined every paper in his pocket and all his money that he had begun to feel more comfortable. And in the meantime he had forgotten altogether to be seasick.
+
+"Well, how has the remedy worked?" the stranger inquired.
+
+Mr. Coulson looked him in the face. Then he drew a short breath of relief. He had been indiscreet, but he had alarmed himself unnecessarily. There was nothing about the appearance of the quiet, dark little man, with the amiable eyes and slightly foreign manner, in the least suspicious.
+
+"It's given me a brute of a headache," he declared, "but I certainly haven't been seasick up till now, and I must say I've never crossed before without being ill."
+
+The stranger laughed soothingly.
+
+"That brandy and soda would keep you right." He said. "When we get to Folkestone, you'll be wanting a supper basket. Make yourself at home. I don't need the cabin. It's a glorious night outside. I shouldn't have come in at all except to see how you were getting on."
+
+"How long before we are in?" Mr. Coulson asked.
+
+"About a quarter of an hour," was the answer. "I'll come for you, if you like. Have a few minute's nap if you feel sleepy."
+
+Mr. Coulson got up.
+
+"Not I!" he said. "I am going to douse my head in some cold water. That must have been the strongest brandy and soda that was ever brewed, to send me off like that."
+
+His friend laughed as he helped him out on to the deck.
+
+"I shouldn't grumble at it, if I were you," he said carelessly. "It saved you from a bad crossing."
+
+Mr. Coulson washed his face and hands in the smoking room lavatory, and was so far recovered, even, as to be able to drink a cup of coffee before they reached the harbor. At Folkestone he looked everywhere for his friend, but in vain. At Charing Cross he searched once more. The little dark gentleman, with the distinguished air and the easy, correct speech, who had mixed his brandy and soda, had disappeared.
+
+"And I owe the little beggar for half that cabin," Mr. Coulson thought with a sensation of annoyance. "I wonder where he's hidden himself!"

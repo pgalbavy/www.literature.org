@@ -10,3 +10,8 @@ go/test/hello.go
 go/test/hello.wasm
 js/wasm_exec.js
 node_modules/
+hugo/public/
+hugo/resources/
+public/
+hugo/.hugo_build.lock
+

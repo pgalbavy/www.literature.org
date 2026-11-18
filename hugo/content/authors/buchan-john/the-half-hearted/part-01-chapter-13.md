@@ -1,0 +1,86 @@
+---
+title: "Part 1 - Chapter 13 - The Pleasures Of A Conscience"
+weight: 13
+aliases:
+  - "/authors/buchan-john/the-half-hearted/part-01-chapter-13.html"
+---
+
+It was half-way down the glen that the full ignominy of his position came on Lewis with the shock of a thunder-clap. A hateful bitterness against her preserver and the tricks of fate had been his solitary feeling, till suddenly he realized the part he had played, and saw himself for a naked coward. Coward he called himself—without reflection; for in such a moment the mind thinks in crude colours and bold lines of division. He set his teeth in his lip, and with a heart sinking at the shameful thought stalked into the farm stables where the Glenavelin servants were.
+
+He could not return to the Pool. Alice was little hurt, so anxiety was needless; better let him leave Mr. Stocks to enjoy his heroics in peace. He would find an excuse; meanwhile, give him quiet and solitude to digest his bitterness. He cursed himself for the unworthiness of his thoughts. What a pass had he come to when he grudged a little *kudos* to a rival, grudged it churlishly, childishly. He flung from him the self-reproach. Other people would wonder at his ungenerousness, and his sulky ill-nature. They would explain by the first easy discreditable reason. What cared he for their opinion when he knew the far greater shame in his heart?
+
+For as he strode up the woodland path to Etterick the wrappings of surface passion fell off from his view of the past hour, and he saw the bald and naked ribs of his own incapacity. It was a trivial incident to the world, but to himself a momentous self-revelation. He was a dreamer, a weakling, a fool. He had hesitated in a crisis, and another had taken his place. A thousand incidents of ready courage in past sport and travel were forgotten, and on this single slip the terrible indictment was founded. And the reason is at hand; this weakness had at last drawn near to his life's great passion.
+
+He found a deserted house, but its solitude was too noisy for his unrest. Bidding the butler tell his friends that he had gone up the hill, he crossed the sloping lawns and plunged into the thicket of rhododendrons. Soon he was out on the heather, with the great slopes, scorched with the heat, lying still and fragrant before him. He felt sick and tired, and flung himself down amid the soft brackens.
+
+It was the man's first taste of bitter mental anguish. Hitherto his life had been equable and pleasant; his friends had adored him; the world had flattered him; he had been at peace with his own soul. He had known his failings, but laughed at them cavalierly; he stood on a different platform from the struggling, conscience-stricken herd. Now he had in very truth been flung neck and crop from the pedestal of his self-esteem; and he lay groaning in the dust of abasement.
+
+Wratislaw guessed with a friend's instinct his friend's disquietude, and turned his steps to the hill when he had heard the butler's message. He had known something of Lewis's imaginary self-upbraidings, and he was prepared for them, but he was not prepared for the grey and wretched face in the lee of the pinewood. A sudden suspicion that Lewis had been guilty of some real dishonour flashed across his mind for the moment, only to be driven out with scorn.
+
+"Lewie, my son, what the deuce is wrong with you?" he cried.
+
+The other looked at him with miserable eyes.
+
+"I am beginning to find out my rottenness."
+
+Wratislaw laughed in spite of himself. "What a fool to go making psychological discoveries on such a day! Is it all over the little misfortune at the pool?"
+
+Tragedy grew in Lewis's eyes. "Don't laugh, old chap. You don't know what I did. I let her fall into the water, and then I stood staring and let another man—the other man—save her."
+
+"Well, and what about that? He had a better chance than you. You shouldn't grudge him his good fortune."
+
+"Good Lord, man, you don't think it's that that's troubling me! I felt murderous, but it wasn't on his account."
+
+"Why not?" asked the older man drily. "You love the girl, and he's in the running with you. What more?"
+
+Lewis groaned. "How can I talk about loving her when my love is such a trifling thing that it doesn't nerve me to action? I tell you I love her body and soul. I live for her. The whole world is full of her. She is never a second out of my thoughts. And yet I am so little of a man that I let her come near death and never try to save her."
+
+"But, confound it, man, it may have been mere absence of mind. You were always an extraordinarily plucky chap." Wratislaw spoke irritably, for it seemed to him sheer folly.
+
+Lewis looked at him imploringly. "Can you not understand?" he cried.
+
+Wratislaw did understand, and suddenly. The problem was subtler than he had thought. Weakness was at the core of it, weakness revealed in self-deception and self-accusation alike, the weakness of the finical dreamer, the man with the unrobust conscience. But the weakness which Lewis arraigned himself on was the very obvious failing of the diffident and the irresolute. Wratislaw tried the path of boisterous encouragement.
+
+"Get up, you old fool, and come down to the house. You a coward! You are simply a romancer with an unfortunate knack of tragedy." The man must be laughed out of this folly. If he were not he would show the self-accusing front to the world, and the Manorwaters, Alice, Stocks—all save his chosen intimates—would credit him with a cowardice of which he had no taint.
+
+Arthur and George, resigned now to the inevitable lady, had seen in the incident only the anxiety of a man for his beloved, and just a hint of the ungenerous in his treatment of Mr. Stocks. They were not prepared for the silent tragic figure which Wratislaw brought with him.
+
+Arthur had a glint of the truth, but the obtuse George saw nothing. "Do you know that you are going to have the Wisharts for neighbours for a couple of months yet? Old Wishart has taken Glenavelin from the end of August."
+
+This would have been pleasant hearing at another time, but now it simply drove home the nail of his bitter reflections. Alice would be near him, a terrible reproach—she, the devotee of strength and competence. He could not win her, and it is characteristic of the man that he had ceased to think of Mr. Stocks as his rival. He would lose her to no rival; to his ragged incapacity alone would his ill fortune be due.
+
+He struggled to act the part of the cheerful host, and Wratislaw watched his efforts grimly. He ate little at dinner, showed no desire to smoke, and played billiards so badly that Wratislaw, an execrable player, won the first and last game of his life. The victor took him out of doors thereafter to walk on the moonlit, fragrant lawn.
+
+"You are taking things to heart," said he.
+
+"And I'm blessed if I can understand you. To me it's sheer mania."
+
+"And to me it's the last link in a chain. I have suspected myself for long, now I know myself and—ugh! the knowledge is a hideous thing."
+
+Wratislaw stood regarding his companion seriously. "I wonder what will happen to you, Lewie. Life is serious enough without inventing a crotchety virtue to make it miserable."
+
+"Can't you understand me, Tommy? It isn't that I'm a cad, it's that I am a coward. I couldn't be a cad supposing I tried. These things are a matter chiefly of blood and bone, and I am not made that way. But God help me! I am a coward. I can't fight worth twopence. Look at my performance a fortnight ago. The ordinary gardener's boy can beat me at making love. I am full of generous impulses and sentiments, but what's the use of them? Everything grows cold and I am a dumb icicle when it comes to action. I knew all this before, but I thought I had kept my bodily courage. I've had a good enough training, and I used to have pluck."
+
+"But you don't mean to tell me that it was funk that kept you out of the pool to-day?" cried the impatient Wratislaw.
+
+"How do I know that it wasn't?" came the wretched answer.
+
+Wratislaw turned on his heel and made to go back.
+
+"You're an infernal idiot, Lewie, and an infernal child. Thank heaven! your friends know you better than you know yourself."
+
+The next morning it was a different man who came down to breakfast. He had lost his haggard air, and seemed to have forgotten the night's episode.
+
+"Was I very rude to everybody last night?" he asked. "I have a vague recollection of playing the fool."
+
+"You were particularly rude about yourself," said Wratislaw.
+
+The young man laughed. "It's a way I have sometimes. It's an awkward thing when a man's foes are of his own household."
+
+The others seemed to see a catch in his mirth, a ring as of something hollow. He opened some letters, and looked up from one with a twitching face and a curious droop of the eyelids. "Miss Wishart is all right," he said. "My aunt says that she is none the worse, but that Stocks has caught a tremendous cold. An unromantic ending!"
+
+The meal ended, they wandered out to the lawn to smoke, and Wratislaw found himself standing with a hand on his host's shoulder. He noticed something distraught in his glance and air.
+
+"Are you fit again to-day?" he asked.
+
+"Quite fit, thanks," said Lewis, but his face belied him. He had forgiven himself the incident of yesterday, but no proof of a non sequitur could make him relinquish his dismal verdict. The wide morning landscape lay green and soothing at his feet. Down in the glen men were winning the bog-hay; up on the hill slopes they were driving lambs; the Avelin hurried to the Gled, and beyond was the great ocean and the infinite works of man. The whole brave bustling world was astir, little and great ships hasting out of port, the soldier scaling the breach, the adventurer travelling the deserts. And he, the fool, had no share in this braggart heritage. He could not dare to look a man straight in the face, for like the king in the old fable he had lost his soul.

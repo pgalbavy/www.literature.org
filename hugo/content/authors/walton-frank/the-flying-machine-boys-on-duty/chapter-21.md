@@ -1,0 +1,146 @@
+---
+title: "Chapter 21 - Stroup’s Instructions"
+weight: 21
+aliases:
+  - "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-21.html"
+---
+
+“How comes it that Jimmie and Kit are lost in the air?” asked Havens, as, accompanied by the sheriff and the forest ranger, Gilmore, the boys walked away from the jail.
+
+“It’s the most unaccountable thing!” Ben exclaimed almost impatiently. “We left Jimmie to watch the machines while we slept, and the first thing we knew he was up in the air, and Kit with him.”
+
+“He may have returned to the camp by this time,” suggested Havens.
+
+“If he has, I hope he’ll guard the Louise better than we guarded the Bertha!” Carl put in.
+
+“What happened to the Bertha?” the millionaire asked.
+
+Then Ben told the story of the visit of the Chinaman who had wasted their gasoline and eaten their provisions so ravenously. He also told the story of the landing on the summit, and of the visit of the two Japs in the Ann. Havens looked grave.
+
+“Those Japs,” he exclaimed, “must have come directly on from New York to Monterey. They are well-known East Side crooks, and are using their old tactics here.”
+
+“Well, they probably went away after Phillips and Mendoza in that limping old machine,” Carl said. “They can’t go far.”
+
+Gilmore and Sheriff Chase, who had listened intently to the conversation, now began asking questions.
+
+“You spoke of a Chinaman coming to your tent,” Gilmore began, “as if Mr. Havens already knew of the existence of such a party. What about that? When and where did you first see this Chinaman?” he added turning to Ben. “Tell me all about it.”
+
+At this time the little party was directly in front of the hotel where Stroup had exhibited his muscular ability. As Ben explained about the first stopping-place, the two beacons, the schooner, the caves, and the swarm of Celestials, Gilmore drew him into the hotel and into the smoking room. Here he seated the entire party notwithstanding the frowns of the clerk, and closed and locked the door.
+
+“Do you know,” he asked, after a moment’s thought, “that you boys have made a discovery which is likely to bring you a large amount of money?”
+
+“I guess they can use it, all right,” laughed Havens. “They want a new flying machine every time they see a new model!”
+
+“Tell us about it?” asked Ben eagerly.
+
+“Well,” Gilmore went on, “we have been after those Chink smugglers a long time. The beacons have been observed night after night, and schooners have long been known to visit Monterey bay during the dark hours, but,” he went on, “we have searched the coast for a hundred miles and never found anything like the canyon you blundered into the first night of your arrival.”
+
+“And we found it in the dark!” laughed Carl.
+
+“Cheer up!” exclaimed Gilmore. “My men couldn’t find it in the day-time.”
+
+“Well, you know where to get the Chinks now!” the sheriff broke in.
+
+“But how about this Chink we were talking about?” asked Ben. “We found him tied up like a side roast of beef. We turned him loose, of course, and then he comes and serves us a dirty trick like that!”
+
+Gilmore sat back in his chair and laughed heartily.
+
+“That Chinaman,” he said after a time, “is not a Chinaman at all! That’s Sloan, the Washington secret service man!”
+
+“But he looks like a Chink!” insisted Carl.
+
+“Certainly,” answered Gilmore. “That’s why he has been assigned to this class of work.”
+
+“Can he talk like a Chink?” asked Ben.
+
+“As natural as life!” was the reply.
+
+“Well, he don’t know much English,” grinned Ben, “if you leave it to me. All he said was ‘Savvy you, alle same’ and ‘No can do!’”
+
+Again Gilmore broke into a roar of laughter.
+
+“That’s one of his old tricks,” he said. “He’s so stuck on his make-up and his pidgin English that he seeks to keep up the deception when there’s no need of it.”
+
+“Then we ought to know why they tied him up!” Ben declared.
+
+“It’s easy enough to guess,” Gilmore answered. “He tried to play in with the crowd of smugglers and Chinks, and was detected and tied up.”
+
+This from the sheriff, who was making notes in a memorandum book as the talk went on:
+
+“It’s a wonder they didn’t kill him!”
+
+“They probably would have killed him in a very short time,” Gilmore replied to the sheriff, “if the boys hadn’t put in an appearance.”
+
+“Then we saved one life, anyway!” laughed Carl.
+
+“But why did he come and waste our gasoline?” demanded Ben.
+
+“I can’t answer that,” replied Gilmore. “You probably will see him before you get out of the country, and then you can get the explanation from him. He’ll tell you, easy enough.”
+
+“I think I can give a pretty good guess at it right now,” the sheriff broke in. “Sloan possibly had his own idea as to what the boys were here for, and that idea was undoubtedly incorrect.”
+
+“I’ve got it now!” cried Carl. “I know all about it!”
+
+“You’re the wise boy!” laughed Ben. “Go on and tell it.”
+
+“Why, don’t you see,” Carl went on, “Sloan suspected us of coming here to butt in on his game with the smugglers? He saw us in the cavern, and of course believed that we were there working for the immense rewards offered for the criminals. He wanted to head us off!”
+
+“That may be right,” replied Gilmore. “The fellow is mercenary enough, when it comes down to cases. Well,” the forest ranger went on, “what else could the fellow think? He saw you there in the cave, and knew that you knew the use it was being put to. The only way that he could figure it out was that you were there to interfere with a game which he had almost won by playing a lone hand.”
+
+“And so he dumped our gasoline to keep us from flying back to the canyon or flying over to Monterey to tell what we’d discovered!” suggested Carl.
+
+“That is undoubtedly correct,” Gilmore admitted, “and if the Louise had been there, he doubtless would have crippled her, too.”
+
+“And now,” laughed Havens, “that you have the whole thing settled, without Sloan knowing anything about it, perhaps we’d better go somewhere and have dinner, or supper, or whatever you may call it.”
+
+“We probably can’t get anything here at this time of day,” the sheriff interposed, “but I know of a restaurant down the street where we can get anything from a lobster to an elephant’s ear.”
+
+“I don’t care about spending any money in this place, anyway,” said Havens. “Say, Sheriff,” he went on, “I want to leave with you a little present for your new deputy Stroup. Will you deliver it to him just as I hand it to you without one word of explanation?”
+
+“Surely,” replied the official.
+
+Havens took a note-book from his pocket, tore out a blank leaf, wrote three words on it and signed his name. Then he took a bank-note of the denomination of one thousand dollars from his pocket, folded it up in the paper, stuffed the whole into a hotel envelope which he sealed and passed it over to the sheriff, who took it with evident amazement.
+
+“You don’t do things by halves,” the official observed.
+
+“I try to do things according to my means,” replied Havens. “I should have missed a lot of satisfaction this morning if Stroup hadn’t shown up with his capable fists!”
+
+“What did you write on the sheet of paper?” asked Carl.
+
+Havens looked at the sheriff and the forest ranger with a smile.
+
+“You won’t arrest me for inciting a riot, will you?” he asked.
+
+“You’ve already paid too many fines in this town,” laughed the sheriff.
+
+“Well, under promise of immunity, then,” Havens went on, “the words were ‘Hit him again.’ How does that strike you?”
+
+“If you had showed the paper to me before you sealed it up,” the sheriff laughed, “I would have added my name to yours at the bottom of the instructions.”
+
+“Do you really think he will hit him again?” asked Carl.
+
+“Hit him again?” repeated the sheriff, “He’ll hit the clerk, and the ex-deputy, and the house detective, until he drives them out of town, and pay his fine out of the thousand dollars.”
+
+“Don’t you let him do that,” advised Havens. “If he just gives each of them a good licking once, that’ll be sufficient. There are too many fresh hotel clerks and deputy sheriffs in the world, also house detectives, and if he reduced the list by three, that’ll be enough.”
+
+“Holy Smoke!” shouted Carl rising to his feet and making for the door. “Are we going to talk here all day without anything to eat?”
+
+“I’m so empty right now,” Ben decided, “that you could hold a Salvation Army meeting in my system. Where’s this restaurant where you can get an elephant’s ear?”
+
+“I’ll lead you to it,” laughed the sheriff, “and while we’re eating, we can lay plans for the capture of that gang of smugglers.”
+
+“We didn’t come here after smugglers,” suggested Ben.
+
+“Not so you could notice it,” Carl went on. “We came here to find the burglars of the Buyers’ Bank in New York. We haven’t found them yet.”
+
+“But we know pretty well where they are,” Ben insisted. “Kit saw Phillips in the woods this morning, dressed in a ranger’s uniform.”
+
+The story of the bear was new to Havens and the officers, and they enjoyed its relation immensely. Both boys smacked their lips at thought of the bear steak they didn’t get.
+
+“We can get the outlaws with little trouble now,” Gilmore said, after a moment’s reflection. “I’ve got men enough in this vicinity to put a line all around the hills. So long as we know they are here, we are all right.”
+
+“After we eat dinner,” Ben suggested, “perhaps we’d better go back to the green bowl and look up Jimmie and Kit. There’s no knowing what they may have discovered during the day.”
+
+“That’s the idea!” exclaimed Havens. “And now for a good feed.”
+
+Before the meal at the restaurant was finished an interruption which materially changed the plans of the whole party, took place. It was Sloan, the secret service man, who blundered into the party with a broken head who sidetracked the old plans.

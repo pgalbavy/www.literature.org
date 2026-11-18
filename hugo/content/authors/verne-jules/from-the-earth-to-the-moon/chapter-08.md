@@ -1,0 +1,76 @@
+---
+title: "Chapter 8"
+weight: 8
+aliases:
+  - "/authors/verne-jules/from-the-earth-to-the-moon/chapter-08.html"
+---
+
+The resolutions passed at the last meeting produced a great effect out of doors. Timid people took fright at the idea of a shot weighing 20,000 pounds being launched into space; they asked what cannon could ever transmit a sufficient velocity to such a mighty mass. The minutes of the second meeting were destined triumphantly to answer such questions. The following evening the discussion was renewed.
+
+"My dear colleagues," said Barbicane, without further preamble, "the subject now before us is the construction of the engine, its length, its composition, and its weight. It is probable that we shall end by giving it gigantic dimensions; but however great may be the difficulties in the way, our mechanical genius will readily surmount them. Be good enough, then, to give me your attention, and do not hesitate to make objections at the close. I have no fear of them. The problem before us is how to communicate an initial force of 12,000 yards per second to a shell of 108 inches in diameter, weighing 20,000 pounds. Now when a projectile is launched into space, what happens to it? It is acted upon by three independent forces: the resistance of the air, the attraction of the earth, and the force of impulsion with which it is endowed. Let us examine these three forces. The resistance of the air is of little importance. The atmosphere of the earth does not exceed forty miles. Now, with the given rapidity, the projectile will have traversed this in five seconds, and the period is too brief for the resistance of the medium to be regarded otherwise than as insignificant. Proceding, then, to the attraction of the earth, that is, the weight of the shell, we know that this weight will diminish in the inverse ratio of the square of the distance. When a body left to itself falls to the surface of the earth, it falls five feet in the first second; and if the same body were removed 257,542 miles further off, in other words, to the distance of the moon, its fall would be reduced to about half a line in the first second. That is almost equivalent to a state of perfect rest. Our business, then, is to overcome progressively this action of gravitation. The mode of accomplishing that is by the force of impulsion."
+
+"There's the difficulty," broke in the major.
+
+"True," replied the president; "but we will overcome that, for the force of impulsion will depend on the length of the engine and the powder employed, the latter being limited only by the resisting power of the former. Our business, then, to-day is with the dimensions of the cannon."
+
+"Now, up to the present time," said Barbicane, "our longest guns have not exceeded twenty-five feet in length. We shall therefore astonish the world by the dimensions we shall be obliged to adopt. It must evidently be, then, a gun of great range, since the length of the piece will increase the detention of the gas accumulated behind the projectile; but there is no advantage in passing certain limits."
+
+"Quite so," said the major. "What is the rule in such a case?"
+
+"Ordinarily the length of a gun is twenty to twenty-five times the diameter of the shot, and its weight two hundred and thirty-five to two hundred and forty times that of the shot."
+
+"That is not enough," cried J. T. Maston impetuously.
+
+"I agree with you, my good friend; and, in fact, following this proportion for a projectile nine feet in diameter, weighing 30,000 pounds, the gun would only have a length of two hundred and twenty- five feet, and a weight of 7,200,000 pounds."
+
+"Ridiculous!" rejoined Maston. "As well take a pistol."
+
+"I think so too," replied Barbicane; "that is why I propose to quadruple that length, and to construct a gun of nine hundred feet."
+
+The general and the major offered some objections; nevertheless, the proposition, actively supported by the secretary, was definitely adopted.
+
+"But," said Elphinstone, "what thickness must we give it?"
+
+"A thickness of six feet," replied Barbicane.
+
+"You surely don't think of mounting a mass like that upon a carriage?" asked the major.
+
+"It would be a superb idea, though," said Maston.
+
+"But impracticable," replied Barbicane. "No, I think of sinking this engine in the earth alone, binding it with hoops of wrought iron, and finally surrounding it with a thick mass of masonry of stone and cement. The piece once cast, it must be bored with great precision, so as to preclude any possible windage. So there will be no loss whatever of gas, and all the expansive force of the powder will be employed in the propulsion."
+
+"One simple question," said Elphinstone: "is our gun to be rifled?"
+
+"No, certainly not," replied Barbicane; "we require an enormous initial velocity; and you are well aware that a shot quits a rifled gun less rapidly than it does a smooth-bore."
+
+"True," rejoined the major.
+
+The committee here adjourned for a few minutes to tea and sandwiches.
+
+On the discussion being renewed, "Gentlemen," said Barbicane, "we must now take into consideration the metal to be employed. Our cannon must be possessed of great tenacity, great hardness, be infusible by heat, indissoluble, and inoxidable by the corrosive action of acids."
+
+"There is no doubt about that," replied the major; "and as we shall have to employ an immense quantity of metal, we shall not be at a loss for choice."
+
+"Well, then," said Morgan, "I propose the best alloy hitherto known, which consists of one hundred parts of copper, twelve of tin, and six of brass."
+
+"I admit," replied the president, "that this composition has yielded excellent results, but in the present case it would be too expensive, and very difficult to work. I think, then, that we ought to adopt a material excellent in its way and of low price, such as cast iron. What is your advice, major?"
+
+"I quite agree with you," replied Elphinstone.
+
+"In fact," continued Barbicane, "cast iron costs ten times less than bronze; it is easy to cast, it runs readily from the moulds of sand, it is easy of manipulation, it is at once economical of money and of time. In addition, it is excellent as a material, and I well remember that during the war, at the siege of Atlanta, some iron guns fired one thousand rounds at intervals of twenty minutes without injury."
+
+"Cast iron is very brittle, though," replied Morgan.
+
+"Yes, but it possesses great resistance. I will now ask our worthy secretary to calculate the weight of a cast-iron gun with a bore of nine feet and a thickness of six feet of metal."
+
+"In a moment," replied Maston. Then, dashing off some algebraical formulae with marvelous facility, in a minute or two he declared the following result:
+
+"The cannon will weigh 68,040 tons. And, at two cents a pound, it will cost----"
+
+"Two million five hundred and ten thousand seven hundred and one dollars."
+
+Maston, the major, and the general regarded Barbicane with uneasy looks.
+
+"Well, gentlemen," replied the president, "I repeat what I said yesterday. Make yourselves easy; the millions will not be wanting."
+
+With this assurance of their president the committee separated, after having fixed their third meeting for the following evening.

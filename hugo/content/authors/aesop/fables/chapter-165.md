@@ -1,0 +1,10 @@
+---
+title: "The Ass And The Frogs"
+weight: 167
+aliases:
+  - "/authors/aesop/fables/chapter-165.html"
+---
+
+AN ASS, carrying a load of wood, passed through a pond. As he was crossing through the water he lost his footing, stumbled and fell, and not being able to rise on account of his load, groaned heavily. Some Frogs frequenting the pool heard his lamentation, and said, "What would you do if you had to live here always as we do, when you make such a fuss about a mere fall into the water?"
+
+Men often bear little grievances with less courage than they do large misfortunes.

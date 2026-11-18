@@ -1,0 +1,156 @@
+---
+title: "Chapter 2 - The Irresistible"
+weight: 2
+aliases:
+  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-02.html"
+---
+
+Betty had to run all the way home, and then she was late for dinner. Her step-father's dry face and dusty clothes, the solid comfort of the mahogany furnished dining room, the warm wet scent of mutton, - these seemed needed to wake her from what was, when she had awakened, a dream - the open sky, the sweet air of the May fields and Him. Already the stranger was Him to Betty. But, then, she did not know his name.
+
+She slipped into her place at the foot of the long white dining table, a table built to serve a dozen guests, and where no guests ever sat, save rarely a curate or two, and more rarely even, an aunt.
+
+"You are late again, Lizzie," said her step-father.
+
+"Yes, Father," said she, trying to hide her hands and the fact that she had not had time to wash them. A long streak of burnt sienna marked one finger, and her nails had little slices of various colours in them. Her paint-box was always hard to open.
+
+Usually Mr. Underwood saw nothing. But when he saw anything he saw everything. His eye was caught by the green smudge on her pink sleeve.
+
+"I wish you would contrive to keep yourself clean, or else wear a pinafore," he said.
+
+Betty flushed scarlet.
+
+"I'm very sorry," she said, "but it's only water colour. It will wash out."
+
+"You are nearly twenty, are you not?" the Vicar inquired with the dry smile that always infuriated his step-daughter. How was she to know that it was the only smile he knew, and that smiles of any sort had long grown difficult to him?
+
+"Eighteen," she said.
+
+"It is almost time you began to think about being a lady."
+
+This was badinage. No failures had taught the Reverend Cecil that his step-daughter had an ideal of him in which badinage had no place. She merely supposed that he wished to be disagreeable.
+
+She kept a mutinous silence. The old man sighed. It is one's duty to correct the faults of one's child, but it is not pleasant. The Reverend Cecil had not the habit of shirking any duty because he happened to dislike it.
+
+The mutton was taken away.
+
+Betty, her whole being transfigured by the emotions of the morning, stirred the stewed rhubarb on her plate. She felt rising in her a sort of wild forlorn courage. Why shouldn't she speak out? Her step-father couldn't hate her more than he did, whatever she said. He might even be glad to be rid of her. She spoke suddenly and rather loudly before she knew that she had meant to speak at all.
+
+"Father," she said, "I wish you'd let me go to Paris and study art. Not now," she hurriedly explained with a sudden vision of being taken at her word and packed off to France before six o'clock on Monday morning, "not now, but later. In the autumn perhaps. I would work very hard. I wish you'd let me."
+
+He put on his spectacles and looked at her with wistful kindness. She read in his glance only a frozen contempt.
+
+"No, my child," he said. Paris is a sink of iniquity. I passed a week there once, many years ago. It was at the time of the Great Exhibition. You are growing discontented, Lizzie. Work is the cure for that. Mrs. Symes tells me that the chemises for the Mother's sewing meetings are not cut out yet."
+
+"I'll cut them out to-day. They haven't finished the shirts yet, anyway," said Betty; "but I do wish you'd just think about Paris, or even London."
+
+"You can have lessons at home if you like. I believe there are excellent drawing-mistresses in Sevenoaks. Mrs. Symes was recommending one of them to me only the other day. With certificates from the High School I seem to remember her saying."
+
+"But that's not what I want," said Betty with a courage that surprised her as much as it surprised him. "Don't you see, Father? One gets older every day, and presently I shall be quite old, and I shan't have been anywhere or seen anything."
+
+He thought he laughed indulgently at the folly of youth. She thought his laugh the most contemptuous, the cruelest sound in the world. "He doesn't deserve that I should tell him about Him," she thought, "and I won't. I don't care!"
+
+"No, no," he said, "no, no, no. The home is the place for girls. The safe quiet shelter of the home. Perhaps some day your husband will take you abroad for a fortnight now and then. If you manage to get a husband, that is."
+
+He had seen, through his spectacles, her flushed prettiness, and old as he was he remembered well enough how a face like hers would seem to a young man's eyes. Of course she would get a husband? So he spoke in kindly irony. And she hated him for a wanton insult.
+
+"Try to do your duty in that state of life to which you are called," he went on: "occupy yourself with music and books and the details of housekeeping. No, don't have my study turned out," he added in haste, remembering how his advice about household details had been followed when last he gave it. "Don't be a discontented child. Go and cut out the nice little chemises." This seemed to him almost a touch of kindly humour, and he went back to Augustine, pleased with himself.
+
+Betty set her teeth and went, black rage in her heart, to cut out the hateful little chemises.
+
+She dragged the great roll of evil smelling grayish unbleached calico from the schoolroom cupboard and heaved it on to the table. It was very heavy. The scissors were blunt and left deep red-blue indentations on finger and thumb. She was rather pleased that the scissors hurt so much.
+
+"Father doesn't care a single bit, he hates me," she said, "and I hate him. Oh, I do."
+
+She would not think of the morning. Not now, with this fire of impotent resentment burning in her, would she take out those memories and look at them. Those were not thoughts to be dragged through the litter of unbleached cotton cuttings. She worked on doggedly, completed the tale of hot heavy little garments, gathered up the pieces into the waste-paper basket and put away the roll.
+
+Not till the paint had been washed from her hands, and the crumbled print dress exchanged for a quite respectable muslin did she consciously allow the morning's memories to come out and meet her eyes. Then she went down to the arbour where she had shelled peas only that morning.
+
+"It seems years and years ago," she said. And sitting there, she slowly and carefully went over everything. What he had said, what she had said. There were some things she could not quite remember. But she remembered enough. "Brother artists" were the words she said oftenest to herself, but the words that sank themselves were, "young and innocent and beautiful like - like - "
+
+"But he couldn't have meant me, of course," she told herself.
+
+And on Monday she would see him again, - and he would give her a lesson!
+
+Sunday was incredibly wearisome. Her Sunday-school class had never been so tiresome nor so soaked in hair-oil. In church she was shocked to find herself watching, from her pew in the chancel, the entry of late comers - of whom He was not one. No afternoon had ever been half so long. She wrote up her diary. Thursday and Friday were quickly chronicled. At "Saturday" she paused long, pen in hand, and then wrote very quickly: "I went out sketching and met a gentleman, an artist. He was very kind and is going to teach me to paint and he is going to paint my portrait. I do not like him particularly. He is rather old, and not really good-looking. I shall not tell father, because he is simply hateful to me. I am going to meet this artist at 6 to-morrow. It will be dreadful having to get up so early. I almost wish I hadn't said I would go. It will be such a bother."
+
+Then she hid the diary in a drawer, under her confirmation dress and veil, and locked the drawer carefully.
+
+He was not at church in the evening either. He had thought of it, but decided that it was too much trouble to get into decent clothes.
+
+"I shall see her soon enough," he thought, "curse my impulsive generosity! Six o'clock, forsooth, and all to please a clergyman's daughter."
+
+She came back from church with tired steps.
+
+"I do hope I'm not going to be ill," she said. "I feel so odd, just as if I hadn't had anything to eat for days, - and yet I'm not a bit hungry either. I daresay I shan't wake up in time to get there by six."
+
+She was awake before five.
+
+She woke with a flutter of the heart. What was it? Had anything happened? Was anyone ill? Then she recognized that she was not unhappy. And she felt more than ever as though it were days since she had had anything to eat.
+
+"Oh, dear," said Betty, jumping out of bed. "I'm going out, to meet Him, and have a drawing-lesson!"
+
+She dressed quickly. It was too soon to start. Not for anything must she be first at the rendezvous, even though it were only for a drawing-lesson. That "only" pulled her up sharply.
+
+When she was dressed she dug out the diary and wrote:
+
+It seemed to her that she must certainly be late. She had to creep down the front stairs so very slowly and softly in order that she might not awaken her step-father. She had so carefully and silently to unfasten a window and creep out, to close the window again, without noise, lest the maids should hear and come running to see why their young mistress was out of her bed at that hour. She had to go on tiptoe through the shrubbery and out through the church yard. One could climb its wall, and get into the Park that way, so as not to meet labourers on the road who would stare to see her alone so early and perhaps follow her.
+
+Once in the park she was safe. Her shoes and her skirts were wet with dew. She made haste. She did not want to keep him waiting.
+
+But she was first at the rendezvous, after all.
+
+She sat down on the carpet of pine needles. How pretty the early morning was. The sunlight was quite different from the evening sunlight, so much lighter and brighter. And the shadows were different. She tried to settle on a point of view for her sketch, the sketch he was to help her with.
+
+Her thoughts went back to what she had written in her diary. If that should be true she must be very, very careful. He must never guess it, never. She would be very cold and distant and polite. Not hail-fellow well-met with a "brother artist," like she had been yesterday. It was all very difficult indeed. Even if it really did turn out to be true, if the wonderful thing had happened to her, if she really was in love she would not try a bit to make him like her. That would be forward and "horrid." She would never try to attract any man. Those things must come of themselves or not at all.
+
+She arranged her skirt in more effective folds, and wondered how it would look as one came up the woodland path. She thought it would look rather picturesque. It was a nice heliotrope colour. It would look like a giant Parma violet against the dark green background. She hoped her hair was tidy. And that her hat was not very crooked. However little one desires to attract, one may at least wish one's hat to be straight.
+
+She looked for the twentieth time at her watch, the serviceable silver watch that had been her mother's. Half-past six, and he had not come.
+
+Well, when he did come she would pretend she had only just got there. Or how would it be if she gave up being a Parma violet and went a little way down the path and then turned back when she heard him coming? She walked away a dozen yards and stood waiting. But he did not come. Was it possible that he was not coming? Was he ill - lying uncared for at the Peal of Bells in the village, with no one to smooth his pillow or put eau-de-cologne on his head?
+
+She walked a hundred yards or so towards the village on the spur of this thought.
+
+Or perhaps he had come by another way to the trysting place? That thought drove her back. He was not there.
+
+Well, she would not stay any longer. She would just go away, and come back ever so much later, and let him have a taste of waiting. She had had her share, she told herself, as she almost ran from the spot. She stopped suddenly. But suppose he did not wait? She went slowly back.
+
+She sat down again, schooled herself to patience.
+
+What an idiot she had been! Like any school-girl. Of course he had never meant to come. Why should he? That page in her diary called out to her to come home and burn it. Care for him indeed! Not she! Why she hadn't exchanged ten words with the man!
+
+"But I knew it was all nonsense when I wrote it," she said. "I only just put it down to see what it would look like."
+
+Mr. Eustace Vernon roused himself, and yawned.
+
+"It's got to be done, I suppose. Buck up, - you'll feel better after your bath! Jove! Seven o'clock. Will she have waited? She's a keen player if she has. It's just worth trying, I suppose."
+
+The church clock struck the half-hour as he turned into the wood. Something palely violet came towards him.
+
+"So you are here," he said. "Where's the pink frock?"
+
+"It's - it's going to the wash," said a stiff and stifled voice. "I'm sorry I couldn't get here at six. I hope you didn't wait long?"
+
+"Not very long," he said, smiling; "but - Great Heavens, what on earth is the matter?"
+
+"Nothing," she said.
+
+"But you've been - you are - "
+
+"I'm not," she said defiantly, - "besides, I've got neuralgia. It always makes me look like that."
+
+"My Aunt!" he thought. "Then she was here at six and - she's been crying because I wasn't and - oh, where are we?" "I'm so sorry you've got neuralgia," he said gently, "but I'm awfully glad you didn't get here at six. Because my watch was wrong and I've only just got here, and I should never have forgiven myself if you'd waited for me a single minute. Is the neuralgia better now?"
+
+"Yes," she said, smiling faintly, "much better. It was rather sharp while it lasted, though."
+
+"Yes," he said, "I see it was. I am so glad you did come. But I was so certain you wouldn't that I didn't bring any of my traps. So we can't begin the picture to-day. Will you start a sketch, or is your neuralgia too bad?"
+
+He knew it would be: and it was.
+
+So they merely sat on the pine carpet and talked till it was time for her to go back to the late Rectory breakfast. They told each other their names that day. Betty talked very carefully. It was most important that he should think well of her. Her manner had changed, as she had promised herself it should do if she found she cared for him. Now she was with him she knew, of course, that she did not care at all. What had made her so wretched - no, so angry that she had actually cried, was simply the idea that she had been made a fool of. That she had kept the tryst and he hadn't. Now he had come she was quite calm. She did not care in the least.
+
+He was saying to himself: "I'm not often wrong, but I was off the line yesterday. All that doesn't count. We take a fresh deal and start fair. She doesn't know the game, mais elle a des moyens. She's never played the game before. And she cried because I didn't turn up. And so I'm the first - think of it, if you please - absolutely the first one! Well: it doesn't detract from the interest of the game. It's quite a different game and requires more skill. But not more than I have, perhaps."
+
+They parted with another tryst set for the next morning. The brother artist note had been skilfully kept vibrating.
+
+Betty was sure that she should never have any feeling for him but mere friendliness. She was glad of that. It must be dreadful to be really in love. So unsettling.

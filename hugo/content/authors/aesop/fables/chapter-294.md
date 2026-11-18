@@ -1,0 +1,8 @@
+---
+title: "The Lamb And The Wolf"
+weight: 296
+aliases:
+  - "/authors/aesop/fables/chapter-294.html"
+---
+
+A WOLF pursued a Lamb, which fled for refuge to a certain Temple. The Wolf called out to him and said, "The Priest will slay you in sacrifice, if he should catch you." On which the Lamb replied, "It would be better for me to be sacrificed in the Temple than to be eaten by you."

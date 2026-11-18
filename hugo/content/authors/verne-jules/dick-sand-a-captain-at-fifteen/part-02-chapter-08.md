@@ -1,0 +1,182 @@
+---
+title: "Part 2 - Chapter 8 - Some Of Dick Sand's Notes"
+weight: 26
+aliases:
+  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-08.html"
+---
+
+Though the storm of the day before had ceased, the weather was still very unsettled. It was, besides, the period of the "masika," the second period of the rainy season, under this zone of the African heaven. The nights in particular would be rainy during one, two, or three weeks, which could only increase the misery of the caravan.
+
+It set out that day in cloudy weather, and, after quitting the banks of the Coanza, made its way almost directly to the east. Fifty soldiers marched at the head, a hundred on each of the two sides of the convoy, the rest as a rear-guard. It would be difficult for the prisoners to flee, even if they had not been chained. Women, children, and men were going pell-mell, and the overseers urged them on with the whip. There were unfortunate mothers who, nursing one child, held a second by the hand that was free. Others dragged these little beings along, without clothing, without shoes, on the sharp grasses of the soil.
+
+The chief of the caravan, that ferocious Ibn Hamis, who had interfered in the struggle between Dick Sand and his overseer, watched this whole troop, going backwards and forwards from the head to the foot of the long column. If his agents and he troubled themselves but little about the sufferings of their captives, they must reckon more seriously either with the soldiers who claimed some additional rations, or with the "pagazis" who wanted to halt. Thence discussions; often even an exchange of brutality. The slaves suffered more from the overseers' constant irritation. Nothing was heard but threats from one side, and cries of grief from the other. Those who marched in the last ranks treaded a soil that the first had stained with their blood.
+
+Dick Sand's companions, always carefully kept in front of the convoy, could have no communication with him. They advanced in file, the neck held in the heavy fork, which did not permit a single head-movement. The whips did not spare them any more than their sad companions in misfortune.
+
+Bat, coupled with his father, marched before him, taxing his ingenuity not to shake the fork, choosing the best places to step on, because old Tom must pass after him. From time to time, when the overseer was a little behind, he uttered various words of encouragement, some of which reached Tom. He even tried to retard his march, if he felt that Tom was getting tired. It was suffering, for this good son to be unable to turn his head towards his good father, whom he loved. Doubtless, Tom had the satisfaction of seeing his son; however, he paid dear for it. How many times great tears flowed from his eyes when the overseer's whip fell upon Bat! It was a worse punishment than if it had fallen on his own flesh.
+
+Austin and Acteon marched a few steps behind, tied to each other, and brutally treated every moment. Ah, how they envied Hercules's fate! Whatever were the dangers that threatened the latter in that savage country, he could at least use his strength and defend his life.
+
+During the first moments of their captivity, old Tom had finally made known the whole truth to his companions. They had learned from him, to their profound astonishment, that they were in Africa; that Negoro's and Harris's double treachery had first thrown them there, and then led them away, and that no pity was to be expected from their masters.
+
+Nan was not better treated. She made part of a group of women who occupied the middle of the convoy. They had chained her with a young mother of two children, one at the breast, the other aged three years, who walked with difficulty. Nan, moved with pity, had burdened herself with the little creature, and the poor slave had thanked her by a tear. Nan then carried the infant, at the same time, sparing her the fatigue, to which she would have yielded, and the blows the overseer would have given her. But it was a heavy burden for old Nan. She felt that her strength would soon fail her, and then she thought of little Jack. She pictured him to herself in his mother's arms. Sickness had wasted him very much, but he must be still heavy for Mrs. Weldon's weakened arms. Where was she? What would become of her? Would her old servant ever see her again?
+
+Dick Sand had been placed almost in the rear of the convoy. He could neither perceive Tom, nor his companions, nor Nan. The head of the long caravan was only visible to him when it was crossing some plain. He walked, a prey, to the saddest thoughts, from which the agents' cries hardly drew his attention. He neither thought of himself, nor the fatigues he must still support, nor of the tortures probably reserved for him by Negoro. He only thought of Mrs. Weldon. In rain he sought on the ground, on the brambles by the paths, on the lower branches of the trees, to find some trace of her passage. She could not have taken another road, if, as everything indicated, they were leading her to Kazounde. What would he not give to find some indication of her march to the destination where they themselves were being led!
+
+Such was the situation of the young novice and his companions in body and mind. But whatever they might have to fear for themselves, great as was their own sufferings, pity took possession of them on seeing the frightful misery of that sad troop of captives, and the revolting brutality of their masters. Alas! they could do nothing to succor the afflicted, nothing to resist the others.
+
+All the country situated east of the Coanza was only a forest for over an extent of twenty miles. The trees, however, whether they perish under the biting of the numerous insects of these countries, or whether troops of elephants beat them down while they are still young, are less crowded here than in the country next to the seacoast. The march, then, under the trees, would not present obstacles. The shrubs might be more troublesome than the trees. There was, in fact, an abundance of those cotton-trees, seven to eight feet high, the cotton of which serves to manufacture the black and white striped stuffs used in the interior of the province.
+
+In certain places, the soil transformed itself into thick jungles, in which the convoy disappeared. Of all the animals of the country, the elephants and giraffes alone were taller than those reeds which resemble bamboos, those herbs, the stalks of which measure an inch in diameter. The agents must know the country marvelously well, not to be lost in these jungles.
+
+Each day the caravan set out at daybreak, and only halted at midday for an hour. Some packs containing tapioca were then opened, and this food was parsimoniously distributed to the slaves. To this potatoes were added, or goat's meat and veal, when the soldiers had pillaged some village in passing. But the fatigue had been such, the repose so insufficient, so impossible even during these rainy nights, that when the hour for the distribution of food arrived the prisoners could hardly eat. So, eight days after the departure from the Coanza, twenty had fallen by the way, at the mercy of the beasts that prowled behind the convoy. Lions, panthers and leopards waited for the victims which could not fail them, and each evening after sunset their roaring sounded at such a short distance that one might fear a direct attack.
+
+On hearing those roars, rendered more formidable by the darkness, Dick Sand thought with terror of the obstacles such encounters would present against Hercules's enterprise, of the perils that menaced each of his steps. And meanwhile if he himself should find an opportunity to flee, he would not hesitate.
+
+Here are some notes taken by Dick Sand during this journey from the Coanza to Kazounde. Twenty-five "marches" were employed to make this distance of two hundred and fifty miles, the "march" in the traders' language being ten miles, halting by day and night.
+
+From 25th to 27th April. - Saw a village surrounded by walls of reeds, eight or nine feet high. Fields cultivated with maize, beans, "sorghas" and various arachides. Two blacks seized and made prisoners. Fifteen killed. Population fled.
+
+The next day crossed an impetuous river, one hundred and fifty yards wide. Floating bridge, formed of trunks of trees, fastened with lianes. Piles half broken. Two women, tied to the same fork, precipitated into the water. One was carrying her little child. The waters are disturbed and become stained with blood. Crocodiles glide between the parts of the bridge. There is danger of stepping into their open mouths.
+
+April 28th. - Crossed a forest of bauhiniers. Trees of straight timber - those which furnish the iron wood for the Portuguese.
+
+Heavy rain. Earth wet. March extremely painful.
+
+Perceived, toward the center of the convoy, poor Nan, carrying a little negro child in her arms. She drags herself along with difficulty. The slave chained with her limps, and the blood flows from her shoulder, torn by lashes from the whip.
+
+In the evening camped under an enormous baobab with white flowers and a light green foliage.
+
+During the night roars of lions and leopards. Shots fired by one of the natives at a panther. What has become of Hercules?
+
+April 29th and 30th. - First colds of what they call the African winter. Dew very abundant. End of the rainy season with the month of April; it commences with the month of November. Plains still largely inundated. East winds which check perspiration and renders one more liable to take the marsh fevers.
+
+No trace of Mrs. Weldon, nor of Mr. Benedict. Where would they take them, if not to Kazounde? They must have followed the road of the caravan and preceded us. I am eaten up with anxiety. Little Jack must be seized again with the fever in this unhealthy region. But does he still live?
+
+From May 1st to May 6th. - Crossed, with several halting-places, long plains, which evaporation has not been able to dry up. Water everywhere up to the waist. Myriads of leeches adhering to the skin. We must march for all that. On some elevations that emerge are lotus and papyrus. At the bottom, under the water, other plants, with large cabbage leaves, on which the feet slip, which occasions numerous falls.
+
+In these waters, considerable quantities of little fish of the silurus species. The natives catch them by billions in wickers and sell them to the caravans.
+
+Impossible to find a place to camp for the night. We see no limit to the inundated plain. We must march in the dark. To-morrow many slaves will be missing from the convoy. What misery! When one falls, why get up again? A few moments more under these waters, and all would be finished. The overseer's stick would not reach you in the darkness.
+
+Yes, but Mrs. Weldon and her son! I have not the right to abandon them. I shall resist to the end. It is my duty.
+
+Dreadful cries are heard in the night. Twenty soldiers have torn some branches from resinous trees whose branches were above water. Livid lights in the darkness.
+
+This is the cause of the cries I heard. An attack of crocodiles; twelve or fifteen of those monsters have thrown themselves in the darkness on the flank of the caravan.
+
+Women and children have been seized and carried away by the crocodiles to their "pasture lands" - so Livingstone calls those deep holes where this amphibious animal deposits its prey, after having drowned it, for it only eats it when it has reached a certain degree of decomposition.
+
+I have been rudely grazed by the scales of one of these crocodiles. An adult slave has been seized near me and torn from the fork that held him by the neck. The fork was broken. What a cry of despair! What a howl of grief! I hear it still!
+
+May 7th and 8th. - The next day they count the victims. Twenty slaves have disappeared.
+
+At daybreak I look for Tom and his companions. God be praised! they are living. Alas! ought I to praise God? Is one not happier to be done with all this misery!
+
+Tom is at the head of the convoy. At a moment when his son Bat made a turn, the fork was presented obliquely, and Tom was able to see me.
+
+I search in vain for old Nan. Is she in the central group? or has she perished during that frightful night?
+
+The next day, passed the limit of the inundated plain, after twenty-four hours in the water. We halt on a hill. The sun dries us a little. We eat, but what miserable food! A little tapioca, a few handfuls of maize. Nothing but the troubled water to drink. Prisoners extended on the ground - how many will not get up!
+
+No! it is not possible that Mrs. Weldon and her son have passed through so much misery! God would be so gracious to them as to have them led to Kazounde by another road. The unhappy mother could not resist.
+
+New case of small-pox in the caravan; the "ndoue," as they say. The sick could not be able to go far. Will they abandon them?
+
+May 9th. - They have begun the march again at sunrise. No laggards. The overseer's whip has quickly raised those overcome by fatigue or sickness. Those slaves have a value; they are money. The agents will not leave them behind while they have strength enough to march.
+
+I am surrounded by living skeletons. They have no longer voice enough to complain. I have seen old Nan at last. She is a sad sight. The child she was carrying is no longer in her arms. She is alone, too. That will be less painful for her; but the chain is still around her waist, and she has been obliged to throw the end over her shoulder.
+
+By hastening, I have been able to draw near her. One would say that she did not recognize me. Am I, then, changed to that extent?
+
+"Nan," I said.
+
+The old servant looked at me a long time, and then she exclaimed:
+
+"You, Mr. Dick! I - I - before long I shall be dead!"
+
+"No, no! Courage!" I replied, while my eyes fell so as not to see what was only the unfortunate woman's bloodless specter.
+
+"Dead!" she continued; "and I shall not see my dear mistress again, nor my little Jack. My God! my God! have pity on me!"
+
+I wished to support old Nan, whose whole body trembled under her torn clothing. It would have been a mercy to see myself tied to her, and to carry my part of that chain, whose whole weight she bore since her companion's death.
+
+A strong arm pushes me back, and the unhappy Nan is thrown back into the crowd of slaves, lashed by the whips. I wished to throw myself on that brutal - - The Arab chief appears, seizes my arm, and holds me till I find myself again in the caravan's last rank.
+
+Then, in his turn, he pronounces the name, "Negoro!"
+
+Negoro! It is then by the Portuguese's orders that he acts and treats me differently from my companions in misfortune?
+
+For what fate am I reserved?
+
+May 10th. - To-day passed near two villages in flames. The stubble burns on all sides. Dead bodies are hung from the trees the fire has spared. Population fled.
+
+Fields devastated. The razzie is exercised there. Two hundred murders, perhaps, to obtain a dozen slaves.
+
+Evening has arrived. Halt for the night. Camp made under great trees. High shrubs forming a thicket on the border of the forest.
+
+Some prisoners fled the night before, after breaking their forks. They have been retaken, and treated with unprecedented cruelty. The soldiers' and overseers' watchfulness is redoubled.
+
+Night has come. Roaring of lions and hyenas, distant snorting of hippopotami. Doubtless some lake or watercourse near.
+
+In spite of my fatigue, I cannot sleep. I think of so many things.
+
+Then, it seems to me that I hear prowling in the high grass. Some animal, perhaps. Would it dare force an entrance into the camp?
+
+I listen. Nothing! Yes! An animal is passing through the reeds. I am unarmed! I shall defend myself, nevertheless. My life may be useful to Mrs. Weldon, to my companions.
+
+I look through the profound darkness. There is no moon. The night is extremely dark.
+
+Two eyes shine in the darkness, among the papyrus - two eyes of a hyena or a leopard. They disappear - reappear.
+
+At last there is a rustling of the bushes. An animal springs upon me!
+
+I am going to cry out, to give the alarm. Fortunately, I was able to restrain myself. I cannot believe my eyes! It is Dingo! Dingo, who is near me! Brave Dingo! How is it restored to me? How has it been able to find me again? Ah! instinct! Would instinct be sufficient to explain such miracles of fidelity? It licks my hands. Ah! good dog, now my only friend, they have not killed you, then!
+
+It understands me.
+
+I return its caresses.
+
+It wants to bark.
+
+I calm it. It must not be heard.
+
+Let it follow the caravan in this way, without being seen, and perhaps - - But what! It rubs its neck obstinately against my hands. It seems to say to me: "Look for something." I look, and I feel something there, fastened to its neck. A piece of reed is slipped under the collar, on which are graven those two letters, S.V., the mystery of which is still inexplicable to us.
+
+Yes. I have unfastened the reed. I have broken it! There is a letter inside. But this letter - I cannot read it. I must wait for daylight! - daylight! I should like to keep Dingo; but the good animal, even while licking my hands, seems in a hurry to leave me. It understands that its mission is finished. With one bound aside, it disappears among the bushes without noise. May God spare it from the lions' and hyenas' teeth!
+
+Dingo has certainly returned to him who sent it to me.
+
+This letter, that I cannot yet read, burns my hands! Who has written it? Would it come from Mrs. Weldon? Does it come from Hercules? How has the faithful animal, that we believed dead, met either the one or the other? What is this letter going to tell me? Is it a plan of escape that it brings me? Or does it only give me news of those dear to me? Whatever it may be, this incident has greatly moved me, and has relaxed my misery.
+
+Ah! the day comes so slowly. I watch for the least light on the horizon. I cannot close my eyes. I still hear the roaring of the animals. My poor Dingo, can you escape them? At last day is going to appear, and almost without dawn, under these tropical latitudes.
+
+I settle myself so as not to be seen. I try to read - I cannot yet. At last I have read. The letter is from Hercules's hand. It is written on a bit of paper, in pencil. Here is what it says:
+
+Ah! Mrs. Weldon and her son are living. God be praised! They have not to suffer the fatigues of these rude halting-places. A kitanda - it is a kind of litter of dry grass, suspended to a long bamboo, that two men carry on the shoulder. A stuff curtain covers it over. Mrs. Weldon and her little Jack are in that kitanda. What does Harris and Negoro want to do with them? Those wretches are evidently going to Kazounde. Yes, yes, I shall find them again. Ah! in all this misery it is good news, it is joy that Dingo has brought me!
+
+From May 11th to 15th. - The caravan continues its march. The prisoners drag themselves along more and more painfully. The majority have marks of blood under their feet. I calculate that it will take ten days more to reach Kazounde. How many will have ceased to suffer before then? But I - I must arrive there, I shall arrive there.
+
+It is atrocious! There are, in the convoy, unfortunate ones whose bodies are only wounds. The cords that bind them enter into the flesh.
+
+Since yesterday a mother carries in her arms her little infant, dead from hunger. She will not separate from it.
+
+Our route is strewn with dead bodies. The smallpox rages with new violence.
+
+We have just passed near a tree. To this tree slaves were attached by the neck. They were left there to die of hunger.
+
+From May 16th to 24th. - I am almost exhausted, but I have no right to give up. The rains have entirely ceased. We have days of "hard marching." That is what the traders call the "tirikesa," or afternoon march. We must go faster, and the ground rises in rather steep ascents.
+
+We pass through high shrubs of a very tough kind. They are the "nyassi," the branches of which tear the skin off my face, whose sharp seeds penetrate to my skin, under my dilapidated clothes. My strong boots have fortunately kept good.
+
+The agents have commenced to abandon the slaves too sick to keep up. Besides, food threatens to fail; soldiers and pagazis would revolt if their rations were diminished. They dare not retrench from them, and then so much worse for the captives.
+
+"Let them eat one another!" said the chief.
+
+Then it follows that young slaves, still strong, die without the appearance of sickness. I remember what Dr. Livingstone has said on that subject: "Those unfortunates complain of the heart; they put their hands there, and they fall. It is positively the heart that breaks! That is peculiar to free men, reduced to slavery unexpectedly!"
+
+To-day, twenty captives who could no longer drag themselves along, have been massacred with axes, by the havildars! The Arab chief is not opposed to massacre. The scene has been frightful!
+
+Poor old Nan has fallen under the knife, in this horrible butchery! I strike against her corpse in passing! I cannot even give her a Christian burial! She is first of the "Pilgrim's" survivors whom God has called back to him. Poor good creature! Poor Nan!
+
+I watch for Dingo every night. It returns no more! Has misfortune overtaken it or Hercules? No! no! I do not want to believe it! This silence, which appears so long to me, only proves one thing - it is that Hercules has nothing new to tell me yet. Besides, he must be prudent, and on his guard.

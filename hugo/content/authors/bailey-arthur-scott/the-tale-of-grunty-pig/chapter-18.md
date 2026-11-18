@@ -1,0 +1,44 @@
+---
+title: "Chapter 18 - The Luckiest Of All"
+weight: 18
+aliases:
+  - "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-18.html"
+---
+
+Grunty Pig found that being the smallest of the family wasn't all fun. Not only could his brothers and sisters crowd him at the feeding trough. Even when they were playing in the pen they often knocked him down and walked right over him. And if he objected--as he usually did--they were sure to laugh and call him "Runt."
+
+Try as she would, Mrs. Pig couldn't rid her children of these boorish ways. But she shouldn't be blamed for that. It must be remembered that she had seven youngsters, all of the same age.
+
+At least, Mrs. Pig did what she could to make Grunty's lot easier.
+
+"Don't feel unhappy!" she said to him one day as he picked himself up, whimpering, after a hard knock. "Don't feel unhappy because you are the littlest of the family. In one way you are the luckiest of all my children."
+
+Grunty Pig didn't stop weeping. He saw no reason--yet--to feel more cheerful.
+
+"Did you know--" his mother asked him--"did you know that in one respect you are the handsomest one of the whole litter? You have the curliest tail of them all!"
+
+Grunty Pig gazed, open-mouthed, at his mother. He stopped snivelling. Up to that time he had scarcely given his tail a thought. So long as it followed him wherever he went he had been satisfied with it.
+
+[Illustration: Grunty Pig Stuck Fast in the Fence.
+
+(Page 86)]
+
+From that moment Grunty began to think a great deal about his tail. He was always turning his head to look at it, to make sure it hadn't lost any of its kink. Now and then he was even late for a meal, because he was feasting his eyes on his tail when Farmer Green came to the pen with food for Mrs. Pig's family.
+
+It must be confessed that Grunty sometimes boasted before his brothers and sisters about his beautiful curly tail. And just before meal time his brother Blackie was known, upon occasion, to mention the subject of tails. He did that in the hope that Grunty would be late at the feeding trough.
+
+Sad to say, Grunty Pig was fast becoming vain. He even talked about tails with the neighbors, taking pains to explain that his own was the handsomest one on the farm.
+
+Old dog Spot sniffed when Grunty boasted about his tail one day.
+
+"Why, your tail is of no use whatsoever," Spot told him. "You can't use it to switch a fly off your back. The Muley Cow can do that. And so can the old horse, Ebenezer."
+
+"Ah! But my tail is so pretty to look at!" Grunty Pig exclaimed.
+
+"You can't puff it up to show you're angry, as Miss Kitty Cat does," said Spot.
+
+"Ah! But my tail has a beautiful curl!" said Grunty Pig.
+
+"You can't wag it, to let folks know you're friendly, as I can," said Spot.
+
+"Ah! But my tail is so handsome!" Grunty Pig exclaimed.

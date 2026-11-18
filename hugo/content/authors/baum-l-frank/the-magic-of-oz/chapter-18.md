@@ -1,0 +1,88 @@
+---
+title: "Chapter 18"
+weight: 19
+aliases:
+  - "/authors/baum-l-frank/the-magic-of-oz/chapter-18.html"
+---
+
+He first set up a small silver tripod and placed a gold basin at the top of it. Into this basin he put two powders--a pink one and a sky-blue one--and poured over them a yellow liquid from a crystal vial. Then he mumbled some magic words, and the powders began to sizzle and burn and send out a cloud of violet smoke that floated across the river and completely enveloped both Trot and Cap'n Bill, as well as the toadstools on which they sat, and even the Magic Plant in the gold flower-pot. Then, after the smoke had disappeared into air, the Wizard called out to the prisoners:
+
+"Are you free?"
+
+Both Trot and Cap'n Bill tried to move their feet and failed.
+
+"No!" they shouted in answer.
+
+The Wizard rubbed his bald head thoughtfully and then took some other magic tools from the bag.
+
+First he placed a little black ball in a silver pistol and shot it toward the Magic Isle. The ball exploded just over the head of Trot and scattered a thousand sparks over the little girl.
+
+"Oh!" said the Wizard, "I guess that will set her free."
+
+But Trot's feet were still rooted in the ground of the Magic Isle, and the disappointed Wizard had to try something else.
+
+For almost an hour he worked hard, using almost every magic tool in his black bag, and still Cap'n Bill and Trot were not rescued.
+
+"Dear me!" exclaimed Dorothy, "I'm 'fraid we'll have to go to Glinda, after all."
+
+That made the little Wizard blush, for it shamed him to think that his magic was not equal to that of the Magic Isle.
+
+"I won't give up yet, Dorothy," he said, "for I know a lot of wizardry that I haven't yet tried. I don't know what magician enchanted this little island, or what his powers were, but I DO know that I can break any enchantment known to the ordinary witches and magicians that used to inhabit the Land of Oz. It's like unlocking a door; all you need is to find the right key."
+
+"But 'spose you haven't the right key with you." suggested Dorothy; "what then?"
+
+"Then we'll have to make the key," he answered.
+
+The Glass Cat now came back to their side of the river, walking under the water, and said to the Wizard: "They're getting frightened over there on the island because they're both growing smaller every minute. Just now, when I left them, both Trot and Cap'n Bill were only about half their natural sizes."
+
+"I think," said the Wizard reflectively, "that I'd better go to the shore of the island, where I can talk to them and work to better advantage. How did Trot and Cap'n Bill get to the island?"
+
+"On a raft," answered the Glass Cat. "It's over there now on the beach."
+
+"I suppose you're not strong enough to bring the raft to this side, are you?"
+
+"No; I couldn't move it an inch," said the Cat.
+
+"I'll try to get it for you," volunteered the Cowardly Lion. "I'm dreadfully scared for fear the Magic Isle will capture me, too; but I'll try to get the raft and bring it to this side for you."
+
+"Thank you, my friend," said the Wizard.
+
+So the Lion plunged into the river and swam with powerful strokes across to where the raft was beached upon the island. Placing one paw on the raft, he turned and struck out with his other three legs and so strong was the great beast that he managed to drag the raft from off the beach and propel it slowly to where the Wizard stood on the river bank.
+
+"Good!" exclaimed the little man, well pleased.
+
+"May I go across with you?" asked Dorothy.
+
+The Wizard hesitated.
+
+"If you'll take care not to leave the raft or step foot on the island, you'll be quite safe," he decided. So the Wizard told the Hungry Tiger and the Cowardly Lion to guard the cage of monkeys until he returned, and then he and Dorothy got upon the raft. The paddle which Cap'n Bill had made was still there, so the little Wizard paddled the clumsy raft across the water and ran it upon the beach of the Magic Isle as close to the place where Cap'n Bill and Trot were rooted as he could.
+
+Dorothy was shocked to see how small the prisoners had become, and Trot said to her friends: "If you can't save us soon, there'll be nothing left of us."
+
+"Be patient, my dear," counseled the Wizard, and took the little axe from his black bag.
+
+"What are you going to do with that?" asked Cap'n Bill.
+
+"It's a magic axe," replied the Wizard, "and when I tell it to chop, it will chop those roots from your feet and you can run to the raft before they grow again."
+
+"Don't!" shouted the sailor in alarm. "Don't do it! Those roots are all flesh roots, and our bodies are feeding 'em while they're growing into the ground."
+
+"To cut off the roots," said Trot, "would be like cutting off our fingers and toes."
+
+The Wizard put the little axe back in the black bag and took out a pair of silver pincers.
+
+"Grow--grow--grow!" he said to the pincers, and at once they grew and extended until they reached from the raft to the prisoners.
+
+"What are you going to do now?" demanded Cap'n Bill, fearfully eyeing the pincers.
+
+"This magic tool will pull you up, roots and all, and land you on this raft," declared the Wizard.
+
+"Don't do it!" pleaded the sailor, with a shudder. "It would hurt us awfully."
+
+"It would be just like pulling teeth to pull us up by the roots," explained Trot.
+
+"Grow small!" said the Wizard to the pincers, and at once they became small and he threw them into the black bag.
+
+"I guess, friends, it's all up with us, this time," remarked Cap'n Bill, with a dismal sigh.
+
+"Please tell Ozma, Dorothy," said Trot, "that we got into trouble trying to get her a nice birthday present. Then she'll forgive us. The Magic Flower is lovely and wonderful, but it's just a lure to catch folks on this dreadful island and then destroy them. You'll have a nice birthday party, without us, I'm sure; and I hope, Dorothy, that none of you in the Emerald City will forget me--or dear ol' Cap'n Bill."

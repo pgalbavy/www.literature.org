@@ -1,0 +1,54 @@
+---
+title: "Chapter 22"
+weight: 22
+aliases:
+  - "/authors/crane-stephen/the-red-badge-of-courage/chapter-22.html"
+---
+
+WHEN the woods again began to pour forth the dark-hued masses of the enemy the youth felt serene self-confidence. He smiled briefly when he saw men dodge and duck at the long screech- ings of shells that were thrown in giant handfuls over them. He stood, erect and tranquil, watch- ing the attack begin against a part of the line that made a blue curve along the side of an adja- cent hill. His vision being unmolested by smoke from the rifles of his companions, he had oppor- tunities to see parts of the hard fight. It was a relief to perceive at last from whence came some of these noises which had been roared into his ears.
+
+Off a short way he saw two regiments fight- ing a little separate battle with two other regi- ments. It was in a cleared space, wearing a set- apart look. They were blazing as if upon a wager, giving and taking tremendous blows. The firings were incredibly fierce and rapid.
+
+209 These intent regiments apparently were oblivious of all larger purposes of war, and were slugging each other as if at a matched game.
+
+In another direction he saw a magnificent brigade going with the evident intention of driv- ing the enemy from a wood. They passed in out of sight and presently there was a most awe-in- spiring racket in the wood. The noise was un- speakable. Having stirred this prodigious up- roar, and, apparently, finding it too prodigious, the brigade, after a little time, came marching airily out again with its fine formation in nowise disturbed. There were no traces of speed in its movements. The brigade was jaunty and seemed to point a proud thumb at the yelling wood.
+
+On a slope to the left there was a long row of guns, gruff and maddened, denouncing the enemy, who, down through the woods, were forming for another attack in the pitiless mo- notony of conflicts. The round red discharges from the guns made a crimson flare and a high, thick smoke. Occasional glimpses could be caught of groups of the toiling artillerymen. In the rear of this row of guns stood a house, calm and white, amid bursting shells. A congregation of horses, tied to a long railing, were tugging frenziedly at their bridles. Men were running hither and thither.
+
+The detached battle between the four regi- ments lasted for some time. There chanced to be no interference, and they settled their dispute by themselves. They struck savagely and pow- erfully at each other for a period of minutes, and then the lighter-hued regiments faltered and drew back, leaving the dark-blue lines shouting. The youth could see the two flags shaking with laughter amid the smoke remnants.
+
+Presently there was a stillness, pregnant with meaning. The blue lines shifted and changed a trifle and stared expectantly at the silent woods and fields before them. The hush was solemn and churchlike, save for a distant battery that, evidently unable to remain quiet, sent a faint rolling thunder over the ground. It irritated, like the noises of unimpressed boys. The men imagined that it would prevent their perched ears from hearing the first words of the new battle.
+
+Of a sudden the guns on the slope roared out a message of warning. A spluttering sound had begun in the woods. It swelled with amazing speed to a profound clamor that involved the earth in noises. The splitting crashes swept along the lines until an interminable roar was developed. To those in the midst of it it became a din fitted to the universe. It was the whirring and thumping of gigantic machinery, complica- tions among the smaller stars. The youth's ears were filled up. They were incapable of hearing more.
+
+On an incline over which a road wound he saw wild and desperate rushes of men perpet- ually backward and forward in riotous surges. These parts of the opposing armies were two long waves that pitched upon each other madly at dictated points. To and fro they swelled. Sometimes, one side by its yells and cheers would proclaim decisive blows, but a moment later the other side would be all yells and cheers. Once the youth saw a spray of light forms go in houndlike leaps toward the waving blue lines. There was much howling, and presently it went away with a vast mouthful of prisoners. Again, he saw a blue wave dash with such thunderous force against a gray obstruction that it seemed to clear the earth of it and leave nothing but trampled sod. And always in their swift and deadly rushes to and fro the men screamed and yelled like maniacs.
+
+Particular pieces of fence or secure positions behind collections of trees were wrangled over, as gold thrones or pearl bedsteads. There were desperate lunges at these chosen spots seemingly every instant, and most of them were bandied like light toys between the contending forces. The youth could not tell from the battle flags flying like crimson foam in many directions which color of cloth was winning.
+
+His emaciated regiment bustled forth with undiminished fierceness when its time came. When assaulted again by bullets, the men burst out in a barbaric cry of rage and pain. They bent their heads in aims of intent hatred behind the projected hammers of their guns. Their ramrods clanged loud with fury as their eager arms pounded the cartridges into the rifle barrels. The front of the regiment was a smoke- wall penetrated by the flashing points of yellow and red.
+
+Wallowing in the fight, they were in an astonishingly short time resmudged. They surpassed in stain and dirt all their previous ap- pearances. Moving to and fro with strained exertion, jabbering the while, they were, with their swaying bodies, black faces, and glowing eyes, like strange and ugly friends jigging heavily in the smoke.
+
+The lieutenant, returning from a tour after a bandage, produced from a hidden receptacle of his mind new and portentous oaths suited to the emergency. Strings of expletives he swung lashlike over the backs of his men, and it was evident that his previous efforts had in nowise impaired his resources.
+
+The youth, still the bearer of the colors, did not feel his idleness. He was deeply absorbed as a spectator. The crash and swing of the great drama made him lean forward, intent-eyed, his face working in small contortions. Sometimes he prattled, words coming unconsciously from him in grotesque exclamations. He did not know that he breathed; that the flag hung silently over him, so absorbed was he.
+
+A formidable line of the enemy came within dangerous range. They could be seen plainly-- tall, gaunt men with excited faces running with long strides toward a wandering fence.
+
+At sight of this danger the men suddenly ceased their cursing monotone. There was an instant of strained silence before they threw up their rifles and fired a plumping volley at the foes. There had been no order given; the men, upon recognizing the menace, had immedi- ately let drive their flock of bullets without wait- ing for word of command.
+
+But the enemy were quick to gain the protec- tion of the wandering line of fence. They slid down behind it with remarkable celerity, and from this position they began briskly to slice up the blue men.
+
+These latter braced their energies for a great struggle. Often, white clinched teeth shone from the dusky faces. Many heads surged to and fro, floating upon a pale sea of smoke. Those behind the fence frequently shouted and yelped in taunts and gibelike cries, but the regi- ment maintained a stressed silence. Perhaps, at this new assault the men recalled the fact that they had been named mud diggers, and it made their situation thrice bitter. They were breath- lessly intent upon keeping the ground and thrust- ing away the rejoicing body of the enemy. They fought swiftly and with a despairing savageness denoted in their expressions.
+
+The youth had resolved not to budge what- ever should happen. Some arrows of scorn that had buried themselves in his heart had generated strange and unspeakable hatred. It was clear to him that his final and absolute revenge was to be achieved by his dead body lying, torn and gluttering, upon the field. This was to be a poignant retaliation upon the officer who had said "mule drivers," and later "mud diggers," for in all the wild graspings of his mind for a unit responsible for his sufferings and commo- tions he always seized upon the man who had dubbed him wrongly. And it was his idea, vaguely formulated, that his corpse would be for those eyes a great and salt reproach.
+
+The regiment bled extravagantly. Grunting bundles of blue began to drop. The orderly sergeant of the youth's company was shot through the cheeks. Its supports being injured, his jaw hung afar down, disclosing in the wide cavern of his mouth a pulsing mass of blood and teeth. And with it all he made attempts to cry out. In his endeavor there was a dreadful earnestness, as if he conceived that one great shriek would make him well.
+
+The youth saw him presently go rearward. His strength seemed in nowise impaired. He ran swiftly, casting wild glances for succor.
+
+Others fell down about the feet of their com- panions. Some of the wounded crawled out and away, but many lay still, their bodies twisted into impossible shapes.
+
+The youth looked once for his friend. He saw a vehement young man, powder-smeared and frowzled, whom he knew to be him. The lieu- tenant, also, was unscathed in his position at the rear. He had continued to curse, but it was now with the air of a man who was using his last box of oaths.
+
+For the fire of the regiment had begun to wane and drip. The robust voice, that had come strangely from the thin ranks, was growing rapidly weak.

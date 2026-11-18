@@ -1,0 +1,44 @@
+---
+title: "Chapter 4 - Getting Ready"
+weight: 4
+aliases:
+  - "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-04.html"
+---
+
+Buster Bumblemee's mind was made up. Although Chirpy Cricket told him it would be a shame for him to miss the torchlight procession, which was sure to be a great success, because Freddie Firefly had promised to be there with one hundred and twenty-seven of his relations, Buster still shook his head.
+
+"I wouldn't think of such a thing as staying out after dark!" he declared with much firmness.
+
+"But you ought to see the Firefly family when they're all lighted up!" Chirpy Cricket cried.
+
+"Are they as bright as the sun?" Buster asked.
+
+"N-no--but they're brighter than some of the stars," Chirpy replied.
+
+"Well, I don't care if they are," said Buster. "I need my rest at night. And you'll have to get along without me, though of course, I'm much obliged for the invitation."
+
+Seeing that further urging was useless, Chirpy Cricket left Buster and hurried away to find Jennie Junebug. And to his delight, she said at once that she would be much pleased to attend the torchlight procession. She did wish, however, that he had invited her earlier, because she would have liked a new gown for the occasion.
+
+"Oh, come just as you are!" said Chirpy Cricket.
+
+"What! With my apron on?" Jennie Junebug exclaimed.
+
+Chirpy Cricket went off laughing. Buster Bumblebee had caused him some disappointment. But now he was feeling quite cheerful again.
+
+As he went from place to place inviting his friends to come to the torchlight procession that night, he found that a good many felt as Buster Bumblebee did. They declined to break their life-long rule of going early to bed. But there were others, such as Mr. Moses Mosquito, Kiddie Katydid, and Mehitable Moth, who said at once that they were glad he asked them and that they wouldn't miss the fun for anything.
+
+Meanwhile Freddie Firefly was just as busy as Chirpy Cricket. And he had somewhat better luck. For not only did fifty-five of his brothers and six dozen of his cousins promise to take part in the procession--and bring their lights, too--but at least three hundred others, including some of Freddie's second and third cousins, agreed gladly to join in the evening's sport.
+
+So before dark Freddie sent a message to Chirpy Cricket by Greenie Grasshopper, telling him that he might count on a big turnout of the Firefly family.
+
+That was good news. And Chirpy Cricket felt so happy that he began to sing earlier in the evening than was his custom.
+
+While it was still dusk he went to the stone wall where the procession was to form. And of course he had to wait there a long time before the first of the Firefly family appeared.
+
+Even for a person as cheerful as Chirpy Cricket, it was hard to wait. But he consoled himself by chirping his loudest.
+
+"I suppose Freddie Firefly and all his relations are very busy getting their lights ready," he thought.
+
+At last, when it was quite dark, Freddie Firefly lighted on a head of timothy grass close beside the stone wall and began to flash his light right in Chirpy Cricket's face.
+
+"Here I am, just as I promised!" he called.

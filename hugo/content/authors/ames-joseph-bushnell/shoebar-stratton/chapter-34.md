@@ -1,0 +1,66 @@
+---
+title: "Chapter 34 - The Fight On The Ledge"
+weight: 34
+aliases:
+  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-34.html"
+---
+
+In that instant of supreme horror, Mary Thorne found time to be thankful that terror struck her momentarily dumb. For now, with lips parted and a cry of warning trembling there, she saw that it was too late. Like a pointer freezing to the scent, Lynch's whole body had stiffened; one hand gripped the leveled Colt, a finger caressed the trigger. At this juncture a cry would almost surely bring that tiny, muscular contraction which might be fatal.
+
+From behind the ledge Buck's hat had disappeared, and a faint creak of saddle-leather told the girl that he had dismounted and by so doing must have moved a trifle out of range.
+
+Sick with horror and desperation, the girl's eye fell upon a stone lying at her feet--a jagged piece of granite perhaps twice the size of a baseball. In a flash she dropped the bridle-reins and, bending, caught it up stealthily. Freckles pricked his ears forward, but with a fleeting, imploring touch of one hand against his sweaty neck, Mary steadied herself for a moment, slowly drew back her arm, and, with a fervent, silent prayer for strength, she hurled the stone.
+
+It grazed Lynch's face and struck his wrist with a force that jerked up the barrel of the revolver. The spurt of flame, the sharp crack of the shot, the clatter of the Colt striking the edge of the precipice, all seemed to the girl to come simultaneously. A belated second afterward Lynch's furious curses came to her. With dilated eyes she saw him snatch frantically at the sliding weapon, and as it toppled out of sight into the cañon barely an inch ahead of his clutching, striving fingers, she thrilled with sudden fierce joy.
+
+"Curse you!" he frothed, springing up and rushing at her. "You--"
+
+"Buck!" she screamed. "Quick! His gun's gone! He--"
+
+A blow from his fist struck her mouth and flung her backward against the horse. Half fainting, she saw Freckles lunge over her shoulder and heard the vicious click of his teeth snapping together. But Lynch, ducking out of reach of the angry horse, caught Mary about the waist and dragged her toward the precipice.
+
+Involuntarily she closed her eyes. When she opened them again, stirred by the curious silence and the sudden cessation of all movement, she found herself staring dazedly into the face of Buck Green.
+
+He stood very quietly just inside the narrow entrance to the ledge, not more than ten feet from her. In one hand was a six-shooter; the other hung straight at his side, the fingers tightly clenched. As he met her bewildered glance, his eyes softened tenderly and the corners of his lips curved in a momentary, reassuring smile. Then abruptly his face froze again.
+
+"Yuh take another step an' down she'll go," said a hoarse voice close to the girl's ear.
+
+It was Lynch; and Mary, her senses clearing, knew whose hands gripped her so tightly that she could scarcely breathe. Glancing sidewise, she hastily averted her eyes. She was standing within six inches of the edge of the precipice. For the first time she could look down into those sheer depths, and even that hurried glimpse made her shiver.
+
+"Well, I admit you've got the bulge on me, as it were." Buck's voice suddenly broke the silence. "Still, I don't see how you're going to get out of this hole. You can't stand like this forever."
+
+Mary stared at him, amazed at his cool, drawling, matter-of-fact tone. She was still more puzzled to note that he seemed to be juggling with his revolver in a manner which seemed, to say the least, extraordinarily careless.
+
+"I can stand here till I get tired," retorted Lynch. "After that-- Well, I'd as soon end up down there as get a bullet through my ribs. One thing, I wouldn't go alone."
+
+"Suppose I offered to let you go free if you give up Miss Thorne?" Stratton asked with sudden earnestness.
+
+"Offer? Hell! Yuh can't fool me with that kind of talk. Not unless yuh hand over yore gun, that is. Do that, an' I might consider the proposition--not otherwise."
+
+Buck hesitated, his eyes flashing from the weapon he whirled so carelessly between his fingers to Lynch, whose eyes regarded him intently over the girl's shoulder.
+
+"That would be putting an awful lot of trust in you," he commented. "Once you had the gun, what's to prevent you from drilling me--Oh, damn!"
+
+He made a sudden, ineffectual grab at the gun, which had slipped from his fingers, and missed. As the weapon clattered against the rocks, Lynch's covetous glance followed it involuntarily. What happened next was a bewildering whirl of violent, unexpected action.
+
+To Mary it seemed as if Buck cleared the space between them in a single amazing leap. He landed with one foot slipping on the ragged edge of the precipice, and apparently threw his whole weight sidewise against Lynch and the girl he held. Just how it happened she did not know, but in another moment Mary found herself freed from those hateful, gripping hands and flung back against her horse, while at her feet the two men grappled savagely.
+
+Over and over on the narrow confines of the sloping ledge they struggled fiercely, heaving, panting, with muscles cracking, each seemingly possessed with a grim determination to thrust the other into the abyss. Now Buck was uppermost; again Lynch, by some clever trick, tore himself from Stratton's hold to gain a momentary advantage.
+
+Like one meshed in the thralls of some hateful nightmare, the girl crouched against her horse, her face so still and white and ghastly that it might well have been some clever sculptor's bizarre conception of "Horror" done in marble. Only her eyes seemed to live. Wide, dilated, glittering with an unnatural light, they shifted constantly, following the progress of those two writhing bodies.
+
+Once, when Lynch's horse snorted and moved uneasily, she caught his bridle and quieted him with a soothing word, her voice so choked and hoarse that she scarcely knew it. Again, as the men rolled toward the outer side of the ledge and seemed for a moment almost to overhang the precipice, she gave a smothered cry and darted forward, moved by some wild impulse to fling her puny strength into the scale against the outlaw.
+
+But with a heave of his big body, Buck saved himself as he had done more than once before, and the struggle was resumed. Back and forth they fought, over and over around that narrow space, until Mary was filled with the dazed feeling that it had been going on for ever, that it would never end.
+
+But not for an instant did she cease to follow every tiny variation of the fray, and of a sudden she gave another cry. Gripped in a fierce embrace, the two men rolled toward the entrance to the ledge, and all at once Mary saw one of Lynch's hands close over and instantly seize the revolver Buck had dropped there.
+
+Instantly she darted forward and tried to wrest it from his grasp. Finding his strength too great, she straightened swiftly and lifting one foot, brought her riding boot down fiercely with all her strength on Lynch's hand. With a smothered grunt his fingers laxed, and she caught up the weapon and stepped quickly back, wondering, if Lynch came uppermost, whether she would dare to try to shoot him.
+
+No scruples now deterred her. These had vanished utterly, and with them fear, nervousness, fatigue, and every thought of self. For the moment she was like the primitive savage, willing to do anything on earth to save--her man! But so closely were the two men entwined that she was afraid if she shot at Lynch the bullet might injure Buck.
+
+Once more the fight veered close to the precipice. Lynch was again uppermost; and, whether by his greater strength, or from some injury Buck had sustained against the rocks, the girl was seized by a horrible conviction that he had the upper hand. Knees gripping Stratton about the body, hands circling his throat, Lynch, apparently oblivious to the blows rained on his chest and neck, was slowly but surely forcing his opponent over the ragged margin of the ledge. It was at this instant that the frantic girl discovered that her weapon had suffered some damage when it fell and was quite useless.
+
+Already Buck's head overhung the precipice, his face a dark, strangled red. Flinging the revolver from her, Mary rushed forward and began to beat Lynch wildly with her small, clenched fists.
+
+But she might as effectually have tried to move a rooted tree, and with a strangled cry, she wound her fingers in his coarse black hair and strove with all her strength to drag Lynch back.

@@ -1,0 +1,122 @@
+---
+title: "Chapter 6 - Captain And Crew"
+weight: 6
+aliases:
+  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-06.html"
+---
+
+When the elder Landon received a report from the principal of the military school on the Hudson to the effect that Alvin led all his classmates in their studies and had not once been brought under discipline, he was glad to fulfil the promise made months before, and bought him a handsome motor launch, the selection of which was left to the youth himself. The craft was shipped to Portland, Maine, there set afloat in the capacious bay and sped northeastward for forty miles or so, to the bungalow which the banker had erected a year before on Southport Island. The retreat was to be used by him and his family as a restful refuge from the feverish work which kept him in New York most of the year, with occasional flying trips to the great cities in the West or as far as the Pacific coast.
+
+One condition the parent insisted upon: Alvin was not to run the launch alone until an expert pronounced him qualified to do so. Thus it was that when the boat headed up Casco Bay, Captain Abe Daboll, from the factory, was aboard and directed things. He had overseen the construction of the launch and knew all about it from stem to stern. He was there under engagement to deliver it to the bungalow, or rather as near as he could approach the building, and to remain and instruct Alvin in every point necessary for him to know.
+
+Several facts joined to make the youth an apt pupil. He was naturally bright and was intensely interested in all that related to motor boats. While awaiting the completion of his launch, he read and studied many catalogues, circulars and books relating to such craft, and rode in a number. He asked questions and studied the working of the machinery and handling of the launch until his instructor looked at him in wonderment.
+
+"I never saw your equal," he said admiringly; "by and by you will be answering *my* questions and telling *me* how to run things."
+
+The smiling youth knew this was exaggeration, for something new seemed to be turning up continually, and there were turns where he thought he knew the way, only to find when put to the test that he was totally ignorant. But as I said, he learned fast and after a week's stay at the home of Mr. Landon, during every day of which—excepting Sunday—the two went on a cruise with Alvin at the helm, the man said that nothing more remained for him to show his pupil. This remark followed a stormy day when the launch went far south beyond Damariscove Island and was caught in a rough sea.
+
+"It was the real test," said the expert to the banker. "I never raised my hand or made a suggestion when we were plunging through the big seas, for neither was necessary. You needn't be afraid to trust yourself with him anywhere and in any weather."
+
+Now that I am through with my rather lengthy, but perhaps necessary introduction, let us proceed with the story I have set out to tell.
+
+On the morning following the battle of Alvin with his assailants, and his pleasing meeting with Mike Murphy, the youth called at the home of the Irish lad, carrying in his hand a yachting cap in addition to the one he wore on his own head. Across the front were the gilt letters *Deerfoot*.
+
+"I bought an extra one when I had my suit made," he explained, "and it looks to me as if it will fit you. A straw hat isn't handy to wear when sailing, even though you may loop the string around its band into your button hole. If the season was not so far along, I should order a yachting suit for you, Mike. You know a mate ought to be in uniform. But we shall have to wait till next summer."
+
+The grinning lad gingerly took the white cap in hand, turned it about and then pulled it over his crown. He was in front of his own home, and his father as he smoked his pipe looked on, the mother being out of sight within the house. The headgear fitted perfectly.
+
+"It's a pity to waste such fine wear on the hid of so ugly looking a spalpeen," remarked the father; "in trooth it ill becomes him."
+
+"How can ye have the heart to blame me, dad, that I was born wid such a close resimblance to yersilf that if we was the same age mither couldn't till us apart?"
+
+The parent was about to reply to this personal remark, but ignored his offspring and spoke to Alvin.
+
+"Ye have a foine day for a sail, Captain."
+
+"It is perfect."
+
+"And Chister Haynes goes wid yes?"
+
+"We are partners all the way through and he's expecting me."
+
+"The sicond mate hasn't the honor of an acquaintance with the first mate, but it won't take us long to larn aich ither's ways," said Mike, bubbling over with high spirits and the promise of a day of rare enjoyment. "The mate hasn't the right to make suggistions to the captain, but if he had he would venture to obsarve that he is wasting vallyble time talking wid a gentleman who can't tell a gasoline launch from a lobster pot⸺"
+
+"Be the same token he can till a lobster when he sees him," exclaimed the parent in pretended wrath, making a dive for his son, who eluded him by darting into the highway. Alvin waved a good-by to Pat and the youths hurried away, anxious to be out on the water.
+
+While following the road toward the home of Chester Haynes, Mike took off his cap and admiringly surveyed it. He noted the patent leather visor, the gilt buttons to which the chin strap was attached, and then spelled out the name on the front.
+
+"I 'spose that is what your boat is called, Captain?" he remarked inquiringly.
+
+"Yes; you know it's the fashion for sailors on a man-of-war thus to show the name of the ship to which they belong."
+
+"But why didn't the sign painter git the word roight?"
+
+"What do you mean, Mike? Isn't that the correct way to spell '*Deerfoot*'?"
+
+"I 'spose the first part might go, as me uncle obsarved whin the front of his shanty fell down, but the rear is wrong."
+
+"You mean 'foot.' What is wrong about it?"
+
+"The same should be 'fut': that's the way we spell it in Ireland."
+
+"We have a different method here," gravely remarked Alvin.
+
+"And if I may ask, Captain, where did you git the name from?"
+
+"Have you ever read about Deerfoot the Shawanoe? He was such a wonderful young Indian that I guess he never lived. But Chester and I became fond of him, and when Chester thought it would be a good idea to name the boat for him I was glad to do so."
+
+"Deerfut the Shenanigan," repeated Mike. "Where can I maat the gintleman?"
+
+"Oh, he's been dead these many years,—long before you or I was born."
+
+"Wurrah, wurrah, what a pity!" and Mike sighed as if from regret. "Are you sure that isn't him that's coming up the road?"
+
+A youth of about the age of Alvin, but of lighter build, and dressed like him in yachting costume, came into sight around a slight bend in the highway.
+
+"That's Chester; he's so anxious to take advantage of this beautiful day that he has come to meet us, though he might have used the boat for part of the way since he is well able to handle it."
+
+A few minutes later Chester and Mike were introduced. No one could help being pleased with the good-natured Irish youth, and the two warmly shook hands.
+
+"Mike did me such a fine service last night that I must tell you about it," remarked Alvin as the three walked southward.
+
+"Arrah, now, ye make me blush," protested Mike, "as I said whin they crowned me Queen of May in the owld counthry."
+
+Alvin, however, related the whole story and you may be sure it lost none in the narration. Mike insisted that the Captain had done a great deal more than he to bring about a glorious victory.
+
+"I believe every word Alvin has told me," was the comment of Chester; "and I am proud to have you with us as a friend."
+
+"Such being the case," added Alvin, "I have as a slight token of my appreciation, made Mike my first mate, with you as second, and all three as the crew of the *Deerfoot*."
+
+"There couldn't be a finer appointment," assented Chester. "I suppose, Mate Murphy, you know all about sailing a boat?"
+
+"I larned the trade in the owld counthry, by sailing me mither's old shoe in a tub of water; I 'spose the same is all that is nicessary."
+
+"That is sufficient, but," and the manner of Chester was grave, "you two make light of what is a pretty serious matter. That attack upon you was a crime that ought to be punished."
+
+"I'm thinking it *has* been," said Mike; "I belave the rapscallions are of the same mind."
+
+"No doubt they meant to rob you."
+
+"And would have succeeded but for Mike. We never saw them before, have no idea who they are, or how they came to be in this part of Maine, nor where they have gone."
+
+"Would you know either if you met him by day?"
+
+"I am not sure, though the moonlight gave me a pretty fair view. It wasn't a time for a calm inspection."
+
+"I'm sure I would know the chap that I had the run in wid," said Mike.
+
+"How?"
+
+"By his black eye and smashed nose."
+
+"They might help. They were dressed well, but I can't understand what caused them to visit Southport and to lie in wait for me."
+
+"Have there been any burglaries or robberies in the neighborhood?"
+
+"None, so far as I have heard. You know there have been a number of post office robberies among the towns to the north, but it can't be that those two fellows have had anything to do with them."
+
+"Probably not, and yet it is not impossible. I often wonder why there are not more crimes of that kind at the seaside and mountain resorts, where there are so many opportunities offered. The couple you ran against may belong to some gang who have decided to change their field of operations."
+
+"If so we shall soon hear of them again."
+
+"Arrah, now, if we could only maat them agin!" sighed the wistful Mike. "It would make me young once more."

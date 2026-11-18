@@ -1,0 +1,44 @@
+---
+title: "Part 3 - Chapter 6"
+weight: 37
+aliases:
+  - "/authors/cather-willa/song-of-the-lark/part-03-chapter-06.html"
+---
+
+“THEA,” said Fred Ottenburg one drizzly afternoon in April, while they sat waiting for their tea at a restaurant in the Pullman Building, overlooking the lake, “what are you going to do this summer?”
+
+“I don't know. Work, I suppose.”
+
+“With Bowers, you mean? Even Bowers goes fishing for a month. Chicago's no place to work, in the summer. Haven't you made any plans?”
+
+Thea shrugged her shoulders. “No use having any plans when you haven't any money. They are unbecoming.”
+
+“Aren't you going home?”
+
+She shook her head. “No. It won't be comfortable there till I've got something to show for myself. I'm not getting on at all, you know. This year has been mostly wasted.”
+
+“You're stale; that's what's the matter with you. And just now you're dead tired. You'll talk more rationally after you've had some tea. Rest your throat until it comes.” They were sitting by a window. As Ottenburg looked at her in the gray light, he remembered what Mrs. Nathanmeyer had said about the Swedish face “breaking early.” Thea was as gray as the weather. Her skin looked sick. Her hair, too, though on a damp day it curled charmingly about her face, looked pale.
+
+Fred beckoned the waiter and increased his order for food. Thea did not hear him. She was staring out of the window, down at the roof of the Art Institute and the green lions, dripping in the rain. The lake was all rolling mist, with a soft shimmer of robin's-egg blue in the gray. A lumber boat, with two very tall masts, was emerging gaunt and black out of the fog. When the tea came Thea ate hungrily, and Fred watched her. He thought her eyes became a little less bleak. The kettle sang cheerfully over the spirit lamp, and she seemed to concentrate her attention upon that pleasant sound. She kept looking toward it listlessly and indulgently, in a way that gave him a realization of her loneliness. Fred lit a cigarette and smoked thoughtfully. He and Thea were alone in the quiet, dusky room full of white tables. In those days Chicago people never stopped for tea. “Come,” he said at last, “what would you do this summer, if you could do whatever you wished?”
+
+“I'd go a long way from here! West, I think. Maybe I could get some of my spring back. All this cold, cloudy weather,”--she looked out at the lake and shivered,--“I don't know, it does things to me,” she ended abruptly.
+
+Fred nodded. “I know. You've been going down ever since you had tonsilitis. I've seen it. What you need is to sit in the sun and bake for three months. You've got the right idea. I remember once when we were having dinner somewhere you kept asking me about the Cliff-Dweller ruins. Do they still interest you?”
+
+“Of course they do. I've always wanted to go down there--long before I ever got in for this.”
+
+“I don't think I told you, but my father owns a whole canyon full of Cliff-Dweller ruins. He has a big worthless ranch down in Arizona, near a Navajo reservation, and there's a canyon on the place they call Panther Canyon, chock full of that sort of thing. I often go down there to hunt. Henry Biltmer and his wife live there and keep a tidy place. He's an old German who worked in the brewery until he lost his health. Now he runs a few cattle. Henry likes to do me a favor. I've done a few for him.” Fred drowned his cigarette in his saucer and studied Thea's expression, which was wistful and intent, envious and admiring. He continued with satisfaction: “If you went down there and stayed with them for two or three months, they wouldn't let you pay anything. I might send Henry a new gun, but even I couldn't offer him money for putting up a friend of mine. I'll get you transportation. It would make a new girl of you. Let me write to Henry, and you pack your trunk. That's all that's necessary. No red tape about it. What do you say, Thea?”
+
+She bit her lip, and sighed as if she were waking up.
+
+Fred crumpled his napkin impatiently. “Well, isn't it easy enough?”
+
+“That's the trouble; it's TOO easy. Doesn't sound probable. I'm not used to getting things for nothing.”
+
+Ottenburg laughed. “Oh, if that's all, I'll show you how to begin. You won't get this for nothing, quite. I'll ask you to let me stop off and see you on my way to California. Perhaps by that time you will be glad to see me. Better let me break the news to Bowers. I can manage him. He needs a little transportation himself now and then. You must get corduroy riding-things and leather leggings. There are a few snakes about. Why do you keep frowning?”
+
+“Well, I don't exactly see why you take the trouble. What do you get out of it? You haven't liked me so well the last two or three weeks.”
+
+Fred dropped his third cigarette and looked at his watch. “If you don't see that, it's because you need a tonic. I'll show you what I'll get out of it. Now I'm going to get a cab and take you home. You are too tired to walk a step. You'd better get to bed as soon as you get there. Of course, I don't like you so well when you're half anaesthetized all the time. What have you been doing to yourself?”
+
+Thea rose. “I don't know. Being bored eats the heart out of me, I guess.” She walked meekly in front of him to the elevator. Fred noticed for the hundredth time how vehemently her body proclaimed her state of feeling. He remembered how remarkably brilliant and beautiful she had been when she sang at Mrs. Nathanmeyer's: flushed and gleaming, round and supple, something that couldn't be dimmed or downed. And now she seemed a moving figure of discouragement. The very waiters glanced at her apprehensively. It was not that she made a fuss, but her back was most extraordinarily vocal. One never needed to see her face to know what she was full of that day. Yet she was certainly not mercurial. Her flesh seemed to take a mood and to “set,” like plaster. As he put her into the cab, Fred reflected once more that he “gave her up.” He would attack her when his lance was brighter.

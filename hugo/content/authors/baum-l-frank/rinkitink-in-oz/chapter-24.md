@@ -1,0 +1,90 @@
+---
+title: "Chapter 24"
+weight: 25
+aliases:
+  - "/authors/baum-l-frank/rinkitink-in-oz/chapter-24.html"
+---
+
+One morning, just as the royal party was finishing breakfast, a servant came running to say that a great fleet of boats was approaching the island from the south. King Kitticut sprang up at once, in great alarm, for he had much cause to fear strange boats. The others quickly followed him to the shore to see what invasion might be coming upon them.
+
+Inga was there with the first, and Nikobob and Zella soon joined the watchers. And presently, while all were gazing eagerly at the approaching fleet, King Rinkitink suddenly cried out:
+
+"Get your pearls, Prince Inga -- get them quick!"
+
+"Are these our enemies, then?" asked the boy, looking with surprise upon the fat little King, who had begun to tremble violently.
+
+"They are my people of Gilgad!" answered Rinkitink, wiping a tear from his eye. "I recognize my royal standards flying from the boats. So, please, dear Inga, get out your pearls to protect me!"
+
+"What can you fear at the hands of your own subjects?" asked Kitticut, astonished.
+
+But before his frightened guest could answer the question Prince Bobo, who was standing beside his friend, gave an amused laugh and said:
+
+"You are caught at last, dear Rinkitink. Your people will take you home again and oblige you to reign as King."
+
+Rinkitink groaned aloud and clasped his hands together with a gesture of despair, an attitude so comical that the others could scarcely forbear laughing.
+
+But now the boats were landing upon the beach. They were fifty in number, beautifully decorated and upholstered and rowed by men clad in the gay uniforms of the King of Gilgad. One splended boat had a throne of gold in the center, over which was draped the King's royal robe of purple velvet, embroidered with gold buttercups.
+
+Rinkitink shuddered when he saw this throne; but now a tall man, handsomely dressed, approached and knelt upon the grass before his King, while all the other occupants of the boats shouted joyfully and waved their plumed hats in the air.
+
+"Thanks to our good fortune," said the man who kneeled, "we have found Your Majesty at last!"
+
+"Pinkerbloo," answered Rinkitink sternly, "I must have you hanged, for thus finding me against my will."
+
+"You think so now, Your Majesty, but you will never do it," returned Pinkerbloo, rising and kissing the King's hand.
+
+"Why won't I?" asked Rinkitink.
+
+"Because you are much too tender-hearted, Your Majesty."
+
+"It may be -- it may be," agreed Rinkitink, sadly. "It is one of my greatest failings. But what chance brought you here, my Lord Pinkerbloo?"
+
+"We have searched for you everywhere, sire, and all the people of Gilgad have been in despair since you so mysteriously disappeared. We could not appoint a new King, because we did not know but that you still lived; so we set out to find you, dead or alive. After visiting many islands of the Nonestic Ocean we at last thought of Pingaree, from where come the precious pearls; and now our faithful quest has been rewarded."
+
+"And what now?" asked Rinkitink.
+
+"Now, Your Majesty, you must come home with us, like a good and dutiful King, and rule over your people," declared the man in a firm voice.
+
+"I will not."
+
+"But you must -- begging Your Majesty's pardon for the contradiction."
+
+"Kitticut," cried poor Rinkitink, "you must save me from being captured by these, my subjects. What! must I return to Gilgad and be forced to reign in splendid state when I much prefer to eat and sleep and sing in my own quiet way? They will make me sit in a throne three hours a day and listen to dry and tedious affairs of state; and I must stand up for hours at the court receptions, till I get corns on my heels; and forever must I listen to tiresome speeches and endless petitions and complaints!"
+
+"But someone must do this, Your Majesty," said Pinkerbloo respectfully, "and since you were born to be our King you cannot escape your duty."
+
+"'Tis a horrid fate!" moaned Rinkitink. "I would die willingly, rather than be a King -- if it did not hurt so terribly to die."
+
+"You will find it much more comfortable to reign than to die, although I fully appreciate Your Majesty's difficult position and am truly sorry for you," said Pinkerbloo.
+
+King Kitticut had listened to this conversation thoughtfully, so now he said to his friend:
+
+"The man is right, dear Rinkitink. It is your duty to reign, since fate has made you a King, and I see no honorable escape for you. I shall grieve to lose your companionship, but I feel the separation cannot be avoided."
+
+Rinkitink sighed.
+
+"Then," said he, turning to Lord Pinkerbloo, "in three days I will depart with you for Gilgad; but during those three days I propose to feast and make merry with my good friend King Kitticut."
+
+Then all the people of Gilgad shouted with delight and eagerly scrambled ashore to take their part in the festival.
+
+Those three days were long remembered in Pingaree, for never -- before nor since -- has such feasting and jollity been known upon that island. Rinkitink made the most of his time and everyone laughed and sang with him by day and by night.
+
+Then, at last, the hour of parting arrived and the King of Gilgad and Ruler of the Dominion of Rinkitink was escorted by a grand procession to his boat and seated upon his golden throne. The rowers of the fifty boats paused, with their glittering oars pointed into the air like gigantic uplifted sabres, while the people of Pingaree -- men, women and children -- stood upon the shore shouting a royal farewell to the jolly King.
+
+Then came a sudden hush, while Rinkitink stood up and, with a bow to those assembled to witness his departure, sang the following song, which he had just composed for the occasion.
+
+"Farewell, dear Isle of Pingaree -- The fairest land in all the sea! No living mortals, kings or churls, Would scorn to wear thy precious pearls.
+
+"King Kitticut, 'tis with regret I'm forced to say farewell; and yet Abroad no longer can I roam When fifty boats would drag me home.
+
+"Good-bye, my Prince of Pingaree; A noble King some time you'll be And long and wisely may you reign And never face a foe again!"
+
+They cheered him from the shore; they cheered him from the boats; and then all the oars of the fifty boats swept downward with a single motion and dipped their blades into the purple-hued waters of the Nonestic Ocean.
+
+As the boats shot swiftly over the ripples of the sea Rinkitink turned to Prince Bobo, who had decided not to desert his former master and his present friend, and asked anxiously:
+
+"How did you like that song, Bilbil -- I mean Bobo? Is it a masterpiece, do you think?"
+
+And Bobo replied with a smile:
+
+"Like all your songs, dear Rinkitink, the sentiment far excels the poetry."
